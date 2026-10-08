@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-08T00:45:15.660Z
+Generated: 2026-10-08T02:02:20.055Z
 
 Users: 707
 
@@ -19,10 +19,10 @@ Users: 707
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 3517 |
 | 12 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3178 |
 | 13 | [D1lsh0d](https://github.com/D1lsh0d) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3061 |
-| 14 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 2856 |
-| 15 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Kavsar Academy |  | Tajikistan | 2665 |
-| 16 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2583 |
-| 17 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2566 |
+| 14 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2941 |
+| 15 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 2856 |
+| 16 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Kavsar Academy |  | Tajikistan | 2665 |
+| 17 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2583 |
 | 18 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2555 |
 | 19 | [zafardeveloper](https://github.com/zafardeveloper) | Zafar Bobojonov |  |  | Tajikistan | 2503 |
 | 20 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov |  |  | Dushanbe | 2478 |

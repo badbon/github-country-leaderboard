@@ -1,8 +1,8 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-08T00:56:34.214Z
+Generated: 2026-10-08T02:10:15.516Z
 
-Users: 1194
+Users: 1193
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 1194
 | 6 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 1107 |
 | 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 1001 |
 | 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 845 |
-| 9 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
-| 10 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
-| 11 | [klajdm](https://github.com/klajdm) | Klajdi Murataj |  |  | Tirana, Albania | 692 |
-| 12 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 664 |
-| 13 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 662 |
-| 14 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
-| 15 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
-| 16 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
-| 17 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu |  |  | Tirana, Albania | 549 |
-| 18 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
-| 19 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | @jxsoft |  | Tirana, Albania | 496 |
-| 20 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari |  |  | Tirana, Albania | 452 |
+| 9 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 744 |
+| 10 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
+| 11 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
+| 12 | [klajdm](https://github.com/klajdm) | Klajdi Murataj |  |  | Tirana, Albania | 692 |
+| 13 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 664 |
+| 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 662 |
+| 15 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
+| 16 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
+| 17 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
+| 18 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu |  |  | Tirana, Albania | 549 |
+| 19 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
+| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | @jxsoft |  | Tirana, Albania | 496 |

@@ -1,6 +1,6 @@
 # Followers - Gabon
 
-Generated: 2026-10-08T01:16:46.036Z
+Generated: 2026-10-08T02:35:00.022Z
 
 Users: 315
 
@@ -8,7 +8,7 @@ Users: 315
 |---:|---|---|---|---|---|---:|
 | 1 | [yvan-ngoahitsi](https://github.com/yvan-ngoahitsi) | Yvan A. Ngoahitsi | Studios Enigma | yvan_ngoahitsi | Gabon | 121 |
 | 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng |  |  | Gabon | 107 |
-| 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR |  | ephraimseddor | Libreville, Lomé | 80 |
+| 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR |  | ephraimseddor | Libreville, Lomé | 85 |
 | 4 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | ANINF | DimitriOngoua | Libreville, Gabon | 65 |
 | 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | @loona-inc  | BonachyLauriel | Gabon | 63 |
 | 6 | [Djomab](https://github.com/Djomab) | Djogona Mahamat |  | DjogonaR | Gabon | 49 |
@@ -25,4 +25,4 @@ Users: 315
 | 17 | [hamiltondarryl](https://github.com/hamiltondarryl) | MAHANGA BOULINGUI Hamilton Darryl |  | hamiltonlezama2 | Libreville, Gabon | 27 |
 | 18 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong |  |  | Libreville, Gabon | 26 |
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | NOUN CONCEPT |  | Libreville, Gabon | 22 |
-| 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Mood | aristidemebodo | Libreville | 22 |
+| 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Mood | aristidemebodo | Libreville | 20 |

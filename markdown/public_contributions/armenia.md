@@ -1,6 +1,6 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-08T00:58:24.099Z
+Generated: 2026-10-08T02:14:07.880Z
 
 Users: 4046
 
@@ -15,14 +15,14 @@ Users: 4046
 | 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2589 |
 | 8 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
 | 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2475 |
-| 10 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2013 |
-| 11 | [h3l10w0r1d](https://github.com/h3l10w0r1d) | Armen Ghazaryan | @Voveron |  | Yerevan, Armenia | 1750 |
-| 12 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
-| 13 | [asiryan](https://github.com/asiryan) | Valery Asiryan |  |  | Armenia, Yerevan | 1577 |
-| 14 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
-| 15 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1513 |
-| 16 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
-| 17 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |
-| 18 | [armanist](https://github.com/armanist) | ArmaX |  |  | Armenia | 1424 |
-| 19 | [Grantim](https://github.com/Grantim) | Grant Karapetyan | MeshInspector |  | Yerevan | 1327 |
-| 20 | [Witali](https://github.com/Witali) | Vitaly Rudik |  |  | Yerevan | 1299 |
+| 10 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
+| 11 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2013 |
+| 12 | [h3l10w0r1d](https://github.com/h3l10w0r1d) | Armen Ghazaryan | @Voveron |  | Yerevan, Armenia | 1750 |
+| 13 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
+| 14 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
+| 15 | [asiryan](https://github.com/asiryan) | Valery Asiryan |  |  | Armenia, Yerevan | 1577 |
+| 16 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
+| 17 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1513 |
+| 18 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
+| 19 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |
+| 20 | [armanist](https://github.com/armanist) | ArmaX |  |  | Armenia | 1424 |

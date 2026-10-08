@@ -1,6 +1,6 @@
 # Public Contributions - Sweden
 
-Generated: 2026-10-08T01:37:51.448Z
+Generated: 2026-10-08T02:01:08.257Z
 
 Users: 39020
 
@@ -20,9 +20,9 @@ Users: 39020
 | 12 | [Zoooooomies](https://github.com/Zoooooomies) | Edd Schauman-Haigh | @odevo-dev |  | Stockholm, Sweden | 11278 |
 | 13 | [moritzmyrz](https://github.com/moritzmyrz) | Moritz André Myrseth | @devify-no | moritzmyrz | Stockholm, Sweden | 10946 |
 | 14 | [SzeChunYiu](https://github.com/SzeChunYiu) | Sze Chun YIU | Fysikum, Stockholm University |  | Stockholm, Sweden | 10671 |
-| 15 | [niclaslindstedt](https://github.com/niclaslindstedt) | Niclas Lindstedt |  |  | Stockholm | 10318 |
-| 16 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Asynkron AB | rogeralsing | Stockholm, Sweden | 10283 |
-| 17 | [raptor4mc](https://github.com/raptor4mc) | Raptor4 | MPS |  | Sweden | 10152 |
+| 15 | [raptor4mc](https://github.com/raptor4mc) | Raptor4 | MPS |  | Sweden | 10341 |
+| 16 | [niclaslindstedt](https://github.com/niclaslindstedt) | Niclas Lindstedt |  |  | Stockholm | 10318 |
+| 17 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Asynkron AB | rogeralsing | Stockholm, Sweden | 10283 |
 | 18 | [marinasundstrom](https://github.com/marinasundstrom) | Marina Sundström |  |  | Malmö, Sweden | 9740 |
 | 19 | [ledgernode](https://github.com/ledgernode) | trace:original | Enigio Time AB |  | Stockholm | 9702 |
 | 20 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Coder Society |  | Stockholm, Sweden | 9556 |

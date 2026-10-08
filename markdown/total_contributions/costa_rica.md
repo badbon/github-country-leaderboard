@@ -1,14 +1,14 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-08T01:08:41.860Z
+Generated: 2026-10-08T02:25:24.787Z
 
 Users: 5645
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  |  |  | costa rica | 19105 |
-| 2 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Vector Costa Rica |  | Costa Rica | 17750 |
-| 3 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES |  | official_taches | Costa Rica | 17041 |
+| 1 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES |  | official_taches | Costa Rica | 27835 |
+| 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  |  |  | costa rica | 19105 |
+| 3 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Vector Costa Rica |  | Costa Rica | 17750 |
 | 4 | [jourlez](https://github.com/jourlez) | Josué Rojas |  |  | Jacó, Costa Rica | 12961 |
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Aligned |  | Costa Rica | 11951 |
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | MUSCLE |  | Costa Rica | 9534 |

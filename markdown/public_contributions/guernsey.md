@@ -1,6 +1,6 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-08T01:20:06.950Z
+Generated: 2026-10-08T02:38:52.132Z
 
 Users: 45
 
@@ -11,11 +11,11 @@ Users: 45
 | 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 77 |
 | 4 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 45 |
 | 5 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 41 |
-| 6 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 22 |
-| 7 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 21 |
+| 6 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 21 |
+| 7 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 19 |
 | 8 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
-| 9 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 12 |
-| 10 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
+| 9 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
+| 10 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |
 | 11 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |
 | 12 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 4 |
 | 13 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |

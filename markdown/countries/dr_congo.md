@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 702
+Indexed users: 700
 
 | Leaderboard | Link |
 |---|---|
@@ -26,11 +26,11 @@ Indexed users: 702
 | 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 4,690 |
 | 13 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,647 |
 | 14 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,563 |
-| 15 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,324 |
-| 16 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 4,320 |
-| 17 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,014 |
-| 18 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 3,906 |
-| 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 3,873 |
+| 15 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,531 |
+| 16 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,324 |
+| 17 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 4,320 |
+| 18 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,014 |
+| 19 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 3,906 |
 | 20 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 3,870 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 702
 | 19 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 71 |
 | 20 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 
-Generated: 2026-10-08T01:11:47.139Z
+Generated: 2026-10-08T02:30:30.244Z

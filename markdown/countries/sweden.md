@@ -51,9 +51,9 @@ Indexed users: 39,020
 | 12 | [Zoooooomies](https://github.com/Zoooooomies) | Edd Schauman-Haigh | Stockholm, Sweden | 11,278 |
 | 13 | [moritzmyrz](https://github.com/moritzmyrz) | Moritz André Myrseth | Stockholm, Sweden | 10,946 |
 | 14 | [SzeChunYiu](https://github.com/SzeChunYiu) | Sze Chun YIU | Stockholm, Sweden | 10,671 |
-| 15 | [niclaslindstedt](https://github.com/niclaslindstedt) | Niclas Lindstedt | Stockholm | 10,318 |
-| 16 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Stockholm, Sweden | 10,283 |
-| 17 | [raptor4mc](https://github.com/raptor4mc) | Raptor4 | Sweden | 10,152 |
+| 15 | [raptor4mc](https://github.com/raptor4mc) | Raptor4 | Sweden | 10,341 |
+| 16 | [niclaslindstedt](https://github.com/niclaslindstedt) | Niclas Lindstedt | Stockholm | 10,318 |
+| 17 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Stockholm, Sweden | 10,283 |
 | 18 | [marinasundstrom](https://github.com/marinasundstrom) | Marina Sundström | Malmö, Sweden | 9,740 |
 | 19 | [ledgernode](https://github.com/ledgernode) | trace:original | Stockholm | 9,702 |
 | 20 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Stockholm, Sweden | 9,556 |
@@ -83,4 +83,4 @@ Indexed users: 39,020
 | 19 | [tobiasahlin](https://github.com/tobiasahlin) | Tobias Ahlin | Sweden | 2,667 |
 | 20 | [sonyxperiadev](https://github.com/sonyxperiadev) | Sony – Developer World for Xperia | Sweden | 2,664 |
 
-Generated: 2026-10-08T01:37:51.448Z
+Generated: 2026-10-08T02:01:08.257Z

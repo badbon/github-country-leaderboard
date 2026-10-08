@@ -14,7 +14,7 @@ Indexed users: 30
 |---:|---|---|---|---:|
 | 1 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 233 |
 | 2 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 199 |
-| 3 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 155 |
+| 3 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 152 |
 | 4 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski | Vatican | 147 |
 | 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 70 |
 | 6 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu | Vatican | 42 |
@@ -83,4 +83,4 @@ Indexed users: 30
 | 19 | [meereuk](https://github.com/meereuk) | KKUL | Vatican City | 2 |
 | 20 | [shapihelps-meta](https://github.com/shapihelps-meta) | Shapi | Vatican | 2 |
 
-Generated: 2026-10-08T00:54:43.690Z
+Generated: 2026-10-08T02:07:05.641Z

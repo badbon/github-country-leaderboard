@@ -1,6 +1,6 @@
 # Turkmenistan
 
-Indexed users: 499
+Indexed users: 498
 
 | Leaderboard | Link |
 |---|---|
@@ -40,7 +40,7 @@ Indexed users: 499
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 16,161 |
 | 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 1,996 |
-| 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,804 |
+| 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,746 |
 | 5 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,029 |
 | 6 | [Jasurbek99](https://github.com/Jasurbek99) | Jasurbek Ashyrbayev | Turkmenistan, Ashgabat | 836 |
 | 7 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Turkmenistan | 730 |
@@ -83,4 +83,4 @@ Indexed users: 499
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-08T00:50:16.358Z
+Generated: 2026-10-08T02:04:50.391Z

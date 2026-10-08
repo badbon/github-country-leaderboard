@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-08T01:25:39.832Z
+Generated: 2026-10-08T02:30:33.743Z
 
 Users: 4904
 
@@ -22,7 +22,7 @@ Users: 4904
 | 14 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1947 |
 | 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
 | 16 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
-| 17 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |
-| 18 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Independent Developer | fastsquatch | Cuenca, Ecuador | 1525 |
-| 19 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado |  | wachin_id | Ecuador, Manabí, Jipijapa | 1519 |
-| 20 | [demianguzman](https://github.com/demianguzman) | Robinson Damian Malliquinga Guzman | UTC |  | Ecuador | 1383 |
+| 17 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
+| 18 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |
+| 19 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Independent Developer | fastsquatch | Cuenca, Ecuador | 1525 |
+| 20 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado |  | wachin_id | Ecuador, Manabí, Jipijapa | 1519 |

@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 466
+Indexed users: 465
 
 | Leaderboard | Link |
 |---|---|
@@ -14,24 +14,24 @@ Indexed users: 466
 |---:|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,523 |
 | 2 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,094 |
-| 3 | [phanijsp](https://github.com/phanijsp) |  | Antarctica | 6,033 |
-| 4 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 4,886 |
-| 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,757 |
-| 6 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 4,699 |
-| 7 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
-| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,216 |
-| 9 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,135 |
-| 10 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 3,853 |
-| 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,840 |
-| 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,225 |
-| 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,006 |
-| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,827 |
+| 3 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 4,886 |
+| 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,757 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 4,699 |
+| 6 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
+| 7 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,216 |
+| 8 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,135 |
+| 9 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 3,853 |
+| 10 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,840 |
+| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,225 |
+| 12 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,006 |
+| 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,827 |
+| 14 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,704 |
 | 15 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,314 |
 | 16 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,202 |
 | 17 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,108 |
 | 18 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 1,997 |
 | 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,846 |
-| 20 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
+| 20 | [whutddk](https://github.com/whutddk) | Ruige Lee | Antarctica | 1,580 |
 
 ## Public Contributions
 
@@ -47,16 +47,16 @@ Indexed users: 466
 | 8 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,288 |
 | 9 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,137 |
 | 10 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
-| 11 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
-| 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
-| 13 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
-| 14 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
-| 15 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
-| 17 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
-| 18 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 436 |
-| 19 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 434 |
-| 20 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 410 |
+| 11 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 748 |
+| 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
+| 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
+| 14 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
+| 15 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
+| 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
+| 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 436 |
+| 20 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 434 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 466
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-08T00:58:15.937Z
+Generated: 2026-10-08T02:12:05.140Z

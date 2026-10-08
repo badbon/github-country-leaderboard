@@ -41,11 +41,11 @@ Indexed users: 5,446
 | 2 | [TVCTC](https://github.com/TVCTC) | Tomislav | Zagreb | 10,893 |
 | 3 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | Zagreb, Croatia | 8,073 |
 | 4 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,359 |
-| 5 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Croatia | 6,355 |
-| 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 5,346 |
-| 7 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 5,038 |
-| 8 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Zagreb | 4,748 |
-| 9 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 4,479 |
+| 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 5,346 |
+| 6 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic | Miami, Florida / Rijeka, Croatia | 5,038 |
+| 7 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Zagreb | 4,748 |
+| 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 4,479 |
+| 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Croatia | 4,225 |
 | 10 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 4,153 |
 | 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic | Croatia | 3,819 |
 | 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Zagreb/Trogir | 3,472 |
@@ -83,4 +83,4 @@ Indexed users: 5,446
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-08T01:09:46.487Z
+Generated: 2026-10-08T02:25:30.664Z

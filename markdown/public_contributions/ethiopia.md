@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-08T01:56:12.289Z
+Generated: 2026-10-08T02:31:53.189Z
 
 Users: 6707
 
@@ -19,7 +19,7 @@ Users: 6707
 | 11 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Novek ICT Solutions |  | Addis Ababa, Ethiopia | 2667 |
 | 12 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2523 |
 | 13 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
-| 14 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2407 |
+| 14 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
 | 15 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa University |  | Addis Ababa | 2396 |
 | 16 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
 | 17 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |

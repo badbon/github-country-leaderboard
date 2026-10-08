@@ -18,9 +18,9 @@ Indexed users: 255
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,248 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,202 |
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,067 |
-| 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,064 |
-| 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 864 |
-| 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 857 |
+| 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,049 |
+| 8 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 857 |
+| 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 855 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 618 |
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 612 |
 | 12 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 516 |
@@ -62,7 +62,7 @@ Indexed users: 255
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 182 |
+| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 179 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 113 |
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz | Brunei | 64 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 51 |
@@ -83,4 +83,4 @@ Indexed users: 255
 | 19 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 14 |
 | 20 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 
-Generated: 2026-10-08T01:03:36.672Z
+Generated: 2026-10-08T02:19:44.794Z

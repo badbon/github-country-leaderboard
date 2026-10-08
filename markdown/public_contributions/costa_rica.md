@@ -1,6 +1,6 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-08T01:08:41.860Z
+Generated: 2026-10-08T02:25:24.787Z
 
 Users: 5645
 
@@ -19,9 +19,9 @@ Users: 5645
 | 11 | [jetm](https://github.com/jetm) | Javier Tia | Peridio |  | Costa Rica | 2464 |
 | 12 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 2308 |
 | 13 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 2305 |
-| 14 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 2301 |
-| 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Universidad Nacional de Costa Rica |  | Costa Rica | 2263 |
-| 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | TEC |  | Costa Rica | 2028 |
+| 14 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Universidad Nacional de Costa Rica |  | Costa Rica | 2263 |
+| 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | TEC |  | Costa Rica | 2028 |
+| 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 1978 |
 | 17 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |
 | 18 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |
 | 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 1803 |

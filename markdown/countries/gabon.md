@@ -13,12 +13,12 @@ Indexed users: 315
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,998 |
-| 2 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 1,993 |
-| 3 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,936 |
-| 4 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,874 |
-| 5 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,280 |
-| 6 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,227 |
-| 7 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
+| 2 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,936 |
+| 3 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,874 |
+| 4 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,280 |
+| 5 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,227 |
+| 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
+| 7 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 982 |
 | 8 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 966 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 843 |
 | 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 723 |
@@ -28,18 +28,18 @@ Indexed users: 315
 | 14 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 503 |
 | 15 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 471 |
 | 16 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 447 |
-| 17 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 438 |
-| 18 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
-| 19 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 351 |
+| 17 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 442 |
+| 18 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 438 |
+| 19 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
 | 20 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 343 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 1,993 |
-| 2 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,410 |
-| 3 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
+| 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,410 |
+| 2 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
+| 3 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 982 |
 | 4 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 723 |
 | 5 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 447 |
 | 6 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 438 |
@@ -48,15 +48,15 @@ Indexed users: 315
 | 9 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 317 |
 | 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 303 |
 | 11 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 266 |
-| 12 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 233 |
-| 13 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 233 |
-| 14 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 229 |
-| 15 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 213 |
-| 16 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 171 |
-| 17 | [reasonknowledge](https://github.com/reasonknowledge) | NGOUBOUKOU Franck Hervé | Libreville-Gabon | 169 |
-| 18 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 163 |
-| 19 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
-| 20 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 148 |
+| 12 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 233 |
+| 13 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 229 |
+| 14 | [Lichtensteiner](https://github.com/Lichtensteiner) | Lichtensteiner Stawikowski | Libreville Gabon | 213 |
+| 15 | [lmlouis](https://github.com/lmlouis) | WORA SOUAMY Louis Martin  | Libreville, Gabon | 171 |
+| 16 | [reasonknowledge](https://github.com/reasonknowledge) | NGOUBOUKOU Franck Hervé | Libreville-Gabon | 169 |
+| 17 | [jennigs241](https://github.com/jennigs241) |  | Gabon | 163 |
+| 18 | [waly2020](https://github.com/waly2020) | waly le dev | Gabon (Libreville) | 154 |
+| 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 148 |
+| 20 | [NGOUBADJAMBO-Richard](https://github.com/NGOUBADJAMBO-Richard) | NGOUBADJAMBO Richard | Gabon - Libreville | 131 |
 
 ## Followers
 
@@ -64,7 +64,7 @@ Indexed users: 315
 |---:|---|---|---|---:|
 | 1 | [yvan-ngoahitsi](https://github.com/yvan-ngoahitsi) | Yvan A. Ngoahitsi | Gabon | 121 |
 | 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 107 |
-| 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 80 |
+| 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 85 |
 | 4 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 65 |
 | 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | Gabon | 63 |
 | 6 | [Djomab](https://github.com/Djomab) | Djogona Mahamat | Gabon | 49 |
@@ -81,6 +81,6 @@ Indexed users: 315
 | 17 | [hamiltondarryl](https://github.com/hamiltondarryl) | MAHANGA BOULINGUI Hamilton Darryl | Libreville, Gabon | 27 |
 | 18 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong | Libreville, Gabon | 26 |
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
-| 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 22 |
+| 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-08T01:16:46.036Z
+Generated: 2026-10-08T02:35:00.022Z

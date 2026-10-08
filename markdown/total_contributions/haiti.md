@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-08T01:21:40.333Z
+Generated: 2026-10-08T02:39:00.149Z
 
 Users: 338
 
@@ -8,8 +8,8 @@ Users: 338
 |---:|---|---|---|---|---|---:|
 | 1 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 5697 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4710 |
-| 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4546 |
-| 4 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 4545 |
+| 3 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 4545 |
+| 4 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4543 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3524 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 2407 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2354 |
@@ -20,7 +20,7 @@ Users: 338
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1756 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1601 |
 | 14 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1316 |
-| 15 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1079 |
+| 15 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1119 |
 | 16 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1043 |
 | 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 977 |
 | 18 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 926 |

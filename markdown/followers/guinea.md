@@ -1,14 +1,14 @@
 # Followers - Guinea
 
-Generated: 2026-10-08T01:20:29.440Z
+Generated: 2026-10-08T02:38:53.282Z
 
 Users: 265
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy |  | souleymanesy43 | Guinée, Conakry | 459 |
-| 2 | [evanxg852000](https://github.com/evanxg852000) | Evance Soumaoro | Evansofts | evanxg852000 | Conakry - Guinea | 89 |
-| 3 | [camara94](https://github.com/camara94) | Laby Damaro CAMARA | Star Dev Cloud Group | laby_damaro | Conakry, Guinée | 87 |
+| 2 | [camara94](https://github.com/camara94) | Laby Damaro CAMARA | Star Dev Cloud Group | laby_damaro | Conakry, Guinée | 87 |
+| 3 | [evanxg852000](https://github.com/evanxg852000) | Evance Soumaoro | Evansofts | evanxg852000 | Conakry - Guinea | 87 |
 | 4 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Software Engineer |  | Guinée, Conakry, GN | 78 |
 | 5 | [aradradev](https://github.com/aradradev) | Abdourahmane Jalloh | Full-Stack Developer | Abdoul_2023 | Conakry | 65 |
 | 6 | [sitatec](https://github.com/sitatec) | Sita Bérété | Dwino AI |  | Conakry, Guinea | 42 |

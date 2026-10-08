@@ -1,8 +1,8 @@
 # Followers - Rwanda
 
-Generated: 2026-10-08T01:49:54.570Z
+Generated: 2026-10-08T02:30:30.244Z
 
-Users: 3531
+Users: 3532
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

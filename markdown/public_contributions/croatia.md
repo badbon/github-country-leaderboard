@@ -1,6 +1,6 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-08T01:09:46.487Z
+Generated: 2026-10-08T02:25:30.664Z
 
 Users: 5446
 
@@ -10,11 +10,11 @@ Users: 5446
 | 2 | [TVCTC](https://github.com/TVCTC) | Tomislav |  |  | Zagreb | 10893 |
 | 3 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 8073 |
 | 4 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7359 |
-| 5 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Nastava |  | Croatia | 6355 |
-| 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 5346 |
-| 7 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 5038 |
-| 8 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Liferay Inc. |  | Zagreb | 4748 |
-| 9 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 4479 |
+| 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 5346 |
+| 6 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 5038 |
+| 7 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Liferay Inc. |  | Zagreb | 4748 |
+| 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 4479 |
+| 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Nastava |  | Croatia | 4225 |
 | 10 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 4153 |
 | 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic |  |  | Croatia | 3819 |
 | 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Xylon d.o.o |  | Zagreb/Trogir | 3472 |

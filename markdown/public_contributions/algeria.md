@@ -1,8 +1,8 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-08T00:56:37.237Z
+Generated: 2026-10-08T02:10:18.506Z
 
-Users: 5818
+Users: 5817
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 5818
 | 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | ObserveOne |  | Algeria | 1614 |
 | 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | CorpoSense |  | Algeria | 1551 |
 | 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Higher School of Computer Science and Digital Technologies ESTIN Béjaia |  | Algiers, Algeria | 1530 |
-| 17 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal |  |  | Algeria | 1390 |
-| 18 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 1378 |
-| 19 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane |  |  | Algeria | 1376 |
-| 20 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Make it Visual |  | Algeria | 1330 |
+| 17 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | University of Oum El Bouagui |  | Algeria | 1410 |
+| 18 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal |  |  | Algeria | 1390 |
+| 19 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 1378 |
+| 20 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane |  |  | Algeria | 1376 |

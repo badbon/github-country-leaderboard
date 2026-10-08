@@ -1,6 +1,6 @@
 # Followers - Ivory Coast
 
-Generated: 2026-10-08T01:25:34.908Z
+Generated: 2026-10-08T02:42:50.249Z
 
 Users: 487
 
@@ -19,10 +19,10 @@ Users: 487
 | 11 | [philemongloblehi](https://github.com/philemongloblehi) | PHILEMON GLOBLEHI |  | globlehi225 | Ivory Coast | 68 |
 | 12 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac |  | ShadracBodjui | Ivory Coast | 61 |
 | 13 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | WAZMINE | azinakou | Abidjan, Côte d'ivoire | 60 |
-| 14 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | Badoo |  | San Pedro, Côte d'Ivoire | 58 |
-| 15 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 57 |
+| 14 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 59 |
+| 15 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | Badoo |  | San Pedro, Côte d'Ivoire | 58 |
 | 16 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot |  | agnamc9 | Abidjan, Côte d'Ivoire | 55 |
 | 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Nascent Tech | hassanedao | Côte d'ivoire, Abidjan | 52 |
 | 18 | [ourystd](https://github.com/ourystd) | Oury Diallo |  |  | Abidjan, Côte d'Ivoire | 48 |
-| 19 | [stephsalou](https://github.com/stephsalou) | stephane salou |  |  | Abidjan , Côte D'Ivoire | 43 |
-| 20 | [k111ra](https://github.com/k111ra) | sidik slims | Tech.Artisan | sidikslims | Abidjan, Côte D'ivoire | 42 |
+| 19 | [k111ra](https://github.com/k111ra) | sidik slims | Tech.Artisan | sidikslims | Abidjan, Côte D'ivoire | 42 |
+| 20 | [stephsalou](https://github.com/stephsalou) | stephane salou |  |  | Abidjan , Côte D'Ivoire | 41 |

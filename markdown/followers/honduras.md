@@ -1,8 +1,8 @@
 # Followers - Honduras
 
-Generated: 2026-10-08T01:21:44.918Z
+Generated: 2026-10-08T02:40:40.237Z
 
-Users: 1267
+Users: 1266
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,7 +19,7 @@ Users: 1267
 | 11 | [carlosdarioio](https://github.com/carlosdarioio) | Carlos Dario Flores  | Programmer | carlosdarioio | San Pedro Sula, Honduras | 146 |
 | 12 | [hsabillon7](https://github.com/hsabillon7) | Héctor Sabillón | BairesDev | hector_helliel | Honduras | 136 |
 | 13 | [konkkeror](https://github.com/konkkeror) | Erick Marín |  |  | Honduras | 112 |
-| 14 | [isinicolle](https://github.com/isinicolle) | Isis Zapata Florentino | Full Stack Developer |  | Honduras | 108 |
+| 14 | [isinicolle](https://github.com/isinicolle) | Isis Zapata Florentino | Full Stack Developer |  | Honduras | 110 |
 | 15 | [StarSheriff2](https://github.com/StarSheriff2) | Arturo Alvarez | Full-stack Developer | ArturoAlvarezV | Honduras | 104 |
 | 16 | [aalvrz](https://github.com/aalvrz) | Andrés Álvarez | @systemsurveyor  |  | 🇭🇳 Honduras | 88 |
 | 17 | [AntonioCardenas](https://github.com/AntonioCardenas) | Antonio Cardenas |  | yeoudev | Honduras | 70 |

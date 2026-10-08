@@ -25,13 +25,13 @@ Indexed users: 5,621
 | 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
 | 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 8,580 |
 | 13 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
-| 14 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
-| 15 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
-| 16 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
-| 17 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
-| 18 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Montevideo, Uruguay | 6,632 |
-| 19 | [feconroses](https://github.com/feconroses) | Federico Pascual | Punta Ballena, Uruguay | 6,547 |
-| 20 | [maxtechera](https://github.com/maxtechera) | Max Techera | Montevideo, Uruguay | 6,405 |
+| 14 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
+| 15 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
+| 16 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
+| 17 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
+| 18 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
+| 19 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Montevideo, Uruguay | 6,632 |
+| 20 | [feconroses](https://github.com/feconroses) | Federico Pascual | Punta Ballena, Uruguay | 6,547 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,621
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-08T00:53:33.792Z
+Generated: 2026-10-08T02:06:42.444Z

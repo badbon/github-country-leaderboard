@@ -12,9 +12,9 @@ Indexed users: 5,645
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 19,105 |
-| 2 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Costa Rica | 17,750 |
-| 3 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 17,041 |
+| 1 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 27,835 |
+| 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 19,105 |
+| 3 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Costa Rica | 17,750 |
 | 4 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 12,961 |
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Costa Rica | 11,951 |
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,534 |
@@ -50,9 +50,9 @@ Indexed users: 5,645
 | 11 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
 | 12 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
 | 13 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
-| 14 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 2,301 |
-| 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,263 |
-| 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
+| 14 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,263 |
+| 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
+| 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
 | 17 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
 | 18 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
 | 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
@@ -63,7 +63,7 @@ Indexed users: 5,645
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Klerith](https://github.com/Klerith) | Fernando Herrera | Costa Rica | 15,410 |
-| 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 1,267 |
+| 2 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 1,274 |
 | 3 | [miguelestradam3](https://github.com/miguelestradam3) | Miguel Estrada | Costa Rica | 1,057 |
 | 4 | [jorneycr](https://github.com/jorneycr) | Jorney Lopez | Costa Rica | 794 |
 | 5 | [drawrowfly](https://github.com/drawrowfly) | Andrew Nord |  Costa Rica | 637 |
@@ -83,4 +83,4 @@ Indexed users: 5,645
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-08T01:08:41.860Z
+Generated: 2026-10-08T02:25:24.787Z

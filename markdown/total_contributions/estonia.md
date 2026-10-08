@@ -1,6 +1,6 @@
 # Total Contributions - Estonia
 
-Generated: 2026-10-08T01:13:26.102Z
+Generated: 2026-10-08T02:30:51.188Z
 
 Users: 4921
 
@@ -14,15 +14,15 @@ Users: 4921
 | 6 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | LEISSON OÜ |  | Tallinn, ESTONIA | 14008 |
 | 7 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Potamus |  | Tallinn | 13447 |
 | 8 | [kempu](https://github.com/kempu) | Klemens Arro |  | KlemensArro | Estonia | 12958 |
-| 9 | [tooming](https://github.com/tooming) | Martin Tooming | LHV |  | Tallinn | 12354 |
-| 10 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Enkronos OÜ |  | Estonia | 12330 |
-| 11 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe |  |  | Estonia | 12300 |
-| 12 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | ReSense Agency |  | Estonia | 12258 |
-| 13 | [paat](https://github.com/paat) | Andre Tšernikov | R-53 OÜ |  | Tallinn, Estonia | 11779 |
-| 14 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 11549 |
-| 15 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Taltech |  | Estonia | 11161 |
-| 16 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | jazzrabbit OÜ |  | Tallinn | 11074 |
-| 17 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla |  |  | Tallinn | 10790 |
-| 18 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Enthusiastic Data Management |  | Tallinn, Estonia | 10475 |
-| 19 | [Kypsis](https://github.com/Kypsis) | Harry Sild |  |  | Estonia | 10406 |
-| 20 | [Socialpranker](https://github.com/Socialpranker) | Ion |  |  | Tallinn, Estonia | 10228 |
+| 9 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco |  |  | Tallinn | 12368 |
+| 10 | [tooming](https://github.com/tooming) | Martin Tooming | LHV |  | Tallinn | 12354 |
+| 11 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Enkronos OÜ |  | Estonia | 12330 |
+| 12 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe |  |  | Estonia | 12300 |
+| 13 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | ReSense Agency |  | Estonia | 12258 |
+| 14 | [paat](https://github.com/paat) | Andre Tšernikov | R-53 OÜ |  | Tallinn, Estonia | 11779 |
+| 15 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 11549 |
+| 16 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Taltech |  | Estonia | 11161 |
+| 17 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | jazzrabbit OÜ |  | Tallinn | 11074 |
+| 18 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla |  |  | Tallinn | 10790 |
+| 19 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Enthusiastic Data Management |  | Tallinn, Estonia | 10475 |
+| 20 | [Kypsis](https://github.com/Kypsis) | Harry Sild |  |  | Estonia | 10406 |

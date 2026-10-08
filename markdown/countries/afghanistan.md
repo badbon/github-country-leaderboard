@@ -14,7 +14,7 @@ Indexed users: 1,492
 |---:|---|---|---|---:|
 | 1 | [Fazlullahmamond](https://github.com/Fazlullahmamond) | Fazlullah Mamond | Kabul, Afghanistan | 294,261 |
 | 2 | [zevrok](https://github.com/zevrok) | Zevrok | Kabul, Afghanistan | 165,401 |
-| 3 | [devpro0313](https://github.com/devpro0313) | Dev pro | Afghanistan | 103,275 |
+| 3 | [devpro0313](https://github.com/devpro0313) | Dev pro | Afghanistan | 88,717 |
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmad Ullah Mukhlis | Kabul, Afghanistan | 67,485 |
 | 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 31,456 |
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Afghanistan | 16,890 |
@@ -77,10 +77,10 @@ Indexed users: 1,492
 | 13 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | Afghanistan | 147 |
 | 14 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari | Afghanistan | 144 |
 | 15 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | Afghanistan | 141 |
-| 16 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 129 |
-| 17 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Kabul, Afghanistan | 126 |
-| 18 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 123 |
-| 19 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
-| 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 116 |
+| 16 | [starkbaknet](https://github.com/starkbaknet) | StarkBak | Kabul, Afghanistan | 135 |
+| 17 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 129 |
+| 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Kabul, Afghanistan | 126 |
+| 19 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 123 |
+| 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-08T00:56:24.045Z
+Generated: 2026-10-08T02:10:05.815Z

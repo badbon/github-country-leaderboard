@@ -1,8 +1,8 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-08T00:58:15.937Z
+Generated: 2026-10-08T02:12:05.140Z
 
-Users: 466
+Users: 465
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 466
 | 8 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1288 |
 | 9 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1137 |
 | 10 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube |  | icecubedotwtf | Antarctica | 996 |
-| 11 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
-| 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
-| 13 | [DrBrad](https://github.com/DrBrad) | Brad | find9 LLC, LimeReel LLC |  | Antarctica | 634 |
-| 14 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
-| 15 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
-| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | A store that pays $8 per hour / 6 days per week |  | Antarctica, Discord, VRChat | 469 |
-| 17 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
-| 18 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 436 |
-| 19 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 434 |
-| 20 | [nicccce](https://github.com/nicccce) | Nick | Shandong University |  | Antarctica | 410 |
+| 11 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 748 |
+| 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
+| 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
+| 14 | [DrBrad](https://github.com/DrBrad) | Brad | find9 LLC, LimeReel LLC |  | Antarctica | 634 |
+| 15 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
+| 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | A store that pays $8 per hour / 6 days per week |  | Antarctica, Discord, VRChat | 469 |
+| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
+| 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 436 |
+| 20 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 434 |

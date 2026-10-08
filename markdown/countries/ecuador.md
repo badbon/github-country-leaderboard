@@ -53,10 +53,10 @@ Indexed users: 4,904
 | 14 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,947 |
 | 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
 | 16 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | Cumbayá, Ecuador | 1,665 |
-| 17 | [and27](https://github.com/and27) | Andrés Banda | Ecuador | 1,558 |
-| 18 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,525 |
-| 19 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado | Ecuador, Manabí, Jipijapa | 1,519 |
-| 20 | [demianguzman](https://github.com/demianguzman) | Robinson Damian Malliquinga Guzman | Ecuador | 1,383 |
+| 17 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 | Ecuador | 1,573 |
+| 18 | [and27](https://github.com/and27) | Andrés Banda | Ecuador | 1,558 |
+| 19 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,525 |
+| 20 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado | Ecuador, Manabí, Jipijapa | 1,519 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,904
 | 19 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-08T01:25:39.832Z
+Generated: 2026-10-08T02:30:33.743Z

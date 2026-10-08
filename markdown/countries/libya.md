@@ -1,6 +1,6 @@
 # Libya
 
-Indexed users: 745
+Indexed users: 744
 
 | Leaderboard | Link |
 |---|---|
@@ -64,8 +64,8 @@ Indexed users: 745
 |---:|---|---|---|---:|
 | 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa | Libya | 131 |
 | 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 123 |
-| 3 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 90 |
-| 4 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 88 |
+| 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 88 |
+| 4 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 86 |
 | 5 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 86 |
 | 6 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush | Tripoli | 82 |
 | 7 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 81 |
@@ -83,4 +83,4 @@ Indexed users: 745
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-08T01:29:35.874Z
+Generated: 2026-10-08T02:48:51.668Z

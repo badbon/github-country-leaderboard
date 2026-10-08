@@ -1,8 +1,8 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-08T00:54:52.647Z
+Generated: 2026-10-08T02:08:14.551Z
 
-Users: 1213
+Users: 1212
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1213
 | 16 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 681 |
 | 17 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya |  |  | Yemen , Ibb | 611 |
 | 18 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 609 |
-| 19 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Mubarak Al-Jaeeidi | Self Employee |  | YEMEN | 580 |
-| 20 | [salem-baqatyan](https://github.com/salem-baqatyan) | Salem Baqatyan  |  |  | Yemen/Hadhramaut/Mukalla | 569 |
+| 19 | [salem-baqatyan](https://github.com/salem-baqatyan) | Salem Baqatyan  |  |  | Yemen/Hadhramaut/Mukalla | 607 |
+| 20 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Mubarak Al-Jaeeidi | Self Employee |  | YEMEN | 580 |
