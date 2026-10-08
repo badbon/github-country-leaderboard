@@ -3708,18 +3708,6 @@
     "createdAt": "2021-02-06T10:22:35Z"
   },
   {
-    "login": "alexandre-jacquot-ptl",
-    "name": "Alexandre JACQUOT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77357704?s=72&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2021-01-12T19:25:43Z"
-  },
-  {
     "login": "AntA001",
     "name": "Antonis Antoniadis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92358784?s=72&u=d37559d86a9ae580df99d04bd162f5cbe10cb8d4&v=4",
@@ -3727,7 +3715,7 @@
     "company": "",
     "twitterUsername": "a_ntonis",
     "followers": 5,
-    "privateContributions": 8,
+    "privateContributions": 12,
     "publicContributions": 2,
     "createdAt": "2021-10-12T06:59:49Z"
   },
@@ -3739,8 +3727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 248,
-    "publicContributions": 6,
+    "privateContributions": 249,
+    "publicContributions": 8,
     "createdAt": "2021-02-05T21:17:04Z"
   },
   {
@@ -3762,7 +3750,7 @@
     "location": "Luxembourg",
     "company": "Capsileo SàRL",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2021-02-20T18:18:51Z"
@@ -3774,9 +3762,9 @@
     "location": "Luxembourg",
     "company": "NovaDX",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 378,
-    "publicContributions": 193,
+    "followers": 7,
+    "privateContributions": 559,
+    "publicContributions": 114,
     "createdAt": "2021-11-26T22:43:07Z"
   },
   {
@@ -3798,9 +3786,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 66,
     "createdAt": "2021-06-16T06:41:40Z"
   },
   {
@@ -3810,9 +3798,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 81,
-    "publicContributions": 19,
+    "followers": 5,
+    "privateContributions": 101,
+    "publicContributions": 17,
     "createdAt": "2021-10-19T10:58:58Z"
   },
   {
@@ -3823,7 +3811,7 @@
     "company": "Saarland University",
     "twitterUsername": "saradagurl",
     "followers": 4,
-    "privateContributions": 2,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2021-09-21T12:55:18Z"
   },
@@ -3834,9 +3822,9 @@
     "location": "Luxembourg",
     "company": "Salonkee",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1816,
-    "publicContributions": 4,
+    "followers": 3,
+    "privateContributions": 1827,
+    "publicContributions": 7,
     "createdAt": "2021-11-24T12:06:49Z"
   },
   {
@@ -3858,8 +3846,8 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 541,
+    "followers": 4,
+    "privateContributions": 508,
     "publicContributions": 84,
     "createdAt": "2021-12-06T19:55:04Z"
   },
@@ -3908,7 +3896,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 8,
     "createdAt": "2021-10-15T12:42:28Z"
   },
   {
@@ -3930,8 +3918,8 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 16,
+    "followers": 4,
+    "privateContributions": 15,
     "publicContributions": 4,
     "createdAt": "2021-01-06T17:44:31Z"
   },
@@ -3942,9 +3930,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 161,
-    "publicContributions": 527,
+    "publicContributions": 802,
     "createdAt": "2021-04-06T19:49:53Z"
   },
   {

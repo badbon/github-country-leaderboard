@@ -4004,7 +4004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 33,
     "createdAt": "2025-03-06T10:46:51Z"
   },
   {
@@ -4052,7 +4052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-03T06:52:24Z"
   },
   {
@@ -4064,7 +4064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-09-14T05:40:13Z"
   },
   {
@@ -4076,7 +4076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 10,
     "createdAt": "2025-07-11T13:51:47Z"
   },
   {
@@ -4088,7 +4088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 240,
+    "publicContributions": 211,
     "createdAt": "2025-06-26T15:19:04Z"
   },
   {
@@ -4122,7 +4122,7 @@
     "location": "Romania",
     "company": "PragmaticDevs",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2025-04-05T14:46:43Z"
@@ -4136,7 +4136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 88,
     "createdAt": "2025-08-13T14:47:05Z"
   },
   {
@@ -4148,7 +4148,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 19,
     "createdAt": "2024-02-19T14:53:22Z"
   },
   {
@@ -4158,9 +4158,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 49,
-    "privateContributions": 294,
-    "publicContributions": 1525,
+    "followers": 96,
+    "privateContributions": 609,
+    "publicContributions": 2059,
     "createdAt": "2025-11-18T19:24:32Z"
   },
   {
@@ -4172,7 +4172,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 576,
+    "publicContributions": 586,
     "createdAt": "2025-03-03T14:46:19Z"
   },
   {
@@ -4184,7 +4184,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 397,
     "createdAt": "2025-10-14T20:33:11Z"
   },
   {
@@ -4207,8 +4207,8 @@
     "company": "Facultatea de Cibernetică, Statistică și Informatică Economică",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 327,
+    "privateContributions": 52,
+    "publicContributions": 423,
     "createdAt": "2025-08-11T22:12:14Z"
   },
   {
@@ -4218,7 +4218,7 @@
     "location": "Bucharest",
     "company": "ASE",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2025-05-04T11:50:54Z"
@@ -179794,5 +179794,101 @@
     "privateContributions": 0,
     "publicContributions": 225,
     "createdAt": "2022-12-01T15:22:03Z"
+  },
+  {
+    "login": "rerrcatch",
+    "name": "r/errcatch",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289643811?s=72&u=0a2042b52a499293c32abe11a4e690fff7f21828&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 32,
+    "privateContributions": 25,
+    "publicContributions": 71,
+    "createdAt": "2026-06-01T09:58:47Z"
+  },
+  {
+    "login": "AndreiX13",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289274950?s=72&v=4",
+    "location": "Bucharest, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-30T20:10:16Z"
+  },
+  {
+    "login": "mhhuzaifa223",
+    "name": "Muhammad Huzaifa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286500703?s=72&u=df88636cc6b78fc1fea0e501a8131ae3d8ef61aa&v=4",
+    "location": "Timișoara, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 131,
+    "createdAt": "2026-05-20T23:54:30Z"
+  },
+  {
+    "login": "DigicuTe66",
+    "name": "Joy Thompson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289130418?s=72&v=4",
+    "location": "Fryeport, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-30T05:53:02Z"
+  },
+  {
+    "login": "florinelhociung15",
+    "name": "Florinel Hociung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289350151?s=72&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "florinelhociung",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 122,
+    "createdAt": "2026-05-31T06:44:59Z"
+  },
+  {
+    "login": "neagsebastian",
+    "name": "Neag Sebastian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289787598?s=72&u=db2ddaf0ee8e6082311e1bc36291f8dca95fc6df&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-01T18:21:19Z"
+  },
+  {
+    "login": "railtechtrz-turzaimarius",
+    "name": "Turzai Edward-Marius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285282625?s=72&u=2a043cff9c29f29a637bd79849fc4c160aeeabcb&v=4",
+    "location": "Romania",
+    "company": "RailTech-TRZ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-05-16T20:02:51Z"
+  },
+  {
+    "login": "MihaelaGheorgheRoman",
+    "name": "Mihaela Gheorghe-Roman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285476058?s=72&u=18b24db09437d1a049348e681a56311dcdcc0d0c&v=4",
+    "location": "Romania",
+    "company": "Systematic",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-05-17T17:45:12Z"
   }
 ]

@@ -3932,7 +3932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-19T07:23:11Z"
   },
   {
@@ -3956,7 +3956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 136,
     "createdAt": "2025-09-15T11:32:45Z"
   },
   {
@@ -3980,7 +3980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2025-06-13T20:55:11Z"
   },
   {
@@ -3991,20 +3991,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 50,
-    "publicContributions": 278,
+    "privateContributions": 69,
+    "publicContributions": 265,
     "createdAt": "2025-01-07T12:28:52Z"
   },
   {
     "login": "Fluxerr",
     "name": "Flux",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208069397?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208069397?s=72&u=48c0a320c4909596a4fd32dcc54cc5fa132649af&v=4",
     "location": "Ireland",
-    "company": "",
+    "company": "SteamVault",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 87,
     "createdAt": "2025-04-17T18:59:22Z"
   },
   {
@@ -4014,9 +4014,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-08-14T20:09:40Z"
   },
   {
@@ -4028,7 +4028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2025-07-18T00:02:15Z"
   },
   {
@@ -4052,7 +4052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 98,
     "createdAt": "2025-07-23T17:38:00Z"
   },
   {
@@ -4064,7 +4064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 110657,
+    "publicContributions": 74217,
     "createdAt": "2025-07-08T11:38:51Z"
   },
   {
@@ -4081,14 +4081,14 @@
   },
   {
     "login": "cotyledonlab",
-    "name": "cotyledonlab",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198903285?s=72&u=4b554f4a6541cac39ceab72218135553dd9a2859&v=4",
+    "name": "Cotyledon Lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198903285?s=72&u=eadf92b69eaffb3ce0c1b76e58577067aedbb806&v=4",
     "location": "Ireland",
-    "company": "Cotyledon Lab",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 261,
-    "publicContributions": 522,
+    "privateContributions": 219,
+    "publicContributions": 824,
     "createdAt": "2025-02-12T10:42:11Z"
   },
   {
@@ -4122,7 +4122,7 @@
     "location": "Galway, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-06T13:51:38Z"
@@ -4136,7 +4136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2025-09-06T13:24:40Z"
   },
   {
@@ -4158,9 +4158,9 @@
     "location": "Cork, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 368,
+    "publicContributions": 258,
     "createdAt": "2025-07-11T11:40:40Z"
   },
   {

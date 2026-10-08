@@ -3944,7 +3944,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 0,
     "createdAt": "2022-04-07T22:46:11Z"
   },
   {
@@ -3955,7 +3955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 281,
+    "privateContributions": 289,
     "publicContributions": 0,
     "createdAt": "2022-03-24T12:46:07Z"
   },
@@ -3966,8 +3966,8 @@
     "location": "Togo - Lomé",
     "company": "Ayida Tech",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 357,
+    "followers": 5,
+    "privateContributions": 404,
     "publicContributions": 4,
     "createdAt": "2022-06-08T18:55:00Z"
   },
@@ -3980,7 +3980,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 31,
     "createdAt": "2022-01-21T05:34:15Z"
   },
   {
@@ -3991,8 +3991,8 @@
     "company": "We are Kernel",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 814,
-    "publicContributions": 6,
+    "privateContributions": 861,
+    "publicContributions": 2,
     "createdAt": "2022-06-06T15:03:40Z"
   },
   {
@@ -4016,7 +4016,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 64,
     "createdAt": "2022-09-20T19:45:09Z"
   },
   {
@@ -4038,15 +4038,15 @@
     "location": "Lomé, TOGO",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 67,
+    "followers": 8,
+    "privateContributions": 179,
+    "publicContributions": 177,
     "createdAt": "2022-08-25T08:07:32Z"
   },
   {
     "login": "soufianeOusseini",
     "name": "SOUFIANE Ousseini",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119739710?s=72&u=22c3d3115380ea26da03b73508b20a8c7bea3b80&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119739710?s=72&u=94140b5504b695d9afe427ae2f9a5e298b4e667b&v=4",
     "location": "Lomé-TOGO",
     "company": "",
     "twitterUsername": "",
@@ -4064,7 +4064,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-04-23T20:26:34Z"
   },
   {
@@ -4086,9 +4086,9 @@
     "location": "Lomé - Togo",
     "company": "",
     "twitterUsername": "CClemsy",
-    "followers": 4,
-    "privateContributions": 873,
-    "publicContributions": 36,
+    "followers": 3,
+    "privateContributions": 1192,
+    "publicContributions": 47,
     "createdAt": "2022-04-13T20:56:11Z"
   },
   {
@@ -4098,9 +4098,9 @@
     "location": "Lome-TOGO",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 365,
-    "publicContributions": 16,
+    "followers": 8,
+    "privateContributions": 360,
+    "publicContributions": 15,
     "createdAt": "2022-10-24T02:44:12Z"
   },
   {
@@ -4110,7 +4110,7 @@
     "location": "Lomé-Togo",
     "company": "",
     "twitterUsername": "Dominique",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-24T16:00:21Z"
@@ -4122,9 +4122,9 @@
     "location": "Lomé - TOGO",
     "company": "Nith-Dev",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 37,
     "createdAt": "2022-10-17T12:11:33Z"
   },
   {
@@ -4136,7 +4136,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 4,
     "createdAt": "2022-11-04T13:51:01Z"
   },
   {
@@ -4159,8 +4159,8 @@
     "company": "LGI-CONSULTING",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 155,
-    "publicContributions": 18,
+    "privateContributions": 52,
+    "publicContributions": 17,
     "createdAt": "2022-07-12T05:37:02Z"
   },
   {

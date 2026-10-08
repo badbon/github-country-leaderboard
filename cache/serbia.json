@@ -4003,8 +4003,8 @@
     "company": "Faculty of Technical Sciencies",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 10,
-    "publicContributions": 299,
+    "privateContributions": 2,
+    "publicContributions": 296,
     "createdAt": "2024-05-15T20:57:27Z"
   },
   {
@@ -4040,7 +4040,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 460,
+    "publicContributions": 459,
     "createdAt": "2024-04-17T12:03:02Z"
   },
   {
@@ -4052,7 +4052,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 23,
     "createdAt": "2024-04-25T08:27:35Z"
   },
   {
@@ -4064,7 +4064,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-06-12T12:20:35Z"
   },
   {
@@ -4123,20 +4123,20 @@
     "company": "q-b.space",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 256,
-    "publicContributions": 43,
+    "privateContributions": 448,
+    "publicContributions": 38,
     "createdAt": "2024-11-07T11:24:37Z"
   },
   {
     "login": "realvolk",
     "name": "Volk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157217091?s=72&u=a6a1d8a86dcdf85260d0703c88a99cc964660f1a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157217091?s=72&u=ef9b7a0c48a69b693629f23ea06f91af23ebd665&v=4",
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 889,
+    "publicContributions": 733,
     "createdAt": "2024-01-20T12:19:28Z"
   },
   {
@@ -4158,7 +4158,7 @@
     "location": "Novi Sad, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2024-10-15T12:14:33Z"
@@ -4183,8 +4183,8 @@
     "company": "Fakultet Tehničkih Nauka",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 74,
-    "publicContributions": 196,
+    "privateContributions": 85,
+    "publicContributions": 145,
     "createdAt": "2024-10-14T08:46:17Z"
   },
   {
@@ -4196,7 +4196,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 95,
     "createdAt": "2024-10-19T12:21:57Z"
   },
   {
@@ -4207,20 +4207,20 @@
     "company": "Faculty of Technical Sciences",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 45,
-    "publicContributions": 389,
+    "privateContributions": 24,
+    "publicContributions": 405,
     "createdAt": "2024-03-12T15:29:10Z"
   },
   {
     "login": "jakov24",
     "name": "Jakov Janjic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179374406?s=72&u=261c5fbca3a26bfd5652660788d511d80bdb055f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179374406?s=72&u=ee7d7040500834ce40ee048de3b2b54e09eeff0c&v=4",
     "location": "Belgrade, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 3,
+    "privateContributions": 295,
+    "publicContributions": 15,
     "createdAt": "2024-08-25T08:51:22Z"
   },
   {
@@ -128014,5 +128014,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-10-06T21:51:22Z"
+  },
+  {
+    "login": "ni9aii",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190766661?s=72&u=0e614663cd9e763275f128076fdf78cc2f658e83&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 347,
+    "createdAt": "2024-12-05T18:03:20Z"
   }
 ]

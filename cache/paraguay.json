@@ -4002,7 +4002,7 @@
     "location": "Asunción",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-03T14:48:05Z"
@@ -4015,7 +4015,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 971,
+    "privateContributions": 1886,
     "publicContributions": 9,
     "createdAt": "2023-05-11T14:30:19Z"
   },
@@ -4028,7 +4028,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 69,
     "createdAt": "2023-10-02T14:09:43Z"
   },
   {
@@ -4050,9 +4050,9 @@
     "location": "Asunción",
     "company": "Banco Familiar",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 65,
-    "publicContributions": 83,
+    "followers": 5,
+    "privateContributions": 72,
+    "publicContributions": 62,
     "createdAt": "2023-05-13T17:51:51Z"
   },
   {
@@ -4063,7 +4063,7 @@
     "company": "@ittidigital",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 474,
+    "privateContributions": 417,
     "publicContributions": 0,
     "createdAt": "2023-11-10T19:03:04Z"
   },
@@ -4086,9 +4086,9 @@
     "location": "Encarnación, Paraguay",
     "company": "Microtech S.A",
     "twitterUsername": "",
-    "followers": 82,
-    "privateContributions": 174,
-    "publicContributions": 44,
+    "followers": 80,
+    "privateContributions": 242,
+    "publicContributions": 38,
     "createdAt": "2022-08-31T18:59:58Z"
   },
   {
@@ -4098,8 +4098,8 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 964,
+    "followers": 54,
+    "privateContributions": 995,
     "publicContributions": 4,
     "createdAt": "2022-04-29T15:58:40Z"
   },
@@ -4110,9 +4110,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 53,
     "privateContributions": 0,
-    "publicContributions": 292,
+    "publicContributions": 329,
     "createdAt": "2022-04-10T23:05:52Z"
   },
   {
@@ -4124,7 +4124,7 @@
     "twitterUsername": "",
     "followers": 40,
     "privateContributions": 8,
-    "publicContributions": 14,
+    "publicContributions": 3,
     "createdAt": "2022-08-19T04:21:58Z"
   },
   {
@@ -4134,8 +4134,8 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "mathias_wismann",
-    "followers": 38,
-    "privateContributions": 22,
+    "followers": 39,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2022-06-17T04:43:33Z"
   },
@@ -4147,21 +4147,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 1443,
-    "publicContributions": 44,
+    "privateContributions": 1963,
+    "publicContributions": 25,
     "createdAt": "2022-03-14T20:05:48Z"
-  },
-  {
-    "login": "luisrpavanello",
-    "name": "Luis Renan Pavanello",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102007776?s=72&u=476fb580ef1e72db9c642fc4afc5d0fe1cea4f0f&v=4",
-    "location": "Asunción, Paraguay",
-    "company": "Rare Consulting",
-    "twitterUsername": "luisrpavanello",
-    "followers": 33,
-    "privateContributions": 0,
-    "publicContributions": 120,
-    "createdAt": "2022-03-21T03:26:49Z"
   },
   {
     "login": "samuelrosaarruda",
@@ -4170,7 +4158,7 @@
     "location": "Ciudad del Este, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-22T12:06:56Z"
@@ -4182,7 +4170,7 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-12-05T16:41:55Z"
@@ -4202,12 +4190,12 @@
   {
     "login": "Gubrux",
     "name": "Gabriel Centurion",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109425860?s=72&u=119c72b569610a9be91ef911c4a88ff6d4a0a48e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109425860?s=72&u=c7aa4d916cabfaa9e8b4623883af8564c246850f&v=4",
     "location": "Paraguay",
     "company": "BrosCo",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 643,
+    "privateContributions": 723,
     "publicContributions": 0,
     "createdAt": "2022-07-16T14:30:10Z"
   },
@@ -4219,7 +4207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 0,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2022-09-19T15:57:49Z"
   },
@@ -4230,9 +4218,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 681,
-    "publicContributions": 28,
+    "followers": 27,
+    "privateContributions": 678,
+    "publicContributions": 17,
     "createdAt": "2022-05-10T14:10:33Z"
   },
   {

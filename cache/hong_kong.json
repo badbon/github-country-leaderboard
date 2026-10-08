@@ -3872,7 +3872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 24,
     "createdAt": "2025-04-23T05:33:38Z"
   },
   {
@@ -3884,7 +3884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-18T08:47:14Z"
   },
   {
@@ -3896,7 +3896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 120,
     "createdAt": "2025-07-04T06:52:58Z"
   },
   {
@@ -3920,7 +3920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-25T10:04:52Z"
   },
   {
@@ -3950,26 +3950,14 @@
   {
     "login": "HONGKONGBALL",
     "name": "Zhenhua Liu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206199730?s=72&u=4232ae2257519aa3fe2ecaa527a847c1e50f750b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206199730?s=72&u=187b3a3314d12581e38ae7d125ba82ee66e4a1f8&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 48,
     "createdAt": "2025-04-04T09:47:48Z"
-  },
-  {
-    "login": "Uchiha1024",
-    "name": "Vince",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195702701?s=72&u=4c8b392188aef877cd9abac6e237e8989f9b121e&v=4",
-    "location": "Hong Kong",
-    "company": "WEEX",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 60,
-    "createdAt": "2025-01-20T01:25:03Z"
   },
   {
     "login": "Yuanflynn",
@@ -3980,7 +3968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 6,
     "createdAt": "2025-01-20T07:30:56Z"
   },
   {
@@ -3992,18 +3980,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-03-10T13:34:39Z"
   },
   {
     "login": "elias-didoo",
-    "name": "Elias@Didoo",
+    "name": "Elias Sun",
     "avatarUrl": "https://avatars.githubusercontent.com/u/234909039?s=72&u=721723e4ea74e3b492536b872ffdeecdbb1633e4&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "gaiaaguldina",
     "followers": 1,
-    "privateContributions": 2952,
+    "privateContributions": 4447,
     "publicContributions": 19,
     "createdAt": "2025-09-28T10:09:52Z"
   },
@@ -4016,20 +4004,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2025-06-30T08:30:09Z"
-  },
-  {
-    "login": "wlsnD7",
-    "name": "Wilson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205124818?s=72&u=9bb6b9c43d0d79b33eef84c7060a6b0694de8fab&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-27T05:08:59Z"
   },
   {
     "login": "Octopus-zhou",
@@ -4052,7 +4028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-24T17:04:20Z"
   },
   {
@@ -4076,7 +4052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 20,
     "createdAt": "2025-07-25T05:45:34Z"
   },
   {
@@ -4087,8 +4063,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1210,
-    "publicContributions": 1,
+    "privateContributions": 2541,
+    "publicContributions": 0,
     "createdAt": "2025-09-04T04:06:23Z"
   },
   {
@@ -4100,7 +4076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-08T07:38:42Z"
   },
   {

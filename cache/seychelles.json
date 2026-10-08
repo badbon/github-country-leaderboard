@@ -4003,8 +4003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 434,
-    "publicContributions": 254,
+    "privateContributions": 244,
+    "publicContributions": 249,
     "createdAt": "2021-05-05T09:14:36Z"
   },
   {
@@ -4015,8 +4015,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1033,
-    "publicContributions": 419,
+    "privateContributions": 1246,
+    "publicContributions": 130,
     "createdAt": "2021-01-12T00:08:07Z"
   },
   {
@@ -4058,13 +4058,13 @@
   {
     "login": "ericmacdougall",
     "name": "Eric MacDougall",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81061590?s=72&u=b0a1e5258bc407949b0e20abab1ed52fb5df7acc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81061590?s=72&u=bb4a4f1ddea31e9698d4cd5cc1bf96ca0b803887&v=4",
     "location": "Victoria, BC Canada",
     "company": "@framebright ",
     "twitterUsername": "ericmacdougall",
-    "followers": 3,
-    "privateContributions": 17054,
-    "publicContributions": 893,
+    "followers": 4,
+    "privateContributions": 30632,
+    "publicContributions": 965,
     "createdAt": "2021-03-21T02:37:47Z"
   },
   {
@@ -4160,7 +4160,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 16,
     "createdAt": "2021-01-03T22:04:39Z"
   },
   {
@@ -4171,7 +4171,7 @@
     "company": "iNav Canada Corp.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 260,
+    "privateContributions": 244,
     "publicContributions": 55,
     "createdAt": "2021-06-17T01:47:11Z"
   },
@@ -4194,7 +4194,7 @@
     "location": "Victoria, BC",
     "company": "Province of British Columbia",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-14T15:16:53Z"
@@ -4210,18 +4210,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-19T12:20:35Z"
-  },
-  {
-    "login": "noiseuse",
-    "name": "Lore Schwartz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79900999?s=72&u=6b892b3e27b737a9fc767b61b5cfaec098d9bbdf&v=4",
-    "location": "Victoria, BC",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2021-03-02T08:08:30Z"
   },
   {
     "login": "rolstontim",

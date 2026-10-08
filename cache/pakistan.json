@@ -4016,7 +4016,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2026-01-28T07:28:31Z"
   },
   {
@@ -4158,9 +4158,9 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 28,
     "createdAt": "2026-01-22T19:45:16Z"
   },
   {
@@ -4234,18 +4234,6 @@
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2026-03-08T10:35:48Z"
-  },
-  {
-    "login": "hooriaakhan6-prog",
-    "name": "Hooria Khan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/267690811?s=72&v=4",
-    "location": "Lahore, Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2026-03-12T15:11:08Z"
   },
   {
     "login": "Esha-developer",
@@ -460666,18 +460654,6 @@
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2016-10-03T18:27:46Z"
-  },
-  {
-    "login": "IrfanBehsoodi",
-    "name": "Muhammad Irfan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24179783?s=72&u=0777d51c5a27bd53b12d70670c8f6c334ad7a4e9&v=4",
-    "location": "Islamabad 44000, Pakistan ",
-    "company": "I-Engineering Group",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-11-26T11:09:57Z"
   },
   {
     "login": "alitele",

@@ -4028,7 +4028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 318,
     "createdAt": "2023-10-28T17:00:22Z"
   },
   {
@@ -4038,9 +4038,9 @@
     "location": "Dakar",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 334,
+    "publicContributions": 356,
     "createdAt": "2023-03-31T01:31:40Z"
   },
   {
@@ -4050,9 +4050,9 @@
     "location": "Dakar",
     "company": "UCAD",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 99,
     "createdAt": "2023-11-12T20:00:35Z"
   },
   {
@@ -4076,7 +4076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 145,
     "createdAt": "2023-10-21T01:58:58Z"
   },
   {
@@ -4088,7 +4088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 60,
     "createdAt": "2023-12-02T09:59:14Z"
   },
   {
@@ -4098,8 +4098,8 @@
     "location": "DAKAR",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 32,
+    "followers": 2,
+    "privateContributions": 321,
     "publicContributions": 25,
     "createdAt": "2023-10-24T15:43:13Z"
   },
@@ -4124,7 +4124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 130,
     "createdAt": "2023-07-28T02:38:03Z"
   },
   {
@@ -4134,7 +4134,7 @@
     "location": "Almadie 2 Rufisque Dakar Sénégal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-03T10:41:22Z"
@@ -4146,21 +4146,21 @@
     "location": "Dakar, Sénégal ",
     "company": "",
     "twitterUsername": "MetteAlpha",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2023-03-10T23:55:45Z"
   },
   {
     "login": "sibylassana95",
     "name": "Lassana siby ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103085452?s=72&u=13ace4d88a52056741734e0f802ca7c0053e1e80&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103085452?s=72&u=3f564df95d0260342a7ed3acaa078b9725752f20&v=4",
     "location": "Senegal ",
     "company": "SIBYGLOBAL ",
     "twitterUsername": "sibyog13",
-    "followers": 122,
-    "privateContributions": 2298,
-    "publicContributions": 140,
+    "followers": 121,
+    "privateContributions": 2094,
+    "publicContributions": 166,
     "createdAt": "2022-04-06T01:47:14Z"
   },
   {
@@ -4170,9 +4170,9 @@
     "location": "Dakar, Senegal",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
-    "privateContributions": 507,
-    "publicContributions": 93,
+    "followers": 64,
+    "privateContributions": 387,
+    "publicContributions": 106,
     "createdAt": "2022-01-24T16:46:05Z"
   },
   {
@@ -4194,9 +4194,9 @@
     "location": "Dakar, Senegal",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 54,
-    "privateContributions": 71,
-    "publicContributions": 71,
+    "followers": 53,
+    "privateContributions": 22,
+    "publicContributions": 82,
     "createdAt": "2022-11-16T12:29:48Z"
   },
   {
@@ -4206,9 +4206,9 @@
     "location": "Senegal-Dakar",
     "company": "Software Developer and AI Enthusiast",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 721,
-    "publicContributions": 29,
+    "followers": 52,
+    "privateContributions": 762,
+    "publicContributions": 35,
     "createdAt": "2022-08-10T20:41:53Z"
   },
   {
@@ -4219,8 +4219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 12,
-    "publicContributions": 34,
+    "privateContributions": 83,
+    "publicContributions": 6,
     "createdAt": "2022-06-02T23:09:31Z"
   },
   {
@@ -4230,7 +4230,7 @@
     "location": "Dakar, Senegal",
     "company": "",
     "twitterUsername": "_OusmaneBA",
-    "followers": 35,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-25T18:57:48Z"
@@ -4243,8 +4243,8 @@
     "company": "sdley",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 605,
-    "publicContributions": 446,
+    "privateContributions": 632,
+    "publicContributions": 572,
     "createdAt": "2022-03-28T15:49:06Z"
   },
   {

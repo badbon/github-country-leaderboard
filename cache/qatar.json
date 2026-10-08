@@ -3944,7 +3944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2022-01-02T13:16:05Z"
   },
   {
@@ -3974,13 +3974,13 @@
   {
     "login": "fatima-fz1800424",
     "name": "Fatima Zakaria",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113830848?s=72&u=6be7c51d9e79570e2bec59f40c3401a2904346a5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113830848?s=72&u=dd60fdc3af5ade3afea8d0293803d580501ee4c6&v=4",
     "location": "Qatar",
     "company": "Qatar University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 41,
     "createdAt": "2022-09-18T10:16:15Z"
   },
   {
@@ -3992,20 +3992,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 102,
     "createdAt": "2022-03-23T08:58:53Z"
-  },
-  {
-    "login": "alsurmi-aa1901562",
-    "name": "ASURMI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115940444?s=72&u=36b45c19cc9f2131c48ded9df12b4ea9ae1d56d3&v=4",
-    "location": "Doha, Qatar",
-    "company": "Qatar University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-10-16T15:36:01Z"
   },
   {
     "login": "nawalalhouti",
@@ -4052,7 +4040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-08-05T15:05:08Z"
   },
   {
@@ -4063,8 +4051,8 @@
     "company": "Bin Yousef",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 457,
-    "publicContributions": 2,
+    "privateContributions": 474,
+    "publicContributions": 3,
     "createdAt": "2022-09-11T10:07:21Z"
   },
   {
@@ -4088,7 +4076,7 @@
     "twitterUsername": "unaisishfaque",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2022-06-15T06:11:19Z"
   },
   {
@@ -4099,8 +4087,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 814,
-    "publicContributions": 245,
+    "privateContributions": 869,
+    "publicContributions": 708,
     "createdAt": "2022-01-17T12:37:49Z"
   },
   {
@@ -4147,8 +4135,8 @@
     "company": "Bojamhoor",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 1,
+    "privateContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2022-11-12T16:21:40Z"
   },
   {
@@ -4158,7 +4146,7 @@
     "location": "Doha",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-02-06T22:46:16Z"
@@ -12862,5 +12850,89 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2025-08-04T10:03:46Z"
+  },
+  {
+    "login": "root-qa",
+    "name": "ROOT for Technology and Artificial Intelligence",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287047098?s=72&u=5c2dd18381488dc561402dc2f49c80eaef1da9f4&v=4",
+    "location": "Doha, Qatar",
+    "company": "ROOT for Technology and Artificial Intelligence",
+    "twitterUsername": "root_qa",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-22T18:02:51Z"
+  },
+  {
+    "login": "Haddad974",
+    "name": "Abdulaziz AL-Haddad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292271867?s=72&u=1746fc9892924bb617d8104b2b4bdab426491c04&v=4",
+    "location": "Doha, Qatar",
+    "company": "Ministry of Commerce and Industry – Qatar",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-06-10T00:02:29Z"
+  },
+  {
+    "login": "KhadijaSultan07",
+    "name": "Eng.khadija",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293451452?s=72&u=3f2162ce075221a26bec7fcb647bf45cb6b2c300&v=4",
+    "location": "Qatar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 67,
+    "createdAt": "2026-06-13T20:37:11Z"
+  },
+  {
+    "login": "k42agent",
+    "name": "Kate ⚡",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286523382?s=72&u=546f7fc7c97909a0def9864abe1bab9876f5ac2a&v=4",
+    "location": "Doha, Qatar",
+    "company": "MRZN XYZ at @AncavaHQ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-21T02:18:51Z"
+  },
+  {
+    "login": "mohaideenjamal",
+    "name": "Mohaideen Jamal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285792532?s=72&u=880847717e0f31d06fc82071e6b3371c136809bc&v=4",
+    "location": "Qatar",
+    "company": "Regency Group",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-05-18T19:04:30Z"
+  },
+  {
+    "login": "sr-massum",
+    "name": "Saieed Rahman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296297059?s=72&u=ddc65048fd55fd0f1654ddbe1eda6a456f8e3ef3&v=4",
+    "location": "Doha, Qatar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-06-23T20:51:39Z"
+  },
+  {
+    "login": "mrsaifali-7898",
+    "name": "Sa If",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286794157?s=72&v=4",
+    "location": "Doha Qatar ",
+    "company": "Arizona car world",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-21T21:25:14Z"
   }
 ]

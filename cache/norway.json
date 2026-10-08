@@ -4040,7 +4040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-04T19:28:20Z"
   },
   {
@@ -4052,7 +4052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-09-02T13:38:28Z"
   },
   {
@@ -4064,7 +4064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 17,
     "createdAt": "2025-04-28T11:39:54Z"
   },
   {
@@ -4074,9 +4074,9 @@
     "location": "Bodø, Norway",
     "company": "Statsforvalteren i Nordland",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 40,
     "createdAt": "2025-06-27T18:31:30Z"
   },
   {
@@ -4086,7 +4086,7 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 84,
+    "followers": 82,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2025-12-01T14:57:37Z"
@@ -4112,7 +4112,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 615,
+    "publicContributions": 519,
     "createdAt": "2025-01-08T11:32:28Z"
   },
   {
@@ -4122,9 +4122,9 @@
     "location": "Oslo",
     "company": "Promon",
     "twitterUsername": "Promon_Shield",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-25T19:57:20Z"
   },
   {
@@ -4135,8 +4135,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 29,
-    "publicContributions": 616,
+    "privateContributions": 20,
+    "publicContributions": 564,
     "createdAt": "2024-12-30T08:54:36Z"
   },
   {
@@ -4148,7 +4148,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-09-15T14:14:46Z"
   },
   {
@@ -4159,8 +4159,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 103,
-    "publicContributions": 504,
+    "privateContributions": 120,
+    "publicContributions": 365,
     "createdAt": "2025-05-21T05:42:41Z"
   },
   {
@@ -4170,9 +4170,9 @@
     "location": "Oslo",
     "company": "Autodesk",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-09T07:00:42Z"
   },
   {
@@ -4182,7 +4182,7 @@
     "location": "Oslo",
     "company": "BDO",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 44,
     "publicContributions": 194,
     "createdAt": "2025-10-21T09:47:27Z"
@@ -4190,13 +4190,13 @@
   {
     "login": "KokosMjolkeKua",
     "name": "Inga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227358937?s=72&u=4994dfab0c47c4cfd61bec253ec654744b0be10f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227358937?s=72&u=7c74f3df4316abfe644458e675c134ffdbcf3cd7&v=4",
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 29,
+    "followers": 9,
+    "privateContributions": 278,
+    "publicContributions": 32,
     "createdAt": "2025-08-19T09:19:20Z"
   },
   {
@@ -4220,7 +4220,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 463,
+    "publicContributions": 593,
     "createdAt": "2025-08-14T14:13:33Z"
   },
   {
@@ -4232,7 +4232,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2025-08-20T10:41:33Z"
   },
   {
@@ -4244,7 +4244,7 @@
     "twitterUsername": "jbtradin",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 17,
     "createdAt": "2025-07-05T15:35:36Z"
   },
   {
@@ -4256,7 +4256,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 42,
-    "publicContributions": 138,
+    "publicContributions": 151,
     "createdAt": "2025-02-03T10:04:25Z"
   },
   {
@@ -4266,9 +4266,9 @@
     "location": "Oslo",
     "company": "University of Oslo — Department of Mathematics",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 251,
     "createdAt": "2025-09-19T13:03:13Z"
   },
   {

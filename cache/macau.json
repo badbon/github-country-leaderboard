@@ -3919,8 +3919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 323,
+    "privateContributions": 5,
+    "publicContributions": 342,
     "createdAt": "2016-01-21T19:30:23Z"
   },
   {
@@ -3966,9 +3966,9 @@
     "location": "Macau",
     "company": "Tsinghua University",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 330,
-    "publicContributions": 13,
+    "publicContributions": 12,
     "createdAt": "2016-10-11T17:26:56Z"
   },
   {
@@ -3980,20 +3980,8 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 7,
-    "publicContributions": 11,
+    "publicContributions": 7,
     "createdAt": "2016-01-05T09:05:53Z"
-  },
-  {
-    "login": "BoxMars",
-    "name": "Box",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16847158?s=72&u=9764f3f114d963a8cdb4024ed57220633325d4d4&v=4",
-    "location": "Macau",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 43,
-    "publicContributions": 55,
-    "createdAt": "2016-01-23T02:59:24Z"
   },
   {
     "login": "HansiChan",
@@ -4003,7 +3991,7 @@
     "company": "Sands ",
     "twitterUsername": "hansiCrypto",
     "followers": 20,
-    "privateContributions": 1029,
+    "privateContributions": 1484,
     "publicContributions": 265,
     "createdAt": "2016-08-09T08:43:44Z"
   },
@@ -4026,9 +4014,9 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 128,
-    "publicContributions": 49,
+    "followers": 16,
+    "privateContributions": 107,
+    "publicContributions": 41,
     "createdAt": "2016-02-17T06:43:49Z"
   },
   {
@@ -4038,9 +4026,9 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 49,
     "createdAt": "2016-01-26T13:54:42Z"
   },
   {
@@ -4063,8 +4051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 55,
-    "publicContributions": 5,
+    "privateContributions": 62,
+    "publicContributions": 3,
     "createdAt": "2016-05-16T00:49:57Z"
   },
   {
@@ -4074,9 +4062,9 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 24,
     "createdAt": "2016-12-15T02:13:27Z"
   },
   {
@@ -4087,8 +4075,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 9,
-    "publicContributions": 0,
+    "privateContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2016-05-01T09:38:28Z"
   },
   {
@@ -4112,7 +4100,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 10,
     "createdAt": "2016-09-08T10:52:54Z"
   },
   {
@@ -4122,7 +4110,7 @@
     "location": "Macau",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-27T10:40:54Z"

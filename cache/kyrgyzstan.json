@@ -3752,7 +3752,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 59,
     "createdAt": "2023-11-30T11:50:57Z"
   },
   {
@@ -3774,9 +3774,9 @@
     "location": "Kyrgyzstan",
     "company": "PROlab agency",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 121,
-    "publicContributions": 17,
+    "followers": 7,
+    "privateContributions": 117,
+    "publicContributions": 61,
     "createdAt": "2023-10-21T09:22:41Z"
   },
   {
@@ -3788,20 +3788,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2023-04-15T12:44:25Z"
-  },
-  {
-    "login": "Izatis",
-    "name": "Izat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125425878?s=72&u=860a4fcae13d470a8fc6fa3201417a5f8d1d03dc&v=4",
-    "location": "Kyrgyzstan, Bishkek",
-    "company": "SnowFlake",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-02-15T03:33:29Z"
   },
   {
     "login": "azarft",
@@ -3812,7 +3800,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 27,
     "createdAt": "2023-02-27T05:23:52Z"
   },
   {
@@ -3835,8 +3823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 103,
-    "publicContributions": 5,
+    "privateContributions": 311,
+    "publicContributions": 0,
     "createdAt": "2023-06-14T13:50:43Z"
   },
   {
@@ -3848,7 +3836,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 51,
     "createdAt": "2023-04-23T16:59:05Z"
   },
   {
@@ -3860,7 +3848,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2023-10-04T11:53:17Z"
   },
   {
@@ -3882,8 +3870,8 @@
     "location": "Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 982,
+    "followers": 5,
+    "privateContributions": 1229,
     "publicContributions": 105,
     "createdAt": "2023-08-03T11:18:06Z"
   },
@@ -3895,7 +3883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 79,
+    "privateContributions": 263,
     "publicContributions": 104,
     "createdAt": "2023-08-30T05:07:44Z"
   },
@@ -3908,7 +3896,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 238,
+    "publicContributions": 232,
     "createdAt": "2023-09-29T12:25:59Z"
   },
   {
@@ -3919,7 +3907,7 @@
     "company": "K-Rose IT Solutions",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2956,
+    "privateContributions": 3430,
     "publicContributions": 0,
     "createdAt": "2023-12-25T03:24:20Z"
   },
@@ -3943,7 +3931,7 @@
     "company": "Etnomedia LLC",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 293,
+    "privateContributions": 228,
     "publicContributions": 8,
     "createdAt": "2023-10-15T07:39:06Z"
   },
@@ -3966,9 +3954,9 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-04-03T16:06:54Z"
   },
   {

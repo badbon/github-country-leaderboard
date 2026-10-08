@@ -3908,7 +3908,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2024-02-02T05:48:37Z"
   },
   {
@@ -3920,7 +3920,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 198,
     "createdAt": "2024-06-21T03:16:52Z"
   },
   {
@@ -3932,7 +3932,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 148,
     "createdAt": "2024-08-22T14:18:37Z"
   },
   {
@@ -3942,9 +3942,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 29,
     "createdAt": "2024-01-22T16:52:27Z"
   },
   {
@@ -3954,9 +3954,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 76,
     "createdAt": "2024-10-08T03:26:51Z"
   },
   {
@@ -3967,8 +3967,8 @@
     "company": "SilentSoft-LLP ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1054,
-    "publicContributions": 40,
+    "privateContributions": 1124,
+    "publicContributions": 9,
     "createdAt": "2024-10-23T05:28:09Z"
   },
   {
@@ -3978,9 +3978,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 909,
+    "publicContributions": 1045,
     "createdAt": "2024-11-09T16:13:45Z"
   },
   {
@@ -3991,8 +3991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 302,
-    "publicContributions": 135,
+    "privateContributions": 394,
+    "publicContributions": 134,
     "createdAt": "2024-08-10T11:49:46Z"
   },
   {
@@ -4004,7 +4004,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 369,
+    "publicContributions": 253,
     "createdAt": "2024-07-08T05:59:51Z"
   },
   {
@@ -4015,8 +4015,8 @@
     "company": "Astana IT University",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 431,
-    "publicContributions": 537,
+    "privateContributions": 816,
+    "publicContributions": 473,
     "createdAt": "2024-07-24T16:29:28Z"
   },
   {
@@ -4026,9 +4026,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "touna333",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 131,
     "createdAt": "2024-01-17T08:08:50Z"
   },
   {
@@ -4038,33 +4038,21 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 46,
-    "publicContributions": 139,
+    "followers": 7,
+    "privateContributions": 89,
+    "publicContributions": 111,
     "createdAt": "2024-08-11T19:25:53Z"
   },
   {
-    "login": "akylzx",
-    "name": "Akylzhan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158067519?s=72&u=1faee331394a09b1e5f171fa82e5a03acef70323&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 124,
-    "publicContributions": 30,
-    "createdAt": "2024-01-29T15:11:22Z"
-  },
-  {
     "login": "avdasich",
-    "name": "Hex",
+    "name": "Antropov Danil",
     "avatarUrl": "https://avatars.githubusercontent.com/u/191994598?s=72&u=7b70402ee879ae39414ac598b1e3325fb9102f9d&v=4",
     "location": "Kazakhstan, Ust-Kamenogorsk // Russia, Novosibirsk",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 74,
     "createdAt": "2024-12-17T14:02:05Z"
   },
   {
@@ -4075,21 +4063,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3,
-    "publicContributions": 189,
+    "privateContributions": 4,
+    "publicContributions": 336,
     "createdAt": "2024-04-23T14:01:16Z"
-  },
-  {
-    "login": "ni9aii",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190766661?s=72&u=0e614663cd9e763275f128076fdf78cc2f658e83&v=4",
-    "location": "Kostanay, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 399,
-    "createdAt": "2024-12-05T18:03:20Z"
   },
   {
     "login": "zhando6",
@@ -4100,7 +4076,7 @@
     "twitterUsername": "zhando6m",
     "followers": 7,
     "privateContributions": 191,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-01-21T20:32:44Z"
   },
   {
@@ -4124,7 +4100,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 304,
+    "publicContributions": 224,
     "createdAt": "2024-12-18T04:57:58Z"
   },
   {
@@ -4134,9 +4110,9 @@
     "location": "Kazakhstan, Almaty",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 40,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2024-07-26T19:01:19Z"
   },
   {
