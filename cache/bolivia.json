@@ -3738,9 +3738,9 @@
     "location": "Bolivia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 60,
-    "publicContributions": 34,
+    "followers": 2,
+    "privateContributions": 65,
+    "publicContributions": 35,
     "createdAt": "2023-06-26T22:57:08Z"
   },
   {
@@ -3776,7 +3776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 713,
     "createdAt": "2023-03-31T00:55:12Z"
   },
   {
@@ -3788,7 +3788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2023-10-26T13:37:32Z"
   },
   {
@@ -3812,7 +3812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-06-06T21:00:13Z"
   },
   {
@@ -3896,13 +3896,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 113,
     "createdAt": "2023-08-09T14:00:14Z"
   },
   {
     "login": "TsukiNekoDev",
     "name": "TsukiNekoDev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125704572?s=72&u=dbe292483864b1b6b63e7e2caf1c5e1bd1f2f55c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125704572?s=72&u=bbcc6e7a961f1393cffe5c40e1ee9868b4efa8c0&v=4",
     "location": "La Paz, Bolivia",
     "company": "",
     "twitterUsername": "",
@@ -3966,7 +3966,7 @@
     "location": "Sucre",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2023-03-10T18:33:26Z"

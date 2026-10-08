@@ -3716,7 +3716,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 34,
     "createdAt": "2025-01-15T02:04:17Z"
   },
   {
@@ -3728,7 +3728,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 59,
     "createdAt": "2025-04-04T21:24:45Z"
   },
   {
@@ -3740,7 +3740,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 32,
     "createdAt": "2025-02-10T15:10:39Z"
   },
   {
@@ -3750,7 +3750,7 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2025-05-10T12:50:38Z"
@@ -3762,7 +3762,7 @@
     "location": "Córdoba, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2025-01-29T13:31:25Z"
@@ -3770,37 +3770,37 @@
   {
     "login": "elimenit",
     "name": "Elmer Yachak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206145952?s=72&v=4",
-    "location": "Buenos Aires, CABA, Argentina ",
-    "company": "OpenSource ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206145952?s=72&u=c6b6b9cb25d46a7fb1dc26c4a84a79daf9cd5230&v=4",
+    "location": "Buenos Aires (CABA), Argentina ",
+    "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 177,
+    "publicContributions": 235,
     "createdAt": "2025-04-03T22:53:26Z"
   },
   {
     "login": "mssm-ar",
-    "name": "Javier Alejandro D",
+    "name": "Manela Salasas Jordan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/194716658?s=72&u=b2b1d67a054b853205ff7ca61d767529b30867b4&v=4",
     "location": "Argentina",
     "company": "Atelier",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 65,
     "createdAt": "2025-01-12T18:29:37Z"
   },
   {
     "login": "Starscream84",
     "name": "Matias Nerli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206269855?s=72&u=39b5a8208203c45c0115da259d09d2e953e5c798&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206269855?s=72&u=5d343d72ac11c0f4e3032620091b8e72d9bb8f28&v=4",
     "location": "Mar del Plata (Argentina)",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 2,
-    "publicContributions": 52,
+    "publicContributions": 59,
     "createdAt": "2025-04-04T20:43:21Z"
   },
   {
@@ -3812,7 +3812,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 55,
     "createdAt": "2025-03-11T01:17:29Z"
   },
   {
@@ -3824,7 +3824,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 17,
     "createdAt": "2025-03-18T17:18:12Z"
   },
   {
@@ -3834,9 +3834,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 27,
     "createdAt": "2025-04-04T23:47:06Z"
   },
   {
@@ -3846,9 +3846,9 @@
     "location": "Buenos Aires - Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 271,
-    "publicContributions": 264,
+    "followers": 8,
+    "privateContributions": 1056,
+    "publicContributions": 259,
     "createdAt": "2025-03-06T13:33:49Z"
   },
   {
@@ -3872,7 +3872,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 32,
     "createdAt": "2025-05-29T23:42:54Z"
   },
   {
@@ -3882,9 +3882,9 @@
     "location": "Rosario , Santa Fe , Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 297,
+    "publicContributions": 267,
     "createdAt": "2025-05-12T22:30:57Z"
   },
   {
@@ -3894,9 +3894,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 31,
     "createdAt": "2025-01-02T20:06:11Z"
   },
   {
@@ -3908,7 +3908,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 33,
     "createdAt": "2025-03-11T14:06:09Z"
   },
   {
@@ -3918,9 +3918,9 @@
     "location": "Mar del Plata, Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 979,
+    "publicContributions": 1199,
     "createdAt": "2025-03-15T08:39:28Z"
   },
   {
@@ -3930,7 +3930,7 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-03T17:57:42Z"
@@ -3944,7 +3944,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 6,
     "createdAt": "2024-12-28T18:47:22Z"
   },
   {
@@ -499003,7 +499003,7 @@
     "company": "@openlazarus ",
     "twitterUsername": "mercurithinks",
     "followers": 9,
-    "privateContributions": 843,
+    "privateContributions": 1029,
     "publicContributions": 0,
     "createdAt": "2016-07-27T21:03:01Z"
   },

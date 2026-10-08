@@ -3752,7 +3752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 25,
     "createdAt": "2025-08-23T19:01:22Z"
   },
   {
@@ -3775,7 +3775,7 @@
     "company": "EPAM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 288,
+    "privateContributions": 252,
     "publicContributions": 23,
     "createdAt": "2025-04-25T07:32:11Z"
   },
@@ -3788,7 +3788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 294,
     "createdAt": "2025-10-23T04:41:32Z"
   },
   {
@@ -3824,7 +3824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-14T21:13:53Z"
   },
   {
@@ -3882,9 +3882,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 29,
     "createdAt": "2025-11-16T11:20:33Z"
   },
   {
@@ -3896,7 +3896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-02T18:34:44Z"
   },
   {
@@ -3906,7 +3906,7 @@
     "location": "Sibiu, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 77,
     "createdAt": "2025-11-07T09:55:21Z"
@@ -3944,7 +3944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 44,
     "createdAt": "2025-07-10T13:07:36Z"
   },
   {
@@ -3973,14 +3973,14 @@
   },
   {
     "login": "SsekamateSharif",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229006956?s=72&v=4",
+    "name": "Ssekamate Sharif",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229006956?s=72&u=c433ef8862c5e33e59bac7c94163c56eebc59a5c&v=4",
     "location": "Bucharest, Romania",
-    "company": "",
+    "company": "e4176611fcbb01b331f0c969df015306",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 114,
     "createdAt": "2025-08-27T20:10:58Z"
   },
   {

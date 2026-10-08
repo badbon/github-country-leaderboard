@@ -4028,7 +4028,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2023-09-28T11:35:23Z"
   },
   {
@@ -4099,8 +4099,8 @@
     "company": "@Easyso-Connection-Integration ",
     "twitterUsername": "EsayEtemSarac",
     "followers": 2,
-    "privateContributions": 1676,
-    "publicContributions": 205,
+    "privateContributions": 3576,
+    "publicContributions": 1,
     "createdAt": "2023-01-31T18:59:30Z"
   },
   {
@@ -4124,7 +4124,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 40,
     "createdAt": "2023-04-23T17:59:43Z"
   },
   {
@@ -4134,22 +4134,10 @@
     "location": "Tartu, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-15T21:52:33Z"
-  },
-  {
-    "login": "philipdev1",
-    "name": "Philip James",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131665223?s=72&u=82c950aef8889ce81e3025673c1e4562cc43db83&v=4",
-    "location": "Estonia",
-    "company": "@bbachain ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-04-24T10:24:06Z"
   },
   {
     "login": "kivojenko",
@@ -4159,8 +4147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 37,
-    "publicContributions": 63,
+    "privateContributions": 144,
+    "publicContributions": 89,
     "createdAt": "2023-06-05T14:54:11Z"
   },
   {
@@ -4172,7 +4160,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 184,
     "createdAt": "2023-10-17T14:30:45Z"
   },
   {
@@ -4184,7 +4172,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 71,
     "createdAt": "2023-03-30T12:30:57Z"
   },
   {
@@ -4196,7 +4184,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 113,
     "createdAt": "2023-09-20T07:55:10Z"
   },
   {
@@ -4208,7 +4196,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 28,
     "createdAt": "2023-07-26T13:11:24Z"
   },
   {
@@ -4219,20 +4207,20 @@
     "company": "",
     "twitterUsername": "vsdevraj",
     "followers": 2,
-    "privateContributions": 174,
-    "publicContributions": 15,
+    "privateContributions": 341,
+    "publicContributions": 7,
     "createdAt": "2023-10-04T09:25:20Z"
   },
   {
     "login": "Dualifyy",
     "name": "dualify",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144818434?s=72&u=e500f9e123352806fda369b57f9345da710618f3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144818434?s=72&u=023ff4c4664547e5201ff6561581b7e249f2a20b&v=4",
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 264,
     "createdAt": "2023-09-12T14:36:09Z"
   },
   {
@@ -4242,9 +4230,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2023-05-17T16:39:08Z"
   },
   {

@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 16,
     "createdAt": "2025-01-16T08:00:40Z"
   },
   {
@@ -3668,7 +3668,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 130,
     "createdAt": "2025-06-08T21:34:41Z"
   },
   {
@@ -3680,7 +3680,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2025-07-17T21:11:23Z"
   },
   {
@@ -3692,7 +3692,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 533,
+    "publicContributions": 530,
     "createdAt": "2025-12-26T09:05:56Z"
   },
   {
@@ -3702,7 +3702,7 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "ristomagayer",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-27T09:44:01Z"
@@ -3715,8 +3715,8 @@
     "company": "Here.Oy",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 25,
-    "publicContributions": 117,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2025-08-08T13:45:56Z"
   },
   {
@@ -3728,7 +3728,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5119,
+    "publicContributions": 4532,
     "createdAt": "2025-07-13T20:32:07Z"
   },
   {
@@ -3751,7 +3751,7 @@
     "company": "Flashka",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 101,
+    "privateContributions": 100,
     "publicContributions": 0,
     "createdAt": "2025-02-06T08:28:58Z"
   },
@@ -3762,9 +3762,9 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 200,
     "createdAt": "2025-01-17T10:53:54Z"
   },
   {
@@ -3776,7 +3776,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2025-08-18T08:22:49Z"
   },
   {
@@ -3800,7 +3800,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 95,
     "createdAt": "2025-05-06T07:16:51Z"
   },
   {
@@ -3824,7 +3824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 27,
     "createdAt": "2025-02-20T11:00:59Z"
   },
   {
@@ -3834,9 +3834,9 @@
     "location": "Helsinki",
     "company": "FP Labs",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 85,
     "createdAt": "2025-04-15T11:55:29Z"
   },
   {
@@ -3846,7 +3846,7 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-28T08:28:35Z"
@@ -3858,9 +3858,9 @@
     "location": "Helsinki",
     "company": "Aalto University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 29,
     "createdAt": "2025-02-07T07:59:41Z"
   },
   {
@@ -3871,7 +3871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3737,
+    "privateContributions": 4453,
     "publicContributions": 3,
     "createdAt": "2025-06-28T15:57:28Z"
   },
@@ -3884,7 +3884,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 17,
     "createdAt": "2025-05-09T13:10:46Z"
   },
   {
@@ -217918,5 +217918,17 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2026-05-22T21:19:02Z"
+  },
+  {
+    "login": "kassxxv",
+    "name": "Filip",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150235158?s=72&u=60ddaa2fc242447294a2294ba1d88ced0aacf75c&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 140,
+    "createdAt": "2023-11-08T08:52:02Z"
   }
 ]

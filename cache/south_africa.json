@@ -3750,9 +3750,9 @@
     "location": "South Africa",
     "company": "Tech TitansZA",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2025-09-22T16:26:56Z"
   },
   {
@@ -3762,9 +3762,9 @@
     "location": "Johannesburg, South Africa",
     "company": "University of Pretoria",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 2,
     "createdAt": "2025-07-13T17:43:20Z"
   },
   {
@@ -3774,56 +3774,56 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 476,
+    "publicContributions": 419,
     "createdAt": "2025-01-27T15:15:54Z"
   },
   {
     "login": "aninomars",
-    "name": "devkona.io",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211227831?s=72&v=4",
-    "location": "East London, South Africa",
+    "name": "Sivuyise Ncapayi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211227831?s=72&u=241b326bd50afc5c163a3d6d175bd9a5a9d06f54&v=4",
+    "location": "KuGompo, South Africa",
     "company": "devkona.io",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 111,
-    "publicContributions": 121,
+    "followers": 8,
+    "privateContributions": 123,
+    "publicContributions": 62,
     "createdAt": "2025-05-11T14:33:50Z"
   },
   {
     "login": "xodo2fast4u",
-    "name": "Ryan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229652521?s=72&u=d5604ba57ec4fd952b32a22bc32988f0368d6d4c&v=4",
+    "name": "Xodobyte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229652521?s=72&u=d20430cf7ed196b6782d2fe659c611c53807d98d&v=4",
     "location": "South Africa",
     "company": "xodolabs",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 190,
-    "publicContributions": 221,
+    "privateContributions": 214,
+    "publicContributions": 157,
     "createdAt": "2025-08-31T21:36:21Z"
   },
   {
     "login": "keletso-m",
     "name": "Keletso Monyamane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194229346?s=72&u=83ba8776b7c6f2862f052cdace05453e5adda40c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194229346?s=72&u=5b3092827101dff472e5ead3a80715b854160b0d&v=4",
     "location": "south Africa ",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 427,
+    "publicContributions": 790,
     "createdAt": "2025-01-08T10:54:30Z"
   },
   {
     "login": "glucode-mpho",
     "name": "Mpho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245256128?s=72&u=e854c212ae563c7f21c12f1713fab57b1a5cc47b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245256128?s=72&u=ed6e5743c05c9f3f50adb4f63207ddc481f0b10b&v=4",
     "location": "South Africa",
     "company": "Glucode",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 50,
+    "followers": 9,
+    "privateContributions": 97,
     "publicContributions": 15,
     "createdAt": "2025-11-20T20:07:16Z"
   },
@@ -3834,7 +3834,7 @@
     "location": "Hatfield, Pretoria, South Africa",
     "company": "University of Pretoria",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 81,
     "createdAt": "2025-03-25T12:40:08Z"
@@ -3847,21 +3847,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-11T23:50:42Z"
-  },
-  {
-    "login": "SWE-StaceyL",
-    "name": "StaceyL",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203323437?s=72&u=5d41442cd308446684abbb024ca3cc81ba842391&v=4",
-    "location": "South Africa",
-    "company": "White Space Digital & Design Pty Ltd",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 368,
-    "createdAt": "2025-03-14T15:12:59Z"
   },
   {
     "login": "meg-commits",
@@ -3870,9 +3858,9 @@
     "location": "Cape Town, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 112,
     "createdAt": "2025-05-30T14:18:24Z"
   },
   {
@@ -3884,7 +3872,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2025-03-21T11:31:41Z"
   },
   {
@@ -3894,9 +3882,9 @@
     "location": "South Africa, Gauteng Province",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 26,
-    "publicContributions": 85,
+    "followers": 58,
+    "privateContributions": 3,
+    "publicContributions": 122,
     "createdAt": "2025-09-24T08:34:38Z"
   },
   {
@@ -3906,9 +3894,9 @@
     "location": "Cape Town, South Africa",
     "company": "NexTech Solutions",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 121,
     "createdAt": "2025-02-20T11:21:29Z"
   },
   {
@@ -3918,9 +3906,9 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 92,
     "createdAt": "2025-03-14T20:59:42Z"
   },
   {
@@ -3932,7 +3920,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 385,
+    "publicContributions": 401,
     "createdAt": "2025-02-15T17:39:10Z"
   },
   {
@@ -3942,9 +3930,9 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 356,
-    "publicContributions": 1914,
+    "followers": 8,
+    "privateContributions": 145,
+    "publicContributions": 2850,
     "createdAt": "2025-08-31T08:54:19Z"
   },
   {
@@ -3954,7 +3942,7 @@
     "location": "Cape Town, South Africa",
     "company": "Autolykos",
     "twitterUsername": "lifeofifa",
-    "followers": 8,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2025-05-28T09:02:32Z"
@@ -3966,8 +3954,8 @@
     "location": "Johannesburg, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 786,
+    "followers": 8,
+    "privateContributions": 1432,
     "publicContributions": 9,
     "createdAt": "2025-02-07T13:20:31Z"
   },
@@ -3978,7 +3966,7 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 106,
     "createdAt": "2025-08-21T19:36:41Z"

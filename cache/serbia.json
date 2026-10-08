@@ -3776,7 +3776,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 9,
-    "publicContributions": 67,
+    "publicContributions": 64,
     "createdAt": "2024-07-31T11:23:24Z"
   },
   {
@@ -3824,7 +3824,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 33,
     "createdAt": "2024-03-15T18:59:56Z"
   },
   {
@@ -3836,7 +3836,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 338,
     "createdAt": "2024-04-16T14:50:41Z"
   },
   {
@@ -3847,8 +3847,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 473,
-    "publicContributions": 13,
+    "privateContributions": 507,
+    "publicContributions": 8,
     "createdAt": "2024-11-07T15:28:41Z"
   },
   {
@@ -3872,19 +3872,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 30,
     "createdAt": "2024-04-22T10:48:05Z"
   },
   {
     "login": "ItsWazzaP",
     "name": "WazzaP",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159933355?s=72&u=b4ddf1d55cf6ec05f680b950d78d2be1d5a55b29&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159933355?s=72&u=06315862c4c87a4cd8de25ea65186b834e2a7db9&v=4",
     "location": "Serbia",
     "company": "",
     "twitterUsername": "ItsWazzaP",
     "followers": 3,
     "privateContributions": 16,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2024-02-13T16:06:35Z"
   },
   {
@@ -3900,25 +3900,13 @@
     "createdAt": "2024-07-29T11:40:21Z"
   },
   {
-    "login": "quwazy",
-    "name": "Janko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162360001?s=72&u=642170835043531eada8b616ddc9a54b9bf44918&v=4",
-    "location": "Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 96,
-    "createdAt": "2024-03-05T17:51:05Z"
-  },
-  {
     "login": "pirotuwk",
     "name": "ZC",
     "avatarUrl": "https://avatars.githubusercontent.com/u/168218025?s=72&v=4",
     "location": "Pirot, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-26T16:51:03Z"
@@ -3932,7 +3920,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 139,
     "createdAt": "2024-05-04T20:36:12Z"
   },
   {
@@ -3955,8 +3943,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 183,
-    "publicContributions": 504,
+    "privateContributions": 170,
+    "publicContributions": 312,
     "createdAt": "2024-07-15T13:56:59Z"
   },
   {
@@ -3980,7 +3968,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 233,
     "createdAt": "2024-05-23T17:56:38Z"
   },
   {
@@ -3990,9 +3978,9 @@
     "location": "Novi Pazar,Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 29,
-    "publicContributions": 479,
+    "publicContributions": 471,
     "createdAt": "2024-11-28T19:38:38Z"
   },
   {

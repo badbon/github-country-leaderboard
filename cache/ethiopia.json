@@ -4016,7 +4016,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 199,
     "createdAt": "2025-06-02T21:43:16Z"
   },
   {
@@ -4026,9 +4026,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 17,
-    "publicContributions": 74,
+    "followers": 6,
+    "privateContributions": 108,
+    "publicContributions": 81,
     "createdAt": "2025-03-31T10:32:47Z"
   },
   {
@@ -4038,9 +4038,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "GamachuAbebe",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 87,
     "createdAt": "2025-02-12T16:20:06Z"
   },
   {
@@ -4050,7 +4050,7 @@
     "location": "Ethiopia, Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 48,
     "createdAt": "2025-10-13T07:30:57Z"
@@ -4060,11 +4060,11 @@
     "name": "Anwar Hussen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/205906430?s=72&u=4487f2e81d926bd1cd23dba7d47c1d920b7a4a5c&v=4",
     "location": "Addis Ababa, Ethiopia",
-    "company": "Bahirdar University",
+    "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 530,
+    "publicContributions": 274,
     "createdAt": "2025-04-02T09:14:14Z"
   },
   {
@@ -4076,7 +4076,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2025-03-21T16:14:37Z"
   },
   {
@@ -4086,7 +4086,7 @@
     "location": "Ethiopia",
     "company": "TypeHabesha",
     "twitterUsername": "type_habesha",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2025-04-26T13:53:05Z"
@@ -4106,13 +4106,13 @@
   {
     "login": "ashnafi1426",
     "name": "Ashenafi sileshi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201331839?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201331839?s=72&u=8d589d46ba6556d3827cc4e4f3b30f57f396d6f9&v=4",
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 252,
-    "publicContributions": 377,
+    "followers": 5,
+    "privateContributions": 179,
+    "publicContributions": 446,
     "createdAt": "2025-03-01T08:28:58Z"
   },
   {
@@ -4123,20 +4123,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 59,
-    "publicContributions": 465,
+    "privateContributions": 56,
+    "publicContributions": 304,
     "createdAt": "2025-06-07T17:37:12Z"
   },
   {
     "login": "HenokNets",
-    "name": "Stellar",
+    "name": "Henok Netsanet",
     "avatarUrl": "https://avatars.githubusercontent.com/u/234636498?s=72&u=a36d5539100d28bb5bcc36ee819022a7cd98f8d6&v=4",
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "Henok_Netsanet",
     "followers": 4,
     "privateContributions": 41,
-    "publicContributions": 255,
+    "publicContributions": 297,
     "createdAt": "2025-09-26T14:49:32Z"
   },
   {
@@ -4146,7 +4146,7 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 1,
     "publicContributions": 208,
     "createdAt": "2025-05-31T11:26:37Z"
@@ -4158,21 +4158,21 @@
     "location": "Jimma, Ethiopia 🌍 (from Addis Ababa)",
     "company": "Independent / Freelance Software Engineer",
     "twitterUsername": "DesalegnYo",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 97,
     "createdAt": "2025-03-10T17:50:53Z"
   },
   {
     "login": "bedhasa",
     "name": "bedasa Negash",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201434092?s=72&u=d5b19d59c54ba0f270529d86755897beb3a9b11e&v=4",
-    "location": "Robe,Oromia,Ethiopia",
+    "location": "Addis Ababa,Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 67,
+    "followers": 14,
+    "privateContributions": 27,
+    "publicContributions": 59,
     "createdAt": "2025-03-02T08:05:18Z"
   },
   {
@@ -4183,8 +4183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 10,
-    "publicContributions": 15,
+    "privateContributions": 6,
+    "publicContributions": 14,
     "createdAt": "2025-02-15T13:02:58Z"
   },
   {
@@ -4196,7 +4196,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 169,
     "createdAt": "2025-10-20T03:54:51Z"
   },
   {
@@ -4218,9 +4218,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 555,
+    "publicContributions": 735,
     "createdAt": "2025-03-18T09:37:07Z"
   },
   {
@@ -4231,20 +4231,20 @@
     "company": "@mesobcenter",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 124,
-    "publicContributions": 8,
+    "privateContributions": 19,
+    "publicContributions": 2,
     "createdAt": "2025-09-01T10:37:04Z"
   },
   {
     "login": "NardosAbel",
     "name": "Nardos Abel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223300846?s=72&u=300b4676077372f7f61762e6a4f628e26cab0995&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223300846?s=72&u=5ed9ed41d6348d05c833ab1a3f047d72d33dda17&v=4",
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2025-07-28T14:33:11Z"
   },
   {

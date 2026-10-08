@@ -3704,7 +3704,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 12,
     "createdAt": "2024-09-05T22:58:13Z"
   },
   {
@@ -3716,7 +3716,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 333,
+    "publicContributions": 360,
     "createdAt": "2024-01-14T01:58:00Z"
   },
   {
@@ -3740,7 +3740,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 119,
     "createdAt": "2024-10-19T20:05:12Z"
   },
   {
@@ -3752,7 +3752,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 2,
-    "publicContributions": 119,
+    "publicContributions": 139,
     "createdAt": "2024-06-09T02:53:19Z"
   },
   {
@@ -3764,7 +3764,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 28,
     "createdAt": "2024-06-30T22:52:23Z"
   },
   {
@@ -3774,22 +3774,10 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 1,
     "publicContributions": 3,
     "createdAt": "2024-05-01T14:52:21Z"
-  },
-  {
-    "login": "miguelb-dev",
-    "name": "Miguel Bethancourt",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179344233?s=72&u=4d075bbfedc6477ddadcf21c521b90727feec9ea&v=4",
-    "location": "Valera, Venezuela",
-    "company": "",
-    "twitterUsername": "miguelonb_dev",
-    "followers": 6,
-    "privateContributions": 13,
-    "publicContributions": 170,
-    "createdAt": "2024-08-24T20:47:05Z"
   },
   {
     "login": "EL-DesaFull",
@@ -3798,7 +3786,7 @@
     "location": "Caracas, Venezuela",
     "company": "Freelancer en Desarrollo Web de Aplicaciones",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2024-04-10T02:25:08Z"
@@ -3810,9 +3798,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 215,
     "createdAt": "2024-06-10T21:39:21Z"
   },
   {
@@ -3836,7 +3824,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 7,
     "createdAt": "2024-05-04T06:17:00Z"
   },
   {
@@ -3858,9 +3846,9 @@
     "location": "Venezuela",
     "company": "MDX",
     "twitterUsername": "MarceloDesignX",
-    "followers": 5,
-    "privateContributions": 6220,
-    "publicContributions": 67,
+    "followers": 3,
+    "privateContributions": 12539,
+    "publicContributions": 72,
     "createdAt": "2024-09-18T12:07:27Z"
   },
   {
@@ -3883,8 +3871,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 300,
-    "publicContributions": 215,
+    "privateContributions": 294,
+    "publicContributions": 260,
     "createdAt": "2024-08-08T20:53:26Z"
   },
   {
@@ -3896,7 +3884,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 256,
+    "publicContributions": 132,
     "createdAt": "2024-02-10T00:45:08Z"
   },
   {
@@ -3906,9 +3894,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2024-02-19T16:15:16Z"
   },
   {
@@ -3920,7 +3908,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 52,
     "createdAt": "2024-09-26T18:15:49Z"
   },
   {
@@ -3930,9 +3918,9 @@
     "location": "Caracas, Venezuela.",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 369,
-    "publicContributions": 16,
+    "followers": 4,
+    "privateContributions": 524,
+    "publicContributions": 9,
     "createdAt": "2024-09-17T14:31:21Z"
   },
   {
