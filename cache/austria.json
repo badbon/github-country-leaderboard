@@ -5372,7 +5372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 34,
     "createdAt": "2025-07-07T11:54:17Z"
   },
   {
@@ -5384,7 +5384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 15,
     "createdAt": "2025-07-15T13:30:42Z"
   },
   {
@@ -5396,7 +5396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2025-07-17T12:05:38Z"
   },
   {
@@ -5408,19 +5408,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6922,
+    "publicContributions": 8637,
     "createdAt": "2025-08-17T00:25:17Z"
   },
   {
     "login": "MMarthe-cloud",
     "name": "Marco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/247876578?s=72&u=4b355277e23247bad4a32f9453531606a62dfced&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247876578?s=72&u=8579b250ecb3245f7453557d0b75fdee97513d62&v=4",
     "location": "Vienna",
     "company": "Cyclomedia",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 24,
     "createdAt": "2025-12-04T20:32:19Z"
   },
   {
@@ -5466,7 +5466,7 @@
     "location": "Vienna austria ",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 53,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-25T10:46:24Z"
@@ -5480,7 +5480,7 @@
     "twitterUsername": "walpth",
     "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 150,
     "createdAt": "2024-10-02T17:51:19Z"
   },
   {
@@ -5490,22 +5490,10 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 52,
     "privateContributions": 0,
-    "publicContributions": 2479,
+    "publicContributions": 2059,
     "createdAt": "2024-03-11T14:41:58Z"
-  },
-  {
-    "login": "emateofabregas",
-    "name": "Eva Mateo Fábregas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189519929?s=72&u=8640469ef20dc3dc98917bb5ceddcd434a86b825&v=4",
-    "location": "Vienna, Austria",
-    "company": "Arx anima",
-    "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 0,
-    "publicContributions": 112,
-    "createdAt": "2024-11-24T11:05:09Z"
   },
   {
     "login": "ttaarik",
@@ -5526,7 +5514,7 @@
     "location": "Vienna, Austria",
     "company": "UNOOSA",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-09T12:15:16Z"
@@ -5534,13 +5522,13 @@
   {
     "login": "andreiborza",
     "name": "Andrei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168741329?s=72&u=57b8c1e58778d71562aa7a8a2bbe752d84a71720&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168741329?s=72&u=8d6e19cbf3f78c43cc33ef648ee1700f06f0d487&v=4",
     "location": "Vienna, Austria",
     "company": "@getsentry",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 133,
-    "publicContributions": 1835,
+    "privateContributions": 176,
+    "publicContributions": 2256,
     "createdAt": "2024-05-02T12:34:57Z"
   },
   {
@@ -5551,8 +5539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1001,
-    "publicContributions": 1292,
+    "privateContributions": 1405,
+    "publicContributions": 1396,
     "createdAt": "2024-01-26T07:57:36Z"
   },
   {
@@ -5564,7 +5552,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 397,
+    "publicContributions": 402,
     "createdAt": "2024-07-05T07:16:12Z"
   },
   {
@@ -5576,19 +5564,19 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 140,
     "createdAt": "2024-01-26T19:48:33Z"
   },
   {
     "login": "SebastianHauss",
-    "name": "Sebastian Hauss",
+    "name": "Sebastian Hauß",
     "avatarUrl": "https://avatars.githubusercontent.com/u/181667832?s=72&u=cd95e6b61f4731a4e1c23b9fab5a769534e1e5cb&v=4",
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 151,
     "createdAt": "2024-09-15T19:21:41Z"
   },
   {

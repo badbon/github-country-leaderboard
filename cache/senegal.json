@@ -5214,9 +5214,9 @@
     "location": "Dakar , Sénégal",
     "company": "PyCon Senegambia",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 61,
     "createdAt": "2022-09-10T11:08:50Z"
   },
   {
@@ -5226,9 +5226,9 @@
     "location": "VDN, Dakar",
     "company": "Orange Digital Center",
     "twitterUsername": "iba_o01",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 53,
     "createdAt": "2022-08-25T11:54:57Z"
   },
   {
@@ -5240,7 +5240,7 @@
     "twitterUsername": "Chikaledev",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 335,
+    "publicContributions": 321,
     "createdAt": "2022-10-05T22:26:47Z"
   },
   {
@@ -5251,8 +5251,8 @@
     "company": "@paps-app",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 2045,
-    "publicContributions": 117,
+    "privateContributions": 1806,
+    "publicContributions": 122,
     "createdAt": "2022-01-18T13:07:42Z"
   },
   {
@@ -5262,7 +5262,7 @@
     "location": "Dakar , SN",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 208,
     "createdAt": "2022-09-17T13:33:36Z"
@@ -5274,22 +5274,10 @@
     "location": "Dakar, Sénégal  🇸🇳 ",
     "company": " @Zionteranga ",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2022-02-10T15:28:15Z"
-  },
-  {
-    "login": "Princetoutcouleur",
-    "name": "Baba Thiam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97804190?s=72&u=499c5f3b1c8a30d9b0d1cc8780e8dd5ffe7bfbb4&v=4",
-    "location": "Sénégal / Dakar / Fass Mbao",
-    "company": "",
-    "twitterUsername": "Babathiam01",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-15T18:24:56Z"
   },
   {
     "login": "MrGueye",
@@ -5298,8 +5286,8 @@
     "location": "Dakar",
     "company": "@Marketbisn @caytout",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 585,
+    "followers": 7,
+    "privateContributions": 596,
     "publicContributions": 5,
     "createdAt": "2022-05-21T10:54:24Z"
   },
@@ -5312,7 +5300,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 32,
     "createdAt": "2022-01-12T23:27:05Z"
   },
   {
@@ -5323,7 +5311,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 58,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-19T12:23:21Z"
   },
@@ -5334,7 +5322,7 @@
     "location": "Dakar",
     "company": "Kolding-Business",
     "twitterUsername": "SiboBald",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-08-22T16:15:39Z"
@@ -5346,9 +5334,9 @@
     "location": "Dakar, Sénégal",
     "company": "MEDICOM GROUP Sénégal",
     "twitterUsername": "cayledsn",
-    "followers": 6,
-    "privateContributions": 696,
-    "publicContributions": 17,
+    "followers": 7,
+    "privateContributions": 711,
+    "publicContributions": 44,
     "createdAt": "2022-01-23T17:13:16Z"
   },
   {
@@ -5382,7 +5370,7 @@
     "location": "Dakar, Sénégal ",
     "company": "@quantifyafrica/@MamadouSDiallo",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-16T10:02:46Z"
@@ -5394,7 +5382,7 @@
     "location": "Dakar, Sénégal",
     "company": "Institut Supérieur Informatique",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-03-14T03:59:23Z"
@@ -5407,8 +5395,8 @@
     "company": "Komytek",
     "twitterUsername": "mansour_kholle",
     "followers": 5,
-    "privateContributions": 1380,
-    "publicContributions": 0,
+    "privateContributions": 1389,
+    "publicContributions": 1,
     "createdAt": "2022-09-08T00:59:46Z"
   },
   {
@@ -5420,7 +5408,7 @@
     "twitterUsername": "Seydina1720",
     "followers": 5,
     "privateContributions": 75,
-    "publicContributions": 369,
+    "publicContributions": 380,
     "createdAt": "2022-02-20T23:33:48Z"
   },
   {

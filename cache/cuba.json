@@ -15466,5 +15466,41 @@
     "privateContributions": 0,
     "publicContributions": 1463,
     "createdAt": "2025-07-07T14:12:07Z"
+  },
+  {
+    "login": "mendezdouglas088-oss",
+    "name": "Douglas Méndez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291398386?s=72&u=ea5a1b14096fd6b45c7e0326d347d3b6c1654809&v=4",
+    "location": "La Habana, Cuba",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2026-06-06T22:40:32Z"
+  },
+  {
+    "login": "ropydev",
+    "name": "Ronald Bello",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291429318?s=72&u=ef900cdc4e1c361feab14516a6ca74cc96972d42&v=4",
+    "location": "Santa Clara, Villa Clara(Cuba)",
+    "company": "null",
+    "twitterUsername": "ropydev",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-06-07T03:32:50Z"
+  },
+  {
+    "login": "ElCapi1195",
+    "name": "Eduardo Cabrera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296754865?s=72&v=4",
+    "location": "Cuba",
+    "company": "NexLevelDigital",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-25T03:46:39Z"
   }
 ]

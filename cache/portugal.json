@@ -5168,7 +5168,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2025-06-27T21:57:52Z"
   },
   {
@@ -5180,7 +5180,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 49,
     "createdAt": "2025-07-11T19:54:40Z"
   },
   {
@@ -5191,8 +5191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 156,
-    "publicContributions": 81,
+    "privateContributions": 198,
+    "publicContributions": 116,
     "createdAt": "2025-03-05T22:04:13Z"
   },
   {
@@ -5202,9 +5202,9 @@
     "location": "Portugal",
     "company": "I'm open to opportunities",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 7,
     "createdAt": "2025-05-18T10:32:50Z"
   },
   {
@@ -5226,9 +5226,9 @@
     "location": "Caldas da Rainha, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 59,
     "createdAt": "2025-01-31T14:15:52Z"
   },
   {
@@ -5240,7 +5240,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 68,
     "createdAt": "2025-03-27T15:32:01Z"
   },
   {
@@ -5257,14 +5257,14 @@
   },
   {
     "login": "pmcostadev",
-    "name": "pmcosta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228165451?s=72&u=4c0a0a3f374206eef8e2d1cd75b1ee13641c7a14&v=4",
+    "name": "Pedro Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228165451?s=72&u=54427456466c8d3102de785ea460f9a0ac8a4fd7&v=4",
     "location": "Portugal",
     "company": "@cryptohub-agency",
     "twitterUsername": "pmcostadev",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "followers": 10,
+    "privateContributions": 81294,
+    "publicContributions": 167,
     "createdAt": "2025-08-23T07:23:43Z"
   },
   {
@@ -5272,11 +5272,11 @@
     "name": "Miguel Pato",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202508577?s=72&u=bbb958d8c46ef19f6d2494a6ab68a0a2d2d557ea&v=4",
     "location": "Portugal ",
-    "company": "CyberDuck",
+    "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 23,
     "createdAt": "2025-03-09T11:07:04Z"
   },
   {
@@ -5288,7 +5288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 99,
     "createdAt": "2025-10-03T20:35:31Z"
   },
   {
@@ -5302,18 +5302,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-24T12:43:13Z"
-  },
-  {
-    "login": "PedroBT-1252001",
-    "name": "Pedro Andrade",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243622299?s=72&v=4",
-    "location": "Porto, Portugal",
-    "company": "Post Grad Student - Switch Dev",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-11-12T17:48:45Z"
   },
   {
     "login": "theGNB",
@@ -5346,9 +5334,9 @@
     "location": "Portugal",
     "company": "Redis",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 327,
+    "publicContributions": 354,
     "createdAt": "2025-05-05T11:03:59Z"
   },
   {
@@ -5359,20 +5347,20 @@
     "company": "TUI Group",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 466,
-    "publicContributions": 0,
+    "privateContributions": 535,
+    "publicContributions": 1,
     "createdAt": "2025-05-07T09:00:49Z"
   },
   {
     "login": "lidialecle",
     "name": "Lídia Carvalho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212789720?s=72&u=0551e87aa51c3cc8d37131cff0d299bc7a8199c8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/212789720?s=72&u=c503774d88365f4cfb6ad7f5384991129bba005c&v=4",
     "location": "Portugal",
     "company": "",
-    "twitterUsername": "lidialecle",
-    "followers": 2,
+    "twitterUsername": "",
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 80,
     "createdAt": "2025-05-21T21:02:53Z"
   },
   {
@@ -5384,7 +5372,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-06-18T20:04:02Z"
   },
   {

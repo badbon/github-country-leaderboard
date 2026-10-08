@@ -5478,9 +5478,9 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2021-07-21T23:52:08Z"
   },
   {
@@ -5516,7 +5516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2021-11-08T09:47:57Z"
   },
   {
@@ -5539,8 +5539,8 @@
     "company": "TeamSystem",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 333,
-    "publicContributions": 0,
+    "privateContributions": 525,
+    "publicContributions": 2,
     "createdAt": "2021-11-03T20:12:19Z"
   },
   {
@@ -5646,9 +5646,9 @@
     "location": "Tirana",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 117,
-    "publicContributions": 10,
+    "followers": 20,
+    "privateContributions": 146,
+    "publicContributions": 0,
     "createdAt": "2021-08-06T17:28:49Z"
   },
   {

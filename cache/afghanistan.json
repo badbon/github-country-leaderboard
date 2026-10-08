@@ -5454,9 +5454,9 @@
     "location": "Kabul, Afghanistan",
     "company": "Baheer Group",
     "twitterUsername": "",
-    "followers": 87,
-    "privateContributions": 10524,
-    "publicContributions": 100,
+    "followers": 91,
+    "privateContributions": 9480,
+    "publicContributions": 64,
     "createdAt": "2023-04-27T02:55:30Z"
   },
   {
@@ -5467,8 +5467,8 @@
     "company": "",
     "twitterUsername": "cipher_airdrop",
     "followers": 83,
-    "privateContributions": 4,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2023-07-02T15:55:48Z"
   },
   {
@@ -5488,11 +5488,11 @@
     "name": "Ahmad Pamir",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145165779?s=72&u=e5c83cb6765e8fceaeb7cc32eb58f9e59789a8d1&v=4",
     "location": "Kabul, Afghanistan",
-    "company": "RTA",
+    "company": "Ersal",
     "twitterUsername": "ZakiPamir",
     "followers": 73,
-    "privateContributions": 4270,
-    "publicContributions": 9,
+    "privateContributions": 4413,
+    "publicContributions": 12,
     "createdAt": "2023-09-15T21:46:01Z"
   },
   {
@@ -5503,8 +5503,8 @@
     "company": "",
     "twitterUsername": "Najib_Jafari_",
     "followers": 62,
-    "privateContributions": 1879,
-    "publicContributions": 95,
+    "privateContributions": 2305,
+    "publicContributions": 62,
     "createdAt": "2022-12-30T05:37:47Z"
   },
   {
@@ -5514,9 +5514,9 @@
     "location": "Kabul, Afghanistan ",
     "company": "Front-End Developer",
     "twitterUsername": "SadafDaneshgar",
-    "followers": 61,
+    "followers": 65,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 76,
     "createdAt": "2023-02-07T16:03:57Z"
   },
   {
@@ -5526,9 +5526,9 @@
     "location": "Herat, Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 60,
-    "privateContributions": 1832,
-    "publicContributions": 124,
+    "followers": 99,
+    "privateContributions": 1768,
+    "publicContributions": 94,
     "createdAt": "2023-12-15T17:59:37Z"
   },
   {
@@ -5539,8 +5539,8 @@
     "company": "PhysicalExam",
     "twitterUsername": "MAnwarHussaini",
     "followers": 56,
-    "privateContributions": 13195,
-    "publicContributions": 93,
+    "privateContributions": 14534,
+    "publicContributions": 88,
     "createdAt": "2023-04-19T17:02:50Z"
   },
   {
@@ -5550,9 +5550,9 @@
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "Sardar626285221",
-    "followers": 55,
-    "privateContributions": 2238,
-    "publicContributions": 337,
+    "followers": 54,
+    "privateContributions": 2783,
+    "publicContributions": 308,
     "createdAt": "2023-03-30T07:07:36Z"
   },
   {
@@ -5562,9 +5562,9 @@
     "location": "Herat, Afghanistan ",
     "company": "",
     "twitterUsername": "Mahmood18999963",
-    "followers": 52,
-    "privateContributions": 1100,
-    "publicContributions": 34,
+    "followers": 54,
+    "privateContributions": 824,
+    "publicContributions": 232,
     "createdAt": "2023-05-04T14:18:15Z"
   },
   {
@@ -5575,8 +5575,8 @@
     "company": "Full stack web developer",
     "twitterUsername": "",
     "followers": 48,
-    "privateContributions": 2,
-    "publicContributions": 9,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2023-02-27T13:58:31Z"
   },
   {
@@ -5587,7 +5587,7 @@
     "company": "Full-Stack Developer",
     "twitterUsername": "AliBabaHu2023",
     "followers": 44,
-    "privateContributions": 918,
+    "privateContributions": 651,
     "publicContributions": 1,
     "createdAt": "2023-02-23T17:48:08Z"
   },
@@ -5598,22 +5598,10 @@
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "alisajad07",
-    "followers": 42,
+    "followers": 43,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-28T13:52:07Z"
-  },
-  {
-    "login": "madadi-jafar",
-    "name": "Jafar Madadi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141542975?s=72&u=6753cd2f032b3664fbb7887d8aa455da48f3c668&v=4",
-    "location": "Kabul Afghanistan",
-    "company": "Afghan Telecom Corporation ",
-    "twitterUsername": "jafar_11353",
-    "followers": 36,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2023-08-06T05:56:42Z"
   },
   {
     "login": "Laylawakily",
@@ -5622,8 +5610,8 @@
     "location": "Afghanistan",
     "company": "",
     "twitterUsername": "la_wakily",
-    "followers": 36,
-    "privateContributions": 28,
+    "followers": 39,
+    "privateContributions": 17,
     "publicContributions": 2,
     "createdAt": "2023-05-15T02:17:49Z"
   },
@@ -5634,9 +5622,9 @@
     "location": "Kabul, Afghanistan",
     "company": "PohanTech",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 133,
     "createdAt": "2023-07-16T06:49:54Z"
   },
   {
@@ -5648,7 +5636,7 @@
     "twitterUsername": "",
     "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 78,
     "createdAt": "2023-07-25T10:04:22Z"
   },
   {
@@ -5659,8 +5647,8 @@
     "company": "@Newlink",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 156,
-    "publicContributions": 172,
+    "privateContributions": 108,
+    "publicContributions": 137,
     "createdAt": "2023-10-04T06:11:21Z"
   },
   {
@@ -5670,7 +5658,7 @@
     "location": "Afghanistan",
     "company": "currently available for hire",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-13T12:27:43Z"
@@ -5682,7 +5670,7 @@
     "location": "kabul, Afghanistan",
     "company": "",
     "twitterUsername": "MuhammadJa11667",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 47,
     "createdAt": "2023-08-16T08:19:19Z"

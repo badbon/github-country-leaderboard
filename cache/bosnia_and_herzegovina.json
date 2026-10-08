@@ -5228,7 +5228,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 46,
     "createdAt": "2022-10-16T10:13:09Z"
   },
   {
@@ -5238,7 +5238,7 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2022-10-10T20:07:43Z"
@@ -5251,7 +5251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 580,
+    "privateContributions": 884,
     "publicContributions": 1,
     "createdAt": "2022-11-15T13:32:28Z"
   },
@@ -5262,9 +5262,9 @@
     "location": "Sarajevo",
     "company": "Faculty of Electrical Engineering, Computer Science and Informatic",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 119,
     "createdAt": "2022-10-16T20:05:06Z"
   },
   {
@@ -5275,8 +5275,8 @@
     "company": "Cape Ann Enterprises",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 189,
-    "publicContributions": 34,
+    "privateContributions": 51,
+    "publicContributions": 0,
     "createdAt": "2022-04-10T13:23:56Z"
   },
   {
@@ -5287,7 +5287,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 58,
+    "privateContributions": 70,
     "publicContributions": 248,
     "createdAt": "2022-07-27T19:46:11Z"
   },
@@ -5299,7 +5299,7 @@
     "company": "Faculty of Electrical Engineering",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 13,
+    "privateContributions": 29,
     "publicContributions": 40,
     "createdAt": "2022-10-10T20:32:14Z"
   },
@@ -5311,8 +5311,8 @@
     "company": "Faculty of Electrical Engineering in Sarajevo",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 69,
+    "privateContributions": 31,
+    "publicContributions": 118,
     "createdAt": "2022-01-29T10:02:45Z"
   },
   {
@@ -5324,7 +5324,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 78,
     "createdAt": "2022-01-28T00:06:12Z"
   },
   {
@@ -5347,8 +5347,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 562,
-    "publicContributions": 26,
+    "privateContributions": 803,
+    "publicContributions": 15,
     "createdAt": "2022-11-01T14:39:29Z"
   },
   {
@@ -5388,18 +5388,6 @@
     "createdAt": "2022-12-22T17:29:56Z"
   },
   {
-    "login": "hamzamiladin",
-    "name": "Hamza Miladin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117471235?s=72&u=b5924952e65f9a45ce897919094febb8da42bc3b&v=4",
-    "location": "Sarajevo",
-    "company": "Symphony Intern",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 309,
-    "publicContributions": 82,
-    "createdAt": "2022-11-04T16:38:30Z"
-  },
-  {
     "login": "Amars21",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101577036?s=72&u=94ae848c48ab7983259aed14cb21c4a8e7a830c0&v=4",
@@ -5418,21 +5406,21 @@
     "location": "Sarajevo",
     "company": "Omnitask",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1390,
+    "followers": 5,
+    "privateContributions": 1464,
     "publicContributions": 1,
     "createdAt": "2022-10-13T17:45:42Z"
   },
   {
     "login": "Tutik55",
     "name": "Adnan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121238704?s=72&u=18130e59ceb29214ec8b0c1aaa96852b0181f764&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121238704?s=72&u=5f536e693189dea9f073716d508b417ed535e40e&v=4",
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 107,
     "createdAt": "2022-12-22T13:25:34Z"
   },
   {

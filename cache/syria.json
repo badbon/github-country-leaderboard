@@ -5203,8 +5203,8 @@
     "company": "@HIAST",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 38,
-    "publicContributions": 195,
+    "privateContributions": 668,
+    "publicContributions": 99,
     "createdAt": "2023-02-13T15:59:52Z"
   },
   {
@@ -5214,9 +5214,9 @@
     "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 329,
-    "publicContributions": 508,
+    "followers": 23,
+    "privateContributions": 358,
+    "publicContributions": 369,
     "createdAt": "2023-01-23T18:15:23Z"
   },
   {
@@ -5226,9 +5226,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 397,
+    "publicContributions": 399,
     "createdAt": "2023-11-22T16:48:36Z"
   },
   {
@@ -5238,9 +5238,9 @@
     "location": "Syria, Damascus",
     "company": "SEZARD",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 3330,
-    "publicContributions": 88,
+    "followers": 21,
+    "privateContributions": 7947,
+    "publicContributions": 54,
     "createdAt": "2023-04-25T18:37:14Z"
   },
   {
@@ -5250,21 +5250,21 @@
     "location": "damascus , syria",
     "company": "Prime tech solutions",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 33,
     "createdAt": "2023-04-07T12:44:29Z"
   },
   {
     "login": "KaremSD",
     "name": "Karem Mounir Saad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128032597?s=72&u=01da30b6f50e928468998ff9c796ba5f6ee1f660&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128032597?s=72&u=2b8c95256083d631b4331db37ca5808f9c4156d0&v=4",
     "location": "Syria , Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 367,
-    "publicContributions": 34,
+    "followers": 23,
+    "privateContributions": 458,
+    "publicContributions": 32,
     "createdAt": "2023-03-16T08:39:20Z"
   },
   {
@@ -5274,9 +5274,9 @@
     "location": "Syria, Damascuse",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 3,
     "createdAt": "2023-04-29T10:42:06Z"
   },
   {
@@ -5286,9 +5286,9 @@
     "location": "Syria",
     "company": "Homs University",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 24,
     "createdAt": "2023-03-17T12:12:54Z"
   },
   {
@@ -5298,9 +5298,9 @@
     "location": "Syria",
     "company": "Co-Founder of Kernel Crew",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1381,
-    "publicContributions": 36,
+    "followers": 19,
+    "privateContributions": 2067,
+    "publicContributions": 38,
     "createdAt": "2023-10-10T23:37:52Z"
   },
   {
@@ -5310,7 +5310,7 @@
     "location": "Damascus, Syria",
     "company": "Engineer",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 331,
     "createdAt": "2023-08-21T08:07:21Z"
@@ -5322,21 +5322,21 @@
     "location": "Damascus, Syria",
     "company": "DomApp",
     "twitterUsername": "alhumsi_m",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 172,
     "createdAt": "2023-06-16T05:31:38Z"
   },
   {
     "login": "shamhaedar",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143838429?s=72&u=79322d700273b9863de1db2cc6f2f58769270604&v=4",
+    "name": "sham",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143838429?s=72&u=306b6b6bbe6eca59590973a0f3a2fb448984bf73&v=4",
     "location": "syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 17,
     "createdAt": "2023-09-01T18:29:47Z"
   },
   {
@@ -5358,7 +5358,7 @@
     "location": "syria",
     "company": "Software Engineer | Front-End Developer",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2023-05-06T15:56:45Z"
@@ -5382,7 +5382,7 @@
     "location": "Damascus , Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2023-03-08T12:10:21Z"
@@ -5394,7 +5394,7 @@
     "location": "Syria, Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-07-19T08:41:39Z"
@@ -5407,8 +5407,8 @@
     "company": "Sham Logix",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 698,
-    "publicContributions": 1246,
+    "privateContributions": 615,
+    "publicContributions": 1180,
     "createdAt": "2023-04-05T12:48:36Z"
   },
   {
@@ -5418,9 +5418,9 @@
     "location": "Damascus, Syria",
     "company": "Damascus University",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 31,
     "createdAt": "2023-02-15T07:28:16Z"
   },
   {
@@ -5431,8 +5431,8 @@
     "company": "HIAST",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 48,
-    "publicContributions": 389,
+    "privateContributions": 13,
+    "publicContributions": 388,
     "createdAt": "2023-07-14T22:28:45Z"
   },
   {

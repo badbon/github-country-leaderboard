@@ -5180,7 +5180,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 238,
+    "publicContributions": 168,
     "createdAt": "2023-03-25T15:44:11Z"
   },
   {
@@ -5215,8 +5215,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 574,
-    "publicContributions": 37,
+    "privateContributions": 502,
+    "publicContributions": 32,
     "createdAt": "2023-09-14T06:25:22Z"
   },
   {
@@ -5228,7 +5228,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 74,
     "createdAt": "2023-07-19T22:37:32Z"
   },
   {
@@ -5338,18 +5338,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-02-08T17:31:47Z"
-  },
-  {
-    "login": "arnasbastyswix",
-    "name": "Arnas Bastys",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125677087?s=72&u=99db415236395862ec3207ea21ac1ff1d7ca9f78&v=4",
-    "location": "Vilnius",
-    "company": "Pricing Plans / Invoices",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-02-17T15:13:16Z"
   },
   {
     "login": "banshed",

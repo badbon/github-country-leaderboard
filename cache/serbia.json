@@ -5172,18 +5172,6 @@
     "createdAt": "2024-03-10T21:21:21Z"
   },
   {
-    "login": "DeepTerrorGG",
-    "name": "Danilo Ilic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155088553?s=72&u=ffe3e85d96996248a9d0e7169a4b2371039f13ff&v=4",
-    "location": "Serbia",
-    "company": "DeepTerrorgGG & Silent Horizon",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3286,
-    "publicContributions": 8006,
-    "createdAt": "2023-12-28T15:25:35Z"
-  },
-  {
     "login": "vladimir-lestar-valcon",
     "name": "Vladimir Leštar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/166826589?s=72&v=4",
@@ -5232,18 +5220,6 @@
     "createdAt": "2024-10-16T19:58:47Z"
   },
   {
-    "login": "ideatoproduct",
-    "name": "momcilo791",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177296024?s=72&u=616d4919d32a2b2b95d805bf8709e24ac9782e3e&v=4",
-    "location": "Obrenovac, Serbia",
-    "company": "Everise",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 17,
-    "createdAt": "2024-08-02T06:04:33Z"
-  },
-  {
     "login": "MilosS994",
     "name": "Milos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/176177231?s=72&u=b20074e4614b74d9afe824a31d45a52f7ee918e8&v=4",
@@ -5251,8 +5227,8 @@
     "company": "Gigatron",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 478,
-    "publicContributions": 64,
+    "privateContributions": 684,
+    "publicContributions": 3,
     "createdAt": "2024-07-20T20:13:05Z"
   },
   {
@@ -5263,7 +5239,7 @@
     "company": "Xometry Europe",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 537,
+    "privateContributions": 713,
     "publicContributions": 0,
     "createdAt": "2024-02-02T07:17:59Z"
   },
@@ -5276,7 +5252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-06-22T14:16:29Z"
   },
   {
@@ -5288,7 +5264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2024-11-15T21:07:46Z"
   },
   {
@@ -5296,11 +5272,11 @@
     "name": "Petar Skrbic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/170439025?s=72&v=4",
     "location": "Serbia",
-    "company": "",
+    "company": "Atlas Copco Group",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 491,
+    "publicContributions": 300,
     "createdAt": "2024-05-21T14:19:14Z"
   },
   {
@@ -5310,9 +5286,9 @@
     "location": "Belgrade, Serbia",
     "company": "Tenstorrent",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 559,
+    "publicContributions": 622,
     "createdAt": "2024-07-15T15:27:18Z"
   },
   {
@@ -5324,7 +5300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 29,
     "createdAt": "2024-03-27T13:29:30Z"
   },
   {
@@ -5336,7 +5312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 28,
     "createdAt": "2024-10-08T13:35:12Z"
   },
   {
@@ -5348,7 +5324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 317,
+    "publicContributions": 246,
     "createdAt": "2024-01-30T03:15:57Z"
   },
   {
@@ -5356,11 +5332,11 @@
     "name": "Kirill Bykov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/182760086?s=72&u=53040c882eaf1067f090862aec751a6d6ff10a9d&v=4",
     "location": "Novi Sad, Serbia",
-    "company": "@anyrun",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2031,
-    "publicContributions": 11,
+    "privateContributions": 3252,
+    "publicContributions": 0,
     "createdAt": "2024-09-25T10:43:12Z"
   },
   {

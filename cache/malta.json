@@ -5228,7 +5228,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2019-04-14T16:02:19Z"
   },
   {
@@ -5239,8 +5239,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 13,
-    "publicContributions": 26,
+    "privateContributions": 0,
+    "publicContributions": 24,
     "createdAt": "2019-06-22T10:05:05Z"
   },
   {
@@ -5274,9 +5274,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2693,
+    "publicContributions": 6234,
     "createdAt": "2019-02-04T08:10:27Z"
   },
   {
@@ -5287,7 +5287,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 32,
+    "privateContributions": 29,
     "publicContributions": 0,
     "createdAt": "2019-10-11T16:00:44Z"
   },
@@ -5335,7 +5335,7 @@
     "company": "Freelance Developer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
+    "privateContributions": 79,
     "publicContributions": 0,
     "createdAt": "2019-10-01T08:38:38Z"
   },
@@ -5377,14 +5377,14 @@
   },
   {
     "login": "Mehii",
-    "name": "Henrik Horváth",
+    "name": "Henrik Horvath",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47815362?s=72&u=abb50b8c8214b1510c25c02429da91223e584693&v=4",
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-02-20T10:30:28Z"
   },
   {
@@ -5443,7 +5443,7 @@
     "company": "Drunken Clan",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 269,
+    "privateContributions": 190,
     "publicContributions": 0,
     "createdAt": "2019-03-11T05:52:46Z"
   },
@@ -5455,7 +5455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 214,
+    "privateContributions": 173,
     "publicContributions": 8,
     "createdAt": "2019-03-15T12:19:26Z"
   },

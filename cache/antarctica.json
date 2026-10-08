@@ -5442,9 +5442,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "lastsky",
-    "followers": 27,
-    "privateContributions": 38,
-    "publicContributions": 2,
+    "followers": 28,
+    "privateContributions": 33,
+    "publicContributions": 3,
     "createdAt": "2010-07-16T18:09:14Z"
   },
   {
@@ -5454,21 +5454,21 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 54,
     "createdAt": "2010-12-16T06:44:51Z"
   },
   {
     "login": "DigitalVanilla",
     "name": "Davide Scheriani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/334690?s=72&u=1d274183bf2f01fc034aaddec906ebb7d3e76c4f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/334690?s=72&u=24c01c82b72b7624717fab4c028b2cef74d2fd7a&v=4",
     "location": "Antarctica",
     "company": "DigitalVanilla",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 927,
-    "publicContributions": 16,
+    "followers": 8,
+    "privateContributions": 912,
+    "publicContributions": 17,
     "createdAt": "2010-07-17T06:10:26Z"
   },
   {
@@ -5491,8 +5491,8 @@
     "company": "incubii consulting",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 937,
-    "publicContributions": 252,
+    "privateContributions": 887,
+    "publicContributions": 254,
     "createdAt": "2010-02-21T22:03:38Z"
   },
   {
@@ -5502,33 +5502,21 @@
     "location": "Halley Research Station, Antarctica",
     "company": "@bbc ",
     "twitterUsername": "",
-    "followers": 201,
-    "privateContributions": 159,
-    "publicContributions": 195,
+    "followers": 199,
+    "privateContributions": 169,
+    "publicContributions": 156,
     "createdAt": "2009-07-28T16:28:57Z"
-  },
-  {
-    "login": "isomorphisms",
-    "name": "i",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170678?s=72&v=4",
-    "location": "Antarctica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 73,
-    "privateContributions": 0,
-    "publicContributions": 37,
-    "createdAt": "2009-12-21T21:23:03Z"
   },
   {
     "login": "roprice",
     "name": "Rowan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/19863?s=72&u=ee17a311471d39d1165290de42043da7e39a019e&v=4",
     "location": "Antarctica",
-    "company": "Remap",
+    "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 92,
-    "publicContributions": 222,
+    "privateContributions": 0,
+    "publicContributions": 26,
     "createdAt": "2008-08-07T08:00:16Z"
   },
   {
@@ -5539,7 +5527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3831,
+    "privateContributions": 3841,
     "publicContributions": 9,
     "createdAt": "2026-05-23T12:55:59Z"
   },

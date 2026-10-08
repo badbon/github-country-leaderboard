@@ -5168,19 +5168,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 3,
     "createdAt": "2025-03-06T13:51:53Z"
   },
   {
     "login": "neolikescode",
     "name": "Neo kgatla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194385753?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194385753?s=72&u=da9e5d5001ee6248b13ab9f8957bc732d59a469d&v=4",
     "location": "Bloemfontein, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 11,
-    "publicContributions": 20,
+    "followers": 7,
+    "privateContributions": 21,
+    "publicContributions": 93,
     "createdAt": "2025-01-09T13:32:38Z"
   },
   {
@@ -5204,7 +5204,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2025-05-13T20:19:52Z"
   },
   {
@@ -5216,7 +5216,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2025-08-14T10:00:34Z"
   },
   {
@@ -5227,8 +5227,8 @@
     "company": "Mmuso code",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 238,
-    "publicContributions": 85,
+    "privateContributions": 285,
+    "publicContributions": 88,
     "createdAt": "2025-11-11T22:12:36Z"
   },
   {
@@ -5239,7 +5239,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1005,
+    "privateContributions": 1053,
     "publicContributions": 161,
     "createdAt": "2025-10-17T10:29:10Z"
   },
@@ -5252,7 +5252,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 14,
     "createdAt": "2025-05-26T07:29:04Z"
   },
   {
@@ -5263,7 +5263,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2386,
+    "privateContributions": 5614,
     "publicContributions": 11,
     "createdAt": "2025-07-21T15:53:16Z"
   },
@@ -5276,19 +5276,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 42,
     "createdAt": "2025-08-19T14:32:23Z"
   },
   {
     "login": "KieyaraRamdhani",
     "name": "Kieyara Ramdhani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230870469?s=72&u=f77add88b9da61c437b1bebcdf992a7879ef7d0a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230870469?s=72&u=1ff235149b683e742ecb657e2ceb42ac250417a4&v=4",
     "location": "South Africa",
     "company": "@Richfield",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 40,
-    "publicContributions": 107,
+    "followers": 6,
+    "privateContributions": 38,
+    "publicContributions": 161,
     "createdAt": "2025-09-07T15:22:02Z"
   },
   {
@@ -5298,9 +5298,9 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 11,
+    "followers": 7,
+    "privateContributions": 83,
+    "publicContributions": 12,
     "createdAt": "2025-12-13T03:20:51Z"
   },
   {
@@ -5311,7 +5311,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 122,
+    "privateContributions": 185,
     "publicContributions": 20,
     "createdAt": "2025-02-28T15:28:58Z"
   },
@@ -5324,7 +5324,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 114,
     "createdAt": "2025-04-26T12:57:49Z"
   },
   {
@@ -5358,7 +5358,7 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2025-01-25T08:02:14Z"
@@ -5371,8 +5371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 43,
-    "publicContributions": 73,
+    "privateContributions": 36,
+    "publicContributions": 112,
     "createdAt": "2025-10-25T09:09:27Z"
   },
   {
@@ -130174,18 +130174,6 @@
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2018-07-12T21:23:27Z"
-  },
-  {
-    "login": "onamemba",
-    "name": "Engineer Francis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36232362?s=72&u=51572c953e2eee634dedfee7b5efa79d7d143fc1&v=4",
-    "location": "Cape town",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-02-07T13:14:54Z"
   },
   {
     "login": "99cents-git",

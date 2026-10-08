@@ -5155,8 +5155,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 1218,
-    "publicContributions": 28,
+    "privateContributions": 978,
+    "publicContributions": 27,
     "createdAt": "2024-04-30T21:17:00Z"
   },
   {
@@ -5166,9 +5166,9 @@
     "location": "tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 148,
     "createdAt": "2024-11-01T13:46:18Z"
   },
   {
@@ -5178,9 +5178,9 @@
     "location": "Tunisia",
     "company": "INSAT National Institute of Applied Sciences and Technology",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 367,
-    "publicContributions": 189,
+    "followers": 29,
+    "privateContributions": 1259,
+    "publicContributions": 178,
     "createdAt": "2024-12-11T12:46:35Z"
   },
   {
@@ -5190,33 +5190,21 @@
     "location": "Ben guardene, Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 177,
-    "publicContributions": 11,
+    "followers": 30,
+    "privateContributions": 112,
+    "publicContributions": 45,
     "createdAt": "2024-05-06T13:37:49Z"
-  },
-  {
-    "login": "aminemanai2003",
-    "name": "amine manai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182421953?s=72&u=e59b4c9779f3f5a6ba096f66e1e83b02ae1cbd62&v=4",
-    "location": "Tunisia",
-    "company": "ESPRIT",
-    "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 50,
-    "publicContributions": 407,
-    "createdAt": "2024-09-22T13:32:03Z"
   },
   {
     "login": "MelkiMeriem",
     "name": "Melki Meriem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158505045?s=72&u=48ffa81d9e3f84d4563ac3e8d7a5a185b4b9f65a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158505045?s=72&u=3673429b55943f9672f438bba3651ca57c1391e8&v=4",
     "location": "Tunisia",
     "company": "Insat",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 53,
-    "publicContributions": 240,
+    "privateContributions": 21,
+    "publicContributions": 142,
     "createdAt": "2024-02-01T17:48:56Z"
   },
   {
@@ -5226,8 +5214,8 @@
     "location": "Tunisia",
     "company": "Agora Group",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 845,
+    "followers": 29,
+    "privateContributions": 968,
     "publicContributions": 6,
     "createdAt": "2024-10-29T07:57:38Z"
   },
@@ -5238,9 +5226,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 3242,
-    "publicContributions": 823,
+    "followers": 22,
+    "privateContributions": 3483,
+    "publicContributions": 1065,
     "createdAt": "2024-07-02T16:15:04Z"
   },
   {
@@ -5250,7 +5238,7 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-11-13T11:07:04Z"
@@ -5258,25 +5246,25 @@
   {
     "login": "ELkarousWissem",
     "name": "Karous Wissem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170831064?s=72&u=b695ecc3f4bcb3be9369fdfd71c680ac677d162e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170831064?s=72&u=8bdfd67c92327ad20346b0bf02f044773dc1b108&v=4",
     "location": "Tunisia",
     "company": "ReDX Technologies",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 162,
-    "publicContributions": 40,
+    "followers": 25,
+    "privateContributions": 156,
+    "publicContributions": 30,
     "createdAt": "2024-05-25T20:30:12Z"
   },
   {
     "login": "ManaiFares",
     "name": "Fares Manai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157791861?s=72&u=68ac3fd1860332993fdb21fca97402ff8fde4486&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157791861?s=72&u=2b187a4465336a68264e2799c3bc8241495f2451&v=4",
     "location": "Tunisia",
     "company": "ESPRIT",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 0,
-    "publicContributions": 47,
+    "followers": 23,
+    "privateContributions": 147,
+    "publicContributions": 65,
     "createdAt": "2024-01-26T08:33:43Z"
   },
   {
@@ -5284,11 +5272,11 @@
     "name": "Amine Kilani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/156421120?s=72&u=bb981a616f2addb793beeb5785b5248a4abc2dff&v=4",
     "location": "Tunis, Tunisia",
-    "company": "",
+    "company": "ENSI",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 283,
-    "publicContributions": 206,
+    "followers": 22,
+    "privateContributions": 309,
+    "publicContributions": 205,
     "createdAt": "2024-01-12T10:00:27Z"
   },
   {
@@ -5298,9 +5286,9 @@
     "location": "Ariana,Tunisia",
     "company": "ISI",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 72,
     "createdAt": "2024-11-10T08:32:58Z"
   },
   {
@@ -5310,9 +5298,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-12-24T19:35:58Z"
   },
   {
@@ -5322,9 +5310,9 @@
     "location": "Nabeul, Tunisia",
     "company": "ESPRIT – Engineering School",
     "twitterUsername": "BechirLahoueg",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 42,
+    "followers": 21,
+    "privateContributions": 71,
+    "publicContributions": 430,
     "createdAt": "2024-09-26T23:12:28Z"
   },
   {
@@ -5334,7 +5322,7 @@
     "location": "Tunisia",
     "company": "Medius",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 17,
     "privateContributions": 20,
     "publicContributions": 17,
     "createdAt": "2024-10-20T18:07:58Z"
@@ -5346,9 +5334,9 @@
     "location": "Bizerte , Tunisia",
     "company": "INTeK instuit ",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 52,
-    "publicContributions": 179,
+    "followers": 16,
+    "privateContributions": 31,
+    "publicContributions": 59,
     "createdAt": "2024-07-16T08:21:23Z"
   },
   {
@@ -5364,25 +5352,13 @@
     "createdAt": "2024-01-20T18:28:53Z"
   },
   {
-    "login": "AMAIDI-MOHAMED",
-    "name": "AMAIDI MOHAMED",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187976443?s=72&u=558977654ff45df101c1385d89a1a9b9289abe28&v=4",
-    "location": "Redeyef, Gafsa, Tunisia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2024-11-10T17:43:51Z"
-  },
-  {
     "login": "helaouichourouk",
     "name": "Chourouk Helaoui",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169448893?s=72&u=28044a0eb0fafbf51b7e3568819b38f29fec2a8a&v=4",
     "location": "Tunisia",
-    "company": "Docetis",
+    "company": "Dnext",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2024-05-10T10:17:17Z"

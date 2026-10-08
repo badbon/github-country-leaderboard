@@ -4484,7 +4484,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 31,
     "createdAt": "2025-09-01T08:05:44Z"
   },
   {
@@ -4507,7 +4507,7 @@
     "company": "FixedIT Consulting AB",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 153,
+    "privateContributions": 154,
     "publicContributions": 1,
     "createdAt": "2025-12-12T15:02:25Z"
   },
@@ -4530,9 +4530,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 80,
-    "publicContributions": 83,
+    "followers": 3,
+    "privateContributions": 36,
+    "publicContributions": 155,
     "createdAt": "2025-06-27T16:24:06Z"
   },
   {
@@ -4544,20 +4544,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 12,
     "createdAt": "2025-02-15T15:37:39Z"
-  },
-  {
-    "login": "J0UH",
-    "name": "Jouh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217747670?s=72&u=12e0f93b1da3ef7014bff8cf72abd6a10e95bc83&v=4",
-    "location": "Sweden",
-    "company": "Jomena",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1333,
-    "publicContributions": 27,
-    "createdAt": "2025-06-24T10:58:27Z"
   },
   {
     "login": "Mahinika",
@@ -4568,7 +4556,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 219,
+    "publicContributions": 1171,
     "createdAt": "2025-06-21T21:55:02Z"
   },
   {
@@ -4592,7 +4580,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 243,
+    "publicContributions": 242,
     "createdAt": "2025-09-24T10:12:38Z"
   },
   {
@@ -4608,18 +4596,6 @@
     "createdAt": "2025-01-30T21:46:58Z"
   },
   {
-    "login": "axalii",
-    "name": "AX ALI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205247591?s=72&u=9f03102df8937dcc488671493778f7f2c375dc8a&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1681,
-    "publicContributions": 6,
-    "createdAt": "2025-03-27T23:20:22Z"
-  },
-  {
     "login": "ehayse",
     "name": "Eliza Hayse",
     "avatarUrl": "https://avatars.githubusercontent.com/u/230886294?s=72&v=4",
@@ -4628,19 +4604,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-07T17:39:29Z"
   },
   {
     "login": "MAJO89-git",
     "name": "Marcus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230103929?s=72&u=f8f8fb833537d114340ca2429f61f9e4a359047b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230103929?s=72&u=baffb2199a2cb617c82d54c1e9a83e9393896d28&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 43,
     "createdAt": "2025-09-03T06:59:26Z"
   },
   {
@@ -4650,7 +4626,7 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-25T17:46:58Z"
@@ -4664,7 +4640,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 109,
     "createdAt": "2025-10-08T13:32:04Z"
   },
   {
@@ -4676,7 +4652,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 476,
+    "publicContributions": 520,
     "createdAt": "2025-01-31T11:27:38Z"
   },
   {
@@ -4686,9 +4662,9 @@
     "location": "Sweden",
     "company": "KMR Studios",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 926,
-    "publicContributions": 2,
+    "followers": 1,
+    "privateContributions": 1893,
+    "publicContributions": 6,
     "createdAt": "2025-07-19T14:30:11Z"
   },
   {
@@ -4698,8 +4674,8 @@
     "location": "Sweden",
     "company": "Kivi Group AB",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2897,
+    "followers": 3,
+    "privateContributions": 3608,
     "publicContributions": 1,
     "createdAt": "2025-01-13T17:40:07Z"
   },
@@ -4711,7 +4687,7 @@
     "company": "PinMeTo",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 916,
+    "privateContributions": 896,
     "publicContributions": 9,
     "createdAt": "2025-06-16T14:26:38Z"
   },

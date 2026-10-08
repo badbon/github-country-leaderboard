@@ -5204,7 +5204,7 @@
     "twitterUsername": "Nazaramin6",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2019-04-05T05:42:06Z"
   },
   {
@@ -5214,9 +5214,9 @@
     "location": "Sudan",
     "company": "",
     "twitterUsername": "CsMojtaba",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 7,
-    "publicContributions": 136,
+    "publicContributions": 248,
     "createdAt": "2019-02-28T22:41:44Z"
   },
   {
@@ -5240,7 +5240,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 21,
     "createdAt": "2019-01-23T08:38:13Z"
   },
   {
@@ -5264,7 +5264,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 87,
     "createdAt": "2019-06-10T07:44:42Z"
   },
   {
@@ -5293,14 +5293,14 @@
   },
   {
     "login": "AliMAlsmani",
-    "name": "Ali M.Alsmani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48387945?s=72&u=1ca4dac4f820b1991092cae3d167e8ebfd69fb0c&v=4",
+    "name": "Ali Alsmani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48387945?s=72&u=17d1a302dd506629f9be5d5a83bde597b1a1deea&v=4",
     "location": "Sudan 🇸🇩",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-03-09T16:02:18Z"
   },
   {
@@ -5390,13 +5390,13 @@
   {
     "login": "mohammedMubark",
     "name": "Mohammed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56800922?s=72&u=4212096350dd9aeff3cca168ee0915c2af0ca270&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56800922?s=72&v=4",
     "location": "sudan",
     "company": "WeDo Technology",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 19,
     "createdAt": "2019-10-20T18:28:45Z"
   },
   {

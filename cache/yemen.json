@@ -5190,9 +5190,9 @@
     "location": "Yemen",
     "company": "None",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 76,
-    "publicContributions": 52,
+    "followers": 2,
+    "privateContributions": 273,
+    "publicContributions": 73,
     "createdAt": "2023-03-28T21:33:46Z"
   },
   {
@@ -5208,18 +5208,6 @@
     "createdAt": "2023-01-31T10:52:26Z"
   },
   {
-    "login": "7nnej",
-    "name": "‪Thabit Al-sadie‬‏",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145026581?s=72&u=16726aa39745c9949c8a71eacee2c098a82d0e70&v=4",
-    "location": "Yemen",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 0,
-    "createdAt": "2023-09-14T13:22:28Z"
-  },
-  {
     "login": "shimy2023",
     "name": "shima'a",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143554373?s=72&v=4",
@@ -5233,12 +5221,12 @@
   },
   {
     "login": "smartitechs2015",
-    "name": "Smart-itechs IT Solution",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136996956?s=72&v=4",
+    "name": "Taher Ahmad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136996956?s=72&u=e269b0cef96ba8dd653eef6731ddc3263ede12c1&v=4",
     "location": "Yemen, Tarim",
     "company": "@smart-itehcs",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-06-18T17:52:10Z"
@@ -5263,8 +5251,8 @@
     "company": "",
     "twitterUsername": "obaidalqurshi",
     "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 92,
+    "privateContributions": 150,
+    "publicContributions": 62,
     "createdAt": "2023-10-28T11:39:34Z"
   },
   {
@@ -5298,7 +5286,7 @@
     "location": "Yemen",
     "company": "@fintechsys ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-19T10:36:36Z"
@@ -5324,7 +5312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 16,
     "createdAt": "2023-10-26T17:21:20Z"
   },
   {
@@ -5360,20 +5348,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 16,
     "createdAt": "2023-12-12T16:30:31Z"
-  },
-  {
-    "login": "HazemSaher",
-    "name": "حازم ساهر",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153049057?s=72&u=f2a4f95d23091108d4f6229729a59c80724aff06&v=4",
-    "location": "Yemen",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2023-12-06T03:05:07Z"
   },
   {
     "login": "younisye",
@@ -5420,7 +5396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2023-09-01T16:20:58Z"
   },
   {

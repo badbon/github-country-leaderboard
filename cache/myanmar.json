@@ -5203,8 +5203,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1810,
-    "publicContributions": 75,
+    "privateContributions": 1873,
+    "publicContributions": 76,
     "createdAt": "2023-09-13T06:45:48Z"
   },
   {
@@ -5252,7 +5252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-10-12T21:02:35Z"
   },
   {
@@ -5280,18 +5280,6 @@
     "createdAt": "2023-07-07T16:04:51Z"
   },
   {
-    "login": "mrshinesb",
-    "name": "Mr Shine SB",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151829383?s=72&v=4",
-    "location": "Yangon, Myanmar",
-    "company": "SB GLOBAL CO.,LTD.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-11-23T09:26:10Z"
-  },
-  {
     "login": "prolevelgrammer",
     "name": "Pro Level Grammer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123880443?s=72&v=4",
@@ -5300,7 +5288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 9,
     "createdAt": "2023-01-29T13:39:01Z"
   },
   {
@@ -5347,8 +5335,8 @@
     "company": "@not-mugi ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1409,
-    "publicContributions": 11,
+    "privateContributions": 2092,
+    "publicContributions": 16,
     "createdAt": "2023-06-10T05:13:12Z"
   },
   {
@@ -5359,7 +5347,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 5,
     "publicContributions": 1,
     "createdAt": "2023-08-28T09:51:18Z"
   },
@@ -5383,7 +5371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
+    "privateContributions": 44,
     "publicContributions": 19,
     "createdAt": "2023-04-09T13:25:43Z"
   },
@@ -5406,7 +5394,7 @@
     "location": "Myanmar",
     "company": "NyanLinn.Htet7072",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-11-17T23:12:41Z"

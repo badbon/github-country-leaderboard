@@ -5124,18 +5124,6 @@
     "createdAt": "2026-03-26T15:26:32Z"
   },
   {
-    "login": "pub88betnet",
-    "name": "PUB88 BETNET",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266464808?s=72&v=4",
-    "location": "Thành phố Hồ Chí Minh, Vietnam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-08T09:39:15Z"
-  },
-  {
     "login": "LovePDF-lt",
     "name": "LovePDF.lt",
     "avatarUrl": "https://avatars.githubusercontent.com/u/283927160?s=72&u=73d3d6cef757033f7ddc98f15977c899f63367f0&v=4",
@@ -5191,8 +5179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 1,
+    "privateContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2026-02-06T15:54:51Z"
   },
   {
@@ -5208,18 +5196,6 @@
     "createdAt": "2026-04-28T08:57:35Z"
   },
   {
-    "login": "AnhLVHB24CC013",
-    "name": "Bui Thanh An",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278447431?s=72&u=e0332424178cf1a5f85ae14a2317f5b0365060b5&v=4",
-    "location": "Da Nang, Vietnam",
-    "company": "TDTU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-04-22T15:43:07Z"
-  },
-  {
     "login": "thezambuca",
     "name": "Sebastien Guidetti",
     "avatarUrl": "https://avatars.githubusercontent.com/u/265542743?s=72&u=4cc143093a79ebefbb6774b460e36c3e8db75dd7&v=4",
@@ -5228,7 +5204,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2026-03-04T13:34:02Z"
   },
   {
@@ -5238,7 +5214,7 @@
     "location": "Vietnam",
     "company": "FPT Automotive",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-11T15:31:55Z"
@@ -5276,7 +5252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 164,
     "createdAt": "2026-04-08T03:38:40Z"
   },
   {
@@ -5323,8 +5299,8 @@
     "company": "KMS Technology",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1607,
-    "publicContributions": 4,
+    "privateContributions": 2442,
+    "publicContributions": 8,
     "createdAt": "2026-03-02T02:38:04Z"
   },
   {
@@ -5346,9 +5322,9 @@
     "location": "Can Tho, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 99,
     "createdAt": "2026-01-31T05:36:00Z"
   },
   {

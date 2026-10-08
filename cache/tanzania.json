@@ -5178,9 +5178,9 @@
     "location": "Dodoma, Tanzania",
     "company": "self company",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 31,
     "createdAt": "2023-01-10T20:41:41Z"
   },
   {
@@ -5203,7 +5203,7 @@
     "company": "Jukwaa TechHub.Inc",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 11,
+    "privateContributions": 3,
     "publicContributions": 39,
     "createdAt": "2023-10-26T09:07:46Z"
   },
@@ -5214,9 +5214,9 @@
     "location": "Tanzania",
     "company": "Kemosabe",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 425,
-    "publicContributions": 278,
+    "followers": 10,
+    "privateContributions": 3137,
+    "publicContributions": 724,
     "createdAt": "2023-03-31T17:12:39Z"
   },
   {
@@ -5228,7 +5228,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 30,
     "createdAt": "2023-09-01T13:51:38Z"
   },
   {
@@ -5263,8 +5263,8 @@
     "company": "jrdev",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 9,
-    "publicContributions": 128,
+    "privateContributions": 5,
+    "publicContributions": 33,
     "createdAt": "2023-03-29T14:32:09Z"
   },
   {
@@ -5275,8 +5275,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 539,
-    "publicContributions": 647,
+    "privateContributions": 635,
+    "publicContributions": 1149,
     "createdAt": "2023-11-05T07:30:58Z"
   },
   {
@@ -5288,7 +5288,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 9,
-    "publicContributions": 101,
+    "publicContributions": 82,
     "createdAt": "2023-06-01T08:38:16Z"
   },
   {
@@ -5300,7 +5300,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 180,
     "createdAt": "2023-07-17T05:42:17Z"
   },
   {
@@ -5312,7 +5312,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 77,
     "createdAt": "2023-12-20T10:07:25Z"
   },
   {
@@ -5322,9 +5322,9 @@
     "location": "DAR ES SALAAM, TANZANIA",
     "company": "Note TZ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 635,
-    "publicContributions": 39,
+    "followers": 9,
+    "privateContributions": 646,
+    "publicContributions": 31,
     "createdAt": "2023-05-19T14:01:58Z"
   },
   {
@@ -5335,7 +5335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2506,
+    "privateContributions": 3236,
     "publicContributions": 28,
     "createdAt": "2023-06-09T21:48:46Z"
   },
@@ -5347,21 +5347,9 @@
     "company": "devsTz",
     "twitterUsername": "rogasiani_",
     "followers": 7,
-    "privateContributions": 1498,
-    "publicContributions": 489,
+    "privateContributions": 1397,
+    "publicContributions": 529,
     "createdAt": "2023-08-29T06:46:34Z"
-  },
-  {
-    "login": "rama-dhani24",
-    "name": "Octopus-2050",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141941367?s=72&u=4f7d5f8683a6a44ef849cbaddb2f054a201924a1&v=4",
-    "location": "DODOMA - TANZANIA",
-    "company": "IrisNet",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2023-08-10T15:03:27Z"
   },
   {
     "login": "sarahmuladi",
@@ -5370,9 +5358,9 @@
     "location": "Tanzania",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 5,
-    "publicContributions": 16,
+    "publicContributions": 11,
     "createdAt": "2023-02-05T15:43:09Z"
   },
   {
@@ -5383,21 +5371,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 273,
-    "publicContributions": 7,
+    "privateContributions": 257,
+    "publicContributions": 8,
     "createdAt": "2023-09-06T08:42:04Z"
-  },
-  {
-    "login": "Palccod",
-    "name": "Palccod",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129226171?s=72&u=45558bcee1a8eba7bb9e72dbf6db9a36e606e6be&v=4",
-    "location": "Tanzania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1985,
-    "publicContributions": 93,
-    "createdAt": "2023-03-28T20:45:28Z"
   },
   {
     "login": "stephanosiame",
@@ -5407,8 +5383,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 110,
+    "privateContributions": 968,
+    "publicContributions": 106,
     "createdAt": "2023-09-18T17:11:40Z"
   },
   {
