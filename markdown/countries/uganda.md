@@ -68,7 +68,7 @@ Indexed users: 3,873
 | 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Kampala | 760 |
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | Kampala, Uganda | 586 |
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 540 |
-| 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 518 |
+| 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 510 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 391 |
 | 9 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 329 |
 | 10 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | Kampala | 327 |
@@ -83,4 +83,4 @@ Indexed users: 3,873
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-08T02:05:01.456Z
+Generated: 2026-10-08T03:24:03.174Z

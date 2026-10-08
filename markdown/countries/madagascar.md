@@ -21,7 +21,7 @@ Indexed users: 1,915
 | 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 7,608 |
 | 8 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | Antananarivo, Madagascar | 6,726 |
 | 9 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina | Antananarivo, Madagascar | 6,242 |
-| 10 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | Madagascar | 5,711 |
+| 10 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | Madagascar | 6,231 |
 | 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,312 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Madagascar | 5,308 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,213 |
@@ -83,4 +83,4 @@ Indexed users: 1,915
 | 19 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan | Antananarivo, Madagascar | 145 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
 
-Generated: 2026-10-08T01:31:06.887Z
+Generated: 2026-10-08T02:52:53.944Z

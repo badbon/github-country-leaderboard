@@ -14,10 +14,10 @@ Indexed users: 1,654
 |---:|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,020 |
 | 2 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
-| 3 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,682 |
-| 4 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,290 |
-| 5 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 7,217 |
-| 6 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 7,148 |
+| 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,326 |
+| 4 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,682 |
+| 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,290 |
+| 6 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 7,217 |
 | 7 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 6,959 |
 | 8 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 6,719 |
 | 9 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
@@ -38,7 +38,7 @@ Indexed users: 1,654
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi | Bulawayo, Zimbabwe | 14,818 |
-| 2 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 7,148 |
+| 2 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,326 |
 | 3 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
 | 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 4,230 |
 | 5 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 4,209 |
@@ -55,14 +55,14 @@ Indexed users: 1,654
 | 16 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
 | 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
 | 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
-| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,192 |
+| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,092 |
 | 20 | [ohnonashe](https://github.com/ohnonashe) | Nashe Dan | Harare, Zimbabwe | 1,020 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,306 |
+| 1 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,302 |
 | 2 | [kenjiwizard](https://github.com/kenjiwizard) | Kenji | Harare | 1,201 |
 | 3 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 620 |
 | 4 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Zimbabwe | 612 |
@@ -71,8 +71,8 @@ Indexed users: 1,654
 | 7 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 205 |
 | 8 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 185 |
 | 9 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Bulawayo, Zimbabwe | 183 |
-| 10 | [sirx2713](https://github.com/sirx2713) | iSAD | Zimbabwe | 174 |
-| 11 | [Amen-Musingarimi](https://github.com/Amen-Musingarimi) | Amen Musingarimi | Harare, Zimbabwe | 171 |
+| 10 | [Amen-Musingarimi](https://github.com/Amen-Musingarimi) | Amen Musingarimi | Harare, Zimbabwe | 171 |
+| 11 | [sirx2713](https://github.com/sirx2713) | iSAD | Zimbabwe | 171 |
 | 12 | [kculz](https://github.com/kculz) | Kudzai Munyama | Mutare, Zimbabwe | 170 |
 | 13 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 165 |
 | 14 | [DonnC](https://github.com/DonnC) | Donald Chinhuru | Harare, Zimbabwe | 164 |
@@ -83,4 +83,4 @@ Indexed users: 1,654
 | 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-08T02:08:24.741Z
+Generated: 2026-10-08T03:29:11.704Z

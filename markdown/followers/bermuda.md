@@ -1,8 +1,8 @@
 # Followers - Bermuda
 
-Generated: 2026-10-08T02:18:03.915Z
+Generated: 2026-10-08T03:36:42.682Z
 
-Users: 907
+Users: 906
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 907
 | 13 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 133 |
 | 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 108 |
 | 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi |  |  | Hamilton, Ontario | 103 |
-| 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 91 |
+| 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 90 |
 | 17 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |
 | 18 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 86 |
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix |  |  | Hamilton, NZ | 86 |
-| 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Support Specialist at Harris Computer |  | Greater Hamilton(Burlington) Area | 75 |
+| 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Support Specialist at Harris Computer |  | Greater Hamilton(Burlington) Area | 66 |

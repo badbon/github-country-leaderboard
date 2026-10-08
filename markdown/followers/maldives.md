@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-08T01:32:34.519Z
+Generated: 2026-10-08T02:55:00.129Z
 
 Users: 356
 
@@ -16,7 +16,7 @@ Users: 356
 | 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 86 |
 | 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam |  | aharen | Malé, Maldives | 80 |
 | 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX |  | Z3d0X | Maldives | 79 |
-| 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau |  |  | Maldives | 70 |
+| 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau |  |  | Maldives | 71 |
 | 12 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 67 |
 | 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 |  |  | Maldives | 62 |
 | 14 | [xahy](https://github.com/xahy) | Ismail Zahee |  | xahyx | Maldives | 62 |

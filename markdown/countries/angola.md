@@ -39,9 +39,9 @@ Indexed users: 2,506
 |---:|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 31,686 |
 | 2 | [Kamuku](https://github.com/Kamuku) | Avelino Rufino | Luanda, Angola | 2,760 |
-| 3 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
-| 4 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
-| 5 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola 🇦🇴 | 2,056 |
+| 3 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,163 |
+| 4 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
+| 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 1,899 |
 | 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco | Luanda, Angola | 1,627 |
@@ -56,7 +56,7 @@ Indexed users: 2,506
 | 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
 | 18 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
 | 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
-| 20 | [3dsonnn](https://github.com/3dsonnn) | efinda | Luanda, Angola | 923 |
+| 20 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
 
 ## Followers
 
@@ -65,8 +65,8 @@ Indexed users: 2,506
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | Luanda - Angola | 1,030 |
 | 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | Luanda, Angola | 600 |
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio | Luanda / Angola | 465 |
-| 4 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
-| 5 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 388 |
+| 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 414 |
+| 5 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 349 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | Luanda, Angola | 272 |
@@ -83,4 +83,4 @@ Indexed users: 2,506
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-08T02:11:53.656Z
+Generated: 2026-10-08T03:32:42.158Z

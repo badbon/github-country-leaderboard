@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-08T01:38:02.950Z
+Generated: 2026-10-08T02:58:55.135Z
 
 Users: 902
 
@@ -12,17 +12,17 @@ Users: 902
 | 4 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 7230 |
 | 5 | [mashkovd](https://github.com/mashkovd) | mashkovd | mctl | mashkovd | Podgorica | 6339 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Quicknode Inc |  | Montenegro | 6114 |
-| 7 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 6047 |
-| 8 | [jare25](https://github.com/jare25) | Miloš Jaredić |  |  | Podgorica, Montenegro | 5795 |
+| 7 | [jare25](https://github.com/jare25) | Miloš Jaredić |  |  | Podgorica, Montenegro | 5795 |
+| 8 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5675 |
 | 9 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 5630 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5099 |
 | 11 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4940 |
 | 12 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 4842 |
 | 13 | [dmitriikapustin](https://github.com/dmitriikapustin) | Dmitrii Kapustin | kapustin.team |  | Montenegro | 4638 |
-| 14 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4101 |
-| 15 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 4025 |
-| 16 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 3765 |
-| 17 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 3639 |
-| 18 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 3561 |
-| 19 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH |  |  | Montenegro | 3485 |
-| 20 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 3417 |
+| 14 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4614 |
+| 15 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4101 |
+| 16 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 4025 |
+| 17 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 3765 |
+| 18 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 3639 |
+| 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 3561 |
+| 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH |  |  | Montenegro | 3485 |

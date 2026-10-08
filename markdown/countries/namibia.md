@@ -44,10 +44,10 @@ Indexed users: 476
 | 5 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,251 |
 | 6 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,051 |
 | 7 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 684 |
-| 8 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 651 |
-| 9 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 628 |
-| 10 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 432 |
-| 11 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 407 |
+| 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 679 |
+| 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 651 |
+| 10 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 628 |
+| 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 432 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 355 |
 | 13 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 329 |
 | 14 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 284 |
@@ -67,8 +67,8 @@ Indexed users: 476
 | 3 | [Lucas-Erkana](https://github.com/Lucas-Erkana) | Lucas David Erkana | Walvis Bay, Namibia | 130 |
 | 4 | [LogicHarvest](https://github.com/LogicHarvest) | Logic Harvest | Windhoek Namibia | 114 |
 | 5 | [afroGeM7](https://github.com/afroGeM7) | Gemma Usiku | Namibia | 107 |
-| 6 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 107 |
-| 7 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 104 |
+| 6 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 104 |
+| 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 99 |
 | 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 87 |
 | 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | Windhoek, Namibia | 62 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 58 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-08T01:39:50.643Z
+Generated: 2026-10-08T03:00:35.620Z

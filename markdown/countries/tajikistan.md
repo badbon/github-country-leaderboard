@@ -41,8 +41,8 @@ Indexed users: 707
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | Tajikistan | 2,080 |
 | 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin | Tajikistan,Dushanbe | 1,628 |
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,380 |
-| 5 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 996 |
-| 6 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 978 |
+| 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 1,223 |
+| 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 996 |
 | 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 976 |
 | 8 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 953 |
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 773 |
@@ -72,15 +72,15 @@ Indexed users: 707
 | 8 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | Dushanbe, Tajikistan | 85 |
 | 9 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Tajikistan Dushanbe | 80 |
 | 10 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | Tajikistan | 75 |
-| 11 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Tajikistan | 61 |
+| 11 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Tajikistan | 62 |
 | 12 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 59 |
 | 13 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 56 |
 | 14 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | Dushanbe/Tajikistan | 55 |
-| 15 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | Dushanbe,Tajikistan | 54 |
-| 16 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Tajikistan | 52 |
+| 15 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | Dushanbe,Tajikistan | 55 |
+| 16 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Tajikistan | 51 |
 | 17 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 50 |
 | 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Dushanbe,Tajikistan | 50 |
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
 
-Generated: 2026-10-08T02:02:20.055Z
+Generated: 2026-10-08T03:20:06.007Z

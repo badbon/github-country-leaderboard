@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-08T02:10:05.815Z
+Generated: 2026-10-08T03:29:18.332Z
 
 Users: 1492
 
@@ -25,4 +25,4 @@ Users: 1492
 | 17 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1077 |
 | 18 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1044 |
 | 19 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily |  | stysh_Esmaily | Herat,Afghanistan | 1014 |
-| 20 | [Mukhtarrahimi](https://github.com/Mukhtarrahimi) | Mukhtar Rahimi |  |  | Kabul - Afghanistan | 987 |
+| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Netlinks Inc |  | Kabul, Afghanistan | 933 |

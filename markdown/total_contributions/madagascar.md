@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-08T01:31:06.887Z
+Generated: 2026-10-08T02:52:53.944Z
 
 Users: 1915
 
@@ -15,7 +15,7 @@ Users: 1915
 | 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 7608 |
 | 8 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 6726 |
 | 9 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina |  |  | Antananarivo, Madagascar | 6242 |
-| 10 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | IT University |  | Madagascar | 5711 |
+| 10 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | IT University |  | Madagascar | 6231 |
 | 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 5312 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Mazaoro SARLU |  | Madagascar | 5308 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 5213 |

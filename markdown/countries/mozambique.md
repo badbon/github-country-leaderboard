@@ -40,8 +40,8 @@ Indexed users: 1,172
 | 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 4,574 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,882 |
 | 3 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 1,601 |
-| 4 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,150 |
-| 5 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,090 |
+| 4 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,273 |
+| 5 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,150 |
 | 6 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 1,003 |
 | 7 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
 | 8 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
@@ -83,4 +83,4 @@ Indexed users: 1,172
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-08T01:38:21.968Z
+Generated: 2026-10-08T02:59:07.810Z

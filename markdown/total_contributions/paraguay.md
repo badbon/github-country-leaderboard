@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-08T01:47:29.504Z
+Generated: 2026-10-08T03:05:46.013Z
 
 Users: 2028
 
@@ -16,13 +16,13 @@ Users: 2028
 | 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 5899 |
 | 9 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 5424 |
 | 10 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | YourTrading.ai GbR |  | Paraguay, Cordillera | 5261 |
-| 11 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 4941 |
-| 12 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
-| 13 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
-| 14 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 4280 |
-| 15 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 4243 |
-| 16 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 4218 |
-| 17 | [neocuella](https://github.com/neocuella) | Rick Ovelar |  | rickOvelar | Paraguay | 4146 |
-| 18 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4082 |
-| 19 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 4017 |
-| 20 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla |  |  | Asuncion, Paraguay | 3987 |
+| 11 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
+| 12 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 4941 |
+| 13 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
+| 14 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
+| 15 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 4280 |
+| 16 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 4243 |
+| 17 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 4218 |
+| 18 | [neocuella](https://github.com/neocuella) | Rick Ovelar |  | rickOvelar | Paraguay | 4146 |
+| 19 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4082 |
+| 20 | [yoryer](https://github.com/yoryer) | Jorge Noguera |  | yoryer | Paraguay | 4017 |

@@ -12,26 +12,26 @@ Indexed users: 808
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 590,285 |
+| 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 562,250 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 130,747 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 14,169 |
 | 4 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 10,944 |
 | 5 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 8,839 |
 | 6 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 7,774 |
 | 7 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 7,438 |
-| 8 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 5,658 |
-| 9 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,065 |
-| 10 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 4,989 |
-| 11 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 4,952 |
-| 12 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 4,613 |
-| 13 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,165 |
-| 14 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 3,653 |
-| 15 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 3,546 |
-| 16 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 3,513 |
-| 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 3,391 |
-| 18 | [Tergeltengis](https://github.com/Tergeltengis) | Tergeltengis | Mongolia,Ulaanbaatar | 3,235 |
-| 19 | [nicky-ru](https://github.com/nicky-ru) | Nikita Ruban | Ulaanbaatar, Mongolia | 3,173 |
-| 20 | [Mmeeer](https://github.com/Mmeeer) | Meeeeeeeeee | Ulaanbaatar, Mongolia | 3,171 |
+| 8 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,345 |
+| 9 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 5,658 |
+| 10 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,065 |
+| 11 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 4,989 |
+| 12 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 4,952 |
+| 13 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 4,613 |
+| 14 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,165 |
+| 15 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,093 |
+| 16 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 3,653 |
+| 17 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 3,546 |
+| 18 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 3,391 |
+| 19 | [Tergeltengis](https://github.com/Tergeltengis) | Tergeltengis | Mongolia,Ulaanbaatar | 3,235 |
+| 20 | [nicky-ru](https://github.com/nicky-ru) | Nikita Ruban | Ulaanbaatar, Mongolia | 3,173 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 808
 | 19 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-08T01:37:59.329Z
+Generated: 2026-10-08T02:58:49.422Z

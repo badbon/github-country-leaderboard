@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-08T02:11:53.656Z
+Generated: 2026-10-08T03:32:42.158Z
 
 Users: 2506
 
@@ -9,8 +9,8 @@ Users: 2506
 | 1 | [ismaely](https://github.com/ismaely) | Gunza Ismael | SofyNex |  | Luanda - Angola | 1030 |
 | 2 | [MarcioQuimbundo](https://github.com/MarcioQuimbundo) | Márcio Quimbundo | @ombank | marcioquimbundo | Luanda, Angola | 600 |
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio |  | kurogai_pwn | Luanda / Angola | 465 |
-| 4 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
-| 5 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 388 |
+| 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 414 |
+| 5 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
 | 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 349 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | innovaqui |  | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule |  | brauliocaassule | Luanda, Angola | 272 |

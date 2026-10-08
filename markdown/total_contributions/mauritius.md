@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-08T01:36:21.442Z
+Generated: 2026-10-08T02:56:53.422Z
 
 Users: 719
 
@@ -17,11 +17,11 @@ Users: 719
 | 9 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 4077 |
 | 10 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 4076 |
 | 11 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 3701 |
-| 12 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |
-| 13 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 3083 |
-| 14 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 2754 |
-| 15 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
-| 16 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 2640 |
+| 12 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 3696 |
+| 13 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |
+| 14 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 3083 |
+| 15 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 2754 |
+| 16 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
 | 17 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
 | 19 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 2496 |

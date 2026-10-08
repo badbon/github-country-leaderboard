@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-08T01:52:36.485Z
+Generated: 2026-10-08T03:12:15.335Z
 
 Users: 61
 
@@ -11,7 +11,7 @@ Users: 61
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 489 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 311 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 284 |
-| 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 228 |
+| 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 229 |
 | 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
 | 8 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 102 |
 | 9 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 97 |
@@ -19,9 +19,9 @@ Users: 61
 | 11 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna | michelemazzaa | San Marino | 64 |
 | 12 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 55 |
 | 13 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
-| 14 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 43 |
-| 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 43 |
-| 16 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 43 |
+| 14 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 43 |
+| 15 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 43 |
+| 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 41 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 37 |
 | 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | Mr. APPs s.r.l. |  | San Marino | 31 |
 | 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 30 |

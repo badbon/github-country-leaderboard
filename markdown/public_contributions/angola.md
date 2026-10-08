@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-08T02:11:53.656Z
+Generated: 2026-10-08T03:32:42.158Z
 
 Users: 2506
 
@@ -8,9 +8,9 @@ Users: 2506
 |---:|---|---|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech |  |  | Angola | 31686 |
 | 2 | [Kamuku](https://github.com/Kamuku) | Avelino Rufino |  |  | Luanda, Angola | 2760 |
-| 3 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
-| 4 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2104 |
-| 5 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  | alberto_rj_dev |  Luanda, Angola 🇦🇴 | 2056 |
+| 3 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  | alberto_rj_dev |  Luanda, Angola | 2163 |
+| 4 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
+| 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2104 |
 | 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1942 |
 | 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | @42Luanda |  | Luanda | 1899 |
 | 8 | [angelo-francisco](https://github.com/angelo-francisco) | Ângelo Francisco |  |  | Luanda, Angola | 1627 |
@@ -25,4 +25,4 @@ Users: 2506
 | 17 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 943 |
 | 18 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 940 |
 | 19 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
-| 20 | [3dsonnn](https://github.com/3dsonnn) | efinda |  |  | Luanda, Angola | 923 |
+| 20 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 921 |

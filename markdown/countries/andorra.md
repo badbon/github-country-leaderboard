@@ -28,7 +28,7 @@ Indexed users: 215
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,676 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,443 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,396 |
-| 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,333 |
+| 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,355 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
 | 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,760 |
 | 20 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 2,622 |
@@ -49,9 +49,9 @@ Indexed users: 215
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
 | 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 449 |
 | 12 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
-| 13 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 398 |
-| 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
-| 15 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 371 |
+| 13 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 401 |
+| 14 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 398 |
+| 15 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 298 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
 | 18 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 235 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-08T02:10:50.982Z
+Generated: 2026-10-08T03:32:38.686Z

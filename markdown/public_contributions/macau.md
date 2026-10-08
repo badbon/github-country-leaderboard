@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-08T01:31:02.599Z
+Generated: 2026-10-08T02:51:29.660Z
 
 Users: 443
 
@@ -16,9 +16,9 @@ Users: 443
 | 8 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1126 |
 | 9 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1025 |
 | 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 885 |
-| 11 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 798 |
-| 12 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
-| 13 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 713 |
+| 11 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
+| 12 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 798 |
+| 13 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
 | 14 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 649 |
 | 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 16 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 535 |

@@ -1,8 +1,8 @@
 # Public Contributions - Benin
 
-Generated: 2026-10-08T02:18:01.443Z
+Generated: 2026-10-08T03:36:32.729Z
 
-Users: 472
+Users: 471
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 472
 | 14 | [silassare](https://github.com/silassare) | Emile Silas Sare | @oliup-io  | silassare | Porto-Novo, Benin | 830 |
 | 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | BELLOX |  | Cotonou,Littoral, Benin | 827 |
 | 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 816 |
-| 17 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 686 |
+| 17 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 793 |
 | 18 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Leading Edge virtual Insight  | Nuelaagafie | Benin | 658 |
 | 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 592 |
 | 20 | [delsDin](https://github.com/delsDin) | Dels Dinla |  |  | Benin | 573 |

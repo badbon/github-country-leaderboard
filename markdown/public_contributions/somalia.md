@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-08T01:55:57.354Z
+Generated: 2026-10-08T03:15:58.785Z
 
 Users: 863
 
@@ -13,7 +13,7 @@ Users: 863
 | 5 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 929 |
 | 6 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 924 |
 | 7 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi |  |  | Somalia | 877 |
-| 8 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | OMARJIBRII | Somalia | 765 |
+| 8 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 776 |
 | 9 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim |  |  | Garowe, Somalia | 760 |
 | 10 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi |  | JosephAbdullaah | somalia | 735 |
 | 11 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 682 |

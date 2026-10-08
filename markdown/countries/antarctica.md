@@ -53,10 +53,10 @@ Indexed users: 465
 | 14 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
 | 15 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
-| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
-| 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 436 |
-| 20 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 434 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
+| 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
+| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
+| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 436 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 465
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-08T02:12:05.140Z
+Generated: 2026-10-08T03:32:48.552Z

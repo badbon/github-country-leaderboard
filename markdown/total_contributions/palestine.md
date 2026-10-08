@@ -1,8 +1,8 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-08T01:46:34.651Z
+Generated: 2026-10-08T03:04:32.998Z
 
-Users: 2206
+Users: 2205
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,9 +13,9 @@ Users: 2206
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 8066 |
 | 6 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 6969 |
 | 7 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 6602 |
-| 8 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5840 |
-| 9 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 5781 |
-| 10 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5505 |
+| 8 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 5781 |
+| 9 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5505 |
+| 10 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
 | 11 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 5336 |
 | 12 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
 | 13 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 4548 |

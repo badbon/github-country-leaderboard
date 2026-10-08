@@ -1,14 +1,14 @@
 # Followers - Somalia
 
-Generated: 2026-10-08T01:55:57.354Z
+Generated: 2026-10-08T03:15:58.785Z
 
 Users: 863
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | IRISE |  | Mogadishu  | 784 |
-| 2 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | OMARJIBRII | Somalia | 574 |
-| 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | sharmacadenuur2017@gmail.com | formula_crazy | Somalia-Mogadishu  | 538 |
+| 2 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 582 |
+| 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | sharmacadenuur2017@gmail.com | formula_crazy | Somalia-Mogadishu  | 542 |
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Jamhuriya Technology Solutions | Ahmeddhaqan | Mogadishu, Somalia | 344 |
 | 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz |  |  | Somalia  | 325 |
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Hormuud | Cabdula18395654 | Mogadishu | 283 |

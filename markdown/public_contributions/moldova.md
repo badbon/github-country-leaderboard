@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-08T01:37:51.448Z
+Generated: 2026-10-08T02:57:10.252Z
 
 Users: 1766
 
@@ -19,10 +19,10 @@ Users: 1766
 | 11 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1552 |
 | 12 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1498 |
 | 13 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
-| 14 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | https://t.me/right_investtool | romanborysov13 | Moldova | 1431 |
-| 15 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 1421 |
-| 16 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
-| 17 | [GuidixX](https://github.com/GuidixX) | GuidixX |  |  | Moldova | 1252 |
-| 18 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
-| 19 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
-| 20 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
+| 14 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 1421 |
+| 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
+| 16 | [GuidixX](https://github.com/GuidixX) | GuidixX |  |  | Moldova | 1252 |
+| 17 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
+| 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
+| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
+| 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1069 |

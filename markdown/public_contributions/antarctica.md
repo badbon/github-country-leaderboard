@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-08T02:12:05.140Z
+Generated: 2026-10-08T03:32:48.552Z
 
 Users: 465
 
@@ -22,7 +22,7 @@ Users: 465
 | 14 | [DrBrad](https://github.com/DrBrad) | Brad | find9 LLC, LimeReel LLC |  | Antarctica | 634 |
 | 15 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
 | 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
-| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | A store that pays $8 per hour / 6 days per week |  | Antarctica, Discord, VRChat | 469 |
-| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
-| 19 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 436 |
-| 20 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 434 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 513 |
+| 18 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
+| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
+| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 436 |

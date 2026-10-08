@@ -16,7 +16,7 @@ Indexed users: 255
 | 2 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 3,712 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,959 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,248 |
-| 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,202 |
+| 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,200 |
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,067 |
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,049 |
 | 8 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 857 |
@@ -83,4 +83,4 @@ Indexed users: 255
 | 19 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 14 |
 | 20 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 
-Generated: 2026-10-08T02:19:44.794Z
+Generated: 2026-10-08T03:39:54.175Z

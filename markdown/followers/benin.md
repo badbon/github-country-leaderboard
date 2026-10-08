@@ -1,8 +1,8 @@
 # Followers - Benin
 
-Generated: 2026-10-08T02:18:01.443Z
+Generated: 2026-10-08T03:36:32.729Z
 
-Users: 472
+Users: 471
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 472
 | 7 | [florentak](https://github.com/florentak) | Florent Ayidedji |  |  | Cotonou, Littoral, Benin | 120 |
 | 8 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 108 |
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO |  |  | Benin | 107 |
-| 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | LABEF (University of Abomey Calavi) | ChrisCK23683119 | Benin | 105 |
+| 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | LABEF (University of Abomey Calavi) | ChrisCK23683119 | Benin | 98 |
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 92 |
 | 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 91 |
 | 13 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |

@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-08T01:55:50.337Z
+Generated: 2026-10-08T03:15:49.066Z
 
 Users: 3112
 
@@ -19,10 +19,10 @@ Users: 3112
 | 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 8648 |
 | 12 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
 | 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 8260 |
-| 14 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6682 |
-| 15 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
-| 16 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
-| 17 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 6551 |
-| 18 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |
-| 19 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |
-| 20 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | @distopik | reactocode | Ljubljana, Slovenia | 5921 |
+| 14 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
+| 15 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6682 |
+| 16 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
+| 17 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
+| 18 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 6551 |
+| 19 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |
+| 20 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |

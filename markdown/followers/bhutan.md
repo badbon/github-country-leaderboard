@@ -1,6 +1,6 @@
 # Followers - Bhutan
 
-Generated: 2026-10-08T02:18:06.562Z
+Generated: 2026-10-08T03:37:47.013Z
 
 Users: 268
 
@@ -22,7 +22,7 @@ Users: 268
 | 14 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 29 |
 | 15 | [c19850727](https://github.com/c19850727) | Sakaguchi |  | nzm8qs | Thimphu & Hong Kong & Tokyo | 24 |
 | 16 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 24 |
-| 17 | [devsangay](https://github.com/devsangay) | Sangay Wangdi |  SELISE Digital Platforms |  | Bhutan | 23 |
-| 18 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 23 |
-| 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Remo Digital |  | Thimphu | 23 |
-| 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi |  |  | Thimphu, Bhutan | 22 |
+| 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 23 |
+| 18 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Remo Digital |  | Thimphu | 23 |
+| 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi |  |  | Thimphu, Bhutan | 22 |
+| 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi |  SELISE Digital Platforms |  | Bhutan | 22 |

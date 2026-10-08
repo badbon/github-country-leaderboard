@@ -1,16 +1,16 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-08T02:10:18.506Z
+Generated: 2026-10-08T03:31:06.705Z
 
 Users: 5817
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi |  | ashv3il | Algeria | 3998 |
-| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn |  |  | algeria | 2944 |
-| 3 | [rayandripo](https://github.com/rayandripo) | Rayan |  | rayandpo | Algiers | 2785 |
-| 4 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 2674 |
-| 5 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah |  |  | Algeria | 2649 |
+| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn |  |  | algeria | 3781 |
+| 3 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah |  |  | Algeria | 3682 |
+| 4 | [rayandripo](https://github.com/rayandripo) | Rayan |  | rayandpo | Algiers | 2785 |
+| 5 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 2674 |
 | 6 | [selmahacii](https://github.com/selmahacii) | selma haci |  |  | Algiers, Algeria | 2630 |
 | 7 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | @Imainigination |  | Algiers,Algeria | 2390 |
 | 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref |  |  | Algeria | 2370 |

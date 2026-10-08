@@ -1,6 +1,6 @@
 # Followers - Turkmenistan
 
-Generated: 2026-10-08T02:04:50.391Z
+Generated: 2026-10-08T03:23:04.702Z
 
 Users: 498
 
@@ -14,10 +14,10 @@ Users: 498
 | 6 | [octonet29](https://github.com/octonet29) | Gulbahar |  |  | Ashgabat, Turkmenistan | 105 |
 | 7 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev |  |  | Turkmenistan, Ashgabat | 97 |
 | 8 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Sada Zehin |  | Turkmenistan, Ashgabat | 96 |
-| 9 | [resulshm](https://github.com/resulshm) | Resul Shamuhammedov |  |  | Ashgabat, Turkmenistan | 91 |
+| 9 | [resulshm](https://github.com/resulshm) | Resul Shamuhammedov |  |  | Ashgabat, Turkmenistan | 93 |
 | 10 | [Atamyrat2005](https://github.com/Atamyrat2005) | ᴀᴛᴀᴍʏʀᴀᴛ | Alem Tilsimat | atamyrat2005 | Ashgabat/Turkmenistan | 87 |
 | 11 | [romanamangeldiev](https://github.com/romanamangeldiev) | Roman Amangeldiev | Creative Brain |  | Turkmenistan | 87 |
-| 12 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov |  | richxcame | Turkmenistan | 84 |
+| 12 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov |  | richxcame | Turkmenistan | 85 |
 | 13 | [hypergadam](https://github.com/hypergadam) | Gadam Jumayev |  |  | Ashgabat, Turkmenistan | 81 |
 | 14 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov |  |  | Turkmenistan | 75 |
 | 15 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis |  | m_annagurbanov | Ashgabat, Turkmenistan | 75 |

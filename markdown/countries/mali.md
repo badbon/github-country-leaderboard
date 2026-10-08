@@ -53,10 +53,10 @@ Indexed users: 347
 | 14 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
 | 15 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 199 |
 | 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
-| 17 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
-| 18 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
-| 19 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 148 |
-| 20 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
+| 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
+| 18 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 148 |
+| 19 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
+| 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 134 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 27 |
 
-Generated: 2026-10-08T01:32:37.111Z
+Generated: 2026-10-08T02:55:34.404Z

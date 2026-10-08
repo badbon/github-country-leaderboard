@@ -1,15 +1,15 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-08T01:43:17.897Z
+Generated: 2026-10-08T03:00:53.359Z
 
 Users: 1402
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | StrivexLabs |  | Nicaragua | 2138 |
+| 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | StrivexLabs |  | Nicaragua | 2227 |
 | 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 210 |
-| 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | Qor Dev |  | [Rivas, Nicaragua] | 185 |
-| 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno |  | openthe_window | Nicaragua | 166 |
+| 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | Qor Dev |  | [Rivas, Nicaragua] | 179 |
+| 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno |  | openthe_window | Nicaragua | 158 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria |  |  | Mangua, Nicaragua | 143 |
 | 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss |  |  | Nicaragua | 140 |
 | 7 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | @Nixtla |  | Nicaragua | 121 |

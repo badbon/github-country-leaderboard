@@ -25,13 +25,13 @@ Indexed users: 3,112
 | 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
 | 12 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
 | 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
-| 14 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,682 |
-| 15 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
-| 16 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
-| 17 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 6,551 |
-| 18 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 6,505 |
-| 19 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
-| 20 | [baadc0de](https://github.com/baadc0de) | Bojan Šernek | Ljubljana, Slovenia | 5,921 |
+| 14 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
+| 15 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,682 |
+| 16 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
+| 17 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
+| 18 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 6,551 |
+| 19 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 6,505 |
+| 20 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
 
 ## Public Contributions
 
@@ -42,21 +42,21 @@ Indexed users: 3,112
 | 3 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
 | 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 3,979 |
-| 6 | [stefanb](https://github.com/stefanb) | Stefan Baebler | Ljubljana, Slovenia | 3,790 |
-| 7 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,035 |
-| 8 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
-| 9 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | Slovenia | 2,715 |
-| 10 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
-| 11 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
-| 12 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
-| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,269 |
-| 14 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
-| 15 | [zigai](https://github.com/zigai) |  | Slovenia | 2,005 |
-| 16 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
-| 17 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
-| 18 | [alesurankar](https://github.com/alesurankar) | Aleš | Ljubljana | 1,887 |
-| 19 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 1,865 |
-| 20 | [BigWhale](https://github.com/BigWhale) | David Klasinc | Slovenska Bistrica, Slovenia | 1,777 |
+| 6 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 3,845 |
+| 7 | [stefanb](https://github.com/stefanb) | Stefan Baebler | Ljubljana, Slovenia | 3,790 |
+| 8 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,035 |
+| 9 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
+| 10 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | Slovenia | 2,715 |
+| 11 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
+| 12 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
+| 13 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
+| 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,269 |
+| 15 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
+| 16 | [zigai](https://github.com/zigai) |  | Slovenia | 2,005 |
+| 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
+| 18 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
+| 19 | [alesurankar](https://github.com/alesurankar) | Aleš | Ljubljana | 1,887 |
+| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 1,865 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,112
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-08T01:55:50.337Z
+Generated: 2026-10-08T03:15:49.066Z

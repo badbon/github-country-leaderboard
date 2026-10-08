@@ -17,7 +17,7 @@ Indexed users: 443
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 6,326 |
 | 4 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 4,528 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 3,792 |
-| 6 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,084 |
+| 6 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,272 |
 | 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,023 |
 | 8 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,854 |
 | 9 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,345 |
@@ -47,9 +47,9 @@ Indexed users: 443
 | 8 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,126 |
 | 9 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
 | 10 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 885 |
-| 11 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 798 |
-| 12 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
-| 13 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 713 |
+| 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
+| 12 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 798 |
+| 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 14 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 649 |
 | 15 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 16 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
@@ -70,7 +70,7 @@ Indexed users: 443
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 184 |
 | 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin | Macau | 167 |
 | 8 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 165 |
-| 9 | [manesec](https://github.com/manesec) | Mane | Macau | 128 |
+| 9 | [manesec](https://github.com/manesec) | Mane | Macau | 126 |
 | 10 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | Macau | 124 |
 | 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 121 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 109 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-08T01:31:02.599Z
+Generated: 2026-10-08T02:51:29.660Z

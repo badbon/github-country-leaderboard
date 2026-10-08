@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,206
+Indexed users: 2,205
 
 | Leaderboard | Link |
 |---|---|
@@ -19,9 +19,9 @@ Indexed users: 2,206
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Palestine | 8,066 |
 | 6 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 6,969 |
 | 7 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 6,602 |
-| 8 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,840 |
-| 9 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | Palestine | 5,781 |
-| 10 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5,505 |
+| 8 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | Palestine | 5,781 |
+| 9 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5,505 |
+| 10 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
 | 11 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 5,336 |
 | 12 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 4,581 |
 | 13 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 4,548 |
@@ -83,4 +83,4 @@ Indexed users: 2,206
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 131 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-08T01:46:34.651Z
+Generated: 2026-10-08T03:04:32.998Z

@@ -38,10 +38,10 @@ Indexed users: 5,817
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 3,998 |
-| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 2,944 |
-| 3 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
-| 4 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
-| 5 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 2,649 |
+| 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 3,781 |
+| 3 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
+| 4 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
+| 5 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
 | 6 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 2,630 |
 | 7 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,390 |
 | 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,370 |
@@ -83,4 +83,4 @@ Indexed users: 5,817
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-08T02:10:18.506Z
+Generated: 2026-10-08T03:31:06.705Z

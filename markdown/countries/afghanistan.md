@@ -56,7 +56,7 @@ Indexed users: 1,492
 | 17 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,077 |
 | 18 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,044 |
 | 19 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily | Herat,Afghanistan | 1,014 |
-| 20 | [Mukhtarrahimi](https://github.com/Mukhtarrahimi) | Mukhtar Rahimi | Kabul - Afghanistan | 987 |
+| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 933 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,492
 | 19 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 123 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-08T02:10:05.815Z
+Generated: 2026-10-08T03:29:18.332Z

@@ -1,6 +1,6 @@
 # Followers - Macau
 
-Generated: 2026-10-08T01:31:02.599Z
+Generated: 2026-10-08T02:51:29.660Z
 
 Users: 443
 
@@ -14,7 +14,7 @@ Users: 443
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 184 |
 | 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 167 |
 | 8 | [IMRL](https://github.com/IMRL) |  |  |  | Taipa, Macau | 165 |
-| 9 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 128 |
+| 9 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 126 |
 | 10 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | FST, University of Macau |  | Macau | 124 |
 | 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 121 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak |  |  | Macao | 109 |

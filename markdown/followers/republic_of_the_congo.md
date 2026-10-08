@@ -1,6 +1,6 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-08T01:49:43.569Z
+Generated: 2026-10-08T03:09:42.231Z
 
 Users: 299
 
@@ -20,8 +20,8 @@ Users: 299
 | 12 | [herilion](https://github.com/herilion) | Heritier Lionge | SMICO SA | HeritierLionge | Goma, Congo | 48 |
 | 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Fnstack |  | Brazzaville (CONGO) | 46 |
 | 14 | [lingabo](https://github.com/lingabo) | Lingabo Junior |  | juniorlingabo1 | Congo | 41 |
-| 15 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda |  |  | brazzaville \ Congo | 38 |
-| 16 | [bim-g](https://github.com/bim-g) | Boss | @evoludata | ibmussa | Congo, Democratic Republic of, Goma | 37 |
+| 15 | [bim-g](https://github.com/bim-g) | Boss | @evoludata | ibmussa | Congo, Democratic Republic of, Goma | 38 |
+| 16 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda |  |  | brazzaville \ Congo | 38 |
 | 17 | [Cooger17](https://github.com/Cooger17) |  |  |  | Congo Brazzaville  | 33 |
 | 18 | [seleshabani](https://github.com/seleshabani) |  | kollectif numérique \| nurse maïsha | seleshabani1 | Congo | 33 |
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi |  | NandiSne | Republic of the Congo | 26 |

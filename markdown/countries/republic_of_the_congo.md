@@ -19,10 +19,10 @@ Indexed users: 299
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,798 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,075 |
 | 7 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,929 |
-| 8 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,882 |
-| 9 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,804 |
-| 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,663 |
-| 11 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,610 |
+| 8 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,901 |
+| 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,882 |
+| 10 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,804 |
+| 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,663 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,371 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,306 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,084 |
@@ -51,9 +51,9 @@ Indexed users: 299
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
 | 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 318 |
 | 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 259 |
-| 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 243 |
-| 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 216 |
-| 17 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 207 |
+| 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 258 |
+| 16 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 243 |
+| 17 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 216 |
 | 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
 | 19 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
 | 20 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu | congo | 193 |
@@ -76,11 +76,11 @@ Indexed users: 299
 | 12 | [herilion](https://github.com/herilion) | Heritier Lionge | Goma, Congo | 48 |
 | 13 | [Johannos135](https://github.com/Johannos135) | Johanne ESSIERE | Brazzaville (CONGO) | 46 |
 | 14 | [lingabo](https://github.com/lingabo) | Lingabo Junior | Congo | 41 |
-| 15 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 38 |
-| 16 | [bim-g](https://github.com/bim-g) | Boss | Congo, Democratic Republic of, Goma | 37 |
+| 15 | [bim-g](https://github.com/bim-g) | Boss | Congo, Democratic Republic of, Goma | 38 |
+| 16 | [Esdras-Nsounda](https://github.com/Esdras-Nsounda) | esdras nsounda | brazzaville \ Congo | 38 |
 | 17 | [Cooger17](https://github.com/Cooger17) |  | Congo Brazzaville  | 33 |
 | 18 | [seleshabani](https://github.com/seleshabani) |  | Congo | 33 |
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-08T01:49:43.569Z
+Generated: 2026-10-08T03:09:42.231Z

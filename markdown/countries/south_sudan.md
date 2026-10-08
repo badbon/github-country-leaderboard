@@ -23,8 +23,8 @@ Indexed users: 133
 | 9 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 614 |
 | 10 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 542 |
 | 11 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 521 |
-| 12 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 520 |
-| 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 501 |
+| 12 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 519 |
+| 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
 | 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 327 |
 | 15 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
 | 16 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 312 |
@@ -44,8 +44,8 @@ Indexed users: 133
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 583 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 542 |
 | 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 512 |
-| 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 501 |
-| 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 387 |
+| 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
+| 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 386 |
 | 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 327 |
 | 11 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
 | 12 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 296 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-08T01:56:16.813Z
+Generated: 2026-10-08T03:16:12.362Z

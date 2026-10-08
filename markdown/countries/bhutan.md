@@ -38,14 +38,14 @@ Indexed users: 268
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 2,746 |
-| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,014 |
+| 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,028 |
 | 3 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,005 |
 | 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,002 |
 | 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
-| 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 679 |
+| 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 742 |
 | 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 430 |
 | 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 397 |
-| 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 327 |
+| 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 323 |
 | 10 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 297 |
 | 11 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 296 |
 | 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 232 |
@@ -56,7 +56,7 @@ Indexed users: 268
 | 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 142 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 132 |
 | 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
-| 20 | [b1swa25](https://github.com/b1swa25) | Sandip Biswa | Bhutan | 120 |
+| 20 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | Thimphu, Bhutan | 120 |
 
 ## Followers
 
@@ -78,9 +78,9 @@ Indexed users: 268
 | 14 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 29 |
 | 15 | [c19850727](https://github.com/c19850727) | Sakaguchi | Thimphu & Hong Kong & Tokyo | 24 |
 | 16 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 24 |
-| 17 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 23 |
-| 18 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 23 |
-| 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
-| 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
+| 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 23 |
+| 18 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
+| 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
+| 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-08T02:18:06.562Z
+Generated: 2026-10-08T03:37:47.013Z

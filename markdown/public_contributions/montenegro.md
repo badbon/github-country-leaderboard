@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-08T01:38:02.950Z
+Generated: 2026-10-08T02:58:55.135Z
 
 Users: 902
 
@@ -10,8 +10,8 @@ Users: 902
 | 2 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 7160 |
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | mctl | mashkovd | Podgorica | 6339 |
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 4911 |
-| 5 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 3235 |
-| 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | ExSol |  | Montenegro, Herzeg-Novi | 3050 |
+| 5 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | ExSol |  | Montenegro, Herzeg-Novi | 3474 |
+| 6 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 3235 |
 | 7 | [histrio](https://github.com/histrio) | Rinat Sabitov | CloudLinux |  | Montenegro | 2258 |
 | 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 1758 |
 | 9 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 1753 |
@@ -24,5 +24,5 @@ Users: 902
 | 16 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |
 | 17 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 809 |
 | 18 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 711 |
-| 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 613 |
-| 20 | [Flagro](https://github.com/Flagro) | Anton Potapov | CMC MSU |  | Podgorica, Montenegro | 608 |
+| 19 | [blockedby](https://github.com/blockedby) | alex blocked |  |  | Bar, Montenegro | 699 |
+| 20 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 613 |

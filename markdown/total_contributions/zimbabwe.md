@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-08T02:08:24.741Z
+Generated: 2026-10-08T03:29:11.704Z
 
 Users: 1654
 
@@ -8,10 +8,10 @@ Users: 1654
 |---:|---|---|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 30020 |
 | 2 | [mhodieknowledge](https://github.com/mhodieknowledge) | Knowledge Mhodi |  |  | Bulawayo, Zimbabwe | 14818 |
-| 3 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7682 |
-| 4 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7290 |
-| 5 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 7217 |
-| 6 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | GroundUpMVP | codewithkin | Mutare, Zimbabwe | 7148 |
+| 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | GroundUpMVP | codewithkin | Mutare, Zimbabwe | 9326 |
+| 4 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7682 |
+| 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7290 |
+| 6 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 7217 |
 | 7 | [Mutombe](https://github.com/Mutombe) | Mutombe | Zettabyte |  | Waterfalls Harare | 6959 |
 | 8 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 6719 |
 | 9 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6553 |

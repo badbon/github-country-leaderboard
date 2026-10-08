@@ -1,6 +1,6 @@
 # Public Contributions - Tajikistan
 
-Generated: 2026-10-08T02:02:20.055Z
+Generated: 2026-10-08T03:20:06.007Z
 
 Users: 707
 
@@ -10,8 +10,8 @@ Users: 707
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | KoftaGard Ltd. |  | Tajikistan | 2080 |
 | 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin |  |  | Tajikistan,Dushanbe | 1628 |
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin |  |  | Dushanbe Tajikistan | 1380 |
-| 5 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 996 |
-| 6 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | itmuminoff |  | Dushanbe | 978 |
+| 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | itmuminoff |  | Dushanbe | 1223 |
+| 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 996 |
 | 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | @contobox  |  | Dushanbe, Tajikistan | 976 |
 | 8 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Activ Bank, Gravity studio | BezanKarim90911 | Tajikistan | 953 |
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 773 |

@@ -56,14 +56,14 @@ Indexed users: 1,548
 | 17 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,013 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
 | 19 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
-| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 858 |
+| 20 | [KarenPNavarro](https://github.com/KarenPNavarro) | Karen Navarro | Puerto Rico | 897 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez | Puerto Rico | 2,184 |
-| 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,367 |
+| 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,384 |
 | 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 1,112 |
 | 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López | Puerto Rico | 688 |
 | 5 | [NathanSweet](https://github.com/NathanSweet) | Nathan Sweet | Puerto Rico | 589 |
@@ -83,4 +83,4 @@ Indexed users: 1,548
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-08T01:48:59.592Z
+Generated: 2026-10-08T03:07:39.952Z

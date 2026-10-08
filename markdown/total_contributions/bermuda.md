@@ -1,8 +1,8 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-08T02:18:03.915Z
+Generated: 2026-10-08T03:36:42.682Z
 
-Users: 907
+Users: 906
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 907
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 3402 |
 | 18 | [tadhg-moore](https://github.com/tadhg-moore) | Tadhg Moore | Limnotrack |  | Hamilton, NZ | 3229 |
 | 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 3043 |
-| 20 | [silviooosilva](https://github.com/silviooosilva) | Sílvio Silva | @CacheerPHP @OdraciR-Code  |  | Hamilton, Ontario | 2982 |
+| 20 | [navneetrai](https://github.com/navneetrai) | Navneet Rai | Kirschbaum Development Group |  | Hamilton, Ontario | 2831 |
