@@ -1,8 +1,8 @@
 # Followers - Romania
 
-Generated: 2026-10-08T11:09:36.956Z
+Generated: 2026-10-08T16:58:27.327Z
 
-Users: 14992
+Users: 14991
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,8 +16,8 @@ Users: 14992
 | 8 | [AringoldX](https://github.com/AringoldX) | Aringold | @Apex-Coders-io @Cryptape @PRJsJGo @EtsPach  |  | Bacău, Rumania | 1495 |
 | 9 | [0xcryptosei](https://github.com/0xcryptosei) | S.E.I |  | ajee335 | Romania | 1152 |
 | 10 | [mishoo](https://github.com/mishoo) | Mihai Bazon |  |  | Iasi, Romania | 1092 |
-| 11 | [catalinpit](https://github.com/catalinpit) | Catalin Pit | @documenso  | catalinmpit | Romania | 1073 |
-| 12 | [RomulusMirauta](https://github.com/RomulusMirauta) | Romulus Mirăuță | Suvoda |  | Iasi, Romania | 1050 |
+| 11 | [RomulusMirauta](https://github.com/RomulusMirauta) | Romulus Mirăuță | Undisclosed |  | Iasi, Romania | 1085 |
+| 12 | [catalinpit](https://github.com/catalinpit) | Catalin Pit | @documenso  | catalinmpit | Romania | 1073 |
 | 13 | [cojocaru-david](https://github.com/cojocaru-david) | Cojocaru David | Clinic Software |  | Romania | 879 |
 | 14 | [Bogdanp](https://github.com/Bogdanp) | Bogdan Popa |  |  | Cluj-Napoca, Romania | 878 |
 | 15 | [eddyb](https://github.com/eddyb) | Eduard-Mihai Burtescu |  |  | Bucharest, Romania | 752 |

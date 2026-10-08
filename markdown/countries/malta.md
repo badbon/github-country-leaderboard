@@ -14,8 +14,8 @@ Indexed users: 1,230
 |---:|---|---|---|---:|
 | 1 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
 | 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
-| 3 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
-| 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 9,384 |
+| 3 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
+| 4 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
 | 5 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
 | 7 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
@@ -83,4 +83,4 @@ Indexed users: 1,230
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-08T11:00:42.355Z
+Generated: 2026-10-08T16:48:03.016Z

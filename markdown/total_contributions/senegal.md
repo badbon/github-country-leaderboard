@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-08T11:12:03.403Z
+Generated: 2026-10-08T17:03:50.927Z
 
 Users: 1361
 
@@ -24,5 +24,5 @@ Users: 1361
 | 16 | [likemcode](https://github.com/likemcode) | josue Avuh |  |  | Dakar | 3570 |
 | 17 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly |  | jac0164 | Dakar, Senegal | 3507 |
 | 18 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour |  |  | Rufisque, Dakar, Sénégal | 3487 |
-| 19 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 3206 |
-| 20 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Dexchange | Denver_sn | Senegal,Dakar | 3178 |
+| 19 | [MamDrame](https://github.com/MamDrame) | MamDrame | Zone01Dakar |  | Dakar, Sénégal | 3235 |
+| 20 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 3206 |

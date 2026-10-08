@@ -1,8 +1,8 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-08T11:03:53.741Z
+Generated: 2026-10-08T16:51:28.444Z
 
-Users: 904
+Users: 903
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,9 +16,9 @@ Users: 904
 | 8 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 1939 |
 | 9 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 1758 |
 | 10 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Playphrase.me |  | Montenegro | 1753 |
-| 11 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1491 |
-| 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1425 |
-| 13 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1402 |
+| 11 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1631 |
+| 12 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1491 |
+| 13 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1425 |
 | 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1371 |
 | 15 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1086 |
 | 16 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 922 |

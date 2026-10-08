@@ -1,14 +1,14 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-08T11:14:21.518Z
+Generated: 2026-10-08T17:06:38.862Z
 
 Users: 728
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online |  |  | Khartoum, Sudan | 10082 |
-| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein |  | TheYass1n | Sudan | 5418 |
-| 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5085 |
+| 2 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5473 |
+| 3 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein |  | TheYass1n | Sudan | 5418 |
 | 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4776 |
 | 5 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3661 |
 | 6 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | KingofMENA | Sudan | 3650 |

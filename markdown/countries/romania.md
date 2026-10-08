@@ -1,6 +1,6 @@
 # Romania
 
-Indexed users: 14,992
+Indexed users: 14,991
 
 | Leaderboard | Link |
 |---|---|
@@ -72,8 +72,8 @@ Indexed users: 14,992
 | 8 | [AringoldX](https://github.com/AringoldX) | Aringold | Bacău, Rumania | 1,495 |
 | 9 | [0xcryptosei](https://github.com/0xcryptosei) | S.E.I | Romania | 1,152 |
 | 10 | [mishoo](https://github.com/mishoo) | Mihai Bazon | Iasi, Romania | 1,092 |
-| 11 | [catalinpit](https://github.com/catalinpit) | Catalin Pit | Romania | 1,073 |
-| 12 | [RomulusMirauta](https://github.com/RomulusMirauta) | Romulus Mirăuță | Iasi, Romania | 1,050 |
+| 11 | [RomulusMirauta](https://github.com/RomulusMirauta) | Romulus Mirăuță | Iasi, Romania | 1,085 |
+| 12 | [catalinpit](https://github.com/catalinpit) | Catalin Pit | Romania | 1,073 |
 | 13 | [cojocaru-david](https://github.com/cojocaru-david) | Cojocaru David | Romania | 879 |
 | 14 | [Bogdanp](https://github.com/Bogdanp) | Bogdan Popa | Cluj-Napoca, Romania | 878 |
 | 15 | [eddyb](https://github.com/eddyb) | Eduard-Mihai Burtescu | Bucharest, Romania | 752 |
@@ -83,4 +83,4 @@ Indexed users: 14,992
 | 19 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 | 20 | [rennokki](https://github.com/rennokki) | rennokki | Romania | 576 |
 
-Generated: 2026-10-08T11:09:36.956Z
+Generated: 2026-10-08T16:58:27.327Z

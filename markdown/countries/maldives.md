@@ -13,7 +13,7 @@ Indexed users: 354
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,383 |
-| 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,490 |
+| 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,495 |
 | 3 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 8,392 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,283 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 6,501 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-08T11:00:34.081Z
+Generated: 2026-10-08T16:46:53.709Z

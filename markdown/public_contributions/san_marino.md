@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-08T11:11:28.468Z
+Generated: 2026-10-08T17:03:38.993Z
 
 Users: 61
 
@@ -11,7 +11,7 @@ Users: 61
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 489 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 311 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 284 |
-| 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 229 |
+| 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
 | 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
 | 8 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 102 |
 | 9 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 97 |

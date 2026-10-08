@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,789
+Indexed users: 9,788
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,789
 | 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 | 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-08T11:06:57.570Z
+Generated: 2026-10-08T16:57:35.032Z

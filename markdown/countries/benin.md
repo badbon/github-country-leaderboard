@@ -1,6 +1,6 @@
 # Benin
 
-Indexed users: 469
+Indexed users: 470
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 469
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-08T16:18:30.431Z
+Generated: 2026-10-08T16:58:22.127Z

@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 904
+Indexed users: 903
 
 | Leaderboard | Link |
 |---|---|
@@ -47,9 +47,9 @@ Indexed users: 904
 | 8 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 1,939 |
 | 9 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 1,758 |
 | 10 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Montenegro | 1,753 |
-| 11 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,491 |
-| 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,425 |
-| 13 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,402 |
+| 11 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,631 |
+| 12 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,491 |
+| 13 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,425 |
 | 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,371 |
 | 15 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,086 |
 | 16 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
@@ -83,4 +83,4 @@ Indexed users: 904
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-08T11:03:53.741Z
+Generated: 2026-10-08T16:51:28.444Z

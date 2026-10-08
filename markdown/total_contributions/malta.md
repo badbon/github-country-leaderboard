@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-08T11:00:42.355Z
+Generated: 2026-10-08T16:48:03.016Z
 
 Users: 1230
 
@@ -8,8 +8,8 @@ Users: 1230
 |---:|---|---|---|---|---|---:|
 | 1 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 19296 |
 | 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 12956 |
-| 3 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 9866 |
-| 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 9384 |
+| 3 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12416 |
+| 4 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 9866 |
 | 5 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
 | 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 8363 |
 | 7 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 7973 |

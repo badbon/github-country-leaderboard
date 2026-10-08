@@ -20,12 +20,12 @@ Indexed users: 1,175
 | 6 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 4,574 |
 | 7 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,910 |
 | 8 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 3,687 |
-| 9 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 3,372 |
-| 10 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 3,367 |
-| 11 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 3,189 |
-| 12 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 2,859 |
-| 13 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 2,827 |
-| 14 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 2,788 |
+| 9 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 3,367 |
+| 10 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 2,859 |
+| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 2,827 |
+| 12 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 2,788 |
+| 13 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,744 |
+| 14 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
 | 15 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,590 |
 | 16 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,361 |
 | 17 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
@@ -66,11 +66,11 @@ Indexed users: 1,175
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 319 |
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 304 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 277 |
-| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 235 |
+| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 228 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 203 |
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 198 |
-| 8 | [jose-bone](https://github.com/jose-bone) | José Boné | Quelimane, Mozambique | 192 |
-| 9 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino | Mozambique, Maputo | 186 |
+| 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino | Mozambique, Maputo | 192 |
+| 9 | [jose-bone](https://github.com/jose-bone) | José Boné | Quelimane, Mozambique | 188 |
 | 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | Mozambique | 168 |
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | Beira, Sofala, Mozambique | 164 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | Mozambique, Maputo | 162 |
@@ -78,9 +78,9 @@ Indexed users: 1,175
 | 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete | Matola, Maputo, Mozambique | 139 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 137 |
 | 16 | [GraHms](https://github.com/GraHms) | Ismael GraHms | Maputo | 125 |
-| 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Maputo, Mozambique | 121 |
+| 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Maputo, Mozambique | 119 |
 | 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias | Mozambique | 117 |
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-08T11:04:05.061Z
+Generated: 2026-10-08T16:52:21.754Z

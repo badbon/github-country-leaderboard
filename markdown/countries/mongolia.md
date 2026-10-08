@@ -31,7 +31,7 @@ Indexed users: 805
 | 17 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 3,546 |
 | 18 | [Tergeltengis](https://github.com/Tergeltengis) | Tergeltengis | Mongolia,Ulaanbaatar | 3,498 |
 | 19 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 3,391 |
-| 20 | [Mmeeer](https://github.com/Mmeeer) | Meeeeeeeeee | Ulaanbaatar, Mongolia | 3,171 |
+| 20 | [khanka0511](https://github.com/khanka0511) | Khantushig | Ulaanbaatar, Mongolia | 3,316 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-08T11:03:47.835Z
+Generated: 2026-10-08T16:51:01.669Z

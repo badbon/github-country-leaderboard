@@ -1,6 +1,6 @@
 # South Sudan
 
-Indexed users: 133
+Indexed users: 132
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-08T11:14:10.480Z
+Generated: 2026-10-08T17:06:30.891Z

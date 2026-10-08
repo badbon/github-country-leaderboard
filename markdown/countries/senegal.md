@@ -30,8 +30,8 @@ Indexed users: 1,361
 | 16 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 3,570 |
 | 17 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,507 |
 | 18 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 3,487 |
-| 19 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 3,206 |
-| 20 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 3,178 |
+| 19 | [MamDrame](https://github.com/MamDrame) | MamDrame | Dakar, Sénégal | 3,235 |
+| 20 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 3,206 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,361
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-08T11:12:03.403Z
+Generated: 2026-10-08T17:03:50.927Z
