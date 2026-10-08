@@ -5420,7 +5420,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-07-31T19:33:11Z"
   },
   {
@@ -5467,8 +5467,8 @@
     "company": "Leevo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 682,
-    "publicContributions": 53,
+    "privateContributions": 743,
+    "publicContributions": 65,
     "createdAt": "2023-01-14T15:35:06Z"
   },
   {
@@ -5491,7 +5491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 580,
+    "privateContributions": 730,
     "publicContributions": 0,
     "createdAt": "2023-02-20T19:23:12Z"
   },
@@ -5539,8 +5539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 38,
-    "publicContributions": 16,
+    "privateContributions": 92,
+    "publicContributions": 17,
     "createdAt": "2023-11-28T12:43:18Z"
   },
   {
@@ -5552,7 +5552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 333,
+    "publicContributions": 407,
     "createdAt": "2023-07-28T00:08:22Z"
   },
   {
@@ -5623,8 +5623,8 @@
     "company": "Telia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 94,
+    "privateContributions": 7,
+    "publicContributions": 88,
     "createdAt": "2023-10-18T12:03:44Z"
   },
   {
@@ -59014,5 +59014,113 @@
     "privateContributions": 1,
     "publicContributions": 11,
     "createdAt": "2024-03-27T22:35:20Z"
+  },
+  {
+    "login": "pogoda-provereno",
+    "name": "Paul Pogoda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289614947?s=72&u=36288e8e18aa0f9ed504ea469422b71865cac696&v=4",
+    "location": "Estonia",
+    "company": "@Provereno-Media ",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 152,
+    "createdAt": "2026-06-01T08:12:49Z"
+  },
+  {
+    "login": "obgabu-byte",
+    "name": "Coach eristal ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285319243?s=72&v=4",
+    "location": "Narva mnt 7b-509, Tallinn 10117, Estonia 1df2",
+    "company": "Spectro Finance OÜ",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-17T01:28:17Z"
+  },
+  {
+    "login": "ut-digits",
+    "name": "DigiTS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294192812?s=72&u=1414376fcdf8ecea2f8b2d7eaad537a66831028e&v=4",
+    "location": "Tartu, Estonia",
+    "company": "University of Tartu",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-06-16T13:11:27Z"
+  },
+  {
+    "login": "artur2145-cyber",
+    "name": "Artur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290689999?s=72&u=d861f8a940a8b7453fdba5930fb77deb17d4e21f&v=4",
+    "location": "Estonia Tallinn",
+    "company": "WebWay OÜ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 2302,
+    "publicContributions": 2,
+    "createdAt": "2026-06-04T10:24:25Z"
+  },
+  {
+    "login": "aleksanderdanilov666-boop",
+    "name": "Alex Jutul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288940534?s=72&u=e4bf46de4faaef8d65b52fee4d75b9988a362478&v=4",
+    "location": "estonia",
+    "company": "EXARO GROUP Oü",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-29T12:54:21Z"
+  },
+  {
+    "login": "wrenqh",
+    "name": "Wrenqh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291359731?s=72&u=9f57d2dbd844536d472744dc6e9a2b2553f9dcf5&v=4",
+    "location": "Tallinn, Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-06T18:10:34Z"
+  },
+  {
+    "login": "igxqoi",
+    "name": "ดาวรุ่ง",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287483277?s=72&u=457bd03f45e4966d98c85ca695f476dd506ae55c&v=4",
+    "location": "Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-24T16:20:05Z"
+  },
+  {
+    "login": "Berimorr",
+    "name": "Ilya Ber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292787285?s=72&u=1392463efce63f428a4f9bd7c1e4c02ca6eeefd5&v=4",
+    "location": "Estonia",
+    "company": "@Provereno-Media",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-11T12:47:48Z"
+  },
+  {
+    "login": "tyche-dev",
+    "name": "Anton Sokolov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284900538?s=72&u=0998f42c29b43432f8fa6bc1328ede58566dd3ff&v=4",
+    "location": "Tallinn, Estonia",
+    "company": "Tyche Institute",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1610,
+    "publicContributions": 353,
+    "createdAt": "2026-05-15T08:50:04Z"
   }
 ]

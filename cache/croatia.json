@@ -5431,7 +5431,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 152,
+    "privateContributions": 176,
     "publicContributions": 113,
     "createdAt": "2022-11-23T16:28:15Z"
   },
@@ -5442,7 +5442,7 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-04T12:49:08Z"
@@ -5467,21 +5467,9 @@
     "company": "Onir.ai",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 719,
-    "publicContributions": 73,
+    "privateContributions": 1412,
+    "publicContributions": 53,
     "createdAt": "2022-04-06T23:54:59Z"
-  },
-  {
-    "login": "FugzzTM",
-    "name": "Leon Zjakić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117075643?s=72&u=5130cce96ef5f875017a79794e62b91151277586&v=4",
-    "location": "Osijek, Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2022-10-31T09:25:31Z"
   },
   {
     "login": "KWittenberg",
@@ -5490,9 +5478,9 @@
     "location": "Croatia",
     "company": "Bolta",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 77,
-    "publicContributions": 216,
+    "followers": 4,
+    "privateContributions": 100,
+    "publicContributions": 202,
     "createdAt": "2022-03-20T17:34:49Z"
   },
   {
@@ -5539,20 +5527,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 576,
+    "privateContributions": 652,
     "publicContributions": 5,
     "createdAt": "2022-01-13T12:38:56Z"
   },
   {
     "login": "IvaGoluza",
     "name": "Iva Goluza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120140158?s=72&u=152c371f0161f913d780f9a19935c358072303f6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120140158?s=72&u=5855852e6e045e0d6cbedadadfe44c7e015f8d61&v=4",
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 552,
-    "publicContributions": 41,
+    "privateContributions": 633,
+    "publicContributions": 32,
     "createdAt": "2022-12-08T21:46:01Z"
   },
   {
@@ -5564,7 +5552,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 31,
     "createdAt": "2022-06-30T16:42:51Z"
   },
   {
@@ -5612,7 +5600,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 10,
     "createdAt": "2022-02-01T11:17:41Z"
   },
   {
@@ -5634,9 +5622,9 @@
     "location": "Croatia",
     "company": "Keeper Solutions",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 475,
-    "publicContributions": 97,
+    "followers": 4,
+    "privateContributions": 390,
+    "publicContributions": 143,
     "createdAt": "2022-06-01T11:12:48Z"
   },
   {

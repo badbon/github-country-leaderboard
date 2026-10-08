@@ -5468,7 +5468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2017-11-21T15:46:28Z"
   },
   {
@@ -5491,7 +5491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1980,
+    "privateContributions": 2002,
     "publicContributions": 0,
     "createdAt": "2017-05-06T14:46:07Z"
   },
@@ -5516,7 +5516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2017-09-18T17:07:24Z"
   },
   {
@@ -5540,20 +5540,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 57,
     "createdAt": "2017-08-28T15:02:01Z"
-  },
-  {
-    "login": "AKX55",
-    "name": "Akil K.Aubeeluck",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/29546462?s=72&u=f501c98c2d2916a5202882050e0a2e178e125433&v=4",
-    "location": "Curepipe, Mauritius",
-    "company": "",
-    "twitterUsername": "akilaubeeluck",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-06-19T14:46:12Z"
   },
   {
     "login": "Joeptimiser",
@@ -5574,9 +5562,9 @@
     "location": "Mauritius",
     "company": "@compileralchemy ",
     "twitterUsername": "osdotsystem",
-    "followers": 714,
-    "privateContributions": 116,
-    "publicContributions": 1203,
+    "followers": 713,
+    "privateContributions": 167,
+    "publicContributions": 1301,
     "createdAt": "2016-10-05T04:37:40Z"
   },
   {
@@ -5586,9 +5574,9 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "maskys_",
-    "followers": 73,
-    "privateContributions": 874,
-    "publicContributions": 604,
+    "followers": 74,
+    "privateContributions": 726,
+    "publicContributions": 603,
     "createdAt": "2016-11-03T09:57:40Z"
   },
   {
@@ -5598,9 +5586,9 @@
     "location": "Mauritius",
     "company": "@livestorm",
     "twitterUsername": "arwinneil",
-    "followers": 73,
-    "privateContributions": 445,
-    "publicContributions": 1,
+    "followers": 75,
+    "privateContributions": 1123,
+    "publicContributions": 5,
     "createdAt": "2016-06-18T07:37:19Z"
   },
   {
@@ -5610,9 +5598,9 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 266,
-    "publicContributions": 10,
+    "followers": 56,
+    "privateContributions": 225,
+    "publicContributions": 9,
     "createdAt": "2016-02-12T17:32:29Z"
   },
   {
@@ -5622,7 +5610,7 @@
     "location": "Mauritius / Ile Maurice",
     "company": "",
     "twitterUsername": "",
-    "followers": 49,
+    "followers": 46,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-11-03T10:04:15Z"
@@ -5646,7 +5634,7 @@
     "location": "Mauritius",
     "company": "Freelance",
     "twitterUsername": "brokegrammer",
-    "followers": 25,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2016-09-30T11:32:10Z"
@@ -5659,8 +5647,8 @@
     "company": "IT Professional",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 638,
-    "publicContributions": 230,
+    "privateContributions": 730,
+    "publicContributions": 239,
     "createdAt": "2016-01-04T15:14:11Z"
   },
   {
@@ -5670,7 +5658,7 @@
     "location": "Mauritius",
     "company": "CHB Technologies Ltd",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-27T11:35:29Z"

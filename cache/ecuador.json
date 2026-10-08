@@ -5444,7 +5444,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 160,
     "createdAt": "2024-10-07T02:36:24Z"
   },
   {
@@ -5456,7 +5456,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 75,
     "createdAt": "2024-11-20T15:42:10Z"
   },
   {
@@ -5466,9 +5466,9 @@
     "location": "Quito",
     "company": "Universidad Tecnologica Equinoccial (UTE)",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 205,
     "createdAt": "2024-11-20T00:36:34Z"
   },
   {
@@ -5480,7 +5480,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 438,
+    "publicContributions": 435,
     "createdAt": "2024-11-20T15:45:37Z"
   },
   {
@@ -5492,7 +5492,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 46,
     "createdAt": "2024-12-17T23:05:51Z"
   },
   {
@@ -5502,9 +5502,9 @@
     "location": "Quito-ECU",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 930,
-    "publicContributions": 260,
+    "followers": 8,
+    "privateContributions": 1429,
+    "publicContributions": 408,
     "createdAt": "2024-04-06T21:29:14Z"
   },
   {
@@ -5516,7 +5516,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-03-06T00:19:36Z"
   },
   {
@@ -5526,15 +5526,15 @@
     "location": "Quito ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 85,
     "createdAt": "2024-01-25T00:39:15Z"
   },
   {
     "login": "mateoalba",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187340620?s=72&u=f023aea48fd9e38a2ca437fc51e43b05db925c54&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187340620?s=72&u=fefa1f44f2e8aa03da37bda46eeb5b306f45e53f&v=4",
     "location": "Quito",
     "company": "Universidad Tecnológica Equinoccial",
     "twitterUsername": "",
@@ -5550,9 +5550,9 @@
     "location": "Quito, Ec",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 421,
-    "publicContributions": 15,
+    "followers": 2,
+    "privateContributions": 310,
+    "publicContributions": 19,
     "createdAt": "2024-07-06T14:43:47Z"
   },
   {
@@ -5564,7 +5564,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 93,
     "createdAt": "2024-05-09T12:18:11Z"
   },
   {
@@ -5586,9 +5586,9 @@
     "location": "Quito",
     "company": "National Polytechnic School",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 74,
     "createdAt": "2024-02-15T22:53:18Z"
   },
   {
@@ -5611,8 +5611,8 @@
     "company": "Escuela Politécnica Nacional",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 541,
-    "publicContributions": 149,
+    "privateContributions": 592,
+    "publicContributions": 129,
     "createdAt": "2024-10-05T15:24:07Z"
   },
   {
@@ -5647,20 +5647,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-01T18:26:15Z"
   },
   {
     "login": "kevin26720",
-    "name": "Kevin Joel Villacis Mafla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169422907?s=72&v=4",
+    "name": "Kevin Villacis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169422907?s=72&u=a18e3cf3a79ea2c08f2bcb7650f94b26a2c789d4&v=4",
     "location": "Quito",
     "company": "Escuela Politecnica Nacional",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 57,
     "createdAt": "2024-05-10T03:52:56Z"
   },
   {
@@ -58834,5 +58834,65 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2026-05-13T20:20:00Z"
+  },
+  {
+    "login": "JBoneC",
+    "name": "Joseph Bone ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295464442?s=72&u=69ebc13710892f62e0496ce29b1c8205d6840146&v=4",
+    "location": "Ecuador",
+    "company": "@Ecuaconexion",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 543,
+    "publicContributions": 1,
+    "createdAt": "2026-06-20T22:25:06Z"
+  },
+  {
+    "login": "Lawliet-24",
+    "name": "Lawliet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297470262?s=72&u=b5801bddc28a470157bfaf630930bce84b648847&v=4",
+    "location": "Quito/Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-27T17:50:09Z"
+  },
+  {
+    "login": "altalexm",
+    "name": "Alex Macias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292001773?s=72&u=abdb46e36fc38192563897421e7d842fe814d129&v=4",
+    "location": "Ecuador",
+    "company": "Athiscore",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 721,
+    "publicContributions": 43,
+    "createdAt": "2026-06-09T05:42:25Z"
+  },
+  {
+    "login": "clicktvdigital",
+    "name": "CLICK TV DIGITAL | Alerta EC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293235814?s=72&u=5c14b93b57ccfa4d34bf78525ef00182a558e95a&v=4",
+    "location": "Quito, Ecuador 🇪🇨",
+    "company": "CLICK TV DIGITAL",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 455,
+    "createdAt": "2026-06-12T22:41:29Z"
+  },
+  {
+    "login": "ChunsingFu",
+    "name": "Chunsing Fu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296314679?s=72&u=5482d7cbbae69f60d17e3ae288f407e70ecfde20&v=4",
+    "location": "Ecuador",
+    "company": "INMATOSA S.A.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T22:40:31Z"
   }
 ]

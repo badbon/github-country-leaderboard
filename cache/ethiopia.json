@@ -5444,7 +5444,7 @@
     "twitterUsername": "QueenCoderN",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 117,
     "createdAt": "2025-06-19T07:24:11Z"
   },
   {
@@ -5456,7 +5456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 105,
     "createdAt": "2025-07-15T18:07:15Z"
   },
   {
@@ -5492,7 +5492,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2025-06-26T14:43:59Z"
   },
   {
@@ -5550,9 +5550,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 494,
-    "publicContributions": 150,
+    "followers": 6,
+    "privateContributions": 552,
+    "publicContributions": 151,
     "createdAt": "2025-08-23T11:26:21Z"
   },
   {
@@ -5562,9 +5562,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-03-19T12:37:18Z"
   },
   {
@@ -5582,7 +5582,7 @@
   {
     "login": "dhifamahaile",
     "name": "(Efa)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226115638?s=72&u=9779729e60b5d7ff1c73f507fd1fce688c7e6d9f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226115638?s=72&u=081a2a51edabd579cbce6ba00a22012897647d01&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
@@ -5600,7 +5600,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 75,
     "createdAt": "2025-11-25T10:11:58Z"
   },
   {
@@ -5610,9 +5610,9 @@
     "location": "Mekelle, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 18,
     "createdAt": "2025-07-13T14:45:55Z"
   },
   {
@@ -5624,7 +5624,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 149,
     "createdAt": "2025-07-01T15:11:10Z"
   },
   {
@@ -5648,7 +5648,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 175,
     "createdAt": "2025-03-10T17:34:41Z"
   },
   {
@@ -80458,5 +80458,137 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-05-15T11:13:42Z"
+  },
+  {
+    "login": "zerusoree2017-gif",
+    "name": "Zerihun Abera",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296620882?s=72&u=a99097da1be2a605ab28d46695ef52bfba80f82f&v=4",
+    "location": "Ethiopia ",
+    "company": "Education / Information Technology / Digital Services / Data Analytics",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 172,
+    "createdAt": "2026-06-24T18:47:14Z"
+  },
+  {
+    "login": "HaniSemayat",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294953512?s=72&u=87dab5cba5155c0f82eaac9c53bddbd338af2f5c&v=4",
+    "location": "Addis Ababa, Ethiopia.",
+    "company": "",
+    "twitterUsername": "HaniSemayat",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 178,
+    "createdAt": "2026-06-18T22:02:44Z"
+  },
+  {
+    "login": "uzayififaris",
+    "name": "Uzayifi Faris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296628789?s=72&v=4",
+    "location": "Ethiopia",
+    "company": "Web koo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-24T19:15:11Z"
+  },
+  {
+    "login": "kamilabdu52-bit",
+    "name": "Kamil",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296279807?s=72&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "Minefield",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T19:22:31Z"
+  },
+  {
+    "login": "kidist539",
+    "name": "Kidist Dagnachew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294928137?s=72&v=4",
+    "location": "ETHIOPIA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-18T19:59:40Z"
+  },
+  {
+    "login": "fenta2129",
+    "name": "Diyakon Fenta Melkamu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291263887?s=72&u=075f99749b7885f70c1e08f0db69cc6c24160c5b&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-06T09:52:36Z"
+  },
+  {
+    "login": "eyob-tk",
+    "name": "Eyob Tekaligne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293199826?s=72&u=0a3531218b6c3f562052040059af07c3740fd9e7&v=4",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 101,
+    "createdAt": "2026-06-12T19:15:35Z"
+  },
+  {
+    "login": "sarina-loli",
+    "name": "Sara Getu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296100969?s=72&u=c6a5d8b477ee0e352cd00ca3532ba5d20c2e578f&v=4",
+    "location": "Addis Ababa , Ethiopia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 168,
+    "createdAt": "2026-06-23T08:27:12Z"
+  },
+  {
+    "login": "tatodadacha-cpu",
+    "name": "Tato Tedacha",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297428633?s=72&v=4",
+    "location": "Ethiopia",
+    "company": "Borana university",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-27T14:17:32Z"
+  },
+  {
+    "login": "Pini36",
+    "name": "Pineal Tsegaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293029061?s=72&v=4",
+    "location": "Arba Minch, Ethiopia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-12T07:53:24Z"
+  },
+  {
+    "login": "mulugeta212927",
+    "name": "Mulat Berihun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296800397?s=72&v=4",
+    "location": "Kombolcha,Ethiopia",
+    "company": "Wollo University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-25T07:36:53Z"
   }
 ]

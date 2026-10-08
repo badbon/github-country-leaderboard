@@ -5096,32 +5096,20 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 26,
-    "publicContributions": 81,
+    "publicContributions": 94,
     "createdAt": "2022-04-07T16:22:20Z"
   },
   {
     "login": "half-cto",
     "name": "Juris Zemitis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101418578?s=72&u=33b382c04a00725e0471c9a4c33064c184d968ab&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101418578?s=72&v=4",
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 38,
-    "publicContributions": 0,
+    "privateContributions": 76,
+    "publicContributions": 1,
     "createdAt": "2022-03-11T16:34:06Z"
-  },
-  {
-    "login": "snorins",
-    "name": "Jānis Šņoriņš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104723218?s=72&u=29a3526e623c565ac73e70fe2732c3dc728f0c96&v=4",
-    "location": "Riga, Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-05-01T13:27:06Z"
   },
   {
     "login": "LaurisNeimanis",
@@ -5132,7 +5120,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 428,
+    "publicContributions": 429,
     "createdAt": "2022-01-23T17:01:09Z"
   },
   {
@@ -5154,9 +5142,9 @@
     "location": "Jelgava, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 90,
-    "publicContributions": 185,
+    "followers": 6,
+    "privateContributions": 55,
+    "publicContributions": 80,
     "createdAt": "2022-11-14T18:39:17Z"
   },
   {
@@ -5167,7 +5155,7 @@
     "company": "NoviBytes",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 167,
+    "privateContributions": 599,
     "publicContributions": 0,
     "createdAt": "2022-05-30T17:51:54Z"
   },
@@ -5192,20 +5180,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-06-05T20:39:55Z"
-  },
-  {
-    "login": "AnubisDunk",
-    "name": "Aleksandrs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99726238?s=72&u=b05737e185df36a1b0814e6d138ff666a06ffc5f&v=4",
-    "location": "Riga, Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2022-02-15T10:17:52Z"
   },
   {
     "login": "pavels-jacuks",
@@ -5215,7 +5191,7 @@
     "company": "SpellFast AI Startup Founder",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 84,
+    "privateContributions": 92,
     "publicContributions": 8,
     "createdAt": "2022-04-19T10:52:13Z"
   },
@@ -5226,8 +5202,8 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
+    "followers": 3,
+    "privateContributions": 82,
     "publicContributions": 10,
     "createdAt": "2022-08-02T19:43:22Z"
   },
@@ -5250,9 +5226,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 753,
-    "publicContributions": 5,
+    "followers": 5,
+    "privateContributions": 916,
+    "publicContributions": 6,
     "createdAt": "2022-09-10T08:33:42Z"
   },
   {
@@ -5264,7 +5240,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 12,
     "createdAt": "2022-05-13T22:03:11Z"
   },
   {
@@ -5274,22 +5250,10 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-22T19:41:55Z"
-  },
-  {
-    "login": "MustafaKemalV",
-    "name": "Mustafa Kemal Vural",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119737426?s=72&u=50aab76ae7f5ff78d06fd2a2ac232dfcd31a4e23&v=4",
-    "location": "Riga, Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 463,
-    "publicContributions": 20,
-    "createdAt": "2022-12-03T12:00:28Z"
   },
   {
     "login": "kriobods",

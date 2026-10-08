@@ -5191,8 +5191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 41,
-    "publicContributions": 2,
+    "privateContributions": 69,
+    "publicContributions": 22,
     "createdAt": "2018-07-28T22:59:42Z"
   },
   {
@@ -5214,9 +5214,9 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 2588,
-    "publicContributions": 521,
+    "followers": 6,
+    "privateContributions": 3299,
+    "publicContributions": 610,
     "createdAt": "2018-11-02T08:18:19Z"
   },
   {
@@ -5227,8 +5227,8 @@
     "company": "NVSSoft",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 178,
-    "publicContributions": 1,
+    "privateContributions": 387,
+    "publicContributions": 0,
     "createdAt": "2018-10-22T10:04:32Z"
   },
   {
@@ -5238,7 +5238,7 @@
     "location": "Kuwait City, Kuwait",
     "company": "https://timothy965.github.io/Portfolio/",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-26T18:22:47Z"
@@ -5250,7 +5250,7 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-27T20:55:19Z"
@@ -5266,18 +5266,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-27T01:42:14Z"
-  },
-  {
-    "login": "mbangi66",
-    "name": "Mustaqeem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/37992013?s=72&u=2161239064c227949cf5aa293a196e188d8a81e9&v=4",
-    "location": "Kuwait City ",
-    "company": "Majestic information technology ",
-    "twitterUsername": "Mustaqeembangi",
-    "followers": 4,
-    "privateContributions": 734,
-    "publicContributions": 94,
-    "createdAt": "2018-04-02T03:02:09Z"
   },
   {
     "login": "Arifur97",
@@ -5299,8 +5287,8 @@
     "company": "",
     "twitterUsername": "ileaderx",
     "followers": 4,
-    "privateContributions": 72,
-    "publicContributions": 16,
+    "privateContributions": 73,
+    "publicContributions": 14,
     "createdAt": "2018-01-10T09:11:44Z"
   },
   {
@@ -5311,8 +5299,8 @@
     "company": "Uforia",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 289,
-    "publicContributions": 63,
+    "privateContributions": 288,
+    "publicContributions": 56,
     "createdAt": "2018-12-28T16:20:26Z"
   },
   {
@@ -5334,7 +5322,7 @@
     "location": "Kuwait",
     "company": "Kuwait University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-06-03T19:25:03Z"
@@ -5370,7 +5358,7 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "spctiy",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2018-10-26T08:13:26Z"
@@ -5394,9 +5382,9 @@
     "location": "Kuwait",
     "company": "Lambda",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 78,
     "createdAt": "2018-05-10T11:36:39Z"
   },
   {

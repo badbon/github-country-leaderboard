@@ -5352,18 +5352,6 @@
     "createdAt": "2023-06-09T19:28:10Z"
   },
   {
-    "login": "auuruum",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132217203?s=72&u=25b4d0cb2b6b06fb6cd91583db56566a64f1080b&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 759,
-    "createdAt": "2023-04-30T15:58:28Z"
-  },
-  {
     "login": "Agne-Jazdauskiene",
     "name": "Agnė",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139142864?s=72&u=681e4e217fb8147fcfc7f070e73bedec31be9676&v=4",
@@ -5371,32 +5359,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 25,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2023-07-10T13:59:23Z"
   },
   {
-    "login": "laurynas-miskinis",
-    "name": "Laurynas Miškinis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122107343?s=72&u=50e0ab4851576036a33fa30f3c269f1a7f90abc0&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 313,
-    "publicContributions": 194,
-    "createdAt": "2023-01-06T15:11:05Z"
-  },
-  {
     "login": "Kirreinaa",
-    "name": "Kireina",
+    "name": "Rivvka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123265427?s=72&u=df090353d6fcf811c00d9783bb30aed96e5ed691&v=4",
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "followers": 6,
+    "privateContributions": 7,
+    "publicContributions": 29,
     "createdAt": "2023-01-21T18:22:08Z"
   },
   {
@@ -5515,8 +5491,8 @@
     "company": "Lokomu",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 983,
-    "publicContributions": 9,
+    "privateContributions": 1525,
+    "publicContributions": 6,
     "createdAt": "2023-10-13T10:18:05Z"
   },
   {
@@ -5528,7 +5504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 587,
+    "publicContributions": 533,
     "createdAt": "2023-06-16T07:11:34Z"
   },
   {
@@ -5575,8 +5551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2023-11-04T18:21:35Z"
   },
   {

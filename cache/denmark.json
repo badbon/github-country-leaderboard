@@ -5348,7 +5348,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 67,
     "createdAt": "2024-09-04T10:58:13Z"
   },
   {
@@ -5360,7 +5360,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 2,
     "createdAt": "2024-09-02T08:48:56Z"
   },
   {
@@ -5372,18 +5372,18 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 30,
     "createdAt": "2024-08-24T09:51:10Z"
   },
   {
     "login": "KodeBy",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186095499?s=72&u=199d338ef962fdeec6bb1c36be7464a1e13a34a3&v=4",
+    "name": "KodeBy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186095499?s=72&u=45864b02e9b3523b2be023ef8f39131ae48dc2cc&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 15,
+    "privateContributions": 21,
     "publicContributions": 0,
     "createdAt": "2024-10-23T19:26:03Z"
   },
@@ -5394,9 +5394,9 @@
     "location": "Sønderborg, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 17,
-    "publicContributions": 83,
+    "publicContributions": 87,
     "createdAt": "2024-07-07T11:37:30Z"
   },
   {
@@ -5418,7 +5418,7 @@
     "location": "Denmark",
     "company": "@TrackMan ",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-12-04T14:37:55Z"
@@ -5428,10 +5428,10 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185351407?s=72&u=d19c44997d476971039de2f8b016db690dcaf263&v=4",
     "location": "Denmark",
-    "company": "Aalborg University, Copenhagen",
+    "company": "Business Academy Aarhus",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 237,
+    "privateContributions": 201,
     "publicContributions": 31,
     "createdAt": "2024-10-17T09:35:27Z"
   },
@@ -5450,13 +5450,13 @@
   {
     "login": "ViktorFoerrisdahl",
     "name": "Viktor Kirkeby Førrisdahl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161237830?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161237830?s=72&u=6479e5fcf5dbdbd5e7b9c252ca3271a397cbbeb8&v=4",
     "location": "Aarhus, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 32,
-    "publicContributions": 119,
+    "followers": 4,
+    "privateContributions": 96,
+    "publicContributions": 141,
     "createdAt": "2024-02-25T17:03:23Z"
   },
   {
@@ -5478,9 +5478,9 @@
     "location": "Horsens, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 128,
-    "publicContributions": 498,
+    "followers": 4,
+    "privateContributions": 269,
+    "publicContributions": 479,
     "createdAt": "2024-11-06T09:28:34Z"
   },
   {
@@ -5502,21 +5502,21 @@
     "location": "Denmark",
     "company": "Forensics: Spanish National Police",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 206,
     "createdAt": "2024-03-06T12:41:51Z"
   },
   {
     "login": "rqsmus",
     "name": "Rasmus Koch Jensen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183475173?s=72&u=127cdd0024360b27d58f463d782816f95a4854be&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183475173?s=72&u=fb87fdabd9fd513d13639072e4b206c5bb7aba95&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 9,
-    "publicContributions": 33,
+    "publicContributions": 19,
     "createdAt": "2024-10-01T07:58:36Z"
   },
   {
@@ -5540,19 +5540,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 48,
     "createdAt": "2024-12-20T12:02:07Z"
   },
   {
     "login": "madsdegn",
     "name": "Mads Degn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161317164?s=72&u=962f1ace2007e29a0e08e90d19e8b12329717d54&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161317164?s=72&u=f3e8cb43e3a0f2e4e8bb1d814433607924198d65&v=4",
     "location": "Copenhagen, Denmark",
     "company": "GN Group",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 53,
     "createdAt": "2024-02-26T11:37:15Z"
   },
   {
@@ -5562,9 +5562,9 @@
     "location": "Denmark",
     "company": "Aarhus University",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 184,
-    "publicContributions": 75,
+    "followers": 4,
+    "privateContributions": 137,
+    "publicContributions": 74,
     "createdAt": "2024-08-27T06:19:37Z"
   },
   {

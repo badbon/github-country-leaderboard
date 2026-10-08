@@ -5456,7 +5456,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 32,
     "createdAt": "2020-04-28T17:10:37Z"
   },
   {
@@ -5468,7 +5468,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 39,
     "createdAt": "2020-06-23T17:25:50Z"
   },
   {
@@ -5479,7 +5479,7 @@
     "company": "@UOH-500088-2020 ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-08T10:57:01Z"
   },
@@ -5576,7 +5576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 39,
     "createdAt": "2020-11-16T18:55:44Z"
   },
   {
@@ -5594,13 +5594,13 @@
   {
     "login": "mark-drummond",
     "name": "Mark Drummond",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60435997?s=72&u=529a98ba769388886777c7ed25179c1a74540981&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60435997?s=72&u=0f2d27de34052bbbd632d420c13e326d0171bdf8&v=4",
     "location": "Kingston, Ontario",
     "company": "@EmpireLife ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 13,
+    "privateContributions": 32,
+    "publicContributions": 5,
     "createdAt": "2020-01-29T14:31:31Z"
   },
   {
@@ -5612,7 +5612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 21,
     "createdAt": "2020-04-14T05:33:33Z"
   },
   {

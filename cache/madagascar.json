@@ -5442,9 +5442,9 @@
     "location": "Antananarivo, Madagascar ",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 40,
     "createdAt": "2023-05-26T05:45:41Z"
   },
   {
@@ -5454,7 +5454,7 @@
     "location": "Antananarivo Madagascar  ",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-07T11:40:50Z"
@@ -5467,7 +5467,7 @@
     "company": "ESTI",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 239,
+    "privateContributions": 152,
     "publicContributions": 34,
     "createdAt": "2023-08-02T06:27:47Z"
   },
@@ -5478,9 +5478,9 @@
     "location": "Madagascar",
     "company": "Tokana",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 103,
     "createdAt": "2023-04-04T14:24:29Z"
   },
   {
@@ -5490,7 +5490,7 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 64,
     "createdAt": "2023-08-22T14:47:20Z"
@@ -5502,9 +5502,9 @@
     "location": "Antananarivo, Madagascar",
     "company": "ITU Andoharanofotsy",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 175,
-    "publicContributions": 143,
+    "followers": 17,
+    "privateContributions": 152,
+    "publicContributions": 153,
     "createdAt": "2023-07-27T15:40:02Z"
   },
   {
@@ -5514,22 +5514,10 @@
     "location": "Antananarivo, Madagascar ",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 53,
     "createdAt": "2023-05-11T08:16:46Z"
-  },
-  {
-    "login": "ChrysoMalala",
-    "name": "Malala Chryso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136321422?s=72&u=e9621fbce23e900cb7e9ab0d689fd948c6ccddb0&v=4",
-    "location": "Madagascar ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-06-12T09:28:51Z"
   },
   {
     "login": "Abega1642",
@@ -5539,8 +5527,8 @@
     "company": "HEI & University of Antananarivo",
     "twitterUsername": "razafindratelo",
     "followers": 17,
-    "privateContributions": 119,
-    "publicContributions": 1063,
+    "privateContributions": 122,
+    "publicContributions": 928,
     "createdAt": "2023-11-20T04:32:54Z"
   },
   {
@@ -5552,7 +5540,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 51,
     "createdAt": "2023-04-10T18:48:58Z"
   },
   {
@@ -5563,7 +5551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 6,
+    "privateContributions": 5,
     "publicContributions": 33,
     "createdAt": "2023-07-19T06:16:29Z"
   },
@@ -5574,21 +5562,21 @@
     "location": "Antananarivo, Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 210,
     "createdAt": "2023-09-15T16:40:32Z"
   },
   {
     "login": "Kevinfal383",
     "name": "FALISOA Kevin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148060436?s=72&u=886d31dc868001324d154170e4d54851df26002a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148060436?s=72&u=1d57f28a836b05e39ce8646b9f1808e7576a8995&v=4",
     "location": "Antananarivo , Madagascar",
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 476,
-    "publicContributions": 230,
+    "privateContributions": 483,
+    "publicContributions": 220,
     "createdAt": "2023-10-16T10:18:52Z"
   },
   {
@@ -5604,18 +5592,6 @@
     "createdAt": "2023-12-08T12:38:17Z"
   },
   {
-    "login": "Stephanie12-21",
-    "name": "Stéphanie Maminiaina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126582925?s=72&u=0c3a4838f4e6ec21926e41f16ff24138a96d64e3&v=4",
-    "location": "Madagascar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 186,
-    "createdAt": "2023-02-28T13:39:05Z"
-  },
-  {
     "login": "irinaelR",
     "name": "Irina Elina Ranaivozanany",
     "avatarUrl": "https://avatars.githubusercontent.com/u/153544557?s=72&u=1ac8f418cc9ab642e7a2f9ffe47cf311b907cba7&v=4",
@@ -5623,7 +5599,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 170,
+    "privateContributions": 114,
     "publicContributions": 0,
     "createdAt": "2023-12-11T17:47:28Z"
   },
@@ -5632,11 +5608,11 @@
     "name": "Herimanjaka Razakasoa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/140839024?s=72&u=fce1b58c8284a4e462ec51c9bf8cb8c2d2d02f4d&v=4",
     "location": "Antananarivo Madagascar",
-    "company": "",
+    "company": "SmartOne.ai",
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 43,
     "createdAt": "2023-07-28T16:25:27Z"
   },
   {
@@ -5659,7 +5635,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 345,
+    "privateContributions": 213,
     "publicContributions": 0,
     "createdAt": "2023-05-15T18:12:12Z"
   },
@@ -5670,9 +5646,9 @@
     "location": "Madagascar , Antananarivo",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 3,
-    "publicContributions": 1,
+    "followers": 16,
+    "privateContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2023-03-22T11:04:22Z"
   },
   {

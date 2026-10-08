@@ -5126,13 +5126,13 @@
   {
     "login": "AmaruSegovia",
     "name": "Maru",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125101878?s=72&u=bf13557460cc4dd71e322df2929a16276abae3ce&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125101878?s=72&u=c2aa37175b934951118a18c7e0dff6b1d8b19a44&v=4",
     "location": "Jujuy, San Salvador de Jujuy",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 626,
-    "publicContributions": 113,
+    "followers": 7,
+    "privateContributions": 794,
+    "publicContributions": 151,
     "createdAt": "2023-02-11T00:46:33Z"
   },
   {
@@ -5179,7 +5179,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 137,
     "publicContributions": 7,
     "createdAt": "2023-02-09T19:38:21Z"
   },
@@ -5190,7 +5190,7 @@
     "location": "San Salvador",
     "company": "ANDA",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-18T21:46:04Z"
@@ -5240,7 +5240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 13,
     "createdAt": "2023-05-22T11:25:53Z"
   },
   {
@@ -5252,7 +5252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 64,
     "createdAt": "2023-11-22T00:00:08Z"
   },
   {
@@ -5286,7 +5286,7 @@
     "location": "El Salvador",
     "company": "Mi Primer Bitcoin El Salvador",
     "twitterUsername": "MyfirstBitcoin_",
-    "followers": 95,
+    "followers": 96,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-12T15:15:02Z"
@@ -5298,7 +5298,7 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 83,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-21T15:47:36Z"
@@ -5310,9 +5310,9 @@
     "location": "El Zonte, El Salvador",
     "company": "",
     "twitterUsername": "ThomasFarstrike",
-    "followers": 51,
+    "followers": 49,
     "privateContributions": 1,
-    "publicContributions": 4137,
+    "publicContributions": 4589,
     "createdAt": "2022-08-11T15:06:34Z"
   },
   {
@@ -5324,7 +5324,7 @@
     "twitterUsername": "Forte11Cuba",
     "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 1304,
+    "publicContributions": 1404,
     "createdAt": "2022-09-13T18:50:23Z"
   },
   {
@@ -5336,20 +5336,8 @@
     "twitterUsername": "",
     "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 361,
+    "publicContributions": 318,
     "createdAt": "2022-07-08T01:07:31Z"
-  },
-  {
-    "login": "wkatir",
-    "name": "Wilmer Salazar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110741874?s=72&u=596f50395c75d068b9c221f7e69b2e6f48e558fb&v=4",
-    "location": "El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 175,
-    "publicContributions": 241,
-    "createdAt": "2022-08-06T19:15:25Z"
   },
   {
     "login": "FredyRivera-dev",
@@ -5358,9 +5346,9 @@
     "location": "El Salvador, San Vicente",
     "company": "@Aquiles-ai ",
     "twitterUsername": "FredyRiveraai",
-    "followers": 29,
-    "privateContributions": 802,
-    "publicContributions": 991,
+    "followers": 33,
+    "privateContributions": 847,
+    "publicContributions": 907,
     "createdAt": "2022-10-19T03:07:16Z"
   },
   {
@@ -28606,5 +28594,41 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-05-23T22:18:03Z"
+  },
+  {
+    "login": "MMLabsDev",
+    "name": "Miguel Martínez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294660817?s=72&u=33c364bea2a1392a366f1fb522bb3448c5348c40&v=4",
+    "location": "El Salvador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 189,
+    "createdAt": "2026-06-18T00:35:25Z"
+  },
+  {
+    "login": "pinedini",
+    "name": "David Alexander Pineda Mejia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296900810?s=72&u=a21dc1215e4b58bd1e049f805632b998a1f3803a&v=4",
+    "location": "El Salvador, Usulután",
+    "company": "Instituto Nacional de Usulután",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-06-25T14:15:48Z"
+  },
+  {
+    "login": "IunoMain",
+    "name": "Raúl.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297469304?s=72&u=56f70626b0606c3f99e109969d8cef4f3bc93fea&v=4",
+    "location": "San Salvador, El Salvador",
+    "company": "",
+    "twitterUsername": "TrejoPerez666",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2026-06-27T17:44:10Z"
   }
 ]

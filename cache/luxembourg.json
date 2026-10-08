@@ -5131,8 +5131,8 @@
     "company": "FDLV x BIL",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 18,
-    "publicContributions": 11,
+    "privateContributions": 21,
+    "publicContributions": 1,
     "createdAt": "2020-10-17T14:48:18Z"
   },
   {
@@ -5140,11 +5140,11 @@
     "name": "Hugo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/70974789?s=72&u=406041f396a749f522fd79e947e2d305b725c382&v=4",
     "location": "Luxembourg",
-    "company": "ITS4U ",
+    "company": "ITS4U",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 172,
+    "followers": 20,
+    "privateContributions": 6,
+    "publicContributions": 422,
     "createdAt": "2020-09-08T18:37:21Z"
   },
   {
@@ -5156,7 +5156,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 71,
     "createdAt": "2020-07-14T16:36:30Z"
   },
   {
@@ -5166,8 +5166,8 @@
     "location": "Luxembourg",
     "company": "R3robotics",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 879,
+    "followers": 18,
+    "privateContributions": 882,
     "publicContributions": 0,
     "createdAt": "2020-12-06T12:03:02Z"
   },
@@ -5180,7 +5180,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2020-11-02T10:19:12Z"
   },
   {
@@ -5191,8 +5191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 609,
-    "publicContributions": 36,
+    "privateContributions": 618,
+    "publicContributions": 40,
     "createdAt": "2019-12-31T11:36:07Z"
   },
   {
@@ -5202,9 +5202,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 67,
     "createdAt": "2020-08-20T00:10:23Z"
   },
   {
@@ -5214,8 +5214,8 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 31,
+    "followers": 13,
+    "privateContributions": 52,
     "publicContributions": 7,
     "createdAt": "2020-02-07T07:15:03Z"
   },
@@ -5238,9 +5238,9 @@
     "location": "Luxembourg",
     "company": "Optitoo",
     "twitterUsername": "SnyDrive",
-    "followers": 13,
-    "privateContributions": 967,
-    "publicContributions": 3,
+    "followers": 11,
+    "privateContributions": 1246,
+    "publicContributions": 2,
     "createdAt": "2020-11-24T10:51:12Z"
   },
   {
@@ -5251,8 +5251,8 @@
     "company": "University of Luxembourg",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 292,
-    "publicContributions": 9,
+    "privateContributions": 390,
+    "publicContributions": 39,
     "createdAt": "2020-02-08T18:51:39Z"
   },
   {
@@ -5262,8 +5262,8 @@
     "location": "Esch-sur-Alzette - Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 40,
+    "followers": 11,
+    "privateContributions": 38,
     "publicContributions": 0,
     "createdAt": "2020-12-26T23:02:13Z"
   },
@@ -5287,8 +5287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 98,
-    "publicContributions": 244,
+    "privateContributions": 380,
+    "publicContributions": 2255,
     "createdAt": "2020-01-20T19:52:17Z"
   },
   {
@@ -5311,7 +5311,7 @@
     "company": "AOB",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 10,
+    "privateContributions": 2,
     "publicContributions": 3,
     "createdAt": "2020-09-15T22:33:17Z"
   },
@@ -5322,9 +5322,9 @@
     "location": "Esch-sur-Alzette, Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 343,
-    "publicContributions": 1,
+    "followers": 9,
+    "privateContributions": 317,
+    "publicContributions": 230,
     "createdAt": "2020-12-07T11:36:57Z"
   },
   {
@@ -5358,9 +5358,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 666,
-    "publicContributions": 50,
+    "followers": 12,
+    "privateContributions": 637,
+    "publicContributions": 36,
     "createdAt": "2020-04-24T13:19:29Z"
   },
   {

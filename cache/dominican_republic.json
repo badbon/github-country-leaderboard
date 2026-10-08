@@ -5442,7 +5442,7 @@
     "location": "Dominican, Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-10-19T03:54:44Z"
@@ -5492,7 +5492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 35,
     "createdAt": "2023-07-27T14:23:44Z"
   },
   {
@@ -5528,7 +5528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 13,
     "createdAt": "2023-04-18T16:28:22Z"
   },
   {
@@ -5540,7 +5540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 58,
     "createdAt": "2023-05-16T22:13:57Z"
   },
   {
@@ -5550,9 +5550,9 @@
     "location": "Dominican Republic",
     "company": "ITLA",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 44,
     "createdAt": "2023-08-10T20:53:58Z"
   },
   {
@@ -5588,7 +5588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2023-04-24T03:34:15Z"
   },
   {
@@ -5600,7 +5600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 53,
     "createdAt": "2023-04-10T12:24:00Z"
   },
   {
@@ -5611,8 +5611,8 @@
     "company": "@g3deoninc",
     "twitterUsername": "g3deon49583",
     "followers": 30,
-    "privateContributions": 1533,
-    "publicContributions": 86,
+    "privateContributions": 454,
+    "publicContributions": 18,
     "createdAt": "2023-01-25T02:49:48Z"
   },
   {
@@ -5624,7 +5624,7 @@
     "twitterUsername": "Keury37",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-03-16T01:47:24Z"
   },
   {
@@ -5636,7 +5636,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 73,
     "createdAt": "2023-05-10T23:04:53Z"
   },
   {
@@ -5660,7 +5660,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-01-13T15:04:41Z"
   },
   {
@@ -39742,5 +39742,41 @@
     "privateContributions": 688,
     "publicContributions": 1,
     "createdAt": "2026-05-25T13:41:35Z"
+  },
+  {
+    "login": "geoabrec",
+    "name": "geomar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293632675?s=72&u=e508f9e4d572a5a1f9265281f268063c46c046e0&v=4",
+    "location": "Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-06-14T16:39:19Z"
+  },
+  {
+    "login": "leudymanuel001",
+    "name": "Leudy Peña",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291379927?s=72&v=4",
+    "location": "Dominican Republic ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 5,
+    "publicContributions": 1,
+    "createdAt": "2026-06-06T20:19:28Z"
+  },
+  {
+    "login": "michaelromeroros",
+    "name": "Michael Romero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291556779?s=72&u=5a570cddc2aeb312f2754c7d135c088b6654099e&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "Open to work",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2026-06-07T15:51:13Z"
   }
 ]

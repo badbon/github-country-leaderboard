@@ -5418,9 +5418,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 93,
-    "publicContributions": 164,
+    "followers": 11,
+    "privateContributions": 200,
+    "publicContributions": 200,
     "createdAt": "2024-11-22T10:22:51Z"
   },
   {
@@ -5430,21 +5430,21 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 35,
-    "publicContributions": 213,
+    "publicContributions": 204,
     "createdAt": "2024-03-21T19:13:40Z"
   },
   {
     "login": "dariusp0p",
     "name": "Darius Pop",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178777608?s=72&u=aa6e8ad9b0140fa747b52e7a390a6935d0ae3910&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178777608?s=72&u=cf2d8f5d55cbb9d99f96768e7292e2e70610802e&v=4",
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 237,
-    "publicContributions": 723,
+    "privateContributions": 230,
+    "publicContributions": 669,
     "createdAt": "2024-08-19T08:45:30Z"
   },
   {
@@ -5454,22 +5454,10 @@
     "location": "Romania, Timisoara",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 107,
+    "followers": 9,
+    "privateContributions": 307,
+    "publicContributions": 101,
     "createdAt": "2024-10-07T12:43:38Z"
-  },
-  {
-    "login": "Diusneus",
-    "name": "DiusNeus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171062350?s=72&u=3b1e3990a92c376f7becc81c61ac21c15967e6ba&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-05-28T16:07:54Z"
   },
   {
     "login": "avalean07",
@@ -5479,8 +5467,8 @@
     "company": "Forcelift",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 7,
-    "publicContributions": 9,
+    "privateContributions": 28,
+    "publicContributions": 8,
     "createdAt": "2024-10-08T07:57:57Z"
   },
   {
@@ -5504,7 +5492,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 98,
     "createdAt": "2024-02-13T20:52:15Z"
   },
   {
@@ -5538,9 +5526,9 @@
     "location": "Constanta, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 45,
     "createdAt": "2024-02-19T15:50:41Z"
   },
   {
@@ -5552,7 +5540,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 6,
-    "publicContributions": 29,
+    "publicContributions": 19,
     "createdAt": "2024-02-26T12:17:00Z"
   },
   {
@@ -5562,9 +5550,9 @@
     "location": "romania",
     "company": "standistributions",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 215,
     "createdAt": "2024-09-27T10:09:16Z"
   },
   {
@@ -5574,7 +5562,7 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 105,
     "createdAt": "2024-01-20T10:00:41Z"
@@ -5587,8 +5575,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 40,
-    "publicContributions": 139,
+    "privateContributions": 25,
+    "publicContributions": 136,
     "createdAt": "2024-01-01T20:54:47Z"
   },
   {
@@ -5600,7 +5588,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-02-20T08:29:59Z"
   },
   {
@@ -5612,7 +5600,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 50,
     "createdAt": "2024-09-18T20:58:32Z"
   },
   {
@@ -5622,9 +5610,9 @@
     "location": "Bucharest ,Romania",
     "company": "NUST Politechnica Bucharest",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 109,
-    "publicContributions": 11,
+    "followers": 9,
+    "privateContributions": 233,
+    "publicContributions": 10,
     "createdAt": "2024-10-13T08:28:26Z"
   },
   {
@@ -5634,7 +5622,7 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-12T15:26:07Z"
@@ -5642,13 +5630,13 @@
   {
     "login": "Alexandru-07",
     "name": "Alexandru Anghel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174945511?s=72&u=e9dd4470b7de0df0b767a7a85ef15eab91db7a6d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174945511?s=72&u=bb0a94ae19b7ab48a257fc70e8251749755effb6&v=4",
     "location": "Romania, Bucharest",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 31,
     "createdAt": "2024-07-07T13:14:55Z"
   },
   {

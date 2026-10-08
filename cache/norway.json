@@ -5442,9 +5442,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 122,
     "createdAt": "2024-08-09T10:40:38Z"
   },
   {
@@ -5454,21 +5454,21 @@
     "location": "Gjøvik, Norway",
     "company": "NTNU",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 95,
-    "publicContributions": 18,
+    "followers": 15,
+    "privateContributions": 101,
+    "publicContributions": 10,
     "createdAt": "2024-10-01T11:57:07Z"
   },
   {
     "login": "Zekiog",
-    "name": "꧁༺ 𝓩𝓮𝓴𝓲 𝓞𝓰𝓾𝔃 ༻꧂",
+    "name": "Zeki Oguz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163497755?s=72&u=e661ef9ec3fb8d81bc1487a64931e0e1afeba45d&v=4",
-    "location": "Trondheim/Norway",
-    "company": "@Zekk-s ",
-    "twitterUsername": "",
-    "followers": 12,
+    "location": "Trondheim, Norway",
+    "company": "@Zekk-s",
+    "twitterUsername": "zekiog",
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 270,
+    "publicContributions": 397,
     "createdAt": "2024-03-15T05:09:54Z"
   },
   {
@@ -5490,9 +5490,9 @@
     "location": "Hell, Norway",
     "company": "Sirius Cybernetics Corp",
     "twitterUsername": "_radnyx_",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 45,
-    "publicContributions": 185,
+    "publicContributions": 221,
     "createdAt": "2024-07-12T14:36:04Z"
   },
   {
@@ -5502,9 +5502,9 @@
     "location": "Gjøvik, Norway",
     "company": "NTNU",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 825,
-    "publicContributions": 457,
+    "followers": 17,
+    "privateContributions": 860,
+    "publicContributions": 471,
     "createdAt": "2024-08-23T15:45:39Z"
   },
   {
@@ -5514,7 +5514,7 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-14T00:02:15Z"
@@ -5526,9 +5526,9 @@
     "location": "Norway, Oslo. ",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 130,
     "createdAt": "2024-12-06T12:21:24Z"
   },
   {
@@ -5538,9 +5538,9 @@
     "location": "Oslo, Norway",
     "company": "Elvebakken VGS",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 72,
-    "publicContributions": 35,
+    "followers": 11,
+    "privateContributions": 60,
+    "publicContributions": 23,
     "createdAt": "2024-01-17T11:30:12Z"
   },
   {
@@ -5552,7 +5552,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 104,
     "createdAt": "2024-02-20T08:38:53Z"
   },
   {
@@ -5564,7 +5564,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 10,
     "createdAt": "2024-09-23T07:51:15Z"
   },
   {
@@ -5574,9 +5574,9 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 567,
-    "publicContributions": 361,
+    "followers": 10,
+    "privateContributions": 656,
+    "publicContributions": 354,
     "createdAt": "2024-08-22T10:26:01Z"
   },
   {
@@ -5586,9 +5586,9 @@
     "location": "Oslo (Norway)",
     "company": "NMBU",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 22,
-    "publicContributions": 446,
+    "followers": 10,
+    "privateContributions": 48,
+    "publicContributions": 404,
     "createdAt": "2024-05-10T08:28:45Z"
   },
   {
@@ -5598,8 +5598,8 @@
     "location": "Oslo, Norway",
     "company": "@Kreatell-Interactive ",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 4290,
+    "followers": 11,
+    "privateContributions": 4528,
     "publicContributions": 6,
     "createdAt": "2024-10-29T21:02:10Z"
   },
@@ -5612,20 +5612,8 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 917,
+    "publicContributions": 885,
     "createdAt": "2024-03-04T19:28:58Z"
-  },
-  {
-    "login": "UiASub",
-    "name": "UiASub",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179391184?s=72&u=476fa06b8fe0b8ae281812ec6932aa09a1959928&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2024-08-25T14:22:52Z"
   },
   {
     "login": "Senamjya",
@@ -5634,7 +5622,7 @@
     "location": "Trondheim, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2024-08-29T10:49:23Z"
@@ -5648,7 +5636,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 12,
     "createdAt": "2024-08-22T08:11:29Z"
   },
   {
@@ -5666,13 +5654,13 @@
   {
     "login": "DD01XC-docx",
     "name": "Eivind Hansen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186828362?s=72&u=8e43ec31899d403bd461d8025c6107963aac391f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186828362?s=72&u=4a3ffa8b8e7770d77febc3f02f80996a2465d58e&v=4",
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 119,
+    "followers": 9,
+    "privateContributions": 124,
+    "publicContributions": 107,
     "createdAt": "2024-10-30T13:06:54Z"
   },
   {

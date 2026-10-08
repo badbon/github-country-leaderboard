@@ -5408,7 +5408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2023-06-29T08:46:55Z"
   },
   {
@@ -5420,7 +5420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2023-08-22T11:56:12Z"
   },
   {
@@ -5460,18 +5460,6 @@
     "createdAt": "2023-02-15T13:19:32Z"
   },
   {
-    "login": "StephanKyaw",
-    "name": "Stephan Kyaw",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143281565?s=72&v=4",
-    "location": "Mawlamyine, Myanmar.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-08-26T16:17:03Z"
-  },
-  {
     "login": "NyeinChanKo-tech",
     "name": "Nyein Chan Ko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/151212877?s=72&u=99d46d81e8b38e764bc2e6cfec137875f7dac81a&v=4",
@@ -5480,7 +5468,7 @@
     "twitterUsername": "nyeinleon",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-11-17T17:27:09Z"
   },
   {
@@ -5490,7 +5478,7 @@
     "location": "Yangon, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-13T08:58:59Z"
@@ -5503,8 +5491,8 @@
     "company": "@22HMM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 12,
+    "privateContributions": 100,
+    "publicContributions": 0,
     "createdAt": "2023-07-29T08:09:24Z"
   },
   {
@@ -5534,13 +5522,13 @@
   {
     "login": "KaungZawHein114",
     "name": "Kaung Zaw Hein",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145628549?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145628549?s=72&u=56c20762c532136e3c75c7255bc31670751e8738&v=4",
     "location": "Yangon, Myanmar",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 113,
     "createdAt": "2023-09-21T01:34:17Z"
   },
   {
@@ -5562,7 +5550,7 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2023-06-20T12:43:21Z"
@@ -5588,20 +5576,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-10-17T10:37:15Z"
-  },
-  {
-    "login": "hezuoisn",
-    "name": "Han",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135414506?s=72&v=4",
-    "location": "Yangon/Myanmar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-06-03T07:08:30Z"
   },
   {
     "login": "Phoe28",
@@ -5636,7 +5612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2023-09-16T09:31:24Z"
   },
   {

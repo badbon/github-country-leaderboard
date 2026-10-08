@@ -5071,8 +5071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 22,
-    "publicContributions": 33,
+    "privateContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2025-04-24T12:31:13Z"
   },
   {
@@ -5084,7 +5084,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 636,
+    "publicContributions": 439,
     "createdAt": "2025-05-22T11:31:54Z"
   },
   {
@@ -5096,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 104,
-    "publicContributions": 94,
+    "publicContributions": 110,
     "createdAt": "2025-05-20T14:31:32Z"
   },
   {
@@ -5107,8 +5107,8 @@
     "company": "DanamoTechLTD",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 381,
-    "publicContributions": 407,
+    "privateContributions": 476,
+    "publicContributions": 359,
     "createdAt": "2025-04-21T08:54:09Z"
   },
   {
@@ -5120,7 +5120,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 3,
-    "publicContributions": 20,
+    "publicContributions": 12,
     "createdAt": "2025-03-02T06:56:47Z"
   },
   {
@@ -5131,8 +5131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 13,
-    "publicContributions": 151,
+    "privateContributions": 7,
+    "publicContributions": 169,
     "createdAt": "2025-02-20T10:36:10Z"
   },
   {
@@ -5154,9 +5154,9 @@
     "location": "Nairobi Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 242,
     "createdAt": "2025-02-07T06:35:45Z"
   },
   {
@@ -5168,19 +5168,19 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2025-02-18T08:04:35Z"
   },
   {
     "login": "JohnApollos",
     "name": "John Apollos Olal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200596342?s=72&u=d2e80967d38a1b66310236e691c8239778fb849e&v=4",
-    "location": "Nairobi,Kenya",
+    "location": "Nairobi, Kenya",
     "company": "Apollos Digital Solutions",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 296,
+    "publicContributions": 275,
     "createdAt": "2025-02-24T10:45:38Z"
   },
   {
@@ -5190,22 +5190,10 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "DonaldKisaka",
-    "followers": 6,
-    "privateContributions": 23,
-    "publicContributions": 475,
+    "followers": 7,
+    "privateContributions": 73,
+    "publicContributions": 519,
     "createdAt": "2025-05-03T04:52:37Z"
-  },
-  {
-    "login": "ste-obado",
-    "name": "Stephen Odero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217337587?s=72&u=8db6d274e6a2b5af0eb4b1aac0c7fd690196a3e5&v=4",
-    "location": "Kenya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2025-06-21T12:02:05Z"
   },
   {
     "login": "Ivan-Mayabi",
@@ -5216,7 +5204,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 272,
     "createdAt": "2025-04-09T13:58:25Z"
   },
   {
@@ -5238,9 +5226,9 @@
     "location": "Kenya Nairobi",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 16,
-    "publicContributions": 835,
+    "followers": 7,
+    "privateContributions": 3,
+    "publicContributions": 550,
     "createdAt": "2025-01-22T15:53:19Z"
   },
   {
@@ -5252,7 +5240,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 20,
     "createdAt": "2025-03-10T11:31:30Z"
   },
   {
@@ -5263,8 +5251,8 @@
     "company": "CO",
     "twitterUsername": "caleb_osiango",
     "followers": 6,
-    "privateContributions": 70,
-    "publicContributions": 80,
+    "privateContributions": 154,
+    "publicContributions": 166,
     "createdAt": "2025-01-27T15:33:43Z"
   },
   {
@@ -5288,7 +5276,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 322,
+    "publicContributions": 381,
     "createdAt": "2025-01-07T16:53:08Z"
   },
   {
@@ -5300,7 +5288,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 23,
     "createdAt": "2025-02-11T09:43:51Z"
   },
   {
@@ -242614,18 +242602,6 @@
     "privateContributions": 1935,
     "publicContributions": 6,
     "createdAt": "2016-09-22T13:08:51Z"
-  },
-  {
-    "login": "KevinGitonga",
-    "name": "Kevin .M. Gitonga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20886444?s=72&u=ba0d8b593c9d30e8e0dcde60be57610bd15ac11f&v=4",
-    "location": "Kenya,Nairobi",
-    "company": "Mabao Analytics",
-    "twitterUsername": "Kevgitonga4199",
-    "followers": 77,
-    "privateContributions": 162,
-    "publicContributions": 4,
-    "createdAt": "2016-08-07T11:27:44Z"
   },
   {
     "login": "muth0mi",
