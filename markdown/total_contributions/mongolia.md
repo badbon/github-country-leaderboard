@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-08T16:51:01.669Z
+Generated: 2026-10-08T17:50:23.575Z
 
 Users: 805
 
@@ -19,10 +19,10 @@ Users: 805
 | 11 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5576 |
 | 12 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5247 |
 | 13 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 4989 |
-| 14 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 4613 |
-| 15 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4165 |
-| 16 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4093 |
-| 17 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 3546 |
-| 18 | [Tergeltengis](https://github.com/Tergeltengis) | Tergeltengis | Nest Solutions LLC | tergeltengis | Mongolia,Ulaanbaatar | 3498 |
-| 19 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 3391 |
+| 14 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
+| 15 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 4613 |
+| 16 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4336 |
+| 17 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4165 |
+| 18 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4093 |
+| 19 | [Tergeltengis](https://github.com/Tergeltengis) | Tergeltengis | Nest Solutions LLC | tergeltengis | Mongolia,Ulaanbaatar | 3498 |
 | 20 | [khanka0511](https://github.com/khanka0511) | Khantushig | @coretech-asia |  | Ulaanbaatar, Mongolia | 3316 |

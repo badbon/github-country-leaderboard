@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-08T17:22:50.580Z
+Generated: 2026-10-08T18:22:43.072Z
 
 Users: 534
 
@@ -8,7 +8,7 @@ Users: 534
 |---:|---|---|---|---|---|---:|
 | 1 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2353 |
 | 2 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 1406 |
-| 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi |  |  | Gaborone | 1193 |
+| 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 1198 |
 | 4 | [Todd366](https://github.com/Todd366) | BSTM Ecosystem  | Bstm |  | Botswana 🇧🇼  | 1038 |
 | 5 | [NjabuloJf](https://github.com/NjabuloJf) | Njabulo Jb |  |  | Botswana  | 994 |
 | 6 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Self-Employed |  | Gaborone Botswana | 855 |

@@ -31,7 +31,7 @@ Indexed users: 1,175
 | 17 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
 | 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
 | 19 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 2,239 |
-| 20 | [Blaze380](https://github.com/Blaze380) | Niuro Orlando Gabriel Langa | Mozambique | 2,133 |
+| 20 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 2,193 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 1,175
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,850 |
 | 3 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 1,601 |
 | 4 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | Maputo | 1,273 |
-| 5 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,150 |
+| 5 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch | Mozambique, Maputo | 1,115 |
 | 6 | [zerosatus](https://github.com/zerosatus) | zerosatus | Mozambique | 1,003 |
 | 7 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 974 |
 | 8 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 936 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-08T16:52:21.754Z
+Generated: 2026-10-08T17:51:04.663Z

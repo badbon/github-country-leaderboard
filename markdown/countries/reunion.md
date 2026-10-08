@@ -23,21 +23,21 @@ Indexed users: 212
 | 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,187 |
 | 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,043 |
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,030 |
-| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,951 |
+| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,956 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,861 |
 | 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,802 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,766 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,482 |
 | 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,406 |
-| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,346 |
-| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,209 |
+| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,351 |
+| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,210 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 1,152 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,884 |
+| 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,889 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,482 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,145 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,110 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-08T16:58:20.237Z
+Generated: 2026-10-08T18:00:24.417Z

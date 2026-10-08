@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,255
+Indexed users: 18,254
 
 | Leaderboard | Link |
 |---|---|
@@ -46,13 +46,13 @@ Indexed users: 18,255
 | 7 | [mcm1957](https://github.com/mcm1957) | Martin M. | Vienna, Austria | 10,062 |
 | 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | Austria | 10,006 |
 | 9 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8,906 |
-| 10 | [phax](https://github.com/phax) | Philip Helger | Vienna, Austria | 8,386 |
-| 11 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | Vienna  | 8,316 |
-| 12 | [thisbavoreva](https://github.com/thisbavoreva) | Laurenz Stampfl | Vienna, Austria | 7,903 |
-| 13 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 7,889 |
-| 14 | [Tuubblarheuert](https://github.com/Tuubblarheuert) | Laurenz Stampfl | Vienna, Austria | 7,111 |
-| 15 | [timkicker](https://github.com/timkicker) |  | Austria | 7,075 |
-| 16 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet | Vienna | 6,922 |
+| 10 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet | Vienna | 8,637 |
+| 11 | [phax](https://github.com/phax) | Philip Helger | Vienna, Austria | 8,386 |
+| 12 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | Vienna  | 8,316 |
+| 13 | [thisbavoreva](https://github.com/thisbavoreva) | Laurenz Stampfl | Vienna, Austria | 7,903 |
+| 14 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 7,889 |
+| 15 | [Tuubblarheuert](https://github.com/Tuubblarheuert) | Laurenz Stampfl | Vienna, Austria | 7,111 |
+| 16 | [timkicker](https://github.com/timkicker) |  | Austria | 7,075 |
 | 17 | [cenk1cenk2](https://github.com/cenk1cenk2) | Cenk Kılıç | Vienna, Austria | 6,696 |
 | 18 | [markus-barta](https://github.com/markus-barta) | Markus Barta | Graz, Austria | 6,686 |
 | 19 | [raulssorban](https://github.com/raulssorban) | Raul-Sorin Sorban | Braunau, Austria | 6,405 |
@@ -83,4 +83,4 @@ Indexed users: 18,255
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-08T17:19:35.307Z
+Generated: 2026-10-08T18:17:38.643Z

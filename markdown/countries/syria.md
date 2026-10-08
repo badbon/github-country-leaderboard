@@ -12,26 +12,26 @@ Indexed users: 1,483
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,895 |
-| 2 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 3,880 |
-| 3 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 3,786 |
-| 4 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 3,587 |
-| 5 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | Syria, Damascus | 3,418 |
+| 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | Syria, Damascus | 8,001 |
+| 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,895 |
+| 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 3,880 |
+| 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 3,786 |
+| 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 3,587 |
 | 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,178 |
 | 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,917 |
 | 8 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,847 |
 | 9 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 2,555 |
 | 10 | [eymeen](https://github.com/eymeen) | Ayman Eid | Syria, Turkey | 2,551 |
 | 11 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 2,465 |
-| 12 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,024 |
-| 13 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,986 |
-| 14 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,944 |
+| 12 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,105 |
+| 13 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea | syria | 2,024 |
+| 14 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,986 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,825 |
-| 16 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
-| 17 | [z44d](https://github.com/z44d) | Za¡d | Damascus, Syria | 1,708 |
-| 18 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
-| 19 | [abd-shan](https://github.com/abd-shan) | Abdulkader Shanbour | Damascus,Syria | 1,505 |
-| 20 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,481 |
+| 16 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,795 |
+| 17 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
+| 18 | [z44d](https://github.com/z44d) | Za¡d | Damascus, Syria | 1,708 |
+| 19 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
+| 20 | [abd-shan](https://github.com/abd-shan) | Abdulkader Shanbour | Damascus,Syria | 1,505 |
 
 ## Public Contributions
 
@@ -44,7 +44,7 @@ Indexed users: 1,483
 | 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
 | 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,481 |
-| 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,246 |
+| 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,180 |
 | 9 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
 | 10 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,046 |
 | 11 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
@@ -83,4 +83,4 @@ Indexed users: 1,483
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-08T17:09:28.017Z
+Generated: 2026-10-08T18:12:51.839Z

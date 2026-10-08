@@ -1,14 +1,14 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-10-08T17:10:26.624Z
+Generated: 2026-10-08T18:12:24.377Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 1600 |
-| 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | Darvis Inc, TTLab, Udemy, Packt,  Manning Publications |  | UK, Trinidad and Tobago | 193 |
-| 3 | [InzamamRahaman](https://github.com/InzamamRahaman) | Inzamam Rahaman | The University of the West Indies / Trinidad and Tobago Network Information Centre |  | Trinidad and Tobago | 118 |
+| 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | Darvis Inc, TTLab, Udemy, Packt,  Manning Publications |  | UK, Trinidad and Tobago | 194 |
+| 3 | [InzamamRahaman](https://github.com/InzamamRahaman) | Inzamam Rahaman | The University of the West Indies / Trinidad and Tobago Network Information Centre |  | Trinidad and Tobago | 119 |
 | 4 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | @CoplayDev  | marcussanatan | Trinidad and Tobago | 102 |
 | 5 | [ArmstrongSubero](https://github.com/ArmstrongSubero) | Armstrong Subero | Trinirobotics |  | Moruga, Trinidad and Tobago | 78 |
 | 6 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 70 |

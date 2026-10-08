@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,503
+Indexed users: 1,502
 
 | Leaderboard | Link |
 |---|---|
@@ -18,9 +18,9 @@ Indexed users: 1,503
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmad Ullah Mukhlis | Kabul, Afghanistan | 67,485 |
 | 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 31,456 |
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Afghanistan | 16,893 |
-| 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | Kabul, Afghanistan | 13,288 |
-| 8 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 10,624 |
-| 9 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | Afghanistan | 10,292 |
+| 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | Kabul, Afghanistan | 14,622 |
+| 8 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | Afghanistan | 10,292 |
+| 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 9,544 |
 | 10 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri | Afghanistan | 7,962 |
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,025 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,345 |
@@ -83,4 +83,4 @@ Indexed users: 1,503
 | 19 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 123 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-08T17:16:17.869Z
+Generated: 2026-10-08T18:15:35.289Z

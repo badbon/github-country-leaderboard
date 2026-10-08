@@ -1,6 +1,6 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-08T17:03:45.878Z
+Generated: 2026-10-08T18:03:13.638Z
 
 Users: 7703
 
@@ -16,7 +16,7 @@ Users: 7703
 | 8 | [Ahmed-Sermani](https://github.com/Ahmed-Sermani) | Ahmed Sermani | @WhatsLab  |  | Saudi Arabia | 15250 |
 | 9 | [talha7k](https://github.com/talha7k) | Talha Khan | Dijitize.com |  | Riyadh | 14251 |
 | 10 | [samykabu](https://github.com/samykabu) | Samy K. Abushanab |  |  | Saudi Arabia | 12900 |
-| 11 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | @Golden-Investors  |  | Riyadh \| London \| Global Citizen  | 11559 |
+| 11 | [abdulrahman-gaith-beep](https://github.com/abdulrahman-gaith-beep) | Abdulrahman B Al-Sayari | @Golden-Investors  |  | Riyadh \| London \| Global Citizen  | 11951 |
 | 12 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
 | 13 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 10605 |
 | 14 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |

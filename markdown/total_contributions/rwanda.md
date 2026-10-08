@@ -1,13 +1,13 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-08T17:29:47.778Z
+Generated: 2026-10-08T18:01:13.670Z
 
 Users: 3525
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | @yoratune | iamyoramu | Kigali, Rwanda | 3312996 |
-| 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 59921 |
+| 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 64318 |
 | 3 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Quevvy Platform | Gentil_Mal | Kigali, Rwanda | 34814 |
 | 4 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 29162 |
 | 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke |  |  | Kigali, Rwanda | 17863 |

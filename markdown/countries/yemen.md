@@ -1,6 +1,6 @@
 # Yemen
 
-Indexed users: 1,210
+Indexed users: 1,208
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,210
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 158 |
 | 20 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 157 |
 
-Generated: 2026-10-08T17:15:58.211Z
+Generated: 2026-10-08T18:15:14.764Z

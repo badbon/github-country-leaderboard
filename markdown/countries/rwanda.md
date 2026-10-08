@@ -13,7 +13,7 @@ Indexed users: 3,525
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [iamyoramu](https://github.com/iamyoramu) | IRUTABYOSE Yoramu | Kigali, Rwanda | 3,312,996 |
-| 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 59,921 |
+| 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 64,318 |
 | 3 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
 | 4 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 29,162 |
 | 5 | [Timtech4u](https://github.com/Timtech4u) | Timothy Olaleke | Kigali, Rwanda | 17,863 |
@@ -39,7 +39,7 @@ Indexed users: 3,525
 |---:|---|---|---|---:|
 | 1 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Kigali, Rwanda | 34,814 |
 | 2 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | Kigali, Rwanda | 23,998 |
-| 3 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 13,683 |
+| 3 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 15,554 |
 | 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,855 |
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 5,827 |
 | 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,010 |
@@ -83,4 +83,4 @@ Indexed users: 3,525
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 315 |
 | 20 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 
-Generated: 2026-10-08T17:29:47.778Z
+Generated: 2026-10-08T18:01:13.670Z

@@ -1,6 +1,6 @@
 # Followers - Namibia
 
-Generated: 2026-10-08T16:52:27.803Z
+Generated: 2026-10-08T17:52:34.013Z
 
 Users: 475
 
@@ -21,8 +21,8 @@ Users: 475
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | @ssc-na  |  | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande |  | euricodande12 | Namibia-Windhoek | 44 |
 | 15 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya |  |  | Windhoek, Namibia | 42 |
-| 16 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek Consulting Engineers |  | Windhoek | 39 |
-| 17 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah |  | bettinalisah | Windhoek, Namibia | 38 |
-| 18 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Kuberkode.com |  | Windhoek, Namibia | 38 |
+| 16 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Kuberkode.com |  | Windhoek, Namibia | 40 |
+| 17 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek Consulting Engineers |  | Windhoek | 39 |
+| 18 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah |  | bettinalisah | Windhoek, Namibia | 38 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Adaire | tuu_kuku | Windhoek, Namibia | 36 |
-| 20 | [rigred](https://github.com/rigred) | Rigo Reddig |  |  | Namibia | 34 |
+| 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Logic++ | 3rassy | Windhoek | 33 |

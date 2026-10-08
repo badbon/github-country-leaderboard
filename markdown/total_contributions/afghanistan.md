@@ -1,8 +1,8 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-08T17:16:17.869Z
+Generated: 2026-10-08T18:15:35.289Z
 
-Users: 1503
+Users: 1502
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,9 +12,9 @@ Users: 1503
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmad Ullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 67485 |
 | 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 31456 |
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Uber Technologies Inc |  | Afghanistan | 16893 |
-| 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | PhysicalExam | MAnwarHussaini | Kabul, Afghanistan | 13288 |
-| 8 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Baheer Group |  | Kabul, Afghanistan | 10624 |
-| 9 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | @Baker |  | Afghanistan | 10292 |
+| 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | PhysicalExam | MAnwarHussaini | Kabul, Afghanistan | 14622 |
+| 8 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | @Baker |  | Afghanistan | 10292 |
+| 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Baheer Group |  | Kabul, Afghanistan | 9544 |
 | 10 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri |  |  | Afghanistan | 7962 |
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7025 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | @Daktilo-CMS | Mustafa_Zahedi2 | Herat, Afghanistan | 6345 |

@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-08T17:04:38.918Z
+Generated: 2026-10-08T18:04:57.801Z
 
 Users: 442
 
@@ -10,7 +10,7 @@ Users: 442
 | 2 | [AmaduKamara](https://github.com/AmaduKamara) | Amadu Kamara | Remote Front-End and Full-Stack Developer | DevAmkam | Freetown, Sierra Leone. | 110 |
 | 3 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo |  | TahibGbondo | Sierra Leone | 93 |
 | 4 | [larrybah](https://github.com/larrybah) | Larry Bah |  | larrybah3 | Sierra Leone | 89 |
-| 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | 256 LLC |  | Freetown, Sierra Leone | 68 |
+| 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | 256 LLC |  | Freetown, Sierra Leone | 69 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 67 |
 | 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 65 |
 | 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 53 |

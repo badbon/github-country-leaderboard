@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-08T17:09:37.005Z
+Generated: 2026-10-08T18:10:43.927Z
 
 Users: 705
 
@@ -17,10 +17,10 @@ Users: 705
 | 9 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | OneWell | UmedzhonIzbasar | Tajikistan/Dushanbe | 4345 |
 | 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Ayan Capital | koorbonovs | Tajikistan, Dushanbe | 3717 |
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 3517 |
-| 12 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3202 |
-| 13 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3198 |
-| 14 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2941 |
-| 15 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 2856 |
+| 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 3439 |
+| 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3202 |
+| 14 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3198 |
+| 15 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2941 |
 | 16 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | MTM, FARDO |  | Dushanbe | 2839 |
 | 17 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Kavsar Academy |  | Tajikistan | 2665 |
 | 18 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2644 |

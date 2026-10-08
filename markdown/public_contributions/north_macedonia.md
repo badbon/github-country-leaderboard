@@ -1,6 +1,6 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-08T16:55:07.422Z
+Generated: 2026-10-08T17:56:13.322Z
 
 Users: 1938
 
@@ -15,14 +15,14 @@ Users: 1938
 | 7 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | @supabase |  | Skopje, Macedonia | 1086 |
 | 8 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | @mindsdb | ZoranPandovski | Bitola, North Macedonia | 1048 |
 | 9 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | ONINOVA |  | Skopje | 1013 |
-| 10 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 990 |
-| 11 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 931 |
-| 12 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 927 |
-| 13 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 922 |
-| 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 921 |
-| 15 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 907 |
-| 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 861 |
-| 17 | [kapsarovL](https://github.com/kapsarovL) | Lazar Kapsarov |  |  | North Macedonia | 808 |
-| 18 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio |  |  | North Macedonia | 768 |
-| 19 | [Facenam3](https://github.com/Facenam3) | Dalibor |  |  | Skopje,Macedonia | 765 |
-| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) |  |  | Bitola/Macedonia | 761 |
+| 10 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
+| 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 990 |
+| 12 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 931 |
+| 13 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 927 |
+| 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 922 |
+| 15 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 921 |
+| 16 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 907 |
+| 17 | [stojce](https://github.com/stojce) | Stojce Slavkovski |  |  | Skopje, Macedonia | 861 |
+| 18 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk |  |  | North Macedonia/Skopje | 806 |
+| 19 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio |  |  | North Macedonia | 768 |
+| 20 | [Facenam3](https://github.com/Facenam3) | Dalibor |  |  | Skopje,Macedonia | 765 |

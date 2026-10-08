@@ -39,7 +39,7 @@ Indexed users: 470
 |---:|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 12,201 |
 | 2 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,864 |
-| 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,435 |
+| 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,535 |
 | 4 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 2,118 |
 | 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,870 |
 | 6 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,665 |
@@ -51,8 +51,8 @@ Indexed users: 470
 | 12 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 947 |
 | 13 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 892 |
 | 14 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 827 |
-| 15 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 816 |
-| 16 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
+| 15 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
+| 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 769 |
 | 17 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 597 |
 | 18 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
 | 19 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 586 |
@@ -83,4 +83,4 @@ Indexed users: 470
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-08T17:22:28.970Z
+Generated: 2026-10-08T18:20:53.506Z

@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-08T16:46:22.980Z
+Generated: 2026-10-08T17:47:33.758Z
 
 Users: 441
 
@@ -12,17 +12,17 @@ Users: 441
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 6425 |
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 5381 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
-| 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3296 |
-| 8 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3272 |
-| 9 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2854 |
-| 10 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2345 |
-| 11 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2261 |
-| 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2257 |
-| 13 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2098 |
-| 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1971 |
-| 15 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1771 |
-| 16 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1749 |
-| 17 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1720 |
-| 18 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1642 |
-| 19 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | University of Macau |  | Macau | 1524 |
-| 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1516 |
+| 7 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 3477 |
+| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3296 |
+| 9 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3272 |
+| 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2854 |
+| 11 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2345 |
+| 12 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2261 |
+| 13 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2257 |
+| 14 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2098 |
+| 15 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1971 |
+| 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1771 |
+| 17 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1749 |
+| 18 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1720 |
+| 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1642 |
+| 20 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | University of Macau |  | Macau | 1524 |

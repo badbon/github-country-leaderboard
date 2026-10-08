@@ -23,10 +23,10 @@ Indexed users: 705
 | 9 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 4,345 |
 | 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,717 |
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,517 |
-| 12 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,202 |
-| 13 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,198 |
-| 14 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,941 |
-| 15 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 2,856 |
+| 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 3,439 |
+| 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,202 |
+| 14 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,198 |
+| 15 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,941 |
 | 16 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | Dushanbe | 2,839 |
 | 17 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,665 |
 | 18 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,644 |
@@ -83,4 +83,4 @@ Indexed users: 705
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [GholibjonMadiyarov](https://github.com/GholibjonMadiyarov) | Gholibjon | Tajikistan | 47 |
 
-Generated: 2026-10-08T17:09:37.005Z
+Generated: 2026-10-08T18:10:43.927Z

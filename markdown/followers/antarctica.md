@@ -1,8 +1,8 @@
 # Followers - Antarctica
 
-Generated: 2026-10-08T17:17:59.674Z
+Generated: 2026-10-08T18:16:27.629Z
 
-Users: 463
+Users: 462
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 463
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | C |  | Vostok, Antarctica | 465 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon |  |  | Antarctica | 343 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter |  |  | Antarctica | 216 |
-| 6 | [kura](https://github.com/kura) | Kura | @bbc  |  | Halley Research Station, Antarctica | 201 |
+| 6 | [kura](https://github.com/kura) | Kura | @bbc  |  | Halley Research Station, Antarctica | 199 |
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 123 |

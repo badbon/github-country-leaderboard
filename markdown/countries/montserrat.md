@@ -29,7 +29,7 @@ Indexed users: 291
 | 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,210 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,141 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,105 |
-| 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 997 |
+| 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 995 |
 | 19 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 940 |
 | 20 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Plymouth Rock | 938 |
 
@@ -79,8 +79,8 @@ Indexed users: 291
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 22 |
 | 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 22 |
 | 17 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 22 |
-| 18 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
-| 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
-| 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 20 |
+| 18 | [kelefouras](https://github.com/kelefouras) | Kelefouras Vasilis | Plymouth | 21 |
+| 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
+| 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-08T16:52:04.257Z
+Generated: 2026-10-08T17:50:30.733Z

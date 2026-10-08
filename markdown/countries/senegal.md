@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,361
+Indexed users: 1,360
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,361
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-08T17:03:50.927Z
+Generated: 2026-10-08T18:03:18.952Z

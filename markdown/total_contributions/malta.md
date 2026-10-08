@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-08T16:48:03.016Z
+Generated: 2026-10-08T17:48:01.311Z
 
 Users: 1230
 
@@ -19,10 +19,10 @@ Users: 1230
 | 11 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
 | 12 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 6792 |
 | 13 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 6258 |
-| 14 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | @BetssonGroup  |  | Malta | 6104 |
-| 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5842 |
-| 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 5768 |
-| 17 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |
-| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5272 |
-| 19 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 4993 |
-| 20 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Wildz Gorup |  | Malta | 4920 |
+| 14 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6234 |
+| 15 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | @BetssonGroup  |  | Malta | 6104 |
+| 16 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5842 |
+| 17 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 5768 |
+| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |
+| 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5272 |
+| 20 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 4993 |

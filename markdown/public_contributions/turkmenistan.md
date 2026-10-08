@@ -1,6 +1,6 @@
 # Public Contributions - Turkmenistan
 
-Generated: 2026-10-08T17:11:10.106Z
+Generated: 2026-10-08T18:13:01.373Z
 
 Users: 497
 
@@ -10,8 +10,8 @@ Users: 497
 | 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis |  | m_annagurbanov | Ashgabat, Turkmenistan | 4275 |
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | LFDT 2026 Mentee @hyperledger-identus |  | Mary city, Turkmenistan | 1996 |
 | 4 | [Nurik9292](https://github.com/Nurik9292) | Timur |  |  | Turkmenistan | 1746 |
-| 5 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov |  |  | Turkmenabat, Turkmenistan | 1029 |
-| 6 | [Jasurbek99](https://github.com/Jasurbek99) | Jasurbek Ashyrbayev |  |  | Turkmenistan, Ashgabat | 836 |
+| 5 | [Jasurbek99](https://github.com/Jasurbek99) | Jasurbek Ashyrbayev |  |  | Turkmenistan, Ashgabat | 1440 |
+| 6 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov |  |  | Turkmenabat, Turkmenistan | 1029 |
 | 7 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Unite Venture |  | Turkmenistan | 730 |
 | 8 | [Bahram2006](https://github.com/Bahram2006) | Bahram Myradow | Freelance Fullstack Software Engineer |  | Turkmenistan | 701 |
 | 9 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer |  |  | Turkmenistan | 699 |

@@ -14,12 +14,12 @@ Indexed users: 18,400
 |---:|---|---|---|---:|
 | 1 | [mrtus](https://github.com/mrtus) | Michiel Devriese | Belgium | 38,107 |
 | 2 | [welle](https://github.com/welle) | Welle Charlotte | Belgium | 29,673 |
-| 3 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 24,124 |
-| 4 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 22,954 |
-| 5 | [huaxel](https://github.com/huaxel) | Juan Benjumea | Brussels | 19,875 |
-| 6 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
-| 7 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
-| 8 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Belgium | 17,096 |
+| 3 | [Laurens-Nys](https://github.com/Laurens-Nys) | Laurens Nys | Belgium | 27,346 |
+| 4 | [KenziDeSmet](https://github.com/KenziDeSmet) | Kenzi De Smet | Waregem, Belgium | 24,124 |
+| 5 | [phmatray](https://github.com/phmatray) | Philippe Matray | Belgium | 22,954 |
+| 6 | [huaxel](https://github.com/huaxel) | Juan Benjumea | Brussels | 19,875 |
+| 7 | [tetiana-ai](https://github.com/tetiana-ai) | Tetiana Stepanets | Brussels  | 19,428 |
+| 8 | [sujithq](https://github.com/sujithq) | Sujith Quintelier | Belgium | 19,233 |
 | 9 | [bmichotte](https://github.com/bmichotte) | Benjamin Michotte | Liège, Belgium | 17,056 |
 | 10 | [brtdv](https://github.com/brtdv) | Bert Devriese | Ghent x Bruges, Belgium | 15,360 |
 | 11 | [wouterds](https://github.com/wouterds) | Wouter | Ghent, Belgium | 14,883 |
@@ -31,7 +31,7 @@ Indexed users: 18,400
 | 17 | [gjbex](https://github.com/gjbex) | Geert Jan Bex | Hasselt, Belgium | 12,568 |
 | 18 | [obax](https://github.com/obax) | Olivier | London / Brussels  | 12,516 |
 | 19 | [pieterclaerhout](https://github.com/pieterclaerhout) | Pieter Claerhout | Beernem, Belgium | 12,268 |
-| 20 | [Iemand005](https://github.com/Iemand005) | Lasse Lauwerys | Belgium | 12,081 |
+| 20 | [majidaskary](https://github.com/majidaskary) | Majid Askary | Belgium | 12,265 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,400
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-08T17:29:03.727Z
+Generated: 2026-10-08T18:20:15.393Z

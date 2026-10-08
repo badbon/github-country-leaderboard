@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-08T17:29:47.778Z
+Generated: 2026-10-08T18:01:13.670Z
 
 Users: 3525
 
@@ -8,7 +8,7 @@ Users: 3525
 |---:|---|---|---|---|---|---:|
 | 1 | [gentil-lenoir](https://github.com/gentil-lenoir) | Gentil M. | Quevvy Platform | Gentil_Mal | Kigali, Rwanda | 34814 |
 | 2 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 23998 |
-| 3 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 13683 |
+| 3 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 15554 |
 | 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 6855 |
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | MiCorp | _MRElvis_ | Rwanda | 5827 |
 | 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | YCSoft Rwanda | yannicktx1 | Kigali, Rwanda | 5010 |

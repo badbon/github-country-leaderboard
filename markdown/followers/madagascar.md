@@ -1,6 +1,6 @@
 # Followers - Madagascar
 
-Generated: 2026-10-08T16:46:42.102Z
+Generated: 2026-10-08T17:47:38.898Z
 
 Users: 1916
 
@@ -16,12 +16,12 @@ Users: 1916
 | 8 | [ThierryRakotomanana](https://github.com/ThierryRakotomanana) | ThierryRakt |  | ThieryRkt | Antananarivo | 276 |
 | 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 234 |
 | 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Kleonix |  | Antananarivo, Madagascar | 184 |
-| 11 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 168 |
+| 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 175 |
 | 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina |  |  | Antananarivo Madagascar | 166 |
-| 13 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 164 |
-| 14 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina |  | lovanirina_r | Madagascar, Antananarivo | 158 |
-| 15 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Onja |  | Toamasina, Madagascar | 155 |
-| 16 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 153 |
+| 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 165 |
+| 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 164 |
+| 15 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina |  | lovanirina_r | Madagascar, Antananarivo | 158 |
+| 16 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Onja |  | Toamasina, Madagascar | 155 |
 | 17 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 148 |
 | 18 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan |  |  | Antananarivo, Madagascar | 145 |
 | 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | HEI |  | Antananarivo | 145 |

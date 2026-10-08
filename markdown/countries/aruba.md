@@ -14,7 +14,7 @@ Indexed users: 38
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,707 |
 | 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 824 |
-| 3 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 584 |
+| 3 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 586 |
 | 4 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 561 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 201 |
@@ -37,7 +37,7 @@ Indexed users: 38
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 584 |
+| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 586 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 201 |
 | 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 116 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-08T17:18:31.415Z
+Generated: 2026-10-08T18:17:31.701Z

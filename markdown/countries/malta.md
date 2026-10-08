@@ -25,27 +25,27 @@ Indexed users: 1,230
 | 11 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
 | 12 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 6,792 |
 | 13 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 6,258 |
-| 14 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 6,104 |
-| 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
-| 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
-| 17 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
-| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
-| 19 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
-| 20 | [ozgeahras](https://github.com/ozgeahras) | Özge Ahras | Malta | 4,920 |
+| 14 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
+| 15 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 6,104 |
+| 16 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
+| 17 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
+| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
+| 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
+| 20 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,988 |
-| 2 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
-| 3 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
-| 4 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,381 |
-| 5 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
-| 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,170 |
-| 7 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 2,892 |
-| 8 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 2,831 |
-| 9 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 2,693 |
+| 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
+| 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,988 |
+| 3 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
+| 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
+| 5 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,381 |
+| 6 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
+| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,170 |
+| 8 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 2,892 |
+| 9 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 2,831 |
 | 10 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,497 |
 | 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,448 |
 | 12 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,337 |
@@ -83,4 +83,4 @@ Indexed users: 1,230
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-08T16:48:03.016Z
+Generated: 2026-10-08T17:48:01.311Z

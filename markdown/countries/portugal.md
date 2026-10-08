@@ -1,6 +1,6 @@
 # Portugal
 
-Indexed users: 28,473
+Indexed users: 28,472
 
 | Leaderboard | Link |
 |---|---|
@@ -15,23 +15,23 @@ Indexed users: 28,473
 | 1 | [tfantas](https://github.com/tfantas) | Thiago Antas | Lisbon, Portugal | 118,493 |
 | 2 | [risenowrise](https://github.com/risenowrise) | RISE | Lisbon, Portugal | 109,544 |
 | 3 | [paulojmorais](https://github.com/paulojmorais) | Paulo Jorge Morais | Portugal | 87,237 |
-| 4 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
-| 5 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
-| 6 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
-| 7 | [cloud-devops-expert](https://github.com/cloud-devops-expert) | Miguel Goncalves | Braga, Portugal | 41,237 |
-| 8 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | Porto, Portugal | 38,158 |
-| 9 | [daniel3303](https://github.com/daniel3303) | Daniel Oliveira | Lisbon | 35,696 |
-| 10 | [goncaloalves](https://github.com/goncaloalves) | Gonçalo Alves | Lisboa, Portugal | 33,740 |
-| 11 | [JarbasAl](https://github.com/JarbasAl) | JarbasAI | Portugal | 29,195 |
-| 12 | [abiassi](https://github.com/abiassi) | Amorim Abiassi Ferreira | Lisbon | 28,912 |
-| 13 | [LarsHoldgaard](https://github.com/LarsHoldgaard) | Lars Holdgaard | Portugal | 25,657 |
-| 14 | [art-shen](https://github.com/art-shen) | Art Shendrik | Lisbon, Portugal | 24,972 |
-| 15 | [rodrigof1307](https://github.com/rodrigof1307) | Rodrigo Fernandes | Portugal | 20,718 |
-| 16 | [rcarmo](https://github.com/rcarmo) | Rui Carmo | Lisbon, Portugal | 19,280 |
-| 17 | [Tiag0ss](https://github.com/Tiag0ss) | Tiag0ss | Portugal | 18,398 |
-| 18 | [Th0rgal](https://github.com/Th0rgal) | Thomas Marchand | Lisbon | 17,665 |
-| 19 | [Chaysen](https://github.com/Chaysen) | Chaysen | Lisbon | 17,626 |
-| 20 | [dev-ggomes](https://github.com/dev-ggomes) | Guilherme Gomes | Lisbon, Portugal | 17,324 |
+| 4 | [pmcostadev](https://github.com/pmcostadev) | Pedro Costa | Portugal | 81,461 |
+| 5 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
+| 6 | [pirapira](https://github.com/pirapira) | Yoichi Hirai | Portugal | 50,784 |
+| 7 | [PRISMMesHFurY](https://github.com/PRISMMesHFurY) |  | Data, Portugal | 41,613 |
+| 8 | [cloud-devops-expert](https://github.com/cloud-devops-expert) | Miguel Goncalves | Braga, Portugal | 41,237 |
+| 9 | [Correia-jpv](https://github.com/Correia-jpv) | João Correia | Porto, Portugal | 38,158 |
+| 10 | [daniel3303](https://github.com/daniel3303) | Daniel Oliveira | Lisbon | 35,696 |
+| 11 | [goncaloalves](https://github.com/goncaloalves) | Gonçalo Alves | Lisboa, Portugal | 33,740 |
+| 12 | [JarbasAl](https://github.com/JarbasAl) | JarbasAI | Portugal | 29,195 |
+| 13 | [abiassi](https://github.com/abiassi) | Amorim Abiassi Ferreira | Lisbon | 28,912 |
+| 14 | [LarsHoldgaard](https://github.com/LarsHoldgaard) | Lars Holdgaard | Portugal | 25,657 |
+| 15 | [art-shen](https://github.com/art-shen) | Art Shendrik | Lisbon, Portugal | 24,972 |
+| 16 | [rodrigof1307](https://github.com/rodrigof1307) | Rodrigo Fernandes | Portugal | 20,718 |
+| 17 | [rcarmo](https://github.com/rcarmo) | Rui Carmo | Lisbon, Portugal | 19,280 |
+| 18 | [Tiag0ss](https://github.com/Tiag0ss) | Tiag0ss | Portugal | 18,398 |
+| 19 | [Th0rgal](https://github.com/Th0rgal) | Thomas Marchand | Lisbon | 17,665 |
+| 20 | [Chaysen](https://github.com/Chaysen) | Chaysen | Lisbon | 17,626 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 28,473
 | 19 | [abo-abo](https://github.com/abo-abo) | Oleh Krehel | Matosinhos, Portugal | 1,857 |
 | 20 | [SimCoderYoutube](https://github.com/SimCoderYoutube) | SimCoder | Porto, Portugal | 1,831 |
 
-Generated: 2026-10-08T16:58:05.656Z
+Generated: 2026-10-08T17:58:16.951Z

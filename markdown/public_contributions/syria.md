@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-08T17:09:28.017Z
+Generated: 2026-10-08T18:12:51.839Z
 
 Users: 1483
 
@@ -13,7 +13,7 @@ Users: 1483
 | 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1763 |
 | 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1630 |
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1481 |
-| 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1246 |
+| 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1180 |
 | 9 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1149 |
 | 10 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 1046 |
 | 11 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1017 |

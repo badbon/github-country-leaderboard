@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-08T17:03:38.993Z
+Generated: 2026-10-08T18:03:04.772Z
 
 Users: 61
 
@@ -19,8 +19,8 @@ Users: 61
 | 11 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna | michelemazzaa | San Marino | 64 |
 | 12 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 55 |
 | 13 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
-| 14 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 43 |
-| 15 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 43 |
+| 14 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 44 |
+| 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 43 |
 | 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 41 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 37 |
 | 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | Mr. APPs s.r.l. |  | San Marino | 31 |

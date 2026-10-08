@@ -18,20 +18,20 @@ Indexed users: 475
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,282 |
 | 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,058 |
 | 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,026 |
-| 7 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 5,071 |
-| 8 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,508 |
-| 9 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 3,998 |
+| 7 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 5,551 |
+| 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 5,071 |
+| 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,508 |
 | 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,012 |
 | 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,843 |
 | 12 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
-| 13 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,242 |
-| 14 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
-| 15 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,898 |
-| 16 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,873 |
-| 17 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,776 |
-| 18 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 1,563 |
-| 19 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 1,557 |
-| 20 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,520 |
+| 13 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,267 |
+| 14 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,242 |
+| 15 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
+| 16 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,898 |
+| 17 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,873 |
+| 18 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,776 |
+| 19 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 1,563 |
+| 20 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 1,557 |
 
 ## Public Contributions
 
@@ -77,10 +77,10 @@ Indexed users: 475
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 44 |
 | 15 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 42 |
-| 16 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 39 |
-| 17 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah | Windhoek, Namibia | 38 |
-| 18 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 38 |
+| 16 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 40 |
+| 17 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 39 |
+| 18 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah | Windhoek, Namibia | 38 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
-| 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
+| 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-08T16:52:27.803Z
+Generated: 2026-10-08T17:52:34.013Z

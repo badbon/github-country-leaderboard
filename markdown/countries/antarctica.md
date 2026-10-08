@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 463
+Indexed users: 462
 
 | Leaderboard | Link |
 |---|---|
@@ -23,7 +23,7 @@ Indexed users: 463
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,135 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,973 |
-| 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,840 |
+| 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,850 |
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,248 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,006 |
 | 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,704 |
@@ -67,7 +67,7 @@ Indexed users: 463
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 465 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 343 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 216 |
-| 6 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 201 |
+| 6 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 199 |
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 123 |
@@ -83,4 +83,4 @@ Indexed users: 463
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-08T17:17:59.674Z
+Generated: 2026-10-08T18:16:27.629Z

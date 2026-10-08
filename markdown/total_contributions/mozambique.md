@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-08T16:52:21.754Z
+Generated: 2026-10-08T17:51:04.663Z
 
 Users: 1175
 
@@ -25,4 +25,4 @@ Users: 1175
 | 17 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2328 |
 | 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2265 |
 | 19 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | CarsaiMz |  | Mozambique | 2239 |
-| 20 | [Blaze380](https://github.com/Blaze380) | Niuro Orlando Gabriel Langa |  |  | Mozambique | 2133 |
+| 20 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch |  | ubelloch | Mozambique, Maputo | 2193 |
