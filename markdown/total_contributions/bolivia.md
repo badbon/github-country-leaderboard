@@ -1,8 +1,8 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-07T14:37:49.575Z
+Generated: 2026-10-07T23:51:54.080Z
 
-Users: 1789
+Users: 1790
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,8 +11,8 @@ Users: 1789
 | 3 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Encorp LLC | ramonenovore | Sucre Bolivia | 6815 |
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 6760 |
 | 5 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 5801 |
-| 6 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 5264 |
-| 7 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5000 |
+| 6 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5704 |
+| 7 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 5264 |
 | 8 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4929 |
 | 9 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 4534 |
 | 10 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 4251 |

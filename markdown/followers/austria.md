@@ -1,8 +1,8 @@
 # Followers - Austria
 
-Generated: 2026-10-07T14:35:19.122Z
+Generated: 2026-10-07T23:46:39.988Z
 
-Users: 18253
+Users: 18252
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

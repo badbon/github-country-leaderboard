@@ -1,8 +1,8 @@
 # Followers - Benin
 
-Generated: 2026-10-07T14:36:32.140Z
+Generated: 2026-10-07T23:51:40.740Z
 
-Users: 471
+Users: 473
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,7 +19,7 @@ Users: 471
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 92 |
 | 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 91 |
 | 13 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
-| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 84 |
+| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
 | 15 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian |  | florianedemessi | Benin, Cotonou | 84 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  |  |  | Benin | 83 |
 | 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 79 |

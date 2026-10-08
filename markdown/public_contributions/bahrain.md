@@ -1,17 +1,17 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-07T14:35:33.224Z
+Generated: 2026-10-07T23:47:55.611Z
 
-Users: 733
+Users: 732
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 4304 |
 | 2 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 3772 |
-| 3 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 2158 |
-| 4 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2147 |
-| 5 | [ov-tron](https://github.com/ov-tron) | ov - Tron | ov-studio |  | Bahrain | 1528 |
-| 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 1480 |
+| 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 2839 |
+| 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 2158 |
+| 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2147 |
+| 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | ov-studio |  | Bahrain | 1528 |
 | 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 1259 |
 | 8 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 966 |
 | 9 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |

@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 733
+Indexed users: 732
 
 | Leaderboard | Link |
 |---|---|
@@ -16,22 +16,22 @@ Indexed users: 733
 | 2 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,049 |
 | 3 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 9,665 |
 | 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,045 |
-| 5 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,407 |
-| 6 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 4,379 |
-| 7 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 4,337 |
-| 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
-| 9 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,124 |
-| 10 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 3,880 |
-| 11 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 3,772 |
-| 12 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,594 |
-| 13 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,560 |
-| 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 3,321 |
-| 15 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,169 |
-| 16 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
-| 17 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,108 |
-| 18 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 2,781 |
-| 19 | [amali01](https://github.com/amali01) | Amjad Ali | Bahrain | 2,565 |
-| 20 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,409 |
+| 5 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 5,444 |
+| 6 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,407 |
+| 7 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 4,379 |
+| 8 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 4,337 |
+| 9 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
+| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,124 |
+| 11 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 3,880 |
+| 12 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 3,772 |
+| 13 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,594 |
+| 14 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,560 |
+| 15 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 3,321 |
+| 16 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,169 |
+| 17 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
+| 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,108 |
+| 19 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 2,781 |
+| 20 | [amali01](https://github.com/amali01) | Amjad Ali | Bahrain | 2,565 |
 
 ## Public Contributions
 
@@ -39,10 +39,10 @@ Indexed users: 733
 |---:|---|---|---|---:|
 | 1 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
 | 2 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 3,772 |
-| 3 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,158 |
-| 4 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,147 |
-| 5 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Bahrain | 1,528 |
-| 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 1,480 |
+| 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 2,839 |
+| 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,158 |
+| 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,147 |
+| 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Bahrain | 1,528 |
 | 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,259 |
 | 8 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 966 |
 | 9 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
@@ -83,4 +83,4 @@ Indexed users: 733
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-07T14:35:33.224Z
+Generated: 2026-10-07T23:47:55.611Z

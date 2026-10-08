@@ -68,19 +68,19 @@ Indexed users: 210
 | 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 68 |
 | 5 | [GagnereGeorges](https://github.com/GagnereGeorges) | Georges Gagneré | Saint-Denis | 59 |
 | 6 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 48 |
-| 7 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Reunion island | 47 |
-| 8 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 47 |
+| 7 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 48 |
+| 8 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Reunion island | 47 |
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol | Saint-Denis, Réunion | 33 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 29 |
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 28 |
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Seine-Saint-Denis | 28 |
 | 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 28 |
 | 14 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel | Seine-Saint-Denis | 27 |
-| 15 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 26 |
-| 16 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 24 |
+| 15 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 27 |
+| 16 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 26 |
 | 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | Saint-Denis, Reunion Island | 23 |
 | 18 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 21 |
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-07T14:18:48.689Z
+Generated: 2026-10-07T23:24:59.323Z

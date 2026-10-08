@@ -1,6 +1,6 @@
 # Puerto Rico
 
-Indexed users: 1,549
+Indexed users: 1,548
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,549
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-07T14:18:32.295Z
+Generated: 2026-10-07T23:23:36.459Z

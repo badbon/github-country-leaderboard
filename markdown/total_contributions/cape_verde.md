@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-07T14:39:16.160Z
+Generated: 2026-10-07T23:55:16.502Z
 
 Users: 564
 
@@ -10,19 +10,19 @@ Users: 564
 | 2 | [svcrashh](https://github.com/svcrashh) | crashh | Wellhub |  | Praia Grande | 2729 |
 | 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula |  |  | Praia Grande, SP | 2598 |
 | 4 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | X.Lab (TV1) \| thiagoci.com |  | Praia Grande - SP | 1940 |
-| 5 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1715 |
-| 6 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 1379 |
-| 7 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1337 |
-| 8 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1325 |
-| 9 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1288 |
+| 5 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1799 |
+| 6 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1715 |
+| 7 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 1379 |
+| 8 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1337 |
+| 9 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1325 |
 | 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1253 |
 | 11 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1225 |
 | 12 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1200 |
-| 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1115 |
-| 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1096 |
-| 15 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | @gupy-io | machadoah | Praia Grande/SP | 1058 |
-| 16 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1026 |
-| 17 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | @cloudamqp @84codes  | luucaspole | Praia do Rosa/SC - Brasil | 1022 |
+| 13 | [Denio26](https://github.com/Denio26) | Dénio Melo | @DevMasters-Lda |  | Cape Verde | 1164 |
+| 14 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | @gupy-io | machadoah | Praia Grande/SP | 1141 |
+| 15 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1115 |
+| 16 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1096 |
+| 17 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1026 |
 | 18 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1003 |
 | 19 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 997 |
-| 20 | [Denio26](https://github.com/Denio26) | Dénio Melo | @DevMasters-Lda |  | Cape Verde | 945 |
+| 20 | [LeandroVeiga9](https://github.com/LeandroVeiga9) | Leandro Veiga |  |  | Praia Grande - SP | 904 |

@@ -15,7 +15,7 @@ Indexed users: 731
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,082 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 5,418 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,085 |
-| 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan | 4,859 |
+| 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan | 4,776 |
 | 5 | [alsir](https://github.com/alsir) | Alsir Hamory | Khartoum , sudan | 3,661 |
 | 6 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 3,650 |
 | 7 | [harranali](https://github.com/harranali) |  | Sudan | 3,383 |
@@ -30,17 +30,17 @@ Indexed users: 731
 | 16 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 2,103 |
 | 17 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 1,978 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 1,912 |
-| 19 | [3li-3bdullah](https://github.com/3li-3bdullah) | Ali Abdullah | Sudan / Khartoum   | 1,831 |
-| 20 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 1,821 |
+| 19 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 1,843 |
+| 20 | [3li-3bdullah](https://github.com/3li-3bdullah) | Ali Abdullah | Sudan / Khartoum   | 1,831 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 1,291 |
-| 2 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,213 |
-| 3 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,198 |
-| 4 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
+| 1 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,213 |
+| 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,198 |
+| 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
+| 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 939 |
 | 5 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 764 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 724 |
 | 7 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
@@ -83,4 +83,4 @@ Indexed users: 731
 | 19 | [osayami](https://github.com/osayami) | OSAYAMI | Sudan | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-10-07T14:25:46.119Z
+Generated: 2026-10-07T23:32:32.016Z

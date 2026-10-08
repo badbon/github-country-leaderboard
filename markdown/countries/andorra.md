@@ -1,6 +1,6 @@
 # Andorra
 
-Indexed users: 214
+Indexed users: 215
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 214
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-07T14:33:31.475Z
+Generated: 2026-10-08T00:01:56.183Z

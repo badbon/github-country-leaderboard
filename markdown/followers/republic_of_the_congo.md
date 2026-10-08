@@ -1,17 +1,17 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-07T14:18:40.881Z
+Generated: 2026-10-07T23:23:56.954Z
 
 Users: 299
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | SnapTech DRC | alexis_ngab | Goma, Congo | 321 |
+| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | SnapTech DRC | alexis_ngab | Goma, Congo | 318 |
 | 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 209 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 206 |
-| 4 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu |  | AdalbertPungu | Congo (DRC) | 124 |
-| 5 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Auctux |  | Congo | 108 |
-| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua |  | HMotokoua | Brazzaville | 95 |
+| 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Auctux |  | Congo | 108 |
+| 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu |  | AdalbertPungu | Congo (DRC) | 102 |
+| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua |  | HMotokoua | Brazzaville | 96 |
 | 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 92 |
 | 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 71 |
 | 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Dream of drc | RogerPatrona | Congo | 68 |

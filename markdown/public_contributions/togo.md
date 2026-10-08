@@ -1,8 +1,8 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-07T14:27:06.578Z
+Generated: 2026-10-07T23:36:00.913Z
 
-Users: 686
+Users: 682
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,17 +12,17 @@ Users: 686
 | 4 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 2865 |
 | 5 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 2370 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | @GYFX35 |  | Togo | 2148 |
-| 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1847 |
-| 8 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1710 |
-| 9 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 1382 |
-| 10 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 1308 |
+| 7 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 1919 |
+| 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1847 |
+| 9 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1710 |
+| 10 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 1382 |
 | 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1194 |
-| 12 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 885 |
-| 13 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio |  |  | Togo | 802 |
-| 14 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 748 |
-| 15 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz |  | AzizMetchonou | Togo | 718 |
-| 16 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | IJEAF |  | Lomé | 647 |
-| 17 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU |  |  | Lomé, Togo | 605 |
-| 18 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | IAI-TOGO |  | Lomé-Togo | 590 |
-| 19 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 551 |
-| 20 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 534 |
+| 12 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 905 |
+| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 885 |
+| 14 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio |  |  | Togo | 802 |
+| 15 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 748 |
+| 16 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz |  | AzizMetchonou | Togo | 708 |
+| 17 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | IJEAF |  | Lomé | 647 |
+| 18 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 642 |
+| 19 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU |  |  | Lomé, Togo | 605 |
+| 20 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | IAI-TOGO |  | Lomé-Togo | 590 |

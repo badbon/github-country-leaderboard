@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 686
+Indexed users: 682
 
 | Leaderboard | Link |
 |---|---|
@@ -20,7 +20,7 @@ Indexed users: 686
 | 6 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,528 |
 | 7 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 5,396 |
 | 8 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 5,176 |
-| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 5,080 |
+| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,628 |
 | 10 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,097 |
 | 11 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 3,925 |
 | 12 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,633 |
@@ -28,10 +28,10 @@ Indexed users: 686
 | 14 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
 | 15 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 3,124 |
 | 16 | [lonie12](https://github.com/lonie12) | Yxie | Lomé, TOGO | 3,082 |
-| 17 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 2,874 |
-| 18 | [digino](https://github.com/digino) | Gino | Lomé, Togo | 2,766 |
-| 19 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 2,747 |
-| 20 | [GTW503](https://github.com/GTW503) | MEK | Togo | 2,735 |
+| 17 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 2,886 |
+| 18 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 2,874 |
+| 19 | [digino](https://github.com/digino) | Gino | Lomé, Togo | 2,766 |
+| 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 2,747 |
 
 ## Public Contributions
 
@@ -43,20 +43,20 @@ Indexed users: 686
 | 4 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 2,865 |
 | 5 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 2,370 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 2,148 |
-| 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,847 |
-| 8 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,710 |
-| 9 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,382 |
-| 10 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 1,308 |
+| 7 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,919 |
+| 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,847 |
+| 9 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,710 |
+| 10 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,382 |
 | 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,194 |
-| 12 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 885 |
-| 13 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 802 |
-| 14 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
-| 15 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 718 |
-| 16 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
-| 17 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 605 |
-| 18 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | Lomé-Togo | 590 |
-| 19 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 551 |
-| 20 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 534 |
+| 12 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 905 |
+| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 885 |
+| 14 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 802 |
+| 15 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
+| 16 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
+| 17 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
+| 18 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 642 |
+| 19 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 605 |
+| 20 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | Lomé-Togo | 590 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 686
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 65 |
 
-Generated: 2026-10-07T14:27:06.578Z
+Generated: 2026-10-07T23:36:00.913Z

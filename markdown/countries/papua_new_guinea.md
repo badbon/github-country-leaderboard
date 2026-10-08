@@ -14,7 +14,7 @@ Indexed users: 296
 |---:|---|---|---|---:|
 | 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 13,430 |
 | 2 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,424 |
-| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 5,035 |
+| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 7,989 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,363 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,034 |
 | 6 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 2,299 |
@@ -64,14 +64,14 @@ Indexed users: 296
 |---:|---|---|---|---:|
 | 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 239 |
 | 2 | [grecpt](https://github.com/grecpt) | Grecpt | Papua New Guinea | 74 |
-| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 28 |
+| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 30 |
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 26 |
 | 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 24 |
 | 6 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | PORT MORESBY | 23 |
 | 7 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 22 |
-| 8 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Port Moresby | 19 |
-| 9 | [161710125](https://github.com/161710125) | Muuu | Papua New Guinea | 16 |
-| 10 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Port Moresby, Papua New Guinea | 16 |
+| 8 | [161710125](https://github.com/161710125) | Muuu | Papua New Guinea | 16 |
+| 9 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Port Moresby, Papua New Guinea | 16 |
+| 10 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Port Moresby | 16 |
 | 11 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 13 |
 | 12 | [ephil2025](https://github.com/ephil2025) | EPHIL | Papua New Guinea | 12 |
 | 13 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Papua New Guinea | 12 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 | 20 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Papua New Guinea | 8 |
 
-Generated: 2026-10-07T14:17:35.893Z
+Generated: 2026-10-07T23:22:25.933Z

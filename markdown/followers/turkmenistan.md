@@ -1,8 +1,8 @@
 # Followers - Turkmenistan
 
-Generated: 2026-10-07T14:28:10.109Z
+Generated: 2026-10-07T23:38:53.285Z
 
-Users: 500
+Users: 499
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,20 +1,20 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-07T14:27:36.639Z
+Generated: 2026-10-07T23:37:08.179Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6661 |
-| 2 | [DarionHernandez](https://github.com/DarionHernandez) | Darion Hernandez | @CariPay |  | Trinidad and Tobago | 4997 |
+| 1 | [DarionHernandez](https://github.com/DarionHernandez) | Darion A. Hernandez | @CariPay |  | Trinidad and Tobago | 8165 |
+| 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6661 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 3733 |
 | 4 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 3727 |
 | 5 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2978 |
 | 6 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 2944 |
 | 7 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 2788 |
 | 8 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 2531 |
-| 9 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2263 |
+| 9 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2287 |
 | 10 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2139 |
 | 11 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 1961 |
 | 12 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | zed-io | jaedanpersaudtt | Trinidad and Tobago | 1875 |

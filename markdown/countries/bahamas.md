@@ -1,6 +1,6 @@
 # Bahamas
 
-Indexed users: 237
+Indexed users: 236
 
 | Leaderboard | Link |
 |---|---|
@@ -13,50 +13,50 @@ Indexed users: 237
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 21,261 |
-| 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Nassau Bay, Texas | 5,512 |
-| 3 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,222 |
-| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,166 |
-| 5 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,723 |
+| 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,222 |
+| 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,166 |
+| 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,723 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,461 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 1,836 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,637 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,392 |
-| 9 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 1,328 |
-| 10 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,306 |
-| 11 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,215 |
-| 12 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
-| 13 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,005 |
-| 14 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
-| 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 786 |
-| 16 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 750 |
-| 17 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
-| 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
-| 19 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 534 |
-| 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
+| 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,306 |
+| 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,215 |
+| 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
+| 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,005 |
+| 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 787 |
+| 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 786 |
+| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 750 |
+| 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
+| 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
+| 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 534 |
+| 19 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
+| 20 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 321 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 1,005 |
-| 2 | [kiarashplusplus](https://github.com/kiarashplusplus) | Kiarash Adl | Nassau Bay, Texas | 792 |
-| 3 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
-| 4 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 319 |
-| 5 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 309 |
-| 6 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 202 |
-| 7 | [scott-mackenzie](https://github.com/scott-mackenzie) | Scott E. MacKenzie | Nassau, Bahamas | 140 |
-| 8 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 131 |
-| 9 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 111 |
-| 10 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 95 |
-| 11 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
-| 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
-| 13 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 80 |
+| 2 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 386 |
+| 3 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 319 |
+| 4 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 309 |
+| 5 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 202 |
+| 6 | [zotz](https://github.com/zotz) | drew Roberts | Nassau, Bahamas | 145 |
+| 7 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 131 |
+| 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 111 |
+| 9 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 95 |
+| 10 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 84 |
+| 11 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 84 |
+| 12 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 80 |
+| 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 62 |
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
 | 15 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 57 |
-| 16 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 55 |
-| 17 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
-| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 46 |
-| 19 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 43 |
-| 20 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 42 |
+| 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
+| 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 44 |
+| 18 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 43 |
+| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 42 |
+| 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 237
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-07T14:35:26.710Z
+Generated: 2026-10-07T23:47:50.397Z

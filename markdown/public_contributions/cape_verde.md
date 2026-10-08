@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-07T14:39:16.160Z
+Generated: 2026-10-07T23:55:16.502Z
 
 Users: 564
 
@@ -21,8 +21,8 @@ Users: 564
 | 13 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa |  |  | Praia Grande, SP | 340 |
 | 14 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe |  |  | Praia Grande - SP | 324 |
 | 15 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Fatec Praia Grande |  | Praia Grande -SP | 302 |
-| 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 240 |
-| 17 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo |  |  | Praia Grande - SP | 240 |
+| 16 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo |  |  | Praia Grande - SP | 251 |
+| 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 240 |
 | 18 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho |  |  | Cape Verde | 210 |
 | 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | DevTrust Consulting Developing |  | Cabo Verde - Praia | 186 |
 | 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 182 |

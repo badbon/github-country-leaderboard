@@ -1,6 +1,6 @@
 # Turkmenistan
 
-Indexed users: 500
+Indexed users: 499
 
 | Leaderboard | Link |
 |---|---|
@@ -20,8 +20,8 @@ Indexed users: 500
 | 6 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 3,924 |
 | 7 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 3,855 |
 | 8 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,727 |
-| 9 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,454 |
-| 10 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,434 |
+| 9 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,434 |
+| 10 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,348 |
 | 11 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
 | 12 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
 | 13 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
@@ -31,7 +31,7 @@ Indexed users: 500
 | 17 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,096 |
 | 18 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,086 |
 | 19 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,053 |
-| 20 | [orazgulcayew](https://github.com/orazgulcayew) | Oraz Gulchayev | Turkmenistan | 1,944 |
+| 20 | [Atash03](https://github.com/Atash03) | Ilgeldi | Ashgabat, Turkmenistan | 1,975 |
 
 ## Public Contributions
 
@@ -48,15 +48,15 @@ Indexed users: 500
 | 9 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 699 |
 | 10 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 492 |
 | 11 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Turkmenistan, Ashgabat | 473 |
-| 12 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 399 |
-| 13 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev | Turkmenistan | 386 |
-| 14 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 366 |
-| 15 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
-| 16 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 330 |
-| 17 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 269 |
-| 18 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 254 |
-| 19 | [Jemsit0300](https://github.com/Jemsit0300) | Jemşit BAHADUROW | Turkmenistan | 236 |
-| 20 | [hudaynazarovbabageldi](https://github.com/hudaynazarovbabageldi) | Babageldi | Ashgabat , Turkmenistan | 221 |
+| 12 | [suleymanmyradov](https://github.com/suleymanmyradov) | Suleyman Myradov | Ashgabat, Turkmenistan | 473 |
+| 13 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 399 |
+| 14 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev | Turkmenistan | 386 |
+| 15 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 366 |
+| 16 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
+| 17 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 330 |
+| 18 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 269 |
+| 19 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 254 |
+| 20 | [Jemsit0300](https://github.com/Jemsit0300) | Jemşit BAHADUROW | Turkmenistan | 236 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 500
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-07T14:28:10.109Z
+Generated: 2026-10-07T23:38:53.285Z

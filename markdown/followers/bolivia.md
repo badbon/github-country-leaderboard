@@ -1,8 +1,8 @@
 # Followers - Bolivia
 
-Generated: 2026-10-07T14:37:49.575Z
+Generated: 2026-10-07T23:51:54.080Z
 
-Users: 1789
+Users: 1790
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

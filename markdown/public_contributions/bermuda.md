@@ -1,8 +1,8 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-07T14:36:35.973Z
+Generated: 2026-10-07T23:55:07.289Z
 
-Users: 909
+Users: 908
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 909
 | 13 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 839 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 750 |
 | 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 743 |
-| 16 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 614 |
-| 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 609 |
-| 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 605 |
+| 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 609 |
+| 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 605 |
+| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 579 |
 | 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |
-| 20 | [zallahve](https://github.com/zallahve) | Ziya Allahverdiyev |  |  | Hamilton, Ontario | 482 |
+| 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | McMaster University |  | Hamilton, ON | 468 |

@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-07T14:25:46.119Z
+Generated: 2026-10-07T23:32:32.016Z
 
 Users: 731
 
@@ -9,7 +9,7 @@ Users: 731
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online |  |  | Khartoum, Sudan | 10082 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein |  | TheYass1n | Sudan | 5418 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5085 |
-| 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4859 |
+| 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4776 |
 | 5 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3661 |
 | 6 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | KingofMENA | Sudan | 3650 |
 | 7 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3383 |
@@ -24,5 +24,5 @@ Users: 731
 | 16 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | @obaaa  | obaaa8 | sudan | 2103 |
 | 17 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Tamkeen Technology | cre_al | Sudan | 1978 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 1912 |
-| 19 | [3li-3bdullah](https://github.com/3li-3bdullah) | Ali Abdullah | Injaazy | AliAbdullah49 | Sudan / Khartoum   | 1831 |
-| 20 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 1821 |
+| 19 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 1843 |
+| 20 | [3li-3bdullah](https://github.com/3li-3bdullah) | Ali Abdullah | Injaazy | AliAbdullah49 | Sudan / Khartoum   | 1831 |

@@ -1,8 +1,8 @@
 # Public Contributions - Uzbekistan
 
-Generated: 2026-10-07T14:30:12.799Z
+Generated: 2026-10-07T23:40:49.587Z
 
-Users: 9512
+Users: 9511
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 9512
 | 7 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | IT-PARK |  | Xonqa, Xorazm, Uzbekistan | 10001 |
 | 8 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  |  |  | Uzbekistan | 9527 |
 | 9 | [Maxliyo0404](https://github.com/Maxliyo0404) | Maxliyo |  |  | Tashkent | 7727 |
-| 10 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Fractal Metascience Foundation |  | Tashkent, Uzbekistan | 7017 |
+| 10 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Fractal Metascience Foundation |  | Tashkent, Uzbekistan | 6957 |
 | 11 | [baxtiyorjongaziyev](https://github.com/baxtiyorjongaziyev) | Baxtiyorjon Gaziyev | Jon Branding |  | Uzbekistan | 5127 |
 | 12 | [Maqsud-Samatov](https://github.com/Maqsud-Samatov) | Maqsud Samatov |  |  | Uzbekistan, Termiz | 4599 |
 | 13 | [sirliboyev-uz](https://github.com/sirliboyev-uz) | Umurzak Sirliboyev |  |  | Tashkent, Uzbekistan | 3518 |

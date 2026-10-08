@@ -1,6 +1,6 @@
 # Panama
 
-Indexed users: 1,073
+Indexed users: 1,072
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 | 20 | [jebberjeb](https://github.com/jebberjeb) | Jeb Beich | Panama City, FL | 47 |
 
-Generated: 2026-10-07T14:17:33.494Z
+Generated: 2026-10-07T23:22:19.641Z

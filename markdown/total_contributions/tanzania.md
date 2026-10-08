@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-07T14:26:54.799Z
+Generated: 2026-10-07T23:35:34.992Z
 
 Users: 2038
 
@@ -8,12 +8,12 @@ Users: 2038
 |---:|---|---|---|---|---|---:|
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | SEWMR Technologies | sewmrtechnology | Arusha, Tanzania  | 128021 |
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 92238 |
-| 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 20806 |
-| 4 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA UNIVERSITY |  | DODOMA | 19842 |
-| 5 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 18257 |
-| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 17665 |
-| 7 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 17597 |
-| 8 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 15281 |
+| 3 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 25054 |
+| 4 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 20806 |
+| 5 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA UNIVERSITY |  | DODOMA | 19842 |
+| 6 | [zuck30](https://github.com/zuck30) | Shadrackovsky | AGS |  | Tanzania | 18257 |
+| 7 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda |  |  | Tanzania | 17665 |
+| 8 | [cleven12](https://github.com/cleven12) | cleven |  | cleven02 | Tanzania | 17597 |
 | 9 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 13423 |
 | 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 12163 |
 | 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 8880 |

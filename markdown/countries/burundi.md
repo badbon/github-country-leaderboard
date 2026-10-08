@@ -13,25 +13,25 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,222 |
-| 2 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,545 |
-| 3 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,075 |
-| 4 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 1,853 |
-| 5 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 1,766 |
+| 2 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,535 |
+| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,273 |
+| 4 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,075 |
+| 5 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 1,853 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
 | 7 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,550 |
-| 8 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,514 |
-| 9 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,315 |
-| 10 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,295 |
-| 11 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,202 |
+| 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,520 |
+| 9 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,514 |
+| 10 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,315 |
+| 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,295 |
 | 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,200 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 14 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,021 |
-| 15 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
-| 16 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 971 |
-| 17 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 936 |
-| 18 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 895 |
-| 19 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | Burundi | 880 |
-| 20 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 863 |
+| 15 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,011 |
+| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
+| 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 971 |
+| 18 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 936 |
+| 19 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 895 |
+| 20 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | Burundi | 880 |
 
 ## Public Contributions
 
@@ -63,7 +63,7 @@ Indexed users: 236
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 358 |
-| 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 140 |
+| 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 147 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 102 |
 | 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | bujumbura, burundi | 89 |
@@ -74,7 +74,7 @@ Indexed users: 236
 | 10 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 73 |
 | 11 | [ArtcalO](https://github.com/ArtcalO) | The Lone Wolf | Bujumbura, BURUNDI | 65 |
 | 12 | [WCanirinka](https://github.com/WCanirinka) | Wilfried Canirinka | Bujumbura, Burundi | 61 |
-| 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Burundi  | 46 |
+| 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Burundi  | 45 |
 | 14 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 45 |
 | 15 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE | Bujumbura, Burundi | 43 |
 | 16 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Burundi | 43 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-07T14:38:37.764Z
+Generated: 2026-10-07T23:53:43.639Z

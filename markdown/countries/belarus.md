@@ -44,15 +44,15 @@ Indexed users: 10,955
 | 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex | Minsk | 2,879 |
 | 6 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,351 |
 | 7 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
-| 8 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
-| 9 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
-| 10 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
-| 11 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga | Brest, Belarus | 2,037 |
-| 12 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
-| 13 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
-| 14 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
-| 15 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
-| 16 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 1,724 |
+| 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 2,150 |
+| 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
+| 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
+| 11 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
+| 12 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga | Brest, Belarus | 2,037 |
+| 13 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
+| 14 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
+| 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
+| 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
 | 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
 | 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
 | 19 | [therepanic](https://github.com/therepanic) | Andrey Litvitski | Minsk, Belarus | 1,592 |
@@ -83,4 +83,4 @@ Indexed users: 10,955
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-07T14:36:21.115Z
+Generated: 2026-10-07T23:50:06.423Z

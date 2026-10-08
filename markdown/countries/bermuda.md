@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 909
+Indexed users: 908
 
 | Leaderboard | Link |
 |---|---|
@@ -52,11 +52,11 @@ Indexed users: 909
 | 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
 | 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
-| 16 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 614 |
-| 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 609 |
-| 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
+| 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 609 |
+| 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
+| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 579 |
 | 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
-| 20 | [zallahve](https://github.com/zallahve) | Ziya Allahverdiyev | Hamilton, Ontario | 482 |
+| 20 | [vjhawar12](https://github.com/vjhawar12) | Vedant Jhawar | Hamilton, ON | 468 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 909
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 75 |
 
-Generated: 2026-10-07T14:36:35.973Z
+Generated: 2026-10-07T23:55:07.289Z

@@ -1,6 +1,6 @@
 # Benin
 
-Indexed users: 471
+Indexed users: 473
 
 | Leaderboard | Link |
 |---|---|
@@ -75,7 +75,7 @@ Indexed users: 471
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 92 |
 | 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 91 |
 | 13 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
-| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 84 |
+| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 87 |
 | 15 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 84 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
 | 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Benin, Cotonou | 79 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
 
-Generated: 2026-10-07T14:36:32.140Z
+Generated: 2026-10-07T23:51:40.740Z

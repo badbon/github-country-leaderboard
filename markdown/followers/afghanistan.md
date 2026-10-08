@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-07T14:32:37.426Z
+Generated: 2026-10-07T23:42:34.270Z
 
 Users: 1494
 
@@ -9,8 +9,8 @@ Users: 1494
 | 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani | @openafg |  |  Kabul, Afghanistan | 3455 |
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 668 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Afghan Relief | sanooo2001 | Kabul-Afghanistan | 439 |
-| 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal |  |  | Kabul | 408 |
-| 5 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 271 |
+| 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal |  |  | Kabul | 419 |
+| 5 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 281 |
 | 6 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | AseelApp, Industry Umbrella | Masih_202 | Kabul, Afghanistan | 260 |
 | 7 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 258 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 221 |

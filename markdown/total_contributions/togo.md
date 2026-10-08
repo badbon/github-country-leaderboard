@@ -1,8 +1,8 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-07T14:27:06.578Z
+Generated: 2026-10-07T23:36:00.913Z
 
-Users: 686
+Users: 682
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 686
 | 6 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5528 |
 | 7 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 5396 |
 | 8 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 5176 |
-| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 5080 |
+| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4628 |
 | 10 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Freelance |  | Lome -TOGO | 4097 |
 | 11 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 3925 |
 | 12 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns |  | ICG_reborns | Lomé, Togo | 3633 |
@@ -22,7 +22,7 @@ Users: 686
 | 14 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 3168 |
 | 15 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 3124 |
 | 16 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Lomé, TOGO | 3082 |
-| 17 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 2874 |
-| 18 | [digino](https://github.com/digino) | Gino |  |  | Lomé, Togo | 2766 |
-| 19 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 2747 |
-| 20 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 2735 |
+| 17 | [Ygryan360](https://github.com/Ygryan360) | Rayane | @Immoviasoft | ryan_tchabodi | Lomé, Togo | 2886 |
+| 18 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 2874 |
+| 19 | [digino](https://github.com/digino) | Gino |  |  | Lomé, Togo | 2766 |
+| 20 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 2747 |

@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-07T14:37:44.696Z
+Generated: 2026-10-07T23:51:49.898Z
 
 Users: 268
 
@@ -8,9 +8,9 @@ Users: 268
 |---:|---|---|---|---|---|---:|
 | 1 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering |  |  | Thimphu, Bhutan | 5103 |
 | 2 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3617 |
-| 3 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | @selisebt  |  | Thimphu, Bhutan | 3526 |
+| 3 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3533 |
 | 4 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3402 |
-| 5 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3401 |
+| 5 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | @selisebt  |  | Thimphu, Bhutan | 3334 |
 | 6 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | @Cloud-Bhutan  | trigdzeen | Thimphu, Bhutan | 3169 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye |  |  | Bhutan | 2663 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2620 |
@@ -24,5 +24,5 @@ Users: 268
 | 16 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1792 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1789 |
 | 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1778 |
-| 19 | [KarmaTensel](https://github.com/KarmaTensel) | ice |  |  | Bhutan | 1599 |
-| 20 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | @selisegroup | __kinleyrabgay | Thimphu, Bhutan | 1581 |
+| 19 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung |  |  | Thimphu Bhutan | 1729 |
+| 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice |  |  | Bhutan | 1599 |

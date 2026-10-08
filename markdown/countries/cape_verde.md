@@ -16,22 +16,22 @@ Indexed users: 564
 | 2 | [svcrashh](https://github.com/svcrashh) | crashh | Praia Grande | 2,729 |
 | 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula | Praia Grande, SP | 2,598 |
 | 4 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | Praia Grande - SP | 1,940 |
-| 5 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,715 |
-| 6 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 1,379 |
-| 7 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,337 |
-| 8 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,325 |
-| 9 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,288 |
+| 5 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,799 |
+| 6 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,715 |
+| 7 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 1,379 |
+| 8 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,337 |
+| 9 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,325 |
 | 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,253 |
 | 11 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,225 |
 | 12 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,200 |
-| 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,115 |
-| 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,096 |
-| 15 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | Praia Grande/SP | 1,058 |
-| 16 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,026 |
-| 17 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | Praia do Rosa/SC - Brasil | 1,022 |
+| 13 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,164 |
+| 14 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | Praia Grande/SP | 1,141 |
+| 15 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,115 |
+| 16 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,096 |
+| 17 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,026 |
 | 18 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,003 |
 | 19 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 997 |
-| 20 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 945 |
+| 20 | [LeandroVeiga9](https://github.com/LeandroVeiga9) | Leandro Veiga | Praia Grande - SP | 904 |
 
 ## Public Contributions
 
@@ -52,8 +52,8 @@ Indexed users: 564
 | 13 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa | Praia Grande, SP | 340 |
 | 14 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe | Praia Grande - SP | 324 |
 | 15 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Praia Grande -SP | 302 |
-| 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 240 |
-| 17 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 240 |
+| 16 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 251 |
+| 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 240 |
 | 18 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
 | 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 186 |
 | 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
@@ -69,7 +69,7 @@ Indexed users: 564
 | 5 | [MiAfroki](https://github.com/MiAfroki) | Milena Camargo Reis | Praia Grande - SP | 142 |
 | 6 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | Praia do Rosa/SC - Brasil | 138 |
 | 7 | [portellaa](https://github.com/portellaa) | Luís Portela Afonso | Vila Praia de Âncora | 123 |
-| 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes | Praia Grande, SP | 120 |
+| 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes | Praia Grande, SP | 118 |
 | 9 | [eloisaoliveira](https://github.com/eloisaoliveira) | Eloisa de Oliveira | Praia Grande - SP | 116 |
 | 10 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Praia Grande | 93 |
 | 11 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes | Praia - Cabo Verde | 92 |
@@ -83,4 +83,4 @@ Indexed users: 564
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 53 |
 
-Generated: 2026-10-07T14:39:16.160Z
+Generated: 2026-10-07T23:55:16.502Z

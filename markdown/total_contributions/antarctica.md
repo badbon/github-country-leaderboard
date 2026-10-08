@@ -1,8 +1,8 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-07T14:34:35.634Z
+Generated: 2026-10-07T23:44:30.191Z
 
-Users: 467
+Users: 466
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 467
 | 6 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 4699 |
 | 7 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4413 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4216 |
-| 9 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 3940 |
+| 9 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 4135 |
 | 10 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 3853 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux |  |  | Antarctica ;) | 3840 |
 | 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3225 |
-| 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2827 |
-| 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 2621 |
+| 13 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3006 |
+| 14 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2827 |
 | 15 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2314 |
-| 16 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2309 |
-| 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2202 |
-| 18 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1846 |
-| 19 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Gruppa chat & Co. |  | Antarctica | 1613 |
+| 16 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2202 |
+| 17 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2108 |
+| 18 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 1997 |
+| 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1846 |
 | 20 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 1596 |

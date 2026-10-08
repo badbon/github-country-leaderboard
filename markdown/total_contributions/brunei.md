@@ -1,6 +1,6 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-07T14:38:27.638Z
+Generated: 2026-10-07T23:53:32.805Z
 
 Users: 255
 
@@ -15,14 +15,14 @@ Users: 255
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | DST |  | Brunei | 1064 |
 | 8 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah |  |  | Brunei | 864 |
 | 9 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning |  |  | Brunei Darussalam | 857 |
-| 10 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi |  |  | Brunei Darussalam | 612 |
-| 11 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | Pittsburgh, PA \| Brunei | 596 |
+| 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 618 |
+| 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi |  |  | Brunei Darussalam | 612 |
 | 12 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 590 |
 | 13 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 489 |
-| 14 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 456 |
-| 15 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 395 |
-| 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 378 |
-| 17 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 356 |
+| 14 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 395 |
+| 15 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 378 |
+| 16 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 356 |
+| 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 350 |
 | 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 286 |
 | 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin |  |  | Brunei | 233 |
 | 20 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri |  |  | Brunei Darussalam | 228 |

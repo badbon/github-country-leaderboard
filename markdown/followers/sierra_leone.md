@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-07T14:21:14.833Z
+Generated: 2026-10-07T23:30:02.839Z
 
 Users: 442
 
@@ -11,7 +11,7 @@ Users: 442
 | 3 | [larrybah](https://github.com/larrybah) | Larry Bah |  | larrybah3 | Sierra Leone | 99 |
 | 4 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo |  | TahibGbondo | Sierra Leone | 93 |
 | 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | 256 LLC |  | Freetown, Sierra Leone | 68 |
-| 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 65 |
+| 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 67 |
 | 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 65 |
 | 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 53 |
 | 9 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Course Paddy | samuelmoiwa | Sierra Leone | 45 |
@@ -21,8 +21,8 @@ Users: 442
 | 13 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 39 |
 | 14 | [rolandeke](https://github.com/rolandeke) | Chinedum Roland Eke | IMO TECH SOLUTIONS | EkeRoland | Freetown, Sierra Leone | 39 |
 | 15 | [click2tman](https://github.com/click2tman) | Tamba Lamin | TpISENT |  | Freetown | 38 |
-| 16 | [pythonnelson](https://github.com/pythonnelson) | Isaac NSB Kargbo | CIO and Founder of Oversight Innovative Technologies | pythonnelson | Freetown | 34 |
-| 17 | [francisguchie](https://github.com/francisguchie) | Guchie | https://guchietech.com | FrancisGuchie | Freetown | 32 |
-| 18 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 28 |
-| 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 28 |
+| 16 | [francisguchie](https://github.com/francisguchie) | Guchie | https://guchietech.com | FrancisGuchie | Freetown | 32 |
+| 17 | [pythonnelson](https://github.com/pythonnelson) | Isaac NSB Kargbo | CIO and Founder of Oversight Innovative Technologies | pythonnelson | Freetown | 32 |
+| 18 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 29 |
+| 19 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 28 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma |  |  | Freetown, Sierra Leone, West Africa | 26 |

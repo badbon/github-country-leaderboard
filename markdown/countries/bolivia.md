@@ -1,6 +1,6 @@
 # Bolivia
 
-Indexed users: 1,789
+Indexed users: 1,790
 
 | Leaderboard | Link |
 |---|---|
@@ -17,8 +17,8 @@ Indexed users: 1,789
 | 3 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Sucre Bolivia | 6,815 |
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 6,760 |
 | 5 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,801 |
-| 6 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,264 |
-| 7 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,000 |
+| 6 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,704 |
+| 7 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,264 |
 | 8 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,929 |
 | 9 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 4,534 |
 | 10 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
@@ -83,4 +83,4 @@ Indexed users: 1,789
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 126 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 124 |
 
-Generated: 2026-10-07T14:37:49.575Z
+Generated: 2026-10-07T23:51:54.080Z

@@ -1,6 +1,6 @@
 # Followers - Serbia
 
-Generated: 2026-10-07T14:21:01.104Z
+Generated: 2026-10-07T23:28:55.612Z
 
 Users: 10672
 
@@ -12,7 +12,7 @@ Users: 10672
 | 4 | [milanm](https://github.com/milanm) | Dr Milan Milanović | @3MD-Solutions | milan_milanovic | Belgrade, Serbia | 2799 |
 | 5 | [ClusterM](https://github.com/ClusterM) | Alexey Cluster |  | Cluster_M | Serbia | 1815 |
 | 6 | [stefvndev](https://github.com/stefvndev) | Stefan |  |  | Serbia | 1369 |
-| 7 | [kerryjanes](https://github.com/kerryjanes) | Kerry | TNation |  | Belgrade | 1093 |
+| 7 | [kerryjanes](https://github.com/kerryjanes) | Kerry | TNation | hypotheclending | Belgrade | 1104 |
 | 8 | [bobangajicsm](https://github.com/bobangajicsm) | Slobodan Gajic | Duneolas | _SlobodanGajic_ | Serbia | 1001 |
 | 9 | [mohamed-taman](https://github.com/mohamed-taman) | Mohamed Taman | Magna International  | _tamanm | Belgrade, Serbia | 921 |
 | 10 | [StefanTheCode](https://github.com/StefanTheCode) | Stefan Đokić | TheCodeMan | TheCodeMan__ | Nis, Serbia | 761 |

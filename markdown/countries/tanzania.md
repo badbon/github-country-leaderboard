@@ -14,12 +14,12 @@ Indexed users: 2,038
 |---:|---|---|---|---:|
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | Arusha, Tanzania  | 128,021 |
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program |  Dar-es-salaam, Tanzania | 92,238 |
-| 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 20,806 |
-| 4 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA | 19,842 |
-| 5 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 18,257 |
-| 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 17,665 |
-| 7 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
-| 8 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 15,281 |
+| 3 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 25,054 |
+| 4 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 20,806 |
+| 5 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA | 19,842 |
+| 6 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 18,257 |
+| 7 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 17,665 |
+| 8 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
 | 9 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 13,423 |
 | 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 12,163 |
 | 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
@@ -55,8 +55,8 @@ Indexed users: 2,038
 | 16 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,389 |
 | 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
 | 18 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 1,238 |
-| 19 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
-| 20 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA | 1,120 |
+| 19 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 1,193 |
+| 20 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | Tanzania | 1,149 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,038
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 175 |
 
-Generated: 2026-10-07T14:26:54.799Z
+Generated: 2026-10-07T23:35:34.992Z

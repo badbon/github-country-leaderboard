@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-07T14:37:44.696Z
+Generated: 2026-10-07T23:51:49.898Z
 
 Users: 268
 
@@ -10,10 +10,10 @@ Users: 268
 | 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | NOri Botanical |  | Thimphu | 1014 |
 | 3 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 1005 |
 | 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Kodadev | guru_wangchuk | Bhutan | 1002 |
-| 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel |  |  | Bhutan | 920 |
+| 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel |  |  | Bhutan | 924 |
 | 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 679 |
-| 7 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 440 |
-| 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Light Webx |  | Chubachu, Thimphu | 430 |
+| 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Light Webx |  | Chubachu, Thimphu | 430 |
+| 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 397 |
 | 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Selise Group |  | Thimphu,Bhutan | 327 |
 | 10 | [nimaytenzin](https://github.com/nimaytenzin) |  |  |  | Bhutan | 297 |
 | 11 | [yesheytenzin](https://github.com/yesheytenzin) | tenz |  | tenzyeshey | Thimphu, Bhutan | 296 |
@@ -24,5 +24,5 @@ Users: 268
 | 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 152 |
 | 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 142 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 132 |
-| 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 125 |
+| 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 122 |
 | 20 | [b1swa25](https://github.com/b1swa25) | Sandip Biswa |  |  | Bhutan | 120 |

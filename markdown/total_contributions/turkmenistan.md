@@ -1,8 +1,8 @@
 # Total Contributions - Turkmenistan
 
-Generated: 2026-10-07T14:28:10.109Z
+Generated: 2026-10-07T23:38:53.285Z
 
-Users: 500
+Users: 499
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,8 +14,8 @@ Users: 500
 | 6 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | @KIP-Engineering  | BayramBabagulyy | Turkmenistan | 3924 |
 | 7 | [lightRain0629](https://github.com/lightRain0629) | Umyt | @GSR-Network |  | Ashgabat, Turkmenistan | 3855 |
 | 8 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | @GSR-Network | noxur05 | Ashgabat, Turkmenistan | 3727 |
-| 9 | [Nirovitsky](https://github.com/Nirovitsky) | Ata |  |  | Turkmenistan | 3454 |
-| 10 | [Begench2005](https://github.com/Begench2005) | Begench |  |  | Ashgabat, Turkmenistan | 3434 |
+| 9 | [Begench2005](https://github.com/Begench2005) | Begench |  |  | Ashgabat, Turkmenistan | 3434 |
+| 10 | [Nirovitsky](https://github.com/Nirovitsky) | Ata |  |  | Turkmenistan | 3348 |
 | 11 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Oguz han technology center | Dayanch437 | Turkmenistan | 2935 |
 | 12 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | BridgeCore SYSTEMS |  | Turkmenistan | 2913 |
 | 13 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis |  | m_annagurbanov | Ashgabat, Turkmenistan | 2641 |
@@ -25,4 +25,4 @@ Users: 500
 | 17 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz |  |  | Turkmenistan, Ashgabat | 2096 |
 | 18 | [babamurad](https://github.com/babamurad) | Babamurad |  |  | Turkmenistan, Ashgabat | 2086 |
 | 19 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | LFDT 2026 Mentee @hyperledger-identus |  | Mary city, Turkmenistan | 2053 |
-| 20 | [orazgulcayew](https://github.com/orazgulcayew) | Oraz Gulchayev |  | orazgulcayew | Turkmenistan | 1944 |
+| 20 | [Atash03](https://github.com/Atash03) | Ilgeldi |  |  | Ashgabat, Turkmenistan | 1975 |

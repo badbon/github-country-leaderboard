@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-07T14:17:12.556Z
+Generated: 2026-10-07T23:22:17.588Z
 
 Users: 2206
 
@@ -8,8 +8,8 @@ Users: 2206
 |---:|---|---|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 3974 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2199 |
-| 3 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1607 |
-| 4 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1606 |
+| 3 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1606 |
+| 4 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1531 |
 | 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 1464 |
 | 6 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1438 |
 | 7 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1406 |

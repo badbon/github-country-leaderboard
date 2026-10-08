@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-07T14:26:54.799Z
+Generated: 2026-10-07T23:35:34.992Z
 
 Users: 2038
 
@@ -24,5 +24,5 @@ Users: 2038
 | 16 | [cephasgm](https://github.com/cephasgm) | CephasGM |  |  | Dar Es Salaam, Tanzania | 1389 |
 | 17 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne |  |  | Tanzania | 1248 |
 | 18 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 1238 |
-| 19 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | BIG LITE CODE | DadyUtenga | Tanzania | 1149 |
-| 20 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA UNIVERSITY |  | DODOMA | 1120 |
+| 19 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 1193 |
+| 20 | [dadyutenga](https://github.com/dadyutenga) | Dadi Nasser Utenga | BIG LITE CODE | DadyUtenga | Tanzania | 1149 |

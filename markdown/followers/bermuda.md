@@ -1,8 +1,8 @@
 # Followers - Bermuda
 
-Generated: 2026-10-07T14:36:35.973Z
+Generated: 2026-10-07T23:55:07.289Z
 
-Users: 909
+Users: 908
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Public Contributions - Belarus
 
-Generated: 2026-10-07T14:36:21.115Z
+Generated: 2026-10-07T23:50:06.423Z
 
 Users: 10955
 
@@ -13,15 +13,15 @@ Users: 10955
 | 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex |  |  | Minsk | 2879 |
 | 6 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo |  | kostabarilo12 | Minsk, Belarus | 2351 |
 | 7 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | irex.ai |  | Minsk, Belarus | 2244 |
-| 8 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky |  |  | Belarus | 2113 |
-| 9 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov |  | timseriakov | Minsk, Belarus | 2082 |
-| 10 | [Nice3point](https://github.com/Nice3point) | Roman | Kinship |  | Minsk | 2066 |
-| 11 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga |  |  | Brest, Belarus | 2037 |
-| 12 | [naxBody](https://github.com/naxBody) | Артем |  |  | Belarus, Luninets  | 1957 |
-| 13 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha |  |  | Belarus, Minsk | 1922 |
-| 14 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Lesta Games |  | Minsk | 1838 |
-| 15 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou |  |  | Minsk, Belarus | 1826 |
-| 16 | [Mukller](https://github.com/Mukller) | Anton Petnitsky |  |  | Belarus, Minsk | 1724 |
+| 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky |  |  | Belarus, Minsk | 2150 |
+| 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky |  |  | Belarus | 2113 |
+| 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov |  | timseriakov | Minsk, Belarus | 2082 |
+| 11 | [Nice3point](https://github.com/Nice3point) | Roman | Kinship |  | Minsk | 2066 |
+| 12 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga |  |  | Brest, Belarus | 2037 |
+| 13 | [naxBody](https://github.com/naxBody) | Артем |  |  | Belarus, Luninets  | 1957 |
+| 14 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha |  |  | Belarus, Minsk | 1922 |
+| 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Lesta Games |  | Minsk | 1838 |
+| 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou |  |  | Minsk, Belarus | 1826 |
 | 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Home |  | Minsk | 1681 |
 | 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak |  |  | Minsk Belarus | 1600 |
 | 19 | [therepanic](https://github.com/therepanic) | Andrey Litvitski |  |  | Minsk, Belarus | 1592 |

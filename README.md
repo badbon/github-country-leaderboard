@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Liechtenstein](markdown/countries/liechtenstein.md) | 113 | [Public](markdown/public_contributions/liechtenstein.md) | [Total](markdown/total_contributions/liechtenstein.md) | [Followers](markdown/followers/liechtenstein.md) |
-| [Nauru](markdown/countries/nauru.md) | 3 | [Public](markdown/public_contributions/nauru.md) | [Total](markdown/total_contributions/nauru.md) | [Followers](markdown/followers/nauru.md) |
-| [Macau](markdown/countries/macau.md) | 447 | [Public](markdown/public_contributions/macau.md) | [Total](markdown/total_contributions/macau.md) | [Followers](markdown/followers/macau.md) |
-| [Nepal](markdown/countries/nepal.md) | 14,077 | [Public](markdown/public_contributions/nepal.md) | [Total](markdown/total_contributions/nepal.md) | [Followers](markdown/followers/nepal.md) |
-| [South Africa](markdown/countries/south_africa.md) | 17,909 | [Public](markdown/public_contributions/south_africa.md) | [Total](markdown/total_contributions/south_africa.md) | [Followers](markdown/followers/south_africa.md) |
+| [French Southern and Antarctic Lands](markdown/countries/french_southern_and_antarctic_lands.md) | 4 | [Public](markdown/public_contributions/french_southern_and_antarctic_lands.md) | [Total](markdown/total_contributions/french_southern_and_antarctic_lands.md) | [Followers](markdown/followers/french_southern_and_antarctic_lands.md) |
+| [Vatican City](markdown/countries/vatican_city.md) | 30 | [Public](markdown/public_contributions/vatican_city.md) | [Total](markdown/total_contributions/vatican_city.md) | [Followers](markdown/followers/vatican_city.md) |
+| [Saint Barthélemy](markdown/countries/saint_barthelemy.md) | 1 | [Public](markdown/public_contributions/saint_barthelemy.md) | [Total](markdown/total_contributions/saint_barthelemy.md) | [Followers](markdown/followers/saint_barthelemy.md) |
+| [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
+| [Haiti](markdown/countries/haiti.md) | 338 | [Public](markdown/public_contributions/haiti.md) | [Total](markdown/total_contributions/haiti.md) | [Followers](markdown/followers/haiti.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-07T15:02:06.908Z
+Generated: 2026-10-08T00:04:42.869Z

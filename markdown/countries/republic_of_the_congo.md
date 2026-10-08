@@ -13,15 +13,15 @@ Indexed users: 299
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,243 |
-| 2 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,891 |
-| 3 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,798 |
-| 4 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,075 |
-| 5 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 3,003 |
-| 6 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,804 |
-| 7 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,723 |
-| 8 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,663 |
-| 9 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,610 |
-| 10 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 2,567 |
+| 2 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,062 |
+| 3 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,891 |
+| 4 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,798 |
+| 5 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,075 |
+| 6 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 3,003 |
+| 7 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,804 |
+| 8 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,723 |
+| 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,663 |
+| 10 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,610 |
 | 11 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,371 |
 | 12 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,306 |
 | 13 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,084 |
@@ -62,12 +62,12 @@ Indexed users: 299
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 321 |
+| 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 318 |
 | 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 209 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 206 |
-| 4 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 124 |
-| 5 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 108 |
-| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 95 |
+| 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 108 |
+| 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 102 |
+| 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 96 |
 | 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 92 |
 | 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 71 |
 | 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 68 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 28 |
 | 20 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 
-Generated: 2026-10-07T14:18:40.881Z
+Generated: 2026-10-07T23:23:56.954Z

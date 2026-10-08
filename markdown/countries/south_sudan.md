@@ -12,7 +12,7 @@ Indexed users: 133
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 8,736 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 8,877 |
 | 2 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
 | 3 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 4,879 |
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,502 |
@@ -25,8 +25,8 @@ Indexed users: 133
 | 11 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 522 |
 | 12 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 520 |
 | 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 501 |
-| 14 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
-| 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 321 |
+| 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 327 |
+| 15 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
 | 16 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 312 |
 | 17 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 301 |
 | 18 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 292 |
@@ -46,8 +46,8 @@ Indexed users: 133
 | 7 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 513 |
 | 8 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 501 |
 | 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 387 |
-| 10 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
-| 11 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 321 |
+| 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 327 |
+| 11 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
 | 12 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 296 |
 | 13 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 292 |
 | 14 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-07T14:25:19.140Z
+Generated: 2026-10-07T23:32:21.326Z

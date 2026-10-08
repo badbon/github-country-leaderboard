@@ -1,6 +1,6 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-07T14:39:16.160Z
+Generated: 2026-10-07T23:55:16.502Z
 
 Users: 564
 
@@ -13,7 +13,7 @@ Users: 564
 | 5 | [MiAfroki](https://github.com/MiAfroki) | Milena Camargo Reis | TCS - Tata Consultancy Services | miafroki | Praia Grande - SP | 142 |
 | 6 | [lukas8219](https://github.com/lukas8219) | Lucas Weis Polesello | @cloudamqp @84codes  | luucaspole | Praia do Rosa/SC - Brasil | 138 |
 | 7 | [portellaa](https://github.com/portellaa) | Luís Portela Afonso | @cookiebytespt  | lportellaa | Vila Praia de Âncora | 123 |
-| 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes |  |  | Praia Grande, SP | 120 |
+| 8 | [gabrielngomes](https://github.com/gabrielngomes) | Gabriel Gomes |  |  | Praia Grande, SP | 118 |
 | 9 | [eloisaoliveira](https://github.com/eloisaoliveira) | Eloisa de Oliveira |  | elooliveira_png | Praia Grande - SP | 116 |
 | 10 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Itaú Unibanco |  | Praia Grande | 93 |
 | 11 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes |  | cdfortes | Praia - Cabo Verde | 92 |

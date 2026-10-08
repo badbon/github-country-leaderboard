@@ -1,8 +1,8 @@
 # Public Contributions - Venezuela
 
-Generated: 2026-10-07T14:30:22.082Z
+Generated: 2026-10-07T23:40:59.736Z
 
-Users: 6637
+Users: 6636
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 6637
 | 7 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle |  |  | Venezuela | 2942 |
 | 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar |  |  | Venezuela | 2910 |
 | 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro |  | LuisAlejandro | Maracay, Venezuela | 2787 |
-| 10 | [ungardev](https://github.com/ungardev) | Ungar |  |  | Venezuela | 2654 |
-| 11 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 2533 |
-| 12 | [A2PC-2002](https://github.com/A2PC-2002) |  |  |  | Caracas - Venezuela | 2254 |
-| 13 | [elfotito](https://github.com/elfotito) | elfotito |  |  | Venezuela | 2158 |
-| 14 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Astralys |  | Venezuela | 1967 |
-| 15 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez |  |  | Venezuela | 1916 |
-| 16 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute |  | gabrielfenyx | Venezuela | 1848 |
-| 17 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez |  | hejeroaz | Caracas, Venezuela | 1848 |
-| 18 | [claucondor](https://github.com/claucondor) | Claudio Condor | A0x Company |  | Merida, Venezuela | 1757 |
-| 19 | [joseorono](https://github.com/joseorono) | José Miguel Oroño |  |  | Maracaibo, Venezuela | 1620 |
-| 20 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1584 |
+| 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 2533 |
+| 11 | [A2PC-2002](https://github.com/A2PC-2002) |  |  |  | Caracas - Venezuela | 2254 |
+| 12 | [elfotito](https://github.com/elfotito) | elfotito |  |  | Venezuela | 2158 |
+| 13 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Astralys |  | Venezuela | 1967 |
+| 14 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez |  |  | Venezuela | 1916 |
+| 15 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute |  | gabrielfenyx | Venezuela | 1848 |
+| 16 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez |  | hejeroaz | Caracas, Venezuela | 1848 |
+| 17 | [claucondor](https://github.com/claucondor) | Claudio Condor | A0x Company |  | Merida, Venezuela | 1757 |
+| 18 | [joseorono](https://github.com/joseorono) | José Miguel Oroño |  |  | Maracaibo, Venezuela | 1620 |
+| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1584 |
+| 20 | [soukigabriel](https://github.com/soukigabriel) | Gabriel Souki Hernandez | AO Lab |  | Anzoategui, Venezuela | 1535 |

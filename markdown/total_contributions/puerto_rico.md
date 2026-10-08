@@ -1,8 +1,8 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-07T14:18:32.295Z
+Generated: 2026-10-07T23:23:36.459Z
 
-Users: 1549
+Users: 1548
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

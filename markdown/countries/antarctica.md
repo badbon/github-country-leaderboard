@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 467
+Indexed users: 466
 
 | Leaderboard | Link |
 |---|---|
@@ -20,17 +20,17 @@ Indexed users: 467
 | 6 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 4,699 |
 | 7 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,216 |
-| 9 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 3,940 |
+| 9 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,135 |
 | 10 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 3,853 |
 | 11 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,840 |
 | 12 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,225 |
-| 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,827 |
-| 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 2,621 |
+| 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,006 |
+| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,827 |
 | 15 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,314 |
-| 16 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,309 |
-| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,202 |
-| 18 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,846 |
-| 19 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,613 |
+| 16 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,202 |
+| 17 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,108 |
+| 18 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 1,997 |
+| 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,846 |
 | 20 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 1,596 |
 
 ## Public Contributions
@@ -41,19 +41,19 @@ Indexed users: 467
 | 2 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,489 |
 | 3 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,790 |
 | 4 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 1,953 |
-| 5 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,786 |
-| 6 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
-| 7 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,399 |
-| 8 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,173 |
+| 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 1,888 |
+| 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,786 |
+| 7 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
+| 8 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,288 |
 | 9 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,137 |
 | 10 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
 | 11 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
-| 12 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 675 |
-| 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
-| 14 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
+| 12 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
+| 13 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
+| 14 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
 | 15 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 16 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 469 |
-| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 469 |
+| 17 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
 | 18 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 436 |
 | 19 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 434 |
 | 20 | [nicccce](https://github.com/nicccce) | Nick | Antarctica | 410 |
@@ -62,7 +62,7 @@ Indexed users: 467
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,901 |
+| 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,914 |
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 610 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 463 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 342 |
@@ -73,8 +73,8 @@ Indexed users: 467
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 123 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 122 |
 | 11 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito | Davis Station, Antarctica | 119 |
-| 12 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
-| 13 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 111 |
+| 12 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 117 |
+| 13 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 99 |
 | 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 92 |
 | 16 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 89 |
@@ -83,4 +83,4 @@ Indexed users: 467
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 77 |
 
-Generated: 2026-10-07T14:34:35.634Z
+Generated: 2026-10-07T23:44:30.191Z

@@ -1,8 +1,8 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-07T14:33:13.587Z
+Generated: 2026-10-07T23:42:43.146Z
 
-Users: 1195
+Users: 1194
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 1195
 | 9 | [orges](https://github.com/orges) | orges |  |  | Albania | 5549 |
 | 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 5493 |
 | 11 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4676 |
-| 12 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4379 |
+| 12 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4411 |
 | 13 | [jozefini](https://github.com/jozefini) | Jozefin B. | @codja  |  | Albania | 4164 |
 | 14 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 4094 |
 | 15 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4078 |
-| 16 | [selimaj-dev](https://github.com/selimaj-dev) | Klesti Selimaj | @orus-dev |  | Albania | 4022 |
-| 17 | [EndiMimini](https://github.com/EndiMimini) | Endi Mimini | TRIFOLIUM |  | Tirana, Albania | 4013 |
-| 18 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 3655 |
-| 19 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 3647 |
-| 20 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi |  |  | Tirana, Albania | 3619 |
+| 16 | [EndiMimini](https://github.com/EndiMimini) | Endi Mimini | TRIFOLIUM |  | Tirana, Albania | 4013 |
+| 17 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 3655 |
+| 18 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 3647 |
+| 19 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi |  |  | Tirana, Albania | 3619 |
+| 20 | [samuelbushi](https://github.com/samuelbushi) | Samuel Bushi | @orteos-ai |  | Albania | 3489 |

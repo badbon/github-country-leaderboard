@@ -1,6 +1,6 @@
 # Azerbaijan
 
-Indexed users: 5,101
+Indexed users: 5,100
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,101
 | 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 | 20 | [yolchunasib](https://github.com/yolchunasib) | Yolchu Nasib | Baku, Azerbaijan | 251 |
 
-Generated: 2026-10-07T14:35:22.372Z
+Generated: 2026-10-07T23:47:46.009Z

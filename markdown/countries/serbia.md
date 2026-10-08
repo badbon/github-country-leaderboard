@@ -68,7 +68,7 @@ Indexed users: 10,672
 | 4 | [milanm](https://github.com/milanm) | Dr Milan Milanović | Belgrade, Serbia | 2,799 |
 | 5 | [ClusterM](https://github.com/ClusterM) | Alexey Cluster | Serbia | 1,815 |
 | 6 | [stefvndev](https://github.com/stefvndev) | Stefan | Serbia | 1,369 |
-| 7 | [kerryjanes](https://github.com/kerryjanes) | Kerry | Belgrade | 1,093 |
+| 7 | [kerryjanes](https://github.com/kerryjanes) | Kerry | Belgrade | 1,104 |
 | 8 | [bobangajicsm](https://github.com/bobangajicsm) | Slobodan Gajic | Serbia | 1,001 |
 | 9 | [mohamed-taman](https://github.com/mohamed-taman) | Mohamed Taman | Belgrade, Serbia | 921 |
 | 10 | [StefanTheCode](https://github.com/StefanTheCode) | Stefan Đokić | Nis, Serbia | 761 |
@@ -83,4 +83,4 @@ Indexed users: 10,672
 | 19 | [arodic](https://github.com/arodic) | Aki Rodić | Belgrade | 434 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 434 |
 
-Generated: 2026-10-07T14:21:01.104Z
+Generated: 2026-10-07T23:28:55.612Z

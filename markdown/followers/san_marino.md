@@ -1,6 +1,6 @@
 # Followers - San Marino
 
-Generated: 2026-10-07T14:20:17.332Z
+Generated: 2026-10-07T23:28:25.971Z
 
 Users: 61
 
@@ -12,8 +12,8 @@ Users: 61
 | 4 | [AleRiccardi](https://github.com/AleRiccardi) | Alessandro Riccardi |  |  | San Marino | 32 |
 | 5 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 32 |
 | 6 | [stfDeveloper](https://github.com/stfDeveloper) |  |  |  | San Marino | 29 |
-| 7 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 18 |
-| 8 | [ellenico77](https://github.com/ellenico77) | Lorenzo Nicoletti | I.e.S. SpA |  | San Marino | 18 |
+| 7 | [ellenico77](https://github.com/ellenico77) | Lorenzo Nicoletti | I.e.S. SpA |  | San Marino | 19 |
+| 8 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 18 |
 | 9 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 17 |
 | 10 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 17 |
 | 11 | [nukedbit](https://github.com/nukedbit) | Sebastian Faltoni | Obsidian Game Studios s.r.l. | nukedbit | San Marino | 17 |

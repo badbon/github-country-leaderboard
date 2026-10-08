@@ -1,6 +1,6 @@
 # Uzbekistan
 
-Indexed users: 9,512
+Indexed users: 9,511
 
 | Leaderboard | Link |
 |---|---|
@@ -46,7 +46,7 @@ Indexed users: 9,512
 | 7 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
 | 8 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,527 |
 | 9 | [Maxliyo0404](https://github.com/Maxliyo0404) | Maxliyo | Tashkent | 7,727 |
-| 10 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Tashkent, Uzbekistan | 7,017 |
+| 10 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Tashkent, Uzbekistan | 6,957 |
 | 11 | [baxtiyorjongaziyev](https://github.com/baxtiyorjongaziyev) | Baxtiyorjon Gaziyev | Uzbekistan | 5,127 |
 | 12 | [Maqsud-Samatov](https://github.com/Maqsud-Samatov) | Maqsud Samatov | Uzbekistan, Termiz | 4,599 |
 | 13 | [sirliboyev-uz](https://github.com/sirliboyev-uz) | Umurzak Sirliboyev | Tashkent, Uzbekistan | 3,518 |
@@ -83,4 +83,4 @@ Indexed users: 9,512
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
 
-Generated: 2026-10-07T14:30:12.799Z
+Generated: 2026-10-07T23:40:49.587Z

@@ -14,9 +14,9 @@ Indexed users: 268
 |---:|---|---|---|---:|
 | 1 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,103 |
 | 2 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,617 |
-| 3 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,526 |
+| 3 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,533 |
 | 4 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,402 |
-| 5 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,401 |
+| 5 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,334 |
 | 6 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 3,169 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,663 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,620 |
@@ -30,8 +30,8 @@ Indexed users: 268
 | 16 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,792 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,789 |
 | 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,778 |
-| 19 | [KarmaTensel](https://github.com/KarmaTensel) | ice | Bhutan | 1,599 |
-| 20 | [kinleyrabgay](https://github.com/kinleyrabgay) | Kinley Rabgay | Thimphu, Bhutan | 1,581 |
+| 19 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung | Thimphu Bhutan | 1,729 |
+| 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice | Bhutan | 1,599 |
 
 ## Public Contributions
 
@@ -41,10 +41,10 @@ Indexed users: 268
 | 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,014 |
 | 3 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,005 |
 | 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,002 |
-| 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 920 |
+| 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
 | 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 679 |
-| 7 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 440 |
-| 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 430 |
+| 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 430 |
+| 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 397 |
 | 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 327 |
 | 10 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 297 |
 | 11 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 296 |
@@ -55,7 +55,7 @@ Indexed users: 268
 | 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 152 |
 | 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 142 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 132 |
-| 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 125 |
+| 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
 | 20 | [b1swa25](https://github.com/b1swa25) | Sandip Biswa | Bhutan | 120 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-07T14:37:44.696Z
+Generated: 2026-10-07T23:51:49.898Z
