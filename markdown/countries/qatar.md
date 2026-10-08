@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,073
+Indexed users: 1,072
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 
-Generated: 2026-10-08T07:12:12.774Z
+Generated: 2026-10-08T07:58:21.236Z

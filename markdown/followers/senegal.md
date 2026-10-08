@@ -1,8 +1,8 @@
 # Followers - Senegal
 
-Generated: 2026-10-08T07:14:30.796Z
+Generated: 2026-10-08T08:01:17.026Z
 
-Users: 1362
+Users: 1361
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

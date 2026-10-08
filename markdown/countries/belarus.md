@@ -56,7 +56,7 @@ Indexed users: 10,954
 | 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
 | 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
 | 19 | [therepanic](https://github.com/therepanic) | Andrey Litvitski | Minsk, Belarus | 1,592 |
-| 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 1,543 |
+| 20 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,954
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-08T07:28:30.020Z
+Generated: 2026-10-08T08:15:49.487Z

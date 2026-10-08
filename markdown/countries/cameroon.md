@@ -13,7 +13,7 @@ Indexed users: 1,804
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 13,081 |
-| 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 9,961 |
+| 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 11,682 |
 | 3 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,756 |
 | 4 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 8,112 |
 | 5 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,204 |
@@ -54,9 +54,9 @@ Indexed users: 1,804
 | 15 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
 | 16 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
 | 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
-| 18 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 1,299 |
-| 19 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
-| 20 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,260 |
+| 18 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
+| 19 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,260 |
+| 20 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 1,211 |
 
 ## Followers
 
@@ -72,7 +72,7 @@ Indexed users: 1,804
 | 8 | [donaldte](https://github.com/donaldte) | donald programmeur | Bamenda/Cameroon | 307 |
 | 9 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga | Yaoundé, CM | 301 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa | Cameroon | 291 |
-| 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 264 |
+| 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 272 |
 | 12 | [wisdom2608](https://github.com/wisdom2608) | Julius | Buea, Cameroon | 242 |
 | 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | Bangante, Cameroon | 238 |
 | 14 | [Daniel-TheProgrammer](https://github.com/Daniel-TheProgrammer) | Nji Daniel  | Buea,Cameroon | 227 |
@@ -83,4 +83,4 @@ Indexed users: 1,804
 | 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
 | 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 
-Generated: 2026-10-08T07:33:18.905Z
+Generated: 2026-10-08T08:18:27.541Z

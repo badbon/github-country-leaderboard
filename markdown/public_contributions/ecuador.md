@@ -1,12 +1,12 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-08T07:37:31.948Z
+Generated: 2026-10-08T08:22:49.911Z
 
 Users: 4904
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10397 |
+| 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10133 |
 | 2 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez |  |  | Ambato, Ecuador  | 9974 |
 | 3 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes |  | yeyodev | Guayaquil, Ecuador | 9477 |
 | 4 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 6973 |

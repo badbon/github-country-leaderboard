@@ -14,7 +14,7 @@ Indexed users: 4,904
 |---:|---|---|---|---:|
 | 1 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 11,911 |
 | 2 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | Ecuador | 11,630 |
-| 3 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,397 |
+| 3 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
 | 4 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 9,974 |
 | 5 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,478 |
 | 6 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
@@ -37,7 +37,7 @@ Indexed users: 4,904
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,397 |
+| 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
 | 2 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 9,974 |
 | 3 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,477 |
 | 4 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 6,973 |
@@ -83,4 +83,4 @@ Indexed users: 4,904
 | 19 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-08T07:37:31.948Z
+Generated: 2026-10-08T08:22:49.911Z

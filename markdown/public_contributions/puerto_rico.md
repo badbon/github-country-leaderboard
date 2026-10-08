@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-08T07:12:09.474Z
+Generated: 2026-10-08T07:58:17.786Z
 
 Users: 1546
 
@@ -11,7 +11,7 @@ Users: 1546
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 5162 |
 | 4 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 4936 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 3553 |
-| 6 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2710 |
+| 6 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2672 |
 | 7 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Pirate & Fox LLC | justinbhandley | Puerto Rico | 2621 |
 | 8 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 2615 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 2265 |

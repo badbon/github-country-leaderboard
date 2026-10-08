@@ -1,6 +1,6 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-08T07:14:46.832Z
+Generated: 2026-10-08T08:02:24.569Z
 
 Users: 442
 
@@ -23,6 +23,6 @@ Users: 442
 | 15 | [konneh-hub](https://github.com/konneh-hub) | Mohamed Kortu Konneh |  |  | Sierra Leone | 354 |
 | 16 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 346 |
 | 17 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Dev-Link  |  | Sierra Leone  | 316 |
-| 18 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Course Paddy | samuelmoiwa | Sierra Leone | 295 |
-| 19 | [Koigor97](https://github.com/Koigor97) | Koigor Fogbawa | KamQwik |  | Freetown, Sierra Leone | 269 |
-| 20 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh |  | _david_conteh | Freetown, SierraLeone | 252 |
+| 18 | [Koigor97](https://github.com/Koigor97) | Koigor Fogbawa | KamQwik |  | Freetown, Sierra Leone | 269 |
+| 19 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh |  | _david_conteh | Freetown, SierraLeone | 252 |
+| 20 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 247 |

@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,633
+Indexed users: 6,632
 
 | Leaderboard | Link |
 |---|---|
@@ -14,22 +14,22 @@ Indexed users: 6,633
 |---:|---|---|---|---:|
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
 | 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. | Venezuela | 13,732 |
-| 3 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
-| 4 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
-| 5 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
-| 6 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
-| 7 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
-| 8 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
-| 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
-| 10 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
-| 11 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
-| 12 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
-| 13 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
-| 14 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
-| 15 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
-| 16 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
-| 17 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
-| 18 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 6,287 |
+| 3 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 12,611 |
+| 4 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
+| 5 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
+| 6 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
+| 7 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
+| 8 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
+| 9 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
+| 10 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
+| 11 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
+| 12 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
+| 13 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
+| 14 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
+| 15 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
+| 16 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
+| 17 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
+| 18 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
 | 19 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
 | 20 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez | Caracas, Venezuela | 6,062 |
 
@@ -83,4 +83,4 @@ Indexed users: 6,633
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-08T07:23:33.617Z
+Generated: 2026-10-08T08:09:27.894Z

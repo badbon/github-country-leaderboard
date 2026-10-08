@@ -1,6 +1,6 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-08T07:33:18.905Z
+Generated: 2026-10-08T08:18:27.541Z
 
 Users: 1804
 
@@ -23,6 +23,6 @@ Users: 1804
 | 15 | [Tomdieu](https://github.com/Tomdieu) | ivantom | TrixGroup | navicorp_ | Cameroon | 1388 |
 | 16 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 1373 |
 | 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | promisefru | promisefru | Cameroon | 1360 |
-| 18 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 1299 |
-| 19 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Overbrand Company | yvan_2x | Dschang, Cameroon | 1261 |
-| 20 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1260 |
+| 18 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Overbrand Company | yvan_2x | Dschang, Cameroon | 1261 |
+| 19 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1260 |
+| 20 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 1211 |

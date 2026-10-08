@@ -20,16 +20,16 @@ Indexed users: 534
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,297 |
 | 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Gaborone, Botswana | 2,291 |
 | 8 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 2,098 |
-| 9 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,999 |
-| 10 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,982 |
-| 11 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
-| 12 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
-| 13 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,718 |
-| 14 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,652 |
-| 15 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
-| 16 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
-| 17 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
-| 18 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 1,430 |
+| 9 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,035 |
+| 10 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,999 |
+| 11 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,982 |
+| 12 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
+| 13 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
+| 14 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,718 |
+| 15 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,652 |
+| 16 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
+| 17 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
+| 18 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
 | 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,298 |
 
@@ -83,4 +83,4 @@ Indexed users: 534
 | 19 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 | 20 | [WapaEdzani](https://github.com/WapaEdzani) | Mr Edzani Wapa Omogolo | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-08T07:31:36.991Z
+Generated: 2026-10-08T08:17:16.023Z

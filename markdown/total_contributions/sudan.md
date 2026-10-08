@@ -1,8 +1,8 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-08T07:16:43.060Z
+Generated: 2026-10-08T08:05:36.649Z
 
-Users: 731
+Users: 730
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

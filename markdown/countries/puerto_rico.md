@@ -42,7 +42,7 @@ Indexed users: 1,546
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
 | 4 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 4,936 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 3,553 |
-| 6 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,710 |
+| 6 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
 | 7 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Puerto Rico | 2,621 |
 | 8 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
 | 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,265 |
@@ -83,4 +83,4 @@ Indexed users: 1,546
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-08T07:12:09.474Z
+Generated: 2026-10-08T07:58:17.786Z

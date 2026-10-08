@@ -1,13 +1,13 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-08T07:33:22.751Z
+Generated: 2026-10-08T08:18:31.831Z
 
 Users: 562
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | CVTelecom |  | Praia, Cabo Verde | 2908 |
-| 2 | [svcrashh](https://github.com/svcrashh) | crashh | Wellhub |  | Praia Grande | 2729 |
+| 1 | [svcrashh](https://github.com/svcrashh) | crashh | Wellhub |  | Praia Grande | 5964 |
+| 2 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | CVTelecom |  | Praia, Cabo Verde | 2908 |
 | 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula |  |  | Praia Grande, SP | 2598 |
 | 4 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | X.Lab (TV1) \| thiagoci.com |  | Praia Grande - SP | 1940 |
 | 5 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1799 |

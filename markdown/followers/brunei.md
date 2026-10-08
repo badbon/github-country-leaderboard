@@ -1,6 +1,6 @@
 # Followers - Brunei
 
-Generated: 2026-10-08T07:32:37.985Z
+Generated: 2026-10-08T08:17:47.319Z
 
 Users: 255
 
@@ -20,9 +20,9 @@ Users: 255
 | 12 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Universiti Brunei Darussalam |  | Brunei Darussalam | 20 |
 | 13 | [lordsayur](https://github.com/lordsayur) | Omar | Datastream Digital |  | Brunei | 18 |
 | 14 | [acyein](https://github.com/acyein) | Yein |  |  | Brunei | 17 |
-| 15 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 16 |
-| 16 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 15 |
-| 17 | [snek5](https://github.com/snek5) | Azim Anuar |  |  | Brunei | 15 |
+| 15 | [snek5](https://github.com/snek5) | Azim Anuar |  |  | Brunei | 16 |
+| 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 16 |
+| 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 15 |
 | 18 | [bahit](https://github.com/bahit) | Bahit Hamid | Bahit Designs |  | Brunei | 14 |
 | 19 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 14 |
 | 20 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 14 |

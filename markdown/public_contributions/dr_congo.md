@@ -1,8 +1,8 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-08T07:37:28.806Z
+Generated: 2026-10-08T08:22:14.931Z
 
-Users: 699
+Users: 698
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 699
 | 6 | [ElieOko](https://github.com/ElieOko) | ElieOko |  | ElieOko | Kinshasa   | 1694 |
 | 7 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | McBuleli | McBuleli | Kinshasa, DR Congo | 1347 |
 | 8 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 1293 |
-| 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinmarchae |  | Kinshasa | 1255 |
+| 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinmarchae |  | Kinshasa | 1285 |
 | 10 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki |  | drewlionel | Kinshasa, Drc | 1201 |
 | 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa |  |  | kinshasa DRC | 1166 |
 | 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI |  |  | Kinshasa, Democratic Republic of the Congo | 1082 |

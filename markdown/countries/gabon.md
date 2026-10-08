@@ -13,11 +13,11 @@ Indexed users: 315
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,987 |
-| 2 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,936 |
-| 3 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,874 |
+| 2 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,930 |
+| 3 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,871 |
 | 4 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,227 |
 | 5 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,113 |
-| 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
+| 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,046 |
 | 7 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 982 |
 | 8 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 966 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 843 |
@@ -31,20 +31,20 @@ Indexed users: 315
 | 17 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 442 |
 | 18 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 438 |
 | 19 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
-| 20 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 343 |
+| 20 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 344 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,410 |
-| 2 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,055 |
+| 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,449 |
+| 2 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,046 |
 | 3 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 982 |
 | 4 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 723 |
 | 5 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 447 |
 | 6 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 438 |
 | 7 | [FeldymZ](https://github.com/FeldymZ) | Feldy MZ | Libreville | 377 |
-| 8 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 343 |
+| 8 | [glennNTM](https://github.com/glennNTM) | Glenn Ntoutoume | Libreville - Gabon | 344 |
 | 9 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 317 |
 | 10 | [nnangassejb10](https://github.com/nnangassejb10) | gloire jb nnang | Gabon  | 303 |
 | 11 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 266 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-08T07:39:17.578Z
+Generated: 2026-10-08T08:25:49.598Z

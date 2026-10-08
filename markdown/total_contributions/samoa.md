@@ -1,6 +1,6 @@
 # Total Contributions - Samoa
 
-Generated: 2026-10-08T07:14:16.786Z
+Generated: 2026-10-08T08:00:27.079Z
 
 Users: 19
 
@@ -10,8 +10,8 @@ Users: 19
 | 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 1416 |
 | 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Synergy Blockchain Pacific Limited | Hamobcdev | Samoa | 916 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 331 |
-| 5 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Hamotech Solutions |  | Apia Samoa | 93 |
-| 6 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 91 |
+| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 94 |
+| 6 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Hamotech Solutions |  | Apia Samoa | 93 |
 | 7 | [Radr443](https://github.com/Radr443) | Radr |  |  | Samoa  | 69 |
 | 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | SPREP |  | Samoa | 44 |
 | 9 | [samos667](https://github.com/samos667) |  |  |  | Apia | 40 |

@@ -1,19 +1,19 @@
 # Followers - Yemen
 
-Generated: 2026-10-08T07:23:41.833Z
+Generated: 2026-10-08T08:10:10.245Z
 
 Users: 1211
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid |  |  | Yemen | 7557 |
-| 2 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 905 |
-| 3 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 904 |
+| 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 904 |
+| 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 891 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | @openjdk and @graalvm  |  | Yemen | 691 |
 | 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Co·founder @YemenOpenSource | watheq_show | Yemen | 403 |
 | 6 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 372 |
 | 7 | [AhmadHRai](https://github.com/AhmadHRai) | Ahmad Alrai | @ByteRunners  |  | Yemen | 358 |
-| 8 | [CS2487](https://github.com/CS2487) | Farea AL-Dhela'a | Freelance |  | Yemen, Sana’a,a | 350 |
+| 8 | [CS2487](https://github.com/CS2487) | Farea AL-Dhela'a | Freelance |  | Yemen, Sana’a,a | 349 |
 | 9 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 330 |
 | 10 | [k-j-alarashi](https://github.com/k-j-alarashi) | Khaled Jalal Al-arashi |  | k_j_alarashi | Yemen , Sana'a | 281 |
 | 11 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Freelancer |  | Yemen/Mukalla | 272 |

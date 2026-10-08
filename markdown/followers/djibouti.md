@@ -1,6 +1,6 @@
 # Followers - Djibouti
 
-Generated: 2026-10-08T07:36:50.952Z
+Generated: 2026-10-08T08:20:59.386Z
 
 Users: 55
 
@@ -15,7 +15,7 @@ Users: 55
 | 7 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 11 |
 | 8 | [nabolitains](https://github.com/nabolitains) | Charko M. |  | nabolitains | Djibouti | 11 |
 | 9 | [zeynabhabib](https://github.com/zeynabhabib) | Zeinab Habib Hassan | Université de Djibouti |  | Djibouti | 11 |
-| 10 | [Naeemalis](https://github.com/Naeemalis) | Naeemali | NAEEMSOFT |  | Djibouti  | 9 |
+| 10 | [Naeemalis](https://github.com/Naeemalis) | Naeemali | NAEEMSOFT |  | Djibouti  | 10 |
 | 11 | [inamkhosa](https://github.com/inamkhosa) | Inam | Safarifone Inc. |  | Dubai, Islamabad, Djibouti | 8 |
 | 12 | [benkhaireh](https://github.com/benkhaireh) | Mohamed Khaireh O. |  | benkhaireh | Djibouti | 7 |
 | 13 | [EngMohamedDjama](https://github.com/EngMohamedDjama) | Mohamed Djama |  | engmohameddjama | Djibouti City, Djibouti | 7 |

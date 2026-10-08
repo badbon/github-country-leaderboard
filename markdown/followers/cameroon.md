@@ -1,6 +1,6 @@
 # Followers - Cameroon
 
-Generated: 2026-10-08T07:33:18.905Z
+Generated: 2026-10-08T08:18:27.541Z
 
 Users: 1804
 
@@ -16,7 +16,7 @@ Users: 1804
 | 8 | [donaldte](https://github.com/donaldte) | donald programmeur | @HooYia | DProgrammeur | Bamenda/Cameroon | 307 |
 | 9 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga |  |  | Yaoundé, CM | 301 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa |  | Kenrique_Ngwa | Cameroon | 291 |
-| 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 264 |
+| 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 272 |
 | 12 | [wisdom2608](https://github.com/wisdom2608) | Julius |  |  | Buea, Cameroon | 242 |
 | 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | student at GIS Training Center |  | Bangante, Cameroon | 238 |
 | 14 | [Daniel-TheProgrammer](https://github.com/Daniel-TheProgrammer) | Nji Daniel  | @DANIEL-THE-PROGRAMMER  | DTP_237 | Buea,Cameroon | 227 |

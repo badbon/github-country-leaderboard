@@ -20,11 +20,11 @@ Indexed users: 470
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,472 |
 | 7 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,874 |
 | 8 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,141 |
-| 9 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,986 |
-| 10 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
-| 11 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,830 |
-| 12 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
-| 13 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,724 |
+| 9 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,000 |
+| 10 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,986 |
+| 11 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
+| 12 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,830 |
+| 13 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
 | 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,630 |
 | 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
@@ -66,7 +66,7 @@ Indexed users: 470
 | 2 | [AvineDev](https://github.com/AvineDev) | Avine Dev | Benin | 468 |
 | 3 | [Houessou1](https://github.com/Houessou1) | François-Xavier ALLA HOUESSOU  | Benin 🇧🇯 | 429 |
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 233 |
-| 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 228 |
+| 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | Cotonou, Benin | 232 |
 | 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Benin | 138 |
 | 7 | [florentak](https://github.com/florentak) | Florent Ayidedji | Cotonou, Littoral, Benin | 120 |
 | 8 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 108 |
@@ -80,7 +80,7 @@ Indexed users: 470
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
 | 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Benin, Cotonou | 79 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
-| 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
-| 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
+| 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
+| 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-08T07:29:45.174Z
+Generated: 2026-10-08T08:16:02.725Z

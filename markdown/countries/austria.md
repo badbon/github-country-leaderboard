@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,252
+Indexed users: 18,251
 
 | Leaderboard | Link |
 |---|---|
@@ -15,10 +15,10 @@ Indexed users: 18,252
 | 1 | [hapheus](https://github.com/hapheus) | Franz Haberfellner | Asten, Austria | 69,486 |
 | 2 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 33,304 |
 | 3 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz, Austria | 31,948 |
-| 4 | [preciz](https://github.com/preciz) | Barna Kovacs | Austria | 23,804 |
-| 5 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl | Austria | 22,367 |
-| 6 | [michavie](https://github.com/michavie) | Micha Vie | Austria | 21,730 |
-| 7 | [Kanevry](https://github.com/Kanevry) | Bernhard Götzendorfer | vienna | 19,100 |
+| 4 | [Kanevry](https://github.com/Kanevry) | Bernhard Götzendorfer | vienna | 31,693 |
+| 5 | [preciz](https://github.com/preciz) | Barna Kovacs | Austria | 23,804 |
+| 6 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl | Austria | 22,367 |
+| 7 | [michavie](https://github.com/michavie) | Micha Vie | Austria | 21,730 |
 | 8 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | Vienna | 17,986 |
 | 9 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | Austria | 17,494 |
 | 10 | [seeekr](https://github.com/seeekr) | Denis Andrejew | Austria | 17,429 |
@@ -83,4 +83,4 @@ Indexed users: 18,252
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-08T07:26:22.088Z
+Generated: 2026-10-08T08:15:05.575Z

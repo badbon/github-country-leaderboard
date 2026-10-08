@@ -1,8 +1,8 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-08T07:14:30.796Z
+Generated: 2026-10-08T08:01:17.026Z
 
-Users: 1362
+Users: 1361
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 1362
 | 12 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1147 |
 | 13 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1131 |
 | 14 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1067 |
-| 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 1067 |
-| 16 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
-| 17 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
-| 18 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |
-| 19 | [likemcode](https://github.com/likemcode) | josue Avuh |  |  | Dakar | 927 |
-| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |
+| 15 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
+| 16 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
+| 17 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |
+| 18 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 916 |
+| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |
+| 20 | [PapePathe](https://github.com/PapePathe) | Papa Pathé SENE | Anywhere Needed |  | Dakar Sénégal West Africa | 853 |

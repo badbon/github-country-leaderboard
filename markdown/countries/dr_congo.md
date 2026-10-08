@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 699
+Indexed users: 698
 
 | Leaderboard | Link |
 |---|---|
@@ -45,7 +45,7 @@ Indexed users: 699
 | 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,694 |
 | 7 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
 | 8 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 1,293 |
-| 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,255 |
+| 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,285 |
 | 10 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,201 |
 | 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,166 |
 | 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,082 |
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 71 |
 | 20 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 
-Generated: 2026-10-08T07:37:28.806Z
+Generated: 2026-10-08T08:22:14.931Z

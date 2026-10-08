@@ -23,11 +23,11 @@ Indexed users: 483
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,793 |
 | 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,713 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,263 |
-| 12 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 1,684 |
-| 13 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,604 |
-| 14 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,414 |
-| 15 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,355 |
-| 16 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 1,353 |
+| 12 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 2,088 |
+| 13 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Burkina Faso | 1,684 |
+| 14 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | Ouagadougou, Burkina Faso | 1,604 |
+| 15 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,414 |
+| 16 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,355 |
 | 17 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 1,291 |
 | 18 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,240 |
 | 19 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 1,213 |
@@ -50,10 +50,10 @@ Indexed users: 483
 | 11 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 629 |
 | 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 593 |
 | 13 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 543 |
-| 14 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
-| 15 | [bysmo](https://github.com/bysmo) | Modeste Marie BEGNINE SOMDA | Burkina Faso | 531 |
-| 16 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 521 |
-| 17 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 482 |
+| 14 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 539 |
+| 15 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
+| 16 | [bysmo](https://github.com/bysmo) | Modeste Marie BEGNINE SOMDA | Burkina Faso | 531 |
+| 17 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 521 |
 | 18 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 482 |
 | 19 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 439 |
 | 20 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 368 |
@@ -83,4 +83,4 @@ Indexed users: 483
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 37 |
 
-Generated: 2026-10-08T07:32:45.107Z
+Generated: 2026-10-08T08:17:54.049Z
