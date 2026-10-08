@@ -12,19 +12,19 @@ Indexed users: 87
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,179 |
+| 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,196 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,044 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,167 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,173 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,810 |
-| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,662 |
-| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,429 |
+| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,663 |
+| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,436 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,387 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 935 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 672 |
 | 10 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
 | 11 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 651 |
 | 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 615 |
-| 13 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 566 |
+| 13 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 567 |
 | 14 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
 | 15 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
 | 16 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 180 |
@@ -41,7 +41,7 @@ Indexed users: 87
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 3 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 488 |
 | 4 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
-| 5 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 310 |
+| 5 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 315 |
 | 6 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
 | 7 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 8 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative | Guadeloupe | 74 |
@@ -51,7 +51,7 @@ Indexed users: 87
 | 12 | [SioTyron](https://github.com/SioTyron) | Tyron | Guadeloupe | 46 |
 | 13 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Les Abymes, Guadeloupe | 45 |
 | 14 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 41 |
-| 15 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 39 |
+| 15 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 40 |
 | 16 | [leho971](https://github.com/leho971) | ZOZO Léo | Guadeloupe | 36 |
 | 17 | [fixups](https://github.com/fixups) | Christophe Théron | Guadeloupe | 30 |
 | 18 | [Floraline](https://github.com/Floraline) | LAPITRE Anneflore | Guadeloupe | 28 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-08T17:34:39.981Z
+Generated: 2026-10-08T18:38:29.229Z

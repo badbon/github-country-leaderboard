@@ -1,8 +1,8 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-08T17:43:34.458Z
+Generated: 2026-10-08T18:41:30.351Z
 
-Users: 800
+Users: 799
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 800
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 907 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | ZyntraChain  |  | Kuwait | 824 |
 | 13 | [amaher-developer](https://github.com/amaher-developer) | amaher.developer |  |  | Kuwait | 811 |
-| 14 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Folk Valley | fibn_cc | Kuwait | 545 |
-| 15 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 528 |
-| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 527 |
-| 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 521 |
+| 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 610 |
+| 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Folk Valley | fibn_cc | Kuwait | 545 |
+| 16 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 528 |
+| 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 527 |
 | 18 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 438 |
 | 19 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | @nizek |  | Kuwait | 435 |
 | 20 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. |  | AB_berchan | Kuwait | 434 |

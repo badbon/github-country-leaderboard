@@ -1,6 +1,6 @@
 # Public Contributions - Ivory Coast
 
-Generated: 2026-10-08T17:40:25.600Z
+Generated: 2026-10-08T18:40:20.890Z
 
 Users: 487
 
@@ -10,9 +10,9 @@ Users: 487
 | 2 | [codescooper](https://github.com/codescooper) | Code Scooper |  |  | Abidjan, Côte d'ivoire | 960 |
 | 3 | [lambirou](https://github.com/lambirou) | Roland Edi | Codivoire SARL. | lambirou225 | Abidjan, Côte d'ivoire | 894 |
 | 4 | [moasko](https://github.com/moasko) | moasko.dev |  | mouhage5 | Côte d'Ivoire | 858 |
-| 5 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 708 |
-| 6 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK |  |  | Ivory coast 🇨🇮 | 632 |
-| 7 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 592 |
+| 5 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 722 |
+| 6 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 708 |
+| 7 | [MALICK-GITH](https://github.com/MALICK-GITH) | SOLITAIRE HACK |  |  | Ivory coast 🇨🇮 | 632 |
 | 8 | [Germinator97](https://github.com/Germinator97) | AGBETOGOR Germain | @cinetpay @CinetPaySas @DonypayLab @betflow @i-fidelios |  | Abidjan, Côte-d'Ivoire | 566 |
 | 9 | [zampou-code](https://github.com/zampou-code) | Zi Code | Zi Code | Zi_Code | Abidjan, Ivory Coast | 543 |
 | 10 | [MamadouKernel](https://github.com/MamadouKernel) | Konate Mamadou |  |  | Abidjan, Côte d'ivoire | 526 |

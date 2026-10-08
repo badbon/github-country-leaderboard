@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-08T17:48:01.311Z
+Generated: 2026-10-08T18:46:10.922Z
 
 Users: 1230
 
@@ -8,7 +8,7 @@ Users: 1230
 |---:|---|---|---|---|---|---:|
 | 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3790 |
 | 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja |  | BugejaCarl | Malta | 658 |
-| 3 | [nothingismagick](https://github.com/nothingismagick) |  | @tauri-apps |  | Malta | 599 |
+| 3 | [nothingismagick](https://github.com/nothingismagick) |  | @tauri-apps |  | Malta | 603 |
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | Ethernity Cloud Ltd | Ethernity_cloud | St. Julians, Malta | 525 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Guru inc. | xiaocong | Malta | 473 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 442 |

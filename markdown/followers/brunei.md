@@ -1,6 +1,6 @@
 # Followers - Brunei
 
-Generated: 2026-10-08T17:23:51.565Z
+Generated: 2026-10-08T18:25:46.887Z
 
 Users: 255
 
@@ -24,5 +24,5 @@ Users: 255
 | 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 16 |
 | 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 15 |
 | 18 | [bahit](https://github.com/bahit) | Bahit Hamid | Bahit Designs |  | Brunei | 14 |
-| 19 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 14 |
-| 20 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 14 |
+| 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 14 |
+| 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Firdautama | affenrahim245 | Brunei Darussalam | 13 |

@@ -1,6 +1,6 @@
 # Public Contributions - Guadeloupe
 
-Generated: 2026-10-08T17:34:39.981Z
+Generated: 2026-10-08T18:38:29.229Z
 
 Users: 87
 
@@ -10,7 +10,7 @@ Users: 87
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 664 |
 | 3 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 488 |
 | 4 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 451 |
-| 5 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 310 |
+| 5 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 315 |
 | 6 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 228 |
 | 7 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |
 | 8 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative |  |  | Guadeloupe | 74 |
@@ -20,7 +20,7 @@ Users: 87
 | 12 | [SioTyron](https://github.com/SioTyron) | Tyron |  |  | Guadeloupe | 46 |
 | 13 | [bpoujol](https://github.com/bpoujol) | Basile Poujol | Lycée Baimbridge |  | Les Abymes, Guadeloupe | 45 |
 | 14 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 41 |
-| 15 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 39 |
+| 15 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 40 |
 | 16 | [leho971](https://github.com/leho971) | ZOZO Léo |  |  | Guadeloupe | 36 |
 | 17 | [fixups](https://github.com/fixups) | Christophe Théron |  |  | Guadeloupe | 30 |
 | 18 | [Floraline](https://github.com/Floraline) | LAPITRE Anneflore | Université des Antilles |  | Guadeloupe | 28 |

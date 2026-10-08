@@ -13,7 +13,7 @@ Indexed users: 255
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,814 |
-| 2 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 3,712 |
+| 2 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 3,781 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,961 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,235 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,200 |
@@ -25,7 +25,7 @@ Indexed users: 255
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 611 |
 | 12 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 516 |
 | 13 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 493 |
-| 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 489 |
+| 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 493 |
 | 15 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 395 |
 | 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 376 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 350 |
@@ -80,7 +80,7 @@ Indexed users: 255
 | 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 16 |
 | 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 15 |
 | 18 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
-| 19 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 14 |
-| 20 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
+| 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
+| 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-08T17:23:51.565Z
+Generated: 2026-10-08T18:25:46.887Z

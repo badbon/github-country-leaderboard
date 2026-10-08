@@ -23,15 +23,15 @@ Indexed users: 1,072
 | 9 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,083 |
 | 10 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,433 |
 | 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 7,392 |
-| 12 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
-| 13 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
-| 14 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
-| 15 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 5,687 |
-| 16 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
-| 17 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
-| 18 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
-| 19 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 4,706 |
-| 20 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
+| 12 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,665 |
+| 13 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
+| 14 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
+| 15 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
+| 16 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 5,687 |
+| 17 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
+| 18 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
+| 19 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
+| 20 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 4,706 |
 
 ## Public Contributions
 
@@ -48,8 +48,8 @@ Indexed users: 1,072
 | 9 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,439 |
 | 10 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 1,422 |
 | 11 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,189 |
-| 12 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,135 |
-| 13 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,117 |
+| 12 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
+| 13 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,135 |
 | 14 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,113 |
 | 15 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
 | 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
@@ -63,12 +63,12 @@ Indexed users: 1,072
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AvaoCore](https://github.com/AvaoCore) | Avao Foundation - Core | Panama | 227 |
-| 2 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 109 |
+| 2 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 110 |
 | 3 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Panama, Panama | 108 |
-| 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 101 |
-| 5 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 101 |
-| 6 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge | Panama | 98 |
-| 7 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 96 |
+| 4 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 108 |
+| 5 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 101 |
+| 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 101 |
+| 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | Panama City, Panama | 96 |
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Panama | 67 |
 | 10 | [DottieDot](https://github.com/DottieDot) | Taran | Panama | 63 |
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-08T17:57:37.259Z
+Generated: 2026-10-08T18:53:58.854Z

@@ -68,7 +68,7 @@ Indexed users: 696
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 196 |
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 184 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | kinshasa | 163 |
-| 7 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima | Kinshasa/DRC | 137 |
+| 7 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima | Kinshasa/DRC | 134 |
 | 8 | [eltazy](https://github.com/eltazy) | Michel B | Kinshasa, CD | 132 |
 | 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 129 |
 | 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 104 |
@@ -81,6 +81,6 @@ Indexed users: 696
 | 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 72 |
 | 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 71 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
-| 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 68 |
+| 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-08T17:30:06.280Z
+Generated: 2026-10-08T18:31:31.728Z

@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-08T17:50:23.575Z
+Generated: 2026-10-08T18:48:27.408Z
 
 Users: 805
 
@@ -24,5 +24,5 @@ Users: 805
 | 16 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4336 |
 | 17 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4165 |
 | 18 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4093 |
-| 19 | [Tergeltengis](https://github.com/Tergeltengis) | Tergeltengis | Nest Solutions LLC | tergeltengis | Mongolia,Ulaanbaatar | 3498 |
-| 20 | [khanka0511](https://github.com/khanka0511) | Khantushig | @coretech-asia |  | Ulaanbaatar, Mongolia | 3316 |
+| 19 | [orshih6](https://github.com/orshih6) | Бат-Орших |  |  | Ulaanbaatar, Mongolia | 3734 |
+| 20 | [Tergeltengis](https://github.com/Tergeltengis) | Tergeltengis | Nest Solutions LLC | tergeltengis | Mongolia,Ulaanbaatar | 3498 |

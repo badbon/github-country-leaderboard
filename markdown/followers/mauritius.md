@@ -1,12 +1,12 @@
 # Followers - Mauritius
 
-Generated: 2026-10-08T17:48:32.575Z
+Generated: 2026-10-08T18:48:01.654Z
 
-Users: 718
+Users: 717
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 714 |
+| 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 713 |
 | 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Marc Lamberti |  | Mauritius | 625 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | GotechMu | thatstraw | Mauritius | 584 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 300 |
@@ -23,6 +23,6 @@ Users: 718
 | 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner |  | gaming_shar | Mauritius | 84 |
 | 16 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 81 |
 | 17 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | @funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices | MariusRabenariv | Mauritius | 80 |
-| 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | @livestorm | arwinneil | Mauritius | 73 |
-| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 73 |
+| 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | @livestorm | arwinneil | Mauritius | 75 |
+| 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | RAPP Indian Ocean |  | Mauritius | 65 |

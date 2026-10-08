@@ -52,11 +52,11 @@ Indexed users: 562
 | 13 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Praia Grande -SP | 302 |
 | 14 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa | Praia Grande, SP | 301 |
 | 15 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 251 |
-| 16 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho | Cape Verde | 210 |
-| 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 197 |
-| 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 186 |
-| 19 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Praia Grande - SC | 185 |
-| 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
+| 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 197 |
+| 17 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 186 |
+| 18 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Praia Grande - SC | 185 |
+| 19 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
+| 20 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 180 |
 
 ## Followers
 
@@ -75,12 +75,12 @@ Indexed users: 562
 | 11 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes | Praia - Cabo Verde | 92 |
 | 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES | Praia Grande - SP - Brazil | 88 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 81 |
-| 14 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida | Praia Grande | 74 |
-| 15 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  | Praia Grande - SP  | 73 |
+| 14 | [emimuniz](https://github.com/emimuniz) | Emillyn Muniz  | Praia Grande - SP  | 75 |
+| 15 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida | Praia Grande | 74 |
 | 16 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos | Praia Grande - SP | 72 |
 | 17 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 59 |
 | 18 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 58 |
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
-| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 53 |
+| 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-08T17:24:50.003Z
+Generated: 2026-10-08T18:27:37.527Z

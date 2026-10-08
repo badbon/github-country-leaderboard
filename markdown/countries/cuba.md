@@ -17,11 +17,11 @@ Indexed users: 1,292
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 13,269 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,299 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 7,235 |
-| 6 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
-| 7 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 5,782 |
-| 8 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,721 |
-| 9 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
-| 10 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 5,098 |
+| 6 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 6,832 |
+| 7 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
+| 8 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 5,782 |
+| 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,721 |
+| 10 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
 | 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
 | 13 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 3,563 |
@@ -83,4 +83,4 @@ Indexed users: 1,292
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-08T18:15:24.235Z
+Generated: 2026-10-08T18:30:18.009Z

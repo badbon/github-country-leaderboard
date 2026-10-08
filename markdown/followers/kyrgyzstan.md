@@ -1,6 +1,6 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-08T17:43:38.202Z
+Generated: 2026-10-08T18:41:34.788Z
 
 Users: 2455
 
@@ -15,7 +15,7 @@ Users: 2455
 | 7 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | @auca |  | Bishkek | 176 |
 | 8 | [songhee24](https://github.com/songhee24) | Azamat |  |  | Kyrgyzstan | 144 |
 | 9 | [Alymbekov](https://github.com/Alymbekov) |  | Boomerang |  | Bishkek, Kyrgyzstan | 141 |
-| 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | @Svag-gamesss @Microsoft |  | Bishkek | 128 |
+| 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | @Svag-gamesss @Microsoft |  | Bishkek | 127 |
 | 11 | [CyberLight](https://github.com/CyberLight) | Aleksandr Vishniakov |  |  | Kyrgyzstan | 125 |
 | 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym |  |  | Kyrgyzstan | 120 |
 | 13 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | App IT Company |  | Kyrgyzstan | 113 |

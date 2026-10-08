@@ -1,6 +1,6 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-08T17:28:59.869Z
+Generated: 2026-10-08T18:30:10.260Z
 
 Users: 5642
 
@@ -22,7 +22,7 @@ Users: 5642
 | 14 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Universidad Nacional de Costa Rica |  | Costa Rica | 2263 |
 | 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | TEC |  | Costa Rica | 2028 |
 | 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 1978 |
-| 17 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |
-| 18 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |
-| 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 1803 |
-| 20 | [quesadx](https://github.com/quesadx) | Matteo Quesada |  |  | Costa Rica | 1704 |
+| 17 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) |  |  | Costa Rica  | 1927 |
+| 18 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |
+| 19 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |
+| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 1803 |

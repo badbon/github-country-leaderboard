@@ -1,6 +1,6 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-08T17:33:24.802Z
+Generated: 2026-10-08T18:36:56.793Z
 
 Users: 93
 
@@ -10,8 +10,8 @@ Users: 93
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5677 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 4947 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz |  |  | Gibraltar | 3256 |
-| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 2161 |
-| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 1379 |
+| 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 2166 |
+| 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 1380 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas |  |  | Gibraltar, GI | 1278 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora |  | lluismh | Gibraltar | 1173 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 835 |

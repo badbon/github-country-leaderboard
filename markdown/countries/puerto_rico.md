@@ -13,13 +13,13 @@ Indexed users: 1,539
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 34,914 |
-| 2 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 17,279 |
-| 3 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 17,003 |
-| 4 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 11,607 |
-| 5 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,074 |
-| 6 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | San Juan, PR | 7,470 |
-| 7 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
-| 8 | [0xPlayerOne](https://github.com/0xPlayerOne) | NiftyAndy | San Juan, PR 🇵🇷 | 6,177 |
+| 2 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 18,486 |
+| 3 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 17,279 |
+| 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 17,003 |
+| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 11,607 |
+| 6 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,074 |
+| 7 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | San Juan, PR | 7,470 |
+| 8 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
 | 9 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
 | 10 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
 | 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 5,992 |
@@ -37,8 +37,8 @@ Indexed users: 1,539
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
-| 2 | [0xPlayerOne](https://github.com/0xPlayerOne) | NiftyAndy | San Juan, PR 🇵🇷 | 5,196 |
+| 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 16,639 |
+| 2 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
 | 4 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 4,936 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 3,553 |
@@ -83,4 +83,4 @@ Indexed users: 1,539
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-08T17:58:19.203Z
+Generated: 2026-10-08T18:55:47.334Z

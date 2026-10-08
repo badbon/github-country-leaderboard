@@ -1,8 +1,8 @@
 # Total Contributions - Romania
 
-Generated: 2026-10-08T18:00:33.847Z
+Generated: 2026-10-08T18:56:14.692Z
 
-Users: 14991
+Users: 14990
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

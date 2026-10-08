@@ -1,6 +1,6 @@
 # Public Contributions - Panama
 
-Generated: 2026-10-08T17:57:37.259Z
+Generated: 2026-10-08T18:53:58.854Z
 
 Users: 1072
 
@@ -17,8 +17,8 @@ Users: 1072
 | 9 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal |  |  | Panama City, Panama | 1439 |
 | 10 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Oberon Solutions |  | Panama | 1422 |
 | 11 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu |  |  | Panama | 1189 |
-| 12 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Semiotic AI |  | Panama City, Panama | 1135 |
-| 13 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Toyota \| Ricardo Perez S.A. |  | Panama | 1117 |
+| 12 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Toyota \| Ricardo Perez S.A. |  | Panama | 1138 |
+| 13 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Semiotic AI |  | Panama City, Panama | 1135 |
 | 14 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Full-Stack Software Developer |  | Panama/Venezuela | 1113 |
 | 15 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Runlevel Systems |  | Panama City Beach FL | 1096 |
 | 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira |  |  | Panama | 942 |

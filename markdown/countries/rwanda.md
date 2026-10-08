@@ -47,16 +47,16 @@ Indexed users: 3,525
 | 8 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 4,338 |
 | 9 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 4,278 |
 | 10 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,003 |
-| 11 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 3,820 |
-| 12 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,623 |
+| 11 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
+| 12 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 3,820 |
 | 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 2,662 |
 | 14 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 2,586 |
-| 15 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
-| 16 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | Kigali, Rwanda | 2,403 |
-| 17 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Kigali,Rwanda | 2,365 |
-| 18 | [system-Barinda](https://github.com/system-Barinda) | system sylvere BARINDA | Muhanga,    Kigali, Rwanda | 2,347 |
-| 19 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick | Kigali, Rwanda | 2,302 |
-| 20 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | Kigali | 2,299 |
+| 15 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
+| 16 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
+| 17 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | Kigali, Rwanda | 2,403 |
+| 18 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Kigali,Rwanda | 2,365 |
+| 19 | [system-Barinda](https://github.com/system-Barinda) | system sylvere BARINDA | Muhanga,    Kigali, Rwanda | 2,347 |
+| 20 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick | Kigali, Rwanda | 2,302 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,525
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 315 |
 | 20 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 
-Generated: 2026-10-08T18:01:13.670Z
+Generated: 2026-10-08T18:56:52.822Z

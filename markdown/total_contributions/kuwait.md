@@ -1,8 +1,8 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-08T17:43:34.458Z
+Generated: 2026-10-08T18:41:30.351Z
 
-Users: 800
+Users: 799
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,11 +14,11 @@ Users: 800
 | 6 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 4922 |
 | 7 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 4723 |
 | 8 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 4418 |
-| 9 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 3599 |
-| 10 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3262 |
-| 11 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3176 |
-| 12 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3150 |
-| 13 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 3109 |
+| 9 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 3909 |
+| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 3599 |
+| 11 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3262 |
+| 12 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3176 |
+| 13 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3150 |
 | 14 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3076 |
 | 15 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3067 |
 | 16 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3057 |

@@ -62,7 +62,7 @@ Indexed users: 59
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,517 |
+| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,519 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,224 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,024 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 291 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 9 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-08T17:34:33.714Z
+Generated: 2026-10-08T18:37:53.053Z

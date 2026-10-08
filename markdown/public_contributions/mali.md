@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-08T17:47:55.434Z
+Generated: 2026-10-08T18:45:35.388Z
 
 Users: 347
 
@@ -23,6 +23,6 @@ Users: 347
 | 15 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 199 |
 | 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 185 |
 | 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
-| 18 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse |  |  | Mali(Bamako) | 148 |
-| 19 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 145 |
+| 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 145 |
+| 19 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse |  |  | Mali(Bamako) | 145 |
 | 20 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 144 |

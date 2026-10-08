@@ -1,6 +1,6 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-08T17:51:04.663Z
+Generated: 2026-10-08T18:49:35.631Z
 
 Users: 1175
 
@@ -16,11 +16,11 @@ Users: 1175
 | 8 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 936 |
 | 9 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | @pavulla-tech  |  | Mozambique | 721 |
 | 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | FDS | FilipeD30920066 | Mozambique | 690 |
-| 11 | [djafta](https://github.com/djafta) | Djafta | @Aervel |  | Mozambique | 673 |
-| 12 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 664 |
-| 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | ANOVAFASE |  | maputo, Mozambique | 644 |
-| 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao |  | Arcides_ | Mozambique | 630 |
-| 15 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 610 |
+| 11 | [djafta](https://github.com/djafta) | Djafta | @Aervel |  | Mozambique | 674 |
+| 12 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | ANOVAFASE |  | maputo, Mozambique | 644 |
+| 13 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao |  | Arcides_ | Mozambique | 630 |
+| 14 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 610 |
+| 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 598 |
 | 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Wit Software |  | Mocambique - Maputo | 564 |
 | 17 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | CarsaiMz |  | Mozambique | 563 |
 | 18 | [iamzjohn](https://github.com/iamzjohn) | zJohn | @stacksjs |  | Maputo, Mozambique | 556 |

@@ -1,13 +1,13 @@
 # Total Contributions - Brunei
 
-Generated: 2026-10-08T17:23:51.565Z
+Generated: 2026-10-08T18:25:46.887Z
 
 Users: 255
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5814 |
-| 2 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 3712 |
+| 2 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 3781 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 2961 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan |  |  | Brunei | 2235 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi |  |  | Brunei | 1200 |
@@ -19,7 +19,7 @@ Users: 255
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi |  |  | Brunei Darussalam | 611 |
 | 12 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 516 |
 | 13 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri |  |  | Brunei Darussalam | 493 |
-| 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 489 |
+| 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 493 |
 | 15 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 395 |
 | 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | @Datastream-Digital  |  | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 376 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 350 |

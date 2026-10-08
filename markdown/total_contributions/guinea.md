@@ -1,6 +1,6 @@
 # Total Contributions - Guinea
 
-Generated: 2026-10-08T17:35:34.503Z
+Generated: 2026-10-08T18:38:40.371Z
 
 Users: 264
 
@@ -16,7 +16,7 @@ Users: 264
 | 8 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy |  | souleymanesy43 | Guinée, Conakry | 2227 |
 | 9 | [sudomarc](https://github.com/sudomarc) | marco_ |  |  | Guinée Conakry  | 2211 |
 | 10 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | NIMBADEV |  | Conakry  | 2053 |
-| 11 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Nimba Solution | CisseCellou | Conakry, Guinée | 1939 |
+| 11 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Nimba Solution | CisseCellou | Conakry, Guinée | 1930 |
 | 12 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | DIGIFORMAX | adbrim | CONAKRY | 1839 |
 | 13 | [sitatec](https://github.com/sitatec) | Sita Bérété | Dwino AI |  | Conakry, Guinea | 1823 |
 | 14 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé |  |  | Guinea | 1502 |

@@ -13,9 +13,9 @@ Indexed users: 2,455
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 20,158 |
-| 2 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 11,809 |
-| 3 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 11,207 |
-| 4 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 10,596 |
+| 2 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 11,207 |
+| 3 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 10,596 |
+| 4 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
 | 5 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 9,034 |
 | 6 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov | Bishkek | 9,010 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,581 |
@@ -25,19 +25,19 @@ Indexed users: 2,455
 | 11 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | Kyrgyzstan | 5,086 |
 | 12 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov | Bishkek, Kyrgyzstan | 5,027 |
 | 13 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
-| 14 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
-| 15 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
-| 16 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
-| 17 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
-| 18 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
-| 19 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
-| 20 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,615 |
+| 14 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
+| 15 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
+| 16 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
+| 17 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
+| 18 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
+| 19 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
+| 20 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 11,809 |
+| 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
 | 2 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,599 |
 | 3 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,485 |
 | 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,248 |
@@ -71,7 +71,7 @@ Indexed users: 2,455
 | 7 | [toksaitov](https://github.com/toksaitov) | Toksaitov Dmitrii Alexandrovich | Bishkek | 176 |
 | 8 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 144 |
 | 9 | [Alymbekov](https://github.com/Alymbekov) |  | Bishkek, Kyrgyzstan | 141 |
-| 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | Bishkek | 128 |
+| 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | Bishkek | 127 |
 | 11 | [CyberLight](https://github.com/CyberLight) | Aleksandr Vishniakov | Kyrgyzstan | 125 |
 | 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 120 |
 | 13 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | Kyrgyzstan | 113 |
@@ -83,4 +83,4 @@ Indexed users: 2,455
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-08T17:43:38.202Z
+Generated: 2026-10-08T18:41:34.788Z

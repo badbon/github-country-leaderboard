@@ -1,6 +1,6 @@
 # Followers - DR Congo
 
-Generated: 2026-10-08T17:30:06.280Z
+Generated: 2026-10-08T18:31:31.728Z
 
 Users: 696
 
@@ -12,7 +12,7 @@ Users: 696
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | ICTECH |  | Kinshasa | 196 |
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | KDEA Academy | s_kinyamba | DR CONGO | 184 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | geek genius |  | kinshasa | 163 |
-| 7 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima |  | AfricanboyKiima | Kinshasa/DRC | 137 |
+| 7 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima |  | AfricanboyKiima | Kinshasa/DRC | 134 |
 | 8 | [eltazy](https://github.com/eltazy) | Michel B | @KadeaAcademy   |  | Kinshasa, CD | 132 |
 | 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 129 |
 | 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka |  | oesukam | Kinshasa, Nairobi, Kigali | 104 |
@@ -25,4 +25,4 @@ Users: 696
 | 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Lussi | joellusavuvu | Kinshasa, RDCongo  | 72 |
 | 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | @guidelightfoundation | johnmbiya | Kinshasa | 71 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Dev Artefact | bolenge_ | Congo - Kinshasa | 69 |
-| 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | @KinshasaDigitalAcademy  | MwanyaChristian | kinshasa | 68 |
+| 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | @KinshasaDigitalAcademy  | MwanyaChristian | kinshasa | 69 |

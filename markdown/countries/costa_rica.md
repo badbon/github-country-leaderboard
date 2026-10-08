@@ -53,10 +53,10 @@ Indexed users: 5,642
 | 14 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,263 |
 | 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
 | 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
-| 17 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
-| 18 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
-| 19 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
-| 20 | [quesadx](https://github.com/quesadx) | Matteo Quesada | Costa Rica | 1,704 |
+| 17 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) | Costa Rica  | 1,927 |
+| 18 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
+| 19 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
+| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,642
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-08T17:28:59.869Z
+Generated: 2026-10-08T18:30:10.260Z

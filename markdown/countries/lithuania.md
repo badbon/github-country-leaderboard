@@ -1,6 +1,6 @@
 # Lithuania
 
-Indexed users: 5,402
+Indexed users: 5,400
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,402
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-08T17:46:54.654Z
+Generated: 2026-10-08T18:43:36.181Z

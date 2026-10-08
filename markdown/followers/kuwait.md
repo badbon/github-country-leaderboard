@@ -1,8 +1,8 @@
 # Followers - Kuwait
 
-Generated: 2026-10-08T17:43:34.458Z
+Generated: 2026-10-08T18:41:30.351Z
 
-Users: 800
+Users: 799
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

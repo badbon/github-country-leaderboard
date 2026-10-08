@@ -54,8 +54,8 @@ Indexed users: 347
 | 15 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 199 |
 | 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
 | 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
-| 18 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 148 |
-| 19 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
+| 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
+| 19 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 145 |
 | 20 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-08T17:47:55.434Z
+Generated: 2026-10-08T18:45:35.388Z

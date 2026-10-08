@@ -48,15 +48,15 @@ Indexed users: 484
 | 9 | [Gbangou](https://github.com/Gbangou) | Pascal GBANGOU | Ouagadougou, Burkina Faso | 754 |
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 634 |
 | 11 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 629 |
-| 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 593 |
+| 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 628 |
 | 13 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 543 |
 | 14 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 539 |
 | 15 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
-| 16 | [bysmo](https://github.com/bysmo) | Modeste Marie BEGNINE SOMDA | Burkina Faso | 531 |
-| 17 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 521 |
-| 18 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 482 |
-| 19 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 439 |
-| 20 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 374 |
+| 16 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 521 |
+| 17 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 482 |
+| 18 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 439 |
+| 19 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 374 |
+| 20 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  | Burkina Faso | 368 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 484
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-08T17:27:14.456Z
+Generated: 2026-10-08T18:26:21.236Z

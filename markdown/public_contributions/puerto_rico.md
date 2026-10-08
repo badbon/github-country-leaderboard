@@ -1,13 +1,13 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-08T17:58:19.203Z
+Generated: 2026-10-08T18:55:47.334Z
 
 Users: 1539
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
-| 2 | [0xPlayerOne](https://github.com/0xPlayerOne) | NiftyAndy | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 5196 |
+| 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 16639 |
+| 2 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 5162 |
 | 4 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 4936 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 3553 |

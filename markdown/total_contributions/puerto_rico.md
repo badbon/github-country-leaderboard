@@ -1,19 +1,19 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-08T17:58:19.203Z
+Generated: 2026-10-08T18:55:47.334Z
 
 Users: 1539
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 34914 |
-| 2 | [mattvv](https://github.com/mattvv) | Matt Van | @proofofplay |  | San Juan, Puerto Rico | 17279 |
-| 3 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | @DRM3Labs  | 7SigmaCompanies | Orlando FL \| Seattle WA \| San Juan PR | 17003 |
-| 4 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 11607 |
-| 5 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 10074 |
-| 6 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | Betabit LLC | yoaquim | San Juan, PR | 7470 |
-| 7 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
-| 8 | [0xPlayerOne](https://github.com/0xPlayerOne) | NiftyAndy | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 6177 |
+| 2 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 18486 |
+| 3 | [mattvv](https://github.com/mattvv) | Matt Van | @proofofplay |  | San Juan, Puerto Rico | 17279 |
+| 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | @DRM3Labs  | 7SigmaCompanies | Orlando FL \| Seattle WA \| San Juan PR | 17003 |
+| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 11607 |
+| 6 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 10074 |
+| 7 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | Betabit LLC | yoaquim | San Juan, PR | 7470 |
+| 8 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
 | 9 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
 | 10 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
 | 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 5992 |

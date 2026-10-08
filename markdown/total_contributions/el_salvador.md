@@ -1,8 +1,8 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-08T17:31:04.419Z
+Generated: 2026-10-08T18:44:48.867Z
 
-Users: 2384
+Users: 2386
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,9 +19,9 @@ Users: 2384
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo |  |  | San Salvador, El Salvador | 4921 |
 | 12 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 4728 |
 | 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4614 |
-| 14 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
-| 15 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |
-| 16 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4138 |
+| 14 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
+| 15 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
+| 16 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |
 | 17 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera |  |  | El Salvador | 4081 |
 | 18 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4031 |
 | 19 | [ferventurart](https://github.com/ferventurart) | Fernando Ventura |  |  | El Salvador | 3935 |

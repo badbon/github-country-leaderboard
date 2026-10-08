@@ -30,7 +30,7 @@ Indexed users: 291
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,141 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,105 |
 | 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 995 |
-| 19 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 940 |
+| 19 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 950 |
 | 20 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Plymouth Rock | 938 |
 
 ## Public Contributions
@@ -40,12 +40,12 @@ Indexed users: 291
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 3,973 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,417 |
-| 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 940 |
+| 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 950 |
 | 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 790 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 678 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 520 |
-| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 465 |
+| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 461 |
 | 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 405 |
 | 11 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 355 |
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 347 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-08T17:50:30.733Z
+Generated: 2026-10-08T18:48:36.354Z

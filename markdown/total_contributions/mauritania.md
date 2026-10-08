@@ -1,12 +1,12 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-08T17:48:28.523Z
+Generated: 2026-10-08T18:47:15.100Z
 
 Users: 288
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 11702 |
+| 1 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 11771 |
 | 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 11236 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 9695 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 8339 |

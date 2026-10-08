@@ -13,7 +13,7 @@ Indexed users: 176
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine | Niamey, Niger | 9,333 |
-| 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil | Niger | 3,351 |
+| 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil | Niger | 3,357 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 3,028 |
 | 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | Niamey, Niger | 2,160 |
 | 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,762 |
@@ -21,7 +21,7 @@ Indexed users: 176
 | 7 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,140 |
 | 8 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,120 |
 | 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 965 |
-| 10 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 943 |
+| 10 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 944 |
 | 11 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 874 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 773 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 750 |
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-08T17:53:51.165Z
+Generated: 2026-10-08T18:51:38.057Z

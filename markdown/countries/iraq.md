@@ -15,9 +15,9 @@ Indexed users: 2,250
 | 1 | [gcp64](https://github.com/gcp64) | Mr.bob | Iraq | 2,205,846 |
 | 2 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | Erbil, Iraq | 18,551 |
 | 3 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 9,376 |
-| 4 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 8,747 |
-| 5 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,011 |
-| 6 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 7,776 |
+| 4 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 9,000 |
+| 5 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 8,747 |
+| 6 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,011 |
 | 7 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,758 |
 | 8 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 7,304 |
 | 9 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,728 |
@@ -83,4 +83,4 @@ Indexed users: 2,250
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-08T17:38:57.537Z
+Generated: 2026-10-08T18:39:58.620Z

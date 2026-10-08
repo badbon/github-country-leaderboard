@@ -1,6 +1,6 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-08T18:15:24.235Z
+Generated: 2026-10-08T18:30:18.009Z
 
 Users: 1292
 
@@ -11,11 +11,11 @@ Users: 1292
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 13269 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | @begonlabs  | Walkercitodt | 🌍 Coding from Cienfuegos, Cuba | 12299 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 7235 |
-| 6 | [IhanMo18](https://github.com/IhanMo18) | Ihan |  |  | Cuba | 5976 |
-| 7 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 5782 |
-| 8 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 5721 |
-| 9 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | dofleini software | ucicarlos | Havana, Cuba | 5263 |
-| 10 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés |  |  | Santa Clara, Cuba. | 5098 |
+| 6 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés |  |  | Santa Clara, Cuba. | 6832 |
+| 7 | [IhanMo18](https://github.com/IhanMo18) | Ihan |  |  | Cuba | 5976 |
+| 8 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 5782 |
+| 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 5721 |
+| 10 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | dofleini software | ucicarlos | Havana, Cuba | 5263 |
 | 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4316 |
 | 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez |  |  | Havana, Cuba | 3832 |
 | 13 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Inperia | gustavoylc | Cuba | 3563 |

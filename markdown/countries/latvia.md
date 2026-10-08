@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,279
+Indexed users: 3,276
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,279
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-08T17:43:44.985Z
+Generated: 2026-10-08T18:41:52.898Z

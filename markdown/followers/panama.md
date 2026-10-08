@@ -1,18 +1,18 @@
 # Followers - Panama
 
-Generated: 2026-10-08T17:57:37.259Z
+Generated: 2026-10-08T18:53:58.854Z
 
 Users: 1072
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [AvaoCore](https://github.com/AvaoCore) | Avao Foundation - Core |  | AvaoFoundation | Panama | 227 |
-| 2 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Procter & Gamble | mariajosemvv | Panama City, Panama | 109 |
+| 2 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Procter & Gamble | mariajosemvv | Panama City, Panama | 110 |
 | 3 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Solusoft |  | Panama, Panama | 108 |
-| 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 101 |
-| 5 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | Goodfellas & CreditHub | lfamorim | San Blas, Panama | 101 |
-| 6 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge |  |  | Panama | 98 |
-| 7 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 96 |
+| 4 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 108 |
+| 5 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 101 |
+| 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | Goodfellas & CreditHub | lfamorim | San Blas, Panama | 101 |
+| 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge |  |  | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | DATA ACQUISITION SYSTEMS, S.A. | daqsyspty | Panama City, Panama | 96 |
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Freelance |  | Panama | 67 |
 | 10 | [DottieDot](https://github.com/DottieDot) | Taran |  |  | Panama | 63 |
