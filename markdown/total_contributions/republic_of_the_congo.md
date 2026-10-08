@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-08T00:33:44.720Z
+Generated: 2026-10-08T01:49:43.569Z
 
 Users: 299
 
@@ -12,7 +12,7 @@ Users: 299
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3891 |
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3798 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3075 |
-| 7 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 3003 |
+| 7 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2929 |
 | 8 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2882 |
 | 9 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2804 |
 | 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2663 |
@@ -22,7 +22,7 @@ Users: 299
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2084 |
 | 15 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1944 |
 | 16 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1680 |
-| 17 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1408 |
+| 17 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1318 |
 | 18 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | NOVATECH |  | Brazzaville | 1300 |
 | 19 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 1295 |
 | 20 | [LeBigLester](https://github.com/LeBigLester) | IBALA Emmanuel Amour-Bonté | webtinix |  | Brazzaville | 1181 |

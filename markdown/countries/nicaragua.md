@@ -1,6 +1,6 @@
 # Nicaragua
 
-Indexed users: 1,403
+Indexed users: 1,402
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,403
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-08T00:27:09.795Z
+Generated: 2026-10-08T01:43:17.897Z

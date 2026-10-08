@@ -1,12 +1,12 @@
 # Followers - Somalia
 
-Generated: 2026-10-08T00:41:37.991Z
+Generated: 2026-10-08T01:55:57.354Z
 
 Users: 863
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | IRISE |  | Mogadishu  | 794 |
+| 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | IRISE |  | Mogadishu  | 784 |
 | 2 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | OMARJIBRII | Somalia | 574 |
 | 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | sharmacadenuur2017@gmail.com | formula_crazy | Somalia-Mogadishu  | 538 |
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Jamhuriya Technology Solutions | Ahmeddhaqan | Mogadishu, Somalia | 344 |

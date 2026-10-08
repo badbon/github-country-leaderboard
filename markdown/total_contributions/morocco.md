@@ -1,6 +1,6 @@
 # Total Contributions - Morocco
 
-Generated: 2026-10-08T00:25:22.058Z
+Generated: 2026-10-08T01:38:16.487Z
 
 Users: 9664
 
@@ -19,10 +19,10 @@ Users: 9664
 | 11 | [Oussail](https://github.com/Oussail) | Oussail |  |  | Morocco | 7473 |
 | 12 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Tousfacteurs | yoeunes | Marrakech, Morocco | 7304 |
 | 13 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR |  |  | Morocco | 7095 |
-| 14 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Harch Corp |  | Casablanca, Morocco | 6916 |
-| 15 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Teneo Protocol | KhalilSelyan | Marrakesh, Morocco | 6851 |
-| 16 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | @NewTags @EisarApp |  | Morocco | 6527 |
-| 17 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | @XCO-Agency  | ansezz | Meknes, Morocco | 6411 |
-| 18 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Adria Business & Technology |  | Morocco | 6318 |
-| 19 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | @Phaxel-edi |  | Casablanca, Morocco | 6137 |
-| 20 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Open Source Contributor | seuross | Tangier, Morocco | 6059 |
+| 14 | [tawachdev](https://github.com/tawachdev) | Mohamed Taaouach | Independent Product Engineer |  | Khenifra, Morocco | 7089 |
+| 15 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Harch Corp |  | Casablanca, Morocco | 6916 |
+| 16 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Teneo Protocol | KhalilSelyan | Marrakesh, Morocco | 6851 |
+| 17 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | @NewTags @EisarApp |  | Morocco | 6527 |
+| 18 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | @XCO-Agency  | ansezz | Meknes, Morocco | 6411 |
+| 19 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Adria Business & Technology |  | Morocco | 6318 |
+| 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | @Phaxel-edi |  | Casablanca, Morocco | 6137 |

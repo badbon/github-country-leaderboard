@@ -1,8 +1,8 @@
 # Followers - Moldova
 
-Generated: 2026-10-08T00:23:24.683Z
+Generated: 2026-10-08T01:37:51.448Z
 
-Users: 1768
+Users: 1766
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

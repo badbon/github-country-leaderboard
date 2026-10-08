@@ -1,13 +1,13 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-08T00:33:44.720Z
+Generated: 2026-10-08T01:49:43.569Z
 
 Users: 299
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | SnapTech DRC | alexis_ngab | Goma, Congo | 318 |
-| 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 209 |
+| 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | CHRONOSS GAMES | chronoss09 | Congo | 211 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 206 |
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Auctux |  | Congo | 108 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu |  | AdalbertPungu | Congo (DRC) | 102 |

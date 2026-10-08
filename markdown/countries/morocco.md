@@ -25,13 +25,13 @@ Indexed users: 9,664
 | 11 | [Oussail](https://github.com/Oussail) | Oussail | Morocco | 7,473 |
 | 12 | [yoeunes](https://github.com/yoeunes) | Younes ENNAJI | Marrakech, Morocco | 7,304 |
 | 13 | [ANOUAR00-1](https://github.com/ANOUAR00-1) | ANOUAR BENTAHAR | Morocco | 7,095 |
-| 14 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 6,916 |
-| 15 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Marrakesh, Morocco | 6,851 |
-| 16 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | Morocco | 6,527 |
-| 17 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | Meknes, Morocco | 6,411 |
-| 18 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Morocco | 6,318 |
-| 19 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 6,137 |
-| 20 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Tangier, Morocco | 6,059 |
+| 14 | [tawachdev](https://github.com/tawachdev) | Mohamed Taaouach | Khenifra, Morocco | 7,089 |
+| 15 | [Vitalcheffe](https://github.com/Vitalcheffe) | Amine Harch el korane | Casablanca, Morocco | 6,916 |
+| 16 | [KhalilSelyan](https://github.com/KhalilSelyan) | Khalil Selyan | Marrakesh, Morocco | 6,851 |
+| 17 | [HoceineEl](https://github.com/HoceineEl) | Hoceine EL IDRISSI | Morocco | 6,527 |
+| 18 | [ansezz](https://github.com/ansezz) | Anass Ez-zouaine | Meknes, Morocco | 6,411 |
+| 19 | [aimranee](https://github.com/aimranee) | Aimrane Essakhi | Morocco | 6,318 |
+| 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 6,137 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 9,664
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-08T00:25:22.058Z
+Generated: 2026-10-08T01:38:16.487Z

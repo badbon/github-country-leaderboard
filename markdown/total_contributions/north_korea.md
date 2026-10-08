@@ -1,12 +1,12 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-08T00:28:28.408Z
+Generated: 2026-10-08T01:44:51.643Z
 
 Users: 185
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 5740 |
+| 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 5751 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 4710 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 3561 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2494 |
@@ -22,7 +22,7 @@ Users: 185
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 490 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 376 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 367 |
-| 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 344 |
+| 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 351 |
 | 18 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 298 |
 | 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 264 |
 | 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | Samsung |  | North korea | 227 |

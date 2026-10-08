@@ -12,15 +12,15 @@ Indexed users: 61
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 11,265 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 11,331 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,555 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,181 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,131 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,306 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,266 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,169 |
-| 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,055 |
-| 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 898 |
+| 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,052 |
+| 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 894 |
 | 10 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 756 |
 | 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 753 |
 | 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 736 |
@@ -38,7 +38,7 @@ Indexed users: 61
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,214 |
-| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 898 |
+| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 894 |
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 489 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 311 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 284 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-08T00:37:53.193Z
+Generated: 2026-10-08T01:52:36.485Z

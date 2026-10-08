@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-08T00:28:28.408Z
+Generated: 2026-10-08T01:44:51.643Z
 
 Users: 185
 
@@ -10,7 +10,7 @@ Users: 185
 | 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 730 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
-| 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 343 |
+| 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 350 |
 | 6 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 221 |
 | 7 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 206 |
 | 8 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 206 |
@@ -24,5 +24,5 @@ Users: 185
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 137 |
 | 17 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace |  |  | Pyongyang, Democrat People's Republic of Korea | 95 |
 | 18 | [lavrentious](https://github.com/lavrentious) | lavrent | ITMO University |  | Democratic People's Republic of Korea | 91 |
-| 19 | [l0ji](https://github.com/l0ji) | penny |  |  | Pyongyang | 83 |
+| 19 | [l0ji](https://github.com/l0ji) | penny |  |  | Pyongyang | 82 |
 | 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 81 |

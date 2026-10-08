@@ -1,8 +1,8 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-08T00:23:24.683Z
+Generated: 2026-10-08T01:37:51.448Z
 
-Users: 1768
+Users: 1766
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1768
 | 16 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4085 |
 | 17 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 3899 |
 | 18 | [raidum](https://github.com/raidum) | Dumitru Railean | @tractiontechpartners  |  | Moldova | 3826 |
-| 19 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 3537 |
-| 20 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 3531 |
+| 19 | [buzadandeveloper](https://github.com/buzadandeveloper) | Buza Dan | JivyGroup |  | Moldova | 3788 |
+| 20 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 3537 |

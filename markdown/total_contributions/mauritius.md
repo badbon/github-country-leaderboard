@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-08T00:21:46.255Z
+Generated: 2026-10-08T01:36:21.442Z
 
 Users: 719
 
@@ -25,4 +25,4 @@ Users: 719
 | 17 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
 | 19 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 2496 |
-| 20 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 2398 |
+| 20 | [hirvesh](https://github.com/hirvesh) | Hirvesh | Sand Technologies | Hirvesh | Mauritius | 2491 |

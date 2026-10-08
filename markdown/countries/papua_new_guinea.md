@@ -31,7 +31,7 @@ Indexed users: 296
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS | Papua New Guinea | 330 |
 | 18 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
 | 19 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | Papua New Guinea | 269 |
-| 20 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Port Moresby, Papua New Guinea | 245 |
+| 20 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 269 |
 
 ## Public Contributions
 
@@ -79,8 +79,8 @@ Indexed users: 296
 | 15 | [gwarvi](https://github.com/gwarvi) | Gordon Warvi | Port Moresby, Papua New Guinea | 9 |
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou | Papua New Guinea | 9 |
-| 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 8 |
-| 19 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
-| 20 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Papua New Guinea | 8 |
+| 18 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
+| 19 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Papua New Guinea | 8 |
+| 20 | [Dickson-Tech](https://github.com/Dickson-Tech) | Dickson NENGA | Port Moresby | 7 |
 
-Generated: 2026-10-08T00:30:42.485Z
+Generated: 2026-10-08T01:47:26.723Z

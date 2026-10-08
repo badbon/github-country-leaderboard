@@ -1,6 +1,6 @@
 # Romania
 
-Indexed users: 14,986
+Indexed users: 14,985
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 14,986
 | 19 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 | 20 | [rennokki](https://github.com/rennokki) | rennokki | Romania | 576 |
 
-Generated: 2026-10-08T00:34:14.724Z
+Generated: 2026-10-08T01:49:50.719Z

@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-08T00:30:42.485Z
+Generated: 2026-10-08T01:47:26.723Z
 
 Users: 296
 
@@ -23,6 +23,6 @@ Users: 296
 | 15 | [gwarvi](https://github.com/gwarvi) | Gordon Warvi | Kalia Media |  | Port Moresby, Papua New Guinea | 9 |
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Nasfund | jtuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou |  | wilfredwulbou | Papua New Guinea | 9 |
-| 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Skoonters |  | Papua New Guinea | 8 |
-| 19 | [loiwai](https://github.com/loiwai) | Loi Wai |  |  | Papua New Guinea | 8 |
-| 20 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Bank of South Pacific |  | Papua New Guinea | 8 |
+| 18 | [loiwai](https://github.com/loiwai) | Loi Wai |  |  | Papua New Guinea | 8 |
+| 19 | [rex-makusia](https://github.com/rex-makusia) | Rex Makusia | Bank of South Pacific |  | Papua New Guinea | 8 |
+| 20 | [Dickson-Tech](https://github.com/Dickson-Tech) | Dickson NENGA | PNG Inspira Technologies |  | Port Moresby | 7 |

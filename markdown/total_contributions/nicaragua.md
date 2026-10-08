@@ -1,8 +1,8 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-08T00:27:09.795Z
+Generated: 2026-10-08T01:43:17.897Z
 
-Users: 1403
+Users: 1402
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

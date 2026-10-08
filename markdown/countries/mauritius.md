@@ -31,7 +31,7 @@ Indexed users: 719
 | 17 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 2,558 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 2,535 |
 | 19 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 2,496 |
-| 20 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 2,398 |
+| 20 | [hirvesh](https://github.com/hirvesh) | Hirvesh | Mauritius | 2,491 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 719
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-08T00:21:46.255Z
+Generated: 2026-10-08T01:36:21.442Z

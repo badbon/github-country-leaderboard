@@ -1,8 +1,8 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-08T00:23:24.683Z
+Generated: 2026-10-08T01:37:51.448Z
 
-Users: 1768
+Users: 1766
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,12 +16,12 @@ Users: 1768
 | 8 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1761 |
 | 9 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr |  |  | Moldova | 1708 |
 | 10 | [teratron](https://github.com/teratron) | Oleg Alexandrov |  |  | Moldova | 1665 |
-| 11 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1498 |
-| 12 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
-| 13 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | https://t.me/right_investtool | romanborysov13 | Moldova | 1431 |
-| 14 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 1421 |
-| 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
-| 16 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1268 |
+| 11 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1552 |
+| 12 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1498 |
+| 13 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
+| 14 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | https://t.me/right_investtool | romanborysov13 | Moldova | 1431 |
+| 15 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 1421 |
+| 16 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
 | 17 | [GuidixX](https://github.com/GuidixX) | GuidixX |  |  | Moldova | 1252 |
 | 18 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
 | 19 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |

@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,768
+Indexed users: 1,766
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 1,768
 | 16 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,085 |
 | 17 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
 | 18 | [raidum](https://github.com/raidum) | Dumitru Railean | Moldova | 3,826 |
-| 19 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 3,537 |
-| 20 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 3,531 |
+| 19 | [buzadandeveloper](https://github.com/buzadandeveloper) | Buza Dan | Moldova | 3,788 |
+| 20 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 3,537 |
 
 ## Public Contributions
 
@@ -47,12 +47,12 @@ Indexed users: 1,768
 | 8 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu | Moldova | 1,761 |
 | 9 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr | Moldova | 1,708 |
 | 10 | [teratron](https://github.com/teratron) | Oleg Alexandrov | Moldova | 1,665 |
-| 11 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,498 |
-| 12 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,453 |
-| 13 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | Moldova | 1,431 |
-| 14 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 1,421 |
-| 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
-| 16 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,268 |
+| 11 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | Chisinau, Moldova | 1,552 |
+| 12 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 1,498 |
+| 13 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,453 |
+| 14 | [Mazzay123](https://github.com/Mazzay123) | Mazzay123 | Moldova | 1,431 |
+| 15 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 1,421 |
+| 16 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
 | 17 | [GuidixX](https://github.com/GuidixX) | GuidixX | Moldova | 1,252 |
 | 18 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor | Moldova | 1,201 |
 | 19 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
@@ -83,4 +83,4 @@ Indexed users: 1,768
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-08T00:23:24.683Z
+Generated: 2026-10-08T01:37:51.448Z

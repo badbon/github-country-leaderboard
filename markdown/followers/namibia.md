@@ -1,8 +1,8 @@
 # Followers - Namibia
 
-Generated: 2026-10-08T00:25:32.404Z
+Generated: 2026-10-08T01:39:50.643Z
 
-Users: 477
+Users: 476
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 477
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | @ssc-na  |  | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande |  | euricodande12 | Namibia-Windhoek | 44 |
 | 15 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya |  |  | Windhoek, Namibia | 42 |
-| 16 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek Consulting Engineers |  | Windhoek | 42 |
+| 16 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek Consulting Engineers |  | Windhoek | 39 |
 | 17 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah |  | bettinalisah | Windhoek, Namibia | 38 |
 | 18 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Kuberkode.com |  | Windhoek, Namibia | 38 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Adaire | tuu_kuku | Windhoek, Namibia | 36 |

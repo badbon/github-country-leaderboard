@@ -62,7 +62,7 @@ Indexed users: 863
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | Mogadishu  | 794 |
+| 1 | [CanoGel](https://github.com/CanoGel) | Ahmad Isse Farah | Mogadishu  | 784 |
 | 2 | [omartood](https://github.com/omartood) | Omar Tood | Somalia | 574 |
 | 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | Somalia-Mogadishu  | 538 |
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Mogadishu, Somalia | 344 |
@@ -83,4 +83,4 @@ Indexed users: 863
 | 19 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | Mogadishu, Somalia | 92 |
 | 20 | [abdorizak](https://github.com/abdorizak) | Abdirizak Abdalla  | Mogadisho,Somalia | 91 |
 
-Generated: 2026-10-08T00:41:37.991Z
+Generated: 2026-10-08T01:55:57.354Z

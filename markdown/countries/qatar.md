@@ -31,7 +31,7 @@ Indexed users: 1,073
 | 17 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 3,566 |
 | 18 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 3,393 |
 | 19 | [regizum](https://github.com/regizum) | Regina Nigmatullina | Doha | 3,230 |
-| 20 | [Bomussa](https://github.com/Bomussa) | Iyad Mousa | Qatar | 3,094 |
+| 20 | [Gedmski](https://github.com/Gedmski) | Gabriel Edward Marquez | Qatar | 3,176 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [Behram-Khattak](https://github.com/Behram-Khattak) | Behram Khattak | Doha, Qatar | 91 |
 | 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 
-Generated: 2026-10-08T00:32:59.981Z
+Generated: 2026-10-08T01:49:06.162Z

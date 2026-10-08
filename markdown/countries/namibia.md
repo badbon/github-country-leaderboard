@@ -1,6 +1,6 @@
 # Namibia
 
-Indexed users: 477
+Indexed users: 476
 
 | Leaderboard | Link |
 |---|---|
@@ -77,10 +77,10 @@ Indexed users: 477
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 44 |
 | 15 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 42 |
-| 16 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 42 |
+| 16 | [ShifidiMetumoN](https://github.com/ShifidiMetumoN) | ShifidiM | Windhoek | 39 |
 | 17 | [Bettinalisah](https://github.com/Bettinalisah) | Bettinalisah | Windhoek, Namibia | 38 |
 | 18 | [KuberKode](https://github.com/KuberKode) | Johan Strydom | Windhoek, Namibia | 38 |
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-08T00:25:32.404Z
+Generated: 2026-10-08T01:39:50.643Z
