@@ -3548,7 +3548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 66,
     "createdAt": "2025-10-17T05:04:25Z"
   },
   {
@@ -3560,7 +3560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 171,
     "createdAt": "2025-09-10T09:18:37Z"
   },
   {
@@ -3583,8 +3583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 249,
-    "publicContributions": 45,
+    "privateContributions": 497,
+    "publicContributions": 34,
     "createdAt": "2025-03-07T07:43:38Z"
   },
   {
@@ -3612,18 +3612,6 @@
     "createdAt": "2025-11-14T12:53:15Z"
   },
   {
-    "login": "Leogo16",
-    "name": "Andrei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238745048?s=72&u=84ef982c0c65ab6c27938ed51c0fb54b67825f34&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2025-10-17T18:30:01Z"
-  },
-  {
     "login": "mihai-r-lupu",
     "name": "Mihai Lupu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193069213?s=72&u=88d8ccf81dc21fc0fc58818212bf147a8366701b&v=4",
@@ -3631,8 +3619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3124,
-    "publicContributions": 1397,
+    "privateContributions": 4427,
+    "publicContributions": 1949,
     "createdAt": "2024-12-28T13:57:38Z"
   },
   {
@@ -3680,7 +3668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-07-28T08:41:25Z"
   },
   {
@@ -3692,20 +3680,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-22T06:05:16Z"
-  },
-  {
-    "login": "AlexXDceni",
-    "name": "AlexXDceni",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232863735?s=72&v=4",
-    "location": "Romania",
-    "company": "",
-    "twitterUsername": "ACenariu",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 91,
-    "createdAt": "2025-09-17T16:16:07Z"
   },
   {
     "login": "SMBCheeky",
@@ -3716,7 +3692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 36,
     "createdAt": "2025-01-07T12:11:48Z"
   },
   {
@@ -3726,9 +3702,9 @@
     "location": "Brasov, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 24,
-    "publicContributions": 394,
+    "publicContributions": 396,
     "createdAt": "2025-05-15T13:34:20Z"
   },
   {
@@ -3752,7 +3728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 439,
+    "publicContributions": 798,
     "createdAt": "2025-02-27T15:01:55Z"
   },
   {

@@ -3264,27 +3264,15 @@
     "createdAt": "2026-01-03T09:58:01Z"
   },
   {
-    "login": "Medevice-RND",
-    "name": "MEDevice Africa RnD",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275032092?s=72&u=251026e61ffc68e94000049f5dac56e3841005f5&v=4",
-    "location": "Nairobi",
-    "company": "MEDevice Africa",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-10T09:14:39Z"
-  },
-  {
     "login": "PapaDanico",
     "name": "Dan Ng'ong'a",
     "avatarUrl": "https://avatars.githubusercontent.com/u/280915488?s=72&u=14ba92f0370f6aa8c6a5b893498d536cbc4b1d0f&v=4",
     "location": "Nairobi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 689,
+    "publicContributions": 2373,
     "createdAt": "2026-05-01T09:29:04Z"
   },
   {
@@ -3355,8 +3343,8 @@
     "company": "Bit-Tech",
     "twitterUsername": "herefordfanboy",
     "followers": 1,
-    "privateContributions": 2807,
-    "publicContributions": 677,
+    "privateContributions": 2536,
+    "publicContributions": 1131,
     "createdAt": "2026-02-20T12:24:07Z"
   },
   {
@@ -3368,7 +3356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 56,
     "createdAt": "2026-05-05T09:34:00Z"
   },
   {
@@ -3414,21 +3402,21 @@
     "location": "Nairobi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 252,
     "createdAt": "2026-01-23T09:14:13Z"
   },
   {
     "login": "erick2elite",
     "name": "ERICK ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282556859?s=72&u=e5e55ae27b71e08805eabf2278ade7a745402cd5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/282556859?s=72&v=4",
     "location": "nairobi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2026-05-07T11:04:51Z"
   },
   {

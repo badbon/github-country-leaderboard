@@ -3204,18 +3204,6 @@
     "createdAt": "2023-06-27T20:47:19Z"
   },
   {
-    "login": "Jupiter967",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132228179?s=72&u=d6a766fb9625743a2044b716c743a000984f1d4c&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-04-30T19:46:15Z"
-  },
-  {
     "login": "dukalis777",
     "name": "SeryWeb3",
     "avatarUrl": "https://avatars.githubusercontent.com/u/135609519?s=72&u=c10c6efdfc88bfefe0bda4f546f2069ae87024f1&v=4",
@@ -3272,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 35,
     "createdAt": "2023-11-20T10:52:16Z"
   },
   {
@@ -3294,8 +3282,8 @@
     "location": "Riga, Latvia",
     "company": "Monday Labs",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1015,
+    "followers": 3,
+    "privateContributions": 1500,
     "publicContributions": 22,
     "createdAt": "2023-08-08T18:49:24Z"
   },
@@ -3360,20 +3348,8 @@
     "createdAt": "2023-06-15T20:35:30Z"
   },
   {
-    "login": "chinakov",
-    "name": "Anton Chinakov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139755141?s=72&u=c347e9a3f9665717421f2a825390ce8a520c640f&v=4",
-    "location": "Riga, Latvia",
-    "company": "Audacity",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 211,
-    "createdAt": "2023-07-17T09:08:37Z"
-  },
-  {
     "login": "Fileja",
-    "name": "Alans Zvirbulis",
+    "name": "Fileja",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142352430?s=72&u=9192402440038bf0bf2b3fd209e27659b7d6c49b&v=4",
     "location": "Latvia",
     "company": "",
@@ -3404,7 +3380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 137,
     "createdAt": "2023-04-17T17:01:30Z"
   },
   {
@@ -3427,8 +3403,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 926,
-    "publicContributions": 731,
+    "privateContributions": 1065,
+    "publicContributions": 712,
     "createdAt": "2023-09-29T14:26:52Z"
   },
   {
@@ -3440,7 +3416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2023-11-16T01:43:45Z"
   },
   {

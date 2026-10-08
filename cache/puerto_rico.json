@@ -3572,7 +3572,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 29,
     "createdAt": "2022-03-08T13:32:11Z"
   },
   {
@@ -3608,7 +3608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 424,
+    "publicContributions": 425,
     "createdAt": "2022-01-31T20:44:18Z"
   },
   {
@@ -3620,7 +3620,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 278,
+    "publicContributions": 280,
     "createdAt": "2022-05-06T22:44:54Z"
   },
   {
@@ -3632,20 +3632,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-11-18T23:20:01Z"
-  },
-  {
-    "login": "oscaroflores",
-    "name": "Señor Oscar Flores Cardona",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99218150?s=72&u=4b0f0ab20db3e165d67cd50fd9389b4487e21c57&v=4",
-    "location": "Puerto Rico",
-    "company": "Stackz",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 330,
-    "publicContributions": 35,
-    "createdAt": "2022-02-07T20:59:21Z"
   },
   {
     "login": "javier-rivera8",
@@ -3656,7 +3644,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 76,
     "createdAt": "2022-08-25T16:16:11Z"
   },
   {
@@ -3678,7 +3666,7 @@
     "location": "Ponce, Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-18T00:46:53Z"
@@ -3702,7 +3690,7 @@
     "location": "San Juan Puerto Rico ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-01T18:19:08Z"
@@ -3716,7 +3704,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-11-08T00:45:00Z"
   },
   {
@@ -3726,9 +3714,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5463,
-    "publicContributions": 10,
+    "followers": 2,
+    "privateContributions": 5124,
+    "publicContributions": 1,
     "createdAt": "2022-09-14T21:00:41Z"
   },
   {
@@ -3752,7 +3740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 822,
+    "publicContributions": 851,
     "createdAt": "2022-11-19T04:43:17Z"
   },
   {
@@ -3762,9 +3750,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "rdelatowerPR",
-    "followers": 1,
-    "privateContributions": 99,
-    "publicContributions": 17,
+    "followers": 2,
+    "privateContributions": 269,
+    "publicContributions": 20,
     "createdAt": "2022-07-11T02:37:43Z"
   },
   {
@@ -3787,21 +3775,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-07-15T19:53:38Z"
-  },
-  {
-    "login": "vashgitz",
-    "name": "Vash",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116850555?s=72&u=79ed8cbbd5e0889bde5a5b2f0a537a6709617fe2&v=4",
-    "location": "Puerto Rico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2022-10-27T23:05:31Z"
   },
   {
     "login": "elo356",

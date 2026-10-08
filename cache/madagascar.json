@@ -3534,8 +3534,8 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 158,
+    "followers": 4,
+    "privateContributions": 256,
     "publicContributions": 41,
     "createdAt": "2024-07-03T15:50:29Z"
   },
@@ -3547,8 +3547,8 @@
     "company": "Artificial Intelligence and Computer Science Engineering at EMIT - ENI ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 777,
-    "publicContributions": 25,
+    "privateContributions": 978,
+    "publicContributions": 18,
     "createdAt": "2024-06-08T07:23:23Z"
   },
   {
@@ -3560,7 +3560,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 32,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2024-05-07T13:31:33Z"
   },
   {
@@ -3572,7 +3572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2024-11-02T12:08:04Z"
   },
   {
@@ -3582,7 +3582,7 @@
     "location": "Antananarivo, Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 331,
     "publicContributions": 8,
     "createdAt": "2024-04-30T10:30:29Z"
@@ -3596,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 135,
     "createdAt": "2024-12-22T16:43:06Z"
   },
   {
@@ -3620,7 +3620,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 68,
     "createdAt": "2024-02-21T16:27:54Z"
   },
   {
@@ -3630,9 +3630,9 @@
     "location": "MADAGASCAR",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 71,
-    "publicContributions": 13,
+    "publicContributions": 12,
     "createdAt": "2024-11-21T15:28:53Z"
   },
   {
@@ -3642,9 +3642,9 @@
     "location": "Antananarivo Madagascar ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 289,
-    "publicContributions": 61,
+    "followers": 3,
+    "privateContributions": 265,
+    "publicContributions": 43,
     "createdAt": "2024-08-29T07:29:08Z"
   },
   {
@@ -3667,8 +3667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 206,
-    "publicContributions": 228,
+    "privateContributions": 166,
+    "publicContributions": 221,
     "createdAt": "2024-10-31T07:40:22Z"
   },
   {
@@ -3678,7 +3678,7 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-11T15:51:30Z"
@@ -3692,7 +3692,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 165,
     "createdAt": "2024-12-19T07:03:58Z"
   },
   {
@@ -3702,9 +3702,9 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 30,
     "createdAt": "2024-07-20T16:07:12Z"
   },
   {
@@ -3715,8 +3715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2464,
-    "publicContributions": 44,
+    "privateContributions": 2523,
+    "publicContributions": 50,
     "createdAt": "2024-12-16T17:25:24Z"
   },
   {
@@ -3739,8 +3739,8 @@
     "company": "BEZARA",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 107,
+    "privateContributions": 89,
+    "publicContributions": 113,
     "createdAt": "2024-08-20T19:09:04Z"
   },
   {
@@ -22978,5 +22978,29 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2008-06-10T14:55:45Z"
+  },
+  {
+    "login": "znrofisialy3663",
+    "name": "Zo Nantenaina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285932648?s=72&u=f61959a51af99847293af1f21eb68fc95ce79d31&v=4",
+    "location": "Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-19T07:54:38Z"
+  },
+  {
+    "login": "FeunekMG",
+    "name": "RABE Marco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286583701?s=72&u=67030b5c2776262bd834b17347ae5a2d4f70e4c1&v=4",
+    "location": "Madagascar",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-21T07:27:19Z"
   }
 ]

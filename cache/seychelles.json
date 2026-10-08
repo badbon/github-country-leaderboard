@@ -3534,7 +3534,7 @@
     "location": "Victoria",
     "company": "LeadHunterX",
     "twitterUsername": "theo_lincourt",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-09T17:56:12Z"
@@ -3548,7 +3548,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 22,
     "createdAt": "2021-10-15T16:39:26Z"
   },
   {
@@ -3572,7 +3572,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2021-02-12T02:04:43Z"
   },
   {
@@ -3583,7 +3583,7 @@
     "company": "",
     "twitterUsername": "RichardKobay",
     "followers": 8,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-20T20:02:13Z"
   },
@@ -3594,7 +3594,7 @@
     "location": "Victoria - Entre Rios",
     "company": "Halo Media LLC",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-01-30T00:11:50Z"
@@ -3619,7 +3619,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 171,
+    "privateContributions": 266,
     "publicContributions": 2,
     "createdAt": "2021-02-26T00:17:53Z"
   },
@@ -3631,8 +3631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 69,
-    "publicContributions": 84,
+    "privateContributions": 46,
+    "publicContributions": 79,
     "createdAt": "2021-02-19T13:21:10Z"
   },
   {
@@ -3644,7 +3644,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 37,
     "createdAt": "2021-02-17T17:32:55Z"
   },
   {
@@ -3654,9 +3654,9 @@
     "location": "Victoria, BC",
     "company": "Open Ocean Robotics",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 30,
-    "publicContributions": 70,
+    "followers": 8,
+    "privateContributions": 31,
+    "publicContributions": 66,
     "createdAt": "2021-12-09T17:50:44Z"
   },
   {
@@ -3672,18 +3672,6 @@
     "createdAt": "2021-09-10T02:48:15Z"
   },
   {
-    "login": "tristongrayston",
-    "name": "Triston Grayston",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91395875?s=72&u=1d29a36db3c0af955968771f9f812497d563a9ef&v=4",
-    "location": "Victoria Bc",
-    "company": "University of Victoria",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2021-09-25T23:15:07Z"
-  },
-  {
     "login": "RigoPinna",
     "name": "Rigoberto Cepeda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80288122?s=72&u=4c70c25e75baec9418ebc971994e3a084377cc5e&v=4",
@@ -3691,8 +3679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 669,
-    "publicContributions": 126,
+    "privateContributions": 747,
+    "publicContributions": 140,
     "createdAt": "2021-03-08T20:37:33Z"
   },
   {
@@ -3714,7 +3702,7 @@
     "location": "Victoria BC Canada",
     "company": "Tangelent Inc.",
     "twitterUsername": "david_tangelent",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-15T19:50:57Z"
@@ -3727,7 +3715,7 @@
     "company": "Studio Beckett",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 87,
+    "privateContributions": 89,
     "publicContributions": 31,
     "createdAt": "2021-02-06T22:07:36Z"
   },
@@ -3752,7 +3740,7 @@
     "twitterUsername": "im_nithinkuruba",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 586,
+    "publicContributions": 671,
     "createdAt": "2021-03-26T21:02:48Z"
   },
   {
@@ -3763,7 +3751,7 @@
     "company": "SpotHero",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 79,
+    "privateContributions": 13,
     "publicContributions": 0,
     "createdAt": "2021-08-14T16:01:22Z"
   },

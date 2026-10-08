@@ -3247,8 +3247,8 @@
     "company": "Self employed",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 325,
-    "publicContributions": 10,
+    "privateContributions": 336,
+    "publicContributions": 11,
     "createdAt": "2021-02-11T21:11:57Z"
   },
   {
@@ -3258,7 +3258,7 @@
     "location": "Luxembourg",
     "company": "Bitcoin Inc",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-19T00:57:53Z"
@@ -3282,9 +3282,9 @@
     "location": "Luxembourg / Luxembourg",
     "company": "Hopae S.A.",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 3908,
-    "publicContributions": 953,
+    "followers": 33,
+    "privateContributions": 3844,
+    "publicContributions": 921,
     "createdAt": "2021-06-17T07:01:44Z"
   },
   {
@@ -3295,8 +3295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 4,
-    "publicContributions": 3,
+    "privateContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2020-12-29T14:06:37Z"
   },
   {
@@ -3307,7 +3307,7 @@
     "company": "University of Luxembourg",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 22,
+    "privateContributions": 28,
     "publicContributions": 4,
     "createdAt": "2021-04-13T18:53:35Z"
   },
@@ -3318,9 +3318,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 67,
     "createdAt": "2021-03-17T11:08:00Z"
   },
   {
@@ -3331,7 +3331,7 @@
     "company": "",
     "twitterUsername": "noelguiavieira",
     "followers": 20,
-    "privateContributions": 969,
+    "privateContributions": 806,
     "publicContributions": 0,
     "createdAt": "2021-02-28T17:07:44Z"
   },
@@ -3342,9 +3342,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 34,
-    "publicContributions": 266,
+    "followers": 17,
+    "privateContributions": 37,
+    "publicContributions": 206,
     "createdAt": "2021-06-09T13:54:04Z"
   },
   {
@@ -3356,7 +3356,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 9,
     "createdAt": "2021-02-09T00:38:08Z"
   },
   {
@@ -3368,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 22,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2021-02-15T09:36:56Z"
   },
   {
@@ -3378,9 +3378,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg @c2dh ¦ @Tropy",
     "twitterUsername": "alucchesi",
-    "followers": 16,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 72,
     "createdAt": "2021-03-23T17:32:17Z"
   },
   {
@@ -3402,7 +3402,7 @@
     "location": "Luxembourg",
     "company": "Ourquilane",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2021-10-27T22:04:45Z"
@@ -3414,9 +3414,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 375,
-    "publicContributions": 25,
+    "followers": 15,
+    "privateContributions": 405,
+    "publicContributions": 24,
     "createdAt": "2021-03-31T15:00:13Z"
   },
   {
@@ -3428,7 +3428,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 395,
+    "publicContributions": 262,
     "createdAt": "2021-01-04T13:23:24Z"
   },
   {
@@ -3436,23 +3436,23 @@
     "name": "Lucas Zebrowsky",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78442275?s=72&u=19e6ac5818531608a6572cb9b6a4e6f5f6a82a7b&v=4",
     "location": "Luxembourg",
-    "company": "MABU Concepts S.A.",
+    "company": "MABU Concepts",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 54,
-    "publicContributions": 23,
+    "privateContributions": 56,
+    "publicContributions": 18,
     "createdAt": "2021-02-02T18:55:49Z"
   },
   {
     "login": "philfunk",
     "name": "Philippe Funk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82090780?s=72&u=c6cdeb005844c793ebcb9ddf3d31061d47de7ec4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82090780?s=72&u=00a64acbc76f515b9cabcc3d28a24e026461958c&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 709,
-    "publicContributions": 18,
+    "followers": 18,
+    "privateContributions": 688,
+    "publicContributions": 28,
     "createdAt": "2021-04-07T10:02:14Z"
   },
   {
@@ -3463,8 +3463,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 106,
-    "publicContributions": 80,
+    "privateContributions": 81,
+    "publicContributions": 96,
     "createdAt": "2021-02-14T17:53:48Z"
   },
   {

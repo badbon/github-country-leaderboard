@@ -3415,8 +3415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 14,
-    "publicContributions": 44,
+    "privateContributions": 2,
+    "publicContributions": 30,
     "createdAt": "2025-09-02T13:39:10Z"
   },
   {
@@ -3452,7 +3452,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 96,
     "createdAt": "2025-12-16T19:25:57Z"
   },
   {
@@ -3462,9 +3462,9 @@
     "location": "Lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 52,
     "createdAt": "2025-04-24T21:43:32Z"
   },
   {
@@ -3476,7 +3476,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2025-10-13T12:24:56Z"
   },
   {
@@ -3488,7 +3488,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 55,
     "createdAt": "2025-04-10T21:48:43Z"
   },
   {
@@ -3512,7 +3512,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 693,
+    "publicContributions": 676,
     "createdAt": "2025-01-07T14:53:21Z"
   },
   {
@@ -3524,7 +3524,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 39,
     "createdAt": "2025-08-16T18:02:37Z"
   },
   {
@@ -3536,7 +3536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-08-17T02:48:39Z"
   },
   {
@@ -3547,8 +3547,8 @@
     "company": "💼 @CorporacionIBCorp",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 22,
-    "publicContributions": 34,
+    "privateContributions": 17,
+    "publicContributions": 37,
     "createdAt": "2025-01-19T12:52:23Z"
   },
   {
@@ -3560,7 +3560,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 48,
     "createdAt": "2025-04-12T23:55:59Z"
   },
   {
@@ -3572,7 +3572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 363,
+    "publicContributions": 348,
     "createdAt": "2025-06-25T23:27:32Z"
   },
   {
@@ -3583,8 +3583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 117,
-    "publicContributions": 72,
+    "privateContributions": 114,
+    "publicContributions": 31,
     "createdAt": "2025-02-26T15:44:28Z"
   },
   {
@@ -3606,9 +3606,9 @@
     "location": "Lima -Perù",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 31,
     "createdAt": "2025-01-19T17:29:47Z"
   },
   {
@@ -74806,18 +74806,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-15T18:15:48Z"
-  },
-  {
-    "login": "gonzjvr",
-    "name": "Gonzalo Villegas-Rodríguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35177828?s=72&u=c7e652e86893e1e8ccd2a4e827ed9eeb7ee946a8&v=4",
-    "location": "Peru",
-    "company": "",
-    "twitterUsername": "gonza_vr",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-01-06T20:39:50Z"
   },
   {
     "login": "santivanez",
