@@ -4728,30 +4728,6 @@
     "createdAt": "2021-02-16T12:39:30Z"
   },
   {
-    "login": "DarioVajda",
-    "name": "Dario Vajda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86320735?s=72&u=3e99dbcc4bd92008956276cba40dfb1eb5139d41&v=4",
-    "location": "Ljubljana, Slovenia",
-    "company": "Faculty of Computer and Information Science in Ljubljana",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 36,
-    "publicContributions": 231,
-    "createdAt": "2021-06-22T18:22:41Z"
-  },
-  {
-    "login": "mrggvg",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77358848?s=72&u=7e22016ab088d7ce95bfb89b4174f65b375556d0&v=4",
-    "location": "Koper, Slovenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 193,
-    "publicContributions": 131,
-    "createdAt": "2021-01-12T19:55:29Z"
-  },
-  {
     "login": "TheMapotakes",
     "name": "TheMapotakes",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78513646?s=72&u=dedcf634a6e36652bba397cf1ea95f7d811e8528&v=4",
@@ -4782,7 +4758,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 34,
     "publicContributions": 113,
     "createdAt": "2021-02-16T14:32:45Z"
@@ -4807,8 +4783,8 @@
     "company": "University of Ljubljana",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 230,
-    "publicContributions": 138,
+    "privateContributions": 235,
+    "publicContributions": 150,
     "createdAt": "2021-08-10T18:16:14Z"
   },
   {
@@ -4841,10 +4817,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/77499501?s=72&u=f02cc3391466c0fb7c808e1bc1037fc10f0bb03b&v=4",
     "location": "Ljubljana, Slovenia",
     "company": "",
-    "twitterUsername": "krizzlica",
+    "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 7,
     "createdAt": "2021-01-15T15:11:58Z"
   },
   {
@@ -4854,7 +4830,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2021-06-10T17:49:54Z"
@@ -4866,7 +4842,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-10-24T18:41:39Z"
@@ -4878,7 +4854,7 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-01T08:29:38Z"
@@ -4892,7 +4868,7 @@
     "twitterUsername": "missTashkova",
     "followers": 8,
     "privateContributions": 4,
-    "publicContributions": 59,
+    "publicContributions": 69,
     "createdAt": "2021-11-18T20:43:44Z"
   },
   {
@@ -4904,7 +4880,7 @@
     "twitterUsername": "AnteroMontonio",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 322,
     "createdAt": "2021-02-18T23:48:06Z"
   },
   {
@@ -4927,8 +4903,8 @@
     "company": "IJS",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 141,
-    "publicContributions": 65,
+    "privateContributions": 123,
+    "publicContributions": 64,
     "createdAt": "2021-02-16T16:08:04Z"
   },
   {
@@ -4951,8 +4927,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 651,
-    "publicContributions": 617,
+    "privateContributions": 701,
+    "publicContributions": 584,
     "createdAt": "2021-07-25T21:36:49Z"
   },
   {
@@ -4963,8 +4939,8 @@
     "company": "eŠola d.o.o.",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 105,
-    "publicContributions": 12,
+    "privateContributions": 92,
+    "publicContributions": 13,
     "createdAt": "2020-12-28T11:41:46Z"
   },
   {

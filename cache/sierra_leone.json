@@ -4808,7 +4808,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2016-07-22T11:56:59Z"
   },
   {
@@ -4854,8 +4854,8 @@
     "location": "Sierra Leone",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 233,
+    "followers": 3,
+    "privateContributions": 181,
     "publicContributions": 13,
     "createdAt": "2016-06-02T12:31:32Z"
   },
@@ -4867,7 +4867,7 @@
     "company": "FSd Lab",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 3,
     "publicContributions": 8,
     "createdAt": "2016-06-07T17:45:55Z"
   },
@@ -4878,7 +4878,7 @@
     "location": "Freetown",
     "company": "https://guchietech.com",
     "twitterUsername": "FrancisGuchie",
-    "followers": 32,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2016-10-07T15:06:56Z"
@@ -4950,8 +4950,8 @@
     "location": "Sierra Leone",
     "company": "",
     "twitterUsername": "ponkratikka",
-    "followers": 39,
-    "privateContributions": 3279,
+    "followers": 41,
+    "privateContributions": 3555,
     "publicContributions": 14,
     "createdAt": "2015-02-17T04:05:17Z"
   },
@@ -4962,9 +4962,9 @@
     "location": "Sierra Leone",
     "company": "@monimesl @monime-lab @fixsl",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 7806,
-    "publicContributions": 9,
+    "followers": 29,
+    "privateContributions": 8235,
+    "publicContributions": 7,
     "createdAt": "2015-09-08T07:50:59Z"
   },
   {
@@ -4975,8 +4975,8 @@
     "company": "Office Of The President",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1071,
-    "publicContributions": 50,
+    "privateContributions": 1211,
+    "publicContributions": 61,
     "createdAt": "2015-02-19T19:57:44Z"
   },
   {
@@ -4986,9 +4986,9 @@
     "location": "Freetown, Sierra Leone",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 420,
-    "publicContributions": 2,
+    "followers": 17,
+    "privateContributions": 425,
+    "publicContributions": 1,
     "createdAt": "2015-06-06T15:35:10Z"
   },
   {

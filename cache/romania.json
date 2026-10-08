@@ -4710,9 +4710,9 @@
     "location": "Bucharest",
     "company": "Aiventure SRL",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1849,
+    "publicContributions": 2845,
     "createdAt": "2025-03-25T11:32:41Z"
   },
   {
@@ -4736,7 +4736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-06-04T08:25:53Z"
   },
   {
@@ -4748,7 +4748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2025-03-19T05:58:34Z"
   },
   {
@@ -4772,7 +4772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-28T14:48:30Z"
   },
   {
@@ -4783,8 +4783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3230,
-    "publicContributions": 7,
+    "privateContributions": 4750,
+    "publicContributions": 668,
     "createdAt": "2025-10-02T05:47:47Z"
   },
   {
@@ -4794,7 +4794,7 @@
     "location": "Bucharest ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 107,
     "createdAt": "2025-07-10T13:36:49Z"
@@ -4808,7 +4808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 175,
     "createdAt": "2025-04-08T08:11:41Z"
   },
   {
@@ -4820,7 +4820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2025-10-01T13:54:30Z"
   },
   {
@@ -4832,7 +4832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2025-06-09T11:58:39Z"
   },
   {
@@ -4844,7 +4844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 21,
     "createdAt": "2025-06-03T13:45:39Z"
   },
   {
@@ -4867,8 +4867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 415,
-    "publicContributions": 11,
+    "privateContributions": 726,
+    "publicContributions": 0,
     "createdAt": "2025-08-01T14:40:11Z"
   },
   {
@@ -4890,7 +4890,7 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-18T12:44:07Z"
@@ -4916,7 +4916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 31,
     "createdAt": "2025-05-09T19:40:15Z"
   },
   {
@@ -4938,7 +4938,7 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "jelil_eth",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-28T16:40:34Z"
@@ -179890,5 +179890,17 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2026-05-17T17:45:12Z"
+  },
+  {
+    "login": "DemerNkardaz",
+    "name": "Я́лла Нкарда́з д͏е Туде́рий",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92405785?s=72&u=ace66ea5b41adfe6af5ea8f2a639df5ea45d38f0&v=4",
+    "location": "Romania, Oravița",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 44,
+    "privateContributions": 86,
+    "publicContributions": 835,
+    "createdAt": "2021-10-12T21:57:56Z"
   }
 ]

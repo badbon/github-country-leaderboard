@@ -4711,8 +4711,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 60,
+    "privateContributions": 1,
+    "publicContributions": 47,
     "createdAt": "2023-08-08T08:24:01Z"
   },
   {
@@ -4724,7 +4724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2023-11-09T16:43:54Z"
   },
   {
@@ -4748,7 +4748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 60,
     "createdAt": "2023-11-15T15:30:37Z"
   },
   {
@@ -4796,7 +4796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 250,
+    "publicContributions": 251,
     "createdAt": "2023-03-02T17:30:54Z"
   },
   {
@@ -4808,7 +4808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-04-30T12:44:25Z"
   },
   {
@@ -4856,7 +4856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 19,
     "createdAt": "2023-10-02T14:31:02Z"
   },
   {
@@ -4868,7 +4868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 527,
+    "publicContributions": 544,
     "createdAt": "2023-03-24T06:12:06Z"
   },
   {
@@ -4892,13 +4892,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 33,
     "createdAt": "2023-04-24T16:47:28Z"
   },
   {
     "login": "Amiak2409",
-    "name": "Andriy Yanchik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149189079?s=72&u=5d86315a438bcae3372b502f6fa8e8b2a2ff5241&v=4",
+    "name": "András Jáncsik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149189079?s=72&u=6e9a3260e8de9474ddc9013b5c2054209d153e7a&v=4",
     "location": "Kosice/Slovakia",
     "company": "Student at the TUKE",
     "twitterUsername": "",
@@ -4915,8 +4915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
-    "publicContributions": 216,
+    "privateContributions": 64,
+    "publicContributions": 188,
     "createdAt": "2023-11-15T06:16:24Z"
   },
   {

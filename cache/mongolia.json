@@ -4722,9 +4722,9 @@
     "location": "Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 911,
-    "publicContributions": 99,
+    "followers": 2,
+    "privateContributions": 860,
+    "publicContributions": 88,
     "createdAt": "2019-10-09T07:22:27Z"
   },
   {
@@ -4760,7 +4760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 71,
     "createdAt": "2019-09-17T16:59:57Z"
   },
   {
@@ -4772,7 +4772,7 @@
     "twitterUsername": "teedger",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 81,
     "createdAt": "2019-08-18T09:11:25Z"
   },
   {
@@ -4843,8 +4843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 673,
-    "publicContributions": 0,
+    "privateContributions": 589,
+    "publicContributions": 2,
     "createdAt": "2019-10-26T09:59:01Z"
   },
   {
@@ -4854,21 +4854,21 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "",
     "twitterUsername": "ByamB4",
-    "followers": 216,
-    "privateContributions": 130643,
-    "publicContributions": 104,
+    "followers": 225,
+    "privateContributions": 100003,
+    "publicContributions": 89,
     "createdAt": "2018-09-12T14:52:21Z"
   },
   {
     "login": "unobatbayar",
-    "name": "Usukhbayar Batbayar",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38866249?s=72&u=70ae63d0d087218d966d2d08b22bca1f5ec7d892&v=4",
     "location": "Ulaanbaatar, Mongolia",
     "company": "",
-    "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 324,
-    "publicContributions": 292,
+    "twitterUsername": "unoryas",
+    "followers": 44,
+    "privateContributions": 592,
+    "publicContributions": 302,
     "createdAt": "2018-04-30T18:40:40Z"
   },
   {
@@ -4878,7 +4878,7 @@
     "location": "Mongolia",
     "company": "",
     "twitterUsername": "ulziibox",
-    "followers": 34,
+    "followers": 36,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-03-03T11:59:10Z"
@@ -4891,8 +4891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 52,
-    "publicContributions": 3,
+    "privateContributions": 67,
+    "publicContributions": 1,
     "createdAt": "2018-10-08T12:15:17Z"
   },
   {
@@ -4902,22 +4902,10 @@
     "location": "Ulaanbaatar, Mongolia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 2856,
-    "publicContributions": 165,
+    "followers": 20,
+    "privateContributions": 2794,
+    "publicContributions": 166,
     "createdAt": "2018-10-24T14:26:25Z"
-  },
-  {
-    "login": "nemuwn",
-    "name": "Nomin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40523815?s=72&u=83a8bfefef244e9d49362cc16855782758db1b5a&v=4",
-    "location": "Mongolia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 41,
-    "publicContributions": 1,
-    "createdAt": "2018-06-23T16:11:10Z"
   },
   {
     "login": "reamb",

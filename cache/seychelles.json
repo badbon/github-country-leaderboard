@@ -4712,7 +4712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2021-01-17T04:33:55Z"
   },
   {
@@ -4723,7 +4723,7 @@
     "company": "Independent Contractor",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
+    "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-07-05T03:51:32Z"
   },
@@ -4734,9 +4734,9 @@
     "location": "Victoria, BC",
     "company": "@AOT-Technologies ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 311,
+    "followers": 2,
+    "privateContributions": 19,
+    "publicContributions": 412,
     "createdAt": "2021-02-04T23:06:45Z"
   },
   {
@@ -4784,7 +4784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 13,
     "createdAt": "2021-09-28T02:13:56Z"
   },
   {
@@ -4806,9 +4806,9 @@
     "location": "seychelles",
     "company": "acura integra 2025",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 304,
+    "publicContributions": 317,
     "createdAt": "2020-09-01T23:11:40Z"
   },
   {
@@ -4818,9 +4818,9 @@
     "location": "Seychelles",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 127,
     "createdAt": "2020-04-10T14:14:55Z"
   },
   {
@@ -4890,7 +4890,7 @@
     "location": "Victoria",
     "company": "",
     "twitterUsername": "",
-    "followers": 239,
+    "followers": 238,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-01T03:09:18Z"
@@ -4902,8 +4902,8 @@
     "location": "Victoria",
     "company": "Deakin university",
     "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 1019,
+    "followers": 52,
+    "privateContributions": 614,
     "publicContributions": 20,
     "createdAt": "2020-06-26T16:30:57Z"
   },
@@ -4914,9 +4914,9 @@
     "location": "Victoria College, UofT",
     "company": "University of Toronto",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 77,
-    "publicContributions": 1,
+    "followers": 48,
+    "privateContributions": 76,
+    "publicContributions": 0,
     "createdAt": "2020-12-14T21:48:25Z"
   },
   {
@@ -4926,8 +4926,8 @@
     "location": "Geelong, Victoria",
     "company": "Deakin University",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 46,
+    "followers": 41,
+    "privateContributions": 89,
     "publicContributions": 15,
     "createdAt": "2020-03-06T12:28:56Z"
   },
