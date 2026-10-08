@@ -1640,7 +1640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 168,
     "createdAt": "2026-02-03T17:35:10Z"
   },
   {
@@ -1652,7 +1652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2538,
+    "publicContributions": 2659,
     "createdAt": "2026-03-16T08:50:07Z"
   },
   {
@@ -1700,7 +1700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 12,
     "createdAt": "2026-02-22T15:17:29Z"
   },
   {
@@ -1736,7 +1736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2026-03-17T19:22:15Z"
   },
   {
@@ -1746,7 +1746,7 @@
     "location": "Stockholm ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 215,
     "createdAt": "2026-01-20T10:36:41Z"
@@ -1770,21 +1770,21 @@
     "location": "Stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 59,
     "createdAt": "2026-05-10T14:09:22Z"
   },
   {
     "login": "kristinaxm",
     "name": "Kristina M",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235483091?s=72&u=02ea7ee0c04d732351aeb930c6945b2b6cebd256&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235483091?s=72&u=faed4f93b6c131c459ccf89e1882f90676964a41&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 111,
-    "privateContributions": 653,
-    "publicContributions": 1056,
+    "followers": 113,
+    "privateContributions": 1180,
+    "publicContributions": 1319,
     "createdAt": "2025-10-01T10:13:06Z"
   },
   {
@@ -1794,9 +1794,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 105,
+    "followers": 109,
     "privateContributions": 0,
-    "publicContributions": 354,
+    "publicContributions": 373,
     "createdAt": "2025-03-10T20:44:24Z"
   },
   {
@@ -1806,33 +1806,33 @@
     "location": "Stockholm, Sweden",
     "company": "@fluxerapp",
     "twitterUsername": "",
-    "followers": 105,
+    "followers": 123,
     "privateContributions": 0,
-    "publicContributions": 481,
+    "publicContributions": 2947,
     "createdAt": "2025-10-31T12:49:39Z"
   },
   {
     "login": "tidynest",
     "name": "Eric Jingryd",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195969110?s=72&u=5c90bb39c65d33d97482ccd004ad817a56db7558&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195969110?s=72&u=4b9e7410144e79e05210ad67c0261a17409389fd&v=4",
     "location": "Gothenburg, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 69,
-    "privateContributions": 2858,
-    "publicContributions": 2271,
+    "followers": 104,
+    "privateContributions": 5177,
+    "publicContributions": 3219,
     "createdAt": "2025-01-21T20:34:03Z"
   },
   {
     "login": "davidgtorner",
     "name": "David Törner",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245175779?s=72&u=3df7747210f6026a47c887d961e9d28f743f667d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245175779?s=72&u=dfe3bce4759551bb222d77eabb6f9e0968ee92b3&v=4",
     "location": "Helsingborg, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 51,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2025-11-20T12:11:46Z"
   },
   {
@@ -1842,22 +1842,10 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "eliasstravik",
-    "followers": 51,
-    "privateContributions": 3878,
-    "publicContributions": 716,
+    "followers": 79,
+    "privateContributions": 5966,
+    "publicContributions": 1766,
     "createdAt": "2025-07-01T14:16:49Z"
-  },
-  {
-    "login": "iffyrit",
-    "name": "ifrit",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246903178?s=72&u=bfe173ceeace1de2939d4ff89f3668ff090ef2fd&v=4",
-    "location": "Sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-11-29T20:43:01Z"
   },
   {
     "login": "gesfontoura",
@@ -1866,7 +1854,7 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-08-12T12:13:18Z"

@@ -2360,7 +2360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 85,
     "createdAt": "2024-03-08T10:01:39Z"
   },
   {
@@ -2432,7 +2432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 861,
+    "publicContributions": 832,
     "createdAt": "2024-03-21T21:36:12Z"
   },
   {
@@ -2444,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 57,
-    "publicContributions": 593,
+    "publicContributions": 533,
     "createdAt": "2024-02-24T19:46:15Z"
   },
   {
@@ -2466,7 +2466,7 @@
     "location": "Slovakia, Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2024-10-05T10:35:38Z"
@@ -2478,9 +2478,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 401,
-    "publicContributions": 1210,
+    "followers": 20,
+    "privateContributions": 4,
+    "publicContributions": 1443,
     "createdAt": "2024-07-22T06:33:19Z"
   },
   {
@@ -2503,8 +2503,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 172,
-    "publicContributions": 332,
+    "privateContributions": 173,
+    "publicContributions": 371,
     "createdAt": "2024-09-12T16:41:17Z"
   },
   {
@@ -2515,21 +2515,9 @@
     "company": "",
     "twitterUsername": "vs_borodin",
     "followers": 7,
-    "privateContributions": 262,
-    "publicContributions": 440,
+    "privateContributions": 278,
+    "publicContributions": 528,
     "createdAt": "2024-11-15T19:13:58Z"
-  },
-  {
-    "login": "SEOJIAF",
-    "name": "Dušan Hlavatý",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185128130?s=72&u=923181e03428a1d058c6e091560b2acf21bfa4f3&v=4",
-    "location": "Slovakia",
-    "company": "@wezeo",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 147,
-    "publicContributions": 235,
-    "createdAt": "2024-10-15T20:08:06Z"
   },
   {
     "login": "ironlukas1",
@@ -2540,7 +2528,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 46,
-    "publicContributions": 96,
+    "publicContributions": 123,
     "createdAt": "2024-09-18T11:02:24Z"
   },
   {

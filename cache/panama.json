@@ -2394,7 +2394,7 @@
     "location": "Panama City, Panama",
     "company": "CTB - UPM",
     "twitterUsername": "milyquily",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-06-22T13:53:32Z"
@@ -2419,8 +2419,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 183,
+    "privateContributions": 316,
+    "publicContributions": 329,
     "createdAt": "2022-12-01T15:35:13Z"
   },
   {
@@ -2430,7 +2430,7 @@
     "location": "Panama",
     "company": "Universidad Tecnológica de Panamá",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-09T02:31:10Z"
@@ -2490,7 +2490,7 @@
     "location": "panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 62,
     "createdAt": "2022-11-19T10:43:31Z"
@@ -2502,22 +2502,10 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "lfloresbatista",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 39,
     "createdAt": "2022-01-10T22:30:19Z"
-  },
-  {
-    "login": "Tsarri",
-    "name": "Teo Irisarri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104706756?s=72&u=f7b963c8f440e43589ffc1c8fe43df56aa861568&v=4",
-    "location": "Panama City, Panama",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 162,
-    "createdAt": "2022-05-01T04:03:06Z"
   },
   {
     "login": "don-ferris",
@@ -2528,7 +2516,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 295,
+    "publicContributions": 308,
     "createdAt": "2022-07-23T21:35:53Z"
   },
   {
@@ -2538,9 +2526,9 @@
     "location": "Panama",
     "company": "WorkSpaceGaelP",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 92,
+    "followers": 3,
+    "privateContributions": 8,
+    "publicContributions": 91,
     "createdAt": "2022-11-19T23:31:19Z"
   },
   {
@@ -2576,7 +2564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 62,
     "createdAt": "2022-04-05T14:11:48Z"
   },
   {

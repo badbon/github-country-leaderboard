@@ -2395,8 +2395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 128,
+    "privateContributions": 64,
+    "publicContributions": 129,
     "createdAt": "2026-01-20T16:56:36Z"
   },
   {
@@ -2406,9 +2406,9 @@
     "location": "Colombo, Sri Lanka",
     "company": "SLIIT",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 70,
+    "followers": 2,
+    "privateContributions": 7,
+    "publicContributions": 77,
     "createdAt": "2025-12-30T12:17:36Z"
   },
   {
@@ -2420,7 +2420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 101,
     "createdAt": "2026-04-19T15:57:11Z"
   },
   {
@@ -2442,9 +2442,9 @@
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 25,
     "createdAt": "2026-01-21T16:01:26Z"
   },
   {
@@ -2456,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 139,
     "createdAt": "2026-01-15T19:30:34Z"
   },
   {
@@ -2478,9 +2478,9 @@
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 163,
-    "publicContributions": 220,
+    "followers": 4,
+    "privateContributions": 233,
+    "publicContributions": 277,
     "createdAt": "2026-02-12T05:56:19Z"
   },
   {
@@ -2492,7 +2492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 48,
     "createdAt": "2026-02-28T10:34:21Z"
   },
   {
@@ -2518,18 +2518,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-05T05:32:15Z"
-  },
-  {
-    "login": "IsuruLK66",
-    "name": "Isuru L. Bandara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/269714156?s=72&u=1a67bcb2f469549c04f51dbe87a43bae9ec0bc48&v=4",
-    "location": "Sri Lanka",
-    "company": "Self-employed",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-03-20T11:55:30Z"
   },
   {
     "login": "vaishavi-v",
@@ -2562,9 +2550,9 @@
     "location": "Colombo Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2026-03-13T16:25:43Z"
   },
   {
@@ -2576,7 +2564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 68,
     "createdAt": "2026-02-12T13:29:55Z"
   },
   {

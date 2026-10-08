@@ -2576,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 20,
     "createdAt": "2024-10-06T23:00:30Z"
   },
   {
@@ -2611,7 +2611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 221,
+    "privateContributions": 329,
     "publicContributions": 29,
     "createdAt": "2024-09-13T20:04:22Z"
   },
@@ -2624,7 +2624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 3,
     "createdAt": "2024-10-08T00:31:00Z"
   },
   {
@@ -2636,7 +2636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 36,
     "createdAt": "2024-02-21T17:55:25Z"
   },
   {
@@ -2648,7 +2648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 213,
     "createdAt": "2024-05-29T23:21:22Z"
   },
   {
@@ -2660,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 46,
     "createdAt": "2024-08-10T20:07:51Z"
   },
   {
@@ -2671,7 +2671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 336,
+    "privateContributions": 319,
     "publicContributions": 8,
     "createdAt": "2024-01-19T19:23:36Z"
   },
@@ -2696,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 11,
+    "publicContributions": 6,
     "createdAt": "2024-02-28T19:18:56Z"
   },
   {
@@ -2708,7 +2708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 127,
     "createdAt": "2024-07-06T18:00:06Z"
   },
   {
@@ -2720,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 99,
     "createdAt": "2024-03-25T00:09:02Z"
   },
   {
@@ -2730,9 +2730,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 29,
+    "followers": 3,
+    "privateContributions": 69,
+    "publicContributions": 38,
     "createdAt": "2024-12-22T13:15:34Z"
   },
   {
@@ -2756,7 +2756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 79,
     "createdAt": "2024-08-30T14:07:23Z"
   },
   {
@@ -2770,18 +2770,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-02T12:43:30Z"
-  },
-  {
-    "login": "gabnunezm",
-    "name": "Gabriel Nuñez Medina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190317416?s=72&u=343543fad6ca7ed660d6bd6eb495eb6392c837fa&v=4",
-    "location": "Santo Domingo, Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2024-12-02T01:51:49Z"
   },
   {
     "login": "adcotech",
@@ -2798,13 +2786,13 @@
   {
     "login": "atmediallc",
     "name": "Angelo Tejada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178343599?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178343599?s=72&u=a9c95e4a6310453893409b8ead222ee469b5819f&v=4",
     "location": "Dominican Republic",
     "company": "AT Media LLC",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 337,
+    "followers": 2,
+    "privateContributions": 2093,
+    "publicContributions": 403,
     "createdAt": "2024-08-14T00:15:21Z"
   },
   {

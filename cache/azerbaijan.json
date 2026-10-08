@@ -2672,20 +2672,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-07-14T03:41:07Z"
-  },
-  {
-    "login": "RafigaAllahverdizade",
-    "name": "Rafiga Allahverdizade",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226575343?s=72&u=98cd81ea1bee8d08e74b5b28cb57fed1a7e11c70&v=4",
-    "location": "Azerbaijan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2025-08-14T17:26:29Z"
   },
   {
     "login": "eltunht",
@@ -2696,7 +2684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 20,
     "createdAt": "2025-07-05T21:51:39Z"
   },
   {
@@ -2707,8 +2695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 410,
+    "privateContributions": 27,
+    "publicContributions": 412,
     "createdAt": "2025-12-19T15:11:11Z"
   },
   {
@@ -2718,9 +2706,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 439,
+    "publicContributions": 472,
     "createdAt": "2025-11-23T19:17:46Z"
   },
   {
@@ -2732,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2025-11-12T19:27:35Z"
   },
   {
@@ -2744,7 +2732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 38,
     "createdAt": "2025-09-30T08:05:01Z"
   },
   {
@@ -2768,7 +2756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 20,
     "createdAt": "2025-03-23T09:45:15Z"
   },
   {
@@ -2779,8 +2767,8 @@
     "company": "Azintelecom",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 24,
+    "privateContributions": 164,
+    "publicContributions": 0,
     "createdAt": "2025-08-03T11:06:07Z"
   },
   {
@@ -2790,21 +2778,21 @@
     "location": "Azerbaijan Baku",
     "company": "Hmc Company",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 238,
     "createdAt": "2025-09-25T06:13:24Z"
   },
   {
     "login": "Sadiq153993",
     "name": "Sadiq",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/244832351?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/244832351?s=72&u=d388afdb59960b9d0822558b4b01e4948207ad84&v=4",
     "location": "Baku, Azerbaijan",
     "company": "Student / Learner",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2025-11-18T22:08:48Z"
   },
   {

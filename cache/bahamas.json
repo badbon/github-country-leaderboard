@@ -2611,8 +2611,8 @@
     "company": "",
     "twitterUsername": "ry_austin",
     "followers": 13,
-    "privateContributions": 1324,
-    "publicContributions": 4,
+    "privateContributions": 2456,
+    "publicContributions": 5,
     "createdAt": "2013-05-07T01:05:05Z"
   },
   {
@@ -2624,7 +2624,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2013-01-02T21:26:32Z"
   },
   {
@@ -2636,7 +2636,7 @@
     "twitterUsername": "bowenavarro",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2013-08-04T20:30:54Z"
   },
   {
@@ -2684,7 +2684,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 62,
     "createdAt": "2013-10-10T19:42:10Z"
   },
   {
@@ -2732,7 +2732,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 44,
     "createdAt": "2012-07-12T23:09:59Z"
   },
   {
@@ -2744,7 +2744,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 9,
     "createdAt": "2012-05-24T16:49:44Z"
   },
   {
@@ -2758,18 +2758,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-12-03T15:41:21Z"
-  },
-  {
-    "login": "kiarashplusplus",
-    "name": "Kiarash Adl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1780945?s=72&u=ecfca49058f6a56cdc78fadbbc2acd59097f7aae&v=4",
-    "location": "Nassau Bay, Texas",
-    "company": "Undisk MCP",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 4720,
-    "publicContributions": 792,
-    "createdAt": "2012-05-26T14:38:22Z"
   },
   {
     "login": "cpdundon",
@@ -2816,7 +2804,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 145,
     "createdAt": "2011-02-12T21:36:16Z"
   },
   {

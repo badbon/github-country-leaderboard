@@ -2370,9 +2370,9 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 155,
     "createdAt": "2025-12-28T12:55:56Z"
   },
   {
@@ -2382,9 +2382,9 @@
     "location": "Kohat, Pakistan",
     "company": "KUST — Institute of Computing",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 154,
     "createdAt": "2026-05-01T14:36:52Z"
   },
   {
@@ -2394,9 +2394,9 @@
     "location": "Lahore,Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 168,
     "createdAt": "2026-01-17T10:11:34Z"
   },
   {
@@ -2418,7 +2418,7 @@
     "location": "Lahore, Pakistan ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-04-17T20:24:43Z"
@@ -2430,7 +2430,7 @@
     "location": "Pakistan,Lahore",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-04-29T07:49:01Z"
@@ -2444,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 93,
+    "publicContributions": 119,
     "createdAt": "2026-01-09T12:34:25Z"
   },
   {
@@ -2454,33 +2454,21 @@
     "location": "Pakistan",
     "company": "Other",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 71,
     "createdAt": "2026-02-23T09:48:14Z"
-  },
-  {
-    "login": "shahzaibjavedpy",
-    "name": "Shahzaib Javed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/268367923?s=72&u=b4b233f61ecdd2bbad94977d5163af23dd15311b&v=4",
-    "location": "Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2026-03-15T12:56:45Z"
   },
   {
     "login": "syedfahimrazxafahim-art",
     "name": "Fahim Coder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/266286779?s=72&u=c31ac58499190671562dd88d63605e4bd3d34e10&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/266286779?s=72&u=a1f31556ced1b4a4e8682b4ed9084619ed7cd27a&v=4",
     "location": "Karachi , Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 264,
     "createdAt": "2026-03-07T12:08:58Z"
   },
   {
@@ -2492,7 +2480,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 397,
+    "publicContributions": 440,
     "createdAt": "2026-03-26T03:26:01Z"
   },
   {
@@ -2503,7 +2491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 57,
+    "privateContributions": 72,
     "publicContributions": 27,
     "createdAt": "2026-04-05T17:56:49Z"
   },
@@ -2550,7 +2538,7 @@
     "location": "Karachi, Pakistan.",
     "company": "Stryven Studio",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-16T11:59:15Z"
@@ -2562,8 +2550,8 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 53,
+    "followers": 5,
+    "privateContributions": 64,
     "publicContributions": 192,
     "createdAt": "2025-12-30T14:08:19Z"
   },
@@ -2581,14 +2569,14 @@
   },
   {
     "login": "SkyInfra",
-    "name": "Haseeb Akhtar",
+    "name": "Muhammad  Haseeb Akhtar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/261734361?s=72&u=9a34716139367946ccb273576e6a000c267aa379&v=4",
     "location": "Islamabad Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 249,
     "createdAt": "2026-02-15T10:08:33Z"
   },
   {

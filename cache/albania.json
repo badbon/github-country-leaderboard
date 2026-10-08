@@ -2586,21 +2586,21 @@
     "location": "Tirana",
     "company": "HB Solutions",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 108,
+    "followers": 4,
+    "privateContributions": 133,
     "publicContributions": 4,
     "createdAt": "2023-07-30T08:40:02Z"
   },
   {
     "login": "kaltramuho",
     "name": "Kaltra Muho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150854819?s=72&u=f1d16fe1a49593d359ad7888d8362a0ac6b6f6f3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150854819?s=72&u=85248a0f58594b60658f5c6165a5a65eddd0eda5&v=4",
     "location": "Tirana",
     "company": "ProDATA",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 176,
-    "publicContributions": 100,
+    "privateContributions": 146,
+    "publicContributions": 102,
     "createdAt": "2023-11-14T20:38:27Z"
   },
   {
@@ -2612,7 +2612,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 320,
     "createdAt": "2023-06-14T13:40:16Z"
   },
   {
@@ -2670,7 +2670,7 @@
     "location": "Tirana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-20T21:54:52Z"
@@ -2718,22 +2718,10 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 214,
+    "followers": 228,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 78,
     "createdAt": "2022-09-27T18:58:38Z"
-  },
-  {
-    "login": "selimaj-dev",
-    "name": "Klesti Selimaj",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103524696?s=72&u=4029bb741468bbafd22ad42d01b8ed16e215a30d&v=4",
-    "location": "Albania",
-    "company": "@orus-dev",
-    "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 295,
-    "publicContributions": 3727,
-    "createdAt": "2022-04-12T16:35:00Z"
   },
   {
     "login": "ezekaj",
@@ -2742,9 +2730,9 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 2803,
-    "publicContributions": 1576,
+    "followers": 36,
+    "privateContributions": 3410,
+    "publicContributions": 1001,
     "createdAt": "2022-07-13T13:22:43Z"
   },
   {
@@ -2754,9 +2742,9 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 1164,
-    "publicContributions": 3,
+    "followers": 27,
+    "privateContributions": 1136,
+    "publicContributions": 7,
     "createdAt": "2022-05-03T18:39:14Z"
   },
   {
@@ -2766,8 +2754,8 @@
     "location": "Tiranë, Albania",
     "company": "Happy Pay",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 867,
+    "followers": 23,
+    "privateContributions": 1345,
     "publicContributions": 64,
     "createdAt": "2022-06-25T08:08:09Z"
   },
@@ -2778,7 +2766,7 @@
     "location": "Tirana, Albania",
     "company": "Lufthansa Industry Solutions",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 17,
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2022-05-08T16:43:52Z"
@@ -2791,8 +2779,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 4,
-    "publicContributions": 85,
+    "privateContributions": 16,
+    "publicContributions": 103,
     "createdAt": "2022-04-02T10:10:13Z"
   },
   {
@@ -2802,8 +2790,8 @@
     "location": "Albania",
     "company": "Uesli Laska",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 0,
+    "followers": 12,
+    "privateContributions": 3,
     "publicContributions": 2,
     "createdAt": "2022-01-23T21:41:44Z"
   },
@@ -2814,8 +2802,8 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 190,
+    "followers": 18,
+    "privateContributions": 330,
     "publicContributions": 6,
     "createdAt": "2022-04-30T19:52:35Z"
   },

@@ -2384,7 +2384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 18,
     "createdAt": "2024-04-29T13:00:05Z"
   },
   {
@@ -2394,9 +2394,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 94,
     "createdAt": "2024-07-11T02:03:18Z"
   },
   {
@@ -2408,7 +2408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 192,
     "createdAt": "2024-08-22T21:49:01Z"
   },
   {
@@ -2418,22 +2418,10 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 68,
     "createdAt": "2024-02-12T16:11:53Z"
-  },
-  {
-    "login": "norttech",
-    "name": "NORTTECH Labs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178392472?s=72&u=402bcea27287a8fa9a40c3fccd4a5c07e6be6b61&v=4",
-    "location": "San Salvador, El Salvador",
-    "company": "Norttech",
-    "twitterUsername": "norttechlabs",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2024-08-14T12:29:07Z"
   },
   {
     "login": "WillyAlvarenga",
@@ -2450,13 +2438,13 @@
   {
     "login": "DraxxMaldo",
     "name": "Rodrigo Maldonado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190159333?s=72&u=c912b32e2dc40693c8fd58e6513d085ed3bb2d9b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190159333?s=72&u=d85582db8539601d5d69182b5379cba15e2df250&v=4",
     "location": "El Salvador",
     "company": "Cactus-startup",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 33,
     "createdAt": "2024-11-30T04:38:51Z"
   },
   {
@@ -2502,9 +2490,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 14,
     "createdAt": "2024-01-18T17:22:52Z"
   },
   {
@@ -2516,20 +2504,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2024-08-20T16:34:59Z"
-  },
-  {
-    "login": "danielsaboridotorresia",
-    "name": "Daniel Saborido Torres",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170444103?s=72&u=700a9f264256488836513026cdfdd4e84f3651e8&v=4",
-    "location": "Santa Tecla, La Libertad, El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 201,
-    "publicContributions": 89,
-    "createdAt": "2024-05-21T15:10:34Z"
   },
   {
     "login": "inspirastem",
@@ -2538,9 +2514,9 @@
     "location": "San Salvador, El Salvador",
     "company": "InspiraSTEM",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2024-11-13T23:00:52Z"
   },
   {

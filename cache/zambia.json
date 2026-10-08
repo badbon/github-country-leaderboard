@@ -2348,7 +2348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-08-30T20:20:01Z"
   },
   {
@@ -2372,7 +2372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 45,
     "createdAt": "2024-11-11T06:52:42Z"
   },
   {
@@ -2432,7 +2432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-07-22T08:21:36Z"
   },
   {
@@ -2464,7 +2464,7 @@
     "name": "jey",
     "avatarUrl": "https://avatars.githubusercontent.com/u/162467799?s=72&v=4",
     "location": "Lusaka Zambia ",
-    "company": "CyberTech Empire ",
+    "company": "jey",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -2480,7 +2480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2024-03-25T16:09:00Z"
   },
   {
@@ -2492,7 +2492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2024-10-07T06:46:52Z"
   },
   {
@@ -2502,9 +2502,9 @@
     "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 49,
+    "followers": 11,
+    "privateContributions": 2,
+    "publicContributions": 120,
     "createdAt": "2024-06-22T02:44:54Z"
   },
   {
@@ -2514,9 +2514,9 @@
     "location": "Lusaka Mandevu ",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 43,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 20,
     "createdAt": "2024-10-14T22:02:59Z"
   },
   {
@@ -2526,9 +2526,9 @@
     "location": "Lusaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 241,
-    "publicContributions": 366,
+    "followers": 17,
+    "privateContributions": 317,
+    "publicContributions": 270,
     "createdAt": "2024-04-02T18:10:47Z"
   },
   {
@@ -2538,9 +2538,9 @@
     "location": "Lusaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 4,
-    "publicContributions": 46,
+    "followers": 11,
+    "privateContributions": 6,
+    "publicContributions": 76,
     "createdAt": "2024-09-13T12:35:20Z"
   },
   {
@@ -2550,9 +2550,9 @@
     "location": "Lusaka",
     "company": "Homiee",
     "twitterUsername": "martintembo_1",
-    "followers": 8,
-    "privateContributions": 3,
-    "publicContributions": 28,
+    "followers": 10,
+    "privateContributions": 2,
+    "publicContributions": 2,
     "createdAt": "2024-01-03T16:31:55Z"
   },
   {
@@ -2562,7 +2562,7 @@
     "location": "Lusaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-07T23:24:54Z"
@@ -2575,8 +2575,8 @@
     "company": "hytel",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 72,
-    "publicContributions": 33,
+    "privateContributions": 19,
+    "publicContributions": 31,
     "createdAt": "2024-08-20T17:01:09Z"
   },
   {

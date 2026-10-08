@@ -2432,7 +2432,7 @@
     "twitterUsername": "defo0",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2024-12-04T20:27:44Z"
   },
   {
@@ -2442,7 +2442,7 @@
     "location": "Oman",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-15T15:06:16Z"
@@ -2456,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 693,
+    "publicContributions": 736,
     "createdAt": "2024-07-20T06:47:10Z"
   },
   {
@@ -2490,9 +2490,9 @@
     "location": "Oman",
     "company": "Sohar University, Faculty of Computing and Information Technology",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 323,
+    "publicContributions": 398,
     "createdAt": "2024-08-04T17:37:07Z"
   },
   {
@@ -2510,13 +2510,13 @@
   {
     "login": "MaNiasudo",
     "name": "TahaEfazati",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186559571?s=72&u=ce0152d2d10eea379976cb7c9ca9a089a6761aba&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186559571?s=72&u=3aba9e02d25478c8ab34e5eb0afbd5e45b6267a3&v=4",
     "location": "Muscat, Oman",
     "company": "Easyenv.io",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 739,
-    "publicContributions": 130,
+    "privateContributions": 1464,
+    "publicContributions": 15,
     "createdAt": "2024-10-28T08:48:42Z"
   },
   {
@@ -2528,7 +2528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 3,
     "createdAt": "2024-02-29T07:49:47Z"
   },
   {
@@ -2540,7 +2540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 171,
     "createdAt": "2024-05-25T13:52:58Z"
   },
   {
@@ -2575,7 +2575,7 @@
     "company": "Quantitive Engineering LLC",
     "twitterUsername": "Asadh2",
     "followers": 1,
-    "privateContributions": 306,
+    "privateContributions": 315,
     "publicContributions": 6,
     "createdAt": "2024-12-20T15:38:24Z"
   },

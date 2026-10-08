@@ -2300,7 +2300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 88,
     "createdAt": "2025-07-19T17:40:16Z"
   },
   {
@@ -2310,7 +2310,7 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-03-09T21:20:30Z"
@@ -2324,7 +2324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-04-18T02:59:41Z"
   },
   {
@@ -2350,18 +2350,6 @@
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2025-07-21T03:01:52Z"
-  },
-  {
-    "login": "facundocabralvaldivia",
-    "name": "Facundo Cabral",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211617200?s=72&u=a5db58a2c43ca3c56b73b646dc4f9c126410d327&v=4",
-    "location": "Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 59,
-    "createdAt": "2025-05-14T04:49:14Z"
   },
   {
     "login": "eduardosanchezrond-eng",
@@ -2396,20 +2384,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-08-30T04:00:58Z"
-  },
-  {
-    "login": "crisnaltt",
-    "name": "Christopher Urbina Rojas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206974915?s=72&u=92766100ace85abf99c9cca2867178367fe26093&v=4",
-    "location": "PERU",
-    "company": "DDPERU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
     "publicContributions": 0,
-    "createdAt": "2025-04-10T03:56:04Z"
+    "createdAt": "2025-08-30T04:00:58Z"
   },
   {
     "login": "Dalqt-27",
@@ -2420,7 +2396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 56,
     "createdAt": "2025-11-14T16:22:51Z"
   },
   {
@@ -2454,7 +2430,7 @@
     "location": "Lima, Peru",
     "company": "Credit Bank of Peru",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-06-13T13:37:12Z"
@@ -2468,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 30,
     "createdAt": "2025-08-26T17:07:25Z"
   },
   {
@@ -2480,20 +2456,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 29,
     "createdAt": "2025-07-21T20:48:34Z"
-  },
-  {
-    "login": "markhv-dev",
-    "name": "Mark ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232687714?s=72&u=24569a51b43f2d2f1eb21c3ea941e5f285a8c51c&v=4",
-    "location": "Peru",
-    "company": "...",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 472,
-    "publicContributions": 27,
-    "createdAt": "2025-09-16T21:54:17Z"
   },
   {
     "login": "DArsem2306",
@@ -2528,7 +2492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 0,
     "createdAt": "2025-08-08T01:01:25Z"
   },
   {

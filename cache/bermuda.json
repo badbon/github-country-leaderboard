@@ -2312,7 +2312,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2021-09-22T04:56:30Z"
   },
   {
@@ -2322,21 +2322,21 @@
     "location": "Hamilton, ON",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-12-14T21:02:12Z"
   },
   {
     "login": "vitorames404",
     "name": "Vitor Ames",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82846956?s=72&u=eecf57a5bfbc57d9bc366289ef3c6c812d0d745e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82846956?s=72&u=ca396845e8fb768ea3d3206ddfa5047ec5de0c97&v=4",
     "location": "Hamilton",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 25,
-    "publicContributions": 51,
+    "publicContributions": 34,
     "createdAt": "2021-04-19T22:04:26Z"
   },
   {
@@ -2370,7 +2370,7 @@
     "location": "Hamilton, ON",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-22T15:45:23Z"
@@ -2383,8 +2383,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1452,
-    "publicContributions": 29,
+    "privateContributions": 1791,
+    "publicContributions": 35,
     "createdAt": "2021-09-29T16:14:38Z"
   },
   {
@@ -2395,8 +2395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 51,
-    "publicContributions": 107,
+    "privateContributions": 67,
+    "publicContributions": 71,
     "createdAt": "2021-12-17T18:56:48Z"
   },
   {
@@ -2420,7 +2420,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 9,
     "createdAt": "2021-01-12T03:18:56Z"
   },
   {
@@ -2431,21 +2431,9 @@
     "company": "J&B Consulting",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 83,
+    "privateContributions": 173,
     "publicContributions": 2,
     "createdAt": "2021-03-03T02:04:35Z"
-  },
-  {
-    "login": "zallahve",
-    "name": "Ziya Allahverdiyev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91185216?s=72&u=9e6b6087086f59679f82425bb81dfcee53fc31df&v=4",
-    "location": "Hamilton, Ontario",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 482,
-    "createdAt": "2021-09-22T08:16:46Z"
   },
   {
     "login": "dyvine96",
@@ -2456,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-11-01T18:36:28Z"
   },
   {
@@ -2468,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 148,
     "createdAt": "2021-10-26T10:21:09Z"
   },
   {
@@ -2480,7 +2468,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 75,
     "createdAt": "2021-06-03T02:16:40Z"
   },
   {
@@ -2490,9 +2478,9 @@
     "location": "Oxford, OH, Hamilton, OH",
     "company": "Miami University",
     "twitterUsername": "roseaw",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 614,
+    "publicContributions": 579,
     "createdAt": "2021-05-08T18:18:27Z"
   },
   {
@@ -2514,9 +2502,9 @@
     "location": "Hamilton, ON",
     "company": "McMaster University",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 175,
-    "publicContributions": 410,
+    "followers": 4,
+    "privateContributions": 186,
+    "publicContributions": 468,
     "createdAt": "2021-08-18T16:54:26Z"
   },
   {
@@ -2539,7 +2527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 177,
+    "privateContributions": 205,
     "publicContributions": 0,
     "createdAt": "2021-05-06T09:02:09Z"
   },
@@ -8504,7 +8492,7 @@
     "twitterUsername": "hashtagcpt",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 36,
     "createdAt": "2014-05-15T11:54:38Z"
   },
   {

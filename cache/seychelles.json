@@ -2370,7 +2370,7 @@
     "location": "Victoria, BC",
     "company": "Telus Communication Inc.",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-12-05T15:50:32Z"
@@ -2396,7 +2396,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 332,
+    "publicContributions": 261,
     "createdAt": "2022-11-11T21:39:43Z"
   },
   {
@@ -2407,8 +2407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 177,
-    "publicContributions": 42,
+    "privateContributions": 174,
+    "publicContributions": 41,
     "createdAt": "2022-03-22T00:25:29Z"
   },
   {
@@ -2443,7 +2443,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 46,
+    "privateContributions": 44,
     "publicContributions": 100,
     "createdAt": "2022-02-18T03:52:33Z"
   },
@@ -2455,21 +2455,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 46,
-    "publicContributions": 82,
+    "privateContributions": 39,
+    "publicContributions": 44,
     "createdAt": "2022-11-05T02:49:40Z"
-  },
-  {
-    "login": "Amin-Yazdanshenas",
-    "name": "Amin Yazdanshenas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110173003?s=72&u=2973509deef34aaa058e3afd9fae1e796ae7ae1f&v=4",
-    "location": "350 Victoria St",
-    "company": "Toronto metropolitan university",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 36,
-    "publicContributions": 253,
-    "createdAt": "2022-07-28T12:01:13Z"
   },
   {
     "login": "mixrecovery19",
@@ -2478,9 +2466,9 @@
     "location": "Reservoir, Victoria 3075",
     "company": "@mixrecovery19",
     "twitterUsername": "mixrecovery19",
-    "followers": 4,
-    "privateContributions": 334,
-    "publicContributions": 146,
+    "followers": 3,
+    "privateContributions": 326,
+    "publicContributions": 134,
     "createdAt": "2022-05-14T14:24:32Z"
   },
   {
@@ -2491,8 +2479,8 @@
     "company": "University of Victoria",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 81,
-    "publicContributions": 25,
+    "privateContributions": 17,
+    "publicContributions": 11,
     "createdAt": "2022-10-05T18:00:20Z"
   },
   {
@@ -2514,7 +2502,7 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "M_Davies",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2022-01-25T23:10:03Z"
@@ -2538,9 +2526,9 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1425,
-    "publicContributions": 42,
+    "followers": 5,
+    "privateContributions": 1482,
+    "publicContributions": 62,
     "createdAt": "2022-06-02T21:59:28Z"
   },
   {
@@ -2575,7 +2563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 246,
+    "privateContributions": 307,
     "publicContributions": 0,
     "createdAt": "2022-05-05T17:03:45Z"
   },

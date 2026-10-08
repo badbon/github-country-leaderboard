@@ -2611,7 +2611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 81,
+    "privateContributions": 97,
     "publicContributions": 1,
     "createdAt": "2025-10-30T12:27:44Z"
   },
@@ -2635,7 +2635,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 306,
+    "privateContributions": 605,
     "publicContributions": 1,
     "createdAt": "2025-12-26T13:25:43Z"
   },
@@ -2660,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 5,
     "createdAt": "2025-08-06T08:09:35Z"
   },
   {
@@ -2671,7 +2671,7 @@
     "company": "Der Standard",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 612,
+    "privateContributions": 793,
     "publicContributions": 0,
     "createdAt": "2025-05-19T09:46:21Z"
   },
@@ -2694,7 +2694,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2025-01-08T12:44:38Z"
@@ -2708,7 +2708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 2,
     "createdAt": "2025-07-19T16:09:48Z"
   },
   {
@@ -2755,8 +2755,8 @@
     "company": "Scale Up",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 268,
-    "publicContributions": 1,
+    "privateContributions": 217,
+    "publicContributions": 2,
     "createdAt": "2025-01-31T19:19:57Z"
   },
   {
@@ -2768,7 +2768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-01-19T14:00:26Z"
   },
   {
@@ -2780,20 +2780,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 75,
     "createdAt": "2025-09-21T21:12:41Z"
-  },
-  {
-    "login": "ACatCoder-builds",
-    "name": "ACatCoder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221525730?s=72&u=62d3e2b19bd609ab0ff9baf2716ebadf5f625549&v=4",
-    "location": "austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-07-18T09:29:32Z"
   },
   {
     "login": "VeronikaHlr",
@@ -2804,7 +2792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-05-13T13:16:57Z"
   },
   {

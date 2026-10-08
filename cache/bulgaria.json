@@ -2612,7 +2612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-08-03T04:47:52Z"
   },
   {
@@ -2636,7 +2636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 497,
     "createdAt": "2025-05-11T15:57:24Z"
   },
   {
@@ -2670,9 +2670,9 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 88,
     "createdAt": "2025-09-15T17:17:57Z"
   },
   {
@@ -2683,8 +2683,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 724,
-    "publicContributions": 860,
+    "privateContributions": 579,
+    "publicContributions": 691,
     "createdAt": "2025-01-18T05:18:12Z"
   },
   {
@@ -2696,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 3,
     "createdAt": "2025-04-14T12:39:33Z"
   },
   {
@@ -2708,7 +2708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 192,
     "createdAt": "2025-10-01T09:22:17Z"
   },
   {
@@ -2768,7 +2768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 7,
     "createdAt": "2024-12-28T21:32:59Z"
   },
   {
@@ -2776,10 +2776,10 @@
     "name": "Alexander Stoilov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/219824037?s=72&u=c72492dbd2a2947b1a07de1d2946fe6b564c110e&v=4",
     "location": "Sofia, Bulgaria",
-    "company": "Tailored",
+    "company": "Mettissa",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 825,
+    "privateContributions": 788,
     "publicContributions": 0,
     "createdAt": "2025-07-08T09:44:16Z"
   },
@@ -2827,8 +2827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 16,
+    "privateContributions": 17,
+    "publicContributions": 12,
     "createdAt": "2025-03-18T10:05:37Z"
   },
   {
@@ -169054,5 +169054,53 @@
     "privateContributions": 199,
     "publicContributions": 84,
     "createdAt": "2024-08-19T17:14:23Z"
+  },
+  {
+    "login": "konstantingeorg03-coder",
+    "name": "Konstantin Georgiev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284717572?s=72&v=4",
+    "location": "Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 297,
+    "createdAt": "2026-05-14T16:24:11Z"
+  },
+  {
+    "login": "Kalinina3003",
+    "name": "Maria Kalinina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287185664?s=72&u=59be8a3d975fcdd6d3e20cec066e454e38820e04&v=4",
+    "location": "Bulgaria, Sofia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 402,
+    "createdAt": "2026-05-23T09:21:57Z"
+  },
+  {
+    "login": "asen-tanev",
+    "name": "Asen Tanev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286353070?s=72&u=0a543e66f704c0255281f31cb429644503a333f9&v=4",
+    "location": "Italy / Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-20T13:32:36Z"
+  },
+  {
+    "login": "dilyana-futekova",
+    "name": "Dilyana Futekova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288331842?s=72&u=28926360f21c3ddef0fb3b990514338c2229d97c&v=4",
+    "location": "Varna, Bulgaria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-27T13:21:35Z"
   }
 ]

@@ -2360,7 +2360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 11,
     "createdAt": "2023-04-01T07:34:49Z"
   },
   {
@@ -2442,9 +2442,9 @@
     "location": "Murska Sobota, Slovenia",
     "company": "",
     "twitterUsername": "rokbenko",
-    "followers": 113,
-    "privateContributions": 626,
-    "publicContributions": 37,
+    "followers": 130,
+    "privateContributions": 505,
+    "publicContributions": 619,
     "createdAt": "2022-10-12T15:59:26Z"
   },
   {
@@ -2454,7 +2454,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 102,
+    "followers": 91,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-01T08:18:36Z"
@@ -2470,18 +2470,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-16T11:25:38Z"
-  },
-  {
-    "login": "dromation",
-    "name": "Dromation",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105428507?s=72&u=e5160f1dfe90b6b15d41146d529f26d5d4b9cc16&v=4",
-    "location": "Slovenia",
-    "company": "@dromation",
-    "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 0,
-    "publicContributions": 60,
-    "createdAt": "2022-05-12T10:53:53Z"
   },
   {
     "login": "krisssttinaa",
@@ -2503,7 +2491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 5,
+    "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2022-11-25T09:07:47Z"
   },
@@ -2515,8 +2503,8 @@
     "company": "VIAR d.o.o.",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 357,
-    "publicContributions": 36,
+    "privateContributions": 404,
+    "publicContributions": 89,
     "createdAt": "2022-01-16T15:04:59Z"
   },
   {
@@ -2528,7 +2516,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 347,
+    "publicContributions": 260,
     "createdAt": "2022-04-11T14:54:08Z"
   },
   {
@@ -2540,7 +2528,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 19,
     "createdAt": "2022-12-17T11:28:44Z"
   },
   {
@@ -2552,7 +2540,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 138,
     "createdAt": "2022-03-04T14:10:31Z"
   },
   {
@@ -2562,7 +2550,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 5,
     "publicContributions": 10,
     "createdAt": "2022-08-29T08:22:40Z"
@@ -2575,8 +2563,8 @@
     "company": "@TectonicNetwork",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 166,
-    "publicContributions": 348,
+    "privateContributions": 133,
+    "publicContributions": 343,
     "createdAt": "2022-02-11T12:01:49Z"
   },
   {
@@ -2586,9 +2574,9 @@
     "location": "Remotely / Slovenia",
     "company": "@shopware",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 868,
-    "publicContributions": 331,
+    "followers": 9,
+    "privateContributions": 858,
+    "publicContributions": 334,
     "createdAt": "2022-11-03T11:53:07Z"
   },
   {

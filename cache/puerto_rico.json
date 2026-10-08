@@ -2384,7 +2384,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2023-08-09T01:13:11Z"
   },
   {
@@ -2395,8 +2395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 160,
-    "publicContributions": 64,
+    "privateContributions": 251,
+    "publicContributions": 46,
     "createdAt": "2023-08-21T23:08:29Z"
   },
   {
@@ -2420,7 +2420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 0,
     "createdAt": "2023-07-31T23:57:31Z"
   },
   {
@@ -2432,7 +2432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 202,
+    "publicContributions": 0,
     "createdAt": "2023-05-02T01:49:49Z"
   },
   {
@@ -2455,8 +2455,8 @@
     "company": "SJ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 12,
+    "privateContributions": 5,
+    "publicContributions": 14,
     "createdAt": "2023-02-11T19:04:55Z"
   },
   {
@@ -2480,7 +2480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 53,
     "createdAt": "2023-11-14T21:10:26Z"
   },
   {
@@ -2492,7 +2492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-08-27T01:31:59Z"
   },
   {
@@ -2552,7 +2552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 29,
     "createdAt": "2023-03-18T15:18:54Z"
   },
   {
@@ -2564,20 +2564,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 46,
+    "publicContributions": 33,
     "createdAt": "2023-10-20T04:56:10Z"
-  },
-  {
-    "login": "rukitoyordan",
-    "name": "Rukito",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123176121?s=72&u=f0e7822c28bb0f5b3b6116bb50e1ebeb58e1fed5&v=4",
-    "location": "Puerto Rico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2023-01-20T13:27:07Z"
   },
   {
     "login": "ASQ315",
@@ -2612,7 +2600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 34,
     "createdAt": "2023-02-06T21:51:12Z"
   },
   {

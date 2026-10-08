@@ -2348,7 +2348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 170,
     "createdAt": "2025-01-15T13:29:49Z"
   },
   {
@@ -2372,7 +2372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 347,
+    "publicContributions": 534,
     "createdAt": "2025-10-15T19:37:09Z"
   },
   {
@@ -2408,7 +2408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2025-09-15T19:04:06Z"
   },
   {
@@ -2444,7 +2444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 33,
     "createdAt": "2025-02-28T02:06:32Z"
   },
   {
@@ -2496,18 +2496,6 @@
     "createdAt": "2025-05-17T19:34:21Z"
   },
   {
-    "login": "ungardev",
-    "name": "Ungar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225593034?s=72&u=975bc477fa812a5e15e689cb18f56059409847b3&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2654,
-    "createdAt": "2025-08-09T17:17:39Z"
-  },
-  {
     "login": "NelsonRamos-code",
     "name": "Nelson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/210857934?s=72&u=05fd9ad17f738b37c3233396ce7fcebb8f3ae30a&v=4",
@@ -2516,7 +2504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 0,
     "createdAt": "2025-05-08T12:33:42Z"
   },
   {

@@ -2352,27 +2352,15 @@
     "createdAt": "2026-03-07T05:06:10Z"
   },
   {
-    "login": "fep-dev",
-    "name": "Francisco Paviolo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/277558698?s=72&u=bca59b531fbfb8f7908db6a272ae563835f34c51&v=4",
-    "location": "Córdoba, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2026-04-19T21:21:16Z"
-  },
-  {
     "login": "RaMiVall",
     "name": "Ramio Valentin Contreras",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255362000?s=72&u=ee4066b6ba77000fe747dc2ee148a03354fe34d5&v=4",
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 51,
     "createdAt": "2026-01-16T13:55:33Z"
   },
   {
@@ -2418,7 +2406,7 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 67,
     "createdAt": "2026-02-19T04:44:13Z"
@@ -2444,7 +2432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 37,
     "createdAt": "2026-04-02T20:19:56Z"
   },
   {
@@ -2468,20 +2456,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2026-04-15T13:21:24Z"
-  },
-  {
-    "login": "mauriciogoya-dot",
-    "name": "Mauricio Merlo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276399109?s=72&u=46481308c292c6bb65333b0c365b42da014330b4&v=4",
-    "location": "Zapala, Neuquén, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 53,
-    "createdAt": "2026-04-15T19:35:42Z"
   },
   {
     "login": "archlatam",
@@ -2492,7 +2468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 51,
     "createdAt": "2026-02-21T14:15:40Z"
   },
   {
@@ -2540,7 +2516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 219,
     "createdAt": "2026-03-04T20:41:06Z"
   },
   {

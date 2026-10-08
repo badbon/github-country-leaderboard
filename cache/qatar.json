@@ -2274,9 +2274,9 @@
     "location": "qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 127,
     "createdAt": "2023-09-29T17:25:52Z"
   },
   {
@@ -2286,7 +2286,7 @@
     "location": "Qatar",
     "company": "University of Doha for Science and Technology",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-27T06:59:20Z"
@@ -2300,7 +2300,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2023-06-11T05:14:22Z"
   },
   {
@@ -2310,7 +2310,7 @@
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-08T08:50:48Z"
@@ -2336,7 +2336,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 21,
     "createdAt": "2023-01-12T10:38:30Z"
   },
   {
@@ -2360,7 +2360,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 29,
     "createdAt": "2023-11-11T08:07:32Z"
   },
   {
@@ -2384,7 +2384,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 7,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2023-12-12T17:33:41Z"
   },
   {
@@ -2420,19 +2420,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 39,
     "createdAt": "2023-02-25T16:54:45Z"
   },
   {
     "login": "Valk7am",
     "name": "Mahmoud",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139454183?s=72&u=bf324d2cf63a20d61252121196558d81fcfb4a52&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139454183?s=72&u=08df731c48a8b9c96d061d23b2c019302fd446d7&v=4",
     "location": "Qatar, Doha",
     "company": "Al Jazeera",
     "twitterUsername": "mh_abuhassan",
-    "followers": 2,
-    "privateContributions": 37,
-    "publicContributions": 39,
+    "followers": 3,
+    "privateContributions": 109,
+    "publicContributions": 32,
     "createdAt": "2023-07-13T09:58:21Z"
   },
   {
@@ -2444,20 +2444,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 39,
     "createdAt": "2023-11-26T06:46:16Z"
-  },
-  {
-    "login": "HajarElMoctar",
-    "name": "Hajar El Moctar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125472535?s=72&u=e4e9fbd77c25fb3fc7b003a9976b6c0c06849a63&v=4",
-    "location": "Qatar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-02-15T13:47:12Z"
   },
   {
     "login": "Moein-dev",
@@ -2468,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 13,
     "createdAt": "2023-10-29T11:11:48Z"
   },
   {
@@ -2491,7 +2479,7 @@
     "company": "Beebolt",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 898,
+    "privateContributions": 900,
     "publicContributions": 1,
     "createdAt": "2023-05-16T17:34:23Z"
   },
@@ -2504,7 +2492,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 37,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-12-07T10:52:48Z"
   },
   {
