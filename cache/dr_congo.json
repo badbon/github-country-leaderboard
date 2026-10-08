@@ -3068,7 +3068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-10-12T15:15:02Z"
   },
   {
@@ -3091,8 +3091,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 187,
-    "publicContributions": 179,
+    "privateContributions": 214,
+    "publicContributions": 167,
     "createdAt": "2023-03-25T03:28:20Z"
   },
   {
@@ -3104,7 +3104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 19,
     "createdAt": "2023-06-14T20:37:47Z"
   },
   {
@@ -3115,8 +3115,8 @@
     "company": "Faharix",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3629,
-    "publicContributions": 244,
+    "privateContributions": 4323,
+    "publicContributions": 208,
     "createdAt": "2023-12-14T16:26:53Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 4,
     "createdAt": "2023-02-17T14:22:27Z"
   },
   {
@@ -3152,7 +3152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 92,
     "createdAt": "2023-12-25T13:36:24Z"
   },
   {
@@ -3164,20 +3164,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 262,
-    "publicContributions": 225,
+    "publicContributions": 221,
     "createdAt": "2023-01-25T11:24:54Z"
-  },
-  {
-    "login": "YazzBongoy",
-    "name": "YazzBongoy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144540213?s=72&u=755b32430f2e94f8c63aaacec3d0a53b838ceb54&v=4",
-    "location": "Kinshasa, Limete",
-    "company": "MIASE SARL",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 40,
-    "createdAt": "2023-09-09T13:29:22Z"
   },
   {
     "login": "Sympa-dev",
@@ -3188,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 1,
     "createdAt": "2023-08-07T07:53:11Z"
   },
   {
@@ -3200,7 +3188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 220,
+    "publicContributions": 225,
     "createdAt": "2023-07-12T18:57:44Z"
   },
   {
@@ -3211,8 +3199,8 @@
     "company": "@mosala-group ",
     "twitterUsername": "vala_mandar",
     "followers": 90,
-    "privateContributions": 496,
-    "publicContributions": 4,
+    "privateContributions": 645,
+    "publicContributions": 3,
     "createdAt": "2020-07-31T14:17:03Z"
   },
   {
@@ -3222,21 +3210,21 @@
     "location": "Democratic Republic of Congo",
     "company": "CRES, SoftHutlers",
     "twitterUsername": "valerechihisa",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-07-12T14:04:34Z"
   },
   {
     "login": "RichardNk24",
     "name": "Rich",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64165035?s=72&u=ad08a2b506def6a4afd75ed42f4dcab187e5d1d3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64165035?s=72&u=15ab78a7476ef4cea11561c34d6b086e87459bce&v=4",
     "location": "Lubumbashi, Democratic Republic of the Congo",
     "company": "",
     "twitterUsername": "richardsnkulu",
     "followers": 24,
-    "privateContributions": 1232,
-    "publicContributions": 11,
+    "privateContributions": 795,
+    "publicContributions": 31,
     "createdAt": "2020-04-22T19:41:01Z"
   },
   {
@@ -3246,9 +3234,9 @@
     "location": "Democratic Republic of congo",
     "company": "Remote Labs",
     "twitterUsername": "davidkingbest3",
-    "followers": 18,
-    "privateContributions": 1550,
-    "publicContributions": 0,
+    "followers": 19,
+    "privateContributions": 1833,
+    "publicContributions": 24,
     "createdAt": "2020-05-20T14:45:00Z"
   },
   {
@@ -3259,21 +3247,9 @@
     "company": "",
     "twitterUsername": "WMuyisa",
     "followers": 16,
-    "privateContributions": 17,
+    "privateContributions": 37,
     "publicContributions": 0,
     "createdAt": "2020-07-12T16:21:18Z"
-  },
-  {
-    "login": "Ashuza11",
-    "name": "MUHIGIRI  Ashuza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70213412?s=72&u=6a1dec38bd2102b60a1f746be570caf585bc6810&v=4",
-    "location": " Democratic Republic of the Congo ",
-    "company": "@maarifa-co ",
-    "twitterUsername": "ashuzaAlbin",
-    "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 477,
-    "createdAt": "2020-08-25T14:07:17Z"
   },
   {
     "login": "Junior-081",

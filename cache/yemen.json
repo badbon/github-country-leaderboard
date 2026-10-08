@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 47,
     "createdAt": "2024-08-06T12:37:53Z"
   },
   {
@@ -2863,8 +2863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5,
-    "publicContributions": 569,
+    "privateContributions": 12,
+    "publicContributions": 607,
     "createdAt": "2024-09-11T17:08:27Z"
   },
   {
@@ -2876,7 +2876,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2024-09-13T15:15:01Z"
   },
   {
@@ -2900,7 +2900,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2024-02-23T12:28:36Z"
   },
   {
@@ -2911,8 +2911,8 @@
     "company": "خريج تقنية المعلومات | جامعة صنعاء Information Technology Graduate | Sana'a University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 9,
+    "privateContributions": 164,
+    "publicContributions": 3,
     "createdAt": "2024-08-13T21:15:21Z"
   },
   {
@@ -2934,9 +2934,9 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 14,
+    "followers": 4,
+    "privateContributions": 308,
+    "publicContributions": 37,
     "createdAt": "2024-05-20T13:12:16Z"
   },
   {
@@ -2958,9 +2958,9 @@
     "location": "Sana'a, Yemen",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 181,
     "createdAt": "2024-04-17T13:35:39Z"
   },
   {
@@ -3006,7 +3006,7 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 61,
     "publicContributions": 0,
     "createdAt": "2024-12-10T21:16:06Z"
@@ -3022,18 +3022,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-06-04T13:06:23Z"
-  },
-  {
-    "login": "AnasCodex",
-    "name": "Anas Naser",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166956387?s=72&u=e4594f8f54f0bea6bd627130fd5361cd54dccf06&v=4",
-    "location": "Yemen, Sana'a",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 13,
-    "createdAt": "2024-04-13T21:16:01Z"
   },
   {
     "login": "AmarTomas",
@@ -3056,7 +3044,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-11-28T15:12:52Z"
   },
   {

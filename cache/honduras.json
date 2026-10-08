@@ -3103,8 +3103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 105,
-    "publicContributions": 119,
+    "privateContributions": 103,
+    "publicContributions": 116,
     "createdAt": "2022-03-10T04:31:15Z"
   },
   {
@@ -3115,7 +3115,7 @@
     "company": "San Services",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1055,
+    "privateContributions": 1048,
     "publicContributions": 2,
     "createdAt": "2022-03-02T17:30:17Z"
   },
@@ -3127,7 +3127,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-17T01:47:49Z"
   },
@@ -3152,7 +3152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 81,
     "createdAt": "2022-09-29T15:33:53Z"
   },
   {
@@ -3164,7 +3164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2022-09-08T21:54:17Z"
   },
   {
@@ -3187,7 +3187,7 @@
     "company": "@Infatlan ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 415,
+    "privateContributions": 341,
     "publicContributions": 0,
     "createdAt": "2022-09-14T21:10:06Z"
   },
@@ -3198,22 +3198,10 @@
     "location": "Honduras",
     "company": "Full Stack Developer",
     "twitterUsername": "",
-    "followers": 108,
+    "followers": 110,
     "privateContributions": 0,
-    "publicContributions": 262,
+    "publicContributions": 337,
     "createdAt": "2021-10-15T04:41:18Z"
-  },
-  {
-    "login": "Ekamib",
-    "name": "gxp0",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77357112?s=72&u=c1a4acb7ea016bb32006e1fc5493fc36575288ee&v=4",
-    "location": "Honduras",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 1302,
-    "publicContributions": 35,
-    "createdAt": "2021-01-12T19:09:42Z"
   },
   {
     "login": "DanielDevHN",
@@ -3222,9 +3210,9 @@
     "location": "San Pedro Sula, Honduras",
     "company": "Senior Software Developer",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 477,
-    "publicContributions": 33,
+    "followers": 37,
+    "privateContributions": 594,
+    "publicContributions": 75,
     "createdAt": "2021-07-03T14:50:50Z"
   },
   {
@@ -3234,9 +3222,9 @@
     "location": "Tegucigalpa, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 87,
     "createdAt": "2021-10-18T05:38:04Z"
   },
   {
@@ -3246,8 +3234,8 @@
     "location": "Honduras, Tegucigalpa.",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 26,
+    "followers": 32,
+    "privateContributions": 13,
     "publicContributions": 0,
     "createdAt": "2021-10-09T17:42:04Z"
   },
@@ -3259,8 +3247,8 @@
     "company": "Lynx-Labs || We Work Remotely",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 1813,
-    "publicContributions": 116,
+    "privateContributions": 1806,
+    "publicContributions": 124,
     "createdAt": "2021-01-21T15:37:30Z"
   },
   {
@@ -3271,7 +3259,7 @@
     "company": "",
     "twitterUsername": "jomclean__",
     "followers": 27,
-    "privateContributions": 201,
+    "privateContributions": 176,
     "publicContributions": 0,
     "createdAt": "2021-07-06T00:08:38Z"
   },
@@ -3284,19 +3272,19 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 1,
-    "publicContributions": 1155,
+    "publicContributions": 719,
     "createdAt": "2021-02-07T01:55:56Z"
   },
   {
     "login": "AbrilSamay",
     "name": "April Samay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76850828?s=72&u=8b4daf8396270fff2694655639868c5f5d1908fa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76850828?s=72&u=149603953849e854538d17b343802e739194199c&v=4",
     "location": "Honduras ",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2021-01-01T20:06:48Z"
   },
   {
@@ -3306,8 +3294,8 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 1425,
+    "followers": 19,
+    "privateContributions": 1032,
     "publicContributions": 0,
     "createdAt": "2021-02-25T22:18:12Z"
   },
@@ -3318,9 +3306,9 @@
     "location": "Honduras",
     "company": "Madoo",
     "twitterUsername": "iandrepg",
-    "followers": 20,
-    "privateContributions": 2274,
-    "publicContributions": 222,
+    "followers": 18,
+    "privateContributions": 799,
+    "publicContributions": 1897,
     "createdAt": "2021-08-25T23:22:29Z"
   },
   {

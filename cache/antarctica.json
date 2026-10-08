@@ -3102,9 +3102,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 61,
+    "followers": 65,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 108,
     "createdAt": "2019-10-08T16:36:46Z"
   },
   {
@@ -3114,7 +3114,7 @@
     "location": "antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 58,
+    "followers": 57,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-02-02T05:54:30Z"
@@ -3127,7 +3127,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 51,
-    "privateContributions": 47,
+    "privateContributions": 46,
     "publicContributions": 0,
     "createdAt": "2019-11-28T17:20:50Z"
   },
@@ -3138,9 +3138,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 1245,
-    "publicContributions": 351,
+    "followers": 35,
+    "privateContributions": 1956,
+    "publicContributions": 748,
     "createdAt": "2019-02-07T11:54:37Z"
   },
   {
@@ -3150,8 +3150,8 @@
     "location": "Antarctica",
     "company": "An idea",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 10,
+    "followers": 33,
+    "privateContributions": 11,
     "publicContributions": 24,
     "createdAt": "2019-12-24T01:19:17Z"
   },
@@ -3162,9 +3162,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2019-06-04T18:33:21Z"
   },
   {
@@ -3176,7 +3176,7 @@
     "twitterUsername": "kyommunist",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 36,
     "createdAt": "2019-02-12T17:07:28Z"
   },
   {
@@ -3188,7 +3188,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 33,
-    "publicContributions": 25,
+    "publicContributions": 20,
     "createdAt": "2019-12-14T22:28:16Z"
   },
   {
@@ -3210,7 +3210,7 @@
     "location": "Antarctica ",
     "company": "Zebert World Ind Inc",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-26T14:09:19Z"
@@ -3222,22 +3222,10 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-30T14:33:37Z"
-  },
-  {
-    "login": "phanijsp",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46281355?s=72&u=4a84358d8077b446d32cd9c506f95acc79eafe15&v=4",
-    "location": "Antarctica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 6027,
-    "publicContributions": 6,
-    "createdAt": "2018-12-31T13:18:43Z"
   },
   {
     "login": "SuFl3770",
@@ -3247,8 +3235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2,
-    "publicContributions": 27,
+    "privateContributions": 30,
+    "publicContributions": 87,
     "createdAt": "2019-06-09T12:38:28Z"
   },
   {
@@ -3259,7 +3247,7 @@
     "company": "MIT",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1261,
+    "privateContributions": 1483,
     "publicContributions": 24,
     "createdAt": "2019-04-19T00:16:23Z"
   },
@@ -3271,8 +3259,8 @@
     "company": "University of Chicago",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 914,
-    "publicContributions": 7,
+    "privateContributions": 1077,
+    "publicContributions": 8,
     "createdAt": "2019-08-12T18:38:07Z"
   },
   {
@@ -3284,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-07-06T03:12:43Z"
   },
   {
@@ -3294,7 +3282,7 @@
     "location": "Antarctica",
     "company": "Unspecified",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-25T07:14:17Z"

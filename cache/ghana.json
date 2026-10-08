@@ -3080,7 +3080,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 57,
     "createdAt": "2024-12-31T21:58:46Z"
   },
   {
@@ -3090,9 +3090,9 @@
     "location": "Ghana",
     "company": "WIN311",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 26,
     "createdAt": "2025-01-26T21:11:54Z"
   },
   {
@@ -3116,7 +3116,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 540,
+    "publicContributions": 569,
     "createdAt": "2025-07-22T17:13:35Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 509,
+    "publicContributions": 691,
     "createdAt": "2025-02-02T17:56:32Z"
   },
   {
@@ -3140,7 +3140,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 12,
     "createdAt": "2025-09-28T15:06:37Z"
   },
   {
@@ -3152,7 +3152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 109,
     "createdAt": "2025-02-08T11:14:20Z"
   },
   {
@@ -3162,9 +3162,9 @@
     "location": "Ghana",
     "company": "University of Ghana",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 409,
+    "publicContributions": 395,
     "createdAt": "2025-06-05T21:30:42Z"
   },
   {
@@ -3222,9 +3222,9 @@
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2025-05-28T22:41:51Z"
   },
   {
@@ -3234,9 +3234,9 @@
     "location": "Accra, Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 50,
     "createdAt": "2025-10-25T01:02:25Z"
   },
   {
@@ -3258,7 +3258,7 @@
     "location": "Accra-Ghana",
     "company": "",
     "twitterUsername": "Hamishan20",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2025-01-10T03:52:36Z"
@@ -3272,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 66,
     "createdAt": "2025-06-07T13:17:19Z"
   },
   {
@@ -3306,9 +3306,9 @@
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 144,
     "createdAt": "2025-06-11T13:05:57Z"
   },
   {
@@ -85126,5 +85126,161 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-07-08T08:19:29Z"
+  },
+  {
+    "login": "oneadzido",
+    "name": "Richard Korbla Adzido",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288335877?s=72&u=cb9502fe3d2e7765794ae1ca9d3090f5cad6f91d&v=4",
+    "location": "Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 49,
+    "privateContributions": 0,
+    "publicContributions": 971,
+    "createdAt": "2026-05-27T13:36:29Z"
+  },
+  {
+    "login": "NanaAdwoaDevTech",
+    "name": "Nana Adwoa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289295418?s=72&u=bbf8af5a1d43220ca4542386db952bf47d2bb44d&v=4",
+    "location": "Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 107,
+    "createdAt": "2026-05-30T23:00:41Z"
+  },
+  {
+    "login": "nyampongedmund1-pixel",
+    "name": "eddie",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289210816?s=72&u=5c5deaf0958e0219a3f2b4d453e105e6967fdb03&v=4",
+    "location": "Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 138,
+    "publicContributions": 1,
+    "createdAt": "2026-05-30T13:51:27Z"
+  },
+  {
+    "login": "bawaabduljafaru-art",
+    "name": "AYDEN ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285314367?s=72&u=6796c2e8829d3856bbb8a4813d5bb54554d96bd7&v=4",
+    "location": "Ghana ",
+    "company": "AYDEN SYSTEMS ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-05-17T00:40:56Z"
+  },
+  {
+    "login": "BigitaOsei",
+    "name": "BIGITA ANIM BAFFOUR OSEI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288275509?s=72&u=1676a1cf430e8ba184a5db3075527bbb494bd4d0&v=4",
+    "location": "Accra, Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-05-27T09:29:59Z"
+  },
+  {
+    "login": "amoakohenevincent",
+    "name": "Vincent Amoakohene ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288143287?s=72&u=f316d3138acb1d7ebe7425ebfa62c7778730856d&v=4",
+    "location": "Kumasi, Ghana",
+    "company": "Student",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 33,
+    "createdAt": "2026-05-26T21:28:16Z"
+  },
+  {
+    "login": "smtnewgh-blip",
+    "name": "Shafiq mukaila ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286902839?s=72&v=4",
+    "location": "Ghana ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-05-22T08:05:03Z"
+  },
+  {
+    "login": "ndii-dev",
+    "name": "Ndip......",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288009731?s=72&u=f2e9009172077a4290293953a49d80ff90a9826a&v=4",
+    "location": "Ghana/Nigeria/UK",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 742,
+    "createdAt": "2026-05-26T12:34:01Z"
+  },
+  {
+    "login": "vecteron-lab",
+    "name": "Vecteron-Solutions",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290801737?s=72&u=674e36b3478a303ff94dbd8956d438425e48e79e&v=4",
+    "location": "Ghana",
+    "company": "vecteronsolutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-06-04T16:54:54Z"
+  },
+  {
+    "login": "aduflex2-bit",
+    "name": "ADU PRINCE OPOKU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290378828?s=72&u=20346fb71b3ce1e4401097be106e39563ad7d918&v=4",
+    "location": "GHANA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-06-03T12:49:49Z"
+  },
+  {
+    "login": "Forte-Romeo",
+    "name": "Ferguson Romeo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285642800?s=72&u=9d543407e955f63d408016382ddb7f7e9447a5fd&v=4",
+    "location": "Accra, Ghana",
+    "company": "",
+    "twitterUsername": "forteromeo_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 442,
+    "createdAt": "2026-05-18T09:45:22Z"
+  },
+  {
+    "login": "titaneco-hub",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290253363?s=72&u=4642f58f784ef4c51c0b659553209fcb533d029c&v=4",
+    "location": "Ghana",
+    "company": "Titan Ecomotives ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-03T05:24:12Z"
+  },
+  {
+    "login": "DouglasAmesinu",
+    "name": "Douglas Amesinu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285212763?s=72&v=4",
+    "location": "Accra,Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 243,
+    "createdAt": "2026-05-16T13:31:11Z"
   }
 ]

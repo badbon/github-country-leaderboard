@@ -2802,7 +2802,7 @@
     "location": "buenos aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2026-04-29T04:37:48Z"
@@ -2814,9 +2814,9 @@
     "location": "Ciudad Autónoma de Buenos Aires",
     "company": "Gobierno de la Ciudad Autónoma de Buenos Aires",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 38,
     "createdAt": "2026-01-14T13:32:19Z"
   },
   {
@@ -2840,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 173,
     "createdAt": "2026-02-25T11:32:15Z"
   },
   {
@@ -2862,9 +2862,9 @@
     "location": "buenos aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 179,
     "createdAt": "2026-03-03T01:13:42Z"
   },
   {
@@ -2874,7 +2874,7 @@
     "location": "Buenos Aires",
     "company": "Betssongroup",
     "twitterUsername": "peskadorabioso",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-01-04T19:47:38Z"
@@ -2900,7 +2900,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 220,
     "createdAt": "2026-03-22T19:28:27Z"
   },
   {
@@ -2935,7 +2935,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 14,
+    "privateContributions": 21,
     "publicContributions": 1,
     "createdAt": "2026-01-15T19:59:57Z"
   },
@@ -2948,7 +2948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 46,
     "createdAt": "2026-03-24T22:04:51Z"
   },
   {
@@ -2960,7 +2960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 59,
     "createdAt": "2026-04-29T21:14:36Z"
   },
   {
@@ -2972,7 +2972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2026-04-07T20:28:26Z"
   },
   {
@@ -2989,14 +2989,14 @@
   },
   {
     "login": "matematicaencomputacion",
-    "name": "Dario Bublitz",
+    "name": "Ángel Darío Bublitz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/274832958?s=72&u=de91389d5a26aa6c9b75313c14fd038bc0e6f235&v=4",
     "location": "Buenos Aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 629,
+    "publicContributions": 1678,
     "createdAt": "2026-04-09T14:04:59Z"
   },
   {
@@ -3010,18 +3010,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-25T17:36:53Z"
-  },
-  {
-    "login": "lucuzal",
-    "name": "Luciano Uzal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/273584356?s=72&u=2c737683d52f18cce63ad6145e034f671e7bce5e&v=4",
-    "location": "Buenos Aires",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2026-04-04T14:50:19Z"
   },
   {
     "login": "Ivan-Jaureguiberry",

@@ -3067,8 +3067,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 299,
-    "publicContributions": 21,
+    "privateContributions": 210,
+    "publicContributions": 19,
     "createdAt": "2022-06-09T21:31:43Z"
   },
   {
@@ -3092,7 +3092,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 430,
+    "publicContributions": 744,
     "createdAt": "2022-02-11T09:13:38Z"
   },
   {
@@ -3102,9 +3102,9 @@
     "location": "Tirana, Albania ",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 5,
-    "publicContributions": 7,
+    "followers": 4,
+    "privateContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2022-02-27T10:44:49Z"
   },
   {
@@ -3116,32 +3116,20 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 58,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2022-02-08T22:17:56Z"
   },
   {
     "login": "ChyrkinD",
-    "name": "Dmytro",
+    "name": "Dmytro Chyrkin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116299166?s=72&u=ed352306f9bf85a41c84fd8a7c2270b3de2296fa&v=4",
     "location": "Durres, Albania",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 265,
     "createdAt": "2022-10-20T16:44:08Z"
-  },
-  {
-    "login": "endrimuco",
-    "name": "Endri Muço",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97703082?s=72&u=2cdd405ee8be68f011fbf3c098d277b9e5f82149&v=4",
-    "location": "Tirana, Albania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-13T20:45:27Z"
   },
   {
     "login": "Denio1212",
@@ -3162,9 +3150,9 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 391,
-    "publicContributions": 86,
+    "followers": 10,
+    "privateContributions": 495,
+    "publicContributions": 64,
     "createdAt": "2022-03-08T21:03:17Z"
   },
   {
@@ -3188,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-12-06T19:26:48Z"
   },
   {
@@ -3200,7 +3188,7 @@
     "twitterUsername": "howmanyseas",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2022-03-19T14:32:12Z"
   },
   {
@@ -3212,7 +3200,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2022-11-30T20:58:54Z"
   },
   {
@@ -3247,8 +3235,8 @@
     "company": "Equity",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 71,
-    "publicContributions": 1,
+    "privateContributions": 38,
+    "publicContributions": 0,
     "createdAt": "2022-05-24T11:47:59Z"
   },
   {
@@ -3284,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 52,
     "createdAt": "2022-12-18T21:17:35Z"
   },
   {

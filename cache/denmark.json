@@ -3032,19 +3032,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 0,
     "createdAt": "2025-05-21T10:14:54Z"
   },
   {
     "login": "MatthFPS",
     "name": "MathFPS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229092357?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229092357?s=72&u=b44d0fb53c1623641e3c08d3d3fa60a9e9b0ed39&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 76,
     "createdAt": "2025-08-28T08:43:59Z"
   },
   {
@@ -3056,7 +3056,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 37,
     "createdAt": "2025-09-08T21:03:35Z"
   },
   {
@@ -3068,7 +3068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 156,
     "createdAt": "2025-08-15T06:26:45Z"
   },
   {
@@ -3079,7 +3079,7 @@
     "company": "University of Copenhagen",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 107,
+    "privateContributions": 138,
     "publicContributions": 1,
     "createdAt": "2025-04-02T08:16:40Z"
   },
@@ -3103,7 +3103,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 388,
+    "privateContributions": 392,
     "publicContributions": 83,
     "createdAt": "2025-06-13T19:45:59Z"
   },
@@ -3118,18 +3118,6 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2025-06-10T20:21:49Z"
-  },
-  {
-    "login": "maiemane",
-    "name": "Maise M.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197795218?s=72&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2025-02-04T16:47:05Z"
   },
   {
     "login": "veomreil",
@@ -3176,7 +3164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 63,
     "createdAt": "2025-09-10T11:03:01Z"
   },
   {
@@ -3188,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2025-06-21T13:53:42Z"
   },
   {
@@ -3212,7 +3200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 54,
     "createdAt": "2025-05-03T12:20:01Z"
   },
   {
@@ -3230,8 +3218,8 @@
   {
     "login": "PatrickSkovJohansen",
     "name": "Patrick Skov Johansen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201723847?s=72&v=4",
-    "location": "Aalborg, Denmark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201723847?s=72&u=c39df930eb7d4562f765aa86c01cc32397c265a9&v=4",
+    "location": "Skive, Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 1,

@@ -2791,8 +2791,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 438,
-    "publicContributions": 211,
+    "privateContributions": 465,
+    "publicContributions": 200,
     "createdAt": "2022-03-01T11:50:24Z"
   },
   {
@@ -2840,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 79,
     "createdAt": "2022-02-16T10:36:30Z"
   },
   {
@@ -2863,8 +2863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 519,
-    "publicContributions": 99,
+    "privateContributions": 532,
+    "publicContributions": 53,
     "createdAt": "2022-08-26T19:59:14Z"
   },
   {
@@ -2878,18 +2878,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-03T18:33:35Z"
-  },
-  {
-    "login": "John-Mazarakis",
-    "name": "John Mazarakis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106561174?s=72&u=7ab30a2ffed1cc71a05b203c458cf271b11ed72c&v=4",
-    "location": "Tripoli",
-    "company": "UOP",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 69,
-    "createdAt": "2022-05-30T21:59:28Z"
   },
   {
     "login": "Alaakhalafallah",
@@ -2906,13 +2894,13 @@
   {
     "login": "MahmoudSaed98",
     "name": "Mahmoud Saed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115553302?s=72&u=1c3bd4bd9f924afb5c61516a814a902c8989a23b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115553302?s=72&u=ea72b569f0404d05e821961c481c2137e7e4abda&v=4",
     "location": "Tripoli",
     "company": "",
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2022-10-11T12:22:12Z"
   },
   {
@@ -2922,21 +2910,21 @@
     "location": "Tripoli",
     "company": "Streamline Technology SLT",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 107,
     "createdAt": "2022-06-05T09:40:30Z"
   },
   {
     "login": "ESMAILMH",
     "name": "ᎬᏚᎷAIL ABU-MAHLOLA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99301869?s=72&u=6ed9f58704ad02f01160526610d84b6a3b1ae3fe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99301869?s=72&u=7a7b75c79085b541a262ff27ef2fd1659f3cd9b4&v=4",
     "location": "Tripoli ",
     "company": "As I want",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2022-02-09T01:14:00Z"
   },
   {
@@ -2972,7 +2960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 105,
+    "publicContributions": 119,
     "createdAt": "2022-04-15T23:39:15Z"
   },
   {
@@ -2984,7 +2972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2022-11-16T07:01:03Z"
   },
   {
@@ -2994,8 +2982,8 @@
     "location": "Benghazi, Libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 90,
-    "privateContributions": 158,
+    "followers": 86,
+    "privateContributions": 109,
     "publicContributions": 0,
     "createdAt": "2021-03-16T18:23:16Z"
   },
@@ -3006,9 +2994,9 @@
     "location": "libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 62,
     "createdAt": "2021-10-25T17:28:52Z"
   },
   {
@@ -3018,8 +3006,8 @@
     "location": "Libya Tripoli",
     "company": "Presto",
     "twitterUsername": "wefaqbakkar",
-    "followers": 33,
-    "privateContributions": 1091,
+    "followers": 29,
+    "privateContributions": 1154,
     "publicContributions": 2,
     "createdAt": "2021-03-20T15:23:23Z"
   },

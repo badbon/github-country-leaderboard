@@ -2876,7 +2876,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 3,
-    "publicContributions": 488,
+    "publicContributions": 529,
     "createdAt": "2025-10-26T11:55:08Z"
   },
   {
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 96,
     "createdAt": "2025-02-05T23:00:44Z"
   },
   {
@@ -2923,7 +2923,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 41,
+    "privateContributions": 37,
     "publicContributions": 13,
     "createdAt": "2025-08-07T20:35:12Z"
   },
@@ -2935,8 +2935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 88,
-    "publicContributions": 236,
+    "privateContributions": 97,
+    "publicContributions": 268,
     "createdAt": "2025-05-11T18:40:52Z"
   },
   {
@@ -2947,7 +2947,7 @@
     "company": "HORAIZON",
     "twitterUsername": "alemardiv",
     "followers": 3,
-    "privateContributions": 592,
+    "privateContributions": 713,
     "publicContributions": 12,
     "createdAt": "2025-12-06T15:30:42Z"
   },
@@ -2958,22 +2958,10 @@
     "location": "Switzerland",
     "company": "Greenluzern",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 222,
+    "publicContributions": 242,
     "createdAt": "2025-11-30T01:57:43Z"
-  },
-  {
-    "login": "vvaroo",
-    "name": "Alvaro Rawnee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204305229?s=72&u=f788e9cef556650bc993806243a3bf4db059b512&v=4",
-    "location": "Zürich, Switzerland",
-    "company": "@vvaroogroup @ventalic @solantry",
-    "twitterUsername": "vvaroo",
-    "followers": 3,
-    "privateContributions": 176,
-    "publicContributions": 9,
-    "createdAt": "2025-03-21T06:31:12Z"
   },
   {
     "login": "stefanoberna02-hue",
@@ -2984,7 +2972,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 157,
     "createdAt": "2025-09-11T16:17:17Z"
   },
   {
@@ -3008,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 45,
     "createdAt": "2025-10-17T08:53:23Z"
   },
   {
@@ -3019,7 +3007,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 398,
+    "privateContributions": 366,
     "publicContributions": 175,
     "createdAt": "2025-02-03T15:30:45Z"
   },
@@ -3030,22 +3018,10 @@
     "location": "Switzerland",
     "company": "Veritan",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 5115,
-    "publicContributions": 253,
+    "followers": 2,
+    "privateContributions": 6610,
+    "publicContributions": 252,
     "createdAt": "2025-07-06T20:59:24Z"
-  },
-  {
-    "login": "vvs0x",
-    "name": "Valentín Schwarz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245622818?s=72&v=4",
-    "location": "Zurich, Switzerland",
-    "company": "Zurich University of Applied Sciences",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 279,
-    "createdAt": "2025-11-23T00:33:54Z"
   },
   {
     "login": "Timnitt",
@@ -3054,9 +3030,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 189,
     "createdAt": "2025-09-14T22:07:30Z"
   },
   {
@@ -3068,7 +3044,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 359,
+    "publicContributions": 360,
     "createdAt": "2025-04-14T22:21:30Z"
   },
   {

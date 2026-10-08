@@ -2730,9 +2730,9 @@
     "location": "Finland, Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 24,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-27T08:53:48Z"
   },
   {
@@ -2744,7 +2744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 12,
     "createdAt": "2025-08-14T07:16:01Z"
   },
   {
@@ -2754,7 +2754,7 @@
     "location": "Espoo, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 81,
     "createdAt": "2025-01-09T10:36:48Z"
@@ -2767,8 +2767,8 @@
     "company": "Metropolia University of Applied Sciences",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 136,
+    "privateContributions": 22,
+    "publicContributions": 90,
     "createdAt": "2025-01-17T07:39:18Z"
   },
   {
@@ -2780,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 44,
     "createdAt": "2025-03-06T12:48:25Z"
   },
   {
@@ -2792,7 +2792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 43,
     "createdAt": "2025-05-14T11:23:42Z"
   },
   {
@@ -2803,8 +2803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 183,
+    "privateContributions": 0,
+    "publicContributions": 95,
     "createdAt": "2025-06-03T13:18:06Z"
   },
   {
@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 234,
     "createdAt": "2025-05-09T05:36:42Z"
   },
   {
@@ -2864,7 +2864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-14T06:45:24Z"
   },
   {
@@ -2876,7 +2876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-08-23T17:34:27Z"
   },
   {
@@ -2886,9 +2886,9 @@
     "location": "Espoo, Finland",
     "company": "@CSCfi",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 37,
-    "publicContributions": 170,
+    "publicContributions": 288,
     "createdAt": "2025-11-04T10:08:29Z"
   },
   {
@@ -2911,7 +2911,7 @@
     "company": "@TelesteOyj",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 409,
+    "privateContributions": 529,
     "publicContributions": 0,
     "createdAt": "2025-07-01T10:16:55Z"
   },
@@ -2924,7 +2924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 34,
     "createdAt": "2025-03-11T18:16:54Z"
   },
   {
@@ -2948,7 +2948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-12-22T09:46:49Z"
   },
   {
@@ -217870,5 +217870,89 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-27T09:01:33Z"
+  },
+  {
+    "login": "gotfm",
+    "name": "Niko Matikainen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286160354?s=72&u=1733348476def3bf183adf4c7eb8e0ceaef7b475&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-19T22:54:08Z"
+  },
+  {
+    "login": "samuli-codemate",
+    "name": "Samuli Hakoniemi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289632376?s=72&u=9dfeeca4bb99e512a3d38315f4ada3c9f7c69da9&v=4",
+    "location": "Helsinki, Finland",
+    "company": "Codemate Oy",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-01T09:16:40Z"
+  },
+  {
+    "login": "jinmooon4-akf",
+    "name": "Chan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289363030?s=72&u=c90bbde8bd8de21127840e8c6c0733d7d73830e9&v=4",
+    "location": "Espoo, Finland",
+    "company": "Metropolia University of Applied Sciences",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2026-05-31T08:09:33Z"
+  },
+  {
+    "login": "JimiPrusti",
+    "name": "Jimi Prusti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287267923?s=72&u=eebde2231194f67934b6c5a75d7ce4b035972cf6&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 123,
+    "publicContributions": 56,
+    "createdAt": "2026-05-23T16:56:56Z"
+  },
+  {
+    "login": "QogecuTefu81",
+    "name": "Jasmine Wheeler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289133857?s=72&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-30T06:14:36Z"
+  },
+  {
+    "login": "SanazJml27",
+    "name": "Sanaz Jamalzadeh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287625861?s=72&u=c468bd1870dceb5f4eb0d95a06a8c1ea9aa7c4c7&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 178,
+    "createdAt": "2026-05-25T07:30:50Z"
+  },
+  {
+    "login": "Devosq",
+    "name": "Oscar Vatanen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287083457?s=72&u=ad72338b6c9acc250c5965b6dd7cc4510426b011&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-05-22T21:19:02Z"
   }
 ]

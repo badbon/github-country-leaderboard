@@ -3056,7 +3056,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 4,
     "createdAt": "2025-08-31T15:09:21Z"
   },
   {
@@ -3068,7 +3068,7 @@
     "twitterUsername": "Apostolakis_Geo",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2025-06-26T14:30:07Z"
   },
   {
@@ -3078,9 +3078,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 41,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 235,
     "createdAt": "2025-11-08T19:16:35Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-09-20T20:38:08Z"
   },
   {
@@ -3150,7 +3150,7 @@
     "location": "Greece",
     "company": "Uniwa",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-01-12T10:44:37Z"
@@ -3188,7 +3188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2025-03-31T13:01:32Z"
   },
   {
@@ -3200,7 +3200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 97,
     "createdAt": "2025-10-14T11:53:53Z"
   },
   {
@@ -3212,7 +3212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 47,
     "createdAt": "2025-09-22T17:04:28Z"
   },
   {
@@ -3224,7 +3224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 34,
     "createdAt": "2025-10-07T16:48:59Z"
   },
   {
@@ -3236,7 +3236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2025-10-24T08:11:55Z"
   },
   {
@@ -3248,7 +3248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2025-12-01T12:54:01Z"
   },
   {
@@ -3270,7 +3270,7 @@
     "location": "Athens , Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 43,
     "createdAt": "2025-05-22T17:07:04Z"
@@ -3283,7 +3283,7 @@
     "company": "KeeepAI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1383,
+    "privateContributions": 1941,
     "publicContributions": 78,
     "createdAt": "2025-06-27T14:12:18Z"
   },
@@ -186766,5 +186766,341 @@
     "privateContributions": 963,
     "publicContributions": 349,
     "createdAt": "2025-04-15T15:23:53Z"
+  },
+  {
+    "login": "sparegk",
+    "name": "George",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288144334?s=72&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 41,
+    "publicContributions": 401,
+    "createdAt": "2026-05-26T21:34:35Z"
+  },
+  {
+    "login": "vlachosi18",
+    "name": "IOANNIS VLACHOS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286093412?s=72&v=4",
+    "location": "GREECE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-05-19T17:27:30Z"
+  },
+  {
+    "login": "xddxxlo",
+    "name": "Mateo Gjika",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290099798?s=72&u=27cb0b682123fe3f2aeaed846ea93b578fcaf045&v=4",
+    "location": "Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-02T16:33:25Z"
+  },
+  {
+    "login": "Constantinos-T",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291489223?s=72&u=2b4f4b3069af053c1ee56dcd8bd026d4d10d8c7b&v=4",
+    "location": "Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 950,
+    "createdAt": "2026-06-07T10:06:50Z"
+  },
+  {
+    "login": "GeorgiAton3",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295869224?s=72&u=05dc0b098e735ca1ca281a5a4c568e939ce7354a&v=4",
+    "location": "Greece ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-22T13:47:15Z"
+  },
+  {
+    "login": "kostaspapadopoulos843-lang",
+    "name": "Konstantinos Papadopoulos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284279702?s=72&v=4",
+    "location": "Thessaloniki, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-13T10:13:17Z"
+  },
+  {
+    "login": "grypaios",
+    "name": "Nikolaos Grypaios",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293459145?s=72&u=df3eb0dceaf3c184e8e57b15e31df33699b64150&v=4",
+    "location": "Athens, Greece, EU",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-13T21:36:27Z"
+  },
+  {
+    "login": "mfessas",
+    "name": "Michalis Fessas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295287819?s=72&u=831b26a121f47eb80e94d3e3e5b5c7f4e2a3bb8e&v=4",
+    "location": "Rhodes, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-06-20T04:41:55Z"
+  },
+  {
+    "login": "neksigalas",
+    "name": "Nektarios Sigalas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294460298?s=72&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 34,
+    "createdAt": "2026-06-17T09:36:49Z"
+  },
+  {
+    "login": "elkathop-776",
+    "name": "Hope Anth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287518732?s=72&u=3b2e66a48a804f7006f99ad2fa60c0d89f7a1cd6&v=4",
+    "location": "Thessaloniki, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2026-05-24T19:53:32Z"
+  },
+  {
+    "login": "akshay-hl",
+    "name": "Akshay HL",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294796494?s=72&u=bc2fb36e6ce1a0cf5670e44d459875b4535fe31a&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-18T11:18:07Z"
+  },
+  {
+    "login": "StamManif",
+    "name": "Stamatis Manifavas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288377255?s=72&v=4",
+    "location": "Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2026-05-27T16:05:17Z"
+  },
+  {
+    "login": "ckanagias",
+    "name": "Christos Kanagias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295594968?s=72&u=220020ba2d2346a8042dc0378f8581df19468053&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-21T13:16:54Z"
+  },
+  {
+    "login": "gianniskarampelas",
+    "name": "Giannis Karampelas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286278689?s=72&v=4",
+    "location": "Kavala, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-05-20T08:50:52Z"
+  },
+  {
+    "login": "EliBtgnn",
+    "name": "Elisavet Batagianni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284584848?s=72&u=9538a92412dd677c59e5a27ae40ef22dc8880478&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 103,
+    "createdAt": "2026-05-14T09:30:49Z"
+  },
+  {
+    "login": "yasou-taverna",
+    "name": "Yasou Taverna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288554977?s=72&u=ad5dc296e1f2f1aab8902615e5cd74f5a7568051&v=4",
+    "location": "Leof. Iraklidon 131, Ialisos 851 01, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 719,
+    "createdAt": "2026-05-28T07:21:43Z"
+  },
+  {
+    "login": "pvroikos-bit",
+    "name": "Pavlos Roudis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292773240?s=72&u=124c24d8fa4723e2406596443d0961fada8f78e4&v=4",
+    "location": "greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 48,
+    "createdAt": "2026-06-11T11:55:46Z"
+  },
+  {
+    "login": "houliarasv",
+    "name": "Vasilis Chouliaras",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288292771?s=72&v=4",
+    "location": "Patras, Greece",
+    "company": "flowcreations",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-05-27T10:42:00Z"
+  },
+  {
+    "login": "Vanakiroblox",
+    "name": "Vanakiroblox",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295671449?s=72&u=b69a088cd3647db7a462f75e27717f0b243168a6&v=4",
+    "location": "Greece",
+    "company": "Vanaki, Inc.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-06-21T20:56:45Z"
+  },
+  {
+    "login": "nikosmizeros",
+    "name": "Nick Batzakis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290152856?s=72&u=42b6be910ad36864b9de5a0f840a675b618f7ce7&v=4",
+    "location": "Athens, Greece",
+    "company": "Hellenic Air Force",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-02T20:04:25Z"
+  },
+  {
+    "login": "FokionPapanikolaou",
+    "name": "Fokion Papanikolaou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291125546?s=72&u=a97a655110786bbbab9d1b8b859f3cdb6de688c8&v=4",
+    "location": "Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2026-06-05T18:40:19Z"
+  },
+  {
+    "login": "kchatzian",
+    "name": "Konstantinos Chatzianastasiou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295391675?s=72&u=2a7564388612f738b45f5d0c82170b4547530ecc&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 76,
+    "createdAt": "2026-06-20T14:53:21Z"
+  },
+  {
+    "login": "ChristosKapsalis",
+    "name": "Χρήστος Καψάλης / Christos Kapsalis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285427782?s=72&v=4",
+    "location": "Athens, Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 120,
+    "createdAt": "2026-05-17T13:38:37Z"
+  },
+  {
+    "login": "anodeaGr",
+    "name": "Anodea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287720289?s=72&u=4f84a077295d7f3c944f3cd6e393e89ac353706d&v=4",
+    "location": "Greece",
+    "company": "Anodea",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-25T13:49:09Z"
+  },
+  {
+    "login": "ceetee91",
+    "name": "constantinos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289390140?s=72&v=4",
+    "location": "athens, greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2026-05-31T10:56:06Z"
+  },
+  {
+    "login": "thisisbeomusic-afk",
+    "name": "beo.o0o serenity",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289575360?s=72&u=de977898fcab8751d00a30fdc53ac0702ca6363b&v=4",
+    "location": "MADEIRA // HOLLYWOOD LA // GREECE // LONDON // BERLIN",
+    "company": "cyberhippies world",
+    "twitterUsername": "EscaporB93379",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-01T05:35:13Z"
+  },
+  {
+    "login": "Psixakias-NoviLarp",
+    "name": "NoviLarp-Psixakias.7",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297019213?s=72&u=b20eb3311abd3c3589fb179cee798a8b11e921fe&v=4",
+    "location": "Greece",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-06-25T23:37:07Z"
+  },
+  {
+    "login": "John-Mazarakis",
+    "name": "John Mazarakis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106561174?s=72&u=7ab30a2ffed1cc71a05b203c458cf271b11ed72c&v=4",
+    "location": "Athens",
+    "company": "Accenture",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2022-05-30T21:59:28Z"
   }
 ]

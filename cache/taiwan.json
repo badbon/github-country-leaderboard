@@ -2754,9 +2754,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 5,
-    "publicContributions": 93,
+    "followers": 4,
+    "privateContributions": 49,
+    "publicContributions": 146,
     "createdAt": "2025-09-07T02:33:00Z"
   },
   {
@@ -2768,7 +2768,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 67,
     "createdAt": "2025-10-21T13:09:49Z"
   },
   {
@@ -2778,9 +2778,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2025-09-09T10:06:05Z"
   },
   {
@@ -2792,7 +2792,7 @@
     "twitterUsername": "asiarfcorp",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 3,
     "createdAt": "2025-08-29T04:13:43Z"
   },
   {
@@ -2804,7 +2804,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 110,
     "createdAt": "2025-09-25T09:59:33Z"
   },
   {
@@ -2814,7 +2814,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 151,
     "publicContributions": 14,
     "createdAt": "2025-07-13T05:43:57Z"
@@ -2828,7 +2828,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-28T07:46:38Z"
   },
   {
@@ -2840,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 45,
     "createdAt": "2025-09-14T06:59:17Z"
   },
   {
@@ -2862,7 +2862,7 @@
     "location": "Taiwan, Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2025-07-26T07:29:42Z"
@@ -2870,26 +2870,14 @@
   {
     "login": "keeiv",
     "name": "KEI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234966047?s=72&u=903aa6389eff323379fc9d11af8ce3f6c8ad7f56&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234966047?s=72&u=a0725291e53f94c80ad5df2b089056c1667858a7&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 175,
-    "publicContributions": 312,
+    "privateContributions": 202,
+    "publicContributions": 351,
     "createdAt": "2025-09-28T17:43:51Z"
-  },
-  {
-    "login": "dexuwang627-cloud",
-    "name": "WANG, TE-SHU",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232492212?s=72&u=8eb9e3af8ca335874b5c2ffae46530f4041e351c&v=4",
-    "location": "TAIWAN",
-    "company": "綠世得科技有限公司",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 134,
-    "createdAt": "2025-09-16T02:34:38Z"
   },
   {
     "login": "SafewareTaiwan",
@@ -2900,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 35,
     "createdAt": "2025-07-11T06:38:03Z"
   },
   {
@@ -2912,7 +2900,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 95,
     "createdAt": "2025-12-15T14:47:39Z"
   },
   {
@@ -2924,7 +2912,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 0,
     "createdAt": "2025-08-02T07:46:19Z"
   },
   {
@@ -2935,7 +2923,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 26,
+    "privateContributions": 13,
     "publicContributions": 6,
     "createdAt": "2025-08-05T01:59:11Z"
   },
@@ -2948,31 +2936,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 173,
     "createdAt": "2025-08-18T09:13:17Z"
   },
   {
-    "login": "serikssonn",
-    "name": "Sven Eriksson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236145678?s=72&u=e13dfa2d5ec8ad95cf04c0e351477785864ead0b&v=4",
-    "location": "Taiwan",
-    "company": "",
-    "twitterUsername": "eri45201034",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 37,
-    "createdAt": "2025-10-05T04:15:54Z"
-  },
-  {
     "login": "RubyChengLab",
-    "name": "Falling Comet Lab",
+    "name": "HUI-HSIN CHENG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/220705309?s=72&u=f1a6b421d7e43641845e838bbc303596835fc048&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2025-07-14T09:48:09Z"
   },
   {

@@ -2838,7 +2838,7 @@
     "location": "Ashgabat, Turkmenistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2022-08-24T12:30:02Z"
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1804,
+    "publicContributions": 1746,
     "createdAt": "2022-07-18T05:09:25Z"
   },
   {
@@ -2938,18 +2938,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-15T04:16:12Z"
-  },
-  {
-    "login": "dc-dpalwanow",
-    "name": "Dennis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119856877?s=72&v=4",
-    "location": "Turkmenistan",
-    "company": "DataCose",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-12-05T11:02:54Z"
   },
   {
     "login": "RuslanHojatov",
@@ -3042,7 +3030,7 @@
     "location": "Ashgabat/Turkmenistan",
     "company": "Alem Tilsimat",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-25T10:48:10Z"

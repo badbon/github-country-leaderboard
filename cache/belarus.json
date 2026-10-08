@@ -3103,8 +3103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 138,
-    "publicContributions": 458,
+    "privateContributions": 132,
+    "publicContributions": 189,
     "createdAt": "2024-06-11T19:08:54Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 12,
     "createdAt": "2024-06-25T11:05:25Z"
   },
   {
@@ -3139,7 +3139,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 95,
+    "privateContributions": 110,
     "publicContributions": 0,
     "createdAt": "2024-02-21T12:25:49Z"
   },
@@ -3150,9 +3150,9 @@
     "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 74,
     "createdAt": "2024-07-26T15:37:40Z"
   },
   {
@@ -3162,9 +3162,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-09-05T15:20:10Z"
   },
   {
@@ -3176,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2024-01-17T14:01:30Z"
   },
   {
@@ -3199,8 +3199,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 65,
-    "publicContributions": 16,
+    "privateContributions": 68,
+    "publicContributions": 13,
     "createdAt": "2024-08-28T20:06:35Z"
   },
   {
@@ -3211,8 +3211,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2,
-    "publicContributions": 51,
+    "privateContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2024-10-05T18:08:38Z"
   },
   {
@@ -3222,9 +3222,9 @@
     "location": "Belarus",
     "company": "BSUIR",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 35,
     "createdAt": "2024-12-04T06:25:52Z"
   },
   {
@@ -3248,19 +3248,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 54,
     "createdAt": "2024-11-13T18:05:35Z"
   },
   {
     "login": "veralyne01",
     "name": "Elizabeth Petryniak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184820531?s=72&u=98debdad8bd43cd7314b9da43a954da829996e9a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184820531?s=72&u=3cf77861a2c11c097ca8dab34eb0e216b89bf119&v=4",
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 16,
     "createdAt": "2024-10-13T09:20:22Z"
   },
   {
@@ -3276,18 +3276,6 @@
     "createdAt": "2024-01-17T13:24:59Z"
   },
   {
-    "login": "SobolNikita",
-    "name": "Nikita Sobol",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169529909?s=72&u=0470b930e8fe15a7d37dee21654394ecae5c546b&v=4",
-    "location": "Minsk, Belarus",
-    "company": "BSUIR",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 146,
-    "createdAt": "2024-05-11T10:38:17Z"
-  },
-  {
     "login": "egavr-dev",
     "name": "EgAvr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/173599497?s=72&v=4",
@@ -3296,7 +3284,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 39,
     "createdAt": "2024-06-23T08:23:51Z"
   },
   {
@@ -3307,8 +3295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4,
-    "publicContributions": 266,
+    "privateContributions": 87,
+    "publicContributions": 241,
     "createdAt": "2024-09-01T07:27:31Z"
   },
   {
@@ -3330,9 +3318,9 @@
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 564,
-    "publicContributions": 386,
+    "followers": 5,
+    "privateContributions": 307,
+    "publicContributions": 581,
     "createdAt": "2024-02-12T13:21:20Z"
   },
   {

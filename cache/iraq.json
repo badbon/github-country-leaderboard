@@ -2780,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 53,
     "createdAt": "2024-04-23T21:14:12Z"
   },
   {
@@ -2790,9 +2790,9 @@
     "location": "Iraq, Mousel",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 86,
     "createdAt": "2024-08-03T23:20:14Z"
   },
   {
@@ -2802,7 +2802,7 @@
     "location": "Erbil , Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2024-11-17T18:43:09Z"
@@ -2814,9 +2814,9 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 56,
-    "publicContributions": 17,
+    "followers": 4,
+    "privateContributions": 53,
+    "publicContributions": 20,
     "createdAt": "2024-02-04T11:46:50Z"
   },
   {
@@ -2827,7 +2827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 80,
+    "privateContributions": 83,
     "publicContributions": 10,
     "createdAt": "2024-06-11T15:12:45Z"
   },
@@ -2838,9 +2838,9 @@
     "location": "Erbil/Kurdistan/Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 31,
+    "publicContributions": 16,
     "createdAt": "2024-01-16T16:33:48Z"
   },
   {
@@ -2850,9 +2850,9 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 85,
-    "publicContributions": 392,
+    "followers": 3,
+    "privateContributions": 63,
+    "publicContributions": 367,
     "createdAt": "2024-11-22T21:47:19Z"
   },
   {
@@ -2863,7 +2863,7 @@
     "company": "Aswar",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 424,
+    "privateContributions": 347,
     "publicContributions": 0,
     "createdAt": "2024-02-18T20:00:35Z"
   },
@@ -2886,22 +2886,10 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 2,
     "createdAt": "2024-10-29T07:18:18Z"
-  },
-  {
-    "login": "md7u",
-    "name": "Myden",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168192433?s=72&u=083dc3a3ebb1ca65fa935a0770fba5db2dd68f47&v=4",
-    "location": "Iraq",
-    "company": "Cudane",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 476,
-    "createdAt": "2024-04-26T12:04:42Z"
   },
   {
     "login": "ali2000a",
@@ -2910,7 +2898,7 @@
     "location": "iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-09T12:06:46Z"
@@ -2923,7 +2911,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 577,
+    "privateContributions": 919,
     "publicContributions": 0,
     "createdAt": "2024-02-19T13:31:39Z"
   },
@@ -2994,7 +2982,7 @@
     "location": "Iraq, Baghdad",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-02-11T11:18:09Z"

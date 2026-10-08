@@ -3116,7 +3116,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-28T00:44:16Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 81,
     "createdAt": "2025-09-05T00:11:17Z"
   },
   {
@@ -3140,7 +3140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-10-06T17:13:21Z"
   },
   {
@@ -3150,21 +3150,21 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "official_taches",
-    "followers": 1267,
-    "privateContributions": 11683,
+    "followers": 1274,
+    "privateContributions": 22477,
     "publicContributions": 5358,
     "createdAt": "2024-10-23T03:51:55Z"
   },
   {
     "login": "Joseling-Gonzalez",
     "name": "Joseling González",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176968062?s=72&u=96b775b37322d3c5e49c79d90cc5032e6a4908fa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176968062?s=72&u=19d52f3886499b27a79ae66c5b8308adb3adec29&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 98,
     "createdAt": "2024-07-29T23:22:39Z"
   },
   {
@@ -3174,9 +3174,9 @@
     "location": "Cartago, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 218,
-    "publicContributions": 101,
+    "followers": 32,
+    "privateContributions": 41,
+    "publicContributions": 148,
     "createdAt": "2024-07-13T20:06:04Z"
   },
   {
@@ -3186,9 +3186,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "aguilar1x1",
-    "followers": 29,
-    "privateContributions": 590,
-    "publicContributions": 2301,
+    "followers": 32,
+    "privateContributions": 1248,
+    "publicContributions": 1978,
     "createdAt": "2024-07-19T15:51:24Z"
   },
   {
@@ -3198,9 +3198,9 @@
     "location": "San José, Costa Rica",
     "company": "",
     "twitterUsername": "josueazcdev",
-    "followers": 19,
-    "privateContributions": 12,
-    "publicContributions": 620,
+    "followers": 20,
+    "privateContributions": 142,
+    "publicContributions": 699,
     "createdAt": "2024-07-29T21:29:09Z"
   },
   {
@@ -3210,21 +3210,21 @@
     "location": "📍 Costa Rica",
     "company": "",
     "twitterUsername": "xjeffx23",
-    "followers": 17,
-    "privateContributions": 6,
-    "publicContributions": 785,
+    "followers": 16,
+    "privateContributions": 8,
+    "publicContributions": 605,
     "createdAt": "2024-06-03T21:30:16Z"
   },
   {
     "login": "EfrainR06",
     "name": "Efra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166350900?s=72&u=2abbae3caa6d49c84b215173bf62f8104d5a1288&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166350900?s=72&u=114cf26463e45bf422faf11c7ddcb15ce8cd4d77&v=4",
     "location": "Costa Rica",
     "company": "My home ",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1750,
-    "publicContributions": 91,
+    "privateContributions": 2017,
+    "publicContributions": 69,
     "createdAt": "2024-04-08T02:14:03Z"
   },
   {
@@ -3236,7 +3236,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 18,
     "createdAt": "2024-08-27T07:31:54Z"
   },
   {
@@ -3246,9 +3246,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 142,
     "createdAt": "2024-04-15T03:32:17Z"
   },
   {
@@ -3258,9 +3258,9 @@
     "location": "Costa Rica",
     "company": "ForeSight Solutions. S.R.L.",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 154,
     "createdAt": "2024-05-08T09:17:07Z"
   },
   {
@@ -3270,7 +3270,7 @@
     "location": "San Jose, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-05-06T18:28:47Z"
@@ -3282,9 +3282,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 103,
-    "publicContributions": 236,
+    "followers": 15,
+    "privateContributions": 130,
+    "publicContributions": 167,
     "createdAt": "2024-09-22T02:06:12Z"
   },
   {
@@ -3296,7 +3296,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-11-22T17:35:24Z"
   },
   {
@@ -3308,7 +3308,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 92,
     "createdAt": "2024-02-21T18:58:24Z"
   },
   {
@@ -3318,9 +3318,9 @@
     "location": "Costa Rica",
     "company": "Universidad Nacional de Costa Rica",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 4,
-    "publicContributions": 110,
+    "followers": 11,
+    "privateContributions": 77,
+    "publicContributions": 121,
     "createdAt": "2024-10-05T16:39:00Z"
   },
   {
@@ -3330,9 +3330,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 70,
     "createdAt": "2024-02-03T19:24:40Z"
   },
   {
@@ -3343,8 +3343,8 @@
     "company": "",
     "twitterUsername": "AlvaroLazarusAI",
     "followers": 9,
-    "privateContributions": 39,
-    "publicContributions": 53,
+    "privateContributions": 40,
+    "publicContributions": 30,
     "createdAt": "2024-05-09T01:51:42Z"
   },
   {

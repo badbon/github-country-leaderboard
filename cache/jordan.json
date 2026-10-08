@@ -3066,9 +3066,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-22T14:17:17Z"
   },
   {
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 16,
     "createdAt": "2025-03-22T13:09:12Z"
   },
   {
@@ -3140,7 +3140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 31,
     "createdAt": "2025-10-27T20:56:36Z"
   },
   {
@@ -3152,7 +3152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 320,
+    "publicContributions": 31,
     "createdAt": "2025-05-07T16:05:00Z"
   },
   {
@@ -3187,8 +3187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 55,
-    "publicContributions": 362,
+    "privateContributions": 61,
+    "publicContributions": 199,
     "createdAt": "2024-12-30T23:04:10Z"
   },
   {
@@ -3200,7 +3200,7 @@
     "twitterUsername": "DrHawarey",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 212,
+    "publicContributions": 215,
     "createdAt": "2025-01-08T10:30:18Z"
   },
   {
@@ -3247,8 +3247,8 @@
     "company": "clickit-jo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 245,
-    "publicContributions": 5,
+    "privateContributions": 390,
+    "publicContributions": 9,
     "createdAt": "2025-10-12T07:48:11Z"
   },
   {
@@ -3260,20 +3260,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 24,
     "createdAt": "2025-02-04T14:31:35Z"
-  },
-  {
-    "login": "mohammed-cirrusgo",
-    "name": "Mohammed Zaloom ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226044552?s=72&v=4",
-    "location": "Amman, Jordan",
-    "company": "Cirrusgo",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1657,
-    "publicContributions": 2,
-    "createdAt": "2025-08-12T07:30:36Z"
   },
   {
     "login": "omarballout7",
@@ -3284,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 6,
     "createdAt": "2025-08-22T12:48:00Z"
   },
   {
@@ -3296,7 +3284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2025-09-30T08:56:18Z"
   },
   {

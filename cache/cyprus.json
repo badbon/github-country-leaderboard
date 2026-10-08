@@ -3056,7 +3056,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-02-22T08:23:34Z"
   },
   {
@@ -3091,8 +3091,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 127,
-    "publicContributions": 57,
+    "privateContributions": 133,
+    "publicContributions": 59,
     "createdAt": "2023-01-24T07:31:24Z"
   },
   {
@@ -3102,7 +3102,7 @@
     "location": "Cyprus",
     "company": "lemonroom",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-06-28T14:39:29Z"
@@ -3115,7 +3115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 349,
+    "privateContributions": 391,
     "publicContributions": 0,
     "createdAt": "2023-07-14T08:56:06Z"
   },
@@ -3128,7 +3128,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 115,
     "createdAt": "2023-09-05T22:03:17Z"
   },
   {
@@ -3162,9 +3162,9 @@
     "location": "Germany / Cyprus ",
     "company": "@TorchTechnology ",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2043,
-    "publicContributions": 166,
+    "followers": 3,
+    "privateContributions": 2728,
+    "publicContributions": 153,
     "createdAt": "2023-03-10T10:40:45Z"
   },
   {
@@ -3176,7 +3176,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 445,
     "createdAt": "2023-10-24T13:13:38Z"
   },
   {
@@ -3188,7 +3188,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2023-02-13T19:32:29Z"
   },
   {
@@ -3198,7 +3198,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-30T12:53:45Z"
@@ -3210,7 +3210,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "theworldstrong1",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-06T08:04:58Z"
@@ -3283,7 +3283,7 @@
     "company": "inDrive",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2023-10-24T10:59:33Z"
   },

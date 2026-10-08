@@ -2804,7 +2804,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 392,
+    "publicContributions": 288,
     "createdAt": "2024-06-20T16:39:00Z"
   },
   {
@@ -2815,8 +2815,8 @@
     "company": "Keszthelyi Premontrei",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 163,
-    "publicContributions": 264,
+    "privateContributions": 160,
+    "publicContributions": 268,
     "createdAt": "2024-11-11T06:12:38Z"
   },
   {
@@ -2826,21 +2826,21 @@
     "location": "Debrecen, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 636,
+    "followers": 14,
+    "privateContributions": 395,
     "publicContributions": 329,
     "createdAt": "2024-10-02T14:50:05Z"
   },
   {
     "login": "w7-mgfcode",
     "name": "Gabor Szabo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168316277?s=72&u=8fbbae41559a672c586fd32ff0a208a149d46a68&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168316277?s=72&u=9b617e53468f9090b277c8d2eded31040b7e3c7d&v=4",
     "location": "Hungary",
     "company": "SELF EMPLOYED",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 259,
-    "publicContributions": 1455,
+    "privateContributions": 330,
+    "publicContributions": 1695,
     "createdAt": "2024-04-28T01:31:15Z"
   },
   {
@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 93,
     "createdAt": "2024-11-08T09:57:02Z"
   },
   {
@@ -2872,11 +2872,11 @@
     "name": "Rexolt",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157226862?s=72&u=5377a35763cf780c1b9d11a056db561a2d4a81f4&v=4",
     "location": "Hungary",
-    "company": "Halomotion",
+    "company": "Nivox",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1706,
-    "publicContributions": 137,
+    "privateContributions": 2349,
+    "publicContributions": 157,
     "createdAt": "2024-01-20T15:03:13Z"
   },
   {
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 139,
     "createdAt": "2024-05-06T21:56:38Z"
   },
   {
@@ -2900,7 +2900,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 16,
-    "publicContributions": 410,
+    "publicContributions": 414,
     "createdAt": "2024-05-08T02:47:13Z"
   },
   {
@@ -2911,21 +2911,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 85,
+    "privateContributions": 19,
+    "publicContributions": 52,
     "createdAt": "2024-09-25T11:07:04Z"
-  },
-  {
-    "login": "unnobatroo",
-    "name": "Jaloliddin Ismailov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181887293?s=72&u=be538dfd7a355a226f4a1343560e4b25def4ef0d&v=4",
-    "location": "Budapest, Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 20,
-    "publicContributions": 313,
-    "createdAt": "2024-09-17T18:08:10Z"
   },
   {
     "login": "Osperyx",
@@ -2947,8 +2935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 469,
-    "publicContributions": 1016,
+    "privateContributions": 368,
+    "publicContributions": 918,
     "createdAt": "2024-04-20T15:24:56Z"
   },
   {
@@ -2960,7 +2948,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 65,
-    "publicContributions": 242,
+    "publicContributions": 273,
     "createdAt": "2024-11-08T08:06:28Z"
   },
   {
@@ -2970,8 +2958,8 @@
     "location": "Budapest, Hungary",
     "company": "Puzzles Software",
     "twitterUsername": "hmeteerd",
-    "followers": 5,
-    "privateContributions": 1355,
+    "followers": 6,
+    "privateContributions": 3034,
     "publicContributions": 49,
     "createdAt": "2024-02-02T23:14:06Z"
   },
@@ -2983,8 +2971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 35,
-    "publicContributions": 118,
+    "privateContributions": 34,
+    "publicContributions": 0,
     "createdAt": "2024-09-26T15:09:31Z"
   },
   {
@@ -3006,9 +2994,9 @@
     "location": "Hungary | Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 51,
     "createdAt": "2024-09-06T17:27:52Z"
   },
   {
@@ -3018,9 +3006,9 @@
     "location": "Hungary, Zala",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 20,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2024-09-08T17:24:22Z"
   },
   {
