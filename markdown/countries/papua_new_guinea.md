@@ -73,14 +73,14 @@ Indexed users: 296
 | 9 | [cravenhoff](https://github.com/cravenhoff) | Crystal Kewe | Port Moresby, Papua New Guinea | 16 |
 | 10 | [sutherlandnele](https://github.com/sutherlandnele) | Sutherland Nele | Port Moresby | 16 |
 | 11 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 13 |
-| 12 | [ephil2025](https://github.com/ephil2025) | EPHIL | Papua New Guinea | 12 |
-| 13 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Papua New Guinea | 12 |
-| 14 | [lordgabriel98](https://github.com/lordgabriel98) | Gabriel Baje | Port Moresby, Papua New Guinea | 10 |
-| 15 | [gwarvi](https://github.com/gwarvi) | Gordon Warvi | Port Moresby, Papua New Guinea | 9 |
+| 12 | [sylvery](https://github.com/sylvery) | Sylver Yagi | Papua New Guinea | 13 |
+| 13 | [ephil2025](https://github.com/ephil2025) | EPHIL | Papua New Guinea | 12 |
+| 14 | [gwarvi](https://github.com/gwarvi) | Gordon Warvi | Port Moresby, Papua New Guinea | 12 |
+| 15 | [lordgabriel98](https://github.com/lordgabriel98) | Gabriel Baje | Port Moresby, Papua New Guinea | 10 |
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou | Papua New Guinea | 9 |
 | 18 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 8 |
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-08T03:05:42.395Z
+Generated: 2026-10-08T04:24:34.406Z

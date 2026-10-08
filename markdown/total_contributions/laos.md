@@ -1,6 +1,6 @@
 # Total Contributions - Laos
 
-Generated: 2026-10-08T02:46:13.660Z
+Generated: 2026-10-08T04:09:19.464Z
 
 Users: 359
 
@@ -24,5 +24,5 @@ Users: 359
 | 16 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 1366 |
 | 17 | [TotoPhandolack](https://github.com/TotoPhandolack) | Toto Phandolack |  |  | Luangprabang, Laos | 1166 |
 | 18 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1142 |
-| 19 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 755 |
-| 20 | [khamlar123](https://github.com/khamlar123) | Khamlar chanthavong | APB bank |  | Vientiane, Laos | 752 |
+| 19 | [philaphonh](https://github.com/philaphonh) | Philaphonh Inthavongsa |  |  | Laos | 897 |
+| 20 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 755 |

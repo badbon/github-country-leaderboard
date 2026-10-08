@@ -42,9 +42,9 @@ Indexed users: 7,107
 | 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 25,397 |
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 19,382 |
 | 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 14,900 |
-| 6 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,054 |
-| 7 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,845 |
-| 8 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 6,764 |
+| 6 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 7,240 |
+| 7 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,054 |
+| 8 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,845 |
 | 9 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | Tamale, Ghana  | 4,590 |
 | 10 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
 | 11 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
@@ -83,4 +83,4 @@ Indexed users: 7,107
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 321 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 315 |
 
-Generated: 2026-10-08T02:36:47.562Z
+Generated: 2026-10-08T03:58:36.223Z

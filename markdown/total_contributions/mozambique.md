@@ -1,13 +1,13 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-08T02:59:07.810Z
+Generated: 2026-10-08T04:18:53.907Z
 
 Users: 1172
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 8856 |
-| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 6619 |
+| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 6627 |
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Flow Technologies su, lda |  | Mozambique | 5729 |
 | 4 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 5062 |
 | 5 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 4722 |

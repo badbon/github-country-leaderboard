@@ -19,7 +19,7 @@ Indexed users: 290
 | 5 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 3,973 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,388 |
-| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 2,426 |
+| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,065 |
 | 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,403 |
 | 10 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,127 |
 | 11 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,030 |
@@ -62,10 +62,10 @@ Indexed users: 290
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [wbond](https://github.com/wbond) | Will Bond | Plymouth, NH | 2,316 |
+| 1 | [wbond](https://github.com/wbond) | Will Bond | Plymouth, NH | 2,315 |
 | 2 | [aldeed](https://github.com/aldeed) | Eric Dobbertin | Plymouth, WI | 671 |
 | 3 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 68 |
-| 4 | [carlism](https://github.com/carlism) | Carl Leiby | Plymouth Meeting, PA | 66 |
+| 4 | [carlism](https://github.com/carlism) | Carl Leiby | Plymouth Meeting, PA | 65 |
 | 5 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 62 |
 | 6 | [noutram-old-uopaccount](https://github.com/noutram-old-uopaccount) | Nicholas Outram | Plymouth UK | 57 |
 | 7 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 44 |
@@ -77,10 +77,10 @@ Indexed users: 290
 | 13 | [mbruty](https://github.com/mbruty) | Michael Bruty | Plymouth | 23 |
 | 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | Plymouth | 22 |
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Plymouth Meeting, PA | 22 |
-| 16 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 22 |
-| 17 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 21 |
+| 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft | Plymouth UK | 22 |
+| 17 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Plymouth, Michigan | 22 |
 | 18 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 | 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 20 |
 
-Generated: 2026-10-08T02:59:00.196Z
+Generated: 2026-10-08T04:18:46.974Z

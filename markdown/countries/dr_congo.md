@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 700
+Indexed users: 699
 
 | Leaderboard | Link |
 |---|---|
@@ -16,9 +16,9 @@ Indexed users: 700
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,853 |
 | 3 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 11,064 |
 | 4 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,551 |
-| 5 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 8,172 |
-| 6 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 7,789 |
-| 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,855 |
+| 5 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 7,789 |
+| 6 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,855 |
+| 7 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 6,294 |
 | 8 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 5,904 |
 | 9 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 5,891 |
 | 10 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 5,709 |
@@ -83,4 +83,4 @@ Indexed users: 700
 | 19 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 71 |
 | 20 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 
-Generated: 2026-10-08T02:30:30.244Z
+Generated: 2026-10-08T03:53:57.344Z

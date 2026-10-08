@@ -20,7 +20,7 @@ Indexed users: 87
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,429 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,387 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 935 |
-| 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 668 |
+| 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 672 |
 | 10 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
 | 11 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 615 |
 | 12 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 591 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-08T02:38:29.857Z
+Generated: 2026-10-08T04:00:04.648Z

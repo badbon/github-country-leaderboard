@@ -1,6 +1,6 @@
 # Total Contributions - Mali
 
-Generated: 2026-10-08T02:55:34.404Z
+Generated: 2026-10-08T04:13:24.023Z
 
 Users: 347
 
@@ -16,7 +16,7 @@ Users: 347
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara |  | karimdiawara96 | JX4X+QX9, Bamako | 2712 |
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Doninya Inc. |  | Bamako-Mali | 2603 |
 | 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Thl Technologies | riyuk_1 | Mali | 2333 |
-| 11 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | @Doninya | AbduRahmanSb | Bamako | 2136 |
+| 11 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou |  | AbduRahmanSb | Bamako | 2133 |
 | 12 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Akicorp Solutions Technology |  | Bamako | 2009 |
 | 13 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | @Kabakoo-app  | djounnoureyni | Bamako, Mali | 1966 |
 | 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 1955 |

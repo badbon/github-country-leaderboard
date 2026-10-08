@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-08T02:45:40.202Z
+Generated: 2026-10-08T04:08:54.092Z
 
 Users: 2459
 
@@ -15,12 +15,12 @@ Users: 2459
 | 7 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1626 |
 | 8 | [kymuco](https://github.com/kymuco) | Ikymuco | Independent |  | Bishkek, Kyrgyzstan | 1598 |
 | 9 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | PROlab |  | Bishkek | 1336 |
-| 10 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1247 |
-| 11 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1203 |
-| 12 | [enoobis](https://github.com/enoobis) | Daniel Becerra |  | enoobis | Bishkek / Kyrgyzstan | 1184 |
-| 13 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 1130 |
-| 14 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
-| 15 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1000 |
+| 10 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1261 |
+| 11 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1247 |
+| 12 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1203 |
+| 13 | [enoobis](https://github.com/enoobis) | Daniel Becerra |  | enoobis | Bishkek / Kyrgyzstan | 1184 |
+| 14 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 1130 |
+| 15 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
 | 16 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 991 |
 | 17 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 897 |
 | 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 822 |

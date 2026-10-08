@@ -21,7 +21,7 @@ Indexed users: 235
 | 7 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,550 |
 | 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,520 |
 | 9 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,514 |
-| 10 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,315 |
+| 10 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,308 |
 | 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,295 |
 | 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,200 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
@@ -39,10 +39,10 @@ Indexed users: 235
 |---:|---|---|---|---:|
 | 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
 | 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,200 |
-| 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 680 |
+| 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 679 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 527 |
 | 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 453 |
-| 6 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 356 |
+| 6 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 373 |
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 337 |
 | 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
 | 9 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 284 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-08T02:21:53.361Z
+Generated: 2026-10-08T03:43:23.228Z

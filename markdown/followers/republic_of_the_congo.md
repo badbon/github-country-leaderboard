@@ -1,6 +1,6 @@
 # Followers - Republic of the Congo
 
-Generated: 2026-10-08T03:09:42.231Z
+Generated: 2026-10-08T04:27:06.561Z
 
 Users: 299
 
@@ -12,8 +12,8 @@ Users: 299
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Auctux |  | Congo | 108 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu |  | AdalbertPungu | Congo (DRC) | 102 |
 | 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua |  | HMotokoua | Brazzaville | 96 |
-| 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 92 |
-| 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 71 |
+| 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 94 |
+| 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 73 |
 | 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Dream of drc | RogerPatrona | Congo | 68 |
 | 10 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Triinfinity |  | Congo Brazzaville | 67 |
 | 11 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude |  | yethstack | Brazzaville, Republic Of CONGO | 62 |

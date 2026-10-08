@@ -1,6 +1,6 @@
 # Public Contributions - Ghana
 
-Generated: 2026-10-08T02:36:47.562Z
+Generated: 2026-10-08T03:58:36.223Z
 
 Users: 7107
 
@@ -11,9 +11,9 @@ Users: 7107
 | 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 25397 |
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 19382 |
 | 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 14900 |
-| 6 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 7054 |
-| 7 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Monarch Holdings |  | Ghana | 6845 |
-| 8 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | OHCS |  | GHANA | 6764 |
+| 6 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | OHCS |  | GHANA | 7240 |
+| 7 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | AfricodeLab | brandedhustler | Accra | 7054 |
+| 8 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Monarch Holdings |  | Ghana | 6845 |
 | 9 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | AlatiphA Multimedia  | alatipha | Tamale, Ghana  | 4590 |
 | 10 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie |  |  | Ghana | 3201 |
 | 11 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo |  |  | Accra, Ghana | 2719 |

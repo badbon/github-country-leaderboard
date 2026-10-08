@@ -1,8 +1,8 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-08T02:57:10.252Z
+Generated: 2026-10-08T04:17:00.494Z
 
-Users: 1766
+Users: 1765
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1766
 | 17 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 3899 |
 | 18 | [raidum](https://github.com/raidum) | Dumitru Railean | @tractiontechpartners  |  | Moldova | 3826 |
 | 19 | [buzadandeveloper](https://github.com/buzadandeveloper) | Buza Dan | JivyGroup |  | Moldova | 3788 |
-| 20 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 3537 |
+| 20 | [iulic876](https://github.com/iulic876) | Botnaru Iulian | @NOMADSGL  |  | Moldova | 3543 |

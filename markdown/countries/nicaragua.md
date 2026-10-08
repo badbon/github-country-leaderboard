@@ -29,9 +29,9 @@ Indexed users: 1,402
 | 15 | [juliosolis](https://github.com/juliosolis) | Julio Solis | Nicaragua | 3,141 |
 | 16 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Nicaragua | 3,137 |
 | 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,076 |
-| 18 | [EverthSarantes](https://github.com/EverthSarantes) | Everth | Nicaragua | 2,991 |
-| 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 2,954 |
-| 20 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 2,888 |
+| 18 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 2,954 |
+| 19 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 2,888 |
+| 20 | [FreeAoi](https://github.com/FreeAoi) | Free 公園 | Nicaragua | 2,778 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,402
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-08T03:00:53.359Z
+Generated: 2026-10-08T04:20:30.434Z

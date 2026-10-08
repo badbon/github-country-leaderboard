@@ -26,12 +26,12 @@ Indexed users: 299
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,371 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,306 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,084 |
-| 15 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
-| 16 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,680 |
-| 17 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,318 |
-| 18 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,300 |
-| 19 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,295 |
-| 20 | [LeBigLester](https://github.com/LeBigLester) | IBALA Emmanuel Amour-Bonté | Brazzaville | 1,181 |
+| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,955 |
+| 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
+| 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,680 |
+| 18 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,318 |
+| 19 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,301 |
+| 20 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,300 |
 
 ## Public Contributions
 
@@ -39,9 +39,9 @@ Indexed users: 299
 |---:|---|---|---|---:|
 | 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 2 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,680 |
-| 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,041 |
-| 4 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 698 |
-| 5 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 689 |
+| 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,088 |
+| 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,041 |
+| 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 698 |
 | 6 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 538 |
 | 7 | [dzeko003](https://github.com/dzeko003) | Berenis MASSAMBA | Brazzaville | 410 |
 | 8 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 410 |
@@ -68,8 +68,8 @@ Indexed users: 299
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 108 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 102 |
 | 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 96 |
-| 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 92 |
-| 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 71 |
+| 7 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 94 |
+| 8 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 73 |
 | 9 | [sumaili-shabani](https://github.com/sumaili-shabani) | sumaili shabani roger(patrona) | Congo | 68 |
 | 10 | [btr-ss](https://github.com/btr-ss) | Marcky BITORI | Congo Brazzaville | 67 |
 | 11 | [declaudefrancois](https://github.com/declaudefrancois) | NKOUKA Guy François de Claude | Brazzaville, Republic Of CONGO | 62 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-08T03:09:42.231Z
+Generated: 2026-10-08T04:27:06.561Z

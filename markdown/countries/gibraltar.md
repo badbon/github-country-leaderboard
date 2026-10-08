@@ -13,7 +13,7 @@ Indexed users: 93
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 23,625 |
-| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,678 |
+| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,676 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 4,947 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,252 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,161 |
@@ -37,7 +37,7 @@ Indexed users: 93
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,678 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,676 |
 | 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,895 |
 | 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 585 |
 | 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 494 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-08T02:36:52.802Z
+Generated: 2026-10-08T03:58:38.959Z

@@ -1,6 +1,6 @@
 # Followers - Namibia
 
-Generated: 2026-10-08T03:00:35.620Z
+Generated: 2026-10-08T04:19:15.531Z
 
 Users: 476
 
@@ -17,7 +17,7 @@ Users: 476
 | 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | LaLoka Labs | muheuenga | Windhoek, Namibia | 62 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Full-stack Developer |  | Windhoek, Namibia | 58 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | Zunda Inc |  | windhoek | 56 |
-| 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Adaire |  | Windhoek | 53 |
+| 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Adaire |  | Windhoek | 51 |
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | @ssc-na  |  | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande |  | euricodande12 | Namibia-Windhoek | 44 |
 | 15 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya |  |  | Windhoek, Namibia | 42 |

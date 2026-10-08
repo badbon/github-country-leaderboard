@@ -15,17 +15,17 @@ Indexed users: 108
 | 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 21,388 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa | Eswatini, Southern Africa | 1,659 |
 | 3 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 1,007 |
-| 4 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 730 |
+| 4 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 718 |
 | 5 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 650 |
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 464 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 355 |
-| 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini | Swaziland | 332 |
+| 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini | Swaziland | 331 |
 | 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane | Swaziland | 270 |
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 254 |
 | 11 | [temesgen-tana](https://github.com/temesgen-tana) | Temesgen Tana | Eswatini | 223 |
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 187 |
 | 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 174 |
-| 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 159 |
+| 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 158 |
 | 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx | Manzini, Swaziland | 133 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
 | 17 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 73 |
@@ -37,7 +37,7 @@ Indexed users: 108
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 730 |
+| 1 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 718 |
 | 2 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 673 |
 | 3 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 462 |
 | 4 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-08T02:31:28.225Z
+Generated: 2026-10-08T03:55:05.687Z

@@ -12,7 +12,7 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,081 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,084 |
 | 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,416 |
 | 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 916 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 331 |
@@ -62,7 +62,7 @@ Indexed users: 19
 |---:|---|---|---|---:|
 | 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 33 |
 | 2 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 13 |
-| 3 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 12 |
+| 3 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 13 |
 | 4 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 9 |
 | 5 | [5thAttemptCode](https://github.com/5thAttemptCode) | Henry  | Apia, Samoa | 6 |
 | 6 | [Ken2523](https://github.com/Ken2523) | Kendrick Lui | Apia, Samoa | 6 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [xfy777](https://github.com/xfy777) | xfy | Samoa | 2 |
 | 19 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 1 |
 
-Generated: 2026-10-08T03:12:08.746Z
+Generated: 2026-10-08T04:31:03.152Z

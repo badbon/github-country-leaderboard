@@ -1,6 +1,6 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-08T02:34:56.833Z
+Generated: 2026-10-08T03:56:53.656Z
 
 Users: 60
 
@@ -8,7 +8,7 @@ Users: 60
 |---:|---|---|---|---|---|---:|
 | 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3130 |
 | 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3086 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2809 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2811 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1059 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 699 |
 | 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 467 |
@@ -19,7 +19,7 @@ Users: 60
 | 11 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 96 |
 | 12 | [Apollo987](https://github.com/Apollo987) | Jerome B |  |  | French Polynesia | 64 |
 | 13 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 49 |
-| 14 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 47 |
+| 14 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 48 |
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 25 |
 | 16 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 18 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |

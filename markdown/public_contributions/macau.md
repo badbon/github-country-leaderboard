@@ -1,8 +1,8 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-08T02:51:29.660Z
+Generated: 2026-10-08T04:12:05.346Z
 
-Users: 443
+Users: 442
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

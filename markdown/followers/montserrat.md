@@ -1,15 +1,15 @@
 # Followers - Montserrat
 
-Generated: 2026-10-08T02:59:00.196Z
+Generated: 2026-10-08T04:18:46.974Z
 
 Users: 290
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [wbond](https://github.com/wbond) | Will Bond | @uber | wbond | Plymouth, NH | 2316 |
+| 1 | [wbond](https://github.com/wbond) | Will Bond | @uber | wbond | Plymouth, NH | 2315 |
 | 2 | [aldeed](https://github.com/aldeed) | Eric Dobbertin | @DairyStateDesigns @longshotlabs @qawolf  |  | Plymouth, WI | 671 |
 | 3 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | VulnCheck |  | Plymouth, MI | 68 |
-| 4 | [carlism](https://github.com/carlism) | Carl Leiby |  | carlism | Plymouth Meeting, PA | 66 |
+| 4 | [carlism](https://github.com/carlism) | Carl Leiby |  | carlism | Plymouth Meeting, PA | 65 |
 | 5 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth Marine Laboratory |  | Plymouth | 62 |
 | 6 | [noutram-old-uopaccount](https://github.com/noutram-old-uopaccount) | Nicholas Outram | Alstom UK |  | Plymouth UK | 57 |
 | 7 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Controlled Frenzy |  | Plymouth | 44 |
@@ -21,8 +21,8 @@ Users: 290
 | 13 | [mbruty](https://github.com/mbruty) | Michael Bruty |  |  | Plymouth | 23 |
 | 14 | [cmcneile](https://github.com/cmcneile) | Craig McNeile | University of Plymouth |  | Plymouth | 22 |
 | 15 | [emindeniz](https://github.com/emindeniz) | Emin Ozkan | Oracle |  | Plymouth Meeting, PA | 22 |
-| 16 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 22 |
-| 17 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 21 |
+| 16 | [ianckc](https://github.com/ianckc) | Ian Luckraft |  | ianckc | Plymouth UK | 22 |
+| 17 | [Prestophobia](https://github.com/Prestophobia) | Xander Wardell | Stardock | prestophobia | Plymouth, Michigan | 22 |
 | 18 | [BeresIvan](https://github.com/BeresIvan) |  | June Co |  | Plymouth, MN | 20 |
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 20 |
 | 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | @Vualto  |  | Plymouth uk | 20 |

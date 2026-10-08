@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-10-08T02:33:31.442Z
+Generated: 2026-10-08T03:56:43.249Z
 
 Users: 325
 
@@ -19,8 +19,8 @@ Users: 325
 | 11 | [anuraganands](https://github.com/anuraganands) | Anuraganand Sharma | The University of the South Pacific, Fiji |  | Suva, Fiji | 27 |
 | 12 | [Colorlaris](https://github.com/Colorlaris) |  |  |  | Fiji | 27 |
 | 13 | [evesgf](https://github.com/evesgf) | dingpeng yang | evesgf Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 27 |
-| 14 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 24 |
-| 15 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 23 |
+| 14 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 25 |
+| 15 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 24 |
 | 16 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Mindpearl |  | Suva, Fiji | 22 |
 | 17 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 22 |
 | 18 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 22 |

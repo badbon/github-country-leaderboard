@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,672
+Indexed users: 5,681
 
 | Leaderboard | Link |
 |---|---|
@@ -40,11 +40,11 @@ Indexed users: 5,672
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 11,946 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
-| 4 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
-| 5 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
-| 6 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
-| 7 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
-| 8 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 3,047 |
+| 4 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 5,166 |
+| 5 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
+| 6 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
+| 7 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
+| 8 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
 | 9 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | Kazakhstan, Kostanay | 2,899 |
 | 10 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
 | 11 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
@@ -83,4 +83,4 @@ Indexed users: 5,672
 | 19 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
 | 20 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 
-Generated: 2026-10-08T02:44:30.186Z
+Generated: 2026-10-08T04:26:23.140Z

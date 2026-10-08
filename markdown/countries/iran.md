@@ -1,6 +1,6 @@
 # Iran
 
-Indexed users: 26,698
+Indexed users: 26,778
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 26,698
 | 17 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam | Tehran | 5,975 |
 | 18 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | iran | 5,624 |
 | 19 | [homow](https://github.com/homow) | Homayoun | iran | 5,246 |
-| 20 | [BarimKenzema](https://github.com/BarimKenzema) | Shamshama | Iran | 5,165 |
+| 20 | [Karan-Safaie-Qadi](https://github.com/Karan-Safaie-Qadi) | Karan Safaie Qadi | iran, mazandaran | 5,202 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 26,698
 | 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,388 |
 | 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi | Shiraz,Iran | 1,352 |
 
-Generated: 2026-10-08T02:42:27.316Z
+Generated: 2026-10-08T04:03:45.186Z

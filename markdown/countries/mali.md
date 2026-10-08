@@ -22,7 +22,7 @@ Indexed users: 347
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,712 |
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,603 |
 | 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,333 |
-| 11 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,136 |
+| 11 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,133 |
 | 12 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,009 |
 | 13 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,966 |
 | 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,955 |
@@ -66,7 +66,7 @@ Indexed users: 347
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 129 |
 | 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou | Mali | 112 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao | Mali, Bamako | 69 |
-| 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo | Mali | 66 |
+| 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo | Mali | 61 |
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE | Mali/Bamako | 50 |
 | 7 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ | Mali | 47 |
 | 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 46 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 27 |
 
-Generated: 2026-10-08T02:55:34.404Z
+Generated: 2026-10-08T04:13:24.023Z

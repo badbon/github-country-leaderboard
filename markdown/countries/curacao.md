@@ -14,9 +14,9 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,844 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,760 |
-| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,461 |
+| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,457 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,271 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,374 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,369 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,223 |
 | 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 912 |
 | 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 910 |
@@ -39,7 +39,7 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,271 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 470 |
-| 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 465 |
+| 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 462 |
 | 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-08T02:27:11.342Z
+Generated: 2026-10-08T03:51:06.374Z

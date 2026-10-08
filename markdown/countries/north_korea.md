@@ -15,14 +15,14 @@ Indexed users: 185
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,751 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 4,710 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 3,561 |
-| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,494 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,490 |
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,478 |
 | 6 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,268 |
 | 7 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,262 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 730 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 668 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
-| 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 565 |
+| 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 569 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 490 |
@@ -55,8 +55,8 @@ Indexed users: 185
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
 | 17 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 95 |
 | 18 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 91 |
-| 19 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 82 |
-| 20 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 81 |
+| 19 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 82 |
+| 20 | [l0ji](https://github.com/l0ji) | penny | Pyongyang | 82 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-08T03:02:30.551Z
+Generated: 2026-10-08T04:21:22.315Z

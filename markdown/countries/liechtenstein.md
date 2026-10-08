@@ -18,12 +18,12 @@ Indexed users: 113
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,872 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,579 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,059 |
-| 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,851 |
+| 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,842 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,654 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,158 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 736 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 713 |
-| 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 473 |
+| 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 471 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 463 |
 | 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
@@ -31,7 +31,7 @@ Indexed users: 113
 | 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 296 |
 | 18 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 265 |
 | 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 223 |
-| 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 171 |
+| 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 167 |
 
 ## Public Contributions
 
@@ -47,9 +47,9 @@ Indexed users: 113
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 459 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 296 |
 | 10 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 288 |
-| 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 228 |
+| 11 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 220 |
 | 12 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 179 |
-| 13 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 159 |
+| 13 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 155 |
 | 14 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 124 |
 | 15 | [MahsaChoop](https://github.com/MahsaChoop) | Mahsa Choopannezhad Najafabadi | Liechtenstein | 116 |
 | 16 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 114 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-08T02:48:54.148Z
+Generated: 2026-10-08T04:10:33.671Z

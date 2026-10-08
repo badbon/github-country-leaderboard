@@ -1,6 +1,6 @@
 # Hungary
 
-Indexed users: 11,203
+Indexed users: 11,202
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 11,203
 | 15 | [stt08](https://github.com/stt08) | Samat Tamerlan | Budapest, HU | 12,014 |
 | 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes | Budapest | 10,868 |
 | 17 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,779 |
-| 18 | [Bali0531-RC](https://github.com/Bali0531-RC) | Turi Balázs | Hungary | 10,698 |
-| 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
-| 20 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 9,205 |
+| 18 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
+| 19 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 9,205 |
+| 20 | [RolandMarton](https://github.com/RolandMarton) | Márton Roland | Budapest | 9,111 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 11,203
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
 
-Generated: 2026-10-08T03:31:01.650Z
+Generated: 2026-10-08T04:02:07.068Z

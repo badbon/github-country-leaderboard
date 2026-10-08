@@ -1,8 +1,8 @@
 # Public Contributions - Iran
 
-Generated: 2026-10-08T02:42:27.316Z
+Generated: 2026-10-08T04:03:45.186Z
 
-Users: 26698
+Users: 26778
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 26698
 | 17 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam |  |  | Tehran | 5975 |
 | 18 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | aryorithm |  | iran | 5624 |
 | 19 | [homow](https://github.com/homow) | Homayoun | @AdexOfficial1 |  | iran | 5246 |
-| 20 | [BarimKenzema](https://github.com/BarimKenzema) | Shamshama |  |  | Iran | 5165 |
+| 20 | [Karan-Safaie-Qadi](https://github.com/Karan-Safaie-Qadi) | Karan Safaie Qadi |  |  | iran, mazandaran | 5202 |

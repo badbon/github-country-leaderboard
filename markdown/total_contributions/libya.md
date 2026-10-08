@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-08T02:48:51.668Z
+Generated: 2026-10-08T04:10:31.103Z
 
 Users: 744
 
@@ -24,5 +24,5 @@ Users: 744
 | 16 | [Anas-taleb99](https://github.com/Anas-taleb99) |  |  |  | Libya | 4223 |
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 4193 |
 | 18 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | @ditsly | Dfangy_ | Libya | 4049 |
-| 19 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 3528 |
-| 20 | [MohamedKhX](https://github.com/MohamedKhX) | MohamedKhX | @SahabLibya |  | Tripoli - Libya | 3295 |
+| 19 | [MohamedKhX](https://github.com/MohamedKhX) | MohamedKhX | @SahabLibya |  | Tripoli - Libya | 3295 |
+| 20 | [Benjaber-98](https://github.com/Benjaber-98) | Mahmoud Ben Jabir |  | Benjaber98 | Tripoli - Libya | 3118 |

@@ -15,20 +15,20 @@ Indexed users: 155
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,224 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 9,949 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,231 |
-| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,433 |
+| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,458 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,415 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 1,855 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,811 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,755 |
-| 10 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,635 |
+| 10 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,618 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,600 |
 | 12 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,557 |
 | 13 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,508 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
 | 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,232 |
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,198 |
-| 17 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,193 |
+| 17 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,198 |
 | 18 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,061 |
 | 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,060 |
 | 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,018 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-08T02:42:38.882Z
+Generated: 2026-10-08T04:05:14.509Z

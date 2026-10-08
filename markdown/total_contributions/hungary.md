@@ -1,8 +1,8 @@
 # Total Contributions - Hungary
 
-Generated: 2026-10-08T03:31:01.650Z
+Generated: 2026-10-08T04:02:07.068Z
 
-Users: 11203
+Users: 11202
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 11203
 | 15 | [stt08](https://github.com/stt08) | Samat Tamerlan | @Ericsson |  | Budapest, HU | 12014 |
 | 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes |  |  | Budapest | 10868 |
 | 17 | [danko-david](https://github.com/danko-david) | David Danko |  |  | Hungary, Miskolc | 10779 |
-| 18 | [Bali0531-RC](https://github.com/Bali0531-RC) | Turi Balázs | @ChorusMcDev @plexinstaller  |  | Hungary | 10698 |
-| 19 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | @wraithlight |  | Budapest, HU | 10644 |
-| 20 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 9205 |
+| 18 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | @wraithlight |  | Budapest, HU | 10644 |
+| 19 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 9205 |
+| 20 | [RolandMarton](https://github.com/RolandMarton) | Márton Roland |  |  | Budapest | 9111 |

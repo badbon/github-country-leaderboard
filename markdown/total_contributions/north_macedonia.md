@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-08T03:02:33.793Z
+Generated: 2026-10-08T04:21:26.643Z
 
 Users: 1937
 
@@ -12,7 +12,7 @@ Users: 1937
 | 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov |  |  | Kochani, Macedonia | 6608 |
 | 5 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski |  |  | Macedonia [FYROM] | 6598 |
 | 6 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 6328 |
-| 7 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5295 |
+| 7 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5289 |
 | 8 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 4578 |
 | 9 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 4438 |
 | 10 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4273 |

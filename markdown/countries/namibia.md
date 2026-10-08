@@ -73,7 +73,7 @@ Indexed users: 476
 | 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | Windhoek, Namibia | 62 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 58 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | windhoek | 56 |
-| 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Windhoek | 53 |
+| 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Windhoek | 51 |
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
 | 14 | [euricodande](https://github.com/euricodande) | Eurico Dande | Namibia-Windhoek | 44 |
 | 15 | [SelmaNdapanda](https://github.com/SelmaNdapanda) | Selma Hamutenya | Windhoek, Namibia | 42 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-08T03:00:35.620Z
+Generated: 2026-10-08T04:19:15.531Z

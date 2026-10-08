@@ -47,16 +47,16 @@ Indexed users: 719
 | 8 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,203 |
 | 9 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
 | 10 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,018 |
-| 11 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
-| 12 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Quatre Bornes, Mauritius | 816 |
+| 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,009 |
+| 12 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
 | 13 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 709 |
-| 14 | [Masryeen](https://github.com/Masryeen) | Alexander Contreras | Port Jacob, Mauritius | 677 |
-| 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
-| 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 628 |
-| 17 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 604 |
-| 18 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
-| 19 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 502 |
-| 20 | [JoottunAtish](https://github.com/JoottunAtish) | Atish Joottun | Mauritius | 501 |
+| 14 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
+| 15 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 628 |
+| 16 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 604 |
+| 17 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
+| 18 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 502 |
+| 19 | [JoottunAtish](https://github.com/JoottunAtish) | Atish Joottun | Mauritius | 501 |
+| 20 | [TheNonFungibleHuman](https://github.com/TheNonFungibleHuman) | Hanif Olayiwola | Mauritius | 498 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 719
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-08T02:56:53.422Z
+Generated: 2026-10-08T04:15:47.176Z

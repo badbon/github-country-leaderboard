@@ -1,13 +1,13 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-08T02:59:07.810Z
+Generated: 2026-10-08T04:18:53.907Z
 
 Users: 1172
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 4574 |
-| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 3882 |
+| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 3850 |
 | 3 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | fluxosoftwares |  | Mozambique | 1601 |
 | 4 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | IPC Global Support Unit - FAO |  | Maputo | 1273 |
 | 5 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch |  | ubelloch | Mozambique, Maputo | 1150 |

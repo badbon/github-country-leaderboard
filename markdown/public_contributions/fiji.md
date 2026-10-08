@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-08T02:33:31.442Z
+Generated: 2026-10-08T03:56:43.249Z
 
 Users: 325
 
@@ -14,12 +14,12 @@ Users: 325
 | 6 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 276 |
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 276 |
 | 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 254 |
-| 9 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 229 |
-| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 214 |
-| 11 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo |  |  | Fiji | 185 |
-| 12 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 178 |
-| 13 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 175 |
-| 14 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 163 |
+| 9 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 234 |
+| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 229 |
+| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 214 |
+| 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo |  |  | Fiji | 185 |
+| 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 178 |
+| 14 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 175 |
 | 15 | [Neikumata](https://github.com/Neikumata) | yangyeqin | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 133 |
 | 16 | [Arishneel-Narayan](https://github.com/Arishneel-Narayan) | Arishneel Sagar Narayan | FMF Foods Ltd |  | Fiji  | 129 |
 | 17 | [LangfordKuo](https://github.com/LangfordKuo) | Langford | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 111 |

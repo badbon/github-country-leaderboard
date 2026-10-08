@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,766
+Indexed users: 1,765
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 1,766
 | 17 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
 | 18 | [raidum](https://github.com/raidum) | Dumitru Railean | Moldova | 3,826 |
 | 19 | [buzadandeveloper](https://github.com/buzadandeveloper) | Buza Dan | Moldova | 3,788 |
-| 20 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 3,537 |
+| 20 | [iulic876](https://github.com/iulic876) | Botnaru Iulian | Moldova | 3,543 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,766
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-08T02:57:10.252Z
+Generated: 2026-10-08T04:17:00.494Z

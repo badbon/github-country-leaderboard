@@ -1,6 +1,6 @@
 # Maldives
 
-Indexed users: 356
+Indexed users: 355
 
 | Leaderboard | Link |
 |---|---|
@@ -21,17 +21,17 @@ Indexed users: 356
 | 7 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
 | 8 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,961 |
 | 9 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,776 |
-| 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 4,552 |
-| 11 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
-| 12 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,364 |
-| 13 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,193 |
-| 14 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,151 |
-| 15 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,150 |
-| 16 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 3,869 |
-| 17 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | Maldives | 3,859 |
-| 18 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 3,803 |
-| 19 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer | Maldives | 3,778 |
-| 20 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 3,542 |
+| 10 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,713 |
+| 11 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,710 |
+| 12 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 4,552 |
+| 13 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
+| 14 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,193 |
+| 15 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,151 |
+| 16 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,150 |
+| 17 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 3,869 |
+| 18 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | Maldives | 3,859 |
+| 19 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 3,803 |
+| 20 | [hussainabeer](https://github.com/hussainabeer) | Hussain Abeer | Maldives | 3,778 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 356
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 41 |
 | 20 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 41 |
 
-Generated: 2026-10-08T02:55:00.129Z
+Generated: 2026-10-08T04:13:21.140Z

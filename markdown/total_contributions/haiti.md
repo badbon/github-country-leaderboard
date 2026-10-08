@@ -1,6 +1,6 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-08T03:16:03.700Z
+Generated: 2026-10-08T04:01:53.893Z
 
 Users: 340
 
@@ -18,11 +18,11 @@ Users: 340
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | D-EAT |  | Port-au-Prince | 1824 |
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles |  |  | Haiti | 1795 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1756 |
-| 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1601 |
+| 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1706 |
 | 14 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1316 |
 | 15 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1119 |
 | 16 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1043 |
 | 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 977 |
-| 18 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 926 |
-| 19 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 901 |
-| 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 857 |
+| 18 | [EdManDev](https://github.com/EdManDev) | EdManDev | EdManDev | EdmanManigat | Haiti | 947 |
+| 19 | [deldesir](https://github.com/deldesir) | Blondel Mondesir |  |  | Haiti | 926 |
+| 20 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 901 |

@@ -53,10 +53,10 @@ Indexed users: 29,157
 | 14 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno | Colombia, Bogotá | 4,226 |
 | 15 | [oscampo](https://github.com/oscampo) | Oscar Campo | Colombia | 4,111 |
 | 16 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta | Colombia | 3,953 |
-| 17 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | Pereira, Colombia | 3,912 |
-| 18 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Colombia | 3,877 |
-| 19 | [mjfelis](https://github.com/mjfelis) | Fabrice Rochette | Bogotá, Colombia | 3,807 |
-| 20 | [FraVelz](https://github.com/FraVelz) | (FV) Fravelz | Colombia | 3,774 |
+| 17 | [Juan17la](https://github.com/Juan17la) | Juan Diego | Colombia | 3,916 |
+| 18 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | Pereira, Colombia | 3,912 |
+| 19 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Colombia | 3,877 |
+| 20 | [mjfelis](https://github.com/mjfelis) | Fabrice Rochette | Bogotá, Colombia | 3,807 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 29,157
 | 19 | [goanpeca](https://github.com/goanpeca) | Gonzalo Peña-Castellanos | Bogotá, Colombia | 530 |
 | 20 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 529 |
 
-Generated: 2026-10-08T02:25:11.366Z
+Generated: 2026-10-08T03:49:14.512Z

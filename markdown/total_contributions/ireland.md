@@ -1,8 +1,8 @@
 # Total Contributions - Ireland
 
-Generated: 2026-10-08T03:25:33.069Z
+Generated: 2026-10-08T04:05:09.126Z
 
-Users: 19523
+Users: 19542
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 19523
 | 14 | [wsdo](https://github.com/wsdo) | Xishu |  | xishu_ai | Ireland | 14157 |
 | 15 | [ryan-winkler](https://github.com/ryan-winkler) | Ryan Winkler | Currently Looking | ryanw_product | Dublin Ireland | 13842 |
 | 16 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | @OUTsurance @outsurance-ireland |  | Dublin, Ireland | 13809 |
-| 17 | [goenning](https://github.com/goenning) | Guilherme Oenning |  | goenning | Dublin, Ireland | 12855 |
-| 18 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | @episensor  |  | Ireland | 12835 |
-| 19 | [Aramantos](https://github.com/Aramantos) | John Doyle |  | jd_aramantos | Dublin, Ireland | 12172 |
-| 20 | [akaDashe](https://github.com/akaDashe) | David Ashe | @Zendesk |  | Dublin | 11924 |
+| 17 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling |  |  | Dublin Ireland  | 13324 |
+| 18 | [goenning](https://github.com/goenning) | Guilherme Oenning |  | goenning | Dublin, Ireland | 12855 |
+| 19 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | @episensor  |  | Ireland | 12835 |
+| 20 | [Aramantos](https://github.com/Aramantos) | John Doyle |  | jd_aramantos | Dublin, Ireland | 12172 |
