@@ -3548,7 +3548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-04-08T16:17:51Z"
   },
   {
@@ -3572,7 +3572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 18,
     "createdAt": "2024-10-24T18:36:23Z"
   },
   {
@@ -3608,7 +3608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-02-01T06:28:11Z"
   },
   {
@@ -3620,7 +3620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 244,
+    "publicContributions": 271,
     "createdAt": "2024-12-04T06:52:05Z"
   },
   {
@@ -3631,7 +3631,7 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 122,
+    "privateContributions": 119,
     "publicContributions": 4,
     "createdAt": "2024-04-29T21:59:20Z"
   },
@@ -3660,18 +3660,6 @@
     "createdAt": "2024-03-18T16:49:04Z"
   },
   {
-    "login": "Astera-Lainey",
-    "name": "Forbin Astera-Lainey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183317247?s=72&v=4",
-    "location": "Yaounde, Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 130,
-    "createdAt": "2024-09-29T20:49:39Z"
-  },
-  {
     "login": "farik-souley",
     "name": "Souleymanou Daouda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183787042?s=72&u=015e84ec02a71761d0c11e52f808eb3cf76ea5cf&v=4",
@@ -3680,7 +3668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-10-04T03:54:39Z"
   },
   {
@@ -3716,7 +3704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 227,
     "createdAt": "2024-01-04T17:46:25Z"
   },
   {
@@ -3726,7 +3714,7 @@
     "location": "cameroon",
     "company": "Camonlineshopping ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-11-19T17:45:34Z"
@@ -3734,13 +3722,13 @@
   {
     "login": "ebongi",
     "name": "Ebong Sume ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169567307?s=72&u=18416a408c370ad7d872c4ab95d66e7bc670617c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169567307?s=72&u=095451110c771d63a2c85c6bf6bbbf2ecbfc3a84&v=4",
     "location": "Cameroon, Buea",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 73,
-    "publicContributions": 36,
+    "privateContributions": 40,
+    "publicContributions": 151,
     "createdAt": "2024-05-12T01:16:50Z"
   },
   {
@@ -3752,7 +3740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2024-11-19T13:12:57Z"
   },
   {
@@ -3762,9 +3750,9 @@
     "location": "Douala, Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 37,
     "createdAt": "2024-10-08T17:00:03Z"
   },
   {

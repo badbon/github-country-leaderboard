@@ -3260,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 129,
     "createdAt": "2025-06-10T11:30:05Z"
   },
   {
@@ -3272,20 +3272,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 65,
     "createdAt": "2025-11-20T12:38:33Z"
-  },
-  {
-    "login": "aniitv",
-    "name": "Anastasiia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230014273?s=72&u=cec4912469611514a99761e3e052a27b5f354142&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 16,
-    "publicContributions": 203,
-    "createdAt": "2025-09-02T18:05:51Z"
   },
   {
     "login": "Ludmila1326624",
@@ -3320,19 +3308,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-04-18T20:20:57Z"
   },
   {
     "login": "nixnika17",
     "name": "NIX VAIL",
     "avatarUrl": "https://avatars.githubusercontent.com/u/195960418?s=72&u=6eada0a92f141f0190c68bbf1d686b6a0fc27e30&v=4",
-    "location": "Ukraine,Kropyvnytskyi region",
+    "location": "Ukraine, Kyiv",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 280,
-    "publicContributions": 145,
+    "followers": 7,
+    "privateContributions": 290,
+    "publicContributions": 176,
     "createdAt": "2025-01-21T19:01:51Z"
   },
   {
@@ -3343,8 +3331,8 @@
     "company": "KPI (Igor Sikorsky Kyiv Polytechnic Institute)",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 112,
-    "publicContributions": 67,
+    "privateContributions": 99,
+    "publicContributions": 50,
     "createdAt": "2025-03-28T18:15:03Z"
   },
   {
@@ -3356,7 +3344,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 36,
-    "publicContributions": 47,
+    "publicContributions": 101,
     "createdAt": "2025-04-21T17:30:23Z"
   },
   {
@@ -3368,19 +3356,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 71,
     "createdAt": "2025-02-12T12:19:24Z"
   },
   {
     "login": "kwkscream",
     "name": "David S.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195976466?s=72&u=deb31dd1bcde31e0d6f649b54e38533faeac428f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195976466?s=72&u=2557b0208712dd3b6cbe3b018e3d25a827b8d190&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2025-01-21T22:04:56Z"
   },
   {
@@ -3391,8 +3379,8 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 280,
-    "publicContributions": 425,
+    "privateContributions": 271,
+    "publicContributions": 250,
     "createdAt": "2025-01-17T12:24:33Z"
   },
   {
@@ -3402,7 +3390,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-03T11:04:42Z"
@@ -3416,7 +3404,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 72,
     "createdAt": "2025-09-21T21:15:46Z"
   },
   {
@@ -3428,20 +3416,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 115,
     "createdAt": "2025-07-09T09:55:45Z"
-  },
-  {
-    "login": "chip-hardware",
-    "name": "chip(с)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/213952296?s=72&u=80ee10c4ff34e747c22372061a7b580cf2749803&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 55,
-    "createdAt": "2025-05-29T10:48:52Z"
   },
   {
     "login": "martsinkovska",
@@ -3452,7 +3428,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 50,
     "createdAt": "2025-02-08T11:58:04Z"
   },
   {
@@ -3475,8 +3451,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 61,
-    "publicContributions": 103,
+    "privateContributions": 23,
+    "publicContributions": 102,
     "createdAt": "2025-05-10T19:22:43Z"
   },
   {
@@ -3488,7 +3464,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 257,
+    "publicContributions": 204,
     "createdAt": "2025-07-15T17:24:55Z"
   },
   {

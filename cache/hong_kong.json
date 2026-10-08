@@ -3452,7 +3452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-06-26T01:00:58Z"
   },
   {
@@ -3475,8 +3475,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 289,
+    "privateContributions": 0,
+    "publicContributions": 210,
     "createdAt": "2025-02-11T14:14:20Z"
   },
   {
@@ -3528,18 +3528,6 @@
     "createdAt": "2025-05-31T11:10:09Z"
   },
   {
-    "login": "martinmtt0902",
-    "name": "Ma Ting Tin Martin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/244310849?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "The Chinese University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 157,
-    "createdAt": "2025-11-16T10:17:01Z"
-  },
-  {
     "login": "ZzzhangYyi",
     "name": "Yi ZHANG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/246400681?s=72&v=4",
@@ -3570,7 +3558,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2025-06-05T04:01:30Z"
@@ -3582,9 +3570,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 8,
     "createdAt": "2025-06-24T09:20:01Z"
   },
   {
@@ -3596,20 +3584,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 52,
     "createdAt": "2025-08-25T17:07:13Z"
-  },
-  {
-    "login": "lky012",
-    "name": "Alyssa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193488704?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2025-01-02T11:04:28Z"
   },
   {
     "login": "yanzhuchen96-creator",
@@ -3620,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-09-23T11:44:49Z"
   },
   {
@@ -3632,7 +3608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 312,
+    "publicContributions": 308,
     "createdAt": "2025-10-06T04:38:35Z"
   },
   {
@@ -3643,8 +3619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 50,
-    "publicContributions": 116,
+    "privateContributions": 64,
+    "publicContributions": 149,
     "createdAt": "2025-07-02T02:02:58Z"
   },
   {
@@ -3655,8 +3631,8 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 360,
-    "publicContributions": 154,
+    "privateContributions": 427,
+    "publicContributions": 161,
     "createdAt": "2025-04-17T07:04:23Z"
   },
   {
@@ -3668,7 +3644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 33,
     "createdAt": "2025-08-09T09:31:29Z"
   },
   {
@@ -76196,7 +76172,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 32,
     "createdAt": "2017-11-17T03:16:41Z"
   },
   {

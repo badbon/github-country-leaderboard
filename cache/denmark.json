@@ -3500,7 +3500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 127,
     "createdAt": "2025-09-22T18:25:39Z"
   },
   {
@@ -3510,7 +3510,7 @@
     "location": "Denmark",
     "company": "@Krifa",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-04T11:04:04Z"
@@ -3523,7 +3523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 51,
+    "privateContributions": 48,
     "publicContributions": 82,
     "createdAt": "2025-04-06T23:11:22Z"
   },
@@ -3534,9 +3534,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 447,
+    "publicContributions": 467,
     "createdAt": "2025-04-05T09:28:01Z"
   },
   {
@@ -3572,7 +3572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 31,
     "createdAt": "2025-03-12T22:05:43Z"
   },
   {
@@ -3607,8 +3607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 175,
+    "privateContributions": 133,
+    "publicContributions": 323,
     "createdAt": "2025-09-24T07:24:00Z"
   },
   {
@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-09-02T14:41:43Z"
   },
   {
@@ -3666,9 +3666,9 @@
     "location": "Østerbro, Copenhagen",
     "company": "fAIn Labs",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2025-07-25T15:53:28Z"
   },
   {
@@ -3679,20 +3679,20 @@
     "company": "TDC Brands",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1122,
-    "publicContributions": 479,
+    "privateContributions": 1816,
+    "publicContributions": 460,
     "createdAt": "2025-05-02T09:34:53Z"
   },
   {
     "login": "cocodedk",
     "name": "Babak Bandpey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193724228?s=72&u=e56a79f87902b59fb2a0480d2b6318d94715e383&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193724228?s=72&u=1cce9a2b6a0aa1c83ab0722bd70943fc01881911&v=4",
     "location": "Copenhagen",
     "company": "cocode.dk",
     "twitterUsername": "BBandpey",
-    "followers": 6,
-    "privateContributions": 2273,
-    "publicContributions": 3359,
+    "followers": 10,
+    "privateContributions": 5628,
+    "publicContributions": 5212,
     "createdAt": "2025-01-04T15:38:42Z"
   },
   {
@@ -3702,9 +3702,9 @@
     "location": "Copenhagen, DK",
     "company": "@heeystudio",
     "twitterUsername": "JoakimBloch",
-    "followers": 6,
-    "privateContributions": 612,
-    "publicContributions": 117,
+    "followers": 7,
+    "privateContributions": 531,
+    "publicContributions": 116,
     "createdAt": "2025-08-06T07:22:26Z"
   },
   {
@@ -3714,22 +3714,10 @@
     "location": "Copenhagen",
     "company": "grit42",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 14,
     "createdAt": "2025-01-30T09:18:42Z"
-  },
-  {
-    "login": "alexander-markin-meow",
-    "name": "alex markin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216529737?s=72&u=72e962f4dcae7a75469c24ab297d8a99201b3de8&v=4",
-    "location": "copenhagen",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 224,
-    "createdAt": "2025-06-16T11:23:57Z"
   },
   {
     "login": "JyotiHYF",
@@ -231778,5 +231766,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-05-29T06:16:44Z"
+  },
+  {
+    "login": "jestasjovin",
+    "name": "jovine jestas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159130333?s=72&u=00d747f0f3bf2dfd82c0f883f0a9108cd954f8db&v=4",
+    "location": "Copenhagen , Denmark",
+    "company": "Techxberg",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 323,
+    "publicContributions": 53,
+    "createdAt": "2024-02-06T10:11:27Z"
   }
 ]

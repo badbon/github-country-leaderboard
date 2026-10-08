@@ -3530,13 +3530,13 @@
   {
     "login": "e-reitbauer",
     "name": "Erik Reitbauer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232747898?s=72&u=a27d37ea8894b28e11403245454c587315a79d1c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232747898?s=72&u=fd9365199519e607c46a0b8bed958d72ca886f5e&v=4",
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 37,
-    "publicContributions": 370,
+    "followers": 2,
+    "privateContributions": 43,
+    "publicContributions": 570,
     "createdAt": "2025-09-17T06:24:08Z"
   },
   {
@@ -3548,7 +3548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 6,
     "createdAt": "2025-03-09T09:22:54Z"
   },
   {
@@ -3566,13 +3566,13 @@
   {
     "login": "shytyk-develop",
     "name": "Jan Shytyk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227414903?s=72&u=e98444cb45df515118a86c3117e0eeb668bdf165&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/227414903?s=72&u=677c5f2e9b80c35d9b458b5023af5b2b1270a286&v=4",
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 542,
-    "publicContributions": 236,
+    "followers": 4,
+    "privateContributions": 909,
+    "publicContributions": 316,
     "createdAt": "2025-08-19T14:36:42Z"
   },
   {
@@ -3582,9 +3582,9 @@
     "location": "Vienna, Austria",
     "company": "University of Applied Science Vienna",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 74,
-    "publicContributions": 135,
+    "followers": 3,
+    "privateContributions": 221,
+    "publicContributions": 151,
     "createdAt": "2025-01-26T18:40:51Z"
   },
   {
@@ -3596,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-09-25T13:27:58Z"
   },
   {
@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2025-04-24T14:58:31Z"
   },
   {
@@ -3680,7 +3680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 192,
     "createdAt": "2025-02-11T14:39:26Z"
   },
   {
@@ -3691,7 +3691,7 @@
     "company": "@NY-Roleplay ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 394,
+    "privateContributions": 161,
     "publicContributions": 5,
     "createdAt": "2025-05-12T17:56:26Z"
   },
@@ -3726,22 +3726,10 @@
     "location": "Vorarlberg, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 13,
     "createdAt": "2025-08-16T20:46:38Z"
-  },
-  {
-    "login": "Seemops1337",
-    "name": "Simon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206674802?s=72&u=1212fa83d77b18754c8a02988a3dbf4c91242c1c&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 647,
-    "publicContributions": 6,
-    "createdAt": "2025-04-08T08:02:47Z"
   },
   {
     "login": "alexgradev",
@@ -219022,5 +219010,17 @@
     "privateContributions": 1919,
     "publicContributions": 83,
     "createdAt": "2024-05-27T14:20:46Z"
+  },
+  {
+    "login": "dorian-o",
+    "name": "Dorian O",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109726624?s=72&u=6bbda6dd15397ce50e90c8e34ac12a08a59612e3&v=4",
+    "location": "Vienna, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2022-07-21T08:25:52Z"
   }
 ]

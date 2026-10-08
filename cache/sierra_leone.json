@@ -3379,8 +3379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2228,
-    "publicContributions": 420,
+    "privateContributions": 2851,
+    "publicContributions": 513,
     "createdAt": "2019-09-05T06:02:58Z"
   },
   {
@@ -3403,7 +3403,7 @@
     "company": "Easy Solar",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 23,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-15T02:20:47Z"
   },
@@ -3416,7 +3416,7 @@
     "twitterUsername": "SUBiango",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 293,
+    "publicContributions": 367,
     "createdAt": "2019-08-09T21:54:19Z"
   },
   {
@@ -3426,21 +3426,21 @@
     "location": "Freetown, Sierra Leone",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2019-08-29T12:55:41Z"
   },
   {
     "login": "Mabel007",
-    "name": "Mabel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55857580?s=72&u=211104ddf4f24eb670c5de39434ef549aec1c9fd&v=4",
+    "name": "Christiana Mabel Nyuma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55857580?s=72&u=d93fed5f0a6843fcd5bb246729ecaf9df5c80594&v=4",
     "location": "Sierra Leone",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 570,
-    "publicContributions": 16,
+    "privateContributions": 761,
+    "publicContributions": 23,
     "createdAt": "2019-09-26T21:16:46Z"
   },
   {
@@ -3464,7 +3464,7 @@
     "twitterUsername": "JNewton",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1436,
+    "publicContributions": 132,
     "createdAt": "2019-10-29T19:30:06Z"
   },
   {
@@ -3476,7 +3476,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2019-12-18T03:24:44Z"
   },
   {
@@ -3583,7 +3583,7 @@
     "company": "Goldent Software",
     "twitterUsername": "medvik_k",
     "followers": 2,
-    "privateContributions": 28,
+    "privateContributions": 26,
     "publicContributions": 0,
     "createdAt": "2019-02-15T17:51:45Z"
   },

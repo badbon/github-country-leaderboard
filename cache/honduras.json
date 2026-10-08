@@ -3571,7 +3571,7 @@
     "company": "",
     "twitterUsername": "LizziAlnz",
     "followers": 6,
-    "privateContributions": 46,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2021-07-22T17:27:08Z"
   },
@@ -3584,7 +3584,7 @@
     "twitterUsername": "Jesus180Reyes",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 635,
     "createdAt": "2021-02-17T22:40:41Z"
   },
   {
@@ -3595,8 +3595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 56,
-    "publicContributions": 141,
+    "privateContributions": 38,
+    "publicContributions": 153,
     "createdAt": "2021-09-27T21:24:24Z"
   },
   {
@@ -3607,8 +3607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1617,
-    "publicContributions": 76,
+    "privateContributions": 3071,
+    "publicContributions": 78,
     "createdAt": "2021-03-06T02:47:27Z"
   },
   {
@@ -3619,7 +3619,7 @@
     "company": "YARE",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2162,
+    "privateContributions": 2432,
     "publicContributions": 21,
     "createdAt": "2021-02-23T22:50:34Z"
   },
@@ -3666,7 +3666,7 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-13T17:03:19Z"
@@ -3680,7 +3680,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 96,
     "createdAt": "2021-05-29T20:16:45Z"
   },
   {
@@ -3691,7 +3691,7 @@
     "company": "@Integral-Stack",
     "twitterUsername": "javi_ss_",
     "followers": 5,
-    "privateContributions": 359,
+    "privateContributions": 1051,
     "publicContributions": 3,
     "createdAt": "2021-05-05T16:19:34Z"
   },
@@ -3720,27 +3720,15 @@
     "createdAt": "2021-01-05T21:07:50Z"
   },
   {
-    "login": "carlosp2001",
-    "name": "Carlos Pineda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85173449?s=72&u=968c5d208aeef4e1bf794f54d62998cf7cb3b738&v=4",
-    "location": "San Pedro Sula, Cortés, Honduras",
-    "company": "@FNDRS",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 203,
-    "publicContributions": 16,
-    "createdAt": "2021-06-01T13:02:32Z"
-  },
-  {
     "login": "MarcoRodasW",
     "name": "Marco Rodas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/81538367?s=72&u=e5a1a3c55d8b63d8991866cf9ace9739155b542f&v=4",
     "location": "Puerto Cortés, Honduras.",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 3,
-    "publicContributions": 179,
+    "publicContributions": 153,
     "createdAt": "2021-03-28T23:23:14Z"
   },
   {
@@ -3775,8 +3763,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 43,
-    "publicContributions": 206,
+    "privateContributions": 33,
+    "publicContributions": 107,
     "createdAt": "2021-10-19T01:36:36Z"
   },
   {

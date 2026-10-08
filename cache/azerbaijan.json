@@ -3500,7 +3500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2025-11-30T21:23:25Z"
   },
   {
@@ -3510,9 +3510,9 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
-    "privateContributions": 8,
-    "publicContributions": 153,
+    "followers": 69,
+    "privateContributions": 3,
+    "publicContributions": 61,
     "createdAt": "2025-02-24T11:17:09Z"
   },
   {
@@ -3522,9 +3522,9 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 2843,
+    "publicContributions": 2729,
     "createdAt": "2025-06-03T15:46:56Z"
   },
   {
@@ -3534,7 +3534,7 @@
     "location": "Baku ",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-11T08:42:33Z"
@@ -3548,7 +3548,7 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 298,
+    "publicContributions": 345,
     "createdAt": "2025-01-04T07:57:37Z"
   },
   {
@@ -3558,9 +3558,9 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 23,
-    "publicContributions": 587,
+    "followers": 24,
+    "privateContributions": 24,
+    "publicContributions": 702,
     "createdAt": "2025-05-24T16:11:10Z"
   },
   {
@@ -3570,9 +3570,9 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 39,
-    "publicContributions": 229,
+    "followers": 24,
+    "privateContributions": 40,
+    "publicContributions": 230,
     "createdAt": "2025-09-19T19:56:31Z"
   },
   {
@@ -3584,7 +3584,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2025-02-17T08:57:41Z"
   },
   {
@@ -3596,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 132,
     "createdAt": "2025-01-28T06:22:08Z"
   },
   {
@@ -3606,9 +3606,9 @@
     "location": "Baku",
     "company": "N/A",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 35,
     "createdAt": "2025-07-29T13:28:56Z"
   },
   {
@@ -3620,7 +3620,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 21,
-    "publicContributions": 38,
+    "publicContributions": 37,
     "createdAt": "2025-02-10T15:22:09Z"
   },
   {
@@ -3631,8 +3631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 883,
-    "publicContributions": 182,
+    "privateContributions": 578,
+    "publicContributions": 547,
     "createdAt": "2025-09-14T07:21:06Z"
   },
   {
@@ -3642,7 +3642,7 @@
     "location": "Baku",
     "company": "Code For Future",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2025-02-28T12:04:40Z"
@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 6,
-    "publicContributions": 637,
+    "publicContributions": 453,
     "createdAt": "2025-06-03T12:04:45Z"
   },
   {
@@ -3668,19 +3668,19 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 432,
+    "publicContributions": 424,
     "createdAt": "2025-01-12T10:19:04Z"
   },
   {
     "login": "aytajshakarzade",
     "name": "Aytaj Shakarzade ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201394611?s=72&u=b31af800bba764020a66f3490afcf20ebad24833&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201394611?s=72&v=4",
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 63,
-    "publicContributions": 236,
+    "followers": 14,
+    "privateContributions": 153,
+    "publicContributions": 246,
     "createdAt": "2025-03-01T21:24:22Z"
   },
   {
@@ -3690,9 +3690,9 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 1051,
+    "publicContributions": 1064,
     "createdAt": "2025-03-07T18:51:52Z"
   },
   {
@@ -3710,13 +3710,13 @@
   {
     "login": "devbabayev",
     "name": "Nurlan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250133801?s=72&u=c7115f602d578ec1303516c540a70b3b26ae4844&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/250133801?s=72&u=b971592933f98e71b240aadb652cfd7b8c241de1&v=4",
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 560,
-    "publicContributions": 71,
+    "followers": 11,
+    "privateContributions": 568,
+    "publicContributions": 74,
     "createdAt": "2025-12-17T11:25:04Z"
   },
   {
@@ -3728,7 +3728,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2025-12-16T19:36:33Z"
   },
   {

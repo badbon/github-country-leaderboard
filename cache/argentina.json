@@ -3246,9 +3246,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 1386,
+    "publicContributions": 1304,
     "createdAt": "2025-01-10T02:30:31Z"
   },
   {
@@ -3270,9 +3270,9 @@
     "location": "Argentina",
     "company": "Fsociety",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 482,
+    "publicContributions": 478,
     "createdAt": "2025-02-09T03:04:43Z"
   },
   {
@@ -3283,7 +3283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-15T11:36:17Z"
   },
@@ -3294,9 +3294,9 @@
     "location": "Argentina, Buenos Aires.",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 292,
-    "publicContributions": 17,
+    "followers": 28,
+    "privateContributions": 322,
+    "publicContributions": 77,
     "createdAt": "2025-04-16T19:24:08Z"
   },
   {
@@ -3306,22 +3306,10 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 181,
     "createdAt": "2025-05-25T17:33:16Z"
-  },
-  {
-    "login": "faculaut",
-    "name": "Facundo L. Rodríguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193750839?s=72&u=781529ec98fafb693bdb9fd0b960b32fd2f5118f&v=4",
-    "location": "Argentina",
-    "company": "",
-    "twitterUsername": "faculaut",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-01-04T22:41:37Z"
   },
   {
     "login": "bluware-dev",
@@ -3330,9 +3318,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "null",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 219,
+    "publicContributions": 130,
     "createdAt": "2025-02-22T00:04:14Z"
   },
   {
@@ -3343,8 +3331,8 @@
     "company": "Universidad Nacional de San Luis (UNSL)",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 582,
-    "publicContributions": 995,
+    "privateContributions": 962,
+    "publicContributions": 1005,
     "createdAt": "2025-03-08T21:05:54Z"
   },
   {
@@ -3354,21 +3342,21 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 14,
     "createdAt": "2025-01-10T18:26:39Z"
   },
   {
     "login": "EFrMG",
     "name": "Erwin Francisco Macias Ghiglione",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204592755?s=72&u=0a328c80d30755f0b31873d4e29b01585f3eedb4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/204592755?s=72&u=d59242612f11b69cdad05a95588ba914c73a6a65&v=4",
     "location": "Argentina",
     "company": "",
     "twitterUsername": "FranciscoM5896",
-    "followers": 16,
-    "privateContributions": 260,
-    "publicContributions": 360,
+    "followers": 17,
+    "privateContributions": 405,
+    "publicContributions": 694,
     "createdAt": "2025-03-23T16:02:36Z"
   },
   {
@@ -3378,7 +3366,7 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 124,
     "createdAt": "2025-05-18T01:22:24Z"
@@ -3390,9 +3378,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 281,
+    "publicContributions": 161,
     "createdAt": "2025-03-19T20:34:46Z"
   },
   {
@@ -3404,7 +3392,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 250,
+    "publicContributions": 243,
     "createdAt": "2025-04-17T16:55:28Z"
   },
   {
@@ -3416,7 +3404,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 30,
-    "publicContributions": 92,
+    "publicContributions": 75,
     "createdAt": "2025-03-12T16:36:32Z"
   },
   {
@@ -3426,9 +3414,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "_HaiWeiss_",
-    "followers": 14,
-    "privateContributions": 149,
-    "publicContributions": 8,
+    "followers": 13,
+    "privateContributions": 101,
+    "publicContributions": 6,
     "createdAt": "2025-03-23T11:45:39Z"
   },
   {
@@ -3438,9 +3426,9 @@
     "location": "Berisso, Buenos Aires, Argentina",
     "company": "Facultad de Informática - UNLP",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 184,
-    "publicContributions": 106,
+    "followers": 13,
+    "privateContributions": 210,
+    "publicContributions": 112,
     "createdAt": "2025-03-26T11:42:29Z"
   },
   {
@@ -3450,9 +3438,9 @@
     "location": "Puerto Deseado, Santa Cruz, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 21,
-    "publicContributions": 237,
+    "followers": 15,
+    "privateContributions": 14,
+    "publicContributions": 213,
     "createdAt": "2025-04-03T18:18:41Z"
   },
   {
@@ -3462,9 +3450,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 286,
-    "publicContributions": 49,
+    "followers": 15,
+    "privateContributions": 389,
+    "publicContributions": 236,
     "createdAt": "2025-05-27T18:00:28Z"
   },
   {
@@ -3474,9 +3462,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 69,
-    "publicContributions": 34,
+    "followers": 15,
+    "privateContributions": 60,
+    "publicContributions": 88,
     "createdAt": "2025-05-27T17:21:02Z"
   },
   {

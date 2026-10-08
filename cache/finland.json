@@ -3188,7 +3188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 12,
     "createdAt": "2025-01-10T17:48:18Z"
   },
   {
@@ -3200,7 +3200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 4,
     "createdAt": "2025-05-25T16:39:30Z"
   },
   {
@@ -3212,7 +3212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 11,
     "createdAt": "2025-08-18T07:56:56Z"
   },
   {
@@ -3226,18 +3226,6 @@
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2025-04-30T12:05:34Z"
-  },
-  {
-    "login": "zkgit-bot",
-    "name": "HillsOfLA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/240211639?s=72&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2025-10-25T18:03:21Z"
   },
   {
     "login": "Elaheh-Moallem",
@@ -3259,8 +3247,8 @@
     "company": "Aalto University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
-    "publicContributions": 67,
+    "privateContributions": 68,
+    "publicContributions": 61,
     "createdAt": "2025-09-06T20:38:51Z"
   },
   {
@@ -3272,7 +3260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 136,
     "createdAt": "2025-05-28T20:06:14Z"
   },
   {
@@ -3284,7 +3272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 89,
     "createdAt": "2025-04-06T15:27:53Z"
   },
   {
@@ -3308,7 +3296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 108,
     "createdAt": "2025-05-30T04:10:17Z"
   },
   {
@@ -3320,7 +3308,7 @@
     "twitterUsername": "autoperpbot",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-08-13T10:39:00Z"
   },
   {
@@ -3344,19 +3332,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 17,
     "createdAt": "2025-04-19T21:06:56Z"
   },
   {
     "login": "Ace-Alch",
     "name": "Mehdi Mollemkolaei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193328016?s=72&u=3a8448c680aed9bd379c76d8929def3ce0370975&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193328016?s=72&u=924f514444d21ba057a72f495165ec90a60bc12f&v=4",
     "location": "Tampere, Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2024-12-31T11:57:35Z"
   },
   {
@@ -3380,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 30,
     "createdAt": "2025-03-09T13:18:49Z"
   },
   {

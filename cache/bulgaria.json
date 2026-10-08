@@ -3554,13 +3554,13 @@
   {
     "login": "perfectString",
     "name": "Asya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221551043?s=72&u=97b47317395fe17ff310129a79217d41aa2a3c67&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/221551043?s=72&u=dc4aa355c225ccc9056d61c185e767b6cbd21b2b&v=4",
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 113,
     "createdAt": "2025-07-18T12:21:36Z"
   },
   {
@@ -3596,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 164,
     "createdAt": "2025-07-04T14:46:00Z"
   },
   {
@@ -3606,9 +3606,9 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2025-02-24T20:12:28Z"
   },
   {
@@ -3619,8 +3619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 68,
-    "publicContributions": 430,
+    "privateContributions": 80,
+    "publicContributions": 394,
     "createdAt": "2025-06-27T10:45:36Z"
   },
   {
@@ -3632,7 +3632,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2025-07-07T14:04:56Z"
   },
   {
@@ -3644,7 +3644,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 40,
     "createdAt": "2025-10-06T17:34:05Z"
   },
   {
@@ -3655,20 +3655,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 120,
-    "publicContributions": 178,
+    "privateContributions": 147,
+    "publicContributions": 251,
     "createdAt": "2025-02-20T17:27:59Z"
   },
   {
     "login": "niksata-ivanovw",
     "name": "Nikola Ivanov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211860820?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211860820?s=72&u=5f26581c64ac9b548b2e64f1f7d2d98fd4f820a6&v=4",
     "location": "Varna",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 35,
     "createdAt": "2025-05-15T16:17:05Z"
   },
   {
@@ -3680,7 +3680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-16T18:19:03Z"
   },
   {
@@ -3692,19 +3692,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 86,
     "createdAt": "2025-02-04T16:21:51Z"
   },
   {
     "login": "hsabev",
     "name": "Hristo Sabev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233252596?s=72&u=6c279eb91b5c47ea4c4984aa253588333494650e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233252596?s=72&v=4",
     "location": "Varna",
     "company": "Sprintax",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 85,
     "createdAt": "2025-09-19T09:55:04Z"
   },
   {
@@ -3716,7 +3716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 86,
     "createdAt": "2025-07-27T14:56:30Z"
   },
   {
@@ -3726,8 +3726,8 @@
     "location": "Bulgaria",
     "company": "Intway",
     "twitterUsername": "",
-    "followers": 110,
-    "privateContributions": 824,
+    "followers": 105,
+    "privateContributions": 715,
     "publicContributions": 10,
     "createdAt": "2024-07-19T08:42:50Z"
   },
@@ -3738,8 +3738,8 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 102,
-    "privateContributions": 691,
+    "followers": 100,
+    "privateContributions": 617,
     "publicContributions": 2406,
     "createdAt": "2024-02-21T10:22:30Z"
   },
@@ -3750,9 +3750,9 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 82,
+    "followers": 83,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 65,
     "createdAt": "2024-01-21T16:43:47Z"
   },
   {
@@ -3762,8 +3762,8 @@
     "location": "Burgas, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 129,
+    "followers": 39,
+    "privateContributions": 81,
     "publicContributions": 392,
     "createdAt": "2024-10-08T16:08:00Z"
   },
@@ -3774,9 +3774,9 @@
     "location": "Sofia , Bulgaria 🇧🇬",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 834,
+    "publicContributions": 842,
     "createdAt": "2024-03-30T06:54:58Z"
   },
   {

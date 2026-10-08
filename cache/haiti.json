@@ -3320,7 +3320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2017-06-25T21:47:30Z"
   },
   {
@@ -3366,22 +3366,10 @@
     "location": "Port-au-Prince - Haiti",
     "company": "Code9Dev",
     "twitterUsername": "lemayzeur",
-    "followers": 55,
+    "followers": 56,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2016-01-21T16:05:43Z"
-  },
-  {
-    "login": "deldesir",
-    "name": "Blondel Mondesir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16546989?s=72&v=4",
-    "location": "Haiti",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 483,
-    "publicContributions": 443,
-    "createdAt": "2016-01-04T20:42:25Z"
   },
   {
     "login": "LysAMa",
@@ -3402,7 +3390,7 @@
     "location": "Port-au-prince, Haiti.",
     "company": "",
     "twitterUsername": "ezechieldestine",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-03-08T00:05:08Z"
@@ -3427,7 +3415,7 @@
     "company": "Atrax Inc",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 377,
+    "privateContributions": 391,
     "publicContributions": 0,
     "createdAt": "2016-12-27T01:51:40Z"
   },
@@ -3438,9 +3426,9 @@
     "location": "Haiti",
     "company": "@techmastersystems ",
     "twitterUsername": "jumoyz",
-    "followers": 9,
-    "privateContributions": 23,
-    "publicContributions": 54,
+    "followers": 7,
+    "privateContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2016-01-25T15:44:28Z"
   },
   {
@@ -3474,8 +3462,8 @@
     "location": "Haiti ",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 428,
+    "followers": 7,
+    "privateContributions": 416,
     "publicContributions": 5,
     "createdAt": "2016-10-28T20:02:10Z"
   },
@@ -3510,9 +3498,9 @@
     "location": "Haiti",
     "company": "",
     "twitterUsername": "fladjdd55",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 0,
     "createdAt": "2016-09-09T21:39:24Z"
   },
   {

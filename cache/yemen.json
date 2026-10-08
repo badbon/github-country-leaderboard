@@ -3295,7 +3295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 23,
     "publicContributions": 295,
     "createdAt": "2024-09-01T12:10:31Z"
   },
@@ -3308,7 +3308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 5,
     "createdAt": "2024-02-26T12:03:27Z"
   },
   {
@@ -3332,7 +3332,7 @@
     "twitterUsername": "albaradev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 160,
     "createdAt": "2024-10-17T21:29:58Z"
   },
   {
@@ -3343,7 +3343,7 @@
     "company": "arabwaredos",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 49,
+    "privateContributions": 69,
     "publicContributions": 5,
     "createdAt": "2024-06-30T18:39:12Z"
   },
@@ -3368,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 32,
     "createdAt": "2024-06-01T11:38:39Z"
   },
   {
@@ -3378,22 +3378,10 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 38,
+    "followers": 4,
+    "privateContributions": 78,
+    "publicContributions": 41,
     "createdAt": "2024-12-25T20:15:33Z"
-  },
-  {
-    "login": "Bashar-1216",
-    "name": "Bashar Almuntaser",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178503483?s=72&u=16f8e81e535b664a5893f93acaad013ec7a18a51&v=4",
-    "location": "Yemen ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 132,
-    "createdAt": "2024-08-15T16:36:37Z"
   },
   {
     "login": "Eng-AhmedMazroa",
@@ -3414,9 +3402,9 @@
     "location": "yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 13,
     "createdAt": "2024-11-11T11:58:52Z"
   },
   {
@@ -3452,7 +3440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 52,
     "createdAt": "2024-02-13T21:42:48Z"
   },
   {
@@ -3462,9 +3450,9 @@
     "location": "Al Mukalla, Hadhramaut, Yemen ",
     "company": "",
     "twitterUsername": "Abdullah_SBB",
-    "followers": 1,
-    "privateContributions": 53,
-    "publicContributions": 225,
+    "followers": 3,
+    "privateContributions": 64,
+    "publicContributions": 221,
     "createdAt": "2024-03-28T05:19:54Z"
   },
   {
@@ -3510,9 +3498,9 @@
     "location": "Yemen",
     "company": "RiadanPro",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 60,
-    "publicContributions": 84,
+    "followers": 2,
+    "privateContributions": 155,
+    "publicContributions": 98,
     "createdAt": "2024-07-16T23:55:05Z"
   },
   {
@@ -3522,7 +3510,7 @@
     "location": "Yemen-Sana'a",
     "company": "just me",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2024-10-14T13:33:23Z"

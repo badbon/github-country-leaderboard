@@ -64834,5 +64834,41 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2008-11-05T07:18:21Z"
+  },
+  {
+    "login": "aleksas-oxy",
+    "name": "Aleksas Pielikis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288007446?s=72&u=276376ffc87dc4b6589b8709fb4ede658903b693&v=4",
+    "location": "Vilnius, Lithuania",
+    "company": "@oxylabs",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-05-26T12:25:19Z"
+  },
+  {
+    "login": "domas-sem",
+    "name": "Domas Semenauskas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287250483?s=72&u=621b8c515a28edf22c3b1650f2ed2f8fb634eb84&v=4",
+    "location": "Vilnius, Lithuania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 159,
+    "createdAt": "2026-05-23T15:22:26Z"
+  },
+  {
+    "login": "Abdoul-razaqYussufMbalamula",
+    "name": "Abdoul-razaq Yussuf Mbalamula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293918568?s=72&u=2d27350eb0e6f479af0a2c929ea87ba2fc31198a&v=4",
+    "location": "Vilnius, Lithuania.",
+    "company": "Vilnius Tech Automotive Lab",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-06-15T16:09:04Z"
   }
 ]

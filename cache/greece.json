@@ -3560,7 +3560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-07-06T10:40:28Z"
   },
   {
@@ -3602,13 +3602,13 @@
   {
     "login": "KostasTopouzis",
     "name": "Kostas Topouzis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230517001?s=72&u=404305f78262e833335c25b4cdaa4f50d8aa9fff&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230517001?s=72&u=3b195e2016e4b9157eb2b407aae97a4906533b2a&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 33,
     "createdAt": "2025-09-05T07:43:50Z"
   },
   {
@@ -3619,20 +3619,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 52,
+    "privateContributions": 18,
+    "publicContributions": 27,
     "createdAt": "2025-02-22T18:08:02Z"
   },
   {
     "login": "pannteros",
     "name": "NTEROS PANAGIOTIS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246352034?s=72&u=a0a3577a8f63b08f853c6b00606b7a9fe356199c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246352034?s=72&u=c70d98bcb38ef71326b40dba3f8096ddce904ed0&v=4",
     "location": "Athens,Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 35,
     "createdAt": "2025-11-26T18:16:58Z"
   },
   {
@@ -3655,7 +3655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1338,
+    "privateContributions": 1933,
     "publicContributions": 0,
     "createdAt": "2025-05-26T18:21:02Z"
   },
@@ -3672,27 +3672,15 @@
     "createdAt": "2025-08-07T14:42:49Z"
   },
   {
-    "login": "PanTsamis",
-    "name": "Panagiotis Tsamis / p1ng2r",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230647253?s=72&v=4",
-    "location": "Filiatra, Messinia, Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2025-09-05T23:08:59Z"
-  },
-  {
     "login": "steve-nt",
     "name": "Steve Nt",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193385892?s=72&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 20,
     "createdAt": "2025-01-01T08:09:42Z"
   },
   {
@@ -3716,7 +3704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 709,
     "createdAt": "2025-07-03T15:12:08Z"
   },
   {
@@ -3728,20 +3716,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2025-06-03T12:17:30Z"
-  },
-  {
-    "login": "dimitrispapastamatis",
-    "name": "𝓓𝓲𝓶𝓲𝓽𝓻𝓲𝓼",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/240980900?s=72&u=de9e660e32bd20390cc8f4cd73b712f429a1c06c&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-10-29T18:03:19Z"
   },
   {
     "login": "kimepapas",

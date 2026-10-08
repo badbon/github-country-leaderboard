@@ -3548,7 +3548,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 58,
-    "publicContributions": 1008,
+    "publicContributions": 1123,
     "createdAt": "2023-12-22T13:44:51Z"
   },
   {
@@ -3608,7 +3608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 28,
     "createdAt": "2023-12-07T20:46:32Z"
   },
   {
@@ -3620,7 +3620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 11,
     "createdAt": "2023-01-23T17:04:53Z"
   },
   {
@@ -3632,7 +3632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 13,
-    "publicContributions": 57,
+    "publicContributions": 24,
     "createdAt": "2023-07-20T15:08:06Z"
   },
   {
@@ -3643,8 +3643,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 496,
-    "publicContributions": 13,
+    "privateContributions": 499,
+    "publicContributions": 3,
     "createdAt": "2023-02-14T17:42:29Z"
   },
   {
@@ -3656,7 +3656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 29,
     "createdAt": "2023-07-05T13:52:34Z"
   },
   {
@@ -3668,7 +3668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2023-12-15T10:31:43Z"
   },
   {
@@ -3698,12 +3698,12 @@
   {
     "login": "domvidakovic",
     "name": "Dominik Vidaković",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129373346?s=72&u=55623ed6852c1607f053ede06a56e59cf0e9d8df&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129373346?s=72&u=852d3191e15f4ec047397a805d1d09750df0431c&v=4",
     "location": "Croatia",
     "company": "Super Technologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 162,
+    "privateContributions": 120,
     "publicContributions": 0,
     "createdAt": "2023-03-30T08:14:50Z"
   },
@@ -3775,7 +3775,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 496,
+    "privateContributions": 1390,
     "publicContributions": 0,
     "createdAt": "2023-02-18T10:07:17Z"
   },

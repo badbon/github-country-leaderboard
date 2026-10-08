@@ -3234,9 +3234,9 @@
     "location": "Prague",
     "company": "@Apify",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 176,
-    "publicContributions": 95,
+    "followers": 9,
+    "privateContributions": 291,
+    "publicContributions": 154,
     "createdAt": "2025-08-01T20:48:29Z"
   },
   {
@@ -3246,9 +3246,9 @@
     "location": "Prague",
     "company": "Charles University",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 152,
-    "publicContributions": 100,
+    "followers": 9,
+    "privateContributions": 139,
+    "publicContributions": 93,
     "createdAt": "2025-02-21T13:32:22Z"
   },
   {
@@ -3258,9 +3258,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 199,
+    "publicContributions": 219,
     "createdAt": "2025-09-22T16:31:06Z"
   },
   {
@@ -3271,8 +3271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 21,
-    "publicContributions": 170,
+    "privateContributions": 31,
+    "publicContributions": 164,
     "createdAt": "2025-01-29T22:10:50Z"
   },
   {
@@ -3295,7 +3295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 8,
+    "privateContributions": 15,
     "publicContributions": 6,
     "createdAt": "2025-05-26T19:35:03Z"
   },
@@ -3306,9 +3306,9 @@
     "location": "Prague ",
     "company": "Diffmon",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 290,
+    "publicContributions": 288,
     "createdAt": "2025-08-18T15:10:08Z"
   },
   {
@@ -3319,8 +3319,8 @@
     "company": "Apify",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1076,
-    "publicContributions": 57,
+    "privateContributions": 1037,
+    "publicContributions": 36,
     "createdAt": "2025-01-06T14:24:54Z"
   },
   {
@@ -3332,7 +3332,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 118,
     "createdAt": "2025-04-09T05:58:20Z"
   },
   {
@@ -3355,8 +3355,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1547,
-    "publicContributions": 3683,
+    "privateContributions": 1952,
+    "publicContributions": 4871,
     "createdAt": "2025-02-13T17:51:07Z"
   },
   {
@@ -3368,7 +3368,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 36,
     "createdAt": "2025-08-16T10:25:28Z"
   },
   {
@@ -3379,8 +3379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 403,
-    "publicContributions": 257,
+    "privateContributions": 772,
+    "publicContributions": 110,
     "createdAt": "2025-01-15T12:39:13Z"
   },
   {
@@ -3392,7 +3392,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2025-01-29T17:57:56Z"
   },
   {
@@ -3414,8 +3414,8 @@
     "location": "Prague ",
     "company": "Stocked",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 706,
+    "followers": 2,
+    "privateContributions": 1343,
     "publicContributions": 2153,
     "createdAt": "2025-01-31T20:42:16Z"
   },
@@ -3438,7 +3438,7 @@
     "location": "Prague",
     "company": "Actigo",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-14T04:57:37Z"
@@ -194386,5 +194386,17 @@
     "privateContributions": 316,
     "publicContributions": 4,
     "createdAt": "2024-01-13T16:23:03Z"
+  },
+  {
+    "login": "chip-hardware",
+    "name": "chip(с)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/213952296?s=72&u=9d1d9b22064c838944f3467fb844e5c316c04d0f&v=4",
+    "location": "Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 55,
+    "privateContributions": 0,
+    "publicContributions": 136,
+    "createdAt": "2025-05-29T10:48:52Z"
   }
 ]

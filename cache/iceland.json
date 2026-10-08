@@ -3246,8 +3246,8 @@
     "location": "Reykjavik, Iceland",
     "company": "Stratis",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 5,
+    "followers": 4,
+    "privateContributions": 37,
     "publicContributions": 5,
     "createdAt": "2020-12-19T17:08:38Z"
   },
@@ -3259,8 +3259,8 @@
     "company": "Pollard Digital Solutions",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3032,
-    "publicContributions": 34,
+    "privateContributions": 3417,
+    "publicContributions": 37,
     "createdAt": "2020-01-18T01:06:35Z"
   },
   {
@@ -3283,20 +3283,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 43,
+    "privateContributions": 118,
     "publicContributions": 48,
     "createdAt": "2020-09-03T13:14:32Z"
   },
   {
     "login": "olafurnielsen",
     "name": "Olafur Nielsen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69799161?s=72&u=982b3f647890a265227030c31d235f8aa786e20f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69799161?s=72&u=6093aa39a2003bb16ef80116aa5f5bc6c64b84bf&v=4",
     "location": "Iceland",
     "company": "Orbit",
     "twitterUsername": "olafurnielsen",
     "followers": 4,
-    "privateContributions": 109,
-    "publicContributions": 94,
+    "privateContributions": 131,
+    "publicContributions": 95,
     "createdAt": "2020-08-17T12:07:02Z"
   },
   {
@@ -3367,7 +3367,7 @@
     "company": "Troll Expeditions",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4331,
+    "privateContributions": 5038,
     "publicContributions": 4,
     "createdAt": "2020-02-14T11:42:17Z"
   },
@@ -3386,9 +3386,9 @@
   {
     "login": "cypherh3x",
     "name": "Cypher",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74319971?s=72&u=55d6e1d9fd9ff146ddbb88fa070b9bab2dcc61d2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74319971?s=72&u=b713b0e04cffc03872f2029f82c106269ee40ae6&v=4",
     "location": "Iceland",
-    "company": "Project Cypher",
+    "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
@@ -3415,21 +3415,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
+    "privateContributions": 19,
     "publicContributions": 23,
     "createdAt": "2020-07-18T14:51:48Z"
-  },
-  {
-    "login": "mariano-daniel",
-    "name": "Mariano Daniel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60707523?s=72&u=638178cb0f13c8534316b559552abee3158c6e6e&v=4",
-    "location": "Iceland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 4,
-    "createdAt": "2020-02-05T16:40:37Z"
   },
   {
     "login": "jongodi",
@@ -3440,7 +3428,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 279,
     "createdAt": "2020-11-23T22:10:49Z"
   },
   {

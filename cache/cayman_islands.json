@@ -247,7 +247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2022-12-24T03:33:05Z"
   },
@@ -295,7 +295,7 @@
     "company": "[NODERS]TEAM",
     "twitterUsername": "NODERS_TEAM",
     "followers": 154,
-    "privateContributions": 127,
+    "privateContributions": 125,
     "publicContributions": 19,
     "createdAt": "2021-11-16T19:29:03Z"
   },
@@ -307,8 +307,8 @@
     "company": "@etherfi-protocol",
     "twitterUsername": "pankajjagtapp",
     "followers": 13,
-    "privateContributions": 2478,
-    "publicContributions": 801,
+    "privateContributions": 2518,
+    "publicContributions": 798,
     "createdAt": "2021-08-25T06:24:16Z"
   },
   {
@@ -331,7 +331,7 @@
     "company": "Gadze Finance SEZC",
     "twitterUsername": "MikeSilagadze",
     "followers": 6,
-    "privateContributions": 2658,
+    "privateContributions": 2673,
     "publicContributions": 0,
     "createdAt": "2021-09-06T20:11:55Z"
   },
@@ -427,7 +427,7 @@
     "company": "@etherfi-protocol",
     "twitterUsername": "evandro_saturn",
     "followers": 5,
-    "privateContributions": 7329,
+    "privateContributions": 7372,
     "publicContributions": 18,
     "createdAt": "2020-02-03T00:22:42Z"
   },
@@ -475,8 +475,8 @@
     "company": "@etherfi-protocol ",
     "twitterUsername": "",
     "followers": 144,
-    "privateContributions": 626,
-    "publicContributions": 1754,
+    "privateContributions": 634,
+    "publicContributions": 1760,
     "createdAt": "2019-03-15T19:33:27Z"
   },
   {
