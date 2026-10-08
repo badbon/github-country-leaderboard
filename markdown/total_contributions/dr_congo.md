@@ -1,8 +1,8 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-08T10:00:23.479Z
+Generated: 2026-10-08T10:46:34.491Z
 
-Users: 697
+Users: 696
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,8 +1,8 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-08T09:59:00.153Z
+Generated: 2026-10-08T10:45:13.105Z
 
-Users: 5644
+Users: 5642
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

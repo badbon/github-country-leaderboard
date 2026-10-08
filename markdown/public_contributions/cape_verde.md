@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-08T10:31:31.941Z
+Generated: 2026-10-08T10:44:04.894Z
 
 Users: 562
 
@@ -24,5 +24,5 @@ Users: 562
 | 16 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho |  |  | Cape Verde | 210 |
 | 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 197 |
 | 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | DevTrust Consulting Developing |  | Cabo Verde - Praia | 186 |
-| 19 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 182 |
-| 20 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 180 |
+| 19 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Appso Tecnologia |  | Praia Grande - SC | 185 |
+| 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 182 |

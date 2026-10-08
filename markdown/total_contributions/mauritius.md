@@ -1,17 +1,17 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-08T10:15:26.757Z
+Generated: 2026-10-08T11:01:05.738Z
 
 Users: 718
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 9006 |
-| 2 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 7339 |
-| 3 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6685 |
+| 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 14323 |
+| 2 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6685 |
+| 3 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6575 |
 | 4 | [borissedov](https://github.com/borissedov) | Boris Sedov |  |  | Tamarin, Mauritius | 5234 |
 | 5 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5149 |
-| 6 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 5062 |
+| 6 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 5064 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5018 |
 | 8 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4733 |
 | 9 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 4265 |

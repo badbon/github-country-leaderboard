@@ -1,6 +1,6 @@
 # Kenya
 
-Indexed users: 24,027
+Indexed users: 24,026
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 24,027
 | 19 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
 | 20 | [danielmuthama](https://github.com/danielmuthama) | Daniel Muthama | Nairobi, Kenya | 1,289 |
 
-Generated: 2026-10-08T10:12:08.391Z
+Generated: 2026-10-08T10:55:30.341Z

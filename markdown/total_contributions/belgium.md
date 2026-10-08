@@ -1,6 +1,6 @@
 # Total Contributions - Belgium
 
-Generated: 2026-10-08T09:52:17.991Z
+Generated: 2026-10-08T10:41:15.651Z
 
 Users: 18400
 

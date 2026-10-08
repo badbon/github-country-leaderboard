@@ -31,7 +31,7 @@ Indexed users: 5,403
 | 17 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
 | 18 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | Kaunas, Lithuania | 8,824 |
 | 19 | [martynas-rakickis](https://github.com/martynas-rakickis) | Martynas Rakickis | Vilnius | 8,302 |
-| 20 | [UlodisEglitis](https://github.com/UlodisEglitis) | Ulodis Eglitis | Lithuania | 8,217 |
+| 20 | [CalmProton](https://github.com/CalmProton) | Denis | Vilnius | 8,062 |
 
 ## Public Contributions
 
@@ -39,12 +39,12 @@ Indexed users: 5,403
 |---:|---|---|---|---:|
 | 1 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 12,246 |
 | 2 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
-| 3 | [UlodisEglitis](https://github.com/UlodisEglitis) | Ulodis Eglitis | Lithuania | 8,217 |
-| 4 | [razinkele](https://github.com/razinkele) | Arturas Razinkovas-Baziukas | Lithuania | 6,210 |
-| 5 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 6,149 |
-| 6 | [shenxianpeng](https://github.com/shenxianpeng) | Xianpeng Shen | Lithuania | 5,796 |
-| 7 | [NathaliaLietuvaite](https://github.com/NathaliaLietuvaite) | Nathalia Lietuvaite | Vilnius | 3,139 |
-| 8 | [mjudeikis](https://github.com/mjudeikis) | Mangirdas Judeikis | Lithuania | 2,982 |
+| 3 | [razinkele](https://github.com/razinkele) | Arturas Razinkovas-Baziukas | Lithuania | 6,210 |
+| 4 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 6,149 |
+| 5 | [shenxianpeng](https://github.com/shenxianpeng) | Xianpeng Shen | Lithuania | 5,796 |
+| 6 | [UlodisEglitis](https://github.com/UlodisEglitis) | Ulodis Eglitis | Lithuania | 5,076 |
+| 7 | [mjudeikis](https://github.com/mjudeikis) | Mangirdas Judeikis | Lithuania | 2,982 |
+| 8 | [NathaliaLietuvaite](https://github.com/NathaliaLietuvaite) | Nathalia Lietuvaite | Vilnius | 2,939 |
 | 9 | [blinkinglight](https://github.com/blinkinglight) | M | Lithuania | 2,663 |
 | 10 | [qweered](https://github.com/qweered) | Aliaksandr | Vilnius, Lithuania | 2,656 |
 | 11 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 2,457 |
@@ -53,10 +53,10 @@ Indexed users: 5,403
 | 14 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
 | 15 | [bdiev](https://github.com/bdiev) | Bohdan | Kaunas, Lithuania | 2,246 |
 | 16 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
-| 17 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,164 |
-| 18 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,129 |
-| 19 | [neetfrog](https://github.com/neetfrog) | neetfrog | Lithuania | 2,104 |
-| 20 | [liesislukas](https://github.com/liesislukas) | Lukas Liesis | Lithuania | 2,102 |
+| 17 | [VytCepas](https://github.com/VytCepas) | Vytautas Cepas | Vilnius, Lithuania | 2,216 |
+| 18 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,164 |
+| 19 | [salisk](https://github.com/salisk) | Sarunas | Lithuania | 2,129 |
+| 20 | [neetfrog](https://github.com/neetfrog) | neetfrog | Lithuania | 2,104 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,403
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-08T10:14:12.611Z
+Generated: 2026-10-08T10:58:01.453Z

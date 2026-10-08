@@ -1,8 +1,8 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-08T09:54:45.267Z
+Generated: 2026-10-08T10:44:01.926Z
 
-Users: 1804
+Users: 1803
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1804
 | 15 | [Tomdieu](https://github.com/Tomdieu) | ivantom | TrixGroup | navicorp_ | Cameroon | 1388 |
 | 16 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 1373 |
 | 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | promisefru | promisefru | Cameroon | 1360 |
-| 18 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | @Adorsys |  | Cameroon | 1263 |
-| 19 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Overbrand Company | yvan_2x | Dschang, Cameroon | 1261 |
-| 20 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 1211 |
+| 18 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila |  |  | Yaounde, Cameroon | 1352 |
+| 19 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | @Adorsys |  | Cameroon | 1263 |
+| 20 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Overbrand Company | yvan_2x | Dschang, Cameroon | 1261 |

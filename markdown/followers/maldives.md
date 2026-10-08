@@ -1,8 +1,8 @@
 # Followers - Maldives
 
-Generated: 2026-10-08T10:15:02.402Z
+Generated: 2026-10-08T11:00:34.081Z
 
-Users: 355
+Users: 354
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

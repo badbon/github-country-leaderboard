@@ -20,15 +20,15 @@ Indexed users: 800
 | 6 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 4,922 |
 | 7 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,723 |
 | 8 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 4,418 |
-| 9 | [iukust3](https://github.com/iukust3) | Irfan Ullah (Upwork Ibrahim Khan) | Kuwait  | 3,299 |
-| 10 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,262 |
-| 11 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,176 |
-| 12 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,150 |
-| 13 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 3,109 |
-| 14 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,076 |
-| 15 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,067 |
-| 16 | [Mello21century](https://github.com/Mello21century) | Ahmed Safaa | Kuwait | 2,896 |
-| 17 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 2,851 |
+| 9 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,262 |
+| 10 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,176 |
+| 11 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,150 |
+| 12 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 3,109 |
+| 13 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,076 |
+| 14 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,067 |
+| 15 | [Mello21century](https://github.com/Mello21century) | Ahmed Safaa | Kuwait | 2,896 |
+| 16 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 2,851 |
+| 17 | [iukust3](https://github.com/iukust3) | Irfan Ullah (Upwork Ibrahim Khan) | Kuwait  | 2,794 |
 | 18 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 2,755 |
 | 19 | [sabira-khan](https://github.com/sabira-khan) | Sabira Khan | Salmiya, Kuwait | 2,585 |
 | 20 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 2,546 |
@@ -40,7 +40,7 @@ Indexed users: 800
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,685 |
 | 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 2,755 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,543 |
-| 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 1,941 |
+| 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,244 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,606 |
 | 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,576 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,533 |
@@ -83,4 +83,4 @@ Indexed users: 800
 | 19 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
 | 20 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 
-Generated: 2026-10-08T10:13:03.368Z
+Generated: 2026-10-08T10:55:53.790Z

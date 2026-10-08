@@ -1,8 +1,8 @@
 # Followers - Cuba
 
-Generated: 2026-10-08T09:59:07.563Z
+Generated: 2026-10-08T10:45:23.567Z
 
-Users: 1291
+Users: 1290
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1291
 | 15 | [ALbertE03](https://github.com/ALbertE03) | Albert | Universidad de la Habana |  | La Habana, Cuba | 75 |
 | 16 | [dnielpy](https://github.com/dnielpy) | Daniel Quesada |  |  | Cuba | 75 |
 | 17 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | MailAD | co7wt | Camagüey, Cuba | 74 |
-| 18 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  |  | leoglezdev | La Habana, Cuba | 73 |
-| 19 | [markospy](https://github.com/markospy) | Marcos Avila |  |  | Cuba | 69 |
-| 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 68 |
+| 18 | [markospy](https://github.com/markospy) | Marcos Avila |  |  | Cuba | 72 |
+| 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | Freelance | leoglezdev | La Habana, Cuba | 71 |
+| 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 69 |

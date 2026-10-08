@@ -43,9 +43,9 @@ Indexed users: 441
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,257 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,773 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,720 |
-| 7 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,285 |
-| 8 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
-| 9 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,025 |
+| 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,335 |
+| 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,285 |
+| 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 919 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 794 |
@@ -54,8 +54,8 @@ Indexed users: 441
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 649 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 550 |
-| 18 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 535 |
-| 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 521 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 521 |
+| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 503 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 464 |
 
 ## Followers
@@ -64,15 +64,15 @@ Indexed users: 441
 |---:|---|---|---|---:|
 | 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Macau | 419 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 404 |
-| 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz | Macau | 207 |
+| 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz | Macau | 211 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han | Macau | 186 |
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 184 |
 | 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin | Macau | 167 |
 | 8 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 165 |
 | 9 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | Macau | 129 |
-| 10 | [manesec](https://github.com/manesec) | Mane | Macau | 126 |
-| 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 121 |
+| 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 127 |
+| 11 | [manesec](https://github.com/manesec) | Mane | Macau | 126 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 109 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 106 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 100 |
@@ -83,4 +83,4 @@ Indexed users: 441
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-08T10:14:19.775Z
+Generated: 2026-10-08T10:58:41.961Z

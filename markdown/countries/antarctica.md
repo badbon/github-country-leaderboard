@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 465
+Indexed users: 463
 
 | Leaderboard | Link |
 |---|---|
@@ -17,9 +17,9 @@ Indexed users: 465
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,039 |
 | 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,757 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 4,699 |
-| 6 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
-| 7 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
-| 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,216 |
+| 6 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,612 |
+| 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
+| 8 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
 | 9 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,135 |
 | 10 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,973 |
 | 11 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 3,853 |
@@ -53,10 +53,10 @@ Indexed users: 465
 | 14 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
 | 15 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
 | 16 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
-| 17 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
-| 19 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
-| 20 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
+| 17 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 534 |
+| 18 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 19 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
+| 20 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 
 ## Followers
 
@@ -65,10 +65,10 @@ Indexed users: 465
 | 1 | [adam-maj](https://github.com/adam-maj) | Adam Majmudar | South Pole, Antarctica | 1,914 |
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 610 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 465 |
-| 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 342 |
+| 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 343 |
 | 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 216 |
 | 6 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 201 |
-| 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 192 |
+| 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 123 |
 | 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 122 |
@@ -83,4 +83,4 @@ Indexed users: 465
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-08T09:50:53.451Z
+Generated: 2026-10-08T10:37:43.910Z

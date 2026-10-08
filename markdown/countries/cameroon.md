@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,804
+Indexed users: 1,803
 
 | Leaderboard | Link |
 |---|---|
@@ -16,22 +16,22 @@ Indexed users: 1,804
 | 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 11,682 |
 | 3 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,756 |
 | 4 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 8,112 |
-| 5 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,204 |
-| 6 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 6,705 |
-| 7 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 6,660 |
-| 8 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,280 |
-| 9 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 6,120 |
-| 10 | [MartexCorp](https://github.com/MartexCorp) | David Acho | Yaounde, Cameroon | 5,800 |
-| 11 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
-| 12 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 5,558 |
-| 13 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,414 |
-| 14 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 5,345 |
-| 15 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
-| 16 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 4,974 |
-| 17 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 4,905 |
-| 18 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 4,773 |
-| 19 | [onelrian](https://github.com/onelrian) | onelrian | Bamenda, Cameroon | 4,446 |
-| 20 | [Shermine237](https://github.com/Shermine237) | Charlie Rostant YOSSA | Douala, Cameroon | 4,419 |
+| 5 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,720 |
+| 6 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,204 |
+| 7 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 6,705 |
+| 8 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 6,660 |
+| 9 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,280 |
+| 10 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 6,120 |
+| 11 | [MartexCorp](https://github.com/MartexCorp) | David Acho | Yaounde, Cameroon | 5,800 |
+| 12 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
+| 13 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 5,558 |
+| 14 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,414 |
+| 15 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 5,345 |
+| 16 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
+| 17 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 4,974 |
+| 18 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 4,905 |
+| 19 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 4,773 |
+| 20 | [onelrian](https://github.com/onelrian) | onelrian | Bamenda, Cameroon | 4,446 |
 
 ## Public Contributions
 
@@ -54,9 +54,9 @@ Indexed users: 1,804
 | 15 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
 | 16 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
 | 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
-| 18 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | Cameroon | 1,263 |
-| 19 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
-| 20 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 1,211 |
+| 18 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila | Yaounde, Cameroon | 1,352 |
+| 19 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | Cameroon | 1,263 |
+| 20 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,804
 | 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
 | 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 
-Generated: 2026-10-08T09:54:45.267Z
+Generated: 2026-10-08T10:44:01.926Z

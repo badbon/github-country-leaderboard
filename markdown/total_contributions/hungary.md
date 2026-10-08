@@ -1,8 +1,8 @@
 # Total Contributions - Hungary
 
-Generated: 2026-10-08T10:09:01.133Z
+Generated: 2026-10-08T10:53:41.227Z
 
-Users: 11202
+Users: 11201
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 11202
 | 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes |  |  | Budapest | 10868 |
 | 17 | [danko-david](https://github.com/danko-david) | David Danko |  |  | Hungary, Miskolc | 10779 |
 | 18 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | @wraithlight |  | Budapest, HU | 10644 |
-| 19 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 9205 |
-| 20 | [RolandMarton](https://github.com/RolandMarton) | Márton Roland |  |  | Budapest | 9111 |
+| 19 | [lipi4242](https://github.com/lipi4242) | Krisztián Lipcsei |  |  | Budapest, Hungary | 9733 |
+| 20 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 9205 |

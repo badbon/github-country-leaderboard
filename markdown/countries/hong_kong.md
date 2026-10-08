@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,312
+Indexed users: 10,310
 
 | Leaderboard | Link |
 |---|---|
@@ -78,9 +78,9 @@ Indexed users: 10,312
 | 14 | [lindahua](https://github.com/lindahua) | Dahua Lin | Hong Kong | 1,282 |
 | 15 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | Hong Kong | 1,061 |
 | 16 | [jamztang](https://github.com/jamztang) | James Tang | Hong Kong | 1,059 |
-| 17 | [zinping](https://github.com/zinping) | Top plus talented developer | Hong Kong | 1,031 |
+| 17 | [zinping](https://github.com/zinping) | Top plus talented developer | Hong Kong | 1,024 |
 | 18 | [pik1989](https://github.com/pik1989) | Satyajit Pattnaik | Hong Kong | 1,018 |
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
-| 20 | [heilcheng](https://github.com/heilcheng) | hailey | Hong Kong | 964 |
+| 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-08T10:21:04.304Z
+Generated: 2026-10-08T10:53:36.907Z

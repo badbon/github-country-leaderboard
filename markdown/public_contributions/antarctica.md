@@ -1,8 +1,8 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-08T09:50:53.451Z
+Generated: 2026-10-08T10:37:43.910Z
 
-Users: 465
+Users: 463
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 465
 | 14 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
 | 15 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
 | 16 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
-| 17 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
-| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 513 |
-| 19 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
-| 20 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
+| 17 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 534 |
+| 18 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
+| 19 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 513 |
+| 20 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |

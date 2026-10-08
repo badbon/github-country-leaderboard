@@ -12,7 +12,7 @@ Indexed users: 60
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,165 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,169 |
 | 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,086 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,813 |
 | 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,064 |
@@ -24,8 +24,8 @@ Indexed users: 60
 | 10 | [paraita](https://github.com/paraita) | Paraita Wohler | Tahiti, French Polynesia | 270 |
 | 11 | [syllebra](https://github.com/syllebra) | BilboX | French Polynesia | 96 |
 | 12 | [Apollo987](https://github.com/Apollo987) | Jerome B | French Polynesia | 64 |
-| 13 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 49 |
-| 14 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 48 |
+| 13 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 49 |
+| 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | French Polynesia | 49 |
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI | Polynésie Française | 25 |
 | 16 | [teuna](https://github.com/teuna) | Teuna Ferrand | Tahiti, French Polynesia | 18 |
 | 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Polynésie Française | 12 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 | 20 | [jade-md](https://github.com/jade-md) | Jade MS Delevaux | French Polynesia | 4 |
 
-Generated: 2026-10-08T10:04:38.672Z
+Generated: 2026-10-08T10:50:56.500Z

@@ -1,6 +1,6 @@
 # Total Contributions - Lithuania
 
-Generated: 2026-10-08T10:14:12.611Z
+Generated: 2026-10-08T10:58:01.453Z
 
 Users: 5403
 
@@ -25,4 +25,4 @@ Users: 5403
 | 17 | [podo](https://github.com/podo) | Giedrius Jaloveckas |  |  | Vilnius, Lithuania | 9010 |
 | 18 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | @robinpowered |  | Kaunas, Lithuania | 8824 |
 | 19 | [martynas-rakickis](https://github.com/martynas-rakickis) | Martynas Rakickis | Telia |  | Vilnius | 8302 |
-| 20 | [UlodisEglitis](https://github.com/UlodisEglitis) | Ulodis Eglitis | Majiens |  | Lithuania | 8217 |
+| 20 | [CalmProton](https://github.com/CalmProton) | Denis |  |  | Vilnius | 8062 |

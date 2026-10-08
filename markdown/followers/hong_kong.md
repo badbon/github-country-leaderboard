@@ -1,8 +1,8 @@
 # Followers - Hong Kong
 
-Generated: 2026-10-08T10:21:04.304Z
+Generated: 2026-10-08T10:53:36.907Z
 
-Users: 10312
+Users: 10310
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 10312
 | 14 | [lindahua](https://github.com/lindahua) | Dahua Lin | The Chinese University of Hong Kong |  | Hong Kong | 1282 |
 | 15 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | .NET Foundation |  | Hong Kong | 1061 |
 | 16 | [jamztang](https://github.com/jamztang) | James Tang |  |  | Hong Kong | 1059 |
-| 17 | [zinping](https://github.com/zinping) | Top plus talented developer |  |  | Hong Kong | 1031 |
+| 17 | [zinping](https://github.com/zinping) | Top plus talented developer |  |  | Hong Kong | 1024 |
 | 18 | [pik1989](https://github.com/pik1989) | Satyajit Pattnaik | Xccelerate |  | Hong Kong | 1018 |
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | 公众号 - 油小猴 |  | Hong Kong | 975 |
-| 20 | [heilcheng](https://github.com/heilcheng) | hailey |  | haileyhmt | Hong Kong | 964 |
+| 20 | [robbin](https://github.com/robbin) | Fan Kai |  | fankaishuoai | Hong Kong | 959 |

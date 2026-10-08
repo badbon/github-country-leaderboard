@@ -27,10 +27,10 @@ Indexed users: 185
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,614 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,576 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,544 |
-| 16 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,490 |
+| 16 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,489 |
 | 17 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,475 |
 | 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
-| 19 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,265 |
+| 19 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,261 |
 | 20 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,260 |
 
 ## Public Contributions
@@ -45,7 +45,7 @@ Indexed users: 185
 | 6 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,465 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,332 |
-| 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 747 |
+| 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 744 |
 | 10 | [blackMastery](https://github.com/blackMastery) | kevon Cadogan | Guyana | 653 |
 | 11 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 562 |
 | 12 | [xwings](https://github.com/xwings) | xwings | Georgetown, Penang | 481 |
@@ -64,7 +64,7 @@ Indexed users: 185
 |---:|---|---|---|---:|
 | 1 | [xwings](https://github.com/xwings) | xwings | Georgetown, Penang | 332 |
 | 2 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 252 |
-| 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 232 |
+| 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 233 |
 | 4 | [skylerto](https://github.com/skylerto) | Skyler Layne | Georgetown, ON | 100 |
 | 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 60 |
 | 6 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 49 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-08T10:07:15.747Z
+Generated: 2026-10-08T10:53:07.933Z

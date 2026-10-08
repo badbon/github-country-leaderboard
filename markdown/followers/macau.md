@@ -1,6 +1,6 @@
 # Followers - Macau
 
-Generated: 2026-10-08T10:14:19.775Z
+Generated: 2026-10-08T10:58:41.961Z
 
 Users: 441
 
@@ -8,15 +8,15 @@ Users: 441
 |---:|---|---|---|---|---|---:|
 | 1 | [ken0225](https://github.com/ken0225) | Ke"Ken"WANG | Universidade Politécnica de Macau |  | Macau | 419 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 404 |
-| 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz |  |  | Macau | 207 |
+| 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz |  |  | Macau | 211 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 200 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han |  |  | Macau | 186 |
 | 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 184 |
 | 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 167 |
 | 8 | [IMRL](https://github.com/IMRL) |  |  |  | Taipa, Macau | 165 |
 | 9 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | FST, University of Macau |  | Macau | 129 |
-| 10 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 126 |
-| 11 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 121 |
+| 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 127 |
+| 11 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 126 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak |  |  | Macao | 109 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 |  | mengguyi | Macau | 106 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 100 |

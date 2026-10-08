@@ -29,7 +29,7 @@ Indexed users: 1,653
 | 15 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 5,484 |
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
 | 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,403 |
-| 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,058 |
+| 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
 | 19 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 5,011 |
 | 20 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 4,899 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,653
 | 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-08T09:49:05.023Z
+Generated: 2026-10-08T10:35:40.858Z

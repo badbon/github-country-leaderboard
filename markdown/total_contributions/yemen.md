@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-08T09:48:57.668Z
+Generated: 2026-10-08T10:35:30.949Z
 
 Users: 1210
 
@@ -21,7 +21,7 @@ Users: 1210
 | 13 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 7145 |
 | 14 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
 | 15 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6876 |
-| 16 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6130 |
+| 16 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6678 |
 | 17 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 5410 |
 | 18 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 5035 |
 | 19 | [malek-al-edresi](https://github.com/malek-al-edresi) | Malek M. Al-Edresi | AL-MALEK Soft | ddeqvt | Yemen, Aden | 4946 |

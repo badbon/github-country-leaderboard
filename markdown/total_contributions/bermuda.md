@@ -1,19 +1,19 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-08T09:53:05.775Z
+Generated: 2026-10-08T10:41:30.093Z
 
 Users: 905
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | @cactus-bm  |  | Bermuda | 11798 |
-| 2 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 9477 |
-| 3 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 8323 |
-| 4 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 7309 |
-| 5 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 6998 |
-| 6 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 6833 |
-| 7 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 6508 |
-| 8 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 6228 |
+| 2 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 10483 |
+| 3 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 9477 |
+| 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 8323 |
+| 5 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 7309 |
+| 6 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 6998 |
+| 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 6833 |
+| 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 6508 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 5649 |
 | 10 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5557 |
 | 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 4669 |

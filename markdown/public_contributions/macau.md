@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-08T10:14:19.775Z
+Generated: 2026-10-08T10:58:41.961Z
 
 Users: 441
 
@@ -12,9 +12,9 @@ Users: 441
 | 4 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2257 |
 | 5 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1773 |
 | 6 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1720 |
-| 7 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1285 |
-| 8 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
-| 9 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1025 |
+| 7 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 1335 |
+| 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1285 |
+| 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |
 | 10 | [mrvictoru](https://github.com/mrvictoru) | Victor |  |  | Macau | 919 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 794 |
@@ -23,6 +23,6 @@ Users: 441
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 649 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 550 |
-| 18 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 535 |
-| 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 521 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 521 |
+| 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 503 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 464 |

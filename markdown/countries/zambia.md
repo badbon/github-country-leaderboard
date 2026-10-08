@@ -15,9 +15,9 @@ Indexed users: 1,342
 | 1 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 11,442 |
 | 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 10,291 |
 | 3 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | Lusaka, Zambia | 8,786 |
-| 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 6,529 |
-| 5 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 6,302 |
-| 6 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 6,227 |
+| 4 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,188 |
+| 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 6,529 |
+| 6 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 6,302 |
 | 7 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire | Zambia | 5,088 |
 | 8 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,005 |
 | 9 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,950 |
@@ -38,13 +38,13 @@ Indexed users: 1,342
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 9,789 |
-| 2 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 5,942 |
+| 2 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 6,796 |
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,416 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,672 |
 | 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,670 |
 | 6 | [bsam2019](https://github.com/bsam2019) | Samson Banda | Lusaka. Zambia | 1,179 |
 | 7 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 1,148 |
-| 8 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,062 |
+| 8 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
 | 9 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,054 |
 | 10 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,010 |
 | 11 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 951 |
@@ -83,4 +83,4 @@ Indexed users: 1,342
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 104 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 104 |
 
-Generated: 2026-10-08T09:49:01.074Z
+Generated: 2026-10-08T10:35:34.755Z

@@ -19,7 +19,7 @@ Indexed users: 17
 | 5 | [anniou21](https://github.com/anniou21) | Anniou | Mayotte | 17 |
 | 6 | [nuthered](https://github.com/nuthered) |  | East Kevinbury, Mayotte | 15 |
 | 7 | [gbourel](https://github.com/gbourel) |  | Mamoudzou, Mayotte | 3 |
-| 8 | [ssrb](https://github.com/ssrb) | Sebastian | Mayotte | 1 |
+| 8 | [ssrb](https://github.com/ssrb) | Sebastian | Mayotte | 3 |
 | 9 | [edesdoigts](https://github.com/edesdoigts) | Emmanuel Desdoigts | Mayotte | 0 |
 | 10 | [Filskipis](https://github.com/Filskipis) | Ahmed Ibrahim | Mayotte | 0 |
 | 11 | [GwendyBZH](https://github.com/GwendyBZH) | Gwendal Quimbre | Mayotte | 0 |
@@ -74,4 +74,4 @@ Indexed users: 17
 | 16 | [shamounni](https://github.com/shamounni) | Shamounni | Mayotte | 1 |
 | 17 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | mayotte | 1 |
 
-Generated: 2026-10-08T10:15:29.029Z
+Generated: 2026-10-08T11:01:08.840Z
