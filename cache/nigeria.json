@@ -4940,20 +4940,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 45,
     "createdAt": "2026-03-11T18:52:44Z"
-  },
-  {
-    "login": "Thruqe",
-    "name": "Thruqe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/276064781?s=72&u=83965679770adb2a3a833e5c2f10c4f13cd6560b&v=4",
-    "location": "Abuja",
-    "company": "",
-    "twitterUsername": "Thruqe",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 1335,
-    "createdAt": "2026-04-14T16:47:52Z"
   },
   {
     "login": "osoftpro",
@@ -4964,7 +4952,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 12,
     "createdAt": "2026-02-17T11:31:30Z"
   },
   {
@@ -5024,7 +5012,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 38,
     "createdAt": "2026-02-22T03:55:01Z"
   },
   {
@@ -5036,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1373,
+    "publicContributions": 1781,
     "createdAt": "2026-03-19T01:52:58Z"
   },
   {
@@ -5058,9 +5046,9 @@
     "location": "Abuja, Nigeria",
     "company": "",
     "twitterUsername": "afriday01",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 69,
     "createdAt": "2026-01-23T05:07:20Z"
   },
   {
@@ -5072,7 +5060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 24,
     "createdAt": "2026-01-10T20:18:31Z"
   },
   {
@@ -5131,7 +5119,7 @@
     "company": "Primordial Institutes",
     "twitterUsername": "",
     "followers": 65,
-    "privateContributions": 106,
+    "privateContributions": 129,
     "publicContributions": 0,
     "createdAt": "2023-01-16T16:52:09Z"
   },
@@ -5154,7 +5142,7 @@
     "location": "Benin City, Nigeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 86,
     "createdAt": "2023-03-25T03:52:57Z"
@@ -5167,7 +5155,7 @@
     "company": "",
     "twitterUsername": "CodesIo29747",
     "followers": 12,
-    "privateContributions": 2,
+    "privateContributions": 5,
     "publicContributions": 1,
     "createdAt": "2023-07-04T04:47:07Z"
   },
@@ -396862,5 +396850,53 @@
     "privateContributions": 366,
     "publicContributions": 204,
     "createdAt": "2019-11-15T22:27:39Z"
+  },
+  {
+    "login": "Pyteejay",
+    "name": "Oghenetejiri John Oyawiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294808502?s=72&u=a5c5d88bb6387184779857c403c6fa0329bd6807&v=4",
+    "location": "Benin City, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-18T12:07:04Z"
+  },
+  {
+    "login": "captainsstudio",
+    "name": "Glory Osasere Enehikhare",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295675129?s=72&u=b556aea55f15114940af3380ae5582c8be52a1b5&v=4",
+    "location": "Benin City, Edo State, Nigeria",
+    "company": "Captain's Studio",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-21T21:27:39Z"
+  },
+  {
+    "login": "R3XPLODE",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294807027?s=72&v=4",
+    "location": "Benin City, Edo State, Nigeria.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-18T12:01:20Z"
+  },
+  {
+    "login": "joanurevbu",
+    "name": "Joan Urevbu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293090502?s=72&v=4",
+    "location": "Benin City, Nigeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-12T12:11:29Z"
   }
 ]

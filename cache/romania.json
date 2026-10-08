@@ -4945,14 +4945,14 @@
   },
   {
     "login": "andreeabucur4",
-    "name": "Bucur Andreea",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202556291?s=72&u=1cf390491e4c484a9d6be417c811bc58dc14f0d3&v=4",
+    "name": "Andreea Bucur",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202556291?s=72&u=2ff9160e72fe1adf3d22e4a71182fa9d7a61bab7&v=4",
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2025-03-09T21:27:57Z"
   },
   {
@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2025-06-11T08:36:57Z"
   },
   {
@@ -4988,7 +4988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 107,
     "createdAt": "2025-09-29T09:31:12Z"
   },
   {
@@ -5048,7 +5048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2025-08-20T10:22:07Z"
   },
   {
@@ -5060,7 +5060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 69,
     "createdAt": "2025-09-10T11:02:51Z"
   },
   {
@@ -5072,31 +5072,31 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-05-06T09:01:54Z"
   },
   {
     "login": "RomulusMirauta",
     "name": "Romulus Mirăuță",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181910713?s=72&u=99b1011410252b6cf2889e721e4ac92dc2598b84&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181910713?s=72&u=3bedb8b1261f5deb6cdfdae4c2381e8a20898892&v=4",
     "location": "Iasi, Romania",
-    "company": "Suvoda",
+    "company": "Undisclosed",
     "twitterUsername": "",
-    "followers": 1050,
-    "privateContributions": 9,
-    "publicContributions": 1003,
+    "followers": 1085,
+    "privateContributions": 5,
+    "publicContributions": 744,
     "createdAt": "2024-09-18T00:15:06Z"
   },
   {
     "login": "freakedoutgirl",
-    "name": "Carl Grimes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188640663?s=72&u=67bc47763716470e70e133b18266dd20f654b0d1&v=4",
+    "name": "Mrs. Oliveira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188640663?s=72&u=80437d8da72e06b874b1b80a3b856306788c8b8c&v=4",
     "location": "Romania",
-    "company": "@freakedoutboy @sinnerfilled @k9kennedy @A-M-E-L-I-A @ins0mni4x",
+    "company": "@freakedoutboy",
     "twitterUsername": "",
-    "followers": 122,
+    "followers": 133,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2024-11-16T02:05:55Z"
   },
   {
@@ -5106,9 +5106,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 32,
-    "publicContributions": 1831,
+    "followers": 49,
+    "privateContributions": 105,
+    "publicContributions": 1801,
     "createdAt": "2024-03-29T06:55:34Z"
   },
   {
@@ -5118,9 +5118,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 48,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 47,
     "createdAt": "2024-06-04T09:09:01Z"
   },
   {
@@ -5130,9 +5130,9 @@
     "location": "Romania",
     "company": "aiNOC",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 0,
-    "publicContributions": 604,
+    "followers": 46,
+    "privateContributions": 174,
+    "publicContributions": 745,
     "createdAt": "2024-10-29T04:54:40Z"
   },
   {
@@ -5142,22 +5142,10 @@
     "location": "Romania",
     "company": "@RythmMV ",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 41,
     "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2024-10-09T15:54:30Z"
-  },
-  {
-    "login": "isweikton",
-    "name": "weikton",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184137950?s=72&u=99d5483a10bf21bbdc70fe2a927405e43a353041&v=4",
-    "location": "Romania",
-    "company": "WN Industries",
-    "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 809,
-    "publicContributions": 46,
-    "createdAt": "2024-10-07T16:02:08Z"
   },
   {
     "login": "dpadGuy",
@@ -5166,9 +5154,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 202,
     "createdAt": "2024-03-20T14:52:57Z"
   },
   {
@@ -5178,9 +5166,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 28,
-    "publicContributions": 101,
+    "followers": 23,
+    "privateContributions": 34,
+    "publicContributions": 94,
     "createdAt": "2024-01-04T19:08:32Z"
   },
   {

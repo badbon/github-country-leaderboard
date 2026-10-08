@@ -4806,8 +4806,8 @@
     "location": "lima",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 33,
+    "followers": 2,
+    "privateContributions": 34,
     "publicContributions": 9,
     "createdAt": "2025-06-24T03:44:29Z"
   },
@@ -4832,7 +4832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 29,
     "createdAt": "2025-09-01T15:58:45Z"
   },
   {
@@ -4844,7 +4844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 25,
     "createdAt": "2025-02-09T19:46:45Z"
   },
   {
@@ -4856,7 +4856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 144,
     "createdAt": "2025-11-15T20:31:37Z"
   },
   {
@@ -4866,9 +4866,9 @@
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 251,
     "createdAt": "2025-06-27T08:19:10Z"
   },
   {
@@ -4880,7 +4880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 388,
+    "publicContributions": 308,
     "createdAt": "2025-04-06T00:09:47Z"
   },
   {
@@ -4891,8 +4891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 201,
-    "publicContributions": 64,
+    "privateContributions": 108,
+    "publicContributions": 243,
     "createdAt": "2025-02-06T06:41:08Z"
   },
   {
@@ -4904,7 +4904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2025-09-30T03:05:03Z"
   },
   {
@@ -4916,7 +4916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 146,
     "createdAt": "2025-10-07T15:56:34Z"
   },
   {
@@ -4927,20 +4927,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2004,
-    "publicContributions": 2,
+    "privateContributions": 3280,
+    "publicContributions": 1,
     "createdAt": "2025-09-14T21:15:48Z"
   },
   {
     "login": "antouanettemb",
     "name": "Antouanette Maurtua Bardales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231164544?s=72&u=f00846fda38d9c77cbadd7ede9855a8531059eb3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231164544?s=72&u=475e3993599c0c34f34cc7df4090009761bdfe01&v=4",
     "location": "Lima, Perú",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-09-09T04:35:42Z"
   },
   {
@@ -4964,7 +4964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 71,
     "createdAt": "2025-08-20T22:04:55Z"
   },
   {
@@ -4982,26 +4982,14 @@
   {
     "login": "crisdevtech-star",
     "name": "Kepler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248555271?s=72&u=3aace0a1996297452d73b161f9e967e034acc468&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/248555271?s=72&u=9f830083f3dfc9f3394b23742868995e6623d4b0&v=4",
     "location": "Lima",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 226,
+    "privateContributions": 301,
     "publicContributions": 6,
     "createdAt": "2025-12-08T20:57:36Z"
-  },
-  {
-    "login": "mmansillaf",
-    "name": "Moises Mansilla F.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197003974?s=72&v=4",
-    "location": "Lima, Perú",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 23,
-    "createdAt": "2025-01-29T21:39:05Z"
   },
   {
     "login": "gahia-pe",
@@ -5022,7 +5010,7 @@
     "location": "Lima ",
     "company": "Competec Group",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-19T04:23:46Z"

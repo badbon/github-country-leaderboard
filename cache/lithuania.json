@@ -4890,7 +4890,7 @@
     "location": "Vilnius",
     "company": "@spotos ",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-23T11:56:34Z"
@@ -4914,7 +4914,7 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 250,
     "createdAt": "2023-04-24T12:54:30Z"
@@ -4933,14 +4933,14 @@
   },
   {
     "login": "dzeveckij",
-    "name": "David Dževeckij",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141843230?s=72&u=2ae0bbc49c67e4e3f0128c80a8b6367000721f5d&v=4",
+    "name": "David",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141843230?s=72&u=e4b2f663cc7d1921bbffca4c4694332d6c7b9843&v=4",
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 3758,
-    "publicContributions": 67,
+    "followers": 8,
+    "privateContributions": 3749,
+    "publicContributions": 68,
     "createdAt": "2023-08-09T13:45:45Z"
   },
   {
@@ -4951,8 +4951,8 @@
     "company": "@neuronfndn",
     "twitterUsername": "embeputer",
     "followers": 7,
-    "privateContributions": 62,
-    "publicContributions": 208,
+    "privateContributions": 346,
+    "publicContributions": 373,
     "createdAt": "2023-01-07T14:01:55Z"
   },
   {
@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-12-19T18:08:20Z"
   },
   {
@@ -4998,7 +4998,7 @@
     "location": " Vilnius",
     "company": "",
     "twitterUsername": "STverdyj",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-03T16:09:04Z"
@@ -5011,7 +5011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 396,
+    "privateContributions": 320,
     "publicContributions": 0,
     "createdAt": "2023-05-03T15:29:30Z"
   },
@@ -5034,9 +5034,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 295,
-    "publicContributions": 34,
+    "followers": 5,
+    "privateContributions": 260,
+    "publicContributions": 128,
     "createdAt": "2023-01-06T17:53:26Z"
   },
   {
@@ -5059,7 +5059,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1477,
+    "privateContributions": 1536,
     "publicContributions": 1,
     "createdAt": "2023-04-24T09:08:41Z"
   },
@@ -5084,7 +5084,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 165,
     "createdAt": "2023-07-04T09:46:44Z"
   },
   {
@@ -5095,7 +5095,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 175,
+    "privateContributions": 135,
     "publicContributions": 0,
     "createdAt": "2023-09-20T06:52:34Z"
   },
@@ -5106,9 +5106,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1330,
-    "publicContributions": 265,
+    "followers": 4,
+    "privateContributions": 1135,
+    "publicContributions": 351,
     "createdAt": "2023-07-25T03:11:24Z"
   },
   {
@@ -5118,9 +5118,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2023-02-05T13:16:11Z"
   },
   {

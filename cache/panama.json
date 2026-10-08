@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 262,
+    "publicContributions": 284,
     "createdAt": "2020-07-30T13:55:17Z"
   },
   {
@@ -5046,7 +5046,7 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "moisescanto7",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-27T22:07:59Z"
@@ -5084,7 +5084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-07-27T02:49:15Z"
   },
   {
@@ -5132,7 +5132,7 @@
     "twitterUsername": "jeremystdio_",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2020-04-25T20:37:02Z"
   },
   {
@@ -5149,14 +5149,14 @@
   },
   {
     "login": "MiguelAEJ",
-    "name": "Miguel Estribi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72406888?s=72&u=1d4bf470b2cc33b7879970b38cec44c87f61686c&v=4",
+    "name": "Miguel E.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72406888?s=72&u=73d44aa40ca464a3903b7563d28c15847bc55942&v=4",
     "location": "Panama City, Panama",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2020-10-05T17:03:06Z"
   },
   {
@@ -5167,13 +5167,13 @@
     "company": "Atomsystem",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 638,
-    "publicContributions": 8,
+    "privateContributions": 852,
+    "publicContributions": 20,
     "createdAt": "2020-11-30T07:17:01Z"
   },
   {
     "login": "Johnzilver",
-    "name": "Johnzilver",
+    "name": "JuanDev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73140325?s=72&u=27b961ab8e24192b86a0725146b576e9a5b94b8b&v=4",
     "location": "Panama",
     "company": "Yel Scrypt Fire Studio",
@@ -5190,9 +5190,9 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 165,
     "createdAt": "2020-12-04T08:39:35Z"
   },
   {

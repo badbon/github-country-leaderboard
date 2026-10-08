@@ -4939,7 +4939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-02-10T13:19:27Z"
   },
@@ -4956,18 +4956,6 @@
     "createdAt": "2021-08-23T18:26:14Z"
   },
   {
-    "login": "kevriverar",
-    "name": "Kevin S. Rivera Ramos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87820804?s=72&u=fd0219c711c3a9f6104d5a161cf14a72c6897acb&v=4",
-    "location": " Puerto Rico ",
-    "company": "University of Puerto Rico-Mayagüez ",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2021-07-22T15:07:53Z"
-  },
-  {
     "login": "Ish7R",
     "name": "Idamara Rodriguez ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88558430?s=72&u=6dbfc567868b517762d8cfb8c289b0c480445a22&v=4",
@@ -4981,14 +4969,14 @@
   },
   {
     "login": "islasec",
-    "name": "Jim Black",
+    "name": "JB",
     "avatarUrl": "https://avatars.githubusercontent.com/u/76843293?s=72&v=4",
     "location": "San Juan, Puerto Rico",
     "company": "Islasec",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2021-01-01T14:52:38Z"
   },
   {
@@ -5012,7 +5000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 7,
     "createdAt": "2021-06-30T19:48:13Z"
   },
   {
@@ -5024,7 +5012,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 11,
     "createdAt": "2021-08-21T17:34:43Z"
   },
   {
@@ -5046,7 +5034,7 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-27T18:28:02Z"
@@ -5084,7 +5072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 7,
     "createdAt": "2021-03-06T21:29:25Z"
   },
   {
@@ -5156,7 +5144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 14,
     "createdAt": "2021-02-01T21:56:04Z"
   },
   {

@@ -4986,8 +4986,8 @@
     "location": "Norge",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 52,
+    "followers": 11,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2024-08-19T14:47:28Z"
   },
@@ -4998,9 +4998,9 @@
     "location": "Norge",
     "company": "Telemark Fylkeskommune ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 16,
-    "publicContributions": 519,
+    "followers": 8,
+    "privateContributions": 13,
+    "publicContributions": 522,
     "createdAt": "2024-10-20T10:56:25Z"
   },
   {
@@ -5012,7 +5012,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 51,
-    "publicContributions": 99,
+    "publicContributions": 97,
     "createdAt": "2024-10-01T08:18:09Z"
   },
   {
@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 22,
     "createdAt": "2024-11-04T07:28:53Z"
   },
   {
@@ -5036,7 +5036,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 76,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2024-02-05T13:11:40Z"
   },
   {
@@ -5096,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2024-10-22T16:36:49Z"
   },
   {
@@ -5108,7 +5108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 265,
     "createdAt": "2024-01-24T21:52:46Z"
   },
   {
@@ -5118,9 +5118,9 @@
     "location": "Lillestrøm, Norge",
     "company": "Romerikes Bald",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 110,
     "createdAt": "2024-05-13T13:52:58Z"
   },
   {
@@ -5142,22 +5142,10 @@
     "location": "Norge",
     "company": "Medvind Assistanse",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 43,
     "createdAt": "2024-09-13T14:46:36Z"
-  },
-  {
-    "login": "Tobias-Mortensen",
-    "name": "1Tobias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178795395?s=72&v=4",
-    "location": "Norge",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 165,
-    "publicContributions": 16,
-    "createdAt": "2024-08-19T12:21:16Z"
   },
   {
     "login": "TriTacLe",
@@ -5166,9 +5154,9 @@
     "location": "Norway",
     "company": "NTNU ",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 2100,
-    "publicContributions": 1921,
+    "followers": 54,
+    "privateContributions": 3916,
+    "publicContributions": 2126,
     "createdAt": "2024-08-19T09:08:01Z"
   },
   {
@@ -5178,22 +5166,10 @@
     "location": "Norway",
     "company": "@element",
     "twitterUsername": "",
-    "followers": 39,
+    "followers": 41,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2024-07-05T16:04:41Z"
-  },
-  {
-    "login": "miguelrg12",
-    "name": "Miguel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175272538?s=72&u=6a9fc5efce9a97d2e09bef3cb8659b5ec62fe6c4&v=4",
-    "location": "Norway - Oslo",
-    "company": "Quasar Store",
-    "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 675,
-    "publicContributions": 41,
-    "createdAt": "2024-07-11T01:54:07Z"
   },
   {
     "login": "adrianjlundd",
@@ -5202,9 +5178,9 @@
     "location": "Trondheim, Norway",
     "company": "@CogitoNTNU",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 599,
-    "publicContributions": 287,
+    "followers": 33,
+    "privateContributions": 598,
+    "publicContributions": 254,
     "createdAt": "2024-08-20T20:23:07Z"
   },
   {
@@ -5214,9 +5190,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 80,
-    "publicContributions": 301,
+    "followers": 34,
+    "privateContributions": 64,
+    "publicContributions": 170,
     "createdAt": "2024-12-10T18:55:38Z"
   },
   {

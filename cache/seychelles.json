@@ -4939,7 +4939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 1232,
+    "privateContributions": 1184,
     "publicContributions": 0,
     "createdAt": "2020-07-17T16:48:04Z"
   },
@@ -4950,22 +4950,10 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 288,
+    "followers": 35,
+    "privateContributions": 277,
     "publicContributions": 6,
     "createdAt": "2020-07-12T03:07:53Z"
-  },
-  {
-    "login": "CrashAndSideburns",
-    "name": "Morgan Arnold",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62062835?s=72&u=130c428847158781c3bdc52580c987809e839cdc&v=4",
-    "location": "Victoria, British Columbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2020-03-11T13:07:45Z"
   },
   {
     "login": "CamBrown101",
@@ -4975,7 +4963,7 @@
     "company": "Thinkific",
     "twitterUsername": "cambrown101",
     "followers": 31,
-    "privateContributions": 2434,
+    "privateContributions": 3014,
     "publicContributions": 0,
     "createdAt": "2020-04-23T01:59:08Z"
   },
@@ -4998,7 +4986,7 @@
     "location": "54 Hornsey Park, Mildura 3500 Victoria Australia ",
     "company": "Whiteslack LLC",
     "twitterUsername": "whiteslack_",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-01T09:20:44Z"
@@ -5010,7 +4998,7 @@
     "location": "Coast Salish Territory (Victoria, BC)",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-30T20:31:46Z"
@@ -5022,22 +5010,10 @@
     "location": "Victoria, BC",
     "company": "Amazon",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 410,
-    "publicContributions": 61,
-    "createdAt": "2020-05-31T02:37:43Z"
-  },
-  {
-    "login": "devin-bushey",
-    "name": "Devin Bushey",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59553292?s=72&u=ad3c9fe4b1ce36027fb658d591aa9dfef6c8f54a&v=4",
-    "location": "Victoria, BC",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 249,
+    "followers": 19,
+    "privateContributions": 190,
     "publicContributions": 32,
-    "createdAt": "2020-01-06T06:29:33Z"
+    "createdAt": "2020-05-31T02:37:43Z"
   },
   {
     "login": "callumhilldeveloper",
@@ -5072,7 +5048,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 35,
-    "publicContributions": 53,
+    "publicContributions": 39,
     "createdAt": "2020-05-27T22:40:15Z"
   },
   {
@@ -5082,9 +5058,9 @@
     "location": "Victoria",
     "company": "University of Victoria",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1531,
-    "publicContributions": 75,
+    "followers": 16,
+    "privateContributions": 1573,
+    "publicContributions": 49,
     "createdAt": "2020-08-28T21:00:51Z"
   },
   {
@@ -5095,8 +5071,8 @@
     "company": "@ImpactInc",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 524,
-    "publicContributions": 216,
+    "privateContributions": 400,
+    "publicContributions": 164,
     "createdAt": "2020-02-22T04:39:17Z"
   },
   {
@@ -5108,7 +5084,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2020-09-14T20:12:45Z"
   },
   {
@@ -5119,8 +5095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 740,
-    "publicContributions": 241,
+    "privateContributions": 617,
+    "publicContributions": 203,
     "createdAt": "2020-06-30T01:41:49Z"
   },
   {
@@ -5143,8 +5119,8 @@
     "company": "Turing, InVision",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 68,
-    "publicContributions": 54,
+    "privateContributions": 30,
+    "publicContributions": 53,
     "createdAt": "2020-04-14T00:31:46Z"
   },
   {
@@ -5155,8 +5131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1857,
-    "publicContributions": 890,
+    "privateContributions": 2439,
+    "publicContributions": 717,
     "createdAt": "2020-07-17T01:59:59Z"
   },
   {

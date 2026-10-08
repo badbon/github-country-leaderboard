@@ -4939,8 +4939,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 241,
-    "publicContributions": 52,
+    "privateContributions": 207,
+    "publicContributions": 413,
     "createdAt": "2019-02-14T14:23:57Z"
   },
   {
@@ -4951,7 +4951,7 @@
     "company": "Codeus",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 279,
+    "privateContributions": 315,
     "publicContributions": 0,
     "createdAt": "2019-12-05T09:20:59Z"
   },
@@ -4963,7 +4963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1284,
+    "privateContributions": 1720,
     "publicContributions": 1,
     "createdAt": "2019-12-14T02:42:43Z"
   },
@@ -4999,7 +4999,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 49,
-    "privateContributions": 624,
+    "privateContributions": 589,
     "publicContributions": 0,
     "createdAt": "2018-08-08T21:21:43Z"
   },
@@ -5023,8 +5023,8 @@
     "company": "@nitro-svm ",
     "twitterUsername": "petarvujovic98",
     "followers": 31,
-    "privateContributions": 2309,
-    "publicContributions": 115,
+    "privateContributions": 2436,
+    "publicContributions": 50,
     "createdAt": "2018-02-15T13:36:08Z"
   },
   {
@@ -5035,8 +5035,8 @@
     "company": "Hypersequent",
     "twitterUsername": "volodymyr_g25",
     "followers": 26,
-    "privateContributions": 212,
-    "publicContributions": 149,
+    "privateContributions": 155,
+    "publicContributions": 177,
     "createdAt": "2018-02-15T18:34:08Z"
   },
   {
@@ -5046,9 +5046,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 176,
-    "publicContributions": 200,
+    "followers": 23,
+    "privateContributions": 273,
+    "publicContributions": 112,
     "createdAt": "2018-04-07T20:08:01Z"
   },
   {
@@ -5058,22 +5058,10 @@
     "location": "Podgorica, Montenegro",
     "company": "Bytek ai",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 306,
+    "followers": 18,
+    "privateContributions": 357,
     "publicContributions": 0,
     "createdAt": "2018-12-24T23:06:04Z"
-  },
-  {
-    "login": "1nk1",
-    "name": "Andrii Peretiatko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39016026?s=72&u=fb015bdf63a2d59021662c13d441468f4f09f838&v=4",
-    "location": "Montenegro, Bar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1248,
-    "publicContributions": 96,
-    "createdAt": "2018-05-05T23:33:24Z"
   },
   {
     "login": "Tetrergeru",
@@ -5084,7 +5072,7 @@
     "twitterUsername": "tetrergeru",
     "followers": 15,
     "privateContributions": 88,
-    "publicContributions": 160,
+    "publicContributions": 156,
     "createdAt": "2018-07-16T19:11:27Z"
   },
   {
@@ -5094,9 +5082,9 @@
     "location": "Budva, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 107,
-    "publicContributions": 1402,
+    "followers": 20,
+    "privateContributions": 195,
+    "publicContributions": 1631,
     "createdAt": "2018-06-04T01:52:05Z"
   },
   {
@@ -5106,8 +5094,8 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 1228,
+    "followers": 16,
+    "privateContributions": 1294,
     "publicContributions": 0,
     "createdAt": "2018-02-28T20:55:23Z"
   },
@@ -5131,19 +5119,19 @@
     "company": "@relivecc",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 793,
+    "privateContributions": 837,
     "publicContributions": 81,
     "createdAt": "2018-02-21T13:03:37Z"
   },
   {
     "login": "Alldden",
     "name": "Alden Hasanović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44243441?s=72&u=494f63b2e6d7b5ba6dc39be5104a518be62e2e6a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44243441?s=72&u=90f9099a926424b4aebc4ce5d39d73e8df4d4638&v=4",
     "location": "Montenegro",
-    "company": "@datadesignmne",
+    "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 160,
+    "followers": 13,
+    "privateContributions": 204,
     "publicContributions": 10,
     "createdAt": "2018-10-17T19:19:57Z"
   },

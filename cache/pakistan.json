@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 30,
     "createdAt": "2026-02-22T09:46:03Z"
   },
   {
@@ -5000,31 +5000,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2026-03-16T15:27:18Z"
-  },
-  {
-    "login": "forth-labs",
-    "name": "Forth-Labs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255595380?s=72&u=54aeec7b3dbedfb9976435407a874db9cc9e87ab&v=4",
-    "location": "G-11 Markaz, Islamabad, Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2026-01-17T21:50:05Z"
   },
   {
     "login": "ibtisamadnan16-oss",
     "name": "Ibtisam Adnan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/272579708?s=72&u=e06a97bf796c9483dce57266b2bf170e8a9c5a84&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/272579708?s=72&u=95feaef3ee1bbf9bef27a352bff7e1cc981f8657&v=4",
     "location": "Karachi, Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2026-03-31T16:21:54Z"
   },
   {
@@ -5036,20 +5024,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 47,
     "createdAt": "2026-04-29T07:12:08Z"
-  },
-  {
-    "login": "sameerah-maqbool-ai",
-    "name": "sameerah-maqbool-ai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275436701?s=72&u=f23322522635f3a2e727be43f76357176b83893b&v=4",
-    "location": "Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 91,
-    "createdAt": "2026-04-12T08:33:11Z"
   },
   {
     "login": "faisal-khan-cs",
@@ -5096,7 +5072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2026-03-25T18:15:56Z"
   },
   {
@@ -5120,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 51,
-    "publicContributions": 134,
+    "publicContributions": 138,
     "createdAt": "2026-03-29T09:30:47Z"
   },
   {
