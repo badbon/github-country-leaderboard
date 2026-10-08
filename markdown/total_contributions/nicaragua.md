@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-08T10:19:45.087Z
+Generated: 2026-10-08T11:04:47.625Z
 
 Users: 1402
 
@@ -23,6 +23,6 @@ Users: 1402
 | 15 | [juliosolis](https://github.com/juliosolis) | Julio Solis |  |  | Nicaragua | 3141 |
 | 16 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Bloom Growth | __franccesco | Nicaragua | 3137 |
 | 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet |  | kenetphp | León, Nicaragua | 3076 |
-| 18 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado |  |  | Nicaragua | 2954 |
-| 19 | [degomon](https://github.com/degomon) | Denis González |  | degomondev | Nicaragua | 2888 |
-| 20 | [FreeAoi](https://github.com/FreeAoi) | Free 公園 |  |  | Nicaragua | 2778 |
+| 18 | [Snowsita](https://github.com/Snowsita) | Enmanuel Antonio Torres Saenz |  |  | Nicaragua | 3018 |
+| 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado |  |  | Nicaragua | 2954 |
+| 20 | [degomon](https://github.com/degomon) | Denis González |  | degomondev | Nicaragua | 2888 |

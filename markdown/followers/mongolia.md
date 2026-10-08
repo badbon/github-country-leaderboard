@@ -1,8 +1,8 @@
 # Followers - Mongolia
 
-Generated: 2026-10-08T10:16:32.819Z
+Generated: 2026-10-08T11:03:47.835Z
 
-Users: 806
+Users: 805
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,8 +10,8 @@ Users: 806
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | @fleetbase |  | Ulaanbaatar, Mongolia | 509 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh |  |  | Ulaanbaatar, Mongolia | 268 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | @homepage-listly  |  | Mongolia | 242 |
-| 5 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu |  |  | Khuvsgul, Mongolia | 219 |
-| 6 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 216 |
+| 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 225 |
+| 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu |  |  | Khuvsgul, Mongolia | 219 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od |  | 0xMnkhod | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar |  |  | Mongolia | 176 |
 | 9 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar |  | jase_rock | Ulaanbaatar, Mongolia | 105 |

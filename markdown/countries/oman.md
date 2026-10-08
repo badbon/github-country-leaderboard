@@ -16,22 +16,22 @@ Indexed users: 1,001
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,097 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 11,596 |
 | 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
-| 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 8,697 |
-| 6 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 7,994 |
-| 7 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
-| 8 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 6,444 |
-| 9 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
-| 10 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 4,970 |
+| 5 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
+| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 8,697 |
+| 7 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 7,994 |
+| 8 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
+| 9 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 6,444 |
+| 10 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
 | 12 | [samyakrajbayar](https://github.com/samyakrajbayar) | Samyakraj Bayar | Muscat, Oman | 4,589 |
 | 13 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
 | 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
 | 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
-| 16 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
-| 17 | [m7medVision](https://github.com/m7medVision) | Mohammed | Oman | 4,175 |
-| 18 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
-| 19 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Oman | 3,716 |
-| 20 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,542 |
+| 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
+| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
+| 18 | [m7medVision](https://github.com/m7medVision) | Mohammed | Oman | 4,175 |
+| 19 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
+| 20 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Oman | 3,716 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,001
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-08T10:21:19.224Z
+Generated: 2026-10-08T11:06:11.575Z

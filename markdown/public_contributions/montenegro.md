@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-08T10:16:36.978Z
+Generated: 2026-10-08T11:03:53.741Z
 
 Users: 904
 
@@ -20,8 +20,8 @@ Users: 904
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1425 |
 | 13 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1402 |
 | 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1371 |
-| 15 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 1141 |
-| 16 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1086 |
+| 15 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1086 |
+| 16 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 922 |
 | 17 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 809 |
 | 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 769 |

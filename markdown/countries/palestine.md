@@ -39,7 +39,7 @@ Indexed users: 2,211
 |---:|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 3,974 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2,199 |
-| 3 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan | Palestine | 1,606 |
+| 3 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan | Palestine | 1,562 |
 | 4 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh | Nablus, Palestine | 1,531 |
 | 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 1,464 |
 | 6 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,438 |
@@ -83,4 +83,4 @@ Indexed users: 2,211
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 131 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-08T10:21:26.845Z
+Generated: 2026-10-08T11:06:44.569Z

@@ -69,7 +69,7 @@ Indexed users: 1,779
 | 5 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 464 |
 | 6 | [jasoncwarner](https://github.com/jasoncwarner) | Jason Warner | Victoria, BC | 394 |
 | 7 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 249 |
-| 8 | [codeWithCal](https://github.com/codeWithCal) | Code With Cal | Victoria | 239 |
+| 8 | [codeWithCal](https://github.com/codeWithCal) | Code With Cal | Victoria | 238 |
 | 9 | [ikaliam](https://github.com/ikaliam) | Eirini Kalliamvakou | Victoria, BC | 237 |
 | 10 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 226 |
 | 11 | [shirosaidev](https://github.com/shirosaidev) | Chris Park | Victoria, BC | 178 |
@@ -83,4 +83,4 @@ Indexed users: 1,779
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-08T10:25:30.313Z
+Generated: 2026-10-08T11:12:09.314Z

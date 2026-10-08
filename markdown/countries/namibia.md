@@ -24,7 +24,7 @@ Indexed users: 475
 | 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,012 |
 | 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,843 |
 | 12 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
-| 13 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,183 |
+| 13 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,242 |
 | 14 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
 | 15 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,898 |
 | 16 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,873 |
@@ -70,7 +70,7 @@ Indexed users: 475
 | 6 | [afroGeM7](https://github.com/afroGeM7) | Gemma Usiku | Namibia | 103 |
 | 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 99 |
 | 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 90 |
-| 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | Windhoek, Namibia | 62 |
+| 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | Windhoek, Namibia | 61 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 58 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | windhoek | 56 |
 | 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Windhoek | 51 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-08T10:17:35.932Z
+Generated: 2026-10-08T11:04:14.601Z

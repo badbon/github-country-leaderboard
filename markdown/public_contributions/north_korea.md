@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-08T10:20:40.580Z
+Generated: 2026-10-08T11:05:30.875Z
 
 Users: 185
 
@@ -12,10 +12,10 @@ Users: 185
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 350 |
 | 6 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 221 |
-| 7 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 206 |
-| 8 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 206 |
-| 9 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 200 |
-| 10 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 198 |
+| 7 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 212 |
+| 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 206 |
+| 9 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 206 |
+| 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 200 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 186 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 182 |

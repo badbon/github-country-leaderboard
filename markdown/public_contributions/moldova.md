@@ -1,8 +1,8 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-08T10:16:26.232Z
+Generated: 2026-10-08T11:03:40.811Z
 
-Users: 1762
+Users: 1760
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 1762
 | 13 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
 | 14 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 1421 |
 | 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
-| 16 | [GuidixX](https://github.com/GuidixX) | GuidixX |  |  | Moldova | 1252 |
-| 17 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
-| 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
-| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
-| 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1069 |
+| 16 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
+| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
+| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
+| 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1069 |
+| 20 | [MihaiCulbida](https://github.com/MihaiCulbida) | Michael |  |  | Moldova | 1046 |

@@ -1,15 +1,15 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-08T10:16:29.859Z
+Generated: 2026-10-08T11:03:43.744Z
 
 Users: 143
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 6731 |
+| 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 6736 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | @MRX-Systems  |  | Monaco | 6360 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 5332 |
-| 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3528 |
+| 4 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 3534 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1856 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 1636 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx |  |  | Monaco | 1142 |

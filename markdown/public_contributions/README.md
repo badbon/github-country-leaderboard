@@ -4,7 +4,7 @@ Published countries: 234
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
-| Afghanistan | 1,491 | [View](./afghanistan.md) |
+| Afghanistan | 1,504 | [View](./afghanistan.md) |
 | Åland Islands | 61 | [View](./aland_islands.md) |
 | Albania | 1,191 | [View](./albania.md) |
 | Algeria | 5,814 | [View](./algeria.md) |
@@ -80,7 +80,7 @@ Published countries: 234
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 315 | [View](./gabon.md) |
 | Gambia | 80 | [View](./gambia.md) |
-| Georgia | 6,886 | [View](./georgia.md) |
+| Georgia | 6,902 | [View](./georgia.md) |
 | Ghana | 7,106 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,589 | [View](./greece.md) |
@@ -137,12 +137,12 @@ Published countries: 234
 | Mayotte | 17 | [View](./mayotte.md) |
 | Mexico | 23,473 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
-| Moldova | 1,762 | [View](./moldova.md) |
+| Moldova | 1,760 | [View](./moldova.md) |
 | Monaco | 143 | [View](./monaco.md) |
-| Mongolia | 806 | [View](./mongolia.md) |
+| Mongolia | 805 | [View](./mongolia.md) |
 | Montenegro | 904 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,663 | [View](./morocco.md) |
+| Morocco | 9,662 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
 | Myanmar | 2,093 | [View](./myanmar.md) |
 | Namibia | 475 | [View](./namibia.md) |
@@ -151,7 +151,7 @@ Published countries: 234
 | New Caledonia | 111 | [View](./new_caledonia.md) |
 | New Zealand | 12,162 | [View](./new_zealand.md) |
 | Nicaragua | 1,402 | [View](./nicaragua.md) |
-| Niger | 177 | [View](./niger.md) |
+| Niger | 176 | [View](./niger.md) |
 | Nigeria | 33,072 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 2 | [View](./norfolk_island.md) |
@@ -160,7 +160,7 @@ Published countries: 234
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,627 | [View](./norway.md) |
 | Oman | 1,001 | [View](./oman.md) |
-| Pakistan | 41,528 | [View](./pakistan.md) |
+| Pakistan | 41,526 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,211 | [View](./palestine.md) |
 | Panama | 1,072 | [View](./panama.md) |
@@ -169,12 +169,12 @@ Published countries: 234
 | Peru | 9,789 | [View](./peru.md) |
 | Philippines | 19,788 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,474 | [View](./portugal.md) |
+| Portugal | 28,473 | [View](./portugal.md) |
 | Puerto Rico | 1,542 | [View](./puerto_rico.md) |
 | Qatar | 1,079 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
 | Réunion | 212 | [View](./reunion.md) |
-| Romania | 14,991 | [View](./romania.md) |
+| Romania | 14,992 | [View](./romania.md) |
 | Rwanda | 3,526 | [View](./rwanda.md) |
 | Saint Barthélemy | 1 | [View](./saint_barthelemy.md) |
 | Saint Helena, Ascension and Tristan da Cunha | 25 | [View](./saint_helena_ascension_and_tristan_da_cunha.md) |
@@ -194,10 +194,10 @@ Published countries: 234
 | Singapore | 24,653 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
 | Slovakia | 4,700 | [View](./slovakia.md) |
-| Slovenia | 3,112 | [View](./slovenia.md) |
+| Slovenia | 3,110 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 860 | [View](./somalia.md) |
-| South Africa | 17,954 | [View](./south_africa.md) |
+| South Africa | 17,953 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
 | South Korea | 56,884 | [View](./south_korea.md) |
 | South Sudan | 133 | [View](./south_sudan.md) |
@@ -236,7 +236,7 @@ Published countries: 234
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,210 | [View](./yemen.md) |
-| Zambia | 1,342 | [View](./zambia.md) |
-| Zimbabwe | 1,653 | [View](./zimbabwe.md) |
+| Zambia | 1,347 | [View](./zambia.md) |
+| Zimbabwe | 1,658 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-08T11:02:01.776Z
+Generated: 2026-10-08T11:15:46.279Z

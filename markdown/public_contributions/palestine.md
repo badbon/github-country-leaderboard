@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-08T10:21:26.845Z
+Generated: 2026-10-08T11:06:44.569Z
 
 Users: 2211
 
@@ -8,7 +8,7 @@ Users: 2211
 |---:|---|---|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 3974 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2199 |
-| 3 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1606 |
+| 3 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |
 | 4 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh |  |  | Nablus, Palestine | 1531 |
 | 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 1464 |
 | 6 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1438 |

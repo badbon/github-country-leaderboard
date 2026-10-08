@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-08T10:25:33.683Z
+Generated: 2026-10-08T11:12:13.215Z
 
 Users: 442
 
@@ -16,13 +16,13 @@ Users: 442
 | 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 53 |
 | 9 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 46 |
 | 10 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 42 |
-| 11 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | CEO @ Kharis pro-tech | BlessonRowe | Sierra Leone | 41 |
-| 12 | [Alusp](https://github.com/Alusp) | Alusine Jalloh | Orange SL | aseni_jalloh | Sierra Leone | 40 |
-| 13 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 39 |
+| 11 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 41 |
+| 12 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | CEO @ Kharis pro-tech | BlessonRowe | Sierra Leone | 41 |
+| 13 | [Alusp](https://github.com/Alusp) | Alusine Jalloh | Orange SL | aseni_jalloh | Sierra Leone | 40 |
 | 14 | [rolandeke](https://github.com/rolandeke) | Chinedum Roland Eke | IMO TECH SOLUTIONS | EkeRoland | Freetown, Sierra Leone | 39 |
 | 15 | [click2tman](https://github.com/click2tman) | Tamba Lamin | TpISENT |  | Freetown | 38 |
-| 16 | [francisguchie](https://github.com/francisguchie) | Guchie | https://guchietech.com | FrancisGuchie | Freetown | 32 |
+| 16 | [francisguchie](https://github.com/francisguchie) | Guchie | https://guchietech.com | FrancisGuchie | Freetown | 33 |
 | 17 | [pythonnelson](https://github.com/pythonnelson) | Isaac NSB Kargbo | CIO and Founder of Oversight Innovative Technologies | pythonnelson | Freetown | 32 |
-| 18 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 29 |
-| 19 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 28 |
+| 18 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 29 |
+| 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Moriba SL | ishodev | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma |  |  | Freetown, Sierra Leone, West Africa | 26 |

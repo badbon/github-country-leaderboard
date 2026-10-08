@@ -51,8 +51,8 @@ Indexed users: 904
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,425 |
 | 13 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,402 |
 | 14 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,371 |
-| 15 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 1,141 |
-| 16 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,086 |
+| 15 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,086 |
+| 16 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
 | 17 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
 | 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 769 |
@@ -76,11 +76,11 @@ Indexed users: 904
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Tivat, Montenegro | 132 |
 | 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 129 |
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 128 |
-| 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 124 |
+| 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 125 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 105 |
 | 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Podgorica, Montenegro | 100 |
 | 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 100 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-08T10:16:36.978Z
+Generated: 2026-10-08T11:03:53.741Z

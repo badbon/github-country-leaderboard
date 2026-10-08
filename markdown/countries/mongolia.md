@@ -1,6 +1,6 @@
 # Mongolia
 
-Indexed users: 806
+Indexed users: 805
 
 | Leaderboard | Link |
 |---|---|
@@ -13,7 +13,7 @@ Indexed users: 806
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 562,250 |
-| 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 130,747 |
+| 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 100,092 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 14,169 |
 | 4 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 10,944 |
 | 5 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,093 |
@@ -66,8 +66,8 @@ Indexed users: 806
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | Ulaanbaatar, Mongolia | 509 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh | Ulaanbaatar, Mongolia | 268 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | Mongolia | 242 |
-| 5 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 219 |
-| 6 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 216 |
+| 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 225 |
+| 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 219 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar | Mongolia | 176 |
 | 9 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar | Ulaanbaatar, Mongolia | 105 |
@@ -83,4 +83,4 @@ Indexed users: 806
 | 19 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-08T10:16:32.819Z
+Generated: 2026-10-08T11:03:47.835Z

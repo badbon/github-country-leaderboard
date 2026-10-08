@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,762
+Indexed users: 1,760
 
 | Leaderboard | Link |
 |---|---|
@@ -52,11 +52,11 @@ Indexed users: 1,762
 | 13 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh | Moldova | 1,453 |
 | 14 | [himaster](https://github.com/himaster) | Vitaly Bicov | Chisinau, Moldova | 1,421 |
 | 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
-| 16 | [GuidixX](https://github.com/GuidixX) | GuidixX | Moldova | 1,252 |
-| 17 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor | Moldova | 1,201 |
-| 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
-| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
-| 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,069 |
+| 16 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor | Moldova | 1,201 |
+| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
+| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
+| 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,069 |
+| 20 | [MihaiCulbida](https://github.com/MihaiCulbida) | Michael | Moldova | 1,046 |
 
 ## Followers
 
@@ -73,9 +73,9 @@ Indexed users: 1,762
 | 9 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 205 |
 | 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman | Moldova, Tiraspol | 194 |
 | 11 | [steevehook](https://github.com/steevehook) | Steve Hook | Chisinau, Moldova | 190 |
-| 12 | [Ywxig](https://github.com/Ywxig) | Ywxig | Moldova Chisinau  | 183 |
+| 12 | [Ywxig](https://github.com/Ywxig) | Ywxig | Moldova Chisinau  | 179 |
 | 13 | [vova07](https://github.com/vova07) | Vasile C. | Chișinău, Moldova | 171 |
-| 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | ulmu, laloveni, Moldova | 156 |
+| 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | ulmu, laloveni, Moldova | 155 |
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | Chisinau, Moldova | 144 |
 | 16 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | Chișinău, Moldova | 122 |
 | 17 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 119 |
@@ -83,4 +83,4 @@ Indexed users: 1,762
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-08T10:16:26.232Z
+Generated: 2026-10-08T11:03:40.811Z
