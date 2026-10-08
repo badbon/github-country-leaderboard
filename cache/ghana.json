@@ -4986,7 +4986,7 @@
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2025-01-16T15:52:41Z"
@@ -4998,22 +4998,10 @@
     "location": "Greater Accra, Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 55,
     "createdAt": "2025-04-09T17:50:00Z"
-  },
-  {
-    "login": "king-kakatsi",
-    "name": "Leroi Kakatsi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200702168?s=72&u=ab77ae3f0dfc08eba742c90fe0c364ea96203adf&v=4",
-    "location": "Accra, Ghana, West-Africa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 266,
-    "createdAt": "2025-02-25T02:23:01Z"
   },
   {
     "login": "AlatiphA",
@@ -5024,7 +5012,7 @@
     "twitterUsername": "alatipha",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4590,
+    "publicContributions": 5017,
     "createdAt": "2025-06-20T09:41:10Z"
   },
   {
@@ -5034,22 +5022,10 @@
     "location": "Accra, Ghana",
     "company": "",
     "twitterUsername": "whoskwabena",
-    "followers": 1,
-    "privateContributions": 147,
-    "publicContributions": 1432,
+    "followers": 3,
+    "privateContributions": 106,
+    "publicContributions": 1544,
     "createdAt": "2025-02-05T16:33:56Z"
-  },
-  {
-    "login": "hamzamuqadamah-lang",
-    "name": "muqa_ddimah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230180656?s=72&u=1479f9be408ce35961dc922d17f16add00951ca4&v=4",
-    "location": "Ghana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2025-09-03T14:23:37Z"
   },
   {
     "login": "ttmensah",
@@ -5060,7 +5036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-10-07T08:27:16Z"
   },
   {
@@ -5094,7 +5070,7 @@
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-15T01:17:03Z"
@@ -5124,18 +5100,6 @@
     "createdAt": "2025-04-13T10:40:47Z"
   },
   {
-    "login": "Tech-Hive1",
-    "name": "Nuveron Systems",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/222047652?s=72&u=abd06261bb19e6954d3681895c4793ee95128a72&v=4",
-    "location": "Ghana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-07-21T14:37:22Z"
-  },
-  {
     "login": "Eddywin-bit",
     "name": "Eddy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/224619787?s=72&u=84e7a4da081548488c7ce5f1dc47f86cdb20c21e&v=4",
@@ -5144,7 +5108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 185,
+    "publicContributions": 726,
     "createdAt": "2025-08-04T15:53:26Z"
   },
   {
@@ -5166,9 +5130,9 @@
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 142,
     "createdAt": "2025-01-23T14:28:07Z"
   },
   {
@@ -5180,7 +5144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 17,
     "createdAt": "2025-02-08T16:22:42Z"
   },
   {

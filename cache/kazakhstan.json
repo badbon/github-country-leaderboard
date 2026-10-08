@@ -4820,7 +4820,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-05-22T07:27:35Z"
   },
   {
@@ -4832,7 +4832,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 137,
     "createdAt": "2024-02-10T11:12:27Z"
   },
   {
@@ -4842,9 +4842,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "Yers1t",
-    "followers": 3,
-    "privateContributions": 447,
-    "publicContributions": 206,
+    "followers": 14,
+    "privateContributions": 612,
+    "publicContributions": 276,
     "createdAt": "2024-11-04T09:20:33Z"
   },
   {
@@ -4855,8 +4855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 37,
-    "publicContributions": 139,
+    "privateContributions": 41,
+    "publicContributions": 152,
     "createdAt": "2024-12-22T11:39:23Z"
   },
   {
@@ -4868,20 +4868,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 335,
+    "publicContributions": 18,
     "createdAt": "2024-08-20T16:36:01Z"
-  },
-  {
-    "login": "as-express",
-    "name": "Aset",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185381645?s=72&u=66b89407dc6b175d930ec4516c9decd86391dd36&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 858,
-    "publicContributions": 29,
-    "createdAt": "2024-10-17T13:50:39Z"
   },
   {
     "login": "yerdembek",
@@ -4892,7 +4880,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 132,
     "createdAt": "2024-12-21T04:32:55Z"
   },
   {
@@ -4914,9 +4902,9 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 54,
     "createdAt": "2024-08-30T07:23:33Z"
   },
   {
@@ -4926,9 +4914,9 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2024-06-18T15:14:04Z"
   },
   {
@@ -4939,8 +4927,8 @@
     "company": "KBTU",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 41,
-    "publicContributions": 213,
+    "privateContributions": 111,
+    "publicContributions": 232,
     "createdAt": "2024-05-23T04:35:38Z"
   },
   {
@@ -4952,7 +4940,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 53,
     "createdAt": "2024-06-13T05:02:27Z"
   },
   {
@@ -5004,18 +4992,6 @@
     "createdAt": "2024-01-18T17:03:46Z"
   },
   {
-    "login": "temir-dev",
-    "name": "Tim Tairov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189211472?s=72&u=42bf2923cf33c726cebfe701304c18304598820d&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "",
-    "twitterUsername": "tim_tairov",
-    "followers": 3,
-    "privateContributions": 283,
-    "publicContributions": 4,
-    "createdAt": "2024-11-21T08:13:51Z"
-  },
-  {
     "login": "aivzk",
     "name": "Rinat Aivzk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/161612281?s=72&u=26ba6b505f0ac4dfd6b403fb5021977bd83700aa&v=4",
@@ -5030,13 +5006,13 @@
   {
     "login": "aba1law",
     "name": "Bizhanov Abay",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162440665?s=72&u=2e562f9009edaeb6404d6bdddd108ae3d8465a6d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162440665?s=72&v=4",
     "location": "Kazakhstan, Astana",
-    "company": "KazTransCom",
+    "company": "QMOBILE",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 28,
     "createdAt": "2024-03-06T10:34:07Z"
   },
   {

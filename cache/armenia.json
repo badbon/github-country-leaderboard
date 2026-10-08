@@ -4940,7 +4940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-10-22T17:02:41Z"
   },
   {
@@ -5006,13 +5006,13 @@
   {
     "login": "lifesminder",
     "name": "Life'sMinder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135487772?s=72&u=8c5ae2f48645142f4683a004e3c88d8383b3d19a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135487772?s=72&u=4760235491ed83447cb15c17560d68f460e24af1&v=4",
     "location": "Yerevan, Armenia",
     "company": "Life'sMinder",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 24,
     "createdAt": "2023-06-04T03:31:54Z"
   },
   {
@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2023-03-14T22:53:34Z"
   },
   {
@@ -5036,7 +5036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 86,
     "createdAt": "2023-01-27T09:52:52Z"
   },
   {
@@ -5048,7 +5048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 0,
     "createdAt": "2023-06-14T13:05:56Z"
   },
   {
@@ -5059,8 +5059,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 41,
+    "privateContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2023-07-22T19:32:13Z"
   },
   {
@@ -5072,7 +5072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2023-11-14T13:54:59Z"
   },
   {
@@ -5096,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 13,
     "createdAt": "2023-02-05T15:42:13Z"
   },
   {
@@ -48526,5 +48526,17 @@
     "privateContributions": 385,
     "publicContributions": 4,
     "createdAt": "2022-05-01T14:30:58Z"
+  },
+  {
+    "login": "sellexgroup",
+    "name": "Sellex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285624260?s=72&u=ed6043c946123f6af027a99d1c2737f65b4aa062&v=4",
+    "location": "Armenia",
+    "company": "Sellex",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-18T08:37:06Z"
   }
 ]

@@ -4663,8 +4663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 215,
+    "privateContributions": 90,
+    "publicContributions": 167,
     "createdAt": "2025-02-15T16:23:48Z"
   },
   {
@@ -4676,7 +4676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 44,
     "createdAt": "2025-05-17T15:56:03Z"
   },
   {
@@ -4688,7 +4688,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 17,
     "createdAt": "2025-09-21T09:35:51Z"
   },
   {
@@ -4699,7 +4699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6196,
+    "privateContributions": 9353,
     "publicContributions": 1,
     "createdAt": "2025-10-23T17:08:59Z"
   },
@@ -4712,7 +4712,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 181,
     "createdAt": "2025-09-16T07:18:59Z"
   },
   {
@@ -4724,7 +4724,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 245,
+    "publicContributions": 232,
     "createdAt": "2025-05-10T19:00:26Z"
   },
   {
@@ -4736,7 +4736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-18T12:10:04Z"
   },
   {
@@ -4778,13 +4778,13 @@
   {
     "login": "FrontElf",
     "name": "Artem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218229751?s=72&u=58ec548404630f42d7f4e3076cb8f4c0c5c58ed1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/218229751?s=72&u=54f6fcef8380e9e735b1b754a5c81197c96eb148&v=4",
     "location": "Ukraine",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 153,
-    "publicContributions": 40,
+    "followers": 5,
+    "privateContributions": 151,
+    "publicContributions": 37,
     "createdAt": "2025-06-27T10:07:20Z"
   },
   {
@@ -4794,21 +4794,21 @@
     "location": "Lviv, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 160,
     "createdAt": "2025-07-30T09:27:59Z"
   },
   {
     "login": "Yon1k3",
     "name": "Savchuk Maksym",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198734196?s=72&u=f6396da5868fdc7fe0bc79617aca1aaf3d92c5fe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198734196?s=72&u=f79f45f10085c2c5f549d9e86f422b9267ba67fd&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 87,
     "createdAt": "2025-02-11T10:09:35Z"
   },
   {
@@ -4819,8 +4819,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 60,
-    "publicContributions": 239,
+    "privateContributions": 117,
+    "publicContributions": 235,
     "createdAt": "2025-06-03T14:12:40Z"
   },
   {
@@ -4832,7 +4832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 199,
     "createdAt": "2025-07-25T21:23:32Z"
   },
   {
@@ -4856,7 +4856,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 79,
     "createdAt": "2025-08-03T13:49:07Z"
   },
   {
@@ -4872,20 +4872,8 @@
     "createdAt": "2025-02-25T05:08:20Z"
   },
   {
-    "login": "x0ryz",
-    "name": "Bohdan Barulin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232765250?s=72&u=baa4d055d458dfc9d48d1c365723972627ab49cb&v=4",
-    "location": "Lutsk, Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1094,
-    "publicContributions": 47,
-    "createdAt": "2025-09-17T08:01:57Z"
-  },
-  {
     "login": "MeyLan-pixel",
-    "name": "MeyLan",
+    "name": "Stepan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/212719228?s=72&u=b84348f2719e03b3977897fecded51da9d351806&v=4",
     "location": "Ukraine",
     "company": "",

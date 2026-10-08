@@ -4675,8 +4675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 124,
-    "publicContributions": 26,
+    "privateContributions": 163,
+    "publicContributions": 31,
     "createdAt": "2026-03-30T05:26:56Z"
   },
   {
@@ -4700,7 +4700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2026-03-22T14:08:07Z"
   },
   {
@@ -4710,7 +4710,7 @@
     "location": "Ho Chi Minh City, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-03-06T03:18:53Z"
@@ -4734,7 +4734,7 @@
     "location": "VIetNam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2026-05-02T13:46:03Z"
@@ -4748,7 +4748,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 462,
+    "publicContributions": 545,
     "createdAt": "2026-02-11T12:38:45Z"
   },
   {
@@ -4771,8 +4771,8 @@
     "company": "SGM Network",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 47,
-    "publicContributions": 13,
+    "privateContributions": 73,
+    "publicContributions": 25,
     "createdAt": "2026-03-29T13:36:54Z"
   },
   {
@@ -4782,7 +4782,7 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-04-09T07:43:34Z"
@@ -4795,20 +4795,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 28,
-    "publicContributions": 200,
+    "privateContributions": 51,
+    "publicContributions": 229,
     "createdAt": "2026-01-12T11:43:07Z"
   },
   {
     "login": "EmBeHocCode",
     "name": "Meow Chill",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/251676057?s=72&u=9a8406d7d51522ac2b271fbed166b60c4f9a3e0f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/251676057?s=72&u=2616cf28f8d37a2367f9e69e4fe066812b79b339&v=4",
     "location": "Ho Chi Minh City, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 66,
     "createdAt": "2025-12-27T03:03:44Z"
   },
   {
@@ -4818,7 +4818,7 @@
     "location": "Ho Chi Minh City, Vietnam",
     "company": "Ho Chi Minh University Of Technology",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2026-03-21T07:08:48Z"
@@ -4842,7 +4842,7 @@
     "location": "Da Nang, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 4,
     "publicContributions": 9,
     "createdAt": "2026-05-11T04:06:29Z"
@@ -4867,21 +4867,9 @@
     "company": "TrivitaAI",
     "twitterUsername": "baro_1502",
     "followers": 2,
-    "privateContributions": 53,
-    "publicContributions": 29,
+    "privateContributions": 70,
+    "publicContributions": 42,
     "createdAt": "2026-02-01T04:13:24Z"
-  },
-  {
-    "login": "phanlam4",
-    "name": "Phan Xuan Lam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279182424?s=72&u=76cfcf96f23ef988e9f243a1cb3af4fe8a2ac64b&v=4",
-    "location": "Da Nang, Vietnam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-25T04:39:20Z"
   },
   {
     "login": "StudylinkCareer",

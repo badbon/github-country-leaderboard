@@ -4952,7 +4952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-01-07T09:33:50Z"
   },
   {
@@ -4964,7 +4964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2025-10-07T14:15:55Z"
   },
   {
@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2025-05-27T11:48:17Z"
   },
   {
@@ -5012,7 +5012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 65,
-    "publicContributions": 16,
+    "publicContributions": 1,
     "createdAt": "2025-01-30T02:34:49Z"
   },
   {
@@ -5048,7 +5048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 65,
     "createdAt": "2025-09-03T21:29:48Z"
   },
   {
@@ -5058,9 +5058,9 @@
     "location": "Thessaloniki, Hellenic Republic",
     "company": "Aristotle University of Thessaloniki",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 37,
-    "publicContributions": 98,
+    "followers": 97,
+    "privateContributions": 38,
+    "publicContributions": 100,
     "createdAt": "2025-11-03T15:07:07Z"
   },
   {
@@ -5070,9 +5070,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 53,
     "createdAt": "2025-07-31T16:30:39Z"
   },
   {
@@ -5082,9 +5082,9 @@
     "location": "athens",
     "company": "PeopleCert",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2025-10-06T08:54:47Z"
   },
   {
@@ -5094,9 +5094,9 @@
     "location": "Athens, Glyfada",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 139,
     "createdAt": "2025-02-04T10:14:12Z"
   },
   {
@@ -5108,7 +5108,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 92,
     "createdAt": "2025-04-01T08:23:53Z"
   },
   {
@@ -5131,8 +5131,8 @@
     "company": "Indigital SA",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 155,
-    "publicContributions": 346,
+    "privateContributions": 295,
+    "publicContributions": 345,
     "createdAt": "2025-10-01T08:53:40Z"
   },
   {

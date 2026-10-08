@@ -4964,7 +4964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 859,
+    "publicContributions": 788,
     "createdAt": "2023-04-27T19:50:30Z"
   },
   {
@@ -5010,7 +5010,7 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-08T18:27:37Z"
@@ -5036,7 +5036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 26,
     "createdAt": "2023-06-19T13:32:50Z"
   },
   {
@@ -5100,18 +5100,6 @@
     "createdAt": "2023-12-01T12:12:17Z"
   },
   {
-    "login": "meybonomme",
-    "name": "Meybo Nõmme",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147217565?s=72&v=4",
-    "location": "Estonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 6,
-    "createdAt": "2023-10-07T00:55:45Z"
-  },
-  {
     "login": "xSuperAGIx",
     "name": "OpenAI",
     "avatarUrl": "https://avatars.githubusercontent.com/u/136945467?s=72&u=1dcbfdf1fef1efd09b1c4f22050a3a04730af293&v=4",
@@ -5132,7 +5120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2023-06-01T12:43:55Z"
   },
   {
@@ -5155,7 +5143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2478,
+    "privateContributions": 2693,
     "publicContributions": 3,
     "createdAt": "2023-10-16T07:16:27Z"
   },

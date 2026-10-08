@@ -4956,18 +4956,6 @@
     "createdAt": "2023-05-23T15:58:04Z"
   },
   {
-    "login": "karlo-gameboost",
-    "name": "Karlo Čičko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126652642?s=72&u=9c4dbc7ef48be7e20f49b2deeda6957c1f09df9e&v=4",
-    "location": "Zagreb",
-    "company": "Global Gaming Services",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-03-01T07:10:54Z"
-  },
-  {
     "login": "dodoburner",
     "name": "Dorian Urem",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100496179?s=72&u=9f95a68d6d54b1cd5530f62071f9ea3f7fb54a9d&v=4",
@@ -4975,7 +4963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 72,
-    "privateContributions": 2171,
+    "privateContributions": 1675,
     "publicContributions": 0,
     "createdAt": "2022-02-26T23:30:55Z"
   },
@@ -4988,20 +4976,8 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 6,
     "createdAt": "2022-04-09T12:11:14Z"
-  },
-  {
-    "login": "readycool",
-    "name": "Ante Dražić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96959476?s=72&u=647b0a4821b08bec4441b1964d6c5a7fb6cbac47&v=4",
-    "location": "Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2022-01-01T21:55:34Z"
   },
   {
     "login": "Ivov1984",
@@ -5023,7 +4999,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 2766,
+    "privateContributions": 2719,
     "publicContributions": 0,
     "createdAt": "2022-10-31T09:50:28Z"
   },
@@ -5035,8 +5011,8 @@
     "company": "",
     "twitterUsername": "JurajKaradza",
     "followers": 17,
-    "privateContributions": 567,
-    "publicContributions": 20,
+    "privateContributions": 712,
+    "publicContributions": 15,
     "createdAt": "2022-03-14T15:48:10Z"
   },
   {
@@ -5048,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 85,
     "createdAt": "2022-12-15T16:12:48Z"
   },
   {
@@ -5059,8 +5035,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 404,
-    "publicContributions": 9,
+    "privateContributions": 441,
+    "publicContributions": 2,
     "createdAt": "2022-12-08T19:34:56Z"
   },
   {
@@ -5070,9 +5046,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 686,
-    "publicContributions": 47,
+    "followers": 15,
+    "privateContributions": 1134,
+    "publicContributions": 56,
     "createdAt": "2022-11-03T22:26:39Z"
   },
   {
@@ -5082,8 +5058,8 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 61,
+    "followers": 13,
+    "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2022-12-15T07:44:53Z"
   },
@@ -5095,7 +5071,7 @@
     "company": "UniZd",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 111,
+    "privateContributions": 107,
     "publicContributions": 4,
     "createdAt": "2022-12-14T19:57:35Z"
   },
@@ -5107,7 +5083,7 @@
     "company": "",
     "twitterUsername": "daradom2000",
     "followers": 12,
-    "privateContributions": 3551,
+    "privateContributions": 3443,
     "publicContributions": 6,
     "createdAt": "2022-04-25T08:16:00Z"
   },
@@ -5120,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2022-10-10T12:51:08Z"
   },
   {
@@ -5143,7 +5119,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 12,
+    "privateContributions": 15,
     "publicContributions": 5,
     "createdAt": "2022-09-06T13:34:33Z"
   },
@@ -5167,7 +5143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 32,
+    "privateContributions": 69,
     "publicContributions": 0,
     "createdAt": "2022-11-08T15:41:19Z"
   },
@@ -5178,9 +5154,9 @@
     "location": "Split, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 692,
+    "publicContributions": 576,
     "createdAt": "2022-03-04T08:25:11Z"
   },
   {
@@ -5189,10 +5165,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/98180436?s=72&u=c32f1ec1d0debfed133d719d1b4d1cd65fe0f77c&v=4",
     "location": "Croatia",
     "company": "@microblink, @dreifach-ai",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 2173,
-    "publicContributions": 737,
+    "twitterUsername": "nitodeco",
+    "followers": 11,
+    "privateContributions": 3009,
+    "publicContributions": 734,
     "createdAt": "2022-01-21T17:33:27Z"
   },
   {

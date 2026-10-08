@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-09-15T22:07:22Z"
   },
   {
@@ -4987,7 +4987,7 @@
     "company": "",
     "twitterUsername": "HMCodes",
     "followers": 1,
-    "privateContributions": 162,
+    "privateContributions": 117,
     "publicContributions": 13,
     "createdAt": "2020-11-01T00:17:04Z"
   },
@@ -5016,18 +5016,6 @@
     "createdAt": "2020-07-25T18:58:00Z"
   },
   {
-    "login": "norval101",
-    "name": "Norval Mendez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67773365?s=72&u=ef169c0e32351300d5236a827da2ab24c66f0711&v=4",
-    "location": "Jamaica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-07-03T04:17:24Z"
-  },
-  {
     "login": "iamshellyan",
     "name": "Shellyan Thompson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63179435?s=72&u=8f0d2ce4a879b3719f2d089475e0d46d619b7451&v=4",
@@ -5047,7 +5035,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1942,
+    "privateContributions": 1750,
     "publicContributions": 1,
     "createdAt": "2020-04-05T14:42:51Z"
   },
@@ -5083,8 +5071,8 @@
     "company": "@griddynamics",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 502,
-    "publicContributions": 60,
+    "privateContributions": 598,
+    "publicContributions": 61,
     "createdAt": "2020-12-14T00:13:00Z"
   },
   {
@@ -5095,8 +5083,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 780,
-    "publicContributions": 6,
+    "privateContributions": 1046,
+    "publicContributions": 9,
     "createdAt": "2020-05-23T20:12:55Z"
   },
   {
@@ -5131,7 +5119,7 @@
     "company": "App Academy (@appacademy)",
     "twitterUsername": "",
     "followers": 43,
-    "privateContributions": 5,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-07-19T19:38:39Z"
   },
@@ -5142,9 +5130,9 @@
     "location": "Royal Borough of Kingston Upon Thames ",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 44,
     "createdAt": "2020-03-27T11:28:09Z"
   },
   {
@@ -5154,7 +5142,7 @@
     "location": "Kingston",
     "company": "Queen's University",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-29T18:20:18Z"
@@ -5192,7 +5180,7 @@
     "twitterUsername": "FedeScucchia",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 30,
     "createdAt": "2020-12-09T16:24:20Z"
   },
   {

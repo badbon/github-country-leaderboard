@@ -4950,7 +4950,7 @@
     "location": "Bahrain",
     "company": "@Dynamics-Business-Solutions ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-09-08T12:11:10Z"
@@ -4970,13 +4970,13 @@
   {
     "login": "KhalifaMafaz",
     "name": "Khalifa Mafaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65023389?s=72&u=3587a5d51738d6b594852468a6e45aabb5941756&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65023389?s=72&v=4",
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2020-05-08T12:38:27Z"
   },
   {
@@ -4999,8 +4999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 422,
-    "publicContributions": 38,
+    "privateContributions": 441,
+    "publicContributions": 44,
     "createdAt": "2020-08-19T13:02:39Z"
   },
   {
@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 13,
     "createdAt": "2020-05-11T14:27:10Z"
   },
   {
@@ -5036,7 +5036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 117,
     "createdAt": "2020-06-16T12:53:09Z"
   },
   {
@@ -5047,7 +5047,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 240,
+    "privateContributions": 255,
     "publicContributions": 3,
     "createdAt": "2020-06-16T14:43:08Z"
   },
@@ -5166,8 +5166,8 @@
     "location": "Manama",
     "company": "Nordic Holdings",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1940,
+    "followers": 9,
+    "privateContributions": 2662,
     "publicContributions": 88,
     "createdAt": "2020-04-26T12:12:54Z"
   },
@@ -5178,9 +5178,9 @@
     "location": "Manama",
     "company": "SaluberMD",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 116,
     "createdAt": "2020-08-27T08:56:45Z"
   },
   {
@@ -8734,5 +8734,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-09-05T22:16:19Z"
+  },
+  {
+    "login": "EbrahimAlmutawa",
+    "name": "Ebrahim Almutawa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287305365?s=72&v=4",
+    "location": "Bahrain",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-05-23T20:45:36Z"
+  },
+  {
+    "login": "PhaniSankarKommineni",
+    "name": "Phani Sankar kommineni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286784652?s=72&u=76c8610aa04f386ebcdaed31bcd93d6fc1069077&v=4",
+    "location": "Bahrain",
+    "company": "Bahrain International Circuit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-21T20:32:00Z"
   }
 ]

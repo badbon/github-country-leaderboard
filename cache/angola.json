@@ -4964,7 +4964,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2024-03-12T22:21:40Z"
   },
   {
@@ -4998,8 +4998,8 @@
     "location": "Angola",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
+    "followers": 1,
+    "privateContributions": 3,
     "publicContributions": 7,
     "createdAt": "2024-10-22T22:30:22Z"
   },
@@ -5011,8 +5011,8 @@
     "company": "@kwetu_tecnologias",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 12,
-    "publicContributions": 2,
+    "privateContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2024-03-20T23:46:12Z"
   },
   {
@@ -5024,20 +5024,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 285,
+    "publicContributions": 281,
     "createdAt": "2024-08-06T10:59:02Z"
-  },
-  {
-    "login": "witec-company",
-    "name": "WITEC COMPANY ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161254446?s=72&u=8b0b065bc2cb845540c6f6845f9928b73bb116c7&v=4",
-    "location": "Angola Luanda",
-    "company": "witec-company",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-02-25T21:07:27Z"
   },
   {
     "login": "Stivlando",
@@ -5072,7 +5060,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 133,
-    "publicContributions": 154,
+    "publicContributions": 155,
     "createdAt": "2024-11-30T00:34:00Z"
   },
   {
@@ -5126,13 +5114,13 @@
   {
     "login": "alfredobaptista",
     "name": "Alfredo Baptista ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157801745?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157801745?s=72&u=d45d14308fc0061915968a59c6ec270791b14b14&v=4",
     "location": "Angola",
     "company": "Universidade Agostinho Neto (UAN)",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 242,
     "createdAt": "2024-01-26T11:03:26Z"
   },
   {
@@ -5144,7 +5132,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 76,
     "createdAt": "2024-08-04T16:41:07Z"
   },
   {
@@ -5156,7 +5144,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 22,
     "createdAt": "2024-05-17T21:04:14Z"
   },
   {
@@ -30046,5 +30034,53 @@
     "privateContributions": 331,
     "publicContributions": 272,
     "createdAt": "2020-04-21T18:47:08Z"
+  },
+  {
+    "login": "HarodiKadima-dev",
+    "name": "Harodi Kadima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286099195?s=72&u=fe1970d8379ef86ea1b8458fc4e7aac73e191b23&v=4",
+    "location": "Angola",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 86,
+    "createdAt": "2026-05-19T17:50:57Z"
+  },
+  {
+    "login": "devjosem",
+    "name": "Josedev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287208262?s=72&u=2991ee17aa0a29aac8927beb53ae31c20cacf421&v=4",
+    "location": "Talatona  , Luanda , Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2026-05-23T11:35:30Z"
+  },
+  {
+    "login": "franciscoma500",
+    "name": "Francisco Manuel Armando",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286108397?s=72&u=8eca1e07fb21bc3b841248de6e6ee397934e7271&v=4",
+    "location": "Luanda, Angola",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1,
+    "publicContributions": 14,
+    "createdAt": "2026-05-19T18:29:05Z"
+  },
+  {
+    "login": "Nossir-the-dev",
+    "name": "Roger Reis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286807688?s=72&u=2afa492925b081bf07bb495c02a04b5168899ed8&v=4",
+    "location": "Angola - Luanda",
+    "company": "",
+    "twitterUsername": "nossir_",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-05-21T22:59:49Z"
   }
 ]

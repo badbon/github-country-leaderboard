@@ -4999,8 +4999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 10,
-    "publicContributions": 2,
+    "privateContributions": 19,
+    "publicContributions": 0,
     "createdAt": "2019-03-20T04:43:54Z"
   },
   {
@@ -5072,7 +5072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2019-11-17T22:34:16Z"
   },
   {
@@ -5082,8 +5082,8 @@
     "location": "Cape Verde",
     "company": "",
     "twitterUsername": "CenteioWagner",
-    "followers": 29,
-    "privateContributions": 34,
+    "followers": 32,
+    "privateContributions": 33,
     "publicContributions": 0,
     "createdAt": "2018-06-24T23:49:52Z"
   },
@@ -5094,8 +5094,8 @@
     "location": "Mindelo, Cape Verde",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 60,
+    "followers": 7,
+    "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2018-01-05T16:34:17Z"
   },
@@ -5131,19 +5131,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 98,
+    "privateContributions": 291,
     "publicContributions": 9,
     "createdAt": "2018-02-13T07:12:38Z"
   },
   {
     "login": "rubenmartins21",
-    "name": "Rúben Martins",
+    "name": "Ruby",
     "avatarUrl": "https://avatars.githubusercontent.com/u/35147447?s=72&u=32c1aea771a7f17bdc3cdb5e8cd1ee5700301c8c&v=4",
     "location": "Cape Verde",
     "company": "",
-    "twitterUsername": "RubyBornSinner",
+    "twitterUsername": "im_ruby97",
     "followers": 1,
-    "privateContributions": 316,
+    "privateContributions": 365,
     "publicContributions": 0,
     "createdAt": "2018-01-05T17:53:52Z"
   },
@@ -5154,8 +5154,8 @@
     "location": "Praia Grande - SC",
     "company": "Bemol",
     "twitterUsername": "",
-    "followers": 448,
-    "privateContributions": 1375,
+    "followers": 437,
+    "privateContributions": 2046,
     "publicContributions": 4,
     "createdAt": "2018-08-22T16:57:21Z"
   },
@@ -5168,7 +5168,7 @@
     "twitterUsername": "",
     "followers": 51,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 139,
     "createdAt": "2018-09-13T18:48:57Z"
   },
   {
@@ -5180,7 +5180,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 3,
     "createdAt": "2018-08-12T14:23:57Z"
   },
   {
@@ -5190,7 +5190,7 @@
     "location": " Praia Grande-SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-20T21:27:08Z"
@@ -5204,7 +5204,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2018-10-15T13:48:38Z"
   },
   {
@@ -5214,7 +5214,7 @@
     "location": "Praia Grande-SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2018-07-10T00:31:44Z"

@@ -4675,7 +4675,7 @@
     "company": "AEH1HUB",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 256,
+    "privateContributions": 286,
     "publicContributions": 49,
     "createdAt": "2025-02-05T02:51:49Z"
   },
@@ -4700,7 +4700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-24T15:28:49Z"
   },
   {
@@ -4736,7 +4736,7 @@
     "twitterUsername": "aewiyn",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2025-06-22T16:06:05Z"
   },
   {
@@ -4760,7 +4760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 12,
     "createdAt": "2025-07-01T12:18:47Z"
   },
   {
@@ -4784,7 +4784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-09-19T10:12:08Z"
   },
   {
@@ -4796,7 +4796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 91,
     "createdAt": "2025-12-09T07:44:23Z"
   },
   {
@@ -4820,7 +4820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 115,
     "createdAt": "2025-09-18T08:04:24Z"
   },
   {
@@ -4832,20 +4832,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 138,
     "createdAt": "2025-08-16T10:00:08Z"
-  },
-  {
-    "login": "0xLoopTheory",
-    "name": "Andreas Renz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211774298?s=72&u=1152e3f0d2e726d02e134ede4fb388474493495d&v=4",
-    "location": "Switzerland",
-    "company": "@encryptorium",
-    "twitterUsername": "0xLoopTheory",
-    "followers": 1,
-    "privateContributions": 5578,
-    "publicContributions": 244,
-    "createdAt": "2025-05-15T04:25:26Z"
   },
   {
     "login": "maxlovesdev",
@@ -4855,8 +4843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 146,
-    "publicContributions": 4,
+    "privateContributions": 228,
+    "publicContributions": 6,
     "createdAt": "2025-10-26T08:41:31Z"
   },
   {
@@ -4868,7 +4856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2025-10-01T19:02:22Z"
   },
   {
@@ -4878,8 +4866,8 @@
     "location": "Switzerland",
     "company": "ETH Zurich",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 238,
+    "followers": 2,
+    "privateContributions": 330,
     "publicContributions": 1,
     "createdAt": "2025-02-07T12:19:36Z"
   },
@@ -4892,7 +4880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2025-10-10T06:58:27Z"
   },
   {
@@ -4902,9 +4890,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 29,
     "createdAt": "2025-09-18T11:53:33Z"
   },
   {

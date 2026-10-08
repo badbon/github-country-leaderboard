@@ -4890,7 +4890,7 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2025-07-21T13:55:34Z"
@@ -4904,7 +4904,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 222,
+    "publicContributions": 221,
     "createdAt": "2025-08-22T12:37:04Z"
   },
   {
@@ -4914,9 +4914,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 260,
+    "publicContributions": 259,
     "createdAt": "2025-07-13T14:47:25Z"
   },
   {
@@ -4936,11 +4936,11 @@
     "name": "jonnyfi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/220166555?s=72&u=283173aaafc7e864ec794d66a733e98038b81428&v=4",
     "location": "Vienna",
-    "company": "120 Ventures",
+    "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1299,
-    "publicContributions": 117,
+    "followers": 4,
+    "privateContributions": 2099,
+    "publicContributions": 136,
     "createdAt": "2025-07-10T09:03:39Z"
   },
   {
@@ -4964,7 +4964,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-13T18:34:59Z"
   },
   {
@@ -4976,7 +4976,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-09-30T13:04:30Z"
   },
   {
@@ -4998,9 +4998,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 296,
     "createdAt": "2025-08-14T23:29:08Z"
   },
   {
@@ -5010,9 +5010,9 @@
     "location": "Vienna, AT",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2025-08-24T16:14:48Z"
   },
   {
@@ -5024,7 +5024,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 27,
     "createdAt": "2025-09-21T12:24:09Z"
   },
   {
@@ -5036,7 +5036,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2025-09-12T15:05:13Z"
   },
   {
@@ -5048,19 +5048,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2025-09-10T11:54:25Z"
   },
   {
     "login": "theprodogy",
-    "name": "revivedsoul",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232409561?s=72&u=ff9dd2f009ed5c60e8f92cf464d16535c29404b5&v=4",
+    "name": "revsies",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/232409561?s=72&u=1527b0a432ab26239d18a01767f84bf256bbd8bb&v=4",
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 70,
     "createdAt": "2025-09-15T15:45:24Z"
   },
   {
@@ -5072,7 +5072,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 56,
     "createdAt": "2025-10-06T16:20:25Z"
   },
   {
@@ -5096,7 +5096,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 312,
+    "publicContributions": 267,
     "createdAt": "2025-07-20T20:13:38Z"
   },
   {
@@ -5106,9 +5106,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 125,
     "createdAt": "2025-12-10T13:14:33Z"
   },
   {
@@ -218974,5 +218974,89 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2022-07-21T08:25:52Z"
+  },
+  {
+    "login": "AndreasStadler",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285919984?s=72&u=6122a445f77a725cadae93c373a049fcd82ef118&v=4",
+    "location": "Austria",
+    "company": "TFS-Haslach",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-19T07:07:17Z"
+  },
+  {
+    "login": "sofiiahordiyenko-sudo",
+    "name": "Sofiia Hordiienko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284254224?s=72&u=444d92521d7d8f184f076cd50899610595970d67&v=4",
+    "location": "Vienna, Austria",
+    "company": "Umdasch group",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-05-13T08:34:30Z"
+  },
+  {
+    "login": "Aries1809",
+    "name": "Aries",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286617630?s=72&u=153e14c278358bf28b59a4cd5659e077d988b634&v=4",
+    "location": "Vienna, Austria",
+    "company": "42 Vienna",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 213,
+    "createdAt": "2026-05-21T09:38:53Z"
+  },
+  {
+    "login": "FT-Nova",
+    "name": "Nova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284808448?s=72&u=7691acc84e8099d7c2e1c9c6ecb04d1aad764734&v=4",
+    "location": "Austria",
+    "company": "@FTMahringer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 16,
+    "publicContributions": 16,
+    "createdAt": "2026-05-15T00:11:08Z"
+  },
+  {
+    "login": "tom42-otera",
+    "name": "Thomas Hausberger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284258464?s=72&u=e45298c6341bd3ddf04de083cc1b41372606b6ab&v=4",
+    "location": "Innsbruck, Austria",
+    "company": "Otera",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-13T08:50:01Z"
+  },
+  {
+    "login": "VahidAfzali",
+    "name": "Vahid Afzali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285627592?s=72&u=9e935f102976696f4d4c5dddb92e8cef844e32d6&v=4",
+    "location": "Vienna | Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 66,
+    "createdAt": "2026-05-18T08:49:21Z"
+  },
+  {
+    "login": "peerdavid-otera",
+    "name": "David Peer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286245922?s=72&u=9e54715d92bd0f82078c145ca9fa57a006dc758e&v=4",
+    "location": "Austria",
+    "company": "Otera",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-20T06:51:38Z"
   }
 ]

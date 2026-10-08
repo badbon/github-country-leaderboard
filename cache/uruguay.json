@@ -4772,7 +4772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2024-12-10T21:00:54Z"
   },
   {
@@ -4794,9 +4794,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2024-04-17T11:49:15Z"
   },
   {
@@ -4806,9 +4806,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2024-05-07T17:53:40Z"
   },
   {
@@ -4856,7 +4856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 0,
     "createdAt": "2024-06-03T16:37:16Z"
   },
   {
@@ -4880,7 +4880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 108,
     "createdAt": "2024-10-21T23:10:47Z"
   },
   {
@@ -4891,8 +4891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 126,
-    "publicContributions": 123,
+    "privateContributions": 101,
+    "publicContributions": 144,
     "createdAt": "2024-04-15T20:28:30Z"
   },
   {
@@ -4915,14 +4915,14 @@
     "company": "Universidad de Montevideo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 395,
-    "publicContributions": 0,
+    "privateContributions": 578,
+    "publicContributions": 2,
     "createdAt": "2024-01-29T22:59:08Z"
   },
   {
     "login": "urujand",
     "name": "Javier Maly",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161867130?s=72&u=d9e9a1e63584f1b1213c8e2eb235f6dc3582bb01&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161867130?s=72&u=2d220c7f893200d2e7f6121361292e09f628b74b&v=4",
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
@@ -4940,7 +4940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 112,
     "createdAt": "2024-12-12T11:48:12Z"
   },
   {
@@ -4988,7 +4988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 35,
     "createdAt": "2024-05-14T21:44:25Z"
   },
   {

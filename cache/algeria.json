@@ -4694,13 +4694,13 @@
   {
     "login": "cherradoussama000-png",
     "name": "cherrad oussama  ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234486016?s=72&u=235cd977306fba59b3ac4ca6acfa0daf48ffb459&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234486016?s=72&u=c16212ee36b63943d12d7af8e1dd31d71cf0105d&v=4",
     "location": "algeria ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 60,
     "createdAt": "2025-09-25T19:54:01Z"
   },
   {
@@ -4711,21 +4711,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 78,
+    "privateContributions": 17,
+    "publicContributions": 53,
     "createdAt": "2025-03-16T16:59:56Z"
-  },
-  {
-    "login": "yasser-zaouag",
-    "name": "Yasser Zaouag",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212770714?s=72&v=4",
-    "location": "Oran, Algeria",
-    "company": "Breath Partner",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-05-21T18:08:19Z"
   },
   {
     "login": "dyanther-azure",
@@ -4746,9 +4734,9 @@
     "location": "Aindefla, Algeria",
     "company": "",
     "twitterUsername": "KKbrac9905",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 19,
     "createdAt": "2025-01-26T17:13:08Z"
   },
   {
@@ -4758,7 +4746,7 @@
     "location": "Algeria",
     "company": "Foripro",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2025-11-21T21:11:36Z"
@@ -4844,7 +4832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 159,
     "createdAt": "2025-10-08T10:28:52Z"
   },
   {
@@ -4880,7 +4868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2025-06-19T14:22:58Z"
   },
   {
@@ -4904,7 +4892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 18,
     "createdAt": "2025-01-27T14:32:13Z"
   },
   {
@@ -69766,5 +69754,89 @@
     "privateContributions": 190,
     "publicContributions": 21,
     "createdAt": "2008-12-19T15:59:45Z"
+  },
+  {
+    "login": "alaakawther",
+    "name": "alaa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287318376?s=72&u=2d185415a65186c906f4fef8c791184ee2b986cc&v=4",
+    "location": "algeria",
+    "company": "freelance",
+    "twitterUsername": "",
+    "followers": 61,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2026-05-23T22:33:56Z"
+  },
+  {
+    "login": "mohammed-ayoub-dz",
+    "name": "محمد ايوب بليدي",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287049527?s=72&u=0dabb5c08a90d99b8a7dab8d0f72325e366f9dec&v=4",
+    "location": "Algeria ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 263,
+    "createdAt": "2026-05-22T18:14:56Z"
+  },
+  {
+    "login": "dphmd2023-dot",
+    "name": "Salah Tarmoun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285364512?s=72&u=a322349c1b41cfa348f874eb14bf85a9298bb563&v=4",
+    "location": "Hassi Messaoud, Algeria.",
+    "company": "ALGREEN GOLD",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 21,
+    "publicContributions": 5,
+    "createdAt": "2026-05-17T07:24:53Z"
+  },
+  {
+    "login": "labssynova-coder",
+    "name": "Synova Labs",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286003617?s=72&u=4d294e00f8bd06411eb6c67b9699cfc4bfbca57a&v=4",
+    "location": "Bordj Bou Arreridj, Algeria",
+    "company": "Synova Labs",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-05-19T12:23:05Z"
+  },
+  {
+    "login": "Abderrahmen007-code",
+    "name": "ABDERRAHMEN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285084940?s=72&u=c3e84f6d72c3938525fe145d3d60933cf032ac60&v=4",
+    "location": "ALGERIA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-05-15T23:17:42Z"
+  },
+  {
+    "login": "Anfalhaboussi",
+    "name": "Anfal Haboussi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287029738?s=72&u=79b496d090249525c276075fa2773b9d00b4f1e0&v=4",
+    "location": "Algeria 🇩🇿",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-22T16:43:56Z"
+  },
+  {
+    "login": "aya37-lab",
+    "name": "Aya Mostefaoui",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285958911?s=72&u=d1b65c4d9a89e707d5b8a83f938360649c3e9c76&v=4",
+    "location": "Algiers, Algeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-05-19T09:32:52Z"
   }
 ]
