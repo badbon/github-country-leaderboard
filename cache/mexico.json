@@ -4110,9 +4110,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 46,
     "createdAt": "2025-04-08T03:31:16Z"
   },
   {
@@ -4122,9 +4122,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 45,
     "createdAt": "2025-04-05T06:01:03Z"
   },
   {
@@ -4136,7 +4136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2025-08-24T00:49:22Z"
   },
   {
@@ -4160,7 +4160,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 89,
     "createdAt": "2025-11-19T22:54:14Z"
   },
   {
@@ -4171,8 +4171,8 @@
     "company": "plumass.com",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1660,
-    "publicContributions": 110,
+    "privateContributions": 1663,
+    "publicContributions": 109,
     "createdAt": "2025-02-06T04:55:58Z"
   },
   {
@@ -4182,9 +4182,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 23,
     "createdAt": "2025-02-21T00:43:45Z"
   },
   {
@@ -4207,8 +4207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 307,
+    "privateContributions": 11,
+    "publicContributions": 240,
     "createdAt": "2025-06-14T19:35:49Z"
   },
   {
@@ -4220,7 +4220,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 162,
     "createdAt": "2025-08-08T00:22:50Z"
   },
   {
@@ -4232,7 +4232,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-08-26T22:01:20Z"
   },
   {
@@ -4244,19 +4244,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 52,
     "createdAt": "2025-08-24T20:42:36Z"
   },
   {
     "login": "EliuthMisraim",
     "name": "Eliuth Rojas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214547166?s=72&u=928366129f6b0bdb03aec473b08a848d4e5bc24b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214547166?s=72&u=e3612e688e5c5b709056a045f5b8a37485444d87&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 123,
     "createdAt": "2025-06-02T18:49:07Z"
   },
   {
@@ -4268,7 +4268,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 19,
     "createdAt": "2025-01-14T02:29:43Z"
   },
   {
@@ -4280,7 +4280,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 996,
+    "publicContributions": 1400,
     "createdAt": "2025-11-19T18:24:23Z"
   },
   {
@@ -4292,7 +4292,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 42,
     "createdAt": "2025-03-26T15:57:16Z"
   },
   {
@@ -4303,7 +4303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 235,
+    "privateContributions": 188,
     "publicContributions": 0,
     "createdAt": "2025-02-07T20:54:36Z"
   },
@@ -4314,9 +4314,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 123,
     "createdAt": "2025-10-29T19:16:04Z"
   },
   {
@@ -4328,7 +4328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 159,
     "createdAt": "2024-12-30T05:41:35Z"
   },
   {
@@ -281638,5 +281638,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-09-22T05:29:29Z"
+  },
+  {
+    "login": "alejandro-melo-ponce",
+    "name": "Alejandro Melo Ponce",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181477261?s=72&u=fc87734444b6de3c8cecf772e4ddadf0ebc6d764&v=4",
+    "location": "Mexico City, Mexico",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2024-09-13T12:10:08Z"
   }
 ]

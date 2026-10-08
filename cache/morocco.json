@@ -4172,7 +4172,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 92,
     "createdAt": "2025-12-13T14:12:12Z"
   },
   {
@@ -4196,7 +4196,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 60,
     "createdAt": "2025-04-19T22:36:52Z"
   },
   {
@@ -4207,20 +4207,20 @@
     "company": "Aaag",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 411,
+    "privateContributions": 426,
     "publicContributions": 12,
     "createdAt": "2025-10-30T13:42:04Z"
   },
   {
     "login": "Aymenslg",
     "name": "Sellag Aymen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208286544?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208286544?s=72&u=d7e53ffa3ab3672f512c01a0844a181d695dacfb&v=4",
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 35,
     "createdAt": "2025-04-19T16:27:31Z"
   },
   {
@@ -4256,7 +4256,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 124,
     "createdAt": "2025-09-11T16:47:24Z"
   },
   {
@@ -4267,8 +4267,8 @@
     "company": "Programming Advices ",
     "twitterUsername": "Yahya_Mazini",
     "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2025-08-24T18:29:51Z"
   },
   {
@@ -4280,7 +4280,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 81,
     "createdAt": "2025-08-23T07:20:01Z"
   },
   {
@@ -4291,7 +4291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 93,
+    "privateContributions": 57,
     "publicContributions": 0,
     "createdAt": "2025-02-13T14:36:38Z"
   },
@@ -4351,8 +4351,8 @@
     "company": "AlgoWorks",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 427,
-    "publicContributions": 486,
+    "privateContributions": 428,
+    "publicContributions": 650,
     "createdAt": "2025-10-23T12:59:58Z"
   },
   {
@@ -4362,9 +4362,9 @@
     "location": "Oujda, Morocco",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 42,
+    "followers": 3,
+    "privateContributions": 48,
+    "publicContributions": 169,
     "createdAt": "2025-03-22T21:45:10Z"
   },
   {
@@ -4376,19 +4376,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 22,
-    "publicContributions": 127,
+    "publicContributions": 112,
     "createdAt": "2025-02-27T16:43:48Z"
   },
   {
     "login": "wafaaAselgui",
     "name": "Wafaa ASELGUI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193751701?s=72&u=ed59d9925609df354f312f66e94781acb844151d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193751701?s=72&u=66accba7247a43ba05309f39763b3f77ef0340b2&v=4",
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 191,
-    "publicContributions": 0,
+    "privateContributions": 208,
+    "publicContributions": 7,
     "createdAt": "2025-01-04T23:00:51Z"
   },
   {
@@ -4398,9 +4398,9 @@
     "location": "Tetouan,Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 32,
     "createdAt": "2025-10-12T17:35:03Z"
   },
   {

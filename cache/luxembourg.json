@@ -3967,8 +3967,8 @@
     "company": "University of Luxembourg",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 330,
-    "publicContributions": 65,
+    "privateContributions": 430,
+    "publicContributions": 109,
     "createdAt": "2021-06-08T09:08:59Z"
   },
   {
@@ -3980,7 +3980,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 80,
     "createdAt": "2021-01-30T18:23:52Z"
   },
   {
@@ -4051,7 +4051,7 @@
     "company": "@augment-lu ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 531,
+    "privateContributions": 560,
     "publicContributions": 0,
     "createdAt": "2021-02-02T08:05:40Z"
   },
@@ -4075,7 +4075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 475,
+    "privateContributions": 614,
     "publicContributions": 0,
     "createdAt": "2021-09-17T09:34:44Z"
   },
@@ -4148,7 +4148,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 0,
     "createdAt": "2021-06-16T18:04:13Z"
   },
   {
@@ -4159,8 +4159,8 @@
     "company": "CYRITECH Cloud Security § Loans ",
     "twitterUsername": "cyritechcsl",
     "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 5,
+    "privateContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-08-15T18:27:07Z"
   },
   {
@@ -13599,11 +13599,11 @@
     "login": "LucaHermann",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/23220769?s=72&u=2cbfd6d89983493eb282a3207557f1bb36d60a07&v=4",
-    "location": "Basque Country || Luxembourg",
+    "location": "Basque Country || Luxembourg || Paris",
     "company": "Front-End @ Kolecto || Alumni @ 42",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 648,
+    "followers": 47,
+    "privateContributions": 897,
     "publicContributions": 0,
     "createdAt": "2016-11-02T18:23:39Z"
   },

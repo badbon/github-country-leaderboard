@@ -4352,7 +4352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 18,
     "createdAt": "2023-10-23T10:26:26Z"
   },
   {
@@ -4363,21 +4363,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
-    "publicContributions": 9,
-    "createdAt": "2023-04-18T10:11:48Z"
-  },
-  {
-    "login": "gatotobi",
-    "name": "tobias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127202109?s=72&v=4",
-    "location": "Hrvatska",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 59,
     "publicContributions": 8,
-    "createdAt": "2023-03-07T10:59:10Z"
+    "createdAt": "2023-04-18T10:11:48Z"
   },
   {
     "login": "dblazevic21",
@@ -4387,8 +4375,8 @@
     "company": "@foivz",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 60,
-    "publicContributions": 140,
+    "privateContributions": 58,
+    "publicContributions": 225,
     "createdAt": "2023-02-27T11:57:50Z"
   },
   {
@@ -4398,7 +4386,7 @@
     "location": "Hrvatska Zagreb ",
     "company": "Comitet suicid",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-28T02:02:20Z"
@@ -4412,7 +4400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2023-09-27T07:16:48Z"
   },
   {
@@ -4444,10 +4432,10 @@
     "name": "Stjepan Mestrovic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127597932?s=72&u=e4aed7b7bb23869a9de4be57a042b9806587c317&v=4",
     "location": "Zagreb",
-    "company": "self_employed",
+    "company": "Croatia Osiguranje d.d.",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
+    "followers": 11,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2023-03-11T10:54:48Z"
   },
@@ -4471,8 +4459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 342,
-    "publicContributions": 141,
+    "privateContributions": 151,
+    "publicContributions": 140,
     "createdAt": "2023-05-25T23:37:26Z"
   },
   {
@@ -4496,7 +4484,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 182,
     "createdAt": "2023-07-09T20:14:56Z"
   },
   {

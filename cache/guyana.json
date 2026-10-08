@@ -1956,18 +1956,6 @@
     "createdAt": "2012-03-21T03:03:01Z"
   },
   {
-    "login": "Hinxman",
-    "name": "Ken Hinxman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3100774?s=72&u=abf341b58f2c735be4d77f3085640db271154b69&v=4",
-    "location": "Georgetown, TX",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1782,
-    "publicContributions": 104,
-    "createdAt": "2012-12-21T20:08:41Z"
-  },
-  {
     "login": "SteveGase",
     "name": "Steve Gase",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2208257?s=72&v=4",
@@ -2023,8 +2011,8 @@
     "company": "@upbound ",
     "twitterUsername": "internegz",
     "followers": 252,
-    "privateContributions": 1174,
-    "publicContributions": 1871,
+    "privateContributions": 1176,
+    "publicContributions": 1872,
     "createdAt": "2011-09-14T05:33:34Z"
   },
   {
@@ -2120,7 +2108,7 @@
     "twitterUsername": "",
     "followers": 49,
     "privateContributions": 1,
-    "publicContributions": 3902,
+    "publicContributions": 3896,
     "createdAt": "2010-09-05T01:58:20Z"
   },
   {

@@ -3956,7 +3956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2023-09-19T15:24:58Z"
   },
   {
@@ -4003,7 +4003,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2023-10-19T16:42:09Z"
   },
@@ -4028,7 +4028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 67,
     "createdAt": "2023-11-30T11:24:28Z"
   },
   {
@@ -4051,7 +4051,7 @@
     "company": "Tyr.bar",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 287,
+    "privateContributions": 190,
     "publicContributions": 0,
     "createdAt": "2023-04-30T20:49:15Z"
   },
@@ -4087,7 +4087,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
+    "privateContributions": 35,
     "publicContributions": 20,
     "createdAt": "2023-07-18T17:42:09Z"
   },
@@ -4130,13 +4130,13 @@
   {
     "login": "Kagermazov",
     "name": "Sergei Kagermazov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148901016?s=72&u=a0b1ff822ea88f9339ad7ce22eeede23f1ed6d01&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148901016?s=72&u=cd913ef9969b5b183102f8912b4dccfffad1c13f&v=4",
     "location": "Riga",
     "company": "",
     "twitterUsername": "Kagermazov",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2023-10-24T17:46:02Z"
   },
   {

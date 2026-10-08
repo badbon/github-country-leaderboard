@@ -385446,8 +385446,8 @@
     "location": "Vancouver, BC | Abuja, Nigeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 109,
-    "privateContributions": 74,
+    "followers": 110,
+    "privateContributions": 72,
     "publicContributions": 0,
     "createdAt": "2014-11-12T17:25:00Z"
   },
@@ -396874,5 +396874,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-06-20T06:28:26Z"
+  },
+  {
+    "login": "Paulcode2",
+    "name": "Paul Ifeoluwa-Levites ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57816204?s=72&u=6847d150115aea20d35cfe6ed6efa29c33ed5c47&v=4",
+    "location": "Lagos, Nigeria.",
+    "company": "",
+    "twitterUsername": "curlyhair_dev",
+    "followers": 33,
+    "privateContributions": 366,
+    "publicContributions": 204,
+    "createdAt": "2019-11-15T22:27:39Z"
   }
 ]

@@ -4243,7 +4243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 180,
+    "privateContributions": 201,
     "publicContributions": 3,
     "createdAt": "2022-10-17T16:24:15Z"
   },
@@ -4255,7 +4255,7 @@
     "company": "KKTCELL",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 54,
+    "privateContributions": 76,
     "publicContributions": 6,
     "createdAt": "2022-02-22T16:03:29Z"
   },
@@ -4266,7 +4266,7 @@
     "location": "Limassol, Cyprus",
     "company": "",
     "twitterUsername": "MrPozotos",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-08T10:50:24Z"
@@ -4278,9 +4278,9 @@
     "location": "Cyprus",
     "company": "Eastern Mediterranean University",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 16,
-    "publicContributions": 207,
+    "followers": 9,
+    "privateContributions": 25,
+    "publicContributions": 209,
     "createdAt": "2022-09-29T11:04:58Z"
   },
   {
@@ -4290,9 +4290,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2022-10-22T00:30:24Z"
   },
   {
@@ -4315,8 +4315,8 @@
     "company": "SiliconDali",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 62,
-    "publicContributions": 8,
+    "privateContributions": 244,
+    "publicContributions": 9,
     "createdAt": "2022-03-18T11:17:49Z"
   },
   {
@@ -4327,8 +4327,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 208,
-    "publicContributions": 24,
+    "privateContributions": 272,
+    "publicContributions": 27,
     "createdAt": "2022-02-01T16:45:20Z"
   },
   {
@@ -4338,9 +4338,9 @@
     "location": "Cyprus",
     "company": "Finnal International University",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 212,
-    "publicContributions": 196,
+    "followers": 8,
+    "privateContributions": 1022,
+    "publicContributions": 189,
     "createdAt": "2022-05-14T10:49:24Z"
   },
   {
@@ -4350,9 +4350,9 @@
     "location": "Cyprus/Corfu",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 339,
-    "publicContributions": 45,
+    "followers": 6,
+    "privateContributions": 297,
+    "publicContributions": 24,
     "createdAt": "2022-02-20T12:52:05Z"
   },
   {
@@ -4364,7 +4364,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3945,
+    "publicContributions": 4627,
     "createdAt": "2022-07-26T20:58:59Z"
   },
   {
@@ -4374,9 +4374,9 @@
     "location": "Lefke, Nicosia, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 2501,
-    "publicContributions": 89,
+    "followers": 10,
+    "privateContributions": 3003,
+    "publicContributions": 121,
     "createdAt": "2022-12-16T15:40:10Z"
   },
   {
@@ -4411,8 +4411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 17,
-    "publicContributions": 256,
+    "privateContributions": 186,
+    "publicContributions": 289,
     "createdAt": "2022-05-02T04:34:26Z"
   },
   {
@@ -4436,20 +4436,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 10,
     "createdAt": "2022-07-25T19:16:12Z"
-  },
-  {
-    "login": "mofopeadegoke",
-    "name": "Adegoke Mofopefoluwa Daniel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110726038?s=72&u=5685e56e6179c859ed751c356ceb7567868e50da&v=4",
-    "location": "Nicosia, North Cyprus",
-    "company": "Inscribe",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 77,
-    "publicContributions": 302,
-    "createdAt": "2022-08-06T12:06:58Z"
   },
   {
     "login": "MaryamFrdn",
@@ -4470,9 +4458,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 18,
     "createdAt": "2022-07-31T16:58:07Z"
   },
   {

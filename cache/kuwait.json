@@ -4040,7 +4040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-04-21T19:23:35Z"
   },
   {
@@ -4050,9 +4050,9 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 373,
     "createdAt": "2020-01-10T10:27:51Z"
   },
   {
@@ -4123,7 +4123,7 @@
     "company": "IOS Developer Consultant at Kuwait Fire Force",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-11-07T20:27:57Z"
   },
@@ -4138,18 +4138,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-25T04:35:32Z"
-  },
-  {
-    "login": "ashwin-vj",
-    "name": "Ashwin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72217135?s=72&u=2334438edfa5744fd602ad43f2d862c618c03eda&v=4",
-    "location": "Kuwait",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 78,
-    "publicContributions": 6,
-    "createdAt": "2020-10-01T16:04:23Z"
   },
   {
     "login": "alialmulla97",
@@ -4230,9 +4218,9 @@
     "location": "Kuwait",
     "company": "Dsrpt.",
     "twitterUsername": "AbdulkaderSafi",
-    "followers": 72,
-    "privateContributions": 2771,
-    "publicContributions": 1259,
+    "followers": 80,
+    "privateContributions": 3661,
+    "publicContributions": 1533,
     "createdAt": "2019-08-09T22:30:12Z"
   },
   {
@@ -4254,8 +4242,8 @@
     "location": "Kuwait",
     "company": "MyHome App",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 1164,
+    "followers": 30,
+    "privateContributions": 1728,
     "publicContributions": 0,
     "createdAt": "2019-07-28T13:59:20Z"
   },

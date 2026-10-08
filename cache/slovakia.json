@@ -56350,5 +56350,53 @@
     "privateContributions": 97,
     "publicContributions": 112,
     "createdAt": "2008-11-09T01:29:17Z"
+  },
+  {
+    "login": "Mak0Dev",
+    "name": "Fork",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293367264?s=72&u=b028bf8f04a8c5989e106c48a649d9d6e4dc1cd4&v=4",
+    "location": "Slovakia",
+    "company": "Company lmao",
+    "twitterUsername": "TheSantl",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-13T12:50:10Z"
+  },
+  {
+    "login": "xkadlec-pixel",
+    "name": "Martin Kadlec",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296078404?s=72&v=4",
+    "location": "Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T06:57:53Z"
+  },
+  {
+    "login": "skycomslovakia",
+    "name": "SkyCom s.r.o.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289224822?s=72&u=1f3ceedfa5c72304652b6421e27610c7e93f7886&v=4",
+    "location": "Slovakia",
+    "company": "SkyCom s.r.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-30T15:04:03Z"
+  },
+  {
+    "login": "maro-sh-dev",
+    "name": "Maroš Kováčik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294643517?s=72&u=b348a3337911723c4ecd3849f63477a9b49643db&v=4",
+    "location": "Slovakia",
+    "company": "EasyWay",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 37,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T22:25:53Z"
   }
 ]
