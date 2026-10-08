@@ -4410,9 +4410,9 @@
     "location": "Lomé, Togo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 64,
-    "publicContributions": 71,
+    "publicContributions": 70,
     "createdAt": "2022-04-20T20:09:54Z"
   },
   {
@@ -4424,7 +4424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2022-09-15T16:59:21Z"
   },
   {
@@ -4435,7 +4435,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2022-06-03T05:58:46Z"
   },
@@ -4471,8 +4471,8 @@
     "company": "senouaudrey.me",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 261,
-    "publicContributions": 245,
+    "privateContributions": 206,
+    "publicContributions": 301,
     "createdAt": "2022-02-25T20:00:29Z"
   },
   {
@@ -4627,8 +4627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 512,
-    "publicContributions": 223,
+    "privateContributions": 400,
+    "publicContributions": 225,
     "createdAt": "2022-12-19T23:40:14Z"
   },
   {
@@ -4638,9 +4638,9 @@
     "location": "Lomé",
     "company": "iai",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 287,
-    "publicContributions": 55,
+    "followers": 17,
+    "privateContributions": 293,
+    "publicContributions": 49,
     "createdAt": "2022-11-20T11:36:31Z"
   },
   {
@@ -8158,5 +8158,53 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-07-09T17:23:36Z"
+  },
+  {
+    "login": "imade-kt",
+    "name": "KATAKPAOU Touré Imade",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293989948?s=72&u=58c88cd17561778ba60a4418761e9803d2de3ed6&v=4",
+    "location": "Togo",
+    "company": "Ecole Polytechnique de Lomé ",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-15T21:30:01Z"
+  },
+  {
+    "login": "Nova2026-graphik",
+    "name": "Samuel Nova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293848055?s=72&u=907f0bd3e17fa01fedd6b219178fe22e597e77c2&v=4",
+    "location": "Lomé / Togo",
+    "company": "NOVAGRAPHIKVISU",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1275,
+    "createdAt": "2026-06-15T11:51:06Z"
+  },
+  {
+    "login": "senoumawulomi-pixel",
+    "name": "Mawulomi K. SENOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287282927?s=72&u=b3f4af33d10d2586cf9dfd62f905e8190c5a819a&v=4",
+    "location": "Lomé - Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-05-23T18:24:31Z"
+  },
+  {
+    "login": "FabioDevelopper",
+    "name": "KPOGO Cocou Fabrice",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288580950?s=72&u=b164c467e7caeb06ab46858c54b2ce7d0c8f024b&v=4",
+    "location": "Lomé-Togo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2026-05-28T09:02:09Z"
   }
 ]

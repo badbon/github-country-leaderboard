@@ -4484,7 +4484,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 223,
-    "publicContributions": 116,
+    "publicContributions": 94,
     "createdAt": "2023-05-17T09:51:47Z"
   },
   {
@@ -4508,7 +4508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 220,
     "createdAt": "2023-07-25T22:11:13Z"
   },
   {
@@ -4518,9 +4518,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 53,
-    "publicContributions": 34,
+    "followers": 2,
+    "privateContributions": 31,
+    "publicContributions": 4,
     "createdAt": "2023-11-10T13:43:02Z"
   },
   {
@@ -4565,10 +4565,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/133987180?s=72&u=bbc053ed92634d3b0ea56e498c250aa1b549fb1d&v=4",
     "location": "Slovakia",
     "company": "University of Constantine the Philosopher in Nitra",
-    "twitterUsername": "",
+    "twitterUsername": "martin_rosik12",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 43,
     "createdAt": "2023-05-18T14:48:51Z"
   },
   {
@@ -4626,9 +4626,9 @@
     "location": "Presov, Slovakia",
     "company": "",
     "twitterUsername": "RomanDenysov",
-    "followers": 1,
-    "privateContributions": 1154,
-    "publicContributions": 485,
+    "followers": 2,
+    "privateContributions": 2478,
+    "publicContributions": 386,
     "createdAt": "2023-07-28T13:46:55Z"
   },
   {
@@ -4640,7 +4640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 3,
     "createdAt": "2023-10-07T14:24:41Z"
   },
   {

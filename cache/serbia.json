@@ -4459,8 +4459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 35,
-    "publicContributions": 95,
+    "privateContributions": 29,
+    "publicContributions": 99,
     "createdAt": "2024-05-29T10:06:10Z"
   },
   {
@@ -4471,7 +4471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 184,
+    "privateContributions": 65,
     "publicContributions": 0,
     "createdAt": "2024-05-14T07:43:40Z"
   },
@@ -4484,7 +4484,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 339,
     "createdAt": "2024-08-31T14:32:49Z"
   },
   {
@@ -4496,7 +4496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 92,
     "createdAt": "2024-12-11T21:51:22Z"
   },
   {
@@ -4568,7 +4568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 191,
     "createdAt": "2024-05-04T12:55:21Z"
   },
   {
@@ -4580,7 +4580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2024-11-24T17:33:39Z"
   },
   {
@@ -4592,7 +4592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 11,
     "createdAt": "2024-10-26T12:03:49Z"
   },
   {
@@ -4615,21 +4615,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 668,
-    "publicContributions": 23,
+    "privateContributions": 718,
+    "publicContributions": 18,
     "createdAt": "2024-09-11T15:23:34Z"
-  },
-  {
-    "login": "gigimento",
-    "name": "Igor Ilic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177094047?s=72&u=cd6ce3620b66483d6cb4d7a530acec18e642e242&v=4",
-    "location": "Nis, Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 104,
-    "createdAt": "2024-07-31T06:13:07Z"
   },
   {
     "login": "saraaz1004",

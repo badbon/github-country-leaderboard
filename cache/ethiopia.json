@@ -4496,7 +4496,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 65,
     "createdAt": "2025-05-05T12:59:37Z"
   },
   {
@@ -4506,7 +4506,7 @@
     "location": "Ethiopia ",
     "company": "https://gravatar.com/sebahdegu7?utm_source=qr",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2025-08-05T18:09:44Z"
@@ -4518,9 +4518,9 @@
     "location": "Jimma, Ethiopia",
     "company": "",
     "twitterUsername": "Abd_Noor48",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 74,
+    "followers": 6,
+    "privateContributions": 28,
+    "publicContributions": 105,
     "createdAt": "2025-11-10T14:47:35Z"
   },
   {
@@ -4530,9 +4530,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "https://www.linkedin.com/in/amanuel-adamu-8342b2209/",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 116,
     "createdAt": "2025-06-10T05:53:49Z"
   },
   {
@@ -4544,7 +4544,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 242,
     "createdAt": "2025-04-04T16:20:37Z"
   },
   {
@@ -4556,7 +4556,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 57,
     "createdAt": "2025-04-22T17:11:14Z"
   },
   {
@@ -4567,8 +4567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 28,
-    "publicContributions": 168,
+    "privateContributions": 82,
+    "publicContributions": 241,
     "createdAt": "2025-03-14T07:46:01Z"
   },
   {
@@ -4578,9 +4578,9 @@
     "location": "Ethiopia",
     "company": "Ethio Hacker X",
     "twitterUsername": "EthioHackerX",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 48,
     "createdAt": "2025-02-23T15:00:18Z"
   },
   {
@@ -4592,7 +4592,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 419,
+    "publicContributions": 413,
     "createdAt": "2024-12-27T10:52:34Z"
   },
   {
@@ -4602,9 +4602,9 @@
     "location": "Addis Ababa, Ethiopia ",
     "company": "INSA",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 122,
     "createdAt": "2025-10-04T05:51:25Z"
   },
   {
@@ -4616,7 +4616,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 0,
     "createdAt": "2025-09-25T01:44:45Z"
   },
   {
@@ -4626,9 +4626,9 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 101,
-    "publicContributions": 560,
+    "followers": 4,
+    "privateContributions": 83,
+    "publicContributions": 636,
     "createdAt": "2025-03-11T15:36:14Z"
   },
   {
@@ -4638,8 +4638,8 @@
     "location": "Addis Ababa , Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 39,
+    "followers": 2,
+    "privateContributions": 25,
     "publicContributions": 99,
     "createdAt": "2025-04-14T20:16:03Z"
   },
@@ -4652,7 +4652,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-07-29T09:32:12Z"
   },
   {
@@ -4664,7 +4664,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 41,
     "createdAt": "2025-10-17T14:48:33Z"
   },
   {
@@ -4688,31 +4688,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2025-06-30T14:41:24Z"
-  },
-  {
-    "login": "Mino-dev",
-    "name": "Minase Mengesha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238032084?s=72&u=08d2b28c82520a824989c4afb7ed00bb34adf551&v=4",
-    "location": "Ethiopia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-10-14T14:34:51Z"
   },
   {
     "login": "Abre1234",
     "name": "Abraraw Ayal Kidanu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216869054?s=72&u=e6cf2c47230e79de7d33fe5e9520af0bee9973ec&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/216869054?s=72&u=22e0e15d8bf726aab17e1581d123c13eaf8e2342&v=4",
     "location": "Bahir Dar ,Ethiopia 🇪🇹",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 233,
     "createdAt": "2025-06-18T10:30:51Z"
   },
   {
@@ -4722,7 +4710,7 @@
     "location": "ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 157,
     "createdAt": "2025-07-04T19:36:55Z"

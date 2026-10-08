@@ -4448,7 +4448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 87,
     "createdAt": "2025-08-31T09:30:30Z"
   },
   {
@@ -4460,20 +4460,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 0,
     "createdAt": "2025-09-16T15:54:33Z"
-  },
-  {
-    "login": "giulia-lelli",
-    "name": "Giulia Lelli ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223289096?s=72&v=4",
-    "location": "Switzerland ",
-    "company": "Università della Svizzera Italiana - USI ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2025-07-28T13:29:40Z"
   },
   {
     "login": "mahi-saini",
@@ -4483,8 +4471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 245,
-    "publicContributions": 85,
+    "privateContributions": 0,
+    "publicContributions": 169,
     "createdAt": "2025-02-07T17:54:48Z"
   },
   {
@@ -4494,9 +4482,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 59,
     "createdAt": "2025-02-25T18:46:36Z"
   },
   {
@@ -4507,8 +4495,8 @@
     "company": "EffuzionGroup",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3360,
-    "publicContributions": 129,
+    "privateContributions": 3288,
+    "publicContributions": 125,
     "createdAt": "2025-09-02T21:40:59Z"
   },
   {
@@ -4567,7 +4555,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 266,
+    "privateContributions": 358,
     "publicContributions": 11,
     "createdAt": "2025-03-08T09:57:12Z"
   },
@@ -4578,21 +4566,21 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 67,
-    "publicContributions": 1039,
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1033,
     "createdAt": "2025-05-31T13:45:03Z"
   },
   {
     "login": "Divisible0",
     "name": "W1zard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/220178754?s=72&u=7f372e0e011555ec76ae21249a0f31851ea2ca42&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/220178754?s=72&u=b6a19487f180f394e2f6a395cd0dc7849c9b232e&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 2,
+    "privateContributions": 45,
+    "publicContributions": 11,
     "createdAt": "2025-07-10T10:28:19Z"
   },
   {
@@ -4603,8 +4591,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 265,
+    "privateContributions": 27,
+    "publicContributions": 234,
     "createdAt": "2025-02-23T21:18:47Z"
   },
   {
@@ -4616,7 +4604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 941,
+    "publicContributions": 1062,
     "createdAt": "2025-11-26T20:32:39Z"
   },
   {
@@ -4639,8 +4627,8 @@
     "company": "Orif",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 259,
-    "publicContributions": 164,
+    "privateContributions": 323,
+    "publicContributions": 151,
     "createdAt": "2025-01-27T13:08:32Z"
   },
   {
@@ -4676,7 +4664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 427,
     "createdAt": "2025-02-05T18:26:02Z"
   },
   {

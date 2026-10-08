@@ -4518,8 +4518,8 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 303,
+    "followers": 18,
+    "privateContributions": 209,
     "publicContributions": 0,
     "createdAt": "2021-12-21T03:33:51Z"
   },
@@ -4530,7 +4530,7 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2021-11-05T00:33:11Z"
@@ -4542,34 +4542,22 @@
     "location": "Guaynabo, Puerto Rico",
     "company": "",
     "twitterUsername": "yalexis_eth",
-    "followers": 16,
-    "privateContributions": 10,
+    "followers": 17,
+    "privateContributions": 8,
     "publicContributions": 4,
     "createdAt": "2021-12-22T00:00:15Z"
   },
   {
     "login": "Eli-coding",
     "name": "Elizabeth R.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80432031?s=72&u=e843352317989ed0f5899a0486d28efc7a06a1c8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80432031?s=72&u=fa6b913073bd4dc2419e942021c9cb101f697afc&v=4",
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 69,
     "createdAt": "2021-03-10T23:35:47Z"
-  },
-  {
-    "login": "print-Eruki",
-    "name": "Ale Pagan ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88811032?s=72&u=7f8d83d67b5d3b142ff306dcbd4b5404c4194eb4&v=4",
-    "location": "Mayagüez, Puerto Rico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 12,
-    "publicContributions": 8,
-    "createdAt": "2021-08-12T02:18:11Z"
   },
   {
     "login": "GABETROLL",
@@ -4580,7 +4568,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2021-07-11T21:27:52Z"
   },
   {
@@ -4616,20 +4604,8 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2021-01-13T18:09:44Z"
-  },
-  {
-    "login": "weiserbot",
-    "name": "Robert",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92827288?s=72&u=f3b3d6a4ac9484a70b9e4e523fedc69869bf754c&v=4",
-    "location": "Puerto Rico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2021-10-19T21:17:51Z"
   },
   {
     "login": "smbv",
@@ -4638,7 +4614,7 @@
     "location": "Mayagüez, Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2021-04-15T21:29:59Z"
@@ -4652,7 +4628,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 341,
+    "publicContributions": 563,
     "createdAt": "2021-10-01T00:30:04Z"
   },
   {
@@ -4663,7 +4639,7 @@
     "company": "University of Puerto Rico",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3,
+    "privateContributions": 4,
     "publicContributions": 11,
     "createdAt": "2021-12-07T20:11:49Z"
   },
@@ -4680,18 +4656,6 @@
     "createdAt": "2021-09-17T16:39:53Z"
   },
   {
-    "login": "plpk",
-    "name": "Louis P. Kunasek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92118551?s=72&u=b2ccecb1439bbe938f55eb1275351010a38b1afc&v=4",
-    "location": "San Juan, Puerto Rico",
-    "company": "https://louiskunasek.net",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 62,
-    "createdAt": "2021-10-07T18:37:33Z"
-  },
-  {
     "login": "JuanQ1226",
     "name": "Juan Quintana",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93397918?s=72&u=365d96bf1ef2210866ca7ae590884287789d8300&v=4",
@@ -4699,8 +4663,8 @@
     "company": "Stackz Technologies",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 314,
-    "publicContributions": 150,
+    "privateContributions": 228,
+    "publicContributions": 146,
     "createdAt": "2021-10-29T16:28:41Z"
   },
   {
