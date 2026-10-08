@@ -4483,8 +4483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 407,
-    "publicContributions": 0,
+    "privateContributions": 368,
+    "publicContributions": 2,
     "createdAt": "2022-04-15T12:33:47Z"
   },
   {
@@ -4507,8 +4507,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 174,
-    "publicContributions": 42,
+    "privateContributions": 100,
+    "publicContributions": 34,
     "createdAt": "2022-10-18T23:34:22Z"
   },
   {
@@ -4530,9 +4530,9 @@
     "location": "Cyprus",
     "company": "@Arkana-Gaming ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 2390,
-    "publicContributions": 268,
+    "followers": 5,
+    "privateContributions": 3026,
+    "publicContributions": 274,
     "createdAt": "2022-01-20T23:20:36Z"
   },
   {
@@ -4543,7 +4543,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 680,
+    "privateContributions": 632,
     "publicContributions": 10,
     "createdAt": "2022-07-15T17:45:25Z"
   },
@@ -4578,7 +4578,7 @@
     "location": "Larnaca, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-24T18:28:18Z"
@@ -4588,11 +4588,11 @@
     "name": "Alexandros Georgiou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/106652543?s=72&u=a3c93fb279ccfe31dbfd23bc15702cd8b89d42e6&v=4",
     "location": "Cyprus",
-    "company": "NETMAR LTD",
-    "twitterUsername": "",
+    "company": "",
+    "twitterUsername": "gumidnight",
     "followers": 3,
-    "privateContributions": 184,
-    "publicContributions": 136,
+    "privateContributions": 481,
+    "publicContributions": 119,
     "createdAt": "2022-06-01T06:59:22Z"
   },
   {
@@ -4603,8 +4603,8 @@
     "company": "@bitquery",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1641,
-    "publicContributions": 31,
+    "privateContributions": 1614,
+    "publicContributions": 29,
     "createdAt": "2022-02-01T07:59:24Z"
   },
   {
@@ -4626,8 +4626,8 @@
     "location": "Cyprus",
     "company": "Chrisons Co. Ltd. & No1.Cloud Solutions Ltd.",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 6,
+    "followers": 4,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2022-06-17T09:17:25Z"
   },
@@ -4638,9 +4638,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 463,
-    "publicContributions": 116,
+    "followers": 4,
+    "privateContributions": 567,
+    "publicContributions": 153,
     "createdAt": "2022-01-07T12:43:20Z"
   },
   {
@@ -4652,7 +4652,7 @@
     "twitterUsername": "OwOShaemberOwO",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 77,
     "createdAt": "2022-05-02T11:42:51Z"
   },
   {
@@ -4694,7 +4694,7 @@
   {
     "login": "ArdaCelikk",
     "name": "Arda Çelik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116254473?s=72&u=7b8d28b78a88f195f33a8cbae73bfe1b4896adce&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116254473?s=72&v=4",
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",

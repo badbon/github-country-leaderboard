@@ -385628,7 +385628,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2016-03-08T17:08:37Z"
   },
   {
@@ -585778,5 +585778,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-09-10T13:05:10Z"
+  },
+  {
+    "login": "AmjedAlsadig",
+    "name": "Amejd Elsadig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/62947556?s=72&u=a4c846b4dafcd7fac810c92f282cb561ae176509&v=4",
+    "location": "Milan, Lombardy, Italy",
+    "company": "Politecnico di Milano",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 6,
+    "publicContributions": 20,
+    "createdAt": "2020-03-31T14:18:47Z"
   }
 ]

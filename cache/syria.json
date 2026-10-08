@@ -4268,7 +4268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2024-06-22T15:00:49Z"
   },
   {
@@ -4286,13 +4286,13 @@
   {
     "login": "jamal-hub3",
     "name": "Jamal Sulaiman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189957008?s=72&u=37e68f8b5dea5e7a5ea528e96f5cb12606139e3d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189957008?s=72&v=4",
     "location": "syria",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2024-11-28T06:43:09Z"
   },
   {
@@ -4338,7 +4338,7 @@
     "location": "Damascus , Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2024-10-18T16:27:51Z"
@@ -4352,7 +4352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 38,
     "createdAt": "2024-11-04T14:09:01Z"
   },
   {
@@ -4364,7 +4364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 11,
     "createdAt": "2024-08-14T10:15:06Z"
   },
   {
@@ -4388,7 +4388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 20,
     "createdAt": "2024-03-25T17:36:45Z"
   },
   {
@@ -4422,9 +4422,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 10,
     "createdAt": "2024-08-11T09:23:49Z"
   },
   {
@@ -4434,9 +4434,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 238,
     "createdAt": "2024-06-11T08:10:11Z"
   },
   {
@@ -4448,7 +4448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 60,
     "createdAt": "2024-05-17T08:08:40Z"
   },
   {
@@ -4472,7 +4472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 28,
     "createdAt": "2024-12-02T18:03:21Z"
   },
   {
@@ -17650,5 +17650,149 @@
     "privateContributions": 1021,
     "publicContributions": 220,
     "createdAt": "2015-02-03T01:07:47Z"
+  },
+  {
+    "login": "abdulrahamanharitani-ai",
+    "name": "Abdulrahman Al-Haritani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287542939?s=72&u=327e7c4c7c508ec718800ea5b972336fe499a77a&v=4",
+    "location": "Syria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 75,
+    "createdAt": "2026-05-24T23:04:42Z"
+  },
+  {
+    "login": "abdalahhamwi98",
+    "name": "Abdalah Hamwi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285073215?s=72&u=e31e88939cf1e032c9126c730e6c7fd58f07770a&v=4",
+    "location": "Syria,Damascus",
+    "company": "",
+    "twitterUsername": "AbdalahHamwi98",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-05-15T21:49:15Z"
+  },
+  {
+    "login": "kaaram20222-sketch",
+    "name": "karam  K7",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289842974?s=72&u=40a095e779355adb7b927bec0820d07d71a51c62&v=4",
+    "location": "syria/idlib",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-01T22:56:38Z"
+  },
+  {
+    "login": "salmasaflo320-beep",
+    "name": "Salma Saflo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290194329?s=72&u=336d93e5c48b398b65c47af4a0364165cdb3aafe&v=4",
+    "location": "SYRIA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-03T00:06:20Z"
+  },
+  {
+    "login": "waedsheikh",
+    "name": "waed hamdo sheikh ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284747885?s=72&u=5386d04153eff213ea58fa0b3332b9e2b58cb688&v=4",
+    "location": "Aleppo, Syria",
+    "company": "University of Aleppo, Information Engineering",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2026-05-14T18:25:44Z"
+  },
+  {
+    "login": "AmjadSaleem53",
+    "name": "Amjad_Saleem",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285305257?s=72&v=4",
+    "location": "syria",
+    "company": "nothing_now",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-05-16T23:14:29Z"
+  },
+  {
+    "login": "gravityallteam-appbuilders",
+    "name": "Gravity App Builders",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293603425?s=72&u=53a2a374b2c6f7971a69efcc08a2a16834cc1551&v=4",
+    "location": "syria-damascus",
+    "company": "space G.D.W",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-14T14:14:59Z"
+  },
+  {
+    "login": "nouribrahim3",
+    "name": "Nour Ibrahim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291489229?s=72&v=4",
+    "location": "Syria / Damascus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-07T10:06:51Z"
+  },
+  {
+    "login": "Abdullah-Hameed23424",
+    "name": "Abdullah Hameed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286698072?s=72&u=2767b686cd5c4d5fa03f843fc2385973bf3f36f7&v=4",
+    "location": "Syria",
+    "company": "On Me",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2026-05-21T14:39:07Z"
+  },
+  {
+    "login": "Aboudx",
+    "name": "Abdullatif Almuhammad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296727417?s=72&u=444d41246d294fdae6d919e72a007bb1d00841e3&v=4",
+    "location": "Damascus, Syria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2026-06-25T01:52:38Z"
+  },
+  {
+    "login": "saleh-ali-business",
+    "name": "Saleh Ali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295429107?s=72&u=4bd584e45eb379c6f70323abf856647136e78cbe&v=4",
+    "location": "Damascus, Syria",
+    "company": "HEXolution DX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-20T18:31:38Z"
+  },
+  {
+    "login": "Will-ammari",
+    "name": "William Ammari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289402729?s=72&u=b474cc175dbc442c527c1648722cfae9a090293c&v=4",
+    "location": "Damascus, Syria",
+    "company": "WAMM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 82,
+    "createdAt": "2026-05-31T12:11:49Z"
   }
 ]

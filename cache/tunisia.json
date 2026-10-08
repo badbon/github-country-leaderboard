@@ -4230,8 +4230,8 @@
     "location": "Tunis",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 150,
+    "followers": 6,
+    "privateContributions": 130,
     "publicContributions": 5,
     "createdAt": "2025-03-05T14:17:02Z"
   },
@@ -4278,7 +4278,7 @@
     "location": "Ariana, Tunis",
     "company": "TEK-UP",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2025-02-07T08:38:01Z"
@@ -4302,9 +4302,9 @@
     "location": "Tunis",
     "company": "STMicroelectronics",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 276,
+    "publicContributions": 325,
     "createdAt": "2025-09-10T13:33:09Z"
   },
   {
@@ -4328,7 +4328,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 54,
     "createdAt": "2025-10-24T09:32:48Z"
   },
   {
@@ -4352,7 +4352,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 11,
     "createdAt": "2025-03-21T16:28:05Z"
   },
   {
@@ -4376,7 +4376,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 55,
     "createdAt": "2025-05-27T10:53:51Z"
   },
   {
@@ -4388,7 +4388,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 11,
     "createdAt": "2025-05-07T15:12:21Z"
   },
   {
@@ -4398,7 +4398,7 @@
     "location": "Tunis",
     "company": "Tunisia",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 28,
     "publicContributions": 71,
     "createdAt": "2025-04-05T14:18:55Z"
@@ -4412,7 +4412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 104,
     "createdAt": "2025-02-26T09:43:41Z"
   },
   {
@@ -4424,7 +4424,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-05-15T14:50:46Z"
   },
   {
@@ -4450,18 +4450,6 @@
     "privateContributions": 0,
     "publicContributions": 66,
     "createdAt": "2025-02-09T19:08:24Z"
-  },
-  {
-    "login": "Fedi-Hmida",
-    "name": "Fedi Hmida",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196567973?s=72&u=5c0f57a6d93979f62b529c3b8c79d900945e174e&v=4",
-    "location": "Tunis",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 136,
-    "createdAt": "2025-01-26T20:01:36Z"
   },
   {
     "login": "t3kot3k",

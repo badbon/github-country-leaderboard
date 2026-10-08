@@ -4165,14 +4165,14 @@
   },
   {
     "login": "josmer-azocar",
-    "name": "Josmer",
+    "name": "Josmer Azocar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/172326837?s=72&u=4fba2870166afdb5a6200d7b241ebe03cce1409e&v=4",
     "location": "Venezuela",
-    "company": "",
+    "company": "Ensolvers",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 311,
-    "publicContributions": 104,
+    "privateContributions": 315,
+    "publicContributions": 188,
     "createdAt": "2024-06-10T21:25:52Z"
   },
   {
@@ -4182,9 +4182,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-03-07T16:46:36Z"
   },
   {
@@ -4194,9 +4194,9 @@
     "location": "Caracas, Venezuela",
     "company": "Universidad Católica Andrés Bello",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 14,
-    "publicContributions": 69,
+    "followers": 5,
+    "privateContributions": 12,
+    "publicContributions": 59,
     "createdAt": "2024-05-02T00:10:35Z"
   },
   {
@@ -4208,20 +4208,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 150,
     "createdAt": "2024-06-29T03:44:08Z"
-  },
-  {
-    "login": "fiedri",
-    "name": "Friedrich Ruiz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182448227?s=72&u=a3afae13c0353b2ab2f8826ac3baa3f01905cf03&v=4",
-    "location": "Venezuela, Coro",
-    "company": "",
-    "twitterUsername": "Friedrichruz",
-    "followers": 4,
-    "privateContributions": 59,
-    "publicContributions": 364,
-    "createdAt": "2024-09-22T21:01:33Z"
   },
   {
     "login": "ingvaleriariera",
@@ -4232,7 +4220,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 183,
     "createdAt": "2024-05-07T18:57:50Z"
   },
   {
@@ -4243,20 +4231,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 12,
+    "privateContributions": 9,
     "publicContributions": 21,
     "createdAt": "2024-05-02T22:40:40Z"
   },
   {
     "login": "rvduque",
     "name": "Rosa Ramírez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182558710?s=72&u=2091f06796dae05ca53e72a3394a40dcda0c2438&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182558710?s=72&u=bb84d9465b98d16ad00f76e464110b6361736721&v=4",
     "location": "Caracas, Venezuela",
     "company": "Universidad Simón Bolívar ",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 60,
     "createdAt": "2024-09-23T19:37:52Z"
   },
   {
@@ -4267,8 +4255,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 16,
-    "publicContributions": 64,
+    "privateContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2024-11-21T18:44:58Z"
   },
   {
@@ -4279,8 +4267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 292,
-    "publicContributions": 23,
+    "privateContributions": 402,
+    "publicContributions": 9,
     "createdAt": "2024-05-18T15:07:23Z"
   },
   {
@@ -4290,7 +4278,7 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2024-04-06T21:16:46Z"
@@ -4314,9 +4302,9 @@
     "location": "Mérida, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 138,
     "createdAt": "2024-10-07T01:30:32Z"
   },
   {
@@ -4328,7 +4316,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 17,
     "createdAt": "2024-09-13T22:11:12Z"
   },
   {
@@ -4362,9 +4350,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 264,
+    "publicContributions": 259,
     "createdAt": "2024-07-05T03:52:58Z"
   },
   {
@@ -4376,7 +4364,7 @@
     "twitterUsername": "colinaedanairis",
     "followers": 3,
     "privateContributions": 3,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2023-12-29T13:12:37Z"
   },
   {

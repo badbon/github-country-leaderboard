@@ -4340,7 +4340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-11-01T09:12:55Z"
   },
   {
@@ -4364,7 +4364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 63,
     "createdAt": "2024-09-23T14:48:17Z"
   },
   {
@@ -4376,7 +4376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 192,
     "createdAt": "2024-05-17T18:42:26Z"
   },
   {
@@ -4400,7 +4400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 49,
     "createdAt": "2024-05-20T23:17:31Z"
   },
   {
@@ -4410,7 +4410,7 @@
     "location": "Ramallah",
     "company": "Birzeit University",
     "twitterUsername": "",
-    "followers": 79,
+    "followers": 76,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-04T16:02:56Z"
@@ -4422,7 +4422,7 @@
     "location": "Ramallah",
     "company": "Birzeit University",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-16T19:08:46Z"
@@ -4436,7 +4436,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 26,
     "createdAt": "2024-04-21T10:29:18Z"
   },
   {
@@ -4448,7 +4448,7 @@
     "twitterUsername": "MMasalmah2004",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 4,
     "createdAt": "2024-03-05T15:51:35Z"
   },
   {
@@ -4458,19 +4458,19 @@
     "location": "Ramallah",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 91,
     "createdAt": "2024-08-16T07:48:31Z"
   },
   {
     "login": "KhairExplorer",
     "name": "Adel Khair",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157961198?s=72&u=2ce0f94bc57b6b7f9999fd699ff02c8589675fb5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157961198?s=72&u=46758a6c9ee5f6fc042cdd7991c63ae4e6cbffaa&v=4",
     "location": "Ramallah",
     "company": "BZU",
     "twitterUsername": "AdelKhair7",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-01-28T11:42:21Z"
@@ -4478,13 +4478,13 @@
   {
     "login": "IbrahimHashhash",
     "name": "Ibrahim Hashhash",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181624651?s=72&u=a1d9057097124e5dd4f26cfd7ce017d6aba1f0a8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181624651?s=72&u=42f0c6a38cb211b633ede3b0767b842843246a64&v=4",
     "location": "Ramallah",
     "company": "Birzeit Univeristy",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 20,
-    "publicContributions": 450,
+    "followers": 9,
+    "privateContributions": 66,
+    "publicContributions": 373,
     "createdAt": "2024-09-15T07:37:02Z"
   },
   {
@@ -4507,7 +4507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 62,
+    "privateContributions": 87,
     "publicContributions": 38,
     "createdAt": "2024-12-01T18:45:46Z"
   },
@@ -4519,8 +4519,8 @@
     "company": "Birzeit University",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 298,
-    "publicContributions": 157,
+    "privateContributions": 381,
+    "publicContributions": 151,
     "createdAt": "2024-05-11T17:54:12Z"
   },
   {

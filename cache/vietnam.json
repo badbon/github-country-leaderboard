@@ -4255,8 +4255,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 12,
-    "publicContributions": 154,
+    "privateContributions": 19,
+    "publicContributions": 156,
     "createdAt": "2025-12-31T03:33:01Z"
   },
   {
@@ -4266,9 +4266,9 @@
     "location": "Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 59,
     "createdAt": "2026-03-09T12:16:31Z"
   },
   {
@@ -4278,22 +4278,10 @@
     "location": "Hanoi, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2026-05-03T18:35:27Z"
-  },
-  {
-    "login": "ly-long1",
-    "name": "Ly Van Long",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279170964?s=72&u=6b4663d8ec66b34679c46f01287042360d119fb4&v=4",
-    "location": "Ha Noi, Vietnam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-04-25T03:07:51Z"
   },
   {
     "login": "foxkhang26200",
@@ -4302,33 +4290,21 @@
     "location": "Ho Chi Minh City, Vietnam",
     "company": "ProjectDozG",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-03-28T16:42:58Z"
   },
   {
-    "login": "AnhLVB25VT005",
-    "name": "Ho Van Tung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/278439159?s=72&u=8dd7ad25b4641bc795dbab7ebfb7e53d4eaffffa&v=4",
-    "location": "Hai Phong, Vietnam",
-    "company": "PTIT",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2026-04-22T15:12:44Z"
-  },
-  {
     "login": "vuongthm",
     "name": "Minh Vuong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/281654066?s=72&u=521390fb74bf47daa2089f74cc977c48bb0bb397&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/281654066?s=72&u=888eac6b1c35ce0d27e4fe37ed5a527c586b8b73&v=4",
     "location": "Da Nang, Vietnam",
     "company": "Vietnam - Korea University of Information and Communications Technology ",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 12,
     "createdAt": "2026-05-04T13:43:48Z"
   },
   {
@@ -4338,7 +4314,7 @@
     "location": "Ho Chi Minh, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-25T04:59:43Z"
@@ -4350,7 +4326,7 @@
     "location": "Ha Noi, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-25T09:15:07Z"
@@ -4374,7 +4350,7 @@
     "location": "Can Tho, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-04-22T16:19:23Z"
@@ -4386,7 +4362,7 @@
     "location": "Can Tho, Vietnam",
     "company": "VNUHCM",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-04-25T07:35:17Z"
@@ -4400,7 +4376,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 76,
     "createdAt": "2026-01-02T13:16:41Z"
   },
   {
@@ -4434,9 +4410,9 @@
     "location": "Can Tho, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2026-04-25T08:01:54Z"
   },
   {
@@ -4446,9 +4422,9 @@
     "location": "Vietnam",
     "company": "HCMUTE",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 192,
     "createdAt": "2026-01-12T12:47:12Z"
   },
   {

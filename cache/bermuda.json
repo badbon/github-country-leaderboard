@@ -4194,9 +4194,9 @@
     "location": "Hamilton ",
     "company": "SuperI.TBoyz",
     "twitterUsername": "",
-    "followers": 54,
-    "privateContributions": 28,
-    "publicContributions": 398,
+    "followers": 53,
+    "privateContributions": 30,
+    "publicContributions": 399,
     "createdAt": "2019-06-10T11:50:16Z"
   },
   {
@@ -4218,9 +4218,9 @@
     "location": "Hamilton, Ontario",
     "company": "University of Waterloo",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 28,
     "privateContributions": 53,
-    "publicContributions": 114,
+    "publicContributions": 92,
     "createdAt": "2019-01-29T16:42:02Z"
   },
   {
@@ -4231,7 +4231,7 @@
     "company": "Reviewerly",
     "twitterUsername": "peteryang854",
     "followers": 24,
-    "privateContributions": 164,
+    "privateContributions": 141,
     "publicContributions": 89,
     "createdAt": "2019-07-03T18:29:41Z"
   },
@@ -4242,9 +4242,9 @@
     "location": "Winnipeg, MB - Hamilton, ON",
     "company": "@MLH-Fellowship, @McMasterNEUDOSE, @macformula ",
     "twitterUsername": "Tegh25",
-    "followers": 19,
-    "privateContributions": 56,
-    "publicContributions": 145,
+    "followers": 21,
+    "privateContributions": 50,
+    "publicContributions": 178,
     "createdAt": "2019-03-05T18:29:27Z"
   },
   {
@@ -4254,7 +4254,7 @@
     "location": "Hamilton, ON",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 149,
     "createdAt": "2019-02-14T03:54:06Z"
@@ -4268,7 +4268,7 @@
     "twitterUsername": "sammy_dods",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2019-12-10T20:56:39Z"
   },
   {
@@ -4280,7 +4280,7 @@
     "twitterUsername": "zhangweicoco",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 15,
     "createdAt": "2019-01-02T11:01:50Z"
   },
   {
@@ -4303,8 +4303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 186,
-    "publicContributions": 239,
+    "privateContributions": 178,
+    "publicContributions": 140,
     "createdAt": "2019-08-11T02:04:20Z"
   },
   {
@@ -4314,8 +4314,8 @@
     "location": "Hamilton, NJ",
     "company": "Naval Air Systems Command (NAVAIR)",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 24,
+    "followers": 8,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2019-11-07T17:40:22Z"
   },
@@ -4326,22 +4326,10 @@
     "location": "Hamilton, ON",
     "company": "University of Toronto",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-10-17T22:16:24Z"
-  },
-  {
-    "login": "PaulDuanGitHub",
-    "name": "Xianzhao Duan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58537505?s=72&u=de76e50c643a4ffbb3ebdbbe4294962326e496db&v=4",
-    "location": "Hamilton",
-    "company": "McMaster University",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 17,
-    "publicContributions": 112,
-    "createdAt": "2019-12-05T01:24:30Z"
   },
   {
     "login": "nckdhl",
@@ -4350,8 +4338,8 @@
     "location": "Hamilton",
     "company": "Solodigitalis",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 4166,
+    "followers": 10,
+    "privateContributions": 5556,
     "publicContributions": 1,
     "createdAt": "2019-01-13T18:09:39Z"
   },
@@ -4363,8 +4351,8 @@
     "company": "McMaster University",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 230,
+    "privateContributions": 2,
+    "publicContributions": 207,
     "createdAt": "2019-11-28T19:09:39Z"
   },
   {
@@ -4375,7 +4363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 196,
+    "privateContributions": 197,
     "publicContributions": 0,
     "createdAt": "2019-04-01T01:31:58Z"
   },

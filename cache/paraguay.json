@@ -4230,9 +4230,9 @@
     "location": "Asunción, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 339,
-    "publicContributions": 2,
+    "followers": 22,
+    "privateContributions": 438,
+    "publicContributions": 0,
     "createdAt": "2021-12-28T22:34:38Z"
   },
   {
@@ -4242,9 +4242,9 @@
     "location": "Encarnacion, Itapua, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 2,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-09-16T11:59:35Z"
   },
   {
@@ -4255,8 +4255,8 @@
     "company": "BrosCo SA ",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 617,
-    "publicContributions": 6,
+    "privateContributions": 778,
+    "publicContributions": 5,
     "createdAt": "2022-02-11T18:28:20Z"
   },
   {
@@ -4266,8 +4266,8 @@
     "location": "Paraguay",
     "company": "CLT S.A",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 213,
+    "followers": 21,
+    "privateContributions": 88,
     "publicContributions": 4,
     "createdAt": "2022-10-23T02:37:01Z"
   },
@@ -4278,9 +4278,9 @@
     "location": "Encarnación, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-10-22T18:31:56Z"
   },
   {
@@ -4290,9 +4290,9 @@
     "location": "paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 2948,
+    "publicContributions": 394,
     "createdAt": "2022-06-06T13:49:21Z"
   },
   {
@@ -4316,7 +4316,7 @@
     "twitterUsername": "ElEtzeee",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 26,
     "createdAt": "2022-01-16T12:43:58Z"
   },
   {
@@ -4338,7 +4338,7 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-09T17:57:53Z"
@@ -4350,22 +4350,10 @@
     "location": "Encarnación, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2022-09-15T18:52:18Z"
-  },
-  {
-    "login": "LuciaNishimiya",
-    "name": "Lucia Nishimiya ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108133811?s=72&u=d13dbf95612fe512d76c61c9132df2b903a455e6&v=4",
-    "location": "Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 31,
-    "publicContributions": 47,
-    "createdAt": "2022-06-24T12:50:03Z"
   },
   {
     "login": "carlobeni",
@@ -4376,7 +4364,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 379,
     "createdAt": "2022-07-28T01:19:23Z"
   },
   {
@@ -4386,7 +4374,7 @@
     "location": "Julián Augusto Saldívar, Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2022-02-10T14:08:05Z"
@@ -4400,7 +4388,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-03-15T16:58:30Z"
   },
   {
@@ -4411,8 +4399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 6,
-    "publicContributions": 40,
+    "privateContributions": 4,
+    "publicContributions": 29,
     "createdAt": "2022-05-20T02:50:09Z"
   },
   {
@@ -4423,21 +4411,9 @@
     "company": "Student ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 318,
+    "privateContributions": 720,
     "publicContributions": 5,
     "createdAt": "2022-11-18T14:20:38Z"
-  },
-  {
-    "login": "Hakapichona",
-    "name": "Hakapichona",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106496697?s=72&u=af3d6836985b65e5371972b9358b01586b0f0ae1&v=4",
-    "location": "Asuncion, Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 406,
-    "publicContributions": 67,
-    "createdAt": "2022-05-29T23:25:14Z"
   },
   {
     "login": "JuanseColina",
@@ -4446,21 +4422,21 @@
     "location": "Asuncion, Paraguay",
     "company": "Roshka",
     "twitterUsername": "Juanse_bas",
-    "followers": 9,
-    "privateContributions": 310,
-    "publicContributions": 12,
+    "followers": 8,
+    "privateContributions": 299,
+    "publicContributions": 15,
     "createdAt": "2022-02-22T12:33:36Z"
   },
   {
     "login": "davidgimenezs",
     "name": "David Giménez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114882935?s=72&u=74a38cf324367544747af147572d6442669090ff&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114882935?s=72&u=d82081216f1bcc60d45683d8ae014180ec53eeed&v=4",
     "location": "Paraguay",
     "company": "Universidad Nacional de Asunción",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 367,
-    "publicContributions": 171,
+    "followers": 11,
+    "privateContributions": 517,
+    "publicContributions": 144,
     "createdAt": "2022-10-02T20:51:21Z"
   },
   {

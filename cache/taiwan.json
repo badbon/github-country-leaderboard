@@ -4172,7 +4172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 58,
     "createdAt": "2025-04-26T15:00:20Z"
   },
   {
@@ -4184,7 +4184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 140,
     "createdAt": "2025-06-17T12:01:21Z"
   },
   {
@@ -4200,18 +4200,6 @@
     "createdAt": "2025-07-30T06:40:36Z"
   },
   {
-    "login": "Ethanchen168",
-    "name": "Ethan Chen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205495853?s=72&u=269e55c3c52324cd3052a99cb6bd396d5a806ee1&v=4",
-    "location": "Taipei",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2025-03-30T07:10:22Z"
-  },
-  {
     "login": "stevehsu0517",
     "name": "Steve Hsu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/236578572?s=72&v=4",
@@ -4220,7 +4208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-07T10:48:37Z"
   },
   {
@@ -4254,7 +4242,7 @@
     "location": "Taipei",
     "company": "ASUS",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-02T06:45:24Z"
@@ -4266,7 +4254,7 @@
     "location": "Taipei",
     "company": "NTU",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2025-02-18T06:28:36Z"
@@ -4292,7 +4280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 73,
     "createdAt": "2025-09-11T22:50:04Z"
   },
   {
@@ -4304,7 +4292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2025-02-09T13:52:55Z"
   },
   {
@@ -4364,7 +4352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 188,
+    "publicContributions": 267,
     "createdAt": "2025-11-13T07:14:12Z"
   },
   {
@@ -4374,7 +4362,7 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-25T10:17:44Z"
@@ -4388,20 +4376,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 49,
     "createdAt": "2025-07-07T05:54:32Z"
-  },
-  {
-    "login": "Mahdin4sure",
-    "name": "MahdinOriginal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183899034?s=72&u=0721d0d579e3df6cf652d2c1d447721de393fda4&v=4",
-    "location": "Republic Of China",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 38,
-    "publicContributions": 82,
-    "createdAt": "2024-10-05T06:53:10Z"
   },
   {
     "login": "Thanh-Nguyen-Sy",

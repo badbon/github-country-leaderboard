@@ -4196,7 +4196,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2025-09-05T15:28:41Z"
   },
   {
@@ -4218,9 +4218,9 @@
     "location": "Kigali ",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 181,
     "createdAt": "2025-01-21T08:36:38Z"
   },
   {
@@ -4230,9 +4230,9 @@
     "location": "Kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 151,
-    "publicContributions": 430,
+    "followers": 34,
+    "privateContributions": 166,
+    "publicContributions": 423,
     "createdAt": "2025-05-16T10:02:18Z"
   },
   {
@@ -4242,9 +4242,9 @@
     "location": "Kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 313,
-    "publicContributions": 223,
+    "followers": 8,
+    "privateContributions": 290,
+    "publicContributions": 570,
     "createdAt": "2025-02-21T10:29:12Z"
   },
   {
@@ -4255,8 +4255,8 @@
     "company": "Trevor",
     "twitterUsername": "arnaud_hirw",
     "followers": 8,
-    "privateContributions": 33,
-    "publicContributions": 121,
+    "privateContributions": 18,
+    "publicContributions": 57,
     "createdAt": "2025-05-12T13:58:28Z"
   },
   {
@@ -4266,9 +4266,9 @@
     "location": "Kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 2843,
-    "publicContributions": 2220,
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 2154,
     "createdAt": "2025-02-03T21:30:18Z"
   },
   {
@@ -4290,9 +4290,9 @@
     "location": "Kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 122,
-    "publicContributions": 1412,
+    "followers": 7,
+    "privateContributions": 149,
+    "publicContributions": 1291,
     "createdAt": "2025-01-08T09:58:26Z"
   },
   {
@@ -4302,9 +4302,9 @@
     "location": "kagarama, kicukiro,kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 1,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2025-08-06T10:14:00Z"
   },
   {
@@ -4314,9 +4314,9 @@
     "location": "Norrsken House Kigali ",
     "company": "CoreNestConsultating ",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 442,
+    "publicContributions": 345,
     "createdAt": "2025-04-19T13:01:36Z"
   },
   {
@@ -4328,7 +4328,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2025-09-15T17:31:39Z"
   },
   {
@@ -4340,7 +4340,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2025-03-24T18:45:22Z"
   },
   {
@@ -4351,21 +4351,9 @@
     "company": "Klab.rw",
     "twitterUsername": "AIandGrowth",
     "followers": 2,
-    "privateContributions": 1210,
-    "publicContributions": 274,
+    "privateContributions": 1798,
+    "publicContributions": 247,
     "createdAt": "2025-08-20T14:56:17Z"
-  },
-  {
-    "login": "kwibeda",
-    "name": "Beda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/241909145?s=72&u=d7f8a58828b239645c9747debafbbb6702942d12&v=4",
-    "location": "Kigali ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2025-11-04T06:20:29Z"
   },
   {
     "login": "Tuyisenge-alex",
@@ -4376,7 +4364,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 62,
     "createdAt": "2025-04-19T13:05:23Z"
   },
   {
@@ -4388,7 +4376,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 23,
     "createdAt": "2025-11-06T05:11:50Z"
   },
   {
@@ -4398,7 +4386,7 @@
     "location": "Kigali",
     "company": "MOTNIX TECH",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2025-07-23T07:47:12Z"

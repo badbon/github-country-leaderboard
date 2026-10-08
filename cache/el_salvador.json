@@ -4207,8 +4207,8 @@
     "company": "SeedCodeSV",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1401,
-    "publicContributions": 0,
+    "privateContributions": 1613,
+    "publicContributions": 7,
     "createdAt": "2023-05-03T19:51:13Z"
   },
   {
@@ -4260,18 +4260,6 @@
     "createdAt": "2023-03-23T22:36:12Z"
   },
   {
-    "login": "Miguel203Sopa",
-    "name": "Miguel Vega",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150635001?s=72&u=134d55ae7fc8c72172741f4f2518a48b9ab40e77&v=4",
-    "location": "El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 170,
-    "createdAt": "2023-11-13T01:02:18Z"
-  },
-  {
     "login": "Quibylix",
     "name": "Fredi Manuel Barraza Hernández",
     "avatarUrl": "https://avatars.githubusercontent.com/u/146129779?s=72&u=9c9f4b75a67205b91d722c70edfe1e590d67450e&v=4",
@@ -4280,7 +4268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 519,
+    "publicContributions": 565,
     "createdAt": "2023-09-26T19:03:03Z"
   },
   {
@@ -4304,7 +4292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 382,
+    "publicContributions": 257,
     "createdAt": "2023-11-22T05:02:11Z"
   },
   {
@@ -4340,7 +4328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 43,
     "createdAt": "2023-01-28T16:41:55Z"
   },
   {
@@ -4351,8 +4339,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 861,
-    "publicContributions": 42,
+    "privateContributions": 746,
+    "publicContributions": 51,
     "createdAt": "2023-01-10T19:32:50Z"
   },
   {
@@ -4364,7 +4352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 24,
     "createdAt": "2023-05-03T23:51:48Z"
   },
   {
@@ -4375,8 +4363,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 316,
-    "publicContributions": 12,
+    "privateContributions": 263,
+    "publicContributions": 9,
     "createdAt": "2023-09-11T02:31:09Z"
   },
   {
@@ -4412,20 +4400,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 18,
     "createdAt": "2023-11-08T15:22:04Z"
-  },
-  {
-    "login": "VivasHR",
-    "name": "Eduardo Vivas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143985883?s=72&u=dc2b8e24daef60d91262d71b4fb40dec422d3c6b&v=4",
-    "location": "El Salvador",
-    "company": "SERFINSA",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-09-04T04:20:52Z"
   },
   {
     "login": "MarvinGonzalez0",

@@ -4254,9 +4254,9 @@
     "location": "Victoria, BC",
     "company": "Zetron, a Codan Company",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 68,
     "createdAt": "2021-12-19T06:57:28Z"
   },
   {
@@ -4267,8 +4267,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2913,
-    "publicContributions": 7,
+    "privateContributions": 4435,
+    "publicContributions": 8,
     "createdAt": "2021-01-21T17:30:38Z"
   },
   {
@@ -4303,8 +4303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 233,
+    "privateContributions": 5,
+    "publicContributions": 229,
     "createdAt": "2021-07-23T03:36:53Z"
   },
   {
@@ -4378,18 +4378,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-23T23:52:22Z"
-  },
-  {
-    "login": "emerywhitney-zz",
-    "name": "Emery Whitney",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83721630?s=72&v=4",
-    "location": "Victoria, BC",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-05-05T16:50:41Z"
   },
   {
     "login": "mfioretti-gp",

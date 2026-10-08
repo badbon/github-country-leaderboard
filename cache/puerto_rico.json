@@ -4279,8 +4279,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 334,
-    "publicContributions": 0,
+    "privateContributions": 595,
+    "publicContributions": 7,
     "createdAt": "2022-08-06T16:08:14Z"
   },
   {
@@ -4316,7 +4316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 119,
     "createdAt": "2022-06-09T12:44:54Z"
   },
   {
@@ -4400,20 +4400,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 163,
     "createdAt": "2022-05-17T12:02:08Z"
-  },
-  {
-    "login": "robertpaddon",
-    "name": "Robert Locke-Paddon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99567303?s=72&u=6bfd83111ffd0ea37d93344b922d9c212c03d497&v=4",
-    "location": "San Juan Bautista, CA",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-02-13T00:57:36Z"
   },
   {
     "login": "giuquiroz",
@@ -4447,7 +4435,7 @@
     "company": "dBloks",
     "twitterUsername": "gianyopr",
     "followers": 1,
-    "privateContributions": 208,
+    "privateContributions": 164,
     "publicContributions": 0,
     "createdAt": "2022-04-22T16:04:25Z"
   },
@@ -4458,7 +4446,7 @@
     "location": "Puerto Rico ",
     "company": "G.A",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-29T15:53:19Z"
@@ -4471,7 +4459,7 @@
     "company": "University of Puerto Rico at Mayagüez",
     "twitterUsername": "romerocruzsa",
     "followers": 34,
-    "privateContributions": 384,
+    "privateContributions": 421,
     "publicContributions": 44,
     "createdAt": "2021-06-17T13:22:39Z"
   },
@@ -4482,7 +4470,7 @@
     "location": "Puerto Rico, Misiones, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 26,
     "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2021-11-30T00:16:50Z"
@@ -4494,8 +4482,8 @@
     "location": "Puerto Rico ",
     "company": "Independiente",
     "twitterUsername": "kukitoweb",
-    "followers": 28,
-    "privateContributions": 41,
+    "followers": 30,
+    "privateContributions": 42,
     "publicContributions": 74,
     "createdAt": "2021-07-17T15:28:15Z"
   },

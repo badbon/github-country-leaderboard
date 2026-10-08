@@ -4218,7 +4218,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 237,
     "createdAt": "2025-12-04T12:07:27Z"
@@ -4232,20 +4232,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2025-04-29T18:24:06Z"
-  },
-  {
-    "login": "SO-Geomatics",
-    "name": "Simeon Oppliger",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208458987?s=72&u=05d5fee11662347407ea81d03d28adecc1e1e2be&v=4",
-    "location": "Switzerland, Bern",
-    "company": "SO-Geomatics",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-04-21T09:42:32Z"
   },
   {
     "login": "isenschmid",
@@ -4302,7 +4290,7 @@
     "location": "Zurich, Switzerland",
     "company": "ETH Zurich",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2025-01-11T11:40:10Z"
@@ -4316,7 +4304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 39,
     "createdAt": "2025-03-12T04:05:45Z"
   },
   {
@@ -4326,8 +4314,8 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 344,
+    "followers": 2,
+    "privateContributions": 272,
     "publicContributions": 0,
     "createdAt": "2025-07-07T12:24:19Z"
   },
@@ -4340,7 +4328,7 @@
     "twitterUsername": "Rebel_Suisse",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 321,
+    "publicContributions": 475,
     "createdAt": "2025-11-11T11:31:00Z"
   },
   {
@@ -4351,8 +4339,8 @@
     "company": "@FHNW",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 22,
-    "publicContributions": 234,
+    "privateContributions": 23,
+    "publicContributions": 233,
     "createdAt": "2025-09-13T21:32:07Z"
   },
   {
@@ -4374,7 +4362,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-16T19:29:17Z"
@@ -4400,7 +4388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-08-17T10:52:59Z"
   },
   {
@@ -4418,7 +4406,7 @@
   {
     "login": "TechVerdi",
     "name": "TechVerdi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225518935?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225518935?s=72&u=53b70626ff5a307cab14bc2edc5aa6b46da620fd&v=4",
     "location": "Pully, Switzerland.",
     "company": "TechVerdi",
     "twitterUsername": "TechVerdi",
@@ -4434,9 +4422,9 @@
     "location": "Switzerland",
     "company": "neuronic.ch",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3968,
-    "publicContributions": 0,
+    "followers": 2,
+    "privateContributions": 3905,
+    "publicContributions": 1,
     "createdAt": "2025-05-22T13:19:21Z"
   },
   {

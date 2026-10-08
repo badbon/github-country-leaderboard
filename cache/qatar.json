@@ -4208,7 +4208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 36,
     "createdAt": "2022-11-08T21:35:30Z"
   },
   {
@@ -4231,7 +4231,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1393,
+    "privateContributions": 1341,
     "publicContributions": 6,
     "createdAt": "2022-12-16T11:23:15Z"
   },
@@ -4244,7 +4244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2022-06-18T17:54:26Z"
   },
   {
@@ -4256,7 +4256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 271,
+    "publicContributions": 256,
     "createdAt": "2022-08-13T12:41:21Z"
   },
   {
@@ -4266,9 +4266,9 @@
     "location": "Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 568,
-    "privateContributions": 38,
-    "publicContributions": 2,
+    "followers": 565,
+    "privateContributions": 805,
+    "publicContributions": 1,
     "createdAt": "2021-04-25T12:22:00Z"
   },
   {
@@ -4278,9 +4278,9 @@
     "location": "Al-Rayyan, Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 106,
+    "followers": 107,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 178,
     "createdAt": "2021-09-26T16:59:22Z"
   },
   {
@@ -4290,7 +4290,7 @@
     "location": "Al-Wakrah, Qatar",
     "company": "Software Engineer",
     "twitterUsername": "brainconnect0",
-    "followers": 98,
+    "followers": 100,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-06T05:53:28Z"
@@ -4302,9 +4302,9 @@
     "location": "Doha, Qatar",
     "company": "WorldWebTree",
     "twitterUsername": "behramkttk",
-    "followers": 91,
-    "privateContributions": 256,
-    "publicContributions": 154,
+    "followers": 86,
+    "privateContributions": 108,
+    "publicContributions": 81,
     "createdAt": "2021-03-20T18:14:32Z"
   },
   {
@@ -4314,21 +4314,21 @@
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "javamind_",
-    "followers": 59,
-    "privateContributions": 1610,
-    "publicContributions": 311,
+    "followers": 61,
+    "privateContributions": 2357,
+    "publicContributions": 596,
     "createdAt": "2021-09-10T08:15:53Z"
   },
   {
     "login": "muhammadqazi",
     "name": "Muhammad Qazi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86423826?s=72&u=282e7cbda8b3cf17ea1b48828a42d70828af9dbc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86423826?s=72&v=4",
     "location": "Doha, Qatar",
     "company": "Voultrex",
     "twitterUsername": "",
     "followers": 59,
-    "privateContributions": 1416,
-    "publicContributions": 4,
+    "privateContributions": 2568,
+    "publicContributions": 675,
     "createdAt": "2021-06-24T15:21:15Z"
   },
   {
@@ -4338,9 +4338,9 @@
     "location": "Doha, Qatar",
     "company": "Commercial Bank of Qatar",
     "twitterUsername": "factopediac",
-    "followers": 57,
-    "privateContributions": 88,
-    "publicContributions": 287,
+    "followers": 59,
+    "privateContributions": 87,
+    "publicContributions": 293,
     "createdAt": "2021-02-08T09:54:19Z"
   },
   {
@@ -4351,8 +4351,8 @@
     "company": "nil",
     "twitterUsername": "a7med7alghali",
     "followers": 40,
-    "privateContributions": 272,
-    "publicContributions": 574,
+    "privateContributions": 528,
+    "publicContributions": 455,
     "createdAt": "2021-12-05T22:45:17Z"
   },
   {
@@ -4362,7 +4362,7 @@
     "location": "Doha,Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-31T18:17:17Z"
@@ -4375,8 +4375,8 @@
     "company": "Teciza Solutions",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 3891,
-    "publicContributions": 18,
+    "privateContributions": 3955,
+    "publicContributions": 20,
     "createdAt": "2021-10-04T13:51:59Z"
   },
   {
@@ -4386,9 +4386,9 @@
     "location": "Calicut | Qatar",
     "company": "Blaze Technology Solutions",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 2878,
-    "publicContributions": 27,
+    "followers": 27,
+    "privateContributions": 3454,
+    "publicContributions": 33,
     "createdAt": "2020-12-29T13:12:14Z"
   },
   {
@@ -12934,5 +12934,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-21T21:25:14Z"
+  },
+  {
+    "login": "Xset-Gg",
+    "name": "Awab Rehman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/256999975?s=72&u=dd2393429a6f4e155c0215a161a0aabb2bc98793&v=4",
+    "location": "Qatar",
+    "company": "Audify",
+    "twitterUsername": "MR_Buildnowgg",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-01-24T16:09:58Z"
   }
 ]

@@ -4495,7 +4495,7 @@
     "company": "Infobip",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 91,
+    "privateContributions": 146,
     "publicContributions": 114,
     "createdAt": "2023-10-18T14:33:30Z"
   },
@@ -4507,8 +4507,8 @@
     "company": "Xylon d.o.o",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 162,
-    "publicContributions": 3472,
+    "privateContributions": 76,
+    "publicContributions": 3806,
     "createdAt": "2023-09-05T07:12:39Z"
   },
   {
@@ -4519,7 +4519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4,
+    "privateContributions": 5,
     "publicContributions": 3,
     "createdAt": "2023-09-03T16:11:16Z"
   },
@@ -4544,7 +4544,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 39,
     "createdAt": "2023-10-14T18:29:45Z"
   },
   {
@@ -4555,8 +4555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 75,
-    "publicContributions": 8,
+    "privateContributions": 69,
+    "publicContributions": 7,
     "createdAt": "2023-04-08T15:11:43Z"
   },
   {
@@ -4580,7 +4580,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 29,
     "createdAt": "2023-06-15T06:53:41Z"
   },
   {
@@ -4590,7 +4590,7 @@
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-19T00:39:01Z"
@@ -4615,7 +4615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 54,
+    "privateContributions": 48,
     "publicContributions": 0,
     "createdAt": "2023-01-13T18:09:30Z"
   },
@@ -4628,7 +4628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 34,
     "createdAt": "2023-04-24T19:12:43Z"
   },
   {
@@ -4664,7 +4664,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 65,
     "createdAt": "2023-09-04T09:57:11Z"
   },
   {
@@ -4680,18 +4680,6 @@
     "createdAt": "2023-05-26T16:41:47Z"
   },
   {
-    "login": "roko-cubric",
-    "name": "Roko Čubrić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147169388?s=72&u=eede90b4f6cbbf80eb93cdc0e0eb68b286983d52&v=4",
-    "location": "Zagreb",
-    "company": "Faculty of Electrical Engineering and Computing, University of Zagreb",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 568,
-    "publicContributions": 254,
-    "createdAt": "2023-10-06T13:44:10Z"
-  },
-  {
     "login": "lukaCodes99",
     "name": "Luka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126253179?s=72&v=4",
@@ -4699,7 +4687,7 @@
     "company": "Infoscope d.o.o.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 129,
+    "privateContributions": 167,
     "publicContributions": 31,
     "createdAt": "2023-02-24T12:01:44Z"
   },
@@ -4723,7 +4711,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2029,
+    "privateContributions": 2392,
     "publicContributions": 44,
     "createdAt": "2023-01-04T12:46:41Z"
   },
