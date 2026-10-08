@@ -2588,7 +2588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2026-05-04T00:06:39Z"
   },
   {
@@ -2600,7 +2600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 90,
     "createdAt": "2026-04-06T01:34:20Z"
   },
   {
@@ -2628,18 +2628,6 @@
     "createdAt": "2026-04-02T03:08:16Z"
   },
   {
-    "login": "martinmoya-focus",
-    "name": "Martin Moya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/256842963?s=72&u=742cf491f8a2910d70620c37dbe655048717c7f5&v=4",
-    "location": "Rosario, Santa Fe, Argentina",
-    "company": "Focus",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2026-01-23T17:38:08Z"
-  },
-  {
     "login": "nadiagonzalez94",
     "name": "Na",
     "avatarUrl": "https://avatars.githubusercontent.com/u/258314867?s=72&v=4",
@@ -2660,7 +2648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2094,
+    "publicContributions": 2483,
     "createdAt": "2026-04-13T17:02:08Z"
   },
   {
@@ -2672,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2026-02-26T21:40:11Z"
   },
   {
@@ -2684,7 +2672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2026-03-19T11:16:16Z"
   },
   {
@@ -2696,7 +2684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2025-12-30T12:36:02Z"
   },
   {
@@ -2719,7 +2707,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 46,
+    "privateContributions": 79,
     "publicContributions": 1,
     "createdAt": "2026-04-07T19:56:15Z"
   },
@@ -2732,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 87,
     "createdAt": "2026-04-06T16:42:39Z"
   },
   {
@@ -2778,7 +2766,7 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2026-02-23T17:24:55Z"

@@ -2827,8 +2827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 48,
-    "publicContributions": 29,
+    "privateContributions": 54,
+    "publicContributions": 42,
     "createdAt": "2020-08-10T14:42:35Z"
   },
   {
@@ -2839,7 +2839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 108,
+    "privateContributions": 122,
     "publicContributions": 0,
     "createdAt": "2020-01-16T00:50:11Z"
   },
@@ -2852,7 +2852,7 @@
     "twitterUsername": "SyntaxError2048",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 179,
     "createdAt": "2020-06-10T04:26:07Z"
   },
   {
@@ -2923,7 +2923,7 @@
     "company": "obscura.services",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 354,
+    "privateContributions": 259,
     "publicContributions": 3,
     "createdAt": "2020-02-01T05:35:26Z"
   },
@@ -2965,14 +2965,14 @@
   },
   {
     "login": "Dhoru",
-    "name": "",
+    "name": "Muhammad Ammar Faisal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/70144216?s=72&u=0fdea5426d9834a679f72b396d5edf38b14c4f51&v=4",
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 8,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-08-24T11:52:49Z"
   },
   {
@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 25,
     "createdAt": "2020-12-09T11:39:08Z"
   },
   {
@@ -3032,7 +3032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 58,
     "createdAt": "2020-08-06T21:47:39Z"
   },
   {

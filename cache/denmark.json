@@ -2810,13 +2810,13 @@
   {
     "login": "KasperRavn",
     "name": "Kasper Ravn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238505078?s=72&u=7ca0217d40b389e02b113490d6d183d6a33d85c0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238505078?s=72&u=c54316393df8366dfccfe17a4cf9b0493432252a&v=4",
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "KapperRavn",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 53,
     "createdAt": "2025-10-16T14:27:56Z"
   },
   {
@@ -2828,7 +2828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 76,
     "createdAt": "2025-02-04T09:12:29Z"
   },
   {
@@ -2838,9 +2838,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 96,
     "createdAt": "2025-01-22T07:40:13Z"
   },
   {
@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 115,
     "createdAt": "2025-02-10T12:28:53Z"
   },
   {
@@ -2887,7 +2887,7 @@
     "company": "@Mass-IT-ApS ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1094,
     "publicContributions": 0,
     "createdAt": "2025-06-16T18:09:08Z"
   },
@@ -2924,7 +2924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 32,
     "createdAt": "2025-02-24T08:33:10Z"
   },
   {
@@ -2936,7 +2936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 33,
     "createdAt": "2025-03-04T12:33:48Z"
   },
   {
@@ -2948,7 +2948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 19,
     "createdAt": "2025-04-26T10:01:32Z"
   },
   {
@@ -2972,7 +2972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-24T03:32:54Z"
   },
   {
@@ -2984,7 +2984,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-08-16T07:24:08Z"
   },
   {
@@ -2996,7 +2996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 26,
     "createdAt": "2025-09-19T09:09:06Z"
   },
   {
@@ -231586,5 +231586,209 @@
     "privateContributions": 177,
     "publicContributions": 94,
     "createdAt": "2025-04-23T00:35:38Z"
+  },
+  {
+    "login": "92kszwv5gr-blip",
+    "name": "AkwrdOS",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295409261?s=72&u=5f3265e5f910b148afa9a1f8b1aa71705b381036&v=4",
+    "location": "Denmark ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2026-06-20T16:28:54Z"
+  },
+  {
+    "login": "Teloz1870",
+    "name": "Kenni Madsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285280158?s=72&v=4",
+    "location": "Denmark ",
+    "company": "Company: Teloz ApS",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 718,
+    "createdAt": "2026-05-16T19:44:57Z"
+  },
+  {
+    "login": "delphinepersson58",
+    "name": "Delphine Persson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284515919?s=72&v=4",
+    "location": "Copenhagen, Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-14T04:23:10Z"
+  },
+  {
+    "login": "rebel-doomer",
+    "name": "Jesse",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285633689?s=72&u=a9c09798044cbe36c959a680575b827148a68a61&v=4",
+    "location": "Denmark",
+    "company": "ZBC",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 11,
+    "publicContributions": 497,
+    "createdAt": "2026-05-18T09:12:42Z"
+  },
+  {
+    "login": "georgeovuworie9z",
+    "name": "SHADY",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290170152?s=72&u=0f3b5826446a9b3ff7514dc66151d028b8cc4343&v=4",
+    "location": "Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2026-06-02T21:29:04Z"
+  },
+  {
+    "login": "janet02341",
+    "name": "Marie Lopes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293538405?s=72&v=4",
+    "location": "клх Люберцы, Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-14T08:15:09Z"
+  },
+  {
+    "login": "kasperlangberg09",
+    "name": "Kasper Langberg Jensen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285793818?s=72&v=4",
+    "location": "Denmark",
+    "company": "Fourtec",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-18T19:09:54Z"
+  },
+  {
+    "login": "dalby-md",
+    "name": "Søren Dalby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294884941?s=72&v=4",
+    "location": "Odense, Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 217,
+    "createdAt": "2026-06-18T16:46:22Z"
+  },
+  {
+    "login": "Elven-Foundry",
+    "name": "Elven Foundry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285811752?s=72&u=382a1e46ade6f886e12548fbbac68cf7caa5718e&v=4",
+    "location": "Denmark",
+    "company": "Elven Foundry",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-18T20:36:03Z"
+  },
+  {
+    "login": "Brandsurface",
+    "name": "BrandSurface",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286314207?s=72&u=8b7c5dac0c830d67ed10b80089e5fe74159998dd&v=4",
+    "location": "Denmark",
+    "company": "BrandSurface",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 416,
+    "createdAt": "2026-05-20T11:11:54Z"
+  },
+  {
+    "login": "MarteKalbe",
+    "name": "Sebastian Voss",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290186499?s=72&v=4",
+    "location": "Copenhagen, Denmark",
+    "company": "@netflix",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-02T23:13:07Z"
+  },
+  {
+    "login": "ambysin03",
+    "name": "Ambarish Kumar Singh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293818221?s=72&u=c6cf6853b5ad605d4d16dd80fe102619585397e8&v=4",
+    "location": "Denmark",
+    "company": "Arristal",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-15T09:53:52Z"
+  },
+  {
+    "login": "nurunnaharnody0011",
+    "name": "Nurunnahar Nody",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284387089?s=72&u=10be25fdc6afd60984c8482f3850a508fc681f91&v=4",
+    "location": "Aarhus,Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 121,
+    "createdAt": "2026-05-13T16:53:39Z"
+  },
+  {
+    "login": "nidoeffection",
+    "name": "Nico",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293053522?s=72&v=4",
+    "location": "Denmark",
+    "company": "Effection A/S",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-12T09:33:33Z"
+  },
+  {
+    "login": "bidyanath77",
+    "name": "Bidya Kumari Nath",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285520715?s=72&u=8ede9332577442391b7fa9caa569f657e225a6a3&v=4",
+    "location": "Copenhagen, Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-05-17T22:59:07Z"
+  },
+  {
+    "login": "patrickrodriguez821",
+    "name": "Nicole Bourgeois",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293525375?s=72&v=4",
+    "location": "Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-14T06:54:12Z"
+  },
+  {
+    "login": "XaduzuJu22",
+    "name": "Dennis Solis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288847371?s=72&v=4",
+    "location": "Lake Janet, Denmark",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-29T06:16:44Z"
   }
 ]

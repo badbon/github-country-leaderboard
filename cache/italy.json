@@ -580615,7 +580615,7 @@
     "company": "",
     "twitterUsername": "dreamquest",
     "followers": 111,
-    "privateContributions": 2110,
+    "privateContributions": 2108,
     "publicContributions": 86,
     "createdAt": "2009-02-02T19:53:19Z"
   },
@@ -580904,7 +580904,7 @@
     "twitterUsername": "gscrivano",
     "followers": 529,
     "privateContributions": 149,
-    "publicContributions": 1639,
+    "publicContributions": 1643,
     "createdAt": "2009-03-26T14:00:53Z"
   },
   {
@@ -580916,7 +580916,7 @@
     "twitterUsername": "",
     "followers": 410,
     "privateContributions": 0,
-    "publicContributions": 11771,
+    "publicContributions": 11879,
     "createdAt": "2009-02-21T14:58:24Z"
   },
   {
@@ -581851,8 +581851,8 @@
     "company": "@RealPage ",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 4394,
-    "publicContributions": 67,
+    "privateContributions": 4433,
+    "publicContributions": 65,
     "createdAt": "2009-05-07T17:55:12Z"
   },
   {
@@ -582175,7 +582175,7 @@
     "company": "setit srl",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1678,
+    "privateContributions": 1743,
     "publicContributions": 61,
     "createdAt": "2009-04-28T21:06:34Z"
   },
@@ -582548,7 +582548,7 @@
     "twitterUsername": "",
     "followers": 115,
     "privateContributions": 0,
-    "publicContributions": 304,
+    "publicContributions": 303,
     "createdAt": "2009-10-21T17:32:10Z"
   },
   {
@@ -582620,7 +582620,7 @@
     "twitterUsername": "madbob",
     "followers": 101,
     "privateContributions": 0,
-    "publicContributions": 343,
+    "publicContributions": 342,
     "createdAt": "2009-12-11T12:08:33Z"
   },
   {
@@ -582787,7 +582787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 69,
-    "privateContributions": 1154,
+    "privateContributions": 1155,
     "publicContributions": 121,
     "createdAt": "2009-09-06T21:01:25Z"
   },
@@ -585430,5 +585430,293 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2009-05-21T12:32:34Z"
+  },
+  {
+    "login": "filosganga",
+    "name": "Filippo De Luca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108663?s=72&v=4",
+    "location": "Rome, IT",
+    "company": "SiriusXM - @SiriusXM",
+    "twitterUsername": "FilippoDeLuca",
+    "followers": 77,
+    "privateContributions": 472,
+    "publicContributions": 289,
+    "createdAt": "2009-07-25T20:14:55Z"
+  },
+  {
+    "login": "lorenzo-rovigatti",
+    "name": "Lorenzo Rovigatti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/68116?s=72&u=f9dc49ee1fa44e0b94ceef7389d67664f4599695&v=4",
+    "location": "Rome",
+    "company": "Sapienza University of Rome",
+    "twitterUsername": "",
+    "followers": 71,
+    "privateContributions": 55,
+    "publicContributions": 255,
+    "createdAt": "2009-03-28T11:37:22Z"
+  },
+  {
+    "login": "LucaLanziani",
+    "name": "Luca Lanziani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46883?s=72&u=3a2b55432b9ee4fc4121bdd5448814f7e582215c&v=4",
+    "location": "Rome",
+    "company": "@nearform",
+    "twitterUsername": "lucalanziani",
+    "followers": 67,
+    "privateContributions": 1342,
+    "publicContributions": 378,
+    "createdAt": "2009-01-15T19:44:20Z"
+  },
+  {
+    "login": "zetareticoli",
+    "name": "Francesco Improta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69706?s=72&u=619f32ae5522bda17ec0194a4054927ff6a98a7f&v=4",
+    "location": "Rome",
+    "company": "@italia ",
+    "twitterUsername": "zetareticoli",
+    "followers": 63,
+    "privateContributions": 443,
+    "publicContributions": 442,
+    "createdAt": "2009-04-02T08:13:07Z"
+  },
+  {
+    "login": "AzraelSec",
+    "name": "Federico",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168504?s=72&u=8fa25b829bd1a9bb978cf48aabe53095f1a35eb6&v=4",
+    "location": "Rome, It",
+    "company": "Resource Guru",
+    "twitterUsername": "Azraelsec",
+    "followers": 44,
+    "privateContributions": 634,
+    "publicContributions": 27,
+    "createdAt": "2009-12-16T17:32:35Z"
+  },
+  {
+    "login": "casarotti",
+    "name": "emanuele casarotti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66408?s=72&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 27,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-03-24T10:10:06Z"
+  },
+  {
+    "login": "exedre",
+    "name": "Emmanuele Somma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82950?s=72&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 25,
+    "privateContributions": 0,
+    "publicContributions": 104,
+    "createdAt": "2009-05-10T13:31:22Z"
+  },
+  {
+    "login": "gbyolo",
+    "name": "gbyolo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156706?s=72&u=e3176ff3f290f5471b1ed60928d533dacf05c6ad&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-11-22T16:15:19Z"
+  },
+  {
+    "login": "darth",
+    "name": "Vadim Alimguzhin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69546?s=72&u=174cdeae0a74a74c46a639c86848d0f4141af719&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2009-04-01T21:13:07Z"
+  },
+  {
+    "login": "adedip",
+    "name": "Andrea D'Ippolito",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106887?s=72&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-07-20T14:47:41Z"
+  },
+  {
+    "login": "andreabat",
+    "name": "Andrea Batazzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70997?s=72&v=4",
+    "location": "Rome",
+    "company": "Top Consulting & Services",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2009-04-06T14:02:31Z"
+  },
+  {
+    "login": "m3m3nto",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51357?s=72&v=4",
+    "location": "Rome",
+    "company": "Altura Labs",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2009-02-03T08:38:33Z"
+  },
+  {
+    "login": "MaxNLIT",
+    "name": "MaxNLIT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/75082?s=72&u=7eb310f28a2fe6cc3804dcf8be07f15798f38bf6&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-04-18T07:31:41Z"
+  },
+  {
+    "login": "gscacco",
+    "name": "Gianluca Scacco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65610?s=72&u=9cb83777f6b3ca6476edd64ebbece20aabc657c2&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2009-03-21T20:45:18Z"
+  },
+  {
+    "login": "nottix",
+    "name": "Simone Notargiacomo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90825?s=72&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2009-06-01T21:38:41Z"
+  },
+  {
+    "login": "andy60",
+    "name": "Andrea Bertini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/72894?s=72&u=2d137f05eb926f37f0c4a4c269fd1715a4f140c6&v=4",
+    "location": "Rome",
+    "company": "Andrea Bertini",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-04-12T03:27:25Z"
+  },
+  {
+    "login": "Salvodif",
+    "name": "BlackPraedicator",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107290?s=72&u=2aece97cba1a070635010fea259341b696fec60f&v=4",
+    "location": "Rome",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2009-07-21T13:58:09Z"
+  },
+  {
+    "login": "pythonyan",
+    "name": "Tony Pierascenzi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139639?s=72&u=c27967ef07cffd0c616505fed52ea67e5b20da6d&v=4",
+    "location": "Rome",
+    "company": "Magneticode",
+    "twitterUsername": "pythonyan",
+    "followers": 7,
+    "privateContributions": 3,
+    "publicContributions": 4,
+    "createdAt": "2009-10-14T10:42:08Z"
+  },
+  {
+    "login": "vivo75",
+    "name": "Francesco Riosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60593?s=72&v=4",
+    "location": "Torino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 12,
+    "publicContributions": 2364,
+    "createdAt": "2009-03-05T22:22:36Z"
+  },
+  {
+    "login": "rivaldid",
+    "name": "Dario 'Dax' Vilardi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102170?s=72&v=4",
+    "location": "Torino",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2009-07-06T15:22:16Z"
+  },
+  {
+    "login": "mprfct",
+    "name": "mprfct",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170550?s=72&v=4",
+    "location": "torino",
+    "company": "imperfect",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2009-12-21T15:17:47Z"
+  },
+  {
+    "login": "FolcaHub",
+    "name": "Folca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99196?s=72&u=c428be7cd3a5ce82a3343d638d903180a56dc142&v=4",
+    "location": "Turin",
+    "company": "Teacher",
+    "twitterUsername": "",
+    "followers": 94,
+    "privateContributions": 3,
+    "publicContributions": 3,
+    "createdAt": "2009-06-26T14:32:32Z"
+  },
+  {
+    "login": "fabiosussetto",
+    "name": "Fabio Sussetto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103664?s=72&u=aadde03e4cb37b142f62b4e238d7ada8f527397a&v=4",
+    "location": "Turin, London",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 37,
+    "privateContributions": 740,
+    "publicContributions": 0,
+    "createdAt": "2009-07-10T14:56:06Z"
+  },
+  {
+    "login": "naufraghi",
+    "name": "Matteo Bertini",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106029?s=72&v=4",
+    "location": "Turin",
+    "company": "@develersrl",
+    "twitterUsername": "naufraghi",
+    "followers": 37,
+    "privateContributions": 13,
+    "publicContributions": 60,
+    "createdAt": "2009-07-17T15:29:47Z"
   }
 ]

@@ -2826,8 +2826,8 @@
     "location": "Jamaica, West Indies",
     "company": "",
     "twitterUsername": "debrakayelliott",
-    "followers": 17,
-    "privateContributions": 8,
+    "followers": 16,
+    "privateContributions": 6,
     "publicContributions": 6,
     "createdAt": "2021-02-02T23:26:09Z"
   },
@@ -2840,7 +2840,7 @@
     "twitterUsername": "god_programming",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 321,
+    "publicContributions": 333,
     "createdAt": "2021-04-06T16:35:06Z"
   },
   {
@@ -2850,7 +2850,7 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 18,
     "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2021-08-12T23:28:25Z"
@@ -2886,21 +2886,21 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 238,
-    "publicContributions": 135,
+    "followers": 14,
+    "privateContributions": 241,
+    "publicContributions": 141,
     "createdAt": "2021-01-22T17:10:40Z"
   },
   {
     "login": "shamar-morrison",
-    "name": "Shamar Morrison",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79437913?s=72&u=51e446fb2ad2ca7fa2c936e642b5fce6437884c1&v=4",
+    "name": "horizon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79437913?s=72&u=2c14b39a0bdf3ea1ed00776f5196c2c2d842073f&v=4",
     "location": "Jamaica",
-    "company": "@EduFocal ",
-    "twitterUsername": "TheAvgCoder",
-    "followers": 11,
-    "privateContributions": 30,
-    "publicContributions": 1972,
+    "company": "",
+    "twitterUsername": "theavgcoder",
+    "followers": 12,
+    "privateContributions": 89,
+    "publicContributions": 2300,
     "createdAt": "2021-02-22T05:42:28Z"
   },
   {
@@ -2910,7 +2910,7 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-04T13:11:41Z"
@@ -2923,21 +2923,9 @@
     "company": "Intellibus, Jamaica",
     "twitterUsername": "MalikDHeron",
     "followers": 9,
-    "privateContributions": 1424,
+    "privateContributions": 1675,
     "publicContributions": 63,
     "createdAt": "2021-08-22T10:17:16Z"
-  },
-  {
-    "login": "KG-DI-KXNG",
-    "name": "Kevando Gordon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84394726?s=72&u=cd910ef2a144ffc721f2a50e799359ecdf8d2882&v=4",
-    "location": "Jamaica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-05-18T14:02:14Z"
   },
   {
     "login": "ARES01XV",
@@ -2959,8 +2947,8 @@
     "company": "AlphaQuants Capital Investment  Fund ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1935,
-    "publicContributions": 97,
+    "privateContributions": 3884,
+    "publicContributions": 188,
     "createdAt": "2021-02-16T16:29:13Z"
   },
   {
@@ -2971,8 +2959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 402,
-    "publicContributions": 76,
+    "privateContributions": 449,
+    "publicContributions": 55,
     "createdAt": "2021-11-25T15:33:31Z"
   },
   {
@@ -2982,9 +2970,9 @@
     "location": "Kingston, Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 70,
-    "publicContributions": 28,
+    "followers": 8,
+    "privateContributions": 59,
+    "publicContributions": 27,
     "createdAt": "2021-10-02T16:53:05Z"
   },
   {
@@ -3032,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 120,
     "createdAt": "2021-08-10T00:49:07Z"
   },
   {

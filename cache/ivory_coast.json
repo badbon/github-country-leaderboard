@@ -2599,21 +2599,9 @@
     "company": "",
     "twitterUsername": "findmr_charles",
     "followers": 3,
-    "privateContributions": 970,
-    "publicContributions": 61,
+    "privateContributions": 978,
+    "publicContributions": 62,
     "createdAt": "2020-10-31T15:37:47Z"
-  },
-  {
-    "login": "supra-code",
-    "name": "David BONGOUADE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60094006?s=72&u=4489d49cea9ca96049d1c80ea41768a14e86dddf&v=4",
-    "location": "Côte d'Ivoire",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 62,
-    "publicContributions": 1,
-    "createdAt": "2020-01-20T09:51:17Z"
   },
   {
     "login": "BALLOIBRAHIM",
@@ -2706,9 +2694,9 @@
     "location": "Abidjan, Côte d'Ivoire",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 21,
     "createdAt": "2020-04-11T15:05:32Z"
   },
   {
@@ -2724,25 +2712,13 @@
     "createdAt": "2020-02-05T14:07:17Z"
   },
   {
-    "login": "siguici",
-    "name": "SIGUI Kessé Emmanuel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62618356?s=72&u=51d53ad2007f00398549c9bcaa421e96cf0ca8c5&v=4",
-    "location": "Abidjan, Ivory Coast",
-    "company": "@Sikessem",
-    "twitterUsername": "siguici",
-    "followers": 30,
-    "privateContributions": 3202,
-    "publicContributions": 901,
-    "createdAt": "2020-03-24T18:36:48Z"
-  },
-  {
     "login": "Nevrit",
     "name": "NevGhost",
     "avatarUrl": "https://avatars.githubusercontent.com/u/72528877?s=72&v=4",
     "location": "Ivory Coast",
     "company": "Halltech-Africa",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-07T22:27:30Z"
@@ -2755,8 +2731,8 @@
     "company": "Menachem Tech",
     "twitterUsername": "Menachem_225",
     "followers": 23,
-    "privateContributions": 190,
-    "publicContributions": 51,
+    "privateContributions": 158,
+    "publicContributions": 34,
     "createdAt": "2020-01-16T01:06:28Z"
   },
   {
@@ -2767,7 +2743,7 @@
     "company": "D3COD Inc.",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 1072,
+    "privateContributions": 1520,
     "publicContributions": 5,
     "createdAt": "2020-05-03T17:51:30Z"
   },
@@ -2779,8 +2755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 2460,
-    "publicContributions": 23,
+    "privateContributions": 3457,
+    "publicContributions": 21,
     "createdAt": "2020-06-22T00:00:05Z"
   },
   {
@@ -2791,7 +2767,7 @@
     "company": "Ofceab-Studio",
     "twitterUsername": "yayahc_",
     "followers": 14,
-    "privateContributions": 2317,
+    "privateContributions": 2371,
     "publicContributions": 238,
     "createdAt": "2020-10-07T15:22:32Z"
   },
@@ -2803,8 +2779,8 @@
     "company": "Ofceab Studio",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 830,
-    "publicContributions": 28,
+    "privateContributions": 1034,
+    "publicContributions": 25,
     "createdAt": "2020-05-14T19:27:00Z"
   },
   {

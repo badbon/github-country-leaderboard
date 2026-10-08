@@ -2599,8 +2599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 381,
-    "publicContributions": 516,
+    "privateContributions": 360,
+    "publicContributions": 54,
     "createdAt": "2024-07-08T07:59:27Z"
   },
   {
@@ -2611,7 +2611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 145,
+    "privateContributions": 12,
     "publicContributions": 5,
     "createdAt": "2024-11-28T03:21:18Z"
   },
@@ -2622,9 +2622,9 @@
     "location": "Bishkek",
     "company": "ODigital",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 19,
     "createdAt": "2024-03-25T12:52:29Z"
   },
   {
@@ -2636,7 +2636,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 5,
-    "publicContributions": 400,
+    "publicContributions": 530,
     "createdAt": "2024-01-25T06:05:38Z"
   },
   {
@@ -2659,7 +2659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 473,
+    "privateContributions": 393,
     "publicContributions": 34,
     "createdAt": "2024-01-29T00:01:57Z"
   },
@@ -2696,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 141,
     "createdAt": "2024-07-10T04:44:42Z"
   },
   {
@@ -2804,7 +2804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2024-09-18T09:43:06Z"
   },
   {
@@ -2818,18 +2818,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-15T11:12:19Z"
-  },
-  {
-    "login": "xsainteer",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156868231?s=72&v=4",
-    "location": "Bishkek",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 88,
-    "publicContributions": 95,
-    "createdAt": "2024-01-17T02:01:21Z"
   },
   {
     "login": "gulnazaarstan",

@@ -2612,7 +2612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 97,
     "createdAt": "2026-01-31T01:04:57Z"
   },
   {
@@ -2660,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 43,
     "createdAt": "2026-02-19T18:26:46Z"
   },
   {
@@ -2688,18 +2688,6 @@
     "createdAt": "2026-05-06T21:39:03Z"
   },
   {
-    "login": "danalejo12",
-    "name": "Alejandro Velasco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/270831567?s=72&u=4b0447c7ad65be1478e313222d26a0b2427837b5&v=4",
-    "location": "Bogotá D.C",
-    "company": "Axa Colpatria",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2026-03-25T03:14:09Z"
-  },
-  {
     "login": "JuanDRodasM",
     "name": "Juan Dario Rodas Marin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/196130314?s=72&u=e40bdd5ee93d3cb9fa4e526ab4eb9f2130a65b1e&v=4",
@@ -2708,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 52,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2025-01-23T01:33:18Z"
   },
   {
@@ -2718,9 +2706,9 @@
     "location": "Bogotá D.C., Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 202,
-    "publicContributions": 646,
+    "followers": 57,
+    "privateContributions": 204,
+    "publicContributions": 829,
     "createdAt": "2025-02-02T01:53:35Z"
   },
   {
@@ -2730,9 +2718,9 @@
     "location": "Bogota, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 50,
     "createdAt": "2025-01-13T23:47:30Z"
   },
   {
@@ -2742,9 +2730,9 @@
     "location": "Medellín/Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 289,
+    "publicContributions": 246,
     "createdAt": "2025-02-11T23:45:04Z"
   },
   {
@@ -2756,7 +2744,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 284,
+    "publicContributions": 275,
     "createdAt": "2025-01-17T20:47:18Z"
   },
   {
@@ -2768,7 +2756,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 561,
+    "publicContributions": 530,
     "createdAt": "2025-01-05T14:23:51Z"
   },
   {
@@ -2778,9 +2766,9 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 144,
-    "publicContributions": 638,
+    "followers": 14,
+    "privateContributions": 122,
+    "publicContributions": 705,
     "createdAt": "2025-02-07T02:02:09Z"
   },
   {
@@ -2790,9 +2778,9 @@
     "location": "Bucaramanga, Colombia",
     "company": "Applus+",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 131,
     "createdAt": "2025-02-05T16:37:58Z"
   },
   {
@@ -2803,8 +2791,8 @@
     "company": "Escuela Colombiana de Ingenieria",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 241,
-    "publicContributions": 511,
+    "privateContributions": 196,
+    "publicContributions": 423,
     "createdAt": "2025-04-25T15:59:08Z"
   },
   {
@@ -2814,9 +2802,9 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 635,
+    "publicContributions": 157,
     "createdAt": "2025-04-29T01:13:20Z"
   },
   {
@@ -2826,7 +2814,7 @@
     "location": "Colombia",
     "company": "Upwork",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-13T17:12:15Z"
@@ -231403,8 +231391,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 232,
-    "publicContributions": 28,
+    "privateContributions": 212,
+    "publicContributions": 26,
     "createdAt": "2018-06-14T14:35:52Z"
   },
   {

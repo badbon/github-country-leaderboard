@@ -2838,7 +2838,7 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-19T12:05:21Z"
@@ -2850,9 +2850,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 45,
     "createdAt": "2023-02-24T17:54:57Z"
   },
   {
@@ -2863,8 +2863,8 @@
     "company": "Infobip",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 602,
-    "publicContributions": 21,
+    "privateContributions": 497,
+    "publicContributions": 103,
     "createdAt": "2023-05-20T16:41:22Z"
   },
   {
@@ -2896,11 +2896,11 @@
     "name": "Matej Pavic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/125149050?s=72&u=1bb5dbee69186f1c982c9784cb77414c490869ff&v=4",
     "location": "Split, Croatia",
-    "company": "",
+    "company": "Stateless d.o.o.",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 386,
-    "publicContributions": 5,
+    "followers": 5,
+    "privateContributions": 382,
+    "publicContributions": 8,
     "createdAt": "2023-02-11T17:35:39Z"
   },
   {
@@ -2910,9 +2910,9 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 36,
-    "publicContributions": 537,
+    "followers": 9,
+    "privateContributions": 19,
+    "publicContributions": 562,
     "createdAt": "2023-03-02T12:20:29Z"
   },
   {
@@ -2934,7 +2934,7 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2023-09-24T16:54:53Z"
@@ -2948,7 +2948,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2023-09-11T08:48:36Z"
   },
   {
@@ -2984,7 +2984,7 @@
     "twitterUsername": "AntonijaMatek",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2023-09-11T15:25:29Z"
   },
   {
@@ -2994,9 +2994,9 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 111,
     "createdAt": "2023-04-29T14:16:21Z"
   },
   {
@@ -3008,7 +3008,7 @@
     "twitterUsername": "DavidMustac",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-02-24T14:17:53Z"
   },
   {
@@ -3055,8 +3055,8 @@
     "company": "CodeEnigma",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 79,
-    "publicContributions": 16,
+    "privateContributions": 82,
+    "publicContributions": 0,
     "createdAt": "2023-01-23T01:52:00Z"
   },
   {

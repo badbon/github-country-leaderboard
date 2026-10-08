@@ -2814,9 +2814,9 @@
     "location": "Famagusta/Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-12-14T17:58:54Z"
   },
   {
@@ -2826,9 +2826,9 @@
     "location": "Oroklini, Cyprus",
     "company": "steinberger Limited",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1702,
-    "publicContributions": 136,
+    "followers": 4,
+    "privateContributions": 2023,
+    "publicContributions": 161,
     "createdAt": "2023-05-11T10:52:14Z"
   },
   {
@@ -2840,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 20,
-    "publicContributions": 23,
+    "publicContributions": 3,
     "createdAt": "2023-01-31T05:53:38Z"
   },
   {
@@ -2863,8 +2863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 363,
-    "publicContributions": 21,
+    "privateContributions": 314,
+    "publicContributions": 13,
     "createdAt": "2023-03-06T19:40:25Z"
   },
   {
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 46,
     "createdAt": "2023-05-01T11:17:40Z"
   },
   {
@@ -2912,7 +2912,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 16,
     "createdAt": "2023-07-26T13:10:16Z"
   },
   {
@@ -2923,8 +2923,8 @@
     "company": "",
     "twitterUsername": "laoutarisp",
     "followers": 3,
-    "privateContributions": 474,
-    "publicContributions": 331,
+    "privateContributions": 595,
+    "publicContributions": 350,
     "createdAt": "2023-10-12T02:51:12Z"
   },
   {
@@ -2934,8 +2934,8 @@
     "location": "Limassol, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 493,
+    "followers": 1,
+    "privateContributions": 705,
     "publicContributions": 4,
     "createdAt": "2022-12-29T16:06:52Z"
   },
@@ -2946,7 +2946,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-27T16:00:26Z"
@@ -2958,8 +2958,8 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 472,
+    "followers": 4,
+    "privateContributions": 458,
     "publicContributions": 0,
     "createdAt": "2023-08-31T12:11:04Z"
   },
@@ -2980,11 +2980,11 @@
     "name": "Danylo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126004115?s=72&u=50d9dedfec9e391072b5911c46a039b9926f557b&v=4",
     "location": "Cyprus",
-    "company": "",
+    "company": "Founder daan1k.xyz",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 393,
+    "publicContributions": 343,
     "createdAt": "2023-02-21T16:53:44Z"
   },
   {
@@ -3006,8 +3006,8 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 838,
+    "followers": 1,
+    "privateContributions": 832,
     "publicContributions": 0,
     "createdAt": "2023-05-23T19:17:57Z"
   },
@@ -3020,7 +3020,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2023-12-11T09:30:41Z"
   },
   {
@@ -32938,5 +32938,41 @@
     "privateContributions": 44,
     "publicContributions": 14,
     "createdAt": "2008-11-07T10:00:18Z"
+  },
+  {
+    "login": "nsiou",
+    "name": "Nikolaos Sioukiouroglou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285190701?s=72&u=8256ac342543a28f700fba8f8cbac64fddeae27d&v=4",
+    "location": "Nicosia, Cyprus",
+    "company": "RoyalZeus Global Advisors LTD",
+    "twitterUsername": "nsioukiouroglou",
+    "followers": 15,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-16T11:31:14Z"
+  },
+  {
+    "login": "Ha04ak04",
+    "name": "Hani Kwaik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286913943?s=72&u=d6856fd2e0d98cb9811d0cee7e3736641f069476&v=4",
+    "location": "Cyprus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-22T08:47:59Z"
+  },
+  {
+    "login": "robert-j-evc",
+    "name": "Robert Johansson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284729773?s=72&u=32d257d8de9f0fab1de4db39d43bda7c1a7500e3&v=4",
+    "location": "Cyprus",
+    "company": "@entire-vc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 240,
+    "createdAt": "2026-05-14T17:11:26Z"
   }
 ]

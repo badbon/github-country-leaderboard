@@ -2528,7 +2528,7 @@
     "twitterUsername": "",
     "followers": 54,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 19,
     "createdAt": "2025-09-14T18:47:23Z"
   },
   {
@@ -2540,7 +2540,7 @@
     "twitterUsername": "sakalond",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 143,
     "createdAt": "2025-05-15T02:22:17Z"
   },
   {
@@ -2552,7 +2552,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 340,
+    "publicContributions": 330,
     "createdAt": "2025-07-26T13:41:05Z"
   },
   {
@@ -2563,7 +2563,7 @@
     "company": "@MintIQ-Group ",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 6480,
+    "privateContributions": 6039,
     "publicContributions": 17,
     "createdAt": "2025-03-17T12:00:37Z"
   },
@@ -2574,8 +2574,8 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 61,
+    "followers": 14,
+    "privateContributions": 58,
     "publicContributions": 40,
     "createdAt": "2025-01-04T17:14:21Z"
   },
@@ -2586,9 +2586,9 @@
     "location": "Prague, Czechia",
     "company": "pavelhorak.tech",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-03-10T10:58:15Z"
   },
   {
@@ -2598,9 +2598,9 @@
     "location": "Prague / Mělník, Central Bohemia, Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 425,
+    "publicContributions": 490,
     "createdAt": "2025-09-29T13:15:46Z"
   },
   {
@@ -2610,9 +2610,9 @@
     "location": "Prague, Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 13846,
-    "publicContributions": 56,
+    "followers": 15,
+    "privateContributions": 18170,
+    "publicContributions": 61,
     "createdAt": "2025-02-20T08:19:39Z"
   },
   {
@@ -2622,9 +2622,9 @@
     "location": "Prague, Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2025-07-28T07:43:28Z"
   },
   {
@@ -2634,9 +2634,9 @@
     "location": "Prague, Czechia",
     "company": "",
     "twitterUsername": "jindrastoklasa",
-    "followers": 8,
-    "privateContributions": 1414,
-    "publicContributions": 438,
+    "followers": 13,
+    "privateContributions": 1553,
+    "publicContributions": 660,
     "createdAt": "2025-03-20T20:44:23Z"
   },
   {
@@ -2646,9 +2646,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 38,
     "createdAt": "2025-06-02T01:30:11Z"
   },
   {
@@ -2672,7 +2672,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2025-02-25T16:57:55Z"
   },
   {
@@ -2682,9 +2682,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1021,
-    "publicContributions": 15,
+    "followers": 2,
+    "privateContributions": 3274,
+    "publicContributions": 32,
     "createdAt": "2025-07-12T18:30:49Z"
   },
   {
@@ -2695,45 +2695,33 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 11,
-    "publicContributions": 100,
+    "privateContributions": 18,
+    "publicContributions": 107,
     "createdAt": "2025-06-21T15:57:29Z"
   },
   {
     "login": "gr3i",
     "name": "Zbyněk Dohnálek (Dozby)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198092433?s=72&u=d4292c452bfbd3d8da8779a18ed6fd95afacc307&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198092433?s=72&u=cffc17533c9adc1d43fcc8f2292563e9fb8b57ae&v=4",
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 417,
-    "publicContributions": 586,
+    "privateContributions": 116,
+    "publicContributions": 423,
     "createdAt": "2025-02-06T15:45:47Z"
   },
   {
     "login": "RealJyxen",
     "name": "Jyxen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214551230?s=72&u=35cb16a3c7c72bb5de1be1a4802e32a134a28274&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/214551230?s=72&u=72d54dc5dcc6494ed9308d1d4fc36271c4099bed&v=4",
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2025-06-02T19:23:46Z"
-  },
-  {
-    "login": "ggolman",
-    "name": "Grigorii Golman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227982911?s=72&u=3114b75b4f1bbc31afb8bad4d6109c5d01d51d1a&v=4",
-    "location": "Prague, Czechia",
-    "company": "Veeam",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-08-22T09:15:49Z"
   },
   {
     "login": "S1ntr",
@@ -2744,19 +2732,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 65,
     "createdAt": "2025-07-14T13:27:23Z"
   },
   {
     "login": "XexWork",
-    "name": "Stefan Pinčuk",
+    "name": "Stefan Nyberg",
     "avatarUrl": "https://avatars.githubusercontent.com/u/197666495?s=72&u=0346e86d88370c57726fc66e8aeb8040bb087498&v=4",
     "location": "Liberec, Czechia",
     "company": "SweetSoft INC.",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2025-02-03T19:20:42Z"
   },
   {

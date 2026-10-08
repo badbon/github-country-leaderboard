@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 389,
+    "publicContributions": 396,
     "createdAt": "2025-09-23T07:01:20Z"
   },
   {
@@ -2862,9 +2862,9 @@
     "location": "Vienna, Austria",
     "company": "@dynatrace",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 143,
     "createdAt": "2025-09-18T10:08:49Z"
   },
   {
@@ -2876,7 +2876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-06-17T08:57:05Z"
   },
   {
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 35,
     "createdAt": "2025-05-30T14:19:07Z"
   },
   {
@@ -2912,7 +2912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 69,
     "createdAt": "2025-09-25T19:11:44Z"
   },
   {
@@ -2947,8 +2947,8 @@
     "company": "@clouddnagmbh ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 766,
-    "publicContributions": 107,
+    "privateContributions": 1645,
+    "publicContributions": 113,
     "createdAt": "2025-07-08T13:06:26Z"
   },
   {
@@ -2962,18 +2962,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-12T11:30:24Z"
-  },
-  {
-    "login": "keith-lytc",
-    "name": "Keith Leow",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219812993?s=72&v=4",
-    "location": "Austria",
-    "company": "Loytec Electronics GmbH",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2025-07-08T08:35:19Z"
   },
   {
     "login": "patriks-ketryx",
@@ -3031,8 +3019,8 @@
     "company": "HTL Mössingerstraße",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
+    "privateContributions": 1586,
+    "publicContributions": 17,
     "createdAt": "2025-06-10T20:52:39Z"
   },
   {

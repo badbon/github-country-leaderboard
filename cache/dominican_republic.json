@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2024-05-14T16:36:19Z"
   },
   {
@@ -2888,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 7,
     "createdAt": "2024-05-12T14:22:54Z"
   },
   {
@@ -2912,7 +2912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2024-05-26T02:30:36Z"
   },
   {
@@ -2936,7 +2936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 5,
     "createdAt": "2024-11-10T19:04:08Z"
   },
   {
@@ -2970,9 +2970,9 @@
     "location": "Santo domingo, RD",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 24,
-    "publicContributions": 108,
+    "followers": 38,
+    "privateContributions": 60,
+    "publicContributions": 145,
     "createdAt": "2024-04-14T19:50:22Z"
   },
   {
@@ -2982,9 +2982,9 @@
     "location": "Santo Domingo, Republica Dominicana",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 19,
-    "publicContributions": 434,
+    "followers": 25,
+    "privateContributions": 31,
+    "publicContributions": 474,
     "createdAt": "2024-02-10T23:38:31Z"
   },
   {
@@ -2994,9 +2994,9 @@
     "location": "Republica Dominicana, Santo Domingo",
     "company": "Strove",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 700,
-    "publicContributions": 118,
+    "followers": 21,
+    "privateContributions": 1086,
+    "publicContributions": 109,
     "createdAt": "2024-03-26T06:24:15Z"
   },
   {
@@ -3007,8 +3007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 619,
-    "publicContributions": 520,
+    "privateContributions": 1035,
+    "publicContributions": 626,
     "createdAt": "2024-04-09T16:06:39Z"
   },
   {
@@ -3018,9 +3018,9 @@
     "location": "SANTO DOMINGO, DOM. REPUBLIC",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 684,
-    "publicContributions": 22,
+    "followers": 14,
+    "privateContributions": 681,
+    "publicContributions": 3,
     "createdAt": "2024-05-11T15:17:41Z"
   },
   {
@@ -3032,7 +3032,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 76,
     "createdAt": "2024-05-26T22:31:46Z"
   },
   {
@@ -39658,5 +39658,101 @@
     "privateContributions": 2448,
     "publicContributions": 26,
     "createdAt": "2008-05-12T17:15:21Z"
+  },
+  {
+    "login": "dave-code03",
+    "name": "Dave Occeant",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285279020?s=72&u=209064593208fe08da1743a78a72eeb50883d1f8&v=4",
+    "location": " Dominican Republic",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1086,
+    "createdAt": "2026-05-16T19:37:14Z"
+  },
+  {
+    "login": "yasminbeltre",
+    "name": "Yasmin Beltre",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289511935?s=72&u=cc2496270bc62015f4d1fc8eac3fd6b2d8b897c3&v=4",
+    "location": "Santo Domingo, Dominican Republic",
+    "company": "Open to Work",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 174,
+    "createdAt": "2026-05-31T22:52:30Z"
+  },
+  {
+    "login": "IngCarlosBatista",
+    "name": "Ing Carlos Batista",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287316451?s=72&u=447bebd770894bfe7bad34e8286e2293d420c61b&v=4",
+    "location": "Santiago, Dominican Republic",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-05-23T22:16:45Z"
+  },
+  {
+    "login": "Cesar-Git-Hub",
+    "name": "Cesar De la Rosa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285304316?s=72&u=7d7b8790c2794144e6fd970549179d0f22737ece&v=4",
+    "location": "Dominican republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 43,
+    "createdAt": "2026-05-16T23:04:26Z"
+  },
+  {
+    "login": "scarlingrodrz",
+    "name": "Scarling Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284349343?s=72&u=bac61d7ae41e246896d4f95e4539affc3d27ff61&v=4",
+    "location": "Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-05-13T14:34:26Z"
+  },
+  {
+    "login": "rguillen-carbonweb",
+    "name": "Ricardo Guillen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290042600?s=72&u=662f2b141af5590ec0ca555a052dca38f1f819a4&v=4",
+    "location": "Dominican Republic",
+    "company": "CarboWweb",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-02T13:29:27Z"
+  },
+  {
+    "login": "hengertg",
+    "name": "Henger",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286678770?s=72&u=cc7e092800b51beb2c85bb0f6e4a639d54633133&v=4",
+    "location": "Dominican Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 120,
+    "createdAt": "2026-05-21T13:37:29Z"
+  },
+  {
+    "login": "juangabriel-mappa",
+    "name": "Juan Gabriel Tavárez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287718361?s=72&u=845fe72eba9ac0919e66cf336b4dea061fa54f29&v=4",
+    "location": "Dominican Republic",
+    "company": "@mappa-ai",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 688,
+    "publicContributions": 1,
+    "createdAt": "2026-05-25T13:41:35Z"
   }
 ]

@@ -2538,9 +2538,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 84,
+    "followers": 3,
+    "privateContributions": 92,
+    "publicContributions": 113,
     "createdAt": "2025-12-06T18:13:52Z"
   },
   {
@@ -2551,33 +2551,21 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2025-04-24T18:54:12Z"
   },
   {
     "login": "kizerfig",
     "name": "Elliooth Kizer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219579466?s=72&u=9277171d1d482202b3d18cdab49dda5ec0f093b5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219579466?s=72&u=1ea0186945729b09cb06088d1ad59c8c15e400c6&v=4",
     "location": "Venezuela",
     "company": "",
-    "twitterUsername": "",
-    "followers": 1,
+    "twitterUsername": "kizerfig",
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2025-07-06T22:06:42Z"
-  },
-  {
-    "login": "EdwardTheGorila",
-    "name": "Edward García",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/199809533?s=72&u=368f887f7472124c635e2d1c6817929c145cc25e&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-02-18T17:00:48Z"
   },
   {
     "login": "JaylooxJeffy",
@@ -2588,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 41,
     "createdAt": "2025-01-09T00:48:46Z"
   },
   {
@@ -2612,7 +2600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 0,
     "createdAt": "2025-10-02T00:53:42Z"
   },
   {
@@ -2648,7 +2636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 267,
+    "publicContributions": 239,
     "createdAt": "2025-05-22T13:18:55Z"
   },
   {
@@ -2658,9 +2646,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 71,
     "createdAt": "2025-01-29T22:12:20Z"
   },
   {
@@ -2671,7 +2659,7 @@
     "company": "Melt Studio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 699,
+    "privateContributions": 952,
     "publicContributions": 1,
     "createdAt": "2025-12-11T19:33:30Z"
   },
@@ -2684,7 +2672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 52,
     "createdAt": "2025-03-16T23:19:25Z"
   },
   {
@@ -2707,8 +2695,8 @@
     "company": "Argus DG",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4019,
-    "publicContributions": 51,
+    "privateContributions": 5581,
+    "publicContributions": 73,
     "createdAt": "2025-06-30T01:09:11Z"
   },
   {
@@ -2719,8 +2707,8 @@
     "company": "contacto@renebello.com",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5764,
-    "publicContributions": 82,
+    "privateContributions": 6801,
+    "publicContributions": 89,
     "createdAt": "2025-06-12T18:49:57Z"
   },
   {
@@ -2732,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 51,
     "createdAt": "2025-07-28T14:54:30Z"
   },
   {
@@ -2756,20 +2744,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 147,
     "createdAt": "2025-09-11T06:17:59Z"
-  },
-  {
-    "login": "kcabrera83",
-    "name": "Kelvin J Cabrera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225775914?s=72&v=4",
-    "location": "Venezuela",
-    "company": "Advisor",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 568,
-    "createdAt": "2025-08-11T01:03:08Z"
   },
   {
     "login": "InkyoDev",

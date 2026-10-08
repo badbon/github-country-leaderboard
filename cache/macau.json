@@ -2754,9 +2754,9 @@
     "location": "Macau",
     "company": "WHU",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 400,
-    "publicContributions": 2,
+    "followers": 4,
+    "privateContributions": 383,
+    "publicContributions": 0,
     "createdAt": "2019-08-27T04:43:29Z"
   },
   {
@@ -2780,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 32,
     "createdAt": "2019-09-09T05:49:29Z"
   },
   {
@@ -2792,7 +2792,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 31,
     "createdAt": "2019-05-22T09:39:02Z"
   },
   {
@@ -2802,7 +2802,7 @@
     "location": "Macau",
     "company": "University of Macau",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2019-08-21T10:06:46Z"
@@ -2815,8 +2815,8 @@
     "company": "University of Macau",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 24,
+    "privateContributions": 38,
+    "publicContributions": 19,
     "createdAt": "2019-09-10T10:02:00Z"
   },
   {
@@ -2840,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 42,
     "createdAt": "2019-05-29T07:09:10Z"
   },
   {
@@ -2854,18 +2854,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-27T13:20:28Z"
-  },
-  {
-    "login": "volowang",
-    "name": "jxwang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51770883?s=72&u=0056188f24f3bdfd7745b43ca30ef63522a21b75&v=4",
-    "location": "Macau",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 28,
-    "createdAt": "2019-06-13T02:53:15Z"
   },
   {
     "login": "billsou",
@@ -2888,7 +2876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 24,
     "createdAt": "2019-03-10T02:12:36Z"
   },
   {
@@ -2900,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2019-09-20T16:35:21Z"
   },
   {
@@ -2910,9 +2898,9 @@
     "location": "Macao",
     "company": "",
     "twitterUsername": "",
-    "followers": 58,
+    "followers": 61,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 5,
     "createdAt": "2018-04-29T05:53:59Z"
   },
   {
@@ -2946,22 +2934,10 @@
     "location": "Macao",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-27T14:01:53Z"
-  },
-  {
-    "login": "heiyebaitian",
-    "name": "550W_Plus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35366415?s=72&u=91dd145b57b506e9e8df1a98223c45a6ba150476&v=4",
-    "location": "Macao",
-    "company": "参宿四的小木屋",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2018-01-12T09:27:08Z"
   },
   {
     "login": "vacantmemory",
@@ -2970,7 +2946,7 @@
     "location": "Macao",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-01T17:19:16Z"

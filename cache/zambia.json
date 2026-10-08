@@ -2588,7 +2588,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 25,
     "createdAt": "2024-05-08T18:26:25Z"
   },
   {
@@ -2612,7 +2612,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2024-06-17T14:22:24Z"
   },
   {
@@ -2648,7 +2648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 44,
     "createdAt": "2024-04-07T13:21:46Z"
   },
   {
@@ -2660,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 130,
     "createdAt": "2024-04-16T16:15:19Z"
   },
   {
@@ -2696,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 121,
     "createdAt": "2024-07-19T11:24:21Z"
   },
   {
@@ -2720,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 45,
     "createdAt": "2024-08-04T18:43:59Z"
   },
   {
@@ -2731,33 +2731,21 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 26,
+    "privateContributions": 25,
+    "publicContributions": 23,
     "createdAt": "2024-10-15T11:09:45Z"
   },
   {
     "login": "Joshk21758",
     "name": "Mwansa kunda ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147214909?s=72&u=8e90b04f4fdf8ebfbe1326f632bfea0e232301db&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147214909?s=72&u=b992ffd8805b3d4f7c1425084477bff98b00216a&v=4",
     "location": "Lusaka, Zambia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 220,
+    "followers": 230,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 50,
     "createdAt": "2023-10-06T23:29:59Z"
-  },
-  {
-    "login": "PeterDiyo",
-    "name": "PETER DIYO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143595261?s=72&u=2bddd3dcee9b825875dbaa36deb61f4427ff8c66&v=4",
-    "location": "Lusaka, Zambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 157,
-    "privateContributions": 1516,
-    "publicContributions": 193,
-    "createdAt": "2023-08-30T08:22:32Z"
   },
   {
     "login": "Freddie-codes369",
@@ -2778,9 +2766,9 @@
     "location": "Lusaka - Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 502,
-    "publicContributions": 220,
+    "followers": 34,
+    "privateContributions": 423,
+    "publicContributions": 161,
     "createdAt": "2023-07-01T07:08:40Z"
   },
   {
@@ -2790,9 +2778,9 @@
     "location": "Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 100,
-    "publicContributions": 115,
+    "followers": 42,
+    "privateContributions": 114,
+    "publicContributions": 96,
     "createdAt": "2023-08-25T11:16:02Z"
   },
   {
@@ -2802,9 +2790,9 @@
     "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 98,
     "createdAt": "2023-08-17T07:29:11Z"
   },
   {
@@ -2814,9 +2802,9 @@
     "location": "Zambia",
     "company": "",
     "twitterUsername": "namycodes",
-    "followers": 22,
-    "privateContributions": 1446,
-    "publicContributions": 17,
+    "followers": 19,
+    "privateContributions": 1561,
+    "publicContributions": 15,
     "createdAt": "2023-01-06T15:11:10Z"
   },
   {

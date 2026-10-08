@@ -2780,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 142,
     "createdAt": "2025-09-27T01:34:38Z"
   },
   {
@@ -2790,7 +2790,7 @@
     "location": "Hong Kong / Shenzhen",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-09-21T04:10:09Z"
@@ -2802,9 +2802,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 261,
-    "publicContributions": 132,
+    "followers": 6,
+    "privateContributions": 332,
+    "publicContributions": 143,
     "createdAt": "2025-12-17T13:03:19Z"
   },
   {
@@ -2814,9 +2814,9 @@
     "location": "Hong Kong",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 10,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2025-10-13T05:52:43Z"
   },
   {
@@ -2832,18 +2832,6 @@
     "createdAt": "2025-12-03T07:44:53Z"
   },
   {
-    "login": "ER1C-6832",
-    "name": "Er1c",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193060908?s=72&u=d3045f8e640f2dfec9d7c5ec54165cecb75b8aeb&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 338,
-    "createdAt": "2024-12-28T11:47:24Z"
-  },
-  {
     "login": "Juckaye",
     "name": "Kai Jia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/231511521?s=72&u=72f423af1697dce5caccf04a554525986f7647d8&v=4",
@@ -2852,7 +2840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2025-09-10T14:59:15Z"
   },
   {
@@ -2864,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-14T14:43:01Z"
   },
   {
@@ -2880,18 +2868,6 @@
     "createdAt": "2025-04-08T09:41:24Z"
   },
   {
-    "login": "dynamics986",
-    "name": "FAN, Sixing",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194467727?s=72&u=a05be6c957de4d2adeead99a4f2e05944c39ada8&v=4",
-    "location": "The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong",
-    "company": "The Chinese University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 144,
-    "createdAt": "2025-01-10T06:54:40Z"
-  },
-  {
     "login": "kp-samuel-tam",
     "name": "Samuel Tam",
     "avatarUrl": "https://avatars.githubusercontent.com/u/206512339?s=72&u=9b756a482f82e8f57ca9ab3f51dce99cb21c9604&v=4",
@@ -2899,8 +2875,8 @@
     "company": "@ExpressVPN",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 396,
-    "publicContributions": 59,
+    "privateContributions": 455,
+    "publicContributions": 54,
     "createdAt": "2025-04-07T07:06:05Z"
   },
   {
@@ -2912,7 +2888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 14,
     "createdAt": "2025-08-12T04:48:21Z"
   },
   {
@@ -2926,18 +2902,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-10-15T15:09:06Z"
-  },
-  {
-    "login": "Felix-Li-0306",
-    "name": "Felix",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229174898?s=72&u=fbb2682d8fc3a2fea5911450b7e4aad57d11a778&v=4",
-    "location": "Hong Kong",
-    "company": "The University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 34,
-    "publicContributions": 200,
-    "createdAt": "2025-08-28T17:05:02Z"
   },
   {
     "login": "BruceZHAO822",
@@ -2960,7 +2924,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 5,
     "createdAt": "2025-08-06T12:06:30Z"
   },
   {
@@ -2970,9 +2934,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 282,
+    "publicContributions": 287,
     "createdAt": "2025-11-11T20:12:55Z"
   },
   {
@@ -2996,7 +2960,7 @@
     "twitterUsername": "Spatial_Form",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-09-08T16:57:48Z"
   },
   {

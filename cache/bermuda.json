@@ -2533,12 +2533,12 @@
   },
   {
     "login": "AmirhosseinYaghoubi",
-    "name": "Amirhossein Yaghoubi",
+    "name": "Amir Yaghoubi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88213384?s=72&u=89ea8e5bbfdbe5f3bb2d4c23ff74f81240c4ecaf&v=4",
     "location": "Hamilton, Ontario",
     "company": "McMaster University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-30T21:23:29Z"
@@ -2563,7 +2563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 624,
+    "privateContributions": 607,
     "publicContributions": 4,
     "createdAt": "2021-08-23T15:34:17Z"
   },
@@ -2587,8 +2587,8 @@
     "company": "City of Hamilton",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 53,
-    "publicContributions": 173,
+    "privateContributions": 39,
+    "publicContributions": 164,
     "createdAt": "2021-07-28T10:56:41Z"
   },
   {
@@ -2611,7 +2611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 70,
+    "privateContributions": 73,
     "publicContributions": 5,
     "createdAt": "2021-03-26T05:07:43Z"
   },
@@ -2624,20 +2624,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 4,
-    "publicContributions": 20,
+    "publicContributions": 9,
     "createdAt": "2021-03-03T18:55:54Z"
-  },
-  {
-    "login": "irridium04",
-    "name": "Collin Shook",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93695227?s=72&u=cd5f4a1d6a6d30dc9e15e0c1a6ff10a8828a1c86&v=4",
-    "location": "Hamilton, Montana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-11-04T03:35:41Z"
   },
   {
     "login": "SumanyaG",
@@ -2660,7 +2648,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2021-05-22T02:37:01Z"
   },
   {
@@ -2742,9 +2730,9 @@
     "location": "Hamilton",
     "company": "McMaster University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2021-07-09T03:20:38Z"
   },
   {
@@ -2755,7 +2743,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 41,
+    "privateContributions": 37,
     "publicContributions": 0,
     "createdAt": "2021-11-28T07:59:30Z"
   },

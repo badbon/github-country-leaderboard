@@ -2540,7 +2540,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 26,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2022-09-30T14:53:19Z"
   },
   {
@@ -2551,8 +2551,8 @@
     "company": "@passbolt",
     "twitterUsername": "asyncmaster",
     "followers": 3,
-    "privateContributions": 192,
-    "publicContributions": 4,
+    "privateContributions": 332,
+    "publicContributions": 2,
     "createdAt": "2022-10-25T14:23:18Z"
   },
   {
@@ -2576,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 63,
     "createdAt": "2022-07-29T13:49:34Z"
   },
   {
@@ -2587,7 +2587,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 512,
+    "privateContributions": 539,
     "publicContributions": 0,
     "createdAt": "2022-01-27T13:32:37Z"
   },
@@ -2634,8 +2634,8 @@
     "location": "Luxembourg",
     "company": "European Investment Bank",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 427,
+    "followers": 4,
+    "privateContributions": 730,
     "publicContributions": 74,
     "createdAt": "2022-03-18T08:22:17Z"
   },
@@ -2660,19 +2660,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2022-09-09T11:02:20Z"
   },
   {
     "login": "mederic-hurier-partner",
-    "name": "Médéric HURIER (Fmind)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113693352?s=72&u=f66b48a23192f14fe795dc6a74777028e4f28539&v=4",
+    "name": "Médéric Hurier (Fmind)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113693352?s=72&u=67bcd08565cd5b5148a4bb71d46cadfad59e7500&v=4",
     "location": "Luxembourg",
-    "company": "Fmind.dev",
+    "company": "@Decathlon",
     "twitterUsername": "fmind_dev",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 48,
     "createdAt": "2022-09-16T12:21:56Z"
   },
   {
@@ -2702,13 +2702,13 @@
   {
     "login": "faimaAbbasi",
     "name": "Faima ABBASI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97727827?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97727827?s=72&u=4933d8b789322252abf22cd36180d2be51e1e1d0&v=4",
     "location": "Esch-sur-Alzette, Luxembourg",
     "company": "Luxembourg Institute of Science & Technology (LIST), University of Luxembourg",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 107,
     "createdAt": "2022-01-14T08:23:26Z"
   },
   {
@@ -2731,8 +2731,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 116,
-    "publicContributions": 11,
+    "privateContributions": 174,
+    "publicContributions": 0,
     "createdAt": "2022-05-29T09:49:51Z"
   },
   {
