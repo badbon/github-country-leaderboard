@@ -2538,9 +2538,9 @@
     "location": "Macau",
     "company": "Sands Macao",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2019-05-03T07:04:14Z"
   },
   {
@@ -2551,8 +2551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 737,
-    "publicContributions": 16,
+    "privateContributions": 876,
+    "publicContributions": 21,
     "createdAt": "2019-02-13T03:00:16Z"
   },
   {
@@ -2563,8 +2563,8 @@
     "company": "University of Macau",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 328,
-    "publicContributions": 1139,
+    "privateContributions": 357,
+    "publicContributions": 1285,
     "createdAt": "2019-09-20T08:54:46Z"
   },
   {
@@ -2576,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 20,
     "createdAt": "2018-12-31T22:31:43Z"
   },
   {
@@ -2611,8 +2611,8 @@
     "company": "University of Macau",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 923,
-    "publicContributions": 55,
+    "privateContributions": 1299,
+    "publicContributions": 225,
     "createdAt": "2019-01-17T14:16:10Z"
   },
   {
@@ -2660,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 50,
     "createdAt": "2019-10-27T01:10:12Z"
   },
   {
@@ -2684,7 +2684,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 26,
     "createdAt": "2019-03-10T11:00:23Z"
   },
   {
@@ -2700,18 +2700,6 @@
     "createdAt": "2019-07-01T02:12:41Z"
   },
   {
-    "login": "BookPlus2020",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54468642?s=72&u=d7e76d3314ec5b90bddbd3c35d26b019a5f63d87&v=4",
-    "location": "Macau",
-    "company": "University of Macau",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-08-24T08:33:25Z"
-  },
-  {
     "login": "JiaxueLi",
     "name": "JiaxueLi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/49477420?s=72&u=ae4c1b61cc055ae8228248c753d5fedd9a439e44&v=4",
@@ -2722,18 +2710,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2019-04-10T09:15:09Z"
-  },
-  {
-    "login": "furonglegend",
-    "name": "furonglegend",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48650265?s=72&u=eff018215993c0fec3cb62ac0562f3ee5b74628e&v=4",
-    "location": "Macau",
-    "company": "UM",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2019-03-17T14:10:33Z"
   },
   {
     "login": "cancan520",

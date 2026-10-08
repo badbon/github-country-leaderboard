@@ -2612,7 +2612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-06-21T02:41:54Z"
   },
   {
@@ -2623,8 +2623,8 @@
     "company": "Zenaida Orn Company",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 947,
-    "publicContributions": 11,
+    "privateContributions": 996,
+    "publicContributions": 12,
     "createdAt": "2017-10-18T09:30:28Z"
   },
   {
@@ -2648,7 +2648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 6,
     "createdAt": "2017-02-15T02:47:05Z"
   },
   {
@@ -2684,7 +2684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-02-28T06:19:46Z"
   },
   {
@@ -2720,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 98,
     "createdAt": "2016-01-27T06:32:50Z"
   },
   {
@@ -2730,9 +2730,9 @@
     "location": "Fiji",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 547,
-    "publicContributions": 301,
+    "followers": 24,
+    "privateContributions": 354,
+    "publicContributions": 175,
     "createdAt": "2016-09-16T20:15:30Z"
   },
   {
@@ -2766,9 +2766,9 @@
     "location": "Fiji",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 54,
-    "publicContributions": 7,
+    "followers": 10,
+    "privateContributions": 64,
+    "publicContributions": 8,
     "createdAt": "2016-02-11T03:40:27Z"
   },
   {
@@ -2780,20 +2780,8 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2016-05-24T06:37:00Z"
-  },
-  {
-    "login": "memoishin",
-    "name": "Mohammed Moishin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18527661?s=72&u=14efd0d7e41a6720c69ce1b84e1d5ea125fcdd4b&v=4",
-    "location": "Fiji",
-    "company": "",
-    "twitterUsername": "mohammedmoishin",
-    "followers": 8,
-    "privateContributions": 8,
-    "publicContributions": 0,
-    "createdAt": "2016-04-18T09:09:48Z"
   },
   {
     "login": "Boxser567",
@@ -2802,9 +2790,9 @@
     "location": "0578,Emelia Rest ,Marceleneport ,Idaho ,Fiji",
     "company": "weimob company",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 24,
     "createdAt": "2016-09-28T02:46:28Z"
   },
   {

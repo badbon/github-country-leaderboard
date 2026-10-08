@@ -2624,7 +2624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2014-04-10T05:24:32Z"
   },
   {
@@ -2634,7 +2634,7 @@
     "location": "Plymouth UK",
     "company": "Alstom UK",
     "twitterUsername": "",
-    "followers": 56,
+    "followers": 57,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-03-30T09:54:24Z"
@@ -2659,7 +2659,7 @@
     "company": "",
     "twitterUsername": "ianames",
     "followers": 8,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2013-11-07T21:01:26Z"
   },
@@ -2671,8 +2671,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 11766,
-    "publicContributions": 79,
+    "privateContributions": 14239,
+    "publicContributions": 82,
     "createdAt": "2013-10-26T15:50:58Z"
   },
   {
@@ -2682,9 +2682,9 @@
     "location": "Plymouth University",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2013-09-20T17:27:36Z"
   },
   {
@@ -2744,7 +2744,7 @@
     "twitterUsername": "dvmrry",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4327,
+    "publicContributions": 3973,
     "createdAt": "2013-12-15T07:09:41Z"
   },
   {
@@ -2754,9 +2754,9 @@
     "location": "Plymouth",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1122,
-    "publicContributions": 72,
+    "followers": 6,
+    "privateContributions": 1089,
+    "publicContributions": 52,
     "createdAt": "2013-07-10T20:21:00Z"
   },
   {
@@ -2780,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2013-09-09T08:08:53Z"
   },
   {

@@ -2576,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 89,
     "createdAt": "2025-02-27T14:51:12Z"
   },
   {
@@ -2586,9 +2586,9 @@
     "location": "Dublin, Ireland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1275,
+    "publicContributions": 1276,
     "createdAt": "2025-08-12T20:02:03Z"
   },
   {
@@ -2598,7 +2598,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-16T10:56:38Z"
@@ -2623,8 +2623,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 190,
-    "publicContributions": 234,
+    "privateContributions": 200,
+    "publicContributions": 237,
     "createdAt": "2025-11-17T11:42:57Z"
   },
   {
@@ -2652,18 +2652,6 @@
     "createdAt": "2025-04-07T01:21:03Z"
   },
   {
-    "login": "HumanSpark",
-    "name": "Alastair McDermott",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204801163?s=72&u=ee588625d065db14aaaaf8c13b5ce485cb9a54ad&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-03-25T00:42:52Z"
-  },
-  {
     "login": "gunatheeth",
     "name": "Gunatheeth Reddy Jampala",
     "avatarUrl": "https://avatars.githubusercontent.com/u/235939508?s=72&v=4",
@@ -2672,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-10-03T17:43:59Z"
   },
   {
@@ -2694,7 +2682,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-01-27T10:08:38Z"
@@ -2708,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 123,
     "createdAt": "2025-06-10T19:20:14Z"
   },
   {
@@ -2720,7 +2708,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 11,
     "createdAt": "2025-09-02T22:13:13Z"
   },
   {
@@ -2732,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 9,
     "createdAt": "2025-08-06T10:14:17Z"
   },
   {
@@ -2754,22 +2742,10 @@
     "location": "Ireland",
     "company": "WV",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 119,
+    "followers": 1,
+    "privateContributions": 99,
     "publicContributions": 0,
     "createdAt": "2025-04-22T14:20:49Z"
-  },
-  {
-    "login": "andresqui0416",
-    "name": "Andres Quijada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224537246?s=72&u=6b38d5276cdc04fa5887990dc8f8235b86bc0efd&v=4",
-    "location": "Wexford, Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 362,
-    "publicContributions": 247,
-    "createdAt": "2025-08-04T08:36:30Z"
   },
   {
     "login": "francescamarycallanta",
@@ -2780,7 +2756,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 20,
     "createdAt": "2025-02-21T19:53:48Z"
   },
   {

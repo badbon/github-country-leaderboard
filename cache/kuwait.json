@@ -2371,7 +2371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 193,
+    "privateContributions": 175,
     "publicContributions": 0,
     "createdAt": "2021-08-22T06:47:58Z"
   },
@@ -2382,7 +2382,7 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "FHD2A",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-24T17:19:10Z"
@@ -2390,13 +2390,13 @@
   {
     "login": "cafed98",
     "name": "Federico Cantarelli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79110279?s=72&u=fd46784d06c2e1a0f803de4ba76a735977e3d365&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79110279?s=72&u=0c03c22c932d754fff3eadbab3eaa7b6f98b4dc3&v=4",
     "location": "Kuwait City",
     "company": "Datwave",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 59,
     "createdAt": "2021-02-15T18:53:51Z"
   },
   {
@@ -2407,7 +2407,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 285,
+    "privateContributions": 240,
     "publicContributions": 26,
     "createdAt": "2021-04-23T11:17:06Z"
   },
@@ -2418,7 +2418,7 @@
     "location": "kuwait",
     "company": "kliky",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 4,
     "publicContributions": 1,
     "createdAt": "2021-02-12T14:37:11Z"
@@ -2442,7 +2442,7 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-11T19:29:10Z"
@@ -2466,9 +2466,9 @@
     "location": "Kuwait ",
     "company": "Kuwait Certified Lab",
     "twitterUsername": "Hassanattwa",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 14,
     "createdAt": "2021-07-14T10:24:47Z"
   },
   {
@@ -2478,9 +2478,9 @@
     "location": "Kuwait",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 3,
     "createdAt": "2021-05-11T15:27:36Z"
   },
   {
@@ -2491,8 +2491,8 @@
     "company": "@delivery-express-dev",
     "twitterUsername": "hakimuddinkika",
     "followers": 4,
-    "privateContributions": 1047,
-    "publicContributions": 3,
+    "privateContributions": 1172,
+    "publicContributions": 4,
     "createdAt": "2021-05-27T17:00:37Z"
   },
   {
@@ -2515,8 +2515,8 @@
     "company": "PixiL",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 97,
-    "publicContributions": 19,
+    "privateContributions": 173,
+    "publicContributions": 12,
     "createdAt": "2021-04-02T16:36:58Z"
   },
   {
@@ -2587,7 +2587,7 @@
     "company": "Walnut Software Solutions",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 271,
+    "privateContributions": 262,
     "publicContributions": 1,
     "createdAt": "2021-10-07T06:23:37Z"
   },
@@ -2598,9 +2598,9 @@
     "location": "Kuwait",
     "company": "University of Sheffield",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 438,
-    "publicContributions": 4,
+    "followers": 4,
+    "privateContributions": 285,
+    "publicContributions": 3,
     "createdAt": "2021-04-16T12:57:07Z"
   },
   {

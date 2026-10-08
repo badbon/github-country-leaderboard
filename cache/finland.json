@@ -2280,18 +2280,6 @@
     "createdAt": "2025-03-03T06:52:13Z"
   },
   {
-    "login": "nexus-business-os",
-    "name": "Hossam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214227704?s=72&u=bc85dc1e23cb801343ebe357d797b70eabb8e7bf&v=4",
-    "location": "Uusimaa, Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 311,
-    "publicContributions": 3,
-    "createdAt": "2025-05-31T08:13:23Z"
-  },
-  {
     "login": "mirvasaarijarvi-lab",
     "name": "Mimmi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/245175869?s=72&u=27b3ec912cd48e2d0dcff1c186e39f146ec4c49c&v=4",
@@ -2300,7 +2288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5802,
+    "publicContributions": 7974,
     "createdAt": "2025-11-20T12:12:26Z"
   },
   {
@@ -2312,7 +2300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 104,
     "createdAt": "2025-09-07T15:04:19Z"
   },
   {
@@ -2324,7 +2312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2025-07-26T13:34:09Z"
   },
   {
@@ -2359,8 +2347,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
-    "publicContributions": 17,
+    "privateContributions": 0,
+    "publicContributions": 25,
     "createdAt": "2025-12-23T12:28:02Z"
   },
   {
@@ -2384,7 +2372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 91,
     "createdAt": "2025-01-14T13:54:56Z"
   },
   {
@@ -2396,20 +2384,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 62,
     "createdAt": "2025-07-03T22:57:23Z"
-  },
-  {
-    "login": "modina-khusbu-priya553",
-    "name": "Modina Khusbu Priya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202575740?s=72&u=7c089f58d6f5dea48d89437d71a5e649da5e7cc5&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 234,
-    "createdAt": "2025-03-10T02:48:53Z"
   },
   {
     "login": "Egoisto69",
@@ -2420,7 +2396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 114,
     "createdAt": "2025-08-19T10:03:15Z"
   },
   {
@@ -2432,7 +2408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-09-27T21:57:52Z"
   },
   {
@@ -2444,7 +2420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 197,
     "createdAt": "2025-02-10T11:53:15Z"
   },
   {
@@ -2462,13 +2438,13 @@
   {
     "login": "jkiviluoto-nv",
     "name": "Janne Kiviluoto (NVIDIA)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235827468?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235827468?s=72&u=1046fa7c078156bf887e61f8664493e581f5193d&v=4",
     "location": "Jyväskylä, Finland",
     "company": "NVIDIA",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 844,
+    "publicContributions": 964,
     "createdAt": "2025-10-03T05:42:48Z"
   },
   {
@@ -2480,7 +2456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 71,
     "createdAt": "2025-11-18T13:15:50Z"
   },
   {
@@ -2492,7 +2468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-18T06:32:27Z"
   },
   {

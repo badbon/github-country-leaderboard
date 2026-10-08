@@ -2342,13 +2342,13 @@
   {
     "login": "TTedy",
     "name": "Þorvaldur Breki Lárusson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97121620?s=72&u=30c5e94c2104145007722809983d7a228f9aa83c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97121620?s=72&u=8a3455fa06efdaf141f7ca32aece2c6d42b2b324&v=4",
     "location": "Reykjavik",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 53,
-    "publicContributions": 46,
+    "privateContributions": 103,
+    "publicContributions": 47,
     "createdAt": "2022-01-04T17:58:45Z"
   },
   {
@@ -2371,8 +2371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 93,
-    "publicContributions": 16,
+    "privateContributions": 58,
+    "publicContributions": 14,
     "createdAt": "2021-06-11T15:16:05Z"
   },
   {
@@ -2406,9 +2406,9 @@
     "location": "Reykjavík, Iceland",
     "company": "Háskóli Íslands",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 348,
     "createdAt": "2021-08-30T17:04:26Z"
   },
   {
@@ -2418,9 +2418,9 @@
     "location": "Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 24,
     "createdAt": "2021-05-28T14:06:26Z"
   },
   {
@@ -2430,9 +2430,9 @@
     "location": "Keflavik, Iceland",
     "company": "@dccuchile",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 84,
-    "publicContributions": 21,
+    "followers": 15,
+    "privateContributions": 70,
+    "publicContributions": 29,
     "createdAt": "2021-04-07T21:55:50Z"
   },
   {
@@ -2460,27 +2460,15 @@
     "createdAt": "2021-05-07T09:52:05Z"
   },
   {
-    "login": "MacMat01",
-    "name": "Matteo Machella",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92725907?s=72&u=d9b47a2254eaff8cf6725a83fef0f78eac7158d5&v=4",
-    "location": "Reykjavik, Iceland",
-    "company": "University of Camerino and Reykjavik University",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 97,
-    "createdAt": "2021-10-18T11:07:17Z"
-  },
-  {
     "login": "helgarfri",
     "name": "Helgi Freyr Davíðsson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95542033?s=72&u=f359838f06aaf1c79a9c2ad7f28e6c9cdb44fe14&v=4",
     "location": "Mosfellsbær, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 91,
-    "publicContributions": 208,
+    "followers": 12,
+    "privateContributions": 175,
+    "publicContributions": 168,
     "createdAt": "2021-12-04T17:19:57Z"
   },
   {
@@ -2491,8 +2479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 8,
-    "publicContributions": 67,
+    "privateContributions": 38,
+    "publicContributions": 62,
     "createdAt": "2021-08-19T10:37:02Z"
   },
   {
@@ -2539,7 +2527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 41,
+    "privateContributions": 34,
     "publicContributions": 0,
     "createdAt": "2021-02-01T11:42:03Z"
   },

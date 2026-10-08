@@ -580147,7 +580147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 6,
+    "privateContributions": 214,
     "publicContributions": 0,
     "createdAt": "2009-04-08T10:30:46Z"
   },
@@ -582595,8 +582595,8 @@
     "company": "Self Employed",
     "twitterUsername": "lucapette",
     "followers": 102,
-    "privateContributions": 2241,
-    "publicContributions": 720,
+    "privateContributions": 2249,
+    "publicContributions": 724,
     "createdAt": "2009-09-07T20:43:07Z"
   },
   {
@@ -585382,5 +585382,53 @@
     "privateContributions": 57,
     "publicContributions": 0,
     "createdAt": "2009-11-20T16:55:12Z"
+  },
+  {
+    "login": "MacMat01",
+    "name": "Matteo Machella",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92725907?s=72&u=d9b47a2254eaff8cf6725a83fef0f78eac7158d5&v=4",
+    "location": "Macerata, Italy",
+    "company": "University of Camerino and Reykjavik University",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 97,
+    "createdAt": "2021-10-18T11:07:17Z"
+  },
+  {
+    "login": "cjg",
+    "name": "Giuseppe Coviello",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55249?s=72&u=bdcb56e44c23465fb783907fdba633a554c4324e&v=4",
+    "location": "Napoli",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2009-02-17T15:19:46Z"
+  },
+  {
+    "login": "polettix",
+    "name": "Flavio Poletti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114540?s=72&u=db816181d35ff8b49d57c76cbebca788b6e8ba29&v=4",
+    "location": "Roma",
+    "company": "Ericsson",
+    "twitterUsername": "polettix",
+    "followers": 44,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2009-08-12T11:44:12Z"
+  },
+  {
+    "login": "alexgiggi",
+    "name": "Alessandro Pupita",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87150?s=72&v=4",
+    "location": "Roma",
+    "company": "ACI Informatica",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2009-05-21T12:32:34Z"
   }
 ]

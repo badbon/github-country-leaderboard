@@ -2564,7 +2564,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-08T18:48:47Z"
   },
   {
@@ -2587,7 +2587,7 @@
     "company": "",
     "twitterUsername": "sam_yuriy",
     "followers": 3,
-    "privateContributions": 8,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2021-09-10T20:27:54Z"
   },
@@ -2600,7 +2600,7 @@
     "twitterUsername": "AnGreathill",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 28,
     "createdAt": "2021-07-01T10:14:36Z"
   },
   {
@@ -2611,7 +2611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
+    "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2021-06-27T20:39:04Z"
   },
@@ -2623,7 +2623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 9,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2021-08-07T17:02:42Z"
   },
@@ -2648,7 +2648,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 10,
     "createdAt": "2021-03-07T13:56:39Z"
   },
   {
@@ -2659,7 +2659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 217,
+    "privateContributions": 312,
     "publicContributions": 0,
     "createdAt": "2021-05-03T20:02:29Z"
   },
@@ -2672,7 +2672,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-09-02T11:08:59Z"
   },
   {
@@ -2696,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 64,
     "createdAt": "2021-03-20T19:38:01Z"
   },
   {
@@ -2708,7 +2708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-04-13T15:25:22Z"
   },
   {
@@ -2731,8 +2731,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7709,
-    "publicContributions": 121,
+    "privateContributions": 13373,
+    "publicContributions": 159,
     "createdAt": "2021-01-09T17:51:23Z"
   },
   {
@@ -2748,18 +2748,6 @@
     "createdAt": "2021-03-25T18:28:07Z"
   },
   {
-    "login": "Rorrian",
-    "name": "Natalia Kunegina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89255491?s=72&u=f766422e918148c07b574071d285b6b07314cd1a&v=4",
-    "location": "Montenegro, Podgorica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2021-08-20T11:47:23Z"
-  },
-  {
     "login": "alvasin",
     "name": "Aleksandr Vasin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92584573?s=72&u=031d18f1954cb6b899a012f32592b7d075aaafa0&v=4",
@@ -2767,8 +2755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 829,
-    "publicContributions": 79,
+    "privateContributions": 858,
+    "publicContributions": 78,
     "createdAt": "2021-10-15T12:35:52Z"
   },
   {

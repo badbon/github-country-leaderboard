@@ -2528,7 +2528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2025-07-30T20:12:30Z"
   },
   {
@@ -2538,9 +2538,9 @@
     "location": "New Zealand",
     "company": "Integrated Control Technology",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2025-07-15T01:50:22Z"
   },
   {
@@ -2564,7 +2564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 7,
     "createdAt": "2025-03-18T03:42:07Z"
   },
   {
@@ -2576,7 +2576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 113,
     "createdAt": "2025-05-29T08:22:04Z"
   },
   {
@@ -2588,7 +2588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2025-08-08T10:17:34Z"
   },
   {
@@ -2600,7 +2600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 250,
+    "publicContributions": 207,
     "createdAt": "2025-06-06T06:21:28Z"
   },
   {
@@ -2636,7 +2636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2025-07-14T22:18:41Z"
   },
   {
@@ -2652,18 +2652,6 @@
     "createdAt": "2025-07-15T04:55:09Z"
   },
   {
-    "login": "RashmiKulkarni1609",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208579099?s=72&v=4",
-    "location": "Auckland, New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-04-22T05:10:39Z"
-  },
-  {
     "login": "DeusEx-Projects-Group",
     "name": "James Arnold",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203393620?s=72&u=818dfca573f741a708bd9463faac21555d16ca6e&v=4",
@@ -2672,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-03-15T06:45:21Z"
   },
   {
@@ -2684,7 +2672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 33,
     "createdAt": "2025-02-17T01:58:12Z"
   },
   {
@@ -2695,8 +2683,8 @@
     "company": "University of Auckland",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 304,
-    "publicContributions": 585,
+    "privateContributions": 233,
+    "publicContributions": 1908,
     "createdAt": "2025-09-17T03:13:25Z"
   },
   {
@@ -2706,8 +2694,8 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 15,
+    "followers": 2,
+    "privateContributions": 9,
     "publicContributions": 205,
     "createdAt": "2025-08-01T08:51:22Z"
   },
@@ -2720,7 +2708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-25T08:25:33Z"
   },
   {
@@ -2732,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-16T05:11:41Z"
   },
   {
@@ -2744,20 +2732,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 75,
     "createdAt": "2025-11-15T10:04:17Z"
-  },
-  {
-    "login": "nicklc14",
-    "name": "Nick C",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225169744?s=72&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-08-07T09:36:58Z"
   },
   {
     "login": "caelanhuntress",

@@ -2646,22 +2646,10 @@
     "location": "Windhoek, Namibia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1082,
+    "followers": 9,
+    "privateContributions": 1037,
     "publicContributions": 24,
     "createdAt": "2020-02-23T14:04:17Z"
-  },
-  {
-    "login": "edilson-z",
-    "name": "Edilson Zau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64100210?s=72&v=4",
-    "location": "Windhoek, Namibia",
-    "company": "",
-    "twitterUsername": "EdilsonZau",
-    "followers": 5,
-    "privateContributions": 17,
-    "publicContributions": 0,
-    "createdAt": "2020-04-21T18:47:08Z"
   },
   {
     "login": "sezare",
@@ -2682,9 +2670,9 @@
     "location": "Namibia",
     "company": "@Etomart @NZZ @Daaily @DezCorp",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 6422,
-    "publicContributions": 35,
+    "followers": 8,
+    "privateContributions": 6301,
+    "publicContributions": 243,
     "createdAt": "2020-06-25T18:10:07Z"
   },
   {
@@ -2692,10 +2680,10 @@
     "name": "Frans",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74213622?s=72&u=a2af5af816f2924f6b140e34f9c819099a053a6a&v=4",
     "location": "Okahao, Namibia",
-    "company": "DBMN, FR Binaries Inc.",
+    "company": "DBMN, Corpus.",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
+    "followers": 4,
+    "privateContributions": 15,
     "publicContributions": 1,
     "createdAt": "2020-11-09T21:19:28Z"
   },
@@ -2731,8 +2719,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 122,
-    "publicContributions": 237,
+    "privateContributions": 130,
+    "publicContributions": 233,
     "createdAt": "2020-12-01T03:06:13Z"
   },
   {
@@ -2744,7 +2732,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 87,
     "createdAt": "2020-10-25T16:53:05Z"
   },
   {
@@ -2767,7 +2755,7 @@
     "company": "Virgil Financial Services",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 29,
+    "privateContributions": 23,
     "publicContributions": 4,
     "createdAt": "2020-07-24T08:59:53Z"
   },
@@ -2814,8 +2802,8 @@
     "location": "Windhoek, Namibia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 329,
+    "followers": 3,
+    "privateContributions": 283,
     "publicContributions": 5,
     "createdAt": "2020-05-12T11:25:02Z"
   },

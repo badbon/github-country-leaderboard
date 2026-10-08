@@ -2568,18 +2568,6 @@
     "createdAt": "2026-02-12T13:29:55Z"
   },
   {
-    "login": "Madaranga",
-    "name": "H.G. Madaranga Maheshan Wijerathna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/257818579?s=72&u=f37ddc0339cba9f60a1cc32a159cf949f1559725&v=4",
-    "location": "Kadugannawa, Sri Lanka",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2026-01-28T16:04:20Z"
-  },
-  {
     "login": "dilmith-laktharana",
     "name": "Dilmith Laktharana",
     "avatarUrl": "https://avatars.githubusercontent.com/u/252458586?s=72&u=de8c66d7432448749f1a2540b5845a223ded061a&v=4",
@@ -2600,7 +2588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 21,
-    "publicContributions": 102,
+    "publicContributions": 119,
     "createdAt": "2026-03-24T11:53:08Z"
   },
   {
@@ -2616,26 +2604,14 @@
     "createdAt": "2026-02-25T05:52:02Z"
   },
   {
-    "login": "gShashen",
-    "name": "G Shahsen Piyumal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/283315525?s=72&v=4",
-    "location": "Sri Lanka",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2026-05-10T05:27:22Z"
-  },
-  {
     "login": "CodePlusTechnology",
     "name": "Code Plus Technology",
     "avatarUrl": "https://avatars.githubusercontent.com/u/268112775?s=72&u=7d4fd00935e1c5334aa5b8931a37b0ae83c1fb5b&v=4",
     "location": "Colombo, Sri lanka",
     "company": "CodePlusTechnology",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 32,
+    "followers": 3,
+    "privateContributions": 58,
     "publicContributions": 1,
     "createdAt": "2026-03-14T06:34:05Z"
   },
@@ -2708,7 +2684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 114,
     "createdAt": "2026-02-28T22:09:42Z"
   },
   {
@@ -2720,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 160,
     "createdAt": "2026-01-12T05:52:32Z"
   },
   {
@@ -2732,7 +2708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 84,
     "createdAt": "2026-02-13T10:40:50Z"
   },
   {
@@ -2744,7 +2720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 216,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2026-02-11T04:31:09Z"
   },
   {
@@ -2756,7 +2732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 14,
     "createdAt": "2026-04-24T20:32:34Z"
   },
   {
@@ -2779,8 +2755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 62,
+    "privateContributions": 12,
+    "publicContributions": 69,
     "createdAt": "2026-01-03T13:51:56Z"
   },
   {
@@ -2790,9 +2766,9 @@
     "location": "Colombo-PR",
     "company": "",
     "twitterUsername": "",
-    "followers": 122,
+    "followers": 176,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 102,
     "createdAt": "2026-03-09T14:08:36Z"
   },
   {
@@ -2802,9 +2778,9 @@
     "location": "Colombo,Sri Lanaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 20,
     "privateContributions": 15,
-    "publicContributions": 126,
+    "publicContributions": 151,
     "createdAt": "2026-02-26T05:50:51Z"
   },
   {

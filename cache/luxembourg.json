@@ -2300,7 +2300,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2022-03-22T09:42:00Z"
   },
   {
@@ -2312,20 +2312,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2022-02-09T10:46:22Z"
-  },
-  {
-    "login": "grandananas",
-    "name": "Anton Makarov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110274593?s=72&u=b99ef9359ebc2f299f9b551b699959f05ce4bfbc&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2022-07-30T04:43:06Z"
   },
   {
     "login": "donbignose",
@@ -2335,7 +2323,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 989,
+    "privateContributions": 1349,
     "publicContributions": 132,
     "createdAt": "2022-10-07T19:56:17Z"
   },
@@ -2348,7 +2336,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 17,
     "createdAt": "2022-04-21T11:16:46Z"
   },
   {
@@ -2360,7 +2348,7 @@
     "twitterUsername": "MircoMacchi",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2022-01-12T15:20:06Z"
   },
   {
@@ -2371,7 +2359,7 @@
     "company": "Goodyear",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1307,
+    "privateContributions": 1329,
     "publicContributions": 0,
     "createdAt": "2022-11-02T13:05:01Z"
   },
@@ -2406,7 +2394,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "Neticz0r",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-06T16:52:23Z"
@@ -2420,7 +2408,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 51,
     "createdAt": "2022-05-02T08:13:13Z"
   },
   {
@@ -2431,8 +2419,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 45,
-    "publicContributions": 37,
+    "privateContributions": 106,
+    "publicContributions": 23,
     "createdAt": "2022-10-01T11:40:32Z"
   },
   {
@@ -2454,9 +2442,9 @@
     "location": "Luxembourg",
     "company": "Lycee des Arts et Métiers",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 128,
     "createdAt": "2022-07-04T18:45:55Z"
   },
   {
@@ -2502,7 +2490,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 62,
     "createdAt": "2022-12-25T22:08:32Z"
@@ -2527,7 +2515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 184,
+    "privateContributions": 107,
     "publicContributions": 65,
     "createdAt": "2022-10-21T08:38:15Z"
   },

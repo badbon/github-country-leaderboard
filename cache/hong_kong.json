@@ -2540,7 +2540,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 46,
     "createdAt": "2025-08-17T07:02:10Z"
   },
   {
@@ -2552,7 +2552,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-29T03:40:22Z"
   },
   {
@@ -2575,8 +2575,8 @@
     "company": "PolyU",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 312,
-    "publicContributions": 326,
+    "privateContributions": 257,
+    "publicContributions": 262,
     "createdAt": "2025-05-01T10:03:51Z"
   },
   {
@@ -2587,8 +2587,8 @@
     "company": "The University of Hong Kong",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 656,
-    "publicContributions": 39,
+    "privateContributions": 1049,
+    "publicContributions": 42,
     "createdAt": "2025-01-26T11:06:15Z"
   },
   {
@@ -2600,7 +2600,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 40,
     "createdAt": "2025-04-19T05:01:47Z"
   },
   {
@@ -2660,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 49,
     "createdAt": "2025-03-17T07:06:43Z"
   },
   {
@@ -2672,7 +2672,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-06-14T06:17:56Z"
   },
   {
@@ -2696,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-02-19T02:19:20Z"
   },
   {
@@ -2708,31 +2708,31 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 58,
     "createdAt": "2025-07-20T16:49:22Z"
   },
   {
     "login": "kosyfakicse",
     "name": "Chrysanthi Kosyfaki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219803885?s=72&u=56ea7c400e46e9a45c61c14eb7a77591a68a3f02&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219803885?s=72&u=6c49a4aded10d6220b6661c0d931fd7359be79b7&v=4",
     "location": "Clear Water Bay, New Territories, Hong Kong",
     "company": "Hong Kong University of Science and Technology ",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 102,
     "createdAt": "2025-07-08T07:36:02Z"
   },
   {
     "login": "Linfeng12321",
     "name": "Linfeng LIU",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217033738?s=72&u=c4177c0b6d19a3f0e786c92f96f4e35854605c2d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217033738?s=72&u=aea7d0b11cf5f79ac71d62705e82ea3de5b2d223&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2025-06-19T09:38:14Z"
   },
   {
@@ -2742,9 +2742,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 101,
     "createdAt": "2025-03-06T03:04:29Z"
   },
   {
@@ -68646,9 +68646,9 @@
     "location": "Hong Kong, China",
     "company": "Auros",
     "twitterUsername": "",
-    "followers": 201,
+    "followers": 205,
     "privateContributions": 0,
-    "publicContributions": 2914,
+    "publicContributions": 6455,
     "createdAt": "2017-11-08T10:06:37Z"
   },
   {
@@ -68994,9 +68994,9 @@
     "location": "Hong Kong, China",
     "company": "PolyU",
     "twitterUsername": "",
-    "followers": 86,
-    "privateContributions": 41,
-    "publicContributions": 48,
+    "followers": 83,
+    "privateContributions": 17,
+    "publicContributions": 52,
     "createdAt": "2017-11-04T05:44:35Z"
   },
   {
@@ -98995,8 +98995,8 @@
     "company": "@squareup ",
     "twitterUsername": "nandiheath",
     "followers": 41,
-    "privateContributions": 6601,
-    "publicContributions": 159,
+    "privateContributions": 8343,
+    "publicContributions": 256,
     "createdAt": "2014-05-22T04:58:34Z"
   },
   {

@@ -2596,10 +2596,10 @@
     "name": "Tony Valentine",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86597721?s=72&u=58db2943a7ba83b32ba90f738e2c3b8b9fdcd781&v=4",
     "location": "Malta",
-    "company": "@Dedaub",
+    "company": "",
     "twitterUsername": "_trvalentine",
     "followers": 10,
-    "privateContributions": 351,
+    "privateContributions": 354,
     "publicContributions": 3,
     "createdAt": "2021-06-28T09:08:37Z"
   },
@@ -2610,7 +2610,7 @@
     "location": "Malta",
     "company": "Be2Bit Ltd",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-08T17:05:52Z"
@@ -2620,11 +2620,11 @@
     "name": "Matthew Schembri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92710341?s=72&u=9b91aa2f33f1299af26f98b76992ea028ca5e0b5&v=4",
     "location": "Malta",
-    "company": "@NuvoleLabs",
-    "twitterUsername": "decodory_",
-    "followers": 10,
-    "privateContributions": 354,
-    "publicContributions": 14,
+    "company": "",
+    "twitterUsername": "decodoryy",
+    "followers": 8,
+    "privateContributions": 412,
+    "publicContributions": 11,
     "createdAt": "2021-10-18T06:20:11Z"
   },
   {
@@ -2634,8 +2634,8 @@
     "location": "Malta",
     "company": "Betsson",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 484,
+    "followers": 11,
+    "privateContributions": 408,
     "publicContributions": 0,
     "createdAt": "2021-07-30T09:07:29Z"
   },
@@ -2647,8 +2647,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 913,
-    "publicContributions": 60,
+    "privateContributions": 572,
+    "publicContributions": 987,
     "createdAt": "2021-05-06T14:31:15Z"
   },
   {
@@ -2659,8 +2659,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 714,
-    "publicContributions": 598,
+    "privateContributions": 755,
+    "publicContributions": 594,
     "createdAt": "2021-03-25T15:40:51Z"
   },
   {
@@ -2683,7 +2683,7 @@
     "company": "University of Malta",
     "twitterUsername": "M1HAJA",
     "followers": 7,
-    "privateContributions": 35,
+    "privateContributions": 37,
     "publicContributions": 17,
     "createdAt": "2021-01-12T11:40:47Z"
   },
@@ -2706,22 +2706,10 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-12-18T08:09:55Z"
-  },
-  {
-    "login": "garyThrels",
-    "name": "Gary",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87307137?s=72&u=555a372f37ecd479a2e8cb2d366b42a3f912359e&v=4",
-    "location": "Malta",
-    "company": "@Threls-Ltd ",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 3115,
-    "publicContributions": 53,
-    "createdAt": "2021-07-12T09:47:04Z"
   },
   {
     "login": "amifsud02",
@@ -2731,8 +2719,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 58,
-    "publicContributions": 14,
+    "privateContributions": 647,
+    "publicContributions": 21,
     "createdAt": "2021-03-10T15:56:27Z"
   },
   {
@@ -2743,7 +2731,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1512,
+    "privateContributions": 1568,
     "publicContributions": 0,
     "createdAt": "2021-06-03T08:32:35Z"
   },
@@ -2754,9 +2742,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 0,
     "createdAt": "2021-05-10T14:45:28Z"
   },
   {
@@ -2779,7 +2767,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3752,
+    "privateContributions": 3872,
     "publicContributions": 1,
     "createdAt": "2021-09-22T15:31:41Z"
   },

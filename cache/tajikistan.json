@@ -2586,9 +2586,9 @@
     "location": "Tajikistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2023-04-26T13:28:49Z"
   },
   {
@@ -2600,7 +2600,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 24,
     "createdAt": "2023-11-12T11:59:49Z"
   },
   {
@@ -2611,8 +2611,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 187,
-    "publicContributions": 34,
+    "privateContributions": 92,
+    "publicContributions": 53,
     "createdAt": "2023-07-30T08:25:31Z"
   },
   {
@@ -2652,18 +2652,6 @@
     "createdAt": "2023-03-05T02:20:12Z"
   },
   {
-    "login": "ssarfaroz",
-    "name": "Coder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122669202?s=72&u=fbecdc1bda5b7cc2b69d8648ae46644036c8d21c&v=4",
-    "location": "Tajikistan",
-    "company": "Kwork",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 178,
-    "publicContributions": 0,
-    "createdAt": "2023-01-14T08:52:27Z"
-  },
-  {
     "login": "ifedeev",
     "name": "Ilya Fedeev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130277787?s=72&u=dfc11ebabfd44126f7d5f39eecfc646a7ff9d115&v=4",
@@ -2672,7 +2660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2023-04-09T07:59:17Z"
   },
   {
@@ -2700,18 +2688,6 @@
     "createdAt": "2023-10-14T14:30:33Z"
   },
   {
-    "login": "azimkhon911",
-    "name": "Azimkhon Hasaniyon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140504408?s=72&u=a20e92db15ec0f470238ecbe30398693b8a979a8&v=4",
-    "location": "Tajikistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2023-07-25T10:23:52Z"
-  },
-  {
     "login": "rahimov-yr",
     "name": "Yusuf Rahimov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126478879?s=72&u=ebb33126bbaf10375bf871b6fc1197bd5d3464dc&v=4",
@@ -2719,8 +2695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2761,
-    "publicContributions": 7,
+    "privateContributions": 7159,
+    "publicContributions": 9,
     "createdAt": "2023-02-27T12:52:10Z"
   },
   {
@@ -2792,7 +2768,7 @@
     "twitterUsername": "breadsecurity17",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 57,
     "createdAt": "2022-12-29T01:08:05Z"
   },
   {
@@ -2804,7 +2780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 104,
-    "publicContributions": 106,
+    "publicContributions": 29,
     "createdAt": "2023-03-26T10:52:40Z"
   },
   {

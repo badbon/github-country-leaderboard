@@ -2599,8 +2599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 10,
-    "publicContributions": 21,
+    "privateContributions": 31,
+    "publicContributions": 19,
     "createdAt": "2022-10-24T21:47:37Z"
   },
   {
@@ -2612,7 +2612,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 25,
     "createdAt": "2022-11-22T05:40:56Z"
   },
   {
@@ -2635,21 +2635,9 @@
     "company": "@queens-autodrive ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 262,
-    "publicContributions": 15,
+    "privateContributions": 135,
+    "publicContributions": 17,
     "createdAt": "2022-10-31T19:54:10Z"
-  },
-  {
-    "login": "DenisKhat",
-    "name": "Denis Khatnyuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108973026?s=72&u=69b4cd8eb852e914476514cdff39de6083918702&v=4",
-    "location": "Kingston, Ontario",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2022-07-09T06:51:11Z"
   },
   {
     "login": "dan-distributive",
@@ -2658,9 +2646,9 @@
     "location": "Kingston",
     "company": "Distributive",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 173,
     "createdAt": "2022-11-29T14:30:04Z"
   },
   {
@@ -2708,7 +2696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 33,
     "createdAt": "2022-10-11T18:30:01Z"
   },
   {
@@ -2744,7 +2732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 25,
-    "publicContributions": 449,
+    "publicContributions": 398,
     "createdAt": "2022-04-11T21:35:06Z"
   },
   {
@@ -2767,8 +2755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 86,
-    "publicContributions": 275,
+    "privateContributions": 57,
+    "publicContributions": 274,
     "createdAt": "2022-02-09T20:33:47Z"
   },
   {
@@ -2778,7 +2766,7 @@
     "location": "Jamaica",
     "company": "Artuvic IT Solutions",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 30,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2021-09-12T19:55:58Z"
@@ -2790,8 +2778,8 @@
     "location": "Kingston, Jamaica",
     "company": "Digicel (Jamaica) Ltd",
     "twitterUsername": "ShaviyaVictor",
-    "followers": 30,
-    "privateContributions": 2,
+    "followers": 29,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-09-21T12:49:28Z"
   },
@@ -2804,7 +2792,7 @@
     "twitterUsername": "",
     "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 94,
     "createdAt": "2021-07-27T04:19:25Z"
   },
   {
@@ -2826,9 +2814,9 @@
     "location": "Kingston, Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 258,
-    "publicContributions": 242,
+    "followers": 18,
+    "privateContributions": 476,
+    "publicContributions": 230,
     "createdAt": "2021-03-03T16:39:24Z"
   },
   {

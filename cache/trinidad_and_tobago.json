@@ -2635,8 +2635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 61,
-    "privateContributions": 288,
-    "publicContributions": 56,
+    "privateContributions": 256,
+    "publicContributions": 62,
     "createdAt": "2013-01-22T22:35:01Z"
   },
   {
@@ -2647,8 +2647,8 @@
     "company": "@uwidcit @gdgpos",
     "twitterUsername": "snickdx",
     "followers": 51,
-    "privateContributions": 237,
-    "publicContributions": 143,
+    "privateContributions": 259,
+    "publicContributions": 136,
     "createdAt": "2013-11-03T18:27:33Z"
   },
   {
@@ -2672,7 +2672,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2013-11-14T20:13:29Z"
   },
   {
@@ -2768,7 +2768,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 302,
     "createdAt": "2013-05-22T20:10:39Z"
   },
   {
@@ -2790,7 +2790,7 @@
     "location": "Port of Spain, Trinidad & Tobago",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-08T17:27:38Z"
@@ -2802,9 +2802,9 @@
     "location": "Trinidad and Tobago",
     "company": "@CoplayDev ",
     "twitterUsername": "marcussanatan",
-    "followers": 98,
-    "privateContributions": 228,
-    "publicContributions": 442,
+    "followers": 102,
+    "privateContributions": 239,
+    "publicContributions": 426,
     "createdAt": "2012-08-08T21:25:25Z"
   },
   {
@@ -2815,8 +2815,8 @@
     "company": "@squareup ",
     "twitterUsername": "kyle_def",
     "followers": 70,
-    "privateContributions": 2504,
-    "publicContributions": 27,
+    "privateContributions": 3059,
+    "publicContributions": 35,
     "createdAt": "2012-07-18T22:15:59Z"
   },
   {
@@ -2839,7 +2839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-06-24T21:31:44Z"
   },
@@ -2852,7 +2852,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 40,
     "createdAt": "2012-08-12T15:40:08Z"
   },
   {
@@ -2862,9 +2862,9 @@
     "location": "Trinidad and Tobago",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 63,
-    "publicContributions": 6,
+    "followers": 18,
+    "privateContributions": 64,
+    "publicContributions": 7,
     "createdAt": "2012-08-30T23:29:36Z"
   },
   {
