@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-08T09:24:13.677Z
+Generated: 2026-10-08T10:13:31.275Z
 
 Users: 2570
 
@@ -10,9 +10,9 @@ Users: 2570
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 12866 |
 | 3 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Kuwait Projects Company - Kipco | husseinturfah | Lebanon | 12182 |
 | 4 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 10637 |
-| 5 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9444 |
-| 6 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | @Meritt-dev  |  | Lebanon | 9315 |
-| 7 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 8542 |
+| 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 10546 |
+| 6 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9444 |
+| 7 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | @Meritt-dev  |  | Lebanon | 9315 |
 | 8 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 6334 |
 | 9 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Freelance | alishkeir_ | Beirut, Lebanon | 6225 |
 | 10 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6138 |

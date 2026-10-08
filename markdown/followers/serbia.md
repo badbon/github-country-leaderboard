@@ -1,8 +1,8 @@
 # Followers - Serbia
 
-Generated: 2026-10-08T09:39:42.051Z
+Generated: 2026-10-08T10:25:27.722Z
 
-Users: 10668
+Users: 10667
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

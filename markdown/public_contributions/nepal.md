@@ -1,8 +1,8 @@
 # Public Contributions - Nepal
 
-Generated: 2026-10-08T09:30:24.964Z
+Generated: 2026-10-08T10:18:35.703Z
 
-Users: 14074
+Users: 14073
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 14074
 | 16 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | @merocms |  | Kathmandu, Nepal | 2871 |
 | 17 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 2831 |
 | 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada |  |  | Dhading,Nepal | 2689 |
-| 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 2596 |
-| 20 | [phil-davis](https://github.com/phil-davis) | Phil Davis | @JankariTech  |  | Nepal | 2459 |
+| 19 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary |  | AashishCha9656 | Pokhara, Nepal | 2666 |
+| 20 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 2596 |

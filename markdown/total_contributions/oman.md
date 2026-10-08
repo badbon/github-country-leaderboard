@@ -1,8 +1,8 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-08T09:33:38.074Z
+Generated: 2026-10-08T10:21:19.224Z
 
-Users: 1002
+Users: 1001
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,15 +12,15 @@ Users: 1002
 | 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi |  |  | Muscat, OM. | 11052 |
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 8697 |
 | 6 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 7994 |
-| 7 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 6444 |
-| 8 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan |  |  | Muscat, Oman | 5288 |
-| 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 4970 |
-| 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 4818 |
-| 11 | [samyakrajbayar](https://github.com/samyakrajbayar) | Samyakraj Bayar | @EdudevCommons |  | Muscat, Oman | 4589 |
-| 12 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 4541 |
-| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
-| 14 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
-| 15 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 4372 |
+| 7 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6484 |
+| 8 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 6444 |
+| 9 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan |  |  | Muscat, Oman | 5288 |
+| 10 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 4970 |
+| 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 4818 |
+| 12 | [samyakrajbayar](https://github.com/samyakrajbayar) | Samyakraj Bayar | @EdudevCommons |  | Muscat, Oman | 4589 |
+| 13 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 4541 |
+| 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
+| 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
 | 16 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
 | 17 | [m7medVision](https://github.com/m7medVision) | Mohammed | @mymanara  | m7medVision | Oman | 4175 |
 | 18 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | CodeLine |  | Muscat | 3764 |

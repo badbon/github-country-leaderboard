@@ -14,7 +14,7 @@ Indexed users: 256
 |---:|---|---|---|---:|
 | 1 | [DarionHernandez](https://github.com/DarionHernandez) | Darion A. Hernandez | Trinidad and Tobago | 8,165 |
 | 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 6,617 |
-| 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 3,733 |
+| 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 3,757 |
 | 4 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 3,727 |
 | 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,094 |
 | 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,978 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-08T09:44:10.561Z
+Generated: 2026-10-08T10:31:50.071Z

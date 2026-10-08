@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-08T09:22:03.054Z
+Generated: 2026-10-08T10:11:18.839Z
 
 Users: 1283
 
@@ -25,4 +25,4 @@ Users: 1283
 | 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
 | 18 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |
 | 19 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 3401 |
-| 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 2983 |
+| 20 | [titan-65](https://github.com/titan-65) | Vantol Bennett | @Mashed-Potato-Studios | VantolBennett | Jamaica | 3280 |

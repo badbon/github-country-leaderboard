@@ -17,9 +17,9 @@ Indexed users: 487
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,466 |
 | 4 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 5,806 |
 | 5 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 5,802 |
-| 6 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,330 |
-| 7 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 5,278 |
-| 8 | [theboss001](https://github.com/theboss001) | misterJS | Côte d'ivoire | 5,245 |
+| 6 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 5,781 |
+| 7 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,330 |
+| 8 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 5,278 |
 | 9 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 4,947 |
 | 10 | [Chris000888](https://github.com/Chris000888) | Christopher DATO | Abidjan, Côte d'Ivoire | 4,915 |
 | 11 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,699 |
@@ -80,7 +80,7 @@ Indexed users: 487
 | 16 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 55 |
 | 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 52 |
 | 18 | [ourystd](https://github.com/ourystd) | Oury Diallo | Abidjan, Côte d'Ivoire | 50 |
-| 19 | [k111ra](https://github.com/k111ra) | sidik slims | Abidjan, Côte D'ivoire | 42 |
-| 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
+| 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
+| 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 40 |
 
-Generated: 2026-10-08T09:21:57.562Z
+Generated: 2026-10-08T10:10:45.121Z

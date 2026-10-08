@@ -49,7 +49,7 @@ Indexed users: 1,361
 | 10 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
 | 11 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
 | 12 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,220 |
-| 13 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,147 |
+| 13 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,160 |
 | 14 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
 | 15 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
 | 16 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,021 |
@@ -83,4 +83,4 @@ Indexed users: 1,361
 | 19 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 | 20 | [tonux](https://github.com/tonux) | Tonux SAMB | Dakar, Sénégal  | 124 |
 
-Generated: 2026-10-08T09:39:38.571Z
+Generated: 2026-10-08T10:25:24.704Z

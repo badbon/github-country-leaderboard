@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 1,002
+Indexed users: 1,001
 
 | Leaderboard | Link |
 |---|---|
@@ -18,15 +18,15 @@ Indexed users: 1,002
 | 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 8,697 |
 | 6 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 7,994 |
-| 7 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 6,444 |
-| 8 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
-| 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 4,970 |
-| 10 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
-| 11 | [samyakrajbayar](https://github.com/samyakrajbayar) | Samyakraj Bayar | Muscat, Oman | 4,589 |
-| 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
-| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
-| 14 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
-| 15 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 4,372 |
+| 7 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
+| 8 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 6,444 |
+| 9 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
+| 10 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 4,970 |
+| 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
+| 12 | [samyakrajbayar](https://github.com/samyakrajbayar) | Samyakraj Bayar | Muscat, Oman | 4,589 |
+| 13 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
+| 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
+| 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
 | 16 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
 | 17 | [m7medVision](https://github.com/m7medVision) | Mohammed | Oman | 4,175 |
 | 18 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
@@ -83,4 +83,4 @@ Indexed users: 1,002
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-08T09:33:38.074Z
+Generated: 2026-10-08T10:21:19.224Z

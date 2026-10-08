@@ -1,19 +1,19 @@
 # Followers - Palestine
 
-Generated: 2026-10-08T09:34:06.045Z
+Generated: 2026-10-08T10:21:26.845Z
 
-Users: 2212
+Users: 2211
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed |  | shadeed9 | Tulkarm, Palestine | 1838 |
-| 2 | [msafadi](https://github.com/msafadi) | Mohammed Safadi |  | msafadi | Gaza, Palestine | 488 |
-| 3 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Student at BZU |  | Palestine-Ramallah-Kufor-Malik | 453 |
+| 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Student at BZU |  | Palestine-Ramallah-Kufor-Malik | 498 |
+| 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi |  | msafadi | Gaza, Palestine | 488 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 228 |
 | 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat |  |  | Dura, Palestine  | 225 |
 | 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 216 |
-| 7 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine Polytechnic University (PPU) |  | Palestine | 213 |
-| 8 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos |  |  | Gaza,Palestine | 209 |
+| 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos |  |  | Gaza,Palestine | 209 |
+| 8 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine Polytechnic University (PPU) |  | Palestine | 209 |
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji |  | mohnaji94 | Palestine / Gaza | 177 |
 | 10 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Foothill Technology Solutions, LLC |  | Jenin, Palestine | 177 |
 | 11 | [hetslop](https://github.com/hetslop) | lance | bestfriends!! @bratworth @thefruitgrape @inmycomfortzone @evtjvashtsmartin @AdorableCattyy @milkiiwayz @kromakon |  | https://arab.org/click-to-help/palestine/ | 175 |

@@ -26,7 +26,7 @@ Indexed users: 177
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 773 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 750 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 691 |
-| 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 600 |
+| 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 599 |
 | 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 514 |
 | 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 512 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
@@ -41,7 +41,7 @@ Indexed users: 177
 | 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,762 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,099 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 965 |
-| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 600 |
+| 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 599 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 373 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 252 |
@@ -83,4 +83,4 @@ Indexed users: 177
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-08T09:32:45.687Z
+Generated: 2026-10-08T10:20:22.109Z

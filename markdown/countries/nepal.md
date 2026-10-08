@@ -1,6 +1,6 @@
 # Nepal
 
-Indexed users: 14,074
+Indexed users: 14,073
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 14,074
 | 16 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | Kathmandu, Nepal | 2,871 |
 | 17 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 2,831 |
 | 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada | Dhading,Nepal | 2,689 |
-| 19 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 2,596 |
-| 20 | [phil-davis](https://github.com/phil-davis) | Phil Davis | Nepal | 2,459 |
+| 19 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary | Pokhara, Nepal | 2,666 |
+| 20 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 2,596 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 14,074
 | 19 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
 | 20 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 
-Generated: 2026-10-08T09:30:24.964Z
+Generated: 2026-10-08T10:18:35.703Z

@@ -81,6 +81,6 @@ Indexed users: 1,917
 | 17 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA | Antananarivo - MADAGASCAR | 153 |
 | 18 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia | Antananarivo, Madagascar | 148 |
 | 19 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan | Antananarivo, Madagascar | 145 |
-| 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
+| 20 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
 
-Generated: 2026-10-08T09:26:58.217Z
+Generated: 2026-10-08T10:14:23.621Z

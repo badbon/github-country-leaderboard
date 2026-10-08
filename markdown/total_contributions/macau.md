@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-08T09:26:55.323Z
+Generated: 2026-10-08T10:14:19.775Z
 
 Users: 441
 
@@ -10,10 +10,10 @@ Users: 441
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 9280 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  |  |  | Macau | 7712 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 6425 |
-| 5 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
-| 6 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 3792 |
-| 7 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3272 |
-| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3023 |
+| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 5381 |
+| 6 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
+| 7 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3296 |
+| 8 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3272 |
 | 9 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2854 |
 | 10 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2345 |
 | 11 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2261 |

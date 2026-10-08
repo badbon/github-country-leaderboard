@@ -17,21 +17,21 @@ Indexed users: 475
 | 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,544 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,282 |
 | 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,058 |
-| 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 5,610 |
-| 7 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,508 |
-| 8 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 3,998 |
-| 9 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 3,679 |
+| 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,026 |
+| 7 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 5,071 |
+| 8 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,508 |
+| 9 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 3,998 |
 | 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,012 |
-| 11 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
-| 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,317 |
+| 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,843 |
+| 12 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
 | 13 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,183 |
 | 14 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
 | 15 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,898 |
-| 16 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,776 |
-| 17 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 1,563 |
-| 18 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 1,557 |
-| 19 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,520 |
-| 20 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 1,503 |
+| 16 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,873 |
+| 17 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,776 |
+| 18 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 1,563 |
+| 19 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 1,557 |
+| 20 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,520 |
 
 ## Public Contributions
 
@@ -52,11 +52,11 @@ Indexed users: 475
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 284 |
 | 14 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 271 |
 | 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
-| 16 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
-| 17 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 245 |
-| 18 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
-| 19 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 233 |
-| 20 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 230 |
+| 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 254 |
+| 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
+| 18 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 245 |
+| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
+| 20 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 233 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-08T09:30:20.501Z
+Generated: 2026-10-08T10:17:35.932Z

@@ -1,6 +1,6 @@
 # Total Contributions - Guernsey
 
-Generated: 2026-10-08T09:19:14.695Z
+Generated: 2026-10-08T10:06:07.733Z
 
 Users: 45
 
@@ -13,7 +13,7 @@ Users: 45
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | Technosight |  | St Peter Port, Guernsey | 914 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 678 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 455 |
-| 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 370 |
+| 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 376 |
 | 9 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 258 |
 | 10 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 224 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY |  |  | Guernsey | 116 |

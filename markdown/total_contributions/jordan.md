@@ -1,8 +1,8 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-08T09:22:14.117Z
+Generated: 2026-10-08T10:12:00.844Z
 
-Users: 4025
+Users: 4024
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 4025
 | 6 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8574 |
 | 7 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
 | 8 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6447 |
-| 9 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 6105 |
-| 10 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 5976 |
-| 11 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi |  |  | Amman\Jordan | 5926 |
-| 12 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 5377 |
-| 13 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh |  |  | Jordan, Amman | 5292 |
-| 14 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | @mujeer-com |  | Amman, Jordan | 5287 |
-| 15 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 5271 |
-| 16 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
-| 17 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5181 |
-| 18 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
-| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |
-| 20 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 4568 |
+| 9 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
+| 10 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 6105 |
+| 11 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 5976 |
+| 12 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |
+| 13 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 5377 |
+| 14 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh |  |  | Jordan, Amman | 5292 |
+| 15 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | @mujeer-com |  | Amman, Jordan | 5287 |
+| 16 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 5271 |
+| 17 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
+| 18 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5181 |
+| 19 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
+| 20 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |

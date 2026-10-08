@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,212
+Indexed users: 2,211
 
 | Leaderboard | Link |
 |---|---|
@@ -63,13 +63,13 @@ Indexed users: 2,212
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed | Tulkarm, Palestine | 1,838 |
-| 2 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 488 |
-| 3 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Palestine-Ramallah-Kufor-Malik | 453 |
+| 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Palestine-Ramallah-Kufor-Malik | 498 |
+| 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 488 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 228 |
 | 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 225 |
 | 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 216 |
-| 7 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine | 213 |
-| 8 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 209 |
+| 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 209 |
+| 8 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine | 209 |
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji | Palestine / Gaza | 177 |
 | 10 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Jenin, Palestine | 177 |
 | 11 | [hetslop](https://github.com/hetslop) | lance | https://arab.org/click-to-help/palestine/ | 175 |
@@ -83,4 +83,4 @@ Indexed users: 2,212
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 131 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-08T09:34:06.045Z
+Generated: 2026-10-08T10:21:26.845Z

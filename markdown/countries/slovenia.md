@@ -14,11 +14,11 @@ Indexed users: 3,112
 |---:|---|---|---|---:|
 | 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 29,433 |
 | 2 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Slovenia | 16,440 |
-| 3 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 13,109 |
-| 4 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 12,643 |
-| 5 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
-| 6 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
-| 7 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 9,942 |
+| 3 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
+| 4 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 13,109 |
+| 5 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 12,643 |
+| 6 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
+| 7 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
 | 8 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,520 |
 | 9 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,945 |
 | 10 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
@@ -83,4 +83,4 @@ Indexed users: 3,112
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-08T09:41:10.572Z
+Generated: 2026-10-08T10:26:26.707Z

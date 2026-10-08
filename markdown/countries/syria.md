@@ -68,7 +68,7 @@ Indexed users: 1,483
 | 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 293 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 216 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 203 |
-| 7 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 184 |
+| 7 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 174 |
 | 8 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 172 |
 | 9 | [Rami-Sabbagh](https://github.com/Rami-Sabbagh) | Rami Sabbagh | Damascus, Syria | 156 |
 | 10 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran | Syria | 155 |
@@ -83,4 +83,4 @@ Indexed users: 1,483
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-08T10:00:15.205Z
+Generated: 2026-10-08T10:30:03.040Z

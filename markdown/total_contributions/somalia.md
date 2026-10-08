@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-08T09:41:18.378Z
+Generated: 2026-10-08T10:27:27.221Z
 
 Users: 860
 
@@ -15,11 +15,11 @@ Users: 860
 | 7 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 5231 |
 | 8 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4869 |
 | 9 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 4299 |
-| 10 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | @jtechso |  | Mogadishu | 3996 |
-| 11 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 3983 |
-| 12 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 3880 |
-| 13 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3543 |
-| 14 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3367 |
+| 10 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 3983 |
+| 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 3880 |
+| 12 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3543 |
+| 13 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3367 |
+| 14 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | @jtechso |  | Mogadishu | 3321 |
 | 15 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Jamhuriya Technology Solutions | bashkahee | Mogadishu | 3296 |
 | 16 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 3233 |
 | 17 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |

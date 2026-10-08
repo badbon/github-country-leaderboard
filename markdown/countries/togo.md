@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 680
+Indexed users: 684
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 680
 | 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,847 |
 | 9 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,710 |
 | 10 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,382 |
-| 11 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,194 |
-| 12 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 905 |
-| 13 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 885 |
-| 14 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 802 |
-| 15 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
-| 16 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
-| 17 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
-| 18 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 642 |
-| 19 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 605 |
-| 20 | [SevTify404](https://github.com/SevTify404) | SevTify[404] | Lomé-Togo | 590 |
+| 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,275 |
+| 12 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,194 |
+| 13 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 905 |
+| 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 885 |
+| 15 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 802 |
+| 16 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
+| 17 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
+| 18 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
+| 19 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 642 |
+| 20 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU | Lomé, Togo | 605 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 680
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 65 |
 
-Generated: 2026-10-08T09:43:58.722Z
+Generated: 2026-10-08T10:31:43.286Z

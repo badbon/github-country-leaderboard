@@ -1,6 +1,6 @@
 # Followers - Ivory Coast
 
-Generated: 2026-10-08T09:21:57.562Z
+Generated: 2026-10-08T10:10:45.121Z
 
 Users: 487
 
@@ -24,5 +24,5 @@ Users: 487
 | 16 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot |  | agnamc9 | Abidjan, Côte d'Ivoire | 55 |
 | 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Nascent Tech | hassanedao | Côte d'ivoire, Abidjan | 52 |
 | 18 | [ourystd](https://github.com/ourystd) | Oury Diallo |  |  | Abidjan, Côte d'Ivoire | 50 |
-| 19 | [k111ra](https://github.com/k111ra) | sidik slims | Tech.Artisan | sidikslims | Abidjan, Côte D'ivoire | 42 |
-| 20 | [stephsalou](https://github.com/stephsalou) | stephane salou |  |  | Abidjan , Côte D'Ivoire | 41 |
+| 19 | [stephsalou](https://github.com/stephsalou) | stephane salou |  |  | Abidjan , Côte D'Ivoire | 41 |
+| 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | @Akanza @codedivoire @cinetpay. |  | Ivory Coast (Abidjan) | 40 |

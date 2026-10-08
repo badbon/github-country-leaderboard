@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-08T09:30:20.501Z
+Generated: 2026-10-08T10:17:35.932Z
 
 Users: 475
 
@@ -21,8 +21,8 @@ Users: 475
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 284 |
 | 14 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 271 |
 | 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
-| 16 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
-| 17 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 245 |
-| 18 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
-| 19 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 233 |
-| 20 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 230 |
+| 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 254 |
+| 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
+| 18 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 245 |
+| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
+| 20 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 233 |

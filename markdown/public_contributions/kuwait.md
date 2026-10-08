@@ -1,8 +1,8 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-08T09:22:53.503Z
+Generated: 2026-10-08T10:13:03.368Z
 
-Users: 802
+Users: 800
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 802
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 527 |
 | 17 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 521 |
 | 18 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 438 |
-| 19 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. |  | AB_berchan | Kuwait | 434 |
-| 20 | [Niddush786](https://github.com/Niddush786) | Nida Tanveer |  |  | Kuwait | 431 |
+| 19 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | @nizek |  | Kuwait | 435 |
+| 20 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. |  | AB_berchan | Kuwait | 434 |

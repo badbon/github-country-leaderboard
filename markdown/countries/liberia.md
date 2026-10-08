@@ -13,16 +13,16 @@ Indexed users: 209
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,613 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,294 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,283 |
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,366 |
 | 4 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,863 |
 | 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,089 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,510 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,442 |
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,380 |
-| 9 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
-| 10 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,135 |
-| 11 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,132 |
+| 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,167 |
+| 10 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
+| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,135 |
 | 12 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 879 |
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 879 |
 | 14 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 807 |
@@ -83,4 +83,4 @@ Indexed users: 209
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-08T09:24:54.693Z
+Generated: 2026-10-08T10:13:37.913Z

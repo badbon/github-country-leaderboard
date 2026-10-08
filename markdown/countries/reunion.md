@@ -15,7 +15,7 @@ Indexed users: 212
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 12,643 |
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,649 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,461 |
-| 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,770 |
+| 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,778 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,502 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,772 |
 | 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,413 |
@@ -26,7 +26,7 @@ Indexed users: 212
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,951 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,861 |
 | 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,802 |
-| 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,739 |
+| 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,766 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,482 |
 | 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,406 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,346 |
@@ -39,7 +39,7 @@ Indexed users: 212
 |---:|---|---|---|---:|
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,884 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,482 |
-| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,148 |
+| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 1,145 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  | Saint Denis | 1,110 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 868 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 716 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-08T09:37:52.945Z
+Generated: 2026-10-08T10:23:43.869Z
