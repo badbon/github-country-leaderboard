@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-08T16:06:22.339Z
+Generated: 2026-10-08T17:10:04.383Z
 
 Users: 2046
 
@@ -21,8 +21,8 @@ Users: 2046
 | 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
 | 14 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
 | 15 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
-| 16 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |
-| 17 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 6435 |
-| 18 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 6399 |
-| 19 | [Jeccoman](https://github.com/Jeccoman) | Man  Offline |  |  | Tanzania  | 6330 |
-| 20 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 6287 |
+| 16 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 6717 |
+| 17 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |
+| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 6435 |
+| 19 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 6399 |
+| 20 | [Jeccoman](https://github.com/Jeccoman) | Man  Offline |  |  | Tanzania  | 6330 |

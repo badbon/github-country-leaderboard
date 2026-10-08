@@ -1,14 +1,14 @@
 # Followers - Syria
 
-Generated: 2026-10-08T16:04:36.452Z
+Generated: 2026-10-08T17:09:28.017Z
 
 Users: 1483
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [meory101](https://github.com/meory101) | Nour Othman |  |  | Damascus Syria | 735 |
-| 2 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 312 |
-| 3 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 304 |
+| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 304 |
+| 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 303 |
 | 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | Rako |  | syria | 293 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 216 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 203 |
@@ -22,7 +22,7 @@ Users: 1483
 | 14 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 135 |
 | 15 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal |  |  | Syria  | 128 |
 | 16 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 126 |
-| 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 126 |
+| 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |
 | 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 101 |
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy |  |  | Latakia, Syria | 101 |

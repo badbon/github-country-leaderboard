@@ -1,8 +1,8 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-08T16:13:27.339Z
+Generated: 2026-10-08T17:16:17.869Z
 
-Users: 1504
+Users: 1503
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,8 +13,8 @@ Users: 1504
 | 5 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 281 |
 | 6 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | AseelApp, Industry Umbrella | Masih_202 | Kabul, Afghanistan | 260 |
 | 7 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 258 |
-| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 221 |
-| 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Clearoute Inc | MastooraJ22 | Kabul, Afghanistan | 221 |
+| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub |  |  | Afghanistan | 222 |
+| 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Clearoute Inc | MastooraJ22 | Kabul, Afghanistan | 218 |
 | 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul University  | sarwar_ebrahimi | Kabul , Afghanistan  | 186 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | CodeToInspire | Wajiha_Niazi | Herat,Afghanistan | 156 |

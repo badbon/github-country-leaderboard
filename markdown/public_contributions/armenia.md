@@ -1,6 +1,6 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-08T16:27:53.171Z
+Generated: 2026-10-08T17:18:28.636Z
 
 Users: 4045
 
@@ -19,10 +19,10 @@ Users: 4045
 | 11 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2013 |
 | 12 | [h3l10w0r1d](https://github.com/h3l10w0r1d) | Armen Ghazaryan | @Voveron |  | Yerevan, Armenia | 1750 |
 | 13 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
-| 14 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
-| 15 | [asiryan](https://github.com/asiryan) | Valery Asiryan |  |  | Armenia, Yerevan | 1577 |
-| 16 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
-| 17 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1513 |
-| 18 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
-| 19 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |
-| 20 | [armanist](https://github.com/armanist) | ArmaX |  |  | Armenia | 1424 |
+| 14 | [nazelizurna](https://github.com/nazelizurna) |  |  |  | Yerevan, Armenia | 1605 |
+| 15 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
+| 16 | [asiryan](https://github.com/asiryan) | Valery Asiryan |  |  | Armenia, Yerevan | 1577 |
+| 17 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
+| 18 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1513 |
+| 19 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
+| 20 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |

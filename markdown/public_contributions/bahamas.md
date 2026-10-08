@@ -1,6 +1,6 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-08T16:39:23.729Z
+Generated: 2026-10-08T17:19:44.628Z
 
 Users: 236
 
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 54 |
 | 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 44 |
 | 18 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 44 |
-| 19 | [bmo242](https://github.com/bmo242) | Brandon Morrison | BrandOn - Graphics & Web Development  |  | Nassau, Bahamas | 43 |
-| 20 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 41 |
+| 19 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 41 |
+| 20 | [bmo242](https://github.com/bmo242) | Brandon Morrison | BrandOn - Graphics & Web Development  |  | Nassau, Bahamas | 37 |

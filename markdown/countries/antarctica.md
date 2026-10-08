@@ -16,8 +16,8 @@ Indexed users: 463
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,089 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,039 |
 | 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,325 |
-| 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,757 |
-| 6 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 4,699 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,052 |
+| 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,757 |
 | 7 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,612 |
 | 8 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
@@ -48,15 +48,15 @@ Indexed users: 463
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,288 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,163 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,137 |
-| 12 | [icecubedotwtf](https://github.com/icecubedotwtf) | icecube | Antarctica | 996 |
-| 13 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 748 |
-| 14 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
-| 15 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
-| 16 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
-| 17 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 534 |
-| 18 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 19 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
-| 20 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
+| 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 748 |
+| 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
+| 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
+| 15 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
+| 16 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 534 |
+| 17 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
+| 19 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
+| 20 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
 
 ## Followers
 
@@ -71,7 +71,7 @@ Indexed users: 463
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 133 |
 | 9 | [bestruirui](https://github.com/bestruirui) | BESTRUI | Antarctica | 123 |
-| 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 122 |
+| 10 | [examachine](https://github.com/examachine) | Eray Özkural | Dead City, Antarctica | 120 |
 | 11 | [TobitoFatitoRE](https://github.com/TobitoFatitoRE) | TobitoFatito | Davis Station, Antarctica | 119 |
 | 12 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 117 |
 | 13 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
@@ -83,4 +83,4 @@ Indexed users: 463
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-08T16:15:50.881Z
+Generated: 2026-10-08T17:17:59.674Z

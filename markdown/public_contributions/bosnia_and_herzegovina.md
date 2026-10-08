@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-08T16:18:44.923Z
+Generated: 2026-10-08T17:22:48.388Z
 
 Users: 2135
 
@@ -21,7 +21,7 @@ Users: 2135
 | 13 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 1249 |
 | 14 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1099 |
 | 15 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | bracetm |  | Sarajevo, FBiH | 1093 |
-| 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 926 |
+| 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |
 | 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota |  |  | Sarajevo, BiH | 892 |
 | 18 | [esensar](https://github.com/esensar) | Ensar Sarajčić |  |  | Sarajevo, Bosnia and Herzegovina | 719 |
 | 19 | [zalom](https://github.com/zalom) | Zlatko Alomerovic |  |  | Tuzla, Bosnia and Herzegovina | 716 |

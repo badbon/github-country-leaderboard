@@ -1,20 +1,20 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-08T16:42:30.410Z
+Generated: 2026-10-08T17:43:38.202Z
 
-Users: 2456
+Users: 2455
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Prodify |  | Kyrgystan, Bishkek | 11809 |
-| 2 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @fastronome |  | Bishkek, Kyrgyz Republic | 3485 |
-| 3 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyz State Technical University  |  | Kyrgyzstan | 3248 |
-| 4 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 2600 |
-| 5 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 2262 |
-| 6 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1843 |
-| 7 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1651 |
-| 8 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1626 |
-| 9 | [kymuco](https://github.com/kymuco) | Ikymuco | Independent |  | Bishkek, Kyrgyzstan | 1598 |
+| 2 | [kymuco](https://github.com/kymuco) | Ikymuco |  |  | Bishkek, Kyrgyzstan | 3599 |
+| 3 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @fastronome |  | Bishkek, Kyrgyz Republic | 3485 |
+| 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyz State Technical University  |  | Kyrgyzstan | 3248 |
+| 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | SU Solutions |  | Bishkek | 2600 |
+| 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 2262 |
+| 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Tunduk |  | Bishkek, Kyrgyzstan  | 1843 |
+| 8 | [fi-res](https://github.com/fi-res) | fires |  |  | kyrgyzstan | 1651 |
+| 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko |  |  | Bishkek, Kyrgyzstan (Relocated) | 1626 |
 | 10 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | PROlab |  | Bishkek | 1336 |
 | 11 | [raimbekovm](https://github.com/raimbekovm) | Murat Raimbekov | @ultralytics  |  | Bishkek, Kyrgyzstan | 1261 |
 | 12 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1247 |

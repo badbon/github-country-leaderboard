@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-08T16:15:50.881Z
+Generated: 2026-10-08T17:17:59.674Z
 
 Users: 463
 
@@ -10,8 +10,8 @@ Users: 463
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 6089 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6039 |
 | 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 5325 |
-| 5 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4757 |
-| 6 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 4699 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 5052 |
+| 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4757 |
 | 7 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4612 |
 | 8 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4599 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4413 |

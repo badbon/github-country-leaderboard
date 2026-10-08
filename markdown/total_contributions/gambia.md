@@ -1,17 +1,17 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-08T16:34:00.101Z
+Generated: 2026-10-08T17:32:59.636Z
 
 Users: 80
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3335 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3030 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3040 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | MEST Africa \|\| Ex Kuringo | aduboyjarjusey | Gambia | 2580 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1449 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane |  | alieundimz | Gambia | 1338 |
-| 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1296 |
+| 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Dcyberlab |  | Gambia | 1303 |
 | 7 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | LBarrow | laminbarrow | Bakoteh, Gambia | 1279 |
 | 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 855 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 733 |

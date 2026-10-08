@@ -12,13 +12,13 @@ Indexed users: 93
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 23,626 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 23,638 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,677 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 4,947 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,256 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,161 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,379 |
-| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,276 |
+| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,278 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 1,173 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 835 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato | Gibraltar | 772 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-08T16:34:27.943Z
+Generated: 2026-10-08T17:33:24.802Z

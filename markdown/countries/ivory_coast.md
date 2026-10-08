@@ -1,6 +1,6 @@
 # Ivory Coast
 
-Indexed users: 486
+Indexed users: 487
 
 | Leaderboard | Link |
 |---|---|
@@ -12,18 +12,18 @@ Indexed users: 486
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 8,855 |
+| 1 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 8,846 |
 | 2 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,634 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,466 |
 | 4 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 7,510 |
 | 5 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 5,806 |
 | 6 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 5,781 |
-| 7 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 5,456 |
-| 8 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,330 |
-| 9 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 4,947 |
-| 10 | [Chris000888](https://github.com/Chris000888) | Christopher DATO | Abidjan, Côte d'Ivoire | 4,915 |
-| 11 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,699 |
-| 12 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | abidjan, côte d'ivoire | 4,479 |
+| 7 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | abidjan, côte d'ivoire | 5,608 |
+| 8 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 5,456 |
+| 9 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,330 |
+| 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 4,947 |
+| 11 | [Chris000888](https://github.com/Chris000888) | Christopher DATO | Abidjan, Côte d'Ivoire | 4,915 |
+| 12 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,699 |
 | 13 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 4,264 |
 | 14 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 4,056 |
 | 15 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 3,877 |
@@ -63,7 +63,7 @@ Indexed users: 486
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude) | Bleu Yves Sopoude | Ivory Coast | 289 |
-| 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 252 |
+| 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 248 |
 | 3 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 150 |
 | 4 | [AngeTia](https://github.com/AngeTia) | M. Gompou Tia Ange | Ivory Coast, Abidjan | 138 |
 | 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye | Ivory Coast | 137 |
@@ -83,4 +83,4 @@ Indexed users: 486
 | 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
 | 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 40 |
 
-Generated: 2026-10-08T16:41:29.524Z
+Generated: 2026-10-08T17:40:25.600Z

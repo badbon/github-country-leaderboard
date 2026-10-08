@@ -18,20 +18,20 @@ Indexed users: 4,918
 | 4 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | Tartu, Estonia | 20,844 |
 | 5 | [oisincoveney](https://github.com/oisincoveney) | Oisin Coveney | Tallinn, Estonia | 15,379 |
 | 6 | [LEISSON-DARKSSON](https://github.com/LEISSON-DARKSSON) | Gert Leisson | Tallinn, ESTONIA | 14,008 |
-| 7 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
-| 8 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
-| 9 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
-| 10 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
-| 11 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
-| 12 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
-| 13 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
-| 14 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
-| 15 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
-| 16 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
-| 17 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 11,074 |
-| 18 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 10,790 |
-| 19 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 10,475 |
-| 20 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 10,406 |
+| 7 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 13,667 |
+| 8 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
+| 9 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
+| 10 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
+| 11 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
+| 12 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
+| 13 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
+| 14 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
+| 15 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
+| 16 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
+| 17 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
+| 18 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 11,074 |
+| 19 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 10,790 |
+| 20 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 10,475 |
 
 ## Public Contributions
 
@@ -39,12 +39,12 @@ Indexed users: 4,918
 |---:|---|---|---|---:|
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 22,359 |
 | 2 | [livenson](https://github.com/livenson) | Ilja Livenson | Estonia | 9,018 |
-| 3 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 8,508 |
-| 4 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 7,191 |
-| 5 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära | Tallinn | 7,088 |
-| 6 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 6,088 |
-| 7 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 5,781 |
-| 8 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 4,882 |
+| 3 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 8,831 |
+| 4 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 8,508 |
+| 5 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw | Tartu, Estonia | 7,191 |
+| 6 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära | Tallinn | 7,088 |
+| 7 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Estonia | 6,088 |
+| 8 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 5,781 |
 | 9 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | Tallinn, Estonia | 4,407 |
 | 10 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | Tallinn | 3,899 |
 | 11 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis | Estonia | 3,272 |
@@ -80,7 +80,7 @@ Indexed users: 4,918
 | 16 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | Tallinn | 489 |
 | 17 | [asolntsev](https://github.com/asolntsev) | Andrei Solntsev | Tallinn, Estonia | 456 |
 | 18 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | Tartu, Estonia | 442 |
-| 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 391 |
+| 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-08T16:31:40.355Z
+Generated: 2026-10-08T17:44:12.132Z

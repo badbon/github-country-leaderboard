@@ -17,19 +17,19 @@ Indexed users: 497
 | 3 | [bruno-keiko](https://github.com/bruno-keiko) | Bruno | Turkmenistan | 6,077 |
 | 4 | [arslanAta](https://github.com/arslanAta) | Arslan | Turkmenistan | 4,514 |
 | 5 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 4,382 |
-| 6 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 3,924 |
-| 7 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 3,855 |
-| 8 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,727 |
-| 9 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,348 |
-| 10 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,252 |
-| 11 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
-| 12 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
-| 13 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
+| 6 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,275 |
+| 7 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 3,924 |
+| 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 3,855 |
+| 9 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,727 |
+| 10 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,348 |
+| 11 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,252 |
+| 12 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
+| 13 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
 | 14 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov | Turkmenistan, Turkmenbashi | 2,579 |
-| 15 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,355 |
-| 16 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 2,261 |
-| 17 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Turkmenistan  | 2,136 |
-| 18 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,096 |
+| 15 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,479 |
+| 16 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,355 |
+| 17 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 2,261 |
+| 18 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Turkmenistan  | 2,136 |
 | 19 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,086 |
 | 20 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,053 |
 
@@ -38,7 +38,7 @@ Indexed users: 497
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 16,161 |
-| 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 2,641 |
+| 2 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 4,275 |
 | 3 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 1,996 |
 | 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,746 |
 | 5 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,029 |
@@ -63,11 +63,11 @@ Indexed users: 497
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 252 |
-| 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer | Ashgabad, Turkmenistan | 170 |
+| 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer | Ashgabat, Turkmenistan | 167 |
 | 3 | [MaysaShad](https://github.com/MaysaShad) |  | Ashgabat | 148 |
 | 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew | Turkmenistan | 140 |
 | 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 108 |
-| 6 | [octonet29](https://github.com/octonet29) | Gulbahar | Ashgabat, Turkmenistan | 105 |
+| 6 | [octonet29](https://github.com/octonet29) | Gulbahar | Ashgabat, Turkmenistan | 104 |
 | 7 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev | Turkmenistan, Ashgabat | 97 |
 | 8 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Turkmenistan, Ashgabat | 96 |
 | 9 | [resulshm](https://github.com/resulshm) | Resul Shamuhammedov | Ashgabat, Turkmenistan | 93 |
@@ -75,12 +75,12 @@ Indexed users: 497
 | 11 | [romanamangeldiev](https://github.com/romanamangeldiev) | Roman Amangeldiev | Turkmenistan | 87 |
 | 12 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 85 |
 | 13 | [hypergadam](https://github.com/hypergadam) | Gadam Jumayev | Ashgabat, Turkmenistan | 81 |
-| 14 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 75 |
-| 15 | [Kesha005](https://github.com/Kesha005) | Kerimberdi Saparow | Turkmenistan | 72 |
-| 16 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov | Turkmenistan | 71 |
+| 14 | [Kesha005](https://github.com/Kesha005) | Kerimberdi Saparow | Turkmenistan | 72 |
+| 15 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov | Turkmenistan | 71 |
+| 16 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 71 |
 | 17 | [mergenchik](https://github.com/mergenchik) | Mergen AGAYEV | Ashgabat, Turkmenistan | 67 |
 | 18 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 67 |
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-08T16:07:11.499Z
+Generated: 2026-10-08T17:11:10.106Z

@@ -14,7 +14,7 @@ Indexed users: 21
 |---:|---|---|---|---:|
 | 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,931 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 319 |
-| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 247 |
+| 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 248 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 123 |
 | 5 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
 | 6 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 90 |
@@ -37,7 +37,7 @@ Indexed users: 21
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 247 |
+| 1 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 248 |
 | 2 | [barsie](https://github.com/barsie) | Sirineo Barila  | Equatorial Guinea  | 115 |
 | 3 | [Xenon0001](https://github.com/Xenon0001) | Luis Rafael Eyoma | Bata, Equatorial Guinea | 90 |
 | 4 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 49 |
@@ -83,4 +83,4 @@ Indexed users: 21
 | 19 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 1 |
 | 20 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 
-Generated: 2026-10-08T16:31:10.270Z
+Generated: 2026-10-08T17:31:09.056Z

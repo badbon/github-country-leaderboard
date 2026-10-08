@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,526
+Indexed users: 3,525
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,526
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 315 |
 | 20 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 
-Generated: 2026-10-08T16:59:33.452Z
+Generated: 2026-10-08T17:29:47.778Z

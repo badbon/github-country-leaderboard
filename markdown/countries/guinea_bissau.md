@@ -13,8 +13,8 @@ Indexed users: 22
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino | Bissau | 2,673 |
-| 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 433 |
-| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 261 |
+| 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 438 |
+| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | Bissau | 262 |
 | 4 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 64 |
 | 5 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Guiné-Bissau | 57 |
 | 6 | [Eduildo](https://github.com/Eduildo) | eduildo | Bissau, Guiné-Bissau | 19 |
@@ -37,7 +37,7 @@ Indexed users: 22
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 433 |
+| 1 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Bissau, Guinea-Bissau | 438 |
 | 2 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 64 |
 | 3 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Guiné-Bissau | 57 |
 | 4 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino | Bissau | 53 |
@@ -83,4 +83,4 @@ Indexed users: 22
 | 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 1 |
 | 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 1 |
 
-Generated: 2026-10-08T16:37:37.528Z
+Generated: 2026-10-08T17:35:37.464Z

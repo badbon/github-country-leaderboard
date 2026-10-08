@@ -27,7 +27,7 @@ Indexed users: 235
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,011 |
 | 15 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,008 |
-| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
+| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 981 |
 | 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 968 |
 | 18 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 936 |
 | 19 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 895 |
@@ -53,16 +53,16 @@ Indexed users: 235
 | 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 159 |
 | 15 | [Christardev](https://github.com/Christardev) | NIJIMBERE Jean-Christar | Burundi | 134 |
 | 16 | [MrDeveloperXP](https://github.com/MrDeveloperXP) | MrXP | Burundi | 116 |
-| 17 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha | Burundi | 112 |
-| 18 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 110 |
-| 19 | [JacobsNG19](https://github.com/JacobsNG19) | Jacob NGANDU Toussaint | Burundi, Bujumbura  | 108 |
-| 20 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 107 |
+| 17 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 115 |
+| 18 | [Yanhozanam](https://github.com/Yanhozanam) | Yan Hozanam Mbonyumugisha | Burundi | 112 |
+| 19 | [clevercreativeofficial](https://github.com/clevercreativeofficial) | Clever Creative | Burundi | 110 |
+| 20 | [JacobsNG19](https://github.com/JacobsNG19) | Jacob NGANDU Toussaint | Burundi, Bujumbura  | 108 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 358 |
+| 1 | [JovinMtl](https://github.com/JovinMtl) | Nsanzumukiza Thierry | Bujumbura, Burundi | 365 |
 | 2 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 147 |
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 102 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-08T16:22:01.867Z
+Generated: 2026-10-08T17:24:04.061Z

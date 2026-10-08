@@ -12,8 +12,8 @@ Indexed users: 38
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,401 |
-| 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,482 |
+| 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6,402 |
+| 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,485 |
 | 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | British Virgin Islands | 2,363 |
 | 4 | [Dener1111](https://github.com/Dener1111) | DK | Road Town, British Virgin Islands | 2,025 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal | Virgin Islands | 435 |
@@ -37,7 +37,7 @@ Indexed users: 38
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,482 |
+| 1 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | British Virgin Islands | 3,485 |
 | 2 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 114 |
 | 3 | [dlichota](https://github.com/dlichota) | Dietmar Lichota | British Virgin Islands  | 57 |
 | 4 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | British Virgin Islands | 51 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [ilyBen](https://github.com/ilyBen) | Ben | Virgin Islands | 2 |
 | 20 | [PupaKevin](https://github.com/PupaKevin) |  | Virgin Islands  | 2 |
 
-Generated: 2026-10-08T16:20:48.095Z
+Generated: 2026-10-08T17:23:48.434Z

@@ -27,9 +27,9 @@ Indexed users: 562
 | 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,200 |
 | 14 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,164 |
 | 15 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | Praia Grande/SP | 1,141 |
-| 16 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,096 |
-| 17 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Praia Grande - SP | 1,072 |
-| 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,026 |
+| 16 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,132 |
+| 17 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,096 |
+| 18 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Praia Grande - SP | 1,072 |
 | 19 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,003 |
 | 20 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 997 |
 
@@ -83,4 +83,4 @@ Indexed users: 562
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 53 |
 
-Generated: 2026-10-08T16:23:23.097Z
+Generated: 2026-10-08T17:24:50.003Z

@@ -1,13 +1,13 @@
 # Total Contributions - Djibouti
 
-Generated: 2026-10-08T16:29:30.839Z
+Generated: 2026-10-08T17:29:54.442Z
 
 Users: 55
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 5134 |
-| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | @SPS-SIPS @AsalSolutions @somnog |  | Djibouti | 1346 |
+| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 5144 |
+| 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | @SPS-SIPS @AsalSolutions @somnog |  | Djibouti | 1357 |
 | 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) |  |  | Djibouti | 1191 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 713 |
 | 5 | [Ismael9-web](https://github.com/Ismael9-web) | Ismael Ladieh | @djib-dsi-budget  |  | Djibouti | 544 |

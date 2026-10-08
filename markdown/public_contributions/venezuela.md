@@ -1,8 +1,8 @@
 # Public Contributions - Venezuela
 
-Generated: 2026-10-08T16:11:48.414Z
+Generated: 2026-10-08T17:15:12.420Z
 
-Users: 6630
+Users: 6628
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 6630
 | 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar |  |  | Venezuela | 2910 |
 | 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro |  | LuisAlejandro | Maracay, Venezuela | 2787 |
 | 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 2533 |
-| 11 | [A2PC-2002](https://github.com/A2PC-2002) |  |  |  | Caracas - Venezuela | 2254 |
-| 12 | [elfotito](https://github.com/elfotito) | elfotito |  |  | Venezuela | 2158 |
-| 13 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Astralys |  | Venezuela | 1967 |
-| 14 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez |  |  | Venezuela | 1916 |
-| 15 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute |  | gabrielfenyx | Venezuela | 1848 |
-| 16 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez |  | hejeroaz | Caracas, Venezuela | 1848 |
-| 17 | [claucondor](https://github.com/claucondor) | Claudio Condor | A0x Company |  | Merida, Venezuela | 1757 |
-| 18 | [joseorono](https://github.com/joseorono) | José Miguel Oroño |  |  | Maracaibo, Venezuela | 1620 |
-| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1584 |
-| 20 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá |  | JesusAlcal41649 | Venezuela | 1579 |
+| 11 | [elfotito](https://github.com/elfotito) | elfotito |  |  | Venezuela | 2158 |
+| 12 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Astralys |  | Venezuela | 1967 |
+| 13 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez |  |  | Venezuela | 1916 |
+| 14 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute |  | gabrielfenyx | Venezuela | 1848 |
+| 15 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez |  | hejeroaz | Caracas, Venezuela | 1848 |
+| 16 | [claucondor](https://github.com/claucondor) | Claudio Condor | A0x Company |  | Merida, Venezuela | 1757 |
+| 17 | [joseorono](https://github.com/joseorono) | José Miguel Oroño |  |  | Maracaibo, Venezuela | 1620 |
+| 18 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1584 |
+| 19 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá |  | JesusAlcal41649 | Venezuela | 1579 |
+| 20 | [soukigabriel](https://github.com/soukigabriel) | Gabriel Souki Hernandez | AO Lab |  | Anzoategui, Venezuela | 1535 |

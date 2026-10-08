@@ -1,6 +1,6 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-08T16:42:34.020Z
+Generated: 2026-10-08T17:43:41.691Z
 
 Users: 359
 
@@ -11,8 +11,8 @@ Users: 359
 | 3 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 1220 |
 | 4 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1054 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |
-| 6 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 387 |
-| 7 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 385 |
+| 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 387 |
+| 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly |  |  | Vientiane, Laos | 387 |
 | 8 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Freelance | MaxonTorres | Vientiane, Laos | 344 |
 | 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 289 |
 | 10 | [KT246](https://github.com/KT246) | khamtay kongmanh |  |  | Vientiane, Laos | 258 |

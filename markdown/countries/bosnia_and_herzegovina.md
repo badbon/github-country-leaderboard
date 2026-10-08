@@ -52,7 +52,7 @@ Indexed users: 2,135
 | 13 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 1,249 |
 | 14 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,099 |
 | 15 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,093 |
-| 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 926 |
+| 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
 | 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 892 |
 | 18 | [esensar](https://github.com/esensar) | Ensar Sarajčić | Sarajevo, Bosnia and Herzegovina | 719 |
 | 19 | [zalom](https://github.com/zalom) | Zlatko Alomerovic | Tuzla, Bosnia and Herzegovina | 716 |
@@ -83,4 +83,4 @@ Indexed users: 2,135
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-08T16:18:44.923Z
+Generated: 2026-10-08T17:22:48.388Z

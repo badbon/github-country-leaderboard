@@ -1,6 +1,6 @@
 # Greece
 
-Indexed users: 15,589
+Indexed users: 15,588
 
 | Leaderboard | Link |
 |---|---|
@@ -42,7 +42,7 @@ Indexed users: 15,589
 | 3 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Athens Greece | 9,257 |
 | 4 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Patras, Greece | 8,066 |
 | 5 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | Athens, Greece | 7,992 |
-| 6 | [itcmsgr](https://github.com/itcmsgr) |  | Athens | 6,893 |
+| 6 | [itcmsgr](https://github.com/itcmsgr) | Antonios Voulvoulis | Athens | 7,305 |
 | 7 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Corinth, Greece | 6,827 |
 | 8 | [Cranot](https://github.com/Cranot) | Dimitris | Greece | 5,575 |
 | 9 | [Themis128](https://github.com/Themis128) | Baltzakis Themistoklis | Greece | 5,368 |
@@ -83,4 +83,4 @@ Indexed users: 15,589
 | 19 | [EleftheriaBatsou](https://github.com/EleftheriaBatsou) | Eleftheria Batsou | Thessaloniki, Greece | 808 |
 | 20 | [chsakell](https://github.com/chsakell) | Christos Sakellarios | Athens, Greece | 762 |
 
-Generated: 2026-10-08T16:35:30.568Z
+Generated: 2026-10-08T17:34:29.517Z

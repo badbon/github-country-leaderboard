@@ -1,6 +1,6 @@
 # Total Contributions - Tunisia
 
-Generated: 2026-10-08T16:07:01.270Z
+Generated: 2026-10-08T17:10:32.652Z
 
 Users: 7196
 
@@ -11,18 +11,18 @@ Users: 7196
 | 3 | [thevpc](https://github.com/thevpc) | thevpc | Core Techs Solutions |  | Tunisia | 21742 |
 | 4 | [labidiaymen](https://github.com/labidiaymen) | Aymen | Nuraly | labidiaymen | Tunis, Tunisia | 19874 |
 | 5 | [urshabib](https://github.com/urshabib) | Habib Lomma |  |  | Tunisia | 19226 |
-| 6 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Freelancer |  | Sousse, Tunis  | 14028 |
-| 7 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri |  | 0x4D424D | Tunisia | 12741 |
-| 8 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | ZIX DEV |  | Tunisia | 7694 |
-| 9 | [amine-y](https://github.com/amine-y) | Amine Yaakoubi | @axelites |  | Tunisia | 7123 |
-| 10 | [omar-cherif](https://github.com/omar-cherif) | Omar CHERIF | SIROCCO |  | Tunisia | 7081 |
-| 11 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 6526 |
-| 12 | [safwendammak](https://github.com/safwendammak) | Safwen | Freelancer |  | Tunisia | 5984 |
-| 13 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | @joodlab | El_Raed_Bahri | Tunisia | 5892 |
-| 14 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 5480 |
-| 15 | [3omartn](https://github.com/3omartn) | omar jemli | Youth Geekers |  | Tunisia | 5258 |
-| 16 | [anisossss](https://github.com/anisossss) | AnisKhalef |  |  | Tunisia | 4993 |
-| 17 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed |  |  | Tunisia | 4962 |
-| 18 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila |  |  | Tunisia | 4841 |
-| 19 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Keyrus |  | Tunisia | 4779 |
-| 20 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | @Carthage-Software | azjezz | Tunisia | 4770 |
+| 6 | [Nour-yahyaoui](https://github.com/Nour-yahyaoui) | Nour-Yahyaoui | vex-kernel |  | Tunisia | 14984 |
+| 7 | [Mohamed-Amine-Slama](https://github.com/Mohamed-Amine-Slama) |  | Freelancer |  | Sousse, Tunis  | 14028 |
+| 8 | [MohamedBechirMejri](https://github.com/MohamedBechirMejri) | Mohamed Bechir Mejri |  | 0x4D424D | Tunisia | 12741 |
+| 9 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | ZIX DEV |  | Tunisia | 7694 |
+| 10 | [amine-y](https://github.com/amine-y) | Amine Yaakoubi | @axelites |  | Tunisia | 7123 |
+| 11 | [omar-cherif](https://github.com/omar-cherif) | Omar CHERIF | SIROCCO |  | Tunisia | 7081 |
+| 12 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 6526 |
+| 13 | [safwendammak](https://github.com/safwendammak) | Safwen | Freelancer |  | Tunisia | 5984 |
+| 14 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | @joodlab | El_Raed_Bahri | Tunisia | 5892 |
+| 15 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 5480 |
+| 16 | [3omartn](https://github.com/3omartn) | omar jemli | Youth Geekers |  | Tunisia | 5258 |
+| 17 | [anisossss](https://github.com/anisossss) | AnisKhalef |  |  | Tunisia | 4993 |
+| 18 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed |  |  | Tunisia | 4962 |
+| 19 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila |  |  | Tunisia | 4841 |
+| 20 | [taghoutikeyrus](https://github.com/taghoutikeyrus) | Tarek Taghouti | Keyrus |  | Tunisia | 4779 |

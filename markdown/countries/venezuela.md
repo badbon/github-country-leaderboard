@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,630
+Indexed users: 6,628
 
 | Leaderboard | Link |
 |---|---|
@@ -15,23 +15,23 @@ Indexed users: 6,630
 | 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
 | 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. | Venezuela | 13,732 |
 | 3 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 12,611 |
-| 4 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
-| 5 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
-| 6 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
-| 7 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
-| 8 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
-| 9 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
-| 10 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
-| 11 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
-| 12 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
-| 13 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
-| 14 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
-| 15 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
-| 16 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
-| 17 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
-| 18 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
-| 19 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
-| 20 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez | Caracas, Venezuela | 6,062 |
+| 4 | [bin-daldana](https://github.com/bin-daldana) | David Aldana | Venezuela | 11,960 |
+| 5 | [aiuoe](https://github.com/aiuoe) | rub3n | Venezuela | 11,493 |
+| 6 | [jefillysh](https://github.com/jefillysh) | Franklin Rodriguez | Venezuela | 10,295 |
+| 7 | [andresparilli](https://github.com/andresparilli) | Andres E. Parilli | Venezuela | 9,434 |
+| 8 | [megalinker](https://github.com/megalinker) | Jesús Pérez | Caracas, Venezuela | 9,330 |
+| 9 | [darthony](https://github.com/darthony) | Antonio Figueroa | Venezuela | 9,260 |
+| 10 | [davidadc](https://github.com/davidadc) | David Delgado | Táchira, Venezuela. | 9,119 |
+| 11 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
+| 12 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
+| 13 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
+| 14 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
+| 15 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
+| 16 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
+| 17 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
+| 18 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
+| 19 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
+| 20 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
 
 ## Public Contributions
 
@@ -47,16 +47,16 @@ Indexed users: 6,630
 | 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
 | 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
 | 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,533 |
-| 11 | [A2PC-2002](https://github.com/A2PC-2002) |  | Caracas - Venezuela | 2,254 |
-| 12 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
-| 13 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 1,967 |
-| 14 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
-| 15 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
-| 16 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
-| 17 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
-| 18 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
-| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
-| 20 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá | Venezuela | 1,579 |
+| 11 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
+| 12 | [TheElegantCoding](https://github.com/TheElegantCoding) | Luis Monsalve | Venezuela | 1,967 |
+| 13 | [Danielk10](https://github.com/Danielk10) | Daniel Elias Diamon Vazquez | Venezuela | 1,916 |
+| 14 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
+| 15 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
+| 16 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
+| 17 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
+| 18 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
+| 19 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá | Venezuela | 1,579 |
+| 20 | [soukigabriel](https://github.com/soukigabriel) | Gabriel Souki Hernandez | Anzoategui, Venezuela | 1,535 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,630
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-08T16:11:48.414Z
+Generated: 2026-10-08T17:15:12.420Z

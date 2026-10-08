@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-08T16:13:18.341Z
+Generated: 2026-10-08T17:16:01.521Z
 
 Users: 1347
 
@@ -22,7 +22,7 @@ Users: 1347
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
 | 16 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 2912 |
-| 17 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 2809 |
-| 18 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali |  |  | Lusaka, Zambia | 2705 |
+| 17 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali |  |  | Lusaka, Zambia | 2900 |
+| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 2809 |
 | 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 2691 |
 | 20 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Kuseni Digital Inc Zambia |  | Lusaka, Zambia | 2631 |

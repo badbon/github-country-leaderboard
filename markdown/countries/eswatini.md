@@ -20,7 +20,7 @@ Indexed users: 108
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 464 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 355 |
 | 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini | Swaziland | 332 |
-| 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane | Swaziland | 270 |
+| 9 | [kingMasombuka](https://github.com/kingMasombuka) | Senzo Ncongwane | Swaziland | 271 |
 | 10 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 254 |
 | 11 | [temesgen-tana](https://github.com/temesgen-tana) | Temesgen Tana | Eswatini | 223 |
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 187 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-08T16:31:44.078Z
+Generated: 2026-10-08T17:31:35.811Z

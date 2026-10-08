@@ -27,11 +27,11 @@ Indexed users: 2,046
 | 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
 | 14 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
 | 15 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
-| 16 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
-| 17 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 6,435 |
-| 18 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 6,399 |
-| 19 | [Jeccoman](https://github.com/Jeccoman) | Man  Offline | Tanzania  | 6,330 |
-| 20 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 6,287 |
+| 16 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
+| 17 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
+| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 6,435 |
+| 19 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 6,399 |
+| 20 | [Jeccoman](https://github.com/Jeccoman) | Man  Offline | Tanzania  | 6,330 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,046
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-08T16:06:22.339Z
+Generated: 2026-10-08T17:10:04.383Z

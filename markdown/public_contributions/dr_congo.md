@@ -1,6 +1,6 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-08T16:29:42.379Z
+Generated: 2026-10-08T17:30:06.280Z
 
 Users: 696
 
@@ -24,5 +24,5 @@ Users: 696
 | 16 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) |  |  | KINSHASA / RD CONGO | 839 |
 | 17 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | ISIG Goma / DRC | josamuna | Democratic Republic of the Congo | 802 |
 | 18 | [silasmas](https://github.com/silasmas) | silasmas | silasdev | silasmas | kinshasa | 800 |
-| 19 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | @Holduix  | Holsonmp | Kinshasa, Congo CD | 776 |
-| 20 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | MonkilaTECH | joemonkila | kinshasa,RDC | 765 |
+| 19 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | MonkilaTECH | joemonkila | kinshasa,RDC | 765 |
+| 20 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  |  |  | Kinshasa  | 732 |

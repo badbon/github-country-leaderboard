@@ -1,12 +1,12 @@
 # Public Contributions - Cayman Islands
 
-Generated: 2026-10-08T16:24:11.152Z
+Generated: 2026-10-08T17:25:33.517Z
 
 Users: 123
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 1760 |
+| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 1764 |
 | 2 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 1577 |
 | 3 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1100 |
 | 4 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 1050 |

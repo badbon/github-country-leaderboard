@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-08T16:13:36.473Z
+Generated: 2026-10-08T17:16:50.675Z
 
 Users: 1191
 
@@ -21,8 +21,8 @@ Users: 1191
 | 13 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 662 |
 | 14 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
 | 15 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
-| 16 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
-| 17 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu |  |  | Tirana, Albania | 549 |
-| 18 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
-| 19 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | @jxsoft |  | Tirana, Albania | 496 |
-| 20 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari |  |  | Tirana, Albania | 452 |
+| 16 | [Damjanose](https://github.com/Damjanose) | Damjano |  |  | Albania, Tirana | 614 |
+| 17 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
+| 18 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu |  |  | Tirana, Albania | 549 |
+| 19 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
+| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | @jxsoft |  | Tirana, Albania | 496 |

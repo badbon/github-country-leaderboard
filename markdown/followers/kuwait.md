@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-08T16:42:27.610Z
+Generated: 2026-10-08T17:43:34.458Z
 
 Users: 800
 
@@ -12,17 +12,17 @@ Users: 800
 | 4 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 236 |
 | 5 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 207 |
 | 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 149 |
-| 7 | [dmakwt](https://github.com/dmakwt) | Dhari | Indie Developer | dmakwt | Kuwait | 131 |
-| 8 | [omsi96](https://github.com/omsi96) | Omar | @barmej, @JoinCODED, @kuwaitcodes  |  | Kuwait | 118 |
-| 9 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi |  |  | Kuwait | 110 |
-| 10 | [asmaaeltawil](https://github.com/asmaaeltawil) | Asmaa Eltawil |  | semsemaeltawil | Kuwait | 106 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 99 |
-| 12 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 98 |
-| 13 | [Cliprz](https://github.com/Cliprz) | Yousef Ismaeil | Cliprz |  | Kuwait | 96 |
-| 14 | [mohammedgmgn](https://github.com/mohammedgmgn) | Mohammed Abdullah  |  |  | Kuwait | 92 |
-| 15 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny |  | AlanBennyX | Kuwait | 90 |
-| 16 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 89 |
-| 17 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 89 |
+| 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 141 |
+| 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Indie Developer | dmakwt | Kuwait | 131 |
+| 9 | [omsi96](https://github.com/omsi96) | Omar | @barmej, @JoinCODED, @kuwaitcodes  |  | Kuwait | 118 |
+| 10 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi |  |  | Kuwait | 110 |
+| 11 | [asmaaeltawil](https://github.com/asmaaeltawil) | Asmaa Eltawil |  | semsemaeltawil | Kuwait | 106 |
+| 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 99 |
+| 13 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 98 |
+| 14 | [Cliprz](https://github.com/Cliprz) | Yousef Ismaeil | Cliprz |  | Kuwait | 96 |
+| 15 | [mohammedgmgn](https://github.com/mohammedgmgn) | Mohammed Abdullah  |  |  | Kuwait | 92 |
+| 16 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny |  | AlanBennyX | Kuwait | 90 |
+| 17 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 89 |
 | 18 | [MoathOthman](https://github.com/MoathOthman) | Moath othman |  |  | Kuwait | 81 |
 | 19 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 80 |
 | 20 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 75 |

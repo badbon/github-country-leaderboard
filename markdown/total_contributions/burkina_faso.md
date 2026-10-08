@@ -1,15 +1,15 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-10-08T16:21:59.272Z
+Generated: 2026-10-08T17:27:14.456Z
 
-Users: 483
+Users: 484
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Declic Africa | fasodev | Burkina-Faso,Ouagadougou | 8279 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Enokdev |  | Burkina Faso | 6546 |
-| 3 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo |  | rafikcodeur | Burkina Faso, Kadiogo, Ouagadougou | 4379 |
-| 4 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 4097 |
+| 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 4400 |
+| 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo |  | rafikcodeur | Burkina Faso, Kadiogo, Ouagadougou | 4379 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 3963 |
 | 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 3919 |
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 3840 |

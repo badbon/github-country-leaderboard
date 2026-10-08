@@ -21,8 +21,8 @@ Indexed users: 268
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,675 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,617 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,374 |
-| 10 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 2,034 |
-| 11 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,032 |
+| 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,035 |
+| 11 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 2,034 |
 | 12 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,936 |
 | 13 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,935 |
 | 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,913 |
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-08T16:18:38.364Z
+Generated: 2026-10-08T17:22:41.461Z

@@ -1,8 +1,8 @@
 # Followers - Algeria
 
-Generated: 2026-10-08T16:14:55.952Z
+Generated: 2026-10-08T17:16:54.248Z
 
-Users: 5820
+Users: 5819
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

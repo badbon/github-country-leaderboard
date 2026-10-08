@@ -15,23 +15,23 @@ Indexed users: 684
 | 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 10,450 |
 | 2 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,439 |
 | 3 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,045 |
-| 4 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 7,096 |
-| 5 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 5,999 |
-| 6 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,806 |
-| 7 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,528 |
-| 8 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 5,396 |
+| 4 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,045 |
+| 5 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 7,096 |
+| 6 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 5,999 |
+| 7 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,806 |
+| 8 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,528 |
 | 9 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 5,176 |
 | 10 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,628 |
-| 11 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,097 |
-| 12 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 3,925 |
-| 13 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
-| 14 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
-| 15 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
-| 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
-| 17 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 3,124 |
-| 18 | [lonie12](https://github.com/lonie12) | Yxie | Lomé, TOGO | 3,082 |
-| 19 | [Ygryan360](https://github.com/Ygryan360) | Rayane | Lomé, Togo | 2,886 |
-| 20 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 2,874 |
+| 11 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,107 |
+| 12 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,097 |
+| 13 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 3,925 |
+| 14 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
+| 15 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
+| 16 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
+| 17 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
+| 18 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
+| 19 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 3,124 |
+| 20 | [lonie12](https://github.com/lonie12) | Yxie | Lomé, TOGO | 3,082 |
 
 ## Public Contributions
 
@@ -52,7 +52,7 @@ Indexed users: 684
 | 13 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 905 |
 | 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 885 |
 | 15 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 827 |
-| 16 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 802 |
+| 16 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 820 |
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
 | 18 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
 | 19 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
@@ -83,4 +83,4 @@ Indexed users: 684
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-08T16:06:51.566Z
+Generated: 2026-10-08T17:10:17.520Z

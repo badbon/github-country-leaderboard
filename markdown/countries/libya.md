@@ -12,14 +12,14 @@ Indexed users: 745
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,316 |
-| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 9,697 |
-| 3 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 9,671 |
-| 4 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,781 |
-| 5 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 7,335 |
-| 6 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy | Benghazi, Libya 🇱🇾 | 6,789 |
-| 7 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,766 |
-| 8 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 6,609 |
+| 1 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 12,388 |
+| 2 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,316 |
+| 3 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 11,895 |
+| 4 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 9,697 |
+| 5 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,781 |
+| 6 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 7,335 |
+| 7 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy | Benghazi, Libya 🇱🇾 | 6,789 |
+| 8 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,766 |
 | 9 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
 | 10 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,016 |
 | 11 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,372 |
@@ -29,9 +29,9 @@ Indexed users: 745
 | 15 | [Anas-taleb99](https://github.com/Anas-taleb99) |  | Libya | 4,622 |
 | 16 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 4,413 |
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 4,193 |
-| 18 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | Libya | 3,296 |
-| 19 | [MohamedKhX](https://github.com/MohamedKhX) | MohamedKhX | Tripoli - Libya | 3,295 |
-| 20 | [Benjaber-98](https://github.com/Benjaber-98) | Mahmoud Ben Jabir | Tripoli - Libya | 3,118 |
+| 18 | [AbobkerElaghel](https://github.com/AbobkerElaghel) | Abobker Elaghel | Libya | 3,710 |
+| 19 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | Libya | 3,296 |
+| 20 | [MohamedKhX](https://github.com/MohamedKhX) | MohamedKhX | Tripoli - Libya | 3,295 |
 
 ## Public Contributions
 
@@ -45,18 +45,18 @@ Indexed users: 745
 | 6 | [azzubairx](https://github.com/azzubairx) | Azzubair | Libya | 683 |
 | 7 | [hazembook](https://github.com/hazembook) | Hazem Shaban | Libya | 665 |
 | 8 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 639 |
-| 9 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 617 |
-| 10 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash | Libya | 613 |
-| 11 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 598 |
-| 12 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 547 |
-| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 476 |
+| 9 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash | Libya | 613 |
+| 10 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 598 |
+| 11 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 547 |
+| 12 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 476 |
+| 13 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 437 |
 | 14 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 423 |
 | 15 | [arousi](https://github.com/arousi) | Sanad AlArousi | Tripoly,Libya | 389 |
 | 16 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 362 |
-| 17 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 345 |
-| 18 | [Ahmed3rab](https://github.com/Ahmed3rab) | Ahmed Arab | Tripoli, Libya  | 340 |
-| 19 | [KingKnull](https://github.com/KingKnull) | Sanad | Tripoli, Libya | 335 |
-| 20 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 328 |
+| 17 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 351 |
+| 18 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 345 |
+| 19 | [Ahmed3rab](https://github.com/Ahmed3rab) | Ahmed Arab | Tripoli, Libya  | 340 |
+| 20 | [KingKnull](https://github.com/KingKnull) | Sanad | Tripoli, Libya | 335 |
 
 ## Followers
 
@@ -77,10 +77,10 @@ Indexed users: 745
 | 13 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah | Tripoli, Libya | 60 |
 | 14 | [tahaak67](https://github.com/tahaak67) | Taha Ben Ashur | Libya | 60 |
 | 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Tripoli - Libya | 58 |
-| 16 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 57 |
-| 17 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar | Benghazi, Libya | 57 |
+| 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar | Benghazi, Libya | 58 |
+| 17 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 57 |
 | 18 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar | Tripoli, Libya | 57 |
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-08T16:44:05.002Z
+Generated: 2026-10-08T17:44:27.157Z

@@ -56,7 +56,7 @@ Indexed users: 3,279
 | 17 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
 | 18 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,262 |
 | 19 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,231 |
-| 20 | [Takosaga](https://github.com/Takosaga) | Gonzalo Gamez | Riga, Latvia | 1,203 |
+| 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Latvia, Riga | 1,214 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,279
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-08T16:43:30.631Z
+Generated: 2026-10-08T17:43:44.985Z

@@ -18,13 +18,13 @@ Indexed users: 470
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,864 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,252 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,472 |
-| 7 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,434 |
-| 8 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,141 |
-| 9 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,000 |
-| 10 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,986 |
-| 11 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
-| 12 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,830 |
-| 13 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
+| 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,077 |
+| 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,434 |
+| 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,141 |
+| 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 4,000 |
+| 11 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,986 |
+| 12 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,924 |
+| 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,830 |
 | 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,630 |
 | 15 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
 | 16 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,298 |
@@ -40,11 +40,11 @@ Indexed users: 470
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 12,201 |
 | 2 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,864 |
 | 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,435 |
-| 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,870 |
-| 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,665 |
-| 6 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,424 |
-| 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,345 |
-| 8 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
+| 4 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 2,118 |
+| 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,870 |
+| 6 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,665 |
+| 7 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,424 |
+| 8 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,345 |
 | 9 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 1,099 |
 | 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,066 |
 | 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
@@ -83,4 +83,4 @@ Indexed users: 470
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-08T16:58:22.127Z
+Generated: 2026-10-08T17:22:28.970Z

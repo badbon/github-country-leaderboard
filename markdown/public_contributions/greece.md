@@ -1,8 +1,8 @@
 # Public Contributions - Greece
 
-Generated: 2026-10-08T16:35:30.568Z
+Generated: 2026-10-08T17:34:29.517Z
 
-Users: 15589
+Users: 15588
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 15589
 | 3 | [kostis-codefresh](https://github.com/kostis-codefresh) | Kostis (Octopus Deploy) | Octopus Deploy (ex. Codefresh) | codepipes | Athens Greece | 9257 |
 | 4 | [mariosknl](https://github.com/mariosknl) | Marios Kanellopoulos | Front End Developer | mariosknl | Patras, Greece | 8066 |
 | 5 | [efthymios19](https://github.com/efthymios19) | Efthymios Chrysanthopoulos | National Technical University of Athens - School of Mining and Metallurgical Engineering - Laboratory of Engineering Geology and Hydrogeology |  | Athens, Greece | 7992 |
-| 6 | [itcmsgr](https://github.com/itcmsgr) |  | ITCMS  |  | Athens | 6893 |
+| 6 | [itcmsgr](https://github.com/itcmsgr) | Antonios Voulvoulis | ITCMS.GR  |  | Athens | 7305 |
 | 7 | [aristath](https://github.com/aristath) | Ari Stathopoulos | Emilia Capital | aristath | Corinth, Greece | 6827 |
 | 8 | [Cranot](https://github.com/Cranot) | Dimitris | CosmoHac | DimitriosMitsos | Greece | 5575 |
 | 9 | [Themis128](https://github.com/Themis128) | Baltzakis Themistoklis | Baltzakis Themistoklis |  | Greece | 5368 |

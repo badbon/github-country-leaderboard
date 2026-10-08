@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,504
+Indexed users: 1,503
 
 | Leaderboard | Link |
 |---|---|
@@ -69,8 +69,8 @@ Indexed users: 1,504
 | 5 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 281 |
 | 6 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | Kabul, Afghanistan | 260 |
 | 7 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 258 |
-| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 221 |
-| 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Kabul, Afghanistan | 221 |
+| 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 222 |
+| 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Kabul, Afghanistan | 218 |
 | 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul , Afghanistan  | 186 |
 | 11 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 166 |
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | Herat,Afghanistan | 156 |
@@ -83,4 +83,4 @@ Indexed users: 1,504
 | 19 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 123 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-08T16:13:27.339Z
+Generated: 2026-10-08T17:16:17.869Z

@@ -63,8 +63,8 @@ Indexed users: 1,483
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [meory101](https://github.com/meory101) | Nour Othman | Damascus Syria | 735 |
-| 2 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 312 |
-| 3 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 304 |
+| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 304 |
+| 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 303 |
 | 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 293 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 216 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 203 |
@@ -78,9 +78,9 @@ Indexed users: 1,483
 | 14 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Damascus | 135 |
 | 15 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal | Syria  | 128 |
 | 16 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | Damascus, Syria | 126 |
-| 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg | Damascus... Syria | 126 |
+| 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg | Damascus... Syria | 123 |
 | 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud | Damascus | 101 |
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-08T16:04:36.452Z
+Generated: 2026-10-08T17:09:28.017Z

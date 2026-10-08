@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-08T16:23:23.097Z
+Generated: 2026-10-08T17:24:50.003Z
 
 Users: 562
 
@@ -21,8 +21,8 @@ Users: 562
 | 13 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1200 |
 | 14 | [Denio26](https://github.com/Denio26) | Dénio Melo | @DevMasters-Lda |  | Cape Verde | 1164 |
 | 15 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | @gupy-io | machadoah | Praia Grande/SP | 1141 |
-| 16 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1096 |
-| 17 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Usiminas |  | Praia Grande - SP | 1072 |
-| 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1026 |
+| 16 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1132 |
+| 17 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1096 |
+| 18 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Usiminas |  | Praia Grande - SP | 1072 |
 | 19 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1003 |
 | 20 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 997 |

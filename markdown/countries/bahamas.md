@@ -15,8 +15,8 @@ Indexed users: 236
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 21,399 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,219 |
 | 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,115 |
-| 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,723 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,461 |
+| 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,839 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,468 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,004 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,637 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,418 |
@@ -55,8 +55,8 @@ Indexed users: 236
 | 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
 | 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 44 |
 | 18 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 44 |
-| 19 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 43 |
-| 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
+| 19 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
+| 20 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 37 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-08T16:39:23.729Z
+Generated: 2026-10-08T17:19:44.628Z

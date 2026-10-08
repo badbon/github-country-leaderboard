@@ -1,13 +1,13 @@
 # Followers - DR Congo
 
-Generated: 2026-10-08T16:29:42.379Z
+Generated: 2026-10-08T17:30:06.280Z
 
 Users: 696
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo |  | mardo_k12 | kinshasa | 677 |
-| 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | @devscast | BernardNgandu | DR Congo, Lubumbashi | 234 |
+| 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | @ngandu-dev | BernardNgandu | DR Congo, Lubumbashi | 237 |
 | 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | @MastaGate | jonathan_monga | Lubumbashi, Katanga, DR Congo | 216 |
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | ICTECH |  | Kinshasa | 196 |
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | KDEA Academy | s_kinyamba | DR CONGO | 184 |
@@ -15,9 +15,9 @@ Users: 696
 | 7 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima |  | AfricanboyKiima | Kinshasa/DRC | 137 |
 | 8 | [eltazy](https://github.com/eltazy) | Michel B | @KadeaAcademy   |  | Kinshasa, CD | 132 |
 | 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 129 |
-| 10 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 110 |
-| 11 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka |  | oesukam | Kinshasa, Nairobi, Kigali | 104 |
-| 12 | [IronOnet](https://github.com/IronOnet) | Arnaud Wanet | Symiar | Arnaud_Wanet | Kinshasa | 103 |
+| 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka |  | oesukam | Kinshasa, Nairobi, Kigali | 104 |
+| 11 | [IronOnet](https://github.com/IronOnet) | Arnaud Wanet | Symiar | Arnaud_Wanet | Kinshasa | 103 |
+| 12 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 99 |
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | @mosala-group  | vala_mandar | RD Congo, Kinshasa | 90 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi |  |  | Kinshasa Drc | 87 |
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 84 |

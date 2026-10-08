@@ -1,6 +1,6 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-08T16:13:20.905Z
+Generated: 2026-10-08T17:16:07.597Z
 
 Users: 1658
 
@@ -17,9 +17,9 @@ Users: 1658
 | 9 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | uncommon.org |  | Mufakose, Harare, Zimbabwe | 2272 |
 | 10 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Kawerify Tech |  | Bulawayo, Zimbabwe | 2038 |
 | 11 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 1828 |
-| 12 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1714 |
-| 13 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Ministry of Health and Child Care | chihwayii | Harare | 1632 |
-| 14 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Br3eze Africa |  | Zimbabwe, BYO | 1527 |
+| 12 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Ministry of Health and Child Care | chihwayii | Harare | 1632 |
+| 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Br3eze Africa |  | Zimbabwe, BYO | 1527 |
+| 14 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1511 |
 | 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1426 |
 | 16 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 1424 |
 | 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1249 |

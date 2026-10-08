@@ -1,6 +1,6 @@
 # Burkina Faso
 
-Indexed users: 483
+Indexed users: 484
 
 | Leaderboard | Link |
 |---|---|
@@ -14,8 +14,8 @@ Indexed users: 483
 |---:|---|---|---|---:|
 | 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,279 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 6,546 |
-| 3 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,379 |
-| 4 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,097 |
+| 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,400 |
+| 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,379 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 3,963 |
 | 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,919 |
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,840 |
@@ -78,9 +78,9 @@ Indexed users: 483
 | 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 50 |
 | 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 47 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE | Burkina Faso (Ouagadougou) | 46 |
-| 17 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 41 |
-| 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 39 |
-| 19 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 38 |
-| 20 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
+| 17 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 39 |
+| 18 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 38 |
+| 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
+| 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-08T16:21:59.272Z
+Generated: 2026-10-08T17:27:14.456Z

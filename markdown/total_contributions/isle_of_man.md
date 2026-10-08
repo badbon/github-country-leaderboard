@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-08T16:40:14.810Z
+Generated: 2026-10-08T17:39:48.490Z
 
 Users: 155
 
@@ -9,20 +9,20 @@ Users: 155
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Vannin Studio |  | Isle of Man | 11233 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 9946 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 6492 |
-| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4458 |
+| 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4460 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3443 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 1866 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1813 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 1755 |
-| 10 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1618 |
+| 10 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto |  |  | Isle of Man | 1628 |
 | 11 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Infinium | thomas_iom | Isle of Man | 1605 |
 | 12 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 1557 |
 | 13 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin |  |  | Douglas, Isle of Man | 1519 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim |  |  | Isle of Man | 1498 |
 | 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1232 |
-| 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1198 |
-| 17 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1198 |
+| 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1205 |
+| 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1198 |
 | 18 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1061 |
 | 19 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 1038 |
 | 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1020 |

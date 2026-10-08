@@ -49,9 +49,9 @@ Indexed users: 1,282
 | 10 | [BayBreezy](https://github.com/BayBreezy) | Behon Baker | Jamaica | 1,069 |
 | 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 976 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 973 |
-| 13 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | Kingston, RI | 826 |
-| 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
-| 15 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 792 |
+| 13 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 942 |
+| 14 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | Kingston, RI | 826 |
+| 15 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
 | 16 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 751 |
 | 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
 | 18 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 745 |
@@ -83,4 +83,4 @@ Indexed users: 1,282
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-08T16:41:33.594Z
+Generated: 2026-10-08T17:41:04.697Z

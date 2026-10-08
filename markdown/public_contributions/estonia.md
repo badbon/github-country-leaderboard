@@ -1,6 +1,6 @@
 # Public Contributions - Estonia
 
-Generated: 2026-10-08T16:31:40.355Z
+Generated: 2026-10-08T17:44:12.132Z
 
 Users: 4918
 
@@ -8,12 +8,12 @@ Users: 4918
 |---:|---|---|---|---|---|---:|
 | 1 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | EcoStack Technology OÜ | ersinkoc | Tallinn | 22359 |
 | 2 | [livenson](https://github.com/livenson) | Ilja Livenson |  |  | Estonia | 9018 |
-| 3 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 8508 |
-| 4 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw |  |  | Tartu, Estonia | 7191 |
-| 5 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära |  |  | Tallinn | 7088 |
-| 6 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Ashforde OÜ |  | Estonia | 6088 |
-| 7 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Enthusiastic Data Management |  | Tallinn, Estonia | 5781 |
-| 8 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | widinglabs |  | tallinn | 4882 |
+| 3 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | widinglabs |  | tallinn | 8831 |
+| 4 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 8508 |
+| 5 | [xsyetopz](https://github.com/xsyetopz) | iborrowcheckbtw |  |  | Tartu, Estonia | 7191 |
+| 6 | [v3rm0n](https://github.com/v3rm0n) | Maido Käära |  |  | Tallinn | 7088 |
+| 7 | [ashfordeOU](https://github.com/ashfordeOU) | Ashforde OÜ | Ashforde OÜ |  | Estonia | 6088 |
+| 8 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Enthusiastic Data Management |  | Tallinn, Estonia | 5781 |
 | 9 | [tot-ra](https://github.com/tot-ra) | Artjom Kurapov | @Gratheon | tot_ra | Tallinn, Estonia | 4407 |
 | 10 | [AmbientLighter](https://github.com/AmbientLighter) | Viktor Mirieiev | OpenNode |  | Tallinn | 3899 |
 | 11 | [GelatoGenesis](https://github.com/GelatoGenesis) | GelatoGenesis |  |  | Estonia | 3272 |

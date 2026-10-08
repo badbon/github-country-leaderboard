@@ -1,6 +1,6 @@
 # Followers - Estonia
 
-Generated: 2026-10-08T16:31:40.355Z
+Generated: 2026-10-08T17:44:12.132Z
 
 Users: 4918
 
@@ -24,5 +24,5 @@ Users: 4918
 | 16 | [ersinkoc](https://github.com/ersinkoc) | Ersin KOÇ | EcoStack Technology OÜ | ersinkoc | Tallinn | 489 |
 | 17 | [asolntsev](https://github.com/asolntsev) | Andrei Solntsev | Codeborne | asolntsev | Tallinn, Estonia | 456 |
 | 18 | [trevorlasn](https://github.com/trevorlasn) | Trevor I. Lasn | @0xinsider  | trevorlasn | Tartu, Estonia | 442 |
-| 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | widinglabs |  | tallinn | 391 |
+| 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | widinglabs |  | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves |  |  | Tallinn, Estonia | 388 |

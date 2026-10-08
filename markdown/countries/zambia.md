@@ -28,8 +28,8 @@ Indexed users: 1,347
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 2,985 |
 | 16 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 2,912 |
-| 17 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 2,809 |
-| 18 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali | Lusaka, Zambia | 2,705 |
+| 17 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali | Lusaka, Zambia | 2,900 |
+| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 2,809 |
 | 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 2,691 |
 | 20 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Lusaka, Zambia | 2,631 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,347
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 104 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 104 |
 
-Generated: 2026-10-08T16:13:18.341Z
+Generated: 2026-10-08T17:16:01.521Z

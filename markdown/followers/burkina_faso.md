@@ -1,8 +1,8 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-08T16:21:59.272Z
+Generated: 2026-10-08T17:27:14.456Z
 
-Users: 483
+Users: 484
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 483
 | 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 50 |
 | 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 47 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE |  | FaissalGuire | Burkina Faso (Ouagadougou) | 46 |
-| 17 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 41 |
-| 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 39 |
-| 19 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 38 |
-| 20 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 38 |
+| 17 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 39 |
+| 18 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 38 |
+| 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 38 |
+| 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  |  |  | Ouagadougou | 37 |
