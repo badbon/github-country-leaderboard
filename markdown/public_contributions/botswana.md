@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-08T09:05:30.273Z
+Generated: 2026-10-08T09:53:21.778Z
 
 Users: 534
 
@@ -24,5 +24,5 @@ Users: 534
 | 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 378 |
 | 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 372 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 348 |
-| 19 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Jurifica | thabiso_mots | Gaborone | 328 |
-| 20 | [DippsDev](https://github.com/DippsDev) | DippsDev | SKYF |  | Botswana | 327 |
+| 19 | [DippsDev](https://github.com/DippsDev) | DippsDev | SKYF |  | Botswana | 327 |
+| 20 | [RefilweSethunya](https://github.com/RefilweSethunya) | Refilwe Sethunya Keatlholetswe |  |  | Gaborone, Botswana | 318 |

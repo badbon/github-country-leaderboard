@@ -1,14 +1,14 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-08T09:01:59.012Z
+Generated: 2026-10-08T09:50:53.451Z
 
 Users: 465
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 6523 |
-| 2 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6039 |
-| 3 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 4886 |
+| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 6089 |
+| 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6039 |
 | 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4757 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 4699 |
 | 6 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4599 |

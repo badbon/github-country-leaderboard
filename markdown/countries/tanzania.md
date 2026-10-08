@@ -48,7 +48,7 @@ Indexed users: 2,036
 | 9 | [ALTUM-02](https://github.com/ALTUM-02) | Altum02 | Dodoma - Tanzania | 2,851 |
 | 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,543 |
 | 11 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 2,003 |
-| 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,710 |
+| 12 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,952 |
 | 13 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
 | 14 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
 | 15 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
@@ -81,6 +81,6 @@ Indexed users: 2,036
 | 17 | [nassdaq](https://github.com/nassdaq) | Suleiman Nassdaq | Dar es salaam,Tanzania | 200 |
 | 18 | [Jelius47](https://github.com/Jelius47) | jelius | Tanzania | 198 |
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
-| 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 175 |
+| 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-08T08:51:57.296Z
+Generated: 2026-10-08T09:43:18.732Z

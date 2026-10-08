@@ -1,8 +1,8 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-08T09:04:04.966Z
+Generated: 2026-10-08T09:53:05.775Z
 
-Users: 906
+Users: 905
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,10 +15,10 @@ Users: 906
 | 7 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 6508 |
 | 8 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 6228 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 5649 |
-| 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 4669 |
-| 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 4644 |
-| 12 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4278 |
-| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 4167 |
+| 10 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5557 |
+| 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 4669 |
+| 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 4644 |
+| 13 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4278 |
 | 14 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 3942 |
 | 15 | [adriand](https://github.com/adriand) | Adrian Duyzer |  |  | Hamilton, Ontario | 3703 |
 | 16 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | sitefinitysteve | stevemcniven | Hamilton, Ontario | 3415 |

@@ -1,8 +1,8 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-08T09:10:42.990Z
+Generated: 2026-10-08T09:59:03.977Z
 
-Users: 5445
+Users: 5444
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 5445
 | 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Nastava |  | Croatia | 4225 |
 | 10 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 4153 |
 | 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic |  |  | Croatia | 3819 |
-| 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Xylon d.o.o |  | Zagreb/Trogir | 3472 |
+| 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Xylon d.o.o |  | Zagreb/Trogir | 3806 |
 | 13 | [moljac](https://github.com/moljac) | moljac | Microsoft / Xamarin Inc., HolisticWare | moljacsharp | Zagreb, Croatia | 3410 |
 | 14 | [borisbabic](https://github.com/borisbabic) | Boris |  |  | Zagreb, Croatia | 3205 |
 | 15 | [davidabram](https://github.com/davidabram) | David Abram | crocoder.dev | devabram | Croatia | 2954 |

@@ -1,6 +1,6 @@
 # Norway
 
-Indexed users: 19,628
+Indexed users: 19,627
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,628
 | 19 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 | 20 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 1,275 |
 
-Generated: 2026-10-08T08:41:51.452Z
+Generated: 2026-10-08T09:33:31.583Z

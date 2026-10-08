@@ -79,8 +79,8 @@ Indexed users: 95
 | 15 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers | Belize  | 9 |
 | 16 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 9 |
 | 17 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 8 |
-| 18 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
-| 19 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 7 |
+| 18 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 8 |
+| 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-08T09:03:53.823Z
+Generated: 2026-10-08T09:52:23.783Z

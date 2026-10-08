@@ -12,7 +12,7 @@ Indexed users: 14,991
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [enzoblackia](https://github.com/enzoblackia) | Lorenzo Leone | Bucharest | 72,809 |
+| 1 | [enzoblackia](https://github.com/enzoblackia) | Lorenzo Leone | Bucharest | 83,642 |
 | 2 | [eduardg7](https://github.com/eduardg7) | Eduard G | Bucharest | 36,418 |
 | 3 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 34,226 |
 | 4 | [razvandimescu](https://github.com/razvandimescu) | Razvan Dimescu | Craiova, Romania | 23,800 |
@@ -83,4 +83,4 @@ Indexed users: 14,991
 | 19 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 | 20 | [rennokki](https://github.com/rennokki) | rennokki | Romania | 576 |
 
-Generated: 2026-10-08T08:50:55.933Z
+Generated: 2026-10-08T09:38:27.459Z

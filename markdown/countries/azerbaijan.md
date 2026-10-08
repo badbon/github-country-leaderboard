@@ -66,8 +66,8 @@ Indexed users: 5,096
 | 2 | [gojayevmurad](https://github.com/gojayevmurad) | Murad Gojayev | Baku, Azerbaijan | 941 |
 | 3 | [qafaraz](https://github.com/qafaraz) | Qafar Qəmbərzadə | Azerbaijan baku | 642 |
 | 4 | [EminHaziyev](https://github.com/EminHaziyev) | emin | Baku | 626 |
-| 5 | [orkhan-muradov-dev](https://github.com/orkhan-muradov-dev) | Orkhan | Baku, Azerbaijan | 532 |
-| 6 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | Baku, Azerbaijan | 527 |
+| 5 | [MuradIsazade777](https://github.com/MuradIsazade777) | Murad  | Baku, Azerbaijan | 527 |
+| 6 | [orkhan-muradov-dev](https://github.com/orkhan-muradov-dev) | Orkhan | Baku, Azerbaijan | 525 |
 | 7 | [TuralSuleymani](https://github.com/TuralSuleymani) | Tural Suleymani | Baku | 471 |
 | 8 | [khanjanov](https://github.com/khanjanov) | Karim | Azerbaijan, Baku | 444 |
 | 9 | [hasanbakhtiar](https://github.com/hasanbakhtiar) | Hasan  | Azerbaijan, Baku | 436 |
@@ -75,12 +75,12 @@ Indexed users: 5,096
 | 11 | [sarkhanrasullu](https://github.com/sarkhanrasullu) | Sarkhan Rasullu | Azerbaijan | 408 |
 | 12 | [nurullaibadov](https://github.com/nurullaibadov) | Nurulla Ibadov | Azerbaijan,Baku | 375 |
 | 13 | [KhanbalaRashidov](https://github.com/KhanbalaRashidov) | Khanbala Rashidov | Baku/Azerbaijan | 358 |
-| 14 | [hmd37](https://github.com/hmd37) | Ahmad Allahverdiyev | Azerbaijan, Baku | 333 |
-| 15 | [NijatZeynalov](https://github.com/NijatZeynalov) | Nijat Zeynalov | Azerbaijan | 331 |
+| 14 | [NijatZeynalov](https://github.com/NijatZeynalov) | Nijat Zeynalov | Azerbaijan | 331 |
+| 15 | [hmd37](https://github.com/hmd37) | Ahmad Allahverdiyev | Azerbaijan, Baku | 320 |
 | 16 | [samirkarimov](https://github.com/samirkarimov) | Samir Karimov | Azerbaijan | 308 |
 | 17 | [zeynallow](https://github.com/zeynallow) | Zeynal | Azerbaijan, Baku | 270 |
 | 18 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 256 |
 | 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 | 20 | [yolchunasib](https://github.com/yolchunasib) | Yolchu Nasib | Baku, Azerbaijan | 251 |
 
-Generated: 2026-10-08T09:03:00.239Z
+Generated: 2026-10-08T09:51:34.184Z

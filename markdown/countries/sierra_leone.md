@@ -64,8 +64,8 @@ Indexed users: 442
 |---:|---|---|---|---:|
 | 1 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Freetown, Sierra Leone | 223 |
 | 2 | [AmaduKamara](https://github.com/AmaduKamara) | Amadu Kamara | Freetown, Sierra Leone. | 110 |
-| 3 | [larrybah](https://github.com/larrybah) | Larry Bah | Sierra Leone | 99 |
-| 4 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo | Sierra Leone | 93 |
+| 3 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo | Sierra Leone | 93 |
+| 4 | [larrybah](https://github.com/larrybah) | Larry Bah | Sierra Leone | 89 |
 | 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | Freetown, Sierra Leone | 68 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 67 |
 | 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 65 |
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 28 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-08T08:49:18.738Z
+Generated: 2026-10-08T09:40:37.191Z

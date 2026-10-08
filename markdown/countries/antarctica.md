@@ -13,8 +13,8 @@ Indexed users: 465
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,523 |
-| 2 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,039 |
-| 3 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 4,886 |
+| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,089 |
+| 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,039 |
 | 4 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,757 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 4,699 |
 | 6 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
@@ -52,11 +52,11 @@ Indexed users: 465
 | 13 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 748 |
 | 14 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 711 |
 | 15 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 658 |
-| 16 | [DrBrad](https://github.com/DrBrad) | Brad | Antarctica | 634 |
-| 17 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
-| 18 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 19 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
-| 20 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
+| 16 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 606 |
+| 17 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
+| 19 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
+| 20 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 465
 | 19 | [crse](https://github.com/crse) |  | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-08T09:01:59.012Z
+Generated: 2026-10-08T09:50:53.451Z

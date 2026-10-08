@@ -1,6 +1,6 @@
 # Followers - Zambia
 
-Generated: 2026-10-08T08:59:56.343Z
+Generated: 2026-10-08T09:49:01.074Z
 
 Users: 1342
 
@@ -14,9 +14,9 @@ Users: 1342
 | 6 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | KmkCoder |  | Ndola, Zambia | 221 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 193 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | @pencilcasestudios  | silumesii | Zambia | 163 |
-| 9 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | @EducoreServices |  | Zambia | 152 |
-| 10 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh |  |  | Lusaka, Zambia | 138 |
-| 11 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi |  |  | Lusaka, Zambia | 138 |
+| 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi |  |  | Lusaka, Zambia | 161 |
+| 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | @EducoreServices |  | Zambia | 152 |
+| 11 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh |  |  | Lusaka, Zambia | 138 |
 | 12 | [akebu6](https://github.com/akebu6) | Akebu | @TheZigGroup  | akebu6 | Zambia | 133 |
 | 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe |  | geraldmaboshe | Lusaka, Zambia | 115 |
 | 14 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Available for Hire | King_Kaylo1 | Lusaka, Zambia | 113 |

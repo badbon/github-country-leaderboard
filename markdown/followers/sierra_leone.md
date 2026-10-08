@@ -1,6 +1,6 @@
 # Followers - Sierra Leone
 
-Generated: 2026-10-08T08:49:18.738Z
+Generated: 2026-10-08T09:40:37.191Z
 
 Users: 442
 
@@ -8,8 +8,8 @@ Users: 442
 |---:|---|---|---|---|---|---:|
 | 1 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Nexlura | DeeMaejor | Freetown, Sierra Leone | 223 |
 | 2 | [AmaduKamara](https://github.com/AmaduKamara) | Amadu Kamara | Remote Front-End and Full-Stack Developer | DevAmkam | Freetown, Sierra Leone. | 110 |
-| 3 | [larrybah](https://github.com/larrybah) | Larry Bah |  | larrybah3 | Sierra Leone | 99 |
-| 4 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo |  | TahibGbondo | Sierra Leone | 93 |
+| 3 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo |  | TahibGbondo | Sierra Leone | 93 |
+| 4 | [larrybah](https://github.com/larrybah) | Larry Bah |  | larrybah3 | Sierra Leone | 89 |
 | 5 | [aempirei](https://github.com/aempirei) | Christopher Abad | 256 LLC |  | Freetown, Sierra Leone | 68 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 67 |
 | 7 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 65 |

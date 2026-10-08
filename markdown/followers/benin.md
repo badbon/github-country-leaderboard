@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-08T09:04:02.265Z
+Generated: 2026-10-08T09:52:31.674Z
 
 Users: 469
 
@@ -17,10 +17,10 @@ Users: 469
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO |  |  | Benin | 107 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | LABEF (University of Abomey Calavi) | ChrisCK23683119 | Benin | 98 |
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 92 |
-| 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 91 |
-| 13 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
-| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
-| 15 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian |  | florianedemessi | Benin, Cotonou | 84 |
+| 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 88 |
+| 13 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian |  | florianedemessi | Benin, Cotonou | 88 |
+| 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
+| 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  |  |  | Benin | 83 |
 | 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 79 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Meltwater |  | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |

@@ -53,10 +53,10 @@ Indexed users: 18,400
 | 14 | [duggytuxy](https://github.com/duggytuxy) | 🔐Laurent M🔐 | Brussels, Belgium | 7,238 |
 | 15 | [Laoujin](https://github.com/Laoujin) | Wouter Van Schandevijl | Belgium | 7,219 |
 | 16 | [pmcp](https://github.com/pmcp) | Maarten Lauwaert | Brussels | 7,075 |
-| 17 | [Sitebase](https://github.com/Sitebase) | Wim Mostmans | Belgium | 6,670 |
-| 18 | [jy95](https://github.com/jy95) | Jacques Yakoub | Brussels, Belgium | 6,415 |
-| 19 | [mvdbeek](https://github.com/mvdbeek) | Marius van den Beek | Belgium | 5,861 |
-| 20 | [rgfaber](https://github.com/rgfaber) | R.G. Lefever | Leuven, Belgium | 5,761 |
+| 17 | [sethogieva](https://github.com/sethogieva) | Seth Ogieva | Raleigh & Brussels | 6,997 |
+| 18 | [Sitebase](https://github.com/Sitebase) | Wim Mostmans | Belgium | 6,670 |
+| 19 | [jy95](https://github.com/jy95) | Jacques Yakoub | Brussels, Belgium | 6,415 |
+| 20 | [mvdbeek](https://github.com/mvdbeek) | Marius van den Beek | Belgium | 5,861 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 18,400
 | 19 | [erikdubois](https://github.com/erikdubois) | Erik Dubois | Belgium | 1,200 |
 | 20 | [hazexone](https://github.com/hazexone) | Haze | Brussels | 1,181 |
 
-Generated: 2026-10-08T09:03:50.346Z
+Generated: 2026-10-08T09:52:17.991Z

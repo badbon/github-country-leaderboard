@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-08T08:41:41.684Z
+Generated: 2026-10-08T09:32:53.930Z
 
 Users: 185
 
@@ -8,7 +8,7 @@ Users: 185
 |---:|---|---|---|---|---|---:|
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | @The-Korean-Fashion  |  | Pyongyang | 5751 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 4899 |
-| 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 3561 |
+| 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 3589 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2490 |
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1469 |
 | 6 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 1268 |

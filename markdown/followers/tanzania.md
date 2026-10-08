@@ -1,6 +1,6 @@
 # Followers - Tanzania
 
-Generated: 2026-10-08T08:51:57.296Z
+Generated: 2026-10-08T09:43:18.732Z
 
 Users: 2036
 
@@ -25,4 +25,4 @@ Users: 2036
 | 17 | [nassdaq](https://github.com/nassdaq) | Suleiman Nassdaq | Neurotech Africa |  | Dar es salaam,Tanzania | 200 |
 | 18 | [Jelius47](https://github.com/Jelius47) | jelius | Eaestern Africa Statistical Training Center | jelius07 | Tanzania | 198 |
 | 19 | [3nock](https://github.com/3nock) | Enock | SpiderSuite | 3nock_ | Dar es Salaam, Tanzania | 188 |
-| 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ |  |  | Africa Dodoma | 175 |
+| 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ |  |  | Africa Dodoma | 179 |

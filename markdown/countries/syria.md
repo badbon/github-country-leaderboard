@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,471
+Indexed users: 1,483
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,471
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-08T08:51:38.983Z
+Generated: 2026-10-08T10:00:15.205Z

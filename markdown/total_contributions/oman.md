@@ -1,8 +1,8 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-08T08:41:54.355Z
+Generated: 2026-10-08T09:33:38.074Z
 
-Users: 1004
+Users: 1002
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1004
 | 15 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 4372 |
 | 16 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
 | 17 | [m7medVision](https://github.com/m7medVision) | Mohammed | @mymanara  | m7medVision | Oman | 4175 |
-| 18 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Codeline |  | Oman | 3716 |
-| 19 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Codeline |  | Oman | 3542 |
-| 20 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Ministry of Transport, Communications, and Information Technology (MTCIT) |  | Sultanate of Oman, al khuwair muscat | 3507 |
+| 18 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | CodeLine |  | Muscat | 3764 |
+| 19 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Codeline |  | Oman | 3716 |
+| 20 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Codeline |  | Oman | 3542 |

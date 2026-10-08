@@ -55,8 +55,8 @@ Indexed users: 534
 | 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 378 |
 | 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 348 |
-| 19 | [tmotswagole](https://github.com/tmotswagole) | Thabiso Motswagole | Gaborone | 328 |
-| 20 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
+| 19 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
+| 20 | [RefilweSethunya](https://github.com/RefilweSethunya) | Refilwe Sethunya Keatlholetswe | Gaborone, Botswana | 318 |
 
 ## Followers
 
@@ -73,7 +73,7 @@ Indexed users: 534
 | 9 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 61 |
 | 10 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | Gaborone, Botswana | 58 |
 | 11 | [Mathhews777](https://github.com/Mathhews777) | Thato Mooketsi | Gaborone | 50 |
-| 12 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono | Gaborone,Botswana | 47 |
+| 12 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono | Gaborone,Botswana | 46 |
 | 13 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 46 |
 | 14 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana | 45 |
 | 15 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo | Gaborone Botswana | 39 |
@@ -83,4 +83,4 @@ Indexed users: 534
 | 19 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 | 20 | [WapaEdzani](https://github.com/WapaEdzani) | Mr Edzani Wapa Omogolo | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-08T09:05:30.273Z
+Generated: 2026-10-08T09:53:21.778Z

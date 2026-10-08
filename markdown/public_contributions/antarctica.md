@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-08T09:01:59.012Z
+Generated: 2026-10-08T09:50:53.451Z
 
 Users: 465
 
@@ -21,8 +21,8 @@ Users: 465
 | 13 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 748 |
 | 14 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
 | 15 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
-| 16 | [DrBrad](https://github.com/DrBrad) | Brad | find9 LLC, LimeReel LLC |  | Antarctica | 634 |
-| 17 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
-| 18 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
-| 19 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 513 |
-| 20 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
+| 16 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
+| 17 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
+| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 513 |
+| 19 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
+| 20 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |

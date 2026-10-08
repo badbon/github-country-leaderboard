@@ -1,6 +1,6 @@
 # Seychelles
 
-Indexed users: 1,780
+Indexed users: 1,779
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,780
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-08T08:49:12.859Z
+Generated: 2026-10-08T09:39:46.670Z

@@ -12,19 +12,19 @@ Indexed users: 705
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 7,256 |
-| 2 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 7,168 |
-| 3 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 7,140 |
-| 4 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,163 |
-| 5 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 5,230 |
-| 6 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 5,039 |
-| 7 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 4,988 |
+| 1 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 8,945 |
+| 2 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 7,256 |
+| 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 7,168 |
+| 4 | [ifteakhor](https://github.com/ifteakhor) |  | Tajikistan | 6,234 |
+| 5 | [sr-44](https://github.com/sr-44) | Shahrom | Tajikistan, Dushanbe | 6,163 |
+| 6 | [islom-sattorov](https://github.com/islom-sattorov) | islom-sattorov | Dushanbe, Tajikistan | 5,865 |
+| 7 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 5,039 |
 | 8 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 4,557 |
 | 9 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 4,345 |
 | 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Tajikistan, Dushanbe | 3,717 |
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Dushanbe | 3,517 |
 | 12 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | Khujand, Tajikistan | 3,202 |
-| 13 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,178 |
+| 13 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,198 |
 | 14 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,941 |
 | 15 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 2,856 |
 | 16 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,665 |
@@ -45,7 +45,7 @@ Indexed users: 705
 | 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 996 |
 | 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 976 |
 | 8 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 953 |
-| 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 773 |
+| 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 823 |
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 760 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 671 |
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
@@ -81,6 +81,6 @@ Indexed users: 705
 | 17 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 50 |
 | 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Dushanbe,Tajikistan | 50 |
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
-| 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 46 |
+| 20 | [GholibjonMadiyarov](https://github.com/GholibjonMadiyarov) | Gholibjon | Tajikistan | 47 |
 
-Generated: 2026-10-08T08:51:53.912Z
+Generated: 2026-10-08T09:43:15.174Z

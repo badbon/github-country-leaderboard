@@ -79,8 +79,8 @@ Indexed users: 483
 | 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 47 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 41 |
-| 18 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 38 |
-| 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
-| 20 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 37 |
+| 18 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 39 |
+| 19 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 38 |
+| 20 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 
-Generated: 2026-10-08T09:07:56.214Z
+Generated: 2026-10-08T09:54:32.462Z

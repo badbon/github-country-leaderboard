@@ -1,8 +1,8 @@
 # Followers - Paraguay
 
-Generated: 2026-10-08T08:44:21.184Z
+Generated: 2026-10-08T09:34:17.251Z
 
-Users: 2025
+Users: 2023
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

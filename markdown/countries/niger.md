@@ -16,7 +16,7 @@ Indexed users: 177
 | 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil | Niger | 3,351 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 3,028 |
 | 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | Niamey, Niger | 2,160 |
-| 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,761 |
+| 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,762 |
 | 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky | Niger | 1,370 |
 | 7 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Niamey/Niger | 1,139 |
 | 8 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,099 |
@@ -24,11 +24,11 @@ Indexed users: 177
 | 10 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 943 |
 | 11 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 874 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 773 |
-| 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 744 |
+| 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 750 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 691 |
 | 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 600 |
 | 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 514 |
-| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 513 |
+| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 512 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 457 |
 | 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 440 |
@@ -38,7 +38,7 @@ Indexed users: 177
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine | Niamey, Niger | 2,909 |
-| 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,761 |
+| 2 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis | Niger/Niamey | 1,762 |
 | 3 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou | Niamey,Niger | 1,099 |
 | 4 | [FadelMamar](https://github.com/FadelMamar) | Fadel | Niger | 965 |
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 600 |
@@ -83,4 +83,4 @@ Indexed users: 177
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-08T08:40:47.514Z
+Generated: 2026-10-08T09:32:45.687Z

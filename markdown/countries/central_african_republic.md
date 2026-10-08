@@ -12,8 +12,8 @@ Indexed users: 11
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,266 |
-| 2 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 855 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,271 |
+| 2 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 856 |
 | 3 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 634 |
 | 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 322 |
 | 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 229 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | Bangui, République Centrafricaine | 1 |
 | 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU | Bangui | 1 |
 
-Generated: 2026-10-08T09:08:45.578Z
+Generated: 2026-10-08T09:56:03.222Z

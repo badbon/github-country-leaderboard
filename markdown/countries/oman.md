@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 1,004
+Indexed users: 1,002
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 1,004
 | 15 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 4,372 |
 | 16 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
 | 17 | [m7medVision](https://github.com/m7medVision) | Mohammed | Oman | 4,175 |
-| 18 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Oman | 3,716 |
-| 19 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,542 |
-| 20 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Sultanate of Oman, al khuwair muscat | 3,507 |
+| 18 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
+| 19 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Oman | 3,716 |
+| 20 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,542 |
 
 ## Public Contributions
 
@@ -55,8 +55,8 @@ Indexed users: 1,004
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
 | 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,306 |
 | 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
-| 19 | [atakhadiviom](https://github.com/atakhadiviom) | ATA KHADIVI | Muscat | 1,171 |
-| 20 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,097 |
+| 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,097 |
+| 20 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,075 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,004
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-08T08:41:54.355Z
+Generated: 2026-10-08T09:33:38.074Z

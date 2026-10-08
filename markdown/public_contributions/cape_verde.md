@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-08T09:08:36.235Z
+Generated: 2026-10-08T09:54:48.943Z
 
 Users: 562
 
@@ -12,10 +12,10 @@ Users: 562
 | 4 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho |  |  | Cape Verde | 706 |
 | 5 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido |  |  | praia grande-sp | 691 |
 | 6 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  |  |  | Praia grande - sp | 542 |
-| 7 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 522 |
-| 8 | [Mateuus](https://github.com/Mateuus) | Mateuus | Rodrigues Tech |  | Praia Grande - SP | 482 |
-| 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes |  |  | Praia Grande - SP | 414 |
-| 10 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Fatec Praia Grande |  | Praia Grande | 401 |
+| 7 | [Mateuus](https://github.com/Mateuus) | Mateuus | Rodrigues Tech |  | Praia Grande - SP | 482 |
+| 8 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes |  |  | Praia Grande - SP | 414 |
+| 9 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Fatec Praia Grande |  | Praia Grande | 401 |
+| 10 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 379 |
 | 11 | [Coyas](https://github.com/Coyas) | Ailton Duarte | TerraSystem | A_coyas | Praia, Cabo Verde | 364 |
 | 12 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe |  |  | Praia Grande - SP | 324 |
 | 13 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Fatec Praia Grande |  | Praia Grande -SP | 302 |

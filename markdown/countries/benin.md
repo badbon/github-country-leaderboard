@@ -29,9 +29,9 @@ Indexed users: 469
 | 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
 | 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,298 |
-| 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
-| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,172 |
-| 20 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,116 |
+| 18 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,215 |
+| 19 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
+| 20 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,172 |
 
 ## Public Contributions
 
@@ -45,18 +45,18 @@ Indexed users: 469
 | 6 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,424 |
 | 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,345 |
 | 8 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
-| 9 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,125 |
-| 10 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 1,099 |
-| 11 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,066 |
-| 12 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
-| 13 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 892 |
-| 14 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 830 |
-| 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 827 |
-| 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 816 |
-| 17 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
-| 18 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
-| 19 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 586 |
-| 20 | [delsDin](https://github.com/delsDin) | Dels Dinla | Benin | 573 |
+| 9 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 1,099 |
+| 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,066 |
+| 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
+| 12 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 892 |
+| 13 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 830 |
+| 14 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 827 |
+| 15 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 816 |
+| 16 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
+| 17 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
+| 18 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 586 |
+| 19 | [delsDin](https://github.com/delsDin) | Dels Dinla | Benin | 573 |
+| 20 | [Ferdinaelectro1](https://github.com/Ferdinaelectro1) | Ferdinaelectro | Abomey-Calavi, Benin | 566 |
 
 ## Followers
 
@@ -73,14 +73,14 @@ Indexed users: 469
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO | Benin | 107 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | Benin | 98 |
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 92 |
-| 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 91 |
-| 13 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
-| 14 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 87 |
-| 15 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 84 |
+| 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 88 |
+| 13 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 88 |
+| 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
+| 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
 | 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Benin, Cotonou | 79 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-08T09:04:02.265Z
+Generated: 2026-10-08T09:52:31.674Z

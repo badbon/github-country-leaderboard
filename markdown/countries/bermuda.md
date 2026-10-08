@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 906
+Indexed users: 905
 
 | Leaderboard | Link |
 |---|---|
@@ -21,10 +21,10 @@ Indexed users: 906
 | 7 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 6,508 |
 | 8 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 6,228 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 5,649 |
-| 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 4,669 |
-| 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 4,644 |
-| 12 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,278 |
-| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 4,167 |
+| 10 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,557 |
+| 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 4,669 |
+| 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 4,644 |
+| 13 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,278 |
 | 14 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 3,942 |
 | 15 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 3,703 |
 | 16 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | Hamilton, Ontario | 3,415 |
@@ -83,4 +83,4 @@ Indexed users: 906
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 66 |
 
-Generated: 2026-10-08T09:04:04.966Z
+Generated: 2026-10-08T09:53:05.775Z

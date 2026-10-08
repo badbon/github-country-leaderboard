@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-08T09:04:11.030Z
+Generated: 2026-10-08T09:53:11.986Z
 
 Users: 268
 
@@ -23,6 +23,6 @@ Users: 268
 | 15 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1830 |
 | 16 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1792 |
 | 17 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1789 |
-| 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1778 |
+| 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1758 |
 | 19 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung |  |  | Thimphu Bhutan | 1729 |
 | 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice |  |  | Bhutan | 1599 |

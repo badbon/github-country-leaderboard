@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,492
+Indexed users: 1,491
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,492
 | 19 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 123 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-08T09:00:07.312Z
+Generated: 2026-10-08T09:49:29.206Z

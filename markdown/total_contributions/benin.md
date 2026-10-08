@@ -1,6 +1,6 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-08T09:04:02.265Z
+Generated: 2026-10-08T09:52:31.674Z
 
 Users: 469
 
@@ -23,6 +23,6 @@ Users: 469
 | 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 3441 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | SICOGES ByGAMS | Blvck_Excelsior | Benin, Cotonou | 3331 |
 | 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | ___ |  | Cotonou, Benin | 3298 |
-| 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3213 |
-| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3172 |
-| 20 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON |  | elishady_ | Cotonou, Benin | 3116 |
+| 18 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien |  |  | Benin, Cotonou | 3215 |
+| 19 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3213 |
+| 20 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3172 |

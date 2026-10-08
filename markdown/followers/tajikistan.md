@@ -1,6 +1,6 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-08T08:51:53.912Z
+Generated: 2026-10-08T09:43:15.174Z
 
 Users: 705
 
@@ -25,4 +25,4 @@ Users: 705
 | 17 | [11bit](https://github.com/11bit) | Ivan Buryak | https://evilmartians.com | 11bit | Dushanbe | 50 |
 | 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Saiph Group |  | Dushanbe,Tajikistan | 50 |
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | MegaFon  |  | Dushanbe | 48 |
-| 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Abdughafur Projects |  | Tajikistan | 46 |
+| 20 | [GholibjonMadiyarov](https://github.com/GholibjonMadiyarov) | Gholibjon |  |  | Tajikistan | 47 |

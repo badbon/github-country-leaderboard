@@ -70,9 +70,9 @@ Indexed users: 1,342
 | 6 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 221 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 193 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 163 |
-| 9 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 152 |
-| 10 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 138 |
-| 11 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 138 |
+| 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 161 |
+| 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 152 |
+| 11 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 138 |
 | 12 | [akebu6](https://github.com/akebu6) | Akebu | Zambia | 133 |
 | 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 115 |
 | 14 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Lusaka, Zambia | 113 |
@@ -83,4 +83,4 @@ Indexed users: 1,342
 | 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 104 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 104 |
 
-Generated: 2026-10-08T08:59:56.343Z
+Generated: 2026-10-08T09:49:01.074Z

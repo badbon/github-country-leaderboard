@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-08T09:05:30.273Z
+Generated: 2026-10-08T09:53:21.778Z
 
 Users: 534
 
@@ -17,7 +17,7 @@ Users: 534
 | 9 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 61 |
 | 10 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | @Spectrum-Analytics @officialgdggaborone  | impurefunctions | Gaborone, Botswana | 58 |
 | 11 | [Mathhews777](https://github.com/Mathhews777) | Thato Mooketsi |  |  | Gaborone | 50 |
-| 12 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono |  | Hope_Ntshonono | Gaborone,Botswana | 47 |
+| 12 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono |  | Hope_Ntshonono | Gaborone,Botswana | 46 |
 | 13 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 46 |
 | 14 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana Ltd. | mitp0sh | Botswana | 45 |
 | 15 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo |  | samuel_kabelo | Gaborone Botswana | 39 |

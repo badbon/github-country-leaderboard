@@ -1,6 +1,6 @@
 # Croatia
 
-Indexed users: 5,445
+Indexed users: 5,444
 
 | Leaderboard | Link |
 |---|---|
@@ -48,7 +48,7 @@ Indexed users: 5,445
 | 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Croatia | 4,225 |
 | 10 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 4,153 |
 | 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic | Croatia | 3,819 |
-| 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Zagreb/Trogir | 3,472 |
+| 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Zagreb/Trogir | 3,806 |
 | 13 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
 | 14 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
 | 15 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 2,954 |
@@ -83,4 +83,4 @@ Indexed users: 5,445
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-08T09:10:42.990Z
+Generated: 2026-10-08T09:59:03.977Z

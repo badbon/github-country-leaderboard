@@ -1,6 +1,6 @@
 # Total Contributions - Timor-Leste
 
-Generated: 2026-10-08T08:52:46.760Z
+Generated: 2026-10-08T09:43:25.853Z
 
 Users: 77
 
@@ -16,7 +16,7 @@ Users: 77
 | 8 | [raul-amaral](https://github.com/raul-amaral) | Raul Amaral |  |  | Timor-Leste | 399 |
 | 9 | [JabesNelma](https://github.com/JabesNelma) | Jay |  |  | Dili, Timor-Leste | 327 |
 | 10 | [amandio-eto](https://github.com/amandio-eto) | Jose Amandio de Almeida | Esperanca Timor Oan |  | Rua china Rate Lahane Oreintal Dili Timor Leste | 212 |
-| 11 | [adearanda](https://github.com/adearanda) | Aderito Aranda | Monte Academy |  | Av. Vila Verde, Dili Timor Leste | 153 |
+| 11 | [adearanda](https://github.com/adearanda) | Aderito Aranda | Monte Academy |  | Av. Vila Verde, Dili Timor Leste | 158 |
 | 12 | [TiagovskiCode](https://github.com/TiagovskiCode) | Tiago Teixeira  |  |  | East-Timor | 153 |
 | 13 | [gabriel-de-jesus](https://github.com/gabriel-de-jesus) | Gabriel de Jesus | Timor News |  | Dili, Timor-Leste | 120 |
 | 14 | [Floren-pinto](https://github.com/Floren-pinto) | Florentino Pinto |  |  | Timor-Leste | 110 |

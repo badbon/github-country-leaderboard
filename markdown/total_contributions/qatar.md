@@ -1,8 +1,8 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-08T08:46:04.101Z
+Generated: 2026-10-08T09:37:12.093Z
 
-Users: 1078
+Users: 1079
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 1078
 | 10 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 5205 |
 | 11 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 4548 |
 | 12 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 4031 |
-| 13 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed |  |  | Doha, Qatar | 3940 |
-| 14 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Teciza Solutions |  | Qatar | 3909 |
+| 13 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Teciza Solutions |  | Qatar | 3975 |
+| 14 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed |  |  | Doha, Qatar | 3940 |
 | 15 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes |  |  | Doha | 3898 |
 | 16 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 3817 |
 | 17 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 3588 |
-| 18 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 3393 |
-| 19 | [regizum](https://github.com/regizum) | Regina Nigmatullina |  |  | Doha | 3230 |
-| 20 | [Gedmski](https://github.com/Gedmski) | Gabriel Edward Marquez | University of Doha for Science and Technology |  | Qatar | 3176 |
+| 18 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Blaze Technology Solutions |  | Calicut \| Qatar | 3487 |
+| 19 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 3393 |
+| 20 | [muhammadqazi](https://github.com/muhammadqazi) | Muhammad Qazi | Voultrex |  | Doha, Qatar | 3243 |
