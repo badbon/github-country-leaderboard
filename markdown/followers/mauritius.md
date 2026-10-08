@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-08T07:05:15.279Z
+Generated: 2026-10-08T07:49:23.563Z
 
 Users: 719
 
@@ -14,7 +14,7 @@ Users: 719
 | 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Uniicy | 454aac84aec945b | Mauritius | 121 |
 | 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 119 |
 | 8 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 115 |
-| 9 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 112 |
+| 9 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 115 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 107 |
 | 11 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Dayforce |  | Mauritius | 101 |
 | 12 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | @cyberstormdotmu  |  | Mauritius | 100 |

@@ -1,13 +1,13 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-08T07:06:13.116Z
+Generated: 2026-10-08T07:53:15.242Z
 
-Users: 2081
+Users: 2094
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 8369 |
-| 2 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 7692 |
+| 2 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 7128 |
 | 3 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6627 |
 | 4 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5499 |
 | 5 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | @Efficient-Soft |  | Yangon, Myanmar | 4933 |

@@ -1,8 +1,8 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-08T06:45:08.566Z
+Generated: 2026-10-08T07:33:22.751Z
 
-Users: 563
+Users: 562
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 563
 | 13 | [GustavoLDO](https://github.com/GustavoLDO) | Gustavo Lemos  de Oliveira  | Fatec Praia Grande |  | Praia Grande -SP | 302 |
 | 14 | [blzrosa](https://github.com/blzrosa) | Bruno Luís Zerbinatto Rosa |  |  | Praia Grande, SP | 301 |
 | 15 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo |  |  | Praia Grande - SP | 251 |
-| 16 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 240 |
-| 17 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho |  |  | Cape Verde | 210 |
+| 16 | [thisisleobro](https://github.com/thisisleobro) | Leo Carvalho |  |  | Cape Verde | 210 |
+| 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 197 |
 | 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | DevTrust Consulting Developing |  | Cabo Verde - Praia | 186 |
 | 19 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 182 |
 | 20 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 180 |

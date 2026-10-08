@@ -1,6 +1,6 @@
 # Mozambique
 
-Indexed users: 1,172
+Indexed users: 1,175
 
 | Leaderboard | Link |
 |---|---|
@@ -48,8 +48,8 @@ Indexed users: 1,172
 | 9 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
 | 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | Mozambique | 690 |
 | 11 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 673 |
-| 12 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 670 |
-| 13 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 664 |
+| 12 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 664 |
+| 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 644 |
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 630 |
 | 15 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 610 |
 | 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 564 |
@@ -83,4 +83,4 @@ Indexed users: 1,172
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-08T07:06:01.289Z
+Generated: 2026-10-08T07:52:57.025Z

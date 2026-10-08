@@ -1,8 +1,8 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-08T06:45:08.566Z
+Generated: 2026-10-08T07:33:22.751Z
 
-Users: 563
+Users: 562
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 563
 | 14 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | @gupy-io | machadoah | Praia Grande/SP | 1141 |
 | 15 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1115 |
 | 16 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1096 |
-| 17 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1026 |
-| 18 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1003 |
-| 19 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 997 |
-| 20 | [Sengeki1](https://github.com/Sengeki1) | Marco Soares |  |  | Cape Verde | 883 |
+| 17 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Usiminas |  | Praia Grande - SP | 1072 |
+| 18 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1026 |
+| 19 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1003 |
+| 20 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 997 |

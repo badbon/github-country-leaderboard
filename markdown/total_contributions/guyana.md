@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-08T06:54:39.559Z
+Generated: 2026-10-08T07:43:31.238Z
 
 Users: 186
 
@@ -15,7 +15,7 @@ Users: 186
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3903 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3690 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3298 |
-| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3108 |
+| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3103 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3045 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2209 |
 | 13 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman |  |  | Georgetown, TX | 1886 |

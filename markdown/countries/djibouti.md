@@ -63,7 +63,7 @@ Indexed users: 55
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 27 |
-| 2 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 25 |
+| 2 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 24 |
 | 3 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 17 |
 | 4 | [abdibogor](https://github.com/abdibogor) |  | Djibouti | 15 |
 | 5 | [hamoudabass](https://github.com/hamoudabass) | Hamoud Abass  | Djibouti | 15 |
@@ -83,4 +83,4 @@ Indexed users: 55
 | 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 5 |
 | 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 5 |
 
-Generated: 2026-10-08T06:50:13.324Z
+Generated: 2026-10-08T07:36:50.952Z

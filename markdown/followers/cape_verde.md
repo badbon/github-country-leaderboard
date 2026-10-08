@@ -1,8 +1,8 @@
 # Followers - Cape Verde
 
-Generated: 2026-10-08T06:45:08.566Z
+Generated: 2026-10-08T07:33:22.751Z
 
-Users: 563
+Users: 562
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 563
 | 9 | [eloisaoliveira](https://github.com/eloisaoliveira) | Eloisa de Oliveira |  | elooliveira_png | Praia Grande - SP | 116 |
 | 10 | [isabellacoliveira](https://github.com/isabellacoliveira) | Isabella Cruz de Oliveira | Itaú Unibanco |  | Praia Grande | 93 |
 | 11 | [cdfortes](https://github.com/cdfortes) | Carlos Fortes |  | cdfortes | Praia - Cabo Verde | 92 |
-| 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES |  |  | Praia Grande - SP - Brazil | 89 |
+| 12 | [felipesurfe](https://github.com/felipesurfe) | FELIPE CAMARGO FERNANDES |  |  | Praia Grande - SP - Brazil | 88 |
 | 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 82 |
 | 14 | [JulianeMonteiro](https://github.com/JulianeMonteiro) | Juliane Aparecida Monteiro dos Santos |  |  | Praia Grande - SP | 75 |
 | 15 | [GabrielJalmeida](https://github.com/GabrielJalmeida) | Gabriel Almeida |  |  | Praia Grande | 74 |

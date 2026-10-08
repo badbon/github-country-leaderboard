@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-08T07:04:31.011Z
+Generated: 2026-10-08T07:48:37.240Z
 
 Users: 347
 
@@ -13,8 +13,8 @@ Users: 347
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 1126 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 565 |
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 386 |
-| 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 377 |
-| 9 | [LeoAz](https://github.com/LeoAz) | Lionel AZ |  |  | Bamako | 368 |
+| 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ |  |  | Bamako | 382 |
+| 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 377 |
 | 10 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 334 |
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | @simplonsolutionssenegal | malladev223 | Bamako - MALI | 320 |
 | 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
@@ -24,5 +24,5 @@ Users: 347
 | 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 185 |
 | 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
 | 18 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse |  |  | Mali(Bamako) | 148 |
-| 19 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 144 |
-| 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Ckan |  | Mali | 134 |
+| 19 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 145 |
+| 20 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 144 |

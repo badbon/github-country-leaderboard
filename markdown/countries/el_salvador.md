@@ -20,7 +20,7 @@ Indexed users: 2,387
 | 6 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 6,304 |
 | 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 6,223 |
 | 8 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 6,129 |
-| 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 5,853 |
+| 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,010 |
 | 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 5,699 |
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 4,921 |
 | 12 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 4,728 |
@@ -83,4 +83,4 @@ Indexed users: 2,387
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-08T06:50:41.276Z
+Generated: 2026-10-08T07:37:39.390Z

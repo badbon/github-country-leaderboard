@@ -12,8 +12,8 @@ Indexed users: 347
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,180 |
-| 2 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 6,468 |
+| 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 7,980 |
+| 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,180 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,256 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 5,894 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,287 |
@@ -44,8 +44,8 @@ Indexed users: 347
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,126 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 565 |
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
-| 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 377 |
-| 9 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 368 |
+| 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 382 |
+| 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 377 |
 | 10 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 334 |
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 320 |
 | 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
@@ -55,8 +55,8 @@ Indexed users: 347
 | 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
 | 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
 | 18 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 148 |
-| 19 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
-| 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 134 |
+| 19 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
+| 20 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-08T07:04:31.011Z
+Generated: 2026-10-08T07:48:37.240Z

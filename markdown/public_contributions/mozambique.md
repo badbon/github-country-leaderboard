@@ -1,8 +1,8 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-08T07:06:01.289Z
+Generated: 2026-10-08T07:52:57.025Z
 
-Users: 1172
+Users: 1175
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,8 +17,8 @@ Users: 1172
 | 9 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | @pavulla-tech  |  | Mozambique | 721 |
 | 10 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | FDS | FilipeD30920066 | Mozambique | 690 |
 | 11 | [djafta](https://github.com/djafta) | Djafta | @Aervel |  | Mozambique | 673 |
-| 12 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | ANOVAFASE |  | maputo, Mozambique | 670 |
-| 13 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 664 |
+| 12 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 664 |
+| 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | ANOVAFASE |  | maputo, Mozambique | 644 |
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao |  | Arcides_ | Mozambique | 630 |
 | 15 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 610 |
 | 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Wit Software |  | Mocambique - Maputo | 564 |

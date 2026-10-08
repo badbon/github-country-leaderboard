@@ -1,13 +1,13 @@
 # Total Contributions - Mali
 
-Generated: 2026-10-08T07:04:31.011Z
+Generated: 2026-10-08T07:48:37.240Z
 
 Users: 347
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 7180 |
-| 2 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | NIANGALY | diblo_n | BAMAKO MALI | 6468 |
+| 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 7980 |
+| 2 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 7180 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Logic Fly |  | Bamako-Mali | 6256 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 5894 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 5287 |

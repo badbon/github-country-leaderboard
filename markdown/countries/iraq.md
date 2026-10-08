@@ -1,6 +1,6 @@
 # Iraq
 
-Indexed users: 2,251
+Indexed users: 2,250
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 2,251
 | 15 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | iraq | 5,941 |
 | 16 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 5,617 |
 | 17 | [MohamadTahir](https://github.com/MohamadTahir) | Mohammad Tahir | Erbil, Iraq | 5,492 |
-| 18 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Erbil, Iraq | 5,244 |
-| 19 | [Ali24Aldayoub](https://github.com/Ali24Aldayoub) | Ali Aldayoub | iraq , Erbil | 5,238 |
-| 20 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam | Baghdad | 5,098 |
+| 18 | [AhmedITD](https://github.com/AhmedITD) | Ahmed Imad Tarq | Iraq, Baghdad | 5,362 |
+| 19 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Erbil, Iraq | 5,244 |
+| 20 | [Ali24Aldayoub](https://github.com/Ali24Aldayoub) | Ali Aldayoub | iraq , Erbil | 5,238 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,251
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 203 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-08T06:55:58.680Z
+Generated: 2026-10-08T07:44:20.113Z

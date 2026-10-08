@@ -1,6 +1,6 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-10-08T06:44:33.047Z
+Generated: 2026-10-08T07:32:45.107Z
 
 Users: 483
 
@@ -14,8 +14,8 @@ Users: 483
 | 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 3919 |
 | 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 3840 |
 | 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3701 |
-| 9 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | ODG Enterprise |  | Ouagadougou, Burkina Faso | 2713 |
-| 10 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ticanalyse |  | Ouagadougou, Burkina Faso 🇧🇫 | 2506 |
+| 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ticanalyse |  | Ouagadougou, Burkina Faso 🇧🇫 | 2793 |
+| 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | ODG Enterprise |  | Ouagadougou, Burkina Faso | 2713 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 2263 |
 | 12 | [PANK4SS](https://github.com/PANK4SS) | Pankassi Jean-Louis Rayane BICABA | Independent Software Engineer |  | Burkina Faso | 1684 |
 | 13 | [BoukaryDiallo](https://github.com/BoukaryDiallo) | Boukary DIALLO | TICANALYSE |  | Ouagadougou, Burkina Faso | 1604 |

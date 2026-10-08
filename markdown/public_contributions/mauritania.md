@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-08T07:05:11.434Z
+Generated: 2026-10-08T07:49:17.371Z
 
 Users: 288
 
@@ -20,7 +20,7 @@ Users: 288
 | 12 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 285 |
 | 13 | [alibyh](https://github.com/alibyh) | Alibyh | mauri-alpha |  | Nouakchott-Mauritania | 264 |
 | 14 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  |  |  | Nouakchott mauritanie  | 246 |
-| 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef |  |  | Mauritania | 218 |
+| 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef |  |  | Mauritania | 217 |
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 206 |
 | 17 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 187 |
 | 18 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya |  |  | nouakchott mauritania | 176 |

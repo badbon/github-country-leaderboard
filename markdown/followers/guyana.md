@@ -1,6 +1,6 @@
 # Followers - Guyana
 
-Generated: 2026-10-08T06:54:39.559Z
+Generated: 2026-10-08T07:43:31.238Z
 
 Users: 186
 
@@ -10,7 +10,7 @@ Users: 186
 | 2 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 252 |
 | 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 232 |
 | 4 | [skylerto](https://github.com/skylerto) | Skyler Layne | ShuttleOps |  | Georgetown, ON | 100 |
-| 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 59 |
+| 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 60 |
 | 6 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 49 |
 | 7 | [tylerwhall](https://github.com/tylerwhall) | Tyler Hall | Lexmark |  | Georgetown, KY | 48 |
 | 8 | [anmolnar](https://github.com/anmolnar) | Andor Molnár | @cloudera |  | Georgetown, TX | 45 |

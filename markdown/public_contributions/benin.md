@@ -1,13 +1,13 @@
 # Public Contributions - Benin
 
-Generated: 2026-10-08T06:42:59.257Z
+Generated: 2026-10-08T07:29:45.174Z
 
 Users: 470
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7864 |
-| 2 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 6861 |
+| 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 12201 |
+| 2 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7864 |
 | 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille |  |  | Cotonou, Benin | 2435 |
 | 4 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda |  |  | Benin | 1870 |
 | 5 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE |  |  | Benin | 1665 |
@@ -23,6 +23,6 @@ Users: 470
 | 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | BELLOX |  | Cotonou,Littoral, Benin | 827 |
 | 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 816 |
 | 17 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 793 |
-| 18 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Leading Edge virtual Insight  | Nuelaagafie | Benin | 658 |
-| 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 592 |
+| 18 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 592 |
+| 19 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Leading Edge virtual Insight  | Nuelaagafie | Benin | 586 |
 | 20 | [delsDin](https://github.com/delsDin) | Dels Dinla |  |  | Benin | 573 |

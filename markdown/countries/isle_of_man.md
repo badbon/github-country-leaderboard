@@ -31,7 +31,7 @@ Indexed users: 155
 | 17 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,198 |
 | 18 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,061 |
 | 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,060 |
-| 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,018 |
+| 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,020 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-08T06:58:30.296Z
+Generated: 2026-10-08T07:44:33.189Z

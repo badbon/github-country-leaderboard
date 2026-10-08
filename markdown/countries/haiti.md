@@ -1,6 +1,6 @@
 # Haiti
 
-Indexed users: 339
+Indexed users: 338
 
 | Leaderboard | Link |
 |---|---|
@@ -25,12 +25,12 @@ Indexed users: 339
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,795 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,756 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,706 |
-| 14 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,316 |
-| 15 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,119 |
-| 16 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,043 |
-| 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 977 |
-| 18 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 947 |
-| 19 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 901 |
+| 14 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,451 |
+| 15 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,316 |
+| 16 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,119 |
+| 17 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,043 |
+| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 977 |
+| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 947 |
 | 20 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 731 |
 
 ## Public Contributions
@@ -78,9 +78,9 @@ Indexed users: 339
 | 14 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | Haiti | 38 |
 | 15 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 37 |
 | 16 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis | Port-au-prince, Haïti | 34 |
-| 17 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 34 |
-| 18 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
+| 17 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | Haiti | 33 |
+| 18 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | Delmas 41, Ouest, Haiti | 32 |
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-08T06:54:42.039Z
+Generated: 2026-10-08T07:43:34.927Z

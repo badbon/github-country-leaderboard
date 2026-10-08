@@ -1,23 +1,23 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-08T06:42:16.950Z
+Generated: 2026-10-08T07:28:20.418Z
 
-Users: 732
+Users: 730
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri |  |  | Bahrain | 81703 |
 | 2 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 10049 |
 | 3 | [a7md](https://github.com/a7md) | {ahmed} |  |  | Bahrain | 9665 |
-| 4 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 6045 |
-| 5 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 5444 |
-| 6 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 5407 |
-| 7 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4427 |
-| 8 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 4379 |
-| 9 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 4337 |
-| 10 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 4304 |
-| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4124 |
-| 12 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 3772 |
+| 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 6239 |
+| 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 6045 |
+| 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 5444 |
+| 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 5407 |
+| 8 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4427 |
+| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 4379 |
+| 10 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 4337 |
+| 11 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 4304 |
+| 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4124 |
 | 13 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3594 |
 | 14 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3560 |
 | 15 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 3321 |

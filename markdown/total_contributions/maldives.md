@@ -1,28 +1,28 @@
 # Total Contributions - Maldives
 
-Generated: 2026-10-08T07:04:28.381Z
+Generated: 2026-10-08T07:48:32.772Z
 
 Users: 355
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Balloonshare |  | Maldives | 10937 |
+| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Balloonshare |  | Maldives | 11383 |
 | 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 8490 |
-| 3 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 7283 |
-| 4 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 6501 |
-| 5 | [lishaan](https://github.com/lishaan) | Lishan | @avas-app |  | Malé, Maldives | 5716 |
-| 6 | [hashes02](https://github.com/hashes02) | HASHES |  |  | Maldives | 5563 |
-| 7 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5307 |
-| 8 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 4961 |
-| 9 | [roris](https://github.com/roris) | Thoail Ahmed |  |  | Maldives | 4888 |
-| 10 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 4713 |
-| 11 | [muizzu](https://github.com/muizzu) | Muizzu Abbas |  |  | Maldives | 4710 |
-| 12 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | @seastackmv  | nullptrz | Maldives | 4552 |
-| 13 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 4440 |
-| 14 | [agent306](https://github.com/agent306) | Ncodex | @pension  | nash_athu | Male', Maldives | 4422 |
-| 15 | [maldivien](https://github.com/maldivien) | Ahmed Shareef |  |  | Maldives | 4193 |
-| 16 | [whosaynow](https://github.com/whosaynow) | whosaynow | LottieFiles | whosaynow | Maldives | 4160 |
-| 17 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau |  | ismail_shuaau | Male', Maldives | 4151 |
-| 18 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq |  |  | Maldives | 4150 |
-| 19 | [N4ZEN](https://github.com/N4ZEN) | Naza |  |  | Maldives | 3869 |
-| 20 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | @pension |  | Maldives | 3859 |
+| 3 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 8392 |
+| 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Aalto University | mnazaaI | Maldives | 7283 |
+| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman |  | mohamed_aiman | Maldives | 6501 |
+| 6 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 5829 |
+| 7 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 5727 |
+| 8 | [lishaan](https://github.com/lishaan) | Lishan | @avas-app |  | Malé, Maldives | 5716 |
+| 9 | [hashes02](https://github.com/hashes02) | HASHES |  |  | Maldives | 5563 |
+| 10 | [jaaahh](https://github.com/jaaahh) | Jaah | @urbanpiper  |  | Maldives | 4961 |
+| 11 | [roris](https://github.com/roris) | Thoail Ahmed |  |  | Maldives | 4888 |
+| 12 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | DNS PIPES Inc. |  | Maldives | 4713 |
+| 13 | [muizzu](https://github.com/muizzu) | Muizzu Abbas |  |  | Maldives | 4710 |
+| 14 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | @seastackmv  | nullptrz | Maldives | 4552 |
+| 15 | [ayarse](https://github.com/ayarse) | ayaz |  |  | Maldives | 4440 |
+| 16 | [agent306](https://github.com/agent306) | Ncodex | @pension  | nash_athu | Male', Maldives | 4422 |
+| 17 | [maldivien](https://github.com/maldivien) | Ahmed Shareef |  |  | Maldives | 4193 |
+| 18 | [whosaynow](https://github.com/whosaynow) | whosaynow | LottieFiles | whosaynow | Maldives | 4160 |
+| 19 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau |  | ismail_shuaau | Male', Maldives | 4151 |
+| 20 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq |  |  | Maldives | 4150 |

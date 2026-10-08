@@ -1,8 +1,8 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-08T06:55:58.680Z
+Generated: 2026-10-08T07:44:20.113Z
 
-Users: 2251
+Users: 2250
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 2251
 | 15 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5941 |
 | 16 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 5617 |
 | 17 | [MohamadTahir](https://github.com/MohamadTahir) | Mohammad Tahir | @ditkrg  | _MohammedTahir | Erbil, Iraq | 5492 |
-| 18 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Otee.co |  | Erbil, Iraq | 5244 |
-| 19 | [Ali24Aldayoub](https://github.com/Ali24Aldayoub) | Ali Aldayoub | SKY Control |  | iraq , Erbil | 5238 |
-| 20 | [3bbasDev](https://github.com/3bbasDev) | Abbas Radam |  |  | Baghdad | 5098 |
+| 18 | [AhmedITD](https://github.com/AhmedITD) | Ahmed Imad Tarq |  |  | Iraq, Baghdad | 5362 |
+| 19 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Otee.co |  | Erbil, Iraq | 5244 |
+| 20 | [Ali24Aldayoub](https://github.com/Ali24Aldayoub) | Ali Aldayoub | SKY Control |  | iraq , Erbil | 5238 |

@@ -1,6 +1,6 @@
 # Namibia
 
-Indexed users: 476
+Indexed users: 475
 
 | Leaderboard | Link |
 |---|---|
@@ -13,20 +13,20 @@ Indexed users: 476
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 10,153 |
-| 2 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,544 |
-| 3 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,282 |
-| 4 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,058 |
-| 5 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 5,610 |
-| 6 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,508 |
-| 7 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 3,998 |
-| 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 3,679 |
-| 9 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 2,498 |
-| 10 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
-| 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,317 |
-| 12 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,183 |
-| 13 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
-| 14 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,898 |
-| 15 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
+| 2 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,264 |
+| 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,544 |
+| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,282 |
+| 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,058 |
+| 6 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 5,610 |
+| 7 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,508 |
+| 8 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 3,998 |
+| 9 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 3,679 |
+| 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 2,498 |
+| 11 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
+| 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,317 |
+| 13 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,183 |
+| 14 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
+| 15 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,898 |
 | 16 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,776 |
 | 17 | [ThomasShikalepo](https://github.com/ThomasShikalepo) | Thomas shikalepo | Windhoek, Namibia | 1,563 |
 | 18 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu | Windhoek, Namibia | 1,557 |
@@ -37,9 +37,9 @@ Indexed users: 476
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 3,135 |
-| 2 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 2,203 |
-| 3 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 1,857 |
+| 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,264 |
+| 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 3,135 |
+| 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 2,203 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,808 |
 | 5 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,251 |
 | 6 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,051 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [rigred](https://github.com/rigred) | Rigo Reddig | Namibia | 34 |
 
-Generated: 2026-10-08T07:06:17.999Z
+Generated: 2026-10-08T07:53:18.551Z

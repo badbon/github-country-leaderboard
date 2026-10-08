@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-08T06:44:33.047Z
+Generated: 2026-10-08T07:32:45.107Z
 
 Users: 483
 
@@ -16,7 +16,7 @@ Users: 483
 | 8 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Declic Africa | fasodev | Burkina-Faso,Ouagadougou | 103 |
 | 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue |  |  | Burkina Faso - Ouagadougou | 101 |
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Theojnana Tech Solution | theobosomtwe | Burkina Faso | 93 |
-| 11 | [Kidchris](https://github.com/Kidchris) | Kidchris | Passionate Developer | KidChris7 | Ouagadougou, Burkina Faso | 72 |
+| 11 | [Kidchris](https://github.com/Kidchris) | Kidchris | Passionate Developer | KidChris7 | Ouagadougou, Burkina Faso | 64 |
 | 12 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 64 |
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  |  |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 57 |
 | 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 53 |

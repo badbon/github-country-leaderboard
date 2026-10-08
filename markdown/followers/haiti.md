@@ -1,8 +1,8 @@
 # Followers - Haiti
 
-Generated: 2026-10-08T06:54:42.039Z
+Generated: 2026-10-08T07:43:34.927Z
 
-Users: 339
+Users: 338
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 339
 | 14 | [djtrueway](https://github.com/djtrueway) | peterson saint-aime | SajesUnlock | djtrueway | Haiti | 38 |
 | 15 | [bogosla](https://github.com/bogosla) | James Destiné |  |  | Haiti | 37 |
 | 16 | [AlexisJW](https://github.com/AlexisJW) | Jean Walner Alexis |  Full-stack Developer |  | Port-au-prince, Haïti | 34 |
-| 17 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | @TransitDigitale @Megalobiz  |  | Delmas 41, Ouest, Haiti | 34 |
-| 18 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | none |  | Haiti | 33 |
+| 17 | [jfstephane](https://github.com/jfstephane) | Jules Frantz Stephane Loubeau | none |  | Haiti | 33 |
+| 18 | [KeitelDOG](https://github.com/KeitelDOG) | Keitel Jovin | @TransitDigitale @Megalobiz  |  | Delmas 41, Ouest, Haiti | 32 |
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Skydev |  | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | no company |  | haiti | 31 |

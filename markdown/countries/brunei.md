@@ -12,7 +12,7 @@ Indexed users: 255
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,833 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,814 |
 | 2 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 3,712 |
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,959 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,248 |
@@ -37,7 +37,7 @@ Indexed users: 255
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,833 |
+| 1 | [aresople](https://github.com/aresople) | Aresa Naif | Brunei | 5,814 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 617 |
 | 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 407 |
 | 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 350 |
@@ -83,4 +83,4 @@ Indexed users: 255
 | 19 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 14 |
 | 20 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 
-Generated: 2026-10-08T06:43:56.476Z
+Generated: 2026-10-08T07:32:37.985Z

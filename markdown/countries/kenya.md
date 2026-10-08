@@ -1,6 +1,6 @@
 # Kenya
 
-Indexed users: 24,031
+Indexed users: 24,029
 
 | Leaderboard | Link |
 |---|---|
@@ -14,9 +14,9 @@ Indexed users: 24,031
 |---:|---|---|---|---:|
 | 1 | [CodeWithEugene](https://github.com/CodeWithEugene) | Eugene Mutembei | Nairobi, Kenya | 993,626 |
 | 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 252,261 |
-| 3 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 146,168 |
-| 4 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 131,244 |
-| 5 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 118,789 |
+| 3 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 158,347 |
+| 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 146,168 |
+| 5 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 131,244 |
 | 6 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi | Nairobi,KE | 47,165 |
 | 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
 | 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Nairobi | 35,536 |
@@ -38,9 +38,9 @@ Indexed users: 24,031
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 243,766 |
-| 2 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 146,168 |
-| 3 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 131,244 |
-| 4 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 118,789 |
+| 2 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | Eldoret, Kenya | 158,347 |
+| 3 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 146,168 |
+| 4 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 131,244 |
 | 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
 | 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 34,624 |
 | 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | Nairobi-Kenya | 21,537 |
@@ -83,4 +83,4 @@ Indexed users: 24,031
 | 19 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
 | 20 | [danielmuthama](https://github.com/danielmuthama) | Daniel Muthama | Nairobi, Kenya | 1,289 |
 
-Generated: 2026-10-08T07:01:11.327Z
+Generated: 2026-10-08T07:46:06.589Z

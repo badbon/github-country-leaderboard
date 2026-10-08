@@ -18,10 +18,10 @@ Indexed users: 268
 | 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,533 |
 | 5 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,402 |
 | 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,334 |
-| 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,663 |
-| 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,620 |
+| 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,675 |
+| 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,617 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,383 |
-| 10 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 2,050 |
+| 10 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 2,034 |
 | 11 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,032 |
 | 12 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,932 |
 | 13 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,924 |
@@ -43,7 +43,7 @@ Indexed users: 268
 | 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,002 |
 | 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
 | 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 742 |
-| 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 430 |
+| 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 436 |
 | 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 397 |
 | 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 323 |
 | 10 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 310 |
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-08T06:43:07.440Z
+Generated: 2026-10-08T07:30:25.858Z

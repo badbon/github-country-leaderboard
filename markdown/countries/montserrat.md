@@ -1,6 +1,6 @@
 # Montserrat
 
-Indexed users: 290
+Indexed users: 291
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 290
 | 19 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 | 20 | [stefanovualto](https://github.com/stefanovualto) | stefanovualto | Plymouth uk | 20 |
 
-Generated: 2026-10-08T07:05:53.703Z
+Generated: 2026-10-08T07:52:14.906Z

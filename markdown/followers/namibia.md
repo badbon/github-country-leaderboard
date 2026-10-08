@@ -1,8 +1,8 @@
 # Followers - Namibia
 
-Generated: 2026-10-08T07:06:17.999Z
+Generated: 2026-10-08T07:53:18.551Z
 
-Users: 476
+Users: 475
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

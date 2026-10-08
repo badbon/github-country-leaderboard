@@ -1,15 +1,15 @@
 # Public Contributions - Kenya
 
-Generated: 2026-10-08T07:01:11.327Z
+Generated: 2026-10-08T07:46:06.589Z
 
-Users: 24031
+Users: 24029
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 243766 |
-| 2 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 146168 |
-| 3 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
-| 4 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | @GiftedTech-Nexus |  | Eldoret, Kenya | 118789 |
+| 2 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | @gifted-solstice  |  | Eldoret, Kenya | 158347 |
+| 3 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 146168 |
+| 4 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
 | 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
 | 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 34624 |
 | 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | FINTECH-GROUP | alexkemboi97 | Nairobi-Kenya | 21537 |

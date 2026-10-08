@@ -1,6 +1,6 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-08T07:02:46.176Z
+Generated: 2026-10-08T07:47:37.946Z
 
 Users: 2206
 
@@ -14,9 +14,9 @@ Users: 2206
 | 6 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 3707 |
 | 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Sourcentis |  | Luxembourg | 3639 |
 | 8 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto |  |  | Luxembourg | 3216 |
-| 9 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 1936 |
-| 10 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1901 |
-| 11 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL |  |  | Luxembourg | 1852 |
+| 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL |  |  | Luxembourg | 3193 |
+| 10 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 1936 |
+| 11 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1901 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 1806 |
 | 13 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev |  |  | Luxembourg | 1749 |
 | 14 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | TAO |  | Luxembourg | 1737 |

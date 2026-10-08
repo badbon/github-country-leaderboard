@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-08T07:00:18.321Z
+Generated: 2026-10-08T07:45:55.493Z
 
 Users: 139
 
@@ -9,7 +9,7 @@ Users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 42946 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 745 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 713 |
-| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 648 |
+| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 653 |
 | 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 574 |
 | 6 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 572 |
 | 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 432 |

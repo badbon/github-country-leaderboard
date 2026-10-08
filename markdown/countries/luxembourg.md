@@ -45,9 +45,9 @@ Indexed users: 2,206
 | 6 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
 | 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,639 |
 | 8 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,216 |
-| 9 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
-| 10 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
-| 11 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 1,852 |
+| 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
+| 10 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
+| 11 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
 | 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
 | 13 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
 | 14 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
@@ -83,4 +83,4 @@ Indexed users: 2,206
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-08T07:02:46.176Z
+Generated: 2026-10-08T07:47:37.946Z

@@ -1,16 +1,16 @@
 # Total Contributions - Kenya
 
-Generated: 2026-10-08T07:01:11.327Z
+Generated: 2026-10-08T07:46:06.589Z
 
-Users: 24031
+Users: 24029
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [CodeWithEugene](https://github.com/CodeWithEugene) | Eugene Mutembei | Technetium Kenya | codewitheugenee | Nairobi, Kenya | 993626 |
 | 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 252261 |
-| 3 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 146168 |
-| 4 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
-| 5 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | @GiftedTech-Nexus |  | Eldoret, Kenya | 118789 |
+| 3 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | @gifted-solstice  |  | Eldoret, Kenya | 158347 |
+| 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 146168 |
+| 5 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
 | 6 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi |  | gkarumbi | Nairobi,KE | 47165 |
 | 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
 | 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Datacraft |  | Nairobi | 35536 |
