@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,678
+Indexed users: 5,677
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,678
 | 19 | [Alex009](https://github.com/Alex009) | Aleksey Mikhailov | Astana | 378 |
 | 20 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 
-Generated: 2026-10-08T08:32:31.989Z
+Generated: 2026-10-08T09:22:17.774Z

@@ -28,7 +28,7 @@ Indexed users: 288
 | 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,730 |
 | 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,511 |
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,330 |
-| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,156 |
+| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,259 |
 | 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 968 |
 | 19 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 855 |
 | 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 844 |
@@ -39,7 +39,7 @@ Indexed users: 288
 |---:|---|---|---|---:|
 | 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,095 |
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 1,229 |
-| 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 770 |
+| 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 870 |
 | 4 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | Nouakchott | 673 |
 | 5 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 669 |
 | 6 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 592 |
@@ -62,7 +62,7 @@ Indexed users: 288
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 161 |
+| 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 162 |
 | 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad | Nouakchott, Mauritania | 69 |
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz | Mauritania | 61 |
 | 4 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 49 |
@@ -83,4 +83,4 @@ Indexed users: 288
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-08T08:38:49.700Z
+Generated: 2026-10-08T09:27:49.876Z

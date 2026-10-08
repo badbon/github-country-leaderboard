@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 719
+Indexed users: 718
 
 | Leaderboard | Link |
 |---|---|
@@ -40,14 +40,14 @@ Indexed users: 719
 | 1 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
 | 2 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 2,836 |
 | 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,210 |
-| 4 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,511 |
-| 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,409 |
-| 6 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,389 |
-| 7 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,378 |
-| 8 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,330 |
-| 9 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,203 |
-| 10 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
-| 11 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,018 |
+| 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,689 |
+| 5 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,511 |
+| 6 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,409 |
+| 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,389 |
+| 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,378 |
+| 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,330 |
+| 10 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,203 |
+| 11 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
 | 12 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,009 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
 | 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 709 |
@@ -83,4 +83,4 @@ Indexed users: 719
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 73 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-08T08:38:53.282Z
+Generated: 2026-10-08T09:27:56.176Z

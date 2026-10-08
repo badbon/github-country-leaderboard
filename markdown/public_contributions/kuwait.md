@@ -1,8 +1,8 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-08T08:33:43.032Z
+Generated: 2026-10-08T09:22:53.503Z
 
-Users: 803
+Users: 802
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,8 +12,8 @@ Users: 803
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | The Tech Idea |  | Kuwait | 1941 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 1606 |
 | 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Nova |  | Kuwait | 1576 |
-| 7 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 1277 |
-| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 1259 |
+| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 1533 |
+| 8 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 1277 |
 | 9 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 1192 |
 | 10 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi |  |  | Kuwait | 987 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 907 |

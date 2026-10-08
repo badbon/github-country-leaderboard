@@ -26,10 +26,10 @@ Indexed users: 746
 | 12 | [Sokanon](https://github.com/Sokanon) | So | Libya | 5,368 |
 | 13 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,149 |
 | 14 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 4,816 |
-| 15 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 4,413 |
-| 16 | [Anas-taleb99](https://github.com/Anas-taleb99) |  | Libya | 4,223 |
+| 15 | [Anas-taleb99](https://github.com/Anas-taleb99) |  | Libya | 4,622 |
+| 16 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 4,413 |
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 4,193 |
-| 18 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | Libya | 4,049 |
+| 18 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | Libya | 3,296 |
 | 19 | [MohamedKhX](https://github.com/MohamedKhX) | MohamedKhX | Tripoli - Libya | 3,295 |
 | 20 | [Benjaber-98](https://github.com/Benjaber-98) | Mahmoud Ben Jabir | Tripoli - Libya | 3,118 |
 
@@ -83,4 +83,4 @@ Indexed users: 746
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-08T08:36:15.048Z
+Generated: 2026-10-08T09:25:31.458Z

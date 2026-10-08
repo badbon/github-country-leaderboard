@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-08T08:31:46.673Z
+Generated: 2026-10-08T09:22:03.054Z
 
 Users: 1283
 
@@ -11,16 +11,16 @@ Users: 1283
 | 3 | [eforth](https://github.com/eforth) | Ervin Forth | Healthcare EQ | ErvinForth | Jamaica | 9359 |
 | 4 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 9101 |
 | 5 | [kenoButler](https://github.com/kenoButler) | KenoB | @Appigo  |  | Kingston, Jamaica | 6980 |
-| 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6626 |
-| 7 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 5685 |
-| 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5180 |
-| 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
-| 10 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |
-| 11 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 3881 |
-| 12 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Ratehub Inc. |  | Kingston Ontario | 3839 |
-| 13 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
-| 14 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
-| 15 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 3612 |
+| 6 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 6819 |
+| 7 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6626 |
+| 8 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 5685 |
+| 9 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5180 |
+| 10 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
+| 11 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |
+| 12 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 3881 |
+| 13 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Ratehub Inc. |  | Kingston Ontario | 3839 |
+| 14 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
+| 15 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
 | 16 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 3604 |
 | 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
 | 18 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |

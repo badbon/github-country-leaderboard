@@ -22,16 +22,16 @@ Indexed users: 1,191
 | 8 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
 | 9 | [orges](https://github.com/orges) | orges | Albania | 5,549 |
 | 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
-| 11 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,676 |
+| 11 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
 | 12 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
 | 13 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,164 |
 | 14 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,094 |
 | 15 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,078 |
-| 16 | [EndiMimini](https://github.com/EndiMimini) | Endi Mimini | Tirana, Albania | 4,013 |
-| 17 | [ElisBushaj](https://github.com/ElisBushaj) |  | Albania | 3,755 |
-| 18 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 3,655 |
-| 19 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 3,647 |
-| 20 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi | Tirana, Albania | 3,619 |
+| 16 | [ElisBushaj](https://github.com/ElisBushaj) |  | Albania | 3,755 |
+| 17 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 3,655 |
+| 18 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 3,647 |
+| 19 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi | Tirana, Albania | 3,619 |
+| 20 | [samuelbushi](https://github.com/samuelbushi) | Samuel Bushi | Albania | 3,489 |
 
 ## Public Contributions
 
@@ -44,7 +44,7 @@ Indexed users: 1,191
 | 5 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
 | 6 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 1,107 |
 | 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
-| 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 845 |
+| 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
 | 9 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 744 |
 | 10 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
 | 11 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
@@ -65,22 +65,22 @@ Indexed users: 1,191
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,746 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,890 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 775 |
-| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 694 |
+| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 718 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 455 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 228 |
 | 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 156 |
 | 8 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 154 |
 | 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj | Tirana, Albania | 143 |
-| 10 | [meggsila](https://github.com/meggsila) | Megi Sila | Tirana, Albania | 99 |
+| 10 | [meggsila](https://github.com/meggsila) | Megi Sila | Tirana, Albania | 100 |
 | 11 | [klendi](https://github.com/klendi) | Klendi Goci | Tirana, Albania | 98 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | Albania | 92 |
 | 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi | Albania | 91 |
 | 14 | [rinor](https://github.com/rinor) | Rinor Hoxha | Albania, Tirane | 90 |
 | 15 | [devklajd](https://github.com/devklajd) | Klajd Belishaku | Tirana, Albania | 89 |
 | 16 | [nikolliervin](https://github.com/nikolliervin) | undefined | Tirana, Albania | 88 |
-| 17 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 87 |
+| 17 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 85 |
 | 18 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Albania | 84 |
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 80 |
-| 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 72 |
+| 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-08T08:10:54.616Z
+Generated: 2026-10-08T09:00:16.826Z

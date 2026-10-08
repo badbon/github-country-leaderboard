@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-08T08:17:16.023Z
+Generated: 2026-10-08T09:05:30.273Z
 
 Users: 534
 
@@ -21,8 +21,8 @@ Users: 534
 | 13 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1798 |
 | 14 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1718 |
 | 15 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa |  |  | Botswana | 1652 |
-| 16 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1630 |
-| 17 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 1617 |
-| 18 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1452 |
+| 16 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 1617 |
+| 17 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1452 |
+| 18 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1427 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1323 |
 | 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 1298 |

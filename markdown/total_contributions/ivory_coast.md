@@ -1,6 +1,6 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-08T08:31:42.898Z
+Generated: 2026-10-08T09:21:57.562Z
 
 Users: 487
 
@@ -20,9 +20,9 @@ Users: 487
 | 12 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | AFRICAN PERMANENT INNOVATIONS | lordkkjmix | abidjan, côte d'ivoire | 4479 |
 | 13 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 4264 |
 | 14 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 4056 |
-| 15 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3780 |
-| 16 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Innova7th |  | Côte d'Ivoire, Abidjan | 3740 |
-| 17 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3713 |
-| 18 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 3701 |
-| 19 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme |  |  | Ivory Coast | 3478 |
-| 20 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev |  |  | Côte d'ivoire, Abidjan | 3232 |
+| 15 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | CEO @ Dukify Inc. | sidikfaha | Abidjan, Ivory Coast | 3877 |
+| 16 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3780 |
+| 17 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Innova7th |  | Côte d'Ivoire, Abidjan | 3740 |
+| 18 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3713 |
+| 19 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 3701 |
+| 20 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme |  |  | Ivory Coast | 3478 |

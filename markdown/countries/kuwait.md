@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 803
+Indexed users: 802
 
 | Leaderboard | Link |
 |---|---|
@@ -15,11 +15,11 @@ Indexed users: 803
 | 1 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,136 |
 | 2 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 5,483 |
 | 3 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,313 |
-| 4 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,080 |
-| 5 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 4,922 |
-| 6 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,723 |
-| 7 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 4,418 |
-| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 4,030 |
+| 4 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,194 |
+| 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,080 |
+| 6 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 4,922 |
+| 7 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 4,723 |
+| 8 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 4,418 |
 | 9 | [iukust3](https://github.com/iukust3) | Irfan Ullah (Upwork Ibrahim Khan) | Kuwait  | 3,299 |
 | 10 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,262 |
 | 11 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | Kuwait | 3,176 |
@@ -43,8 +43,8 @@ Indexed users: 803
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 1,941 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,606 |
 | 6 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,576 |
-| 7 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,277 |
-| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,259 |
+| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,533 |
+| 8 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,277 |
 | 9 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,192 |
 | 10 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 987 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 907 |
@@ -80,7 +80,7 @@ Indexed users: 803
 | 16 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum | Kuwait | 89 |
 | 17 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 89 |
 | 18 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 81 |
-| 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
-| 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code | Kuwait | 74 |
+| 19 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
+| 20 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 
-Generated: 2026-10-08T08:33:43.032Z
+Generated: 2026-10-08T09:22:53.503Z

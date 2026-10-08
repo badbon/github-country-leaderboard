@@ -24,9 +24,9 @@ Indexed users: 4,025
 | 10 | [htirawi](https://github.com/htirawi) | Hussein Tirawi | Jordan | 5,976 |
 | 11 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,926 |
 | 12 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 5,377 |
-| 13 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | Amman, Jordan | 5,287 |
-| 14 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 5,271 |
-| 15 | [shwawra](https://github.com/shwawra) | Shwawra | Jordan | 5,254 |
+| 13 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh | Jordan, Amman | 5,292 |
+| 14 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | Amman, Jordan | 5,287 |
+| 15 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 5,271 |
 | 16 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | Amman-Jordan | 5,215 |
 | 17 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,181 |
 | 18 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
@@ -62,7 +62,7 @@ Indexed users: 4,025
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Amman , Jordan | 1,135 |
+| 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Amman , Jordan | 1,148 |
 | 2 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | Amman Jordan / Innopolis Russia  | 924 |
 | 3 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | jordan | 908 |
 | 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | Amman, Amman Governorate, Jordan | 735 |
@@ -83,4 +83,4 @@ Indexed users: 4,025
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-08T08:31:53.338Z
+Generated: 2026-10-08T09:22:14.117Z

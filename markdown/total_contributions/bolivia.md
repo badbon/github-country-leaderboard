@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-08T08:17:07.328Z
+Generated: 2026-10-08T09:04:54.252Z
 
 Users: 1789
 
@@ -22,7 +22,7 @@ Users: 1789
 | 14 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | deepmicrosystems.com | iamatachyon | Bolivia | 3553 |
 | 15 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | @Taikoxyz | gusgonzalezs | Santa Cruz de la SIerra, Bolivia | 3455 |
 | 16 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 3406 |
-| 17 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Higher University of San Simón |  | Bolivia | 3096 |
-| 18 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | Solunes Digital |  | La Paz, Bolivia | 3035 |
-| 19 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | FinUp |  | Santa Cruz, Bolivia | 3029 |
-| 20 | [villcabo](https://github.com/villcabo) | Bismarck Villca | @SintesisSA  | BismarckVillcaS | Bolivia | 3027 |
+| 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | Solunes Digital |  | La Paz, Bolivia | 3035 |
+| 18 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | FinUp |  | Santa Cruz, Bolivia | 3029 |
+| 19 | [villcabo](https://github.com/villcabo) | Bismarck Villca | @SintesisSA  | BismarckVillcaS | Bolivia | 3027 |
+| 20 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Higher University of San Simón |  | Bolivia | 2893 |

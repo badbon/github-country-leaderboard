@@ -1,19 +1,19 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-08T08:33:43.032Z
+Generated: 2026-10-08T09:22:53.503Z
 
-Users: 803
+Users: 802
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6136 |
 | 2 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 5483 |
 | 3 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5313 |
-| 4 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5080 |
-| 5 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 4922 |
-| 6 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 4723 |
-| 7 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 4418 |
-| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 4030 |
+| 4 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5194 |
+| 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5080 |
+| 6 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 4922 |
+| 7 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 4723 |
+| 8 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 4418 |
 | 9 | [iukust3](https://github.com/iukust3) | Irfan Ullah (Upwork Ibrahim Khan) | KJS Integrated Solution |  | Kuwait  | 3299 |
 | 10 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3262 |
 | 11 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3176 |

@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-08T08:34:22.115Z
+Generated: 2026-10-08T09:22:58.765Z
 
 Users: 2457
 
@@ -24,5 +24,5 @@ Users: 2457
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
 | 17 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 991 |
 | 18 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 897 |
-| 19 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 822 |
-| 20 | [dimonss](https://github.com/dimonss) | Dmitrii |  |  | Bishkek,  Kyrgyzstan | 762 |
+| 19 | [salievyt](https://github.com/salievyt) | sm1le | @DEO-CORE |  | Kyrgyzstan | 887 |
+| 20 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 822 |

@@ -28,10 +28,10 @@ Indexed users: 235
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,011 |
 | 15 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,008 |
 | 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 982 |
-| 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 971 |
+| 17 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 968 |
 | 18 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 936 |
 | 19 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 895 |
-| 20 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | Burundi | 880 |
+| 20 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | Burundi | 869 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-08T08:18:00.693Z
+Generated: 2026-10-08T09:07:59.100Z

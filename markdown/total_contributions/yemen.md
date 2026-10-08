@@ -1,8 +1,8 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-08T08:10:10.245Z
+Generated: 2026-10-08T08:59:30.521Z
 
-Users: 1211
+Users: 1210
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1211
 | 16 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6130 |
 | 17 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 5410 |
 | 18 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 5035 |
-| 19 | [zinon-software](https://github.com/zinon-software) | ABDULRAHMAN |  |  | yemen | 4940 |
-| 20 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | InjazCode | SaherQaid | Yemen,Ibb city | 4931 |
+| 19 | [malek-al-edresi](https://github.com/malek-al-edresi) | Malek M. Al-Edresi | AL-MALEK Soft | ddeqvt | Yemen, Aden | 4946 |
+| 20 | [zinon-software](https://github.com/zinon-software) | ABDULRAHMAN |  |  | yemen | 4940 |

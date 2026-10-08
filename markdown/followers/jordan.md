@@ -1,12 +1,12 @@
 # Followers - Jordan
 
-Generated: 2026-10-08T08:31:53.338Z
+Generated: 2026-10-08T09:22:14.117Z
 
 Users: 4025
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Jordan |  | Amman , Jordan | 1135 |
+| 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Jordan |  | Amman , Jordan | 1148 |
 | 2 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | I can do push-up on One Arm 3 fingers | enghamzasalem | Amman Jordan / Innopolis Russia  | 924 |
 | 3 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | Shadow Hacker | ShadowHackrs | jordan | 908 |
 | 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | international arab islamic bank |  | Amman, Amman Governorate, Jordan | 735 |

@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-08T08:22:08.500Z
+Generated: 2026-10-08T09:12:28.649Z
 
 Users: 3313
 
@@ -16,13 +16,13 @@ Users: 3313
 | 8 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera |  |  | Santiago, Dominican Republic | 1786 |
 | 9 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1735 |
 | 10 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz |  |  | Dominican Republic | 1723 |
-| 11 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
-| 12 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1517 |
-| 13 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
-| 14 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |
-| 15 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
-| 16 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1298 |
-| 17 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
-| 18 | [rwhite27](https://github.com/rwhite27) | Rafael White | @mctekk  |  | Santo Domingo, Dominican Republic | 1277 |
-| 19 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1258 |
-| 20 | [DiogenesPolanco](https://github.com/DiogenesPolanco) | Diógenes Polanco | APAP | diogenespolanco | Dominican Republic | 1219 |
+| 11 | [XavielT](https://github.com/XavielT) | Xaviel Terrero |  |  | Dominican Republic | 1718 |
+| 12 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
+| 13 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1517 |
+| 14 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
+| 15 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |
+| 16 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
+| 17 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont |  |  | America, Dominican Republic | 1298 |
+| 18 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
+| 19 | [rwhite27](https://github.com/rwhite27) | Rafael White | @mctekk  |  | Santo Domingo, Dominican Republic | 1277 |
+| 20 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres |  |  | Dominican Republic | 1258 |

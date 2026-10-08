@@ -20,7 +20,7 @@ Indexed users: 133
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,350 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,833 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,714 |
-| 9 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,326 |
+| 9 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,324 |
 | 10 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,215 |
 | 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,192 |
 | 12 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 922 |
@@ -51,7 +51,7 @@ Indexed users: 133
 | 12 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | Bridgetown, Barbados | 109 |
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
-| 15 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 99 |
+| 15 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 98 |
 | 16 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 90 |
 | 17 | [starsden](https://github.com/starsden) | den | Barbados | 85 |
 | 18 | [Rayh23](https://github.com/Rayh23) | Raynel | Barbados | 81 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-08T08:15:45.944Z
+Generated: 2026-10-08T09:03:16.673Z

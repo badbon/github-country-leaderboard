@@ -63,7 +63,7 @@ Indexed users: 1,230
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,790 |
-| 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja | Malta | 655 |
+| 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja | Malta | 658 |
 | 3 | [nothingismagick](https://github.com/nothingismagick) |  | Malta | 599 |
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 525 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 473 |
@@ -76,11 +76,11 @@ Indexed users: 1,230
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 170 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 152 |
 | 14 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 140 |
-| 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 136 |
-| 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 136 |
+| 15 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 140 |
+| 16 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 136 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 128 |
 | 18 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-08T08:38:05.402Z
+Generated: 2026-10-08T09:27:40.560Z

@@ -1,6 +1,6 @@
 # Zimbabwe
 
-Indexed users: 1,654
+Indexed users: 1,653
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,654
 | 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-08T08:10:37.089Z
+Generated: 2026-10-08T08:59:59.456Z

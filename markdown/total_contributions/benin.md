@@ -1,8 +1,8 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-08T08:16:02.725Z
+Generated: 2026-10-08T09:04:02.265Z
 
-Users: 470
+Users: 469
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 470
 | 4 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Ahime | salami_nahim | Benin | 7391 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 7252 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 6472 |
-| 7 | [BOCOVO](https://github.com/BOCOVO) | bocovo | @BCV-TECH | juste_bocovo | Cotonou, Benin | 4874 |
+| 7 | [BOCOVO](https://github.com/BOCOVO) | bocovo | @BCV-TECH | juste_bocovo | Cotonou, Benin | 4434 |
 | 8 | [Block67](https://github.com/Block67) | Rahamane ₿ODA |  | Ramane_Boda | Benin, Cotonou | 4141 |
 | 9 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 4000 |
 | 10 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 3986 |

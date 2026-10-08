@@ -1,6 +1,6 @@
 # Guyana
 
-Indexed users: 186
+Indexed users: 185
 
 | Leaderboard | Link |
 |---|---|
@@ -18,29 +18,29 @@ Indexed users: 186
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,417 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,289 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,935 |
-| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,903 |
+| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,897 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,690 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,298 |
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,103 |
-| 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 3,045 |
+| 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 3,048 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,209 |
-| 13 | [Hinxman](https://github.com/Hinxman) | Ken Hinxman | Georgetown, TX | 1,886 |
-| 14 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,614 |
-| 15 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,576 |
-| 16 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,544 |
-| 17 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,490 |
-| 18 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,475 |
-| 19 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
-| 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,265 |
+| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,614 |
+| 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,576 |
+| 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,544 |
+| 16 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,490 |
+| 17 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,475 |
+| 18 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
+| 19 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 1,265 |
+| 20 | [owengrant](https://github.com/owengrant) | Owen Grant | Guyana | 1,260 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 4,074 |
-| 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,902 |
+| 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,896 |
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,501 |
-| 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,871 |
+| 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,872 |
 | 5 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,470 |
 | 6 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,465 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-08T08:29:37.248Z
+Generated: 2026-10-08T09:19:46.242Z

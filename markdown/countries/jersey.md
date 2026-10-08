@@ -15,13 +15,13 @@ Indexed users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 53,296 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 37,766 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 10,992 |
-| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 9,078 |
+| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 9,153 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,092 |
 | 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,706 |
 | 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,558 |
 | 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,126 |
 | 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 3,974 |
-| 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,358 |
+| 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,363 |
 | 11 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,938 |
 | 12 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 2,596 |
 | 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,405 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-08T08:31:50.095Z
+Generated: 2026-10-08T09:22:09.945Z

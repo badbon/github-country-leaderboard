@@ -28,9 +28,9 @@ Indexed users: 904
 | 14 | [dmitriikapustin](https://github.com/dmitriikapustin) | Dmitrii Kapustin | Montenegro | 4,638 |
 | 15 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,614 |
 | 16 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,101 |
-| 17 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 3,765 |
-| 18 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 3,639 |
-| 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 3,561 |
+| 17 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 3,927 |
+| 18 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 3,765 |
+| 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 3,639 |
 | 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 3,485 |
 
 ## Public Contributions
@@ -55,8 +55,8 @@ Indexed users: 904
 | 16 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,086 |
 | 17 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
-| 19 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 711 |
-| 20 | [DavidGudovic](https://github.com/DavidGudovic) | David  | Montenegro | 701 |
+| 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 769 |
+| 20 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 711 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 904
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-08T08:39:44.797Z
+Generated: 2026-10-08T09:29:27.051Z

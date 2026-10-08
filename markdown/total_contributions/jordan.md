@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-08T08:31:53.338Z
+Generated: 2026-10-08T09:22:14.117Z
 
 Users: 4025
 
@@ -18,9 +18,9 @@ Users: 4025
 | 10 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 5976 |
 | 11 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi |  |  | Amman\Jordan | 5926 |
 | 12 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 5377 |
-| 13 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | @mujeer-com |  | Amman, Jordan | 5287 |
-| 14 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 5271 |
-| 15 | [shwawra](https://github.com/shwawra) | Shwawra |  |  | Jordan | 5254 |
+| 13 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh |  |  | Jordan, Amman | 5292 |
+| 14 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | @mujeer-com |  | Amman, Jordan | 5287 |
+| 15 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 5271 |
 | 16 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
 | 17 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5181 |
 | 18 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |

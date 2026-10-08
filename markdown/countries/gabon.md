@@ -63,7 +63,7 @@ Indexed users: 315
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [yvan-ngoahitsi](https://github.com/yvan-ngoahitsi) | Yvan A. Ngoahitsi | Gabon | 121 |
-| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 107 |
+| 2 | [davcode92](https://github.com/davcode92) | Davy Methe Nzeng | Gabon | 108 |
 | 3 | [mawuva](https://github.com/mawuva) | Ephraïm SEDDOR | Libreville, Lomé | 85 |
 | 4 | [mendoc](https://github.com/mendoc) | Dimitri ONGOUA | Libreville, Gabon | 65 |
 | 5 | [bonachylauriel](https://github.com/bonachylauriel) | Leyoussi Bonachi Lauriel | Gabon | 63 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-08T08:25:49.598Z
+Generated: 2026-10-08T09:17:17.016Z

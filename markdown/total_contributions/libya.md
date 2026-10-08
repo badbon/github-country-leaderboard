@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-08T08:36:15.048Z
+Generated: 2026-10-08T09:25:31.458Z
 
 Users: 746
 
@@ -20,9 +20,9 @@ Users: 746
 | 12 | [Sokanon](https://github.com/Sokanon) | So | @beyondtheinnovation  | Sokanon_ | Libya | 5368 |
 | 13 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5149 |
 | 14 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 4816 |
-| 15 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 4413 |
-| 16 | [Anas-taleb99](https://github.com/Anas-taleb99) |  |  |  | Libya | 4223 |
+| 15 | [Anas-taleb99](https://github.com/Anas-taleb99) |  |  |  | Libya | 4622 |
+| 16 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 4413 |
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 4193 |
-| 18 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | @ditsly | Dfangy_ | Libya | 4049 |
+| 18 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | @ditsly | Dfangy_ | Libya | 3296 |
 | 19 | [MohamedKhX](https://github.com/MohamedKhX) | MohamedKhX | @SahabLibya |  | Tripoli - Libya | 3295 |
 | 20 | [Benjaber-98](https://github.com/Benjaber-98) | Mahmoud Ben Jabir |  | Benjaber98 | Tripoli - Libya | 3118 |

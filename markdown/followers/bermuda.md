@@ -1,8 +1,8 @@
 # Followers - Bermuda
 
-Generated: 2026-10-08T08:16:05.527Z
+Generated: 2026-10-08T09:04:04.966Z
 
-Users: 907
+Users: 906
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,7 +19,7 @@ Users: 907
 | 11 | [jbfink](https://github.com/jbfink) | John Fink | McMaster University |  | Hamilton, Ontario | 173 |
 | 12 | [dktr0](https://github.com/dktr0) | David Ogborn |  |  | Hamilton, Ontario | 147 |
 | 13 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 133 |
-| 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 108 |
+| 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 107 |
 | 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi |  |  | Hamilton, Ontario | 103 |
 | 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 90 |
 | 17 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |

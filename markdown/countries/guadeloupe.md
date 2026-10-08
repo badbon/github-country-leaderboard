@@ -14,9 +14,9 @@ Indexed users: 87
 |---:|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,179 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,030 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,141 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,167 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,810 |
-| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,659 |
+| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,662 |
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,429 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,387 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 935 |
@@ -41,7 +41,7 @@ Indexed users: 87
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 3 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 488 |
 | 4 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
-| 5 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 303 |
+| 5 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 310 |
 | 6 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
 | 7 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 8 | [KaribbeanCreative](https://github.com/KaribbeanCreative) | Karibbean Creative | Guadeloupe | 74 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-08T08:29:01.806Z
+Generated: 2026-10-08T09:18:09.996Z

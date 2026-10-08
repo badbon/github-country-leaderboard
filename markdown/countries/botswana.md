@@ -27,9 +27,9 @@ Indexed users: 534
 | 13 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 1,798 |
 | 14 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,718 |
 | 15 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,652 |
-| 16 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,630 |
-| 17 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
-| 18 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
+| 16 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 1,617 |
+| 17 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,452 |
+| 18 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,427 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,323 |
 | 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 1,298 |
 
@@ -83,4 +83,4 @@ Indexed users: 534
 | 19 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe | Gaborone, Botswana | 33 |
 | 20 | [WapaEdzani](https://github.com/WapaEdzani) | Mr Edzani Wapa Omogolo | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-08T08:17:16.023Z
+Generated: 2026-10-08T09:05:30.273Z

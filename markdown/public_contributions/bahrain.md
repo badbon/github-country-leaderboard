@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-08T08:15:16.627Z
+Generated: 2026-10-08T09:03:10.265Z
 
 Users: 728
 
@@ -15,7 +15,7 @@ Users: 728
 | 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 1259 |
 | 8 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 966 |
 | 9 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |
-| 10 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 806 |
+| 10 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 829 |
 | 11 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 769 |
 | 12 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 733 |
 | 13 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 733 |

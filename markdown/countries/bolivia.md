@@ -28,10 +28,10 @@ Indexed users: 1,789
 | 14 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 3,553 |
 | 15 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,455 |
 | 16 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 3,406 |
-| 17 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 3,096 |
-| 18 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
-| 19 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,029 |
-| 20 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
+| 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
+| 18 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,029 |
+| 19 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
+| 20 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,893 |
 
 ## Public Contributions
 
@@ -56,13 +56,13 @@ Indexed users: 1,789
 | 17 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
 | 18 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,039 |
 | 19 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,021 |
-| 20 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 1,003 |
+| 20 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 950 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,327 |
+| 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,319 |
 | 2 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,400 |
 | 3 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 571 |
 | 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga | La Paz, Bolivia | 430 |
@@ -83,4 +83,4 @@ Indexed users: 1,789
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 126 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 124 |
 
-Generated: 2026-10-08T08:17:07.328Z
+Generated: 2026-10-08T09:04:54.252Z

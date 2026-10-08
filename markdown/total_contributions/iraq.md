@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-08T08:31:06.727Z
+Generated: 2026-10-08T09:20:54.907Z
 
 Users: 2250
 
@@ -10,12 +10,12 @@ Users: 2250
 | 2 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | @Ronex-Krd | hoshmandent | Erbil, Iraq | 18551 |
 | 3 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Capsula | MujtabaFR | Iraq, Najaf | 9376 |
 | 4 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 8747 |
-| 5 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 8196 |
-| 6 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Independent ~ Bregeoff | SamadZuhairdev | Erbil, Iraq | 8011 |
-| 7 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 7776 |
-| 8 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7758 |
-| 9 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 7304 |
-| 10 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6728 |
+| 5 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Independent ~ Bregeoff | SamadZuhairdev | Erbil, Iraq | 8011 |
+| 6 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 7776 |
+| 7 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7758 |
+| 8 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 7304 |
+| 9 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6728 |
+| 10 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6468 |
 | 11 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6104 |
 | 12 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 6014 |
 | 13 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 5960 |

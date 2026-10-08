@@ -1,8 +1,8 @@
 # Followers - Kuwait
 
-Generated: 2026-10-08T08:33:43.032Z
+Generated: 2026-10-08T09:22:53.503Z
 
-Users: 803
+Users: 802
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 803
 | 16 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 89 |
 | 17 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 89 |
 | 18 | [MoathOthman](https://github.com/MoathOthman) | Moath othman |  |  | Kuwait | 81 |
-| 19 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 75 |
-| 20 | [Eazy2Code](https://github.com/Eazy2Code) | Eazy2Code |  |  | Kuwait | 74 |
+| 19 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 80 |
+| 20 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 75 |

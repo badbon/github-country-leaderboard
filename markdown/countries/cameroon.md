@@ -40,8 +40,8 @@ Indexed users: 1,804
 | 1 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,082 |
 | 2 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,031 |
 | 3 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 3,802 |
-| 4 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 3,149 |
-| 5 | [bensah](https://github.com/bensah) | Ben Nsah | Cameroon | 2,966 |
+| 4 | [bensah](https://github.com/bensah) | Ben Nsah | Cameroon | 2,966 |
+| 5 | [Christiantyemele](https://github.com/Christiantyemele) | Christian Yemele | Cameroon | 2,955 |
 | 6 | [Chu29](https://github.com/Chu29) | MALIK MUEGHE ABUEMKEZE CHU | Yaounde, Cameroon | 1,901 |
 | 7 | [Kynmmarshall](https://github.com/Kynmmarshall) | Kamdeu Yamdjeuson Neil Marshall | Cameroon | 1,824 |
 | 8 | [gekkin-programmer](https://github.com/gekkin-programmer) | brayan harry | Douala , Cameroon | 1,774 |
@@ -50,13 +50,13 @@ Indexed users: 1,804
 | 11 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,591 |
 | 12 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,470 |
 | 13 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
-| 14 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,390 |
-| 15 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
-| 16 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
-| 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
-| 18 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
-| 19 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,260 |
-| 20 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 1,211 |
+| 14 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,407 |
+| 15 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,390 |
+| 16 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
+| 17 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,373 |
+| 18 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
+| 19 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | Cameroon | 1,263 |
+| 20 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,804
 | 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
 | 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 
-Generated: 2026-10-08T08:18:27.541Z
+Generated: 2026-10-08T09:08:09.179Z

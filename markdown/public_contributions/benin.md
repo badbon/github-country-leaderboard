@@ -1,8 +1,8 @@
 # Public Contributions - Benin
 
-Generated: 2026-10-08T08:16:02.725Z
+Generated: 2026-10-08T09:04:02.265Z
 
-Users: 470
+Users: 469
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,10 +15,10 @@ Users: 470
 | 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE |  |  | Benin | 1345 |
 | 8 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 1229 |
 | 9 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI |  |  | Benin | 1125 |
-| 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 1066 |
-| 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | HERNOTIX Tech | F_hermas22 | Abomey-Calavi, Benin | 980 |
-| 12 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée |  |  | Abomey-Calavi, Atlantique, Benin | 892 |
-| 13 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | @ibleducation |  | Cotonou, Republic of Benin | 855 |
+| 10 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | @ibleducation |  | Cotonou, Republic of Benin | 1099 |
+| 11 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 1066 |
+| 12 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | HERNOTIX Tech | F_hermas22 | Abomey-Calavi, Benin | 980 |
+| 13 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée |  |  | Abomey-Calavi, Atlantique, Benin | 892 |
 | 14 | [silassare](https://github.com/silassare) | Emile Silas Sare | @oliup-io  | silassare | Porto-Novo, Benin | 830 |
 | 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | BELLOX |  | Cotonou,Littoral, Benin | 827 |
 | 16 | [eldomagan](https://github.com/eldomagan) | Eldo Magan |  | EldoMagan | Cotonou, Benin | 816 |

@@ -14,7 +14,7 @@ Indexed users: 215
 |---:|---|---|---|---:|
 | 1 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 12,361 |
 | 2 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,892 |
-| 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,426 |
+| 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,580 |
 | 4 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,823 |
 | 5 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,774 |
 | 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,257 |
@@ -22,7 +22,7 @@ Indexed users: 215
 | 8 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 5,678 |
 | 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,174 |
 | 10 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,103 |
-| 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,810 |
+| 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,818 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,473 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,892 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,702 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-08T08:12:05.116Z
+Generated: 2026-10-08T09:01:47.679Z
