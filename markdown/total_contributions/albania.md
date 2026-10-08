@@ -1,14 +1,14 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-07T23:42:43.146Z
+Generated: 2026-10-08T00:56:34.214Z
 
 Users: 1194
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | basecode LLC. | flakerimi | Tirane, Albania | 10302 |
-| 2 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8809 |
-| 3 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
+| 2 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
+| 3 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8242 |
 | 4 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 7657 |
 | 5 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6334 |
 | 6 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 6077 |
@@ -22,7 +22,7 @@ Users: 1194
 | 14 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 4094 |
 | 15 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4078 |
 | 16 | [EndiMimini](https://github.com/EndiMimini) | Endi Mimini | TRIFOLIUM |  | Tirana, Albania | 4013 |
-| 17 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 3655 |
-| 18 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 3647 |
-| 19 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi |  |  | Tirana, Albania | 3619 |
-| 20 | [samuelbushi](https://github.com/samuelbushi) | Samuel Bushi | @orteos-ai |  | Albania | 3489 |
+| 17 | [ElisBushaj](https://github.com/ElisBushaj) |  |  |  | Albania | 3755 |
+| 18 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 3655 |
+| 19 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 3647 |
+| 20 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi |  |  | Tirana, Albania | 3619 |

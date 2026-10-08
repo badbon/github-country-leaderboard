@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Indexed users: 3,305
+Indexed users: 3,313
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,305
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-08T00:00:38.668Z
+Generated: 2026-10-08T01:19:11.828Z

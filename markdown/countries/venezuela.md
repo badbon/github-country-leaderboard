@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,636
+Indexed users: 6,634
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 6,636
 | 11 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
 | 12 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
 | 13 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
-| 14 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
-| 15 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
-| 16 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
-| 17 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 6,287 |
-| 18 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
-| 19 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez | Caracas, Venezuela | 6,062 |
-| 20 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Venezuela | 6,052 |
+| 14 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
+| 15 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
+| 16 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
+| 17 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
+| 18 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 6,287 |
+| 19 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
+| 20 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez | Caracas, Venezuela | 6,062 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 6,636
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-07T23:40:59.736Z
+Generated: 2026-10-08T00:54:46.892Z

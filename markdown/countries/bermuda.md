@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 908
+Indexed users: 907
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 908
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 75 |
 
-Generated: 2026-10-07T23:55:07.289Z
+Generated: 2026-10-08T01:01:33.617Z

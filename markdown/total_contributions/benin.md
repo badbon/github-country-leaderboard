@@ -1,13 +1,13 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-07T23:51:40.740Z
+Generated: 2026-10-08T01:01:28.903Z
 
-Users: 473
+Users: 472
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 10559 |
-| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 8153 |
+| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 9551 |
 | 3 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7864 |
 | 4 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Ahime | salami_nahim | Benin | 7391 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 7252 |
@@ -19,10 +19,10 @@ Users: 473
 | 11 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba |  | jprud667 | Benin, cotonou | 3817 |
 | 12 | [ludndev](https://github.com/ludndev) | Judicaël AHYI |  | JudicaelAhyi | Cotonou, Benin | 3724 |
 | 13 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi |  | iyosayi0x | Nigeria , Benin  | 3685 |
-| 14 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 3441 |
-| 15 | [20Frederic20](https://github.com/20Frederic20) |  | SICOGES ByGAMS | Blvck_Excelsior | Benin, Cotonou | 3331 |
-| 16 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3213 |
-| 17 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3172 |
-| 18 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON |  | elishady_ | Cotonou, Benin | 3119 |
-| 19 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel |  | KSBLAB | BENIN | 3032 |
-| 20 | [Blooz231](https://github.com/Blooz231) | Blooz Angus | Blooztechnology | bloozangus | Benin | 2993 |
+| 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON |  |  | Cotonou, Bénin | 3630 |
+| 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 3441 |
+| 16 | [20Frederic20](https://github.com/20Frederic20) |  | SICOGES ByGAMS | Blvck_Excelsior | Benin, Cotonou | 3331 |
+| 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | ___ |  | Cotonou, Benin | 3298 |
+| 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | @EpitechCodingAcademyPromo2024  |  | Cotonou, BENIN | 3213 |
+| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. |  | mdnjohnb | Benin | 3172 |
+| 20 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON |  | elishady_ | Cotonou, Benin | 3119 |

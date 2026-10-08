@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,494
+Indexed users: 1,492
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,494
 | 19 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 116 |
 
-Generated: 2026-10-07T23:42:34.270Z
+Generated: 2026-10-08T00:56:24.045Z

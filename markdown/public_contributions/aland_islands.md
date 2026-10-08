@@ -1,6 +1,6 @@
 # Public Contributions - Åland Islands
 
-Generated: 2026-10-07T23:42:34.849Z
+Generated: 2026-10-08T00:56:27.817Z
 
 Users: 61
 
@@ -9,7 +9,7 @@ Users: 61
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 1133 |
 | 2 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 968 |
 | 3 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 823 |
-| 4 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 646 |
+| 4 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 632 |
 | 5 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | @enfuce  |  | Mariehamn | 581 |
 | 6 | [kejpa](https://github.com/kejpa) | Kjell Hansen |  |  | Mariehamn, Åland Islands | 528 |
 | 7 | [karusmari](https://github.com/karusmari) | Maris Karu | Gritlab |  | Åland Islands | 469 |

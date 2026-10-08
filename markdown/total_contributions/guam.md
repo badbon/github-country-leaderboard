@@ -1,6 +1,6 @@
 # Total Contributions - Guam
 
-Generated: 2026-10-08T00:09:03.409Z
+Generated: 2026-10-08T01:19:16.244Z
 
 Users: 48
 
@@ -14,8 +14,8 @@ Users: 48
 | 6 | [nanodavinci](https://github.com/nanodavinci) | leo | Muy Dibujo LTD. |  | Hagåtña, Guam | 290 |
 | 7 | [jlongus](https://github.com/jlongus) | josiah |  |  | Guam | 65 |
 | 8 | [dagogue671](https://github.com/dagogue671) | David Gogue |  |  | Guam | 56 |
-| 9 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 36 |
-| 10 | [StoneyTi](https://github.com/StoneyTi) | Tim |  |  | Guam | 35 |
+| 9 | [StoneyTi](https://github.com/StoneyTi) | Tim |  |  | Guam | 38 |
+| 10 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 36 |
 | 11 | [romelanthonysb](https://github.com/romelanthonysb) |  |  |  | Guam | 18 |
 | 12 | [nshoemake](https://github.com/nshoemake) | Nick Shoemake | 100Devs, NTT Docomo Pacific | nshoemake_ | Guam | 17 |
 | 13 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | AnT1nG Marketing Guam | TweetApp07 | Guam, United, States | 11 |

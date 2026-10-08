@@ -1,6 +1,6 @@
 # Czechia
 
-Indexed users: 16,200
+Indexed users: 16,199
 
 | Leaderboard | Link |
 |---|---|
@@ -17,12 +17,12 @@ Indexed users: 16,200
 | 3 | [escopecz](https://github.com/escopecz) | John Linhart | Prague | 38,147 |
 | 4 | [jkvetina](https://github.com/jkvetina) | Jan Kvetina | Prague, Czech republic | 28,522 |
 | 5 | [fazpu](https://github.com/fazpu) | Jiri Puc | Prague | 25,137 |
-| 6 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | Prague, Czech Republic | 17,779 |
-| 7 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen | Prague | 16,700 |
-| 8 | [hejny](https://github.com/hejny) | Pavol Hejny | Prague | 15,062 |
-| 9 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | Prague | 14,678 |
-| 10 | [matej21](https://github.com/matej21) | David Matějka | Prague, Czech Republic | 14,637 |
-| 11 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň | Prague, Czechia | 13,902 |
+| 6 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň | Prague, Czechia | 18,231 |
+| 7 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | Prague, Czech Republic | 17,779 |
+| 8 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen | Prague | 16,700 |
+| 9 | [hejny](https://github.com/hejny) | Pavol Hejny | Prague | 15,062 |
+| 10 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | Prague | 14,678 |
+| 11 | [matej21](https://github.com/matej21) | David Matějka | Prague, Czech Republic | 14,637 |
 | 12 | [klapuch](https://github.com/klapuch) | Dominik Klapuch | Czech Republic | 13,602 |
 | 13 | [stanlymt](https://github.com/stanlymt) | Stanly Thomas | Prague | 13,483 |
 | 14 | [maksym-mishchenko](https://github.com/maksym-mishchenko) | Maksym | Czech Republic | 13,336 |
@@ -83,4 +83,4 @@ Indexed users: 16,200
 | 19 | [wbenny](https://github.com/wbenny) | Petr Beneš | Brno, Czech Republic | 877 |
 | 20 | [ondras](https://github.com/ondras) | Ondřej Žára | Prague | 840 |
 
-Generated: 2026-10-07T23:58:52.660Z
+Generated: 2026-10-08T01:10:15.228Z

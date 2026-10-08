@@ -49,9 +49,9 @@ Indexed users: 484
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Casablanca - Ouagadougou | 634 |
 | 11 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 597 |
 | 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | Burkina Faso | 593 |
-| 13 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 538 |
-| 14 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
-| 15 | [bysmo](https://github.com/bysmo) | Modeste Marie BEGNINE SOMDA | Burkina Faso | 531 |
+| 13 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 532 |
+| 14 | [bysmo](https://github.com/bysmo) | Modeste Marie BEGNINE SOMDA | Burkina Faso | 531 |
+| 15 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon | Ouagadougou | 521 |
 | 16 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 496 |
 | 17 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Burkina Faso | 482 |
 | 18 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO | Burkina Faso | 482 |
@@ -83,4 +83,4 @@ Indexed users: 484
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN | BURKINAFASO/OUAGADOUGOU | 37 |
 
-Generated: 2026-10-07T23:53:39.182Z
+Generated: 2026-10-08T01:05:28.328Z

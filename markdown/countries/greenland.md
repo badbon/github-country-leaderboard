@@ -12,8 +12,8 @@ Indexed users: 59
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,863 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,860 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,859 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,843 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,483 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,274 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 899 |
@@ -37,7 +37,7 @@ Indexed users: 59
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,937 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,935 |
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,483 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 899 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 694 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 9 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-08T00:08:56.878Z
+Generated: 2026-10-08T01:17:11.624Z

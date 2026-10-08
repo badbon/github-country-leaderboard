@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-08T00:20:57.777Z
+Generated: 2026-10-08T01:31:06.887Z
 
 Users: 1915
 
@@ -10,10 +10,10 @@ Users: 1915
 | 2 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 5293 |
 | 3 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 3862 |
 | 4 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 3215 |
-| 5 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2948 |
-| 6 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 2876 |
-| 7 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 2868 |
-| 8 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 2423 |
+| 5 | [Zava07](https://github.com/Zava07) | ANJARANANTENAINA Kantonjoary Zava Fifaliana | IT University |  | Madagascar | 3003 |
+| 6 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 2948 |
+| 7 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 2876 |
+| 8 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 2868 |
 | 9 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2222 |
 | 10 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1932 |
 | 11 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1907 |

@@ -13,7 +13,7 @@ Indexed users: 66
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 14,854 |
-| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,341 |
+| 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,396 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,392 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,255 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,719 |
@@ -22,7 +22,7 @@ Indexed users: 66
 | 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,203 |
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,031 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,011 |
-| 11 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,420 |
+| 11 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,432 |
 | 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,395 |
 | 13 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,028 |
 | 14 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 873 |
@@ -31,7 +31,7 @@ Indexed users: 66
 | 17 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 619 |
 | 18 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 504 |
 | 19 | [krvi](https://github.com/krvi) |  | Faroe Islands | 345 |
-| 20 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | Faroe Islands | 340 |
+| 20 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | Faroe Islands | 337 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 66
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-08T00:06:07.052Z
+Generated: 2026-10-08T01:13:41.692Z

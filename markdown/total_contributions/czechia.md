@@ -1,8 +1,8 @@
 # Total Contributions - Czechia
 
-Generated: 2026-10-07T23:58:52.660Z
+Generated: 2026-10-08T01:10:15.228Z
 
-Users: 16200
+Users: 16199
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,12 +11,12 @@ Users: 16200
 | 3 | [escopecz](https://github.com/escopecz) | John Linhart | Acquia | jan_linhart | Prague | 38147 |
 | 4 | [jkvetina](https://github.com/jkvetina) | Jan Kvetina |  |  | Prague, Czech republic | 28522 |
 | 5 | [fazpu](https://github.com/fazpu) | Jiri Puc | Agents / Memory / Loops / Evals |  | Prague | 25137 |
-| 6 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | @GoodData | martinnajemi | Prague, Czech Republic | 17779 |
-| 7 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen |  |  | Prague | 16700 |
-| 8 | [hejny](https://github.com/hejny) | Pavol Hejny | Promptbook | pavolhejny | Prague | 15062 |
-| 9 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | SCIO |  | Prague | 14678 |
-| 10 | [matej21](https://github.com/matej21) | David Matějka |  |  | Prague, Czech Republic | 14637 |
-| 11 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň |  |  | Prague, Czechia | 13902 |
+| 6 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň |  |  | Prague, Czechia | 18231 |
+| 7 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | @GoodData | martinnajemi | Prague, Czech Republic | 17779 |
+| 8 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen |  |  | Prague | 16700 |
+| 9 | [hejny](https://github.com/hejny) | Pavol Hejny | Promptbook | pavolhejny | Prague | 15062 |
+| 10 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | SCIO |  | Prague | 14678 |
+| 11 | [matej21](https://github.com/matej21) | David Matějka |  |  | Prague, Czech Republic | 14637 |
 | 12 | [klapuch](https://github.com/klapuch) | Dominik Klapuch |  |  | Czech Republic | 13602 |
 | 13 | [stanlymt](https://github.com/stanlymt) | Stanly Thomas | Paylocity |  | Prague | 13483 |
 | 14 | [maksym-mishchenko](https://github.com/maksym-mishchenko) | Maksym | Microsoft |  | Czech Republic | 13336 |

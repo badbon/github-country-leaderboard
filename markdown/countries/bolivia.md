@@ -45,7 +45,7 @@ Indexed users: 1,790
 | 6 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,241 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 1,684 |
 | 8 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,627 |
-| 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,586 |
+| 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,577 |
 | 10 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,527 |
 | 11 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,448 |
 | 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,307 |
@@ -83,4 +83,4 @@ Indexed users: 1,790
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 126 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 124 |
 
-Generated: 2026-10-07T23:51:54.080Z
+Generated: 2026-10-08T01:02:08.488Z

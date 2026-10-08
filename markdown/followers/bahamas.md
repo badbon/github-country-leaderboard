@@ -1,6 +1,6 @@
 # Followers - Bahamas
 
-Generated: 2026-10-07T23:47:50.397Z
+Generated: 2026-10-08T00:59:46.702Z
 
 Users: 236
 
@@ -10,7 +10,7 @@ Users: 236
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 100 |
 | 3 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 88 |
 | 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov |  | mikkqu | Nassau, Bahamas | 61 |
-| 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | @btcwoot | btcwootexchange | bahamas | 56 |
+| 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | @btcwoot | btcwootexchange | bahamas | 50 |
 | 6 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Clever | jsphpndr | Bahamas | 38 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Evon Medics LLC | john_diddles | Nassau, Bahamas | 37 |
 | 8 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 35 |

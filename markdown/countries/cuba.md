@@ -31,7 +31,7 @@ Indexed users: 1,292
 | 17 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
 | 18 | [edarblanco](https://github.com/edarblanco) | Edar José Blanco Rodríguez | Habana/Cuba | 2,778 |
 | 19 | [roylans](https://github.com/roylans) | Roylan Suarez | Cuba | 2,754 |
-| 20 | [reneespinosa](https://github.com/reneespinosa) | René Espinosa Arteaga | Santa Clara , Villa Clara , Cuba | 2,676 |
+| 20 | [reneespinosa](https://github.com/reneespinosa) | René Espinosa Arteaga | Santa Clara , Villa Clara , Cuba | 2,740 |
 
 ## Public Contributions
 
@@ -50,9 +50,9 @@ Indexed users: 1,292
 | 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,463 |
 | 12 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,418 |
 | 13 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez | Cuba | 1,412 |
-| 14 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 992 |
-| 15 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 985 |
-| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 965 |
+| 14 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,161 |
+| 15 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 992 |
+| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez | Cárdenas, Matanzas, Cuba | 931 |
 | 17 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | Cuba | 781 |
 | 18 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo | La Habana, Cuba. | 727 |
 | 19 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  | Ciego de Ávila, Cuba | 720 |
@@ -67,20 +67,20 @@ Indexed users: 1,292
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 170 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 143 |
 | 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 142 |
-| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 134 |
+| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 132 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | La Habana, Cuba | 115 |
 | 10 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro | La Habana, Cuba | 111 |
-| 11 | [CJPD00](https://github.com/CJPD00) | CJPD00 | Cuba | 109 |
-| 12 | [Innavoj](https://github.com/Innavoj) | Innavoj | Cuba | 109 |
-| 13 | [saulin18](https://github.com/saulin18) | Saúl Sondón | Holguín, Cuba | 78 |
-| 14 | [ALbertE03](https://github.com/ALbertE03) | Albert | La Habana, Cuba | 77 |
-| 15 | [ObisoftDev](https://github.com/ObisoftDev) | Obisoft Dev | Cuba | 76 |
+| 11 | [Innavoj](https://github.com/Innavoj) | Innavoj | Cuba | 110 |
+| 12 | [CJPD00](https://github.com/CJPD00) | CJPD00 | Cuba | 103 |
+| 13 | [saulin18](https://github.com/saulin18) | Saúl Sondón | Holguín, Cuba | 94 |
+| 14 | [ObisoftDev](https://github.com/ObisoftDev) | Obisoft Dev | Cuba | 76 |
+| 15 | [ALbertE03](https://github.com/ALbertE03) | Albert | La Habana, Cuba | 75 |
 | 16 | [dnielpy](https://github.com/dnielpy) | Daniel Quesada | Cuba | 75 |
 | 17 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | Camagüey, Cuba | 74 |
 | 18 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 73 |
 | 19 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 69 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 68 |
 
-Generated: 2026-10-07T23:58:39.756Z
+Generated: 2026-10-08T01:09:50.885Z

@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-07T23:49:57.324Z
+Generated: 2026-10-08T01:00:14.581Z
 
 Users: 133
 
@@ -16,7 +16,7 @@ Users: 133
 | 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 220 |
 | 9 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 175 |
 | 10 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 150 |
-| 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 141 |
+| 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 140 |
 | 12 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | The George Alleyne Chronic Disease Research Centre | kernrocke | Bridgetown, Barbados | 109 |
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte |  |  | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 105 |

@@ -24,10 +24,10 @@ Indexed users: 79,060
 | 10 | [MAkcanca](https://github.com/MAkcanca) | Mustafa Akcanca | Istanbul, Turkey | 47,876 |
 | 11 | [yemreak](https://github.com/yemreak) | Yunus Emre Ak | Istanbul, Turkey | 36,394 |
 | 12 | [oguzhan18](https://github.com/oguzhan18) | Oğuzhan ÇART | Istanbul | 32,424 |
-| 13 | [erkanalperen54-boop](https://github.com/erkanalperen54-boop) | Alperen ERKAN | Türkiye/Ankara | 31,640 |
-| 14 | [ozzaii](https://github.com/ozzaii) | Kaan Özkan | Trabzon, Türkiye | 29,009 |
-| 15 | [deligoez](https://github.com/deligoez) | Yunus Emre Deligöz | Ankara, TR | 25,924 |
-| 16 | [BurakCanYukselen](https://github.com/BurakCanYukselen) | Burak Can Yükselen | Istanbul | 23,747 |
+| 13 | [ozzaii](https://github.com/ozzaii) | Kaan Özkan | Trabzon, Türkiye | 29,009 |
+| 14 | [deligoez](https://github.com/deligoez) | Yunus Emre Deligöz | Ankara, TR | 25,924 |
+| 15 | [BurakCanYukselen](https://github.com/BurakCanYukselen) | Burak Can Yükselen | Istanbul | 23,747 |
+| 16 | [erkanalperen54-boop](https://github.com/erkanalperen54-boop) | Alperen ERKAN | Türkiye/Ankara | 23,678 |
 | 17 | [ozkuran](https://github.com/ozkuran) | Mahmut Ali ÖZKURAN | Istanbul | 23,193 |
 | 18 | [mturac](https://github.com/mturac) | mehmet turac | Istanbul | 21,165 |
 | 19 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 | Türkiye | 20,643 |
@@ -83,4 +83,4 @@ Indexed users: 79,060
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-07T23:37:20.733Z
+Generated: 2026-10-08T00:50:12.757Z

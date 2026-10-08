@@ -12,8 +12,8 @@ Indexed users: 53
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,841 |
-| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,758 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,844 |
+| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,760 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,461 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,271 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,374 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-07T23:58:42.953Z
+Generated: 2026-10-08T01:09:55.980Z

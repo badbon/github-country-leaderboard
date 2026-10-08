@@ -1,8 +1,8 @@
 # Followers - Ivory Coast
 
-Generated: 2026-10-08T00:14:11.395Z
+Generated: 2026-10-08T01:25:34.908Z
 
-Users: 489
+Users: 487
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

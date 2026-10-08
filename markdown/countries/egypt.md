@@ -1,6 +1,6 @@
 # Egypt
 
-Indexed users: 33,940
+Indexed users: 34,038
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 33,940
 | 19 | [mbadry1](https://github.com/mbadry1) | Mahmoud Badry | Cairo, Egypt | 1,055 |
 | 20 | [bakrianoo](https://github.com/bakrianoo) | Abu Bakr Soliman | Sinai, Egypt | 1,033 |
 
-Generated: 2026-10-08T00:01:49.627Z
+Generated: 2026-10-08T01:31:26.831Z

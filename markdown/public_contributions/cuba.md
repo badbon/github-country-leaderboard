@@ -1,6 +1,6 @@
 # Public Contributions - Cuba
 
-Generated: 2026-10-07T23:58:39.756Z
+Generated: 2026-10-08T01:09:50.885Z
 
 Users: 1292
 
@@ -19,9 +19,9 @@ Users: 1292
 | 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco |  |  | Havana, Cuba | 1463 |
 | 12 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | PayNest | noakmilo | Cuba | 1418 |
 | 13 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez |  |  | Cuba | 1412 |
-| 14 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | SoftwarEnTalla |  | La Habana, Cuba | 992 |
-| 15 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 985 |
-| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez |  |  | Cárdenas, Matanzas, Cuba | 965 |
+| 14 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 1161 |
+| 15 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | SoftwarEnTalla |  | La Habana, Cuba | 992 |
+| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez |  |  | Cárdenas, Matanzas, Cuba | 931 |
 | 17 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | National Center of Clinical Trials | maicel1978 | Cuba | 781 |
 | 18 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo |  | Victor_hendz | La Habana, Cuba. | 727 |
 | 19 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  |  |  | Ciego de Ávila, Cuba | 720 |

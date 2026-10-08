@@ -1,13 +1,13 @@
 # Followers - Mauritania
 
-Generated: 2026-10-08T00:21:41.610Z
+Generated: 2026-10-08T01:32:50.144Z
 
 Users: 288
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 161 |
-| 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad |  |  | Nouakchott, Mauritania | 66 |
+| 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad |  |  | Nouakchott, Mauritania | 69 |
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz |  |  | Mauritania | 61 |
 | 4 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 49 |
 | 5 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 48 |
@@ -19,10 +19,10 @@ Users: 288
 | 11 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | SMART MS | MaguisKader | MAURITANIA  | 32 |
 | 12 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 30 |
 | 13 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 30 |
-| 14 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 29 |
+| 14 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 29 |
 | 15 | [Layito96](https://github.com/Layito96) |  | Interlink, Wimex |  | Nouakchott, Mauritania | 29 |
 | 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 29 |
-| 17 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 28 |
-| 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 28 |
+| 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 28 |
+| 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 26 |
 | 19 | [bechir](https://github.com/bechir) | Bechir Ba | @Kalbe-io |  | Mauritania | 25 |
-| 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | 0xmr |  | mauritania | 24 |
+| 20 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Bits Tamer | mbareck77 | Mauritania, Nouakchott | 25 |

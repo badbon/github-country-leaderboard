@@ -1,8 +1,8 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-08T00:14:14.017Z
+Generated: 2026-10-08T01:25:38.531Z
 
-Users: 1283
+Users: 1282
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 1283
 | 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6626 |
 | 7 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 5685 |
 | 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5180 |
-| 9 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |
-| 10 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 3881 |
-| 11 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Ratehub Inc. |  | Kingston Ontario | 3839 |
-| 12 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
-| 13 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
-| 14 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 3612 |
-| 15 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 3604 |
-| 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
-| 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |
-| 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 3401 |
-| 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 2983 |
-| 20 | [jenssogaard](https://github.com/jenssogaard) | Jens Soegaard |  |  | Kingston, New York | 2982 |
+| 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
+| 10 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |
+| 11 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | NCB Capital Markets |  | Jamaica | 3881 |
+| 12 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Ratehub Inc. |  | Kingston Ontario | 3839 |
+| 13 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
+| 14 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
+| 15 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 3612 |
+| 16 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 3604 |
+| 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
+| 18 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |
+| 19 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 3401 |
+| 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 2983 |

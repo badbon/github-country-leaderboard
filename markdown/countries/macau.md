@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 445
+Indexed users: 443
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 445
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-08T00:20:52.363Z
+Generated: 2026-10-08T01:31:02.599Z

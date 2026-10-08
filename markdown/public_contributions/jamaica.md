@@ -1,17 +1,17 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-08T00:14:14.017Z
+Generated: 2026-10-08T01:25:38.531Z
 
-Users: 1283
+Users: 1282
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 10398 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4880 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell |  |  | Kingston, ON | 2845 |
-| 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 2236 |
-| 5 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins |  |  | Kingston, ON | 2185 |
-| 6 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | @EduFocal  | TheAvgCoder | Jamaica | 1972 |
+| 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon |  | theavgcoder | Jamaica | 2300 |
+| 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole |  |  | Jamaica | 2236 |
+| 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins |  |  | Kingston, ON | 2185 |
 | 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1206 |
 | 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1172 |
 | 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 1077 |

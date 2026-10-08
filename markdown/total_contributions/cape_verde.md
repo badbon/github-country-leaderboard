@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-07T23:55:16.502Z
+Generated: 2026-10-08T01:06:46.255Z
 
 Users: 564
 
@@ -25,4 +25,4 @@ Users: 564
 | 17 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini |  |  | Praia Grande, SP - Brazil | 1026 |
 | 18 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1003 |
 | 19 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 997 |
-| 20 | [LeandroVeiga9](https://github.com/LeandroVeiga9) | Leandro Veiga |  |  | Praia Grande - SP | 904 |
+| 20 | [Sengeki1](https://github.com/Sengeki1) | Marco Soares |  |  | Cape Verde | 883 |

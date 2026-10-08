@@ -30,8 +30,8 @@ Indexed users: 1,228
 | 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
 | 17 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
-| 19 | [gregpavl](https://github.com/gregpavl) | Greg | Malta | 5,225 |
-| 20 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
+| 19 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
+| 20 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 4,913 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,228
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-08T00:21:34.290Z
+Generated: 2026-10-08T01:32:40.692Z

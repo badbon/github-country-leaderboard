@@ -1,6 +1,6 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-07T23:42:34.849Z
+Generated: 2026-10-08T00:56:27.817Z
 
 Users: 61
 
@@ -10,8 +10,8 @@ Users: 61
 | 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 3884 |
 | 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3805 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3080 |
-| 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1708 |
-| 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 1623 |
+| 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1713 |
+| 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 1608 |
 | 7 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Datawrapper |  | Åland, Finland | 1255 |
 | 8 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | @pafcloud |  | Mariehamn, Åland Islands | 1106 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 1021 |
@@ -22,7 +22,7 @@ Users: 61
 | 14 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 407 |
 | 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | @DeductiveLabs @Sofecta @SofectaLabs  | khalavak | Åland Islands | 392 |
 | 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 247 |
-| 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 186 |
+| 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 185 |
 | 18 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | Takanoha |  | London / Mariehamn | 176 |
 | 19 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 134 |
 | 20 | [viktor-sarge](https://github.com/viktor-sarge) | Viktor Sarge | @RegionHalland  |  | Mariehamn | 127 |

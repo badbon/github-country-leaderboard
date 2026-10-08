@@ -1,6 +1,6 @@
 # Benin
 
-Indexed users: 473
+Indexed users: 472
 
 | Leaderboard | Link |
 |---|---|
@@ -13,7 +13,7 @@ Indexed users: 473
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 10,559 |
-| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 8,153 |
+| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 9,551 |
 | 3 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,864 |
 | 4 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 7,391 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,252 |
@@ -25,13 +25,13 @@ Indexed users: 473
 | 11 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 3,817 |
 | 12 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,724 |
 | 13 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,685 |
-| 14 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
-| 15 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
-| 16 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
-| 17 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,172 |
-| 18 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,119 |
-| 19 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,032 |
-| 20 | [Blooz231](https://github.com/Blooz231) | Blooz Angus | Benin | 2,993 |
+| 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,630 |
+| 15 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,441 |
+| 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,331 |
+| 17 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,298 |
+| 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,213 |
+| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,172 |
+| 20 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,119 |
 
 ## Public Contributions
 
@@ -46,7 +46,7 @@ Indexed users: 473
 | 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,345 |
 | 8 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 1,229 |
 | 9 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,125 |
-| 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,071 |
+| 10 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,066 |
 | 11 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
 | 12 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 892 |
 | 13 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 855 |
@@ -83,4 +83,4 @@ Indexed users: 473
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [romeokakpo](https://github.com/romeokakpo) | Roméo KAKPO | Benin | 70 |
 
-Generated: 2026-10-07T23:51:40.740Z
+Generated: 2026-10-08T01:01:28.903Z

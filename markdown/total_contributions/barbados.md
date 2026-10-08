@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-07T23:49:57.324Z
+Generated: 2026-10-08T01:00:14.581Z
 
 Users: 133
 
@@ -10,16 +10,16 @@ Users: 133
 | 2 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 5122 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4725 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3167 |
-| 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 2534 |
+| 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 2533 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2322 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 1833 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1694 |
 | 9 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1326 |
 | 10 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1215 |
-| 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 1196 |
+| 11 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 1192 |
 | 12 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 919 |
 | 13 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 676 |
-| 14 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 610 |
+| 14 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 613 |
 | 15 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 563 |
 | 16 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 444 |
 | 17 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 442 |

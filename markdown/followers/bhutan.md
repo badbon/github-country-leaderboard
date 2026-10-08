@@ -1,6 +1,6 @@
 # Followers - Bhutan
 
-Generated: 2026-10-07T23:51:49.898Z
+Generated: 2026-10-08T01:01:39.880Z
 
 Users: 268
 
@@ -10,8 +10,8 @@ Users: 268
 | 2 | [tsheringdendup77](https://github.com/tsheringdendup77) | Tshering Dendup | Selise Bhutan | TsherinDendup77 | Thimphu, Bhutan | 101 |
 | 3 | [tashi-yangchen](https://github.com/tashi-yangchen) | Tashi Yangchen | Jigme Namgyel Engineering College |  | Dewangiri, Samdrup Jongkhar, Bhutan | 60 |
 | 4 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 45 |
-| 5 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 43 |
-| 6 | [rewathkafley](https://github.com/rewathkafley) |  | Gives harsh MR comments so that people will cry. | rewathkafley | Thimphu, Bhutan | 43 |
+| 5 | [rewathkafley](https://github.com/rewathkafley) |  | Gives harsh MR comments so that people will cry. | rewathkafley | Thimphu, Bhutan | 44 |
+| 6 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 43 |
 | 7 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 41 |
 | 8 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 37 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 33 |

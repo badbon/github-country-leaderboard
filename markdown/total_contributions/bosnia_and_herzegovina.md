@@ -1,8 +1,8 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-07T23:51:57.627Z
+Generated: 2026-10-08T01:02:11.587Z
 
-Users: 2138
+Users: 2137
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

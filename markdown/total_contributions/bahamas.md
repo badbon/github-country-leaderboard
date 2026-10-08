@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-07T23:47:50.397Z
+Generated: 2026-10-08T00:59:46.702Z
 
 Users: 236
 
@@ -8,10 +8,10 @@ Users: 236
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 21261 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3222 |
-| 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3166 |
+| 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3115 |
 | 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 2723 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2461 |
-| 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 1836 |
+| 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2004 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1637 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1392 |
 | 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 1306 |
@@ -24,5 +24,5 @@ Users: 236
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 711 |
 | 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 545 |
 | 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 534 |
-| 19 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 386 |
-| 20 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 321 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 321 |
+| 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 298 |

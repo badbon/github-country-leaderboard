@@ -1,8 +1,8 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-07T23:51:57.627Z
+Generated: 2026-10-08T01:02:11.587Z
 
-Users: 2138
+Users: 2137
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 2138
 | 6 | [hernad](https://github.com/hernad) | Ernad Husremović |  |  | Bosnia and Herzegovina, Sarajevo | 2043 |
 | 7 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 1871 |
 | 8 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Shop Circle |  | Sarajevo / Bosnia and Herzegovina | 1813 |
-| 9 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic |  |  | Sarajevo | 1576 |
+| 9 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic |  |  | Sarajevo | 1787 |
 | 10 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1456 |
 | 11 | [beganovich](https://github.com/beganovich) | Benjamin Beganović |  | beganovichhh | Bosnia and Herzegovina | 1382 |
 | 12 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1269 |

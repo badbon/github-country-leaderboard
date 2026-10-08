@@ -19,7 +19,7 @@ Indexed users: 113
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,579 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,059 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,851 |
-| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,653 |
+| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,654 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,158 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 736 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 713 |
@@ -30,7 +30,7 @@ Indexed users: 113
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 307 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 296 |
 | 18 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 265 |
-| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 211 |
+| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 223 |
 | 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 171 |
 
 ## Public Contributions
@@ -38,7 +38,7 @@ Indexed users: 113
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 1,932 |
-| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,653 |
+| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,654 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,158 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 713 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 653 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-08T00:19:38.753Z
+Generated: 2026-10-08T01:29:38.700Z

@@ -49,14 +49,14 @@ Indexed users: 702
 | 10 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,201 |
 | 11 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,082 |
 | 12 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
-| 13 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 933 |
+| 13 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 897 |
 | 14 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
 | 15 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 802 |
 | 16 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
 | 17 | [Holsonmp](https://github.com/Holsonmp) | Holson Mpangala | Kinshasa, Congo CD | 776 |
 | 18 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 765 |
-| 19 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 677 |
-| 20 | [AshDest](https://github.com/AshDest) | Destin ASHUZA | Democratic Republic of the Congo, Goma | 662 |
+| 19 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
+| 20 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 677 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 702
 | 19 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 71 |
 | 20 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 
-Generated: 2026-10-08T00:00:42.477Z
+Generated: 2026-10-08T01:11:47.139Z

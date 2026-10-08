@@ -1,16 +1,16 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-07T23:53:43.639Z
+Generated: 2026-10-08T01:05:35.342Z
 
-Users: 236
+Users: 235
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | HOGI |  | Bujumbura, Burundi | 6222 |
-| 2 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2535 |
-| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2273 |
-| 4 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2075 |
-| 5 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 1853 |
+| 2 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 3984 |
+| 3 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2535 |
+| 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2273 |
+| 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2075 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1653 |
 | 7 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Magis BI |  | Burundi/Bujumbura | 1550 |
 | 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1520 |

@@ -1,14 +1,14 @@
 # Total Contributions - Anguilla
 
-Generated: 2026-10-07T23:44:22.348Z
+Generated: 2026-10-08T00:58:13.237Z
 
 Users: 15
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [repsac](https://github.com/repsac) | Ed Caspersen |  |  | The Valley | 5339 |
-| 2 | [mikecalendo](https://github.com/mikecalendo) | Mike Calendo | @buildfunctions | mikecalendo | The Valley, Arizona | 2541 |
-| 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley |  |  | the valley | 2104 |
+| 1 | [repsac](https://github.com/repsac) | Ed Caspersen |  |  | The Valley | 5474 |
+| 2 | [mikecalendo](https://github.com/mikecalendo) | Mike Calendo | @buildfunctions | mikecalendo | The Valley, Arizona | 2528 |
+| 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley |  |  | the valley | 2098 |
 | 4 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | @EcogardenDesign  |  | In the Valley | 582 |
 | 5 | [KleinKodes](https://github.com/KleinKodes) | Klein |  | KBlastburn | Anguilla | 250 |
 | 6 | [joselfernandezwork](https://github.com/joselfernandezwork) | J-Lu |  |  | the valley  | 223 |

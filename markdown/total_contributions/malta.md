@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-08T00:21:34.290Z
+Generated: 2026-10-08T01:32:40.692Z
 
 Users: 1228
 
@@ -24,5 +24,5 @@ Users: 1228
 | 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 5768 |
 | 17 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5272 |
-| 19 | [gregpavl](https://github.com/gregpavl) | Greg | @ginbits |  | Malta | 5225 |
-| 20 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 4993 |
+| 19 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 4993 |
+| 20 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 4913 |

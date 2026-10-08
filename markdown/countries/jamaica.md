@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,283
+Indexed users: 1,282
 
 | Leaderboard | Link |
 |---|---|
@@ -20,18 +20,18 @@ Indexed users: 1,283
 | 6 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 6,626 |
 | 7 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 5,685 |
 | 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,180 |
-| 9 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,009 |
-| 10 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 3,881 |
-| 11 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Kingston Ontario | 3,839 |
-| 12 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
-| 13 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
-| 14 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 3,612 |
-| 15 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
-| 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
-| 17 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
-| 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
-| 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 2,983 |
-| 20 | [jenssogaard](https://github.com/jenssogaard) | Jens Soegaard | Kingston, New York | 2,982 |
+| 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
+| 10 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,009 |
+| 11 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 3,881 |
+| 12 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Kingston Ontario | 3,839 |
+| 13 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
+| 14 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
+| 15 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 3,612 |
+| 16 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
+| 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
+| 18 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
+| 19 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
+| 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 2,983 |
 
 ## Public Contributions
 
@@ -40,9 +40,9 @@ Indexed users: 1,283
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 10,398 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,880 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,845 |
-| 4 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,236 |
-| 5 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
-| 6 | [shamar-morrison](https://github.com/shamar-morrison) | Shamar Morrison | Jamaica | 1,972 |
+| 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,300 |
+| 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,236 |
+| 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
 | 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,206 |
 | 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,172 |
 | 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,077 |
@@ -83,4 +83,4 @@ Indexed users: 1,283
 | 19 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 99 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-08T00:14:14.017Z
+Generated: 2026-10-08T01:25:38.531Z

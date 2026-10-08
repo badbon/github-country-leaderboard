@@ -12,7 +12,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 53,162 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 53,296 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 37,465 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 10,992 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 9,078 |
@@ -37,13 +37,13 @@ Indexed users: 139
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 46,373 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 42,946 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 745 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 713 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 648 |
 | 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 579 |
 | 6 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
-| 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 435 |
+| 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 432 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 225 |
 | 9 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 221 |
 | 10 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 210 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-08T00:14:22.573Z
+Generated: 2026-10-08T01:26:04.237Z

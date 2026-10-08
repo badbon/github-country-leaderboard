@@ -1,6 +1,6 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-08T00:19:38.753Z
+Generated: 2026-10-08T01:29:38.700Z
 
 Users: 113
 
@@ -13,7 +13,7 @@ Users: 113
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2579 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2059 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1851 |
-| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1653 |
+| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1654 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1158 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 736 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 713 |
@@ -24,5 +24,5 @@ Users: 113
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 307 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 296 |
 | 18 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 265 |
-| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 211 |
+| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 223 |
 | 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 171 |

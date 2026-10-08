@@ -1,8 +1,8 @@
 # Followers - Burundi
 
-Generated: 2026-10-07T23:53:43.639Z
+Generated: 2026-10-08T01:05:35.342Z
 
-Users: 236
+Users: 235
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 236
 | 3 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 136 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 102 |
 | 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | Tech Devs | toussaintiradu2 | bujumbura, burundi | 89 |
-| 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 88 |
+| 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 87 |
 | 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Inkinolive | kirogodye | Burundi | 82 |
 | 8 | [ndikumanaisaie](https://github.com/ndikumanaisaie) | Ndikumana Isaie |  | Ndikuma38670724 | Burundi | 79 |
 | 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Mwezi Labs | dondelicedushi | Burundi | 75 |
@@ -20,8 +20,8 @@ Users: 236
 | 12 | [WCanirinka](https://github.com/WCanirinka) | Wilfried Canirinka | @Asyst-Resources-LTD  | WCanirinka | Bujumbura, Burundi | 61 |
 | 13 | [hakichris](https://github.com/hakichris) | Christian Hakizimana | Tujenge Africa Foundation  | hakichris2 | Burundi  | 45 |
 | 14 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 45 |
-| 15 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 43 |
-| 16 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Freelance Full-Stack Developer | Wntazama | Burundi | 43 |
+| 15 | [ntzwilly](https://github.com/ntzwilly) | Willy NTAZAMA | Freelance Full-Stack Developer | Wntazama | Burundi | 45 |
+| 16 | [ahishakiyeyv](https://github.com/ahishakiyeyv) | Yvan Igor AHISHAKIYE |  | YvanAhishakiye | Bujumbura, Burundi | 43 |
 | 17 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 41 |
 | 18 | [mudjaycker](https://github.com/mudjaycker) | MARYIMANA BUTOYI | BIOS |  | Bujumbura/BURUNDI | 36 |
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 35 |

@@ -14,7 +14,7 @@ Indexed users: 95
 |---:|---|---|---|---:|
 | 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,275 |
 | 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,045 |
-| 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,881 |
+| 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,865 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,650 |
 | 5 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,504 |
 | 6 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,413 |
@@ -83,4 +83,4 @@ Indexed users: 95
 | 19 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-07T23:50:15.802Z
+Generated: 2026-10-08T01:01:24.936Z

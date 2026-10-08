@@ -15,18 +15,18 @@ Indexed users: 356
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 10,937 |
 | 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,490 |
 | 3 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,283 |
-| 4 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 5,716 |
-| 5 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,563 |
-| 6 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
-| 7 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 5,107 |
+| 4 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 6,501 |
+| 5 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 5,716 |
+| 6 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,563 |
+| 7 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,307 |
 | 8 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,961 |
 | 9 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,776 |
 | 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 4,552 |
 | 11 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,513 |
 | 12 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,364 |
-| 13 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,261 |
-| 14 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,193 |
-| 15 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 3,925 |
+| 13 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,193 |
+| 14 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,151 |
+| 15 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,150 |
 | 16 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 3,869 |
 | 17 | [aboobakurusuheyl](https://github.com/aboobakurusuheyl) | Aboobakuru Suhail | Maldives | 3,859 |
 | 18 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 3,803 |
@@ -83,4 +83,4 @@ Indexed users: 356
 | 19 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood | Thulhaadhoo, Maldives | 41 |
 | 20 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 41 |
 
-Generated: 2026-10-08T00:21:10.886Z
+Generated: 2026-10-08T01:32:34.519Z

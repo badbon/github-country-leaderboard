@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-08T00:20:57.777Z
+Generated: 2026-10-08T01:31:06.887Z
 
 Users: 1915
 
@@ -10,8 +10,8 @@ Users: 1915
 | 2 | [marioshaya](https://github.com/marioshaya) | SHAYA Mario |  | marioshaya | Antananarivo, Madagascar | 14886 |
 | 3 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 14427 |
 | 4 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 12213 |
-| 5 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 9158 |
-| 6 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 8411 |
+| 5 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 9932 |
+| 6 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 9158 |
 | 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 7608 |
 | 8 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 6726 |
 | 9 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina |  |  | Antananarivo, Madagascar | 6242 |

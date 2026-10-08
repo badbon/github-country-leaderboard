@@ -66,8 +66,8 @@ Indexed users: 268
 | 2 | [tsheringdendup77](https://github.com/tsheringdendup77) | Tshering Dendup | Thimphu, Bhutan | 101 |
 | 3 | [tashi-yangchen](https://github.com/tashi-yangchen) | Tashi Yangchen | Dewangiri, Samdrup Jongkhar, Bhutan | 60 |
 | 4 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 45 |
-| 5 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 43 |
-| 6 | [rewathkafley](https://github.com/rewathkafley) |  | Thimphu, Bhutan | 43 |
+| 5 | [rewathkafley](https://github.com/rewathkafley) |  | Thimphu, Bhutan | 44 |
+| 6 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 43 |
 | 7 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 41 |
 | 8 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 37 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 33 |
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [TandinDev](https://github.com/TandinDev) | Tandin Tshewang | Thimphu | 23 |
 | 20 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 
-Generated: 2026-10-07T23:51:49.898Z
+Generated: 2026-10-08T01:01:39.880Z

@@ -25,7 +25,7 @@ Indexed users: 209
 | 11 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,132 |
 | 12 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 879 |
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 879 |
-| 14 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 808 |
+| 14 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 807 |
 | 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 779 |
 | 16 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 739 |
 | 17 | [Professor231](https://github.com/Professor231) | Professor | Monrovia, Liberia  | 723 |
@@ -83,4 +83,4 @@ Indexed users: 209
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-08T00:18:15.318Z
+Generated: 2026-10-08T01:29:33.259Z

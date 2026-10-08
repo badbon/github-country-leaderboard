@@ -1,6 +1,6 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-08T00:21:39.145Z
+Generated: 2026-10-08T01:32:46.502Z
 
 Users: 75
 
@@ -9,7 +9,7 @@ Users: 75
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5356 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5219 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 4849 |
-| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4088 |
+| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4111 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3250 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1548 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 1105 |
@@ -24,5 +24,5 @@ Users: 75
 | 16 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 163 |
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART |  |  | Martinique | 160 |
 | 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 139 |
-| 19 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 115 |
+| 19 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED |  |  | Martinique  | 125 |
 | 20 | [nadlgit](https://github.com/nadlgit) | Nadine |  |  | Martinique | 113 |

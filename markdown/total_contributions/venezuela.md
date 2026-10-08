@@ -1,8 +1,8 @@
 # Total Contributions - Venezuela
 
-Generated: 2026-10-07T23:40:59.736Z
+Generated: 2026-10-08T00:54:46.892Z
 
-Users: 6636
+Users: 6634
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 6636
 | 11 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto |  |  | Caracas, Venezuela. | 7859 |
 | 12 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Rafael Urdaneta University |  | Venezuela | 7257 |
 | 13 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña |  |  | Venezuela | 6957 |
-| 14 | [rich-97](https://github.com/rich-97) | Ricardo Moreno |  | ricardojmb_ | Maracaibo, Venezuela | 6804 |
-| 15 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente |  |  | Venezuela | 6705 |
-| 16 | [juniorgerdet](https://github.com/juniorgerdet) | Junior |  |  | Caracas | 6629 |
-| 17 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | MDX | MarceloDesignX | Venezuela | 6287 |
-| 18 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander |  | apastena | Venezuela | 6192 |
-| 19 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez |  |  | Caracas, Venezuela | 6062 |
-| 20 | [orozCoding](https://github.com/orozCoding) | Angel Orozco | Simplero | orozCoding | Venezuela | 6052 |
+| 14 | [renebell0](https://github.com/renebell0) | Rene Bello | contacto@renebello.com |  | Caracas/Venezuela | 6890 |
+| 15 | [rich-97](https://github.com/rich-97) | Ricardo Moreno |  | ricardojmb_ | Maracaibo, Venezuela | 6804 |
+| 16 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente |  |  | Venezuela | 6705 |
+| 17 | [juniorgerdet](https://github.com/juniorgerdet) | Junior |  |  | Caracas | 6629 |
+| 18 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | MDX | MarceloDesignX | Venezuela | 6287 |
+| 19 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander |  | apastena | Venezuela | 6192 |
+| 20 | [davinrtx](https://github.com/davinrtx) | Ricardo Gonzalez |  |  | Caracas, Venezuela | 6062 |

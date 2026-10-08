@@ -1,12 +1,12 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-08T00:10:55.440Z
+Generated: 2026-10-08T01:21:40.333Z
 
 Users: 338
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 8060 |
+| 1 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 5697 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4710 |
 | 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4546 |
 | 4 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 4545 |

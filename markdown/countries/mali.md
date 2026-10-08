@@ -50,13 +50,13 @@ Indexed users: 347
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 320 |
 | 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
-| 14 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 199 |
-| 15 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
-| 16 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
-| 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
-| 18 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 148 |
-| 19 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
-| 20 | [Cheickne-Kanoute](https://github.com/Cheickne-Kanoute) | Cheickne Kanoute | Mali | 134 |
+| 14 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
+| 15 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 199 |
+| 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 185 |
+| 17 | [Kalifasenou](https://github.com/Kalifasenou) | Kalifa Senou | bamako, Mali | 179 |
+| 18 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
+| 19 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 148 |
+| 20 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
 
 ## Followers
 
@@ -68,8 +68,8 @@ Indexed users: 347
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao | Mali, Bamako | 69 |
 | 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo | Mali | 66 |
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE | Mali/Bamako | 50 |
-| 7 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 46 |
-| 8 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ | Mali | 46 |
+| 7 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ | Mali | 47 |
+| 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 46 |
 | 9 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 42 |
 | 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 37 |
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Bamako - Mali | 35 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Sidaty](https://github.com/Sidaty) | Sidaty Moulaye KOUREICHY | Bamako, Mali | 27 |
 
-Generated: 2026-10-08T00:21:31.186Z
+Generated: 2026-10-08T01:32:37.111Z

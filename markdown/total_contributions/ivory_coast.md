@@ -1,8 +1,8 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-08T00:14:11.395Z
+Generated: 2026-10-08T01:25:34.908Z
 
-Users: 489
+Users: 487
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 489
 | 10 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | AFRICAN PERMANENT INNOVATIONS | lordkkjmix | abidjan, côte d'ivoire | 4479 |
 | 11 | [Chris000888](https://github.com/Chris000888) | Christopher DATO |  |  | Abidjan, Côte d'Ivoire | 4315 |
 | 12 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 4264 |
-| 13 | [siguici](https://github.com/siguici) | SIGUI Kessé Emmanuel | @Sikessem | siguici | Abidjan, Ivory Coast | 4103 |
-| 14 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 4056 |
-| 15 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3713 |
-| 16 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 3658 |
-| 17 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3644 |
+| 13 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 4056 |
+| 14 | [iDevo-ll](https://github.com/iDevo-ll) | iDevo |  |  | Yamoussoukro, côte d'ivoire  | 3713 |
+| 15 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé |  | _aziz_soule_ | Abidjan, Côte d'Ivoire | 3658 |
+| 16 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Everest Consulting | oumar_koo | Abidjan, Côte d'Ivoire | 3644 |
+| 17 | [Anse-dev](https://github.com/Anse-dev) | N'guettia Atta Jean Anselme |  |  | Ivory Coast | 3478 |
 | 18 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Artefact |  | Cocody, Abidjan, Côte d'Ivoire | 3371 |
 | 19 | [ZakariaDev000](https://github.com/ZakariaDev000) | Zakaria Dev |  |  | Côte d'ivoire, Abidjan | 3232 |
 | 20 | [ulrichkouame](https://github.com/ulrichkouame) | KOUAME Ulrich Kouadio | ivoire.io | UlrichKOUAME11 | Ivory Coast | 2990 |

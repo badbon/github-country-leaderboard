@@ -13,7 +13,7 @@ Indexed users: 36
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,636 |
-| 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,239 |
+| 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,232 |
 | 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 281 |
 | 4 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 116 |
@@ -83,4 +83,4 @@ Indexed users: 36
 | 19 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 3 |
 | 20 | [StephaneKourou](https://github.com/StephaneKourou) | StephaneKourou | Kourou, French Guiana | 3 |
 
-Generated: 2026-10-08T00:06:52.215Z
+Generated: 2026-10-08T01:16:40.110Z

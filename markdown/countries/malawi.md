@@ -48,9 +48,9 @@ Indexed users: 902
 | 9 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 823 |
 | 10 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 767 |
 | 11 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 737 |
-| 12 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
-| 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
-| 14 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 615 |
+| 12 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
+| 13 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
+| 14 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
 | 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 559 |
 | 16 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 528 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 137 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
 
-Generated: 2026-10-08T00:21:03.499Z
+Generated: 2026-10-08T01:31:09.686Z

@@ -1,13 +1,13 @@
 # Total Contributions - Grenada
 
-Generated: 2026-10-08T00:08:59.607Z
+Generated: 2026-10-08T01:18:38.217Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | @kerrongordon | kerrongordon | Grenada | 1393 |
-| 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters |  |  | Grenada, West Indies | 748 |
+| 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters |  |  | Grenada, West Indies | 728 |
 | 3 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal |  |  | Grenada | 430 |
 | 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen |  |  | Grenada | 250 |
 | 5 | [davidwilson001](https://github.com/davidwilson001) | David Wilson |  |  | Grenada | 187 |

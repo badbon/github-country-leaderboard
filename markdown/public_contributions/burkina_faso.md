@@ -1,6 +1,6 @@
 # Public Contributions - Burkina Faso
 
-Generated: 2026-10-07T23:53:39.182Z
+Generated: 2026-10-08T01:05:28.328Z
 
 Users: 484
 
@@ -18,9 +18,9 @@ Users: 484
 | 10 | [Solangeilinga](https://github.com/Solangeilinga) | ILINGA Solange | Ecole Centrale Casablanca - Institut Internationale de l'Eau et de l'Environnement |  | Casablanca - Ouagadougou | 634 |
 | 11 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 597 |
 | 12 | [kiswend](https://github.com/kiswend) | Nathan K. DELMA | @mojaloop  |  | Burkina Faso | 593 |
-| 13 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon |  | SimeonGango | Ouagadougou | 538 |
-| 14 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Inference |  | Ouagadougou, Burkina Faso | 532 |
-| 15 | [bysmo](https://github.com/bysmo) | Modeste Marie BEGNINE SOMDA | @softoneburkina |  | Burkina Faso | 531 |
+| 13 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Inference |  | Ouagadougou, Burkina Faso | 532 |
+| 14 | [bysmo](https://github.com/bysmo) | Modeste Marie BEGNINE SOMDA | @softoneburkina |  | Burkina Faso | 531 |
+| 15 | [gangosimeon](https://github.com/gangosimeon) | GANGO Siméon |  | SimeonGango | Ouagadougou | 521 |
 | 16 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ticanalyse |  | Ouagadougou, Burkina Faso 🇧🇫 | 496 |
 | 17 | [danielschillem](https://github.com/danielschillem) | Daniel Schillem KARAMBIRI | Alternatives -IT |  | Burkina Faso | 482 |
 | 18 | [YaogoGerard](https://github.com/YaogoGerard) | Gérard Windpagnangdé YAOGO |  |  | Burkina Faso | 482 |

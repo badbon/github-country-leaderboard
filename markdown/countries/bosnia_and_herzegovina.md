@@ -1,6 +1,6 @@
 # Bosnia and Herzegovina
 
-Indexed users: 2,138
+Indexed users: 2,137
 
 | Leaderboard | Link |
 |---|---|
@@ -45,7 +45,7 @@ Indexed users: 2,138
 | 6 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 2,043 |
 | 7 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,871 |
 | 8 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 1,813 |
-| 9 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,576 |
+| 9 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,787 |
 | 10 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,456 |
 | 11 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,382 |
 | 12 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,269 |
@@ -83,4 +83,4 @@ Indexed users: 2,138
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-07T23:51:57.627Z
+Generated: 2026-10-08T01:02:11.587Z
