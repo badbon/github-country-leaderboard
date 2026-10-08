@@ -62,16 +62,16 @@ Indexed users: 746
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa | Libya | 131 |
+| 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa | Libya | 133 |
 | 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 123 |
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 88 |
 | 4 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 86 |
 | 5 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 86 |
-| 6 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush | Tripoli | 82 |
-| 7 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 81 |
-| 8 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Tripoli, Libya | 77 |
+| 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 81 |
+| 7 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Tripoli, Libya | 77 |
+| 8 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush | Tripoli | 76 |
 | 9 | [qw46478](https://github.com/qw46478) | WZ_asaeh | Libya | 74 |
-| 10 | [Abdullah-Arab](https://github.com/Abdullah-Arab) | Abdullah Arab | tripoli / libya | 69 |
+| 10 | [Abdullah-Arab](https://github.com/Abdullah-Arab) | Abdullah Arab | tripoli / libya | 70 |
 | 11 | [Mahamed-Belkheir](https://github.com/Mahamed-Belkheir) |  | Libya, Benghazi | 64 |
 | 12 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 61 |
 | 13 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah | Tripoli, Libya | 60 |
@@ -80,7 +80,7 @@ Indexed users: 746
 | 16 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 57 |
 | 17 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar | Benghazi, Libya | 57 |
 | 18 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar | Tripoli, Libya | 57 |
-| 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 50 |
+| 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-08T07:47:07.939Z
+Generated: 2026-10-08T08:36:15.048Z

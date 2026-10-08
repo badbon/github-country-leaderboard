@@ -20,18 +20,18 @@ Indexed users: 1,583
 | 6 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Reykjavík, Iceland | 8,780 |
 | 7 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 8,749 |
 | 8 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 7,531 |
-| 9 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,348 |
-| 10 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 6,315 |
-| 11 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 6,241 |
-| 12 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,229 |
+| 9 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,633 |
+| 10 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,348 |
+| 11 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 6,315 |
+| 12 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 6,241 |
 | 13 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,030 |
 | 14 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 5,624 |
 | 15 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,619 |
 | 16 | [agudmund](https://github.com/agudmund) | Ævar Guðmundsson | Iceland | 5,577 |
 | 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 5,501 |
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 5,396 |
-| 19 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 5,113 |
-| 20 | [elfaralfreds](https://github.com/elfaralfreds) | Elfar Alfreðsson | Akureyri, Iceland | 5,042 |
+| 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,373 |
+| 20 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 5,113 |
 
 ## Public Contributions
 
@@ -53,7 +53,7 @@ Indexed users: 1,583
 | 14 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,265 |
 | 15 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
 | 16 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
-| 17 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,125 |
+| 17 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,157 |
 | 18 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
 | 19 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,112 |
 | 20 | [jamestomasino](https://github.com/jamestomasino) | James Tomasino | Mosfellsbær, Iceland | 1,105 |
@@ -83,4 +83,4 @@ Indexed users: 1,583
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-08T07:44:10.348Z
+Generated: 2026-10-08T08:30:24.971Z

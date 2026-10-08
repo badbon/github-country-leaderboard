@@ -1,13 +1,13 @@
 # Public Contributions - Ireland
 
-Generated: 2026-10-08T07:44:24.056Z
+Generated: 2026-10-08T08:31:10.111Z
 
 Users: 19540
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  |  |  | Pilot, ireland | 110657 |
-| 2 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman |  |  | Dublin, Ireland | 90754 |
+| 1 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman |  |  | Dublin, Ireland | 90754 |
+| 2 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  |  |  | Pilot, ireland | 74217 |
 | 3 | [levindixon](https://github.com/levindixon) | Levin Dixon | @intercom |  | Dublin, Ireland | 45006 |
 | 4 | [fourk0](https://github.com/fourk0) | fourk0 |  |  | Ireland | 23244 |
 | 5 | [rjrodger](https://github.com/rjrodger) | Richard Rodger |  |  | Ireland | 18498 |

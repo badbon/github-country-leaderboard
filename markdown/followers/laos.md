@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-08T07:46:51.425Z
+Generated: 2026-10-08T08:34:31.020Z
 
 Users: 359
 
@@ -15,7 +15,7 @@ Users: 359
 | 7 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
 | 8 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 24 |
 | 9 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 24 |
-| 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 23 |
+| 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 24 |
 | 11 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 23 |
 | 12 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 22 |
 | 13 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | PUFFADDERS |  | Laos | 22 |

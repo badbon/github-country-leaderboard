@@ -21,7 +21,7 @@ Indexed users: 24,028
 | 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
 | 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Nairobi | 35,536 |
 | 9 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 34,624 |
-| 10 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 22,435 |
+| 10 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 21,856 |
 | 11 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | Nairobi-Kenya | 21,658 |
 | 12 | [nedmoeca](https://github.com/nedmoeca) | TERRENCE M.K | Nairobi, Kenya | 20,631 |
 | 13 | [peterjuma](https://github.com/peterjuma) | Peter Juma | Nairobi | 19,674 |
@@ -44,7 +44,7 @@ Indexed users: 24,028
 | 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
 | 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 34,624 |
 | 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | Nairobi-Kenya | 21,537 |
-| 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 21,180 |
+| 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 21,080 |
 | 9 | [allano0](https://github.com/allano0) | Allan Wachira | KENYA | 19,235 |
 | 10 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | Kenya | 16,955 |
 | 11 | [reubendeekay](https://github.com/reubendeekay) | Reuben Jefwa | Kenya | 13,543 |
@@ -83,4 +83,4 @@ Indexed users: 24,028
 | 19 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
 | 20 | [danielmuthama](https://github.com/danielmuthama) | Daniel Muthama | Nairobi, Kenya | 1,289 |
 
-Generated: 2026-10-08T08:05:26.844Z
+Generated: 2026-10-08T08:32:40.293Z

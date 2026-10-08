@@ -1,6 +1,6 @@
 # Public Contributions - Kenya
 
-Generated: 2026-10-08T08:05:26.844Z
+Generated: 2026-10-08T08:32:40.293Z
 
 Users: 24028
 
@@ -13,7 +13,7 @@ Users: 24028
 | 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
 | 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 34624 |
 | 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | FINTECH-GROUP | alexkemboi97 | Nairobi-Kenya | 21537 |
-| 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | xcasper.space |  | Nairobi, Kenya | 21180 |
+| 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | xcasper.space |  | Nairobi, Kenya | 21080 |
 | 9 | [allano0](https://github.com/allano0) | Allan Wachira |  |  | KENYA | 19235 |
 | 10 | [mikeyhodl](https://github.com/mikeyhodl) | mikey | @WeKnow-io @gadgetsmagke @weknow-finance @amdefiguy | mikeyhodl | Kenya | 16955 |
 | 11 | [reubendeekay](https://github.com/reubendeekay) | Reuben Jefwa | University of Nairobi | kid_indigoo | Kenya | 13543 |

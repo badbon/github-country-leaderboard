@@ -40,7 +40,7 @@ Indexed users: 347
 | 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 6,389 |
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,313 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,414 |
-| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,174 |
+| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,169 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,126 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 565 |
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
@@ -63,7 +63,7 @@ Indexed users: 347
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 195 |
-| 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 129 |
+| 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 131 |
 | 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou | Mali | 120 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao | Mali, Bamako | 69 |
 | 5 | [GUIND0](https://github.com/GUIND0) | Souleymane Guindo | Mali | 61 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-08T07:48:37.240Z
+Generated: 2026-10-08T08:38:03.009Z

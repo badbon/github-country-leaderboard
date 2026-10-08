@@ -1,6 +1,6 @@
 # Myanmar
 
-Indexed users: 2,094
+Indexed users: 2,093
 
 | Leaderboard | Link |
 |---|---|
@@ -49,11 +49,11 @@ Indexed users: 2,094
 | 10 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | Myanmar | 1,228 |
 | 11 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 1,153 |
 | 12 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | Muse, Shan State, Myanmar | 1,152 |
-| 13 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Taunggyi, Shan State, Myanmar | 1,091 |
-| 14 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,091 |
-| 15 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,079 |
-| 16 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 1,001 |
-| 17 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 941 |
+| 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,091 |
+| 14 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 1,079 |
+| 15 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 1,001 |
+| 16 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 941 |
+| 17 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Taunggyi, Shan State, Myanmar | 933 |
 | 18 | [TaoMonLae](https://github.com/TaoMonLae) |  | Myanmar | 920 |
 | 19 | [ThantSinTun009](https://github.com/ThantSinTun009) | Thant Sin Tun | Mandalay, Myanmar | 905 |
 | 20 | [agrogers](https://github.com/agrogers) | Andrew Rogers | Yangon, Myanmar | 841 |
@@ -83,4 +83,4 @@ Indexed users: 2,094
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-08T07:53:15.242Z
+Generated: 2026-10-08T08:40:03.299Z

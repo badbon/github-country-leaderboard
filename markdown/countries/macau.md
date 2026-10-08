@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 442
+Indexed users: 441
 
 | Leaderboard | Link |
 |---|---|
@@ -27,10 +27,10 @@ Indexed users: 442
 | 13 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,098 |
 | 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,776 |
 | 15 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,771 |
-| 16 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,642 |
-| 17 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | Macau | 1,524 |
-| 18 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,516 |
-| 19 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,294 |
+| 16 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,749 |
+| 17 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,642 |
+| 18 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | Macau | 1,524 |
+| 19 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,516 |
 | 20 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,226 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 442
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-08T07:47:42.440Z
+Generated: 2026-10-08T08:36:30.037Z

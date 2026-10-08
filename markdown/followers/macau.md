@@ -1,8 +1,8 @@
 # Followers - Macau
 
-Generated: 2026-10-08T07:47:42.440Z
+Generated: 2026-10-08T08:36:30.037Z
 
-Users: 442
+Users: 441
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

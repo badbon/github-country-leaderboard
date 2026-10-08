@@ -12,8 +12,8 @@ Indexed users: 265
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,921 |
-| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 6,904 |
+| 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,891 |
+| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 6,895 |
 | 3 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 6,816 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 6,161 |
 | 5 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Guinée, Conakry, GN | 3,519 |
@@ -50,7 +50,7 @@ Indexed users: 265
 | 11 | [popytech](https://github.com/popytech) | POPY TRAORE | Conakry | 177 |
 | 12 | [Jeanos2004](https://github.com/Jeanos2004) | Jeanos Ouamouno | Guinee-Conakry | 173 |
 | 13 | [Delamou1234](https://github.com/Delamou1234) | Samaké DELAMOU | Conakry  | 168 |
-| 14 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 168 |
+| 14 | [Kourahoye](https://github.com/Kourahoye) | Amadou Kourahoye | Conakry | 166 |
 | 15 | [amadou11doumbouya10-lgtm](https://github.com/amadou11doumbouya10-lgtm) | Amah  | Guinée. Conakry | 164 |
 | 16 | [elhadjmamadou](https://github.com/elhadjmamadou) | Elhadj Mamadou Diallo | Guinee, conakry | 147 |
 | 17 | [Abel-sangare](https://github.com/Abel-sangare) |  | Conakry | 133 |
@@ -79,8 +79,8 @@ Indexed users: 265
 | 15 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Conakry, Guinea | 23 |
 | 16 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Guinea | 21 |
 | 17 | [massazoum](https://github.com/massazoum) | Massa Zoumanigui | Guinea | 20 |
-| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | Guinée, Conakry | 16 |
+| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | Guinée, Conakry | 15 |
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-08T07:42:57.488Z
+Generated: 2026-10-08T08:29:29.348Z

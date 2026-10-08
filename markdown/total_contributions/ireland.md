@@ -1,14 +1,14 @@
 # Total Contributions - Ireland
 
-Generated: 2026-10-08T07:44:24.056Z
+Generated: 2026-10-08T08:31:10.111Z
 
 Users: 19540
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [DamianFlynn](https://github.com/DamianFlynn) | Damian Flynn | @innofactororg  | damian_flynn | Ireland | 228416 |
-| 2 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  |  |  | Pilot, ireland | 110657 |
-| 3 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman |  |  | Dublin, Ireland | 90754 |
+| 2 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman |  |  | Dublin, Ireland | 90754 |
+| 3 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  |  |  | Pilot, ireland | 74217 |
 | 4 | [levindixon](https://github.com/levindixon) | Levin Dixon | @intercom |  | Dublin, Ireland | 45006 |
 | 5 | [Leannelb](https://github.com/Leannelb) | LillyCode |  |  | Dublin, Ireland | 35008 |
 | 6 | [fourk0](https://github.com/fourk0) | fourk0 |  |  | Ireland | 24007 |

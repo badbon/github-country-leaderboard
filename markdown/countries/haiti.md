@@ -13,8 +13,8 @@ Indexed users: 338
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 5,697 |
-| 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,710 |
-| 3 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 4,545 |
+| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,506 |
+| 3 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,710 |
 | 4 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,543 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,524 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,407 |
@@ -31,7 +31,7 @@ Indexed users: 338
 | 17 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,043 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 977 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 947 |
-| 20 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 731 |
+| 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 858 |
 
 ## Public Contributions
 
@@ -63,11 +63,11 @@ Indexed users: 338
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 264 |
-| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 85 |
-| 3 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 74 |
+| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 88 |
+| 3 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 72 |
 | 4 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
 | 5 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
-| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 62 |
+| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 64 |
 | 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 58 |
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Port-au-Prince - Haiti | 56 |
@@ -83,4 +83,4 @@ Indexed users: 338
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-08T07:43:34.927Z
+Generated: 2026-10-08T08:29:40.217Z

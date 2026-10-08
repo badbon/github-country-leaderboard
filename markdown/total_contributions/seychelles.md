@@ -1,12 +1,12 @@
 # Total Contributions - Seychelles
 
-Generated: 2026-10-08T08:01:49.036Z
+Generated: 2026-10-08T08:49:12.859Z
 
-Users: 1781
+Users: 1780
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | @framebright  | ericmacdougall | Victoria, BC Canada | 17947 |
+| 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | @framebright  | ericmacdougall | Victoria, BC Canada | 31597 |
 | 2 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | @closient  | cjensen | Victoria, BC | 9357 |
 | 3 | [kwintin](https://github.com/kwintin) | Quentin |  |  | Victoria, BC | 8695 |
 | 4 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | @LoamStudios  | jeffreyguenther | Victoria, BC | 8221 |

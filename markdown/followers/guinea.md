@@ -1,6 +1,6 @@
 # Followers - Guinea
 
-Generated: 2026-10-08T07:42:57.488Z
+Generated: 2026-10-08T08:29:29.348Z
 
 Users: 265
 
@@ -23,6 +23,6 @@ Users: 265
 | 15 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Freelance | abdoulkarimbal9 | Conakry, Guinea | 23 |
 | 16 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Haven |  | Guinea | 21 |
 | 17 | [massazoum](https://github.com/massazoum) | Massa Zoumanigui | Full-Stack Developer | zoumaniguimass1 | Guinea | 20 |
-| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | IGiX |  | Guinée, Conakry | 16 |
+| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | IGiX |  | Guinée, Conakry | 15 |
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | GUB GROUP |  | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | KInnovate |  | Conakry | 13 |

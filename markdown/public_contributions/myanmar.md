@@ -1,8 +1,8 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-08T07:53:15.242Z
+Generated: 2026-10-08T08:40:03.299Z
 
-Users: 2094
+Users: 2093
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 2094
 | 10 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | The NINJA STRIKERS | Ninjastrikers | Myanmar | 1228 |
 | 11 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1153 |
 | 12 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1152 |
-| 13 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Aplus Binary |  | Taunggyi, Shan State, Myanmar | 1091 |
-| 14 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1091 |
-| 15 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1079 |
-| 16 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1001 |
-| 17 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 941 |
+| 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1091 |
+| 14 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1079 |
+| 15 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1001 |
+| 16 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 941 |
+| 17 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Aplus Binary |  | Taunggyi, Shan State, Myanmar | 933 |
 | 18 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 920 |
 | 19 | [ThantSinTun009](https://github.com/ThantSinTun009) | Thant Sin Tun |  |  | Mandalay, Myanmar | 905 |
 | 20 | [agrogers](https://github.com/agrogers) | Andrew Rogers |  |  | Yangon, Myanmar | 841 |

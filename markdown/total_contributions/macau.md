@@ -1,8 +1,8 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-08T07:47:42.440Z
+Generated: 2026-10-08T08:36:30.037Z
 
-Users: 442
+Users: 441
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 442
 | 13 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2098 |
 | 14 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1776 |
 | 15 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1771 |
-| 16 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1642 |
-| 17 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | University of Macau |  | Macau | 1524 |
-| 18 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1516 |
-| 19 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1294 |
+| 16 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1749 |
+| 17 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | University of Macau |  | Macau | 1642 |
+| 18 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | University of Macau |  | Macau | 1524 |
+| 19 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 1516 |
 | 20 | [simoniong](https://github.com/simoniong) | Simon Iong | Ksun Technology |  | Macau | 1226 |

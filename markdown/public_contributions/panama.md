@@ -1,6 +1,6 @@
 # Public Contributions - Panama
 
-Generated: 2026-10-08T08:25:43.646Z
+Generated: 2026-10-08T08:43:38.508Z
 
 Users: 1072
 
@@ -19,10 +19,10 @@ Users: 1072
 | 11 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu |  |  | Panama | 1189 |
 | 12 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Semiotic AI |  | Panama City, Panama | 1135 |
 | 13 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Toyota \| Ricardo Perez S.A. |  | Panama | 1117 |
-| 14 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Runlevel Systems |  | Panama City Beach FL | 1096 |
-| 15 | [angelnereira](https://github.com/angelnereira) | Angel Nereira |  |  | Panama | 942 |
-| 16 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 886 |
-| 17 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Jaimelías | jaimepanama | Panama City, Panama | 844 |
-| 18 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Universidad de Panamá | devdDavid507 | Santiago, Veraguas, Panamá | 793 |
-| 19 | [notSoEliel](https://github.com/notSoEliel) | Eliel García |  | soloeliel | Panama City, Panama, Panama | 793 |
-| 20 | [atebites-hub](https://github.com/atebites-hub) | atebites | blackswan.money | ate_bites | Panama | 766 |
+| 14 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Full-Stack Software Developer |  | Panama/Venezuela | 1113 |
+| 15 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Runlevel Systems |  | Panama City Beach FL | 1096 |
+| 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira |  |  | Panama | 942 |
+| 17 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 886 |
+| 18 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Jaimelías | jaimepanama | Panama City, Panama | 844 |
+| 19 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Universidad de Panamá | devdDavid507 | Santiago, Veraguas, Panamá | 793 |
+| 20 | [notSoEliel](https://github.com/notSoEliel) | Eliel García |  | soloeliel | Panama City, Panama, Panama | 793 |

@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-08T07:49:23.563Z
+Generated: 2026-10-08T08:38:53.282Z
 
 Users: 719
 
@@ -22,7 +22,7 @@ Users: 719
 | 14 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |
 | 15 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 3083 |
 | 16 | [asitrakah](https://github.com/asitrakah) | Sitraka Andrianarisoa |  |  | Grand Baie, Mauritius | 2965 |
-| 17 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
-| 18 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
-| 19 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
-| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 2496 |
+| 17 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Redstoneinvente Game Studio | Redstoneinvente | Mauritius | 2644 |
+| 18 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
+| 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
+| 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |

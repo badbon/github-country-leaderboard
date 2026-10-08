@@ -1,8 +1,8 @@
 # Public Contributions - Nigeria
 
-Generated: 2026-10-08T07:54:05.981Z
+Generated: 2026-10-08T08:41:17.724Z
 
-Users: 33075
+Users: 33073
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,14 +12,14 @@ Users: 33075
 | 4 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe |  | Devineishuman | Lagos, Nigeria. | 11857 |
 | 5 | [Mid-D-Man](https://github.com/Mid-D-Man) | AbdulHamid Mamman Suleiman  | MidManStudio | Abdulhamid_Mman | Nigeria | 8729 |
 | 6 | [samkiell](https://github.com/samkiell) | Samuel Ezekiel  | SAMKIEL | samkiel_dev | Ile Ife, Osun State, Nigeria. | 8039 |
-| 7 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | 🎯 DICES |  | Lagos, Nigeria | 6809 |
-| 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Infoscert |  | Lagos, Nigeria | 6755 |
-| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Electrical & Electronics Engineer | Oluwatobiui | Ibadan, Nigeria | 6318 |
-| 10 | [Xaxxoo](https://github.com/Xaxxoo) |  |  | xaxxoo | Nigeria | 6151 |
-| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo |  | anuafolami_ | Akure, Nigeria | 6049 |
-| 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie |  | officialhomie_ | Lagos, Nigeria | 5789 |
-| 13 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange |  | CollinsCaxton4 | Nigeria | 5675 |
-| 14 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | East-forte-fabrications-and-equipments  |  | Nigeria  | 5466 |
+| 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | East-forte-fabrications-and-equipments  |  | Nigeria  | 7029 |
+| 8 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | 🎯 DICES |  | Lagos, Nigeria | 6809 |
+| 9 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Infoscert |  | Lagos, Nigeria | 6755 |
+| 10 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Electrical & Electronics Engineer | Oluwatobiui | Ibadan, Nigeria | 6318 |
+| 11 | [Xaxxoo](https://github.com/Xaxxoo) |  |  | xaxxoo | Nigeria | 6151 |
+| 12 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo |  | anuafolami_ | Akure, Nigeria | 6049 |
+| 13 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie |  | officialhomie_ | Lagos, Nigeria | 5789 |
+| 14 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange |  | CollinsCaxton4 | Nigeria | 5675 |
 | 15 | [DevMuktary](https://github.com/DevMuktary) | MUKTAR ABDULWAHEED | QUADROX TECHNOLOGIES LIMITED |  | Nigeria 🇳🇬  | 5169 |
 | 16 | [xt42io](https://github.com/xt42io) | Akinkunmi |  |  | Nigeria | 5016 |
 | 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu |  |  | Nigeria | 4979 |

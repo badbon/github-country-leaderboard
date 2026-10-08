@@ -56,7 +56,7 @@ Indexed users: 6,632
 | 17 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
 | 18 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
 | 19 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
-| 20 | [soukigabriel](https://github.com/soukigabriel) | Gabriel Souki Hernandez | Anzoategui, Venezuela | 1,535 |
+| 20 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá | Venezuela | 1,579 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,632
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-08T08:09:27.894Z
+Generated: 2026-10-08T08:56:51.764Z

@@ -1,6 +1,6 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-08T07:46:54.132Z
+Generated: 2026-10-08T08:55:44.115Z
 
 Users: 3281
 
@@ -13,9 +13,9 @@ Users: 3281
 | 5 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis |  |  | Latvia, Europe | 2851 |
 | 6 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 2465 |
 | 7 | [mscbuild](https://github.com/mscbuild) | Yuri Dev |  𝒥ℛ🇯🇷   |  | Latvia (Europe) | 2419 |
-| 8 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 1858 |
-| 9 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1820 |
-| 10 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin |  |  | Latvija, Riga | 1653 |
+| 8 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin |  |  | Latvija, Riga | 2098 |
+| 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 1858 |
+| 10 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1820 |
 | 11 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1634 |
 | 12 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq |  |  | Riga, Latvia | 1551 |
 | 13 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 1507 |

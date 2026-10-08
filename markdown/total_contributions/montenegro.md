@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-08T07:51:50.121Z
+Generated: 2026-10-08T08:39:44.797Z
 
 Users: 904
 
@@ -15,13 +15,13 @@ Users: 904
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić |  |  | Podgorica, Montenegro | 5795 |
 | 8 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5675 |
 | 9 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 5630 |
-| 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5099 |
-| 11 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4940 |
-| 12 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 4842 |
-| 13 | [dmitriikapustin](https://github.com/dmitriikapustin) | Dmitrii Kapustin | kapustin.team |  | Montenegro | 4638 |
-| 14 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4614 |
-| 15 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4101 |
-| 16 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 4025 |
+| 10 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5168 |
+| 11 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5099 |
+| 12 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4940 |
+| 13 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 4842 |
+| 14 | [dmitriikapustin](https://github.com/dmitriikapustin) | Dmitrii Kapustin | kapustin.team |  | Montenegro | 4638 |
+| 15 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4614 |
+| 16 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4101 |
 | 17 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 3765 |
 | 18 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 3639 |
 | 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 3561 |

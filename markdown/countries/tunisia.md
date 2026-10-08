@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,201
+Indexed users: 7,199
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 7,201
 | 19 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 477 |
 | 20 | [jassercherif](https://github.com/jassercherif) | jasser cherif | Kelibia, Nabeul, Tunisia | 469 |
 
-Generated: 2026-10-08T08:07:56.901Z
+Generated: 2026-10-08T08:54:48.948Z

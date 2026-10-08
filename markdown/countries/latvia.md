@@ -44,9 +44,9 @@ Indexed users: 3,281
 | 5 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis | Latvia, Europe | 2,851 |
 | 6 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 2,465 |
 | 7 | [mscbuild](https://github.com/mscbuild) | Yuri Dev | Latvia (Europe) | 2,419 |
-| 8 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
-| 9 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
-| 10 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 1,653 |
+| 8 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
+| 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
+| 10 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
 | 11 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,634 |
 | 12 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq | Riga, Latvia | 1,551 |
 | 13 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
@@ -83,4 +83,4 @@ Indexed users: 3,281
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-08T07:46:54.132Z
+Generated: 2026-10-08T08:55:44.115Z

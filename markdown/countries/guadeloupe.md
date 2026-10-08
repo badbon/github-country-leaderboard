@@ -22,10 +22,10 @@ Indexed users: 87
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 935 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 672 |
 | 10 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
-| 11 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 615 |
-| 12 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 591 |
+| 11 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 617 |
+| 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 615 |
 | 13 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 566 |
-| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 450 |
+| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
 | 15 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
 | 16 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 180 |
 | 17 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
@@ -40,7 +40,7 @@ Indexed users: 87
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,387 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 3 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 488 |
-| 4 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 450 |
+| 4 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
 | 5 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 303 |
 | 6 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
 | 7 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-08T07:41:47.134Z
+Generated: 2026-10-08T08:29:01.806Z

@@ -21,11 +21,11 @@ Indexed users: 3,872
 | 7 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
 | 8 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
 | 9 | [MartinKalema](https://github.com/MartinKalema) | Martin Kalema | Kampala, Uganda. | 8,269 |
-| 10 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 11 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
-| 12 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,555 |
-| 13 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,428 |
-| 14 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,423 |
+| 10 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 11 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 12 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
+| 13 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,555 |
+| 14 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,428 |
 | 15 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 7,031 |
 | 16 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | Uganda kampala | 6,956 |
 | 17 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,942 |
@@ -37,7 +37,7 @@ Indexed users: 3,872
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,423 |
+| 1 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 | 2 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
 | 3 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
 | 4 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,312 |
@@ -46,7 +46,7 @@ Indexed users: 3,872
 | 7 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,995 |
 | 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,859 |
 | 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,776 |
-| 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,624 |
+| 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
 | 11 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
 | 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
 | 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
@@ -70,17 +70,17 @@ Indexed users: 3,872
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 540 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 510 |
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 391 |
-| 9 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 329 |
-| 10 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | Kampala | 327 |
-| 11 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 326 |
+| 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 330 |
+| 10 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 329 |
+| 11 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | Kampala | 327 |
 | 12 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 323 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | KAMPALA, UGANDA | 315 |
 | 14 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Kampala, Uganda | 296 |
 | 15 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 288 |
 | 16 | [kbjude](https://github.com/kbjude) | kbjude | Kampala | 218 |
-| 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 215 |
-| 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Kampala | 214 |
+| 17 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Kampala | 214 |
+| 18 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 209 |
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-08T08:08:29.155Z
+Generated: 2026-10-08T08:56:02.286Z

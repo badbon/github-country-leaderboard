@@ -1,6 +1,6 @@
 # Kyrgyzstan
 
-Indexed users: 2,458
+Indexed users: 2,457
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 2,458
 | 17 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
 | 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
 | 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,615 |
-| 20 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,390 |
+| 20 | [AlikhanKubatbekov](https://github.com/AlikhanKubatbekov) | Kubatbekov Alikhan | Bishkek, Kyrgyzstan | 3,430 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,458
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-08T07:46:46.989Z
+Generated: 2026-10-08T08:34:22.115Z

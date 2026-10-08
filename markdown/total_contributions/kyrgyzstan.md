@@ -1,8 +1,8 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-08T07:46:46.989Z
+Generated: 2026-10-08T08:34:22.115Z
 
-Users: 2458
+Users: 2457
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 2458
 | 17 | [timplifier](https://github.com/timplifier) | timplifier雨 | @Timbermir |  | Bishkek | 4042 |
 | 18 | [P5ina](https://github.com/P5ina) | Timur Turatbekov |  |  | Kyrgyzstan, Bishkek | 3873 |
 | 19 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | @fastronome |  | Bishkek, Kyrgyz Republic | 3615 |
-| 20 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyz State Technical University  |  | Kyrgyzstan | 3390 |
+| 20 | [AlikhanKubatbekov](https://github.com/AlikhanKubatbekov) | Kubatbekov Alikhan | K-Rose IT Solutions |  | Bishkek, Kyrgyzstan | 3430 |

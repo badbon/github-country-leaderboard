@@ -13,8 +13,8 @@ Indexed users: 19,540
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [DamianFlynn](https://github.com/DamianFlynn) | Damian Flynn | Ireland | 228,416 |
-| 2 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  | Pilot, ireland | 110,657 |
-| 3 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman | Dublin, Ireland | 90,754 |
+| 2 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman | Dublin, Ireland | 90,754 |
+| 3 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  | Pilot, ireland | 74,217 |
 | 4 | [levindixon](https://github.com/levindixon) | Levin Dixon | Dublin, Ireland | 45,006 |
 | 5 | [Leannelb](https://github.com/Leannelb) | LillyCode | Dublin, Ireland | 35,008 |
 | 6 | [fourk0](https://github.com/fourk0) | fourk0 | Ireland | 24,007 |
@@ -37,8 +37,8 @@ Indexed users: 19,540
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  | Pilot, ireland | 110,657 |
-| 2 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman | Dublin, Ireland | 90,754 |
+| 1 | [rorygoodman](https://github.com/rorygoodman) | Rory Goodman | Dublin, Ireland | 90,754 |
+| 2 | [Tevrinyjmbj6](https://github.com/Tevrinyjmbj6) |  | Pilot, ireland | 74,217 |
 | 3 | [levindixon](https://github.com/levindixon) | Levin Dixon | Dublin, Ireland | 45,006 |
 | 4 | [fourk0](https://github.com/fourk0) | fourk0 | Ireland | 23,244 |
 | 5 | [rjrodger](https://github.com/rjrodger) | Richard Rodger | Ireland | 18,498 |
@@ -83,4 +83,4 @@ Indexed users: 19,540
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-08T07:44:24.056Z
+Generated: 2026-10-08T08:31:10.111Z

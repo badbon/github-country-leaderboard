@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-08T07:53:18.551Z
+Generated: 2026-10-08T08:40:28.367Z
 
 Users: 475
 
@@ -15,7 +15,7 @@ Users: 475
 | 7 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | @Absynth-Tech  |  | namibia,Africa | 4508 |
 | 8 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach |  |  | Namibia | 3998 |
 | 9 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | @nzzdev @meyabase @silosset | axelmukwena | Namibia | 3679 |
-| 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | LeoDynamics Group (PTY) LTD | SirLeon14 | Namibia, Windhoek | 2498 |
+| 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Cyberdyne Investments cc | SirLeon14 | Namibia, Windhoek | 3012 |
 | 11 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 2411 |
 | 12 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 2317 |
 | 13 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2183 |

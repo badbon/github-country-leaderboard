@@ -21,16 +21,16 @@ Indexed users: 1,072
 | 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 11,958 |
 | 8 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 9,755 |
 | 9 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,083 |
-| 10 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 7,392 |
-| 11 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
-| 12 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
-| 13 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
-| 14 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 5,687 |
-| 15 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
-| 16 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
-| 17 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
-| 18 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 4,706 |
-| 19 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 4,681 |
+| 10 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,433 |
+| 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 7,392 |
+| 12 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
+| 13 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
+| 14 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
+| 15 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 5,687 |
+| 16 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
+| 17 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
+| 18 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
+| 19 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 4,706 |
 | 20 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 4,655 |
 
 ## Public Contributions
@@ -50,13 +50,13 @@ Indexed users: 1,072
 | 11 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,189 |
 | 12 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,135 |
 | 13 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,117 |
-| 14 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
-| 15 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
-| 16 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
-| 17 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
-| 18 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
-| 19 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
-| 20 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 766 |
+| 14 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,113 |
+| 15 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
+| 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
+| 17 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
+| 18 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
+| 19 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
+| 20 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-08T08:25:43.646Z
+Generated: 2026-10-08T08:43:38.508Z

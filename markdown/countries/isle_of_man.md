@@ -14,7 +14,7 @@ Indexed users: 155
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,233 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 9,946 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 5,231 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 6,492 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,458 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,415 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
@@ -29,16 +29,16 @@ Indexed users: 155
 | 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,232 |
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,198 |
 | 17 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,198 |
-| 18 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,061 |
-| 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,060 |
+| 18 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,060 |
+| 19 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,038 |
 | 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,020 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 2,796 |
-| 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 917 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 3,982 |
+| 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 894 |
 | 3 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 721 |
 | 4 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 718 |
 | 5 | [torquuato](https://github.com/torquuato) |  | Isle of Man | 557 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-08T07:44:33.189Z
+Generated: 2026-10-08T08:31:33.490Z

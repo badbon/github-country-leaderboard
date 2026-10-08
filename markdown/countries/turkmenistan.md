@@ -65,7 +65,7 @@ Indexed users: 498
 | 1 | [Kemalstudio](https://github.com/Kemalstudio) | Kemal Atayev | Turkmenistan / Ashgabat | 252 |
 | 2 | [evgeniy-dammer](https://github.com/evgeniy-dammer) | Evgeniy Dammer | Ashgabad, Turkmenistan | 170 |
 | 3 | [MaysaShad](https://github.com/MaysaShad) |  | Ashgabat | 148 |
-| 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew | Turkmenistan | 142 |
+| 4 | [saggeldi](https://github.com/saggeldi) | Shageldi Alyyew | Turkmenistan | 140 |
 | 5 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 108 |
 | 6 | [octonet29](https://github.com/octonet29) | Gulbahar | Ashgabat, Turkmenistan | 105 |
 | 7 | [narlyyev](https://github.com/narlyyev) | Arslan Narlyyev | Turkmenistan, Ashgabat | 97 |
@@ -75,12 +75,12 @@ Indexed users: 498
 | 11 | [romanamangeldiev](https://github.com/romanamangeldiev) | Roman Amangeldiev | Turkmenistan | 87 |
 | 12 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 85 |
 | 13 | [hypergadam](https://github.com/hypergadam) | Gadam Jumayev | Ashgabat, Turkmenistan | 81 |
-| 14 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov | Turkmenistan | 75 |
-| 15 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 75 |
-| 16 | [Kesha005](https://github.com/Kesha005) | Kerimberdi Saparow | Turkmenistan | 72 |
+| 14 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 75 |
+| 15 | [Kesha005](https://github.com/Kesha005) | Kerimberdi Saparow | Turkmenistan | 72 |
+| 16 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov | Turkmenistan | 71 |
 | 17 | [mergenchik](https://github.com/mergenchik) | Mergen AGAYEV | Ashgabat, Turkmenistan | 67 |
 | 18 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 67 |
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-08T08:08:22.846Z
+Generated: 2026-10-08T08:55:51.459Z

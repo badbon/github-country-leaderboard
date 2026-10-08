@@ -1,6 +1,6 @@
 # Total Contributions - Kenya
 
-Generated: 2026-10-08T08:05:26.844Z
+Generated: 2026-10-08T08:32:40.293Z
 
 Users: 24028
 
@@ -15,7 +15,7 @@ Users: 24028
 | 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
 | 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Datacraft |  | Nairobi | 35536 |
 | 9 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 34624 |
-| 10 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | xcasper.space |  | Nairobi, Kenya | 22435 |
+| 10 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | xcasper.space |  | Nairobi, Kenya | 21856 |
 | 11 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | FINTECH-GROUP | alexkemboi97 | Nairobi-Kenya | 21658 |
 | 12 | [nedmoeca](https://github.com/nedmoeca) | TERRENCE M.K |  | nedmoeca | Nairobi, Kenya | 20631 |
 | 13 | [peterjuma](https://github.com/peterjuma) | Peter Juma | @github |  | Nairobi | 19674 |

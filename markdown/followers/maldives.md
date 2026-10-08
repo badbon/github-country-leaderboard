@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-08T07:48:32.772Z
+Generated: 2026-10-08T08:36:56.901Z
 
 Users: 355
 
@@ -14,7 +14,7 @@ Users: 355
 | 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | @baivaru | eyaadh | Maldives | 101 |
 | 7 | [raftalks](https://github.com/raftalks) | Raf |  |  | Maldives | 88 |
 | 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 86 |
-| 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam |  | aharen | Malé, Maldives | 80 |
+| 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam |  | aharen | Malé, Maldives | 79 |
 | 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX |  | Z3d0X | Maldives | 79 |
 | 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau |  |  | Maldives | 71 |
 | 12 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 67 |
@@ -23,6 +23,6 @@ Users: 355
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 58 |
 | 16 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | @HelloWoldMV @pension  |  | Maldives | 46 |
 | 17 | [mohamed-azhar](https://github.com/mohamed-azhar) | Mohamed Azhar | State Trading Organization Plc | _moaz__ | Maldives | 44 |
-| 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood |  |  | Thulhaadhoo, Maldives | 41 |
+| 18 | [ameer1234567890](https://github.com/ameer1234567890) | Ameer Dawood |  |  | Thulhaadhoo, Maldives | 42 |
 | 19 | [Dharisd](https://github.com/Dharisd) |  | synetecs |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | @LottieFiles | monde_ | Maldives | 41 |
