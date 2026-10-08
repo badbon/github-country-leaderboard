@@ -49,9 +49,9 @@ Indexed users: 905
 | 10 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 921 |
 | 11 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 895 |
 | 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 881 |
-| 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
-| 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
-| 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 743 |
+| 13 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 851 |
+| 14 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 839 |
+| 15 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 750 |
 | 16 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 649 |
 | 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 609 |
 | 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
@@ -83,4 +83,4 @@ Indexed users: 905
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 66 |
 
-Generated: 2026-10-08T10:41:30.093Z
+Generated: 2026-10-08T16:18:33.353Z

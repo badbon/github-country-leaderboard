@@ -1,8 +1,8 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-08T10:40:38.416Z
+Generated: 2026-10-08T16:41:34.862Z
 
-Users: 728
+Users: 730
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 728
 | 17 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 3171 |
 | 18 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3169 |
 | 19 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf |  | vi0at | Bahrain | 3168 |
-| 20 | [amali01](https://github.com/amali01) | Amjad Ali |  |  | Bahrain | 2565 |
+| 20 | [haroonabidawan](https://github.com/haroonabidawan) | Haroon Abid | Nordic Holdings |  | Manama | 2750 |

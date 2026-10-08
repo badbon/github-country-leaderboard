@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-08T10:36:42.059Z
+Generated: 2026-10-08T16:13:36.473Z
 
 Users: 1191
 
@@ -19,10 +19,10 @@ Users: 1191
 | 11 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 5493 |
 | 12 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4670 |
 | 13 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4411 |
-| 14 | [jozefini](https://github.com/jozefini) | Jozefin B. | @codja  |  | Albania | 4164 |
-| 15 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 4094 |
-| 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4078 |
-| 17 | [ElisBushaj](https://github.com/ElisBushaj) |  |  |  | Albania | 3755 |
-| 18 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 3655 |
+| 14 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 4257 |
+| 15 | [jozefini](https://github.com/jozefini) | Jozefin B. | @codja  |  | Albania | 4164 |
+| 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 4094 |
+| 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4078 |
+| 18 | [ElisBushaj](https://github.com/ElisBushaj) |  |  |  | Albania | 3755 |
 | 19 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 3647 |
 | 20 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi |  |  | Tirana, Albania | 3619 |

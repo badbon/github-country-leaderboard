@@ -77,10 +77,10 @@ Indexed users: 3,231
 | 13 | [ericknavarro](https://github.com/ericknavarro) | Erick Navarro | Guatemala | 159 |
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | Guatemala | 136 |
 | 15 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | Guatemala | 134 |
-| 16 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop | Guatemala | 124 |
-| 17 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Guatemala | 124 |
+| 16 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Guatemala | 125 |
+| 17 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop | Guatemala | 124 |
 | 18 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Guatemala | 123 |
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-08T10:52:57.544Z
+Generated: 2026-10-08T16:35:49.969Z

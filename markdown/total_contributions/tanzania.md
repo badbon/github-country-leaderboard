@@ -1,13 +1,13 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-08T10:31:03.473Z
+Generated: 2026-10-08T16:06:22.339Z
 
 Users: 2046
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | SEWMR Technologies | sewmrtechnology | Arusha, Tanzania  | 128021 |
-| 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 92238 |
+| 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program | University of Dar es Salaam |  |  Dar-es-salaam, Tanzania | 123960 |
 | 3 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Neurotech HQ |  | Mbeya,Tanzania | 25054 |
 | 4 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy |  |  | Tanzania | 20806 |
 | 5 | [dawillygene](https://github.com/dawillygene) | Dawilly gene | DODOMA UNIVERSITY |  | DODOMA | 19842 |
@@ -17,12 +17,12 @@ Users: 2046
 | 9 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 13423 |
 | 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 12163 |
 | 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 8880 |
-| 12 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
-| 13 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
-| 14 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |
-| 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 6435 |
-| 16 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 6399 |
-| 17 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 6324 |
-| 18 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 6287 |
-| 19 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 6167 |
-| 20 | [fmwasekaga](https://github.com/fmwasekaga) | Fredrick Lusako Mwasekaga | kagaconnect |  | Tanzania | 6132 |
+| 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
+| 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
+| 14 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
+| 15 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
+| 16 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |
+| 17 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 6435 |
+| 18 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | @KwaWingu | TheCollinsByte | Arusha, Tanzania | 6399 |
+| 19 | [Jeccoman](https://github.com/Jeccoman) | Man  Offline |  |  | Tanzania  | 6330 |
+| 20 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | @appziro  |  | Dar Es Salaam,Tanzania | 6287 |

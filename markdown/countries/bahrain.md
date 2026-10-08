@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 728
+Indexed users: 730
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 728
 | 17 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,171 |
 | 18 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,169 |
 | 19 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
-| 20 | [amali01](https://github.com/amali01) | Amjad Ali | Bahrain | 2,565 |
+| 20 | [haroonabidawan](https://github.com/haroonabidawan) | Haroon Abid | Manama | 2,750 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-08T10:40:38.416Z
+Generated: 2026-10-08T16:41:34.862Z

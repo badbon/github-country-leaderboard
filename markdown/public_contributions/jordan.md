@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-08T10:54:51.985Z
+Generated: 2026-10-08T16:41:45.364Z
 
 Users: 4022
 
@@ -17,12 +17,12 @@ Users: 4022
 | 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 2587 |
 | 10 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | KeyLife Electronics | AmroKSaleh | Jordan | 2052 |
 | 11 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | @quenchworks, @withrawi,@IbdaaiCloud, @qawnapp, @cirrusgo |  | Amman, Jordan | 1938 |
-| 12 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 1537 |
-| 13 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1409 |
-| 14 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1352 |
-| 15 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1340 |
-| 16 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |
-| 17 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 1129 |
-| 18 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |
-| 19 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad |  |  | Amman, Jordan | 1071 |
-| 20 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 1050 |
+| 12 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari |  |  | Jordan | 1783 |
+| 13 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 1537 |
+| 14 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1409 |
+| 15 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1352 |
+| 16 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1340 |
+| 17 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |
+| 18 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 1129 |
+| 19 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |
+| 20 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad |  |  | Amman, Jordan | 1071 |

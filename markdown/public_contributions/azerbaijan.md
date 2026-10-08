@@ -1,6 +1,6 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-08T10:39:39.228Z
+Generated: 2026-10-08T16:17:39.790Z
 
 Users: 5096
 
@@ -18,11 +18,11 @@ Users: 5096
 | 10 | [sadigaxund](https://github.com/sadigaxund) | Sadig Akhund | ADA & George Washington University | sadigaxund | Baku, Azerbaijan | 2988 |
 | 11 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev |  |  | Baku | 2729 |
 | 12 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | XalqBank |  | Azerbaijan , Baku . | 2508 |
-| 13 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev |  |  | Baku | 2290 |
-| 14 | [Aytac21](https://github.com/Aytac21) | Aytac Mehdizadə |  |  | Baku | 2082 |
-| 15 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev |  | Aladddinaliyev | Azerbaijan,Baku | 2050 |
-| 16 | [Semedw](https://github.com/Semedw) | Samad Musazade |  |  | Azerbaijan | 2033 |
-| 17 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann |  |  | Azerbaijan | 1989 |
-| 18 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | MBZUAI  |  | Baku  | 1983 |
-| 19 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Open to work |  | Baku, Azerbaijan | 1897 |
-| 20 | [subhangadirli](https://github.com/subhangadirli) | Subhan Gadirli | JK Holding |  | Sumgayit, Azerbaijan | 1803 |
+| 13 | [kenanqafarov](https://github.com/kenanqafarov) | Kenan Qafarov | Enthuzone |  | Baku, Azerbaijan | 2493 |
+| 14 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev |  |  | Baku | 2290 |
+| 15 | [Aytac21](https://github.com/Aytac21) | Aytac Mehdizadə |  |  | Baku | 2082 |
+| 16 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev |  | Aladddinaliyev | Azerbaijan,Baku | 2050 |
+| 17 | [Semedw](https://github.com/Semedw) | Samad Musazade |  |  | Azerbaijan | 2033 |
+| 18 | [TheSarKhan](https://github.com/TheSarKhan) | SarKhann |  |  | Azerbaijan | 1989 |
+| 19 | [omar07ibrahim](https://github.com/omar07ibrahim) | Omar Ibrahim  | MBZUAI  |  | Baku  | 1983 |
+| 20 | [MuradAgamedov](https://github.com/MuradAgamedov) | Murad Agamedov | Open to work |  | Baku, Azerbaijan | 1897 |

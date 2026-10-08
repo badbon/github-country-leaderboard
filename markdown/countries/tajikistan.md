@@ -28,7 +28,7 @@ Indexed users: 705
 | 14 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,941 |
 | 15 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Tajikistan | 2,856 |
 | 16 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,665 |
-| 17 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,583 |
+| 17 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,644 |
 | 18 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | Tajikistan | 2,555 |
 | 19 | [nuriddinshahobov2001](https://github.com/nuriddinshahobov2001) | Nuriddin Shahobov | Tajikistan, Sugd | 2,520 |
 | 20 | [zafardeveloper](https://github.com/zafardeveloper) | Zafar Bobojonov | Tajikistan | 2,503 |
@@ -83,4 +83,4 @@ Indexed users: 705
 | 19 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 | 20 | [GholibjonMadiyarov](https://github.com/GholibjonMadiyarov) | Gholibjon | Tajikistan | 47 |
 
-Generated: 2026-10-08T10:30:59.537Z
+Generated: 2026-10-08T16:04:46.646Z

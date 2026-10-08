@@ -1,15 +1,15 @@
 # Public Contributions - Uzbekistan
 
-Generated: 2026-10-08T10:34:47.372Z
+Generated: 2026-10-08T16:11:11.147Z
 
-Users: 9509
+Users: 9508
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | IT Park |  | Uzbekistan | 194722 |
 | 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Individual Developer |  | Uzbekistan | 144835 |
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Umars_Dev |  | Uzbekistan | 74895 |
-| 4 | [xcrpty7](https://github.com/xcrpty7) |  |  |  | Tashkent, Uzbekistan | 29033 |
+| 4 | [xcrpty7](https://github.com/xcrpty7) |  |  |  | Tashkent, Uzbekistan | 29075 |
 | 5 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | Accord, Accord print |  | in Tashkent | 11695 |
 | 6 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov |  |  | Samarkand, Uzbekistan | 10731 |
 | 7 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | IT-PARK |  | Xonqa, Xorazm, Uzbekistan | 10001 |

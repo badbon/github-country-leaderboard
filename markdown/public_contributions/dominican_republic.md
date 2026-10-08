@@ -1,13 +1,13 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-08T10:46:30.567Z
+Generated: 2026-10-08T16:29:37.407Z
 
 Users: 3312
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kaioken](https://github.com/kaioken) | Max Castro | @mctekk |  | Dominican Republic | 11393 |
-| 2 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5476 |
+| 2 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
 | 3 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 5369 |
 | 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez |  |  | Dominican Republic | 3848 |
 | 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega |  |  | Santo Domingo, Dominican Republic | 3159 |

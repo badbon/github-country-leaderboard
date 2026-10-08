@@ -31,7 +31,7 @@ Indexed users: 483
 | 17 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,355 |
 | 18 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,326 |
 | 19 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 1,213 |
-| 20 | [rxzkie](https://github.com/rxzkie) |  | Ouagadougou, Burkina Faso | 1,068 |
+| 20 | [rikudosama](https://github.com/rikudosama) | Lengam jean bonaventure | Ouagadougou, Burkina Faso | 1,162 |
 
 ## Public Contributions
 
@@ -75,7 +75,7 @@ Indexed users: 483
 | 11 | [Kidchris](https://github.com/Kidchris) | Kidchris | Ouagadougou, Burkina Faso | 64 |
 | 12 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 64 |
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 57 |
-| 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 53 |
+| 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 50 |
 | 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 47 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 41 |
@@ -83,4 +83,4 @@ Indexed users: 483
 | 19 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 38 |
 | 20 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 
-Generated: 2026-10-08T10:43:24.974Z
+Generated: 2026-10-08T16:21:59.272Z

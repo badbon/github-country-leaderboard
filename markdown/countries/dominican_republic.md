@@ -26,9 +26,9 @@ Indexed users: 3,312
 | 12 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
 | 13 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 5,892 |
 | 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
-| 15 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya | Dominican Republic | 5,486 |
-| 16 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git | Dominican Republic | 5,478 |
-| 17 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,476 |
+| 15 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
+| 16 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya | Dominican Republic | 5,486 |
+| 17 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git | Dominican Republic | 5,478 |
 | 18 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 5,442 |
 | 19 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 5,369 |
 | 20 | [mmonteagudo](https://github.com/mmonteagudo) | Manuel Monteagudo | Dominican Republic | 5,295 |
@@ -38,7 +38,7 @@ Indexed users: 3,312
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 11,393 |
-| 2 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,476 |
+| 2 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
 | 3 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 5,369 |
 | 4 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 3,848 |
 | 5 | [Portegaperalta](https://github.com/Portegaperalta) | pablortega | Santo Domingo, Dominican Republic | 3,159 |
@@ -83,4 +83,4 @@ Indexed users: 3,312
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-08T10:46:30.567Z
+Generated: 2026-10-08T16:29:37.407Z

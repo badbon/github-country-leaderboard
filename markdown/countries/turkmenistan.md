@@ -54,7 +54,7 @@ Indexed users: 497
 | 15 | [aynazar-sylyyew-dev](https://github.com/aynazar-sylyyew-dev) | TheAýnazarSylyýew | Turkmenistan | 399 |
 | 16 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 366 |
 | 17 | [richxcame](https://github.com/richxcame) | Baygeldi Cholukov | Turkmenistan | 330 |
-| 18 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 330 |
+| 18 | [wepashka](https://github.com/wepashka) | Vepa Sabyrow | Ashgabat | 294 |
 | 19 | [leonid-belousov](https://github.com/leonid-belousov) | Leonid | Turkmenistan Ashgabat | 269 |
 | 20 | [Jemsit0300](https://github.com/Jemsit0300) | Jemşit BAHADUROW | Turkmenistan | 236 |
 
@@ -83,4 +83,4 @@ Indexed users: 497
 | 19 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 | 20 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 64 |
 
-Generated: 2026-10-08T10:34:04.539Z
+Generated: 2026-10-08T16:07:11.499Z

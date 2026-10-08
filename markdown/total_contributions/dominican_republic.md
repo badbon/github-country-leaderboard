@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-08T10:46:30.567Z
+Generated: 2026-10-08T16:29:37.407Z
 
 Users: 3312
 
@@ -20,9 +20,9 @@ Users: 3312
 | 12 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
 | 13 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |
 | 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
-| 15 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
-| 16 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git |  |  | Dominican Republic | 5478 |
-| 17 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5476 |
+| 15 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
+| 16 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
+| 17 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git |  |  | Dominican Republic | 5478 |
 | 18 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 5442 |
 | 19 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 5369 |
 | 20 | [mmonteagudo](https://github.com/mmonteagudo) | Manuel Monteagudo | Edal Solutions |  | Dominican Republic | 5295 |

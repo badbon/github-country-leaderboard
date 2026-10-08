@@ -1,6 +1,6 @@
 # Followers - Greenland
 
-Generated: 2026-10-08T10:51:37.683Z
+Generated: 2026-10-08T16:35:33.962Z
 
 Users: 59
 
@@ -20,7 +20,7 @@ Users: 59
 | 12 | [pierreminik](https://github.com/pierreminik) | Pierre Minik Lynge | Code Bureau ApS | pierreminik | Kalaallit Nunaat (Greenland) | 23 |
 | 13 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland Business School |  | Greenland | 16 |
 | 14 | [zhaoxieluoke](https://github.com/zhaoxieluoke) | 朝些罗可 | FT |  | Greenland,Earth | 15 |
-| 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 11 |
+| 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 12 |
 | 16 | [qovero](https://github.com/qovero) |  | Nukissiorfiit |  | Nuuk, Greenland | 11 |
 | 17 | [piaere](https://github.com/piaere) | piære |  | piaere | greenland | 10 |
 | 18 | [yuzujam](https://github.com/yuzujam) | yuzujam |  | yuzujam | Nuuk,Greenland | 10 |

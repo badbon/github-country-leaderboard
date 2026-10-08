@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-08T10:30:59.537Z
+Generated: 2026-10-08T16:04:46.646Z
 
 Users: 705
 
@@ -22,7 +22,7 @@ Users: 705
 | 14 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2941 |
 | 15 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 2856 |
 | 16 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Kavsar Academy |  | Tajikistan | 2665 |
-| 17 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2583 |
+| 17 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2644 |
 | 18 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2555 |
 | 19 | [nuriddinshahobov2001](https://github.com/nuriddinshahobov2001) | Nuriddin Shahobov | TAJSOFT TJ && DOODLE.TJ |  | Tajikistan, Sugd | 2520 |
 | 20 | [zafardeveloper](https://github.com/zafardeveloper) | Zafar Bobojonov |  |  | Tajikistan | 2503 |

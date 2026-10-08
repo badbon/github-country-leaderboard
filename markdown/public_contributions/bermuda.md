@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-08T10:41:30.093Z
+Generated: 2026-10-08T16:18:33.353Z
 
 Users: 905
 
@@ -18,9 +18,9 @@ Users: 905
 | 10 | [wesbos](https://github.com/wesbos) | Wes Bos | me | wesbos | Hamilton, Ontario | 921 |
 | 11 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 895 |
 | 12 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam |  |  | Hamilton Ontario | 881 |
-| 13 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 839 |
-| 14 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 750 |
-| 15 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 743 |
+| 13 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe |  |  | Hamilton, Ontario | 851 |
+| 14 | [nvelden](https://github.com/nvelden) |  |  |  | Hamilton, Bermuda | 839 |
+| 15 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 750 |
 | 16 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 649 |
 | 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 609 |
 | 18 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 605 |

@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-08T10:43:03.211Z
+Generated: 2026-10-08T16:20:21.813Z
 
 Users: 534
 
@@ -23,6 +23,6 @@ Users: 534
 | 15 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo |  | samuel_kabelo | Gaborone Botswana | 39 |
 | 16 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Xavier Africa Technologies - @Xavier-Botswana  | godwil1monthe | Gaborone, Botswana | 35 |
 | 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 35 |
-| 18 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 33 |
-| 19 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe |  | keabetswe_cliff | Gaborone, Botswana | 33 |
-| 20 | [WapaEdzani](https://github.com/WapaEdzani) | Mr Edzani Wapa Omogolo |  |  | Gaborone, Botswana | 33 |
+| 18 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 34 |
+| 19 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 33 |
+| 20 | [kcee01](https://github.com/kcee01) | Cliff Keabetswe |  | keabetswe_cliff | Gaborone, Botswana | 33 |

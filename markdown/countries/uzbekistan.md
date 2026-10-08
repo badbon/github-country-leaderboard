@@ -1,6 +1,6 @@
 # Uzbekistan
 
-Indexed users: 9,509
+Indexed users: 9,508
 
 | Leaderboard | Link |
 |---|---|
@@ -15,7 +15,7 @@ Indexed users: 9,509
 | 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 194,722 |
 | 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 160,413 |
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 74,895 |
-| 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,033 |
+| 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,075 |
 | 5 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | Uzbekistan, Tashkent | 20,528 |
 | 6 | [IxtiyorXaitov](https://github.com/IxtiyorXaitov) | Ixtiyor Xaitov | Tashkent, Uzbekistan | 12,331 |
 | 7 | [Rustam-Fozilov](https://github.com/Rustam-Fozilov) | Rustam Fozilov | Uzbekistan, Tashkent | 12,001 |
@@ -40,7 +40,7 @@ Indexed users: 9,509
 | 1 | [orgibragimov](https://github.com/orgibragimov) | Ibragimov Muhammadali | Uzbekistan | 194,722 |
 | 2 | [AbdullayevTemurmalik](https://github.com/AbdullayevTemurmalik) | TemurMalik | Uzbekistan | 144,835 |
 | 3 | [CodesByUmar](https://github.com/CodesByUmar) | Muhammad Umar Asatillayev | Uzbekistan | 74,895 |
-| 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,033 |
+| 4 | [xcrpty7](https://github.com/xcrpty7) |  | Tashkent, Uzbekistan | 29,075 |
 | 5 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 11,695 |
 | 6 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
 | 7 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
@@ -83,4 +83,4 @@ Indexed users: 9,509
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
 
-Generated: 2026-10-08T10:34:47.372Z
+Generated: 2026-10-08T16:11:11.147Z

@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,290
+Indexed users: 1,289
 
 | Leaderboard | Link |
 |---|---|
@@ -15,23 +15,23 @@ Indexed users: 1,290
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,116 |
 | 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 13,456 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 13,269 |
-| 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 11,268 |
+| 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,299 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 7,235 |
-| 6 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 6,495 |
-| 7 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
-| 8 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 5,782 |
+| 6 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
+| 7 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 5,782 |
+| 8 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,721 |
 | 9 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
 | 10 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 5,098 |
 | 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
 | 13 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 3,563 |
 | 14 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
-| 15 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
-| 16 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 3,085 |
-| 17 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
-| 18 | [edarblanco](https://github.com/edarblanco) | Edar José Blanco Rodríguez | Habana/Cuba | 2,778 |
-| 19 | [roylans](https://github.com/roylans) | Roylan Suarez | Cuba | 2,754 |
-| 20 | [reneespinosa](https://github.com/reneespinosa) | René Espinosa Arteaga | Santa Clara , Villa Clara , Cuba | 2,740 |
+| 15 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
+| 16 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
+| 17 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 3,085 |
+| 18 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
+| 19 | [DDansAbelenda](https://github.com/DDansAbelenda) | Daniel Dans Abelenda | Cuba | 2,808 |
+| 20 | [edarblanco](https://github.com/edarblanco) | Edar José Blanco Rodríguez | Habana/Cuba | 2,778 |
 
 ## Public Contributions
 
@@ -42,10 +42,10 @@ Indexed users: 1,290
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 5,610 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,277 |
-| 6 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 2,555 |
-| 7 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 1,727 |
-| 8 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,612 |
-| 9 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,572 |
+| 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 1,727 |
+| 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,612 |
+| 8 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,572 |
+| 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,486 |
 | 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,474 |
 | 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,463 |
 | 12 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,418 |
@@ -83,4 +83,4 @@ Indexed users: 1,290
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-08T10:45:23.567Z
+Generated: 2026-10-08T16:26:54.802Z

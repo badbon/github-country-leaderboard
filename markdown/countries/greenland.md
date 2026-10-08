@@ -13,7 +13,7 @@ Indexed users: 59
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,859 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,843 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,849 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,483 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,274 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 899 |
@@ -31,7 +31,7 @@ Indexed users: 59
 | 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 66 |
 | 18 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 45 |
 | 19 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Greenland | 38 |
-| 20 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 35 |
+| 20 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 37 |
 
 ## Public Contributions
 
@@ -76,11 +76,11 @@ Indexed users: 59
 | 12 | [pierreminik](https://github.com/pierreminik) | Pierre Minik Lynge | Kalaallit Nunaat (Greenland) | 23 |
 | 13 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 16 |
 | 14 | [zhaoxieluoke](https://github.com/zhaoxieluoke) | 朝些罗可 | Greenland,Earth | 15 |
-| 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 11 |
+| 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 12 |
 | 16 | [qovero](https://github.com/qovero) |  | Nuuk, Greenland | 11 |
 | 17 | [piaere](https://github.com/piaere) | piære | greenland | 10 |
 | 18 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 19 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 9 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-08T10:51:37.683Z
+Generated: 2026-10-08T16:35:33.962Z

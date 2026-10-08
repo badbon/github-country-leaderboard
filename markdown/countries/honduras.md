@@ -30,8 +30,8 @@ Indexed users: 1,266
 | 16 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 3,911 |
 | 17 | [gaboelnuevo](https://github.com/gaboelnuevo) | Gabriel S. L | Honduras | 3,742 |
 | 18 | [renanz](https://github.com/renanz) | Renan Alberto Zelaya | Honduras | 3,540 |
-| 19 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,522 |
-| 20 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 3,520 |
+| 19 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 3,534 |
+| 20 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,522 |
 
 ## Public Contributions
 
@@ -47,16 +47,16 @@ Indexed users: 1,266
 | 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,466 |
 | 9 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,199 |
 | 10 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,061 |
-| 11 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 877 |
-| 12 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
-| 13 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 766 |
-| 14 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 | M.D.C, Honduras | 719 |
-| 15 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 701 |
-| 16 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Honduras | 698 |
-| 17 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 664 |
-| 18 | [Jesus180Reyes](https://github.com/Jesus180Reyes) | Jesus Reyes - JArts | Honduras | 635 |
-| 19 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 626 |
-| 20 | [dantonifa](https://github.com/dantonifa) | David Antonio Fajardo Ponce | San Pedro Sula, Honduras | 624 |
+| 11 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 975 |
+| 12 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 877 |
+| 13 | [JoseAFlores777](https://github.com/JoseAFlores777) | José Izaguirre | Tegucigalpa, Honduras | 830 |
+| 14 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
+| 15 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 766 |
+| 16 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 | M.D.C, Honduras | 719 |
+| 17 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 701 |
+| 18 | [luiscf1226](https://github.com/luiscf1226) | Luis Flores | Tegucigalpa Honduras | 698 |
+| 19 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Honduras | 698 |
+| 20 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 664 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,266
 | 19 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 20 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 
-Generated: 2026-10-08T10:53:33.236Z
+Generated: 2026-10-08T16:39:22.659Z

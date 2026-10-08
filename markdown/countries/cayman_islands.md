@@ -28,7 +28,7 @@ Indexed users: 123
 | 14 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,100 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin | Cayman Islands | 1,039 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso | George Town, Cayman Islands | 1,030 |
-| 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 931 |
+| 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | Cayman Islands | 932 |
 | 18 | [zkhan93](https://github.com/zkhan93) | Zeeshan Khan | Cayman Islands | 716 |
 | 19 | [sharkzp](https://github.com/sharkzp) | Alex Topalov | Cayman Islands | 705 |
 | 20 | [alow](https://github.com/alow) | Amir | Cayman Islands | 668 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 16 |
 
-Generated: 2026-10-08T10:44:07.855Z
+Generated: 2026-10-08T16:24:11.152Z

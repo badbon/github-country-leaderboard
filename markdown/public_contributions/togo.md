@@ -1,6 +1,6 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-08T10:31:43.286Z
+Generated: 2026-10-08T16:06:51.566Z
 
 Users: 684
 
@@ -20,9 +20,9 @@ Users: 684
 | 12 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1194 |
 | 13 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 905 |
 | 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 885 |
-| 15 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio |  |  | Togo | 802 |
-| 16 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 748 |
-| 17 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz |  | AzizMetchonou | Togo | 708 |
-| 18 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | IJEAF |  | Lomé | 647 |
-| 19 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 642 |
-| 20 | [Darrylwin](https://github.com/Darrylwin) | Darryl-win LOGOSSOU |  |  | Lomé, Togo | 605 |
+| 15 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 827 |
+| 16 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio |  |  | Togo | 802 |
+| 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 748 |
+| 18 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz |  | AzizMetchonou | Togo | 708 |
+| 19 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | IJEAF |  | Lomé | 647 |
+| 20 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 642 |
