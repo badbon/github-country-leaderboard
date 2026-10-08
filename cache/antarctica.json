@@ -4734,7 +4734,7 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 342,
+    "followers": 343,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-20T21:27:05Z"
@@ -4746,9 +4746,9 @@
     "location": "Antarctica",
     "company": "@FAQGURU ",
     "twitterUsername": "",
-    "followers": 192,
+    "followers": 185,
     "privateContributions": 0,
-    "publicContributions": 381,
+    "publicContributions": 534,
     "createdAt": "2015-10-30T00:21:48Z"
   },
   {
@@ -4758,9 +4758,9 @@
     "location": "Antarctica",
     "company": "Weyland-Yutani Corp.",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 4203,
-    "publicContributions": 13,
+    "followers": 39,
+    "privateContributions": 4598,
+    "publicContributions": 14,
     "createdAt": "2015-10-04T11:20:29Z"
   },
   {
@@ -4771,8 +4771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 284,
-    "publicContributions": 273,
+    "privateContributions": 286,
+    "publicContributions": 271,
     "createdAt": "2015-10-07T08:16:13Z"
   },
   {
@@ -4794,22 +4794,10 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 975,
-    "publicContributions": 109,
+    "followers": 15,
+    "privateContributions": 1527,
+    "publicContributions": 104,
     "createdAt": "2015-06-02T04:43:26Z"
-  },
-  {
-    "login": "sbarrack",
-    "name": "Stephen Barrack",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/12619603?s=72&u=29205720202d23412bb8ada93a1c2487e8a6cab5&v=4",
-    "location": "Antarctica",
-    "company": "@aops-ba",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 9,
-    "publicContributions": 20,
-    "createdAt": "2015-05-27T02:00:28Z"
   },
   {
     "login": "f1u77y",
@@ -4822,18 +4810,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-03-04T12:09:46Z"
-  },
-  {
-    "login": "NathanLithia",
-    "name": "NathanLithia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10991641?s=72&u=247a54a509222541b2826c730c0204b7f38716a1&v=4",
-    "location": "Antarctica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 143,
-    "publicContributions": 98,
-    "createdAt": "2015-02-13T10:59:49Z"
   },
   {
     "login": "Groverok",
@@ -4866,9 +4842,9 @@
     "location": "Antarctica",
     "company": "",
     "twitterUsername": "mnipritom",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2015-02-12T05:21:02Z"
   },
   {
@@ -4939,7 +4915,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 451,
+    "privateContributions": 476,
     "publicContributions": 0,
     "createdAt": "2015-03-24T14:44:59Z"
   },
@@ -4964,7 +4940,7 @@
     "twitterUsername": "",
     "followers": 114,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 41,
     "createdAt": "2014-10-08T19:34:14Z"
   },
   {

@@ -4723,8 +4723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 398,
-    "publicContributions": 111,
+    "privateContributions": 402,
+    "publicContributions": 62,
     "createdAt": "2022-04-20T13:32:04Z"
   },
   {
@@ -4736,7 +4736,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-02-07T07:26:17Z"
   },
   {
@@ -4759,8 +4759,8 @@
     "company": "Coursiv",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1833,
-    "publicContributions": 37,
+    "privateContributions": 1475,
+    "publicContributions": 43,
     "createdAt": "2022-08-15T02:50:53Z"
   },
   {
@@ -4776,27 +4776,15 @@
     "createdAt": "2022-04-20T08:42:59Z"
   },
   {
-    "login": "Jacob59569",
-    "name": "Jacob",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110312077?s=72&u=2afd3bb09f22ea18668874246b24972dae33b620&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-30T22:45:26Z"
-  },
-  {
     "login": "SCOnyema",
     "name": "Samuel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116545915?s=72&u=f3c076f1691e63d647559b57494fe78cc82831ed&v=4",
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "letsgobaba",
-    "followers": 2,
-    "privateContributions": 739,
-    "publicContributions": 34,
+    "followers": 4,
+    "privateContributions": 627,
+    "publicContributions": 45,
     "createdAt": "2022-10-24T07:18:27Z"
   },
   {
@@ -4807,8 +4795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 87,
-    "publicContributions": 410,
+    "privateContributions": 128,
+    "publicContributions": 572,
     "createdAt": "2022-09-06T08:13:09Z"
   },
   {
@@ -4916,7 +4904,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 1,
     "createdAt": "2022-11-06T18:11:19Z"
   },
   {
@@ -4939,8 +4927,8 @@
     "company": "inDrive",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1591,
-    "publicContributions": 3,
+    "privateContributions": 1685,
+    "publicContributions": 4,
     "createdAt": "2022-02-22T07:03:50Z"
   },
   {

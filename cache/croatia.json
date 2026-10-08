@@ -4734,9 +4734,9 @@
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2023-04-11T12:55:08Z"
   },
   {
@@ -4772,7 +4772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2023-10-16T09:49:27Z"
   },
   {
@@ -4796,7 +4796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 47,
     "createdAt": "2023-03-18T16:45:55Z"
   },
   {
@@ -4855,7 +4855,7 @@
     "company": "Ericsson Nikola Tesla",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 40,
+    "privateContributions": 43,
     "publicContributions": 0,
     "createdAt": "2023-02-24T18:55:44Z"
   },
@@ -4867,8 +4867,8 @@
     "company": "Web Developer at 4D Web.d.o.o.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1991,
-    "publicContributions": 62,
+    "privateContributions": 2250,
+    "publicContributions": 17,
     "createdAt": "2023-06-10T20:49:35Z"
   },
   {
@@ -4876,7 +4876,7 @@
     "name": "Tin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/149794381?s=72&u=d0053465d971adcdc01e3164bf9337b8fa075ac3&v=4",
     "location": "Zagreb",
-    "company": "Edde",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -4928,7 +4928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 157,
     "createdAt": "2023-04-11T14:08:00Z"
   },
   {
@@ -4938,7 +4938,7 @@
     "location": "Zagreb",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 200,
     "createdAt": "2023-02-14T07:12:51Z"

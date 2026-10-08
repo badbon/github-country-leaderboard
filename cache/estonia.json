@@ -4759,7 +4759,7 @@
     "company": "Yolo Group",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 408,
+    "privateContributions": 269,
     "publicContributions": 19,
     "createdAt": "2023-05-22T08:09:53Z"
   },
@@ -4772,7 +4772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2023-01-23T12:08:11Z"
   },
   {
@@ -4784,7 +4784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-03-27T10:51:45Z"
   },
   {
@@ -4795,8 +4795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 227,
-    "publicContributions": 83,
+    "privateContributions": 980,
+    "publicContributions": 76,
     "createdAt": "2023-08-10T18:47:54Z"
   },
   {
@@ -4808,7 +4808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 27,
     "createdAt": "2023-11-24T16:32:25Z"
   },
   {
@@ -4842,7 +4842,7 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-06T09:25:24Z"
@@ -4858,18 +4858,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-10T17:16:55Z"
-  },
-  {
-    "login": "majedahmedkhan",
-    "name": "Majed Ahmed Khan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133915798?s=72&u=9d885238d7e1c82fbfca3ff36a10ff0ea9d69a97&v=4",
-    "location": "Estonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2023-05-17T20:00:19Z"
   },
   {
     "login": "tarrrassova",
@@ -4938,9 +4926,9 @@
     "location": "Tallinn, Estonia",
     "company": "thecoderepublic",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2023-02-06T16:35:45Z"
   },
   {

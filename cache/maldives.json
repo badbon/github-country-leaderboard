@@ -504,18 +504,6 @@
     "createdAt": "2023-04-05T13:05:10Z"
   },
   {
-    "login": "nosyntaxdev",
-    "name": "no syntax dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151982534?s=72&u=b6df61bf852d516ae9470d97a71e7657c8dcc455&v=4",
-    "location": "Maldives",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 0,
-    "createdAt": "2023-11-25T03:33:47Z"
-  },
-  {
     "login": "cybr23",
     "name": "Mohamed Aik Riyaz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127426616?s=72&u=615e1f5e532bd84f01e7d5a0285b98368e0aef20&v=4",
@@ -595,8 +583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 168,
-    "privateContributions": 872,
-    "publicContributions": 633,
+    "privateContributions": 873,
+    "publicContributions": 632,
     "createdAt": "2022-02-03T18:48:52Z"
   },
   {
@@ -607,7 +595,7 @@
     "company": "",
     "twitterUsername": "Samooh9820060",
     "followers": 131,
-    "privateContributions": 1641,
+    "privateContributions": 1642,
     "publicContributions": 0,
     "createdAt": "2022-09-25T17:17:00Z"
   },
@@ -619,7 +607,7 @@
     "company": "Javaabu",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 3484,
+    "privateContributions": 3576,
     "publicContributions": 40,
     "createdAt": "2022-03-20T09:21:32Z"
   },

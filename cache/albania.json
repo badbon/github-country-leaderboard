@@ -4724,7 +4724,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 440,
+    "publicContributions": 305,
     "createdAt": "2021-01-21T21:36:20Z"
   },
   {
@@ -4735,7 +4735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 3,
     "createdAt": "2021-02-26T19:12:27Z"
   },
@@ -4759,8 +4759,8 @@
     "company": "@zennit-dev",
     "twitterUsername": "arbi_kullakshi",
     "followers": 5,
-    "privateContributions": 751,
-    "publicContributions": 164,
+    "privateContributions": 6073,
+    "publicContributions": 221,
     "createdAt": "2021-11-03T19:05:28Z"
   },
   {
@@ -4770,7 +4770,7 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 51,
     "createdAt": "2021-12-25T17:24:02Z"
@@ -4778,13 +4778,13 @@
   {
     "login": "martgjepali",
     "name": "Mart Gjepali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84089442?s=72&u=29746d380795c815eba804bb629135cfe6919536&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84089442?s=72&u=34004ee6a0e352906c25ee3530df86a08af20c20&v=4",
     "location": "Tirana, Albania",
-    "company": "Optima Albania",
+    "company": "IKTK Albania",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 435,
-    "publicContributions": 54,
+    "privateContributions": 487,
+    "publicContributions": 61,
     "createdAt": "2021-05-12T15:24:50Z"
   },
   {
@@ -4794,7 +4794,7 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2021-05-12T13:52:11Z"
@@ -4806,7 +4806,7 @@
     "location": "Albania Tirana",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-01T13:37:01Z"
@@ -4818,7 +4818,7 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-08T16:35:26Z"
@@ -4844,7 +4844,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-07-07T08:33:07Z"
   },
   {
@@ -4855,7 +4855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2163,
+    "privateContributions": 2547,
     "publicContributions": 1,
     "createdAt": "2021-10-19T20:01:53Z"
   },
@@ -4879,7 +4879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 174,
+    "privateContributions": 134,
     "publicContributions": 0,
     "createdAt": "2021-05-25T13:39:18Z"
   },
@@ -4891,7 +4891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 10,
+    "privateContributions": 18,
     "publicContributions": 22,
     "createdAt": "2021-04-27T21:46:28Z"
   },
@@ -4915,7 +4915,7 @@
     "company": "",
     "twitterUsername": "GrabielaVrapi",
     "followers": 4,
-    "privateContributions": 408,
+    "privateContributions": 225,
     "publicContributions": 6,
     "createdAt": "2021-01-14T11:15:24Z"
   },

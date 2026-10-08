@@ -4399,8 +4399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 95,
-    "publicContributions": 17,
+    "privateContributions": 446,
+    "publicContributions": 18,
     "createdAt": "2024-02-01T02:08:43Z"
   },
   {
@@ -4446,9 +4446,9 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 49,
-    "publicContributions": 195,
+    "followers": 4,
+    "privateContributions": 94,
+    "publicContributions": 212,
     "createdAt": "2024-05-24T15:12:26Z"
   },
   {
@@ -4470,21 +4470,21 @@
     "location": "Venezuela",
     "company": "Rafael Urdaneta University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 178,
     "createdAt": "2024-01-28T21:49:58Z"
   },
   {
     "login": "Javier-Lever",
-    "name": "Javier Lever",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158820039?s=72&u=db3bfeb8496502ade946814c6dc247c24d4bb9a2&v=4",
+    "name": "Javier_Lever",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158820039?s=72&u=64b88657030f7b4f99c3cce5261c1022ef4ad5b1&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 37,
     "createdAt": "2024-02-04T12:01:33Z"
   },
   {
@@ -4496,7 +4496,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 85,
     "createdAt": "2024-11-22T17:30:07Z"
   },
   {
@@ -4506,9 +4506,9 @@
     "location": "Venezuela, Edo Nva.Esparta",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 446,
-    "publicContributions": 23,
+    "followers": 4,
+    "privateContributions": 393,
+    "publicContributions": 29,
     "createdAt": "2024-08-04T05:31:27Z"
   },
   {
@@ -4518,9 +4518,9 @@
     "location": "Venezuela",
     "company": "Glyph Agency",
     "twitterUsername": "khr_yazid",
-    "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 522,
+    "followers": 2,
+    "privateContributions": 398,
+    "publicContributions": 152,
     "createdAt": "2024-09-02T16:29:37Z"
   },
   {
@@ -4554,9 +4554,9 @@
     "location": "Falcón, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2024-11-20T20:59:40Z"
   },
   {
@@ -4598,13 +4598,13 @@
   {
     "login": "AlejandroH-H",
     "name": "Alejandro Hernández",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161656941?s=72&u=1da93c5f5d4ebf7deb67ed8e3750408eac8983c1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161656941?s=72&u=fd0ac6f5c582c597c720c979010c878ffbc73d62&v=4",
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 51,
     "createdAt": "2024-02-28T22:55:14Z"
   },
   {
@@ -4615,7 +4615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 426,
+    "privateContributions": 452,
     "publicContributions": 46,
     "createdAt": "2024-02-05T18:43:34Z"
   },

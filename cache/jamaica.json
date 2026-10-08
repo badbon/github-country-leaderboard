@@ -4724,7 +4724,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-01-24T13:29:32Z"
   },
   {
@@ -4734,9 +4734,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 87,
+    "followers": 3,
+    "privateContributions": 28,
+    "publicContributions": 61,
     "createdAt": "2020-10-19T01:19:26Z"
   },
   {
@@ -4783,7 +4783,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 27,
+    "privateContributions": 30,
     "publicContributions": 24,
     "createdAt": "2020-02-25T22:15:57Z"
   },
@@ -4807,7 +4807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 39,
+    "privateContributions": 86,
     "publicContributions": 3,
     "createdAt": "2020-09-02T18:01:06Z"
   },
@@ -4830,8 +4830,8 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1017,
+    "followers": 3,
+    "privateContributions": 2036,
     "publicContributions": 2,
     "createdAt": "2020-05-10T21:13:07Z"
   },
@@ -4926,7 +4926,7 @@
     "location": "Kingston, Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-27T02:57:33Z"
@@ -4939,7 +4939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 654,
+    "privateContributions": 836,
     "publicContributions": 2,
     "createdAt": "2020-07-05T15:40:13Z"
   },

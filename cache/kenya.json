@@ -4362,9 +4362,9 @@
     "location": "Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 77,
     "createdAt": "2025-05-30T03:19:57Z"
   },
   {
@@ -4374,7 +4374,7 @@
     "location": "Nairobi Kenya",
     "company": "Levi Tech I.C.T Solutions",
     "twitterUsername": "UmeskialeviTech",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2025-01-12T14:24:29Z"
@@ -4386,9 +4386,9 @@
     "location": "Nairobi,Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 722,
-    "publicContributions": 44,
+    "followers": 11,
+    "privateContributions": 1636,
+    "publicContributions": 40,
     "createdAt": "2025-02-17T06:47:45Z"
   },
   {
@@ -4398,9 +4398,9 @@
     "location": "Kenya",
     "company": "yugenfrica",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 11,
     "privateContributions": 7,
-    "publicContributions": 30,
+    "publicContributions": 27,
     "createdAt": "2025-02-07T13:36:50Z"
   },
   {
@@ -4412,7 +4412,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 278,
+    "publicContributions": 345,
     "createdAt": "2025-03-05T13:25:08Z"
   },
   {
@@ -4422,9 +4422,9 @@
     "location": "kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 11,
     "privateContributions": 43,
-    "publicContributions": 131,
+    "publicContributions": 129,
     "createdAt": "2025-04-10T09:06:55Z"
   },
   {
@@ -4434,21 +4434,21 @@
     "location": "Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-01-03T21:13:37Z"
   },
   {
     "login": "moses-25",
     "name": "Moses Otieno",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198711544?s=72&u=34fb1c3f7b1759e3c7894f6b4c6e7bea4d311920&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198711544?s=72&u=7897eccee5086e07f67b065031d97214e854dc18&v=4",
     "location": "Kenya",
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 65,
-    "publicContributions": 185,
+    "privateContributions": 229,
+    "publicContributions": 178,
     "createdAt": "2025-02-11T07:18:13Z"
   },
   {
@@ -4458,9 +4458,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1371,
+    "publicContributions": 1357,
     "createdAt": "2025-06-01T08:23:48Z"
   },
   {
@@ -4470,22 +4470,10 @@
     "location": "Nairobi - Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 110,
+    "followers": 13,
+    "privateContributions": 10,
+    "publicContributions": 96,
     "createdAt": "2025-02-04T15:20:38Z"
-  },
-  {
-    "login": "paulmwash",
-    "name": "Paul",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198077751?s=72&u=0d8eafadf28da14db012ff7faf3008f54e5e738f&v=4",
-    "location": "Kenya",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 238,
-    "createdAt": "2025-02-06T14:02:21Z"
   },
   {
     "login": "Clive-Nyaga",
@@ -4494,9 +4482,9 @@
     "location": "Nairobi, Kenya",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 126,
     "createdAt": "2025-05-19T08:51:06Z"
   },
   {
@@ -4507,20 +4495,20 @@
     "company": "",
     "twitterUsername": "imma_khaoma",
     "followers": 11,
-    "privateContributions": 55,
-    "publicContributions": 156,
+    "privateContributions": 48,
+    "publicContributions": 81,
     "createdAt": "2025-05-26T07:46:07Z"
   },
   {
     "login": "BKerio",
     "name": "Brian Kerio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205012009?s=72&u=da355d214c56fbf597645152171de00bf8e72665&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205012009?s=72&u=fa26467b145cffd885adb7324268fa835e7e0ddc&v=4",
     "location": "Nairobi Kenya",
-    "company": "Millenium Solutions E.A Ltd",
-    "twitterUsername": "realBrianKerio",
-    "followers": 11,
-    "privateContributions": 257,
-    "publicContributions": 1228,
+    "company": "Millenium Solutions E.A. Ltd",
+    "twitterUsername": "_briankerio",
+    "followers": 16,
+    "privateContributions": 259,
+    "publicContributions": 1656,
     "createdAt": "2025-03-26T10:48:31Z"
   },
   {
@@ -4542,9 +4530,9 @@
     "location": "Kenya",
     "company": "NA",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 188,
+    "publicContributions": 141,
     "createdAt": "2025-03-15T18:27:41Z"
   },
   {
@@ -4578,7 +4566,7 @@
     "location": "Nairobi, Kenya",
     "company": "Ministry of Defence",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2025-03-11T05:48:38Z"
@@ -4590,9 +4578,9 @@
     "location": "Nairobi, Kenya",
     "company": "Illustriober Creatives",
     "twitterUsername": "itsriober",
-    "followers": 10,
-    "privateContributions": 1325,
-    "publicContributions": 236,
+    "followers": 11,
+    "privateContributions": 2385,
+    "publicContributions": 414,
     "createdAt": "2025-04-17T15:46:06Z"
   },
   {

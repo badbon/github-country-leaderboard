@@ -4662,9 +4662,9 @@
     "location": "Denmark",
     "company": "@umbraco ",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 161,
-    "publicContributions": 403,
+    "followers": 17,
+    "privateContributions": 288,
+    "publicContributions": 478,
     "createdAt": "2024-02-11T11:14:16Z"
   },
   {
@@ -4676,20 +4676,8 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 2464,
+    "publicContributions": 3166,
     "createdAt": "2024-11-23T00:44:04Z"
-  },
-  {
-    "login": "MSDK0I",
-    "name": "Michael S.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176455413?s=72&u=a91718124ecab5b6f8c0282cad78bb0111b83dbb&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "MSDK0I",
-    "followers": 13,
-    "privateContributions": 41,
-    "publicContributions": 163,
-    "createdAt": "2024-07-24T04:00:37Z"
   },
   {
     "login": "chrisstineline",
@@ -4698,33 +4686,33 @@
     "location": "Denmark",
     "company": "@Rosenorn-Solutions ",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 128,
-    "publicContributions": 198,
+    "followers": 12,
+    "privateContributions": 126,
+    "publicContributions": 149,
     "createdAt": "2024-01-22T14:49:02Z"
   },
   {
     "login": "Salyts",
     "name": "Salyts",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155201326?s=72&u=771f488677e63db456de79c201fc27b6e01ce37e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155201326?s=72&u=4cba0831edbfc90650116eed5435eec0bf908357&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 172,
     "createdAt": "2023-12-29T23:16:42Z"
   },
   {
     "login": "Jona615m",
     "name": "Jona615m",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180411229?s=72&u=2ec3fb0b4a7093a9c3e7c874a3ab469e6759c5e5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180411229?s=72&u=50b6a50d4e69e51a447f8622d2c1c0ed64707e51&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 84,
-    "publicContributions": 80,
+    "followers": 12,
+    "privateContributions": 94,
+    "publicContributions": 96,
     "createdAt": "2024-09-04T11:22:56Z"
   },
   {
@@ -4740,27 +4728,15 @@
     "createdAt": "2024-01-13T12:51:47Z"
   },
   {
-    "login": "VadimTofan",
-    "name": "Vadim Tofan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186682284?s=72&u=cb7b00ce2745981c010542f5302a08ed60dbcd38&v=4",
-    "location": "Copenhagen, Denmark",
-    "company": "DTU, BRIGHT",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 408,
-    "publicContributions": 505,
-    "createdAt": "2024-10-29T08:46:31Z"
-  },
-  {
     "login": "NikolaiMJ-Software",
     "name": "Nikolai Medom Jensen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/180258272?s=72&u=12c5ee43f2fb20a6d62b9705de80a2923e9f3532&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 285,
+    "publicContributions": 293,
     "createdAt": "2024-09-03T06:37:26Z"
   },
   {
@@ -4770,9 +4746,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 113,
-    "publicContributions": 246,
+    "followers": 10,
+    "privateContributions": 165,
+    "publicContributions": 242,
     "createdAt": "2024-09-13T08:43:11Z"
   },
   {
@@ -4782,8 +4758,8 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 733,
+    "followers": 9,
+    "privateContributions": 642,
     "publicContributions": 0,
     "createdAt": "2024-02-07T15:03:40Z"
   },
@@ -4818,9 +4794,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 334,
+    "publicContributions": 270,
     "createdAt": "2024-09-24T18:51:13Z"
   },
   {
@@ -4838,25 +4814,25 @@
   {
     "login": "mithe24",
     "name": "Mikkel Thestrup",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181333355?s=72&u=e67b4a09f27c4072e4fd9f3e69116db11effc502&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181333355?s=72&u=78e9ebf405419526af7d238355fc141c71453b69&v=4",
     "location": "Denmark, EU",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "followers": 6,
+    "privateContributions": 5,
+    "publicContributions": 48,
     "createdAt": "2024-09-12T08:33:36Z"
   },
   {
     "login": "gitaddicted",
     "name": "gitaddict",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183697304?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183697304?s=72&u=4b2ab68d8c9f4619ebeced30d4a4dfa6e7ff8ced&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 39,
     "createdAt": "2024-10-03T07:40:57Z"
   },
   {
@@ -4866,9 +4842,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 264,
     "createdAt": "2024-09-03T06:41:17Z"
   },
   {
@@ -4879,8 +4855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 29,
-    "publicContributions": 42,
+    "privateContributions": 30,
+    "publicContributions": 52,
     "createdAt": "2024-09-03T06:40:58Z"
   },
   {

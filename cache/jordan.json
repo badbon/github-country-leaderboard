@@ -4710,7 +4710,7 @@
     "location": "Jordan, Amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 123,
     "createdAt": "2024-02-22T08:36:24Z"
@@ -4722,9 +4722,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "mamounyosef",
-    "followers": 11,
-    "privateContributions": 10,
-    "publicContributions": 891,
+    "followers": 15,
+    "privateContributions": 600,
+    "publicContributions": 1032,
     "createdAt": "2024-08-05T09:29:41Z"
   },
   {
@@ -4742,13 +4742,13 @@
   {
     "login": "noorhanalayyoub",
     "name": "noorhan alayyoub",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170514838?s=72&u=b33afc5aa7ff2abc4a2bcbd206f39c2db398f8ee&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170514838?s=72&u=93d2989a55ebc5035d206e2447533737bfc3e877&v=4",
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 233,
     "createdAt": "2024-05-22T09:27:45Z"
   },
   {
@@ -4758,33 +4758,21 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-04T11:57:03Z"
   },
   {
-    "login": "baker-7-10",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160823630?s=72&u=12218edc88637bb81a8bb9f251f2fa626aff2ab3&v=4",
-    "location": "Jordan-Amman",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 454,
-    "publicContributions": 235,
-    "createdAt": "2024-02-22T06:08:56Z"
-  },
-  {
     "login": "khaled-amireh",
     "name": "Khaled Amireh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176763730?s=72&u=eeaae8870890747a2dab0db479f48622147b4d10&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176763730?s=72&u=86d96fa40f96c553f3d15faa116006ea2fe63ccf&v=4",
     "location": "Jordan",
     "company": "Al-Zaytoonah University",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 2,
-    "publicContributions": 136,
+    "privateContributions": 0,
+    "publicContributions": 368,
     "createdAt": "2024-07-27T15:56:50Z"
   },
   {
@@ -4794,9 +4782,9 @@
     "location": "Amman Jordan",
     "company": "Takzilla",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 705,
-    "publicContributions": 25,
+    "followers": 11,
+    "privateContributions": 524,
+    "publicContributions": 17,
     "createdAt": "2024-07-31T00:55:24Z"
   },
   {
@@ -4806,7 +4794,7 @@
     "location": "jordan ",
     "company": "MBC Shahid",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 237,
     "publicContributions": 46,
     "createdAt": "2024-02-05T18:29:29Z"
@@ -4818,9 +4806,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 165,
     "createdAt": "2024-03-22T18:56:45Z"
   },
   {
@@ -4830,7 +4818,7 @@
     "location": "Jordan Amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-13T12:59:26Z"
@@ -4843,8 +4831,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 426,
-    "publicContributions": 164,
+    "privateContributions": 484,
+    "publicContributions": 151,
     "createdAt": "2024-03-12T20:14:28Z"
   },
   {
@@ -4856,7 +4844,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 24,
     "createdAt": "2024-06-25T16:53:12Z"
   },
   {
@@ -4867,7 +4855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 44,
+    "privateContributions": 53,
     "publicContributions": 5,
     "createdAt": "2024-03-08T09:25:59Z"
   },
@@ -4880,7 +4868,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 26,
     "createdAt": "2024-01-02T09:19:57Z"
   },
   {
@@ -4890,22 +4878,10 @@
     "location": "Jordan, Amman",
     "company": "Opensooq",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-04T12:18:03Z"
-  },
-  {
-    "login": "man-Yocto",
-    "name": "Ahmad Al-khasawneh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188636761?s=72&u=1fe864533d63fd9469b3e075af5065ffeedd901a&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 134,
-    "createdAt": "2024-11-16T00:29:12Z"
   },
   {
     "login": "Hourieh2001",
@@ -4916,7 +4892,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2024-03-18T21:03:07Z"
   },
   {
@@ -4939,8 +4915,8 @@
     "company": "@ZenTr1x_",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 310,
-    "publicContributions": 57,
+    "privateContributions": 293,
+    "publicContributions": 30,
     "createdAt": "2024-07-29T16:09:32Z"
   },
   {

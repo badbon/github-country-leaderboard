@@ -4448,7 +4448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-03-14T15:05:48Z"
   },
   {
@@ -4460,7 +4460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2024-10-04T08:30:48Z"
   },
   {
@@ -4483,21 +4483,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 86,
-    "publicContributions": 1,
+    "privateContributions": 130,
+    "publicContributions": 0,
     "createdAt": "2024-06-30T12:54:08Z"
-  },
-  {
-    "login": "heresherbert",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177896226?s=72&v=4",
-    "location": "Budapest, Hungary",
-    "company": "RaIntel",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 888,
-    "publicContributions": 2,
-    "createdAt": "2024-08-09T00:27:32Z"
   },
   {
     "login": "lipi4242",
@@ -4507,8 +4495,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6137,
-    "publicContributions": 19,
+    "privateContributions": 9713,
+    "publicContributions": 20,
     "createdAt": "2024-07-03T13:21:57Z"
   },
   {
@@ -4520,7 +4508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-02-26T17:24:38Z"
   },
   {
@@ -4544,7 +4532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 41,
     "createdAt": "2024-12-11T22:10:57Z"
   },
   {
@@ -4568,7 +4556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 107,
     "createdAt": "2024-11-20T18:43:38Z"
   },
   {
@@ -4580,7 +4568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 396,
+    "publicContributions": 420,
     "createdAt": "2024-03-18T09:21:23Z"
   },
   {
@@ -4604,7 +4592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-09-11T12:41:44Z"
   },
   {
@@ -4640,7 +4628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2024-06-25T08:29:15Z"
   },
   {
@@ -4652,7 +4640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2024-08-28T15:42:21Z"
   },
   {
@@ -4664,7 +4652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 12,
     "createdAt": "2024-04-21T12:16:15Z"
   },
   {

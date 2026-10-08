@@ -4710,9 +4710,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 414,
-    "publicContributions": 12,
+    "followers": 6,
+    "privateContributions": 1682,
+    "publicContributions": 80,
     "createdAt": "2025-06-05T09:30:42Z"
   },
   {
@@ -4723,21 +4723,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 76,
-    "publicContributions": 459,
+    "privateContributions": 58,
+    "publicContributions": 547,
     "createdAt": "2025-04-07T07:43:52Z"
-  },
-  {
-    "login": "eb5568-d",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207671821?s=72&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 75,
-    "createdAt": "2025-04-15T07:27:53Z"
   },
   {
     "login": "MariaVelizarova",
@@ -4760,7 +4748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2025-03-26T22:09:08Z"
   },
   {
@@ -4784,20 +4772,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 86,
     "createdAt": "2025-02-16T21:35:07Z"
-  },
-  {
-    "login": "samuel-edwards487y",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207711513?s=72&v=4",
-    "location": "Vienna",
-    "company": "WebArch",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 72,
-    "createdAt": "2025-04-15T11:58:20Z"
   },
   {
     "login": "ChristophDeCol",
@@ -4830,22 +4806,10 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 93,
-    "publicContributions": 23,
+    "followers": 2,
+    "privateContributions": 59,
+    "publicContributions": 20,
     "createdAt": "2025-05-06T09:21:05Z"
-  },
-  {
-    "login": "archsurv4qgis",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206207404?s=72&u=57c3f5cee96a5e8daa5875b513d1b2b4cb949f0e&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-04-04T11:02:44Z"
   },
   {
     "login": "ttimothy2102",
@@ -4880,7 +4844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 3,
-    "publicContributions": 31,
+    "publicContributions": 43,
     "createdAt": "2024-01-09T07:56:53Z"
   },
   {
@@ -4892,7 +4856,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-08T10:16:28Z"
   },
   {
@@ -4902,9 +4866,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 96,
     "createdAt": "2025-10-01T16:28:00Z"
   },
   {
@@ -4915,8 +4879,8 @@
     "company": "Sentry",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 2221,
+    "privateContributions": 190,
+    "publicContributions": 2658,
     "createdAt": "2025-08-01T10:05:12Z"
   },
   {

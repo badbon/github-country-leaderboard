@@ -4459,8 +4459,8 @@
     "company": "TeKoTek",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 46,
-    "publicContributions": 1,
+    "privateContributions": 56,
+    "publicContributions": 0,
     "createdAt": "2025-02-09T01:36:18Z"
   },
   {
@@ -4471,7 +4471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 118,
+    "privateContributions": 117,
     "publicContributions": 871,
     "createdAt": "2025-06-20T09:40:41Z"
   },
@@ -4483,8 +4483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 385,
-    "publicContributions": 33,
+    "privateContributions": 696,
+    "publicContributions": 82,
     "createdAt": "2025-04-08T23:21:25Z"
   },
   {
@@ -4494,9 +4494,9 @@
     "location": "676 Centre Urbain Nord BP, Tunis 1080",
     "company": "National Institute of Applied Science and Technology",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-30T20:42:24Z"
   },
   {
@@ -4508,7 +4508,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 76,
     "createdAt": "2025-10-01T10:56:58Z"
   },
   {
@@ -4518,9 +4518,9 @@
     "location": "TUNIS ben arous ",
     "company": "https://accpv5.netlify.app/",
     "twitterUsername": "wajih_othmani",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-02T09:52:07Z"
   },
   {
@@ -4543,8 +4543,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 207,
-    "publicContributions": 57,
+    "privateContributions": 465,
+    "publicContributions": 40,
     "createdAt": "2025-05-21T22:53:58Z"
   },
   {
@@ -4568,7 +4568,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 723,
+    "publicContributions": 701,
     "createdAt": "2025-04-02T09:03:02Z"
   },
   {
@@ -4632,18 +4632,6 @@
     "createdAt": "2025-01-03T20:41:47Z"
   },
   {
-    "login": "BacemElManai",
-    "name": "Bacem El Manai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230622277?s=72&u=0410366e46be46da70f9242ca019138c4590a0ee&v=4",
-    "location": "Tunis",
-    "company": "ISET'COM Tunis",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2025-09-05T19:07:51Z"
-  },
-  {
     "login": "azizdh10",
     "name": "Aziz Dhifallah",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200940681?s=72&u=8ba9d9c0061012cca28f8cc55d9f33b16e3d0dc7&v=4",
@@ -4657,27 +4645,15 @@
   },
   {
     "login": "Itz-Cooode",
-    "name": "ItzCooode",
+    "name": "CoodeTV",
     "avatarUrl": "https://avatars.githubusercontent.com/u/206056793?s=72&u=8de77a76d0385c48d487f3a16c7fb3c5e4775081&v=4",
     "location": "Tunis, manouba",
     "company": "ItzCooode",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2025-04-03T09:28:31Z"
-  },
-  {
-    "login": "Mowafakjnd",
-    "name": "Jendli Mowafak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205102161?s=72&u=a3ccde2f39dc013bca70306a63e91ad88b30810e&v=4",
-    "location": "Tunis",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 27,
-    "createdAt": "2025-03-27T00:30:45Z"
   },
   {
     "login": "Mohamed-dhia-saadi",

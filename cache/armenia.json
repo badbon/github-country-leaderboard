@@ -4760,7 +4760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 99,
     "createdAt": "2023-04-10T22:08:25Z"
   },
   {
@@ -4772,7 +4772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 18,
     "createdAt": "2023-11-02T11:35:59Z"
   },
   {
@@ -4786,18 +4786,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-03T10:22:51Z"
-  },
-  {
-    "login": "danielflozano",
-    "name": "Daniel Lozano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151741712?s=72&u=55cc695a47099967b9beaa187ea91782df51d0ff&v=4",
-    "location": "Armenia, Quindío",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 91,
-    "createdAt": "2023-11-22T11:44:00Z"
   },
   {
     "login": "anvardaniann",
@@ -4843,7 +4831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-01T07:20:50Z"
   },
@@ -4878,9 +4866,9 @@
     "location": "Armenia Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 37,
     "createdAt": "2023-05-23T12:50:50Z"
   },
   {
@@ -4892,7 +4880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 9,
     "createdAt": "2023-05-12T11:40:37Z"
   },
   {
@@ -4903,8 +4891,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 42,
+    "privateContributions": 28,
+    "publicContributions": 25,
     "createdAt": "2023-04-25T15:42:28Z"
   },
   {
