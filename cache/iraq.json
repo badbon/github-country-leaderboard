@@ -7530,9 +7530,9 @@
     "location": "Iraq/Erbil",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 419,
+    "publicContributions": 375,
     "createdAt": "2022-12-17T18:42:55Z"
   },
   {
@@ -7544,7 +7544,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 541,
+    "publicContributions": 711,
     "createdAt": "2022-06-18T15:06:56Z"
   },
   {
@@ -7554,9 +7554,9 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 40,
-    "publicContributions": 57,
+    "followers": 7,
+    "privateContributions": 21,
+    "publicContributions": 30,
     "createdAt": "2022-08-18T07:30:06Z"
   },
   {
@@ -7592,7 +7592,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2022-02-26T10:21:32Z"
   },
   {
@@ -7626,7 +7626,7 @@
     "location": "Iraq/Erbil",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-12-15T20:48:36Z"
@@ -7638,7 +7638,7 @@
     "location": "IRAQ",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-03T22:24:47Z"
@@ -7650,7 +7650,7 @@
     "location": "Iraq - Baghdad",
     "company": "Almuraba cmp.",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-15T16:50:53Z"
@@ -7668,40 +7668,16 @@
     "createdAt": "2022-07-08T12:09:42Z"
   },
   {
-    "login": "HMO-SOUL",
-    "name": "Haider Jamil",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98834960?s=72&u=9985f0d1bed6a02c5485a9c0a218d21ea781adff&v=4",
-    "location": "Iraq, Basra",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2022-02-01T16:27:50Z"
-  },
-  {
     "login": "DarawanOmar",
     "name": "Darawan Omar ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103837458?s=72&u=65a4de02a4557c1304ae56aac5834677a62f084f&v=4",
     "location": "Iraq/Slemanyeah",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 22,
     "createdAt": "2022-04-16T14:13:30Z"
-  },
-  {
-    "login": "m7amad-t",
-    "name": "Mohammad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99071291?s=72&v=4",
-    "location": "Iraq / Sulaimani",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1697,
-    "publicContributions": 0,
-    "createdAt": "2022-02-05T08:49:50Z"
   },
   {
     "login": "Shaeehersh",

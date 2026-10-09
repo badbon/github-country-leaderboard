@@ -7759,7 +7759,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 127,
+    "privateContributions": 98,
     "publicContributions": 93,
     "createdAt": "2024-07-27T16:18:35Z"
   },
@@ -7770,7 +7770,7 @@
     "location": "Austria",
     "company": "@FHKufstein",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-12-15T14:24:19Z"
@@ -7784,7 +7784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-08-16T13:11:34Z"
   },
   {
@@ -7795,7 +7795,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1105,
+    "privateContributions": 2652,
     "publicContributions": 3,
     "createdAt": "2024-11-17T16:27:55Z"
   },
@@ -7819,21 +7819,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1180,
+    "privateContributions": 1176,
     "publicContributions": 0,
     "createdAt": "2024-08-13T10:49:46Z"
-  },
-  {
-    "login": "davidnp3",
-    "name": "David Mitrovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165257706?s=72&u=468284bc84d5614d74bb4ef47d1ffd97c084a444&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-03-28T07:55:43Z"
   },
   {
     "login": "tr-igem",
@@ -7842,9 +7830,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 245,
     "createdAt": "2024-03-23T20:08:23Z"
   },
   {
@@ -7856,7 +7844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 24,
     "createdAt": "2024-02-23T12:57:52Z"
   },
   {
@@ -7904,20 +7892,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 52,
     "createdAt": "2024-11-21T10:02:07Z"
-  },
-  {
-    "login": "monjuc21",
-    "name": "Julian Monschein",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181219091?s=72&u=f1e92e9a4a6f8b2d66c1a21f2dddfc5f9facdb06&v=4",
-    "location": "Austria",
-    "company": "HTBLA Kaindorf",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-09-11T10:46:17Z"
   },
   {
     "login": "joel-studer",
@@ -7928,7 +7904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 38,
     "createdAt": "2024-10-02T07:57:30Z"
   },
   {
@@ -7950,22 +7926,10 @@
     "location": "Vienna / Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 230,
-    "publicContributions": 77,
+    "followers": 2,
+    "privateContributions": 163,
+    "publicContributions": 41,
     "createdAt": "2024-03-11T17:31:41Z"
-  },
-  {
-    "login": "richietk",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158520857?s=72&v=4",
-    "location": "Vienna, Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 252,
-    "createdAt": "2024-02-01T21:20:20Z"
   },
   {
     "login": "tomclark0",

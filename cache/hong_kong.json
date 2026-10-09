@@ -7664,7 +7664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 27,
     "createdAt": "2024-09-02T03:23:50Z"
   },
   {
@@ -7675,8 +7675,8 @@
     "company": "The University of Hong Kong",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 372,
+    "privateContributions": 250,
+    "publicContributions": 455,
     "createdAt": "2024-02-13T16:48:18Z"
   },
   {
@@ -7760,19 +7760,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 130,
     "createdAt": "2024-02-04T07:21:58Z"
   },
   {
     "login": "0x5916",
-    "name": "Alan Yeung",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183717930?s=72&u=37968761761dd305e6a20dbe1e58ed5de1bb929f&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 178,
     "createdAt": "2024-10-03T11:40:11Z"
   },
   {

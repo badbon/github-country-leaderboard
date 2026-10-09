@@ -7806,9 +7806,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2022-04-19T19:31:58Z"
   },
   {
@@ -7855,7 +7855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 245,
+    "privateContributions": 249,
     "publicContributions": 2,
     "createdAt": "2022-03-26T00:41:10Z"
   },
@@ -7867,7 +7867,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 306,
+    "privateContributions": 172,
     "publicContributions": 4,
     "createdAt": "2022-09-30T19:40:05Z"
   },
@@ -7879,8 +7879,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 83,
-    "publicContributions": 34,
+    "privateContributions": 108,
+    "publicContributions": 31,
     "createdAt": "2022-09-21T08:10:21Z"
   },
   {
@@ -7904,7 +7904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-03-28T09:00:30Z"
   },
   {
@@ -7914,8 +7914,8 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 35,
+    "followers": 2,
+    "privateContributions": 39,
     "publicContributions": 1,
     "createdAt": "2022-11-03T15:12:14Z"
   },
@@ -7952,7 +7952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 99,
     "createdAt": "2022-05-05T08:40:24Z"
   },
   {
@@ -7966,18 +7966,6 @@
     "privateContributions": 0,
     "publicContributions": 76,
     "createdAt": "2022-11-21T15:40:11Z"
-  },
-  {
-    "login": "tiit-clarifai",
-    "name": "Tiit Pikma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104068798?s=72&u=92c47661b17376a29f0f2c0fa75efb2cfbff3ba3&v=4",
-    "location": "Tartu, Estonia",
-    "company": "@Clarifai",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2022-04-20T10:14:21Z"
   },
   {
     "login": "SinitsynDmitry",
@@ -21426,9 +21414,9 @@
     "location": "Turkey, USA, Estonia",
     "company": "Ubden LLC & Ubden A.Ş. & Ubden OU",
     "twitterUsername": "ubden",
-    "followers": 127,
-    "privateContributions": 1348,
-    "publicContributions": 167,
+    "followers": 129,
+    "privateContributions": 2051,
+    "publicContributions": 250,
     "createdAt": "2018-11-09T11:34:43Z"
   },
   {

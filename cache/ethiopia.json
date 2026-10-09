@@ -7760,7 +7760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 543,
+    "publicContributions": 486,
     "createdAt": "2025-01-25T18:36:54Z"
   },
   {
@@ -7783,8 +7783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 327,
+    "privateContributions": 4,
+    "publicContributions": 427,
     "createdAt": "2025-08-04T17:40:18Z"
   },
   {
@@ -7794,9 +7794,9 @@
     "location": "Ethiopia, Adama",
     "company": "Ambo University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 50,
     "createdAt": "2025-08-12T15:11:50Z"
   },
   {
@@ -7831,7 +7831,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 166,
+    "privateContributions": 169,
     "publicContributions": 71,
     "createdAt": "2025-03-05T21:52:38Z"
   },
@@ -7842,8 +7842,8 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5,
+    "followers": 2,
+    "privateContributions": 3,
     "publicContributions": 2,
     "createdAt": "2025-02-15T20:16:24Z"
   },
@@ -7868,20 +7868,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 0,
     "createdAt": "2025-05-04T09:05:09Z"
-  },
-  {
-    "login": "tsegahun-fikiru",
-    "name": "Tsegahun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223099104?s=72&u=90cc38e73db521ac99aac989a746e32eabf0a3f5&v=4",
-    "location": "addis ababa, Ethiopia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-07-27T11:09:33Z"
   },
   {
     "login": "andexandy54-debug",
@@ -7892,7 +7880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 14,
     "createdAt": "2025-09-08T17:45:21Z"
   },
   {
@@ -7952,7 +7940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2025-11-07T12:09:52Z"
   },
   {
@@ -7988,7 +7976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-25T10:10:30Z"
   },
   {

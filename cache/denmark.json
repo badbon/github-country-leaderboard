@@ -7736,7 +7736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2024-03-19T19:45:30Z"
   },
   {
@@ -7772,7 +7772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 83,
     "createdAt": "2024-10-16T12:54:49Z"
   },
   {
@@ -7795,8 +7795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 303,
-    "publicContributions": 34,
+    "privateContributions": 476,
+    "publicContributions": 31,
     "createdAt": "2024-09-11T13:11:52Z"
   },
   {
@@ -7844,7 +7844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 168,
+    "publicContributions": 125,
     "createdAt": "2024-07-17T07:28:47Z"
   },
   {
@@ -7872,18 +7872,6 @@
     "createdAt": "2024-10-29T19:53:25Z"
   },
   {
-    "login": "mawiese-msft",
-    "name": "Maximilian Wiese",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169050765?s=72&u=3bff39bfd066999afef5cdfe18e2be55f840a79c&v=4",
-    "location": "Copenhagen, Denmark",
-    "company": "Microsoft",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-05-06T11:41:05Z"
-  },
-  {
     "login": "alimacunha",
     "name": "Amanda Cunha",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183945531?s=72&u=95284db4c6bec302c4bbd5aa19c3850f57586919&v=4",
@@ -7904,7 +7892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2024-09-10T08:43:07Z"
   },
   {
@@ -7916,7 +7904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 237,
     "createdAt": "2024-08-28T08:09:28Z"
   },
   {
@@ -7940,7 +7928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2024-10-03T07:36:13Z"
   },
   {
@@ -7964,7 +7952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2024-06-14T06:23:11Z"
   },
   {

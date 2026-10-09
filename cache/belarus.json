@@ -7855,8 +7855,8 @@
     "company": "",
     "twitterUsername": "BlankHtmlPage",
     "followers": 4,
-    "privateContributions": 169,
-    "publicContributions": 72,
+    "privateContributions": 374,
+    "publicContributions": 142,
     "createdAt": "2023-10-01T14:56:00Z"
   },
   {
@@ -7866,8 +7866,8 @@
     "location": "Belarus, Minsk",
     "company": "BSU FAMCS",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 2,
+    "followers": 5,
+    "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-04-23T21:37:11Z"
   },
@@ -7878,33 +7878,21 @@
     "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2023-09-04T14:39:30Z"
   },
   {
-    "login": "titsuko",
-    "name": "Максим",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145231589?s=72&v=4",
-    "location": "Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 109,
-    "publicContributions": 2,
-    "createdAt": "2023-09-16T21:15:47Z"
-  },
-  {
     "login": "DenBroLiik",
     "name": "Denis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128605164?s=72&u=a538341406ad19f9902db5cc345e4e39e93e2f22&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128605164?s=72&u=f3dc3875e00f456d0d8c2d44031ec1a53eff0042&v=4",
     "location": "Belarus",
     "company": "@Xopilot-AI-NN",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 32,
-    "publicContributions": 75,
+    "followers": 3,
+    "privateContributions": 27,
+    "publicContributions": 158,
     "createdAt": "2023-03-22T12:58:32Z"
   },
   {
@@ -7914,21 +7902,21 @@
     "location": "Belarus, Minsk",
     "company": "BSUIR_FIS",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2023-09-24T19:26:38Z"
   },
   {
     "login": "shutsuensha",
-    "name": "Daniil Kupryianchyk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145300474?s=72&v=4",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145300474?s=72&u=c6c78b982df0001c8ab598b96b851f149624bc29&v=4",
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 30,
     "createdAt": "2023-09-17T23:15:52Z"
   },
   {
@@ -7951,7 +7939,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2342,
+    "privateContributions": 2661,
     "publicContributions": 24,
     "createdAt": "2023-02-22T16:58:17Z"
   },
@@ -7964,7 +7952,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 94,
-    "publicContributions": 20,
+    "publicContributions": 16,
     "createdAt": "2023-02-09T16:55:18Z"
   },
   {
@@ -7976,7 +7964,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-11-05T18:28:42Z"
   },
   {
@@ -7988,7 +7976,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 1,
     "createdAt": "2023-10-12T07:48:01Z"
   },
   {
@@ -7999,7 +7987,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 147,
+    "privateContributions": 58,
     "publicContributions": 6,
     "createdAt": "2023-01-03T18:38:15Z"
   },
@@ -8022,8 +8010,8 @@
     "location": "Belarus, Minsk",
     "company": "BSUIR",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 29,
+    "followers": 5,
+    "privateContributions": 37,
     "publicContributions": 39,
     "createdAt": "2023-09-01T23:58:12Z"
   },
@@ -8035,8 +8023,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 243,
-    "publicContributions": 325,
+    "privateContributions": 247,
+    "publicContributions": 300,
     "createdAt": "2023-12-05T07:43:56Z"
   },
   {
@@ -8047,7 +8035,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 64,
+    "privateContributions": 42,
     "publicContributions": 17,
     "createdAt": "2023-05-30T10:56:03Z"
   },
@@ -8060,7 +8048,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 0,
     "createdAt": "2023-11-23T17:48:56Z"
   },
   {
@@ -8070,9 +8058,9 @@
     "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 92,
-    "publicContributions": 81,
+    "followers": 5,
+    "privateContributions": 103,
+    "publicContributions": 82,
     "createdAt": "2023-06-24T21:02:35Z"
   },
   {
@@ -8084,7 +8072,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-06-27T19:09:25Z"
   },
   {

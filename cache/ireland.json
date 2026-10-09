@@ -7626,7 +7626,7 @@
     "location": "Ireland",
     "company": "Software Engineer",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2024-05-01T22:53:43Z"
@@ -7650,7 +7650,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-27T20:58:55Z"
@@ -7674,21 +7674,21 @@
     "location": "Galway, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 109,
     "createdAt": "2024-11-30T18:15:06Z"
   },
   {
     "login": "Danya128",
     "name": "Daniil",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185754528?s=72&u=23ecc4c4237b65727b524d9ff1cdb4c096d751eb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185754528?s=72&u=f7e2fa442cfdabed639021cd5ae714c31f06ecc3&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 123,
     "createdAt": "2024-10-21T05:42:08Z"
   },
   {
@@ -7700,7 +7700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 47,
     "createdAt": "2024-06-28T11:11:46Z"
   },
   {
@@ -7712,7 +7712,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1314,
+    "publicContributions": 1312,
     "createdAt": "2024-09-24T20:42:00Z"
   },
   {
@@ -7748,7 +7748,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-01-25T16:52:40Z"
   },
   {
@@ -7759,8 +7759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 60,
-    "publicContributions": 142,
+    "privateContributions": 23,
+    "publicContributions": 144,
     "createdAt": "2024-03-11T11:59:55Z"
   },
   {
@@ -7772,7 +7772,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 95,
     "createdAt": "2024-02-23T11:52:34Z"
   },
   {
@@ -7788,18 +7788,6 @@
     "createdAt": "2024-12-08T18:03:19Z"
   },
   {
-    "login": "the-pint-sized-powerhouse",
-    "name": "Pint Sized",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180782681?s=72&u=bc9a2be2cb8329e721bbea9fcecbfe3f742793ef&v=4",
-    "location": "Wexford, Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 436,
-    "publicContributions": 29,
-    "createdAt": "2024-09-07T18:52:22Z"
-  },
-  {
     "login": "theodoragrosu1",
     "name": "Theodora Grosu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/188769903?s=72&v=4",
@@ -7808,7 +7796,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 52,
     "createdAt": "2024-11-17T14:07:43Z"
   },
   {
@@ -7839,12 +7827,12 @@
     "login": "Aeraas",
     "name": "Danielius Smirnovas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183612292?s=72&v=4",
-    "location": "Ireland",
+    "location": "Kildare, Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 23,
     "createdAt": "2024-10-02T12:24:41Z"
   },
   {
