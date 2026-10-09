@@ -1,6 +1,6 @@
 # Followers - Somalia
 
-Generated: 2026-10-09T17:03:18.881Z
+Generated: 2026-10-09T17:56:26.586Z
 
 Users: 858
 
@@ -13,9 +13,9 @@ Users: 858
 | 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz |  |  | Somalia  | 328 |
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Hormuud | Cabdula18395654 | Mogadishu | 283 |
 | 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somali International University |  | Somalia | 251 |
-| 8 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 242 |
+| 8 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 244 |
 | 9 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 217 |
-| 10 | [ShurieJr](https://github.com/ShurieJr) | MOHAMED ABDULLAHI | Near East University In Nothern Cyprus | shuuriyejr | Somalia | 205 |
+| 10 | [ShurieJr](https://github.com/ShurieJr) | Mohamed Abdullahi Mohamud | Near East University In Nothern Cyprus | shuuriyejr | Somalia | 211 |
 | 11 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 201 |
 | 12 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 164 |
 | 13 | [abdinasir-Tman](https://github.com/abdinasir-Tman) | Abdinasir Mursal | @dugsiiye |  | Mogadishu, Somalia | 156 |
@@ -25,4 +25,4 @@ Users: 858
 | 17 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 113 |
 | 18 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 108 |
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | 4Tech Solutions | hassan3ar | Somalia - Mogadishu  | 102 |
-| 20 | [alidiamond1](https://github.com/alidiamond1) | Ali Nor Abdulle | JAMHUURIYA UNIVERSITY | Alidiamond143 | Mogadishu | 94 |
+| 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Full Stack Developer | CabdifataaxYy | Somalia, Hargeisa  | 96 |
