@@ -8732,7 +8732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 51,
     "createdAt": "2024-03-08T12:18:21Z"
   },
   {
@@ -8743,8 +8743,8 @@
     "company": "UCLouvain",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 303,
-    "publicContributions": 32,
+    "privateContributions": 418,
+    "publicContributions": 43,
     "createdAt": "2024-02-07T08:11:30Z"
   },
   {
@@ -8766,9 +8766,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 419,
-    "publicContributions": 87,
+    "followers": 2,
+    "privateContributions": 566,
+    "publicContributions": 88,
     "createdAt": "2024-02-12T14:52:01Z"
   },
   {
@@ -8791,7 +8791,7 @@
     "company": "M4 Entreprise",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1624,
+    "privateContributions": 1658,
     "publicContributions": 0,
     "createdAt": "2024-09-30T23:01:43Z"
   },
@@ -8815,8 +8815,8 @@
     "company": "University of Namur",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 0,
+    "privateContributions": 10,
+    "publicContributions": 2,
     "createdAt": "2024-04-03T08:06:41Z"
   },
   {
@@ -8852,7 +8852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 115,
     "createdAt": "2024-08-15T10:18:35Z"
   },
   {
@@ -8902,18 +8902,6 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2024-10-24T08:44:15Z"
-  },
-  {
-    "login": "flhoest-corp",
-    "name": "Frederic Lhoest",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190404428?s=72&u=dcbc397a118885a000e81b1aa20fc74d5f78de77&v=4",
-    "location": "Gosselies, Belgium",
-    "company": "PCCW Global",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2024-12-02T17:48:57Z"
   },
   {
     "login": "digitalconceptdev",

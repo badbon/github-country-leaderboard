@@ -8456,7 +8456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2014-03-29T20:18:07Z"
   },
   {
@@ -8491,8 +8491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 55,
+    "privateContributions": 4,
+    "publicContributions": 43,
     "createdAt": "2014-01-23T20:12:09Z"
   },
   {
@@ -8540,7 +8540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2014-07-21T16:56:02Z"
   },
   {
@@ -8564,7 +8564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 69,
     "createdAt": "2014-10-07T21:07:36Z"
   },
   {
@@ -8580,18 +8580,6 @@
     "createdAt": "2014-01-16T21:02:05Z"
   },
   {
-    "login": "SpartanSparrow",
-    "name": "Andrew Cortesi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8689137?s=72&u=07d11f80d4c0315005075c94b33bfc10b7781d26&v=4",
-    "location": "Hamilton",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-09-07T20:36:46Z"
-  },
-  {
     "login": "AllHailSeizure",
     "name": "AHS",
     "avatarUrl": "https://avatars.githubusercontent.com/u/7132121?s=72&u=db6626b0c28ccb307b9f2b82b5c1e8a5221670f2&v=4",
@@ -8600,7 +8588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 285,
+    "publicContributions": 346,
     "createdAt": "2014-04-01T21:38:12Z"
   },
   {
@@ -8622,7 +8610,7 @@
     "location": "Bermuda",
     "company": "newcapec",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-01T00:44:34Z"
@@ -8634,8 +8622,8 @@
     "location": "Bermuda",
     "company": "@cactus-bm ",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 11796,
+    "followers": 11,
+    "privateContributions": 13035,
     "publicContributions": 2,
     "createdAt": "2013-01-22T00:18:11Z"
   },
@@ -8670,9 +8658,9 @@
     "location": "Bermuda",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2013-07-02T19:37:52Z"
   },
   {
@@ -8682,7 +8670,7 @@
     "location": "Bermuda",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-02T02:59:47Z"

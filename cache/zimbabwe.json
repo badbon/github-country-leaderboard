@@ -8527,8 +8527,8 @@
     "company": "None",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 344,
-    "publicContributions": 125,
+    "privateContributions": 374,
+    "publicContributions": 246,
     "createdAt": "2021-10-19T10:11:32Z"
   },
   {
@@ -8538,7 +8538,7 @@
     "location": "Harare, Zimbabwe",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-08T05:49:15Z"
@@ -8563,7 +8563,7 @@
     "company": "Bh3 Techs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 219,
+    "privateContributions": 361,
     "publicContributions": 0,
     "createdAt": "2021-08-04T06:37:01Z"
   },
@@ -8587,8 +8587,8 @@
     "company": "Omni Africa",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 531,
-    "publicContributions": 3,
+    "privateContributions": 467,
+    "publicContributions": 0,
     "createdAt": "2021-01-27T11:34:42Z"
   },
   {
@@ -8636,7 +8636,7 @@
     "twitterUsername": "credevtech",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-06-20T11:24:02Z"
   },
   {
@@ -8670,9 +8670,9 @@
     "location": "Harare",
     "company": "",
     "twitterUsername": "",
-    "followers": 72,
-    "privateContributions": 800,
-    "publicContributions": 130,
+    "followers": 73,
+    "privateContributions": 690,
+    "publicContributions": 177,
     "createdAt": "2021-11-04T05:58:57Z"
   },
   {
@@ -8682,9 +8682,9 @@
     "location": "Harare",
     "company": "",
     "twitterUsername": "home",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 356,
+    "publicContributions": 600,
     "createdAt": "2021-11-28T16:08:09Z"
   },
   {
@@ -8694,9 +8694,9 @@
     "location": "Harare 2246 westgate",
     "company": "DTO",
     "twitterUsername": "AshtonMapunga",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 70,
     "createdAt": "2021-12-01T12:02:29Z"
   },
   {
@@ -8720,19 +8720,19 @@
     "twitterUsername": "Fraud47",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 170,
     "createdAt": "2021-04-16T07:59:18Z"
   },
   {
     "login": "tawandajosephmutsena",
     "name": "Tawanda Joseph Mutsena",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92118298?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92118298?s=72&u=03dfc7a69a7f24abe3a2a9837822ecf6aa17c464&v=4",
     "location": "Harare",
-    "company": "Mhondoro inc",
+    "company": "Ottomate Web Apps",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 16,
-    "publicContributions": 22,
+    "privateContributions": 85,
+    "publicContributions": 49,
     "createdAt": "2021-10-07T18:31:23Z"
   },
   {

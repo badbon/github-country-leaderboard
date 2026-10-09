@@ -8696,7 +8696,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 17,
     "createdAt": "2024-04-14T04:29:00Z"
   },
   {
@@ -8707,7 +8707,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
+    "privateContributions": 222,
     "publicContributions": 20,
     "createdAt": "2024-04-28T04:51:16Z"
   },
@@ -8718,9 +8718,9 @@
     "location": "Kumasi, Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2024-12-11T10:33:55Z"
   },
   {
@@ -8730,7 +8730,7 @@
     "location": "Ghana",
     "company": "Sunnatic.web",
     "twitterUsername": "SunnaticWeb",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-18T03:12:31Z"
@@ -8767,8 +8767,8 @@
     "company": "Spider Labs",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 889,
-    "publicContributions": 29,
+    "privateContributions": 970,
+    "publicContributions": 8,
     "createdAt": "2024-02-19T17:15:44Z"
   },
   {
@@ -8779,8 +8779,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 218,
-    "publicContributions": 381,
+    "privateContributions": 226,
+    "publicContributions": 423,
     "createdAt": "2024-01-22T04:19:00Z"
   },
   {
@@ -8792,7 +8792,7 @@
     "twitterUsername": "ObedTawiah83026",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2024-08-02T06:32:45Z"
   },
   {
@@ -8802,9 +8802,9 @@
     "location": "Accra, Ghana ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 39,
     "createdAt": "2024-06-25T16:38:34Z"
   },
   {
@@ -8816,7 +8816,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 243,
     "createdAt": "2024-06-07T13:46:42Z"
   },
   {
@@ -8826,22 +8826,10 @@
     "location": "Ghana",
     "company": "None",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 30,
     "createdAt": "2024-08-30T15:33:07Z"
-  },
-  {
-    "login": "appiahkubis14",
-    "name": "Samuel Appiah Kubi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157400022?s=72&u=1c1b8953f7e3e48d1b49f4c38895f8514bc5374f&v=4",
-    "location": "Accra - Ghana ",
-    "company": "Afarinick Company Limited ",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1730,
-    "publicContributions": 313,
-    "createdAt": "2024-01-22T16:35:14Z"
   },
   {
     "login": "tpeacefill",
@@ -8851,8 +8839,8 @@
     "company": "",
     "twitterUsername": "TPeacefill",
     "followers": 6,
-    "privateContributions": 190,
-    "publicContributions": 71,
+    "privateContributions": 160,
+    "publicContributions": 33,
     "createdAt": "2024-02-27T15:04:26Z"
   },
   {
@@ -8864,7 +8852,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 293,
+    "publicContributions": 175,
     "createdAt": "2024-06-12T11:07:20Z"
   },
   {
@@ -8875,20 +8863,20 @@
     "company": "Ashesi University",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 205,
+    "privateContributions": 206,
     "publicContributions": 26,
     "createdAt": "2024-12-18T18:37:50Z"
   },
   {
     "login": "Bruce-Nyeha",
-    "name": "Bruce M. Nyeha ",
+    "name": "Bruce  Nyeha ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/187074358?s=72&u=3a7d08d7fcbe16aee762217d4100f9b45ff1738c&v=4",
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 220,
     "createdAt": "2024-11-02T00:35:14Z"
   },
   {
@@ -8899,8 +8887,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 316,
-    "publicContributions": 131,
+    "privateContributions": 327,
+    "publicContributions": 106,
     "createdAt": "2024-02-17T11:15:43Z"
   },
   {
@@ -8910,9 +8898,9 @@
     "location": "Ghana, Accra",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 484,
+    "publicContributions": 308,
     "createdAt": "2024-10-29T00:15:25Z"
   },
   {

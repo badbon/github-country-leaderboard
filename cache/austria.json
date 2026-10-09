@@ -8695,8 +8695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
+    "privateContributions": 6,
+    "publicContributions": 32,
     "createdAt": "2024-02-22T19:44:39Z"
   },
   {
@@ -8779,8 +8779,8 @@
     "company": "Russmedia Digital GmbH",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 534,
-    "publicContributions": 9,
+    "privateContributions": 581,
+    "publicContributions": 16,
     "createdAt": "2024-07-16T12:14:49Z"
   },
   {
@@ -8806,18 +8806,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-08T22:13:02Z"
-  },
-  {
-    "login": "robdotec",
-    "name": "rob.ec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169720300?s=72&u=ae03b59c9c38812dc4e09b7b6558a6490ac494a9&v=4",
-    "location": "Austria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2024-05-13T20:22:53Z"
   },
   {
     "login": "LS0205",
@@ -8864,7 +8852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-02-15T12:28:14Z"
   },
   {
@@ -8876,7 +8864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-11-15T09:30:05Z"
   },
   {
@@ -219010,5 +218998,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-05-30T05:40:02Z"
+  },
+  {
+    "login": "appiahkubis14",
+    "name": "Samuel Appiah Kubi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157400022?s=72&u=1c1b8953f7e3e48d1b49f4c38895f8514bc5374f&v=4",
+    "location": "Salzburg, Austria ",
+    "company": "Paris Lodron University of Salzburg(PLUS)",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 1500,
+    "publicContributions": 623,
+    "createdAt": "2024-01-22T16:35:14Z"
   }
 ]

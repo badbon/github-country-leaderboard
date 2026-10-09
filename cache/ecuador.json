@@ -8791,7 +8791,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 991,
+    "privateContributions": 1013,
     "publicContributions": 5,
     "createdAt": "2023-04-11T16:50:11Z"
   },
@@ -8803,8 +8803,8 @@
     "company": "@MAAT",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 219,
-    "publicContributions": 225,
+    "privateContributions": 296,
+    "publicContributions": 942,
     "createdAt": "2023-04-17T00:58:55Z"
   },
   {
@@ -8864,7 +8864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 25,
     "createdAt": "2023-01-26T21:35:00Z"
   },
   {
@@ -8911,8 +8911,8 @@
     "company": "ULEAM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 129,
-    "publicContributions": 55,
+    "privateContributions": 101,
+    "publicContributions": 57,
     "createdAt": "2023-05-11T01:29:52Z"
   },
   {
@@ -8924,7 +8924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 7,
     "createdAt": "2023-09-27T15:46:24Z"
   },
   {
@@ -8935,8 +8935,8 @@
     "company": "",
     "twitterUsername": "isaacquinapallo",
     "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 94,
+    "privateContributions": 4,
+    "publicContributions": 40,
     "createdAt": "2023-11-17T21:58:07Z"
   },
   {
@@ -8974,18 +8974,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-01T20:04:25Z"
-  },
-  {
-    "login": "kdev-01",
-    "name": "Kevin Tapia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134804074?s=72&u=a1e2f80036cf40f69e5159949583245e24065214&v=4",
-    "location": "Quito, Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 64,
-    "publicContributions": 57,
-    "createdAt": "2023-05-27T18:02:01Z"
   },
   {
     "login": "santiagm",

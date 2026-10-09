@@ -8802,9 +8802,9 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 775,
-    "privateContributions": 1209,
-    "publicContributions": 2,
+    "followers": 774,
+    "privateContributions": 1792,
+    "publicContributions": 0,
     "createdAt": "2018-08-30T19:14:45Z"
   },
   {
@@ -8815,20 +8815,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 88,
-    "privateContributions": 894,
-    "publicContributions": 0,
+    "privateContributions": 689,
+    "publicContributions": 72,
     "createdAt": "2018-11-25T21:11:34Z"
   },
   {
     "login": "AndiXplorer",
     "name": "Young Moon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44722617?s=72&u=9e1680b9e4bbf77326b10ef96e4df68056b1426f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44722617?s=72&u=c6c8bed886a978c2ce74e0f89701962815a28e0f&v=4",
     "location": "Albania",
-    "company": "Fynnza",
+    "company": "",
     "twitterUsername": "",
-    "followers": 84,
-    "privateContributions": 343,
-    "publicContributions": 28,
+    "followers": 85,
+    "privateContributions": 285,
+    "publicContributions": 25,
     "createdAt": "2018-11-03T08:58:58Z"
   },
   {
@@ -8839,8 +8839,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 827,
-    "publicContributions": 0,
+    "privateContributions": 871,
+    "publicContributions": 9,
     "createdAt": "2018-09-09T07:49:24Z"
   },
   {
@@ -8863,8 +8863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 247,
-    "publicContributions": 0,
+    "privateContributions": 140,
+    "publicContributions": 1,
     "createdAt": "2018-04-04T19:30:38Z"
   },
   {
@@ -8892,18 +8892,6 @@
     "createdAt": "2018-02-25T10:08:54Z"
   },
   {
-    "login": "samuelbushi",
-    "name": "Samuel Bushi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43500751?s=72&u=72282970b0270aef0fd5b924de8c53ef1bee92c9&v=4",
-    "location": "Albania",
-    "company": "@orteos-ai",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 3075,
-    "publicContributions": 414,
-    "createdAt": "2018-09-22T16:41:04Z"
-  },
-  {
     "login": "hegigj",
     "name": "Hegi Gjoka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/43541693?s=72&u=39fc0657ae29c720212654f60817686102a5ffde&v=4",
@@ -8922,8 +8910,8 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 390,
+    "followers": 14,
+    "privateContributions": 401,
     "publicContributions": 0,
     "createdAt": "2018-01-02T16:47:06Z"
   },
@@ -8935,8 +8923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 46,
-    "publicContributions": 401,
+    "privateContributions": 15,
+    "publicContributions": 462,
     "createdAt": "2018-01-29T19:12:01Z"
   },
   {
@@ -8959,7 +8947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 209,
+    "privateContributions": 210,
     "publicContributions": 0,
     "createdAt": "2018-05-17T14:25:52Z"
   },
@@ -8971,7 +8959,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 541,
+    "privateContributions": 520,
     "publicContributions": 0,
     "createdAt": "2018-08-21T13:31:00Z"
   },
@@ -8982,9 +8970,9 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2018-01-09T17:11:53Z"
   },
   {

@@ -8479,8 +8479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
-    "publicContributions": 96,
+    "privateContributions": 156,
+    "publicContributions": 80,
     "createdAt": "2025-04-03T20:00:38Z"
   },
   {
@@ -8490,9 +8490,9 @@
     "location": "Córdoba, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 302,
     "createdAt": "2025-06-13T14:28:50Z"
   },
   {
@@ -8504,7 +8504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2025-04-23T22:46:28Z"
   },
   {
@@ -8516,19 +8516,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 8,
     "createdAt": "2025-04-08T19:31:29Z"
   },
   {
     "login": "EzeeeBeee",
-    "name": "",
+    "name": "Ezequiel Bernal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213873974?s=72&u=6f9ffed82e55320059780cd912a3ddfa8a7e8456&v=4",
     "location": "Argentina, Bs As.",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 33,
     "createdAt": "2025-05-28T22:12:14Z"
   },
   {
@@ -8564,7 +8564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2025-04-29T20:13:48Z"
   },
   {
@@ -8576,7 +8576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-02-25T19:31:32Z"
   },
   {
@@ -8612,20 +8612,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 122,
     "createdAt": "2025-04-04T20:09:43Z"
-  },
-  {
-    "login": "ivanadelcarmen",
-    "name": "Ivana Banchero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206342896?s=72&u=b6297db685d86e30714a660ea2a981e77f17f79d&v=4",
-    "location": "Buenos Aires, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 338,
-    "publicContributions": 70,
-    "createdAt": "2025-04-05T14:47:51Z"
   },
   {
     "login": "nejoout",
@@ -8648,7 +8636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 59,
     "createdAt": "2025-03-25T21:55:34Z"
   },
   {
@@ -8660,7 +8648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 33,
     "createdAt": "2025-04-07T15:50:34Z"
   },
   {
@@ -8682,9 +8670,9 @@
     "location": "Argentina",
     "company": "no trabajo",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 39,
     "createdAt": "2025-03-18T02:28:42Z"
   },
   {
@@ -8696,7 +8684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 175,
     "createdAt": "2025-03-26T15:37:03Z"
   },
   {

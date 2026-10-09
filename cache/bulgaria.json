@@ -8828,20 +8828,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 73,
     "createdAt": "2024-11-13T16:15:51Z"
-  },
-  {
-    "login": "codeuknown",
-    "name": "Julius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155674722?s=72&u=b610a32546a89cab3ed621bf7080bcde3b982208&v=4",
-    "location": "Sofia",
-    "company": "Castify",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-01-04T19:11:08Z"
   },
   {
     "login": "StefiDev",
@@ -8851,7 +8839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 416,
+    "privateContributions": 469,
     "publicContributions": 98,
     "createdAt": "2024-02-04T07:21:28Z"
   },
@@ -8862,9 +8850,9 @@
     "location": "Sofia, BG",
     "company": "@Flataway ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2884,
-    "publicContributions": 2,
+    "followers": 2,
+    "privateContributions": 4772,
+    "publicContributions": 1,
     "createdAt": "2024-02-16T11:17:06Z"
   },
   {
@@ -8878,18 +8866,6 @@
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2024-09-12T22:39:40Z"
-  },
-  {
-    "login": "violetabotoucharova",
-    "name": "Violeta Botoucharova",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182032560?s=72&v=4",
-    "location": "Sofia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-09-18T21:25:53Z"
   },
   {
     "login": "BlagovestNB",
@@ -8912,7 +8888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 28,
     "createdAt": "2024-09-10T13:20:39Z"
   },
   {
@@ -8946,9 +8922,9 @@
     "location": "Sofia",
     "company": "Alexander Vankov",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 52,
     "createdAt": "2024-06-02T14:36:38Z"
   },
   {
@@ -8960,7 +8936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 91,
     "createdAt": "2024-11-06T12:17:44Z"
   },
   {
@@ -8972,7 +8948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-11-01T15:00:50Z"
   },
   {
@@ -8982,9 +8958,9 @@
     "location": "Varna",
     "company": "HCLTech",
     "twitterUsername": "",
-    "followers": 232,
-    "privateContributions": 12,
-    "publicContributions": 447,
+    "followers": 250,
+    "privateContributions": 41,
+    "publicContributions": 569,
     "createdAt": "2024-10-06T17:40:20Z"
   },
   {

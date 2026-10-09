@@ -8718,9 +8718,9 @@
     "location": "Tehran, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 98,
     "createdAt": "2025-01-03T07:40:12Z"
   },
   {
@@ -8744,20 +8744,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 52,
     "createdAt": "2025-01-30T14:18:15Z"
-  },
-  {
-    "login": "pouyaref",
-    "name": "pouya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210549153?s=72&u=66089d5709f638db80d1fb4512d8ee906271534e&v=4",
-    "location": "Iran tehran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2025-05-06T13:58:34Z"
   },
   {
     "login": "MAJIDRAFIEEZEMEYDANI",
@@ -8816,7 +8804,7 @@
     "twitterUsername": "aamirrezaa1",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-02-07T19:20:04Z"
   },
   {
@@ -8857,7 +8845,7 @@
   },
   {
     "login": "MenenTeX",
-    "name": "Mohammad Hossein",
+    "name": "MenenTeX",
     "avatarUrl": "https://avatars.githubusercontent.com/u/208029711?s=72&u=9f2b6e57a020e9c6bf3e4f88b8cc3f08edeaf817&v=4",
     "location": "Iran",
     "company": "Freelancer",
@@ -8876,7 +8864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 36,
     "createdAt": "2025-01-26T11:46:08Z"
   },
   {
