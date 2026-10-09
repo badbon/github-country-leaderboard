@@ -1,8 +1,8 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-09T09:38:29.895Z
+Generated: 2026-10-09T10:24:07.456Z
 
-Users: 899
+Users: 897
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

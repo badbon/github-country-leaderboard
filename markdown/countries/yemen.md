@@ -1,6 +1,6 @@
 # Yemen
 
-Indexed users: 1,218
+Indexed users: 1,216
 
 | Leaderboard | Link |
 |---|---|
@@ -45,7 +45,7 @@ Indexed users: 1,218
 | 6 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 3,489 |
 | 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | Yemen | 3,321 |
 | 8 | [mibo01699](https://github.com/mibo01699) | Mayass Ali  | Yemen  | 2,133 |
-| 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Yemen | 1,896 |
+| 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Yemen | 2,076 |
 | 10 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | Yemen | 1,856 |
 | 11 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Yemen | 1,338 |
 | 12 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya | Yemen | 1,287 |
@@ -83,4 +83,4 @@ Indexed users: 1,218
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 160 |
 | 20 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 157 |
 
-Generated: 2026-10-09T09:54:43.178Z
+Generated: 2026-10-09T10:42:32.161Z

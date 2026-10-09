@@ -22,14 +22,14 @@ Indexed users: 1,072
 | 8 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 11,958 |
 | 9 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,083 |
 | 10 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,433 |
-| 11 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,697 |
-| 12 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 7,392 |
-| 13 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,091 |
-| 14 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,665 |
-| 15 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
-| 16 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
-| 17 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
-| 18 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 5,234 |
+| 11 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,395 |
+| 12 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,697 |
+| 13 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 7,392 |
+| 14 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,091 |
+| 15 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,665 |
+| 16 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
+| 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
+| 18 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
 | 20 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-09T09:41:34.668Z
+Generated: 2026-10-09T10:28:12.807Z

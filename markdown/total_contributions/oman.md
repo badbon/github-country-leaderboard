@@ -1,8 +1,8 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-09T09:41:17.292Z
+Generated: 2026-10-09T10:26:30.441Z
 
-Users: 996
+Users: 995
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

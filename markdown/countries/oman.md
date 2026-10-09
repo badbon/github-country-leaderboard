@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 996
+Indexed users: 995
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 996
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-09T09:41:17.292Z
+Generated: 2026-10-09T10:26:30.441Z

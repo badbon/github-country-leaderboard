@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,481
+Indexed users: 1,482
 
 | Leaderboard | Link |
 |---|---|
@@ -53,19 +53,19 @@ Indexed users: 1,481
 | 14 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  | Syria | 873 |
 | 15 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
 | 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
-| 17 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad | Damascus | 720 |
-| 18 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani | Latakia, Syria | 658 |
-| 19 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
-| 20 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
+| 17 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani | Latakia, Syria | 658 |
+| 18 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
+| 19 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
+| 20 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 574 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [meory101](https://github.com/meory101) | Nour Othman | Damascus Syria | 735 |
-| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 304 |
-| 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 303 |
-| 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 293 |
+| 1 | [meory101](https://github.com/meory101) | Nour Othman | Damascus Syria | 722 |
+| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 309 |
+| 3 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 303 |
+| 4 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 303 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 216 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 203 |
 | 7 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 174 |
@@ -83,4 +83,4 @@ Indexed users: 1,481
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-09T09:51:43.167Z
+Generated: 2026-10-09T10:38:06.875Z

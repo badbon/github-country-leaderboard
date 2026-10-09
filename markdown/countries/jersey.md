@@ -15,8 +15,8 @@ Indexed users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 53,466 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 37,953 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 10,997 |
-| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,083 |
-| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,107 |
+| 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,100 |
+| 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,110 |
 | 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,701 |
 | 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,592 |
 | 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,098 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-09T09:31:33.315Z
+Generated: 2026-10-09T10:16:32.687Z

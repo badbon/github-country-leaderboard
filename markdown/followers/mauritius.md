@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-09T09:36:14.237Z
+Generated: 2026-10-09T10:23:19.428Z
 
 Users: 715
 
@@ -15,8 +15,8 @@ Users: 715
 | 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 120 |
 | 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 115 |
 | 9 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 111 |
-| 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 107 |
-| 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | @cyberstormdotmu  |  | Mauritius | 100 |
+| 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 109 |
+| 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | @cyberstormdotmu  |  | Mauritius | 102 |
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 98 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Dayforce |  | Mauritius | 92 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | @balena-io  |  | Mauritius | 86 |

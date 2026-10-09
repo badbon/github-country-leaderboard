@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-09T09:49:52.598Z
+Generated: 2026-10-09T10:34:28.312Z
 
 Users: 858
 
@@ -12,17 +12,17 @@ Users: 858
 | 4 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6403 |
 | 5 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 5953 |
 | 6 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 5362 |
-| 7 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 5231 |
-| 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 4916 |
-| 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4833 |
-| 10 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 4168 |
-| 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 4017 |
-| 12 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 3983 |
-| 13 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3819 |
-| 14 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 3772 |
-| 15 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3543 |
-| 16 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | @jtechso |  | Mogadishu | 3321 |
-| 17 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Jamhuriya Technology Solutions | bashkahee | Mogadishu | 3296 |
-| 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |
-| 19 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Same - Software |  | Somalia | 2978 |
-| 20 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  |  |  | Mogadishu, Somalia | 2895 |
+| 7 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 4916 |
+| 8 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4833 |
+| 9 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 4168 |
+| 10 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 4017 |
+| 11 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 3983 |
+| 12 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3819 |
+| 13 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 3772 |
+| 14 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3543 |
+| 15 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | @jtechso |  | Mogadishu | 3321 |
+| 16 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Jamhuriya Technology Solutions | bashkahee | Mogadishu | 3296 |
+| 17 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |
+| 18 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Same - Software |  | Somalia | 2978 |
+| 19 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  |  |  | Mogadishu, Somalia | 2895 |
+| 20 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 2713 |

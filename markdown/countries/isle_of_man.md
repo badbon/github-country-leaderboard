@@ -29,8 +29,8 @@ Indexed users: 155
 | 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,232 |
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,206 |
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,198 |
-| 18 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,044 |
-| 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,032 |
+| 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,063 |
+| 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,044 |
 | 20 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,025 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-09T09:31:13.270Z
+Generated: 2026-10-09T10:15:35.776Z

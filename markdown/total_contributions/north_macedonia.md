@@ -1,17 +1,17 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-09T09:40:43.684Z
+Generated: 2026-10-09T10:26:22.396Z
 
-Users: 1938
+Users: 1937
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | EMIT Knowledge |  | Skopje | 13627 |
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 9016 |
-| 3 | [fetijashari](https://github.com/fetijashari) | Feti Jashari | @fetosoft | fetijashari | Kumanovo, Macedonia | 6979 |
-| 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov |  |  | Kochani, Macedonia | 6608 |
-| 5 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski |  |  | Macedonia [FYROM] | 6598 |
-| 6 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 6328 |
+| 3 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 7521 |
+| 4 | [fetijashari](https://github.com/fetijashari) | Feti Jashari | @fetosoft | fetijashari | Kumanovo, Macedonia | 6979 |
+| 5 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov |  |  | Kochani, Macedonia | 6608 |
+| 6 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski |  |  | Macedonia [FYROM] | 6598 |
 | 7 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5289 |
 | 8 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | @iCardioAI |  | Skopje, Macedonia | 5068 |
 | 9 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 4578 |

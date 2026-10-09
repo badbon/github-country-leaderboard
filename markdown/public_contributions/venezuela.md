@@ -1,6 +1,6 @@
 # Public Contributions - Venezuela
 
-Generated: 2026-10-09T09:54:05.140Z
+Generated: 2026-10-09T10:42:11.390Z
 
 Users: 6641
 
@@ -22,7 +22,7 @@ Users: 6641
 | 14 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute |  | gabrielfenyx | Venezuela | 1848 |
 | 15 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez |  | hejeroaz | Caracas, Venezuela | 1848 |
 | 16 | [claucondor](https://github.com/claucondor) | Claudio Condor | A0x Company |  | Merida, Venezuela | 1757 |
-| 17 | [joseorono](https://github.com/joseorono) | José Miguel Oroño |  |  | Maracaibo, Venezuela | 1620 |
-| 18 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1584 |
-| 19 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá |  | JesusAlcal41649 | Venezuela | 1579 |
-| 20 | [soukigabriel](https://github.com/soukigabriel) | Gabriel Souki Hernandez | AO Lab |  | Anzoategui, Venezuela | 1535 |
+| 17 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Intelix |  | Valencia, Venezuela | 1652 |
+| 18 | [joseorono](https://github.com/joseorono) | José Miguel Oroño |  |  | Maracaibo, Venezuela | 1620 |
+| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  |  | Arviixzuh_ | Venezuela | 1584 |
+| 20 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá |  | JesusAlcal41649 | Venezuela | 1579 |

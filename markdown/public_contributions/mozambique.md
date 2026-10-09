@@ -1,6 +1,6 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-09T09:38:39.716Z
+Generated: 2026-10-09T10:24:40.279Z
 
 Users: 1176
 
@@ -9,12 +9,12 @@ Users: 1176
 | 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 4574 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 3850 |
 | 3 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2545 |
-| 4 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | fluxosoftwares |  | Mozambique | 1601 |
-| 5 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | IPC Global Support Unit - FAO |  | Maputo | 1273 |
-| 6 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch |  | ubelloch | Mozambique, Maputo | 1115 |
-| 7 | [zerosatus](https://github.com/zerosatus) | zerosatus | Zerosatus |  | Mozambique | 1003 |
-| 8 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 974 |
-| 9 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 936 |
+| 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 2226 |
+| 5 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | fluxosoftwares |  | Mozambique | 1601 |
+| 6 | [tomaszaba](https://github.com/tomaszaba) | Tomás Zaba | IPC Global Support Unit - FAO |  | Maputo | 1273 |
+| 7 | [KainNhantumbo](https://github.com/KainNhantumbo) | Ubelloch |  | ubelloch | Mozambique, Maputo | 1115 |
+| 8 | [zerosatus](https://github.com/zerosatus) | zerosatus | Zerosatus |  | Mozambique | 1003 |
+| 9 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 974 |
 | 10 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | @pavulla-tech  |  | Mozambique | 721 |
 | 11 | [filipeive](https://github.com/filipeive) | Filipe  Domingos dos Santos | FDS | FilipeD30920066 | Mozambique | 690 |
 | 12 | [djafta](https://github.com/djafta) | Djafta | @Aervel |  | Mozambique | 674 |

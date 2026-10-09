@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-09T09:49:52.598Z
+Generated: 2026-10-09T10:34:28.312Z
 
 Users: 858
 
@@ -18,11 +18,11 @@ Users: 858
 | 10 | [Joseph-Abdullaah](https://github.com/Joseph-Abdullaah) | Joseph Abdullaahi |  | JosephAbdullaah | somalia | 735 |
 | 11 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 682 |
 | 12 | [ali-hmed](https://github.com/ali-hmed) | Ali ahmed |  |  | Mogadishu, Somalia | 647 |
-| 13 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 596 |
-| 14 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 570 |
-| 15 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir |  |  | Mogadishu-Somalia | 555 |
-| 16 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 537 |
-| 17 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Zamzam University of Science and Technology | HafsaHaajji | Mogadishu-Somalia | 529 |
-| 18 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 519 |
-| 19 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |
-| 20 | [mohamudabdikarin](https://github.com/mohamudabdikarin) | Mohamud Abdikarim |  |  | Somalia | 498 |
+| 13 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 605 |
+| 14 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 596 |
+| 15 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 570 |
+| 16 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir |  |  | Mogadishu-Somalia | 555 |
+| 17 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 537 |
+| 18 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Zamzam University of Science and Technology | HafsaHaajji | Mogadishu-Somalia | 529 |
+| 19 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 519 |
+| 20 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |

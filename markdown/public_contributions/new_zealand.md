@@ -1,14 +1,14 @@
 # Public Contributions - New Zealand
 
-Generated: 2026-10-09T10:10:02.645Z
+Generated: 2026-10-09T10:25:11.249Z
 
 Users: 12156
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ryanbr](https://github.com/ryanbr) | Fanboynz | @Brave | fanboyNZ | New Zealand | 53373 |
-| 2 | [mitch-john](https://github.com/mitch-john) |  |  | MitchJohnNZ | New Zealand | 28645 |
-| 3 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 22026 |
+| 2 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 29367 |
+| 3 | [mitch-john](https://github.com/mitch-john) |  |  | MitchJohnNZ | New Zealand | 28645 |
 | 4 | [cgbarlow](https://github.com/cgbarlow) | Chris Barlow |  |  | Wellington, New Zealand | 10902 |
 | 5 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 10779 |
 | 6 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 9592 |

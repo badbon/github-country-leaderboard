@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-09T09:32:46.182Z
+Generated: 2026-10-09T10:20:04.614Z
 
 Users: 744
 
@@ -14,15 +14,15 @@ Users: 744
 | 6 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Bentlos |  | Tripoli, Libya | 701 |
 | 7 | [azzubairx](https://github.com/azzubairx) | Azzubair |  |  | Libya | 683 |
 | 8 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 665 |
-| 9 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 639 |
-| 10 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash |  |  | Libya | 613 |
-| 11 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 598 |
-| 12 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 547 |
-| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 476 |
-| 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 437 |
-| 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 423 |
-| 16 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 362 |
-| 17 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
-| 18 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
-| 19 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 345 |
-| 20 | [KingKnull](https://github.com/KingKnull) | Sanad | Tech enthusiast \| IT Consultant@LCO \| Cybersecurity\| \| Polyglot  | OblivraLabs | Tripoli, Libya | 335 |
+| 9 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 655 |
+| 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 639 |
+| 11 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash |  |  | Libya | 613 |
+| 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 598 |
+| 13 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 547 |
+| 14 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 476 |
+| 15 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 437 |
+| 16 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 423 |
+| 17 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 362 |
+| 18 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
+| 19 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
+| 20 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 345 |

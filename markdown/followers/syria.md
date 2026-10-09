@@ -1,15 +1,15 @@
 # Followers - Syria
 
-Generated: 2026-10-09T09:51:43.167Z
+Generated: 2026-10-09T10:38:06.875Z
 
-Users: 1481
+Users: 1482
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [meory101](https://github.com/meory101) | Nour Othman |  |  | Damascus Syria | 735 |
-| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 304 |
-| 3 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 303 |
-| 4 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | Rako |  | syria | 293 |
+| 1 | [meory101](https://github.com/meory101) | Nour Othman |  |  | Damascus Syria | 722 |
+| 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 309 |
+| 3 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | Rako |  | syria | 303 |
+| 4 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 303 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 216 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 203 |
 | 7 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |

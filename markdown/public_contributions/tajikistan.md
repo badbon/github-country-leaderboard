@@ -1,6 +1,6 @@
 # Public Contributions - Tajikistan
 
-Generated: 2026-10-09T09:51:50.568Z
+Generated: 2026-10-09T10:38:25.158Z
 
 Users: 711
 
@@ -19,10 +19,10 @@ Users: 711
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov |  |  | Dushanbe, Tajikistan | 671 |
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf |  |  | Dushanbe | 658 |
 | 13 | [Roma-723](https://github.com/Roma-723) | Yusufjon |  |  | Dushanbe | 476 |
-| 14 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 452 |
-| 15 | [llcsanjar](https://github.com/llcsanjar) | Sanjar |  |  | Tajikistan | 443 |
-| 16 | [rustamovy9](https://github.com/rustamovy9) |  |  |  | Dushanbe,Tajikistan | 428 |
-| 17 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 419 |
-| 18 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov |  |  | Tajikistan, Khujand | 416 |
-| 19 | [podshoevbunyod16-sketch](https://github.com/podshoevbunyod16-sketch) | Bunyod |  |  | Tajikistan  | 394 |
-| 20 | [Melikzoda-Muslihiddin](https://github.com/Melikzoda-Muslihiddin) | Muslim Melikzoda |  |  | Dushanbe | 383 |
+| 14 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov |  |  | Dushanbe, Tajikistan | 469 |
+| 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 452 |
+| 16 | [llcsanjar](https://github.com/llcsanjar) | Sanjar |  |  | Tajikistan | 443 |
+| 17 | [rustamovy9](https://github.com/rustamovy9) |  |  |  | Dushanbe,Tajikistan | 428 |
+| 18 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 419 |
+| 19 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov |  |  | Tajikistan, Khujand | 416 |
+| 20 | [podshoevbunyod16-sketch](https://github.com/podshoevbunyod16-sketch) | Bunyod |  |  | Tajikistan  | 394 |

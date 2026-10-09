@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-09T09:31:04.394Z
+Generated: 2026-10-09T10:15:26.429Z
 
 Users: 2256
 
@@ -22,7 +22,7 @@ Users: 2256
 | 14 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 5960 |
 | 15 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Lezzoo Inc. | Rekar_Botany | Iraq, Erbil | 5958 |
 | 16 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5941 |
-| 17 | [MohamadTahir](https://github.com/MohamadTahir) | Mohammad Tahir | @ditkrg  | _MohammedTahir | Erbil, Iraq | 5492 |
-| 18 | [AhmedITD](https://github.com/AhmedITD) | Ahmed Imad Tarq |  |  | Iraq, Baghdad | 5362 |
-| 19 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Otee.co |  | Erbil, Iraq | 5244 |
-| 20 | [Ali24Aldayoub](https://github.com/Ali24Aldayoub) | Ali Aldayoub | SKY Control |  | iraq , Erbil | 5238 |
+| 17 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 5566 |
+| 18 | [MohamadTahir](https://github.com/MohamadTahir) | Mohammad Tahir | @ditkrg  | _MohammedTahir | Erbil, Iraq | 5492 |
+| 19 | [AhmedITD](https://github.com/AhmedITD) | Ahmed Imad Tarq |  |  | Iraq, Baghdad | 5362 |
+| 20 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Otee.co |  | Erbil, Iraq | 5244 |

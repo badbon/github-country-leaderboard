@@ -1,8 +1,8 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-09T09:54:43.178Z
+Generated: 2026-10-09T10:42:32.161Z
 
-Users: 1218
+Users: 1216
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 1218
 | 6 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 3489 |
 | 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati |  | alqubatihakim | Yemen | 3321 |
 | 8 | [mibo01699](https://github.com/mibo01699) | Mayass Ali  | Arabian Eagle A.E.C . 🌐🦅 | Arabianeagleaec | Yemen  | 2133 |
-| 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Freelance |  | Yemen | 1896 |
+| 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Freelance |  | Yemen | 2076 |
 | 10 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | NMCP |  | Yemen | 1856 |
 | 11 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1338 |
 | 12 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1287 |

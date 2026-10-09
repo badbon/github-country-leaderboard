@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-09T09:31:13.270Z
+Generated: 2026-10-09T10:15:35.776Z
 
 Users: 155
 
@@ -23,6 +23,6 @@ Users: 155
 | 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo |  |  | Isle of Man | 1232 |
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1206 |
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1198 |
-| 18 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1044 |
-| 19 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1032 |
+| 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1063 |
+| 19 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1044 |
 | 20 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 1025 |

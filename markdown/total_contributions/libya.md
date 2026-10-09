@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-09T09:32:46.182Z
+Generated: 2026-10-09T10:20:04.614Z
 
 Users: 744
 
@@ -20,9 +20,9 @@ Users: 744
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh |  |  | Libya | 6766 |
 | 13 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Software Pioneers |  | Zawia, Libya | 6136 |
 | 14 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6016 |
-| 15 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela |  |  | Libya | 5372 |
-| 16 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5149 |
-| 17 | [EngGharbia](https://github.com/EngGharbia) | Ben Gharbia |  |  | Tripoli-Libya | 4886 |
-| 18 | [Anas-taleb99](https://github.com/Anas-taleb99) |  |  |  | Libya | 4622 |
-| 19 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 4413 |
-| 20 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 4193 |
+| 15 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 5640 |
+| 16 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela |  |  | Libya | 5372 |
+| 17 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5149 |
+| 18 | [EngGharbia](https://github.com/EngGharbia) | Ben Gharbia |  |  | Tripoli-Libya | 4886 |
+| 19 | [erabti](https://github.com/erabti) | Ahmed Erabti | @libyanspider |  | Libya | 4712 |
+| 20 | [Anas-taleb99](https://github.com/Anas-taleb99) |  |  |  | Libya | 4622 |

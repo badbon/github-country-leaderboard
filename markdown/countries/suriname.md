@@ -69,8 +69,8 @@ Indexed users: 123
 | 5 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Paramaribo, Suriname | 39 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | Paramaribo | 38 |
 | 7 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam | Suriname | 38 |
-| 8 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 37 |
-| 9 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 36 |
+| 8 | [eSaniello](https://github.com/eSaniello) | Shaniel  | Suriname | 36 |
+| 9 | [Karel95](https://github.com/Karel95) | Karel Hernández | Paramaribo, Suriname | 36 |
 | 10 | [shayant98](https://github.com/shayant98) | Shayant | Suriname | 36 |
 | 11 | [m23ck](https://github.com/m23ck) | Tafarél Mack | Paramaribo/Suriname | 35 |
 | 12 | [kareldonk](https://github.com/kareldonk) | Karel Donk | Suriname | 28 |
@@ -83,4 +83,4 @@ Indexed users: 123
 | 19 | [JovinF](https://github.com/JovinF) | Jovin Fransman | Suriname | 18 |
 | 20 | [Your1405](https://github.com/Your1405) | Youri Karijopawiro | Paramaribo, Suriname | 18 |
 
-Generated: 2026-10-09T09:50:33.985Z
+Generated: 2026-10-09T10:36:22.361Z

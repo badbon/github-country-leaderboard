@@ -1,6 +1,6 @@
 # North Macedonia
 
-Indexed users: 1,938
+Indexed users: 1,937
 
 | Leaderboard | Link |
 |---|---|
@@ -14,10 +14,10 @@ Indexed users: 1,938
 |---:|---|---|---|---:|
 | 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | Skopje | 13,627 |
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 9,016 |
-| 3 | [fetijashari](https://github.com/fetijashari) | Feti Jashari | Kumanovo, Macedonia | 6,979 |
-| 4 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov | Kochani, Macedonia | 6,608 |
-| 5 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski | Macedonia [FYROM] | 6,598 |
-| 6 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 6,328 |
+| 3 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 7,521 |
+| 4 | [fetijashari](https://github.com/fetijashari) | Feti Jashari | Kumanovo, Macedonia | 6,979 |
+| 5 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov | Kochani, Macedonia | 6,608 |
+| 6 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski | Macedonia [FYROM] | 6,598 |
 | 7 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | Skopje, Macedonia | 5,289 |
 | 8 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | Skopje, Macedonia | 5,068 |
 | 9 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 4,578 |
@@ -48,8 +48,8 @@ Indexed users: 1,938
 | 9 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 1,013 |
 | 10 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
 | 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 990 |
-| 12 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 931 |
-| 13 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 927 |
+| 12 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 933 |
+| 13 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 931 |
 | 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 922 |
 | 15 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 921 |
 | 16 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 907 |
@@ -83,4 +83,4 @@ Indexed users: 1,938
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-09T09:40:43.684Z
+Generated: 2026-10-09T10:26:22.396Z

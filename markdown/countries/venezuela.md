@@ -53,10 +53,10 @@ Indexed users: 6,641
 | 14 | [gabrielbaute](https://github.com/gabrielbaute) | Gabriel Baute | Venezuela | 1,848 |
 | 15 | [hrodrig](https://github.com/hrodrig) | Hermes Rodríguez | Caracas, Venezuela | 1,848 |
 | 16 | [claucondor](https://github.com/claucondor) | Claudio Condor | Merida, Venezuela | 1,757 |
-| 17 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
-| 18 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
-| 19 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá | Venezuela | 1,579 |
-| 20 | [soukigabriel](https://github.com/soukigabriel) | Gabriel Souki Hernandez | Anzoategui, Venezuela | 1,535 |
+| 17 | [JesusAraujoDEV](https://github.com/JesusAraujoDEV) | Jesús Alberto Araujo Arteaga | Valencia, Venezuela | 1,652 |
+| 18 | [joseorono](https://github.com/joseorono) | José Miguel Oroño | Maracaibo, Venezuela | 1,620 |
+| 19 | [Arviixzuh](https://github.com/Arviixzuh) |  | Venezuela | 1,584 |
+| 20 | [jesusalcaladev](https://github.com/jesusalcaladev) | Jesús Alcalá | Venezuela | 1,579 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,641
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-09T09:54:05.140Z
+Generated: 2026-10-09T10:42:11.390Z

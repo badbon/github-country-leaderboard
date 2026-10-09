@@ -1,8 +1,8 @@
 # Followers - Yemen
 
-Generated: 2026-10-09T09:54:43.178Z
+Generated: 2026-10-09T10:42:32.161Z
 
-Users: 1218
+Users: 1216
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

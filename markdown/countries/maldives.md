@@ -25,9 +25,9 @@ Indexed users: 354
 | 11 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,965 |
 | 12 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,888 |
 | 13 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,731 |
-| 14 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,710 |
-| 15 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,440 |
-| 16 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 4,422 |
+| 14 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,685 |
+| 15 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 4,485 |
+| 16 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,440 |
 | 17 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,280 |
 | 18 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,190 |
 | 19 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,160 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-09T09:34:22.142Z
+Generated: 2026-10-09T10:21:01.601Z

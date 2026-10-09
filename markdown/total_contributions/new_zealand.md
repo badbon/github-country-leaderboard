@@ -1,6 +1,6 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-09T10:10:02.645Z
+Generated: 2026-10-09T10:25:11.249Z
 
 Users: 12156
 
@@ -8,9 +8,9 @@ Users: 12156
 |---:|---|---|---|---|---|---:|
 | 1 | [rikkigouda](https://github.com/rikkigouda) | Rikki | @Higher-Engineers | rikkigouda | Aotearoa | 82632 |
 | 2 | [ryanbr](https://github.com/ryanbr) | Fanboynz | @Brave | fanboyNZ | New Zealand | 53373 |
-| 3 | [mitch-john](https://github.com/mitch-john) |  |  | MitchJohnNZ | New Zealand | 28645 |
-| 4 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson |  |  | Cambridge, New Zealand | 24210 |
-| 5 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 23496 |
+| 3 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 30796 |
+| 4 | [mitch-john](https://github.com/mitch-john) |  |  | MitchJohnNZ | New Zealand | 28645 |
+| 5 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson |  |  | Cambridge, New Zealand | 24210 |
 | 6 | [dreamineering](https://github.com/dreamineering) | howzus | dreamineering | howzus | New Zealand | 19987 |
 | 7 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 19954 |
 | 8 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Enspiral | joshuavial | Wellington, New Zealand | 16399 |

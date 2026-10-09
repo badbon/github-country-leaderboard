@@ -1,8 +1,8 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-09T09:51:43.167Z
+Generated: 2026-10-09T10:38:06.875Z
 
-Users: 1481
+Users: 1482
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1481
 | 14 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  |  |  | Syria | 873 |
 | 15 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 744 |
 | 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 741 |
-| 17 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad |  |  | Damascus | 720 |
-| 18 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani |  |  | Latakia, Syria | 658 |
-| 19 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | mouayad.alhamwi.ma@gmail.com |  | Damascus, Syria | 653 |
-| 20 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
+| 17 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani |  |  | Latakia, Syria | 658 |
+| 18 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | mouayad.alhamwi.ma@gmail.com |  | Damascus, Syria | 653 |
+| 19 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
+| 20 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 574 |

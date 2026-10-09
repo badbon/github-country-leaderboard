@@ -1,6 +1,6 @@
 # Followers - Sudan
 
-Generated: 2026-10-09T09:50:33.000Z
+Generated: 2026-10-09T10:35:50.602Z
 
 Users: 729
 
@@ -11,10 +11,10 @@ Users: 729
 | 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Bug Hunter | wadgamaraldeen | Sudan | 168 |
 | 4 | [amolood](https://github.com/amolood) | ABDALRAHMAN MOLOOD | Digitalize lab for information technology |  | Khartoum,Sudan | 146 |
 | 5 | [oovaa](https://github.com/oovaa) | Omar  | SMAfrica | Omarvx211 | Sudan | 116 |
-| 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 110 |
+| 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 112 |
 | 7 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 109 |
-| 8 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia |  | 0x01_Muawia | Sudan | 87 |
-| 9 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil |  | _phr3nzy | Sudan | 87 |
+| 8 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil |  | _phr3nzy | Sudan | 89 |
+| 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia |  | 0x01_Muawia | Sudan | 87 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab |  | abdalla__arbab | Khartoum, Sudan | 76 |
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | I work for myself ✋ |  | sudan | 73 |
 | 12 | [attaryz](https://github.com/attaryz) | Abdullah Ali |  | attaryz94 | Khartoum, Sudan | 61 |

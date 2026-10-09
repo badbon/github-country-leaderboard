@@ -1,8 +1,8 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-09T09:40:43.684Z
+Generated: 2026-10-09T10:26:22.396Z
 
-Users: 1938
+Users: 1937
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,8 +17,8 @@ Users: 1938
 | 9 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | ONINOVA |  | Skopje | 1013 |
 | 10 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | CodeChem |  | Skopje, North Macedonia | 1008 |
 | 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | @GetStream |  | Skopje, Macedonia | 990 |
-| 12 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 931 |
-| 13 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 927 |
+| 12 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 933 |
+| 13 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Hornetsecurity |  | Skopje | 931 |
 | 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski |  | GoceMitevski | Skopje, North Macedonia | 922 |
 | 15 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 921 |
 | 16 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 907 |

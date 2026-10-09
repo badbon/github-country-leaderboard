@@ -14,9 +14,9 @@ Indexed users: 12,156
 |---:|---|---|---|---:|
 | 1 | [rikkigouda](https://github.com/rikkigouda) | Rikki | Aotearoa | 82,632 |
 | 2 | [ryanbr](https://github.com/ryanbr) | Fanboynz | New Zealand | 53,373 |
-| 3 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
-| 4 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson | Cambridge, New Zealand | 24,210 |
-| 5 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 23,496 |
+| 3 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 30,796 |
+| 4 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
+| 5 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson | Cambridge, New Zealand | 24,210 |
 | 6 | [dreamineering](https://github.com/dreamineering) | howzus | New Zealand | 19,987 |
 | 7 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 19,954 |
 | 8 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Wellington, New Zealand | 16,399 |
@@ -38,8 +38,8 @@ Indexed users: 12,156
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ryanbr](https://github.com/ryanbr) | Fanboynz | New Zealand | 53,373 |
-| 2 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
-| 3 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 22,026 |
+| 2 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 29,367 |
+| 3 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
 | 4 | [cgbarlow](https://github.com/cgbarlow) | Chris Barlow | Wellington, New Zealand | 10,902 |
 | 5 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 10,779 |
 | 6 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 9,592 |
@@ -83,4 +83,4 @@ Indexed users: 12,156
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-09T10:10:02.645Z
+Generated: 2026-10-09T10:25:11.249Z

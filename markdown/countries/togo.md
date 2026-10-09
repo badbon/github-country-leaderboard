@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 680
+Indexed users: 679
 
 | Leaderboard | Link |
 |---|---|
@@ -54,9 +54,9 @@ Indexed users: 680
 | 15 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 827 |
 | 16 | [boboPrem1](https://github.com/boboPrem1) | Amouzougan Kangni Juvanio | Togo | 820 |
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
-| 18 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
-| 19 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
-| 20 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 642 |
+| 18 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Lomé, TOGO | 709 |
+| 19 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
+| 20 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 680
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-09T09:52:27.373Z
+Generated: 2026-10-09T10:39:24.264Z

@@ -1,6 +1,6 @@
 # Followers - Libya
 
-Generated: 2026-10-09T09:32:46.182Z
+Generated: 2026-10-09T10:20:04.614Z
 
 Users: 744
 
@@ -18,8 +18,8 @@ Users: 744
 | 10 | [Abdullah-Arab](https://github.com/Abdullah-Arab) | Abdullah Arab | Golden Network | AbdullahArab101 | tripoli / libya | 70 |
 | 11 | [Mahamed-Belkheir](https://github.com/Mahamed-Belkheir) |  | Taking a break |  | Libya, Benghazi | 64 |
 | 12 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 61 |
-| 13 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah |  |  | Tripoli, Libya | 60 |
-| 14 | [tahaak67](https://github.com/tahaak67) | Taha Ben Ashur |  |  | Libya | 60 |
+| 13 | [tahaak67](https://github.com/tahaak67) | Taha Ben Ashur |  |  | Libya | 61 |
+| 14 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah |  |  | Tripoli, Libya | 60 |
 | 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Almadar Aljadid | aladdin_sonni | Tripoli - Libya | 58 |
 | 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar |  | ridalabbar | Benghazi, Libya | 58 |
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 57 |
