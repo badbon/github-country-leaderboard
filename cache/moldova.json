@@ -8264,7 +8264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 54,
     "createdAt": "2020-07-14T18:36:16Z"
   },
   {
@@ -8276,7 +8276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2020-06-22T09:59:54Z"
   },
   {
@@ -8311,7 +8311,7 @@
     "company": "Teachbase",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 409,
+    "privateContributions": 529,
     "publicContributions": 2,
     "createdAt": "2020-05-10T15:44:41Z"
   },
@@ -8322,7 +8322,7 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-02T15:42:23Z"
@@ -8332,11 +8332,11 @@
     "name": "Alex",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62892991?s=72&u=f18aec0dc935b26ef6e938441677b6c0b7981d45&v=4",
     "location": "Chișinău",
-    "company": "",
+    "company": "@December-Capital ",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 324,
-    "publicContributions": 57,
+    "followers": 11,
+    "privateContributions": 159,
+    "publicContributions": 87,
     "createdAt": "2020-03-30T14:26:33Z"
   },
   {
@@ -8346,9 +8346,9 @@
     "location": "Chișinău",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 17,
     "createdAt": "2020-07-02T09:27:50Z"
   },
   {
@@ -8360,7 +8360,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 421,
+    "publicContributions": 360,
     "createdAt": "2020-05-16T09:37:03Z"
   },
   {
@@ -8372,7 +8372,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 188,
+    "publicContributions": 340,
     "createdAt": "2020-08-28T19:48:28Z"
   },
   {
@@ -8394,7 +8394,7 @@
     "location": "Chișinău",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-07T08:07:35Z"
@@ -8408,7 +8408,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 210,
     "createdAt": "2020-09-11T13:16:40Z"
   },
   {
@@ -8443,21 +8443,9 @@
     "company": "@iucosoftpro",
     "twitterUsername": "",
     "followers": 50,
-    "privateContributions": 384,
+    "privateContributions": 294,
     "publicContributions": 1,
     "createdAt": "2019-10-28T17:44:32Z"
-  },
-  {
-    "login": "Raduc4",
-    "name": "Radu Cazacu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55291600?s=72&u=f002882fc1e2a81f780ee6d6e2e08284d5eed295&v=4",
-    "location": "Moldova",
-    "company": "Windows XP",
-    "twitterUsername": "radu_c4",
-    "followers": 46,
-    "privateContributions": 634,
-    "publicContributions": 22,
-    "createdAt": "2019-09-13T16:37:30Z"
   },
   {
     "login": "BlackBaroness",
@@ -8466,9 +8454,9 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 814,
-    "publicContributions": 223,
+    "followers": 24,
+    "privateContributions": 799,
+    "publicContributions": 217,
     "createdAt": "2019-10-26T09:41:34Z"
   },
   {
@@ -8478,8 +8466,8 @@
     "location": "Russia/Moldova",
     "company": "RabotaMD",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 634,
+    "followers": 26,
+    "privateContributions": 440,
     "publicContributions": 0,
     "createdAt": "2019-04-29T09:01:46Z"
   },
@@ -8490,9 +8478,9 @@
     "location": "Balti, Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 302,
-    "publicContributions": 256,
+    "followers": 24,
+    "privateContributions": 980,
+    "publicContributions": 270,
     "createdAt": "2019-10-16T18:33:35Z"
   },
   {

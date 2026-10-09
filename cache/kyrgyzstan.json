@@ -8034,7 +8034,7 @@
     "location": "Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-03-28T12:43:29Z"
@@ -8046,7 +8046,7 @@
     "location": "Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2022-11-29T12:39:51Z"
@@ -8058,9 +8058,9 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "Attractor Software",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2022-05-18T07:53:36Z"
   },
   {
@@ -8070,9 +8070,9 @@
     "location": "Kyrgyzstan",
     "company": "Megalab",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-09-21T13:22:51Z"
   },
   {
@@ -8094,7 +8094,7 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-02-26T07:52:11Z"
@@ -8156,7 +8156,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 217,
     "createdAt": "2022-02-15T07:00:48Z"
   },
   {
@@ -8216,12 +8216,12 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 220,
+    "publicContributions": 146,
     "createdAt": "2022-02-10T12:50:49Z"
   },
   {
     "login": "Prinsiipy",
-    "name": "Chomoev Iskhak",
+    "name": "Desiderata",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121511352?s=72&u=405922c6a76ea494d15969dddd8b9432c929e812&v=4",
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
@@ -8238,8 +8238,8 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 174,
+    "followers": 4,
+    "privateContributions": 190,
     "publicContributions": 82,
     "createdAt": "2022-02-17T05:52:39Z"
   },

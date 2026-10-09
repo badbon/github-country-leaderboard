@@ -8155,8 +8155,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 40,
+    "privateContributions": 5,
+    "publicContributions": 127,
     "createdAt": "2025-04-29T14:51:59Z"
   },
   {
@@ -8192,7 +8192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-11T14:18:33Z"
   },
   {
@@ -8216,7 +8216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2025-01-12T14:51:34Z"
   },
   {
@@ -8227,7 +8227,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 951,
+    "privateContributions": 1163,
     "publicContributions": 126,
     "createdAt": "2025-07-14T08:33:18Z"
   },
@@ -8252,7 +8252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2025-03-23T17:12:55Z"
   },
   {
@@ -8264,32 +8264,20 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 11,
-    "publicContributions": 314,
+    "publicContributions": 313,
     "createdAt": "2025-08-18T13:59:45Z"
   },
   {
     "login": "amiinemohamed",
     "name": "Amine Mohamed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246564200?s=72&u=5dc3b5cc35c9c18d9672a542d9a93974a60e606f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246564200?s=72&u=8c4950437e5d77fcf0df0a15b3f11ce64e5d9124&v=4",
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
+    "followers": 2,
+    "privateContributions": 13,
+    "publicContributions": 60,
     "createdAt": "2025-11-27T20:10:46Z"
-  },
-  {
-    "login": "html-error404",
-    "name": "omar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250990896?s=72&u=f31a72e6af6f1635b2f028e27108225450847a04&v=4",
-    "location": "Morocco - Rabat",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2025-12-22T12:22:12Z"
   },
   {
     "login": "noorhayssan-bot",
@@ -8299,21 +8287,9 @@
     "company": "#",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
+    "privateContributions": 68,
     "publicContributions": 16,
     "createdAt": "2025-10-26T01:31:01Z"
-  },
-  {
-    "login": "Carbon14-48",
-    "name": "BERRICHI Mohammed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195946957?s=72&u=8220e8cbcd7efc2b28c8b1f8b836f207b25b0de3&v=4",
-    "location": "Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 502,
-    "createdAt": "2025-01-21T17:36:51Z"
   },
   {
     "login": "aka1976mb",
@@ -8322,33 +8298,21 @@
     "location": "RABAT",
     "company": "start export",
     "twitterUsername": "",
-    "followers": 270,
+    "followers": 268,
     "privateContributions": 0,
     "publicContributions": 387,
     "createdAt": "2025-11-14T14:15:47Z"
   },
   {
-    "login": "Hei33enberg",
-    "name": "hiddenSOCIETY™",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201495027?s=72&u=99a318458f6e73cb05396fbb2b0f0dd6304a7e50&v=4",
-    "location": "👑 Rabat 👑",
-    "company": "†[®∆{꥟}∆®]† Inc.",
-    "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 26401,
-    "publicContributions": 548,
-    "createdAt": "2025-03-02T20:05:20Z"
-  },
-  {
     "login": "ahmedaitelaaoud",
     "name": "AIT ELAAOUD Ahmed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239673144?s=72&u=18f7328cc464ebec38972631c56545df775084f7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239673144?s=72&v=4",
     "location": "Rabat",
     "company": "1337 Coding school",
     "twitterUsername": "",
     "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 299,
+    "publicContributions": 319,
     "createdAt": "2025-10-22T21:03:55Z"
   },
   {
@@ -8358,9 +8322,9 @@
     "location": "RABAT",
     "company": "ENSIAS",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 50,
+    "followers": 14,
+    "privateContributions": 2,
+    "publicContributions": 216,
     "createdAt": "2025-06-06T08:15:44Z"
   },
   {
@@ -8370,9 +8334,9 @@
     "location": "RABAT",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 140,
     "createdAt": "2025-01-24T11:52:51Z"
   },
   {

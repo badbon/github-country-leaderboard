@@ -8120,7 +8120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 53,
     "createdAt": "2024-12-21T04:57:30Z"
   },
   {
@@ -8132,7 +8132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2024-09-17T07:30:15Z"
   },
   {
@@ -8148,27 +8148,15 @@
     "createdAt": "2023-03-12T10:24:57Z"
   },
   {
-    "login": "Nai64",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122532548?s=72&u=c9f573dfb2134abaf88fcb00eddf818dfda60c28&v=4",
-    "location": "Kazakhstan",
-    "company": "",
-    "twitterUsername": "nai_sucks",
-    "followers": 6537,
-    "privateContributions": 2425,
-    "publicContributions": 1027,
-    "createdAt": "2023-01-12T11:44:49Z"
-  },
-  {
     "login": "Kairatzh",
     "name": "kirtzh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148870880?s=72&u=1e1f055d7ea65d0f95a5ef61f1b536f515ee6af5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148870880?s=72&u=0f1be3dd3be15f513522b6b8684fbcfba0267aff&v=4",
     "location": "Aktobe, Kazakhstan",
     "company": "K.Zhubanov university",
     "twitterUsername": "",
-    "followers": 2025,
-    "privateContributions": 937,
-    "publicContributions": 27,
+    "followers": 2112,
+    "privateContributions": 884,
+    "publicContributions": 87,
     "createdAt": "2023-10-24T12:00:28Z"
   },
   {
@@ -8178,9 +8166,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 113,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 116,
+    "privateContributions": 84,
+    "publicContributions": 1,
     "createdAt": "2023-10-01T10:11:32Z"
   },
   {
@@ -8190,7 +8178,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 96,
+    "followers": 94,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-14T15:17:36Z"
@@ -8214,9 +8202,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 150,
-    "publicContributions": 145,
+    "followers": 55,
+    "privateContributions": 176,
+    "publicContributions": 137,
     "createdAt": "2023-05-11T03:55:22Z"
   },
   {
@@ -8226,9 +8214,9 @@
     "location": "Almaty,Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 172,
-    "publicContributions": 78,
+    "followers": 49,
+    "privateContributions": 173,
+    "publicContributions": 51,
     "createdAt": "2023-03-19T20:12:55Z"
   },
   {
@@ -8238,9 +8226,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 42,
     "privateContributions": 28,
-    "publicContributions": 50,
+    "publicContributions": 24,
     "createdAt": "2023-10-14T18:24:06Z"
   },
   {
@@ -8250,7 +8238,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "vereschagin_al",
-    "followers": 44,
+    "followers": 41,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-23T11:08:57Z"
@@ -8262,9 +8250,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "cat_edelveis",
-    "followers": 41,
+    "followers": 43,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 253,
     "createdAt": "2023-10-25T12:45:31Z"
   },
   {
@@ -8282,13 +8270,13 @@
   {
     "login": "mfhonley",
     "name": "mfhonley",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123823983?s=72&u=1f7f4c52c1209e9e7cc93f98a7d0d834fd90b888&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123823983?s=72&u=a3d45cf047454e0cd1391413a3a316b218365505&v=4",
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 7028,
-    "publicContributions": 328,
+    "followers": 43,
+    "privateContributions": 7366,
+    "publicContributions": 215,
     "createdAt": "2023-01-28T15:43:57Z"
   },
   {
@@ -8298,9 +8286,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 1382,
-    "publicContributions": 455,
+    "followers": 40,
+    "privateContributions": 1702,
+    "publicContributions": 353,
     "createdAt": "2023-12-13T16:36:30Z"
   },
   {
@@ -8310,9 +8298,9 @@
     "location": "Atyrau, Kazakhstan",
     "company": "Robosoft LLP",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 99,
     "createdAt": "2023-10-18T09:13:09Z"
   },
   {
@@ -8322,7 +8310,7 @@
     "location": "Kazakhstan, Almaty",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-12T07:41:21Z"
@@ -8334,9 +8322,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 78,
-    "publicContributions": 113,
+    "followers": 29,
+    "privateContributions": 75,
+    "publicContributions": 107,
     "createdAt": "2023-10-28T11:11:25Z"
   },
   {

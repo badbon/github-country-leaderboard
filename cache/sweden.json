@@ -7544,7 +7544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 233,
     "createdAt": "2025-12-21T10:57:53Z"
   },
   {
@@ -7566,9 +7566,9 @@
     "location": "Gothenburg, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 188,
     "createdAt": "2025-04-15T14:44:55Z"
   },
   {
@@ -7616,7 +7616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-01-08T17:04:59Z"
   },
   {
@@ -7628,7 +7628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2025-09-03T11:19:27Z"
   },
   {
@@ -7640,7 +7640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-08-17T15:43:55Z"
   },
   {
@@ -7652,7 +7652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2025-08-17T20:04:13Z"
   },
   {
@@ -7664,18 +7664,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 379,
     "createdAt": "2025-10-07T21:56:01Z"
   },
   {
     "login": "CoreAISweden",
     "name": "Sam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/245359593?s=72&u=322d30aa028d4e8a4ab4f27885a0403a3acc096b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/245359593?s=72&u=ededba1fef6b5effdb9a2e0c92aab14f5c9e588a&v=4",
     "location": "Sweden",
     "company": "CoreAISweden",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 247,
+    "followers": 2,
+    "privateContributions": 259,
     "publicContributions": 1,
     "createdAt": "2025-11-21T10:17:32Z"
   },
@@ -7688,32 +7688,20 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 5,
-    "publicContributions": 32,
+    "publicContributions": 15,
     "createdAt": "2025-01-13T20:48:13Z"
   },
   {
     "login": "agnjuh",
     "name": "Ágnes J Juhász",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194482874?s=72&u=399b1a8ffdafe35a24a4e59ad3fd086542f66a12&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194482874?s=72&u=74a4281dd30d6ad3b759867e81dd3c7f556ceba1&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 40,
-    "publicContributions": 340,
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 335,
     "createdAt": "2025-01-10T09:44:23Z"
-  },
-  {
-    "login": "NexoryDevelopments",
-    "name": "Nexory Developments",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211164024?s=72&u=6799d0cf1f71ec22c93fcf595ecb4735078fb09a&v=4",
-    "location": "Sweden",
-    "company": "Nexory Developments",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 384,
-    "publicContributions": 36,
-    "createdAt": "2025-05-10T21:43:16Z"
   },
   {
     "login": "bobtri",
@@ -7724,7 +7712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 186,
     "createdAt": "2025-10-21T16:45:19Z"
   },
   {
@@ -7734,9 +7722,9 @@
     "location": "Stockholm,Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 31,
-    "publicContributions": 70,
+    "publicContributions": 126,
     "createdAt": "2025-05-06T17:03:06Z"
   },
   {

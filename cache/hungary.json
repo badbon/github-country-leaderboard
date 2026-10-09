@@ -134314,5 +134314,29 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2026-06-05T08:28:36Z"
+  },
+  {
+    "login": "observe-encoder",
+    "name": "raymondd",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287638862?s=72&u=b20fa184f77b843e0bd17b92717e46baf8c304ea&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-05-25T08:22:52Z"
+  },
+  {
+    "login": "diamond-fist",
+    "name": "Daniel Bozo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286788136?s=72&v=4",
+    "location": "Budapest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-21T20:50:57Z"
   }
 ]

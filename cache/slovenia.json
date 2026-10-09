@@ -8275,8 +8275,8 @@
     "company": "Trunk Tech Solutions",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1841,
-    "publicContributions": 164,
+    "privateContributions": 2315,
+    "publicContributions": 99,
     "createdAt": "2020-12-01T13:07:30Z"
   },
   {
@@ -8288,7 +8288,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 40,
     "createdAt": "2020-12-25T10:27:27Z"
   },
   {
@@ -8299,7 +8299,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2651,
+    "privateContributions": 2583,
     "publicContributions": 12,
     "createdAt": "2020-12-26T18:47:39Z"
   },
@@ -8310,7 +8310,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2020-01-11T22:48:13Z"
@@ -8336,7 +8336,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 1,
-    "publicContributions": 18,
+    "publicContributions": 2,
     "createdAt": "2020-05-06T08:24:49Z"
   },
   {
@@ -8346,7 +8346,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-02T15:20:17Z"
@@ -8360,7 +8360,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2020-12-17T11:17:05Z"
   },
   {
@@ -8370,9 +8370,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2020-03-08T21:51:12Z"
   },
   {
@@ -8395,8 +8395,8 @@
     "company": "GEN-I",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 94,
-    "publicContributions": 60,
+    "privateContributions": 73,
+    "publicContributions": 52,
     "createdAt": "2020-08-13T16:49:47Z"
   },
   {
@@ -8431,21 +8431,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 50,
+    "privateContributions": 53,
     "publicContributions": 0,
     "createdAt": "2020-04-14T08:21:33Z"
-  },
-  {
-    "login": "Andrej492",
-    "name": "Andrej Matovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74953624?s=72&u=3df46f9993c2f2e9430715a3cb1bb4e21ed77984&v=4",
-    "location": "Ljubljana, Slovenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2020-11-24T07:24:08Z"
   },
   {
     "login": "bauertim",
@@ -8455,8 +8443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1591,
-    "publicContributions": 42,
+    "privateContributions": 1528,
+    "publicContributions": 41,
     "createdAt": "2020-10-18T10:19:04Z"
   },
   {
@@ -8491,7 +8479,7 @@
     "company": "",
     "twitterUsername": "rok_hribar",
     "followers": 3,
-    "privateContributions": 77,
+    "privateContributions": 146,
     "publicContributions": 1,
     "createdAt": "2020-08-04T18:13:14Z"
   },

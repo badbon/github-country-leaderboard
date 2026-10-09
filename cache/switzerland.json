@@ -8154,9 +8154,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 13,
     "createdAt": "2024-07-21T08:56:38Z"
   },
   {
@@ -8166,9 +8166,9 @@
     "location": "Rotkreuz, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1171,
-    "publicContributions": 360,
+    "followers": 3,
+    "privateContributions": 21135,
+    "publicContributions": 344,
     "createdAt": "2024-07-03T13:34:39Z"
   },
   {
@@ -8180,7 +8180,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 130,
-    "publicContributions": 266,
+    "publicContributions": 265,
     "createdAt": "2024-03-23T13:35:01Z"
   },
   {
@@ -8190,9 +8190,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 434,
     "createdAt": "2024-08-26T12:52:21Z"
   },
   {
@@ -8202,9 +8202,9 @@
     "location": "Bern, Switzerland",
     "company": "@swisspost",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 453,
-    "publicContributions": 35,
+    "followers": 5,
+    "privateContributions": 473,
+    "publicContributions": 13,
     "createdAt": "2024-03-02T13:34:24Z"
   },
   {
@@ -8214,9 +8214,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 39,
     "createdAt": "2024-10-07T13:54:00Z"
   },
   {
@@ -8228,7 +8228,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 3,
     "createdAt": "2024-12-01T22:20:18Z"
   },
   {
@@ -8239,8 +8239,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 918,
-    "publicContributions": 437,
+    "privateContributions": 1392,
+    "publicContributions": 417,
     "createdAt": "2024-03-25T10:25:22Z"
   },
   {
@@ -8276,7 +8276,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2024-07-11T12:08:34Z"
   },
   {
@@ -8286,8 +8286,8 @@
     "location": "Switzerland",
     "company": "funbear GmbH",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 443,
+    "followers": 2,
+    "privateContributions": 442,
     "publicContributions": 1,
     "createdAt": "2024-11-10T02:09:46Z"
   },
@@ -8298,9 +8298,9 @@
     "location": "Basel, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 243,
-    "publicContributions": 83,
+    "followers": 5,
+    "privateContributions": 238,
+    "publicContributions": 110,
     "createdAt": "2024-09-16T12:28:16Z"
   },
   {
@@ -8324,7 +8324,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 81,
     "createdAt": "2024-10-30T15:01:59Z"
   },
   {
@@ -8335,7 +8335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2817,
+    "privateContributions": 2904,
     "publicContributions": 9,
     "createdAt": "2024-08-31T21:41:09Z"
   },
@@ -8352,27 +8352,15 @@
     "createdAt": "2024-02-22T14:13:58Z"
   },
   {
-    "login": "AnonNanoo",
-    "name": "Nano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170959344?s=72&u=4eaadb0ebc0ae92ba916daadba3a6a686b920de7&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 130,
-    "publicContributions": 100,
-    "createdAt": "2024-05-27T14:58:48Z"
-  },
-  {
     "login": "theo-bggtt",
     "name": "Théo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185360249?s=72&u=77f0f9119797f0d694b97950424b6dd0ebbffb82&v=4",
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 375,
-    "publicContributions": 120,
+    "followers": 6,
+    "privateContributions": 654,
+    "publicContributions": 129,
     "createdAt": "2024-10-17T10:55:58Z"
   },
   {
