@@ -1,6 +1,6 @@
 # Tanzania
 
-Indexed users: 2,042
+Indexed users: 2,041
 
 | Leaderboard | Link |
 |---|---|
@@ -21,17 +21,17 @@ Indexed users: 2,042
 | 7 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 13,423 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 12,163 |
-| 10 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
-| 11 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
-| 12 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
-| 13 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
-| 14 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
-| 15 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
-| 16 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
-| 17 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila | Dar es Salaam, Tanzania | 6,694 |
-| 18 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
-| 19 | [AK1239](https://github.com/AK1239) | Akil Khatri | Dar es Salaam, Tanzania | 6,519 |
-| 20 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 6,435 |
+| 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
+| 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
+| 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
+| 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
+| 14 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
+| 15 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
+| 16 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
+| 17 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
+| 18 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila | Dar es Salaam, Tanzania | 6,694 |
+| 19 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
+| 20 | [AK1239](https://github.com/AK1239) | Akil Khatri | Dar es Salaam, Tanzania | 6,519 |
 
 ## Public Contributions
 
@@ -62,25 +62,25 @@ Indexed users: 2,042
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [dexflare](https://github.com/dexflare) | Dexflare Network | Tanzania | 2,491 |
+| 1 | [dexflare](https://github.com/dexflare) | Dexflare Network | Tanzania | 2,492 |
 | 2 | [nyenza](https://github.com/nyenza) | Agrey Nyenza | Iringa, Tanzania | 1,479 |
 | 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | Dar es salaam, Tanzania | 1,119 |
-| 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna | ARUSHA, TANZANIA | 1,063 |
+| 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna | ARUSHA, TANZANIA | 1,070 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Tanzania | 1,025 |
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | Dar es Salaam , Tanzania | 949 |
 | 7 | [isaka-james](https://github.com/isaka-james) | masterplan | Dodoma, Tanzania | 555 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest | Arusha, Tanzania | 412 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 409 |
-| 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 391 |
-| 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | Dar Es Salaam, TANZANIA | 381 |
+| 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 389 |
+| 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | Dar Es Salaam, TANZANIA | 379 |
 | 12 | [TripleHat](https://github.com/TripleHat) |  | Tanzania | 284 |
 | 13 | [gilbertmunuotz](https://github.com/gilbertmunuotz) | Gilbert Munuo | Tanzania | 251 |
-| 14 | [AvicennaJr](https://github.com/AvicennaJr) | Avicenna | Dar Es Salaam, Tanzania | 217 |
-| 15 | [Pheogrammer](https://github.com/Pheogrammer) | Alfeo Raymond | Dar es salaam, Tanzania | 217 |
+| 14 | [Pheogrammer](https://github.com/Pheogrammer) | Alfeo Raymond | Dar es salaam, Tanzania | 217 |
+| 15 | [AvicennaJr](https://github.com/AvicennaJr) | Avicenna | Dar Es Salaam, Tanzania | 216 |
 | 16 | [shadrackjm](https://github.com/shadrackjm) | Shadrack Mballah | Dar es Salaam, Tanzania | 214 |
 | 17 | [Jelius47](https://github.com/Jelius47) | jelius | Tanzania | 203 |
 | 18 | [nassdaq](https://github.com/nassdaq) | Suleiman Nassdaq | Dar es salaam,Tanzania | 202 |
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-09T17:07:42.372Z
+Generated: 2026-10-09T18:01:00.858Z

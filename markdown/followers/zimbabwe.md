@@ -1,6 +1,6 @@
 # Followers - Zimbabwe
 
-Generated: 2026-10-09T17:12:34.634Z
+Generated: 2026-10-09T18:06:48.247Z
 
 Users: 1655
 
@@ -12,7 +12,7 @@ Users: 1655
 | 4 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | @seViVI-Tese |  | harare  Zimbabwe | 458 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 222 |
 | 6 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai |  | skyridertk | Harare, Zimbabwe | 205 |
-| 7 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava |  | blessing_mufaro | Harare, Zimbabwe | 185 |
+| 7 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava |  | blessing_mufaro | Harare, Zimbabwe | 188 |
 | 8 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Holmes Digital Ventures | alistairholmes_ | Bulawayo, Zimbabwe | 183 |
 | 9 | [sirx2713](https://github.com/sirx2713) | iSAD | iSAD |  | Zimbabwe | 171 |
 | 10 | [kculz](https://github.com/kculz) | Kudzai Munyama | Payment Facilitator (Payfac) |  | Mutare, Zimbabwe | 170 |

@@ -1,6 +1,6 @@
 # Total Contributions - British Virgin Islands
 
-Generated: 2026-10-09T17:17:58.006Z
+Generated: 2026-10-09T18:11:59.944Z
 
 Users: 38
 
@@ -8,8 +8,8 @@ Users: 38
 |---:|---|---|---|---|---|---:|
 | 1 | [BazaarsBZR](https://github.com/BazaarsBZR) | Bazaars | Bazaars Limited | BazaarsBzr | Bazaars Limited, Intershore Chambers, Road Town, Tortola, British Virgin Islands | 6403 |
 | 2 | [AI-Isaiah](https://github.com/AI-Isaiah) |  | Metaworld Fund |  | British Virgin Islands | 3506 |
-| 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 2438 |
-| 4 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 2047 |
+| 3 | [justmoon](https://github.com/justmoon) | Stefan Thomas | @coilhq | justmoon | British Virgin Islands | 2465 |
+| 4 | [Dener1111](https://github.com/Dener1111) | DK |  |  | Road Town, British Virgin Islands | 2051 |
 | 5 | [divyansh2681](https://github.com/divyansh2681) | Divyansh Agrawal |  |  | Virgin Islands | 436 |
 | 6 | [khaliidrahiim](https://github.com/khaliidrahiim) | N'Khoy K. R. Stoutt | Government of the Virgin Islands |  | British Virgin Islands | 65 |
 | 7 | [Computerfile](https://github.com/Computerfile) | Stigma |  |  | Virgin Islands | 62 |

@@ -1,6 +1,6 @@
 # Followers - Cameroon
 
-Generated: 2026-10-09T17:19:09.787Z
+Generated: 2026-10-09T18:12:53.348Z
 
 Users: 1803
 
@@ -13,7 +13,7 @@ Users: 1803
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 506 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | @Univ-Douala |  | Cameroon | 493 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Adorsys | n_severian | Cameroon, Bangangte | 356 |
-| 8 | [donaldte](https://github.com/donaldte) | donald programmeur | @HooYia | DProgrammeur | Bamenda/Cameroon | 307 |
+| 8 | [donaldte](https://github.com/donaldte) | donald programmeur | @HooYia | DProgrammeur | Bamenda/Cameroon | 321 |
 | 9 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga |  |  | Yaoundé, CM | 301 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa |  | Kenrique_Ngwa | Cameroon | 291 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | @adorsys | Assah_Bismark | Cameroon | 272 |
@@ -23,6 +23,6 @@ Users: 1803
 | 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | @Wikimedia |  | Buea, Cameroon | 223 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | togeva.com | Yunweneric | Douala, Cameroon | 218 |
 | 17 | [Clovremix](https://github.com/Clovremix) |  |  | HonClovis | Yaounde Cameroon  | 180 |
-| 18 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta |  | NobertEtta | Buea, Cameroon | 173 |
-| 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | @Progressoft  |  | Cameroon | 173 |
-| 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Carnegie Mellon University | baimamboukarr | Yaoundé | 172 |
+| 18 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | @Progressoft  |  | Cameroon | 173 |
+| 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Carnegie Mellon University | baimamboukarr | Yaoundé | 172 |
+| 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | NexoPOS Solutions, @Tendoo  | blairjersyer | Cameroon. Yaoundé | 171 |

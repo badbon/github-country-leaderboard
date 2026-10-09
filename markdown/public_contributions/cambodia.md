@@ -1,6 +1,6 @@
 # Public Contributions - Cambodia
 
-Generated: 2026-10-09T17:19:04.867Z
+Generated: 2026-10-09T18:12:47.770Z
 
 Users: 2880
 
@@ -21,7 +21,7 @@ Users: 2880
 | 13 | [rithythul](https://github.com/rithythul) | rithythul | @koompi @selendra @bitriel @vitaminair @smallworldventures  | rithythul | Phnom Penh | 1405 |
 | 14 | [vandetho](https://github.com/vandetho) | Vandeth THO |  |  | Phnom Penh | 1335 |
 | 15 | [thornrithy](https://github.com/thornrithy) | Thy |  |  | Phnom Penh | 1318 |
-| 16 | [limkhysok](https://github.com/limkhysok) | Limkhy Sok |  |  | Cambodia | 1285 |
+| 16 | [limkhysok](https://github.com/limkhysok) | Limkhy Sok |  |  | Cambodia | 1260 |
 | 17 | [vertsan](https://github.com/vertsan) | Vert San | J Trust Royal Bank Plc. |  | Cambodia | 1255 |
 | 18 | [PorKeat](https://github.com/PorKeat) | Seng Porkeat |  |  | Phnom Penh, Cambodia | 1245 |
 | 19 | [monmatprogramer](https://github.com/monmatprogramer) | Mon  Mat | Employee |  | Cambodia | 1211 |

@@ -31,7 +31,7 @@ Indexed users: 215
 | 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,411 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
 | 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,792 |
-| 20 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 2,655 |
+| 20 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 2,673 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 7,910 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,950 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
-| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 764 |
+| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 766 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 711 |
 | 6 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 694 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 672 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-09T17:15:01.900Z
+Generated: 2026-10-09T18:07:14.099Z

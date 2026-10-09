@@ -46,7 +46,7 @@ Indexed users: 462
 | 7 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,851 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,299 |
-| 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,163 |
+| 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,165 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,130 |
 | 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 771 |
 | 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
@@ -83,4 +83,4 @@ Indexed users: 462
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-09T17:15:12.194Z
+Generated: 2026-10-09T18:08:59.621Z

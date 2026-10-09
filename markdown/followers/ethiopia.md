@@ -1,8 +1,8 @@
 # Followers - Ethiopia
 
-Generated: 2026-10-09T17:26:49.512Z
+Generated: 2026-10-09T18:20:11.626Z
 
-Users: 6709
+Users: 6708
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

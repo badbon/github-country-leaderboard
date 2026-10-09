@@ -1,6 +1,6 @@
 # Cyprus
 
-Indexed users: 2,743
+Indexed users: 2,742
 
 | Leaderboard | Link |
 |---|---|
@@ -20,11 +20,11 @@ Indexed users: 2,743
 | 6 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 10,126 |
 | 7 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
 | 8 | [RootViper4](https://github.com/RootViper4) | Root Lindow | Nicosia, North Cyprus | 9,615 |
-| 9 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
-| 10 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
-| 11 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
-| 12 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
-| 13 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 8,810 |
+| 9 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
+| 10 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
+| 11 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
+| 12 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
+| 13 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
 | 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
 | 15 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
 | 16 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
@@ -83,4 +83,4 @@ Indexed users: 2,743
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-09T17:24:10.621Z
+Generated: 2026-10-09T18:17:47.678Z

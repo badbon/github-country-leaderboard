@@ -1,6 +1,6 @@
 # Public Contributions - Aruba
 
-Generated: 2026-10-09T17:15:43.140Z
+Generated: 2026-10-09T18:09:13.910Z
 
 Users: 38
 
@@ -9,7 +9,7 @@ Users: 38
 | 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 586 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 496 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 203 |
-| 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 116 |
+| 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 120 |
 | 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 113 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
 | 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 51 |

@@ -39,7 +39,7 @@ Indexed users: 743
 |---:|---|---|---|---:|
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,233 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,471 |
-| 3 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,079 |
+| 3 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,085 |
 | 4 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,065 |
 | 5 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  | libya | 1,020 |
 | 6 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Tripoli, Libya | 701 |
@@ -83,4 +83,4 @@ Indexed users: 743
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-09T17:38:50.965Z
+Generated: 2026-10-09T18:29:32.957Z

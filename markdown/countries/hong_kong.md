@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,315
+Indexed users: 10,314
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 10,315
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-09T17:30:25.100Z
+Generated: 2026-10-09T18:23:47.474Z

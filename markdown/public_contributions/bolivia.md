@@ -1,6 +1,6 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-09T17:17:10.210Z
+Generated: 2026-10-09T18:11:14.115Z
 
 Users: 1786
 
@@ -17,12 +17,12 @@ Users: 1786
 | 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas |  |  | Bolivia | 1577 |
 | 10 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | @Taikoxyz | gusgonzalezs | Santa Cruz de la SIerra, Bolivia | 1527 |
 | 11 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri |  |  | Bolivia | 1448 |
-| 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1307 |
-| 13 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
-| 14 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1219 |
-| 15 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared SRL |  | Santa cruz de la sierra, Bolivia | 1106 |
-| 16 | [ospfranco](https://github.com/ospfranco) | Oscar Franco |  | ospfranco | Bolivia | 1081 |
-| 17 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |
-| 18 | [olivio-git](https://github.com/olivio-git) | olivio-git |  |  | Tarija/Bolivia | 1039 |
+| 12 | [olivio-git](https://github.com/olivio-git) | olivio-git |  |  | Tarija/Bolivia | 1416 |
+| 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1307 |
+| 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
+| 15 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1219 |
+| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared SRL |  | Santa cruz de la sierra, Bolivia | 1106 |
+| 17 | [ospfranco](https://github.com/ospfranco) | Oscar Franco |  | ospfranco | Bolivia | 1081 |
+| 18 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |
 | 19 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez |  |  | Bolivia | 1021 |
 | 20 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 950 |

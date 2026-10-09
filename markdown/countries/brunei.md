@@ -20,7 +20,7 @@ Indexed users: 254
 | 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,065 |
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,036 |
 | 8 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 891 |
-| 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 865 |
+| 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 889 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 618 |
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 609 |
 | 12 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 516 |
@@ -62,7 +62,7 @@ Indexed users: 254
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 180 |
+| 1 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 179 |
 | 2 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 113 |
 | 3 | [izdiwho](https://github.com/izdiwho) | Iz | Brunei | 64 |
 | 4 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 51 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-09T17:18:00.048Z
+Generated: 2026-10-09T18:12:02.857Z

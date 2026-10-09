@@ -47,8 +47,8 @@ Indexed users: 2,575
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,998 |
 | 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,920 |
 | 10 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,819 |
-| 11 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,623 |
-| 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,561 |
+| 11 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,561 |
+| 12 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
 | 13 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,160 |
 | 14 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
 | 15 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
@@ -83,4 +83,4 @@ Indexed users: 2,575
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [PeterHackz](https://github.com/PeterHackz) | Peterson | Beirut, Lebanon | 103 |
 
-Generated: 2026-10-09T17:37:46.505Z
+Generated: 2026-10-09T18:29:09.725Z

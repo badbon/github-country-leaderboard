@@ -1,8 +1,8 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-09T17:13:57.796Z
+Generated: 2026-10-09T18:06:58.400Z
 
-Users: 1187
+Users: 1185
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

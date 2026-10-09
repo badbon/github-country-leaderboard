@@ -1,6 +1,6 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-09T17:37:46.505Z
+Generated: 2026-10-09T18:29:09.725Z
 
 Users: 2575
 
@@ -16,8 +16,8 @@ Users: 2575
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun |  |  | Lebanon | 1998 |
 | 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Fancyshark |  | Beirut | 1920 |
 | 10 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom |  |  | Beirut - Lebanon | 1819 |
-| 11 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1623 |
-| 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 1561 |
+| 11 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 1561 |
+| 12 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1233 |
 | 13 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi |  |  | Lebanon | 1160 |
 | 14 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak |  |  | Lebanon,Beirut | 1138 |
 | 15 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1107 |

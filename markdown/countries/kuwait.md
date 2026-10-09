@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 798
+Indexed users: 797
 
 | Leaderboard | Link |
 |---|---|
@@ -49,14 +49,14 @@ Indexed users: 798
 | 10 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 987 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 935 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 824 |
-| 13 | [amaher-developer](https://github.com/amaher-developer) | amaher.developer | Kuwait | 811 |
-| 14 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 623 |
-| 15 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 610 |
-| 16 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
-| 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 531 |
-| 18 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 518 |
-| 19 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 490 |
-| 20 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 447 |
+| 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 623 |
+| 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 610 |
+| 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
+| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 531 |
+| 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 518 |
+| 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 490 |
+| 19 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 447 |
+| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 798
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
 
-Generated: 2026-10-09T17:37:01.334Z
+Generated: 2026-10-09T18:28:56.462Z

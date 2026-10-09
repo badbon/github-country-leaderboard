@@ -1,8 +1,8 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-09T17:26:01.085Z
+Generated: 2026-10-09T18:19:21.144Z
 
-Users: 4903
+Users: 4902
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

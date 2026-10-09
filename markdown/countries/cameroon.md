@@ -69,7 +69,7 @@ Indexed users: 1,803
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 506 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | Cameroon | 493 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Cameroon, Bangangte | 356 |
-| 8 | [donaldte](https://github.com/donaldte) | donald programmeur | Bamenda/Cameroon | 307 |
+| 8 | [donaldte](https://github.com/donaldte) | donald programmeur | Bamenda/Cameroon | 321 |
 | 9 | [sangafabrice](https://github.com/sangafabrice) | Fabrice Sanga | Yaoundé, CM | 301 |
 | 10 | [kenrique100](https://github.com/kenrique100) | Kenrique _Ngwa | Cameroon | 291 |
 | 11 | [AssahBismarkabah](https://github.com/AssahBismarkabah) | Assah Bismark | Cameroon | 272 |
@@ -79,8 +79,8 @@ Indexed users: 1,803
 | 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | Buea, Cameroon | 223 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | Douala, Cameroon | 218 |
 | 17 | [Clovremix](https://github.com/Clovremix) |  | Yaounde Cameroon  | 180 |
-| 18 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 173 |
-| 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
-| 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
+| 18 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
+| 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
+| 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
 
-Generated: 2026-10-09T17:19:09.787Z
+Generated: 2026-10-09T18:12:53.348Z

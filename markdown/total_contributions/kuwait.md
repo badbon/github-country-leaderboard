@@ -1,8 +1,8 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-09T17:37:01.334Z
+Generated: 2026-10-09T18:28:56.462Z
 
-Users: 798
+Users: 797
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

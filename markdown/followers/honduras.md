@@ -1,6 +1,6 @@
 # Followers - Honduras
 
-Generated: 2026-10-09T17:30:18.862Z
+Generated: 2026-10-09T18:23:41.694Z
 
 Users: 1267
 
@@ -13,10 +13,10 @@ Users: 1267
 | 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Seguros Crefisa |  | Honduras | 307 |
 | 6 | [obetancourthunicah](https://github.com/obetancourthunicah) | Orlando J Betancourth Alvarenga | UNICAH |  | Tegucigalpa Honduras | 234 |
 | 7 | [salvatoretrimarchi](https://github.com/salvatoretrimarchi) | Salvatore Josue Trimarchi Pinto | Salvatore Trimarchi |  | Honduras | 182 |
-| 8 | [DavidBrionesFF](https://github.com/DavidBrionesFF) | Jose David Briones Rosa | NaT Technologies S. A | aprendefacil101 | Tegucigalpa, Honduras, C,A | 179 |
-| 9 | [andriksantos](https://github.com/andriksantos) | Andrik Santos | IOminds |  | Honduras | 151 |
+| 8 | [DavidBrionesFF](https://github.com/DavidBrionesFF) | Jose David Briones Rosa | NaT Technologies S. A | aprendefacil101 | Tegucigalpa, Honduras, C,A | 178 |
+| 9 | [andriksantos](https://github.com/andriksantos) | Andrik Santos | IOminds |  | Honduras | 152 |
 | 10 | [FranciscoJGuz](https://github.com/FranciscoJGuz) | Francisco Javier Guzmán Lagos | Plasencia Tabacos S.A. |  | Tegucigalpa, Honduras | 148 |
-| 11 | [carlosdarioio](https://github.com/carlosdarioio) | Carlos Dario Flores  | Programmer | carlosdarioio | San Pedro Sula, Honduras | 146 |
+| 11 | [carlosdarioio](https://github.com/carlosdarioio) | Carlos Dario Flores  | Technology Innovation Officer | carlosdarioio | San Pedro Sula, Honduras | 144 |
 | 12 | [hsabillon7](https://github.com/hsabillon7) | Héctor Sabillón | BairesDev | hector_helliel | Honduras | 136 |
 | 13 | [konkkeror](https://github.com/konkkeror) | Erick Marín |  |  | Honduras | 112 |
 | 14 | [isinicolle](https://github.com/isinicolle) | Isis Zapata Florentino | Full Stack Developer |  | Honduras | 110 |

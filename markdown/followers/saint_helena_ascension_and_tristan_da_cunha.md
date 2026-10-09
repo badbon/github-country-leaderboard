@@ -1,8 +1,8 @@
 # Followers - Saint Helena, Ascension and Tristan da Cunha
 
-Generated: 2026-10-09T17:49:33.729Z
+Generated: 2026-10-09T18:12:06.725Z
 
-Users: 25
+Users: 26
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 25
 | 15 | [theloanrepairsite](https://github.com/theloanrepairsite) | Jim Standish | Halo Propertys |  | Jamestown | 2 |
 | 16 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler |  |  | Jamestown, New York | 2 |
 | 17 | [AdvanceWM](https://github.com/AdvanceWM) | Tony Lush | Advance Web Marketing |  | Jamestown, Rhode Island, US | 1 |
-| 18 | [EgonX](https://github.com/EgonX) | J. Hall | Arbiet Data |  | Jamestown, TN | 1 |
-| 19 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Guilford Technical Community College |  | Jamestown, NC | 1 |
-| 20 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Capital One  |  | Jamestown, RI | 1 |
+| 18 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Zyte | agentic_webb | Jamestown, KY | 1 |
+| 19 | [EgonX](https://github.com/EgonX) | J. Hall | Arbiet Data |  | Jamestown, TN | 1 |
+| 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Guilford Technical Community College |  | Jamestown, NC | 1 |

@@ -1,8 +1,8 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-09T17:24:10.621Z
+Generated: 2026-10-09T18:17:47.678Z
 
-Users: 2743
+Users: 2742
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,11 +14,11 @@ Users: 2743
 | 6 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 10126 |
 | 7 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
 | 8 | [RootViper4](https://github.com/RootViper4) | Root Lindow | Root Tech, CyprusCodes, Fatsoma | frankteidara | Nicosia, North Cyprus | 9615 |
-| 9 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
-| 10 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Materiias d.o.o | TheAbdeen9 | Lefkosa, Cyprus | 9126 |
-| 11 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
-| 12 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
-| 13 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 8810 |
+| 9 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 9314 |
+| 10 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
+| 11 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Materiias d.o.o | TheAbdeen9 | Lefkosa, Cyprus | 9126 |
+| 12 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
+| 13 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
 | 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
 | 15 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
 | 16 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |
