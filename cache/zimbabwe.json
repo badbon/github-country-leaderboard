@@ -8034,7 +8034,7 @@
     "location": "Zimbabwe,Harare",
     "company": "Uncommon.org",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2021-08-06T12:29:35Z"
@@ -8082,8 +8082,8 @@
     "location": "Harare Zimbabwe",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 269,
+    "followers": 3,
+    "privateContributions": 133,
     "publicContributions": 0,
     "createdAt": "2021-02-11T23:34:20Z"
   },
@@ -8096,7 +8096,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2021-04-14T12:34:31Z"
   },
   {
@@ -8130,18 +8130,18 @@
     "location": "Zimbabwe",
     "company": "",
     "twitterUsername": "tawa45",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 139,
     "createdAt": "2021-04-06T18:17:20Z"
   },
   {
     "login": "TendaiDara",
-    "name": "Tendai Dara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77269258?s=72&u=2cd44ec0eafcd0775114a1443a009a8b71ccc5b2&v=4",
+    "name": "TD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77269258?s=72&v=4",
     "location": "Harare, Zimbabwe",
     "company": "Inova-devlabs",
-    "twitterUsername": "Tendaidara",
+    "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
@@ -8191,7 +8191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
+    "privateContributions": 22,
     "publicContributions": 0,
     "createdAt": "2021-08-29T21:54:38Z"
   },
@@ -8227,8 +8227,8 @@
     "company": "eNtweni",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
-    "publicContributions": 44,
+    "privateContributions": 26,
+    "publicContributions": 28,
     "createdAt": "2021-11-08T09:01:27Z"
   },
   {
@@ -8246,13 +8246,13 @@
   {
     "login": "pamelavimbaishe",
     "name": "Pamela Vimbaishe Moyo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92162531?s=72&u=025d95f2d13e78122e8a7e4b6377219c377e29a8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92162531?s=72&u=42ddc09cd4b708aac6543b6c15c90545248a8f5b&v=4",
     "location": "Zimbabwe",
     "company": "",
     "twitterUsername": "pamelavimbaishe",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 55,
     "createdAt": "2021-10-08T12:22:12Z"
   },
   {

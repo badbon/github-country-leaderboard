@@ -8358,21 +8358,21 @@
     "location": "Georgia/tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 153,
     "createdAt": "2023-04-05T16:11:33Z"
   },
   {
     "login": "K1RAKOSYAN",
     "name": "Giorgi Kirakosyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121956326?s=72&u=e06ed115d301b3aaa2a7bea8f6de4f7aa57770f9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121956326?s=72&u=2bac3584dd370d8dbcee1d1c64e0e48ad9489f12&v=4",
     "location": "Georgia, Tbilisi",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2023-01-04T14:45:09Z"
   },
   {
@@ -8408,7 +8408,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 32,
     "createdAt": "2023-05-09T18:10:53Z"
   },
   {
@@ -8430,22 +8430,10 @@
     "location": "georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-01T17:37:45Z"
-  },
-  {
-    "login": "nini700",
-    "name": "Nini",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148874301?s=72&u=730e198db160b1aafb3b3dc741da8673782ff230&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 60,
-    "createdAt": "2023-10-24T12:42:48Z"
   },
   {
     "login": "SheldersonGD",
@@ -8480,7 +8468,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 89,
     "createdAt": "2023-10-09T18:34:30Z"
   },
   {
@@ -8504,7 +8492,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 25,
     "createdAt": "2023-09-30T18:18:31Z"
   },
   {
@@ -8540,7 +8528,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 671,
-    "publicContributions": 152,
+    "publicContributions": 138,
     "createdAt": "2023-11-16T15:51:00Z"
   },
   {
@@ -8557,14 +8545,14 @@
   },
   {
     "login": "papunafshaveli",
-    "name": "Papuna Fshaveli",
+    "name": "Papuna Machurishvili",
     "avatarUrl": "https://avatars.githubusercontent.com/u/123541273?s=72&u=73f86ac44fc8dd9d35efe06f8101697c9a6b652c&v=4",
     "location": "Tbilisi, Georgia",
-    "company": "Office of the General Prosecutor of Georgia",
+    "company": "Bitnet",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 13,
+    "privateContributions": 39,
+    "publicContributions": 20,
     "createdAt": "2023-01-25T08:05:23Z"
   },
   {

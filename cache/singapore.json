@@ -7748,7 +7748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-22T08:24:42Z"
   },
   {
@@ -7760,7 +7760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 86,
     "createdAt": "2025-07-02T02:34:15Z"
   },
   {
@@ -7772,7 +7772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 0,
     "createdAt": "2025-07-16T16:58:20Z"
   },
   {
@@ -7783,7 +7783,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 777,
+    "privateContributions": 954,
     "publicContributions": 0,
     "createdAt": "2025-02-28T07:36:57Z"
   },
@@ -7796,7 +7796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 22,
     "createdAt": "2025-08-25T07:40:32Z"
   },
   {
@@ -7806,9 +7806,9 @@
     "location": "Singapore",
     "company": "student",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 128,
     "createdAt": "2025-07-28T07:20:09Z"
   },
   {
@@ -7819,14 +7819,14 @@
     "company": "",
     "twitterUsername": "andriyio",
     "followers": 1,
-    "privateContributions": 2325,
-    "publicContributions": 32,
+    "privateContributions": 2510,
+    "publicContributions": 33,
     "createdAt": "2025-01-03T09:04:21Z"
   },
   {
     "login": "dexunn",
     "name": "Dexun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193390869?s=72&u=5c88e17e1fc5501b6f93d204dd515bf91470e54c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193390869?s=72&u=7944c0c4fad09114f207149a388491160525eb59&v=4",
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
@@ -7844,7 +7844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 96,
     "createdAt": "2025-10-11T10:15:25Z"
   },
   {
@@ -7880,7 +7880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 101,
     "createdAt": "2025-01-11T03:14:56Z"
   },
   {
@@ -7928,7 +7928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 36,
     "createdAt": "2025-05-09T16:40:25Z"
   },
   {
@@ -7938,7 +7938,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2025-07-09T09:59:33Z"
@@ -7952,7 +7952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 2,
     "createdAt": "2025-09-02T12:05:37Z"
   },
   {
@@ -7964,7 +7964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 366,
+    "publicContributions": 313,
     "createdAt": "2025-05-07T03:26:19Z"
   },
   {
@@ -147478,18 +147478,6 @@
     "privateContributions": 0,
     "publicContributions": 162,
     "createdAt": "2017-02-05T05:25:56Z"
-  },
-  {
-    "login": "Muruan2K",
-    "name": "Muruan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26664768?s=72&u=5fbabd17a0e27752011d59bd2f0b26e96a19d232&v=4",
-    "location": "Singapore",
-    "company": "East China University of Political Science and Law",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 20,
-    "publicContributions": 0,
-    "createdAt": "2017-03-25T02:41:09Z"
   },
   {
     "login": "pepperclouddev",

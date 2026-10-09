@@ -8144,7 +8144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-05-31T16:01:28Z"
   },
   {
@@ -8156,7 +8156,7 @@
     "twitterUsername": "din_cassamo",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2020-06-27T18:17:21Z"
   },
   {
@@ -8191,8 +8191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 630,
-    "publicContributions": 8,
+    "privateContributions": 710,
+    "publicContributions": 36,
     "createdAt": "2020-12-23T09:31:39Z"
   },
   {
@@ -8288,7 +8288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2020-07-13T13:48:47Z"
   },
   {
@@ -8298,9 +8298,9 @@
     "location": "Maputo",
     "company": "",
     "twitterUsername": "vybraan",
-    "followers": 71,
-    "privateContributions": 563,
-    "publicContributions": 243,
+    "followers": 75,
+    "privateContributions": 606,
+    "publicContributions": 232,
     "createdAt": "2020-11-16T16:27:33Z"
   },
   {
@@ -8310,9 +8310,9 @@
     "location": "Maputo Moçambique ",
     "company": "Sky_Tech",
     "twitterUsername": "Chissique_Elves",
-    "followers": 46,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2020-04-16T15:30:32Z"
   },
   {
@@ -8322,9 +8322,9 @@
     "location": "Maputo ",
     "company": "EACUAMBA",
     "twitterUsername": "eacuamba",
-    "followers": 41,
-    "privateContributions": 105,
-    "publicContributions": 26,
+    "followers": 40,
+    "privateContributions": 378,
+    "publicContributions": 106,
     "createdAt": "2020-07-10T15:59:55Z"
   },
   {
@@ -8335,7 +8335,7 @@
     "company": "Edinte, Lda",
     "twitterUsername": "isidroBata",
     "followers": 27,
-    "privateContributions": 150,
+    "privateContributions": 435,
     "publicContributions": 6,
     "createdAt": "2020-10-07T18:39:26Z"
   },

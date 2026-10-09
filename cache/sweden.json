@@ -7304,7 +7304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 87,
     "createdAt": "2025-10-02T08:15:04Z"
   },
   {
@@ -7316,7 +7316,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-19T14:58:07Z"
   },
   {
@@ -7340,7 +7340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-18T12:53:59Z"
   },
   {
@@ -7351,20 +7351,20 @@
     "company": "@Gastrofy ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 90,
-    "publicContributions": 4,
+    "privateContributions": 83,
+    "publicContributions": 0,
     "createdAt": "2025-08-13T07:13:15Z"
   },
   {
     "login": "apx-lab",
     "name": "Collesandare",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198828491?s=72&u=60eeb119857b53e7f8ca0229d91657ced8bb0482&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198828491?s=72&u=e7a52d2ac7b32713f2ab979e1f7f2d65b0022041&v=4",
     "location": "Sweden",
-    "company": "",
+    "company": "Anclab",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-02-11T22:34:31Z"
   },
   {
@@ -7374,9 +7374,9 @@
     "location": "Sweden",
     "company": "Blekinge Tekniska Högskola",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-02-06T16:35:32Z"
   },
   {
@@ -7386,9 +7386,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 16,
     "createdAt": "2025-08-25T09:10:57Z"
   },
   {
@@ -7400,7 +7400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 84,
     "createdAt": "2025-09-21T09:35:30Z"
   },
   {
@@ -7418,13 +7418,13 @@
   {
     "login": "conorbliss-hash",
     "name": "Conor Bliss",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226307475?s=72&u=2ff75e659a42b8c0e89145cced7b4abba4d4461a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226307475?s=72&u=b07f08646a225caa1efd4ff84413737229f815db&v=4",
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 188,
     "createdAt": "2025-08-13T11:51:30Z"
   },
   {
@@ -7436,7 +7436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-20T12:39:49Z"
   },
   {
@@ -7447,8 +7447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 131,
-    "publicContributions": 32,
+    "privateContributions": 125,
+    "publicContributions": 12,
     "createdAt": "2025-09-03T07:42:36Z"
   },
   {
@@ -7466,13 +7466,13 @@
   {
     "login": "mtslck-lnu",
     "name": "Mats Lock",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202496536?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202496536?s=72&u=0333d258f4034b27506f04f4b5219fe7970df7bc&v=4",
     "location": "Kalmar, Sweden",
     "company": "Linnaeus University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 48,
     "createdAt": "2025-03-09T08:21:53Z"
   },
   {
@@ -7483,21 +7483,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 110,
+    "publicContributions": 95,
     "createdAt": "2025-02-17T17:37:26Z"
-  },
-  {
-    "login": "mohamadhelal94",
-    "name": "Mohamad Abou Helal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212624445?s=72&u=72a65f74c82c026c0721730b26ec1175e0037873&v=4",
-    "location": "Sweden - Stockholm",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 39,
-    "createdAt": "2025-05-20T21:48:23Z"
   },
   {
     "login": "Mattelana",
@@ -7507,20 +7495,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 11,
     "publicContributions": 11,
     "createdAt": "2025-02-14T04:22:27Z"
   },
   {
     "login": "fab1s",
     "name": "Fabio Schreiber",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226467905?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/226467905?s=72&u=b4e1be3b719a9b5bfeee0b3aba959256954114f1&v=4",
     "location": "Lund, Sweden",
     "company": "Lund University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 91,
-    "publicContributions": 1,
+    "privateContributions": 131,
+    "publicContributions": 45,
     "createdAt": "2025-08-14T07:16:41Z"
   },
   {
@@ -219054,8 +219042,8 @@
     "location": "London, UK & Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 1,
+    "followers": 27,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2016-02-06T10:56:32Z"
   },

@@ -7886,13 +7886,13 @@
   {
     "login": "Kruf-Im",
     "name": "KruF",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196120844?s=72&u=08af497254455bcce6e7718bc948ea4a00802643&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196120844?s=72&u=33612ce5e947cfab83f669e2fc73d132b2e10382&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 49,
+    "privateContributions": 29,
+    "publicContributions": 50,
     "createdAt": "2025-01-22T22:56:20Z"
   },
   {
@@ -7952,7 +7952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 51,
     "createdAt": "2025-05-24T10:36:56Z"
   },
   {
@@ -7964,7 +7964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 658,
+    "publicContributions": 450,
     "createdAt": "2025-02-23T07:18:48Z"
   },
   {
@@ -7975,8 +7975,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 604,
-    "publicContributions": 465,
+    "privateContributions": 516,
+    "publicContributions": 453,
     "createdAt": "2025-04-21T10:45:02Z"
   },
   {
@@ -7988,7 +7988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 13,
     "createdAt": "2025-07-23T20:00:26Z"
   },
   {
@@ -7999,8 +7999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 13,
+    "privateContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2025-07-16T16:33:09Z"
   },
   {
@@ -8010,9 +8010,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 64,
     "createdAt": "2025-10-30T14:20:15Z"
   },
   {
@@ -8023,8 +8023,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 580,
-    "publicContributions": 103,
+    "privateContributions": 964,
+    "publicContributions": 0,
     "createdAt": "2025-08-29T17:48:45Z"
   },
   {
@@ -8034,9 +8034,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 313,
-    "publicContributions": 46,
+    "followers": 3,
+    "privateContributions": 470,
+    "publicContributions": 49,
     "createdAt": "2025-11-24T21:48:07Z"
   },
   {
@@ -8048,7 +8048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 36,
     "createdAt": "2025-06-06T16:31:24Z"
   },
   {
@@ -8060,7 +8060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 611,
+    "publicContributions": 686,
     "createdAt": "2025-12-04T22:29:30Z"
   },
   {
@@ -8074,18 +8074,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-06-19T03:16:33Z"
-  },
-  {
-    "login": "avelout",
-    "name": "Avelout",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228705350?s=72&u=17f7666c032f37985509e0729c26fe0df58d2619&v=4",
-    "location": "Kyiv, Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1103,
-    "createdAt": "2025-08-26T10:37:33Z"
   },
   {
     "login": "uarmmed",

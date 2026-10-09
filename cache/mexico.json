@@ -7904,7 +7904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-28T23:52:38Z"
   },
   {
@@ -7916,7 +7916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 8,
     "createdAt": "2025-08-02T15:08:49Z"
   },
   {
@@ -7928,7 +7928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 5,
     "createdAt": "2025-08-16T03:30:57Z"
   },
   {
@@ -7956,27 +7956,15 @@
     "createdAt": "2025-02-02T18:54:41Z"
   },
   {
-    "login": "edgar-acosta",
-    "name": "Edgar Eduardo Acosta Acevedo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216037118?s=72&u=6f2adddf5b87fc56b27d827074507740a3562093&v=4",
-    "location": "Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2025-06-12T14:44:33Z"
-  },
-  {
     "login": "DarkArty07",
     "name": "Christopher hdez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/232764777?s=72&u=8956a9f1bd18fbf9c7fd261605af3dd68149fe20&v=4",
     "location": "MEXICO",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 768,
+    "publicContributions": 2530,
     "createdAt": "2025-09-17T07:59:19Z"
   },
   {
@@ -7988,7 +7976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-08-18T16:54:45Z"
   },
   {
@@ -8000,7 +7988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 120,
     "createdAt": "2025-02-20T20:20:56Z"
   },
   {
@@ -8024,7 +8012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 84,
     "createdAt": "2025-03-02T05:31:37Z"
   },
   {
@@ -8053,14 +8041,14 @@
   },
   {
     "login": "anacastro14",
-    "name": "Ana Paula Castro Reyes",
+    "name": "Ana Paula Castro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201349303?s=72&u=989d7f76470354fb6a8cc62eb073ed2498d8358c&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 25,
-    "publicContributions": 64,
+    "followers": 2,
+    "privateContributions": 18,
+    "publicContributions": 67,
     "createdAt": "2025-03-01T11:59:53Z"
   },
   {
@@ -8096,7 +8084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 0,
     "createdAt": "2025-02-08T00:31:57Z"
   },
   {

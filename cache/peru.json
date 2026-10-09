@@ -7872,30 +7872,6 @@
     "createdAt": "2024-10-24T04:19:05Z"
   },
   {
-    "login": "SebQuispe",
-    "name": "Sebastián Quispe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187638763?s=72&v=4",
-    "location": "Lima, Peru",
-    "company": "Universidad Nacional Agraria La Molina",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-11-07T13:09:17Z"
-  },
-  {
-    "login": "ramirezherreranoeelvis",
-    "name": "GatomontesRoseIII",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158113337?s=72&v=4",
-    "location": "Peru, Lima",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 539,
-    "publicContributions": 87,
-    "createdAt": "2024-01-29T23:52:33Z"
-  },
-  {
     "login": "LuiDaniel",
     "name": "Luis Daniel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163069977?s=72&u=f594ac3f13e57e88f84640fbe494b49d37c0f9ce&v=4",
@@ -7904,19 +7880,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 65,
     "createdAt": "2024-03-11T23:34:22Z"
   },
   {
     "login": "nimbusphagia",
-    "name": "Ignacio",
+    "name": "Ignacio Machuca",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185011694?s=72&u=3a71b1ed9751d2d52efd1180865a980c04790652&v=4",
     "location": "Piura, Peru",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
-    "publicContributions": 671,
+    "privateContributions": 41,
+    "publicContributions": 716,
     "createdAt": "2024-10-15T00:56:42Z"
   },
   {
@@ -7964,7 +7940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-03-26T20:36:13Z"
   },
   {
@@ -7974,9 +7950,9 @@
     "location": "Peru (UTC-5)",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 290,
-    "publicContributions": 3544,
+    "followers": 2,
+    "privateContributions": 557,
+    "publicContributions": 3044,
     "createdAt": "2024-04-29T04:29:05Z"
   },
   {
@@ -7987,8 +7963,8 @@
     "company": "",
     "twitterUsername": "D4rkr4inTtv",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 313,
+    "privateContributions": 22,
+    "publicContributions": 167,
     "createdAt": "2024-06-19T06:12:39Z"
   },
   {
@@ -7998,9 +7974,9 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 240,
+    "publicContributions": 258,
     "createdAt": "2024-05-31T19:14:44Z"
   },
   {
@@ -8014,18 +7990,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-22T13:49:35Z"
-  },
-  {
-    "login": "EnzoHe23",
-    "name": "Enzo David Huanca Esquiagola",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167952270?s=72&u=25ed67d9bdf2c7ad503c7c71793d93416f7b2584&v=4",
-    "location": "Lima, Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-04-24T04:25:52Z"
   },
   {
     "login": "commonDevelopment",
@@ -8048,7 +8012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 16,
     "createdAt": "2024-06-01T17:08:25Z"
   },
   {
@@ -8072,7 +8036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 51,
     "createdAt": "2024-10-03T10:11:53Z"
   },
   {
