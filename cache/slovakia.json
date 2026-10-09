@@ -6332,7 +6332,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 36,
     "createdAt": "2022-11-09T22:34:15Z"
   },
   {
@@ -6343,7 +6343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 430,
+    "privateContributions": 469,
     "publicContributions": 3,
     "createdAt": "2022-01-21T18:47:06Z"
   },
@@ -6354,22 +6354,10 @@
     "location": "Slovakia",
     "company": " VEXiON cards",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 3018,
-    "publicContributions": 1,
+    "followers": 10,
+    "privateContributions": 4861,
+    "publicContributions": 2,
     "createdAt": "2022-01-22T18:44:12Z"
-  },
-  {
-    "login": "ReconGit",
-    "name": "Jakub Gerec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100100860?s=72&u=ce3078a674fd4424b3a3e21c36e6220adfc570ec&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1151,
-    "publicContributions": 43,
-    "createdAt": "2022-02-21T00:02:08Z"
   },
   {
     "login": "maryoxd",
@@ -6380,7 +6368,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 48,
     "createdAt": "2022-11-08T13:17:04Z"
   },
   {
@@ -6390,8 +6378,8 @@
     "location": "Košice, Slovakia",
     "company": "MetaApp s.r.o",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 5,
+    "followers": 9,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-29T06:20:21Z"
   },
@@ -6403,7 +6391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1214,
+    "privateContributions": 1271,
     "publicContributions": 1,
     "createdAt": "2022-05-10T19:46:45Z"
   },
@@ -6415,8 +6403,8 @@
     "company": "sféra, a.s.",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1392,
-    "publicContributions": 30,
+    "privateContributions": 1389,
+    "publicContributions": 27,
     "createdAt": "2022-01-21T17:34:05Z"
   },
   {
@@ -6428,7 +6416,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 55,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2022-02-12T15:10:30Z"
   },
   {
@@ -6446,12 +6434,12 @@
   {
     "login": "Y0hn",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101512527?s=72&u=57fea5e1b0444a81fe724742f4e43bef820fadea&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101512527?s=72&u=3be6469c6c24641553597f91cdadf78af58e6067&v=4",
     "location": "Slovakia",
     "company": "University of Zilina",
-    "twitterUsername": "Y0hn_SK",
+    "twitterUsername": "Y0hnan",
     "followers": 7,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 201,
     "createdAt": "2022-03-13T14:21:37Z"
   },
@@ -6464,7 +6452,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 72,
     "createdAt": "2022-10-16T18:17:39Z"
   },
   {
@@ -6475,7 +6463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 39,
+    "privateContributions": 46,
     "publicContributions": 9,
     "createdAt": "2022-06-08T16:49:55Z"
   },
@@ -6486,7 +6474,7 @@
     "location": "Brezno, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-10-04T14:20:32Z"
@@ -6500,7 +6488,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 129,
     "createdAt": "2022-07-07T22:37:35Z"
   },
   {
@@ -6510,9 +6498,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 205,
     "createdAt": "2022-02-12T08:16:04Z"
   },
   {
@@ -6522,9 +6510,9 @@
     "location": "Slovakia",
     "company": "@FederationStudios",
     "twitterUsername": "theAntarux",
-    "followers": 7,
-    "privateContributions": 375,
-    "publicContributions": 235,
+    "followers": 11,
+    "privateContributions": 665,
+    "publicContributions": 23,
     "createdAt": "2022-03-31T22:17:27Z"
   },
   {
@@ -6534,9 +6522,9 @@
     "location": "Slovakia",
     "company": "@wnstify ",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1337,
+    "publicContributions": 1371,
     "createdAt": "2022-07-24T10:09:12Z"
   },
   {
@@ -6547,8 +6535,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 576,
-    "publicContributions": 274,
+    "privateContributions": 1607,
+    "publicContributions": 265,
     "createdAt": "2022-01-31T19:10:47Z"
   },
   {

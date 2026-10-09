@@ -6379,8 +6379,8 @@
     "company": "African Clinical Research Network",
     "twitterUsername": "Sycolee_78",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 61,
+    "privateContributions": 116,
+    "publicContributions": 60,
     "createdAt": "2022-01-17T10:23:47Z"
   },
   {
@@ -6390,9 +6390,9 @@
     "location": "Harare, Zimbabwe",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3779,
-    "publicContributions": 44,
+    "followers": 2,
+    "privateContributions": 3956,
+    "publicContributions": 26,
     "createdAt": "2022-09-06T12:05:36Z"
   },
   {
@@ -6428,7 +6428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 22,
     "createdAt": "2022-01-20T04:24:58Z"
   },
   {
@@ -6438,7 +6438,7 @@
     "location": "Zimbabwe",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2022-08-20T19:36:29Z"
@@ -6474,7 +6474,7 @@
     "location": "zimbabwe",
     "company": "Thesigner",
     "twitterUsername": "ShawnTate",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-08T20:11:02Z"
@@ -6488,7 +6488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 64,
     "createdAt": "2022-03-31T13:48:23Z"
   },
   {
@@ -6500,7 +6500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2022-01-07T08:16:22Z"
   },
   {
@@ -6512,7 +6512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-02-19T19:51:21Z"
   },
   {
@@ -6559,21 +6559,9 @@
     "company": "Harare Institute of Technology",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 307,
-    "publicContributions": 19,
+    "privateContributions": 401,
+    "publicContributions": 23,
     "createdAt": "2022-03-22T23:38:20Z"
-  },
-  {
-    "login": "kenjiwizard",
-    "name": "Kenji",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120318704?s=72&u=bed9d2e3ce2a565de34639357303ad696c34c99b&v=4",
-    "location": "Harare",
-    "company": "",
-    "twitterUsername": "wizard_0x",
-    "followers": 1201,
-    "privateContributions": 0,
-    "publicContributions": 523,
-    "createdAt": "2022-12-11T13:51:24Z"
   },
   {
     "login": "musungare-tanaka",
@@ -6582,9 +6570,9 @@
     "location": "Harare",
     "company": "",
     "twitterUsername": "",
-    "followers": 113,
-    "privateContributions": 735,
-    "publicContributions": 261,
+    "followers": 116,
+    "privateContributions": 823,
+    "publicContributions": 247,
     "createdAt": "2022-10-16T12:36:03Z"
   },
   {
@@ -6594,9 +6582,9 @@
     "location": "Harare",
     "company": "Codecrafters",
     "twitterUsername": "fariraijames",
-    "followers": 97,
-    "privateContributions": 3109,
-    "publicContributions": 505,
+    "followers": 96,
+    "privateContributions": 2741,
+    "publicContributions": 642,
     "createdAt": "2022-09-22T10:14:36Z"
   },
   {

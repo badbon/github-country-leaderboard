@@ -6680,7 +6680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 36,
     "createdAt": "2022-08-30T08:07:46Z"
   },
   {
@@ -6704,7 +6704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 23,
     "createdAt": "2024-03-29T07:40:14Z"
   },
   {
@@ -6740,7 +6740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 103,
     "createdAt": "2024-05-08T13:34:05Z"
   },
   {
@@ -6776,20 +6776,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 24,
     "createdAt": "2024-08-13T13:45:05Z"
-  },
-  {
-    "login": "Dan1el-M",
-    "name": "José Daniel Morera Elizondo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183259319?s=72&v=4",
-    "location": "Cartago, Costa RIca",
-    "company": "Costa Rica Institute of Technology",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 256,
-    "createdAt": "2024-09-29T05:14:25Z"
   },
   {
     "login": "JIgnacio24",
@@ -6799,7 +6787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 64,
+    "privateContributions": 84,
     "publicContributions": 137,
     "createdAt": "2024-11-18T06:23:47Z"
   },
@@ -6812,7 +6800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 253,
     "createdAt": "2024-06-12T20:08:52Z"
   },
   {
@@ -6824,7 +6812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 54,
     "createdAt": "2022-05-23T16:44:47Z"
   },
   {
@@ -6836,7 +6824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 8,
     "createdAt": "2024-12-10T13:47:43Z"
   },
   {
@@ -6846,9 +6834,9 @@
     "location": "Liberia, Costa Rica",
     "company": "12uno",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 51,
     "createdAt": "2021-03-06T11:56:13Z"
   },
   {
@@ -6872,7 +6860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 30,
     "createdAt": "2024-03-05T00:31:44Z"
   },
   {
@@ -6884,19 +6872,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 22,
     "createdAt": "2024-02-19T17:24:44Z"
   },
   {
     "login": "JosueBrenes",
     "name": "Josué Brenes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123853174?s=72&u=fcaf33338965e7852c3749cef817cffb7cea501e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123853174?s=72&u=9ccc151f668efb8229d9461ab231a98456b1a905&v=4",
     "location": "Costa Rica",
     "company": "ACTA",
     "twitterUsername": "JosueBrenes_",
-    "followers": 34,
-    "privateContributions": 1797,
-    "publicContributions": 1018,
+    "followers": 37,
+    "privateContributions": 1774,
+    "publicContributions": 931,
     "createdAt": "2023-01-29T04:17:31Z"
   },
   {
@@ -6906,9 +6894,9 @@
     "location": "Costa Rica",
     "company": "Visione Edge",
     "twitterUsername": "iZack26_",
-    "followers": 30,
-    "privateContributions": 1376,
-    "publicContributions": 220,
+    "followers": 35,
+    "privateContributions": 1659,
+    "publicContributions": 425,
     "createdAt": "2023-03-19T19:18:03Z"
   },
   {

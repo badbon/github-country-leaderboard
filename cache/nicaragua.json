@@ -6480,18 +6480,6 @@
     "createdAt": "2021-07-21T04:53:53Z"
   },
   {
-    "login": "theanywhere",
-    "name": "Douglas Sanchez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78824595?s=72&u=510f417df39b732e1b1a93b1f2861c60a13dba96&v=4",
-    "location": "Nicaragua",
-    "company": "None",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-02-09T21:04:03Z"
-  },
-  {
     "login": "Axel828388",
     "name": "Axel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77419228?s=72&u=8bc34405746b3306065fc206192eaee0ef3ed77c&v=4",
@@ -6500,7 +6488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 59,
     "createdAt": "2021-01-13T23:57:06Z"
   },
   {
@@ -6511,8 +6499,8 @@
     "company": "Emprovisa",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 226,
-    "publicContributions": 73,
+    "privateContributions": 253,
+    "publicContributions": 55,
     "createdAt": "2021-10-01T05:25:39Z"
   },
   {
@@ -6566,13 +6554,13 @@
   {
     "login": "AndyCruz81",
     "name": "Andy José Cruz García",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80351895?s=72&u=2e63a109f4d2573104add62ca27bb1f353968739&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/80351895?s=72&u=0553d738107ca008b136fc75e5187e7b44ba3f8f&v=4",
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-03-09T17:33:18Z"
   },
   {
@@ -6619,7 +6607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1214,
+    "privateContributions": 1324,
     "publicContributions": 0,
     "createdAt": "2021-02-22T21:03:29Z"
   },
@@ -6656,7 +6644,7 @@
     "twitterUsername": "acent_440k",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 16,
     "createdAt": "2021-07-06T11:04:07Z"
   },
   {
@@ -6667,7 +6655,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 234,
+    "privateContributions": 265,
     "publicContributions": 0,
     "createdAt": "2021-04-27T00:06:02Z"
   },
@@ -6680,7 +6668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 35,
     "createdAt": "2021-08-10T21:36:35Z"
   },
   {
@@ -6702,7 +6690,7 @@
     "location": "Managua, Nicaragua",
     "company": "LS",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-27T22:08:09Z"

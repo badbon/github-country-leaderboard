@@ -6380,7 +6380,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 127,
     "createdAt": "2024-09-02T13:35:02Z"
   },
   {
@@ -6404,7 +6404,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 12,
     "createdAt": "2024-10-21T12:12:33Z"
   },
   {
@@ -6416,7 +6416,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 22,
     "createdAt": "2024-01-16T13:04:32Z"
   },
   {
@@ -6426,15 +6426,15 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "DevFlexPro",
-    "followers": 4,
-    "privateContributions": 388,
-    "publicContributions": 206,
+    "followers": 5,
+    "privateContributions": 387,
+    "publicContributions": 225,
     "createdAt": "2024-06-27T19:03:55Z"
   },
   {
     "login": "Sindrelm",
     "name": "Sindre Larsen Mjøs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183653376?s=72&u=70352704d6f29a33d84dc959e1420f97f18d2322&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183653376?s=72&v=4",
     "location": "Norway",
     "company": "@BoziMob",
     "twitterUsername": "",
@@ -6450,21 +6450,21 @@
     "location": "Sarpsborg, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 195,
     "createdAt": "2024-01-09T12:15:34Z"
   },
   {
     "login": "inastefansdottir",
     "name": "Ína S Stefánsdóttir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183111787?s=72&u=a9ce816ae4bf514a048d695503b54b65091ef635&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183111787?s=72&u=e7b95de3a083eda258f2898133eba74084d8648c&v=4",
     "location": "Norway, Nordland",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 270,
+    "publicContributions": 237,
     "createdAt": "2024-09-27T15:00:20Z"
   },
   {
@@ -6476,7 +6476,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1802,
+    "publicContributions": 2798,
     "createdAt": "2024-05-30T09:59:14Z"
   },
   {
@@ -6487,8 +6487,8 @@
     "company": "Nlw",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 455,
-    "publicContributions": 45,
+    "privateContributions": 634,
+    "publicContributions": 58,
     "createdAt": "2024-06-25T11:05:03Z"
   },
   {
@@ -6499,8 +6499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 948,
-    "publicContributions": 169,
+    "privateContributions": 3306,
+    "publicContributions": 157,
     "createdAt": "2024-04-13T14:07:37Z"
   },
   {
@@ -6512,20 +6512,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 112,
     "createdAt": "2024-02-19T14:08:37Z"
-  },
-  {
-    "login": "Eerrikki",
-    "name": "Coddi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167134610?s=72&u=db2463d9f539ed5af9cfebd9c2e3bdfa4edb0e55&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 5643,
-    "publicContributions": 0,
-    "createdAt": "2024-04-15T19:58:51Z"
   },
   {
     "login": "Bjelland14",
@@ -6536,7 +6524,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 328,
+    "publicContributions": 374,
     "createdAt": "2024-12-19T16:35:21Z"
   },
   {
@@ -6547,8 +6535,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 44,
-    "publicContributions": 12,
+    "privateContributions": 38,
+    "publicContributions": 6,
     "createdAt": "2024-02-22T10:46:54Z"
   },
   {
@@ -6560,7 +6548,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2024-01-24T08:02:41Z"
   },
   {
@@ -6570,9 +6558,9 @@
     "location": "Trondheim, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2024-09-18T09:10:55Z"
   },
   {
@@ -6584,7 +6572,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 986,
+    "publicContributions": 943,
     "createdAt": "2024-01-26T21:35:12Z"
   },
   {
@@ -6594,7 +6582,7 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2024-08-23T09:06:15Z"

@@ -6487,7 +6487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 286,
+    "privateContributions": 428,
     "publicContributions": 0,
     "createdAt": "2023-04-22T01:36:47Z"
   },
@@ -6524,19 +6524,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 75,
     "createdAt": "2023-07-03T04:06:19Z"
   },
   {
     "login": "sebastianvegaabril",
     "name": "Sebastian Vega",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134812597?s=72&u=f88bd01cbfd06b99e949d02a86d12607ca9ec86b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134812597?s=72&u=ef78409511c556af996e3c7421e8fc6535cf5be3&v=4",
     "location": "Montevideo, Uruguay",
     "company": "Silver River",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 355,
-    "publicContributions": 27,
+    "followers": 4,
+    "privateContributions": 754,
+    "publicContributions": 19,
     "createdAt": "2023-05-27T21:31:57Z"
   },
   {
@@ -6548,7 +6548,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-02-02T01:11:59Z"
   },
   {
@@ -6558,8 +6558,8 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 22,
+    "followers": 4,
+    "privateContributions": 44,
     "publicContributions": 94,
     "createdAt": "2023-04-23T22:27:29Z"
   },
@@ -6571,7 +6571,7 @@
     "company": "Lofty Marketing",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 116,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2023-08-14T08:33:30Z"
   },
@@ -6584,7 +6584,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 57,
     "createdAt": "2023-06-05T15:28:38Z"
   },
   {
@@ -6608,7 +6608,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 13,
-    "publicContributions": 167,
+    "publicContributions": 139,
     "createdAt": "2023-04-25T14:39:55Z"
   },
   {
@@ -67438,5 +67438,17 @@
     "privateContributions": 87,
     "publicContributions": 152,
     "createdAt": "2024-03-21T11:48:52Z"
+  },
+  {
+    "login": "EnzoVictoria",
+    "name": "El Nº20",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167544570?s=72&u=45df8faa848ca4003c33f4744ce02bb14c5d8eca&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-04-19T14:07:28Z"
   }
 ]

@@ -6404,7 +6404,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2023-04-04T14:56:15Z"
   },
   {
@@ -6416,19 +6416,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 1,
     "createdAt": "2023-05-06T19:55:56Z"
   },
   {
     "login": "Mohamad-bsher-morjan",
     "name": "bsher morjan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133362793?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133362793?s=72&u=2f6f91e1c0a36ad5ea92fc822c3b9e9a8a2c56f0&v=4",
     "location": "syria",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 200,
     "createdAt": "2023-05-12T11:39:12Z"
   },
   {
@@ -6439,8 +6439,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
-    "publicContributions": 48,
+    "privateContributions": 3,
+    "publicContributions": 45,
     "createdAt": "2023-10-14T15:56:31Z"
   },
   {
@@ -6450,9 +6450,9 @@
     "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 193,
-    "publicContributions": 359,
+    "followers": 3,
+    "privateContributions": 172,
+    "publicContributions": 254,
     "createdAt": "2023-09-13T19:56:46Z"
   },
   {
@@ -6488,20 +6488,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 2,
     "createdAt": "2023-11-29T02:53:03Z"
-  },
-  {
-    "login": "maher-alhomsy",
-    "name": "Maher Aloumsi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130058281?s=72&u=59f216214ccc7de68fada4bbc48a48f1d65d284f&v=4",
-    "location": "Syria - Damascus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 193,
-    "createdAt": "2023-04-06T11:23:37Z"
   },
   {
     "login": "Ayham-KD",
@@ -6534,9 +6522,9 @@
     "location": "Syria, Damascus ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 47,
+    "followers": 4,
+    "privateContributions": 6,
+    "publicContributions": 183,
     "createdAt": "2023-08-11T09:11:49Z"
   },
   {
@@ -6583,8 +6571,8 @@
     "company": "JWT & Partners",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 935,
-    "publicContributions": 4,
+    "privateContributions": 1164,
+    "publicContributions": 3,
     "createdAt": "2023-03-28T11:30:07Z"
   },
   {
@@ -6606,9 +6594,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 160,
-    "publicContributions": 442,
+    "followers": 3,
+    "privateContributions": 140,
+    "publicContributions": 417,
     "createdAt": "2023-12-05T15:56:38Z"
   },
   {
@@ -6618,9 +6606,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 255,
+    "publicContributions": 218,
     "createdAt": "2023-09-18T09:16:35Z"
   },
   {

@@ -6668,7 +6668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 81,
     "createdAt": "2024-08-06T10:52:24Z"
   },
   {
@@ -6680,20 +6680,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 81,
     "createdAt": "2024-01-29T20:06:17Z"
-  },
-  {
-    "login": "zaraboy4",
-    "name": "Yoan Yordanov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165042472?s=72&v=4",
-    "location": "Sofia, Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 104,
-    "createdAt": "2024-03-26T13:50:28Z"
   },
   {
     "login": "monikaKiskinova",
@@ -6715,7 +6703,7 @@
     "company": "VSG Bulgaria",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 331,
+    "privateContributions": 395,
     "publicContributions": 0,
     "createdAt": "2024-10-03T07:07:09Z"
   },
@@ -6739,8 +6727,8 @@
     "company": "Redis",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1977,
-    "publicContributions": 0,
+    "privateContributions": 2420,
+    "publicContributions": 3,
     "createdAt": "2024-05-15T10:52:27Z"
   },
   {
@@ -6752,7 +6740,7 @@
     "twitterUsername": "HumanoidDiff",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 23,
     "createdAt": "2024-02-04T18:26:10Z"
   },
   {
@@ -6776,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2024-02-26T15:45:22Z"
   },
   {
@@ -6835,8 +6823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 28,
-    "publicContributions": 14,
+    "privateContributions": 25,
+    "publicContributions": 11,
     "createdAt": "2024-12-04T09:46:36Z"
   },
   {
@@ -6848,7 +6836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2024-12-18T06:43:33Z"
   },
   {
@@ -6896,7 +6884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2024-08-20T16:02:34Z"
   },
   {
