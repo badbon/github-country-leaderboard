@@ -5670,7 +5670,7 @@
     "location": "Ghana",
     "company": "Deific Clean Energy",
     "twitterUsername": "aniel_cohen",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-04T08:31:36Z"
@@ -5696,7 +5696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2025-09-26T10:44:41Z"
   },
   {
@@ -5720,7 +5720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 31,
     "createdAt": "2025-09-02T08:49:37Z"
   },
   {
@@ -5732,20 +5732,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 2,
     "createdAt": "2025-07-08T21:26:48Z"
-  },
-  {
-    "login": "abiodunseyi57-spec",
-    "name": "Abiodun ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234852083?s=72&v=4",
-    "location": "Ghana",
-    "company": "fiverr",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-09-27T23:34:40Z"
   },
   {
     "login": "Gilbert-data",
@@ -5766,21 +5754,21 @@
     "location": "Accra, Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2025-07-21T10:34:50Z"
   },
   {
     "login": "Luchold",
     "name": "Luc Agbognisso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201233326?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201233326?s=72&u=a7004f8c6c6223cdfa115900ef3eff3c28c98927&v=4",
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 19,
     "createdAt": "2025-02-28T12:58:33Z"
   },
   {
@@ -5792,7 +5780,7 @@
     "twitterUsername": "onFafaNutifafa",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 297,
     "createdAt": "2025-12-17T03:00:54Z"
   },
   {
@@ -5804,7 +5792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 158,
     "createdAt": "2025-02-26T10:38:17Z"
   },
   {
@@ -5852,7 +5840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 36,
     "createdAt": "2025-09-11T01:48:57Z"
   },
   {
@@ -5864,7 +5852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-09-28T13:04:12Z"
   },
   {
@@ -5876,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2025-07-08T01:31:07Z"
   },
   {
@@ -85222,5 +85210,161 @@
     "privateContributions": 0,
     "publicContributions": 243,
     "createdAt": "2026-05-16T13:31:11Z"
+  },
+  {
+    "login": "BettyOtchere",
+    "name": "Betty Otchere",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291909597?s=72&u=8c9f4e624f40e83ea6c0cb13e13810e682cbcda0&v=4",
+    "location": "Accra, Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-06-08T20:33:20Z"
+  },
+  {
+    "login": "Mckule33",
+    "name": "McKule33",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294111095?s=72&v=4",
+    "location": "Accra/Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-06-16T08:20:47Z"
+  },
+  {
+    "login": "wyll77",
+    "name": "Godwyll Mensah Korley",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293627996?s=72&u=8dfa248fd6dc10ed7dc053bc16f8f0df75cc33a3&v=4",
+    "location": "Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 115,
+    "createdAt": "2026-06-14T16:14:56Z"
+  },
+  {
+    "login": "emmanuelpobee112-jpg",
+    "name": "Emmanuel Pobee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297237734?s=72&u=83869625f1abc129776b481e40bac77779e347ce&v=4",
+    "location": "OYARIFA, GREATER ACCRA, GHANA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-26T17:59:45Z"
+  },
+  {
+    "login": "nanaeshun",
+    "name": "NANA ESHUN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292928221?s=72&u=1d0dd550cb4514c309f6a89d0cd81371cfaff32f&v=4",
+    "location": "Accra, Ghana",
+    "company": "IPMC University College",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-11T22:35:06Z"
+  },
+  {
+    "login": "EbenAkrong",
+    "name": "Akrong Ebenezer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296459839?s=72&v=4",
+    "location": "Accra, Ghana",
+    "company": "University of Ghana ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-24T10:21:32Z"
+  },
+  {
+    "login": "xo-nana",
+    "name": "Nana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297498523?s=72&u=fd355632dafa33c000c09188004e4680bcabbf7a&v=4",
+    "location": "Tema, Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-27T21:06:30Z"
+  },
+  {
+    "login": "UNO-CRYPTO4",
+    "name": "Judith Korlekie Agudey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295817841?s=72&u=ff8571fb30059949888468f77b86a16b286d0ca3&v=4",
+    "location": "Accra,Ghana",
+    "company": "student studying HR & Psychology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 185,
+    "createdAt": "2026-06-22T10:30:56Z"
+  },
+  {
+    "login": "Cyrilakolgo-jpg",
+    "name": "Cyril Akolgo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295136108?s=72&u=dcb37fcffed1e8c3734e8ef25ccfb121b6cb2979&v=4",
+    "location": "Accra-Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-19T13:43:00Z"
+  },
+  {
+    "login": "ericasam7",
+    "name": "Erica Sam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294003906?s=72&v=4",
+    "location": "Ghana ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-15T23:08:02Z"
+  },
+  {
+    "login": "deborahfevlo",
+    "name": "Deborah Fevlo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291849454?s=72&u=749877f7c0e2225d62fd8aebc21cc2ae40f3a311&v=4",
+    "location": "Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 152,
+    "publicContributions": 92,
+    "createdAt": "2026-06-08T16:20:08Z"
+  },
+  {
+    "login": "Takea-Risk",
+    "name": "Emmanuel Essarkoh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297027337?s=72&u=7aa1a9451802fcf5ad882093920509761adccaba&v=4",
+    "location": "Accra , Ghana",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-26T00:47:31Z"
+  },
+  {
+    "login": "ROBERT-MENSAH",
+    "name": "ROBERT-MENSAH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292556230?s=72&u=853133c09e14a732fe4e9b41ad670b2e779989df&v=4",
+    "location": "GHANA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-06-10T18:51:32Z"
   }
 ]

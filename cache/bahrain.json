@@ -5660,7 +5660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-06-23T08:36:11Z"
   },
   {
@@ -5726,13 +5726,13 @@
   {
     "login": "ali-afk",
     "name": "Burglar99",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/57285258?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/57285258?s=72&u=0e3a02076a89ac1695be0bc362a253774f728f84&v=4",
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 233,
-    "publicContributions": 155,
+    "followers": 2,
+    "privateContributions": 203,
+    "publicContributions": 308,
     "createdAt": "2019-11-02T08:53:51Z"
   },
   {
@@ -5744,7 +5744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2019-09-27T12:23:37Z"
   },
   {
@@ -5766,9 +5766,9 @@
     "location": "Bahrain",
     "company": "@dotlas",
     "twitterUsername": "_kelvindecosta",
-    "followers": 91,
-    "privateContributions": 4028,
-    "publicContributions": 96,
+    "followers": 93,
+    "privateContributions": 4320,
+    "publicContributions": 97,
     "createdAt": "2018-05-04T13:23:24Z"
   },
   {
@@ -5778,9 +5778,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 42,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2018-05-12T14:00:21Z"
   },
   {
@@ -5791,7 +5791,7 @@
     "company": "",
     "twitterUsername": "fares_alashkar",
     "followers": 32,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-25T11:09:11Z"
   },
@@ -5802,9 +5802,9 @@
     "location": "Manama,Bahrain",
     "company": "INTERMID",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 22,
     "createdAt": "2018-09-29T06:21:32Z"
   },
   {
@@ -5815,8 +5815,8 @@
     "company": "",
     "twitterUsername": "khalill",
     "followers": 17,
-    "privateContributions": 96,
-    "publicContributions": 24,
+    "privateContributions": 89,
+    "publicContributions": 130,
     "createdAt": "2018-08-23T08:31:49Z"
   },
   {
@@ -5851,8 +5851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 28,
-    "publicContributions": 11,
+    "privateContributions": 33,
+    "publicContributions": 31,
     "createdAt": "2018-03-07T19:54:16Z"
   },
   {
@@ -5862,8 +5862,8 @@
     "location": "Bahrain",
     "company": "Worked at @TestGorilla-BV @citi ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 991,
+    "followers": 6,
+    "privateContributions": 1293,
     "publicContributions": 60,
     "createdAt": "2018-01-27T07:58:26Z"
   },
@@ -5876,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 97,
     "createdAt": "2018-01-31T16:41:36Z"
   },
   {
@@ -5887,8 +5887,8 @@
     "company": "Qalar Media",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 18,
-    "publicContributions": 4,
+    "privateContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2018-08-16T17:16:14Z"
   },
   {

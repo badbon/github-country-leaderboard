@@ -5418,7 +5418,7 @@
     "location": "Sri lanka",
     "company": "Global network & Lks solutions ",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2025-05-19T06:33:55Z"
@@ -5430,9 +5430,9 @@
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "ThinukaVinjaya",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 428,
+    "publicContributions": 394,
     "createdAt": "2025-01-24T05:41:31Z"
   },
   {
@@ -5442,9 +5442,9 @@
     "location": "Sri Lanka",
     "company": "University of Colombo",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 275,
     "createdAt": "2025-03-14T09:27:12Z"
   },
   {
@@ -5454,9 +5454,9 @@
     "location": "Sri Lanka",
     "company": "Coventry University | NIBM",
     "twitterUsername": "aushadhini",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 168,
     "createdAt": "2025-06-22T07:33:18Z"
   },
   {
@@ -5480,19 +5480,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 339,
+    "publicContributions": 154,
     "createdAt": "2025-03-22T18:32:41Z"
   },
   {
     "login": "himashakashmira",
     "name": "Himasha Kashmira",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205878938?s=72&u=7f85df963e87b6da9b6cdafb4a8c75b6862d5f8c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205878938?s=72&u=ef0190d2a43b1163d914404de8ed8682871ba55e&v=4",
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 135,
     "createdAt": "2025-04-02T05:34:11Z"
   },
   {
@@ -5502,9 +5502,9 @@
     "location": "Colombo, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 49,
+    "followers": 7,
+    "privateContributions": 121,
+    "publicContributions": 205,
     "createdAt": "2025-02-20T05:48:49Z"
   },
   {
@@ -5514,7 +5514,7 @@
     "location": "Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 46,
     "publicContributions": 7,
     "createdAt": "2025-01-19T14:17:47Z"
@@ -5527,8 +5527,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 85,
-    "publicContributions": 117,
+    "privateContributions": 88,
+    "publicContributions": 170,
     "createdAt": "2025-04-06T08:37:01Z"
   },
   {
@@ -5550,9 +5550,9 @@
     "location": "Sri Lanka",
     "company": "gateway.lk",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 132,
     "createdAt": "2025-06-18T16:23:49Z"
   },
   {
@@ -5564,7 +5564,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 104,
     "createdAt": "2025-02-27T10:26:58Z"
   },
   {
@@ -5574,9 +5574,9 @@
     "location": "Colombo, Western Province, Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 104,
     "createdAt": "2025-02-25T07:28:07Z"
   },
   {
@@ -5598,9 +5598,9 @@
     "location": "Sri Lanka, Colombo",
     "company": "@NorthStarDevs",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 32,
-    "publicContributions": 138,
+    "followers": 7,
+    "privateContributions": 37,
+    "publicContributions": 152,
     "createdAt": "2025-06-05T04:36:02Z"
   },
   {
@@ -5622,7 +5622,7 @@
     "location": "Colombo / Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 60,
     "publicContributions": 49,
     "createdAt": "2025-06-18T10:02:03Z"
@@ -219010,5 +219010,17 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2024-08-07T18:33:03Z"
+  },
+  {
+    "login": "Elisazze",
+    "name": "WinterClaudz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/247645473?s=72&u=6d6cfea4146164e5b6645290099426a4eda32fb7&v=4",
+    "location": "Sri Lanka",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2025-12-03T17:35:39Z"
   }
 ]

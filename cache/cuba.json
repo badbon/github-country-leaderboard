@@ -5658,9 +5658,9 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "Leandro_Simil",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-07-13T18:50:09Z"
   },
   {
@@ -5670,9 +5670,9 @@
     "location": "Cuba, Ciego de Ávila, Ciro Redondo",
     "company": "DMOTU",
     "twitterUsername": "make_shiro",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-10-31T20:32:13Z"
   },
   {
@@ -5683,7 +5683,7 @@
     "company": "ETI Biocubafarma",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 43,
+    "privateContributions": 75,
     "publicContributions": 15,
     "createdAt": "2022-10-22T13:55:58Z"
   },
@@ -5694,21 +5694,21 @@
     "location": "Havana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 342,
-    "publicContributions": 86,
+    "followers": 8,
+    "privateContributions": 817,
+    "publicContributions": 96,
     "createdAt": "2022-06-27T13:34:32Z"
   },
   {
     "login": "orebarranco",
     "name": "Oreste Barranco Hernández",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106551888?s=72&u=8b1f5c346b9ca95f21791dc34a97fd452ac9f836&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106551888?s=72&u=07f49f19ec591877a99ddade5ab4d46a25c5ad9d&v=4",
     "location": "Camagüey, Cuba",
     "company": "Elumad",
     "twitterUsername": "oreste_barranco",
     "followers": 7,
-    "privateContributions": 704,
-    "publicContributions": 150,
+    "privateContributions": 871,
+    "publicContributions": 277,
     "createdAt": "2022-05-30T17:46:14Z"
   },
   {
@@ -5718,9 +5718,9 @@
     "location": "Ciego de Ávila, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 42,
-    "publicContributions": 7193,
+    "followers": 6,
+    "privateContributions": 206,
+    "publicContributions": 9050,
     "createdAt": "2022-05-11T16:45:20Z"
   },
   {
@@ -5732,7 +5732,7 @@
     "twitterUsername": "InfernoidPl4y",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 214,
     "createdAt": "2022-06-03T00:29:53Z"
   },
   {
@@ -5755,7 +5755,7 @@
     "company": "",
     "twitterUsername": "valikvalter",
     "followers": 6,
-    "privateContributions": 227,
+    "privateContributions": 389,
     "publicContributions": 42,
     "createdAt": "2022-02-12T05:23:23Z"
   },
@@ -5766,7 +5766,7 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "l_jrmatos",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-20T23:51:17Z"
@@ -5779,7 +5779,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2022-01-29T05:56:59Z"
   },
@@ -5803,8 +5803,8 @@
     "company": "",
     "twitterUsername": "addiel_moldes",
     "followers": 6,
-    "privateContributions": 279,
-    "publicContributions": 9,
+    "privateContributions": 293,
+    "publicContributions": 16,
     "createdAt": "2022-05-10T12:53:47Z"
   },
   {
@@ -5815,8 +5815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 610,
-    "publicContributions": 610,
+    "privateContributions": 615,
+    "publicContributions": 1104,
     "createdAt": "2022-07-31T16:16:43Z"
   },
   {
@@ -5828,7 +5828,7 @@
     "twitterUsername": "ernepazzo1212",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 11,
     "createdAt": "2022-02-07T19:34:39Z"
   },
   {
@@ -5862,9 +5862,9 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "el_luirro",
-    "followers": 5,
-    "privateContributions": 2060,
-    "publicContributions": 70,
+    "followers": 6,
+    "privateContributions": 2587,
+    "publicContributions": 18,
     "createdAt": "2022-01-31T21:39:34Z"
   },
   {
@@ -5874,7 +5874,7 @@
     "location": "Mayabeque, cuba",
     "company": "INCA",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-04T18:49:28Z"
@@ -5888,7 +5888,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1412,
+    "publicContributions": 974,
     "createdAt": "2022-01-23T19:16:48Z"
   },
   {

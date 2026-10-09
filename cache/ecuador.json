@@ -5713,10 +5713,10 @@
   },
   {
     "login": "QhatuRepo",
-    "name": "QhatuRepo",
+    "name": "KatuRepo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185096064?s=72&v=4",
     "location": "Quito",
-    "company": "Qhatu Store",
+    "company": "Katu",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -5744,7 +5744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 66,
     "createdAt": "2024-04-28T17:57:23Z"
   },
   {
@@ -5768,7 +5768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 39,
     "createdAt": "2024-06-28T01:46:33Z"
   },
   {
@@ -5792,7 +5792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2024-02-21T11:47:44Z"
   },
   {
@@ -5802,9 +5802,9 @@
     "location": "Quito",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 510,
+    "publicContributions": 631,
     "createdAt": "2024-12-17T19:38:43Z"
   },
   {
@@ -5828,7 +5828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 339,
+    "publicContributions": 294,
     "createdAt": "2024-02-08T23:19:29Z"
   },
   {
@@ -5840,7 +5840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 34,
     "createdAt": "2024-05-08T17:12:15Z"
   },
   {
@@ -5862,9 +5862,9 @@
     "location": "Ecuador",
     "company": "DevCoreX",
     "twitterUsername": "DevCoreX",
-    "followers": 257,
+    "followers": 277,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 248,
     "createdAt": "2023-12-06T19:46:00Z"
   },
   {
@@ -5874,9 +5874,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 219,
-    "privateContributions": 195,
-    "publicContributions": 131,
+    "followers": 224,
+    "privateContributions": 237,
+    "publicContributions": 113,
     "createdAt": "2023-01-21T00:57:19Z"
   },
   {
@@ -5886,21 +5886,21 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "CodingTube",
-    "followers": 112,
-    "privateContributions": 275,
-    "publicContributions": 451,
+    "followers": 116,
+    "privateContributions": 344,
+    "publicContributions": 377,
     "createdAt": "2023-01-19T20:44:33Z"
   },
   {
     "login": "devsebastian44",
     "name": "Sebastian Zhunaula",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146502229?s=72&u=4e7ea6ff0168059d26d5ddee3d675709809bc971&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146502229?s=72&u=6b00895f586112c91313266578cecb9b1e5e59b6&v=4",
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "devsebastian44",
-    "followers": 90,
-    "privateContributions": 147,
-    "publicContributions": 1947,
+    "followers": 93,
+    "privateContributions": 189,
+    "publicContributions": 1878,
     "createdAt": "2023-09-30T03:07:31Z"
   },
   {
@@ -5911,8 +5911,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 68,
-    "privateContributions": 629,
-    "publicContributions": 5,
+    "privateContributions": 683,
+    "publicContributions": 2,
     "createdAt": "2023-02-21T02:08:21Z"
   },
   {

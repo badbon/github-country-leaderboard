@@ -5630,13 +5630,13 @@
   {
     "login": "Billlymb",
     "name": "Basilhs Lymberis ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231580568?s=72&u=72829d8cfb748b136fa5893be6a7d8d21bd8060d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231580568?s=72&v=4",
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2025-09-10T23:25:26Z"
   },
   {
@@ -5658,7 +5658,7 @@
     "location": "Athens, GA",
     "company": "University of Georgia",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2025-07-29T15:38:12Z"
@@ -5684,7 +5684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 19,
     "createdAt": "2025-07-17T18:31:33Z"
   },
   {
@@ -5708,7 +5708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 46,
     "createdAt": "2025-10-28T16:19:12Z"
   },
   {
@@ -5760,27 +5760,15 @@
     "createdAt": "2024-04-23T03:27:36Z"
   },
   {
-    "login": "Giachasidis",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157753309?s=72&u=e81a9bf07b28f1aac62e2a885555c8aa5a9cc706&v=4",
-    "location": "Macedonia, Greece",
-    "company": "Freelance Developer",
-    "twitterUsername": "",
-    "followers": 564,
-    "privateContributions": 206,
-    "publicContributions": 438,
-    "createdAt": "2024-01-25T20:48:43Z"
-  },
-  {
     "login": "ImZaharias",
     "name": "Zacharias Polytseris",
     "avatarUrl": "https://avatars.githubusercontent.com/u/160525279?s=72&u=b71d03d54f2aa60096ea060faac863f832c6a7d2&v=4",
     "location": "Thessaloniki, Central Macedonia, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 59,
     "createdAt": "2024-02-19T16:54:48Z"
   },
   {
@@ -5790,9 +5778,9 @@
     "location": "Greece",
     "company": "@cfathens",
     "twitterUsername": "AStaboulis",
-    "followers": 471,
+    "followers": 444,
     "privateContributions": 0,
-    "publicContributions": 316,
+    "publicContributions": 272,
     "createdAt": "2024-07-23T19:56:28Z"
   },
   {
@@ -5802,9 +5790,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 343,
-    "privateContributions": 264,
-    "publicContributions": 105,
+    "followers": 363,
+    "privateContributions": 224,
+    "publicContributions": 152,
     "createdAt": "2024-02-20T16:22:19Z"
   },
   {
@@ -5814,9 +5802,9 @@
     "location": "GREECE",
     "company": "",
     "twitterUsername": "",
-    "followers": 138,
-    "privateContributions": 993,
-    "publicContributions": 1190,
+    "followers": 140,
+    "privateContributions": 938,
+    "publicContributions": 1404,
     "createdAt": "2024-02-27T16:05:12Z"
   },
   {
@@ -5838,21 +5826,21 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "ariskeyman",
-    "followers": 66,
+    "followers": 64,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-21T15:40:15Z"
   },
   {
     "login": "EvangeliaBi",
-    "name": "Evangelia Bibasi",
+    "name": "Evangelia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/158745247?s=72&u=625767198971022b76db55eaee1f126a8787454a&v=4",
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
+    "followers": 47,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 84,
     "createdAt": "2024-02-03T12:41:04Z"
   },
   {
@@ -5861,10 +5849,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/192827309?s=72&u=9efdcbb14dfea394d0ffbded55b52da4d44ad36a&v=4",
     "location": "Greece",
     "company": "",
-    "twitterUsername": "",
-    "followers": 44,
+    "twitterUsername": "EliotGeo",
+    "followers": 51,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 49,
     "createdAt": "2024-12-25T20:23:17Z"
   },
   {
@@ -101502,9 +101490,9 @@
     "location": "Athens, GA USA",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2018-03-07T04:07:09Z"
   },
   {

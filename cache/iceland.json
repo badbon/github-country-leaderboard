@@ -5492,7 +5492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2018-02-12T10:04:31Z"
   },
   {
@@ -5516,7 +5516,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 108,
     "createdAt": "2018-11-28T14:05:55Z"
   },
   {
@@ -5552,7 +5552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 13,
-    "publicContributions": 54,
+    "publicContributions": 67,
     "createdAt": "2018-01-05T14:58:48Z"
   },
   {
@@ -5576,7 +5576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 14,
     "createdAt": "2018-09-08T14:38:37Z"
   },
   {
@@ -5586,9 +5586,9 @@
     "location": "Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2006,
-    "privateContributions": 5064,
-    "publicContributions": 560,
+    "followers": 2256,
+    "privateContributions": 11360,
+    "publicContributions": 666,
     "createdAt": "2017-04-13T19:48:33Z"
   },
   {
@@ -5598,9 +5598,9 @@
     "location": "Reykjavík, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 1765,
+    "publicContributions": 2002,
     "createdAt": "2017-07-29T22:20:27Z"
   },
   {
@@ -5610,9 +5610,9 @@
     "location": "Reykjavík, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 115,
     "createdAt": "2017-01-02T20:22:45Z"
   },
   {
@@ -5623,7 +5623,7 @@
     "company": "Origo",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 337,
+    "privateContributions": 370,
     "publicContributions": 95,
     "createdAt": "2017-09-29T20:57:50Z"
   },

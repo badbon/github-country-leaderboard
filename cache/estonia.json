@@ -5694,9 +5694,9 @@
     "location": "Estonia",
     "company": "RocketAPI",
     "twitterUsername": "",
-    "followers": 61,
+    "followers": 62,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-10-16T14:00:46Z"
   },
   {
@@ -5706,9 +5706,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 567,
-    "publicContributions": 394,
+    "followers": 51,
+    "privateContributions": 511,
+    "publicContributions": 358,
     "createdAt": "2022-05-29T19:10:27Z"
   },
   {
@@ -5718,9 +5718,9 @@
     "location": "Tallinn, Estonia",
     "company": "NebulaCode Labs",
     "twitterUsername": "",
-    "followers": 50,
+    "followers": 48,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 48,
     "createdAt": "2022-08-15T07:26:33Z"
   },
   {
@@ -5730,9 +5730,9 @@
     "location": "Halju Tallinn, Estonia",
     "company": "Dorf Pharmaceutical GmbH",
     "twitterUsername": "AvrovaDonz",
-    "followers": 47,
+    "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 79,
     "createdAt": "2022-01-04T08:10:28Z"
   },
   {
@@ -5754,9 +5754,9 @@
     "location": "Estonia, Tartu",
     "company": "",
     "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 110,
-    "publicContributions": 138,
+    "followers": 36,
+    "privateContributions": 209,
+    "publicContributions": 129,
     "createdAt": "2021-12-28T06:53:04Z"
   },
   {
@@ -5766,20 +5766,20 @@
     "location": "Estonia, Tallinn",
     "company": "code.market",
     "twitterUsername": "cdmrkt",
-    "followers": 27,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-21T06:50:53Z"
   },
   {
     "login": "schizophrenic144",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120251527?s=72&u=835944ff0b6f044d91e957ad6be27b35723c44de&v=4",
+    "name": "mel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/120251527?s=72&u=05adfefc8b8baefad6a744b75e13fbd935354e62&v=4",
     "location": "Estonia                                                      ",
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 1104,
+    "privateContributions": 959,
     "publicContributions": 21,
     "createdAt": "2022-12-10T10:45:20Z"
   },
@@ -5791,8 +5791,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 4,
-    "publicContributions": 329,
+    "privateContributions": 0,
+    "publicContributions": 373,
     "createdAt": "2022-03-30T03:48:52Z"
   },
   {
@@ -5802,9 +5802,9 @@
     "location": "Estonia",
     "company": "//kood",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 734,
+    "publicContributions": 735,
     "createdAt": "2022-03-17T19:42:10Z"
   },
   {
@@ -5815,8 +5815,8 @@
     "company": "Abron Studio",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 18,
-    "publicContributions": 1,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-08-10T07:48:53Z"
   },
   {
@@ -5827,8 +5827,8 @@
     "company": "Opus Online",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 251,
-    "publicContributions": 218,
+    "privateContributions": 226,
+    "publicContributions": 209,
     "createdAt": "2022-09-09T08:27:00Z"
   },
   {
@@ -5839,20 +5839,20 @@
     "company": "Tartu Vocational College",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 155,
+    "privateContributions": 151,
     "publicContributions": 6,
     "createdAt": "2022-09-28T12:22:21Z"
   },
   {
     "login": "nehrom-dev",
     "name": "nehromk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97122653?s=72&u=5c58bbaee664b76517a46448698e81cca66a89a8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97122653?s=72&u=8946fd28b3ac65467c78a95aac7ef2662c529499&v=4",
     "location": "Tallinn, Estonia",
     "company": "Plexteq",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 664,
-    "publicContributions": 102,
+    "followers": 18,
+    "privateContributions": 698,
+    "publicContributions": 99,
     "createdAt": "2022-01-04T18:21:17Z"
   },
   {
@@ -5875,7 +5875,7 @@
     "company": "Tartu Rakenduslik Kolledž",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 370,
+    "privateContributions": 1605,
     "publicContributions": 9,
     "createdAt": "2022-05-20T17:13:47Z"
   },

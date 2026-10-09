@@ -5335,7 +5335,7 @@
     "company": "Tampere University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 32,
+    "privateContributions": 35,
     "publicContributions": 11,
     "createdAt": "2024-08-21T17:04:02Z"
   },
@@ -5360,7 +5360,7 @@
     "twitterUsername": "RadinD__",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 48,
     "createdAt": "2024-11-10T08:40:07Z"
   },
   {
@@ -5370,9 +5370,9 @@
     "location": "Seinajoki, Finland",
     "company": "Mobile robotic intern - SeAMK",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 77,
     "createdAt": "2024-01-07T22:15:18Z"
   },
   {
@@ -5384,7 +5384,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 89,
     "createdAt": "2024-08-30T07:14:59Z"
   },
   {
@@ -5396,7 +5396,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 27,
     "createdAt": "2024-06-29T14:43:48Z"
   },
   {
@@ -5406,7 +5406,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-17T20:48:55Z"
@@ -5426,13 +5426,13 @@
   {
     "login": "sevennnoff",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171661411?s=72&u=77ea34d853683ec2b4354beef5742329404ec1bd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171661411?s=72&u=1d62c7ffd9818902c2f79508fef4688e737cf0d0&v=4",
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 777,
-    "publicContributions": 27,
+    "followers": 6,
+    "privateContributions": 1325,
+    "publicContributions": 52,
     "createdAt": "2024-06-04T07:11:50Z"
   },
   {
@@ -5442,7 +5442,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 5,
     "publicContributions": 208,
     "createdAt": "2024-10-01T05:44:44Z"
@@ -5455,8 +5455,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 31,
-    "publicContributions": 86,
+    "privateContributions": 26,
+    "publicContributions": 77,
     "createdAt": "2024-08-26T06:01:29Z"
   },
   {
@@ -5478,7 +5478,7 @@
     "location": "Finland, Helsinki",
     "company": "@RESONIKS",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-30T07:55:46Z"
@@ -5510,25 +5510,25 @@
   {
     "login": "MiskaPuurunen",
     "name": "MiskaPu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156608990?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156608990?s=72&u=79520420e5c20c8abeb421f3308a591cee5b4288&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 26,
     "createdAt": "2024-01-14T19:04:39Z"
   },
   {
     "login": "MargoFill",
     "name": "Margarita Filenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183290120?s=72&u=3607fd72afa9dc1823dc592613dec39432841e3d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183290120?s=72&u=dd5ce3a7f239a0a88bcb2a7b3b8a5e9f969c1c44&v=4",
     "location": "Kuopio, Finland",
     "company": "Savonia UAS",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 330,
+    "publicContributions": 421,
     "createdAt": "2024-09-29T13:45:28Z"
   },
   {
@@ -5540,7 +5540,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 12,
     "createdAt": "2024-09-17T08:28:57Z"
   },
   {
@@ -5552,7 +5552,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 324,
+    "publicContributions": 32,
     "createdAt": "2024-09-09T13:38:22Z"
   },
   {
@@ -5564,7 +5564,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 20,
     "createdAt": "2024-03-08T08:13:06Z"
   },
   {
@@ -217930,5 +217930,101 @@
     "privateContributions": 0,
     "publicContributions": 140,
     "createdAt": "2023-11-08T08:52:02Z"
+  },
+  {
+    "login": "Aph-Finland",
+    "name": "Finland, Tino!",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295163334?s=72&u=150b64e09f8959803d9a05fcfb829e850de90372&v=4",
+    "location": "Finland | Suomi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-19T15:26:39Z"
+  },
+  {
+    "login": "namiashkan16",
+    "name": "Ashkan A. Nami",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290986752?s=72&u=429d8041f3d800e8b3d647aeb3e4366664a63a56&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-05T09:07:02Z"
+  },
+  {
+    "login": "Luhtaniilo010",
+    "name": "Niilo Luhta",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296159924?s=72&u=4d842f4747e4d076cea222dd387fa05ce601f45d&v=4",
+    "location": "Tampere/Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 50,
+    "publicContributions": 28,
+    "createdAt": "2026-06-23T12:20:03Z"
+  },
+  {
+    "login": "khiem-nguyen-ict",
+    "name": "Khiem Nguyen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295913228?s=72&u=345f2998fd2c0493a92693bf5b40d193a52e9da7&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 366,
+    "publicContributions": 1291,
+    "createdAt": "2026-06-22T16:14:42Z"
+  },
+  {
+    "login": "qthonas",
+    "name": "Thomas Naskali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291753429?s=72&u=f0f871a6d603cdeee64aff588d2b379859d05872&v=4",
+    "location": "Espoo, Finland",
+    "company": "IQM Quantum Computers",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-06-08T10:46:35Z"
+  },
+  {
+    "login": "humanunit05",
+    "name": "Roope Yrjölä",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292680902?s=72&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-11T06:10:58Z"
+  },
+  {
+    "login": "Snehak7219",
+    "name": "Sneha kolkkadan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296102075?s=72&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T08:31:56Z"
+  },
+  {
+    "login": "marshkaren7",
+    "name": "Kyle Martin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292304208?s=72&u=7996219e8c934b252b4dea1b4f8b475026525848&v=4",
+    "location": "Harbor Drive, Helsinki Finland",
+    "company": "Atlantic Collective",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-10T03:09:41Z"
   }
 ]

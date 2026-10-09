@@ -5672,20 +5672,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-10-13T15:41:35Z"
-  },
-  {
-    "login": "DanielBenjamin12",
-    "name": "Daniel Benjamin De Los Santos Reyes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149715935?s=72&u=555b4d4d73d63b06f815632163bcd1ab83300310&v=4",
-    "location": "Santo Domingo, Republica Dominicana",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 63,
-    "publicContributions": 95,
-    "createdAt": "2023-11-02T18:37:10Z"
   },
   {
     "login": "itsrichx",
@@ -5706,9 +5694,9 @@
     "location": "Santo domingo",
     "company": "UNPHU",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 199,
     "createdAt": "2023-05-08T22:38:47Z"
   },
   {
@@ -5719,8 +5707,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 63,
-    "publicContributions": 103,
+    "privateContributions": 123,
+    "publicContributions": 148,
     "createdAt": "2023-02-14T17:38:55Z"
   },
   {
@@ -5732,7 +5720,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 298,
+    "publicContributions": 995,
     "createdAt": "2023-06-03T15:02:16Z"
   },
   {
@@ -5754,9 +5742,9 @@
     "location": "Santo Domingo",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 105,
     "createdAt": "2023-02-06T13:51:01Z"
   },
   {
@@ -5767,7 +5755,7 @@
     "company": "",
     "twitterUsername": "ElvisAbner",
     "followers": 3,
-    "privateContributions": 247,
+    "privateContributions": 3457,
     "publicContributions": 11,
     "createdAt": "2023-02-09T02:12:23Z"
   },
@@ -5778,8 +5766,8 @@
     "location": "Santo Domingo",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
+    "followers": 4,
+    "privateContributions": 41,
     "publicContributions": 1,
     "createdAt": "2023-02-24T14:50:12Z"
   },
@@ -5792,7 +5780,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-03-20T17:04:57Z"
   },
   {
@@ -5804,7 +5792,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 162,
     "createdAt": "2023-11-24T20:15:24Z"
   },
   {
@@ -5814,9 +5802,9 @@
     "location": "Santo Domingo Republica Dominicana",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 775,
+    "publicContributions": 768,
     "createdAt": "2023-10-12T22:32:58Z"
   },
   {
@@ -5828,7 +5816,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2023-12-19T17:20:29Z"
   },
   {
@@ -5864,7 +5852,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 5,
     "createdAt": "2023-10-02T17:28:13Z"
   },
   {
@@ -5888,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 23,
     "createdAt": "2023-11-13T13:02:45Z"
   },
   {
@@ -5900,7 +5888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 118,
     "createdAt": "2023-09-04T18:31:58Z"
   },
   {

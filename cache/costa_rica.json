@@ -5732,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 20,
     "createdAt": "2024-10-04T15:11:19Z"
   },
   {
@@ -5756,7 +5756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 143,
     "createdAt": "2024-04-17T21:34:09Z"
   },
   {
@@ -5779,7 +5779,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-22T02:08:35Z"
   },
@@ -5792,7 +5792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2024-10-23T16:36:05Z"
   },
   {
@@ -5804,7 +5804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2024-11-15T02:18:18Z"
   },
   {
@@ -5840,7 +5840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 106,
     "createdAt": "2024-06-03T16:32:13Z"
   },
   {
@@ -5851,8 +5851,8 @@
     "company": "@crlabz",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1788,
-    "publicContributions": 3,
+    "privateContributions": 1871,
+    "publicContributions": 8,
     "createdAt": "2024-06-07T20:49:23Z"
   },
   {
@@ -5900,7 +5900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 115,
     "createdAt": "2024-01-14T20:07:56Z"
   },
   {
@@ -5912,7 +5912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 241,
     "createdAt": "2024-07-31T12:57:45Z"
   },
   {
@@ -5924,7 +5924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 73,
     "createdAt": "2024-10-25T15:27:27Z"
   },
   {
@@ -5934,7 +5934,7 @@
     "location": "Costa Rica",
     "company": "Solar Fluidity",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2024-11-19T15:03:28Z"
@@ -67702,5 +67702,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-19T02:34:40Z"
+  },
+  {
+    "login": "shashichilappagari",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36974899?s=72&u=761238fd4f2162ee597ea1fe4aa6838a070a3c38&v=4",
+    "location": "San Jose, CA. USA",
+    "company": "DeGirum Corp.",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2018-03-02T00:46:27Z"
+  },
+  {
+    "login": "MilaSan",
+    "name": "Camila Santo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36717071?s=72&u=ca89acc6fae45fdcab6da076bb6d7b7c0a1fe1ed&v=4",
+    "location": "San Jose, CA USA",
+    "company": "@CAMILASANTO",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2018-02-22T00:06:59Z"
   }
 ]

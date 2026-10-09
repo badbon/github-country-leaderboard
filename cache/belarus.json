@@ -5718,9 +5718,9 @@
     "location": "Minsk/Moscow",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 43,
-    "publicContributions": 245,
+    "followers": 8,
+    "privateContributions": 35,
+    "publicContributions": 277,
     "createdAt": "2024-01-29T12:47:30Z"
   },
   {
@@ -5732,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 7,
     "createdAt": "2024-12-14T12:03:50Z"
   },
   {
@@ -5742,9 +5742,9 @@
     "location": "Minsk",
     "company": "BSIUR",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 251,
     "createdAt": "2024-09-02T18:24:52Z"
   },
   {
@@ -5754,9 +5754,9 @@
     "location": "Minsk",
     "company": "Belarussian State Technological University",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 130,
-    "publicContributions": 346,
+    "followers": 5,
+    "privateContributions": 146,
+    "publicContributions": 344,
     "createdAt": "2024-08-19T10:58:57Z"
   },
   {
@@ -5768,7 +5768,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 84,
     "createdAt": "2024-09-07T14:47:43Z"
   },
   {
@@ -5778,9 +5778,9 @@
     "location": "Minsk",
     "company": "BSU",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 59,
     "createdAt": "2024-09-01T12:04:20Z"
   },
   {
@@ -5790,9 +5790,9 @@
     "location": "Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 404,
     "createdAt": "2024-10-29T19:41:33Z"
   },
   {
@@ -5802,9 +5802,9 @@
     "location": "Minsk",
     "company": "BSUIR",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 110,
     "createdAt": "2024-02-21T14:18:05Z"
   },
   {
@@ -5816,7 +5816,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 35,
     "createdAt": "2024-07-02T12:33:40Z"
   },
   {
@@ -5851,8 +5851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 221,
-    "publicContributions": 592,
+    "privateContributions": 349,
+    "publicContributions": 534,
     "createdAt": "2024-09-01T04:51:10Z"
   },
   {
@@ -5874,9 +5874,9 @@
     "location": "Minsk",
     "company": "BSUIR",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 314,
-    "publicContributions": 92,
+    "followers": 6,
+    "privateContributions": 192,
+    "publicContributions": 52,
     "createdAt": "2024-10-14T17:39:22Z"
   },
   {
@@ -5888,7 +5888,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 82,
     "createdAt": "2024-02-20T14:45:57Z"
   },
   {
@@ -5900,7 +5900,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 97,
     "createdAt": "2024-09-02T04:04:24Z"
   },
   {
@@ -5912,7 +5912,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2024-06-24T14:26:09Z"
   },
   {
@@ -5924,12 +5924,12 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 114,
     "createdAt": "2024-09-05T14:03:18Z"
   },
   {
     "login": "J1411L",
-    "name": "Julia Luskina",
+    "name": "Юлия Лускина",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163836018?s=72&u=a031faaaa3ca294f7c128a0c99c6d60517e171b0&v=4",
     "location": "Minsk",
     "company": "",
@@ -5942,13 +5942,13 @@
   {
     "login": "fezlr",
     "name": "Artem Bondar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178566130?s=72&u=4b1e417b77f6786b8453910ebd5e27821ac489f6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178566130?s=72&u=2b78e75f32cf893a55036c941ffd40c7d9ba88e3&v=4",
     "location": "Minsk",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 44,
-    "publicContributions": 136,
+    "privateContributions": 98,
+    "publicContributions": 140,
     "createdAt": "2024-08-16T10:40:14Z"
   },
   {

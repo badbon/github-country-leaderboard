@@ -5431,8 +5431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 498,
-    "publicContributions": 120,
+    "privateContributions": 590,
+    "publicContributions": 116,
     "createdAt": "2022-09-27T00:46:00Z"
   },
   {
@@ -5443,8 +5443,8 @@
     "company": "",
     "twitterUsername": "WilsonCentaurus",
     "followers": 7,
-    "privateContributions": 163,
-    "publicContributions": 221,
+    "privateContributions": 187,
+    "publicContributions": 232,
     "createdAt": "2022-06-16T10:36:39Z"
   },
   {
@@ -5456,7 +5456,7 @@
     "twitterUsername": "LoratoNicolette",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2022-02-18T14:54:19Z"
   },
   {
@@ -5466,9 +5466,9 @@
     "location": "zimbabwe",
     "company": "showline solutions",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2022-05-23T13:13:50Z"
   },
   {
@@ -5478,7 +5478,7 @@
     "location": "Mount Pleasant Harare Zimbabwe",
     "company": "University of Zimbabwe",
     "twitterUsername": "home",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-04T18:07:24Z"
@@ -5491,8 +5491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 14818,
+    "privateContributions": 952,
+    "publicContributions": 23,
     "createdAt": "2022-02-16T12:34:44Z"
   },
   {
@@ -5504,7 +5504,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 16,
     "createdAt": "2022-09-15T14:24:37Z"
   },
   {
@@ -5514,9 +5514,9 @@
     "location": "Zimbabwe",
     "company": "@PharmaplusRepo",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 511,
-    "publicContributions": 10,
+    "followers": 7,
+    "privateContributions": 558,
+    "publicContributions": 31,
     "createdAt": "2022-06-06T12:25:25Z"
   },
   {
@@ -5544,27 +5544,15 @@
     "createdAt": "2022-05-12T16:24:35Z"
   },
   {
-    "login": "Nolulamo",
-    "name": "Nolulamo Tshuma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117304427?s=72&u=84fafed38834e4eaa339d77e9bede2306cb5f75b&v=4",
-    "location": "Bulawayo, Zimbabwe",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2022-11-02T17:10:52Z"
-  },
-  {
     "login": "tinotendamukudu",
     "name": "tinotendamukudu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/115371677?s=72&u=805555839db7231cc35a0c2c2b688d621758f1ff&v=4",
     "location": "Harare, Zimbabwe",
     "company": "Questcrew",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 919,
-    "publicContributions": 16,
+    "followers": 10,
+    "privateContributions": 666,
+    "publicContributions": 15,
     "createdAt": "2022-10-08T19:00:59Z"
   },
   {
@@ -5576,7 +5564,7 @@
     "twitterUsername": "PhisherFTW",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2022-01-19T07:04:45Z"
   },
   {
@@ -5587,8 +5575,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 19,
+    "privateContributions": 194,
+    "publicContributions": 39,
     "createdAt": "2022-02-28T18:07:42Z"
   },
   {
@@ -5598,9 +5586,9 @@
     "location": "harare zimbabwe",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-11-20T07:05:27Z"
   },
   {
@@ -5611,8 +5599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 31,
-    "publicContributions": 84,
+    "privateContributions": 18,
+    "publicContributions": 122,
     "createdAt": "2022-07-15T08:11:37Z"
   },
   {
@@ -5623,8 +5611,8 @@
     "company": "YGF WEBDEV",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1846,
-    "publicContributions": 3,
+    "privateContributions": 1543,
+    "publicContributions": 0,
     "createdAt": "2022-05-04T11:43:55Z"
   },
   {
@@ -5635,7 +5623,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 16,
+    "privateContributions": 19,
     "publicContributions": 5,
     "createdAt": "2022-10-17T08:51:55Z"
   },
@@ -5647,8 +5635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1251,
-    "publicContributions": 41,
+    "privateContributions": 1122,
+    "publicContributions": 39,
     "createdAt": "2022-01-24T15:41:15Z"
   },
   {
@@ -5659,8 +5647,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 70,
-    "publicContributions": 71,
+    "privateContributions": 65,
+    "publicContributions": 67,
     "createdAt": "2022-07-20T12:25:06Z"
   },
   {

@@ -4700,7 +4700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 41,
     "createdAt": "2025-07-22T14:54:58Z"
   },
   {
@@ -4711,8 +4711,8 @@
     "company": "https://github.com/mag-bros",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 77,
+    "privateContributions": 4,
+    "publicContributions": 59,
     "createdAt": "2025-09-10T14:58:28Z"
   },
   {
@@ -4722,9 +4722,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 284,
+    "publicContributions": 302,
     "createdAt": "2025-03-13T21:13:57Z"
   },
   {
@@ -4747,7 +4747,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 240,
+    "privateContributions": 283,
     "publicContributions": 0,
     "createdAt": "2025-04-16T20:08:10Z"
   },
@@ -4759,8 +4759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 7,
-    "publicContributions": 437,
+    "privateContributions": 13,
+    "publicContributions": 562,
     "createdAt": "2025-09-26T15:54:46Z"
   },
   {
@@ -4771,8 +4771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 139,
-    "publicContributions": 12,
+    "privateContributions": 112,
+    "publicContributions": 63,
     "createdAt": "2025-02-01T09:00:24Z"
   },
   {
@@ -4784,7 +4784,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 9,
     "createdAt": "2025-01-02T11:51:35Z"
   },
   {
@@ -4796,7 +4796,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-27T19:20:41Z"
   },
   {
@@ -4806,9 +4806,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 238,
-    "publicContributions": 144,
+    "followers": 1,
+    "privateContributions": 243,
+    "publicContributions": 249,
     "createdAt": "2025-11-22T02:08:23Z"
   },
   {
@@ -4818,21 +4818,21 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 242,
     "createdAt": "2025-07-13T08:40:05Z"
   },
   {
     "login": "OStochastic",
     "name": "Oscar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/225478602?s=72&u=4e69882bc7e9110717cd588ff1d918882ca4c93c&v=4",
-    "location": "Örebro, Sweden",
-    "company": "",
+    "location": "Stockholm",
+    "company": "NazQul",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2025-08-08T22:09:21Z"
   },
   {
@@ -4844,7 +4844,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 297,
+    "publicContributions": 298,
     "createdAt": "2025-10-24T16:14:22Z"
   },
   {
@@ -4866,9 +4866,9 @@
     "location": "Malmö, Sweden",
     "company": "NBI/ Handelsakademin",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 97,
-    "publicContributions": 611,
+    "followers": 3,
+    "privateContributions": 94,
+    "publicContributions": 682,
     "createdAt": "2025-03-20T20:58:50Z"
   },
   {
@@ -4880,20 +4880,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2025-02-25T13:26:15Z"
-  },
-  {
-    "login": "Elisazze",
-    "name": "Elisa Curthbet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/247645473?s=72&u=6d6cfea4146164e5b6645290099426a4eda32fb7&v=4",
-    "location": "sweden",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-12-03T17:35:39Z"
   },
   {
     "login": "KovdeRuns",
@@ -4916,7 +4904,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-08-20T12:28:15Z"
   },
   {
@@ -4927,8 +4915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 418,
-    "publicContributions": 2342,
+    "privateContributions": 1036,
+    "publicContributions": 4746,
     "createdAt": "2025-04-16T07:16:16Z"
   },
   {
