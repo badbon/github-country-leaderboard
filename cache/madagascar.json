@@ -7784,7 +7784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2022-12-29T19:38:25Z"
   },
   {
@@ -7796,7 +7796,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 283,
+    "publicContributions": 434,
     "createdAt": "2023-12-08T11:55:49Z"
   },
   {
@@ -7807,7 +7807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 72,
+    "privateContributions": 50,
     "publicContributions": 24,
     "createdAt": "2023-05-04T12:16:06Z"
   },
@@ -7819,8 +7819,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 106,
-    "publicContributions": 134,
+    "privateContributions": 88,
+    "publicContributions": 129,
     "createdAt": "2023-12-22T18:19:56Z"
   },
   {
@@ -7830,9 +7830,9 @@
     "location": "Madagascar",
     "company": "@jirogasy",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 403,
+    "publicContributions": 400,
     "createdAt": "2023-11-14T18:44:41Z"
   },
   {
@@ -7844,7 +7844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 82,
     "createdAt": "2023-09-16T15:47:43Z"
   },
   {
@@ -7902,7 +7902,7 @@
     "location": "Madagascar",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-02T12:11:54Z"
@@ -7916,7 +7916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 10,
     "createdAt": "2023-03-01T12:47:47Z"
   },
   {
@@ -7928,7 +7928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 312,
+    "publicContributions": 318,
     "createdAt": "2023-02-03T18:30:31Z"
   },
   {
@@ -7952,7 +7952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2023-08-16T16:39:33Z"
   },
   {
@@ -7964,7 +7964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 1,
     "createdAt": "2023-02-20T05:34:14Z"
   },
   {
@@ -7975,8 +7975,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 20,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2023-03-11T12:20:40Z"
   },
   {
@@ -7992,27 +7992,15 @@
     "createdAt": "2023-11-20T08:03:35Z"
   },
   {
-    "login": "HarenaFiantso",
-    "name": "Fiantso Harena",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124450883?s=72&u=9126112b4eb8fff5cd74efb261a4d234b600fe60&v=4",
-    "location": "Antananarivo",
-    "company": "Haute École d'Informatique - HEI",
-    "twitterUsername": "HarenaFiantso",
-    "followers": 50,
-    "privateContributions": 3700,
-    "publicContributions": 775,
-    "createdAt": "2023-02-04T15:22:10Z"
-  },
-  {
     "login": "RickaPrincy",
     "name": "Ricka Princy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127594276?s=72&u=b99a038da7407cf4fc7a31954511ab6e50e23044&v=4",
     "location": "Antananarivo",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 230,
-    "publicContributions": 1028,
+    "followers": 42,
+    "privateContributions": 503,
+    "publicContributions": 960,
     "createdAt": "2023-03-11T09:43:30Z"
   },
   {

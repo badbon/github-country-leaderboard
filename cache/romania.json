@@ -7783,8 +7783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 29,
-    "publicContributions": 53,
+    "privateContributions": 61,
+    "publicContributions": 215,
     "createdAt": "2024-10-25T06:29:38Z"
   },
   {
@@ -7807,8 +7807,8 @@
     "company": "Principal33",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 126,
-    "publicContributions": 582,
+    "privateContributions": 141,
+    "publicContributions": 586,
     "createdAt": "2024-08-16T19:52:00Z"
   },
   {
@@ -7832,7 +7832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 65,
     "createdAt": "2024-09-14T21:59:41Z"
   },
   {
@@ -7842,9 +7842,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 225,
+    "publicContributions": 623,
     "createdAt": "2024-08-15T19:38:24Z"
   },
   {
@@ -7858,18 +7858,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-12T18:32:37Z"
-  },
-  {
-    "login": "stefanbadea-sudo",
-    "name": "Stefan-Vasile Badea",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159965977?s=72&u=0bb40a50c0e427df07ba5cb7812d9049c73185ce&v=4",
-    "location": "Bucharest, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 41,
-    "createdAt": "2024-02-13T22:51:49Z"
   },
   {
     "login": "AndreiBuga97",
@@ -7952,7 +7940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 77,
     "createdAt": "2024-11-04T18:21:29Z"
   },
   {
@@ -7976,7 +7964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 80,
     "createdAt": "2024-03-22T20:08:43Z"
   },
   {

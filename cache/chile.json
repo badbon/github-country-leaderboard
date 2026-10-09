@@ -232159,8 +232159,8 @@
     "company": "",
     "twitterUsername": "riquelme44127",
     "followers": 7,
-    "privateContributions": 5032,
-    "publicContributions": 822,
+    "privateContributions": 5100,
+    "publicContributions": 823,
     "createdAt": "2026-06-25T03:03:39Z"
   },
   {
@@ -232423,7 +232423,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 559,
+    "privateContributions": 562,
     "publicContributions": 203,
     "createdAt": "2026-05-17T17:36:51Z"
   },
@@ -232726,5 +232726,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-13T20:19:33Z"
+  },
+  {
+    "login": "Mjaylin07",
+    "name": "Africa Mujica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285825770?s=72&v=4",
+    "location": "Santiago de Querétaro",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-05-18T21:56:43Z"
+  },
+  {
+    "login": "agustinorrego",
+    "name": "Agustin Orrego ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288987634?s=72&u=412bda025bdf7654c14112f0b56583b0a0439d46&v=4",
+    "location": "Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-29T15:48:25Z"
+  },
+  {
+    "login": "codecorex01",
+    "name": "Code Corex",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292589134?s=72&u=55f1d347a67bde70b605b770982b7598ec3e2bff&v=4",
+    "location": "Rep.Dom Santiago de los caballeros.",
+    "company": "Code Corex",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-10T21:28:17Z"
+  },
+  {
+    "login": "THEALFONSUS",
+    "name": "Carlos Alfonso López Matus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285463368?s=72&v=4",
+    "location": "Las Condes, Santiago",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 825,
+    "publicContributions": 1,
+    "createdAt": "2026-05-17T16:36:50Z"
+  },
+  {
+    "login": "Vullet-code",
+    "name": "Victor Manuel Cortés Canales",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290876029?s=72&v=4",
+    "location": "san joaquin, santiago",
+    "company": "duoc UC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-04T23:31:29Z"
   }
 ]

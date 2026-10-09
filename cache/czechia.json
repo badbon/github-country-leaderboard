@@ -194494,5 +194494,89 @@
     "privateContributions": 4505,
     "publicContributions": 1132,
     "createdAt": "2022-03-02T08:48:30Z"
+  },
+  {
+    "login": "rlFedotovDev",
+    "name": "Dan F.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287743668?s=72&u=284064aae52e19339c1632f53fb4f9f82eb84e2c&v=4",
+    "location": "Prague, Czechia",
+    "company": "",
+    "twitterUsername": "rlFedotovDev",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 89,
+    "createdAt": "2026-05-25T15:20:28Z"
+  },
+  {
+    "login": "pealbert",
+    "name": "Albert Petrovskyi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296897262?s=72&u=51835b9093993e718a9c0b5613351cbb164558b8&v=4",
+    "location": "Czechia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 280,
+    "createdAt": "2026-06-25T14:02:39Z"
+  },
+  {
+    "login": "tinhtinh1022",
+    "name": "tinh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284767710?s=72&u=f69ce1aca91c0cd26d90ed3d1c8d53df2922355d&v=4",
+    "location": "Czechia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-05-14T19:54:11Z"
+  },
+  {
+    "login": "5haf5",
+    "name": "Hafik Tech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286407305?s=72&u=769586e4848abf29cc8806712bd9e4d614001ce9&v=4",
+    "location": "Czechia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-05-20T16:16:27Z"
+  },
+  {
+    "login": "auraxew",
+    "name": "Auraxew",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292162334?s=72&v=4",
+    "location": "Czechia",
+    "company": "- (working for myself :)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-09T15:24:40Z"
+  },
+  {
+    "login": "Petr-Voltr",
+    "name": "Petr Voltr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293099646?s=72&u=96fff7dd89210d347fb70fd6ac63f58f0a0f1a27&v=4",
+    "location": "Pardubice, Czechia",
+    "company": "University of Pardubice, Faculty of Transport Engineering",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 41,
+    "createdAt": "2026-06-12T12:46:29Z"
+  },
+  {
+    "login": "rozsival-apitree",
+    "name": "Vít Rozsíval",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290477928?s=72&u=fe8c9520790617b5071dad868b5729cf3df32dbe&v=4",
+    "location": "Prague, Czechia",
+    "company": "@ApiTreeCZ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 597,
+    "publicContributions": 294,
+    "createdAt": "2026-06-03T17:49:17Z"
   }
 ]

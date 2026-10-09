@@ -7616,7 +7616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 32,
     "createdAt": "2026-02-02T13:45:14Z"
   },
   {
@@ -7650,7 +7650,7 @@
     "location": "Pakistan, Islamabad",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 117,
     "createdAt": "2026-05-11T10:05:12Z"
@@ -7674,7 +7674,7 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2026-05-07T11:14:27Z"
@@ -7711,8 +7711,8 @@
     "company": "Tekxai",
     "twitterUsername": "the_aamirlatif",
     "followers": 1,
-    "privateContributions": 725,
-    "publicContributions": 11,
+    "privateContributions": 583,
+    "publicContributions": 13,
     "createdAt": "2026-01-13T08:54:24Z"
   },
   {
@@ -7778,11 +7778,11 @@
   {
     "login": "muzamilyousaf",
     "name": "Muzamil Yousaf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/264350875?s=72&u=53c2ac04ba9a018067477efd5c04e842d3bece30&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/264350875?s=72&u=0f47b7ee4fa7cd2b1c0e9bbbb34994a946af1958&v=4",
     "location": "Lahore, Punjab, pakistan",
     "company": "Buildberg",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-02-27T07:29:15Z"
@@ -7800,18 +7800,6 @@
     "createdAt": "2026-03-04T18:35:43Z"
   },
   {
-    "login": "mohiuddin22278",
-    "name": "Mohiuddin Siddiqui",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262070431?s=72&u=09a76ba687743ea0a8d5c5072300dfc680b3cc6f&v=4",
-    "location": "Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-17T07:29:14Z"
-  },
-  {
     "login": "Maaz-Niaz",
     "name": "Maaz Niaz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/253291063?s=72&u=16840dd350b38ed66394baf70edfff4206c6fbec&v=4",
@@ -7820,7 +7808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 21,
     "createdAt": "2026-01-06T13:23:34Z"
   },
   {

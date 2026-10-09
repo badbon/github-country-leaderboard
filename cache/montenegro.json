@@ -7736,7 +7736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 54,
     "createdAt": "2015-07-20T05:18:01Z"
   },
   {
@@ -7782,9 +7782,9 @@
     "location": "Montenegro",
     "company": "Nord Beaver",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1425,
+    "publicContributions": 1741,
     "createdAt": "2015-01-16T08:48:14Z"
   },
   {
@@ -7842,9 +7842,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 746,
-    "publicContributions": 1758,
+    "followers": 3,
+    "privateContributions": 1972,
+    "publicContributions": 4251,
     "createdAt": "2015-12-21T11:05:33Z"
   },
   {
@@ -7856,7 +7856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 64,
     "createdAt": "2015-01-25T08:04:36Z"
   },
   {
@@ -7886,13 +7886,13 @@
   {
     "login": "progmult",
     "name": "Andrey Kapustin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13451636?s=72&u=3bf422d09bf88abb2a435e32bdb8dacbdfc6b729&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/13451636?s=72&u=723ef0e4f7623bebbe53e3b44276ce5b70750037&v=4",
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 63,
     "createdAt": "2015-07-22T12:31:59Z"
   },
   {
@@ -7927,20 +7927,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2471,
-    "publicContributions": 2,
+    "privateContributions": 2382,
+    "publicContributions": 1,
     "createdAt": "2015-04-27T11:22:46Z"
   },
   {
     "login": "Konta1404",
-    "name": "Veselin",
+    "name": "Veselin Kontić",
     "avatarUrl": "https://avatars.githubusercontent.com/u/14986231?s=72&u=023a0c18e5767514f1e77f5733045b1452edc282&v=4",
     "location": "Podgorica",
     "company": "SynergySuite",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 63,
-    "publicContributions": 1,
+    "followers": 23,
+    "privateContributions": 64,
+    "publicContributions": 22,
     "createdAt": "2015-10-05T21:07:26Z"
   },
   {
@@ -7951,7 +7951,7 @@
     "company": "@aforex ",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 20,
+    "privateContributions": 95,
     "publicContributions": 0,
     "createdAt": "2015-02-19T09:51:31Z"
   },
@@ -7963,7 +7963,7 @@
     "company": "@dlabs",
     "twitterUsername": "kappagoran",
     "followers": 13,
-    "privateContributions": 820,
+    "privateContributions": 1136,
     "publicContributions": 87,
     "createdAt": "2015-03-04T15:40:42Z"
   },

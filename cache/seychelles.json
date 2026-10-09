@@ -7856,7 +7856,7 @@
     "twitterUsername": "templeofninpo",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2019-09-11T20:01:59Z"
   },
   {
@@ -7892,7 +7892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-11-28T19:26:08Z"
   },
   {
@@ -7918,18 +7918,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-25T17:16:16Z"
-  },
-  {
-    "login": "InDevBrian",
-    "name": "Brian Gill",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46871374?s=72&u=f194d7fbab4ca54cc0ea52a73fc42ebf84cf7115&v=4",
-    "location": "Victoria, BC",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-01-20T18:14:01Z"
   },
   {
     "login": "bcgovet",
@@ -7975,7 +7963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 486,
+    "privateContributions": 430,
     "publicContributions": 1,
     "createdAt": "2019-11-23T03:51:05Z"
   },
@@ -7987,21 +7975,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 556,
+    "privateContributions": 357,
     "publicContributions": 1,
     "createdAt": "2019-01-22T02:39:47Z"
-  },
-  {
-    "login": "hardeymolhar",
-    "name": "Emmanuel Ademola",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48110058?s=72&u=b8ad9e5da3dd4acc53c1ff45efc0aa84d0cf39e3&v=4",
-    "location": "Victoria Island, Lagos",
-    "company": "Fidelity Bank Pc",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 227,
-    "createdAt": "2019-03-01T01:16:03Z"
   },
   {
     "login": "MUNadeem",

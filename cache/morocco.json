@@ -7676,7 +7676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 100,
     "createdAt": "2025-06-23T22:33:53Z"
   },
   {
@@ -7686,9 +7686,9 @@
     "location": "Safi,  Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 97,
+    "followers": 2,
+    "privateContributions": 23,
+    "publicContributions": 101,
     "createdAt": "2025-06-12T22:30:30Z"
   },
   {
@@ -7712,7 +7712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2025-07-16T23:10:13Z"
   },
   {
@@ -7729,14 +7729,14 @@
   },
   {
     "login": "wiamrharouaby",
-    "name": "",
+    "name": "Wiam Rharouaby",
     "avatarUrl": "https://avatars.githubusercontent.com/u/201483388?s=72&u=9af38096d4255bf8e8349d5b80c901908d107bab&v=4",
     "location": "Mohammedia, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 12,
     "createdAt": "2025-03-02T17:43:07Z"
   },
   {
@@ -7760,7 +7760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 11,
     "createdAt": "2025-01-10T13:15:55Z"
   },
   {
@@ -7772,7 +7772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 29,
     "createdAt": "2025-10-07T14:17:35Z"
   },
   {
@@ -7783,8 +7783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
+    "privateContributions": 1462,
+    "publicContributions": 89,
     "createdAt": "2025-10-25T18:26:23Z"
   },
   {
@@ -7820,7 +7820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 153,
     "createdAt": "2025-06-07T19:20:14Z"
   },
   {
@@ -7844,7 +7844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-08-29T08:26:21Z"
   },
   {
@@ -7856,7 +7856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 121,
     "createdAt": "2025-08-20T16:51:33Z"
   },
   {
@@ -7866,22 +7866,10 @@
     "location": "morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 5,
     "createdAt": "2025-10-29T11:06:00Z"
-  },
-  {
-    "login": "adas-ops",
-    "name": "Adam EL makhloufi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/216304520?s=72&v=4",
-    "location": "Tanger/ Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2025-06-14T13:33:59Z"
   },
   {
     "login": "aitlhaj-oussama",

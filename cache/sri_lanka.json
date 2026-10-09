@@ -7807,8 +7807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 84,
+    "privateContributions": 27,
+    "publicContributions": 78,
     "createdAt": "2025-03-13T04:02:22Z"
   },
   {
@@ -7820,7 +7820,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 43,
     "createdAt": "2025-05-15T18:03:12Z"
   },
   {
@@ -7832,7 +7832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2025-04-24T05:41:59Z"
   },
   {
@@ -7844,7 +7844,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-02-11T06:04:22Z"
   },
   {
@@ -7868,7 +7868,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 31,
     "createdAt": "2025-03-01T12:53:24Z"
   },
   {
@@ -7879,7 +7879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 326,
+    "privateContributions": 184,
     "publicContributions": 21,
     "createdAt": "2025-03-07T11:35:42Z"
   },
@@ -7890,34 +7890,10 @@
     "location": "Matara , Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 89,
     "createdAt": "2025-01-08T14:41:10Z"
-  },
-  {
-    "login": "nsdharmarathne",
-    "name": "Nandana S. Dharmarathne",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196966712?s=72&u=c771b28bda6653f2143cb408454f034f70562e71&v=4",
-    "location": "Sri Lanka",
-    "company": "Sri Lanka Transport Board",
-    "twitterUsername": "nandana36911207",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2025-01-29T16:02:20Z"
-  },
-  {
-    "login": "ShaliniMadhuka",
-    "name": "Shalini Madhuka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211926588?s=72&u=cde7182c73c3f241e8bf907366763ecd35a222cb&v=4",
-    "location": "Sri Lanka",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 271,
-    "createdAt": "2025-05-16T04:21:03Z"
   },
   {
     "login": "NipunaBhanuka18",
@@ -7927,8 +7903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 26,
-    "publicContributions": 106,
+    "privateContributions": 22,
+    "publicContributions": 266,
     "createdAt": "2025-06-18T00:44:45Z"
   },
   {
@@ -7939,8 +7915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 62,
+    "privateContributions": 26,
+    "publicContributions": 103,
     "createdAt": "2025-03-29T17:29:38Z"
   },
   {
@@ -7952,7 +7928,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 215,
     "createdAt": "2025-04-16T07:09:44Z"
   },
   {
@@ -7964,7 +7940,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 96,
     "createdAt": "2025-06-24T17:07:54Z"
   },
   {
@@ -7976,19 +7952,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 65,
     "createdAt": "2025-05-05T06:32:46Z"
   },
   {
     "login": "NisalJayaweera",
     "name": "Nisal Jayaweera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200522806?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200522806?s=72&u=fb328251f088243a85ee589992915bdbe6c06a69&v=4",
     "location": "Moratuwa, Sri Lanka.",
     "company": "University of Moratuwa",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 63,
     "createdAt": "2025-02-23T19:55:09Z"
   },
   {
@@ -8000,7 +7976,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 81,
     "createdAt": "2025-05-10T19:14:48Z"
   },
   {
@@ -8010,9 +7986,9 @@
     "location": "Colombo,Sri Lanka",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 539,
+    "publicContributions": 561,
     "createdAt": "2025-02-25T07:54:19Z"
   },
   {
@@ -8024,7 +8000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 597,
+    "publicContributions": 589,
     "createdAt": "2025-04-24T11:08:35Z"
   },
   {
@@ -8036,7 +8012,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 197,
+    "publicContributions": 244,
     "createdAt": "2025-03-23T14:22:33Z"
   },
   {
