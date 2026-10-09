@@ -9211,7 +9211,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
+    "privateContributions": 79,
     "publicContributions": 47,
     "createdAt": "2025-07-28T12:52:40Z"
   },
@@ -9224,7 +9224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 3,
     "createdAt": "2025-07-24T16:31:21Z"
   },
   {
@@ -9236,7 +9236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2025-04-09T06:57:42Z"
   },
   {
@@ -9248,7 +9248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-07-09T12:59:40Z"
   },
   {
@@ -9258,9 +9258,9 @@
     "location": "South Africa ",
     "company": "Richfield Graduate Institute of Technology",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 51,
     "createdAt": "2025-04-25T17:54:14Z"
   },
   {
@@ -9284,7 +9284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 36,
     "createdAt": "2025-07-18T18:37:21Z"
   },
   {
@@ -9330,7 +9330,7 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2025-12-05T20:17:24Z"
@@ -9343,8 +9343,8 @@
     "company": "@leadsync",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1566,
-    "publicContributions": 353,
+    "privateContributions": 1947,
+    "publicContributions": 55,
     "createdAt": "2025-07-28T16:30:01Z"
   },
   {
@@ -9368,32 +9368,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 44,
     "createdAt": "2025-12-15T08:30:09Z"
-  },
-  {
-    "login": "irist-ai",
-    "name": "irist",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248687468?s=72&u=7ea719dee2fee89d9e666813be84f0ab274976ae&v=4",
-    "location": "South Africa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-12-09T13:24:15Z"
-  },
-  {
-    "login": "sinethembakhumalo33",
-    "name": "Sinetheba Khumalo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232247332?s=72&u=230095559d9d1b15eefc7b3615eb90624553de11&v=4",
-    "location": "Gauteng, South Africa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 75,
-    "createdAt": "2025-09-14T19:38:00Z"
   },
   {
     "login": "bontle-rapesioa",
@@ -9404,7 +9380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 35,
     "createdAt": "2025-08-02T12:10:12Z"
   },
   {

@@ -9090,8 +9090,8 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 292,
+    "followers": 10,
+    "privateContributions": 262,
     "publicContributions": 17,
     "createdAt": "2022-04-10T18:42:51Z"
   },
@@ -9103,8 +9103,8 @@
     "company": "FEI STU",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 179,
-    "publicContributions": 87,
+    "privateContributions": 161,
+    "publicContributions": 81,
     "createdAt": "2022-03-26T17:52:00Z"
   },
   {
@@ -9115,7 +9115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 23,
+    "privateContributions": 22,
     "publicContributions": 6,
     "createdAt": "2022-11-24T20:13:58Z"
   },
@@ -9126,9 +9126,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 970,
-    "publicContributions": 109,
+    "followers": 8,
+    "privateContributions": 1253,
+    "publicContributions": 182,
     "createdAt": "2022-03-02T12:39:33Z"
   },
   {
@@ -9138,7 +9138,7 @@
     "location": "Bratislava",
     "company": "Swiss Re",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2022-10-07T15:49:02Z"
@@ -9152,7 +9152,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 48,
     "createdAt": "2022-02-06T19:34:16Z"
   },
   {
@@ -9163,8 +9163,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 92,
-    "publicContributions": 106,
+    "privateContributions": 197,
+    "publicContributions": 114,
     "createdAt": "2022-09-06T18:11:09Z"
   },
   {
@@ -9176,7 +9176,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 27,
     "createdAt": "2022-01-16T12:24:26Z"
   },
   {
@@ -9199,7 +9199,7 @@
     "company": "@oneTakeda ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 643,
+    "privateContributions": 828,
     "publicContributions": 1,
     "createdAt": "2022-09-08T09:27:38Z"
   },
@@ -9223,8 +9223,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 159,
-    "publicContributions": 0,
+    "privateContributions": 215,
+    "publicContributions": 2,
     "createdAt": "2022-10-05T09:57:07Z"
   },
   {
@@ -9234,7 +9234,7 @@
     "location": "Bratislava, SL",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-19T13:52:13Z"
@@ -9248,7 +9248,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 2,
     "createdAt": "2022-02-23T16:06:02Z"
   },
   {
@@ -9271,7 +9271,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 44,
+    "privateContributions": 49,
     "publicContributions": 102,
     "createdAt": "2022-06-12T21:28:18Z"
   },
@@ -9282,9 +9282,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 24,
     "createdAt": "2022-12-08T11:05:10Z"
   },
   {
@@ -9296,7 +9296,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2022-10-11T15:53:02Z"
   },
   {
@@ -9313,14 +9313,14 @@
   },
   {
     "login": "miguelmiguemigu",
-    "name": "Michal Mečiar",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114614794?s=72&u=ed84188c407767edfb634d8d7ea687680a7d4b0d&v=4",
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 47,
+    "privateContributions": 1,
+    "publicContributions": 37,
     "createdAt": "2022-09-28T18:58:57Z"
   },
   {
@@ -56254,5 +56254,53 @@
     "privateContributions": 10,
     "publicContributions": 141,
     "createdAt": "2024-07-01T17:04:05Z"
+  },
+  {
+    "login": "saboivan2008-png",
+    "name": "Ivan SABO",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291883167?s=72&v=4",
+    "location": "Bratislava-Karlova Ves",
+    "company": "Underground street colective",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 89,
+    "createdAt": "2026-06-08T18:32:12Z"
+  },
+  {
+    "login": "FilipEpik",
+    "name": "FilipEpik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294568926?s=72&v=4",
+    "location": "Bratislava",
+    "company": "none",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T16:16:06Z"
+  },
+  {
+    "login": "roman-zelensky",
+    "name": "Roman Z",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296694097?s=72&u=3ccebda9a52b95f204b9f1c0f67cbbc7a39f80b5&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-24T23:23:20Z"
+  },
+  {
+    "login": "dev-ges-rent",
+    "name": "Ges-rent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294479234?s=72&u=c101bba1abf4fdc0b2197b78feaed759223355ef&v=4",
+    "location": "Bratislava",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T10:49:48Z"
   }
 ]
