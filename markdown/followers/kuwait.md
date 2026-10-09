@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-09T02:43:35.958Z
+Generated: 2026-10-09T03:56:47.786Z
 
 Users: 799
 
@@ -10,7 +10,7 @@ Users: 799
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB |  |  | Kuwait, Kuwait City | 446 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary |  |  | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 207 |
-| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 149 |
+| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 150 |
 | 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 143 |
 | 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 141 |
 | 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Indie Developer | dmakwt | Kuwait | 131 |

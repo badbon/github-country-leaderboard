@@ -1,12 +1,12 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-09T02:49:54.802Z
+Generated: 2026-10-09T04:03:54.252Z
 
 Users: 354
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1566 |
+| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Hadithmv | hadithmv | Malé, Maldives | 1564 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Self-Employed | nedanwr | Male', Maldives | 1337 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | Campaignity | 72sevenzy2 | malé, maldives  | 1298 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil |  | hilaarl | Male', Maldives | 1243 |
@@ -22,7 +22,7 @@ Users: 354
 | 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin |  |  | Male', Maldives | 417 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh |  |  | Male' , Maldives | 366 |
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 358 |
-| 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee |  |  | Maldives | 295 |
+| 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee |  |  | Maldives | 293 |
 | 18 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Allied | WovenCoast | Maldives | 233 |
 | 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 232 |
 | 20 | [zxeenu](https://github.com/zxeenu) | Ziaan | SDFC |  | Maldives | 220 |

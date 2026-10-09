@@ -52,11 +52,11 @@ Indexed users: 799
 | 13 | [amaher-developer](https://github.com/amaher-developer) | amaher.developer | Kuwait | 811 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 610 |
 | 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
-| 16 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
-| 17 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 527 |
-| 18 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
-| 19 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 435 |
-| 20 | [AbdelrahmanBerchan](https://github.com/AbdelrahmanBerchan) | Abdelrahman B. | Kuwait | 434 |
+| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 531 |
+| 17 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
+| 18 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 518 |
+| 19 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
+| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 435 |
 
 ## Followers
 
@@ -66,7 +66,7 @@ Indexed users: 799
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB | Kuwait, Kuwait City | 446 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 207 |
-| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 149 |
+| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 150 |
 | 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 143 |
 | 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 141 |
 | 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 131 |
@@ -83,4 +83,4 @@ Indexed users: 799
 | 19 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
 | 20 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 
-Generated: 2026-10-09T02:43:35.958Z
+Generated: 2026-10-09T03:56:47.786Z

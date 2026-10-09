@@ -16,10 +16,10 @@ Indexed users: 215
 | 2 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,902 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,580 |
 | 4 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,856 |
-| 5 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,742 |
-| 6 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,256 |
-| 7 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,777 |
-| 8 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 5,678 |
+| 5 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 6,983 |
+| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,742 |
+| 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,256 |
+| 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,777 |
 | 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,162 |
 | 10 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,136 |
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,818 |
@@ -37,7 +37,7 @@ Indexed users: 215
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 5,678 |
+| 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 6,983 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,937 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 757 |
@@ -48,7 +48,7 @@ Indexed users: 215
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 612 |
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 453 |
-| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 449 |
+| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 445 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
 | 14 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 391 |
 | 15 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-09T02:14:45.108Z
+Generated: 2026-10-09T03:25:41.770Z

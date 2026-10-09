@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-09T02:15:11.814Z
+Generated: 2026-10-09T03:26:53.198Z
 
 Users: 462
 
@@ -16,10 +16,10 @@ Users: 462
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1288 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1163 |
-| 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1137 |
+| 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1130 |
 | 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 748 |
-| 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 711 |
-| 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 658 |
+| 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 708 |
+| 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 654 |
 | 15 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
 | 16 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 534 |
 | 17 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |

@@ -1,6 +1,6 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-09T02:29:48.798Z
+Generated: 2026-10-09T03:40:23.320Z
 
 Users: 696
 
@@ -16,9 +16,9 @@ Users: 696
 | 8 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Fordima Inc. | mlndafordi | Kinshasa, DRC | 1293 |
 | 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinmarchae |  | Kinshasa | 1285 |
 | 10 | [jeereq](https://github.com/jeereq) | minganda | itmafrica |  | rdc/kinshasa | 1240 |
-| 11 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki |  | drewlionel | Kinshasa, Drc | 1201 |
-| 12 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa |  |  | kinshasa DRC | 1166 |
-| 13 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI |  |  | Kinshasa, Democratic Republic of the Congo | 1082 |
+| 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa |  |  | kinshasa DRC | 1166 |
+| 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI |  |  | Kinshasa, Democratic Republic of the Congo | 1082 |
+| 13 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki |  | drewlionel | Kinshasa, Drc | 1070 |
 | 14 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | GOBLAIRE LTD  |  | Kinshasa | 1057 |
 | 15 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | Kin Distribution |  | DRC, Kinshasa | 897 |
 | 16 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | ISIG Goma / DRC | josamuna | Democratic Republic of the Congo | 878 |

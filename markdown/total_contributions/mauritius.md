@@ -1,13 +1,13 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-09T02:51:10.240Z
+Generated: 2026-10-09T04:04:52.458Z
 
 Users: 716
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 14323 |
-| 2 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6685 |
+| 2 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6628 |
 | 3 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6575 |
 | 4 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6184 |
 | 5 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 5507 |

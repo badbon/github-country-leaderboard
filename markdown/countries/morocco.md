@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,661
+Indexed users: 9,681
 
 | Leaderboard | Link |
 |---|---|
@@ -45,9 +45,9 @@ Indexed users: 9,661
 | 6 | [mks-zakaria](https://github.com/mks-zakaria) | MKS~ZAK | Morocco | 2,968 |
 | 7 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Tangier, Morocco | 2,917 |
 | 8 | [atam84](https://github.com/atam84) | Amine | Casablanca, Morocco | 2,819 |
-| 9 | [depsagency](https://github.com/depsagency) | DEPS | Morocco, Casablanca | 2,658 |
-| 10 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | Rabat (Morocco) | 2,574 |
-| 11 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik | Morocco | 2,543 |
+| 9 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | Rabat (Morocco) | 2,574 |
+| 10 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik | Morocco | 2,543 |
+| 11 | [depsagency](https://github.com/depsagency) | DEPS | Morocco, Casablanca | 2,526 |
 | 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
 | 13 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah | Morocco | 2,395 |
 | 14 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
@@ -83,4 +83,4 @@ Indexed users: 9,661
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-09T02:55:58.963Z
+Generated: 2026-10-09T04:06:31.728Z

@@ -1,6 +1,6 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-09T02:56:05.610Z
+Generated: 2026-10-09T04:06:53.117Z
 
 Users: 2088
 
@@ -12,10 +12,10 @@ Users: 2088
 | 4 | [Oungseik](https://github.com/Oungseik) |  | Crossworks Myanmar |  | Mawlamyine, Mon State, Myanmar | 1495 |
 | 5 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 1400 |
 | 6 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 1399 |
-| 7 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin |  | Happer64Bit | Myanmar, Yangon, Shwe Pyi Thar | 1376 |
-| 8 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 1367 |
-| 9 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  |  |  | Yangon, Myanmar | 1240 |
-| 10 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | The NINJA STRIKERS | Ninjastrikers | Myanmar | 1228 |
+| 7 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 1367 |
+| 8 | [yoonpyae](https://github.com/yoonpyae) | Yoon Pyae Eain  |  |  | Yangon, Myanmar | 1240 |
+| 9 | [ninjastrikers](https://github.com/ninjastrikers) | NinjaStrikers | The NINJA STRIKERS | Ninjastrikers | Myanmar | 1228 |
+| 10 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin |  | Happer64Bit | Myanmar, Yangon, Shwe Pyi Thar | 1175 |
 | 11 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | @solidplm  |  | Yangon, Myanmar | 1153 |
 | 12 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1152 |
 | 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1091 |

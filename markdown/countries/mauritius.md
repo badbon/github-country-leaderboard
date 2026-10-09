@@ -13,7 +13,7 @@ Indexed users: 716
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,323 |
-| 2 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,685 |
+| 2 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,628 |
 | 3 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,575 |
 | 4 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,184 |
 | 5 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 5,507 |
@@ -73,9 +73,9 @@ Indexed users: 716
 | 9 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam | Mauritius | 115 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 107 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | Mauritius | 100 |
-| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 97 |
+| 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 98 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 92 |
-| 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 87 |
+| 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 86 |
 | 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
 | 16 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 81 |
 | 17 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 80 |
@@ -83,4 +83,4 @@ Indexed users: 716
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-09T02:51:10.240Z
+Generated: 2026-10-09T04:04:52.458Z

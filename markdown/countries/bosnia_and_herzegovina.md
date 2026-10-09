@@ -17,7 +17,7 @@ Indexed users: 2,134
 | 3 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,896 |
 | 4 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 5,803 |
 | 5 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | Bosnia and Herzegovina | 5,790 |
-| 6 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,749 |
+| 6 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
 | 7 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
 | 8 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Sarajevo | 5,533 |
 | 9 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 5,276 |
@@ -56,7 +56,7 @@ Indexed users: 2,134
 | 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 892 |
 | 18 | [esensar](https://github.com/esensar) | Ensar Sarajčić | Sarajevo, Bosnia and Herzegovina | 719 |
 | 19 | [zalom](https://github.com/zalom) | Zlatko Alomerovic | Tuzla, Bosnia and Herzegovina | 716 |
-| 20 | [marko-lisica](https://github.com/marko-lisica) | Marko Lisica | Banja Luka, Bosnia and Herzegovina | 712 |
+| 20 | [full-stack-web-developer-and-designer](https://github.com/full-stack-web-developer-and-designer) | Mirnes Glamočić | Jajce, Bosnia and Herzegovina | 701 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,134
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-09T02:21:15.287Z
+Generated: 2026-10-09T03:32:56.795Z

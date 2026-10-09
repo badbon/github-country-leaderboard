@@ -1,8 +1,8 @@
 # Followers - Mozambique
 
-Generated: 2026-10-09T02:56:01.087Z
+Generated: 2026-10-09T04:06:49.658Z
 
-Users: 1175
+Users: 1176
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

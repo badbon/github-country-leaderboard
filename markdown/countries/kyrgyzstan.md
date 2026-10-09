@@ -73,7 +73,7 @@ Indexed users: 2,455
 | 9 | [Alymbekov](https://github.com/Alymbekov) |  | Bishkek, Kyrgyzstan | 141 |
 | 10 | [YaiLung](https://github.com/YaiLung) | Олег Владимирович | Bishkek | 127 |
 | 11 | [CyberLight](https://github.com/CyberLight) | Aleksandr Vishniakov | Kyrgyzstan | 125 |
-| 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 120 |
+| 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 115 |
 | 13 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | Kyrgyzstan | 113 |
 | 14 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov | Karakol, Kyrgyzstan | 112 |
 | 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | Beksultan | Bishkek | 109 |
@@ -83,4 +83,4 @@ Indexed users: 2,455
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-09T02:44:25.743Z
+Generated: 2026-10-09T03:56:52.988Z

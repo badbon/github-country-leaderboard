@@ -31,7 +31,7 @@ Indexed users: 1,189
 | 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,078 |
 | 18 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 3,849 |
 | 19 | [ElisBushaj](https://github.com/ElisBushaj) |  | Albania | 3,755 |
-| 20 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 3,647 |
+| 20 | [floridisha](https://github.com/floridisha) | Florian Disha | Tiranë, Albania | 3,670 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,189
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-09T02:13:33.719Z
+Generated: 2026-10-09T03:24:54.728Z

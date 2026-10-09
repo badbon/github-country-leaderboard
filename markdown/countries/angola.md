@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,506
+Indexed users: 2,505
 
 | Leaderboard | Link |
 |---|---|
@@ -30,7 +30,7 @@ Indexed users: 2,506
 | 16 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,799 |
 | 17 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Luanda, Angola | 3,700 |
 | 18 | [paulinofonsecas](https://github.com/paulinofonsecas) | Paulino Fonseca | Luanda | 3,486 |
-| 19 | [jorgevelosodev](https://github.com/jorgevelosodev) | Jorge Veloso | Luanda-Angola | 3,300 |
+| 19 | [jorgevelosodev](https://github.com/jorgevelosodev) | Jorge Veloso | Luanda-Angola | 3,464 |
 | 20 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro | Morro Bento, Luanda, Angola | 3,294 |
 
 ## Public Contributions
@@ -50,13 +50,13 @@ Indexed users: 2,506
 | 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
 | 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
-| 14 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | Luanda-Talatona | 980 |
-| 15 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 945 |
-| 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
-| 17 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
-| 18 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
-| 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
-| 20 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
+| 14 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 945 |
+| 15 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
+| 16 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
+| 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
+| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
+| 19 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
+| 20 | [jorgeedvaldo](https://github.com/jorgeedvaldo) | Edivaldo Jorge | Luanda | 836 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,506
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-09T02:15:05.522Z
+Generated: 2026-10-09T03:25:49.159Z

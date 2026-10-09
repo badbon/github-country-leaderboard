@@ -24,14 +24,14 @@ Indexed users: 1,292
 | 10 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
 | 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
-| 13 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 3,563 |
-| 14 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
-| 15 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
-| 16 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
-| 17 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 3,085 |
-| 18 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
-| 19 | [DDansAbelenda](https://github.com/DDansAbelenda) | Daniel Dans Abelenda | Cuba | 2,808 |
-| 20 | [edarblanco](https://github.com/edarblanco) | Edar José Blanco Rodríguez | Habana/Cuba | 2,778 |
+| 13 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,735 |
+| 14 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 3,563 |
+| 15 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
+| 16 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
+| 17 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
+| 18 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 3,085 |
+| 19 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
+| 20 | [DDansAbelenda](https://github.com/DDansAbelenda) | Daniel Dans Abelenda | Cuba | 2,808 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,292
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-09T02:28:14.819Z
+Generated: 2026-10-09T03:38:09.848Z

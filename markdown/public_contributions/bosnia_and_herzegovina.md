@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-09T02:21:15.287Z
+Generated: 2026-10-09T03:32:56.795Z
 
 Users: 2134
 
@@ -25,4 +25,4 @@ Users: 2134
 | 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota |  |  | Sarajevo, BiH | 892 |
 | 18 | [esensar](https://github.com/esensar) | Ensar Sarajčić |  |  | Sarajevo, Bosnia and Herzegovina | 719 |
 | 19 | [zalom](https://github.com/zalom) | Zlatko Alomerovic |  |  | Tuzla, Bosnia and Herzegovina | 716 |
-| 20 | [marko-lisica](https://github.com/marko-lisica) | Marko Lisica | Fleet (@fleetdm) | marko_lisica | Banja Luka, Bosnia and Herzegovina | 712 |
+| 20 | [full-stack-web-developer-and-designer](https://github.com/full-stack-web-developer-and-designer) | Mirnes Glamočić |  | mirnesglamocic | Jajce, Bosnia and Herzegovina | 701 |

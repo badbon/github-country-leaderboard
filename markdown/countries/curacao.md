@@ -12,8 +12,8 @@ Indexed users: 53
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,866 |
-| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,779 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,878 |
+| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,777 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,506 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,274 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,371 |
@@ -30,15 +30,15 @@ Indexed users: 53
 | 16 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
 | 17 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
 | 18 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
-| 19 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 33 |
-| 20 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
+| 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 36 |
+| 20 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 33 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,274 |
-| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 486 |
+| 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 487 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 464 |
 | 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
@@ -48,15 +48,15 @@ Indexed users: 53
 | 9 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
 | 10 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
 | 11 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
-| 12 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 33 |
-| 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 31 |
-| 14 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 23 |
-| 15 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
-| 16 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 17 |
-| 17 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 13 |
-| 18 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 8 |
-| 19 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 6 |
-| 20 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 4 |
+| 12 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 36 |
+| 13 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 33 |
+| 14 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 31 |
+| 15 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 23 |
+| 16 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
+| 17 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 17 |
+| 18 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 13 |
+| 19 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 8 |
+| 20 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 6 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-09T02:28:18.190Z
+Generated: 2026-10-09T03:38:42.107Z

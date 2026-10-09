@@ -39,12 +39,12 @@ Indexed users: 1,231
 |---:|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
 | 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 4,988 |
-| 3 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
-| 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
-| 5 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,381 |
-| 6 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,170 |
-| 8 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 2,892 |
+| 3 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 3,876 |
+| 4 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
+| 5 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
+| 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,381 |
+| 7 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
+| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,170 |
 | 9 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 2,831 |
 | 10 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,497 |
 | 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,448 |
@@ -73,14 +73,14 @@ Indexed users: 1,231
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 258 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 228 |
-| 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 170 |
+| 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 173 |
 | 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 152 |
-| 14 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 140 |
-| 15 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 140 |
-| 16 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 136 |
+| 14 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 140 |
+| 15 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 140 |
+| 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 140 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 128 |
 | 18 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-09T02:51:11.232Z
+Generated: 2026-10-09T04:03:59.795Z

@@ -1,8 +1,8 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-09T02:15:05.522Z
+Generated: 2026-10-09T03:25:49.159Z
 
-Users: 2506
+Users: 2505
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 2506
 | 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1200 |
 | 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
 | 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga |  |  | Angola | 1090 |
-| 14 | [tiagomatias930](https://github.com/tiagomatias930) | Tiago Matias  | 42Luanda |  | Luanda-Talatona | 980 |
-| 15 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | EMJ CONSULTORIA LDA |  | Angola, Luanda, Viana | 945 |
-| 16 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 943 |
-| 17 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 940 |
-| 18 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
-| 19 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 930 |
-| 20 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 921 |
+| 14 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | EMJ CONSULTORIA LDA |  | Angola, Luanda, Viana | 945 |
+| 15 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 943 |
+| 16 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 940 |
+| 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
+| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 930 |
+| 19 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 921 |
+| 20 | [jorgeedvaldo](https://github.com/jorgeedvaldo) | Edivaldo Jorge |  |  | Luanda | 836 |

@@ -27,7 +27,7 @@ Indexed users: 339
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,706 |
 | 14 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,533 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,451 |
-| 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,316 |
+| 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,324 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,119 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 977 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 947 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-09T02:39:13.993Z
+Generated: 2026-10-09T03:51:13.078Z

@@ -47,16 +47,16 @@ Indexed users: 534
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 840 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
 | 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 601 |
-| 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 538 |
+| 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 12 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 528 |
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 493 |
-| 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 433 |
+| 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 434 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
 | 16 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 378 |
 | 17 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 348 |
 | 19 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
-| 20 | [RefilweSethunya](https://github.com/RefilweSethunya) | Refilwe Sethunya Keatlholetswe | Gaborone, Botswana | 318 |
+| 20 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 311 |
 
 ## Followers
 
@@ -67,8 +67,8 @@ Indexed users: 534
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial | Gaborone, Botswana | 121 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 103 |
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 74 |
-| 6 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 68 |
-| 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 68 |
+| 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 68 |
+| 7 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 67 |
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. | Botswana | 67 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Palapye, Botswana | 64 |
 | 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 61 |
@@ -83,4 +83,4 @@ Indexed users: 534
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-09T02:21:37.216Z
+Generated: 2026-10-09T03:32:59.168Z

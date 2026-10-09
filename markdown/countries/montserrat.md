@@ -15,16 +15,16 @@ Indexed users: 291
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,333 |
 | 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,055 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,259 |
-| 4 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,067 |
+| 4 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,058 |
 | 5 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 3,974 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,388 |
 | 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,065 |
 | 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,313 |
-| 10 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,127 |
+| 10 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,128 |
 | 11 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,017 |
 | 12 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 1,990 |
-| 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,439 |
+| 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,458 |
 | 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,405 |
 | 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,210 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,141 |
@@ -53,8 +53,8 @@ Indexed users: 291
 | 14 | [vivekbiju](https://github.com/vivekbiju) | Vivek Biju | Plymouth | 321 |
 | 15 | [gingeapple182](https://github.com/gingeapple182) | Oliver | Plymouth | 301 |
 | 16 | [scollinspt](https://github.com/scollinspt) | Sean Collins | Plymouth, NH | 271 |
-| 17 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
-| 18 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 220 |
+| 17 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 226 |
+| 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
 | 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
 | 20 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 193 |
 
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-09T02:55:56.770Z
+Generated: 2026-10-09T04:06:29.198Z

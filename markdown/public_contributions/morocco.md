@@ -1,8 +1,8 @@
 # Public Contributions - Morocco
 
-Generated: 2026-10-09T02:55:58.963Z
+Generated: 2026-10-09T04:06:31.728Z
 
-Users: 9661
+Users: 9681
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,9 +14,9 @@ Users: 9661
 | 6 | [mks-zakaria](https://github.com/mks-zakaria) | MKS~ZAK |  |  | Morocco | 2968 |
 | 7 | [seuros](https://github.com/seuros) | Abdelkader Boudih | Open Source Contributor | seuross | Tangier, Morocco | 2917 |
 | 8 | [atam84](https://github.com/atam84) | Amine |  | ATam84 | Casablanca, Morocco | 2819 |
-| 9 | [depsagency](https://github.com/depsagency) | DEPS | Deps Agency | DepsAgency | Morocco, Casablanca | 2658 |
-| 10 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | CM6RI |  | Rabat (Morocco) | 2574 |
-| 11 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik |  |  | Morocco | 2543 |
+| 9 | [ielbadisy](https://github.com/ielbadisy) | Imad EL BADISY  | CM6RI |  | Rabat (Morocco) | 2574 |
+| 10 | [ImadSaddik](https://github.com/ImadSaddik) | Imad Saddik |  |  | Morocco | 2543 |
+| 11 | [depsagency](https://github.com/depsagency) | DEPS | Deps Agency | DepsAgency | Morocco, Casablanca | 2526 |
 | 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Denzo |  | Essaouira, Morocco | 2431 |
 | 13 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah |  | AboJadMar | Morocco | 2395 |
 | 14 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | @theodo-group |  | Morocco | 2338 |
