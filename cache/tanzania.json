@@ -6139,8 +6139,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 183,
+    "privateContributions": 0,
+    "publicContributions": 95,
     "createdAt": "2023-05-13T20:13:59Z"
   },
   {
@@ -6164,7 +6164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 59,
     "createdAt": "2023-06-27T00:21:24Z"
   },
   {
@@ -6187,7 +6187,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 144,
+    "privateContributions": 118,
     "publicContributions": 0,
     "createdAt": "2023-08-20T08:48:13Z"
   },
@@ -6208,11 +6208,11 @@
     "name": "FRANCE MSAFIRI MFILINGE",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141364333?s=72&u=1c835a8f0a3d9f5a7695c6cc89b58119a0c558ea&v=4",
     "location": "tanzania",
-    "company": "Funturestack",
+    "company": "rexalab",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 789,
-    "publicContributions": 11,
+    "followers": 4,
+    "privateContributions": 2894,
+    "publicContributions": 438,
     "createdAt": "2023-08-03T19:30:51Z"
   },
   {
@@ -6271,8 +6271,8 @@
     "company": "DropCodes Software Company",
     "twitterUsername": "barazadev",
     "followers": 1,
-    "privateContributions": 666,
-    "publicContributions": 6,
+    "privateContributions": 640,
+    "publicContributions": 7,
     "createdAt": "2023-03-13T17:11:21Z"
   },
   {
@@ -6283,8 +6283,8 @@
     "company": "Ganger Coding Arena",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "privateContributions": 3,
+    "publicContributions": 3,
     "createdAt": "2023-01-11T07:44:53Z"
   },
   {
@@ -6308,7 +6308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2023-08-08T12:04:16Z"
   },
   {
@@ -6318,7 +6318,7 @@
     "location": "Dar es salaam, Tanzania",
     "company": "codenamuniko",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-06T20:35:27Z"

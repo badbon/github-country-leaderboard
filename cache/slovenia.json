@@ -6188,7 +6188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-01-11T09:01:15Z"
   },
   {
@@ -6247,8 +6247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2678,
-    "publicContributions": 17,
+    "privateContributions": 3137,
+    "publicContributions": 16,
     "createdAt": "2021-02-27T10:18:54Z"
   },
   {
@@ -6272,20 +6272,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 30,
     "createdAt": "2021-10-30T21:41:38Z"
-  },
-  {
-    "login": "themix88",
-    "name": "Miran Kljun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87669308?s=72&u=5e5e39a8735934fbbfb5108403cd7d831763a379&v=4",
-    "location": "Slovenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 277,
-    "publicContributions": 62,
-    "createdAt": "2021-07-19T18:33:49Z"
   },
   {
     "login": "gorazdmurko",
@@ -6319,8 +6307,8 @@
     "company": "not work",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 203,
+    "privateContributions": 1,
+    "publicContributions": 79,
     "createdAt": "2021-12-12T22:48:40Z"
   },
   {
@@ -6332,7 +6320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 33,
     "createdAt": "2021-07-20T13:31:47Z"
   },
   {
@@ -6355,7 +6343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2021-03-15T08:35:02Z"
   },

@@ -6132,27 +6132,15 @@
     "createdAt": "2021-10-11T11:21:05Z"
   },
   {
-    "login": "Black221",
-    "name": "LHackSRT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78321063?s=72&u=07aee2ac5d33598595cec589b606d6e9dcde8419&v=4",
-    "location": "Senegal",
-    "company": "bouna",
-    "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 154,
-    "publicContributions": 33,
-    "createdAt": "2021-01-31T19:59:30Z"
-  },
-  {
     "login": "ElieJnr",
     "name": "Elie Jean Malo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95029326?s=72&v=4",
     "location": "Dakar,Senegal",
     "company": "",
     "twitterUsername": "eliejnr12",
-    "followers": 31,
+    "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 132,
     "createdAt": "2021-11-25T11:44:39Z"
   },
   {
@@ -6172,11 +6160,11 @@
     "name": "lU",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82377686?s=72&u=aa39a8d31b0e443e157b6ecbaf52e1cf28667e25&v=4",
     "location": "Dakar, Senegal",
-    "company": "@ouestlabs ",
+    "company": "@ouestlabs",
     "twitterUsername": "luu_loua",
-    "followers": 30,
-    "privateContributions": 575,
-    "publicContributions": 810,
+    "followers": 29,
+    "privateContributions": 651,
+    "publicContributions": 462,
     "createdAt": "2021-04-12T10:18:13Z"
   },
   {
@@ -6186,9 +6174,9 @@
     "location": "Dakar,Senegal",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 1020,
-    "publicContributions": 369,
+    "followers": 29,
+    "privateContributions": 1351,
+    "publicContributions": 240,
     "createdAt": "2021-08-01T11:24:41Z"
   },
   {
@@ -6198,9 +6186,9 @@
     "location": "Senegal. Dakar",
     "company": "",
     "twitterUsername": "0xDar_rius",
-    "followers": 26,
+    "followers": 29,
     "privateContributions": 31,
-    "publicContributions": 481,
+    "publicContributions": 735,
     "createdAt": "2021-04-03T16:20:23Z"
   },
   {
@@ -6211,7 +6199,7 @@
     "company": "",
     "twitterUsername": "BadianeMalick98",
     "followers": 25,
-    "privateContributions": 1775,
+    "privateContributions": 2367,
     "publicContributions": 9,
     "createdAt": "2021-09-27T20:50:10Z"
   },
@@ -6222,7 +6210,7 @@
     "location": "Dakar, Senegal",
     "company": "",
     "twitterUsername": "id_dev3",
-    "followers": 24,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-16T20:18:57Z"
@@ -6234,8 +6222,8 @@
     "location": "senegal",
     "company": "",
     "twitterUsername": "Saliouka",
-    "followers": 19,
-    "privateContributions": 1054,
+    "followers": 20,
+    "privateContributions": 887,
     "publicContributions": 0,
     "createdAt": "2021-01-19T22:06:24Z"
   },
@@ -6247,8 +6235,8 @@
     "company": "",
     "twitterUsername": "fassane_",
     "followers": 15,
-    "privateContributions": 1945,
-    "publicContributions": 2,
+    "privateContributions": 1672,
+    "publicContributions": 0,
     "createdAt": "2021-09-09T11:39:20Z"
   },
   {
@@ -6270,9 +6258,9 @@
     "location": "Senegal,Dakar",
     "company": "",
     "twitterUsername": "SergeOdadje",
-    "followers": 10,
-    "privateContributions": 346,
-    "publicContributions": 24,
+    "followers": 12,
+    "privateContributions": 415,
+    "publicContributions": 22,
     "createdAt": "2021-03-13T00:27:42Z"
   },
   {
@@ -6282,9 +6270,9 @@
     "location": "Senegal, Dakar",
     "company": "",
     "twitterUsername": "Julo_19",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 113,
     "createdAt": "2021-04-02T20:30:43Z"
   },
   {
@@ -6308,19 +6296,19 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 162,
     "createdAt": "2021-02-04T14:16:46Z"
   },
   {
     "login": "Kalamoulah",
     "name": "Moussa Sagna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89282714?s=72&u=e5703a615460cad83ab788d351676aedfd963662&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89282714?s=72&u=b51668d5c9eb2bb665aa96326b9284bf43663aa8&v=4",
     "location": "Dakar, Senegal",
     "company": "",
     "twitterUsername": "Musasagna08",
     "followers": 8,
-    "privateContributions": 267,
-    "publicContributions": 17,
+    "privateContributions": 326,
+    "publicContributions": 23,
     "createdAt": "2021-08-21T00:03:34Z"
   },
   {
@@ -6330,9 +6318,9 @@
     "location": "Dakar, Senegal",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2021-10-01T16:43:51Z"
   },
   {
@@ -6344,7 +6332,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-02-14T22:45:19Z"
   },
   {
@@ -6356,7 +6344,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2021-03-12T21:23:39Z"
   },
   {
@@ -6366,7 +6354,7 @@
     "location": "Dakar, Senegal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-07-27T17:31:33Z"

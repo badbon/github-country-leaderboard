@@ -6032,7 +6032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-04-10T05:58:10Z"
   },
   {
@@ -6043,7 +6043,7 @@
     "company": "@fisherpaykel ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1721,
+    "privateContributions": 1851,
     "publicContributions": 1,
     "createdAt": "2024-02-19T21:31:20Z"
   },
@@ -6055,8 +6055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
-    "publicContributions": 2,
+    "privateContributions": 22,
+    "publicContributions": 1,
     "createdAt": "2024-11-22T22:04:57Z"
   },
   {
@@ -6068,7 +6068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2024-12-03T03:40:16Z"
   },
   {
@@ -6115,8 +6115,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 36,
-    "publicContributions": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2024-02-04T07:55:18Z"
   },
   {
@@ -6126,9 +6126,9 @@
     "location": "Bay of Plenty, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 35,
     "createdAt": "2024-08-25T04:16:06Z"
   },
   {
@@ -6152,7 +6152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 4,
     "createdAt": "2024-07-21T21:41:11Z"
   },
   {
@@ -6162,9 +6162,9 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 26,
     "createdAt": "2024-08-19T01:41:33Z"
   },
   {
@@ -6187,8 +6187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 223,
-    "publicContributions": 231,
+    "privateContributions": 174,
+    "publicContributions": 76,
     "createdAt": "2024-11-08T03:59:56Z"
   },
   {
@@ -6211,21 +6211,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 309,
+    "privateContributions": 8,
+    "publicContributions": 334,
     "createdAt": "2024-07-15T06:47:38Z"
-  },
-  {
-    "login": "NathanDTP",
-    "name": "Nathan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168376535?s=72&u=3f6b4fe27c75c79833bdd74c0c5ccd669c723275&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 257,
-    "publicContributions": 0,
-    "createdAt": "2024-04-28T21:10:30Z"
   },
   {
     "login": "NidhaNureen",
@@ -6234,20 +6222,20 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 232,
-    "publicContributions": 20,
+    "followers": 2,
+    "privateContributions": 182,
+    "publicContributions": 0,
     "createdAt": "2024-04-02T05:53:12Z"
   },
   {
     "login": "craiganderson-iotv",
     "name": "Craig Anderson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170584791?s=72&u=920b8abd64f4fd143cbfc1ff666bdad69d9e90f0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170584791?s=72&u=e71ea2aa6f3e86c0fae3568e9f060067a0a730fc&v=4",
     "location": "Auckland, New Zealand",
     "company": "IoT Ventures, Ltd.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-05-23T00:05:55Z"
   },

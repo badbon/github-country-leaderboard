@@ -5851,7 +5851,7 @@
     "company": "@101-lu",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 551,
+    "privateContributions": 529,
     "publicContributions": 40,
     "createdAt": "2020-02-23T00:29:35Z"
   },
@@ -5863,8 +5863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 122,
-    "publicContributions": 20,
+    "privateContributions": 170,
+    "publicContributions": 8,
     "createdAt": "2020-09-18T10:04:41Z"
   },
   {
@@ -5875,7 +5875,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 6,
+    "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2020-03-10T08:24:23Z"
   },
@@ -5912,20 +5912,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 61,
     "createdAt": "2020-11-01T17:54:23Z"
-  },
-  {
-    "login": "gwendal-jouneaux",
-    "name": "Gwendal Jouneaux",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68585341?s=72&u=e0cc041196dbddfdbd9780c595e5d3896ced8766&v=4",
-    "location": "Luxembourg",
-    "company": "Luxembourg Institute of Science and Technologie",
-    "twitterUsername": "GJouneaux",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 105,
-    "createdAt": "2020-07-21T07:37:34Z"
   },
   {
     "login": "theiari",
@@ -5935,8 +5923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 116,
-    "publicContributions": 57,
+    "privateContributions": 97,
+    "publicContributions": 51,
     "createdAt": "2020-10-08T12:59:53Z"
   },
   {
@@ -5960,7 +5948,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2020-04-06T15:54:07Z"
   },
   {
@@ -5995,7 +5983,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 209,
+    "privateContributions": 109,
     "publicContributions": 93,
     "createdAt": "2020-10-22T09:17:41Z"
   },
@@ -6007,7 +5995,7 @@
     "company": "PwC Luxembourg",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 350,
+    "privateContributions": 381,
     "publicContributions": 3,
     "createdAt": "2020-05-19T18:21:38Z"
   },
@@ -6054,9 +6042,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 307,
     "createdAt": "2020-04-24T15:23:38Z"
   },
   {

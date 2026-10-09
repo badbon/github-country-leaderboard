@@ -5970,9 +5970,9 @@
     "location": "peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 113,
     "createdAt": "2024-09-21T17:29:09Z"
   },
   {
@@ -5984,19 +5984,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 19,
     "createdAt": "2024-06-24T19:47:52Z"
   },
   {
     "login": "Ceanf",
     "name": "Cean Chavez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165130556?s=72&u=69e8f2654e9dc3ce961e9ee488d55bcd81be5280&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165130556?s=72&u=e10f923417109d984dc7dbfe822643c0d9332880&v=4",
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 201,
+    "followers": 2,
+    "privateContributions": 3,
+    "publicContributions": 217,
     "createdAt": "2024-03-27T06:22:21Z"
   },
   {
@@ -6008,7 +6008,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 98,
     "createdAt": "2024-09-28T02:58:13Z"
   },
   {
@@ -6026,13 +6026,13 @@
   {
     "login": "FacundoMaco",
     "name": "Facundo Maco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181916162?s=72&u=58991b9d0908db26f8168d05200245b6baa95e66&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181916162?s=72&u=e719951a6706f9f12355924abbd145f2e2529e28&v=4",
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 214,
+    "publicContributions": 261,
     "createdAt": "2024-09-18T01:51:14Z"
   },
   {
@@ -6044,7 +6044,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 16,
     "createdAt": "2024-12-10T01:04:57Z"
   },
   {
@@ -6056,7 +6056,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 49,
-    "publicContributions": 101,
+    "publicContributions": 100,
     "createdAt": "2024-03-29T18:47:03Z"
   },
   {
@@ -6080,7 +6080,7 @@
     "twitterUsername": "_noeav",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 38,
     "createdAt": "2024-10-18T12:53:34Z"
   },
   {
@@ -6091,8 +6091,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 375,
-    "publicContributions": 58,
+    "privateContributions": 319,
+    "publicContributions": 69,
     "createdAt": "2024-03-28T00:48:26Z"
   },
   {
@@ -6116,7 +6116,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 25,
     "createdAt": "2024-03-15T23:21:58Z"
   },
   {
@@ -6126,34 +6126,22 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 166,
+    "publicContributions": 169,
     "createdAt": "2024-03-16T02:09:19Z"
   },
   {
     "login": "rodrigomiranda1",
     "name": "Rodrigo Miranda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190062890?s=72&u=82a97131c426b6e9bd3f6a224d9aaa249f1e1526&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190062890?s=72&u=26e0be4f3373dfdd08403f1ae9cf60332fb674c5&v=4",
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 137,
     "createdAt": "2024-11-29T05:58:49Z"
-  },
-  {
-    "login": "IDymian",
-    "name": "Alvaro Fabrizzio Salazar Caballero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175070203?s=72&u=cda17956de97438cb07bff75f3336de9b032e9b4&v=4",
-    "location": "Lima, Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 179,
-    "createdAt": "2024-07-09T00:19:31Z"
   },
   {
     "login": "DanielRojas20",
@@ -6164,7 +6152,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 0,
     "createdAt": "2024-10-06T21:39:39Z"
   },
   {
@@ -6175,8 +6163,8 @@
     "company": "Chelo Lima E.I.R.L.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 189,
-    "publicContributions": 13,
+    "privateContributions": 164,
+    "publicContributions": 11,
     "createdAt": "2024-07-27T21:17:53Z"
   },
   {
@@ -6200,7 +6188,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 190,
+    "publicContributions": 162,
     "createdAt": "2024-09-29T22:17:38Z"
   },
   {

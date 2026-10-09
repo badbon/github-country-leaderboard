@@ -6127,8 +6127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2,
-    "publicContributions": 43,
+    "privateContributions": 0,
+    "publicContributions": 33,
     "createdAt": "2020-09-01T20:08:53Z"
   },
   {
@@ -6152,7 +6152,7 @@
     "twitterUsername": "eiecheverri",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 66,
     "createdAt": "2020-05-19T21:16:52Z"
   },
   {
@@ -6164,7 +6164,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-01-27T20:05:20Z"
   },
   {
@@ -6175,7 +6175,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 259,
+    "privateContributions": 288,
     "publicContributions": 4,
     "createdAt": "2020-11-03T20:33:25Z"
   },
@@ -6198,21 +6198,21 @@
     "location": "Puerto Rico",
     "company": "Interamerican University of Puerto Rico",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 36,
-    "publicContributions": 71,
+    "followers": 2,
+    "privateContributions": 11,
+    "publicContributions": 60,
     "createdAt": "2020-04-02T01:44:51Z"
   },
   {
     "login": "angelLamourt",
     "name": "Angel Lamourt",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63029869?s=72&u=3a241b6f2ac16acb2dfe407901ab927f89943463&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63029869?s=72&u=c916cece4c285177187eb08224abb9e745e11f71&v=4",
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-04-02T02:17:19Z"
   },
   {
@@ -6224,7 +6224,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 306,
+    "publicContributions": 308,
     "createdAt": "2020-05-31T19:21:45Z"
   },
   {
@@ -6247,7 +6247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 308,
+    "privateContributions": 307,
     "publicContributions": 0,
     "createdAt": "2020-08-20T16:42:25Z"
   },
@@ -6296,7 +6296,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 315,
+    "publicContributions": 362,
     "createdAt": "2020-04-29T16:16:07Z"
   },
   {
@@ -6318,7 +6318,7 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-26T05:27:23Z"
@@ -6332,7 +6332,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 35,
     "createdAt": "2020-09-17T13:56:05Z"
   },
   {

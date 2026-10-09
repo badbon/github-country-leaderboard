@@ -2791,7 +2791,7 @@
     "company": "Next Technology",
     "twitterUsername": "myeljoud",
     "followers": 15,
-    "privateContributions": 2273,
+    "privateContributions": 2268,
     "publicContributions": 6,
     "createdAt": "2017-02-02T22:38:02Z"
   },
@@ -2804,7 +2804,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 115,
     "createdAt": "2017-09-01T03:37:55Z"
   },
   {
@@ -3454,5 +3454,17 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2012-04-24T16:09:15Z"
+  },
+  {
+    "login": "ahmed-devsecops",
+    "name": "Ahmed Teyib ABDALLAHI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287232325?s=72&u=4b7a23ed709fdcc016c5c430cfbfa521d21b8d6a&v=4",
+    "location": "Nouakchott, Mauritania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-23T13:49:56Z"
   }
 ]

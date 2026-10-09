@@ -6104,7 +6104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2021-08-06T23:28:44Z"
   },
   {
@@ -6122,13 +6122,13 @@
   {
     "login": "siminiuc",
     "name": "Sergiu Siminiuc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83398661?s=72&u=c332ed68636f6bb5b544248ee5d8ca4d04c069ba&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/83398661?s=72&v=4",
     "location": "Chișinău, Moldova",
     "company": "@Aperia-SRL ",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2021-04-29T09:15:23Z"
   },
   {
@@ -6138,7 +6138,7 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 98,
     "createdAt": "2021-01-25T12:05:34Z"
@@ -6151,8 +6151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 138,
-    "publicContributions": 0,
+    "privateContributions": 218,
+    "publicContributions": 14,
     "createdAt": "2021-06-04T16:00:05Z"
   },
   {
@@ -6188,7 +6188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2021-11-07T14:15:13Z"
   },
   {
@@ -6248,7 +6248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2021-01-31T18:02:33Z"
   },
   {
@@ -6295,8 +6295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 17,
+    "privateContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2021-12-18T09:45:01Z"
   },
   {
@@ -6306,9 +6306,9 @@
     "location": "Republic of Moldova",
     "company": "Ministry of Education",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2021-05-02T17:07:38Z"
   },
   {
@@ -6330,7 +6330,7 @@
     "location": "Ukraine / Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-19T03:04:00Z"
@@ -21044,7 +21044,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2026-06-18T19:09:04Z"
   },
   {

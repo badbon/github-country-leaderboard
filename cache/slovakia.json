@@ -6102,9 +6102,9 @@
     "location": "Slovakia",
     "company": "bAvenir",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 418,
-    "publicContributions": 37,
+    "followers": 25,
+    "privateContributions": 431,
+    "publicContributions": 89,
     "createdAt": "2022-09-20T06:28:24Z"
   },
   {
@@ -6114,9 +6114,9 @@
     "location": "Nitra, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 2,
-    "publicContributions": 173,
+    "publicContributions": 144,
     "createdAt": "2022-04-29T12:00:24Z"
   },
   {
@@ -6127,8 +6127,8 @@
     "company": "STU FIIT",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 276,
-    "publicContributions": 88,
+    "privateContributions": 942,
+    "publicContributions": 130,
     "createdAt": "2022-09-20T13:59:43Z"
   },
   {
@@ -6151,8 +6151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1824,
-    "publicContributions": 208,
+    "privateContributions": 1867,
+    "publicContributions": 203,
     "createdAt": "2022-09-18T18:09:41Z"
   },
   {
@@ -6162,7 +6162,7 @@
     "location": "Bratislava, Slovakia",
     "company": "PwC Slovakia",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-02-07T08:09:51Z"
@@ -6170,7 +6170,7 @@
   {
     "login": "yanchuiko",
     "name": "Yan Chuiko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115407436?s=72&u=42bcf2f54913adb22299ad34e09066fab6fdcf6f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115407436?s=72&u=6c002cba9361f82a7a904fa0cc7cbfa0021df2d5&v=4",
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
@@ -6187,8 +6187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 247,
-    "publicContributions": 305,
+    "privateContributions": 422,
+    "publicContributions": 255,
     "createdAt": "2022-04-07T09:16:13Z"
   },
   {
@@ -6200,19 +6200,19 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 134,
-    "publicContributions": 18,
+    "publicContributions": 6,
     "createdAt": "2022-06-24T10:09:55Z"
   },
   {
     "login": "Breehze",
     "name": "Boris Ftorek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112479051?s=72&u=72d497ae5cabf9b9dd24c42e3093fd882e51a7db&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112479051?s=72&u=9b14f51174a77f98670781dba5d7c63c7d8ff255&v=4",
     "location": "Bratislava,Slovakia",
     "company": "FIIT STU",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 23,
-    "publicContributions": 150,
+    "followers": 17,
+    "privateContributions": 106,
+    "publicContributions": 108,
     "createdAt": "2022-08-30T10:14:49Z"
   },
   {
@@ -6222,9 +6222,9 @@
     "location": "Slovakia",
     "company": "Uniza",
     "twitterUsername": "Santiag93142540",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 25,
     "createdAt": "2022-01-20T14:14:28Z"
   },
   {
@@ -6236,7 +6236,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 105,
     "createdAt": "2022-11-10T20:14:08Z"
   },
   {
@@ -6258,21 +6258,21 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 37,
-    "publicContributions": 22,
+    "followers": 14,
+    "privateContributions": 32,
+    "publicContributions": 2,
     "createdAt": "2022-01-13T20:42:56Z"
   },
   {
     "login": "Sen9068",
     "name": "Sníček",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102615758?s=72&u=6aa175da730b511eeb2fae03685864184d58eaa9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102615758?s=72&u=6922017fa2a63b2fb60df5ad735b7c4ccd2c31e8&v=4",
     "location": "🇸🇰 Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1059,
-    "publicContributions": 132,
+    "followers": 13,
+    "privateContributions": 1178,
+    "publicContributions": 134,
     "createdAt": "2022-03-29T17:03:41Z"
   },
   {
@@ -6295,21 +6295,9 @@
     "company": "IvebecTech s.r.o",
     "twitterUsername": "thatcattoo",
     "followers": 12,
-    "privateContributions": 116,
-    "publicContributions": 15,
+    "privateContributions": 105,
+    "publicContributions": 8,
     "createdAt": "2022-02-27T10:49:51Z"
-  },
-  {
-    "login": "kitnew",
-    "name": "Nikita",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103036587?s=72&u=f5d9d20d64c9257dfe4d80318c1b4b3a3c3c4fa2&v=4",
-    "location": "Košice, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 115,
-    "publicContributions": 248,
-    "createdAt": "2022-04-05T10:12:44Z"
   },
   {
     "login": "maxlshk",
@@ -6318,9 +6306,9 @@
     "location": "Kyiv, Ukraine (Nitra, Slovakia)",
     "company": "Newtonideas",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 14,
     "privateContributions": 22,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2022-11-25T11:39:16Z"
   },
   {
@@ -6331,8 +6319,8 @@
     "company": "School",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 278,
-    "publicContributions": 448,
+    "privateContributions": 264,
+    "publicContributions": 327,
     "createdAt": "2022-06-29T17:04:01Z"
   },
   {

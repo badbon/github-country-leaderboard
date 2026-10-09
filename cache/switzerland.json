@@ -6080,7 +6080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2025-08-13T08:55:30Z"
   },
   {
@@ -6104,19 +6104,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-02-04T02:32:05Z"
   },
   {
     "login": "yekongclx-a11y",
-    "name": "Ling xuan",
+    "name": "Lingxuan Chen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/242925934?s=72&u=3b141c0acaef4725e50110636237cd0a313997d2&v=4",
     "location": "Bern",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 88,
-    "publicContributions": 84,
+    "privateContributions": 170,
+    "publicContributions": 79,
     "createdAt": "2025-11-09T10:09:03Z"
   },
   {
@@ -6152,20 +6152,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-11-06T12:00:17Z"
-  },
-  {
-    "login": "ByteCorum",
-    "name": "ByteCorum",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/164874887?s=72&u=14c88b26fb72542bdcfccc882a1a952eb8bdb9f3&v=4",
-    "location": "Zürich, ZH, Schweiz",
-    "company": "0110010 gGmbH",
-    "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 87,
-    "publicContributions": 466,
-    "createdAt": "2024-03-25T11:08:49Z"
   },
   {
     "login": "Nigash-Sutha",
@@ -6182,13 +6170,13 @@
   {
     "login": "sudoBeni",
     "name": "Benjamin Amhof",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184844342?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184844342?s=72&u=d54c7b7992b45b2ec3e8ef3a222b851b20cab5dd&v=4",
     "location": "Schweiz",
     "company": "Slackers.dev",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 465,
-    "publicContributions": 122,
+    "followers": 10,
+    "privateContributions": 937,
+    "publicContributions": 129,
     "createdAt": "2024-10-13T14:30:53Z"
   },
   {
@@ -6212,7 +6200,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-09-10T08:48:17Z"
   },
   {
@@ -6222,9 +6210,9 @@
     "location": "Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 102,
     "createdAt": "2024-08-16T11:19:12Z"
   },
   {
@@ -6236,7 +6224,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 62,
     "createdAt": "2024-08-22T13:21:21Z"
   },
   {
@@ -6260,7 +6248,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 17,
     "createdAt": "2024-03-06T14:57:15Z"
   },
   {
@@ -6283,8 +6271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 113,
-    "publicContributions": 140,
+    "privateContributions": 121,
+    "publicContributions": 92,
     "createdAt": "2024-02-18T13:25:14Z"
   },
   {
@@ -6294,9 +6282,9 @@
     "location": "Zürich, Schweiz",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2024-07-30T14:52:34Z"
   },
   {

@@ -6044,7 +6044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 43,
     "createdAt": "2026-01-21T16:05:17Z"
   },
   {
@@ -6054,9 +6054,9 @@
     "location": "Karachi, Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 87,
     "createdAt": "2026-03-06T22:37:44Z"
   },
   {
@@ -6068,7 +6068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 437,
+    "publicContributions": 595,
     "createdAt": "2026-03-05T10:24:50Z"
   },
   {
@@ -6080,7 +6080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 52,
     "createdAt": "2026-03-07T15:12:03Z"
   },
   {
@@ -6092,7 +6092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 49,
     "createdAt": "2026-03-11T02:29:13Z"
   },
   {
@@ -6140,7 +6140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 54,
     "createdAt": "2026-04-04T23:39:24Z"
   },
   {
@@ -6176,20 +6176,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 93,
     "createdAt": "2026-04-18T04:00:18Z"
-  },
-  {
-    "login": "amedexstudio",
-    "name": "Amedex Studio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/263366632?s=72&u=955978e7271ed4819460611566d23a13ecbea50a&v=4",
-    "location": "Pakistan",
-    "company": "@amedexlabs",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-23T12:19:39Z"
   },
   {
     "login": "maheen-nawaz",
@@ -6200,20 +6188,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 38,
     "createdAt": "2026-02-28T14:47:50Z"
-  },
-  {
-    "login": "bilal0x0002-sketch",
-    "name": "Bilal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275835683?s=72&u=a4a29f273ad3e75a0da88aafa886269d27923ec3&v=4",
-    "location": "Pakistan",
-    "company": "None",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2026-04-13T22:34:02Z"
   },
   {
     "login": "humna-007",
@@ -6224,7 +6200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 41,
     "createdAt": "2026-04-03T12:05:16Z"
   },
   {
@@ -6250,18 +6226,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-02T13:36:01Z"
-  },
-  {
-    "login": "AdnanRaza88",
-    "name": "Coding with AdnanRaza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/254884469?s=72&u=1d15026b324c8a1a2a4af6e6b3cc87c0b1c954d8&v=4",
-    "location": "Pakistan ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 534,
-    "createdAt": "2026-01-14T10:46:29Z"
   },
   {
     "login": "abdullahnkhokhar-ux",
@@ -498262,5 +498226,17 @@
     "privateContributions": 373,
     "publicContributions": 178,
     "createdAt": "2019-01-28T15:56:39Z"
+  },
+  {
+    "login": "abdullahzarshaid",
+    "name": "Abdullah Bin Zarshaid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38634086?s=72&u=30861fbde79e73c748f2dd4c1e3a41bf6b022772&v=4",
+    "location": "Pakistan, UAE, USA",
+    "company": "NKU Technologies LLC",
+    "twitterUsername": "BinZarshaid",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2018-04-22T19:52:24Z"
   }
 ]

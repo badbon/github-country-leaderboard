@@ -6236,7 +6236,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 53,
     "createdAt": "2018-10-30T20:18:32Z"
   },
   {
@@ -6258,9 +6258,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 210,
-    "publicContributions": 64,
+    "followers": 3,
+    "privateContributions": 216,
+    "publicContributions": 56,
     "createdAt": "2018-03-05T18:41:04Z"
   },
   {
@@ -6295,7 +6295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 309,
+    "privateContributions": 292,
     "publicContributions": 0,
     "createdAt": "2018-02-18T05:32:17Z"
   },
@@ -6330,7 +6330,7 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-10-21T12:40:48Z"
@@ -6344,7 +6344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2018-11-18T22:46:46Z"
   },
   {
@@ -6379,7 +6379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7623,
+    "privateContributions": 10549,
     "publicContributions": 0,
     "createdAt": "2018-02-01T12:25:35Z"
   },
@@ -6391,7 +6391,7 @@
     "company": "Company",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 466,
+    "privateContributions": 514,
     "publicContributions": 1,
     "createdAt": "2018-05-25T01:36:20Z"
   },
@@ -14758,5 +14758,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-18T13:28:07Z"
+  },
+  {
+    "login": "attard2006-ops",
+    "name": "Giuseppe Attard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291319521?s=72&v=4",
+    "location": "Malta",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-06T14:43:21Z"
   }
 ]
