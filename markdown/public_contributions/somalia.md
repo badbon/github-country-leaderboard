@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-09T15:15:58.233Z
+Generated: 2026-10-09T16:10:30.688Z
 
 Users: 858
 
@@ -24,5 +24,5 @@ Users: 858
 | 16 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir |  |  | Mogadishu-Somalia | 555 |
 | 17 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 537 |
 | 18 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Zamzam University of Science and Technology | HafsaHaajji | Mogadishu-Somalia | 529 |
-| 19 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 519 |
-| 20 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |
+| 19 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |
+| 20 | [mohamudabdikarin](https://github.com/mohamudabdikarin) | Mohamud Abdikarim |  |  | Somalia | 498 |
