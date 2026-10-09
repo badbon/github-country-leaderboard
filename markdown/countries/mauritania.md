@@ -28,7 +28,7 @@ Indexed users: 289
 | 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,724 |
 | 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,522 |
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,333 |
-| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,259 |
+| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,277 |
 | 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 968 |
 | 19 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 855 |
 | 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 843 |
@@ -53,10 +53,10 @@ Indexed users: 289
 | 14 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
 | 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 216 |
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 206 |
-| 17 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 187 |
-| 18 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 176 |
-| 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 176 |
-| 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 162 |
+| 17 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 202 |
+| 18 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 187 |
+| 19 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 176 |
+| 20 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 176 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-09T10:22:02.806Z
+Generated: 2026-10-09T11:12:38.693Z

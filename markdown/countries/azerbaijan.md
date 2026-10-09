@@ -16,8 +16,8 @@ Indexed users: 5,094
 | 2 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 17,710 |
 | 3 | [ruslanabdullayev01](https://github.com/ruslanabdullayev01) | Ruslan Abdullayev | Azerbaijan | 10,183 |
 | 4 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam | Azerbaijan | 8,561 |
-| 5 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 8,264 |
-| 6 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 8,077 |
+| 5 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 8,410 |
+| 6 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 8,264 |
 | 7 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Azerbaijan, Baku | 8,065 |
 | 8 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Baku | 7,278 |
 | 9 | [Rizayev](https://github.com/Rizayev) | Elsevar | Azerbaijan | 7,074 |
@@ -38,7 +38,7 @@ Indexed users: 5,094
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev | Azerbaijan | 951,933 |
-| 2 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 6,504 |
+| 2 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 6,494 |
 | 3 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 6,151 |
 | 4 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 5,901 |
 | 5 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam | Azerbaijan | 5,510 |
@@ -83,4 +83,4 @@ Indexed users: 5,094
 | 19 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 | 20 | [yolchunasib](https://github.com/yolchunasib) | Yolchu Nasib | Baku, Azerbaijan | 251 |
 
-Generated: 2026-10-09T10:49:15.487Z
+Generated: 2026-10-09T11:36:07.801Z

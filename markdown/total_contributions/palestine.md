@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-09T10:27:38.912Z
+Generated: 2026-10-09T11:19:24.601Z
 
 Users: 2210
 
@@ -12,13 +12,13 @@ Users: 2210
 | 4 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS |  |  | Palestine | 11579 |
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 8066 |
 | 6 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 6969 |
-| 7 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 6602 |
-| 8 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 5781 |
-| 9 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5505 |
-| 10 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
-| 11 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 5336 |
-| 12 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
-| 13 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 4548 |
+| 7 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
+| 8 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 6602 |
+| 9 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 5781 |
+| 10 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5505 |
+| 11 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
+| 12 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 5336 |
+| 13 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
 | 14 | [mghabin](https://github.com/mghabin) | Mohammad Ghabin | ASAL Technologies (Microsoft) |  | Palestine, Ramallah | 4455 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |

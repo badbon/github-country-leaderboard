@@ -26,7 +26,7 @@ Indexed users: 3,110
 | 12 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
 | 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
 | 14 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
-| 15 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,682 |
+| 15 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
 | 16 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
 | 17 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
 | 18 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 6,551 |
@@ -83,4 +83,4 @@ Indexed users: 3,110
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-09T10:33:51.370Z
+Generated: 2026-10-09T11:24:27.416Z

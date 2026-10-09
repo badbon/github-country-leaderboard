@@ -54,9 +54,9 @@ Indexed users: 5,817
 | 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
 | 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Algiers, Algeria | 1,530 |
 | 17 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | Algeria | 1,410 |
-| 18 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal | Algeria | 1,390 |
-| 19 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
-| 20 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,376 |
+| 18 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia | Algeria | 1,378 |
+| 19 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane | Algeria | 1,376 |
+| 20 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Algeria | 1,330 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,817
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-09T10:44:33.001Z
+Generated: 2026-10-09T11:33:02.328Z

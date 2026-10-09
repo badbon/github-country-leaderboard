@@ -1,13 +1,13 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-09T10:49:53.104Z
+Generated: 2026-10-09T11:36:12.126Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 974 |
-| 2 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 319 |
+| 2 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 322 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 309 |
 | 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 298 |
 | 5 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | FrankLabs |  | Nassau, Bahamas | 188 |
@@ -25,4 +25,4 @@ Users: 236
 | 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 44 |
 | 18 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 44 |
 | 19 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 41 |
-| 20 | [bmo242](https://github.com/bmo242) | Brandon Morrison | BrandOn - Graphics & Web Development  |  | Nassau, Bahamas | 37 |
+| 20 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 33 |

@@ -31,7 +31,7 @@ Indexed users: 441
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,749 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,720 |
 | 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,642 |
-| 20 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | Macau | 1,524 |
+| 20 | [Nick-LCY](https://github.com/Nick-LCY) | Nick Lin | Macau | 1,517 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 441
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-09T10:20:22.260Z
+Generated: 2026-10-09T11:11:47.352Z

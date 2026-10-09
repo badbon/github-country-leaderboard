@@ -1,6 +1,6 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-09T10:46:49.734Z
+Generated: 2026-10-09T11:35:21.623Z
 
 Users: 462
 
@@ -11,16 +11,16 @@ Users: 462
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 3496 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 2996 |
 | 5 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2140 |
-| 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 1888 |
+| 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2130 |
 | 7 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1851 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Google University |  | Antarctica | 1465 |
-| 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1288 |
+| 9 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 1299 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1163 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1130 |
 | 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 748 |
 | 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 708 |
 | 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 654 |
-| 15 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 606 |
+| 15 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 605 |
 | 16 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 534 |
 | 17 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
 | 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 513 |

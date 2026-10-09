@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-09T10:33:51.370Z
+Generated: 2026-10-09T11:24:27.416Z
 
 Users: 3110
 
@@ -20,7 +20,7 @@ Users: 3110
 | 12 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
 | 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 8260 |
 | 14 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
-| 15 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6682 |
+| 15 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
 | 16 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
 | 17 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
 | 18 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 6551 |

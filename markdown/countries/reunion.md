@@ -30,7 +30,7 @@ Indexed users: 212
 | 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,488 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,477 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,351 |
-| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,210 |
+| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,219 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 1,152 |
 
 ## Public Contributions
@@ -48,8 +48,8 @@ Indexed users: 212
 | 9 | [John361](https://github.com/John361) | John | Réunion | 343 |
 | 10 | [W-D0n](https://github.com/W-D0n) | D0n | Reunion Island | 335 |
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 308 |
-| 12 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | Reunion Island | 293 |
-| 13 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 288 |
+| 12 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 288 |
+| 13 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | Reunion Island | 283 |
 | 14 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault | Réunion island  | 280 |
 | 15 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  93210, Saint-Denis | 276 |
 | 16 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL | Reunion Island | 267 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-09T10:30:33.059Z
+Generated: 2026-10-09T11:20:55.857Z

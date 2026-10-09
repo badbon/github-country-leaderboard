@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-09T10:38:06.875Z
+Generated: 2026-10-09T11:27:48.771Z
 
 Users: 1482
 
@@ -11,9 +11,9 @@ Users: 1482
 | 3 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | Rako |  | syria | 303 |
 | 4 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 303 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 216 |
-| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 203 |
-| 7 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |
-| 8 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 172 |
+| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 202 |
+| 7 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 176 |
+| 8 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |
 | 9 | [Rami-Sabbagh](https://github.com/Rami-Sabbagh) | Rami Sabbagh |  |  | Damascus, Syria | 156 |
 | 10 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran |  |  | Syria | 155 |
 | 11 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 145 |

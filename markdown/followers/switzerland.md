@@ -1,6 +1,6 @@
 # Followers - Switzerland
 
-Generated: 2026-10-09T10:37:28.362Z
+Generated: 2026-10-09T11:27:26.112Z
 
 Users: 24077
 

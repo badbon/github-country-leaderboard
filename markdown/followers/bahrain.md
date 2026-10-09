@@ -1,14 +1,14 @@
 # Followers - Bahrain
 
-Generated: 2026-10-09T10:50:26.165Z
+Generated: 2026-10-09T11:36:15.097Z
 
 Users: 728
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Community | walidshaari | Bahrain | 715 |
+| 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Community | walidshaari | Bahrain | 721 |
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | XGENO Software | xgeno | Bahrain | 243 |
-| 3 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 121 |
+| 3 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 120 |
 | 4 | [0xRar](https://github.com/0xRar) |  |  | fcv9_q | Bahrain | 113 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 110 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 106 |
@@ -20,9 +20,9 @@ Users: 728
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | AIP Genius |  | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 64 |
 | 14 | [sayed3li97](https://github.com/sayed3li97) | Sayed Ali Alkamel |  | sayed3li97 | Bahrain | 62 |
-| 15 | [a7madev](https://github.com/a7madev) | A7madev |  |  | Bahrain | 52 |
+| 15 | [a7madev](https://github.com/a7madev) | Ahmad Gerashi |  |  | Bahrain | 53 |
 | 16 | [almadhoob](https://github.com/almadhoob) | Ahmed Almadhoob | @founders-bh |  | Manama, Bahrain | 51 |
-| 17 | [veno](https://github.com/veno) | Venomous Committer |  |  | Bahrain | 44 |
+| 17 | [veno](https://github.com/veno) | Venomous Committer |  |  | Bahrain | 45 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees |  |  | Manama, Bahrain | 42 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT |  |  | Bahrain | 42 |
-| 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa |  | iamohdisa | Bahrain | 37 |
+| 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | INFINITEWARE |  | Bahrain | 38 |

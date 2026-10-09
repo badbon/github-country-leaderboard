@@ -13,7 +13,7 @@ Indexed users: 1,482
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | Syria, Damascus | 8,001 |
-| 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,895 |
+| 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 5,707 |
 | 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi | Homs, Syria | 3,880 |
 | 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 3,786 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 3,587 |
@@ -28,16 +28,16 @@ Indexed users: 1,482
 | 14 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,986 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,825 |
 | 16 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,795 |
-| 17 | [z44d](https://github.com/z44d) | Za¡d | Damascus, Syria | 1,708 |
-| 18 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,676 |
-| 19 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
-| 20 | [abd-shan](https://github.com/abd-shan) | Abdulkader Shanbour | Damascus,Syria | 1,505 |
+| 17 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 1,728 |
+| 18 | [z44d](https://github.com/z44d) | Za¡d | Damascus, Syria | 1,708 |
+| 19 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,676 |
+| 20 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 3,551 |
+| 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 4,645 |
 | 2 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 2,974 |
 | 3 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,917 |
 | 4 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,807 |
@@ -67,9 +67,9 @@ Indexed users: 1,482
 | 3 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 303 |
 | 4 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 303 |
 | 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 216 |
-| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 203 |
-| 7 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 174 |
-| 8 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 172 |
+| 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 202 |
+| 7 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 176 |
+| 8 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 174 |
 | 9 | [Rami-Sabbagh](https://github.com/Rami-Sabbagh) | Rami Sabbagh | Damascus, Syria | 156 |
 | 10 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran | Syria | 155 |
 | 11 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Syria | 145 |
@@ -83,4 +83,4 @@ Indexed users: 1,482
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-09T10:38:06.875Z
+Generated: 2026-10-09T11:27:48.771Z

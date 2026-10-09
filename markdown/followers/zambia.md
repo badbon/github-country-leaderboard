@@ -1,8 +1,8 @@
 # Followers - Zambia
 
-Generated: 2026-10-09T10:42:37.464Z
+Generated: 2026-10-09T11:31:08.381Z
 
-Users: 1346
+Users: 1345
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1346
 | 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | TechTonic Inc. | yambwa_imwaka | Zambia | 107 |
 | 18 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Kuseni Digital Inc Zambia |  | Lusaka, Zambia | 105 |
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  | mwanzabj |  Lusaka, Zambia | 105 |
-| 20 | [kshula](https://github.com/kshula) | Kampamba Shula |  | Kampamba_Shula | Lusaka | 104 |
+| 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Quick programming |  | Lusaka, Zambia | 103 |

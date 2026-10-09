@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,693
+Indexed users: 4,692
 
 | Leaderboard | Link |
 |---|---|
@@ -20,18 +20,18 @@ Indexed users: 4,693
 | 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
 | 7 | [potyl](https://github.com/potyl) | Emmanuel Rodriguez | Bratislava, Slovakia | 10,414 |
 | 8 | [thecubbe](https://github.com/thecubbe) | TheCubbe | Slovakia | 9,956 |
-| 9 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
-| 10 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
-| 11 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
-| 12 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
-| 13 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
-| 14 | [samuelpatro](https://github.com/samuelpatro) | Samuel | Slovakia | 8,263 |
-| 15 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Slovakia | 7,973 |
-| 16 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
-| 17 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Bratislava | 7,837 |
-| 18 | [reneklacan](https://github.com/reneklacan) | René Klačan | Slovakia | 7,702 |
-| 19 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 7,494 |
-| 20 | [jozokovac](https://github.com/jozokovac) | Jozo Kovac | Bratislava | 7,175 |
+| 9 | [dimaver6work](https://github.com/dimaver6work) | Dmytro | Bratislava, Slovakia | 9,941 |
+| 10 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
+| 11 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
+| 12 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
+| 13 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
+| 14 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
+| 15 | [samuelpatro](https://github.com/samuelpatro) | Samuel | Slovakia | 8,263 |
+| 16 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Slovakia | 7,973 |
+| 17 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
+| 18 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Bratislava | 7,837 |
+| 19 | [reneklacan](https://github.com/reneklacan) | René Klačan | Slovakia | 7,702 |
+| 20 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 7,494 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,693
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-09T10:33:45.291Z
+Generated: 2026-10-09T11:23:59.143Z

@@ -1,6 +1,6 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-09T10:30:33.059Z
+Generated: 2026-10-09T11:20:55.857Z
 
 Users: 212
 
@@ -17,8 +17,8 @@ Users: 212
 | 9 | [John361](https://github.com/John361) | John |  |  | Réunion | 343 |
 | 10 | [W-D0n](https://github.com/W-D0n) | D0n |  |  | Reunion Island | 335 |
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 308 |
-| 12 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 293 |
-| 13 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 288 |
+| 12 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 288 |
+| 13 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 283 |
 | 14 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
 | 15 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
 | 16 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |

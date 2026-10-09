@@ -42,10 +42,10 @@ Indexed users: 39,049
 | 3 | [assert-bot](https://github.com/assert-bot) |  | Stockholm | 31,285 |
 | 4 | [dadobt](https://github.com/dadobt) | Danail Vilos | Stockholm | 17,620 |
 | 5 | [yeager](https://github.com/yeager) | Daniel Nylander | Stockholm, Sweden | 17,459 |
-| 6 | [eddlgtm](https://github.com/eddlgtm) |  | Stockholm, Sweden | 16,407 |
-| 7 | [eddthelucky](https://github.com/eddthelucky) |  | Stockholm, Sweden | 14,322 |
-| 8 | [23min](https://github.com/23min) | Peter Bruinsma | Sweden | 13,288 |
-| 9 | [magnusfroste](https://github.com/magnusfroste) | Froste | Stockholm | 13,030 |
+| 6 | [eddthelucky](https://github.com/eddthelucky) |  | Stockholm, Sweden | 14,322 |
+| 7 | [23min](https://github.com/23min) | Peter Bruinsma | Sweden | 13,288 |
+| 8 | [magnusfroste](https://github.com/magnusfroste) | Froste | Stockholm | 13,030 |
+| 9 | [eddlgtm](https://github.com/eddlgtm) |  | Stockholm, Sweden | 12,506 |
 | 10 | [jolars](https://github.com/jolars) | Johan Larsson | Lund, Sweden | 11,487 |
 | 11 | [mattias800](https://github.com/mattias800) | Mattias Andersson | Göteborg, Sweden | 11,413 |
 | 12 | [Zoooooomies](https://github.com/Zoooooomies) | Edd Schauman-Haigh | Stockholm, Sweden | 11,278 |
@@ -83,4 +83,4 @@ Indexed users: 39,049
 | 19 | [tobiasahlin](https://github.com/tobiasahlin) | Tobias Ahlin | Sweden | 2,667 |
 | 20 | [sonyxperiadev](https://github.com/sonyxperiadev) | Sony – Developer World for Xperia | Sweden | 2,664 |
 
-Generated: 2026-10-09T10:37:02.973Z
+Generated: 2026-10-09T11:27:20.149Z

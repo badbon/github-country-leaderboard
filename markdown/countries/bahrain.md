@@ -19,11 +19,11 @@ Indexed users: 728
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,045 |
 | 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 5,444 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,407 |
-| 8 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,075 |
-| 9 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,660 |
-| 10 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,427 |
-| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,417 |
-| 12 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
+| 8 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,375 |
+| 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,075 |
+| 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,660 |
+| 11 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,427 |
+| 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,417 |
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,119 |
 | 14 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,774 |
 | 15 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,769 |
@@ -38,7 +38,7 @@ Indexed users: 728
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,239 |
-| 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
+| 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,375 |
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 2,839 |
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,661 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,147 |
@@ -62,9 +62,9 @@ Indexed users: 728
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Bahrain | 715 |
+| 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Bahrain | 721 |
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | Bahrain | 243 |
-| 3 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 121 |
+| 3 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 120 |
 | 4 | [0xRar](https://github.com/0xRar) |  | Bahrain | 113 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid | Bahrain/Kuwait | 110 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 106 |
@@ -76,11 +76,11 @@ Indexed users: 728
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 64 |
 | 14 | [sayed3li97](https://github.com/sayed3li97) | Sayed Ali Alkamel | Bahrain | 62 |
-| 15 | [a7madev](https://github.com/a7madev) | A7madev | Bahrain | 52 |
+| 15 | [a7madev](https://github.com/a7madev) | Ahmad Gerashi | Bahrain | 53 |
 | 16 | [almadhoob](https://github.com/almadhoob) | Ahmed Almadhoob | Manama, Bahrain | 51 |
-| 17 | [veno](https://github.com/veno) | Venomous Committer | Bahrain | 44 |
+| 17 | [veno](https://github.com/veno) | Venomous Committer | Bahrain | 45 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees | Manama, Bahrain | 42 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
-| 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
+| 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 38 |
 
-Generated: 2026-10-09T10:50:26.165Z
+Generated: 2026-10-09T11:36:15.097Z

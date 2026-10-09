@@ -49,9 +49,9 @@ Indexed users: 2,203
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
 | 11 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
 | 12 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
-| 13 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
-| 14 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
-| 15 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,737 |
+| 13 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
+| 14 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
+| 15 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
 | 16 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
 | 17 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
 | 18 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
@@ -83,4 +83,4 @@ Indexed users: 2,203
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-09T10:20:16.900Z
+Generated: 2026-10-09T11:11:43.223Z

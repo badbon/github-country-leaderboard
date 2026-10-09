@@ -15,8 +15,8 @@ Indexed users: 236
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 21,440 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,221 |
 | 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,115 |
-| 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,859 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,468 |
+| 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,881 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,479 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,027 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,637 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,442 |
@@ -30,7 +30,7 @@ Indexed users: 236
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
 | 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 538 |
-| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 321 |
+| 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 322 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 298 |
 
 ## Public Contributions
@@ -38,7 +38,7 @@ Indexed users: 236
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 974 |
-| 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 319 |
+| 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 322 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 309 |
 | 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 298 |
 | 5 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 188 |
@@ -56,7 +56,7 @@ Indexed users: 236
 | 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 44 |
 | 18 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 44 |
 | 19 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
-| 20 | [bmo242](https://github.com/bmo242) | Brandon Morrison | Nassau, Bahamas | 37 |
+| 20 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 33 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-09T10:49:53.104Z
+Generated: 2026-10-09T11:36:12.126Z

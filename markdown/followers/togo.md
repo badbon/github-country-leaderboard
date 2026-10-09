@@ -1,6 +1,6 @@
 # Followers - Togo
 
-Generated: 2026-10-09T10:39:24.264Z
+Generated: 2026-10-09T11:28:44.618Z
 
 Users: 679
 
@@ -17,7 +17,7 @@ Users: 679
 | 9 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian |  |  | Togo | 102 |
 | 10 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | @GSM_ADJAA_COMPANY |  | Togo | 101 |
 | 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Kaba Delivery | TambanaEssohana | Lomé, Togo | 89 |
-| 12 | [koffisani](https://github.com/koffisani) | Koffi SANI |  | koffisani | Lomé, TOGO | 80 |
+| 12 | [koffisani](https://github.com/koffisani) | Koffi SANI |  | koffisani | Lomé, TOGO | 81 |
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | @TPG | toutpuissantged | togo | 80 |
 | 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 75 |
 | 15 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Ecole Polytechnique de Lomé |  | Lomé-Togo | 75 |

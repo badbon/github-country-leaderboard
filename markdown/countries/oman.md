@@ -67,7 +67,7 @@ Indexed users: 995
 | 3 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
 | 4 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 221 |
 | 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 201 |
-| 6 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 194 |
+| 6 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 187 |
 | 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 183 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 174 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 173 |
@@ -83,4 +83,4 @@ Indexed users: 995
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-09T10:26:30.441Z
+Generated: 2026-10-09T11:18:53.171Z

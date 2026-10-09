@@ -51,7 +51,7 @@ Indexed users: 296
 | 12 | [projekt-kombil](https://github.com/projekt-kombil) | Alefay Kombil | Papua New Guinea | 226 |
 | 13 | [Thafundraiser007](https://github.com/Thafundraiser007) | Jamill Naipao  | Papua New Guinea, NCD, Port Moresby  | 222 |
 | 14 | [EzraMulaga](https://github.com/EzraMulaga) | Ezra Mulaga | Papua New Guinea | 216 |
-| 15 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Port Moresby, Papua New Guinea | 195 |
+| 15 | [Sethsam675](https://github.com/Sethsam675) | Seth Sam | Port Moresby, Papua New Guinea | 198 |
 | 16 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 169 |
 | 17 | [Valdaz007](https://github.com/Valdaz007) | Victor Volsavai | Port Moresby, Papua New Guinea | 153 |
 | 18 | [kiufungeon](https://github.com/kiufungeon) | Jenny Carter | Walkerstad, Papua New Guinea | 132 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-09T10:28:48.145Z
+Generated: 2026-10-09T11:19:29.125Z

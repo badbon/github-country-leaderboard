@@ -1,6 +1,6 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-09T10:44:33.001Z
+Generated: 2026-10-09T11:33:02.328Z
 
 Users: 5817
 
@@ -23,6 +23,6 @@ Users: 5817
 | 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | CorpoSense |  | Algeria | 1551 |
 | 16 | [qamro](https://github.com/qamro) | Mohamed Qamar Eddine Bakhouche | Higher School of Computer Science and Digital Technologies ESTIN Béjaia |  | Algiers, Algeria | 1530 |
 | 17 | [nexus-scholar](https://github.com/nexus-scholar) | Bekhouche Mouadh | University of Oum El Bouagui |  | Algeria | 1410 |
-| 18 | [Nidhal-Khazene](https://github.com/Nidhal-Khazene) | Nidhal |  |  | Algeria | 1390 |
-| 19 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 1378 |
-| 20 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane |  |  | Algeria | 1376 |
+| 18 | [s77rt](https://github.com/s77rt) | Abdelhafidh Belalia |  |  | Algeria | 1378 |
+| 19 | [SaddexRnx](https://github.com/SaddexRnx) | Saddek Renane |  |  | Algeria | 1376 |
+| 20 | [Vtheonly](https://github.com/Vtheonly) | Mersel Fares | Make it Visual |  | Algeria | 1330 |

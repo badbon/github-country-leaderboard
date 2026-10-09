@@ -1,6 +1,6 @@
 # Sri Lanka
 
-Indexed users: 18,332
+Indexed users: 18,330
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 18,332
 | 19 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas | Colombo , Srilanka | 639 |
 | 20 | [ChanithaAbey](https://github.com/ChanithaAbey) | Chanitha Abeygunawardena  | Colombo, Sri Lanka | 629 |
 
-Generated: 2026-10-09T10:35:26.341Z
+Generated: 2026-10-09T11:27:05.993Z

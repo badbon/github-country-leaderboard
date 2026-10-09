@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-09T10:49:15.487Z
+Generated: 2026-10-09T11:36:07.801Z
 
 Users: 5094
 
@@ -10,8 +10,8 @@ Users: 5094
 | 2 | [martian56](https://github.com/martian56) | Martian | @Alievs-corp |  | Azerbaijan | 17710 |
 | 3 | [ruslanabdullayev01](https://github.com/ruslanabdullayev01) | Ruslan Abdullayev |  |  | Azerbaijan | 10183 |
 | 4 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam |  |  | Azerbaijan | 8561 |
-| 5 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 8264 |
-| 6 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev |  |  | Baku | 8077 |
+| 5 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev |  |  | Baku | 8410 |
+| 6 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 8264 |
 | 7 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Chevveek LLC |  | Azerbaijan, Baku | 8065 |
 | 8 | [eynullabeyli](https://github.com/eynullabeyli) | Yusif Eynullabayli | Earth | steprider0 | Baku | 7278 |
 | 9 | [Rizayev](https://github.com/Rizayev) | Elsevar | FREELANCE |  | Azerbaijan | 7074 |
