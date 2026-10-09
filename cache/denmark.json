@@ -9380,7 +9380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 1,
     "createdAt": "2024-05-06T12:01:38Z"
   },
   {
@@ -9391,7 +9391,7 @@
     "company": "@nerdic-ai ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4916,
+    "privateContributions": 7634,
     "publicContributions": 38,
     "createdAt": "2024-05-10T08:57:54Z"
   },
@@ -9404,7 +9404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 406,
-    "publicContributions": 245,
+    "publicContributions": 489,
     "createdAt": "2024-04-27T18:44:17Z"
   },
   {
@@ -9415,8 +9415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 3,
+    "privateContributions": 27,
+    "publicContributions": 7,
     "createdAt": "2024-07-01T13:32:10Z"
   },
   {
@@ -9475,7 +9475,7 @@
     "company": "Effectiondk",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 341,
+    "privateContributions": 1345,
     "publicContributions": 0,
     "createdAt": "2024-01-04T12:16:08Z"
   },
@@ -9524,19 +9524,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 277,
+    "publicContributions": 226,
     "createdAt": "2024-10-07T11:12:51Z"
   },
   {
     "login": "SandraKildemose",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186743043?s=72&v=4",
+    "name": "Sandra Kildemose Jørgensen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186743043?s=72&u=122a0577a30f0ec02a61660bed23279530bc8322&v=4",
     "location": "Paris/Stockholm/Copenhagen",
     "company": "SkiMo",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2024-10-29T17:25:57Z"
   },
   {
@@ -9544,7 +9544,7 @@
     "name": "Lince Mathew Varghese",
     "avatarUrl": "https://avatars.githubusercontent.com/u/175217858?s=72&v=4",
     "location": "Copenhagen",
-    "company": "TDC Erhverv",
+    "company": "@nuuday | TDC Erhverv",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -9596,7 +9596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 91,
     "createdAt": "2024-01-06T12:29:12Z"
   },
   {
@@ -231682,5 +231682,17 @@
     "privateContributions": 0,
     "publicContributions": 89,
     "createdAt": "2024-09-25T15:35:42Z"
+  },
+  {
+    "login": "ardaturker",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67641755?s=72&v=4",
+    "location": "Denmark",
+    "company": "OJ Electronics",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 59,
+    "createdAt": "2020-06-30T13:14:14Z"
   }
 ]

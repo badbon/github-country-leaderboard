@@ -9354,9 +9354,9 @@
     "location": "Amman, Jordan",
     "company": "orphanage",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 400,
-    "publicContributions": 555,
+    "followers": 14,
+    "privateContributions": 168,
+    "publicContributions": 672,
     "createdAt": "2023-11-21T15:11:00Z"
   },
   {
@@ -9367,7 +9367,7 @@
     "company": "",
     "twitterUsername": "ahmedmansourv",
     "followers": 12,
-    "privateContributions": 0,
+    "privateContributions": 90,
     "publicContributions": 4,
     "createdAt": "2023-11-23T06:42:16Z"
   },
@@ -9378,22 +9378,10 @@
     "location": "Amman,Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2023-01-19T13:20:04Z"
-  },
-  {
-    "login": "Murtadha22",
-    "name": "Murtadha ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151559801?s=72&u=a205b92fcbc718b0e6d53eeecacff8cfbfa9e382&v=4",
-    "location": "Jordan",
-    "company": "Leading Point",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-11-20T16:58:32Z"
   },
   {
     "login": "Anasalnasr",
@@ -9450,9 +9438,9 @@
     "location": "Jordan",
     "company": "Dev",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 399,
-    "publicContributions": 436,
+    "followers": 12,
+    "privateContributions": 482,
+    "publicContributions": 499,
     "createdAt": "2023-05-31T08:13:18Z"
   },
   {
@@ -9462,9 +9450,9 @@
     "location": "jordan",
     "company": "education",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 5,
     "createdAt": "2023-02-18T11:17:25Z"
   },
   {
@@ -9474,9 +9462,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 464,
+    "followers": 11,
+    "privateContributions": 30,
+    "publicContributions": 600,
     "createdAt": "2023-01-08T18:24:17Z"
   },
   {
@@ -9486,17 +9474,17 @@
     "location": "Jordan",
     "company": "@Delta-Sec ",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 194,
+    "publicContributions": 206,
     "createdAt": "2023-03-04T07:39:20Z"
   },
   {
     "login": "Sa4b",
-    "name": "سلام صلاح الدين عبد الأول عبد القادر",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130103278?s=72&u=3ba66e13a0822268b6e395c038b4f06feb2c1b87&v=4",
+    "name": "s4rtawi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130103278?s=72&u=eab7ae74fe5e18a29587235ebd7e5e635c934860&v=4",
     "location": "Zarqa, Jordan",
-    "company": "Zarqa University (جامعة الزرقاء الخاصة)",
+    "company": "",
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
@@ -9506,13 +9494,13 @@
   {
     "login": "ghosheh33",
     "name": "ghosheh33",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128806856?s=72&u=d9e5eefccacd44dfe9a4facad0f4038df06db087&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128806856?s=72&u=6d33e5a4bbc2aa7b176ee1ab49ba4a1b87265429&v=4",
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 163,
     "createdAt": "2023-03-24T11:24:06Z"
   },
   {
@@ -9522,9 +9510,9 @@
     "location": "jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 7,
-    "publicContributions": 6,
+    "followers": 12,
+    "privateContributions": 2,
+    "publicContributions": 5,
     "createdAt": "2023-02-09T11:04:51Z"
   },
   {
@@ -9548,19 +9536,19 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 19,
     "createdAt": "2023-03-08T07:30:16Z"
   },
   {
     "login": "Tareq-Bilal",
     "name": "Tareq Abu Sharkh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149328700?s=72&u=f499f6c390adda73360bc8c25735eec3c0bf819f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149328700?s=72&u=ef135f56dd3864d1f76200fbb25f28667c141e3e&v=4",
     "location": "Jordan",
     "company": "SDE @ Optimum Partners Global",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 317,
+    "publicContributions": 382,
     "createdAt": "2023-10-29T18:54:02Z"
   },
   {
@@ -9570,7 +9558,7 @@
     "location": "Amman - Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-25T10:18:36Z"

@@ -9512,7 +9512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2022-01-05T19:08:11Z"
   },
   {
@@ -9523,7 +9523,7 @@
     "company": "Rotulus Creative",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1228,
+    "privateContributions": 1203,
     "publicContributions": 1,
     "createdAt": "2022-01-25T15:48:04Z"
   },
@@ -9534,9 +9534,9 @@
     "location": "Santo Domingo, Domincan Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 39,
     "createdAt": "2022-04-22T03:07:55Z"
   },
   {
@@ -9548,7 +9548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 187,
     "createdAt": "2022-08-31T02:18:39Z"
   },
   {
@@ -9560,7 +9560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 10,
     "createdAt": "2022-05-08T23:32:14Z"
   },
   {
@@ -9578,7 +9578,7 @@
   {
     "login": "DavidRM077",
     "name": "David Antonio Ramirez Mendez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109033900?s=72&u=cefb7265bb10f34a52ba1b9d99c8cfb0766a76a5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109033900?s=72&u=06d2c74560702385c1bcdd5be1fbe54bc04f68ad&v=4",
     "location": "Santo Domingo",
     "company": "",
     "twitterUsername": "",
@@ -9644,7 +9644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-02-22T00:12:02Z"
   },
   {
@@ -9674,13 +9674,13 @@
   {
     "login": "fraineralex",
     "name": "Frainer Encarnación",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89224196?s=72&u=f205f20985b9e6ce0df927b33bba82689bfe5a50&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89224196?s=72&u=5f5995739e75869281f8ed7653e5b9b15aef24bc&v=4",
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "fraineralex",
-    "followers": 96,
-    "privateContributions": 2538,
-    "publicContributions": 155,
+    "followers": 95,
+    "privateContributions": 2921,
+    "publicContributions": 218,
     "createdAt": "2021-08-19T20:51:37Z"
   },
   {
@@ -9690,9 +9690,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 87,
+    "followers": 89,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2021-06-07T15:59:32Z"
   },
   {
@@ -9702,9 +9702,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 83,
+    "followers": 85,
     "privateContributions": 0,
-    "publicContributions": 1517,
+    "publicContributions": 1417,
     "createdAt": "2021-01-02T08:08:01Z"
   },
   {
@@ -9715,8 +9715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 64,
-    "privateContributions": 10,
-    "publicContributions": 50,
+    "privateContributions": 12,
+    "publicContributions": 56,
     "createdAt": "2021-07-31T00:34:04Z"
   },
   {
@@ -9726,9 +9726,9 @@
     "location": "Dominican Republic",
     "company": "Software engineer  | 100Devs",
     "twitterUsername": "efs0_code",
-    "followers": 53,
+    "followers": 54,
     "privateContributions": 61,
-    "publicContributions": 128,
+    "publicContributions": 135,
     "createdAt": "2021-04-11T20:52:58Z"
   },
   {

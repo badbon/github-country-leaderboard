@@ -9102,9 +9102,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 273,
+    "publicContributions": 166,
     "createdAt": "2024-10-23T09:42:27Z"
   },
   {
@@ -9116,7 +9116,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 50,
     "createdAt": "2024-11-09T08:40:34Z"
   },
   {
@@ -9126,9 +9126,9 @@
     "location": "Switzerland, Neuchâtel",
     "company": "University of Neuchâtel",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 295,
-    "publicContributions": 144,
+    "followers": 6,
+    "privateContributions": 537,
+    "publicContributions": 185,
     "createdAt": "2024-10-19T09:25:44Z"
   },
   {
@@ -9139,8 +9139,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 82,
-    "publicContributions": 61,
+    "privateContributions": 98,
+    "publicContributions": 38,
     "createdAt": "2024-06-02T14:07:36Z"
   },
   {
@@ -9152,7 +9152,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 409,
+    "publicContributions": 348,
     "createdAt": "2024-01-19T10:33:11Z"
   },
   {
@@ -9164,7 +9164,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 471,
     "createdAt": "2024-09-10T06:59:11Z"
   },
   {
@@ -9186,7 +9186,7 @@
     "location": "Switzerland",
     "company": "MikTok Agency",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-10-10T06:58:51Z"
@@ -9200,7 +9200,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 185,
+    "publicContributions": 163,
     "createdAt": "2024-02-19T22:58:10Z"
   },
   {
@@ -9222,7 +9222,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "SwissMiles",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 111,
     "publicContributions": 38,
     "createdAt": "2024-07-09T16:00:51Z"
@@ -9260,7 +9260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 43,
     "createdAt": "2024-04-15T17:32:33Z"
   },
   {
@@ -9272,7 +9272,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 49,
     "createdAt": "2024-03-22T18:53:35Z"
   },
   {
@@ -9284,7 +9284,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2024-09-19T08:58:17Z"
   },
   {
@@ -9307,8 +9307,8 @@
     "company": "@Uwitz ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 132,
-    "publicContributions": 119,
+    "privateContributions": 136,
+    "publicContributions": 63,
     "createdAt": "2024-01-04T08:29:26Z"
   },
   {
@@ -9320,7 +9320,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 112,
     "createdAt": "2024-11-18T08:22:29Z"
   },
   {
@@ -9330,7 +9330,7 @@
     "location": "Switzerland",
     "company": "LumeraLabs",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-11-04T12:00:48Z"
@@ -288910,5 +288910,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-29T20:14:28Z"
+  },
+  {
+    "login": "Pascal-Lachat",
+    "name": "Pascal Lachat",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289972112?s=72&v=4",
+    "location": "La Chaux-de-Fonds, Suisse",
+    "company": "Ville de la Chaux-de-Fonds",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-02T09:14:41Z"
+  },
+  {
+    "login": "Devs-Foundation",
+    "name": " Dev's Foundation",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297387700?s=72&u=52637b1ad50df2c9155213b8174c40c23128ed6d&v=4",
+    "location": "Suisse",
+    "company": " Dev's Foundation",
+    "twitterUsername": "DevsFoundation",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 52,
+    "createdAt": "2026-06-27T10:40:24Z"
   }
 ]

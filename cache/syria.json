@@ -9267,12 +9267,12 @@
     "login": "khaled-hoshan",
     "name": "khaled hoshan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/111223587?s=72&u=b35e557442e6ee0288e24c93c3a8bfc3deba0194&v=4",
-    "location": "Damascus/Syria",
+    "location": "Damascus, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 71,
     "createdAt": "2022-08-14T09:21:26Z"
   },
   {
@@ -9284,7 +9284,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-09-27T13:56:15Z"
   },
   {
@@ -9296,19 +9296,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 4,
     "createdAt": "2022-02-03T14:05:23Z"
   },
   {
     "login": "mahmodDAHOL",
     "name": "mahmod aldahol",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99823683?s=72&u=6e2dfd5ae5d335575f51a7008f2480021a8706fc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99823683?s=72&u=6ce90b7018d501082ebc52779afd4eaca5eaacac&v=4",
     "location": "syria",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 20,
     "createdAt": "2022-02-16T16:12:54Z"
   },
   {
@@ -9320,7 +9320,7 @@
     "twitterUsername": "kinannotfound",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 85,
     "createdAt": "2022-04-27T11:36:38Z"
   },
   {
@@ -9367,8 +9367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
-    "publicContributions": 131,
+    "privateContributions": 87,
+    "publicContributions": 102,
     "createdAt": "2022-03-24T00:21:08Z"
   },
   {
@@ -9416,7 +9416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2022-04-11T10:02:33Z"
   },
   {
@@ -9438,7 +9438,7 @@
     "location": "Syria",
     "company": "E.BTech",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-06-21T11:13:44Z"
@@ -17782,5 +17782,17 @@
     "privateContributions": 0,
     "publicContributions": 93,
     "createdAt": "2024-08-21T07:17:34Z"
+  },
+  {
+    "login": "hadyaalsayd-bot",
+    "name": "hadya alsayed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286645578?s=72&u=08e1eea829c19597eefd7a7824f2b0b802ccb0d2&v=4",
+    "location": "Damascus",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-05-21T11:32:02Z"
   }
 ]

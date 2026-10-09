@@ -9439,21 +9439,9 @@
     "company": "",
     "twitterUsername": "ezequiel_chaop",
     "followers": 21,
-    "privateContributions": 231,
-    "publicContributions": 4,
-    "createdAt": "2020-04-29T05:16:04Z"
-  },
-  {
-    "login": "anthuand",
-    "name": "AnthuanDamas ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72777844?s=72&u=10e42831139713a09500221a9f3c52fc63283433&v=4",
-    "location": "Cuba",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2020-10-13T03:03:28Z"
+    "publicContributions": 0,
+    "createdAt": "2020-04-29T05:16:04Z"
   },
   {
     "login": "Armando284",
@@ -9462,9 +9450,9 @@
     "location": "Banes, Holguín, Cuba",
     "company": "",
     "twitterUsername": "arman2p284",
-    "followers": 20,
-    "privateContributions": 550,
-    "publicContributions": 59,
+    "followers": 22,
+    "privateContributions": 784,
+    "publicContributions": 166,
     "createdAt": "2020-10-12T19:59:40Z"
   },
   {
@@ -9474,9 +9462,9 @@
     "location": "Habana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 18,
     "createdAt": "2020-11-25T21:33:13Z"
   },
   {
@@ -9486,7 +9474,7 @@
     "location": "Cuba",
     "company": "@TechnoStarCuba",
     "twitterUsername": "gveitia133",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-24T14:30:03Z"
@@ -9500,7 +9488,7 @@
     "twitterUsername": "AmdreLeon",
     "followers": 17,
     "privateContributions": 2,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-03-11T13:37:21Z"
   },
   {
@@ -9510,7 +9498,7 @@
     "location": "Cuba",
     "company": "Compartido, pero a título personal; juntos, pero no revueltos.",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-09-03T01:02:31Z"
@@ -9522,7 +9510,7 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "juanpablomato89",
-    "followers": 14,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 62,
     "createdAt": "2020-08-24T20:13:04Z"
@@ -9536,7 +9524,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 136,
     "createdAt": "2020-06-24T08:43:27Z"
   },
   {
@@ -9560,7 +9548,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 12,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2020-07-04T01:54:34Z"
   },
   {
@@ -9571,7 +9559,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 28,
+    "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2020-04-27T04:14:51Z"
   },
@@ -9583,7 +9571,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 21,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-07T18:57:05Z"
   },
@@ -9595,8 +9583,8 @@
     "company": "",
     "twitterUsername": "RafaelAndresPB",
     "followers": 10,
-    "privateContributions": 401,
-    "publicContributions": 23,
+    "privateContributions": 344,
+    "publicContributions": 12,
     "createdAt": "2020-07-31T00:42:53Z"
   },
   {
@@ -9607,7 +9595,7 @@
     "company": "",
     "twitterUsername": "sv_cu2310",
     "followers": 10,
-    "privateContributions": 205,
+    "privateContributions": 238,
     "publicContributions": 36,
     "createdAt": "2020-02-05T02:47:34Z"
   },
@@ -9631,8 +9619,8 @@
     "company": "Freelance",
     "twitterUsername": "raul_uci",
     "followers": 10,
-    "privateContributions": 345,
-    "publicContributions": 134,
+    "privateContributions": 501,
+    "publicContributions": 93,
     "createdAt": "2020-03-22T08:09:29Z"
   },
   {
@@ -9654,9 +9642,9 @@
     "location": "Matanzas/Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 365,
-    "publicContributions": 14,
+    "followers": 10,
+    "privateContributions": 484,
+    "publicContributions": 63,
     "createdAt": "2020-08-03T01:05:16Z"
   },
   {
@@ -9666,7 +9654,7 @@
     "location": "Havana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-05-23T15:42:06Z"

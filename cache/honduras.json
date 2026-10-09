@@ -9558,9 +9558,9 @@
     "location": "San Pedro Sula, Cortes, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 45,
     "createdAt": "2017-04-18T04:00:28Z"
   },
   {
@@ -9570,9 +9570,9 @@
     "location": "Honduras",
     "company": "WDSoluciones",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 712,
-    "publicContributions": 0,
+    "followers": 12,
+    "privateContributions": 627,
+    "publicContributions": 1,
     "createdAt": "2017-05-20T03:47:01Z"
   },
   {
@@ -9584,20 +9584,8 @@
     "twitterUsername": "DanilojGonzalez",
     "followers": 9,
     "privateContributions": 9,
-    "publicContributions": 34,
+    "publicContributions": 31,
     "createdAt": "2017-04-24T19:23:11Z"
-  },
-  {
-    "login": "FernandoZnga",
-    "name": "Fernando Zuniga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28021232?s=72&u=4ce74efe32db9c47fab5f6ce2cdd255c7e7da40b&v=4",
-    "location": "Honduras",
-    "company": "@fortress-technology-solutions",
-    "twitterUsername": "fernandoznga",
-    "followers": 9,
-    "privateContributions": 2506,
-    "publicContributions": 174,
-    "createdAt": "2017-04-25T19:34:16Z"
   },
   {
     "login": "eVasquez97",
@@ -9605,10 +9593,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/30580824?s=72&u=442e74f8254572336e7f032b84538875e2441bf0&v=4",
     "location": "San Pedro Sula, Honduras",
     "company": "",
-    "twitterUsername": "EBladimirVL",
+    "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 317,
-    "publicContributions": 6,
+    "privateContributions": 369,
+    "publicContributions": 10,
     "createdAt": "2017-07-31T00:24:31Z"
   },
   {
@@ -9619,7 +9607,7 @@
     "company": "",
     "twitterUsername": "ismarcotulio",
     "followers": 9,
-    "privateContributions": 1768,
+    "privateContributions": 6514,
     "publicContributions": 0,
     "createdAt": "2017-08-22T15:25:31Z"
   },
@@ -9631,8 +9619,8 @@
     "company": "Code Exitos",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1050,
-    "publicContributions": 31,
+    "privateContributions": 1097,
+    "publicContributions": 35,
     "createdAt": "2017-02-22T05:04:28Z"
   },
   {
@@ -9643,7 +9631,7 @@
     "company": "@WillinnDev ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 89,
+    "privateContributions": 218,
     "publicContributions": 1,
     "createdAt": "2017-07-25T01:45:07Z"
   },
@@ -9668,7 +9656,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 122,
+    "publicContributions": 138,
     "createdAt": "2017-11-14T20:14:52Z"
   },
   {
@@ -9691,8 +9679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 242,
-    "publicContributions": 15,
+    "privateContributions": 281,
+    "publicContributions": 14,
     "createdAt": "2017-07-27T19:26:23Z"
   },
   {
@@ -9703,20 +9691,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 82,
-    "publicContributions": 486,
+    "privateContributions": 81,
+    "publicContributions": 672,
     "createdAt": "2017-07-27T05:17:27Z"
   },
   {
     "login": "RALC365",
     "name": "Richardson Alejandro Laínez Cárcamo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/32948115?s=72&u=8d1540545c482b89131c8e9b8805d75132948f70&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32948115?s=72&u=2efa7b91e1264a849d7788e1942a6c6a26ebf128&v=4",
     "location": "Honduras",
-    "company": "@RALC-Inc, @Asegurame",
+    "company": "@RALC-Inc",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1521,
-    "publicContributions": 196,
+    "followers": 9,
+    "privateContributions": 2105,
+    "publicContributions": 200,
     "createdAt": "2017-10-20T03:14:29Z"
   },
   {
@@ -9724,11 +9712,11 @@
     "name": "Ricardo Ariel Anariba",
     "avatarUrl": "https://avatars.githubusercontent.com/u/24871240?s=72&u=a1ab5aee795845fe70064c9a9a8401e068b99411&v=4",
     "location": "Tegucigalpa, Honduras",
-    "company": "Higher Honduras",
+    "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 330,
-    "publicContributions": 46,
+    "followers": 10,
+    "privateContributions": 499,
+    "publicContributions": 72,
     "createdAt": "2017-01-02T06:47:46Z"
   },
   {
@@ -9762,8 +9750,8 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 705,
+    "followers": 8,
+    "privateContributions": 1534,
     "publicContributions": 0,
     "createdAt": "2017-08-20T01:16:04Z"
   },
@@ -9776,7 +9764,7 @@
     "twitterUsername": "CCorp20",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 6,
     "createdAt": "2017-12-01T00:54:34Z"
   },
   {
@@ -9786,7 +9774,7 @@
     "location": "Tegucigalpa, Honduras",
     "company": "New Generation Software",
     "twitterUsername": "josias_bertrand",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2017-08-01T00:43:00Z"

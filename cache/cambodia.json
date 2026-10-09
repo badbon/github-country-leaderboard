@@ -9446,13 +9446,13 @@
   {
     "login": "try-krisna",
     "name": "Try Krisna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129027420?s=72&u=225cfe14109a117e3cfc5471adb2b2101b896701&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129027420?s=72&u=65122c7c34e578733b42c5e823f344132228c977&v=4",
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 358,
-    "publicContributions": 18,
+    "privateContributions": 417,
+    "publicContributions": 13,
     "createdAt": "2023-03-27T03:53:58Z"
   },
   {
@@ -9488,7 +9488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 253,
+    "publicContributions": 251,
     "createdAt": "2023-01-25T12:43:39Z"
   },
   {
@@ -9500,7 +9500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 75,
     "createdAt": "2023-11-11T07:09:31Z"
   },
   {
@@ -9522,9 +9522,9 @@
     "location": "Phnom Penh, Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 95,
     "createdAt": "2023-05-28T05:00:40Z"
   },
   {
@@ -9546,22 +9546,10 @@
     "location": "Cambodia",
     "company": "Royal University of Phnom Penh",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-12-11T10:16:48Z"
-  },
-  {
-    "login": "VisaiCyber",
-    "name": "Hoeun Visai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137814531?s=72&u=df110b268a6909816447194d998afcb2580633b5&v=4",
-    "location": "Phnom Penh, Cambodia",
-    "company": "American University of Phnom Penh ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 73,
-    "createdAt": "2023-06-26T16:23:55Z"
   },
   {
     "login": "SreypokD",
@@ -9572,7 +9560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 162,
     "createdAt": "2023-01-09T11:40:28Z"
   },
   {
@@ -9596,7 +9584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 24,
     "createdAt": "2023-11-07T15:47:58Z"
   },
   {
@@ -9619,8 +9607,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 55,
-    "publicContributions": 22,
+    "privateContributions": 56,
+    "publicContributions": 25,
     "createdAt": "2023-04-26T12:03:50Z"
   },
   {
@@ -9632,7 +9620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 280,
+    "publicContributions": 342,
     "createdAt": "2023-11-04T05:15:15Z"
   },
   {
@@ -9642,19 +9630,19 @@
     "location": "Phnom Penh, Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1489,
-    "publicContributions": 203,
+    "followers": 2,
+    "privateContributions": 1452,
+    "publicContributions": 239,
     "createdAt": "2023-08-06T04:39:54Z"
   },
   {
     "login": "HouMengly",
     "name": "HOU Mengly",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150494887?s=72&u=c4bdc6b489163e80e2166f4081ba0ece8865f237&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150494887?s=72&v=4",
     "location": "Cambodia, Phnom Penh",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2023-11-11T01:44:14Z"
@@ -9667,8 +9655,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 457,
-    "publicContributions": 234,
+    "privateContributions": 144,
+    "publicContributions": 78,
     "createdAt": "2023-08-04T16:06:36Z"
   },
   {
