@@ -42,9 +42,9 @@ Indexed users: 2,204
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,451 |
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 4,387 |
 | 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,004 |
-| 6 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
-| 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,639 |
-| 8 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,216 |
+| 6 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,960 |
+| 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
+| 8 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,639 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
 | 11 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
@@ -83,4 +83,4 @@ Indexed users: 2,204
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-09T00:28:27.693Z
+Generated: 2026-10-09T01:39:17.393Z

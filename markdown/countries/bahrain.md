@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 729
+Indexed users: 728
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 729
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 81,703 |
+| 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 118,426 |
 | 2 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 12,599 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,049 |
 | 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,239 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-08T23:55:08.069Z
+Generated: 2026-10-09T01:08:44.618Z

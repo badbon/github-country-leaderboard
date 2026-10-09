@@ -22,7 +22,7 @@ Indexed users: 441
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,296 |
 | 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,272 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,854 |
-| 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,345 |
+| 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,335 |
 | 12 | [Alex-Leong](https://github.com/Alex-Leong) | Alex | Macau | 2,261 |
 | 13 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,257 |
 | 14 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,098 |
@@ -83,4 +83,4 @@ Indexed users: 441
 | 19 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 | 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 66 |
 
-Generated: 2026-10-09T00:28:30.517Z
+Generated: 2026-10-09T01:39:19.905Z

@@ -15,39 +15,39 @@ Indexed users: 4,908
 | 1 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 11,911 |
 | 2 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | Ecuador | 11,630 |
 | 3 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
-| 4 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 9,974 |
-| 5 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,478 |
-| 6 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
-| 7 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
-| 8 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,335 |
-| 9 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
-| 10 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
-| 11 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
-| 12 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
-| 13 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 6,286 |
-| 14 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
-| 15 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
-| 16 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
-| 17 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 5,412 |
-| 18 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
-| 19 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
-| 20 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
+| 4 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,478 |
+| 5 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
+| 6 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
+| 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,335 |
+| 8 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
+| 9 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
+| 10 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
+| 11 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
+| 12 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 6,286 |
+| 13 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
+| 14 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
+| 15 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
+| 16 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 5,412 |
+| 17 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
+| 18 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
+| 19 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
+| 20 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 4,983 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
-| 2 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 9,974 |
-| 3 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,477 |
-| 4 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 6,973 |
-| 5 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
-| 6 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
-| 7 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
-| 8 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla | Ecuador | 3,763 |
-| 9 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
-| 10 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
-| 11 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,443 |
+| 2 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,477 |
+| 3 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 6,973 |
+| 4 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
+| 5 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
+| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
+| 7 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla | Ecuador | 3,763 |
+| 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
+| 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
+| 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,443 |
+| 11 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 2,376 |
 | 12 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,318 |
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
@@ -83,4 +83,4 @@ Indexed users: 4,908
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 
-Generated: 2026-10-09T00:09:49.441Z
+Generated: 2026-10-09T01:20:56.896Z

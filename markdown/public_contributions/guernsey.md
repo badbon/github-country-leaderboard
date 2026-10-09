@@ -1,6 +1,6 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-09T00:15:23.681Z
+Generated: 2026-10-09T01:28:22.768Z
 
 Users: 45
 
@@ -17,10 +17,10 @@ Users: 45
 | 9 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
 | 10 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |
 | 11 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |
-| 12 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 4 |
-| 13 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |
-| 14 | [TINZ](https://github.com/TINZ) | Paul Tinsley |  |  | Guernsey | 3 |
-| 15 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 2 |
+| 12 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Man The Programmer, LLC |  | Guernsey | 3 |
+| 13 | [TINZ](https://github.com/TINZ) | Paul Tinsley |  |  | Guernsey | 3 |
+| 14 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 2 |
+| 15 | [TheCodingCarlson](https://github.com/TheCodingCarlson) | Chris Carlson | Rothschild & Co |  | Guernsey | 2 |
 | 16 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 2 |
 | 17 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 1 |
 | 18 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1 |

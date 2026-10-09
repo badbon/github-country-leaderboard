@@ -1,6 +1,6 @@
 # Iran
 
-Indexed users: 26,777
+Indexed users: 26,868
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 26,777
 | 17 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Iran | 11,771 |
 | 18 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | Mashhad, Iran | 11,006 |
 | 19 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | Tehran, Iran | 10,530 |
-| 20 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | iran | 8,638 |
+| 20 | [Erfanlotfinia](https://github.com/Erfanlotfinia) | Erfan Lotfinia | Tehran, Iran | 9,510 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 26,777
 | 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,388 |
 | 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi | Shiraz,Iran | 1,352 |
 
-Generated: 2026-10-09T00:18:52.109Z
+Generated: 2026-10-09T01:30:40.118Z

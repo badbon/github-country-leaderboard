@@ -67,7 +67,7 @@ Indexed users: 745
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi | Libya | 88 |
 | 4 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda | Benghazi, Libya | 86 |
 | 5 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 86 |
-| 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 81 |
+| 6 | [Altaeb](https://github.com/Altaeb) | Abdelfattah Altaeb | Libya | 80 |
 | 7 | [boomeradhd](https://github.com/boomeradhd) | Boomer | Tripoli, Libya | 77 |
 | 8 | [qw46478](https://github.com/qw46478) | WZ_asaeh | Libya | 77 |
 | 9 | [mohimenly1](https://github.com/mohimenly1) | Mohimen Tantoush | Tripoli | 76 |
@@ -83,4 +83,4 @@ Indexed users: 745
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-09T00:27:48.891Z
+Generated: 2026-10-09T01:38:15.965Z

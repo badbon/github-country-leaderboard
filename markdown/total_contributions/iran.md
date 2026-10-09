@@ -1,8 +1,8 @@
 # Total Contributions - Iran
 
-Generated: 2026-10-09T00:18:52.109Z
+Generated: 2026-10-09T01:30:40.118Z
 
-Users: 26777
+Users: 26868
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 26777
 | 17 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Rayan programming education center |  | Iran | 11771 |
 | 18 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | @AlephbaSystem  |  | Mashhad, Iran | 11006 |
 | 19 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | @K2Quant  |  | Tehran, Iran | 10530 |
-| 20 | [kamisaberi](https://github.com/kamisaberi) | kamran saberifard | aryorithm |  | iran | 8638 |
+| 20 | [Erfanlotfinia](https://github.com/Erfanlotfinia) | Erfan Lotfinia |  |  | Tehran, Iran | 9510 |

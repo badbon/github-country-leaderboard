@@ -1,12 +1,12 @@
 # Followers - French Guiana
 
-Generated: 2026-10-09T00:12:21.508Z
+Generated: 2026-10-09T01:24:15.150Z
 
 Users: 36
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | Freelancer |  | French Guiana | 18 |
+| 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | Freelancer |  | French Guiana | 19 |
 | 2 | [emmanoe](https://github.com/emmanoe) | Emmanoe |  |  | Guyane, South - America | 15 |
 | 3 | [MelPeslier](https://github.com/MelPeslier) | Mel |  |  | Guyane  | 11 |
 | 4 | [geommon](https://github.com/geommon) | Milo | Université de Guyane |  | Cayenne | 10 |

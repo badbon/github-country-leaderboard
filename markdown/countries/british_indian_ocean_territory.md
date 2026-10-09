@@ -14,14 +14,14 @@ Indexed users: 3
 |---:|---|---|---|---:|
 | 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 684 |
 | 2 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 546 |
-| 3 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 60 |
+| 3 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 59 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [LixvYang](https://github.com/LixvYang) | Larson | British Indian Ocean Territory | 232 |
-| 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 59 |
+| 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 58 |
 | 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 26 |
 
 ## Followers
@@ -32,4 +32,4 @@ Indexed users: 3
 | 2 | [katarighe](https://github.com/katarighe) | Mohamed Aden Ighe | Diego Garcia | 50 |
 | 3 | [linuxdistribution](https://github.com/linuxdistribution) | linuxdistribution | British Indian Ocean Territory | 8 |
 
-Generated: 2026-10-08T23:58:35.562Z
+Generated: 2026-10-09T01:12:23.712Z

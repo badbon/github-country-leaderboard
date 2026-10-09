@@ -1,6 +1,6 @@
 # Public Contributions - Panama
 
-Generated: 2026-10-09T00:43:34.647Z
+Generated: 2026-10-09T01:51:17.866Z
 
 Users: 1072
 
@@ -24,5 +24,5 @@ Users: 1072
 | 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira |  |  | Panama | 942 |
 | 17 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 886 |
 | 18 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Jaimelías | jaimepanama | Panama City, Panama | 844 |
-| 19 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Universidad de Panamá | devdDavid507 | Santiago, Veraguas, Panamá | 793 |
-| 20 | [notSoEliel](https://github.com/notSoEliel) | Eliel García |  | soloeliel | Panama City, Panama, Panama | 793 |
+| 19 | [josearpaiaq](https://github.com/josearpaiaq) | Jose Arpaia Q | Bluecore S.A. |  | Panama | 826 |
+| 20 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Universidad de Panamá | devdDavid507 | Santiago, Veraguas, Panamá | 793 |

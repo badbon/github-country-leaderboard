@@ -15,9 +15,9 @@ Indexed users: 268
 | 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 5,755 |
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,103 |
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,615 |
-| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,533 |
+| 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,515 |
 | 5 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,392 |
-| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,334 |
+| 6 | [jimbatshetrim](https://github.com/jimbatshetrim) | Jimba Tshetrim | Thimphu, Bhutan | 3,332 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye | Bhutan | 2,675 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | Bhutan | 2,617 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 2,374 |
@@ -44,7 +44,7 @@ Indexed users: 268
 | 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
 | 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 742 |
 | 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 436 |
-| 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 397 |
+| 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 385 |
 | 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 323 |
 | 10 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 310 |
 | 11 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 297 |
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-08T23:56:48.965Z
+Generated: 2026-10-09T01:10:37.004Z

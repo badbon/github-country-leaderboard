@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-09T00:34:53.941Z
+Generated: 2026-10-09T01:43:24.901Z
 
 Users: 475
 
@@ -15,7 +15,7 @@ Users: 475
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1178 |
 | 8 | [Leon2332](https://github.com/Leon2332) | Leon | Venture Media |  | Namibia | 684 |
 | 9 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 679 |
-| 10 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 651 |
+| 10 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 629 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | IU International University of Applied Sciences | TusneldeE | Namibia | 432 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | iNstar inc |  | Windhoek, Namibia | 355 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 284 |

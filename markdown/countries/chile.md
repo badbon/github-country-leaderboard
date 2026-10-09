@@ -20,18 +20,18 @@ Indexed users: 19,400
 | 6 | [antonioc-cl](https://github.com/antonioc-cl) | Antonio Correa | Puerto Varas, Chile | 21,568 |
 | 7 | [sebavidal10](https://github.com/sebavidal10) | Sebastian Vidal Aedo | Chile | 21,033 |
 | 8 | [Gigioxx](https://github.com/Gigioxx) | Guillermo Casanova | Santiago, Chile | 17,407 |
-| 9 | [slegarraga](https://github.com/slegarraga) | Sebastian Legarraga | Chile | 14,593 |
-| 10 | [bazookon](https://github.com/bazookon) | Osvaldo Leiva | Santiago, Chile | 13,564 |
-| 11 | [BenjaPrograma](https://github.com/BenjaPrograma) | Benjamin | Chile, Santiago | 13,498 |
-| 12 | [chinoxchen](https://github.com/chinoxchen) | Chien-Fu | Santiago, Chile | 13,051 |
-| 13 | [dfbustosus](https://github.com/dfbustosus) | David Bustos Usta | Concepcion, Chile | 12,937 |
-| 14 | [appwebd](https://github.com/appwebd) | Patricio Rojas | Chile | 12,657 |
-| 15 | [limcross](https://github.com/limcross) | Sebastián Orellana | Santiago, Chile | 12,428 |
-| 16 | [gdespirito](https://github.com/gdespirito) | Gonzalo De Spírito | Santiago, Chile | 12,042 |
-| 17 | [raztor](https://github.com/raztor) | Benjamín Muñoz | Santiago, Chile | 12,023 |
-| 18 | [ViktorJJF](https://github.com/ViktorJJF) | Victor Juan Jimenez Flores | Santiago de Chile | 11,882 |
-| 19 | [cortega26](https://github.com/cortega26) | Carlos Ortega González | Santiago, Chile | 11,842 |
-| 20 | [ferando855](https://github.com/ferando855) | Fernando Garcia-Huidobro H | Chile | 11,421 |
+| 9 | [ferando855](https://github.com/ferando855) | Fernando Garcia-Huidobro Hechetle | Chile | 15,206 |
+| 10 | [slegarraga](https://github.com/slegarraga) | Sebastian Legarraga | Chile | 14,593 |
+| 11 | [bazookon](https://github.com/bazookon) | Osvaldo Leiva | Santiago, Chile | 13,564 |
+| 12 | [BenjaPrograma](https://github.com/BenjaPrograma) | Benjamin | Chile, Santiago | 13,498 |
+| 13 | [chinoxchen](https://github.com/chinoxchen) | Chien-Fu | Santiago, Chile | 13,051 |
+| 14 | [dfbustosus](https://github.com/dfbustosus) | David Bustos Usta | Concepcion, Chile | 12,937 |
+| 15 | [appwebd](https://github.com/appwebd) | Patricio Rojas | Chile | 12,657 |
+| 16 | [limcross](https://github.com/limcross) | Sebastián Orellana | Santiago, Chile | 12,428 |
+| 17 | [gdespirito](https://github.com/gdespirito) | Gonzalo De Spírito | Santiago, Chile | 12,042 |
+| 18 | [raztor](https://github.com/raztor) | Benjamín Muñoz | Santiago, Chile | 12,023 |
+| 19 | [ViktorJJF](https://github.com/ViktorJJF) | Victor Juan Jimenez Flores | Santiago de Chile | 11,882 |
+| 20 | [cortega26](https://github.com/cortega26) | Carlos Ortega González | Santiago, Chile | 11,842 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 19,400
 | 19 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 | 20 | [Dieg0Code](https://github.com/Dieg0Code) | Diego | Chile | 420 |
 
-Generated: 2026-10-09T00:01:03.875Z
+Generated: 2026-10-09T01:16:14.106Z

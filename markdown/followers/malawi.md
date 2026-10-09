@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-09T00:29:38.400Z
+Generated: 2026-10-09T01:39:28.443Z
 
 Users: 901
 
@@ -19,10 +19,10 @@ Users: 901
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 229 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya |  |  | Malawi  | 224 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Mac Neil | macneil265 | Lilongwe | 208 |
-| 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | @Angledimension @Almost-thr  ex @creditdatamw @golang-malawi | theebyter | Blantyre, Malawi | 203 |
-| 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 196 |
+| 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | @Angledimension @Almost-thr  ex @creditdatamw @golang-malawi | theebyter | Blantyre, Malawi | 202 |
+| 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 197 |
 | 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 168 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi Liverpool Wellcome Trust |  | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | TechNest | badboy_trox99 | Blantyre, Malawi | 146 |
-| 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 137 |
-| 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | @Horizon-vertex |  | Malawi | 133 |
+| 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | @Horizon-vertex |  | Malawi | 133 |
+| 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 131 |

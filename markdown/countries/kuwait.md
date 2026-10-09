@@ -62,12 +62,12 @@ Indexed users: 799
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT | Kuwait | 3,171 |
+| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT | Kuwait | 3,187 |
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB | Kuwait, Kuwait City | 446 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary | kuwait | 390 |
-| 4 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 236 |
-| 5 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 207 |
-| 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 149 |
+| 4 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 207 |
+| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 149 |
+| 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 143 |
 | 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 141 |
 | 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 131 |
 | 9 | [omsi96](https://github.com/omsi96) | Omar | Kuwait | 118 |
@@ -83,4 +83,4 @@ Indexed users: 799
 | 19 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
 | 20 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 
-Generated: 2026-10-09T00:25:01.098Z
+Generated: 2026-10-09T01:36:53.048Z

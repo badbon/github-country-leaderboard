@@ -16,8 +16,8 @@ Indexed users: 903
 | 2 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 10,405 |
 | 3 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 7,598 |
 | 4 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,230 |
-| 5 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 6,339 |
-| 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,114 |
+| 5 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,639 |
+| 6 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 6,339 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 5,795 |
 | 8 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,734 |
 | 9 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,675 |
@@ -26,11 +26,11 @@ Indexed users: 903
 | 12 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,099 |
 | 13 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 4,940 |
 | 14 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,614 |
-| 15 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,101 |
-| 16 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 3,927 |
-| 17 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 3,765 |
-| 18 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 3,639 |
-| 19 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 3,485 |
+| 15 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,390 |
+| 16 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,101 |
+| 17 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 3,927 |
+| 18 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 3,765 |
+| 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 3,639 |
 | 20 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | Montenegro, Herzeg-Novi | 3,474 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 903
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-09T00:33:01.747Z
+Generated: 2026-10-09T01:42:51.714Z

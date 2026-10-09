@@ -1,6 +1,6 @@
 # Followers - Chile
 
-Generated: 2026-10-09T00:01:03.875Z
+Generated: 2026-10-09T01:16:14.106Z
 
 Users: 19400
 

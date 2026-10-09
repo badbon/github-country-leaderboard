@@ -18,11 +18,11 @@ Indexed users: 2,134
 | 4 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 5,803 |
 | 5 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | Bosnia and Herzegovina | 5,790 |
 | 6 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,749 |
-| 7 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Sarajevo | 5,533 |
-| 8 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 5,276 |
-| 9 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,224 |
-| 10 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 4,601 |
-| 11 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 4,555 |
+| 7 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
+| 8 | [leoyigit](https://github.com/leoyigit) | LeoYigit | Sarajevo | 5,533 |
+| 9 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 5,276 |
+| 10 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,224 |
+| 11 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 4,601 |
 | 12 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
 | 13 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 4,102 |
 | 14 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
@@ -83,4 +83,4 @@ Indexed users: 2,134
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-08T23:56:53.841Z
+Generated: 2026-10-09T01:10:43.464Z

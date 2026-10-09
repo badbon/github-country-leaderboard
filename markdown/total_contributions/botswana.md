@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-08T23:56:57.299Z
+Generated: 2026-10-09T01:10:46.901Z
 
 Users: 534
 
@@ -15,14 +15,14 @@ Users: 534
 | 7 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 2297 |
 | 8 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Botswana International University of Science and Technology  |  | Gaborone, Botswana | 2291 |
 | 9 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 2098 |
-| 10 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Innovateium (Pty) Ltd | mrdiin_dev | Gaborone | 2035 |
-| 11 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 1999 |
-| 12 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 1982 |
-| 13 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1958 |
-| 14 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 1890 |
-| 15 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 1798 |
-| 16 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1718 |
-| 17 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa |  |  | Botswana | 1652 |
-| 18 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1514 |
-| 19 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1427 |
-| 20 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 1298 |
+| 10 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 2059 |
+| 11 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Innovateium (Pty) Ltd | mrdiin_dev | Gaborone | 2035 |
+| 12 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 2028 |
+| 13 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 1999 |
+| 14 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 1982 |
+| 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1958 |
+| 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 1890 |
+| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1718 |
+| 18 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa |  |  | Botswana | 1652 |
+| 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1514 |
+| 20 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1427 |

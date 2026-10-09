@@ -55,8 +55,8 @@ Indexed users: 1,072
 | 16 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
 | 17 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
 | 18 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
-| 19 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
-| 20 | [notSoEliel](https://github.com/notSoEliel) | Eliel García | Panama City, Panama, Panama | 793 |
+| 19 | [josearpaiaq](https://github.com/josearpaiaq) | Jose Arpaia Q | Panama | 826 |
+| 20 | [David-Josue-Murillo](https://github.com/David-Josue-Murillo) | David Murillo | Santiago, Veraguas, Panamá | 793 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-09T00:43:34.647Z
+Generated: 2026-10-09T01:51:17.866Z

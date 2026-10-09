@@ -12,15 +12,15 @@ Indexed users: 75
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,340 |
+| 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,324 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,216 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 4,861 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,179 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,254 |
-| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,561 |
+| 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,574 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
 | 8 | [esrid](https://github.com/esrid) | ADS | Martinique | 942 |
-| 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 901 |
+| 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 906 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 832 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 745 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 474 |
@@ -38,7 +38,7 @@ Indexed users: 75
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,215 |
-| 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,061 |
+| 2 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,045 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 1,524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 501 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-09T00:31:31.736Z
+Generated: 2026-10-09T01:41:05.192Z

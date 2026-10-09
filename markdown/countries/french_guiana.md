@@ -12,11 +12,11 @@ Indexed users: 36
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,723 |
+| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto | French Amazonia (Guyane) | 2,776 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 1,232 |
 | 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | French Guiana | 281 |
 | 4 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
-| 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 116 |
+| 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 112 |
 | 6 | [drainerw](https://github.com/drainerw) |  | French Guiana | 82 |
 | 7 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
 | 8 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 65 |
@@ -38,7 +38,7 @@ Indexed users: 36
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
-| 2 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 88 |
+| 2 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 84 |
 | 3 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
 | 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 65 |
 | 5 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 35 |
@@ -62,7 +62,7 @@ Indexed users: 36
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | French Guiana | 18 |
+| 1 | [roberthpereira](https://github.com/roberthpereira) | Roberth Pereira | French Guiana | 19 |
 | 2 | [emmanoe](https://github.com/emmanoe) | Emmanoe | Guyane, South - America | 15 |
 | 3 | [MelPeslier](https://github.com/MelPeslier) | Mel | Guyane  | 11 |
 | 4 | [geommon](https://github.com/geommon) | Milo | Cayenne | 10 |
@@ -83,4 +83,4 @@ Indexed users: 36
 | 19 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 3 |
 | 20 | [StephaneKourou](https://github.com/StephaneKourou) | StephaneKourou | Kourou, French Guiana | 3 |
 
-Generated: 2026-10-09T00:12:21.508Z
+Generated: 2026-10-09T01:24:15.150Z

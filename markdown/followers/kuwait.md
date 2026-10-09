@@ -1,17 +1,17 @@
 # Followers - Kuwait
 
-Generated: 2026-10-09T00:25:01.098Z
+Generated: 2026-10-09T01:36:53.048Z
 
 Users: 799
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT |  |  | Kuwait | 3171 |
+| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT |  |  | Kuwait | 3187 |
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB |  |  | Kuwait, Kuwait City | 446 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary |  |  | kuwait | 390 |
-| 4 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 236 |
-| 5 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 207 |
-| 6 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 149 |
+| 4 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 207 |
+| 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 149 |
+| 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 143 |
 | 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 141 |
 | 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Indie Developer | dmakwt | Kuwait | 131 |
 | 9 | [omsi96](https://github.com/omsi96) | Omar | @barmej, @JoinCODED, @kuwaitcodes  |  | Kuwait | 118 |

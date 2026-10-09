@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-09T00:31:34.392Z
+Generated: 2026-10-09T01:41:10.523Z
 
 Users: 288
 
@@ -18,8 +18,8 @@ Users: 288
 | 10 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 2279 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 2264 |
 | 12 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 2263 |
-| 13 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 1787 |
-| 14 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim |  | medvall_mr | Nouakchott, Mauritania | 1730 |
+| 13 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim |  | medvall_mr | Nouakchott, Mauritania | 1730 |
+| 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 1724 |
 | 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 1522 |
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1330 |
 | 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1259 |

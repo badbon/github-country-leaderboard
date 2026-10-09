@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,807
+Indexed users: 1,806
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,807
 | 19 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
 | 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 
-Generated: 2026-10-09T00:00:24.920Z
+Generated: 2026-10-09T01:14:03.805Z

@@ -15,18 +15,18 @@ Indexed users: 716
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,323 |
 | 2 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,685 |
 | 3 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,575 |
-| 4 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 5,234 |
-| 5 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,149 |
-| 6 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,064 |
-| 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,018 |
-| 8 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 4,265 |
-| 9 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,107 |
-| 10 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
-| 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 4,076 |
-| 12 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,701 |
-| 13 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,696 |
-| 14 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,695 |
-| 15 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 3,083 |
+| 4 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 5,507 |
+| 5 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 5,234 |
+| 6 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,149 |
+| 7 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,064 |
+| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,018 |
+| 9 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 4,265 |
+| 10 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,107 |
+| 11 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
+| 12 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 4,076 |
+| 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,701 |
+| 14 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,696 |
+| 15 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,695 |
 | 16 | [asitrakah](https://github.com/asitrakah) | Sitraka Andrianarisoa | Grand Baie, Mauritius | 2,965 |
 | 17 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,644 |
 | 18 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
@@ -83,4 +83,4 @@ Indexed users: 716
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-09T00:31:39.117Z
+Generated: 2026-10-09T01:42:04.633Z

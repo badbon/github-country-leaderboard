@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-08T23:58:45.475Z
+Generated: 2026-10-09T01:12:53.473Z
 
 Users: 484
 
@@ -20,7 +20,7 @@ Users: 484
 | 12 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 64 |
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  |  |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 57 |
 | 14 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 50 |
-| 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 47 |
+| 15 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 50 |
 | 16 | [haagrah](https://github.com/haagrah) | IsmaGUIRE |  | FaissalGuire | Burkina Faso (Ouagadougou) | 46 |
 | 17 | [Masterchief-07](https://github.com/Masterchief-07) | KIENDREBEOGO JONATHAN |  |  | BURKINAFASO/OUAGADOUGOU | 39 |
 | 18 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 38 |

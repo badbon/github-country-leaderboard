@@ -51,9 +51,9 @@ Indexed users: 901
 | 12 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
 | 13 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
 | 14 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
-| 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 559 |
+| 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
 | 16 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
-| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 528 |
+| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 487 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
 | 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
 | 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
@@ -75,12 +75,12 @@ Indexed users: 901
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 229 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 224 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 208 |
-| 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 203 |
-| 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 196 |
+| 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 202 |
+| 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 197 |
 | 16 | [i-christian](https://github.com/i-christian) | Christian | Mzuzu, Malawi  | 168 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | Blantyre, Malawi | 146 |
-| 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 137 |
-| 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
+| 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
+| 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 
-Generated: 2026-10-09T00:29:38.400Z
+Generated: 2026-10-09T01:39:28.443Z
