@@ -20,20 +20,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 85,
     "createdAt": "2026-03-15T04:27:40Z"
-  },
-  {
-    "login": "ramosrayanne",
-    "name": "Rayanne Ramos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279857480?s=72&u=221da635cf16b18877afde68c2745d52f53019ea&v=4",
-    "location": "Praia Grande - SP",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2026-04-27T22:40:36Z"
   },
   {
     "login": "felipe-infosec",
@@ -74,13 +62,13 @@
   {
     "login": "malluregio",
     "name": "Mallu Régio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279149152?s=72&u=c66a9babfef0178f0ec54086a4f623ac17a9906f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/279149152?s=72&u=ff0bfaaf9bffd40dd83158b27fb1b247fc2aea8b&v=4",
     "location": "Praia Grande, SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2026-04-24T23:56:40Z"
   },
   {
@@ -104,7 +92,7 @@
     "twitterUsername": "",
     "followers": 362,
     "privateContributions": 5,
-    "publicContributions": 182,
+    "publicContributions": 164,
     "createdAt": "2025-06-02T18:50:33Z"
   },
   {
@@ -114,15 +102,15 @@
     "location": "Cape Verde",
     "company": "Self-employed",
     "twitterUsername": "carlosadcaraujo",
-    "followers": 31,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 89,
     "createdAt": "2025-06-10T14:31:20Z"
   },
   {
     "login": "Yannick463",
     "name": "Yannick Martins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205258475?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205258475?s=72&u=877a9f69fc292d2f435f471f2a61f2f9a0d1c36a&v=4",
     "location": "Cape Verde",
     "company": "",
     "twitterUsername": "",
@@ -136,7 +124,7 @@
     "name": "Wilson Santos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193454223?s=72&u=cbf3ca010b4ca768e7d5c28c6860362139966eb0&v=4",
     "location": "Cape Verde",
-    "company": "",
+    "company": "TechPark Cabo Verde",
     "twitterUsername": "_wilonearth",
     "followers": 3,
     "privateContributions": 0,
@@ -152,7 +140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1337,
+    "publicContributions": 1355,
     "createdAt": "2025-02-17T02:49:02Z"
   },
   {
@@ -174,9 +162,9 @@
     "location": "Praia Grande/SP",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 235,
-    "publicContributions": 50,
+    "followers": 37,
+    "privateContributions": 230,
+    "publicContributions": 43,
     "createdAt": "2025-03-04T01:29:54Z"
   },
   {
@@ -188,7 +176,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 96,
     "createdAt": "2025-07-18T15:02:09Z"
   },
   {
@@ -210,9 +198,9 @@
     "location": "Praia grande - sp",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 45,
-    "publicContributions": 542,
+    "publicContributions": 556,
     "createdAt": "2025-10-24T19:00:45Z"
   },
   {

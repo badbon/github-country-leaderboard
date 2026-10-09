@@ -6487,8 +6487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 142,
-    "publicContributions": 53,
+    "privateContributions": 172,
+    "publicContributions": 51,
     "createdAt": "2022-01-20T14:17:51Z"
   },
   {
@@ -6498,9 +6498,9 @@
     "location": "Riga",
     "company": "Riga Technical University",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 108,
-    "publicContributions": 97,
+    "followers": 8,
+    "privateContributions": 211,
+    "publicContributions": 124,
     "createdAt": "2022-05-11T09:42:37Z"
   },
   {
@@ -6511,7 +6511,7 @@
     "company": "Boyz From The Hood",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2275,
+    "privateContributions": 2355,
     "publicContributions": 1,
     "createdAt": "2022-04-21T14:59:49Z"
   },
@@ -6524,7 +6524,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 393,
+    "publicContributions": 389,
     "createdAt": "2022-10-24T17:42:14Z"
   },
   {
@@ -6572,7 +6572,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 209,
     "createdAt": "2022-12-09T09:47:56Z"
   },
   {
@@ -6606,9 +6606,9 @@
     "location": "Riga",
     "company": "GoCardless",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 157,
-    "publicContributions": 28,
+    "followers": 4,
+    "privateContributions": 168,
+    "publicContributions": 10,
     "createdAt": "2022-02-20T01:31:17Z"
   },
   {
@@ -6632,7 +6632,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 283,
+    "publicContributions": 350,
     "createdAt": "2022-02-25T20:47:03Z"
   },
   {
@@ -6670,18 +6670,6 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2022-02-10T22:58:52Z"
-  },
-  {
-    "login": "asadiko",
-    "name": "Asadulla Ravshanbekov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115593364?s=72&u=622ad8951793829e665c82ba8cf4bba98e844cd3&v=4",
-    "location": "Riga",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2022-10-11T22:11:18Z"
   },
   {
     "login": "robertaak",

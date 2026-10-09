@@ -6908,7 +6908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 0,
     "createdAt": "2024-12-18T17:12:30Z"
   },
   {
@@ -6956,7 +6956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2024-03-07T14:55:52Z"
   },
   {
@@ -6992,7 +6992,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 218,
     "createdAt": "2022-11-07T09:45:01Z"
   },
   {
@@ -7002,7 +7002,7 @@
     "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 666,
+    "followers": 653,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-03T12:59:40Z"
@@ -7014,9 +7014,9 @@
     "location": "Belarus",
     "company": "@kngmng",
     "twitterUsername": "",
-    "followers": 221,
-    "privateContributions": 81,
-    "publicContributions": 308,
+    "followers": 224,
+    "privateContributions": 86,
+    "publicContributions": 321,
     "createdAt": "2023-02-28T07:43:46Z"
   },
   {
@@ -7026,9 +7026,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 154,
+    "followers": 146,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 33,
     "createdAt": "2023-07-02T19:51:21Z"
   },
   {
@@ -7050,7 +7050,7 @@
     "location": "Belarus, c. Mozyr",
     "company": "",
     "twitterUsername": "yulia_wdesigner",
-    "followers": 53,
+    "followers": 48,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-01T22:13:04Z"
@@ -7063,8 +7063,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 43,
-    "privateContributions": 50,
-    "publicContributions": 69,
+    "privateContributions": 32,
+    "publicContributions": 48,
     "createdAt": "2023-12-07T17:58:55Z"
   },
   {
@@ -7074,9 +7074,9 @@
     "location": "Belarus, Brest",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 340,
-    "publicContributions": 254,
+    "followers": 43,
+    "privateContributions": 395,
+    "publicContributions": 262,
     "createdAt": "2023-06-27T19:21:38Z"
   },
   {
@@ -7086,9 +7086,9 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 1096,
-    "publicContributions": 453,
+    "followers": 32,
+    "privateContributions": 1045,
+    "publicContributions": 482,
     "createdAt": "2023-12-22T11:25:19Z"
   },
   {
@@ -7123,8 +7123,8 @@
     "company": "BSU, FAMCS",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 416,
-    "publicContributions": 41,
+    "privateContributions": 384,
+    "publicContributions": 31,
     "createdAt": "2023-07-15T17:26:43Z"
   },
   {

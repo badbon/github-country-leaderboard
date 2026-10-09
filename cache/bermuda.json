@@ -6558,7 +6558,7 @@
     "location": "Hamilton, Ontario",
     "company": "",
     "twitterUsername": "gemontracks",
-    "followers": 40,
+    "followers": 44,
     "privateContributions": 36,
     "publicContributions": 2,
     "createdAt": "2016-04-04T15:07:02Z"
@@ -6570,9 +6570,9 @@
     "location": "Hamilton, ON",
     "company": "McMaster University",
     "twitterUsername": "LaurenFink_PhD",
-    "followers": 34,
+    "followers": 37,
     "privateContributions": 11,
-    "publicContributions": 56,
+    "publicContributions": 48,
     "createdAt": "2016-07-21T00:47:20Z"
   },
   {
@@ -6583,8 +6583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 515,
-    "publicContributions": 8,
+    "privateContributions": 351,
+    "publicContributions": 6,
     "createdAt": "2016-06-23T18:10:57Z"
   },
   {
@@ -6595,8 +6595,8 @@
     "company": "@LaunchPadLab",
     "twitterUsername": "shockandhawes",
     "followers": 25,
-    "privateContributions": 533,
-    "publicContributions": 3,
+    "privateContributions": 537,
+    "publicContributions": 0,
     "createdAt": "2016-07-12T19:05:50Z"
   },
   {
@@ -6606,9 +6606,9 @@
     "location": "Hamilton, NY",
     "company": "Colgate University",
     "twitterUsername": "Forrest_L_Davis",
-    "followers": 24,
-    "privateContributions": 405,
-    "publicContributions": 13,
+    "followers": 23,
+    "privateContributions": 256,
+    "publicContributions": 9,
     "createdAt": "2016-03-20T00:07:24Z"
   },
   {
@@ -6618,9 +6618,9 @@
     "location": "Hamilton, NZ",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 14,
-    "publicContributions": 44,
+    "followers": 25,
+    "privateContributions": 17,
+    "publicContributions": 40,
     "createdAt": "2016-07-04T23:12:18Z"
   },
   {
@@ -6630,22 +6630,10 @@
     "location": "Hamilton, Ontario",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 1577,
-    "publicContributions": 46,
+    "followers": 24,
+    "privateContributions": 1535,
+    "publicContributions": 0,
     "createdAt": "2016-10-11T22:32:39Z"
-  },
-  {
-    "login": "tadhg-moore",
-    "name": "Tadhg Moore",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23136262?s=72&u=d8b3a5f980b0cbf5d5d37ca55520a87d8d789a1e&v=4",
-    "location": "Hamilton, NZ",
-    "company": "Limnotrack",
-    "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 1886,
-    "publicContributions": 1343,
-    "createdAt": "2016-10-29T11:01:16Z"
   },
   {
     "login": "tomily1",
@@ -6666,7 +6654,7 @@
     "location": "Hamilton, Ontario",
     "company": "McMaster University",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2016-06-04T21:48:46Z"
@@ -6678,7 +6666,7 @@
     "location": "Hamilton, ON",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-08T14:19:43Z"
@@ -6715,8 +6703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 176,
-    "publicContributions": 344,
+    "privateContributions": 33,
+    "publicContributions": 327,
     "createdAt": "2016-01-14T15:50:06Z"
   },
   {
@@ -6727,8 +6715,8 @@
     "company": "Agility CMS",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 95,
-    "publicContributions": 376,
+    "privateContributions": 226,
+    "publicContributions": 417,
     "createdAt": "2016-03-01T18:23:37Z"
   },
   {
@@ -6752,7 +6740,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 18,
     "createdAt": "2016-07-12T19:05:17Z"
   },
   {
@@ -6775,7 +6763,7 @@
     "company": "Software Engineer ",
     "twitterUsername": "masedogg83",
     "followers": 6,
-    "privateContributions": 7,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2016-12-08T20:40:39Z"
   },

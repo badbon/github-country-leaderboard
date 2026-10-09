@@ -6824,7 +6824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2025-01-25T11:49:06Z"
   },
   {
@@ -6882,7 +6882,7 @@
     "location": "iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-21T23:45:53Z"
@@ -6932,7 +6932,7 @@
     "twitterUsername": "BayatRaheel",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 104,
     "createdAt": "2025-04-24T12:48:26Z"
   },
   {
@@ -6978,9 +6978,9 @@
     "location": "Iran, Isfahan",
     "company": "Modern Andishan Jay",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2025-04-20T05:54:00Z"
   },
   {
@@ -7008,18 +7008,6 @@
     "createdAt": "2025-04-26T12:53:42Z"
   },
   {
-    "login": "FatimaAhmadinejad",
-    "name": "Fatima Ahmadinejad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197112165?s=72&u=5e7ade1c8d40fae9fbc773e8fb1ce58ac58ec7c7&v=4",
-    "location": "Rasht/Iran",
-    "company": "Freelancer | Collaboration with exontech.ir (Industry Experience)",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 132,
-    "createdAt": "2025-01-30T16:55:50Z"
-  },
-  {
     "login": "Mehrshadgit",
     "name": "Mehrshad",
     "avatarUrl": "https://avatars.githubusercontent.com/u/193350639?s=72&v=4",
@@ -7040,7 +7028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-03-03T11:39:26Z"
   },
   {
@@ -7050,7 +7038,7 @@
     "location": "Guilan, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-17T22:11:53Z"

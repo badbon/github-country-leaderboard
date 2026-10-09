@@ -6871,8 +6871,8 @@
     "company": "@ITConsulting-nic ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 101,
-    "publicContributions": 1,
+    "privateContributions": 107,
+    "publicContributions": 31,
     "createdAt": "2022-06-10T15:59:54Z"
   },
   {
@@ -6882,22 +6882,10 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 2,
     "createdAt": "2022-12-11T15:59:18Z"
-  },
-  {
-    "login": "dncastrillon",
-    "name": "Danet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109244487?s=72&u=a271e01f3446e0c91d49f17850caf554b12e4d72&v=4",
-    "location": "Cuba",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-13T19:33:39Z"
   },
   {
     "login": "miltongg",
@@ -6922,18 +6910,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-03T14:40:51Z"
-  },
-  {
-    "login": "racMart00",
-    "name": "racMart",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106419521?s=72&u=88202909b34bb913eca78b34d5de855656215dd8&v=4",
-    "location": "Bayamo - Granma, Cuba",
-    "company": "UCI - Universidad de Ciencias informáticas",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 93,
-    "publicContributions": 12,
-    "createdAt": "2022-05-28T04:22:58Z"
   },
   {
     "login": "DaylenDigitalMarketer",
@@ -7016,7 +6992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 115,
     "createdAt": "2022-02-03T18:10:27Z"
   },
   {
@@ -7028,7 +7004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 33,
     "createdAt": "2022-07-03T00:36:16Z"
   },
   {
@@ -7063,8 +7039,8 @@
     "company": "DSmarts",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 152,
-    "publicContributions": 30,
+    "privateContributions": 188,
+    "publicContributions": 21,
     "createdAt": "2022-09-03T11:22:21Z"
   },
   {
