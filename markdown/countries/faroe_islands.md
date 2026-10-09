@@ -22,9 +22,9 @@ Indexed users: 67
 | 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,223 |
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,032 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 2,001 |
-| 11 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,437 |
-| 12 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,434 |
-| 13 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,029 |
+| 11 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,443 |
+| 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,437 |
+| 13 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,032 |
 | 14 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 941 |
 | 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 872 |
 | 16 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 692 |
@@ -39,7 +39,7 @@ Indexed users: 67
 |---:|---|---|---|---:|
 | 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 1,418 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 999 |
-| 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 985 |
+| 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 988 |
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 517 |
 | 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 493 |
 | 6 | [krvi](https://github.com/krvi) |  | Faroe Islands | 347 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-09T18:20:46.742Z
+Generated: 2026-10-09T23:31:11.275Z

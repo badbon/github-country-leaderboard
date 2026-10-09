@@ -15,7 +15,7 @@ Indexed users: 679
 | 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,187 |
 | 2 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 11,310 |
 | 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 10,207 |
-| 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,439 |
+| 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,428 |
 | 5 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,140 |
 | 6 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,045 |
 | 7 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,045 |
@@ -37,7 +37,7 @@ Indexed users: 679
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,363 |
+| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,361 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,764 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,070 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,229 |
@@ -56,7 +56,7 @@ Indexed users: 679
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 748 |
 | 18 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Lomé, TOGO | 709 |
 | 19 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
-| 20 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | Lomé | 647 |
+| 20 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 642 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-09T18:01:11.527Z
+Generated: 2026-10-09T23:01:48.978Z

@@ -1,8 +1,8 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-09T18:17:47.678Z
+Generated: 2026-10-09T23:24:16.888Z
 
-Users: 2742
+Users: 2741
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 2742
 | 11 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 2706 |
 | 12 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2695 |
 | 13 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 2670 |
-| 14 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 2444 |
-| 15 | [slima4](https://github.com/slima4) | Artem Senenko |  |  | Nicosia, Cyprus | 2345 |
-| 16 | [sakno](https://github.com/sakno) | Roman Sakno | Kurrent.io |  | Nicosia, Cyprus | 2336 |
-| 17 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 2174 |
-| 18 | [andrewtelnov](https://github.com/andrewtelnov) | Andrew | DevSoft Baltic OÜ | andrewtelnov | Cyprus | 2130 |
-| 19 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 2063 |
-| 20 | [tundraray](https://github.com/tundraray) | Mikhail Andreev |  |  | Cyprus | 1940 |
+| 14 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Lead Dev @boundary-digital / Building @ensemblr-hq |  | Limassol, Cyprus | 2614 |
+| 15 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 2444 |
+| 16 | [slima4](https://github.com/slima4) | Artem Senenko |  |  | Nicosia, Cyprus | 2345 |
+| 17 | [sakno](https://github.com/sakno) | Roman Sakno | Kurrent.io |  | Nicosia, Cyprus | 2336 |
+| 18 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 2174 |
+| 19 | [andrewtelnov](https://github.com/andrewtelnov) | Andrew | DevSoft Baltic OÜ | andrewtelnov | Cyprus | 2130 |
+| 20 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 2063 |

@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 462
+Indexed users: 461
 
 | Leaderboard | Link |
 |---|---|
@@ -22,9 +22,9 @@ Indexed users: 462
 | 8 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,482 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,134 |
-| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,973 |
+| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,984 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,850 |
-| 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,248 |
+| 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,263 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,075 |
 | 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,732 |
 | 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,533 |
@@ -40,7 +40,7 @@ Indexed users: 462
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,078 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,496 |
-| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,996 |
+| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,011 |
 | 5 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,140 |
 | 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,130 |
 | 7 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,851 |
@@ -83,4 +83,4 @@ Indexed users: 462
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-09T18:08:59.621Z
+Generated: 2026-10-09T23:12:46.732Z

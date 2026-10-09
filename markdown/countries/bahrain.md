@@ -55,8 +55,8 @@ Indexed users: 727
 | 16 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 678 |
 | 17 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai | Bahrain | 666 |
 | 18 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 664 |
-| 19 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain | Bahrain | 659 |
-| 20 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 657 |
+| 19 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 657 |
+| 20 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain | Bahrain | 657 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
 
-Generated: 2026-10-09T18:10:19.877Z
+Generated: 2026-10-09T23:14:54.952Z

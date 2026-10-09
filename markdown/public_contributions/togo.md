@@ -1,12 +1,12 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-09T18:01:11.527Z
+Generated: 2026-10-09T23:01:48.978Z
 
 Users: 679
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 7363 |
+| 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 7361 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 4764 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4070 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 3229 |
@@ -25,4 +25,4 @@ Users: 679
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO |  |  | Lomé, Togo | 748 |
 | 18 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Orbis-Corporation | AbelKoudaya | Lomé, TOGO | 709 |
 | 19 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz |  | AzizMetchonou | Togo | 708 |
-| 20 | [HordRicJr](https://github.com/HordRicJr) | ASSOUN Rodrigue | IJEAF |  | Lomé | 647 |
+| 20 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | @edo-group | jeandedieudev | Togo | 642 |

@@ -1,8 +1,8 @@
 # Followers - Turkey
 
-Generated: 2026-10-09T18:01:31.574Z
+Generated: 2026-10-09T23:02:59.858Z
 
-Users: 79102
+Users: 79101
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Cyprus
 
-Indexed users: 2,742
+Indexed users: 2,741
 
 | Leaderboard | Link |
 |---|---|
@@ -50,13 +50,13 @@ Indexed users: 2,742
 | 11 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
 | 12 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
 | 13 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
-| 14 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
-| 15 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
-| 16 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
-| 17 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 2,174 |
-| 18 | [andrewtelnov](https://github.com/andrewtelnov) | Andrew | Cyprus | 2,130 |
-| 19 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 2,063 |
-| 20 | [tundraray](https://github.com/tundraray) | Mikhail Andreev | Cyprus | 1,940 |
+| 14 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
+| 15 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
+| 16 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
+| 17 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
+| 18 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 2,174 |
+| 19 | [andrewtelnov](https://github.com/andrewtelnov) | Andrew | Cyprus | 2,130 |
+| 20 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 2,063 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,742
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-09T18:17:47.678Z
+Generated: 2026-10-09T23:24:16.888Z

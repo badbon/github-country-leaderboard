@@ -12,7 +12,7 @@ Indexed users: 1,803
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 13,081 |
+| 1 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 12,903 |
 | 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 11,682 |
 | 3 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,756 |
 | 4 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 8,112 |
@@ -22,16 +22,16 @@ Indexed users: 1,803
 | 8 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 6,660 |
 | 9 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,280 |
 | 10 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | Buea, Cameroon | 6,120 |
-| 11 | [MartexCorp](https://github.com/MartexCorp) | David Acho | Yaounde, Cameroon | 5,800 |
-| 12 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
-| 13 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 5,558 |
-| 14 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,414 |
-| 15 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 5,345 |
-| 16 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | Cameroon | 5,266 |
-| 17 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
-| 18 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,087 |
-| 19 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 4,905 |
-| 20 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 4,773 |
+| 11 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,014 |
+| 12 | [MartexCorp](https://github.com/MartexCorp) | David Acho | Yaounde, Cameroon | 5,800 |
+| 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
+| 14 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | Cameroon | 5,558 |
+| 15 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,414 |
+| 16 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 5,345 |
+| 17 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | Cameroon | 5,266 |
+| 18 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
+| 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,087 |
+| 20 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 4,905 |
 
 ## Public Contributions
 
@@ -53,10 +53,10 @@ Indexed users: 1,803
 | 14 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
 | 15 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,407 |
 | 16 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,390 |
-| 17 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 1,388 |
-| 18 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
-| 19 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila | Yaounde, Cameroon | 1,352 |
-| 20 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | Cameroon | 1,263 |
+| 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
+| 18 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila | Yaounde, Cameroon | 1,352 |
+| 19 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | Cameroon | 1,263 |
+| 20 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Dschang, Cameroon | 1,261 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,803
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 | 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
 
-Generated: 2026-10-09T18:12:53.348Z
+Generated: 2026-10-09T23:18:05.644Z

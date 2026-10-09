@@ -29,9 +29,9 @@ Indexed users: 26,887
 | 15 | [MrAriaNet](https://github.com/MrAriaNet) | Aria | Tehran, Iran | 12,136 |
 | 16 | [mehrdadmb2](https://github.com/mehrdadmb2) | Μιθριδάτης | Iran  | 11,796 |
 | 17 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Iran | 11,771 |
-| 18 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | Mashhad, Iran | 11,006 |
-| 19 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | Tehran, Iran | 10,530 |
-| 20 | [Erfanlotfinia](https://github.com/Erfanlotfinia) | Erfan Lotfinia | Tehran, Iran | 9,510 |
+| 18 | [HamiParsa](https://github.com/HamiParsa) | Hami | IRAN | 11,429 |
+| 19 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | Mashhad, Iran | 11,006 |
+| 20 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | Tehran, Iran | 10,530 |
 
 ## Public Contributions
 
@@ -48,9 +48,9 @@ Indexed users: 26,887
 | 9 | [MrAriaNet](https://github.com/MrAriaNet) | Aria | Tehran, Iran | 12,136 |
 | 10 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Iran | 11,771 |
 | 11 | [mehrdadmb2](https://github.com/mehrdadmb2) | Μιθριδάτης | Iran  | 11,699 |
-| 12 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Mazandaran, Iran | 8,490 |
-| 13 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Iran,Tehran | 8,358 |
-| 14 | [HamiParsa](https://github.com/HamiParsa) | Hami | IRAN | 7,585 |
+| 12 | [HamiParsa](https://github.com/HamiParsa) | Hami | IRAN | 11,423 |
+| 13 | [mheidari98](https://github.com/mheidari98) | Mahdi Heidari | Mazandaran, Iran | 8,490 |
+| 14 | [jiscop85](https://github.com/jiscop85) | jiscop85 | Iran,Tehran | 8,358 |
 | 15 | [davoudarsalani](https://github.com/davoudarsalani) | Davoud Arsalani | Iran | 7,301 |
 | 16 | [kamangir](https://github.com/kamangir) | Arash Abadpour | Tehran, Iran | 6,308 |
 | 17 | [AmirrezaFarnamTaheri](https://github.com/AmirrezaFarnamTaheri) | Farnam | Tehran | 5,975 |
@@ -83,4 +83,4 @@ Indexed users: 26,887
 | 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,388 |
 | 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi | Shiraz,Iran | 1,352 |
 
-Generated: 2026-10-09T18:38:38.526Z
+Generated: 2026-10-09T23:38:27.902Z

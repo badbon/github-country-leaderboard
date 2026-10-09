@@ -1,6 +1,6 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-09T18:12:53.348Z
+Generated: 2026-10-09T23:18:05.644Z
 
 Users: 1803
 
@@ -22,7 +22,7 @@ Users: 1803
 | 14 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1452 |
 | 15 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1407 |
 | 16 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1390 |
-| 17 | [Tomdieu](https://github.com/Tomdieu) | ivantom | TrixGroup | navicorp_ | Cameroon | 1388 |
-| 18 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | promisefru | promisefru | Cameroon | 1360 |
-| 19 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila |  |  | Yaounde, Cameroon | 1352 |
-| 20 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | @Adorsys |  | Cameroon | 1263 |
+| 17 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | promisefru | promisefru | Cameroon | 1360 |
+| 18 | [Mbiydzenyuy3](https://github.com/Mbiydzenyuy3) | Leila |  |  | Yaounde, Cameroon | 1352 |
+| 19 | [Ngha-Boris](https://github.com/Ngha-Boris) | Ngha Boris  | @Adorsys |  | Cameroon | 1263 |
+| 20 | [Yvan2XEro](https://github.com/Yvan2XEro) | Yvan Julius KANA | Overbrand Company | yvan_2x | Dschang, Cameroon | 1261 |

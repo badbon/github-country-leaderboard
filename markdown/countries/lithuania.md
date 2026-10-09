@@ -30,7 +30,7 @@ Indexed users: 5,396
 | 16 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
 | 17 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
 | 18 | [jutaz](https://github.com/jutaz) | Justas Brazauskas | Kaunas, Lithuania | 8,824 |
-| 19 | [martynas-rakickis](https://github.com/martynas-rakickis) | Martynas Rakickis | Vilnius | 8,302 |
+| 19 | [martynas-rakickis](https://github.com/martynas-rakickis) | Martynas Rakickis | Vilnius | 8,781 |
 | 20 | [CalmProton](https://github.com/CalmProton) | Denis | Vilnius | 8,062 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 5,396
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-09T18:29:40.833Z
+Generated: 2026-10-09T23:45:36.676Z

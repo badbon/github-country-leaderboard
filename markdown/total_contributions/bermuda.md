@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-09T18:11:04.848Z
+Generated: 2026-10-09T23:16:40.210Z
 
 Users: 901
 
@@ -19,10 +19,10 @@ Users: 901
 | 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6148 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6002 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5557 |
-| 14 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 4644 |
-| 15 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4426 |
-| 16 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4278 |
+| 14 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4951 |
+| 15 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 4644 |
+| 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4426 |
 | 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4029 |
 | 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | @fankave  | osamaaamer | Hamilton, NZ | 3786 |
 | 19 | [adriand](https://github.com/adriand) | Adrian Duyzer |  |  | Hamilton, Ontario | 3703 |
-| 20 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | sitefinitysteve | stevemcniven | Hamilton, Ontario | 3415 |
+| 20 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | sitefinitysteve | stevemcniven | Hamilton, Ontario | 3561 |

@@ -1,6 +1,6 @@
 # Public Contributions - Hong Kong
 
-Generated: 2026-10-09T18:23:47.474Z
+Generated: 2026-10-09T23:36:58.584Z
 
 Users: 10314
 
@@ -24,5 +24,5 @@ Users: 10314
 | 16 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Droste |  | Hong Kong | 4735 |
 | 17 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei |  |  | Hong Kong | 4280 |
 | 18 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung |  |  | Hong Kong | 4241 |
-| 19 | [atomyyyy](https://github.com/atomyyyy) | Alan |  |  | Hong Kong | 3664 |
-| 20 | [zetta](https://github.com/zetta) | Carlos Clemente |  |  | Hong Kong | 3376 |
+| 19 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 3845 |
+| 20 | [atomyyyy](https://github.com/atomyyyy) | Alan |  |  | Hong Kong | 3664 |

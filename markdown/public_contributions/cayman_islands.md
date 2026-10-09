@@ -1,6 +1,6 @@
 # Public Contributions - Cayman Islands
 
-Generated: 2026-10-09T18:13:22.618Z
+Generated: 2026-10-09T23:19:27.146Z
 
 Users: 123
 
@@ -8,7 +8,7 @@ Users: 123
 |---:|---|---|---|---|---|---:|
 | 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 1768 |
 | 2 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 1577 |
-| 3 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1096 |
+| 3 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1098 |
 | 4 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 1050 |
 | 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | @etherfi-protocol | pankajjagtapp | Cayman Islands | 793 |
 | 6 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 777 |
@@ -23,6 +23,6 @@ Users: 123
 | 15 | [HamoonSoleimani](https://github.com/HamoonSoleimani) | Hamoon Soleimani |  |  | Cayman Islands | 174 |
 | 16 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova |  |  | Cayman Islands | 154 |
 | 17 | [RaisinBread42](https://github.com/RaisinBread42) | SkyyCipp |  |  | Cayman Islands | 154 |
-| 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 128 |
+| 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 131 |
 | 19 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | @Sim-Labs-LLC  | ackermann721 | Cayman Islands | 74 |
 | 20 | [SuperMohit](https://github.com/SuperMohit) | Mohit Talniya |  |  | Cayman Islands | 65 |

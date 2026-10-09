@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-09T18:26:54.035Z
+Generated: 2026-10-09T23:39:10.674Z
 
 Users: 155
 
@@ -19,10 +19,10 @@ Users: 155
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | @Isle-of-Man-Government  |  | Isle of Man | 246 |
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 216 |
 | 13 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 157 |
-| 14 | [K1erans](https://github.com/K1erans) | Kieran |  |  | Isle of man | 148 |
-| 15 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 129 |
-| 16 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 123 |
-| 17 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |
+| 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 129 |
+| 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 123 |
+| 16 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |
+| 17 | [K1erans](https://github.com/K1erans) | Kieran |  |  | Isle of man | 103 |
 | 18 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 93 |
 | 19 | [RCornidez](https://github.com/RCornidez) | Rodrigo Cornidez |  |  | Douglas, Arizona | 90 |
 | 20 | [Jessicaward](https://github.com/Jessicaward) | Jessica Ward | Fusion.co.im |  | Isle of Man | 85 |
