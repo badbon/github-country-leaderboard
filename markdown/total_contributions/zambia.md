@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-09T03:23:22.609Z
+Generated: 2026-10-09T06:52:50.961Z
 
 Users: 1346
 
@@ -13,16 +13,16 @@ Users: 1346
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | @Interwebb | thompsonmanda08 | Zambia | 6529 |
 | 6 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 6302 |
 | 7 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire |  | senorMk | Zambia | 5088 |
-| 8 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
-| 9 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3950 |
-| 10 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 3866 |
-| 11 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3779 |
-| 12 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
-| 13 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
-| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
-| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
-| 16 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 2912 |
-| 17 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali |  |  | Lusaka, Zambia | 2900 |
-| 18 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 2809 |
+| 8 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 4731 |
+| 9 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
+| 10 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3950 |
+| 11 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 3866 |
+| 12 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3779 |
+| 13 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
+| 14 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
+| 15 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
+| 16 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
+| 17 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 2912 |
+| 18 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali |  |  | Lusaka, Zambia | 2900 |
 | 19 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 2691 |
 | 20 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Kuseni Digital Inc Zambia |  | Lusaka, Zambia | 2631 |

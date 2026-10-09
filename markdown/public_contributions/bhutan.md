@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-09T03:32:48.200Z
+Generated: 2026-10-09T06:56:40.591Z
 
 Users: 268
 
@@ -14,7 +14,7 @@ Users: 268
 | 6 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 742 |
 | 7 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Light Webx |  | Chubachu, Thimphu | 436 |
 | 8 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar |  |  | Thimphu, Bhutan | 385 |
-| 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Selise Group |  | Thimphu,Bhutan | 323 |
+| 9 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Selise Group |  | Thimphu,Bhutan | 322 |
 | 10 | [yesheytenzin](https://github.com/yesheytenzin) | tenz |  | tenzyeshey | Thimphu, Bhutan | 310 |
 | 11 | [nimaytenzin](https://github.com/nimaytenzin) |  |  |  | Bhutan | 297 |
 | 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 233 |

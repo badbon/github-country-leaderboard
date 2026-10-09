@@ -31,7 +31,7 @@ Indexed users: 1,938
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani | Skopje | 3,774 |
 | 18 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Skopje, Macedonia | 3,647 |
 | 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski | Skopje, Macedonia | 3,621 |
-| 20 | [bojmaliev](https://github.com/bojmaliev) | Martin Bojmaliev | Gevgelija, Macedonia | 3,174 |
+| 20 | [markovskiL](https://github.com/markovskiL) | Leonardo Markovski | Prilep, Macedonia | 3,400 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,938
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-09T02:58:24.850Z
+Generated: 2026-10-09T06:36:02.929Z

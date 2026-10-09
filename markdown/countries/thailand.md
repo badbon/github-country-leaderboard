@@ -1,6 +1,6 @@
 # Thailand
 
-Indexed users: 14,996
+Indexed users: 14,995
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 14,996
 | 19 | [worawit](https://github.com/worawit) | Worawit Wangwarunyoo | Thailand | 695 |
 | 20 | [nuuneoi](https://github.com/nuuneoi) | Sittiphol Phanvilai | Bangkok, Thailand | 693 |
 
-Generated: 2026-10-09T03:15:36.015Z
+Generated: 2026-10-09T06:47:02.515Z

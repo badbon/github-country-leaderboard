@@ -1,6 +1,6 @@
 # Followers - Barbados
 
-Generated: 2026-10-09T03:31:19.395Z
+Generated: 2026-10-09T06:55:29.275Z
 
 Users: 133
 
@@ -15,7 +15,7 @@ Users: 133
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | @everos-labs | owanhunte | Barbados | 48 |
 | 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 33 |
 | 9 | [fibini](https://github.com/fibini) | Fabien Brathwaite |  | Onenewpage1 | Barbados | 24 |
-| 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS |  |  | Barbados | 21 |
+| 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS |  |  | Barbados | 22 |
 | 11 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 20 |
 | 12 | [pauly277](https://github.com/pauly277) | Paul Doyle | Pride & Purity | PaulyD277 | Barbados | 20 |
 | 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | @smithai  |  | Christ Church, Barbados | 19 |

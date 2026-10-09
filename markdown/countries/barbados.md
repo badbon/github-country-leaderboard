@@ -26,7 +26,7 @@ Indexed users: 133
 | 12 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 927 |
 | 13 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 676 |
 | 14 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 611 |
-| 15 | [starsden](https://github.com/starsden) | den | Barbados | 564 |
+| 15 | [starsden](https://github.com/starsden) | den | Barbados | 568 |
 | 16 | [diondree](https://github.com/diondree) | Diondre Edwards | Barbados | 442 |
 | 17 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 438 |
 | 18 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
@@ -71,7 +71,7 @@ Indexed users: 133
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | Barbados | 48 |
 | 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 33 |
 | 9 | [fibini](https://github.com/fibini) | Fabien Brathwaite | Barbados | 24 |
-| 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS | Barbados | 21 |
+| 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS | Barbados | 22 |
 | 11 | [intricate](https://github.com/intricate) | Luke | Barbados | 20 |
 | 12 | [pauly277](https://github.com/pauly277) | Paul Doyle | Barbados | 20 |
 | 13 | [EnSabanNur](https://github.com/EnSabanNur) | Ben Clark | Christ Church, Barbados | 19 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-09T03:31:19.395Z
+Generated: 2026-10-09T06:55:29.275Z

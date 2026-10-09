@@ -1,6 +1,6 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-09T03:15:10.324Z
+Generated: 2026-10-09T06:46:17.381Z
 
 Users: 705
 
@@ -17,9 +17,9 @@ Users: 705
 | 9 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Home |  | Tajikistan Dushanbe | 80 |
 | 10 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | @Rio-TJ  |  | Tajikistan | 74 |
 | 11 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Rio.tj |  | Tajikistan | 62 |
-| 12 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 59 |
-| 13 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 56 |
-| 14 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | HumoLab |  | Dushanbe/Tajikistan | 55 |
+| 12 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Hipasus  | awxitxble | Dushanbe, Tajikistan | 58 |
+| 13 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | HumoLab |  | Dushanbe/Tajikistan | 56 |
+| 14 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 56 |
 | 15 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | SoftClub.tj |  | Dushanbe,Tajikistan | 55 |
 | 16 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Saiph Group |  | Tajikistan | 51 |
 | 17 | [11bit](https://github.com/11bit) | Ivan Buryak | https://evilmartians.com | 11bit | Dushanbe | 50 |

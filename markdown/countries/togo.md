@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 681
+Indexed users: 680
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 681
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-09T03:15:41.253Z
+Generated: 2026-10-09T06:47:36.143Z

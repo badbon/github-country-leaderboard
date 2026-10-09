@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-09T03:21:45.718Z
+Generated: 2026-10-09T06:52:27.000Z
 
 Users: 1206
 
@@ -20,7 +20,7 @@ Users: 1206
 | 12 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1287 |
 | 13 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa |  |  | Yemen | 1236 |
 | 14 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1110 |
-| 15 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 973 |
+| 15 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 932 |
 | 16 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 876 |
 | 17 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 759 |
 | 18 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 681 |

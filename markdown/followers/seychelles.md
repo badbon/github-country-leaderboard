@@ -1,6 +1,6 @@
 # Followers - Seychelles
 
-Generated: 2026-10-09T03:08:48.829Z
+Generated: 2026-10-09T06:43:35.717Z
 
 Users: 1776
 
@@ -23,6 +23,6 @@ Users: 1776
 | 15 | [NormandoRamirezDelgado](https://github.com/NormandoRamirezDelgado) | Normando Alán Ramírez Delgado | CBTis 236 |  | Cd. Victoria, Tamaulipas | 154 |
 | 16 | [Integ](https://github.com/Integ) | 姜上 | @ChillingEffect |  | Victoria, BC | 149 |
 | 17 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 136 |
-| 18 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | PandaVPN Official |  | Seychelles | 129 |
+| 18 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | PandaVPN Official |  | Seychelles | 128 |
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Cherish Community Living  |  | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 119 |

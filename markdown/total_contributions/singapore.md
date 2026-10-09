@@ -1,8 +1,8 @@
 # Total Contributions - Singapore
 
-Generated: 2026-10-09T03:10:52.258Z
+Generated: 2026-10-09T06:43:58.080Z
 
-Users: 24648
+Users: 24646
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

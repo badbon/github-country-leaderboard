@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-09T02:57:43.295Z
+Generated: 2026-10-09T06:35:46.342Z
 
 Users: 176
 
@@ -13,7 +13,7 @@ Users: 176
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 599 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | www.techpart. | netmorphus | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 373 |
-| 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Federal University Of Technology, Minna |  | Niger | 252 |
+| 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Federal University Of Technology, Minna |  | Niger | 253 |
 | 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | @AGRHYMET | hmandela | Niamey, NIGER | 225 |
 | 10 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | @qwiper  @Osirion-IA  |  | Niamey,Niger | 205 |
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |

@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-09T03:13:24.986Z
+Generated: 2026-10-09T06:45:01.674Z
 
 Users: 728
 
@@ -12,7 +12,7 @@ Users: 728
 | 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4776 |
 | 5 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3688 |
 | 6 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | KingofMENA | Sudan | 3650 |
-| 7 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3383 |
+| 7 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3350 |
 | 8 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3116 |
 | 9 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2979 |
 | 10 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2862 |

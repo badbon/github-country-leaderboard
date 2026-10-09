@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-09T02:58:24.850Z
+Generated: 2026-10-09T06:36:02.929Z
 
 Users: 1938
 
@@ -25,4 +25,4 @@ Users: 1938
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 3774 |
 | 18 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Intertec.io |  | Skopje, Macedonia | 3647 |
 | 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3621 |
-| 20 | [bojmaliev](https://github.com/bojmaliev) | Martin Bojmaliev |  | bojmaliev | Gevgelija, Macedonia | 3174 |
+| 20 | [markovskiL](https://github.com/markovskiL) | Leonardo Markovski |  |  | Prilep, Macedonia | 3400 |

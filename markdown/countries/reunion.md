@@ -13,7 +13,7 @@ Indexed users: 212
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 12,796 |
-| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,649 |
+| 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,670 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,446 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,778 |
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,502 |
@@ -25,7 +25,7 @@ Indexed users: 212
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,036 |
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,956 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,868 |
-| 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,802 |
+| 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,789 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,766 |
 | 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,488 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,482 |
@@ -75,12 +75,12 @@ Indexed users: 212
 | 11 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 28 |
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Seine-Saint-Denis | 28 |
 | 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | reunion island (FR) | 28 |
-| 14 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel | Seine-Saint-Denis | 27 |
-| 15 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 27 |
-| 16 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 26 |
+| 14 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Saint Denis, La Réunion  | 27 |
+| 15 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel | Seine-Saint-Denis | 27 |
+| 16 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | Reunion Island | 27 |
 | 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | Saint-Denis, Reunion Island | 23 |
 | 18 | [julien-lav](https://github.com/julien-lav) | julien-lav | Saint-Denis | 21 |
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-09T03:03:46.970Z
+Generated: 2026-10-09T06:40:35.846Z

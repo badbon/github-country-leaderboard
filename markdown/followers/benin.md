@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-09T03:31:32.160Z
+Generated: 2026-10-09T06:56:13.738Z
 
 Users: 470
 
@@ -12,7 +12,7 @@ Users: 470
 | 4 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole |  | koladev32 | Benin, Cotonou | 239 |
 | 5 | [NemesisX1](https://github.com/NemesisX1) | Elikem Medehou | @lixalistudio @lixalistudio-oss | elikemmedehou | Cotonou, Benin | 232 |
 | 6 | [COCOUVI](https://github.com/COCOUVI) | Alexandro Cocouvi  | Xandrotech | XTech26551 | Benin | 138 |
-| 7 | [florentak](https://github.com/florentak) | Florent Ayidedji |  |  | Cotonou, Littoral, Benin | 120 |
+| 7 | [florentak](https://github.com/florentak) | Florent Ayidedji |  |  | Cotonou, Littoral, Benin | 119 |
 | 8 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK |  | chafik_Hadj | Benin | 110 |
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO |  |  | Benin | 107 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | LABEF (University of Abomey Calavi) | ChrisCK23683119 | Benin | 98 |
@@ -22,7 +22,7 @@ Users: 470
 | 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
 | 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  |  |  | Benin | 83 |
-| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 79 |
+| 17 | [Augustino127](https://github.com/Augustino127) | Augustino Comlangan | Vallis Technologies | AComlangan70558 | Benin, Cotonou | 80 |
 | 18 | [salimane](https://github.com/salimane) | Salimane Adjao Moustapha | Meltwater |  | Africa, Benin, Rwanda, Ghana, Kenya, China, Germany | 79 |
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | @Rezolusoft | baba_mandef | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | VIPP INTERTIS | awarrisw | Benin, Cotonou Ganhi | 72 |

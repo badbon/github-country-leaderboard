@@ -70,7 +70,7 @@ Indexed users: 904
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | Hamilton | 220 |
 | 7 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 205 |
 | 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 197 |
-| 9 | [davidgrzyb](https://github.com/davidgrzyb) | David Grzyb | Hamilton, Ontario | 183 |
+| 9 | [davidgrzyb](https://github.com/davidgrzyb) | David Grzyb | Hamilton, Ontario | 182 |
 | 10 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 173 |
 | 11 | [jbfink](https://github.com/jbfink) | John Fink | Hamilton, Ontario | 173 |
 | 12 | [dktr0](https://github.com/dktr0) | David Ogborn | Hamilton, Ontario | 147 |
@@ -83,4 +83,4 @@ Indexed users: 904
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 66 |
 
-Generated: 2026-10-09T03:32:47.127Z
+Generated: 2026-10-09T06:56:36.808Z

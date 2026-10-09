@@ -1,6 +1,6 @@
 # Followers - Georgia
 
-Generated: 2026-10-09T03:23:46.995Z
+Generated: 2026-10-09T06:52:58.694Z
 
 Users: 6900
 
@@ -12,13 +12,13 @@ Users: 6900
 | 4 | [heinodendal](https://github.com/heinodendal) | Hein Odendal | @reverseable |  | Tbilisi, Georgia | 937 |
 | 5 | [quasilyte](https://github.com/quasilyte) | quasilyte |  |  | Georgia | 843 |
 | 6 | [dachi-khelashvili](https://github.com/dachi-khelashvili) | Dachi Khelashvili |  |  | Tbilisi, Georgia | 749 |
-| 7 | [muladz3gio](https://github.com/muladz3gio) | muladz3gio |  |  | Georgia, Tbilisi | 738 |
+| 7 | [muladz3gio](https://github.com/muladz3gio) | muladz3gio |  |  | Georgia, Tbilisi | 725 |
 | 8 | [istarkov](https://github.com/istarkov) | Ivan Starkov |  |  | Turkey, UAE, Egypt, Russia, Georgia | 712 |
 | 9 | [SleepTheGod](https://github.com/SleepTheGod) | Taylor Christian Newsome | GitBrew |  | Georgia | 705 |
 | 10 | [secrary](https://github.com/secrary) | khasaia |  | CrossedBytes | Georgia | 700 |
 | 11 | [cwinland](https://github.com/cwinland) | Christopher Winland | @microsoft |  | Georgia | 590 |
-| 12 | [enthusiastdev121](https://github.com/enthusiastdev121) | Paco✨ |  |  | Tbilisi, Georgia | 479 |
-| 13 | [kristina-makalatia](https://github.com/kristina-makalatia) | Kristina |  |  | Tbilisi | 478 |
+| 12 | [kristina-makalatia](https://github.com/kristina-makalatia) | Kristina |  |  | Tbilisi | 478 |
+| 13 | [enthusiastdev121](https://github.com/enthusiastdev121) | Paco✨ |  |  | Tbilisi, Georgia | 477 |
 | 14 | [rlidwka](https://github.com/rlidwka) | Alex Kocharin |  |  | Tbilisi, Georgia | 475 |
 | 15 | [Giorgi](https://github.com/Giorgi) | Giorgi Dalakishvili |  | GioDalakishvili | Tbilisi | 474 |
 | 16 | [gokadzev](https://github.com/gokadzev) | Valeri Gokadze |  |  | Tbilisi, Georgia | 432 |

@@ -13,8 +13,8 @@ Indexed users: 1,787
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Bolivia | 27,294 |
-| 2 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 6,975 |
-| 3 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Sucre Bolivia | 6,815 |
+| 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Sucre Bolivia | 10,439 |
+| 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | Bolivia | 6,975 |
 | 4 | [abelrgr](https://github.com/abelrgr) | Abel | Bolivia | 6,760 |
 | 5 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra | La Paz, Bolivia | 5,801 |
 | 6 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,704 |
@@ -83,4 +83,4 @@ Indexed users: 1,787
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 126 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 124 |
 
-Generated: 2026-10-09T03:32:52.018Z
+Generated: 2026-10-09T06:56:45.415Z

@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-09T03:24:54.728Z
+Generated: 2026-10-09T06:53:08.516Z
 
 Users: 1189
 
@@ -24,5 +24,5 @@ Users: 1189
 | 16 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
 | 17 | [Damjanose](https://github.com/Damjanose) | Damjano |  |  | Albania, Tirana | 614 |
 | 18 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
-| 19 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu |  |  | Tirana, Albania | 549 |
-| 20 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
+| 19 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
+| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | @jxsoft |  | Tirana, Albania | 496 |

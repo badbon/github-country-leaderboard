@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-09T03:34:33.966Z
+Generated: 2026-10-09T06:59:14.621Z
 
 Users: 484
 
@@ -10,7 +10,7 @@ Users: 484
 | 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | @totaljs  | LouisBertson | Burkina Faso | 168 |
 | 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE |  |  | BURKINA FASO | 158 |
 | 4 | [codebadolo](https://github.com/codebadolo) | Badolo Geofroy | carythmaosc |  | Burkina Faso | 122 |
-| 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 121 |
+| 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 120 |
 | 6 | [adamako](https://github.com/adamako) | Adama KO | Declic |  | Burkina Faso | 107 |
 | 7 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Declic Africa | fasodev | Burkina-Faso,Ouagadougou | 105 |
 | 8 | [honokini](https://github.com/honokini) | KINI Biè Honoré | Université Aube Nouvelle (New Dawn University) | HonoreKini | Burkina Faso(Bobo-Dioulasso) | 105 |

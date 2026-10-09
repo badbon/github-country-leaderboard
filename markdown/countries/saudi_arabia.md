@@ -14,7 +14,7 @@ Indexed users: 7,700
 |---:|---|---|---|---:|
 | 1 | [Saleh7](https://github.com/Saleh7) | ~/Saleh | Kingdom of Saudi Arabia | 390,389 |
 | 2 | [AbdullahMu](https://github.com/AbdullahMu) | Abdullah AlGhamdi | Riyadh, Saudi Arabia | 130,667 |
-| 3 | [Haitham8888](https://github.com/Haitham8888) | Haitham | Riyadh, Saudi Arabia | 38,894 |
+| 3 | [Haitham8888](https://github.com/Haitham8888) | Haitham | Riyadh, Saudi Arabia | 38,872 |
 | 4 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | Saudi Arabia | 28,838 |
 | 5 | [hungerstation-bot](https://github.com/hungerstation-bot) | Hungerstation Bot | Saudi Arabi - Riyadh | 17,741 |
 | 6 | [xcode-it](https://github.com/xcode-it) | !null | Jeddah, Saudi Arabia | 17,039 |
@@ -44,8 +44,8 @@ Indexed users: 7,700
 | 5 | [coldworld22](https://github.com/coldworld22) | Ayman Mohammed Osman Bashir | Abha, Saudi Arabia | 8,944 |
 | 6 | [alhanoofalabdullah-ai](https://github.com/alhanoofalabdullah-ai) | Alhanoof Alabdullah | Saudi Arabia, Riyadh city | 5,518 |
 | 7 | [justpainful](https://github.com/justpainful) | Faisal | Saudi Arabia | 4,181 |
-| 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
-| 9 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 3,756 |
+| 8 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 4,097 |
+| 9 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
 | 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,442 |
 | 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Riyadh  | 3,381 |
 | 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan | Saudi arabia, Jeddah | 2,720 |
@@ -83,4 +83,4 @@ Indexed users: 7,700
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-09T03:06:46.368Z
+Generated: 2026-10-09T06:42:30.921Z

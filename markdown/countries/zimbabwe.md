@@ -1,6 +1,6 @@
 # Zimbabwe
 
-Indexed users: 1,656
+Indexed users: 1,655
 
 | Leaderboard | Link |
 |---|---|
@@ -63,24 +63,24 @@ Indexed users: 1,656
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,302 |
-| 2 | [kenjiwizard](https://github.com/kenjiwizard) | Kenji | Harare | 1,201 |
-| 3 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 620 |
-| 4 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Zimbabwe | 612 |
-| 5 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | harare  Zimbabwe | 458 |
-| 6 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 222 |
-| 7 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 205 |
-| 8 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 185 |
-| 9 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Bulawayo, Zimbabwe | 183 |
-| 10 | [Amen-Musingarimi](https://github.com/Amen-Musingarimi) | Amen Musingarimi | Harare, Zimbabwe | 171 |
-| 11 | [sirx2713](https://github.com/sirx2713) | iSAD | Zimbabwe | 171 |
-| 12 | [kculz](https://github.com/kculz) | Kudzai Munyama | Mutare, Zimbabwe | 170 |
-| 13 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 165 |
-| 14 | [DonnC](https://github.com/DonnC) | Donald Chinhuru | Harare, Zimbabwe | 164 |
-| 15 | [kudak3](https://github.com/kudak3) | Kudakwashe Kuzvindiwana | Harare,Zimbabwe | 162 |
-| 16 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | Harare, Zimbabwe | 151 |
-| 17 | [michaeldera](https://github.com/michaeldera) | Michael | Bulawayo, Zimbabwe  | 129 |
-| 18 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 123 |
-| 19 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
+| 2 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 620 |
+| 3 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Zimbabwe | 612 |
+| 4 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | harare  Zimbabwe | 458 |
+| 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 222 |
+| 6 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 205 |
+| 7 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 185 |
+| 8 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Bulawayo, Zimbabwe | 183 |
+| 9 | [Amen-Musingarimi](https://github.com/Amen-Musingarimi) | Amen Musingarimi | Harare, Zimbabwe | 171 |
+| 10 | [sirx2713](https://github.com/sirx2713) | iSAD | Zimbabwe | 171 |
+| 11 | [kculz](https://github.com/kculz) | Kudzai Munyama | Mutare, Zimbabwe | 170 |
+| 12 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 165 |
+| 13 | [DonnC](https://github.com/DonnC) | Donald Chinhuru | Harare, Zimbabwe | 164 |
+| 14 | [kudak3](https://github.com/kudak3) | Kudakwashe Kuzvindiwana | Harare,Zimbabwe | 162 |
+| 15 | [Elisvobs](https://github.com/Elisvobs) | Elias Svoba | Harare, Zimbabwe | 151 |
+| 16 | [michaeldera](https://github.com/michaeldera) | Michael | Bulawayo, Zimbabwe  | 129 |
+| 17 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Harare, Zimbabwe | 123 |
+| 18 | [kaysiz](https://github.com/kaysiz) | kudakwashe siziva | Zimbabwe | 122 |
+| 19 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  | Harare | 116 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-09T03:23:25.725Z
+Generated: 2026-10-09T06:52:55.112Z

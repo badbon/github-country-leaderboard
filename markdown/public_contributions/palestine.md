@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-09T03:00:00.156Z
+Generated: 2026-10-09T06:37:11.999Z
 
 Users: 2211
 
@@ -22,7 +22,7 @@ Users: 2211
 | 14 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 818 |
 | 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 759 |
-| 17 | [rashaNAlaswad](https://github.com/rashaNAlaswad) | Rasha N. Alaswad |  |  | Gaza, Palestine | 741 |
-| 18 | [IbrahimHYazouri](https://github.com/IbrahimHYazouri) | Ibrahim H. Al-Yazouri |  |  | Palestine, Gaza | 709 |
-| 19 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Co.Te.De. | KQnabi | Palestine | 699 |
-| 20 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Birzeit University |  | Palestine | 671 |
+| 17 | [IbrahimHYazouri](https://github.com/IbrahimHYazouri) | Ibrahim H. Al-Yazouri |  |  | Palestine, Gaza | 709 |
+| 18 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Co.Te.De. | KQnabi | Palestine | 699 |
+| 19 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Birzeit University |  | Palestine | 671 |
+| 20 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti |  |  | Palestine | 652 |

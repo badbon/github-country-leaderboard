@@ -1,6 +1,6 @@
 # Followers - Zambia
 
-Generated: 2026-10-09T03:23:22.609Z
+Generated: 2026-10-09T06:52:50.961Z
 
 Users: 1346
 
@@ -18,11 +18,11 @@ Users: 1346
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | @EducoreServices |  | Zambia | 152 |
 | 11 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh |  |  | Lusaka, Zambia | 138 |
 | 12 | [akebu6](https://github.com/akebu6) | Akebu | @TheZigGroup  | akebu6 | Zambia | 133 |
-| 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe |  | geraldmaboshe | Lusaka, Zambia | 115 |
-| 14 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Available for Hire | King_Kaylo1 | Lusaka, Zambia | 113 |
+| 13 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Available for Hire | King_Kaylo1 | Lusaka, Zambia | 116 |
+| 14 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe |  | geraldmaboshe | Lusaka, Zambia | 115 |
 | 15 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | PICKANAPP ZAMBIA |  | Zambia | 113 |
 | 16 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje |  |  | Ndola, Zambia | 109 |
-| 17 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Kuseni Digital Inc Zambia |  | Lusaka, Zambia | 105 |
-| 18 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  | mwanzabj |  Lusaka, Zambia | 105 |
-| 19 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Quick programming |  | Lusaka, Zambia | 104 |
+| 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | TechTonic Inc. | yambwa_imwaka | Zambia | 107 |
+| 18 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Kuseni Digital Inc Zambia |  | Lusaka, Zambia | 105 |
+| 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  | mwanzabj |  Lusaka, Zambia | 105 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula |  | Kampamba_Shula | Lusaka | 104 |

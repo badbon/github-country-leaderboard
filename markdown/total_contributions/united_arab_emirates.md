@@ -1,8 +1,8 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-09T03:18:20.887Z
+Generated: 2026-10-09T06:50:46.849Z
 
-Users: 4250
+Users: 4248
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 4250
 | 13 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
 | 14 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
 | 15 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
-| 16 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 7746 |
+| 16 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
 | 17 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Blue Beetle |  | Dubai, United Arab Emirates | 7593 |
 | 18 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | @desertcart | mohammaddohad | United Arab Emirates | 7294 |
 | 19 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Atrix.dev© / Hoppers Network \|  | moeidsaleem | Dubai, United Arab Emirates | 7156 |

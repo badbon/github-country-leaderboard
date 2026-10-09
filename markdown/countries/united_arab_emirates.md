@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,250
+Indexed users: 4,248
 
 | Leaderboard | Link |
 |---|---|
@@ -27,7 +27,7 @@ Indexed users: 4,250
 | 13 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
 | 14 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
 | 15 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
-| 16 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 7,746 |
+| 16 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
 | 17 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
 | 18 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 7,294 |
 | 19 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Dubai, United Arab Emirates | 7,156 |
@@ -83,4 +83,4 @@ Indexed users: 4,250
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-09T03:18:20.887Z
+Generated: 2026-10-09T06:50:46.849Z

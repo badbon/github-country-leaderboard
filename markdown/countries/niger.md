@@ -24,11 +24,11 @@ Indexed users: 176
 | 10 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 944 |
 | 11 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 874 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 773 |
-| 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 750 |
+| 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 752 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 691 |
 | 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 599 |
 | 16 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 514 |
-| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 512 |
+| 17 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 511 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 457 |
 | 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 440 |
@@ -44,7 +44,7 @@ Indexed users: 176
 | 5 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 599 |
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 373 |
-| 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 252 |
+| 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 253 |
 | 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | Niamey, NIGER | 225 |
 | 10 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 205 |
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley | Niamey | 194 |
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-09T02:57:43.295Z
+Generated: 2026-10-09T06:35:46.342Z

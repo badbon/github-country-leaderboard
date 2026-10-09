@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-09T03:31:19.395Z
+Generated: 2026-10-09T06:55:29.275Z
 
 Users: 133
 
@@ -20,7 +20,7 @@ Users: 133
 | 12 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 927 |
 | 13 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 676 |
 | 14 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 611 |
-| 15 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 564 |
+| 15 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 568 |
 | 16 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 442 |
 | 17 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 438 |
 | 18 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |

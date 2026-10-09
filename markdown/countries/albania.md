@@ -55,8 +55,8 @@ Indexed users: 1,189
 | 16 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
 | 17 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
 | 18 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 565 |
-| 19 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu | Tirana, Albania | 549 |
-| 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
+| 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
+| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | Tirana, Albania | 496 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,189
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-09T03:24:54.728Z
+Generated: 2026-10-09T06:53:08.516Z

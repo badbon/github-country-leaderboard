@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-09T03:25:41.770Z
+Generated: 2026-10-09T06:54:22.536Z
 
 Users: 215
 
@@ -9,7 +9,7 @@ Users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 6983 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 2937 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1033 |
-| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 757 |
+| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 764 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 710 |
 | 6 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 694 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 663 |
@@ -20,8 +20,8 @@ Users: 215
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | @Peersyst |  | Andorra | 445 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |
 | 14 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 391 |
-| 15 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 385 |
-| 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 313 |
+| 15 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 388 |
+| 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 317 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 276 |
 | 18 | [davidbalivo](https://github.com/davidbalivo) |  |  |  | Andorra | 235 |
 | 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | @tradegist  |  | Andorra | 224 |

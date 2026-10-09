@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-09T03:32:47.127Z
+Generated: 2026-10-09T06:56:36.808Z
 
 Users: 904
 
@@ -14,7 +14,7 @@ Users: 904
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | @reallygoodwork |  | Hamilton | 220 |
 | 7 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 205 |
 | 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Elastic | clintandrewhall | Hamilton, ON | 197 |
-| 9 | [davidgrzyb](https://github.com/davidgrzyb) | David Grzyb | @worksitesafety |  | Hamilton, Ontario | 183 |
+| 9 | [davidgrzyb](https://github.com/davidgrzyb) | David Grzyb | @worksitesafety |  | Hamilton, Ontario | 182 |
 | 10 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 173 |
 | 11 | [jbfink](https://github.com/jbfink) | John Fink | McMaster University |  | Hamilton, Ontario | 173 |
 | 12 | [dktr0](https://github.com/dktr0) | David Ogborn |  |  | Hamilton, Ontario | 147 |
