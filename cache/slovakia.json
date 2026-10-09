@@ -8420,7 +8420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-07-27T12:01:16Z"
   },
   {
@@ -8480,7 +8480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 302,
     "createdAt": "2022-12-13T19:25:45Z"
   },
   {
@@ -8551,8 +8551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 14,
+    "privateContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-06-10T09:01:06Z"
   },
   {
@@ -8574,7 +8574,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-09-25T19:42:06Z"
@@ -8598,21 +8598,21 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 41,
+    "followers": 2,
+    "privateContributions": 39,
     "publicContributions": 0,
     "createdAt": "2022-02-21T13:07:53Z"
   },
   {
     "login": "BeloIV",
     "name": "Štefan Beluško",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118690695?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118690695?s=72&u=5092ecf115718c88013f2cce8944d8caa074a8de&v=4",
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 150,
-    "publicContributions": 175,
+    "privateContributions": 444,
+    "publicContributions": 249,
     "createdAt": "2022-11-20T20:09:36Z"
   },
   {
@@ -8636,7 +8636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 7,
-    "publicContributions": 251,
+    "publicContributions": 280,
     "createdAt": "2022-11-02T11:25:04Z"
   },
   {
