@@ -8880,18 +8880,6 @@
     "createdAt": "2022-02-11T17:11:31Z"
   },
   {
-    "login": "KuboHA",
-    "name": "Jakub Schalek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120172830?s=72&u=d0ce7a4e21a922a0693de1103141689ba066686f&v=4",
-    "location": "Bratislava, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2022-12-09T09:20:25Z"
-  },
-  {
     "login": "Fungafufu",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108220098?s=72&u=29dcac2676973b162a6bb71c5b86135c0877c845&v=4",
@@ -8912,7 +8900,7 @@
     "twitterUsername": "JurajNedelka",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2022-10-22T15:13:19Z"
   },
   {
@@ -8923,7 +8911,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
+    "privateContributions": 25,
     "publicContributions": 1,
     "createdAt": "2022-09-03T22:18:44Z"
   },
@@ -8958,9 +8946,9 @@
     "location": "Slovakia , Dolny Kubin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-11-09T13:59:39Z"
   },
   {
@@ -8995,8 +8983,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 67,
-    "publicContributions": 424,
+    "privateContributions": 173,
+    "publicContributions": 335,
     "createdAt": "2022-02-09T09:55:03Z"
   },
   {
@@ -9007,8 +8995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
-    "publicContributions": 387,
+    "privateContributions": 50,
+    "publicContributions": 382,
     "createdAt": "2022-09-19T13:50:41Z"
   },
   {
@@ -9020,19 +9008,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 85,
     "createdAt": "2022-08-09T10:20:58Z"
   },
   {
     "login": "sv222",
     "name": "Stanislav",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97960236?s=72&u=54f7c9533a692285de7fb656a856e93640911172&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97960236?s=72&u=ed6a4fd0903861b1121506c204a47be3d7c416f2&v=4",
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 60,
+    "followers": 62,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 254,
     "createdAt": "2022-01-18T12:49:18Z"
   },
   {
@@ -9044,20 +9032,8 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2022-01-23T14:53:24Z"
-  },
-  {
-    "login": "SonicallGameXGit",
-    "name": "OxygenSE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116002303?s=72&u=8bfa1986657f7700f0680a26dc7b5e5d45757e8e&v=4",
-    "location": "Bratislava",
-    "company": "SonicallGameX",
-    "twitterUsername": "_oxygense",
-    "followers": 18,
-    "privateContributions": 0,
-    "publicContributions": 129,
-    "createdAt": "2022-10-17T13:26:47Z"
   },
   {
     "login": "xtruhlar",
@@ -9066,9 +9042,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 290,
-    "publicContributions": 135,
+    "followers": 17,
+    "privateContributions": 259,
+    "publicContributions": 137,
     "createdAt": "2022-09-21T10:20:06Z"
   },
   {
@@ -9080,7 +9056,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 714,
+    "publicContributions": 875,
     "createdAt": "2022-02-11T10:17:54Z"
   },
   {
@@ -9090,22 +9066,10 @@
     "location": "bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 924,
-    "publicContributions": 106,
+    "followers": 14,
+    "privateContributions": 1209,
+    "publicContributions": 131,
     "createdAt": "2022-06-15T15:54:13Z"
-  },
-  {
-    "login": "ephemss",
-    "name": "Ephemsss",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98225358?s=72&u=f156da02720681e48588dbce4b7af2848a558538&v=4",
-    "location": "Bratislava",
-    "company": "",
-    "twitterUsername": "ephemsssss",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-22T15:41:49Z"
   },
   {
     "login": "xpalfy",

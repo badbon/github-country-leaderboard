@@ -8972,7 +8972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 26,
     "createdAt": "2020-04-29T13:22:18Z"
   },
   {
@@ -8996,7 +8996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-02-24T08:22:23Z"
   },
   {
@@ -9056,7 +9056,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 159,
     "createdAt": "2020-10-20T10:42:01Z"
   },
   {
@@ -9078,7 +9078,7 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-08T05:40:27Z"
@@ -9096,18 +9096,6 @@
     "createdAt": "2020-05-05T16:43:24Z"
   },
   {
-    "login": "ncxcy",
-    "name": "apex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61097676?s=72&u=420f83c4f3b93a5945cadb0a55ccc0f6df8d4518&v=4",
-    "location": "Slovenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2020-02-15T22:49:44Z"
-  },
-  {
     "login": "Haldgerd",
     "name": "Lorna Mally",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59872477?s=72&u=9b5673437ee0a2e9afd8f2f7ddfbd8b7b161075b&v=4",
@@ -9115,8 +9103,8 @@
     "company": "Endava",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 20,
+    "privateContributions": 74,
+    "publicContributions": 15,
     "createdAt": "2020-01-14T11:55:25Z"
   },
   {
@@ -9126,7 +9114,7 @@
     "location": "Slovenia",
     "company": "University of Ljubljana",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2020-12-17T07:35:05Z"
@@ -9175,7 +9163,7 @@
     "company": "Cleanshelf",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1236,
+    "privateContributions": 1195,
     "publicContributions": 0,
     "createdAt": "2020-01-20T09:02:23Z"
   },

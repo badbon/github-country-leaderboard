@@ -12823,7 +12823,7 @@
     "company": "MRZN XYZ at @AncavaHQ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 6,
     "publicContributions": 4,
     "createdAt": "2026-05-21T02:18:51Z"
   },
@@ -12874,5 +12874,17 @@
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2026-01-24T16:09:58Z"
+  },
+  {
+    "login": "red355-crypto",
+    "name": "RedBreach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291626608?s=72&u=f3306f66a8aa46b6c56d363e10442eac9d184c26&v=4",
+    "location": "Doha",
+    "company": "Breachline Network Security",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-07T23:25:56Z"
   }
 ]
