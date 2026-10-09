@@ -5804,7 +5804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-09-23T12:09:47Z"
   },
   {
@@ -5828,20 +5828,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 55,
     "createdAt": "2025-03-25T01:24:42Z"
-  },
-  {
-    "login": "alyanacollins1986",
-    "name": "Alyanno",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228261180?s=72&u=f97a29b43bdb115eff2c6eebfd5be8f655befc1b&v=4",
-    "location": "Galway-Dublin",
-    "company": "@myself",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2025-08-23T22:30:40Z"
   },
   {
     "login": "hannahdnguyen",
@@ -5864,7 +5852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2025-03-04T20:45:41Z"
   },
   {
@@ -5876,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-18T14:08:24Z"
   },
   {
@@ -5888,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 8,
     "createdAt": "2025-04-28T15:27:19Z"
   },
   {
@@ -5898,21 +5886,21 @@
     "location": "Éire",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2024-10-12T17:53:23Z"
   },
   {
     "login": "eachra-bawn",
-    "name": "Oisín Ó Maolchathail",
+    "name": "Oisín Mulhall",
     "avatarUrl": "https://avatars.githubusercontent.com/u/173712697?s=72&u=99f2de1c1318945b285b0e5aa80398172acad616&v=4",
     "location": "Éire",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 24,
+    "followers": 6,
+    "privateContributions": 31,
+    "publicContributions": 121,
     "createdAt": "2024-06-24T16:01:07Z"
   },
   {
@@ -5922,9 +5910,9 @@
     "location": "Dublin, Ireland",
     "company": "Test.IO",
     "twitterUsername": "YulverMusa",
-    "followers": 91,
+    "followers": 89,
     "privateContributions": 201,
-    "publicContributions": 834,
+    "publicContributions": 444,
     "createdAt": "2024-03-30T08:30:10Z"
   },
   {
@@ -5934,9 +5922,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 81,
+    "followers": 75,
     "privateContributions": 1,
-    "publicContributions": 23,
+    "publicContributions": 20,
     "createdAt": "2024-09-20T22:30:41Z"
   },
   {
@@ -5946,22 +5934,10 @@
     "location": "Tipperary, Ireland",
     "company": "Self Employed",
     "twitterUsername": "",
-    "followers": 63,
+    "followers": 60,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2024-12-18T21:53:05Z"
-  },
-  {
-    "login": "TiredFrenchDachsund",
-    "name": "HerPureSoul",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/191911553?s=72&u=78d6ec738c12db4761d2a9ac3c11214b48fbc11b&v=4",
-    "location": "Dublin, Ireland",
-    "company": "My comfort resident is obviously: Imogen",
-    "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2024-12-16T19:41:17Z"
   },
   {
     "login": "EmminiX",
@@ -5970,9 +5946,9 @@
     "location": "Ireland",
     "company": "Engaging Minds, Merging Ideas",
     "twitterUsername": "deep_endX",
-    "followers": 26,
-    "privateContributions": 4508,
-    "publicContributions": 265,
+    "followers": 24,
+    "privateContributions": 6082,
+    "publicContributions": 262,
     "createdAt": "2024-01-22T13:29:59Z"
   },
   {
@@ -5981,10 +5957,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/156128799?s=72&u=06faa8f1006ada77695483c9653ba8b2956d1d22&v=4",
     "location": "Dublin, Ireland",
     "company": "",
-    "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 1685,
-    "publicContributions": 62,
+    "twitterUsername": "apex_ether",
+    "followers": 27,
+    "privateContributions": 2267,
+    "publicContributions": 69,
     "createdAt": "2024-01-09T19:42:24Z"
   },
   {
@@ -5995,8 +5971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 384,
-    "publicContributions": 380,
+    "privateContributions": 494,
+    "publicContributions": 352,
     "createdAt": "2024-01-26T16:23:59Z"
   },
   {
@@ -6006,8 +5982,8 @@
     "location": "Dublin, Ireland",
     "company": "University College Dublin",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 956,
+    "followers": 20,
+    "privateContributions": 2509,
     "publicContributions": 1,
     "createdAt": "2024-10-06T07:20:31Z"
   },
@@ -6018,9 +5994,9 @@
     "location": "Cork, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 64,
-    "publicContributions": 125,
+    "followers": 20,
+    "privateContributions": 72,
+    "publicContributions": 121,
     "createdAt": "2024-03-07T15:26:21Z"
   },
   {

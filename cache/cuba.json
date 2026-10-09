@@ -5898,9 +5898,9 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "followers": 6,
+    "privateContributions": 161,
+    "publicContributions": 10,
     "createdAt": "2022-04-23T04:34:48Z"
   },
   {
@@ -5934,7 +5934,7 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "aliaxdev",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2022-01-07T22:04:50Z"
@@ -5947,7 +5947,7 @@
     "company": "Aduana de Cuba",
     "twitterUsername": "YadinDS",
     "followers": 5,
-    "privateContributions": 8,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2022-01-24T20:55:35Z"
   },
@@ -5996,7 +5996,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 121,
     "createdAt": "2022-10-21T11:48:03Z"
   },
   {
@@ -6007,32 +6007,32 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 63,
-    "publicContributions": 45,
+    "privateContributions": 64,
+    "publicContributions": 74,
     "createdAt": "2022-03-10T01:58:42Z"
   },
   {
     "login": "HectorYanes",
     "name": "Hector Yanes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96952572?s=72&u=d3f17831d2c032991ab107efaded2858f1d2be55&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96952572?s=72&u=1b8a6491077e3929133dbc0a3599312ad500956e&v=4",
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2022-01-01T17:24:59Z"
   },
   {
     "login": "luislicea1",
     "name": "Luis Andrés Licea Berenguer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105835373?s=72&u=abc2eb53fa08a83501737c9e1b050178f867caf7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105835373?s=72&u=90fec486ed5fef158d08951817a69fe0bc397f56&v=4",
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 39,
     "createdAt": "2022-05-19T03:17:35Z"
   },
   {
@@ -6043,7 +6043,7 @@
     "company": "JAHC-DeV",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 223,
+    "privateContributions": 251,
     "publicContributions": 6,
     "createdAt": "2022-07-13T23:30:38Z"
   },
@@ -6068,7 +6068,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 51,
     "createdAt": "2022-05-04T20:07:06Z"
   },
   {
@@ -6115,7 +6115,7 @@
     "company": "",
     "twitterUsername": "DTurtos",
     "followers": 4,
-    "privateContributions": 6,
+    "privateContributions": 9,
     "publicContributions": 10,
     "createdAt": "2022-02-02T13:31:40Z"
   },
@@ -6127,7 +6127,7 @@
     "company": "",
     "twitterUsername": "javicaib",
     "followers": 4,
-    "privateContributions": 14,
+    "privateContributions": 3,
     "publicContributions": 27,
     "createdAt": "2022-01-01T21:21:50Z"
   },

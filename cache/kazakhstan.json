@@ -5726,13 +5726,13 @@
   {
     "login": "Timirlon",
     "name": "Temirlan Turgimbayev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160526931?s=72&u=7c77b331e9bfb85219cb76f2e19153c72b7303c7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160526931?s=72&v=4",
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 103,
-    "publicContributions": 61,
+    "privateContributions": 105,
+    "publicContributions": 52,
     "createdAt": "2024-02-19T17:13:05Z"
   },
   {
@@ -5744,7 +5744,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 16,
     "createdAt": "2024-12-23T15:11:56Z"
   },
   {
@@ -5780,7 +5780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2024-01-27T15:41:56Z"
   },
   {
@@ -5816,7 +5816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 206,
     "createdAt": "2024-05-10T08:33:51Z"
   },
   {
@@ -5826,9 +5826,9 @@
     "location": "Republic of Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-05-12T08:39:54Z"
   },
   {
@@ -5864,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 23,
     "createdAt": "2024-12-21T08:21:12Z"
   },
   {
@@ -5888,7 +5888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 6,
     "createdAt": "2024-12-12T18:07:24Z"
   },
   {
@@ -5900,7 +5900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2024-12-25T19:17:00Z"
   },
   {
@@ -5924,7 +5924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 207,
+    "publicContributions": 167,
     "createdAt": "2024-12-18T04:22:05Z"
   },
   {
@@ -5935,21 +5935,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1634,
-    "publicContributions": 102,
+    "privateContributions": 2527,
+    "publicContributions": 0,
     "createdAt": "2024-07-12T16:13:28Z"
-  },
-  {
-    "login": "sabr2007",
-    "name": "Sabyrzhan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186695531?s=72&u=dda42b589624fd14f4f28b8f957ce0999dc519ab&v=4",
-    "location": "Astana, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 632,
-    "publicContributions": 379,
-    "createdAt": "2024-10-29T10:54:27Z"
   },
   {
     "login": "samgar-seriknur",
@@ -68062,5 +68050,53 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2026-05-17T16:06:18Z"
+  },
+  {
+    "login": "mokigrom",
+    "name": "Ruslan Borovsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291514209?s=72&u=705f2e19daa31b3ee0fcd4b55f4ea5c51d0f432d&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "MokiGrom",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-07T12:20:38Z"
+  },
+  {
+    "login": "Yuenqier",
+    "name": "Valeriy Efimenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296041760?s=72&u=09918017466aa878e339906bdd2ca71e9e458ceb&v=4",
+    "location": "Almaty, Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-23T03:53:10Z"
+  },
+  {
+    "login": "Pachicom",
+    "name": "Pachicom",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294563047?s=72&u=aba8f7c99bbd68cfe37d5fd164ff7076734d8b0a&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-17T15:53:01Z"
+  },
+  {
+    "login": "reebith546",
+    "name": "Прохоров Илья",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295574925?s=72&v=4",
+    "location": "Kazakhstan, Almaty",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-21T11:26:02Z"
   }
 ]

@@ -5911,7 +5911,7 @@
     "company": "ByteOptima Solutions Ltd",
     "twitterUsername": "wooldon",
     "followers": 9,
-    "privateContributions": 318,
+    "privateContributions": 451,
     "publicContributions": 0,
     "createdAt": "2019-11-05T14:23:55Z"
   },
@@ -5924,7 +5924,7 @@
     "twitterUsername": "Vul_K_No",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 24,
     "createdAt": "2019-02-19T21:40:41Z"
   },
   {
@@ -5936,7 +5936,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 19,
     "createdAt": "2019-11-05T03:39:48Z"
   },
   {
@@ -5947,7 +5947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 27,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2019-10-27T23:32:09Z"
   },
@@ -5971,8 +5971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 240,
-    "publicContributions": 4,
+    "privateContributions": 210,
+    "publicContributions": 3,
     "createdAt": "2019-11-28T20:54:58Z"
   },
   {
@@ -5983,8 +5983,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2019-07-21T01:44:35Z"
   },
   {
@@ -5996,7 +5996,7 @@
     "twitterUsername": "naomiiliv",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2019-11-10T01:25:18Z"
   },
   {
@@ -6007,7 +6007,7 @@
     "company": "",
     "twitterUsername": "Mike_eyy117",
     "followers": 5,
-    "privateContributions": 149,
+    "privateContributions": 168,
     "publicContributions": 7,
     "createdAt": "2019-02-11T02:50:57Z"
   },
@@ -6044,7 +6044,7 @@
     "twitterUsername": "ryhdry",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2019-04-04T00:43:39Z"
   },
   {
@@ -6055,8 +6055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 16,
-    "publicContributions": 90,
+    "privateContributions": 0,
+    "publicContributions": 75,
     "createdAt": "2019-01-13T12:09:56Z"
   },
   {
@@ -6066,9 +6066,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "jameel_tweets",
-    "followers": 4,
-    "privateContributions": 123,
-    "publicContributions": 2,
+    "followers": 5,
+    "privateContributions": 104,
+    "publicContributions": 0,
     "createdAt": "2019-06-14T16:43:10Z"
   },
   {
@@ -6079,8 +6079,8 @@
     "company": "Fullstack Developer",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1008,
-    "publicContributions": 187,
+    "privateContributions": 1396,
+    "publicContributions": 102,
     "createdAt": "2019-04-09T18:32:50Z"
   },
   {
@@ -6092,7 +6092,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 47,
     "createdAt": "2019-10-09T17:33:15Z"
   },
   {
@@ -6103,7 +6103,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 22,
+    "privateContributions": 7,
     "publicContributions": 0,
     "createdAt": "2019-03-15T02:04:07Z"
   },
@@ -15358,5 +15358,17 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-05-27T22:10:21Z"
+  },
+  {
+    "login": "tantanb-dev",
+    "name": "TanTan B",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292056877?s=72&u=40d9432085f3210b8ba6d16df4f1eb2705407c5b&v=4",
+    "location": "Jamaica",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-09T09:12:24Z"
   }
 ]

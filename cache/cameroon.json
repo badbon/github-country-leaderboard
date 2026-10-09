@@ -5922,7 +5922,7 @@
     "location": "cameroon ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2023-11-06T07:29:58Z"
@@ -5936,7 +5936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 47,
     "createdAt": "2023-07-18T08:27:58Z"
   },
   {
@@ -5959,8 +5959,8 @@
     "company": "@NGcodeX ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 2,
+    "privateContributions": 42,
+    "publicContributions": 9,
     "createdAt": "2023-11-26T15:18:15Z"
   },
   {
@@ -5972,7 +5972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 100,
     "createdAt": "2023-10-16T18:07:05Z"
   },
   {
@@ -5984,7 +5984,7 @@
     "twitterUsername": "yimnai_dev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2023-04-22T12:35:38Z"
   },
   {
@@ -6032,7 +6032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2023-01-26T20:00:14Z"
   },
   {
@@ -6056,7 +6056,7 @@
     "twitterUsername": "Raeni021",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 2,
     "createdAt": "2023-01-07T12:47:35Z"
   },
   {
@@ -6092,7 +6092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 75,
     "createdAt": "2023-05-11T21:02:14Z"
   },
   {
@@ -6104,20 +6104,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 62,
     "createdAt": "2023-10-25T12:40:17Z"
-  },
-  {
-    "login": "brhms06",
-    "name": "0x Santan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154813969?s=72&v=4",
-    "location": "Buea, Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 136,
-    "createdAt": "2023-12-25T13:18:16Z"
   },
   {
     "login": "Alorr-jpn",
@@ -6133,14 +6121,14 @@
   },
   {
     "login": "FranckDongmo",
-    "name": "Dongmo Franck",
+    "name": "Dongmo Franck J.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/125737487?s=72&v=4",
     "location": "Yaounde, Cameroon",
     "company": "Centre for research in infectious diseases",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 23,
     "createdAt": "2023-02-18T11:19:39Z"
   },
   {

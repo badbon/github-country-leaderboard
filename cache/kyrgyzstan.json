@@ -5635,8 +5635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 154,
-    "publicContributions": 2,
+    "privateContributions": 261,
+    "publicContributions": 9,
     "createdAt": "2023-05-02T13:06:00Z"
   },
   {
@@ -5646,9 +5646,9 @@
     "location": "Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 52,
     "createdAt": "2023-09-25T14:44:52Z"
   },
   {
@@ -5670,7 +5670,7 @@
     "location": "Bishkek",
     "company": "PROlab agency",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2023-01-07T05:57:42Z"
@@ -5684,7 +5684,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2023-10-15T05:25:10Z"
   },
   {
@@ -5743,8 +5743,8 @@
     "company": "PetaByte",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1432,
-    "publicContributions": 406,
+    "privateContributions": 1648,
+    "publicContributions": 429,
     "createdAt": "2023-12-26T11:53:48Z"
   },
   {
@@ -5767,21 +5767,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 65,
+    "privateContributions": 70,
     "publicContributions": 0,
     "createdAt": "2023-05-30T03:43:33Z"
-  },
-  {
-    "login": "zhumagulovv",
-    "name": "Zhumagulov Zhakyp",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134058559?s=72&v=4",
-    "location": "Bishkek city ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 102,
-    "createdAt": "2023-05-19T10:28:19Z"
   },
   {
     "login": "botbay524",
@@ -5810,13 +5798,13 @@
   {
     "login": "dasbkdev",
     "name": "das",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136883589?s=72&u=bba850f33fc8974f3d8fe7a1b56bf4ec094c095e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136883589?s=72&u=cf2ea78dea58af5ed0f0af3352856b77e4629483&v=4",
     "location": "Bishkek city",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 106,
     "createdAt": "2023-06-17T07:07:23Z"
   },
   {
@@ -5840,7 +5828,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2023-05-18T10:32:32Z"
   },
   {
@@ -5864,7 +5852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 167,
     "createdAt": "2023-05-17T12:09:35Z"
   },
   {

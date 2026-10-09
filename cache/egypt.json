@@ -5876,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 299,
-    "publicContributions": 224,
+    "publicContributions": 211,
     "createdAt": "2025-01-31T15:24:04Z"
   },
   {
@@ -5886,7 +5886,7 @@
     "location": "Egypt",
     "company": "O6U",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 67,
     "createdAt": "2025-02-01T13:34:32Z"
@@ -5898,22 +5898,10 @@
     "location": "Cairo, Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 7,
-    "publicContributions": 111,
+    "publicContributions": 108,
     "createdAt": "2025-02-14T12:14:45Z"
-  },
-  {
-    "login": "xsiphr",
-    "name": "Abdulrahman Agiba",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204253513?s=72&u=ef2e148a427c5a016c9b9562706d1d571e067911&v=4",
-    "location": "Egypt",
-    "company": "",
-    "twitterUsername": "0xsiphr",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 129,
-    "createdAt": "2025-03-20T19:52:40Z"
   },
   {
     "login": "abanob2005",
@@ -5922,9 +5910,9 @@
     "location": "Suez,Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 107,
     "createdAt": "2025-03-04T09:15:50Z"
   },
   {
@@ -5936,7 +5924,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 186,
     "createdAt": "2025-01-18T16:10:34Z"
   },
   {
@@ -5947,8 +5935,8 @@
     "company": "mohamed fargella",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 108,
-    "publicContributions": 87,
+    "privateContributions": 72,
+    "publicContributions": 72,
     "createdAt": "2025-01-02T17:18:09Z"
   },
   {
@@ -5960,7 +5948,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 67,
     "createdAt": "2025-02-18T17:42:04Z"
   },
   {
@@ -5970,9 +5958,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 525,
+    "publicContributions": 276,
     "createdAt": "2025-01-04T20:57:39Z"
   },
   {
@@ -5984,7 +5972,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 540,
+    "publicContributions": 426,
     "createdAt": "2025-03-03T22:33:39Z"
   },
   {
@@ -5994,9 +5982,9 @@
     "location": "Cairo, Egypt",
     "company": "Digilians",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 253,
+    "publicContributions": 263,
     "createdAt": "2025-02-19T16:46:55Z"
   },
   {
@@ -6008,7 +5996,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 36,
     "createdAt": "2025-02-21T07:23:19Z"
   },
   {
@@ -6019,8 +6007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 8,
-    "publicContributions": 291,
+    "privateContributions": 6,
+    "publicContributions": 150,
     "createdAt": "2025-01-08T13:28:04Z"
   },
   {
@@ -6032,7 +6020,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 36,
     "createdAt": "2025-02-19T11:12:44Z"
   },
   {
@@ -6042,9 +6030,9 @@
     "location": "Egypt",
     "company": "@RESC-SA  @Hafez-Code ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 420,
-    "publicContributions": 327,
+    "followers": 9,
+    "privateContributions": 469,
+    "publicContributions": 353,
     "createdAt": "2025-03-01T09:33:44Z"
   },
   {
@@ -6056,7 +6044,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2025-03-17T13:33:04Z"
   },
   {
@@ -6066,9 +6054,9 @@
     "location": "Cairo, Egypt",
     "company": "CIC",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 455,
-    "publicContributions": 47,
+    "followers": 6,
+    "privateContributions": 502,
+    "publicContributions": 48,
     "createdAt": "2025-02-20T10:49:45Z"
   },
   {
@@ -6078,9 +6066,9 @@
     "location": "Alexanderia, Egypt",
     "company": "Faculty of Computer and Data Science Alexanderia University",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 29,
     "createdAt": "2025-01-20T12:05:24Z"
   },
   {
@@ -6102,9 +6090,9 @@
     "location": "Egypt | Alexandria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 125,
     "createdAt": "2025-03-09T12:21:48Z"
   },
   {

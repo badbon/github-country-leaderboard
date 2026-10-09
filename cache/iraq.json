@@ -5610,7 +5610,7 @@
     "location": "Baghdad Governorate, baghdad, iraq ",
     "company": "Freelancer ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-10T08:12:54Z"
@@ -5622,9 +5622,9 @@
     "location": "erbil,iraq",
     "company": "@buildcenteriq",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2023-02-03T07:32:25Z"
   },
   {
@@ -5648,7 +5648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2023-03-22T18:42:24Z"
   },
   {
@@ -5660,7 +5660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-08-12T17:51:40Z"
   },
   {
@@ -5682,7 +5682,7 @@
     "location": "iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-12T14:29:26Z"
@@ -5720,7 +5720,7 @@
     "twitterUsername": "Hussein749714",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 21,
     "createdAt": "2023-08-16T03:42:17Z"
   },
   {
@@ -5766,7 +5766,7 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-04T22:41:46Z"
@@ -5792,7 +5792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2023-02-23T11:50:19Z"
   },
   {
@@ -5826,8 +5826,8 @@
     "location": "iraq",
     "company": "@iraquna",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
+    "followers": 2,
+    "privateContributions": 3,
     "publicContributions": 2,
     "createdAt": "2023-12-11T10:54:00Z"
   },
@@ -26986,5 +26986,113 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-01T20:40:42Z"
+  },
+  {
+    "login": "Hussein-Furaty",
+    "name": "Hussein.A.Habeeb",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293607071?s=72&u=01e7ea221ce74d249b93f3017be1322e51ca2037&v=4",
+    "location": "Al-Musayib, Babylon, Iraq",
+    "company": "Crow-Developers",
+    "twitterUsername": "",
+    "followers": 22,
+    "privateContributions": 53,
+    "publicContributions": 216,
+    "createdAt": "2026-06-14T14:32:50Z"
+  },
+  {
+    "login": "renulev",
+    "name": "Mustafa Al-Ameri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295658958?s=72&u=94d21d9afa4a9d71d934826b8145fa9e047c470f&v=4",
+    "location": "Baghdad, Iraq",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-06-21T19:28:54Z"
+  },
+  {
+    "login": "err0rKhalifa",
+    "name": "Ahmed Ali Khalifa ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294940913?s=72&u=083cfc43363f40b61d9b55728d947766df703d7a&v=4",
+    "location": "Baghdad, Iraq",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-06-18T21:03:26Z"
+  },
+  {
+    "login": "thesaviorofmankind",
+    "name": "مؤمل",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294466786?s=72&u=b23db59993ed74506857a44d41256c6132fbad4e&v=4",
+    "location": "iraq",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 60,
+    "createdAt": "2026-06-17T10:00:41Z"
+  },
+  {
+    "login": "itDiv0xr",
+    "name": "Ahmed Rasheed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293132946?s=72&v=4",
+    "location": "Iraq/Salah-Aldin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-12T14:46:40Z"
+  },
+  {
+    "login": "sulafwaiss",
+    "name": "Sulaf Waiss",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293289105?s=72&u=76e1523b15f2b2d4510731859941549cdacba1f2&v=4",
+    "location": "iraq",
+    "company": "University of Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 29,
+    "createdAt": "2026-06-13T05:25:25Z"
+  },
+  {
+    "login": "Zahraa-Ali-Jumah",
+    "name": "Zahraa Ali Jumah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294562293?s=72&u=b40d9d8d7d0a213ef6739598d0e0c64709fc7d3d&v=4",
+    "location": "Iraq-Baghdad",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T15:50:20Z"
+  },
+  {
+    "login": "ENG-maab-alt",
+    "name": "Maab AL-tayeb Zumrawi ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294824989?s=72&v=4",
+    "location": "Basrah, Iraq",
+    "company": "Southern Technical University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-06-18T13:09:49Z"
+  },
+  {
+    "login": "0xJuliuss",
+    "name": "0xJulius",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297397254?s=72&u=fe06ce0c70cfd2df7bce1e9297f75bed0435d2a3&v=4",
+    "location": "iraq",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-27T11:32:27Z"
   }
 ]

@@ -5768,7 +5768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-03-08T15:00:37Z"
   },
   {
@@ -5826,9 +5826,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 92,
     "createdAt": "2025-03-18T14:41:27Z"
   },
   {
@@ -5838,9 +5838,9 @@
     "location": "Torreon, Coah., Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 277,
+    "publicContributions": 355,
     "createdAt": "2025-08-27T16:35:31Z"
   },
   {
@@ -5864,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 40,
-    "publicContributions": 43,
+    "publicContributions": 55,
     "createdAt": "2025-03-29T15:11:47Z"
   },
   {
@@ -5876,20 +5876,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 200,
     "createdAt": "2025-12-19T03:25:32Z"
-  },
-  {
-    "login": "benjamin-agu",
-    "name": "Benjamín Emilio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200856215?s=72&u=b3d3593616fd620ae9a75515a705325a1e29c21e&v=4",
-    "location": "Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 81,
-    "createdAt": "2025-02-25T22:32:24Z"
   },
   {
     "login": "jraul6711-cloud",
@@ -5900,7 +5888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 72,
     "createdAt": "2025-09-08T19:06:09Z"
   },
   {
@@ -5912,7 +5900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-10-03T20:55:25Z"
   },
   {
@@ -5954,13 +5942,13 @@
   {
     "login": "antonioedtech",
     "name": "Antonio Guzmán",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196728608?s=72&u=3c1aa8b94833922eb7782528e2e585792ab1a0fe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196728608?s=72&u=dde30879e43e1beafa63a5d8bbacf83671cdf573&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 29,
     "createdAt": "2025-01-28T01:10:27Z"
   },
   {
@@ -5972,19 +5960,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-09T07:42:31Z"
   },
   {
     "login": "JesusFTC",
-    "name": "JesusGit",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/243905907?s=72&u=8dd6bd6e0c7d100b199271680280c7cec168f13d&v=4",
+    "name": "JesusCr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/243905907?s=72&u=a8ae07cff49cbb78e40cb5e58a5e5343d7e469fe&v=4",
     "location": "Mexico",
     "company": "@SamuraiCode-4355",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 26,
     "createdAt": "2025-11-14T02:40:30Z"
   },
   {

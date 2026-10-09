@@ -5900,7 +5900,7 @@
     "twitterUsername": "mohamed__khira",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 295,
+    "publicContributions": 344,
     "createdAt": "2018-11-22T10:31:18Z"
   },
   {
@@ -5923,7 +5923,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
+    "privateContributions": 55,
     "publicContributions": 0,
     "createdAt": "2018-01-25T20:48:05Z"
   },
@@ -5947,7 +5947,7 @@
     "company": "IGA",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 43,
+    "privateContributions": 64,
     "publicContributions": 0,
     "createdAt": "2018-04-09T14:47:43Z"
   },
@@ -5960,7 +5960,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 137,
     "createdAt": "2018-09-17T13:00:24Z"
   },
   {
@@ -5970,9 +5970,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 81695,
-    "publicContributions": 8,
+    "followers": 3,
+    "privateContributions": 118426,
+    "publicContributions": 0,
     "createdAt": "2018-03-24T19:19:32Z"
   },
   {
@@ -5984,7 +5984,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 175,
     "createdAt": "2018-04-17T16:37:03Z"
   },
   {
@@ -5995,7 +5995,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 177,
+    "privateContributions": 265,
     "publicContributions": 0,
     "createdAt": "2018-04-09T22:57:08Z"
   },
@@ -6020,7 +6020,7 @@
     "twitterUsername": "s4lm_xi",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 47,
     "createdAt": "2018-10-18T17:43:50Z"
   },
   {
@@ -6032,7 +6032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2018-11-03T05:42:02Z"
   },
   {
@@ -6066,9 +6066,9 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 0,
     "createdAt": "2018-01-21T19:04:33Z"
   },
   {
@@ -6092,20 +6092,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2018-09-05T11:07:32Z"
-  },
-  {
-    "login": "AlawiDev",
-    "name": "Ali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39265790?s=72&u=83c26a9b057334dd87c09632a84822cb3732b82f&v=4",
-    "location": "Bahrain",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2018-05-14T11:51:08Z"
   },
   {
     "login": "musa-almatri",
