@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-09T18:11:18.880Z
+Generated: 2026-10-09T18:47:05.818Z
 
 Users: 859
 
@@ -22,7 +22,7 @@ Users: 859
 | 14 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3543 |
 | 15 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | @jtechso |  | Mogadishu | 3321 |
 | 16 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Jamhuriya Technology Solutions | bashkahee | Mogadishu | 3296 |
-| 17 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |
-| 18 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Same - Software |  | Somalia | 2978 |
-| 19 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  |  |  | Mogadishu, Somalia | 2895 |
-| 20 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 2713 |
+| 17 | [mooha76](https://github.com/mooha76) | Mohammed Farah |  |  | Mogadishu, Somalia | 3014 |
+| 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 2998 |
+| 19 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Same - Software |  | Somalia | 2978 |
+| 20 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  |  |  | Mogadishu, Somalia | 2895 |

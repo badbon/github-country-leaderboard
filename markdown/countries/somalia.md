@@ -28,10 +28,10 @@ Indexed users: 859
 | 14 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | Mogadishu, Somalia | 3,543 |
 | 15 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | Mogadishu | 3,321 |
 | 16 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Mogadishu | 3,296 |
-| 17 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 2,998 |
-| 18 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Somalia | 2,978 |
-| 19 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  | Mogadishu, Somalia | 2,895 |
-| 20 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | Somalia | 2,713 |
+| 17 | [mooha76](https://github.com/mooha76) | Mohammed Farah | Mogadishu, Somalia | 3,014 |
+| 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 2,998 |
+| 19 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Somalia | 2,978 |
+| 20 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  | Mogadishu, Somalia | 2,895 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 859
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 102 |
 | 20 | [AbdifatahYasin1](https://github.com/AbdifatahYasin1) | Abdifatah Yasin Yusuf | Somalia, Hargeisa  | 96 |
 
-Generated: 2026-10-09T18:11:18.880Z
+Generated: 2026-10-09T18:47:05.818Z
