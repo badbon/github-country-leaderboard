@@ -1,6 +1,6 @@
 # Public Contributions - Indonesia
 
-Generated: 2026-10-09T16:39:49.888Z
+Generated: 2026-10-09T17:31:35.204Z
 
 Users: 63317
 
@@ -9,7 +9,7 @@ Users: 63317
 | 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | FN-Project |  | Asia/Jakarta | 2363626 |
 | 2 | [ruef](https://github.com/ruef) |  |  |  | Indonesia | 592453 |
 | 3 | [antono4](https://github.com/antono4) | Antono |  |  | West Java, Indonesia | 273889 |
-| 4 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Edge Computing |  | Indonesia  | 173861 |
+| 4 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Choirul Ramadhani  | Edge Computing |  | Indonesia  | 219441 |
 | 5 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Kios Gameku | IdSetiawan007 | Indonesia | 155602 |
 | 6 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | .. |  | Sumatera barat, Indonesia | 123244 |
 | 7 | [rchxiy](https://github.com/rchxiy) | Itchy |  |  | Indonesia | 49502 |

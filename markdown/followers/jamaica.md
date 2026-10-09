@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-09T16:41:44.311Z
+Generated: 2026-10-09T17:33:01.521Z
 
 Users: 1277
 
@@ -19,10 +19,10 @@ Users: 1277
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | L1NNA Lab, Queen's University |  | Kingston | 118 |
 | 12 | [justmat](https://github.com/justmat) | mat |  |  | Kingston, NY | 109 |
 | 13 | [juliemturner](https://github.com/juliemturner) | Julie Turner | Sympraxis Consulting |  | East Kingston, NH | 108 |
-| 14 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 106 |
-| 15 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Colautti Lab, Queen's University, Canada | ColauttiLab | Kingston, ON | 104 |
-| 16 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 103 |
-| 17 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 101 |
-| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
-| 19 | [jordanliu](https://github.com/jordanliu) | Jordan Liu |  |  | Kingston, Jamaica | 96 |
-| 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | User Friendliest |  | Kingston, Ontario | 93 |
+| 14 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Mayukh Bagchi |  | Kingston, Ontario | 106 |
+| 15 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 106 |
+| 16 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Colautti Lab, Queen's University, Canada | ColauttiLab | Kingston, ON | 104 |
+| 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 103 |
+| 18 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 101 |
+| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
+| 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu |  |  | Kingston, Jamaica | 96 |

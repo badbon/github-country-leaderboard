@@ -1,8 +1,8 @@
 # Followers - Belarus
 
-Generated: 2026-10-09T16:23:07.484Z
+Generated: 2026-10-09T17:16:35.156Z
 
-Users: 10950
+Users: 10949
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

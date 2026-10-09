@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-09T16:23:02.374Z
+Generated: 2026-10-09T17:16:31.966Z
 
 Users: 133
 
@@ -9,7 +9,7 @@ Users: 133
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 5438 |
 | 2 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 5116 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4710 |
-| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3156 |
+| 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3158 |
 | 5 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2595 |
 | 6 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 2533 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 1835 |

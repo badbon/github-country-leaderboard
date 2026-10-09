@@ -14,11 +14,11 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,882 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,783 |
-| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,525 |
-| 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,284 |
-| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,371 |
+| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,536 |
+| 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,288 |
+| 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,373 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,237 |
-| 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 916 |
+| 7 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 917 |
 | 8 | [drosalia](https://github.com/drosalia) | Darrell Rosalia | Curaçao | 915 |
 | 9 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
 | 10 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 380 |
@@ -37,7 +37,7 @@ Indexed users: 53
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,284 |
+| 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,288 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 488 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 464 |
 | 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 426 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-09T16:30:24.853Z
+Generated: 2026-10-09T17:24:08.222Z

@@ -1,6 +1,6 @@
 # Public Contributions - Venezuela
 
-Generated: 2026-10-09T16:18:00.516Z
+Generated: 2026-10-09T17:10:50.593Z
 
 Users: 6640
 
@@ -12,8 +12,8 @@ Users: 6640
 | 4 | [apalala](https://github.com/apalala) | Juancarlo Añez |  |  | Venezuela | 4078 |
 | 5 | [DtxdF](https://github.com/DtxdF) | DtxdF |  |  | Venezuela | 3863 |
 | 6 | [NanezX](https://github.com/NanezX) | Víctor Hernández |  | naneezx | Monagas, Venezuela | 3137 |
-| 7 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle |  |  | Venezuela | 2942 |
-| 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar |  |  | Venezuela | 2910 |
+| 7 | [kbtale](https://github.com/kbtale) | Carlos Bolívar |  |  | Venezuela | 2910 |
+| 8 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle |  |  | Venezuela | 2871 |
 | 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro |  | LuisAlejandro | Maracay, Venezuela | 2787 |
 | 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 2533 |
 | 11 | [elfotito](https://github.com/elfotito) | elfotito |  |  | Venezuela | 2158 |

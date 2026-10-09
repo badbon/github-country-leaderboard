@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-09T16:19:10.004Z
+Generated: 2026-10-09T17:12:07.692Z
 
 Users: 1215
 
@@ -11,8 +11,8 @@ Users: 1215
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 891 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | @openjdk and @graalvm  |  | Yemen | 686 |
 | 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Co·founder @YemenOpenSource | watheq_show | Yemen | 403 |
-| 6 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 372 |
-| 7 | [AhmadHRai](https://github.com/AhmadHRai) | Ahmad Alrai | @ByteRunners  |  | Yemen | 358 |
+| 6 | [AhmadHRai](https://github.com/AhmadHRai) | Ahmad Alrai | @ByteRunners  |  | Yemen | 386 |
+| 7 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | freelance | omaralalwi2013 | sana'a Yemen | 372 |
 | 8 | [CS2487](https://github.com/CS2487) | Farea AL-Dhela'a | Freelance |  | Yemen, Sana’a,a | 349 |
 | 9 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 330 |
 | 10 | [k-j-alarashi](https://github.com/k-j-alarashi) | Khaled Jalal Al-arashi |  | k_j_alarashi | Yemen , Sana'a | 283 |

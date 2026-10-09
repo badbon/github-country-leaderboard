@@ -1,6 +1,6 @@
 # Ireland
 
-Indexed users: 19,525
+Indexed users: 19,523
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,525
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-09T16:40:31.702Z
+Generated: 2026-10-09T17:32:37.000Z

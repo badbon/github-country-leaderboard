@@ -25,13 +25,13 @@ Indexed users: 1,277
 | 11 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,009 |
 | 12 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 3,881 |
 | 13 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Kingston Ontario | 3,839 |
-| 14 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
-| 15 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
-| 16 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
-| 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
-| 18 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
-| 19 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
-| 20 | [titan-65](https://github.com/titan-65) | Vantol Bennett | Jamaica | 3,280 |
+| 14 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
+| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
+| 16 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
+| 17 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
+| 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
+| 19 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
+| 20 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
 
 ## Public Contributions
 
@@ -56,7 +56,7 @@ Indexed users: 1,277
 | 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
 | 18 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
 | 19 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 638 |
-| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 617 |
+| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
 
 ## Followers
 
@@ -75,12 +75,12 @@ Indexed users: 1,277
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
 | 12 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
 | 13 | [juliemturner](https://github.com/juliemturner) | Julie Turner | East Kingston, NH | 108 |
-| 14 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
-| 15 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 104 |
-| 16 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 103 |
-| 17 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 101 |
-| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
-| 19 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
-| 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 93 |
+| 14 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Kingston, Ontario | 106 |
+| 15 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
+| 16 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 104 |
+| 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 103 |
+| 18 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 101 |
+| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
+| 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-09T16:41:44.311Z
+Generated: 2026-10-09T17:33:01.521Z

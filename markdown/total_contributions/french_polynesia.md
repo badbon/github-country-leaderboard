@@ -1,6 +1,6 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-09T16:34:05.174Z
+Generated: 2026-10-09T17:27:37.585Z
 
 Users: 60
 
@@ -9,7 +9,7 @@ Users: 60
 | 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3171 |
 | 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3074 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2816 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1059 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1060 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 699 |
 | 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 467 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 427 |

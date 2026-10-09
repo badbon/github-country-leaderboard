@@ -1,6 +1,6 @@
 # Total Contributions - Indonesia
 
-Generated: 2026-10-09T16:39:49.888Z
+Generated: 2026-10-09T17:31:35.204Z
 
 Users: 63317
 
@@ -10,8 +10,8 @@ Users: 63317
 | 2 | [ruef](https://github.com/ruef) |  |  |  | Indonesia | 592454 |
 | 3 | [Rosellines](https://github.com/Rosellines) | Roselline Mikasa | PT. Tilder Technology | mikasa_Enix | Indonesia | 480548 |
 | 4 | [antono4](https://github.com/antono4) | Antono |  |  | West Java, Indonesia | 275682 |
-| 5 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | .. |  | Sumatera barat, Indonesia | 191245 |
-| 6 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Edge Computing |  | Indonesia  | 173861 |
+| 5 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Choirul Ramadhani  | Edge Computing |  | Indonesia  | 219784 |
+| 6 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | .. |  | Sumatera barat, Indonesia | 191245 |
 | 7 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Kios Gameku | IdSetiawan007 | Indonesia | 155602 |
 | 8 | [dcodemaxz](https://github.com/dcodemaxz) | dcodemaxz | Not found! |  | Indonesia \| +62 | 143611 |
 | 9 | [DarkMephisto155115](https://github.com/DarkMephisto155115) | Andika Salsabilah | The Administrator |  | Malang, Jawa Timur, Indonesia | 96891 |

@@ -1,6 +1,6 @@
 # Pakistan
 
-Indexed users: 41,602
+Indexed users: 41,690
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 41,602
 | 17 | [shahidali54](https://github.com/shahidali54) | Shahid Ali | Karachi Sindh, Pakistan | 8,749 |
 | 18 | [sabihkahn](https://github.com/sabihkahn) | Sabih khan | pakistan | 7,867 |
 | 19 | [SENODROOM](https://github.com/SENODROOM) | Muhammad Saad Amin | Lahore, Pakistan  | 7,857 |
-| 20 | [SaeedX302](https://github.com/SaeedX302) | 𝙎ค૯𝙀𝘿✘🫀 | Pakistan | 6,653 |
+| 20 | [tjxahmad](https://github.com/tjxahmad) | Ahmad Rasheed | Islamabad, Pakistan | 7,854 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 41,602
 | 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
 | 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-09T16:54:51.670Z
+Generated: 2026-10-09T17:32:28.020Z

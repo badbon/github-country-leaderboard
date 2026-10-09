@@ -1,8 +1,8 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-09T16:54:10.370Z
+Generated: 2026-10-09T17:30:20.485Z
 
-Users: 995
+Users: 996
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 995
 | 14 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | CodeLine |  | Oman | 1702 |
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Codeline |  | Oman | 1577 |
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | CodeLine |  | Oman | 1333 |
-| 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Codeline |  | Muscat, Oman | 1306 |
+| 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Codeline |  | Muscat, Oman | 1322 |
 | 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Badal Technology |  | Muscat, Oman | 1173 |
 | 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH | @rannta | ranntacoin | Sultanate of Oman | 1097 |
 | 20 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Codeline |  | Oman | 1075 |

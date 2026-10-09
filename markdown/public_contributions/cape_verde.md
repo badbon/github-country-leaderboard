@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-09T16:26:32.534Z
+Generated: 2026-10-09T17:19:12.670Z
 
 Users: 561
 
@@ -23,6 +23,6 @@ Users: 561
 | 15 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo |  |  | Praia Grande - SP | 251 |
 | 16 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 232 |
 | 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 197 |
-| 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | DevTrust Consulting Developing |  | Cabo Verde - Praia | 186 |
-| 19 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Appso Tecnologia |  | Praia Grande - SC | 185 |
+| 18 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Appso Tecnologia |  | Praia Grande - SC | 185 |
+| 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | DevTrust Consulting Developing |  | Cabo Verde - Praia | 185 |
 | 20 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  |  |  Praia da Costa, Vila Velha - ES | 179 |

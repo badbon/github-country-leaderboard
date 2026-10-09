@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 995
+Indexed users: 996
 
 | Leaderboard | Link |
 |---|---|
@@ -53,7 +53,7 @@ Indexed users: 995
 | 14 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
-| 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,306 |
+| 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,322 |
 | 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
 | 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,097 |
 | 20 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,075 |
@@ -83,4 +83,4 @@ Indexed users: 995
 | 19 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-09T16:54:10.370Z
+Generated: 2026-10-09T17:30:20.485Z

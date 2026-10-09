@@ -16,8 +16,8 @@ Indexed users: 63,317
 | 2 | [ruef](https://github.com/ruef) |  | Indonesia | 592,454 |
 | 3 | [Rosellines](https://github.com/Rosellines) | Roselline Mikasa | Indonesia | 480,548 |
 | 4 | [antono4](https://github.com/antono4) | Antono | West Java, Indonesia | 275,682 |
-| 5 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | Sumatera barat, Indonesia | 191,245 |
-| 6 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Indonesia  | 173,861 |
+| 5 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Choirul Ramadhani  | Indonesia  | 219,784 |
+| 6 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | Sumatera barat, Indonesia | 191,245 |
 | 7 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Indonesia | 155,602 |
 | 8 | [dcodemaxz](https://github.com/dcodemaxz) | dcodemaxz | Indonesia \| +62 | 143,611 |
 | 9 | [DarkMephisto155115](https://github.com/DarkMephisto155115) | Andika Salsabilah | Malang, Jawa Timur, Indonesia | 96,891 |
@@ -40,7 +40,7 @@ Indexed users: 63,317
 | 1 | [FN-Rerechan02](https://github.com/FN-Rerechan02) | Rerechan02 | Asia/Jakarta | 2,363,626 |
 | 2 | [ruef](https://github.com/ruef) |  | Indonesia | 592,453 |
 | 3 | [antono4](https://github.com/antono4) | Antono | West Java, Indonesia | 273,889 |
-| 4 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Van Astrea | Indonesia  | 173,861 |
+| 4 | [adnanramadhani](https://github.com/adnanramadhani) | Adnan Choirul Ramadhani  | Indonesia  | 219,441 |
 | 5 | [Setiawan007](https://github.com/Setiawan007) | Febrianto Bagus Setiawan | Indonesia | 155,602 |
 | 6 | [xsrazy](https://github.com/xsrazy) | Rahmatul Usra | Sumatera barat, Indonesia | 123,244 |
 | 7 | [rchxiy](https://github.com/rchxiy) | Itchy | Indonesia | 49,502 |
@@ -83,4 +83,4 @@ Indexed users: 63,317
 | 19 | [theodorusclarence](https://github.com/theodorusclarence) | Theodorus Clarence | Indonesia | 1,488 |
 | 20 | [imrenagi](https://github.com/imrenagi) | Imre Nagi | Jakarta | 1,307 |
 
-Generated: 2026-10-09T16:39:49.888Z
+Generated: 2026-10-09T17:31:35.204Z

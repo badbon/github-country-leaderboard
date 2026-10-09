@@ -43,8 +43,8 @@ Indexed users: 6,640
 | 4 | [apalala](https://github.com/apalala) | Juancarlo Añez | Venezuela | 4,078 |
 | 5 | [DtxdF](https://github.com/DtxdF) | DtxdF | Venezuela | 3,863 |
 | 6 | [NanezX](https://github.com/NanezX) | Víctor Hernández | Monagas, Venezuela | 3,137 |
-| 7 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,942 |
-| 8 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
+| 7 | [kbtale](https://github.com/kbtale) | Carlos Bolívar | Venezuela | 2,910 |
+| 8 | [lumi-tip](https://github.com/lumi-tip) | Luis Miguel Del Valle | Venezuela | 2,871 |
 | 9 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 2,787 |
 | 10 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 2,533 |
 | 11 | [elfotito](https://github.com/elfotito) | elfotito | Venezuela | 2,158 |
@@ -83,4 +83,4 @@ Indexed users: 6,640
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-09T16:18:00.516Z
+Generated: 2026-10-09T17:10:50.593Z
