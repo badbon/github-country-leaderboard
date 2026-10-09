@@ -3919,7 +3919,7 @@
     "company": "Sierra Technologies",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1456,
+    "privateContributions": 1455,
     "publicContributions": 23,
     "createdAt": "2019-10-04T12:42:40Z"
   },
@@ -4002,9 +4002,9 @@
     "location": "Freetown, Sierra Leone",
     "company": "Nexlura",
     "twitterUsername": "DeeMaejor",
-    "followers": 223,
+    "followers": 224,
     "privateContributions": 1481,
-    "publicContributions": 51,
+    "publicContributions": 48,
     "createdAt": "2018-05-22T12:43:26Z"
   },
   {
@@ -4015,8 +4015,8 @@
     "company": "Coursepaddy",
     "twitterUsername": "samuelmoiwa",
     "followers": 46,
-    "privateContributions": 1859,
-    "publicContributions": 247,
+    "privateContributions": 1862,
+    "publicContributions": 248,
     "createdAt": "2018-04-20T08:12:05Z"
   },
   {
@@ -4039,7 +4039,7 @@
     "company": "@monimesl , @monime-lab ",
     "twitterUsername": "Abarrie_potter",
     "followers": 24,
-    "privateContributions": 2512,
+    "privateContributions": 2830,
     "publicContributions": 127,
     "createdAt": "2018-07-11T05:00:47Z"
   },
@@ -4063,7 +4063,7 @@
     "company": "Medal Techie",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1178,
+    "privateContributions": 1168,
     "publicContributions": 0,
     "createdAt": "2018-03-19T19:48:52Z"
   },
@@ -5302,5 +5302,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2008-07-05T00:48:44Z"
+  },
+  {
+    "login": "kamarashekudinneh",
+    "name": "SHEKU DINNEH KAMARA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293615427?s=72&v=4",
+    "location": "Sierra Leone",
+    "company": "Limkokwing University,Ipam and Unimtech",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-14T15:12:54Z"
   }
 ]

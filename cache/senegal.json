@@ -9222,7 +9222,7 @@
     "location": "Parcelles Assainies, Dakar, Sénégal",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-11T20:18:36Z"
@@ -9234,8 +9234,8 @@
     "location": "Dakar / Sénégal",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 21,
+    "followers": 23,
+    "privateContributions": 51,
     "publicContributions": 3,
     "createdAt": "2020-04-07T00:05:13Z"
   },
@@ -9246,9 +9246,9 @@
     "location": "Dakar",
     "company": "",
     "twitterUsername": "sultane221",
-    "followers": 24,
-    "privateContributions": 2186,
-    "publicContributions": 1,
+    "followers": 25,
+    "privateContributions": 2152,
+    "publicContributions": 2,
     "createdAt": "2020-01-22T19:51:25Z"
   },
   {
@@ -9258,8 +9258,8 @@
     "location": "Dakar, Sénégal",
     "company": "",
     "twitterUsername": "babstrap",
-    "followers": 23,
-    "privateContributions": 1351,
+    "followers": 24,
+    "privateContributions": 1144,
     "publicContributions": 4,
     "createdAt": "2020-05-09T01:26:08Z"
   },
@@ -9270,7 +9270,7 @@
     "location": "Dakar",
     "company": "Webikoo",
     "twitterUsername": "moustaphakachab",
-    "followers": 22,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-03T03:19:46Z"
@@ -9283,8 +9283,8 @@
     "company": "CAURIS AGENCE",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-10-18T12:58:16Z"
   },
   {
@@ -9296,7 +9296,7 @@
     "twitterUsername": "AllaNiang7",
     "followers": 17,
     "privateContributions": 36,
-    "publicContributions": 43,
+    "publicContributions": 56,
     "createdAt": "2020-11-13T21:07:18Z"
   },
   {
@@ -9306,9 +9306,9 @@
     "location": "Dakar",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 47,
-    "publicContributions": 139,
+    "followers": 17,
+    "privateContributions": 81,
+    "publicContributions": 79,
     "createdAt": "2020-01-27T22:18:06Z"
   },
   {
@@ -9320,7 +9320,7 @@
     "twitterUsername": "SaliouTalla",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2020-09-28T12:53:39Z"
   },
   {
@@ -9330,9 +9330,9 @@
     "location": "Dakar - Sénégal",
     "company": "",
     "twitterUsername": "N_THIOR",
-    "followers": 13,
-    "privateContributions": 1874,
-    "publicContributions": 333,
+    "followers": 54,
+    "privateContributions": 2361,
+    "publicContributions": 388,
     "createdAt": "2020-08-12T14:22:05Z"
   },
   {
@@ -9354,7 +9354,7 @@
     "location": "Sénegal , Dakar",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-31T03:23:07Z"
@@ -9380,7 +9380,7 @@
     "twitterUsername": "Syismaila1",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 8,
     "createdAt": "2020-09-30T09:53:15Z"
   },
   {
@@ -9391,8 +9391,8 @@
     "company": "@Systalink",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 30,
-    "publicContributions": 5,
+    "privateContributions": 52,
+    "publicContributions": 7,
     "createdAt": "2020-06-10T22:22:27Z"
   },
   {
@@ -9403,8 +9403,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1621,
-    "publicContributions": 180,
+    "privateContributions": 1819,
+    "publicContributions": 199,
     "createdAt": "2020-05-22T14:05:52Z"
   },
   {
@@ -9414,7 +9414,7 @@
     "location": "Dakar",
     "company": "Myown",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-21T20:05:48Z"
@@ -9426,7 +9426,7 @@
     "location": "Dakar",
     "company": "@isep-thies",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-12T03:37:18Z"
@@ -16282,5 +16282,41 @@
     "privateContributions": 0,
     "publicContributions": 1623,
     "createdAt": "2026-06-26T22:20:47Z"
+  },
+  {
+    "login": "sinendoye",
+    "name": "Sine Ndoye Seck ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293695612?s=72&u=a5b69b3f9a93547e861791f065dc226a700e1d86&v=4",
+    "location": "Dakar,Sénégal ",
+    "company": "Orange Digital Center",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 290,
+    "createdAt": "2026-06-14T23:59:43Z"
+  },
+  {
+    "login": "doudouyarefall-standart",
+    "name": "Doudou Fall BA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290249263?s=72&u=099d8e21d050af4e6322bc3b15fbac54b4b65119&v=4",
+    "location": "Dakar",
+    "company": "Stand'Art Agency",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 221,
+    "publicContributions": 2,
+    "createdAt": "2026-06-03T05:05:18Z"
+  },
+  {
+    "login": "mouhamadouandallambaye-prog",
+    "name": "Mouhamadou Andalla Mbaye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290727055?s=72&u=874dcfb78ab4bd143fe6c49a67747b465e788ca3&v=4",
+    "location": "Sénégal, Dakar",
+    "company": "@groupeiam @unchk.edu.sn",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-06-04T12:39:39Z"
   }
 ]

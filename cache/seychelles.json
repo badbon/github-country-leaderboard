@@ -9175,7 +9175,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 96,
     "createdAt": "2018-01-25T20:07:31Z"
   },
@@ -9200,7 +9200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 15,
     "createdAt": "2018-01-17T22:31:39Z"
   },
   {
@@ -9212,7 +9212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2018-06-06T21:03:33Z"
   },
   {
@@ -9235,7 +9235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 26,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2017-12-30T00:40:16Z"
   },
@@ -9382,18 +9382,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-13T19:39:13Z"
-  },
-  {
-    "login": "Jazzmin13",
-    "name": "Brad Cameron",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42206313?s=72&v=4",
-    "location": "Victoria BC Canada",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-08-08T10:40:33Z"
   },
   {
     "login": "allisoncreamer",

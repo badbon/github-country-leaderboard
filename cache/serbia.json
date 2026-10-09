@@ -9152,7 +9152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2023-08-29T04:32:45Z"
   },
   {
@@ -9186,7 +9186,7 @@
     "location": "Serbia",
     "company": "Gimnazija Vuk Karadžić",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-15T23:42:00Z"
@@ -9200,7 +9200,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 407,
+    "publicContributions": 444,
     "createdAt": "2023-12-19T17:55:14Z"
   },
   {
@@ -9212,7 +9212,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 16,
     "createdAt": "2023-10-27T06:24:10Z"
   },
   {
@@ -9224,19 +9224,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1310,
+    "publicContributions": 1084,
     "createdAt": "2023-02-09T09:11:36Z"
   },
   {
     "login": "matkethekid",
     "name": "Mateja",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145758273?s=72&u=a2e83b586766b941c728c1e3a3c5aa744377e778&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145758273?s=72&u=8781a7f2b9da39e75a656f2ee39f0be16affd8d0&v=4",
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1176,
-    "publicContributions": 348,
+    "followers": 3,
+    "privateContributions": 1438,
+    "publicContributions": 453,
     "createdAt": "2023-09-22T08:57:10Z"
   },
   {
@@ -9308,7 +9308,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 284,
+    "publicContributions": 162,
     "createdAt": "2023-02-23T14:15:49Z"
   },
   {
@@ -9367,7 +9367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 367,
+    "privateContributions": 496,
     "publicContributions": 471,
     "createdAt": "2023-09-18T16:03:28Z"
   },
@@ -128038,5 +128038,17 @@
     "privateContributions": 0,
     "publicContributions": 62,
     "createdAt": "2021-05-11T10:40:23Z"
+  },
+  {
+    "login": "ancaferro",
+    "name": "Anca Kovach",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287352285?s=72&u=9f4cdc663550b3e53a9ede714049645b78974d43&v=4",
+    "location": "Beograd, Srbija",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2718,
+    "privateContributions": 0,
+    "publicContributions": 89,
+    "createdAt": "2026-05-24T03:30:57Z"
   }
 ]

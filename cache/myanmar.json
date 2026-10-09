@@ -9126,8 +9126,8 @@
     "location": "Mawlamyine, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 4,
+    "followers": 23,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-30T15:52:10Z"
   },
@@ -9140,7 +9140,7 @@
     "twitterUsername": "Bro_Cyclone",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 41,
     "createdAt": "2021-11-25T09:27:27Z"
   },
   {
@@ -9150,9 +9150,9 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 55,
-    "publicContributions": 164,
+    "followers": 21,
+    "privateContributions": 67,
+    "publicContributions": 202,
     "createdAt": "2021-02-20T10:13:30Z"
   },
   {
@@ -9163,7 +9163,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 44,
+    "privateContributions": 90,
     "publicContributions": 0,
     "createdAt": "2021-07-14T05:47:47Z"
   },
@@ -9174,7 +9174,7 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "shelby_da_great",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-21T12:24:21Z"
@@ -9198,9 +9198,9 @@
     "location": "Yangon, Myanmar",
     "company": "EBP connetis",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 17,
     "createdAt": "2021-01-16T07:58:37Z"
   },
   {
@@ -9235,7 +9235,7 @@
     "company": "Softcomm Technology",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 110,
+    "privateContributions": 64,
     "publicContributions": 0,
     "createdAt": "2021-09-05T16:05:06Z"
   },
@@ -9246,9 +9246,9 @@
     "location": "Yangon, Myanmar",
     "company": "Better HR",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 25,
     "createdAt": "2021-11-22T18:55:11Z"
   },
   {
@@ -9258,7 +9258,7 @@
     "location": "Manadalay, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2021-11-10T03:20:46Z"
@@ -9283,7 +9283,7 @@
     "company": "",
     "twitterUsername": "aomkhamphaung",
     "followers": 14,
-    "privateContributions": 9,
+    "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2021-11-30T12:19:07Z"
   },
@@ -9294,8 +9294,8 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 67,
+    "followers": 13,
+    "privateContributions": 94,
     "publicContributions": 0,
     "createdAt": "2021-06-01T14:12:18Z"
   },
@@ -9308,7 +9308,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 28,
     "createdAt": "2021-10-13T01:56:46Z"
   },
   {
@@ -9318,22 +9318,10 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 775,
+    "followers": 15,
+    "privateContributions": 794,
     "publicContributions": 56,
     "createdAt": "2021-09-09T13:23:30Z"
-  },
-  {
-    "login": "KaungPyaeHtet",
-    "name": "Kaung Pyae Htet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96296683?s=72&u=4545c0d6f16f89476ca3d8250cbef53a500e1cc2&v=4",
-    "location": "Myanmar, Yangon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 340,
-    "publicContributions": 193,
-    "createdAt": "2021-12-17T12:52:35Z"
   },
   {
     "login": "kohtetshine",
@@ -9342,8 +9330,8 @@
     "location": "Yangon, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 257,
+    "followers": 15,
+    "privateContributions": 204,
     "publicContributions": 0,
     "createdAt": "2021-05-18T12:00:43Z"
   },
@@ -9354,9 +9342,9 @@
     "location": "Bago, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 310,
+    "publicContributions": 295,
     "createdAt": "2021-01-13T14:26:52Z"
   },
   {

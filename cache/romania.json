@@ -9162,9 +9162,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 83,
-    "privateContributions": 1,
-    "publicContributions": 268,
+    "followers": 104,
+    "privateContributions": 4,
+    "publicContributions": 226,
     "createdAt": "2024-11-17T19:10:11Z"
   },
   {
@@ -9174,21 +9174,21 @@
     "location": "Romanian, Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 101,
     "createdAt": "2024-06-06T11:49:54Z"
   },
   {
     "login": "IoanU",
-    "name": "ioanU",
+    "name": "Ioan Ursescu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184401579?s=72&v=4",
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 101,
     "createdAt": "2024-10-09T14:10:47Z"
   },
   {
@@ -9199,8 +9199,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 72,
-    "publicContributions": 1152,
+    "privateContributions": 63,
+    "publicContributions": 1131,
     "createdAt": "2024-10-27T13:37:32Z"
   },
   {
@@ -9210,9 +9210,9 @@
     "location": "Bucharest",
     "company": "ASE Bucharest",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 45,
-    "publicContributions": 63,
+    "followers": 17,
+    "privateContributions": 34,
+    "publicContributions": 66,
     "createdAt": "2024-08-13T10:56:54Z"
   },
   {
@@ -9222,9 +9222,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 52,
-    "publicContributions": 218,
+    "followers": 13,
+    "privateContributions": 84,
+    "publicContributions": 121,
     "createdAt": "2024-09-01T20:21:59Z"
   },
   {
@@ -9248,7 +9248,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 37,
-    "publicContributions": 284,
+    "publicContributions": 268,
     "createdAt": "2024-10-10T21:26:03Z"
   },
   {
@@ -9258,9 +9258,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 156,
-    "publicContributions": 46,
+    "followers": 13,
+    "privateContributions": 286,
+    "publicContributions": 50,
     "createdAt": "2024-10-16T13:45:25Z"
   },
   {
@@ -9278,13 +9278,13 @@
   {
     "login": "kaannasurla",
     "name": "Kaan Nasurla",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189226033?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189226033?s=72&u=a62d0f0b16e28fc6961355fd546872764731af6e&v=4",
     "location": "Bucharest",
-    "company": "",
+    "company": "@cs-pub-ro ",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 60,
     "createdAt": "2024-11-21T10:32:13Z"
   },
   {
@@ -9294,9 +9294,9 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 72,
     "createdAt": "2024-10-25T20:41:49Z"
   },
   {
@@ -9308,7 +9308,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-03-08T11:39:06Z"
   },
   {
@@ -9332,7 +9332,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 110,
     "createdAt": "2024-10-23T09:38:59Z"
   },
   {
@@ -9344,7 +9344,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 36,
     "createdAt": "2024-04-24T05:59:36Z"
   },
   {
@@ -9366,21 +9366,21 @@
     "location": "Bucharest",
     "company": "University of Bucharest Faculty of Mathematics and Informatics",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 66,
-    "publicContributions": 290,
+    "followers": 4,
+    "privateContributions": 70,
+    "publicContributions": 295,
     "createdAt": "2024-10-01T12:36:52Z"
   },
   {
     "login": "brobert1",
     "name": "Robert Bercaru",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176282662?s=72&u=5a90c1e9416a416909094c4f851605946a0d4cb0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176282662?s=72&u=89fe8f095cc42d360790a14eb3b43f107d47008a&v=4",
     "location": "Bucharest",
     "company": "ChessCoders",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3532,
-    "publicContributions": 171,
+    "privateContributions": 3258,
+    "publicContributions": 120,
     "createdAt": "2024-07-22T08:28:08Z"
   },
   {
@@ -9390,7 +9390,7 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-20T05:01:06Z"
