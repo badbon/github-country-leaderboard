@@ -168882,9 +168882,9 @@
     "location": "Kathmandu,Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2026-06-15T05:15:24Z"
   },
   {
@@ -169376,7 +169376,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 126,
     "createdAt": "2026-05-30T12:33:13Z"
   },
   {
@@ -169582,5 +169582,125 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-06-17T08:41:53Z"
+  },
+  {
+    "login": "dahalashwin36-code",
+    "name": "Ashwin Dahal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286645170?s=72&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-21T11:30:19Z"
+  },
+  {
+    "login": "vasthegoat",
+    "name": "Vaswth",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295511734?s=72&u=1c442c4b4fbf74bb64879391d20cd8374b1dbd87&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-06-21T05:04:52Z"
+  },
+  {
+    "login": "dipeshchettry",
+    "name": "Dipesheey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296153701?s=72&u=a70ea81bcee5e55369743b9b56742738293ed3e5&v=4",
+    "location": "Bagbajar-28, Kathmandu",
+    "company": "Kharayoo Innovation ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 71,
+    "createdAt": "2026-06-23T11:55:47Z"
+  },
+  {
+    "login": "visha-dw",
+    "name": "PRATIVA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286550487?s=72&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-05-21T04:55:40Z"
+  },
+  {
+    "login": "dibasgiri",
+    "name": "Dibas Giri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287518395?s=72&v=4",
+    "location": "Baneshwor, Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-05-24T19:51:16Z"
+  },
+  {
+    "login": "bibekshah-0",
+    "name": "Bibek_sah_",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291961886?s=72&v=4",
+    "location": "Kathmandu ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-09T02:06:06Z"
+  },
+  {
+    "login": "ASLENIXNP",
+    "name": "Aslenix Tech and Solution ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284894648?s=72&u=e06b341c1e4f1e2e8b7fd11847a6abe428dc13c0&v=4",
+    "location": "Buddhanagr Kathmandu",
+    "company": "Aslenix Tech and Solution ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-15T08:24:23Z"
+  },
+  {
+    "login": "aadarshapoudyal",
+    "name": "Aadarsha Poudyal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285598670?s=72&v=4",
+    "location": "Dhulikhel, Kathmandu",
+    "company": "Kathmandu Universtity",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-05-18T06:58:15Z"
+  },
+  {
+    "login": "dipbiksha",
+    "name": "dipson",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286531621?s=72&u=362cf5ce32916b3c1b3f0fcaf07588475ade0e24&v=4",
+    "location": "Kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-21T03:05:30Z"
+  },
+  {
+    "login": "whoistekendra",
+    "name": "Tekendra Prasad Kandel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288870904?s=72&u=da5d36a8ba9d7bfb8677dfb0a7e42a0258bda856&v=4",
+    "location": "kathmandu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2026-05-29T08:01:29Z"
   }
 ]
