@@ -20,18 +20,18 @@ Indexed users: 1,359
 | 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 6,066 |
 | 7 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
 | 8 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 4,987 |
-| 9 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
-| 10 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
-| 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
-| 12 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
-| 13 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
-| 14 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 3,861 |
-| 15 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 3,828 |
-| 16 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 3,776 |
-| 17 | [crossben](https://github.com/crossben) |  | Dakar | 3,576 |
-| 18 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 3,570 |
-| 19 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,507 |
-| 20 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 3,487 |
+| 9 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
+| 10 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
+| 11 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
+| 12 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
+| 13 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
+| 14 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
+| 15 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
+| 16 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 3,861 |
+| 17 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 3,828 |
+| 18 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 3,776 |
+| 19 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 3,570 |
+| 20 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,507 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,359
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 | 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 
-Generated: 2026-10-09T08:13:23.265Z
+Generated: 2026-10-09T09:01:38.086Z

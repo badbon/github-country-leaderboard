@@ -1,6 +1,6 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-09T08:09:49.672Z
+Generated: 2026-10-09T08:59:19.101Z
 
 Users: 212
 
@@ -8,7 +8,7 @@ Users: 212
 |---:|---|---|---|---|---|---:|
 | 1 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1889 |
 | 2 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1477 |
-| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1145 |
+| 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1139 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1110 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 868 |
 | 6 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 716 |
@@ -22,7 +22,7 @@ Users: 212
 | 14 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
 | 15 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
 | 16 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
-| 17 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 239 |
+| 17 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 238 |
 | 18 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 220 |
 | 19 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 185 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 162 |

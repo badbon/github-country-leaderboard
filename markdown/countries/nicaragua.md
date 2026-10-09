@@ -28,10 +28,10 @@ Indexed users: 1,401
 | 14 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 3,606 |
 | 15 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,460 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,407 |
-| 17 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,263 |
-| 18 | [juliosolis](https://github.com/juliosolis) | Julio Solis | Nicaragua | 3,141 |
-| 19 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Nicaragua | 3,137 |
-| 20 | [Snowsita](https://github.com/Snowsita) | Enmanuel Antonio Torres Saenz | Nicaragua | 3,018 |
+| 17 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 3,325 |
+| 18 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,263 |
+| 19 | [juliosolis](https://github.com/juliosolis) | Julio Solis | Nicaragua | 3,141 |
+| 20 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Nicaragua | 3,137 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,401
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-09T08:06:27.092Z
+Generated: 2026-10-09T08:55:51.569Z

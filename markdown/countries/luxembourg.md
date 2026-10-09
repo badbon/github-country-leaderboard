@@ -13,7 +13,7 @@ Indexed users: 2,203
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 36,874 |
-| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 19,672 |
+| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24,832 |
 | 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
 | 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,011 |
 | 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 13,577 |
@@ -22,8 +22,8 @@ Indexed users: 2,203
 | 8 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 9,830 |
 | 9 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
 | 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 8,075 |
-| 11 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 7,793 |
-| 12 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 7,571 |
+| 11 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 7,571 |
+| 12 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 6,723 |
 | 14 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,477 |
 | 15 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
@@ -37,8 +37,8 @@ Indexed users: 2,203
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 7,793 |
-| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 7,151 |
+| 1 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 9,597 |
+| 2 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,451 |
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 4,387 |
 | 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,004 |
@@ -83,4 +83,4 @@ Indexed users: 2,203
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-09T07:59:02.865Z
+Generated: 2026-10-09T08:49:33.170Z

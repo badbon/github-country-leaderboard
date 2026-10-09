@@ -27,7 +27,7 @@ Indexed users: 1,759
 | 13 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 4,546 |
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 4,454 |
-| 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,260 |
+| 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,435 |
 | 17 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | Chisinau, Moldova | 4,091 |
 | 18 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,084 |
 | 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 4,079 |
@@ -83,4 +83,4 @@ Indexed users: 1,759
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-09T08:04:53.124Z
+Generated: 2026-10-09T08:52:53.342Z

@@ -76,11 +76,11 @@ Indexed users: 715
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 98 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 92 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 86 |
-| 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
-| 16 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 81 |
-| 17 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 80 |
+| 15 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 84 |
+| 16 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
+| 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 81 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 75 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-09T08:04:12.885Z
+Generated: 2026-10-09T08:51:06.529Z

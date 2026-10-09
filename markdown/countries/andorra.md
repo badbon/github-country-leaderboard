@@ -12,12 +12,12 @@ Indexed users: 215
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 12,467 |
+| 1 | [heldermanueltv](https://github.com/heldermanueltv) | Helder Manuel Torres Vieira | Andorra la Vella | 12,520 |
 | 2 | [orimarti](https://github.com/orimarti) | Oriol Martí | Andorra | 9,831 |
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi | Andorra | 9,631 |
 | 4 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 8,874 |
 | 5 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 6,983 |
-| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,742 |
+| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,755 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,262 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,777 |
 | 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,162 |
@@ -27,8 +27,8 @@ Indexed users: 215
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,903 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,763 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,464 |
-| 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,385 |
-| 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,378 |
+| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,411 |
+| 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,385 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
 | 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,788 |
 | 20 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 2,655 |
@@ -38,7 +38,7 @@ Indexed users: 215
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 6,983 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,937 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,950 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 764 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 710 |
@@ -50,8 +50,8 @@ Indexed users: 215
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 453 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 445 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
-| 14 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 391 |
-| 15 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 388 |
+| 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 388 |
+| 15 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 371 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 317 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
 | 18 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 235 |
@@ -63,7 +63,7 @@ Indexed users: 215
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Les Escaldes, Andorra | 952 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 877 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 878 |
 | 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Andorra | 583 |
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 253 |
 | 5 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 156 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-09T08:26:09.070Z
+Generated: 2026-10-09T09:12:07.539Z

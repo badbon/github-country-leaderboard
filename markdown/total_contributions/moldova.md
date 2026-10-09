@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-09T08:04:53.124Z
+Generated: 2026-10-09T08:52:53.342Z
 
 Users: 1759
 
@@ -21,7 +21,7 @@ Users: 1759
 | 13 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 4546 |
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
-| 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4260 |
+| 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4435 |
 | 17 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |
 | 18 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4084 |
 | 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 4079 |

@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,504
+Indexed users: 2,503
 
 | Leaderboard | Link |
 |---|---|
@@ -20,8 +20,8 @@ Indexed users: 2,504
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 7,203 |
 | 7 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,936 |
 | 8 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 5,846 |
-| 9 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,826 |
-| 10 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 5,656 |
+| 9 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 5,656 |
+| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,486 |
 | 11 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 5,456 |
 | 12 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 5,388 |
 | 13 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
@@ -42,21 +42,21 @@ Indexed users: 2,504
 | 3 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,163 |
 | 4 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
 | 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
-| 6 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,942 |
-| 7 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 1,899 |
+| 6 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 1,899 |
+| 7 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,779 |
 | 8 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,400 |
 | 9 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,273 |
-| 10 | [Emicy963](https://github.com/Emicy963) | Cafu Dev | Huambo, Angola | 1,217 |
-| 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
-| 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
-| 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
-| 14 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 945 |
-| 15 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
-| 16 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
-| 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
-| 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
-| 19 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
-| 20 | [jedin01](https://github.com/jedin01) | Abner Lourenço | Angola | 873 |
+| 10 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
+| 11 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
+| 12 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
+| 13 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 945 |
+| 14 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
+| 15 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
+| 16 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
+| 17 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
+| 18 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
+| 19 | [jedin01](https://github.com/jedin01) | Abner Lourenço | Angola | 873 |
+| 20 | [jorgeedvaldo](https://github.com/jorgeedvaldo) | Edivaldo Jorge | Luanda | 836 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,504
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-09T08:26:14.712Z
+Generated: 2026-10-09T09:12:16.174Z

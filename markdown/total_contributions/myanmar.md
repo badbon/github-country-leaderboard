@@ -1,8 +1,8 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-09T08:05:50.487Z
+Generated: 2026-10-09T08:55:14.600Z
 
-Users: 2088
+Users: 2085
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

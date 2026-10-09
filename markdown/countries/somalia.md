@@ -30,8 +30,8 @@ Indexed users: 858
 | 16 | [Dhaqane-00](https://github.com/Dhaqane-00) | Abdilaahi Mowliid Dhaqane | Mogadishu | 3,321 |
 | 17 | [bashkahee](https://github.com/bashkahee) | Bashir Abdinur Ahmed | Mogadishu | 3,296 |
 | 18 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed | mogadishu-somalia | 2,998 |
-| 19 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  | Mogadishu, Somalia | 2,895 |
-| 20 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Somalia | 2,730 |
+| 19 | [mesutmahad](https://github.com/mesutmahad) | ENG MESUT | Somalia | 2,978 |
+| 20 | [Loop1106](https://github.com/Loop1106) | Abdirahman Abdullahi siad  | Mogadishu, Somalia | 2,895 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 858
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 102 |
 | 20 | [alidiamond1](https://github.com/alidiamond1) | Ali Nor Abdulle | Mogadishu | 94 |
 
-Generated: 2026-10-09T08:15:01.168Z
+Generated: 2026-10-09T09:03:17.891Z

@@ -1,13 +1,13 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-09T07:59:02.865Z
+Generated: 2026-10-09T08:49:33.170Z
 
 Users: 2203
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | @LuxApps  |  | Luxembourg | 36874 |
-| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 19672 |
+| 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24832 |
 | 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
 | 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 16011 |
 | 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 13577 |
@@ -16,8 +16,8 @@ Users: 2203
 | 8 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 9830 |
 | 9 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
 | 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 8075 |
-| 11 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 7793 |
-| 12 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 7571 |
+| 11 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 7571 |
+| 12 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 6723 |
 | 14 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6477 |
 | 15 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6197 |

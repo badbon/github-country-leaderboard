@@ -43,7 +43,7 @@ Indexed users: 185
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 350 |
 | 6 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 221 |
-| 7 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 212 |
+| 7 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 217 |
 | 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 206 |
 | 9 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 206 |
 | 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 200 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-09T08:07:02.827Z
+Generated: 2026-10-09T08:57:05.113Z

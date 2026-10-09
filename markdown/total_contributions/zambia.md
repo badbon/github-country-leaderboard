@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-09T08:24:40.354Z
+Generated: 2026-10-09T09:10:47.357Z
 
 Users: 1346
 
@@ -15,14 +15,14 @@ Users: 1346
 | 7 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 5229 |
 | 8 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire |  | senorMk | Zambia | 5088 |
 | 9 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 4731 |
-| 10 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
-| 11 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3950 |
-| 12 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3779 |
-| 13 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
-| 14 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
-| 15 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3128 |
-| 16 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
-| 17 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
-| 18 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 2912 |
+| 10 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 4175 |
+| 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
+| 12 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3950 |
+| 13 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3779 |
+| 14 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
+| 15 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
+| 16 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3128 |
+| 17 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
+| 18 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
 | 19 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali |  |  | Lusaka, Zambia | 2900 |
 | 20 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 2691 |

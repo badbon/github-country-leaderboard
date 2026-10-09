@@ -1,12 +1,12 @@
 # Followers - Mongolia
 
-Generated: 2026-10-09T08:05:01.347Z
+Generated: 2026-10-09T08:53:51.804Z
 
 Users: 805
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 1663 |
+| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 1664 |
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | @fleetbase |  | Ulaanbaatar, Mongolia | 510 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh |  |  | Ulaanbaatar, Mongolia | 268 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | @homepage-listly  |  | Mongolia | 242 |
@@ -23,6 +23,6 @@ Users: 805
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | TomYo EdTech | erkhem_gantulga | Ulaanbaatar, Mongolia | 84 |
 | 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Databank LLC |  | Mongolia | 72 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 72 |
-| 18 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin |  |  | Ulaanbaatar, Mongolia | 66 |
-| 19 | [mchigm](https://github.com/mchigm) | MCHIGM | B&Bpython |  | Mongolia | 65 |
+| 18 | [mchigm](https://github.com/mchigm) | MCHIGM | B&Bpython |  | Mongolia | 65 |
+| 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin |  |  | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen |  |  | Ulaanbaatar, Mongolia | 55 |

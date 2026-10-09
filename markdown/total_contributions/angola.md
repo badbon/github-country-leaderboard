@@ -1,8 +1,8 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-09T08:26:14.712Z
+Generated: 2026-10-09T09:12:16.174Z
 
-Users: 2504
+Users: 2503
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,8 +14,8 @@ Users: 2504
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 7203 |
 | 7 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5936 |
 | 8 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 5846 |
-| 9 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5826 |
-| 10 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 5656 |
+| 9 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 5656 |
+| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
 | 11 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 5456 |
 | 12 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
 | 13 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |

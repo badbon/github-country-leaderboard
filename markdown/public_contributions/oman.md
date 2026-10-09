@@ -1,13 +1,13 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-09T08:07:18.532Z
+Generated: 2026-10-09T08:57:21.220Z
 
-Users: 997
+Users: 996
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Barkat national ent llc |  | Oman | 89277 |
-| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 4792 |
+| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 4881 |
 | 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Codeline |  | Oman | 3477 |
 | 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Codeline |  | Oman | 2977 |
 | 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Codeline |  | Oman | 2794 |

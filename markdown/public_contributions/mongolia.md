@@ -1,13 +1,13 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-09T08:05:01.347Z
+Generated: 2026-10-09T08:53:51.804Z
 
 Users: 805
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [BeBecpp](https://github.com/BeBecpp) | Nero | ZEVQORA | nero_4040 | Mongolia, Darkhan | 1229 |
-| 2 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 1112 |
+| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 2900 |
+| 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | ZEVQORA | nero_4040 | Mongolia, Darkhan | 1229 |
 | 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | MEDIAPRO | Temuujin_TV | Mongolia | 1046 |
 | 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal |  |  | Ulaanbaatar, Mongolia | 994 |
 | 5 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 954 |

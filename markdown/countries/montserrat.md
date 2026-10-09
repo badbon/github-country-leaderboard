@@ -41,7 +41,7 @@ Indexed users: 291
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,778 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,405 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 950 |
-| 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 790 |
+| 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 786 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 678 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 533 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-09T08:05:07.418Z
+Generated: 2026-10-09T08:54:37.377Z

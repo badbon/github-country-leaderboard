@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-09T08:24:43.006Z
+Generated: 2026-10-09T09:11:15.604Z
 
 Users: 1655
 
@@ -18,8 +18,8 @@ Users: 1655
 | 10 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6553 |
 | 11 | [CyprianTinasheAarons](https://github.com/CyprianTinasheAarons) | Cyprian Tinashe Aarons | Freelancer | CyprianAarons | Zimbabwe | 6525 |
 | 12 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Slyker Tech Web Services |  | Zimbabwe | 6468 |
-| 13 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 6092 |
-| 14 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Vectra Dynamics, Optimeer Labs, Emzini weCode, ZimWorx | andilejaden | Zimbabwe | 5832 |
+| 13 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Vectra Dynamics, Optimeer Labs, Emzini weCode, ZimWorx | andilejaden | Zimbabwe | 5832 |
+| 14 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 5825 |
 | 15 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 5484 |
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Founder @ Campus Market | praisetech_zw | Chinhoyi, Zimbabwe | 5441 |
 | 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5403 |

@@ -1,13 +1,13 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-09T08:26:09.070Z
+Generated: 2026-10-09T09:12:07.539Z
 
 Users: 215
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 6983 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 2937 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 2950 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1033 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 764 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 710 |
@@ -19,8 +19,8 @@ Users: 215
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Mountain Path Consulting |  | Ordino, Andorra | 453 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | @Peersyst |  | Andorra | 445 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |
-| 14 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 391 |
-| 15 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 388 |
+| 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 388 |
+| 15 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 371 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 317 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 276 |
 | 18 | [davidbalivo](https://github.com/davidbalivo) |  |  |  | Andorra | 235 |

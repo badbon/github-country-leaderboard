@@ -1,8 +1,8 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-09T08:29:24.011Z
+Generated: 2026-10-09T09:17:40.036Z
 
-Users: 534
+Users: 533
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 534
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Self-Employed |  | Gaborone Botswana | 856 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana |  |  | Gaborone, Botswana | 840 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 735 |
-| 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 601 |
+| 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Scheke Innovationhub |  | Botswana | 592 |
 | 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA |  |  | Botswana 🇧🇼  | 543 |
 | 12 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Fountspark pty ltd |  | Gaborone | 528 |
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 493 |

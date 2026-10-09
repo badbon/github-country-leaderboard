@@ -43,8 +43,8 @@ Indexed users: 711
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,380 |
 | 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 1,223 |
 | 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 978 |
-| 7 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 976 |
-| 8 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 953 |
+| 7 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 953 |
+| 8 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 940 |
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 823 |
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 760 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 671 |
@@ -83,4 +83,4 @@ Indexed users: 711
 | 19 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Dushanbe,Tajikistan | 50 |
 | 20 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 
-Generated: 2026-10-09T08:38:51.492Z
+Generated: 2026-10-09T09:07:29.501Z

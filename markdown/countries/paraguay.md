@@ -16,22 +16,22 @@ Indexed users: 2,021
 | 2 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 14,120 |
 | 3 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 13,886 |
 | 4 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 12,823 |
-| 5 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
-| 6 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 8,226 |
-| 7 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 6,812 |
-| 8 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
-| 9 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
-| 10 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 5,261 |
-| 11 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 4,966 |
-| 12 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
-| 13 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
-| 14 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
-| 15 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 4,280 |
-| 16 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
-| 17 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
-| 18 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
-| 19 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
-| 20 | [yoryer](https://github.com/yoryer) | Jorge Noguera | Paraguay | 4,017 |
+| 5 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 10,224 |
+| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
+| 7 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 8,226 |
+| 8 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 6,812 |
+| 9 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
+| 10 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
+| 11 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 5,261 |
+| 12 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 4,966 |
+| 13 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
+| 14 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
+| 15 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
+| 16 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 4,280 |
+| 17 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
+| 18 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
+| 19 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
+| 20 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,021
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-09T08:07:51.077Z
+Generated: 2026-10-09T08:58:19.307Z

@@ -21,15 +21,15 @@ Indexed users: 1,346
 | 7 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,229 |
 | 8 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire | Zambia | 5,088 |
 | 9 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 4,731 |
-| 10 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,005 |
-| 11 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,950 |
-| 12 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,779 |
-| 13 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 3,753 |
-| 14 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
-| 15 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
-| 16 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
-| 17 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 2,985 |
-| 18 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 2,912 |
+| 10 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,175 |
+| 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,005 |
+| 12 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,950 |
+| 13 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,779 |
+| 14 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 3,753 |
+| 15 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
+| 16 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
+| 17 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
+| 18 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 2,985 |
 | 19 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali | Lusaka, Zambia | 2,900 |
 | 20 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 2,691 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,346
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 104 |
 
-Generated: 2026-10-09T08:24:40.354Z
+Generated: 2026-10-09T09:10:47.357Z

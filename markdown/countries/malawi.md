@@ -28,10 +28,10 @@ Indexed users: 902
 | 14 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 3,640 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,452 |
 | 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul |  Malawi | 3,435 |
-| 17 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi | Malawi | 3,346 |
-| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,210 |
-| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,137 |
-| 20 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
+| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,210 |
+| 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,137 |
+| 19 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
+| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,127 |
 
 ## Public Contributions
 
@@ -63,7 +63,7 @@ Indexed users: 902
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 2,625 |
-| 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,424 |
+| 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,439 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom | Blantyre , Malawi | 769 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | Lilongwe Malaŵi  | 562 |
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 479 |
@@ -80,7 +80,7 @@ Indexed users: 902
 | 16 | [i-christian](https://github.com/i-christian) | Christian | Mzuzu, Malawi  | 168 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | Blantyre, Malawi | 146 |
-| 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
-| 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
+| 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
+| 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-09T07:59:25.687Z
+Generated: 2026-10-09T08:50:12.204Z

@@ -1,6 +1,6 @@
 # South Korea
 
-Indexed users: 56,882
+Indexed users: 56,881
 
 | Leaderboard | Link |
 |---|---|
@@ -14,8 +14,8 @@ Indexed users: 56,882
 |---:|---|---|---|---:|
 | 1 | [Salomondiei08](https://github.com/Salomondiei08) | Salomon | Seoul | 181,745 |
 | 2 | [shaun0927](https://github.com/shaun0927) | Junghwan | Seoul | 66,929 |
-| 3 | [ParkMinKyu](https://github.com/ParkMinKyu) | ParkMinkyu | korea seoul | 53,186 |
-| 4 | [haydenkwak](https://github.com/haydenkwak) | hayden | South Korea | 51,610 |
+| 3 | [haydenkwak](https://github.com/haydenkwak) | hayden | South Korea | 66,149 |
+| 4 | [ParkMinKyu](https://github.com/ParkMinKyu) | ParkMinkyu | korea seoul | 53,186 |
 | 5 | [shurain](https://github.com/shurain) | Sungjoo Ha | Seoul, Korea | 49,788 |
 | 6 | [seonghobae](https://github.com/seonghobae) | Seongho Bae | Seoul, KR | 46,759 |
 | 7 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Seoul, Korea | 46,752 |
@@ -83,4 +83,4 @@ Indexed users: 56,882
 | 19 | [rickiepark](https://github.com/rickiepark) | Haesun Park | Seoul, Korea | 1,884 |
 | 20 | [joshua1988](https://github.com/joshua1988) | Captain Pangyo | South Korea | 1,726 |
 
-Generated: 2026-10-09T08:18:13.971Z
+Generated: 2026-10-09T09:04:52.947Z

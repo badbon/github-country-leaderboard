@@ -14,15 +14,15 @@ Indexed users: 805
 |---:|---|---|---|---:|
 | 1 | [themuuln](https://github.com/themuuln) | themuuln | Ulaanbaatar, Mongolia | 562,250 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 100,092 |
-| 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 14,169 |
+| 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 17,493 |
 | 4 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 10,944 |
 | 5 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,093 |
 | 6 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 8,839 |
 | 7 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 7,774 |
 | 8 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 7,406 |
-| 9 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,345 |
-| 10 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 5,976 |
-| 11 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 5,658 |
+| 9 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,510 |
+| 10 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,345 |
+| 11 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 5,976 |
 | 12 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,576 |
 | 13 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,247 |
 | 14 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 4,786 |
@@ -37,8 +37,8 @@ Indexed users: 805
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,229 |
-| 2 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 1,112 |
+| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 2,900 |
+| 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,229 |
 | 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | Mongolia | 1,046 |
 | 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 994 |
 | 5 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 954 |
@@ -62,7 +62,7 @@ Indexed users: 805
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 1,663 |
+| 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 1,664 |
 | 2 | [doljko](https://github.com/doljko) | Enkhbayar Doljinsuren | Ulaanbaatar, Mongolia | 510 |
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh | Ulaanbaatar, Mongolia | 268 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | Mongolia | 242 |
@@ -79,8 +79,8 @@ Indexed users: 805
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | Ulaanbaatar, Mongolia | 84 |
 | 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Mongolia | 72 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 72 |
-| 18 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 66 |
-| 19 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
+| 18 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
+| 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-09T08:05:01.347Z
+Generated: 2026-10-09T08:53:51.804Z

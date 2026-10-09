@@ -12,10 +12,10 @@ Indexed users: 1,189
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 10,302 |
-| 2 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,598 |
-| 3 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,242 |
-| 4 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 7,657 |
+| 1 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 10,352 |
+| 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 10,302 |
+| 3 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,598 |
+| 4 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,242 |
 | 5 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,334 |
 | 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,294 |
 | 7 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 6,077 |
@@ -25,13 +25,13 @@ Indexed users: 1,189
 | 11 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
 | 12 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
 | 13 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
-| 14 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
-| 15 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,164 |
-| 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,094 |
-| 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,078 |
-| 18 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 3,849 |
-| 19 | [ElisBushaj](https://github.com/ElisBushaj) |  | Albania | 3,755 |
-| 20 | [floridisha](https://github.com/floridisha) | Florian Disha | Tiranë, Albania | 3,670 |
+| 14 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
+| 15 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
+| 16 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
+| 17 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,164 |
+| 18 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,094 |
+| 19 | [klajdicaushi](https://github.com/klajdicaushi) | Klajdi Çaushi | Tirana | 3,950 |
+| 20 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 3,849 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 1,189
 | 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,880 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 2,012 |
 | 3 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,521 |
-| 4 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,497 |
+| 4 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,390 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,381 |
 | 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
 | 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
@@ -62,7 +62,7 @@ Indexed users: 1,189
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,746 |
+| 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,781 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,889 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 775 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 718 |
@@ -83,4 +83,4 @@ Indexed users: 1,189
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-09T08:25:00.481Z
+Generated: 2026-10-09T09:11:29.599Z

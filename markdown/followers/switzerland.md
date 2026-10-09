@@ -1,8 +1,8 @@
 # Followers - Switzerland
 
-Generated: 2026-10-09T08:17:37.197Z
+Generated: 2026-10-09T09:07:17.447Z
 
-Users: 24083
+Users: 24080
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

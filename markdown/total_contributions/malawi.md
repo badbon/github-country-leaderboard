@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-09T07:59:25.687Z
+Generated: 2026-10-09T08:50:12.204Z
 
 Users: 902
 
@@ -22,7 +22,7 @@ Users: 902
 | 14 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 3640 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3452 |
 | 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul | @rexplore-ai | IrByamasu |  Malawi | 3435 |
-| 17 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi |  |  | Malawi | 3346 |
-| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
-| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
-| 20 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |
+| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
+| 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
+| 19 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |
+| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3127 |

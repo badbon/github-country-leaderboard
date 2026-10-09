@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 997
+Indexed users: 996
 
 | Leaderboard | Link |
 |---|---|
@@ -15,30 +15,30 @@ Indexed users: 997
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 89,684 |
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,097 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 11,596 |
-| 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
-| 5 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
-| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 8,697 |
+| 4 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 11,352 |
+| 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
+| 6 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
 | 7 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 7,994 |
 | 8 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
 | 9 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 6,444 |
-| 10 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
-| 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
-| 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
-| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
-| 14 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
-| 15 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
-| 16 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
-| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
-| 18 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 4,151 |
-| 19 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
-| 20 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Oman | 3,716 |
+| 10 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
+| 11 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
+| 12 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
+| 13 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
+| 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
+| 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
+| 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
+| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
+| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
+| 19 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 4,151 |
+| 20 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 89,277 |
-| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 4,792 |
+| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 4,881 |
 | 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood Codeline | Oman | 3,477 |
 | 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,977 |
 | 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
@@ -83,4 +83,4 @@ Indexed users: 997
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-09T08:07:18.532Z
+Generated: 2026-10-09T08:57:21.220Z

@@ -1,6 +1,6 @@
 # Followers - Montenegro
 
-Generated: 2026-10-09T08:05:05.145Z
+Generated: 2026-10-09T08:53:59.065Z
 
 Users: 901
 
@@ -22,7 +22,7 @@ Users: 901
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay |  | emrahatalay79 | Montenegro | 128 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Webonizer |  | Podgorica | 125 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic |  | herilmuratovic | Montenegro, Podgorica | 105 |
-| 17 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Software Engineer |  | Podgorica, Montenegro | 100 |
-| 18 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić |  |  | Montenegro | 100 |
+| 17 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić |  |  | Montenegro | 101 |
+| 18 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Software Engineer |  | Podgorica, Montenegro | 100 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Employed |  | Budva, Montenegro | 100 |
-| 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Founder @netboxify |  | Montenegro | 86 |
+| 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Founder @netboxify |  | Montenegro | 89 |

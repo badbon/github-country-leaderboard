@@ -1,8 +1,8 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-09T07:57:52.866Z
+Generated: 2026-10-09T08:49:22.902Z
 
-Users: 745
+Users: 744
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 745
 | 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 437 |
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 423 |
 | 16 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 362 |
-| 17 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
-| 18 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 345 |
-| 19 | [Ahmed3rab](https://github.com/Ahmed3rab) | Ahmed Arab |  |  | Tripoli, Libya  | 340 |
+| 17 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
+| 18 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
+| 19 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 345 |
 | 20 | [KingKnull](https://github.com/KingKnull) | Sanad | Tech enthusiast \| IT Consultant@LCO \| Cybersecurity\| \| Polyglot  | OblivraLabs | Tripoli, Libya | 335 |

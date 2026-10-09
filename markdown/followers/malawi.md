@@ -1,13 +1,13 @@
 # Followers - Malawi
 
-Generated: 2026-10-09T07:59:25.687Z
+Generated: 2026-10-09T08:50:12.204Z
 
 Users: 902
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 2625 |
-| 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  |  |  Malawi | 1424 |
+| 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  |  |  Malawi | 1439 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom |  |  | Blantyre , Malawi | 769 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | @HashTag-Technologies-Limited  | Marhardal | Lilongwe Malaŵi  | 562 |
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 479 |
@@ -24,5 +24,5 @@ Users: 902
 | 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 168 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi Liverpool Wellcome Trust |  | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | TechNest | badboy_trox99 | Blantyre, Malawi | 146 |
-| 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | @Horizon-vertex |  | Malawi | 133 |
-| 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 131 |
+| 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 131 |
+| 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | @Horizon-vertex |  | Malawi | 129 |

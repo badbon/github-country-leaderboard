@@ -31,7 +31,7 @@ Indexed users: 728
 | 17 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,204 |
 | 18 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,171 |
 | 19 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,169 |
-| 20 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 3,168 |
+| 20 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 2,960 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-09T08:27:45.657Z
+Generated: 2026-10-09T09:14:12.030Z

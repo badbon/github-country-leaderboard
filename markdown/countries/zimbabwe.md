@@ -24,8 +24,8 @@ Indexed users: 1,655
 | 10 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
 | 11 | [CyprianTinasheAarons](https://github.com/CyprianTinasheAarons) | Cyprian Tinashe Aarons | Zimbabwe | 6,525 |
 | 12 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
-| 13 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 6,092 |
-| 14 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,832 |
+| 13 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,832 |
+| 14 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,825 |
 | 15 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 5,484 |
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
 | 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,403 |
@@ -83,4 +83,4 @@ Indexed users: 1,655
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-09T08:24:43.006Z
+Generated: 2026-10-09T09:11:15.604Z

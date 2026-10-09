@@ -1,8 +1,8 @@
 # Followers - Ukraine
 
-Generated: 2026-10-09T08:22:17.896Z
+Generated: 2026-10-09T09:12:10.391Z
 
-Users: 47774
+Users: 47778
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

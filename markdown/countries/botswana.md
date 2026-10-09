@@ -1,6 +1,6 @@
 # Botswana
 
-Indexed users: 534
+Indexed users: 533
 
 | Leaderboard | Link |
 |---|---|
@@ -25,7 +25,7 @@ Indexed users: 534
 | 11 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,035 |
 | 12 | [mwmiller](https://github.com/mwmiller) | Matt Miller | Gaborone, Botswana | 2,028 |
 | 13 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 1,993 |
-| 14 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,982 |
+| 14 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 1,985 |
 | 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,958 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
 | 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,718 |
@@ -46,7 +46,7 @@ Indexed users: 534
 | 7 | [arnold1990-cell](https://github.com/arnold1990-cell) | Arnold Tyvern Madamombe | Gaborone Botswana | 856 |
 | 8 | [tmosimanyana](https://github.com/tmosimanyana) | Tinny Mosimanyana | Gaborone, Botswana | 840 |
 | 9 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 735 |
-| 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 601 |
+| 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 592 |
 | 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 12 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 528 |
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 493 |
@@ -83,4 +83,4 @@ Indexed users: 534
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-09T08:29:24.011Z
+Generated: 2026-10-09T09:17:40.036Z

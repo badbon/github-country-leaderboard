@@ -1,15 +1,15 @@
 # Total Contributions - South Korea
 
-Generated: 2026-10-09T08:18:13.971Z
+Generated: 2026-10-09T09:04:52.947Z
 
-Users: 56882
+Users: 56881
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Salomondiei08](https://github.com/Salomondiei08) | Salomon | Reinvent-Labs | salomon_diei | Seoul | 181745 |
 | 2 | [shaun0927](https://github.com/shaun0927) | Junghwan | @DaedalGames | JunghwanNa_ooo | Seoul | 66929 |
-| 3 | [ParkMinKyu](https://github.com/ParkMinKyu) | ParkMinkyu | korea |  | korea seoul | 53186 |
-| 4 | [haydenkwak](https://github.com/haydenkwak) | hayden | unemployed |  | South Korea | 51610 |
+| 3 | [haydenkwak](https://github.com/haydenkwak) | hayden | unemployed |  | South Korea | 66149 |
+| 4 | [ParkMinKyu](https://github.com/ParkMinKyu) | ParkMinkyu | korea |  | korea seoul | 53186 |
 | 5 | [shurain](https://github.com/shurain) | Sungjoo Ha |  |  | Seoul, Korea | 49788 |
 | 6 | [seonghobae](https://github.com/seonghobae) | Seongho Bae |  | Personnelpsyc | Seoul, KR | 46759 |
 | 7 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Maum.AI Inc. |  | Seoul, Korea | 46752 |
