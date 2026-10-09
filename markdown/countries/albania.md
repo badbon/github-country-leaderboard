@@ -43,9 +43,9 @@ Indexed users: 1,189
 | 4 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,497 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,381 |
 | 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
-| 7 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 1,107 |
-| 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
-| 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
+| 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
+| 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
+| 9 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 883 |
 | 10 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 744 |
 | 11 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
 | 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
@@ -83,4 +83,4 @@ Indexed users: 1,189
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-09T07:38:12.153Z
+Generated: 2026-10-09T08:25:00.481Z

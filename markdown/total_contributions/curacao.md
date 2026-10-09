@@ -1,6 +1,6 @@
 # Total Contributions - Curaçao
 
-Generated: 2026-10-09T07:46:48.364Z
+Generated: 2026-10-09T08:34:55.866Z
 
 Users: 53
 
@@ -19,10 +19,10 @@ Users: 53
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
 | 13 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 92 |
-| 14 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar |  | iamjesco | Willemstad | 50 |
-| 15 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
-| 16 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
-| 17 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |
-| 18 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 38 |
-| 19 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 36 |
+| 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 53 |
+| 15 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar |  | iamjesco | Willemstad | 50 |
+| 16 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
+| 17 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
+| 18 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |
+| 19 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 38 |
 | 20 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 33 |

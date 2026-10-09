@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-09T07:38:12.153Z
+Generated: 2026-10-09T08:25:00.481Z
 
 Users: 1189
 
@@ -12,9 +12,9 @@ Users: 1189
 | 4 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 1497 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest |  |  | Albania | 1381 |
 | 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Western Balkan Univesity | kleo_j14 | Albania | 1243 |
-| 7 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 1107 |
-| 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 1001 |
-| 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 901 |
+| 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 1001 |
+| 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 901 |
+| 9 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 883 |
 | 10 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 744 |
 | 11 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
 | 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |

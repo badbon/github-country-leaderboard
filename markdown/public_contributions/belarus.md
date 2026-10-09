@@ -1,6 +1,6 @@
 # Public Contributions - Belarus
 
-Generated: 2026-10-09T07:42:43.833Z
+Generated: 2026-10-09T08:27:59.185Z
 
 Users: 10951
 
@@ -11,8 +11,8 @@ Users: 10951
 | 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | @ITProfGroup |  | Minsk, Belarus | 4312 |
 | 4 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | @androidbroadcast  | kirill_rozov | Grodno, Belarus | 3364 |
 | 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex |  |  | Minsk | 2879 |
-| 6 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo |  | kostabarilo12 | Minsk, Belarus | 2351 |
-| 7 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | irex.ai |  | Minsk, Belarus | 2244 |
+| 6 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | irex.ai |  | Minsk, Belarus | 2244 |
+| 7 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo |  |  | Minsk, Belarus | 2208 |
 | 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky |  |  | Belarus, Minsk | 2150 |
 | 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky |  |  | Belarus | 2113 |
 | 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov |  | timseriakov | Minsk, Belarus | 2082 |

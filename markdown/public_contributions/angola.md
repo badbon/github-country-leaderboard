@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-09T07:38:49.439Z
+Generated: 2026-10-09T08:26:14.712Z
 
 Users: 2504
 
@@ -25,4 +25,4 @@ Users: 2504
 | 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
 | 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 930 |
 | 19 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 921 |
-| 20 | [jorgeedvaldo](https://github.com/jorgeedvaldo) | Edivaldo Jorge |  |  | Luanda | 836 |
+| 20 | [jedin01](https://github.com/jedin01) | Abner Lourenço |  | jdn_098 | Angola | 873 |

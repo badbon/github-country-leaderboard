@@ -1,6 +1,6 @@
 # Sudan
 
-Indexed users: 728
+Indexed users: 729
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-10-09T07:31:20.512Z
+Generated: 2026-10-09T08:24:55.788Z

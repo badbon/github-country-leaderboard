@@ -1,8 +1,8 @@
 # Total Contributions - Chile
 
-Generated: 2026-10-09T07:45:51.732Z
+Generated: 2026-10-09T08:33:54.946Z
 
-Users: 19398
+Users: 19397
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

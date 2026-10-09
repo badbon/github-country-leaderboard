@@ -1,6 +1,6 @@
 # Turkey
 
-Indexed users: 79,053
+Indexed users: 79,052
 
 | Leaderboard | Link |
 |---|---|
@@ -16,9 +16,9 @@ Indexed users: 79,053
 | 2 | [komutan234](https://github.com/komutan234) | Turgut Akın | Turkey | 108,873 |
 | 3 | [themiralay](https://github.com/themiralay) | Enes Can Işık | Turkey | 105,318 |
 | 4 | [anilcanbulut](https://github.com/anilcanbulut) | Anılcan Bulut | İstanbul | 101,410 |
-| 5 | [serkantolga](https://github.com/serkantolga) | Serkan Tolga | London & Istanbul | 60,822 |
-| 6 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Kadıköy, İstanbul, Türkiye | 58,710 |
-| 7 | [buraksocial](https://github.com/buraksocial) | Burâk | Izmir, Turkey | 57,557 |
+| 5 | [buraksocial](https://github.com/buraksocial) | Burak Doğan | Izmir, Turkey | 75,489 |
+| 6 | [serkantolga](https://github.com/serkantolga) | Serkan Tolga | London & Istanbul | 60,822 |
+| 7 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Kadıköy, İstanbul, Türkiye | 58,710 |
 | 8 | [ScriptSun](https://github.com/ScriptSun) | ScriptSun | Istanbul | 50,831 |
 | 9 | [olgunozoktas](https://github.com/olgunozoktas) | Olgun Özoktaş | İstanbul | 50,324 |
 | 10 | [MAkcanca](https://github.com/MAkcanca) | Mustafa Akcanca | Istanbul, Turkey | 47,876 |
@@ -40,7 +40,7 @@ Indexed users: 79,053
 | 1 | [altinsoft](https://github.com/altinsoft) | AltinSoft Information Technologies | Türkiye | 179,465 |
 | 2 | [komutan234](https://github.com/komutan234) | Turgut Akın | Turkey | 108,352 |
 | 3 | [themiralay](https://github.com/themiralay) | Enes Can Işık | Turkey | 104,161 |
-| 4 | [buraksocial](https://github.com/buraksocial) | Burâk | Izmir, Turkey | 57,508 |
+| 4 | [buraksocial](https://github.com/buraksocial) | Burak Doğan | Izmir, Turkey | 75,346 |
 | 5 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Kadıköy, İstanbul, Türkiye | 55,691 |
 | 6 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 | Türkiye | 20,643 |
 | 7 | [poyrazK](https://github.com/poyrazK) |  Hüseyin Poyraz Küçükarslan | Erzurum , Türkiye | 17,002 |
@@ -74,13 +74,13 @@ Indexed users: 79,053
 | 10 | [sadikturan](https://github.com/sadikturan) | Sadık TURAN | Türkiye | 7,085 |
 | 11 | [mustafamuratcoskun](https://github.com/mustafamuratcoskun) | Mustafa Murat Coşkun | Ankara | 7,031 |
 | 12 | [emirkaanozdemr](https://github.com/emirkaanozdemr) | Emir Kaan Özdemir | Istanbul, Turkey | 5,674 |
-| 13 | [hakanyalcinkaya](https://github.com/hakanyalcinkaya) | Hakan Yalcinkaya | Istanbul | 4,852 |
-| 14 | [hexarch](https://github.com/hexarch) | hexarch | İstanbul | 4,403 |
-| 15 | [buraksocial](https://github.com/buraksocial) | Burâk | Izmir, Turkey | 4,135 |
+| 13 | [buraksocial](https://github.com/buraksocial) | Burak Doğan | Izmir, Turkey | 5,021 |
+| 14 | [hakanyalcinkaya](https://github.com/hakanyalcinkaya) | Hakan Yalcinkaya | Istanbul | 4,852 |
+| 15 | [hexarch](https://github.com/hexarch) | hexarch | İstanbul | 4,403 |
 | 16 | [gncyyldz](https://github.com/gncyyldz) | Gençay Yıldız | Ankara | 4,107 |
 | 17 | [ramazancetinkaya](https://github.com/ramazancetinkaya) | Ramazan Çetinkaya | Ankara, Türkiye | 3,640 |
 | 18 | [deeplearningturkiye](https://github.com/deeplearningturkiye) | Deep Learning Türkiye | İstanbul | 3,629 |
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-09T07:55:15.918Z
+Generated: 2026-10-09T08:20:20.436Z

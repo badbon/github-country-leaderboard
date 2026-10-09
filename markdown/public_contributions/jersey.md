@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-09T07:56:15.021Z
+Generated: 2026-10-09T08:45:53.022Z
 
 Users: 139
 
@@ -9,14 +9,14 @@ Users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 39700 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 745 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 713 |
-| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 654 |
+| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 669 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | BuroHappold Engineering |  | Jersey | 572 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 568 |
 | 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Insert Affiliate Ltd |  | Jersey | 431 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 225 |
 | 9 | [ndestates](https://github.com/ndestates) | Nick Dodsley | ND Estates | nickdodsley | Jersey | 221 |
 | 10 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | @politepixels  |  | Jersey, Channel Islands | 210 |
-| 11 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 173 |
+| 11 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 178 |
 | 12 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
 | 13 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
 | 14 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 135 |

@@ -20,7 +20,7 @@ Indexed users: 139
 | 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,701 |
 | 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,592 |
 | 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,098 |
-| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 3,982 |
+| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 3,986 |
 | 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,363 |
 | 11 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,938 |
 | 12 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 2,742 |
@@ -40,14 +40,14 @@ Indexed users: 139
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 39,700 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 745 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 713 |
-| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 654 |
+| 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 669 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 568 |
 | 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 431 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 225 |
 | 9 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 221 |
 | 10 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 210 |
-| 11 | [xsebby](https://github.com/xsebby) | sebby | jersey | 173 |
+| 11 | [xsebby](https://github.com/xsebby) | sebby | jersey | 178 |
 | 12 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 152 |
 | 13 | [devdanio](https://github.com/devdanio) | Dan | Jersey | 139 |
 | 14 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 135 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-09T07:56:15.021Z
+Generated: 2026-10-09T08:45:53.022Z

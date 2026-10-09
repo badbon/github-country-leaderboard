@@ -1,14 +1,14 @@
 # Public Contributions - Ghana
 
-Generated: 2026-10-09T07:52:57.047Z
+Generated: 2026-10-09T08:39:30.877Z
 
 Users: 7112
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | @tech-plus-plus |  | Accra, Ghana | 31359 |
-| 2 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | @CodeCadence | heiskimathi | Ghana | 26266 |
-| 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 25397 |
+| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 25397 |
+| 3 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Rehotech & Tayenn | heiskimathi | Ghana | 23317 |
 | 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 19382 |
 | 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 14900 |
 | 6 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | OHCS |  | GHANA | 7240 |

@@ -1,6 +1,6 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-09T07:34:43.689Z
+Generated: 2026-10-09T08:19:09.022Z
 
 Users: 680
 
@@ -14,10 +14,10 @@ Users: 680
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | @GYFX35 |  | Togo | 1970 |
 | 7 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 1919 |
 | 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1847 |
-| 9 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1710 |
-| 10 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | NOVAGRAPHIKVISU |  | Lomé / Togo | 1275 |
-| 11 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Bluwa |  | Lomé | 1203 |
-| 12 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1194 |
+| 9 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1810 |
+| 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1710 |
+| 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | NOVAGRAPHIKVISU |  | Lomé / Togo | 1275 |
+| 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Bluwa |  | Lomé | 1203 |
 | 13 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 905 |
 | 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 885 |
 | 15 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 827 |

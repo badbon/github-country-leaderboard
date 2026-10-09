@@ -1,8 +1,8 @@
 # Total Contributions - Turkey
 
-Generated: 2026-10-09T07:55:15.918Z
+Generated: 2026-10-09T08:20:20.436Z
 
-Users: 79053
+Users: 79052
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,9 +10,9 @@ Users: 79053
 | 2 | [komutan234](https://github.com/komutan234) | Turgut Akın | Akınax Group |  | Turkey | 108873 |
 | 3 | [themiralay](https://github.com/themiralay) | Enes Can Işık | 0x0e0.eth |  | Turkey | 105318 |
 | 4 | [anilcanbulut](https://github.com/anilcanbulut) | Anılcan Bulut |  | anilcanblt | İstanbul | 101410 |
-| 5 | [serkantolga](https://github.com/serkantolga) | Serkan Tolga | Koc University |  | London & Istanbul | 60822 |
-| 6 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Discord: thearmagan |  | Kadıköy, İstanbul, Türkiye | 58710 |
-| 7 | [buraksocial](https://github.com/buraksocial) | Burâk |  |  | Izmir, Turkey | 57557 |
+| 5 | [buraksocial](https://github.com/buraksocial) | Burak Doğan |  |  | Izmir, Turkey | 75489 |
+| 6 | [serkantolga](https://github.com/serkantolga) | Serkan Tolga | Koc University |  | London & Istanbul | 60822 |
+| 7 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Discord: thearmagan |  | Kadıköy, İstanbul, Türkiye | 58710 |
 | 8 | [ScriptSun](https://github.com/ScriptSun) | ScriptSun | WoWonder,Playtube,PixelPhoto,QuickDate |  | Istanbul | 50831 |
 | 9 | [olgunozoktas](https://github.com/olgunozoktas) | Olgun Özoktaş |  |  | İstanbul | 50324 |
 | 10 | [MAkcanca](https://github.com/MAkcanca) | Mustafa Akcanca |  |  | Istanbul, Turkey | 47876 |

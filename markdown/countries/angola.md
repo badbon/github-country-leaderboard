@@ -17,14 +17,14 @@ Indexed users: 2,504
 | 3 | [josecaseiro](https://github.com/josecaseiro) | José Caseiro | Angola | 10,064 |
 | 4 | [Katumbela](https://github.com/Katumbela) | João Afonso Katombela | LUANDA | 9,293 |
 | 5 | [aurennunes](https://github.com/aurennunes) | Aureliano Nunes | Angola | 8,614 |
-| 6 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 7,256 |
-| 7 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 7,203 |
-| 8 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,936 |
-| 9 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 5,846 |
-| 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,826 |
-| 11 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 5,656 |
-| 12 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 5,456 |
-| 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 5,388 |
+| 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 7,203 |
+| 7 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,936 |
+| 8 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 5,846 |
+| 9 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,826 |
+| 10 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 5,656 |
+| 11 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 5,456 |
+| 12 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 5,388 |
+| 13 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | Angola/Luanda | 4,947 |
 | 14 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 4,823 |
 | 15 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Angola | 3,905 |
 | 16 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota | Angola/Luanda | 3,799 |
@@ -56,7 +56,7 @@ Indexed users: 2,504
 | 17 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
 | 18 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
 | 19 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
-| 20 | [jorgeedvaldo](https://github.com/jorgeedvaldo) | Edivaldo Jorge | Luanda | 836 |
+| 20 | [jedin01](https://github.com/jedin01) | Abner Lourenço | Angola | 873 |
 
 ## Followers
 
@@ -67,7 +67,7 @@ Indexed users: 2,504
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio | Luanda / Angola | 465 |
 | 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Angola, Luanda | 414 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  | Luanda, Angola | 406 |
-| 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 349 |
+| 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | Luanda, Angola | 272 |
 | 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | Angola/Luanda | 258 |
@@ -83,4 +83,4 @@ Indexed users: 2,504
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-09T07:38:49.439Z
+Generated: 2026-10-09T08:26:14.712Z

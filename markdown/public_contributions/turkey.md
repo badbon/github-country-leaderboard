@@ -1,15 +1,15 @@
 # Public Contributions - Turkey
 
-Generated: 2026-10-09T07:55:15.918Z
+Generated: 2026-10-09T08:20:20.436Z
 
-Users: 79053
+Users: 79052
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [altinsoft](https://github.com/altinsoft) | AltinSoft Information Technologies | AltinSoft Information Technologies | altinsoftnet | Türkiye | 179465 |
 | 2 | [komutan234](https://github.com/komutan234) | Turgut Akın | Akınax Group |  | Turkey | 108352 |
 | 3 | [themiralay](https://github.com/themiralay) | Enes Can Işık | 0x0e0.eth |  | Turkey | 104161 |
-| 4 | [buraksocial](https://github.com/buraksocial) | Burâk |  |  | Izmir, Turkey | 57508 |
+| 4 | [buraksocial](https://github.com/buraksocial) | Burak Doğan |  |  | Izmir, Turkey | 75346 |
 | 5 | [TheArmagan](https://github.com/TheArmagan) | Kıraç Armağan Önal | Discord: thearmagan |  | Kadıköy, İstanbul, Türkiye | 55691 |
 | 6 | [tecotv2025](https://github.com/tecotv2025) | tecotv2025 |  |  | Türkiye | 20643 |
 | 7 | [poyrazK](https://github.com/poyrazK) |  Hüseyin Poyraz Küçükarslan |  |  | Erzurum , Türkiye | 17002 |

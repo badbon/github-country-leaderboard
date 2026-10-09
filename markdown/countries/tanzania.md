@@ -25,13 +25,13 @@ Indexed users: 2,044
 | 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
 | 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
-| 14 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
-| 15 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
-| 16 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
-| 17 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
-| 18 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 6,435 |
-| 19 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 6,399 |
-| 20 | [Jeccoman](https://github.com/Jeccoman) | Man  Offline | Tanzania  | 6,330 |
+| 14 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
+| 15 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
+| 16 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
+| 17 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
+| 18 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila | Dar es Salaam, Tanzania | 6,694 |
+| 19 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
+| 20 | [AK1239](https://github.com/AK1239) | Akil Khatri | Dar es Salaam, Tanzania | 6,519 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,044
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-09T07:32:40.858Z
+Generated: 2026-10-09T08:18:30.329Z

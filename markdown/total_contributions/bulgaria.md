@@ -1,8 +1,8 @@
 # Total Contributions - Bulgaria
 
-Generated: 2026-10-09T07:44:34.591Z
+Generated: 2026-10-09T08:30:46.753Z
 
-Users: 14091
+Users: 14090
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 14091
 | 11 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | @KarlovoTech  |  | Karlovo, Bulgaria | 11201 |
 | 12 | [bobicloudvision](https://github.com/bobicloudvision) | Bozhidar | Cloud Vision Ltd |  | Sofia | 11033 |
 | 13 | [matsidor1975](https://github.com/matsidor1975) | Titomir Dinew | Sgradaulika | 3Pu0Pudh6FGoBlu | Bulgaria | 10320 |
-| 14 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 9899 |
-| 15 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev |  | hkdobrev | Sofia, Bulgaria | 9650 |
-| 16 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 9549 |
-| 17 | [gogata05](https://github.com/gogata05) | Georgi Markov |  |  | Petrich, Bulgaria | 9549 |
-| 18 | [groupsky](https://github.com/groupsky) | Geno Roupsky |  |  | Plovdiv/Bulgaria | 9533 |
-| 19 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov |  |  | Sofia, Bulgaria | 9408 |
-| 20 | [pavelsur07](https://github.com/pavelsur07) |  |  |  | Varna | 9313 |
+| 14 | [AgLogiV](https://github.com/AgLogiV) | Aleksandar Georgiev | @virtyxhost |  | Bulgaria, Sofia | 9920 |
+| 15 | [naiiiden](https://github.com/naiiiden) | Naiden Radnev |  |  | Sofia, Bulgaria | 9899 |
+| 16 | [hkdobrev](https://github.com/hkdobrev) | Harry Dobrev |  | hkdobrev | Sofia, Bulgaria | 9650 |
+| 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 9549 |
+| 18 | [gogata05](https://github.com/gogata05) | Georgi Markov |  |  | Petrich, Bulgaria | 9549 |
+| 19 | [groupsky](https://github.com/groupsky) | Geno Roupsky |  |  | Plovdiv/Bulgaria | 9533 |
+| 20 | [akrsmv](https://github.com/akrsmv) | Krasimir Atanasov |  |  | Sofia, Bulgaria | 9408 |

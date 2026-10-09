@@ -49,14 +49,14 @@ Indexed users: 1,582
 | 10 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
 | 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
 | 12 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 1,449 |
-| 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,301 |
+| 13 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,376 |
 | 14 | [arividar](https://github.com/arividar) | Ari Johannesson | Reykjavik | 1,294 |
 | 15 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,265 |
 | 16 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,224 |
-| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
-| 18 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,157 |
-| 19 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
-| 20 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,112 |
+| 17 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,169 |
+| 18 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,164 |
+| 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 1,157 |
+| 20 | [gunnartorfis](https://github.com/gunnartorfis) | Gunnar Torfi Steinarsson | Reykjavik, Iceland | 1,113 |
 
 ## Followers
 
@@ -77,10 +77,10 @@ Indexed users: 1,582
 | 13 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 279 |
 | 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 277 |
 | 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 248 |
-| 16 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 241 |
-| 17 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 240 |
+| 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 243 |
+| 17 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 241 |
 | 18 | [MIK4GE-RE0](https://github.com/MIK4GE-RE0) | ReoReo | bllk/ Pjsk/ Hsr/ Bakery/ Island/ moots +tied up in sunnys bed | 225 |
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
 
-Generated: 2026-10-09T07:55:07.411Z
+Generated: 2026-10-09T08:44:08.677Z

@@ -1,12 +1,12 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-09T07:57:24.011Z
+Generated: 2026-10-09T08:47:13.182Z
 
 Users: 360
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 4132 |
+| 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 4154 |
 | 2 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 1417 |
 | 3 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 1220 |
 | 4 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1052 |
@@ -24,5 +24,5 @@ Users: 360
 | 16 | [med1213](https://github.com/med1213) | Med | APB Bank |  | Laos, Vientaince | 123 |
 | 17 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 120 |
 | 18 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | hal tech |  | Laos, Vientiane | 116 |
-| 19 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 112 |
-| 20 | [Billion101](https://github.com/Billion101) | Billion101 |  |  | Laos | 112 |
+| 19 | [Billion101](https://github.com/Billion101) | Billion101 |  |  | Laos | 112 |
+| 20 | [BigguyPapsi](https://github.com/BigguyPapsi) | ThanouPap |  |  | Vangvieng, Vientiane, Laos | 111 |

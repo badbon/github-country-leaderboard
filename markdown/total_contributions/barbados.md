@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-09T07:42:26.917Z
+Generated: 2026-10-09T08:27:52.778Z
 
 Users: 133
 
@@ -10,8 +10,8 @@ Users: 133
 | 2 | [jasonals](https://github.com/jasonals) | Jason Als | @mMoneyBB |  | Barbados | 5114 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | @TAYLORDTech  |  | Barbados | 4726 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 3165 |
-| 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 2532 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2455 |
+| 5 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 2567 |
+| 6 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 2532 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn |  |  | Barbados | 1835 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 1717 |
 | 9 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1329 |
@@ -22,7 +22,7 @@ Users: 133
 | 14 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 611 |
 | 15 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 568 |
 | 16 | [diondree](https://github.com/diondree) | Diondre Edwards |  | diondredev | Barbados | 442 |
-| 17 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 438 |
+| 17 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Viral Nation |  | Barbados | 437 |
 | 18 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |
 | 19 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 353 |
 | 20 | [sheenaxiv](https://github.com/sheenaxiv) | Sheena W. |  |  | Barbados | 331 |

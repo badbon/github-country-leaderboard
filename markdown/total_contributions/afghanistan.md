@@ -1,8 +1,8 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-09T07:37:32.389Z
+Generated: 2026-10-09T08:24:50.168Z
 
-Users: 1499
+Users: 1498
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

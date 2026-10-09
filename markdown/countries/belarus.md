@@ -42,8 +42,8 @@ Indexed users: 10,951
 | 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | Minsk, Belarus | 4,312 |
 | 4 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 3,364 |
 | 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex | Minsk | 2,879 |
-| 6 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,351 |
-| 7 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
+| 6 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
+| 7 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,208 |
 | 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 2,150 |
 | 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
 | 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
@@ -83,4 +83,4 @@ Indexed users: 10,951
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-09T07:42:43.833Z
+Generated: 2026-10-09T08:27:59.185Z

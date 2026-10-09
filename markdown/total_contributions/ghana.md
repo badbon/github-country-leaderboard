@@ -1,6 +1,6 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-09T07:52:57.047Z
+Generated: 2026-10-09T08:39:30.877Z
 
 Users: 7112
 
@@ -9,7 +9,7 @@ Users: 7112
 | 1 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Monarch Holdings |  | Ghana | 78019 |
 | 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 67756 |
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | @tech-plus-plus |  | Accra, Ghana | 33429 |
-| 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | @CodeCadence | heiskimathi | Ghana | 30619 |
+| 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Rehotech & Tayenn | heiskimathi | Ghana | 27754 |
 | 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 22798 |
 | 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 15480 |
 | 7 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 12739 |

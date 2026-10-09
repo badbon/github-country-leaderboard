@@ -13,25 +13,25 @@ Indexed users: 680
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 10,450 |
-| 2 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,439 |
-| 3 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,045 |
-| 4 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,045 |
-| 5 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 7,096 |
-| 6 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 5,999 |
-| 7 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,806 |
-| 8 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 5,176 |
-| 9 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,141 |
-| 10 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,628 |
-| 11 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,461 |
-| 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,107 |
-| 13 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,097 |
-| 14 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 3,925 |
-| 15 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,892 |
-| 16 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
-| 17 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
-| 18 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
-| 19 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,359 |
-| 20 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
+| 2 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 10,207 |
+| 3 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,439 |
+| 4 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,045 |
+| 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,045 |
+| 6 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 7,096 |
+| 7 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,223 |
+| 8 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 5,999 |
+| 9 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,806 |
+| 10 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 5,691 |
+| 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,141 |
+| 12 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,628 |
+| 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,461 |
+| 14 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,107 |
+| 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,097 |
+| 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,892 |
+| 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
+| 18 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
+| 19 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
+| 20 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,359 |
 
 ## Public Contributions
 
@@ -45,10 +45,10 @@ Indexed users: 680
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,970 |
 | 7 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,919 |
 | 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,847 |
-| 9 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,710 |
-| 10 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,275 |
-| 11 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,203 |
-| 12 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,194 |
+| 9 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,810 |
+| 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,710 |
+| 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,275 |
+| 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,203 |
 | 13 | [henocn](https://github.com/henocn) | Henoc N'GASAMA | Kara, Togo | 905 |
 | 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR | Lomé | 885 |
 | 15 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 827 |
@@ -68,7 +68,7 @@ Indexed users: 680
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 148 |
 | 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 142 |
 | 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 133 |
-| 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 109 |
+| 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 112 |
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Lomé, TOGO | 108 |
 | 9 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian | Togo | 102 |
 | 10 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | Togo | 101 |
@@ -83,4 +83,4 @@ Indexed users: 680
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-09T07:34:43.689Z
+Generated: 2026-10-09T08:19:09.022Z

@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-09T07:38:49.439Z
+Generated: 2026-10-09T08:26:14.712Z
 
 Users: 2504
 
@@ -11,7 +11,7 @@ Users: 2504
 | 3 | [kurogai](https://github.com/kurogai) | Héber Júlio |  | kurogai_pwn | Luanda / Angola | 465 |
 | 4 | [EmenegildoMarques0](https://github.com/EmenegildoMarques0) | Emenegildo Marques | Eclipse Solutions |  | Angola, Luanda | 414 |
 | 5 | [JoseCage](https://github.com/JoseCage) | José Cage  |  | cagejose | Luanda, Angola | 406 |
-| 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 349 |
+| 6 | [westjoao12](https://github.com/westjoao12) | West João |  |  | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | innovaqui |  | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule |  | brauliocaassule | Luanda, Angola | 272 |
 | 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | @clubmedtecnologia  |  | Angola/Luanda | 258 |

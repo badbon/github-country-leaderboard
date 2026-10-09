@@ -1,8 +1,8 @@
 # Followers - Turkey
 
-Generated: 2026-10-09T07:55:15.918Z
+Generated: 2026-10-09T08:20:20.436Z
 
-Users: 79053
+Users: 79052
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -18,9 +18,9 @@ Users: 79053
 | 10 | [sadikturan](https://github.com/sadikturan) | Sadık TURAN |  |  | Türkiye | 7085 |
 | 11 | [mustafamuratcoskun](https://github.com/mustafamuratcoskun) | Mustafa Murat Coşkun | Yazılım Bilimi - Founder |  | Ankara | 7031 |
 | 12 | [emirkaanozdemr](https://github.com/emirkaanozdemr) | Emir Kaan Özdemir |  | emirkaanozdemr | Istanbul, Turkey | 5674 |
-| 13 | [hakanyalcinkaya](https://github.com/hakanyalcinkaya) | Hakan Yalcinkaya |  |  | Istanbul | 4852 |
-| 14 | [hexarch](https://github.com/hexarch) | hexarch | École 42 |  | İstanbul | 4403 |
-| 15 | [buraksocial](https://github.com/buraksocial) | Burâk |  |  | Izmir, Turkey | 4135 |
+| 13 | [buraksocial](https://github.com/buraksocial) | Burak Doğan |  |  | Izmir, Turkey | 5021 |
+| 14 | [hakanyalcinkaya](https://github.com/hakanyalcinkaya) | Hakan Yalcinkaya |  |  | Istanbul | 4852 |
+| 15 | [hexarch](https://github.com/hexarch) | hexarch | École 42 |  | İstanbul | 4403 |
 | 16 | [gncyyldz](https://github.com/gncyyldz) | Gençay Yıldız | MSB \| NG Grup \| NG Akademi |  | Ankara | 4107 |
 | 17 | [ramazancetinkaya](https://github.com/ramazancetinkaya) | Ramazan Çetinkaya |  |  | Ankara, Türkiye | 3640 |
 | 18 | [deeplearningturkiye](https://github.com/deeplearningturkiye) | Deep Learning Türkiye |  |  | İstanbul | 3629 |

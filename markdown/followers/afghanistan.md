@@ -1,8 +1,8 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-09T07:37:32.389Z
+Generated: 2026-10-09T08:24:50.168Z
 
-Users: 1499
+Users: 1498
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1499
 | 14 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari |  |  | Afghanistan | 144 |
 | 15 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | WASSA |  | Afghanistan | 141 |
 | 16 | [starkbaknet](https://github.com/starkbaknet) | StarkBak |  |  | Kabul, Afghanistan | 135 |
-| 17 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Product Manager at aseelapp.com  | ZainabTurkmen | Kabul  | 129 |
-| 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Senior Full Stack Software Engineer | yasinnoori_dev | Kabul, Afghanistan | 126 |
+| 17 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Senior Full Stack Software Engineer | yasinnoori_dev | Kabul, Afghanistan | 126 |
+| 18 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Product Manager at aseelapp.com  | ZainabTurkmen | Kabul  | 125 |
 | 19 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Progrology |  | Afghanistan/Kabul | 123 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 118 |
