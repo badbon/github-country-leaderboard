@@ -1,12 +1,12 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-09T11:02:30.582Z
+Generated: 2026-10-09T13:52:44.074Z
 
 Users: 339
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 5506 |
+| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 5544 |
 | 2 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 5482 |
 | 3 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4733 |
 | 4 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4591 |
@@ -20,7 +20,7 @@ Users: 339
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | @juksgraphic , @codingClubHaiti , @atraxcompany |  | Port-au-Prince , Haiti | 1758 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 1709 |
 | 14 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | fruitsbytes | jeffrey_n_carre | Haiti | 1533 |
-| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1451 |
+| 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | @CarisFoundation @YoopleCorp @MLHaiti @FDS | thecassion | Haiti | 1491 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 1324 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | freelance | fater_04 | Haiti | 1120 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 976 |

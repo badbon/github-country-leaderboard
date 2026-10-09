@@ -63,7 +63,7 @@ Indexed users: 59
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,519 |
-| 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,221 |
+| 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,222 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,025 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 291 |
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 202 |
@@ -79,8 +79,8 @@ Indexed users: 59
 | 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 12 |
 | 16 | [qovero](https://github.com/qovero) |  | Nuuk, Greenland | 11 |
 | 17 | [piaere](https://github.com/piaere) | piære | greenland | 10 |
-| 18 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
-| 19 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 9 |
+| 18 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 10 |
+| 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-09T11:01:24.882Z
+Generated: 2026-10-09T13:51:26.221Z

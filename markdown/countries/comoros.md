@@ -12,12 +12,12 @@ Indexed users: 11
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 22,116 |
+| 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 22,119 |
 | 2 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Moroni, Utah | 1,536 |
 | 3 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa | Moroni - Comoros | 128 |
 | 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 108 |
 | 5 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 39 |
-| 6 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 16 |
+| 6 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 21 |
 | 7 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Moroni | 8 |
 | 8 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | Comoros | 2 |
 | 9 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif | Moroni  | 0 |
@@ -30,8 +30,8 @@ Indexed users: 11
 |---:|---|---|---|---:|
 | 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 396 |
 | 2 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 39 |
-| 3 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 17 |
-| 4 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 16 |
+| 3 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 21 |
+| 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 17 |
 | 5 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Moroni | 8 |
 | 6 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | Comoros | 2 |
 | 7 | [beastcoder98](https://github.com/beastcoder98) | Charif Abdallah Yahaya Charif | Moroni  | 0 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 2 |
 | 11 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 2 |
 
-Generated: 2026-10-09T10:56:11.953Z
+Generated: 2026-10-09T13:44:34.468Z

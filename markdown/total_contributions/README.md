@@ -21,10 +21,10 @@ Published countries: 234
 | Azerbaijan | 5,094 | [View](./azerbaijan.md) |
 | Bahamas | 236 | [View](./bahamas.md) |
 | Bahrain | 728 | [View](./bahrain.md) |
-| Bangladesh | 55,115 | [View](./bangladesh.md) |
+| Bangladesh | 55,114 | [View](./bangladesh.md) |
 | Barbados | 133 | [View](./barbados.md) |
 | Belarus | 10,950 | [View](./belarus.md) |
-| Belgium | 18,412 | [View](./belgium.md) |
+| Belgium | 18,411 | [View](./belgium.md) |
 | Belize | 95 | [View](./belize.md) |
 | Benin | 470 | [View](./benin.md) |
 | Bermuda | 902 | [View](./bermuda.md) |
@@ -57,14 +57,14 @@ Published countries: 234
 | Cuba | 1,288 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,747 | [View](./cyprus.md) |
-| Czechia | 16,215 | [View](./czechia.md) |
-| Denmark | 19,309 | [View](./denmark.md) |
+| Czechia | 16,214 | [View](./czechia.md) |
+| Denmark | 19,308 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
-| Dominican Republic | 3,314 | [View](./dominican_republic.md) |
+| Dominican Republic | 3,316 | [View](./dominican_republic.md) |
 | DR Congo | 695 | [View](./dr_congo.md) |
 | Ecuador | 4,906 | [View](./ecuador.md) |
-| Egypt | 34,077 | [View](./egypt.md) |
+| Egypt | 34,096 | [View](./egypt.md) |
 | El Salvador | 2,385 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
@@ -96,7 +96,7 @@ Published countries: 234
 | Haiti | 339 | [View](./haiti.md) |
 | Heard Island and McDonald Islands | 3 | [View](./heard_island_and_mcdonald_islands.md) |
 | Honduras | 1,267 | [View](./honduras.md) |
-| Hong Kong | 10,316 | [View](./hong_kong.md) |
+| Hong Kong | 10,315 | [View](./hong_kong.md) |
 | Hungary | 11,193 | [View](./hungary.md) |
 | Iceland | 1,582 | [View](./iceland.md) |
 | Indonesia | 63,317 | [View](./indonesia.md) |
@@ -106,7 +106,7 @@ Published countries: 234
 | Isle of Man | 155 | [View](./isle_of_man.md) |
 | Israel | 12,445 | [View](./israel.md) |
 | Ivory Coast | 487 | [View](./ivory_coast.md) |
-| Jamaica | 1,279 | [View](./jamaica.md) |
+| Jamaica | 1,278 | [View](./jamaica.md) |
 | Jersey | 139 | [View](./jersey.md) |
 | Jordan | 4,027 | [View](./jordan.md) |
 | Kazakhstan | 5,674 | [View](./kazakhstan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,345 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-09T11:38:10.778Z
+Generated: 2026-10-09T13:57:58.527Z

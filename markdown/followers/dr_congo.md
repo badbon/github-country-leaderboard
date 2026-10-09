@@ -1,6 +1,6 @@
 # Followers - DR Congo
 
-Generated: 2026-10-09T10:58:38.404Z
+Generated: 2026-10-09T13:48:26.959Z
 
 Users: 695
 
@@ -20,7 +20,7 @@ Users: 695
 | 12 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 99 |
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | @mosala-group  | vala_mandar | RD Congo, Kinshasa | 90 |
 | 14 | [fdis111](https://github.com/fdis111) | Francois Disubi |  |  | Kinshasa Drc | 87 |
-| 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 84 |
+| 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 83 |
 | 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Reputable Tech Company | ManfulMwez | Kinshasa \| Kigali \| Nairobi | 83 |
 | 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Lussi | joellusavuvu | Kinshasa, RDCongo  | 72 |
 | 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | @guidelightfoundation | johnmbiya | Kinshasa | 71 |

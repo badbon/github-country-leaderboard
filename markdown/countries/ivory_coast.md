@@ -56,7 +56,7 @@ Indexed users: 487
 | 17 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 361 |
 | 18 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 326 |
 | 19 | [Diby-dev](https://github.com/Diby-dev) | Dan | Côte d'Ivoire, Abidjan | 302 |
-| 20 | [Ye180](https://github.com/Ye180) | Youssouf Emmanuel | Abidjan, Côte d'Ivoire | 287 |
+| 20 | [Ye180](https://github.com/Ye180) | Youssouf Emmanuel | Abidjan, Côte d'Ivoire | 289 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
 
-Generated: 2026-10-09T11:06:47.723Z
+Generated: 2026-10-09T13:55:15.862Z

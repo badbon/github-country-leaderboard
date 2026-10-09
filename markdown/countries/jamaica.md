@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,279
+Indexed users: 1,278
 
 | Leaderboard | Link |
 |---|---|
@@ -39,7 +39,7 @@ Indexed users: 1,279
 |---:|---|---|---|---:|
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,578 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,926 |
-| 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,845 |
+| 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,829 |
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,300 |
 | 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,236 |
 | 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
@@ -83,4 +83,4 @@ Indexed users: 1,279
 | 19 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 93 |
 
-Generated: 2026-10-09T11:07:06.711Z
+Generated: 2026-10-09T13:55:54.121Z

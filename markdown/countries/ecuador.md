@@ -26,8 +26,8 @@ Indexed users: 4,906
 | 12 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 6,286 |
 | 13 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
 | 14 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
-| 15 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
-| 16 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 5,412 |
+| 15 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
+| 16 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
 | 17 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
 | 18 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
 | 19 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
@@ -83,4 +83,4 @@ Indexed users: 4,906
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 
-Generated: 2026-10-09T10:58:42.820Z
+Generated: 2026-10-09T13:48:31.460Z

@@ -1,15 +1,15 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-09T11:00:06.323Z
+Generated: 2026-10-09T13:50:32.980Z
 
 Users: 325
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 3007 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 3002 |
 | 2 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1438 |
 | 3 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 1404 |
-| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1302 |
+| 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1304 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish |  |  | Fiji | 1137 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | sunmi |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1085 |
 | 7 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1045 |
