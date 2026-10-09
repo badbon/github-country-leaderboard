@@ -53,10 +53,10 @@ Indexed users: 902
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 781 |
 | 15 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 649 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 609 |
-| 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 605 |
-| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 579 |
-| 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
-| 20 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 476 |
+| 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 579 |
+| 18 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
+| 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 476 |
+| 20 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 468 |
 
 ## Followers
 
@@ -66,7 +66,7 @@ Indexed users: 902
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 921 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | Bermuda | 326 |
 | 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 271 |
-| 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 223 |
+| 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 224 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | Hamilton | 220 |
 | 7 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 205 |
 | 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 197 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 66 |
 
-Generated: 2026-10-09T13:40:52.374Z
+Generated: 2026-10-09T14:35:05.333Z

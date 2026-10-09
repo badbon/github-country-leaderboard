@@ -31,7 +31,7 @@ Indexed users: 1,582
 | 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 5,501 |
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 5,396 |
 | 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,373 |
-| 20 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 5,113 |
+| 20 | [einargudnig](https://github.com/einargudnig) | Einar Guðni Guðjónsson | Reykjavik | 5,203 |
 
 ## Public Contributions
 
@@ -81,6 +81,6 @@ Indexed users: 1,582
 | 17 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 241 |
 | 18 | [MIK4GE-RE0](https://github.com/MIK4GE-RE0) | ReoReo | bllk/ Pjsk/ Hsr/ Bakery/ Island/ moots +tied up in sunnys bed | 225 |
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
-| 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 202 |
+| 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-09T13:53:26.214Z
+Generated: 2026-10-09T14:51:41.859Z

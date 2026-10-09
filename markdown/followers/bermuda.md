@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-09T13:40:52.374Z
+Generated: 2026-10-09T14:35:05.333Z
 
 Users: 902
 
@@ -10,7 +10,7 @@ Users: 902
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 921 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | @architect-co | augustoproiete | Bermuda | 326 |
 | 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | @USS-CALLISTER @angxlpraize ₊˚⊹ ᰔ ͟͟͞͞➳❥ bums ‧₊˚ ┊ (๑-﹏-๑) 𓂃 i ♡ all of my oomfs!! ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ i follow everyone back on my spam accs!!  ₊˚⊹♡  20+ dniuf  ִֶָpls  ഒ·˚ ⊹ ࣪ ˖ alt accs : @yasuhirohagakure @johnsoapmactavish @deartheodosia |  | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 271 |
-| 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 223 |
+| 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 224 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | @reallygoodwork |  | Hamilton | 220 |
 | 7 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 205 |
 | 8 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Elastic | clintandrewhall | Hamilton, ON | 197 |

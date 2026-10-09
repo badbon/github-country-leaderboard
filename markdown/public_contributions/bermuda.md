@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-09T13:40:52.374Z
+Generated: 2026-10-09T14:35:05.333Z
 
 Users: 902
 
@@ -22,7 +22,7 @@ Users: 902
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 781 |
 | 15 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 649 |
 | 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 609 |
-| 17 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 605 |
-| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 579 |
-| 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |
-| 20 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | @vehikl |  | Hamilton, ON | 476 |
+| 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 579 |
+| 18 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |
+| 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | @vehikl |  | Hamilton, ON | 476 |
+| 20 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 468 |

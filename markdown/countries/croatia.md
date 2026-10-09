@@ -70,7 +70,7 @@ Indexed users: 5,440
 | 6 | [Valloric](https://github.com/Valloric) | Val Markovic | Zagreb, Croatia | 1,146 |
 | 7 | [PCrnjak](https://github.com/PCrnjak) | Source Robotics | Croatia, Zagreb | 951 |
 | 8 | [matiadev](https://github.com/matiadev) | Matia | Zagreb, Croatia | 839 |
-| 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rijeka, Croatia | 821 |
+| 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rijeka, Croatia | 815 |
 | 10 | [Swader](https://github.com/Swader) | Bruno Škvorc | Zagreb, Croatia | 780 |
 | 11 | [ivandoric](https://github.com/ivandoric) | Ivan Dorić | Osijek, Croatia | 770 |
 | 12 | [ivan-sincek](https://github.com/ivan-sincek) | Ivan Šincek | Croatia | 671 |
@@ -83,4 +83,4 @@ Indexed users: 5,440
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-09T13:45:52.583Z
+Generated: 2026-10-09T14:42:37.899Z

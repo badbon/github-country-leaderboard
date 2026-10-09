@@ -15,7 +15,7 @@ Indexed users: 67
 | 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 14,927 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,402 |
 | 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,376 |
-| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,306 |
+| 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,310 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,735 |
 | 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,444 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,358 |
@@ -25,7 +25,7 @@ Indexed users: 67
 | 11 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,432 |
 | 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,423 |
 | 13 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,029 |
-| 14 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 939 |
+| 14 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 941 |
 | 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 872 |
 | 16 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 692 |
 | 17 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 627 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-09T13:50:29.217Z
+Generated: 2026-10-09T14:45:48.143Z

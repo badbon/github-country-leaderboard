@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-09T13:55:54.121Z
+Generated: 2026-10-09T14:53:49.864Z
 
 Users: 1278
 
@@ -11,7 +11,7 @@ Users: 1278
 | 3 | [quirkey](https://github.com/quirkey) | Aaron Quint | Heroku  |  | Kingston, NY | 543 |
 | 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris |  |  | Jamaica | 300 |
 | 5 | [m-oniqu3](https://github.com/m-oniqu3) | monique |  |  | Jamaica | 223 |
-| 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams |  |  | St. Ann, Jamaica | 211 |
+| 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams |  |  | St. Ann, Jamaica | 212 |
 | 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Queen's University | jakekaupp | Kingston, ON | 140 |
 | 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt |  | ylynfatt | Jamaica | 136 |
 | 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | TechIsHiring | Chad_R_Stewart | Kingston, Jamaica | 130 |

@@ -26,8 +26,8 @@ Indexed users: 470
 | 12 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,916 |
 | 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,841 |
 | 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,630 |
-| 15 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,330 |
-| 16 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,298 |
+| 15 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,427 |
+| 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,330 |
 | 17 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,215 |
 | 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,209 |
 | 19 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,169 |
@@ -83,4 +83,4 @@ Indexed users: 470
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-09T13:40:48.736Z
+Generated: 2026-10-09T14:35:01.597Z

@@ -1,6 +1,6 @@
 # Followers - Croatia
 
-Generated: 2026-10-09T13:45:52.583Z
+Generated: 2026-10-09T14:42:37.899Z
 
 Users: 5440
 
@@ -14,7 +14,7 @@ Users: 5440
 | 6 | [Valloric](https://github.com/Valloric) | Val Markovic |  |  | Zagreb, Croatia | 1146 |
 | 7 | [PCrnjak](https://github.com/PCrnjak) | Source Robotics | Source robotics d.o.o. | SourceRobotics | Croatia, Zagreb | 951 |
 | 8 | [matiadev](https://github.com/matiadev) | Matia |  | joyofcodedev | Zagreb, Croatia | 839 |
-| 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rasta Finance |  | Rijeka, Croatia | 821 |
+| 9 | [josip0920-zz](https://github.com/josip0920-zz) | Josip Neretljak | Rasta Finance |  | Rijeka, Croatia | 815 |
 | 10 | [Swader](https://github.com/Swader) | Bruno Škvorc | Bitfalls.com | swader | Zagreb, Croatia | 780 |
 | 11 | [ivandoric](https://github.com/ivandoric) | Ivan Dorić | COBE GmbH | ivan_doric | Osijek, Croatia | 770 |
 | 12 | [ivan-sincek](https://github.com/ivan-sincek) | Ivan Šincek |  | IvanSincek | Croatia | 671 |

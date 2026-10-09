@@ -21,17 +21,17 @@ Indexed users: 4,925
 | 7 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 13,667 |
 | 8 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
 | 9 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
-| 10 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
-| 11 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
-| 12 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
-| 13 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
-| 14 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
-| 15 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
-| 16 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
-| 17 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
-| 18 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 11,074 |
-| 19 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 10,790 |
-| 20 | [mitselek](https://github.com/mitselek) | Mihkel Putrinš | Tallinn, Estonia | 10,475 |
+| 10 | [alright212](https://github.com/alright212) | Glen Kink | Tallinn | 12,564 |
+| 11 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
+| 12 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
+| 13 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
+| 14 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
+| 15 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
+| 16 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
+| 17 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
+| 18 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
+| 19 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 11,074 |
+| 20 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 10,790 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,925
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-09T13:49:47.114Z
+Generated: 2026-10-09T14:45:06.267Z

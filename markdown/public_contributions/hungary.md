@@ -1,6 +1,6 @@
 # Public Contributions - Hungary
 
-Generated: 2026-10-09T13:53:22.426Z
+Generated: 2026-10-09T14:51:36.730Z
 
 Users: 11193
 
@@ -15,14 +15,14 @@ Users: 11193
 | 7 | [mc36](https://github.com/mc36) | mc36 | http://www.freertr.org/ |  | budapest/hungary | 5963 |
 | 8 | [hdkiller](https://github.com/hdkiller) |  |  |  | Budapest | 5829 |
 | 9 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | @teambit | zkochan | Budapest 🇭🇺 | 5816 |
-| 10 | [uannoare](https://github.com/uannoare) | Kázmér Balog | Tanaks |  | Hungary | 5666 |
-| 11 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár |  | sagikazarmark | Budapest, Hungary | 5415 |
-| 12 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 5137 |
-| 13 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | @Lombiq  |  | Hungary | 5087 |
-| 14 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | @theaifleet |  | Budapest, Hungary; Austin, Texas | 4998 |
-| 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Golem Cloud / Ziverge Inc. | dvigovszky | Hungary | 4660 |
-| 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Anthropic |  | Hungary | 4481 |
-| 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |
-| 18 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4036 |
-| 19 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
-| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3687 |
+| 10 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár |  | sagikazarmark | Budapest, Hungary | 5415 |
+| 11 | [tacshade](https://github.com/tacshade) | TacShade | Frumu LTD |  | Budapest | 5137 |
+| 12 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | @Lombiq  |  | Hungary | 5087 |
+| 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | @theaifleet |  | Budapest, Hungary; Austin, Texas | 4998 |
+| 14 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Golem Cloud / Ziverge Inc. | dvigovszky | Hungary | 4660 |
+| 15 | [laxika](https://github.com/laxika) | Gyula Lakatos | Anthropic |  | Hungary | 4481 |
+| 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |
+| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4036 |
+| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
+| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3687 |
+| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga |  |  | Budapest, HU | 3662 |

@@ -41,9 +41,9 @@ Indexed users: 2,747
 | 2 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
 | 3 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 4,307 |
 | 4 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,279 |
-| 5 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
-| 6 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
-| 7 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,618 |
+| 5 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
+| 6 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
+| 7 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
 | 8 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
 | 9 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
 | 10 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 2,780 |
@@ -83,4 +83,4 @@ Indexed users: 2,747
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-09T13:47:08.369Z
+Generated: 2026-10-09T14:43:20.007Z

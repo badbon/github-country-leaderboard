@@ -46,17 +46,17 @@ Indexed users: 11,193
 | 7 | [mc36](https://github.com/mc36) | mc36 | budapest/hungary | 5,963 |
 | 8 | [hdkiller](https://github.com/hdkiller) |  | Budapest | 5,829 |
 | 9 | [zkochan](https://github.com/zkochan) | Zoltan Kochan | Budapest 🇭🇺 | 5,816 |
-| 10 | [uannoare](https://github.com/uannoare) | Kázmér Balog | Hungary | 5,666 |
-| 11 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 5,415 |
-| 12 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 5,137 |
-| 13 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | Hungary | 5,087 |
-| 14 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | Budapest, Hungary; Austin, Texas | 4,998 |
-| 15 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
-| 16 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
-| 17 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
-| 18 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
-| 19 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
-| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,687 |
+| 10 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 5,415 |
+| 11 | [tacshade](https://github.com/tacshade) | TacShade | Budapest | 5,137 |
+| 12 | [sarahelsaig](https://github.com/sarahelsaig) | Sára El-Saig | Hungary | 5,087 |
+| 13 | [farkasmark](https://github.com/farkasmark) | Mark Farkas | Budapest, Hungary; Austin, Texas | 4,998 |
+| 14 | [vigoo](https://github.com/vigoo) | Daniel Vigovszky | Hungary | 4,660 |
+| 15 | [laxika](https://github.com/laxika) | Gyula Lakatos | Hungary | 4,481 |
+| 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
+| 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
+| 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
+| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,687 |
+| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 11,193
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
 
-Generated: 2026-10-09T13:53:22.426Z
+Generated: 2026-10-09T14:51:36.730Z

@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-09T13:53:26.214Z
+Generated: 2026-10-09T14:51:41.859Z
 
 Users: 1582
 
@@ -25,4 +25,4 @@ Users: 1582
 | 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 5501 |
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 5396 |
 | 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5373 |
-| 20 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | ƒ → sys → cell → db.team  |  | island( waiheke( nz )) | 5113 |
+| 20 | [einargudnig](https://github.com/einargudnig) | Einar Guðni Guðjónsson | @maul-is  | einargudni | Reykjavik | 5203 |

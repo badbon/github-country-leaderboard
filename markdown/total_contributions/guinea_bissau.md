@@ -1,8 +1,8 @@
 # Total Contributions - Guinea-Bissau
 
-Generated: 2026-10-09T13:52:09.273Z
+Generated: 2026-10-09T14:52:59.295Z
 
-Users: 22
+Users: 23
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 22
 | 8 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Idrais CTWD Bissau |  | Guiné Bissau | 10 |
 | 9 | [mamadudarame](https://github.com/mamadudarame) | Mamadu Darame | Mercado Bissau  |  | Bissau-Guiné-Bissau 🇬🇼  | 4 |
 | 10 | [DionisioSeuna](https://github.com/DionisioSeuna) | Dionisio Seuna |  |  | Bissau, Guiné-Bissau | 2 |
-| 11 | [augoju](https://github.com/augoju) | Augusto Gomes Júnior | DJEMBEREM DE IoT |  | Guiné-Bissau | 0 |
-| 12 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Growth.gw |  | Guiné-Bissau | 0 |
-| 13 | [losbagos](https://github.com/losbagos) | los bagos |  |  | guinea bissau | 0 |
-| 14 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes |  |  | Guiné - Bissau | 0 |
-| 15 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes |  |  | Bissau | 0 |
-| 16 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Full-Time Programmer |  | Bissau | 0 |
-| 17 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | ML8 |  | Guinea-Bissau  | 0 |
-| 18 | [NB-17-lab](https://github.com/NB-17-lab) | NB | DGCI |  | Bissau/Guiné-Bissau | 0 |
-| 19 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Grupo Mansa | oritambade3 | Guiné-Bissau, Bissau | 0 |
-| 20 | [ricardovazcorreia](https://github.com/ricardovazcorreia) | Ricardo Vaz Correia | Freelance |  | Bissau | 0 |
+| 11 | [jrzeus919-eng](https://github.com/jrzeus919-eng) | Zeusjr |  |  | Guiné-Bissau | 1 |
+| 12 | [augoju](https://github.com/augoju) | Augusto Gomes Júnior | DJEMBEREM DE IoT |  | Guiné-Bissau | 0 |
+| 13 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Growth.gw |  | Guiné-Bissau | 0 |
+| 14 | [losbagos](https://github.com/losbagos) | los bagos |  |  | guinea bissau | 0 |
+| 15 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes |  |  | Guiné - Bissau | 0 |
+| 16 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes |  |  | Bissau | 0 |
+| 17 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Full-Time Programmer |  | Bissau | 0 |
+| 18 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | ML8 |  | Guinea-Bissau  | 0 |
+| 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | DGCI |  | Bissau/Guiné-Bissau | 0 |
+| 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Grupo Mansa | oritambade3 | Guiné-Bissau, Bissau | 0 |

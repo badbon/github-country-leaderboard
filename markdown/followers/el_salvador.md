@@ -1,12 +1,12 @@
 # Followers - El Salvador
 
-Generated: 2026-10-09T13:49:36.286Z
+Generated: 2026-10-09T14:44:55.395Z
 
-Users: 2385
+Users: 2384
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [MelvinAguilar](https://github.com/MelvinAguilar) | Melvin Aguilar | Software Engineering Student |  | El Salvador | 491 |
+| 1 | [MelvinAguilar](https://github.com/MelvinAguilar) | Melvin Aguilar | Software Engineering Student |  | El Salvador | 492 |
 | 2 | [Carlos007007](https://github.com/Carlos007007) | Carlos Alfaro |  |  | El Salvador | 402 |
 | 3 | [D3Portillo](https://github.com/D3Portillo) | Denny Portillo | @Coding-Bastards  | d3portillo | El Salvador | 201 |
 | 4 | [baylagas](https://github.com/baylagas) | Balbino Aylagas | jobbi.me | BalbinoAylagas | San Salvador, El Salvador | 185 |
@@ -14,11 +14,11 @@ Users: 2385
 | 6 | [ever1509](https://github.com/ever1509) | Ever Orellana |  |  | El Salvador | 163 |
 | 7 | [chepecarlos](https://github.com/chepecarlos) | Jose Carlos Garcia Diaz | ALSW |  | San Miguel, El Salvador | 156 |
 | 8 | [Skalas](https://github.com/Skalas) | Miguel Angel Escalante |  | skalas | San Salvador, El Salvador | 153 |
-| 9 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | snowball-devs |  | El Salvador, San Salvador | 144 |
-| 10 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | Ravn |  | El Salvador | 142 |
-| 11 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda |  |  | El Salvador | 127 |
-| 12 | [josueayala27](https://github.com/josueayala27) | Josué Ayala |  | josue_ayala27 | San Salvador | 126 |
-| 13 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 124 |
+| 9 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | snowball-devs |  | El Salvador, San Salvador | 142 |
+| 10 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | Ravn |  | El Salvador | 135 |
+| 11 | [josueayala27](https://github.com/josueayala27) | Josué Ayala |  | josue_ayala27 | San Salvador | 126 |
+| 12 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 124 |
+| 13 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda |  |  | El Salvador | 124 |
 | 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | Applaudo | ricardoerl | El Salvador | 123 |
 | 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | COAMSS/OPAMSS |  | San Salvador, El Salvador | 122 |
 | 16 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana |  |  | El Salvador | 116 |

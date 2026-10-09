@@ -1,8 +1,8 @@
 # Followers - Guinea-Bissau
 
-Generated: 2026-10-09T13:52:09.273Z
+Generated: 2026-10-09T14:52:59.295Z
 
-Users: 22
+Users: 23
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 22
 | 10 | [GiovanniGBF](https://github.com/GiovanniGBF) | Giovanni Gustavo Baticã Ferreira | ULG & Curso em Video |  | Bissau | 3 |
 | 11 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva |  |  | Guiné-bissau/pluba | 3 |
 | 12 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Estudante |  | Guiné-Bissau | 2 |
-| 13 | [losbagos](https://github.com/losbagos) | los bagos |  |  | guinea bissau | 2 |
-| 14 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Idrais CTWD Bissau |  | Guiné Bissau | 1 |
-| 15 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino |  |  | Bissau | 1 |
-| 16 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes |  |  | Bissau | 1 |
-| 17 | [mamadudarame](https://github.com/mamadudarame) | Mamadu Darame | Mercado Bissau  |  | Bissau-Guiné-Bissau 🇬🇼  | 1 |
-| 18 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | ML8 |  | Guinea-Bissau  | 1 |
-| 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | DGCI |  | Bissau/Guiné-Bissau | 1 |
-| 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Grupo Mansa | oritambade3 | Guiné-Bissau, Bissau | 1 |
+| 13 | [jrzeus919-eng](https://github.com/jrzeus919-eng) | Zeusjr |  |  | Guiné-Bissau | 2 |
+| 14 | [losbagos](https://github.com/losbagos) | los bagos |  |  | guinea bissau | 2 |
+| 15 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Idrais CTWD Bissau |  | Guiné Bissau | 1 |
+| 16 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino |  |  | Bissau | 1 |
+| 17 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes |  |  | Bissau | 1 |
+| 18 | [mamadudarame](https://github.com/mamadudarame) | Mamadu Darame | Mercado Bissau  |  | Bissau-Guiné-Bissau 🇬🇼  | 1 |
+| 19 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | ML8 |  | Guinea-Bissau  | 1 |
+| 20 | [NB-17-lab](https://github.com/NB-17-lab) | NB | DGCI |  | Bissau/Guiné-Bissau | 1 |

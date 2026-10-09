@@ -1,6 +1,6 @@
 # Guinea-Bissau
 
-Indexed users: 22
+Indexed users: 23
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 22
 | 8 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Guiné Bissau | 10 |
 | 9 | [mamadudarame](https://github.com/mamadudarame) | Mamadu Darame | Bissau-Guiné-Bissau 🇬🇼  | 4 |
 | 10 | [DionisioSeuna](https://github.com/DionisioSeuna) | Dionisio Seuna | Bissau, Guiné-Bissau | 2 |
-| 11 | [augoju](https://github.com/augoju) | Augusto Gomes Júnior | Guiné-Bissau | 0 |
-| 12 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Guiné-Bissau | 0 |
-| 13 | [losbagos](https://github.com/losbagos) | los bagos | guinea bissau | 0 |
-| 14 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes | Guiné - Bissau | 0 |
-| 15 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes | Bissau | 0 |
-| 16 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Bissau | 0 |
-| 17 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | Guinea-Bissau  | 0 |
-| 18 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 0 |
-| 19 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 0 |
-| 20 | [ricardovazcorreia](https://github.com/ricardovazcorreia) | Ricardo Vaz Correia | Bissau | 0 |
+| 11 | [jrzeus919-eng](https://github.com/jrzeus919-eng) | Zeusjr | Guiné-Bissau | 1 |
+| 12 | [augoju](https://github.com/augoju) | Augusto Gomes Júnior | Guiné-Bissau | 0 |
+| 13 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Guiné-Bissau | 0 |
+| 14 | [losbagos](https://github.com/losbagos) | los bagos | guinea bissau | 0 |
+| 15 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes | Guiné - Bissau | 0 |
+| 16 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes | Bissau | 0 |
+| 17 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Bissau | 0 |
+| 18 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | Guinea-Bissau  | 0 |
+| 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 0 |
+| 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 0 |
 
 ## Public Contributions
 
@@ -47,16 +47,16 @@ Indexed users: 22
 | 8 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Guiné Bissau | 10 |
 | 9 | [mamadudarame](https://github.com/mamadudarame) | Mamadu Darame | Bissau-Guiné-Bissau 🇬🇼  | 4 |
 | 10 | [DionisioSeuna](https://github.com/DionisioSeuna) | Dionisio Seuna | Bissau, Guiné-Bissau | 2 |
-| 11 | [augoju](https://github.com/augoju) | Augusto Gomes Júnior | Guiné-Bissau | 0 |
-| 12 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Guiné-Bissau | 0 |
-| 13 | [losbagos](https://github.com/losbagos) | los bagos | guinea bissau | 0 |
-| 14 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes | Guiné - Bissau | 0 |
-| 15 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes | Bissau | 0 |
-| 16 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Bissau | 0 |
-| 17 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | Guinea-Bissau  | 0 |
-| 18 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 0 |
-| 19 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 0 |
-| 20 | [ricardovazcorreia](https://github.com/ricardovazcorreia) | Ricardo Vaz Correia | Bissau | 0 |
+| 11 | [jrzeus919-eng](https://github.com/jrzeus919-eng) | Zeusjr | Guiné-Bissau | 1 |
+| 12 | [augoju](https://github.com/augoju) | Augusto Gomes Júnior | Guiné-Bissau | 0 |
+| 13 | [etiandroucha](https://github.com/etiandroucha) | Etiandro Ucha | Guiné-Bissau | 0 |
+| 14 | [losbagos](https://github.com/losbagos) | los bagos | guinea bissau | 0 |
+| 15 | [Luiginia](https://github.com/Luiginia) | Luiginia Caetano Gomes | Guiné - Bissau | 0 |
+| 16 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes | Bissau | 0 |
+| 17 | [mamadubillw](https://github.com/mamadubillw) | Mamadu Bilo Djalo | Bissau | 0 |
+| 18 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | Guinea-Bissau  | 0 |
+| 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 0 |
+| 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 0 |
 
 ## Followers
 
@@ -74,13 +74,13 @@ Indexed users: 22
 | 10 | [GiovanniGBF](https://github.com/GiovanniGBF) | Giovanni Gustavo Baticã Ferreira | Bissau | 3 |
 | 11 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva | Guiné-bissau/pluba | 3 |
 | 12 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Guiné-Bissau | 2 |
-| 13 | [losbagos](https://github.com/losbagos) | los bagos | guinea bissau | 2 |
-| 14 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Guiné Bissau | 1 |
-| 15 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino | Bissau | 1 |
-| 16 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes | Bissau | 1 |
-| 17 | [mamadudarame](https://github.com/mamadudarame) | Mamadu Darame | Bissau-Guiné-Bissau 🇬🇼  | 1 |
-| 18 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | Guinea-Bissau  | 1 |
-| 19 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 1 |
-| 20 | [oritambade3](https://github.com/oritambade3) | Galileu José Oritambadé | Guiné-Bissau, Bissau | 1 |
+| 13 | [jrzeus919-eng](https://github.com/jrzeus919-eng) | Zeusjr | Guiné-Bissau | 2 |
+| 14 | [losbagos](https://github.com/losbagos) | los bagos | guinea bissau | 2 |
+| 15 | [ibanora](https://github.com/ibanora) | Idrissa Banora | Guiné Bissau | 1 |
+| 16 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino | Bissau | 1 |
+| 17 | [MaioGomes](https://github.com/MaioGomes) | Maio Gomes | Bissau | 1 |
+| 18 | [mamadudarame](https://github.com/mamadudarame) | Mamadu Darame | Bissau-Guiné-Bissau 🇬🇼  | 1 |
+| 19 | [Marcio966-boop](https://github.com/Marcio966-boop) | Marcio  | Guinea-Bissau  | 1 |
+| 20 | [NB-17-lab](https://github.com/NB-17-lab) | NB | Bissau/Guiné-Bissau | 1 |
 
-Generated: 2026-10-09T13:52:09.273Z
+Generated: 2026-10-09T14:52:59.295Z
