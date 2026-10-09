@@ -8538,8 +8538,8 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 317,
+    "followers": 6,
+    "privateContributions": 330,
     "publicContributions": 89,
     "createdAt": "2023-08-05T07:33:29Z"
   },
@@ -8551,7 +8551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 34,
+    "privateContributions": 46,
     "publicContributions": 15,
     "createdAt": "2023-01-10T08:41:10Z"
   },
@@ -8562,9 +8562,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 152,
-    "publicContributions": 237,
+    "followers": 6,
+    "privateContributions": 306,
+    "publicContributions": 251,
     "createdAt": "2023-10-26T10:52:46Z"
   },
   {
@@ -8587,8 +8587,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 76,
-    "publicContributions": 108,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2023-04-27T11:43:50Z"
   },
   {
@@ -8599,8 +8599,8 @@
     "company": "Microsoft",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 201,
-    "publicContributions": 372,
+    "privateContributions": 177,
+    "publicContributions": 359,
     "createdAt": "2023-03-19T08:58:56Z"
   },
   {
@@ -8610,9 +8610,9 @@
     "location": "Israel, Rehovot",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 164,
-    "publicContributions": 317,
+    "followers": 5,
+    "privateContributions": 166,
+    "publicContributions": 419,
     "createdAt": "2023-06-16T19:12:12Z"
   },
   {
@@ -8623,8 +8623,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 55,
-    "publicContributions": 106,
+    "privateContributions": 57,
+    "publicContributions": 65,
     "createdAt": "2023-01-07T20:53:25Z"
   },
   {
@@ -8636,19 +8636,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 34,
     "createdAt": "2023-05-31T09:38:20Z"
   },
   {
     "login": "osayl12",
     "name": "Osayl Hamed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131193542?s=72&u=06381b73a688afcad3f21ee2e5200049308f42d1&v=4",
-    "location": "israel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131193542?s=72&u=eeeb6af84b03b0f446cf03d641afec9a8d75e926&v=4",
+    "location": "Israel",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 396,
+    "publicContributions": 362,
     "createdAt": "2023-04-18T17:30:05Z"
   },
   {
@@ -8696,7 +8696,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 65,
     "createdAt": "2023-03-07T10:58:51Z"
   },
   {
@@ -8706,7 +8706,7 @@
     "location": "Israel",
     "company": "Tel Aviv University",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-04T14:02:14Z"
@@ -8714,13 +8714,13 @@
   {
     "login": "aviniazov7",
     "name": "Avraham Niazov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127976746?s=72&u=0d248b9b78fd1033997e9370948cbafda4539674&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127976746?s=72&u=77848bbf649be73b64838ce2217fb7117fadcfd2&v=4",
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 360,
     "createdAt": "2023-03-15T16:29:24Z"
   },
   {
@@ -8731,7 +8731,7 @@
     "company": "",
     "twitterUsername": "vit_alee",
     "followers": 4,
-    "privateContributions": 179,
+    "privateContributions": 161,
     "publicContributions": 75,
     "createdAt": "2023-04-28T14:50:03Z"
   },
@@ -8743,14 +8743,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 126,
+    "privateContributions": 107,
     "publicContributions": 2,
     "createdAt": "2023-03-17T10:29:54Z"
   },
   {
     "login": "YarinGross",
     "name": "Yarin Gross",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129753529?s=72&u=8e3602162ccbb9688622fa024560573fb507116e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129753529?s=72&v=4",
     "location": "Haifa, Israel",
     "company": "Intel",
     "twitterUsername": "",
@@ -8762,13 +8762,13 @@
   {
     "login": "AntonG87",
     "name": "Anton Evelson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130920916?s=72&u=e2dde9c52a757d37995c13e8764235958424ebad&v=4",
-    "location": "Haifa,Israel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130920916?s=72&u=e9c0d5b04b59b6601adc9a7c7e07d2738e39eb95&v=4",
+    "location": "Haifa, Israel",
     "company": "FullBrainJ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "followers": 6,
+    "privateContributions": 1400,
+    "publicContributions": 56,
     "createdAt": "2023-04-16T16:11:15Z"
   },
   {

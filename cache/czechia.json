@@ -8239,7 +8239,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-29T13:36:52Z"
   },
@@ -8262,7 +8262,7 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-29T22:18:07Z"
@@ -8274,9 +8274,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 190,
     "createdAt": "2024-05-31T19:36:34Z"
   },
   {
@@ -8286,9 +8286,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2024-09-15T13:27:32Z"
   },
   {
@@ -8312,7 +8312,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 25,
     "createdAt": "2024-06-11T15:43:04Z"
   },
   {
@@ -8324,7 +8324,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2024-09-12T05:08:22Z"
   },
   {
@@ -8336,7 +8336,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 116,
     "createdAt": "2024-10-24T19:30:53Z"
   },
   {
@@ -8347,7 +8347,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 374,
+    "privateContributions": 423,
     "publicContributions": 4,
     "createdAt": "2024-10-08T09:55:16Z"
   },
@@ -8359,8 +8359,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 214,
-    "publicContributions": 189,
+    "privateContributions": 239,
+    "publicContributions": 201,
     "createdAt": "2024-09-21T12:12:29Z"
   },
   {
@@ -8371,8 +8371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 37,
-    "publicContributions": 188,
+    "privateContributions": 60,
+    "publicContributions": 189,
     "createdAt": "2024-02-23T12:53:20Z"
   },
   {
@@ -8384,7 +8384,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 23,
     "createdAt": "2024-11-22T07:16:26Z"
   },
   {
@@ -8396,7 +8396,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 52,
     "createdAt": "2024-09-02T21:21:16Z"
   },
   {
@@ -8418,9 +8418,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 173,
-    "publicContributions": 225,
+    "followers": 4,
+    "privateContributions": 207,
+    "publicContributions": 277,
     "createdAt": "2024-06-08T12:34:52Z"
   },
   {
@@ -8430,8 +8430,8 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 38,
+    "followers": 4,
+    "privateContributions": 36,
     "publicContributions": 56,
     "createdAt": "2024-06-01T08:26:33Z"
   },
@@ -8456,7 +8456,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 76,
     "createdAt": "2024-04-11T19:08:39Z"
   },
   {
@@ -8468,7 +8468,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 9,
     "createdAt": "2024-04-11T17:54:35Z"
   },
   {
@@ -109314,8 +109314,8 @@
     "location": "London / Prague",
     "company": "@atherosai ",
     "twitterUsername": "davidm_ml",
-    "followers": 1399,
-    "privateContributions": 69,
+    "followers": 1396,
+    "privateContributions": 1650,
     "publicContributions": 1,
     "createdAt": "2016-03-10T00:44:56Z"
   },

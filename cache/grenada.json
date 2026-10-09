@@ -96,18 +96,6 @@
     "createdAt": "2021-04-14T15:35:58Z"
   },
   {
-    "login": "leo-the-dev",
-    "name": "Leo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84322072?s=72&u=685259f41b5f7eb38ac8cf7753755b0ed8abd4ab&v=4",
-    "location": "Grenada",
-    "company": "LP Design Studio",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2021-05-17T11:07:41Z"
-  },
-  {
     "login": "kafialsa",
     "name": "Kafi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84738506?s=72&v=4",
@@ -175,7 +163,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 435,
+    "privateContributions": 438,
     "publicContributions": 0,
     "createdAt": "2020-05-20T17:05:39Z"
   },

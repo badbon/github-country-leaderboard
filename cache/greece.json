@@ -8491,8 +8491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 22,
-    "publicContributions": 30,
+    "privateContributions": 24,
+    "publicContributions": 29,
     "createdAt": "2024-09-28T09:52:50Z"
   },
   {
@@ -8502,9 +8502,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 31,
-    "publicContributions": 69,
+    "followers": 3,
+    "privateContributions": 77,
+    "publicContributions": 58,
     "createdAt": "2024-01-31T10:09:46Z"
   },
   {
@@ -8516,7 +8516,7 @@
     "twitterUsername": "for_joee",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-01-26T17:35:17Z"
   },
   {
@@ -8528,7 +8528,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 76,
     "createdAt": "2024-03-07T11:48:34Z"
   },
   {
@@ -8588,7 +8588,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 28,
     "createdAt": "2024-10-25T16:08:19Z"
   },
   {
@@ -8612,7 +8612,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 103,
     "createdAt": "2024-06-06T19:32:28Z"
   },
   {
@@ -8648,19 +8648,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2024-10-16T14:01:35Z"
   },
   {
     "login": "Smyrnis",
     "name": "Giannis Smyrnis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170201176?s=72&u=6b287462d9764c9b9a695b064d7950bfd945df67&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170201176?s=72&u=adcc41d8445be53d80240b64c592cc93ceef29ea&v=4",
     "location": "Patra, Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 166,
-    "publicContributions": 242,
+    "privateContributions": 788,
+    "publicContributions": 371,
     "createdAt": "2024-05-18T18:35:15Z"
   },
   {
@@ -8706,9 +8706,9 @@
     "location": "Kavala, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2024-01-03T06:41:24Z"
   },
   {

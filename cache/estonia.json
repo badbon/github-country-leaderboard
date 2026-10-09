@@ -8515,8 +8515,8 @@
     "company": "LoungeGame",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 38,
-    "publicContributions": 0,
+    "privateContributions": 42,
+    "publicContributions": 8,
     "createdAt": "2022-11-03T09:12:22Z"
   },
   {
@@ -8530,18 +8530,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-04T07:37:04Z"
-  },
-  {
-    "login": "erbasmuhammed",
-    "name": "Muhammed Erbas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113519075?s=72&u=829046bf8899d8250a6fcafb5b9b765f374e56ee&v=4",
-    "location": "Tallinn",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2022-09-14T11:05:49Z"
   },
   {
     "login": "ArtjomZagrebaylov",
@@ -8707,8 +8695,8 @@
     "company": "TalTech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 28,
-    "publicContributions": 37,
+    "privateContributions": 27,
+    "publicContributions": 39,
     "createdAt": "2022-07-21T18:26:33Z"
   },
   {

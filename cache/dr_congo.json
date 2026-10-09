@@ -66,9 +66,9 @@
     "location": "Bukavu, DR Congo",
     "company": "@FreeDev-Group",
     "twitterUsername": "Arnoldleonce",
-    "followers": 56,
+    "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 659,
+    "publicContributions": 662,
     "createdAt": "2025-12-12T20:26:00Z"
   },
   {
@@ -79,7 +79,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 622,
+    "privateContributions": 628,
     "publicContributions": 467,
     "createdAt": "2025-07-09T20:16:34Z"
   },
@@ -98,12 +98,12 @@
   {
     "login": "pacomeissa",
     "name": "PACOME ISSA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225239612?s=72&u=b9d24298acc6ef169c4199a9f2bd57553e013d2f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225239612?s=72&u=9f353dc69450ea3d50cbf1ba1322d8642e036692&v=4",
     "location": "Democratic Republic of Congo",
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 4582,
+    "privateContributions": 4680,
     "publicContributions": 65,
     "createdAt": "2025-08-07T16:35:50Z"
   },
@@ -140,7 +140,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 37,
     "createdAt": "2025-05-01T15:38:41Z"
   },
   {
@@ -152,7 +152,7 @@
     "twitterUsername": "EmmanuelNs47411",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 203,
     "createdAt": "2025-02-07T08:10:16Z"
   },
   {
@@ -212,7 +212,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 257,
+    "publicContributions": 261,
     "createdAt": "2025-07-09T12:28:30Z"
   },
   {
@@ -234,7 +234,7 @@
     "location": "congo / kinshasa",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 1,
     "publicContributions": 5,
     "createdAt": "2025-02-03T18:46:48Z"
@@ -8338,5 +8338,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-26T13:01:32Z"
+  },
+  {
+    "login": "TmeoGue",
+    "name": "Arick Bulakali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294744158?s=72&u=f4ed3eb6514b69531ed6921e832fa0e79ce41523&v=4",
+    "location": "Kinshasa, Kigali, Nairobi, Dubai",
+    "company": "@ever-co",
+    "twitterUsername": "ndekocode",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-18T07:50:41Z"
   }
 ]

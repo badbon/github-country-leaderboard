@@ -48164,7 +48164,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 5,
-    "publicContributions": 135,
+    "publicContributions": 136,
     "createdAt": "2026-05-15T23:56:30Z"
   },
   {
@@ -48310,5 +48310,53 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-05-22T20:44:20Z"
+  },
+  {
+    "login": "sharifsalim1",
+    "name": "SHARIF S A ALYATEM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295424791?s=72&v=4",
+    "location": "Amman",
+    "company": "moe",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-20T18:02:52Z"
+  },
+  {
+    "login": "202521008",
+    "name": "Maria Shishani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287200037?s=72&u=26fc40f932341791e34155c12c8439105b29e91a&v=4",
+    "location": "Amman",
+    "company": "Amman Arab University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-23T10:47:57Z"
+  },
+  {
+    "login": "ahmadalaa0113-sudo",
+    "name": "Ahmad Ramadan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288639726?s=72&v=4",
+    "location": "Amman",
+    "company": "Al koun schools",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-05-28T12:51:44Z"
+  },
+  {
+    "login": "moathimad",
+    "name": "Moath Imad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290153898?s=72&v=4",
+    "location": "Amman",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-02T20:09:14Z"
   }
 ]
