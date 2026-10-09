@@ -9008,7 +9008,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 100,
     "createdAt": "2020-12-30T08:21:46Z"
   },
   {
@@ -9030,8 +9030,8 @@
     "location": "Harare",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
+    "followers": 2,
+    "privateContributions": 1,
     "publicContributions": 3,
     "createdAt": "2021-11-11T09:32:32Z"
   },
@@ -9067,7 +9067,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 93,
+    "privateContributions": 55,
     "publicContributions": 29,
     "createdAt": "2021-10-03T12:24:34Z"
   },
@@ -9079,7 +9079,7 @@
     "company": "Zinaxy",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 172,
+    "privateContributions": 116,
     "publicContributions": 1,
     "createdAt": "2021-09-14T12:29:55Z"
   },
@@ -9102,9 +9102,9 @@
     "location": "Harare",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 0,
     "createdAt": "2021-12-02T13:39:21Z"
   },
   {
@@ -9114,9 +9114,9 @@
     "location": "Harare, Zimbabwe",
     "company": "",
     "twitterUsername": "blessing_mufaro",
-    "followers": 185,
-    "privateContributions": 11,
-    "publicContributions": 5,
+    "followers": 188,
+    "privateContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2020-12-05T08:53:02Z"
   },
   {
@@ -9138,7 +9138,7 @@
     "location": "HARARE, ZIMBABWE",
     "company": "",
     "twitterUsername": "tongomujera",
-    "followers": 69,
+    "followers": 68,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-08-10T04:04:26Z"
@@ -9162,8 +9162,8 @@
     "location": "Harare Zimbabwe",
     "company": "",
     "twitterUsername": "tyfah_pundo",
-    "followers": 46,
-    "privateContributions": 107,
+    "followers": 47,
+    "privateContributions": 426,
     "publicContributions": 1,
     "createdAt": "2020-04-04T17:21:33Z"
   },
@@ -9174,9 +9174,9 @@
     "location": "Harare, Zimbabwe",
     "company": "",
     "twitterUsername": "chikanga_tk",
-    "followers": 45,
-    "privateContributions": 748,
-    "publicContributions": 4,
+    "followers": 43,
+    "privateContributions": 683,
+    "publicContributions": 2,
     "createdAt": "2020-08-19T11:07:16Z"
   },
   {
@@ -9188,7 +9188,7 @@
     "twitterUsername": "",
     "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 14,
     "createdAt": "2020-04-13T14:50:34Z"
   },
   {
@@ -9198,9 +9198,9 @@
     "location": "Harare, Zimbabwe",
     "company": "Amaney Nexus",
     "twitterUsername": "TarmicaChiwara",
-    "followers": 37,
-    "privateContributions": 363,
-    "publicContributions": 203,
+    "followers": 39,
+    "privateContributions": 483,
+    "publicContributions": 206,
     "createdAt": "2020-07-22T18:19:46Z"
   },
   {
@@ -9211,7 +9211,7 @@
     "company": "@microverseinc ",
     "twitterUsername": "tinamura2",
     "followers": 28,
-    "privateContributions": 48,
+    "privateContributions": 59,
     "publicContributions": 1,
     "createdAt": "2020-01-17T10:27:40Z"
   },

@@ -9152,7 +9152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 10,
     "createdAt": "2024-11-11T17:10:52Z"
   },
   {
@@ -9204,18 +9204,6 @@
     "createdAt": "2024-10-21T06:51:37Z"
   },
   {
-    "login": "bing-i",
-    "name": "zhao yubing",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186284002?s=72&u=cc865573373b124165d7836d3d33a6b8760a5eac&v=4",
-    "location": "copenhagen",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
-    "createdAt": "2024-10-25T10:19:31Z"
-  },
-  {
     "login": "heinrichhegenbarth",
     "name": "heinrich",
     "avatarUrl": "https://avatars.githubusercontent.com/u/188586137?s=72&u=b2a1ba961a1908b966287df53b9fbc44b7dc9f69&v=4",
@@ -9223,7 +9211,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 120,
+    "privateContributions": 51,
     "publicContributions": 12,
     "createdAt": "2024-11-15T13:40:00Z"
   },
@@ -9247,7 +9235,7 @@
     "company": "@Lundbeck-Global-Customer-Engagement ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 267,
+    "privateContributions": 110,
     "publicContributions": 0,
     "createdAt": "2024-07-17T09:22:57Z"
   },
@@ -9301,14 +9289,14 @@
   },
   {
     "login": "joshflknr",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158557948?s=72&v=4",
+    "name": "joshua",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158557948?s=72&u=5009e2fdcd495e121a82e47bcf6f7371744ab2be&v=4",
     "location": "Copenhagen",
     "company": "Driversnote",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 618,
-    "publicContributions": 1,
+    "privateContributions": 744,
+    "publicContributions": 5,
     "createdAt": "2024-02-02T08:18:36Z"
   },
   {
@@ -9318,7 +9306,7 @@
     "location": "Copenhagen",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-04T23:11:28Z"
@@ -9368,7 +9356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 434,
+    "publicContributions": 368,
     "createdAt": "2024-09-14T20:02:20Z"
   },
   {
@@ -231682,5 +231670,17 @@
     "privateContributions": 2463,
     "publicContributions": 300,
     "createdAt": "2025-06-24T10:58:27Z"
+  },
+  {
+    "login": "kaoreill",
+    "name": "Kate O'Reilly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182793077?s=72&v=4",
+    "location": "Copenhagen, Denmark",
+    "company": "Performativ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 89,
+    "createdAt": "2024-09-25T15:35:42Z"
   }
 ]

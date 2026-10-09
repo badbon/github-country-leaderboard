@@ -8912,7 +8912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 661,
     "createdAt": "2024-11-07T10:21:31Z"
   },
   {
@@ -8923,7 +8923,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
+    "privateContributions": 53,
     "publicContributions": 57,
     "createdAt": "2024-06-29T15:29:36Z"
   },
@@ -8948,7 +8948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 83,
     "createdAt": "2024-01-10T06:32:24Z"
   },
   {
@@ -8970,7 +8970,7 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-23T21:24:30Z"
@@ -8995,8 +8995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 212,
+    "privateContributions": 48,
+    "publicContributions": 390,
     "createdAt": "2024-10-09T16:45:33Z"
   },
   {
@@ -9007,8 +9007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1080,
-    "publicContributions": 14,
+    "privateContributions": 1242,
+    "publicContributions": 0,
     "createdAt": "2024-04-13T13:21:55Z"
   },
   {
@@ -9048,18 +9048,6 @@
     "createdAt": "2024-10-02T11:20:43Z"
   },
   {
-    "login": "RayDit5577",
-    "name": "Rafael Sillankorva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188194477?s=72&v=4",
-    "location": "Suomi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-11-12T12:32:11Z"
-  },
-  {
     "login": "HakuAsterisk",
     "name": "Haku*",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163826303?s=72&u=b5717d6bf1f6ecbedd1a78eec3ef2dc4e4cc03d7&v=4",
@@ -9092,7 +9080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 12,
     "createdAt": "2024-09-11T12:41:37Z"
   },
   {
@@ -9103,8 +9091,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 99,
-    "privateContributions": 64,
-    "publicContributions": 443,
+    "privateContributions": 66,
+    "publicContributions": 115,
     "createdAt": "2024-04-21T15:42:53Z"
   },
   {
@@ -9114,7 +9102,7 @@
     "location": "Helsinki",
     "company": "Hive Student",
     "twitterUsername": "",
-    "followers": 57,
+    "followers": 56,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-29T09:56:02Z"

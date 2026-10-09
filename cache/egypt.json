@@ -9234,7 +9234,7 @@
     "location": "Egypt",
     "company": "https://shadufai.netlify.app/",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-03-15T12:42:12Z"
@@ -9246,9 +9246,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 38,
-    "publicContributions": 46,
+    "followers": 3,
+    "privateContributions": 179,
+    "publicContributions": 39,
     "createdAt": "2025-02-08T08:53:32Z"
   },
   {
@@ -9260,7 +9260,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 143,
     "createdAt": "2025-01-29T15:13:31Z"
   },
   {
@@ -9271,8 +9271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 269,
-    "publicContributions": 73,
+    "privateContributions": 423,
+    "publicContributions": 63,
     "createdAt": "2025-03-10T19:05:47Z"
   },
   {
@@ -9290,13 +9290,13 @@
   {
     "login": "Romakhedr",
     "name": "Rehamkhedr ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194863054?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194863054?s=72&u=a92309412e753e92405a2e77ef83f09ab3e1a11f&v=4",
     "location": "Egypt ",
     "company": "",
     "twitterUsername": "romakhedr290829",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 239,
+    "publicContributions": 401,
     "createdAt": "2025-01-13T23:59:30Z"
   },
   {
@@ -9332,20 +9332,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 5,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2025-02-14T05:04:39Z"
-  },
-  {
-    "login": "aliadel01",
-    "name": "Ali Adel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197110885?s=72&u=def6acd4e865e7f9af184f7bd7af03d099b6f1c8&v=4",
-    "location": "Alexandria | Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 138,
-    "publicContributions": 142,
-    "createdAt": "2025-01-30T16:44:29Z"
   },
   {
     "login": "islam-badawy-ibrahim",
@@ -9356,7 +9344,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 40,
     "createdAt": "2025-01-30T20:02:42Z"
   },
   {
@@ -9366,9 +9354,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-02-20T10:43:17Z"
   },
   {
@@ -9379,7 +9367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2732,
+    "privateContributions": 5113,
     "publicContributions": 48,
     "createdAt": "2025-01-05T15:05:08Z"
   },
@@ -9404,7 +9392,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2024-12-29T14:47:33Z"
   },
   {
@@ -9415,7 +9403,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 38,
+    "privateContributions": 100,
     "publicContributions": 88,
     "createdAt": "2025-01-15T19:43:33Z"
   },

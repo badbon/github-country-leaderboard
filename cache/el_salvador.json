@@ -8912,7 +8912,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 5,
     "createdAt": "2021-04-28T17:11:49Z"
   },
   {
@@ -8923,7 +8923,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 329,
+    "privateContributions": 211,
     "publicContributions": 2,
     "createdAt": "2021-12-22T04:01:11Z"
   },
@@ -8948,7 +8948,7 @@
     "twitterUsername": "Bn_Hdez",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 126,
     "createdAt": "2021-07-20T23:16:05Z"
   },
   {
@@ -8959,8 +8959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2,
-    "publicContributions": 63,
+    "privateContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-08-16T20:46:10Z"
   },
   {
@@ -8972,7 +8972,7 @@
     "twitterUsername": "rojasestrada_",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2021-03-20T22:56:58Z"
   },
   {
@@ -8984,7 +8984,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 5,
-    "publicContributions": 57,
+    "publicContributions": 49,
     "createdAt": "2021-05-29T16:20:23Z"
   },
   {
@@ -8995,8 +8995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 592,
-    "publicContributions": 5,
+    "privateContributions": 506,
+    "publicContributions": 88,
     "createdAt": "2021-07-07T20:28:37Z"
   },
   {
@@ -9010,18 +9010,6 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2021-05-09T22:18:09Z"
-  },
-  {
-    "login": "1frencho",
-    "name": "Marcos Alfaro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94326364?s=72&u=f908b0a5ed0bbf0ae5377b690b85cac9abddc76d&v=4",
-    "location": "El Salvador, La Libertad",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1004,
-    "publicContributions": 6,
-    "createdAt": "2021-11-14T22:51:27Z"
   },
   {
     "login": "kleb21",
@@ -9044,7 +9032,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-02-13T19:52:06Z"
   },
   {
@@ -9066,9 +9054,9 @@
     "location": "El Salvador",
     "company": "@Instituto-Key ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 831,
-    "publicContributions": 109,
+    "followers": 5,
+    "privateContributions": 1234,
+    "publicContributions": 226,
     "createdAt": "2021-07-17T06:28:21Z"
   },
   {
@@ -9079,7 +9067,7 @@
     "company": "Web Maker El Salvador",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 202,
+    "privateContributions": 136,
     "publicContributions": 11,
     "createdAt": "2021-11-21T05:45:57Z"
   },
@@ -9092,7 +9080,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-01-28T20:33:18Z"
   },
   {
@@ -9103,7 +9091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 558,
+    "privateContributions": 636,
     "publicContributions": 0,
     "createdAt": "2021-09-05T16:54:05Z"
   },
@@ -9127,20 +9115,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 8,
+    "privateContributions": 10,
     "publicContributions": 13,
     "createdAt": "2021-08-25T08:56:40Z"
   },
   {
     "login": "ulisesafcdev",
     "name": "Ulises AFC.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87951988?s=72&u=6376a66e6ea25d18a1b866d5829791880cfe0bf7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87951988?s=72&u=2e1993b5b3d31e680111b455169951b0e558b0b2&v=4",
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "ulisesafcdev",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 42,
     "createdAt": "2021-07-25T22:16:48Z"
   },
   {

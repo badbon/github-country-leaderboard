@@ -9295,7 +9295,7 @@
     "company": "BNTU",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 40,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-15T07:44:19Z"
   },
@@ -9308,31 +9308,31 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 115,
     "createdAt": "2023-02-24T14:45:22Z"
   },
   {
     "login": "vodo4kin",
-    "name": "Георгий",
+    "name": "Георгий Говор",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144561486?s=72&u=be51cfe465d34fba1cc39a9361c0a5b852bd6db5&v=4",
     "location": "Belarus",
-    "company": "",
+    "company": "BSUIR",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 60,
+    "privateContributions": 112,
+    "publicContributions": 35,
     "createdAt": "2023-09-09T20:00:37Z"
   },
   {
     "login": "DanikMamaiko",
     "name": "Daniil Mamaiko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130827513?s=72&u=ebeb2a90f408426260dbf5cb61c821d34b11b0f4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130827513?s=72&v=4",
     "location": "Minsk, Belarus",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 54,
     "createdAt": "2023-04-15T07:55:27Z"
   },
   {
@@ -9344,7 +9344,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 20,
     "createdAt": "2023-06-17T00:58:18Z"
   },
   {
@@ -9355,7 +9355,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 183,
+    "privateContributions": 107,
     "publicContributions": 1,
     "createdAt": "2023-11-04T19:47:58Z"
   },
@@ -9391,8 +9391,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 40,
-    "publicContributions": 154,
+    "privateContributions": 41,
+    "publicContributions": 131,
     "createdAt": "2023-10-20T14:17:00Z"
   },
   {
@@ -9428,7 +9428,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 526,
+    "publicContributions": 803,
     "createdAt": "2023-07-27T18:29:46Z"
   },
   {
@@ -9440,7 +9440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2023-01-02T17:18:17Z"
   },
   {
@@ -9464,7 +9464,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-01-25T21:46:52Z"
   },
   {
@@ -9476,7 +9476,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 22,
     "createdAt": "2023-10-17T14:49:00Z"
   },
   {
@@ -9500,7 +9500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 89,
     "createdAt": "2023-10-28T11:52:49Z"
   },
   {

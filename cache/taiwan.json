@@ -8832,39 +8832,15 @@
     "createdAt": "2024-03-23T12:15:34Z"
   },
   {
-    "login": "RivelleDays",
-    "name": "Rivelle",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189740389?s=72&u=bd43bdd383e8e7b700af67f7c8de8a8d3d31403f&v=4",
-    "location": "Taipei",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 0,
-    "publicContributions": 378,
-    "createdAt": "2024-11-26T12:25:40Z"
-  },
-  {
-    "login": "MarkLo127",
-    "name": "MarkLo ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181971616?s=72&u=69c568f72b75d80327ff35c2d57cc17fb922d14a&v=4",
-    "location": "Taipei",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 27,
-    "publicContributions": 161,
-    "createdAt": "2024-09-18T12:42:15Z"
-  },
-  {
     "login": "Heyairu",
     "name": "部屋伊琉",
     "avatarUrl": "https://avatars.githubusercontent.com/u/178480573?s=72&u=7aba0bdb63b14a3d7e08721f18ff2088edaec7dd&v=4",
     "location": "Banqiao, New Taipei",
     "company": "板橋高中",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 176,
     "createdAt": "2024-08-15T12:14:04Z"
   },
   {
@@ -8874,9 +8850,9 @@
     "location": "New Taipei",
     "company": "speedcubing.top",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 36,
-    "publicContributions": 297,
+    "followers": 18,
+    "privateContributions": 32,
+    "publicContributions": 278,
     "createdAt": "2024-01-22T03:06:43Z"
   },
   {
@@ -8886,21 +8862,21 @@
     "location": "Taipei-TW",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 64,
-    "publicContributions": 107,
+    "followers": 12,
+    "privateContributions": 96,
+    "publicContributions": 171,
     "createdAt": "2024-03-28T02:42:52Z"
   },
   {
     "login": "calledhxx",
     "name": "Hxx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160889760?s=72&u=2a0d035b28af38be920d7981825296caf6f1721b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160889760?s=72&u=ea6d5ea43b6d45a4b260aaf910760ade94ee8568&v=4",
     "location": "Taipei",
     "company": "",
     "twitterUsername": "calledHxx",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 222,
+    "publicContributions": 141,
     "createdAt": "2024-02-22T16:13:48Z"
   },
   {
@@ -8911,8 +8887,8 @@
     "company": "",
     "twitterUsername": "hexawulf",
     "followers": 8,
-    "privateContributions": 360,
-    "publicContributions": 433,
+    "privateContributions": 667,
+    "publicContributions": 538,
     "createdAt": "2024-11-19T07:41:30Z"
   },
   {
@@ -8924,7 +8900,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 356,
+    "publicContributions": 402,
     "createdAt": "2024-11-07T02:00:54Z"
   },
   {
@@ -8936,7 +8912,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 51,
     "createdAt": "2024-10-26T01:33:49Z"
   },
   {
@@ -8947,8 +8923,8 @@
     "company": "National Taipei University of Technology",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 394,
-    "publicContributions": 365,
+    "privateContributions": 485,
+    "publicContributions": 332,
     "createdAt": "2023-12-28T08:31:38Z"
   },
   {
@@ -8958,9 +8934,9 @@
     "location": "Taipei & New Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 131,
     "createdAt": "2024-04-21T16:59:34Z"
   },
   {
@@ -8982,9 +8958,9 @@
     "location": "Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2024-02-13T00:29:42Z"
   },
   {
@@ -8994,9 +8970,9 @@
     "location": "Taipei",
     "company": "Arm",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 50,
     "createdAt": "2024-01-24T06:16:29Z"
   },
   {
@@ -9006,9 +8982,9 @@
     "location": "Taipei",
     "company": "National Changhua University of Education",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 382,
+    "publicContributions": 254,
     "createdAt": "2024-10-24T08:39:49Z"
   },
   {
@@ -9020,7 +8996,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 313,
+    "publicContributions": 287,
     "createdAt": "2024-08-16T01:18:17Z"
   },
   {
@@ -9032,7 +9008,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 148,
     "createdAt": "2024-11-20T01:23:03Z"
   },
   {
@@ -9044,7 +9020,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 14,
     "createdAt": "2024-05-01T11:22:43Z"
   },
   {
@@ -9054,7 +9030,7 @@
     "location": "New Taipei City",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-05-02T01:33:50Z"
@@ -9067,8 +9043,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 29,
-    "publicContributions": 74,
+    "privateContributions": 33,
+    "publicContributions": 56,
     "createdAt": "2024-06-25T07:26:31Z"
   },
   {

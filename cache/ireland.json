@@ -9020,7 +9020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2024-02-03T10:59:25Z"
   },
   {
@@ -9032,7 +9032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 91,
     "createdAt": "2024-03-06T14:50:57Z"
   },
   {
@@ -9055,7 +9055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
+    "privateContributions": 84,
     "publicContributions": 24,
     "createdAt": "2024-02-20T17:09:44Z"
   },
@@ -9080,7 +9080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 19,
     "createdAt": "2024-09-03T06:47:32Z"
   },
   {
@@ -9092,7 +9092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 95,
     "createdAt": "2024-02-27T11:37:08Z"
   },
   {
@@ -9103,8 +9103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 41,
+    "privateContributions": 21,
+    "publicContributions": 72,
     "createdAt": "2024-03-18T14:58:23Z"
   },
   {
@@ -9116,7 +9116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 85,
     "createdAt": "2024-10-28T21:59:21Z"
   },
   {
@@ -9127,7 +9127,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 53,
+    "privateContributions": 41,
     "publicContributions": 9,
     "createdAt": "2024-04-20T19:35:44Z"
   },
@@ -9140,7 +9140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 32,
+    "publicContributions": 25,
     "createdAt": "2024-04-10T20:21:53Z"
   },
   {
@@ -9152,7 +9152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 64,
     "createdAt": "2024-06-03T00:37:33Z"
   },
   {
@@ -9164,7 +9164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 31,
     "createdAt": "2024-11-07T12:55:07Z"
   },
   {
@@ -9188,7 +9188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 207,
+    "publicContributions": 229,
     "createdAt": "2024-02-13T12:24:36Z"
   },
   {
@@ -9200,7 +9200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 1,
     "createdAt": "2024-04-30T22:26:26Z"
   },
   {
@@ -9212,7 +9212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 2,
     "createdAt": "2024-10-02T11:22:40Z"
   },
   {
@@ -9226,18 +9226,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-03T14:28:58Z"
-  },
-  {
-    "login": "kaoreill",
-    "name": "Kate O'Reilly",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182793077?s=72&v=4",
-    "location": "Dublin, Ireland",
-    "company": "@HumanAi",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2024-09-25T15:35:42Z"
   },
   {
     "login": "jothikaaravindhan",

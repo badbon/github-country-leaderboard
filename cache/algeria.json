@@ -8900,7 +8900,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-02-06T09:51:53Z"
   },
   {
@@ -8936,7 +8936,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 243,
-    "publicContributions": 83,
+    "publicContributions": 100,
     "createdAt": "2024-10-14T19:49:54Z"
   },
   {
@@ -8946,7 +8946,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 57,
     "publicContributions": 44,
     "createdAt": "2024-12-16T15:45:02Z"
@@ -8958,9 +8958,9 @@
     "location": "Medea, Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 546,
-    "publicContributions": 12,
+    "followers": 2,
+    "privateContributions": 544,
+    "publicContributions": 4,
     "createdAt": "2024-03-30T22:44:06Z"
   },
   {
@@ -8971,8 +8971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 211,
-    "publicContributions": 83,
+    "privateContributions": 107,
+    "publicContributions": 179,
     "createdAt": "2024-12-25T06:04:58Z"
   },
   {
@@ -8994,9 +8994,9 @@
     "location": "Boumerdes, Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 491,
-    "publicContributions": 301,
+    "publicContributions": 285,
     "createdAt": "2024-05-16T10:13:55Z"
   },
   {
@@ -9007,8 +9007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 328,
-    "publicContributions": 26,
+    "privateContributions": 354,
+    "publicContributions": 27,
     "createdAt": "2024-04-02T22:53:29Z"
   },
   {
@@ -9020,7 +9020,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 255,
     "createdAt": "2024-07-09T18:17:01Z"
   },
   {
@@ -9066,9 +9066,9 @@
     "location": "Souk Ahras, Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 209,
-    "publicContributions": 19,
+    "followers": 4,
+    "privateContributions": 174,
+    "publicContributions": 12,
     "createdAt": "2024-01-29T20:40:28Z"
   },
   {

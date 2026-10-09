@@ -9200,7 +9200,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 108,
     "createdAt": "2021-10-28T07:18:09Z"
   },
   {
@@ -9223,7 +9223,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 503,
+    "privateContributions": 412,
     "publicContributions": 15,
     "createdAt": "2021-08-17T18:38:42Z"
   },
@@ -9234,9 +9234,9 @@
     "location": "Tallinn, Estonia",
     "company": "Entersekt",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 7,
-    "publicContributions": 463,
+    "publicContributions": 438,
     "createdAt": "2021-04-11T07:32:25Z"
   },
   {
@@ -9246,7 +9246,7 @@
     "location": "Estonia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-11-19T17:07:15Z"
@@ -9258,9 +9258,9 @@
     "location": "Estonia",
     "company": "@NatyxNetwork ",
     "twitterUsername": "KirnoNTX",
-    "followers": 10,
-    "privateContributions": 288,
-    "publicContributions": 23,
+    "followers": 11,
+    "privateContributions": 291,
+    "publicContributions": 34,
     "createdAt": "2021-03-29T17:04:40Z"
   },
   {
@@ -9284,7 +9284,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 15,
-    "publicContributions": 229,
+    "publicContributions": 247,
     "createdAt": "2021-09-09T11:20:44Z"
   },
   {
@@ -9295,8 +9295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 143,
-    "publicContributions": 47,
+    "privateContributions": 335,
+    "publicContributions": 46,
     "createdAt": "2021-03-01T11:02:53Z"
   },
   {
@@ -9306,9 +9306,9 @@
     "location": "Estonia",
     "company": "University Of Tartu",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 880,
-    "publicContributions": 46,
+    "followers": 9,
+    "privateContributions": 842,
+    "publicContributions": 66,
     "createdAt": "2021-06-13T23:03:12Z"
   },
   {
@@ -9320,7 +9320,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 4,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2021-04-09T05:38:13Z"
   },
   {
@@ -9332,7 +9332,7 @@
     "twitterUsername": "ArgenTerra_OU",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 6,
     "createdAt": "2021-02-17T09:45:34Z"
   },
   {
@@ -9348,18 +9348,6 @@
     "createdAt": "2021-08-12T08:51:15Z"
   },
   {
-    "login": "Usarotonkachi",
-    "name": "Bamba",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92602163?s=72&u=f18343c18d8ab7aaafc336a14c2a7bffbd460516&v=4",
-    "location": "Tallinn, Estonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2021-10-15T18:32:16Z"
-  },
-  {
     "login": "K0ras1K",
     "name": "Roman Kalmykov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78379848?s=72&u=c1ebbb7b5180abe4eadd4813da1a873296350d0d&v=4",
@@ -9372,18 +9360,6 @@
     "createdAt": "2021-02-01T19:10:52Z"
   },
   {
-    "login": "TommasoBrumani",
-    "name": "Tommaso Brumani",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80901554?s=72&u=66f15e5c00c0147b46bdafaf178978a480d32b6c&v=4",
-    "location": "Tallinn, Estonia",
-    "company": "Microsoft",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 2,
-    "publicContributions": 0,
-    "createdAt": "2021-03-18T13:22:17Z"
-  },
-  {
     "login": "Gross-Johannes",
     "name": "Johannes Gross",
     "avatarUrl": "https://avatars.githubusercontent.com/u/76916361?s=72&u=3d6bf62336ceb6e4bb5f95f92814660195983674&v=4",
@@ -9391,7 +9367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 245,
+    "privateContributions": 397,
     "publicContributions": 54,
     "createdAt": "2021-01-03T18:12:18Z"
   },
@@ -9404,7 +9380,7 @@
     "twitterUsername": "DaniilRomazanov",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 23,
     "createdAt": "2021-06-09T13:04:22Z"
   },
   {

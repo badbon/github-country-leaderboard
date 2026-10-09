@@ -9174,9 +9174,9 @@
     "location": "IRAN",
     "company": "IUT",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 179,
     "createdAt": "2025-01-25T08:58:18Z"
   },
   {
@@ -9198,7 +9198,7 @@
     "location": "Yazd, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2025-03-24T11:25:06Z"
@@ -9212,7 +9212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2025-02-07T12:10:14Z"
   },
   {
@@ -9300,18 +9300,6 @@
     "createdAt": "2025-03-01T08:52:50Z"
   },
   {
-    "login": "raha-rb",
-    "name": "Raha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204604365?s=72&u=500caf63a7fe803cba26a30351cc7bd7f0aa982b&v=4",
-    "location": "Iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-23T18:16:53Z"
-  },
-  {
     "login": "DanialBahmani",
     "name": "Danial Bahmani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/196233351?s=72&u=97925d4df22c530f85638a8b53029502cffe12ec&v=4",
@@ -9332,7 +9320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-12-27T12:33:00Z"
   },
   {
@@ -9342,7 +9330,7 @@
     "location": "Iran,Mazandaran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-11T10:33:31Z"
@@ -9356,7 +9344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-02-04T19:21:07Z"
   },
   {
@@ -9368,7 +9356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 16,
     "createdAt": "2025-04-17T16:53:05Z"
   },
   {
@@ -322654,5 +322642,17 @@
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2026-06-16T07:46:52Z"
+  },
+  {
+    "login": "Dariush-Hassani",
+    "name": "Dariush",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67607177?s=72&u=3953b600a19a6e6010b2930c1eee161b75c502c0&v=4",
+    "location": "Tehran, Iran",
+    "company": "Okala",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 151,
+    "publicContributions": 63,
+    "createdAt": "2020-06-29T20:07:04Z"
   }
 ]

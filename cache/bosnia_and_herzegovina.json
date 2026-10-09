@@ -9056,7 +9056,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 31,
     "createdAt": "2020-05-23T18:15:30Z"
   },
   {
@@ -9066,9 +9066,9 @@
     "location": "Bosnia and Herzegovina",
     "company": "Elektrotehnički fakultet, Sarajevo",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 166,
-    "publicContributions": 83,
+    "followers": 9,
+    "privateContributions": 142,
+    "publicContributions": 20,
     "createdAt": "2020-11-01T20:04:12Z"
   },
   {
@@ -9079,7 +9079,7 @@
     "company": "Globex d.o.o.",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 176,
+    "privateContributions": 169,
     "publicContributions": 3,
     "createdAt": "2020-12-03T09:10:34Z"
   },
@@ -9100,11 +9100,11 @@
     "name": "Adin Bešlagić",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62249321?s=72&u=e534a54b4ee5064cc7e219aa2a4a3d87e9fbfd1d&v=4",
     "location": "Tuzla, Bosnia and Herzegovina",
-    "company": "Cape Ann Enterprises",
+    "company": "SaltByte",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 273,
     "createdAt": "2020-03-16T13:50:37Z"
   },
   {
@@ -9114,9 +9114,9 @@
     "location": "Bosnia and Herzegovina",
     "company": "@Ad-Kraft ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 306,
-    "publicContributions": 6,
+    "followers": 6,
+    "privateContributions": 349,
+    "publicContributions": 5,
     "createdAt": "2020-03-22T10:09:22Z"
   },
   {
@@ -9128,7 +9128,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 9,
     "createdAt": "2020-10-16T13:10:48Z"
   },
   {
@@ -9140,20 +9140,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 12,
     "createdAt": "2020-02-24T19:31:33Z"
-  },
-  {
-    "login": "abdiwaahid",
-    "name": "Abdiwahid",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60312294?s=72&v=4",
-    "location": "Sarajevo, Bosnia and Herzegovina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 516,
-    "publicContributions": 49,
-    "createdAt": "2020-01-26T08:54:18Z"
   },
   {
     "login": "AleksandarGajic01",
@@ -9234,7 +9222,7 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "Elektrotehnički fakultet u Sarajevu @etf-sarajevo",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-12-15T18:42:28Z"
@@ -9247,7 +9235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 31,
+    "privateContributions": 16,
     "publicContributions": 15,
     "createdAt": "2020-04-13T20:44:36Z"
   },
@@ -9272,7 +9260,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 75,
     "createdAt": "2020-07-25T20:45:46Z"
   },
   {
@@ -9282,7 +9270,7 @@
     "location": "Bosnia and Herzegovina, Sarajevo",
     "company": "@athome",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-06T14:51:30Z"
