@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-09T09:11:29.599Z
+Generated: 2026-10-09T09:55:25.547Z
 
 Users: 1189
 
@@ -21,8 +21,8 @@ Users: 1189
 | 13 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 664 |
 | 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 648 |
 | 15 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
-| 16 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
-| 17 | [Damjanose](https://github.com/Damjanose) | Damjano |  |  | Albania, Tirana | 614 |
-| 18 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
-| 19 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |
-| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | @jxsoft |  | Tirana, Albania | 496 |
+| 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 636 |
+| 17 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 616 |
+| 18 | [Damjanose](https://github.com/Damjanose) | Damjano |  |  | Albania, Tirana | 614 |
+| 19 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
+| 20 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 532 |

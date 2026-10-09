@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-09T09:14:12.030Z
+Generated: 2026-10-09T09:59:53.605Z
 
 Users: 728
 
@@ -13,15 +13,15 @@ Users: 728
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 110 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 106 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 104 |
-| 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 98 |
-| 9 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |
-| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 93 |
+| 8 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |
+| 9 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 93 |
+| 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 85 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Avanza Solutions |  | Manama, Bahrain | 84 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | AIP Genius |  | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 64 |
 | 14 | [sayed3li97](https://github.com/sayed3li97) | Sayed Ali Alkamel |  | sayed3li97 | Bahrain | 62 |
 | 15 | [a7madev](https://github.com/a7madev) | A7madev |  |  | Bahrain | 52 |
-| 16 | [almadhoob](https://github.com/almadhoob) | Ahmed Almadhoob | @founders-bh |  | Manama, Bahrain | 49 |
+| 16 | [almadhoob](https://github.com/almadhoob) | Ahmed Almadhoob | @founders-bh |  | Manama, Bahrain | 51 |
 | 17 | [veno](https://github.com/veno) | Venomous Committer |  |  | Bahrain | 44 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees |  |  | Manama, Bahrain | 42 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT |  |  | Bahrain | 42 |

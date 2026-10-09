@@ -1,8 +1,8 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-09T09:44:13.238Z
+Generated: 2026-10-09T09:55:10.359Z
 
-Users: 1656
+Users: 1655
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1656
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Founder @ Campus Market | praisetech_zw | Chinhoyi, Zimbabwe | 5441 |
 | 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5403 |
 | 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | @WYV-inc  |  | Harare | 5166 |
-| 19 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 5011 |
-| 20 | [tawandachiteshe](https://github.com/tawandachiteshe) | tawandachiteshe |  | NChiteshe | Harare | 4811 |
+| 19 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro |  | chiroro_jr | Harare, Zimbabwe | 5086 |
+| 20 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 5011 |

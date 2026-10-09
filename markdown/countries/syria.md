@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,482
+Indexed users: 1,481
 
 | Leaderboard | Link |
 |---|---|
@@ -28,8 +28,8 @@ Indexed users: 1,482
 | 14 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,986 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,825 |
 | 16 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,795 |
-| 17 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
-| 18 | [z44d](https://github.com/z44d) | Za¡d | Damascus, Syria | 1,708 |
+| 17 | [z44d](https://github.com/z44d) | Za¡d | Damascus, Syria | 1,708 |
+| 18 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,676 |
 | 19 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
 | 20 | [abd-shan](https://github.com/abd-shan) | Abdulkader Shanbour | Damascus,Syria | 1,505 |
 
@@ -41,7 +41,7 @@ Indexed users: 1,482
 | 2 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 2,974 |
 | 3 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,917 |
 | 4 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 1,807 |
-| 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,763 |
+| 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,676 |
 | 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,481 |
 | 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,180 |
@@ -79,8 +79,8 @@ Indexed users: 1,482
 | 15 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal | Syria  | 128 |
 | 16 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | Damascus, Syria | 126 |
 | 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg | Damascus... Syria | 123 |
-| 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud | Damascus | 101 |
+| 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud | Damascus | 114 |
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-09T09:07:22.730Z
+Generated: 2026-10-09T09:51:43.167Z

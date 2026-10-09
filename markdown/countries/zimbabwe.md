@@ -1,6 +1,6 @@
 # Zimbabwe
 
-Indexed users: 1,656
+Indexed users: 1,655
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 1,656
 | 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
 | 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,403 |
 | 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
-| 19 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 5,011 |
-| 20 | [tawandachiteshe](https://github.com/tawandachiteshe) | tawandachiteshe | Harare | 4,811 |
+| 19 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,086 |
+| 20 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 5,011 |
 
 ## Public Contributions
 
@@ -52,7 +52,7 @@ Indexed users: 1,656
 | 13 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,511 |
 | 14 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,426 |
 | 15 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 1,424 |
-| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
+| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,254 |
 | 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,220 |
 | 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
 | 19 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,120 |
@@ -83,4 +83,4 @@ Indexed users: 1,656
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-09T09:44:13.238Z
+Generated: 2026-10-09T09:55:10.359Z

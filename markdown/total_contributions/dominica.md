@@ -1,6 +1,6 @@
 # Total Contributions - Dominica
 
-Generated: 2026-10-09T09:23:15.225Z
+Generated: 2026-10-09T10:05:13.868Z
 
 Users: 18
 
@@ -13,7 +13,7 @@ Users: 18
 | 5 | [jaimonorle](https://github.com/jaimonorle) | Jaimon Orlé | Orlé Industries |  | Dominica | 47 |
 | 6 | [jozreel](https://github.com/jozreel) | Jozreel Laurent |  |  | Roseau, Dominica | 44 |
 | 7 | [lazarusvc](https://github.com/lazarusvc) | Austin Lazarus | Lazarus Ventures Co. | _ra_lazarus | Dominica | 26 |
-| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Waituku Technology Solutions |  | Dominica | 18 |
+| 8 | [Nexxus-LMT](https://github.com/Nexxus-LMT) | WaitukuNexx | Waituku Technology Solutions |  | Dominica | 19 |
 | 9 | [robinsonassc](https://github.com/robinsonassc) | Edmund Robinson | Robinson & Associates |  | Dominica | 9 |
 | 10 | [bowetech](https://github.com/bowetech) | Clive Stewart | BoweTech |  |  Dominica | 7 |
 | 11 | [EsaiasBurnette](https://github.com/EsaiasBurnette) | Esaias_B | Burnette Tech Solutions |  | Dominica | 4 |

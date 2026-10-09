@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-09T09:14:12.030Z
+Generated: 2026-10-09T09:59:53.605Z
 
 Users: 728
 
@@ -12,7 +12,7 @@ Users: 728
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 2661 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2147 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | @ov-studio |  | Amwaj, Bahrain | 1877 |
-| 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 1259 |
+| 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 1258 |
 | 8 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 966 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Foulad | Fouladtm | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |

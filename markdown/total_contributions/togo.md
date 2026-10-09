@@ -1,19 +1,19 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-09T09:07:50.554Z
+Generated: 2026-10-09T09:52:27.373Z
 
 Users: 680
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 10450 |
-| 2 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 10207 |
-| 3 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 9439 |
-| 4 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 8045 |
-| 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 8045 |
-| 6 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 7096 |
-| 7 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6223 |
-| 8 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | @strantsolutions @BBLY-ANALYTICS-LLC  |  | Lomé | 5999 |
+| 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 13187 |
+| 2 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | @strantsolutions @BBLY-ANALYTICS-LLC  |  | Lomé | 11310 |
+| 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 10207 |
+| 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 9439 |
+| 5 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 8140 |
+| 6 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 8045 |
+| 7 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 8045 |
+| 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6223 |
 | 9 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan |  |  | Togo | 5806 |
 | 10 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 5691 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5141 |

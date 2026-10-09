@@ -1,8 +1,8 @@
 # Total Contributions - Thailand
 
-Generated: 2026-10-09T09:07:39.476Z
+Generated: 2026-10-09T09:51:56.949Z
 
-Users: 14993
+Users: 14992
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 14993
 | 10 | [tumf](https://github.com/tumf) | tumf | @wakumo  | tumf | Bangkok, Thailand | 16061 |
 | 11 | [evanrintho](https://github.com/evanrintho) | Ronnkon Na Suwan | @anantix-network |  | Surat Thani, Thailand | 15847 |
 | 12 | [menotafari](https://github.com/menotafari) | MK |  |  | Bangkok, Thailand | 15720 |
-| 13 | [withNoclout](https://github.com/withNoclout) | noclout | Leet-Proper , |  | Wang SaWang, Bang Sue , Bangkok  | 15404 |
-| 14 | [komphet](https://github.com/komphet) | Komphet Meesab | Gumon Technology |  | Bangkok | 14967 |
-| 15 | [LoneExile](https://github.com/LoneExile) | Apinant.u |  | L0neExile | Thailand | 14891 |
-| 16 | [Restuta](https://github.com/Restuta) | Anton Vynogradenko | @orba-health @SharkyFi @toast-ninja | restuta | San Francisco, CA and Bangkok | 14406 |
-| 17 | [jojoprison](https://github.com/jojoprison) | jojoprison |  |  | Thailand | 14370 |
-| 18 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Fakduai logistics and digital platform co., ltd |  | Pak Chong, Nakhon Ratchasima, Thailand | 14360 |
-| 19 | [serial-coder](https://github.com/serial-coder) | Phuwanai Thummavet | @valixconsulting | 0x_serial_coder | Bangkok, Thailand. | 14263 |
-| 20 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | @openspp | jeremi | Phuket, Thailand | 14139 |
+| 13 | [komphet](https://github.com/komphet) | Komphet Meesab | Gumon Technology |  | Bangkok | 14967 |
+| 14 | [LoneExile](https://github.com/LoneExile) | Apinant.u |  | L0neExile | Thailand | 14891 |
+| 15 | [Restuta](https://github.com/Restuta) | Anton Vynogradenko | @orba-health @SharkyFi @toast-ninja | restuta | San Francisco, CA and Bangkok | 14406 |
+| 16 | [jojoprison](https://github.com/jojoprison) | jojoprison |  |  | Thailand | 14370 |
+| 17 | [watchakorn-18k](https://github.com/watchakorn-18k) | Watchakorn Buddeewong | Fakduai logistics and digital platform co., ltd |  | Pak Chong, Nakhon Ratchasima, Thailand | 14360 |
+| 18 | [serial-coder](https://github.com/serial-coder) | Phuwanai Thummavet | @valixconsulting | 0x_serial_coder | Bangkok, Thailand. | 14263 |
+| 19 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | @openspp | jeremi | Phuket, Thailand | 14139 |
+| 20 | [samithiwat](https://github.com/samithiwat) | samithiwat |  |  | Bangkok | 13999 |

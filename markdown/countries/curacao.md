@@ -14,7 +14,7 @@ Indexed users: 53
 |---:|---|---|---|---:|
 | 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 5,878 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,777 |
-| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,506 |
+| 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,512 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,274 |
 | 5 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 1,371 |
 | 6 | [GilbertoFraaij](https://github.com/GilbertoFraaij) |  | Curacao, Netherlands Antilles | 1,226 |
@@ -70,7 +70,7 @@ Indexed users: 53
 | 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 39 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 33 |
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 28 |
-| 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 23 |
+| 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 22 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 19 |
 | 11 | [ekid](https://github.com/ekid) | Ekid | Willemstad | 15 |
 | 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Willemstad, Curaçao, Dutch Caribbean | 15 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-09T09:22:28.432Z
+Generated: 2026-10-09T10:04:37.661Z

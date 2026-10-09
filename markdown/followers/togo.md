@@ -1,6 +1,6 @@
 # Followers - Togo
 
-Generated: 2026-10-09T09:07:50.554Z
+Generated: 2026-10-09T09:52:27.373Z
 
 Users: 680
 
@@ -19,8 +19,8 @@ Users: 680
 | 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Kaba Delivery | TambanaEssohana | Lomé, Togo | 89 |
 | 12 | [koffisani](https://github.com/koffisani) | Koffi SANI |  | koffisani | Lomé, TOGO | 80 |
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | @TPG | toutpuissantged | togo | 80 |
-| 14 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Ecole Polytechnique de Lomé |  | Lomé-Togo | 75 |
-| 15 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 74 |
+| 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 75 |
+| 15 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Ecole Polytechnique de Lomé |  | Lomé-Togo | 75 |
 | 16 | [lecodeur228](https://github.com/lecodeur228) | irin |  |  | TOGO | 70 |
 | 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Full-Stack Developer | MatthieuSenou | Togo, Lome | 70 |
 | 18 | [Koj-Kyo](https://github.com/Koj-Kyo) |  |  |  | Lomé , Togo | 68 |

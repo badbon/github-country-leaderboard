@@ -12,14 +12,14 @@ Indexed users: 680
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 10,450 |
-| 2 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 10,207 |
-| 3 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,439 |
-| 4 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,045 |
-| 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,045 |
-| 6 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 7,096 |
-| 7 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,223 |
-| 8 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 5,999 |
+| 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 13,187 |
+| 2 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 11,310 |
+| 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 10,207 |
+| 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 9,439 |
+| 5 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 8,140 |
+| 6 | [GTW503](https://github.com/GTW503) | MEK | Togo | 8,045 |
+| 7 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA | Togo | 8,045 |
+| 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël | Togo, Lomé | 6,223 |
 | 9 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,806 |
 | 10 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 5,691 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,141 |
@@ -38,8 +38,8 @@ Indexed users: 680
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,363 |
-| 2 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,070 |
-| 3 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,066 |
+| 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,764 |
+| 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,070 |
 | 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,229 |
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,136 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,970 |
@@ -75,12 +75,12 @@ Indexed users: 680
 | 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Lomé, Togo | 89 |
 | 12 | [koffisani](https://github.com/koffisani) | Koffi SANI | Lomé, TOGO | 80 |
 | 13 | [toutpuissantged](https://github.com/toutpuissantged) | Gedeon AMOUSSOU | togo | 80 |
-| 14 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Lomé-Togo | 75 |
-| 15 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 74 |
+| 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Lomé, Togo | 75 |
+| 15 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Lomé-Togo | 75 |
 | 16 | [lecodeur228](https://github.com/lecodeur228) | irin | TOGO | 70 |
 | 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Togo, Lome | 70 |
 | 18 | [Koj-Kyo](https://github.com/Koj-Kyo) |  | Lomé , Togo | 68 |
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-09T09:07:50.554Z
+Generated: 2026-10-09T09:52:27.373Z

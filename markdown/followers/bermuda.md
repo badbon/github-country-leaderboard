@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-09T09:17:25.930Z
+Generated: 2026-10-09T10:00:37.259Z
 
 Users: 902
 
@@ -24,5 +24,5 @@ Users: 902
 | 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 90 |
 | 17 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |
 | 18 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 86 |
-| 19 | [feilongcheng](https://github.com/feilongcheng) | Felix |  |  | Hamilton, NZ | 86 |
+| 19 | [feilongcheng](https://github.com/feilongcheng) | Felix |  |  | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Support Specialist at Harris Computer |  | Greater Hamilton(Burlington) Area | 66 |

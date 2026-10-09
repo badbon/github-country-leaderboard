@@ -1,8 +1,8 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-09T09:07:22.730Z
+Generated: 2026-10-09T09:51:43.167Z
 
-Users: 1482
+Users: 1481
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1482
 | 14 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1986 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 1825 |
 | 16 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1795 |
-| 17 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1763 |
-| 18 | [z44d](https://github.com/z44d) | Za¡d |  | 0z44d | Damascus, Syria | 1708 |
+| 17 | [z44d](https://github.com/z44d) | Za¡d |  | 0z44d | Damascus, Syria | 1708 |
+| 18 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1676 |
 | 19 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1630 |
 | 20 | [abd-shan](https://github.com/abd-shan) | Abdulkader Shanbour | Cloudtech Sky |  | Damascus,Syria | 1505 |

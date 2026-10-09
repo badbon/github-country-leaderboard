@@ -1,6 +1,6 @@
 # Total Contributions - Guinea
 
-Generated: 2026-10-09T09:29:04.466Z
+Generated: 2026-10-09T10:11:17.048Z
 
 Users: 264
 
@@ -10,8 +10,8 @@ Users: 264
 | 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Kambily |  | Conakry,Guinéé | 6930 |
 | 3 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | KInnovate |  | Conakry | 6808 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Smart Sarl | mabkorbonya | Conakry | 6184 |
-| 5 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Software Engineer |  | Guinée, Conakry, GN | 3500 |
-| 6 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno |  |  | Guinea/Conakry | 3460 |
+| 5 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno |  |  | Guinea/Conakry | 3534 |
+| 6 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Software Engineer |  | Guinée, Conakry, GN | 3500 |
 | 7 | [mohdiarra](https://github.com/mohdiarra) | Mohamed Diarra |  PayCard SA / The D-Corp. SARL |  | Conakry, Guinea | 2624 |
 | 8 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy |  | souleymanesy43 | Guinée, Conakry | 2227 |
 | 9 | [sudomarc](https://github.com/sudomarc) | marco_ |  |  | Guinée Conakry  | 2222 |

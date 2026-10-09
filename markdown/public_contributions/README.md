@@ -4,18 +4,18 @@ Published countries: 234
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
-| Afghanistan | 1,497 | [View](./afghanistan.md) |
+| Afghanistan | 1,500 | [View](./afghanistan.md) |
 | Åland Islands | 61 | [View](./aland_islands.md) |
 | Albania | 1,189 | [View](./albania.md) |
-| Algeria | 5,815 | [View](./algeria.md) |
+| Algeria | 5,819 | [View](./algeria.md) |
 | American Samoa | 5 | [View](./american_samoa.md) |
 | Andorra | 215 | [View](./andorra.md) |
-| Angola | 2,503 | [View](./angola.md) |
+| Angola | 2,505 | [View](./angola.md) |
 | Anguilla | 15 | [View](./anguilla.md) |
 | Antarctica | 462 | [View](./antarctica.md) |
 | Antigua and Barbuda | 12 | [View](./antigua_and_barbuda.md) |
-| Argentina | 50,747 | [View](./argentina.md) |
-| Armenia | 4,042 | [View](./armenia.md) |
+| Argentina | 50,757 | [View](./argentina.md) |
+| Armenia | 4,048 | [View](./armenia.md) |
 | Aruba | 38 | [View](./aruba.md) |
 | Austria | 18,253 | [View](./austria.md) |
 | Azerbaijan | 5,092 | [View](./azerbaijan.md) |
@@ -39,7 +39,7 @@ Published countries: 234
 | Bulgaria | 14,090 | [View](./bulgaria.md) |
 | Burkina Faso | 484 | [View](./burkina_faso.md) |
 | Burundi | 235 | [View](./burundi.md) |
-| Cambodia | 2,882 | [View](./cambodia.md) |
+| Cambodia | 2,881 | [View](./cambodia.md) |
 | Cameroon | 1,803 | [View](./cameroon.md) |
 | Cape Verde | 561 | [View](./cape_verde.md) |
 | Caribbean Netherlands | 13 | [View](./caribbean_netherlands.md) |
@@ -52,25 +52,25 @@ Published countries: 234
 | Colombia | 29,183 | [View](./colombia.md) |
 | Comoros | 11 | [View](./comoros.md) |
 | Cook Islands | 7 | [View](./cook_islands.md) |
-| Costa Rica | 5,644 | [View](./costa_rica.md) |
+| Costa Rica | 5,643 | [View](./costa_rica.md) |
 | Croatia | 5,440 | [View](./croatia.md) |
 | Cuba | 1,289 | [View](./cuba.md) |
 | Curaçao | 53 | [View](./curacao.md) |
-| Cyprus | 2,749 | [View](./cyprus.md) |
-| Czechia | 16,207 | [View](./czechia.md) |
+| Cyprus | 2,748 | [View](./cyprus.md) |
+| Czechia | 16,208 | [View](./czechia.md) |
 | Denmark | 19,310 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,314 | [View](./dominican_republic.md) |
-| DR Congo | 696 | [View](./dr_congo.md) |
+| DR Congo | 695 | [View](./dr_congo.md) |
 | Ecuador | 4,906 | [View](./ecuador.md) |
 | Egypt | 34,077 | [View](./egypt.md) |
-| El Salvador | 2,386 | [View](./el_salvador.md) |
+| El Salvador | 2,385 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
 | Estonia | 4,926 | [View](./estonia.md) |
 | Eswatini | 108 | [View](./eswatini.md) |
-| Ethiopia | 6,712 | [View](./ethiopia.md) |
+| Ethiopia | 6,710 | [View](./ethiopia.md) |
 | Falkland Islands | 13 | [View](./falkland_islands.md) |
 | Faroe Islands | 67 | [View](./faroe_islands.md) |
 | Fiji | 325 | [View](./fiji.md) |
@@ -80,7 +80,7 @@ Published countries: 234
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 315 | [View](./gabon.md) |
 | Gambia | 80 | [View](./gambia.md) |
-| Georgia | 6,899 | [View](./georgia.md) |
+| Georgia | 6,901 | [View](./georgia.md) |
 | Ghana | 7,111 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,585 | [View](./greece.md) |
@@ -149,7 +149,7 @@ Published countries: 234
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,134 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,157 | [View](./new_zealand.md) |
+| New Zealand | 12,156 | [View](./new_zealand.md) |
 | Nicaragua | 1,401 | [View](./nicaragua.md) |
 | Niger | 176 | [View](./niger.md) |
 | Nigeria | 33,158 | [View](./nigeria.md) |
@@ -186,14 +186,14 @@ Published countries: 234
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,758 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,757 | [View](./saudi_arabia.md) |
 | Senegal | 1,359 | [View](./senegal.md) |
 | Serbia | 10,672 | [View](./serbia.md) |
 | Seychelles | 1,776 | [View](./seychelles.md) |
 | Sierra Leone | 442 | [View](./sierra_leone.md) |
-| Singapore | 24,695 | [View](./singapore.md) |
+| Singapore | 24,694 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
-| Slovakia | 4,695 | [View](./slovakia.md) |
+| Slovakia | 4,694 | [View](./slovakia.md) |
 | Slovenia | 3,110 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 858 | [View](./somalia.md) |
@@ -205,13 +205,13 @@ Published countries: 234
 | Sudan | 729 | [View](./sudan.md) |
 | Suriname | 123 | [View](./suriname.md) |
 | Svalbard and Jan Mayen | 10 | [View](./svalbard_and_jan_mayen.md) |
-| Sweden | 39,052 | [View](./sweden.md) |
+| Sweden | 39,051 | [View](./sweden.md) |
 | Switzerland | 24,080 | [View](./switzerland.md) |
-| Syria | 1,482 | [View](./syria.md) |
-| Taiwan | 22,012 | [View](./taiwan.md) |
+| Syria | 1,481 | [View](./syria.md) |
+| Taiwan | 22,010 | [View](./taiwan.md) |
 | Tajikistan | 711 | [View](./tajikistan.md) |
 | Tanzania | 2,043 | [View](./tanzania.md) |
-| Thailand | 14,993 | [View](./thailand.md) |
+| Thailand | 14,992 | [View](./thailand.md) |
 | Timor-Leste | 77 | [View](./timor_leste.md) |
 | Togo | 680 | [View](./togo.md) |
 | Tokelau | 4 | [View](./tokelau.md) |
@@ -222,9 +222,9 @@ Published countries: 234
 | Turkmenistan | 499 | [View](./turkmenistan.md) |
 | Turks and Caicos Islands | 7 | [View](./turks_and_caicos_islands.md) |
 | Tuvalu | 11 | [View](./tuvalu.md) |
-| Uganda | 3,880 | [View](./uganda.md) |
+| Uganda | 3,879 | [View](./uganda.md) |
 | Ukraine | 47,778 | [View](./ukraine.md) |
-| United Arab Emirates | 4,254 | [View](./united_arab_emirates.md) |
+| United Arab Emirates | 4,253 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,629 | [View](./uruguay.md) |
@@ -232,11 +232,11 @@ Published countries: 234
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 30 | [View](./vatican_city.md) |
 | Venezuela | 6,641 | [View](./venezuela.md) |
-| Vietnam | 25,862 | [View](./vietnam.md) |
+| Vietnam | 25,861 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,218 | [View](./yemen.md) |
 | Zambia | 1,346 | [View](./zambia.md) |
-| Zimbabwe | 1,656 | [View](./zimbabwe.md) |
+| Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-09T09:45:19.118Z
+Generated: 2026-10-09T10:14:07.497Z

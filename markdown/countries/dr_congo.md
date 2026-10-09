@@ -1,6 +1,6 @@
 # DR Congo
 
-Indexed users: 696
+Indexed users: 695
 
 | Leaderboard | Link |
 |---|---|
@@ -28,9 +28,9 @@ Indexed users: 696
 | 14 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 4,996 |
 | 15 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 4,954 |
 | 16 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,647 |
-| 17 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,563 |
-| 18 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,546 |
-| 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,531 |
+| 17 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,546 |
+| 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,531 |
+| 19 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,439 |
 | 20 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,358 |
 
 ## Public Contributions
@@ -54,8 +54,8 @@ Indexed users: 696
 | 15 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 897 |
 | 16 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 878 |
 | 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
-| 18 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
-| 19 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
+| 18 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
+| 19 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 703 |
 | 20 | [arnold722](https://github.com/arnold722) | Arnold Leonce | Bukavu, DR Congo | 659 |
 
 ## Followers
@@ -69,9 +69,9 @@ Indexed users: 696
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 184 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | kinshasa | 163 |
 | 7 | [AfricanboyKiima](https://github.com/AfricanboyKiima) | Africanboy Kiima | Kinshasa/DRC | 134 |
-| 8 | [eltazy](https://github.com/eltazy) | Michel B | Kinshasa, CD | 132 |
+| 8 | [eltazy](https://github.com/eltazy) | Michel B | Kinshasa, CD | 131 |
 | 9 | [fordimalanda](https://github.com/fordimalanda) | Fordi Malanda | Kinshasa, DRC | 129 |
-| 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 104 |
+| 10 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 105 |
 | 11 | [IronOnet](https://github.com/IronOnet) | Arnaud Wanet | Kinshasa | 103 |
 | 12 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 99 |
 | 13 | [valamandar](https://github.com/valamandar) | Vala Mandar | RD Congo, Kinshasa | 90 |
@@ -83,4 +83,4 @@ Indexed users: 696
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-09T09:23:26.348Z
+Generated: 2026-10-09T10:05:21.693Z

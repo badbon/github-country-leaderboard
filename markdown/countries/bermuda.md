@@ -26,9 +26,9 @@ Indexed users: 902
 | 12 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,557 |
 | 13 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 4,669 |
 | 14 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 4,644 |
-| 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,278 |
-| 16 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,029 |
-| 17 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 3,942 |
+| 15 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,426 |
+| 16 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,278 |
+| 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,029 |
 | 18 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 3,703 |
 | 19 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | Hamilton, Ontario | 3,415 |
 | 20 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 3,402 |
@@ -80,7 +80,7 @@ Indexed users: 902
 | 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour | Hamilton, Ontario | 90 |
 | 17 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 87 |
 | 18 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | Hamilton | 86 |
-| 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 86 |
+| 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 66 |
 
-Generated: 2026-10-09T09:17:25.930Z
+Generated: 2026-10-09T10:00:37.259Z
