@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,227
+Indexed users: 1,226
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,227
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-09T17:39:54.745Z
+Generated: 2026-10-09T18:32:02.923Z

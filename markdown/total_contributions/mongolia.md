@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-09T17:41:10.964Z
+Generated: 2026-10-09T18:33:30.912Z
 
 Users: 805
 
@@ -20,9 +20,9 @@ Users: 805
 | 12 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 5976 |
 | 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5576 |
 | 14 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5247 |
-| 15 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
-| 16 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4336 |
-| 17 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4165 |
-| 18 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4093 |
-| 19 | [TuguldurJ](https://github.com/TuguldurJ) | Tuguldur | Topoptin |  | Mongolia, Ulaanbaatar | 3978 |
-| 20 | [orshih6](https://github.com/orshih6) | Бат-Орших |  |  | Ulaanbaatar, Mongolia | 3734 |
+| 15 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | CODY | g_nd | Mongolia | 4910 |
+| 16 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
+| 17 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4336 |
+| 18 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4165 |
+| 19 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4093 |
+| 20 | [TuguldurJ](https://github.com/TuguldurJ) | Tuguldur | Topoptin |  | Mongolia, Ulaanbaatar | 3978 |

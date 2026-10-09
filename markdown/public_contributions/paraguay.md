@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-09T17:48:11.726Z
+Generated: 2026-10-09T18:40:18.077Z
 
 Users: 2021
 
@@ -24,5 +24,5 @@ Users: 2021
 | 16 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
 | 17 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 905 |
 | 18 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
-| 19 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin |  |  | Paraguay | 885 |
-| 20 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 824 |
+| 19 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 891 |
+| 20 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin |  |  | Paraguay | 885 |

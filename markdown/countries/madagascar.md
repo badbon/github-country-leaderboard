@@ -24,7 +24,7 @@ Indexed users: 1,910
 | 10 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | Madagascar | 6,231 |
 | 11 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,312 |
 | 12 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Madagascar | 5,308 |
-| 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,213 |
+| 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,181 |
 | 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 5,058 |
 | 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 4,972 |
 | 16 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala | Madagascar | 4,933 |
@@ -48,8 +48,8 @@ Indexed users: 1,910
 | 9 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 2,868 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 2,222 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,932 |
-| 12 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,907 |
-| 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,738 |
+| 12 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,738 |
+| 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,706 |
 | 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,623 |
 | 15 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,562 |
 | 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
@@ -83,4 +83,4 @@ Indexed users: 1,910
 | 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-09T17:39:32.002Z
+Generated: 2026-10-09T18:31:35.845Z

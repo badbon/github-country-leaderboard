@@ -1,6 +1,6 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-09T17:39:03.379Z
+Generated: 2026-10-09T18:31:26.041Z
 
 Users: 2202
 
@@ -20,8 +20,8 @@ Users: 2202
 | 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK |  | SvenGDK | Luxembourg | 277 |
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch |  |  | Luxembourg | 275 |
 | 14 | [Moado](https://github.com/Moado) | Moad HANI  | University of Luxembourg  |  | Luxembourg | 268 |
-| 15 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | StarObject |  | Luxembourg | 254 |
-| 16 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow |  | Sn0wAlice | Luxembourg | 251 |
+| 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow |  | Sn0wAlice | Luxembourg | 256 |
+| 16 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | StarObject |  | Luxembourg | 254 |
 | 17 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 225 |
 | 18 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 217 |
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 213 |

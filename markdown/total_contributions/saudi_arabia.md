@@ -1,8 +1,8 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-09T18:29:18.811Z
+Generated: 2026-10-09T18:42:31.518Z
 
-Users: 7753
+Users: 7752
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

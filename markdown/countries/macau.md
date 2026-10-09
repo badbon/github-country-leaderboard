@@ -28,7 +28,7 @@ Indexed users: 441
 | 14 | [Yh1sam](https://github.com/Yh1sam) |  | Macau | 2,098 |
 | 15 | [RyanKung](https://github.com/RyanKung) | Elder Ryan | Macau | 1,971 |
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo | Macau | 1,775 |
-| 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,749 |
+| 17 | [HansiChan](https://github.com/HansiChan) | Colin | Macau | 1,764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei | Macau | 1,720 |
 | 19 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,642 |
 | 20 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 1,544 |
@@ -83,4 +83,4 @@ Indexed users: 441
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-09T17:39:08.631Z
+Generated: 2026-10-09T18:31:29.798Z

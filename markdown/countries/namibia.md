@@ -28,7 +28,7 @@ Indexed users: 476
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,267 |
 | 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,242 |
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,194 |
-| 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
+| 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,976 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,897 |
 | 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,873 |
 | 20 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,764 |
@@ -54,8 +54,8 @@ Indexed users: 476
 | 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
 | 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 254 |
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
-| 18 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 245 |
-| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
+| 18 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
+| 19 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 243 |
 | 20 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 233 |
 
 ## Followers
@@ -69,7 +69,7 @@ Indexed users: 476
 | 5 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 104 |
 | 6 | [afroGeM7](https://github.com/afroGeM7) | Gemma Usiku | Namibia | 103 |
 | 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 99 |
-| 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 90 |
+| 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 91 |
 | 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | Windhoek, Namibia | 61 |
 | 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 59 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | windhoek | 56 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-09T17:42:11.818Z
+Generated: 2026-10-09T18:34:19.630Z

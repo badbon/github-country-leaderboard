@@ -1,6 +1,6 @@
 # Followers - Montenegro
 
-Generated: 2026-10-09T17:41:22.253Z
+Generated: 2026-10-09T18:33:38.905Z
 
 Users: 895
 
@@ -18,7 +18,7 @@ Users: 895
 | 10 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 140 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk |  | awkravchuk | Montenegro, Podgorica | 138 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Yandex |  | Tivat, Montenegro | 132 |
-| 13 | [mifth](https://github.com/mifth) | mifth |  |  | Montenegro | 129 |
+| 13 | [mifth](https://github.com/mifth) | mifth |  |  | Montenegro | 130 |
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay |  | emrahatalay79 | Montenegro | 128 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Webonizer |  | Podgorica | 125 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic |  | herilmuratovic | Montenegro, Podgorica | 108 |

@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-09T17:39:32.002Z
+Generated: 2026-10-09T18:31:35.845Z
 
 Users: 1910
 
@@ -17,8 +17,8 @@ Users: 1910
 | 9 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 2868 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2222 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1932 |
-| 12 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1907 |
-| 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1738 |
+| 12 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1738 |
+| 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1706 |
 | 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1623 |
 | 15 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
 | 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1558 |

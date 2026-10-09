@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-09T17:47:15.867Z
+Generated: 2026-10-09T18:39:05.232Z
 
 Users: 2209
 
@@ -22,7 +22,7 @@ Users: 2209
 | 14 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 818 |
 | 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 759 |
-| 17 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Birzeit University |  | Palestine | 717 |
-| 18 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti |  |  | Palestine | 710 |
-| 19 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Co.Te.De. | KQnabi | Palestine | 699 |
+| 17 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Co.Te.De. | KQnabi | Palestine | 718 |
+| 18 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Birzeit University |  | Palestine | 717 |
+| 19 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti |  |  | Palestine | 710 |
 | 20 | [yaseen-asaliya](https://github.com/yaseen-asaliya) | Yaseen Asaliya |  |  | Palestine | 643 |

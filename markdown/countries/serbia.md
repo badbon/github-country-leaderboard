@@ -1,6 +1,6 @@
 # Serbia
 
-Indexed users: 10,670
+Indexed users: 10,671
 
 | Leaderboard | Link |
 |---|---|
@@ -66,21 +66,21 @@ Indexed users: 10,670
 | 2 | [m-jovanovic](https://github.com/m-jovanovic) | Milan Jovanović | Niš, Serbia | 5,076 |
 | 3 | [stevdza-san](https://github.com/stevdza-san) | Stefan Jovanovic | Serbia | 3,149 |
 | 4 | [milanm](https://github.com/milanm) | Dr Milan Milanović | Belgrade, Serbia | 2,799 |
-| 5 | [ClusterM](https://github.com/ClusterM) | Alexey Cluster | Serbia | 1,815 |
-| 6 | [stefvndev](https://github.com/stefvndev) | Stefan | Serbia | 1,369 |
-| 7 | [kerryjanes](https://github.com/kerryjanes) | Kerry | Belgrade | 1,104 |
-| 8 | [bobangajicsm](https://github.com/bobangajicsm) | Slobodan Gajic | Serbia | 1,001 |
-| 9 | [mohamed-taman](https://github.com/mohamed-taman) | Mohamed Taman | Belgrade, Serbia | 921 |
-| 10 | [StefanTheCode](https://github.com/StefanTheCode) | Stefan Đokić | Nis, Serbia | 761 |
-| 11 | [zoran-horvat](https://github.com/zoran-horvat) | Zoran Horvat | Belgrade | 733 |
-| 12 | [vdumitraskovic](https://github.com/vdumitraskovic) | Vladimir Dumitraskovic |  Novi Sad, Serbia | 719 |
-| 13 | [Anonymous6598](https://github.com/Anonymous6598) | Viktor Ilić | Belgrade, Serbia | 679 |
-| 14 | [slevithan](https://github.com/slevithan) | Steven Levithan | Belgrade, Serbia | 668 |
-| 15 | [tacic](https://github.com/tacic) | Marko Tacic | Belgrade, Serbia | 573 |
-| 16 | [SireenWadi](https://github.com/SireenWadi) | Sireen Wadi | serbia | 508 |
-| 17 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 480 |
-| 18 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
-| 19 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
-| 20 | [arodic](https://github.com/arodic) | Aki Rodić | Belgrade | 434 |
+| 5 | [ancaferro](https://github.com/ancaferro) | Anca Kovach | Beograd, Srbija | 2,718 |
+| 6 | [ClusterM](https://github.com/ClusterM) | Alexey Cluster | Serbia | 1,815 |
+| 7 | [stefvndev](https://github.com/stefvndev) | Stefan | Serbia | 1,369 |
+| 8 | [kerryjanes](https://github.com/kerryjanes) | Kerry | Belgrade | 1,104 |
+| 9 | [bobangajicsm](https://github.com/bobangajicsm) | Slobodan Gajic | Serbia | 1,001 |
+| 10 | [mohamed-taman](https://github.com/mohamed-taman) | Mohamed Taman | Belgrade, Serbia | 921 |
+| 11 | [StefanTheCode](https://github.com/StefanTheCode) | Stefan Đokić | Nis, Serbia | 761 |
+| 12 | [zoran-horvat](https://github.com/zoran-horvat) | Zoran Horvat | Belgrade | 733 |
+| 13 | [vdumitraskovic](https://github.com/vdumitraskovic) | Vladimir Dumitraskovic |  Novi Sad, Serbia | 719 |
+| 14 | [Anonymous6598](https://github.com/Anonymous6598) | Viktor Ilić | Belgrade, Serbia | 679 |
+| 15 | [slevithan](https://github.com/slevithan) | Steven Levithan | Belgrade, Serbia | 668 |
+| 16 | [tacic](https://github.com/tacic) | Marko Tacic | Belgrade, Serbia | 573 |
+| 17 | [SireenWadi](https://github.com/SireenWadi) | Sireen Wadi | serbia | 508 |
+| 18 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 480 |
+| 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
+| 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-09T17:52:20.999Z
+Generated: 2026-10-09T18:43:09.033Z

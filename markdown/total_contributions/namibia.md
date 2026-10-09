@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-09T17:42:11.818Z
+Generated: 2026-10-09T18:34:19.630Z
 
 Users: 476
 
@@ -22,7 +22,7 @@ Users: 476
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2267 |
 | 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2242 |
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2194 |
-| 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 1926 |
+| 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 1976 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1897 |
 | 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | @ColabNam  |  | Namibia  | 1873 |
 | 20 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 1764 |

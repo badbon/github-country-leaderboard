@@ -29,9 +29,9 @@ Indexed users: 895
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 4,940 |
 | 16 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Montenegro | 4,714 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,614 |
-| 18 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,424 |
-| 19 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,390 |
-| 20 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 4,225 |
+| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,424 |
+| 19 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,424 |
+| 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,390 |
 
 ## Public Contributions
 
@@ -53,10 +53,10 @@ Indexed users: 895
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,631 |
 | 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,491 |
 | 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,371 |
-| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,170 |
-| 18 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
-| 19 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
-| 20 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
+| 17 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,233 |
+| 18 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,170 |
+| 19 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
+| 20 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
 
 ## Followers
 
@@ -74,7 +74,7 @@ Indexed users: 895
 | 10 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 140 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 138 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Tivat, Montenegro | 132 |
-| 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 129 |
+| 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 130 |
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 128 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 125 |
 | 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 108 |
@@ -83,4 +83,4 @@ Indexed users: 895
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-09T17:41:22.253Z
+Generated: 2026-10-09T18:33:38.905Z

@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-09T17:42:11.818Z
+Generated: 2026-10-09T18:34:19.630Z
 
 Users: 476
 
@@ -23,6 +23,6 @@ Users: 476
 | 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
 | 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 254 |
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
-| 18 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 245 |
-| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
+| 18 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
+| 19 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 243 |
 | 20 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 233 |

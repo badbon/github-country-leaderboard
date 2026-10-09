@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-09T17:41:22.253Z
+Generated: 2026-10-09T18:33:38.905Z
 
 Users: 895
 
@@ -23,6 +23,6 @@ Users: 895
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4940 |
 | 16 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Kayama D.O.O. |  | Montenegro | 4714 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4614 |
-| 18 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4424 |
-| 19 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH |  |  | Montenegro | 4390 |
-| 20 | [SashaRX](https://github.com/SashaRX) | SashaRX | none |  | Montenegro | 4225 |
+| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 4424 |
+| 19 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4424 |
+| 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH |  |  | Montenegro | 4390 |

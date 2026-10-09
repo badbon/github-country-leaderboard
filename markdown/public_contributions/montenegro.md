@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-09T17:41:22.253Z
+Generated: 2026-10-09T18:33:38.905Z
 
 Users: 895
 
@@ -22,7 +22,7 @@ Users: 895
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1631 |
 | 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1491 |
 | 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1371 |
-| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1170 |
-| 18 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 922 |
-| 19 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |
-| 20 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 809 |
+| 17 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1233 |
+| 18 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1170 |
+| 19 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 922 |
+| 20 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |

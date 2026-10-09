@@ -1,6 +1,6 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-09T17:39:03.379Z
+Generated: 2026-10-09T18:31:26.041Z
 
 Users: 2202
 
@@ -12,8 +12,8 @@ Users: 2202
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 4387 |
 | 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | University of Luxembourg |  | Luxembourg | 4004 |
 | 6 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto |  |  | Luxembourg | 3960 |
-| 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 3707 |
-| 8 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Sourcentis |  | Luxembourg | 3639 |
+| 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Sourcentis |  | Luxembourg | 3817 |
+| 8 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 3707 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL |  |  | Luxembourg | 3193 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex |  |  | Luxembourg | 2255 |
 | 11 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 1936 |

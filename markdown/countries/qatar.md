@@ -14,9 +14,9 @@ Indexed users: 1,074
 |---:|---|---|---|---:|
 | 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 21,558 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,302 |
-| 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 8,622 |
-| 4 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab | Doha, Qatar | 8,536 |
-| 5 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said | Qatar | 6,715 |
+| 3 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said | Qatar | 8,943 |
+| 4 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 8,622 |
+| 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab | Doha, Qatar | 8,536 |
 | 6 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 6,313 |
 | 7 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb | Doha, Qatar | 6,093 |
 | 8 | [mohammed-ibenayad](https://github.com/mohammed-ibenayad) | Mohammed Iben Ayad | QATAR | 6,010 |
@@ -83,4 +83,4 @@ Indexed users: 1,074
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 | 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 89 |
 
-Generated: 2026-10-09T17:57:09.971Z
+Generated: 2026-10-09T18:40:57.399Z

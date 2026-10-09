@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-09T17:57:09.971Z
+Generated: 2026-10-09T18:40:57.399Z
 
 Users: 1074
 
@@ -8,9 +8,9 @@ Users: 1074
 |---:|---|---|---|---|---|---:|
 | 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 21558 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour |  |  | Qatar | 14302 |
-| 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 8622 |
-| 4 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab |  | kin230 | Doha, Qatar | 8536 |
-| 5 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said |  |  | Qatar | 6715 |
+| 3 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said |  |  | Qatar | 8943 |
+| 4 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 8622 |
+| 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab |  | kin230 | Doha, Qatar | 8536 |
 | 6 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6313 |
 | 7 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 6093 |
 | 8 | [mohammed-ibenayad](https://github.com/mohammed-ibenayad) | Mohammed Iben Ayad | qadrin.com |  | QATAR | 6010 |

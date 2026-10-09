@@ -43,8 +43,8 @@ Indexed users: 2,202
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 4,387 |
 | 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,004 |
 | 6 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,960 |
-| 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
-| 8 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,639 |
+| 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,817 |
+| 8 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
 | 11 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
@@ -76,11 +76,11 @@ Indexed users: 2,202
 | 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK | Luxembourg | 277 |
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch | Luxembourg | 275 |
 | 14 | [Moado](https://github.com/Moado) | Moad HANI  | Luxembourg | 268 |
-| 15 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | Luxembourg | 254 |
-| 16 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 251 |
+| 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 256 |
+| 16 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | Luxembourg | 254 |
 | 17 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 225 |
 | 18 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 217 |
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-09T17:39:03.379Z
+Generated: 2026-10-09T18:31:26.041Z
