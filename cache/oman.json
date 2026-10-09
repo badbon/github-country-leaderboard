@@ -7051,8 +7051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 22,
-    "publicContributions": 16,
+    "privateContributions": 29,
+    "publicContributions": 18,
     "createdAt": "2020-10-06T13:51:37Z"
   },
   {
@@ -7064,7 +7064,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 239,
+    "publicContributions": 258,
     "createdAt": "2020-06-03T08:35:07Z"
   },
   {
@@ -7074,9 +7074,9 @@
     "location": "Oman",
     "company": "",
     "twitterUsername": "mobin_ux",
-    "followers": 10,
-    "privateContributions": 52,
-    "publicContributions": 62,
+    "followers": 12,
+    "privateContributions": 191,
+    "publicContributions": 89,
     "createdAt": "2020-09-15T12:50:20Z"
   },
   {
@@ -7099,8 +7099,8 @@
     "company": "@ESBAAR-AI",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 67,
-    "publicContributions": 59,
+    "privateContributions": 70,
+    "publicContributions": 17,
     "createdAt": "2020-04-30T13:38:10Z"
   },
   {
@@ -7110,9 +7110,9 @@
     "location": "Oman",
     "company": "Rihal",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 3905,
-    "publicContributions": 4792,
+    "followers": 12,
+    "privateContributions": 6471,
+    "publicContributions": 4881,
     "createdAt": "2020-11-06T10:47:05Z"
   },
   {
@@ -7124,7 +7124,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2020-05-09T08:10:52Z"
   },
   {
@@ -7135,7 +7135,7 @@
     "company": "Mu Made It",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 354,
+    "privateContributions": 474,
     "publicContributions": 0,
     "createdAt": "2020-12-09T20:05:22Z"
   },
@@ -7147,8 +7147,8 @@
     "company": "Codeline",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 566,
+    "privateContributions": 5406,
+    "publicContributions": 580,
     "createdAt": "2020-01-20T12:22:53Z"
   },
   {
@@ -7158,31 +7158,19 @@
     "location": "Oman",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 2276,
-    "publicContributions": 408,
+    "followers": 8,
+    "privateContributions": 2769,
+    "publicContributions": 443,
     "createdAt": "2020-06-01T08:49:47Z"
-  },
-  {
-    "login": "Mehrdad-Mohtady",
-    "name": "Mehrdad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64666641?s=72&u=8d01012d0410dc82012637bfef7f5cb1884dc908&v=4",
-    "location": "Oman, Muscat ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2020-05-01T22:18:32Z"
   },
   {
     "login": "omdezo",
     "name": "Omar Al-Kindi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61612974?s=72&u=fc8df1059e25a857d34a83a6317f9754b3917ca2&v=4",
     "location": "Oman / Muscat",
-    "company": "@rihal",
+    "company": "@rihal-om",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 347,
     "createdAt": "2020-02-29T06:03:05Z"
@@ -7195,8 +7183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 56,
-    "publicContributions": 6,
+    "privateContributions": 89,
+    "publicContributions": 5,
     "createdAt": "2020-08-17T15:07:42Z"
   },
   {
@@ -7219,8 +7207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 484,
-    "publicContributions": 31,
+    "privateContributions": 491,
+    "publicContributions": 21,
     "createdAt": "2020-09-20T09:06:08Z"
   },
   {
@@ -7232,7 +7220,7 @@
     "twitterUsername": "goldenboy235_",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-09-30T05:52:47Z"
   },
   {
@@ -7242,9 +7230,9 @@
     "location": "Oman",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2019-12-29T05:21:17Z"
   },
   {
@@ -7255,7 +7243,7 @@
     "company": "@zumr-om",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1927,
+    "privateContributions": 2510,
     "publicContributions": 0,
     "createdAt": "2020-10-03T19:34:04Z"
   },

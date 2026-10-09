@@ -6991,33 +6991,21 @@
     "company": "@Brightspace",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 318,
+    "privateContributions": 167,
     "publicContributions": 0,
     "createdAt": "2025-04-07T19:50:36Z"
   },
   {
     "login": "murzik7348",
-    "name": "DMYTRO MURZA",
+    "name": "Murza Dmytro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/200674706?s=72&u=1a710d6b30c8241b230014c80a2455a53957d448&v=4",
     "location": "Ukraine",
     "company": "none",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 72,
-    "publicContributions": 104,
+    "followers": 2,
+    "privateContributions": 113,
+    "publicContributions": 109,
     "createdAt": "2025-02-24T20:33:54Z"
-  },
-  {
-    "login": "Andrii4424",
-    "name": "Andrii",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206687292?s=72&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 357,
-    "createdAt": "2025-04-08T09:32:51Z"
   },
   {
     "login": "m-pomerko",
@@ -7040,7 +7028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 34,
     "createdAt": "2025-08-03T13:50:38Z"
   },
   {
@@ -7056,18 +7044,6 @@
     "createdAt": "2025-12-21T12:27:02Z"
   },
   {
-    "login": "b69707215-netizen",
-    "name": "Kenady",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/226603225?s=72&u=ae6519a36793e01045de0ae3f0dc839c24552011&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2887,
-    "publicContributions": 2,
-    "createdAt": "2025-08-14T21:01:17Z"
-  },
-  {
     "login": "oleh-dutchenko",
     "name": "Oleh Dutchenko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/225354646?s=72&u=9d690df3fe7985f5d13738f04a8e345e481dd8f7&v=4",
@@ -7075,8 +7051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2304,
-    "publicContributions": 1,
+    "privateContributions": 2053,
+    "publicContributions": 0,
     "createdAt": "2025-08-08T08:40:39Z"
   },
   {
@@ -7112,7 +7088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 49,
     "createdAt": "2025-03-21T20:28:53Z"
   },
   {
@@ -7142,13 +7118,13 @@
   {
     "login": "DEV-CMD-dev",
     "name": "Anton Yurkovets",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197484190?s=72&u=a049db36f4348acf3d7a525b2dc250ad3da4cfc4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197484190?s=72&u=899d7ee5df540dcdd2af8ed38e273920e1f9fef8&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 327,
+    "publicContributions": 382,
     "createdAt": "2025-02-02T11:47:53Z"
   },
   {
@@ -7160,7 +7136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 55,
     "createdAt": "2025-02-23T17:45:02Z"
   },
   {
@@ -7188,39 +7164,15 @@
     "createdAt": "2025-01-07T12:01:19Z"
   },
   {
-    "login": "vovalantrat",
-    "name": "Volodymyr Lantrat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235869718?s=72&u=7c175823b1bc8896a46fd7533ddeb112b0426e0c&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 344,
-    "createdAt": "2025-10-03T10:44:12Z"
-  },
-  {
-    "login": "kisose151",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/244769709?s=72&u=23f1ec630df31066300f1f4a195347ce5979d20b&v=4",
-    "location": "Ukraine, Crimea",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-11-18T15:46:09Z"
-  },
-  {
     "login": "Wiza-gg",
     "name": "Wizard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230543570?s=72&u=1ea5a849ee4bd0bd176bd871c425a9a991baa50f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230543570?s=72&u=96f693f06132cd5cffffa840b77b0156d0aba4f3&v=4",
     "location": "Ukraine",
-    "company": "",
+    "company": "Experience",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 14,
     "createdAt": "2025-09-05T10:39:55Z"
   },
   {
@@ -573286,5 +573238,101 @@
     "privateContributions": 269,
     "publicContributions": 32,
     "createdAt": "2023-07-20T11:20:35Z"
+  },
+  {
+    "login": "SerhiiiBaranov",
+    "name": "Serhii Baranov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294242562?s=72&u=60e02520ee683624583678e8ba43b39b2e6a368d&v=4",
+    "location": "Ukraine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-06-16T16:02:13Z"
+  },
+  {
+    "login": "andriilevchenkotech",
+    "name": "Andrii Levchenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294604795?s=72&u=aee9d5d6aed95a3c712b33feea78e0a622172100&v=4",
+    "location": "Lviv, Ukraine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T18:49:10Z"
+  },
+  {
+    "login": "IIT43331",
+    "name": "Volodymyr Tiutiunnyk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292108729?s=72&u=71999c449bdf593a4351c2f7a419360efc302ffe&v=4",
+    "location": "Ukraine, Kharkiv",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-09T12:27:22Z"
+  },
+  {
+    "login": "yulia-kobzieva",
+    "name": "Yulia Kobzieva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291572945?s=72&u=32656cbd4f1ddf4a1ecd6b1de7971e98c1362b18&v=4",
+    "location": "Kharkiv, Ukraine",
+    "company": "GoIT — Data Analytics Student",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-06-07T17:18:43Z"
+  },
+  {
+    "login": "Kostsrkv",
+    "name": "Kostiantyn Serikov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295905821?s=72&v=4",
+    "location": "Kyiv, Ukraine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 68,
+    "createdAt": "2026-06-22T15:47:32Z"
+  },
+  {
+    "login": "ashytel",
+    "name": "Anton Shytel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293696919?s=72&u=dd2f07c6ac169c14cc26416911ab57212daed18e&v=4",
+    "location": "Kyiv, Ukraine",
+    "company": "NDA",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-15T00:11:32Z"
+  },
+  {
+    "login": "serhiiburdeyn",
+    "name": "Serhii Burdeyn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296144886?s=72&v=4",
+    "location": "Vinnytsia, Ukraine",
+    "company": "",
+    "twitterUsername": "serhiiburdeyn",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-23T11:19:27Z"
+  },
+  {
+    "login": "not-aoki",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292626263?s=72&u=3d3878c1447521978eddeb2ab98b25cdc5234aca&v=4",
+    "location": "Ukraine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-11T01:21:06Z"
   }
 ]

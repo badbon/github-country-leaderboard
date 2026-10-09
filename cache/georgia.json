@@ -7404,18 +7404,6 @@
     "createdAt": "2023-02-27T20:44:27Z"
   },
   {
-    "login": "grigoryan-m",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121940274?s=72&u=039b4145247d6b0ad9804b83c3b0ccead4bfd246&v=4",
-    "location": "Tbilisi, Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 489,
-    "publicContributions": 131,
-    "createdAt": "2023-01-04T10:36:42Z"
-  },
-  {
     "login": "Bujmir",
     "name": "Буймир Билецкий",
     "avatarUrl": "https://avatars.githubusercontent.com/u/135434471?s=72&u=b1d4b486b5d824e8d6bd64544f8c2fd50c91e07a&v=4",
@@ -7448,7 +7436,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2023-01-26T17:50:56Z"
   },
   {
@@ -7470,9 +7458,9 @@
     "location": "Georgia/Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 408,
+    "publicContributions": 450,
     "createdAt": "2023-06-14T07:26:18Z"
   },
   {
@@ -7484,7 +7472,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 32,
     "createdAt": "2023-01-24T16:56:33Z"
   },
   {
@@ -7531,7 +7519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3,
+    "privateContributions": 1,
     "publicContributions": 159,
     "createdAt": "2023-05-01T18:41:53Z"
   },
@@ -7542,7 +7530,7 @@
     "location": "Athens, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2023-08-21T15:45:21Z"
@@ -7555,7 +7543,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1495,
+    "privateContributions": 1506,
     "publicContributions": 0,
     "createdAt": "2023-06-30T09:48:20Z"
   },
@@ -7590,7 +7578,7 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 30,
     "createdAt": "2023-10-18T11:22:48Z"

@@ -6944,7 +6944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2024-08-12T23:40:29Z"
   },
   {
@@ -6980,7 +6980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-07-02T11:10:12Z"
   },
   {
@@ -7002,7 +7002,7 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 387,
     "publicContributions": 35,
     "createdAt": "2024-03-18T09:32:25Z"
@@ -7028,19 +7028,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 848,
+    "publicContributions": 784,
     "createdAt": "2024-05-27T00:13:36Z"
   },
   {
     "login": "Pat-Gray",
     "name": "Patrick Gray",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176243619?s=72&u=079547dcad38423df52aa9becf778c7ad416e805&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176243619?s=72&u=df7697dbd06015e6e62ee77fa440e05d694e09a1&v=4",
     "location": "Wanaka, New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-07-21T20:29:03Z"
   },
   {
@@ -7052,7 +7052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 239,
     "createdAt": "2024-04-19T00:10:09Z"
   },
   {
@@ -7064,7 +7064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 468,
     "createdAt": "2024-05-27T23:24:10Z"
   },
   {
@@ -7074,9 +7074,9 @@
     "location": "New Plymouth, New Zealand",
     "company": "shayg.studio",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 59,
     "createdAt": "2020-08-21T23:24:31Z"
   },
   {
@@ -7088,7 +7088,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 51,
     "createdAt": "2024-02-21T19:38:57Z"
   },
   {
@@ -7098,9 +7098,9 @@
     "location": "Wellington",
     "company": "Victoria University of Wellington",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2024-02-11T11:11:37Z"
   },
   {
@@ -7110,9 +7110,9 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 6,
     "createdAt": "2024-09-17T12:06:05Z"
   },
   {
@@ -7135,8 +7135,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5,
-    "publicContributions": 41,
+    "privateContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2024-01-26T19:52:50Z"
   },
   {

@@ -7100,7 +7100,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2014-04-17T15:09:49Z"
   },
   {
@@ -7119,11 +7119,11 @@
     "login": "jdahlborg",
     "name": "Johan Dahlborg",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6685034?s=72&u=b5f56222e91e8988d78f85bd764f7d6b9cdc0aa7&v=4",
-    "location": "Pereybere, Mauritius",
+    "location": "Grand Baie, Mauritius",
     "company": "Devengo",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 84,
+    "followers": 3,
+    "privateContributions": 934,
     "publicContributions": 79,
     "createdAt": "2014-02-14T19:13:10Z"
   },
@@ -7159,7 +7159,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 480,
+    "privateContributions": 507,
     "publicContributions": 4,
     "createdAt": "2014-06-23T19:38:25Z"
   },
@@ -7195,8 +7195,8 @@
     "company": "@TotalEnergies",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1576,
-    "publicContributions": 14,
+    "privateContributions": 1318,
+    "publicContributions": 16,
     "createdAt": "2014-03-02T08:36:49Z"
   },
   {
@@ -7208,18 +7208,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2014-11-18T00:57:39Z"
   },
   {
     "login": "juliolegrec",
-    "name": "Julio Legrec",
+    "name": "Ziyo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8224816?s=72&u=8c6f5a802b77f44449381c052f808ce9118f02bc&v=4",
     "location": "Mauritius",
-    "company": "RAPP Indian Ocean",
+    "company": "",
     "twitterUsername": "juliolegrec",
     "followers": 1,
-    "privateContributions": 332,
+    "privateContributions": 462,
     "publicContributions": 1,
     "createdAt": "2014-07-21T13:58:34Z"
   },
@@ -7268,7 +7268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 34,
     "createdAt": "2014-10-08T04:07:02Z"
   },
   {
@@ -7298,7 +7298,7 @@
   {
     "login": "neerbappoo",
     "name": "Neer Bappoo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8381087?s=72&u=6675515fe48c888b8d8134f9139ec51786e1449d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8381087?s=72&u=a5fbcb9a644aaf5b412d7b157d7b60acc4453a12&v=4",
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
@@ -7314,8 +7314,8 @@
     "location": "Mauritius",
     "company": "@funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices",
     "twitterUsername": "MariusRabenariv",
-    "followers": 80,
-    "privateContributions": 3,
+    "followers": 84,
+    "privateContributions": 4,
     "publicContributions": 1,
     "createdAt": "2013-01-06T14:36:19Z"
   },

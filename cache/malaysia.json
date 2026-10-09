@@ -7076,7 +7076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-08-16T15:30:02Z"
   },
   {
@@ -7088,19 +7088,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 96,
     "createdAt": "2025-09-27T09:48:58Z"
   },
   {
     "login": "Yuitox503",
     "name": "Ferdinand Taslim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193913269?s=72&u=a05c0561e8ec511047b59c3142f037aace7b1fbc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193913269?s=72&u=860dc918d2d76ea801c8225572eb11dd1b1738d7&v=4",
     "location": "Kuala Lumpur",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 23,
     "createdAt": "2025-01-06T13:36:56Z"
   },
   {
@@ -7122,22 +7122,10 @@
     "location": "Kuala Lumpur",
     "company": "@afferens ",
     "twitterUsername": "startupfoundr_",
-    "followers": 1,
-    "privateContributions": 432,
-    "publicContributions": 26,
+    "followers": 2,
+    "privateContributions": 1069,
+    "publicContributions": 218,
     "createdAt": "2025-10-11T08:41:06Z"
-  },
-  {
-    "login": "vinxieezihuang",
-    "name": "Vinxiee",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203428575?s=72&u=534fc59c4d97c48ea9c5823b337e63e82f0337c3&v=4",
-    "location": "Kuala Lumpur",
-    "company": "@bytedance",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 62,
-    "createdAt": "2025-03-15T13:51:09Z"
   },
   {
     "login": "chewyiyu0225",
@@ -7172,31 +7160,31 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-08-13T08:28:03Z"
   },
   {
     "login": "AnuarRazii",
-    "name": "Anuar Mohd Khai Razi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182597573?s=72&u=6ef054b403562bd802ac58e3e90e583aff6e3d9a&v=4",
+    "name": "Anuar Razii",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182597573?s=72&v=4",
     "location": "Malaysia",
     "company": "@ARDoop ",
     "twitterUsername": "",
     "followers": 230,
     "privateContributions": 5,
-    "publicContributions": 187,
+    "publicContributions": 182,
     "createdAt": "2024-09-24T05:30:07Z"
   },
   {
     "login": "Gajeee",
     "name": "Gajenes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155935914?s=72&u=e66f297554e78a361c51269519634682681c083c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155935914?s=72&u=3b3f9abfaa9d6f642d15bbee946781e7822ab326&v=4",
     "location": "Malaysia",
     "company": "UNITEN",
     "twitterUsername": "",
     "followers": 119,
-    "privateContributions": 240,
-    "publicContributions": 302,
+    "privateContributions": 293,
+    "publicContributions": 353,
     "createdAt": "2024-01-08T03:40:36Z"
   },
   {
@@ -7206,7 +7194,7 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 75,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-09-15T18:26:22Z"
@@ -7218,7 +7206,7 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 65,
+    "followers": 62,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-06-28T16:59:49Z"
@@ -7237,14 +7225,14 @@
   },
   {
     "login": "naimkatiman",
-    "name": "Naim Katiman",
+    "name": "Naim",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157269711?s=72&u=eab0c328c27d494e3815060cd648dfb9dc492df8&v=4",
     "location": "Malaysia",
     "company": "RM Investment Bank Ltd",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 10286,
-    "publicContributions": 2179,
+    "followers": 32,
+    "privateContributions": 19799,
+    "publicContributions": 2287,
     "createdAt": "2024-01-21T06:13:42Z"
   },
   {
@@ -7254,9 +7242,9 @@
     "location": "Kuala Lumpur, Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 529,
-    "publicContributions": 185,
+    "followers": 31,
+    "privateContributions": 420,
+    "publicContributions": 143,
     "createdAt": "2024-03-02T18:26:15Z"
   },
   {
@@ -7278,9 +7266,9 @@
     "location": "Kota Samarahan, Malaysia.",
     "company": "University of Malaysia, Sarawak.",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 88,
     "createdAt": "2024-03-06T09:10:55Z"
   },
   {

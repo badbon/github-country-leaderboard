@@ -6980,7 +6980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 19,
     "createdAt": "2024-02-28T23:33:40Z"
   },
   {
@@ -6992,7 +6992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2024-02-06T20:52:35Z"
   },
   {
@@ -7004,7 +7004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 21,
     "createdAt": "2024-11-22T22:10:23Z"
   },
   {
@@ -7026,9 +7026,9 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2024-09-30T02:13:39Z"
   },
   {
@@ -7040,7 +7040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 105,
     "createdAt": "2024-08-01T18:17:06Z"
   },
   {
@@ -7104,18 +7104,6 @@
     "createdAt": "2024-08-07T20:55:06Z"
   },
   {
-    "login": "Sethprie",
-    "name": "Sergio Prieto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170885756?s=72&u=1b151a23f735e62047582e8cdc45b0acb439a3ae&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 401,
-    "publicContributions": 171,
-    "createdAt": "2024-05-26T18:23:26Z"
-  },
-  {
     "login": "Roses04",
     "name": "Roses04",
     "avatarUrl": "https://avatars.githubusercontent.com/u/170841419?s=72&u=f7032beaa0c58922775962273fa1d0024bd94941&v=4",
@@ -7124,7 +7112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 91,
     "createdAt": "2024-05-26T01:59:41Z"
   },
   {
@@ -7148,7 +7136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 22,
     "createdAt": "2024-06-10T13:45:47Z"
   },
   {
@@ -7166,13 +7154,13 @@
   {
     "login": "ITZ-NANO21-MC",
     "name": "Nano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178744712?s=72&u=cbc52eafe90d566378767a95ae4777ec807528bb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178744712?s=72&u=f816c06566fbddd36d0e4ae660d9abe2bbcb794e&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 313,
+    "publicContributions": 1,
     "createdAt": "2024-08-18T22:53:15Z"
   },
   {

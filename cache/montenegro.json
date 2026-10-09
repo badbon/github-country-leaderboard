@@ -7064,7 +7064,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2016-10-14T15:18:22Z"
   },
   {
@@ -7074,14 +7074,14 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2016-03-30T08:27:43Z"
   },
   {
     "login": "CaballerosTeam",
-    "name": "Sergey Yurzin",
+    "name": "Sergei Iurzin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20489210?s=72&u=96a139a519355f8e205d80ab8c50e4859b92a9c2&v=4",
     "location": "Montenegro",
     "company": "",
@@ -7111,8 +7111,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 70,
-    "publicContributions": 27,
+    "privateContributions": 79,
+    "publicContributions": 25,
     "createdAt": "2016-03-12T03:34:29Z"
   },
   {
@@ -7123,8 +7123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 329,
-    "publicContributions": 1,
+    "privateContributions": 333,
+    "publicContributions": 0,
     "createdAt": "2016-04-07T15:38:24Z"
   },
   {
@@ -7146,8 +7146,8 @@
     "location": "Podgorica",
     "company": "",
     "twitterUsername": "antonnikprelaj0",
-    "followers": 14,
-    "privateContributions": 38,
+    "followers": 13,
+    "privateContributions": 30,
     "publicContributions": 0,
     "createdAt": "2016-11-25T19:44:54Z"
   },
@@ -7159,7 +7159,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 81,
+    "privateContributions": 45,
     "publicContributions": 0,
     "createdAt": "2016-03-02T15:54:53Z"
   },
@@ -7171,8 +7171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 403,
-    "publicContributions": 4,
+    "privateContributions": 382,
+    "publicContributions": 61,
     "createdAt": "2016-12-10T18:15:56Z"
   },
   {
@@ -7183,7 +7183,7 @@
     "company": "Ooblee",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1064,
+    "privateContributions": 1100,
     "publicContributions": 0,
     "createdAt": "2016-03-27T14:35:34Z"
   },
@@ -7195,8 +7195,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2,
-    "publicContributions": 12,
+    "privateContributions": 10,
+    "publicContributions": 6,
     "createdAt": "2016-12-09T07:57:34Z"
   },
   {
@@ -7207,8 +7207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 14,
-    "publicContributions": 29,
+    "privateContributions": 6,
+    "publicContributions": 30,
     "createdAt": "2016-09-15T13:04:24Z"
   },
   {
@@ -7219,7 +7219,7 @@
     "company": "Vemeton",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1032,
+    "privateContributions": 984,
     "publicContributions": 1,
     "createdAt": "2016-03-27T12:53:37Z"
   },
@@ -7244,7 +7244,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2015-11-24T15:32:49Z"
   },
   {
@@ -7254,9 +7254,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 100,
+    "followers": 101,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 8,
     "createdAt": "2015-07-06T17:10:41Z"
   },
   {
@@ -7266,8 +7266,8 @@
     "location": "Montenegro",
     "company": "Founder @netboxify",
     "twitterUsername": "",
-    "followers": 86,
-    "privateContributions": 761,
+    "followers": 89,
+    "privateContributions": 753,
     "publicContributions": 0,
     "createdAt": "2015-12-11T19:10:13Z"
   },

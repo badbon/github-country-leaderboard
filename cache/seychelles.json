@@ -7075,8 +7075,8 @@
     "company": "University of Victoria",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2019-01-15T20:48:48Z"
   },
   {
@@ -7087,7 +7087,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1092,
+    "privateContributions": 1192,
     "publicContributions": 0,
     "createdAt": "2019-01-06T22:54:34Z"
   },
@@ -7098,9 +7098,9 @@
     "location": "Victoria de Durango",
     "company": "lomi",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 18,
     "createdAt": "2019-11-15T22:58:41Z"
   },
   {
@@ -7110,9 +7110,9 @@
     "location": "Victoria, BC",
     "company": "@bcgov",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 29,
-    "publicContributions": 2,
+    "followers": 4,
+    "privateContributions": 1,
+    "publicContributions": 1,
     "createdAt": "2019-08-29T23:02:12Z"
   },
   {
@@ -7135,8 +7135,8 @@
     "company": "VISPA - UVIC",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 27,
-    "publicContributions": 150,
+    "privateContributions": 12,
+    "publicContributions": 136,
     "createdAt": "2019-03-05T17:43:01Z"
   },
   {
@@ -7148,7 +7148,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 23,
     "createdAt": "2019-12-14T05:39:25Z"
   },
   {
@@ -7160,7 +7160,7 @@
     "twitterUsername": "ShiroKatake",
     "followers": 3,
     "privateContributions": 13,
-    "publicContributions": 46,
+    "publicContributions": 45,
     "createdAt": "2019-08-29T03:38:29Z"
   },
   {
@@ -7183,7 +7183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 85,
+    "privateContributions": 430,
     "publicContributions": 12,
     "createdAt": "2019-06-30T06:24:49Z"
   },
@@ -7194,7 +7194,7 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 5,
     "publicContributions": 14,
     "createdAt": "2019-03-20T17:27:35Z"
@@ -7268,7 +7268,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2019-03-02T06:11:03Z"
   },
   {
@@ -7279,8 +7279,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 80,
-    "publicContributions": 14,
+    "privateContributions": 54,
+    "publicContributions": 10,
     "createdAt": "2019-05-06T20:15:02Z"
   },
   {

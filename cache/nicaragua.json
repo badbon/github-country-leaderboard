@@ -7183,7 +7183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 12,
+    "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-03-16T03:27:27Z"
   },
@@ -7196,7 +7196,7 @@
     "twitterUsername": "JohnHernCode",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-08-31T22:53:29Z"
   },
   {
@@ -7208,7 +7208,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 10,
-    "publicContributions": 40,
+    "publicContributions": 35,
     "createdAt": "2020-09-07T18:11:21Z"
   },
   {
@@ -7230,7 +7230,7 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2020-10-28T00:42:06Z"
@@ -7242,9 +7242,9 @@
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 452,
-    "publicContributions": 248,
+    "followers": 16,
+    "privateContributions": 297,
+    "publicContributions": 227,
     "createdAt": "2020-08-19T17:37:52Z"
   },
   {
@@ -7267,7 +7267,7 @@
     "company": "@CSWNI",
     "twitterUsername": "cperezni",
     "followers": 11,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-03-22T17:54:48Z"
   },
@@ -7279,8 +7279,8 @@
     "company": "",
     "twitterUsername": "JsMarenco",
     "followers": 11,
-    "privateContributions": 1210,
-    "publicContributions": 35,
+    "privateContributions": 1362,
+    "publicContributions": 65,
     "createdAt": "2020-05-12T06:51:54Z"
   },
   {
@@ -7303,8 +7303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 2940,
-    "publicContributions": 14,
+    "privateContributions": 3324,
+    "publicContributions": 1,
     "createdAt": "2020-11-27T06:58:06Z"
   },
   {
@@ -7336,11 +7336,11 @@
     "name": "Toni",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62197771?s=72&u=527fa430122381505db41b1bc736e37b119397a3&v=4",
     "location": "Nicaragua",
-    "company": "",
+    "company": "GETechnologies",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 3,
-    "publicContributions": 11,
+    "privateContributions": 0,
+    "publicContributions": 18,
     "createdAt": "2020-03-15T05:59:45Z"
   },
   {
@@ -7350,9 +7350,9 @@
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 506,
-    "publicContributions": 1,
+    "followers": 9,
+    "privateContributions": 482,
+    "publicContributions": 0,
     "createdAt": "2020-05-18T05:56:15Z"
   },
   {
@@ -7363,8 +7363,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1021,
-    "publicContributions": 4,
+    "privateContributions": 1089,
+    "publicContributions": 1,
     "createdAt": "2020-06-16T05:22:01Z"
   },
   {
@@ -7374,21 +7374,21 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "dylangrijalva",
-    "followers": 7,
-    "privateContributions": 351,
+    "followers": 10,
+    "privateContributions": 567,
     "publicContributions": 35,
     "createdAt": "2020-10-08T20:24:36Z"
   },
   {
     "login": "aynatcm",
-    "name": "aynatcm",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66455084?s=72&u=fe5357c8ec43631380fbafc94e06099adc59ddc3&v=4",
+    "name": "Aynat Cortez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66455084?s=72&u=0f1ad10672d3628f3ef6e694d84153fcc66338fc&v=4",
     "location": "Managua, Nicaragua",
     "company": "Crafted Code Hub",
     "twitterUsername": "aynatcm",
     "followers": 7,
-    "privateContributions": 257,
-    "publicContributions": 34,
+    "privateContributions": 229,
+    "publicContributions": 36,
     "createdAt": "2020-06-05T03:28:01Z"
   },
   {
@@ -7412,7 +7412,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2020-08-02T05:27:16Z"
   },
   {

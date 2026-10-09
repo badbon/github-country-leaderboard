@@ -7326,22 +7326,10 @@
     "location": "East Flanders, Belgium",
     "company": "Jules Development",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 21,
     "createdAt": "2024-09-05T19:16:39Z"
-  },
-  {
-    "login": "felixlaga",
-    "name": "Felix Laga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178299090?s=72&u=9d126e67b0ab85af2f25f41792dcad38f503e94e&v=4",
-    "location": "Leuven, Belgium",
-    "company": "KU Leuven",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 809,
-    "publicContributions": 2040,
-    "createdAt": "2024-08-13T13:47:37Z"
   },
   {
     "login": "Lieul000",
@@ -7350,7 +7338,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-01-05T09:22:19Z"
@@ -7363,8 +7351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 44,
+    "privateContributions": 69,
+    "publicContributions": 46,
     "createdAt": "2024-07-15T09:30:48Z"
   },
   {
@@ -7400,7 +7388,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 9,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2024-08-09T13:03:46Z"
   },
   {
@@ -7411,7 +7399,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 215,
+    "privateContributions": 293,
     "publicContributions": 0,
     "createdAt": "2024-09-10T15:11:58Z"
   },
@@ -7424,7 +7412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 1,
     "createdAt": "2024-02-01T16:36:09Z"
   },
   {
@@ -7435,8 +7423,8 @@
     "company": "",
     "twitterUsername": "alikznollet",
     "followers": 2,
-    "privateContributions": 715,
-    "publicContributions": 1223,
+    "privateContributions": 586,
+    "publicContributions": 1214,
     "createdAt": "2024-05-05T17:29:36Z"
   },
   {
@@ -7466,13 +7454,13 @@
   {
     "login": "romazal",
     "name": "Roman Zalutskyi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171171932?s=72&u=8d81b3b80f8d23e5281d889af82e27dda689b2cb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171171932?s=72&u=1f34f1e83f4ca659f96a87c13dace8a2e2babdb4&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2024-05-29T16:11:00Z"
   },
   {
@@ -7484,7 +7472,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2024-11-06T07:48:34Z"
   },
   {
@@ -7496,13 +7484,13 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 123,
     "createdAt": "2024-09-30T17:45:55Z"
   },
   {
     "login": "AzuriteBE",
     "name": "Azurite",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/191764014?s=72&u=4dc167436a1f3d33d3dc5b286bd80a744f7a146c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/191764014?s=72&u=26444128c6a8a5d9dddd957b378a7dde1dde491a&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
@@ -7514,25 +7502,25 @@
   {
     "login": "olankens",
     "name": "Jolan Gerkens",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173156207?s=72&u=7d1a6c465f7eb59df5f46edf3cae9feef8cf24c9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173156207?s=72&u=1e945da476b1875dc729e0622a3ae6823f8341f2&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1137,
-    "publicContributions": 251,
+    "privateContributions": 808,
+    "publicContributions": 49,
     "createdAt": "2024-06-18T10:54:30Z"
   },
   {
     "login": "rowell1",
-    "name": "Ronny Wellens",
+    "name": "rowell1",
     "avatarUrl": "https://avatars.githubusercontent.com/u/156696883?s=72&v=4",
-    "location": "Belgium, EU",
+    "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 424,
+    "publicContributions": 313,
     "createdAt": "2024-01-15T16:26:20Z"
   },
   {

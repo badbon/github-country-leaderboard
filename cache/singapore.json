@@ -6848,7 +6848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 26,
     "createdAt": "2025-05-28T08:33:24Z"
   },
   {
@@ -6859,8 +6859,8 @@
     "company": "Firmlanding Pte Ltd",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2629,
-    "publicContributions": 3,
+    "privateContributions": 2602,
+    "publicContributions": 25,
     "createdAt": "2025-06-04T06:38:09Z"
   },
   {
@@ -6872,7 +6872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 0,
     "createdAt": "2025-06-30T07:59:46Z"
   },
   {
@@ -6894,9 +6894,9 @@
     "location": "Singapore",
     "company": "National University of Singapore",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 405,
-    "publicContributions": 349,
+    "followers": 5,
+    "privateContributions": 452,
+    "publicContributions": 362,
     "createdAt": "2025-10-24T07:47:55Z"
   },
   {
@@ -6908,7 +6908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 363,
+    "publicContributions": 419,
     "createdAt": "2025-11-29T04:32:20Z"
   },
   {
@@ -6944,20 +6944,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 39,
     "createdAt": "2025-09-25T12:34:26Z"
-  },
-  {
-    "login": "OlivesAdmin",
-    "name": "Rafi Massarwa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205268901?s=72&v=4",
-    "location": "Singapore",
-    "company": "OliveStocks",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2025-03-28T04:44:35Z"
   },
   {
     "login": "TaskTerminatorMaster",
@@ -6973,14 +6961,14 @@
   },
   {
     "login": "charlotterianes",
-    "name": "Charlotte Sim Riane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219854323?s=72&u=b137d1f1a5a00f9909c5f0590582fcffba209353&v=4",
+    "name": "Charlotte Riane Sim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219854323?s=72&u=40c7b0c2c506eff16472a95d434c834883965a31&v=4",
     "location": "Singapore",
     "company": "Raffles Institution",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 50,
     "createdAt": "2025-07-08T13:21:22Z"
   },
   {
@@ -7052,7 +7040,7 @@
     "twitterUsername": "gamiotechh",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-11T14:09:51Z"
   },
   {
@@ -7064,7 +7052,7 @@
     "twitterUsername": "Xenosingapore",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-25T11:00:12Z"
   },
   {

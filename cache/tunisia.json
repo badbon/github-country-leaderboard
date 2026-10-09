@@ -7074,9 +7074,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 146,
-    "publicContributions": 84,
+    "followers": 6,
+    "privateContributions": 144,
+    "publicContributions": 79,
     "createdAt": "2024-12-09T08:10:11Z"
   },
   {
@@ -7100,18 +7100,18 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 62,
     "createdAt": "2024-11-14T09:21:43Z"
   },
   {
     "login": "jalel-masmoudi",
     "name": "Med Jalel Masmoudi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162036063?s=72&u=2af49ec547504891b53b6387871c768929c30c76&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162036063?s=72&u=320aa3b55b403637c6e51975d437c9dc7b58e538&v=4",
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 142,
+    "privateContributions": 155,
     "publicContributions": 111,
     "createdAt": "2024-03-03T14:50:34Z"
   },
@@ -7122,9 +7122,9 @@
     "location": "Tunis , Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 27,
-    "publicContributions": 72,
+    "followers": 2,
+    "privateContributions": 98,
+    "publicContributions": 35,
     "createdAt": "2024-11-20T14:40:53Z"
   },
   {
@@ -7136,7 +7136,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 25,
     "createdAt": "2024-11-20T09:50:27Z"
   },
   {
@@ -7148,7 +7148,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 82,
     "createdAt": "2024-02-11T17:36:50Z"
   },
   {
@@ -7183,7 +7183,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1092,
+    "privateContributions": 1881,
     "publicContributions": 339,
     "createdAt": "2024-09-15T21:20:47Z"
   },
@@ -7208,7 +7208,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 1,
     "createdAt": "2024-04-18T02:12:20Z"
   },
   {
@@ -7243,8 +7243,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 254,
-    "publicContributions": 72,
+    "privateContributions": 263,
+    "publicContributions": 4,
     "createdAt": "2024-11-14T16:43:18Z"
   },
   {
@@ -7254,9 +7254,9 @@
     "location": "Tunisia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 38,
     "createdAt": "2024-06-07T10:59:43Z"
   },
   {
@@ -86314,5 +86314,197 @@
     "privateContributions": 0,
     "publicContributions": 56,
     "createdAt": "2008-02-28T07:56:32Z"
+  },
+  {
+    "login": "asma-rezgui-prog",
+    "name": "hollowcoder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297261041?s=72&u=7b7b41613f5c8cbc2d90304663f3967658ddd444&v=4",
+    "location": "Tunis,Tunisia",
+    "company": "",
+    "twitterUsername": "__aasmaa___",
+    "followers": 31,
+    "privateContributions": 3,
+    "publicContributions": 1,
+    "createdAt": "2026-06-26T19:58:39Z"
+  },
+  {
+    "login": "chaima-sahli",
+    "name": "Chaima Sahli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289090710?s=72&u=236f61720062a2e8adbbd6cba8586d66c239af24&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 39,
+    "publicContributions": 208,
+    "createdAt": "2026-05-30T00:45:18Z"
+  },
+  {
+    "login": "irabytes",
+    "name": "ira",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292767055?s=72&v=4",
+    "location": "Tunisia",
+    "company": "ISAMM",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-11T11:31:45Z"
+  },
+  {
+    "login": "omarbounawarapy",
+    "name": "Omar Bounawara",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288121441?s=72&u=7ffc740cce434c15984b6777ad2e28707d7c3456&v=4",
+    "location": "Tunisia",
+    "company": "self employed",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 648,
+    "publicContributions": 719,
+    "createdAt": "2026-05-26T19:35:52Z"
+  },
+  {
+    "login": "localbtstudio-tech",
+    "name": "Hamza Weslati",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295150590?s=72&u=895852d8a07d8e939b315cc0b0f319b3f497d1f4&v=4",
+    "location": "Tunis, Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 4,
+    "publicContributions": 186,
+    "createdAt": "2026-06-19T14:35:31Z"
+  },
+  {
+    "login": "maryemgomdi",
+    "name": "Maryem Gomdi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290962405?s=72&u=785b3f3aac1e99d8ab721e4490ce948e2e54637d&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 66,
+    "publicContributions": 9,
+    "createdAt": "2026-06-05T07:27:55Z"
+  },
+  {
+    "login": "ahmedazizmhiri",
+    "name": "Ahmed Aziz Mhiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296824387?s=72&u=4618751049f7aa4d22b4fc8b37f0451d8b5381a8&v=4",
+    "location": "Sousse, Tunisia",
+    "company": "El Mouradi Hotels",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 251,
+    "createdAt": "2026-06-25T09:11:33Z"
+  },
+  {
+    "login": "hamayari15",
+    "name": "HAMA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288453224?s=72&u=c971f3d7aa75afce10b4686a9d3e907b00353ba3&v=4",
+    "location": "Ariana, Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 196,
+    "createdAt": "2026-05-27T21:23:31Z"
+  },
+  {
+    "login": "AbdelkrimCode",
+    "name": "Abdelkarim Abdelkarim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287778098?s=72&u=1230e5dca1ad7f5e5858f8e27d512adfb579f962&v=4",
+    "location": "Tunis,Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 228,
+    "createdAt": "2026-05-25T17:52:58Z"
+  },
+  {
+    "login": "IyedAmiri",
+    "name": "Iyed Amiri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291071926?s=72&u=137c2ada0fcc70cee5a505a58cebf39f0c550f02&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-06-05T14:54:31Z"
+  },
+  {
+    "login": "mohammedaborea",
+    "name": "mohammed saleh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289308522?s=72&u=56cdaf66b451f2a774d6637981e244eddfc85754&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 92,
+    "createdAt": "2026-05-31T01:09:21Z"
+  },
+  {
+    "login": "yosrirom8-ops",
+    "name": "Yosri_Rm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291771192?s=72&v=4",
+    "location": "Tunisia , Sousse",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-08T11:53:35Z"
+  },
+  {
+    "login": "hedijlail",
+    "name": "Hedi Jlail",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285515611?s=72&u=3760a27f08ce13d8a600fff2d728da59981e7d94&v=4",
+    "location": "Tunisia, sfax",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-05-17T22:11:34Z"
+  },
+  {
+    "login": "wisemaiarservices-debug",
+    "name": "NeoHaven-AI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292624527?s=72&u=a5e2bc08fadeb55fb9b8141aef122e64f98b30f8&v=4",
+    "location": "Tunisia",
+    "company": "NeoHaven Ai Urban Labs inc",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 129,
+    "createdAt": "2026-06-11T01:10:50Z"
+  },
+  {
+    "login": "fares-sayeh",
+    "name": "Fares",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289498490?s=72&u=f52f8ff233eea39f32807b6bee9aec77cf60447b&v=4",
+    "location": "Tunisia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2026-05-31T21:04:10Z"
+  },
+  {
+    "login": "jmedtarek",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284740543?s=72&u=ccf309a2b6c0d7ee32d4fe757265f4e070d94017&v=4",
+    "location": "Tunisia",
+    "company": "Presto Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-05-14T17:55:41Z"
   }
 ]

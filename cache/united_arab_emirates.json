@@ -7099,8 +7099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 538,
-    "publicContributions": 16,
+    "privateContributions": 578,
+    "publicContributions": 6,
     "createdAt": "2023-06-22T16:57:54Z"
   },
   {
@@ -7112,7 +7112,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 8,
     "createdAt": "2023-04-08T01:51:51Z"
   },
   {
@@ -7122,7 +7122,7 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-26T19:14:58Z"
@@ -7146,7 +7146,7 @@
     "location": "United Arab Emirates",
     "company": "Justyta",
     "twitterUsername": "X_Faisal58",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 144,
     "createdAt": "2023-09-07T09:25:08Z"
@@ -7158,9 +7158,9 @@
     "location": "Dubai, United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 25,
-    "publicContributions": 106,
+    "publicContributions": 100,
     "createdAt": "2023-07-12T21:08:19Z"
   },
   {
@@ -7182,9 +7182,9 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2023-11-29T09:24:42Z"
   },
   {
@@ -7194,7 +7194,7 @@
     "location": "United Arab Emirates",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 38,
     "createdAt": "2023-09-21T04:35:57Z"
@@ -7208,7 +7208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 4,
     "createdAt": "2023-09-25T04:36:20Z"
   },
   {
@@ -7218,9 +7218,9 @@
     "location": "Dubai, United Arab Emirates",
     "company": "Sobha",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 215,
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 200,
     "createdAt": "2023-06-20T13:24:42Z"
   },
   {
@@ -7256,7 +7256,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 23,
     "createdAt": "2023-01-04T09:32:56Z"
   },
   {
@@ -7268,7 +7268,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-04-18T04:23:11Z"
   },
   {
@@ -7279,7 +7279,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 318,
+    "privateContributions": 319,
     "publicContributions": 10,
     "createdAt": "2023-12-16T16:07:17Z"
   },
@@ -7303,8 +7303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 95,
+    "privateContributions": 42,
+    "publicContributions": 38,
     "createdAt": "2023-01-01T11:15:33Z"
   },
   {
@@ -7316,7 +7316,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 22,
     "createdAt": "2023-08-14T11:17:21Z"
   },
   {
@@ -50974,5 +50974,77 @@
     "privateContributions": 1618,
     "publicContributions": 309,
     "createdAt": "2021-06-13T14:46:43Z"
+  },
+  {
+    "login": "Hamid4u-2026",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284398326?s=72&u=e0f7d46e8125298dbfd7ff5b73b02af31f5e028a&v=4",
+    "location": "Abu Dhabi , UAE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 52,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2026-05-13T17:39:09Z"
+  },
+  {
+    "login": "laurasarbah-wq",
+    "name": "Laura Kongo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289768182?s=72&v=4",
+    "location": "Abu Dhabi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-06-01T17:07:18Z"
+  },
+  {
+    "login": "blackrossay",
+    "name": "blackrossay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289930510?s=72&u=91f1ceecf18878ed0316fe2e41fde84311c4fbcc&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "Core42 - A G42 Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2026-06-02T06:46:50Z"
+  },
+  {
+    "login": "jafaralsadig4-alt",
+    "name": "Jafar Alsadig",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284699010?s=72&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-14T15:16:34Z"
+  },
+  {
+    "login": "afbinfinity-jpg",
+    "name": "Alfarid B",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287619817?s=72&u=71e7015c328c2af28a79c2e9db8d75e2ba8f125c&v=4",
+    "location": "Abu dhabi",
+    "company": "Rawna Automation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-05-25T07:04:43Z"
+  },
+  {
+    "login": "EAIS-git",
+    "name": "Easy AI Solutions",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288651979?s=72&u=75ca05b36e6a3ba023e2dc090204b7f93d3ad906&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "Easy AI Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-28T13:36:05Z"
   }
 ]
