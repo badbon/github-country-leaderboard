@@ -18,12 +18,12 @@ Indexed users: 1,228
 | 4 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
 | 5 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
 | 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
-| 8 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
-| 9 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
-| 10 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
-| 11 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
-| 12 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 6,792 |
+| 7 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
+| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
+| 9 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
+| 10 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
+| 11 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
+| 12 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
 | 13 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 6,258 |
 | 14 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
 | 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
@@ -83,4 +83,4 @@ Indexed users: 1,228
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-09T14:59:14.414Z
+Generated: 2026-10-09T15:53:30.456Z

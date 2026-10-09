@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-09T15:05:46.351Z
+Generated: 2026-10-09T15:58:45.665Z
 
 Users: 1401
 
@@ -15,8 +15,8 @@ Users: 1401
 | 7 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 4625 |
 | 8 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 4268 |
 | 9 | [manuelduarte077](https://github.com/manuelduarte077) | Manuel Duarte  | Momotombo Devs |  | Nicaragua | 3841 |
-| 10 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3840 |
-| 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 3787 |
+| 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 3787 |
+| 11 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |
 | 12 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3641 |
 | 13 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno |  |  | NIcaragua | 3624 |
 | 14 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 3606 |

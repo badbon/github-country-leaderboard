@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-09T15:08:51.386Z
+Generated: 2026-10-09T16:02:25.686Z
 
 Users: 1542
 
@@ -13,11 +13,11 @@ Users: 1542
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 11607 |
 | 6 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 10074 |
 | 7 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | Betabit LLC | yoaquim | San Juan, PR | 7470 |
-| 8 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 6798 |
-| 9 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
-| 10 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
-| 11 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
-| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 5992 |
+| 8 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 6925 |
+| 9 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 6798 |
+| 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
+| 11 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
+| 12 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
 | 13 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
 | 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
 | 15 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5125 |

@@ -1,8 +1,8 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-09T14:57:21.340Z
+Generated: 2026-10-09T15:51:33.967Z
 
-Users: 3273
+Users: 3275
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,9 +14,9 @@ Users: 3273
 | 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | T MEDIA GROUP |  | Latvia | 10310 |
 | 8 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
-| 9 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 7497 |
-| 10 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 7382 |
-| 11 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7043 |
+| 9 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
+| 10 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 7497 |
+| 11 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 7382 |
 | 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
 | 13 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
 | 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6594 |

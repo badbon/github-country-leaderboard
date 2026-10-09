@@ -1,8 +1,8 @@
 # Followers - Seychelles
 
-Generated: 2026-10-09T15:13:50.363Z
+Generated: 2026-10-09T16:07:08.034Z
 
-Users: 1773
+Users: 1772
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

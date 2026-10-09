@@ -1,14 +1,14 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-09T15:13:39.761Z
+Generated: 2026-10-09T16:06:56.629Z
 
 Users: 1357
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 9901 |
-| 2 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 9050 |
-| 3 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang |  |  | Saint-Louis, Senegal | 8278 |
+| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 12941 |
+| 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang |  |  | Saint-Louis, Senegal | 12001 |
+| 3 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 9901 |
 | 4 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 7503 |
 | 5 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7300 |
 | 6 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Fellwiin |  | Dakar, Sénégal | 7135 |

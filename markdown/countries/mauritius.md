@@ -41,9 +41,9 @@ Indexed users: 715
 | 2 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,204 |
 | 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,210 |
 | 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,689 |
-| 5 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,511 |
-| 6 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,427 |
-| 7 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,409 |
+| 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,528 |
+| 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,511 |
+| 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,427 |
 | 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,385 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,343 |
 | 10 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,301 |
@@ -83,4 +83,4 @@ Indexed users: 715
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-09T15:01:09.290Z
+Generated: 2026-10-09T15:54:04.504Z

@@ -49,9 +49,9 @@ Indexed users: 5,396
 | 10 | [qweered](https://github.com/qweered) | Aliaksandr | Vilnius, Lithuania | 2,656 |
 | 11 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 2,457 |
 | 12 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 2,383 |
-| 13 | [staskus](https://github.com/staskus) | Povilas Staskus | Lithuania, Vilnius | 2,336 |
-| 14 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
-| 15 | [bdiev](https://github.com/bdiev) | Bohdan | Kaunas, Lithuania | 2,246 |
+| 13 | [bdiev](https://github.com/bdiev) | bdiev_ | Kaunas, Lithuania | 2,338 |
+| 14 | [staskus](https://github.com/staskus) | Povilas Staskus | Lithuania, Vilnius | 2,336 |
+| 15 | [MekDrop](https://github.com/MekDrop) | Raimondas Rimkevičius | Vilnius, Lithuania | 2,332 |
 | 16 | [savonarola](https://github.com/savonarola) | Ilia Averianov | Vilnius | 2,228 |
 | 17 | [VytCepas](https://github.com/VytCepas) | Vytautas Cepas | Vilnius, Lithuania | 2,216 |
 | 18 | [vladlevinas](https://github.com/vladlevinas) | Vlad Levinas | Lithuania | 2,164 |
@@ -83,4 +83,4 @@ Indexed users: 5,396
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-09T14:57:50.704Z
+Generated: 2026-10-09T16:01:14.125Z

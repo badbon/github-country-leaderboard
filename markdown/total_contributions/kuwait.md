@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-09T14:56:45.271Z
+Generated: 2026-10-09T15:51:17.077Z
 
 Users: 798
 
@@ -10,11 +10,11 @@ Users: 798
 | 2 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6287 |
 | 3 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6211 |
 | 4 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6082 |
-| 5 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5313 |
-| 6 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5240 |
-| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5194 |
-| 8 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 4922 |
-| 9 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 4723 |
+| 5 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 5968 |
+| 6 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5313 |
+| 7 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5240 |
+| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5194 |
+| 9 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 4922 |
 | 10 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4120 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 3909 |
 | 12 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3623 |

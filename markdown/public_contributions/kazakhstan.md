@@ -1,20 +1,20 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-09T14:56:34.877Z
+Generated: 2026-10-09T15:50:53.723Z
 
-Users: 5673
+Users: 5671
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 24758 |
 | 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 11946 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 10764 |
-| 4 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Documentolog |  | Astana | 5166 |
-| 5 | [yaskhan](https://github.com/yaskhan) | Yaskhan |  |  | Kazakhstan | 3748 |
-| 6 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said |  | said3223 | Kazakhstan | 3646 |
-| 7 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | SJ |  | Qazaqstan | 3538 |
-| 8 | [dchernykh1984](https://github.com/dchernykh1984) | Denis |  |  | Kazakhstan, Almaty | 3230 |
-| 9 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | @AnmiTaliDev (?) |  | Kazakhstan, Kostanay | 2899 |
+| 4 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | @AnmiTaliDev (?) |  | Kazakhstan, Kostanay | 5428 |
+| 5 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Documentolog |  | Astana | 5166 |
+| 6 | [yaskhan](https://github.com/yaskhan) | Yaskhan |  |  | Kazakhstan | 3748 |
+| 7 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said |  | said3223 | Kazakhstan | 3646 |
+| 8 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | SJ |  | Qazaqstan | 3538 |
+| 9 | [dchernykh1984](https://github.com/dchernykh1984) | Denis |  |  | Kazakhstan, Almaty | 3230 |
 | 10 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov |  |  | Kazakhstan | 2861 |
 | 11 | [SapphoSys](https://github.com/SapphoSys) | Chloe |  |  | Almaty, Kazakhstan | 2680 |
 | 12 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | @TourmalineCore |  | Kazakhstan, Astana | 2672 |

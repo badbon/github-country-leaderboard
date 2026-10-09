@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,273
+Indexed users: 3,275
 
 | Leaderboard | Link |
 |---|---|
@@ -20,9 +20,9 @@ Indexed users: 3,273
 | 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 10,310 |
 | 8 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
-| 9 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 7,497 |
-| 10 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 7,382 |
-| 11 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,043 |
+| 9 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
+| 10 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 7,497 |
+| 11 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 7,382 |
 | 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
 | 13 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
 | 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,594 |
@@ -83,4 +83,4 @@ Indexed users: 3,273
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-09T14:57:21.340Z
+Generated: 2026-10-09T15:51:33.967Z

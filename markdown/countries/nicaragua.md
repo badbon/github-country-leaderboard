@@ -21,8 +21,8 @@ Indexed users: 1,401
 | 7 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 4,625 |
 | 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 4,268 |
 | 9 | [manuelduarte077](https://github.com/manuelduarte077) | Manuel Duarte  | Nicaragua | 3,841 |
-| 10 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,840 |
-| 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 3,787 |
+| 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 3,787 |
+| 11 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
 | 12 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,641 |
 | 13 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 3,624 |
 | 14 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 3,606 |
@@ -50,13 +50,13 @@ Indexed users: 1,401
 | 11 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,037 |
 | 12 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 987 |
 | 13 | [kraudy](https://github.com/kraudy) | Roberto Torrez | Nicaragua | 908 |
-| 14 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 894 |
-| 15 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
-| 16 | [DlopezS98](https://github.com/DlopezS98) | Danny López | Nicaragua | 767 |
+| 14 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 895 |
+| 15 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 894 |
+| 16 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
 | 17 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez | Nicaragua | 759 |
-| 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 757 |
-| 19 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 754 |
-| 20 | [c04o](https://github.com/c04o) | Connie Caldera | Masaya, Nicaragua | 746 |
+| 18 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 754 |
+| 19 | [c04o](https://github.com/c04o) | Connie Caldera | Masaya, Nicaragua | 746 |
+| 20 | [Jonafvip](https://github.com/Jonafvip) | Jona | Nicaragua | 744 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,401
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-09T15:05:46.351Z
+Generated: 2026-10-09T15:58:45.665Z

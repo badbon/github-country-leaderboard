@@ -1,8 +1,8 @@
 # Followers - Panama
 
-Generated: 2026-10-09T15:07:51.396Z
+Generated: 2026-10-09T16:01:07.683Z
 
-Users: 1072
+Users: 1071
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 1072
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge |  |  | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | DATA ACQUISITION SYSTEMS, S.A. | daqsyspty | Panama City, Panama | 96 |
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Freelance |  | Panama | 67 |
-| 10 | [DottieDot](https://github.com/DottieDot) | Taran |  |  | Panama | 63 |
+| 10 | [DottieDot](https://github.com/DottieDot) | Taran |  |  | Panama | 64 |
 | 11 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 61 |
 | 12 | [muniter](https://github.com/muniter) | Javier Lopez |  |  | Panama, Panama City | 58 |
 | 13 | [ibarria0](https://github.com/ibarria0) | Ivan Barria |  |  | Panama | 57 |

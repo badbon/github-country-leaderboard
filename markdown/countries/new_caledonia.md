@@ -47,7 +47,7 @@ Indexed users: 111
 | 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 334 |
 | 9 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 305 |
 | 10 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 284 |
-| 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO | New Caledonia | 223 |
+| 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO | New Caledonia | 224 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 221 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 215 |
 | 14 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B | New-Caledonia | 157 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-09T15:05:40.680Z
+Generated: 2026-10-09T15:58:36.595Z

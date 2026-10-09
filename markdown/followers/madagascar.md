@@ -1,6 +1,6 @@
 # Followers - Madagascar
 
-Generated: 2026-10-09T14:58:52.693Z
+Generated: 2026-10-09T15:52:35.152Z
 
 Users: 1912
 
@@ -22,7 +22,7 @@ Users: 1912
 | 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 164 |
 | 15 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina |  | lovanirina_r | Madagascar, Antananarivo | 158 |
 | 16 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Onja |  | Toamasina, Madagascar | 155 |
-| 17 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 148 |
+| 17 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 149 |
 | 18 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan |  |  | Antananarivo, Madagascar | 145 |
 | 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | HEI |  | Antananarivo | 145 |
-| 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery |  |  | Madagascar | 142 |
+| 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery |  |  | Madagascar | 143 |

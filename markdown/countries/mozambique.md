@@ -23,11 +23,11 @@ Indexed users: 1,176
 | 9 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 3,687 |
 | 10 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,216 |
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 2,827 |
-| 12 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 2,788 |
-| 13 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,744 |
-| 14 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
-| 15 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,671 |
-| 16 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,590 |
+| 12 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,793 |
+| 13 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 2,788 |
+| 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,744 |
+| 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
+| 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,671 |
 | 17 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,492 |
 | 18 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
 | 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [Antonio-Sitoe](https://github.com/Antonio-Sitoe) | Antonio Sitoe | Mozambique | 94 |
 
-Generated: 2026-10-09T15:03:48.840Z
+Generated: 2026-10-09T15:57:13.758Z

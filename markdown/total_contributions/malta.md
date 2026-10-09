@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-09T14:59:14.414Z
+Generated: 2026-10-09T15:53:30.456Z
 
 Users: 1228
 
@@ -12,12 +12,12 @@ Users: 1228
 | 4 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 10549 |
 | 5 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 9866 |
 | 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 8363 |
-| 8 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 7973 |
-| 9 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 7672 |
-| 10 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 7574 |
-| 11 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
-| 12 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 6792 |
+| 7 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 8474 |
+| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 8363 |
+| 9 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 7973 |
+| 10 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 7672 |
+| 11 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 7574 |
+| 12 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
 | 13 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 6258 |
 | 14 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6234 |
 | 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5842 |

@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,673
+Indexed users: 5,671
 
 | Leaderboard | Link |
 |---|---|
@@ -40,12 +40,12 @@ Indexed users: 5,673
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 11,946 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
-| 4 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 5,166 |
-| 5 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
-| 6 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
-| 7 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
-| 8 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
-| 9 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | Kazakhstan, Kostanay | 2,899 |
+| 4 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | Kazakhstan, Kostanay | 5,428 |
+| 5 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 5,166 |
+| 6 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
+| 7 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
+| 8 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
+| 9 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
 | 10 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
 | 11 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
 | 12 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
@@ -83,4 +83,4 @@ Indexed users: 5,673
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-09T14:56:34.877Z
+Generated: 2026-10-09T15:50:53.723Z

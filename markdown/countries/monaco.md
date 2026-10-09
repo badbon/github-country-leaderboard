@@ -12,7 +12,7 @@ Indexed users: 143
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 6,754 |
+| 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 6,779 |
 | 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,239 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,325 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,528 |
@@ -22,7 +22,7 @@ Indexed users: 143
 | 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,045 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 952 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
-| 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 722 |
+| 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 724 |
 | 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 616 |
 | 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 555 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 512 |
@@ -70,8 +70,8 @@ Indexed users: 143
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 34 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
 | 8 | [jmbertin](https://github.com/jmbertin) | Jean-Michel Bertin | Monaco | 24 |
-| 9 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 23 |
-| 10 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 22 |
+| 9 | [HedgeQuantX](https://github.com/HedgeQuantX) | HedgeQuant𝕏 | Monte-Carlo, Monaco | 22 |
+| 10 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 22 |
 | 11 | [bait-archived](https://github.com/bait-archived) | Beryllium (Privated...) | Fontevielle, Monaco | 17 |
 | 12 | [SilencyDev](https://github.com/SilencyDev) | Kevin Macquet | Monaco | 17 |
 | 13 | [z2sx](https://github.com/z2sx) | Andrey Platov | Monaco | 17 |
@@ -83,4 +83,4 @@ Indexed users: 143
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-09T15:03:28.045Z
+Generated: 2026-10-09T15:55:01.289Z

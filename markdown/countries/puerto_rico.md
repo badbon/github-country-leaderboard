@@ -19,11 +19,11 @@ Indexed users: 1,542
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 11,607 |
 | 6 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,074 |
 | 7 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | San Juan, PR | 7,470 |
-| 8 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
-| 9 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
-| 10 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
-| 11 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 5,992 |
+| 8 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 6,925 |
+| 9 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
+| 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
+| 11 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
+| 12 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
 | 13 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
 | 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
 | 15 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
@@ -83,4 +83,4 @@ Indexed users: 1,542
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-09T15:08:51.386Z
+Generated: 2026-10-09T16:02:25.686Z

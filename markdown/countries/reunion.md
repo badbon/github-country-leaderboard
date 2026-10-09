@@ -27,7 +27,7 @@ Indexed users: 212
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,868 |
 | 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,789 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,782 |
-| 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,488 |
+| 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,535 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,477 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,351 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,219 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-09T15:09:22.098Z
+Generated: 2026-10-09T16:02:37.907Z

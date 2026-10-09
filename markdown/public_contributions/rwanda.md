@@ -1,8 +1,8 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-09T15:09:29.621Z
+Generated: 2026-10-09T16:03:24.633Z
 
-Users: 3521
+Users: 3520
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 3521
 | 15 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
 | 16 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | DondouAbiyi |  | Kigali, Rwanda | 2403 |
 | 17 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |
-| 18 | [system-Barinda](https://github.com/system-Barinda) | system sylvere BARINDA |  |  | Muhanga,    Kigali, Rwanda | 2347 |
-| 19 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick |  |  | Kigali, Rwanda | 2302 |
-| 20 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | NexaTech Rwanda | K_AI_Lucky | Kigali | 2299 |
+| 18 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick |  |  | Kigali, Rwanda | 2302 |
+| 19 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | NexaTech Rwanda | K_AI_Lucky | Kigali | 2299 |
+| 20 | [ishimweghislain](https://github.com/ishimweghislain) | ISHIMWE GHISLAIN | Fullstack Software Ltd |  | Rwanda, Kamonyi | 2205 |

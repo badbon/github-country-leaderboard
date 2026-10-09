@@ -1,6 +1,6 @@
 # Panama
 
-Indexed users: 1,072
+Indexed users: 1,071
 
 | Leaderboard | Link |
 |---|---|
@@ -71,7 +71,7 @@ Indexed users: 1,072
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | Panama City, Panama | 96 |
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Panama | 67 |
-| 10 | [DottieDot](https://github.com/DottieDot) | Taran | Panama | 63 |
+| 10 | [DottieDot](https://github.com/DottieDot) | Taran | Panama | 64 |
 | 11 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 61 |
 | 12 | [muniter](https://github.com/muniter) | Javier Lopez | Panama, Panama City | 58 |
 | 13 | [ibarria0](https://github.com/ibarria0) | Ivan Barria | Panama | 57 |
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-09T15:07:51.396Z
+Generated: 2026-10-09T16:01:07.683Z

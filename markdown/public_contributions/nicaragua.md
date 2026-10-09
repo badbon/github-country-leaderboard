@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-09T15:05:46.351Z
+Generated: 2026-10-09T15:58:45.665Z
 
 Users: 1401
 
@@ -19,10 +19,10 @@ Users: 1401
 | 11 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1037 |
 | 12 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 987 |
 | 13 | [kraudy](https://github.com/kraudy) | Roberto Torrez |  |  | Nicaragua | 908 |
-| 14 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 894 |
-| 15 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez |  |  | Leon, Nicaragua | 876 |
-| 16 | [DlopezS98](https://github.com/DlopezS98) | Danny López |  | DlopezS98 | Nicaragua | 767 |
+| 14 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 895 |
+| 15 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 894 |
+| 16 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez |  |  | Leon, Nicaragua | 876 |
 | 17 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez |  |  | Nicaragua | 759 |
-| 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 757 |
-| 19 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Universidad Americana (UAM) |  | Managua, Nicaragua | 754 |
-| 20 | [c04o](https://github.com/c04o) | Connie Caldera | @NixOS |  | Masaya, Nicaragua | 746 |
+| 18 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Universidad Americana (UAM) |  | Managua, Nicaragua | 754 |
+| 19 | [c04o](https://github.com/c04o) | Connie Caldera | @NixOS |  | Masaya, Nicaragua | 746 |
+| 20 | [Jonafvip](https://github.com/Jonafvip) | Jona |  |  | Nicaragua | 744 |

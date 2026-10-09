@@ -1,6 +1,6 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-09T15:01:09.290Z
+Generated: 2026-10-09T15:54:04.504Z
 
 Users: 715
 
@@ -10,9 +10,9 @@ Users: 715
 | 2 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 4204 |
 | 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Redstoneinvente Game Studio | Redstoneinvente | Mauritius | 2210 |
 | 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | OptimizeSolux |  | Port-Louis, Mauritius \| Lomé, Togo | 1689 |
-| 5 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1511 |
-| 6 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 1427 |
-| 7 | [asvinb](https://github.com/asvinb) | Asvin Balloo | @10up  |  | Mauritius | 1409 |
+| 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | @10up  |  | Mauritius | 1528 |
+| 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur |  |  | Mauritius | 1511 |
+| 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 1427 |
 | 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 1385 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Uniicy IT Limited | daniel_githiomi | Grand Baie, Mauritius | 1343 |
 | 10 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 1301 |

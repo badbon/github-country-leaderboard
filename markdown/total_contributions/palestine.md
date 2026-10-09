@@ -1,8 +1,8 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-09T15:07:48.134Z
+Generated: 2026-10-09T16:01:02.153Z
 
-Users: 2210
+Users: 2209
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
