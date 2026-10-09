@@ -15,7 +15,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
 | [United States Minor Outlying Islands](markdown/countries/united_states_minor_outlying_islands.md) | 0 | [Public](markdown/public_contributions/united_states_minor_outlying_islands.md) | [Total](markdown/total_contributions/united_states_minor_outlying_islands.md) | [Followers](markdown/followers/united_states_minor_outlying_islands.md) |
-| [Cyprus](markdown/countries/cyprus.md) | 2,747 | [Public](markdown/public_contributions/cyprus.md) | [Total](markdown/total_contributions/cyprus.md) | [Followers](markdown/followers/cyprus.md) |
+| [Cyprus](markdown/countries/cyprus.md) | 2,744 | [Public](markdown/public_contributions/cyprus.md) | [Total](markdown/total_contributions/cyprus.md) | [Followers](markdown/followers/cyprus.md) |
 | [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
 | [British Virgin Islands](markdown/countries/british_virgin_islands.md) | 38 | [Public](markdown/public_contributions/british_virgin_islands.md) | [Total](markdown/total_contributions/british_virgin_islands.md) | [Followers](markdown/followers/british_virgin_islands.md) |
 | [Guadeloupe](markdown/countries/guadeloupe.md) | 87 | [Public](markdown/public_contributions/guadeloupe.md) | [Total](markdown/total_contributions/guadeloupe.md) | [Followers](markdown/followers/guadeloupe.md) |
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-09T15:28:55.476Z
+Generated: 2026-10-09T15:49:13.189Z

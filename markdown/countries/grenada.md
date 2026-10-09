@@ -1,6 +1,6 @@
 # Grenada
 
-Indexed users: 38
+Indexed users: 37
 
 | Leaderboard | Link |
 |---|---|
@@ -14,7 +14,7 @@ Indexed users: 38
 |---:|---|---|---|---:|
 | 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 1,391 |
 | 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 716 |
-| 3 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal | Grenada | 435 |
+| 3 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal | Grenada | 438 |
 | 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen | Grenada | 250 |
 | 5 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 187 |
 | 6 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 145 |
@@ -29,9 +29,9 @@ Indexed users: 38
 | 15 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Grenada | 8 |
 | 16 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 3 |
 | 17 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 2 |
-| 18 | [leo-the-dev](https://github.com/leo-the-dev) | Leo | Grenada | 2 |
-| 19 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 1 |
-| 20 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Grand Anse, St. George's, Grenada | 1 |
+| 18 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 1 |
+| 19 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Grand Anse, St. George's, Grenada | 1 |
+| 20 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 0 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 38
 | 12 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia | Saint George, Grenada | 3 |
 | 13 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 2 |
 | 14 | [kranks40](https://github.com/kranks40) | Oketo Peters | Grenada | 2 |
-| 15 | [leo-the-dev](https://github.com/leo-the-dev) | Leo | Grenada | 2 |
-| 16 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 1 |
-| 17 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Grand Anse, St. George's, Grenada | 1 |
-| 18 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 0 |
-| 19 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Grenada | 0 |
-| 20 | [ckpd](https://github.com/ckpd) | Charlie DeRiggs | Grenada | 0 |
+| 15 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Grenada | 1 |
+| 16 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Grand Anse, St. George's, Grenada | 1 |
+| 17 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | St George's, GRENADA | 0 |
+| 18 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Grenada | 0 |
+| 19 | [ckpd](https://github.com/ckpd) | Charlie DeRiggs | Grenada | 0 |
+| 20 | [Dassterdly](https://github.com/Dassterdly) | Damione J Darbeau | Grenada | 0 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 3 |
 | 20 | [OmariCelestine](https://github.com/OmariCelestine) | Omari Celestine | Grenada | 3 |
 
-Generated: 2026-10-09T14:47:58.077Z
+Generated: 2026-10-09T15:41:33.503Z

@@ -1,6 +1,6 @@
 # Followers - Czechia
 
-Generated: 2026-10-09T14:43:23.661Z
+Generated: 2026-10-09T15:38:16.701Z
 
 Users: 16214
 
@@ -14,7 +14,7 @@ Users: 16214
 | 6 | [HangeZoe](https://github.com/HangeZoe) | ハンジ・ゾエ |  |  | Prague, Czech Republic | 2345 |
 | 7 | [panva](https://github.com/panva) | Filip Skokan |  | _panva | Czech Republic | 1697 |
 | 8 | [TomasVotruba](https://github.com/TomasVotruba) | Tomas Votruba | @rectorphp | votrubaT | Prague, Czech Republic | 1637 |
-| 9 | [a7v8x](https://github.com/a7v8x) | David Mraz | @atherosai  | davidm_ml | London / Prague | 1399 |
+| 9 | [a7v8x](https://github.com/a7v8x) | David Mraz | @atherosai  | davidm_ml | London / Prague | 1396 |
 | 10 | [Kubenew](https://github.com/Kubenew) | Felix |  |  | Prague | 1228 |
 | 11 | [tpetricek](https://github.com/tpetricek) | Tomas Petricek | Charles University |  | Prague | 1120 |
 | 12 | [oerdnj](https://github.com/oerdnj) | Ondřej Surý | @isc-projects |  | Czech Republic | 1105 |

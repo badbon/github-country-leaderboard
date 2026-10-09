@@ -1,6 +1,6 @@
 # Bolivia
 
-Indexed users: 1,787
+Indexed users: 1,786
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,787
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 
-Generated: 2026-10-09T14:35:43.270Z
+Generated: 2026-10-09T15:30:35.523Z

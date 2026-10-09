@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-09T14:44:55.395Z
+Generated: 2026-10-09T15:39:14.518Z
 
 Users: 2384
 
@@ -21,8 +21,8 @@ Users: 2384
 | 13 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4698 |
 | 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4614 |
 | 15 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
-| 16 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
-| 17 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |
-| 18 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera |  |  | El Salvador | 4081 |
-| 19 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4031 |
-| 20 | [ferventurart](https://github.com/ferventurart) | Fernando Ventura |  |  | El Salvador | 3935 |
+| 16 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 4474 |
+| 17 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
+| 18 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |
+| 19 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera |  |  | El Salvador | 4081 |
+| 20 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4031 |

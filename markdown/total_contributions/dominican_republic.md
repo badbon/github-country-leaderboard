@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-09T14:44:16.234Z
+Generated: 2026-10-09T15:38:57.313Z
 
 Users: 3316
 
@@ -10,13 +10,13 @@ Users: 3316
 | 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez |  |  | Santo Domingo, R. D. | 15371 |
 | 3 | [kaioken](https://github.com/kaioken) | Max Castro | @mctekk |  | Dominican Republic | 12671 |
 | 4 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | @Urpsoft  |  | Dominican Republic  | 8607 |
-| 5 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks |  | Criisbanks | Dominican Republic  | 8404 |
-| 6 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Fidecoin.com |  | Dominican Republic | 8322 |
-| 7 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | @jflerime | jflerime | Dominican Republic | 8067 |
-| 8 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez |  |  | Dominican Republic | 7804 |
-| 9 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Refersion |  | Santo Domingo, Dominican Republic | 7675 |
-| 10 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 6885 |
-| 11 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 6653 |
+| 5 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 8493 |
+| 6 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks |  | Criisbanks | Dominican Republic  | 8404 |
+| 7 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Fidecoin.com |  | Dominican Republic | 8322 |
+| 8 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | @jflerime | jflerime | Dominican Republic | 8067 |
+| 9 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez |  |  | Dominican Republic | 7804 |
+| 10 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Refersion |  | Santo Domingo, Dominican Republic | 7675 |
+| 11 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 6885 |
 | 12 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
 | 13 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
 | 14 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |

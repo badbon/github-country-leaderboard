@@ -1,8 +1,8 @@
 # Followers - Grenada
 
-Generated: 2026-10-09T14:47:58.077Z
+Generated: 2026-10-09T15:41:33.503Z
 
-Users: 38
+Users: 37
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

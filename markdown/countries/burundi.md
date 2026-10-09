@@ -13,7 +13,7 @@ Indexed users: 235
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,222 |
-| 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 3,984 |
+| 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 4,167 |
 | 3 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,531 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,444 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,097 |
@@ -41,13 +41,13 @@ Indexed users: 235
 | 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,204 |
 | 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 677 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 509 |
-| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 459 |
+| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 461 |
 | 6 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 372 |
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 333 |
 | 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
 | 9 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 301 |
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 269 |
-| 11 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 233 |
+| 11 | [butofleury](https://github.com/butofleury) | Fleury | Burundi, Bujumbura | 238 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY | Burundi/Bujumbura | 221 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | Burundi | 200 |
 | 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 159 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-09T14:37:15.108Z
+Generated: 2026-10-09T15:31:37.298Z

@@ -24,10 +24,10 @@ Indexed users: 561
 | 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,368 |
 | 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,355 |
 | 12 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,329 |
-| 13 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,325 |
+| 13 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,296 |
 | 14 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,228 |
 | 15 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,218 |
-| 16 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,200 |
+| 16 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,209 |
 | 17 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,164 |
 | 18 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | Praia Grande/SP | 1,141 |
 | 19 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,132 |
@@ -62,7 +62,7 @@ Indexed users: 561
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 450 |
+| 1 | [Andreia797](https://github.com/Andreia797) | Andreia Semedo | Cape Verde | 451 |
 | 2 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Praia Grande - SC | 437 |
 | 3 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 362 |
 | 4 | [Dnuns](https://github.com/Dnuns) | David Nunes | Cape Verde | 212 |
@@ -83,4 +83,4 @@ Indexed users: 561
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-09T14:38:27.163Z
+Generated: 2026-10-09T15:33:21.663Z

@@ -1,13 +1,13 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-09T14:51:41.859Z
+Generated: 2026-10-09T15:45:07.696Z
 
 Users: 1582
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [davideagle](https://github.com/davideagle) | davideagle |  |  | Iceland | 19520 |
-| 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | KrashidBuilt |  | Reykjavík, Iceland | 17861 |
+| 1 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | KrashidBuilt |  | Reykjavík, Iceland | 20075 |
+| 2 | [davideagle](https://github.com/davideagle) | davideagle |  |  | Iceland | 19520 |
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason |  |  | Akureyri, Iceland | 16153 |
 | 4 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 14616 |
 | 5 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12026 |
@@ -25,4 +25,4 @@ Users: 1582
 | 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 5501 |
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 5396 |
 | 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5373 |
-| 20 | [einargudnig](https://github.com/einargudnig) | Einar Guðni Guðjónsson | @maul-is  | einargudni | Reykjavik | 5203 |
+| 20 | [korri123](https://github.com/korri123) | Kormákur |  |  | Iceland | 5291 |

@@ -12,8 +12,8 @@ Indexed users: 1,582
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 19,520 |
-| 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 17,861 |
+| 1 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 20,075 |
+| 2 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 19,520 |
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason | Akureyri, Iceland | 16,153 |
 | 4 | [tylerelias](https://github.com/tylerelias) | Tyler | Iceland | 14,616 |
 | 5 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 12,026 |
@@ -31,7 +31,7 @@ Indexed users: 1,582
 | 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 5,501 |
 | 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 5,396 |
 | 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,373 |
-| 20 | [einargudnig](https://github.com/einargudnig) | Einar Guðni Guðjónsson | Reykjavik | 5,203 |
+| 20 | [korri123](https://github.com/korri123) | Kormákur | Iceland | 5,291 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,582
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-09T14:51:41.859Z
+Generated: 2026-10-09T15:45:07.696Z

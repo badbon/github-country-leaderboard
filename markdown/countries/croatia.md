@@ -19,7 +19,7 @@ Indexed users: 5,440
 | 5 | [TVCTC](https://github.com/TVCTC) | Tomislav | Zagreb | 10,893 |
 | 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 10,662 |
 | 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Zagreb, Croatia | 9,779 |
-| 8 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,649 |
+| 8 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
 | 9 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,075 |
 | 10 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
 | 11 | [markoboras0712](https://github.com/markoboras0712) | mboras | Osijek, Croatia | 7,256 |
@@ -83,4 +83,4 @@ Indexed users: 5,440
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-09T14:42:37.899Z
+Generated: 2026-10-09T15:36:38.357Z

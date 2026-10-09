@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-09T14:45:43.775Z
+Generated: 2026-10-09T15:40:09.318Z
 
 Users: 6709
 
@@ -16,13 +16,13 @@ Users: 6709
 | 8 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | IE Networks |  | Addis Ababa, Ethiopia | 3124 |
 | 9 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera |  |  | Ethiopia  | 3106 |
 | 10 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | @anchorpipe  | Rick_Riener | Addis Ababa | 3073 |
-| 11 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Novek ICT Solutions |  | Addis Ababa, Ethiopia | 2667 |
-| 12 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2523 |
-| 13 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
-| 14 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
-| 15 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa University |  | Addis Ababa | 2396 |
-| 16 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
-| 17 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |
-| 18 | [FiraBro](https://github.com/FiraBro) | Firagos Jemal |  |  | Ethiopia, Dire Dawa | 2200 |
-| 19 | [hirodinn](https://github.com/hirodinn) | Hire Bikila |  |  | Addis Ababa, Ethiopia | 2079 |
-| 20 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa Science And Technology University |  | Addis Ababa, Ethiopia | 2070 |
+| 11 | [yared2124](https://github.com/yared2124) | yared aregayehu |  | aregayehu68339 | Addis Ababa | 2980 |
+| 12 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Novek ICT Solutions |  | Addis Ababa, Ethiopia | 2667 |
+| 13 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2523 |
+| 14 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
+| 15 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
+| 16 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa University |  | Addis Ababa | 2396 |
+| 17 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
+| 18 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |
+| 19 | [FiraBro](https://github.com/FiraBro) | Firagos Jemal |  |  | Ethiopia, Dire Dawa | 2200 |
+| 20 | [hirodinn](https://github.com/hirodinn) | Hire Bikila |  |  | Addis Ababa, Ethiopia | 2079 |

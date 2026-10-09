@@ -1,8 +1,8 @@
 # Public Contributions - Grenada
 
-Generated: 2026-10-09T14:47:58.077Z
+Generated: 2026-10-09T15:41:33.503Z
 
-Users: 38
+Users: 37
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 38
 | 12 | [Adrito981119](https://github.com/Adrito981119) | Adrian Almeida Garcia |  |  | Saint George, Grenada | 3 |
 | 13 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | @Totally-Random-Productions  |  | Grenada | 2 |
 | 14 | [kranks40](https://github.com/kranks40) | Oketo Peters |  |  | Grenada | 2 |
-| 15 | [leo-the-dev](https://github.com/leo-the-dev) | Leo | LP Design Studio |  | Grenada | 2 |
-| 16 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Metarelic | clevonnoel | Grenada | 1 |
-| 17 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Sean's Computer Services | SeanPrice13_YT | Grand Anse, St. George's, Grenada | 1 |
-| 18 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | Caribbean Coding Academy |  | St George's, GRENADA | 0 |
-| 19 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Sonover |  | Grenada | 0 |
-| 20 | [ckpd](https://github.com/ckpd) | Charlie DeRiggs |  |  | Grenada | 0 |
+| 15 | [clevonnoel](https://github.com/clevonnoel) | Clevon Noel | Metarelic | clevonnoel | Grenada | 1 |
+| 16 | [SeanPrice13](https://github.com/SeanPrice13) | Bentley Price | Sean's Computer Services | SeanPrice13_YT | Grand Anse, St. George's, Grenada | 1 |
+| 17 | [CathyASamuel](https://github.com/CathyASamuel) | Catherine A. Samuel | Caribbean Coding Academy |  | St George's, GRENADA | 0 |
+| 18 | [chaddy012](https://github.com/chaddy012) | Chad Fraser | Sonover |  | Grenada | 0 |
+| 19 | [ckpd](https://github.com/ckpd) | Charlie DeRiggs |  |  | Grenada | 0 |
+| 20 | [Dassterdly](https://github.com/Dassterdly) | Damione J Darbeau | None |  | Grenada | 0 |

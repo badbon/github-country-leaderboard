@@ -16,13 +16,13 @@ Indexed users: 3,316
 | 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 15,371 |
 | 3 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
 | 4 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
-| 5 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 8,404 |
-| 6 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 8,322 |
-| 7 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 8,067 |
-| 8 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 7,804 |
-| 9 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Santo Domingo, Dominican Republic | 7,675 |
-| 10 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
-| 11 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 6,653 |
+| 5 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
+| 6 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 8,404 |
+| 7 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 8,322 |
+| 8 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 8,067 |
+| 9 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 7,804 |
+| 10 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Santo Domingo, Dominican Republic | 7,675 |
+| 11 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
 | 12 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
 | 13 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
 | 14 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 5,892 |
@@ -83,4 +83,4 @@ Indexed users: 3,316
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-09T14:44:16.234Z
+Generated: 2026-10-09T15:38:57.313Z

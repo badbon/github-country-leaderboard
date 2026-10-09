@@ -1,6 +1,6 @@
 # Jersey
 
-Indexed users: 139
+Indexed users: 140
 
 | Leaderboard | Link |
 |---|---|
@@ -43,20 +43,20 @@ Indexed users: 139
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 669 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 568 |
-| 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 431 |
-| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 225 |
-| 9 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 221 |
-| 10 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 210 |
-| 11 | [xsebby](https://github.com/xsebby) | sebby | jersey | 178 |
-| 12 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 152 |
-| 13 | [devdanio](https://github.com/devdanio) | Dan | Jersey | 139 |
-| 14 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 135 |
-| 15 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 131 |
-| 16 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 118 |
-| 17 | [doobox](https://github.com/doobox) | Doobox | Jersey | 110 |
-| 18 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 93 |
-| 19 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers | Jersey, Channel Islands | 90 |
-| 20 | [Induction1](https://github.com/Induction1) | Michael Gao | Jersey | 89 |
+| 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
+| 8 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 431 |
+| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 225 |
+| 10 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 221 |
+| 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 210 |
+| 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 178 |
+| 13 | [morrisjam](https://github.com/morrisjam) | James Morris | Jersey | 152 |
+| 14 | [devdanio](https://github.com/devdanio) | Dan | Jersey | 139 |
+| 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 135 |
+| 16 | [Adrian609](https://github.com/Adrian609) | Adrian | Jersey | 131 |
+| 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green | Jersey, Channel Islands | 118 |
+| 18 | [doobox](https://github.com/doobox) | Doobox | Jersey | 110 |
+| 19 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 93 |
+| 20 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers | Jersey, Channel Islands | 90 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-09T10:16:32.687Z
+Generated: 2026-10-09T15:31:29.404Z
