@@ -18,11 +18,11 @@ Indexed users: 1,346
 | 4 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,188 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 6,529 |
 | 6 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 6,302 |
-| 7 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire | Zambia | 5,088 |
-| 8 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 4,731 |
-| 9 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,005 |
-| 10 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,950 |
-| 11 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 3,866 |
+| 7 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,229 |
+| 8 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire | Zambia | 5,088 |
+| 9 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 4,731 |
+| 10 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,005 |
+| 11 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,950 |
 | 12 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,779 |
 | 13 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 3,753 |
 | 14 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
@@ -52,11 +52,11 @@ Indexed users: 1,346
 | 13 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 724 |
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
 | 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 649 |
-| 16 | [paritybits](https://github.com/paritybits) | Parity Chizela | Zambia | 638 |
-| 17 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
-| 18 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
-| 19 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
-| 20 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 528 |
+| 16 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 17 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
+| 18 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
+| 19 | [Pietrols](https://github.com/Pietrols) | Peter Kabamba | Kitwe, Zambia | 528 |
+| 20 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 525 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,346
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [kshula](https://github.com/kshula) | Kampamba Shula | Lusaka | 104 |
 
-Generated: 2026-10-09T06:52:50.961Z
+Generated: 2026-10-09T07:37:19.929Z

@@ -1,6 +1,6 @@
 # Public Contributions - Colombia
 
-Generated: 2026-10-09T07:01:37.232Z
+Generated: 2026-10-09T07:46:03.248Z
 
 Users: 29184
 
@@ -18,11 +18,11 @@ Users: 29184
 | 10 | [broomva](https://github.com/broomva) | Carlos D. Escobar-Valbuena | @GetStimulus | broomva_tech | Colombia | 5198 |
 | 11 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | ADAMNETCO | eduardotp77 | Bucaramanga, Santander, Colombia | 4638 |
 | 12 | [DevJuan001](https://github.com/DevJuan001) | Juan |  |  | Bogotá, Colombia | 4559 |
-| 13 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Orionis Framework | rmunate | Colombia | 4264 |
-| 14 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno |  |  | Colombia, Bogotá | 4226 |
-| 15 | [oscampo](https://github.com/oscampo) | Oscar Campo |  |  | Colombia | 4111 |
-| 16 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta |  |  | Colombia | 3953 |
-| 17 | [Juan17la](https://github.com/Juan17la) | Juan Diego |  |  | Colombia | 3916 |
-| 18 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | @DailyBotHQ  | XergioAleX | Pereira, Colombia | 3912 |
-| 19 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Mgldvd |  | Colombia | 3877 |
-| 20 | [mjfelis](https://github.com/mjfelis) | Fabrice Rochette | Verana Foundation |  | Bogotá, Colombia | 3807 |
+| 13 | [Chpmunk31456](https://github.com/Chpmunk31456) | Al Leiva |  |  | Chía, Cundinamarca, Colombia | 4330 |
+| 14 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Orionis Framework | rmunate | Colombia | 4264 |
+| 15 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno |  |  | Colombia, Bogotá | 4226 |
+| 16 | [oscampo](https://github.com/oscampo) | Oscar Campo |  |  | Colombia | 4111 |
+| 17 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta |  |  | Colombia | 3953 |
+| 18 | [Juan17la](https://github.com/Juan17la) | Juan Diego |  |  | Colombia | 3916 |
+| 19 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | @DailyBotHQ  | XergioAleX | Pereira, Colombia | 3912 |
+| 20 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Mgldvd |  | Colombia | 3877 |

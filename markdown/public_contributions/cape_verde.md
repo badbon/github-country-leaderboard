@@ -1,18 +1,18 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-09T07:00:27.074Z
+Generated: 2026-10-09T07:45:13.681Z
 
-Users: 562
+Users: 561
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Mateuus](https://github.com/Mateuus) | Mateuus | Rodrigues Tech |  | Praia Grande - SP | 1387 |
-| 2 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1337 |
+| 2 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1355 |
 | 3 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1060 |
 | 4 | [klcombr](https://github.com/klcombr) | KL Com |  |  | Praia Grande, SP | 1003 |
 | 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho |  |  | Cape Verde | 706 |
 | 6 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido |  |  | praia grande-sp | 691 |
-| 7 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  |  |  | Praia grande - sp | 542 |
+| 7 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  |  |  | Praia grande - sp | 556 |
 | 8 | [Coyas](https://github.com/Coyas) | Ailton Duarte | TerraSystem | A_coyas | Praia, Cabo Verde | 466 |
 | 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes |  |  | Praia Grande - SP | 414 |
 | 10 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Fatec Praia Grande |  | Praia Grande | 401 |
@@ -25,4 +25,4 @@ Users: 562
 | 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira |  |  | Praia Grande-SP | 197 |
 | 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | DevTrust Consulting Developing |  | Cabo Verde - Praia | 186 |
 | 19 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Appso Tecnologia |  | Praia Grande - SC | 185 |
-| 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel |  |  | Cape Verde,Praia | 182 |
+| 20 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  |  |  Praia da Costa, Vila Velha - ES | 179 |

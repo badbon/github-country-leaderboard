@@ -13,24 +13,24 @@ Indexed users: 1,655
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,600 |
-| 2 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,326 |
-| 3 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,682 |
-| 4 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,290 |
-| 5 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 7,217 |
-| 6 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 7,067 |
-| 7 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 6,959 |
-| 8 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 6,719 |
-| 9 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
-| 10 | [CyprianTinasheAarons](https://github.com/CyprianTinasheAarons) | Cyprian Tinashe Aarons | Zimbabwe | 6,525 |
-| 11 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
-| 12 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 6,092 |
-| 13 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,832 |
-| 14 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 5,484 |
-| 15 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
-| 16 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,403 |
-| 17 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
-| 18 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 5,011 |
-| 19 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 4,899 |
+| 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 9,480 |
+| 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,326 |
+| 4 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,682 |
+| 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,290 |
+| 6 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 7,217 |
+| 7 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 7,208 |
+| 8 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 7,067 |
+| 9 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 6,719 |
+| 10 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
+| 11 | [CyprianTinasheAarons](https://github.com/CyprianTinasheAarons) | Cyprian Tinashe Aarons | Zimbabwe | 6,525 |
+| 12 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
+| 13 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 6,092 |
+| 14 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,832 |
+| 15 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 5,484 |
+| 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
+| 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,403 |
+| 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
+| 19 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 5,011 |
 | 20 | [tawandachiteshe](https://github.com/tawandachiteshe) | tawandachiteshe | Harare | 4,811 |
 
 ## Public Contributions
@@ -39,8 +39,8 @@ Indexed users: 1,655
 |---:|---|---|---|---:|
 | 1 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,326 |
 | 2 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
-| 3 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 4,230 |
-| 4 | [Mutombe](https://github.com/Mutombe) | Mutombe | Waterfalls Harare | 4,209 |
+| 3 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 4,857 |
+| 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Zimbabwe, Harare | 4,230 |
 | 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 3,589 |
 | 6 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 2,830 |
 | 7 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 2,567 |
@@ -55,8 +55,8 @@ Indexed users: 1,655
 | 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,249 |
 | 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,220 |
 | 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
-| 19 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,092 |
-| 20 | [ohnonashe](https://github.com/ohnonashe) | Nashe Dan | Harare, Zimbabwe | 1,020 |
+| 19 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,120 |
+| 20 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,092 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,655
 | 19 | [musungare-tanaka](https://github.com/musungare-tanaka) | Tanaka Musungare Wonder  | Harare | 116 |
 | 20 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 
-Generated: 2026-10-09T06:52:55.112Z
+Generated: 2026-10-09T07:37:24.986Z

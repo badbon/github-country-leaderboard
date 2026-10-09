@@ -24,14 +24,14 @@ Indexed users: 696
 | 10 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 5,904 |
 | 11 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 5,891 |
 | 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,508 |
-| 13 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 4,996 |
-| 14 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 4,954 |
-| 15 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,647 |
-| 16 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,563 |
-| 17 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,546 |
-| 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,531 |
-| 19 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 4,320 |
-| 20 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Kinshasa, Democratic Republic of Congo | 4,014 |
+| 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | Kinshasa, DRC | 5,501 |
+| 14 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 4,996 |
+| 15 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 4,954 |
+| 16 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,647 |
+| 17 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,563 |
+| 18 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,546 |
+| 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,531 |
+| 20 | [oesukam](https://github.com/oesukam) | Olivier M. Esuka | Kinshasa, Nairobi, Kigali | 4,320 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 696
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-09T07:03:26.165Z
+Generated: 2026-10-09T07:48:10.845Z

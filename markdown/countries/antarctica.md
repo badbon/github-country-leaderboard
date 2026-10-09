@@ -20,7 +20,7 @@ Indexed users: 462
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,757 |
 | 7 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,612 |
 | 8 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
-| 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,413 |
+| 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,482 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,135 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,973 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,850 |
@@ -38,7 +38,7 @@ Indexed users: 462
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,599 |
-| 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,010 |
+| 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,078 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,489 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,996 |
 | 5 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,140 |
@@ -83,4 +83,4 @@ Indexed users: 462
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-09T06:54:31.144Z
+Generated: 2026-10-09T07:38:55.532Z

@@ -1,6 +1,6 @@
 # Followers - Macau
 
-Generated: 2026-10-09T07:15:47.420Z
+Generated: 2026-10-09T07:59:18.992Z
 
 Users: 441
 
@@ -11,7 +11,7 @@ Users: 441
 | 3 | [yangfengzzz](https://github.com/yangfengzzz) | yangfengzzz |  |  | Macau | 211 |
 | 4 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 204 |
 | 5 | [andyhamgit](https://github.com/andyhamgit) | Di Han |  |  | Macau | 186 |
-| 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 184 |
+| 6 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 186 |
 | 7 | [clinplayer](https://github.com/clinplayer) | Cheng Lin |  |  | Macau | 167 |
 | 8 | [IMRL](https://github.com/IMRL) |  |  |  | Taipa, Macau | 165 |
 | 9 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | FST, University of Macau |  | Macau | 129 |
@@ -24,5 +24,5 @@ Users: 441
 | 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Harvard University | laochonlam | Macau | 92 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong |  |  | Macau | 83 |
 | 18 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 68 |
-| 19 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 67 |
-| 20 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 66 |
+| 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 67 |
+| 20 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 67 |

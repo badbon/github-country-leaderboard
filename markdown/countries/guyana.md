@@ -1,6 +1,6 @@
 # Guyana
 
-Indexed users: 185
+Indexed users: 186
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-09T07:10:53.334Z
+Generated: 2026-10-09T07:54:28.989Z

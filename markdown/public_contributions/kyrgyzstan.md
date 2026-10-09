@@ -1,6 +1,6 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-09T07:14:36.745Z
+Generated: 2026-10-09T07:56:50.772Z
 
 Users: 2455
 
@@ -20,9 +20,9 @@ Users: 2455
 | 12 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1247 |
 | 13 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1203 |
 | 14 | [enoobis](https://github.com/enoobis) | Daniel Becerra |  | enoobis | Bishkek / Kyrgyzstan | 1184 |
-| 15 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 1130 |
-| 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
-| 17 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 991 |
+| 15 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
+| 16 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 991 |
+| 17 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 978 |
 | 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | international university  |  | Bishkek, Kyrgyzstan | 964 |
 | 19 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 897 |
 | 20 | [salievyt](https://github.com/salievyt) | sm1le | @DEO-CORE |  | Kyrgyzstan | 887 |

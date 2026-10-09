@@ -1,6 +1,6 @@
 # Cape Verde
 
-Indexed users: 562
+Indexed users: 561
 
 | Leaderboard | Link |
 |---|---|
@@ -22,7 +22,7 @@ Indexed users: 562
 | 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,755 |
 | 9 | [Mateuus](https://github.com/Mateuus) | Mateuus | Praia Grande - SP | 1,387 |
 | 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,368 |
-| 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,337 |
+| 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,355 |
 | 12 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,329 |
 | 13 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,325 |
 | 14 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,225 |
@@ -38,12 +38,12 @@ Indexed users: 562
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Mateuus](https://github.com/Mateuus) | Mateuus | Praia Grande - SP | 1,387 |
-| 2 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,337 |
+| 2 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,355 |
 | 3 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,060 |
 | 4 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,003 |
 | 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 706 |
 | 6 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 691 |
-| 7 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 542 |
+| 7 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 556 |
 | 8 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 466 |
 | 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes | Praia Grande - SP | 414 |
 | 10 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Praia Grande | 401 |
@@ -56,7 +56,7 @@ Indexed users: 562
 | 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 197 |
 | 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 186 |
 | 19 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Praia Grande - SC | 185 |
-| 20 | [Jorgegabrielsantos](https://github.com/Jorgegabrielsantos) | Jorge Gabriel | Cape Verde,Praia | 182 |
+| 20 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  Praia da Costa, Vila Velha - ES | 179 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 562
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-09T07:00:27.074Z
+Generated: 2026-10-09T07:45:13.681Z

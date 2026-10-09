@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-09T06:56:53.110Z
+Generated: 2026-10-09T07:44:23.956Z
 
 Users: 534
 
@@ -15,7 +15,7 @@ Users: 534
 | 7 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe |  |  | Botswana | 67 |
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 67 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Microverse | Milez09 | Palapye, Botswana | 64 |
-| 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 61 |
+| 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 63 |
 | 11 | [impurefunctions](https://github.com/impurefunctions) | Kesego Tumisang | @Spectrum-Analytics @officialgdggaborone  | impurefunctions | Gaborone, Botswana | 58 |
 | 12 | [Mathhews777](https://github.com/Mathhews777) | Thato Mooketsi |  |  | Gaborone | 50 |
 | 13 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono |  | Hope_Ntshonono | Gaborone,Botswana | 46 |

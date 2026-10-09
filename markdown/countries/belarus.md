@@ -66,7 +66,7 @@ Indexed users: 10,951
 | 2 | [YauhenKavalchuk](https://github.com/YauhenKavalchuk) | Yauhen Kavalchuk | Belarus, Minsk | 1,928 |
 | 3 | [Azimka228](https://github.com/Azimka228) | Dmitriy_Andreevich | Belarus, Minsk | 1,224 |
 | 4 | [Apleon](https://github.com/Apleon) | Andrew Sharapov  | Minsk, Belarus  | 992 |
-| 5 | [ArtPlatosha](https://github.com/ArtPlatosha) | Artyom | Belarus, Minsk | 666 |
+| 5 | [ArtPlatosha](https://github.com/ArtPlatosha) | Artyom | Belarus, Minsk | 653 |
 | 6 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 620 |
 | 7 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 469 |
 | 8 | [abirul3881](https://github.com/abirul3881) | Andrei Birul | Mozyr,Belarus | 393 |
@@ -74,7 +74,7 @@ Indexed users: 10,951
 | 10 | [saldatCrus](https://github.com/saldatCrus) | SaldatCrus Exe  | Belarus | 284 |
 | 11 | [yzh44yzh](https://github.com/yzh44yzh) | Yuri Zhloba | Minsk, Belarus | 264 |
 | 12 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 250 |
-| 13 | [k1ngmang](https://github.com/k1ngmang) | Artyom Lipatov | Belarus | 221 |
+| 13 | [k1ngmang](https://github.com/k1ngmang) | Artyom Lipatov | Belarus | 224 |
 | 14 | [AnzhelikaKravchuk](https://github.com/AnzhelikaKravchuk) | Anzhelika Kravchuk | Belarus, Minsk | 213 |
 | 15 | [MeFoDy](https://github.com/MeFoDy) | Nikita Dubko | Minsk, Belarus | 202 |
 | 16 | [asaskevich](https://github.com/asaskevich) | Aliaksei (Alex) Saskevich | Belarus | 189 |
@@ -83,4 +83,4 @@ Indexed users: 10,951
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-09T06:55:31.525Z
+Generated: 2026-10-09T07:42:43.833Z

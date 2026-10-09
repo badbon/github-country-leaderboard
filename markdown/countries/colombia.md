@@ -31,7 +31,7 @@ Indexed users: 29,184
 | 17 | [BallesterosDev56](https://github.com/BallesterosDev56) | Daniel Ballesteros | Colombia | 12,471 |
 | 18 | [SebastianLopezO](https://github.com/SebastianLopezO) | Sebastián López O | Colombia | 12,412 |
 | 19 | [Jaro-c](https://github.com/Jaro-c) | Jose | Colombia | 11,988 |
-| 20 | [mikerb95](https://github.com/mikerb95) | Mike Rodriguez | Bogotá, Colombia. | 11,484 |
+| 20 | [ANDREYPLAZAST](https://github.com/ANDREYPLAZAST) | Andrey Steven Plazas Torres | Bogotá, Colombia | 11,630 |
 
 ## Public Contributions
 
@@ -49,14 +49,14 @@ Indexed users: 29,184
 | 10 | [broomva](https://github.com/broomva) | Carlos D. Escobar-Valbuena | Colombia | 5,198 |
 | 11 | [eduardotp77](https://github.com/eduardotp77) | Eduardo Tobacia | Bucaramanga, Santander, Colombia | 4,638 |
 | 12 | [DevJuan001](https://github.com/DevJuan001) | Juan | Bogotá, Colombia | 4,559 |
-| 13 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Colombia | 4,264 |
-| 14 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno | Colombia, Bogotá | 4,226 |
-| 15 | [oscampo](https://github.com/oscampo) | Oscar Campo | Colombia | 4,111 |
-| 16 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta | Colombia | 3,953 |
-| 17 | [Juan17la](https://github.com/Juan17la) | Juan Diego | Colombia | 3,916 |
-| 18 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | Pereira, Colombia | 3,912 |
-| 19 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Colombia | 3,877 |
-| 20 | [mjfelis](https://github.com/mjfelis) | Fabrice Rochette | Bogotá, Colombia | 3,807 |
+| 13 | [Chpmunk31456](https://github.com/Chpmunk31456) | Al Leiva | Chía, Cundinamarca, Colombia | 4,330 |
+| 14 | [rmunate](https://github.com/rmunate) | Raúl Mauricio Uñate Castro | Colombia | 4,264 |
+| 15 | [hulkike](https://github.com/hulkike) | Hernando Enrique Moreno Moreno | Colombia, Bogotá | 4,226 |
+| 16 | [oscampo](https://github.com/oscampo) | Oscar Campo | Colombia | 4,111 |
+| 17 | [Carlosaac23](https://github.com/Carlosaac23) | Carlos Acosta | Colombia | 3,953 |
+| 18 | [Juan17la](https://github.com/Juan17la) | Juan Diego | Colombia | 3,916 |
+| 19 | [xergioalex](https://github.com/xergioalex) | Sergio Florez | Pereira, Colombia | 3,912 |
+| 20 | [Mgldvd](https://github.com/Mgldvd) | Mgldvd | Colombia | 3,877 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 29,184
 | 19 | [goanpeca](https://github.com/goanpeca) | Gonzalo Peña-Castellanos | Bogotá, Colombia | 530 |
 | 20 | [jdvelasq](https://github.com/jdvelasq) | Juan David Velásquez-Henao | Medellín, Colombia | 529 |
 
-Generated: 2026-10-09T07:01:37.232Z
+Generated: 2026-10-09T07:46:03.248Z

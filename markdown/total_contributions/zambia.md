@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-09T06:52:50.961Z
+Generated: 2026-10-09T07:37:19.929Z
 
 Users: 1346
 
@@ -12,11 +12,11 @@ Users: 1346
 | 4 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  |  | AbdurChimalo | Lusaka, Zambia  | 7188 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | @Interwebb | thompsonmanda08 | Zambia | 6529 |
 | 6 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 6302 |
-| 7 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire |  | senorMk | Zambia | 5088 |
-| 8 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 4731 |
-| 9 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
-| 10 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3950 |
-| 11 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 3866 |
+| 7 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 5229 |
+| 8 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire |  | senorMk | Zambia | 5088 |
+| 9 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 4731 |
+| 10 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
+| 11 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3950 |
 | 12 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3779 |
 | 13 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
 | 14 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |

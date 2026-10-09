@@ -12,11 +12,11 @@ Indexed users: 339
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 5,697 |
-| 2 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,506 |
+| 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,506 |
+| 2 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 5,482 |
 | 3 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,733 |
 | 4 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,543 |
-| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,524 |
+| 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,531 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,416 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,354 |
 | 8 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,340 |
@@ -29,7 +29,7 @@ Indexed users: 339
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,451 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,324 |
 | 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,119 |
-| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 977 |
+| 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 976 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 947 |
 | 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 858 |
 
@@ -39,7 +39,7 @@ Indexed users: 339
 |---:|---|---|---|---:|
 | 1 | [lanovatechnologie-a11y](https://github.com/lanovatechnologie-a11y) | Lota | Limonade, Haiti | 692 |
 | 2 | [midsonlajeanty](https://github.com/midsonlajeanty) | Louis Midson Lajeanty | Haiti | 435 |
-| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 399 |
+| 3 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 407 |
 | 4 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
 | 5 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 343 |
 | 6 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 336 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-09T07:11:15.927Z
+Generated: 2026-10-09T07:54:32.830Z

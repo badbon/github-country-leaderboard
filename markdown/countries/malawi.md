@@ -45,10 +45,10 @@ Indexed users: 902
 | 6 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 1,095 |
 | 7 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 1,018 |
 | 8 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 959 |
-| 9 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 783 |
-| 10 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 737 |
-| 11 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
-| 12 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
+| 9 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 951 |
+| 10 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 783 |
+| 11 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 737 |
+| 12 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
 | 13 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 651 |
 | 14 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
 | 15 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 612 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 
-Generated: 2026-10-09T07:16:25.130Z
+Generated: 2026-10-09T07:59:25.687Z

@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,358
+Indexed users: 1,359
 
 | Leaderboard | Link |
 |---|---|
@@ -46,17 +46,17 @@ Indexed users: 1,358
 | 7 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 1,839 |
 | 8 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,661 |
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,655 |
-| 10 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
-| 11 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,315 |
-| 12 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
-| 13 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,220 |
-| 14 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,160 |
-| 15 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
-| 16 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
-| 17 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
-| 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,021 |
-| 19 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
-| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 927 |
+| 10 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,623 |
+| 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
+| 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,315 |
+| 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
+| 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,220 |
+| 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,160 |
+| 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
+| 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
+| 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
+| 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,021 |
+| 20 | [bngesp](https://github.com/bngesp) | bassirou ngom | Senegal | 998 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,358
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 | 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 
-Generated: 2026-10-09T07:27:07.675Z
+Generated: 2026-10-09T07:51:30.108Z

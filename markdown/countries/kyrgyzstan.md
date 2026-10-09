@@ -51,9 +51,9 @@ Indexed users: 2,455
 | 12 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | Bishkek, Kyrgyzstan | 1,247 |
 | 13 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | Bishkek | 1,203 |
 | 14 | [enoobis](https://github.com/enoobis) | Daniel Becerra | Bishkek / Kyrgyzstan | 1,184 |
-| 15 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 1,130 |
-| 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
-| 17 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
+| 15 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Bishkek | 1,025 |
+| 16 | [asannov](https://github.com/asannov) | Damir | Bishkek, Kyrgyz Republic | 991 |
+| 17 | [dioritdev](https://github.com/dioritdev) | DIOR | Kyrgyzstan/Osh | 978 |
 | 18 | [er-Bilim](https://github.com/er-Bilim) | notesoat | Bishkek, Kyrgyzstan | 964 |
 | 19 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 897 |
 | 20 | [salievyt](https://github.com/salievyt) | sm1le | Kyrgyzstan | 887 |
@@ -83,4 +83,4 @@ Indexed users: 2,455
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 
-Generated: 2026-10-09T07:14:36.745Z
+Generated: 2026-10-09T07:56:50.772Z

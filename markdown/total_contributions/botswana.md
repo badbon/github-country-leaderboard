@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-09T06:56:53.110Z
+Generated: 2026-10-09T07:44:23.956Z
 
 Users: 534
 
@@ -18,7 +18,7 @@ Users: 534
 | 10 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 2059 |
 | 11 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Innovateium (Pty) Ltd | mrdiin_dev | Gaborone | 2035 |
 | 12 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 2028 |
-| 13 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 1999 |
+| 13 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 1993 |
 | 14 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 1982 |
 | 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1958 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 1890 |

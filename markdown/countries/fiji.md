@@ -18,7 +18,7 @@ Indexed users: 325
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,302 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,135 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,085 |
-| 7 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,047 |
+| 7 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,045 |
 | 8 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,022 |
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,008 |
 | 10 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 891 |
@@ -66,8 +66,8 @@ Indexed users: 325
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 134 |
 | 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Nadi ,Fiji | 69 |
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 66 |
-| 5 | [GeekTR](https://github.com/GeekTR) | Rui Tang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
-| 6 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 65 |
+| 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 66 |
+| 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
 | 7 | [Iapa](https://github.com/Iapa) | Ava Niu | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 39 |
 | 8 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav | Fiji | 34 |
 | 9 | [JonGates](https://github.com/JonGates) | Jon Gates | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-09T07:06:46.987Z
+Generated: 2026-10-09T07:51:01.907Z

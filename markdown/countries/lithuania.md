@@ -39,7 +39,7 @@ Indexed users: 5,397
 |---:|---|---|---|---:|
 | 1 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 12,246 |
 | 2 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
-| 3 | [razinkele](https://github.com/razinkele) | Arturas Razinkovas-Baziukas | Lithuania | 6,210 |
+| 3 | [razinkele](https://github.com/razinkele) | Arturas Razinkovas-Baziukas | Lithuania | 7,743 |
 | 4 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 6,149 |
 | 5 | [shenxianpeng](https://github.com/shenxianpeng) | Xianpeng Shen | Lithuania | 5,796 |
 | 6 | [UlodisEglitis](https://github.com/UlodisEglitis) | Ulodis Eglitis | Lithuania | 5,076 |
@@ -83,4 +83,4 @@ Indexed users: 5,397
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-09T07:15:35.191Z
+Generated: 2026-10-09T07:58:37.318Z

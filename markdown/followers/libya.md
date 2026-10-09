@@ -1,6 +1,6 @@
 # Followers - Libya
 
-Generated: 2026-10-09T07:15:25.709Z
+Generated: 2026-10-09T07:57:52.866Z
 
 Users: 745
 
@@ -25,4 +25,4 @@ Users: 745
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 57 |
 | 18 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar |  | SL0wZEr | Tripoli, Libya | 57 |
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi |  | zizouhuweidi | Benghazi, Libya | 52 |
-| 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 47 |
+| 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | @ProcessorLY |  | Benghazi, Libya | 49 |

@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-10-09T07:06:46.987Z
+Generated: 2026-10-09T07:51:01.907Z
 
 Users: 325
 
@@ -10,8 +10,8 @@ Users: 325
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 134 |
 | 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Forward company (FIJI) |  | Nadi ,Fiji | 69 |
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 66 |
-| 5 | [GeekTR](https://github.com/GeekTR) | Rui Tang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
-| 6 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 65 |
+| 5 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 66 |
+| 6 | [GeekTR](https://github.com/GeekTR) | Rui Tang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 65 |
 | 7 | [Iapa](https://github.com/Iapa) | Ava Niu |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 39 |
 | 8 | [Pranav-XP](https://github.com/Pranav-XP) | Pranav |  |  | Fiji | 34 |
 | 9 | [JonGates](https://github.com/JonGates) | Jon Gates | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 33 |

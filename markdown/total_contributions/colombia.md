@@ -1,6 +1,6 @@
 # Total Contributions - Colombia
 
-Generated: 2026-10-09T07:01:37.232Z
+Generated: 2026-10-09T07:46:03.248Z
 
 Users: 29184
 
@@ -25,4 +25,4 @@ Users: 29184
 | 17 | [BallesterosDev56](https://github.com/BallesterosDev56) | Daniel Ballesteros |  |  | Colombia | 12471 |
 | 18 | [SebastianLopezO](https://github.com/SebastianLopezO) | Sebastián López O |  |  | Colombia | 12412 |
 | 19 | [Jaro-c](https://github.com/Jaro-c) | Jose |  | Jar0_c | Colombia | 11988 |
-| 20 | [mikerb95](https://github.com/mikerb95) | Mike Rodriguez | CodeByMike |  | Bogotá, Colombia. | 11484 |
+| 20 | [ANDREYPLAZAST](https://github.com/ANDREYPLAZAST) | Andrey Steven Plazas Torres |  |  | Bogotá, Colombia | 11630 |

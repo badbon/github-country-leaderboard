@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-09T07:15:47.420Z
+Generated: 2026-10-09T07:59:18.992Z
 
 Users: 441
 
@@ -20,9 +20,9 @@ Users: 441
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 794 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
 | 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 673 |
-| 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 649 |
+| 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 656 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 550 |
-| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 521 |
+| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | University of Macau |  | Macau | 546 |
 | 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Lemon Network Solutions |  | Macau | 503 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 467 |

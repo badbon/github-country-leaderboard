@@ -1,8 +1,8 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-09T07:00:27.074Z
+Generated: 2026-10-09T07:45:13.681Z
 
-Users: 562
+Users: 561
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 562
 | 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1755 |
 | 9 | [Mateuus](https://github.com/Mateuus) | Mateuus | Rodrigues Tech |  | Praia Grande - SP | 1387 |
 | 10 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1368 |
-| 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1337 |
+| 11 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1355 |
 | 12 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1329 |
 | 13 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1325 |
 | 14 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1225 |

@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,113
+Indexed users: 7,112
 
 | Leaderboard | Link |
 |---|---|
@@ -53,8 +53,8 @@ Indexed users: 7,113
 | 14 | [wsuits6](https://github.com/wsuits6) | wsuits6 | Ghana | 2,483 |
 | 15 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
 | 16 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
-| 17 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
-| 18 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,281 |
+| 17 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
+| 18 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
 | 19 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,176 |
 | 20 | [hayfordstanley](https://github.com/hayfordstanley) | Stanley Hayford | Accra, Ghana | 2,146 |
 
@@ -83,4 +83,4 @@ Indexed users: 7,113
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 321 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 315 |
 
-Generated: 2026-10-09T07:07:59.256Z
+Generated: 2026-10-09T07:52:57.047Z
