@@ -1,6 +1,6 @@
 # Public Contributions - Trinidad and Tobago
 
-Generated: 2026-10-09T14:22:46.599Z
+Generated: 2026-10-09T15:18:42.440Z
 
 Users: 256
 
@@ -8,7 +8,7 @@ Users: 256
 |---:|---|---|---|---|---|---:|
 | 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 3777 |
 | 2 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1436 |
-| 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1175 |
+| 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1188 |
 | 4 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1062 |
 | 5 | [rishi-latchmepersad](https://github.com/rishi-latchmepersad) | Rishi Latchmepersad | Shell |  | Trinidad and Tobago | 950 |
 | 6 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 789 |

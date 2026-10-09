@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,278
+Indexed users: 1,279
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,278
 | 19 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 93 |
 
-Generated: 2026-10-09T14:53:49.864Z
+Generated: 2026-10-09T15:26:12.178Z

@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-09T14:02:25.054Z
+Generated: 2026-10-09T14:58:52.693Z
 
 Users: 1912
 
@@ -18,11 +18,11 @@ Users: 1912
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2222 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1932 |
 | 12 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1907 |
-| 13 | [RazanajoharyNyHasina](https://github.com/RazanajoharyNyHasina) | Ny Hasina |  |  | Antananarivo | 1793 |
-| 14 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1738 |
-| 15 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1623 |
-| 16 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
-| 17 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1558 |
-| 18 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
-| 19 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1535 |
-| 20 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1486 |
+| 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1738 |
+| 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1623 |
+| 15 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
+| 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1558 |
+| 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
+| 18 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1535 |
+| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1486 |
+| 20 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé |  |  | Antananarivo | 1460 |

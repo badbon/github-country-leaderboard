@@ -25,7 +25,7 @@ Indexed users: 299
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,729 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,386 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,307 |
-| 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,131 |
+| 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,199 |
 | 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,993 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,684 |
@@ -64,7 +64,7 @@ Indexed users: 299
 |---:|---|---|---|---:|
 | 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 318 |
 | 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 211 |
-| 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 206 |
+| 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 207 |
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 108 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 102 |
 | 6 | [hkfmz](https://github.com/hkfmz) | Hegel Motokoua | Brazzaville | 96 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-09T14:12:39.764Z
+Generated: 2026-10-09T15:09:19.088Z

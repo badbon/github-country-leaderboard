@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-09T14:03:24.918Z
+Generated: 2026-10-09T15:01:09.290Z
 
 Users: 715
 
@@ -19,10 +19,10 @@ Users: 715
 | 11 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 5064 |
 | 12 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 4881 |
 | 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4107 |
-| 14 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 3701 |
-| 15 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 3696 |
-| 16 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |
-| 17 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 3270 |
-| 18 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 3201 |
-| 19 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 3017 |
-| 20 | [asitrakah](https://github.com/asitrakah) | Sitraka Andrianarisoa |  |  | Grand Baie, Mauritius | 2965 |
+| 14 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 3875 |
+| 15 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 3701 |
+| 16 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 3696 |
+| 17 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |
+| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 3270 |
+| 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 3201 |
+| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  |  | iwugodjoshua | Republic of Mauritius  | 3017 |

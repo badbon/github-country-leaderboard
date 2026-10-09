@@ -1,6 +1,6 @@
 # Slovenia
 
-Indexed users: 3,110
+Indexed users: 3,109
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,110
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-09T14:18:09.394Z
+Generated: 2026-10-09T15:14:48.596Z

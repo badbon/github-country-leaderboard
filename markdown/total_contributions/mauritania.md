@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-09T14:03:21.112Z
+Generated: 2026-10-09T15:00:30.439Z
 
 Users: 289
 
@@ -8,7 +8,7 @@ Users: 289
 |---:|---|---|---|---|---|---:|
 | 1 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 11771 |
 | 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 11428 |
-| 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 9695 |
+| 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 10033 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 8364 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 4352 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4094 |
@@ -24,5 +24,5 @@ Users: 289
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1333 |
 | 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1277 |
 | 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 968 |
-| 19 | [aadeina](https://github.com/aadeina) | Amar |  |  | Mauritania | 855 |
+| 19 | [aadeina](https://github.com/aadeina) | Amar |  |  | Mauritania | 852 |
 | 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 843 |

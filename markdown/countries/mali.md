@@ -40,7 +40,7 @@ Indexed users: 347
 | 1 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 6,388 |
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,319 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,413 |
-| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,169 |
+| 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,163 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,116 |
 | 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 565 |
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-09T14:02:47.129Z
+Generated: 2026-10-09T14:59:10.562Z

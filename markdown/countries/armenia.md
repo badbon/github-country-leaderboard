@@ -31,7 +31,7 @@ Indexed users: 4,048
 | 17 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh | Armenia Yerevan | 6,418 |
 | 18 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | Yerevan | 6,361 |
 | 19 | [lanycrost](https://github.com/lanycrost) | Khachatur Ashotyan | Yerevan | 6,187 |
-| 20 | [hovakimyanarayik](https://github.com/hovakimyanarayik) | Arayik Hovakimyan | Yerevan, Armenia | 6,181 |
+| 20 | [hovakimyanarayik](https://github.com/hovakimyanarayik) | Arayik Hovakimyan | Yerevan, Armenia | 5,991 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,048
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-09T14:31:26.614Z
+Generated: 2026-10-09T15:26:17.924Z

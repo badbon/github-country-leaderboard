@@ -25,13 +25,13 @@ Indexed users: 728
 | 11 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,427 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,417 |
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,119 |
-| 14 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,774 |
-| 15 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,769 |
-| 16 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,594 |
-| 17 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,204 |
-| 18 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,171 |
-| 19 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,169 |
-| 20 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf | Bahrain | 2,960 |
+| 14 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,114 |
+| 15 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,774 |
+| 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,769 |
+| 17 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,594 |
+| 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,204 |
+| 19 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,171 |
+| 20 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,169 |
 
 ## Public Contributions
 
@@ -43,8 +43,8 @@ Indexed users: 728
 | 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,661 |
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,147 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 1,877 |
-| 7 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,258 |
-| 8 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 966 |
+| 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,300 |
+| 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,258 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
 | 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 829 |
@@ -81,6 +81,6 @@ Indexed users: 728
 | 17 | [veno](https://github.com/veno) | Venomous Committer | Bahrain | 45 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees | Manama, Bahrain | 42 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
-| 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 38 |
+| 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
 
-Generated: 2026-10-09T14:32:29.332Z
+Generated: 2026-10-09T15:27:37.751Z

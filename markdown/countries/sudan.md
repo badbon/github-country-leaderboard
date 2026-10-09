@@ -12,7 +12,7 @@ Indexed users: 729
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,082 |
+| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,133 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,531 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,473 |
 | 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan | 4,776 |
@@ -41,14 +41,14 @@ Indexed users: 729
 | 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,198 |
 | 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 939 |
-| 5 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 812 |
-| 6 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 800 |
-| 7 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
-| 8 | [3bdalla3adil](https://github.com/3bdalla3adil) | abdulla bashir | Sudan | 610 |
-| 9 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 551 |
-| 10 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 461 |
-| 11 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX | El-Obeid/Sudan | 461 |
-| 12 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 437 |
+| 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 842 |
+| 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 812 |
+| 7 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 800 |
+| 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
+| 9 | [3bdalla3adil](https://github.com/3bdalla3adil) | abdulla bashir | Sudan | 610 |
+| 10 | [mohamedkam000](https://github.com/mohamedkam000) | Muhammad Kamal | Sudan | 551 |
+| 11 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 461 |
+| 12 | [Wadamzmail](https://github.com/Wadamzmail) | MutwakilX | El-Obeid/Sudan | 461 |
 | 13 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | Omdurman, Khartoum, Sudan | 419 |
 | 14 | [AminElhag](https://github.com/AminElhag) | Amin Elhag | Khartoum,Sudan | 398 |
 | 15 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | sudan | 393 |
@@ -73,8 +73,8 @@ Indexed users: 729
 | 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia | Sudan | 87 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab | Khartoum, Sudan | 76 |
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | sudan | 73 |
-| 12 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 61 |
-| 13 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 60 |
+| 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 62 |
+| 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 61 |
 | 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar | Sudan, Khartoum | 59 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 59 |
 | 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 56 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-10-09T14:20:18.466Z
+Generated: 2026-10-09T15:16:20.455Z

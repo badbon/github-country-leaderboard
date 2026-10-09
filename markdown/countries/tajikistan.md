@@ -46,7 +46,7 @@ Indexed users: 711
 | 7 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 953 |
 | 8 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 940 |
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 823 |
-| 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 760 |
+| 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 761 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 671 |
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
 | 13 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
@@ -65,7 +65,7 @@ Indexed users: 711
 | 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | Khujand, Tajikistan | 428 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Tajikistan, Dushanbe | 226 |
 | 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam | Khujand, Tajikistan | 174 |
-| 4 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir | Khujand, Tajikistan | 174 |
+| 4 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir | Khujand, Tajikistan | 173 |
 | 5 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | Tajikistan, Dushanbe | 140 |
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 128 |
 | 7 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda | Dushanbe, Tajikistan | 111 |
@@ -79,8 +79,8 @@ Indexed users: 711
 | 15 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 56 |
 | 16 | [MuhammadiMirzo](https://github.com/MuhammadiMirzo) | Muhammadjon Mirzoev | Dushanbe,Tajikistan | 55 |
 | 17 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Tajikistan | 51 |
-| 18 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 50 |
-| 19 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Dushanbe,Tajikistan | 50 |
+| 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Dushanbe,Tajikistan | 50 |
+| 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 
-Generated: 2026-10-09T14:21:56.859Z
+Generated: 2026-10-09T15:17:53.784Z

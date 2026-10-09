@@ -1,6 +1,6 @@
 # Switzerland
 
-Indexed users: 24,077
+Indexed users: 24,076
 
 | Leaderboard | Link |
 |---|---|
@@ -19,19 +19,19 @@ Indexed users: 24,077
 | 5 | [anulum](https://github.com/anulum) | Miroslav Šotek | Switzerland | 28,182 |
 | 6 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 28,154 |
 | 7 | [arkswiss](https://github.com/arkswiss) | ark.swiss Sàrl | Switzerland | 25,676 |
-| 8 | [auge2u](https://github.com/auge2u) | Agustin M. | Zurich, Switzerland | 18,988 |
-| 9 | [fabaff](https://github.com/fabaff) | Fabian Affolter | Switzerland | 18,727 |
-| 10 | [denysvitali](https://github.com/denysvitali) | Denys Vitali | Zürich, Switzerland | 18,135 |
-| 11 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 18,125 |
-| 12 | [peaktwilight](https://github.com/peaktwilight) | Peak Twilight | Zurich, Switzerland | 17,800 |
-| 13 | [berolinux](https://github.com/berolinux) | Bernhard Rosenkraenzer | Switzerland | 17,374 |
-| 14 | [romerjon](https://github.com/romerjon) | Jonas Romer | Switzerland | 17,193 |
-| 15 | [viatsko](https://github.com/viatsko) | Valerii Iatsko | Zurich, Switzerland | 17,138 |
-| 16 | [coderxin](https://github.com/coderxin) | Andrejs Eisaks | Zürich, Switzerland | 17,027 |
-| 17 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Zürich, Switzerland | 16,947 |
-| 18 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Zurich, Switzerland | 16,831 |
-| 19 | [Simon-Busch](https://github.com/Simon-Busch) | Simon Busch | Switzerland | 16,302 |
-| 20 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz | Switzerland | 15,798 |
+| 8 | [marfeyx](https://github.com/marfeyx) | Marfeyx | Rotkreuz, Switzerland | 21,479 |
+| 9 | [auge2u](https://github.com/auge2u) | Agustin M. | Zurich, Switzerland | 18,988 |
+| 10 | [fabaff](https://github.com/fabaff) | Fabian Affolter | Switzerland | 18,727 |
+| 11 | [denysvitali](https://github.com/denysvitali) | Denys Vitali | Zürich, Switzerland | 18,135 |
+| 12 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 18,125 |
+| 13 | [peaktwilight](https://github.com/peaktwilight) | Peak Twilight | Zurich, Switzerland | 17,800 |
+| 14 | [berolinux](https://github.com/berolinux) | Bernhard Rosenkraenzer | Switzerland | 17,374 |
+| 15 | [romerjon](https://github.com/romerjon) | Jonas Romer | Switzerland | 17,193 |
+| 16 | [viatsko](https://github.com/viatsko) | Valerii Iatsko | Zurich, Switzerland | 17,138 |
+| 17 | [coderxin](https://github.com/coderxin) | Andrejs Eisaks | Zürich, Switzerland | 17,027 |
+| 18 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Zürich, Switzerland | 16,947 |
+| 19 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Zurich, Switzerland | 16,831 |
+| 20 | [Simon-Busch](https://github.com/Simon-Busch) | Simon Busch | Switzerland | 16,302 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 24,077
 | 19 | [nyancrimew](https://github.com/nyancrimew) | maia arson crimew | Switzerland | 1,856 |
 | 20 | [jeremytammik](https://github.com/jeremytammik) | Jeremy Tammik | Switzerland | 1,841 |
 
-Generated: 2026-10-09T14:21:43.960Z
+Generated: 2026-10-09T15:17:23.999Z

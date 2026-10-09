@@ -19,19 +19,19 @@ Indexed users: 1,542
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 11,607 |
 | 6 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,074 |
 | 7 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | San Juan, PR | 7,470 |
-| 8 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
-| 9 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
-| 10 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 5,992 |
-| 12 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
-| 13 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
-| 14 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
-| 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,858 |
-| 16 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
-| 17 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,782 |
-| 18 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
-| 19 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 4,703 |
-| 20 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 4,557 |
+| 8 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
+| 9 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
+| 10 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
+| 11 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
+| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 5,992 |
+| 13 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
+| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
+| 15 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
+| 16 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,858 |
+| 17 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
+| 18 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,782 |
+| 19 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
+| 20 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 4,703 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,542
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-09T14:12:07.598Z
+Generated: 2026-10-09T15:08:51.386Z

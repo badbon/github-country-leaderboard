@@ -1,6 +1,6 @@
 # Seychelles
 
-Indexed users: 1,774
+Indexed users: 1,773
 
 | Leaderboard | Link |
 |---|---|
@@ -38,25 +38,25 @@ Indexed users: 1,774
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 4,834 |
-| 2 | [junminahn](https://github.com/junminahn) | Junmin Ahn | Victoria | 4,113 |
-| 3 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,444 |
-| 4 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | Victoria Island, Lagos | 2,345 |
-| 5 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Victoria, BC | 2,228 |
-| 6 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
-| 7 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Victoria, BC | 2,116 |
-| 8 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 1,991 |
-| 9 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Victoria, BC - Canada | 1,889 |
-| 10 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
-| 11 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,779 |
-| 12 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
-| 13 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
-| 14 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
-| 15 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
-| 16 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
-| 17 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
-| 18 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
-| 19 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
-| 20 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
+| 2 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,444 |
+| 3 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | Victoria Island, Lagos | 2,345 |
+| 4 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Victoria, BC | 2,228 |
+| 5 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
+| 6 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Victoria, BC | 2,116 |
+| 7 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 1,991 |
+| 8 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Victoria, BC - Canada | 1,889 |
+| 9 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
+| 10 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,779 |
+| 11 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
+| 12 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
+| 13 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
+| 14 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
+| 15 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
+| 16 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
+| 17 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
+| 18 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
+| 19 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
+| 20 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,098 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,774
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-09T14:15:32.009Z
+Generated: 2026-10-09T15:13:50.363Z

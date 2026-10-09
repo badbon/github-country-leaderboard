@@ -14,7 +14,7 @@ Indexed users: 902
 |---:|---|---|---|---:|
 | 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | Malawi | 13,606 |
 | 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje | Lilongwe, Malawi | 10,745 |
-| 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija | Malawi, Lilongwe | 6,809 |
+| 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija | Malawi, Lilongwe | 7,351 |
 | 4 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Lilongwe, Malawi | 6,336 |
 | 5 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | Malawi, Africa | 6,166 |
 | 6 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 5,960 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-09T14:02:30.144Z
+Generated: 2026-10-09T14:58:58.787Z

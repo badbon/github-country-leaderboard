@@ -1,28 +1,28 @@
 # Public Contributions - Seychelles
 
-Generated: 2026-10-09T14:15:32.009Z
+Generated: 2026-10-09T15:13:50.363Z
 
-Users: 1774
+Users: 1773
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  |  |  Victoria, BC - Canada | 4834 |
-| 2 | [junminahn](https://github.com/junminahn) | Junmin Ahn | @egose |  | Victoria | 4113 |
-| 3 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 3444 |
-| 4 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | @ZabiraNg  |  | Victoria Island, Lagos | 2345 |
-| 5 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Canadian Forest Service, Government of Canada | eliotmcintire | Victoria, BC | 2228 |
-| 6 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | @neondatabase | clarkbw | Victoria, BC | 2173 |
-| 7 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Arcshift Solutions |  | Victoria, BC | 2116 |
-| 8 | [naomiaro](https://github.com/naomiaro) | Naomi | @moises-ai | naomiaro | Victoria, BC | 1991 |
-| 9 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Ryden |  | Victoria, BC - Canada | 1889 |
-| 10 | [Nospamas](https://github.com/Nospamas) |  |  |  | Victoria, BC | 1851 |
-| 11 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | University of Victoria |  | Victoria BC | 1779 |
-| 12 | [shinybrar](https://github.com/shinybrar) | shiny. | Canadian Astronomy Data Centre |  | Victoria, BC | 1748 |
-| 13 | [jamubc](https://github.com/jamubc) |  |  |  | Victoria, BC | 1581 |
-| 14 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 1523 |
-| 15 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom |  |  | Victoria, BC | 1436 |
-| 16 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi |  |  | Victoria | 1426 |
-| 17 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt |  |  | Victoria, BC | 1419 |
-| 18 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Digitalspace Consulting Inc. |  | Victoria, BC | 1389 |
-| 19 | [johncbowman](https://github.com/johncbowman) | John Bowman | bowman@ualberta.ca |  | Victoria, BC Canada | 1389 |
-| 20 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 1166 |
+| 2 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 3444 |
+| 3 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | @ZabiraNg  |  | Victoria Island, Lagos | 2345 |
+| 4 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Canadian Forest Service, Government of Canada | eliotmcintire | Victoria, BC | 2228 |
+| 5 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | @neondatabase | clarkbw | Victoria, BC | 2173 |
+| 6 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Arcshift Solutions |  | Victoria, BC | 2116 |
+| 7 | [naomiaro](https://github.com/naomiaro) | Naomi | @moises-ai | naomiaro | Victoria, BC | 1991 |
+| 8 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Ryden |  | Victoria, BC - Canada | 1889 |
+| 9 | [Nospamas](https://github.com/Nospamas) |  |  |  | Victoria, BC | 1851 |
+| 10 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | University of Victoria |  | Victoria BC | 1779 |
+| 11 | [shinybrar](https://github.com/shinybrar) | shiny. | Canadian Astronomy Data Centre |  | Victoria, BC | 1748 |
+| 12 | [jamubc](https://github.com/jamubc) |  |  |  | Victoria, BC | 1581 |
+| 13 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 1523 |
+| 14 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom |  |  | Victoria, BC | 1436 |
+| 15 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi |  |  | Victoria | 1426 |
+| 16 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt |  |  | Victoria, BC | 1419 |
+| 17 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Digitalspace Consulting Inc. |  | Victoria, BC | 1389 |
+| 18 | [johncbowman](https://github.com/johncbowman) | John Bowman | bowman@ualberta.ca |  | Victoria, BC Canada | 1389 |
+| 19 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 1166 |
+| 20 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | AppVeyor Systems Inc. |  | Victoria, BC | 1098 |

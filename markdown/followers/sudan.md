@@ -1,6 +1,6 @@
 # Followers - Sudan
 
-Generated: 2026-10-09T14:20:18.466Z
+Generated: 2026-10-09T15:16:20.455Z
 
 Users: 729
 
@@ -17,8 +17,8 @@ Users: 729
 | 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia |  | 0x01_Muawia | Sudan | 87 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab |  | abdalla__arbab | Khartoum, Sudan | 76 |
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | I work for myself ✋ |  | sudan | 73 |
-| 12 | [attaryz](https://github.com/attaryz) | Abdullah Ali |  | attaryz94 | Khartoum, Sudan | 61 |
-| 13 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed |  |  | Sudan | 60 |
+| 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed |  |  | Sudan | 62 |
+| 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali |  | attaryz94 | Khartoum, Sudan | 61 |
 | 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar |  |  | Sudan, Khartoum | 59 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | HussamAdil |  | Sudan | 59 |
 | 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed |  |  | sudan | 56 |

@@ -1,6 +1,6 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-09T14:11:19.425Z
+Generated: 2026-10-09T15:07:51.396Z
 
 Users: 1072
 
@@ -24,5 +24,5 @@ Users: 1072
 | 16 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | AVSARA / IXTMO / FORGE LABS / SELVA HOLDINGS |  | Panama City | 6581 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Cuanto |  | Panama City, Panama | 6426 |
 | 18 | [atebites-hub](https://github.com/atebites-hub) | atebites | blackswan.money | ate_bites | Panama | 6149 |
-| 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 4941 |
-| 20 | [berryhill](https://github.com/berryhill) | Matt Berryhill | enthusiast of sorts | berryhill_dev | Los Santos, Panama | 4773 |
+| 19 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés |  | nandocdev | Panama, Panama City | 5888 |
+| 20 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Vorluno |  | Panama | 4941 |

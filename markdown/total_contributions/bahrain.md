@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-09T14:32:29.332Z
+Generated: 2026-10-09T15:27:37.751Z
 
 Users: 728
 
@@ -19,10 +19,10 @@ Users: 728
 | 11 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4427 |
 | 12 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4417 |
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4119 |
-| 14 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3774 |
-| 15 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3769 |
-| 16 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3594 |
-| 17 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3204 |
-| 18 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 3171 |
-| 19 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3169 |
-| 20 | [ahme-d](https://github.com/ahme-d) | Ahmed Yusuf |  | vi0at | Bahrain | 2960 |
+| 14 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 4114 |
+| 15 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3774 |
+| 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3769 |
+| 17 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3594 |
+| 18 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3204 |
+| 19 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 3171 |
+| 20 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3169 |

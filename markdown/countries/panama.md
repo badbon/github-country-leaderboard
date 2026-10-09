@@ -30,8 +30,8 @@ Indexed users: 1,072
 | 16 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
 | 18 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
-| 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
-| 20 | [berryhill](https://github.com/berryhill) | Matt Berryhill | Los Santos, Panama | 4,773 |
+| 19 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 5,888 |
+| 20 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 4,941 |
 
 ## Public Contributions
 
@@ -39,8 +39,8 @@ Indexed users: 1,072
 |---:|---|---|---|---:|
 | 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
 | 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,460 |
-| 3 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,438 |
-| 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,389 |
+| 3 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,704 |
+| 4 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,438 |
 | 5 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,998 |
 | 6 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,791 |
 | 7 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,711 |
@@ -83,4 +83,4 @@ Indexed users: 1,072
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-09T14:11:19.425Z
+Generated: 2026-10-09T15:07:51.396Z

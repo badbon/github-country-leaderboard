@@ -1,8 +1,8 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-09T14:12:15.625Z
+Generated: 2026-10-09T15:09:13.563Z
 
-Users: 1075
+Users: 1074
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 1075
 | 13 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | MOE | alshf3ee | Qatar, Doha | 4031 |
 | 14 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Teciza Solutions |  | Qatar | 3975 |
 | 15 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed |  |  | Doha, Qatar | 3940 |
-| 16 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes |  |  | Doha | 3898 |
-| 17 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 3817 |
-| 18 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3727 |
-| 19 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Blaze Technology Solutions |  | Calicut \| Qatar | 3487 |
-| 20 | [ismadevjs](https://github.com/ismadevjs) | ismail taibi | Tamkeen360 |  | Qatar | 3472 |
+| 16 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui |  | Engineersticity | Doha, Qatar | 3929 |
+| 17 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes |  |  | Doha | 3898 |
+| 18 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 3817 |
+| 19 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3727 |
+| 20 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Blaze Technology Solutions |  | Calicut \| Qatar | 3487 |

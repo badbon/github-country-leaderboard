@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-09T14:00:15.765Z
+Generated: 2026-10-09T14:56:45.271Z
 
 Users: 798
 
@@ -17,7 +17,7 @@ Users: 798
 | 9 | [omsi96](https://github.com/omsi96) | Omar | @barmej, @JoinCODED, @kuwaitcodes  |  | Kuwait | 120 |
 | 10 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi |  |  | Kuwait | 110 |
 | 11 | [asmaaeltawil](https://github.com/asmaaeltawil) | Asmaa Eltawil |  | semsemaeltawil | Kuwait | 106 |
-| 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 99 |
+| 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 104 |
 | 13 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 98 |
 | 14 | [Cliprz](https://github.com/Cliprz) | Yousef Ismaeil | Cliprz |  | Kuwait | 96 |
 | 15 | [mohammedgmgn](https://github.com/mohammedgmgn) | Mohammed Abdullah  |  |  | Kuwait | 92 |

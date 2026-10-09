@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,075
+Indexed users: 1,074
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 1,075
 | 13 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 4,031 |
 | 14 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 3,975 |
 | 15 | [rushdimohamed09](https://github.com/rushdimohamed09) | Rushdi Mohamed | Doha, Qatar | 3,940 |
-| 16 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 3,898 |
-| 17 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 3,817 |
-| 18 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,727 |
-| 19 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Calicut \| Qatar | 3,487 |
-| 20 | [ismadevjs](https://github.com/ismadevjs) | ismail taibi | Qatar | 3,472 |
+| 16 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 3,929 |
+| 17 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 3,898 |
+| 18 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 3,817 |
+| 19 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,727 |
+| 20 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Calicut \| Qatar | 3,487 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,075
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 | 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 89 |
 
-Generated: 2026-10-09T14:12:15.625Z
+Generated: 2026-10-09T15:09:13.563Z

@@ -1,8 +1,8 @@
 # Total Contributions - Switzerland
 
-Generated: 2026-10-09T14:21:43.960Z
+Generated: 2026-10-09T15:17:23.999Z
 
-Users: 24077
+Users: 24076
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,16 +13,16 @@ Users: 24077
 | 5 | [anulum](https://github.com/anulum) | Miroslav Šotek | Anulum Institute | anulum | Switzerland | 28182 |
 | 6 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | @remotion-dev | JNYBGR | Zurich, Switzerland | 28154 |
 | 7 | [arkswiss](https://github.com/arkswiss) | ark.swiss Sàrl | ark.swiss sàrl |  | Switzerland | 25676 |
-| 8 | [auge2u](https://github.com/auge2u) | Agustin M. | @habitusnet @nhabitus @pie3-com @rhelvia @devguard-pro |  | Zurich, Switzerland | 18988 |
-| 9 | [fabaff](https://github.com/fabaff) | Fabian Affolter |  | fabaff | Switzerland | 18727 |
-| 10 | [denysvitali](https://github.com/denysvitali) | Denys Vitali |  | DenysVitali | Zürich, Switzerland | 18135 |
-| 11 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | AIcrowd |  | Geneva, Switzerland | 18125 |
-| 12 | [peaktwilight](https://github.com/peaktwilight) | Peak Twilight | 0sec.ai |  | Zurich, Switzerland | 17800 |
-| 13 | [berolinux](https://github.com/berolinux) | Bernhard Rosenkraenzer | http://lindev.ch/ |  | Switzerland | 17374 |
-| 14 | [romerjon](https://github.com/romerjon) | Jonas Romer | ofinto ag |  | Switzerland | 17193 |
-| 15 | [viatsko](https://github.com/viatsko) | Valerii Iatsko | Google |  | Zurich, Switzerland | 17138 |
-| 16 | [coderxin](https://github.com/coderxin) | Andrejs Eisaks |  | coderxin | Zürich, Switzerland | 17027 |
-| 17 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Graehl Arts |  | Zürich, Switzerland | 16947 |
-| 18 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Outcome Engineering | simonheimlicher | Zurich, Switzerland | 16831 |
-| 19 | [Simon-Busch](https://github.com/Simon-Busch) | Simon Busch | TopBlast | _0xsi | Switzerland | 16302 |
-| 20 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz |  |  | Switzerland | 15798 |
+| 8 | [marfeyx](https://github.com/marfeyx) | Marfeyx |  |  | Rotkreuz, Switzerland | 21479 |
+| 9 | [auge2u](https://github.com/auge2u) | Agustin M. | @habitusnet @nhabitus @pie3-com @rhelvia @devguard-pro |  | Zurich, Switzerland | 18988 |
+| 10 | [fabaff](https://github.com/fabaff) | Fabian Affolter |  | fabaff | Switzerland | 18727 |
+| 11 | [denysvitali](https://github.com/denysvitali) | Denys Vitali |  | DenysVitali | Zürich, Switzerland | 18135 |
+| 12 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | AIcrowd |  | Geneva, Switzerland | 18125 |
+| 13 | [peaktwilight](https://github.com/peaktwilight) | Peak Twilight | 0sec.ai |  | Zurich, Switzerland | 17800 |
+| 14 | [berolinux](https://github.com/berolinux) | Bernhard Rosenkraenzer | http://lindev.ch/ |  | Switzerland | 17374 |
+| 15 | [romerjon](https://github.com/romerjon) | Jonas Romer | ofinto ag |  | Switzerland | 17193 |
+| 16 | [viatsko](https://github.com/viatsko) | Valerii Iatsko | Google |  | Zurich, Switzerland | 17138 |
+| 17 | [coderxin](https://github.com/coderxin) | Andrejs Eisaks |  | coderxin | Zürich, Switzerland | 17027 |
+| 18 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Graehl Arts |  | Zürich, Switzerland | 16947 |
+| 19 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Outcome Engineering | simonheimlicher | Zurich, Switzerland | 16831 |
+| 20 | [Simon-Busch](https://github.com/Simon-Busch) | Simon Busch | TopBlast | _0xsi | Switzerland | 16302 |

@@ -17,9 +17,9 @@ Indexed users: 143
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,325 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,528 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,858 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,644 |
-| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,153 |
-| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,044 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,647 |
+| 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,155 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,045 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 952 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 722 |
@@ -83,4 +83,4 @@ Indexed users: 143
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-09T14:04:34.029Z
+Generated: 2026-10-09T15:03:28.045Z

@@ -14,7 +14,7 @@ Indexed users: 289
 |---:|---|---|---|---:|
 | 1 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 11,771 |
 | 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,428 |
-| 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 9,695 |
+| 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 10,033 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,364 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,352 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,094 |
@@ -30,7 +30,7 @@ Indexed users: 289
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,333 |
 | 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,277 |
 | 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 968 |
-| 19 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 855 |
+| 19 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 852 |
 | 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 843 |
 
 ## Public Contributions
@@ -46,7 +46,7 @@ Indexed users: 289
 | 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed | Nouakchott | 518 |
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | Mauritania  | 403 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh | Nouakchott | 378 |
-| 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 357 |
+| 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 355 |
 | 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati | Nouakchott | 299 |
 | 12 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS | Mauritania | 281 |
 | 13 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-09T14:03:21.112Z
+Generated: 2026-10-09T15:00:30.439Z

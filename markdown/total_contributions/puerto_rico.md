@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-09T14:12:07.598Z
+Generated: 2026-10-09T15:08:51.386Z
 
 Users: 1542
 
@@ -13,16 +13,16 @@ Users: 1542
 | 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 11607 |
 | 6 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 10074 |
 | 7 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | Betabit LLC | yoaquim | San Juan, PR | 7470 |
-| 8 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
-| 9 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
-| 10 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
-| 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 5992 |
-| 12 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
-| 13 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
-| 14 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5125 |
-| 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4858 |
-| 16 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
-| 17 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4782 |
-| 18 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |
-| 19 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 4703 |
-| 20 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 4557 |
+| 8 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 6798 |
+| 9 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
+| 10 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
+| 11 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
+| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 5992 |
+| 13 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
+| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
+| 15 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5125 |
+| 16 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4858 |
+| 17 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
+| 18 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4782 |
+| 19 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |
+| 20 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 4703 |
