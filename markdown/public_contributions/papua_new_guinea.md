@@ -1,6 +1,6 @@
 # Public Contributions - Papua New Guinea
 
-Generated: 2026-10-09T08:58:13.887Z
+Generated: 2026-10-09T09:41:37.093Z
 
 Users: 296
 
@@ -14,7 +14,7 @@ Users: 296
 | 6 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 452 |
 | 7 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 330 |
 | 8 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 280 |
-| 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 245 |
+| 9 | [hoiregeno](https://github.com/hoiregeno) | Geno Hoire | Self-Employed |  | Port Moresby, Papua New Guinea | 248 |
 | 10 | [digi4arch424](https://github.com/digi4arch424) | DigiArch 424 |  |  | Port Moresby | 242 |
 | 11 | [DEVE123-dev](https://github.com/DEVE123-dev) | Benjamin deve Bino |  |  | Port Moresby, NCDC | 232 |
 | 12 | [projekt-kombil](https://github.com/projekt-kombil) | Alefay Kombil |  |  | Papua New Guinea | 226 |

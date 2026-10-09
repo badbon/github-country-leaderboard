@@ -29,7 +29,7 @@ Indexed users: 185
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 381 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana | Pyongyang, North Korea | 367 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 351 |
-| 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 298 |
+| 18 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 300 |
 | 19 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 264 |
 | 20 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 227 |
 
@@ -45,13 +45,13 @@ Indexed users: 185
 | 6 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 221 |
 | 7 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | North Korea | 217 |
 | 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 206 |
-| 9 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 206 |
+| 9 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo | Pyongyang | 205 |
 | 10 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | North Korea | 200 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY | Pyongyang, DPR of Korea | 186 |
 | 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 182 |
 | 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse | North Korea | 175 |
-| 15 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 170 |
+| 15 | [l1vstudios](https://github.com/l1vstudios) | L1V | North Korea | 172 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | Pyongyang | 137 |
 | 17 | [lavrentious](https://github.com/lavrentious) | lavrent | Democratic People's Republic of Korea | 105 |
 | 18 | [lilac1337](https://github.com/lilac1337) | Vera Lovelace | Pyongyang, Democrat People's Republic of Korea | 95 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-09T08:57:05.113Z
+Generated: 2026-10-09T09:40:38.825Z

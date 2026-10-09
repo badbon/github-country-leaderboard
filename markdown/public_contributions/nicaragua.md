@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-09T08:55:51.569Z
+Generated: 2026-10-09T09:39:29.889Z
 
 Users: 1401
 
@@ -17,7 +17,7 @@ Users: 1401
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone |  |  | Nicaragua | 1124 |
 | 10 | [staFF6773](https://github.com/staFF6773) | Not_staff |  |  | República de Nicaragua | 1048 |
 | 11 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1037 |
-| 12 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 930 |
+| 12 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 987 |
 | 13 | [kraudy](https://github.com/kraudy) | Roberto Torrez |  |  | Nicaragua | 908 |
 | 14 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 894 |
 | 15 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez |  |  | Leon, Nicaragua | 876 |

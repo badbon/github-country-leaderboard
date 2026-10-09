@@ -1,8 +1,8 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-09T08:50:53.394Z
+Generated: 2026-10-09T09:34:28.559Z
 
-Users: 1231
+Users: 1230
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

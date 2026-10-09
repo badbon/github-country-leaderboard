@@ -1,6 +1,6 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-09T08:50:17.702Z
+Generated: 2026-10-09T09:34:15.335Z
 
 Users: 11823
 
@@ -18,7 +18,7 @@ Users: 11823
 | 10 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | WebMedic | faisalhouran1 | Malaysia | 15904 |
 | 11 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | @ArkMind-Sdn-Bhd  |  | Sri Petaling, Kuala Lumpur, Malaysia | 15477 |
 | 12 | [Anas660](https://github.com/Anas660) | Syed Anas | https://www.pixelpk.com/ |  | Malaysia | 14473 |
-| 13 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 14250 |
+| 13 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 13802 |
 | 14 | [edwardtay](https://github.com/edwardtay) | Edward Tay |  | iamedwardtay | Malaysia  | 13397 |
 | 15 | [0xkaz](https://github.com/0xkaz) | kaz |  | WeaveKaz | Malaysia/UAE | 13375 |
 | 16 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |

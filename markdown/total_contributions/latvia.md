@@ -1,16 +1,16 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-09T08:47:16.661Z
+Generated: 2026-10-09T09:32:32.866Z
 
 Users: 3275
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | @valksor |  | Rīga, Latvia | 24552 |
-| 2 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | @formstack  |  | Riga, Latvia | 17316 |
-| 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs |  |  | Riga, Latvia | 14244 |
-| 4 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
-| 5 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | AccessFintech |  | Latvia | 12029 |
+| 2 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | AccessFintech |  | Latvia | 22250 |
+| 3 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | @formstack  |  | Riga, Latvia | 17316 |
+| 4 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs |  |  | Riga, Latvia | 14244 |
+| 5 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
 | 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | T MEDIA GROUP |  | Latvia | 10310 |
 | 8 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
@@ -25,4 +25,4 @@ Users: 3275
 | 17 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Software Engineer & Digital Artist |  | Riga | 5871 |
 | 18 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | @ubiquiti  | renarsvilnis | Rīga, Latvia | 5814 |
 | 19 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 5804 |
-| 20 | [matissoz](https://github.com/matissoz) | Matīss Oskars Zelmens |  |  | Latvia | 5796 |
+| 20 | [martinssipenko](https://github.com/martinssipenko) | Martins Sipenko | StackRadar |  | Riga, Latvia | 5483 |

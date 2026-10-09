@@ -1,6 +1,6 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-09T08:58:09.768Z
+Generated: 2026-10-09T09:41:34.668Z
 
 Users: 1072
 
@@ -8,12 +8,12 @@ Users: 1072
 |---:|---|---|---|---|---|---:|
 | 1 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 23939 |
 | 2 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 18668 |
-| 3 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15647 |
-| 4 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 15516 |
-| 5 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 15096 |
-| 6 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 14821 |
-| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 11958 |
-| 8 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 9755 |
+| 3 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17381 |
+| 4 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15647 |
+| 5 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 15516 |
+| 6 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 15096 |
+| 7 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 14869 |
+| 8 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 11958 |
 | 9 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9083 |
 | 10 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock |  |  | Panama | 8433 |
 | 11 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Master Services | FRobertsV | Panama | 7697 |

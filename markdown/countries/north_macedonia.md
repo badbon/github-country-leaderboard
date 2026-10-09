@@ -21,11 +21,11 @@ Indexed users: 1,938
 | 7 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | Skopje, Macedonia | 5,289 |
 | 8 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | Skopje, Macedonia | 5,068 |
 | 9 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 4,578 |
-| 10 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | Skopje, Macedonia | 4,438 |
-| 11 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Skopje, North Macedonia | 4,273 |
-| 12 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 4,240 |
-| 13 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 3,979 |
-| 14 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 3,890 |
+| 10 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 4,515 |
+| 11 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | Skopje, Macedonia | 4,438 |
+| 12 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Skopje, North Macedonia | 4,273 |
+| 13 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 4,240 |
+| 14 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 4,182 |
 | 15 | [nikola-n](https://github.com/nikola-n) | Nikola | Veles, Macedonia | 3,850 |
 | 16 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski | Skopje, Macedonia | 3,800 |
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani | Skopje | 3,774 |
@@ -37,7 +37,7 @@ Indexed users: 1,938
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 3,855 |
+| 1 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 4,478 |
 | 2 | [martinpetkovski](https://github.com/martinpetkovski) | Martin | Bitola, Macedonia | 2,253 |
 | 3 | [bokic](https://github.com/bokic) | Boris Barbulovski | North Macedonia | 1,716 |
 | 4 | [tino097](https://github.com/tino097) | Konstantin Sivakov | Bitola, North Macedonia | 1,702 |
@@ -69,7 +69,7 @@ Indexed users: 1,938
 | 5 | [trajchevska](https://github.com/trajchevska) | Katerina Trajchevska | Skopje Macedonia | 462 |
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | Macedonia | 306 |
 | 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Macedonia | 293 |
-| 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 239 |
+| 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 241 |
 | 9 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Skopje, Macedonia | 223 |
 | 10 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 212 |
 | 11 | [callibra](https://github.com/callibra) | Ivan Gjorcev  | Sveti Nikole, Macedonia  🌎 🗺️ | 207 |
@@ -83,4 +83,4 @@ Indexed users: 1,938
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-09T08:57:09.643Z
+Generated: 2026-10-09T09:40:43.684Z

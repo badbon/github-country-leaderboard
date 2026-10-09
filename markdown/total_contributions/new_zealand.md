@@ -1,8 +1,8 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-09T08:55:44.833Z
+Generated: 2026-10-09T09:39:22.593Z
 
-Users: 12158
+Users: 12157
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 12158
 | 11 | [nz365guy](https://github.com/nz365guy) | Mark Smith | Cloverbase | nz365guy | New Zealand | 12968 |
 | 12 | [lee101](https://github.com/lee101) | Lee Penkman | @netwrck | LeeLeePenkman | New Zealand | 12897 |
 | 13 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo |  |  | Wellington, New Zealand | 12777 |
-| 14 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
-| 15 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
-| 16 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |
-| 17 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson |  |  | Wellington, NZ | 11596 |
-| 18 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |
-| 19 | [faceleg](https://github.com/faceleg) | Michael Robinson |  |  | Auckland, New Zealand | 11194 |
-| 20 | [mynameistito](https://github.com/mynameistito) | Tito | @KillzoneGaming  | mynameistito | New Zealand | 11191 |
+| 14 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | Lincoln University (NZ) | chanmeng666 | New Zealand | 12502 |
+| 15 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
+| 16 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
+| 17 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |
+| 18 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson |  |  | Wellington, NZ | 11596 |
+| 19 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |
+| 20 | [faceleg](https://github.com/faceleg) | Michael Robinson |  |  | Auckland, New Zealand | 11194 |

@@ -28,7 +28,7 @@ Indexed users: 1,176
 | 14 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
 | 15 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,671 |
 | 16 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,590 |
-| 17 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,361 |
+| 17 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,492 |
 | 18 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
 | 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
 | 20 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 2,239 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [Antonio-Sitoe](https://github.com/Antonio-Sitoe) | Antonio Sitoe | Mozambique | 94 |
 
-Generated: 2026-10-09T08:55:11.716Z
+Generated: 2026-10-09T09:38:39.716Z

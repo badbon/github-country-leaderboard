@@ -1,6 +1,6 @@
 # Total Contributions - Montserrat
 
-Generated: 2026-10-09T08:54:37.377Z
+Generated: 2026-10-09T09:38:32.896Z
 
 Users: 291
 
@@ -22,7 +22,7 @@ Users: 291
 | 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 1405 |
 | 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Hyundai MOBIS |  | Plymouth, MI | 1210 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan |  |  | Plymouth | 1141 |
-| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1105 |
+| 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Balena |  | Plymouth | 1103 |
 | 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin |  |  | Plymouth, MA | 995 |
 | 19 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth Marine Laboratory |  | Plymouth | 950 |
 | 20 | [JPDucky](https://github.com/JPDucky) | Palmer Duckworth | Site Reliability Engineer |  | Plymouth Rock | 938 |

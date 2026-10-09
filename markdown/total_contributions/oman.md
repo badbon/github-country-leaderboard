@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-09T08:57:21.220Z
+Generated: 2026-10-09T09:41:17.292Z
 
 Users: 996
 
@@ -25,4 +25,4 @@ Users: 996
 | 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
 | 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
 | 19 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Rihal | WKHarthi | Oman | 4151 |
-| 20 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | CodeLine |  | Muscat | 3764 |
+| 20 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Ministry of Transport, Communications, and Information Technology (MTCIT) |  | Sultanate of Oman, al khuwair muscat | 3873 |

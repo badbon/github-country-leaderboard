@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,231
+Indexed users: 1,230
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 1,231
 | 16 | [max-lt](https://github.com/max-lt) |  | Malta | 1,824 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,348 |
 | 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,329 |
-| 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,280 |
-| 20 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 1,160 |
+| 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,292 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,280 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,231
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-09T08:50:53.394Z
+Generated: 2026-10-09T09:34:28.559Z

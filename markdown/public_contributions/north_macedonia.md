@@ -1,12 +1,12 @@
 # Public Contributions - North Macedonia
 
-Generated: 2026-10-09T08:57:09.643Z
+Generated: 2026-10-09T09:40:43.684Z
 
 Users: 1938
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 3855 |
+| 1 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4478 |
 | 2 | [martinpetkovski](https://github.com/martinpetkovski) | Martin | KAMAi MEDIA | misteriozen | Bitola, Macedonia | 2253 |
 | 3 | [bokic](https://github.com/bokic) | Boris Barbulovski |  |  | North Macedonia | 1716 |
 | 4 | [tino097](https://github.com/tino097) | Konstantin Sivakov | @MindsDB | tino097 | Bitola, North Macedonia | 1702 |

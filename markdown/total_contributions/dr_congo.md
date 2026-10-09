@@ -1,12 +1,12 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-09T08:36:13.846Z
+Generated: 2026-10-09T09:23:26.348Z
 
 Users: 696
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-vincent | @bestseller | coolbeatz71 | Kinshasa, Kigali | 24667 |
+| 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | B2Tech-Git | coolbeatz71 | Kinshasa, Kigali | 33517 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | kin distribution |  | DR Congo, kinshasa | 19900 |
 | 3 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | @nevolut  | abarchibody | Kinshasa, DRC | 12522 |
 | 4 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | @nulevices |  | Kinshasa DRC | 9571 |

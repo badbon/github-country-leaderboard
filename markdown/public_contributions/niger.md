@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-09T08:55:55.565Z
+Generated: 2026-10-09T09:39:34.269Z
 
 Users: 176
 
@@ -19,10 +19,10 @@ Users: 176
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley |  |  | Niamey | 194 |
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 171 |
 | 13 | [Carbouba](https://github.com/Carbouba) | BOUBACAR MAMANE SANI CHEFFOU | @vision_visuel |  | Niamey-Niger | 138 |
-| 14 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 107 |
-| 15 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
-| 16 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
-| 17 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 98 |
+| 14 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
+| 15 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
+| 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 98 |
+| 17 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | SETES SARL | hama_barhamou | Niger | 97 |
 | 18 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
 | 19 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 89 |
 | 20 | [HonourObed](https://github.com/HonourObed) | Eje Obed Honour | Federal University of Technology Minna |  | Minna, Niger, Nigeria | 86 |

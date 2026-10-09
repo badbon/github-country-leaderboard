@@ -18,14 +18,14 @@ Indexed users: 902
 | 4 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Lilongwe, Malawi | 6,336 |
 | 5 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | Malawi, Africa | 6,166 |
 | 6 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 5,960 |
-| 7 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,262 |
-| 8 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,494 |
-| 9 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,086 |
-| 10 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 3,963 |
-| 11 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 3,913 |
-| 12 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,724 |
-| 13 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | Malawi | 3,667 |
-| 14 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 3,640 |
+| 7 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 5,305 |
+| 8 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,262 |
+| 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,879 |
+| 10 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,494 |
+| 11 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,086 |
+| 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 3,963 |
+| 13 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 3,913 |
+| 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,687 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,452 |
 | 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul |  Malawi | 3,435 |
 | 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,210 |
@@ -42,8 +42,8 @@ Indexed users: 902
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 1,523 |
 | 4 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje | Lilongwe, Malawi | 1,392 |
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti | malawi | 1,112 |
-| 6 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 1,095 |
-| 7 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 1,018 |
+| 6 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 1,018 |
+| 7 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 985 |
 | 8 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 959 |
 | 9 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 951 |
 | 10 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 783 |
@@ -54,9 +54,9 @@ Indexed users: 902
 | 15 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 612 |
 | 16 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 487 |
-| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
-| 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
-| 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 453 |
+| 18 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 481 |
+| 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
+| 20 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-09T08:50:12.204Z
+Generated: 2026-10-09T09:34:08.917Z

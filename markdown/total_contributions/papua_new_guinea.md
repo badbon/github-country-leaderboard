@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-09T08:58:13.887Z
+Generated: 2026-10-09T09:41:37.093Z
 
 Users: 296
 
@@ -14,8 +14,8 @@ Users: 296
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 2986 |
 | 7 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 2096 |
 | 8 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 1725 |
-| 9 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1138 |
-| 10 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 1124 |
+| 9 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 1144 |
+| 10 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1138 |
 | 11 | [nessktn](https://github.com/nessktn) | Johannes Kutan |  |  | Papua New Guinea | 1047 |
 | 12 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 1038 |
 | 13 | [nshoresh](https://github.com/nshoresh) | Shoresh Nick Narowen | Yumi Code |  | Port Moresby, 5 Mile | 821 |

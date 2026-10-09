@@ -12,7 +12,7 @@ Indexed users: 315
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,987 |
+| 1 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,985 |
 | 2 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,930 |
 | 3 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,871 |
 | 4 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,184 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-09T08:39:21.695Z
+Generated: 2026-10-09T09:27:40.746Z

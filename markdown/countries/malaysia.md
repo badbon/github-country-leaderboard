@@ -24,7 +24,7 @@ Indexed users: 11,823
 | 10 | [SuperVentureStudio](https://github.com/SuperVentureStudio) | Faisal Hourani | Malaysia | 15,904 |
 | 11 | [hansheng0512](https://github.com/hansheng0512) | Han Sheng | Sri Petaling, Kuala Lumpur, Malaysia | 15,477 |
 | 12 | [Anas660](https://github.com/Anas660) | Syed Anas | Malaysia | 14,473 |
-| 13 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 14,250 |
+| 13 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 13,802 |
 | 14 | [edwardtay](https://github.com/edwardtay) | Edward Tay | Malaysia  | 13,397 |
 | 15 | [0xkaz](https://github.com/0xkaz) | kaz | Malaysia/UAE | 13,375 |
 | 16 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
@@ -83,4 +83,4 @@ Indexed users: 11,823
 | 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 458 |
 | 20 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 
-Generated: 2026-10-09T08:50:17.702Z
+Generated: 2026-10-09T09:34:15.335Z

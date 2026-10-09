@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-09T08:59:06.656Z
+Generated: 2026-10-09T09:42:21.824Z
 
 Users: 1542
 
@@ -22,7 +22,7 @@ Users: 1542
 | 14 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5125 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4858 |
 | 16 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
-| 17 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |
-| 18 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4720 |
+| 17 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4782 |
+| 18 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |
 | 19 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 4703 |
 | 20 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 4557 |

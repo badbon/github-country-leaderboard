@@ -1,6 +1,6 @@
 # Followers - Cayman Islands
 
-Generated: 2026-10-09T08:33:46.967Z
+Generated: 2026-10-09T09:21:09.482Z
 
 Users: 123
 
@@ -11,7 +11,7 @@ Users: 123
 | 3 | [DelaneyM](https://github.com/DelaneyM) | Delaney Manders |  |  | George Town, Cayman Islands | 98 |
 | 4 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 83 |
 | 5 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 73 |
-| 6 | [gregorydaval345](https://github.com/gregorydaval345) | Daval Gregory |  |  | Cayman Islands | 66 |
+| 6 | [gregorydaval345](https://github.com/gregorydaval345) | Daval Gregory |  |  | Cayman Islands | 67 |
 | 7 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 58 |
 | 8 | [guhhhhaa](https://github.com/guhhhhaa) | Guhhhhaa | Cayman Islands |  | Cayman Islands | 42 |
 | 9 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 38 |

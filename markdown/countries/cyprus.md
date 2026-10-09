@@ -1,6 +1,6 @@
 # Cyprus
 
-Indexed users: 2,748
+Indexed users: 2,749
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,748
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-09T08:35:33.735Z
+Generated: 2026-10-09T09:38:29.895Z

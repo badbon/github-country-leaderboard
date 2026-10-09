@@ -55,8 +55,8 @@ Indexed users: 798
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 531 |
 | 17 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 528 |
 | 18 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 518 |
-| 19 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
-| 20 | [BashayerNoury](https://github.com/BashayerNoury) | Bash | Kuwait | 435 |
+| 19 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 490 |
+| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 798
 | 19 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
 | 20 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 75 |
 
-Generated: 2026-10-09T08:47:05.333Z
+Generated: 2026-10-09T09:32:04.663Z

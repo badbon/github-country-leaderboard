@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-09T08:37:12.448Z
+Generated: 2026-10-09T09:23:54.069Z
 
 Users: 2386
 
@@ -18,11 +18,11 @@ Users: 2386
 | 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 5699 |
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo |  |  | San Salvador, El Salvador | 4921 |
 | 12 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 4728 |
-| 13 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4614 |
-| 14 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
-| 15 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
-| 16 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |
-| 17 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera |  |  | El Salvador | 4081 |
-| 18 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4031 |
-| 19 | [ferventurart](https://github.com/ferventurart) | Fernando Ventura |  |  | El Salvador | 3935 |
-| 20 | [KevinDavidSilva](https://github.com/KevinDavidSilva) | KuroBeil | @BluefoxSV |  | El Salvador | 3649 |
+| 13 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4698 |
+| 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4614 |
+| 15 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
+| 16 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
+| 17 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |
+| 18 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera |  |  | El Salvador | 4081 |
+| 19 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4031 |
+| 20 | [ferventurart](https://github.com/ferventurart) | Fernando Ventura |  |  | El Salvador | 3935 |

@@ -1,6 +1,6 @@
 # Followers - Fiji
 
-Generated: 2026-10-09T08:38:45.514Z
+Generated: 2026-10-09T09:25:23.243Z
 
 Users: 325
 
@@ -18,7 +18,7 @@ Users: 325
 | 10 | [mucsbr](https://github.com/mucsbr) | beingS | Zenaida |  | 0558 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 28 |
 | 11 | [anuraganands](https://github.com/anuraganands) | Anuraganand Sharma | The University of the South Pacific, Fiji |  | Suva, Fiji | 27 |
 | 12 | [Colorlaris](https://github.com/Colorlaris) |  |  |  | Fiji | 27 |
-| 13 | [evesgf](https://github.com/evesgf) | dingpeng yang | evesgf Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 27 |
+| 13 | [evesgf](https://github.com/evesgf) | dingpeng yang | evesgf Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 26 |
 | 14 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 25 |
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 24 |
 | 16 | [anuraag165](https://github.com/anuraag165) | Anuraag Raj | Mindpearl |  | Suva, Fiji | 22 |

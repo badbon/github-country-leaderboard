@@ -31,7 +31,7 @@ Indexed users: 996
 | 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
 | 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
 | 19 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 4,151 |
-| 20 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
+| 20 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Sultanate of Oman, al khuwair muscat | 3,873 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 996
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-09T08:57:21.220Z
+Generated: 2026-10-09T09:41:17.292Z

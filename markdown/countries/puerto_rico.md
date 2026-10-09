@@ -28,8 +28,8 @@ Indexed users: 1,542
 | 14 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,858 |
 | 16 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
-| 17 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
-| 18 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,720 |
+| 17 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,782 |
+| 18 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
 | 19 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 4,703 |
 | 20 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 4,557 |
 
@@ -71,16 +71,16 @@ Indexed users: 1,542
 | 7 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 267 |
 | 8 | [JamesMessinger](https://github.com/JamesMessinger) | James Messinger | San Juan, PR | 225 |
 | 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | Puerto Rico | 202 |
-| 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Aguadilla, Puerto Rico | 195 |
+| 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Aguadilla, Puerto Rico | 197 |
 | 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | Mayagüez, Puerto Rico | 172 |
 | 12 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 170 |
 | 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 166 |
 | 14 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 164 |
-| 15 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 160 |
+| 15 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 159 |
 | 16 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 150 |
 | 17 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | Puerto Rico | 148 |
 | 18 | [Xiomara7](https://github.com/Xiomara7) | Xiomara Figueroa  | San Juan, PR | 138 |
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-09T08:59:06.656Z
+Generated: 2026-10-09T09:42:21.824Z

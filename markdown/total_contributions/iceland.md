@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-09T08:44:08.677Z
+Generated: 2026-10-09T09:30:27.292Z
 
 Users: 1582
 
@@ -15,9 +15,9 @@ Users: 1582
 | 7 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Lóalóa |  | Reykjavík, Iceland | 8780 |
 | 8 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 8749 |
 | 9 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | @Daveloehf  | Chipcius | Reykjavik, Iceland | 7531 |
-| 10 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6633 |
-| 11 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6348 |
-| 12 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Sókrates |  | Iceland | 6315 |
+| 10 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Sókrates |  | Iceland | 7306 |
+| 11 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6633 |
+| 12 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6348 |
 | 13 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 6241 |
 | 14 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6030 |
 | 15 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5619 |

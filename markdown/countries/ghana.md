@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,112
+Indexed users: 7,111
 
 | Leaderboard | Link |
 |---|---|
@@ -45,12 +45,12 @@ Indexed users: 7,112
 | 6 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 7,240 |
 | 7 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,054 |
 | 8 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,845 |
-| 9 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | Tamale, Ghana  | 5,017 |
-| 10 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
-| 11 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
-| 12 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
-| 13 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 2,557 |
-| 14 | [wsuits6](https://github.com/wsuits6) | wsuits6 | Ghana | 2,483 |
+| 9 | [wsuits6](https://github.com/wsuits6) | wsuits6 | Ghana | 5,658 |
+| 10 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | Tamale, Ghana  | 5,017 |
+| 11 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
+| 12 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
+| 13 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
+| 14 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 2,557 |
 | 15 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
 | 16 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
 | 17 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
@@ -83,4 +83,4 @@ Indexed users: 7,112
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-09T08:39:30.877Z
+Generated: 2026-10-09T09:28:10.759Z

@@ -1,6 +1,6 @@
 # Public Contributions - Nepal
 
-Generated: 2026-10-09T08:55:21.565Z
+Generated: 2026-10-09T09:39:14.960Z
 
 Users: 14134
 
@@ -21,8 +21,8 @@ Users: 14134
 | 13 | [zenithkandel](https://github.com/zenithkandel) | Zenith Kandel |  |  | Kathmandu, Nepal | 3560 |
 | 14 | [vimlinuz](https://github.com/vimlinuz) | vimlinuz |  |  | Nepal | 3411 |
 | 15 | [muktinathrajbanshi](https://github.com/muktinathrajbanshi) | Muktinath Rajbanshi | company@mukti |  | Kathmandu | 3383 |
-| 16 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | @merocms |  | Kathmandu, Nepal | 2871 |
-| 17 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 2831 |
-| 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada |  |  | Dhading,Nepal | 2689 |
-| 19 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary |  | AashishCha9656 | Pokhara, Nepal | 2666 |
-| 20 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 2596 |
+| 16 | [ParbinShrees](https://github.com/ParbinShrees) | Parbin Shrees |  |  | Nepal,Pokhara | 3185 |
+| 17 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | @merocms |  | Kathmandu, Nepal | 2871 |
+| 18 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 2831 |
+| 19 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada |  |  | Dhading,Nepal | 2689 |
+| 20 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary |  | AashishCha9656 | Pokhara, Nepal | 2666 |

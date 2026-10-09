@@ -13,10 +13,10 @@ Indexed users: 3,275
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 24,552 |
-| 2 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 17,316 |
-| 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 14,244 |
-| 4 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
-| 5 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 12,029 |
+| 2 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 22,250 |
+| 3 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 17,316 |
+| 4 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 14,244 |
+| 5 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
 | 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 10,310 |
 | 8 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
@@ -31,7 +31,7 @@ Indexed users: 3,275
 | 17 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
 | 18 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | Rīga, Latvia | 5,814 |
 | 19 | [aivars](https://github.com/aivars) | Aivars | Latvia | 5,804 |
-| 20 | [matissoz](https://github.com/matissoz) | Matīss Oskars Zelmens | Latvia | 5,796 |
+| 20 | [martinssipenko](https://github.com/martinssipenko) | Martins Sipenko | Riga, Latvia | 5,483 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,275
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-09T08:47:16.661Z
+Generated: 2026-10-09T09:32:32.866Z

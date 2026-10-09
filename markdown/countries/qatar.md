@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,077
+Indexed users: 1,075
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,077
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 | 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 89 |
 
-Generated: 2026-10-09T08:59:10.626Z
+Generated: 2026-10-09T09:42:26.001Z

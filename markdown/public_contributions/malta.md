@@ -1,8 +1,8 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-09T08:50:53.394Z
+Generated: 2026-10-09T09:34:28.559Z
 
-Users: 1231
+Users: 1230
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1231
 | 16 | [max-lt](https://github.com/max-lt) |  | @OpenWorkers |  | Malta | 1824 |
 | 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1348 |
 | 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1329 |
-| 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1280 |
-| 20 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 1160 |
+| 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1292 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1280 |

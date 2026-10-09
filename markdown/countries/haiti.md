@@ -24,13 +24,13 @@ Indexed users: 339
 | 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,847 |
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,785 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,758 |
-| 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,706 |
+| 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,709 |
 | 14 | [bleuscyther](https://github.com/bleuscyther) | jeffrey n. carre | Haiti | 1,533 |
 | 15 | [thecassion](https://github.com/thecassion) | Pierre Robentz CASSION | Haiti | 1,451 |
 | 16 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer | Port-au-Prince | 1,324 |
-| 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,119 |
+| 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,120 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 976 |
-| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 947 |
+| 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 945 |
 | 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 858 |
 
 ## Public Contributions
@@ -56,7 +56,7 @@ Indexed users: 339
 | 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 166 |
 | 18 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert | Haiti | 166 |
 | 19 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Port-au-prince/Petion-ville | 163 |
-| 20 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 151 |
+| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | Haiti | 150 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-09T08:43:33.033Z
+Generated: 2026-10-09T09:29:49.961Z

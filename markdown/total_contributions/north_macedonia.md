@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-09T08:57:09.643Z
+Generated: 2026-10-09T09:40:43.684Z
 
 Users: 1938
 
@@ -15,11 +15,11 @@ Users: 1938
 | 7 | [simeonmarkoski](https://github.com/simeonmarkoski) | Simeon Markoski | @silyze |  | Skopje, Macedonia | 5289 |
 | 8 | [markopetrov1](https://github.com/markopetrov1) | Marko Petrov | @iCardioAI |  | Skopje, Macedonia | 5068 |
 | 9 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 4578 |
-| 10 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 4438 |
-| 11 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4273 |
-| 12 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 4240 |
-| 13 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 3979 |
-| 14 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 3890 |
+| 10 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | @codechem |  | Skopje, North Macedonia | 4515 |
+| 11 | [DBozhinovski](https://github.com/DBozhinovski) | Darko Bozhinovski | @axiomatic-dev | d_bozhinovski | Skopje, Macedonia | 4438 |
+| 12 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4273 |
+| 13 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 4240 |
+| 14 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4182 |
 | 15 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 3850 |
 | 16 | [sasojadrovski](https://github.com/sasojadrovski) | Sasho Jadrovski |  | sasojadrovski | Skopje, Macedonia | 3800 |
 | 17 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 3774 |

@@ -31,7 +31,7 @@ Indexed users: 1,289
 | 17 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
 | 18 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 3,085 |
 | 19 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
-| 20 | [DDansAbelenda](https://github.com/DDansAbelenda) | Daniel Dans Abelenda | Cuba | 2,808 |
+| 20 | [A4GOD-AMHG](https://github.com/A4GOD-AMHG) | Alexis Manuel Hurtado García | Cuba | 2,912 |
 
 ## Public Contributions
 
@@ -44,7 +44,7 @@ Indexed users: 1,289
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,277 |
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,293 |
 | 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,612 |
-| 8 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,572 |
+| 8 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,514 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,486 |
 | 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,474 |
 | 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,463 |
@@ -66,7 +66,7 @@ Indexed users: 1,289
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 392 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 170 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 143 |
-| 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 142 |
+| 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 134 |
 | 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 132 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | La Habana, Cuba | 127 |
@@ -83,4 +83,4 @@ Indexed users: 1,289
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-09T08:34:48.685Z
+Generated: 2026-10-09T09:22:25.344Z

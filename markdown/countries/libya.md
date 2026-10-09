@@ -28,10 +28,10 @@ Indexed users: 744
 | 14 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,016 |
 | 15 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,372 |
 | 16 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,149 |
-| 17 | [Anas-taleb99](https://github.com/Anas-taleb99) |  | Libya | 4,622 |
-| 18 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 4,413 |
-| 19 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 4,193 |
-| 20 | [AbobkerElaghel](https://github.com/AbobkerElaghel) | Abobker Elaghel | Libya | 3,710 |
+| 17 | [EngGharbia](https://github.com/EngGharbia) | Ben Gharbia | Tripoli-Libya | 4,886 |
+| 18 | [Anas-taleb99](https://github.com/Anas-taleb99) |  | Libya | 4,622 |
+| 19 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 4,413 |
+| 20 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 4,193 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 744
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-09T08:49:22.902Z
+Generated: 2026-10-09T09:32:46.182Z

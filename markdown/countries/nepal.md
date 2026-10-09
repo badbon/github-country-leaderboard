@@ -52,11 +52,11 @@ Indexed users: 14,134
 | 13 | [zenithkandel](https://github.com/zenithkandel) | Zenith Kandel | Kathmandu, Nepal | 3,560 |
 | 14 | [vimlinuz](https://github.com/vimlinuz) | vimlinuz | Nepal | 3,411 |
 | 15 | [muktinathrajbanshi](https://github.com/muktinathrajbanshi) | Muktinath Rajbanshi | Kathmandu | 3,383 |
-| 16 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | Kathmandu, Nepal | 2,871 |
-| 17 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 2,831 |
-| 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada | Dhading,Nepal | 2,689 |
-| 19 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary | Pokhara, Nepal | 2,666 |
-| 20 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 2,596 |
+| 16 | [ParbinShrees](https://github.com/ParbinShrees) | Parbin Shrees | Nepal,Pokhara | 3,185 |
+| 17 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | Kathmandu, Nepal | 2,871 |
+| 18 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 2,831 |
+| 19 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada | Dhading,Nepal | 2,689 |
+| 20 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary | Pokhara, Nepal | 2,666 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 14,134
 | 19 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
 | 20 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 
-Generated: 2026-10-09T08:55:21.565Z
+Generated: 2026-10-09T09:39:14.960Z

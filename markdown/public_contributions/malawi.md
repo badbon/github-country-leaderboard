@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-09T08:50:12.204Z
+Generated: 2026-10-09T09:34:08.917Z
 
 Users: 902
 
@@ -11,8 +11,8 @@ Users: 902
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 1523 |
 | 4 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 1392 |
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti |  |  | malawi | 1112 |
-| 6 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 1095 |
-| 7 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1018 |
+| 6 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1018 |
+| 7 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 985 |
 | 8 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 959 |
 | 9 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 951 |
 | 10 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 |  |  | Malawi | 783 |
@@ -23,6 +23,6 @@ Users: 902
 | 15 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 612 |
 | 16 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 565 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 487 |
-| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
-| 19 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 471 |
-| 20 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | HavenPlus Technologies |  | Lilongwe | 453 |
+| 18 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi |  | hopgausi | Malawi | 481 |
+| 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
+| 20 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 471 |

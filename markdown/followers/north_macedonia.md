@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-09T08:57:09.643Z
+Generated: 2026-10-09T09:40:43.684Z
 
 Users: 1938
 
@@ -13,7 +13,7 @@ Users: 1938
 | 5 | [trajchevska](https://github.com/trajchevska) | Katerina Trajchevska | @adevait  |  | Skopje Macedonia | 462 |
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | localhost |  | Macedonia | 306 |
 | 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Full-Stack Developer |  | Macedonia | 293 |
-| 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 239 |
+| 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 241 |
 | 9 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Faculty of computer science and engineering - Skopje |  | Skopje, Macedonia | 223 |
 | 10 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski |  |  | Skopje | 212 |
 | 11 | [callibra](https://github.com/callibra) | Ivan Gjorcev  |  |  | Sveti Nikole, Macedonia  🌎 🗺️ | 207 |

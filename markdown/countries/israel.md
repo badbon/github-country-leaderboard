@@ -43,7 +43,7 @@ Indexed users: 12,445
 | 4 | [chernistry](https://github.com/chernistry) | Alex Chernysh | Tel Aviv, Israel | 12,764 |
 | 5 | [arthurzam](https://github.com/arthurzam) | Arthur Zamarin | Israel | 10,773 |
 | 6 | [ariannamethod](https://github.com/ariannamethod) | Arianna Method | Israel | 8,865 |
-| 7 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 7,629 |
+| 7 | [kdroidFilter](https://github.com/kdroidFilter) | Elie Gambache | Jerusalem Israel | 8,365 |
 | 8 | [kossoy](https://github.com/kossoy) | Oleg Kossoy | Israel | 7,229 |
 | 9 | [elie222](https://github.com/elie222) | Elie Steinbock | Tel Aviv, Israel | 7,033 |
 | 10 | [alonf](https://github.com/alonf) | Alon Fliess | Israel | 6,869 |
@@ -83,4 +83,4 @@ Indexed users: 12,445
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-09T08:44:34.123Z
+Generated: 2026-10-09T09:31:17.737Z

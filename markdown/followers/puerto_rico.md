@@ -1,6 +1,6 @@
 # Followers - Puerto Rico
 
-Generated: 2026-10-09T08:59:06.656Z
+Generated: 2026-10-09T09:42:21.824Z
 
 Users: 1542
 
@@ -15,12 +15,12 @@ Users: 1542
 | 7 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 267 |
 | 8 | [JamesMessinger](https://github.com/JamesMessinger) | James Messinger |  | James_Messinger | San Juan, PR | 225 |
 | 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | @FoundersFund, @ethereum, @AugurProject, @eco | joeykrug | Puerto Rico | 202 |
-| 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Hewlett Packard Enterprises | Not__Pikachu | Aguadilla, Puerto Rico | 195 |
+| 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Hewlett Packard Enterprises | Not__Pikachu | Aguadilla, Puerto Rico | 197 |
 | 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | University of Puerto Rico Mayagüez |  | Mayagüez, Puerto Rico | 172 |
 | 12 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 170 |
 | 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez |  | victoroalvarez | Puerto Rico | 166 |
 | 14 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 164 |
-| 15 | [aryxns](https://github.com/aryxns) | Aryan Sharma |  | aryxnsharma | puerto rico | 160 |
+| 15 | [aryxns](https://github.com/aryxns) | Aryan Sharma |  | aryxnsharma | puerto rico | 159 |
 | 16 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE |  |  | Hatillo, Puerto Rico | 150 |
 | 17 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | @google |  | Puerto Rico | 148 |
 | 18 | [Xiomara7](https://github.com/Xiomara7) | Xiomara Figueroa  |  |  | San Juan, PR | 138 |
