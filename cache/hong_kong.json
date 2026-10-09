@@ -8108,7 +8108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 330,
+    "publicContributions": 294,
     "createdAt": "2024-09-13T03:09:01Z"
   },
   {
@@ -8119,7 +8119,7 @@
     "company": "HKUST",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 43,
+    "privateContributions": 56,
     "publicContributions": 21,
     "createdAt": "2024-03-09T06:36:08Z"
   },
@@ -8130,9 +8130,9 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 20,
     "createdAt": "2024-03-04T06:29:35Z"
   },
   {
@@ -8156,7 +8156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 18,
     "createdAt": "2024-12-11T09:36:56Z"
   },
   {
@@ -8166,33 +8166,21 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-09T10:20:02Z"
   },
   {
-    "login": "hmit0506",
-    "name": "Qian Shi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167797946?s=72&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 196,
-    "createdAt": "2024-04-22T16:27:24Z"
-  },
-  {
     "login": "yuxinwang43",
     "name": "Yuxin Wang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/183803278?s=72&u=41fc54c2277c222493cb56372c551e7ce8f28e1c&v=4",
-    "location": "The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong",
+    "location": "Clear Water Bay, Kowloon, Hong Kong",
     "company": "The Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-10-04T07:26:53Z"
   },
   {
@@ -8204,7 +8192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2024-03-25T07:31:30Z"
   },
   {
@@ -8240,7 +8228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 51,
-    "publicContributions": 9,
+    "publicContributions": 20,
     "createdAt": "2024-07-07T15:19:58Z"
   },
   {
@@ -8264,7 +8252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 16,
     "createdAt": "2024-11-30T13:51:09Z"
   },
   {
@@ -8288,7 +8276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 125,
     "createdAt": "2024-09-03T09:09:04Z"
   },
   {
@@ -8298,9 +8286,9 @@
     "location": "Hong Kong",
     "company": "Bank/Automoble",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2024-09-04T10:45:37Z"
   },
   {
@@ -8312,7 +8300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 128,
+    "publicContributions": 130,
     "createdAt": "2024-02-28T19:29:02Z"
   },
   {

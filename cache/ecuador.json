@@ -8299,8 +8299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 33,
-    "publicContributions": 45,
+    "privateContributions": 32,
+    "publicContributions": 29,
     "createdAt": "2023-06-01T20:06:46Z"
   },
   {
@@ -8312,7 +8312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 19,
     "createdAt": "2023-07-19T14:29:34Z"
   },
   {
@@ -8348,7 +8348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 65,
     "createdAt": "2023-11-07T00:41:14Z"
   },
   {
@@ -8384,7 +8384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 84,
     "createdAt": "2023-05-09T20:38:26Z"
   },
   {
@@ -8396,7 +8396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 62,
     "createdAt": "2023-01-07T03:47:50Z"
   },
   {
@@ -8419,8 +8419,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 271,
+    "privateContributions": 37,
+    "publicContributions": 301,
     "createdAt": "2023-12-26T21:20:58Z"
   },
   {
@@ -8444,7 +8444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 132,
     "createdAt": "2023-10-15T03:44:23Z"
   },
   {
@@ -8472,18 +8472,6 @@
     "createdAt": "2022-12-28T07:01:36Z"
   },
   {
-    "login": "JairAlexey",
-    "name": "Jair Alexey Rueda Manosalvas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123614716?s=72&u=14f5149c1edc0ebda0ea363e1bbb10074f844546&v=4",
-    "location": "Ecuador",
-    "company": "Home",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 467,
-    "createdAt": "2023-01-26T03:57:47Z"
-  },
-  {
     "login": "G4br13l28",
     "name": "Gabriel Salas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126641513?s=72&u=3496c7e263627c12499f336e3f12034b2cc523c1&v=4",
@@ -8492,7 +8480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2023-03-01T04:07:59Z"
   },
   {
@@ -8503,7 +8491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 68,
+    "privateContributions": 71,
     "publicContributions": 134,
     "createdAt": "2023-06-22T12:32:13Z"
   },
@@ -8514,9 +8502,9 @@
     "location": "Quito, Ecuador",
     "company": "USFQ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 252,
+    "publicContributions": 259,
     "createdAt": "2023-07-12T18:33:35Z"
   },
   {

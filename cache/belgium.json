@@ -8240,7 +8240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 223,
+    "publicContributions": 270,
     "createdAt": "2024-12-05T10:11:47Z"
   },
   {
@@ -8251,20 +8251,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 380,
-    "publicContributions": 3,
+    "privateContributions": 377,
+    "publicContributions": 6,
     "createdAt": "2024-02-14T19:09:49Z"
   },
   {
     "login": "Jonathan-Data",
     "name": "Jonathan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175350112?s=72&u=ca9cf99f422cb1e6887fb6f8eb7d5aa6d9ac6c93&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175350112?s=72&u=5eec271a56d12122c110c22a763e8f67e0cc0b5b&v=4",
     "location": "Antwerp, Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 99,
+    "privateContributions": 184,
+    "publicContributions": 19,
     "createdAt": "2024-07-11T18:28:22Z"
   },
   {
@@ -8288,7 +8288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 5,
     "createdAt": "2024-02-23T09:23:47Z"
   },
   {
@@ -8324,7 +8324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 36,
     "createdAt": "2024-12-23T22:30:36Z"
   },
   {
@@ -8352,18 +8352,6 @@
     "createdAt": "2024-04-02T10:23:10Z"
   },
   {
-    "login": "romain-devsquare",
-    "name": "Romain Demaret",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165267646?s=72&u=227de1db9bd938589181847915c0f4a21bf1ce31&v=4",
-    "location": "Belgium",
-    "company": "@Erethylund ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2024-03-28T09:41:16Z"
-  },
-  {
     "login": "NataliaCherman",
     "name": "Natalia",
     "avatarUrl": "https://avatars.githubusercontent.com/u/181123839?s=72&v=4",
@@ -8372,7 +8360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-09-10T14:58:51Z"
   },
   {
@@ -8384,7 +8372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-10-22T13:29:09Z"
   },
   {
@@ -8466,9 +8454,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 15,
     "createdAt": "2024-07-19T11:03:48Z"
   },
   {

@@ -8095,7 +8095,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 93,
+    "privateContributions": 96,
     "publicContributions": 2,
     "createdAt": "2021-10-11T14:22:40Z"
   },
@@ -8167,8 +8167,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 43,
-    "publicContributions": 13,
+    "privateContributions": 4,
+    "publicContributions": 8,
     "createdAt": "2021-01-14T11:48:23Z"
   },
   {
@@ -8179,8 +8179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 259,
-    "publicContributions": 15,
+    "privateContributions": 590,
+    "publicContributions": 29,
     "createdAt": "2021-03-25T17:01:02Z"
   },
   {
@@ -8188,9 +8188,9 @@
     "name": "Adis Nezirović",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93585206?s=72&v=4",
     "location": "Sarajevo",
-    "company": "Ministry of Programming",
+    "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-02T10:26:55Z"
@@ -8198,13 +8198,13 @@
   {
     "login": "codexBA",
     "name": "CodexBA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82135810?s=72&u=d8a7da5c091cb512e9abe8d417996308a42d102a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82135810?s=72&u=fb239270766e04d73d6a6ceeae82a02efdfe7612&v=4",
     "location": "Sarajevo, Bosnia",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 45,
     "createdAt": "2021-04-08T05:20:56Z"
   },
   {

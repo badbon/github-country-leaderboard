@@ -8240,7 +8240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-09-03T06:34:39Z"
   },
   {
@@ -8251,8 +8251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 136,
-    "publicContributions": 4,
+    "privateContributions": 287,
+    "publicContributions": 6,
     "createdAt": "2024-05-30T17:00:00Z"
   },
   {
@@ -8260,11 +8260,11 @@
     "name": "Gonzaga",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171624152?s=72&u=f3e14ee5f8e804647eb67d74432762d3166343c2&v=4",
     "location": "Denmark",
-    "company": "GH",
+    "company": "GonzHub",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 372,
-    "publicContributions": 15,
+    "followers": 5,
+    "privateContributions": 432,
+    "publicContributions": 16,
     "createdAt": "2024-06-03T20:52:57Z"
   },
   {
@@ -8275,7 +8275,7 @@
     "company": "Deltaplan",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-14T08:44:31Z"
   },
@@ -8288,7 +8288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 262,
     "createdAt": "2024-05-14T07:58:53Z"
   },
   {
@@ -8324,7 +8324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 629,
+    "publicContributions": 531,
     "createdAt": "2024-09-04T15:38:09Z"
   },
   {
@@ -8334,7 +8334,7 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-13T13:05:17Z"
@@ -8372,7 +8372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 200,
     "createdAt": "2024-11-01T09:42:29Z"
   },
   {
@@ -8382,9 +8382,9 @@
     "location": "Denmark ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 20,
     "createdAt": "2024-09-10T17:07:35Z"
   },
   {
@@ -8396,7 +8396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 60,
     "createdAt": "2024-03-20T14:13:14Z"
   },
   {
@@ -8420,7 +8420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 26,
     "createdAt": "2024-12-02T13:05:20Z"
   },
   {

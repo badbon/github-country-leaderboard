@@ -8120,7 +8120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 9,
-    "publicContributions": 280,
+    "publicContributions": 275,
     "createdAt": "2024-08-04T17:56:47Z"
   },
   {
@@ -8130,7 +8130,7 @@
     "location": "Ireland",
     "company": "Amazon Ireland",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2024-11-13T19:46:53Z"
@@ -8144,7 +8144,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 44,
     "createdAt": "2024-09-10T16:58:06Z"
   },
   {
@@ -8155,8 +8155,8 @@
     "company": "@infosys",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 124,
-    "publicContributions": 86,
+    "privateContributions": 115,
+    "publicContributions": 73,
     "createdAt": "2024-04-14T22:41:51Z"
   },
   {
@@ -8192,7 +8192,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 122,
     "createdAt": "2024-07-10T08:59:31Z"
   },
   {
@@ -8204,7 +8204,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2024-09-26T16:28:49Z"
   },
   {
@@ -8262,9 +8262,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-09-17T09:05:51Z"
   },
   {
@@ -8276,7 +8276,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 63,
     "createdAt": "2024-01-12T12:50:46Z"
   },
   {
@@ -8286,9 +8286,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 608,
     "createdAt": "2024-02-14T07:31:14Z"
   },
   {
@@ -8300,20 +8300,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 1044,
-    "publicContributions": 302,
+    "publicContributions": 157,
     "createdAt": "2024-02-03T20:28:01Z"
-  },
-  {
-    "login": "alex-defos",
-    "name": "Alex @ Defos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190012462?s=72&u=ba7521dc5892eece6dc5dc9e05f7284a2b638b84&v=4",
-    "location": "Dublin, Ireland",
-    "company": "Defos",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2024-11-28T16:18:17Z"
   },
   {
     "login": "charlesdaigre",

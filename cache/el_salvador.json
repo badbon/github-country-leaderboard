@@ -8010,9 +8010,9 @@
     "location": "San Salvador de Jujuy",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 68,
-    "publicContributions": 250,
+    "followers": 1,
+    "privateContributions": 48,
+    "publicContributions": 269,
     "createdAt": "2022-08-25T00:15:30Z"
   },
   {
@@ -8048,7 +8048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 66,
     "createdAt": "2022-05-04T17:18:35Z"
   },
   {
@@ -8060,7 +8060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 26,
     "createdAt": "2022-03-18T15:17:25Z"
   },
   {
@@ -8072,20 +8072,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 73,
     "createdAt": "2022-04-07T17:50:58Z"
-  },
-  {
-    "login": "2512812022",
-    "name": "Jose Luis Ramos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115955866?s=72&v=4",
-    "location": "San Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2022-10-16T22:13:40Z"
   },
   {
     "login": "carloscalderonsv",
@@ -8094,9 +8082,9 @@
     "location": "San Salvador",
     "company": "Pockito Labs",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2022-08-06T00:02:10Z"
   },
   {
@@ -8108,7 +8096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 51,
     "createdAt": "2022-01-31T04:55:01Z"
   },
   {
@@ -8154,7 +8142,7 @@
     "location": "El Salvador",
     "company": "Software Engineering Student",
     "twitterUsername": "",
-    "followers": 491,
+    "followers": 492,
     "privateContributions": 27,
     "publicContributions": 155,
     "createdAt": "2021-09-13T05:20:28Z"
@@ -8166,9 +8154,9 @@
     "location": "El Salvador, San Salvador",
     "company": "snowball-devs",
     "twitterUsername": "",
-    "followers": 144,
-    "privateContributions": 317,
-    "publicContributions": 73,
+    "followers": 142,
+    "privateContributions": 296,
+    "publicContributions": 66,
     "createdAt": "2021-06-18T05:29:50Z"
   },
   {
@@ -8178,9 +8166,9 @@
     "location": "El Salvador",
     "company": "Ravn",
     "twitterUsername": "",
-    "followers": 142,
-    "privateContributions": 28,
-    "publicContributions": 197,
+    "followers": 135,
+    "privateContributions": 138,
+    "publicContributions": 348,
     "createdAt": "2021-12-03T03:57:30Z"
   },
   {
@@ -8190,9 +8178,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 127,
+    "followers": 124,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 157,
     "createdAt": "2021-11-22T05:07:59Z"
   },
   {
@@ -8203,8 +8191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 0,
-    "publicContributions": 22,
+    "privateContributions": 4,
+    "publicContributions": 26,
     "createdAt": "2021-01-31T17:40:30Z"
   },
   {
@@ -8214,9 +8202,9 @@
     "location": "San Salvador, El Salvador",
     "company": "",
     "twitterUsername": "eliseodev",
-    "followers": 43,
-    "privateContributions": 776,
-    "publicContributions": 429,
+    "followers": 45,
+    "privateContributions": 1283,
+    "publicContributions": 444,
     "createdAt": "2021-12-20T02:31:47Z"
   },
   {
