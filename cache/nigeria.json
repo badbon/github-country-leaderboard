@@ -6594,9 +6594,9 @@
     "location": "Nigeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 68,
     "createdAt": "2025-01-29T06:14:17Z"
   },
   {
@@ -6604,11 +6604,11 @@
     "name": "Chigozirim Favour",
     "avatarUrl": "https://avatars.githubusercontent.com/u/205050683?s=72&u=2873bcb8f90ab49b9887b5a2f60edbdd028c7225&v=4",
     "location": "Nigeria",
-    "company": "prosolite",
+    "company": "Fuuud",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 694,
+    "followers": 8,
+    "privateContributions": 187,
+    "publicContributions": 1058,
     "createdAt": "2025-03-26T15:38:53Z"
   },
   {
@@ -6630,9 +6630,9 @@
     "location": "Nigeria",
     "company": "",
     "twitterUsername": "Marieee_luvv",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 30,
     "createdAt": "2025-03-20T10:40:26Z"
   },
   {
@@ -6642,9 +6642,9 @@
     "location": " Lagos, Nigeria",
     "company": "Freelancer",
     "twitterUsername": "Fatolu-peter",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 131,
+    "publicContributions": 127,
     "createdAt": "2025-02-22T11:56:42Z"
   },
   {
@@ -6666,7 +6666,7 @@
     "location": "Lagos, Nigeria",
     "company": "TeeTronics Gadgets",
     "twitterUsername": "symplytalent",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 112,
     "createdAt": "2025-01-19T02:37:17Z"
@@ -6680,7 +6680,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 62,
     "createdAt": "2025-02-04T18:29:22Z"
   },
   {
@@ -6704,43 +6704,31 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2025-01-17T23:49:29Z"
-  },
-  {
-    "login": "0xcanter",
-    "name": "Canter",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203682868?s=72&u=165b0efaa5da7fc58d36324beb427e8e2773729d&v=4",
-    "location": "Anambra , Nigeria",
-    "company": "",
-    "twitterUsername": "0xcanter",
-    "followers": 5,
-    "privateContributions": 5,
-    "publicContributions": 71,
-    "createdAt": "2025-03-17T16:14:54Z"
   },
   {
     "login": "eslablessedlazarus",
     "name": "Esla Lazarus ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194591597?s=72&u=b45609da24e37ba878d42bc9ce7178f3112dd669&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194591597?s=72&u=416fad6b0eabdfbcf3015ec26f386928b413ce94&v=4",
     "location": "Nigeria ",
     "company": "",
     "twitterUsername": "eslablazarus",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 56,
     "createdAt": "2025-01-11T10:40:05Z"
   },
   {
     "login": "wisentreprenuer",
     "name": "Wisdom Oviemuno",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197052178?s=72&u=d1c119dc4303fc0dfa477215e337adb0f19cfa42&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197052178?s=72&u=a58a31b91126f530682ac1f2cfb90bdc5e36b4f9&v=4",
     "location": "Aba, Nigeria ",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 42,
-    "publicContributions": 12,
+    "privateContributions": 259,
+    "publicContributions": 13,
     "createdAt": "2025-01-30T08:16:50Z"
   },
   {
@@ -6752,7 +6740,7 @@
     "twitterUsername": "Tonymichuks",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 528,
+    "publicContributions": 524,
     "createdAt": "2025-03-17T15:48:25Z"
   },
   {
@@ -6776,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 29,
     "createdAt": "2025-03-22T19:43:45Z"
   },
   {
@@ -6800,20 +6788,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 337,
+    "publicContributions": 302,
     "createdAt": "2025-01-31T06:30:00Z"
-  },
-  {
-    "login": "ChikamsoChidebe",
-    "name": "Dev_Chikamso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204183056?s=72&u=731eb5a7a3e2a184d39c6c42eb4d7de90651d775&v=4",
-    "location": "Abuja, Nigeria.",
-    "company": "Afryvo Marketplace",
-    "twitterUsername": "hellochikamso",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 463,
-    "createdAt": "2025-03-20T11:22:24Z"
   },
   {
     "login": "11082007",

@@ -6619,8 +6619,8 @@
     "company": "DOO \"Lorem Ipsum\"",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1,
-    "publicContributions": 48,
+    "privateContributions": 0,
+    "publicContributions": 58,
     "createdAt": "2016-11-29T17:34:47Z"
   },
   {
@@ -6631,7 +6631,7 @@
     "company": "Codelab",
     "twitterUsername": "adlabac",
     "followers": 8,
-    "privateContributions": 127,
+    "privateContributions": 196,
     "publicContributions": 40,
     "createdAt": "2016-02-21T09:00:14Z"
   },
@@ -6643,7 +6643,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3,
+    "privateContributions": 4,
     "publicContributions": 3,
     "createdAt": "2016-01-08T14:21:14Z"
   },
@@ -6660,39 +6660,15 @@
     "createdAt": "2016-12-11T13:38:52Z"
   },
   {
-    "login": "haris812",
-    "name": "Haris Husovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/21263032?s=72&u=3c476c967b27eaaaba4e6b959019c51c5a154010&v=4",
-    "location": "Podgorica, Montenegro",
-    "company": "Full Time Freelancer",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-08-26T13:49:14Z"
-  },
-  {
-    "login": "sfustar",
-    "name": "Stefan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16493607?s=72&v=4",
-    "location": "81000, Podgorica, Montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 290,
-    "publicContributions": 0,
-    "createdAt": "2015-12-30T20:59:52Z"
-  },
-  {
     "login": "opejovic",
     "name": "ognjen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20000869?s=72&u=25b50674c1503fa679e1aacbdd092ec4455dbe0a&v=4",
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "opejovic",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "followers": 7,
+    "privateContributions": 2620,
+    "publicContributions": 3,
     "createdAt": "2016-06-17T19:39:57Z"
   },
   {
@@ -6704,7 +6680,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3235,
+    "publicContributions": 3067,
     "createdAt": "2016-04-09T10:04:25Z"
   },
   {
@@ -6727,7 +6703,7 @@
     "company": "null",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 66,
+    "privateContributions": 64,
     "publicContributions": 9,
     "createdAt": "2016-09-14T08:26:50Z"
   },
@@ -6739,8 +6715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 118,
-    "publicContributions": 7,
+    "privateContributions": 107,
+    "publicContributions": 0,
     "createdAt": "2016-01-12T18:52:19Z"
   },
   {
@@ -6764,7 +6740,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 37,
     "createdAt": "2016-04-11T19:44:45Z"
   },
   {
@@ -6787,7 +6763,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 147,
+    "privateContributions": 282,
     "publicContributions": 0,
     "createdAt": "2016-11-08T17:23:05Z"
   },
@@ -6800,7 +6776,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 7,
     "createdAt": "2016-11-29T18:19:58Z"
   },
   {
@@ -6811,8 +6787,8 @@
     "company": "Raiffeisen",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 8,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2016-07-07T07:50:17Z"
   },
   {
@@ -6836,7 +6812,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 34,
     "createdAt": "2016-11-24T15:01:56Z"
   },
   {

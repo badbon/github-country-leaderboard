@@ -5888,31 +5888,31 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 163,
+    "publicContributions": 160,
     "createdAt": "2025-09-22T12:49:39Z"
   },
   {
     "login": "IreneGrisenti",
     "name": "Irene",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236368881?s=72&u=bc343482451a74ac4f859e895beb85eb4f3ea448&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/236368881?s=72&u=a764f727757db459b060b038f2e439abf47ae76d&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 48,
-    "publicContributions": 162,
+    "followers": 3,
+    "privateContributions": 50,
+    "publicContributions": 165,
     "createdAt": "2025-10-06T11:17:41Z"
   },
   {
     "login": "Kv1st3n",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233747346?s=72&u=c56707658b31e6d5d6e9ac47826cee7203683ade&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/233747346?s=72&u=e485be7c5187acef5ce9654afec4b786107004bd&v=4",
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 429,
+    "privateContributions": 206,
+    "publicContributions": 562,
     "createdAt": "2025-09-22T12:04:56Z"
   },
   {
@@ -5948,7 +5948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 68,
     "createdAt": "2025-10-08T09:28:23Z"
   },
   {
@@ -5958,9 +5958,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 440,
+    "publicContributions": 461,
     "createdAt": "2025-09-04T06:59:50Z"
   },
   {
@@ -5970,9 +5970,9 @@
     "location": "Gothenburg, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 85,
     "createdAt": "2025-08-28T12:25:32Z"
   },
   {
@@ -5984,7 +5984,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2766,
+    "publicContributions": 3155,
     "createdAt": "2025-06-17T19:05:48Z"
   },
   {
@@ -6007,8 +6007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 208,
-    "publicContributions": 23,
+    "privateContributions": 155,
+    "publicContributions": 22,
     "createdAt": "2025-08-28T08:02:42Z"
   },
   {
@@ -6018,9 +6018,9 @@
     "location": "Stockholm, Sweden",
     "company": "Frontend Developer @ Nackademin",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 48,
     "createdAt": "2025-08-25T12:59:29Z"
   },
   {
@@ -6032,7 +6032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-18T18:14:41Z"
   },
   {
@@ -6044,7 +6044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-01T13:44:17Z"
   },
   {
@@ -6056,7 +6056,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2025-10-04T17:07:37Z"
   },
   {
@@ -6116,7 +6116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 6,
-    "publicContributions": 370,
+    "publicContributions": 381,
     "createdAt": "2025-01-28T21:54:15Z"
   },
   {
@@ -242442,8 +242442,8 @@
     "location": "Stockholm, Sweden / Bristol, UK",
     "company": "Spotify",
     "twitterUsername": "matthewkempa",
-    "followers": 3,
-    "privateContributions": 2041,
+    "followers": 4,
+    "privateContributions": 2007,
     "publicContributions": 0,
     "createdAt": "2016-10-06T22:08:17Z"
   },

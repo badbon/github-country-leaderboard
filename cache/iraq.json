@@ -6331,8 +6331,8 @@
     "company": "Advicts",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 143,
-    "publicContributions": 3,
+    "privateContributions": 95,
+    "publicContributions": 0,
     "createdAt": "2023-09-27T08:43:50Z"
   },
   {
@@ -6367,7 +6367,7 @@
     "company": "Aswar Group",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 363,
+    "privateContributions": 142,
     "publicContributions": 0,
     "createdAt": "2023-02-06T12:52:49Z"
   },
@@ -6402,9 +6402,9 @@
     "location": "baghdad",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-08-11T10:18:20Z"
   },
   {
@@ -6428,7 +6428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 143,
     "createdAt": "2023-02-24T00:19:14Z"
   },
   {
@@ -6451,21 +6451,9 @@
     "company": "@QiCard",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 87,
+    "privateContributions": 105,
     "publicContributions": 0,
     "createdAt": "2023-01-01T15:35:29Z"
-  },
-  {
-    "login": "Akramtaha98",
-    "name": "Akram Taha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122595861?s=72&u=498ff34a57e541a7cdb75507f321c196ce732cac&v=4",
-    "location": "Baghdad",
-    "company": "University of Technology",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 190,
-    "createdAt": "2023-01-13T07:06:57Z"
   },
   {
     "login": "sajjad-salam",
@@ -6474,9 +6462,9 @@
     "location": "iraq-baghdad",
     "company": "freelancer",
     "twitterUsername": "",
-    "followers": 3025,
-    "privateContributions": 3231,
-    "publicContributions": 48,
+    "followers": 3004,
+    "privateContributions": 3335,
+    "publicContributions": 79,
     "createdAt": "2022-08-10T10:27:49Z"
   },
   {
@@ -6486,8 +6474,8 @@
     "location": "Erbil, Erbil Governorate, Iraq ",
     "company": "",
     "twitterUsername": "ShahramShakibaa",
-    "followers": 234,
-    "privateContributions": 52,
+    "followers": 227,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-27T07:38:05Z"
   },
@@ -6498,9 +6486,9 @@
     "location": "Baghdad, Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 150,
-    "privateContributions": 27,
-    "publicContributions": 194,
+    "followers": 143,
+    "privateContributions": 42,
+    "publicContributions": 78,
     "createdAt": "2022-03-06T20:46:21Z"
   },
   {
@@ -6510,9 +6498,9 @@
     "location": "Iraq - Baghdad",
     "company": "@ttechiraq ",
     "twitterUsername": "",
-    "followers": 145,
-    "privateContributions": 796,
-    "publicContributions": 67,
+    "followers": 153,
+    "privateContributions": 798,
+    "publicContributions": 52,
     "createdAt": "2022-05-21T10:45:59Z"
   },
   {
@@ -6522,22 +6510,10 @@
     "location": "Iraq, Baghdad",
     "company": "NBI",
     "twitterUsername": "",
-    "followers": 69,
-    "privateContributions": 114,
+    "followers": 70,
+    "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2022-03-19T13:32:57Z"
-  },
-  {
-    "login": "haideraljawasim",
-    "name": "Haider A. Hashim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97280645?s=72&u=3e24569bef03f0e5455fea1680e2b85b4bc8176c&v=4",
-    "location": "Najaf, Iraq",
-    "company": "Gateway ICT ",
-    "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 719,
-    "publicContributions": 719,
-    "createdAt": "2022-01-07T08:12:38Z"
   },
   {
     "login": "Safin-dev",
@@ -6546,8 +6522,8 @@
     "location": "Iraq,Duhok",
     "company": "@finix-krd",
     "twitterUsername": "safinnoori",
-    "followers": 37,
-    "privateContributions": 190,
+    "followers": 40,
+    "privateContributions": 178,
     "publicContributions": 2,
     "createdAt": "2022-01-06T19:32:07Z"
   },
@@ -6558,8 +6534,8 @@
     "location": "Iraq",
     "company": "",
     "twitterUsername": "alihassan12r",
-    "followers": 31,
-    "privateContributions": 3070,
+    "followers": 32,
+    "privateContributions": 3673,
     "publicContributions": 8,
     "createdAt": "2022-01-12T20:56:42Z"
   },

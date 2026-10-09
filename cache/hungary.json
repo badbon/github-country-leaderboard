@@ -6295,7 +6295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 804,
+    "privateContributions": 757,
     "publicContributions": 0,
     "createdAt": "2024-06-26T15:11:25Z"
   },
@@ -6319,8 +6319,8 @@
     "company": "Robert Bosch Kft.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 21,
+    "privateContributions": 11,
+    "publicContributions": 29,
     "createdAt": "2024-07-16T10:43:10Z"
   },
   {
@@ -6356,7 +6356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 31,
     "createdAt": "2024-09-19T09:31:43Z"
   },
   {
@@ -6379,8 +6379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 90,
-    "publicContributions": 28,
+    "privateContributions": 265,
+    "publicContributions": 20,
     "createdAt": "2024-06-23T23:07:52Z"
   },
   {
@@ -6392,7 +6392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-02-19T23:49:22Z"
   },
   {
@@ -6416,18 +6416,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 34,
     "createdAt": "2024-04-22T17:10:16Z"
   },
   {
     "login": "ladyrosenred",
     "name": "Brigitta Varga",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180930102?s=72&u=8f4a5374724f1e0c5e8344f2d2670ff5d9f8b1d4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180930102?s=72&u=caaed13061464caf0ccdc0e7a059cc4619385bf0&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 261,
+    "followers": 2,
+    "privateContributions": 465,
     "publicContributions": 20,
     "createdAt": "2024-09-09T08:03:25Z"
   },
@@ -6440,7 +6440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-06-13T09:49:59Z"
   },
   {
@@ -6450,9 +6450,9 @@
     "location": "Hungary, Debrecen.",
     "company": "Konisoft Indie Game Studio",
     "twitterUsername": "konisoft_hu",
-    "followers": 217,
+    "followers": 210,
     "privateContributions": 0,
-    "publicContributions": 269,
+    "publicContributions": 198,
     "createdAt": "2023-06-19T09:55:44Z"
   },
   {
@@ -6462,9 +6462,9 @@
     "location": "Hungary",
     "company": "John Von Neumann University",
     "twitterUsername": "",
-    "followers": 101,
-    "privateContributions": 49,
-    "publicContributions": 0,
+    "followers": 104,
+    "privateContributions": 41,
+    "publicContributions": 7,
     "createdAt": "2023-03-15T22:33:02Z"
   },
   {
@@ -6474,9 +6474,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 89,
-    "privateContributions": 834,
-    "publicContributions": 952,
+    "followers": 83,
+    "privateContributions": 901,
+    "publicContributions": 1008,
     "createdAt": "2023-11-09T15:42:36Z"
   },
   {
@@ -6486,9 +6486,9 @@
     "location": "Hungary, Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 68,
-    "publicContributions": 453,
+    "followers": 32,
+    "privateContributions": 56,
+    "publicContributions": 416,
     "createdAt": "2023-03-21T20:08:41Z"
   },
   {
@@ -6498,9 +6498,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 127,
-    "publicContributions": 528,
+    "followers": 35,
+    "privateContributions": 78,
+    "publicContributions": 565,
     "createdAt": "2023-12-09T16:24:10Z"
   },
   {
@@ -6522,7 +6522,7 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2023-02-02T18:02:24Z"

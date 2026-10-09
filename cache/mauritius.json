@@ -6619,7 +6619,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1893,
+    "privateContributions": 2557,
     "publicContributions": 0,
     "createdAt": "2015-01-07T06:40:21Z"
   },
@@ -6630,7 +6630,7 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-22T12:13:18Z"
@@ -6643,8 +6643,8 @@
     "company": "",
     "twitterUsername": "vish_seen",
     "followers": 14,
-    "privateContributions": 442,
-    "publicContributions": 471,
+    "privateContributions": 338,
+    "publicContributions": 527,
     "createdAt": "2015-07-22T14:00:11Z"
   },
   {
@@ -6654,7 +6654,7 @@
     "location": "Mauritius",
     "company": "Proximity BBDO",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-13T06:36:53Z"
@@ -6668,7 +6668,7 @@
     "twitterUsername": "n_hishaam",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2015-09-03T17:01:41Z"
   },
   {
@@ -6720,18 +6720,6 @@
     "createdAt": "2015-05-08T17:03:54Z"
   },
   {
-    "login": "emmanuel-io",
-    "name": "emmanuel io",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15624205?s=72&u=d3b8d98bd8a81568931fb1d110729d4c1427d1e6&v=4",
-    "location": "Mauritius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 101,
-    "publicContributions": 0,
-    "createdAt": "2015-11-03T04:45:43Z"
-  },
-  {
     "login": "FrancoisGerber",
     "name": "Francois Gerber",
     "avatarUrl": "https://avatars.githubusercontent.com/u/12399068?s=72&u=d85314ad6c3100a3e4b2d1756d7f3c3f2621d1db&v=4",
@@ -6739,7 +6727,7 @@
     "company": "Ringier SA",
     "twitterUsername": "Francoisantonie",
     "followers": 3,
-    "privateContributions": 56,
+    "privateContributions": 46,
     "publicContributions": 17,
     "createdAt": "2015-05-11T17:56:35Z"
   },
@@ -6788,7 +6776,7 @@
     "twitterUsername": "UtibeAbasiJacob",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 197,
     "createdAt": "2015-05-14T05:44:48Z"
   },
   {
@@ -6811,7 +6799,7 @@
     "company": "Tc Blaize Solutions",
     "twitterUsername": "tcblaize",
     "followers": 2,
-    "privateContributions": 34,
+    "privateContributions": 50,
     "publicContributions": 0,
     "createdAt": "2015-10-08T05:21:45Z"
   },
@@ -6836,7 +6824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 709,
+    "publicContributions": 672,
     "createdAt": "2015-10-10T15:38:43Z"
   },
   {

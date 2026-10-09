@@ -6488,7 +6488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 45,
     "createdAt": "2026-02-16T16:51:57Z"
   },
   {
@@ -6511,7 +6511,7 @@
     "company": "@Vendaxis",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 938,
+    "privateContributions": 1044,
     "publicContributions": 1,
     "createdAt": "2026-02-23T06:50:44Z"
   },
@@ -6584,7 +6584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2026-04-29T12:36:50Z"
   },
   {
@@ -6594,21 +6594,21 @@
     "location": "Karachi, Pakistan",
     "company": "Virtual University Of Pakistan",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 198,
     "createdAt": "2026-05-01T15:08:52Z"
   },
   {
     "login": "realahmad07",
     "name": "Ahmad Hassan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/275752021?s=72&u=12e0e14a0972a383daeef0371fb1ce00b87c14a8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/275752021?s=72&u=0e41eaa90d1d7d492aa089cd657a463816759c6a&v=4",
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 105,
+    "followers": 20,
+    "privateContributions": 5,
+    "publicContributions": 1483,
     "createdAt": "2026-04-13T15:24:53Z"
   },
   {
@@ -6618,22 +6618,10 @@
     "location": "Sillanwali,Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 69,
     "createdAt": "2026-01-07T14:04:45Z"
-  },
-  {
-    "login": "muhammad00-hub",
-    "name": "Muhammad Aaqib",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/262986496?s=72&u=95e25911674e9fac00a3395100d4013bf67eb856&v=4",
-    "location": "Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2026-02-21T11:21:22Z"
   },
   {
     "login": "shifa-1312",
@@ -6644,7 +6632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 25,
     "createdAt": "2026-03-31T11:21:20Z"
   },
   {
@@ -6690,21 +6678,21 @@
     "location": "karachi, Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 78,
     "createdAt": "2026-04-05T15:35:57Z"
   },
   {
     "login": "dawoodahmed7711",
     "name": "Dawood Ahmed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252744514?s=72&u=6bf94c0b08e8ab21fb4d9872d081063852923179&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/252744514?s=72&u=6f6de944986c21cb480b1cc3066f765252cddcdd&v=4",
     "location": "Bahwalpur , Pakistan",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 71,
     "createdAt": "2026-01-03T13:45:15Z"
   },
   {
@@ -6712,11 +6700,11 @@
     "name": "Adeel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/255076140?s=72&u=58206dc485ab81cd21d6245882c3748bb8727dde&v=4",
     "location": "Pakistan",
-    "company": "",
+    "company": "Deep Cognitive Solutions Pakistan",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 147,
     "createdAt": "2026-01-15T08:14:02Z"
   },
   {
@@ -499354,5 +499342,17 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-05-14T17:00:00Z"
+  },
+  {
+    "login": "humzaaw",
+    "name": "Muhammad Hamza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/90915422?s=72&u=46ff2fff15bd10ffcfb9a386cabe4e47be27b855&v=4",
+    "location": "Lahore, Pakistan",
+    "company": "SharpBuild",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 510,
+    "publicContributions": 0,
+    "createdAt": "2021-09-17T13:49:00Z"
   }
 ]

@@ -6608,7 +6608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2024-08-20T14:53:03Z"
   },
   {
@@ -6632,7 +6632,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 10,
     "createdAt": "2024-12-05T07:08:01Z"
   },
   {
@@ -6654,9 +6654,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 30,
     "createdAt": "2024-07-25T16:09:45Z"
   },
   {
@@ -6728,7 +6728,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 62,
     "createdAt": "2024-09-09T21:04:58Z"
   },
   {
@@ -6742,18 +6742,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-12-15T18:35:39Z"
-  },
-  {
-    "login": "KHOJAH",
-    "name": "Ramez Khojah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160655004?s=72&u=335e161793a3a17e8ff1aa1a24cc8746c70fd8e8&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 216,
-    "publicContributions": 129,
-    "createdAt": "2024-02-20T19:29:26Z"
   },
   {
     "login": "Hadi-Naser",
@@ -6770,13 +6758,13 @@
   {
     "login": "moyrith",
     "name": "Mohamed Younis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170289648?s=72&u=8d0e65526a293458259b27610187062e8c89b3c5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170289648?s=72&u=980e0b22ff73ddb47fe841915c4753660a384c42&v=4",
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "moyrith",
     "followers": 1,
-    "privateContributions": 586,
-    "publicContributions": 36,
+    "privateContributions": 562,
+    "publicContributions": 80,
     "createdAt": "2024-05-20T03:21:27Z"
   },
   {
@@ -6786,9 +6774,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 21,
     "createdAt": "2024-09-06T14:07:12Z"
   },
   {
@@ -6812,7 +6800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-07-19T12:47:45Z"
   },
   {

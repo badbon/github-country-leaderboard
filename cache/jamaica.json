@@ -6608,7 +6608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2019-06-10T23:47:12Z"
   },
   {
@@ -6618,9 +6618,9 @@
     "location": "Kingston, Ontario",
     "company": "Queen's University",
     "twitterUsername": "",
-    "followers": 99,
-    "privateContributions": 108,
-    "publicContributions": 36,
+    "followers": 101,
+    "privateContributions": 107,
+    "publicContributions": 27,
     "createdAt": "2019-10-05T13:24:19Z"
   },
   {
@@ -6630,22 +6630,10 @@
     "location": "Kingston, ON",
     "company": "@tenstorrent",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 805,
-    "publicContributions": 4880,
+    "followers": 32,
+    "privateContributions": 83,
+    "publicContributions": 3926,
     "createdAt": "2019-05-01T15:20:31Z"
-  },
-  {
-    "login": "mananv1791",
-    "name": "Manan Parmar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54072015?s=72&u=ce3058dca8d43cc67883dada7d961b72650061f0&v=4",
-    "location": "Kingston, ON",
-    "company": "Skystis infoTech",
-    "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-08-13T14:35:05Z"
   },
   {
     "login": "jamzad",
@@ -6656,7 +6644,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 78,
     "createdAt": "2019-04-02T15:39:21Z"
   },
   {
@@ -6678,9 +6666,9 @@
     "location": "kingston jamaca",
     "company": "",
     "twitterUsername": "AirpocketRobot",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 745,
+    "publicContributions": 1383,
     "createdAt": "2019-09-12T00:56:23Z"
   },
   {
@@ -6690,7 +6678,7 @@
     "location": "25 Union Street Kingston ON K7L 3N6 Canada",
     "company": "@queensuniversity",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-16T13:40:02Z"
@@ -6739,7 +6727,7 @@
     "company": "Queen's University",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 126,
+    "privateContributions": 143,
     "publicContributions": 17,
     "createdAt": "2019-01-25T00:12:49Z"
   },
@@ -6776,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 4,
-    "publicContributions": 28,
+    "publicContributions": 8,
     "createdAt": "2019-05-28T20:06:47Z"
   },
   {
@@ -6788,7 +6776,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2019-01-11T19:39:08Z"
   },
   {
@@ -6811,7 +6799,7 @@
     "company": "@teslamotors",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 8,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2019-09-30T16:04:32Z"
   },

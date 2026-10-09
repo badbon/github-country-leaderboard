@@ -6608,7 +6608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-04-29T13:41:00Z"
   },
   {
@@ -6680,7 +6680,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 35,
     "createdAt": "2025-02-04T21:07:29Z"
   },
   {
@@ -6716,7 +6716,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 290,
+    "publicContributions": 432,
     "createdAt": "2024-12-29T15:19:13Z"
   },
   {
@@ -6728,20 +6728,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-05-25T12:00:20Z"
-  },
-  {
-    "login": "HOMUNKULUShub",
-    "name": "Amirhossein",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197499261?s=72&u=560ff797f2adc503314f2993604dc3cf3a816c47&v=4",
-    "location": "iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2025-02-02T14:44:26Z"
   },
   {
     "login": "miladshirbarghi",
@@ -6751,7 +6739,7 @@
     "company": "Mehr-e-Pars-ICT ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 312,
     "publicContributions": 8,
     "createdAt": "2025-02-20T19:28:18Z"
   },
@@ -6762,9 +6750,9 @@
     "location": "Iran , Fars , Shiraz",
     "company": "Gotham Bots",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 131,
     "createdAt": "2025-04-20T12:59:24Z"
   },
   {
@@ -6776,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2025-03-18T07:50:36Z"
   },
   {
@@ -6786,7 +6774,7 @@
     "location": "IRAN-TEHRAN",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-04-27T19:03:52Z"

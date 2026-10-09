@@ -6620,7 +6620,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 272,
+    "publicContributions": 255,
     "createdAt": "2025-02-12T05:50:28Z"
   },
   {
@@ -6632,7 +6632,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 201,
+    "publicContributions": 230,
     "createdAt": "2025-05-27T09:07:33Z"
   },
   {
@@ -6643,7 +6643,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1491,
+    "privateContributions": 1493,
     "publicContributions": 5,
     "createdAt": "2025-02-16T09:20:15Z"
   },
@@ -6656,7 +6656,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 23,
     "createdAt": "2025-01-31T03:37:31Z"
   },
   {
@@ -6678,7 +6678,7 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2025-02-10T14:44:38Z"
@@ -6692,7 +6692,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 34,
     "createdAt": "2025-03-02T12:40:55Z"
   },
   {
@@ -6703,8 +6703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 385,
-    "publicContributions": 4,
+    "privateContributions": 356,
+    "publicContributions": 15,
     "createdAt": "2025-01-29T06:17:55Z"
   },
   {
@@ -6727,8 +6727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 64,
-    "publicContributions": 98,
+    "privateContributions": 69,
+    "publicContributions": 74,
     "createdAt": "2025-06-02T13:54:04Z"
   },
   {
@@ -6738,9 +6738,9 @@
     "location": "Cagayan de Oro, Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 176,
+    "publicContributions": 110,
     "createdAt": "2025-01-07T06:20:20Z"
   },
   {
@@ -6750,9 +6750,9 @@
     "location": "Philippines",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 684,
-    "publicContributions": 0,
+    "followers": 5,
+    "privateContributions": 780,
+    "publicContributions": 29,
     "createdAt": "2025-04-08T01:12:56Z"
   },
   {
@@ -6764,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 21,
     "createdAt": "2025-01-10T07:55:17Z"
   },
   {
@@ -6800,7 +6800,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 25,
     "createdAt": "2025-03-01T01:24:40Z"
   },
   {
@@ -6814,18 +6814,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-25T15:36:25Z"
-  },
-  {
-    "login": "zoreladrean",
-    "name": "Zorel Adrean R. Java",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207520323?s=72&u=c5fc3566c571dee5ac5738744a81b19ceb3e3403&v=4",
-    "location": "Philippines",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 69,
-    "publicContributions": 205,
-    "createdAt": "2025-04-14T07:16:12Z"
   },
   {
     "login": "naiyuexe",
@@ -237430,5 +237418,449 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-05-15T14:34:43Z"
+  },
+  {
+    "login": "jasonbunod-oss",
+    "name": "jbligan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292689762?s=72&u=eb149fa920fd87edc35e35cfcecb734159507d3c&v=4",
+    "location": "Mindanao, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 43,
+    "privateContributions": 2890,
+    "publicContributions": 8,
+    "createdAt": "2026-06-11T06:47:43Z"
+  },
+  {
+    "login": "chantracyjames-bot",
+    "name": "tracy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295003760?s=72&u=d882fc58779edfe1b5fe6d8430da0488c74831c7&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 795,
+    "createdAt": "2026-06-19T03:40:58Z"
+  },
+  {
+    "login": "xam-maxelliora",
+    "name": "Xamille Ariola",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296229374?s=72&u=5076001f24d59bcecc3080edec0197f65863f0e4&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T16:34:55Z"
+  },
+  {
+    "login": "Cyber-Lemel",
+    "name": "Mel Joseph Velasco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293604875?s=72&u=d8ac7b33f2f4a2419a2ed48df659aaef8cda2ec5&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 3,
+    "publicContributions": 97,
+    "createdAt": "2026-06-14T14:22:07Z"
+  },
+  {
+    "login": "paupaumendoza171-dotcom",
+    "name": "Paulo Mendoza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292320406?s=72&u=f00e19640becb6fa2396dbdfb2e796b3e973b9df&v=4",
+    "location": "Caloocan City, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-10T04:38:35Z"
+  },
+  {
+    "login": "adolforeoja7-droid",
+    "name": "Adolfo Reoja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295340474?s=72&u=b3e0070a6c65b09e9a36855145b13a9eabb5110e&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 83,
+    "createdAt": "2026-06-20T10:18:48Z"
+  },
+  {
+    "login": "bastyguerrero",
+    "name": "Basty Guerrero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295426445?s=72&v=4",
+    "location": "Navotas, Metro Manila, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-20T18:13:28Z"
+  },
+  {
+    "login": "akiro404",
+    "name": "Chrisvie Ivor Batan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297133691?s=72&u=8a478d635d0d1cfb5c951ea8d6cd03a7d05c0f3f&v=4",
+    "location": "Tacloban City, Leyte, Philippines ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-06-26T10:26:18Z"
+  },
+  {
+    "login": "TerrenceMckeehanIT",
+    "name": "TerrenceMckeehanIT",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294724654?s=72&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-18T06:34:08Z"
+  },
+  {
+    "login": "bydyna",
+    "name": "Dyna",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292055951?s=72&u=5f0536f868b0c6a745418440bab5d483556accc0&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 51,
+    "createdAt": "2026-06-09T09:09:00Z"
+  },
+  {
+    "login": "grsyasndy",
+    "name": "grsya sndy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294997016?s=72&u=e3a9dca441ebabde17040356bd587b8fdc9b6ad4&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-19T02:59:27Z"
+  },
+  {
+    "login": "mieldenise",
+    "name": "MIEL DENISE ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292456221?s=72&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-06-10T13:11:51Z"
+  },
+  {
+    "login": "rodneydelacruz",
+    "name": "Rodney Dela Cruz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293279942?s=72&u=09d4ba664f1442706e5f178da84e6b5e93eb28eb&v=4",
+    "location": "Bayawan City, Philippines",
+    "company": "",
+    "twitterUsername": "yesitsrodney",
+    "followers": 2,
+    "privateContributions": 959,
+    "publicContributions": 384,
+    "createdAt": "2026-06-13T04:22:16Z"
+  },
+  {
+    "login": "Minsu-rain",
+    "name": "Choi 최Min-su 민수",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296235429?s=72&u=1308e82f9274292fda6a4f0b4363972de04b9e96&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T16:56:01Z"
+  },
+  {
+    "login": "WhenObjectsWorks",
+    "name": "OrbitLab Studios",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293298617?s=72&u=72138f5f8c183a3f4472bc0d7c6aa27993b6c76b&v=4",
+    "location": "Philippines",
+    "company": "OrbitLab Studios",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2026-06-13T06:25:00Z"
+  },
+  {
+    "login": "aleksisong-ax",
+    "name": "Aleksis A. Ong",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295709889?s=72&u=442bc26e449cd4a7384315d0eaa1ff61665ebd8e&v=4",
+    "location": "Cavite, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-22T02:19:41Z"
+  },
+  {
+    "login": "elzayn11",
+    "name": "NJ zayn",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291660517?s=72&u=062928c966c8ec8a12a3c07a769c59af73be073f&v=4",
+    "location": "philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-08T03:18:25Z"
+  },
+  {
+    "login": "britosjohnash",
+    "name": "John Ashley Britos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291759647?s=72&u=8899389ff5fec4cdee6310eabc516e043c8939c6&v=4",
+    "location": "Pangasinan, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-08T11:10:48Z"
+  },
+  {
+    "login": "RomeoSeva",
+    "name": "Romeo Seva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294361634?s=72&u=c238e24ddde883378bc1fcd14c93b498fb2a8fa3&v=4",
+    "location": "Philippines",
+    "company": "Axiapac Ptd Ltd",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T02:36:23Z"
+  },
+  {
+    "login": "hikkii888",
+    "name": "Jeff",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293005805?s=72&u=16bab16f2e4758f4aee4ab3964561a1a02d26127&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 104,
+    "publicContributions": 58,
+    "createdAt": "2026-06-12T06:17:35Z"
+  },
+  {
+    "login": "plangkypalana-stack",
+    "name": "Kenneth Justine ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295691544?s=72&v=4",
+    "location": "Philippines",
+    "company": "Dream Commerce ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-22T00:02:31Z"
+  },
+  {
+    "login": "mike-qnx",
+    "name": "Michael Xavier Canonizado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291685538?s=72&v=4",
+    "location": "Makati, Philippines",
+    "company": "Questronix",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-08T05:40:34Z"
+  },
+  {
+    "login": "dav-voidd",
+    "name": "dabid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293522862?s=72&u=fff11d491db441a1a66bc85af78e10c08c7aad9c&v=4",
+    "location": "Escalante City, Philippines.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 77,
+    "createdAt": "2026-06-14T06:37:01Z"
+  },
+  {
+    "login": "daryllpagtananan61926",
+    "name": "Daryll Pagtananan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295049344?s=72&u=e9c01ec7187569af0ed755e70d9170bf8003c4f3&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-06-19T07:35:47Z"
+  },
+  {
+    "login": "juneryguape19-blip",
+    "name": "svproteam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294971944?s=72&v=4",
+    "location": "Ormoc, leyte , visayas region, philippines",
+    "company": "Beta supporter",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-19T00:12:43Z"
+  },
+  {
+    "login": "angeloz8enriquez",
+    "name": "Jing",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291406320?s=72&u=d9583f5ce86844b4c22364712edb3bb834fad481&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-07T00:01:37Z"
+  },
+  {
+    "login": "angelicamgr",
+    "name": "Lil Rabbit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292967591?s=72&u=37553c1a509f5021e22ddd7201aba72ddf162f45&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2026-06-12T02:51:10Z"
+  },
+  {
+    "login": "Patrickb47590",
+    "name": "Esther Granados",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293620217?s=72&v=4",
+    "location": "Huyện JaneThành phố, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-06-14T15:37:00Z"
+  },
+  {
+    "login": "Archklein",
+    "name": "Archklein",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294027574?s=72&u=37b4cb042c76a2c66a9de6e7c63a7d425baebd5b&v=4",
+    "location": "Davao City, Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-06-16T01:58:54Z"
+  },
+  {
+    "login": "markappscript-markss",
+    "name": "Mark",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296313953?s=72&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 527,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T22:35:34Z"
+  },
+  {
+    "login": "sengokku67",
+    "name": "YURI TORRES",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294283775?s=72&u=24140233b002b46f9bcd5376710018441e5a07e9&v=4",
+    "location": "Makati, Philippines",
+    "company": "Student",
+    "twitterUsername": "sengokku67",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-16T18:42:57Z"
+  },
+  {
+    "login": "ferdiebaltazar2",
+    "name": "Ferdie baltazar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292860829?s=72&v=4",
+    "location": "Philippines",
+    "company": "N/a",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-11T17:01:12Z"
+  },
+  {
+    "login": "deynQnx",
+    "name": "Deanne Clarice Bea",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291686200?s=72&v=4",
+    "location": "Makati, Philippines",
+    "company": "Questronix Corporation",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-08T05:43:39Z"
+  },
+  {
+    "login": "jirumil",
+    "name": "Jeanjer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292645678?s=72&u=96266a6aad4cde72be2567a2550337ebb9f542ac&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-06-11T03:09:14Z"
+  },
+  {
+    "login": "CarlAndreiMap",
+    "name": "Carl",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296413560?s=72&u=008dfac9c8af62fe12ff0b05b8f01f2a5b25a4b0&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 33,
+    "createdAt": "2026-06-24T07:28:28Z"
+  },
+  {
+    "login": "kimcarlmc",
+    "name": "Kim Carl Macapayad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290934917?s=72&u=6f071919515047e7d58fa8d691348d8723d342b6&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 131,
+    "createdAt": "2026-06-05T05:25:10Z"
+  },
+  {
+    "login": "marisombra-dev",
+    "name": "Marisombra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/210899358?s=72&u=5322bcfd5396069dfcdb4e910d4b5a6ab603ca8e&v=4",
+    "location": "Philippines",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 1103,
+    "publicContributions": 213,
+    "createdAt": "2025-05-08T17:41:50Z"
   }
 ]

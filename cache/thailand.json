@@ -6608,7 +6608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2025-03-04T20:12:43Z"
   },
   {
@@ -6644,7 +6644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 144,
     "createdAt": "2025-10-29T02:05:36Z"
   },
   {
@@ -6668,7 +6668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 57,
     "createdAt": "2025-08-01T17:59:10Z"
   },
   {
@@ -6680,32 +6680,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 17,
     "createdAt": "2025-06-07T06:44:30Z"
-  },
-  {
-    "login": "aungmmyat111-debug",
-    "name": "AUNG MYINT MYAT",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231920695?s=72&u=48edd2633675091017c8c4bd2b86dca7c4009686&v=4",
-    "location": "Bangkok/Thailand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 52,
-    "createdAt": "2025-09-12T14:53:47Z"
-  },
-  {
-    "login": "MaybeNotTheSomeoneYK",
-    "name": "known_a",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217352882?s=72&u=8b2bb7c9a82a90a798d400b92c454a80b40ac584&v=4",
-    "location": "Thailand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 190,
-    "createdAt": "2025-06-21T14:33:32Z"
   },
   {
     "login": "kawisarafordev",
@@ -6728,7 +6704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 39,
     "createdAt": "2025-07-11T10:30:21Z"
   },
   {
@@ -6740,7 +6716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 118,
     "createdAt": "2025-06-24T06:52:19Z"
   },
   {
@@ -6752,7 +6728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 351,
+    "publicContributions": 338,
     "createdAt": "2025-05-10T07:37:22Z"
   },
   {
@@ -6764,7 +6740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 133,
     "createdAt": "2025-08-28T06:40:14Z"
   },
   {
@@ -6786,9 +6762,9 @@
     "location": "Bangkok, Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 99,
     "createdAt": "2025-02-25T16:21:24Z"
   },
   {

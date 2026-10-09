@@ -6679,8 +6679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 77,
-    "publicContributions": 3,
+    "privateContributions": 43,
+    "publicContributions": 0,
     "createdAt": "2021-10-30T12:59:56Z"
   },
   {
@@ -6714,7 +6714,7 @@
     "location": "Moçambique, Maputo",
     "company": "Projenity",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-08T10:44:35Z"
@@ -6752,7 +6752,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2021-05-05T15:58:32Z"
   },
   {
@@ -6786,9 +6786,9 @@
     "location": "Maputo",
     "company": "Nedbank Mozambique",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 393,
-    "publicContributions": 11,
+    "followers": 8,
+    "privateContributions": 504,
+    "publicContributions": 14,
     "createdAt": "2021-02-01T12:09:51Z"
   },
   {
@@ -6812,7 +6812,7 @@
     "twitterUsername": "abelrosac",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 80,
     "createdAt": "2021-03-18T01:01:39Z"
   },
   {
@@ -6882,9 +6882,9 @@
     "location": "Maputo ",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-11-02T15:29:06Z"
   },
   {
@@ -6892,11 +6892,11 @@
     "name": "Nishank Bansal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/80453652?s=72&v=4",
     "location": "Maputo",
-    "company": "",
+    "company": "Angu Comercial Lda",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 43,
-    "publicContributions": 477,
+    "followers": 6,
+    "privateContributions": 78,
+    "publicContributions": 382,
     "createdAt": "2021-03-11T09:14:53Z"
   },
   {

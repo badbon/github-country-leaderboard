@@ -6728,7 +6728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 21,
     "createdAt": "2021-11-04T09:43:44Z"
   },
   {
@@ -6788,7 +6788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-04-01T10:57:49Z"
   },
   {
@@ -6842,13 +6842,13 @@
   {
     "login": "MonikaJov",
     "name": "Monika Jovevska",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86190069?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86190069?s=72&u=bdf70f8c1b1fa22e5abd332acd7a3fa90cdca150&v=4",
     "location": "Skopje, North Macedonia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 737,
-    "publicContributions": 98,
+    "privateContributions": 835,
+    "publicContributions": 92,
     "createdAt": "2021-06-20T11:38:43Z"
   },
   {
@@ -6894,8 +6894,8 @@
     "location": "Skopje",
     "company": "Sentice Tech",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 0,
+    "followers": 14,
+    "privateContributions": 8,
     "publicContributions": 24,
     "createdAt": "2021-10-26T07:49:23Z"
   },
@@ -6908,7 +6908,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 41,
     "createdAt": "2021-10-29T10:58:35Z"
   },
   {
@@ -6916,11 +6916,11 @@
     "name": "Nikola Stojkovski",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92634082?s=72&u=7d8e297cb08ef68cfa317f8d3f5f9b16460daa06&v=4",
     "location": "Skopje",
-    "company": "",
+    "company": "ДСУ Математичко-информатичка гимназија",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 291,
-    "publicContributions": 56,
+    "followers": 16,
+    "privateContributions": 263,
+    "publicContributions": 57,
     "createdAt": "2021-10-16T12:49:24Z"
   },
   {
@@ -6942,9 +6942,9 @@
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 6,
     "createdAt": "2021-07-14T16:28:47Z"
   },
   {

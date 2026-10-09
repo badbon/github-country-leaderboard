@@ -6595,8 +6595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 121,
+    "privateContributions": 3,
+    "publicContributions": 169,
     "createdAt": "2020-08-13T18:13:53Z"
   },
   {
@@ -6619,8 +6619,8 @@
     "company": "Alpha Astrum",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 25,
+    "privateContributions": 0,
+    "publicContributions": 12,
     "createdAt": "2020-01-27T21:08:42Z"
   },
   {
@@ -6632,7 +6632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 44,
+    "publicContributions": 45,
     "createdAt": "2020-05-24T15:25:18Z"
   },
   {
@@ -6678,9 +6678,9 @@
     "location": "Puerto Rico ",
     "company": "@Github",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 155,
-    "publicContributions": 9,
+    "followers": 2,
+    "privateContributions": 1187,
+    "publicContributions": 23,
     "createdAt": "2020-11-09T03:26:14Z"
   },
   {
@@ -6690,8 +6690,8 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 38,
+    "followers": 2,
+    "privateContributions": 9,
     "publicContributions": 3,
     "createdAt": "2020-01-21T18:28:54Z"
   },
@@ -6733,14 +6733,14 @@
   },
   {
     "login": "DonEmilios",
-    "name": "Emilioos",
+    "name": "Emilio Calderón ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63455316?s=72&u=3c5fa8173dd3723d180a1e3de4fa9ffd8a20f520&v=4",
     "location": "Puerto Rico",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "donemilioos",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 66,
     "createdAt": "2020-04-10T12:01:50Z"
   },
   {
@@ -6787,8 +6787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 588,
-    "publicContributions": 4,
+    "privateContributions": 562,
+    "publicContributions": 5,
     "createdAt": "2020-02-04T13:29:54Z"
   },
   {
@@ -18466,5 +18466,41 @@
     "privateContributions": 0,
     "publicContributions": 297,
     "createdAt": "2015-12-06T17:14:40Z"
+  },
+  {
+    "login": "DavidBratslavsky",
+    "name": "David Bratslavsky",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290594421?s=72&v=4",
+    "location": "Domain Republic, Puerto Rico",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-04T04:11:37Z"
+  },
+  {
+    "login": "mcypb24w9k-crypto",
+    "name": "100%",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294957472?s=72&u=a7a5dcb7e840925a236585a531b7bed03a601cdd&v=4",
+    "location": "Puerto Rico",
+    "company": "Surreallifetv ",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-06-18T22:28:38Z"
+  },
+  {
+    "login": "lumavi-pr",
+    "name": "LUMAVI PR",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291164449?s=72&u=0ba1291d4356c4ee1456bbedce1128e2c2b7d096&v=4",
+    "location": "Puerto Rico",
+    "company": "lumavi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-06-05T22:19:38Z"
   }
 ]

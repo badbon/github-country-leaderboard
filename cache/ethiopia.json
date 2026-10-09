@@ -6654,9 +6654,9 @@
     "location": "Addis Ababa ,Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 30,
     "createdAt": "2025-10-31T19:30:33Z"
   },
   {
@@ -6667,8 +6667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 10,
+    "publicContributions": 4,
     "createdAt": "2025-05-20T12:12:41Z"
   },
   {
@@ -6692,7 +6692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2025-08-14T13:40:02Z"
   },
   {
@@ -6704,7 +6704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 14,
-    "publicContributions": 413,
+    "publicContributions": 411,
     "createdAt": "2025-08-18T10:21:32Z"
   },
   {
@@ -6727,7 +6727,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 137,
+    "privateContributions": 333,
     "publicContributions": 346,
     "createdAt": "2025-10-18T17:34:52Z"
   },
@@ -6764,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 32,
     "createdAt": "2025-05-11T06:49:51Z"
   },
   {
@@ -6786,9 +6786,9 @@
     "location": "Ethiopia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-28T18:59:01Z"
   },
   {
@@ -6812,7 +6812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 129,
     "createdAt": "2025-10-28T19:29:23Z"
   },
   {
@@ -80566,5 +80566,17 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-06-25T07:36:53Z"
+  },
+  {
+    "login": "mhashi146",
+    "name": "Mohamed Hashi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118336698?s=72&u=0c2fdbf35ab41c1de51dddd57e4fccddb2dfd9c9&v=4",
+    "location": "Ethiopia",
+    "company": "Mhashi",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2022-11-16T06:36:23Z"
   }
 ]

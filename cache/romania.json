@@ -6589,14 +6589,14 @@
   },
   {
     "login": "CalinGraphics",
-    "name": "Calin Stefan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170947176?s=72&u=3dab3cf0d5c86b41b98d827e959c89082fa9f1bd&v=4",
+    "name": "Calin Miertescu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170947176?s=72&u=da51cc1f01c9d25ab42e68079322820d4a5aead2&v=4",
     "location": "Bucharest, Romania",
     "company": "Superliga Romania",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 481,
+    "publicContributions": 539,
     "createdAt": "2024-05-27T12:33:21Z"
   },
   {
@@ -6607,7 +6607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 111,
+    "privateContributions": 109,
     "publicContributions": 7,
     "createdAt": "2024-05-24T15:49:42Z"
   },
@@ -6631,8 +6631,8 @@
     "company": "Universitatea Politehnica Timisoara",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 22,
-    "publicContributions": 11,
+    "privateContributions": 15,
+    "publicContributions": 4,
     "createdAt": "2024-10-11T05:53:46Z"
   },
   {
@@ -6644,20 +6644,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 8,
-    "publicContributions": 86,
+    "publicContributions": 95,
     "createdAt": "2024-08-19T20:28:45Z"
-  },
-  {
-    "login": "fabiancrt",
-    "name": "Fabian C.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156585059?s=72&u=7862ebc2694de0eba2b04e692f52dbd3620ab2da&v=4",
-    "location": "Iași, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 61,
-    "publicContributions": 23,
-    "createdAt": "2024-01-14T12:32:32Z"
   },
   {
     "login": "sksksk2024",
@@ -6668,7 +6656,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 87,
     "createdAt": "2024-01-20T12:11:27Z"
   },
   {
@@ -6692,7 +6680,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-03-10T18:21:15Z"
   },
   {
@@ -6703,8 +6691,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 559,
-    "publicContributions": 11,
+    "privateContributions": 653,
+    "publicContributions": 34,
     "createdAt": "2024-03-21T12:22:38Z"
   },
   {
@@ -6716,7 +6704,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 119,
     "createdAt": "2024-04-18T22:07:05Z"
   },
   {
@@ -6727,8 +6715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 265,
+    "privateContributions": 4,
+    "publicContributions": 266,
     "createdAt": "2024-10-02T11:22:52Z"
   },
   {
@@ -6740,19 +6728,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 53,
     "createdAt": "2024-04-12T18:44:12Z"
   },
   {
     "login": "SDEdward",
-    "name": "Edward",
+    "name": "chezeburgr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169857389?s=72&u=ed51e12d7a511adfad59820c2d64a0ece315a3ba&v=4",
     "location": "Bucharest, Romania",
     "company": "myself",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 104,
     "createdAt": "2024-05-14T23:31:55Z"
   },
   {
@@ -6762,8 +6750,8 @@
     "location": "Brașov, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 906,
+    "followers": 4,
+    "privateContributions": 2190,
     "publicContributions": 173,
     "createdAt": "2024-10-03T12:45:27Z"
   },
@@ -6788,7 +6776,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 140,
     "createdAt": "2024-02-26T10:07:00Z"
   },
   {
@@ -6800,7 +6788,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 20,
     "createdAt": "2024-09-08T12:46:46Z"
   },
   {
@@ -6822,9 +6810,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 136,
     "createdAt": "2024-12-14T15:03:47Z"
   },
   {
@@ -179866,5 +179854,65 @@
     "privateContributions": 86,
     "publicContributions": 835,
     "createdAt": "2021-10-12T21:57:56Z"
+  },
+  {
+    "login": "TOPDEV99999",
+    "name": "OmniAgent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296813120?s=72&u=aca7a7063578debb90196946e950deaa92b485b1&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1697,
+    "privateContributions": 95,
+    "publicContributions": 78,
+    "createdAt": "2026-06-25T08:27:33Z"
+  },
+  {
+    "login": "theodor-ubp",
+    "name": "Theo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294870317?s=72&u=32a2e8de73f68f530df5cb19d13487af2d68de87&v=4",
+    "location": "Bucharest, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 33,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2026-06-18T15:48:21Z"
+  },
+  {
+    "login": "cosminchirita",
+    "name": "Cosmin Chiriță",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295379013?s=72&u=6eb035d914a632efc6597e3ce9334b1999312fc8&v=4",
+    "location": "Bucharest, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 58,
+    "createdAt": "2026-06-20T13:50:57Z"
+  },
+  {
+    "login": "aluxmanu-dev",
+    "name": "Alex Manu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292671503?s=72&u=5b08353ded36ef63e6eea3e04c4514635b4c91fb&v=4",
+    "location": "Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-11T05:28:05Z"
+  },
+  {
+    "login": "azsgherla",
+    "name": "Biserica Adventistă Gherla",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293189022?s=72&u=bd7115d94ca20c7c894ed013d39f3fa6539b2217&v=4",
+    "location": "Gherla, Romania",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-12T18:23:50Z"
   }
 ]

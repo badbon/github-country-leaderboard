@@ -6572,7 +6572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 99,
+    "publicContributions": 10,
     "createdAt": "2025-03-04T05:33:27Z"
   },
   {
@@ -6590,13 +6590,13 @@
   {
     "login": "ricardojaamorim",
     "name": "Ricardo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194828037?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194828037?s=72&u=a2b8d80e77061c144684bbbb94f3904b84145fab&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
+    "privateContributions": 20,
+    "publicContributions": 30,
     "createdAt": "2025-01-13T17:17:38Z"
   },
   {
@@ -6607,7 +6607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 121,
+    "privateContributions": 130,
     "publicContributions": 56,
     "createdAt": "2025-02-06T10:05:54Z"
   },
@@ -6618,22 +6618,10 @@
     "location": "Porto, Portugal",
     "company": "@mindera",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 656,
+    "followers": 2,
+    "privateContributions": 674,
     "publicContributions": 16,
     "createdAt": "2025-04-22T15:12:09Z"
-  },
-  {
-    "login": "marisombra-dev",
-    "name": "Marisombra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210899358?s=72&u=4f9db32718a32fa2929cdb010d3b8cbb195f36b1&v=4",
-    "location": "Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 55,
-    "publicContributions": 159,
-    "createdAt": "2025-05-08T17:41:50Z"
   },
   {
     "login": "Saghir-amin",
@@ -6650,13 +6638,13 @@
   {
     "login": "rodri5430",
     "name": "Rodrigo Gonçalves",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206734411?s=72&u=e9b543a4da1f4b81dca774a639774f52edc54e09&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/206734411?s=72&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 140,
     "createdAt": "2025-04-08T15:24:24Z"
   },
   {
@@ -6668,7 +6656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 97,
     "createdAt": "2025-10-08T21:11:37Z"
   },
   {
@@ -6696,18 +6684,6 @@
     "createdAt": "2025-12-18T14:01:02Z"
   },
   {
-    "login": "cortamatos",
-    "name": "André Matos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249184260?s=72&v=4",
-    "location": "Lisbon, Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-11T22:27:43Z"
-  },
-  {
     "login": "tiago-ribeiro19",
     "name": "Tiago Ribeiro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/218362810?s=72&u=964859f041f69498cc1131323f6d9ead8df8c1c5&v=4",
@@ -6728,7 +6704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 70,
     "createdAt": "2025-08-19T23:45:16Z"
   },
   {
@@ -6740,7 +6716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-10-06T22:00:19Z"
   },
   {
@@ -6752,7 +6728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 62,
     "createdAt": "2025-02-01T08:57:40Z"
   },
   {
@@ -6764,7 +6740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-27T22:20:40Z"
   },
   {
@@ -6776,7 +6752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 79,
     "createdAt": "2025-06-10T13:46:34Z"
   },
   {
@@ -6787,8 +6763,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 72,
+    "privateContributions": 4,
+    "publicContributions": 71,
     "createdAt": "2025-09-19T07:13:15Z"
   },
   {
@@ -6798,8 +6774,8 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 7,
+    "followers": 2,
+    "privateContributions": 6,
     "publicContributions": 1,
     "createdAt": "2025-05-19T10:49:33Z"
   },

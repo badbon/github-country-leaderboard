@@ -6271,8 +6271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 281,
-    "publicContributions": 7,
+    "privateContributions": 200,
+    "publicContributions": 14,
     "createdAt": "2024-01-16T15:32:15Z"
   },
   {
@@ -6319,8 +6319,8 @@
     "company": "Canonical ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6,
-    "publicContributions": 56,
+    "privateContributions": 10,
+    "publicContributions": 44,
     "createdAt": "2024-03-26T17:34:33Z"
   },
   {
@@ -6344,7 +6344,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 103,
     "createdAt": "2024-05-29T23:10:55Z"
   },
   {
@@ -6384,18 +6384,6 @@
     "createdAt": "2024-06-20T19:08:13Z"
   },
   {
-    "login": "barun-bash",
-    "name": "Barun Bashyal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186042624?s=72&u=73ac9cebef4f2c00be0fc5666bd34e08c3ecbbaf&v=4",
-    "location": "Finland",
-    "company": "Resimator Oy",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 762,
-    "publicContributions": 202,
-    "createdAt": "2024-10-23T11:49:46Z"
-  },
-  {
     "login": "Roxana-Riri",
     "name": "Riri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185638613?s=72&u=6b9bcf9170db67ead35c4efed3b9b66002704eaa&v=4",
@@ -6415,8 +6403,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2040,
-    "publicContributions": 73,
+    "privateContributions": 9489,
+    "publicContributions": 96,
     "createdAt": "2024-01-18T22:12:01Z"
   },
   {
@@ -6428,7 +6416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 47,
     "createdAt": "2024-01-14T11:48:27Z"
   },
   {
@@ -6440,7 +6428,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 34,
     "createdAt": "2024-03-31T11:12:24Z"
   },
   {
@@ -6475,8 +6463,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 149,
-    "publicContributions": 123,
+    "privateContributions": 141,
+    "publicContributions": 137,
     "createdAt": "2024-02-13T12:25:21Z"
   },
   {
@@ -6486,9 +6474,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 3,
-    "publicContributions": 109,
+    "publicContributions": 164,
     "createdAt": "2024-08-19T08:12:56Z"
   },
   {
@@ -6500,7 +6488,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 203,
     "createdAt": "2024-08-29T10:58:56Z"
   },
   {
