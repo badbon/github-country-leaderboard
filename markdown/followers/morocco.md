@@ -1,8 +1,8 @@
 # Followers - Morocco
 
-Generated: 2026-10-09T07:19:20.268Z
+Generated: 2026-10-09T08:05:10.625Z
 
-Users: 9680
+Users: 9679
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

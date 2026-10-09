@@ -1,8 +1,8 @@
 # Public Contributions - New Zealand
 
-Generated: 2026-10-09T07:22:29.947Z
+Generated: 2026-10-09T08:12:27.350Z
 
-Users: 12159
+Users: 12158
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 12159
 | 17 | [jet-pang](https://github.com/jet-pang) | Jet Pang |  |  | New Zealand | 5177 |
 | 18 | [jajera](https://github.com/jajera) | John Ajera | Earth Sciences New Zealand |  | Wellington | 4603 |
 | 19 | [gizmoguy](https://github.com/gizmoguy) | Brad Cowie |  | nzgizmoguy | New Zealand | 4601 |
-| 20 | [jesserockz](https://github.com/jesserockz) | Jesse Hills | @OpenHomeFoundation   |  | Wellington, New Zealand | 4472 |
+| 20 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson |  |  | Cambridge, New Zealand | 4546 |

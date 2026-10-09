@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-09T07:22:33.060Z
+Generated: 2026-10-09T08:06:27.092Z
 
 Users: 1401
 
@@ -20,8 +20,8 @@ Users: 1401
 | 12 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Sosafe | soyjimmysaenz | Managua, Nicaragua | 91 |
 | 13 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez |  |  | Managua, Nicaragua | 79 |
 | 14 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar |  |  | Nicaragua | 78 |
-| 15 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Freelance |  | Estelí, Nicaragua | 77 |
-| 16 | [JezerM](https://github.com/JezerM) | Jezer Mejía |  |  | Nicaragua | 77 |
+| 15 | [JezerM](https://github.com/JezerM) | Jezer Mejía |  |  | Nicaragua | 78 |
+| 16 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Freelance |  | Estelí, Nicaragua | 77 |
 | 17 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza |  | 14BryanEspinoza | Nicaragua | 73 |
 | 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 70 |
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia |  | luismejiadev | Managua, Nicaragua | 68 |

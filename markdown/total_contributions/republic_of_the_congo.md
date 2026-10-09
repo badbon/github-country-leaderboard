@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-09T07:25:34.792Z
+Generated: 2026-10-09T08:09:43.356Z
 
 Users: 299
 
@@ -20,9 +20,9 @@ Users: 299
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2386 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2307 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2131 |
-| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 1955 |
+| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 1993 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1682 |
-| 18 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1317 |
-| 19 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | NOVATECH |  | Brazzaville | 1302 |
-| 20 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 1301 |
+| 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 1325 |
+| 19 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1317 |
+| 20 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | NOVATECH |  | Brazzaville | 1302 |

@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-09T07:17:56.580Z
+Generated: 2026-10-09T08:04:53.124Z
 
 Users: 1759
 
@@ -23,6 +23,6 @@ Users: 1759
 | 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
 | 16 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
 | 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
-| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
-| 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1069 |
-| 20 | [MihaiCulbida](https://github.com/MihaiCulbida) | Michael |  |  | Moldova | 1046 |
+| 18 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 1177 |
+| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
+| 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1069 |

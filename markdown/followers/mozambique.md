@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-09T07:19:53.460Z
+Generated: 2026-10-09T08:05:15.228Z
 
 Users: 1176
 
@@ -8,7 +8,7 @@ Users: 1176
 |---:|---|---|---|---|---|---:|
 | 1 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 450 |
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 319 |
-| 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | FastTeam | edgarfeliciano | Mozambique | 304 |
+| 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | FastTeam | edgarfeliciano | Mozambique | 300 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Explicador Inc, LDA. |  | Maputo, Mozambique | 277 |
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior |  | GabrielMJ_2005 | Maputo/Mozambique  | 228 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 203 |

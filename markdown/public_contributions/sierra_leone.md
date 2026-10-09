@@ -1,17 +1,17 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-09T07:27:49.656Z
+Generated: 2026-10-09T08:13:37.137Z
 
 Users: 442
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2119 |
+| 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2115 |
 | 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 1969 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 1314 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 1027 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk |  |  | Regent, Freetown, Sierra Leone. | 978 |
-| 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 953 |
+| 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 944 |
 | 7 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 830 |
 | 8 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Johnny-Tech  |  | Freetown Sierra Leone  | 769 |
 | 9 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | @christex-foundation  |  | Freetown,Sierra Leone | 763 |

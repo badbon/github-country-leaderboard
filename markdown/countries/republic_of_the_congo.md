@@ -26,12 +26,12 @@ Indexed users: 299
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,386 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,307 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,131 |
-| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,955 |
+| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,993 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,682 |
-| 18 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,317 |
-| 19 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,302 |
-| 20 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,301 |
+| 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,325 |
+| 19 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,317 |
+| 20 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,302 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-09T07:25:34.792Z
+Generated: 2026-10-09T08:09:43.356Z

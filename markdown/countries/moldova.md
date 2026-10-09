@@ -29,9 +29,9 @@ Indexed users: 1,759
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 4,454 |
 | 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,260 |
 | 17 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | Chisinau, Moldova | 4,091 |
-| 18 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,085 |
-| 19 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
-| 20 | [raidum](https://github.com/raidum) | Dumitru Railean | Moldova | 3,826 |
+| 18 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | Chisinau, Moldova | 4,084 |
+| 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 4,079 |
+| 20 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 3,899 |
 
 ## Public Contributions
 
@@ -54,9 +54,9 @@ Indexed users: 1,759
 | 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
 | 16 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor | Moldova | 1,201 |
 | 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
-| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
-| 19 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,069 |
-| 20 | [MihaiCulbida](https://github.com/MihaiCulbida) | Michael | Moldova | 1,046 |
+| 18 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 1,177 |
+| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,147 |
+| 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,069 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,759
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
 
-Generated: 2026-10-09T07:17:56.580Z
+Generated: 2026-10-09T08:04:53.124Z

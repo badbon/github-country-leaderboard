@@ -1,6 +1,6 @@
 # New Zealand
 
-Indexed users: 12,159
+Indexed users: 12,158
 
 | Leaderboard | Link |
 |---|---|
@@ -15,11 +15,11 @@ Indexed users: 12,159
 | 1 | [rikkigouda](https://github.com/rikkigouda) | Rikki | Aotearoa | 82,632 |
 | 2 | [ryanbr](https://github.com/ryanbr) | Fanboynz | New Zealand | 53,373 |
 | 3 | [mitch-john](https://github.com/mitch-john) |  | New Zealand | 28,645 |
-| 4 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 23,496 |
-| 5 | [dreamineering](https://github.com/dreamineering) | howzus | New Zealand | 19,987 |
-| 6 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 19,954 |
-| 7 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Wellington, New Zealand | 16,399 |
-| 8 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson | Cambridge, New Zealand | 16,321 |
+| 4 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson | Cambridge, New Zealand | 24,210 |
+| 5 | [DTACat](https://github.com/DTACat) | Cat | New Zealand | 23,496 |
+| 6 | [dreamineering](https://github.com/dreamineering) | howzus | New Zealand | 19,987 |
+| 7 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 19,954 |
+| 8 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Wellington, New Zealand | 16,399 |
 | 9 | [JavaGT](https://github.com/JavaGT) | JavaGT | New Zealand | 16,172 |
 | 10 | [abnegate](https://github.com/abnegate) | Jake Barnby | Tauranga, New Zealand | 13,796 |
 | 11 | [nz365guy](https://github.com/nz365guy) | Mark Smith | New Zealand | 12,968 |
@@ -56,7 +56,7 @@ Indexed users: 12,159
 | 17 | [jet-pang](https://github.com/jet-pang) | Jet Pang | New Zealand | 5,177 |
 | 18 | [jajera](https://github.com/jajera) | John Ajera | Wellington | 4,603 |
 | 19 | [gizmoguy](https://github.com/gizmoguy) | Brad Cowie | New Zealand | 4,601 |
-| 20 | [jesserockz](https://github.com/jesserockz) | Jesse Hills | Wellington, New Zealand | 4,472 |
+| 20 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson | Cambridge, New Zealand | 4,546 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 12,159
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-09T07:22:29.947Z
+Generated: 2026-10-09T08:12:27.350Z

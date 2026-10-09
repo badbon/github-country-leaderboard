@@ -28,10 +28,10 @@ Indexed users: 1,401
 | 14 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 3,606 |
 | 15 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,460 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,407 |
-| 17 | [juliosolis](https://github.com/juliosolis) | Julio Solis | Nicaragua | 3,141 |
-| 18 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Nicaragua | 3,137 |
-| 19 | [Snowsita](https://github.com/Snowsita) | Enmanuel Antonio Torres Saenz | Nicaragua | 3,018 |
-| 20 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 2,954 |
+| 17 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,263 |
+| 18 | [juliosolis](https://github.com/juliosolis) | Julio Solis | Nicaragua | 3,141 |
+| 19 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Nicaragua | 3,137 |
+| 20 | [Snowsita](https://github.com/Snowsita) | Enmanuel Antonio Torres Saenz | Nicaragua | 3,018 |
 
 ## Public Contributions
 
@@ -76,11 +76,11 @@ Indexed users: 1,401
 | 12 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 91 |
 | 13 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez | Managua, Nicaragua | 79 |
 | 14 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar | Nicaragua | 78 |
-| 15 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 77 |
-| 16 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 77 |
+| 15 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 78 |
+| 16 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 77 |
 | 17 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 73 |
 | 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero | Managua, Nicaragua | 70 |
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-09T07:22:33.060Z
+Generated: 2026-10-09T08:06:27.092Z

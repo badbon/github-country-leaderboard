@@ -13,11 +13,11 @@ Indexed users: 715
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,323 |
-| 2 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,628 |
-| 3 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,575 |
-| 4 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,184 |
-| 5 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 5,507 |
-| 6 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 5,234 |
+| 2 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,000 |
+| 3 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,628 |
+| 4 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,575 |
+| 5 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,184 |
+| 6 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 5,507 |
 | 7 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,149 |
 | 8 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,064 |
 | 9 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,018 |
@@ -27,11 +27,11 @@ Indexed users: 715
 | 13 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,701 |
 | 14 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,696 |
 | 15 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,695 |
-| 16 | [asitrakah](https://github.com/asitrakah) | Sitraka Andrianarisoa | Grand Baie, Mauritius | 2,965 |
-| 17 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,644 |
-| 18 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
-| 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 2,558 |
-| 20 | [YourFavouriteOreo](https://github.com/YourFavouriteOreo) |  | Mauritius | 2,557 |
+| 16 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,201 |
+| 17 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,017 |
+| 18 | [asitrakah](https://github.com/asitrakah) | Sitraka Andrianarisoa | Grand Baie, Mauritius | 2,965 |
+| 19 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,644 |
+| 20 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
 
 ## Public Contributions
 
@@ -47,8 +47,8 @@ Indexed users: 715
 | 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,385 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,343 |
 | 10 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,301 |
-| 11 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
-| 12 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,009 |
+| 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,009 |
+| 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,004 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
 | 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 672 |
 | 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
@@ -63,14 +63,14 @@ Indexed users: 715
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 713 |
-| 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Mauritius | 625 |
+| 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Mauritius | 630 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | Mauritius | 584 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 300 |
 | 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 155 |
 | 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Mauritius | 121 |
-| 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 119 |
-| 8 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 115 |
-| 9 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam | Mauritius | 115 |
+| 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 120 |
+| 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam | Mauritius | 115 |
+| 9 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee | Mauritius | 111 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 107 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | Mauritius | 100 |
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 98 |
@@ -81,6 +81,6 @@ Indexed users: 715
 | 17 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 80 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 75 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
-| 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
+| 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-09T07:17:26.641Z
+Generated: 2026-10-09T08:04:12.885Z

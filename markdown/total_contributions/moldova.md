@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-09T07:17:56.580Z
+Generated: 2026-10-09T08:04:53.124Z
 
 Users: 1759
 
@@ -23,6 +23,6 @@ Users: 1759
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
 | 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4260 |
 | 17 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |
-| 18 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4085 |
-| 19 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 3899 |
-| 20 | [raidum](https://github.com/raidum) | Dumitru Railean | @tractiontechpartners  |  | Moldova | 3826 |
+| 18 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4084 |
+| 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 4079 |
+| 20 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 3899 |

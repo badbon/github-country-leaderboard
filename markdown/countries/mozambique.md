@@ -64,7 +64,7 @@ Indexed users: 1,176
 |---:|---|---|---|---:|
 | 1 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 450 |
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 319 |
-| 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 304 |
+| 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 300 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 277 |
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 228 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 203 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [EMEDE2014](https://github.com/EMEDE2014) | Emede Momade | Nampula/Mozambique | 96 |
 
-Generated: 2026-10-09T07:19:53.460Z
+Generated: 2026-10-09T08:05:15.228Z

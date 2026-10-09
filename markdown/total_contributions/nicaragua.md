@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-09T07:22:33.060Z
+Generated: 2026-10-09T08:06:27.092Z
 
 Users: 1401
 
@@ -22,7 +22,7 @@ Users: 1401
 | 14 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 3606 |
 | 15 | [kenetpicado](https://github.com/kenetpicado) | Kenet |  | kenetphp | León, Nicaragua | 3460 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3407 |
-| 17 | [juliosolis](https://github.com/juliosolis) | Julio Solis |  |  | Nicaragua | 3141 |
-| 18 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Bloom Growth | __franccesco | Nicaragua | 3137 |
-| 19 | [Snowsita](https://github.com/Snowsita) | Enmanuel Antonio Torres Saenz |  |  | Nicaragua | 3018 |
-| 20 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado |  |  | Nicaragua | 2954 |
+| 17 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | @EscaliaTech  |  | Nicaragua | 3263 |
+| 18 | [juliosolis](https://github.com/juliosolis) | Julio Solis |  |  | Nicaragua | 3141 |
+| 19 | [franccesco](https://github.com/franccesco) | Franccesco Orozco | Bloom Growth | __franccesco | Nicaragua | 3137 |
+| 20 | [Snowsita](https://github.com/Snowsita) | Enmanuel Antonio Torres Saenz |  |  | Nicaragua | 3018 |

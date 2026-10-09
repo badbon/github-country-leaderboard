@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-09T07:28:26.806Z
+Generated: 2026-10-09T08:15:01.168Z
 
 Users: 858
 
@@ -14,7 +14,7 @@ Users: 858
 | 6 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 5362 |
 | 7 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 5231 |
 | 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 4916 |
-| 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4869 |
+| 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4833 |
 | 10 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 4168 |
 | 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 4017 |
 | 12 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 3983 |

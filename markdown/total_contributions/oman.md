@@ -1,8 +1,8 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-09T07:23:16.394Z
+Generated: 2026-10-09T08:07:18.532Z
 
-Users: 998
+Users: 997
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 998
 | 9 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 6444 |
 | 10 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan |  |  | Muscat, Oman | 5288 |
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 4818 |
-| 12 | [samyakrajbayar](https://github.com/samyakrajbayar) | Samyakraj Bayar | @EdudevCommons |  | Muscat, Oman | 4589 |
-| 13 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 4541 |
-| 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
-| 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
-| 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4239 |
-| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
-| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
+| 12 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 4541 |
+| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
+| 14 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
+| 15 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4239 |
+| 16 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
+| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
+| 18 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Rihal | WKHarthi | Oman | 4151 |
 | 19 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | CodeLine |  | Muscat | 3764 |
 | 20 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Codeline |  | Oman | 3716 |

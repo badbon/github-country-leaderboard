@@ -1,20 +1,20 @@
 # Followers - Mauritius
 
-Generated: 2026-10-09T07:17:26.641Z
+Generated: 2026-10-09T08:04:12.885Z
 
 Users: 715
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | @compileralchemy  | osdotsystem | Mauritius | 713 |
-| 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Marc Lamberti |  | Mauritius | 625 |
+| 2 | [marclamberti](https://github.com/marclamberti) | Marc Lamberti | Marc Lamberti |  | Mauritius | 630 |
 | 3 | [thatstraw](https://github.com/thatstraw) | Traw | GotechMu | thatstraw | Mauritius | 584 |
 | 4 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 300 |
 | 5 | [eznix86](https://github.com/eznix86) | Bruno Bernard |  |  | Mauritius | 155 |
 | 6 | [Nehal-Bhautoo](https://github.com/Nehal-Bhautoo) | Nehal Bhautoo | Uniicy | 454aac84aec945b | Mauritius | 121 |
-| 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 119 |
-| 8 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 115 |
-| 9 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 115 |
+| 7 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 120 |
+| 8 | [yuvraj108c](https://github.com/yuvraj108c) | Yuvraj Seegolam |  |  | Mauritius | 115 |
+| 9 | [wkhayrattee](https://github.com/wkhayrattee) | Wasseem Khayrattee |  | wkhayrattee | Mauritius | 111 |
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 107 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | @cyberstormdotmu  |  | Mauritius | 100 |
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 98 |
@@ -25,4 +25,4 @@ Users: 715
 | 17 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | @funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices | MariusRabenariv | Mauritius | 80 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | @livestorm | arwinneil | Mauritius | 75 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 74 |
-| 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | RAPP Indian Ocean |  | Mauritius | 65 |
+| 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | RAPP Indian Ocean |  | Mauritius | 66 |

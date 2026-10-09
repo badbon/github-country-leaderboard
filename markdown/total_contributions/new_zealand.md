@@ -1,19 +1,19 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-09T07:22:29.947Z
+Generated: 2026-10-09T08:12:27.350Z
 
-Users: 12159
+Users: 12158
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [rikkigouda](https://github.com/rikkigouda) | Rikki | @Higher-Engineers | rikkigouda | Aotearoa | 82632 |
 | 2 | [ryanbr](https://github.com/ryanbr) | Fanboynz | @Brave | fanboyNZ | New Zealand | 53373 |
 | 3 | [mitch-john](https://github.com/mitch-john) |  |  | MitchJohnNZ | New Zealand | 28645 |
-| 4 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 23496 |
-| 5 | [dreamineering](https://github.com/dreamineering) | howzus | dreamineering | howzus | New Zealand | 19987 |
-| 6 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 19954 |
-| 7 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Enspiral | joshuavial | Wellington, New Zealand | 16399 |
-| 8 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson |  |  | Cambridge, New Zealand | 16321 |
+| 4 | [joshdoesthis](https://github.com/joshdoesthis) | Joshua Wilson |  |  | Cambridge, New Zealand | 24210 |
+| 5 | [DTACat](https://github.com/DTACat) | Cat |  |  | New Zealand | 23496 |
+| 6 | [dreamineering](https://github.com/dreamineering) | howzus | dreamineering | howzus | New Zealand | 19987 |
+| 7 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 19954 |
+| 8 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Enspiral | joshuavial | Wellington, New Zealand | 16399 |
 | 9 | [JavaGT](https://github.com/JavaGT) | JavaGT |  |  | New Zealand | 16172 |
 | 10 | [abnegate](https://github.com/abnegate) | Jake Barnby | @appwrite |  | Tauranga, New Zealand | 13796 |
 | 11 | [nz365guy](https://github.com/nz365guy) | Mark Smith | Cloverbase | nz365guy | New Zealand | 12968 |

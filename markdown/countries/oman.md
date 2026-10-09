@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 998
+Indexed users: 997
 
 | Leaderboard | Link |
 |---|---|
@@ -23,13 +23,13 @@ Indexed users: 998
 | 9 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 6,444 |
 | 10 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
-| 12 | [samyakrajbayar](https://github.com/samyakrajbayar) | Samyakraj Bayar | Muscat, Oman | 4,589 |
-| 13 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
-| 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
-| 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
-| 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
-| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
-| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
+| 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
+| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
+| 14 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
+| 15 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
+| 16 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
+| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
+| 18 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 4,151 |
 | 19 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
 | 20 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Oman | 3,716 |
 
@@ -83,4 +83,4 @@ Indexed users: 998
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-09T07:23:16.394Z
+Generated: 2026-10-09T08:07:18.532Z

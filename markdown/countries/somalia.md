@@ -20,7 +20,7 @@ Indexed users: 858
 | 6 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | Mogadishu, Somalia | 5,362 |
 | 7 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Mogadishu, Somalia | 5,231 |
 | 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | Mogadishu Somalia | 4,916 |
-| 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Somalia  | 4,869 |
+| 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Somalia  | 4,833 |
 | 10 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | Mogadishu \| Somalia | 4,168 |
 | 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | Mogadishu, Somalia | 4,017 |
 | 12 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Mogadishu Somalia | 3,983 |
@@ -83,4 +83,4 @@ Indexed users: 858
 | 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 102 |
 | 20 | [alidiamond1](https://github.com/alidiamond1) | Ali Nor Abdulle | Mogadishu | 94 |
 
-Generated: 2026-10-09T07:28:26.806Z
+Generated: 2026-10-09T08:15:01.168Z
