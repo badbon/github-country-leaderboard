@@ -1,15 +1,15 @@
 # Followers - Togo
 
-Generated: 2026-10-08T23:40:41.351Z
+Generated: 2026-10-09T00:55:41.020Z
 
-Users: 684
+Users: 683
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | LGG | leMpoussin | Togo | 386 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | CaSEG |  | Lomé, Togo | 210 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen |  | iroukaizen | Lomé | 197 |
-| 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder |  |  | Lomé-Togo | 149 |
+| 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder |  |  | Lomé-Togo | 148 |
 | 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Louis Technology (LT) | AgadaFrancisL | Togo | 147 |
 | 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 133 |
 | 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 109 |

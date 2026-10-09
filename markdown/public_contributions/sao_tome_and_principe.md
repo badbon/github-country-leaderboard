@@ -1,12 +1,12 @@
 # Public Contributions - São Tomé and Príncipe
 
-Generated: 2026-10-08T23:35:56.178Z
+Generated: 2026-10-09T00:48:30.769Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 248 |
+| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 236 |
 | 2 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 77 |
 | 3 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 36 |
 | 4 | [josias-gsd](https://github.com/josias-gsd) | Josias Gentil | ULSTP | jos19376 | São Tomé e Príncipe | 12 |

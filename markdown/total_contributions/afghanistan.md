@@ -1,6 +1,6 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-08T23:50:28.750Z
+Generated: 2026-10-09T01:02:54.102Z
 
 Users: 1501
 
@@ -19,9 +19,9 @@ Users: 1501
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7025 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | @Daktilo-CMS | Mustafa_Zahedi2 | Herat, Afghanistan | 6345 |
 | 13 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 5819 |
-| 14 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 5656 |
-| 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 5595 |
-| 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5593 |
+| 14 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5737 |
+| 15 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 5656 |
+| 16 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 5595 |
 | 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5061 |
 | 18 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | @Code9ine |  | Kabul, Afghanistan | 4854 |
 | 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4812 |

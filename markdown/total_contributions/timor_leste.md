@@ -1,6 +1,6 @@
 # Total Contributions - Timor-Leste
 
-Generated: 2026-10-08T23:40:37.313Z
+Generated: 2026-10-09T00:55:36.015Z
 
 Users: 77
 
@@ -8,7 +8,7 @@ Users: 77
 |---:|---|---|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 10564 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 2209 |
-| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1615 |
+| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1624 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Catalpa International |  | Dili, East Timor | 1063 |
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 826 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | TIC TIMOR |  | Dili, Timor-Leste | 596 |
@@ -25,4 +25,4 @@ Users: 77
 | 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
 | 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |
 | 19 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 26 |
-| 20 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana |  |  | Timor-Leste | 24 |
+| 20 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, East Timor | 20 |

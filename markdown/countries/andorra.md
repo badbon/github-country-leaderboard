@@ -27,8 +27,8 @@ Indexed users: 215
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,909 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,702 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,464 |
-| 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,378 |
-| 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,355 |
+| 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,385 |
+| 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,378 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
 | 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,778 |
 | 20 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 2,618 |
@@ -47,9 +47,9 @@ Indexed users: 215
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 653 |
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 612 |
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
-| 11 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 449 |
-| 12 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
-| 13 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 401 |
+| 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 453 |
+| 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 449 |
+| 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
 | 14 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 391 |
 | 15 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 313 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-08T23:52:13.030Z
+Generated: 2026-10-09T01:03:15.046Z

@@ -25,7 +25,7 @@ Indexed users: 487
 | 11 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,330 |
 | 12 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 4,947 |
 | 13 | [Chris000888](https://github.com/Chris000888) | Christopher DATO | Abidjan, Côte d'Ivoire | 4,915 |
-| 14 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,699 |
+| 14 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 4,680 |
 | 15 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 3,877 |
 | 16 | [2ok-k](https://github.com/2ok-k) | Oumar Kouassi | Abidjan, Côte d'Ivoire | 3,780 |
 | 17 | [juniorbrindou](https://github.com/juniorbrindou) | Junior Brindou | Côte d'Ivoire, Abidjan | 3,740 |
@@ -64,7 +64,7 @@ Indexed users: 487
 |---:|---|---|---|---:|
 | 1 | [Bleu-Yves-Sopoude](https://github.com/Bleu-Yves-Sopoude) | Bleu Yves Sopoude | Ivory Coast | 289 |
 | 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 248 |
-| 3 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 150 |
+| 3 | [codecaiine](https://github.com/codecaiine) | Yannick-Noël AKA | Ivory Coast | 149 |
 | 4 | [AngeTia](https://github.com/AngeTia) | M. Gompou Tia Ange | Ivory Coast, Abidjan | 138 |
 | 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye | Ivory Coast | 137 |
 | 6 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 116 |
@@ -76,11 +76,11 @@ Indexed users: 487
 | 12 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 63 |
 | 13 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 61 |
 | 14 | [azizsoule](https://github.com/azizsoule) | Aziz Soulé | Abidjan, Côte d'Ivoire | 59 |
-| 15 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | San Pedro, Côte d'Ivoire | 58 |
-| 16 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 55 |
+| 15 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 58 |
+| 16 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | San Pedro, Côte d'Ivoire | 58 |
 | 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 50 |
 | 18 | [ourystd](https://github.com/ourystd) | Oury Diallo | Abidjan, Côte d'Ivoire | 50 |
-| 19 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
-| 20 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 40 |
+| 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
+| 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
 
-Generated: 2026-10-08T18:40:20.890Z
+Generated: 2026-10-09T00:23:21.219Z

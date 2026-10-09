@@ -1,6 +1,6 @@
 # Uruguay
 
-Indexed users: 5,621
+Indexed users: 5,620
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,621
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-08T23:45:15.964Z
+Generated: 2026-10-09T01:00:39.364Z

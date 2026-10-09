@@ -1,8 +1,8 @@
 # Public Contributions - United Arab Emirates
 
-Generated: 2026-10-08T23:44:45.081Z
+Generated: 2026-10-09T01:00:07.730Z
 
-Users: 4252
+Users: 4251
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 4252
 | 16 | [fidellim](https://github.com/fidellim) | Fidel Lim |  |  | Abu Dhabi, UAE | 2094 |
 | 17 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | DMT |  | Abu Dhabi, United Arab Emirates | 2037 |
 | 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 2025 |
-| 19 | [sdbondi](https://github.com/sdbondi) | Stan Bondi |  |  | Abu Dhabi, United Arab Emirates | 1833 |
-| 20 | [hadi14250](https://github.com/hadi14250) | Hadi Kaddoura |  |  | Abu Dhabi | 1740 |
+| 19 | [nripankadas07](https://github.com/nripankadas07) | Dr. Nripanka Das | AIQ |  | Abu Dhabi | 1866 |
+| 20 | [sdbondi](https://github.com/sdbondi) | Stan Bondi |  |  | Abu Dhabi, United Arab Emirates | 1833 |

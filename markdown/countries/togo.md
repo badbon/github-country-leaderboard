@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 684
+Indexed users: 683
 
 | Leaderboard | Link |
 |---|---|
@@ -19,8 +19,8 @@ Indexed users: 684
 | 5 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 7,096 |
 | 6 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | Lomé | 5,999 |
 | 7 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan | Togo | 5,806 |
-| 8 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,528 |
-| 9 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 5,176 |
+| 8 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 5,176 |
+| 9 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,141 |
 | 10 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,628 |
 | 11 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,461 |
 | 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,107 |
@@ -29,9 +29,9 @@ Indexed users: 684
 | 15 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
 | 16 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
 | 17 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
-| 18 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
-| 19 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
-| 20 | [lonie12](https://github.com/lonie12) | Yxie | Lomé, TOGO | 3,082 |
+| 18 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,359 |
+| 19 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
+| 20 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
 
 ## Public Contributions
 
@@ -65,7 +65,7 @@ Indexed users: 684
 | 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | Togo | 386 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 210 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen | Lomé | 197 |
-| 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 149 |
+| 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 148 |
 | 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 147 |
 | 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 133 |
 | 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 109 |
@@ -83,4 +83,4 @@ Indexed users: 684
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-08T23:40:41.351Z
+Generated: 2026-10-09T00:55:41.020Z

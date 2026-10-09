@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,252
+Indexed users: 4,251
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 4,252
 | 16 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,094 |
 | 17 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 2,037 |
 | 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 2,025 |
-| 19 | [sdbondi](https://github.com/sdbondi) | Stan Bondi | Abu Dhabi, United Arab Emirates | 1,833 |
-| 20 | [hadi14250](https://github.com/hadi14250) | Hadi Kaddoura | Abu Dhabi | 1,740 |
+| 19 | [nripankadas07](https://github.com/nripankadas07) | Dr. Nripanka Das | Abu Dhabi | 1,866 |
+| 20 | [sdbondi](https://github.com/sdbondi) | Stan Bondi | Abu Dhabi, United Arab Emirates | 1,833 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,252
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-08T23:44:45.081Z
+Generated: 2026-10-09T01:00:07.730Z

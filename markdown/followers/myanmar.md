@@ -1,8 +1,8 @@
 # Followers - Myanmar
 
-Generated: 2026-10-08T18:49:38.436Z
+Generated: 2026-10-09T00:34:50.811Z
 
-Users: 2089
+Users: 2088
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -17,11 +17,11 @@ Users: 2089
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | ZOE Crypto |  | Myanmar | 285 |
 | 10 | [trhura](https://github.com/trhura) | Thura Hlaing |  |  | Yangon, Myanmar | 265 |
 | 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | None |  | Tamu, Myanmar | 248 |
-| 12 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Vithey |  | Myanmar | 243 |
+| 12 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Vithey |  | Myanmar | 238 |
 | 13 | [theaungmyatmoe](https://github.com/theaungmyatmoe) | Aung Myat Moe | @myanmarcyberyouths  | aungmyatmoe_ | Yangon, Myanmar | 238 |
 | 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | University of Computer Studies, Mandalay |  | Yangon, Myanmar | 227 |
-| 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 214 |
-| 16 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu |  |  | Myanmar | 214 |
+| 15 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu |  |  | Myanmar | 214 |
+| 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 209 |
 | 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Pet Sentry |  | Yangon, Myanmar | 199 |
 | 18 | [ko-htut](https://github.com/ko-htut) | Ko Htut | A Bank | ko_htutz | Myanmar | 170 |
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint |  | winsandymyint | Myanmar | 167 |

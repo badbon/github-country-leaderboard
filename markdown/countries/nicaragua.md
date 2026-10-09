@@ -43,13 +43,13 @@ Indexed users: 1,402
 | 4 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 1,371 |
 | 5 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
 | 6 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
-| 7 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,137 |
-| 8 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,124 |
-| 9 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,048 |
-| 10 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,037 |
-| 11 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 930 |
-| 12 | [kraudy](https://github.com/kraudy) | Roberto Torrez | Nicaragua | 908 |
-| 13 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 878 |
+| 7 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,153 |
+| 8 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,137 |
+| 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,124 |
+| 10 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,048 |
+| 11 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,037 |
+| 12 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 930 |
+| 13 | [kraudy](https://github.com/kraudy) | Roberto Torrez | Nicaragua | 908 |
 | 14 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
 | 15 | [DlopezS98](https://github.com/DlopezS98) | Danny López | Nicaragua | 767 |
 | 16 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez | Nicaragua | 759 |
@@ -83,4 +83,4 @@ Indexed users: 1,402
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-08T18:51:22.731Z
+Generated: 2026-10-09T00:37:36.684Z

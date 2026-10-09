@@ -16,7 +16,7 @@ Indexed users: 256
 | 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 6,617 |
 | 3 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 3,954 |
 | 4 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 3,757 |
-| 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,094 |
+| 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,105 |
 | 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,983 |
 | 7 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 2,965 |
 | 8 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 2,809 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-08T23:42:11.566Z
+Generated: 2026-10-09T00:56:52.232Z

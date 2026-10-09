@@ -41,7 +41,7 @@ Indexed users: 2,455
 | 2 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 3,599 |
 | 3 | [metalagman](https://github.com/metalagman) | Alexey Samoylov | Bishkek, Kyrgyz Republic | 3,485 |
 | 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,248 |
-| 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 2,600 |
+| 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 3,050 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,262 |
 | 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,843 |
 | 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
@@ -83,4 +83,4 @@ Indexed users: 2,455
 | 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 | 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
 
-Generated: 2026-10-08T18:41:34.788Z
+Generated: 2026-10-09T00:26:05.356Z

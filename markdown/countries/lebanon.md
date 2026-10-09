@@ -22,14 +22,14 @@ Indexed users: 2,570
 | 8 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
 | 9 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 6,225 |
 | 10 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
-| 11 | [ewehbejc](https://github.com/ewehbejc) | Emilio Wehbe | Beirut, Lebanon | 6,092 |
-| 12 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
-| 13 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 5,869 |
-| 14 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
-| 15 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 5,727 |
-| 16 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
-| 17 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
-| 18 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | Lebanon | 5,181 |
+| 11 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
+| 12 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 5,869 |
+| 13 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
+| 14 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 5,727 |
+| 15 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
+| 16 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
+| 17 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | Lebanon | 5,181 |
+| 18 | [ewehbejc](https://github.com/ewehbejc) | Emilio Wehbe | Beirut, Lebanon | 5,157 |
 | 19 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,091 |
 | 20 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 5,050 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,570
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [PeterHackz](https://github.com/PeterHackz) | Peterson | Beirut, Lebanon | 103 |
 
-Generated: 2026-10-08T18:41:57.552Z
+Generated: 2026-10-09T00:26:40.179Z

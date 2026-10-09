@@ -14,7 +14,7 @@ Indexed users: 77
 |---:|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 10,564 |
 | 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,209 |
-| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,615 |
+| 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,624 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Dili, East Timor | 1,063 |
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 826 |
 | 6 | [zemalay](https://github.com/zemalay) | Geovannio Frederico de Jesus Vinhas | Dili, Timor-Leste | 596 |
@@ -31,14 +31,14 @@ Indexed users: 77
 | 17 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
 | 18 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
 | 19 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
-| 20 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana | Timor-Leste | 24 |
+| 20 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 20 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,080 |
-| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,195 |
+| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,204 |
 | 3 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 1,067 |
 | 4 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 826 |
 | 5 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Timor Leste | 408 |
@@ -54,9 +54,9 @@ Indexed users: 77
 | 15 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala | Dili, Timor Leste | 36 |
 | 16 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA | Timor-leste | 34 |
 | 17 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | Dili | 26 |
-| 18 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana | Timor-Leste | 24 |
-| 19 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 20 |
-| 20 | [revolta12](https://github.com/revolta12) | NizioDevT | Dili, Timor-Leste | 18 |
+| 18 | [XICANO88](https://github.com/XICANO88) | XICANO | Guarda-Iliheu, East Timor | 20 |
+| 19 | [revolta12](https://github.com/revolta12) | NizioDevT | Dili, Timor-Leste | 18 |
+| 20 | [GregoriousdaConceicao](https://github.com/GregoriousdaConceicao) | Charles | Dili | 16 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-08T23:40:37.313Z
+Generated: 2026-10-09T00:55:36.015Z

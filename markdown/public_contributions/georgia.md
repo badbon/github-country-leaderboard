@@ -1,6 +1,6 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-08T23:50:24.469Z
+Generated: 2026-10-09T01:02:26.247Z
 
 Users: 6900
 
@@ -19,10 +19,10 @@ Users: 6900
 | 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 3620 |
 | 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
 | 13 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
-| 14 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
-| 15 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
-| 16 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
-| 17 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |
-| 18 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |
-| 19 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet |  | Tbilisi | 3002 |
+| 14 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
+| 15 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
+| 16 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
+| 17 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
+| 18 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |
+| 19 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |
 | 20 | [Mamaduka](https://github.com/Mamaduka) | George Mamadashvili |  | Mamaduka | Tbilisi, Georgia | 2971 |

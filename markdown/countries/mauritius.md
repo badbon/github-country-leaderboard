@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 717
+Indexed users: 716
 
 | Leaderboard | Link |
 |---|---|
@@ -19,8 +19,8 @@ Indexed users: 717
 | 5 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,149 |
 | 6 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,064 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,018 |
-| 8 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,733 |
-| 9 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 4,265 |
+| 8 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 4,265 |
+| 9 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,107 |
 | 10 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,077 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 4,076 |
 | 12 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,701 |
@@ -83,4 +83,4 @@ Indexed users: 717
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-08T18:48:01.654Z
+Generated: 2026-10-09T00:31:39.117Z

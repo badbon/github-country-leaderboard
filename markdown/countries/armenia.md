@@ -63,8 +63,8 @@ Indexed users: 4,045
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 1,430 |
-| 2 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Yerevan | 1,081 |
-| 3 | [vardan444](https://github.com/vardan444) |  | Armenia | 1,071 |
+| 2 | [vardan444](https://github.com/vardan444) |  | Armenia | 1,091 |
+| 3 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Yerevan | 1,081 |
 | 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan | Armenia | 931 |
 | 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko | Armenia | 797 |
 | 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad | Yerevan, Armenia | 624 |
@@ -83,4 +83,4 @@ Indexed users: 4,045
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-08T23:53:29.500Z
+Generated: 2026-10-09T01:04:55.504Z

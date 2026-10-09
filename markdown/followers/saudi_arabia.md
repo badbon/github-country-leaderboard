@@ -1,8 +1,8 @@
 # Followers - Saudi Arabia
 
-Generated: 2026-10-08T23:35:58.699Z
+Generated: 2026-10-09T00:48:59.536Z
 
-Users: 7702
+Users: 7700
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Myanmar
 
-Indexed users: 2,089
+Indexed users: 2,088
 
 | Leaderboard | Link |
 |---|---|
@@ -19,19 +19,19 @@ Indexed users: 2,089
 | 5 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | Yangon, Myanmar | 4,933 |
 | 6 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM | Yangon, Myanmar | 4,827 |
 | 7 | [myatminag](https://github.com/myatminag) | Myat Min Aung | Yangon, Myanmar | 4,132 |
-| 8 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 3,913 |
-| 9 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,886 |
-| 10 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 3,610 |
-| 11 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet | Myanmar | 3,492 |
-| 12 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
-| 13 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,158 |
-| 14 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | Myanmar | 3,018 |
-| 15 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Yangon , Myanmar | 2,988 |
-| 16 | [HtetOoWaiYan](https://github.com/HtetOoWaiYan) | Htet Oo Wai Yan | Myanmar (Burma) | 2,953 |
-| 17 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 2,778 |
-| 18 | [kokim2022](https://github.com/kokim2022) | hwaung | Yangon, Myanmar | 2,775 |
-| 19 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | Yangon, Myanmar(Burma) | 2,773 |
-| 20 | [htooaungphyolwin](https://github.com/htooaungphyolwin) | Htoo Aung Phyo Lwin | Mandalay, Myanmar  | 2,745 |
+| 8 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Yangon, Myanmar (Burma) | 4,053 |
+| 9 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 3,913 |
+| 10 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,886 |
+| 11 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 3,664 |
+| 12 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet | Myanmar | 3,492 |
+| 13 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
+| 14 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,158 |
+| 15 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | Myanmar | 3,018 |
+| 16 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Yangon , Myanmar | 2,988 |
+| 17 | [HtetOoWaiYan](https://github.com/HtetOoWaiYan) | Htet Oo Wai Yan | Myanmar (Burma) | 2,953 |
+| 18 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 2,778 |
+| 19 | [kokim2022](https://github.com/kokim2022) | hwaung | Yangon, Myanmar | 2,775 |
+| 20 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | Yangon, Myanmar(Burma) | 2,773 |
 
 ## Public Contributions
 
@@ -73,14 +73,14 @@ Indexed users: 2,089
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | Myanmar | 285 |
 | 10 | [trhura](https://github.com/trhura) | Thura Hlaing | Yangon, Myanmar | 265 |
 | 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | Tamu, Myanmar | 248 |
-| 12 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Myanmar | 243 |
+| 12 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Myanmar | 238 |
 | 13 | [theaungmyatmoe](https://github.com/theaungmyatmoe) | Aung Myat Moe | Yangon, Myanmar | 238 |
 | 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | Yangon, Myanmar | 227 |
-| 15 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 214 |
-| 16 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu | Myanmar | 214 |
+| 15 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu | Myanmar | 214 |
+| 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 209 |
 | 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Yangon, Myanmar | 199 |
 | 18 | [ko-htut](https://github.com/ko-htut) | Ko Htut | Myanmar | 170 |
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-08T18:49:38.436Z
+Generated: 2026-10-09T00:34:50.811Z

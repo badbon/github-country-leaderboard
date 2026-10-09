@@ -30,8 +30,8 @@ Indexed users: 901
 | 16 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,452 |
 | 17 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul |  Malawi | 3,435 |
 | 18 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi | Malawi | 3,346 |
-| 19 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
-| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,127 |
+| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,137 |
+| 20 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
 
 ## Public Contributions
 
@@ -72,7 +72,7 @@ Indexed users: 901
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 279 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 267 |
 | 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 237 |
-| 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 235 |
+| 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 229 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 224 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 208 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 203 |
@@ -83,4 +83,4 @@ Indexed users: 901
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 137 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
 
-Generated: 2026-10-08T18:44:47.336Z
+Generated: 2026-10-09T00:29:38.400Z

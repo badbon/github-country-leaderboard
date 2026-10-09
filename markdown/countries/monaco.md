@@ -23,7 +23,7 @@ Indexed users: 143
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 952 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 716 |
-| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 617 |
+| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 616 |
 | 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 551 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 510 |
 | 15 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 418 |
@@ -40,7 +40,7 @@ Indexed users: 143
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,062 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,250 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,615 |
-| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 617 |
+| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 616 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 244 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 173 |
@@ -50,7 +50,7 @@ Indexed users: 143
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | Monaco | 99 |
 | 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 94 |
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 80 |
-| 14 | [yeainworks](https://github.com/yeainworks) | yea! | monaco | 74 |
+| 14 | [yeainworks](https://github.com/yeainworks) | yea! | monaco | 76 |
 | 15 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO | Monaco | 59 |
 | 16 | [sesjaphp](https://github.com/sesjaphp) |  | Monaco | 58 |
 | 17 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
@@ -83,4 +83,4 @@ Indexed users: 143
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-08T18:48:14.356Z
+Generated: 2026-10-09T00:32:54.114Z

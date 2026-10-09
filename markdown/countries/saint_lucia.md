@@ -17,9 +17,9 @@ Indexed users: 35
 | 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,589 |
 | 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 1,992 |
 | 5 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,047 |
-| 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,035 |
+| 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,031 |
 | 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 961 |
-| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 817 |
+| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 818 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 281 |
 | 10 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 93 |
 | 11 | [fontius](https://github.com/fontius) |  | Saint Lucia | 83 |
@@ -38,8 +38,8 @@ Indexed users: 35
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 931 |
-| 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 448 |
-| 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 127 |
+| 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 441 |
+| 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 128 |
 | 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 83 |
 | 5 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 67 |
 | 6 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-08T18:57:57.690Z
+Generated: 2026-10-09T00:47:12.092Z

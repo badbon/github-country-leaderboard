@@ -51,10 +51,10 @@ Indexed users: 359
 | 12 | [bytoum](https://github.com/bytoum) | Toum Nanthavath | Laos | 186 |
 | 13 | [nirankoon](https://github.com/nirankoon) |  | Vientiane | 174 |
 | 14 | [hiramoto](https://github.com/hiramoto) | 永田彰 (Akira NAGATA) | Vientiane, Lao P.D.R. | 157 |
-| 15 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | Vientiane, Laos | 133 |
+| 15 | [aoypsk8](https://github.com/aoypsk8) | AOY PHONGSAKOUN MR | Vientiane, Laos | 131 |
 | 16 | [med1213](https://github.com/med1213) | Med | Laos, Vientaince | 123 |
 | 17 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | Vientiane, Laos | 120 |
-| 18 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | Laos, Vientiane | 115 |
+| 18 | [Bird9249](https://github.com/Bird9249) | BirdKeonavong | Laos, Vientiane | 116 |
 | 19 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin | Laos | 112 |
 | 20 | [Billion101](https://github.com/Billion101) | Billion101 | Laos | 112 |
 
@@ -83,4 +83,4 @@ Indexed users: 359
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 15 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-08T18:41:48.042Z
+Generated: 2026-10-09T00:26:08.074Z

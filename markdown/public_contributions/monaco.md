@@ -1,6 +1,6 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-08T18:48:14.356Z
+Generated: 2026-10-09T00:32:54.114Z
 
 Users: 143
 
@@ -9,7 +9,7 @@ Users: 143
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau |  |  | Monaco | 4062 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  |  |  | Monaco | 2250 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | International Atomic Energy Agency |  | Monaco | 1615 |
-| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 617 |
+| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 616 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 244 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 173 |
@@ -19,7 +19,7 @@ Users: 143
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | International University of Monaco - IUM |  | Monaco | 99 |
 | 12 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 94 |
 | 13 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 80 |
-| 14 | [yeainworks](https://github.com/yeainworks) | yea! | "YeaWorks!" |  | monaco | 74 |
+| 14 | [yeainworks](https://github.com/yeainworks) | yea! | NEXT Inc. | yeainworks | monaco | 76 |
 | 15 | [PhilCANDIDO](https://github.com/PhilCANDIDO) | Philippe CANDIDO |  |  | Monaco | 59 |
 | 16 | [sesjaphp](https://github.com/sesjaphp) |  |  |  | Monaco | 58 |
 | 17 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych |  |  | Nashville & Monaco | 52 |

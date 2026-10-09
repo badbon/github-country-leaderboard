@@ -25,9 +25,9 @@ Indexed users: 1,501
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,025 |
 | 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,345 |
 | 13 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 5,819 |
-| 14 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 5,656 |
-| 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,595 |
-| 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,593 |
+| 14 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,737 |
+| 15 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 5,656 |
+| 16 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,595 |
 | 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,061 |
 | 18 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | Kabul, Afghanistan | 4,854 |
 | 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,812 |
@@ -51,10 +51,10 @@ Indexed users: 1,501
 | 12 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,315 |
 | 13 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,230 |
 | 14 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,217 |
-| 15 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,167 |
-| 16 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,081 |
-| 17 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,077 |
-| 18 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,044 |
+| 15 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,181 |
+| 16 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,167 |
+| 17 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,081 |
+| 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,077 |
 | 19 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily | Herat,Afghanistan | 1,014 |
 | 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 933 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,501
 | 19 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 123 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-08T23:50:28.750Z
+Generated: 2026-10-09T01:02:54.102Z

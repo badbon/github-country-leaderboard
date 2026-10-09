@@ -1,13 +1,13 @@
 # Total Contributions - Åland Islands
 
-Generated: 2026-10-08T23:50:35.139Z
+Generated: 2026-10-09T01:02:59.586Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 8662 |
-| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 3909 |
+| 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 8843 |
+| 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan |  |  | Mariehamn | 3895 |
 | 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 3789 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 3109 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 1714 |

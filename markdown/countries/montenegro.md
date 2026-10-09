@@ -19,12 +19,12 @@ Indexed users: 903
 | 5 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 6,339 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,114 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 5,795 |
-| 8 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,675 |
-| 9 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 5,630 |
-| 10 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,168 |
-| 11 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,099 |
-| 12 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 4,940 |
-| 13 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 4,842 |
+| 8 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,734 |
+| 9 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,675 |
+| 10 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 5,630 |
+| 11 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,168 |
+| 12 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,099 |
+| 13 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 4,940 |
 | 14 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,614 |
 | 15 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,101 |
 | 16 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 3,927 |
@@ -56,7 +56,7 @@ Indexed users: 903
 | 17 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
 | 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 769 |
-| 20 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 711 |
+| 20 | [DavidGudovic](https://github.com/DavidGudovic) | David  | Montenegro | 701 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 903
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-08T18:48:32.702Z
+Generated: 2026-10-09T00:33:01.747Z

@@ -1,8 +1,8 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-08T18:52:25.861Z
+Generated: 2026-10-09T00:40:00.174Z
 
-Users: 1001
+Users: 1000
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1001
 | 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
 | 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
 | 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4239 |
-| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
-| 18 | [m7medVision](https://github.com/m7medVision) | Mohammed | @mymanara  | m7medVision | Oman | 4175 |
+| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
+| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
 | 19 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | CodeLine |  | Muscat | 3764 |
 | 20 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Codeline |  | Oman | 3716 |

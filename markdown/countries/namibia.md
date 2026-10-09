@@ -24,7 +24,7 @@ Indexed users: 475
 | 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,012 |
 | 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,843 |
 | 12 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,510 |
-| 13 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,411 |
+| 13 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,419 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,267 |
 | 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,242 |
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,194 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-08T18:50:06.122Z
+Generated: 2026-10-09T00:34:53.941Z

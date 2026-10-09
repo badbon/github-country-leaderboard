@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-08T18:41:57.552Z
+Generated: 2026-10-09T00:26:40.179Z
 
 Users: 2570
 
@@ -16,13 +16,13 @@ Users: 2570
 | 8 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 6334 |
 | 9 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Freelance | alishkeir_ | Beirut, Lebanon | 6225 |
 | 10 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6138 |
-| 11 | [ewehbejc](https://github.com/ewehbejc) | Emilio Wehbe | JumpCloud |  | Beirut, Lebanon | 6092 |
-| 12 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 6034 |
-| 13 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 5869 |
-| 14 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
-| 15 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 5727 |
-| 16 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | @Instadapp  | KABBOUCHI | Lebanon | 5390 |
-| 17 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | @Poyesis  |  | Lebanon | 5308 |
-| 18 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | anghami |  | Lebanon | 5181 |
+| 11 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 6034 |
+| 12 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk |  | mhdbouk | Beirut, Lebanon | 5869 |
+| 13 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
+| 14 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 5727 |
+| 15 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | @Instadapp  | KABBOUCHI | Lebanon | 5390 |
+| 16 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | @Poyesis  |  | Lebanon | 5308 |
+| 17 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | anghami |  | Lebanon | 5181 |
+| 18 | [ewehbejc](https://github.com/ewehbejc) | Emilio Wehbe | JumpCloud |  | Beirut, Lebanon | 5157 |
 | 19 | [Salah1221](https://github.com/Salah1221) | Salah Najem | @nesco-lb  |  | Tripoli District, North Governorate, Lebanon | 5091 |
 | 20 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 5050 |

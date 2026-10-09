@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-08T23:50:28.750Z
+Generated: 2026-10-09T01:02:54.102Z
 
 Users: 1501
 
@@ -20,9 +20,9 @@ Users: 1501
 | 12 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1315 |
 | 13 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Tawana Technology |  | Kabul, Afghanistan | 1230 |
 | 14 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin |  |  | Afghanistan | 1217 |
-| 15 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori |  |  | Afghanistan  | 1167 |
-| 16 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1081 |
-| 17 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1077 |
-| 18 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1044 |
+| 15 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1181 |
+| 16 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori |  |  | Afghanistan  | 1167 |
+| 17 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1081 |
+| 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1077 |
 | 19 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily |  | stysh_Esmaily | Herat,Afghanistan | 1014 |
 | 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Netlinks Inc |  | Kabul, Afghanistan | 933 |

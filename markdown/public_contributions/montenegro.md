@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-08T18:48:32.702Z
+Generated: 2026-10-09T00:33:01.747Z
 
 Users: 903
 
@@ -25,4 +25,4 @@ Users: 903
 | 17 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 809 |
 | 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 769 |
-| 20 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 711 |
+| 20 | [DavidGudovic](https://github.com/DavidGudovic) | David  |  |  | Montenegro | 701 |

@@ -1,19 +1,19 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-08T18:43:31.781Z
+Generated: 2026-10-09T00:27:51.653Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5304 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4287 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4311 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 3907 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2875 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2620 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2079 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1842 |
-| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1654 |
+| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1663 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1158 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 738 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 713 |
@@ -24,5 +24,5 @@ Users: 113
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 307 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 296 |
 | 18 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 265 |
-| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 224 |
+| 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 226 |
 | 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 167 |

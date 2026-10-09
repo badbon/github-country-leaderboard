@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-08T18:44:47.336Z
+Generated: 2026-10-09T00:29:38.400Z
 
 Users: 901
 
@@ -24,5 +24,5 @@ Users: 901
 | 16 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3452 |
 | 17 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul | @rexplore-ai | IrByamasu |  Malawi | 3435 |
 | 18 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi |  |  | Malawi | 3346 |
-| 19 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |
-| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3127 |
+| 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
+| 20 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |

@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-08T18:48:32.702Z
+Generated: 2026-10-09T00:33:01.747Z
 
 Users: 903
 
@@ -13,12 +13,12 @@ Users: 903
 | 5 | [mashkovd](https://github.com/mashkovd) | mashkovd | mctl | mashkovd | Podgorica | 6339 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Quicknode Inc |  | Montenegro | 6114 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić |  |  | Podgorica, Montenegro | 5795 |
-| 8 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5675 |
-| 9 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 5630 |
-| 10 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5168 |
-| 11 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5099 |
-| 12 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4940 |
-| 13 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 4842 |
+| 8 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 5734 |
+| 9 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5675 |
+| 10 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 5630 |
+| 11 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5168 |
+| 12 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5099 |
+| 13 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 4940 |
 | 14 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev |  | IvanPonamarev | Podgorica, Montenegro | 4614 |
 | 15 | [frostmid](https://github.com/frostmid) | Igor Boldyrev |  |  | Budva, Montenegro | 4101 |
 | 16 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 3927 |

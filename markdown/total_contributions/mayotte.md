@@ -1,6 +1,6 @@
 # Total Contributions - Mayotte
 
-Generated: 2026-10-08T18:48:03.998Z
+Generated: 2026-10-09T00:32:29.353Z
 
 Users: 17
 
@@ -8,9 +8,9 @@ Users: 17
 |---:|---|---|---|---|---|---:|
 | 1 | [beeraw](https://github.com/beeraw) | Jean-Luc Petit |  |  | Mayotte | 2316 |
 | 2 | [feycoil](https://github.com/feycoil) | Feyçoil Mouhoussoune | @EticServices |  | Mamoudzou | 327 |
-| 3 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | Samyn-Antoy Pro Entreprise |  | mayotte | 300 |
-| 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | https://github.com/bacardevelopper |  | Mayotte | 202 |
-| 5 | [anniou21](https://github.com/anniou21) | Anniou |  |  | Mayotte | 17 |
+| 3 | [TechNerdSam](https://github.com/TechNerdSam) | Samyn-Antoy ABASSE | Samyn-Antoy Pro Entreprise |  | mayotte | 304 |
+| 4 | [bacardeveloper](https://github.com/bacardeveloper) | niwradCodera | https://github.com/bacardevelopper |  | Mayotte | 200 |
+| 5 | [anniou21](https://github.com/anniou21) | Anniou |  |  | Mayotte | 18 |
 | 6 | [nuthered](https://github.com/nuthered) |  |  |  | East Kevinbury, Mayotte | 15 |
 | 7 | [gbourel](https://github.com/gbourel) |  |  |  | Mamoudzou, Mayotte | 3 |
 | 8 | [ssrb](https://github.com/ssrb) | Sebastian | unhexhexium ltd |  | Mayotte | 3 |

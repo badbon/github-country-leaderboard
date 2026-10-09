@@ -1,8 +1,8 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-08T18:48:01.654Z
+Generated: 2026-10-09T00:31:39.117Z
 
-Users: 717
+Users: 716
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,8 +13,8 @@ Users: 717
 | 5 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5149 |
 | 6 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 5064 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5018 |
-| 8 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4733 |
-| 9 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 4265 |
+| 8 | [512banque](https://github.com/512banque) | Kevin Richard | SEObserver | 512banque | Mauritius | 4265 |
+| 9 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4107 |
 | 10 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 4077 |
 | 11 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 4076 |
 | 12 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 3701 |

@@ -31,7 +31,7 @@ Indexed users: 155
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,198 |
 | 18 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,061 |
 | 19 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,038 |
-| 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,020 |
+| 20 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,032 |
 
 ## Public Contributions
 
@@ -50,7 +50,7 @@ Indexed users: 155
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | Isle of Man | 246 |
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Isle of Man | 216 |
 | 13 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 157 |
-| 14 | [K1erans](https://github.com/K1erans) | Kieran | Isle of man | 140 |
+| 14 | [K1erans](https://github.com/K1erans) | Kieran | Isle of man | 148 |
 | 15 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 129 |
 | 16 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 123 |
 | 17 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 108 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-08T18:40:08.622Z
+Generated: 2026-10-09T00:22:39.064Z

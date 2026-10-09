@@ -1,8 +1,8 @@
 # Followers - Algeria
 
-Generated: 2026-10-08T23:52:06.263Z
+Generated: 2026-10-09T01:03:07.766Z
 
-Users: 5819
+Users: 5818
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,9 +19,9 @@ Users: 5819
 | 11 | [medzino2000](https://github.com/medzino2000) | med zino |  | MedZ1nou | algeria | 918 |
 | 12 | [kh-mahmoud](https://github.com/kh-mahmoud) | Khouchane Mahmoud |  | kh_mahmoud47324 | Algeria | 911 |
 | 13 | [x4nth055](https://github.com/x4nth055) | Rockikz |  |  | Algeria | 845 |
-| 14 | [h4x0r-dz](https://github.com/h4x0r-dz) | h4x0r_dz | Barika | h4x0r_dz | Algeria | 832 |
-| 15 | [Saboo24](https://github.com/Saboo24) | Amine Hamzaoui |  |  | Algeria | 823 |
-| 16 | [Midou-Mni](https://github.com/Midou-Mni) | Midou |  |  | Algeria | 819 |
+| 14 | [Saboo24](https://github.com/Saboo24) | Amine Hamzaoui |  |  | Algeria | 838 |
+| 15 | [h4x0r-dz](https://github.com/h4x0r-dz) | h4x0r_dz | Barika | h4x0r_dz | Algeria | 832 |
+| 16 | [Midou-Mni](https://github.com/Midou-Mni) | Midou |  |  | Algeria | 798 |
 | 17 | [mssm199996](https://github.com/mssm199996) | MOULEY SLIMANE Sidi Mohamed | ESI SBA |  | Algeria, Tlemcen | 772 |
 | 18 | [Hmida71](https://github.com/Hmida71) | Hmida71 | TM71 | hmida71 | Algeria,mostaganem | 752 |
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria |  |  | Algeria | 686 |

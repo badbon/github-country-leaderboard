@@ -12,11 +12,11 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,084 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,416 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,095 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,418 |
 | 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 916 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 331 |
-| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 96 |
+| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 99 |
 | 6 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
 | 7 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 69 |
 | 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | Samoa | 44 |
@@ -38,8 +38,8 @@ Indexed users: 19
 |---:|---|---|---|---:|
 | 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 916 |
 | 2 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 362 |
-| 3 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 222 |
-| 4 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 96 |
+| 3 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 221 |
+| 4 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 99 |
 | 5 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
 | 6 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
 | 7 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 69 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [xfy777](https://github.com/xfy777) | xfy | Samoa | 2 |
 | 19 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 1 |
 
-Generated: 2026-10-08T18:59:27.094Z
+Generated: 2026-10-09T00:48:22.648Z

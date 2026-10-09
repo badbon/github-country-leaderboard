@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 1,001
+Indexed users: 1,000
 
 | Leaderboard | Link |
 |---|---|
@@ -28,8 +28,8 @@ Indexed users: 1,001
 | 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
 | 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
 | 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
-| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
-| 18 | [m7medVision](https://github.com/m7medVision) | Mohammed | Oman | 4,175 |
+| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
+| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
 | 19 | [alharithalk](https://github.com/alharithalk) | AL-Harith AL-Kindi | Muscat | 3,764 |
 | 20 | [SulaimanAlfarsi](https://github.com/SulaimanAlfarsi) | Sulaiman Al-Farsi | Oman | 3,716 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,001
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-08T18:52:25.861Z
+Generated: 2026-10-09T00:40:00.174Z

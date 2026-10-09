@@ -1,12 +1,12 @@
 # Total Contributions - São Tomé and Príncipe
 
-Generated: 2026-10-08T23:35:56.178Z
+Generated: 2026-10-09T00:48:30.769Z
 
 Users: 20
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 248 |
+| 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | BRAINSOFTSTP |  | São Tomé e Pricipe | 236 |
 | 2 | [joaopontifice](https://github.com/joaopontifice) | John |  |  | Água Grande, São Tomé e Príncipe | 156 |
 | 3 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras |  |  | São Tomé e Príncipe | 127 |
 | 4 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz |  |  | São Gabriel, São Tomé e Príncipe | 109 |

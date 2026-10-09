@@ -54,9 +54,9 @@ Indexed users: 1,483
 | 15 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
 | 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
 | 17 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad | Damascus | 720 |
-| 18 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
-| 19 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
-| 20 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 574 |
+| 18 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani | Latakia, Syria | 658 |
+| 19 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
+| 20 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,483
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-08T23:40:13.791Z
+Generated: 2026-10-09T00:54:03.046Z

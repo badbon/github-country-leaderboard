@@ -1,8 +1,8 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-08T18:40:41.771Z
+Generated: 2026-10-09T00:23:44.001Z
 
-Users: 1282
+Users: 1280
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 1282
 | 7 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1206 |
 | 8 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1172 |
 | 9 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 1077 |
-| 10 | [BayBreezy](https://github.com/BayBreezy) | Behon Baker |  | iAm_BayBreezy | Jamaica | 1069 |
-| 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase |  |  | Kingston upon Thames | 976 |
-| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 973 |
-| 13 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 942 |
-| 14 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | University of Rhode Island |  | Kingston, RI | 826 |
-| 15 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser |  |  | Kingston, Ontario | 818 |
-| 16 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 751 |
-| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 748 |
-| 18 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 745 |
-| 19 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade |  |  | Kingston upon thames | 654 |
+| 10 | [BernardUK](https://github.com/BernardUK) | Bernard Boase |  |  | Kingston upon Thames | 976 |
+| 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 973 |
+| 12 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 942 |
+| 13 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | University of Rhode Island |  | Kingston, RI | 826 |
+| 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser |  |  | Kingston, Ontario | 818 |
+| 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 751 |
+| 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 748 |
+| 17 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 745 |
+| 18 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade |  |  | Kingston upon thames | 654 |
+| 19 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott |  | hughscottjr | Kingston, Jamaica  | 638 |
 | 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious |  | lord_dubious | Kingston, ON | 617 |

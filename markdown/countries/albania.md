@@ -39,31 +39,31 @@ Indexed users: 1,191
 |---:|---|---|---|---:|
 | 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,880 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 2,012 |
-| 3 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,497 |
-| 4 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,381 |
-| 5 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
-| 6 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 1,107 |
-| 7 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
-| 8 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
-| 9 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 744 |
-| 10 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
-| 11 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
-| 12 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 664 |
-| 13 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 662 |
-| 14 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
-| 15 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
-| 16 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
-| 17 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 565 |
-| 18 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu | Tirana, Albania | 549 |
-| 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
-| 20 | [jxrgenn](https://github.com/jxrgenn) | Jurgen Halili | Tirana, Albania | 496 |
+| 3 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,521 |
+| 4 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,497 |
+| 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,381 |
+| 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
+| 7 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 1,107 |
+| 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
+| 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
+| 10 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 744 |
+| 11 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
+| 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
+| 13 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 664 |
+| 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 662 |
+| 15 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
+| 16 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
+| 17 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
+| 18 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 565 |
+| 19 | [mateokadiu](https://github.com/mateokadiu) | Mateo Kadiu | Tirana, Albania | 549 |
+| 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,746 |
-| 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,890 |
+| 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,889 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 775 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 718 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 455 |
@@ -74,13 +74,13 @@ Indexed users: 1,191
 | 10 | [meggsila](https://github.com/meggsila) | Megi Sila | Tirana, Albania | 100 |
 | 11 | [klendi](https://github.com/klendi) | Klendi Goci | Tirana, Albania | 98 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | Albania | 92 |
-| 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi | Albania | 91 |
+| 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi | Albania | 90 |
 | 14 | [rinor](https://github.com/rinor) | Rinor Hoxha | Albania, Tirane | 90 |
 | 15 | [devklajd](https://github.com/devklajd) | Klajd Belishaku | Tirana, Albania | 89 |
 | 16 | [nikolliervin](https://github.com/nikolliervin) | undefined | Tirana, Albania | 88 |
 | 17 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 85 |
 | 18 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Albania | 84 |
-| 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 80 |
+| 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-08T23:52:02.399Z
+Generated: 2026-10-09T01:03:04.258Z

@@ -1,13 +1,13 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-08T23:50:15.649Z
+Generated: 2026-10-09T01:01:16.723Z
 
-Users: 1207
+Users: 1206
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 102452 |
-| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 64567 |
+| 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 97118 |
+| 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43097 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 19837 |
 | 4 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
 | 5 | [ken00H](https://github.com/ken00H) |  | NerdMagic Games |  | Yemen | 3606 |

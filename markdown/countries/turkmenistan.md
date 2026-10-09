@@ -21,16 +21,16 @@ Indexed users: 497
 | 7 | [bayramBabagulyyev](https://github.com/bayramBabagulyyev) | Bayram Babagulyyev | Turkmenistan | 3,924 |
 | 8 | [lightRain0629](https://github.com/lightRain0629) | Umyt | Ashgabat, Turkmenistan | 3,855 |
 | 9 | [noxur05](https://github.com/noxur05) | Bagtyyar Rejepov | Ashgabat, Turkmenistan | 3,727 |
-| 10 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,348 |
-| 11 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,252 |
-| 12 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
-| 13 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
-| 14 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov | Turkmenistan, Turkmenbashi | 2,579 |
-| 15 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,479 |
-| 16 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,355 |
-| 17 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 2,261 |
-| 18 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Turkmenistan  | 2,136 |
-| 19 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,086 |
+| 10 | [kakajansh](https://github.com/kakajansh) | Kakajan SH | Ashgabat | 3,532 |
+| 11 | [Nirovitsky](https://github.com/Nirovitsky) | Ata | Turkmenistan | 3,348 |
+| 12 | [Begench2005](https://github.com/Begench2005) | Begench | Ashgabat, Turkmenistan | 3,252 |
+| 13 | [Dayanch437](https://github.com/Dayanch437) | Salarov Dayanch Kemalovich | Turkmenistan | 2,935 |
+| 14 | [bridgecoresystems-cmd](https://github.com/bridgecoresystems-cmd) | BridgeCore SYSTEMS | Turkmenistan | 2,913 |
+| 15 | [udemuradov](https://github.com/udemuradov) | Serdar Udemuradov | Turkmenistan, Turkmenbashi | 2,579 |
+| 16 | [mrxacker](https://github.com/mrxacker) | Orazow Oraz | Turkmenistan, Ashgabat | 2,479 |
+| 17 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 2,444 |
+| 18 | [RovshenTagangylyjov](https://github.com/RovshenTagangylyjov) | Rovshen Tagangylyjov | Ashgabat, Turkmenistan | 2,355 |
+| 19 | [AnonimTM1](https://github.com/AnonimTM1) | Merdan Caryyew | Turkmenistan  | 2,136 |
 | 20 | [TheSeydiCharyyev](https://github.com/TheSeydiCharyyev) | Seydi Charyyev | Mary city, Turkmenistan | 2,053 |
 
 ## Public Contributions
@@ -43,11 +43,11 @@ Indexed users: 497
 | 4 | [Nurik9292](https://github.com/Nurik9292) | Timur | Turkmenistan | 1,746 |
 | 5 | [Jasurbek99](https://github.com/Jasurbek99) | Jasurbek Ashyrbayev | Turkmenistan, Ashgabat | 1,440 |
 | 6 | [ez1z](https://github.com/ez1z) | Eziz Agamyradov | Turkmenabat, Turkmenistan | 1,029 |
-| 7 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Turkmenistan | 730 |
-| 8 | [Bahram2006](https://github.com/Bahram2006) | Bahram Myradow | Turkmenistan | 701 |
-| 9 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 699 |
-| 10 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 496 |
-| 11 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 492 |
+| 7 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 780 |
+| 8 | [selbibegiyeva1](https://github.com/selbibegiyeva1) | Unite Venture | Turkmenistan | 730 |
+| 9 | [Bahram2006](https://github.com/Bahram2006) | Bahram Myradow | Turkmenistan | 701 |
+| 10 | [babamurad](https://github.com/babamurad) | Babamurad | Turkmenistan, Ashgabat | 542 |
+| 11 | [Mekan-developer](https://github.com/Mekan-developer) | Mekan Agamyradov | Turkmenistan, Ashgabat | 496 |
 | 12 | [orazchollaev](https://github.com/orazchollaev) | Oraznyýaz Çollaýew | Turkmenistan, Ashgabat | 473 |
 | 13 | [suleymanmyradov](https://github.com/suleymanmyradov) | Suleyman Myradov | Ashgabat, Turkmenistan | 473 |
 | 14 | [northernwolf00](https://github.com/northernwolf00) | Googa Dev | Turkmenistan | 456 |
@@ -79,8 +79,8 @@ Indexed users: 497
 | 15 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov | Turkmenistan | 71 |
 | 16 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis | Ashgabat, Turkmenistan | 71 |
 | 17 | [mergenchik](https://github.com/mergenchik) | Mergen AGAYEV | Ashgabat, Turkmenistan | 67 |
-| 18 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 67 |
-| 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 66 |
+| 18 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | Ashgabat | 66 |
+| 19 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer | Turkmenistan | 66 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi | Ashgabat, Turkmenistan | 64 |
 
-Generated: 2026-10-08T23:43:47.851Z
+Generated: 2026-10-09T00:57:36.786Z

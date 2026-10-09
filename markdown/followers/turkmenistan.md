@@ -1,6 +1,6 @@
 # Followers - Turkmenistan
 
-Generated: 2026-10-08T23:43:47.851Z
+Generated: 2026-10-09T00:57:36.786Z
 
 Users: 497
 
@@ -23,6 +23,6 @@ Users: 497
 | 15 | [ArthurAtamuradov](https://github.com/ArthurAtamuradov) | Artur Atamuradov |  |  | Turkmenistan | 71 |
 | 16 | [realmeylisdev](https://github.com/realmeylisdev) | Meylis |  | m_annagurbanov | Ashgabat, Turkmenistan | 71 |
 | 17 | [mergenchik](https://github.com/mergenchik) | Mergen AGAYEV | Ykjam Aragatnashyk | real_mergenchik | Ashgabat, Turkmenistan | 67 |
-| 18 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer |  |  | Turkmenistan | 67 |
-| 19 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | IQFulfillment | marylydev | Ashgabat | 66 |
+| 18 | [MerlinEmris](https://github.com/MerlinEmris) | Merdan Chariyarov | IQFulfillment | marylydev | Ashgabat | 66 |
+| 19 | [vbauerster](https://github.com/vbauerster) | Vladimir Bauer |  |  | Turkmenistan | 66 |
 | 20 | [atageldi194229](https://github.com/atageldi194229) | Atageldi |  |  | Ashgabat, Turkmenistan | 64 |

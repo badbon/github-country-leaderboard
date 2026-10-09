@@ -1,13 +1,13 @@
 # Public Contributions - Timor-Leste
 
-Generated: 2026-10-08T23:40:37.313Z
+Generated: 2026-10-09T00:55:36.015Z
 
 Users: 77
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes |  | 0x_Akoko | Timor-Leste | 2080 |
-| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1195 |
+| 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo |  |  | Timor Leste  | 1204 |
 | 3 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | @catalpainternational  |  | Dili, Timor-Leste | 1067 |
 | 4 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | UNTL |  | Timor-Leste | 826 |
 | 5 | [ajitonelsonn](https://github.com/ajitonelsonn) | Ajito Nelson | Viettel Timor |  | Timor Leste | 408 |
@@ -23,6 +23,6 @@ Users: 77
 | 15 | [bmzashura](https://github.com/bmzashura) | Bemis Huntala |  |  | Dili, Timor Leste | 36 |
 | 16 | [axlescurial-lang](https://github.com/axlescurial-lang) | EVENSANTA |  |  | Timor-leste | 34 |
 | 17 | [pedrix-48](https://github.com/pedrix-48) | Jessua Rodrigues | UNTL |  | Dili | 26 |
-| 18 | [Dhax0311](https://github.com/Dhax0311) | Guevara Viana |  |  | Timor-Leste | 24 |
-| 19 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, East Timor | 20 |
-| 20 | [revolta12](https://github.com/revolta12) | NizioDevT |  |  | Dili, Timor-Leste | 18 |
+| 18 | [XICANO88](https://github.com/XICANO88) | XICANO |  |  | Guarda-Iliheu, East Timor | 20 |
+| 19 | [revolta12](https://github.com/revolta12) | NizioDevT |  |  | Dili, Timor-Leste | 18 |
+| 20 | [GregoriousdaConceicao](https://github.com/GregoriousdaConceicao) | Charles |  |  | Dili | 16 |

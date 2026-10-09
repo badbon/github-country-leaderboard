@@ -50,12 +50,12 @@ Indexed users: 6,900
 | 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs | Georgia | 3,620 |
 | 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 3,522 |
 | 13 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,442 |
-| 14 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
-| 15 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
-| 16 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,054 |
-| 17 | [ilobilo](https://github.com/ilobilo) | ilobilo | Georgia | 3,041 |
-| 18 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 3,036 |
-| 19 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,002 |
+| 14 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,344 |
+| 15 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 3,307 |
+| 16 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Tbilisi, Georgia | 3,085 |
+| 17 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software | 📍 Georgia | 3,054 |
+| 18 | [ilobilo](https://github.com/ilobilo) | ilobilo | Georgia | 3,041 |
+| 19 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 3,036 |
 | 20 | [Mamaduka](https://github.com/Mamaduka) | George Mamadashvili | Tbilisi, Georgia | 2,971 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 6,900
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-08T23:50:24.469Z
+Generated: 2026-10-09T01:02:26.247Z
