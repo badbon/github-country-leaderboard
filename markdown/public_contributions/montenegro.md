@@ -1,12 +1,12 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-09T15:56:05.527Z
+Generated: 2026-10-09T16:50:14.613Z
 
-Users: 896
+Users: 895
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | QuantFlow |  | Montenegro, Podgorica | 8453 |
+| 1 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | QuantFlow |  | Montenegro, Podgorica | 10563 |
 | 2 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 7160 |
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | mctl | mashkovd | Podgorica | 6339 |
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 4856 |

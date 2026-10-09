@@ -1,8 +1,8 @@
 # Followers - Qatar
 
-Generated: 2026-10-09T16:02:29.137Z
+Generated: 2026-10-09T16:55:53.899Z
 
-Users: 1074
+Users: 1073
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,10 +14,10 @@ Users: 1074
 | 6 | [vahid-nejad](https://github.com/vahid-nejad) | Vahid Nejad | freelancer | sakura_dev_web | Qatar | 478 |
 | 7 | [noumanmhd](https://github.com/noumanmhd) | Nouman Mahmood |  |  | Qatar | 359 |
 | 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Tecnicas Reunidas |  | Qatar, Doha | 204 |
-| 9 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury |  | zahid_choudhury | Qatar | 174 |
-| 10 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | UBS (Swiss Bank) |  | Doha, Qatar | 160 |
+| 9 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | UBS (Swiss Bank) |  | Doha, Qatar | 160 |
+| 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury |  | zahid_choudhury | Qatar | 156 |
 | 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 126 |
-| 12 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 123 |
+| 12 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 124 |
 | 13 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | United Systema |  | Qatar | 113 |
 | 14 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil |  | akhalil_qa | Qatar | 109 |
 | 15 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P |  |  | Doha, Qatar | 108 |

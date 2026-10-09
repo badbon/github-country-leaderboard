@@ -1,6 +1,6 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-09T16:07:01.790Z
+Generated: 2026-10-09T16:58:48.004Z
 
 Users: 10669
 
@@ -22,7 +22,7 @@ Users: 10669
 | 14 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Cognitum One |  | Petrovaradin, Serbia | 3575 |
 | 15 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | @retailzipline, @amplifr |  | Novi Sad, Serbia | 3565 |
 | 16 | [L4ki](https://github.com/L4ki) | L4ki |  |  | Serbia, Smederevska Palanka | 3563 |
-| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3347 |
+| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3336 |
 | 18 | [egv](https://github.com/egv) | Gena | Cambrian |  | Belgrade - Tel Aviv - Dubai | 3094 |
 | 19 | [maratik123](https://github.com/maratik123) |  |  |  | Serbia, Belgrade | 2991 |
 | 20 | [IgorKonovalov](https://github.com/IgorKonovalov) | Igor Konovalov | Epam |  | Serbia, Belgrade | 2901 |

@@ -46,7 +46,7 @@ Indexed users: 441
 | 7 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 1,335 |
 | 8 | [yyyyyyounger](https://github.com/yyyyyyounger) | Rookie, LIN | Macau | 1,285 |
 | 9 | [simoniong](https://github.com/simoniong) | Simon Iong | Macau | 1,249 |
-| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 919 |
+| 10 | [mrvictoru](https://github.com/mrvictoru) | Victor | Macau | 920 |
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 794 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
@@ -83,4 +83,4 @@ Indexed users: 441
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-09T15:52:31.544Z
+Generated: 2026-10-09T16:46:01.235Z

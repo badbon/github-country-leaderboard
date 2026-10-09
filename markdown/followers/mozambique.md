@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-09T15:57:13.758Z
+Generated: 2026-10-09T16:51:42.224Z
 
 Users: 1176
 
@@ -19,10 +19,10 @@ Users: 1176
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | @centauralfa34 (Centaur (Design & Code)) | KBulha | Beira, Sofala, Mozambique | 164 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | CEG Microsystems | albrtinoaugusto | Mozambique, Maputo | 162 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 150 |
-| 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete |  | ltsaiete | Matola, Maputo, Mozambique | 139 |
+| 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete |  | ltsaiete | Matola, Maputo, Mozambique | 142 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 137 |
 | 16 | [GraHms](https://github.com/GraHms) | Ismael GraHms | Vodacom Mozambique |  | Maputo | 125 |
 | 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Ologa-Sistemas informaticos |  | Maputo, Mozambique | 119 |
 | 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias |  | luisgeremias_ | Mozambique | 116 |
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe |  |  | Maputo, Mozambique | 111 |
-| 20 | [Antonio-Sitoe](https://github.com/Antonio-Sitoe) | Antonio Sitoe | First Capital Bank | AntonioSitoe533 | Mozambique | 94 |
+| 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | InoveIT, Lda | mariomthree | Maputo, Mozambique | 97 |

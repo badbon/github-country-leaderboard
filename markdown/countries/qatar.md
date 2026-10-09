@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,074
+Indexed users: 1,073
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 1,074
 | 17 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 3,898 |
 | 18 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 3,817 |
 | 19 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,727 |
-| 20 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Calicut \| Qatar | 3,487 |
+| 20 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 3,545 |
 
 ## Public Contributions
 
@@ -70,10 +70,10 @@ Indexed users: 1,074
 | 6 | [vahid-nejad](https://github.com/vahid-nejad) | Vahid Nejad | Qatar | 478 |
 | 7 | [noumanmhd](https://github.com/noumanmhd) | Nouman Mahmood | Qatar | 359 |
 | 8 | [yhunlu](https://github.com/yhunlu) | YAHYA UNLU | Qatar, Doha | 204 |
-| 9 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury | Qatar | 174 |
-| 10 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | Doha, Qatar | 160 |
+| 9 | [myofficework000](https://github.com/myofficework000) | ABHISHEK PATHAK | Doha, Qatar | 160 |
+| 10 | [zahidchoudhury](https://github.com/zahidchoudhury) | M Zahid Choudhury | Qatar | 156 |
 | 11 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 126 |
-| 12 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 123 |
+| 12 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Doha, Qatar | 124 |
 | 13 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | Qatar | 113 |
 | 14 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil | Qatar | 109 |
 | 15 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P | Doha, Qatar | 108 |
@@ -83,4 +83,4 @@ Indexed users: 1,074
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 | 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 89 |
 
-Generated: 2026-10-09T16:02:29.137Z
+Generated: 2026-10-09T16:55:53.899Z

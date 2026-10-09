@@ -42,7 +42,7 @@ Indexed users: 1,071
 | 3 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,704 |
 | 4 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,438 |
 | 5 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,998 |
-| 6 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,791 |
+| 6 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,993 |
 | 7 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,711 |
 | 8 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,611 |
 | 9 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,439 |
@@ -73,9 +73,9 @@ Indexed users: 1,071
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Panama | 67 |
 | 10 | [DottieDot](https://github.com/DottieDot) | Taran | Panama | 64 |
 | 11 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 61 |
-| 12 | [muniter](https://github.com/muniter) | Javier Lopez | Panama, Panama City | 58 |
-| 13 | [ibarria0](https://github.com/ibarria0) | Ivan Barria | Panama | 57 |
-| 14 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 57 |
+| 12 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 61 |
+| 13 | [muniter](https://github.com/muniter) | Javier Lopez | Panama, Panama City | 58 |
+| 14 | [ibarria0](https://github.com/ibarria0) | Ivan Barria | Panama | 57 |
 | 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Panama | 56 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia | Panama City, Panama | 54 |
 | 17 | [hoolymama](https://github.com/hoolymama) | Julian Mann | Panama | 51 |
@@ -83,4 +83,4 @@ Indexed users: 1,071
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-09T16:01:07.683Z
+Generated: 2026-10-09T16:55:02.542Z

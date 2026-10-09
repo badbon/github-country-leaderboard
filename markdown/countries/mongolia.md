@@ -73,9 +73,9 @@ Indexed users: 805
 | 9 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 111 |
 | 10 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar | Ulaanbaatar, Mongolia | 105 |
 | 11 | [KInGATiLLa](https://github.com/KInGATiLLa) | KInGATiLLa | Ulaanbaatar, Mongolia | 102 |
-| 12 | [je3f0o](https://github.com/je3f0o) | Батхишиг | Mongolia | 101 |
-| 13 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) | Ulaanbaatar, Mongolia | 99 |
-| 14 | [Zorig](https://github.com/Zorig) | Zorig | Ulaanbaatar, Mongolia | 97 |
+| 12 | [Zorig](https://github.com/Zorig) | Zorig | Ulaanbaatar, Mongolia | 102 |
+| 13 | [je3f0o](https://github.com/je3f0o) | Батхишиг | Mongolia | 101 |
+| 14 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) | Ulaanbaatar, Mongolia | 99 |
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | Ulaanbaatar, Mongolia | 84 |
 | 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Mongolia | 72 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 72 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-09T15:55:29.945Z
+Generated: 2026-10-09T16:50:03.530Z

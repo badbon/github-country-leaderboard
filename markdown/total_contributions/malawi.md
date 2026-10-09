@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-09T15:52:41.177Z
+Generated: 2026-10-09T16:46:10.566Z
 
 Users: 902
 
@@ -12,12 +12,12 @@ Users: 902
 | 4 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 6336 |
 | 5 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6166 |
 | 6 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 5960 |
-| 7 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 5305 |
-| 8 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5262 |
+| 7 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5666 |
+| 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 5305 |
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | M2K Developments | DevelopmentsM2k | Malawi | 4879 |
 | 10 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 4494 |
 | 11 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4086 |
-| 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga |  |  | Mzuzu, Malawi | 3963 |
+| 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga |  |  | Mzuzu, Malawi | 4063 |
 | 13 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 3913 |
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3687 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3452 |

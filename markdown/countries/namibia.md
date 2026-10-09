@@ -1,6 +1,6 @@
 # Namibia
 
-Indexed users: 475
+Indexed users: 476
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-09T15:58:28.956Z
+Generated: 2026-10-09T16:58:41.195Z

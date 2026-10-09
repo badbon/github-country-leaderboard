@@ -1,6 +1,6 @@
 # Total Contributions - Lithuania
 
-Generated: 2026-10-09T16:01:14.125Z
+Generated: 2026-10-09T16:45:51.433Z
 
 Users: 5396
 
@@ -11,14 +11,14 @@ Users: 5396
 | 3 | [Dambre](https://github.com/Dambre) | Lukas |  |  | Lithuania | 14784 |
 | 4 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas |  |  | Lithuania | 14763 |
 | 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau |  |  | Vilnius, Lithuania | 13412 |
-| 6 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 13010 |
-| 7 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 12403 |
-| 8 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 12318 |
-| 9 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas |  |  | Lithuania | 11042 |
-| 10 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus |  | ZilvinasBartkus | Vilnius, Lithuania | 10402 |
-| 11 | [Algiras](https://github.com/Algiras) | Algimantas K. | @wix  |  | Vilnius, Lithuania | 10351 |
-| 12 | [goleaf](https://github.com/goleaf) | Andrej Prus |  |  | Lithuania, Vilnius | 10091 |
-| 13 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas |  |  | Vilnius | 9691 |
+| 6 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas |  |  | Vilnius | 13013 |
+| 7 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 13010 |
+| 8 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 12403 |
+| 9 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 12318 |
+| 10 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas |  |  | Lithuania | 11042 |
+| 11 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus |  | ZilvinasBartkus | Vilnius, Lithuania | 10402 |
+| 12 | [Algiras](https://github.com/Algiras) | Algimantas K. | @wix  |  | Vilnius, Lithuania | 10351 |
+| 13 | [goleaf](https://github.com/goleaf) | Andrej Prus |  |  | Lithuania, Vilnius | 10091 |
 | 14 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Mygom.tech |  | Lithuania | 9290 |
 | 15 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko |  |  | Lithuania, Vilnius | 9135 |
 | 16 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich |  |  | Vilnius | 9129 |

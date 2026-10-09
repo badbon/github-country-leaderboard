@@ -1,6 +1,6 @@
 # Followers - Mongolia
 
-Generated: 2026-10-09T15:55:29.945Z
+Generated: 2026-10-09T16:50:03.530Z
 
 Users: 805
 
@@ -17,9 +17,9 @@ Users: 805
 | 9 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 111 |
 | 10 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar |  | jase_rock | Ulaanbaatar, Mongolia | 105 |
 | 11 | [KInGATiLLa](https://github.com/KInGATiLLa) | KInGATiLLa |  |  | Ulaanbaatar, Mongolia | 102 |
-| 12 | [je3f0o](https://github.com/je3f0o) | Батхишиг | LongBinaryCity |  | Mongolia | 101 |
-| 13 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) |  | enkheeOsiris | Ulaanbaatar, Mongolia | 99 |
-| 14 | [Zorig](https://github.com/Zorig) | Zorig |  | rizogg | Ulaanbaatar, Mongolia | 97 |
+| 12 | [Zorig](https://github.com/Zorig) | Zorig |  | rizogg | Ulaanbaatar, Mongolia | 102 |
+| 13 | [je3f0o](https://github.com/je3f0o) | Батхишиг | LongBinaryCity |  | Mongolia | 101 |
+| 14 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) |  | enkheeOsiris | Ulaanbaatar, Mongolia | 99 |
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | TomYo EdTech | erkhem_gantulga | Ulaanbaatar, Mongolia | 84 |
 | 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Databank LLC |  | Mongolia | 72 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 72 |

@@ -75,12 +75,12 @@ Indexed users: 1,176
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | Beira, Sofala, Mozambique | 164 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | Mozambique, Maputo | 162 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 150 |
-| 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete | Matola, Maputo, Mozambique | 139 |
+| 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete | Matola, Maputo, Mozambique | 142 |
 | 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 137 |
 | 16 | [GraHms](https://github.com/GraHms) | Ismael GraHms | Maputo | 125 |
 | 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Maputo, Mozambique | 119 |
 | 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias | Mozambique | 116 |
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
-| 20 | [Antonio-Sitoe](https://github.com/Antonio-Sitoe) | Antonio Sitoe | Mozambique | 94 |
+| 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-09T15:57:13.758Z
+Generated: 2026-10-09T16:51:42.224Z

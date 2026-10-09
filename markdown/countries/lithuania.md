@@ -17,14 +17,14 @@ Indexed users: 5,396
 | 3 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
 | 4 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
 | 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
-| 6 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
-| 7 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 12,403 |
-| 8 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
-| 9 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
-| 10 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
-| 11 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
-| 12 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
-| 13 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 9,691 |
+| 6 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
+| 7 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
+| 8 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 12,403 |
+| 9 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
+| 10 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
+| 11 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
+| 12 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
+| 13 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
 | 14 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 9,290 |
 | 15 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
 | 16 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
@@ -83,4 +83,4 @@ Indexed users: 5,396
 | 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-09T16:01:14.125Z
+Generated: 2026-10-09T16:45:51.433Z

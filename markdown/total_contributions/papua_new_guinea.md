@@ -1,13 +1,13 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-09T16:01:12.654Z
+Generated: 2026-10-09T16:55:08.225Z
 
 Users: 296
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 13981 |
-| 2 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10463 |
+| 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | NiuPay |  | Papua New Guinea | 14613 |
+| 2 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Waghi Tech | EKokele | Papua New Guinea | 10462 |
 | 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 8028 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4353 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3043 |

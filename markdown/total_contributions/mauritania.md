@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-09T16:28:10.170Z
+Generated: 2026-10-09T16:47:30.015Z
 
 Users: 289
 
@@ -15,12 +15,12 @@ Users: 289
 | 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3211 |
 | 8 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 2764 |
 | 9 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar |  | mohamed_hadramy | Nouakchott, Mauritania | 2341 |
-| 10 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 2274 |
-| 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 2264 |
+| 10 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 2313 |
+| 11 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 2274 |
 | 12 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 2263 |
 | 13 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim |  | medvall_mr | Nouakchott, Mauritania | 1731 |
 | 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 1724 |
-| 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 1522 |
+| 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 1523 |
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1333 |
 | 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1277 |
 | 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 968 |

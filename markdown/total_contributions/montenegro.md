@@ -1,13 +1,13 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-09T15:56:05.527Z
+Generated: 2026-10-09T16:50:14.613Z
 
-Users: 896
+Users: 895
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja |  |  | Montenegro | 13532 |
-| 2 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | QuantFlow |  | Montenegro, Podgorica | 10405 |
+| 2 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | QuantFlow |  | Montenegro, Podgorica | 13397 |
 | 3 | [zenalex](https://github.com/zenalex) | Aleksei | NSG SOFT DOO | zenalex | Budva, Montenegro | 7598 |
 | 4 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 7230 |
 | 5 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Quicknode Inc |  | Montenegro | 6639 |

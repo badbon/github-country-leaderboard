@@ -1,6 +1,6 @@
 # Myanmar
 
-Indexed users: 2,083
+Indexed users: 2,082
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,083
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-09T15:57:54.251Z
+Generated: 2026-10-09T16:51:46.075Z

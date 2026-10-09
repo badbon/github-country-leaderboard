@@ -1,8 +1,8 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-09T15:52:35.152Z
+Generated: 2026-10-09T16:46:05.203Z
 
-Users: 1912
+Users: 1911
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1912
 | 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 5058 |
 | 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 4972 |
 | 16 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala |  |  | Madagascar | 4933 |
-| 17 | [JohanaMisaela](https://github.com/JohanaMisaela) | Joanna Misaela |  |  | Antananarivo, Madagascar | 4867 |
-| 18 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 4804 |
-| 19 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Ohayo Dev&Design |  | Madagascar, Antananarivo | 4752 |
-| 20 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |
+| 17 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 4804 |
+| 18 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Ohayo Dev&Design |  | Madagascar, Antananarivo | 4752 |
+| 19 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |
+| 20 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | RKTMB | rktmb | Antananarivo, Madagascar | 4365 |

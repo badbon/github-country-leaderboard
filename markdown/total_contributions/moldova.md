@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-09T15:54:58.162Z
+Generated: 2026-10-09T16:48:49.941Z
 
 Users: 1758
 
@@ -22,7 +22,7 @@ Users: 1758
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 4546 |
 | 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
 | 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4435 |
-| 17 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |
-| 18 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4084 |
-| 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 4079 |
-| 20 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 3899 |
+| 17 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 4220 |
+| 18 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |
+| 19 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4084 |
+| 20 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 4079 |

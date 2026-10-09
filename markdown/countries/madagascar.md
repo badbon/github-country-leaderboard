@@ -1,6 +1,6 @@
 # Madagascar
 
-Indexed users: 1,912
+Indexed users: 1,911
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 1,912
 | 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 5,058 |
 | 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 4,972 |
 | 16 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala | Madagascar | 4,933 |
-| 17 | [JohanaMisaela](https://github.com/JohanaMisaela) | Joanna Misaela | Antananarivo, Madagascar | 4,867 |
-| 18 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 4,804 |
-| 19 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Madagascar, Antananarivo | 4,752 |
-| 20 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 4,568 |
+| 17 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 4,804 |
+| 18 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Madagascar, Antananarivo | 4,752 |
+| 19 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 4,568 |
+| 20 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | Antananarivo, Madagascar | 4,365 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,912
 | 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-09T15:52:35.152Z
+Generated: 2026-10-09T16:46:05.203Z

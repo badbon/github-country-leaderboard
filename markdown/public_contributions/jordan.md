@@ -1,15 +1,15 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-09T15:50:12.126Z
+Generated: 2026-10-09T16:44:12.434Z
 
-Users: 4030
+Users: 4028
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Mutasem-mk4 Security Research | mutasem_mk4 | Jordan | 18064 |
-| 2 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 9334 |
-| 3 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 6092 |
-| 4 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5341 |
+| 2 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 6092 |
+| 3 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5341 |
+| 4 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 4161 |
 | 5 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 3432 |
 | 6 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 3065 |
 | 7 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi |  |  | Jordan | 2784 |

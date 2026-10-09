@@ -1,13 +1,13 @@
 # Followers - Kuwait
 
-Generated: 2026-10-09T15:51:17.077Z
+Generated: 2026-10-09T16:44:25.189Z
 
 Users: 798
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT |  |  | Kuwait | 3187 |
-| 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB |  |  | Kuwait, Kuwait City | 446 |
+| 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB |  |  | Kuwait, Kuwait City | 445 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary |  |  | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 207 |
 | 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 150 |
@@ -21,8 +21,8 @@ Users: 798
 | 13 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 98 |
 | 14 | [Cliprz](https://github.com/Cliprz) | Yousef Ismaeil | Cliprz |  | Kuwait | 96 |
 | 15 | [mohammedgmgn](https://github.com/mohammedgmgn) | Mohammed Abdullah  |  |  | Kuwait | 92 |
-| 16 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny |  | AlanBennyX | Kuwait | 90 |
-| 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 90 |
-| 18 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 89 |
+| 16 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 91 |
+| 17 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny |  | AlanBennyX | Kuwait | 90 |
+| 18 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 90 |
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman |  |  | Kuwait | 81 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 80 |

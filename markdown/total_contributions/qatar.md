@@ -1,8 +1,8 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-09T16:02:29.137Z
+Generated: 2026-10-09T16:55:53.899Z
 
-Users: 1074
+Users: 1073
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1074
 | 17 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes |  |  | Doha | 3898 |
 | 18 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi |  |  | Doha, Qatar | 3817 |
 | 19 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3727 |
-| 20 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Blaze Technology Solutions |  | Calicut \| Qatar | 3487 |
+| 20 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 3545 |

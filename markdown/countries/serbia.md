@@ -53,7 +53,7 @@ Indexed users: 10,669
 | 14 | [proffesor-for-testing](https://github.com/proffesor-for-testing) | Dragan Spiridonov | Petrovaradin, Serbia | 3,575 |
 | 15 | [dreikanter](https://github.com/dreikanter) | Alex Musayev | Novi Sad, Serbia | 3,565 |
 | 16 | [L4ki](https://github.com/L4ki) | L4ki | Serbia, Smederevska Palanka | 3,563 |
-| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,347 |
+| 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,336 |
 | 18 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
 | 19 | [maratik123](https://github.com/maratik123) |  | Serbia, Belgrade | 2,991 |
 | 20 | [IgorKonovalov](https://github.com/IgorKonovalov) | Igor Konovalov | Serbia, Belgrade | 2,901 |
@@ -83,4 +83,4 @@ Indexed users: 10,669
 | 19 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 | 20 | [arodic](https://github.com/arodic) | Aki Rodić | Belgrade | 434 |
 
-Generated: 2026-10-09T16:07:01.790Z
+Generated: 2026-10-09T16:58:48.004Z
