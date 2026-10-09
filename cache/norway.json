@@ -7328,7 +7328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 113,
     "createdAt": "2024-08-22T10:58:45Z"
   },
   {
@@ -7340,7 +7340,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 16,
     "createdAt": "2024-12-08T00:49:32Z"
   },
   {
@@ -7364,7 +7364,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 9,
     "createdAt": "2024-07-30T18:33:24Z"
   },
   {
@@ -7374,9 +7374,9 @@
     "location": "Bergen, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 136,
     "createdAt": "2024-03-20T15:56:50Z"
   },
   {
@@ -7387,21 +7387,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2024-04-16T16:38:29Z"
-  },
-  {
-    "login": "web3Leander",
-    "name": "Leander",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190708128?s=72&u=0b64167e67555653e153e14c85d39a4f5a5d48f4&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2024-12-05T08:30:50Z"
   },
   {
     "login": "AlexanderAschehoug",
@@ -7423,8 +7411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2024-01-30T07:19:31Z"
   },
   {
@@ -7436,7 +7424,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 9,
-    "publicContributions": 646,
+    "publicContributions": 443,
     "createdAt": "2024-08-18T19:32:48Z"
   },
   {
@@ -7454,13 +7442,13 @@
   {
     "login": "jakobildstad",
     "name": "Jakob Ildstad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173191297?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/173191297?s=72&u=4583287f9ee1aa78fae3ca32652cfe8f2411c397&v=4",
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 499,
-    "publicContributions": 48,
+    "privateContributions": 685,
+    "publicContributions": 118,
     "createdAt": "2024-06-18T17:41:44Z"
   },
   {
@@ -7495,7 +7483,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-01T14:25:21Z"
   },
@@ -7507,8 +7495,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 12,
+    "privateContributions": 42,
+    "publicContributions": 15,
     "createdAt": "2024-03-06T14:00:45Z"
   },
   {

@@ -7304,7 +7304,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 16,
     "createdAt": "2018-04-10T02:52:40Z"
   },
   {
@@ -7326,21 +7326,21 @@
     "location": "Jamaica",
     "company": "SDClarkeLab",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 3,
     "createdAt": "2018-11-06T01:54:05Z"
   },
   {
     "login": "GaryRoberts",
     "name": "Gary Roberts",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/35618554?s=72&u=ba8c5c9357573031cfb26d8a87f8e7abc3e8c1f6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/35618554?s=72&u=e9f7739e6df8a01c24344cf13fb35a133dfb0c7f&v=4",
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "privateContributions": 569,
+    "publicContributions": 14,
     "createdAt": "2018-01-20T03:16:56Z"
   },
   {
@@ -7350,8 +7350,8 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 488,
+    "followers": 14,
+    "privateContributions": 600,
     "publicContributions": 0,
     "createdAt": "2018-02-22T16:57:38Z"
   },
@@ -7363,7 +7363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1176,
+    "privateContributions": 1121,
     "publicContributions": 0,
     "createdAt": "2018-01-23T23:15:31Z"
   },
@@ -7374,7 +7374,7 @@
     "location": "Kingston, Jamaica",
     "company": "Yung Higue",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 102,
     "publicContributions": 14,
     "createdAt": "2018-10-30T13:53:17Z"
@@ -7386,7 +7386,7 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-24T14:22:22Z"
@@ -7447,8 +7447,8 @@
     "company": "",
     "twitterUsername": "parchie876ix",
     "followers": 8,
-    "privateContributions": 6,
-    "publicContributions": 2,
+    "privateContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2018-02-21T19:21:22Z"
   },
   {
@@ -7495,7 +7495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 352,
+    "privateContributions": 338,
     "publicContributions": 25,
     "createdAt": "2018-11-27T22:42:12Z"
   },

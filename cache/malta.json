@@ -7399,8 +7399,8 @@
     "company": "@owenfar",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 809,
-    "publicContributions": 989,
+    "privateContributions": 1293,
+    "publicContributions": 1292,
     "createdAt": "2017-01-16T09:22:34Z"
   },
   {
@@ -7448,7 +7448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 10,
     "createdAt": "2017-09-30T11:21:14Z"
   },
   {
@@ -7486,18 +7486,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-12T19:44:48Z"
-  },
-  {
-    "login": "ABurlo",
-    "name": "Adam Burlo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25136530?s=72&u=35fed35d8fde9555259705590914143ea13d98ff&v=4",
-    "location": "Malta",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-01-15T17:17:07Z"
   },
   {
     "login": "kygr1990",
@@ -7578,7 +7566,7 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 1,
     "publicContributions": 88,
     "createdAt": "2017-05-23T12:42:44Z"
@@ -7603,7 +7591,7 @@
     "company": "",
     "twitterUsername": "cataniamatt",
     "followers": 1,
-    "privateContributions": 1727,
+    "privateContributions": 368,
     "publicContributions": 0,
     "createdAt": "2017-09-30T09:12:36Z"
   },

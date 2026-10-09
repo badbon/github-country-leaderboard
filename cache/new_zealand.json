@@ -7184,7 +7184,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 29,
     "createdAt": "2024-02-21T19:38:38Z"
   },
   {
@@ -7210,18 +7210,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-11-16T21:38:36Z"
-  },
-  {
-    "login": "arpan-kiwibank",
-    "name": "Arpan Chhetri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181793719?s=72&u=5fc95a548e30bde77c59a147b67a4b8eee2b75ec&v=4",
-    "location": "Wellington",
-    "company": "Kiwibank",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 214,
-    "publicContributions": 0,
-    "createdAt": "2024-09-16T22:31:05Z"
   },
   {
     "login": "joe-smellie",
@@ -7256,7 +7244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 76,
     "createdAt": "2024-09-29T20:46:33Z"
   },
   {
@@ -7326,7 +7314,7 @@
     "location": "Aotearoa, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-29T00:06:48Z"
@@ -7345,14 +7333,14 @@
   },
   {
     "login": "kiwijc",
-    "name": "Mina",
+    "name": "mina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/146684272?s=72&u=c362c841b9ac3a8fcf6c60fbe8cfa60a9c16a879&v=4",
     "location": "Urenui, Taranaki, Aotearoa",
     "company": "The Company",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2023-10-02T01:06:39Z"
   },
   {
@@ -7362,9 +7350,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 559,
+    "followers": 551,
     "privateContributions": 287,
-    "publicContributions": 89,
+    "publicContributions": 39,
     "createdAt": "2022-12-29T09:15:09Z"
   },
   {
@@ -7373,10 +7361,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/150320866?s=72&u=d85ed66c26a6a6324750b76976cb0146b3239f1b&v=4",
     "location": "New Zealand",
     "company": "Lincoln University (NZ)",
-    "twitterUsername": "",
-    "followers": 229,
-    "privateContributions": 5865,
-    "publicContributions": 4158,
+    "twitterUsername": "chanmeng666",
+    "followers": 238,
+    "privateContributions": 9146,
+    "publicContributions": 3356,
     "createdAt": "2023-11-09T05:46:35Z"
   },
   {
@@ -7387,8 +7375,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 19,
-    "publicContributions": 2,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-11-14T07:22:03Z"
   },
   {
@@ -7398,21 +7386,21 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 49,
-    "publicContributions": 357,
+    "followers": 35,
+    "privateContributions": 44,
+    "publicContributions": 140,
     "createdAt": "2023-11-27T02:11:10Z"
   },
   {
     "login": "Chizuui",
     "name": "Akamiya Chizui",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127862333?s=72&u=5b4ddc6da564998d33eb8bce5934c45d8feaa8f1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127862333?s=72&u=0b462fbf2541aa6a0e877aa8d53d97b0fd917887&v=4",
     "location": "New Zealand",
     "company": "@Bocchi-Group ",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 43,
-    "publicContributions": 372,
+    "followers": 35,
+    "privateContributions": 144,
+    "publicContributions": 408,
     "createdAt": "2023-03-14T13:40:43Z"
   },
   {

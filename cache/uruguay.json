@@ -67450,5 +67450,101 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-19T14:07:28Z"
+  },
+  {
+    "login": "facuduarte-dev",
+    "name": "Facundo Duarte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294270487?s=72&u=ad4aa3bc2452b36367a3a8bcbc5821c008242570&v=4",
+    "location": "Paysandú, Uruguay",
+    "company": "floud",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 122,
+    "createdAt": "2026-06-16T17:47:08Z"
+  },
+  {
+    "login": "TetraLogic",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285278887?s=72&u=6e8aa7e3e8b1cba4b109ae59159e07aabd833cde&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-16T19:36:19Z"
+  },
+  {
+    "login": "TrinityTournament",
+    "name": "Trinity",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287339572?s=72&u=e0c956a30809613c45b0524544b469e083a54586&v=4",
+    "location": "Uruguay, Montevideo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-05-24T01:55:31Z"
+  },
+  {
+    "login": "sparrowsdevs",
+    "name": "Sparrows Devs.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296307024?s=72&u=4fcc7b086ce0f0c7b43c1fe6b23e159c698b34a6&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-23T21:49:32Z"
+  },
+  {
+    "login": "jpjuancho56-cpu",
+    "name": "Juan Pablo Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286105303?s=72&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-05-19T18:16:23Z"
+  },
+  {
+    "login": "engbrunopiston",
+    "name": "Bruno Pistón",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286707998?s=72&u=a4f90582871fcc4edc2a7aa40428125a21f075a8&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-21T15:08:05Z"
+  },
+  {
+    "login": "ssouber",
+    "name": "Sebastian Souberbielle",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293867835?s=72&u=1ee86bda5c2b06f279fdc5d1f55c1a75e5361771&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "Light-It",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 188,
+    "createdAt": "2026-06-15T13:04:44Z"
+  },
+  {
+    "login": "Purple42816",
+    "name": "Maikol Costa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287529011?s=72&v=4",
+    "location": "Uruguay",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-24T21:08:50Z"
   }
 ]

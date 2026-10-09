@@ -7316,7 +7316,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 38,
     "createdAt": "2024-02-28T17:42:56Z"
   },
   {
@@ -7340,7 +7340,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 30,
     "createdAt": "2024-10-02T13:12:16Z"
   },
   {
@@ -7352,7 +7352,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 41,
     "createdAt": "2024-10-15T18:31:48Z"
   },
   {
@@ -7380,18 +7380,6 @@
     "createdAt": "2024-03-02T12:17:19Z"
   },
   {
-    "login": "andreeabogdanovici",
-    "name": "Andreea",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154078281?s=72&u=cf24cce656fcd060c24c175ecf1281ec1464eee0&v=4",
-    "location": "Bucharest, not Budapest and yes, Romania (it's in Europe)",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 247,
-    "publicContributions": 76,
-    "createdAt": "2023-12-17T16:18:19Z"
-  },
-  {
     "login": "iIiedr19",
     "name": "Ilie Daniel Rus",
     "avatarUrl": "https://avatars.githubusercontent.com/u/156423053?s=72&u=b7b721e4ff6a3614f48f854baa84fb0b94cd000a&v=4",
@@ -7412,7 +7400,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 273,
+    "publicContributions": 286,
     "createdAt": "2024-05-22T19:48:59Z"
   },
   {
@@ -7436,7 +7424,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 87,
     "createdAt": "2024-10-14T06:34:07Z"
   },
   {
@@ -7447,7 +7435,7 @@
     "company": "@laboratory-404",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 693,
+    "privateContributions": 781,
     "publicContributions": 0,
     "createdAt": "2024-02-23T07:37:01Z"
   },
@@ -7496,7 +7484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-09-16T10:04:10Z"
   },
   {
@@ -7506,7 +7494,7 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-10-19T20:50:46Z"

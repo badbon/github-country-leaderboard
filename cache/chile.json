@@ -7340,7 +7340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 271,
+    "publicContributions": 208,
     "createdAt": "2025-06-05T23:52:28Z"
   },
   {
@@ -7351,8 +7351,8 @@
     "company": "TDEI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 42,
-    "publicContributions": 1,
+    "privateContributions": 45,
+    "publicContributions": 0,
     "createdAt": "2025-10-06T20:30:08Z"
   },
   {
@@ -7364,7 +7364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 30,
     "createdAt": "2025-04-25T14:03:06Z"
   },
   {
@@ -7378,30 +7378,6 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2025-05-16T23:20:25Z"
-  },
-  {
-    "login": "YjaDev",
-    "name": "BelenLisboa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221167692?s=72&u=6e14dabcff7ffb0b958ccb55e4b4817df42db135&v=4",
-    "location": "Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-07-16T15:56:58Z"
-  },
-  {
-    "login": "YoungTomas15",
-    "name": "TomasBlanchard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/215930580?s=72&v=4",
-    "location": "Santiago, Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 89,
-    "createdAt": "2025-06-12T00:24:48Z"
   },
   {
     "login": "jbtabilo",
@@ -7435,8 +7411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 51,
-    "publicContributions": 1,
+    "privateContributions": 66,
+    "publicContributions": 0,
     "createdAt": "2025-08-24T17:48:43Z"
   },
   {
@@ -7448,7 +7424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 55,
     "createdAt": "2025-09-04T01:00:07Z"
   },
   {
@@ -7496,7 +7472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 565,
+    "publicContributions": 520,
     "createdAt": "2025-03-15T01:23:22Z"
   },
   {
@@ -7518,7 +7494,7 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2025-03-05T14:22:01Z"

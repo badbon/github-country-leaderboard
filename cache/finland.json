@@ -6980,7 +6980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 528,
+    "publicContributions": 403,
     "createdAt": "2024-11-28T06:59:29Z"
   },
   {
@@ -7027,7 +7027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 710,
+    "privateContributions": 719,
     "publicContributions": 1027,
     "createdAt": "2024-09-28T12:55:51Z"
   },
@@ -7075,7 +7075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 248,
+    "privateContributions": 379,
     "publicContributions": 0,
     "createdAt": "2024-01-31T20:26:59Z"
   },
@@ -7100,7 +7100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 92,
     "createdAt": "2024-02-12T15:07:40Z"
   },
   {
@@ -7124,20 +7124,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-10-14T09:44:36Z"
-  },
-  {
-    "login": "BarminovB",
-    "name": "Boris",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186855606?s=72&u=a6331927bce771b39eace4db01a0677406e53389&v=4",
-    "location": "Espoo, Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 101,
-    "createdAt": "2024-10-30T17:22:02Z"
   },
   {
     "login": "AleksPolishcuk",
@@ -7148,7 +7136,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 732,
+    "publicContributions": 692,
     "createdAt": "2024-12-15T20:58:17Z"
   },
   {
@@ -7160,7 +7148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 37,
-    "publicContributions": 5,
+    "publicContributions": 10,
     "createdAt": "2024-09-20T13:56:27Z"
   },
   {
@@ -7171,8 +7159,8 @@
     "company": "Breakout Labs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 115,
-    "publicContributions": 81,
+    "privateContributions": 11,
+    "publicContributions": 146,
     "createdAt": "2024-05-27T11:38:11Z"
   },
   {
@@ -7195,8 +7183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 211,
-    "publicContributions": 363,
+    "privateContributions": 225,
+    "publicContributions": 286,
     "createdAt": "2024-08-20T12:06:39Z"
   },
   {
@@ -7206,9 +7194,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 17,
     "createdAt": "2024-11-13T12:43:51Z"
   },
   {

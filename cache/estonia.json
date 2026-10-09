@@ -7327,7 +7327,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 182,
+    "privateContributions": 181,
     "publicContributions": 0,
     "createdAt": "2022-06-26T16:48:26Z"
   },
@@ -7352,7 +7352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 20,
     "createdAt": "2022-10-26T11:10:16Z"
   },
   {
@@ -7388,7 +7388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 66,
     "createdAt": "2022-03-07T14:42:49Z"
   },
   {
@@ -7411,7 +7411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 125,
+    "privateContributions": 128,
     "publicContributions": 4,
     "createdAt": "2022-10-25T13:41:00Z"
   },
@@ -7436,7 +7436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 56,
     "createdAt": "2022-02-22T10:19:07Z"
   },
   {
@@ -7483,8 +7483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
-    "publicContributions": 1,
+    "privateContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2022-07-19T10:21:05Z"
   },
   {
@@ -7495,7 +7495,7 @@
     "company": "@6fold",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1136,
+    "privateContributions": 1099,
     "publicContributions": 0,
     "createdAt": "2022-01-31T13:32:36Z"
   },
@@ -7507,8 +7507,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 273,
+    "privateContributions": 0,
+    "publicContributions": 260,
     "createdAt": "2022-05-24T17:26:06Z"
   },
   {
@@ -7522,18 +7522,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-24T06:00:11Z"
-  },
-  {
-    "login": "robostudio01",
-    "name": "N369D (Blackhat Hacker)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100990683?s=72&v=4",
-    "location": "Estonia",
-    "company": "NEXUS Inc ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2022-03-05T07:29:26Z"
   },
   {
     "login": "ErolKeflioglu",
@@ -7555,8 +7543,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 22,
-    "publicContributions": 143,
+    "privateContributions": 31,
+    "publicContributions": 138,
     "createdAt": "2022-06-04T19:30:56Z"
   },
   {

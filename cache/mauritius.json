@@ -7326,9 +7326,9 @@
     "location": "Mauritius",
     "company": "Cloudsure Limited",
     "twitterUsername": "",
-    "followers": 62,
-    "privateContributions": 1880,
-    "publicContributions": 655,
+    "followers": 65,
+    "privateContributions": 2638,
+    "publicContributions": 632,
     "createdAt": "2013-05-06T09:06:33Z"
   },
   {
@@ -7339,8 +7339,8 @@
     "company": "@lasentinelle",
     "twitterUsername": "IshSookun",
     "followers": 48,
-    "privateContributions": 986,
-    "publicContributions": 166,
+    "privateContributions": 908,
+    "publicContributions": 228,
     "createdAt": "2013-01-24T08:47:00Z"
   },
   {
@@ -7350,8 +7350,8 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 128,
+    "followers": 46,
+    "privateContributions": 132,
     "publicContributions": 0,
     "createdAt": "2013-03-16T20:29:33Z"
   },
@@ -7362,9 +7362,9 @@
     "location": "Mauritius",
     "company": "@ItsPaperboat ",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 1466,
-    "publicContributions": 0,
+    "followers": 34,
+    "privateContributions": 1966,
+    "publicContributions": 4,
     "createdAt": "2013-01-12T09:16:03Z"
   },
   {
@@ -7374,9 +7374,9 @@
     "location": "Mauritius",
     "company": "SEObserver",
     "twitterUsername": "512banque",
-    "followers": 28,
-    "privateContributions": 3836,
-    "publicContributions": 429,
+    "followers": 29,
+    "privateContributions": 6860,
+    "publicContributions": 450,
     "createdAt": "2013-03-25T09:15:28Z"
   },
   {
@@ -7399,7 +7399,7 @@
     "company": "Klanik (Mauritius) Ltd.",
     "twitterUsername": "nirvanpagooah",
     "followers": 26,
-    "privateContributions": 122,
+    "privateContributions": 120,
     "publicContributions": 0,
     "createdAt": "2013-06-06T08:49:57Z"
   },
@@ -7412,7 +7412,7 @@
     "twitterUsername": "",
     "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 81,
     "createdAt": "2013-01-31T20:22:12Z"
   },
   {
@@ -7422,7 +7422,7 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-05-26T14:00:08Z"
@@ -7434,7 +7434,7 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-11-13T05:12:23Z"
@@ -7447,8 +7447,8 @@
     "company": "@jcplaboratory ",
     "twitterUsername": "CedricPoottaren",
     "followers": 18,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "privateContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2013-02-18T19:24:28Z"
   },
   {
@@ -7459,8 +7459,8 @@
     "company": "@starkleytech",
     "twitterUsername": "mast3rdubs",
     "followers": 16,
-    "privateContributions": 2242,
-    "publicContributions": 156,
+    "privateContributions": 4599,
+    "publicContributions": 282,
     "createdAt": "2013-01-07T09:48:22Z"
   },
   {
@@ -7470,7 +7470,7 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-01T00:20:18Z"
@@ -7482,7 +7482,7 @@
     "location": "Mauritius",
     "company": "TechSphere Labs",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-10-12T15:10:25Z"
@@ -7506,7 +7506,7 @@
     "location": "Mauritius",
     "company": "Absa Group",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2013-06-13T19:06:02Z"
@@ -7514,12 +7514,12 @@
   {
     "login": "amreesh",
     "name": "Amreesh Phokeer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4986795?s=72&u=04cbd9f2d49202a600644a4ebf5898381819c34c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4986795?s=72&u=a8112a2b5d9b9943fcc188cf0c8e5ed3739ecb59&v=4",
     "location": "Mauritius",
     "company": "Internet Society",
-    "twitterUsername": "amreesh",
+    "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-11T04:38:51Z"
   },
@@ -7531,7 +7531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1281,
+    "privateContributions": 1200,
     "publicContributions": 0,
     "createdAt": "2013-02-01T12:20:42Z"
   },
@@ -7543,8 +7543,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 118,
+    "privateContributions": 173,
+    "publicContributions": 125,
     "createdAt": "2013-11-08T19:17:06Z"
   },
   {

@@ -7302,22 +7302,10 @@
     "location": "Tivat, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2015-05-15T08:08:46Z"
-  },
-  {
-    "login": "KhraksMamtsov",
-    "name": "Maxim Khramtsov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16162053?s=72&u=9a2588acdee9ae90f744c01f446acb2f0b2b9072&v=4",
-    "location": "Montenegro, Budva",
-    "company": "",
-    "twitterUsername": "khraks_mamtsov",
-    "followers": 21,
-    "privateContributions": 0,
-    "publicContributions": 33,
-    "createdAt": "2015-12-05T05:10:38Z"
   },
   {
     "login": "borko-rajkovic",
@@ -7326,9 +7314,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "borko_88",
-    "followers": 16,
-    "privateContributions": 62,
-    "publicContributions": 17,
+    "followers": 17,
+    "privateContributions": 61,
+    "publicContributions": 25,
     "createdAt": "2015-06-10T15:31:38Z"
   },
   {
@@ -7340,19 +7328,19 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 55,
     "createdAt": "2015-08-30T18:55:28Z"
   },
   {
     "login": "Deninichi",
     "name": "Denis Nichik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15854575?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15854575?s=72&u=4a135ddee17eb9cd811e1f620621af6a1a057392&v=4",
     "location": "Budva, Montenegro",
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 2926,
-    "publicContributions": 38,
+    "privateContributions": 3234,
+    "publicContributions": 31,
     "createdAt": "2015-11-15T07:58:30Z"
   },
   {
@@ -7374,9 +7362,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1392,
-    "publicContributions": 46,
+    "followers": 13,
+    "privateContributions": 2429,
+    "publicContributions": 116,
     "createdAt": "2015-05-12T16:04:57Z"
   },
   {
@@ -7386,9 +7374,9 @@
     "location": "Montenegro, Rio Grande do Sul - Brasil",
     "company": "Paypal",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 97,
     "createdAt": "2015-11-30T16:26:52Z"
   },
   {
@@ -7411,8 +7399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 250,
-    "publicContributions": 5,
+    "privateContributions": 253,
+    "publicContributions": 3,
     "createdAt": "2015-01-24T20:47:34Z"
   },
   {
@@ -7423,7 +7411,7 @@
     "company": "YouHodler",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 746,
+    "privateContributions": 1002,
     "publicContributions": 0,
     "createdAt": "2015-09-28T22:45:25Z"
   },
@@ -7434,7 +7422,7 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-01T18:42:47Z"
@@ -7448,7 +7436,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 190,
-    "publicContributions": 373,
+    "publicContributions": 445,
     "createdAt": "2015-07-31T19:39:39Z"
   },
   {
@@ -7459,8 +7447,8 @@
     "company": "EPAM Systems",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 166,
-    "publicContributions": 9,
+    "privateContributions": 126,
+    "publicContributions": 14,
     "createdAt": "2015-08-12T16:34:38Z"
   },
   {
@@ -7471,7 +7459,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 193,
+    "privateContributions": 210,
     "publicContributions": 0,
     "createdAt": "2015-11-07T14:56:44Z"
   },
@@ -7483,8 +7471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1505,
-    "publicContributions": 18,
+    "privateContributions": 2676,
+    "publicContributions": 17,
     "createdAt": "2015-04-21T17:27:10Z"
   },
   {
@@ -7495,7 +7483,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-21T17:36:59Z"
   },
@@ -7507,7 +7495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 16,
+    "privateContributions": 28,
     "publicContributions": 0,
     "createdAt": "2015-04-05T09:13:43Z"
   },
@@ -7522,18 +7510,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-04-14T18:52:55Z"
-  },
-  {
-    "login": "mixx85",
-    "name": "Mixx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16016631?s=72&u=793bbba6123d0318e2bee6e383e0f367755c93f2&v=4",
-    "location": "Montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2015-11-25T12:25:09Z"
   },
   {
     "login": "gentielezaj",

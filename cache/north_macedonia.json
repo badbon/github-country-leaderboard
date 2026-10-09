@@ -7544,7 +7544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2021-11-05T14:45:56Z"
   },
   {
@@ -7616,7 +7616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 201,
     "createdAt": "2021-09-11T10:44:16Z"
   },
   {
@@ -7628,7 +7628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 26,
     "createdAt": "2021-04-11T16:39:38Z"
   },
   {
@@ -7650,21 +7650,21 @@
     "location": "Skopje, Macedonia",
     "company": "Loka",
     "twitterUsername": "Shekswess",
-    "followers": 239,
-    "privateContributions": 3722,
-    "publicContributions": 257,
+    "followers": 241,
+    "privateContributions": 4062,
+    "publicContributions": 120,
     "createdAt": "2020-10-08T12:30:31Z"
   },
   {
     "login": "Delemangi",
     "name": "Stefan Milev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64418237?s=72&u=6fa5ba005f6409b7b649c87b06fced5c8b5a10db&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64418237?s=72&u=c7fda71aafbc63e052164739bce7900f1ea38b6b&v=4",
     "location": "Skopje, North Macedonia",
     "company": "@codechem",
     "twitterUsername": "",
-    "followers": 95,
-    "privateContributions": 35,
-    "publicContributions": 3855,
+    "followers": 96,
+    "privateContributions": 37,
+    "publicContributions": 4478,
     "createdAt": "2020-04-27T13:18:48Z"
   },
   {
