@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-09T11:11:54.167Z
+Generated: 2026-10-09T14:02:30.144Z
 
 Users: 902
 
@@ -21,8 +21,8 @@ Users: 902
 | 13 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 3913 |
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3687 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3452 |
-| 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul | @rexplore-ai | IrByamasu |  Malawi | 3435 |
-| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
-| 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
-| 19 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |
-| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3127 |
+| 16 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
+| 17 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
+| 18 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |
+| 19 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3127 |
+| 20 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | EvanieWares | EvanieWares | Malawi | 3055 |

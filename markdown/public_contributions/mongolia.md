@@ -1,6 +1,6 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-09T11:13:34.061Z
+Generated: 2026-10-09T14:04:38.059Z
 
 Users: 805
 
@@ -20,9 +20,9 @@ Users: 805
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj |  |  | mongolia | 546 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | @Fleetbase |  | Mongolia | 541 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Duke Kunshan University |  | Ulaanbaatar, Mongolia | 537 |
-| 15 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 526 |
-| 16 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 492 |
-| 17 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
-| 18 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid |  |  | mongolia | 482 |
-| 19 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 462 |
-| 20 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 453 |
+| 15 | [tulubyev](https://github.com/tulubyev) | Alexander Tulubyev | Innovative Intellectual Systems |  | Ulan-Bator, Mongolia | 536 |
+| 16 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 526 |
+| 17 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 492 |
+| 18 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
+| 19 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid |  |  | mongolia | 482 |
+| 20 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 462 |

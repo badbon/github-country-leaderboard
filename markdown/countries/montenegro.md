@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 897
+Indexed users: 896
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 897
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,741 |
 | 13 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,631 |
 | 14 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,491 |
-| 15 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,086 |
-| 16 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
-| 17 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
-| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
-| 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 769 |
-| 20 | [zakazaka95](https://github.com/zakazaka95) | Zaksans | Podgorica, Montenegro | 753 |
+| 15 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,371 |
+| 16 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,170 |
+| 17 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
+| 18 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
+| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
+| 20 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 769 |
 
 ## Followers
 
@@ -77,10 +77,10 @@ Indexed users: 897
 | 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 129 |
 | 14 | [ESA1979](https://github.com/ESA1979) | Emrah Süleyman Atalay | Montenegro | 128 |
 | 15 | [gh110919](https://github.com/gh110919) | ilia sergeev | Podgorica | 125 |
-| 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 105 |
+| 16 | [hedza06](https://github.com/hedza06) | Heril Muratovic | Montenegro, Podgorica | 108 |
 | 17 | [StevanCakic](https://github.com/StevanCakic) | Stevan Čakić | Montenegro | 101 |
 | 18 | [perisicnikola37](https://github.com/perisicnikola37) | Nikola Perišić | Podgorica, Montenegro | 100 |
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-09T11:13:43.120Z
+Generated: 2026-10-09T14:04:44.959Z

@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-09T11:36:15.097Z
+Generated: 2026-10-09T14:32:29.332Z
 
 Users: 728
 
@@ -10,7 +10,7 @@ Users: 728
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | XGENO Software | xgeno | Bahrain | 243 |
 | 3 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 120 |
 | 4 | [0xRar](https://github.com/0xRar) |  |  | fcv9_q | Bahrain | 113 |
-| 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 110 |
+| 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 111 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 106 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 104 |
 | 8 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |

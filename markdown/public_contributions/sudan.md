@@ -1,6 +1,6 @@
 # Public Contributions - Sudan
 
-Generated: 2026-10-09T11:27:09.307Z
+Generated: 2026-10-09T14:20:18.466Z
 
 Users: 729
 
@@ -24,5 +24,5 @@ Users: 729
 | 16 | [249f](https://github.com/249f) | ALi Abdellatif |  |  | Omdurman Khartoum - Sudan | 353 |
 | 17 | [ahmedelbilal](https://github.com/ahmedelbilal) | Ahmed Elbilal | @lidolink |  | Sudan, Khartoum | 350 |
 | 18 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | PashaDP | m_elhabib_dev | Sudan, Khartoum | 339 |
-| 19 | [hima890](https://github.com/hima890) | Ibrahim Hanafi Mohamed Hanafi | Freelancer | IBRAHIMHAN92051 | Sudan | 327 |
-| 20 | [Moe-Suhail](https://github.com/Moe-Suhail) | Mohammed Adil Hassan Taha |  |  | Khartoum, Sudan | 312 |
+| 19 | [aaami1ster](https://github.com/aaami1ster) | Abdalla Elsayed | MAMAW |  | Khartoum, Sudan | 328 |
+| 20 | [hima890](https://github.com/hima890) | Ibrahim Hanafi Mohamed Hanafi | Freelancer | IBRAHIMHAN92051 | Sudan | 327 |

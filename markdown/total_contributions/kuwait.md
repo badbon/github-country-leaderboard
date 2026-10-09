@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-09T11:09:29.500Z
+Generated: 2026-10-09T14:00:15.765Z
 
 Users: 798
 
@@ -16,12 +16,12 @@ Users: 798
 | 8 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 4922 |
 | 9 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 4723 |
 | 10 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 3909 |
-| 11 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 3599 |
-| 12 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3567 |
-| 13 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3493 |
-| 14 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3454 |
-| 15 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3262 |
-| 16 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3176 |
+| 11 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3623 |
+| 12 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 3599 |
+| 13 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3567 |
+| 14 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3493 |
+| 15 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3454 |
+| 16 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3262 |
 | 17 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3150 |
 | 18 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3057 |
 | 19 | [IKA-Syrian](https://github.com/IKA-Syrian) | I.K.A Syrian |  | sh_brhoom | Kuwait | 3051 |

@@ -26,10 +26,10 @@ Indexed users: 1,228
 | 12 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 6,792 |
 | 13 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 6,258 |
 | 14 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
-| 15 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 6,104 |
-| 16 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
-| 17 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
-| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
+| 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
+| 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
+| 17 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
+| 18 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 5,523 |
 | 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
 | 20 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
 
@@ -51,10 +51,10 @@ Indexed users: 1,228
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,448 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,337 |
 | 14 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 2,018 |
-| 15 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 1,853 |
-| 16 | [max-lt](https://github.com/max-lt) |  | Malta | 1,824 |
-| 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,348 |
-| 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,329 |
+| 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
+| 16 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 1,853 |
+| 17 | [max-lt](https://github.com/max-lt) |  | Malta | 1,824 |
+| 18 | [terranc](https://github.com/terranc) | Terran | Malta | 1,348 |
 | 19 | [owenfar](https://github.com/owenfar) |  | Malta | 1,292 |
 | 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,280 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,228
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-09T11:12:29.164Z
+Generated: 2026-10-09T14:03:11.413Z

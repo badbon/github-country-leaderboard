@@ -1,8 +1,8 @@
 # Public Contributions - Peru
 
-Generated: 2026-10-09T11:20:09.470Z
+Generated: 2026-10-09T14:11:53.753Z
 
-Users: 9790
+Users: 9787
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,11 +15,11 @@ Users: 9790
 | 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo |  |  | Lima | 4616 |
 | 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 4074 |
 | 9 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | @bobadilla-tech |  | Lima, Perú | 3788 |
-| 10 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez |  |  | Peru (UTC-5) | 3544 |
-| 11 | [ferxalbs](https://github.com/ferxalbs) | Fernando J. Albornoz |  | ferxalb | Lima, Peru | 3366 |
-| 12 | [avelasquezn](https://github.com/avelasquezn) | Angel Velasquez |  |  | Lima, Peru | 3207 |
-| 13 | [Enriquefft](https://github.com/Enriquefft) | Enrique Flores | Genera | enrique_fft | Lima, Perú | 3160 |
-| 14 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | @kyndryl |  | Peru | 3108 |
+| 10 | [ferxalbs](https://github.com/ferxalbs) | Fernando J. Albornoz |  | ferxalb | Lima, Peru | 3366 |
+| 11 | [avelasquezn](https://github.com/avelasquezn) | Angel Velasquez |  |  | Lima, Peru | 3207 |
+| 12 | [Enriquefft](https://github.com/Enriquefft) | Enrique Flores | Genera | enrique_fft | Lima, Perú | 3160 |
+| 13 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | @kyndryl |  | Peru | 3108 |
+| 14 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez |  |  | Peru (UTC-5) | 3044 |
 | 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | @crafter-station  | shiarauzo | Peru | 2834 |
 | 16 | [Far14z](https://github.com/Far14z) | Farid Coronel | Universidad Peruana de Ciencias Aplicadaas |  | Peru | 2790 |
 | 17 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | @Freelancer | patricio0312rev | Peru | 2762 |

@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-09T11:18:53.171Z
+Generated: 2026-10-09T14:10:20.110Z
 
 Users: 995
 
@@ -11,8 +11,8 @@ Users: 995
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan |  |  | Muscat, Oman | 11596 |
 | 4 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 11352 |
 | 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi |  |  | Muscat, OM. | 11052 |
-| 6 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 8918 |
-| 7 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 7994 |
+| 6 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 9106 |
+| 7 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 8918 |
 | 8 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6484 |
 | 9 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 6444 |
 | 10 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 5986 |

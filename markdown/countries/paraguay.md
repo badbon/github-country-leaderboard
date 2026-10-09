@@ -20,9 +20,9 @@ Indexed users: 2,021
 | 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
 | 7 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 8,226 |
 | 8 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 6,812 |
-| 9 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
-| 10 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
-| 11 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 5,261 |
+| 9 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,583 |
+| 10 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
+| 11 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
 | 12 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 4,966 |
 | 13 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
 | 14 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
@@ -78,9 +78,9 @@ Indexed users: 2,021
 | 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 148 |
 | 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 140 |
 | 16 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 134 |
-| 17 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 130 |
+| 17 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 128 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 118 |
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-09T11:19:31.747Z
+Generated: 2026-10-09T14:11:31.220Z

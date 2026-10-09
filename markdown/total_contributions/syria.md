@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-09T11:27:48.771Z
+Generated: 2026-10-09T14:21:48.515Z
 
 Users: 1482
 
@@ -8,8 +8,8 @@ Users: 1482
 |---:|---|---|---|---|---|---:|
 | 1 | [sakeraldakak](https://github.com/sakeraldakak) | Saker Al Dakak | SEZARD |  | Syria, Damascus | 8001 |
 | 2 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares |  |  | Aleppo/Syria | 5707 |
-| 3 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi |  |  | Homs, Syria | 3880 |
-| 4 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 3786 |
+| 3 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4593 |
+| 4 | [moaaz-alsyoufi](https://github.com/moaaz-alsyoufi) | Moaaz Alsyoufi |  |  | Homs, Syria | 3880 |
 | 5 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 3587 |
 | 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3178 |
 | 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2917 |

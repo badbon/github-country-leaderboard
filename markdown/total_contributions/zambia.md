@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-09T11:31:08.381Z
+Generated: 2026-10-09T14:27:18.634Z
 
 Users: 1345
 
@@ -25,4 +25,4 @@ Users: 1345
 | 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3128 |
 | 18 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
 | 19 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 2985 |
-| 20 | [pumulo-mufalali](https://github.com/pumulo-mufalali) | Pumulo Mufalali |  |  | Lusaka, Zambia | 2900 |
+| 20 | [lacksonmunthali](https://github.com/lacksonmunthali) | Lackson Munthali | Trinolux | LacksonMunthali | Lusaka, Zambia | 2929 |

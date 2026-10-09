@@ -17,8 +17,8 @@ Indexed users: 256
 | 3 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 4,100 |
 | 4 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 3,769 |
 | 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,105 |
-| 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,983 |
-| 7 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 2,965 |
+| 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,992 |
+| 7 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 2,977 |
 | 8 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 2,809 |
 | 9 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 2,289 |
 | 10 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 2,135 |
@@ -29,7 +29,7 @@ Indexed users: 256
 | 15 | [Yhonathon-Maharaj](https://github.com/Yhonathon-Maharaj) | Yhonathon Maharaj | Trinidad and Tobago | 1,363 |
 | 16 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid | Trinidad and Tobago | 1,252 |
 | 17 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | Trinidad and Tobago | 1,175 |
-| 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 1,038 |
+| 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 1,029 |
 | 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | Trinidad and Tobago | 1,008 |
 | 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Trinidad and Tobago | 998 |
 
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-09T11:29:11.236Z
+Generated: 2026-10-09T14:22:46.599Z

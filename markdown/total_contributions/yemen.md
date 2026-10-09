@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-09T11:31:02.787Z
+Generated: 2026-10-09T14:27:10.614Z
 
 Users: 1216
 
@@ -24,5 +24,5 @@ Users: 1216
 | 16 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
 | 17 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6876 |
 | 18 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6678 |
-| 19 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 5410 |
-| 20 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 5135 |
+| 19 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Step Forward YE |  | Yemen , Sanaa | 6011 |
+| 20 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 5410 |

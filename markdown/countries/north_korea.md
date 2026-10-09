@@ -19,7 +19,7 @@ Indexed users: 185
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,458 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,262 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,024 |
-| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 757 |
+| 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 766 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 666 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 565 |
@@ -38,7 +38,7 @@ Indexed users: 185
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,262 |
-| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 757 |
+| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 766 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | North Korea | 350 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-09T11:18:37.919Z
+Generated: 2026-10-09T14:09:29.248Z

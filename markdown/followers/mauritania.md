@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-09T11:12:38.693Z
+Generated: 2026-10-09T14:03:21.112Z
 
 Users: 289
 
@@ -9,7 +9,7 @@ Users: 289
 | 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 162 |
 | 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad |  |  | Nouakchott, Mauritania | 69 |
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz |  |  | Mauritania | 61 |
-| 4 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 49 |
+| 4 | [ErgeibiMed](https://github.com/ErgeibiMed) |  |  |  | Nouakchott - Mauritanie  | 50 |
 | 5 | [visola777](https://github.com/visola777) | visola777 |  |  | Mauritania | 49 |
 | 6 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Focus.mr | leloufadel | Mauritania | 48 |
 | 7 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 38 |

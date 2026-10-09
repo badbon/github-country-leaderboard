@@ -27,10 +27,10 @@ Indexed users: 2,576
 | 13 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
 | 14 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 5,727 |
 | 15 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
-| 16 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
-| 17 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | Lebanon | 5,181 |
-| 18 | [ewehbejc](https://github.com/ewehbejc) | Emilio Wehbe | Beirut, Lebanon | 5,157 |
-| 19 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,091 |
+| 16 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,352 |
+| 17 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
+| 18 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | Lebanon | 5,181 |
+| 19 | [ewehbejc](https://github.com/ewehbejc) | Emilio Wehbe | Beirut, Lebanon | 5,157 |
 | 20 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 5,050 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 2,576
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [PeterHackz](https://github.com/PeterHackz) | Peterson | Beirut, Lebanon | 103 |
 
-Generated: 2026-10-09T11:10:40.785Z
+Generated: 2026-10-09T14:01:29.124Z

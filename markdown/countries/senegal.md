@@ -12,26 +12,26 @@ Indexed users: 1,358
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 9,050 |
-| 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 8,278 |
-| 3 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,300 |
-| 4 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 7,135 |
-| 5 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,295 |
-| 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 6,066 |
-| 7 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
-| 8 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 4,987 |
-| 9 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
-| 10 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
-| 11 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
-| 12 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
-| 13 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
-| 14 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
-| 15 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
-| 16 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 3,861 |
-| 17 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 3,828 |
-| 18 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 3,776 |
-| 19 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 3,570 |
-| 20 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,507 |
+| 1 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | Dakar, Sénégal | 9,901 |
+| 2 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 9,050 |
+| 3 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang | Saint-Louis, Senegal | 8,278 |
+| 4 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,300 |
+| 5 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 7,135 |
+| 6 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,295 |
+| 7 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 6,066 |
+| 8 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
+| 9 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 4,987 |
+| 10 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
+| 11 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
+| 12 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
+| 13 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
+| 14 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
+| 15 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
+| 16 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
+| 17 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 3,861 |
+| 18 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 3,828 |
+| 19 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 3,776 |
+| 20 | [likemcode](https://github.com/likemcode) | josue Avuh | Dakar | 3,570 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,358
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 | 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 
-Generated: 2026-10-09T11:22:29.872Z
+Generated: 2026-10-09T14:14:56.754Z

@@ -27,11 +27,11 @@ Indexed users: 902
 | 13 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 3,913 |
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,687 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,452 |
-| 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul |  Malawi | 3,435 |
-| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,210 |
-| 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,137 |
-| 19 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
-| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,127 |
+| 16 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,210 |
+| 17 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,137 |
+| 18 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
+| 19 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 3,127 |
+| 20 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | Malawi | 3,055 |
 
 ## Public Contributions
 
@@ -69,7 +69,7 @@ Indexed users: 902
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 479 |
 | 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe | Blantyre, MALAWI | 367 |
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 303 |
-| 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 279 |
+| 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe | Blantyre, MALAWI | 292 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | Blantyre, Malawi | 267 |
 | 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | malawi | 237 |
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 229 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-09T11:11:54.167Z
+Generated: 2026-10-09T14:02:30.144Z

@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,790
+Indexed users: 9,787
 
 | Leaderboard | Link |
 |---|---|
@@ -46,11 +46,11 @@ Indexed users: 9,790
 | 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo | Lima | 4,616 |
 | 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 4,074 |
 | 9 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | Lima, Perú | 3,788 |
-| 10 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez | Peru (UTC-5) | 3,544 |
-| 11 | [ferxalbs](https://github.com/ferxalbs) | Fernando J. Albornoz | Lima, Peru | 3,366 |
-| 12 | [avelasquezn](https://github.com/avelasquezn) | Angel Velasquez | Lima, Peru | 3,207 |
-| 13 | [Enriquefft](https://github.com/Enriquefft) | Enrique Flores | Lima, Perú | 3,160 |
-| 14 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | Peru | 3,108 |
+| 10 | [ferxalbs](https://github.com/ferxalbs) | Fernando J. Albornoz | Lima, Peru | 3,366 |
+| 11 | [avelasquezn](https://github.com/avelasquezn) | Angel Velasquez | Lima, Peru | 3,207 |
+| 12 | [Enriquefft](https://github.com/Enriquefft) | Enrique Flores | Lima, Perú | 3,160 |
+| 13 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | Peru | 3,108 |
+| 14 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez | Peru (UTC-5) | 3,044 |
 | 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | Peru | 2,834 |
 | 16 | [Far14z](https://github.com/Far14z) | Farid Coronel | Peru | 2,790 |
 | 17 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 2,762 |
@@ -83,4 +83,4 @@ Indexed users: 9,790
 | 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 | 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-09T11:20:09.470Z
+Generated: 2026-10-09T14:11:53.753Z

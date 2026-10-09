@@ -1,6 +1,6 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-09T11:27:55.468Z
+Generated: 2026-10-09T14:21:56.859Z
 
 Users: 711
 
@@ -14,7 +14,7 @@ Users: 711
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 128 |
 | 7 | [faridun-dev](https://github.com/faridun-dev) | Faridun Fatkhullozoda |  JŅŔ FTech |  | Dushanbe, Tajikistan | 111 |
 | 8 | [Abubakr7](https://github.com/Abubakr7) | Abubakr Juraev | Oriyonbonk |  | Dushanbe Tajikistan | 101 |
-| 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | @codex-team |  | Dushanbe, Tajikistan | 85 |
+| 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | @codex-team |  | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Home |  | Tajikistan Dushanbe | 80 |
 | 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | @Rio-TJ  |  | Tajikistan | 74 |
 | 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Rio.tj |  | Tajikistan | 62 |

@@ -66,21 +66,21 @@ Indexed users: 2,210
 | 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Palestine-Ramallah-Kufor-Malik | 498 |
 | 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi | Gaza, Palestine | 488 |
 | 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 228 |
-| 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 225 |
+| 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat | Dura, Palestine  | 218 |
 | 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 216 |
 | 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos | Gaza,Palestine | 209 |
 | 8 | [SarahAbuirmeileh](https://github.com/SarahAbuirmeileh) | Sarah Abu Irmeileh | Palestine | 209 |
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji | Palestine / Gaza | 177 |
-| 10 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Jenin, Palestine | 177 |
-| 11 | [hetslop](https://github.com/hetslop) | lance | https://arab.org/click-to-help/palestine/ | 175 |
+| 10 | [hetslop](https://github.com/hetslop) | lance | https://arab.org/click-to-help/palestine/ | 175 |
+| 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Jenin, Palestine | 174 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | Jenin, Palestine | 170 |
 | 13 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 165 |
 | 14 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Ramallah,Palestine | 165 |
 | 15 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | Palestine | 152 |
 | 16 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 152 |
-| 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 151 |
-| 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 145 |
-| 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 131 |
+| 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 148 |
+| 18 | [ShakerAlshurafa](https://github.com/ShakerAlshurafa) | Shaker Yousef | Palestine | 141 |
+| 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-09T11:19:24.601Z
+Generated: 2026-10-09T14:11:15.911Z

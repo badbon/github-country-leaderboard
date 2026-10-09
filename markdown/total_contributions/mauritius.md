@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-09T11:12:41.713Z
+Generated: 2026-10-09T14:03:24.918Z
 
 Users: 715
 
@@ -14,11 +14,11 @@ Users: 715
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6184 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5555 |
 | 8 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 5507 |
-| 9 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5149 |
-| 10 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 5064 |
-| 11 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 4881 |
-| 12 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4107 |
-| 13 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 4076 |
+| 9 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 5226 |
+| 10 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5149 |
+| 11 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 5064 |
+| 12 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 4881 |
+| 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4107 |
 | 14 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 3701 |
 | 15 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | @RingierIMU  |  | Mauritius | 3696 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3695 |

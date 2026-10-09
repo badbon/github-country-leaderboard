@@ -1,8 +1,8 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-09T11:13:43.120Z
+Generated: 2026-10-09T14:04:44.959Z
 
-Users: 897
+Users: 896
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 897
 | 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1741 |
 | 13 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1631 |
 | 14 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1491 |
-| 15 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1086 |
-| 16 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 922 |
-| 17 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |
-| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 809 |
-| 19 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 769 |
-| 20 | [zakazaka95](https://github.com/zakazaka95) | Zaksans |  | ZaksansPG | Podgorica, Montenegro | 753 |
+| 15 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1371 |
+| 16 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1170 |
+| 17 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 922 |
+| 18 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |
+| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 809 |
+| 20 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović |  |  | Podgorica, Montenegro | 769 |

@@ -31,7 +31,7 @@ Indexed users: 475
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,926 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,897 |
 | 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,873 |
-| 20 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,776 |
+| 20 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,764 |
 
 ## Public Contributions
 
@@ -49,7 +49,7 @@ Indexed users: 475
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Namibia | 611 |
 | 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | Namibia | 437 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 355 |
-| 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 284 |
+| 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 289 |
 | 14 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 271 |
 | 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
 | 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 254 |
@@ -71,7 +71,7 @@ Indexed users: 475
 | 7 | [Kacelo](https://github.com/Kacelo) | Vernon Kacelo | Windhoek, Namibia | 99 |
 | 8 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 90 |
 | 9 | [Ngazetungue](https://github.com/Ngazetungue) | Ngazetungue Muheue | Windhoek, Namibia | 61 |
-| 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 58 |
+| 10 | [WilhelmK109](https://github.com/WilhelmK109) | Wilhelm Naayole Kamulunga | Windhoek, Namibia | 59 |
 | 11 | [aaron-muti-420](https://github.com/aaron-muti-420) | Aaron Markus | windhoek | 56 |
 | 12 | [douglasmasho](https://github.com/douglasmasho) | Douglas Mashonganyika | Windhoek | 51 |
 | 13 | [Amunwe-ENE](https://github.com/Amunwe-ENE) | Erastus Amunwe | Windhoek, Namibia | 45 |
@@ -83,4 +83,4 @@ Indexed users: 475
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-09T11:15:03.688Z
+Generated: 2026-10-09T14:05:44.132Z

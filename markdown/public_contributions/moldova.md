@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-09T11:13:25.575Z
+Generated: 2026-10-09T14:04:09.404Z
 
 Users: 1759
 
@@ -20,9 +20,9 @@ Users: 1759
 | 12 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
 | 13 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 1421 |
 | 14 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1385 |
-| 15 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
-| 16 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
-| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
-| 18 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 1177 |
-| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1147 |
+| 15 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1276 |
+| 16 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
+| 17 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
+| 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
+| 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 1177 |
 | 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1069 |

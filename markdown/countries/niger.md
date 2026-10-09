@@ -45,7 +45,7 @@ Indexed users: 176
 | 6 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 7 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 373 |
 | 8 | [debugAyo](https://github.com/debugAyo) | Ayomide Olajide | Niger | 253 |
-| 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | Niamey, NIGER | 225 |
+| 9 | [hmandela](https://github.com/hmandela) | Mandela HOUNGNIBO | Niamey, NIGER | 229 |
 | 10 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 205 |
 | 11 | [AbdelkaderYS](https://github.com/AbdelkaderYS) | Abdel Kader Younoussi Saley | Niamey | 194 |
 | 12 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) | Niger | 171 |
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 | 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-09T11:17:26.533Z
+Generated: 2026-10-09T14:08:43.182Z

@@ -1,6 +1,6 @@
 # Followers - Oman
 
-Generated: 2026-10-09T11:18:53.171Z
+Generated: 2026-10-09T14:10:20.110Z
 
 Users: 995
 
@@ -15,7 +15,7 @@ Users: 995
 | 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir |  | Peaceful_0 | Oman | 183 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r |  |  | Oman, Muscat | 174 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad |  | sajadevo_ | Muscat, Oman | 173 |
-| 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | commonAI |  | Muscat, Oman | 160 |
+| 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | commonAI |  | Muscat, Oman | 152 |
 | 11 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani |  |  | Salalah, Oman | 143 |
 | 12 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | opencomply.io |  | Muscat, Oman | 142 |
 | 13 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 130 |

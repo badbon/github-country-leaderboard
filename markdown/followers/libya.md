@@ -1,6 +1,6 @@
 # Followers - Libya
 
-Generated: 2026-10-09T11:10:53.749Z
+Generated: 2026-10-09T14:01:38.964Z
 
 Users: 744
 
@@ -20,7 +20,7 @@ Users: 744
 | 12 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 61 |
 | 13 | [tahaak67](https://github.com/tahaak67) | Taha Ben Ashur |  |  | Libya | 61 |
 | 14 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah |  |  | Tripoli, Libya | 60 |
-| 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Almadar Aljadid | aladdin_sonni | Tripoli - Libya | 58 |
+| 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Almadar Aljadid | aladdin_sonni | Tripoli - Libya | 59 |
 | 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar |  | ridalabbar | Benghazi, Libya | 58 |
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 57 |
 | 18 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar |  | SL0wZEr | Tripoli, Libya | 57 |

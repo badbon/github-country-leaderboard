@@ -1,21 +1,21 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-09T11:20:45.913Z
+Generated: 2026-10-09T14:12:15.625Z
 
 Users: 1075
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 2808 |
+| 1 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3727 |
 | 2 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 2003 |
 | 3 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1725 |
 | 4 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1519 |
 | 5 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1512 |
-| 6 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 1154 |
-| 7 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1082 |
-| 8 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1040 |
-| 9 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 925 |
-| 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 919 |
+| 6 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1389 |
+| 7 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 1154 |
+| 8 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1044 |
+| 9 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1040 |
+| 10 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 925 |
 | 11 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 903 |
 | 12 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 884 |
 | 13 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |

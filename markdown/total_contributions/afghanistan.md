@@ -1,6 +1,6 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-09T11:31:51.931Z
+Generated: 2026-10-09T14:29:02.529Z
 
 Users: 1500
 
@@ -10,7 +10,7 @@ Users: 1500
 | 2 | [zevrok](https://github.com/zevrok) | Zevrok |  |  | Kabul, Afghanistan | 165401 |
 | 3 | [devpro0313](https://github.com/devpro0313) | Dev pro |  |  | Afghanistan | 88717 |
 | 4 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 66706 |
-| 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 31456 |
+| 5 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 30770 |
 | 6 | [amiriqbalkhan123](https://github.com/amiriqbalkhan123) | Iqbal Nabizada | Uber Technologies Inc |  | Afghanistan | 16893 |
 | 7 | [M-Anwar-Hussaini](https://github.com/M-Anwar-Hussaini) | Anwar Hussaini | PhysicalExam | MAnwarHussaini | Kabul, Afghanistan | 14622 |
 | 8 | [zamirsed](https://github.com/zamirsed) | zamir sediqi  | @Baker |  | Afghanistan | 10292 |

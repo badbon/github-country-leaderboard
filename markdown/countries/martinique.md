@@ -23,7 +23,7 @@ Indexed users: 75
 | 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 906 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 831 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 745 |
-| 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 475 |
+| 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 477 |
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 381 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 15 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 167 |
@@ -42,7 +42,7 @@ Indexed users: 75
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 1,524 |
 | 4 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 716 |
 | 5 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 501 |
-| 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 428 |
+| 6 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 430 |
 | 7 | [esrid](https://github.com/esrid) | ADS | Martinique | 401 |
 | 8 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 372 |
 | 9 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 331 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-09T11:12:35.903Z
+Generated: 2026-10-09T14:03:17.527Z

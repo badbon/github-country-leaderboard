@@ -12,14 +12,14 @@ Indexed users: 354
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,383 |
-| 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,495 |
-| 3 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 8,392 |
+| 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,397 |
+| 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 8,728 |
+| 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,495 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,375 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 6,572 |
-| 6 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 5,829 |
+| 6 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 5,959 |
 | 7 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 5,769 |
-| 8 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,727 |
+| 8 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,712 |
 | 9 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,574 |
 | 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 5,320 |
 | 11 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,965 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-09T11:12:05.516Z
+Generated: 2026-10-09T14:02:44.094Z

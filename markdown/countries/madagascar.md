@@ -50,13 +50,13 @@ Indexed users: 1,912
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,932 |
 | 12 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,907 |
 | 13 | [RazanajoharyNyHasina](https://github.com/RazanajoharyNyHasina) | Ny Hasina | Antananarivo | 1,793 |
-| 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,623 |
-| 15 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,562 |
-| 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
-| 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
-| 18 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
-| 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,486 |
-| 20 | [AmourRamanantsiresy](https://github.com/AmourRamanantsiresy) | RAMANANTSIRESY Amour Bien Aimé | Antananarivo | 1,460 |
+| 14 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,738 |
+| 15 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,623 |
+| 16 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,562 |
+| 17 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
+| 18 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
+| 19 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
+| 20 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,486 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,912
 | 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
 
-Generated: 2026-10-09T11:11:51.355Z
+Generated: 2026-10-09T14:02:25.054Z

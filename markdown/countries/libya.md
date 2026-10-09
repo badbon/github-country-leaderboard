@@ -13,10 +13,10 @@ Indexed users: 744
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 166,147 |
-| 2 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 12,388 |
-| 3 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,316 |
-| 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 11,895 |
-| 5 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 9,697 |
+| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 13,587 |
+| 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 12,388 |
+| 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,316 |
+| 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 11,895 |
 | 6 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 9,106 |
 | 7 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 8,850 |
 | 8 | [Sokanon](https://github.com/Sokanon) | So | Libya | 8,604 |
@@ -38,7 +38,7 @@ Indexed users: 744
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,233 |
-| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 2,889 |
+| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,471 |
 | 3 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,079 |
 | 4 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,065 |
 | 5 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  | libya | 1,020 |
@@ -76,11 +76,11 @@ Indexed users: 744
 | 12 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 61 |
 | 13 | [tahaak67](https://github.com/tahaak67) | Taha Ben Ashur | Libya | 61 |
 | 14 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah | Tripoli, Libya | 60 |
-| 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Tripoli - Libya | 58 |
+| 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Tripoli - Libya | 59 |
 | 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar | Benghazi, Libya | 58 |
 | 17 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 57 |
 | 18 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar | Tripoli, Libya | 57 |
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-09T11:10:53.749Z
+Generated: 2026-10-09T14:01:38.964Z
