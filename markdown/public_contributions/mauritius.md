@@ -1,8 +1,8 @@
 # Public Contributions - Mauritius
 
-Generated: 2026-10-09T04:04:52.458Z
+Generated: 2026-10-09T07:17:26.641Z
 
-Users: 716
+Users: 715
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 716
 | 11 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | IOS Indian Ocean Software Ltd. | JKirstaetter | Mauritius | 1196 |
 | 12 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA |  |  | Trianon, Mauritius | 1009 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | @oceandba |  | Mauritius | 830 |
-| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun |  |  | Mauritius | 709 |
+| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun |  |  | Mauritius | 672 |
 | 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 655 |
 | 16 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 626 |
 | 17 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 603 |
 | 18 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | @Solution-Inc  |  | Mauritius | 600 |
 | 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan |  |  | Mauritius | 568 |
-| 20 | [JoottunAtish](https://github.com/JoottunAtish) | Atish Joottun |  |  | Mauritius | 501 |
+| 20 | [VishSeen](https://github.com/VishSeen) | Vishroy Seenarain |  | vish_seen | Port Louis, Mauritius | 527 |

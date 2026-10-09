@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-09T04:03:59.795Z
+Generated: 2026-10-09T07:16:43.283Z
 
 Users: 1231
 
@@ -15,14 +15,14 @@ Users: 1231
 | 7 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3341 |
 | 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3170 |
 | 9 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 2831 |
-| 10 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2497 |
-| 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2448 |
-| 12 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2337 |
+| 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2531 |
+| 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2497 |
+| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2448 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | BullAware | marian2js | Malta | 2337 |
 | 14 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 2018 |
 | 15 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 1853 |
 | 16 | [max-lt](https://github.com/max-lt) |  | @OpenWorkers |  | Malta | 1824 |
 | 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1348 |
 | 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1329 |
-| 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1239 |
+| 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1280 |
 | 20 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 1160 |

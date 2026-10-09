@@ -12,7 +12,7 @@ Indexed users: 108
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 21,388 |
+| 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 21,387 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa | Eswatini, Southern Africa | 1,674 |
 | 3 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 1,007 |
 | 4 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 718 |
@@ -26,7 +26,7 @@ Indexed users: 108
 | 12 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 188 |
 | 13 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson | Malkerns, Swaziland | 174 |
 | 14 | [Wandile-cyber](https://github.com/Wandile-cyber) | Wandile Ralph Dlamini | Mbabane, Swaziland | 157 |
-| 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx | Manzini, Swaziland | 129 |
+| 15 | [Theo-Banx](https://github.com/Theo-Banx) | Banx | Manzini, Swaziland | 125 |
 | 16 | [siko13-bot](https://github.com/siko13-bot) | 202101251 | Mbabane,Eswatini | 94 |
 | 17 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  Eswatini | 73 |
 | 18 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze | Swaziland | 69 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-09T03:43:48.206Z
+Generated: 2026-10-09T07:06:35.914Z

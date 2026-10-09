@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 903
+Indexed users: 901
 
 | Leaderboard | Link |
 |---|---|
@@ -42,7 +42,7 @@ Indexed users: 903
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 6,339 |
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 4,856 |
 | 5 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | Montenegro, Herzeg-Novi | 3,474 |
-| 6 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin | Podgorica, Montenegro | 3,235 |
+| 6 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin | Podgorica, Montenegro | 3,067 |
 | 7 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,258 |
 | 8 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 1,939 |
 | 9 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,794 |
@@ -83,4 +83,4 @@ Indexed users: 903
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 86 |
 
-Generated: 2026-10-09T04:05:34.275Z
+Generated: 2026-10-09T07:18:46.458Z

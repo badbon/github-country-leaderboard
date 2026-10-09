@@ -1,6 +1,6 @@
 # Romania
 
-Indexed users: 14,989
+Indexed users: 14,993
 
 | Leaderboard | Link |
 |---|---|
@@ -66,21 +66,21 @@ Indexed users: 14,989
 | 2 | [eugenp](https://github.com/eugenp) | Eugen | Bucharest, Romania | 10,890 |
 | 3 | [vladmihalcea](https://github.com/vladmihalcea) | Vlad Mihalcea | Cluj-Napoca, Romania | 4,211 |
 | 4 | [ntdevlabs](https://github.com/ntdevlabs) | NTDEV | Romania | 2,172 |
-| 5 | [valinet](https://github.com/valinet) | Valentin Radu | Bucharest, Romania | 1,592 |
-| 6 | [timcreative](https://github.com/timcreative) | Creative Tim | Bucharest | 1,579 |
-| 7 | [victorrentea](https://github.com/victorrentea) | Victor Rentea | Bucharest, Romania | 1,550 |
-| 8 | [AringoldX](https://github.com/AringoldX) | Aringold | Bacău, Rumania | 1,495 |
-| 9 | [0xcryptosei](https://github.com/0xcryptosei) | S.E.I | Romania | 1,152 |
-| 10 | [mishoo](https://github.com/mishoo) | Mihai Bazon | Iasi, Romania | 1,092 |
-| 11 | [RomulusMirauta](https://github.com/RomulusMirauta) | Romulus Mirăuță | Iasi, Romania | 1,085 |
-| 12 | [catalinpit](https://github.com/catalinpit) | Catalin Pit | Romania | 1,073 |
-| 13 | [cojocaru-david](https://github.com/cojocaru-david) | Cojocaru David | Romania | 879 |
-| 14 | [Bogdanp](https://github.com/Bogdanp) | Bogdan Popa | Cluj-Napoca, Romania | 878 |
-| 15 | [eddyb](https://github.com/eddyb) | Eduard-Mihai Burtescu | Bucharest, Romania | 752 |
-| 16 | [alin23](https://github.com/alin23) | Alin Panaitiu | Romania | 749 |
-| 17 | [lazarnarcis](https://github.com/lazarnarcis) | Narcis Lazăr | Romania | 622 |
-| 18 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
-| 19 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
-| 20 | [rennokki](https://github.com/rennokki) | rennokki | Romania | 576 |
+| 5 | [TOPDEV99999](https://github.com/TOPDEV99999) | OmniAgent | Romania | 1,697 |
+| 6 | [valinet](https://github.com/valinet) | Valentin Radu | Bucharest, Romania | 1,592 |
+| 7 | [timcreative](https://github.com/timcreative) | Creative Tim | Bucharest | 1,579 |
+| 8 | [victorrentea](https://github.com/victorrentea) | Victor Rentea | Bucharest, Romania | 1,550 |
+| 9 | [AringoldX](https://github.com/AringoldX) | Aringold | Bacău, Rumania | 1,495 |
+| 10 | [0xcryptosei](https://github.com/0xcryptosei) | S.E.I | Romania | 1,152 |
+| 11 | [mishoo](https://github.com/mishoo) | Mihai Bazon | Iasi, Romania | 1,092 |
+| 12 | [RomulusMirauta](https://github.com/RomulusMirauta) | Romulus Mirăuță | Iasi, Romania | 1,085 |
+| 13 | [catalinpit](https://github.com/catalinpit) | Catalin Pit | Romania | 1,073 |
+| 14 | [cojocaru-david](https://github.com/cojocaru-david) | Cojocaru David | Romania | 879 |
+| 15 | [Bogdanp](https://github.com/Bogdanp) | Bogdan Popa | Cluj-Napoca, Romania | 878 |
+| 16 | [eddyb](https://github.com/eddyb) | Eduard-Mihai Burtescu | Bucharest, Romania | 752 |
+| 17 | [alin23](https://github.com/alin23) | Alin Panaitiu | Romania | 749 |
+| 18 | [lazarnarcis](https://github.com/lazarnarcis) | Narcis Lazăr | Romania | 622 |
+| 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
+| 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-09T06:40:42.715Z
+Generated: 2026-10-09T07:25:40.167Z

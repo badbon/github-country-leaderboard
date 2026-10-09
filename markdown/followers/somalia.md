@@ -1,8 +1,8 @@
 # Followers - Somalia
 
-Generated: 2026-10-09T06:44:37.753Z
+Generated: 2026-10-09T07:28:26.806Z
 
-Users: 860
+Users: 858
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 860
 | 2 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 582 |
 | 3 | [Sharmasheeno](https://github.com/Sharmasheeno) | Sharmake Hassan | sharmacadenuur2017@gmail.com | formula_crazy | Somalia-Mogadishu  | 542 |
 | 4 | [ahmed-moha](https://github.com/ahmed-moha) | Ahmed Mohamed Abdulkadir | Jamhuriya Technology Solutions | Ahmeddhaqan | Mogadishu, Somalia | 344 |
-| 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz |  |  | Somalia  | 325 |
+| 5 | [MohamedAbdiaziz](https://github.com/MohamedAbdiaziz) | Mohamed Abdiaziz |  |  | Somalia  | 328 |
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Hormuud | Cabdula18395654 | Mogadishu | 283 |
 | 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somali International University |  | Somalia | 251 |
 | 8 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 242 |
@@ -21,8 +21,8 @@ Users: 860
 | 13 | [abdinasir-Tman](https://github.com/abdinasir-Tman) | Abdinasir Mursal | @dugsiiye |  | Mogadishu, Somalia | 156 |
 | 14 | [engabdullah-2024](https://github.com/engabdullah-2024) | Abdullah Ali | Co-Founder & Lead Dev Of TTMCHANGE  | enga95311 | Somalia | 129 |
 | 15 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 118 |
-| 16 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 117 |
+| 16 | [ENG-CJ](https://github.com/ENG-CJ) | Abdulrahman | Tabaarak ICT Solutions |  | Mogdisho,banadir,somalia | 113 |
 | 17 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 113 |
-| 18 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | 4Tech Solutions | hassan3ar | Somalia - Mogadishu  | 102 |
-| 19 | [alidiamond1](https://github.com/alidiamond1) | Ali Nor Abdulle | JAMHUURIYA UNIVERSITY | Alidiamond143 | Mogadishu | 94 |
-| 20 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | @sharafdin |  | Mogadishu, Somalia | 92 |
+| 18 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 108 |
+| 19 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | 4Tech Solutions | hassan3ar | Somalia - Mogadishu  | 102 |
+| 20 | [alidiamond1](https://github.com/alidiamond1) | Ali Nor Abdulle | JAMHUURIYA UNIVERSITY | Alidiamond143 | Mogadishu | 94 |

@@ -18,11 +18,11 @@ Indexed users: 185
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,424 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,298 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,936 |
-| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,897 |
+| 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,893 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,771 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,321 |
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman | Georgetown, DE | 3,119 |
-| 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 3,048 |
+| 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 3,056 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,213 |
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,614 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,576 |
@@ -38,9 +38,9 @@ Indexed users: 185
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 4,078 |
-| 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,896 |
+| 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,892 |
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,488 |
-| 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,872 |
+| 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,879 |
 | 5 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,471 |
 | 6 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,465 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-09T03:50:50.062Z
+Generated: 2026-10-09T07:10:53.334Z

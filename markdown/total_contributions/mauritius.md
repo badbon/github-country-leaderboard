@@ -1,8 +1,8 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-09T04:04:52.458Z
+Generated: 2026-10-09T07:17:26.641Z
 
-Users: 716
+Users: 715
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 716
 | 17 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Redstoneinvente Game Studio | Redstoneinvente | Mauritius | 2644 |
 | 18 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 2644 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | JohanCode LLP | JohnLrDev | Mauritius | 2558 |
-| 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Cloudsure Limited |  | Mauritius | 2535 |
+| 20 | [YourFavouriteOreo](https://github.com/YourFavouriteOreo) |  |  |  | Mauritius | 2557 |

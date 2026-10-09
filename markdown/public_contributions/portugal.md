@@ -1,8 +1,8 @@
 # Public Contributions - Portugal
 
-Generated: 2026-10-09T06:40:10.641Z
+Generated: 2026-10-09T07:25:25.646Z
 
-Users: 28470
+Users: 28468
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

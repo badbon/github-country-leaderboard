@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-09T06:44:10.559Z
+Generated: 2026-10-09T07:28:19.192Z
 
 Users: 3109
 
@@ -20,9 +20,9 @@ Users: 3109
 | 12 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2351 |
 | 13 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
 | 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2269 |
-| 15 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin |  | crtahlin | Slovenia | 2035 |
-| 16 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 2005 |
-| 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 1951 |
-| 18 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz |  |  | Slovenia | 1917 |
-| 19 | [alesurankar](https://github.com/alesurankar) | Aleš |  |  | Ljubljana | 1887 |
-| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 1865 |
+| 15 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | kubus |  | Ljubljana | 2065 |
+| 16 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin |  | crtahlin | Slovenia | 2035 |
+| 17 | [zigai](https://github.com/zigai) |  |  |  | Slovenia | 2005 |
+| 18 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 1951 |
+| 19 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz |  |  | Slovenia | 1917 |
+| 20 | [alesurankar](https://github.com/alesurankar) | Aleš |  |  | Ljubljana | 1887 |

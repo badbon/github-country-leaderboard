@@ -1,6 +1,6 @@
 # Public Contributions - Grenada
 
-Generated: 2026-10-09T03:49:11.292Z
+Generated: 2026-10-09T07:08:11.106Z
 
 Users: 38
 
@@ -10,8 +10,8 @@ Users: 38
 | 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker |  |  | Grenada | 101 |
 | 3 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | @kerrongordon | kerrongordon | Grenada | 81 |
 | 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky |  |  | Grenada, W.I | 41 |
-| 5 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard |  |  | Grenada, West Indies | 28 |
-| 6 | [trudygill](https://github.com/trudygill) | Trudy Gill |  |  | Grenada | 21 |
+| 5 | [trudygill](https://github.com/trudygill) | Trudy Gill |  |  | Grenada | 29 |
+| 6 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard |  |  | Grenada, West Indies | 28 |
 | 7 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau |  |  | Grenada  | 14 |
 | 8 | [Edixlk](https://github.com/Edixlk) | jsh.dev |  | nixc67 | Grenada | 13 |
 | 9 | [al-latte](https://github.com/al-latte) | Karlisha Roberts |  |  | Grenada | 10 |

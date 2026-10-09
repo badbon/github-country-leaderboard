@@ -15,8 +15,8 @@ Indexed users: 2,455
 | 1 | [alxnko](https://github.com/alxnko) | Alex Neko | Kyrgyzstan | 20,158 |
 | 2 | [kymuco](https://github.com/kymuco) | Ikymuco | Bishkek, Kyrgyzstan | 11,207 |
 | 3 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Kyrgyzstan, Bishkek | 10,596 |
-| 4 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
-| 5 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 9,034 |
+| 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 10,024 |
+| 5 | [bekishh](https://github.com/bekishh) | Zh Beknazar | Kyrgystan, Bishkek | 9,417 |
 | 6 | [bekturmamytov](https://github.com/bekturmamytov) | bekturmamytov | Bishkek | 9,010 |
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | Kyrgyzstan | 6,581 |
 | 8 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  | Kyrgyzstan | 6,123 |
@@ -43,7 +43,7 @@ Indexed users: 2,455
 | 4 | [Heartspell](https://github.com/Heartspell) | Amirhan Ordobaev | Kyrgyzstan | 3,248 |
 | 5 | [ibrodevs](https://github.com/ibrodevs) | Ibrokhim | Bishkek | 3,050 |
 | 6 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 2,262 |
-| 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,843 |
+| 7 | [alisher-zhuman](https://github.com/alisher-zhuman) | Alisher Zhuman | Bishkek, Kyrgyzstan  | 1,852 |
 | 8 | [fi-res](https://github.com/fi-res) | fires | kyrgyzstan | 1,651 |
 | 9 | [bvasilenko](https://github.com/bvasilenko) | Boris Vasilenko | Bishkek, Kyrgyzstan (Relocated) | 1,626 |
 | 10 | [b4631119-oss](https://github.com/b4631119-oss) | DevRoot | Bishkek | 1,336 |
@@ -80,7 +80,7 @@ Indexed users: 2,455
 | 16 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Osh \| Kyrgyzstan | 106 |
 | 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel | Bishkek | 105 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. | Bishkek, Kyrgyzstan | 104 |
-| 19 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
-| 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 101 |
+| 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
+| 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 
-Generated: 2026-10-09T03:56:52.988Z
+Generated: 2026-10-09T07:14:36.745Z

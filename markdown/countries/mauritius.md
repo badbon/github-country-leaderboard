@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 716
+Indexed users: 715
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 716
 | 17 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,644 |
 | 18 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 2,644 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 2,558 |
-| 20 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 2,535 |
+| 20 | [YourFavouriteOreo](https://github.com/YourFavouriteOreo) |  | Mauritius | 2,557 |
 
 ## Public Contributions
 
@@ -50,13 +50,13 @@ Indexed users: 716
 | 11 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 1,196 |
 | 12 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,009 |
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 830 |
-| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 709 |
+| 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 672 |
 | 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 655 |
 | 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 626 |
 | 17 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 603 |
 | 18 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 600 |
 | 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 568 |
-| 20 | [JoottunAtish](https://github.com/JoottunAtish) | Atish Joottun | Mauritius | 501 |
+| 20 | [VishSeen](https://github.com/VishSeen) | Vishroy Seenarain | Port Louis, Mauritius | 527 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 716
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 65 |
 
-Generated: 2026-10-09T04:04:52.458Z
+Generated: 2026-10-09T07:17:26.641Z

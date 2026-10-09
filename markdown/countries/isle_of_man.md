@@ -71,8 +71,8 @@ Indexed users: 155
 | 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 76 |
 | 8 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 40 |
 | 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 38 |
-| 10 | [lproven](https://github.com/lproven) | Liam Proven | Douglas, Isle of Man | 35 |
-| 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Isle of Man | 34 |
+| 10 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Isle of Man | 35 |
+| 11 | [lproven](https://github.com/lproven) | Liam Proven | Douglas, Isle of Man | 35 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | Isle of Man | 26 |
 | 13 | [chris-jamieson](https://github.com/chris-jamieson) | Chris Jamieson | Isle of Man | 24 |
 | 14 | [samuelnub](https://github.com/samuelnub) | Sam Yap | Douglas, Isle of Man | 23 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-09T03:53:00.260Z
+Generated: 2026-10-09T07:12:52.743Z

@@ -1,6 +1,6 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-09T03:56:52.988Z
+Generated: 2026-10-09T07:14:36.745Z
 
 Users: 2455
 
@@ -24,5 +24,5 @@ Users: 2455
 | 16 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Geeks  |  | Osh \| Kyrgyzstan | 106 |
 | 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel |  |  | Bishkek | 105 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. |  |  | Bishkek, Kyrgyzstan | 104 |
-| 19 | [eszdman](https://github.com/eszdman) |  |  |  | Kyrgyzstan | 102 |
-| 20 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 101 |
+| 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 103 |
+| 20 | [eszdman](https://github.com/eszdman) |  |  |  | Kyrgyzstan | 102 |

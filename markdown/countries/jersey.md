@@ -17,7 +17,7 @@ Indexed users: 139
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 10,995 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,083 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,107 |
-| 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,719 |
+| 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,701 |
 | 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,562 |
 | 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,098 |
 | 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 3,982 |
@@ -30,7 +30,7 @@ Indexed users: 139
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,628 |
 | 17 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,380 |
 | 18 | [alexleach](https://github.com/alexleach) | ALB.Leach | Jersey, UK | 1,374 |
-| 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,182 |
+| 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 1,170 |
 | 20 | [cappadona](https://github.com/cappadona) | Nick Cappadona | Jersey | 939 |
 
 ## Public Contributions
@@ -41,8 +41,8 @@ Indexed users: 139
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 745 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 713 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 654 |
-| 5 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 574 |
-| 6 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
+| 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
+| 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 568 |
 | 7 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 431 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 225 |
 | 9 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 221 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-09T03:54:54.616Z
+Generated: 2026-10-09T07:13:48.727Z

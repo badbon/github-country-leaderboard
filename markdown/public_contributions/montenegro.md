@@ -1,8 +1,8 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-09T04:05:34.275Z
+Generated: 2026-10-09T07:18:46.458Z
 
-Users: 903
+Users: 901
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 903
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | mctl | mashkovd | Podgorica | 6339 |
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 4856 |
 | 5 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | ExSol |  | Montenegro, Herzeg-Novi | 3474 |
-| 6 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 3235 |
+| 6 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin |  |  | Podgorica, Montenegro | 3067 |
 | 7 | [histrio](https://github.com/histrio) | Rinat Sabitov | CloudLinux |  | Montenegro | 2258 |
 | 8 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović |  |  | Montenegro | 1939 |
 | 9 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1794 |

@@ -1,8 +1,8 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-09T04:05:34.275Z
+Generated: 2026-10-09T07:18:46.458Z
 
-Users: 903
+Users: 901
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

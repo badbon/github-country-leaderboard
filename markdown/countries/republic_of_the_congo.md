@@ -50,8 +50,8 @@ Indexed users: 299
 | 11 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
 | 12 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
 | 13 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 317 |
-| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 258 |
-| 15 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 258 |
+| 14 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 259 |
+| 15 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 258 |
 | 16 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 225 |
 | 17 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 215 |
 | 18 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-09T06:40:31.755Z
+Generated: 2026-10-09T07:25:34.792Z

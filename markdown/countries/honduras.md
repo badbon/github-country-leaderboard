@@ -12,7 +12,7 @@ Indexed users: 1,267
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,781 |
+| 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,555 |
 | 2 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 11,748 |
 | 3 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 9,817 |
 | 4 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,116 |
@@ -38,7 +38,7 @@ Indexed users: 1,267
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [eliac-d](https://github.com/eliac-d) | Eliac | Honduras | 3,522 |
-| 2 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 3,201 |
+| 2 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 3,133 |
 | 3 | [naut21](https://github.com/naut21) | Naut | 🇭🇳 Honduras | 2,564 |
 | 4 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 2,291 |
 | 5 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 2,003 |
@@ -49,20 +49,20 @@ Indexed users: 1,267
 | 10 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,106 |
 | 11 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,061 |
 | 12 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 975 |
-| 13 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 877 |
-| 14 | [JoseAFlores777](https://github.com/JoseAFlores777) | José Izaguirre | Tegucigalpa, Honduras | 830 |
-| 15 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
-| 16 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 766 |
-| 17 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 | M.D.C, Honduras | 719 |
-| 18 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 701 |
-| 19 | [luiscf1226](https://github.com/luiscf1226) | Luis Flores | Tegucigalpa Honduras | 698 |
-| 20 | [sjperalta](https://github.com/sjperalta) | Sergio J. Peralta | Honduras | 698 |
+| 13 | [ingricardotoro](https://github.com/ingricardotoro) | MARVIN RICARDO TORO CRUZ | Tegucigalpa | 886 |
+| 14 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 877 |
+| 15 | [JoseAFlores777](https://github.com/JoseAFlores777) | José Izaguirre | Tegucigalpa, Honduras | 830 |
+| 16 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
+| 17 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 766 |
+| 18 | [SevenDogsNTwoCats](https://github.com/SevenDogsNTwoCats) | AE9 | M.D.C, Honduras | 719 |
+| 19 | [ciriast](https://github.com/ciriast) | Carlos Irias | Honduras | 701 |
+| 20 | [luiscf1226](https://github.com/luiscf1226) | Luis Flores | Tegucigalpa Honduras | 698 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 590 |
+| 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 608 |
 | 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 518 |
 | 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | Honduras | 400 |
 | 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro | San Pedro Sula, Honduras | 322 |
@@ -83,4 +83,4 @@ Indexed users: 1,267
 | 19 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 20 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 
-Generated: 2026-10-09T03:51:17.552Z
+Generated: 2026-10-09T07:11:55.229Z

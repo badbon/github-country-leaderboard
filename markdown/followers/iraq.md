@@ -1,13 +1,13 @@
 # Followers - Iraq
 
-Generated: 2026-10-09T03:52:50.311Z
+Generated: 2026-10-09T07:12:45.501Z
 
-Users: 2258
+Users: 2256
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Aziz-AXG](https://github.com/Aziz-AXG) | Aziz falah |  |  | Baghdad, Iraq | 3638 |
-| 2 | [sajjad-salam](https://github.com/sajjad-salam) | sajjad_salam | freelancer |  | iraq-baghdad | 3025 |
+| 2 | [sajjad-salam](https://github.com/sajjad-salam) | sajjad_salam | freelancer |  | iraq-baghdad | 3004 |
 | 3 | [muhammedessa](https://github.com/muhammedessa) | Muhammed Essa | Code for IRAQ |  | IRAQ | 2280 |
 | 4 | [Ha3MrX](https://github.com/Ha3MrX) | Ha3MrX | Rami |  | Iraq | 2022 |
 | 5 | [Mohammadkrd1](https://github.com/Mohammadkrd1) | Mohamed Krd | SpaceX |  | Zakho, Iraq | 1773 |
@@ -22,7 +22,7 @@ Users: 2258
 | 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | @talabatey | devmuaz | Iraq, Baghdad | 316 |
 | 15 | [arikarim](https://github.com/arikarim) | Ari Karim | KRG(Kurdistan Regional Government). | Ari_Karim_ | Kurdistan/Iraq | 301 |
 | 16 | [FardinRastakhiz](https://github.com/FardinRastakhiz) | Fardin Rastakhiz | Fardin |  | Iraq | 244 |
-| 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba |  | ShahramShakibaa | Erbil, Erbil Governorate, Iraq  | 234 |
+| 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba |  | ShahramShakibaa | Erbil, Erbil Governorate, Iraq  | 227 |
 | 18 | [HassanFulaih](https://github.com/HassanFulaih) | Hassan Fulaih | Al-Nahrain University |  | Baghdad, Iraq | 212 |
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad |  |  | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | TOP |  | IRAQ | 178 |

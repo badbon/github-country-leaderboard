@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-09T06:45:01.674Z
+Generated: 2026-10-09T07:31:20.512Z
 
 Users: 728
 
@@ -10,8 +10,8 @@ Users: 728
 | 2 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5473 |
 | 3 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein |  | TheYass1n | Sudan | 5418 |
 | 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4776 |
-| 5 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3688 |
-| 6 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | KingofMENA | Sudan | 3650 |
+| 5 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | Emad777_ | Sudan | 4690 |
+| 6 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3688 |
 | 7 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3350 |
 | 8 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3116 |
 | 9 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2979 |

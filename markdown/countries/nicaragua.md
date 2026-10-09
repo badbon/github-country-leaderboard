@@ -50,13 +50,13 @@ Indexed users: 1,401
 | 11 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,037 |
 | 12 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 930 |
 | 13 | [kraudy](https://github.com/kraudy) | Roberto Torrez | Nicaragua | 908 |
-| 14 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
-| 15 | [DlopezS98](https://github.com/DlopezS98) | Danny López | Nicaragua | 767 |
-| 16 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez | Nicaragua | 759 |
-| 17 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 757 |
-| 18 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 754 |
-| 19 | [c04o](https://github.com/c04o) | Connie Caldera | Masaya, Nicaragua | 746 |
-| 20 | [Jonafvip](https://github.com/Jonafvip) | Jona | Nicaragua | 744 |
+| 14 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 894 |
+| 15 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
+| 16 | [DlopezS98](https://github.com/DlopezS98) | Danny López | Nicaragua | 767 |
+| 17 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez | Nicaragua | 759 |
+| 18 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 757 |
+| 19 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 754 |
+| 20 | [c04o](https://github.com/c04o) | Connie Caldera | Masaya, Nicaragua | 746 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,401
 | 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
 
-Generated: 2026-10-09T06:35:21.085Z
+Generated: 2026-10-09T07:22:33.060Z

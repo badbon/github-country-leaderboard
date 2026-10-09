@@ -80,7 +80,7 @@ Indexed users: 10,663
 | 16 | [SireenWadi](https://github.com/SireenWadi) | Sireen Wadi | serbia | 508 |
 | 17 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Belgrade, Serbia | 480 |
 | 18 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
-| 19 | [arodic](https://github.com/arodic) | Aki Rodić | Belgrade | 434 |
-| 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 434 |
+| 19 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
+| 20 | [arodic](https://github.com/arodic) | Aki Rodić | Belgrade | 434 |
 
-Generated: 2026-10-09T06:43:30.650Z
+Generated: 2026-10-09T07:27:38.226Z

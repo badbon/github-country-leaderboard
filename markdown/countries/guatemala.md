@@ -29,9 +29,9 @@ Indexed users: 3,232
 | 15 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY | Guatemala | 4,918 |
 | 16 | [wmsales](https://github.com/wmsales) | Wilson Sales | Guatemala | 4,898 |
 | 17 | [mcastilloy2k](https://github.com/mcastilloy2k) | Marvin Castillo | Guatemala | 4,564 |
-| 18 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 4,501 |
-| 19 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | Guatemala | 4,474 |
-| 20 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 4,453 |
+| 18 | [javieregarciav](https://github.com/javieregarciav) | Javier García | Guatemala | 4,547 |
+| 19 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | Guatemala | 4,501 |
+| 20 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | Guatemala | 4,474 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,232
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-09T03:49:36.091Z
+Generated: 2026-10-09T07:09:33.357Z

@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-09T04:02:08.373Z
+Generated: 2026-10-09T07:15:44.391Z
 
 Users: 2203
 
@@ -21,8 +21,8 @@ Users: 2203
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 6723 |
 | 14 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6477 |
 | 15 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6197 |
-| 16 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 5976 |
-| 17 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura |  |  | Luxembourg | 5409 |
+| 16 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura |  |  | Luxembourg | 6081 |
+| 17 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 5976 |
 | 18 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | @AlterDomus |  | Luxembourg | 5348 |
 | 19 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 4946 |
 | 20 | [lukasjhan](https://github.com/lukasjhan) | Lukas.J.Han | Hopae S.A. |  | Luxembourg / Luxembourg | 4765 |

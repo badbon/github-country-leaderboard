@@ -51,12 +51,12 @@ Indexed users: 3,109
 | 12 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
 | 13 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
 | 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,269 |
-| 15 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
-| 16 | [zigai](https://github.com/zigai) |  | Slovenia | 2,005 |
-| 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
-| 18 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
-| 19 | [alesurankar](https://github.com/alesurankar) | Aleš | Ljubljana | 1,887 |
-| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 1,865 |
+| 15 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,065 |
+| 16 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
+| 17 | [zigai](https://github.com/zigai) |  | Slovenia | 2,005 |
+| 18 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
+| 19 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
+| 20 | [alesurankar](https://github.com/alesurankar) | Aleš | Ljubljana | 1,887 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,109
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-09T06:44:10.559Z
+Generated: 2026-10-09T07:28:19.192Z

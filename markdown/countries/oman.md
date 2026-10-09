@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 999
+Indexed users: 998
 
 | Leaderboard | Link |
 |---|---|
@@ -81,6 +81,6 @@ Indexed users: 999
 | 17 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 18 | [byteab](https://github.com/byteab) | Ehsan sarshar | Muscat Oman | 92 |
 | 19 | [123usef](https://github.com/123usef) | Yousif Mohamed | Muscat , Oman | 91 |
-| 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
+| 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-09T06:37:05.495Z
+Generated: 2026-10-09T07:23:16.394Z

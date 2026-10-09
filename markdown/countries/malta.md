@@ -46,16 +46,16 @@ Indexed users: 1,231
 | 7 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
 | 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,170 |
 | 9 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 2,831 |
-| 10 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,497 |
-| 11 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,448 |
-| 12 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,337 |
+| 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,531 |
+| 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,497 |
+| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,448 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,337 |
 | 14 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 2,018 |
 | 15 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 1,853 |
 | 16 | [max-lt](https://github.com/max-lt) |  | Malta | 1,824 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,348 |
 | 18 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,329 |
-| 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,239 |
+| 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,280 |
 | 20 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 1,160 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,231
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-09T04:03:59.795Z
+Generated: 2026-10-09T07:16:43.283Z

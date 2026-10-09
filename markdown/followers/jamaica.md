@@ -1,8 +1,8 @@
 # Followers - Jamaica
 
-Generated: 2026-10-09T03:54:50.437Z
+Generated: 2026-10-09T07:13:04.286Z
 
-Users: 1280
+Users: 1279
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1280
 | 14 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 106 |
 | 15 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Colautti Lab, Queen's University, Canada | ColauttiLab | Kingston, ON | 104 |
 | 16 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN |  |  | Kingston, Ontario | 102 |
-| 17 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
-| 18 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 99 |
+| 17 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Queen's University |  | Kingston, Ontario | 101 |
+| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 101 |
 | 19 | [jordanliu](https://github.com/jordanliu) | Jordan Liu |  |  | Kingston, Jamaica | 96 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | User Friendliest |  | Kingston, Ontario | 93 |

@@ -1,8 +1,8 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-09T06:35:18.145Z
+Generated: 2026-10-09T07:22:29.947Z
 
-Users: 12160
+Users: 12159
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Total Contributions - Grenada
 
-Generated: 2026-10-09T03:49:11.292Z
+Generated: 2026-10-09T07:08:11.106Z
 
 Users: 38
 
@@ -14,8 +14,8 @@ Users: 38
 | 6 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker |  |  | Grenada | 145 |
 | 7 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | @Totally-Random-Productions  |  | Grenada | 107 |
 | 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky |  |  | Grenada, W.I | 41 |
-| 9 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard |  |  | Grenada, West Indies | 28 |
-| 10 | [trudygill](https://github.com/trudygill) | Trudy Gill |  |  | Grenada | 21 |
+| 9 | [trudygill](https://github.com/trudygill) | Trudy Gill |  |  | Grenada | 31 |
+| 10 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard |  |  | Grenada, West Indies | 28 |
 | 11 | [Tisagh](https://github.com/Tisagh) | Tisagh Chase | BG Cyber Connections |  | Grenada | 15 |
 | 12 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau |  |  | Grenada  | 14 |
 | 13 | [Edixlk](https://github.com/Edixlk) | jsh.dev |  | nixc67 | Grenada | 13 |

@@ -41,9 +41,9 @@ Indexed users: 1,776
 | 2 | [junminahn](https://github.com/junminahn) | Junmin Ahn | Victoria | 4,113 |
 | 3 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,444 |
 | 4 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | Victoria Island, Lagos | 2,345 |
-| 5 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Victoria, BC | 2,270 |
-| 6 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Victoria, BC | 2,228 |
-| 7 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
+| 5 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Victoria, BC | 2,228 |
+| 6 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
+| 7 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Victoria, BC | 2,116 |
 | 8 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 1,991 |
 | 9 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Victoria, BC - Canada | 1,889 |
 | 10 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
@@ -83,4 +83,4 @@ Indexed users: 1,776
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-09T06:43:35.717Z
+Generated: 2026-10-09T07:27:43.445Z

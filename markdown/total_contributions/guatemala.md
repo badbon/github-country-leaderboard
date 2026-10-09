@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-09T03:49:36.091Z
+Generated: 2026-10-09T07:09:33.357Z
 
 Users: 3232
 
@@ -23,6 +23,6 @@ Users: 3232
 | 15 | [Mgodoyd](https://github.com/Mgodoyd) | MARIO   GODOY |  |  | Guatemala | 4918 |
 | 16 | [wmsales](https://github.com/wmsales) | Wilson Sales | Nextware Guatemala |  | Guatemala | 4898 |
 | 17 | [mcastilloy2k](https://github.com/mcastilloy2k) | Marvin Castillo |  |  | Guatemala | 4564 |
-| 18 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 4501 |
-| 19 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | ALCORE |  | Guatemala | 4474 |
-| 20 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 4453 |
+| 18 | [javieregarciav](https://github.com/javieregarciav) | Javier García |  |  | Guatemala | 4547 |
+| 19 | [damianpeaf](https://github.com/damianpeaf) | Damián Peña | FIUSAC |  | Guatemala | 4501 |
+| 20 | [anndreloopez012](https://github.com/anndreloopez012) | AndreTV | ALCORE |  | Guatemala | 4474 |

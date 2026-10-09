@@ -27,8 +27,8 @@ Indexed users: 2,203
 | 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 6,723 |
 | 14 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,477 |
 | 15 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
-| 16 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 5,976 |
-| 17 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 5,409 |
+| 16 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
+| 17 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 5,976 |
 | 18 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
 | 19 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 4,946 |
 | 20 | [lukasjhan](https://github.com/lukasjhan) | Lukas.J.Han | Luxembourg / Luxembourg | 4,765 |
@@ -83,4 +83,4 @@ Indexed users: 2,203
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-09T04:02:08.373Z
+Generated: 2026-10-09T07:15:44.391Z

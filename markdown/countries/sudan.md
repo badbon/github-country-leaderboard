@@ -16,8 +16,8 @@ Indexed users: 728
 | 2 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,473 |
 | 3 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 5,418 |
 | 4 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan | 4,776 |
-| 5 | [alsir](https://github.com/alsir) | Alsir Hamory | Khartoum , sudan | 3,688 |
-| 6 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 3,650 |
+| 5 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 4,690 |
+| 6 | [alsir](https://github.com/alsir) | Alsir Hamory | Khartoum , sudan | 3,688 |
 | 7 | [harranali](https://github.com/harranali) |  | Sudan | 3,350 |
 | 8 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | Sudan | 3,116 |
 | 9 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | Al-Thawrah H 19, Omdurman, Sudan | 2,979 |
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 46 |
 
-Generated: 2026-10-09T06:45:01.674Z
+Generated: 2026-10-09T07:31:20.512Z
