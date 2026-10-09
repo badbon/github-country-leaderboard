@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,228
+Indexed users: 1,227
 
 | Leaderboard | Link |
 |---|---|
@@ -12,19 +12,19 @@ Indexed users: 1,228
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
-| 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
-| 3 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
-| 4 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
-| 5 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
-| 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
-| 7 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
-| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
-| 9 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
-| 10 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
-| 11 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
-| 12 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
-| 13 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 6,258 |
+| 1 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 25,147 |
+| 2 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
+| 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
+| 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
+| 5 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
+| 6 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
+| 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
+| 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
+| 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
+| 10 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
+| 11 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
+| 12 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
+| 13 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
 | 14 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
 | 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
 | 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
@@ -81,6 +81,6 @@ Indexed users: 1,228
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 128 |
 | 18 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
-| 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
+| 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-09T16:47:20.563Z
+Generated: 2026-10-09T17:39:54.745Z

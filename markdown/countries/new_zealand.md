@@ -21,17 +21,17 @@ Indexed users: 12,156
 | 7 | [thatskiff33](https://github.com/thatskiff33) | Jordan | Taranaki, New Zealand | 19,954 |
 | 8 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Wellington, New Zealand | 16,399 |
 | 9 | [JavaGT](https://github.com/JavaGT) | JavaGT | New Zealand | 16,172 |
-| 10 | [abnegate](https://github.com/abnegate) | Jake Barnby | Tauranga, New Zealand | 13,796 |
-| 11 | [nz365guy](https://github.com/nz365guy) | Mark Smith | New Zealand | 12,968 |
-| 12 | [lee101](https://github.com/lee101) | Lee Penkman | New Zealand | 12,897 |
-| 13 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo | Wellington, New Zealand | 12,777 |
-| 14 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | New Zealand | 12,502 |
-| 15 | [sethyates](https://github.com/sethyates) | Seth Yates | Auckland, New Zealand | 12,300 |
-| 16 | [masaclaw](https://github.com/masaclaw) | Tom Peck | Wellington, New Zealand | 12,094 |
-| 17 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | New Zealand | 11,641 |
-| 18 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson | Wellington, NZ | 11,596 |
-| 19 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 11,579 |
-| 20 | [faceleg](https://github.com/faceleg) | Michael Robinson | Auckland, New Zealand | 11,194 |
+| 10 | [DangerDrome](https://github.com/DangerDrome) | Dirk Dangerous | New Zealand | 15,229 |
+| 11 | [abnegate](https://github.com/abnegate) | Jake Barnby | Tauranga, New Zealand | 13,796 |
+| 12 | [nz365guy](https://github.com/nz365guy) | Mark Smith | New Zealand | 12,968 |
+| 13 | [lee101](https://github.com/lee101) | Lee Penkman | New Zealand | 12,897 |
+| 14 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo | Wellington, New Zealand | 12,777 |
+| 15 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | New Zealand | 12,502 |
+| 16 | [sethyates](https://github.com/sethyates) | Seth Yates | Auckland, New Zealand | 12,300 |
+| 17 | [masaclaw](https://github.com/masaclaw) | Tom Peck | Wellington, New Zealand | 12,094 |
+| 18 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | New Zealand | 11,641 |
+| 19 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson | Wellington, NZ | 11,596 |
+| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | New Zealand | 11,579 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 12,156
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-09T16:52:07.189Z
+Generated: 2026-10-09T17:43:28.337Z

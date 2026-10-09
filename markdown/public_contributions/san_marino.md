@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-09T16:57:53.698Z
+Generated: 2026-10-09T17:50:31.978Z
 
 Users: 61
 
@@ -23,6 +23,6 @@ Users: 61
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 43 |
 | 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 39 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 37 |
-| 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | Mr. APPs s.r.l. |  | San Marino | 34 |
+| 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | Mr. APPs s.r.l. |  | San Marino | 35 |
 | 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 30 |
 | 20 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 23 |

@@ -45,7 +45,7 @@ Indexed users: 354
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 971 |
 | 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 934 |
 | 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 726 |
-| 9 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 632 |
+| 9 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 633 |
 | 10 | [crockalet](https://github.com/crockalet) |  | Maldives | 629 |
 | 11 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
 | 12 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 438 |
@@ -64,7 +64,7 @@ Indexed users: 354
 |---:|---|---|---|---:|
 | 1 | [CustomIcon](https://github.com/CustomIcon) | ポキ | Male, Maldives | 206 |
 | 2 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 168 |
-| 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa | Maldives | 131 |
+| 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa | Maldives | 130 |
 | 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | Maldives | 124 |
 | 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | Maldives | 114 |
 | 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | Maldives | 101 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-09T16:46:48.951Z
+Generated: 2026-10-09T17:39:43.284Z

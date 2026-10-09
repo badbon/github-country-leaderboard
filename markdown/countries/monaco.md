@@ -25,12 +25,12 @@ Indexed users: 143
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 724 |
 | 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 616 |
 | 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 555 |
-| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 512 |
+| 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 513 |
 | 15 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 417 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 408 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 315 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 270 |
-| 19 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 255 |
+| 19 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 256 |
 | 20 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 253 |
 
 ## Public Contributions
@@ -43,7 +43,7 @@ Indexed users: 143
 | 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 616 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 244 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
-| 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 173 |
+| 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 174 |
 | 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 168 |
 | 9 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | Nice / Monaco / Sophia Antipolis | 114 |
 | 10 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering | Monaco | 109 |
@@ -83,4 +83,4 @@ Indexed users: 143
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-09T16:49:29.226Z
+Generated: 2026-10-09T17:41:06.646Z

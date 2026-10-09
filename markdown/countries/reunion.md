@@ -25,7 +25,7 @@ Indexed users: 212
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,036 |
 | 12 | [Gabouin](https://github.com/Gabouin) | Gabouin | Reunion Island | 1,956 |
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,871 |
-| 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,789 |
+| 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,791 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,782 |
 | 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,535 |
 | 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,477 |
@@ -65,7 +65,7 @@ Indexed users: 212
 | 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde | Réunion | 158 |
 | 2 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 155 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 94 |
-| 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 68 |
+| 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 67 |
 | 5 | [GagnereGeorges](https://github.com/GagnereGeorges) | Georges Gagneré | Saint-Denis | 59 |
 | 6 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 48 |
 | 7 | [oceatoon](https://github.com/oceatoon) | Tibor Katelbach | Reunion island | 48 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-09T16:56:30.418Z
+Generated: 2026-10-09T17:49:03.317Z

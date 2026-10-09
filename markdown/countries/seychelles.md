@@ -51,10 +51,10 @@ Indexed users: 1,772
 | 12 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
 | 13 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
 | 14 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
-| 15 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,426 |
-| 16 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
-| 17 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
-| 18 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
+| 15 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
+| 16 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
+| 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
+| 18 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,315 |
 | 19 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 1,166 |
 | 20 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,098 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,772
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-09T16:58:54.318Z
+Generated: 2026-10-09T17:52:58.749Z

@@ -1,6 +1,6 @@
 # Myanmar
 
-Indexed users: 2,082
+Indexed users: 2,081
 
 | Leaderboard | Link |
 |---|---|
@@ -20,10 +20,10 @@ Indexed users: 2,082
 | 6 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM | Yangon, Myanmar | 4,827 |
 | 7 | [kokim2022](https://github.com/kokim2022) | hwaung | Yangon, Myanmar | 4,750 |
 | 8 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | Yangon, Myanmar(Burma) | 4,580 |
-| 9 | [myatminag](https://github.com/myatminag) | Myat Min Aung | Yangon, Myanmar | 4,132 |
-| 10 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Yangon, Myanmar (Burma) | 4,053 |
-| 11 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 3,913 |
-| 12 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,886 |
+| 9 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Yangon, Myanmar (Burma) | 4,053 |
+| 10 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 3,913 |
+| 11 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,886 |
+| 12 | [myatminag](https://github.com/myatminag) | Myat Min Aung | Yangon, Myanmar | 3,857 |
 | 13 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 3,664 |
 | 14 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet | Myanmar | 3,492 |
 | 15 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
@@ -83,4 +83,4 @@ Indexed users: 2,082
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-09T16:51:46.075Z
+Generated: 2026-10-09T17:42:06.404Z

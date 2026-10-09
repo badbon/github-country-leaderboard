@@ -1,6 +1,6 @@
 # Total Contributions - Peru
 
-Generated: 2026-10-09T16:55:37.066Z
+Generated: 2026-10-09T17:48:15.854Z
 
 Users: 9787
 
@@ -15,12 +15,12 @@ Users: 9787
 | 7 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 8945 |
 | 8 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo |  | marcelo_earth | Peru | 8912 |
 | 9 | [ubinatus](https://github.com/ubinatus) | JA Castro | @Sophiie-AI | ubinatus | Lima, Peru | 8825 |
-| 10 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira |  |  | Lima Duarte - MG | 8590 |
-| 11 | [cesars](https://github.com/cesars) | César Soplín Sánchez | indexante |  | Lima, Perú | 8531 |
-| 12 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña |  | diegojohnsonlud | Peru | 7995 |
-| 13 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla |  | jorgedlcpdev | Lima, Peru | 7963 |
-| 14 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Jokma Web Solutions |  | Lima, Peru | 7823 |
-| 15 | [jayvidev](https://github.com/jayvidev) | Jason Vila |  |  | Lima, Perú | 7693 |
+| 10 | [jayvidev](https://github.com/jayvidev) | Jason Vila |  |  | Lima, Perú | 8702 |
+| 11 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira |  |  | Lima Duarte - MG | 8590 |
+| 12 | [cesars](https://github.com/cesars) | César Soplín Sánchez | indexante |  | Lima, Perú | 8531 |
+| 13 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña |  | diegojohnsonlud | Peru | 7995 |
+| 14 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla |  | jorgedlcpdev | Lima, Peru | 7963 |
+| 15 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Jokma Web Solutions |  | Lima, Peru | 7823 |
 | 16 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces |  |  | Lima | 7563 |
 | 17 | [harold18m](https://github.com/harold18m) | Harold Medrano | @DropoutCapital  |  | Lima | 7456 |
 | 18 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz |  |  | Lima, Peru | 7286 |

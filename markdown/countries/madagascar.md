@@ -1,6 +1,6 @@
 # Madagascar
 
-Indexed users: 1,911
+Indexed users: 1,910
 
 | Leaderboard | Link |
 |---|---|
@@ -14,8 +14,8 @@ Indexed users: 1,911
 |---:|---|---|---|---:|
 | 1 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Madagascar | 18,350 |
 | 2 | [marioshaya](https://github.com/marioshaya) | SHAYA Mario | Antananarivo, Madagascar | 14,886 |
-| 3 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Antananarivo, Madagascar | 14,427 |
-| 4 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  | Madagascar | 12,213 |
+| 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  | Madagascar | 14,715 |
+| 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Antananarivo, Madagascar | 14,427 |
 | 5 | [EdouardoRabe](https://github.com/EdouardoRabe) |  | Madagascar | 9,932 |
 | 6 | [elsycharles](https://github.com/elsycharles) | Elsy | Madagascar | 9,158 |
 | 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala | Madagascar | 7,608 |
@@ -83,4 +83,4 @@ Indexed users: 1,911
 | 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-09T16:46:05.203Z
+Generated: 2026-10-09T17:39:32.002Z

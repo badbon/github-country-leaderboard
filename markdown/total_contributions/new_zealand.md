@@ -1,6 +1,6 @@
 # Total Contributions - New Zealand
 
-Generated: 2026-10-09T16:52:07.189Z
+Generated: 2026-10-09T17:43:28.337Z
 
 Users: 12156
 
@@ -15,14 +15,14 @@ Users: 12156
 | 7 | [thatskiff33](https://github.com/thatskiff33) | Jordan |  |  | Taranaki, New Zealand | 19954 |
 | 8 | [joshuavial](https://github.com/joshuavial) | Joshua Vial | Enspiral | joshuavial | Wellington, New Zealand | 16399 |
 | 9 | [JavaGT](https://github.com/JavaGT) | JavaGT |  |  | New Zealand | 16172 |
-| 10 | [abnegate](https://github.com/abnegate) | Jake Barnby | @appwrite |  | Tauranga, New Zealand | 13796 |
-| 11 | [nz365guy](https://github.com/nz365guy) | Mark Smith | Cloverbase | nz365guy | New Zealand | 12968 |
-| 12 | [lee101](https://github.com/lee101) | Lee Penkman | @netwrck | LeeLeePenkman | New Zealand | 12897 |
-| 13 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo |  |  | Wellington, New Zealand | 12777 |
-| 14 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | Lincoln University (NZ) | chanmeng666 | New Zealand | 12502 |
-| 15 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
-| 16 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
-| 17 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |
-| 18 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson |  |  | Wellington, NZ | 11596 |
-| 19 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |
-| 20 | [faceleg](https://github.com/faceleg) | Michael Robinson |  |  | Auckland, New Zealand | 11194 |
+| 10 | [DangerDrome](https://github.com/DangerDrome) | Dirk Dangerous | Danger Ltd |  | New Zealand | 15229 |
+| 11 | [abnegate](https://github.com/abnegate) | Jake Barnby | @appwrite |  | Tauranga, New Zealand | 13796 |
+| 12 | [nz365guy](https://github.com/nz365guy) | Mark Smith | Cloverbase | nz365guy | New Zealand | 12968 |
+| 13 | [lee101](https://github.com/lee101) | Lee Penkman | @netwrck | LeeLeePenkman | New Zealand | 12897 |
+| 14 | [b0nsun9](https://github.com/b0nsun9) | Bonsung Koo |  |  | Wellington, New Zealand | 12777 |
+| 15 | [ChanMeng666](https://github.com/ChanMeng666) | Chan Meng | Lincoln University (NZ) | chanmeng666 | New Zealand | 12502 |
+| 16 | [sethyates](https://github.com/sethyates) | Seth Yates |  |  | Auckland, New Zealand | 12300 |
+| 17 | [masaclaw](https://github.com/masaclaw) | Tom Peck |  |  | Wellington, New Zealand | 12094 |
+| 18 | [JonathanGiles](https://github.com/JonathanGiles) | Jonathan Giles | @Microsoft | JonathanGiles | New Zealand | 11641 |
+| 19 | [benhunterandrewrobertson](https://github.com/benhunterandrewrobertson) | Ben Robertson |  |  | Wellington, NZ | 11596 |
+| 20 | [passcod](https://github.com/passcod) | Félix Saparelli | @BeyondEssential |  | New Zealand | 11579 |

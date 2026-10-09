@@ -21,12 +21,12 @@ Indexed users: 9,787
 | 7 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 8,945 |
 | 8 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo | Peru | 8,912 |
 | 9 | [ubinatus](https://github.com/ubinatus) | JA Castro | Lima, Peru | 8,825 |
-| 10 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira | Lima Duarte - MG | 8,590 |
-| 11 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,531 |
-| 12 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña | Peru | 7,995 |
-| 13 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla | Lima, Peru | 7,963 |
-| 14 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Lima, Peru | 7,823 |
-| 15 | [jayvidev](https://github.com/jayvidev) | Jason Vila | Lima, Perú | 7,693 |
+| 10 | [jayvidev](https://github.com/jayvidev) | Jason Vila | Lima, Perú | 8,702 |
+| 11 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira | Lima Duarte - MG | 8,590 |
+| 12 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,531 |
+| 13 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña | Peru | 7,995 |
+| 14 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla | Lima, Peru | 7,963 |
+| 15 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Lima, Peru | 7,823 |
 | 16 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces | Lima | 7,563 |
 | 17 | [harold18m](https://github.com/harold18m) | Harold Medrano | Lima | 7,456 |
 | 18 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz | Lima, Peru | 7,286 |
@@ -83,4 +83,4 @@ Indexed users: 9,787
 | 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 | 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-09T16:55:37.066Z
+Generated: 2026-10-09T17:48:15.854Z

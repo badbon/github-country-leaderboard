@@ -78,9 +78,9 @@ Indexed users: 743
 | 14 | [KhawlahElshah](https://github.com/KhawlahElshah) | Khawlah Elshah | Tripoli, Libya | 60 |
 | 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Tripoli - Libya | 59 |
 | 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar | Benghazi, Libya | 58 |
-| 17 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 57 |
-| 18 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar | Tripoli, Libya | 57 |
+| 17 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar | Tripoli, Libya | 58 |
+| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 57 |
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-09T16:45:07.369Z
+Generated: 2026-10-09T17:38:50.965Z

@@ -13,7 +13,7 @@ Indexed users: 160
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 7,374 |
-| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,341 |
+| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,346 |
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 2,238 |
 | 4 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 2,030 |
 | 5 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 1,944 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-09T16:45:00.737Z
+Generated: 2026-10-09T17:38:26.207Z

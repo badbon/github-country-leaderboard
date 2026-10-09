@@ -1,8 +1,8 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-09T16:56:38.636Z
+Generated: 2026-10-09T17:49:30.041Z
 
-Users: 3520
+Users: 3518
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 3520
 | 9 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Foxx Kennels |  | Kigali Rwanda | 4003 |
 | 10 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Founder @ Témporia | Arnaud_Kennedy | Kigali, Rwanda | 3872 |
 | 11 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES |  |  | KIGALI- RWANDA | 3820 |
-| 12 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2662 |
-| 13 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 2586 |
-| 14 | [uparfait](https://github.com/uparfait) | Parfait Uwayo |  |  | Rwanda | 2563 |
-| 15 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
-| 16 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | DondouAbiyi |  | Kigali, Rwanda | 2403 |
-| 17 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |
-| 18 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick |  |  | Kigali, Rwanda | 2302 |
-| 19 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | NexaTech Rwanda | K_AI_Lucky | Kigali | 2299 |
-| 20 | [ishimweghislain](https://github.com/ishimweghislain) | ISHIMWE GHISLAIN | Fullstack Software Ltd |  | Rwanda, Kamonyi | 2205 |
+| 12 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | University of Rwanda College of Science and Technology |  | Kigali, Rwanda | 2665 |
+| 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2662 |
+| 14 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 2586 |
+| 15 | [uparfait](https://github.com/uparfait) | Parfait Uwayo |  |  | Rwanda | 2563 |
+| 16 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
+| 17 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | DondouAbiyi |  | Kigali, Rwanda | 2403 |
+| 18 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |
+| 19 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick |  |  | Kigali, Rwanda | 2302 |
+| 20 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | NexaTech Rwanda | K_AI_Lucky | Kigali | 2299 |

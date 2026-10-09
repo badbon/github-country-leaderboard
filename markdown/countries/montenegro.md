@@ -12,16 +12,16 @@ Indexed users: 895
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 13,532 |
-| 2 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,397 |
-| 3 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 7,598 |
+| 1 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 14,740 |
+| 2 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 13,532 |
+| 3 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,397 |
 | 4 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,230 |
 | 5 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,639 |
-| 6 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 6,339 |
-| 7 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,223 |
-| 8 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,098 |
-| 9 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,796 |
-| 10 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 5,795 |
+| 6 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,487 |
+| 7 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 6,339 |
+| 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,223 |
+| 9 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,098 |
+| 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,796 |
 | 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,734 |
 | 12 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,675 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,409 |
@@ -29,9 +29,9 @@ Indexed users: 895
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 4,940 |
 | 16 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Montenegro | 4,714 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,614 |
-| 18 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,390 |
-| 19 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 4,225 |
-| 20 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,101 |
+| 18 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,424 |
+| 19 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,390 |
+| 20 | [SashaRX](https://github.com/SashaRX) | SashaRX | Montenegro | 4,225 |
 
 ## Public Contributions
 
@@ -44,19 +44,19 @@ Indexed users: 895
 | 5 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 4,251 |
 | 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | Montenegro, Herzeg-Novi | 3,474 |
 | 7 | [AndreyTalanin0x00](https://github.com/AndreyTalanin0x00) | Andrey Talanin | Podgorica, Montenegro | 3,067 |
-| 8 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,258 |
-| 9 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 1,939 |
-| 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,794 |
-| 11 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Montenegro | 1,753 |
-| 12 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,741 |
-| 13 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,631 |
-| 14 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,491 |
-| 15 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,371 |
-| 16 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,170 |
-| 17 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
-| 18 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
-| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
-| 20 | [mihailo-obradovic](https://github.com/mihailo-obradovic) | Mihailo Obradović | Podgorica, Montenegro | 769 |
+| 8 | [lacodda](https://github.com/lacodda) | Kirill Lakhtachev | Montenegro | 2,436 |
+| 9 | [histrio](https://github.com/histrio) | Rinat Sabitov | Montenegro | 2,258 |
+| 10 | [Fooftilly](https://github.com/Fooftilly) | Nikola Perović | Montenegro | 1,939 |
+| 11 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 1,794 |
+| 12 | [potapenko](https://github.com/potapenko) | Eugene Potapenko | Montenegro | 1,753 |
+| 13 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Montenegro | 1,741 |
+| 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev | Budva, Montenegro | 1,631 |
+| 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,491 |
+| 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,371 |
+| 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,170 |
+| 18 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko | Podgorica | 922 |
+| 19 | [Amper](https://github.com/Amper) | Alexander Marshalov | Montenegro | 919 |
+| 20 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 809 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 895
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-09T16:50:14.613Z
+Generated: 2026-10-09T17:41:22.253Z

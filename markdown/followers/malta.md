@@ -1,8 +1,8 @@
 # Followers - Malta
 
-Generated: 2026-10-09T16:47:20.563Z
+Generated: 2026-10-09T17:39:54.745Z
 
-Users: 1228
+Users: 1227
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1228
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | 4A Games | dalerank1 | Sliema, Malta | 128 |
 | 18 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | @daphne-foundation  | mcaruanagalizia | Malta | 126 |
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Freelance |  | Malta | 125 |
-| 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | CM2.Network |  | Malta | 117 |
+| 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | CM2.Network |  | Malta | 118 |

@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-09T16:46:10.566Z
+Generated: 2026-10-09T17:39:35.706Z
 
 Users: 902
 
@@ -9,10 +9,10 @@ Users: 902
 | 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | INFI-TECH(Infinity Technologies Inc) @InfinityCodeMw  as well as @talents2germany |  | Malawi | 13606 |
 | 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 10745 |
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7351 |
-| 4 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 6336 |
-| 5 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6166 |
-| 6 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 5960 |
-| 7 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5666 |
+| 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6166 |
+| 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 5960 |
+| 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5666 |
+| 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 5585 |
 | 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 5305 |
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | M2K Developments | DevelopmentsM2k | Malawi | 4879 |
 | 10 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 4494 |

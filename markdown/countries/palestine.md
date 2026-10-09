@@ -54,9 +54,9 @@ Indexed users: 2,209
 | 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 759 |
 | 17 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Palestine | 717 |
-| 18 | [IbrahimHYazouri](https://github.com/IbrahimHYazouri) | Ibrahim H. Al-Yazouri | Palestine, Gaza | 709 |
+| 18 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti | Palestine | 710 |
 | 19 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Palestine | 699 |
-| 20 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti | Palestine | 652 |
+| 20 | [yaseen-asaliya](https://github.com/yaseen-asaliya) | Yaseen Asaliya | Palestine | 643 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,209
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-09T16:54:56.115Z
+Generated: 2026-10-09T17:47:15.867Z

@@ -17,12 +17,12 @@ Indexed users: 996
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 14,734 |
 | 4 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 11,352 |
 | 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
-| 6 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
-| 7 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
-| 8 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,290 |
-| 9 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
-| 10 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
-| 11 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 5,288 |
+| 6 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,554 |
+| 7 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
+| 8 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
+| 9 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,290 |
+| 10 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
+| 11 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
 | 12 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
 | 13 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
 | 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
@@ -54,9 +54,9 @@ Indexed users: 996
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
 | 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,322 |
-| 18 | [abdofallah](https://github.com/abdofallah) | Abdullah bin Amir | Muscat, Oman | 1,173 |
-| 19 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,097 |
-| 20 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,075 |
+| 18 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,097 |
+| 19 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,075 |
+| 20 | [MrSn001](https://github.com/MrSn001) | Shaheen Hussain Al-Amri | Oman, Muscat, Galah | 1,054 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 996
 | 19 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-09T17:30:20.485Z
+Generated: 2026-10-09T17:46:34.823Z

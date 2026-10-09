@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-09T16:50:03.530Z
+Generated: 2026-10-09T17:41:10.964Z
 
 Users: 805
 
@@ -9,20 +9,20 @@ Users: 805
 | 1 | [themuuln](https://github.com/themuuln) | themuuln |  |  | Ulaanbaatar, Mongolia | 562250 |
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya |  | ByamB4 | Ulaanbaatar, Mongolia | 100092 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 17493 |
-| 4 | [baysaa006](https://github.com/baysaa006) |  |  |  | Mongolia. | 10944 |
-| 5 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 10093 |
-| 6 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs |  |  | Ulan Bator | 9523 |
-| 7 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 8839 |
-| 8 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | @gege-mn |  | Ulaanbaatar, Mongolia | 7406 |
-| 9 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 6510 |
-| 10 | [blgn94](https://github.com/blgn94) | Bilguun | Onlime LLC, Callpro Labs LLC, Callpro LLC |  | Erdenet, Mongolia | 6345 |
-| 11 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 5976 |
-| 12 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5576 |
-| 13 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5247 |
-| 14 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
-| 15 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 4613 |
+| 4 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 11768 |
+| 5 | [baysaa006](https://github.com/baysaa006) |  |  |  | Mongolia. | 10944 |
+| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 10093 |
+| 7 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs |  |  | Ulan Bator | 9523 |
+| 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 8839 |
+| 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | @gege-mn |  | Ulaanbaatar, Mongolia | 7406 |
+| 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 6510 |
+| 11 | [blgn94](https://github.com/blgn94) | Bilguun | Onlime LLC, Callpro Labs LLC, Callpro LLC |  | Erdenet, Mongolia | 6345 |
+| 12 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 5976 |
+| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5576 |
+| 14 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5247 |
+| 15 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
 | 16 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4336 |
 | 17 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4165 |
 | 18 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4093 |
-| 19 | [orshih6](https://github.com/orshih6) | Бат-Орших |  |  | Ulaanbaatar, Mongolia | 3734 |
-| 20 | [Boldbayar](https://github.com/Boldbayar) | Boldbayar Batbold |  |  | Ulaanbaatar, Mongolia | 3697 |
+| 19 | [TuguldurJ](https://github.com/TuguldurJ) | Tuguldur | Topoptin |  | Mongolia, Ulaanbaatar | 3978 |
+| 20 | [orshih6](https://github.com/orshih6) | Бат-Орших |  |  | Ulaanbaatar, Mongolia | 3734 |

@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-09T16:44:25.189Z
+Generated: 2026-10-09T17:37:01.334Z
 
 Users: 798
 
@@ -9,7 +9,7 @@ Users: 798
 | 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT |  |  | Kuwait | 3187 |
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB |  |  | Kuwait, Kuwait City | 445 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary |  |  | kuwait | 390 |
-| 4 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 207 |
+| 4 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 211 |
 | 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi |  |  | Kuwait | 150 |
 | 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | @microverseinc | MOHAMEDELDIMARd | KUWAIT | 143 |
 | 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 141 |
@@ -24,5 +24,5 @@ Users: 798
 | 16 | [kuwaitbinary](https://github.com/kuwaitbinary) | Abdullah Al Mashmoum |  |  | Kuwait | 91 |
 | 17 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny |  | AlanBennyX | Kuwait | 90 |
 | 18 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 90 |
-| 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman |  |  | Kuwait | 81 |
+| 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman |  |  | Kuwait | 84 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 80 |

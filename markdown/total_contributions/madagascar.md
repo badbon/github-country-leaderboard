@@ -1,15 +1,15 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-09T16:46:05.203Z
+Generated: 2026-10-09T17:39:32.002Z
 
-Users: 1911
+Users: 1910
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 18350 |
 | 2 | [marioshaya](https://github.com/marioshaya) | SHAYA Mario |  | marioshaya | Antananarivo, Madagascar | 14886 |
-| 3 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 14427 |
-| 4 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 12213 |
+| 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 14715 |
+| 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 14427 |
 | 5 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 9932 |
 | 6 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 9158 |
 | 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 7608 |

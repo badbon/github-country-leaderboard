@@ -55,7 +55,7 @@ Indexed users: 9,673
 | 16 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
 | 17 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
 | 18 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
-| 19 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,173 |
+| 19 | [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui) | ABDERRAHMAN SETTAOUI | Marrakech, Morocco | 2,174 |
 | 20 | [alisqueandreliman](https://github.com/alisqueandreliman) | Walid BOUSSOU | Tetouan, Morocco. | 2,102 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 9,673
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-09T16:52:00.524Z
+Generated: 2026-10-09T17:41:30.297Z
