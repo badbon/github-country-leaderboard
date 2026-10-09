@@ -8828,7 +8828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 24,
     "createdAt": "2025-12-25T15:05:11Z"
   },
   {
@@ -8840,7 +8840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 6,
-    "publicContributions": 13,
+    "publicContributions": 7,
     "createdAt": "2025-07-21T11:21:30Z"
   },
   {
@@ -8851,8 +8851,8 @@
     "company": "ESI Rabat",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 37,
+    "privateContributions": 147,
+    "publicContributions": 39,
     "createdAt": "2025-04-20T16:57:11Z"
   },
   {
@@ -8912,7 +8912,7 @@
     "twitterUsername": "K81405442",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 348,
+    "publicContributions": 198,
     "createdAt": "2025-05-18T23:15:37Z"
   },
   {
@@ -8930,13 +8930,13 @@
   {
     "login": "ELMEHDI-HAMMIOUI",
     "name": "EL MEHDI HAMMIOUI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193411122?s=72&u=82dd94152b91325ad8b5ab4b9644c90ffa80cd40&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/193411122?s=72&u=1deed7ca2b98f43788cc0e55d28f419e7c89376f&v=4",
     "location": "Rabat",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 5,
     "createdAt": "2025-01-01T15:08:09Z"
   },
   {
@@ -8958,21 +8958,21 @@
     "location": "Casablanca, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 387,
-    "privateContributions": 525,
-    "publicContributions": 19,
+    "followers": 388,
+    "privateContributions": 271,
+    "publicContributions": 141,
     "createdAt": "2024-10-10T02:27:58Z"
   },
   {
     "login": "samir-ouaammou",
     "name": "Samir Ouaammou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182961248?s=72&u=75c2ed7cf2d68b12c144851a868e5070b7f82768&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182961248?s=72&u=6d44196e62f4ae54b8c64b1167e0f854d9db430d&v=4",
     "location": "Morocco",
     "company": "1337",
     "twitterUsername": "",
-    "followers": 369,
+    "followers": 380,
     "privateContributions": 0,
-    "publicContributions": 230,
+    "publicContributions": 211,
     "createdAt": "2024-09-26T15:09:43Z"
   },
   {
@@ -8982,9 +8982,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 309,
-    "privateContributions": 371,
-    "publicContributions": 866,
+    "followers": 315,
+    "privateContributions": 489,
+    "publicContributions": 744,
     "createdAt": "2024-10-19T17:15:43Z"
   },
   {
@@ -8994,9 +8994,9 @@
     "location": "Marrakech, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 301,
+    "followers": 309,
     "privateContributions": 0,
-    "publicContributions": 2173,
+    "publicContributions": 2174,
     "createdAt": "2024-10-19T21:52:34Z"
   },
   {
@@ -9006,9 +9006,9 @@
     "location": "tanger , morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 274,
+    "followers": 283,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 85,
     "createdAt": "2024-04-30T15:18:44Z"
   },
   {
@@ -9018,9 +9018,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "0xm3d",
-    "followers": 265,
-    "privateContributions": 27,
-    "publicContributions": 332,
+    "followers": 268,
+    "privateContributions": 35,
+    "publicContributions": 431,
     "createdAt": "2024-07-07T15:02:36Z"
   },
   {
@@ -9030,7 +9030,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 257,
+    "followers": 263,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-11-10T20:42:12Z"
@@ -9042,9 +9042,9 @@
     "location": "Tiznit, Morocco",
     "company": "USMS",
     "twitterUsername": "",
-    "followers": 190,
-    "privateContributions": 315,
-    "publicContributions": 784,
+    "followers": 189,
+    "privateContributions": 354,
+    "publicContributions": 636,
     "createdAt": "2024-03-29T18:45:49Z"
   },
   {
@@ -9054,7 +9054,7 @@
     "location": "Morocco",
     "company": "ENIAD",
     "twitterUsername": "",
-    "followers": 138,
+    "followers": 136,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2024-02-28T12:05:12Z"

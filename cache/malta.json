@@ -9066,9 +9066,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2016-06-10T16:46:57Z"
   },
   {
@@ -9080,7 +9080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 11,
     "createdAt": "2016-07-06T12:41:24Z"
   },
   {
@@ -9114,9 +9114,9 @@
     "location": "Malta",
     "company": "CM2.Network",
     "twitterUsername": "",
-    "followers": 117,
+    "followers": 118,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 8,
     "createdAt": "2015-05-01T13:51:57Z"
   },
   {
@@ -9126,8 +9126,8 @@
     "location": "Sliema, Malta",
     "company": "Senior Software Engineer",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 1012,
+    "followers": 76,
+    "privateContributions": 1205,
     "publicContributions": 254,
     "createdAt": "2015-05-03T23:49:29Z"
   },
@@ -9138,8 +9138,8 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 37,
+    "followers": 47,
+    "privateContributions": 135,
     "publicContributions": 0,
     "createdAt": "2015-05-16T11:00:15Z"
   },
@@ -9150,8 +9150,8 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 3,
+    "followers": 33,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2015-02-02T10:43:30Z"
   },
@@ -9163,21 +9163,9 @@
     "company": "Rush Entertainment",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 737,
+    "privateContributions": 996,
     "publicContributions": 8,
     "createdAt": "2015-06-15T17:16:27Z"
-  },
-  {
-    "login": "shawnritchie",
-    "name": "Shawn Ritchie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/12230715?s=72&u=48444d8268c208e1f83a657d063fc282e5993fcd&v=4",
-    "location": "Malta",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 1868,
-    "publicContributions": 1,
-    "createdAt": "2015-05-04T07:54:38Z"
   },
   {
     "login": "sandorTuranszky",
@@ -9187,8 +9175,8 @@
     "company": "turSystem",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 91,
-    "publicContributions": 8,
+    "privateContributions": 51,
+    "publicContributions": 6,
     "createdAt": "2015-03-25T07:57:10Z"
   },
   {
@@ -9199,8 +9187,8 @@
     "company": "KPMG MBS",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 2994,
-    "publicContributions": 1,
+    "privateContributions": 3525,
+    "publicContributions": 0,
     "createdAt": "2015-10-27T15:42:58Z"
   },
   {
@@ -9223,8 +9211,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 6228,
-    "publicContributions": 30,
+    "privateContributions": 24605,
+    "publicContributions": 542,
     "createdAt": "2015-08-17T10:18:09Z"
   },
   {
@@ -9235,7 +9223,7 @@
     "company": "hPage Ltd.",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 70,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-13T19:08:33Z"
   },
@@ -9246,7 +9234,7 @@
     "location": "Ħaż-Żebbuġ, Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 21,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-10-05T13:54:17Z"
@@ -9258,9 +9246,9 @@
     "location": "Malta",
     "company": "Agroye",
     "twitterUsername": "timoyesina",
-    "followers": 17,
-    "privateContributions": 1464,
-    "publicContributions": 30,
+    "followers": 16,
+    "privateContributions": 1048,
+    "publicContributions": 31,
     "createdAt": "2015-03-02T10:56:19Z"
   },
   {

@@ -8924,7 +8924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2024-01-20T10:09:40Z"
   },
   {
@@ -8936,7 +8936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 31,
     "createdAt": "2024-10-25T21:27:33Z"
   },
   {
@@ -8948,20 +8948,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 4,
     "createdAt": "2024-11-06T09:00:12Z"
-  },
-  {
-    "login": "Chloe-sys",
-    "name": "Ishimwe Chloe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175125545?s=72&u=4a5d71b2a2fc9a2ce99b243676a90227ead4e2ae&v=4",
-    "location": "Kigali, Rwanda",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 134,
-    "createdAt": "2024-07-09T13:04:28Z"
   },
   {
     "login": "Angel-ingabire",
@@ -8971,21 +8959,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 175,
-    "createdAt": "2024-09-03T08:29:52Z"
-  },
-  {
-    "login": "niyonkurugabriel",
-    "name": "NIYONKURU Gabriel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169264085?s=72&u=92e18d3eaf68dc14e656ecd515f1e3f6de0d858a&v=4",
-    "location": "Rwanda, KIGALI",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2024-05-08T12:18:55Z"
+    "publicContributions": 184,
+    "createdAt": "2024-09-03T08:29:52Z"
   },
   {
     "login": "Ihsanullah-0",
@@ -9020,7 +8996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 98,
     "createdAt": "2024-01-12T23:04:59Z"
   },
   {
@@ -9068,7 +9044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-09-02T07:41:45Z"
   },
   {
@@ -9092,7 +9068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 158,
-    "publicContributions": 1542,
+    "publicContributions": 2665,
     "createdAt": "2024-01-18T12:46:10Z"
   },
   {
@@ -9104,7 +9080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 29,
     "createdAt": "2024-12-17T08:45:24Z"
   },
   {
@@ -9112,11 +9088,11 @@
     "name": "Potiphar Gaye Vaye ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/187555112?s=72&u=377da84a11e03ac4c714fc49c2b20112d97393cc&v=4",
     "location": "Rwanda KIgali",
-    "company": "Codevanna",
+    "company": "SchoolGear Liberia ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 333,
+    "publicContributions": 304,
     "createdAt": "2024-11-06T18:14:03Z"
   },
   {
@@ -9150,7 +9126,7 @@
     "location": "Kigali-Rwanda",
     "company": "Rwejo Foundation",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-03T09:11:41Z"

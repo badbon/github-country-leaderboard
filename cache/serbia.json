@@ -8922,9 +8922,9 @@
     "location": "Novi Sad, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 59,
-    "publicContributions": 44,
+    "followers": 4,
+    "privateContributions": 74,
+    "publicContributions": 51,
     "createdAt": "2023-03-13T17:31:30Z"
   },
   {
@@ -8960,7 +8960,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2023-06-02T13:13:07Z"
   },
   {
@@ -8983,8 +8983,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2716,
-    "publicContributions": 211,
+    "privateContributions": 2621,
+    "publicContributions": 234,
     "createdAt": "2023-11-14T12:43:41Z"
   },
   {
@@ -9003,8 +9003,8 @@
     "login": "AleksaTanaskovic",
     "name": "Aleksa Tanasković",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127147098?s=72&u=c691008fd0ec1d64f1994001de267f33f46ba7ee&v=4",
-    "location": "Serbia, Belgrade",
-    "company": "Snap One",
+    "location": "Belgrade, Serbia",
+    "company": "Sokin",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
@@ -9044,7 +9044,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 3,
     "createdAt": "2023-01-26T17:12:13Z"
   },
   {
@@ -9080,7 +9080,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 162,
     "createdAt": "2023-06-18T16:57:50Z"
   },
   {
@@ -9104,7 +9104,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 49,
     "createdAt": "2023-08-10T11:59:49Z"
   },
   {
@@ -9115,8 +9115,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4965,
-    "publicContributions": 54,
+    "privateContributions": 3508,
+    "publicContributions": 50,
     "createdAt": "2023-12-23T14:09:36Z"
   },
   {
@@ -9126,9 +9126,9 @@
     "location": "Serbia, Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 162,
     "createdAt": "2023-01-04T20:47:36Z"
   },
   {
@@ -128026,5 +128026,17 @@
     "privateContributions": 0,
     "publicContributions": 1113,
     "createdAt": "2026-05-15T14:50:46Z"
+  },
+  {
+    "login": "1ce6epg",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84016462?s=72&u=746cad128f13369bb68c1b7b008d94a447c5342d&v=4",
+    "location": "Serbia",
+    "company": "",
+    "twitterUsername": "1ce6epg_x",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2021-05-11T10:40:23Z"
   }
 ]

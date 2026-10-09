@@ -8972,7 +8972,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-02-11T15:47:56Z"
   },
   {
@@ -8983,7 +8983,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 45,
+    "privateContributions": 57,
     "publicContributions": 12,
     "createdAt": "2019-08-24T11:38:51Z"
   },
@@ -8996,7 +8996,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2019-07-31T11:51:30Z"
   },
   {
@@ -9019,8 +9019,8 @@
     "company": "",
     "twitterUsername": "iamiliesh",
     "followers": 5,
-    "privateContributions": 1011,
-    "publicContributions": 11,
+    "privateContributions": 1303,
+    "publicContributions": 8,
     "createdAt": "2019-12-23T22:39:53Z"
   },
   {
@@ -9031,7 +9031,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 223,
+    "privateContributions": 144,
     "publicContributions": 0,
     "createdAt": "2019-08-01T18:26:49Z"
   },
@@ -9056,7 +9056,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 192,
     "createdAt": "2019-05-09T20:27:23Z"
   },
   {
@@ -9067,8 +9067,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 566,
-    "publicContributions": 10,
+    "privateContributions": 573,
+    "publicContributions": 11,
     "createdAt": "2019-07-18T12:54:29Z"
   },
   {
@@ -9091,7 +9091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 195,
+    "privateContributions": 158,
     "publicContributions": 0,
     "createdAt": "2019-03-14T20:54:45Z"
   },
@@ -9103,8 +9103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 185,
-    "publicContributions": 7,
+    "privateContributions": 142,
+    "publicContributions": 162,
     "createdAt": "2019-01-11T09:05:15Z"
   },
   {
@@ -9127,8 +9127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 457,
-    "publicContributions": 5,
+    "privateContributions": 403,
+    "publicContributions": 1,
     "createdAt": "2019-03-04T14:26:51Z"
   },
   {
@@ -9138,9 +9138,9 @@
     "location": "Chișinău, Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 450,
+    "publicContributions": 612,
     "createdAt": "2019-11-05T20:27:00Z"
   },
   {
@@ -9150,8 +9150,8 @@
     "location": "Earth, Moldova",
     "company": "-",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 125,
+    "followers": 5,
+    "privateContributions": 100,
     "publicContributions": 22,
     "createdAt": "2019-03-28T16:07:13Z"
   },
@@ -9178,18 +9178,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-02T07:08:24Z"
-  },
-  {
-    "login": "dr-octocodius",
-    "name": "David Gherlovanu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50522474?s=72&u=b7e95535ab5e9c5e940a98ad8582f45596bf6e7d&v=4",
-    "location": "Moldova, Chishinau",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 633,
-    "publicContributions": 50,
-    "createdAt": "2019-05-11T14:17:08Z"
   },
   {
     "login": "CojocaruCristi",
