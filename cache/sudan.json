@@ -6870,7 +6870,7 @@
     "location": "Khartoum, Sudan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-18T19:26:57Z"
@@ -6942,7 +6942,7 @@
     "location": "sudan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-09T05:49:30Z"
@@ -6978,7 +6978,7 @@
     "location": "Sudan-Khartoum",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-02-11T07:58:19Z"
@@ -7028,7 +7028,7 @@
     "twitterUsername": "ali_tajelsir",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 62,
     "createdAt": "2017-03-12T15:25:26Z"
   },
   {
@@ -8734,5 +8734,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-10-17T14:05:44Z"
+  },
+  {
+    "login": "anasraldin37-ux",
+    "name": "Ahmed Nasr El-Din",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285742994?s=72&v=4",
+    "location": "Khartoum, Sudan",
+    "company": "TrendAI Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-05-18T15:43:09Z"
   }
 ]

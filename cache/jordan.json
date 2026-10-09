@@ -7076,7 +7076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2024-11-01T14:36:40Z"
   },
   {
@@ -7099,33 +7099,21 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 51,
+    "privateContributions": 84,
     "publicContributions": 379,
     "createdAt": "2024-08-18T12:36:11Z"
   },
   {
     "login": "M0haAmmad",
     "name": "Mohammad BaniYounis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169912049?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169912049?s=72&u=aea986cc5d29683a05debf2ae5e0b5d83fc310b0&v=4",
     "location": "Aqaba, Jordan",
     "company": "Open to Work | Full-Stack Developer",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 111,
     "createdAt": "2024-05-15T13:27:40Z"
-  },
-  {
-    "login": "Madr50",
-    "name": "Abdullah Almufti",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178860924?s=72&u=03db61723f0ae5273a60b7706d7071e06207fcb3&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 508,
-    "createdAt": "2024-08-20T02:53:53Z"
   },
   {
     "login": "Lenahaj",
@@ -7160,7 +7148,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 186,
+    "publicContributions": 213,
     "createdAt": "2024-11-02T08:35:19Z"
   },
   {
@@ -7172,13 +7160,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 20,
     "createdAt": "2024-09-20T20:47:10Z"
   },
   {
     "login": "ramaalmomanii",
     "name": "RAMA AL-MOMANI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158105027?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/158105027?s=72&u=2dde5ee090ea5b09d907a68f935a324d973ae989&v=4",
     "location": "Jordan",
     "company": "Yarmouk University",
     "twitterUsername": "",
@@ -7186,18 +7174,6 @@
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2024-01-29T22:06:35Z"
-  },
-  {
-    "login": "M05D",
-    "name": "MOHAMMAD WESAM ALDARAYSEH",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192366797?s=72&u=a5c7405059c6b0874a60e8676be71b91faad6a62&v=4",
-    "location": "jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2024-12-20T18:28:55Z"
   },
   {
     "login": "abkhader",
@@ -7222,18 +7198,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-02T20:37:13Z"
-  },
-  {
-    "login": "LeenYassine",
-    "name": "Leen Yaseen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156308627?s=72&u=e46d10a6db66775f5be63baedf03136ddea16820&v=4",
-    "location": "Amman - Jordan",
-    "company": "AppTrainers",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-01-11T10:20:23Z"
   },
   {
     "login": "Mosouri",
@@ -7262,7 +7226,7 @@
   {
     "login": "0l0lA",
     "name": "Rebel Dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184832381?s=72&u=896292cdf37e36c8004babf27e2760df720e3e09&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184832381?s=72&u=14b20ef17d954b90d8300412f0e83547a02015f7&v=4",
     "location": "jordan",
     "company": "freelance",
     "twitterUsername": "",
@@ -7292,7 +7256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 23,
     "createdAt": "2024-10-13T19:11:13Z"
   },
   {

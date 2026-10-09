@@ -7123,8 +7123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 17,
-    "publicContributions": 317,
+    "privateContributions": 25,
+    "publicContributions": 235,
     "createdAt": "2022-02-18T22:36:44Z"
   },
   {
@@ -7136,7 +7136,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2022-01-17T18:36:31Z"
   },
   {
@@ -7147,21 +7147,9 @@
     "company": "Universidad de San Carlos de Guatemala",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 36,
+    "privateContributions": 34,
     "publicContributions": 0,
     "createdAt": "2022-02-01T15:13:47Z"
-  },
-  {
-    "login": "ricardoTrujilloM",
-    "name": "Ricardo Trujillo - TELUS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99509848?s=72&u=ee56cd979a7869b5ccc68e20845160805484ccdf&v=4",
-    "location": "Guatemala",
-    "company": "TELUS",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 325,
-    "publicContributions": 0,
-    "createdAt": "2022-02-11T20:39:50Z"
   },
   {
     "login": "Alex-Maldonado-Soto",
@@ -7184,7 +7172,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 79,
     "createdAt": "2022-11-21T06:01:32Z"
   },
   {
@@ -7196,7 +7184,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2022-08-01T20:20:16Z"
   },
   {
@@ -7220,7 +7208,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 56,
     "createdAt": "2022-04-15T02:56:46Z"
   },
   {
@@ -7231,8 +7219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 146,
-    "publicContributions": 219,
+    "privateContributions": 186,
+    "publicContributions": 211,
     "createdAt": "2022-08-25T20:32:21Z"
   },
   {
@@ -7338,9 +7326,9 @@
     "location": "Cobán, Alta Verapaz, Guatemala",
     "company": "OXDEA",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 57,
     "createdAt": "2022-11-15T15:56:25Z"
   },
   {

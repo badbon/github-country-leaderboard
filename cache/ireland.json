@@ -6932,7 +6932,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 147,
     "createdAt": "2024-09-24T06:30:43Z"
   },
   {
@@ -6944,7 +6944,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-03-13T07:58:14Z"
   },
   {
@@ -6972,18 +6972,6 @@
     "createdAt": "2024-03-26T21:09:32Z"
   },
   {
-    "login": "dan-rodin",
-    "name": "Daniel Rodin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161745536?s=72&v=4",
-    "location": "Dublin, Ireland",
-    "company": "Computer Science with Data Science & AI @ UCD",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 26,
-    "publicContributions": 0,
-    "createdAt": "2024-02-29T16:20:07Z"
-  },
-  {
     "login": "RdeSwart",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/162818151?s=72&v=4",
@@ -7002,9 +6990,9 @@
     "location": "Dublin, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 112,
     "createdAt": "2024-09-17T15:26:14Z"
   },
   {
@@ -7014,15 +7002,15 @@
     "location": "UK/IRELAND",
     "company": "Datasphere Dynamics ",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 197,
-    "publicContributions": 93,
+    "followers": 5,
+    "privateContributions": 551,
+    "publicContributions": 129,
     "createdAt": "2024-12-05T11:05:48Z"
   },
   {
     "login": "mhirez",
     "name": "Mohammed Hirez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188857400?s=72&u=977449e1f5f904a02d1903b2b45be0ecdb786298&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/188857400?s=72&u=40397ddd44eb7ab904da479e86f6ae7ef2f07939&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
@@ -7038,9 +7026,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 905,
+    "publicContributions": 1014,
     "createdAt": "2024-11-06T22:28:31Z"
   },
   {
@@ -7064,7 +7052,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 150,
+    "publicContributions": 132,
     "createdAt": "2024-03-01T12:40:41Z"
   },
   {
@@ -7087,8 +7075,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 212,
-    "publicContributions": 37,
+    "privateContributions": 283,
+    "publicContributions": 67,
     "createdAt": "2024-09-17T20:43:09Z"
   },
   {
@@ -7098,7 +7086,7 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2024-02-18T16:04:39Z"
@@ -7112,7 +7100,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 27,
     "createdAt": "2024-12-18T12:55:35Z"
   },
   {
@@ -7135,7 +7123,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 65,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2024-05-16T04:18:36Z"
   },

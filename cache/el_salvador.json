@@ -6824,7 +6824,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 64,
     "createdAt": "2022-11-10T05:08:23Z"
   },
   {
@@ -6871,8 +6871,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 150,
+    "privateContributions": 487,
+    "publicContributions": 77,
     "createdAt": "2022-10-10T23:15:27Z"
   },
   {
@@ -6895,8 +6895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 188,
-    "publicContributions": 499,
+    "privateContributions": 233,
+    "publicContributions": 544,
     "createdAt": "2022-10-04T22:06:33Z"
   },
   {
@@ -6931,8 +6931,8 @@
     "company": "DISNA S.A. de C.V.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1776,
-    "publicContributions": 39,
+    "privateContributions": 2346,
+    "publicContributions": 250,
     "createdAt": "2022-05-05T03:32:16Z"
   },
   {
@@ -6944,7 +6944,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 16,
     "createdAt": "2022-10-09T00:17:04Z"
   },
   {
@@ -6980,13 +6980,13 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 41,
     "createdAt": "2022-08-14T12:26:37Z"
   },
   {
     "login": "jshDevs",
     "name": "Jsh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109306974?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109306974?s=72&u=4751cadb26762fd95a95ca8ca8d50d1c343c7dec&v=4",
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
@@ -7001,10 +7001,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/115592073?s=72&u=fc000cfc6a660c46fa5cef2ff3659621a25cc69d&v=4",
     "location": "El Salvador",
     "company": "",
-    "twitterUsername": "Avraambilici",
-    "followers": 1,
+    "twitterUsername": "",
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-10-11T21:34:10Z"
   },
   {

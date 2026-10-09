@@ -6128,7 +6128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 9,
     "createdAt": "2025-04-12T16:51:39Z"
   },
   {
@@ -6140,7 +6140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 140,
     "createdAt": "2025-10-31T09:56:49Z"
   },
   {
@@ -6158,13 +6158,13 @@
   {
     "login": "Nordiumm",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231495626?s=72&u=518eb763bbdfc1d38f2b6f18b486bab15fe3d82a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/231495626?s=72&v=4",
     "location": "Sweden, Stockholm",
     "company": "",
-    "twitterUsername": "Nordiumm_",
+    "twitterUsername": "NordiummDev",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 131,
+    "privateContributions": 137,
+    "publicContributions": 127,
     "createdAt": "2025-09-10T13:39:55Z"
   },
   {
@@ -6176,7 +6176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 58,
     "createdAt": "2025-09-21T10:34:18Z"
   },
   {
@@ -6188,7 +6188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 314,
+    "publicContributions": 259,
     "createdAt": "2025-09-09T08:58:56Z"
   },
   {
@@ -6200,7 +6200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 40,
     "createdAt": "2025-01-09T05:04:36Z"
   },
   {
@@ -6224,7 +6224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2025-10-21T17:27:08Z"
   },
   {
@@ -6236,7 +6236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 84,
     "createdAt": "2025-09-01T11:24:57Z"
   },
   {
@@ -6258,9 +6258,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 159,
-    "publicContributions": 659,
+    "followers": 2,
+    "privateContributions": 174,
+    "publicContributions": 819,
     "createdAt": "2025-09-09T12:41:13Z"
   },
   {
@@ -6296,7 +6296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2025-02-23T19:37:14Z"
   },
   {
@@ -6320,7 +6320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2025-07-30T17:28:50Z"
   },
   {
@@ -6330,9 +6330,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 162,
-    "publicContributions": 0,
+    "followers": 2,
+    "privateContributions": 169,
+    "publicContributions": 21,
     "createdAt": "2025-03-31T10:08:54Z"
   },
   {
@@ -6356,7 +6356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-17T21:00:50Z"
   },
   {
@@ -468178,5 +468178,449 @@
     "privateContributions": 160,
     "publicContributions": 35,
     "createdAt": "2022-09-02T09:40:03Z"
+  },
+  {
+    "login": "gesfon",
+    "name": "Gonçalo Fontoura",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288735361?s=72&u=97abf06bc82028bd00c20469ff0843bc6e7c8795&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 122,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2026-05-28T18:49:05Z"
+  },
+  {
+    "login": "sw3defy",
+    "name": "Sw3Defy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290058022?s=72&u=fca5d295cd87da566cae937aee6769da97bb30a4&v=4",
+    "location": "Sweden",
+    "company": "Sw3Defy",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 205,
+    "createdAt": "2026-06-02T14:18:38Z"
+  },
+  {
+    "login": "Joakimpalm-Zen",
+    "name": "Joakim Palm",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289189552?s=72&u=8dd9a03020962d0788860037dda0e2ea3a46b270&v=4",
+    "location": "Sweden",
+    "company": "Zenova AB",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2460,
+    "createdAt": "2026-05-30T11:55:10Z"
+  },
+  {
+    "login": "Myesan",
+    "name": "Mye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294240650?s=72&u=6492d12ae42cc7355df0c888662766e0e6a4d801&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-16T15:55:04Z"
+  },
+  {
+    "login": "Shiffer111",
+    "name": "Claudia A",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295556262?s=72&u=795bf4b6077f5bc7551334cf86ca992f7ddc6955&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-21T09:38:10Z"
+  },
+  {
+    "login": "rsolerortuno",
+    "name": "Rafael Soler Ortuno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299546247?s=72&u=249ce7557be2ebfcae1533aa5faea5d0220c5534&v=4",
+    "location": "Sweden, Lund",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 386,
+    "createdAt": "2026-07-03T13:51:36Z"
+  },
+  {
+    "login": "harshaninadeeka",
+    "name": "Harshani Nadeeka Gunawardana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296032154?s=72&u=b56a03a22fddc3c6220d839c8dd1ff52c7ada878&v=4",
+    "location": "Skövde, Sweden",
+    "company": "University of Skövde",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2026-06-23T02:58:24Z"
+  },
+  {
+    "login": "IsabelVoigt",
+    "name": "Isabel",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294464342?s=72&v=4",
+    "location": "Sweden",
+    "company": "Karolinska Institutet",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 4,
+    "publicContributions": 5,
+    "createdAt": "2026-06-17T09:51:32Z"
+  },
+  {
+    "login": "Laindark",
+    "name": "Mia Pang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295686982?s=72&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-06-21T23:16:41Z"
+  },
+  {
+    "login": "HozefiTaqo37",
+    "name": "Abel Rosado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298466570?s=72&v=4",
+    "location": "Miehikkälä, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-30T22:35:16Z"
+  },
+  {
+    "login": "batilda790",
+    "name": "Batilda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298594143?s=72&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-07-01T06:56:38Z"
+  },
+  {
+    "login": "MaliSasaki",
+    "name": "Elizabeth da Mota",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/300180313?s=72&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-07-05T16:53:01Z"
+  },
+  {
+    "login": "saeedamni93-star",
+    "name": "Star",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293461543?s=72&v=4",
+    "location": "Sweden",
+    "company": "خودم تنها",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 13,
+    "createdAt": "2026-06-13T21:56:30Z"
+  },
+  {
+    "login": "zenianielsen",
+    "name": "Zenia Nielsen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299412397?s=72&u=d3a4f604e10b5420a6feba9013399c5e59ac0e50&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-07-03T06:49:56Z"
+  },
+  {
+    "login": "Kimizzz92",
+    "name": "Kim Handyan B.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299693719?s=72&u=4c6e8c6635bb42fe39c6c8ebbfd73279e6871230&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-07-04T00:03:05Z"
+  },
+  {
+    "login": "Kaisa-pa",
+    "name": "KAISA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284892201?s=72&u=7d36fa1e246e15540421fbbca6dab5dca5de7cbe&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "Personalplanner",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 27,
+    "publicContributions": 1,
+    "createdAt": "2026-05-15T08:13:34Z"
+  },
+  {
+    "login": "SpiderChariot",
+    "name": "Spider",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295490504?s=72&u=fa78904a60f591b68845663e3cfef86c439e7e4c&v=4",
+    "location": "Dalarna / Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-21T02:11:41Z"
+  },
+  {
+    "login": "matmulle",
+    "name": "Matias Müller",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298688320?s=72&u=67e5f759f5a3d73c71b52d0eb8e78ca6330d52d7&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "@Visa",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-07-01T11:30:29Z"
+  },
+  {
+    "login": "IsakTerrahutton",
+    "name": "Isak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295791028?s=72&u=b1af80eea2f535e3c78356d60c7f19e29cf28d93&v=4",
+    "location": "Gothenburg, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 127,
+    "publicContributions": 1,
+    "createdAt": "2026-06-22T08:49:47Z"
+  },
+  {
+    "login": "XpressGenomics",
+    "name": "Xpress Genomics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286049550?s=72&u=ac77dcb608e1b353bd5dcaa54fe52d544c07027d&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "Xpress Genomics",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-19T14:54:30Z"
+  },
+  {
+    "login": "vapnen",
+    "name": "Vapnen ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292064920?s=72&u=b207eba7a0adcca2a13868c8d0190a98e6da8bdf&v=4",
+    "location": "Sweden ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-09T09:40:16Z"
+  },
+  {
+    "login": "saraaaaaaaaaaaaaah",
+    "name": "Sarah Heidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285466913?s=72&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-17T16:55:51Z"
+  },
+  {
+    "login": "MipomuKum58",
+    "name": "Juan Villanueva",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298458418?s=72&v=4",
+    "location": "香取市, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-30T22:05:22Z"
+  },
+  {
+    "login": "Stayinhealthyrunning",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294388210?s=72&u=7883b8796166e383053d02f920b74c616e89ee69&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2187,
+    "createdAt": "2026-06-17T04:57:09Z"
+  },
+  {
+    "login": "alvakreativ",
+    "name": "Alva Kreativ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296690908?s=72&u=e90ee1de57caefa872efa288f839db4ee0cc51a3&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "Alva Kreativ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-24T23:08:39Z"
+  },
+  {
+    "login": "Kekzim",
+    "name": "Johan Fondell",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284403111?s=72&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 172,
+    "createdAt": "2026-05-13T17:57:33Z"
+  },
+  {
+    "login": "bengtovepeltz-design",
+    "name": "Bengt-Ove Peltz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290787324?s=72&u=27a90139c895f4138746dda1cfe046aec2d4bb4c&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-06-04T15:59:00Z"
+  },
+  {
+    "login": "hannasofia-dev",
+    "name": "Hanna-Sofia Angermayr",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285938974?s=72&u=8d371854bde68f7be5442770e44eb6eb285c9f78&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-05-19T08:18:37Z"
+  },
+  {
+    "login": "FluffyTeddyy",
+    "name": "Fluffy Teddy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292627232?s=72&u=fb5d7d79eb7d0b8c8211a233905cc2d09f80eb19&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-06-11T01:26:57Z"
+  },
+  {
+    "login": "TujuxoHoxa52",
+    "name": "Concepción Garcia",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298470441?s=72&v=4",
+    "location": "Jarosław, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-30T22:50:26Z"
+  },
+  {
+    "login": "0xPrivSearcher",
+    "name": "0xPrivSearcher",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289297919?s=72&u=122b5ea1a9ed2910aecf0f6f384c54735ed2ea93&v=4",
+    "location": "Sweden",
+    "company": "CarbonOS",
+    "twitterUsername": "carbonos",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-05-30T23:25:06Z"
+  },
+  {
+    "login": "MenigaKife65",
+    "name": "Alejandra Roche",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298464394?s=72&v=4",
+    "location": "Yurdanurstad, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-30T22:27:02Z"
+  },
+  {
+    "login": "samsonayana",
+    "name": "Samson Ayana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/299072248?s=72&u=6916808c442077e7b7769f5ec085c27e6829ac5d&v=4",
+    "location": "Uppsala, Sweden ",
+    "company": "GlobalConnect",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-07-02T10:09:28Z"
+  },
+  {
+    "login": "bergmansebastian2002",
+    "name": "Sebastian Bergman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292579573?s=72&v=4",
+    "location": "Sweden",
+    "company": "Snipra AI",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 91,
+    "createdAt": "2026-06-10T20:40:51Z"
+  },
+  {
+    "login": "AxelNordstromDev",
+    "name": "Warlock",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286772803?s=72&v=4",
+    "location": "Halmstad, Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-05-21T19:29:58Z"
+  },
+  {
+    "login": "BjornKufner",
+    "name": "Björn Küfner",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294389906?s=72&u=0dabb8692f818adb18368112ff5c28fcf98f05e0&v=4",
+    "location": "Sweden",
+    "company": "Olsbergs Hydraulics AB",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T05:05:51Z"
+  },
+  {
+    "login": "DietrichvonRosen",
+    "name": "Dietrich von Rosen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291650914?s=72&u=d62151d839b1ff47b165f9b3828a360fe40ba20e&v=4",
+    "location": "Sweden",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-08T02:20:13Z"
   }
 ]

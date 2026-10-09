@@ -6823,8 +6823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 6,
-    "publicContributions": 138,
+    "privateContributions": 2,
+    "publicContributions": 173,
     "createdAt": "2016-11-03T10:58:32Z"
   },
   {
@@ -6834,8 +6834,8 @@
     "location": "Hamilton, ON",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 24,
+    "followers": 6,
+    "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2016-11-13T17:04:16Z"
   },
@@ -6847,8 +6847,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1015,
-    "publicContributions": 23,
+    "privateContributions": 1741,
+    "publicContributions": 32,
     "createdAt": "2016-12-15T08:42:46Z"
   },
   {
@@ -6858,22 +6858,10 @@
     "location": "Hamilton, ON, CA",
     "company": "Department of Economics, McMaster University",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 60,
-    "publicContributions": 68,
+    "followers": 5,
+    "privateContributions": 66,
+    "publicContributions": 71,
     "createdAt": "2016-04-28T02:29:31Z"
-  },
-  {
-    "login": "gslaughl",
-    "name": "Gabe Laughlin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18487073?s=72&v=4",
-    "location": "Hamilton, MT",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-04-15T15:50:01Z"
   },
   {
     "login": "gitcarl",
@@ -6883,7 +6871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 389,
+    "privateContributions": 359,
     "publicContributions": 0,
     "createdAt": "2016-06-06T20:44:46Z"
   },
@@ -6895,8 +6883,8 @@
     "company": "Kinaxis",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1638,
-    "publicContributions": 25,
+    "privateContributions": 1657,
+    "publicContributions": 59,
     "createdAt": "2016-04-17T17:45:30Z"
   },
   {
@@ -6907,7 +6895,7 @@
     "company": "Centrapay",
     "twitterUsername": "pupato13",
     "followers": 4,
-    "privateContributions": 782,
+    "privateContributions": 817,
     "publicContributions": 0,
     "createdAt": "2016-06-17T13:45:29Z"
   },
@@ -6931,7 +6919,7 @@
     "company": "@Scribenote ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1018,
+    "privateContributions": 1451,
     "publicContributions": 0,
     "createdAt": "2016-06-26T19:47:41Z"
   },
@@ -6954,9 +6942,9 @@
     "location": "Hamilton, ON",
     "company": "Vehikl",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 59,
     "createdAt": "2016-05-23T16:25:55Z"
   },
   {
@@ -6968,7 +6956,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2016-09-20T07:24:52Z"
   },
   {
@@ -6979,7 +6967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 780,
+    "privateContributions": 963,
     "publicContributions": 0,
     "createdAt": "2016-11-04T02:19:26Z"
   },
@@ -7003,7 +6991,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 646,
+    "privateContributions": 495,
     "publicContributions": 0,
     "createdAt": "2016-07-11T13:04:04Z"
   },
@@ -7014,7 +7002,7 @@
     "location": "Hamilton, Ontario",
     "company": "KenWave Solutions Inc.",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2016-06-08T20:29:30Z"

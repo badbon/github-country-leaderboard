@@ -6788,7 +6788,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2023-11-01T16:04:49Z"
   },
   {
@@ -6798,9 +6798,9 @@
     "location": "Budapest, Hungary",
     "company": "@siliconlabs",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 213,
-    "publicContributions": 62,
+    "followers": 9,
+    "privateContributions": 186,
+    "publicContributions": 158,
     "createdAt": "2023-02-09T11:22:40Z"
   },
   {
@@ -6810,8 +6810,8 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1,
+    "followers": 7,
+    "privateContributions": 11,
     "publicContributions": 16,
     "createdAt": "2023-01-09T15:43:44Z"
   },
@@ -6822,22 +6822,10 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 78,
-    "publicContributions": 11,
+    "followers": 9,
+    "privateContributions": 51,
+    "publicContributions": 6,
     "createdAt": "2023-04-28T18:51:47Z"
-  },
-  {
-    "login": "NicoNL",
-    "name": "Nicolas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125212822?s=72&u=8224302f2a72459f17c5516deb1bdaffabe7d490&v=4",
-    "location": "Budapest, Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-02-12T18:10:16Z"
   },
   {
     "login": "Wahab901278",
@@ -6846,9 +6834,9 @@
     "location": "Pécs, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 13,
-    "publicContributions": 56,
+    "followers": 12,
+    "privateContributions": 9,
+    "publicContributions": 63,
     "createdAt": "2023-02-01T14:55:10Z"
   },
   {
@@ -6895,8 +6883,8 @@
     "company": "Neumann Janos Egyetem",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 70,
-    "publicContributions": 64,
+    "privateContributions": 58,
+    "publicContributions": 11,
     "createdAt": "2023-11-09T07:21:18Z"
   },
   {
@@ -6908,7 +6896,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 2,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2023-01-20T17:46:38Z"
   },
   {
@@ -6918,7 +6906,7 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2023-04-13T10:17:06Z"
@@ -6936,30 +6924,6 @@
     "createdAt": "2023-01-16T10:52:32Z"
   },
   {
-    "login": "AhmedKhalifa3",
-    "name": "Ahmed Khalifa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123972572?s=72&u=6cf4381dc368d74f4b6932384b0ebbb96bb8cae4&v=4",
-    "location": "Budapest, Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 119,
-    "publicContributions": 72,
-    "createdAt": "2023-01-30T15:48:45Z"
-  },
-  {
-    "login": "hrczggyrgy",
-    "name": "György Herczeg",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140313366?s=72&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 17,
-    "publicContributions": 358,
-    "createdAt": "2023-07-23T09:59:36Z"
-  },
-  {
     "login": "Anurag3703",
     "name": "Anurag Tiwari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/146084286?s=72&u=1bab95254d39534d13ca0ef9e8eefa6705fe9432&v=4",
@@ -6968,13 +6932,13 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 12,
     "createdAt": "2023-09-26T10:34:27Z"
   },
   {
     "login": "RanaFahad01",
     "name": "Rana Fahad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145490801?s=72&u=4911fe093b66d30f27903b535a7c7f6660c2b0bc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145490801?s=72&u=f1a966f2824ca8af4e78a99598c5430ef885afcf&v=4",
     "location": "Debrecen, Hungary",
     "company": "",
     "twitterUsername": "",
@@ -7002,9 +6966,9 @@
     "location": "Debrecen, Hungary",
     "company": "",
     "twitterUsername": "sahriarnahid",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 6,
-    "publicContributions": 80,
+    "publicContributions": 85,
     "createdAt": "2023-07-27T05:56:00Z"
   },
   {

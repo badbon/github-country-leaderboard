@@ -7075,8 +7075,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 619,
-    "publicContributions": 0,
+    "privateContributions": 975,
+    "publicContributions": 2,
     "createdAt": "2020-05-10T20:04:21Z"
   },
   {
@@ -7134,21 +7134,21 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1107,
+    "publicContributions": 883,
     "createdAt": "2020-04-12T20:40:17Z"
   },
   {
     "login": "klisard",
     "name": "Klisard Muça",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76205713?s=72&u=e9351cda409ea5c5492df6679fdd8b23883c0e43&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/76205713?s=72&v=4",
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 275,
-    "publicContributions": 32,
+    "privateContributions": 602,
+    "publicContributions": 58,
     "createdAt": "2020-12-18T09:44:28Z"
   },
   {
@@ -7255,7 +7255,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 120,
+    "privateContributions": 111,
     "publicContributions": 0,
     "createdAt": "2020-05-12T17:59:58Z"
   },

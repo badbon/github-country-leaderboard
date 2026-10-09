@@ -6764,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 4,
     "createdAt": "2025-07-03T14:42:12Z"
   },
   {
@@ -6787,8 +6787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 1,
+    "privateContributions": 16,
+    "publicContributions": 0,
     "createdAt": "2025-09-16T17:52:11Z"
   },
   {
@@ -6872,7 +6872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 200,
+    "publicContributions": 2,
     "createdAt": "2025-01-28T17:49:51Z"
   },
   {
@@ -6884,7 +6884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 39,
     "createdAt": "2025-01-13T20:18:31Z"
   },
   {
@@ -6912,18 +6912,6 @@
     "createdAt": "2025-03-29T06:39:42Z"
   },
   {
-    "login": "GregoryPec-lab",
-    "name": "Gregory",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203357149?s=72&u=8eaaa4b95b0cff5d2b103662bed6f3d8c6852e64&v=4",
-    "location": "Ukraine",
-    "company": "UFML",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-14T20:52:27Z"
-  },
-  {
     "login": "edmynay",
     "name": "Dmytro Naychuk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/203459434?s=72&u=5c8ee7037ab2f7ea0954433b92567c58259619bf&v=4",
@@ -6942,9 +6930,9 @@
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 10,
-    "publicContributions": 780,
+    "publicContributions": 901,
     "createdAt": "2025-09-24T20:59:51Z"
   },
   {
@@ -6954,9 +6942,9 @@
     "location": "Ukraine ",
     "company": "SmileAfterBurn",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 233,
-    "publicContributions": 51,
+    "publicContributions": 67,
     "createdAt": "2025-06-05T07:14:27Z"
   },
   {

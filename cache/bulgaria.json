@@ -7135,7 +7135,7 @@
     "company": "Find.co",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3689,
+    "privateContributions": 3004,
     "publicContributions": 0,
     "createdAt": "2024-04-23T08:36:50Z"
   },
@@ -7146,7 +7146,7 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-27T20:24:11Z"
@@ -7172,7 +7172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 525,
+    "publicContributions": 342,
     "createdAt": "2024-03-08T21:00:32Z"
   },
   {
@@ -7218,7 +7218,7 @@
     "location": "Sofia, Bulgaria",
     "company": "Visteon",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-08T03:36:04Z"
@@ -7256,7 +7256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 455,
+    "publicContributions": 335,
     "createdAt": "2024-10-31T12:24:03Z"
   },
   {
@@ -7272,27 +7272,15 @@
     "createdAt": "2024-10-30T20:51:53Z"
   },
   {
-    "login": "the-volgarian",
-    "name": "VLADIMIR VLADIMIROV",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166706110?s=72&u=51978b033149572b72674a8aad1b3c8d7301b2e6&v=4",
-    "location": "Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 21,
-    "publicContributions": 119,
-    "createdAt": "2024-04-11T09:39:46Z"
-  },
-  {
     "login": "gaxolotl",
     "name": "Golden Axolotl",
     "avatarUrl": "https://avatars.githubusercontent.com/u/177118247?s=72&u=f3f362c6382682e8f2cc8c39ed884c21444243b4&v=4",
     "location": "Bulgaria",
     "company": "@RaspyORG ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 54,
-    "publicContributions": 145,
+    "followers": 2,
+    "privateContributions": 57,
+    "publicContributions": 239,
     "createdAt": "2024-07-31T11:34:38Z"
   },
   {
@@ -7303,7 +7291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1401,
+    "privateContributions": 1374,
     "publicContributions": 1,
     "createdAt": "2024-02-01T10:21:39Z"
   },
@@ -7315,8 +7303,8 @@
     "company": "SoftUni",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 45,
+    "privateContributions": 41,
+    "publicContributions": 6,
     "createdAt": "2024-03-29T19:38:25Z"
   },
   {
@@ -7326,7 +7314,7 @@
     "location": "Kardzhali, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2024-04-09T12:26:35Z"
@@ -7340,7 +7328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3704,
+    "publicContributions": 9920,
     "createdAt": "2024-10-29T13:39:36Z"
   },
   {
