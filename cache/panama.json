@@ -6876,18 +6876,6 @@
     "createdAt": "2018-10-21T15:02:02Z"
   },
   {
-    "login": "wggm01",
-    "name": "Wvaldo Graell",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/37003923?s=72&u=07641ba7eeb978d675181febd71d97bf05efe8a4&v=4",
-    "location": "Panama",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-03-02T22:19:09Z"
-  },
-  {
     "login": "jespinozaov",
     "name": "Jesus Espinoza",
     "avatarUrl": "https://avatars.githubusercontent.com/u/39200762?s=72&u=604df630c29c1a6cf302c97a7aef627b42adbc02&v=4",
@@ -6908,7 +6896,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2018-10-28T01:28:07Z"
   },
   {
@@ -6930,7 +6918,7 @@
     "location": "Panama City",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2018-09-29T23:11:55Z"
@@ -6943,8 +6931,8 @@
     "company": "",
     "twitterUsername": "DevCLuna",
     "followers": 2,
-    "privateContributions": 1005,
-    "publicContributions": 96,
+    "privateContributions": 1176,
+    "publicContributions": 90,
     "createdAt": "2018-06-01T00:46:37Z"
   },
   {
@@ -6967,8 +6955,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1246,
-    "publicContributions": 45,
+    "privateContributions": 1437,
+    "publicContributions": 8,
     "createdAt": "2018-10-12T16:20:49Z"
   },
   {
@@ -6979,7 +6967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 93,
     "publicContributions": 0,
     "createdAt": "2018-05-08T15:23:08Z"
   },
@@ -6992,7 +6980,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 3,
     "createdAt": "2018-11-19T14:57:48Z"
   },
   {
@@ -7016,7 +7004,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 12,
     "createdAt": "2018-08-11T19:03:51Z"
   },
   {

@@ -6764,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2025-06-18T04:20:41Z"
   },
   {
@@ -6800,7 +6800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 20,
-    "publicContributions": 85,
+    "publicContributions": 93,
     "createdAt": "2025-02-13T11:15:20Z"
   },
   {
@@ -6836,7 +6836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 110,
     "createdAt": "2025-09-25T13:53:16Z"
   },
   {
@@ -6847,7 +6847,7 @@
     "company": "Sanadidari SARL",
     "twitterUsername": "schatwiti",
     "followers": 1,
-    "privateContributions": 847,
+    "privateContributions": 884,
     "publicContributions": 65,
     "createdAt": "2025-12-02T22:27:47Z"
   },
@@ -6860,7 +6860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 86,
     "createdAt": "2025-12-03T23:16:09Z"
   },
   {
@@ -6872,7 +6872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2025-07-25T15:53:49Z"
   },
   {
@@ -6884,7 +6884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2025-12-01T21:49:11Z"
   },
   {
@@ -6895,7 +6895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2165,
+    "privateContributions": 1775,
     "publicContributions": 1,
     "createdAt": "2025-07-08T09:40:25Z"
   },
@@ -6920,7 +6920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 29,
     "createdAt": "2025-02-02T23:58:47Z"
   },
   {
@@ -6956,7 +6956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 7,
     "createdAt": "2025-02-09T00:30:44Z"
   },
   {
@@ -6968,31 +6968,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 38,
     "createdAt": "2025-08-19T14:38:14Z"
-  },
-  {
-    "login": "wiamelkhoumari01-ctrl",
-    "name": "wiam elkhoumari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/248225179?s=72&u=e3f21d8fda168717277f67cc14c5ee43caa0a179&v=4",
-    "location": "Morocco",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2025-12-06T22:46:00Z"
   },
   {
     "login": "ismo-idi",
     "name": "Ismaël Assoumane Idi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239412460?s=72&u=c5f9468a3234e2ca2e2088561f161221f4bf7c32&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/239412460?s=72&u=50865ae23d5dcfd6ba828e16eeceb99f34c4ce26&v=4",
     "location": "Rabat, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 26,
     "createdAt": "2025-10-21T17:30:20Z"
   },
   {

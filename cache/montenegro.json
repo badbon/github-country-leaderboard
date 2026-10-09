@@ -6846,7 +6846,7 @@
     "location": "Montenegro",
     "company": "@nITech-ME ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-31T22:36:08Z"
@@ -6860,18 +6860,18 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 272,
+    "publicContributions": 259,
     "createdAt": "2016-02-16T13:44:12Z"
   },
   {
     "login": "Khavronsky",
-    "name": "Sergey Khavronsky",
+    "name": "khavronsky",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16687688?s=72&u=10dce94d64b149b5e58152bc9bb86dcbc7521ce2&v=4",
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 84,
+    "privateContributions": 145,
     "publicContributions": 2,
     "createdAt": "2016-01-13T15:22:01Z"
   },
@@ -6884,7 +6884,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 237,
     "createdAt": "2016-11-01T14:15:48Z"
   },
   {
@@ -6895,8 +6895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 54,
-    "publicContributions": 50,
+    "privateContributions": 48,
+    "publicContributions": 52,
     "createdAt": "2016-03-15T08:27:14Z"
   },
   {
@@ -6907,8 +6907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 54,
-    "publicContributions": 9,
+    "privateContributions": 83,
+    "publicContributions": 0,
     "createdAt": "2016-09-17T18:04:31Z"
   },
   {
@@ -6919,7 +6919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1760,
+    "privateContributions": 1823,
     "publicContributions": 0,
     "createdAt": "2016-12-20T06:38:30Z"
   },
@@ -6944,7 +6944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2016-10-06T07:58:52Z"
   },
   {
@@ -6991,7 +6991,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 30,
+    "privateContributions": 34,
     "publicContributions": 0,
     "createdAt": "2016-05-28T09:50:19Z"
   },
@@ -7050,9 +7050,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2016-10-26T22:03:21Z"
   },
   {

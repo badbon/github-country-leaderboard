@@ -6631,8 +6631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 205,
-    "publicContributions": 15,
+    "privateContributions": 457,
+    "publicContributions": 18,
     "createdAt": "2024-12-29T03:36:32Z"
   },
   {
@@ -6642,9 +6642,9 @@
     "location": "Singapore",
     "company": "Ethicraft",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 516,
+    "publicContributions": 509,
     "createdAt": "2025-09-04T09:51:21Z"
   },
   {
@@ -6655,21 +6655,9 @@
     "company": "@tanqory",
     "twitterUsername": "tanqory",
     "followers": 1,
-    "privateContributions": 4806,
-    "publicContributions": 1,
+    "privateContributions": 19308,
+    "publicContributions": 17,
     "createdAt": "2025-08-18T07:09:34Z"
-  },
-  {
-    "login": "ProgrammerRuofei",
-    "name": "RUOFEI GAO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229898987?s=72&v=4",
-    "location": "50 Nanyang Ave, Singapore 639798",
-    "company": "Nanyang Technological University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 12,
-    "createdAt": "2025-09-02T07:19:32Z"
   },
   {
     "login": "parikshit0606",
@@ -6680,7 +6668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 24,
     "createdAt": "2025-08-21T09:40:28Z"
   },
   {
@@ -6704,7 +6692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 23,
     "createdAt": "2024-12-30T12:26:42Z"
   },
   {
@@ -6716,7 +6704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-08-22T10:24:33Z"
   },
   {
@@ -6740,7 +6728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-18T02:17:51Z"
   },
   {
@@ -6776,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2025-08-10T14:22:50Z"
   },
   {
@@ -6800,7 +6788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 588,
+    "publicContributions": 590,
     "createdAt": "2025-12-10T03:08:06Z"
   },
   {
@@ -6814,18 +6802,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-12-05T10:58:58Z"
-  },
-  {
-    "login": "snsnegi",
-    "name": "Samarth N",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194791073?s=72&u=4df7ec9c53f12cd280be67e79eac2f7b02cefa0d&v=4",
-    "location": "singapore ",
-    "company": "ethz, sec ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2025-01-13T12:02:29Z"
   },
   {
     "login": "amelitasantiago",

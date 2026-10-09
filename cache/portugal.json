@@ -6787,8 +6787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 136,
-    "publicContributions": 69,
+    "privateContributions": 114,
+    "publicContributions": 44,
     "createdAt": "2025-05-20T13:16:16Z"
   },
   {
@@ -6870,9 +6870,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 46,
     "createdAt": "2025-03-31T19:35:04Z"
   },
   {
@@ -6896,7 +6896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 80,
     "createdAt": "2025-11-26T13:03:36Z"
   },
   {
@@ -6908,7 +6908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-04-07T14:03:08Z"
   },
   {
@@ -6943,7 +6943,7 @@
     "company": "Freelancer | Web Developer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 683,
+    "privateContributions": 652,
     "publicContributions": 0,
     "createdAt": "2025-01-07T14:50:43Z"
   },
@@ -6962,25 +6962,25 @@
   {
     "login": "alsgy2001",
     "name": "Alan Guerra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/240224661?s=72&u=923f74347fab17ba7d8485b364f1a7f7417d9882&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/240224661?s=72&u=bd51d81558f9d5b923fe9c2161c7b3e135059ebc&v=4",
     "location": "Lisboa, Portugal",
     "company": "@reesearch64",
     "twitterUsername": "alsgy2001",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-10-25T20:09:12Z"
   },
   {
     "login": "lp709",
-    "name": "Lp",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211214261?s=72&v=4",
+    "name": "Leandro Jesus",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211214261?s=72&u=42bd52a50ac7d6b9e8b872c43bf63313c22980af&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 124,
+    "privateContributions": 16,
+    "publicContributions": 218,
     "createdAt": "2025-05-11T11:49:31Z"
   },
   {
@@ -6992,7 +6992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 79,
     "createdAt": "2025-02-26T16:30:02Z"
   },
   {
@@ -7015,7 +7015,7 @@
     "company": "@weareplanet",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
+    "privateContributions": 145,
     "publicContributions": 0,
     "createdAt": "2025-01-07T15:03:23Z"
   },

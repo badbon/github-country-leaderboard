@@ -6859,8 +6859,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 512,
-    "publicContributions": 3,
+    "privateContributions": 426,
+    "publicContributions": 0,
     "createdAt": "2021-02-16T14:29:32Z"
   },
   {
@@ -6895,8 +6895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 71,
-    "publicContributions": 8,
+    "privateContributions": 98,
+    "publicContributions": 10,
     "createdAt": "2021-04-26T06:32:13Z"
   },
   {
@@ -6907,8 +6907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 119,
-    "publicContributions": 105,
+    "privateContributions": 105,
+    "publicContributions": 113,
     "createdAt": "2021-01-27T10:22:31Z"
   },
   {
@@ -6944,7 +6944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2021-10-18T11:31:49Z"
   },
   {
@@ -6988,11 +6988,11 @@
     "name": "Peter Aleksander Bizjak",
     "avatarUrl": "https://avatars.githubusercontent.com/u/67547990?s=72&u=3460ad86fe83748596f7a7e4ece7e87fe524472e&v=4",
     "location": "Piran, Slovenia",
-    "company": "@Bizjak-Tech-OU",
+    "company": "Peter Aleksander Bizjak s.p.",
     "twitterUsername": "peteralexbizjak",
-    "followers": 134,
-    "privateContributions": 1481,
-    "publicContributions": 776,
+    "followers": 126,
+    "privateContributions": 1519,
+    "publicContributions": 1241,
     "createdAt": "2020-06-28T13:41:02Z"
   },
   {
@@ -7002,9 +7002,9 @@
     "location": "Slovenia",
     "company": "University of Ljubljana",
     "twitterUsername": "",
-    "followers": 87,
-    "privateContributions": 750,
-    "publicContributions": 47,
+    "followers": 90,
+    "privateContributions": 736,
+    "publicContributions": 53,
     "createdAt": "2020-02-22T16:37:03Z"
   },
   {
@@ -7014,33 +7014,21 @@
     "location": "Koper, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 59,
+    "followers": 60,
     "privateContributions": 72,
-    "publicContributions": 1214,
+    "publicContributions": 1249,
     "createdAt": "2020-03-31T16:57:03Z"
   },
   {
-    "login": "sekeresivana",
-    "name": " Ivana Sekereš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67102046?s=72&u=6fbb59f315d042a54d2d10a46dd2ea3b0242518e&v=4",
-    "location": "Ljubljana, Slovenia",
-    "company": "@Cloud9WebServices ",
-    "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 51,
-    "publicContributions": 15,
-    "createdAt": "2020-06-18T10:48:42Z"
-  },
-  {
     "login": "MarioStojcevski",
-    "name": "mariostojcevski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61598148?s=72&u=c15604846b090c201f362d08afac0495cfdf7fe6&v=4",
+    "name": "m̵͕͈̜̖̭̱̦̬͍̗̞̻̋̐̀͆̾͐̂̄͝ͅa̴̡̤̭̘̗͙̩͉͚͕ͭ̈́̍̈͑́̓̌̂̒͒͘͞r̷̶̢̥̪̜̞̹̫͇̳̭͓̘̀̃̎̅ͮ̑̀͑̓̆̚͟s̸̶̡̧͓̮̰̻͚͆̈ͧͯ͑ͩ́͛̂͐ͫ̇͡d̴̢̧̺̙̹̲͙̖̮̤͔͊͌͆ͭ̅̒̆̄ͬ͂͒̚̕͠ͅȩ̛͔͚̗̬̅̑̋̒̊͑̇̓̾̈ͦ͜͟͝v̸̪̜̮̻̟̰̆̏͐ͧ̅͋ͮͥ̒̎́͆͘̕͝ͅ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61598148?s=72&u=b2b3edbdab78fe5f5b9447d77f17ccedf7df9f6d&v=4",
     "location": "Slovenia",
     "company": "Motion Source",
     "twitterUsername": "",
     "followers": 51,
     "privateContributions": 54,
-    "publicContributions": 91,
+    "publicContributions": 115,
     "createdAt": "2020-02-28T18:01:50Z"
   },
   {
@@ -7050,9 +7038,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 325,
-    "publicContributions": 110,
+    "followers": 49,
+    "privateContributions": 271,
+    "publicContributions": 69,
     "createdAt": "2020-08-02T17:34:24Z"
   },
   {
@@ -7062,22 +7050,10 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "Aljo9481",
-    "followers": 48,
-    "privateContributions": 89,
-    "publicContributions": 194,
+    "followers": 49,
+    "privateContributions": 272,
+    "publicContributions": 198,
     "createdAt": "2020-10-16T12:44:22Z"
-  },
-  {
-    "login": "fcholak",
-    "name": "Filip Cholakoski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59583295?s=72&u=4a3ff501deb521f11932841f78051e8f79afe420&v=4",
-    "location": "Ljubljana, Slovenia",
-    "company": "kHH",
-    "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2020-01-06T21:42:55Z"
   },
   {
     "login": "amadejpapez",
@@ -7086,9 +7062,9 @@
     "location": "Maribor, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 27,
-    "publicContributions": 20,
+    "followers": 29,
+    "privateContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2020-04-05T08:03:11Z"
   },
   {
@@ -37306,5 +37282,41 @@
     "privateContributions": 11,
     "publicContributions": 38,
     "createdAt": "2022-11-10T19:32:52Z"
+  },
+  {
+    "login": "segentic-lab",
+    "name": "segentic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285443774?s=72&u=05701c40a2eab0d7de4474d692a627f0a676ccbe&v=4",
+    "location": "Slovenia",
+    "company": "Računalničar, Sebastijan Bandur s.p.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 17,
+    "publicContributions": 70,
+    "createdAt": "2026-05-17T14:58:46Z"
+  },
+  {
+    "login": "PuhmeisterLuka",
+    "name": "Luka Puhmeister",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285810399?s=72&v=4",
+    "location": "Slovenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 60,
+    "createdAt": "2026-05-18T20:29:32Z"
+  },
+  {
+    "login": "crt-gorican-ctg",
+    "name": "Črt Goričan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288371131?s=72&u=6a3c484e167ef1cc2e5fae103a1acea7583c5b93&v=4",
+    "location": "Slovenia",
+    "company": "Comtrade d.o.o.",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 237,
+    "publicContributions": 1,
+    "createdAt": "2026-05-27T15:40:52Z"
   }
 ]

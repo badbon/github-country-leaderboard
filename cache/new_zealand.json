@@ -6739,21 +6739,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 57,
+    "privateContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2024-07-22T02:28:51Z"
-  },
-  {
-    "login": "patelankeet2",
-    "name": "Ankeet Patel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178346941?s=72&u=46e310d65f14536b39ef9f0de784218a20b7d2ac&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 298,
-    "publicContributions": 88,
-    "createdAt": "2024-08-14T01:26:07Z"
   },
   {
     "login": "WGDevelopments",
@@ -6764,7 +6752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-01-16T04:24:52Z"
   },
   {
@@ -6776,7 +6764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2024-01-28T22:11:41Z"
   },
   {
@@ -6788,7 +6776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2024-08-11T03:46:37Z"
   },
   {
@@ -6860,7 +6848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 36,
     "createdAt": "2024-10-18T08:13:54Z"
   },
   {
@@ -6872,7 +6860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-05-16T17:16:56Z"
   },
   {
@@ -6883,8 +6871,8 @@
     "company": "Applicable AI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3133,
-    "publicContributions": 12,
+    "privateContributions": 2773,
+    "publicContributions": 15,
     "createdAt": "2024-09-25T14:08:26Z"
   },
   {
@@ -6894,9 +6882,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 50,
     "createdAt": "2024-05-03T01:41:41Z"
   },
   {
@@ -6914,13 +6902,13 @@
   {
     "login": "KelliherL",
     "name": "Lachlan Kelliher",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179672502?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179672502?s=72&u=ac6f52cebc017be35be703e7f0105317a225a339&v=4",
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1321,
+    "publicContributions": 1610,
     "createdAt": "2024-08-28T04:44:12Z"
   },
   {
@@ -6943,7 +6931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2024-03-05T22:27:31Z"
   },
@@ -66150,9 +66138,9 @@
     "location": "Cambridge, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 13833,
-    "publicContributions": 2488,
+    "followers": 21,
+    "privateContributions": 19664,
+    "publicContributions": 4546,
     "createdAt": "2016-12-08T10:30:06Z"
   },
   {
