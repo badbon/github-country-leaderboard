@@ -1,6 +1,6 @@
 # Total Contributions - Ethiopia
 
-Generated: 2026-10-09T15:40:09.318Z
+Generated: 2026-10-09T16:33:27.820Z
 
 Users: 6709
 
@@ -22,7 +22,7 @@ Users: 6709
 | 14 | [demamano](https://github.com/demamano) | Dema Amano | Addis Ababa University | amano_dema | Ethiopia , Addis Ababa | 7886 |
 | 15 | [Itsyabitaa](https://github.com/Itsyabitaa) | Yeabsira | @Abolsolution |  |  Ethiopia, Addis Ababa | 7216 |
 | 16 | [melaku-z](https://github.com/melaku-z) | Melaku Zewdu |  |  | Ethiopia | 7017 |
-| 17 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Solvix Labs  | yeabhustles | Addis Ababa , Ethiopia | 6757 |
-| 18 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen |  | nhatty_mack | Addis Ababa, Ethiopia | 6587 |
-| 19 | [iamejajo](https://github.com/iamejajo) | alazar | @BuildForSDGCohort2 |  | Addis Ababa,Ethiopia | 6404 |
-| 20 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | @anchorpipe  | Rick_Riener | Addis Ababa | 6343 |
+| 17 | [black12-ag](https://github.com/black12-ag) | Munir Kabir | @ethio-viral |  | Addis Ababa | 6761 |
+| 18 | [YeabHustles](https://github.com/YeabHustles) | Yeabkibir Tadesse | Solvix Labs  | yeabhustles | Addis Ababa , Ethiopia | 6757 |
+| 19 | [NatnaelMekonnen](https://github.com/NatnaelMekonnen) | Natnael Mekonnen |  | nhatty_mack | Addis Ababa, Ethiopia | 6587 |
+| 20 | [iamejajo](https://github.com/iamejajo) | alazar | @BuildForSDGCohort2 |  | Addis Ababa,Ethiopia | 6404 |

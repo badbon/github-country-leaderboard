@@ -1,8 +1,8 @@
 # Total Contributions - Cambodia
 
-Generated: 2026-10-09T15:32:19.811Z
+Generated: 2026-10-09T16:25:25.972Z
 
-Users: 2881
+Users: 2880
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 2881
 | 9 | [soknoy12](https://github.com/soknoy12) | Soknoy |  |  | Phnom Penh, Cambodia | 5209 |
 | 10 | [khonchanphearaa](https://github.com/khonchanphearaa) | Phearaa |  |  | Phnom Penh, Cambodia | 5076 |
 | 11 | [tykealy](https://github.com/tykealy) | Tykea Ly | vtenh | tykeaboyloy | Phnom Penh, Cambodia | 4766 |
-| 12 | [adamreaksmey](https://github.com/adamreaksmey) | Adam - The Developer | AIBODIA \| PiperOrg |  | Phnom Penh, Cambodia | 4677 |
-| 13 | [phannaly](https://github.com/phannaly) | phanna |  |  | Cambodia | 4541 |
-| 14 | [sothea578](https://github.com/sothea578) | Nuon Sothea | Digital Government Committee, Cambodia |  | Phnom Penh, Cambodia | 4211 |
-| 15 | [VisalPheng](https://github.com/VisalPheng) | Visal Pheng |  |  | Phnom Penh, Cambodia | 4209 |
-| 16 | [pckimlong](https://github.com/pckimlong) | Kim |  |  | Cambodia | 3974 |
-| 17 | [DamonKert](https://github.com/DamonKert) | Damon | ARH Technology |  | Cambodia | 3896 |
+| 12 | [DamonKert](https://github.com/DamonKert) | Damon | ARH Technology |  | Cambodia | 4762 |
+| 13 | [adamreaksmey](https://github.com/adamreaksmey) | Adam - The Developer | AIBODIA \| PiperOrg |  | Phnom Penh, Cambodia | 4677 |
+| 14 | [phannaly](https://github.com/phannaly) | phanna |  |  | Cambodia | 4541 |
+| 15 | [sothea578](https://github.com/sothea578) | Nuon Sothea | Digital Government Committee, Cambodia |  | Phnom Penh, Cambodia | 4211 |
+| 16 | [VisalPheng](https://github.com/VisalPheng) | Visal Pheng |  |  | Phnom Penh, Cambodia | 4209 |
+| 17 | [pckimlong](https://github.com/pckimlong) | Kim |  |  | Cambodia | 3974 |
 | 18 | [Nikola-Limpet](https://github.com/Nikola-Limpet) | Yuujin | @AUPP-Dev |  | Phnom Penh, Cambodia | 3722 |
 | 19 | [Hirocoding69](https://github.com/Hirocoding69) | Teng Sambo |  |  | Phnom Penh | 3661 |
 | 20 | [kvsovanreach](https://github.com/kvsovanreach) | Vungsovanreach KONG |  |  | Phnom Penh, Cambodia | 3578 |

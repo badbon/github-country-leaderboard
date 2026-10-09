@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-09T15:30:38.970Z
+Generated: 2026-10-09T16:24:02.756Z
 
 Users: 2134
 
@@ -8,9 +8,9 @@ Users: 2134
 |---:|---|---|---|---|---|---:|
 | 1 | [kemo](https://github.com/kemo) |  |  | delalick | Sarajevo, Bosnia and Herzegovina | 9780 |
 | 2 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | ShownMedia |  | Sarajevo | 7094 |
-| 3 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 6184 |
-| 4 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5896 |
-| 5 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 5803 |
+| 3 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic |  | OvoJovanovo | Banjaluka, Bosnia and Herzegovina | 6310 |
+| 4 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić |  |  | Sarajevo | 6184 |
+| 5 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5896 |
 | 6 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | @betastudio | itsnerminsehic | Bosnia and Herzegovina | 5790 |
 | 7 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 5769 |
 | 8 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5647 |

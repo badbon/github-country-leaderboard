@@ -1,16 +1,16 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-09T15:27:37.751Z
+Generated: 2026-10-09T16:22:55.060Z
 
-Users: 728
+Users: 727
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 6239 |
 | 2 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 5375 |
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 2839 |
-| 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 2661 |
-| 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2147 |
+| 4 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham |  |  | Bahrain | 2688 |
+| 5 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 2661 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | @ov-studio |  | Amwaj, Bahrain | 1877 |
 | 7 | [masterde](https://github.com/masterde) | Baker | XYZ |  | Bahrain, Muharraq | 1300 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 1258 |

@@ -1,12 +1,12 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-09T15:29:55.297Z
+Generated: 2026-10-09T16:23:47.469Z
 
-Users: 902
+Users: 901
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | @cactus-bm  |  | Bermuda | 11798 |
+| 1 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | @cactus-bm  |  | Bermuda | 13037 |
 | 2 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 10483 |
 | 3 | [xaphod](https://github.com/xaphod) | Tim Carr | Solodigitalis | timcarrphoto | Hamilton ON | 9477 |
 | 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland |  |  | Hamilton, ON | 8323 |

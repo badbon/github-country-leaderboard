@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-09T15:40:09.318Z
+Generated: 2026-10-09T16:33:27.820Z
 
 Users: 6709
 
@@ -17,11 +17,11 @@ Users: 6709
 | 9 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera |  |  | Ethiopia  | 3106 |
 | 10 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | @anchorpipe  | Rick_Riener | Addis Ababa | 3073 |
 | 11 | [yared2124](https://github.com/yared2124) | yared aregayehu |  | aregayehu68339 | Addis Ababa | 2980 |
-| 12 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Novek ICT Solutions |  | Addis Ababa, Ethiopia | 2667 |
-| 13 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2523 |
-| 14 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
-| 15 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
-| 16 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa University |  | Addis Ababa | 2396 |
+| 12 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa University |  | Addis Ababa | 2685 |
+| 13 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Novek ICT Solutions |  | Addis Ababa, Ethiopia | 2667 |
+| 14 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 2523 |
+| 15 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar |  |  | Addis Ababa, Ethiopia | 2510 |
+| 16 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
 | 17 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
 | 18 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |
 | 19 | [FiraBro](https://github.com/FiraBro) | Firagos Jemal |  |  | Ethiopia, Dire Dawa | 2200 |

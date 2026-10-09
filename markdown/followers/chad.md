@@ -1,6 +1,6 @@
 # Followers - Chad
 
-Generated: 2026-10-09T15:34:34.010Z
+Generated: 2026-10-09T16:28:09.119Z
 
 Users: 200
 
@@ -16,8 +16,8 @@ Users: 200
 | 8 | [balesco](https://github.com/balesco) | Bale Hormo | Konguil | BaleHormo1 | N'Djamena, Tchad | 11 |
 | 9 | [mahamat-ali](https://github.com/mahamat-ali) | Mahamat Ali Youssouf  | Anavatech | terapfils30 | Ndjamena, Chad | 11 |
 | 10 | [Yamingue](https://github.com/Yamingue) |  |  |  | Tchad | 11 |
-| 11 | [imontash](https://github.com/imontash) |  |  |  | Chad, N'Djamena | 10 |
-| 12 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 9 |
+| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 10 |
+| 12 | [imontash](https://github.com/imontash) |  |  |  | Chad, N'Djamena | 10 |
 | 13 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | UNICEF  |  | Chad | 9 |
 | 14 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | Wikimedia Tchad | harundjibrin | N'Djaména, Chad | 9 |
 | 15 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | Ansice | NassirBaharad10 | N'djamena | 9 |

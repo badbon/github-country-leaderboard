@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 728
+Indexed users: 727
 
 | Leaderboard | Link |
 |---|---|
@@ -40,8 +40,8 @@ Indexed users: 728
 | 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,239 |
 | 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,375 |
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 2,839 |
-| 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,661 |
-| 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,147 |
+| 4 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,688 |
+| 5 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,661 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 1,877 |
 | 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,300 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,258 |
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
 
-Generated: 2026-10-09T15:27:37.751Z
+Generated: 2026-10-09T16:22:55.060Z

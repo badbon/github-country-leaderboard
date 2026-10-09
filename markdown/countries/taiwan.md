@@ -31,7 +31,7 @@ Indexed users: 22,004
 | 17 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang | Taiwan | 17,526 |
 | 18 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 16,546 |
 | 19 | [chimerakang](https://github.com/chimerakang) | chimera kang | taiwan | 16,427 |
-| 20 | [yeeefang](https://github.com/yeeefang) | Jerry WANG | Taipei City, Taiwan | 16,147 |
+| 20 | [JUN-WEI-DING](https://github.com/JUN-WEI-DING) | Jun-Wei Ding | Taiwan | 16,177 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 22,004
 | 19 | [kaochenlong](https://github.com/kaochenlong) | Eddie Kao 高見龍 | Taiwan, Taipei | 1,655 |
 | 20 | [aaaddress1](https://github.com/aaaddress1) | Sheng-Hao Ma | Taiwan | 1,518 |
 
-Generated: 2026-10-09T15:17:31.494Z
+Generated: 2026-10-09T16:13:13.957Z

@@ -1,6 +1,6 @@
 # Albania
 
-Indexed users: 1,189
+Indexed users: 1,188
 
 | Leaderboard | Link |
 |---|---|
@@ -64,7 +64,7 @@ Indexed users: 1,189
 |---:|---|---|---|---:|
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,781 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,889 |
-| 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 775 |
+| 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 774 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 718 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 455 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 228 |
@@ -78,9 +78,9 @@ Indexed users: 1,189
 | 14 | [rinor](https://github.com/rinor) | Rinor Hoxha | Albania, Tirane | 90 |
 | 15 | [devklajd](https://github.com/devklajd) | Klajd Belishaku | Tirana, Albania | 89 |
 | 16 | [nikolliervin](https://github.com/nikolliervin) | undefined | Tirana, Albania | 88 |
-| 17 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 85 |
-| 18 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Albania | 84 |
+| 17 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Albania | 85 |
+| 18 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 85 |
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-09T15:24:14.561Z
+Generated: 2026-10-09T16:20:03.411Z

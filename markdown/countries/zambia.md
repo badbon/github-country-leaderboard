@@ -27,10 +27,10 @@ Indexed users: 1,344
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,924 |
 | 14 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,779 |
 | 15 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 3,753 |
-| 16 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
-| 17 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
-| 18 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
-| 19 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 2,985 |
+| 16 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,449 |
+| 17 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
+| 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
+| 19 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
 | 20 | [lacksonmunthali](https://github.com/lacksonmunthali) | Lackson Munthali | Lusaka, Zambia | 2,929 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 1,344
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-09T15:23:52.258Z
+Generated: 2026-10-09T16:19:42.006Z

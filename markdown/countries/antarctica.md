@@ -26,7 +26,7 @@ Indexed users: 462
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,850 |
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,248 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,075 |
-| 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,704 |
+| 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,732 |
 | 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,533 |
 | 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,423 |
 | 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,350 |
@@ -48,7 +48,7 @@ Indexed users: 462
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,299 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,163 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,130 |
-| 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 748 |
+| 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 771 |
 | 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
 | 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 654 |
 | 15 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 605 |
@@ -83,4 +83,4 @@ Indexed users: 462
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-09T15:26:04.533Z
+Generated: 2026-10-09T16:22:02.223Z

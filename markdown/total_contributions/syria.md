@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-09T15:17:27.766Z
+Generated: 2026-10-09T16:13:08.972Z
 
 Users: 1482
 
@@ -22,7 +22,7 @@ Users: 1482
 | 14 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1986 |
 | 15 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 1825 |
 | 16 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1795 |
-| 17 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 1728 |
-| 18 | [z44d](https://github.com/z44d) | Za¡d |  | 0z44d | Damascus, Syria | 1708 |
-| 19 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1676 |
-| 20 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1630 |
+| 17 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 1744 |
+| 18 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 1728 |
+| 19 | [z44d](https://github.com/z44d) | Za¡d |  | 0z44d | Damascus, Syria | 1708 |
+| 20 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1676 |

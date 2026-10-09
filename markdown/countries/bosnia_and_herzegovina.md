@@ -14,9 +14,9 @@ Indexed users: 2,134
 |---:|---|---|---|---:|
 | 1 | [kemo](https://github.com/kemo) |  | Sarajevo, Bosnia and Herzegovina | 9,780 |
 | 2 | [benjaminpeljto](https://github.com/benjaminpeljto) | Benjamin Peljto | Sarajevo | 7,094 |
-| 3 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 6,184 |
-| 4 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,896 |
-| 5 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 5,803 |
+| 3 | [JovanJevtic](https://github.com/JovanJevtic) | Jovan Jevtic | Banjaluka, Bosnia and Herzegovina | 6,310 |
+| 4 | [sanilmusic](https://github.com/sanilmusic) | Sanil Musić | Sarajevo | 6,184 |
+| 5 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,896 |
 | 6 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | Bosnia and Herzegovina | 5,790 |
 | 7 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
 | 8 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
@@ -83,4 +83,4 @@ Indexed users: 2,134
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-09T15:30:38.970Z
+Generated: 2026-10-09T16:24:02.756Z

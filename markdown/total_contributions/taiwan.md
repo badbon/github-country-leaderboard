@@ -1,6 +1,6 @@
 # Total Contributions - Taiwan
 
-Generated: 2026-10-09T15:17:31.494Z
+Generated: 2026-10-09T16:13:13.957Z
 
 Users: 22004
 
@@ -25,4 +25,4 @@ Users: 22004
 | 17 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang |  |  | Taiwan | 17526 |
 | 18 | [exeex](https://github.com/exeex) | Tim Wu | AMD |  | Hsichu, Taiwan, Asia | 16546 |
 | 19 | [chimerakang](https://github.com/chimerakang) | chimera kang |  |  | taiwan | 16427 |
-| 20 | [yeeefang](https://github.com/yeeefang) | Jerry WANG |  |  | Taipei City, Taiwan | 16147 |
+| 20 | [JUN-WEI-DING](https://github.com/JUN-WEI-DING) | Jun-Wei Ding | National Taiwan University |  | Taiwan | 16177 |

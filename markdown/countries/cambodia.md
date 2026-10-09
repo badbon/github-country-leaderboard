@@ -1,6 +1,6 @@
 # Cambodia
 
-Indexed users: 2,881
+Indexed users: 2,880
 
 | Leaderboard | Link |
 |---|---|
@@ -23,12 +23,12 @@ Indexed users: 2,881
 | 9 | [soknoy12](https://github.com/soknoy12) | Soknoy | Phnom Penh, Cambodia | 5,209 |
 | 10 | [khonchanphearaa](https://github.com/khonchanphearaa) | Phearaa | Phnom Penh, Cambodia | 5,076 |
 | 11 | [tykealy](https://github.com/tykealy) | Tykea Ly | Phnom Penh, Cambodia | 4,766 |
-| 12 | [adamreaksmey](https://github.com/adamreaksmey) | Adam - The Developer | Phnom Penh, Cambodia | 4,677 |
-| 13 | [phannaly](https://github.com/phannaly) | phanna | Cambodia | 4,541 |
-| 14 | [sothea578](https://github.com/sothea578) | Nuon Sothea | Phnom Penh, Cambodia | 4,211 |
-| 15 | [VisalPheng](https://github.com/VisalPheng) | Visal Pheng | Phnom Penh, Cambodia | 4,209 |
-| 16 | [pckimlong](https://github.com/pckimlong) | Kim | Cambodia | 3,974 |
-| 17 | [DamonKert](https://github.com/DamonKert) | Damon | Cambodia | 3,896 |
+| 12 | [DamonKert](https://github.com/DamonKert) | Damon | Cambodia | 4,762 |
+| 13 | [adamreaksmey](https://github.com/adamreaksmey) | Adam - The Developer | Phnom Penh, Cambodia | 4,677 |
+| 14 | [phannaly](https://github.com/phannaly) | phanna | Cambodia | 4,541 |
+| 15 | [sothea578](https://github.com/sothea578) | Nuon Sothea | Phnom Penh, Cambodia | 4,211 |
+| 16 | [VisalPheng](https://github.com/VisalPheng) | Visal Pheng | Phnom Penh, Cambodia | 4,209 |
+| 17 | [pckimlong](https://github.com/pckimlong) | Kim | Cambodia | 3,974 |
 | 18 | [Nikola-Limpet](https://github.com/Nikola-Limpet) | Yuujin | Phnom Penh, Cambodia | 3,722 |
 | 19 | [Hirocoding69](https://github.com/Hirocoding69) | Teng Sambo | Phnom Penh | 3,661 |
 | 20 | [kvsovanreach](https://github.com/kvsovanreach) | Vungsovanreach KONG | Phnom Penh, Cambodia | 3,578 |
@@ -83,4 +83,4 @@ Indexed users: 2,881
 | 19 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
 | 20 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 125 |
 
-Generated: 2026-10-09T15:32:19.811Z
+Generated: 2026-10-09T16:25:25.972Z

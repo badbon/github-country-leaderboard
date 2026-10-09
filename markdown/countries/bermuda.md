@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 902
+Indexed users: 901
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 902
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 11,798 |
+| 1 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,037 |
 | 2 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 10,483 |
 | 3 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 9,477 |
 | 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 8,323 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 66 |
 
-Generated: 2026-10-09T15:29:55.297Z
+Generated: 2026-10-09T16:23:47.469Z

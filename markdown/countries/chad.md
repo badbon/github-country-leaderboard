@@ -13,7 +13,7 @@ Indexed users: 200
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,012 |
-| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,379 |
+| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,389 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 678 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 644 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 509 |
@@ -72,8 +72,8 @@ Indexed users: 200
 | 8 | [balesco](https://github.com/balesco) | Bale Hormo | N'Djamena, Tchad | 11 |
 | 9 | [mahamat-ali](https://github.com/mahamat-ali) | Mahamat Ali Youssouf  | Ndjamena, Chad | 11 |
 | 10 | [Yamingue](https://github.com/Yamingue) |  | Tchad | 11 |
-| 11 | [imontash](https://github.com/imontash) |  | Chad, N'Djamena | 10 |
-| 12 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 9 |
+| 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 10 |
+| 12 | [imontash](https://github.com/imontash) |  | Chad, N'Djamena | 10 |
 | 13 | [fmarazi](https://github.com/fmarazi) | Florian Ndjerie Marazi | Chad | 9 |
 | 14 | [harundjibrin](https://github.com/harundjibrin) | Haroun Djibrine | N'Djaména, Chad | 9 |
 | 15 | [Nassir235](https://github.com/Nassir235) | Nassir baharadine abdelkrim | N'djamena | 9 |
@@ -83,4 +83,4 @@ Indexed users: 200
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-09T15:34:34.010Z
+Generated: 2026-10-09T16:28:09.119Z

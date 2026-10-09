@@ -1,6 +1,6 @@
 # Ecuador
 
-Indexed users: 4,905
+Indexed users: 4,904
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,905
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 
-Generated: 2026-10-09T15:39:04.611Z
+Generated: 2026-10-09T16:32:04.960Z
