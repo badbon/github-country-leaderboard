@@ -1,6 +1,6 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-09T01:20:50.592Z
+Generated: 2026-10-09T02:29:32.674Z
 
 Users: 3314
 
@@ -18,11 +18,11 @@ Users: 3314
 | 10 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Verus Capital & Batea Fintech SAS |  | Dominican Republic | 6885 |
 | 11 | [everylisting](https://github.com/everylisting) | Philippe Roy | @everylisting-com  |  | Dominican-Republic | 6653 |
 | 12 | [focux](https://github.com/focux) | Leonardo E. Dominguez |  | foocux | Dominican Republic | 6567 |
-| 13 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |
-| 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
-| 15 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
-| 16 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
-| 17 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git |  |  | Dominican Republic | 5478 |
-| 18 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 5442 |
-| 19 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 5369 |
-| 20 | [mmonteagudo](https://github.com/mmonteagudo) | Manuel Monteagudo | Edal Solutions |  | Dominican Republic | 5295 |
+| 13 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | T-Eco |  | Dominican Republic | 5922 |
+| 14 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | @magaransoft | emilsosa_ | Dominican Republic | 5892 |
+| 15 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
+| 16 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
+| 17 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
+| 18 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git |  |  | Dominican Republic | 5478 |
+| 19 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 5442 |
+| 20 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 5369 |

@@ -1,8 +1,8 @@
 # Followers - Slovakia
 
-Generated: 2026-10-09T00:51:10.986Z
+Generated: 2026-10-09T02:00:20.642Z
 
-Users: 4698
+Users: 4699
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 4698
 | 12 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský |  |  | Trenčín, Slovakia | 352 |
 | 13 | [ingbrzy](https://github.com/ingbrzy) | ingbrzy | miuios.cz, xiaomi.eu |  | Slovakia, EU | 348 |
 | 14 | [MatejBendik](https://github.com/MatejBendik) | Matej Bendík |  |  | Slovakia | 335 |
-| 15 | [vlady0712](https://github.com/vlady0712) | Vlady |  |  | Košice, Slovakia | 330 |
+| 15 | [vlady0712](https://github.com/vlady0712) | Vlady |  |  | Košice, Slovakia | 321 |
 | 16 | [xhyrom](https://github.com/xhyrom) | Jozef Steinhübl | @slovensko-digital  |  | Slovakia | 319 |
 | 17 | [ckissi](https://github.com/ckissi) | Csaba Kissi | Elerion ltd | csaba_kissi | Slovakia | 314 |
 | 18 | [darsain](https://github.com/darsain) |  |  |  | Slovakia | 299 |

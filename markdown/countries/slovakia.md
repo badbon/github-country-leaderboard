@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,698
+Indexed users: 4,699
 
 | Leaderboard | Link |
 |---|---|
@@ -55,8 +55,8 @@ Indexed users: 4,698
 | 16 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar | Bratislava | 2,391 |
 | 17 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | Bratislava  | 2,289 |
 | 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny | Slovakia | 2,282 |
-| 19 | [pilot2254](https://github.com/pilot2254) | mike | Slovakia | 2,172 |
-| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
+| 19 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi | Slovakia | 2,049 |
+| 20 | [zdila](https://github.com/zdila) | Martin Ždila | Košice, Slovakia | 1,977 |
 
 ## Followers
 
@@ -76,11 +76,11 @@ Indexed users: 4,698
 | 12 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 352 |
 | 13 | [ingbrzy](https://github.com/ingbrzy) | ingbrzy | Slovakia, EU | 348 |
 | 14 | [MatejBendik](https://github.com/MatejBendik) | Matej Bendík | Slovakia | 335 |
-| 15 | [vlady0712](https://github.com/vlady0712) | Vlady | Košice, Slovakia | 330 |
+| 15 | [vlady0712](https://github.com/vlady0712) | Vlady | Košice, Slovakia | 321 |
 | 16 | [xhyrom](https://github.com/xhyrom) | Jozef Steinhübl | Slovakia | 319 |
 | 17 | [ckissi](https://github.com/ckissi) | Csaba Kissi | Slovakia | 314 |
 | 18 | [darsain](https://github.com/darsain) |  | Slovakia | 299 |
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-09T00:51:10.986Z
+Generated: 2026-10-09T02:00:20.642Z

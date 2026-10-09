@@ -46,10 +46,10 @@ Indexed users: 2,134
 | 7 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,871 |
 | 8 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 1,813 |
 | 9 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,787 |
-| 10 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,456 |
-| 11 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,382 |
-| 12 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,269 |
-| 13 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 1,249 |
+| 10 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,382 |
+| 11 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,269 |
+| 12 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 1,249 |
+| 13 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,141 |
 | 14 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,099 |
 | 15 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,093 |
 | 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
@@ -63,7 +63,7 @@ Indexed users: 2,134
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [inputsh](https://github.com/inputsh) | Aleksandar Todorović | Sarajevo, Bosnia & Herzegovina | 717 |
-| 2 | [BenjaminMahmic](https://github.com/BenjaminMahmic) | Benjamin Mahmić | Zenica, Bosnia and Herzegovina | 466 |
+| 2 | [BenjaminMahmic](https://github.com/BenjaminMahmic) | Benjamin Mahmić | Zenica, Bosnia and Herzegovina | 464 |
 | 3 | [adnanrahic](https://github.com/adnanrahic) | Adnan Rahić | Sarajevo | 383 |
 | 4 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 232 |
 | 5 | [adnanh](https://github.com/adnanh) | Adnan Hajdarević | Sarajevo, Bosnia & Herzegovina | 226 |
@@ -83,4 +83,4 @@ Indexed users: 2,134
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-09T01:10:43.464Z
+Generated: 2026-10-09T02:21:15.287Z

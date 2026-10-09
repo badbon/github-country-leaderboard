@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-09T00:46:48.701Z
+Generated: 2026-10-09T01:55:58.240Z
 
 Users: 3525
 
@@ -11,8 +11,8 @@ Users: 3525
 | 3 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | NEXCODE Africa |  | Kigali Rwanda | 15554 |
 | 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 6855 |
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | MiCorp | _MRElvis_ | Rwanda | 5827 |
-| 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | YCSoft Rwanda | yannicktx1 | Kigali, Rwanda | 5010 |
-| 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 4740 |
+| 6 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 5107 |
+| 7 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | YCSoft Rwanda | yannicktx1 | Kigali, Rwanda | 5010 |
 | 8 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | EchoSols   | shema_Leandre | Kigali,Rwanda | 4338 |
 | 9 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | @Plasera | StilesAbel | Kigali/Rwannda | 4278 |
 | 10 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Foxx Kennels |  | Kigali Rwanda | 4003 |

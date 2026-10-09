@@ -19,7 +19,7 @@ Indexed users: 212
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,502 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,772 |
 | 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,413 |
-| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,238 |
+| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,248 |
 | 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv | Reunion Island | 2,187 |
 | 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Réunion Island | 2,043 |
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman | Saint-Denis, Réunion | 2,030 |
@@ -27,8 +27,8 @@ Indexed users: 212
 | 13 | [John361](https://github.com/John361) | John | Réunion | 1,861 |
 | 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | Reunion Island, France | 1,802 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel | Reunion Island | 1,766 |
-| 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,482 |
-| 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,406 |
+| 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET | Reunion Island | 1,488 |
+| 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 1,482 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | Réunion Island | 1,351 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe | Réunion | 1,210 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | Réunion | 1,152 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-09T00:46:41.314Z
+Generated: 2026-10-09T01:55:18.505Z

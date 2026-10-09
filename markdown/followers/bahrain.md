@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-09T01:08:44.618Z
+Generated: 2026-10-09T02:18:30.980Z
 
 Users: 728
 
@@ -9,14 +9,14 @@ Users: 728
 | 1 | [walidshaari](https://github.com/walidshaari) | Walid Shaari CNJ | Community | walidshaari | Bahrain | 715 |
 | 2 | [naweed](https://github.com/naweed) | Naweed Akram | XGENO Software | xgeno | Bahrain | 243 |
 | 3 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 121 |
-| 4 | [0xRar](https://github.com/0xRar) |  |  | fcv9_q | Bahrain | 115 |
+| 4 | [0xRar](https://github.com/0xRar) |  |  | fcv9_q | Bahrain | 113 |
 | 5 | [burhan](https://github.com/burhan) | Burhan Khalid |  | burhan | Bahrain/Kuwait | 110 |
 | 6 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 106 |
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 104 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 98 |
 | 9 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |
 | 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 93 |
-| 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Avanza Solutions |  | Manama, Bahrain | 81 |
+| 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Avanza Solutions |  | Manama, Bahrain | 84 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | AIP Genius |  | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 64 |
 | 14 | [sayed3li97](https://github.com/sayed3li97) | Sayed Ali Alkamel |  | sayed3li97 | Bahrain | 62 |

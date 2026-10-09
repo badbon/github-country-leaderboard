@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-09T00:48:25.796Z
+Generated: 2026-10-09T01:57:30.514Z
 
 Users: 61
 
@@ -13,7 +13,7 @@ Users: 61
 | 5 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 284 |
 | 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
 | 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
-| 8 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 102 |
+| 8 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 101 |
 | 9 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 97 |
 | 10 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |
 | 11 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna | michelemazzaa | San Marino | 64 |
@@ -21,7 +21,7 @@ Users: 61
 | 13 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
 | 14 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 44 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 43 |
-| 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 41 |
+| 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 39 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 37 |
 | 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | Mr. APPs s.r.l. |  | San Marino | 31 |
 | 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | @coinspect | agustingianni | San Marino | 30 |

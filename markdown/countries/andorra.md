@@ -25,12 +25,12 @@ Indexed users: 215
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,818 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,524 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,909 |
-| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,702 |
+| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,763 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,464 |
 | 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,385 |
 | 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,378 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
-| 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,778 |
+| 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,788 |
 | 20 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 2,618 |
 
 ## Public Contributions
@@ -56,7 +56,7 @@ Indexed users: 215
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
 | 18 | [davidbalivo](https://github.com/davidbalivo) |  | Andorra | 235 |
 | 19 | [loixlab](https://github.com/loixlab) | Sébastien LVL | Andorra | 224 |
-| 20 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 221 |
+| 20 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 220 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-09T01:03:15.046Z
+Generated: 2026-10-09T02:14:45.108Z

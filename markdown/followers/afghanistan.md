@@ -1,8 +1,8 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-09T01:02:54.102Z
+Generated: 2026-10-09T02:13:26.693Z
 
-Users: 1501
+Users: 1500
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

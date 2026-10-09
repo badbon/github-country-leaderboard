@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-09T01:08:44.618Z
+Generated: 2026-10-09T02:18:30.980Z
 
 Users: 728
 
@@ -19,9 +19,9 @@ Users: 728
 | 11 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 4379 |
 | 12 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 4337 |
 | 13 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 4304 |
-| 14 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3769 |
-| 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3594 |
-| 16 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 3321 |
+| 14 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4119 |
+| 15 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3769 |
+| 16 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3594 |
 | 17 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3204 |
 | 18 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 3171 |
 | 19 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3169 |

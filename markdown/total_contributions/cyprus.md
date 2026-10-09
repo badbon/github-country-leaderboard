@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-09T01:19:27.262Z
+Generated: 2026-10-09T02:28:24.613Z
 
 Users: 2750
 
@@ -23,6 +23,6 @@ Users: 2750
 | 15 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
 | 16 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |
 | 17 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 7985 |
-| 18 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 7526 |
-| 19 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 7428 |
-| 20 | [moisish](https://github.com/moisish) | Moisis Hadjiagathangelou | @digitalmarmalade  | moisis_h | Cyprus | 7342 |
+| 18 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Futurecast Studios |  | Nicosia, Cyprus | 7877 |
+| 19 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 7526 |
+| 20 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 7428 |

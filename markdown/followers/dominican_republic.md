@@ -1,6 +1,6 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-09T01:20:50.592Z
+Generated: 2026-10-09T02:29:32.674Z
 
 Users: 3314
 
@@ -18,7 +18,7 @@ Users: 3314
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dulus AI | kevrojo | Dominican Republic | 227 |
 | 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | CrossGeeks |  | Dominican Republic | 225 |
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez |  | JadhielV | Dominican Republic | 213 |
-| 13 | [crystalduran](https://github.com/crystalduran) | Crystal D |  |  | Santo Domingo, Dominican Republic | 197 |
+| 13 | [crystalduran](https://github.com/crystalduran) | Crystal D |  |  | Santo Domingo, Dominican Republic | 194 |
 | 14 | [robertlluberes](https://github.com/robertlluberes) | Robert Lluberes |  | robertlluberes | Dominican Republic | 164 |
 | 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero |  | wilburhimself | Santo Domingo, Dominican Republic | 156 |
 | 16 | [itsalb3rt](https://github.com/itsalb3rt) | Albert E. Hidalgo Taveras |  | alhidalgodev | Santiago,Dominican Republic | 154 |

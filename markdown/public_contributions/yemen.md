@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-09T01:01:16.723Z
+Generated: 2026-10-09T02:12:08.619Z
 
 Users: 1206
 
@@ -25,4 +25,4 @@ Users: 1206
 | 17 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 759 |
 | 18 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 681 |
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 680 |
-| 20 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya |  |  | Yemen , Ibb | 611 |
+| 20 | [O2sa](https://github.com/O2sa) | Osama Mabkhot |  | o22sam | Yemen | 658 |

@@ -56,7 +56,7 @@ Indexed users: 1,206
 | 17 | [yswef](https://github.com/yswef) | yswef alhmzy | yemen | 759 |
 | 18 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 681 |
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 680 |
-| 20 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya | Yemen , Ibb | 611 |
+| 20 | [O2sa](https://github.com/O2sa) | Osama Mabkhot | Yemen | 658 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,206
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 160 |
 | 20 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 157 |
 
-Generated: 2026-10-09T01:01:16.723Z
+Generated: 2026-10-09T02:12:08.619Z

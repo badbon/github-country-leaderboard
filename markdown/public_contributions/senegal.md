@@ -1,8 +1,8 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-09T00:50:02.675Z
+Generated: 2026-10-09T02:07:15.783Z
 
-Users: 1360
+Users: 1359
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 1360
 | 8 | [crybaby050](https://github.com/crybaby050) | Seydina |  |  | Senegal | 1661 |
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | Freelancing |  | SENEGAL | 1655 |
 | 10 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Teyliom |  | Dakar,Senegal | 1452 |
-| 11 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1253 |
-| 12 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1220 |
-| 13 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1160 |
-| 14 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1131 |
-| 15 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1067 |
-| 16 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
-| 17 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
-| 18 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |
-| 19 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 916 |
-| 20 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 900 |
+| 11 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 1315 |
+| 12 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma |  |  | Senegal | 1253 |
+| 13 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa |  |  | Dakar, Senegal | 1220 |
+| 14 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1160 |
+| 15 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1131 |
+| 16 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1067 |
+| 17 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1022 |
+| 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
+| 19 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
+| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |

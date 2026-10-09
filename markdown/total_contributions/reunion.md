@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-09T00:46:41.314Z
+Generated: 2026-10-09T01:55:18.505Z
 
 Users: 212
 
@@ -13,7 +13,7 @@ Users: 212
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3502 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2772 |
 | 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2413 |
-| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2238 |
+| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2248 |
 | 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2187 |
 | 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2043 |
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2030 |
@@ -21,8 +21,8 @@ Users: 212
 | 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1861 |
 | 14 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1802 |
 | 15 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1766 |
-| 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1482 |
-| 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1406 |
+| 16 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1488 |
+| 17 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1482 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1351 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1210 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 1152 |

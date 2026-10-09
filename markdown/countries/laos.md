@@ -1,6 +1,6 @@
 # Laos
 
-Indexed users: 359
+Indexed users: 360
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 359
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 15 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-09T01:37:58.110Z
+Generated: 2026-10-09T02:03:18.307Z

@@ -52,8 +52,8 @@ Indexed users: 696
 | 13 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,082 |
 | 14 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
 | 15 | [JohnHeshima](https://github.com/JohnHeshima) | JOHN HESHIMA | DRC, Kinshasa | 897 |
-| 16 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
-| 17 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 802 |
+| 16 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 878 |
+| 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
 | 18 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
 | 19 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
 | 20 | [arnold722](https://github.com/arnold722) | Arnold Leonce | Bukavu, DR Congo | 659 |
@@ -64,7 +64,7 @@ Indexed users: 696
 |---:|---|---|---|---:|
 | 1 | [Mardo-k12](https://github.com/Mardo-k12) | Mardo | kinshasa | 677 |
 | 2 | [bernard-ng](https://github.com/bernard-ng) | Bernard Ngandu | DR Congo, Lubumbashi | 237 |
-| 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | Lubumbashi, Katanga, DR Congo | 216 |
+| 3 | [JonathanMonga](https://github.com/JonathanMonga) | Jomo | Lubumbashi, Katanga, DR Congo | 217 |
 | 4 | [Kgermando](https://github.com/Kgermando) | Kgermain | Kinshasa | 196 |
 | 5 | [SKB-TECH](https://github.com/SKB-TECH) | SKB-TECH | DR CONGO | 184 |
 | 6 | [Gbelsalvador](https://github.com/Gbelsalvador) | BANYI BANTU GEDEON | kinshasa | 163 |
@@ -83,4 +83,4 @@ Indexed users: 696
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-09T01:20:53.069Z
+Generated: 2026-10-09T02:29:48.798Z

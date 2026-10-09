@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-09T00:46:48.701Z
+Generated: 2026-10-09T01:55:58.240Z
 
 Users: 3525
 
@@ -22,7 +22,7 @@ Users: 3525
 | 14 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Atomiq |  | Rwanda | 7438 |
 | 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
 | 16 | [princechrix](https://github.com/princechrix) | Prince Chrix |  |  | Kigali, Rwanda | 7377 |
-| 17 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | MiCorp | _MRElvis_ | Rwanda | 6886 |
-| 18 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Dime Inc Ltd |  | Rwanda, Kigali | 6555 |
-| 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 6491 |
-| 20 | [TresorRw](https://github.com/TresorRw) | CYUSA Alain Tresor | @healthconnect-uk | TresorRw | Kigali, Rwanda | 6320 |
+| 17 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 6897 |
+| 18 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | MiCorp | _MRElvis_ | Rwanda | 6886 |
+| 19 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Dime Inc Ltd |  | Rwanda, Kigali | 6555 |
+| 20 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 6491 |

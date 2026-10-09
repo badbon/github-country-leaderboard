@@ -14,18 +14,18 @@ Indexed users: 59
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,945 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,851 |
-| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,483 |
-| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,274 |
+| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,477 |
+| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,273 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 898 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 821 |
-| 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 694 |
+| 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 695 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Fjord Dickson, Greenland | 286 |
 | 9 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
 | 10 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 230 |
 | 11 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 174 |
 | 12 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 13 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 131 |
-| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 128 |
+| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 129 |
 | 15 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
 | 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 76 |
 | 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
@@ -38,9 +38,9 @@ Indexed users: 59
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,978 |
-| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,483 |
+| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,477 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 898 |
-| 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 694 |
+| 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 695 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 544 |
 | 6 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 270 |
 | 7 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 237 |
@@ -50,13 +50,13 @@ Indexed users: 59
 | 11 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 131 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
-| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 102 |
+| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 103 |
 | 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 76 |
 | 16 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
 | 17 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 45 |
 | 18 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Greenland | 38 |
 | 19 | [AllanFinnich](https://github.com/AllanFinnich) | Allan Finnich | Greenland | 22 |
-| 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 20 |
+| 20 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 17 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [Pocket-sys32](https://github.com/Pocket-sys32) | Manraj Thandi | Greenland | 9 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-09T01:26:50.068Z
+Generated: 2026-10-09T02:36:01.886Z

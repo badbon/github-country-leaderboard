@@ -24,14 +24,14 @@ Indexed users: 3,314
 | 10 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
 | 11 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 6,653 |
 | 12 | [focux](https://github.com/focux) | Leonardo E. Dominguez | Dominican Republic | 6,567 |
-| 13 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 5,892 |
-| 14 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
-| 15 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
-| 16 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya | Dominican Republic | 5,486 |
-| 17 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git | Dominican Republic | 5,478 |
-| 18 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 5,442 |
-| 19 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 5,369 |
-| 20 | [mmonteagudo](https://github.com/mmonteagudo) | Manuel Monteagudo | Dominican Republic | 5,295 |
+| 13 | [AnthRG](https://github.com/AnthRG) | Anthony Rosario G. | Dominican Republic | 5,922 |
+| 14 | [emilsosa](https://github.com/emilsosa) | Emil Sosa | Dominican Republic | 5,892 |
+| 15 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
+| 16 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
+| 17 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya | Dominican Republic | 5,486 |
+| 18 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git | Dominican Republic | 5,478 |
+| 19 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 5,442 |
+| 20 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 5,369 |
 
 ## Public Contributions
 
@@ -74,7 +74,7 @@ Indexed users: 3,314
 | 10 | [KevRojo](https://github.com/KevRojo) | Kevin Rojo | Dominican Republic | 227 |
 | 11 | [rdelrosario](https://github.com/rdelrosario) | Rendy Del Rosario | Dominican Republic | 225 |
 | 12 | [Jadhielv](https://github.com/Jadhielv) | Jadhiel Vélez | Dominican Republic | 213 |
-| 13 | [crystalduran](https://github.com/crystalduran) | Crystal D | Santo Domingo, Dominican Republic | 197 |
+| 13 | [crystalduran](https://github.com/crystalduran) | Crystal D | Santo Domingo, Dominican Republic | 194 |
 | 14 | [robertlluberes](https://github.com/robertlluberes) | Robert Lluberes | Dominican Republic | 164 |
 | 15 | [wilburhimself](https://github.com/wilburhimself) | Wilbur Suero | Santo Domingo, Dominican Republic | 156 |
 | 16 | [itsalb3rt](https://github.com/itsalb3rt) | Albert E. Hidalgo Taveras | Santiago,Dominican Republic | 154 |
@@ -83,4 +83,4 @@ Indexed users: 3,314
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-09T01:20:50.592Z
+Generated: 2026-10-09T02:29:32.674Z

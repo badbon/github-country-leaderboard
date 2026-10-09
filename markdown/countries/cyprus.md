@@ -29,9 +29,9 @@ Indexed users: 2,750
 | 15 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
 | 16 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
 | 17 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 7,985 |
-| 18 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 7,526 |
-| 19 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 7,428 |
-| 20 | [moisish](https://github.com/moisish) | Moisis Hadjiagathangelou | Cyprus | 7,342 |
+| 18 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Nicosia, Cyprus | 7,877 |
+| 19 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 7,526 |
+| 20 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 7,428 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,750
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-09T01:19:27.262Z
+Generated: 2026-10-09T02:28:24.613Z

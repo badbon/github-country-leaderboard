@@ -14,18 +14,18 @@ Indexed users: 61
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 11,441 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,552 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,212 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,203 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,133 |
-| 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,304 |
-| 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,285 |
-| 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,183 |
+| 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,316 |
+| 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,284 |
+| 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,175 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,077 |
 | 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 884 |
 | 10 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 756 |
-| 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 753 |
+| 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 751 |
 | 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 735 |
 | 13 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | San Marino | 467 |
-| 14 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 344 |
+| 14 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 343 |
 | 15 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 232 |
 | 16 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 197 |
 | 17 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | San Marino | 162 |
@@ -44,7 +44,7 @@ Indexed users: 61
 | 5 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 284 |
 | 6 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 232 |
 | 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 197 |
-| 8 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 102 |
+| 8 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 101 |
 | 9 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 97 |
 | 10 | [lucabio](https://github.com/lucabio) | Luca | San Marino | 75 |
 | 11 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | San Marino | 64 |
@@ -52,7 +52,7 @@ Indexed users: 61
 | 13 | [salugea](https://github.com/salugea) | Salugea | San Marino | 45 |
 | 14 | [pigorg](https://github.com/pigorg) | alessandro gnola | san marino | 44 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 43 |
-| 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 41 |
+| 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 39 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 37 |
 | 18 | [samuele-mrapps](https://github.com/samuele-mrapps) | Samuele Mazza | San Marino | 31 |
 | 19 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 30 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-09T00:48:25.796Z
+Generated: 2026-10-09T01:57:30.514Z

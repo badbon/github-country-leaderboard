@@ -1,6 +1,6 @@
 # Serbia
 
-Indexed users: 10,664
+Indexed users: 10,663
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 10,664
 | 19 | [arodic](https://github.com/arodic) | Aki Rodić | Belgrade | 434 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 434 |
 
-Generated: 2026-10-09T00:50:05.522Z
+Generated: 2026-10-09T01:58:44.532Z

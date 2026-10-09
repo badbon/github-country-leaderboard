@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-09T01:10:43.464Z
+Generated: 2026-10-09T02:21:15.287Z
 
 Users: 2134
 
@@ -15,10 +15,10 @@ Users: 2134
 | 7 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 1871 |
 | 8 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Shop Circle |  | Sarajevo / Bosnia and Herzegovina | 1813 |
 | 9 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic |  |  | Sarajevo | 1787 |
-| 10 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1456 |
-| 11 | [beganovich](https://github.com/beganovich) | Benjamin Beganović |  | beganovichhh | Bosnia and Herzegovina | 1382 |
-| 12 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1269 |
-| 13 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 1249 |
+| 10 | [beganovich](https://github.com/beganovich) | Benjamin Beganović |  | beganovichhh | Bosnia and Herzegovina | 1382 |
+| 11 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn |  | IntuitionAmigaX | Sarajevo, BiH | 1269 |
+| 12 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | @denelop  | enisdenjo | Sarajevo | 1249 |
+| 13 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1141 |
 | 14 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1099 |
 | 15 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | bracetm |  | Sarajevo, FBiH | 1093 |
 | 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |

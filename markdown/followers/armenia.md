@@ -1,6 +1,6 @@
 # Followers - Armenia
 
-Generated: 2026-10-09T01:04:55.504Z
+Generated: 2026-10-09T02:16:21.180Z
 
 Users: 4045
 
@@ -20,7 +20,7 @@ Users: 4045
 | 12 | [Aramayis331](https://github.com/Aramayis331) | Aramayis Araqelyan |  |  | Armenia | 455 |
 | 13 | [armcha](https://github.com/armcha) | Arman |  |  | Armenia | 426 |
 | 14 | [gildor2](https://github.com/gildor2) | Konstantin Nosov |  | UGildor | Armenia | 414 |
-| 15 | [OV111](https://github.com/OV111) | Vahe Ohanyan |  |  | Yerevan/Armenia | 373 |
+| 15 | [OV111](https://github.com/OV111) | Vahe Ohanyan |  |  | Yerevan/Armenia | 376 |
 | 16 | [suren-atoyan](https://github.com/suren-atoyan) | Suren Atoyan | @basetenlabs | suren_at | Yerevan, Armenia | 335 |
 | 17 | [ivbeg](https://github.com/ivbeg) | Ivan Begtin | APICrafter, NGO "Informational Culture" @infoculture ,  Open Data Armenia, OKFN Russia | ibegtin | Armenia | 332 |
 | 18 | [igrishaev](https://github.com/igrishaev) | Ivan Grishaev | Vast fintech |  | Armenia | 254 |

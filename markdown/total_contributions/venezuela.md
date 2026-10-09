@@ -1,8 +1,8 @@
 # Total Contributions - Venezuela
 
-Generated: 2026-10-09T01:00:50.285Z
+Generated: 2026-10-09T02:11:58.184Z
 
-Users: 6627
+Users: 6625
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

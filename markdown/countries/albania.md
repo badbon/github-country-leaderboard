@@ -1,6 +1,6 @@
 # Albania
 
-Indexed users: 1,191
+Indexed users: 1,189
 
 | Leaderboard | Link |
 |---|---|
@@ -50,7 +50,7 @@ Indexed users: 1,191
 | 11 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
 | 12 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
 | 13 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 664 |
-| 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 662 |
+| 14 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 648 |
 | 15 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
 | 16 | [genciiv](https://github.com/genciiv) | G-code | Albania | 616 |
 | 17 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
@@ -83,4 +83,4 @@ Indexed users: 1,191
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-09T01:03:04.258Z
+Generated: 2026-10-09T02:13:33.719Z

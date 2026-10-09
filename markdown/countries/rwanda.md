@@ -28,10 +28,10 @@ Indexed users: 3,525
 | 14 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Rwanda | 7,438 |
 | 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
 | 16 | [princechrix](https://github.com/princechrix) | Prince Chrix | Kigali, Rwanda | 7,377 |
-| 17 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 6,886 |
-| 18 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Rwanda, Kigali | 6,555 |
-| 19 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 6,491 |
-| 20 | [TresorRw](https://github.com/TresorRw) | CYUSA Alain Tresor | Kigali, Rwanda | 6,320 |
+| 17 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 6,897 |
+| 18 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 6,886 |
+| 19 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Rwanda, Kigali | 6,555 |
+| 20 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 6,491 |
 
 ## Public Contributions
 
@@ -42,8 +42,8 @@ Indexed users: 3,525
 | 3 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 15,554 |
 | 4 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,855 |
 | 5 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi Rurangirwa | Rwanda | 5,827 |
-| 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,010 |
-| 7 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 4,740 |
+| 6 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
+| 7 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,010 |
 | 8 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 4,338 |
 | 9 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 4,278 |
 | 10 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,003 |
@@ -83,4 +83,4 @@ Indexed users: 3,525
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 315 |
 | 20 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 
-Generated: 2026-10-09T00:46:48.701Z
+Generated: 2026-10-09T01:55:58.240Z

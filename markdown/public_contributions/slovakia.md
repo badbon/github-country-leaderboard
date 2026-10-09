@@ -1,8 +1,8 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-09T00:51:10.986Z
+Generated: 2026-10-09T02:00:20.642Z
 
-Users: 4698
+Users: 4699
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 4698
 | 16 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
 | 17 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
 | 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
-| 19 | [pilot2254](https://github.com/pilot2254) | mike | High School |  | Slovakia | 2172 |
-| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |
+| 19 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |
+| 20 | [zdila](https://github.com/zdila) | Martin Ždila |  | martinzdila | Košice, Slovakia | 1977 |

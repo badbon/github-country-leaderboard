@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-09T00:51:31.511Z
+Generated: 2026-10-09T02:01:57.608Z
 
 Users: 860
 
@@ -15,8 +15,8 @@ Users: 860
 | 7 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 5231 |
 | 8 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4869 |
 | 9 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 4299 |
-| 10 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 3983 |
-| 11 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 3880 |
+| 10 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 4017 |
+| 11 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 3983 |
 | 12 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3819 |
 | 13 | [najiibmohamed11](https://github.com/najiibmohamed11) | Abdinajib  | pathway solutions  | abdinajibmo | Mogadishu, Somalia  | 3772 |
 | 14 | [abzalan](https://github.com/abzalan) | Abdizalaan H Abdi | @dhadoLabs | iamabzalan | Mogadishu, Somalia | 3543 |
