@@ -8467,8 +8467,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 860,
-    "publicContributions": 22,
+    "privateContributions": 959,
+    "publicContributions": 24,
     "createdAt": "2018-01-17T05:25:29Z"
   },
   {
@@ -8502,7 +8502,7 @@
     "location": "Victoria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-09-25T22:57:08Z"
@@ -8514,7 +8514,7 @@
     "location": "Victoria, British Columbia",
     "company": "Realtor.com",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-26T18:21:00Z"
@@ -8563,7 +8563,7 @@
     "company": "Ether Capital",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 6,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2018-09-25T21:46:02Z"
   },
@@ -8587,8 +8587,8 @@
     "company": "@Quartech ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 180,
-    "publicContributions": 478,
+    "privateContributions": 165,
+    "publicContributions": 586,
     "createdAt": "2018-01-10T20:53:55Z"
   },
   {
@@ -8605,14 +8605,14 @@
   },
   {
     "login": "acidchu",
-    "name": "Bevan matsacos",
+    "name": "Acidchu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/45096482?s=72&u=ba009b102c65cfedace8bc9ea37cd1dd7e1e8fb3&v=4",
     "location": "victoria austarlia ",
-    "company": "@computersforcongo ",
+    "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 19,
-    "publicContributions": 18,
+    "privateContributions": 23,
+    "publicContributions": 17,
     "createdAt": "2018-11-16T11:19:08Z"
   },
   {
@@ -8636,7 +8636,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2018-10-28T06:34:08Z"
   },
   {
@@ -8658,9 +8658,9 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 545,
+    "publicContributions": 628,
     "createdAt": "2018-03-11T19:31:36Z"
   },
   {
@@ -8672,7 +8672,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 18,
     "createdAt": "2018-01-09T07:20:17Z"
   },
   {
@@ -8682,22 +8682,10 @@
     "location": "Victoria BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 239,
+    "publicContributions": 344,
     "createdAt": "2018-10-18T22:10:31Z"
-  },
-  {
-    "login": "ashiqullahmg",
-    "name": "Ashiq خان",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43939523?s=72&u=fd4db714e5dedf084b32b84bb44f70653e7ea4ec&v=4",
-    "location": "Victoria, BC",
-    "company": "",
-    "twitterUsername": "ashiqullahmg",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-10-07T22:20:03Z"
   },
   {
     "login": "matthewhbarker",

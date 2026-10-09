@@ -8407,8 +8407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 534,
-    "publicContributions": 463,
+    "privateContributions": 529,
+    "publicContributions": 442,
     "createdAt": "2022-06-23T06:44:40Z"
   },
   {
@@ -8432,7 +8432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 80,
     "createdAt": "2022-01-28T17:50:30Z"
   },
   {
@@ -8442,9 +8442,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 331,
-    "publicContributions": 28,
+    "followers": 2,
+    "privateContributions": 281,
+    "publicContributions": 10,
     "createdAt": "2022-07-30T10:32:28Z"
   },
   {
@@ -8479,7 +8479,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 132,
+    "privateContributions": 204,
     "publicContributions": 0,
     "createdAt": "2021-12-28T08:17:34Z"
   },
@@ -8504,7 +8504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 406,
+    "publicContributions": 510,
     "createdAt": "2022-02-03T17:00:01Z"
   },
   {
@@ -8527,7 +8527,7 @@
     "company": "EPAM Systems",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 182,
+    "privateContributions": 229,
     "publicContributions": 0,
     "createdAt": "2022-09-16T14:22:50Z"
   },
@@ -8545,14 +8545,14 @@
   },
   {
     "login": "bdiev",
-    "name": "Bohdan",
+    "name": "bdiev_",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121368986?s=72&u=7c3cfd3aa3498cf9fbc026cf033b6a906637a1fb&v=4",
     "location": "Kaunas, Lithuania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 178,
-    "publicContributions": 2246,
+    "privateContributions": 562,
+    "publicContributions": 2338,
     "createdAt": "2022-12-25T03:31:49Z"
   },
   {
@@ -8563,7 +8563,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 189,
+    "privateContributions": 166,
     "publicContributions": 6,
     "createdAt": "2022-12-06T22:55:15Z"
   },
@@ -8624,15 +8624,15 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 131,
     "createdAt": "2022-11-03T23:37:42Z"
   },
   {
     "login": "ZhukAleksandr",
     "name": "Aleksandr Zhuk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106114077?s=72&u=8400f8a0a8effc991dacbc44be72c9203d98a00b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/106114077?s=72&u=f6262fcfc0fbfee8e59217b886b7134525052ef3&v=4",
     "location": "Vilnius (Lithuania)",
-    "company": "",
+    "company": "Andersen Lab",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,

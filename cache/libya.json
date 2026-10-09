@@ -8274,22 +8274,10 @@
     "location": "tripoli",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2015-11-01T14:11:29Z"
-  },
-  {
-    "login": "Panji241",
-    "name": "Παναγιώτης Χριστόφορος Κεφαλάς",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14290894?s=72&u=2db7c597933abd0466387cd1a6636974865d721b&v=4",
-    "location": "Tripoli, GR",
-    "company": "University of Peloponese",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2015-09-15T09:08:21Z"
   },
   {
     "login": "zakariasassi",
@@ -8298,9 +8286,9 @@
     "location": "Libya",
     "company": "",
     "twitterUsername": "zakariasassi96",
-    "followers": 88,
-    "privateContributions": 57,
-    "publicContributions": 16,
+    "followers": 90,
+    "privateContributions": 65,
+    "publicContributions": 15,
     "createdAt": "2014-11-05T17:23:11Z"
   },
   {
@@ -8322,8 +8310,8 @@
     "location": "Libya",
     "company": "",
     "twitterUsername": "0xNabil",
-    "followers": 41,
-    "privateContributions": 233,
+    "followers": 42,
+    "privateContributions": 301,
     "publicContributions": 3,
     "createdAt": "2014-10-21T02:44:28Z"
   },
@@ -8334,9 +8322,9 @@
     "location": "Tripoli - Libya",
     "company": "PrestoEat Co.",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2014-03-03T10:38:14Z"
   },
   {
@@ -8347,7 +8335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2014-06-22T21:10:39Z"
   },
@@ -8359,21 +8347,9 @@
     "company": "Libya Telecom & Technology (LTT)",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 1484,
+    "privateContributions": 1485,
     "publicContributions": 0,
     "createdAt": "2014-12-12T11:49:04Z"
-  },
-  {
-    "login": "alibenmussa",
-    "name": "Ali Ben Mussa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7727346?s=72&u=bba600fe9637baf0ef69d4de54910c65b6d3d090&v=4",
-    "location": "Libya",
-    "company": "@dojoon-ly",
-    "twitterUsername": "alibenmussa",
-    "followers": 21,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-05-28T19:49:00Z"
   },
   {
     "login": "shumbashi",
@@ -8383,8 +8359,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 156,
-    "publicContributions": 49,
+    "privateContributions": 180,
+    "publicContributions": 33,
     "createdAt": "2014-04-02T14:19:52Z"
   },
   {
@@ -8396,7 +8372,7 @@
     "twitterUsername": "AhmedRhuma",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2014-02-06T12:32:05Z"
   },
   {
@@ -8406,7 +8382,7 @@
     "location": "Libya",
     "company": "iMatteh Web Design ",
     "twitterUsername": "imatteh",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-04T21:14:35Z"
@@ -8418,9 +8394,9 @@
     "location": "Libya",
     "company": "Bithive",
     "twitterUsername": "AMahidwei",
-    "followers": 11,
-    "privateContributions": 109,
-    "publicContributions": 70,
+    "followers": 12,
+    "privateContributions": 5947,
+    "publicContributions": 135,
     "createdAt": "2014-04-20T00:05:49Z"
   },
   {
@@ -8430,7 +8406,7 @@
     "location": "Libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-06T02:24:38Z"
@@ -8442,7 +8418,7 @@
     "location": "libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-10-19T13:42:15Z"
@@ -8502,7 +8478,7 @@
     "location": "Tripoli - Libya",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-04-27T20:50:52Z"
@@ -8926,5 +8902,17 @@
     "privateContributions": 225,
     "publicContributions": 11,
     "createdAt": "2026-05-31T21:49:46Z"
+  },
+  {
+    "login": "abbnelhaj",
+    "name": "عبد الرحمن محمد الطاهر بن الحاج",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288167396?s=72&v=4",
+    "location": "tripoli",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-27T00:15:23Z"
   }
 ]

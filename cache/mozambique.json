@@ -8587,8 +8587,8 @@
     "company": "",
     "twitterUsername": "AlguemDaRua",
     "followers": 5,
-    "privateContributions": 142,
-    "publicContributions": 123,
+    "privateContributions": 193,
+    "publicContributions": 192,
     "createdAt": "2020-12-16T16:22:41Z"
   },
   {
@@ -8600,7 +8600,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 9,
     "createdAt": "2020-12-06T20:24:32Z"
   },
   {
@@ -8636,7 +8636,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2020-12-22T06:38:06Z"
   },
   {
@@ -8648,7 +8648,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 35,
     "createdAt": "2020-08-26T19:08:45Z"
   },
   {
@@ -8659,7 +8659,7 @@
     "company": "Unwaste.io Ltd",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 731,
+    "privateContributions": 823,
     "publicContributions": 0,
     "createdAt": "2020-06-07T09:01:09Z"
   },
@@ -8670,9 +8670,9 @@
     "location": "Maputo",
     "company": "Explicaconecta",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 42,
     "createdAt": "2020-11-10T18:50:15Z"
   },
   {
@@ -8707,8 +8707,8 @@
     "company": "ASTER-Informatica & Servicos",
     "twitterUsername": "einfor",
     "followers": 2,
-    "privateContributions": 2530,
-    "publicContributions": 60,
+    "privateContributions": 2728,
+    "publicContributions": 65,
     "createdAt": "2020-10-09T13:53:17Z"
   },
   {
@@ -8744,7 +8744,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 59,
     "createdAt": "2020-12-09T14:43:31Z"
   },
   {
@@ -8768,7 +8768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2020-10-27T10:27:14Z"
   },
   {
@@ -8810,12 +8810,12 @@
   {
     "login": "imariom",
     "name": "Mário Moiane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65212955?s=72&u=802b2c54b41301289a2706966e35c2daa33d99c1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/65212955?s=72&u=6be6207bc5966679d8a77223d6a461d8f557d40e&v=4",
     "location": "Maputo",
     "company": "imariom.com",
     "twitterUsername": "TheMarioMoiane",
-    "followers": 1,
-    "privateContributions": 311,
+    "followers": 2,
+    "privateContributions": 523,
     "publicContributions": 12,
     "createdAt": "2020-05-12T05:37:52Z"
   },

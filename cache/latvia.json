@@ -8156,7 +8156,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 235,
+    "publicContributions": 231,
     "createdAt": "2021-06-17T08:48:26Z"
   },
   {
@@ -8167,7 +8167,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-04-25T08:48:11Z"
   },
@@ -8190,9 +8190,9 @@
     "location": "Latvia , Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 106,
     "createdAt": "2021-10-29T20:43:39Z"
   },
   {
@@ -8203,20 +8203,20 @@
     "company": "Falkors",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1484,
-    "publicContributions": 80,
+    "privateContributions": 1811,
+    "publicContributions": 10,
     "createdAt": "2021-02-16T19:01:59Z"
   },
   {
     "login": "LaikamSamanta",
     "name": "Samanta Biezēka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84188798?s=72&u=0e078c87f729a50c1a1b2fbc02a2368d2477c24b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84188798?s=72&u=f78811ecc2ef86af7f4112a84ecf8667bcc59e3d&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 31,
-    "publicContributions": 164,
+    "privateContributions": 57,
+    "publicContributions": 252,
     "createdAt": "2021-05-14T13:33:52Z"
   },
   {
@@ -8228,7 +8228,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2021-10-13T15:50:58Z"
   },
   {
@@ -8238,7 +8238,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-11T08:00:16Z"
@@ -8262,7 +8262,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-10T18:29:05Z"
@@ -8288,7 +8288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-01-26T08:57:55Z"
   },
   {
@@ -8312,7 +8312,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2021-12-03T18:21:44Z"
   },
   {
@@ -8324,7 +8324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2021-11-02T16:55:55Z"
   },
   {
@@ -8347,8 +8347,8 @@
     "company": "",
     "twitterUsername": "jecis_",
     "followers": 2,
-    "privateContributions": 7035,
-    "publicContributions": 8,
+    "privateContributions": 7510,
+    "publicContributions": 29,
     "createdAt": "2021-03-09T20:22:50Z"
   },
   {
@@ -8359,7 +8359,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 46,
+    "privateContributions": 49,
     "publicContributions": 1,
     "createdAt": "2021-04-11T13:45:19Z"
   },
@@ -39259,7 +39259,7 @@
     "company": "@request-lv",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
+    "privateContributions": 52,
     "publicContributions": 3,
     "createdAt": "2026-06-11T09:21:49Z"
   },
@@ -39274,5 +39274,29 @@
     "privateContributions": 451,
     "publicContributions": 1,
     "createdAt": "2026-06-16T18:31:34Z"
+  },
+  {
+    "login": "nikbond1972",
+    "name": "Nikolajs ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287761039?s=72&v=4",
+    "location": "Latvija,Riga,Bullu iela 42a -70",
+    "company": "Bender studio ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-25T16:34:30Z"
+  },
+  {
+    "login": "anastasija-tkacuka",
+    "name": "Anastasija.Tkacuka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294555536?s=72&v=4",
+    "location": "Riga",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T15:24:49Z"
   }
 ]
