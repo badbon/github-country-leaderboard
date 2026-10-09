@@ -6140,7 +6140,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 44,
     "createdAt": "2022-09-19T14:24:37Z"
   },
   {
@@ -6150,9 +6150,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 27,
     "createdAt": "2022-09-16T11:11:52Z"
   },
   {
@@ -6164,7 +6164,7 @@
     "twitterUsername": "EigenLenk",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 55,
     "createdAt": "2022-06-13T07:53:15Z"
   },
   {
@@ -6176,7 +6176,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2022-10-08T06:07:36Z"
   },
   {
@@ -6188,7 +6188,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 207,
+    "publicContributions": 195,
     "createdAt": "2022-04-16T17:18:49Z"
   },
   {
@@ -6199,8 +6199,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1,
-    "publicContributions": 5,
+    "privateContributions": 3,
+    "publicContributions": 16,
     "createdAt": "2022-06-04T15:42:20Z"
   },
   {
@@ -6210,7 +6210,7 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "Jennife39603971",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2022-05-09T19:10:12Z"
@@ -6222,7 +6222,7 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-09-12T06:17:51Z"
@@ -6236,19 +6236,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2022-09-13T18:56:43Z"
   },
   {
     "login": "ElScelt",
-    "name": "Edgar",
+    "name": "Edgar Raudsepp.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/105228410?s=72&u=2f3b7a34267ee0a8c43c472da1f1f450cf16f472&v=4",
     "location": "Estonia",
     "company": "@NovellaAI ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1634,
-    "publicContributions": 95,
+    "followers": 4,
+    "privateContributions": 4741,
+    "publicContributions": 149,
     "createdAt": "2022-05-09T15:20:29Z"
   },
   {
@@ -6271,8 +6271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 36,
-    "publicContributions": 7,
+    "privateContributions": 46,
+    "publicContributions": 6,
     "createdAt": "2022-09-14T14:41:13Z"
   },
   {
@@ -6308,7 +6308,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2022-04-20T20:39:21Z"
   },
   {
@@ -6322,18 +6322,6 @@
     "privateContributions": 22,
     "publicContributions": 24,
     "createdAt": "2022-10-17T13:31:14Z"
-  },
-  {
-    "login": "akchurinslava",
-    "name": "Vyacheslav (Slava) Akchurin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118188091?s=72&u=3d2e33a84dae1c9fbaa76bd35adcadb2a1e2d6ac&v=4",
-    "location": "Estonia",
-    "company": "SHUTTLE99 OÜ",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1867,
-    "publicContributions": 13,
-    "createdAt": "2022-11-14T13:22:30Z"
   },
   {
     "login": "diondulellari",
@@ -6354,7 +6342,7 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-26T15:34:44Z"

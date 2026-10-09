@@ -5832,18 +5832,6 @@
     "createdAt": "2024-04-13T22:46:41Z"
   },
   {
-    "login": "mejia1501",
-    "name": "Andrea Mejia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189182868?s=72&v=4",
-    "location": "Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 389,
-    "publicContributions": 152,
-    "createdAt": "2024-11-21T01:09:59Z"
-  },
-  {
     "login": "cesarbonn",
     "name": "Cesar Bonnet",
     "avatarUrl": "https://avatars.githubusercontent.com/u/190858666?s=72&v=4",
@@ -5852,7 +5840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2024-12-06T14:44:16Z"
   },
   {
@@ -5910,9 +5898,9 @@
     "location": "Venezuela",
     "company": "{cuevAI}",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 59,
     "createdAt": "2024-09-29T12:18:49Z"
   },
   {
@@ -5924,7 +5912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 212,
+    "publicContributions": 197,
     "createdAt": "2024-05-30T15:10:04Z"
   },
   {
@@ -5934,7 +5922,7 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-11-08T01:24:48Z"
@@ -5948,19 +5936,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 85,
     "createdAt": "2024-11-22T23:07:41Z"
   },
   {
     "login": "An2k24Dm",
     "name": "Angelo Di Martino",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168607108?s=72&u=94777d97f058b61ec37a810a428cd2eecdc36b39&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168607108?s=72&u=c4c7950e0f3800ca160eafbe7e577330c79a4ce4&v=4",
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 381,
     "createdAt": "2024-05-01T01:10:04Z"
   },
   {
@@ -5972,7 +5960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2024-10-14T20:14:40Z"
   },
   {
@@ -5984,20 +5972,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 151,
     "createdAt": "2024-10-03T02:23:29Z"
-  },
-  {
-    "login": "SrBellic",
-    "name": "Bellic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159970540?s=72&u=51a831d64ac552bdee33d889723391ed6c4061e6&v=4",
-    "location": "Caracas, Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2024-02-14T00:29:01Z"
   },
   {
     "login": "valmadera",
@@ -6019,8 +5995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
+    "privateContributions": 7,
+    "publicContributions": 45,
     "createdAt": "2024-09-22T04:59:30Z"
   },
   {

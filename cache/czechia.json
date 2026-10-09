@@ -5851,8 +5851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 100,
-    "publicContributions": 79,
+    "privateContributions": 154,
+    "publicContributions": 81,
     "createdAt": "2024-09-17T13:26:41Z"
   },
   {
@@ -5864,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-04-17T11:45:03Z"
   },
   {
@@ -5874,8 +5874,8 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 726,
+    "followers": 1,
+    "privateContributions": 846,
     "publicContributions": 0,
     "createdAt": "2024-01-11T15:39:58Z"
   },
@@ -5924,7 +5924,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 67,
     "createdAt": "2024-09-02T22:53:00Z"
   },
   {
@@ -5936,7 +5936,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 62,
     "createdAt": "2024-12-10T13:25:43Z"
   },
   {
@@ -5947,8 +5947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 255,
-    "publicContributions": 16,
+    "privateContributions": 67,
+    "publicContributions": 1,
     "createdAt": "2024-01-23T12:55:44Z"
   },
   {
@@ -5971,7 +5971,7 @@
     "company": "Student at FI MUNI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4743,
+    "privateContributions": 4316,
     "publicContributions": 1,
     "createdAt": "2024-03-23T13:51:13Z"
   },
@@ -5984,7 +5984,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 204,
     "createdAt": "2024-09-09T11:30:39Z"
   },
   {
@@ -5994,9 +5994,9 @@
     "location": "Czech Republic",
     "company": "Škoda a.s.",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 56,
-    "publicContributions": 6,
+    "followers": 2,
+    "privateContributions": 62,
+    "publicContributions": 5,
     "createdAt": "2024-02-16T06:53:14Z"
   },
   {
@@ -6020,7 +6020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 33,
     "createdAt": "2024-05-31T20:44:12Z"
   },
   {
@@ -6040,10 +6040,10 @@
     "name": "Jan Danko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/163343367?s=72&u=769f355716226faa579f38d670740dac57c47c69&v=4",
     "location": "Czech Republic",
-    "company": "Dashin Design",
+    "company": "@DashinDesign ",
     "twitterUsername": "JanDanko42EN",
     "followers": 1,
-    "privateContributions": 2063,
+    "privateContributions": 6366,
     "publicContributions": 13,
     "createdAt": "2024-03-13T18:36:52Z"
   },
@@ -6052,11 +6052,11 @@
     "name": "Michal Uherka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167072524?s=72&v=4",
     "location": "Brno, Czech Republic",
-    "company": "",
+    "company": "Red Hat",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 14,
     "createdAt": "2024-04-15T08:44:42Z"
   },
   {

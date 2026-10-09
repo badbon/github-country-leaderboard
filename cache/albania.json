@@ -6138,8 +6138,8 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 127,
+    "followers": 14,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2020-04-03T12:11:50Z"
   },
@@ -6163,21 +6163,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 255,
-    "publicContributions": 35,
+    "privateContributions": 154,
+    "publicContributions": 31,
     "createdAt": "2020-05-13T11:49:00Z"
-  },
-  {
-    "login": "xhuve",
-    "name": "Percy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62884604?s=72&u=ecd52a4ad988e7743e27c92e926ab690511c51df&v=4",
-    "location": "Albania",
-    "company": "Holberton Albania",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 728,
-    "publicContributions": 9,
-    "createdAt": "2020-03-30T11:34:48Z"
   },
   {
     "login": "911mateo911",
@@ -6187,7 +6175,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 181,
+    "privateContributions": 296,
     "publicContributions": 0,
     "createdAt": "2020-07-20T13:09:50Z"
   },
@@ -6198,22 +6186,10 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1472,
-    "publicContributions": 35,
+    "followers": 11,
+    "privateContributions": 1420,
+    "publicContributions": 24,
     "createdAt": "2020-01-05T19:39:50Z"
-  },
-  {
-    "login": "klevisi2004",
-    "name": "FR13NDS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62477193?s=72&u=f6e0919758ccea5f9dde97039f6acf8c6c6bfe14&v=4",
-    "location": "Albania/Shkoder",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-21T16:26:30Z"
   },
   {
     "login": "ilrexho2011",
@@ -6224,7 +6200,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 662,
+    "publicContributions": 648,
     "createdAt": "2020-02-25T22:10:59Z"
   },
   {
@@ -6248,7 +6224,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 46,
     "createdAt": "2020-09-05T13:21:40Z"
   },
   {
@@ -6258,7 +6234,7 @@
     "location": "Tirane, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 58,
     "publicContributions": 4,
     "createdAt": "2020-11-22T07:33:56Z"
@@ -6270,9 +6246,9 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 153,
-    "publicContributions": 303,
+    "followers": 8,
+    "privateContributions": 60,
+    "publicContributions": 215,
     "createdAt": "2020-10-24T13:34:05Z"
   },
   {
@@ -6296,7 +6272,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2020-05-05T18:22:59Z"
   },
   {
@@ -6307,7 +6283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 141,
+    "privateContributions": 133,
     "publicContributions": 17,
     "createdAt": "2020-03-17T19:55:45Z"
   },
@@ -6331,7 +6307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 47,
+    "privateContributions": 30,
     "publicContributions": 0,
     "createdAt": "2020-09-12T13:15:40Z"
   },
@@ -6343,7 +6319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2020-09-04T11:58:44Z"
   },

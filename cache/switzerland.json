@@ -5840,7 +5840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 0,
     "createdAt": "2025-06-28T00:31:32Z"
   },
   {
@@ -5862,7 +5862,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2025-06-04T05:19:55Z"
@@ -5912,7 +5912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 9,
     "createdAt": "2025-08-22T06:57:45Z"
   },
   {
@@ -5936,7 +5936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-03T03:47:35Z"
   },
   {
@@ -5994,21 +5994,21 @@
     "location": "Bern",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 47,
+    "followers": 6,
+    "privateContributions": 293,
+    "publicContributions": 186,
     "createdAt": "2025-01-23T07:13:04Z"
   },
   {
     "login": "laerelii09",
     "name": "Lara Saurer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238655743?s=72&u=9090a7cd151ca89b5f7e2734ff274ed1963d27c5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238655743?s=72&u=dd837d28bad8eedf8bae58e28c74e715003f1964&v=4",
     "location": "Bern",
-    "company": "Post",
+    "company": "@swisspost",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 154,
-    "publicContributions": 52,
+    "privateContributions": 206,
+    "publicContributions": 85,
     "createdAt": "2025-10-17T09:23:05Z"
   },
   {
@@ -6054,9 +6054,9 @@
     "location": "Bern",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 13,
     "createdAt": "2025-08-13T12:24:04Z"
   },
   {
@@ -288994,5 +288994,17 @@
     "privateContributions": 8009,
     "publicContributions": 125,
     "createdAt": "2017-11-09T00:07:06Z"
+  },
+  {
+    "login": "whow00",
+    "name": "ով!.veg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183315694?s=72&u=f355b3052ad39a9f58da190149d22e1ad9e7ccc5&v=4",
+    "location": "Switzerland",
+    "company": "MydilaTelecom GmbH",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2024-09-29T20:14:28Z"
   }
 ]

@@ -5839,7 +5839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
+    "privateContributions": 5,
     "publicContributions": 7,
     "createdAt": "2025-06-30T20:47:22Z"
   },
@@ -5850,7 +5850,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2025-11-19T17:18:05Z"
@@ -5864,20 +5864,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 21,
     "createdAt": "2025-08-29T18:56:09Z"
-  },
-  {
-    "login": "euphoria-rbx",
-    "name": "Euphoria",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210086329?s=72&u=454f167d7e4ea2a1001307d51fe4337d2e35d74c&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-05-02T20:20:38Z"
   },
   {
     "login": "chatgptukrainian",
@@ -5898,9 +5886,9 @@
     "location": "Ukraine, Kyiv",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 1,
-    "publicContributions": 212,
+    "publicContributions": 190,
     "createdAt": "2025-05-18T08:07:05Z"
   },
   {
@@ -5912,7 +5900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2025-02-13T11:13:47Z"
   },
   {
@@ -5948,7 +5936,7 @@
     "twitterUsername": "Neznaykto123",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-10-07T08:35:38Z"
   },
   {
@@ -5960,7 +5948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 107,
     "createdAt": "2025-06-26T16:03:11Z"
   },
   {
@@ -5972,7 +5960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 77,
     "createdAt": "2025-08-01T15:05:38Z"
   },
   {
@@ -5984,7 +5972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 52,
     "createdAt": "2025-02-22T15:49:07Z"
   },
   {
@@ -6006,9 +5994,9 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2025-01-07T17:58:48Z"
   },
   {
@@ -6044,7 +6032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 219,
+    "publicContributions": 143,
     "createdAt": "2025-03-21T14:48:38Z"
   },
   {
@@ -6056,7 +6044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 76,
     "createdAt": "2025-02-28T21:01:08Z"
   },
   {
@@ -6065,10 +6053,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/250752852?s=72&u=62e7741bd508633f24ebb85d04d6dd8c2e0dfd8a&v=4",
     "location": "Ukraine",
     "company": "Home developers",
-    "twitterUsername": "",
-    "followers": 1,
+    "twitterUsername": "seldereeyko",
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 63,
     "createdAt": "2025-12-20T21:44:49Z"
   },
   {

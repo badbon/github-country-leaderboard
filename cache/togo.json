@@ -5840,7 +5840,7 @@
     "twitterUsername": "doko_nicole",
     "followers": 9,
     "privateContributions": 52,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2020-06-07T00:33:21Z"
   },
   {
@@ -5864,7 +5864,7 @@
     "twitterUsername": "kodjoassiobo_",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2019-12-30T23:33:10Z"
   },
   {
@@ -5876,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2019-12-29T00:47:00Z"
   },
   {
@@ -5887,21 +5887,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2660,
-    "publicContributions": 106,
+    "privateContributions": 2810,
+    "publicContributions": 121,
     "createdAt": "2020-08-16T17:52:32Z"
-  },
-  {
-    "login": "TroolKong",
-    "name": "Kefi Delafakonam AGBEKO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65126421?s=72&u=7cec0ddbc588ceb0e0f834d37a5058b971a288a7&v=4",
-    "location": "TOGO",
-    "company": "",
-    "twitterUsername": "Fiktif3000",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2020-05-10T16:23:31Z"
   },
   {
     "login": "MLeorio",
@@ -5916,18 +5904,6 @@
     "createdAt": "2020-05-30T16:17:08Z"
   },
   {
-    "login": "lonie12",
-    "name": "Yxie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69581138?s=72&v=4",
-    "location": "Lomé, TOGO",
-    "company": "",
-    "twitterUsername": "lonie73919967",
-    "followers": 5,
-    "privateContributions": 3018,
-    "publicContributions": 64,
-    "createdAt": "2020-08-12T10:21:29Z"
-  },
-  {
     "login": "Le-Sourcier",
     "name": "Yao David LOGAN",
     "avatarUrl": "https://avatars.githubusercontent.com/u/63324257?s=72&u=d0144b429ea16ad92dd3d1b9f8deeb76f94326c7&v=4",
@@ -5935,8 +5911,8 @@
     "company": "Your Job, DevBox",
     "twitterUsername": "LeSourcier01",
     "followers": 4,
-    "privateContributions": 582,
-    "publicContributions": 189,
+    "privateContributions": 2533,
+    "publicContributions": 178,
     "createdAt": "2020-04-07T23:54:19Z"
   },
   {
@@ -5946,9 +5922,9 @@
     "location": "Lomé, Togo",
     "company": "CAGECFI SA",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 49,
-    "publicContributions": 32,
+    "followers": 5,
+    "privateContributions": 75,
+    "publicContributions": 44,
     "createdAt": "2020-12-02T20:55:23Z"
   },
   {
@@ -5958,7 +5934,7 @@
     "location": "lome-togo",
     "company": "christ-DEV",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-10T09:41:02Z"
@@ -5983,7 +5959,7 @@
     "company": "",
     "twitterUsername": "melarisk",
     "followers": 2,
-    "privateContributions": 74,
+    "privateContributions": 356,
     "publicContributions": 5,
     "createdAt": "2020-12-14T10:49:22Z"
   },

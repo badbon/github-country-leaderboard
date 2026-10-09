@@ -5924,7 +5924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-09-11T14:47:43Z"
   },
   {
@@ -5970,8 +5970,8 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 6,
+    "followers": 2,
+    "privateContributions": 14,
     "publicContributions": 19,
     "createdAt": "2023-12-11T23:35:18Z"
   },
@@ -5996,7 +5996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2023-01-14T17:38:15Z"
   },
   {
@@ -6018,7 +6018,7 @@
     "location": "Košice, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 330,
+    "followers": 321,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-26T05:52:15Z"
@@ -6030,9 +6030,9 @@
     "location": "Slovakia, Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 103,
-    "privateContributions": 786,
-    "publicContributions": 109,
+    "followers": 110,
+    "privateContributions": 779,
+    "publicContributions": 79,
     "createdAt": "2022-07-20T20:58:34Z"
   },
   {
@@ -6043,8 +6043,8 @@
     "company": "Deutsche Telekom",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 351,
-    "publicContributions": 12,
+    "privateContributions": 350,
+    "publicContributions": 10,
     "createdAt": "2022-06-22T11:36:22Z"
   },
   {
@@ -6067,8 +6067,8 @@
     "company": "High School",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 1209,
-    "publicContributions": 2172,
+    "privateContributions": 1261,
+    "publicContributions": 1897,
     "createdAt": "2022-07-13T06:36:56Z"
   },
   {
@@ -6078,8 +6078,8 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 2952,
+    "followers": 28,
+    "privateContributions": 3399,
     "publicContributions": 9,
     "createdAt": "2022-12-24T19:49:48Z"
   },
@@ -6090,9 +6090,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 358,
+    "publicContributions": 271,
     "createdAt": "2022-03-04T08:26:55Z"
   },
   {
@@ -56374,5 +56374,17 @@
     "privateContributions": 37,
     "publicContributions": 1,
     "createdAt": "2026-06-17T22:25:53Z"
+  },
+  {
+    "login": "vernolll",
+    "name": "Marina Karas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174367209?s=72&u=a1f2aa88ebfbe64a53cad6607c42a0647101016d&v=4",
+    "location": "Bratislava, Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 10,
+    "publicContributions": 141,
+    "createdAt": "2024-07-01T17:04:05Z"
   }
 ]

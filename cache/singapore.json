@@ -5695,8 +5695,8 @@
     "company": "pddo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 38,
-    "publicContributions": 17,
+    "privateContributions": 27,
+    "publicContributions": 16,
     "createdAt": "2025-03-22T10:53:54Z"
   },
   {
@@ -5718,9 +5718,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 635,
-    "publicContributions": 496,
+    "followers": 2,
+    "privateContributions": 1253,
+    "publicContributions": 289,
     "createdAt": "2025-05-14T05:54:47Z"
   },
   {
@@ -5744,7 +5744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 338,
+    "publicContributions": 253,
     "createdAt": "2025-01-11T04:32:12Z"
   },
   {
@@ -5754,9 +5754,9 @@
     "location": "Singapore",
     "company": "NTU",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 20,
     "createdAt": "2025-08-26T08:24:35Z"
   },
   {
@@ -5772,39 +5772,27 @@
     "createdAt": "2025-01-13T02:30:42Z"
   },
   {
-    "login": "RyanMorgue",
-    "name": "RyanMorgue",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201062324?s=72&u=7d64d16ebb9830e3eeb39204da31c4f110cb4b86&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2025-02-27T07:26:07Z"
-  },
-  {
     "login": "mknkfan",
-    "name": "Dave Christopher H",
+    "name": "Dave CH",
     "avatarUrl": "https://avatars.githubusercontent.com/u/206571388?s=72&u=6318840c18c4ebd0753df324d5b8723098e404e2&v=4",
     "location": "Singapore",
-    "company": "Huawei",
+    "company": "Nanyang Technological University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 16,
-    "publicContributions": 21,
+    "privateContributions": 3,
+    "publicContributions": 42,
     "createdAt": "2025-04-07T14:30:26Z"
   },
   {
     "login": "michaelbuensalido",
-    "name": "",
+    "name": "JOHN MICHAEL DELA CRUZ BUENSALIDO",
     "avatarUrl": "https://avatars.githubusercontent.com/u/237908187?s=72&u=7bd3e4092e72e431ce333e45acfacf2dee56e783&v=4",
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 105,
     "createdAt": "2025-10-14T03:01:12Z"
   },
   {
@@ -5840,7 +5828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-03-25T09:24:28Z"
   },
   {
@@ -5876,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 61,
     "createdAt": "2025-08-14T11:13:37Z"
   },
   {
@@ -5888,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 238,
     "createdAt": "2025-05-10T13:38:51Z"
   },
   {
@@ -5922,7 +5910,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 40,
     "createdAt": "2025-03-18T18:38:38Z"
