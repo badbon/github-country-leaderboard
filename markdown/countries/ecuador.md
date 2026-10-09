@@ -50,8 +50,8 @@ Indexed users: 4,908
 | 11 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,443 |
 | 12 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,318 |
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
-| 14 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,947 |
-| 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
+| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
+| 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
 | 16 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | Cumbayá, Ecuador | 1,665 |
 | 17 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 | Ecuador | 1,573 |
 | 18 | [and27](https://github.com/and27) | Andrés Banda | Ecuador | 1,558 |
@@ -72,15 +72,15 @@ Indexed users: 4,908
 | 8 | [eythaann](https://github.com/eythaann) | Eythan David | Ecuador | 383 |
 | 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano | Ecuador | 335 |
 | 10 | [darwin-morocho](https://github.com/darwin-morocho) | Darwin Morocho | Ecuador | 310 |
-| 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | Ecuador | 257 |
+| 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | Ecuador | 277 |
 | 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Ecuador | 243 |
-| 13 | [CondorCoders](https://github.com/CondorCoders) | Condor Coders | Ecuador | 219 |
+| 13 | [CondorCoders](https://github.com/CondorCoders) | Condor Coders | Ecuador | 224 |
 | 14 | [duzhi5368](https://github.com/duzhi5368) | Frankie | Ecuador | 142 |
 | 15 | [juandtap](https://github.com/juandtap) | Diego Tapia | Ecuador | 136 |
 | 16 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 134 |
 | 17 | [yjot-dev](https://github.com/yjot-dev) | YASSER ORTIZ T. | Ecuador | 126 |
 | 18 | [omarjcm](https://github.com/omarjcm) | Guillermo Pizarro | Guayaquil, Ecuador | 125 |
-| 19 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
-| 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
+| 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
+| 20 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 
-Generated: 2026-10-08T18:39:20.665Z
+Generated: 2026-10-09T00:09:49.441Z

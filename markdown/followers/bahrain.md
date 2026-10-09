@@ -1,6 +1,6 @@
 # Followers - Bahrain
 
-Generated: 2026-10-08T18:17:48.201Z
+Generated: 2026-10-08T23:55:08.069Z
 
 Users: 729
 
@@ -15,7 +15,7 @@ Users: 729
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 104 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 98 |
 | 9 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 93 |
-| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 91 |
+| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 93 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Avanza Solutions |  | Manama, Bahrain | 81 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | AIP Genius |  | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 64 |
@@ -24,5 +24,5 @@ Users: 729
 | 16 | [almadhoob](https://github.com/almadhoob) | Ahmed Almadhoob | @founders-bh |  | Manama, Bahrain | 49 |
 | 17 | [veno](https://github.com/veno) | Venomous Committer |  |  | Bahrain | 44 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees |  |  | Manama, Bahrain | 42 |
-| 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT |  |  | Bahrain | 41 |
+| 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT |  |  | Bahrain | 42 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa |  | iamohdisa | Bahrain | 37 |

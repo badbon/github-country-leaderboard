@@ -1,17 +1,17 @@
 # Total Contributions - Anguilla
 
-Generated: 2026-10-08T18:16:24.566Z
+Generated: 2026-10-08T23:52:19.603Z
 
 Users: 15
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [repsac](https://github.com/repsac) | Ed Caspersen |  |  | The Valley | 5474 |
-| 2 | [mikecalendo](https://github.com/mikecalendo) | Mike Calendo | @buildfunctions | mikecalendo | The Valley, Arizona | 2549 |
+| 2 | [mikecalendo](https://github.com/mikecalendo) | Mike Calendo | @buildfunctions | mikecalendo | The Valley, Arizona | 2565 |
 | 3 | [tjhanley](https://github.com/tjhanley) | Thomas Hanley |  |  | the valley | 2099 |
 | 4 | [rockerBOO](https://github.com/rockerBOO) | Dave Lage | @EcogardenDesign  |  | In the Valley | 582 |
 | 5 | [KleinKodes](https://github.com/KleinKodes) | Klein |  | KBlastburn | Anguilla | 250 |
-| 6 | [joselfernandezwork](https://github.com/joselfernandezwork) | J-Lu |  |  | the valley  | 223 |
+| 6 | [joselfernandezwork](https://github.com/joselfernandezwork) | J-Lu |  |  | the valley  | 233 |
 | 7 | [jstncno](https://github.com/jstncno) | Justin Cano |  |  | somewhere in the valley | 29 |
 | 8 | [floodbits](https://github.com/floodbits) | Cristiano Luchini |  |  | The Valley | 10 |
 | 9 | [warte-kurz](https://github.com/warte-kurz) | Warte Kurz | Nameen Studios |  | Anguilla | 5 |

@@ -1,8 +1,8 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-08T18:15:14.764Z
+Generated: 2026-10-08T23:50:15.649Z
 
-Users: 1208
+Users: 1207
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1208
 | 15 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6876 |
 | 16 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6678 |
 | 17 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 5410 |
-| 18 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 5035 |
-| 19 | [malek-al-edresi](https://github.com/malek-al-edresi) | Malek M. Al-Edresi | AL-MALEK Soft | ddeqvt | Yemen, Aden | 4946 |
-| 20 | [zinon-software](https://github.com/zinon-software) | ABDULRAHMAN |  |  | yemen | 4940 |
+| 18 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 5135 |
+| 19 | [zayedadel](https://github.com/zayedadel) | Zayed Adel Al-Meklahfi |  |  | Yemen , Sana'a | 5035 |
+| 20 | [malek-al-edresi](https://github.com/malek-al-edresi) | Malek M. Al-Edresi | AL-MALEK Soft | ddeqvt | Yemen, Aden | 4946 |

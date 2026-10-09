@@ -1,6 +1,6 @@
 # Brunei
 
-Indexed users: 255
+Indexed users: 254
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 255
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-08T18:25:46.887Z
+Generated: 2026-10-08T23:58:41.696Z

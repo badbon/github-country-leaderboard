@@ -14,8 +14,8 @@ Indexed users: 696
 |---:|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-vincent | Kinshasa, Kigali | 24,667 |
 | 2 | [kmdavid3](https://github.com/kmdavid3) | David M. KAYEMBE | DR Congo, kinshasa | 19,900 |
-| 3 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 11,064 |
-| 4 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,551 |
+| 3 | [Bope142](https://github.com/Bope142) | Norbert Le Geek | Kinshasa DRC | 9,571 |
+| 4 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,199 |
 | 5 | [Abarchibody](https://github.com/Abarchibody) | Archimede Body | Kinshasa, DRC | 7,789 |
 | 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,041 |
 | 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,855 |
@@ -55,8 +55,8 @@ Indexed users: 696
 | 16 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 839 |
 | 17 | [josamuna](https://github.com/josamuna) | Josue Isamuna Nkembo | Democratic Republic of the Congo | 802 |
 | 18 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 800 |
-| 19 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 765 |
-| 20 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
+| 19 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 732 |
+| 20 | [arnold722](https://github.com/arnold722) | Arnold Leonce | Bukavu, DR Congo | 659 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 696
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-08T18:31:31.728Z
+Generated: 2026-10-09T00:09:43.882Z

@@ -62,7 +62,7 @@ Indexed users: 484
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Yonaba](https://github.com/Yonaba) | Roland | Ouagadougou (Burkina Faso) | 377 |
+| 1 | [Yonaba](https://github.com/Yonaba) | Roland | Ouagadougou (Burkina Faso) | 380 |
 | 2 | [Will-create](https://github.com/Will-create) | Louis Bertson | Burkina Faso | 168 |
 | 3 | [Heathclifffs](https://github.com/Heathclifffs) | Yipene Harold  BASSOLE | BURKINA FASO | 158 |
 | 4 | [codebadolo](https://github.com/codebadolo) | Badolo Geofroy | Burkina Faso | 122 |
@@ -83,4 +83,4 @@ Indexed users: 484
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-08T18:26:21.236Z
+Generated: 2026-10-08T23:58:45.475Z

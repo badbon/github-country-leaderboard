@@ -1,13 +1,13 @@
 # Public Contributions - Cuba
 
-Generated: 2026-10-08T18:30:18.009Z
+Generated: 2026-10-09T00:04:52.026Z
 
 Users: 1292
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | AIKoders LLC |  | La Habana, Cuba | 11040 |
-| 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 7193 |
+| 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 9050 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 5610 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4316 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3277 |
@@ -18,11 +18,11 @@ Users: 1292
 | 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert |  |  | Cuba | 1474 |
 | 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco |  |  | Havana, Cuba | 1463 |
 | 12 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | PayNest | noakmilo | Cuba | 1418 |
-| 13 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez |  |  | Cuba | 1412 |
-| 14 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 1161 |
+| 13 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 1161 |
+| 14 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández |  |  | Universidad de Ciencias Informáticas, La Habana, Cuba | 1104 |
 | 15 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | SoftwarEnTalla |  | La Habana, Cuba | 992 |
-| 16 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez |  |  | Cárdenas, Matanzas, Cuba | 931 |
-| 17 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | National Center of Clinical Trials | maicel1978 | Cuba | 781 |
-| 18 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo |  | Victor_hendz | La Habana, Cuba. | 727 |
-| 19 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  |  |  | Ciego de Ávila, Cuba | 720 |
-| 20 | [Bether12](https://github.com/Bether12) | Ernesto David Gomez Rodriguez |  |  | Villa Clara, Cuba  | 675 |
+| 16 | [Ruben0304](https://github.com/Ruben0304) | Ruben Hernandez |  |  | Cuba | 974 |
+| 17 | [MazMorrDev](https://github.com/MazMorrDev) | Marco Antonio Romero Albanez |  |  | Cárdenas, Matanzas, Cuba | 931 |
+| 18 | [maicel1978](https://github.com/maicel1978) | Maicel Monzón | National Center of Clinical Trials | maicel1978 | Cuba | 781 |
+| 19 | [VictorHerdz10](https://github.com/VictorHerdz10) | Victor Hernández Salcedo |  | Victor_hendz | La Habana, Cuba. | 727 |
+| 20 | [teby00](https://github.com/teby00) | Esteban Daniel Rodríguez Martín  |  |  | Ciego de Ávila, Cuba | 720 |

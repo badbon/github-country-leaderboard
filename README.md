@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [French Southern and Antarctic Lands](markdown/countries/french_southern_and_antarctic_lands.md) | 4 | [Public](markdown/public_contributions/french_southern_and_antarctic_lands.md) | [Total](markdown/total_contributions/french_southern_and_antarctic_lands.md) | [Followers](markdown/followers/french_southern_and_antarctic_lands.md) |
-| [Vatican City](markdown/countries/vatican_city.md) | 30 | [Public](markdown/public_contributions/vatican_city.md) | [Total](markdown/total_contributions/vatican_city.md) | [Followers](markdown/followers/vatican_city.md) |
-| [Saint Barthélemy](markdown/countries/saint_barthelemy.md) | 1 | [Public](markdown/public_contributions/saint_barthelemy.md) | [Total](markdown/total_contributions/saint_barthelemy.md) | [Followers](markdown/followers/saint_barthelemy.md) |
+| [United States Minor Outlying Islands](markdown/countries/united_states_minor_outlying_islands.md) | 0 | [Public](markdown/public_contributions/united_states_minor_outlying_islands.md) | [Total](markdown/total_contributions/united_states_minor_outlying_islands.md) | [Followers](markdown/followers/united_states_minor_outlying_islands.md) |
+| [Cyprus](markdown/countries/cyprus.md) | 2,750 | [Public](markdown/public_contributions/cyprus.md) | [Total](markdown/total_contributions/cyprus.md) | [Followers](markdown/followers/cyprus.md) |
 | [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
-| [Haiti](markdown/countries/haiti.md) | 338 | [Public](markdown/public_contributions/haiti.md) | [Total](markdown/total_contributions/haiti.md) | [Followers](markdown/followers/haiti.md) |
+| [British Virgin Islands](markdown/countries/british_virgin_islands.md) | 38 | [Public](markdown/public_contributions/british_virgin_islands.md) | [Total](markdown/total_contributions/british_virgin_islands.md) | [Followers](markdown/followers/british_virgin_islands.md) |
+| [Guadeloupe](markdown/countries/guadeloupe.md) | 87 | [Public](markdown/public_contributions/guadeloupe.md) | [Total](markdown/total_contributions/guadeloupe.md) | [Followers](markdown/followers/guadeloupe.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-08T19:00:53.727Z
+Generated: 2026-10-09T00:20:42.594Z

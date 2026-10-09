@@ -1,6 +1,6 @@
 # Total Contributions - Tunisia
 
-Generated: 2026-10-08T18:12:29.195Z
+Generated: 2026-10-08T23:42:39.644Z
 
 Users: 7194
 
@@ -17,11 +17,11 @@ Users: 7194
 | 9 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | ZIX DEV |  | Tunisia | 7694 |
 | 10 | [amine-y](https://github.com/amine-y) | Amine Yaakoubi | @axelites |  | Tunisia | 7123 |
 | 11 | [omar-cherif](https://github.com/omar-cherif) | Omar CHERIF | SIROCCO |  | Tunisia | 7081 |
-| 12 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 6526 |
-| 13 | [safwendammak](https://github.com/safwendammak) | Safwen | Freelancer |  | Tunisia | 5984 |
-| 14 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | @joodlab | El_Raed_Bahri | Tunisia | 5892 |
-| 15 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 5480 |
-| 16 | [3omartn](https://github.com/3omartn) | omar jemli | Youth Geekers |  | Tunisia | 5258 |
+| 12 | [safwendammak](https://github.com/safwendammak) | Safwen | Freelancer |  | Tunisia | 5984 |
+| 13 | [lord007tn](https://github.com/lord007tn) | Raed Bahri | @joodlab | El_Raed_Bahri | Tunisia | 5892 |
+| 14 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 5480 |
+| 15 | [3omartn](https://github.com/3omartn) | omar jemli | Youth Geekers |  | Tunisia | 5258 |
+| 16 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 5161 |
 | 17 | [anisossss](https://github.com/anisossss) | AnisKhalef |  |  | Tunisia | 4993 |
 | 18 | [abbassi-ahmed](https://github.com/abbassi-ahmed) | Abbassiahmed |  |  | Tunisia | 4962 |
 | 19 | [BouajilaHamza](https://github.com/BouajilaHamza) | Hamza Bouajila |  |  | Tunisia | 4841 |

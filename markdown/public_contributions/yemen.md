@@ -1,8 +1,8 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-08T18:15:14.764Z
+Generated: 2026-10-08T23:50:15.649Z
 
-Users: 1208
+Users: 1207
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 1208
 | 11 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1338 |
 | 12 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1287 |
 | 13 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa |  |  | Yemen | 1236 |
-| 14 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 1140 |
-| 15 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1110 |
-| 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 973 |
+| 14 | [islamux](https://github.com/islamux) | Fathi Mohammed Saeed AlQadasi |  |  | Yemen | 1110 |
+| 15 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 973 |
+| 16 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 876 |
 | 17 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 759 |
 | 18 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 681 |
-| 19 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya |  |  | Yemen , Ibb | 611 |
-| 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 609 |
+| 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 680 |
+| 20 | [Alhareith](https://github.com/Alhareith) | Eng.Alhareth Al-Dahya |  |  | Yemen , Ibb | 611 |

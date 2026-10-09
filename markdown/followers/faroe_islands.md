@@ -1,8 +1,8 @@
 # Followers - Faroe Islands
 
-Generated: 2026-10-08T18:35:34.996Z
+Generated: 2026-10-09T00:12:14.192Z
 
-Users: 66
+Users: 67
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

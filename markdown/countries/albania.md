@@ -29,9 +29,9 @@ Indexed users: 1,191
 | 15 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,164 |
 | 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,094 |
 | 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,078 |
-| 18 | [ElisBushaj](https://github.com/ElisBushaj) |  | Albania | 3,755 |
-| 19 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 3,647 |
-| 20 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi | Tirana, Albania | 3,619 |
+| 18 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 3,849 |
+| 19 | [ElisBushaj](https://github.com/ElisBushaj) |  | Albania | 3,755 |
+| 20 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 3,647 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,191
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 80 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-08T18:15:44.345Z
+Generated: 2026-10-08T23:52:02.399Z

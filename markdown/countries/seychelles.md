@@ -13,17 +13,17 @@ Indexed users: 1,777
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | Victoria, BC Canada | 31,597 |
-| 2 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
-| 3 | [kwintin](https://github.com/kwintin) | Quentin | Victoria, BC | 8,695 |
-| 4 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | Victoria, BC | 8,221 |
-| 5 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 8,138 |
-| 6 | [ascott](https://github.com/ascott) | Alanna Scott | Victoria, BC | 7,211 |
-| 7 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis | Victoria, BC | 6,893 |
-| 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 6,744 |
-| 9 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 6,686 |
-| 10 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,537 |
-| 11 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
-| 12 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 5,401 |
+| 2 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 12,117 |
+| 3 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
+| 4 | [kwintin](https://github.com/kwintin) | Quentin | Victoria, BC | 8,695 |
+| 5 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | Victoria, BC | 8,221 |
+| 6 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 8,138 |
+| 7 | [ascott](https://github.com/ascott) | Alanna Scott | Victoria, BC | 7,211 |
+| 8 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis | Victoria, BC | 6,893 |
+| 9 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 6,744 |
+| 10 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 6,686 |
+| 11 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,537 |
+| 12 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
 | 13 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,331 |
 | 14 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 5,248 |
 | 15 | [matchdav](https://github.com/matchdav) | Matthew Davidson | Victoria | 5,223 |
@@ -83,4 +83,4 @@ Indexed users: 1,777
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-08T18:03:27.867Z
+Generated: 2026-10-08T23:36:12.452Z

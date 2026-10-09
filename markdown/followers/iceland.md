@@ -1,12 +1,12 @@
 # Followers - Iceland
 
-Generated: 2026-10-08T18:39:26.246Z
+Generated: 2026-10-09T00:17:26.793Z
 
 Users: 1583
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 2006 |
+| 1 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 2256 |
 | 2 | [imbue-bit](https://github.com/imbue-bit) | 栀染 |  | imbue_byte | Iceland | 848 |
 | 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Reykjavík University |  | Iceland | 736 |
 | 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson |  |  | Reykjavík, Iceland | 600 |

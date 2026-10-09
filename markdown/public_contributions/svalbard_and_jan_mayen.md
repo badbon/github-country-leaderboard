@@ -1,13 +1,13 @@
 # Public Contributions - Svalbard and Jan Mayen
 
-Generated: 2026-10-08T18:08:02.911Z
+Generated: 2026-10-08T23:38:45.655Z
 
 Users: 10
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | @franksgrandtour |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1066 |
-| 2 | [encrize](https://github.com/encrize) | encrize | @huawei |  | Svalbard og Jan Mayen | 519 |
+| 1 | [PrinsFrank](https://github.com/PrinsFrank) |  | @franksgrandtour |  | Haarlem, Netherlands & Longyearbyen, Svalbard | 1068 |
+| 2 | [encrize](https://github.com/encrize) | encrize | @huawei |  | Svalbard og Jan Mayen | 521 |
 | 3 | [danavitski](https://github.com/danavitski) | Daan Kivits | Svalbard Integrated Arctic Earth Observing System (SIOS) |  | Longyearbyen, Svalbard | 59 |
 | 4 | [sunnyerteit](https://github.com/sunnyerteit) | S🌞nny | Store Norske Spitsbergen Kulkompani AS |  | Longyearbyen | 31 |
 | 5 | [elden-l0rd](https://github.com/elden-l0rd) |  |  |  | Longyearbyen | 13 |

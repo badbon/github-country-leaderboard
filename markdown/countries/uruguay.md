@@ -39,7 +39,7 @@ Indexed users: 5,621
 |---:|---|---|---|---:|
 | 1 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli | Uruguay | 16,140 |
 | 2 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,965 |
-| 3 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado | Uruguay | 5,696 |
+| 3 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado | Uruguay | 5,074 |
 | 4 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 4,810 |
 | 5 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 3,937 |
 | 6 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 3,658 |
@@ -83,4 +83,4 @@ Indexed users: 5,621
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-08T18:13:26.378Z
+Generated: 2026-10-08T23:45:15.964Z

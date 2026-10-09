@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-08T18:13:26.378Z
+Generated: 2026-10-08T23:45:15.964Z
 
 Users: 5621
 
@@ -8,7 +8,7 @@ Users: 5621
 |---:|---|---|---|---|---|---:|
 | 1 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 16140 |
 | 2 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6965 |
-| 3 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado |  |  | Uruguay | 5696 |
+| 3 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado |  |  | Uruguay | 5074 |
 | 4 | [daedalus](https://github.com/daedalus) | Darío Clavijo |  | 0x446172696f0a | Montevideo, Uruguay | 4810 |
 | 5 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 3937 |
 | 6 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 3658 |

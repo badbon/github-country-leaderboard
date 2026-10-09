@@ -46,17 +46,17 @@ Indexed users: 1,483
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,481 |
 | 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,180 |
 | 9 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
-| 10 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,046 |
-| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
-| 12 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,010 |
-| 13 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  | Syria | 873 |
-| 14 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
-| 15 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad | Damascus | 720 |
-| 16 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
-| 17 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 644 |
-| 18 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
-| 19 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 574 |
-| 20 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 557 |
+| 10 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
+| 11 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 1,046 |
+| 12 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
+| 13 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,010 |
+| 14 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  | Syria | 873 |
+| 15 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
+| 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
+| 17 | [OlaMorad](https://github.com/OlaMorad) | Ola Morad | Damascus | 720 |
+| 18 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
+| 19 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
+| 20 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 574 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,483
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-08T18:12:51.839Z
+Generated: 2026-10-08T23:40:13.791Z

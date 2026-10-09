@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-08T18:15:44.345Z
+Generated: 2026-10-08T23:52:02.399Z
 
 Users: 1191
 
@@ -23,6 +23,6 @@ Users: 1191
 | 15 | [jozefini](https://github.com/jozefini) | Jozefin B. | @codja  |  | Albania | 4164 |
 | 16 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 4094 |
 | 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4078 |
-| 18 | [ElisBushaj](https://github.com/ElisBushaj) |  |  |  | Albania | 3755 |
-| 19 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 3647 |
-| 20 | [keltinMesonjesi](https://github.com/keltinMesonjesi) | Keltin Mesonjesi |  |  | Tirana, Albania | 3619 |
+| 18 | [dionverushi](https://github.com/dionverushi) | Dion Verushi |  |  | Tirana | 3849 |
+| 19 | [ElisBushaj](https://github.com/ElisBushaj) |  |  |  | Albania | 3755 |
+| 20 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 3647 |

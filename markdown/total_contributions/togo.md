@@ -1,6 +1,6 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-08T18:12:16.036Z
+Generated: 2026-10-08T23:40:41.351Z
 
 Users: 684
 
@@ -16,13 +16,13 @@ Users: 684
 | 8 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5528 |
 | 9 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 5176 |
 | 10 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4628 |
-| 11 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Wiicode | devbyseb | Lomé, TOGO | 4107 |
-| 12 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Freelance |  | Lome -TOGO | 4097 |
-| 13 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 3925 |
-| 14 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns |  | ICG_reborns | Lomé, Togo | 3607 |
-| 15 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u |  |  | lomé - Togo | 3467 |
-| 16 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 3426 |
-| 17 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 3195 |
-| 18 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 3168 |
-| 19 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 3124 |
+| 11 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4461 |
+| 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Wiicode | devbyseb | Lomé, TOGO | 4107 |
+| 13 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Freelance |  | Lome -TOGO | 4097 |
+| 14 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 3925 |
+| 15 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns |  | ICG_reborns | Lomé, Togo | 3607 |
+| 16 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u |  |  | lomé - Togo | 3467 |
+| 17 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  |  |  | lomé-TOGO | 3426 |
+| 18 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 3195 |
+| 19 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 3168 |
 | 20 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Lomé, TOGO | 3082 |

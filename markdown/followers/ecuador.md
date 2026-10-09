@@ -1,6 +1,6 @@
 # Followers - Ecuador
 
-Generated: 2026-10-08T18:39:20.665Z
+Generated: 2026-10-09T00:09:49.441Z
 
 Users: 4908
 
@@ -16,13 +16,13 @@ Users: 4908
 | 8 | [eythaann](https://github.com/eythaann) | Eythan David | @Seelen-Corp |  | Ecuador | 383 |
 | 9 | [GabySol](https://github.com/GabySol) | Gabriela Solano |  |  | Ecuador | 335 |
 | 10 | [darwin-morocho](https://github.com/darwin-morocho) | Darwin Morocho |  |  | Ecuador | 310 |
-| 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | DevCoreX | DevCoreX | Ecuador | 257 |
+| 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | DevCoreX | DevCoreX | Ecuador | 277 |
 | 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Cromewar |  | Ecuador | 243 |
-| 13 | [CondorCoders](https://github.com/CondorCoders) | Condor Coders |  |  | Ecuador | 219 |
+| 13 | [CondorCoders](https://github.com/CondorCoders) | Condor Coders |  |  | Ecuador | 224 |
 | 14 | [duzhi5368](https://github.com/duzhi5368) | Frankie | Electronic Arts |  | Ecuador | 142 |
 | 15 | [juandtap](https://github.com/juandtap) | Diego Tapia |  |  | Ecuador | 136 |
 | 16 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 134 |
 | 17 | [yjot-dev](https://github.com/yjot-dev) | YASSER ORTIZ T. |  |  | Ecuador | 126 |
 | 18 | [omarjcm](https://github.com/omarjcm) | Guillermo Pizarro | @ieeecisecuador | omarjcm | Guayaquil, Ecuador | 125 |
-| 19 | [LChumi](https://github.com/LChumi) | LChumi |  | luis_chumi | Ecuador | 116 |
-| 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | AXIOS click | BryanHe52482198 | Ecuador | 115 |
+| 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz |  | CodingTube | Ecuador | 116 |
+| 20 | [LChumi](https://github.com/LChumi) | LChumi |  | luis_chumi | Ecuador | 116 |

@@ -22,15 +22,15 @@ Indexed users: 684
 | 8 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | Lomé - Togo | 5,528 |
 | 9 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 5,176 |
 | 10 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 4,628 |
-| 11 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,107 |
-| 12 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,097 |
-| 13 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 3,925 |
-| 14 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
-| 15 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
-| 16 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
-| 17 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
-| 18 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
-| 19 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 3,124 |
+| 11 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,461 |
+| 12 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,107 |
+| 13 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,097 |
+| 14 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Togo | 3,925 |
+| 15 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
+| 16 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
+| 17 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
+| 18 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 3,195 |
+| 19 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,168 |
 | 20 | [lonie12](https://github.com/lonie12) | Yxie | Lomé, TOGO | 3,082 |
 
 ## Public Contributions
@@ -38,10 +38,10 @@ Indexed users: 684
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,363 |
-| 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,066 |
-| 3 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,229 |
-| 4 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,136 |
-| 5 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 2,865 |
+| 2 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,070 |
+| 3 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,066 |
+| 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,229 |
+| 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,136 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,970 |
 | 7 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,919 |
 | 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,847 |
@@ -83,4 +83,4 @@ Indexed users: 684
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-08T18:12:16.036Z
+Generated: 2026-10-08T23:40:41.351Z

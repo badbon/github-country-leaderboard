@@ -1,6 +1,6 @@
 # Public Contributions - Anguilla
 
-Generated: 2026-10-08T18:16:24.566Z
+Generated: 2026-10-08T23:52:19.603Z
 
 Users: 15
 
@@ -13,9 +13,9 @@ Users: 15
 | 5 | [jstncno](https://github.com/jstncno) | Justin Cano |  |  | somewhere in the valley | 16 |
 | 6 | [floodbits](https://github.com/floodbits) | Cristiano Luchini |  |  | The Valley | 10 |
 | 7 | [warte-kurz](https://github.com/warte-kurz) | Warte Kurz | Nameen Studios |  | Anguilla | 5 |
-| 8 | [a4anishm](https://github.com/a4anishm) | Anish | Airbnb |  | The valley | 0 |
-| 9 | [charliefourindia](https://github.com/charliefourindia) | William Knowles | (Undisclosed) |  | The Valley, Anguilla | 0 |
-| 10 | [joselfernandezwork](https://github.com/joselfernandezwork) | J-Lu |  |  | the valley  | 0 |
+| 8 | [joselfernandezwork](https://github.com/joselfernandezwork) | J-Lu |  |  | the valley  | 2 |
+| 9 | [a4anishm](https://github.com/a4anishm) | Anish | Airbnb |  | The valley | 0 |
+| 10 | [charliefourindia](https://github.com/charliefourindia) | William Knowles | (Undisclosed) |  | The Valley, Anguilla | 0 |
 | 11 | [Junaid-Sakib](https://github.com/Junaid-Sakib) | Junaid Sakib |  |  | The valley of Saints, Kashmir | 0 |
 | 12 | [KleinKodes](https://github.com/KleinKodes) | Klein |  | KBlastburn | Anguilla | 0 |
 | 13 | [oneofakind67](https://github.com/oneofakind67) |  | Unity for all |  | In the Valley of the Sun | 0 |

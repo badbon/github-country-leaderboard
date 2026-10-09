@@ -21,10 +21,10 @@ Indexed users: 729
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,407 |
 | 8 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,660 |
 | 9 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,427 |
-| 10 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 4,379 |
-| 11 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 4,337 |
-| 12 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
-| 13 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,124 |
+| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,417 |
+| 11 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 4,379 |
+| 12 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 4,337 |
+| 13 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
 | 14 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,769 |
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,594 |
 | 16 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 3,321 |
@@ -71,7 +71,7 @@ Indexed users: 729
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 104 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 98 |
 | 9 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 93 |
-| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 91 |
+| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 93 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Manama, Bahrain | 81 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 64 |
@@ -80,7 +80,7 @@ Indexed users: 729
 | 16 | [almadhoob](https://github.com/almadhoob) | Ahmed Almadhoob | Manama, Bahrain | 49 |
 | 17 | [veno](https://github.com/veno) | Venomous Committer | Bahrain | 44 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees | Manama, Bahrain | 42 |
-| 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 41 |
+| 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-08T18:17:48.201Z
+Generated: 2026-10-08T23:55:08.069Z

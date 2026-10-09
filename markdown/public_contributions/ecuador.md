@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-08T18:39:20.665Z
+Generated: 2026-10-09T00:09:49.441Z
 
 Users: 4908
 
@@ -19,8 +19,8 @@ Users: 4908
 | 11 | [alcb1310](https://github.com/alcb1310) | Andres Court | AlcbSystems | alcb1310 | Quito, Ecuador | 2443 |
 | 12 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia |  |  | Ecuador | 2318 |
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
-| 14 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1947 |
-| 15 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
+| 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
+| 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
 | 16 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
 | 17 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
 | 18 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |
