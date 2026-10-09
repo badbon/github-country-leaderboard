@@ -8060,7 +8060,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2022-05-31T15:03:40Z"
   },
   {
@@ -8071,8 +8071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 179,
+    "privateContributions": 5,
+    "publicContributions": 174,
     "createdAt": "2022-09-23T02:03:04Z"
   },
   {
@@ -8119,7 +8119,7 @@
     "company": "",
     "twitterUsername": "capellandev",
     "followers": 1,
-    "privateContributions": 925,
+    "privateContributions": 985,
     "publicContributions": 0,
     "createdAt": "2022-07-31T03:07:14Z"
   },
@@ -8168,7 +8168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 33,
     "createdAt": "2022-12-10T14:38:16Z"
   },
   {
@@ -8202,9 +8202,9 @@
     "location": "Santiago, Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2022-12-02T12:31:50Z"
   },
   {
@@ -8216,7 +8216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 430,
     "createdAt": "2022-05-22T15:09:37Z"
   },
   {
@@ -8238,7 +8238,7 @@
     "location": "Santo domingo - Dominican Republic",
     "company": "",
     "twitterUsername": "Yey_JCG",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2022-05-14T15:14:03Z"
@@ -8250,9 +8250,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "alexliz25",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-03-25T15:48:28Z"
   },
   {
@@ -8274,7 +8274,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-19T19:45:11Z"
@@ -8288,7 +8288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2022-05-15T23:18:54Z"
   },
   {
@@ -39766,5 +39766,29 @@
     "privateContributions": 0,
     "publicContributions": 37,
     "createdAt": "2026-06-07T15:51:13Z"
+  },
+  {
+    "login": "enmanueldiaz01-wq",
+    "name": "Enmanuel Diaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287598360?s=72&u=5df421606b0d0475b7c0e8f8604c7ab1a25598e9&v=4",
+    "location": "Santo Domingo, RD.",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-25T05:23:47Z"
+  },
+  {
+    "login": "seba-rami",
+    "name": "Sebastián Ramírez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290223346?s=72&v=4",
+    "location": "Santo Domingo, Rep. Dom.",
+    "company": "Instiuto Tecnológico de Santo Domingo (INTEC)",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-06-03T02:50:14Z"
   }
 ]
