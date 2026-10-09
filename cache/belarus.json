@@ -9055,7 +9055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1346,
+    "privateContributions": 1337,
     "publicContributions": 5,
     "createdAt": "2023-07-22T09:49:39Z"
   },
@@ -9116,7 +9116,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-11-06T13:58:30Z"
   },
   {
@@ -9152,7 +9152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 2,
     "createdAt": "2023-12-02T18:30:03Z"
   },
   {
@@ -9164,20 +9164,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 14,
     "createdAt": "2023-12-06T09:31:50Z"
-  },
-  {
-    "login": "Emilia20112005",
-    "name": "Emiliya Kazlouskaya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144775575?s=72&u=b57eca82884f51040d4358fe333e08bf570a2fe2&v=4",
-    "location": "Minsk, Belarus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 38,
-    "createdAt": "2023-09-12T07:15:14Z"
   },
   {
     "login": "Vadzim-py",
@@ -9248,7 +9236,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 34,
     "createdAt": "2023-02-10T18:53:10Z"
   },
   {
@@ -9260,19 +9248,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 0,
     "createdAt": "2023-08-11T07:25:05Z"
   },
   {
     "login": "showmeurback",
     "name": "Pavel Kadzikau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143909949?s=72&u=cbaa1cc6ebd56aeb331909380906673e00b9b9ee&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143909949?s=72&u=f1116c5ec2fcdf5528fa7f72a06a04ef461ba126&v=4",
     "location": "Belarus, Minsk",
     "company": "BSUIR, AI",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2023-09-02T21:55:09Z"
   },
   {

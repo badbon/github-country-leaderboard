@@ -8947,8 +8947,8 @@
     "company": "Digital Addis",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 135,
-    "publicContributions": 278,
+    "privateContributions": 112,
+    "publicContributions": 320,
     "createdAt": "2025-02-11T18:15:33Z"
   },
   {
@@ -8960,7 +8960,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 85,
     "createdAt": "2025-04-30T06:07:49Z"
   },
   {
@@ -8971,8 +8971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 56,
-    "publicContributions": 208,
+    "privateContributions": 109,
+    "publicContributions": 202,
     "createdAt": "2025-02-06T20:37:29Z"
   },
   {
@@ -8982,9 +8982,9 @@
     "location": "Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 31,
-    "publicContributions": 235,
+    "followers": 5,
+    "privateContributions": 32,
+    "publicContributions": 285,
     "createdAt": "2025-01-24T11:11:04Z"
   },
   {
@@ -8994,9 +8994,9 @@
     "location": "Addis Ababa ",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 93,
-    "publicContributions": 727,
+    "followers": 5,
+    "privateContributions": 192,
+    "publicContributions": 687,
     "createdAt": "2025-02-04T19:52:07Z"
   },
   {
@@ -9006,9 +9006,9 @@
     "location": "Addis Ababa ",
     "company": "Oshen LLC ",
     "twitterUsername": "ak_baaji",
-    "followers": 4,
-    "privateContributions": 1003,
-    "publicContributions": 21,
+    "followers": 6,
+    "privateContributions": 1275,
+    "publicContributions": 27,
     "createdAt": "2025-05-29T19:58:06Z"
   },
   {
@@ -9020,7 +9020,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 89,
-    "publicContributions": 246,
+    "publicContributions": 372,
     "createdAt": "2025-03-25T12:42:48Z"
   },
   {
@@ -9032,7 +9032,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 75,
     "createdAt": "2025-04-15T06:08:45Z"
   },
   {
@@ -9044,19 +9044,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 123,
     "createdAt": "2025-10-10T10:48:01Z"
   },
   {
     "login": "daynanf",
     "name": "Dinu Zeynu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219412987?s=72&u=59e92b8c370a2d9d4745ca40848eeff45bfd71c7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219412987?s=72&u=18e6035e56ec4837b416910735d47339930ff4f3&v=4",
     "location": "Addis Ababa",
     "company": "Addis Ababa University",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 95,
-    "publicContributions": 514,
+    "followers": 4,
+    "privateContributions": 408,
+    "publicContributions": 495,
     "createdAt": "2025-07-05T11:11:48Z"
   },
   {
@@ -9079,8 +9079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 8,
-    "publicContributions": 159,
+    "privateContributions": 17,
+    "publicContributions": 206,
     "createdAt": "2025-04-30T11:29:10Z"
   },
   {
@@ -9091,8 +9091,8 @@
     "company": "abdushekur mohammed's tech company",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 24,
-    "publicContributions": 71,
+    "privateContributions": 23,
+    "publicContributions": 72,
     "createdAt": "2025-01-10T12:04:06Z"
   },
   {
@@ -9103,8 +9103,8 @@
     "company": "Developer creating scalable tools and web applications",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 571,
-    "publicContributions": 199,
+    "privateContributions": 740,
+    "publicContributions": 203,
     "createdAt": "2025-02-14T11:21:51Z"
   },
   {
@@ -9115,20 +9115,20 @@
     "company": "Addis Ababa University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 50,
+    "privateContributions": 14,
+    "publicContributions": 140,
     "createdAt": "2025-05-24T16:12:38Z"
   },
   {
     "login": "anwar-9853",
     "name": "Anwar@ML",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197681867?s=72&u=fb5798c6d60391e3f7aaf7c734a48b349f3964ed&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/197681867?s=72&u=e8bae6ec73a14a51d42402202f96ec9ba35d71fc&v=4",
     "location": "Addis Ababa",
     "company": "Addis Ababa University",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 77,
     "createdAt": "2025-02-03T22:07:18Z"
   },
   {
@@ -9138,7 +9138,7 @@
     "location": "addis ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-10T23:00:13Z"
@@ -9152,7 +9152,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 374,
+    "publicContributions": 386,
     "createdAt": "2025-03-10T18:35:08Z"
   },
   {
@@ -9176,7 +9176,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 37,
-    "publicContributions": 166,
+    "publicContributions": 137,
     "createdAt": "2025-03-30T15:02:12Z"
   },
   {

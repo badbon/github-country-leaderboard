@@ -8984,20 +8984,8 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 5,
     "createdAt": "2021-09-06T01:39:44Z"
-  },
-  {
-    "login": "Tiitmouse",
-    "name": "Lorena Kovačić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78728488?s=72&u=0db1eacb236067d33a48781217a55f85b1df8d3a&v=4",
-    "location": "Croatia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 17,
-    "publicContributions": 181,
-    "createdAt": "2021-02-08T09:44:27Z"
   },
   {
     "login": "Gieveppix",
@@ -9007,7 +8995,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 886,
+    "privateContributions": 1038,
     "publicContributions": 0,
     "createdAt": "2021-05-13T08:12:01Z"
   },
@@ -9019,7 +9007,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 80,
+    "privateContributions": 118,
     "publicContributions": 28,
     "createdAt": "2021-11-18T17:54:07Z"
   },
@@ -9030,7 +9018,7 @@
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 44,
     "publicContributions": 14,
     "createdAt": "2021-11-17T00:29:10Z"
@@ -9044,7 +9032,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 86,
     "createdAt": "2021-03-30T16:54:36Z"
   },
   {
@@ -9056,7 +9044,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 138,
+    "publicContributions": 146,
     "createdAt": "2021-03-21T02:07:17Z"
   },
   {
@@ -9067,8 +9055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 20,
-    "publicContributions": 120,
+    "privateContributions": 24,
+    "publicContributions": 121,
     "createdAt": "2021-02-25T19:11:16Z"
   },
   {
@@ -9110,12 +9098,12 @@
   {
     "login": "veks9",
     "name": "Vedran Hernaus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81360929?s=72&u=c9df0bf32ed189677775f62668421a10a80ca4a4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81360929?s=72&u=17ae7bf7978aae9ee90c51b1f358bb251cff7996&v=4",
     "location": "Zagreb, Croatia",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 857,
+    "privateContributions": 866,
     "publicContributions": 1,
     "createdAt": "2021-03-25T10:51:30Z"
   },
@@ -9152,7 +9140,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 10,
-    "publicContributions": 92,
+    "publicContributions": 102,
     "createdAt": "2021-12-01T10:49:37Z"
   },
   {
@@ -9162,9 +9150,9 @@
     "location": "Zagreb, Croatia",
     "company": "@wasp-lang ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 90,
-    "publicContributions": 873,
+    "followers": 8,
+    "privateContributions": 96,
+    "publicContributions": 804,
     "createdAt": "2021-05-21T09:27:27Z"
   },
   {
@@ -9188,7 +9176,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 32,
-    "publicContributions": 131,
+    "publicContributions": 283,
     "createdAt": "2021-02-03T06:24:53Z"
   },
   {
@@ -9196,7 +9184,7 @@
     "name": "Petar Matišić",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93230776?s=72&u=6979e76aaeb2d816f6caea5f082ed6e9cb313f40&v=4",
     "location": "Zagreb, Croatia",
-    "company": "University of Zagreb, FOI",
+    "company": "Technische Universität Wien",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
@@ -9212,7 +9200,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 121,
     "createdAt": "2021-12-09T16:36:56Z"
   },
   {

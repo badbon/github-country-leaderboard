@@ -8972,7 +8972,7 @@
     "twitterUsername": "",
     "followers": 34,
     "privateContributions": 196,
-    "publicContributions": 260,
+    "publicContributions": 251,
     "createdAt": "2021-06-05T12:29:24Z"
   },
   {
@@ -8982,9 +8982,9 @@
     "location": "From Tallinn, Estonia",
     "company": "Embassy of Estonia in Australia",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 672,
+    "publicContributions": 635,
     "createdAt": "2021-07-27T11:16:48Z"
   },
   {
@@ -8994,7 +8994,7 @@
     "location": "Estonia/ Talinn",
     "company": "Bytedex Technologies OÜ",
     "twitterUsername": "Byteexchange",
-    "followers": 26,
+    "followers": 27,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2021-04-15T14:40:58Z"
@@ -9008,7 +9008,7 @@
     "twitterUsername": "",
     "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 39,
     "createdAt": "2021-02-09T02:11:03Z"
   },
   {
@@ -9018,8 +9018,8 @@
     "location": "Estonia, Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 86,
+    "followers": 26,
+    "privateContributions": 113,
     "publicContributions": 0,
     "createdAt": "2021-05-18T17:57:56Z"
   },
@@ -9030,9 +9030,9 @@
     "location": "Tallinn, Estonia",
     "company": "MathNodes",
     "twitterUsername": "freQniKs",
-    "followers": 23,
+    "followers": 25,
     "privateContributions": 3,
-    "publicContributions": 160,
+    "publicContributions": 138,
     "createdAt": "2021-10-25T05:46:36Z"
   },
   {
@@ -9042,9 +9042,9 @@
     "location": "Tartu, Estonia",
     "company": "",
     "twitterUsername": "MelTheRockQueen",
-    "followers": 21,
+    "followers": 25,
     "privateContributions": 1,
-    "publicContributions": 27,
+    "publicContributions": 26,
     "createdAt": "2021-08-16T19:10:05Z"
   },
   {
@@ -9055,8 +9055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 1,
-    "publicContributions": 43,
+    "privateContributions": 4,
+    "publicContributions": 53,
     "createdAt": "2021-11-28T06:11:30Z"
   },
   {
@@ -9067,8 +9067,8 @@
     "company": "",
     "twitterUsername": "OladetounGee",
     "followers": 17,
-    "privateContributions": 452,
-    "publicContributions": 39,
+    "privateContributions": 627,
+    "publicContributions": 29,
     "createdAt": "2021-02-05T10:19:48Z"
   },
   {
@@ -9079,8 +9079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 150,
-    "publicContributions": 97,
+    "privateContributions": 94,
+    "publicContributions": 45,
     "createdAt": "2021-10-13T13:53:42Z"
   },
   {
@@ -9092,7 +9092,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 2,
-    "publicContributions": 34,
+    "publicContributions": 26,
     "createdAt": "2021-11-11T14:12:17Z"
   },
   {
@@ -9103,8 +9103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 9,
+    "privateContributions": 759,
+    "publicContributions": 19,
     "createdAt": "2021-06-09T13:51:33Z"
   },
   {
@@ -9132,25 +9132,13 @@
     "createdAt": "2021-10-25T10:16:35Z"
   },
   {
-    "login": "floricangel",
-    "name": "floric",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80529766?s=72&u=bef92350e7f9211a9f56c89eb8a8974f4c586130&v=4",
-    "location": "Estonia",
-    "company": "",
-    "twitterUsername": "floricbunny",
-    "followers": 13,
-    "privateContributions": 49,
-    "publicContributions": 21,
-    "createdAt": "2021-03-12T13:55:10Z"
-  },
-  {
     "login": "IlmarLillepruun",
     "name": "Rajevski Von Nevski ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93450805?s=72&u=a4f9a87c1d0ced1a8e0a12673383c7e4520a5283&v=4",
     "location": "Estonia ",
     "company": "krutski oü",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-30T20:06:23Z"
@@ -9172,11 +9160,11 @@
     "name": "Samuel Gachunga",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84716878?s=72&u=a18e415a1fafb1eb529a6bb819ec248e9d7b94dd&v=4",
     "location": "Tallinn, Estonia",
-    "company": "@Bleufi",
+    "company": "@Jamzone",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 357,
-    "publicContributions": 9,
+    "privateContributions": 758,
+    "publicContributions": 4,
     "createdAt": "2021-05-24T11:51:33Z"
   },
   {
@@ -9186,8 +9174,8 @@
     "location": "Tallinn - Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 125,
+    "followers": 14,
+    "privateContributions": 467,
     "publicContributions": 112,
     "createdAt": "2021-01-13T17:02:48Z"
   },
@@ -9199,8 +9187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 380,
-    "publicContributions": 1,
+    "privateContributions": 257,
+    "publicContributions": 0,
     "createdAt": "2021-12-02T12:10:01Z"
   },
   {

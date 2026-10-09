@@ -8720,7 +8720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 415,
+    "publicContributions": 155,
     "createdAt": "2025-05-23T14:55:53Z"
   },
   {
@@ -8732,7 +8732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2025-04-25T16:51:03Z"
   },
   {
@@ -8742,9 +8742,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 246,
-    "publicContributions": 36,
+    "followers": 2,
+    "privateContributions": 479,
+    "publicContributions": 50,
     "createdAt": "2025-05-02T11:23:29Z"
   },
   {
@@ -8767,21 +8767,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
+    "privateContributions": 3,
     "publicContributions": 169,
     "createdAt": "2025-02-23T20:42:43Z"
-  },
-  {
-    "login": "maurojparedes",
-    "name": "Mauro Paredes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196001888?s=72&u=08f9638b25863d18cc6b7ad98a4af835aded7617&v=4",
-    "location": "Córdoba, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2025-01-22T04:28:44Z"
   },
   {
     "login": "agusn16",
@@ -8792,7 +8780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 13,
     "createdAt": "2025-04-03T21:29:37Z"
   },
   {
@@ -8809,14 +8797,14 @@
   },
   {
     "login": "DeniseGz",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212257931?s=72&u=ad1bbf0bcd77db19ccb08be29abe826a0b241bf3&v=4",
+    "name": "Denu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/212257931?s=72&u=850d099f1ea6d62c76ba637ccf2f10bfdeb5b1ba&v=4",
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 101,
     "createdAt": "2025-05-18T17:28:45Z"
   },
   {
@@ -8852,7 +8840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 41,
     "createdAt": "2024-12-29T22:56:11Z"
   },
   {
@@ -8864,7 +8852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 2,
     "createdAt": "2025-05-29T16:09:22Z"
   },
   {
@@ -8876,7 +8864,7 @@
     "twitterUsername": "bfafcnym",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2025-06-23T15:44:51Z"
   },
   {
@@ -8886,9 +8874,9 @@
     "location": "Argentina, Cordoba, Cordoba",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 35,
     "createdAt": "2025-06-02T21:59:36Z"
   },
   {
@@ -8912,7 +8900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 19,
     "createdAt": "2025-06-06T19:45:39Z"
   },
   {
@@ -8924,7 +8912,7 @@
     "twitterUsername": "zantyhagowo",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 49,
     "createdAt": "2024-04-17T12:49:27Z"
   },
   {
@@ -8935,7 +8923,7 @@
     "company": "Municipalidad de la Ciudad de San Juan",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 222,
+    "privateContributions": 258,
     "publicContributions": 15,
     "createdAt": "2024-07-07T15:06:56Z"
   },

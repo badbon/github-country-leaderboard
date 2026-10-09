@@ -8994,7 +8994,7 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2018-01-20T10:26:33Z"
@@ -9007,8 +9007,8 @@
     "company": "Omega-me",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 486,
-    "publicContributions": 7,
+    "privateContributions": 393,
+    "publicContributions": 5,
     "createdAt": "2018-06-22T19:44:12Z"
   },
   {
@@ -9018,8 +9018,8 @@
     "location": "Tirana, Albania",
     "company": "Intelligent System",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 745,
+    "followers": 10,
+    "privateContributions": 1171,
     "publicContributions": 9,
     "createdAt": "2018-12-05T21:26:56Z"
   },
@@ -9031,7 +9031,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1055,
+    "privateContributions": 1344,
     "publicContributions": 1,
     "createdAt": "2018-03-17T01:36:50Z"
   },
@@ -9043,8 +9043,8 @@
     "company": "",
     "twitterUsername": "joankabello",
     "followers": 9,
-    "privateContributions": 98,
-    "publicContributions": 1,
+    "privateContributions": 129,
+    "publicContributions": 0,
     "createdAt": "2018-04-29T09:47:25Z"
   },
   {
@@ -9054,9 +9054,9 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 960,
-    "publicContributions": 229,
+    "followers": 9,
+    "privateContributions": 1606,
+    "publicContributions": 462,
     "createdAt": "2018-03-18T10:08:59Z"
   },
   {
@@ -9067,7 +9067,7 @@
     "company": "",
     "twitterUsername": "eniogit",
     "followers": 8,
-    "privateContributions": 42,
+    "privateContributions": 125,
     "publicContributions": 2,
     "createdAt": "2018-04-30T23:50:10Z"
   },
@@ -9079,7 +9079,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 46,
+    "privateContributions": 56,
     "publicContributions": 1,
     "createdAt": "2018-03-13T08:54:29Z"
   },
@@ -9126,7 +9126,7 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-12-29T16:45:33Z"
@@ -9151,8 +9151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2238,
-    "publicContributions": 108,
+    "privateContributions": 2324,
+    "publicContributions": 109,
     "createdAt": "2018-05-06T08:29:43Z"
   },
   {
@@ -9164,20 +9164,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 12,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2018-08-28T18:14:15Z"
-  },
-  {
-    "login": "medi11",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36387945?s=72&u=a69a215dc97cbbbc211db8eaba3f24f0c6f70125&v=4",
-    "location": "Albania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1275,
-    "publicContributions": 0,
-    "createdAt": "2018-02-11T23:39:43Z"
   },
   {
     "login": "albahaxhimali1",
@@ -9186,7 +9174,7 @@
     "location": "Tirana,Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-02T09:21:54Z"

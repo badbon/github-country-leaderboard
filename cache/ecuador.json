@@ -9008,7 +9008,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 10,
-    "publicContributions": 12,
+    "publicContributions": 11,
     "createdAt": "2021-02-26T15:22:43Z"
   },
   {
@@ -9043,8 +9043,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 484,
-    "publicContributions": 36,
+    "privateContributions": 619,
+    "publicContributions": 11,
     "createdAt": "2021-11-04T04:06:30Z"
   },
   {
@@ -9068,7 +9068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 8,
     "createdAt": "2023-08-24T16:50:43Z"
   },
   {
@@ -9080,7 +9080,7 @@
     "twitterUsername": "Akira_Haize",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 2,
     "createdAt": "2023-11-20T14:37:20Z"
   },
   {
@@ -9090,9 +9090,9 @@
     "location": "San Gabriel, Carchi, Ecuador",
     "company": "",
     "twitterUsername": "KleverLopez_",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "followers": 3,
+    "privateContributions": 3,
+    "publicContributions": 375,
     "createdAt": "2023-03-26T22:40:37Z"
   },
   {
@@ -9116,7 +9116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 556,
+    "publicContributions": 624,
     "createdAt": "2023-04-26T00:30:38Z"
   },
   {
@@ -9126,7 +9126,7 @@
     "location": "Ecuador",
     "company": "Escuela Superior Politécnica de Chimborazo",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2023-03-11T01:27:42Z"
@@ -9139,8 +9139,8 @@
     "company": "Software developer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 86,
+    "privateContributions": 1,
+    "publicContributions": 179,
     "createdAt": "2023-04-06T20:24:06Z"
   },
   {
@@ -9150,22 +9150,10 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 781,
+    "publicContributions": 669,
     "createdAt": "2023-12-10T18:41:44Z"
-  },
-  {
-    "login": "imDark111",
-    "name": "John Patrick",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144637503?s=72&u=9e93df8b59ba9dfafe083c3738e4453e73e79700&v=4",
-    "location": "Arenillas, El Oro, Ecuador",
-    "company": "Universidad Técnica de Machala",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 121,
-    "createdAt": "2023-09-11T00:58:09Z"
   },
   {
     "login": "Gennalop",
@@ -9176,7 +9164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 78,
-    "publicContributions": 29,
+    "publicContributions": 31,
     "createdAt": "2023-06-25T23:21:12Z"
   },
   {

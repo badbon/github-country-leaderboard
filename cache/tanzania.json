@@ -8756,7 +8756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-12-14T07:31:04Z"
   },
   {
@@ -8826,7 +8826,7 @@
     "location": "DODOMA, TANZANIA",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-16T20:20:57Z"
@@ -8840,7 +8840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-08-25T22:40:31Z"
   },
   {
@@ -8850,9 +8850,9 @@
     "location": "Dar es salaam, Tanzania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 112,
     "createdAt": "2022-08-26T10:46:57Z"
   },
   {
@@ -8876,7 +8876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 253,
+    "publicContributions": 306,
     "createdAt": "2022-06-15T21:42:14Z"
   },
   {
@@ -8887,20 +8887,20 @@
     "company": "MAGIHA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 101,
+    "privateContributions": 99,
     "publicContributions": 10,
     "createdAt": "2022-12-14T22:12:09Z"
   },
   {
     "login": "AloyceGregoryShetui",
-    "name": "Aloyce Gregory Shetui",
+    "name": "Aloyce Gregory",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112552330?s=72&u=3297c0e595cfbd28979221255b8ababd7bb4f236&v=4",
     "location": "Dar Es Salaam,Tanzania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-08-31T10:34:22Z"
   },
   {
@@ -8914,18 +8914,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-21T21:30:16Z"
-  },
-  {
-    "login": "dawillygene",
-    "name": "Dawilly gene",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121281452?s=72&u=2d402723c65baf219bdcda9ffd5f3a86f4dc84eb&v=4",
-    "location": "DODOMA",
-    "company": "DODOMA UNIVERSITY",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 18722,
-    "publicContributions": 1120,
-    "createdAt": "2022-12-23T06:55:37Z"
   },
   {
     "login": "MasterCode112",
@@ -8960,7 +8948,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 339,
+    "publicContributions": 139,
     "createdAt": "2022-06-26T09:51:59Z"
   },
   {
@@ -8972,7 +8960,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 43,
     "createdAt": "2022-06-09T07:30:10Z"
   },
   {

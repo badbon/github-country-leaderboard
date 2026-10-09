@@ -8682,9 +8682,9 @@
     "location": "El Salvador",
     "company": "Programa Jóvenes Talento",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 63,
     "createdAt": "2021-03-03T05:20:32Z"
   },
   {
@@ -8694,7 +8694,7 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 66,
     "createdAt": "2021-09-17T02:01:30Z"
@@ -8708,7 +8708,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 7,
-    "publicContributions": 35,
+    "publicContributions": 5,
     "createdAt": "2021-05-17T21:44:31Z"
   },
   {
@@ -8720,43 +8720,31 @@
     "twitterUsername": "leryunard",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-05-07T03:59:42Z"
   },
   {
     "login": "cvcg11",
     "name": "Christian Gómez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85417159?s=72&u=65e8a1526b39608f1ac7e01ed5da2f5723855707&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85417159?s=72&u=ca4710e19039dfb1f727b5776f7119db6a198635&v=4",
     "location": "El salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 762,
-    "publicContributions": 335,
+    "followers": 10,
+    "privateContributions": 871,
+    "publicContributions": 376,
     "createdAt": "2021-06-05T21:33:24Z"
   },
   {
-    "login": "DanielYanesDev",
-    "name": "Daniel Yanes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93393889?s=72&u=feab67190c7801f6097c8be7f6f1959f7eb1ffab&v=4",
-    "location": "El Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 29,
-    "publicContributions": 53,
-    "createdAt": "2021-10-29T15:09:14Z"
-  },
-  {
     "login": "MelissaPleitez",
-    "name": "MelissaPleitez",
+    "name": "Melissa Pleitez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92410851?s=72&u=52740e40f63cbe557cb235c9d709fda5791081ce&v=4",
     "location": "El Salvador, San Salvador",
     "company": "FullStack Developer",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 113,
     "createdAt": "2021-10-13T00:11:00Z"
   },
   {
@@ -8768,7 +8756,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 11,
     "createdAt": "2021-02-18T22:22:50Z"
   },
   {
@@ -8779,7 +8767,7 @@
     "company": "Developer",
     "twitterUsername": "jmanueldev",
     "followers": 7,
-    "privateContributions": 403,
+    "privateContributions": 479,
     "publicContributions": 0,
     "createdAt": "2021-03-14T02:32:38Z"
   },
@@ -8815,8 +8803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 753,
-    "publicContributions": 145,
+    "privateContributions": 712,
+    "publicContributions": 128,
     "createdAt": "2021-05-19T21:19:10Z"
   },
   {
@@ -8851,7 +8839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 94,
+    "privateContributions": 91,
     "publicContributions": 0,
     "createdAt": "2021-03-05T16:29:20Z"
   },
@@ -8864,7 +8852,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 97,
     "createdAt": "2021-10-09T22:27:13Z"
   },
   {
@@ -8874,7 +8862,7 @@
     "location": "El Salvador",
     "company": "Universidad de El Salvador",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 17,
     "publicContributions": 14,
     "createdAt": "2021-11-12T16:53:48Z"
@@ -8900,7 +8888,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 64,
     "createdAt": "2021-12-12T17:39:34Z"
   },
   {
@@ -8910,7 +8898,7 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-05T21:35:24Z"

@@ -8784,39 +8784,15 @@
     "createdAt": "2024-10-30T09:26:15Z"
   },
   {
-    "login": "thant-thiha",
-    "name": "Thant Thiha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179871797?s=72&u=006de613333690792402778814b11e589eeebe25&v=4",
-    "location": "Dublin, Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2024-08-29T19:16:31Z"
-  },
-  {
-    "login": "SiddhantBajpai26",
-    "name": "Siddhant Bajpai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/164885417?s=72&u=f2b4d38262648eb40bf44cd1f5ba193845b840a3&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-03-25T12:50:33Z"
-  },
-  {
-    "login": "Tekisho",
+    "login": "tekisho",
     "name": "Teki Shodo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182345770?s=72&u=0dc497ece8c8fce889aa561b723afe60896b9e89&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182345770?s=72&u=130bd58788435b759dc36f407693ffd6788a9645&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 29,
+    "privateContributions": 0,
+    "publicContributions": 60,
     "createdAt": "2024-09-21T13:01:29Z"
   },
   {
@@ -8840,7 +8816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 431,
+    "publicContributions": 427,
     "createdAt": "2024-01-25T10:45:08Z"
   },
   {
@@ -8863,7 +8839,7 @@
     "company": "@centripetal ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 89,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-23T11:36:00Z"
   },
@@ -8917,14 +8893,14 @@
   },
   {
     "login": "kate-ash21",
-    "name": "Katelan Ashley Macaspac",
+    "name": "Ashley Macaspac",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184654908?s=72&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-10-11T13:31:10Z"
   },
   {
@@ -8959,8 +8935,8 @@
     "company": "Technological University Dublin",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 66,
+    "privateContributions": 66,
+    "publicContributions": 67,
     "createdAt": "2024-06-09T16:08:21Z"
   },
   {
@@ -9018,7 +8994,7 @@
     "location": "Dublin, Ireland",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-05-21T12:34:37Z"
@@ -139507,7 +139483,7 @@
     "company": "@securityfirst ",
     "twitterUsername": "",
     "followers": 54,
-    "privateContributions": 289,
+    "privateContributions": 376,
     "publicContributions": 1,
     "createdAt": "2016-04-20T19:29:44Z"
   },
