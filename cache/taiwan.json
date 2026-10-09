@@ -7244,7 +7244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 129,
     "createdAt": "2024-01-15T13:09:07Z"
   },
   {
@@ -7254,22 +7254,10 @@
     "location": "Xuefu Road, New Taipei City, Taiwan",
     "company": "Tamkang University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 469,
     "createdAt": "2024-04-02T02:42:30Z"
-  },
-  {
-    "login": "enquanc",
-    "name": "Chen Enquan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173998650?s=72&v=4",
-    "location": "Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 135,
-    "createdAt": "2024-06-27T08:16:21Z"
   },
   {
     "login": "bxhien",
@@ -7316,7 +7304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 65,
     "createdAt": "2024-10-20T06:15:06Z"
   },
   {
@@ -7352,7 +7340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1329,
+    "publicContributions": 2390,
     "createdAt": "2024-12-02T09:52:46Z"
   },
   {
@@ -7380,18 +7368,6 @@
     "createdAt": "2024-10-07T02:45:30Z"
   },
   {
-    "login": "JunJie-Chang",
-    "name": "張鈞傑",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173249114?s=72&u=8ab40e8fa4ce1ae31f578d445a426b67b9c7e65c&v=4",
-    "location": "Taipei, Taiwan",
-    "company": "National Taiwan University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 170,
-    "publicContributions": 201,
-    "createdAt": "2024-06-19T09:03:17Z"
-  },
-  {
     "login": "DaitoMizokami",
     "name": "DaitoMizokami",
     "avatarUrl": "https://avatars.githubusercontent.com/u/185598726?s=72&u=ddcdcfd70155d9d1944fb79ec53a4341406ad37c&v=4",
@@ -7406,13 +7382,13 @@
   {
     "login": "kaijaytu",
     "name": "Kai Jay Tu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/190954234?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/190954234?s=72&u=ca1c013a6398e726beb03693f8c5914d123efc1b&v=4",
     "location": "Taiwan",
     "company": "Advantest.Crop",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 66,
     "createdAt": "2024-12-07T15:40:12Z"
   },
   {
@@ -7435,8 +7411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 29,
+    "privateContributions": 60,
+    "publicContributions": 39,
     "createdAt": "2024-07-22T05:38:26Z"
   },
   {

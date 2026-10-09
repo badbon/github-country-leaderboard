@@ -7351,8 +7351,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
-    "publicContributions": 21,
+    "privateContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-07-28T18:29:40Z"
   },
   {
@@ -7364,7 +7364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2023-09-10T13:29:58Z"
   },
   {
@@ -7374,9 +7374,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 74,
     "createdAt": "2023-06-07T12:05:54Z"
   },
   {
@@ -7388,7 +7388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-12-18T18:44:57Z"
   },
   {
@@ -7405,14 +7405,14 @@
   },
   {
     "login": "Besher-Hamze",
-    "name": "Besher Hamze",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136814619?s=72&u=5b12235af1e7f60b03ffeac4c8b0988bcdd403ba&v=4",
+    "name": "Mohammed Besher Hamze",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136814619?s=72&u=a542631f81019777373fa1901ca7487fdefd2cf3&v=4",
     "location": "Aleppo,Syria",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 340,
+    "publicContributions": 277,
     "createdAt": "2023-06-16T12:09:31Z"
   },
   {
@@ -7424,7 +7424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 26,
     "createdAt": "2023-10-04T17:14:34Z"
   },
   {
@@ -7460,7 +7460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 29,
     "createdAt": "2023-11-03T15:45:44Z"
   },
   {
@@ -7472,7 +7472,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 22,
     "createdAt": "2023-12-26T08:18:09Z"
   },
   {
@@ -7496,7 +7496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1763,
+    "publicContributions": 1676,
     "createdAt": "2023-09-05T06:47:25Z"
   },
   {
@@ -7508,7 +7508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2023-12-23T07:05:21Z"
   },
   {
@@ -7530,9 +7530,9 @@
     "location": "Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 101,
-    "privateContributions": 178,
-    "publicContributions": 474,
+    "followers": 114,
+    "privateContributions": 739,
+    "publicContributions": 381,
     "createdAt": "2023-12-06T17:33:24Z"
   },
   {
@@ -7542,22 +7542,10 @@
     "location": "Damascus",
     "company": "HIAST",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 550,
     "createdAt": "2023-05-01T11:01:11Z"
-  },
-  {
-    "login": "Mustafa-Balidi",
-    "name": "Mustafa_balidi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135384993?s=72&u=49e7f9dbd9d7872c4c9ac05cb2aa430e0487c987&v=4",
-    "location": "Damascus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 0,
-    "publicContributions": 251,
-    "createdAt": "2023-06-02T20:57:26Z"
   },
   {
     "login": "SalahMd",
@@ -7566,9 +7554,9 @@
     "location": "Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 67,
     "createdAt": "2023-01-27T12:00:15Z"
   },
   {
@@ -7578,8 +7566,8 @@
     "location": "Damascus, Midan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 86,
+    "followers": 9,
+    "privateContributions": 87,
     "publicContributions": 17,
     "createdAt": "2023-10-22T16:51:35Z"
   },

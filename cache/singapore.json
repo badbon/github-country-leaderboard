@@ -7074,9 +7074,9 @@
     "location": "Singapore",
     "company": "Nanyang Technological University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 28,
     "createdAt": "2025-08-25T02:42:10Z"
   },
   {
@@ -7088,7 +7088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 275,
+    "publicContributions": 280,
     "createdAt": "2025-03-08T13:13:33Z"
   },
   {
@@ -7122,8 +7122,8 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "mthlvr",
-    "followers": 1,
-    "privateContributions": 2889,
+    "followers": 3,
+    "privateContributions": 5365,
     "publicContributions": 0,
     "createdAt": "2025-01-21T13:09:19Z"
   },
@@ -7134,8 +7134,8 @@
     "location": "Singapore",
     "company": "Nanyang Polytechnic",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 84,
     "publicContributions": 0,
     "createdAt": "2025-08-10T15:25:36Z"
   },
@@ -7146,9 +7146,9 @@
     "location": "Singapore",
     "company": "Sameness",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2025-08-05T14:05:23Z"
   },
   {
@@ -7164,27 +7164,15 @@
     "createdAt": "2025-12-16T12:37:01Z"
   },
   {
-    "login": "xxveexx",
-    "name": "V.M.R",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212069553?s=72&u=f2d85a9c6a251666d8a76d08759065ec5a93657d&v=4",
-    "location": "Singapore",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-05-17T02:17:33Z"
-  },
-  {
     "login": "Sevenninetwo",
     "name": "Francis Foo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/213607808?s=72&u=7edc60f38f9a48a9f0d1dd3fe90f2f9376dd9356&v=4",
     "location": "Singapore",
     "company": "Qrigami",
     "twitterUsername": "francisfooqh",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 93,
     "createdAt": "2025-05-27T10:23:35Z"
   },
   {
@@ -7196,7 +7184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2025-01-17T14:47:23Z"
   },
   {
@@ -7208,7 +7196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 11,
     "createdAt": "2025-07-08T10:23:33Z"
   },
   {
@@ -7220,7 +7208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 35,
     "createdAt": "2025-02-11T14:52:43Z"
   },
   {
@@ -7244,7 +7232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 16,
     "createdAt": "2025-03-19T19:02:04Z"
   },
   {
@@ -7256,7 +7244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2025-09-15T12:33:16Z"
   },
   {
@@ -7280,7 +7268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 53,
     "createdAt": "2025-10-04T16:13:09Z"
   },
   {
@@ -169218,7 +169206,7 @@
     "location": "Singapore/Shanghai/Edinburgh",
     "company": "Ex-Baidu/Ex-intel Programmer",
     "twitterUsername": "",
-    "followers": 30,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2016-04-07T06:10:09Z"

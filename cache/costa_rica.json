@@ -7626,9 +7626,9 @@
     "location": "Costa Rica",
     "company": "Universidad Nacional de Costa Rica (UNA)",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 197,
+    "publicContributions": 274,
     "createdAt": "2023-05-06T20:42:38Z"
   },
   {
@@ -7636,11 +7636,11 @@
     "name": "Alejandro López",
     "avatarUrl": "https://avatars.githubusercontent.com/u/130942270?s=72&u=d65f9b46bbcbf2b81135cf501c22a32e7c6c0052&v=4",
     "location": "Costa Rica",
-    "company": "Universidad Técnica Nacional",
+    "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 326,
     "createdAt": "2023-04-17T00:34:11Z"
   },
   {
@@ -7652,7 +7652,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 126,
     "createdAt": "2023-05-10T04:21:16Z"
   },
   {
@@ -7663,8 +7663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 312,
-    "publicContributions": 171,
+    "privateContributions": 178,
+    "publicContributions": 135,
     "createdAt": "2023-12-06T21:34:43Z"
   },
   {
@@ -7675,8 +7675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 412,
-    "publicContributions": 411,
+    "privateContributions": 384,
+    "publicContributions": 487,
     "createdAt": "2023-01-31T17:55:24Z"
   },
   {
@@ -7698,21 +7698,21 @@
     "location": "San Carlos, Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 64,
     "createdAt": "2023-08-28T03:45:47Z"
   },
   {
     "login": "elein06",
     "name": "Elein Rodríguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131079420?s=72&u=0b509fad31b3d0b822a5f259f4c0fb98e2da647c&v=4",
-    "location": "Guanacaste, Costa Rica",
-    "company": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131079420?s=72&u=186e3443c5e6468a12f05a06601a9defc55ce921&v=4",
+    "location": "Costa Rica",
+    "company": "Universidad Nacional de Costa Rica",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 278,
-    "publicContributions": 314,
+    "privateContributions": 146,
+    "publicContributions": 312,
     "createdAt": "2023-04-17T23:32:11Z"
   },
   {
@@ -7722,9 +7722,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "BenjaminSandiS1",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 26,
     "createdAt": "2023-03-11T03:28:26Z"
   },
   {
@@ -7738,18 +7738,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-13T00:30:56Z"
-  },
-  {
-    "login": "ErnestoVegaRodriguez",
-    "name": "Ernesto Vega Rodriguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130603932?s=72&u=71ffbeff6f6e1415bf3ccb4282b3323afa46e75d&v=4",
-    "location": "Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 154,
-    "createdAt": "2023-04-12T19:54:36Z"
   },
   {
     "login": "KendallZR",
@@ -7772,7 +7760,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 49,
     "createdAt": "2023-09-13T19:32:20Z"
   },
   {
@@ -7796,7 +7784,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 260,
+    "publicContributions": 215,
     "createdAt": "2023-05-26T02:40:19Z"
   },
   {
@@ -7814,13 +7802,13 @@
   {
     "login": "Mrtropper",
     "name": "Fabricio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141190315?s=72&u=ba5c18e6e42546f8ec9586689c6244f7a7240156&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141190315?s=72&u=bed40702b26fe8d6b88ee9ac1319a321a09ba853&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2023-08-01T23:05:08Z"
   },
   {
@@ -7832,7 +7820,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 679,
+    "publicContributions": 661,
     "createdAt": "2023-03-20T18:49:33Z"
   },
   {
@@ -7844,7 +7832,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 68,
     "createdAt": "2023-05-15T17:18:54Z"
   },
   {

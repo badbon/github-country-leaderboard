@@ -347394,7 +347394,7 @@
     "location": "Eindhoven / Edinburgh",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 24,
     "publicContributions": 0,
     "createdAt": "2016-03-02T13:20:53Z"
@@ -558994,5 +558994,17 @@
     "privateContributions": 0,
     "publicContributions": 232,
     "createdAt": "2012-08-13T11:22:07Z"
+  },
+  {
+    "login": "demirakbal",
+    "name": "Demir Akbalıkcı",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91693059?s=72&u=293b8c9a020d0fb35ff003a205b391d302ad2a99&v=4",
+    "location": "Groningen, the Netherlands",
+    "company": "University of Groningen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2021-09-30T17:52:39Z"
   }
 ]

@@ -7592,7 +7592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-03-09T15:34:35Z"
   },
   {
@@ -7627,7 +7627,7 @@
     "company": "Starship Technologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1043,
+    "privateContributions": 1220,
     "publicContributions": 15,
     "createdAt": "2022-05-09T12:06:25Z"
   },
@@ -7646,12 +7646,12 @@
   {
     "login": "RichardKuklane",
     "name": "Richard Kuklane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108653201?s=72&u=21d21437fa05425a3f68e0d79344db275cd7c3a5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108653201?s=72&u=e42e9aede61d30cc0b2f70b086da3ea670686ca0&v=4",
     "location": "Estonia",
     "company": "@transferwise",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 999,
+    "privateContributions": 956,
     "publicContributions": 0,
     "createdAt": "2022-07-04T06:36:43Z"
   },
@@ -7700,7 +7700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2022-09-26T17:48:18Z"
   },
   {
@@ -7724,7 +7724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 47,
     "createdAt": "2022-10-11T18:09:34Z"
   },
   {
@@ -7736,19 +7736,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 543,
+    "publicContributions": 522,
     "createdAt": "2022-11-04T10:40:08Z"
   },
   {
     "login": "amjastsov",
     "name": "Andrei Mjastsov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117397316?s=72&u=5f80c19f2e929e9bd48eaebbc6722c6813ce47cb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117397316?s=72&u=c70c0ea1068b371d1d5dcf4f1593d66d03176f6f&v=4",
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 34,
     "createdAt": "2022-11-03T20:17:52Z"
   },
   {

@@ -7591,7 +7591,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 414,
+    "privateContributions": 336,
     "publicContributions": 0,
     "createdAt": "2021-11-08T12:22:39Z"
   },
@@ -7627,8 +7627,8 @@
     "company": "GCC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 261,
-    "publicContributions": 7,
+    "privateContributions": 235,
+    "publicContributions": 0,
     "createdAt": "2021-11-15T16:54:25Z"
   },
   {
@@ -7674,22 +7674,10 @@
     "location": "Kyrenia, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-03T17:56:41Z"
-  },
-  {
-    "login": "demirakbal",
-    "name": "Demir Akbalıkcı",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91693059?s=72&u=293b8c9a020d0fb35ff003a205b391d302ad2a99&v=4",
-    "location": "Kyrenia, Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2021-09-30T17:52:39Z"
   },
   {
     "login": "xdFancy",
@@ -7723,7 +7711,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1479,
+    "privateContributions": 1688,
     "publicContributions": 0,
     "createdAt": "2021-04-27T06:30:33Z"
   },
@@ -7734,9 +7722,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 266,
-    "publicContributions": 18,
+    "followers": 2,
+    "privateContributions": 314,
+    "publicContributions": 16,
     "createdAt": "2021-05-04T09:31:35Z"
   },
   {
@@ -7747,7 +7735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 373,
+    "privateContributions": 515,
     "publicContributions": 4,
     "createdAt": "2021-11-20T09:55:20Z"
   },

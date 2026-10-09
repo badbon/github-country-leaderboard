@@ -7255,8 +7255,8 @@
     "company": "@ENSIA-AI ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 251,
-    "publicContributions": 103,
+    "privateContributions": 235,
+    "publicContributions": 114,
     "createdAt": "2024-10-05T10:57:31Z"
   },
   {
@@ -7266,9 +7266,9 @@
     "location": "Constantine, Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 41,
     "createdAt": "2024-12-05T16:39:37Z"
   },
   {
@@ -7279,7 +7279,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 811,
+    "privateContributions": 1234,
     "publicContributions": 6,
     "createdAt": "2024-07-18T17:02:21Z"
   },
@@ -7292,7 +7292,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 8,
     "createdAt": "2024-06-16T18:31:54Z"
   },
   {
@@ -7304,7 +7304,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2024-09-18T09:08:47Z"
   },
   {
@@ -7326,9 +7326,9 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 108,
     "createdAt": "2024-01-05T18:00:25Z"
   },
   {
@@ -7364,7 +7364,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 184,
     "createdAt": "2024-07-17T15:07:06Z"
   },
   {
@@ -7376,7 +7376,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 353,
+    "publicContributions": 404,
     "createdAt": "2024-02-13T21:53:58Z"
   },
   {
@@ -7388,7 +7388,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 144,
     "createdAt": "2023-12-31T23:23:34Z"
   },
   {
@@ -7398,9 +7398,9 @@
     "location": "algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 114,
-    "publicContributions": 364,
+    "followers": 5,
+    "privateContributions": 74,
+    "publicContributions": 465,
     "createdAt": "2024-12-21T10:25:26Z"
   },
   {
@@ -7412,7 +7412,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 48,
     "createdAt": "2024-07-29T21:42:05Z"
   },
   {
@@ -7423,7 +7423,7 @@
     "company": "idocode",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 385,
+    "privateContributions": 613,
     "publicContributions": 59,
     "createdAt": "2024-06-04T15:16:19Z"
   },
@@ -7434,7 +7434,7 @@
     "location": "Hay El Nasr, Zone 8, Chlef, Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 69,
     "publicContributions": 31,
     "createdAt": "2023-12-29T18:45:10Z"
@@ -7448,20 +7448,8 @@
     "twitterUsername": "amine_bk8",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 49,
     "createdAt": "2024-10-31T11:26:38Z"
-  },
-  {
-    "login": "LMeriem",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174441473?s=72&u=ad9b9d38928d0f1c73a73b7a4628bb7d510d5e95&v=4",
-    "location": "Algeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2024-07-02T11:15:51Z"
   },
   {
     "login": "islambrg",
@@ -7470,7 +7458,7 @@
     "location": "El-Eulma, Algeria",
     "company": "University Ferhat Abbas Setif 1 ",
     "twitterUsername": "BoureghdaI",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-29T19:30:11Z"
@@ -7482,7 +7470,7 @@
     "location": "Algiers , Algeria ",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2024-08-25T12:36:03Z"
@@ -69778,5 +69766,65 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2026-05-19T09:32:52Z"
+  },
+  {
+    "login": "ecomdzsolution",
+    "name": "ecom dz solution",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288092590?s=72&u=42feb08fecac2005ba54dda9f336cd9710b2cbfd&v=4",
+    "location": "Algeria",
+    "company": "ecom dz solution",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-05-26T17:27:43Z"
+  },
+  {
+    "login": "SleathCobra",
+    "name": "Sleath Cobra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288031478?s=72&u=a743d5f48f84724161ed88619359ab12fae9899a&v=4",
+    "location": "Algeria",
+    "company": "Sleath Inc.",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 42,
+    "publicContributions": 140,
+    "createdAt": "2026-05-26T13:46:06Z"
+  },
+  {
+    "login": "takismartgamer123-rgb",
+    "name": "Taki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289084315?s=72&u=156b1739ecdd4988ab63554fa34a35652870db5f&v=4",
+    "location": "Guelma, Algeria ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 594,
+    "createdAt": "2026-05-29T23:47:18Z"
+  },
+  {
+    "login": "fatehabderrahim189-prog",
+    "name": "Fateh Abderrahim Boukhalfa ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288140732?s=72&u=9fa6e8841e546ea99de44e70f239cbe046c90f48&v=4",
+    "location": "Algeria ",
+    "company": "USTHB ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4,
+    "publicContributions": 176,
+    "createdAt": "2026-05-26T21:15:12Z"
+  },
+  {
+    "login": "akm-chawki",
+    "name": "akm-chawki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289486535?s=72&u=8494351a3d1c1f04a6e6de0204601abb9635eef2&v=4",
+    "location": "Algeria",
+    "company": "icarus_agency",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-31T19:44:37Z"
   }
 ]

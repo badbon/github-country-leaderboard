@@ -7291,8 +7291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 121,
-    "publicContributions": 155,
+    "privateContributions": 230,
+    "publicContributions": 120,
     "createdAt": "2024-04-03T07:55:18Z"
   },
   {
@@ -7304,7 +7304,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2024-12-20T07:44:16Z"
   },
   {
@@ -7314,7 +7314,7 @@
     "location": "Pragu, Czechia",
     "company": "@PopronSystems",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-06T10:46:30Z"
@@ -7327,8 +7327,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 11,
-    "publicContributions": 50,
+    "privateContributions": 25,
+    "publicContributions": 48,
     "createdAt": "2024-03-18T14:35:39Z"
   },
   {
@@ -7340,7 +7340,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-04-19T09:33:22Z"
   },
   {
@@ -7350,33 +7350,33 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 350,
+    "followers": 4,
+    "privateContributions": 366,
     "publicContributions": 72,
     "createdAt": "2024-11-02T09:18:03Z"
   },
   {
     "login": "drapek9",
     "name": "Šimon Drápal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166515432?s=72&u=9be4065b1f4031ba566eac6a266ca55014bce0d3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166515432?s=72&u=ca37b203a7970d85cb1eb6f9a685d8b0ae2bb519&v=4",
     "location": "Czechia, Pardubice",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 353,
-    "publicContributions": 183,
+    "privateContributions": 144,
+    "publicContributions": 182,
     "createdAt": "2024-04-09T12:31:52Z"
   },
   {
-    "login": "BabAdaminO",
-    "name": "Adam",
+    "login": "babAdamino",
+    "name": "Adamino",
     "avatarUrl": "https://avatars.githubusercontent.com/u/192021061?s=72&u=80b9c0c4bb33a9b5273f2321755662c31c39ad19&v=4",
     "location": "Czechia",
     "company": "",
-    "twitterUsername": "babadamino",
-    "followers": 3,
-    "privateContributions": 82,
-    "publicContributions": 8,
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 100,
+    "publicContributions": 35,
     "createdAt": "2024-12-17T17:03:08Z"
   },
   {
@@ -7412,7 +7412,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 24,
-    "publicContributions": 120,
+    "publicContributions": 169,
     "createdAt": "2024-12-01T17:42:39Z"
   },
   {
@@ -7423,8 +7423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 117,
-    "publicContributions": 295,
+    "privateContributions": 180,
+    "publicContributions": 283,
     "createdAt": "2024-09-30T08:09:28Z"
   },
   {
@@ -7466,13 +7466,13 @@
   {
     "login": "Daja201",
     "name": "David Zapletal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/172834530?s=72&u=26acc802ae6f4b96244ff6e6048042d3b19cd1c5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172834530?s=72&u=fa95f34b6ede31367e8dbe6d8c5abe6a74d3e84a&v=4",
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 328,
+    "publicContributions": 365,
     "createdAt": "2024-06-14T15:48:06Z"
   },
   {
@@ -7496,7 +7496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 544,
+    "publicContributions": 388,
     "createdAt": "2024-07-12T08:43:35Z"
   },
   {
@@ -194482,5 +194482,17 @@
     "privateContributions": 454,
     "publicContributions": 1,
     "createdAt": "2022-10-26T19:39:10Z"
+  },
+  {
+    "login": "sebastianstupak",
+    "name": "Sebastian Stupak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100760888?s=72&u=f2b58f1b2e63e3a9245f0c8728fcaeded99b84c8&v=4",
+    "location": "Brno, Czechia",
+    "company": "VISSIM s.r.o.",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 4505,
+    "publicContributions": 1132,
+    "createdAt": "2022-03-02T08:48:30Z"
   }
 ]

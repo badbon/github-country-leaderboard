@@ -7652,7 +7652,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 17,
-    "publicContributions": 117,
+    "publicContributions": 142,
     "createdAt": "2023-02-25T09:42:42Z"
   },
   {
@@ -7660,11 +7660,11 @@
     "name": "Giorgi Aptsiauri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132677674?s=72&u=16f75715eee610d5ecf5df9812cdfb2f77905b13&v=4",
     "location": "Georgia",
-    "company": "ITlover Web Service",
+    "company": "ITLover ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 5,
+    "privateContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2023-05-05T13:24:03Z"
   },
   {
@@ -7675,8 +7675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 9,
+    "publicContributions": 33,
     "createdAt": "2023-02-14T13:52:43Z"
   },
   {
@@ -7699,7 +7699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 371,
+    "privateContributions": 388,
     "publicContributions": 295,
     "createdAt": "2023-04-01T14:56:56Z"
   },
@@ -7723,8 +7723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 21,
-    "publicContributions": 209,
+    "privateContributions": 9,
+    "publicContributions": 218,
     "createdAt": "2023-06-10T10:44:11Z"
   },
   {
@@ -7735,7 +7735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 9,
     "publicContributions": 3,
     "createdAt": "2023-07-19T20:02:26Z"
   },
@@ -7747,8 +7747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 243,
-    "publicContributions": 114,
+    "privateContributions": 244,
+    "publicContributions": 111,
     "createdAt": "2023-12-05T15:35:21Z"
   },
   {
@@ -7758,9 +7758,9 @@
     "location": "Georgia, Axalkhalakhi",
     "company": "jobless",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 22,
     "createdAt": "2023-11-24T13:11:37Z"
   },
   {
@@ -7771,8 +7771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 99,
-    "publicContributions": 4,
+    "privateContributions": 91,
+    "publicContributions": 0,
     "createdAt": "2023-06-28T13:18:16Z"
   },
   {
@@ -7783,8 +7783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 161,
-    "publicContributions": 237,
+    "privateContributions": 154,
+    "publicContributions": 231,
     "createdAt": "2023-05-06T14:39:51Z"
   },
   {
@@ -7843,8 +7843,8 @@
     "company": "GeoAlpha Solutions",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 89,
-    "publicContributions": 6,
+    "privateContributions": 28,
+    "publicContributions": 71,
     "createdAt": "2023-02-03T16:18:07Z"
   },
   {
@@ -7855,8 +7855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 130,
-    "publicContributions": 53,
+    "privateContributions": 158,
+    "publicContributions": 66,
     "createdAt": "2023-09-13T20:20:56Z"
   },
   {
@@ -82786,5 +82786,29 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2026-05-19T03:03:18Z"
+  },
+  {
+    "login": "jkhopkins-zinnia",
+    "name": "Jeremy Hopkins",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290076593?s=72&u=a4dd808f9d8d102f8e409629f96bcef6eac700e3&v=4",
+    "location": "Alpharetta, Georgia",
+    "company": "@zinnia ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-02T15:14:12Z"
+  },
+  {
+    "login": "eip0001",
+    "name": "burke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288764500?s=72&u=848748938a66960647cd699121038e4117c85a98&v=4",
+    "location": "Georgia",
+    "company": "",
+    "twitterUsername": "00burke",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-05-28T21:21:00Z"
   }
 ]

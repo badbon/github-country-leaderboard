@@ -7544,7 +7544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-02-09T14:04:37Z"
   },
   {
@@ -7568,7 +7568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 367,
+    "publicContributions": 178,
     "createdAt": "2024-01-16T12:12:45Z"
   },
   {
@@ -7578,9 +7578,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 35,
+    "followers": 3,
+    "privateContributions": 155,
+    "publicContributions": 36,
     "createdAt": "2024-08-01T09:14:16Z"
   },
   {
@@ -7592,7 +7592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 8,
     "createdAt": "2024-04-04T11:14:32Z"
   },
   {
@@ -7626,21 +7626,21 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 25,
     "createdAt": "2024-10-23T09:05:24Z"
   },
   {
     "login": "samcaimingzhe",
-    "name": "Mingzhe Cai 蔡明哲",
+    "name": "Sam Cai",
     "avatarUrl": "https://avatars.githubusercontent.com/u/175960603?s=72&u=390b93106f74673a496547e681e2703b296f1928&v=4",
     "location": "2300S Copenhagen, Denmark",
     "company": "University of Copenhagen",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 245,
     "createdAt": "2024-07-18T15:07:21Z"
   },
   {
@@ -7652,7 +7652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 218,
+    "publicContributions": 162,
     "createdAt": "2024-04-17T14:24:39Z"
   },
   {
@@ -7664,7 +7664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 32,
     "createdAt": "2024-06-18T06:56:57Z"
   },
   {
@@ -7676,7 +7676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2024-04-11T10:35:33Z"
   },
   {
@@ -7696,7 +7696,7 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/169049763?s=72&u=08e8c6efcd28626f7517a8db3af8301979a284dd&v=4",
     "location": "Denmark",
-    "company": "FaseTech",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -7712,7 +7712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-06-20T07:36:41Z"
   },
   {
@@ -7723,7 +7723,7 @@
     "company": "@JellyMCNetwork ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 22,
+    "privateContributions": 35,
     "publicContributions": 8,
     "createdAt": "2024-08-25T22:30:55Z"
   },

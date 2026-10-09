@@ -7580,7 +7580,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 24,
     "createdAt": "2022-07-04T19:16:14Z"
   },
   {
@@ -7604,7 +7604,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2022-02-10T14:55:14Z"
   },
   {
@@ -7614,9 +7614,9 @@
     "location": "Yerevan, Armenia",
     "company": "ARK Networks",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2022-05-06T12:22:57Z"
   },
   {
@@ -7628,7 +7628,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 290,
+    "publicContributions": 308,
     "createdAt": "2022-12-15T10:41:54Z"
   },
   {
@@ -7639,7 +7639,7 @@
     "company": "Corsearch",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 573,
+    "privateContributions": 711,
     "publicContributions": 1,
     "createdAt": "2022-05-27T13:31:41Z"
   },
@@ -7688,7 +7688,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 147,
     "createdAt": "2022-05-02T08:47:03Z"
   },
   {
@@ -7708,11 +7708,11 @@
     "name": "Davit Badalyan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/114817248?s=72&u=fef29b3bcc2596fd540692bfc46b9e50b9cd3915&v=4",
     "location": "Yerevan, Armenia",
-    "company": "WorldQuant",
+    "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 127,
+    "publicContributions": 142,
     "createdAt": "2022-10-01T13:56:00Z"
   },
   {
@@ -7723,8 +7723,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 911,
-    "publicContributions": 337,
+    "privateContributions": 979,
+    "publicContributions": 376,
     "createdAt": "2022-01-07T13:47:53Z"
   },
   {
@@ -7736,7 +7736,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 23,
     "createdAt": "2022-09-03T11:58:56Z"
   },
   {
@@ -48502,5 +48502,77 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-18T08:37:06Z"
+  },
+  {
+    "login": "arpifahradyan-blip",
+    "name": "Arpi Fahradyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290491864?s=72&u=4c8afbe8cb15cdcadccd1dec0f63f141e377ccfc&v=4",
+    "location": "Yerevan , Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-03T18:36:27Z"
+  },
+  {
+    "login": "andranikhovahnnisyan",
+    "name": "Andranik",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288716927?s=72&u=262304a33d75f4897682e60c7c4935f2af20478b&v=4",
+    "location": "Armenia",
+    "company": "Web School Student & Self-Taught Designer",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 162,
+    "createdAt": "2026-05-28T17:27:12Z"
+  },
+  {
+    "login": "aliashrafi99",
+    "name": "Ali Ashrafi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288254650?s=72&u=e0aaaf634da1020826fc9661ec37a10e4be02d07&v=4",
+    "location": "Yerevan, Armenia",
+    "company": "@doxatech.ai",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2026-05-27T08:06:09Z"
+  },
+  {
+    "login": "barivanlab",
+    "name": "BarivanLab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290332778?s=72&v=4",
+    "location": "Armenia",
+    "company": "Barivan",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1740,
+    "createdAt": "2026-06-03T10:12:07Z"
+  },
+  {
+    "login": "a-najafi-it",
+    "name": "Ali Najafi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289479373?s=72&u=29d86819346176d675f8c5aad0f85d2e42f9f369&v=4",
+    "location": "Armenia",
+    "company": "Mediseh",
+    "twitterUsername": "ali_najafi_it",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-31T19:01:22Z"
+  },
+  {
+    "login": "Arubane-labs",
+    "name": "Arubane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289007760?s=72&u=d59a4885862154d3b4a0447fbc52c72561bc0cea&v=4",
+    "location": "Armenia, Yerevan",
+    "company": "Arubane",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-29T17:06:56Z"
   }
 ]
