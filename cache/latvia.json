@@ -7195,8 +7195,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 127,
-    "publicContributions": 76,
+    "privateContributions": 144,
+    "publicContributions": 292,
     "createdAt": "2021-01-23T01:24:57Z"
   },
   {
@@ -7206,9 +7206,9 @@
     "location": "Riga, Latvia",
     "company": "Corporate Solutions Group",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 16,
     "createdAt": "2021-02-04T21:29:57Z"
   },
   {
@@ -7219,7 +7219,7 @@
     "company": "Magebit",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2674,
+    "privateContributions": 2794,
     "publicContributions": 2,
     "createdAt": "2021-12-15T13:38:07Z"
   },
@@ -7231,8 +7231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 188,
-    "publicContributions": 14,
+    "privateContributions": 100,
+    "publicContributions": 2,
     "createdAt": "2021-03-15T13:32:27Z"
   },
   {
@@ -7243,8 +7243,8 @@
     "company": "Accenture Baltics",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 579,
-    "publicContributions": 5,
+    "privateContributions": 491,
+    "publicContributions": 12,
     "createdAt": "2021-02-01T19:28:28Z"
   },
   {
@@ -7291,7 +7291,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 136,
+    "privateContributions": 132,
     "publicContributions": 31,
     "createdAt": "2021-01-26T09:00:04Z"
   },
@@ -7303,8 +7303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 146,
-    "publicContributions": 28,
+    "privateContributions": 115,
+    "publicContributions": 30,
     "createdAt": "2021-05-29T09:37:39Z"
   },
   {
@@ -7326,7 +7326,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 127,
     "publicContributions": 1,
     "createdAt": "2021-03-03T12:06:08Z"
@@ -7351,7 +7351,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 253,
+    "privateContributions": 191,
     "publicContributions": 1,
     "createdAt": "2021-02-26T12:33:25Z"
   },
@@ -7375,8 +7375,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 10,
-    "publicContributions": 44,
+    "privateContributions": 12,
+    "publicContributions": 43,
     "createdAt": "2021-01-26T09:00:40Z"
   },
   {
@@ -7404,25 +7404,13 @@
     "createdAt": "2021-02-14T11:56:52Z"
   },
   {
-    "login": "borobaska",
-    "name": "Alladin737",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84783324?s=72&u=2c4c99a586b1a2d753d3fbae044905d3903a0a0b&v=4",
-    "location": "latvia",
-    "company": "sisyan",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 3,
-    "publicContributions": 4,
-    "createdAt": "2021-05-25T12:46:47Z"
-  },
-  {
     "login": "vaivodeieva",
     "name": "Ieva Vaivode",
     "avatarUrl": "https://avatars.githubusercontent.com/u/78384667?s=72&u=8bf4592d5750920eb961326e7fbc6202c4409ae8&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-01T21:00:43Z"

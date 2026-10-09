@@ -7628,7 +7628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 12,
     "createdAt": "2017-06-24T04:30:59Z"
   },
   {
@@ -7639,7 +7639,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1549,
+    "privateContributions": 1775,
     "publicContributions": 1,
     "createdAt": "2017-09-27T11:38:42Z"
   },
@@ -7688,7 +7688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 356,
+    "publicContributions": 325,
     "createdAt": "2017-02-15T07:15:20Z"
   },
   {
@@ -7702,18 +7702,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-05T16:13:41Z"
-  },
-  {
-    "login": "Hiberius",
-    "name": "Chris",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24841863?s=72&u=8e17a0fb46d3039acfa3d20414dd73aaca69a915&v=4",
-    "location": "Malta",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2016-12-30T12:47:32Z"
   },
   {
     "login": "birb97",
@@ -7735,7 +7723,7 @@
     "company": "NARC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 528,
+    "privateContributions": 502,
     "publicContributions": 1,
     "createdAt": "2017-05-01T14:13:03Z"
   },
@@ -7794,22 +7782,10 @@
     "location": "Sliema, Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 72,
+    "followers": 71,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2016-08-31T16:27:36Z"
-  },
-  {
-    "login": "Ethnical",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23560242?s=72&u=9ed72d81ef2ef3f0b627c89a24c0e86e9108ff75&v=4",
-    "location": "Malta",
-    "company": "@ethereum-optimism ",
-    "twitterUsername": "EthnicalInfo",
-    "followers": 49,
-    "privateContributions": 747,
-    "publicContributions": 136,
-    "createdAt": "2016-11-18T18:19:57Z"
   },
   {
     "login": "wickedpool",
@@ -7818,8 +7794,8 @@
     "location": "Malta",
     "company": "TheDeployer",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 7,
+    "followers": 38,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2016-06-11T17:19:49Z"
   },
@@ -7830,9 +7806,9 @@
     "location": "Malta",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
-    "privateContributions": 1702,
-    "publicContributions": 2,
+    "followers": 34,
+    "privateContributions": 2852,
+    "publicContributions": 3,
     "createdAt": "2016-03-09T18:49:52Z"
   },
   {
@@ -7843,8 +7819,8 @@
     "company": "@SimplyStaking ",
     "twitterUsername": "migueldingli",
     "followers": 31,
-    "privateContributions": 1593,
-    "publicContributions": 67,
+    "privateContributions": 1288,
+    "publicContributions": 65,
     "createdAt": "2016-11-20T14:14:23Z"
   },
   {

@@ -7578,9 +7578,9 @@
     "location": "Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 720,
+    "publicContributions": 473,
     "createdAt": "2023-12-05T11:38:34Z"
   },
   {
@@ -7592,7 +7592,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 20,
     "createdAt": "2023-02-24T17:57:45Z"
   },
   {
@@ -7604,7 +7604,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2023-11-04T06:22:15Z"
   },
   {
@@ -7614,9 +7614,9 @@
     "location": "Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 95,
     "createdAt": "2023-10-09T21:58:32Z"
   },
   {
@@ -7628,7 +7628,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 37,
     "createdAt": "2023-02-17T19:34:17Z"
   },
   {
@@ -7640,7 +7640,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2023-02-24T13:54:12Z"
   },
   {
@@ -7652,7 +7652,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 93,
     "createdAt": "2023-05-08T09:37:34Z"
   },
   {
@@ -7664,7 +7664,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 51,
     "createdAt": "2023-08-15T17:30:59Z"
   },
   {
@@ -7687,8 +7687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 79,
-    "publicContributions": 15,
+    "privateContributions": 153,
+    "publicContributions": 11,
     "createdAt": "2023-06-19T01:53:40Z"
   },
   {
@@ -7748,7 +7748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2023-07-29T13:12:49Z"
   },
   {
@@ -7758,7 +7758,7 @@
     "location": "Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 2,
     "publicContributions": 51,
     "createdAt": "2023-09-13T10:33:28Z"
@@ -7782,8 +7782,8 @@
     "location": "Damascus Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 735,
-    "privateContributions": 47,
+    "followers": 722,
+    "privateContributions": 46,
     "publicContributions": 15,
     "createdAt": "2022-09-18T07:10:50Z"
   },
@@ -7794,9 +7794,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 304,
+    "followers": 309,
     "privateContributions": 0,
-    "publicContributions": 291,
+    "publicContributions": 295,
     "createdAt": "2022-07-26T11:51:27Z"
   },
   {
@@ -7806,7 +7806,7 @@
     "location": "syria",
     "company": "Rako",
     "twitterUsername": "",
-    "followers": 293,
+    "followers": 303,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-21T11:08:05Z"
@@ -17770,5 +17770,17 @@
     "privateContributions": 0,
     "publicContributions": 82,
     "createdAt": "2026-05-31T12:11:49Z"
+  },
+  {
+    "login": "Mohammad-nour1",
+    "name": "Mohammad Nour Awad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178983008?s=72&u=e9fc7444c5850690a87a0251b16cc93a3974ccd9&v=4",
+    "location": "Damascus  , Syria",
+    "company": "Open to Remote Opportunities",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 93,
+    "createdAt": "2024-08-21T07:17:34Z"
   }
 ]

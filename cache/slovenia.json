@@ -7554,9 +7554,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1281,
+    "publicContributions": 1303,
     "createdAt": "2020-10-31T19:49:05Z"
   },
   {
@@ -7567,8 +7567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1739,
-    "publicContributions": 1,
+    "privateContributions": 2184,
+    "publicContributions": 3,
     "createdAt": "2020-08-05T21:06:18Z"
   },
   {
@@ -7584,18 +7584,6 @@
     "createdAt": "2020-07-09T07:35:12Z"
   },
   {
-    "login": "ThatKoalaGuy",
-    "name": "Domen Koder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74912929?s=72&u=d0baa7adf51b43f2109370b95547438f9765f013&v=4",
-    "location": "Tolmin, Slovenia",
-    "company": "Elektrotehniška in računalniška šola Nova Gorica",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 27,
-    "publicContributions": 238,
-    "createdAt": "2020-11-23T13:10:19Z"
-  },
-  {
     "login": "dstuden",
     "name": "David Studen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59510723?s=72&v=4",
@@ -7603,8 +7591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 12,
-    "publicContributions": 3,
+    "privateContributions": 20,
+    "publicContributions": 14,
     "createdAt": "2020-01-04T16:46:37Z"
   },
   {
@@ -7627,8 +7615,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 16,
+    "privateContributions": 2516,
+    "publicContributions": 214,
     "createdAt": "2020-12-18T21:52:19Z"
   },
   {
@@ -7640,7 +7628,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 133,
     "createdAt": "2020-04-11T17:25:32Z"
   },
   {
@@ -7663,8 +7651,8 @@
     "company": "DevRev",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 562,
-    "publicContributions": 328,
+    "privateContributions": 789,
+    "publicContributions": 81,
     "createdAt": "2020-10-21T05:14:01Z"
   },
   {
@@ -7675,8 +7663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 63,
-    "publicContributions": 31,
+    "privateContributions": 66,
+    "publicContributions": 32,
     "createdAt": "2020-07-01T18:21:15Z"
   },
   {
@@ -7688,7 +7676,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2020-05-31T18:22:48Z"
   },
   {
@@ -7711,8 +7699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 43,
-    "publicContributions": 195,
+    "privateContributions": 94,
+    "publicContributions": 165,
     "createdAt": "2020-08-25T14:33:43Z"
   },
   {
@@ -7724,7 +7712,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 33,
     "createdAt": "2020-04-29T16:59:11Z"
   },
   {
@@ -7734,9 +7722,9 @@
     "location": "Slovenia",
     "company": "@extra-dev-org",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-02-27T10:15:47Z"
   },
   {
@@ -7747,7 +7735,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2010,
+    "privateContributions": 1862,
     "publicContributions": 1,
     "createdAt": "2020-10-19T16:35:35Z"
   },
@@ -7759,8 +7747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1913,
-    "publicContributions": 177,
+    "privateContributions": 2152,
+    "publicContributions": 188,
     "createdAt": "2020-04-30T11:43:26Z"
   },
   {
@@ -7783,7 +7771,7 @@
     "company": "",
     "twitterUsername": "jakepel03",
     "followers": 7,
-    "privateContributions": 246,
+    "privateContributions": 218,
     "publicContributions": 83,
     "createdAt": "2020-08-07T00:38:08Z"
   },
@@ -37318,5 +37306,17 @@
     "privateContributions": 237,
     "publicContributions": 1,
     "createdAt": "2026-05-27T15:40:52Z"
+  },
+  {
+    "login": "budlibu500",
+    "name": "Bud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147246008?s=72&u=e6e6583215ab9cf9c9b776dea4cda30d8da4925d&v=4",
+    "location": "Slovenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 226,
+    "publicContributions": 267,
+    "createdAt": "2023-10-07T10:25:02Z"
   }
 ]

@@ -7520,7 +7520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 17,
     "createdAt": "2025-06-24T10:31:08Z"
   },
   {
@@ -7542,9 +7542,9 @@
     "location": "Lisbon - Portugal",
     "company": "@devgymbr",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 90,
     "createdAt": "2025-11-21T11:59:37Z"
   },
   {
@@ -7556,7 +7556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2025-09-18T07:13:55Z"
   },
   {
@@ -7567,8 +7567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
+    "privateContributions": 7,
+    "publicContributions": 131,
     "createdAt": "2025-09-19T18:41:30Z"
   },
   {
@@ -7591,8 +7591,8 @@
     "company": "@BI4ALL ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 58,
+    "privateContributions": 14,
+    "publicContributions": 76,
     "createdAt": "2025-12-03T11:17:12Z"
   },
   {
@@ -7602,9 +7602,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-05-16T17:36:09Z"
   },
   {
@@ -7622,25 +7622,25 @@
   {
     "login": "Almafenix",
     "name": "Alma Fénix - Community for Inclusion and Social Innovation",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209721665?s=72&u=6b7d008b9c2cba61bffcea53bf2123a7ed1add45&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209721665?s=72&u=a4393a568c441865afe836c6cc6720c8dc436db1&v=4",
     "location": "📍 Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 21,
     "createdAt": "2025-04-30T01:41:33Z"
   },
   {
     "login": "abdalajoao",
     "name": "João Isac",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196257782?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196257782?s=72&u=8c112ed9896e7acc192f6486a1b6c7ebfbf5eaf2&v=4",
     "location": "Lisboa, Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 99,
     "createdAt": "2025-01-23T22:51:32Z"
   },
   {
@@ -7652,7 +7652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2025-05-19T15:09:55Z"
   },
   {
@@ -7663,7 +7663,7 @@
     "company": "@novalogica",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3956,
+    "privateContributions": 4461,
     "publicContributions": 4,
     "createdAt": "2025-02-10T11:36:16Z"
   },
@@ -7676,7 +7676,7 @@
     "twitterUsername": "becas_dev",
     "followers": 1,
     "privateContributions": 7,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-09-01T22:51:11Z"
   },
   {
@@ -7688,7 +7688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-15T21:03:34Z"
   },
   {
@@ -7700,7 +7700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 44,
     "createdAt": "2025-08-24T16:34:17Z"
   },
   {
@@ -7712,7 +7712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-06T09:26:56Z"
   },
   {
@@ -7724,20 +7724,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 58,
     "createdAt": "2025-05-28T20:05:49Z"
-  },
-  {
-    "login": "aemwhozz",
-    "name": "António Martins",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197394219?s=72&u=0eae3a916c66dccc415f7e57eea91df83fd69cce&v=4",
-    "location": "Portugal",
-    "company": "IsIn Health",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2025-02-01T14:18:34Z"
   },
   {
     "login": "samarog",

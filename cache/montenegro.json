@@ -7519,8 +7519,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 984,
-    "publicContributions": 61,
+    "privateContributions": 944,
+    "publicContributions": 50,
     "createdAt": "2015-01-28T17:43:02Z"
   },
   {
@@ -7532,7 +7532,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 572,
+    "publicContributions": 654,
     "createdAt": "2015-04-04T11:58:35Z"
   },
   {
@@ -7542,7 +7542,7 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-06-26T08:51:06Z"
@@ -7554,9 +7554,9 @@
     "location": "Podgorica, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 161,
     "createdAt": "2015-11-02T14:40:44Z"
   },
   {
@@ -7570,18 +7570,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-25T17:44:55Z"
-  },
-  {
-    "login": "illujo",
-    "name": "Luka Maras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11063530?s=72&u=0535efd1b8684a367ade11ae41838225d655a903&v=4",
-    "location": "Podgorica, Montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 11,
-    "publicContributions": 0,
-    "createdAt": "2015-02-18T17:35:04Z"
   },
   {
     "login": "reHgoc",
@@ -7604,20 +7592,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 12,
     "createdAt": "2015-12-02T14:28:25Z"
-  },
-  {
-    "login": "khv2online",
-    "name": "Vladimir Fedorov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10813524?s=72&u=982f3349dc88cf63a6c337f7653b68c28096fefa&v=4",
-    "location": "Montenegro",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 21,
-    "publicContributions": 0,
-    "createdAt": "2015-02-02T15:50:43Z"
   },
   {
     "login": "abushyk",
@@ -7646,7 +7622,7 @@
   {
     "login": "kaansenol",
     "name": "Kaan Senol",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10349551?s=72&u=b68228efd53f05ba8e098ba386a23095ef98dbbe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10349551?s=72&u=96fcccf4ad4b81886f5ab7a1a155a5c82f1bfa70&v=4",
     "location": "Montenegro - Podgorica",
     "company": "Chief of Happiness",
     "twitterUsername": "",
@@ -7662,7 +7638,7 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-06-22T22:19:39Z"
@@ -7724,7 +7700,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 22,
     "createdAt": "2015-06-12T11:58:57Z"
   },
   {
@@ -7735,7 +7711,7 @@
     "company": "Codepixel",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 705,
+    "privateContributions": 1156,
     "publicContributions": 0,
     "createdAt": "2015-08-17T23:49:59Z"
   },

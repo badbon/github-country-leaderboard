@@ -7676,7 +7676,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 8,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2020-10-19T14:50:20Z"
   },
   {
@@ -7699,7 +7699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 105,
+    "privateContributions": 51,
     "publicContributions": 55,
     "createdAt": "2020-05-29T07:12:49Z"
   },
@@ -7735,20 +7735,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 41,
+    "privateContributions": 0,
+    "publicContributions": 129,
     "createdAt": "2020-05-07T15:50:39Z"
   },
   {
     "login": "jamescito",
     "name": "James Reyes Calderón",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67704896?s=72&u=d3767a9d6ba6e9cb8e81f71c5e0494d68410bf6d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/67704896?s=72&u=b942145b4c566f0ad546d16b4b5a804aa795d2a2&v=4",
     "location": "Nicaragua",
     "company": "Dental Robot",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 12,
-    "publicContributions": 54,
+    "publicContributions": 32,
     "createdAt": "2020-07-01T16:57:28Z"
   },
   {
@@ -7760,7 +7760,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2020-07-08T18:22:56Z"
   },
   {
@@ -7795,7 +7795,7 @@
     "company": "MundoDev",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 58,
+    "privateContributions": 57,
     "publicContributions": 26,
     "createdAt": "2020-02-23T00:45:47Z"
   },
@@ -7806,9 +7806,9 @@
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 114,
-    "publicContributions": 71,
+    "followers": 5,
+    "privateContributions": 112,
+    "publicContributions": 38,
     "createdAt": "2020-02-18T18:16:49Z"
   },
   {
@@ -7819,7 +7819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 286,
+    "privateContributions": 243,
     "publicContributions": 19,
     "createdAt": "2020-10-25T00:37:50Z"
   },

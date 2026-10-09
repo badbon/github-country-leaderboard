@@ -7460,7 +7460,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 51,
     "createdAt": "2022-08-23T22:32:03Z"
   },
   {
@@ -7503,11 +7503,11 @@
     "login": "andrewbph",
     "name": "Andrew Belopuhov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/101257104?s=72&u=72298e7881086a7a9840163c59d3f52bdcd5f309&v=4",
-    "location": "lithuania",
+    "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 79,
+    "privateContributions": 125,
     "publicContributions": 0,
     "createdAt": "2022-03-09T10:52:11Z"
   },
@@ -7532,7 +7532,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 595,
     "createdAt": "2022-11-23T00:16:50Z"
   },
   {
@@ -7592,7 +7592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 23,
     "createdAt": "2022-10-29T10:00:01Z"
   },
   {
@@ -7604,7 +7604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 94,
     "createdAt": "2022-03-03T10:42:17Z"
   },
   {
@@ -7644,27 +7644,15 @@
     "createdAt": "2022-03-14T06:36:06Z"
   },
   {
-    "login": "EglZil",
-    "name": "Eglė Žilėnaitė",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109547158?s=72&u=a804aa3b2ddda2f714db4cc6980878ebf559a7c8&v=4",
-    "location": "Vilnius, Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-18T17:55:43Z"
-  },
-  {
     "login": "TechieJess",
     "name": "Jessica Nori ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/118685298?s=72&u=85a1e1f3d459f3760e5b7e90cec59737f309e859&v=4",
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "techie_jess",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2022-11-20T18:02:29Z"
   },
   {

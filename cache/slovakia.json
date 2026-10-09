@@ -7492,24 +7492,12 @@
     "name": "Vlad Klymenko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/120576528?s=72&u=0446fd07e82a326d1092ddcde5dc62166bfa8136&v=4",
     "location": "Slovakia",
-    "company": "Lumitech",
+    "company": "Simplicity",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 760,
-    "publicContributions": 603,
+    "privateContributions": 1887,
+    "publicContributions": 604,
     "createdAt": "2022-12-14T13:58:05Z"
-  },
-  {
-    "login": "Patrixxk",
-    "name": "Patrixxk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105343648?s=72&u=21a7a1389d64cc46fe99251b71bdf38ed940d0d5&v=4",
-    "location": "Lučenec, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 151,
-    "publicContributions": 1,
-    "createdAt": "2022-05-11T07:00:07Z"
   },
   {
     "login": "sercansimsek",
@@ -7519,8 +7507,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 189,
-    "publicContributions": 574,
+    "privateContributions": 192,
+    "publicContributions": 593,
     "createdAt": "2022-10-16T10:52:16Z"
   },
   {
@@ -7538,13 +7526,13 @@
   {
     "login": "v31ndev",
     "name": "v31n",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96980897?s=72&u=5eded26cd1ed22e4d97731d16e7380a941d61ed8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/96980897?s=72&u=4f111b55dc0fb81f7e56457d7c51c32d885edb83&v=4",
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 16,
+    "followers": 5,
+    "privateContributions": 23,
+    "publicContributions": 27,
     "createdAt": "2022-01-02T12:20:19Z"
   },
   {
@@ -7556,14 +7544,14 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 254,
+    "publicContributions": 307,
     "createdAt": "2022-03-21T15:35:32Z"
   },
   {
     "login": "00AyanamiRei",
     "name": "Maksym Kozlov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/118828568?s=72&u=747cf51dafb5ca045520196728edd386c9e167ae&v=4",
-    "location": "Kosice, Slovakia",
+    "location": "Bratislava, Slovakia",
     "company": "TUKE, PGFK UZHNU",
     "twitterUsername": "",
     "followers": 2,
@@ -7578,21 +7566,21 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 93,
+    "followers": 3,
+    "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-08-19T08:53:47Z"
   },
   {
     "login": "ivanstavytskyi",
     "name": "Ivan Stavytskyi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116497228?s=72&u=6112f7adb24be8c0dc0817569348167764dfa084&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/116497228?s=72&u=597258d00059eb04a3b968adcc5bb859f9f85dbd&v=4",
     "location": "Slovakia",
-    "company": "Tuke",
+    "company": "Technical University of Kosice",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 181,
     "createdAt": "2022-10-23T12:57:04Z"
   },
   {
@@ -7600,11 +7588,11 @@
     "name": "Lukas Cagarda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102877740?s=72&u=55e3a2da653e704048ea4cff83fb962ee63848a1&v=4",
     "location": "Slovakia",
-    "company": "@devopsgroupeu",
+    "company": "cagops",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 237,
+    "publicContributions": 231,
     "createdAt": "2022-04-02T19:30:27Z"
   },
   {
@@ -7662,9 +7650,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 182,
     "createdAt": "2022-02-01T15:26:52Z"
   },
   {
@@ -7710,7 +7698,7 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-22T13:10:38Z"

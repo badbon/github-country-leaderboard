@@ -60906,7 +60906,7 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-06-09T07:24:33Z"
@@ -60918,7 +60918,7 @@
     "location": "Azerbaijan, Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 63,
     "createdAt": "2026-06-17T10:18:49Z"
@@ -61076,7 +61076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 79,
     "createdAt": "2026-05-20T10:03:32Z"
   },
   {
@@ -61102,5 +61102,29 @@
     "privateContributions": 0,
     "publicContributions": 103,
     "createdAt": "2022-04-21T15:33:03Z"
+  },
+  {
+    "login": "SeljanKarimli",
+    "name": "Seljan Karimli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286542570?s=72&v=4",
+    "location": "Baku",
+    "company": "Kontakt Home",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 57,
+    "createdAt": "2026-05-21T04:08:15Z"
+  },
+  {
+    "login": "HuseynMirzaliyev",
+    "name": "Huseyn Mirzaliyev ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285986988?s=72&u=c95d9f5577787965fe970db563c61810f0f5c651&v=4",
+    "location": "Baku",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-05-19T11:19:07Z"
   }
 ]

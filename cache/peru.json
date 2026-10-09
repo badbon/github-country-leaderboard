@@ -7412,7 +7412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 324,
+    "publicContributions": 276,
     "createdAt": "2024-07-21T21:26:15Z"
   },
   {
@@ -7423,7 +7423,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 301,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2024-07-10T22:26:35Z"
   },
@@ -7436,7 +7436,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 443,
+    "publicContributions": 463,
     "createdAt": "2024-04-24T18:20:34Z"
   },
   {
@@ -7446,8 +7446,8 @@
     "location": "Peru",
     "company": "SENATI",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 40,
+    "followers": 2,
+    "privateContributions": 37,
     "publicContributions": 37,
     "createdAt": "2024-12-12T03:28:13Z"
   },
@@ -7460,7 +7460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-08-25T02:09:27Z"
   },
   {
@@ -7472,20 +7472,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 362,
+    "publicContributions": 344,
     "createdAt": "2024-04-24T15:40:38Z"
-  },
-  {
-    "login": "juanpbc8",
-    "name": "jpablo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156481972?s=72&u=cb6ef62fd868dab9916aecb0bbcba4c4e7637d51&v=4",
-    "location": "Lima, Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 69,
-    "publicContributions": 331,
-    "createdAt": "2024-01-12T23:04:28Z"
   },
   {
     "login": "JoaquinQFox",
@@ -7496,7 +7484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 284,
+    "publicContributions": 290,
     "createdAt": "2024-10-29T23:44:30Z"
   },
   {
@@ -7552,11 +7540,11 @@
     "name": "Stephano Portella",
     "avatarUrl": "https://avatars.githubusercontent.com/u/180076242?s=72&u=a08d8edc6eed043e1c6a56dc2502ec2e5af97ec1&v=4",
     "location": "Lima / Peru",
-    "company": "",
+    "company": "8+Core",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 22,
     "createdAt": "2024-09-01T07:32:22Z"
   },
   {
@@ -7566,7 +7554,7 @@
     "location": "Callao, Lima - Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 114,
     "createdAt": "2024-05-25T22:22:33Z"
@@ -7592,7 +7580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 9,
     "createdAt": "2024-03-20T16:28:43Z"
   },
   {
@@ -7602,9 +7590,9 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 91,
+    "followers": 2,
+    "privateContributions": 65,
+    "publicContributions": 138,
     "createdAt": "2024-05-23T15:02:59Z"
   },
   {
@@ -95662,18 +95650,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-08-26T22:24:34Z"
-  },
-  {
-    "login": "vsilaire",
-    "name": "vsilaire",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/13857671?s=72&u=e3ef58b7f039f0d199bae1b4e5ec80a48fe75f49&v=4",
-    "location": "Lima, Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-08-18T19:53:20Z"
   },
   {
     "login": "miyakedev",

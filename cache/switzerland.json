@@ -7488,27 +7488,15 @@
     "createdAt": "2024-08-12T10:43:45Z"
   },
   {
-    "login": "zoltex999",
-    "name": "Zoltex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192868963?s=72&u=2531a3aa30ef349735b270974254aa66da53749f&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 124,
-    "createdAt": "2024-12-26T09:25:28Z"
-  },
-  {
     "login": "Sinan53x",
     "name": "Sinan Turna",
     "avatarUrl": "https://avatars.githubusercontent.com/u/189102964?s=72&u=49e56efb6f7e9702d831b13562840d339a5b0388&v=4",
     "location": "Zürich, Switzerland",
-    "company": "Faigle AG",
+    "company": "Epic Fusion AG",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 53,
     "createdAt": "2024-11-20T09:45:16Z"
   },
   {
@@ -7519,8 +7507,8 @@
     "company": "Department of Informatics, University of Zurich",
     "twitterUsername": "informfully",
     "followers": 6,
-    "privateContributions": 152,
-    "publicContributions": 524,
+    "privateContributions": 170,
+    "publicContributions": 413,
     "createdAt": "2024-05-21T10:46:06Z"
   },
   {
@@ -7530,7 +7518,7 @@
     "location": "Lugano, Switzerland",
     "company": "SUPSI",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-04-25T12:59:28Z"
@@ -7543,8 +7531,8 @@
     "company": "DV Bern AG",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 79,
-    "publicContributions": 116,
+    "privateContributions": 195,
+    "publicContributions": 0,
     "createdAt": "2024-10-17T08:28:18Z"
   },
   {
@@ -7566,22 +7554,10 @@
     "location": "Zurich, Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 45,
-    "publicContributions": 187,
+    "publicContributions": 192,
     "createdAt": "2024-04-12T10:35:15Z"
-  },
-  {
-    "login": "fakeck",
-    "name": "Farian Keck",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168666762?s=72&v=4",
-    "location": "Zurich, Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 304,
-    "publicContributions": 105,
-    "createdAt": "2024-05-01T16:57:40Z"
   },
   {
     "login": "ahmojo",
@@ -7590,9 +7566,9 @@
     "location": "Aargau, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 490,
-    "publicContributions": 260,
+    "followers": 7,
+    "privateContributions": 1114,
+    "publicContributions": 316,
     "createdAt": "2024-08-16T11:23:47Z"
   },
   {
@@ -7604,32 +7580,20 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 93,
     "createdAt": "2024-05-29T08:07:37Z"
   },
   {
     "login": "barebones-sh",
-    "name": "Huge",
+    "name": "Bones",
     "avatarUrl": "https://avatars.githubusercontent.com/u/181419990?s=72&u=da150fece898c624da9b0c5b888842e345257a5c&v=4",
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 74,
-    "publicContributions": 74,
+    "privateContributions": 90,
+    "publicContributions": 142,
     "createdAt": "2024-09-12T22:22:43Z"
-  },
-  {
-    "login": "carcanne",
-    "name": "carcanne",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178142093?s=72&u=0ea1785a6e248882cf83bd494ed0041212350f40&v=4",
-    "location": "Switzerland",
-    "company": "Schindler Berufsbildung",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 186,
-    "publicContributions": 119,
-    "createdAt": "2024-08-12T07:24:32Z"
   },
   {
     "login": "Firegri",
@@ -7650,9 +7614,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2024-06-19T16:35:34Z"
   },
   {
@@ -7663,7 +7627,7 @@
     "company": "Ypsomed AG",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 48,
+    "privateContributions": 167,
     "publicContributions": 51,
     "createdAt": "2024-01-13T07:23:53Z"
   },
@@ -7686,9 +7650,9 @@
     "location": "Switzerland",
     "company": "IMS-T ",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 173,
     "createdAt": "2024-06-11T09:46:56Z"
   },
   {
@@ -7698,9 +7662,9 @@
     "location": "Vaud, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 20,
-    "publicContributions": 800,
+    "followers": 5,
+    "privateContributions": 19,
+    "publicContributions": 776,
     "createdAt": "2024-03-30T15:04:07Z"
   },
   {
