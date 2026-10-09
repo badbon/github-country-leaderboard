@@ -6295,7 +6295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 62,
+    "privateContributions": 47,
     "publicContributions": 32,
     "createdAt": "2022-07-11T10:50:59Z"
   },
@@ -6307,8 +6307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 20,
-    "publicContributions": 146,
+    "privateContributions": 67,
+    "publicContributions": 135,
     "createdAt": "2022-05-14T17:29:47Z"
   },
   {
@@ -6319,21 +6319,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 274,
+    "privateContributions": 217,
     "publicContributions": 0,
     "createdAt": "2022-03-07T16:19:21Z"
-  },
-  {
-    "login": "XRIST0PH0R0S",
-    "name": "Christophoros",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112942415?s=72&u=8c0d658acf626185bf2cf57eceb6efb55b52845b&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 21,
-    "publicContributions": 43,
-    "createdAt": "2022-09-06T10:11:44Z"
   },
   {
     "login": "gd0minykas",
@@ -6342,7 +6330,7 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2022-01-23T21:33:19Z"
@@ -6379,7 +6367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 126,
+    "privateContributions": 507,
     "publicContributions": 0,
     "createdAt": "2022-10-15T12:58:34Z"
   },
@@ -6391,7 +6379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 40,
+    "privateContributions": 66,
     "publicContributions": 13,
     "createdAt": "2022-02-20T15:47:37Z"
   },
@@ -6414,8 +6402,8 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 249,
+    "followers": 4,
+    "privateContributions": 198,
     "publicContributions": 1,
     "createdAt": "2022-04-05T08:17:46Z"
   },
@@ -6440,7 +6428,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 78,
-    "publicContributions": 47,
+    "publicContributions": 37,
     "createdAt": "2022-10-09T18:20:00Z"
   },
   {
@@ -6464,7 +6452,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-11-08T17:43:07Z"
   },
   {
@@ -6476,7 +6464,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 79,
     "createdAt": "2022-11-29T21:35:14Z"
   },
   {
@@ -6498,9 +6486,9 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2022-11-11T18:55:27Z"
   },
   {

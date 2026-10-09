@@ -6103,8 +6103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 54,
-    "publicContributions": 5,
+    "privateContributions": 53,
+    "publicContributions": 3,
     "createdAt": "2017-09-06T21:49:37Z"
   },
   {
@@ -6128,7 +6128,7 @@
     "twitterUsername": "arungapatchka",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2017-08-07T13:29:52Z"
   },
   {
@@ -6140,7 +6140,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-08-19T16:40:13Z"
   },
   {
@@ -6163,7 +6163,7 @@
     "company": "@hifyreinc ",
     "twitterUsername": "rozv",
     "followers": 3,
-    "privateContributions": 174,
+    "privateContributions": 163,
     "publicContributions": 0,
     "createdAt": "2017-02-28T18:55:14Z"
   },
@@ -6187,8 +6187,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 155,
-    "publicContributions": 120,
+    "privateContributions": 136,
+    "publicContributions": 167,
     "createdAt": "2017-01-20T01:52:52Z"
   },
   {
@@ -6199,7 +6199,7 @@
     "company": "Worksite Safety Compliance Center",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2126,
+    "privateContributions": 2106,
     "publicContributions": 11,
     "createdAt": "2017-01-11T16:30:52Z"
   },
@@ -6270,9 +6270,9 @@
     "location": "Hamilton, Ontario. CA.",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 66,
-    "publicContributions": 14,
+    "publicContributions": 131,
     "createdAt": "2017-09-03T22:11:33Z"
   },
   {
@@ -6298,18 +6298,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-31T01:29:51Z"
-  },
-  {
-    "login": "payitforwardnow",
-    "name": "David",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30054747?s=72&u=66984d03992eab82bfdbaba2d5045a60b1b5f495&v=4",
-    "location": "Currently in Hamilton VA USA",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1057,
-    "publicContributions": 21,
-    "createdAt": "2017-07-10T18:02:23Z"
   },
   {
     "login": "aedillo15",

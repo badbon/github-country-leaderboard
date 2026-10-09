@@ -6163,8 +6163,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1313,
-    "publicContributions": 28,
+    "privateContributions": 1340,
+    "publicContributions": 25,
     "createdAt": "2022-06-24T15:35:03Z"
   },
   {
@@ -6176,7 +6176,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 1,
     "createdAt": "2022-03-15T16:19:05Z"
   },
   {
@@ -6223,7 +6223,7 @@
     "company": "@sentrywave",
     "twitterUsername": "chinyavadav",
     "followers": 1,
-    "privateContributions": 449,
+    "privateContributions": 450,
     "publicContributions": 12,
     "createdAt": "2022-08-26T08:32:46Z"
   },
@@ -6247,8 +6247,8 @@
     "company": "",
     "twitterUsername": "nigel_mash07",
     "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 99,
+    "privateContributions": 106,
+    "publicContributions": 106,
     "createdAt": "2022-08-06T11:48:42Z"
   },
   {
@@ -6300,18 +6300,6 @@
     "createdAt": "2022-08-11T06:48:19Z"
   },
   {
-    "login": "nqabasikeyi",
-    "name": "Nqaba Sikeyi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100336686?s=72&u=f87b3e7a9ddfb4203b72741f82b8bd0ce5e878e3&v=4",
-    "location": "Zimbabwe (ZW)",
-    "company": "",
-    "twitterUsername": "nqaba_sikeyi",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 102,
-    "createdAt": "2022-02-24T05:52:22Z"
-  },
-  {
     "login": "Takudzwatichivangani",
     "name": "Takudzwa Tichivangani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/104877733?s=72&u=6e8d891df1a7bd9fddbf7ad590932a58dec0790f&v=4",
@@ -6320,7 +6308,7 @@
     "twitterUsername": "TichieTakudzwa",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 41,
     "createdAt": "2022-05-04T01:54:58Z"
   },
   {

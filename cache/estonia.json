@@ -6361,14 +6361,14 @@
   },
   {
     "login": "M1tras",
-    "name": "",
+    "name": "A.Kiuru",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108801657?s=72&u=27be17f306c80b4d7fa8258f0bfbf41dddab6336&v=4",
     "location": "Estonia, Tartu",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 38,
-    "publicContributions": 110,
+    "privateContributions": 42,
+    "publicContributions": 126,
     "createdAt": "2022-07-06T10:39:39Z"
   },
   {
@@ -6379,8 +6379,8 @@
     "company": "@Haapsaly-Bassline ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 38,
-    "publicContributions": 231,
+    "privateContributions": 98,
+    "publicContributions": 288,
     "createdAt": "2022-09-18T07:55:05Z"
   },
   {
@@ -6391,7 +6391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 328,
+    "privateContributions": 360,
     "publicContributions": 0,
     "createdAt": "2022-07-05T12:11:59Z"
   },
@@ -6452,7 +6452,7 @@
     "twitterUsername": "nodtecheu",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-04-08T19:26:06Z"
   },
   {
@@ -6476,7 +6476,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2022-05-12T07:51:35Z"
   },
   {
@@ -6498,9 +6498,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 597,
-    "publicContributions": 193,
+    "followers": 4,
+    "privateContributions": 681,
+    "publicContributions": 220,
     "createdAt": "2022-07-25T14:03:10Z"
   },
   {
@@ -6522,9 +6522,9 @@
     "location": "Tallinn, Estonia",
     "company": "SingularityNET",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 191,
+    "followers": 4,
+    "privateContributions": 1834,
+    "publicContributions": 207,
     "createdAt": "2022-02-04T08:41:56Z"
   },
   {
@@ -6535,7 +6535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 57,
+    "privateContributions": 56,
     "publicContributions": 12,
     "createdAt": "2022-03-23T22:39:26Z"
   },
@@ -6546,9 +6546,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2022-11-24T10:02:36Z"
   },
   {
@@ -6559,8 +6559,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 154,
-    "publicContributions": 15,
+    "privateContributions": 149,
+    "publicContributions": 0,
     "createdAt": "2022-08-23T15:44:57Z"
   },
   {
@@ -6582,7 +6582,7 @@
     "location": "Tallinn, Estonia",
     "company": "https://bolt.eu/en-ee/",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-10-01T15:30:54Z"
@@ -59110,5 +59110,17 @@
     "privateContributions": 1610,
     "publicContributions": 353,
     "createdAt": "2026-05-15T08:50:04Z"
+  },
+  {
+    "login": "luigidematteis",
+    "name": "Luigi De Matteis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110017444?s=72&u=6aa533c12cf75f966717a5bc23ef0253b65faad1&v=4",
+    "location": "Estonia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 24,
+    "privateContributions": 4408,
+    "publicContributions": 157,
+    "createdAt": "2022-07-26T07:07:17Z"
   }
 ]

@@ -6380,7 +6380,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 391,
+    "publicContributions": 367,
     "createdAt": "2023-01-13T01:54:17Z"
   },
   {
@@ -6390,7 +6390,7 @@
     "location": "Yaoundé,Cameroun",
     "company": "sanangdarel17@gmail.com",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 106,
     "createdAt": "2023-01-17T08:03:46Z"
@@ -6404,20 +6404,8 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 52,
     "createdAt": "2023-09-14T15:28:30Z"
-  },
-  {
-    "login": "Delmat237",
-    "name": "Delmat Leonel AZANGUE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142000059?s=72&u=18b6f453898a0903d0c4cc43e77cc3ff0d0808ad&v=4",
-    "location": "Yaoundé,cameroun",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 271,
-    "publicContributions": 1064,
-    "createdAt": "2023-08-11T07:54:55Z"
   },
   {
     "login": "Louis2109",
@@ -6426,9 +6414,9 @@
     "location": "Yaoundé ",
     "company": "University of Yaound 1",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 109,
     "createdAt": "2023-05-31T20:08:09Z"
   },
   {
@@ -6439,8 +6427,8 @@
     "company": "",
     "twitterUsername": "FredMike_it",
     "followers": 4,
-    "privateContributions": 231,
-    "publicContributions": 724,
+    "privateContributions": 199,
+    "publicContributions": 728,
     "createdAt": "2023-11-17T11:58:58Z"
   },
   {
@@ -6451,8 +6439,8 @@
     "company": "stan.co",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 763,
-    "publicContributions": 68,
+    "privateContributions": 844,
+    "publicContributions": 59,
     "createdAt": "2023-10-09T07:55:18Z"
   },
   {
@@ -6464,7 +6452,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 76,
     "createdAt": "2023-11-01T00:42:49Z"
   },
   {
@@ -6476,7 +6464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 19,
     "createdAt": "2023-11-21T21:10:05Z"
   },
   {
@@ -6497,10 +6485,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/147919300?s=72&u=f66ac655ac3ad8d92bddc3f9718b7f9691219707&v=4",
     "location": "Yaoundé, Cameroun",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "albertk_dev",
     "followers": 1,
-    "privateContributions": 692,
-    "publicContributions": 1,
+    "privateContributions": 831,
+    "publicContributions": 20,
     "createdAt": "2023-10-14T10:56:42Z"
   },
   {
@@ -6512,7 +6500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2023-05-04T15:42:39Z"
   },
   {
@@ -6558,9 +6546,9 @@
     "location": "cameroon",
     "company": "@adorsys",
     "twitterUsername": "",
-    "followers": 495,
-    "privateContributions": 286,
-    "publicContributions": 1373,
+    "followers": 506,
+    "privateContributions": 379,
+    "publicContributions": 1621,
     "createdAt": "2022-08-18T18:22:29Z"
   },
   {
@@ -6570,9 +6558,9 @@
     "location": "Yaoundé Cameroon",
     "company": "DigiMark Consulting & Revive",
     "twitterUsername": "kanjo_elkamira",
-    "followers": 138,
+    "followers": 141,
     "privateContributions": 47,
-    "publicContributions": 1685,
+    "publicContributions": 1715,
     "createdAt": "2022-01-15T00:12:28Z"
   },
   {
@@ -6582,9 +6570,9 @@
     "location": "Yaounde, Cameroon",
     "company": "ETS.NTECH",
     "twitterUsername": "",
-    "followers": 130,
+    "followers": 126,
     "privateContributions": 0,
-    "publicContributions": 449,
+    "publicContributions": 202,
     "createdAt": "2022-03-16T21:58:37Z"
   },
   {
@@ -6594,9 +6582,9 @@
     "location": "Cameroon",
     "company": "WebByte Agency",
     "twitterUsername": "onana_vital",
-    "followers": 74,
+    "followers": 63,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 64,
     "createdAt": "2022-03-22T14:45:37Z"
   },
   {
@@ -6606,7 +6594,7 @@
     "location": "Douala, Cameroon",
     "company": "Micoverse",
     "twitterUsername": "noelnomgne",
-    "followers": 55,
+    "followers": 56,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-22T12:09:00Z"

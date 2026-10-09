@@ -6307,8 +6307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 9,
-    "publicContributions": 139,
+    "privateContributions": 13,
+    "publicContributions": 94,
     "createdAt": "2024-01-19T18:15:55Z"
   },
   {
@@ -6322,18 +6322,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-09-18T14:14:31Z"
-  },
-  {
-    "login": "TurboT00",
-    "name": "Thomas Sørensen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157429501?s=72&v=4",
-    "location": "Denmark",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-01-22T22:57:30Z"
   },
   {
     "login": "NickChisinau",
@@ -6354,9 +6342,9 @@
     "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 200,
     "createdAt": "2024-02-06T22:34:53Z"
   },
   {
@@ -6379,8 +6367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 420,
-    "publicContributions": 285,
+    "privateContributions": 0,
+    "publicContributions": 286,
     "createdAt": "2024-10-25T09:36:43Z"
   },
   {
@@ -6390,9 +6378,9 @@
     "location": "Denmark",
     "company": "Milestone Systems",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 561,
-    "publicContributions": 38,
+    "followers": 1,
+    "privateContributions": 473,
+    "publicContributions": 37,
     "createdAt": "2024-11-28T08:15:45Z"
   },
   {
@@ -6410,13 +6398,13 @@
   {
     "login": "sorenbcoding",
     "name": "SorenB",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160352728?s=72&u=878423691f83886c380f5a52e338799b1eb939c7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160352728?s=72&u=e06d3912edf861d2e43be9e55ab4e2390d6511c7&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 41,
     "createdAt": "2024-02-17T18:47:37Z"
   },
   {
@@ -6428,7 +6416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-02-09T10:47:54Z"
   },
   {
@@ -6440,7 +6428,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 22,
     "createdAt": "2024-10-08T21:56:32Z"
   },
   {
@@ -6452,7 +6440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 11,
     "createdAt": "2024-05-06T11:59:34Z"
   },
   {
@@ -6488,19 +6476,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 70,
     "createdAt": "2024-01-12T18:19:16Z"
   },
   {
     "login": "KJSDR",
     "name": "Killian",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180586736?s=72&u=3c4084a570a4da7ea55cd0b86eff0b44581448e8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180586736?s=72&u=4ce542c0ba13771f56c6ce8ab23db264bda2ff5e&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 29,
-    "publicContributions": 71,
+    "publicContributions": 53,
     "createdAt": "2024-09-05T20:08:42Z"
   },
   {
@@ -6512,7 +6500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 13,
     "createdAt": "2024-02-15T09:03:26Z"
   },
   {
@@ -6536,7 +6524,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-05-15T11:52:24Z"
   },
   {

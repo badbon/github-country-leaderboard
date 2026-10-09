@@ -6200,7 +6200,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 16,
     "createdAt": "2024-07-30T03:23:18Z"
   },
   {
@@ -6211,8 +6211,8 @@
     "company": "Zense AI",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2297,
-    "publicContributions": 7,
+    "privateContributions": 2617,
+    "publicContributions": 9,
     "createdAt": "2024-05-16T14:15:52Z"
   },
   {
@@ -6222,9 +6222,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2024-04-02T20:20:25Z"
   },
   {
@@ -6236,7 +6236,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2024-03-31T15:39:35Z"
   },
   {
@@ -6258,7 +6258,7 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2024-04-24T04:54:56Z"
@@ -6270,9 +6270,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1213,
-    "publicContributions": 640,
+    "followers": 4,
+    "privateContributions": 1217,
+    "publicContributions": 820,
     "createdAt": "2024-01-02T02:50:09Z"
   },
   {
@@ -6290,12 +6290,12 @@
   {
     "login": "Elements501",
     "name": "Alex P.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176943113?s=72&u=f4c02e1c430e293cced3ff6353ce9fd6e2e65df4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176943113?s=72&u=5246087157416192ee9830a36b5bfb94e11d50ed&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 240,
+    "privateContributions": 222,
     "publicContributions": 66,
     "createdAt": "2024-07-29T17:27:38Z"
   },
@@ -6320,7 +6320,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 73,
     "createdAt": "2024-08-29T02:06:18Z"
   },
   {
@@ -6354,22 +6354,10 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-18T10:23:27Z"
-  },
-  {
-    "login": "Max10809",
-    "name": "Max Song",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157717351?s=72&u=9f59ef51c269b62109c4b3c081d0bde9b3789752&v=4",
-    "location": "Hong Kong",
-    "company": "Shanghai Jiao Tong University",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 20,
-    "createdAt": "2024-01-25T14:21:18Z"
   },
   {
     "login": "yulinzhu17",
@@ -6379,8 +6367,8 @@
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 96,
-    "publicContributions": 71,
+    "privateContributions": 75,
+    "publicContributions": 53,
     "createdAt": "2024-01-09T00:22:19Z"
   },
   {
@@ -6392,7 +6380,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 32,
     "createdAt": "2024-04-26T07:49:52Z"
   },
   {
@@ -6403,8 +6391,8 @@
     "company": "HKUST",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 56,
-    "publicContributions": 13,
+    "privateContributions": 38,
+    "publicContributions": 15,
     "createdAt": "2024-05-07T07:43:48Z"
   },
   {
@@ -6416,7 +6404,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 481,
+    "publicContributions": 468,
     "createdAt": "2024-02-08T08:46:29Z"
   },
   {
@@ -6426,9 +6414,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 96,
-    "publicContributions": 249,
+    "followers": 20,
+    "privateContributions": 0,
+    "publicContributions": 239,
     "createdAt": "2024-03-25T17:37:27Z"
   },
   {

@@ -6392,7 +6392,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-12-13T01:04:49Z"
   },
   {
@@ -6404,7 +6404,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 109,
     "createdAt": "2017-05-05T11:21:26Z"
   },
   {
@@ -6414,7 +6414,7 @@
     "location": "Bahrain",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 1,
     "privateContributions": 8,
     "publicContributions": 71,
     "createdAt": "2017-10-22T15:26:40Z"
@@ -6451,7 +6451,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 762,
+    "privateContributions": 965,
     "publicContributions": 1,
     "createdAt": "2017-03-04T17:38:23Z"
   },
@@ -6488,7 +6488,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2017-06-19T00:07:54Z"
   },
   {
@@ -6512,7 +6512,7 @@
     "twitterUsername": "ahmedalkooheji",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2017-03-28T01:10:22Z"
   },
   {
@@ -6535,8 +6535,8 @@
     "company": "BRDigitech",
     "twitterUsername": "tayyabaat",
     "followers": 2,
-    "privateContributions": 4325,
-    "publicContributions": 12,
+    "privateContributions": 3758,
+    "publicContributions": 16,
     "createdAt": "2017-02-21T16:34:59Z"
   },
   {
@@ -6558,7 +6558,7 @@
     "location": "Bahrain",
     "company": "GBM",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2017-04-24T11:06:30Z"

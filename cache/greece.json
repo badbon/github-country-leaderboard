@@ -6342,9 +6342,9 @@
     "location": "Athens,Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 1,
     "createdAt": "2024-03-18T21:03:15Z"
   },
   {
@@ -6354,9 +6354,9 @@
     "location": "Greece",
     "company": "No Job :(",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 668,
+    "publicContributions": 711,
     "createdAt": "2024-03-03T16:26:20Z"
   },
   {
@@ -6368,7 +6368,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 62,
     "createdAt": "2024-10-20T17:30:22Z"
   },
   {
@@ -6378,9 +6378,9 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 95,
     "createdAt": "2024-02-12T19:06:45Z"
   },
   {
@@ -6390,9 +6390,9 @@
     "location": "Thessaloniki, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 92,
     "createdAt": "2024-01-20T19:44:37Z"
   },
   {
@@ -6400,11 +6400,11 @@
     "name": "Dimitris Vatousis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/182362978?s=72&u=3f4a492adc0c2490e19ee35e1f52318e4c90511f&v=4",
     "location": "Greece",
-    "company": "Democritus University of Thrace (D.U.T.H)",
+    "company": "Parity Platform",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 94,
+    "privateContributions": 261,
+    "publicContributions": 99,
     "createdAt": "2024-09-21T16:50:02Z"
   },
   {
@@ -6414,9 +6414,9 @@
     "location": "Ioannina, Epirus, Greece",
     "company": "CSE | University of Ioannina",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 3,
-    "publicContributions": 32,
+    "publicContributions": 60,
     "createdAt": "2024-05-18T16:45:57Z"
   },
   {
@@ -6426,7 +6426,7 @@
     "location": "Thessaloniki, Greece",
     "company": "CSD Auth University",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 20,
     "createdAt": "2024-01-21T17:18:53Z"
@@ -6434,26 +6434,14 @@
   {
     "login": "xrhstosk59",
     "name": "Christos Kerigkas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157810313?s=72&u=6d4fec85639afc41c5a9eecc10305a418c738017&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157810313?s=72&u=0eb49884a09a4b4d39c3ecd294e5aac6bac5d19d&v=4",
     "location": "Greece",
     "company": "Democritus University of Thrace",
     "twitterUsername": "_xrhstos_k59_",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 227,
     "createdAt": "2024-01-26T13:10:26Z"
-  },
-  {
-    "login": "MrAlexander-2000",
-    "name": "Alektron",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/173694725?s=72&u=5e8990e8e444944cda88ebbd6f4562ab5195a4ad&v=4",
-    "location": "Greece. Attika. Athens",
-    "company": "DogSoftware",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 80,
-    "publicContributions": 15,
-    "createdAt": "2024-06-24T12:53:06Z"
   },
   {
     "login": "DrThanosNT",
@@ -6462,9 +6450,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 95,
     "createdAt": "2024-11-29T11:33:25Z"
   },
   {
@@ -6476,7 +6464,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 21,
     "createdAt": "2024-05-06T14:15:12Z"
   },
   {
@@ -6488,7 +6476,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 325,
+    "publicContributions": 297,
     "createdAt": "2024-10-02T19:17:40Z"
   },
   {
@@ -6499,18 +6487,18 @@
     "company": "National Technical University of Athens",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 231,
-    "publicContributions": 63,
+    "privateContributions": 202,
+    "publicContributions": 58,
     "createdAt": "2024-02-10T12:48:08Z"
   },
   {
     "login": "KostasNikolaou23",
     "name": "Konstantinos Nikolaou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166295652?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166295652?s=72&u=2402c9f9f78438a4713eb107b071db757ee3dfa3&v=4",
     "location": "Greece",
     "company": "Department of Information and Communication Systems Engineering",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-04-07T10:28:18Z"
@@ -6534,9 +6522,9 @@
     "location": "Greece",
     "company": "University of Patras",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 16,
-    "publicContributions": 188,
+    "publicContributions": 194,
     "createdAt": "2024-03-22T14:33:28Z"
   },
   {

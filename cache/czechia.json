@@ -6092,7 +6092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 110,
     "createdAt": "2024-07-02T12:28:26Z"
   },
   {
@@ -6115,8 +6115,8 @@
     "company": "aion",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 435,
-    "publicContributions": 7,
+    "privateContributions": 378,
+    "publicContributions": 11,
     "createdAt": "2024-06-11T12:16:22Z"
   },
   {
@@ -6157,14 +6157,14 @@
   },
   {
     "login": "tereza-vac",
-    "name": "",
+    "name": "Tereza Vačina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/189757999?s=72&u=bdefa64f3ed0f3e6f484c03f35c6ac5387c2c222&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 252,
-    "publicContributions": 77,
+    "privateContributions": 498,
+    "publicContributions": 126,
     "createdAt": "2024-11-26T14:57:16Z"
   },
   {
@@ -6247,8 +6247,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 365,
-    "publicContributions": 182,
+    "privateContributions": 358,
+    "publicContributions": 97,
     "createdAt": "2024-01-14T22:37:56Z"
   },
   {
@@ -6260,19 +6260,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 35,
     "createdAt": "2024-03-16T03:18:09Z"
   },
   {
     "login": "viktormikeska",
     "name": "Viktor Mikeska",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/172978471?s=72&u=7f2351d5b762104307f72ea47eaecd127cb1e4d5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172978471?s=72&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "viktormikeska",
     "followers": 1,
-    "privateContributions": 72,
-    "publicContributions": 0,
+    "privateContributions": 120,
+    "publicContributions": 28,
     "createdAt": "2024-06-16T12:36:39Z"
   },
   {
@@ -6290,7 +6290,7 @@
   {
     "login": "blackangelcz",
     "name": "Angelo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157968204?s=72&u=5805e8e6b916ecccddc08708727fa3f81635b064&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157968204?s=72&u=d9f52664d6cc11ad9e9591424a21691d497e679b&v=4",
     "location": "Czech Republic",
     "company": "Independent Developer",
     "twitterUsername": "",
@@ -6320,7 +6320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 81,
     "createdAt": "2024-04-27T02:27:49Z"
   },
   {

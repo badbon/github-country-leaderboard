@@ -6427,7 +6427,7 @@
     "company": "Spoon Consulting Ltd",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
+    "privateContributions": 47,
     "publicContributions": 0,
     "createdAt": "2016-03-15T18:41:04Z"
   },
@@ -6464,7 +6464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2016-06-10T10:03:59Z"
   },
   {
@@ -6476,7 +6476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 133,
     "createdAt": "2016-09-16T04:29:58Z"
   },
   {
@@ -6487,7 +6487,7 @@
     "company": "",
     "twitterUsername": "tarounen",
     "followers": 1,
-    "privateContributions": 417,
+    "privateContributions": 1514,
     "publicContributions": 2,
     "createdAt": "2016-03-06T16:10:31Z"
   },
@@ -6511,7 +6511,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 463,
+    "privateContributions": 615,
     "publicContributions": 0,
     "createdAt": "2016-07-07T11:41:48Z"
   },
@@ -6534,8 +6534,8 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 97,
-    "privateContributions": 6494,
+    "followers": 98,
+    "privateContributions": 6437,
     "publicContributions": 191,
     "createdAt": "2015-02-14T08:49:40Z"
   },
@@ -6546,21 +6546,21 @@
     "location": "Mauritius",
     "company": "@balena-io ",
     "twitterUsername": "",
-    "followers": 87,
+    "followers": 86,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 92,
     "createdAt": "2015-07-07T13:55:29Z"
   },
   {
     "login": "percymamedy",
     "name": "Percy Mamedy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11259669?s=72&u=cd4012a9bf9081978fae65bde76bcbab0adcfa46&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11259669?s=72&u=88ee9d86dd6034050364beeeb510206a42abf991&v=4",
     "location": "Port Louis Mauritius",
     "company": "@assurdeal @Laravel-Moris @Interfaceable @upmeetly",
     "twitterUsername": "percymamedy",
-    "followers": 55,
-    "privateContributions": 1356,
-    "publicContributions": 31,
+    "followers": 58,
+    "privateContributions": 1585,
+    "publicContributions": 24,
     "createdAt": "2015-03-01T18:49:00Z"
   },
   {
@@ -6570,9 +6570,9 @@
     "location": "Mauritius",
     "company": "GISCAN",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 41,
     "createdAt": "2015-07-08T13:28:31Z"
   },
   {
@@ -6584,7 +6584,7 @@
     "twitterUsername": "",
     "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 111,
     "createdAt": "2015-10-05T16:07:13Z"
   },
   {
@@ -6594,7 +6594,7 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 29,
     "publicContributions": 0,
     "createdAt": "2015-12-25T18:48:00Z"
@@ -6606,9 +6606,9 @@
     "location": "Mauritius",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 1,
-    "publicContributions": 0,
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2015-11-20T15:57:45Z"
   },
   {

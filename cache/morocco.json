@@ -6294,9 +6294,9 @@
     "location": "Morocco ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 13,
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 24,
     "createdAt": "2025-12-26T20:03:00Z"
   },
   {
@@ -6320,7 +6320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 20,
     "createdAt": "2025-06-21T22:55:36Z"
   },
   {
@@ -6344,7 +6344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2025-03-29T03:40:22Z"
   },
   {
@@ -6356,7 +6356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 12,
     "createdAt": "2025-02-10T09:02:24Z"
   },
   {
@@ -6379,7 +6379,7 @@
     "company": "Open to Work",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 405,
+    "privateContributions": 406,
     "publicContributions": 19,
     "createdAt": "2025-11-02T22:53:31Z"
   },
@@ -6390,7 +6390,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2025-11-03T18:41:20Z"
@@ -6404,7 +6404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-08-30T13:38:10Z"
   },
   {
@@ -6426,9 +6426,9 @@
     "location": "Morocco",
     "company": "-18",
     "twitterUsername": "nneireal",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 25,
     "createdAt": "2025-07-19T11:29:31Z"
   },
   {
@@ -6440,7 +6440,7 @@
     "twitterUsername": "DepsAgency",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2658,
+    "publicContributions": 2526,
     "createdAt": "2025-04-07T11:27:11Z"
   },
   {
@@ -6462,7 +6462,7 @@
     "location": "morocco",
     "company": "Zag OS ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-05T22:24:06Z"
@@ -6486,9 +6486,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 59,
-    "publicContributions": 187,
+    "followers": 11,
+    "privateContributions": 95,
+    "publicContributions": 172,
     "createdAt": "2025-07-20T15:31:01Z"
   },
   {
@@ -6500,7 +6500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 19,
     "createdAt": "2025-02-08T21:07:05Z"
   },
   {
@@ -6510,7 +6510,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2025-04-23T20:57:13Z"
@@ -6524,7 +6524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 18,
     "createdAt": "2025-04-28T17:01:20Z"
   },
   {
@@ -115930,5 +115930,245 @@
     "privateContributions": 2289,
     "publicContributions": 278,
     "createdAt": "2023-06-03T19:15:16Z"
+  },
+  {
+    "login": "devops2626",
+    "name": "Barki Mustapha ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286506320?s=72&u=86f8094803c446f8379d81c324cbdadc295d9b31&v=4",
+    "location": "Morocco ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 266,
+    "privateContributions": 1,
+    "publicContributions": 813,
+    "createdAt": "2026-05-21T00:33:17Z"
+  },
+  {
+    "login": "id-mod",
+    "name": "Mohamed Idaali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293115016?s=72&u=379b55a8a6ce6185762c0862d42d9390fdc61cb9&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "id_mod_dev",
+    "followers": 34,
+    "privateContributions": 42,
+    "publicContributions": 8,
+    "createdAt": "2026-06-12T13:43:08Z"
+  },
+  {
+    "login": "mohamedlalah",
+    "name": "Mohamed LALAH",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287693984?s=72&u=50ac72905f2b770e981b60cc3c3d431c53efcaf6&v=4",
+    "location": "Morocco",
+    "company": "SecretoTools",
+    "twitterUsername": "LalahMohamed",
+    "followers": 30,
+    "privateContributions": 0,
+    "publicContributions": 81,
+    "createdAt": "2026-05-25T12:08:54Z"
+  },
+  {
+    "login": "Salma-Rhomari",
+    "name": "Salma Rhomari",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287507987?s=72&v=4",
+    "location": "Rabat, Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 18,
+    "privateContributions": 0,
+    "publicContributions": 139,
+    "createdAt": "2026-05-24T18:42:17Z"
+  },
+  {
+    "login": "pftlola270-byte",
+    "name": "Lola Byte",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293933043?s=72&u=450a24c380f5cbbb468789e37f4153d9ee7052f8&v=4",
+    "location": "Morocco ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-15T17:06:00Z"
+  },
+  {
+    "login": "citechain",
+    "name": "CiteChain",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289480395?s=72&u=a5e5caa10f0f6d0c5b2f5779868c601b2d9f0756&v=4",
+    "location": "Tetuan, Morocco",
+    "company": "",
+    "twitterUsername": "citechain",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-31T19:07:30Z"
+  },
+  {
+    "login": "mshanghai570",
+    "name": "Michael S.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295287056?s=72&u=265d5845f6e9fad9fb4bc577e39e47954ed457c5&v=4",
+    "location": "Tangier, Morocco",
+    "company": "mikeshouse",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 136,
+    "createdAt": "2026-06-20T04:35:59Z"
+  },
+  {
+    "login": "Kenza1code",
+    "name": "Kenza",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285235967?s=72&u=faa43e9a3738b71801a1e933b96c0d06910bee53&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 8,
+    "createdAt": "2026-05-16T15:27:23Z"
+  },
+  {
+    "login": "anouarboudehbi",
+    "name": "Anouar BOUDEHBI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291285373?s=72&u=3b0f0012334cbc4eae8a965d8629ba35cb4d1c53&v=4",
+    "location": "Salé-Rabat, Morocco 🇲🇦",
+    "company": "Founder & Lead Engineer | Mobile & AI Solutions Architecture",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-06-06T11:51:26Z"
+  },
+  {
+    "login": "AbderrazzakMoujib",
+    "name": "MOUJIB Abderrazzak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291536163?s=72&u=f05996225688727d07e4753550faa430736763f3&v=4",
+    "location": "Casablanca, Morocco",
+    "company": "Smart Expos & Events Morocco ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-06-07T14:08:29Z"
+  },
+  {
+    "login": "hibalahrounii",
+    "name": "Hiba Lahrouni | Software Engineering Student",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293123362?s=72&u=84d9bff3f1d234de4b78ca013d45e59977ab862c&v=4",
+    "location": "Agadir, Morocco",
+    "company": "Polytechnique Agadir",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-06-12T14:12:53Z"
+  },
+  {
+    "login": "ikhlaskabbaj9-lab",
+    "name": "ikhlas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294835065?s=72&u=66fe425beca4269e1e75b56985b5a4a079868266&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-18T13:43:06Z"
+  },
+  {
+    "login": "Abdel-MOUHTAJ",
+    "name": "Abdel-MOUHTAJ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288434042?s=72&v=4",
+    "location": "Morocco",
+    "company": "Vigilum Codex",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 44,
+    "createdAt": "2026-05-27T19:47:35Z"
+  },
+  {
+    "login": "mohssinharhar64-cyber",
+    "name": "mohcin harhar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285682500?s=72&v=4",
+    "location": " Rabat, Morocco",
+    "company": "Self-Employed",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-18T12:21:26Z"
+  },
+  {
+    "login": "gbadinv-boop",
+    "name": "Julien Vivian GBADIN WO-BOUSSOU",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291034954?s=72&u=d4eb9432cee208d91c9970b224df6367c0031261&v=4",
+    "location": "Rabat, Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2026-06-05T12:35:10Z"
+  },
+  {
+    "login": "theystudiodesign",
+    "name": "ELFASSI Karima",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285996499?s=72&v=4",
+    "location": "Morocco / agadir",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 157,
+    "createdAt": "2026-05-19T11:57:36Z"
+  },
+  {
+    "login": "hakimfakhar",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293944218?s=72&u=5d587ead6183c01c17d26f21169a938e195ed74d&v=4",
+    "location": "Tetouan, Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 123,
+    "createdAt": "2026-06-15T17:50:24Z"
+  },
+  {
+    "login": "ayoubsadki-omni",
+    "name": "ayoubsadki-omni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284249489?s=72&v=4",
+    "location": "Rabat, Morocco",
+    "company": "omniops",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 19,
+    "publicContributions": 1,
+    "createdAt": "2026-05-13T08:17:27Z"
+  },
+  {
+    "login": "zerooneshift-png",
+    "name": "Zeroooo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287114502?s=72&u=f2757ac1f05997a9bab734ff566c05a478b78f6d&v=4",
+    "location": "Morocco",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 313,
+    "createdAt": "2026-05-23T01:34:41Z"
+  },
+  {
+    "login": "khaoulaechchafyky",
+    "name": "Khaoula",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296024625?s=72&v=4",
+    "location": " Morocco,Rabat",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-06-23T02:16:27Z"
   }
 ]

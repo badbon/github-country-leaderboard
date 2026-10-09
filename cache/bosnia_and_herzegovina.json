@@ -6176,7 +6176,7 @@
     "twitterUsername": "susakovich_dev",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-12-11T13:19:57Z"
   },
   {
@@ -6186,8 +6186,8 @@
     "location": "East Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 5742,
+    "followers": 21,
+    "privateContributions": 5762,
     "publicContributions": 7,
     "createdAt": "2021-01-25T18:41:21Z"
   },
@@ -6200,19 +6200,19 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 77,
     "createdAt": "2021-04-28T22:30:05Z"
   },
   {
     "login": "El-DriMa",
     "name": "Amna Hodžić",
     "avatarUrl": "https://avatars.githubusercontent.com/u/83537353?s=72&u=4d8cd5af1480726557020d1a81c4f64bb0e84611&v=4",
-    "location": "Čapljina/Mostar, Bosnia and Herzegovina",
-    "company": "",
+    "location": "Čapljina, Bosnia and Herzegovina",
+    "company": "Deloitte",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 23,
-    "publicContributions": 79,
+    "privateContributions": 14,
+    "publicContributions": 38,
     "createdAt": "2021-05-02T10:45:39Z"
   },
   {
@@ -6222,7 +6222,7 @@
     "location": "Tuzla, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 17,
     "publicContributions": 66,
     "createdAt": "2021-08-24T13:20:35Z"
@@ -6246,7 +6246,7 @@
     "location": "Banja Luka, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-15T12:55:00Z"
@@ -6258,9 +6258,9 @@
     "location": "Zenica, Bosnia and Herzegovina",
     "company": "jasmin.oruc23@gmail.com",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 116,
-    "publicContributions": 29,
+    "followers": 12,
+    "privateContributions": 112,
+    "publicContributions": 27,
     "createdAt": "2021-06-29T16:38:05Z"
   },
   {
@@ -6271,8 +6271,8 @@
     "company": "Fleet (@fleetdm)",
     "twitterUsername": "marko_lisica",
     "followers": 13,
-    "privateContributions": 47,
-    "publicContributions": 712,
+    "privateContributions": 107,
+    "publicContributions": 686,
     "createdAt": "2021-04-25T10:38:16Z"
   },
   {
@@ -6283,8 +6283,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 235,
+    "privateContributions": 33,
+    "publicContributions": 195,
     "createdAt": "2021-01-15T15:21:03Z"
   },
   {
@@ -6294,8 +6294,8 @@
     "location": "Banja Luka, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 245,
+    "followers": 12,
+    "privateContributions": 213,
     "publicContributions": 0,
     "createdAt": "2021-01-01T10:22:56Z"
   },
@@ -6307,7 +6307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 0,
+    "privateContributions": 11,
     "publicContributions": 78,
     "createdAt": "2021-04-29T11:53:58Z"
   },
@@ -6320,7 +6320,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2021-10-20T14:24:33Z"
   },
   {
@@ -6355,7 +6355,7 @@
     "company": "@voltium-ai ",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 43,
+    "privateContributions": 41,
     "publicContributions": 56,
     "createdAt": "2021-04-15T18:01:13Z"
   },
@@ -6367,8 +6367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 825,
-    "publicContributions": 37,
+    "privateContributions": 859,
+    "publicContributions": 23,
     "createdAt": "2021-08-01T22:30:41Z"
   },
   {
@@ -6378,8 +6378,8 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
+    "followers": 8,
+    "privateContributions": 517,
     "publicContributions": 0,
     "createdAt": "2021-07-15T10:20:54Z"
   },
@@ -6391,7 +6391,7 @@
     "company": "@ministryofprogramming",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 167,
+    "privateContributions": 173,
     "publicContributions": 0,
     "createdAt": "2021-05-20T17:59:36Z"
   },

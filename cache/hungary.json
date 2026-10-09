@@ -6055,7 +6055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2024-05-03T14:38:03Z"
   },
@@ -6078,9 +6078,9 @@
     "location": "Budapest",
     "company": "Budapest University of Technology and Economics",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 96,
     "createdAt": "2024-02-24T10:37:53Z"
   },
   {
@@ -6174,7 +6174,7 @@
     "location": "Budapest ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-01-28T15:51:37Z"
@@ -6217,26 +6217,26 @@
   },
   {
     "login": "Hgellert12",
-    "name": "",
+    "name": "Hajdu Gellért",
     "avatarUrl": "https://avatars.githubusercontent.com/u/190557080?s=72&u=eb5f88905a7185b2dda5767fe5cdd4064b175c82&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 67,
+    "privateContributions": 12,
+    "publicContributions": 76,
     "createdAt": "2024-12-04T01:22:24Z"
   },
   {
     "login": "cskadam01",
     "name": "Csökönyi Ádám",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167115402?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/167115402?s=72&u=bb51f25bf99786b9e00bce2d2dc60d73a2e9b2f6&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
-    "publicContributions": 189,
+    "privateContributions": 93,
+    "publicContributions": 173,
     "createdAt": "2024-04-15T16:05:57Z"
   },
   {
@@ -6248,7 +6248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-02-12T15:12:06Z"
   },
   {
@@ -6284,7 +6284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 20,
     "createdAt": "2024-09-02T11:42:10Z"
   },
   {
