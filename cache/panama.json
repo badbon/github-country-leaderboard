@@ -8780,7 +8780,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 8,
     "createdAt": "2016-07-04T16:16:44Z"
   },
   {
@@ -8791,7 +8791,7 @@
     "company": "",
     "twitterUsername": "gerardoluisbv",
     "followers": 4,
-    "privateContributions": 252,
+    "privateContributions": 378,
     "publicContributions": 0,
     "createdAt": "2016-11-17T16:21:57Z"
   },
@@ -8840,7 +8840,7 @@
     "twitterUsername": "goaly",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 256,
     "createdAt": "2016-07-27T13:26:46Z"
   },
   {
@@ -8851,7 +8851,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 49,
+    "privateContributions": 63,
     "publicContributions": 0,
     "createdAt": "2016-07-13T21:54:28Z"
   },
@@ -8863,7 +8863,7 @@
     "company": "Michael Haase Consulting",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 115,
+    "privateContributions": 154,
     "publicContributions": 16,
     "createdAt": "2016-12-01T09:01:05Z"
   },
@@ -8935,8 +8935,8 @@
     "company": "",
     "twitterUsername": "allan_coding",
     "followers": 1,
-    "privateContributions": 2368,
-    "publicContributions": 1,
+    "privateContributions": 4456,
+    "publicContributions": 269,
     "createdAt": "2016-10-19T18:48:39Z"
   },
   {
@@ -8946,9 +8946,9 @@
     "location": "Panama",
     "company": "MailChannels",
     "twitterUsername": "YizackR",
-    "followers": 57,
-    "privateContributions": 708,
-    "publicContributions": 1791,
+    "followers": 61,
+    "privateContributions": 670,
+    "publicContributions": 1993,
     "createdAt": "2015-12-12T05:34:54Z"
   },
   {
@@ -8959,8 +8959,8 @@
     "company": "Eprezto.com",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 1310,
-    "publicContributions": 11,
+    "privateContributions": 1271,
+    "publicContributions": 4,
     "createdAt": "2015-01-09T19:39:06Z"
   },
   {
@@ -8971,7 +8971,7 @@
     "company": "MasMovil- LLAC",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 13,
+    "privateContributions": 15,
     "publicContributions": 1,
     "createdAt": "2015-08-08T14:52:03Z"
   },
@@ -8982,8 +8982,8 @@
     "location": "Panama City, Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 268,
+    "followers": 45,
+    "privateContributions": 375,
     "publicContributions": 21,
     "createdAt": "2015-09-11T23:58:08Z"
   },
@@ -9001,12 +9001,12 @@
   },
   {
     "login": "Roeefl",
-    "name": "Roeefl",
+    "name": "Glanduin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/10502198?s=72&u=46a60eb7db0c234b0609487b44f7b7fa8a26879a&v=4",
     "location": "Calle Winterfell, Puerto Armuelles, Panama",
-    "company": "Perception Point",
+    "company": "Fortinet",
     "twitterUsername": "roeefl",
-    "followers": 31,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-01-12T16:45:01Z"

@@ -8712,25 +8712,13 @@
     "createdAt": "2014-11-06T13:14:16Z"
   },
   {
-    "login": "roma6125",
-    "name": "Nikita Romanov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10113954?s=72&v=4",
-    "location": "Podgorica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2014-12-08T08:59:09Z"
-  },
-  {
     "login": "mikha-dev",
     "name": "Mikhail at Dev4traders",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3321987?s=72&u=55588b5c43bf6355c8edd4c282a6595bce4314b7&v=4",
     "location": "Montenegro",
     "company": "@dev4traders dev4traders",
     "twitterUsername": "dev4traders",
-    "followers": 85,
+    "followers": 87,
     "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2013-01-20T17:03:07Z"
@@ -8742,9 +8730,9 @@
     "location": "Montenegro",
     "company": "@Crashinvaders ",
     "twitterUsername": "discometaphore",
-    "followers": 49,
-    "privateContributions": 1767,
-    "publicContributions": 26,
+    "followers": 50,
+    "privateContributions": 2146,
+    "publicContributions": 57,
     "createdAt": "2013-12-11T09:44:44Z"
   },
   {
@@ -8754,9 +8742,9 @@
     "location": "Montenegro, Podgorica",
     "company": "QuantFlow",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 1952,
-    "publicContributions": 8453,
+    "followers": 57,
+    "privateContributions": 2834,
+    "publicContributions": 10563,
     "createdAt": "2013-09-02T00:14:22Z"
   },
   {
@@ -8766,7 +8754,7 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2013-04-09T14:50:00Z"
@@ -8780,7 +8768,7 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 563,
+    "publicContributions": 573,
     "createdAt": "2013-03-20T13:20:15Z"
   },
   {
@@ -8790,9 +8778,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 1,
-    "publicContributions": 15,
+    "followers": 17,
+    "privateContributions": 124,
+    "publicContributions": 67,
     "createdAt": "2013-06-08T14:53:59Z"
   },
   {
@@ -8803,8 +8791,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 181,
-    "publicContributions": 3,
+    "privateContributions": 367,
+    "publicContributions": 4,
     "createdAt": "2013-03-05T13:33:30Z"
   },
   {
@@ -8815,8 +8803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 141,
-    "publicContributions": 421,
+    "privateContributions": 129,
+    "publicContributions": 373,
     "createdAt": "2013-05-22T18:00:24Z"
   },
   {
@@ -8826,7 +8814,7 @@
     "location": "Podgorica, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-24T12:43:23Z"
@@ -8838,7 +8826,7 @@
     "location": "Montenegro",
     "company": "ByteMinds",
     "twitterUsername": "ge_ann",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-08T08:57:20Z"
@@ -8851,7 +8839,7 @@
     "company": "ClearScale",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 55,
+    "privateContributions": 18,
     "publicContributions": 0,
     "createdAt": "2013-03-26T03:54:51Z"
   },
@@ -8887,8 +8875,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2192,
-    "publicContributions": 2,
+    "privateContributions": 2611,
+    "publicContributions": 1,
     "createdAt": "2013-12-03T13:00:47Z"
   },
   {
@@ -8905,14 +8893,14 @@
   },
   {
     "login": "Begemot34",
-    "name": "Begemot",
+    "name": "Konstantin Kozhanov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3789869?s=72&v=4",
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2013-03-06T17:48:11Z"
   },
   {

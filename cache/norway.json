@@ -8730,7 +8730,7 @@
     "location": "Oslo, Norway",
     "company": "Smudgebit",
     "twitterUsername": "smudgebit",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-03T11:46:41Z"
@@ -8760,25 +8760,13 @@
     "createdAt": "2024-04-02T14:00:20Z"
   },
   {
-    "login": "NorgesTech",
-    "name": "Norges Tech",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162019103?s=72&u=935534acaaef6c8a596913bfa888850374b2fe39&v=4",
-    "location": "Norway",
-    "company": "Norges Tech Dagarslan",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-03-03T10:47:09Z"
-  },
-  {
     "login": "UmedaOqilova",
     "name": "Umeda Tomic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171056700?s=72&u=2e22f965f0c398aff2da47866bb73bada46d2c92&v=4",
     "location": "Oslo, Norway",
     "company": "QR Pay / Microsoft",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-05-28T15:19:05Z"
@@ -8804,7 +8792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 40,
     "createdAt": "2024-08-06T10:26:30Z"
   },
   {
@@ -8826,22 +8814,10 @@
     "location": "Hamar, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 67,
     "createdAt": "2024-08-27T12:30:11Z"
-  },
-  {
-    "login": "rob-ds",
-    "name": "Roberto Suarez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184363332?s=72&u=4ae6fa1d6d9bfbf4a64ec4b5469fde968db855e7&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-10-09T08:57:00Z"
   },
   {
     "login": "Zimpily",
@@ -8874,9 +8850,9 @@
     "location": "Oslo, Norway",
     "company": "MixORG",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 10,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2024-09-23T14:34:59Z"
   },
   {
@@ -8887,8 +8863,8 @@
     "company": "Atlas Protocol",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 470,
-    "publicContributions": 145,
+    "privateContributions": 455,
+    "publicContributions": 113,
     "createdAt": "2024-04-24T10:41:49Z"
   },
   {
@@ -8898,9 +8874,9 @@
     "location": "Kristiansand, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 35,
     "createdAt": "2024-09-03T15:00:17Z"
   },
   {
@@ -8912,7 +8888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 87,
     "createdAt": "2024-09-16T12:04:30Z"
   },
   {
@@ -8924,7 +8900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2024-08-13T16:00:33Z"
   },
   {
@@ -8936,7 +8912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1009,
+    "publicContributions": 1138,
     "createdAt": "2024-10-10T12:54:56Z"
   },
   {

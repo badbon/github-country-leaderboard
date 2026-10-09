@@ -8660,20 +8660,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 20,
     "createdAt": "2024-09-25T10:52:07Z"
-  },
-  {
-    "login": "Yazan-Alsadeh",
-    "name": "Yazan Alsadeh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178998889?s=72&v=4",
-    "location": "Amman",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 166,
-    "createdAt": "2024-08-21T10:46:15Z"
   },
   {
     "login": "Qais101",
@@ -8708,7 +8696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 67,
     "createdAt": "2024-04-21T00:02:00Z"
   },
   {
@@ -8731,8 +8719,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 20,
+    "privateContributions": 10,
+    "publicContributions": 24,
     "createdAt": "2024-07-28T09:11:25Z"
   },
   {
@@ -8756,7 +8744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2024-03-23T22:36:00Z"
   },
   {
@@ -8766,9 +8754,9 @@
     "location": "Palestine/Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2023-01-29T21:45:33Z"
   },
   {
@@ -8779,7 +8767,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 146,
+    "privateContributions": 153,
     "publicContributions": 0,
     "createdAt": "2023-10-23T11:40:06Z"
   },
@@ -8790,9 +8778,9 @@
     "location": "Amman, Jordan",
     "company": "Infinite Technology",
     "twitterUsername": "",
-    "followers": 91,
+    "followers": 85,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 336,
     "createdAt": "2023-03-06T16:25:06Z"
   },
   {
@@ -8802,9 +8790,9 @@
     "location": "jordan , amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 82,
+    "followers": 84,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 61,
     "createdAt": "2023-04-06T19:12:02Z"
   },
   {
@@ -8814,22 +8802,10 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 72,
-    "privateContributions": 179,
-    "publicContributions": 605,
-    "createdAt": "2023-06-12T20:35:08Z"
-  },
-  {
-    "login": "stacks-of-data",
-    "name": "stacks-of-data",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141011344?s=72&u=d7b9e2cbc577f9564374be1b2fa58b7a5efe20cb&v=4",
-    "location": "Amman, Jordan",
-    "company": "Connected Motion",
-    "twitterUsername": "",
     "followers": 71,
-    "privateContributions": 426,
-    "publicContributions": 614,
-    "createdAt": "2023-07-31T07:25:24Z"
+    "privateContributions": 200,
+    "publicContributions": 507,
+    "createdAt": "2023-06-12T20:35:08Z"
   },
   {
     "login": "DefinetlyNotAI",
@@ -8838,9 +8814,9 @@
     "location": "Jordan, Amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
-    "privateContributions": 29,
-    "publicContributions": 9334,
+    "followers": 69,
+    "privateContributions": 953,
+    "publicContributions": 4161,
     "createdAt": "2023-11-12T15:07:47Z"
   },
   {
@@ -8850,9 +8826,9 @@
     "location": "Amman/Jordan",
     "company": "42 Amman",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 71,
     "privateContributions": 0,
-    "publicContributions": 301,
+    "publicContributions": 254,
     "createdAt": "2023-04-08T21:09:26Z"
   },
   {
@@ -8862,7 +8838,7 @@
     "location": "jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 65,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-27T14:28:53Z"
@@ -8872,11 +8848,11 @@
     "name": "Mohammad Alsallal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/124865976?s=72&u=7ba3c8d3265a5de5c38c00a28cb26df1db46a9b4&v=4",
     "location": "Jordan , Amman",
-    "company": "@runNexus",
+    "company": "@fix-api",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 611,
-    "publicContributions": 116,
+    "privateContributions": 911,
+    "publicContributions": 119,
     "createdAt": "2023-02-09T06:59:26Z"
   },
   {
@@ -8887,8 +8863,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 53,
-    "privateContributions": 107,
-    "publicContributions": 403,
+    "privateContributions": 62,
+    "publicContributions": 302,
     "createdAt": "2023-02-28T09:22:20Z"
   },
   {

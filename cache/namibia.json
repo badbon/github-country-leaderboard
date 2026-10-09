@@ -3163,7 +3163,7 @@
     "company": "@nzzdev",
     "twitterUsername": "KaceloVernon",
     "followers": 99,
-    "privateContributions": 608,
+    "privateContributions": 578,
     "publicContributions": 21,
     "createdAt": "2019-04-25T13:07:24Z"
   },
@@ -3175,8 +3175,8 @@
     "company": "Deepcatch Namibia Holding",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 394,
-    "publicContributions": 38,
+    "privateContributions": 419,
+    "publicContributions": 35,
     "createdAt": "2019-07-15T17:18:11Z"
   },
   {
@@ -3211,7 +3211,7 @@
     "company": "@daaily",
     "twitterUsername": "JustusVoigt",
     "followers": 12,
-    "privateContributions": 1167,
+    "privateContributions": 1178,
     "publicContributions": 7,
     "createdAt": "2019-02-19T11:45:00Z"
   },
@@ -3222,7 +3222,7 @@
     "location": "Windhoek, Namibia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 72,
     "publicContributions": 11,
     "createdAt": "2019-04-02T15:30:34Z"
@@ -3235,7 +3235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 55,
+    "privateContributions": 82,
     "publicContributions": 3,
     "createdAt": "2019-09-11T16:09:05Z"
   },
@@ -3247,7 +3247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 525,
+    "privateContributions": 521,
     "publicContributions": 0,
     "createdAt": "2019-10-04T20:34:26Z"
   },
@@ -5698,5 +5698,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-11T13:39:13Z"
+  },
+  {
+    "login": "ainubisco-alt",
+    "name": "mario",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293124832?s=72&v=4",
+    "location": "windhoek",
+    "company": "ainubis",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-12T14:18:17Z"
   }
 ]

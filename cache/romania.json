@@ -8707,7 +8707,7 @@
     "company": "Intel Corporation",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 316,
+    "privateContributions": 468,
     "publicContributions": 0,
     "createdAt": "2024-05-08T17:20:09Z"
   },
@@ -8744,7 +8744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2024-04-30T13:29:20Z"
   },
   {
@@ -8756,7 +8756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2024-05-15T16:37:56Z"
   },
   {
@@ -8780,7 +8780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 29,
     "createdAt": "2024-04-14T23:48:42Z"
   },
   {
@@ -8826,9 +8826,9 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "23ovii",
-    "followers": 1,
-    "privateContributions": 67,
-    "publicContributions": 402,
+    "followers": 2,
+    "privateContributions": 51,
+    "publicContributions": 407,
     "createdAt": "2024-04-25T16:12:53Z"
   },
   {
@@ -8840,7 +8840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 84,
     "createdAt": "2024-07-30T15:17:12Z"
   },
   {
@@ -8850,21 +8850,21 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 366,
-    "publicContributions": 191,
+    "followers": 2,
+    "privateContributions": 370,
+    "publicContributions": 144,
     "createdAt": "2024-01-31T23:41:04Z"
   },
   {
     "login": "UserLEmanuel",
     "name": "Lepadatu Emanuel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/155634914?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/155634914?s=72&u=4c6b97e6ba89b5d825f1c5c3351adcc2cda41fbe&v=4",
     "location": "Timisoara, Romania",
-    "company": "not yet employed",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 29,
     "createdAt": "2024-01-04T11:18:32Z"
   },
   {
@@ -8876,7 +8876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 13,
     "createdAt": "2024-03-26T12:47:16Z"
   },
   {
@@ -8910,8 +8910,8 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 17,
+    "followers": 2,
+    "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2024-05-04T14:57:49Z"
   },

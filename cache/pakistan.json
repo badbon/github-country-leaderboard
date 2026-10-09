@@ -8540,7 +8540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 113,
     "createdAt": "2026-04-16T15:52:15Z"
   },
   {
@@ -8574,9 +8574,9 @@
     "location": "Pakistan,karachi",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 21,
     "createdAt": "2025-12-29T10:06:08Z"
   },
   {
@@ -8588,7 +8588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 187,
     "createdAt": "2026-01-20T13:23:44Z"
   },
   {
@@ -8600,7 +8600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 33,
     "createdAt": "2026-03-01T14:41:03Z"
   },
   {
@@ -8612,7 +8612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 75,
     "createdAt": "2026-03-21T21:32:06Z"
   },
   {
@@ -8628,18 +8628,6 @@
     "createdAt": "2026-03-25T01:12:34Z"
   },
   {
-    "login": "ranag786tech-lang",
-    "name": "RANA Hamza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/253780593?s=72&u=efad19e4c56254714440826c185d0d570234d584&v=4",
-    "location": "Pakistan",
-    "company": "Independent Developer",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 826,
-    "createdAt": "2026-01-08T18:03:49Z"
-  },
-  {
     "login": "salmanshabbirsahoo",
     "name": "Salman Shabbir",
     "avatarUrl": "https://avatars.githubusercontent.com/u/278764059?s=72&u=00754daf736ce985e8a90f787c1c06f911c33bbb&v=4",
@@ -8648,7 +8636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 24,
     "createdAt": "2026-04-23T17:15:51Z"
   },
   {
@@ -8678,13 +8666,13 @@
   {
     "login": "Ahmad-215",
     "name": "Ahmad Hassan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/258007521?s=72&u=99448dd00209a390bbc4f0ed3d963aa5066719b6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/258007521?s=72&u=7cefe2606a939a4ebeb2303c24d71f82081bf756&v=4",
     "location": "Nethry Road,Faisalabad,Punjab,Pakistan",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 122,
     "createdAt": "2026-01-29T12:39:08Z"
   },
   {
@@ -8696,7 +8684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 81,
     "createdAt": "2026-04-16T14:49:59Z"
   },
   {
@@ -8730,9 +8718,9 @@
     "location": "Islamabad,Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2026-04-30T06:03:18Z"
   },
   {
@@ -8746,18 +8734,6 @@
     "privateContributions": 0,
     "publicContributions": 66,
     "createdAt": "2026-03-06T12:47:42Z"
-  },
-  {
-    "login": "ikram-netsec",
-    "name": "Ikram Ullah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/282330767?s=72&u=196a4884ce69e81bd8b1dd482dd380b1793cd16c&v=4",
-    "location": "Malakand , Pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 36,
-    "createdAt": "2026-05-06T17:26:48Z"
   },
   {
     "login": "yasirdev05",
