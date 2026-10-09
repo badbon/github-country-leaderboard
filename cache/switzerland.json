@@ -5582,13 +5582,13 @@
   {
     "login": "fjhwajda",
     "name": "Kevin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/246962765?s=72&u=aa78355ba6772e3a9a7faad9ae95df696e0e4353&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/246962765?s=72&u=44778542317b9d182d4a8a1c8f44fb48d8f42187&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 29,
+    "privateContributions": 11,
+    "publicContributions": 32,
     "createdAt": "2025-11-30T09:18:49Z"
   },
   {
@@ -5600,7 +5600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 14,
     "createdAt": "2025-06-02T07:19:34Z"
   },
   {
@@ -5610,9 +5610,9 @@
     "location": "Switzerland",
     "company": "HiveShield",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 27,
     "createdAt": "2025-02-13T23:36:03Z"
   },
   {
@@ -5634,7 +5634,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2025-03-07T13:37:36Z"
@@ -5642,13 +5642,13 @@
   {
     "login": "alicanoymak",
     "name": "Alican Oymak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/234161816?s=72&u=5d4aafd1c5083249cfb98110003a549ebdc6cc20&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/234161816?s=72&v=4",
     "location": "Fribourg, Switzerland",
     "company": "University of Fribourg",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-09-24T09:36:26Z"
   },
   {
@@ -5659,8 +5659,8 @@
     "company": "Swissto12",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 72,
-    "publicContributions": 4,
+    "privateContributions": 67,
+    "publicContributions": 0,
     "createdAt": "2025-03-01T14:07:46Z"
   },
   {
@@ -5672,7 +5672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 89,
     "createdAt": "2025-09-03T17:53:09Z"
   },
   {
@@ -5684,7 +5684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 529,
+    "publicContributions": 631,
     "createdAt": "2025-04-14T08:02:20Z"
   },
   {
@@ -5720,7 +5720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 218,
     "createdAt": "2025-02-25T14:47:32Z"
   },
   {
@@ -5766,9 +5766,9 @@
     "location": "Lausanne,Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 147,
     "createdAt": "2025-09-23T17:03:05Z"
   },
   {
@@ -5780,7 +5780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-15T07:31:38Z"
   },
   {
@@ -5790,8 +5790,8 @@
     "location": "switzerland",
     "company": "azeo sarl",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 130,
+    "followers": 3,
+    "privateContributions": 415,
     "publicContributions": 0,
     "createdAt": "2025-07-31T21:02:11Z"
   },
@@ -5814,9 +5814,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 81,
     "createdAt": "2025-08-16T17:54:46Z"
   },
   {
@@ -167194,18 +167194,6 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2015-03-09T19:33:14Z"
-  },
-  {
-    "login": "nicolas-cozzarin",
-    "name": "Nicolas Cozzarin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11572984?s=72&u=bc44571476a25e2ff4de65f731cb1b42e9b69e17&v=4",
-    "location": "Geneve, Switzerland",
-    "company": "Union of Financial Corners Switzerland",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2015-03-20T13:33:21Z"
   },
   {
     "login": "miguelcorrea",

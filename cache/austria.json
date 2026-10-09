@@ -5832,30 +5832,6 @@
     "createdAt": "2024-06-10T13:31:47Z"
   },
   {
-    "login": "cyberh4ck3r",
-    "name": "Ben",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189793095?s=72&u=f5eb3d2454b7149e0f846fdef90cba219b04886d&v=4",
-    "location": "Vienna, Austria",
-    "company": "@flare-best",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 209,
-    "publicContributions": 5489,
-    "createdAt": "2024-11-26T21:09:54Z"
-  },
-  {
-    "login": "chimans",
-    "name": "Chiman Soltanian",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167295396?s=72&u=9722e562f4a10f167a568189be73d07b1e74dad2&v=4",
-    "location": "Austria, Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 10,
-    "publicContributions": 4,
-    "createdAt": "2024-04-17T08:24:05Z"
-  },
-  {
     "login": "ddemiral",
     "name": "Deniz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/188353137?s=72&u=8894284d7bf7d31931c8944fdbf22e5be16921e1&v=4",
@@ -5864,7 +5840,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2024-11-13T14:54:43Z"
   },
   {
@@ -5876,7 +5852,7 @@
     "twitterUsername": "Mohrezebra",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-09-18T01:45:52Z"
   },
   {
@@ -5888,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 10,
     "createdAt": "2024-10-10T12:16:56Z"
   },
   {
@@ -5900,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2024-11-13T13:58:11Z"
   },
   {
@@ -5911,8 +5887,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1,
-    "publicContributions": 5,
+    "privateContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2024-01-05T14:16:50Z"
   },
   {
@@ -5923,8 +5899,8 @@
     "company": "Dynatrace",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 681,
-    "publicContributions": 8,
+    "privateContributions": 864,
+    "publicContributions": 9,
     "createdAt": "2024-12-03T12:19:31Z"
   },
   {
@@ -5946,9 +5922,9 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2024-02-21T10:19:45Z"
   },
   {
@@ -5960,7 +5936,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 391,
+    "publicContributions": 427,
     "createdAt": "2024-04-03T12:46:48Z"
   },
   {
@@ -5972,7 +5948,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-08-10T06:41:20Z"
   },
   {
@@ -5994,9 +5970,9 @@
     "location": "Austria",
     "company": "orangetable",
     "twitterUsername": "TobiasBrida",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2024-10-22T09:08:22Z"
   },
   {
@@ -6019,8 +5995,8 @@
     "company": "Bamou",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 305,
-    "publicContributions": 6,
+    "privateContributions": 315,
+    "publicContributions": 5,
     "createdAt": "2024-02-14T13:16:36Z"
   },
   {
@@ -6032,7 +6008,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 9,
     "createdAt": "2024-06-17T11:33:39Z"
   },
   {
@@ -6044,7 +6020,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 207,
     "createdAt": "2024-06-14T13:58:14Z"
   },
   {
@@ -6055,8 +6031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 125,
-    "publicContributions": 446,
+    "privateContributions": 208,
+    "publicContributions": 420,
     "createdAt": "2024-01-19T13:01:44Z"
   },
   {
@@ -6068,7 +6044,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2024-06-02T07:57:21Z"
   },
   {

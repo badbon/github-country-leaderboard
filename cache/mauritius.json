@@ -5671,7 +5671,7 @@
     "company": "@hackersdotmu ",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 43,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2016-04-17T08:49:25Z"
   },
@@ -5682,8 +5682,8 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "danshilm",
-    "followers": 21,
-    "privateContributions": 300,
+    "followers": 22,
+    "privateContributions": 540,
     "publicContributions": 23,
     "createdAt": "2016-08-09T09:02:00Z"
   },
@@ -5694,9 +5694,9 @@
     "location": "Mauritius",
     "company": "@Arcode-Digital-Solutions ",
     "twitterUsername": "nicolasstrands",
-    "followers": 20,
-    "privateContributions": 878,
-    "publicContributions": 46,
+    "followers": 18,
+    "privateContributions": 1143,
+    "publicContributions": 53,
     "createdAt": "2016-11-16T00:31:10Z"
   },
   {
@@ -5706,8 +5706,8 @@
     "location": "Mauritius",
     "company": "@akadeusFx kapsview.com",
     "twitterUsername": "balzacLeGeek",
-    "followers": 19,
-    "privateContributions": 25,
+    "followers": 20,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2016-10-28T14:53:24Z"
   },
@@ -5718,7 +5718,7 @@
     "location": "Republic of Mauritius",
     "company": "@cyberstormdotmu",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-05-11T18:33:05Z"
@@ -5730,8 +5730,8 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 59,
+    "followers": 19,
+    "privateContributions": 114,
     "publicContributions": 2,
     "createdAt": "2016-01-27T12:20:14Z"
   },
@@ -5743,8 +5743,8 @@
     "company": "Pine Lab",
     "twitterUsername": "FrancSteve3",
     "followers": 17,
-    "privateContributions": 437,
-    "publicContributions": 52,
+    "privateContributions": 474,
+    "publicContributions": 64,
     "createdAt": "2016-02-10T07:02:35Z"
   },
   {
@@ -5756,20 +5756,8 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 65,
     "createdAt": "2016-04-17T12:49:06Z"
-  },
-  {
-    "login": "fkhoda",
-    "name": "Fadil Khodabuccus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/21953490?s=72&u=baa10a52d65ad1d5c7805e54cb929c2e6df0b973&v=4",
-    "location": "Republic of Mauritius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2016-09-02T12:41:41Z"
   },
   {
     "login": "mcflyhalf",
@@ -5838,7 +5826,7 @@
     "location": "Mauritius",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-23T03:30:57Z"
@@ -5863,8 +5851,8 @@
     "company": "@SharinPix @spoonconsulting @zfir-dev ",
     "twitterUsername": "_zfir_",
     "followers": 12,
-    "privateContributions": 4257,
-    "publicContributions": 476,
+    "privateContributions": 3737,
+    "publicContributions": 370,
     "createdAt": "2016-09-01T18:13:58Z"
   },
   {
@@ -5876,7 +5864,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-03-13T11:37:08Z"
   },
   {
@@ -5886,9 +5874,9 @@
     "location": "Mauritius",
     "company": "Upwork",
     "twitterUsername": "divyashie",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 4,
-    "publicContributions": 110,
+    "publicContributions": 99,
     "createdAt": "2016-09-08T07:26:37Z"
   },
   {

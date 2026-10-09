@@ -5719,8 +5719,8 @@
     "company": "Zynle Technologies",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 741,
-    "publicContributions": 1,
+    "privateContributions": 698,
+    "publicContributions": 2,
     "createdAt": "2022-02-18T16:49:39Z"
   },
   {
@@ -5732,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-08-14T19:41:25Z"
   },
   {
@@ -5822,26 +5822,14 @@
   {
     "login": "bwalya-305",
     "name": "Mwansa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108682385?s=72&u=8909d5c974e9a7a3f27e51185a690495916723a1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/108682385?s=72&u=e7f150b07d89d298e30d3bd2568abc43f4c0238c&v=4",
     "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "Mwansa305",
     "followers": 1,
-    "privateContributions": 76,
+    "privateContributions": 147,
     "publicContributions": 196,
     "createdAt": "2022-07-04T14:46:31Z"
-  },
-  {
-    "login": "PixelPat0",
-    "name": "Patrick Kafumukache",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107328924?s=72&u=38f178adfe8274168e9e47fb782862fe7942f79b&v=4",
-    "location": "Lusaka, Zambia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-06-12T00:12:03Z"
   },
   {
     "login": "Levylubinda",
@@ -5888,7 +5876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 49,
     "createdAt": "2022-11-28T05:41:57Z"
   },
   {

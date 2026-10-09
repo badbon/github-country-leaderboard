@@ -5540,7 +5540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 71,
     "createdAt": "2026-02-02T08:28:02Z"
   },
   {
@@ -5588,7 +5588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 273,
     "createdAt": "2026-01-09T00:34:48Z"
   },
   {
@@ -5598,7 +5598,7 @@
     "location": "VIETNAM",
     "company": "FREELANCER",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-02-18T06:14:03Z"
@@ -5612,7 +5612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 91,
     "createdAt": "2026-04-07T06:00:58Z"
   },
   {
@@ -5648,7 +5648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 51,
     "createdAt": "2026-03-03T04:16:49Z"
   },
   {
@@ -5682,9 +5682,9 @@
     "location": "Hanoi, Vietnam",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 41,
+    "followers": 2,
+    "privateContributions": 62,
+    "publicContributions": 67,
     "createdAt": "2026-02-20T09:42:45Z"
   },
   {
@@ -5698,18 +5698,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-04-01T11:13:33Z"
-  },
-  {
-    "login": "hot51press222",
-    "name": "Hot51 Press",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/261337671?s=72&u=5a3f3c37a86369f770712b0b8734276f335b206a&v=4",
-    "location": "Vietnam",
-    "company": "Hot51",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-02-13T02:46:49Z"
   },
   {
     "login": "vmh0001",
@@ -5742,22 +5730,10 @@
     "location": "Hanoi, VN",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 104,
     "createdAt": "2026-03-31T23:52:43Z"
-  },
-  {
-    "login": "killer123578910-droid",
-    "name": "Khuong Duy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/252141560?s=72&v=4",
-    "location": "Hanoi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 347,
-    "createdAt": "2025-12-30T08:04:19Z"
   },
   {
     "login": "anhluong447",

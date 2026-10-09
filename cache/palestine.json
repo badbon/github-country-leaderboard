@@ -5732,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 0,
     "createdAt": "2023-09-12T21:52:33Z"
   },
   {
@@ -5742,7 +5742,7 @@
     "location": "Ramallah, Palestine",
     "company": "Birzeit University",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-04-04T20:56:12Z"
@@ -5754,9 +5754,9 @@
     "location": "Palestine",
     "company": "Exalt Technologies",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 182,
     "createdAt": "2023-10-24T15:58:47Z"
   },
   {
@@ -5780,19 +5780,19 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 1,
     "createdAt": "2023-11-30T17:57:02Z"
   },
   {
     "login": "RoaNafi",
     "name": "Ro'a Nafi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132950905?s=72&u=f35121a4e186435f73ee041cbc2261a787ce3454&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132950905?s=72&v=4",
     "location": "Palestine ",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2023-05-08T20:40:43Z"
   },
   {
@@ -5802,9 +5802,9 @@
     "location": "PALESTINE ",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 368,
+    "publicContributions": 247,
     "createdAt": "2023-09-05T12:04:42Z"
   },
   {
@@ -5816,7 +5816,7 @@
     "twitterUsername": "AbedallaSbeata",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2023-04-21T21:10:27Z"
   },
   {
@@ -5828,7 +5828,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 11,
     "createdAt": "2023-10-08T11:14:46Z"
   },
   {
@@ -5863,8 +5863,8 @@
     "company": "University College of Applied Sciences Gaza",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 181,
-    "publicContributions": 343,
+    "privateContributions": 659,
+    "publicContributions": 347,
     "createdAt": "2023-02-21T07:22:28Z"
   },
   {
@@ -5886,9 +5886,9 @@
     "location": "Palestine-Ramallah-alarsal",
     "company": "Student at BZU",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 254,
+    "publicContributions": 222,
     "createdAt": "2023-12-27T14:36:54Z"
   },
   {
@@ -5898,7 +5898,7 @@
     "location": "Palestine",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2023-06-29T19:36:16Z"
@@ -5908,11 +5908,11 @@
     "name": "Saeed Mosaffer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132621749?s=72&u=723ce6d0e518c42fe7a0ff7f77208954f2d723e1&v=4",
     "location": "Palestine - Ramallah",
-    "company": "",
+    "company": "CyberX Solutions",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2023-05-04T22:11:46Z"
   },
   {
@@ -5923,8 +5923,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1,
-    "publicContributions": 6,
+    "privateContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2023-03-20T10:37:42Z"
   },
   {
@@ -5936,7 +5936,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-03-27T01:26:37Z"
   },
   {
@@ -5947,8 +5947,8 @@
     "company": "Palestine Technical University-Kadoorie",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2,
-    "publicContributions": 128,
+    "privateContributions": 11,
+    "publicContributions": 117,
     "createdAt": "2023-06-02T08:05:44Z"
   },
   {

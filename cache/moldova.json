@@ -5635,7 +5635,7 @@
     "company": "GoodLeap",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 510,
+    "privateContributions": 501,
     "publicContributions": 0,
     "createdAt": "2021-11-16T13:33:41Z"
   },
@@ -5647,7 +5647,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 568,
+    "privateContributions": 421,
     "publicContributions": 0,
     "createdAt": "2021-02-19T11:36:44Z"
   },
@@ -5672,20 +5672,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 22,
     "createdAt": "2021-01-17T11:33:07Z"
-  },
-  {
-    "login": "DanNuta",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88950510?s=72&u=d740b441db5ce93ba179b6039d0c2f9e26879910&v=4",
-    "location": "Chișinău, Moldova",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-08-14T22:35:15Z"
   },
   {
     "login": "LeoDavidov",
@@ -5707,8 +5695,8 @@
     "company": "Active Digital",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 16,
+    "privateContributions": 639,
+    "publicContributions": 24,
     "createdAt": "2021-08-05T07:00:50Z"
   },
   {
@@ -5780,7 +5768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2021-04-25T10:17:55Z"
   },
   {
@@ -5828,7 +5816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 81,
     "createdAt": "2021-03-15T07:40:30Z"
   },
   {
@@ -5845,7 +5833,7 @@
   },
   {
     "login": "Kloowy",
-    "name": "",
+    "name": "Alexei Cernogorov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93261232?s=72&u=79c0ff6dafefa9821363313b36b861e31326e128&v=4",
     "location": "Moldova, Chisinau",
     "company": "",

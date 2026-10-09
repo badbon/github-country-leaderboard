@@ -5664,18 +5664,6 @@
     "createdAt": "2020-09-28T17:08:55Z"
   },
   {
-    "login": "RastinAghighi",
-    "name": "Rastin Aghighi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72437143?s=72&v=4",
-    "location": "Kingston",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 245,
-    "publicContributions": 223,
-    "createdAt": "2020-10-06T08:03:06Z"
-  },
-  {
     "login": "Hapachew",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/66580242?s=72&v=4",
@@ -5696,7 +5684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 31,
     "createdAt": "2020-10-14T18:47:05Z"
   },
   {
@@ -5706,22 +5694,10 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 224,
+    "followers": 223,
     "privateContributions": 22,
-    "publicContributions": 297,
+    "publicContributions": 275,
     "createdAt": "2019-09-23T10:05:35Z"
-  },
-  {
-    "login": "BayBreezy",
-    "name": "Behon Baker",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53905713?s=72&u=8a5a30e9c15fd3310ee1c26884c494e5d615d2c8&v=4",
-    "location": "Jamaica",
-    "company": "",
-    "twitterUsername": "iAm_BayBreezy",
-    "followers": 164,
-    "privateContributions": 89,
-    "publicContributions": 1069,
-    "createdAt": "2019-08-08T13:10:32Z"
   },
   {
     "login": "DangaRanga",
@@ -5731,8 +5707,8 @@
     "company": "",
     "twitterUsername": "DengoRengo",
     "followers": 40,
-    "privateContributions": 1043,
-    "publicContributions": 53,
+    "privateContributions": 757,
+    "publicContributions": 1,
     "createdAt": "2019-09-06T21:09:27Z"
   },
   {
@@ -5754,9 +5730,9 @@
     "location": "Jamaica",
     "company": "The University Of The West Indies",
     "twitterUsername": "jondoescoding",
-    "followers": 37,
-    "privateContributions": 1946,
-    "publicContributions": 92,
+    "followers": 40,
+    "privateContributions": 1952,
+    "publicContributions": 93,
     "createdAt": "2019-08-09T02:32:38Z"
   },
   {
@@ -5766,9 +5742,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 407,
-    "publicContributions": 257,
+    "followers": 28,
+    "privateContributions": 374,
+    "publicContributions": 239,
     "createdAt": "2019-05-21T15:50:38Z"
   },
   {
@@ -5778,9 +5754,9 @@
     "location": "Jamaica",
     "company": "Osoobe",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 136,
-    "publicContributions": 57,
+    "followers": 23,
+    "privateContributions": 116,
+    "publicContributions": 37,
     "createdAt": "2019-08-03T22:03:07Z"
   },
   {
@@ -5791,7 +5767,7 @@
     "company": "GraceKennedy Financial Group",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1686,
+    "privateContributions": 2431,
     "publicContributions": 29,
     "createdAt": "2019-09-20T16:34:31Z"
   },
@@ -5802,9 +5778,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 44,
-    "publicContributions": 292,
+    "publicContributions": 283,
     "createdAt": "2019-08-19T18:39:01Z"
   },
   {
@@ -5826,9 +5802,9 @@
     "location": "Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 56,
-    "publicContributions": 558,
+    "followers": 17,
+    "privateContributions": 69,
+    "publicContributions": 595,
     "createdAt": "2019-04-05T16:41:31Z"
   },
   {
@@ -5862,9 +5838,9 @@
     "location": "Kingston, Jamaica",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 887,
-    "publicContributions": 23,
+    "followers": 12,
+    "privateContributions": 1193,
+    "publicContributions": 25,
     "createdAt": "2019-09-23T08:59:07Z"
   },
   {
@@ -5894,13 +5870,13 @@
   {
     "login": "HughScott2002",
     "name": "Hugh Scott",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48400324?s=72&u=dca1035ef4268ba57419ca395f004eeba6415738&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48400324?s=72&u=3e97f4cfad4a2a3b2dc8a320a9772cdc7e1546cd&v=4",
     "location": "Kingston, Jamaica ",
     "company": "",
     "twitterUsername": "hughscottjr",
-    "followers": 11,
-    "privateContributions": 650,
-    "publicContributions": 561,
+    "followers": 12,
+    "privateContributions": 808,
+    "publicContributions": 638,
     "createdAt": "2019-03-10T05:12:23Z"
   },
   {

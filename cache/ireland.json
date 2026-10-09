@@ -5576,7 +5576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 91,
     "createdAt": "2025-04-15T15:04:53Z"
   },
   {
@@ -5600,7 +5600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 204,
     "createdAt": "2025-11-15T11:28:42Z"
   },
   {
@@ -5611,8 +5611,8 @@
     "company": "Trinity College Dublin",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 252,
-    "publicContributions": 216,
+    "privateContributions": 251,
+    "publicContributions": 205,
     "createdAt": "2025-01-15T10:45:48Z"
   },
   {
@@ -5624,7 +5624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 724,
+    "publicContributions": 278,
     "createdAt": "2025-05-02T09:01:27Z"
   },
   {
@@ -5634,9 +5634,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 205,
     "createdAt": "2025-02-10T13:28:27Z"
   },
   {
@@ -5648,7 +5648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 76,
     "createdAt": "2025-03-27T14:29:18Z"
   },
   {
@@ -5670,9 +5670,9 @@
     "location": "Dublin",
     "company": "University College Dublin",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 225,
+    "publicContributions": 182,
     "createdAt": "2025-07-14T15:52:38Z"
   },
   {
@@ -5684,7 +5684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 158,
-    "publicContributions": 128,
+    "publicContributions": 105,
     "createdAt": "2025-04-03T14:54:48Z"
   },
   {
@@ -5696,7 +5696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-09T16:59:36Z"
   },
   {
@@ -5708,7 +5708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 87,
     "createdAt": "2025-09-21T11:16:26Z"
   },
   {
@@ -5730,9 +5730,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 12,
+    "followers": 3,
+    "privateContributions": 62,
+    "publicContributions": 14,
     "createdAt": "2025-11-04T21:30:26Z"
   },
   {
@@ -5744,7 +5744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 173,
+    "publicContributions": 175,
     "createdAt": "2025-10-29T20:35:19Z"
   },
   {
@@ -5756,20 +5756,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 75,
     "createdAt": "2025-02-14T13:44:17Z"
-  },
-  {
-    "login": "danielaapaiva",
-    "name": "Daniela Paiva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/244815873?s=72&u=22bc34ab679cf28889c52d49ffd777f6f02b7c70&v=4",
-    "location": "Dublin",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2025-11-18T20:11:51Z"
   },
   {
     "login": "michaelonf",
@@ -5780,20 +5768,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 6,
     "createdAt": "2025-02-14T09:37:25Z"
-  },
-  {
-    "login": "cleptoio",
-    "name": "Clepto.io",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227298705?s=72&u=54532892c27a3b35aa8379dd8451624599080bf5&v=4",
-    "location": "Dublin",
-    "company": "Clepto.io",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-08-19T02:21:02Z"
   },
   {
     "login": "Shelly892",
@@ -5802,9 +5778,9 @@
     "location": "Dublin",
     "company": "UCD",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 73,
     "createdAt": "2025-01-27T13:16:34Z"
   },
   {

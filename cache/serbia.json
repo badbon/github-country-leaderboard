@@ -5624,7 +5624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 17,
-    "publicContributions": 25,
+    "publicContributions": 39,
     "createdAt": "2024-01-04T13:04:43Z"
   },
   {
@@ -5662,18 +5662,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-20T19:27:39Z"
-  },
-  {
-    "login": "simonkataev",
-    "name": "Simon Kataev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159709762?s=72&u=991f46e6d888b291b856f94393adc9c1c4724e0d&v=4",
-    "location": "Belgrade, Serbia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 1,
-    "createdAt": "2024-02-11T15:13:34Z"
   },
   {
     "login": "SlavicMango",
@@ -5744,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 43,
     "createdAt": "2024-07-28T15:32:00Z"
   },
   {
@@ -5768,7 +5756,7 @@
     "twitterUsername": "WarehouseDevJS",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2024-01-10T18:16:41Z"
   },
   {
@@ -5839,7 +5827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 29,
     "publicContributions": 0,
     "createdAt": "2024-01-26T16:09:26Z"
   },
@@ -5851,7 +5839,7 @@
     "company": "Nutanix",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 604,
+    "privateContributions": 557,
     "publicContributions": 0,
     "createdAt": "2024-01-03T15:04:45Z"
   },

@@ -5648,7 +5648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 114,
     "createdAt": "2023-10-11T11:15:07Z"
   },
   {
@@ -5660,7 +5660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 64,
     "createdAt": "2023-05-05T12:19:52Z"
   },
   {
@@ -5671,8 +5671,8 @@
     "company": "Message Spring",
     "twitterUsername": "yanminthwin",
     "followers": 39,
-    "privateContributions": 2030,
-    "publicContributions": 525,
+    "privateContributions": 3240,
+    "publicContributions": 813,
     "createdAt": "2022-07-29T16:40:10Z"
   },
   {
@@ -5682,7 +5682,7 @@
     "location": "Yangon , Myanmar (Burma)",
     "company": "Full-Stack Developer",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2022-02-09T05:45:59Z"
@@ -5695,8 +5695,8 @@
     "company": "TalentOS",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1246,
-    "publicContributions": 242,
+    "privateContributions": 1746,
+    "publicContributions": 196,
     "createdAt": "2022-08-16T03:07:54Z"
   },
   {
@@ -5706,7 +5706,7 @@
     "location": "Burma",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-19T13:09:00Z"
@@ -5718,9 +5718,9 @@
     "location": "Burma",
     "company": "@The-Artificium",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 2370,
-    "publicContributions": 100,
+    "followers": 5,
+    "privateContributions": 2103,
+    "publicContributions": 88,
     "createdAt": "2022-10-06T03:52:56Z"
   },
   {
@@ -5730,9 +5730,9 @@
     "location": "Salin, Magway, Burma",
     "company": "I haven't Company, I just learning",
     "twitterUsername": "BhoneMy44530397",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-05-21T11:42:49Z"
   },
   {
@@ -5744,7 +5744,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 21,
     "createdAt": "2022-10-24T06:11:03Z"
   },
   {
@@ -5755,7 +5755,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 203,
+    "privateContributions": 163,
     "publicContributions": 7,
     "createdAt": "2022-02-05T04:02:12Z"
   },
@@ -5784,18 +5784,6 @@
     "createdAt": "2022-01-03T05:35:03Z"
   },
   {
-    "login": "HapiPiRonin",
-    "name": "Nay Lin Aung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118907074?s=72&u=d1c7fbeaa07697c658f5b0919853c58d4c8a4289&v=4",
-    "location": "Burma",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2022-11-23T13:14:11Z"
-  },
-  {
     "login": "myoominnoo",
     "name": "Minn Oo ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97452465?s=72&u=d9508508639e18321b81ed9d819116fa18429c60&v=4",
@@ -5816,7 +5804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 84,
     "createdAt": "2022-03-10T03:15:55Z"
   },
   {
@@ -5838,9 +5826,9 @@
     "location": "Myanmar",
     "company": "Vithey",
     "twitterUsername": "",
-    "followers": 243,
-    "privateContributions": 4,
-    "publicContributions": 370,
+    "followers": 238,
+    "privateContributions": 7,
+    "publicContributions": 289,
     "createdAt": "2022-03-30T06:47:35Z"
   },
   {
@@ -5850,9 +5838,9 @@
     "location": "Myanmar, Yangon",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 214,
-    "privateContributions": 3461,
-    "publicContributions": 149,
+    "followers": 209,
+    "privateContributions": 3538,
+    "publicContributions": 126,
     "createdAt": "2022-02-07T14:09:30Z"
   },
   {

@@ -5730,8 +5730,8 @@
     "location": "Montevideo, Uruguay",
     "company": "@xmartlabs",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 445,
+    "followers": 8,
+    "privateContributions": 597,
     "publicContributions": 2,
     "createdAt": "2023-06-04T01:43:24Z"
   },
@@ -5742,9 +5742,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 883,
+    "publicContributions": 1234,
     "createdAt": "2023-03-09T13:08:16Z"
   },
   {
@@ -5754,9 +5754,9 @@
     "location": "Punta del Este, Uruguay.",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 1,
-    "publicContributions": 91,
+    "publicContributions": 88,
     "createdAt": "2023-04-25T14:37:17Z"
   },
   {
@@ -5778,9 +5778,9 @@
     "location": "Uruguay",
     "company": "@pentoai",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 2050,
-    "publicContributions": 445,
+    "followers": 14,
+    "privateContributions": 3001,
+    "publicContributions": 494,
     "createdAt": "2023-03-30T01:35:38Z"
   },
   {
@@ -5792,7 +5792,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-06-28T22:01:26Z"
   },
   {
@@ -5827,8 +5827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 5,
-    "publicContributions": 25,
+    "privateContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2023-06-01T08:55:08Z"
   },
   {
@@ -5839,8 +5839,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 16,
-    "publicContributions": 400,
+    "privateContributions": 73,
+    "publicContributions": 358,
     "createdAt": "2023-04-25T15:10:01Z"
   },
   {
@@ -5852,7 +5852,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 383,
+    "publicContributions": 343,
     "createdAt": "2023-03-04T21:41:12Z"
   },
   {
@@ -5868,27 +5868,15 @@
     "createdAt": "2023-03-22T15:31:47Z"
   },
   {
-    "login": "cachel2",
-    "name": "Axel Ibarrondo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135344010?s=72&u=b5adfceeec70a10ab90a31836cd8395fa1e62e9e&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 388,
-    "publicContributions": 688,
-    "createdAt": "2023-06-02T13:49:52Z"
-  },
-  {
     "login": "JoaquinBatser",
     "name": "Joaquin Batista",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121537378?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121537378?s=72&u=85d38d9f74f6db97df183023cc4f585b6e5bd587&v=4",
     "location": "Uruguay",
     "company": "NextStep",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1942,
-    "publicContributions": 79,
+    "followers": 16,
+    "privateContributions": 2731,
+    "publicContributions": 51,
     "createdAt": "2022-12-28T05:55:48Z"
   },
   {
@@ -5899,7 +5887,7 @@
     "company": "A11ySolutions",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1145,
+    "privateContributions": 1593,
     "publicContributions": 24,
     "createdAt": "2023-03-06T06:44:01Z"
   },
@@ -5910,9 +5898,9 @@
     "location": "Uruguay",
     "company": "Silver RIver",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 2363,
-    "publicContributions": 11,
+    "followers": 12,
+    "privateContributions": 3403,
+    "publicContributions": 13,
     "createdAt": "2023-08-15T18:05:56Z"
   },
   {
@@ -5922,8 +5910,8 @@
     "location": "Uruguay, Canelones, Las Piedras",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 16,
+    "followers": 12,
+    "privateContributions": 19,
     "publicContributions": 0,
     "createdAt": "2023-06-05T23:52:20Z"
   },
@@ -5948,7 +5936,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 5,
     "createdAt": "2023-02-06T17:45:05Z"
   },
   {
@@ -5960,7 +5948,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2023-04-19T12:47:01Z"
   },
   {

@@ -5646,7 +5646,7 @@
     "location": "Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2025-01-30T13:33:32Z"
@@ -5665,14 +5665,14 @@
   },
   {
     "login": "qneolabs",
-    "name": "QNeo",
+    "name": "Qneolabs",
     "avatarUrl": "https://avatars.githubusercontent.com/u/241183730?s=72&u=3fba0ea0b696f40bbefb35d8280277a4e6502a4a&v=4",
     "location": "Thailand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
+    "company": "Qneolabs",
+    "twitterUsername": "qneolabs",
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2025-10-30T18:47:04Z"
   },
   {
@@ -5696,7 +5696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 21,
     "createdAt": "2025-11-28T08:14:26Z"
   },
   {
@@ -5707,8 +5707,8 @@
     "company": "@psu",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
-    "publicContributions": 49,
+    "privateContributions": 0,
+    "publicContributions": 51,
     "createdAt": "2025-03-02T20:36:49Z"
   },
   {
@@ -5732,7 +5732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 237,
+    "publicContributions": 218,
     "createdAt": "2025-07-08T06:15:32Z"
   },
   {
@@ -5744,7 +5744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 15,
-    "publicContributions": 183,
+    "publicContributions": 158,
     "createdAt": "2025-06-29T22:16:59Z"
   },
   {
@@ -5756,7 +5756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-07-12T16:26:23Z"
   },
   {
@@ -5768,7 +5768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 19,
     "createdAt": "2025-06-27T14:45:28Z"
   },
   {
@@ -5786,13 +5786,13 @@
   {
     "login": "TupJed06",
     "name": "Tupjed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229947852?s=72&u=47011e905290fc833ce86b4ae6c6da52d63aed76&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229947852?s=72&u=4889153a187fdee580db00bffdbb809c52680d08&v=4",
     "location": "BKK, Thailand",
     "company": "Chulalongkorn University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 99,
-    "publicContributions": 19,
+    "privateContributions": 103,
+    "publicContributions": 18,
     "createdAt": "2025-09-02T12:05:57Z"
   },
   {
@@ -5804,7 +5804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 11,
     "createdAt": "2025-06-03T16:28:51Z"
   },
   {
@@ -5864,19 +5864,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 33,
     "createdAt": "2025-03-30T12:20:07Z"
   },
   {
     "login": "sapphanyu",
     "name": "Sapphanyu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/230401503?s=72&u=c515a28f6fce725e5ea8b68f1dca1fed3ce60f66&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/230401503?s=72&u=3f346a4990d3b8536fc2a41750ad9196ffed0171&v=4",
     "location": "Thailand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 183,
     "createdAt": "2025-09-04T15:41:01Z"
   },
   {

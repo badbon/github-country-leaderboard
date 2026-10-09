@@ -5574,9 +5574,9 @@
     "location": "Auckland, New Zealand",
     "company": "University of Auckland",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 432,
     "createdAt": "2024-04-24T06:55:03Z"
   },
   {
@@ -5611,7 +5611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 105,
+    "privateContributions": 104,
     "publicContributions": 94,
     "createdAt": "2024-12-26T03:51:34Z"
   },
@@ -5636,7 +5636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 60,
     "createdAt": "2024-02-27T02:55:09Z"
   },
   {
@@ -5660,7 +5660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-03-28T22:16:30Z"
   },
   {
@@ -5672,7 +5672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 41,
     "createdAt": "2024-08-12T20:05:58Z"
   },
   {
@@ -5708,7 +5708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 15,
     "createdAt": "2024-03-08T06:22:20Z"
   },
   {
@@ -5720,7 +5720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 24,
     "createdAt": "2024-10-14T20:13:40Z"
   },
   {
@@ -5736,18 +5736,6 @@
     "createdAt": "2024-12-15T20:54:55Z"
   },
   {
-    "login": "Greetman",
-    "name": "Greetsew",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157212060?s=72&u=3d910e3cc488a546e56f8754942ea21a3f60655f&v=4",
-    "location": "New Zealand",
-    "company": "Greetsew",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2024-01-20T10:48:35Z"
-  },
-  {
     "login": "dennycgan",
     "name": "Denny C. Gan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/161263769?s=72&u=535c76a589295da0f27952aefef6ed4e6d9e5660&v=4",
@@ -5755,8 +5743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 158,
-    "publicContributions": 204,
+    "privateContributions": 914,
+    "publicContributions": 208,
     "createdAt": "2024-02-26T00:52:47Z"
   },
   {
@@ -5767,8 +5755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 125,
-    "publicContributions": 27,
+    "privateContributions": 164,
+    "publicContributions": 30,
     "createdAt": "2024-02-26T23:52:31Z"
   },
   {

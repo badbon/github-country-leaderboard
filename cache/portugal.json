@@ -5622,9 +5622,9 @@
     "location": "Portugal",
     "company": "AJM",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 138,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 131,
     "createdAt": "2025-10-28T16:21:29Z"
   },
   {
@@ -5642,13 +5642,13 @@
   {
     "login": "jessgaspardev",
     "name": "Jess Gaspar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203904120?s=72&u=dd5034fe3231f56bd450f549d02cf1b1606eff92&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203904120?s=72&u=12e98b33f0e48f45569287d04ef6144a869b8d2d&v=4",
     "location": "Portugal",
     "company": "",
-    "twitterUsername": "_gasparjs",
+    "twitterUsername": "jsgaspardev",
     "followers": 2,
-    "privateContributions": 301,
-    "publicContributions": 104,
+    "privateContributions": 784,
+    "publicContributions": 135,
     "createdAt": "2025-03-18T19:57:20Z"
   },
   {
@@ -5660,7 +5660,7 @@
     "twitterUsername": "foahlouis",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2025-10-07T08:00:01Z"
   },
   {
@@ -5672,7 +5672,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 44,
     "createdAt": "2025-03-22T00:46:22Z"
   },
   {
@@ -5696,7 +5696,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-09-19T07:45:38Z"
   },
   {
@@ -5730,8 +5730,8 @@
     "location": "Fafe, Portugal",
     "company": "Universidade Do Minho",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 41,
+    "followers": 4,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2025-04-23T13:52:20Z"
   },
@@ -5754,7 +5754,7 @@
     "location": "Sintra, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-10T17:59:42Z"
@@ -5780,7 +5780,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-05-30T09:43:19Z"
   },
   {
@@ -5792,7 +5792,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 16,
-    "publicContributions": 227,
+    "publicContributions": 197,
     "createdAt": "2025-03-22T19:19:26Z"
   },
   {
@@ -5802,7 +5802,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "miguelkiwi",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2025-10-22T12:51:37Z"
@@ -5816,7 +5816,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 91,
     "createdAt": "2025-10-01T23:01:35Z"
   },
   {
@@ -5828,7 +5828,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 116,
     "createdAt": "2025-05-02T16:10:05Z"
   },
   {
@@ -5850,9 +5850,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1417,
+    "publicContributions": 2001,
     "createdAt": "2025-06-10T23:45:04Z"
   },
   {
@@ -116866,18 +116866,6 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2020-05-07T04:51:12Z"
-  },
-  {
-    "login": "MatheusFelizardo",
-    "name": "Matheus Felizardo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63763269?s=72&u=a89f9f7e21cb649d5ad23231e0cac191f66287b4&v=4",
-    "location": "Porto, Portugal",
-    "company": "Envivent",
-    "twitterUsername": "",
-    "followers": 51,
-    "privateContributions": 10,
-    "publicContributions": 34,
-    "createdAt": "2020-04-16T02:12:14Z"
   },
   {
     "login": "isabellamunizgoncalves",
