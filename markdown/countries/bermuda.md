@@ -21,17 +21,17 @@ Indexed users: 902
 | 7 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 6,998 |
 | 8 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 6,833 |
 | 9 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 6,508 |
-| 10 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,002 |
-| 11 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 5,649 |
-| 12 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,557 |
-| 13 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 4,669 |
+| 10 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,466 |
+| 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,148 |
+| 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,002 |
+| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,557 |
 | 14 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 4,644 |
 | 15 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,426 |
 | 16 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,278 |
 | 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,029 |
-| 18 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 3,703 |
-| 19 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | Hamilton, Ontario | 3,415 |
-| 20 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 3,402 |
+| 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 3,786 |
+| 19 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 3,703 |
+| 20 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | Hamilton, Ontario | 3,415 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [Utsav360](https://github.com/Utsav360) | Utsavkumar Patel | Greater Hamilton(Burlington) Area | 66 |
 
-Generated: 2026-10-09T10:00:37.259Z
+Generated: 2026-10-09T10:50:59.608Z

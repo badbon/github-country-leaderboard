@@ -1,6 +1,6 @@
 # Public Contributions - Cape Verde
 
-Generated: 2026-10-09T10:02:36.494Z
+Generated: 2026-10-09T10:52:59.901Z
 
 Users: 561
 
@@ -14,7 +14,7 @@ Users: 561
 | 6 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido |  |  | praia grande-sp | 691 |
 | 7 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  |  |  | Praia grande - sp | 556 |
 | 8 | [Coyas](https://github.com/Coyas) | Ailton Duarte | TerraSystem | A_coyas | Praia, Cabo Verde | 466 |
-| 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes |  |  | Praia Grande - SP | 414 |
+| 9 | [IgorBern02](https://github.com/IgorBern02) | Igor Bernardes |  |  | Praia Grande - SP | 404 |
 | 10 | [eduardosaraujo1](https://github.com/eduardosaraujo1) | Eduardo S Araujo | Fatec Praia Grande |  | Praia Grande | 401 |
 | 11 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 379 |
 | 12 | [rafarfelipe](https://github.com/rafarfelipe) | Rafael Felipe |  |  | Praia Grande - SP | 324 |

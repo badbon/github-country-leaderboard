@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-09T10:05:21.693Z
+Generated: 2026-10-09T10:58:38.404Z
 
 Users: 695
 
@@ -21,8 +21,8 @@ Users: 695
 | 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | @altiustechnology |  | Kinshasa, DRC | 5501 |
 | 14 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 4996 |
 | 15 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | @napp-inc  | peniel_dialu | Kinshasa, DRC | 4954 |
-| 16 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Freelancer |  | Democratic Republic of Congo | 4647 |
-| 17 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin |  | negroconstantin | Kinshasa | 4546 |
-| 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Faharix |  | Kinshasa | 4531 |
-| 19 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Freelance | GuerthManzala | Kinshasa/RDC | 4439 |
-| 20 | [hervinhio](https://github.com/hervinhio) | Hervé Kyle MUTOMBO MATANDA | Cinq Five | hervinhio | Kinshasa, Democratic Republic of Congo | 4358 |
+| 16 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Yetulab ltd |  | Kinshasa | 4929 |
+| 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Freelancer |  | Democratic Republic of Congo | 4647 |
+| 18 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin |  | negroconstantin | Kinshasa | 4546 |
+| 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Faharix |  | Kinshasa | 4531 |
+| 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Freelance | GuerthManzala | Kinshasa/RDC | 4439 |

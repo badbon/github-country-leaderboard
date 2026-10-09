@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-09T10:13:11.644Z
+Generated: 2026-10-09T11:03:58.548Z
 
 Users: 1582
 
@@ -9,9 +9,9 @@ Users: 1582
 | 1 | [davideagle](https://github.com/davideagle) | davideagle |  |  | Iceland | 19520 |
 | 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | KrashidBuilt |  | Reykjavík, Iceland | 17861 |
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason |  |  | Akureyri, Iceland | 16153 |
-| 4 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12026 |
-| 5 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt |  |  | Reykjavík, Iceland | 10894 |
-| 6 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 9269 |
+| 4 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 14616 |
+| 5 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12026 |
+| 6 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt |  |  | Reykjavík, Iceland | 10894 |
 | 7 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Lóalóa |  | Reykjavík, Iceland | 8780 |
 | 8 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 8749 |
 | 9 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | @Daveloehf  | Chipcius | Reykjavik, Iceland | 7531 |

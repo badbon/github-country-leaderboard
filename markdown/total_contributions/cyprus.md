@@ -1,8 +1,8 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-09T10:04:41.919Z
+Generated: 2026-10-09T10:57:47.290Z
 
-Users: 2748
+Users: 2747
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -12,7 +12,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 21,399 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 21,440 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,221 |
 | 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,115 |
 | 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,859 |
@@ -26,7 +26,7 @@ Indexed users: 236
 | 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 974 |
 | 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 786 |
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 777 |
-| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 747 |
+| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 745 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
 | 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 538 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-09T09:59:48.167Z
+Generated: 2026-10-09T10:49:53.104Z

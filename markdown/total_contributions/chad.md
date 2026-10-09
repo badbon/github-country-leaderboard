@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-09T10:03:04.186Z
+Generated: 2026-10-09T10:54:20.514Z
 
 Users: 200
 
@@ -19,7 +19,7 @@ Users: 200
 | 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 162 |
 | 12 | [Solid2017](https://github.com/Solid2017) | Betan Gildas Ongbaye | Igotech |  | Chad | 155 |
 | 13 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown |  |  | West Joshuaburgh, Chad | 135 |
-| 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 125 |
+| 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 122 |
 | 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 119 |
 | 16 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
 | 17 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 90 |

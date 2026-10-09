@@ -1,8 +1,8 @@
 # Public Contributions - Ghana
 
-Generated: 2026-10-09T10:10:10.242Z
+Generated: 2026-10-09T11:00:58.754Z
 
-Users: 7111
+Users: 7109
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 7111
 | 12 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo |  |  | Accra, Ghana | 2719 |
 | 13 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Pareto.AI |  | Accra | 2610 |
 | 14 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | @Atlas iMeta Solution | sirr_nathan | Accra \|\| Koforidua | 2557 |
-| 15 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey |  | domfortunez | Accra | 2387 |
-| 16 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | @SeViVI-Tese  | CodeJoeTheDuke | Accra, Ghana | 2295 |
-| 17 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Cyber |  | Accra | 2294 |
-| 18 | [collinsasante](https://github.com/collinsasante) | Collins Asante |  |  | Accra, Ghana | 2291 |
-| 19 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi |  |  | Accra Ghana | 2176 |
-| 20 | [hayfordstanley](https://github.com/hayfordstanley) | Stanley Hayford | @betikake  |  | Accra, Ghana | 2146 |
+| 15 | [gideonadeti](https://github.com/gideonadeti) | Gideon Adeti | WeAMP | gideonadeti0 | Accra, Ghana | 2518 |
+| 16 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey |  | domfortunez | Accra | 2387 |
+| 17 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | @SeViVI-Tese  | CodeJoeTheDuke | Accra, Ghana | 2295 |
+| 18 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Cyber |  | Accra | 2294 |
+| 19 | [collinsasante](https://github.com/collinsasante) | Collins Asante |  |  | Accra, Ghana | 2291 |
+| 20 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi |  |  | Accra Ghana | 2176 |

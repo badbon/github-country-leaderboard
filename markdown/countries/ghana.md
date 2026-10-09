@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,111
+Indexed users: 7,109
 
 | Leaderboard | Link |
 |---|---|
@@ -51,12 +51,12 @@ Indexed users: 7,111
 | 12 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
 | 13 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
 | 14 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 2,557 |
-| 15 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
-| 16 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
-| 17 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
-| 18 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
-| 19 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,176 |
-| 20 | [hayfordstanley](https://github.com/hayfordstanley) | Stanley Hayford | Accra, Ghana | 2,146 |
+| 15 | [gideonadeti](https://github.com/gideonadeti) | Gideon Adeti | Accra, Ghana | 2,518 |
+| 16 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
+| 17 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
+| 18 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
+| 19 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
+| 20 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,176 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,111
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-09T10:10:10.242Z
+Generated: 2026-10-09T11:00:58.754Z

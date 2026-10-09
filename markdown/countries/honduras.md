@@ -14,10 +14,10 @@ Indexed users: 1,267
 |---:|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,555 |
 | 2 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 11,748 |
-| 3 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 8,223 |
-| 4 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,116 |
-| 5 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 6,667 |
-| 6 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Honduras | 5,459 |
+| 3 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Tegucigalpa, Honduras | 11,495 |
+| 4 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 8,223 |
+| 5 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,116 |
+| 6 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 6,667 |
 | 7 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 5,401 |
 | 8 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 5,310 |
 | 9 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 5,093 |
@@ -83,4 +83,4 @@ Indexed users: 1,267
 | 19 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 20 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 
-Generated: 2026-10-09T10:12:36.382Z
+Generated: 2026-10-09T11:03:03.660Z

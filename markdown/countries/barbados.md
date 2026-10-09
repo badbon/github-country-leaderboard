@@ -17,7 +17,7 @@ Indexed users: 133
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,710 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,156 |
 | 5 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,567 |
-| 6 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,532 |
+| 6 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,533 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,835 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,717 |
 | 9 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,329 |
@@ -69,7 +69,7 @@ Indexed users: 133
 | 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 | Barbados 🇧🇧 | 161 |
 | 6 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 84 |
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | Barbados | 48 |
-| 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 33 |
+| 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 34 |
 | 9 | [fibini](https://github.com/fibini) | Fabien Brathwaite | Barbados | 24 |
 | 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS | Barbados | 22 |
 | 11 | [intricate](https://github.com/intricate) | Luke | Barbados | 20 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-09T10:00:00.549Z
+Generated: 2026-10-09T10:50:33.804Z

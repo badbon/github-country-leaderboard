@@ -19,10 +19,10 @@ Indexed users: 728
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,045 |
 | 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 5,444 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 5,407 |
-| 8 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,660 |
-| 9 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,427 |
-| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,417 |
-| 11 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 4,379 |
+| 8 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin | Bahrain | 5,075 |
+| 9 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,660 |
+| 10 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,427 |
+| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,417 |
 | 12 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 4,304 |
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,119 |
 | 14 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,774 |
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [iamohd-zz](https://github.com/iamohd-zz) | Mohammed Isa | Bahrain | 37 |
 
-Generated: 2026-10-09T09:59:53.605Z
+Generated: 2026-10-09T10:50:26.165Z

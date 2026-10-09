@@ -1,6 +1,6 @@
 # Followers - Barbados
 
-Generated: 2026-10-09T10:00:00.549Z
+Generated: 2026-10-09T10:50:33.804Z
 
 Users: 133
 
@@ -13,7 +13,7 @@ Users: 133
 | 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 |  |  | Barbados 🇧🇧 | 161 |
 | 6 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Dharach  | hammertoe | Barbados | 84 |
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | @everos-labs | owanhunte | Barbados | 48 |
-| 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 33 |
+| 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu |  |  | Barbados | 34 |
 | 9 | [fibini](https://github.com/fibini) | Fabien Brathwaite |  | Onenewpage1 | Barbados | 24 |
 | 10 | [JL-ALPHA](https://github.com/JL-ALPHA) | Jermaine LUCΛS |  |  | Barbados | 22 |
 | 11 | [intricate](https://github.com/intricate) | Luke | @MercuryTechnologies |  | Barbados | 20 |

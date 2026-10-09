@@ -29,7 +29,7 @@ Indexed users: 533
 | 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,958 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
 | 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,718 |
-| 18 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,652 |
+| 18 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,656 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,514 |
 | 20 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,427 |
 
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-09T10:01:34.812Z
+Generated: 2026-10-09T10:52:08.353Z

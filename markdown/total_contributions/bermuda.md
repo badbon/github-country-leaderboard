@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-09T10:00:37.259Z
+Generated: 2026-10-09T10:50:59.608Z
 
 Users: 902
 
@@ -15,14 +15,14 @@ Users: 902
 | 7 | [bokmann](https://github.com/bokmann) | David Bock | @loudouncodes | bokmann | Hamilton, VA | 6998 |
 | 8 | [eimaj](https://github.com/eimaj) | Jamie Allen | @Enflick  |  | Hamilton | 6833 |
 | 9 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 6508 |
-| 10 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6002 |
-| 11 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 5649 |
-| 12 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5557 |
-| 13 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 4669 |
+| 10 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 6466 |
+| 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6148 |
+| 12 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6002 |
+| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5557 |
 | 14 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 4644 |
 | 15 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4426 |
 | 16 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4278 |
 | 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4029 |
-| 18 | [adriand](https://github.com/adriand) | Adrian Duyzer |  |  | Hamilton, Ontario | 3703 |
-| 19 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | sitefinitysteve | stevemcniven | Hamilton, Ontario | 3415 |
-| 20 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 3402 |
+| 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | @fankave  | osamaaamer | Hamilton, NZ | 3786 |
+| 19 | [adriand](https://github.com/adriand) | Adrian Duyzer |  |  | Hamilton, Ontario | 3703 |
+| 20 | [sitefinitysteve](https://github.com/sitefinitysteve) | Steve McNiven-Scott | sitefinitysteve | stevemcniven | Hamilton, Ontario | 3415 |

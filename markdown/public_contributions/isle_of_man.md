@@ -1,12 +1,12 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-09T10:15:35.776Z
+Generated: 2026-10-09T11:05:45.740Z
 
 Users: 155
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 4090 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 4153 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 885 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin |  |  | Douglas, Isle of Man | 724 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 721 |

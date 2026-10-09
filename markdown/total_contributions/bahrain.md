@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-09T09:59:53.605Z
+Generated: 2026-10-09T10:50:26.165Z
 
 Users: 728
 
@@ -13,10 +13,10 @@ Users: 728
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 6045 |
 | 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 5444 |
 | 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 5407 |
-| 8 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 4660 |
-| 9 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4427 |
-| 10 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4417 |
-| 11 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 4379 |
+| 8 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 5075 |
+| 9 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 4660 |
+| 10 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4427 |
+| 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4417 |
 | 12 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 4304 |
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4119 |
 | 14 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3774 |

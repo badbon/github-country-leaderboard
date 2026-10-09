@@ -12,10 +12,10 @@ Indexed users: 11
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,294 |
+| 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 1,296 |
 | 2 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 855 |
 | 3 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 636 |
-| 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 421 |
+| 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 424 |
 | 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 229 |
 | 6 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel | Bangui, Central African Republic | 190 |
 | 7 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 44 |
@@ -31,7 +31,7 @@ Indexed users: 11
 | 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 297 |
 | 2 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 229 |
 | 3 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 120 |
-| 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 87 |
+| 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 90 |
 | 5 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 56 |
 | 6 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 44 |
 | 7 | [hermanmandaba](https://github.com/hermanmandaba) | Hermann Mandaba | Bangui, Cenral African Republic | 23 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | Bangui, République Centrafricaine | 1 |
 | 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU | Bangui | 1 |
 
-Generated: 2026-10-09T10:03:00.987Z
+Generated: 2026-10-09T10:53:40.394Z

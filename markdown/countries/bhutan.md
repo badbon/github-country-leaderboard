@@ -13,7 +13,7 @@ Indexed users: 268
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | Thimphu, Bhutan | 5,757 |
-| 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,103 |
+| 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering | Thimphu, Bhutan | 5,099 |
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 3,615 |
 | 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 3,515 |
 | 5 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | Thimphu, Bhutan | 3,392 |
@@ -25,11 +25,11 @@ Indexed users: 268
 | 11 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 2,021 |
 | 12 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,956 |
 | 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,936 |
-| 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,913 |
+| 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,911 |
 | 15 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,807 |
 | 16 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,794 |
 | 17 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | Babesa, Thimphu | 1,792 |
-| 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,758 |
+| 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk | Thimphu, Bhutan | 1,748 |
 | 19 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung | Thimphu Bhutan | 1,719 |
 | 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice | Bhutan | 1,597 |
 
@@ -48,7 +48,7 @@ Indexed users: 268
 | 9 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 385 |
 | 10 | [lakikishorsubba](https://github.com/lakikishorsubba) | Laki Kishor Subba | Thimphu,Bhutan | 322 |
 | 11 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 297 |
-| 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 233 |
+| 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 229 |
 | 13 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 186 |
 | 14 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 170 |
 | 15 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-09T10:00:41.738Z
+Generated: 2026-10-09T10:51:59.101Z
