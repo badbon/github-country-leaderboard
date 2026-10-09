@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-09T01:43:24.901Z
+Generated: 2026-10-09T02:56:08.801Z
 
 Users: 475
 
@@ -8,8 +8,8 @@ Users: 475
 |---:|---|---|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 8264 |
 | 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 3135 |
-| 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 2203 |
-| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 1808 |
+| 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 2237 |
+| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 1890 |
 | 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1507 |
 | 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | 127.0.0.1 |  | Namibia | 1251 |
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1178 |

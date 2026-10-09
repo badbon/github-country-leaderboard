@@ -17,21 +17,21 @@ Indexed users: 745
 | 3 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,316 |
 | 4 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 11,895 |
 | 5 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 9,697 |
-| 6 | [Sokanon](https://github.com/Sokanon) | So | Libya | 8,604 |
-| 7 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,781 |
-| 8 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 7,335 |
-| 9 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy | Benghazi, Libya 🇱🇾 | 6,789 |
-| 10 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,766 |
-| 11 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
-| 12 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,016 |
-| 13 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,372 |
-| 14 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,149 |
-| 15 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 4,816 |
-| 16 | [Anas-taleb99](https://github.com/Anas-taleb99) |  | Libya | 4,622 |
-| 17 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 4,413 |
-| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 4,193 |
-| 19 | [AbobkerElaghel](https://github.com/AbobkerElaghel) | Abobker Elaghel | Libya | 3,710 |
-| 20 | [dfangys](https://github.com/dfangys) | Abdullah Naseeb | Libya | 3,296 |
+| 6 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  Tripoli, Libya  | 8,850 |
+| 7 | [Sokanon](https://github.com/Sokanon) | So | Libya | 8,604 |
+| 8 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar | Libya | 7,781 |
+| 9 | [radwan-77](https://github.com/radwan-77) | RADWAN | Libya | 7,335 |
+| 10 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy | Benghazi, Libya 🇱🇾 | 6,789 |
+| 11 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,766 |
+| 12 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
+| 13 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,016 |
+| 14 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,372 |
+| 15 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,149 |
+| 16 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 4,816 |
+| 17 | [Anas-taleb99](https://github.com/Anas-taleb99) |  | Libya | 4,622 |
+| 18 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 4,413 |
+| 19 | [Monther-bug](https://github.com/Monther-bug) | Monther | Libya | 4,193 |
+| 20 | [AbobkerElaghel](https://github.com/AbobkerElaghel) | Abobker Elaghel | Libya | 3,710 |
 
 ## Public Contributions
 
@@ -52,11 +52,11 @@ Indexed users: 745
 | 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 476 |
 | 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 437 |
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 423 |
-| 16 | [arousi](https://github.com/arousi) | Sanad AlArousi | Tripoly,Libya | 389 |
-| 17 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 362 |
-| 18 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 351 |
-| 19 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 345 |
-| 20 | [Ahmed3rab](https://github.com/Ahmed3rab) | Ahmed Arab | Tripoli, Libya  | 340 |
+| 16 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  | Tripoli | 362 |
+| 17 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | libya | 351 |
+| 18 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag | Benghazi, Libya | 345 |
+| 19 | [Ahmed3rab](https://github.com/Ahmed3rab) | Ahmed Arab | Tripoli, Libya  | 340 |
+| 20 | [KingKnull](https://github.com/KingKnull) | Sanad | Tripoli, Libya | 335 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 745
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 47 |
 
-Generated: 2026-10-09T01:38:15.965Z
+Generated: 2026-10-09T02:46:39.238Z

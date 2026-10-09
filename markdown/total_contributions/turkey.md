@@ -1,8 +1,8 @@
 # Total Contributions - Turkey
 
-Generated: 2026-10-09T02:08:57.516Z
+Generated: 2026-10-09T03:17:11.490Z
 
-Users: 79053
+Users: 79052
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

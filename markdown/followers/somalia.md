@@ -1,6 +1,6 @@
 # Followers - Somalia
 
-Generated: 2026-10-09T02:01:57.608Z
+Generated: 2026-10-09T03:11:51.024Z
 
 Users: 860
 
@@ -24,5 +24,5 @@ Users: 860
 | 16 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | Freelancer  | saiid20k | somalia | 117 |
 | 17 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد |  |  | Somalia | 113 |
 | 18 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | 4Tech Solutions | hassan3ar | Somalia - Mogadishu  | 102 |
-| 19 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | @sharafdin |  | Mogadishu, Somalia | 92 |
-| 20 | [abdorizak](https://github.com/abdorizak) | Abdirizak Abdalla  |  | abdorizak3 | Mogadisho,Somalia | 91 |
+| 19 | [alidiamond1](https://github.com/alidiamond1) | Ali Nor Abdulle | JAMHUURIYA UNIVERSITY | Alidiamond143 | Mogadishu | 94 |
+| 20 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | @sharafdin |  | Mogadishu, Somalia | 92 |

@@ -56,7 +56,7 @@ Indexed users: 1,938
 | 17 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 861 |
 | 18 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk | North Macedonia/Skopje | 806 |
 | 19 | [antonio-ivanovski](https://github.com/antonio-ivanovski) | Antonio | North Macedonia | 768 |
-| 20 | [Facenam3](https://github.com/Facenam3) | Dalibor | Skopje,Macedonia | 765 |
+| 20 | [NikoDola](https://github.com/NikoDola) | Nikola Dolovski (niko_dola) | Bitola/Macedonia | 761 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,938
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-09T01:47:55.856Z
+Generated: 2026-10-09T02:58:24.850Z

@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-09T02:36:26.972Z
+Generated: 2026-10-09T02:48:27.658Z
 
 Users: 902
 
@@ -20,8 +20,8 @@ Users: 902
 | 12 | [Forgata](https://github.com/Forgata) | Forgata |  |  | Malawi | 686 |
 | 13 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 667 |
 | 14 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire |  |  | Malawi | 635 |
-| 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 565 |
-| 16 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 535 |
+| 15 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 612 |
+| 16 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 565 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 487 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
 | 19 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 471 |

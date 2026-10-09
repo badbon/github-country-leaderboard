@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,230
+Indexed users: 1,231
 
 | Leaderboard | Link |
 |---|---|
@@ -15,12 +15,12 @@ Indexed users: 1,230
 | 1 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
 | 2 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
 | 3 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
-| 4 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
-| 5 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
-| 6 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
-| 7 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
-| 8 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
-| 9 | [exori90](https://github.com/exori90) | exori | Malta | 7,623 |
+| 4 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
+| 5 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
+| 6 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
+| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
+| 8 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
+| 9 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
 | 10 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
 | 11 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
 | 12 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 6,792 |
@@ -83,4 +83,4 @@ Indexed users: 1,230
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 117 |
 
-Generated: 2026-10-09T01:40:58.413Z
+Generated: 2026-10-09T02:51:11.232Z

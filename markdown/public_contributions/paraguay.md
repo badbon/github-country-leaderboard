@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-09T01:52:24.081Z
+Generated: 2026-10-09T03:00:10.369Z
 
 Users: 2021
 
@@ -23,6 +23,6 @@ Users: 2021
 | 15 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) | janparkio | Paraguay | 915 |
 | 16 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
 | 17 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 905 |
-| 18 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin |  |  | Paraguay | 885 |
-| 19 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 824 |
-| 20 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 774 |
+| 18 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
+| 19 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin |  |  | Paraguay | 885 |
+| 20 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 824 |

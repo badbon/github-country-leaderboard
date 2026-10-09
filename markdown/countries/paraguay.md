@@ -54,9 +54,9 @@ Indexed users: 2,021
 | 15 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 915 |
 | 16 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
 | 17 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 905 |
-| 18 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin | Paraguay | 885 |
-| 19 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 824 |
-| 20 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez | Paraguay | 774 |
+| 18 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco | Paraguay | 892 |
+| 19 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin | Paraguay | 885 |
+| 20 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 824 |
 
 ## Followers
 
@@ -69,7 +69,7 @@ Indexed users: 2,021
 | 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 408 |
 | 6 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 383 |
 | 7 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye | Paraguay | 262 |
-| 8 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 231 |
+| 8 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 230 |
 | 9 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes | Paraguay | 213 |
 | 10 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić | Paraguay | 197 |
 | 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 183 |
@@ -83,4 +83,4 @@ Indexed users: 2,021
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-09T01:52:24.081Z
+Generated: 2026-10-09T03:00:10.369Z

@@ -1,6 +1,6 @@
 # South Korea
 
-Indexed users: 56,878
+Indexed users: 56,876
 
 | Leaderboard | Link |
 |---|---|
@@ -39,18 +39,18 @@ Indexed users: 56,878
 |---:|---|---|---|---:|
 | 1 | [ParkMinKyu](https://github.com/ParkMinKyu) | ParkMinkyu | korea seoul | 53,186 |
 | 2 | [seonghobae](https://github.com/seonghobae) | Seongho Bae | Seoul, KR | 27,279 |
-| 3 | [kcenon](https://github.com/kcenon) |  | South Korea | 24,129 |
-| 4 | [code-yeongyu](https://github.com/code-yeongyu) | YeonGyu-Kim | Seoul | 23,877 |
-| 5 | [wlsdks](https://github.com/wlsdks) | Stark | seoul | 21,638 |
-| 6 | [hahwul](https://github.com/hahwul) | hahwul | Republic of Korea | 20,835 |
-| 7 | [Yeachan-Heo](https://github.com/Yeachan-Heo) | Bellman | Seoul  | 20,435 |
-| 8 | [yeongseon](https://github.com/yeongseon) | Yeongseon Choe | Seoul, Korea | 20,194 |
-| 9 | [topeschool-commits](https://github.com/topeschool-commits) | Alex Seo | South Korea | 20,099 |
-| 10 | [kkyu92](https://github.com/kkyu92) | 김규식 Kim Kyu Sik | Seoul, Korea | 18,310 |
-| 11 | [hsol](https://github.com/hsol) | 임한솔 | Seoul | 17,536 |
-| 12 | [samchon](https://github.com/samchon) | Jeongho Nam | Seoul, South Korea | 15,948 |
-| 13 | [daeho-ro](https://github.com/daeho-ro) | Daeho Ro | Seoul, South Korea | 15,884 |
-| 14 | [lidge-jun](https://github.com/lidge-jun) | JUN | Seoul, South Korea | 15,317 |
+| 3 | [lidge-jun](https://github.com/lidge-jun) | JUN | Seoul, South Korea | 27,230 |
+| 4 | [kcenon](https://github.com/kcenon) |  | South Korea | 24,129 |
+| 5 | [code-yeongyu](https://github.com/code-yeongyu) | YeonGyu-Kim | Seoul | 23,877 |
+| 6 | [wlsdks](https://github.com/wlsdks) | Stark | seoul | 21,638 |
+| 7 | [hahwul](https://github.com/hahwul) | hahwul | Republic of Korea | 20,835 |
+| 8 | [Yeachan-Heo](https://github.com/Yeachan-Heo) | Bellman | Seoul  | 20,435 |
+| 9 | [yeongseon](https://github.com/yeongseon) | Yeongseon Choe | Seoul, Korea | 20,194 |
+| 10 | [topeschool-commits](https://github.com/topeschool-commits) | Alex Seo | South Korea | 20,099 |
+| 11 | [kkyu92](https://github.com/kkyu92) | 김규식 Kim Kyu Sik | Seoul, Korea | 18,310 |
+| 12 | [hsol](https://github.com/hsol) | 임한솔 | Seoul | 17,536 |
+| 13 | [samchon](https://github.com/samchon) | Jeongho Nam | Seoul, South Korea | 15,948 |
+| 14 | [daeho-ro](https://github.com/daeho-ro) | Daeho Ro | Seoul, South Korea | 15,884 |
 | 15 | [dahlia](https://github.com/dahlia) | Hong Minhee (洪 民憙) | Seoul, Republic of Korea | 15,102 |
 | 16 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Seoul, Korea | 14,128 |
 | 17 | [svy04](https://github.com/svy04) | 오영웅 (woogie) | seoul | 13,827 |
@@ -83,4 +83,4 @@ Indexed users: 56,878
 | 19 | [rickiepark](https://github.com/rickiepark) | Haesun Park | Seoul, Korea | 1,884 |
 | 20 | [joshua1988](https://github.com/joshua1988) | Captain Pangyo | South Korea | 1,726 |
 
-Generated: 2026-10-09T02:02:13.840Z
+Generated: 2026-10-09T03:12:15.800Z

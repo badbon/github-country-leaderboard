@@ -1,6 +1,6 @@
 # Madagascar
 
-Indexed users: 1,917
+Indexed users: 1,915
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,917
 | 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 142 |
 
-Generated: 2026-10-09T02:34:42.246Z
+Generated: 2026-10-09T03:03:29.154Z

@@ -1,8 +1,8 @@
 # Followers - Mauritania
 
-Generated: 2026-10-09T01:41:10.523Z
+Generated: 2026-10-09T03:01:52.893Z
 
-Users: 288
+Users: 289
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

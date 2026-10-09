@@ -1,6 +1,6 @@
 # Public Contributions - Togo
 
-Generated: 2026-10-09T02:07:15.783Z
+Generated: 2026-10-09T03:15:41.253Z
 
 Users: 681
 
@@ -15,8 +15,8 @@ Users: 681
 | 7 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 1919 |
 | 8 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | AET Technology |  | Togo | 1847 |
 | 9 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | KORYXA |  | Lome, Togo | 1710 |
-| 10 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Digital-Keys |  | Lomé | 1382 |
-| 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | NOVAGRAPHIKVISU |  | Lomé / Togo | 1275 |
+| 10 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | NOVAGRAPHIKVISU |  | Lomé / Togo | 1275 |
+| 11 | [Einswilli](https://github.com/Einswilli) | #Einswilli | @AllDotPy @Bluwa |  | Lomé | 1203 |
 | 12 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve |  |  | Togo-Lomé  | 1194 |
 | 13 | [henocn](https://github.com/henocn) | Henoc N'GASAMA |  |  | Kara, Togo | 905 |
 | 14 | [Gowaru](https://github.com/Gowaru) | Mawuli Godwin Alexandre AMEVOR |  |  | Lomé | 885 |

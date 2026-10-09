@@ -1,6 +1,6 @@
 # Luxembourg
 
-Indexed users: 2,204
+Indexed users: 2,203
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,204
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-09T01:39:17.393Z
+Generated: 2026-10-09T02:46:51.675Z

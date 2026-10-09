@@ -12,8 +12,8 @@ Indexed users: 902
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje | Lilongwe, Malawi | 10,745 |
-| 2 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | Malawi | 10,378 |
+| 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | Malawi | 13,606 |
+| 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje | Lilongwe, Malawi | 10,745 |
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija | Malawi, Lilongwe | 6,809 |
 | 4 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Lilongwe, Malawi | 6,336 |
 | 5 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | Malawi, Africa | 6,166 |
@@ -26,10 +26,10 @@ Indexed users: 902
 | 12 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,724 |
 | 13 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | Malawi | 3,667 |
 | 14 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 3,640 |
-| 15 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,470 |
-| 16 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,452 |
-| 17 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul |  Malawi | 3,435 |
-| 18 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi | Malawi | 3,346 |
+| 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,452 |
+| 16 | [byamasu-patrick](https://github.com/byamasu-patrick) | Byamasu Patrick Paul |  Malawi | 3,435 |
+| 17 | [dnlmgwi](https://github.com/dnlmgwi) | Daniel P. Mgawi | Malawi | 3,346 |
+| 18 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,210 |
 | 19 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,137 |
 | 20 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,129 |
 
@@ -51,8 +51,8 @@ Indexed users: 902
 | 12 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
 | 13 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 667 |
 | 14 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
-| 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
-| 16 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 535 |
+| 15 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 612 |
+| 16 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
 | 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 487 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
 | 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
@@ -83,4 +83,4 @@ Indexed users: 902
 | 19 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 133 |
 | 20 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 
-Generated: 2026-10-09T02:36:26.972Z
+Generated: 2026-10-09T02:48:27.658Z

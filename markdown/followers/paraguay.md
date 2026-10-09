@@ -1,6 +1,6 @@
 # Followers - Paraguay
 
-Generated: 2026-10-09T01:52:24.081Z
+Generated: 2026-10-09T03:00:10.369Z
 
 Users: 2021
 
@@ -13,7 +13,7 @@ Users: 2021
 | 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla |  |  | Paraguay | 408 |
 | 6 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 383 |
 | 7 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye |  |  | Paraguay | 262 |
-| 8 | [Tom5521](https://github.com/Tom5521) | Tom |  | _ThomasIsBored | Paraguay | 231 |
+| 8 | [Tom5521](https://github.com/Tom5521) | Tom |  | _ThomasIsBored | Paraguay | 230 |
 | 9 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes |  | nemesiscodex | Paraguay | 213 |
 | 10 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić |  |  | Paraguay | 197 |
 | 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | FullStack Labs | AbdelPerez11 | Asunción, Paraguay | 183 |

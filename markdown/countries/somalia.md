@@ -80,7 +80,7 @@ Indexed users: 860
 | 16 | [saiid20k](https://github.com/saiid20k) | سعيد عبدالله | somalia | 117 |
 | 17 | [Manka-Mohamet](https://github.com/Manka-Mohamet) | عبد الرحمان محمد | Somalia | 113 |
 | 18 | [Hasson23](https://github.com/Hasson23) | Hassan Abdullah   | Somalia - Mogadishu  | 102 |
-| 19 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | Mogadishu, Somalia | 92 |
-| 20 | [abdorizak](https://github.com/abdorizak) | Abdirizak Abdalla  | Mogadisho,Somalia | 91 |
+| 19 | [alidiamond1](https://github.com/alidiamond1) | Ali Nor Abdulle | Mogadishu | 94 |
+| 20 | [mohamedturaab](https://github.com/mohamedturaab) | Mohamed Turaab | Mogadishu, Somalia | 92 |
 
-Generated: 2026-10-09T02:01:57.608Z
+Generated: 2026-10-09T03:11:51.024Z

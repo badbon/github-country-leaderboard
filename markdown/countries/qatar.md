@@ -30,8 +30,8 @@ Indexed users: 1,077
 | 16 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 3,817 |
 | 17 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 3,588 |
 | 18 | [niyazrazak](https://github.com/niyazrazak) | NIYAZ RAZAK | Calicut \| Qatar | 3,487 |
-| 19 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 3,393 |
-| 20 | [muhammadqazi](https://github.com/muhammadqazi) | Muhammad Qazi | Doha, Qatar | 3,243 |
+| 19 | [ismadevjs](https://github.com/ismadevjs) | ismail taibi | Qatar | 3,472 |
+| 20 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 3,393 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,077
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 | 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 89 |
 
-Generated: 2026-10-09T01:55:12.712Z
+Generated: 2026-10-09T03:03:37.554Z

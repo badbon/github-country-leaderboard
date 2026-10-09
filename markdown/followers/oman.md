@@ -1,8 +1,8 @@
 # Followers - Oman
 
-Generated: 2026-10-09T02:07:15.783Z
+Generated: 2026-10-09T02:58:33.874Z
 
-Users: 1001
+Users: 999
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

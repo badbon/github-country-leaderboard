@@ -1,6 +1,6 @@
 # New Zealand
 
-Indexed users: 12,161
+Indexed users: 12,160
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 12,161
 | 19 | [cortesi](https://github.com/cortesi) | Aldo Cortesi | Dunedin, New Zealand | 1,019 |
 | 20 | [patevs](https://github.com/patevs) | Pat | New Zealand | 917 |
 
-Generated: 2026-10-09T01:45:09.092Z
+Generated: 2026-10-09T02:57:36.603Z
