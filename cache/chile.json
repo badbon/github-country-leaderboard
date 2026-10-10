@@ -9847,7 +9847,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
+    "privateContributions": 13,
     "publicContributions": 52,
     "createdAt": "2025-02-12T22:35:50Z"
   },
@@ -9859,7 +9859,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
+    "privateContributions": 42,
     "publicContributions": 30,
     "createdAt": "2025-04-11T22:46:11Z"
   },
@@ -9872,7 +9872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2025-04-22T17:23:57Z"
   },
   {
@@ -9882,7 +9882,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-25T14:00:28Z"
@@ -9896,20 +9896,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 53,
     "createdAt": "2025-05-28T06:39:06Z"
-  },
-  {
-    "login": "melek-eyzaguirre-dev",
-    "name": "Melek Eyzaguirre ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/239691547?s=72&u=beab786b9725e4bd3aad819d360bafcd66ce7251&v=4",
-    "location": "Rancagua, Chile",
-    "company": "Diversa Soft",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2025-10-23T00:04:51Z"
   },
   {
     "login": "felipeosses-insane",
@@ -9932,7 +9920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2025-08-09T02:52:47Z"
   },
   {
@@ -9942,7 +9930,7 @@
     "location": "Chile",
     "company": "Universidad Autónoma de Chile",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-19T04:27:32Z"
@@ -9966,7 +9954,7 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-27T04:33:04Z"
@@ -9990,9 +9978,9 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 242,
+    "publicContributions": 356,
     "createdAt": "2025-01-16T13:41:12Z"
   },
   {
@@ -10028,7 +10016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 155,
     "createdAt": "2025-06-05T00:26:42Z"
   },
   {
@@ -10038,7 +10026,7 @@
     "location": "santiago ",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 41,
     "privateContributions": 0,
     "publicContributions": 289,
     "createdAt": "2025-12-12T16:24:13Z"
@@ -10076,7 +10064,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 22,
     "createdAt": "2025-08-11T19:24:04Z"
   },
   {

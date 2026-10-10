@@ -43,7 +43,7 @@
     "company": "https://invovibetech.com/",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 673,
+    "privateContributions": 680,
     "publicContributions": 259,
     "createdAt": "2024-03-27T08:55:39Z"
   },
@@ -163,8 +163,8 @@
     "company": "Ether.Fi",
     "twitterUsername": "0xpanicError",
     "followers": 83,
-    "privateContributions": 1607,
-    "publicContributions": 777,
+    "privateContributions": 1603,
+    "publicContributions": 749,
     "createdAt": "2022-06-16T11:30:01Z"
   },
   {
@@ -175,7 +175,7 @@
     "company": "Liquid Byte Labs",
     "twitterUsername": "leohermoso",
     "followers": 58,
-    "privateContributions": 21690,
+    "privateContributions": 21697,
     "publicContributions": 259,
     "createdAt": "2022-02-06T21:06:34Z"
   },
@@ -199,7 +199,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1239,
+    "privateContributions": 1229,
     "publicContributions": 0,
     "createdAt": "2022-01-25T18:27:54Z"
   },
@@ -1474,5 +1474,17 @@
     "privateContributions": 997,
     "publicContributions": 47,
     "createdAt": "2026-06-04T20:29:58Z"
+  },
+  {
+    "login": "Ch0nDa",
+    "name": "Ch0n",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/17607623?s=72&u=597e083108ee578ccfe5a9972beba8054fbd58cc&v=4",
+    "location": "Cayman Islands",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2016-03-03T03:19:27Z"
   }
 ]

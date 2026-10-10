@@ -9630,7 +9630,7 @@
     "location": "Baghdad, IQ",
     "company": "Miswag",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-04T11:15:53Z"
@@ -9643,8 +9643,8 @@
     "company": "Samaur",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 99,
+    "privateContributions": 7,
+    "publicContributions": 103,
     "createdAt": "2022-05-26T20:15:11Z"
   },
   {
@@ -9679,7 +9679,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1278,
+    "privateContributions": 1317,
     "publicContributions": 0,
     "createdAt": "2022-07-29T14:03:36Z"
   },
@@ -9706,18 +9706,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-07T07:47:11Z"
-  },
-  {
-    "login": "Ayman-Alaswad-J-F-D",
-    "name": "Ayman Alaswad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112077704?s=72&u=b06c5ef339b13a6de6b773453a8f373fa861dad8&v=4",
-    "location": "Damascus - Street Baghdad ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2022-08-25T09:50:25Z"
   },
   {
     "login": "omarsalman91",
@@ -9750,9 +9738,9 @@
     "location": "Sulaymaniyah, Iraq",
     "company": "@GatewaySoftwareEngineering",
     "twitterUsername": "",
-    "followers": 89,
-    "privateContributions": 1427,
-    "publicContributions": 7,
+    "followers": 88,
+    "privateContributions": 1677,
+    "publicContributions": 13,
     "createdAt": "2021-04-17T21:36:38Z"
   },
   {
@@ -9762,7 +9750,7 @@
     "location": "Iraq, Krd, Erbil ",
     "company": "",
     "twitterUsername": "7amakurd",
-    "followers": 79,
+    "followers": 74,
     "privateContributions": 35,
     "publicContributions": 25,
     "createdAt": "2021-01-11T08:20:55Z"
@@ -9774,8 +9762,8 @@
     "location": "Erbil, iraq",
     "company": "@ditkrg",
     "twitterUsername": "Abdulaahmad19",
-    "followers": 63,
-    "privateContributions": 367,
+    "followers": 65,
+    "privateContributions": 347,
     "publicContributions": 0,
     "createdAt": "2021-03-18T17:33:03Z"
   },
@@ -9787,8 +9775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 60,
-    "privateContributions": 1634,
-    "publicContributions": 202,
+    "privateContributions": 1394,
+    "publicContributions": 138,
     "createdAt": "2021-10-12T04:44:43Z"
   },
   {
@@ -9810,7 +9798,7 @@
     "location": "Baghdad/Iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 58,
+    "followers": 48,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-04T14:39:22Z"
@@ -9822,9 +9810,9 @@
     "location": "iraq",
     "company": "",
     "twitterUsername": "",
-    "followers": 55,
+    "followers": 53,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-11-15T00:36:39Z"
   },
   {
@@ -9834,9 +9822,9 @@
     "location": "Erbil, iraq",
     "company": "@lezzoo",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 4163,
-    "publicContributions": 280,
+    "followers": 52,
+    "privateContributions": 4605,
+    "publicContributions": 335,
     "createdAt": "2021-12-01T08:39:51Z"
   },
   {
@@ -9846,8 +9834,8 @@
     "location": "Erbil,Iraq",
     "company": "INFORR LTD",
     "twitterUsername": "ramanmhedin",
-    "followers": 49,
-    "privateContributions": 408,
+    "followers": 50,
+    "privateContributions": 331,
     "publicContributions": 0,
     "createdAt": "2021-10-16T17:56:26Z"
   },
@@ -9858,9 +9846,9 @@
     "location": "Iraq, Erbil",
     "company": "Fastlink",
     "twitterUsername": "Dark_JellyWiz",
-    "followers": 48,
+    "followers": 49,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2021-04-23T21:49:28Z"
   },
   {

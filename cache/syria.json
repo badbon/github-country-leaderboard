@@ -9776,7 +9776,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 98,
     "createdAt": "2022-01-10T20:36:37Z"
   },
   {
@@ -9810,9 +9810,9 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 17,
     "createdAt": "2022-11-04T13:42:10Z"
   },
   {
@@ -9822,9 +9822,9 @@
     "location": "Aleppo, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 545,
-    "publicContributions": 11,
+    "followers": 2,
+    "privateContributions": 529,
+    "publicContributions": 8,
     "createdAt": "2022-10-29T11:18:36Z"
   },
   {
@@ -9836,7 +9836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 23,
     "createdAt": "2022-04-28T18:50:49Z"
   },
   {
@@ -9884,7 +9884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 19,
     "createdAt": "2022-06-01T08:31:54Z"
   },
   {
@@ -9910,18 +9910,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-24T10:44:40Z"
-  },
-  {
-    "login": "hasanDarwishe",
-    "name": "Hasan Darwish",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99066758?s=72&u=819ec58bc8e71f065d69580e3438030d48447921&v=4",
-    "location": "Syria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 47,
-    "createdAt": "2022-02-05T06:33:01Z"
   },
   {
     "login": "ulfat-yabroudi",
@@ -9968,7 +9956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 13,
     "createdAt": "2022-12-11T14:47:54Z"
   },
   {
@@ -17794,5 +17782,17 @@
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2026-05-21T11:32:02Z"
+  },
+  {
+    "login": "Ayman-Alaswad-J-F-D",
+    "name": "Ayman Alaswad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112077704?s=72&u=b06c5ef339b13a6de6b773453a8f373fa861dad8&v=4",
+    "location": "Syria, Damascus - Street Baghdad ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2022-08-25T09:50:25Z"
   }
 ]

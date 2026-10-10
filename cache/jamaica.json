@@ -9920,7 +9920,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-04-20T14:31:57Z"
   },
   {
@@ -9932,20 +9932,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 40,
     "createdAt": "2016-06-16T23:59:06Z"
-  },
-  {
-    "login": "Ch0nDa",
-    "name": "Ch0n",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17607623?s=72&u=597e083108ee578ccfe5a9972beba8054fbd58cc&v=4",
-    "location": "Jamaica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2016-03-03T03:19:27Z"
   },
   {
     "login": "noxiddd",
@@ -9956,7 +9944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2016-06-02T14:56:38Z"
   },
   {
@@ -9966,7 +9954,7 @@
     "location": "Jamaica",
     "company": "Lambda Procs",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-16T03:18:58Z"
@@ -9980,7 +9968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2016-07-02T06:28:59Z"
   },
   {
@@ -10004,7 +9992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 58,
     "createdAt": "2016-02-09T01:28:15Z"
   },
   {
@@ -10070,7 +10058,7 @@
   {
     "login": "Achilles28",
     "name": "Kolahn Garcia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16969377?s=72&u=7dcc4f5242e06dc0eb7180bc2c3232f52472b7ee&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/16969377?s=72&u=e86fb94cc069f4f77c4b77403de506058fa82217&v=4",
     "location": "Jamaica",
     "company": "zCoda",
     "twitterUsername": "",
@@ -10134,9 +10122,9 @@
     "location": "Kingston, ON",
     "company": "Colautti Lab, Queen's University, Canada",
     "twitterUsername": "ColauttiLab",
-    "followers": 104,
-    "privateContributions": 202,
-    "publicContributions": 14,
+    "followers": 106,
+    "privateContributions": 329,
+    "publicContributions": 15,
     "createdAt": "2016-02-19T03:17:28Z"
   },
   {

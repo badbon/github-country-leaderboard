@@ -9841,13 +9841,13 @@
   },
   {
     "login": "aci-incom",
-    "name": "Statsminister fra Aarhus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149583522?s=72&u=e723ee87c6c8dee5fdd0c9706e250684b40e0419&v=4",
+    "name": "Salmon Desk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149583522?s=72&u=6326ae0f1a9bb23e3967f6ccd36aa70e054747db&v=4",
     "location": "Haderslev, Sønderjylland, Danmark",
-    "company": "Banesto Cycling Team",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1739,
+    "privateContributions": 2044,
     "publicContributions": 0,
     "createdAt": "2023-11-01T11:11:33Z"
   },
@@ -9859,7 +9859,7 @@
     "company": "AP Pension",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 49,
+    "privateContributions": 79,
     "publicContributions": 10,
     "createdAt": "2023-09-26T18:23:23Z"
   },
@@ -9908,7 +9908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 735,
+    "publicContributions": 548,
     "createdAt": "2023-02-24T08:15:21Z"
   },
   {
@@ -9956,7 +9956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-06-10T06:39:50Z"
   },
   {
@@ -9967,7 +9967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 114,
+    "privateContributions": 62,
     "publicContributions": 34,
     "createdAt": "2023-09-25T12:58:23Z"
   },
@@ -9980,7 +9980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 79,
     "createdAt": "2023-11-19T13:10:49Z"
   },
   {
@@ -9990,9 +9990,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 588,
-    "privateContributions": 0,
-    "publicContributions": 472,
+    "followers": 801,
+    "privateContributions": 51,
+    "publicContributions": 1011,
     "createdAt": "2023-08-22T13:35:45Z"
   },
   {
@@ -10002,9 +10002,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 215,
+    "followers": 216,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 11,
     "createdAt": "2023-07-06T12:03:04Z"
   },
   {
@@ -10014,9 +10014,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 66,
-    "privateContributions": 700,
-    "publicContributions": 963,
+    "followers": 68,
+    "privateContributions": 511,
+    "publicContributions": 987,
     "createdAt": "2023-01-10T13:59:38Z"
   },
   {
@@ -10038,7 +10038,7 @@
     "location": "denmark",
     "company": "",
     "twitterUsername": "ujco10",
-    "followers": 60,
+    "followers": 61,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-18T13:32:38Z"
@@ -10050,7 +10050,7 @@
     "location": "denmark",
     "company": "",
     "twitterUsername": "bitcoin",
-    "followers": 59,
+    "followers": 60,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-22T11:30:15Z"
@@ -125598,7 +125598,7 @@
     "location": "London/Copenhagen ",
     "company": "Koda Staff ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-07-03T08:48:10Z"

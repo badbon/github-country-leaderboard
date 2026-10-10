@@ -9920,7 +9920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 30,
     "createdAt": "2024-09-26T23:49:07Z"
   },
   {
@@ -9956,7 +9956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-04-19T16:05:01Z"
   },
   {
@@ -9972,18 +9972,6 @@
     "createdAt": "2024-04-12T17:00:45Z"
   },
   {
-    "login": "dkg30",
-    "name": "Dimitrios-Konstantinos Goranitis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162714373?s=72&u=043e850e985f45c38d9d942cbf4de25c0be1c799&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-03-08T13:34:05Z"
-  },
-  {
     "login": "StavrosBN",
     "name": "Stavros Bantzis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/170874971?s=72&v=4",
@@ -9992,7 +9980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 43,
     "createdAt": "2024-05-26T14:59:39Z"
   },
   {
@@ -10003,7 +9991,7 @@
     "company": "Pixelocracy",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 509,
+    "privateContributions": 371,
     "publicContributions": 0,
     "createdAt": "2024-06-19T11:04:01Z"
   },
@@ -10016,7 +10004,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 10,
     "createdAt": "2024-06-12T12:34:45Z"
   },
   {
@@ -10111,7 +10099,7 @@
     "company": "University of Crete",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
+    "privateContributions": 14,
     "publicContributions": 4,
     "createdAt": "2024-08-11T17:38:53Z"
   },

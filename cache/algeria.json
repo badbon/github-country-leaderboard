@@ -9565,14 +9565,14 @@
   },
   {
     "login": "DjihaneElghazi",
-    "name": "Djihane Elghazi",
+    "name": "Djihane El Ghazi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167134010?s=72&u=7e4ca510b970edbfd0bebf63ba00816a491a94cb&v=4",
     "location": "Algeria / Global Open Science",
     "company": "Undergraduate student at ESSBO",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 28,
     "createdAt": "2024-04-15T19:49:11Z"
   },
   {
@@ -9584,7 +9584,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2024-04-07T22:56:30Z"
   },
   {
@@ -9595,7 +9595,7 @@
     "company": "Express Tech",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1196,
+    "privateContributions": 1146,
     "publicContributions": 1,
     "createdAt": "2024-06-15T13:01:23Z"
   },
@@ -9644,7 +9644,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 47,
     "createdAt": "2024-03-01T21:43:02Z"
   },
   {
@@ -9666,9 +9666,9 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 82,
     "createdAt": "2024-02-02T16:17:21Z"
   },
   {
@@ -9690,9 +9690,9 @@
     "location": "algeria",
     "company": "Emir Abdelkader University Constantine",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 276,
     "createdAt": "2024-12-22T19:37:46Z"
   },
   {
@@ -9704,7 +9704,7 @@
     "twitterUsername": "Meddourk95",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-05-01T15:34:47Z"
   },
   {
@@ -9714,21 +9714,21 @@
     "location": "Algeria !",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 225,
-    "publicContributions": 96,
+    "followers": 5,
+    "privateContributions": 255,
+    "publicContributions": 113,
     "createdAt": "2024-01-28T09:09:19Z"
   },
   {
     "login": "InasCh4",
     "name": "Inas ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175308382?s=72&u=7045ac89f8d7d326408e4e07d70450a65dfadecf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175308382?s=72&u=cfa71cab5187dfe458c6686bf306bfb2f438310c&v=4",
     "location": "Boumerdes , Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 47,
     "createdAt": "2024-07-11T10:46:53Z"
   },
   {
@@ -9774,7 +9774,7 @@
     "location": "ALGERIA",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-03T10:53:13Z"
@@ -9786,7 +9786,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2024-03-03T14:50:04Z"
@@ -9799,7 +9799,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 65,
+    "privateContributions": 84,
     "publicContributions": 117,
     "createdAt": "2024-10-02T09:46:44Z"
   },
@@ -69754,5 +69754,125 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-05-31T19:44:37Z"
+  },
+  {
+    "login": "anes-saber",
+    "name": "anes saber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294604115?s=72&u=0b4525999c6765349125e6d82bfc855cd954eee2&v=4",
+    "location": "algeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-06-17T18:45:55Z"
+  },
+  {
+    "login": "mustaphanouimehidi",
+    "name": "Mustapha Noui Mehidi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294641999?s=72&u=70c90a89f4ab74eca52e23f1b1fe30e7e5a40289&v=4",
+    "location": "Algeria",
+    "company": "Email : nouimehidi.mustapha@gmail.com",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2026-06-17T22:15:14Z"
+  },
+  {
+    "login": "XAUDynamics-Labs",
+    "name": "Marwan Sekhri | Founder, XAU Dynamics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297416063?s=72&u=2672ef7082f93bc1b31bd8a856cc0b2d95518185&v=4",
+    "location": "Algeria 🇩🇿",
+    "company": "@XAUDynamics",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2026-06-27T13:13:27Z"
+  },
+  {
+    "login": "IT-Adel-SVG",
+    "name": "IT-Adel-SVG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293145842?s=72&u=3046eecae791495a5b4fab4488404b444b78f69a&v=4",
+    "location": "Algeria, Mostagenem",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-12T15:32:13Z"
+  },
+  {
+    "login": "ChemousseAI",
+    "name": "Chemousse Berdjouh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293946208?s=72&u=d5bec87f4e74b3f58a4b42015d593ef5aa73fef9&v=4",
+    "location": "Ouargla, Algeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 185,
+    "createdAt": "2026-06-15T17:57:39Z"
+  },
+  {
+    "login": "ASUNA-6",
+    "name": "Messaoudi Ines ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291878451?s=72&u=c5cc077637c7d72ba31ad1410bbfa2e880120a4a&v=4",
+    "location": "Algeria/ Algiers ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-08T18:12:29Z"
+  },
+  {
+    "login": "HALmovies",
+    "name": "Lokman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296217076?s=72&u=065f927a6b9a00c9fd466b781e4a5ba8da37bb5b&v=4",
+    "location": "Algeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T15:49:30Z"
+  },
+  {
+    "login": "roumeissabenaissa-ai",
+    "name": "Roumeissa BENAISSA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291933638?s=72&u=27df2ebc2bbd9180ff455e28ba29289bfec4864a&v=4",
+    "location": "Constantine , Algeria ",
+    "company": "University Constantine 2 Algeria ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2026-06-08T22:58:26Z"
+  },
+  {
+    "login": "saadbouzidixd-maker",
+    "name": "qSa3ed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291001997?s=72&u=07002e8ed123c7cea955ded17b751ba41ec1e0b1&v=4",
+    "location": "27 Février 1962, Aïn Beïda, Algeria",
+    "company": "CloudFun Studios",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-06-05T10:10:43Z"
+  },
+  {
+    "login": "ferial538",
+    "name": "ferial",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293595393?s=72&v=4",
+    "location": "algeria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-14T13:35:21Z"
   }
 ]

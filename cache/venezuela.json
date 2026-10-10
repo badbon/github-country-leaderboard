@@ -9584,7 +9584,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 50,
-    "publicContributions": 166,
+    "publicContributions": 167,
     "createdAt": "2023-09-27T13:07:54Z"
   },
   {
@@ -9618,21 +9618,21 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 7,
     "createdAt": "2023-05-15T00:21:54Z"
   },
   {
     "login": "DanCas03",
     "name": "Daniel Castellanos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132311688?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132311688?s=72&u=1a7d40ae85a86387a9bbdf20478cca34724dc35c&v=4",
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 433,
+    "privateContributions": 342,
+    "publicContributions": 508,
     "createdAt": "2023-05-01T23:25:14Z"
   },
   {
@@ -9653,8 +9653,8 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/151213539?s=72&u=8343b884d7a3599adf5f0c2e5221b0a6eddb38a6&v=4",
     "location": "Ciudad Guayana, Venezuela",
     "company": "",
-    "twitterUsername": "WolfCena_10",
-    "followers": 4,
+    "twitterUsername": "",
+    "followers": 5,
     "privateContributions": 251,
     "publicContributions": 159,
     "createdAt": "2023-11-17T17:30:55Z"
@@ -9668,7 +9668,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 258,
     "createdAt": "2023-06-10T02:12:54Z"
   },
   {
@@ -9679,8 +9679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 293,
-    "publicContributions": 253,
+    "privateContributions": 409,
+    "publicContributions": 240,
     "createdAt": "2023-01-14T05:10:02Z"
   },
   {
@@ -9690,9 +9690,9 @@
     "location": "Bolivar, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 172,
     "createdAt": "2023-06-22T23:33:35Z"
   },
   {
@@ -9728,7 +9728,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 36,
     "createdAt": "2023-07-15T13:46:51Z"
   },
   {
@@ -9740,7 +9740,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 12,
     "createdAt": "2023-11-27T17:30:12Z"
   },
   {
@@ -9751,8 +9751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 944,
-    "publicContributions": 216,
+    "privateContributions": 1048,
+    "publicContributions": 180,
     "createdAt": "2023-09-02T15:23:15Z"
   },
   {
@@ -9762,7 +9762,7 @@
     "location": "Caracas, Venezuela",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 64,
     "createdAt": "2023-11-18T12:30:38Z"
@@ -9775,20 +9775,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 284,
-    "publicContributions": 47,
+    "privateContributions": 387,
+    "publicContributions": 37,
     "createdAt": "2023-05-05T15:54:35Z"
   },
   {
     "login": "Acosta-Saul",
-    "name": "Saúl David Acosta Benavides",
+    "name": "Saúl Acosta",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145149375?s=72&u=b916ebc05d26e78b5c08681b6128462cec5bdfb5&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1090,
-    "publicContributions": 43,
+    "privateContributions": 1260,
+    "publicContributions": 42,
     "createdAt": "2023-09-15T16:54:28Z"
   },
   {
@@ -9800,18 +9800,18 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 350,
     "createdAt": "2023-05-07T17:46:26Z"
   },
   {
     "login": "GeorxGi",
     "name": "Georges Chakour",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136130414?s=72&u=9ed413681c1a37665652fffc855a8fc98362cfb0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136130414?s=72&v=4",
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "GeorxGi",
     "followers": 4,
-    "privateContributions": 70,
+    "privateContributions": 60,
     "publicContributions": 5,
     "createdAt": "2023-06-09T22:26:30Z"
   },

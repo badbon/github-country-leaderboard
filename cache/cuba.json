@@ -9908,7 +9908,7 @@
     "twitterUsername": "rixon404_",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 59,
     "createdAt": "2020-03-05T15:51:45Z"
   },
   {
@@ -9930,7 +9930,7 @@
     "location": "Santa Clara, Villa Clara, Cuba",
     "company": "Universidad Central \"Marta Abreu\" de Las Vilas",
     "twitterUsername": "kpitansalami",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-01-04T22:47:16Z"
@@ -9980,7 +9980,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 52,
     "createdAt": "2020-11-20T15:00:46Z"
   },
   {
@@ -9990,7 +9990,7 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-14T06:16:41Z"
@@ -10014,9 +10014,9 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1839,
-    "publicContributions": 18,
+    "followers": 5,
+    "privateContributions": 1101,
+    "publicContributions": 15,
     "createdAt": "2020-03-19T19:46:54Z"
   },
   {
@@ -10028,7 +10028,7 @@
     "twitterUsername": "VictorMoraton87",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 7,
     "createdAt": "2020-03-31T15:24:02Z"
   },
   {
@@ -10051,8 +10051,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 59,
-    "publicContributions": 5,
+    "privateContributions": 6,
+    "publicContributions": 6,
     "createdAt": "2020-03-31T17:15:43Z"
   },
   {
@@ -10092,18 +10092,6 @@
     "createdAt": "2020-01-28T17:37:07Z"
   },
   {
-    "login": "luisernestotrgz",
-    "name": "Luis Ernesto Tellería Rodríguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68137206?s=72&u=a9808365a4ffd683d5d2616a4ba22c5e645784ce&v=4",
-    "location": "Havana, Cuba",
-    "company": "GSI",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2020-07-11T03:18:51Z"
-  },
-  {
     "login": "LM1923",
     "name": "Luis Miguel Pérez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/64630625?s=72&u=bd4d339b164adef915cbab79aa85acd9ecf4b85a&v=4",
@@ -10122,7 +10110,7 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "EberDavid003",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-26T02:49:29Z"

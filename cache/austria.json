@@ -9858,9 +9858,9 @@
     "location": "Vienna",
     "company": "OeKB",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 248,
-    "publicContributions": 411,
+    "followers": 3,
+    "privateContributions": 369,
+    "publicContributions": 564,
     "createdAt": "2024-07-25T18:43:40Z"
   },
   {
@@ -9870,9 +9870,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2024-01-02T10:26:00Z"
   },
   {
@@ -9882,21 +9882,21 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 872,
-    "publicContributions": 234,
+    "followers": 7,
+    "privateContributions": 1670,
+    "publicContributions": 2723,
     "createdAt": "2024-04-26T23:57:41Z"
   },
   {
     "login": "Benjamin-Geiger",
     "name": "Benjamin Geiger",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180523118?s=72&u=584229f954304aa79ad9a055d0515252546e2648&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180523118?s=72&u=84657fb4b3f2f5055e690332a89d84c61dc60212&v=4",
     "location": "Vienna",
     "company": "Hochschule Campus Wien",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 175,
     "createdAt": "2024-09-05T09:10:57Z"
   },
   {
@@ -9919,8 +9919,8 @@
     "company": "TU Wien",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 86,
-    "publicContributions": 3,
+    "privateContributions": 75,
+    "publicContributions": 2,
     "createdAt": "2024-10-17T12:56:39Z"
   },
   {
@@ -9931,20 +9931,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 481,
-    "publicContributions": 984,
+    "privateContributions": 412,
+    "publicContributions": 1017,
     "createdAt": "2024-07-28T11:41:19Z"
   },
   {
     "login": "Damien159",
     "name": "Damien",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163870932?s=72&u=2a51f5d4079a745f01f0ce9f968d2d3dc77caf30&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163870932?s=72&u=ece0167845b5f617552c87c80b876fb251e3e858&v=4",
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 191,
-    "publicContributions": 47,
+    "followers": 6,
+    "privateContributions": 315,
+    "publicContributions": 221,
     "createdAt": "2024-03-18T14:05:57Z"
   },
   {
@@ -9956,7 +9956,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 50,
     "createdAt": "2024-07-22T12:16:44Z"
   },
   {
@@ -9967,8 +9967,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 89,
-    "publicContributions": 729,
+    "privateContributions": 96,
+    "publicContributions": 530,
     "createdAt": "2024-01-31T20:40:34Z"
   },
   {
@@ -9979,8 +9979,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 46,
-    "publicContributions": 64,
+    "privateContributions": 318,
+    "publicContributions": 59,
     "createdAt": "2024-01-10T08:02:13Z"
   },
   {
@@ -10026,22 +10026,10 @@
     "location": "Vienna, VA USA",
     "company": "OKANGA.ai",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2024-12-12T16:02:41Z"
-  },
-  {
-    "login": "awesomeCells",
-    "name": "AlexWS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166860427?s=72&u=c64db74071022c1215dd9621a94cdb659cc506ef&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "alexwstockinger",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2024-04-12T18:10:39Z"
   },
   {
     "login": "JustSchwendi",
@@ -10052,7 +10040,7 @@
     "twitterUsername": "JustSchwendi",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 40,
     "createdAt": "2024-11-16T23:47:57Z"
   },
   {
@@ -219010,5 +218998,125 @@
     "privateContributions": 1500,
     "publicContributions": 623,
     "createdAt": "2024-01-22T16:35:14Z"
+  },
+  {
+    "login": "velunor",
+    "name": "Velu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295364473?s=72&u=3631bb58f9e127622131d7eacc8454ffe8eb84da&v=4",
+    "location": "Vienna, Austria",
+    "company": "Temple Enterprise LLC",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-20T12:38:21Z"
+  },
+  {
+    "login": "avery-brooks-152375",
+    "name": "Avery Brooks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294027839?s=72&u=34b84ab5ad133b2a586e09783b84c2d76edde1f6&v=4",
+    "location": "Vienna, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-06-16T02:00:30Z"
+  },
+  {
+    "login": "ayanp-dev",
+    "name": "Ayan Paul",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294765432?s=72&v=4",
+    "location": "Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-18T09:12:21Z"
+  },
+  {
+    "login": "janeuinely",
+    "name": "Jane",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292269280?s=72&u=6acdbf8de39713fe38ffd450bd65a2a28a165c7c&v=4",
+    "location": "Salzburg, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-09T23:44:44Z"
+  },
+  {
+    "login": "ligalise888-gif",
+    "name": "Konstantin Shreyder",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292687474?s=72&u=d6e2e090e53c0741387df314d81ec474853a6281&v=4",
+    "location": "Graz, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 65,
+    "createdAt": "2026-06-11T06:38:42Z"
+  },
+  {
+    "login": "Sravani-LOGI",
+    "name": "Sravani Thota",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292464522?s=72&v=4",
+    "location": "Graz , Austria",
+    "company": "Logiicdev GmbH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-10T13:37:49Z"
+  },
+  {
+    "login": "Kimai-Support",
+    "name": "Kimai Support",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297180789?s=72&u=31cccb68179b1fcd3b7ae5730d0479f0a5bea308&v=4",
+    "location": "Vienna, Austria",
+    "company": "Kimai",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-26T13:57:44Z"
+  },
+  {
+    "login": "aiderrobv-bot",
+    "name": "Aider Mustafa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290940228?s=72&u=648518682def1e6aa871f92aba8b9b95cad1b2f8&v=4",
+    "location": "Tyrol, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-06-05T05:52:06Z"
+  },
+  {
+    "login": "curdammann-rgb",
+    "name": "Curd Ammann",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294609163?s=72&v=4",
+    "location": "Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-17T19:10:26Z"
+  },
+  {
+    "login": "kitk4tja",
+    "name": "Katja",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292354893?s=72&v=4",
+    "location": "Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-06-10T07:15:01Z"
   }
 ]

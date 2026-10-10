@@ -9584,7 +9584,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2024-09-02T13:03:50Z"
   },
   {
@@ -9608,7 +9608,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 91,
     "createdAt": "2024-08-15T12:46:23Z"
   },
   {
@@ -9642,7 +9642,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-12T17:22:18Z"
@@ -9654,9 +9654,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 449,
-    "publicContributions": 14,
+    "followers": 3,
+    "privateContributions": 615,
+    "publicContributions": 16,
     "createdAt": "2024-05-03T06:47:12Z"
   },
   {
@@ -9667,7 +9667,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 22,
+    "privateContributions": 20,
     "publicContributions": 10,
     "createdAt": "2024-11-18T06:54:58Z"
   },
@@ -9691,7 +9691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 345,
+    "privateContributions": 423,
     "publicContributions": 0,
     "createdAt": "2024-01-20T16:45:19Z"
   },
@@ -9702,9 +9702,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 47,
-    "publicContributions": 32,
+    "followers": 3,
+    "privateContributions": 11,
+    "publicContributions": 2,
     "createdAt": "2024-12-07T23:20:09Z"
   },
   {
@@ -9715,8 +9715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 155,
-    "publicContributions": 147,
+    "privateContributions": 166,
+    "publicContributions": 161,
     "createdAt": "2024-06-25T18:19:32Z"
   },
   {
@@ -9727,8 +9727,8 @@
     "company": "On",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8,
-    "publicContributions": 200,
+    "privateContributions": 5,
+    "publicContributions": 210,
     "createdAt": "2023-12-29T15:33:06Z"
   },
   {
@@ -9739,7 +9739,7 @@
     "company": "Coinnect",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 263,
+    "privateContributions": 329,
     "publicContributions": 1,
     "createdAt": "2024-01-03T09:33:57Z"
   },
@@ -9764,7 +9764,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 58,
     "createdAt": "2024-05-05T19:25:10Z"
   },
   {
@@ -9799,8 +9799,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 846,
-    "publicContributions": 122,
+    "privateContributions": 811,
+    "publicContributions": 117,
     "createdAt": "2024-02-22T08:11:32Z"
   },
   {
@@ -288934,5 +288934,17 @@
     "privateContributions": 0,
     "publicContributions": 52,
     "createdAt": "2026-06-27T10:40:24Z"
+  },
+  {
+    "login": "hekimoghlu",
+    "name": "Tunjay Akbarli",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128295620?s=72&u=2a51c24c99b54f59f1866ffdba76dc3dd8a50fba&v=4",
+    "location": "Meggen, Lucerne, Switzerland",
+    "company": "@theomnira",
+    "twitterUsername": "",
+    "followers": 28,
+    "privateContributions": 395,
+    "publicContributions": 107,
+    "createdAt": "2023-03-19T12:01:02Z"
   }
 ]

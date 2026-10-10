@@ -9942,7 +9942,7 @@
     "location": "Angola",
     "company": "Particular",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-02T14:56:02Z"
@@ -9979,7 +9979,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
+    "privateContributions": 35,
     "publicContributions": 0,
     "createdAt": "2023-01-17T20:32:36Z"
   },
@@ -9998,7 +9998,7 @@
   {
     "login": "BANDELSOM",
     "name": "João bandeira",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133780894?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133780894?s=72&u=b1eb29aa0071114fc67f385dc49d227daa114e7a&v=4",
     "location": "luanda,Angola",
     "company": "",
     "twitterUsername": "",
@@ -10046,13 +10046,13 @@
   {
     "login": "elpidescristiano",
     "name": "Elpides Cristiano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150554473?s=72&u=531803770e9407daf732ceaceb68495586bb80f3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150554473?s=72&u=da2a536d195404726cd8375b21d91a6c23757a24&v=4",
     "location": "Luanda,Angola",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "elpidescris",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2023-11-11T20:33:31Z"
   },
   {
@@ -10112,7 +10112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 5,
     "createdAt": "2023-07-09T21:49:30Z"
   },
   {
@@ -10147,8 +10147,8 @@
     "company": " Empregos Facilitados ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 139,
-    "publicContributions": 104,
+    "privateContributions": 231,
+    "publicContributions": 74,
     "createdAt": "2023-12-06T14:04:40Z"
   },
   {
@@ -30046,5 +30046,101 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-05-26T17:47:08Z"
+  },
+  {
+    "login": "leoalfredo252-art",
+    "name": "Innovation and Mastery by Alfredo Leopoldino",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295245146?s=72&u=27cacdbbfce8046137765cb26662eaff2ab61888&v=4",
+    "location": "Angola",
+    "company": "@InnovationandMasterybyAlfredoLeopoldino",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-06-19T23:19:37Z"
+  },
+  {
+    "login": "cxi5",
+    "name": "Léo Sebastião",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296346605?s=72&u=217e4566aba00bc993e05d5d0a88cb9a73bb1b81&v=4",
+    "location": "Angola ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 156,
+    "createdAt": "2026-06-24T02:30:16Z"
+  },
+  {
+    "login": "programandodozero-dev",
+    "name": "Programando do Zero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292812795?s=72&u=6a76ca50787b0d758fbd83f498a4fd56047c8014&v=4",
+    "location": "Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2026-06-11T14:13:56Z"
+  },
+  {
+    "login": "1204Denny",
+    "name": "Denny Ak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291551662?s=72&u=005d00304c4f9e191a303cba045a7b2f906db73a&v=4",
+    "location": "Luanda, Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-07T15:24:32Z"
+  },
+  {
+    "login": "helio-blip-silver",
+    "name": "Hélio Felisberto",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291528234?s=72&u=09b4b02f4373078b227cf2d1909fb47bc4dac27a&v=4",
+    "location": "Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-07T13:30:58Z"
+  },
+  {
+    "login": "labsofthard-ao",
+    "name": "Lab Softhard",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294175769?s=72&u=46454a5d81ce6b292df8e669ffbebdebac7756ec&v=4",
+    "location": "Luanda, Angola",
+    "company": "DC Investimentos",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-16T12:08:52Z"
+  },
+  {
+    "login": "Malavoloneke",
+    "name": "Avelino Malavoloneke",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291888008?s=72&u=5311474f4259587890953d7e073ab46862ceb1b3&v=4",
+    "location": "Luanda, Angola",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2026-06-08T18:52:44Z"
+  },
+  {
+    "login": "eloframework",
+    "name": "Elo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296220117?s=72&u=0347b4a48bd1d29002926893f1e17ff240087a45&v=4",
+    "location": "Luanda, Angola",
+    "company": "Elo",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T16:01:47Z"
   }
 ]

@@ -9860,7 +9860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 47,
     "createdAt": "2024-02-17T14:14:51Z"
   },
   {
@@ -9883,8 +9883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 224,
-    "publicContributions": 195,
+    "privateContributions": 97,
+    "publicContributions": 64,
     "createdAt": "2024-02-16T17:34:18Z"
   },
   {
@@ -9896,7 +9896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2022-02-18T14:15:15Z"
   },
   {
@@ -9906,9 +9906,9 @@
     "location": "Brussels",
     "company": "19",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 46,
     "createdAt": "2024-02-21T19:48:36Z"
   },
   {
@@ -9919,7 +9919,7 @@
     "company": "Soda",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 52,
+    "privateContributions": 75,
     "publicContributions": 0,
     "createdAt": "2024-01-13T10:10:27Z"
   },
@@ -9930,9 +9930,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 32,
     "createdAt": "2024-04-13T18:47:05Z"
   },
   {
@@ -9944,7 +9944,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2024-12-16T19:52:07Z"
   },
   {
@@ -9954,7 +9954,7 @@
     "location": "Brussels/Seoul",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 93,
     "createdAt": "2024-07-07T16:33:33Z"
@@ -9990,22 +9990,10 @@
     "location": "brussels",
     "company": "Fourdoorai",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 232,
-    "publicContributions": 324,
+    "followers": 9,
+    "privateContributions": 323,
+    "publicContributions": 355,
     "createdAt": "2024-01-03T11:22:47Z"
-  },
-  {
-    "login": "vanneszias",
-    "name": "Zias van Nes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178904621?s=72&u=55f622894d23cda5de165fc79f3ba4b49a82c10b&v=4",
-    "location": "Brussels",
-    "company": "Statik.be",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 531,
-    "publicContributions": 304,
-    "createdAt": "2024-08-20T12:26:57Z"
   },
   {
     "login": "Nathbecode",
@@ -10014,9 +10002,9 @@
     "location": "Brussels",
     "company": "EVO",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2024-04-12T05:38:45Z"
   },
   {
@@ -10050,9 +10038,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 23,
     "createdAt": "2024-05-16T11:09:13Z"
   },
   {
@@ -10062,9 +10050,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 105,
+    "followers": 5,
+    "privateContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2024-07-31T07:42:58Z"
   },
   {
@@ -10072,11 +10060,11 @@
     "name": "X11EZ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/173830819?s=72&u=27d01bc12a42dc8cf5d7fa25db656b4180f50c2c&v=4",
     "location": "Brussels",
-    "company": "",
+    "company": "@shadow-auditor ",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 327,
+    "followers": 5,
+    "privateContributions": 347,
+    "publicContributions": 238,
     "createdAt": "2024-06-25T16:58:22Z"
   },
   {

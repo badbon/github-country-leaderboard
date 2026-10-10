@@ -9896,7 +9896,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 128,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2022-10-02T23:53:43Z"
   },
   {
@@ -9914,13 +9914,13 @@
   {
     "login": "Raz-565",
     "name": "Razmik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119967137?s=72&u=02276e3497edb32b013f88d69cfa032ae8bd7b3a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119967137?s=72&u=7bafca0b68bfd9e86c7d6092405687047651e298&v=4",
     "location": "Yerevan",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 24,
     "createdAt": "2022-12-06T18:32:09Z"
   },
   {
@@ -9944,7 +9944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 562,
+    "publicContributions": 1007,
     "createdAt": "2022-08-29T09:40:02Z"
   },
   {
@@ -9980,7 +9980,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 37,
     "createdAt": "2022-09-07T22:54:08Z"
   },
   {
@@ -9990,9 +9990,9 @@
     "location": "Yerevan",
     "company": "CoinStats",
     "twitterUsername": "AramArakelyan13",
-    "followers": 3,
-    "privateContributions": 7149,
-    "publicContributions": 15,
+    "followers": 4,
+    "privateContributions": 7606,
+    "publicContributions": 22,
     "createdAt": "2022-03-01T06:56:01Z"
   },
   {
@@ -10028,7 +10028,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 46,
     "createdAt": "2022-09-26T15:42:26Z"
   },
   {
@@ -10064,7 +10064,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 23,
     "createdAt": "2022-02-13T11:35:09Z"
   },
   {
@@ -10112,7 +10112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-07-13T13:50:39Z"
   },
   {
@@ -48514,5 +48514,41 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-29T17:06:56Z"
+  },
+  {
+    "login": "Valodya-frontend",
+    "name": "Valodya",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292142951?s=72&v=4",
+    "location": "Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-09T14:21:23Z"
+  },
+  {
+    "login": "amirrajabi752-maker",
+    "name": "Amir Hossein Rajabi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296955454?s=72&u=9b416a33d3178f37ea514b3ad9e07cdeff639154&v=4",
+    "location": "Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-25T17:44:06Z"
+  },
+  {
+    "login": "mherzard",
+    "name": "Mher Zardaryan ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291517572?s=72&u=1ddd6932fee9a59fc7c3291f663d761924abece5&v=4",
+    "location": "Armenia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 36,
+    "createdAt": "2026-06-07T12:37:28Z"
   }
 ]
