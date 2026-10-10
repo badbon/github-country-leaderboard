@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,284
+Indexed users: 1,283
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 1,284
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,721 |
 | 10 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
-| 11 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
-| 12 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 4,061 |
-| 13 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
-| 14 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,735 |
-| 15 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
-| 16 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
-| 17 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
-| 18 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 3,085 |
-| 19 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
-| 20 | [A4GOD-AMHG](https://github.com/A4GOD-AMHG) | Alexis Manuel Hurtado García | Cuba | 2,912 |
+| 11 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,685 |
+| 12 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
+| 13 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 4,061 |
+| 14 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
+| 15 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,735 |
+| 16 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
+| 17 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
+| 18 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
+| 19 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 3,085 |
+| 20 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | Cuba | 3,009 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,284
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-10T13:29:24.269Z
+Generated: 2026-10-10T14:56:53.656Z

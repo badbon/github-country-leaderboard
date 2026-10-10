@@ -16,7 +16,7 @@ Indexed users: 11
 | 2 | [clarkdowding](https://github.com/clarkdowding) | Clark Dowding | Moroni, Utah | 1,536 |
 | 3 | [linkhousni](https://github.com/linkhousni) | Housni Issouffa | Moroni - Comoros | 128 |
 | 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 108 |
-| 5 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 40 |
+| 5 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 43 |
 | 6 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 22 |
 | 7 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Moroni | 8 |
 | 8 | [Yssoufa](https://github.com/Yssoufa) | THABITI YSSOUFA | Comoros | 2 |
@@ -29,7 +29,7 @@ Indexed users: 11
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [DiWess](https://github.com/DiWess) | Soilihi Mohamed Abdoulhalik | Moroni | 396 |
-| 2 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 40 |
+| 2 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 43 |
 | 3 | [slashedk](https://github.com/slashedk) | katchan | Comoros | 22 |
 | 4 | [faustfizz](https://github.com/faustfizz) | Youssouf Mbaé AS | Comoros  | 17 |
 | 5 | [abdi-momo](https://github.com/abdi-momo) | Abdillah Mohamed | Moroni | 8 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [SanyaKRY](https://github.com/SanyaKRY) | SanyaKRY | Comoros | 2 |
 | 11 | [yvssineyh269](https://github.com/yvssineyh269) | Yassine YH | Moroni, Comoros | 2 |
 
-Generated: 2026-10-10T13:27:51.082Z
+Generated: 2026-10-10T14:55:42.876Z

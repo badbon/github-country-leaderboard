@@ -1,8 +1,8 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-10T13:02:59.862Z
+Generated: 2026-10-10T14:27:47.689Z
 
-Users: 1483
+Users: 1482
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1483
 | 14 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 991 |
 | 15 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 744 |
 | 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 741 |
-| 17 | [AbdulrahmanNahhas](https://github.com/AbdulrahmanNahhas) | Abdulrahman Nahhas |  |  | Syria | 686 |
-| 18 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani |  |  | Latakia, Syria | 658 |
-| 19 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |
-| 20 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 578 |
+| 17 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH |  |  | Syria | 734 |
+| 18 | [AbdulrahmanNahhas](https://github.com/AbdulrahmanNahhas) | Abdulrahman Nahhas |  |  | Syria | 686 |
+| 19 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani |  |  | Latakia, Syria | 658 |
+| 20 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | L-One Systems |  | Damascus, Syria | 629 |

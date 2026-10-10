@@ -1,8 +1,8 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-10T13:43:03.493Z
+Generated: 2026-10-10T15:11:19.164Z
 
-Users: 10308
+Users: 10307
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 10308
 | 14 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
 | 15 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
 | 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
-| 17 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |
-| 18 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | @reality-connect  |  | Hong Kong | 10343 |
-| 19 | [wonglok](https://github.com/wonglok) | Wong Lok |  | wonglok831 | Hong Kong | 10082 |
-| 20 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 9686 |
+| 17 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |
+| 18 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |
+| 19 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | @reality-connect  |  | Hong Kong | 10343 |
+| 20 | [wonglok](https://github.com/wonglok) | Wong Lok |  | wonglok831 | Hong Kong | 10082 |

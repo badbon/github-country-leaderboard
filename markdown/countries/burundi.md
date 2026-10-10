@@ -13,7 +13,7 @@ Indexed users: 236
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,222 |
-| 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 4,167 |
+| 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 4,198 |
 | 3 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,536 |
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,489 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 2,099 |
@@ -41,7 +41,7 @@ Indexed users: 236
 | 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,204 |
 | 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 677 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 500 |
-| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 461 |
+| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 465 |
 | 6 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 372 |
 | 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 333 |
 | 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-10T13:21:46.817Z
+Generated: 2026-10-10T14:51:42.900Z

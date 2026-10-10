@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-10T13:28:20.287Z
+Generated: 2026-10-10T14:56:49.680Z
 
 Users: 5439
 
@@ -14,7 +14,7 @@ Users: 5439
 | 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 10662 |
 | 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Caffeinated Code |  | Zagreb, Croatia | 9779 |
 | 8 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
-| 9 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8075 |
+| 9 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
 | 10 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
 | 11 | [markoboras0712](https://github.com/markoboras0712) | mboras | @prototypdigital |  | Osijek, Croatia | 7256 |
 | 12 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 7247 |

@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-10T13:11:30.152Z
+Generated: 2026-10-10T14:37:05.091Z
 
 Users: 1497
 
@@ -8,7 +8,7 @@ Users: 1497
 |---:|---|---|---|---|---|---:|
 | 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani | @openafg |  |  Kabul, Afghanistan | 3455 |
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 668 |
-| 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Afghan Relief | sanooo2001 | Kabul-Afghanistan | 439 |
+| 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Afghan Relief | sanooo2001 | Kabul-Afghanistan | 436 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal |  |  | Kabul | 419 |
 | 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | SharifiNeya Travel Services |  | Kabul | 295 |
 | 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi |  |  | Kabul province  | 281 |
@@ -20,9 +20,9 @@ Users: 1497
 | 12 | [WajihaNiazi](https://github.com/WajihaNiazi) | Wajiha Niazi | CodeToInspire | Wajiha_Niazi | Herat,Afghanistan | 156 |
 | 13 | [ab-noori](https://github.com/ab-noori) | Abdulali Noori | AAK Tele Science |  | Afghanistan | 146 |
 | 14 | [MashalSarwari](https://github.com/MashalSarwari) | Mohammad Mashal Sarwari |  |  | Afghanistan | 144 |
-| 15 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | WASSA |  | Afghanistan | 141 |
-| 16 | [starkbaknet](https://github.com/starkbaknet) | StarkBak |  |  | Kabul, Afghanistan | 135 |
+| 15 | [starkbaknet](https://github.com/starkbaknet) | StarkBak |  |  | Kabul, Afghanistan | 135 |
+| 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | WASSA |  | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Progrology |  | Afghanistan/Kabul | 129 |
 | 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Senior Full Stack Software Engineer | yasinnoori_dev | Kabul, Afghanistan | 126 |
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Product Manager at aseelapp.com  | ZainabTurkmen | Kabul  | 125 |
-| 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 118 |
+| 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal |  | NaveedAHematmal | Afghanistan | 116 |

@@ -30,7 +30,7 @@ Indexed users: 696
 | 16 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 4,929 |
 | 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,745 |
 | 18 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,546 |
-| 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,531 |
+| 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,493 |
 | 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,439 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 696
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-10T13:31:47.988Z
+Generated: 2026-10-10T14:59:18.210Z

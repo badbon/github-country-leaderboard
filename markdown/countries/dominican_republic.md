@@ -15,11 +15,11 @@ Indexed users: 3,314
 | 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 15,916 |
 | 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 15,371 |
 | 3 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
-| 4 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
-| 5 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
-| 6 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 8,404 |
-| 7 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 8,322 |
-| 8 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 8,067 |
+| 4 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
+| 5 | [Urpirio](https://github.com/Urpirio) | UrpirioDev | Dominican Republic  | 8,607 |
+| 6 | [everylisting](https://github.com/everylisting) | Philippe Roy | Dominican-Republic | 8,493 |
+| 7 | [0x-Crisbanks](https://github.com/0x-Crisbanks) | Crisbanks | Dominican Republic  | 8,404 |
+| 8 | [josuegrullon](https://github.com/josuegrullon) | Josue Grullon  | Dominican Republic | 8,322 |
 | 9 | [cervantesh](https://github.com/cervantesh) | Cervantes Hernandez | Dominican Republic | 7,804 |
 | 10 | [elminson](https://github.com/elminson) | Elminson De Oleo Baez | Santo Domingo, Dominican Republic | 7,675 |
 | 11 | [sanchezta](https://github.com/sanchezta) | Adrian Sanchez | Dominican Republic | 6,885 |
@@ -83,4 +83,4 @@ Indexed users: 3,314
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-10T13:31:43.983Z
+Generated: 2026-10-10T14:58:44.717Z

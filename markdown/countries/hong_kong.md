@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,308
+Indexed users: 10,307
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 10,308
 | 14 | [araa47](https://github.com/araa47) | Akshay  | Hong Kong  | 11,917 |
 | 15 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
 | 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
-| 17 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 | Hong Kong | 10,458 |
-| 18 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | Hong Kong | 10,343 |
-| 19 | [wonglok](https://github.com/wonglok) | Wong Lok | Hong Kong | 10,082 |
-| 20 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,686 |
+| 17 | [jasongong111](https://github.com/jasongong111) | Jason Gong | KLT, KW, Hong Kong | 10,906 |
+| 18 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 | Hong Kong | 10,458 |
+| 19 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | Hong Kong | 10,343 |
+| 20 | [wonglok](https://github.com/wonglok) | Wong Lok | Hong Kong | 10,082 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,308
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-10T13:43:03.493Z
+Generated: 2026-10-10T15:11:19.164Z

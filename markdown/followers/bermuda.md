@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-10T13:18:21.488Z
+Generated: 2026-10-10T14:46:44.330Z
 
 Users: 901
 
@@ -9,7 +9,7 @@ Users: 901
 | 1 | [wesbos](https://github.com/wesbos) | Wes Bos | me | wesbos | Hamilton, Ontario | 36008 |
 | 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 927 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | @architect-co | augustoproiete | Bermuda | 331 |
-| 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | @USS-CALLISTER @angxlpraize ₊˚⊹ ᰔ ͟͟͞͞➳❥ bums ‧₊˚ ┊ (๑-﹏-๑) 𓂃 i ♡ all of my oomfs!! ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ i follow everyone back on my spam accs!!  ₊˚⊹♡  20+ dniuf  ִֶָpls  ഒ·˚ ⊹ ࣪ ˖ alt accs : @yasuhirohagakure @johnsoapmactavish @deartheodosia |  | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 271 |
+| 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | @USS-CALLISTER @angxlpraize ₊˚⊹ ᰔ ͟͟͞͞➳❥ bums ‧₊˚ ┊ (๑-﹏-๑) 𓂃 i ♡ all of my oomfs!! ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚ i follow everyone back on my spam accs!!  ₊˚⊹♡  20+ dniuf  ִֶָpls  ഒ·˚ ⊹ ࣪ ˖ alt accs : @yasuhirohagakure @johnsoapmactavish @deartheodosia |  | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 272 |
 | 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | McMaster University |  | Hamilton, ON | 224 |
 | 6 | [drewminns](https://github.com/drewminns) | Drew Minns | @reallygoodwork |  | Hamilton | 219 |
 | 7 | [DesktopECHO](https://github.com/DesktopECHO) |  |  |  | Hamilton, Bermuda | 205 |

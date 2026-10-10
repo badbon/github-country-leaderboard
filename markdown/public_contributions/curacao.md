@@ -1,6 +1,6 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-10T13:29:27.248Z
+Generated: 2026-10-10T14:56:57.943Z
 
 Users: 53
 
@@ -13,7 +13,7 @@ Users: 53
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
 | 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 63 |
-| 8 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 62 |
+| 8 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 63 |
 | 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
 | 10 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
 | 11 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |

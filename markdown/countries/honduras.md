@@ -1,6 +1,6 @@
 # Honduras
 
-Indexed users: 1,265
+Indexed users: 1,264
 
 | Leaderboard | Link |
 |---|---|
@@ -71,16 +71,16 @@ Indexed users: 1,265
 | 7 | [salvatoretrimarchi](https://github.com/salvatoretrimarchi) | Salvatore Josue Trimarchi Pinto | Honduras | 182 |
 | 8 | [DavidBrionesFF](https://github.com/DavidBrionesFF) | Jose David Briones Rosa | Tegucigalpa, Honduras, C,A | 178 |
 | 9 | [andriksantos](https://github.com/andriksantos) | Andrik Santos | Honduras | 152 |
-| 10 | [FranciscoJGuz](https://github.com/FranciscoJGuz) | Francisco Javier Guzmán Lagos | Tegucigalpa, Honduras | 148 |
+| 10 | [FranciscoJGuz](https://github.com/FranciscoJGuz) | Francisco Javier Guzmán Lagos | Tegucigalpa, Honduras | 146 |
 | 11 | [carlosdarioio](https://github.com/carlosdarioio) | Carlos Dario Flores  | San Pedro Sula, Honduras | 144 |
 | 12 | [hsabillon7](https://github.com/hsabillon7) | Héctor Sabillón | Honduras | 136 |
 | 13 | [konkkeror](https://github.com/konkkeror) | Erick Marín | Honduras | 112 |
 | 14 | [isinicolle](https://github.com/isinicolle) | Isis Zapata Florentino | Honduras | 110 |
 | 15 | [StarSheriff2](https://github.com/StarSheriff2) | Arturo Alvarez | Honduras | 104 |
 | 16 | [aalvrz](https://github.com/aalvrz) | Andrés Álvarez | 🇭🇳 Honduras | 88 |
-| 17 | [AntonioCardenas](https://github.com/AntonioCardenas) | Antonio Cardenas | Honduras | 70 |
-| 18 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras | Honduras | 66 |
-| 19 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
-| 20 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
+| 17 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras | Honduras | 66 |
+| 18 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
+| 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
+| 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-10T13:43:00.604Z
+Generated: 2026-10-10T15:11:15.636Z

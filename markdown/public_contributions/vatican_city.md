@@ -1,6 +1,6 @@
 # Public Contributions - Vatican City
 
-Generated: 2026-10-10T13:08:30.423Z
+Generated: 2026-10-10T14:34:57.887Z
 
 Users: 30
 
@@ -9,8 +9,8 @@ Users: 30
 | 1 | [Ventexx](https://github.com/Ventexx) | Ventex |  |  | Vatican City | 168 |
 | 2 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Parufex |  | Vatican | 149 |
 | 3 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu |  |  | Vatican | 42 |
-| 4 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski |  |  | Vatican | 19 |
-| 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 18 |
+| 4 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | ISP Service |  | Vatican City State | 24 |
+| 5 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski |  |  | Vatican | 19 |
 | 6 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | @CastroRegionalClimateGroup  |  | Vatican City State  | 15 |
 | 7 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | MyLabz | amine_boucham | Vatican City State (Holy See)  | 15 |
 | 8 | [spepei484-coder](https://github.com/spepei484-coder) | Sheretenya | ShereProject |  | Vatican | 11 |

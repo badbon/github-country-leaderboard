@@ -12,14 +12,14 @@ Indexed users: 133
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,464 |
-| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,124 |
+| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,467 |
+| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,127 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,688 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,159 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,689 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,624 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,835 |
-| 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,730 |
+| 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,740 |
 | 9 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,363 |
 | 10 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,349 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,328 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-10T13:17:46.619Z
+Generated: 2026-10-10T14:44:27.899Z

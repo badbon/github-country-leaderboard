@@ -63,7 +63,7 @@ Indexed users: 1,343
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [malgamves](https://github.com/malgamves) | Daniel Madalitso Phiri | Lusaka, Zambia | 432 |
-| 2 | [Billypeterlennards](https://github.com/Billypeterlennards) | Billy Peter Munyenyembe | Lusaka,Zambia | 313 |
+| 2 | [Billypeterlennards](https://github.com/Billypeterlennards) | Billy Peter Munyenyembe | Lusaka,Zambia | 392 |
 | 3 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 302 |
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 233 |
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
@@ -74,8 +74,8 @@ Indexed users: 1,343
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 152 |
 | 11 | [akebu6](https://github.com/akebu6) | Akebu | Zambia | 133 |
 | 12 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 122 |
-| 13 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Lusaka, Zambia | 116 |
-| 14 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 115 |
+| 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 116 |
+| 14 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Lusaka, Zambia | 116 |
 | 15 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 113 |
 | 16 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje | Ndola, Zambia | 109 |
 | 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 107 |
@@ -83,4 +83,4 @@ Indexed users: 1,343
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-10T13:10:20.399Z
+Generated: 2026-10-10T14:36:14.903Z

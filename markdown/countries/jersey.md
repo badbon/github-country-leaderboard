@@ -17,7 +17,7 @@ Indexed users: 140
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,007 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,145 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,114 |
-| 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,667 |
+| 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,672 |
 | 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,585 |
 | 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,098 |
 | 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,058 |
@@ -83,4 +83,4 @@ Indexed users: 140
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-10T13:47:51.771Z
+Generated: 2026-10-10T15:16:10.308Z
