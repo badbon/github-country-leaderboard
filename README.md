@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [United States Minor Outlying Islands](markdown/countries/united_states_minor_outlying_islands.md) | 0 | [Public](markdown/public_contributions/united_states_minor_outlying_islands.md) | [Total](markdown/total_contributions/united_states_minor_outlying_islands.md) | [Followers](markdown/followers/united_states_minor_outlying_islands.md) |
-| [Cyprus](markdown/countries/cyprus.md) | 2,741 | [Public](markdown/public_contributions/cyprus.md) | [Total](markdown/total_contributions/cyprus.md) | [Followers](markdown/followers/cyprus.md) |
-| [Samoa](markdown/countries/samoa.md) | 19 | [Public](markdown/public_contributions/samoa.md) | [Total](markdown/total_contributions/samoa.md) | [Followers](markdown/followers/samoa.md) |
-| [British Virgin Islands](markdown/countries/british_virgin_islands.md) | 38 | [Public](markdown/public_contributions/british_virgin_islands.md) | [Total](markdown/total_contributions/british_virgin_islands.md) | [Followers](markdown/followers/british_virgin_islands.md) |
-| [Guadeloupe](markdown/countries/guadeloupe.md) | 87 | [Public](markdown/public_contributions/guadeloupe.md) | [Total](markdown/total_contributions/guadeloupe.md) | [Followers](markdown/followers/guadeloupe.md) |
+| [Cuba](markdown/countries/cuba.md) | 1,286 | [Public](markdown/public_contributions/cuba.md) | [Total](markdown/total_contributions/cuba.md) | [Followers](markdown/followers/cuba.md) |
+| [United States Virgin Islands](markdown/countries/united_states_virgin_islands.md) | 4 | [Public](markdown/public_contributions/united_states_virgin_islands.md) | [Total](markdown/total_contributions/united_states_virgin_islands.md) | [Followers](markdown/followers/united_states_virgin_islands.md) |
+| [Martinique](markdown/countries/martinique.md) | 75 | [Public](markdown/public_contributions/martinique.md) | [Total](markdown/total_contributions/martinique.md) | [Followers](markdown/followers/martinique.md) |
+| [Lithuania](markdown/countries/lithuania.md) | 5,396 | [Public](markdown/public_contributions/lithuania.md) | [Total](markdown/total_contributions/lithuania.md) | [Followers](markdown/followers/lithuania.md) |
+| [Thailand](markdown/countries/thailand.md) | 14,991 | [Public](markdown/public_contributions/thailand.md) | [Total](markdown/total_contributions/thailand.md) | [Followers](markdown/followers/thailand.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-09T23:46:37.860Z
+Generated: 2026-10-10T00:03:24.847Z

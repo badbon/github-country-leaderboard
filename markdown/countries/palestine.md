@@ -44,9 +44,9 @@ Indexed users: 2,209
 | 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 1,464 |
 | 6 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,436 |
 | 7 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh |  Palestine - Ramallah | 1,406 |
-| 8 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 1,216 |
-| 9 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | Palestine | 1,193 |
-| 10 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
+| 8 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | Palestine | 1,193 |
+| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
+| 10 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 982 |
 | 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | Palestine, Gaza | 944 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 922 |
 | 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
@@ -83,4 +83,4 @@ Indexed users: 2,209
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-09T18:39:05.232Z
+Generated: 2026-10-10T00:02:12.814Z

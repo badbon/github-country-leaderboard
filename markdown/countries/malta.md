@@ -24,14 +24,14 @@ Indexed users: 1,226
 | 10 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
 | 11 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
 | 12 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
-| 13 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
-| 14 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
-| 15 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
-| 16 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
-| 17 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
-| 18 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 5,523 |
-| 19 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
-| 20 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 4,993 |
+| 13 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,471 |
+| 14 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
+| 15 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
+| 16 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,842 |
+| 17 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 5,768 |
+| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
+| 19 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 5,523 |
+| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,226
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-09T18:32:02.923Z
+Generated: 2026-10-09T23:49:41.844Z

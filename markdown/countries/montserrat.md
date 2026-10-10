@@ -22,8 +22,8 @@ Indexed users: 291
 | 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,065 |
 | 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,322 |
 | 10 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,128 |
-| 11 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,019 |
-| 12 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 1,990 |
+| 11 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,023 |
+| 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,019 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,458 |
 | 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,405 |
 | 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,270 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-09T18:34:04.291Z
+Generated: 2026-10-09T23:53:03.321Z

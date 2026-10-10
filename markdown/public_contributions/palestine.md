@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-09T18:39:05.232Z
+Generated: 2026-10-10T00:02:12.814Z
 
 Users: 2209
 
@@ -13,9 +13,9 @@ Users: 2209
 | 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 1464 |
 | 6 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | IUG |  | Gaza, Palestine | 1436 |
 | 7 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh | @Restaurant365 |  |  Palestine - Ramallah | 1406 |
-| 8 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Blue | OMARCODING_LEET | Palestine,Ramallah | 1216 |
-| 9 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 1193 |
-| 10 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1014 |
+| 8 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 1193 |
+| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1014 |
+| 10 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Blue | OMARCODING_LEET | Palestine,Ramallah | 982 |
 | 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 944 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 922 |
 | 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |

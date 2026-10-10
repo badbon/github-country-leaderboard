@@ -29,9 +29,9 @@ Indexed users: 996
 | 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
 | 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
 | 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
-| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
-| 19 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 4,151 |
-| 20 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Sultanate of Oman, al khuwair muscat | 3,873 |
+| 18 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,219 |
+| 19 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
+| 20 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 4,151 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 996
 | 19 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-09T18:38:53.872Z
+Generated: 2026-10-10T00:00:44.755Z

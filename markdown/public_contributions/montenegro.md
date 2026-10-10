@@ -1,8 +1,8 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-09T18:33:38.905Z
+Generated: 2026-10-09T23:52:57.237Z
 
-Users: 895
+Users: 894
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 895
 | 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1371 |
 | 17 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1233 |
 | 18 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1170 |
-| 19 | [FrameMuse](https://github.com/FrameMuse) | Valery Zinchenko |  |  | Podgorica | 922 |
-| 20 | [Amper](https://github.com/Amper) | Alexander Marshalov | @VictoriaMetrics | Amper | Montenegro | 919 |
+| 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Script Heads |  | Montenegro | 1105 |
+| 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | @Tech-Fabric  |  | Montenegro | 960 |

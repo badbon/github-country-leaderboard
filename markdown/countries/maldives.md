@@ -74,7 +74,7 @@ Indexed users: 354
 | 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX | Maldives | 79 |
 | 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau | Maldives | 71 |
 | 12 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 67 |
-| 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 | Maldives | 62 |
+| 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 | Maldives | 63 |
 | 14 | [xahy](https://github.com/xahy) | Ismail Zahee | Maldives | 61 |
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 58 |
 | 16 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | Maldives | 46 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-09T18:31:46.138Z
+Generated: 2026-10-09T23:49:33.471Z

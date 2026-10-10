@@ -1,6 +1,6 @@
 # Public Contributions - Macau
 
-Generated: 2026-10-09T18:31:29.798Z
+Generated: 2026-10-09T23:47:47.355Z
 
 Users: 441
 
@@ -19,7 +19,7 @@ Users: 441
 | 11 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang |  |  | macao | 794 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint |  |  | Macau | 758 |
-| 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 673 |
+| 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao Polytechnic University / Universidade de Coimbra  |  | Macao, China and Coimbra, Portugal | 685 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li |  | Doong__Li | Taipa, Macau | 656 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | City University of Macau |  | Macau | 596 |
 | 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 550 |

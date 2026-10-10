@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-09T18:38:53.872Z
+Generated: 2026-10-10T00:00:44.755Z
 
 Users: 996
 
@@ -23,6 +23,6 @@ Users: 996
 | 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
 | 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4239 |
 | 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
-| 18 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
-| 19 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Rihal | WKHarthi | Oman | 4151 |
-| 20 | [zado-os](https://github.com/zado-os) | Hussain Al-zadjali | Ministry of Transport, Communications, and Information Technology (MTCIT) |  | Sultanate of Oman, al khuwair muscat | 3873 |
+| 18 | [amk9889](https://github.com/amk9889) | Alfarouq |  |  | Oman | 4219 |
+| 19 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
+| 20 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Rihal | WKHarthi | Oman | 4151 |

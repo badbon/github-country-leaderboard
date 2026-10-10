@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-09T18:31:46.138Z
+Generated: 2026-10-09T23:49:33.471Z
 
 Users: 354
 
@@ -18,7 +18,7 @@ Users: 354
 | 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX |  | Z3d0X | Maldives | 79 |
 | 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau |  |  | Maldives | 71 |
 | 12 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 67 |
-| 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 |  |  | Maldives | 62 |
+| 13 | [nafeef123](https://github.com/nafeef123) | Mafeef123 |  |  | Maldives | 63 |
 | 14 | [xahy](https://github.com/xahy) | Ismail Zahee |  | xahyx | Maldives | 61 |
 | 15 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali |  |  | Maldives | 58 |
 | 16 | [Adamwaheed](https://github.com/Adamwaheed) | Adam | @HelloWoldMV @pension  |  | Maldives | 46 |

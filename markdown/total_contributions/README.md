@@ -122,7 +122,7 @@ Published countries: 234
 | Libya | 743 | [View](./libya.md) |
 | Liechtenstein | 113 | [View](./liechtenstein.md) |
 | Lithuania | 5,396 | [View](./lithuania.md) |
-| Luxembourg | 2,202 | [View](./luxembourg.md) |
+| Luxembourg | 2,201 | [View](./luxembourg.md) |
 | Macau | 441 | [View](./macau.md) |
 | Madagascar | 1,910 | [View](./madagascar.md) |
 | Malawi | 902 | [View](./malawi.md) |
@@ -135,14 +135,14 @@ Published countries: 234
 | Mauritania | 289 | [View](./mauritania.md) |
 | Mauritius | 715 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
-| Mexico | 23,507 | [View](./mexico.md) |
+| Mexico | 23,506 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,757 | [View](./moldova.md) |
 | Monaco | 143 | [View](./monaco.md) |
 | Mongolia | 805 | [View](./mongolia.md) |
-| Montenegro | 895 | [View](./montenegro.md) |
+| Montenegro | 894 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,672 | [View](./morocco.md) |
+| Morocco | 9,671 | [View](./morocco.md) |
 | Mozambique | 1,176 | [View](./mozambique.md) |
 | Myanmar | 2,080 | [View](./myanmar.md) |
 | Namibia | 476 | [View](./namibia.md) |
@@ -160,7 +160,7 @@ Published countries: 234
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,617 | [View](./norway.md) |
 | Oman | 996 | [View](./oman.md) |
-| Pakistan | 41,689 | [View](./pakistan.md) |
+| Pakistan | 41,687 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,209 | [View](./palestine.md) |
 | Panama | 1,071 | [View](./panama.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,343 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-09T23:46:37.860Z
+Generated: 2026-10-10T00:03:24.847Z

@@ -67,7 +67,7 @@ Indexed users: 805
 | 3 | [dulmandakh](https://github.com/dulmandakh) | Dulmandakh | Ulaanbaatar, Mongolia | 269 |
 | 4 | [bilguunint](https://github.com/bilguunint) | Bilguun Nyamlhagva | Mongolia | 242 |
 | 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 225 |
-| 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 219 |
+| 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 220 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar | Mongolia | 176 |
 | 9 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 111 |
@@ -77,10 +77,10 @@ Indexed users: 805
 | 13 | [je3f0o](https://github.com/je3f0o) | Батхишиг | Mongolia | 101 |
 | 14 | [enkhee-Osiris](https://github.com/enkhee-Osiris) | Enkh-Erdene (osiris) | Ulaanbaatar, Mongolia | 99 |
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | Ulaanbaatar, Mongolia | 83 |
-| 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Mongolia | 72 |
+| 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Mongolia | 74 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 72 |
 | 18 | [mchigm](https://github.com/mchigm) | MCHIGM | Mongolia | 65 |
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-09T18:33:30.912Z
+Generated: 2026-10-09T23:52:52.656Z
