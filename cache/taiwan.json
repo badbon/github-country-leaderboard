@@ -9332,7 +9332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 65,
     "createdAt": "2024-02-18T02:05:28Z"
   },
   {
@@ -9355,20 +9355,20 @@
     "company": "National Taiwan University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 80,
-    "publicContributions": 238,
+    "privateContributions": 217,
+    "publicContributions": 212,
     "createdAt": "2024-11-23T15:02:35Z"
   },
   {
     "login": "yakiniku35",
-    "name": "Peter Chiu",
+    "name": "Peter C",
     "avatarUrl": "https://avatars.githubusercontent.com/u/164721512?s=72&u=fae261c7abd91f27703c58408de696b32cf90a39&v=4",
     "location": "Taipei",
     "company": "NCCU",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 454,
-    "publicContributions": 768,
+    "followers": 2,
+    "privateContributions": 681,
+    "publicContributions": 783,
     "createdAt": "2024-03-24T06:13:29Z"
   },
   {
@@ -9392,7 +9392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 53,
     "createdAt": "2024-08-10T00:38:11Z"
   },
   {
@@ -9404,7 +9404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-03-29T06:44:14Z"
   },
   {
@@ -9492,30 +9492,6 @@
     "createdAt": "2024-05-02T08:06:53Z"
   },
   {
-    "login": "MarkLo28",
-    "name": "CheLo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174348640?s=72&v=4",
-    "location": "Taipei",
-    "company": "National Taipei University of Technology",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 346,
-    "publicContributions": 1,
-    "createdAt": "2024-07-01T13:45:10Z"
-  },
-  {
-    "login": "CdyTim630",
-    "name": "CdyTim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185063144?s=72&u=13507a1bf7ac4ebddb499d69fecffd52672eab9c&v=4",
-    "location": "Taipei",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 220,
-    "createdAt": "2024-10-15T10:36:20Z"
-  },
-  {
     "login": "TsengYuanChe",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/160736344?s=72&u=abdd954f7a7f6eda17da86c4b3e44f4f3af9887e&v=4",
@@ -9524,7 +9500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 299,
     "createdAt": "2024-02-21T11:47:15Z"
   },
   {

@@ -9396,18 +9396,6 @@
     "createdAt": "2022-09-23T12:45:55Z"
   },
   {
-    "login": "ROOKA-IIIIIIIIIIIIIIIIIIIIIIIII",
-    "name": "ROOKA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118138606?s=72&u=d76c6bb189add33f2a68ad594516c1ec36741f5b&v=4",
-    "location": "iraq",
-    "company": "FCB",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2022-11-13T22:13:35Z"
-  },
-  {
     "login": "mhlael12",
     "name": "Mhlael Sultan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98062456?s=72&u=2b5e202394f0a13ccbff7d916e60ec41476e6708&v=4",
@@ -9464,7 +9452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 15,
     "createdAt": "2022-06-06T23:41:25Z"
   },
   {
@@ -9474,9 +9462,9 @@
     "location": "Baghdad",
     "company": "BIT",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 42,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 192,
     "createdAt": "2021-12-30T14:12:17Z"
   },
   {
@@ -9486,9 +9474,9 @@
     "location": "Baghdad",
     "company": "@ffc-iq",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 1180,
-    "publicContributions": 24,
+    "followers": 25,
+    "privateContributions": 1457,
+    "publicContributions": 12,
     "createdAt": "2022-04-11T01:46:27Z"
   },
   {
@@ -9498,7 +9486,7 @@
     "location": "Baghdad",
     "company": "@nu-coie",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2022-06-17T10:18:57Z"
@@ -9570,7 +9558,7 @@
     "location": "Baghdad",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-14T20:31:19Z"
@@ -9582,7 +9570,7 @@
     "location": "Baghdad",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-19T09:10:29Z"
@@ -9595,7 +9583,7 @@
     "company": "eSITE",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 12,
+    "privateContributions": 151,
     "publicContributions": 29,
     "createdAt": "2022-08-06T16:48:55Z"
   },
@@ -9618,7 +9606,7 @@
     "location": "Baghdad",
     "company": "Iraq",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-18T17:42:11Z"

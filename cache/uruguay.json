@@ -9535,7 +9535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-07T10:13:03Z"
   },
@@ -9570,7 +9570,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-28T21:37:23Z"
@@ -9608,7 +9608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 65,
     "createdAt": "2023-09-21T18:34:31Z"
   },
   {
@@ -9619,7 +9619,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 817,
+    "privateContributions": 904,
     "publicContributions": 0,
     "createdAt": "2023-06-19T20:07:35Z"
   },
@@ -9632,7 +9632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 13,
     "createdAt": "2023-01-20T23:25:30Z"
   },
   {
@@ -9726,9 +9726,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 30,
     "createdAt": "2023-09-11T22:52:33Z"
   },
   {
@@ -9742,18 +9742,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-19T17:45:24Z"
-  },
-  {
-    "login": "m-dopazo",
-    "name": "Mauricio Dopazo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141083671?s=72&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-07-31T23:23:20Z"
   },
   {
     "login": "mateo1627",

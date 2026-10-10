@@ -9800,7 +9800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-03-25T05:08:03Z"
   },
   {
@@ -9812,7 +9812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 148,
     "createdAt": "2023-05-23T02:29:35Z"
   },
   {
@@ -9830,25 +9830,25 @@
   {
     "login": "luciasotox",
     "name": "Lucía Soto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151862844?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151862844?s=72&u=b5eec267286746fe52f1486646b5cfa3726e4730&v=4",
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-11-23T16:14:20Z"
   },
   {
     "login": "Iagomez05",
     "name": "Ian Yoel Gómez Oses",
     "avatarUrl": "https://avatars.githubusercontent.com/u/148839935?s=72&u=c5f79e689e934f3007dfda56b9abd12e22c46259&v=4",
-    "location": "Costa Rica, Cartago, Oriental",
+    "location": "Cartago, Costa Rica",
     "company": "TEC",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 47,
     "createdAt": "2023-10-24T04:26:15Z"
   },
   {
@@ -9859,7 +9859,7 @@
     "company": "Snowflake Inc",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 476,
+    "privateContributions": 278,
     "publicContributions": 3,
     "createdAt": "2023-03-13T14:26:38Z"
   },
@@ -9884,7 +9884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 13,
     "createdAt": "2023-12-23T02:16:31Z"
   },
   {
@@ -9896,7 +9896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 92,
     "createdAt": "2023-06-10T16:21:33Z"
   },
   {
@@ -9907,8 +9907,8 @@
     "company": "UCR",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
-    "publicContributions": 12,
+    "privateContributions": 31,
+    "publicContributions": 14,
     "createdAt": "2023-11-11T04:48:01Z"
   },
   {
@@ -9919,8 +9919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 486,
-    "publicContributions": 7,
+    "privateContributions": 373,
+    "publicContributions": 0,
     "createdAt": "2023-08-16T18:29:02Z"
   },
   {
@@ -9932,7 +9932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 45,
     "createdAt": "2023-06-03T20:07:00Z"
   },
   {
@@ -9992,7 +9992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 84,
     "createdAt": "2023-10-09T01:43:47Z"
   },
   {
@@ -10002,8 +10002,8 @@
     "location": "Costa Rica",
     "company": "@STOREFORCE-SOLUTIONS ",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1137,
+    "followers": 3,
+    "privateContributions": 1089,
     "publicContributions": 3,
     "createdAt": "2023-03-14T18:07:09Z"
   },

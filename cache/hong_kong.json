@@ -9523,21 +9523,9 @@
     "company": "HKU",
     "twitterUsername": "",
     "followers": 51,
-    "privateContributions": 447,
-    "publicContributions": 1015,
+    "privateContributions": 595,
+    "publicContributions": 925,
     "createdAt": "2023-09-23T05:34:51Z"
-  },
-  {
-    "login": "Ethereal49",
-    "name": "Ethereal49",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128294874?s=72&u=08d6fba9430a924f8ed0d0fbac1fb28771495d84&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 50,
-    "privateContributions": 22,
-    "publicContributions": 181,
-    "createdAt": "2023-03-19T11:48:08Z"
   },
   {
     "login": "ChrisDud0257",
@@ -9548,7 +9536,7 @@
     "twitterUsername": "",
     "followers": 48,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 2,
     "createdAt": "2023-03-16T11:40:54Z"
   },
   {
@@ -9558,9 +9546,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 47,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 49,
     "createdAt": "2023-01-07T10:43:11Z"
   },
   {
@@ -9570,9 +9558,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2023-06-14T02:07:11Z"
   },
   {
@@ -9583,8 +9571,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 43,
-    "privateContributions": 296,
-    "publicContributions": 323,
+    "privateContributions": 323,
+    "publicContributions": 280,
     "createdAt": "2023-03-19T14:06:02Z"
   },
   {
@@ -9594,9 +9582,9 @@
     "location": "Clear Water Bay, Hong Kong",
     "company": "HKUST",
     "twitterUsername": "Adrian_Z_Wang",
-    "followers": 43,
-    "privateContributions": 13944,
-    "publicContributions": 1178,
+    "followers": 53,
+    "privateContributions": 33190,
+    "publicContributions": 1379,
     "createdAt": "2023-02-19T13:35:14Z"
   },
   {
@@ -9606,21 +9594,21 @@
     "location": "Hong Kong",
     "company": "AIFlow.ml",
     "twitterUsername": "AIFlow_ML",
-    "followers": 42,
-    "privateContributions": 7126,
-    "publicContributions": 31,
+    "followers": 41,
+    "privateContributions": 8395,
+    "publicContributions": 27,
     "createdAt": "2023-12-26T05:19:18Z"
   },
   {
     "login": "Misaka-N",
     "name": "Ziyang Cheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122147034?s=72&u=005a6a40f7faa2e880086266e3487806544b3cd5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122147034?s=72&u=b29d80c88058facdf9b8451c3d4915c06f5f20cf&v=4",
     "location": "Hong Kong, China",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 122,
-    "publicContributions": 6,
+    "followers": 44,
+    "privateContributions": 120,
+    "publicContributions": 0,
     "createdAt": "2023-01-07T07:43:33Z"
   },
   {
@@ -9631,8 +9619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 3897,
-    "publicContributions": 267,
+    "privateContributions": 4297,
+    "publicContributions": 249,
     "createdAt": "2023-02-28T17:42:51Z"
   },
   {
@@ -9654,34 +9642,22 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2023-07-15T07:24:12Z"
   },
   {
     "login": "lachlanchen",
     "name": "Lachlan Chen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139730990?s=72&u=13e6b01b59299f5054345e6d1a887e7a82339d1e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139730990?s=72&u=f4305ca91f2b8645279c0ba498a8b315d11d9c60&v=4",
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 946,
-    "publicContributions": 311,
+    "followers": 41,
+    "privateContributions": 955,
+    "publicContributions": 396,
     "createdAt": "2023-07-17T03:18:14Z"
-  },
-  {
-    "login": "chenx820",
-    "name": "Chen Huang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147047538?s=72&u=8dfac34023be6d505a4224e1aa2134408e204f7e&v=4",
-    "location": "Hong Kong",
-    "company": "The Chinese University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 141,
-    "publicContributions": 218,
-    "createdAt": "2023-10-05T09:42:35Z"
   },
   {
     "login": "HealorCai",
@@ -9690,9 +9666,9 @@
     "location": "Hong Kong, China",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 53,
     "createdAt": "2023-02-03T03:16:11Z"
   },
   {
@@ -9714,9 +9690,9 @@
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "EstherChan228",
-    "followers": 32,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 80,
     "createdAt": "2023-04-02T08:55:03Z"
   },
   {
@@ -9728,7 +9704,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 456,
+    "publicContributions": 558,
     "createdAt": "2023-09-06T05:57:58Z"
   },
   {
@@ -9738,9 +9714,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 5,
     "createdAt": "2023-02-27T12:06:15Z"
   },
   {

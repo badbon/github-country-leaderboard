@@ -9728,7 +9728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2024-11-22T07:02:08Z"
   },
   {
@@ -9764,7 +9764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 775,
+    "publicContributions": 543,
     "createdAt": "2024-10-16T18:09:57Z"
   },
   {
@@ -9788,7 +9788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 2,
     "createdAt": "2024-10-12T16:30:42Z"
   },
   {
@@ -9800,7 +9800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 34,
     "createdAt": "2024-07-23T12:19:42Z"
   },
   {
@@ -9812,20 +9812,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 654,
+    "publicContributions": 1268,
     "createdAt": "2024-02-23T18:20:09Z"
-  },
-  {
-    "login": "panossmav",
-    "name": "Panos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185585120?s=72&v=4",
-    "location": "Athens, Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 53,
-    "publicContributions": 8,
-    "createdAt": "2024-10-19T06:49:01Z"
   },
   {
     "login": "DimitrisM93",
@@ -9836,7 +9824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 220,
     "createdAt": "2024-07-10T00:36:56Z"
   },
   {
@@ -9847,33 +9835,21 @@
     "company": "Athens University of Economics and Business",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 1,
+    "publicContributions": 15,
     "createdAt": "2024-04-10T19:39:40Z"
   },
   {
     "login": "ChrApostolidis",
-    "name": "Xristos Apostolidis",
+    "name": "Christos Apostolidis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/157042562?s=72&u=030e3fb0b0451380f928c81b7c2f6e3dc33bc57c&v=4",
     "location": "SKG,Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 159,
-    "publicContributions": 360,
+    "privateContributions": 98,
+    "publicContributions": 504,
     "createdAt": "2024-01-18T15:56:39Z"
-  },
-  {
-    "login": "archtecgr",
-    "name": "Orfeas D.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180060425?s=72&u=e88db010de83b194c766fa2f495e4f408363aa60&v=4",
-    "location": "Athens, Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 22,
-    "createdAt": "2024-09-01T00:50:29Z"
   },
   {
     "login": "MiChOwOrld",
@@ -9902,13 +9878,13 @@
   {
     "login": "Anesiadis-Th",
     "name": "Theocharis Anesiadis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184971710?s=72&u=4eb687a057fe0e190bc3ac9eb081bf76a9f9cd67&v=4",
-    "location": "Greece, Thessaloniki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184971710?s=72&u=9715f090cbfab1dc1c3e47d15654b7901ecc2032&v=4",
+    "location": "Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 141,
+    "privateContributions": 10,
+    "publicContributions": 114,
     "createdAt": "2024-10-14T16:07:30Z"
   },
   {

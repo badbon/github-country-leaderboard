@@ -9463,8 +9463,8 @@
     "company": "Weeylo Smartech",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1483,
-    "publicContributions": 8,
+    "privateContributions": 1041,
+    "publicContributions": 6,
     "createdAt": "2020-09-01T17:40:04Z"
   },
   {
@@ -9474,21 +9474,21 @@
     "location": "Zimbabwe .",
     "company": "Neo",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 85,
-    "publicContributions": 80,
+    "followers": 10,
+    "privateContributions": 170,
+    "publicContributions": 101,
     "createdAt": "2020-09-16T13:34:21Z"
   },
   {
     "login": "mafaro21",
     "name": "Mafaro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64313861?s=72&u=1624e80575404fa6f71f9756ead1cfbbea658705&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64313861?s=72&u=97ea945623753ae1280c4c7bd906eff1969c9251&v=4",
     "location": "Harare, Zimbabwe",
     "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 91,
-    "publicContributions": 191,
+    "twitterUsername": "mafadev",
+    "followers": 10,
+    "privateContributions": 95,
+    "publicContributions": 195,
     "createdAt": "2020-04-25T12:35:07Z"
   },
   {
@@ -9498,9 +9498,9 @@
     "location": "Harare Zimbabwe",
     "company": "263 Media Africa",
     "twitterUsername": "arthurnyasango",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 1036,
-    "publicContributions": 62,
+    "publicContributions": 35,
     "createdAt": "2020-07-06T09:48:15Z"
   },
   {
@@ -9511,7 +9511,7 @@
     "company": "",
     "twitterUsername": "mal_wnd",
     "followers": 8,
-    "privateContributions": 205,
+    "privateContributions": 210,
     "publicContributions": 102,
     "createdAt": "2020-08-09T02:23:09Z"
   },
@@ -9523,21 +9523,9 @@
     "company": "",
     "twitterUsername": "cyber_zw",
     "followers": 8,
-    "privateContributions": 99,
+    "privateContributions": 118,
     "publicContributions": 0,
     "createdAt": "2020-06-03T01:10:07Z"
-  },
-  {
-    "login": "Taziwa",
-    "name": "Taziwa Saunyama",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/66834069?s=72&v=4",
-    "location": "Mutare, Zimbabwe",
-    "company": "",
-    "twitterUsername": "taziwasaunyama",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2020-06-12T13:34:47Z"
   },
   {
     "login": "mrgenius01",
@@ -9548,7 +9536,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 14,
     "createdAt": "2020-09-20T08:37:25Z"
   },
   {
@@ -9559,7 +9547,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2020-02-17T23:40:09Z"
   },
@@ -9572,19 +9560,19 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2020-02-11T09:10:24Z"
   },
   {
     "login": "relbenmazambara",
     "name": "Relben Mazambara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73922019?s=72&u=348daac89dcb803006504838831eae749406a0fc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73922019?s=72&u=4245242be1ea71080b0275c89b8f625be3250d09&v=4",
     "location": "Harare Zimbabwe",
-    "company": "Sharelink Zimbabwe",
+    "company": "DataForge Technologies ",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2020-11-04T02:57:21Z"
   },
   {
@@ -9607,8 +9595,8 @@
     "company": "TMZ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 784,
-    "publicContributions": 79,
+    "privateContributions": 936,
+    "publicContributions": 64,
     "createdAt": "2020-04-03T15:47:14Z"
   },
   {
@@ -9619,8 +9607,8 @@
     "company": "Data Age | Rapidev Labs",
     "twitterUsername": "wiesysams1",
     "followers": 7,
-    "privateContributions": 1651,
-    "publicContributions": 14,
+    "privateContributions": 3837,
+    "publicContributions": 208,
     "createdAt": "2020-09-28T13:14:46Z"
   },
   {
@@ -9630,9 +9618,9 @@
     "location": "Harare, Zimbabwe, Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 117,
-    "publicContributions": 527,
+    "followers": 8,
+    "privateContributions": 184,
+    "publicContributions": 539,
     "createdAt": "2020-08-15T20:49:53Z"
   },
   {
@@ -9656,7 +9644,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2020-04-25T17:28:54Z"
   },
   {
@@ -9666,9 +9654,9 @@
     "location": "Harare, Zimbabwe",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 716,
-    "publicContributions": 76,
+    "followers": 8,
+    "privateContributions": 672,
+    "publicContributions": 75,
     "createdAt": "2020-12-17T21:10:00Z"
   },
   {
@@ -9690,7 +9678,7 @@
     "location": "Harare, Zimbabwe",
     "company": "",
     "twitterUsername": "MandlaCollymor1",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-23T11:44:37Z"

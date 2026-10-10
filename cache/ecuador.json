@@ -9692,7 +9692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-01-31T15:22:40Z"
   },
   {
@@ -9752,7 +9752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 291,
+    "publicContributions": 246,
     "createdAt": "2023-08-19T19:13:09Z"
   },
   {
@@ -9775,7 +9775,7 @@
     "company": "@EscuelaPolitecnicaNacional",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 6,
     "publicContributions": 140,
     "createdAt": "2023-05-10T00:42:53Z"
   },
@@ -9788,7 +9788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 10,
     "createdAt": "2023-03-17T02:35:51Z"
   },
   {
@@ -9824,7 +9824,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 76,
     "createdAt": "2023-01-26T16:35:11Z"
   },
   {
@@ -9864,18 +9864,6 @@
     "createdAt": "2023-04-10T23:21:05Z"
   },
   {
-    "login": "iSuddenNz",
-    "name": "Javier Briones",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134467855?s=72&u=dd7fc3bfd598ea1467ed8cd1a730b7424b616474&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-05-24T03:10:22Z"
-  },
-  {
     "login": "jhonsaca",
     "name": "Jhon Saca",
     "avatarUrl": "https://avatars.githubusercontent.com/u/134661464?s=72&u=80ced2ec52b1bf29e4ba1ef8cc13648279a1c158&v=4",
@@ -9896,7 +9884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 40,
     "createdAt": "2023-03-25T00:40:26Z"
   },
   {
@@ -9908,7 +9896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2023-09-25T13:37:19Z"
   },
   {

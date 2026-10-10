@@ -9739,8 +9739,8 @@
     "company": "tsOhg",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 13,
-    "publicContributions": 94,
+    "privateContributions": 8,
+    "publicContributions": 93,
     "createdAt": "2021-12-15T20:22:01Z"
   },
   {
@@ -9751,8 +9751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 580,
-    "publicContributions": 205,
+    "privateContributions": 1268,
+    "publicContributions": 199,
     "createdAt": "2021-06-01T17:53:26Z"
   },
   {
@@ -9762,8 +9762,8 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 39,
-    "privateContributions": 5,
+    "followers": 40,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-05-31T20:13:31Z"
   },
@@ -9776,7 +9776,7 @@
     "twitterUsername": "",
     "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 1182,
+    "publicContributions": 281,
     "createdAt": "2021-03-09T02:28:29Z"
   },
   {
@@ -9786,9 +9786,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "Bryan_X_F_M",
-    "followers": 30,
-    "privateContributions": 413,
-    "publicContributions": 4,
+    "followers": 31,
+    "privateContributions": 410,
+    "publicContributions": 0,
     "createdAt": "2021-01-20T17:28:04Z"
   },
   {
@@ -9798,7 +9798,7 @@
     "location": "Dominican Republic",
     "company": "High School - La Salle",
     "twitterUsername": "ShibaD3v",
-    "followers": 30,
+    "followers": 28,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-08T15:59:14Z"
@@ -9811,7 +9811,7 @@
     "company": "Instituto de Física, UASD",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 78,
+    "privateContributions": 81,
     "publicContributions": 20,
     "createdAt": "2021-08-31T20:47:45Z"
   },
@@ -9835,8 +9835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 1308,
-    "publicContributions": 21,
+    "privateContributions": 1165,
+    "publicContributions": 20,
     "createdAt": "2021-10-09T17:33:04Z"
   },
   {
@@ -9847,7 +9847,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 129,
+    "privateContributions": 69,
     "publicContributions": 5,
     "createdAt": "2021-01-25T06:28:20Z"
   },
@@ -9858,34 +9858,22 @@
     "location": "Dominican Republic",
     "company": "UNIBE",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 85,
-    "publicContributions": 119,
+    "followers": 19,
+    "privateContributions": 28,
+    "publicContributions": 139,
     "createdAt": "2021-01-27T16:30:46Z"
   },
   {
     "login": "PerezCristian-dev",
     "name": "Cristian Perez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87153751?s=72&u=da610e7e8df28493e5fe6ee2268ebd560d386d71&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/87153751?s=72&u=7d808965dd0cdb20ffdb2576631294d1af7785bb&v=4",
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 288,
+    "privateContributions": 841,
     "publicContributions": 21,
     "createdAt": "2021-07-08T22:14:10Z"
-  },
-  {
-    "login": "KarlangaXZ",
-    "name": "Carlos Linares",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81537142?s=72&u=25845f31673eb09daa0fe2fa387188df8cfabc19&v=4",
-    "location": "Santo domingo, Dominican Republic",
-    "company": "none",
-    "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 12,
-    "publicContributions": 247,
-    "createdAt": "2021-03-28T22:25:30Z"
   },
   {
     "login": "Albert2707",
@@ -9894,9 +9882,9 @@
     "location": "dominican republic ",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 497,
+    "publicContributions": 329,
     "createdAt": "2021-04-01T01:56:09Z"
   },
   {
@@ -9906,7 +9894,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2021-08-11T14:43:30Z"
@@ -9919,7 +9907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 26,
+    "privateContributions": 27,
     "publicContributions": 16,
     "createdAt": "2021-01-15T02:55:34Z"
   },
@@ -9930,9 +9918,9 @@
     "location": "Dominican Republic",
     "company": "N/A",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 534,
-    "publicContributions": 215,
+    "followers": 16,
+    "privateContributions": 773,
+    "publicContributions": 213,
     "createdAt": "2021-01-29T03:46:14Z"
   },
   {
@@ -9944,7 +9932,7 @@
     "twitterUsername": "manuel_montolio",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2021-01-14T22:23:46Z"
   },
   {
@@ -9954,9 +9942,9 @@
     "location": "La Romana, Dominican Republic",
     "company": "",
     "twitterUsername": "jviloriogreen",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 170,
     "createdAt": "2021-08-24T13:22:18Z"
   },
   {
@@ -9966,9 +9954,9 @@
     "location": "Dominican Republic",
     "company": "Thryv",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 7,
     "createdAt": "2021-01-08T12:22:05Z"
   },
   {

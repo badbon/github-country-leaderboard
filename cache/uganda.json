@@ -9402,9 +9402,9 @@
     "location": "Kampala, Uganda",
     "company": "AIBOS Uganda Ltd",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 412,
-    "publicContributions": 356,
+    "followers": 4,
+    "privateContributions": 411,
+    "publicContributions": 331,
     "createdAt": "2023-09-30T09:35:34Z"
   },
   {
@@ -9438,8 +9438,8 @@
     "location": "Kampala, Uganda",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 32,
+    "followers": 3,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2023-12-24T17:53:06Z"
   },
@@ -9451,8 +9451,8 @@
     "company": "Kyambogo University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 57,
-    "publicContributions": 35,
+    "privateContributions": 50,
+    "publicContributions": 37,
     "createdAt": "2023-01-17T09:00:59Z"
   },
   {
@@ -9475,8 +9475,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1178,
-    "publicContributions": 131,
+    "privateContributions": 1042,
+    "publicContributions": 41,
     "createdAt": "2023-12-06T19:30:05Z"
   },
   {
@@ -9487,7 +9487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 21,
+    "privateContributions": 23,
     "publicContributions": 7,
     "createdAt": "2023-04-16T06:39:05Z"
   },
@@ -9524,7 +9524,7 @@
     "twitterUsername": "DjRockyUg",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 64,
     "createdAt": "2023-12-25T09:12:26Z"
   },
   {
@@ -9535,8 +9535,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 773,
-    "publicContributions": 49,
+    "privateContributions": 950,
+    "publicContributions": 38,
     "createdAt": "2023-03-22T08:55:31Z"
   },
   {
@@ -9570,9 +9570,9 @@
     "location": "Kampala, Uganda",
     "company": "",
     "twitterUsername": "kimbrenekakande",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 17,
-    "publicContributions": 588,
+    "publicContributions": 531,
     "createdAt": "2023-10-28T21:59:01Z"
   },
   {
@@ -9583,8 +9583,8 @@
     "company": "Ntronix ",
     "twitterUsername": "InnovatorN5663",
     "followers": 2,
-    "privateContributions": 316,
-    "publicContributions": 49,
+    "privateContributions": 499,
+    "publicContributions": 53,
     "createdAt": "2023-04-09T16:53:37Z"
   },
   {
@@ -9594,9 +9594,9 @@
     "location": "Kampala Uganda",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 40,
+    "followers": 4,
+    "privateContributions": 499,
+    "publicContributions": 61,
     "createdAt": "2023-01-27T16:57:34Z"
   },
   {
@@ -9620,7 +9620,7 @@
     "twitterUsername": "FahadTwesigye",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 21,
     "createdAt": "2023-11-28T03:13:59Z"
   },
   {
@@ -9630,9 +9630,9 @@
     "location": "Arua, Uganda",
     "company": "Muni University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 335,
+    "publicContributions": 314,
     "createdAt": "2023-01-17T08:54:49Z"
   },
   {
@@ -46534,5 +46534,41 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-05-19T09:38:43Z"
+  },
+  {
+    "login": "osctok",
+    "name": "kamyaoscar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293036846?s=72&u=a387cee702a7c07dfc95afc40512bdde8a320fad&v=4",
+    "location": "KAMPALA",
+    "company": "OSCTOK TECHNOLOGIES",
+    "twitterUsername": "kamyaoscar",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 283,
+    "createdAt": "2026-06-12T08:26:53Z"
+  },
+  {
+    "login": "abubakermohammed092077-bit",
+    "name": "Abubaker Mohamed Adam Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293144663?s=72&u=1e2c164b9e19820d49d20648e0833c3cbf765462&v=4",
+    "location": "KAMPALA",
+    "company": "FSC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-12T15:27:47Z"
+  },
+  {
+    "login": "HiyabOkbe",
+    "name": "HIYAB OKBE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292216592?s=72&u=877298ba219896ce58473ef43679e3fb4d9eb1f4&v=4",
+    "location": "Kampala",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-09T18:56:49Z"
   }
 ]

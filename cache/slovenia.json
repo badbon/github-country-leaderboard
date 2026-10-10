@@ -9440,7 +9440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 282,
+    "publicContributions": 235,
     "createdAt": "2020-02-21T20:13:23Z"
   },
   {
@@ -9546,7 +9546,7 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2020-04-29T06:55:53Z"
@@ -9571,7 +9571,7 @@
     "company": "",
     "twitterUsername": "igormihacic",
     "followers": 1,
-    "privateContributions": 14,
+    "privateContributions": 38,
     "publicContributions": 0,
     "createdAt": "2020-11-30T20:31:39Z"
   },
@@ -9595,7 +9595,7 @@
     "company": "@GNLD @NeoLifeEurope @NeolifeDevAfrica ",
     "twitterUsername": "BullaRules",
     "followers": 1,
-    "privateContributions": 64,
+    "privateContributions": 67,
     "publicContributions": 0,
     "createdAt": "2020-09-15T11:10:12Z"
   },
@@ -9607,8 +9607,8 @@
     "company": "https://timetools.eu",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 399,
-    "publicContributions": 2,
+    "privateContributions": 586,
+    "publicContributions": 5,
     "createdAt": "2020-02-12T18:05:20Z"
   },
   {
@@ -9618,9 +9618,9 @@
     "location": "Ljubljana",
     "company": "Ekonomska fakulteta, Univerza v Ljubljani",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 56,
-    "publicContributions": 50,
+    "followers": 33,
+    "privateContributions": 52,
+    "publicContributions": 20,
     "createdAt": "2020-07-07T12:37:42Z"
   },
   {
@@ -9632,7 +9632,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2020-07-07T16:12:33Z"
   },
   {
@@ -9642,9 +9642,9 @@
     "location": "Ljubljana",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 147,
-    "publicContributions": 89,
+    "followers": 14,
+    "privateContributions": 198,
+    "publicContributions": 78,
     "createdAt": "2020-09-19T23:03:04Z"
   },
   {
@@ -9655,8 +9655,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 829,
-    "publicContributions": 749,
+    "privateContributions": 718,
+    "publicContributions": 758,
     "createdAt": "2020-01-12T03:42:21Z"
   },
   {
@@ -9667,7 +9667,7 @@
     "company": "Faculty Of Computer & Information Science",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 497,
+    "privateContributions": 1022,
     "publicContributions": 22,
     "createdAt": "2020-02-27T08:09:56Z"
   },
