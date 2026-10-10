@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-10T01:25:11.708Z
+Generated: 2026-10-10T02:45:47.084Z
 
 Users: 1542
 
@@ -16,12 +16,12 @@ Users: 1542
 | 8 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 6925 |
 | 9 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 6798 |
 | 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
-| 11 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
-| 12 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
-| 13 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
-| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
-| 15 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5125 |
-| 16 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4858 |
+| 11 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6253 |
+| 12 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
+| 13 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
+| 14 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
+| 15 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
+| 16 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5125 |
 | 17 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
 | 18 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4782 |
 | 19 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez |  |  | Puerto Rico | 4730 |

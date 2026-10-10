@@ -44,8 +44,8 @@ Indexed users: 443
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk | Regent, Freetown, Sierra Leone. | 978 |
 | 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Sierra Leone | 944 |
 | 7 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 830 |
-| 8 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Freetown Sierra Leone  | 769 |
-| 9 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | Freetown,Sierra Leone | 763 |
+| 8 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | Freetown,Sierra Leone | 798 |
+| 9 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Freetown Sierra Leone  | 769 |
 | 10 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Freetown, Sierra Leone | 520 |
 | 11 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 513 |
 | 12 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | Freetown, Sierra Leone. | 414 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-10T01:30:36.163Z
+Generated: 2026-10-10T02:55:07.582Z

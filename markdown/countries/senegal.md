@@ -28,10 +28,10 @@ Indexed users: 1,359
 | 14 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
 | 15 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
 | 16 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
-| 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
-| 18 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,862 |
-| 19 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 3,861 |
-| 20 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 3,828 |
+| 17 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,075 |
+| 18 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
+| 19 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,862 |
+| 20 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 3,861 |
 
 ## Public Contributions
 
@@ -39,10 +39,10 @@ Indexed users: 1,359
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 4,304 |
 | 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,262 |
-| 3 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 3,173 |
-| 4 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,059 |
-| 5 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,837 |
-| 6 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,534 |
+| 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,059 |
+| 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,837 |
+| 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,534 |
+| 6 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 2,015 |
 | 7 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
 | 8 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,661 |
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,655 |
@@ -83,4 +83,4 @@ Indexed users: 1,359
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 | 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 
-Generated: 2026-10-10T01:29:25.519Z
+Generated: 2026-10-10T02:54:55.606Z

@@ -22,12 +22,12 @@ Indexed users: 1,542
 | 8 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 6,925 |
 | 9 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
 | 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
-| 11 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
-| 12 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 13 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
-| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
-| 15 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
-| 16 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,858 |
+| 11 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
+| 12 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
+| 13 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
+| 14 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
+| 15 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
+| 16 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
 | 17 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
 | 18 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,782 |
 | 19 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
@@ -41,7 +41,7 @@ Indexed users: 1,542
 | 2 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
 | 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
 | 4 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 4,936 |
-| 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 3,553 |
+| 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,798 |
 | 6 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
 | 7 | [justinhandley](https://github.com/justinhandley) | Justin Handley | Puerto Rico | 2,621 |
 | 8 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
@@ -83,4 +83,4 @@ Indexed users: 1,542
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-10T01:25:11.708Z
+Generated: 2026-10-10T02:45:47.084Z

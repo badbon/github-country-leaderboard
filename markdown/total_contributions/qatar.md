@@ -1,12 +1,12 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-10T01:25:16.319Z
+Generated: 2026-10-10T02:46:14.767Z
 
 Users: 1074
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 21558 |
+| 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 19403 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour |  |  | Qatar | 14302 |
 | 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 11950 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said |  |  | Qatar | 8943 |

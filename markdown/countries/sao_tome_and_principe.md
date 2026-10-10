@@ -13,7 +13,7 @@ Indexed users: 20
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 216 |
-| 2 | [joaopontifice](https://github.com/joaopontifice) | John | Água Grande, São Tomé e Príncipe | 156 |
+| 2 | [joaopontifice](https://github.com/joaopontifice) | John | Água Grande, São Tomé e Príncipe | 159 |
 | 3 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras | São Tomé e Príncipe | 127 |
 | 4 | [denisquintasluiz](https://github.com/denisquintasluiz) | Denis Luiz | São Gabriel, São Tomé e Príncipe | 109 |
 | 5 | [Andre-Dalva](https://github.com/Andre-Dalva) |  | São Tomé e Principe  | 77 |
@@ -83,4 +83,4 @@ Indexed users: 20
 | 19 | [manoxum](https://github.com/manoxum) | Daniel Costa | São Tomé e Pricipe | 1 |
 | 20 | [USTP](https://github.com/USTP) | USTP - Universidade de São Tomé e Principe | São Tomé e Principe, São Tomé | 1 |
 
-Generated: 2026-10-10T01:28:56.289Z
+Generated: 2026-10-10T02:52:58.339Z

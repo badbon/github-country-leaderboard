@@ -13,9 +13,9 @@ Indexed users: 61
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 12,076 |
-| 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,623 |
+| 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,687 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,207 |
-| 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,146 |
+| 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,150 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,313 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,282 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,176 |
@@ -48,7 +48,7 @@ Indexed users: 61
 | 9 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 96 |
 | 10 | [lucabio](https://github.com/lucabio) | Luca | San Marino | 75 |
 | 11 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | San Marino | 74 |
-| 12 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 55 |
+| 12 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 53 |
 | 13 | [salugea](https://github.com/salugea) | Salugea | San Marino | 45 |
 | 14 | [pigorg](https://github.com/pigorg) | alessandro gnola | san marino | 44 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 43 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-10T01:28:53.712Z
+Generated: 2026-10-10T02:51:53.414Z

@@ -1,6 +1,6 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-10T01:25:16.319Z
+Generated: 2026-10-10T02:46:14.767Z
 
 Users: 1074
 
@@ -8,13 +8,13 @@ Users: 1074
 |---:|---|---|---|---|---|---:|
 | 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 4408 |
 | 2 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib |  |  | Doha, Qatar | 3727 |
-| 3 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 2003 |
-| 4 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1725 |
-| 5 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1519 |
-| 6 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1512 |
-| 7 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 1406 |
-| 8 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1389 |
-| 9 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 1154 |
+| 3 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1725 |
+| 4 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1519 |
+| 5 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1512 |
+| 6 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 1406 |
+| 7 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1389 |
+| 8 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 1154 |
+| 9 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 1077 |
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1044 |
 | 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1040 |
 | 12 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 925 |

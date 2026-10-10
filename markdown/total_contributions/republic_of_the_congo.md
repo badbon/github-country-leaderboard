@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-10T01:25:24.422Z
+Generated: 2026-10-10T02:46:21.467Z
 
 Users: 299
 
@@ -12,7 +12,7 @@ Users: 299
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3843 |
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3791 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3153 |
-| 7 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2928 |
+| 7 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2935 |
 | 8 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 2901 |
 | 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2877 |
 | 10 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2816 |
@@ -24,5 +24,5 @@ Users: 299
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1684 |
 | 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 1325 |
-| 19 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1317 |
+| 19 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1321 |
 | 20 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | NOVATECH |  | Brazzaville | 1309 |

@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-10T01:29:25.519Z
+Generated: 2026-10-10T02:54:55.606Z
 
 Users: 1359
 
@@ -22,7 +22,7 @@ Users: 1359
 | 14 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Moussa Ndour |  | Dakar | 4337 |
 | 15 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 4228 |
 | 16 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Dakar, Senegal | 4092 |
-| 17 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Ecole Supérieure Polytechnique |  | Sénégal - Dakar | 3890 |
-| 18 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly |  | jac0164 | Dakar, Senegal | 3862 |
-| 19 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 3861 |
-| 20 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 3828 |
+| 17 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Dexchange | Denver_sn | Senegal,Dakar | 4075 |
+| 18 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Ecole Supérieure Polytechnique |  | Sénégal - Dakar | 3890 |
+| 19 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly |  | jac0164 | Dakar, Senegal | 3862 |
+| 20 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 3861 |

@@ -12,7 +12,7 @@ Indexed users: 1,074
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 21,558 |
+| 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 19,403 |
 | 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,302 |
 | 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 11,950 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said | Qatar | 8,943 |
@@ -39,13 +39,13 @@ Indexed users: 1,074
 |---:|---|---|---|---:|
 | 1 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 4,408 |
 | 2 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,727 |
-| 3 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 2,003 |
-| 4 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,725 |
-| 5 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,519 |
-| 6 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,512 |
-| 7 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 1,406 |
-| 8 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,389 |
-| 9 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,154 |
+| 3 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,725 |
+| 4 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,519 |
+| 5 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,512 |
+| 6 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 1,406 |
+| 7 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,389 |
+| 8 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,154 |
+| 9 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 1,077 |
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,044 |
 | 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,040 |
 | 12 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 925 |
@@ -83,4 +83,4 @@ Indexed users: 1,074
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
 | 20 | [maiz-an](https://github.com/maiz-an) | محمد ميزان | Doha, Qatar | 89 |
 
-Generated: 2026-10-10T01:25:16.319Z
+Generated: 2026-10-10T02:46:14.767Z
