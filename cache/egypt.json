@@ -11802,7 +11802,7 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-20T13:39:39Z"
@@ -11840,20 +11840,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 144,
     "createdAt": "2025-03-23T20:56:13Z"
-  },
-  {
-    "login": "sarahEl-shinnawy",
-    "name": "Sarah Ahmed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197491750?s=72&u=9d805d528e81030ab175b730b8f6691af069fa99&v=4",
-    "location": "Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 89,
-    "createdAt": "2025-02-02T13:18:48Z"
   },
   {
     "login": "amgadhassan1512",
@@ -11900,7 +11888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 41,
     "createdAt": "2025-01-25T10:39:34Z"
   },
   {
@@ -11912,7 +11900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 55,
     "createdAt": "2025-01-29T20:54:47Z"
   },
   {
@@ -11936,7 +11924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 119,
     "createdAt": "2024-12-31T18:24:49Z"
   },
   {
@@ -11972,7 +11960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 77,
     "createdAt": "2025-03-07T08:18:15Z"
   },
   {
@@ -11998,18 +11986,6 @@
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2025-01-06T12:03:29Z"
-  },
-  {
-    "login": "mustafamahmoud285",
-    "name": "Mustafa Mahmoud ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202824738?s=72&u=171024d766c8d1c24cd7963ac5704278652ddbc3&v=4",
-    "location": "Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-03-11T15:58:37Z"
   },
   {
     "login": "mohamed-waled110",

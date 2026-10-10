@@ -11540,7 +11540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 96,
     "createdAt": "2025-01-25T17:01:32Z"
   },
   {
@@ -11552,7 +11552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 6,
     "createdAt": "2025-01-25T00:55:34Z"
   },
   {
@@ -11564,7 +11564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-04-21T17:37:09Z"
   },
   {
@@ -11586,8 +11586,8 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 388,
+    "followers": 2,
+    "privateContributions": 393,
     "publicContributions": 25,
     "createdAt": "2025-05-11T20:35:21Z"
   },
@@ -11624,7 +11624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 60,
     "createdAt": "2025-03-22T23:09:24Z"
   },
   {
@@ -11646,9 +11646,9 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 95,
-    "publicContributions": 8,
+    "followers": 2,
+    "privateContributions": 93,
+    "publicContributions": 7,
     "createdAt": "2025-01-27T02:10:40Z"
   },
   {
@@ -11660,7 +11660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 655,
+    "publicContributions": 657,
     "createdAt": "2025-06-09T01:09:45Z"
   },
   {
@@ -11670,9 +11670,9 @@
     "location": "CABA, Buenos Aires, Argentina ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 42,
     "createdAt": "2025-06-06T19:35:33Z"
   },
   {
@@ -11682,9 +11682,9 @@
     "location": "CABA, Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 51,
     "createdAt": "2025-04-01T21:28:46Z"
   },
   {
@@ -11696,7 +11696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-04-12T05:12:30Z"
   },
   {
@@ -11708,7 +11708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 23,
     "createdAt": "2025-06-21T00:04:22Z"
   },
   {
@@ -11719,32 +11719,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 84,
+    "privateContributions": 115,
+    "publicContributions": 64,
     "createdAt": "2025-04-10T20:55:23Z"
-  },
-  {
-    "login": "pchdomotichome",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207337853?s=72&v=4",
-    "location": "Capitán Bermúdez, Santa Fe, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 163,
-    "createdAt": "2025-04-12T12:55:57Z"
   },
   {
     "login": "DiazMathias",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208085197?s=72&u=047278a128214bd3aca60560e44aad74d54077c8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/208085197?s=72&v=4",
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 7,
+    "privateContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2025-04-17T22:24:31Z"
   },
   {
@@ -11754,9 +11742,9 @@
     "location": "Mar del Plata - Buenos Aires - Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 43,
     "createdAt": "2025-03-27T21:25:04Z"
   },
   {

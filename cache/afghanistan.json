@@ -11827,7 +11827,7 @@
     "company": "Kabul University",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 178,
+    "privateContributions": 163,
     "publicContributions": 0,
     "createdAt": "2020-08-30T18:48:24Z"
   },
@@ -11838,9 +11838,9 @@
     "location": "Kabul Afghanistan",
     "company": "",
     "twitterUsername": "hasib_aman7",
-    "followers": 16,
-    "privateContributions": 11,
-    "publicContributions": 64,
+    "followers": 18,
+    "privateContributions": 15,
+    "publicContributions": 63,
     "createdAt": "2020-04-01T01:12:34Z"
   },
   {
@@ -11862,8 +11862,8 @@
     "location": "Kabul Afghanistan",
     "company": "Kabul university",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 173,
+    "followers": 14,
+    "privateContributions": 176,
     "publicContributions": 7,
     "createdAt": "2020-07-22T18:58:54Z"
   },
@@ -11886,22 +11886,10 @@
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 113,
     "createdAt": "2020-11-22T12:00:12Z"
-  },
-  {
-    "login": "OmranAbhar",
-    "name": "Mir Omranudin Abhar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61108944?s=72&u=3661e7617142c11a97eea502e5185e49779abc78&v=4",
-    "location": "Afghanistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1087,
-    "publicContributions": 4,
-    "createdAt": "2020-02-16T09:56:35Z"
   },
   {
     "login": "MuhammadFRZN",
@@ -11910,7 +11898,7 @@
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-12T13:02:14Z"
@@ -11934,9 +11922,9 @@
     "location": "kabul, Afghanistan",
     "company": "Hamkar",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 16,
     "createdAt": "2020-07-18T01:01:40Z"
   },
   {
@@ -11946,9 +11934,9 @@
     "location": "Afghanistan, Kabul",
     "company": "@Webistan-cloud",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 299,
+    "publicContributions": 237,
     "createdAt": "2020-09-13T01:19:35Z"
   },
   {
@@ -11971,7 +11959,7 @@
     "company": "Roshan (TELECOM DEVELOPMENT COMPANY AFGHANISTAN)",
     "twitterUsername": "Humayoon_17",
     "followers": 11,
-    "privateContributions": 666,
+    "privateContributions": 720,
     "publicContributions": 2,
     "createdAt": "2020-01-05T20:52:41Z"
   },
@@ -11980,24 +11968,12 @@
     "name": "Mohammad Mehdi Wahid ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/76003465?s=72&u=df458e77dfbfba0c9376601efcf9bf054d6669bf&v=4",
     "location": "Kabul Afghanistan ",
-    "company": "@Startupistan",
+    "company": "@startsteps",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 612,
+    "privateContributions": 691,
     "publicContributions": 2,
     "createdAt": "2020-12-14T17:12:45Z"
-  },
-  {
-    "login": "iamaliataie",
-    "name": "Ali Ahmad Ataie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67245165?s=72&u=43b2bb1838862ca84db0521e547409c3c6a0dde4&v=4",
-    "location": "Kabul, Afghanistan",
-    "company": "Netlinks",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 882,
-    "publicContributions": 0,
-    "createdAt": "2020-06-21T23:05:14Z"
   },
   {
     "login": "musa-farahmand",
@@ -12006,7 +11982,7 @@
     "location": "Mazar-i Sharif, Afghanistan",
     "company": "Code9ine",
     "twitterUsername": "MussaFarahmand",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-03T13:49:56Z"
@@ -12020,7 +11996,7 @@
     "twitterUsername": "imazizarab",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2020-12-06T12:24:45Z"
   },
   {
@@ -12031,8 +12007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 5498,
-    "publicContributions": 158,
+    "privateContributions": 7167,
+    "publicContributions": 202,
     "createdAt": "2020-02-23T04:14:38Z"
   },
   {
@@ -12054,9 +12030,9 @@
     "location": "Kabul, Afghanistan",
     "company": "Al Hawa Technology",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 79,
     "createdAt": "2020-12-24T08:09:02Z"
   },
   {

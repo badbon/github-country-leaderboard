@@ -11852,7 +11852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2016-09-06T09:38:18Z"
   },
   {
@@ -11864,7 +11864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 12,
     "createdAt": "2016-05-03T13:20:59Z"
   },
   {
@@ -11888,7 +11888,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 128,
     "createdAt": "2016-07-12T14:24:57Z"
   },
   {
@@ -11900,7 +11900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 256,
+    "publicContributions": 290,
     "createdAt": "2016-09-22T21:49:18Z"
   },
   {
@@ -11911,7 +11911,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 359,
+    "privateContributions": 363,
     "publicContributions": 0,
     "createdAt": "2016-07-05T07:37:03Z"
   },
@@ -11934,8 +11934,8 @@
     "location": "Tirane, Albania",
     "company": "Wellness+",
     "twitterUsername": "",
-    "followers": 51,
-    "privateContributions": 1189,
+    "followers": 53,
+    "privateContributions": 1523,
     "publicContributions": 5,
     "createdAt": "2015-11-05T23:02:17Z"
   },
@@ -11947,8 +11947,8 @@
     "company": "",
     "twitterUsername": "_ilir_hushi",
     "followers": 47,
-    "privateContributions": 3121,
-    "publicContributions": 7,
+    "privateContributions": 3416,
+    "publicContributions": 343,
     "createdAt": "2015-02-04T15:02:51Z"
   },
   {
@@ -11959,8 +11959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 47,
-    "privateContributions": 542,
-    "publicContributions": 21,
+    "privateContributions": 982,
+    "publicContributions": 20,
     "createdAt": "2015-03-14T16:58:37Z"
   },
   {
@@ -11970,9 +11970,9 @@
     "location": "Rruga Frosina Plaku, Kompleksi i Kontakt, Pallati Auriga, Shkalla 2, Kati 2, Ap. 2022, Tirane, Albania",
     "company": "@Stefan Xhunga",
     "twitterUsername": "",
-    "followers": 41,
+    "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 17,
     "createdAt": "2015-11-16T08:07:07Z"
   },
   {
@@ -11982,9 +11982,9 @@
     "location": "Albania",
     "company": "Jehon",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 1956,
-    "publicContributions": 75,
+    "followers": 37,
+    "privateContributions": 2309,
+    "publicContributions": 65,
     "createdAt": "2015-01-15T10:26:04Z"
   },
   {
@@ -11994,7 +11994,7 @@
     "location": "Tirana, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 10,
     "publicContributions": 3,
     "createdAt": "2015-01-15T18:04:05Z"
@@ -12007,8 +12007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 44,
-    "publicContributions": 20,
+    "privateContributions": 394,
+    "publicContributions": 40,
     "createdAt": "2015-02-20T14:24:16Z"
   },
   {
@@ -12018,9 +12018,9 @@
     "location": "Tirane, Albania",
     "company": "@new-media-communications ",
     "twitterUsername": "fitim_vata",
-    "followers": 31,
-    "privateContributions": 3122,
-    "publicContributions": 36,
+    "followers": 28,
+    "privateContributions": 3283,
+    "publicContributions": 34,
     "createdAt": "2015-04-21T14:47:29Z"
   },
   {
@@ -12031,19 +12031,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 292,
+    "privateContributions": 314,
     "publicContributions": 0,
     "createdAt": "2015-02-23T14:44:54Z"
   },
   {
     "login": "geni94",
-    "name": "",
+    "name": "Eugen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/13197721?s=72&u=439ffdbf496766c2eb2200833050d62bd91d5b08&v=4",
     "location": "Tirana, Albania",
     "company": "Nexgen Cloud",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 152,
+    "followers": 21,
+    "privateContributions": 134,
     "publicContributions": 0,
     "createdAt": "2015-07-06T09:28:06Z"
   },
@@ -12054,9 +12054,9 @@
     "location": "Tirane, Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 21,
-    "publicContributions": 0,
+    "followers": 19,
+    "privateContributions": 22,
+    "publicContributions": 1,
     "createdAt": "2015-01-30T17:23:07Z"
   },
   {

@@ -11430,9 +11430,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 286,
-    "publicContributions": 211,
+    "followers": 9,
+    "privateContributions": 358,
+    "publicContributions": 348,
     "createdAt": "2023-12-06T02:11:22Z"
   },
   {
@@ -11443,8 +11443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 85,
-    "publicContributions": 213,
+    "privateContributions": 96,
+    "publicContributions": 194,
     "createdAt": "2023-02-06T08:53:40Z"
   },
   {
@@ -11456,18 +11456,18 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 52,
-    "publicContributions": 10,
+    "publicContributions": 74,
     "createdAt": "2023-10-20T05:31:05Z"
   },
   {
     "login": "Poorgramer-Zack",
     "name": "Zack",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143268881?s=72&u=fc8d6f8731e4171102fb5aa510c239f2056af473&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143268881?s=72&u=c82a79be52b6b29ded02ae0707aae7a2a960ce03&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 611,
+    "privateContributions": 642,
     "publicContributions": 271,
     "createdAt": "2023-08-26T12:49:22Z"
   },
@@ -11480,7 +11480,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 52,
     "createdAt": "2023-01-04T04:59:24Z"
   },
   {
@@ -11503,8 +11503,8 @@
     "company": "National Taiwan University",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 218,
-    "publicContributions": 72,
+    "privateContributions": 220,
+    "publicContributions": 69,
     "createdAt": "2023-10-03T08:00:59Z"
   },
   {
@@ -11515,8 +11515,8 @@
     "company": "NKNU SEM",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 482,
-    "publicContributions": 33,
+    "privateContributions": 377,
+    "publicContributions": 38,
     "createdAt": "2023-11-27T08:05:31Z"
   },
   {
@@ -11526,22 +11526,10 @@
     "location": "Taiwan, Hsinchu ",
     "company": "Industrial Technology Research Institute (ITRI)",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1136,
+    "publicContributions": 1254,
     "createdAt": "2023-07-26T08:19:36Z"
-  },
-  {
-    "login": "weichenlin1209",
-    "name": "Windson Lin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147599711?s=72&u=e080e8e09df252031f97116e1ef46bd6462daf26&v=4",
-    "location": "Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 387,
-    "createdAt": "2023-10-11T08:41:58Z"
   },
   {
     "login": "kimnguyen2002",
@@ -11552,7 +11540,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 20,
     "createdAt": "2023-01-13T06:58:10Z"
   },
   {
@@ -11562,9 +11550,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 31,
     "createdAt": "2023-01-08T19:28:38Z"
   },
   {
@@ -11574,9 +11562,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 78,
     "createdAt": "2023-06-03T07:42:33Z"
   },
   {
@@ -11599,7 +11587,7 @@
     "company": "Academia Sinica",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1215,
+    "privateContributions": 1252,
     "publicContributions": 10,
     "createdAt": "2023-03-01T05:13:25Z"
   },
@@ -11611,8 +11599,8 @@
     "company": "National Taiwan University",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 162,
-    "publicContributions": 2,
+    "privateContributions": 116,
+    "publicContributions": 1,
     "createdAt": "2023-03-15T01:48:22Z"
   },
   {
@@ -11624,7 +11612,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 75,
     "createdAt": "2023-01-03T09:34:49Z"
   },
   {
@@ -11634,9 +11622,9 @@
     "location": "No. 101, Section 2, Kuang-Fu Road, Hsinchu, Taiwan",
     "company": "National Tsing Hua University",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 254,
+    "publicContributions": 444,
     "createdAt": "2023-11-11T13:29:36Z"
   },
   {

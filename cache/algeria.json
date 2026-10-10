@@ -11540,7 +11540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2024-08-28T07:41:12Z"
   },
   {
@@ -11552,7 +11552,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 74,
     "createdAt": "2024-12-05T17:46:29Z"
   },
   {
@@ -11576,20 +11576,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 22,
     "createdAt": "2024-02-28T09:49:03Z"
-  },
-  {
-    "login": "RebouhAymen",
-    "name": "rebouh aymen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161038633?s=72&u=3fd021d903224174366606f83cfc163b8c5d9b55&v=4",
-    "location": " Ras el oued, Algeria",
-    "company": "University of batna 2",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-02-23T13:03:30Z"
   },
   {
     "login": "fbenkhelifa",
@@ -11598,7 +11586,7 @@
     "location": "Oran, Algeria",
     "company": "ENSTTIC",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 108,
     "createdAt": "2024-10-15T17:52:51Z"
@@ -11624,7 +11612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-10-16T14:05:14Z"
   },
   {
@@ -11636,7 +11624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 30,
     "createdAt": "2024-08-11T18:50:05Z"
   },
   {
@@ -11672,7 +11660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 157,
     "createdAt": "2024-09-02T20:23:46Z"
   },
   {
@@ -11683,8 +11671,8 @@
     "company": "ESI [Ecole nationale Supérieure d'Informatique (Ex.INI)]",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 15,
+    "privateContributions": 32,
+    "publicContributions": 132,
     "createdAt": "2024-05-31T02:42:50Z"
   },
   {

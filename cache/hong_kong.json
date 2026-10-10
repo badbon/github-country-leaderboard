@@ -11575,8 +11575,8 @@
     "company": "Independence",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 788,
-    "publicContributions": 25,
+    "privateContributions": 1134,
+    "publicContributions": 36,
     "createdAt": "2023-04-07T03:12:49Z"
   },
   {
@@ -11600,7 +11600,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-01-24T09:50:55Z"
   },
   {
@@ -11611,8 +11611,8 @@
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 431,
-    "publicContributions": 30,
+    "privateContributions": 333,
+    "publicContributions": 31,
     "createdAt": "2023-09-27T14:14:01Z"
   },
   {
@@ -11624,7 +11624,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 4,
     "createdAt": "2023-03-27T03:47:54Z"
   },
   {
@@ -11634,7 +11634,7 @@
     "location": "Hong Kong",
     "company": "PolyU",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 177,
     "createdAt": "2023-01-10T02:35:18Z"
@@ -11647,8 +11647,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 6,
-    "publicContributions": 40,
+    "privateContributions": 907,
+    "publicContributions": 42,
     "createdAt": "2023-02-17T05:31:16Z"
   },
   {
@@ -11660,7 +11660,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2023-12-11T09:07:48Z"
   },
   {
@@ -11712,18 +11712,6 @@
     "createdAt": "2023-05-23T05:17:12Z"
   },
   {
-    "login": "JennyZhang23",
-    "name": "Zhang Yifan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137787250?s=72&u=0e7b53583938075684c51e1a21836457f733746a&v=4",
-    "location": "Hong Kong",
-    "company": "The University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-06-26T11:47:22Z"
-  },
-  {
     "login": "HWYL520",
     "name": "hwyl520",
     "avatarUrl": "https://avatars.githubusercontent.com/u/151900284?s=72&u=f45ed3a230c0720dce1bafbccbfa4471208e51ba&v=4",
@@ -11732,7 +11720,7 @@
     "twitterUsername": "hwyl520",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-11-24T04:44:11Z"
   },
   {
@@ -11766,9 +11754,9 @@
     "location": "Hong Kong, China",
     "company": "Cornell University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 66,
-    "publicContributions": 493,
+    "publicContributions": 424,
     "createdAt": "2023-03-09T15:43:42Z"
   },
   {
@@ -11778,9 +11766,9 @@
     "location": "Hong Kong, MK",
     "company": "uApply",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 23,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-05-21T10:33:51Z"
   },
   {
@@ -11790,9 +11778,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "mingyanch",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 34,
     "createdAt": "2023-03-10T03:24:35Z"
   },
   {
