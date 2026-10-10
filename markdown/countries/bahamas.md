@@ -12,7 +12,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 21,440 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 22,130 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,221 |
 | 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,110 |
 | 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 2,881 |
@@ -65,7 +65,7 @@ Indexed users: 236
 | 1 | [PingPaid](https://github.com/PingPaid) | PingPaid  | Nassau, Bahamas | 104 |
 | 2 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 100 |
 | 3 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 88 |
-| 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 61 |
+| 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 62 |
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | bahamas | 50 |
 | 6 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 38 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-10T07:10:46.004Z
+Generated: 2026-10-10T08:41:47.118Z

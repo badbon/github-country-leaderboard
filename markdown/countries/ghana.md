@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,104
+Indexed users: 7,110
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 7,104
 | 14 | [seidu626](https://github.com/seidu626) | Seidu Abdulai | Ghana | 8,537 |
 | 15 | [lutheralien](https://github.com/lutheralien) | Luther Essum | Ghana | 8,379 |
 | 16 | [worlakodzo](https://github.com/worlakodzo) | Worlako Dzokoto | GHANA | 8,363 |
-| 17 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
-| 18 | [AdamsEugene](https://github.com/AdamsEugene) | Adams Eugene | Ghana | 8,172 |
-| 19 | [Raymond-ap](https://github.com/Raymond-ap) | Apungu Raymond | Ghana, Accra | 8,058 |
-| 20 | [gillesashley](https://github.com/gillesashley) | Gilles Ashley | Accra - Ghana | 7,994 |
+| 17 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 8,288 |
+| 18 | [richprince23](https://github.com/richprince23) | Richard Kweku Aikins | Accra | 8,282 |
+| 19 | [AdamsEugene](https://github.com/AdamsEugene) | Adams Eugene | Ghana | 8,172 |
+| 20 | [Raymond-ap](https://github.com/Raymond-ap) | Apungu Raymond | Ghana, Accra | 8,058 |
 
 ## Public Contributions
 
@@ -47,16 +47,16 @@ Indexed users: 7,104
 | 8 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 6,845 |
 | 9 | [wsuits6](https://github.com/wsuits6) | wsuits6 | Ghana | 5,658 |
 | 10 | [AlatiphA](https://github.com/AlatiphA) | Abdul-Latif Ahmed  | Tamale, Ghana  | 5,017 |
-| 11 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
-| 12 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
-| 13 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
-| 14 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 2,557 |
-| 15 | [gideonadeti](https://github.com/gideonadeti) | Gideon Adeti | Accra, Ghana | 2,518 |
-| 16 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
-| 17 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
-| 18 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
-| 19 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
-| 20 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,176 |
+| 11 | [kelvinagyareyeboah](https://github.com/kelvinagyareyeboah) | Kelvin Agyare Yeboah | Accra | 4,879 |
+| 12 | [romeo-folie](https://github.com/romeo-folie) | Romeo Nutifafa Folie | Ghana | 3,201 |
+| 13 | [devekkx](https://github.com/devekkx) | Emmanuel Komla Kpendo | Accra, Ghana | 2,719 |
+| 14 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
+| 15 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 2,557 |
+| 16 | [gideonadeti](https://github.com/gideonadeti) | Gideon Adeti | Accra, Ghana | 2,518 |
+| 17 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
+| 18 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
+| 19 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
+| 20 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,104
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-10T07:37:02.107Z
+Generated: 2026-10-10T09:04:06.618Z

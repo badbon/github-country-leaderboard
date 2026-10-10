@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-10T07:07:16.111Z
+Generated: 2026-10-10T08:40:05.031Z
 
 Users: 461
 
@@ -9,8 +9,8 @@ Users: 461
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas |  |  | Antarctica | 6606 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | FutureForte | shreeshivpatel | Antarctica | 6173 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6036 |
-| 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 5325 |
-| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 5052 |
+| 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 5264 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 5053 |
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4837 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4656 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4646 |
@@ -21,7 +21,7 @@ Users: 461
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3263 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3075 |
 | 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 2732 |
-| 16 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2533 |
+| 16 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2561 |
 | 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2421 |
 | 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2350 |
 | 19 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2025 |

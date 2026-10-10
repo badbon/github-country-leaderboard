@@ -15,8 +15,8 @@ Indexed users: 461
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,606 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,173 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,036 |
-| 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,325 |
-| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,052 |
+| 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,264 |
+| 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,053 |
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,837 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,656 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,646 |
@@ -27,7 +27,7 @@ Indexed users: 461
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,263 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,075 |
 | 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,732 |
-| 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,533 |
+| 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,561 |
 | 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
 | 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,350 |
 | 19 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,025 |
@@ -41,7 +41,7 @@ Indexed users: 461
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,078 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,496 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,011 |
-| 5 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,140 |
+| 5 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,139 |
 | 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,130 |
 | 7 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,851 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-10T07:07:16.111Z
+Generated: 2026-10-10T08:40:05.031Z

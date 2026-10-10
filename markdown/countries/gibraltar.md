@@ -45,7 +45,7 @@ Indexed users: 93
 | 6 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco | Gibraltar | 253 |
 | 7 | [heaventree](https://github.com/heaventree) | Heaventree Digital | Gibraltar | 242 |
 | 8 | [mortyflex](https://github.com/mortyflex) | Mohamed A | Gibraltar | 196 |
-| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 196 |
+| 9 | [unigib](https://github.com/unigib) | University of Gibraltar | Gibraltar | 193 |
 | 10 | [ZedsArcade](https://github.com/ZedsArcade) | ZedsArcade | Gibraltar | 156 |
 | 11 | [llmora](https://github.com/llmora) | Lluis Mora | Gibraltar | 121 |
 | 12 | [pmozdzynski](https://github.com/pmozdzynski) | P.S. Mozdzynski | Gibraltar | 85 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-10T07:38:53.415Z
+Generated: 2026-10-10T09:05:09.229Z

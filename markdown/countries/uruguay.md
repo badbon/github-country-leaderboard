@@ -24,14 +24,14 @@ Indexed users: 5,626
 | 10 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 9,337 |
 | 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
 | 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 8,580 |
-| 13 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
-| 14 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
-| 15 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
-| 16 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
-| 17 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
-| 18 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
-| 19 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Montevideo, Uruguay | 6,632 |
-| 20 | [feconroses](https://github.com/feconroses) | Federico Pascual | Punta Ballena, Uruguay | 6,547 |
+| 13 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
+| 14 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
+| 15 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
+| 16 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
+| 17 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
+| 18 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
+| 19 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
+| 20 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Montevideo, Uruguay | 6,632 |
 
 ## Public Contributions
 
@@ -39,10 +39,10 @@ Indexed users: 5,626
 |---:|---|---|---|---:|
 | 1 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli | Uruguay | 16,140 |
 | 2 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,965 |
-| 3 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado | Uruguay | 5,074 |
-| 4 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 4,810 |
-| 5 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 3,937 |
-| 6 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 3,658 |
+| 3 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 5,444 |
+| 4 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado | Uruguay | 5,074 |
+| 5 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 4,810 |
+| 6 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas | Montevideo, Uruguay | 3,937 |
 | 7 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | Uruguay  | 3,036 |
 | 8 | [davidmonterocrespo24](https://github.com/davidmonterocrespo24) | David Montero Crespo | Uruguay | 2,866 |
 | 9 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 2,721 |
@@ -64,9 +64,9 @@ Indexed users: 5,626
 |---:|---|---|---|---:|
 | 1 | [diegomura](https://github.com/diegomura) | Diego Muracciole | Montevideo, Uruguay | 1,772 |
 | 2 | [spastorino](https://github.com/spastorino) | Santiago Pastorino | Montevideo, Uruguay | 1,142 |
-| 3 | [fedegonc](https://github.com/fedegonc) | federico goncalvez | Rivera / Uruguay | 518 |
+| 3 | [fedegonc](https://github.com/fedegonc) | federico goncalvez | Rivera / Uruguay | 507 |
 | 4 | [damiansire](https://github.com/damiansire) | Damian Sire | Uruguay | 469 |
-| 5 | [Maypoo](https://github.com/Maypoo) | Mauro | Uruguay | 444 |
+| 5 | [Maypoo](https://github.com/Maypoo) | Mauro | Uruguay | 449 |
 | 6 | [omab](https://github.com/omab) | Matías Aguirre | Montevideo, Uruguay | 420 |
 | 7 | [daedalus](https://github.com/daedalus) | Darío Clavijo | Montevideo, Uruguay | 387 |
 | 8 | [dangra](https://github.com/dangra) | Daniel Graña | La Paloma, Rocha, Uruguay | 384 |
@@ -83,4 +83,4 @@ Indexed users: 5,626
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-10T07:02:12.321Z
+Generated: 2026-10-10T08:32:24.541Z

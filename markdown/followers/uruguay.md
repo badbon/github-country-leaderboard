@@ -1,6 +1,6 @@
 # Followers - Uruguay
 
-Generated: 2026-10-10T07:02:12.321Z
+Generated: 2026-10-10T08:32:24.541Z
 
 Users: 5626
 
@@ -8,9 +8,9 @@ Users: 5626
 |---:|---|---|---|---|---|---:|
 | 1 | [diegomura](https://github.com/diegomura) | Diego Muracciole |  | diegomura | Montevideo, Uruguay | 1772 |
 | 2 | [spastorino](https://github.com/spastorino) | Santiago Pastorino | @wyeworks | spastorino | Montevideo, Uruguay | 1142 |
-| 3 | [fedegonc](https://github.com/fedegonc) | federico goncalvez |  |  | Rivera / Uruguay | 518 |
+| 3 | [fedegonc](https://github.com/fedegonc) | federico goncalvez |  |  | Rivera / Uruguay | 507 |
 | 4 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 469 |
-| 5 | [Maypoo](https://github.com/Maypoo) | Mauro |  |  | Uruguay | 444 |
+| 5 | [Maypoo](https://github.com/Maypoo) | Mauro |  |  | Uruguay | 449 |
 | 6 | [omab](https://github.com/omab) | Matías Aguirre |  | linuxaddict | Montevideo, Uruguay | 420 |
 | 7 | [daedalus](https://github.com/daedalus) | Darío Clavijo |  | 0x446172696f0a | Montevideo, Uruguay | 387 |
 | 8 | [dangra](https://github.com/dangra) | Daniel Graña | @superfly  | dangrairo | La Paloma, Rocha, Uruguay | 384 |

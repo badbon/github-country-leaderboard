@@ -12,7 +12,7 @@ Indexed users: 487
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,279 |
+| 1 | [faso-dev](https://github.com/faso-dev) | Clovis S.J Onadja | Burkina-Faso,Ouagadougou | 8,251 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 6,546 |
 | 3 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 4,400 |
 | 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,391 |
@@ -29,7 +29,7 @@ Indexed users: 487
 | 15 | [mibienpanjoe](https://github.com/mibienpanjoe) | PARE Mibienpan Joseph | Burkina Faso | 1,582 |
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Burkina Faso | 1,456 |
 | 17 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | Burkina Faso, Ouagadougou | 1,375 |
-| 18 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,326 |
+| 18 | [adamako](https://github.com/adamako) | Adama KO | Burkina Faso | 1,369 |
 | 19 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Ouagadougou, Burkina Faso | 1,213 |
 | 20 | [rikudosama](https://github.com/rikudosama) | Lengam jean bonaventure | Ouagadougou, Burkina Faso | 1,162 |
 
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-10T07:19:47.315Z
+Generated: 2026-10-10T08:48:22.065Z

@@ -1,14 +1,14 @@
 # Public Contributions - Gambia
 
-Generated: 2026-10-10T07:36:56.646Z
+Generated: 2026-10-10T09:04:03.817Z
 
 Users: 80
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Adama101](https://github.com/Adama101) | Adama Jarju | MEST Africa \|\| Ex Kuringo | aduboyjarjusey | Gambia | 1029 |
-| 2 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 406 |
-| 3 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 404 |
+| 2 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 409 |
+| 3 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 406 |
 | 4 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 391 |
 | 5 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 361 |
 | 6 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 317 |

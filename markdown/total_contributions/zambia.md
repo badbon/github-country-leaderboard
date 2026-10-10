@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-10T07:03:43.935Z
+Generated: 2026-10-10T08:36:40.705Z
 
 Users: 1343
 
@@ -11,9 +11,9 @@ Users: 1343
 | 3 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | @Inpsyde-Global-Service-Provider  | mwale_and_sons | Lusaka, Zambia | 8786 |
 | 4 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  |  | AbdurChimalo | Lusaka, Zambia  | 7188 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | @Interwebb | thompsonmanda08 | Zambia | 6529 |
-| 6 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 6302 |
-| 7 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 5229 |
-| 8 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire |  | senorMk | Zambia | 5088 |
+| 6 | [senorMk](https://github.com/senorMk) | Penjani M |  | senorMk | Zambia | 6485 |
+| 7 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | BANTUZI ENTERPRISES LIMITED | mwambaekaenga | Lusaka, Zambia | 6302 |
+| 8 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 5229 |
 | 9 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 4731 |
 | 10 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 4175 |
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |

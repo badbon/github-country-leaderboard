@@ -75,12 +75,12 @@ Indexed users: 4,899
 | 11 | [DevCoreXOfficial](https://github.com/DevCoreXOfficial) | DevCoreX | Ecuador | 277 |
 | 12 | [cromewar](https://github.com/cromewar) | Vasiliy Kirochka | Ecuador | 243 |
 | 13 | [CondorCoders](https://github.com/CondorCoders) | Condor Coders | Ecuador | 224 |
-| 14 | [duzhi5368](https://github.com/duzhi5368) | Frankie | Ecuador | 142 |
-| 15 | [juandtap](https://github.com/juandtap) | Diego Tapia | Ecuador | 136 |
+| 14 | [juandtap](https://github.com/juandtap) | Diego Tapia | Ecuador | 152 |
+| 15 | [duzhi5368](https://github.com/duzhi5368) | Frankie | Ecuador | 142 |
 | 16 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 134 |
 | 17 | [yjot-dev](https://github.com/yjot-dev) | YASSER ORTIZ T. | Ecuador | 126 |
 | 18 | [omarjcm](https://github.com/omarjcm) | Guillermo Pizarro | Guayaquil, Ecuador | 125 |
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
-| 20 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
+| 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-10T07:29:03.603Z
+Generated: 2026-10-10T08:59:12.017Z

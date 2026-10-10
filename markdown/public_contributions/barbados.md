@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-10T07:13:04.513Z
+Generated: 2026-10-10T08:43:22.726Z
 
 Users: 133
 
@@ -11,7 +11,7 @@ Users: 133
 | 3 | [caritechsolutions](https://github.com/caritechsolutions) |  |  |  | Barbados | 410 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds |  |  | Barbados | 363 |
 | 5 | [jlayne246](https://github.com/jlayne246) | Joshua Layne |  |  | Bridgetown, Barbados | 310 |
-| 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 252 |
+| 6 | [daley-mottley](https://github.com/daley-mottley) | Daley Mottley |  | DaleyMottley | Barbados | 256 |
 | 7 | [BlueRoyy](https://github.com/BlueRoyy) | Kenroy Ronnie Roach | Electoral and Boundaries Commission |  | Barbados | 226 |
 | 8 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 220 |
 | 9 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne |  |  | Barbados | 175 |

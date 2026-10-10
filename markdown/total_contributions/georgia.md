@@ -1,8 +1,8 @@
 # Total Contributions - Georgia
 
-Generated: 2026-10-10T07:03:52.222Z
+Generated: 2026-10-10T08:37:12.436Z
 
-Users: 6905
+Users: 6904
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

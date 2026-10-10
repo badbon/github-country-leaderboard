@@ -1,6 +1,6 @@
 # Followers - Togo
 
-Generated: 2026-10-10T06:55:38.639Z
+Generated: 2026-10-10T08:28:45.801Z
 
 Users: 679
 
@@ -13,7 +13,7 @@ Users: 679
 | 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Louis Technology (LT) | AgadaFrancisL | Togo | 142 |
 | 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 133 |
 | 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 112 |
-| 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Freelance |  | Lomé, TOGO | 108 |
+| 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Freelance |  | Lomé, TOGO | 109 |
 | 9 | [itachixa](https://github.com/itachixa) | SALIFOU Aléhéri Christian |  |  | Togo | 102 |
 | 10 | [gsmadjaa05](https://github.com/gsmadjaa05) | GSM ADJAA | @GSM_ADJAA_COMPANY |  | Togo | 101 |
 | 11 | [GhostEsso](https://github.com/GhostEsso) | Essohanam TAMBANA | Kaba Delivery | TambanaEssohana | Lomé, Togo | 89 |

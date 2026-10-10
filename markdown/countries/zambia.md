@@ -17,9 +17,9 @@ Indexed users: 1,343
 | 3 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | Lusaka, Zambia | 8,786 |
 | 4 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,188 |
 | 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 6,529 |
-| 6 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 6,302 |
-| 7 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,229 |
-| 8 | [senorMk](https://github.com/senorMk) | Penjani Mkandawire | Zambia | 5,088 |
+| 6 | [senorMk](https://github.com/senorMk) | Penjani M | Zambia | 6,485 |
+| 7 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 6,302 |
+| 8 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,229 |
 | 9 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 4,731 |
 | 10 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe | Lusaka, Lusaka, Zambia | 4,175 |
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,005 |
@@ -83,4 +83,4 @@ Indexed users: 1,343
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-10T07:03:43.935Z
+Generated: 2026-10-10T08:36:40.705Z

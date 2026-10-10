@@ -1,6 +1,6 @@
 # Denmark
 
-Indexed users: 19,318
+Indexed users: 19,317
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,318
 | 19 | [ThomasVitale](https://github.com/ThomasVitale) | Thomas Vitale | Denmark | 1,273 |
 | 20 | [mit-mit](https://github.com/mit-mit) | Michael Thomsen | Aarhus, Denmark | 1,198 |
 
-Generated: 2026-10-10T07:26:13.181Z
+Generated: 2026-10-10T08:57:40.529Z

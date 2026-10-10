@@ -1,8 +1,8 @@
 # Public Contributions - Slovakia
 
-Generated: 2026-10-10T06:47:06.060Z
+Generated: 2026-10-10T08:22:30.669Z
 
-Users: 4691
+Users: 4690
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 4691
 | 12 | [matejkosiarcik](https://github.com/matejkosiarcik) | Matej Košiarčik |  |  | Slovakia | 3113 |
 | 13 | [MatusMockor](https://github.com/MatusMockor) | Matúš Močkor |  |  | Slovakia | 3031 |
 | 14 | [NightMean](https://github.com/NightMean) |  |  |  | Slovakia | 3023 |
-| 15 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2395 |
-| 16 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
-| 17 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
-| 18 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
-| 19 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |
-| 20 | [zdila](https://github.com/zdila) | Martin Ždila |  | martinzdila | Košice, Slovakia | 1977 |
+| 15 | [mont127](https://github.com/mont127) | mont127 | None  |  | Slovakia | 2492 |
+| 16 | [WizzardSK](https://github.com/WizzardSK) |  |  |  | Bratislava, Slovakia | 2395 |
+| 17 | [janbodnar](https://github.com/janbodnar) | Jan Bodnar |  |  | Bratislava | 2391 |
+| 18 | [PavolUlicny](https://github.com/PavolUlicny) | Pavol Ulicny | High school | s0nda7 | Bratislava  | 2289 |
+| 19 | [deathbeam](https://github.com/deathbeam) | Tomas Slusny |  |  | Slovakia | 2282 |
+| 20 | [rkosegi](https://github.com/rkosegi) | Richard Kosegi |  |  | Slovakia | 2049 |

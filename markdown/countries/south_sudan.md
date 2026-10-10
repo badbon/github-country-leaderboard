@@ -21,7 +21,7 @@ Indexed users: 132
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 742 |
 | 8 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
 | 9 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 614 |
-| 10 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 546 |
+| 10 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 544 |
 | 11 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 519 |
 | 12 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 502 |
 | 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
@@ -42,7 +42,7 @@ Indexed users: 132
 | 3 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,459 |
 | 4 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 1,065 |
 | 5 | [puoch1of1](https://github.com/puoch1of1) | Puoch Mabor Makuei  | South Sudan | 583 |
-| 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 546 |
+| 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 544 |
 | 7 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
 | 8 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 493 |
 | 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 386 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-10T06:49:04.294Z
+Generated: 2026-10-10T08:24:18.299Z

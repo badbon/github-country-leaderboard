@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-10T07:02:12.321Z
+Generated: 2026-10-10T08:32:24.541Z
 
 Users: 5626
 
@@ -8,10 +8,10 @@ Users: 5626
 |---:|---|---|---|---|---|---:|
 | 1 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 16140 |
 | 2 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6965 |
-| 3 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado |  |  | Uruguay | 5074 |
-| 4 | [daedalus](https://github.com/daedalus) | Darío Clavijo |  | 0x446172696f0a | Montevideo, Uruguay | 4810 |
-| 5 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 3937 |
-| 6 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 3658 |
+| 3 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 5444 |
+| 4 | [Gabr1el20](https://github.com/Gabr1el20) | Gabriel Delgado |  |  | Uruguay | 5074 |
+| 5 | [daedalus](https://github.com/daedalus) | Darío Clavijo |  | 0x446172696f0a | Montevideo, Uruguay | 4810 |
+| 6 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 3937 |
 | 7 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | @BMCdecode  |  | Uruguay  | 3036 |
 | 8 | [davidmonterocrespo24](https://github.com/davidmonterocrespo24) | David Montero Crespo | Velxio | DMonteroCrespo1 | Uruguay | 2866 |
 | 9 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 2721 |

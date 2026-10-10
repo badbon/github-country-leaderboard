@@ -40,7 +40,7 @@ Indexed users: 901
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,147 |
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,185 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,549 |
-| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 1,963 |
+| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,046 |
 | 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,393 |
 | 6 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,366 |
 | 7 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 1,289 |
@@ -55,15 +55,15 @@ Indexed users: 901
 | 16 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 649 |
 | 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 609 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 579 |
-| 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
-| 20 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 476 |
+| 19 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 561 |
+| 20 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 36,008 |
-| 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 921 |
+| 2 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 927 |
 | 3 | [augustoproiete](https://github.com/augustoproiete) | Augusto Proiete | Bermuda | 331 |
 | 4 | [yaasuhiro](https://github.com/yaasuhiro) | naka | danganronpa, hamilton, & cod areas.  ₊˚⊹ᰔ ask4insp ˖⁺‧₊˚✦  c+h heavily enc. ♡ im always offtab, pls w2i!! ಇ. dnc skins ꉂ(˵˃ ᗜ ˂˵)  | 271 |
 | 5 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 224 |
@@ -83,4 +83,4 @@ Indexed users: 901
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-10T07:16:50.019Z
+Generated: 2026-10-10T08:43:39.759Z

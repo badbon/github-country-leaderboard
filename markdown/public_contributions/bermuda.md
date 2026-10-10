@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-10T07:16:50.019Z
+Generated: 2026-10-10T08:43:39.759Z
 
 Users: 901
 
@@ -9,7 +9,7 @@ Users: 901
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7147 |
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 4185 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | @dxos |  | Hamilton, ON | 2549 |
-| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 1963 |
+| 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 2046 |
 | 5 | [Justype](https://github.com/Justype) | Cheng |  |  | Hamilton | 1393 |
 | 6 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 1366 |
 | 7 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 1289 |
@@ -24,5 +24,5 @@ Users: 901
 | 16 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | SKomp Studio |  | Hamilton, ON | 649 |
 | 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | McMaster University CS + Math |  | Hamilton, Ontario | 609 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Miami University | roseaw | Oxford, OH, Hamilton, OH | 579 |
-| 19 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |
-| 20 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | @vehikl |  | Hamilton, ON | 476 |
+| 19 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar |  |  | Hamilton | 561 |
+| 20 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel |  | chu_rill | Hamilton | 494 |
