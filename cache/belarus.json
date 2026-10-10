@@ -131386,5 +131386,77 @@
     "privateContributions": 0,
     "publicContributions": 42,
     "createdAt": "2026-06-01T11:41:53Z"
+  },
+  {
+    "login": "sehaxe",
+    "name": "sehaxe",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284748188?s=72&u=01bda0c5ce6a6d13968e28e744586acad055a338&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 48,
+    "publicContributions": 1254,
+    "createdAt": "2026-05-14T18:27:08Z"
+  },
+  {
+    "login": "smyslivec677-pixel",
+    "name": "Sasha555",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292370022?s=72&u=b047479f95da19504142b0ee3c2d1a94d6f9f85b&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-06-10T08:08:58Z"
+  },
+  {
+    "login": "Vo1dReign",
+    "name": "Eugene",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291824130?s=72&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-08T14:52:16Z"
+  },
+  {
+    "login": "tsururik",
+    "name": "Aleksey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296282997?s=72&u=adb7c11a3f3a57256890f5745e54972537c908fe&v=4",
+    "location": "Minsk",
+    "company": "Krok",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-23T19:38:31Z"
+  },
+  {
+    "login": "temni-drun",
+    "name": "Aleksej Rechkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289179139?s=72&u=4eb15ac082c1272f8ef9651d64d117fdaa097a65&v=4",
+    "location": "Minsk",
+    "company": "@EasyLauncherMC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-30T10:52:57Z"
+  },
+  {
+    "login": "ten3shi13",
+    "name": "Bogdan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296097041?s=72&u=d6191441ae6905985030eccc4e89d7ecf23d4555&v=4",
+    "location": "Minsk",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 3,
+    "publicContributions": 48,
+    "createdAt": "2026-06-23T08:11:23Z"
   }
 ]

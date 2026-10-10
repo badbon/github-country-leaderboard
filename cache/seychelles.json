@@ -9882,7 +9882,7 @@
     "location": "Victoria, BC",
     "company": "AOT Technologies",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-09-29T19:07:16Z"
@@ -9895,7 +9895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 540,
+    "privateContributions": 444,
     "publicContributions": 0,
     "createdAt": "2017-03-02T02:30:00Z"
   },
@@ -9918,8 +9918,8 @@
     "location": "Victoria BC",
     "company": "OneFeather",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1063,
+    "followers": 12,
+    "privateContributions": 1031,
     "publicContributions": 0,
     "createdAt": "2017-07-20T20:30:31Z"
   },
@@ -9931,7 +9931,7 @@
     "company": "Tork Law",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1958,
+    "privateContributions": 2101,
     "publicContributions": 0,
     "createdAt": "2017-07-17T23:25:14Z"
   },
@@ -9943,8 +9943,8 @@
     "company": "",
     "twitterUsername": "akomagorkina",
     "followers": 10,
-    "privateContributions": 1787,
-    "publicContributions": 7,
+    "privateContributions": 1685,
+    "publicContributions": 8,
     "createdAt": "2017-12-23T22:38:22Z"
   },
   {
@@ -9955,21 +9955,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "privateContributions": 23,
+    "publicContributions": 69,
     "createdAt": "2017-01-06T17:45:58Z"
-  },
-  {
-    "login": "omigibson",
-    "name": "Omi Gibba",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/32762483?s=72&v=4",
-    "location": "Victoria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-10-13T07:46:29Z"
   },
   {
     "login": "TylerMuhly",
@@ -9991,8 +9979,8 @@
     "company": "@momentumdash ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2488,
-    "publicContributions": 5,
+    "privateContributions": 3098,
+    "publicContributions": 77,
     "createdAt": "2017-01-04T22:28:37Z"
   },
   {
@@ -10003,8 +9991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1,
-    "publicContributions": 8,
+    "privateContributions": 49,
+    "publicContributions": 10,
     "createdAt": "2017-12-19T07:23:51Z"
   },
   {
@@ -10028,7 +10016,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 208,
+    "publicContributions": 304,
     "createdAt": "2017-12-05T05:53:51Z"
   },
   {
@@ -10039,8 +10027,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 10,
-    "publicContributions": 8,
+    "privateContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2017-10-07T22:46:28Z"
   },
   {
@@ -10051,7 +10039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1614,
+    "privateContributions": 1950,
     "publicContributions": 7,
     "createdAt": "2017-11-12T21:34:26Z"
   },

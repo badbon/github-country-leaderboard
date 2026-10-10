@@ -9944,7 +9944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 29,
-    "publicContributions": 64,
+    "publicContributions": 66,
     "createdAt": "2020-01-28T21:59:16Z"
   },
   {
@@ -9954,9 +9954,9 @@
     "location": "Asunción, Paraguay",
     "company": "Dirección Nacional del Registro de Automotores",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2020-12-20T17:03:47Z"
   },
   {
@@ -9991,7 +9991,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 144,
+    "privateContributions": 22,
     "publicContributions": 0,
     "createdAt": "2020-11-06T15:42:51Z"
   },
@@ -10001,23 +10001,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/74677652?s=72&u=5d50893201a195b7294e572dfe0ceb68fb804188&v=4",
     "location": "Paraguay",
     "company": "@10Grounds",
-    "twitterUsername": "",
+    "twitterUsername": "alexmorais011",
     "followers": 1,
-    "privateContributions": 118,
+    "privateContributions": 280,
     "publicContributions": 0,
     "createdAt": "2020-11-18T18:15:14Z"
-  },
-  {
-    "login": "guanarp",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60052556?s=72&u=9cc37960cee09cd74717a04f0c568f1028de2e10&v=4",
-    "location": "Asuncion, Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-01-19T02:09:51Z"
   },
   {
     "login": "aerostatico",
@@ -10052,7 +10040,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 29,
     "createdAt": "2020-04-06T18:37:18Z"
   },
   {
@@ -10075,7 +10063,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 128,
+    "privateContributions": 180,
     "publicContributions": 14,
     "createdAt": "2020-01-02T13:51:58Z"
   },
