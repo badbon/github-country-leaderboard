@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-10T01:08:42.074Z
+Generated: 2026-10-10T02:30:54.054Z
 
 Users: 441
 
@@ -10,7 +10,7 @@ Users: 441
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | CAICT |  | Macau | 9267 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  |  |  | Macau | 7870 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison |  |  | Macau | 6616 |
-| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 5381 |
+| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 5458 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 3477 |
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3297 |

@@ -16,7 +16,7 @@ Indexed users: 441
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,267 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 7,870 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 6,616 |
-| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 5,381 |
+| 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 5,458 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,325 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,477 |
 | 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,297 |
@@ -83,4 +83,4 @@ Indexed users: 441
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-10T01:08:42.074Z
+Generated: 2026-10-10T02:30:54.054Z

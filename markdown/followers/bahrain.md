@@ -1,8 +1,8 @@
 # Followers - Bahrain
 
-Generated: 2026-10-10T01:52:05.285Z
+Generated: 2026-10-10T02:31:09.982Z
 
-Users: 727
+Users: 729
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

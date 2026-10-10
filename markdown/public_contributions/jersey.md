@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-10T01:01:17.138Z
+Generated: 2026-10-10T02:24:58.865Z
 
 Users: 140
 
@@ -20,9 +20,9 @@ Users: 140
 | 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 178 |
 | 13 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
 | 14 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
-| 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 135 |
+| 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 133 |
 | 16 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
 | 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 118 |
 | 18 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 110 |
-| 19 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 93 |
+| 19 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 94 |
 | 20 | [Eve-Carruthers](https://github.com/Eve-Carruthers) | Eve Carruthers |  | EveCarruthers_ | Jersey, Channel Islands | 90 |

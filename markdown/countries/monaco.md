@@ -29,7 +29,7 @@ Indexed users: 143
 | 15 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 417 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 407 |
 | 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 315 |
-| 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 270 |
+| 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 269 |
 | 19 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 256 |
 | 20 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 253 |
 
@@ -64,8 +64,8 @@ Indexed users: 143
 |---:|---|---|---|---:|
 | 1 | [aplatoff](https://github.com/aplatoff) | Andrey Platov | Monaco | 132 |
 | 2 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 97 |
-| 3 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 40 |
-| 4 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 39 |
+| 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 39 |
+| 4 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 38 |
 | 5 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 36 |
 | 6 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 34 |
 | 7 | [zertawz](https://github.com/zertawz) | Jean-Christophe BURNOT | MONACO / LYON / LAUSANNE | 30 |
@@ -83,4 +83,4 @@ Indexed users: 143
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-10T01:12:07.297Z
+Generated: 2026-10-10T02:35:05.809Z

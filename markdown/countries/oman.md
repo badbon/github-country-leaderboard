@@ -22,9 +22,9 @@ Indexed users: 996
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
 | 10 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,290 |
-| 11 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
-| 12 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
-| 13 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
+| 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 8,204 |
+| 12 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
+| 13 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
 | 14 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
 | 15 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
@@ -63,12 +63,12 @@ Indexed users: 996
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [pylover](https://github.com/pylover) | Vahid | Muscat, Oman | 422 |
-| 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | Sultanate Of Oman | 283 |
+| 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | Sultanate Of Oman | 284 |
 | 3 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
 | 4 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand | Muscat, Oman | 221 |
 | 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 201 |
-| 6 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 187 |
-| 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 183 |
+| 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 193 |
+| 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 187 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 175 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 174 |
 | 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 152 |
@@ -83,4 +83,4 @@ Indexed users: 996
 | 19 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-10T01:19:27.718Z
+Generated: 2026-10-10T02:40:49.759Z

@@ -1,6 +1,6 @@
 # Nicaragua
 
-Indexed users: 1,401
+Indexed users: 1,400
 
 | Leaderboard | Link |
 |---|---|
@@ -17,10 +17,10 @@ Indexed users: 1,401
 | 3 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,789 |
 | 4 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | Managua, Nicaragua | 6,724 |
 | 5 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 5,020 |
-| 6 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 4,816 |
+| 6 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 4,946 |
 | 7 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 4,625 |
-| 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 4,268 |
-| 9 | [manuelduarte077](https://github.com/manuelduarte077) | Manuel Duarte  | Nicaragua | 3,841 |
+| 8 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,398 |
+| 9 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 4,268 |
 | 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 3,787 |
 | 11 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
 | 12 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,641 |
@@ -38,25 +38,25 @@ Indexed users: 1,401
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,430 |
-| 2 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 2,021 |
-| 3 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
-| 4 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 1,371 |
-| 5 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
-| 6 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
-| 7 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,153 |
-| 8 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,137 |
+| 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 2,077 |
+| 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 2,021 |
+| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
+| 5 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 1,371 |
+| 6 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
+| 7 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
+| 8 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,153 |
 | 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,124 |
 | 10 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,048 |
 | 11 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,037 |
-| 12 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 987 |
-| 13 | [kraudy](https://github.com/kraudy) | Roberto Torrez | Nicaragua | 908 |
-| 14 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 895 |
-| 15 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 894 |
-| 16 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
-| 17 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez | Nicaragua | 759 |
-| 18 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 754 |
-| 19 | [c04o](https://github.com/c04o) | Connie Caldera | Masaya, Nicaragua | 746 |
-| 20 | [Jonafvip](https://github.com/Jonafvip) | Jona | Nicaragua | 744 |
+| 12 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,027 |
+| 13 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 987 |
+| 14 | [kraudy](https://github.com/kraudy) | Roberto Torrez | Nicaragua | 908 |
+| 15 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 895 |
+| 16 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | Managua | 894 |
+| 17 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez | Leon, Nicaragua | 876 |
+| 18 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez | Nicaragua | 759 |
+| 19 | [THEGABOALE](https://github.com/THEGABOALE) | Gabriel Alejandro García Angulo | Managua, Nicaragua | 754 |
+| 20 | [c04o](https://github.com/c04o) | Connie Caldera | Masaya, Nicaragua | 746 |
 
 ## Followers
 
@@ -72,15 +72,15 @@ Indexed users: 1,401
 | 8 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 115 |
 | 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 109 |
 | 10 | [Ualb](https://github.com/Ualb) | Ulises López | Managua. Nic | 99 |
-| 11 | [manuelduarte077](https://github.com/manuelduarte077) | Manuel Duarte  | Nicaragua | 93 |
-| 12 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 91 |
+| 11 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 91 |
+| 12 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 79 |
 | 13 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez | Managua, Nicaragua | 79 |
 | 14 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar | Nicaragua | 78 |
 | 15 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 78 |
-| 16 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 77 |
-| 17 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 73 |
-| 18 | [neydroid](https://github.com/neydroid) | José Ney Guerrero | Managua, Nicaragua | 70 |
-| 19 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
-| 20 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
+| 16 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 73 |
+| 17 | [neydroid](https://github.com/neydroid) | José Ney Guerrero | Managua, Nicaragua | 70 |
+| 18 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
+| 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 60 |
+| 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-10T01:16:00.033Z
+Generated: 2026-10-10T02:38:29.184Z

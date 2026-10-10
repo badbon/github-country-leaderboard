@@ -1,8 +1,8 @@
 # Followers - Malawi
 
-Generated: 2026-10-10T01:08:50.835Z
+Generated: 2026-10-10T02:31:00.631Z
 
-Users: 902
+Users: 901
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

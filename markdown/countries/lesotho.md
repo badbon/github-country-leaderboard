@@ -23,7 +23,7 @@ Indexed users: 160
 | 9 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 705 |
 | 10 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 705 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Maseru, Lesotho | 537 |
-| 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 509 |
+| 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 430 |
 | 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 343 |
 | 15 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 325 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-10T01:04:59.493Z
+Generated: 2026-10-10T02:27:44.522Z

@@ -1,8 +1,8 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-10T01:16:00.033Z
+Generated: 2026-10-10T02:38:29.184Z
 
-Users: 1401
+Users: 1400
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,10 +11,10 @@ Users: 1401
 | 3 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 6789 |
 | 4 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | @BreveTech @tizo-nic  | pacisauctor_ | Managua, Nicaragua | 6724 |
 | 5 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real |  |  | Nicaragua | 5020 |
-| 6 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 4816 |
+| 6 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 4946 |
 | 7 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 4625 |
-| 8 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 4268 |
-| 9 | [manuelduarte077](https://github.com/manuelduarte077) | Manuel Duarte  | Momotombo Devs |  | Nicaragua | 3841 |
+| 8 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4398 |
+| 9 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 4268 |
 | 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 3787 |
 | 11 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |
 | 12 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3641 |

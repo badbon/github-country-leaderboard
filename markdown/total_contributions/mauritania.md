@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-10T01:10:31.646Z
+Generated: 2026-10-10T02:33:35.418Z
 
 Users: 289
 
@@ -10,7 +10,7 @@ Users: 289
 | 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 11428 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 10033 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 8364 |
-| 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 4352 |
+| 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 4356 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4094 |
 | 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3211 |
 | 8 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 2764 |
@@ -18,10 +18,10 @@ Users: 289
 | 10 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar |  | mohamed_hadramy | Nouakchott, Mauritania | 2341 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 2313 |
 | 12 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 2263 |
-| 13 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim |  | medvall_mr | Nouakchott, Mauritania | 1731 |
+| 13 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim |  | medvall_mr | Nouakchott, Mauritania | 1740 |
 | 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Cato Systems | compiler_a | Mauritania | 1724 |
 | 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 1523 |
-| 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1333 |
+| 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1331 |
 | 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1277 |
 | 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 968 |
 | 19 | [aadeina](https://github.com/aadeina) | Amar |  |  | Mauritania | 852 |

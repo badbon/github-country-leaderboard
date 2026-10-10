@@ -1,18 +1,18 @@
 # Followers - Oman
 
-Generated: 2026-10-10T01:19:27.718Z
+Generated: 2026-10-10T02:40:49.759Z
 
 Users: 996
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [pylover](https://github.com/pylover) | Vahid |  |  | Muscat, Oman | 422 |
-| 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | 3DDesignLLC |  | Sultanate Of Oman | 283 |
+| 2 | [salim3dd](https://github.com/salim3dd) | Salim3dd | 3DDesignLLC |  | Sultanate Of Oman | 284 |
 | 3 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | @thedevclass  | thedevclass | Oman | 227 |
 | 4 | [uiamirali](https://github.com/uiamirali) | Amirali Jalalvand |  |  | Muscat, Oman | 221 |
 | 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Tech Mahindra | ahmedtechm | Muscat, Oman | 201 |
-| 6 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar |  |  | Oman, Muscat | 187 |
-| 7 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir |  | Peaceful_0 | Oman | 183 |
+| 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir |  | Peaceful_0 | Oman | 193 |
+| 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar |  |  | Oman, Muscat | 187 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r |  |  | Oman, Muscat | 175 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad |  | sajadevo_ | Muscat, Oman | 174 |
 | 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | commonAI |  | Muscat, Oman | 152 |
