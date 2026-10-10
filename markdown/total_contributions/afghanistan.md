@@ -1,8 +1,8 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-10T01:46:46.268Z
+Generated: 2026-10-10T03:09:26.321Z
 
-Users: 1499
+Users: 1498
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 1499
 | 15 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 5656 |
 | 16 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 5595 |
 | 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5136 |
-| 18 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | @Code9ine |  | Kabul, Afghanistan | 4854 |
-| 19 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4839 |
-| 20 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4812 |
+| 18 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
+| 19 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | @Code9ine |  | Kabul, Afghanistan | 4854 |
+| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4839 |

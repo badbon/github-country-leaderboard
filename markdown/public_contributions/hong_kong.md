@@ -1,6 +1,6 @@
 # Public Contributions - Hong Kong
 
-Generated: 2026-10-10T02:18:34.210Z
+Generated: 2026-10-10T03:42:17.732Z
 
 Users: 10311
 
@@ -8,8 +8,8 @@ Users: 10311
 |---:|---|---|---|---|---|---:|
 | 1 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | http://pantarei-design.com | hswong3i | Hong Kong | 22592 |
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | @scentbird @chainargos | donbeave | Hong Kong | 19852 |
-| 3 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 13015 |
-| 4 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | @basedhardware | makethings4ppl | melbourne/hong kong | 12781 |
+| 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | @basedhardware | makethings4ppl | melbourne/hong kong | 15420 |
+| 4 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 13015 |
 | 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 9360 |
 | 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang |  | Tangwingho | Hong Kong | 9074 |
 | 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung |  |  | Hong Kong | 8170 |

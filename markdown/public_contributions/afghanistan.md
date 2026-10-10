@@ -1,15 +1,15 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-10T01:46:46.268Z
+Generated: 2026-10-10T03:09:26.321Z
 
-Users: 1499
+Users: 1498
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Da Afghanistan Bank (APS) |  | Kabul, Afghanistan | 30645 |
 | 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7251 |
 | 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | @BarlasTech | A1_HAROON | Kabul, Afghanistan | 5680 |
-| 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4812 |
+| 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 2782 |
 | 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | tawana |  | kabul | 2601 |
 | 7 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 2578 |

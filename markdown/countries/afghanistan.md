@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,499
+Indexed users: 1,498
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 1,499
 | 15 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 5,656 |
 | 16 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,595 |
 | 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,136 |
-| 18 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | Kabul, Afghanistan | 4,854 |
-| 19 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,839 |
-| 20 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,812 |
+| 18 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
+| 19 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | Kabul, Afghanistan | 4,854 |
+| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,839 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 1,499
 | 1 | [ahmadullahmukhlis](https://github.com/ahmadullahmukhlis) | Ahmadullah Mukhlis | Kabul, Afghanistan | 30,645 |
 | 2 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,251 |
 | 3 | [haroonrashidzadran](https://github.com/haroonrashidzadran) | Haroon Rashid Zadran | Kabul, Afghanistan | 5,680 |
-| 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,812 |
+| 4 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
 | 5 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 2,782 |
 | 6 | [alawoddin](https://github.com/alawoddin) | Alawoddin khedmat | kabul | 2,601 |
 | 7 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 2,578 |
@@ -83,4 +83,4 @@ Indexed users: 1,499
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-10T01:46:46.268Z
+Generated: 2026-10-10T03:09:26.321Z

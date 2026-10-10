@@ -1,6 +1,6 @@
 # Followers - Benin
 
-Generated: 2026-10-10T01:55:12.450Z
+Generated: 2026-10-10T03:16:10.231Z
 
 Users: 470
 
@@ -17,8 +17,8 @@ Users: 470
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO |  |  | Benin | 107 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | LABEF (University of Abomey Calavi) | ChrisCK23683119 | Benin | 98 |
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU |  | dev_alade | Cotonou,Littoral, Benin | 92 |
-| 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 88 |
-| 13 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian |  | florianedemessi | Benin, Cotonou | 88 |
+| 12 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian |  | florianedemessi | Benin, Cotonou | 89 |
+| 13 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM |  | JeCorde | Republic of Benin | 88 |
 | 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo |  |  | Benin, Nigeria | 87 |
 | 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias |  |  | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  |  |  | Benin | 83 |

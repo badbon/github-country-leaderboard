@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 901
+Indexed users: 902
 
 | Leaderboard | Link |
 |---|---|
@@ -24,9 +24,9 @@ Indexed users: 901
 | 10 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,466 |
 | 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,148 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,002 |
-| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,557 |
-| 14 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,951 |
-| 15 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 4,644 |
+| 13 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 5,969 |
+| 14 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,557 |
+| 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,951 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,426 |
 | 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,029 |
 | 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | Hamilton, NZ | 3,786 |
@@ -83,4 +83,4 @@ Indexed users: 901
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-10T01:55:54.177Z
+Generated: 2026-10-10T03:16:34.237Z

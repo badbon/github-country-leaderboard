@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-10T01:46:54.793Z
+Generated: 2026-10-10T03:10:51.621Z
 
 Users: 1185
 
@@ -8,12 +8,12 @@ Users: 1185
 |---:|---|---|---|---|---|---:|
 | 1 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 10352 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | basecode LLC. | flakerimi | Tirane, Albania | 10302 |
-| 3 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
-| 4 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8242 |
-| 5 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6334 |
-| 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6294 |
-| 7 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 6077 |
-| 8 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 5935 |
+| 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 9126 |
+| 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
+| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8242 |
+| 6 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6334 |
+| 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6294 |
+| 8 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 6077 |
 | 9 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5887 |
 | 10 | [orges](https://github.com/orges) | orges |  |  | Albania | 5549 |
 | 11 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 5493 |

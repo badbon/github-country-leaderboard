@@ -1,8 +1,8 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-10T01:55:54.177Z
+Generated: 2026-10-10T03:16:34.237Z
 
-Users: 901
+Users: 902
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,9 +18,9 @@ Users: 901
 | 10 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 6466 |
 | 11 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6148 |
 | 12 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6002 |
-| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5557 |
-| 14 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4951 |
-| 15 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 4644 |
+| 13 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 5969 |
+| 14 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5557 |
+| 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4951 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4426 |
 | 17 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4029 |
 | 18 | [osamaaamer95](https://github.com/osamaaamer95) | Osama Aamer | @fankave  | osamaaamer | Hamilton, NZ | 3786 |

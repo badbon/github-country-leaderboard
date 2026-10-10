@@ -19,7 +19,7 @@ Indexed users: 3,108
 | 5 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 12,643 |
 | 6 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
 | 7 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
-| 8 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,520 |
+| 8 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
 | 9 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,945 |
 | 10 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
 | 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
@@ -78,9 +78,9 @@ Indexed users: 3,108
 | 14 | [AndrewStetsenko](https://github.com/AndrewStetsenko) |  | Slovenia | 282 |
 | 15 | [otobrglez](https://github.com/otobrglez) | Oto Brglez | Ljubljana, Slovenia | 269 |
 | 16 | [tomaz](https://github.com/tomaz) | tomaz | Slovenia | 249 |
-| 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Ljubljana, Slovenia | 243 |
+| 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Ljubljana, Slovenia | 248 |
 | 18 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 241 |
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-10T01:33:41.687Z
+Generated: 2026-10-10T02:57:37.953Z

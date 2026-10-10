@@ -76,11 +76,11 @@ Indexed users: 254
 | 12 | [nz-is](https://github.com/nz-is) | Nazrul Ismail | Brunei Darussalam | 20 |
 | 13 | [lordsayur](https://github.com/lordsayur) | Omar | Brunei | 18 |
 | 14 | [acyein](https://github.com/acyein) | Yein | Brunei | 17 |
-| 15 | [snek5](https://github.com/snek5) | Azim Anuar | Brunei | 16 |
+| 15 | [snek5](https://github.com/snek5) | Azim Anuar | Brunei | 17 |
 | 16 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 16 |
 | 17 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 15 |
 | 18 | [bahit](https://github.com/bahit) | Bahit Hamid | Brunei | 14 |
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-10T01:58:59.842Z
+Generated: 2026-10-10T03:18:06.177Z

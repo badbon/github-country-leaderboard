@@ -24,14 +24,14 @@ Indexed users: 1,276
 | 10 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
 | 11 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,009 |
 | 12 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 3,881 |
-| 13 | [ericgreen-dev](https://github.com/ericgreen-dev) | Eric Green | Kingston Ontario | 3,839 |
-| 14 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
-| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
-| 16 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
-| 17 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
-| 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
-| 19 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
-| 20 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
+| 13 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
+| 14 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
+| 15 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
+| 16 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
+| 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
+| 18 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
+| 19 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
+| 20 | [titan-65](https://github.com/titan-65) | Vantol Bennett | Jamaica | 3,280 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-10T02:22:02.498Z
+Generated: 2026-10-10T03:45:39.762Z

@@ -14,12 +14,12 @@ Indexed users: 10,311
 |---:|---|---|---|---:|
 | 1 | [ZenAlexa](https://github.com/ZenAlexa) | Ziming Wang | Clear Water Bay, Hong Kong | 34,569 |
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 27,688 |
-| 3 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
-| 4 | [thekvn](https://github.com/thekvn) | Kevin Chan | Hong Kong | 16,589 |
-| 5 | [Dmdv](https://github.com/Dmdv) | dmdv | Hong Kong | 16,146 |
-| 6 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 16,055 |
-| 7 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU | Hong Kong, Hong Kong | 15,808 |
-| 8 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 14,970 |
+| 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 24,121 |
+| 4 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
+| 5 | [thekvn](https://github.com/thekvn) | Kevin Chan | Hong Kong | 16,589 |
+| 6 | [Dmdv](https://github.com/Dmdv) | dmdv | Hong Kong | 16,146 |
+| 7 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 16,055 |
+| 8 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU | Hong Kong, Hong Kong | 15,808 |
 | 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 14,637 |
 | 10 | [augchan42](https://github.com/augchan42) | Augustin Chan | Hong Kong | 14,636 |
 | 11 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | Hong Kong | 14,213 |
@@ -39,8 +39,8 @@ Indexed users: 10,311
 |---:|---|---|---|---:|
 | 1 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 19,852 |
-| 3 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 13,015 |
-| 4 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 12,781 |
+| 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 15,420 |
+| 4 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 13,015 |
 | 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,360 |
 | 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang | Hong Kong | 9,074 |
 | 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung | Hong Kong | 8,170 |
@@ -83,4 +83,4 @@ Indexed users: 10,311
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-10T02:18:34.210Z
+Generated: 2026-10-10T03:42:17.732Z

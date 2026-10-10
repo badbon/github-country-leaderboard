@@ -1,6 +1,6 @@
 # Total Contributions - Jersey
 
-Generated: 2026-10-10T02:24:58.865Z
+Generated: 2026-10-10T03:45:42.798Z
 
 Users: 140
 
@@ -14,7 +14,7 @@ Users: 140
 | 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | inshore Ltd | danielmullin | Jersey | 4667 |
 | 7 | [timkrins](https://github.com/timkrins) | Tim Krins | @InfuseGroup  |  | Jersey, Channel Islands | 4585 |
 | 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Pinpoint |  | Jersey | 4098 |
-| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 3986 |
+| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 4058 |
 | 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 3363 |
 | 11 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 2929 |
 | 12 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 2857 |

@@ -1,6 +1,6 @@
 # Thailand
 
-Indexed users: 14,990
+Indexed users: 14,989
 
 | Leaderboard | Link |
 |---|---|
@@ -45,10 +45,10 @@ Indexed users: 14,990
 | 6 | [jhfnetboy](https://github.com/jhfnetboy) | Jiao Huifeng | Thailand | 11,535 |
 | 7 | [tumf](https://github.com/tumf) | tumf | Bangkok, Thailand | 9,928 |
 | 8 | [natthapolvanasrivilai](https://github.com/natthapolvanasrivilai) | Natthapol Vanasrivilai | Thailand | 8,080 |
-| 9 | [TheetawatCode](https://github.com/TheetawatCode) | Theetawat Premsawat | Bangkok, Thailand | 7,960 |
-| 10 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | Phuket, Thailand | 7,744 |
-| 11 | [pavelsly](https://github.com/pavelsly) | Pavel | Thailand | 7,481 |
-| 12 | [davidsneighbour](https://github.com/davidsneighbour) | Patrick Kollitsch | Koh Samui, Thailand | 7,111 |
+| 9 | [jeremi](https://github.com/jeremi) | Jeremi Joslin | Phuket, Thailand | 7,744 |
+| 10 | [pavelsly](https://github.com/pavelsly) | Pavel | Thailand | 7,481 |
+| 11 | [davidsneighbour](https://github.com/davidsneighbour) | Patrick Kollitsch | Koh Samui, Thailand | 7,111 |
+| 12 | [TheetawatCode](https://github.com/TheetawatCode) | Theetawat Premsawat | Bangkok, Thailand | 6,999 |
 | 13 | [StevenTCramer](https://github.com/StevenTCramer) | Steven T. Cramer | Thailand | 6,894 |
 | 14 | [heypoom](https://github.com/heypoom) | Phoomparin Mano | Bangkok, Thailand. | 6,726 |
 | 15 | [katopz](https://github.com/katopz) | Todsaporn Banjerdkit | Bangkok, Thailand | 5,992 |
@@ -83,4 +83,4 @@ Indexed users: 14,990
 | 19 | [worawit](https://github.com/worawit) | Worawit Wangwarunyoo | Thailand | 695 |
 | 20 | [nuuneoi](https://github.com/nuuneoi) | Sittiphol Phanvilai | Bangkok, Thailand | 693 |
 
-Generated: 2026-10-10T01:39:58.539Z
+Generated: 2026-10-10T03:01:51.632Z

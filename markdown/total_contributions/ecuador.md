@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-10T02:07:56.250Z
+Generated: 2026-10-10T03:28:13.283Z
 
 Users: 4900
 
@@ -12,7 +12,7 @@ Users: 4900
 | 4 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes |  | yeyodev | Guayaquil, Ecuador | 9478 |
 | 5 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | FiftyFlowers |  | Ecuador | 9075 |
 | 6 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | WILDBIT |  | Guayaquil, Ecuador | 7955 |
-| 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7335 |
+| 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7903 |
 | 8 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | @SantaPriscilaDevs  |  | Guayaquil, Ecuador | 7234 |
 | 9 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 6794 |
 | 10 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |

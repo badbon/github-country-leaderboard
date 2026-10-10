@@ -13,7 +13,7 @@ Indexed users: 256
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [DarionHernandez](https://github.com/DarionHernandez) | Darion A. Hernandez | Trinidad and Tobago | 8,401 |
-| 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 6,568 |
+| 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 6,508 |
 | 3 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 4,100 |
 | 4 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 3,769 |
 | 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,121 |
@@ -31,7 +31,7 @@ Indexed users: 256
 | 17 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | Trinidad and Tobago | 1,188 |
 | 18 | [ZeroDayz77](https://github.com/ZeroDayz77) | Darnell Garcia | Trinidad and Tobago | 1,029 |
 | 19 | [kwamet](https://github.com/kwamet) | Kwame Trancoso | Trinidad and Tobago | 1,008 |
-| 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Trinidad and Tobago | 998 |
+| 20 | [DanielYatali](https://github.com/DanielYatali) | Daniel Yatali | Trinidad and Tobago | 997 |
 
 ## Public Contributions
 
@@ -54,7 +54,7 @@ Indexed users: 256
 | 15 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 256 |
 | 16 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 250 |
 | 17 | [Brandonbr1](https://github.com/Brandonbr1) | Java sauce | Trinidad and Tobago | 234 |
-| 18 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 230 |
+| 18 | [IshikaGopie](https://github.com/IshikaGopie) | Ishika_Gopie | Trinidad and Tobago | 229 |
 | 19 | [J4m331](https://github.com/J4m331) | Jameel Ali | Trinidad and Tobago | 229 |
 | 20 | [Trasmonaut](https://github.com/Trasmonaut) | Trasmonaut | Trinidad and Tobago | 186 |
 
@@ -62,7 +62,7 @@ Indexed users: 256
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 1,600 |
+| 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 1,601 |
 | 2 | [rajeevratan84](https://github.com/rajeevratan84) | Rajeev Ratan | UK, Trinidad and Tobago | 194 |
 | 3 | [InzamamRahaman](https://github.com/InzamamRahaman) | Inzamam Rahaman | Trinidad and Tobago | 119 |
 | 4 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | Trinidad and Tobago | 102 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-10T01:41:15.646Z
+Generated: 2026-10-10T03:03:04.051Z

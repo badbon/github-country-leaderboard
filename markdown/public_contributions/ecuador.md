@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-10T02:07:56.250Z
+Generated: 2026-10-10T03:28:13.283Z
 
 Users: 4900
 
@@ -8,7 +8,7 @@ Users: 4900
 |---:|---|---|---|---|---|---:|
 | 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10133 |
 | 2 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes |  | yeyodev | Guayaquil, Ecuador | 9477 |
-| 3 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 6973 |
+| 3 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7530 |
 | 4 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 6951 |
 | 5 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Somatech  |  | Quito | 5138 |
 | 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 4462 |

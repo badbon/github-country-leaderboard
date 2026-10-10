@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-10T02:21:39.362Z
+Generated: 2026-10-10T03:43:59.239Z
 
 Users: 2252
 
@@ -16,10 +16,10 @@ Users: 2252
 | 8 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 7304 |
 | 9 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6803 |
 | 10 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6728 |
-| 11 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6468 |
-| 12 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6104 |
-| 13 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 6014 |
-| 14 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 5960 |
+| 11 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6573 |
+| 12 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6468 |
+| 13 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6104 |
+| 14 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 6014 |
 | 15 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Lezzoo Inc. | Rekar_Botany | Iraq, Erbil | 5958 |
 | 16 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5941 |
 | 17 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 5566 |

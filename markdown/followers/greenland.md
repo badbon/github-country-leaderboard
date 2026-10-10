@@ -1,6 +1,6 @@
 # Followers - Greenland
 
-Generated: 2026-10-10T02:15:35.347Z
+Generated: 2026-10-10T03:38:09.681Z
 
 Users: 59
 
@@ -8,7 +8,7 @@ Users: 59
 |---:|---|---|---|---|---|---:|
 | 1 | [aantoooon](https://github.com/aantoooon) | anton |  |  | Greenland | 1516 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 1221 |
-| 3 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 1024 |
+| 3 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 1023 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Garbagecode Inc | jiiksi | Greenland | 291 |
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 202 |
 | 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 151 |

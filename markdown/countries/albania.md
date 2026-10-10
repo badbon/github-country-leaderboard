@@ -14,12 +14,12 @@ Indexed users: 1,185
 |---:|---|---|---|---:|
 | 1 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 10,352 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 10,302 |
-| 3 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,598 |
-| 4 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,242 |
-| 5 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,334 |
-| 6 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,294 |
-| 7 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 6,077 |
-| 8 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 5,935 |
+| 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 9,126 |
+| 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,598 |
+| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,242 |
+| 6 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,334 |
+| 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,294 |
+| 8 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 6,077 |
 | 9 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
 | 10 | [orges](https://github.com/orges) | orges | Albania | 5,549 |
 | 11 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
@@ -83,4 +83,4 @@ Indexed users: 1,185
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-10T01:46:54.793Z
+Generated: 2026-10-10T03:10:51.621Z

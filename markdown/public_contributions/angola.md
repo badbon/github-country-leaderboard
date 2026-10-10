@@ -1,6 +1,6 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-10T01:53:40.976Z
+Generated: 2026-10-10T03:11:02.376Z
 
 Users: 2512
 
@@ -18,11 +18,11 @@ Users: 2512
 | 10 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1200 |
 | 11 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
 | 12 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga |  |  | Angola | 1090 |
-| 13 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | EMJ CONSULTORIA LDA |  | Angola, Luanda, Viana | 945 |
-| 14 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 943 |
-| 15 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 940 |
-| 16 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
-| 17 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 930 |
-| 18 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 921 |
+| 13 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | ngoladata.com.ao |  | Angola | 943 |
+| 14 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 940 |
+| 15 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque |  |  | Luanda, Angola | 932 |
+| 16 | [joao-tambue](https://github.com/joao-tambue) | João Tambue |  |  | Angola/Luanda | 930 |
+| 17 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 921 |
+| 18 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | EMJ CONSULTORIA LDA |  | Angola, Luanda, Viana | 879 |
 | 19 | [jedin01](https://github.com/jedin01) | Abner Lourenço |  | jdn_098 | Angola | 873 |
 | 20 | [jorgeedvaldo](https://github.com/jorgeedvaldo) | Edivaldo Jorge |  |  | Luanda | 836 |

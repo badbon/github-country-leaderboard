@@ -1,6 +1,6 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-10T02:18:34.210Z
+Generated: 2026-10-10T03:42:17.732Z
 
 Users: 10311
 
@@ -8,12 +8,12 @@ Users: 10311
 |---:|---|---|---|---|---|---:|
 | 1 | [ZenAlexa](https://github.com/ZenAlexa) | Ziming Wang | HKUST | Adrian_Z_Wang | Clear Water Bay, Hong Kong | 34569 |
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | @scentbird @chainargos | donbeave | Hong Kong | 27688 |
-| 3 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | http://pantarei-design.com | hswong3i | Hong Kong | 22592 |
-| 4 | [thekvn](https://github.com/thekvn) | Kevin Chan | @ybexio  |  | Hong Kong | 16589 |
-| 5 | [Dmdv](https://github.com/Dmdv) | dmdv |  |  | Hong Kong | 16146 |
-| 6 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 16055 |
-| 7 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU |  |  | Hong Kong, Hong Kong | 15808 |
-| 8 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | @basedhardware | makethings4ppl | melbourne/hong kong | 14970 |
+| 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | @basedhardware | makethings4ppl | melbourne/hong kong | 24121 |
+| 4 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | http://pantarei-design.com | hswong3i | Hong Kong | 22592 |
+| 5 | [thekvn](https://github.com/thekvn) | Kevin Chan | @ybexio  |  | Hong Kong | 16589 |
+| 6 | [Dmdv](https://github.com/Dmdv) | dmdv |  |  | Hong Kong | 16146 |
+| 7 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 16055 |
+| 8 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU |  |  | Hong Kong, Hong Kong | 15808 |
 | 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 14637 |
 | 10 | [augchan42](https://github.com/augchan42) | Augustin Chan |  |  | Hong Kong | 14636 |
 | 11 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | .NET Foundation |  | Hong Kong | 14213 |

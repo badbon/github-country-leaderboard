@@ -19,9 +19,9 @@ Indexed users: 38
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
 | 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 169 |
-| 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 124 |
+| 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 126 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
-| 10 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 53 |
+| 10 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 54 |
 | 11 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 50 |
 | 12 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee | Aruba | 34 |
 | 13 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 28 |
@@ -40,10 +40,10 @@ Indexed users: 38
 | 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 579 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
-| 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 124 |
+| 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 126 |
 | 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 110 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
-| 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 53 |
+| 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 54 |
 | 8 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 50 |
 | 9 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 30 |
 | 10 | [hfsyung](https://github.com/hfsyung) |  | Aruba | 28 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-10T01:50:14.691Z
+Generated: 2026-10-10T03:12:57.996Z

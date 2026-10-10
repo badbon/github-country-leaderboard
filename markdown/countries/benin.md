@@ -28,7 +28,7 @@ Indexed users: 470
 | 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,642 |
 | 15 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,427 |
 | 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,330 |
-| 17 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,215 |
+| 17 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,232 |
 | 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,209 |
 | 19 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,169 |
 | 20 | [ChafikHadjAbdouRazack](https://github.com/ChafikHadjAbdouRazack) | Chafik HADJ ABDOU RAZACK | Benin | 3,128 |
@@ -73,8 +73,8 @@ Indexed users: 470
 | 9 | [VEGLOgabin](https://github.com/VEGLOgabin) | Gabin Houetchenou VEGLO | Benin | 107 |
 | 10 | [Zchristian955](https://github.com/Zchristian955) | Kevin Christian ZANOU | Benin | 98 |
 | 11 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 92 |
-| 12 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 88 |
-| 13 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 88 |
+| 12 | [nair0lf32](https://github.com/nair0lf32) | EDEMESSI Florian | Benin, Cotonou | 89 |
+| 13 | [AymarN](https://github.com/AymarN) | Aymar Sedami NAHUM | Republic of Benin | 88 |
 | 14 | [Collins222614](https://github.com/Collins222614) | Collins Efesomo | Benin, Nigeria | 87 |
 | 15 | [jackjosias](https://github.com/jackjosias) | Jack-Josias | Cotonou, Benin | 87 |
 | 16 | [Jozzy4](https://github.com/Jozzy4) | Ibatuemoh Joseph  | Benin | 83 |
@@ -83,4 +83,4 @@ Indexed users: 470
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-10T01:55:12.450Z
+Generated: 2026-10-10T03:16:10.231Z

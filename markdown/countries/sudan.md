@@ -37,7 +37,7 @@ Indexed users: 729
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,213 |
+| 1 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 1,229 |
 | 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,196 |
 | 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 939 |
@@ -66,7 +66,7 @@ Indexed users: 729
 | 2 | [shoukreytom](https://github.com/shoukreytom) | Shoukrey Tom | Sudan | 191 |
 | 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Sudan | 168 |
 | 4 | [amolood](https://github.com/amolood) | ABDALRAHMAN MOLOOD | Khartoum,Sudan | 150 |
-| 5 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 116 |
+| 5 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 115 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 112 |
 | 7 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 109 |
 | 8 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil | Sudan | 89 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 48 |
 
-Generated: 2026-10-10T01:35:04.981Z
+Generated: 2026-10-10T02:59:49.359Z

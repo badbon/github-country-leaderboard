@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-10T01:33:41.687Z
+Generated: 2026-10-10T02:57:37.953Z
 
 Users: 3108
 
@@ -13,7 +13,7 @@ Users: 3108
 | 5 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | OpenSea |  | Ljubljana, Slovenia | 12643 |
 | 6 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 10718 |
 | 7 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 10622 |
-| 8 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9520 |
+| 8 | [tfourj](https://github.com/tfourj) | Taj Tkalec |  |  | Slovenia | 9996 |
 | 9 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8945 |
 | 10 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
 | 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 8648 |

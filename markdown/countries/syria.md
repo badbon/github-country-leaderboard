@@ -51,12 +51,12 @@ Indexed users: 1,483
 | 12 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,040 |
 | 13 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
 | 14 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,010 |
-| 15 | [emad-alsmadi](https://github.com/emad-alsmadi) | emad alsmadi  | Syria | 873 |
-| 16 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
-| 17 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
-| 18 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani | Latakia, Syria | 658 |
-| 19 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
-| 20 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
+| 15 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
+| 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
+| 17 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani | Latakia, Syria | 658 |
+| 18 | [DMouayad](https://github.com/DMouayad) | Mouayad Alhamwi | Damascus, Syria | 653 |
+| 19 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
+| 20 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 578 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,483
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 101 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-10T02:21:39.362Z
+Generated: 2026-10-10T03:00:02.435Z

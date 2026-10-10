@@ -1,6 +1,6 @@
 # Bosnia and Herzegovina
 
-Indexed users: 2,133
+Indexed users: 2,132
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,133
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-10T01:57:28.498Z
+Generated: 2026-10-10T03:17:52.406Z

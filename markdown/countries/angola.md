@@ -49,12 +49,12 @@ Indexed users: 2,512
 | 10 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
 | 11 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 12 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
-| 13 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 945 |
-| 14 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
-| 15 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
-| 16 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
-| 17 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
-| 18 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
+| 13 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
+| 14 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
+| 15 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
+| 16 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
+| 17 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 921 |
+| 18 | [gasparfranciscogulungo](https://github.com/gasparfranciscogulungo) | Gaspar Francisco Gulungo | Angola, Luanda, Viana | 879 |
 | 19 | [jedin01](https://github.com/jedin01) | Abner Lourenço | Angola | 873 |
 | 20 | [jorgeedvaldo](https://github.com/jorgeedvaldo) | Edivaldo Jorge | Luanda | 836 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,512
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-10T01:53:40.976Z
+Generated: 2026-10-10T03:11:02.376Z

@@ -1,8 +1,8 @@
 # Followers - Burundi
 
-Generated: 2026-10-10T02:01:04.107Z
+Generated: 2026-10-10T03:32:35.101Z
 
-Users: 234
+Users: 236
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 234
 | 4 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 102 |
 | 5 | [Toussaint-Coder](https://github.com/Toussaint-Coder) | toussaint iradukunda | Tech Devs | toussaintiradu2 | bujumbura, burundi | 89 |
 | 6 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 87 |
-| 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Inkinolive | kirogodye | Burundi | 82 |
+| 7 | [Kirogodye](https://github.com/Kirogodye) | Kirogodye | Inkinolive | kirogodye | Burundi | 81 |
 | 8 | [ndikumanaisaie](https://github.com/ndikumanaisaie) | Ndikumana Isaie |  | Ndikuma38670724 | Burundi | 79 |
 | 9 | [dondelice257](https://github.com/dondelice257) | Don Delice Dushime | Mwezi Labs | dondelicedushi | Burundi | 75 |
 | 10 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 73 |

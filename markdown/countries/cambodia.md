@@ -1,6 +1,6 @@
 # Cambodia
 
-Indexed users: 2,877
+Indexed users: 2,881
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,877
 | 19 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
 | 20 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 125 |
 
-Generated: 2026-10-10T02:01:07.315Z
+Generated: 2026-10-10T03:35:55.429Z

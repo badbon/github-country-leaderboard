@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-10T02:06:06.303Z
+Generated: 2026-10-10T03:26:26.227Z
 
 Users: 2740
 
@@ -18,11 +18,11 @@ Users: 2740
 | 10 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
 | 11 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Materiias d.o.o | TheAbdeen9 | Lefkosa, Cyprus | 9126 |
 | 12 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
-| 13 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
-| 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
-| 15 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
-| 16 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |
-| 17 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 7985 |
-| 18 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Futurecast Studios |  | Nicosia, Cyprus | 7877 |
-| 19 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 7526 |
-| 20 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Retrocket | denizgolbas | Cyprus | 7428 |
+| 13 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 9102 |
+| 14 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
+| 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
+| 16 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
+| 17 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |
+| 18 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 8388 |
+| 19 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Futurecast Studios |  | Nicosia, Cyprus | 7877 |
+| 20 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 7526 |

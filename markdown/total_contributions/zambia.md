@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-10T01:45:16.139Z
+Generated: 2026-10-10T03:09:11.900Z
 
 Users: 1343
 
@@ -19,10 +19,10 @@ Users: 1343
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
 | 12 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3950 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | ProBase Limited |  | LUSAKA | 3924 |
-| 14 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3779 |
-| 15 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
-| 16 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3449 |
-| 17 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
+| 14 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 3753 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3449 |
+| 16 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
+| 17 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | @Lassod-Consulting  | erickmndev | Lusaka, Zambia | 3274 |
 | 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3128 |
-| 19 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
-| 20 | [lacksonmunthali](https://github.com/lacksonmunthali) | Lackson Munthali | Trinolux | LacksonMunthali | Lusaka, Zambia | 2929 |
+| 19 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3101 |
+| 20 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |

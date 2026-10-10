@@ -18,7 +18,7 @@ Indexed users: 4,900
 | 4 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,478 |
 | 5 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
 | 6 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
-| 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,335 |
+| 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
 | 8 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
 | 9 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
 | 10 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
@@ -39,7 +39,7 @@ Indexed users: 4,900
 |---:|---|---|---|---:|
 | 1 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  | Ecuador | 10,133 |
 | 2 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes | Guayaquil, Ecuador | 9,477 |
-| 3 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 6,973 |
+| 3 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,530 |
 | 4 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
 | 5 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
 | 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
@@ -83,4 +83,4 @@ Indexed users: 4,900
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [LChumi](https://github.com/LChumi) | LChumi | Ecuador | 116 |
 
-Generated: 2026-10-10T02:07:56.250Z
+Generated: 2026-10-10T03:28:13.283Z

@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-10T02:15:41.024Z
+Generated: 2026-10-10T03:39:40.599Z
 
 Users: 87
 
@@ -8,10 +8,10 @@ Users: 87
 |---:|---|---|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 6206 |
 | 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Freelance | DarmaJoachim | Guadeloupe | 3101 |
-| 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2176 |
-| 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 1786 |
-| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1654 |
-| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1440 |
+| 3 | [macojaune](https://github.com/macojaune) | macojaune | @MarvinL-com  | macojaune | Guadeloupe | 2181 |
+| 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 1774 |
+| 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 1652 |
+| 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1414 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1386 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 935 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 687 |

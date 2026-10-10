@@ -1,8 +1,8 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-10T01:51:23.022Z
+Generated: 2026-10-10T03:13:39.644Z
 
-Users: 5091
+Users: 5090
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,9 +18,9 @@ Users: 5091
 | 10 | [ogtayhuseynov0](https://github.com/ogtayhuseynov0) | Ogtay Huseynov | @Ogt.ai | ogtayhuseynov0 | Azerbaijan | 6223 |
 | 11 | [zhmdff](https://github.com/zhmdff) | Mahmud Ahmadov |  | zhmdff | Azerbaijan | 6056 |
 | 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6052 |
-| 13 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
-| 14 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5535 |
-| 15 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5427 |
+| 13 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
+| 14 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
+| 15 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5535 |
 | 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
 | 17 | [UlviSuleymanov](https://github.com/UlviSuleymanov) | Ülvi Süleymanov | Bytable Games |  | Sumqayit , Azerbaijan | 5233 |
 | 18 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5045 |

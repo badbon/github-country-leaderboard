@@ -1,6 +1,6 @@
 # Followers - Slovenia
 
-Generated: 2026-10-10T01:33:41.687Z
+Generated: 2026-10-10T02:57:37.953Z
 
 Users: 3108
 
@@ -22,7 +22,7 @@ Users: 3108
 | 14 | [AndrewStetsenko](https://github.com/AndrewStetsenko) |  | Relocate.me |  | Slovenia | 282 |
 | 15 | [otobrglez](https://github.com/otobrglez) | Oto Brglez | OPALAB | otobrglez | Ljubljana, Slovenia | 269 |
 | 16 | [tomaz](https://github.com/tomaz) | tomaz | Gentle Bytes |  | Slovenia | 249 |
-| 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Prewave |  | Ljubljana, Slovenia | 243 |
+| 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Prewave |  | Ljubljana, Slovenia | 248 |
 | 18 | [jure](https://github.com/jure) | Jure Triglav |  | juretriglav | Ljubljana, Slovenia | 241 |
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | USU Solutions |  | Maribor, Slovenia | 237 |

@@ -25,13 +25,13 @@ Indexed users: 1,343
 | 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | Zambia | 4,005 |
 | 12 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,950 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,924 |
-| 14 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,779 |
-| 15 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 3,753 |
-| 16 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,449 |
-| 17 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
+| 14 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | Lusaka, Zambia | 3,753 |
+| 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,449 |
+| 16 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
+| 17 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,274 |
 | 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
-| 19 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
-| 20 | [lacksonmunthali](https://github.com/lacksonmunthali) | Lackson Munthali | Lusaka, Zambia | 2,929 |
+| 19 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,101 |
+| 20 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 3,057 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,343
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-10T01:45:16.139Z
+Generated: 2026-10-10T03:09:11.900Z

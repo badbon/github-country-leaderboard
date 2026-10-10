@@ -24,14 +24,14 @@ Indexed users: 2,740
 | 10 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
 | 11 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
 | 12 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
-| 13 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
-| 14 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
-| 15 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
-| 16 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
-| 17 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 7,985 |
-| 18 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Nicosia, Cyprus | 7,877 |
-| 19 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 7,526 |
-| 20 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 7,428 |
+| 13 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
+| 14 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
+| 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
+| 16 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
+| 17 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
+| 18 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 8,388 |
+| 19 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Nicosia, Cyprus | 7,877 |
+| 20 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 7,526 |
 
 ## Public Contributions
 
@@ -45,18 +45,18 @@ Indexed users: 2,740
 | 6 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
 | 7 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
 | 8 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
-| 9 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
-| 10 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 2,780 |
-| 11 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
-| 12 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
-| 13 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
-| 14 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
-| 15 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
-| 16 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
-| 17 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
-| 18 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 2,174 |
-| 19 | [andrewtelnov](https://github.com/andrewtelnov) | Andrew | Cyprus | 2,130 |
-| 20 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 2,063 |
+| 9 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
+| 10 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
+| 11 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 2,780 |
+| 12 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
+| 13 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
+| 14 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
+| 15 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
+| 16 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
+| 17 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
+| 18 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
+| 19 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 2,174 |
+| 20 | [andrewtelnov](https://github.com/andrewtelnov) | Andrew | Cyprus | 2,130 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,740
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-10T02:06:06.303Z
+Generated: 2026-10-10T03:26:26.227Z

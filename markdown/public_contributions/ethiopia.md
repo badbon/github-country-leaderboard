@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-10T02:09:35.659Z
+Generated: 2026-10-10T03:31:58.092Z
 
 Users: 6708
 
@@ -10,7 +10,7 @@ Users: 6708
 | 2 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Afronex Tech Hub |  | Adama, Ethiopia | 4539 |
 | 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) |  |  | Addis Ababa  | 3881 |
 | 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa |  | Fahmi_khandro | Ethiopia | 3646 |
-| 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh |  |  | Debre Birhan, Ethiopia | 3582 |
+| 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh |  |  | Debre Birhan, Ethiopia | 3491 |
 | 6 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane |  |  | Addis Ababa, Ethiopia | 3390 |
 | 7 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  |  |  | Ethiopia | 3230 |
 | 8 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | IE Networks |  | Addis Ababa, Ethiopia | 3124 |

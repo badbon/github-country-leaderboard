@@ -13,7 +13,7 @@ Indexed users: 77
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 10,586 |
-| 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,202 |
+| 2 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,199 |
 | 3 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,625 |
 | 4 | [marobo](https://github.com/marobo) | Onorio de Jesus Afonso | Dili, East Timor | 1,050 |
 | 5 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 825 |
@@ -37,7 +37,7 @@ Indexed users: 77
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,073 |
+| 1 | [Akokonunes](https://github.com/Akokonunes) | Roberto Nunes | Timor-Leste | 2,070 |
 | 2 | [Noro18](https://github.com/Noro18) | Ezequiel Vieira Gonzaga Macedo | Timor Leste  | 1,204 |
 | 3 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 1,051 |
 | 4 | [abindacarmo](https://github.com/abindacarmo) | Brigida de Carvalho Carmo | Timor-Leste | 825 |
@@ -83,4 +83,4 @@ Indexed users: 77
 | 19 | [joshbrooks](https://github.com/joshbrooks) | Joshua Brooks | Dili, Timor-Leste | 6 |
 | 20 | [KituDoutel](https://github.com/KituDoutel) | Francisco KiTu | Dili, Timor-Leste 🇹🇱 | 6 |
 
-Generated: 2026-10-10T01:40:01.201Z
+Generated: 2026-10-10T03:01:55.066Z
