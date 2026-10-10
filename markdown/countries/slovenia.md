@@ -1,6 +1,6 @@
 # Slovenia
 
-Indexed users: 3,108
+Indexed users: 3,107
 
 | Leaderboard | Link |
 |---|---|
@@ -23,15 +23,15 @@ Indexed users: 3,108
 | 9 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,945 |
 | 10 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
 | 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
-| 12 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
-| 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
-| 14 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
-| 15 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
-| 16 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
-| 17 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
-| 18 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 6,551 |
-| 19 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 6,505 |
-| 20 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
+| 12 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
+| 13 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
+| 14 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
+| 15 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
+| 16 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
+| 17 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
+| 18 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
+| 19 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 6,551 |
+| 20 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev | Koper, Slovenia | 6,505 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,108
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-10T02:57:37.953Z
+Generated: 2026-10-10T06:47:10.948Z

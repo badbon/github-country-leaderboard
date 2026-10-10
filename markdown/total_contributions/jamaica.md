@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-10T03:45:39.762Z
+Generated: 2026-10-10T07:47:26.690Z
 
 Users: 1276
 
@@ -13,7 +13,7 @@ Users: 1276
 | 5 | [kenoButler](https://github.com/kenoButler) | KenoB | @Appigo  |  | Kingston, Jamaica | 6980 |
 | 6 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 6819 |
 | 7 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 6626 |
-| 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5180 |
+| 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5295 |
 | 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
 | 10 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
 | 11 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 4009 |

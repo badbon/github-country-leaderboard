@@ -23,15 +23,15 @@ Indexed users: 4,691
 | 9 | [dimaver6work](https://github.com/dimaver6work) | Dmytro | Bratislava, Slovakia | 9,941 |
 | 10 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | Slovakia | 9,652 |
 | 11 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Bratislava, Slovakia | 9,637 |
-| 12 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
-| 13 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
-| 14 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
-| 15 | [samuelpatro](https://github.com/samuelpatro) | Samuel | Slovakia | 8,263 |
-| 16 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Slovakia | 7,973 |
-| 17 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
-| 18 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Bratislava | 7,837 |
-| 19 | [reneklacan](https://github.com/reneklacan) | René Klačan | Slovakia | 7,702 |
-| 20 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska | Slovakia | 7,494 |
+| 12 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | Bratislava, Slovakia | 9,429 |
+| 13 | [valferon](https://github.com/valferon) | Feron Valentin | Slovakia | 8,723 |
+| 14 | [davidian-sk](https://github.com/davidian-sk) |  | Bratislava | 8,568 |
+| 15 | [mrshu](https://github.com/mrshu) | Marek Šuppa | Slovakia | 8,545 |
+| 16 | [samuelpatro](https://github.com/samuelpatro) | Samuel | Slovakia | 8,263 |
+| 17 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Slovakia | 7,973 |
+| 18 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Bratislava | 7,850 |
+| 19 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Bratislava | 7,837 |
+| 20 | [reneklacan](https://github.com/reneklacan) | René Klačan | Slovakia | 7,702 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,691
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-10T02:57:32.639Z
+Generated: 2026-10-10T06:47:06.060Z

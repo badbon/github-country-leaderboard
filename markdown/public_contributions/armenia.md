@@ -1,6 +1,6 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-10T03:12:55.475Z
+Generated: 2026-10-10T07:07:24.312Z
 
 Users: 4046
 
@@ -12,7 +12,7 @@ Users: 4046
 | 4 | [i582](https://github.com/i582) | Petr Makhnev | TON Core | petr_makhneff | Yerevan, Armenia | 5270 |
 | 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov |  |  | Yerevan, Armenia | 3716 |
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 3618 |
-| 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2589 |
+| 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2610 |
 | 8 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 2578 |
 | 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2475 |
 | 10 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |

@@ -13,8 +13,8 @@ Indexed users: 93
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 24,262 |
-| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,670 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,091 |
+| 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,663 |
+| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,098 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,273 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,232 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,383 |
@@ -37,8 +37,8 @@ Indexed users: 93
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,670 |
-| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,901 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,663 |
+| 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 1,906 |
 | 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin | Gibraltar | 580 |
 | 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | GIBRALTAR | 494 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 472 |
@@ -64,7 +64,7 @@ Indexed users: 93
 |---:|---|---|---|---:|
 | 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 580 |
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | Gibraltar | 86 |
-| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 72 |
+| 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 71 |
 | 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | watchpoint gibraltar | 39 |
 | 5 | [docziegler](https://github.com/docziegler) | star | watchpoint gibraltar | 35 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 33 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-10T03:36:02.734Z
+Generated: 2026-10-10T07:38:53.415Z

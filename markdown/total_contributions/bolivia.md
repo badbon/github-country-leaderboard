@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-10T03:17:49.335Z
+Generated: 2026-10-10T07:18:03.186Z
 
 Users: 1786
 
@@ -25,4 +25,4 @@ Users: 1786
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | Solunes Digital |  | La Paz, Bolivia | 3035 |
 | 18 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | FinUp |  | Santa Cruz, Bolivia | 3029 |
 | 19 | [villcabo](https://github.com/villcabo) | Bismarck Villca | @SintesisSA  | BismarckVillcaS | Bolivia | 3027 |
-| 20 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Higher University of San Simón |  | Bolivia | 2893 |
+| 20 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 2936 |

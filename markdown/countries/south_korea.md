@@ -46,17 +46,17 @@ Indexed users: 56,879
 | 7 | [hahwul](https://github.com/hahwul) | hahwul | Republic of Korea | 20,835 |
 | 8 | [Yeachan-Heo](https://github.com/Yeachan-Heo) | Bellman | Seoul  | 20,435 |
 | 9 | [yeongseon](https://github.com/yeongseon) | Yeongseon Choe | Seoul, Korea | 20,194 |
-| 10 | [topeschool-commits](https://github.com/topeschool-commits) | Alex Seo | South Korea | 20,099 |
-| 11 | [kkyu92](https://github.com/kkyu92) | 김규식 Kim Kyu Sik | Seoul, Korea | 18,310 |
-| 12 | [hsol](https://github.com/hsol) | 임한솔 | Seoul | 17,536 |
-| 13 | [samchon](https://github.com/samchon) | Jeongho Nam | Seoul, South Korea | 15,948 |
-| 14 | [daeho-ro](https://github.com/daeho-ro) | Daeho Ro | Seoul, South Korea | 15,884 |
-| 15 | [dahlia](https://github.com/dahlia) | Hong Minhee (洪 民憙) | Seoul, Republic of Korea | 15,102 |
-| 16 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Seoul, Korea | 14,128 |
-| 17 | [svy04](https://github.com/svy04) | 오영웅 (woogie) | seoul | 13,827 |
-| 18 | [mangowhoiscloud](https://github.com/mangowhoiscloud) | mango | Gangnam, Seoul, South Korea | 13,148 |
-| 19 | [ken-jo](https://github.com/ken-jo) | Ken Jo | Seoul, South Korea | 12,984 |
-| 20 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | Seoul, Korea | 12,471 |
+| 10 | [kkyu92](https://github.com/kkyu92) | 김규식 Kim Kyu Sik | Seoul, Korea | 18,310 |
+| 11 | [hsol](https://github.com/hsol) | 임한솔 | Seoul | 17,536 |
+| 12 | [samchon](https://github.com/samchon) | Jeongho Nam | Seoul, South Korea | 15,948 |
+| 13 | [daeho-ro](https://github.com/daeho-ro) | Daeho Ro | Seoul, South Korea | 15,884 |
+| 14 | [dahlia](https://github.com/dahlia) | Hong Minhee (洪 民憙) | Seoul, Republic of Korea | 15,102 |
+| 15 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Seoul, Korea | 14,128 |
+| 16 | [svy04](https://github.com/svy04) | 오영웅 (woogie) | seoul | 13,827 |
+| 17 | [mangowhoiscloud](https://github.com/mangowhoiscloud) | mango | Gangnam, Seoul, South Korea | 13,148 |
+| 18 | [ken-jo](https://github.com/ken-jo) | Ken Jo | Seoul, South Korea | 12,984 |
+| 19 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | Seoul, Korea | 12,471 |
+| 20 | [physwkim](https://github.com/physwkim) | Sang-Woo Kim | Pohang, South Korea | 12,294 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 56,879
 | 19 | [rickiepark](https://github.com/rickiepark) | Haesun Park | Seoul, Korea | 1,884 |
 | 20 | [joshua1988](https://github.com/joshua1988) | Captain Pangyo | South Korea | 1,726 |
 
-Generated: 2026-10-10T02:59:10.133Z
+Generated: 2026-10-10T06:48:43.341Z

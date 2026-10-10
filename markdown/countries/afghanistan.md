@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,498
+Indexed users: 1,497
 
 | Leaderboard | Link |
 |---|---|
@@ -23,7 +23,7 @@ Indexed users: 1,498
 | 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Kabul, Afghanistan | 9,544 |
 | 10 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri | Afghanistan | 7,962 |
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | Afghanistan | 7,391 |
-| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,345 |
+| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | Herat, Afghanistan | 6,766 |
 | 13 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 5,819 |
 | 14 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,737 |
 | 15 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 5,656 |
@@ -47,7 +47,7 @@ Indexed users: 1,498
 | 8 | [aliabdullahnasiri](https://github.com/aliabdullahnasiri) | Ali Abdullah Nasiri | Kabul, Afghanistan | 2,206 |
 | 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Kabul, Afghanistan | 1,816 |
 | 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 1,620 |
-| 11 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,448 |
+| 11 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,318 |
 | 12 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,230 |
 | 13 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,217 |
 | 14 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,181 |
@@ -83,4 +83,4 @@ Indexed users: 1,498
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-10T03:09:26.321Z
+Generated: 2026-10-10T07:04:08.644Z

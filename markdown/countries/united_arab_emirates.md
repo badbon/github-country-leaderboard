@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,253
+Indexed users: 4,252
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 4,253
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
 | 13 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri | Abu Dhabi, United Arab Emirates | 9,573 |
-| 14 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
-| 15 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
-| 16 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
-| 17 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
-| 18 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 7,294 |
-| 19 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Dubai, United Arab Emirates | 7,156 |
-| 20 | [XiaoyuShenDev](https://github.com/XiaoyuShenDev) | Xiaoyu Shen ( 沈晓昱 ) | Abu Dhabi | 6,985 |
+| 14 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
+| 15 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
+| 16 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
+| 17 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
+| 18 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
+| 19 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 7,294 |
+| 20 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Dubai, United Arab Emirates | 7,156 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,253
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-10T06:20:55.255Z
+Generated: 2026-10-10T07:00:00.428Z

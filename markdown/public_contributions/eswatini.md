@@ -1,12 +1,12 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-10T03:30:31.701Z
+Generated: 2026-10-10T07:33:13.253Z
 
 Users: 108
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Razonetix Eswatini |  | Eswatini | 718 |
+| 1 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Razonetix Eswatini |  | Eswatini | 698 |
 | 2 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | BRT Inc. |  | Manzini, Kingdom of Eswatini | 673 |
 | 3 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 463 |
 | 4 | [siko13-bot](https://github.com/siko13-bot) | 202101251 |  |  | Mbabane,Eswatini | 94 |

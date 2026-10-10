@@ -1,6 +1,6 @@
 # Public Contributions - South Korea
 
-Generated: 2026-10-10T02:59:10.133Z
+Generated: 2026-10-10T06:48:43.341Z
 
 Users: 56879
 
@@ -15,14 +15,14 @@ Users: 56879
 | 7 | [hahwul](https://github.com/hahwul) | hahwul |  | hahwul | Republic of Korea | 20835 |
 | 8 | [Yeachan-Heo](https://github.com/Yeachan-Heo) | Bellman | @Layoff-Labs  |  | Seoul  | 20435 |
 | 9 | [yeongseon](https://github.com/yeongseon) | Yeongseon Choe | Microsoft |  | Seoul, Korea | 20194 |
-| 10 | [topeschool-commits](https://github.com/topeschool-commits) | Alex Seo | GT |  | South Korea | 20099 |
-| 11 | [kkyu92](https://github.com/kkyu92) | 김규식 Kim Kyu Sik |  |  | Seoul, Korea | 18310 |
-| 12 | [hsol](https://github.com/hsol) | 임한솔 | proofer.tech |  | Seoul | 17536 |
-| 13 | [samchon](https://github.com/samchon) | Jeongho Nam | Wrtn Technologies | SamchonGithub | Seoul, South Korea | 15948 |
-| 14 | [daeho-ro](https://github.com/daeho-ro) | Daeho Ro |  |  | Seoul, South Korea | 15884 |
-| 15 | [dahlia](https://github.com/dahlia) | Hong Minhee (洪 民憙) | @fedify-dev | hongminhee | Seoul, Republic of Korea | 15102 |
-| 16 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Maum.AI Inc. |  | Seoul, Korea | 14128 |
-| 17 | [svy04](https://github.com/svy04) | 오영웅 (woogie) | mycream.ai |  | seoul | 13827 |
-| 18 | [mangowhoiscloud](https://github.com/mangowhoiscloud) | mango | Rakuten Symphony Korea |  | Gangnam, Seoul, South Korea | 13148 |
-| 19 | [ken-jo](https://github.com/ken-jo) | Ken Jo |  |  | Seoul, South Korea | 12984 |
-| 20 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | KAIST | _seorii_ | Seoul, Korea | 12471 |
+| 10 | [kkyu92](https://github.com/kkyu92) | 김규식 Kim Kyu Sik |  |  | Seoul, Korea | 18310 |
+| 11 | [hsol](https://github.com/hsol) | 임한솔 | proofer.tech |  | Seoul | 17536 |
+| 12 | [samchon](https://github.com/samchon) | Jeongho Nam | Wrtn Technologies | SamchonGithub | Seoul, South Korea | 15948 |
+| 13 | [daeho-ro](https://github.com/daeho-ro) | Daeho Ro |  |  | Seoul, South Korea | 15884 |
+| 14 | [dahlia](https://github.com/dahlia) | Hong Minhee (洪 民憙) | @fedify-dev | hongminhee | Seoul, Republic of Korea | 15102 |
+| 15 | [hletrd](https://github.com/hletrd) | Jiyong Youn | Maum.AI Inc. |  | Seoul, Korea | 14128 |
+| 16 | [svy04](https://github.com/svy04) | 오영웅 (woogie) | mycream.ai |  | seoul | 13827 |
+| 17 | [mangowhoiscloud](https://github.com/mangowhoiscloud) | mango | Rakuten Symphony Korea |  | Gangnam, Seoul, South Korea | 13148 |
+| 18 | [ken-jo](https://github.com/ken-jo) | Ken Jo |  |  | Seoul, South Korea | 12984 |
+| 19 | [seo-rii](https://github.com/seo-rii) | Seohyun Lee | KAIST | _seorii_ | Seoul, Korea | 12471 |
+| 20 | [physwkim](https://github.com/physwkim) | Sang-Woo Kim | PAL |  | Pohang, South Korea | 12294 |

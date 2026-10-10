@@ -18,45 +18,45 @@ Indexed users: 2,740
 | 4 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
 | 5 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
 | 6 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 10,126 |
-| 7 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
-| 8 | [RootViper4](https://github.com/RootViper4) | Root Lindow | Nicosia, North Cyprus | 9,615 |
-| 9 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
-| 10 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
-| 11 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
-| 12 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
-| 13 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
-| 14 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
-| 15 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
-| 16 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
-| 17 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
-| 18 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 8,388 |
-| 19 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Nicosia, Cyprus | 7,877 |
-| 20 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 7,526 |
+| 7 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
+| 8 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
+| 9 | [RootViper4](https://github.com/RootViper4) | Root Lindow | Nicosia, North Cyprus | 9,615 |
+| 10 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
+| 11 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
+| 12 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
+| 13 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
+| 14 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
+| 15 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
+| 16 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
+| 17 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
+| 18 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
+| 19 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 8,388 |
+| 20 | [IndigoSoftwares21](https://github.com/IndigoSoftwares21) | Precious Orjiude | Nicosia, Cyprus | 7,877 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 6,174 |
-| 2 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
-| 3 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 4,307 |
-| 4 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,279 |
-| 5 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
-| 6 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
-| 7 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
-| 8 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
-| 9 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
-| 10 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
-| 11 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 2,780 |
-| 12 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
-| 13 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
-| 14 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
-| 15 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
-| 16 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
-| 17 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
-| 18 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
-| 19 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 2,174 |
-| 20 | [andrewtelnov](https://github.com/andrewtelnov) | Andrew | Cyprus | 2,130 |
+| 1 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 7,743 |
+| 2 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 6,174 |
+| 3 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
+| 4 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 4,307 |
+| 5 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,279 |
+| 6 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
+| 7 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
+| 8 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
+| 9 | [VizzleTF](https://github.com/VizzleTF) | Ivan K | Cyprus | 3,486 |
+| 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
+| 11 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
+| 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
+| 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
+| 14 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
+| 15 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
+| 16 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
+| 17 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
+| 18 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
+| 19 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
+| 20 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 2,174 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,740
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-10T03:26:26.227Z
+Generated: 2026-10-10T07:26:04.311Z

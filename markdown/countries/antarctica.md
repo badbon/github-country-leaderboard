@@ -28,7 +28,7 @@ Indexed users: 461
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,075 |
 | 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,732 |
 | 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,533 |
-| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,423 |
+| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
 | 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,350 |
 | 19 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,025 |
 | 20 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,911 |
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-10T03:12:43.785Z
+Generated: 2026-10-10T07:07:16.111Z

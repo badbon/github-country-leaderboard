@@ -1,8 +1,8 @@
 # Total Contributions - Sweden
 
-Generated: 2026-10-10T02:59:56.261Z
+Generated: 2026-10-10T06:50:22.526Z
 
-Users: 39054
+Users: 39052
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 39054
 | 8 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Asynkron AB | rogeralsing | Stockholm, Sweden | 26840 |
 | 9 | [jonasb](https://github.com/jonasb) | Jonas Bengtsson |  |  | Malmö, Sweden | 26612 |
 | 10 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Coder Society |  | Stockholm, Sweden | 25161 |
-| 11 | [ZilverZtream](https://github.com/ZilverZtream) | Dennis Östling |  |  | Stockholm | 24226 |
-| 12 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Coffee Code Studio  |  | Sweden | 23705 |
-| 13 | [BadLiveware](https://github.com/BadLiveware) | Fredrik Larsson | Tradera |  | Stockholm, Sweden | 22955 |
-| 14 | [cwenner](https://github.com/cwenner) | Cenny | Tandem Health, Omnimodular |  | Stockholm, Sweden | 22099 |
-| 15 | [fellanH](https://github.com/fellanH) | Felix Hellström | Stormfors | hellstromfelix | Stockholm | 21860 |
-| 16 | [kirekire95](https://github.com/kirekire95) | Erik Claesson |  |  | Sweden | 20382 |
-| 17 | [adelost](https://github.com/adelost) | Mattias Wetterlind |  |  | Karlskrona, Sweden | 20259 |
-| 18 | [panterlo](https://github.com/panterlo) | Jens Nylander | The Intelligence Company | nylanderjens | Stockholm, Sweden | 18974 |
-| 19 | [neongreen](https://github.com/neongreen) | Emily | @monadfix, @brickdo |  | Stockholm, Sweden | 18703 |
-| 20 | [Rickebo](https://github.com/Rickebo) | Simon Pettersson |  |  | Sweden | 18478 |
+| 11 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Coffee Code Studio  |  | Sweden | 23705 |
+| 12 | [BadLiveware](https://github.com/BadLiveware) | Fredrik Larsson | Tradera |  | Stockholm, Sweden | 22955 |
+| 13 | [cwenner](https://github.com/cwenner) | Cenny | Tandem Health, Omnimodular |  | Stockholm, Sweden | 22099 |
+| 14 | [fellanH](https://github.com/fellanH) | Felix Hellström | Stormfors | hellstromfelix | Stockholm | 21860 |
+| 15 | [kirekire95](https://github.com/kirekire95) | Erik Claesson |  |  | Sweden | 20382 |
+| 16 | [adelost](https://github.com/adelost) | Mattias Wetterlind |  |  | Karlskrona, Sweden | 20259 |
+| 17 | [panterlo](https://github.com/panterlo) | Jens Nylander | The Intelligence Company | nylanderjens | Stockholm, Sweden | 18974 |
+| 18 | [neongreen](https://github.com/neongreen) | Emily | @monadfix, @brickdo |  | Stockholm, Sweden | 18703 |
+| 19 | [Rickebo](https://github.com/Rickebo) | Simon Pettersson |  |  | Sweden | 18478 |
+| 20 | [CyrusZei](https://github.com/CyrusZei) | Cyrus Zei |  | cyrus_zei | Sweden | 18206 |

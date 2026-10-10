@@ -12,7 +12,7 @@ Indexed users: 6,640
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
+| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 52,041 |
 | 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. | Venezuela | 13,732 |
 | 3 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | Venezuela | 12,611 |
 | 4 | [bin-daldana](https://github.com/bin-daldana) | David Aldana | Venezuela | 11,960 |
@@ -37,7 +37,7 @@ Indexed users: 6,640
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 32,559 |
+| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 | Venezuela | 52,041 |
 | 2 | [anibalealvarezs](https://github.com/anibalealvarezs) | Aníbal Álvarez | Caracas, Venezuela | 5,485 |
 | 3 | [Samueru-sama](https://github.com/Samueru-sama) | Samuel | Venezuela | 5,122 |
 | 4 | [apalala](https://github.com/apalala) | Juancarlo Añez | Venezuela | 4,078 |
@@ -83,4 +83,4 @@ Indexed users: 6,640
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-10T03:08:57.094Z
+Generated: 2026-10-10T07:02:34.145Z

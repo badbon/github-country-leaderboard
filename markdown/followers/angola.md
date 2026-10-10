@@ -1,8 +1,8 @@
 # Followers - Angola
 
-Generated: 2026-10-10T03:11:02.376Z
+Generated: 2026-10-10T07:05:50.425Z
 
-Users: 2512
+Users: 2511
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 2512
 | 13 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola |  | CKuzola | Luanda, Angola | 208 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | BISC8 - CREATIVE AGENCY |  | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Uija Code |  | Angola | 178 |
-| 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 173 |
+| 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
 | 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 165 |
 | 18 | [bacarPereira](https://github.com/bacarPereira) | Abú-Bakr Pereira K | Elasticus | bacar_bc | Luanda,Angola | 164 |
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | @vitejs, @vuejs-translations, @pythonpt, @javascript-tutorial | nazarepiedady | Angola | 164 |

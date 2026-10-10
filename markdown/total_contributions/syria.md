@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-10T03:00:02.435Z
+Generated: 2026-10-10T06:51:05.114Z
 
 Users: 1483
 
@@ -14,9 +14,9 @@ Users: 1483
 | 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3178 |
 | 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2917 |
 | 8 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 2847 |
-| 9 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 2555 |
-| 10 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2551 |
-| 11 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 2465 |
+| 9 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 2559 |
+| 10 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 2555 |
+| 11 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2551 |
 | 12 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2105 |
 | 13 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2024 |
 | 14 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1986 |

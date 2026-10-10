@@ -1,8 +1,8 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-10T06:20:55.255Z
+Generated: 2026-10-10T07:00:00.428Z
 
-Users: 4253
+Users: 4252
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 4253
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
 | 13 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
-| 14 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
-| 15 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
-| 16 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
-| 17 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Blue Beetle |  | Dubai, United Arab Emirates | 7593 |
-| 18 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | @desertcart | mohammaddohad | United Arab Emirates | 7294 |
-| 19 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Atrix.dev© / Hoppers Network \|  | moeidsaleem | Dubai, United Arab Emirates | 7156 |
-| 20 | [XiaoyuShenDev](https://github.com/XiaoyuShenDev) | Xiaoyu Shen ( 沈晓昱 ) | Hub71, Oak Data Systems |  | Abu Dhabi | 6985 |
+| 14 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
+| 15 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
+| 16 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
+| 17 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
+| 18 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Blue Beetle |  | Dubai, United Arab Emirates | 7593 |
+| 19 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | @desertcart | mohammaddohad | United Arab Emirates | 7294 |
+| 20 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Atrix.dev© / Hoppers Network \|  | moeidsaleem | Dubai, United Arab Emirates | 7156 |

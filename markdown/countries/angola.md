@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,512
+Indexed users: 2,511
 
 | Leaderboard | Link |
 |---|---|
@@ -49,7 +49,7 @@ Indexed users: 2,512
 | 10 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
 | 11 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 12 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
-| 13 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 943 |
+| 13 | [kandadavid36](https://github.com/kandadavid36) | Kanda David | Angola | 1,060 |
 | 14 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 940 |
 | 15 | [Wolf-Quiteque](https://github.com/Wolf-Quiteque) | Marcio Ragy Daveiga Quiteque | Luanda, Angola | 932 |
 | 16 | [joao-tambue](https://github.com/joao-tambue) | João Tambue | Angola/Luanda | 930 |
@@ -77,10 +77,10 @@ Indexed users: 2,512
 | 13 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola | Luanda, Angola | 208 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | Luanda - Angola | 181 |
 | 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 178 |
-| 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 173 |
+| 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
 | 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 165 |
 | 18 | [bacarPereira](https://github.com/bacarPereira) | Abú-Bakr Pereira K | Luanda,Angola | 164 |
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-10T03:11:02.376Z
+Generated: 2026-10-10T07:05:50.425Z

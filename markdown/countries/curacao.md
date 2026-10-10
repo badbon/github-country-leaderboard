@@ -66,8 +66,8 @@ Indexed users: 53
 | 2 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 67 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | Curaçao | 63 |
 | 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Curaçao | 63 |
-| 5 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 44 |
-| 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 39 |
+| 5 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 43 |
+| 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 38 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop | Curaçao, Dutch Caribbean | 33 |
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus | Curaçao | 28 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings | Curaçao | 22 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-10T03:24:53.111Z
+Generated: 2026-10-10T07:25:59.164Z

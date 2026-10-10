@@ -18,7 +18,7 @@ Indexed users: 124
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 3,707 |
 | 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | Cayman Islands | 3,310 |
 | 6 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 3,077 |
-| 7 | [shinchann221](https://github.com/shinchann221) | Paras Jain | Cayman Islands | 2,810 |
+| 7 | [shinchann221](https://github.com/shinchann221) | Paras Jain | Cayman Islands | 2,825 |
 | 8 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Cayman Islands | 2,674 |
 | 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 2,409 |
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Cayman Islands | 2,352 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 16 |
 
-Generated: 2026-10-10T03:20:59.082Z
+Generated: 2026-10-10T07:21:27.053Z

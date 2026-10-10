@@ -1,8 +1,8 @@
 # Total Contributions - Honduras
 
-Generated: 2026-10-10T03:42:11.486Z
+Generated: 2026-10-10T07:42:04.070Z
 
-Users: 1266
+Users: 1265
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 1266
 | 16 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Universidad Tecnologica Centroamericana |  | San Pedro Sula, Cortes, Honduras | 4414 |
 | 17 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Outliers |  | Honduras | 4297 |
 | 18 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | @cashea-bnpl | robert_raf | Tegucigalpa, Honduras | 4077 |
-| 19 | [gaboelnuevo](https://github.com/gaboelnuevo) | Gabriel S. L |  |  | Honduras | 3742 |
-| 20 | [jehielmartinez](https://github.com/jehielmartinez) | Jehiel Martinez |  |  | San Pedro Sula, Honduras | 3715 |
+| 19 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor |  |  | San Pedro Sula, Honduras | 3976 |
+| 20 | [gaboelnuevo](https://github.com/gaboelnuevo) | Gabriel S. L |  |  | Honduras | 3742 |

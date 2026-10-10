@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-10T03:24:53.111Z
+Generated: 2026-10-10T07:25:59.164Z
 
 Users: 53
 
@@ -10,8 +10,8 @@ Users: 53
 | 2 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 67 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 63 |
 | 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Loba Tech Ltd. |  | Curaçao | 63 |
-| 5 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 44 |
-| 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 39 |
+| 5 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 43 |
+| 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 38 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop |  |  | Curaçao, Dutch Caribbean | 33 |
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus |  | jentanbernardus | Curaçao | 28 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings |  |  | Curaçao | 22 |

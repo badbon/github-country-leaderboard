@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-10T03:00:02.435Z
+Generated: 2026-10-10T06:51:05.114Z
 
 Users: 1483
 
@@ -16,11 +16,11 @@ Users: 1483
 | 8 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |
 | 9 | [Rami-Sabbagh](https://github.com/Rami-Sabbagh) | Rami Sabbagh |  |  | Damascus, Syria | 156 |
 | 10 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran |  |  | Syria | 155 |
-| 11 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 145 |
+| 11 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 148 |
 | 12 | [RakoSY](https://github.com/RakoSY) | Rakthon | Rakwan Ali |  | Syria | 136 |
 | 13 | [ZeinMoh](https://github.com/ZeinMoh) | Zein |  |  | Syria, Latakia | 136 |
 | 14 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 135 |
-| 15 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal |  |  | Syria  | 128 |
+| 15 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal |  |  | Syria  | 127 |
 | 16 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 126 |
 | 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |
 | 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 114 |

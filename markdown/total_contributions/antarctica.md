@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-10T03:12:43.785Z
+Generated: 2026-10-10T07:07:16.111Z
 
 Users: 461
 
@@ -22,7 +22,7 @@ Users: 461
 | 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3075 |
 | 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 2732 |
 | 16 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2533 |
-| 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2423 |
+| 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2421 |
 | 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2350 |
 | 19 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2025 |
 | 20 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1911 |

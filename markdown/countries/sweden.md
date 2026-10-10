@@ -1,6 +1,6 @@
 # Sweden
 
-Indexed users: 39,054
+Indexed users: 39,052
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 39,054
 | 8 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Stockholm, Sweden | 26,840 |
 | 9 | [jonasb](https://github.com/jonasb) | Jonas Bengtsson | Malmö, Sweden | 26,612 |
 | 10 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Stockholm, Sweden | 25,161 |
-| 11 | [ZilverZtream](https://github.com/ZilverZtream) | Dennis Östling | Stockholm | 24,226 |
-| 12 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Sweden | 23,705 |
-| 13 | [BadLiveware](https://github.com/BadLiveware) | Fredrik Larsson | Stockholm, Sweden | 22,955 |
-| 14 | [cwenner](https://github.com/cwenner) | Cenny | Stockholm, Sweden | 22,099 |
-| 15 | [fellanH](https://github.com/fellanH) | Felix Hellström | Stockholm | 21,860 |
-| 16 | [kirekire95](https://github.com/kirekire95) | Erik Claesson | Sweden | 20,382 |
-| 17 | [adelost](https://github.com/adelost) | Mattias Wetterlind | Karlskrona, Sweden | 20,259 |
-| 18 | [panterlo](https://github.com/panterlo) | Jens Nylander | Stockholm, Sweden | 18,974 |
-| 19 | [neongreen](https://github.com/neongreen) | Emily | Stockholm, Sweden | 18,703 |
-| 20 | [Rickebo](https://github.com/Rickebo) | Simon Pettersson | Sweden | 18,478 |
+| 11 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Sweden | 23,705 |
+| 12 | [BadLiveware](https://github.com/BadLiveware) | Fredrik Larsson | Stockholm, Sweden | 22,955 |
+| 13 | [cwenner](https://github.com/cwenner) | Cenny | Stockholm, Sweden | 22,099 |
+| 14 | [fellanH](https://github.com/fellanH) | Felix Hellström | Stockholm | 21,860 |
+| 15 | [kirekire95](https://github.com/kirekire95) | Erik Claesson | Sweden | 20,382 |
+| 16 | [adelost](https://github.com/adelost) | Mattias Wetterlind | Karlskrona, Sweden | 20,259 |
+| 17 | [panterlo](https://github.com/panterlo) | Jens Nylander | Stockholm, Sweden | 18,974 |
+| 18 | [neongreen](https://github.com/neongreen) | Emily | Stockholm, Sweden | 18,703 |
+| 19 | [Rickebo](https://github.com/Rickebo) | Simon Pettersson | Sweden | 18,478 |
+| 20 | [CyrusZei](https://github.com/CyrusZei) | Cyrus Zei | Sweden | 18,206 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 39,054
 | 19 | [tobiasahlin](https://github.com/tobiasahlin) | Tobias Ahlin | Sweden | 2,667 |
 | 20 | [sonyxperiadev](https://github.com/sonyxperiadev) | Sony – Developer World for Xperia | Sweden | 2,664 |
 
-Generated: 2026-10-10T02:59:56.261Z
+Generated: 2026-10-10T06:50:22.526Z

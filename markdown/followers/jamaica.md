@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-10T03:45:39.762Z
+Generated: 2026-10-10T07:47:26.690Z
 
 Users: 1276
 
@@ -14,7 +14,7 @@ Users: 1276
 | 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams |  |  | St. Ann, Jamaica | 212 |
 | 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Queen's University | jakekaupp | Kingston, ON | 140 |
 | 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt |  | ylynfatt | Jamaica | 136 |
-| 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | TechIsHiring | Chad_R_Stewart | Kingston, Jamaica | 130 |
+| 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | TechIsHiring | Chad_R_Stewart | Kingston, Jamaica | 134 |
 | 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | @CorticoAI |  | Kingston, New York | 123 |
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | L1NNA Lab, Queen's University |  | Kingston | 118 |
 | 12 | [justmat](https://github.com/justmat) | mat |  |  | Kingston, NY | 109 |

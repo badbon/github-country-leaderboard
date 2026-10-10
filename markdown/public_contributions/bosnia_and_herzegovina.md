@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-10T03:17:52.406Z
+Generated: 2026-10-10T07:18:11.494Z
 
 Users: 2132
 
@@ -8,9 +8,9 @@ Users: 2132
 |---:|---|---|---|---|---|---:|
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5766 |
 | 2 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 2950 |
-| 3 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 2647 |
-| 4 | [goran1010](https://github.com/goran1010) | Goran Jović |  |  | Banja Luka, Bosnia and Herzegovina | 2306 |
-| 5 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Horalix |  | Sarajevo | 2276 |
+| 3 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Horalix |  | Sarajevo | 2863 |
+| 4 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 2647 |
+| 5 | [goran1010](https://github.com/goran1010) | Goran Jović |  |  | Banja Luka, Bosnia and Herzegovina | 2306 |
 | 6 | [hernad](https://github.com/hernad) | Ernad Husremović |  |  | Bosnia and Herzegovina, Sarajevo | 2043 |
 | 7 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 1871 |
 | 8 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Shop Circle |  | Sarajevo / Bosnia and Herzegovina | 1813 |

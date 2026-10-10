@@ -31,7 +31,7 @@ Indexed users: 1,786
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
 | 18 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,029 |
 | 19 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
-| 20 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Bolivia | 2,893 |
+| 20 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,936 |
 
 ## Public Contributions
 
@@ -43,7 +43,7 @@ Indexed users: 1,786
 | 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez | La Paz, Bolivia | 2,567 |
 | 5 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi | Bolivia | 2,280 |
 | 6 | [ldgd2](https://github.com/ldgd2) | Lider | Bolivia | 2,241 |
-| 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 1,684 |
+| 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,088 |
 | 8 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 1,627 |
 | 9 | [rafael1199v](https://github.com/rafael1199v) | Rafael Vargas | Bolivia | 1,577 |
 | 10 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 1,527 |
@@ -68,7 +68,7 @@ Indexed users: 1,786
 | 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga | La Paz, Bolivia | 430 |
 | 5 | [Snifer](https://github.com/Snifer) | Snifer | Bolivia | 294 |
 | 6 | [kapit4n](https://github.com/kapit4n) | Luis Arce | Bolivia | 287 |
-| 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 259 |
+| 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 261 |
 | 8 | [CrisBelDev](https://github.com/CrisBelDev) | Cristian Abel | La Paz, Bolivia | 242 |
 | 9 | [cwpachecol](https://github.com/cwpachecol) | Carlos Walter Pacheco Lora | Sucre - Bolivia | 214 |
 | 10 | [Pericena](https://github.com/Pericena) | Luishiño | Bolivia, Santa Cruz | 193 |
@@ -83,4 +83,4 @@ Indexed users: 1,786
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 
-Generated: 2026-10-10T03:17:49.335Z
+Generated: 2026-10-10T07:18:03.186Z

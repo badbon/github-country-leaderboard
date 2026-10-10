@@ -1,6 +1,6 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-10T02:57:32.639Z
+Generated: 2026-10-10T06:47:06.060Z
 
 Users: 4691
 
@@ -17,12 +17,12 @@ Users: 4691
 | 9 | [dimaver6work](https://github.com/dimaver6work) | Dmytro |  |  | Bratislava, Slovakia | 9941 |
 | 10 | [Kenessy](https://github.com/Kenessy) | Daniel Kenessy | VRAXION |  | Slovakia | 9652 |
 | 11 | [crnkjck](https://github.com/crnkjck) | Ján Kľuka | Comenius University Bratislava |  | Bratislava, Slovakia | 9637 |
-| 12 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
-| 13 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8568 |
-| 14 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
-| 15 | [samuelpatro](https://github.com/samuelpatro) | Samuel | @dajanarodriguez | sam_uell1 | Slovakia | 8263 |
-| 16 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Everlution |  | Slovakia | 7973 |
-| 17 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 7850 |
-| 18 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Lamosty.com |  | Bratislava | 7837 |
-| 19 | [reneklacan](https://github.com/reneklacan) | René Klačan | FirstLook.gg |  | Slovakia | 7702 |
-| 20 | [oliver-kriska](https://github.com/oliver-kriska) | Oliver Kriska |  | quatermain32 | Slovakia | 7494 |
+| 12 | [VladimirTomko](https://github.com/VladimirTomko) | Vladimír Tomko | BeCode s.r.o.  |  | Bratislava, Slovakia | 9429 |
+| 13 | [valferon](https://github.com/valferon) | Feron Valentin | swipejobs |  | Slovakia | 8723 |
+| 14 | [davidian-sk](https://github.com/davidian-sk) |  |  |  | Bratislava | 8568 |
+| 15 | [mrshu](https://github.com/mrshu) | Marek Šuppa |  | mareksuppa | Slovakia | 8545 |
+| 16 | [samuelpatro](https://github.com/samuelpatro) | Samuel | @dajanarodriguez | sam_uell1 | Slovakia | 8263 |
+| 17 | [a-blaho](https://github.com/a-blaho) | Adam Blahovič | Everlution |  | Slovakia | 7973 |
+| 18 | [martin-janci](https://github.com/martin-janci) | Martin Janči | Jakala Germany Gmbh. |  | Bratislava | 7850 |
+| 19 | [lamosty](https://github.com/lamosty) | Rastislav Lamos | Lamosty.com |  | Bratislava | 7837 |
+| 20 | [reneklacan](https://github.com/reneklacan) | René Klačan | FirstLook.gg |  | Slovakia | 7702 |

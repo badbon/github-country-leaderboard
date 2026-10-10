@@ -18,15 +18,15 @@ Indexed users: 4,046
 | 4 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski | Yerevan, Armenia | 10,400 |
 | 5 | [n0uk](https://github.com/n0uk) | Maksim Ustichenko | RA, Yerevan | 9,051 |
 | 6 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 8,784 |
-| 7 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov | Armenia Yerevan | 8,162 |
-| 8 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 8,125 |
-| 9 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 7,743 |
-| 10 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | Yerevan | 7,628 |
-| 11 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan | Yerevan | 7,617 |
-| 12 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 7,340 |
-| 13 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan | Armenia, Yerevan | 6,913 |
-| 14 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | Armenia, Yerevan | 6,763 |
-| 15 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 6,618 |
+| 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 8,606 |
+| 8 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov | Armenia Yerevan | 8,162 |
+| 9 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 8,125 |
+| 10 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 7,743 |
+| 11 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | Yerevan | 7,628 |
+| 12 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan | Yerevan | 7,617 |
+| 13 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 7,340 |
+| 14 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan | Armenia, Yerevan | 6,913 |
+| 15 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | Armenia, Yerevan | 6,763 |
 | 16 | [igoralentyev](https://github.com/igoralentyev) | Igor Alentyev | Armenia | 6,525 |
 | 17 | [namebogsecret](https://github.com/namebogsecret) | Vladimir Podlevskikh | Armenia Yerevan | 6,418 |
 | 18 | [lobotomoe](https://github.com/lobotomoe) | Alex Kraiz | Yerevan | 6,361 |
@@ -43,7 +43,7 @@ Indexed users: 4,046
 | 4 | [i582](https://github.com/i582) | Petr Makhnev | Yerevan, Armenia | 5,270 |
 | 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,716 |
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 3,618 |
-| 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,589 |
+| 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,610 |
 | 8 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | Yerevan, Armenia | 2,578 |
 | 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,475 |
 | 10 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
@@ -65,7 +65,7 @@ Indexed users: 4,046
 | 1 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 1,430 |
 | 2 | [vardan444](https://github.com/vardan444) |  | Armenia | 1,091 |
 | 3 | [TaronVardanyan](https://github.com/TaronVardanyan) | Taron Vardanyan | Yerevan | 1,081 |
-| 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan | Armenia | 931 |
+| 4 | [Gor-Hoveyan](https://github.com/Gor-Hoveyan) | Gor Hoveyan | Armenia | 933 |
 | 5 | [AlekSi](https://github.com/AlekSi) | Alexey Palazhchenko | Armenia | 797 |
 | 6 | [MohammedRashad](https://github.com/MohammedRashad) | Rashad | Yerevan, Armenia | 624 |
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 586 |
@@ -83,4 +83,4 @@ Indexed users: 4,046
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-10T03:12:55.475Z
+Generated: 2026-10-10T07:07:24.312Z

@@ -1,12 +1,12 @@
 # Total Contributions - Venezuela
 
-Generated: 2026-10-10T03:08:57.094Z
+Generated: 2026-10-10T07:02:34.145Z
 
 Users: 6640
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 |  |  | Venezuela | 32559 |
+| 1 | [0noxtackore](https://github.com/0noxtackore) | 4NG3LL0_4P0NT3 |  |  | Venezuela | 52041 |
 | 2 | [diegoesolorzano](https://github.com/diegoesolorzano) | Diego E. Solórzano Z. |  |  | Venezuela | 13732 |
 | 3 | [Mdx2025](https://github.com/Mdx2025) | Marcelo Cedeno | MDX | MarceloDesignX | Venezuela | 12611 |
 | 4 | [bin-daldana](https://github.com/bin-daldana) | David Aldana | Binaural |  | Venezuela | 11960 |

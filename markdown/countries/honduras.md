@@ -1,6 +1,6 @@
 # Honduras
 
-Indexed users: 1,266
+Indexed users: 1,265
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 1,266
 | 16 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,414 |
 | 17 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 4,297 |
 | 18 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 4,077 |
-| 19 | [gaboelnuevo](https://github.com/gaboelnuevo) | Gabriel S. L | Honduras | 3,742 |
-| 20 | [jehielmartinez](https://github.com/jehielmartinez) | Jehiel Martinez | San Pedro Sula, Honduras | 3,715 |
+| 19 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 3,976 |
+| 20 | [gaboelnuevo](https://github.com/gaboelnuevo) | Gabriel S. L | Honduras | 3,742 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,266
 | 19 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 20 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 
-Generated: 2026-10-10T03:42:11.486Z
+Generated: 2026-10-10T07:42:04.070Z

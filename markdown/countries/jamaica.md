@@ -19,7 +19,7 @@ Indexed users: 1,276
 | 5 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 6,980 |
 | 6 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,819 |
 | 7 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 6,626 |
-| 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,180 |
+| 8 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
 | 9 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
 | 10 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
 | 11 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 4,009 |
@@ -70,7 +70,7 @@ Indexed users: 1,276
 | 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams | St. Ann, Jamaica | 212 |
 | 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Kingston, ON | 140 |
 | 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt | Jamaica | 136 |
-| 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | Kingston, Jamaica | 130 |
+| 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | Kingston, Jamaica | 134 |
 | 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | Kingston, New York | 123 |
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
 | 12 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-10T03:45:39.762Z
+Generated: 2026-10-10T07:47:26.690Z

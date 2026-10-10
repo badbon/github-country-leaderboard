@@ -1,8 +1,8 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-10T03:09:26.321Z
+Generated: 2026-10-10T07:04:08.644Z
 
-Users: 1498
+Users: 1497
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,7 +17,7 @@ Users: 1498
 | 9 | [danishyarkhwork](https://github.com/danishyarkhwork) | Khalid Danishyar | Baheer Group |  | Kabul, Afghanistan | 9544 |
 | 10 | [ShoaibNaseri](https://github.com/ShoaibNaseri) | Shoaib Naseri |  |  | Afghanistan | 7962 |
 | 11 | [Nasratullah-Shafiq](https://github.com/Nasratullah-Shafiq) | Nasratullah Shafiq | MCIT | NasratShafiq | Afghanistan | 7391 |
-| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | @Daktilo-CMS | Mustafa_Zahedi2 | Herat, Afghanistan | 6345 |
+| 12 | [Mustafa-Zahedi](https://github.com/Mustafa-Zahedi) | Mustafa Zahedi | @Daktilo-CMS | Mustafa_Zahedi2 | Herat, Afghanistan | 6766 |
 | 13 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 5819 |
 | 14 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5737 |
 | 15 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 5656 |

@@ -1,8 +1,8 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-10T02:57:37.953Z
+Generated: 2026-10-10T06:47:10.948Z
 
-Users: 3108
+Users: 3107
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 3108
 | 9 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8945 |
 | 10 | [pako999](https://github.com/pako999) | Patrik |  | patrikslovenia | Slovenia  | 8682 |
 | 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek |  | domengabrovsek | Ljubljana, Slovenia | 8648 |
-| 12 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
-| 13 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 8260 |
-| 14 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
-| 15 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
-| 16 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
-| 17 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
-| 18 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 6551 |
-| 19 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |
-| 20 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |
+| 12 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | zerodays.dev |  | Ljubljana, Slovenia | 8637 |
+| 13 | [zprima](https://github.com/zprima) | Primož Žnidar | @poviolabs  |  | Slovenia | 8431 |
+| 14 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 8260 |
+| 15 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
+| 16 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
+| 17 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
+| 18 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
+| 19 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 6551 |
+| 20 | [ilijachrchev](https://github.com/ilijachrchev) | Ilija Chrchev |  |  | Koper, Slovenia | 6505 |

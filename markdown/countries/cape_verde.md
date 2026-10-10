@@ -31,7 +31,7 @@ Indexed users: 561
 | 17 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,164 |
 | 18 | [machadoah](https://github.com/machadoah) | Antonio Henrique Machado | Praia Grande/SP | 1,142 |
 | 19 | [mrbonini](https://github.com/mrbonini) | Kaique Sousa Bonini | Praia Grande, SP - Brazil | 1,132 |
-| 20 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Praia Grande - SP | 1,072 |
+| 20 | [ewerton336](https://github.com/ewerton336) | Ewerton  Guimarães | Praia Grande - SP | 1,083 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 561
 | 2 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,355 |
 | 3 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,060 |
 | 4 | [klcombr](https://github.com/klcombr) | KL Com | Praia Grande, SP | 1,005 |
-| 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 706 |
+| 5 | [erilshackle](https://github.com/erilshackle) | Eril TS Carvalho | Cape Verde | 707 |
 | 6 | [luizintrepido](https://github.com/luizintrepido) | Luiz Intrépido | praia grande-sp | 695 |
 | 7 | [kccristinadev-dev](https://github.com/kccristinadev-dev) | Cristina  | Praia grande - sp | 556 |
 | 8 | [Coyas](https://github.com/Coyas) | Ailton Duarte | Praia, Cabo Verde | 466 |
@@ -83,4 +83,4 @@ Indexed users: 561
 | 19 | [Murzchnvok](https://github.com/Murzchnvok) | Pedro Araujo | Praia de Jatobá, SE - Brasil | 58 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-10T03:20:51.648Z
+Generated: 2026-10-10T07:21:08.018Z
