@@ -1,17 +1,17 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-10T07:55:08.890Z
+Generated: 2026-10-10T09:26:48.158Z
 
 Users: 1226
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 25147 |
-| 2 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 19296 |
-| 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 12956 |
-| 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12416 |
-| 5 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 10549 |
-| 6 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 9866 |
+| 1 | [davidbalzan](https://github.com/davidbalzan) | David Balzan |  |  | Malta | 25544 |
+| 2 | [SijanC147](https://github.com/SijanC147) | Sean |  |  | Malta | 25147 |
+| 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Freelancer @net9-oy |  | Msida, Malta | 19296 |
+| 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 12956 |
+| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12416 |
+| 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 10549 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
 | 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 8474 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 8363 |

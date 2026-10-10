@@ -19,19 +19,19 @@ Indexed users: 1,359
 | 5 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Senegal | 7,503 |
 | 6 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO | Dakar, Sénégal | 7,300 |
 | 7 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Dakar, Sénégal | 7,135 |
-| 8 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,295 |
-| 9 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,639 |
-| 10 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,296 |
-| 11 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
-| 12 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
-| 13 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
-| 14 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
-| 15 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
-| 16 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
-| 17 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
-| 18 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,075 |
-| 19 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
-| 20 | [JAC0164](https://github.com/JAC0164) | jules jacques Girelle coly | Dakar, Senegal | 3,862 |
+| 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 6,373 |
+| 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,295 |
+| 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,639 |
+| 11 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,296 |
+| 12 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
+| 13 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
+| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
+| 15 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
+| 16 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
+| 17 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
+| 18 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
+| 19 | [Denver-sn](https://github.com/Denver-sn) | DℰℕVℰℛ | Senegal,Dakar | 4,075 |
+| 20 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 3,890 |
 
 ## Public Contributions
 
@@ -78,9 +78,9 @@ Indexed users: 1,359
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | Dakar | 168 |
 | 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Dakar, Sn | 165 |
 | 16 | [kasali](https://github.com/kasali) | kasali | Dakar Sénégal | 153 |
-| 17 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo | Dakar - Senegal | 148 |
-| 18 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 139 |
-| 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
-| 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
+| 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 150 |
+| 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo | Dakar - Senegal | 148 |
+| 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 139 |
+| 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-10T08:18:59.132Z
+Generated: 2026-10-10T09:48:12.651Z

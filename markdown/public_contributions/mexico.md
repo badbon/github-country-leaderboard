@@ -1,13 +1,13 @@
 # Public Contributions - Mexico
 
-Generated: 2026-10-10T07:57:11.577Z
+Generated: 2026-10-10T09:30:12.392Z
 
 Users: 23505
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mnaoumov](https://github.com/mnaoumov) | Michael Naumov |  |  | Queretaro, Mexico | 15255 |
-| 2 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Agents of Abyss |  | Mexico | 11648 |
+| 2 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Agents of Abyss |  | Mexico | 12884 |
 | 3 | [XelHaku](https://github.com/XelHaku) | Xel | Trebuchet Dynamics |  | Mexico | 10158 |
 | 4 | [DrKJeff16](https://github.com/DrKJeff16) | Guennadi Maximov C | Terms of Service; Didn't Read |  | Mexico | 8550 |
 | 5 | [edgarrmondragon](https://github.com/edgarrmondragon) | Edgar Ramírez Mondragón | @meltano | cofonlafaefe | Mexico | 8461 |

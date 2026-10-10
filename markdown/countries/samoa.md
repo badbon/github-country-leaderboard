@@ -12,7 +12,7 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,119 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,125 |
 | 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,417 |
 | 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 916 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 331 |
@@ -37,14 +37,14 @@ Indexed users: 19
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 916 |
-| 2 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 362 |
-| 3 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 221 |
-| 4 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 99 |
-| 5 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
-| 6 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
-| 7 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 69 |
-| 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | Samoa | 44 |
-| 9 | [samos667](https://github.com/samos667) |  | Apia | 39 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 221 |
+| 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 99 |
+| 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
+| 5 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
+| 6 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 69 |
+| 7 | [tavitas](https://github.com/tavitas) | Tavita Su'a | Samoa | 44 |
+| 8 | [samos667](https://github.com/samos667) |  | Apia | 39 |
+| 9 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 8 |
 | 10 | [duchonic](https://github.com/duchonic) | duchonic | samoa | 7 |
 | 11 | [Varmuz](https://github.com/Varmuz) | Varmuz | Samoa | 3 |
 | 12 | [5thAttemptCode](https://github.com/5thAttemptCode) | Henry  | Apia, Samoa | 2 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [xfy777](https://github.com/xfy777) | xfy | Samoa | 2 |
 | 19 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 1 |
 
-Generated: 2026-10-10T08:16:20.972Z
+Generated: 2026-10-10T09:47:45.958Z

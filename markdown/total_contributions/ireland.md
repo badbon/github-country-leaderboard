@@ -1,8 +1,8 @@
 # Total Contributions - Ireland
 
-Generated: 2026-10-10T09:14:34.767Z
+Generated: 2026-10-10T09:43:16.676Z
 
-Users: 19519
+Users: 19523
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 19519
 | 14 | [wsdo](https://github.com/wsdo) | Xishu |  | xishu_ai | Ireland | 14157 |
 | 15 | [ryan-winkler](https://github.com/ryan-winkler) | Ryan Winkler | Currently Looking | ryanw_product | Dublin Ireland | 13842 |
 | 16 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | @OUTsurance @outsurance-ireland |  | Dublin, Ireland | 13809 |
-| 17 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling |  |  | Dublin Ireland  | 13324 |
+| 17 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling |  |  | Dublin Ireland  | 13567 |
 | 18 | [goenning](https://github.com/goenning) | Guilherme Oenning |  | goenning | Dublin, Ireland | 12855 |
 | 19 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | @episensor  |  | Ireland | 12835 |
 | 20 | [Aramantos](https://github.com/Aramantos) | John Doyle |  | jd_aramantos | Dublin, Ireland | 12172 |

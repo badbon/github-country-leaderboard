@@ -25,8 +25,8 @@ Indexed users: 23,505
 | 11 | [FerAnimaciones](https://github.com/FerAnimaciones) | Fernando Manuel Avila Cataño | Tepic, Nayarit, Mexico | 13,765 |
 | 12 | [Jorgelig](https://github.com/Jorgelig) | Jorgelig | Monterrey, Nuevo Leon | 13,421 |
 | 13 | [joseamijares](https://github.com/joseamijares) | José Antonio Mijares | Mexico City | 13,337 |
-| 14 | [michaelcoburn](https://github.com/michaelcoburn) | Michael Coburn | Mexico | 12,407 |
-| 15 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 11,648 |
+| 14 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 12,884 |
+| 15 | [michaelcoburn](https://github.com/michaelcoburn) | Michael Coburn | Mexico | 12,407 |
 | 16 | [luisfernandobarrera](https://github.com/luisfernandobarrera) | Luis Fernando Barrera | Mexico City, Mexico | 10,892 |
 | 17 | [fercreek](https://github.com/fercreek) | Fernando Contreras | Monterrey, Nuevo Leon | 10,499 |
 | 18 | [paridin](https://github.com/paridin) | Roberto Estrada | Mexico City | 10,287 |
@@ -38,7 +38,7 @@ Indexed users: 23,505
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mnaoumov](https://github.com/mnaoumov) | Michael Naumov | Queretaro, Mexico | 15,255 |
-| 2 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 11,648 |
+| 2 | [8Dionysus](https://github.com/8Dionysus) | Dionysus | Mexico | 12,884 |
 | 3 | [XelHaku](https://github.com/XelHaku) | Xel | Mexico | 10,158 |
 | 4 | [DrKJeff16](https://github.com/DrKJeff16) | Guennadi Maximov C | Mexico | 8,550 |
 | 5 | [edgarrmondragon](https://github.com/edgarrmondragon) | Edgar Ramírez Mondragón | Mexico | 8,461 |
@@ -83,4 +83,4 @@ Indexed users: 23,505
 | 19 | [FiliSantillan](https://github.com/FiliSantillan) | Fili Santillán | Mexico City | 661 |
 | 20 | [edglaz](https://github.com/edglaz) |  | Mexico City | 636 |
 
-Generated: 2026-10-10T07:57:11.577Z
+Generated: 2026-10-10T09:30:12.392Z

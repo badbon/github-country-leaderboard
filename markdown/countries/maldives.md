@@ -37,7 +37,7 @@ Indexed users: 354
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,564 |
+| 1 | [hadithmv](https://github.com/hadithmv) | Mohamed Ashraaf Ibrahim | Malé, Maldives | 1,562 |
 | 2 | [nedanwr](https://github.com/nedanwr) | Naveed Ali Anwar | Male', Maldives | 1,337 |
 | 3 | [72sevenzy2](https://github.com/72sevenzy2) | 72 | malé, maldives  | 1,297 |
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,243 |
@@ -53,7 +53,7 @@ Indexed users: 354
 | 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 417 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 358 |
-| 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 293 |
+| 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 322 |
 | 18 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Maldives | 233 |
 | 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 232 |
 | 20 | [zxeenu](https://github.com/zxeenu) | Ziaan | Maldives | 220 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-10T07:54:59.641Z
+Generated: 2026-10-10T09:24:50.298Z

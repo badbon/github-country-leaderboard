@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-10T08:18:59.132Z
+Generated: 2026-10-10T09:48:12.651Z
 
 Users: 1359
 
@@ -22,7 +22,7 @@ Users: 1359
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 168 |
 | 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Zone 01 Dakar |  | Dakar, Sn | 165 |
 | 16 | [kasali](https://github.com/kasali) | kasali | Freelancer | kadev4solutions | Dakar Sénégal | 153 |
-| 17 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo |  | RidwaneD | Dakar - Senegal | 148 |
-| 18 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Samane Corporation | NgorSeck | Dakar - Sénégal | 139 |
-| 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 138 |
-| 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | PayDunya |  | Sénégal - Dakar (Ouest Foire) | 135 |
+| 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | PayDunya |  | Sénégal - Dakar (Ouest Foire) | 150 |
+| 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo |  | RidwaneD | Dakar - Senegal | 148 |
+| 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Samane Corporation | NgorSeck | Dakar - Sénégal | 139 |
+| 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA |  | Pathegobelba | Senegal  | 138 |

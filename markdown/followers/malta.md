@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-10T07:55:08.890Z
+Generated: 2026-10-10T09:26:48.158Z
 
 Users: 1226
 

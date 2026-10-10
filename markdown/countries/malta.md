@@ -12,12 +12,12 @@ Indexed users: 1,226
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 25,147 |
-| 2 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
-| 3 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
-| 4 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
-| 5 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
-| 6 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 9,866 |
+| 1 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 25,544 |
+| 2 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 25,147 |
+| 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
+| 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
+| 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
+| 6 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
 | 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
 | 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
 | 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
@@ -83,4 +83,4 @@ Indexed users: 1,226
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-10T07:55:08.890Z
+Generated: 2026-10-10T09:26:48.158Z

@@ -56,7 +56,7 @@ Indexed users: 3,274
 | 17 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
 | 18 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
 | 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,262 |
-| 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Latvia, Riga | 1,214 |
+| 20 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,216 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,274
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-10T07:51:53.642Z
+Generated: 2026-10-10T09:19:31.463Z

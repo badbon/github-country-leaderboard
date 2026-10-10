@@ -1,6 +1,6 @@
 # Ireland
 
-Indexed users: 19,519
+Indexed users: 19,523
 
 | Leaderboard | Link |
 |---|---|
@@ -28,7 +28,7 @@ Indexed users: 19,519
 | 14 | [wsdo](https://github.com/wsdo) | Xishu | Ireland | 14,157 |
 | 15 | [ryan-winkler](https://github.com/ryan-winkler) | Ryan Winkler | Dublin Ireland | 13,842 |
 | 16 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | Dublin, Ireland | 13,809 |
-| 17 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,324 |
+| 17 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
 | 18 | [goenning](https://github.com/goenning) | Guilherme Oenning | Dublin, Ireland | 12,855 |
 | 19 | [brendan-carroll](https://github.com/brendan-carroll) | Brendan Carroll | Ireland | 12,835 |
 | 20 | [Aramantos](https://github.com/Aramantos) | John Doyle | Dublin, Ireland | 12,172 |
@@ -42,8 +42,8 @@ Indexed users: 19,519
 | 3 | [levindixon](https://github.com/levindixon) | Levin Dixon | Dublin, Ireland | 45,006 |
 | 4 | [fourk0](https://github.com/fourk0) | fourk0 | Ireland | 23,244 |
 | 5 | [rjrodger](https://github.com/rjrodger) | Richard Rodger | Ireland | 18,498 |
-| 6 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 13,445 |
-| 7 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,324 |
+| 6 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling | Dublin Ireland  | 13,567 |
+| 7 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov | Dublin, Ireland | 13,445 |
 | 8 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | Dublin, Ireland | 11,122 |
 | 9 | [notheotherben](https://github.com/notheotherben) | Benjamin Pannell | Dublin, Ireland | 10,701 |
 | 10 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire | Dublin, Ireland | 10,243 |
@@ -83,4 +83,4 @@ Indexed users: 19,519
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-10T09:14:34.767Z
+Generated: 2026-10-10T09:43:16.676Z

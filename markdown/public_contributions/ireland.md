@@ -1,8 +1,8 @@
 # Public Contributions - Ireland
 
-Generated: 2026-10-10T09:14:34.767Z
+Generated: 2026-10-10T09:43:16.676Z
 
-Users: 19519
+Users: 19523
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,8 +11,8 @@ Users: 19519
 | 3 | [levindixon](https://github.com/levindixon) | Levin Dixon | @intercom |  | Dublin, Ireland | 45006 |
 | 4 | [fourk0](https://github.com/fourk0) | fourk0 |  |  | Ireland | 23244 |
 | 5 | [rjrodger](https://github.com/rjrodger) | Richard Rodger |  |  | Ireland | 18498 |
-| 6 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov |  |  | Dublin, Ireland | 13445 |
-| 7 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling |  |  | Dublin Ireland  | 13324 |
+| 6 | [Borealiscodes](https://github.com/Borealiscodes) | Borealis S Hedling |  |  | Dublin Ireland  | 13567 |
+| 7 | [MRiabov](https://github.com/MRiabov) | Maksym Riabov |  |  | Dublin, Ireland | 13445 |
 | 8 | [guibranco](https://github.com/guibranco) | Guilherme Branco Stracini | @OUTsurance @outsurance-ireland |  | Dublin, Ireland | 11122 |
 | 9 | [notheotherben](https://github.com/notheotherben) | Benjamin Pannell |  |  | Dublin, Ireland | 10701 |
 | 10 | [morganmcg1](https://github.com/morganmcg1) | Morgan McGuire |  |  | Dublin, Ireland | 10243 |

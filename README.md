@@ -18,7 +18,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 | [United States Virgin Islands](markdown/countries/united_states_virgin_islands.md) | 4 | [Public](markdown/public_contributions/united_states_virgin_islands.md) | [Total](markdown/total_contributions/united_states_virgin_islands.md) | [Followers](markdown/followers/united_states_virgin_islands.md) |
 | [Martinique](markdown/countries/martinique.md) | 75 | [Public](markdown/public_contributions/martinique.md) | [Total](markdown/total_contributions/martinique.md) | [Followers](markdown/followers/martinique.md) |
 | [Lithuania](markdown/countries/lithuania.md) | 5,396 | [Public](markdown/public_contributions/lithuania.md) | [Total](markdown/total_contributions/lithuania.md) | [Followers](markdown/followers/lithuania.md) |
-| [Thailand](markdown/countries/thailand.md) | 14,989 | [Public](markdown/public_contributions/thailand.md) | [Total](markdown/total_contributions/thailand.md) | [Followers](markdown/followers/thailand.md) |
+| [Thailand](markdown/countries/thailand.md) | 14,990 | [Public](markdown/public_contributions/thailand.md) | [Total](markdown/total_contributions/thailand.md) | [Followers](markdown/followers/thailand.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-10T09:17:18.771Z
+Generated: 2026-10-10T09:50:39.344Z

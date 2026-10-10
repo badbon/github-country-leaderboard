@@ -1,13 +1,13 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-10T08:08:46.744Z
+Generated: 2026-10-10T09:36:50.752Z
 
-Users: 996
+Users: 995
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Barkat national ent llc |  | Oman | 89684 |
-| 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Bright Palm Solutions LLC |  | Muscat, Oman | 31097 |
+| 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Bright Palm Solutions LLC |  | Muscat, Oman | 31085 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan |  |  | Muscat, Oman | 14734 |
 | 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi |  |  | Muscat, OM. | 12862 |
 | 5 | [jaifar530](https://github.com/jaifar530) | Jaifar |  |  | Oman | 11511 |
