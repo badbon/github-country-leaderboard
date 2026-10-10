@@ -11420,7 +11420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-02-10T04:20:16Z"
   },
   {
@@ -11437,14 +11437,14 @@
   },
   {
     "login": "BekbolotM",
-    "name": "",
+    "name": "Bekbolot M",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108409173?s=72&u=5257fa28faa2cdb50cb548f0ca5f457bdb4a1263&v=4",
     "location": "Bishkek",
     "company": "Kyrgyz Concept",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "followers": 2,
+    "privateContributions": 1242,
+    "publicContributions": 9,
     "createdAt": "2022-06-29T12:48:59Z"
   },
   {
@@ -11467,8 +11467,8 @@
     "company": "Loco",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 792,
-    "publicContributions": 103,
+    "privateContributions": 795,
+    "publicContributions": 101,
     "createdAt": "2022-12-12T12:59:57Z"
   },
   {
@@ -11526,9 +11526,9 @@
     "location": "Bishkek, Kyrgyzstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2219,
-    "privateContributions": 928,
-    "publicContributions": 3,
+    "followers": 2217,
+    "privateContributions": 720,
+    "publicContributions": 7,
     "createdAt": "2021-02-18T06:28:29Z"
   },
   {
@@ -11538,21 +11538,21 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "Founder & CEO @CodexKG",
     "twitterUsername": "binniev01",
-    "followers": 362,
-    "privateContributions": 908,
-    "publicContributions": 6,
+    "followers": 363,
+    "privateContributions": 1429,
+    "publicContributions": 4,
     "createdAt": "2021-03-19T11:50:56Z"
   },
   {
     "login": "mustafanabiev",
     "name": "Mustafa Nabiev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95737924?s=72&u=7dae380180b1d2be0dadfdaaec4066e91fdacf85&v=4",
-    "location": "Bishkek, Kyrgyzstan",
-    "company": "MN GROUP",
-    "twitterUsername": "nabievv02",
-    "followers": 83,
-    "privateContributions": 594,
-    "publicContributions": 12,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95737924?s=72&u=185bcd01a9da597a89dc9851691df4176ead7b56&v=4",
+    "location": "Kyrgyzstan 🇰🇬",
+    "company": "@OIMOSOFT",
+    "twitterUsername": "",
+    "followers": 84,
+    "privateContributions": 980,
+    "publicContributions": 29,
     "createdAt": "2021-12-08T06:29:20Z"
   },
   {
@@ -11564,7 +11564,7 @@
     "twitterUsername": "",
     "followers": 79,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 81,
     "createdAt": "2021-08-02T13:23:30Z"
   },
   {
@@ -11575,8 +11575,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 58,
-    "privateContributions": 408,
-    "publicContributions": 17,
+    "privateContributions": 325,
+    "publicContributions": 37,
     "createdAt": "2021-11-19T07:08:36Z"
   },
   {

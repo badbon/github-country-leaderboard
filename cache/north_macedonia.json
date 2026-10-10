@@ -11767,8 +11767,8 @@
     "company": "LOKA Inc.",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 312,
-    "publicContributions": 16,
+    "privateContributions": 342,
+    "publicContributions": 12,
     "createdAt": "2019-03-25T21:38:28Z"
   },
   {
@@ -11791,7 +11791,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 8,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2019-04-02T09:10:33Z"
   },
@@ -11815,7 +11815,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-04T16:13:07Z"
   },
@@ -11826,7 +11826,7 @@
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-13T21:11:19Z"
@@ -11838,7 +11838,7 @@
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-02-24T22:11:58Z"
@@ -11863,8 +11863,8 @@
     "company": "Last Company - Beelivio",
     "twitterUsername": "viktorzafirovs1",
     "followers": 8,
-    "privateContributions": 220,
-    "publicContributions": 115,
+    "privateContributions": 214,
+    "publicContributions": 63,
     "createdAt": "2019-12-23T17:22:53Z"
   },
   {
@@ -11876,7 +11876,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 36,
     "createdAt": "2019-12-01T09:11:24Z"
   },
   {
@@ -11916,25 +11916,13 @@
     "createdAt": "2019-11-26T18:47:09Z"
   },
   {
-    "login": "viktormazen",
-    "name": "Viktor Mijalchev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47793886?s=72&u=7f8cc93fbf9375d4c63825382383bf7ce78631f5&v=4",
-    "location": "Skopje",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 22,
-    "publicContributions": 0,
-    "createdAt": "2019-02-19T19:17:26Z"
-  },
-  {
     "login": "Igor180",
     "name": "Igor",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55050952?s=72&u=6d29c499a614feaa7272f21fa8b88e63cd992cd7&v=4",
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-08T11:31:07Z"
@@ -11948,7 +11936,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 32,
-    "publicContributions": 56,
+    "publicContributions": 102,
     "createdAt": "2019-04-10T08:30:16Z"
   },
   {

@@ -11240,7 +11240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2025-06-12T09:42:06Z"
   },
   {
@@ -11251,7 +11251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 716,
+    "privateContributions": 266,
     "publicContributions": 27,
     "createdAt": "2025-06-10T23:51:33Z"
   },
@@ -11264,7 +11264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-06-11T06:39:21Z"
   },
   {
@@ -11286,9 +11286,9 @@
     "location": "Kenya",
     "company": "Manchester Amnestity.org",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 185,
     "createdAt": "2025-06-01T20:53:40Z"
   },
   {
@@ -11300,19 +11300,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 84,
     "createdAt": "2025-06-04T15:04:26Z"
   },
   {
     "login": "Bkidenda",
     "name": "Otieno Kidenda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/207553275?s=72&u=8fa823b546e440468256bddfb92de697cb4abd16&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/207553275?s=72&u=f71abc9b89a2fe65158a7fc9816259ca233aaa97&v=4",
     "location": "Nairobi, Kenya",
-    "company": "Eak Kenya",
+    "company": "Keldine Technologies Ltd",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 348,
     "createdAt": "2025-04-14T11:35:39Z"
   },
   {
@@ -11324,7 +11324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 191,
+    "publicContributions": 195,
     "createdAt": "2025-02-03T17:11:32Z"
   },
   {
@@ -11347,8 +11347,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 152,
-    "publicContributions": 180,
+    "privateContributions": 140,
+    "publicContributions": 81,
     "createdAt": "2025-04-01T10:52:30Z"
   },
   {
@@ -11360,7 +11360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 9,
     "createdAt": "2025-05-01T16:39:42Z"
   },
   {
@@ -11420,7 +11420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 69,
     "createdAt": "2025-05-29T07:36:25Z"
   },
   {
@@ -11432,20 +11432,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-06-05T18:03:39Z"
-  },
-  {
-    "login": "rajab-bett-analytics",
-    "name": "Rajab Cheruiyot Bett",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197960675?s=72&u=5168959d9976e077bb89cab4e1130f3890f3baeb&v=4",
-    "location": "Nairobi, Kenya",
-    "company": "rajab-bett-analytics",
-    "twitterUsername": "BettRajab",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2025-02-05T17:28:54Z"
   },
   {
     "login": "Brian-Ki",
@@ -11456,7 +11444,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 33,
     "createdAt": "2025-04-16T04:54:37Z"
   },
   {

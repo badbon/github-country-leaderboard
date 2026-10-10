@@ -11600,7 +11600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 27,
     "createdAt": "2018-09-15T04:56:19Z"
   },
   {
@@ -11614,18 +11614,6 @@
     "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2018-06-12T11:52:12Z"
-  },
-  {
-    "login": "Bassgarik",
-    "name": "Igor Smoleac",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38285743?s=72&u=64bbf46ce6b23f7b124d439698f81a8ecf535234&v=4",
-    "location": "Chisinau, Moldova",
-    "company": "@Rekeens (Litlow)",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 372,
-    "publicContributions": 16,
-    "createdAt": "2018-04-11T12:20:57Z"
   },
   {
     "login": "Rodion-Goncov",
@@ -11742,8 +11730,8 @@
     "location": "Chișinău",
     "company": "",
     "twitterUsername": "iveloff",
-    "followers": 5,
-    "privateContributions": 128,
+    "followers": 8,
+    "privateContributions": 91,
     "publicContributions": 1,
     "createdAt": "2018-09-02T06:00:07Z"
   },
@@ -11755,8 +11743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 34,
-    "publicContributions": 30,
+    "privateContributions": 61,
+    "publicContributions": 40,
     "createdAt": "2018-12-12T11:40:17Z"
   },
   {
@@ -11778,8 +11766,8 @@
     "location": "Moldova",
     "company": "Episclera",
     "twitterUsername": "",
-    "followers": 103,
-    "privateContributions": 203,
+    "followers": 105,
+    "privateContributions": 179,
     "publicContributions": 3,
     "createdAt": "2017-07-09T17:27:12Z"
   },
@@ -11790,9 +11778,9 @@
     "location": "Chisinau, Republic of Moldova",
     "company": "Advanced Data Security Solutions",
     "twitterUsername": "MaximMasiutin",
-    "followers": 59,
+    "followers": 60,
     "privateContributions": 3,
-    "publicContributions": 1195,
+    "publicContributions": 1272,
     "createdAt": "2017-01-09T16:06:15Z"
   },
   {
@@ -11803,8 +11791,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 48,
-    "privateContributions": 1537,
-    "publicContributions": 125,
+    "privateContributions": 1350,
+    "publicContributions": 35,
     "createdAt": "2017-06-23T05:14:52Z"
   },
   {
@@ -11815,8 +11803,8 @@
     "company": "",
     "twitterUsername": "moonlysdays",
     "followers": 38,
-    "privateContributions": 580,
-    "publicContributions": 51,
+    "privateContributions": 1151,
+    "publicContributions": 72,
     "createdAt": "2017-10-02T16:48:52Z"
   },
   {
