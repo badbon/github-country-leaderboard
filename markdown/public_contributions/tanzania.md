@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-10T08:27:10.769Z
+Generated: 2026-10-10T09:58:47.585Z
 
 Users: 2041
 
@@ -19,10 +19,10 @@ Users: 2041
 | 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1952 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 1923 |
 | 13 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Quadrat Global Software House | mghalatia | Tanzania | 1893 |
-| 14 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1606 |
-| 15 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | University of Dar es salaam | AdamMashak1 | Dar es salaam , Tanzania | 1565 |
-| 16 | [Maquiz1](https://github.com/Maquiz1) | Maquiz |  | maquiz_ | Tanzania | 1560 |
-| 17 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1516 |
-| 18 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1497 |
-| 19 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 1448 |
-| 20 | [cephasgm](https://github.com/cephasgm) | CephasGM |  |  | Dar Es Salaam, Tanzania | 1389 |
+| 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 1711 |
+| 15 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1606 |
+| 16 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | University of Dar es salaam | AdamMashak1 | Dar es salaam , Tanzania | 1565 |
+| 17 | [Maquiz1](https://github.com/Maquiz1) | Maquiz |  | maquiz_ | Tanzania | 1560 |
+| 18 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1516 |
+| 19 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1497 |
+| 20 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Busara Digital  |  | Dar Es Salaam, Tanzania | 1448 |

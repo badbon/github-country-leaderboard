@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-10T08:38:24.632Z
+Generated: 2026-10-10T10:10:48.526Z
 
 Users: 1185
 
@@ -15,8 +15,8 @@ Users: 1185
 | 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj |  | jonatoni | Albania | 156 |
 | 8 | [banago](https://github.com/banago) | Baki Goxhaj | WPlancer | banago | Vlorë, Albania | 154 |
 | 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj |  |  | Tirana, Albania | 143 |
-| 10 | [meggsila](https://github.com/meggsila) | Megi Sila |  | meggsila | Tirana, Albania | 100 |
-| 11 | [klendi](https://github.com/klendi) | Klendi Goci |  |  | Tirana, Albania | 98 |
+| 10 | [klendi](https://github.com/klendi) | Klendi Goci |  |  | Tirana, Albania | 100 |
+| 11 | [meggsila](https://github.com/meggsila) | Megi Sila |  | meggsila | Tirana, Albania | 100 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 92 |
 | 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 90 |
 | 14 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 90 |

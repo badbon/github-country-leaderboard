@@ -29,8 +29,8 @@ Indexed users: 679
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,099 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,892 |
 | 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
-| 18 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
-| 19 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,426 |
+| 18 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,468 |
+| 19 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
 | 20 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,359 |
 
 ## Public Contributions
@@ -40,9 +40,9 @@ Indexed users: 679
 | 1 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | Lome,TOGO | 7,361 |
 | 2 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | Lomé TOGO | 4,764 |
 | 3 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO | Lome-Togo | 4,070 |
-| 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,229 |
+| 4 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,271 |
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,140 |
-| 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,970 |
+| 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,973 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,848 |
 | 8 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,826 |
 | 9 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,810 |
@@ -56,7 +56,7 @@ Indexed users: 679
 | 17 | [georgesnoe](https://github.com/georgesnoe) | Kossi Georges-Noé AHOMBO | Lomé, Togo | 749 |
 | 18 | [icichainz](https://github.com/icichainz) | Abel Koudaya | Lomé, TOGO | 709 |
 | 19 | [lessan-cyber](https://github.com/lessan-cyber) | Lessan  Abdel Aziz | Togo | 708 |
-| 20 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 642 |
+| 20 | [johnOfGod33](https://github.com/johnOfGod33) | jean de dieu | Togo | 639 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-10T08:28:45.801Z
+Generated: 2026-10-10T10:00:39.012Z

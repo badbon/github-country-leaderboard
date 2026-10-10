@@ -1,6 +1,6 @@
 # Followers - Bermuda
 
-Generated: 2026-10-10T08:43:39.759Z
+Generated: 2026-10-10T10:19:18.884Z
 
 Users: 901
 
@@ -22,7 +22,7 @@ Users: 901
 | 14 | [Pear1y](https://github.com/Pear1y) | Pear1y | Cyber Security |  | Bermuda | 107 |
 | 15 | [ShawnShiSS](https://github.com/ShawnShiSS) | Shawn Shi |  |  | Hamilton, Ontario | 103 |
 | 16 | [tanya-jp](https://github.com/tanya-jp) | Tanya Djavaherpour |  |  | Hamilton, Ontario | 90 |
-| 17 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |
-| 18 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 86 |
+| 17 | [christianbrodbeck](https://github.com/christianbrodbeck) | Christian Brodbeck | McMaster University |  | Hamilton | 88 |
+| 18 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 87 |
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix |  |  | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | @dxos |  | Hamilton, ON | 67 |

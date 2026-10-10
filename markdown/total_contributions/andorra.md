@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-10T08:38:53.559Z
+Generated: 2026-10-10T10:10:57.053Z
 
 Users: 215
 
@@ -14,8 +14,8 @@ Users: 215
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 6782 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6272 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5777 |
-| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5147 |
-| 10 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5146 |
+| 9 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5146 |
+| 10 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5143 |
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4857 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 4739 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 3932 |

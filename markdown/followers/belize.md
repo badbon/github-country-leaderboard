@@ -1,6 +1,6 @@
 # Followers - Belize
 
-Generated: 2026-10-10T08:43:32.962Z
+Generated: 2026-10-10T10:18:20.338Z
 
 Users: 95
 
@@ -21,8 +21,8 @@ Users: 95
 | 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 10 |
 | 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 10 |
 | 15 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
-| 16 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 9 |
-| 17 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
-| 18 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 8 |
+| 16 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
+| 17 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 8 |
+| 18 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 8 |
 | 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | CybCSec  |  | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | University of Belize |  | Belmopan City | 7 |

@@ -1,6 +1,6 @@
 # Uzbekistan
 
-Indexed users: 9,532
+Indexed users: 9,531
 
 | Leaderboard | Link |
 |---|---|
@@ -69,18 +69,18 @@ Indexed users: 9,532
 | 5 | [NazarovAsadbek](https://github.com/NazarovAsadbek) |  | Uzbekistan, Tashkent | 903 |
 | 6 | [the-coder-o](https://github.com/the-coder-o) | The Coder 🧑🏼‍💻 | Uzbekistan | 842 |
 | 7 | [AbdullohRazzoqov](https://github.com/AbdullohRazzoqov) | Abdulloh (Shohjahon) | Samarqand, Uzbekistan | 782 |
-| 8 | [shox404](https://github.com/shox404) | Shoxruh | Uzbekistan, Tashkent | 576 |
-| 9 | [sasomiddinov1](https://github.com/sasomiddinov1) | Sayfiddin | Tashkent/Uzbekistan | 541 |
-| 10 | [KhasanMeliev](https://github.com/KhasanMeliev) | Khasan Meliev | Samarkand, Uzbekistan | 538 |
-| 11 | [Rakhimjon](https://github.com/Rakhimjon) | Rakhim Abdullayev | Tashkent | 490 |
-| 12 | [codeby-umar](https://github.com/codeby-umar) | Muhammad Umar | Uzbekistan  | 469 |
-| 13 | [Zukhrik](https://github.com/Zukhrik) | Зухриддин Камильжанов | Uzbekistan, Tashkent | 420 |
-| 14 | [abdu11aev-samandar](https://github.com/abdu11aev-samandar) | Samandar Abdullaev | Uzbekistan | 386 |
-| 15 | [orzklv](https://github.com/orzklv) | Orzklv | Tashkent, Uzbekistan | 366 |
-| 16 | [Muhammadjewel](https://github.com/Muhammadjewel) | Muhammadjavohir | Tashkent | 352 |
+| 8 | [sasomiddinov1](https://github.com/sasomiddinov1) | Sayfiddin | Tashkent/Uzbekistan | 541 |
+| 9 | [KhasanMeliev](https://github.com/KhasanMeliev) | Khasan Meliev | Samarkand, Uzbekistan | 538 |
+| 10 | [Rakhimjon](https://github.com/Rakhimjon) | Rakhim Abdullayev | Tashkent | 490 |
+| 11 | [codeby-umar](https://github.com/codeby-umar) | Muhammad Umar | Uzbekistan  | 463 |
+| 12 | [Zukhrik](https://github.com/Zukhrik) | Зухриддин Камильжанов | Uzbekistan, Tashkent | 420 |
+| 13 | [abdu11aev-samandar](https://github.com/abdu11aev-samandar) | Samandar Abdullaev | Uzbekistan | 386 |
+| 14 | [orzklv](https://github.com/orzklv) | Orzklv | Tashkent, Uzbekistan | 366 |
+| 15 | [Muhammadjewel](https://github.com/Muhammadjewel) | Muhammadjavohir | Tashkent | 352 |
+| 16 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 333 |
 | 17 | [shahnozahaydarova](https://github.com/shahnozahaydarova) | Shakhnoza  | Navoi,Uzbekistan | 330 |
 | 18 | [javohirdev](https://github.com/javohirdev) | Javohir Hakimov | Uzbekistan, Kibray | 320 |
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
-| 20 | [goldendevuz](https://github.com/goldendevuz) | Abdulmajid Yunusov | Chilonzor, Tashkent, Uzbekistan | 301 |
+| 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-10T08:32:56.215Z
+Generated: 2026-10-10T10:07:09.111Z

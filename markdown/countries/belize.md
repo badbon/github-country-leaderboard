@@ -20,8 +20,8 @@ Indexed users: 95
 | 6 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,425 |
 | 7 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,230 |
 | 8 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,160 |
-| 9 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 925 |
-| 10 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 915 |
+| 9 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 932 |
+| 10 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 925 |
 | 11 | [amirihoare](https://github.com/amirihoare) | Amiri Hoare | Belize | 688 |
 | 12 | [krispyre](https://github.com/krispyre) | kris | Belize | 425 |
 | 13 | [MounsC](https://github.com/MounsC) | Mouns | Belize | 368 |
@@ -77,10 +77,10 @@ Indexed users: 95
 | 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 10 |
 | 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol | Belize, CA | 10 |
 | 15 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers | Belize  | 9 |
-| 16 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 9 |
-| 17 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 8 |
-| 18 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 8 |
+| 16 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 | Belize City, Belize | 8 |
+| 17 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 8 |
+| 18 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti | San Jose Succotz, Cayo District, Belize | 8 |
 | 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-10T08:43:32.962Z
+Generated: 2026-10-10T10:18:20.338Z

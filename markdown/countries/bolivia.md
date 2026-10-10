@@ -50,13 +50,13 @@ Indexed users: 1,786
 | 11 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri | Bolivia | 1,448 |
 | 12 | [olivio-git](https://github.com/olivio-git) | olivio-git | Tarija/Bolivia | 1,416 |
 | 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez | La Paz, Bolivia | 1,307 |
-| 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,224 |
-| 15 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,219 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,106 |
-| 17 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
-| 18 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
-| 19 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,021 |
-| 20 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 950 |
+| 14 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez | Bolivia | 1,225 |
+| 15 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,224 |
+| 16 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,219 |
+| 17 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,106 |
+| 18 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
+| 19 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
+| 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,021 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,786
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 
-Generated: 2026-10-10T08:45:06.727Z
+Generated: 2026-10-10T10:20:59.938Z

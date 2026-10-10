@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-10T08:59:12.017Z
+Generated: 2026-10-10T10:33:09.288Z
 
 Users: 4899
 
@@ -11,7 +11,7 @@ Users: 4899
 | 3 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7530 |
 | 4 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 6951 |
 | 5 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Somatech  |  | Quito | 5138 |
-| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 4462 |
+| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 4329 |
 | 7 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla |  |  | Ecuador | 3763 |
 | 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | @nyaruka |  | Quito, Ecuador | 3730 |
 | 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Universidad de las Fuerzas Armadas "ESPE" |  | Quito, Ecuador | 3341 |
@@ -22,7 +22,7 @@ Users: 4899
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
 | 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
 | 16 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
-| 17 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
-| 18 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |
-| 19 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Independent Developer | fastsquatch | Cuenca, Ecuador | 1525 |
-| 20 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado |  | wachin_id | Ecuador, Manabí, Jipijapa | 1519 |
+| 17 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |
+| 18 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
+| 19 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |
+| 20 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Independent Developer | fastsquatch | Cuenca, Ecuador | 1525 |

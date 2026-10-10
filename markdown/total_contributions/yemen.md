@@ -1,8 +1,8 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-10T08:36:03.141Z
+Generated: 2026-10-10T10:08:48.564Z
 
-Users: 1213
+Users: 1212
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-10T08:27:10.769Z
+Generated: 2026-10-10T09:58:47.585Z
 
 Users: 2041
 
@@ -19,10 +19,10 @@ Users: 2041
 | 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Fair Competition Commission | lurgic_me | Tanzania, Dar es salaam | 8880 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
 | 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
-| 14 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
-| 15 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
-| 16 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
-| 17 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 6717 |
-| 18 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila |  |  | Dar es Salaam, Tanzania | 6694 |
-| 19 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |
-| 20 | [AK1239](https://github.com/AK1239) | Akil Khatri |  | _akil_khatri | Dar es Salaam, Tanzania | 6519 |
+| 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
+| 15 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
+| 16 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
+| 17 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
+| 18 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 6717 |
+| 19 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila |  |  | Dar es Salaam, Tanzania | 6694 |
+| 20 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |

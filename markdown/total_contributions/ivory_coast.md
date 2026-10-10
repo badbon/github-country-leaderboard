@@ -1,20 +1,20 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-10T09:15:04.751Z
+Generated: 2026-10-10T10:47:07.420Z
 
-Users: 487
+Users: 488
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Djamo CI |  | Abidjan, Ivory Coast | 9548 |
-| 2 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 8846 |
-| 3 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Space UI | adrielzimbril | Abidjan, Ivory Coast | 8631 |
-| 4 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | @Vague-Digitale |  | Côte d'ivoire, Abidjan | 8514 |
-| 5 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | WAZMINE | azinakou | Abidjan, Côte d'ivoire | 7482 |
-| 6 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 7016 |
-| 7 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Artefact |  | Cocody, Abidjan, Côte d'Ivoire | 5960 |
+| 2 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Space UI | adrielzimbril | Abidjan, Ivory Coast | 8631 |
+| 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | @Vague-Digitale |  | Côte d'ivoire, Abidjan | 8514 |
+| 4 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | WAZMINE | azinakou | Abidjan, Côte d'ivoire | 7482 |
+| 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 7016 |
+| 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Artefact |  | Cocody, Abidjan, Côte d'Ivoire | 5960 |
+| 7 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 5827 |
 | 8 | [theboss001](https://github.com/theboss001) | Landry Kolaï | @africancarfleet  |  | Côte d'ivoire | 5753 |
-| 9 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | AFRICAN PERMANENT INNOVATIONS | lordkkjmix | abidjan, côte d'ivoire | 5608 |
+| 9 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | AFRICAN PERMANENT INNOVATIONS | lordkkjmix | abidjan, côte d'ivoire | 5615 |
 | 10 | [lambirou](https://github.com/lambirou) | Roland Edi | Codivoire SARL. | lambirou225 | Abidjan, Côte d'ivoire | 5384 |
 | 11 | [karimalik](https://github.com/karimalik) | Karim Kompissi | @workify | KKompissi | Abidjan, Côte d'ivoire | 5003 |
 | 12 | [Chris000888](https://github.com/Chris000888) | Christopher DATO |  |  | Abidjan, Côte d'Ivoire | 4935 |

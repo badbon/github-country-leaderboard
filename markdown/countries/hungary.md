@@ -1,6 +1,6 @@
 # Hungary
 
-Indexed users: 11,194
+Indexed users: 11,193
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 11,194
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
 
-Generated: 2026-10-10T09:27:22.271Z
+Generated: 2026-10-10T10:45:13.163Z

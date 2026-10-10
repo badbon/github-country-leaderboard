@@ -19,11 +19,11 @@ Indexed users: 4,899
 | 5 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | Ecuador | 9,075 |
 | 6 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | Guayaquil, Ecuador | 7,955 |
 | 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,903 |
-| 8 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
-| 9 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
-| 10 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
-| 11 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
-| 12 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 6,286 |
+| 8 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 7,246 |
+| 9 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | Guayaquil, Ecuador | 7,234 |
+| 10 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos | Ecuador | 6,794 |
+| 11 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia | Quito, Ecuador | 6,554 |
+| 12 | [joffx](https://github.com/joffx) | Joffre Veloz | Ecuador | 6,361 |
 | 13 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
 | 14 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
 | 15 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
@@ -42,7 +42,7 @@ Indexed users: 4,899
 | 3 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela | Quito | 7,530 |
 | 4 | [danny270793](https://github.com/danny270793) | Danny Vaca | Ecuador | 6,951 |
 | 5 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
-| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,462 |
+| 6 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | Ecuador, Manabi, Manta | 4,329 |
 | 7 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla | Ecuador | 3,763 |
 | 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
 | 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
@@ -53,10 +53,10 @@ Indexed users: 4,899
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez | Quito - Ecuador | 1,927 |
 | 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula | Ecuador | 1,878 |
 | 16 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | Cumbayá, Ecuador | 1,665 |
-| 17 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 | Ecuador | 1,573 |
-| 18 | [and27](https://github.com/and27) | Andrés Banda | Ecuador | 1,558 |
-| 19 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,525 |
-| 20 | [wachin](https://github.com/wachin) | Washington Indacochea Delgado | Ecuador, Manabí, Jipijapa | 1,519 |
+| 17 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | Quito, Ecuador | 1,627 |
+| 18 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 | Ecuador | 1,573 |
+| 19 | [and27](https://github.com/and27) | Andrés Banda | Ecuador | 1,558 |
+| 20 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,525 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,899
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-10T08:59:12.017Z
+Generated: 2026-10-10T10:33:09.288Z

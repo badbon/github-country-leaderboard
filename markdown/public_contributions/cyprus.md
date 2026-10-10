@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-10T08:57:31.168Z
+Generated: 2026-10-10T10:29:58.465Z
 
 Users: 2740
 
@@ -23,6 +23,6 @@ Users: 2740
 | 15 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 2670 |
 | 16 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Lead Dev @boundary-digital / Building @ensemblr-hq |  | Limassol, Cyprus | 2614 |
 | 17 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 2444 |
-| 18 | [slima4](https://github.com/slima4) | Artem Senenko |  |  | Nicosia, Cyprus | 2345 |
-| 19 | [sakno](https://github.com/sakno) | Roman Sakno | Kurrent.io |  | Nicosia, Cyprus | 2336 |
-| 20 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Andre AI Technologies |  | Cyprus | 2174 |
+| 18 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray |  |  | Cyprus | 2361 |
+| 19 | [slima4](https://github.com/slima4) | Artem Senenko |  |  | Nicosia, Cyprus | 2345 |
+| 20 | [sakno](https://github.com/sakno) | Roman Sakno | Kurrent.io |  | Nicosia, Cyprus | 2336 |

@@ -54,9 +54,9 @@ Indexed users: 2,740
 | 15 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
 | 16 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
 | 17 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
-| 18 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
-| 19 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
-| 20 | [andre-kuzminykh](https://github.com/andre-kuzminykh) | Andre Kuzminykh | Cyprus | 2,174 |
+| 18 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray | Cyprus | 2,361 |
+| 19 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
+| 20 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,740
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-10T08:57:31.168Z
+Generated: 2026-10-10T10:29:58.465Z

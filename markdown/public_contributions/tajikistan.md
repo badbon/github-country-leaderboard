@@ -1,6 +1,6 @@
 # Public Contributions - Tajikistan
 
-Generated: 2026-10-10T08:27:05.070Z
+Generated: 2026-10-10T09:58:41.688Z
 
 Users: 711
 
@@ -18,11 +18,11 @@ Users: 711
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Payvand |  | Dushanbe, Tajikistan | 761 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov |  |  | Dushanbe, Tajikistan | 699 |
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf |  |  | Dushanbe | 658 |
-| 13 | [Roma-723](https://github.com/Roma-723) | Yusufjon |  |  | Dushanbe | 476 |
-| 14 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov |  |  | Dushanbe, Tajikistan | 469 |
-| 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 468 |
-| 16 | [llcsanjar](https://github.com/llcsanjar) | Sanjar |  |  | Tajikistan | 443 |
-| 17 | [rustamovy9](https://github.com/rustamovy9) |  |  |  | Dushanbe,Tajikistan | 428 |
-| 18 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 419 |
-| 19 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov |  |  | Tajikistan, Khujand | 416 |
-| 20 | [podshoevbunyod16-sketch](https://github.com/podshoevbunyod16-sketch) | Bunyod |  |  | Tajikistan  | 394 |
+| 13 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 508 |
+| 14 | [Roma-723](https://github.com/Roma-723) | Yusufjon |  |  | Dushanbe | 476 |
+| 15 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov |  |  | Dushanbe, Tajikistan | 469 |
+| 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 468 |
+| 17 | [llcsanjar](https://github.com/llcsanjar) | Sanjar |  |  | Tajikistan | 443 |
+| 18 | [rustamovy9](https://github.com/rustamovy9) |  |  |  | Dushanbe,Tajikistan | 428 |
+| 19 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 419 |
+| 20 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov |  |  | Tajikistan, Khujand | 416 |

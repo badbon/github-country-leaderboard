@@ -1,6 +1,6 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-10T08:59:12.017Z
+Generated: 2026-10-10T10:33:09.288Z
 
 Users: 4899
 
@@ -13,11 +13,11 @@ Users: 4899
 | 5 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | FiftyFlowers |  | Ecuador | 9075 |
 | 6 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | WILDBIT |  | Guayaquil, Ecuador | 7955 |
 | 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7903 |
-| 8 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | @SantaPriscilaDevs  |  | Guayaquil, Ecuador | 7234 |
-| 9 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 6794 |
-| 10 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
-| 11 | [joffx](https://github.com/joffx) | Joffre Veloz | @fasterydev  |  | Ecuador | 6361 |
-| 12 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 6286 |
+| 8 | [StevSant](https://github.com/StevSant) | Bryan Menoscal | ULEAM |  | Ecuador, Manabi, Manta | 7246 |
+| 9 | [Neoterux](https://github.com/Neoterux) | Luis Andrés Bajaña F. | @SantaPriscilaDevs  |  | Guayaquil, Ecuador | 7234 |
+| 10 | [br-programmer](https://github.com/br-programmer) | Brayan Cantos |  | br_programmer | Ecuador | 6794 |
+| 11 | [alvarezmario](https://github.com/alvarezmario) | Mario A. Alvarez Garcia |  |  | Quito, Ecuador | 6554 |
+| 12 | [joffx](https://github.com/joffx) | Joffre Veloz | @fasterydev  |  | Ecuador | 6361 |
 | 13 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | @desarol | devrchancay | Ecuador, Guayaquil | 6275 |
 | 14 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Jiban Advanced Systems |  | Ecuador | 6081 |
 | 15 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza |  |  | Guayaquil, Ecuador | 6048 |

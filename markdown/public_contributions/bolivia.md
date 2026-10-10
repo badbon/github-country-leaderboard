@@ -1,6 +1,6 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-10T08:45:06.727Z
+Generated: 2026-10-10T10:20:59.938Z
 
 Users: 1786
 
@@ -19,10 +19,10 @@ Users: 1786
 | 11 | [ovidiocbba](https://github.com/ovidiocbba) | Simon Ovidio Miranda Chiri |  |  | Bolivia | 1448 |
 | 12 | [olivio-git](https://github.com/olivio-git) | olivio-git |  |  | Tarija/Bolivia | 1416 |
 | 13 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1307 |
-| 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
-| 15 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1219 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared SRL |  | Santa cruz de la sierra, Bolivia | 1106 |
-| 17 | [ospfranco](https://github.com/ospfranco) | Oscar Franco |  | ospfranco | Bolivia | 1081 |
-| 18 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |
-| 19 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez |  |  | Bolivia | 1021 |
-| 20 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 950 |
+| 14 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1225 |
+| 15 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
+| 16 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1219 |
+| 17 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared SRL |  | Santa cruz de la sierra, Bolivia | 1106 |
+| 18 | [ospfranco](https://github.com/ospfranco) | Oscar Franco |  | ospfranco | Bolivia | 1081 |
+| 19 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |
+| 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez |  |  | Bolivia | 1021 |

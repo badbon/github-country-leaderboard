@@ -20,8 +20,8 @@ Indexed users: 215
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,782 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,272 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,777 |
-| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,147 |
-| 10 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,146 |
+| 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,146 |
+| 10 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,143 |
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,857 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,739 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,932 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-10T08:38:53.559Z
+Generated: 2026-10-10T10:10:57.053Z
