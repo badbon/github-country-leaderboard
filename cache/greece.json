@@ -10844,7 +10844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 58,
     "createdAt": "2024-11-19T21:33:15Z"
   },
   {
@@ -10866,9 +10866,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 36,
     "createdAt": "2024-02-23T20:55:37Z"
   },
   {
@@ -10880,19 +10880,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 94,
     "createdAt": "2024-03-06T00:04:31Z"
   },
   {
     "login": "chrisdvz01",
-    "name": "chrisdvz.io",
+    "name": "chrisdvz.tech",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184845677?s=72&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "chrissouk_tech",
-    "followers": 1,
-    "privateContributions": 316,
-    "publicContributions": 15,
+    "followers": 3,
+    "privateContributions": 345,
+    "publicContributions": 31,
     "createdAt": "2024-10-13T14:46:30Z"
   },
   {
@@ -10903,8 +10903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 7,
+    "privateContributions": 53,
+    "publicContributions": 0,
     "createdAt": "2024-02-03T03:28:55Z"
   },
   {
@@ -10927,7 +10927,7 @@
     "company": "instashop",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 361,
+    "privateContributions": 382,
     "publicContributions": 0,
     "createdAt": "2024-06-17T08:43:34Z"
   },
@@ -10964,7 +10964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 67,
     "createdAt": "2024-05-19T07:04:26Z"
   },
   {
@@ -11053,14 +11053,14 @@
   },
   {
     "login": "G-S1lk",
-    "name": "Giorgos Metaxas",
+    "name": "Georgios Metaxas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184818821?s=72&u=b9564b783b92f21795c5bde7df48505be56512cf&v=4",
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 29,
     "createdAt": "2024-10-13T08:55:12Z"
   },
   {
@@ -11070,7 +11070,7 @@
     "location": "Athens, Greece",
     "company": "@vaultdesk-io",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 69,
     "publicContributions": 4,
     "createdAt": "2024-12-13T17:32:52Z"

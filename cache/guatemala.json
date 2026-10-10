@@ -10928,7 +10928,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-10-26T03:18:24Z"
   },
   {
@@ -10939,7 +10939,7 @@
     "company": "Programmer",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
+    "privateContributions": 148,
     "publicContributions": 0,
     "createdAt": "2020-12-30T18:51:42Z"
   },
@@ -10986,9 +10986,9 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 25,
     "createdAt": "2021-05-24T22:28:50Z"
   },
   {
@@ -11000,7 +11000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 113,
     "createdAt": "2021-10-26T05:18:43Z"
   },
   {
@@ -11012,7 +11012,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 15,
     "createdAt": "2021-03-01T13:34:30Z"
   },
   {
@@ -11023,8 +11023,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 142,
-    "publicContributions": 29,
+    "privateContributions": 234,
+    "publicContributions": 23,
     "createdAt": "2021-07-10T17:26:23Z"
   },
   {
@@ -11060,7 +11060,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 58,
     "createdAt": "2021-05-24T14:32:29Z"
   },
   {
@@ -11084,7 +11084,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-08-09T17:40:21Z"
   },
   {
@@ -11094,9 +11094,9 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 655,
-    "publicContributions": 841,
+    "followers": 3,
+    "privateContributions": 497,
+    "publicContributions": 794,
     "createdAt": "2021-04-11T01:18:17Z"
   },
   {
@@ -11108,7 +11108,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 8,
     "createdAt": "2021-03-27T20:13:35Z"
   },
   {
@@ -11120,7 +11120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 16,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2021-05-04T03:42:09Z"
   },
   {
@@ -30094,18 +30094,6 @@
     "privateContributions": 508,
     "publicContributions": 109,
     "createdAt": "2015-07-08T13:23:05Z"
-  },
-  {
-    "login": "xvimnt",
-    "name": "Javier Monterroso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14981793?s=72&u=5a24d64b15dd4bec0d7fe06bea1836fed8f65a32&v=4",
-    "location": "Guatemala",
-    "company": "MangoChango",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 9,
-    "createdAt": "2015-10-05T16:14:45Z"
   },
   {
     "login": "rolaescobar",

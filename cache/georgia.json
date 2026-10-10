@@ -10963,8 +10963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 112,
-    "publicContributions": 4,
+    "privateContributions": 197,
+    "publicContributions": 0,
     "createdAt": "2023-08-17T12:54:21Z"
   },
   {
@@ -10990,18 +10990,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-06-17T20:59:06Z"
-  },
-  {
-    "login": "Richierich69696",
-    "name": "Raj R",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138314544?s=72&u=6634b056d730b986a685eeb892aec4688d90f5b9&v=4",
-    "location": "Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 44,
-    "createdAt": "2023-07-01T15:47:57Z"
   },
   {
     "login": "r-zirotti",
@@ -11052,18 +11040,6 @@
     "createdAt": "2023-11-17T22:42:13Z"
   },
   {
-    "login": "NextLabsDevelopment",
-    "name": "Next Dev Labs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144915098?s=72&u=052cf427c93c2691125165bffc08ed8728acc71f&v=4",
-    "location": "Georgia/Batumi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-09-13T12:35:19Z"
-  },
-  {
     "login": "Limbo77",
     "name": "Vako",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141028093?s=72&u=e6718373b408cdf9bf39d26228c90ba05c6a5c93&v=4",
@@ -11106,7 +11082,7 @@
     "location": "Tbilisi, Georgia",
     "company": "giorgikapanadze222@gmail.com",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 188,
     "createdAt": "2023-05-29T12:24:05Z"
@@ -11192,7 +11168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2023-01-25T17:17:51Z"
   },
   {
@@ -82846,5 +82822,17 @@
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2026-06-07T19:32:27Z"
+  },
+  {
+    "login": "yuiauo",
+    "name": "Yuri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79303699?s=72&u=e2997c3d1d51c99a1f861438942bdb94c5301701&v=4",
+    "location": "Georgia, Batumi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 12,
+    "privateContributions": 8,
+    "publicContributions": 2,
+    "createdAt": "2021-02-19T07:38:27Z"
   }
 ]

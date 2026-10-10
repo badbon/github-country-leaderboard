@@ -10776,18 +10776,6 @@
     "createdAt": "2024-03-14T11:13:37Z"
   },
   {
-    "login": "zen0logy",
-    "name": "zen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182943989?s=72&u=02aebfa4f203b9f1e432587ea8cb5e2c0f9d4076&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 13,
-    "publicContributions": 1,
-    "createdAt": "2024-09-26T14:02:29Z"
-  },
-  {
     "login": "sevvicc",
     "name": "Vic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/190344782?s=72&u=5c3a20d537c49913e90df5167392012876bc8dab&v=4",
@@ -10796,20 +10784,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-12-02T08:23:37Z"
-  },
-  {
-    "login": "sascha-lr",
-    "name": "Sascha Larin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174216621?s=72&u=a37e70c410a98887fc3bbc75e5e68090f267718b&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 69,
-    "publicContributions": 139,
-    "createdAt": "2024-06-29T22:10:19Z"
   },
   {
     "login": "Tenson-Thekkumthala",
@@ -10831,7 +10807,7 @@
     "company": "A1",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 194,
+    "privateContributions": 195,
     "publicContributions": 0,
     "createdAt": "2024-04-07T09:57:33Z"
   },
@@ -10868,7 +10844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2024-08-02T11:19:13Z"
   },
   {
@@ -10891,8 +10867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 249,
-    "publicContributions": 58,
+    "privateContributions": 90,
+    "publicContributions": 30,
     "createdAt": "2024-08-31T10:47:29Z"
   },
   {
@@ -10928,7 +10904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 24,
     "createdAt": "2024-02-18T20:32:56Z"
   },
   {
@@ -10950,9 +10926,9 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2024-08-20T06:45:46Z"
   },
   {

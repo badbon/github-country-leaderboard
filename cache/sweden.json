@@ -9872,7 +9872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2025-08-27T18:41:59Z"
   },
   {
@@ -9883,7 +9883,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
+    "privateContributions": 10,
     "publicContributions": 7,
     "createdAt": "2025-04-28T09:59:28Z"
   },
@@ -9895,18 +9895,18 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 31,
-    "publicContributions": 109,
+    "privateContributions": 30,
+    "publicContributions": 105,
     "createdAt": "2025-08-13T18:52:50Z"
   },
   {
     "login": "jonssonrickard",
     "name": "Rickard Jonsson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228890518?s=72&u=6a7f19ae6e2752280bdd4597bf22b34dc2f4d684&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228890518?s=72&u=b86bae787da342cfba0dbf843b2140009f1a2cc7&v=4",
     "location": "Stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2025-08-27T08:27:14Z"
@@ -9914,13 +9914,13 @@
   {
     "login": "pytt156",
     "name": "Daniela Algerydh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228920518?s=72&u=be16f91ee35c8afec3455c9e95b7c2a9420a4056&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/228920518?s=72&u=a62c102c351f090c72ef2f91a2c733ee97d7a84e&v=4",
     "location": "Stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 312,
-    "publicContributions": 313,
+    "followers": 7,
+    "privateContributions": 360,
+    "publicContributions": 743,
     "createdAt": "2025-08-27T11:30:34Z"
   },
   {
@@ -9944,7 +9944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 68,
     "createdAt": "2025-03-23T12:47:47Z"
   },
   {
@@ -9980,7 +9980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-10-03T11:44:53Z"
   },
   {
@@ -9992,7 +9992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-09-01T09:43:49Z"
   },
   {
@@ -10002,7 +10002,7 @@
     "location": "Stockholm",
     "company": "Riksbank",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-07-24T15:15:56Z"
@@ -10016,7 +10016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-09-11T09:01:20Z"
   },
   {
@@ -10026,7 +10026,7 @@
     "location": "Stockholm",
     "company": "WildhWorks",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-31T09:06:04Z"
@@ -10052,20 +10052,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 220,
+    "publicContributions": 213,
     "createdAt": "2025-09-15T13:54:04Z"
-  },
-  {
-    "login": "wiiheise39",
-    "name": "Felix W",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205177094?s=72&v=4",
-    "location": "Stockholm",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 78,
-    "createdAt": "2025-03-27T12:23:33Z"
   },
   {
     "login": "Elvin554",
@@ -10087,8 +10075,8 @@
     "company": "Reputera",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1579,
-    "publicContributions": 191,
+    "privateContributions": 1735,
+    "publicContributions": 190,
     "createdAt": "2025-08-30T13:20:32Z"
   },
   {
@@ -10100,7 +10088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 142,
     "createdAt": "2025-10-06T13:32:29Z"
   },
   {

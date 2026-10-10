@@ -4819,7 +4819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 893,
+    "privateContributions": 871,
     "publicContributions": 128,
     "createdAt": "2016-11-16T11:09:44Z"
   },
@@ -4832,7 +4832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 99,
     "createdAt": "2016-05-19T09:04:54Z"
   },
   {
@@ -4879,7 +4879,7 @@
     "company": "Alodes",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 220,
+    "privateContributions": 228,
     "publicContributions": 25,
     "createdAt": "2016-03-09T09:19:38Z"
   },
@@ -4928,7 +4928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 64,
     "createdAt": "2016-06-13T13:21:03Z"
   },
   {
@@ -4986,8 +4986,8 @@
     "location": "Côte d'ivoire, Abidjan",
     "company": "@nascent-tech ",
     "twitterUsername": "houssenedao",
-    "followers": 248,
-    "privateContributions": 8691,
+    "followers": 247,
+    "privateContributions": 5672,
     "publicContributions": 155,
     "createdAt": "2015-11-27T16:18:19Z"
   },
@@ -4999,7 +4999,7 @@
     "company": "AFRICAN PERMANENT INNOVATIONS",
     "twitterUsername": "lordkkjmix",
     "followers": 37,
-    "privateContributions": 5601,
+    "privateContributions": 5608,
     "publicContributions": 7,
     "createdAt": "2015-06-29T23:51:56Z"
   },
@@ -5023,8 +5023,8 @@
     "company": "@djamoapp",
     "twitterUsername": "imolushola",
     "followers": 26,
-    "privateContributions": 1982,
-    "publicContributions": 25,
+    "privateContributions": 1970,
+    "publicContributions": 31,
     "createdAt": "2015-02-27T09:30:56Z"
   },
   {
@@ -5842,5 +5842,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-01T06:30:10Z"
+  },
+  {
+    "login": "TRAZIEBIJONATHAN",
+    "name": "TRAZIE BI JONATHAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286490551?s=72&u=0988fcdccfb79f48be6d1e35bdf7492dd003c819&v=4",
+    "location": "YAMOUSSOUKRO COTE D'IVOIRE ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-20T22:38:33Z"
   }
 ]

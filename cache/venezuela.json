@@ -10556,7 +10556,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2023-09-11T11:50:49Z"
   },
   {
@@ -10627,8 +10627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 279,
-    "publicContributions": 6,
+    "privateContributions": 307,
+    "publicContributions": 67,
     "createdAt": "2023-12-26T01:11:20Z"
   },
   {
@@ -10640,7 +10640,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2023-03-29T14:09:15Z"
   },
   {
@@ -10664,7 +10664,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 104,
     "createdAt": "2023-04-11T02:42:51Z"
   },
   {
@@ -10675,8 +10675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 270,
-    "publicContributions": 202,
+    "privateContributions": 280,
+    "publicContributions": 173,
     "createdAt": "2023-07-10T01:34:22Z"
   },
   {
@@ -10698,7 +10698,7 @@
     "location": "Venezuela",
     "company": "",
     "twitterUsername": "yampi_rap",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-03T20:01:52Z"
@@ -10730,13 +10730,13 @@
   {
     "login": "JuanDVP0303",
     "name": "Juan Villegas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122751680?s=72&u=a85ab43e2df4e190eb5e3a5a108be2e34e97b7eb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122751680?s=72&v=4",
     "location": "Venezuela ",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 22,
     "createdAt": "2023-01-15T20:32:40Z"
   },
   {
@@ -10746,22 +10746,10 @@
     "location": "Venezuela",
     "company": "Binaural",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-08-01T12:43:25Z"
-  },
-  {
-    "login": "Paul-Gonz",
-    "name": "Paul Gonzalez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153138214?s=72&v=4",
-    "location": "Barquisimeto, Venezuela",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 51,
-    "publicContributions": 37,
-    "createdAt": "2023-12-06T22:26:51Z"
   },
   {
     "login": "GonzalezM27",

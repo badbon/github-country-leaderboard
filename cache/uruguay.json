@@ -10724,7 +10724,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2022-05-16T20:01:38Z"
   },
   {
@@ -10736,7 +10736,7 @@
     "twitterUsername": "",
     "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2022-05-11T12:23:30Z"
   },
   {
@@ -10746,9 +10746,9 @@
     "location": "Punta del Este, Uruguay",
     "company": "@TataConsultancyServices",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 587,
     "createdAt": "2022-03-02T04:28:07Z"
   },
   {
@@ -10807,21 +10807,9 @@
     "company": "UKG",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 81,
+    "privateContributions": 82,
     "publicContributions": 0,
     "createdAt": "2022-01-24T16:34:33Z"
-  },
-  {
-    "login": "fede-bello",
-    "name": "Fede Bello",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101653254?s=72&u=59d2f6d3fa5e4f3616a59b977ccf78e3bdca408c&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "@tryolabs ",
-    "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 2850,
-    "publicContributions": 416,
-    "createdAt": "2022-03-15T14:55:34Z"
   },
   {
     "login": "CarolinaMolinaSosa",
@@ -10866,8 +10854,8 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 273,
+    "followers": 22,
+    "privateContributions": 239,
     "publicContributions": 0,
     "createdAt": "2022-01-07T02:04:56Z"
   },
@@ -10878,7 +10866,7 @@
     "location": "Montevideo, Uruguay",
     "company": "gon.mb3@gmail.com",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-29T17:22:42Z"
@@ -10902,7 +10890,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2022-05-25T15:44:08Z"
@@ -10914,8 +10902,8 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 164,
+    "followers": 22,
+    "privateContributions": 276,
     "publicContributions": 32,
     "createdAt": "2022-11-12T20:13:38Z"
   },
@@ -10927,20 +10915,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 42,
+    "privateContributions": 10,
+    "publicContributions": 43,
     "createdAt": "2022-03-23T11:52:59Z"
   },
   {
     "login": "gingerheart86",
-    "name": "",
+    "name": "Carolina",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100948227?s=72&u=0966517985f7fb10c97faf048b1f15ba903110a1&v=4",
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "gingerheart86",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 222,
     "createdAt": "2022-03-04T14:10:22Z"
   },
   {
@@ -10950,9 +10938,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 709,
-    "publicContributions": 240,
+    "followers": 19,
+    "privateContributions": 731,
+    "publicContributions": 352,
     "createdAt": "2022-04-27T17:27:19Z"
   },
   {
@@ -67510,5 +67498,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-24T21:08:50Z"
+  },
+  {
+    "login": "jorgelhd94",
+    "name": "Jorge Luis Hernández Dueñas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53158723?s=72&u=bdcbc68b4b838be6790c03646aebfe9ec2401878&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "JCode Studio",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 144,
+    "publicContributions": 156,
+    "createdAt": "2019-07-22T01:21:28Z"
   }
 ]

@@ -10591,8 +10591,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2,
-    "publicContributions": 32,
+    "privateContributions": 0,
+    "publicContributions": 13,
     "createdAt": "2021-08-23T04:28:20Z"
   },
   {
@@ -10616,7 +10616,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2021-03-09T16:13:04Z"
   },
   {
@@ -10640,7 +10640,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2021-10-26T19:51:54Z"
   },
   {
@@ -10674,7 +10674,7 @@
     "location": "San Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-02-23T02:47:10Z"
@@ -10754,13 +10754,13 @@
   {
     "login": "javalonso",
     "name": "Javier Calderón",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92068637?s=72&u=97623b9d087e469a4eebec1b610603f70f193fd9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/92068637?s=72&u=27011d876c6d5bd48494b7e7a925065a5bfec069&v=4",
     "location": "San Salvador",
     "company": "",
     "twitterUsername": "ninjavalonso",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 34,
     "createdAt": "2021-10-07T02:05:45Z"
   },
   {
@@ -10772,7 +10772,7 @@
     "twitterUsername": "",
     "followers": 70,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 97,
     "createdAt": "2020-01-22T02:55:22Z"
   },
   {
@@ -10782,9 +10782,9 @@
     "location": "San Salvador, El Salvador.",
     "company": "Promerica",
     "twitterUsername": "thebug404",
-    "followers": 58,
-    "privateContributions": 338,
-    "publicContributions": 80,
+    "followers": 54,
+    "privateContributions": 348,
+    "publicContributions": 71,
     "createdAt": "2020-04-27T18:29:06Z"
   },
   {
@@ -10794,9 +10794,9 @@
     "location": "El Salvador | Santa Ana",
     "company": "Internet Brands",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 51,
     "privateContributions": 4,
-    "publicContributions": 37,
+    "publicContributions": 54,
     "createdAt": "2020-10-23T03:36:21Z"
   },
   {
@@ -10806,9 +10806,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 49,
-    "privateContributions": 1533,
-    "publicContributions": 12,
+    "followers": 50,
+    "privateContributions": 1253,
+    "publicContributions": 4,
     "createdAt": "2020-03-26T21:35:09Z"
   },
   {

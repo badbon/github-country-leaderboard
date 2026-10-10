@@ -10927,7 +10927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 114,
+    "privateContributions": 107,
     "publicContributions": 10,
     "createdAt": "2023-03-09T11:50:02Z"
   },
@@ -10952,7 +10952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 108,
     "createdAt": "2023-12-14T06:07:19Z"
   },
   {
@@ -10963,21 +10963,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2059,
-    "publicContributions": 1965,
+    "privateContributions": 2831,
+    "publicContributions": 2226,
     "createdAt": "2023-07-09T08:40:56Z"
-  },
-  {
-    "login": "idankuz",
-    "name": "Idan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130619837?s=72&v=4",
-    "location": "Israel, Haifa area",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2023-04-13T01:06:10Z"
   },
   {
     "login": "ShaulKabla",
@@ -10987,7 +10975,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 520,
+    "privateContributions": 742,
     "publicContributions": 3,
     "createdAt": "2023-04-12T21:08:24Z"
   },
@@ -11011,7 +10999,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 270,
+    "privateContributions": 209,
     "publicContributions": 1,
     "createdAt": "2023-02-19T19:38:11Z"
   },
@@ -11083,7 +11071,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 78,
+    "privateContributions": 126,
     "publicContributions": 102,
     "createdAt": "2023-03-19T09:47:48Z"
   },
@@ -11108,7 +11096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 610,
+    "publicContributions": 146,
     "createdAt": "2023-08-26T08:00:24Z"
   },
   {
@@ -11130,9 +11118,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 2,
     "createdAt": "2023-11-23T18:09:39Z"
   },
   {

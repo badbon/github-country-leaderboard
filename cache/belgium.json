@@ -10784,7 +10784,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 251,
     "createdAt": "2023-08-21T13:55:50Z"
   },
   {
@@ -10807,7 +10807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 12,
+    "privateContributions": 14,
     "publicContributions": 90,
     "createdAt": "2023-08-25T17:43:39Z"
   },
@@ -10832,7 +10832,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 44,
     "createdAt": "2023-10-25T07:41:45Z"
   },
   {
@@ -10843,8 +10843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 185,
-    "publicContributions": 309,
+    "privateContributions": 199,
+    "publicContributions": 299,
     "createdAt": "2023-09-13T16:19:53Z"
   },
   {
@@ -10879,8 +10879,8 @@
     "company": "DV",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 208,
+    "privateContributions": 19,
+    "publicContributions": 115,
     "createdAt": "2022-12-30T08:49:29Z"
   },
   {
@@ -10927,8 +10927,8 @@
     "company": "Sparkle",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 412,
-    "publicContributions": 117,
+    "privateContributions": 101,
+    "publicContributions": 0,
     "createdAt": "2023-04-17T18:40:05Z"
   },
   {
@@ -10950,7 +10950,7 @@
     "location": "Ghent, Belgium",
     "company": "Timefold",
     "twitterUsername": "",
-    "followers": 378,
+    "followers": 381,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-16T07:32:44Z"
@@ -10963,8 +10963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 270,
-    "privateContributions": 7,
-    "publicContributions": 132,
+    "privateContributions": 4,
+    "publicContributions": 75,
     "createdAt": "2023-05-04T00:02:28Z"
   },
   {
@@ -10972,11 +10972,11 @@
     "name": "Aryan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/147063982?s=72&u=d5373ba1eed55f5f3604cf102bb4d3255191626b&v=4",
     "location": "Antwerp, Belgium",
-    "company": "Microsoft",
+    "company": "PwC",
     "twitterUsername": "",
-    "followers": 141,
-    "privateContributions": 640,
-    "publicContributions": 1340,
+    "followers": 133,
+    "privateContributions": 527,
+    "publicContributions": 1478,
     "createdAt": "2023-10-05T12:47:49Z"
   },
   {
@@ -10986,7 +10986,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 47,
+    "followers": 44,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-15T22:11:28Z"
@@ -10998,7 +10998,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 44,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-03T15:42:52Z"
@@ -11008,11 +11008,11 @@
     "name": "David Tanasescu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/136627966?s=72&u=098e50ce69e70e2c5afde9117793de2462c513ab&v=4",
     "location": "Aalter, East-Flanders, Belgium",
-    "company": "Open to work",
+    "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 1919,
-    "publicContributions": 87,
+    "privateContributions": 2096,
+    "publicContributions": 80,
     "createdAt": "2023-06-14T16:37:50Z"
   },
   {

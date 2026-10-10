@@ -10854,7 +10854,7 @@
     "location": "Havana, Cuba.",
     "company": "@freelancer-development-team , CUJAE",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-01T16:33:20Z"
@@ -10878,8 +10878,8 @@
     "location": "La Habana, Cuba",
     "company": "@cuban.engineer",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 70,
+    "followers": 26,
+    "privateContributions": 108,
     "publicContributions": 0,
     "createdAt": "2019-06-04T15:29:08Z"
   },
@@ -10890,8 +10890,8 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "LukeDalmau",
-    "followers": 23,
-    "privateContributions": 111,
+    "followers": 24,
+    "privateContributions": 89,
     "publicContributions": 8,
     "createdAt": "2019-07-05T14:31:06Z"
   },
@@ -10902,8 +10902,8 @@
     "location": "Havana, Cuba",
     "company": "@Dara-Services ",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 536,
+    "followers": 22,
+    "privateContributions": 295,
     "publicContributions": 0,
     "createdAt": "2019-09-05T19:40:43Z"
   },
@@ -10926,9 +10926,9 @@
     "location": "Habana, Cuba",
     "company": "Cubatel",
     "twitterUsername": "pedrydev",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2019-08-13T15:26:43Z"
   },
   {
@@ -10938,7 +10938,7 @@
     "location": "Havana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-05T11:30:43Z"
@@ -10952,7 +10952,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 258,
+    "publicContributions": 214,
     "createdAt": "2019-07-24T17:48:57Z"
   },
   {
@@ -10963,8 +10963,8 @@
     "company": "Central University \"Marta Abreu\" of Las Villas",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 98,
-    "publicContributions": 81,
+    "privateContributions": 88,
+    "publicContributions": 84,
     "createdAt": "2019-01-21T14:06:25Z"
   },
   {
@@ -10975,7 +10975,7 @@
     "company": "Elasbit",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 756,
+    "privateContributions": 633,
     "publicContributions": 0,
     "createdAt": "2019-03-08T23:49:48Z"
   },
@@ -10986,9 +10986,9 @@
     "location": "Havana, Cuba",
     "company": "University of Havana (Matcom)",
     "twitterUsername": "dorlando1997",
-    "followers": 14,
-    "privateContributions": 1723,
-    "publicContributions": 124,
+    "followers": 15,
+    "privateContributions": 1837,
+    "publicContributions": 386,
     "createdAt": "2019-11-27T02:13:36Z"
   },
   {
@@ -10998,21 +10998,21 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 19,
     "createdAt": "2019-05-15T20:40:38Z"
   },
   {
     "login": "AdriCQ",
     "name": "Adrian Capote Quintana",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48067864?s=72&u=307e1a430331297a6ea9aadce3d2162e863e1895&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/48067864?s=72&u=ee935e4e9dd810117f4f8dda0d14d34f9184fd7f&v=4",
     "location": "Cienfuegos, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 38,
     "createdAt": "2019-02-27T19:07:10Z"
   },
   {
@@ -11022,9 +11022,9 @@
     "location": "Cuba",
     "company": "Gorvet Estudios",
     "twitterUsername": "gorvetestudios",
-    "followers": 12,
-    "privateContributions": 110,
-    "publicContributions": 8,
+    "followers": 15,
+    "privateContributions": 289,
+    "publicContributions": 255,
     "createdAt": "2019-05-13T16:09:10Z"
   },
   {
@@ -11034,9 +11034,9 @@
     "location": "Havana,Cuba",
     "company": "GeekZoneStudio",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 53,
     "createdAt": "2019-05-30T14:23:21Z"
   },
   {
@@ -11046,22 +11046,10 @@
     "location": "La Habana, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 6,
     "createdAt": "2019-11-07T22:14:07Z"
-  },
-  {
-    "login": "jorgelhd94",
-    "name": "Jorge Luis Hernández Dueñas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53158723?s=72&u=a0dba7ec574ff99c2474c584da4229eaef2e2934&v=4",
-    "location": "Havana, Cuba",
-    "company": "JCode Studio",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 209,
-    "publicContributions": 115,
-    "createdAt": "2019-07-22T01:21:28Z"
   },
   {
     "login": "pedrocastellanos",
@@ -11071,8 +11059,8 @@
     "company": "Central University \"Marta Abreu\" of Las Villas",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 992,
-    "publicContributions": 267,
+    "privateContributions": 1180,
+    "publicContributions": 294,
     "createdAt": "2019-07-22T16:11:32Z"
   },
   {
@@ -11083,7 +11071,7 @@
     "company": "",
     "twitterUsername": "humber42",
     "followers": 8,
-    "privateContributions": 3,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2019-06-30T20:15:20Z"
   },
