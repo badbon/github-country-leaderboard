@@ -10220,7 +10220,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-08-17T09:35:55Z"
   },
   {
@@ -10243,8 +10243,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 118,
-    "publicContributions": 507,
+    "privateContributions": 105,
+    "publicContributions": 484,
     "createdAt": "2023-01-22T13:34:42Z"
   },
   {
@@ -10266,22 +10266,10 @@
     "location": "Sofia, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 43,
     "createdAt": "2023-07-15T11:27:02Z"
-  },
-  {
-    "login": "vivacumtechh",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129826011?s=72&u=9854e297cb2e18cadab3cdf0dba44f7c26eaa26a&v=4",
-    "location": "Bulgaria, Europe",
-    "company": "Stolen land",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2023-04-04T05:37:57Z"
   },
   {
     "login": "adimitrov04",
@@ -10290,7 +10278,7 @@
     "location": "Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-25T12:46:36Z"
@@ -10302,7 +10290,7 @@
     "location": "Burgas, Bulgaria",
     "company": "VSCPI",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2023-05-03T05:47:23Z"
@@ -10315,7 +10303,7 @@
     "company": "The HUB",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 45,
+    "privateContributions": 42,
     "publicContributions": 232,
     "createdAt": "2023-03-06T12:32:51Z"
   },
@@ -10328,7 +10316,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 250,
+    "publicContributions": 184,
     "createdAt": "2023-01-18T10:17:09Z"
   },
   {
@@ -10339,7 +10327,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 71,
+    "privateContributions": 51,
     "publicContributions": 67,
     "createdAt": "2023-04-25T08:21:17Z"
   },
@@ -10362,9 +10350,9 @@
     "location": "Sofia,Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-07-01T04:31:01Z"
   },
   {
@@ -10386,9 +10374,9 @@
     "location": "Bulgaria",
     "company": "TUES Co. Inc. Ltd.",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 4,
-    "publicContributions": 209,
+    "followers": 17,
+    "privateContributions": 9,
+    "publicContributions": 208,
     "createdAt": "2023-03-09T08:01:35Z"
   },
   {
@@ -10400,7 +10388,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 607,
+    "publicContributions": 604,
     "createdAt": "2023-04-25T17:14:25Z"
   },
   {
@@ -10420,7 +10408,7 @@
     "name": "Ivo Shindarski",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122814864?s=72&u=077a07ca5027663d46c6baf9768ac02a894e7657&v=4",
     "location": "Bulgaria",
-    "company": "Algotech",
+    "company": "Inensia",
     "twitterUsername": "ivoshindarsky",
     "followers": 8,
     "privateContributions": 0,
@@ -10447,8 +10435,8 @@
     "company": "Trigani EOOD",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 517,
-    "publicContributions": 168,
+    "privateContributions": 514,
+    "publicContributions": 198,
     "createdAt": "2023-04-28T15:33:36Z"
   },
   {

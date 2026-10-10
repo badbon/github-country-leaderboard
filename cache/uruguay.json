@@ -10028,7 +10028,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 1,
     "createdAt": "2023-02-12T23:41:52Z"
   },
   {
@@ -10064,31 +10064,31 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 124,
     "createdAt": "2023-04-20T15:17:11Z"
   },
   {
     "login": "genesshoan",
     "name": "Shoan Genes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154623839?s=72&u=e5eee5346781ea91dfcff51e42d6089e9bb4af6b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154623839?s=72&u=c7eb8ba1043ff34e9ef90783223fcea8b4b5de01&v=4",
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 284,
+    "followers": 3,
+    "privateContributions": 246,
+    "publicContributions": 220,
     "createdAt": "2023-12-22T17:23:18Z"
   },
   {
     "login": "cristianbarreiro",
-    "name": "Cristian Barreiro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122134947?s=72&u=006b5c4950821fcbf58c76b67475d571abf6b6cb&v=4",
+    "name": "Cristian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122134947?s=72&u=87c8d166bd259e1089ed1fbbab8db07a5daf7c3e&v=4",
     "location": "Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 777,
-    "publicContributions": 642,
+    "followers": 50,
+    "privateContributions": 862,
+    "publicContributions": 885,
     "createdAt": "2023-01-07T01:46:15Z"
   },
   {
@@ -10099,8 +10099,8 @@
     "company": "RA & TA @ IESTA",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 37,
-    "publicContributions": 32,
+    "privateContributions": 64,
+    "publicContributions": 24,
     "createdAt": "2023-05-19T23:03:08Z"
   },
   {
@@ -10110,9 +10110,9 @@
     "location": "Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 53,
     "createdAt": "2023-05-07T22:48:37Z"
   },
   {
@@ -10122,9 +10122,9 @@
     "location": "Montevideo",
     "company": "Sonda",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 40,
-    "publicContributions": 24,
+    "followers": 13,
+    "privateContributions": 17,
+    "publicContributions": 12,
     "createdAt": "2023-04-13T18:33:17Z"
   },
   {
@@ -10148,7 +10148,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2023-03-06T19:31:21Z"
   },
   {
@@ -10160,19 +10160,19 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1164,
+    "publicContributions": 1206,
     "createdAt": "2023-02-10T00:26:12Z"
   },
   {
     "login": "gastonjau",
     "name": "Gaston Jaurena",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132623094?s=72&u=4fb43ba681da54364235e65bb6417716fca4889d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132623094?s=72&u=202546dfcee3c6a126b599b3c7f7a782a13ce0ca&v=4",
     "location": "Montevideo",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 145,
     "createdAt": "2023-05-04T22:42:31Z"
   },
   {
@@ -10183,7 +10183,7 @@
     "company": "Jr. Developer",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 372,
+    "privateContributions": 169,
     "publicContributions": 0,
     "createdAt": "2023-07-15T01:20:59Z"
   },
@@ -10194,7 +10194,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-08T02:41:40Z"
@@ -10208,19 +10208,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 42,
     "createdAt": "2023-08-14T22:33:56Z"
   },
   {
     "login": "mqtissj",
     "name": "Matias Filgueiras",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130267233?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130267233?s=72&u=26a141ab3a5658200b430eb4469f6a5c13f5d8c5&v=4",
     "location": "Montevideo",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 128,
     "createdAt": "2023-04-09T03:55:24Z"
   },
   {
@@ -10232,7 +10232,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 4,
     "createdAt": "2023-03-29T02:50:50Z"
   },
   {

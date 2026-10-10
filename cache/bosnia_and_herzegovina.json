@@ -10004,7 +10004,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 157,
+    "publicContributions": 162,
     "createdAt": "2020-10-10T10:13:14Z"
   },
   {
@@ -10014,8 +10014,8 @@
     "location": "Tuzla, Bosnia & Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 608,
+    "followers": 3,
+    "privateContributions": 466,
     "publicContributions": 68,
     "createdAt": "2020-11-11T18:19:27Z"
   },
@@ -10026,7 +10026,7 @@
     "location": "Sarajevo,Bosnia nad Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-08T18:38:40Z"
@@ -10062,9 +10062,9 @@
     "location": "Mostar, Bosnia & Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 29,
     "createdAt": "2020-08-20T13:40:20Z"
   },
   {
@@ -10099,7 +10099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2020-03-19T10:13:59Z"
   },
@@ -10134,7 +10134,7 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2020-05-04T07:53:48Z"
@@ -10146,8 +10146,8 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 583,
+    "followers": 21,
+    "privateContributions": 606,
     "publicContributions": 0,
     "createdAt": "2020-09-27T10:37:56Z"
   },
@@ -10182,8 +10182,8 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 164,
+    "followers": 13,
+    "privateContributions": 155,
     "publicContributions": 1,
     "createdAt": "2020-09-18T21:54:35Z"
   },
@@ -10195,7 +10195,7 @@
     "company": "",
     "twitterUsername": "EdibDedic",
     "followers": 12,
-    "privateContributions": 207,
+    "privateContributions": 133,
     "publicContributions": 50,
     "createdAt": "2020-02-14T11:34:32Z"
   },
@@ -10206,22 +10206,10 @@
     "location": "Sarajevo",
     "company": "Tech387",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 2217,
-    "publicContributions": 9,
+    "followers": 13,
+    "privateContributions": 2350,
+    "publicContributions": 6,
     "createdAt": "2020-03-25T08:43:36Z"
-  },
-  {
-    "login": "efejzagic",
-    "name": "Emil Fejzagić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/72110236?s=72&u=3acf158876b195b229b243fb39d8dd5e92352b09&v=4",
-    "location": "Sarajevo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 582,
-    "publicContributions": 0,
-    "createdAt": "2020-09-29T22:54:28Z"
   },
   {
     "login": "emsad87",
@@ -10230,7 +10218,7 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "emsad87",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 206,
     "publicContributions": 0,
     "createdAt": "2020-10-01T19:02:33Z"

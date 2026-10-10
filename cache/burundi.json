@@ -1434,7 +1434,7 @@
     "location": "Burundi",
     "company": "Inkinolive",
     "twitterUsername": "kirogodye",
-    "followers": 82,
+    "followers": 81,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-06-28T12:13:59Z"
@@ -1459,7 +1459,7 @@
     "company": "Vortex Ltd.",
     "twitterUsername": "klauskira07",
     "followers": 45,
-    "privateContributions": 1785,
+    "privateContributions": 1787,
     "publicContributions": 312,
     "createdAt": "2021-10-11T12:47:36Z"
   },
@@ -1471,7 +1471,7 @@
     "company": "Mediabox",
     "twitterUsername": "bon_tertius",
     "followers": 35,
-    "privateContributions": 1270,
+    "privateContributions": 1269,
     "publicContributions": 32,
     "createdAt": "2021-04-06T13:57:54Z"
   },
@@ -1483,7 +1483,7 @@
     "company": "@hogiBurundi",
     "twitterUsername": "bimenyimana_b",
     "followers": 32,
-    "privateContributions": 200,
+    "privateContributions": 190,
     "publicContributions": 101,
     "createdAt": "2021-05-01T16:29:16Z"
   },
@@ -2806,5 +2806,29 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-12-09T10:05:09Z"
+  },
+  {
+    "login": "gabrie-good",
+    "name": "Butoyi Gabriel ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293141966?s=72&v=4",
+    "location": "Gitega ",
+    "company": "One x AI ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-12T15:17:58Z"
+  },
+  {
+    "login": "DSIEAE-MINEAGRIE",
+    "name": "DSIEAE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293845963?s=72&u=3b161b24dcdc1d64c04776047332b9bed7ada7ca&v=4",
+    "location": "Gitega",
+    "company": "MINEAGRIE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-15T11:42:42Z"
   }
 ]

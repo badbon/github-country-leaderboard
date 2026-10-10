@@ -9835,8 +9835,8 @@
     "company": "@mergado",
     "twitterUsername": "PatrikCelko",
     "followers": 3,
-    "privateContributions": 514,
-    "publicContributions": 186,
+    "privateContributions": 715,
+    "publicContributions": 183,
     "createdAt": "2021-02-02T04:28:15Z"
   },
   {
@@ -9858,9 +9858,9 @@
     "location": "Slovakia",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 167,
-    "privateContributions": 3,
-    "publicContributions": 101,
+    "followers": 160,
+    "privateContributions": 0,
+    "publicContributions": 100,
     "createdAt": "2021-06-24T13:27:33Z"
   },
   {
@@ -9870,9 +9870,9 @@
     "location": "Bratislava, Slovakia",
     "company": "amoledwatchfaces™",
     "twitterUsername": "amoledwfs",
-    "followers": 125,
+    "followers": 129,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 476,
     "createdAt": "2021-10-07T07:29:00Z"
   },
   {
@@ -9884,7 +9884,7 @@
     "twitterUsername": "",
     "followers": 52,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 236,
     "createdAt": "2021-09-21T12:41:45Z"
   },
   {
@@ -9892,11 +9892,11 @@
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/90271108?s=72&u=442c23d8064f1df2d45630ee855beb0cf6fcf8e0&v=4",
     "location": "Slovakia",
-    "company": "@sceenly",
+    "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 614,
-    "publicContributions": 9,
+    "followers": 33,
+    "privateContributions": 1036,
+    "publicContributions": 15,
     "createdAt": "2021-09-07T15:42:23Z"
   },
   {
@@ -9907,8 +9907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 164,
-    "publicContributions": 45,
+    "privateContributions": 131,
+    "publicContributions": 80,
     "createdAt": "2021-03-16T15:59:53Z"
   },
   {
@@ -9920,7 +9920,7 @@
     "twitterUsername": "gerbel_jakub",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 63,
     "createdAt": "2021-07-08T22:06:37Z"
   },
   {
@@ -9930,8 +9930,8 @@
     "location": "Kolárovo,Slovakia",
     "company": "@jkk-research ",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 1223,
+    "followers": 25,
+    "privateContributions": 1256,
     "publicContributions": 12,
     "createdAt": "2021-01-08T21:09:03Z"
   },
@@ -9940,10 +9940,10 @@
     "name": "Nikolai Lazovatskii",
     "avatarUrl": "https://avatars.githubusercontent.com/u/84211815?s=72&u=b6896fccf262eabf5fd0efdb22935a2b5e358420&v=4",
     "location": "Bratislava, Slovakia",
-    "company": "Comenius University",
+    "company": "Innovatrics",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 259,
+    "followers": 23,
+    "privateContributions": 213,
     "publicContributions": 52,
     "createdAt": "2021-05-15T00:40:04Z"
   },
@@ -9954,7 +9954,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "megafrenk",
-    "followers": 21,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-12T13:35:11Z"
@@ -9962,26 +9962,14 @@
   {
     "login": "fluffysnaff",
     "name": "fluffysnaff",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85960635?s=72&u=80b0acc8d3a9a75b3749f384c099b6131da76603&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/85960635?s=72&u=6c238cfb3fb70fc2f25bb364c66d76837a02e8c0&v=4",
     "location": "Slovakia",
     "company": "@krxclient",
     "twitterUsername": "fluffysnaf",
-    "followers": 21,
-    "privateContributions": 9,
-    "publicContributions": 41,
+    "followers": 23,
+    "privateContributions": 6,
+    "publicContributions": 30,
     "createdAt": "2021-06-15T18:08:23Z"
-  },
-  {
-    "login": "BlobDeveloper",
-    "name": "BlobDev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91900809?s=72&u=fe5ace7c027211fb554ba1a5f1007035faaf6bf0&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 19,
-    "publicContributions": 1,
-    "createdAt": "2021-10-04T15:07:08Z"
   },
   {
     "login": "realmikesolo",
@@ -9990,9 +9978,9 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "realmikesolo",
-    "followers": 18,
-    "privateContributions": 106,
-    "publicContributions": 12,
+    "followers": 19,
+    "privateContributions": 23,
+    "publicContributions": 8,
     "createdAt": "2021-07-09T18:46:34Z"
   },
   {
@@ -10002,9 +9990,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 91,
     "createdAt": "2021-04-02T08:16:03Z"
   },
   {
@@ -10014,9 +10002,9 @@
     "location": "Bratislava, Slovakia",
     "company": "FIIT STU",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 2230,
-    "publicContributions": 369,
+    "followers": 18,
+    "privateContributions": 3220,
+    "publicContributions": 320,
     "createdAt": "2021-09-13T06:17:31Z"
   },
   {
@@ -10026,9 +10014,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 165,
     "createdAt": "2021-04-16T11:01:22Z"
   },
   {

@@ -4422,7 +4422,7 @@
     "location": "Burkina Faso",
     "company": "@totaljs ",
     "twitterUsername": "LouisBertson",
-    "followers": 168,
+    "followers": 169,
     "privateContributions": 577,
     "publicContributions": 70,
     "createdAt": "2019-11-28T11:10:16Z"
@@ -4436,7 +4436,7 @@
     "twitterUsername": "",
     "followers": 97,
     "privateContributions": 245,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2019-05-03T09:35:53Z"
   },
   {
@@ -4471,7 +4471,7 @@
     "company": "Orange Burkina Faso SA",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 86,
+    "privateContributions": 113,
     "publicContributions": 0,
     "createdAt": "2019-10-17T07:55:58Z"
   },
@@ -4507,7 +4507,7 @@
     "company": "Le Kimbi Créatif",
     "twitterUsername": "leKimbiCreatif",
     "followers": 8,
-    "privateContributions": 1469,
+    "privateContributions": 1451,
     "publicContributions": 5,
     "createdAt": "2019-11-25T17:50:32Z"
   },
@@ -5818,5 +5818,29 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-05-25T11:58:48Z"
+  },
+  {
+    "login": "segolenetraore",
+    "name": "TRAORE L.A Ségolène",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294780412?s=72&u=36a3f16b3cabe9fce26660be91183f5dd47add32&v=4",
+    "location": "Ouagadougou, Burkina Faso",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 90,
+    "createdAt": "2026-06-18T10:10:48Z"
+  },
+  {
+    "login": "szidama",
+    "name": "@zidama",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291914653?s=72&v=4",
+    "location": "Burkina Faso",
+    "company": "Kagnytic Solution",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-08T20:59:28Z"
   }
 ]

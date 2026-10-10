@@ -10086,9 +10086,9 @@
     "location": "Brussels",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 450,
-    "publicContributions": 245,
+    "followers": 5,
+    "privateContributions": 435,
+    "publicContributions": 203,
     "createdAt": "2024-05-15T21:00:29Z"
   },
   {
@@ -10112,7 +10112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 20,
     "createdAt": "2024-01-22T08:18:33Z"
   },
   {
@@ -10136,20 +10136,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2024-11-12T09:48:44Z"
-  },
-  {
-    "login": "iamirtasam",
-    "name": "Irtasam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/172026543?s=72&u=9e09f23785d1e540f15b3ed3cc97b949d99eea16&v=4",
-    "location": "Brussels",
-    "company": "Vrije Universiteit",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 3994,
-    "publicContributions": 186,
-    "createdAt": "2024-06-07T09:26:25Z"
   },
   {
     "login": "k3l0-dev",
@@ -10158,9 +10146,9 @@
     "location": "Brussels",
     "company": "Monark AIOPS srl",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 28,
     "createdAt": "2024-01-27T07:15:50Z"
   },
   {
@@ -10171,8 +10159,8 @@
     "company": "Cohabs",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 8173,
-    "publicContributions": 65,
+    "privateContributions": 7483,
+    "publicContributions": 69,
     "createdAt": "2024-03-07T13:54:23Z"
   },
   {
@@ -10196,7 +10184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 44,
     "createdAt": "2024-02-26T13:13:52Z"
   },
   {
@@ -10268,7 +10256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 40,
     "createdAt": "2024-10-04T07:24:24Z"
   },
   {
@@ -10282,18 +10270,6 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-10-26T15:38:10Z"
-  },
-  {
-    "login": "hd-club",
-    "name": "Oxii",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159828702?s=72&v=4",
-    "location": "Brussels",
-    "company": "HDC",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2024-02-12T20:06:52Z"
   },
   {
     "login": "borisverhaegenepfc",
@@ -10316,7 +10292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 260,
+    "publicContributions": 315,
     "createdAt": "2024-09-20T19:30:06Z"
   },
   {

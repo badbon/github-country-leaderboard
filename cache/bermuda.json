@@ -9883,8 +9883,8 @@
     "company": "@squareup ",
     "twitterUsername": "mattgrande",
     "followers": 12,
-    "privateContributions": 4641,
-    "publicContributions": 3,
+    "privateContributions": 5965,
+    "publicContributions": 4,
     "createdAt": "2011-07-19T17:28:44Z"
   },
   {
@@ -9896,7 +9896,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 343,
+    "publicContributions": 325,
     "createdAt": "2011-04-12T15:49:24Z"
   },
   {
@@ -9930,9 +9930,9 @@
     "location": "Toronto & Hamilton Ontario Canada",
     "company": "",
     "twitterUsername": "craighagerman",
-    "followers": 7,
-    "privateContributions": 1928,
-    "publicContributions": 22,
+    "followers": 6,
+    "privateContributions": 1785,
+    "publicContributions": 34,
     "createdAt": "2011-06-13T15:56:57Z"
   },
   {
@@ -9978,7 +9978,7 @@
     "location": "Hamilton",
     "company": "MCL",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2011-06-04T13:59:35Z"
@@ -9990,9 +9990,9 @@
     "location": "Hamilton, NZ",
     "company": "Voyce",
     "twitterUsername": "nzduck",
-    "followers": 4,
-    "privateContributions": 768,
-    "publicContributions": 24,
+    "followers": 3,
+    "privateContributions": 996,
+    "publicContributions": 8,
     "createdAt": "2011-09-04T00:28:01Z"
   },
   {
@@ -10003,8 +10003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1416,
-    "publicContributions": 2,
+    "privateContributions": 1517,
+    "publicContributions": 1,
     "createdAt": "2011-02-02T17:34:02Z"
   },
   {
@@ -10059,12 +10059,12 @@
     "login": "Mohamed-M",
     "name": "Mohamed M.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/998414?s=72&u=1b9804d4abf6bcee4e89eefb23312ffba98eed21&v=4",
-    "location": "Ottawa/Hamilton",
+    "location": "Hamilton",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2011-08-23T08:39:25Z"
   },
   {
@@ -10112,7 +10112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2011-04-08T14:52:15Z"
   },
   {
@@ -10810,5 +10810,17 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-05-17T21:49:00Z"
+  },
+  {
+    "login": "Lanxi-Li",
+    "name": "Lanxi Li",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285564048?s=72&u=bfa3bff1fddc4d6bd62ef4416894674dc3305902&v=4",
+    "location": "Hamilton",
+    "company": "University of Waikato",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-05-18T04:06:46Z"
   }
 ]

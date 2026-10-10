@@ -9818,13 +9818,13 @@
   {
     "login": "contractaddress",
     "name": "Fenghuang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174909959?s=72&u=6b08b7221842baac3cf022c15f4b71dd9c3f8ec8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174909959?s=72&u=452ceb091b9b3cc2c7460ca1e22b479dd48554e1&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 286,
     "createdAt": "2024-07-06T22:07:55Z"
   },
   {
@@ -9836,13 +9836,13 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 48,
-    "publicContributions": 280,
+    "publicContributions": 245,
     "createdAt": "2024-05-23T16:44:38Z"
   },
   {
     "login": "RahulGurungWork",
     "name": "Rahul Gurung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169965846?s=72&u=1132ab1cad81d6fc23d89a853ea937f4ee506b53&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169965846?s=72&u=5df519327ca9fb03a2d5fe0c7b1662f8d61f6457&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
@@ -9860,7 +9860,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 39,
     "createdAt": "2024-03-21T10:20:08Z"
   },
   {
@@ -9906,9 +9906,9 @@
     "location": "Bern, Switzerland",
     "company": "1210 AG",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2024-10-13T16:57:54Z"
   },
   {
@@ -9932,7 +9932,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 3,
-    "publicContributions": 173,
+    "publicContributions": 198,
     "createdAt": "2024-06-30T18:25:07Z"
   },
   {
@@ -10028,7 +10028,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 247,
     "createdAt": "2024-06-19T15:47:59Z"
   },
   {
@@ -10051,7 +10051,7 @@
     "company": "Spottedge.app",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 196,
+    "privateContributions": 171,
     "publicContributions": 0,
     "createdAt": "2024-02-20T10:01:31Z"
   },
@@ -288946,5 +288946,17 @@
     "privateContributions": 395,
     "publicContributions": 107,
     "createdAt": "2023-03-19T12:01:02Z"
+  },
+  {
+    "login": "m83z",
+    "name": "ZABARA Mohammed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71450013?s=72&v=4",
+    "location": "Switzerland",
+    "company": "Freelancer",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2020-09-17T14:15:41Z"
   }
 ]
