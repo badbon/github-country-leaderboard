@@ -1,8 +1,8 @@
 # Followers - Montenegro
 
-Generated: 2026-10-10T06:26:25.455Z
+Generated: 2026-10-10T07:59:31.348Z
 
-Users: 892
+Users: 891
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,8 +14,8 @@ Users: 892
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Fullstack Technologies | red_lang | Montenegro | 334 |
 | 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina |  |  | Podgorica, Montenegro | 231 |
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 194 |
-| 9 | [cblp](https://github.com/cblp) | Yuriy Syrovetskiy |  |  | Montenegro | 142 |
-| 10 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 140 |
+| 9 | [sondreb](https://github.com/sondreb) | SondreB | @nostria-app @block-core @Liberstad | sondreb | Bar, Montenegro | 144 |
+| 10 | [cblp](https://github.com/cblp) | Yuriy Syrovetskiy |  |  | Montenegro | 142 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk |  | awkravchuk | Montenegro, Podgorica | 138 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Yandex |  | Tivat, Montenegro | 132 |
 | 13 | [mifth](https://github.com/mifth) | mifth |  |  | Montenegro | 130 |

@@ -1,13 +1,13 @@
 # Followers - Saint Vincent and the Grenadines
 
-Generated: 2026-10-10T06:43:56.437Z
+Generated: 2026-10-10T08:16:15.967Z
 
 Users: 26
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | Axiom Data Science, LLC |  | South Kingstown, RI | 26 |
-| 2 | [colorstheforce](https://github.com/colorstheforce) | ColorsTheForce | @EpicGames |  | North Kingstown | 15 |
+| 2 | [colorstheforce](https://github.com/colorstheforce) | ColorsTheForce | @EpicGames |  | North Kingstown | 14 |
 | 3 | [lihadaway](https://github.com/lihadaway) | Leslie |  |  | Saint Vincent and the Grenadines | 14 |
 | 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel |  |  | Saint Vincent and the Grenadines | 10 |
 | 5 | [kazar4](https://github.com/kazar4) | Kazen Gallman |  |  | North Kingstown, Rhode Island | 9 |

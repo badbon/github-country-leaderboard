@@ -26,8 +26,8 @@ Indexed users: 715
 | 12 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 4,881 |
 | 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,107 |
 | 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 3,875 |
-| 15 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,791 |
-| 16 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,701 |
+| 15 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,798 |
+| 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,791 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,696 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,270 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,201 |
@@ -83,4 +83,4 @@ Indexed users: 715
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-10T06:23:52.738Z
+Generated: 2026-10-10T07:57:06.618Z

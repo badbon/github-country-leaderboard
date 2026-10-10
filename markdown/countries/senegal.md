@@ -47,7 +47,7 @@ Indexed users: 1,359
 | 8 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,661 |
 | 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,655 |
 | 10 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,623 |
-| 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,452 |
+| 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,583 |
 | 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,315 |
 | 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
 | 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,220 |
@@ -83,4 +83,4 @@ Indexed users: 1,359
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 | 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 
-Generated: 2026-10-10T06:44:25.211Z
+Generated: 2026-10-10T08:18:59.132Z

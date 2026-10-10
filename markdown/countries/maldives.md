@@ -28,7 +28,7 @@ Indexed users: 354
 | 14 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,685 |
 | 15 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 4,485 |
 | 16 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,445 |
-| 17 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,280 |
+| 17 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,407 |
 | 18 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,190 |
 | 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,151 |
 | 20 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,101 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-10T06:22:01.925Z
+Generated: 2026-10-10T07:54:59.641Z

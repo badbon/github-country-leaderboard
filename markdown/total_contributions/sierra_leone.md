@@ -1,13 +1,13 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-10T06:45:36.369Z
+Generated: 2026-10-10T08:20:39.676Z
 
 Users: 443
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 8370 |
-| 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 5785 |
+| 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 5764 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 5435 |
 | 4 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | TEKI-SL | Georges_mindset | Sierra Leone, West Africa | 5425 |
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 5043 |

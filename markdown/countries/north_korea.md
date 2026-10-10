@@ -15,14 +15,14 @@ Indexed users: 185
 | 1 | [Kim9wang](https://github.com/Kim9wang) | Kim Wang | Pyongyang | 5,771 |
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 4,989 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | pyongyang | 3,759 |
-| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,487 |
+| 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | North Korea | 2,479 |
 | 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew | North Korea | 1,458 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,262 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,053 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 766 |
 | 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 666 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
-| 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 565 |
+| 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 567 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Pyongyang | 506 |
 | 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 490 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-10T06:29:44.997Z
+Generated: 2026-10-10T08:07:59.068Z

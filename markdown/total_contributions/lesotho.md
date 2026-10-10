@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-10T06:14:54.979Z
+Generated: 2026-10-10T07:52:37.361Z
 
 Users: 160
 
@@ -11,7 +11,7 @@ Users: 160
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 2260 |
 | 4 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 2033 |
 | 5 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 1944 |
-| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1022 |
+| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1017 |
 | 7 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | AliansImperium PTY LTD | MRamokhele | Maseru | 834 |
 | 8 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 821 |
 | 9 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi |  | _Moremi_ | Maseru | 705 |
@@ -20,9 +20,9 @@ Users: 160
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple |  | misspurple | Lesotho  | 430 |
 | 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 343 |
-| 15 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 325 |
-| 16 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 295 |
-| 17 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 290 |
+| 15 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 295 |
+| 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 290 |
+| 17 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 272 |
 | 18 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 261 |
-| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 251 |
+| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 249 |
 | 20 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 226 |

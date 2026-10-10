@@ -1,13 +1,13 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-10T06:20:21.833Z
+Generated: 2026-10-10T07:54:52.316Z
 
-Users: 901
+Users: 900
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | INFI-TECH(Infinity Technologies Inc) @InfinityCodeMw  as well as @talents2germany |  | Malawi | 13606 |
-| 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 10745 |
+| 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 10316 |
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7351 |
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6166 |
 | 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 5960 |
@@ -24,5 +24,5 @@ Users: 901
 | 16 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
 | 17 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
 | 18 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |
-| 19 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3127 |
-| 20 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | EvanieWares | EvanieWares | Malawi | 3055 |
+| 19 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | EvanieWares | EvanieWares | Malawi | 3055 |
+| 20 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 3044 |

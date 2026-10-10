@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-10T06:16:36.753Z
+Generated: 2026-10-10T07:52:43.824Z
 
 Users: 742
 
@@ -20,9 +20,9 @@ Users: 742
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh |  |  | Libya | 6766 |
 | 13 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Software Pioneers |  | Zawia, Libya | 6136 |
 | 14 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Bithive | AMahidwei | Libya | 6082 |
-| 15 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 6016 |
+| 15 | [x414i](https://github.com/x414i) | Mohamed S. Belaid |  |  | Libya/Misrata | 5995 |
 | 16 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 5640 |
 | 17 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela |  |  | Libya | 5516 |
-| 18 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5149 |
+| 18 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 5158 |
 | 19 | [EngGharbia](https://github.com/EngGharbia) | Ben Gharbia |  |  | Tripoli-Libya | 4886 |
 | 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | @libyanspider |  | Libya | 4712 |

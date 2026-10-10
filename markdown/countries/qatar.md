@@ -1,6 +1,6 @@
 # Qatar
 
-Indexed users: 1,075
+Indexed users: 1,076
 
 | Leaderboard | Link |
 |---|---|
@@ -81,6 +81,6 @@ Indexed users: 1,075
 | 17 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor | Al-Rayyan, Qatar | 107 |
 | 18 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 | 19 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 99 |
-| 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 91 |
+| 20 | [gracekabaghe](https://github.com/gracekabaghe) | Grace Kabaghe | Qatar | 92 |
 
-Generated: 2026-10-10T06:39:17.777Z
+Generated: 2026-10-10T08:12:07.937Z

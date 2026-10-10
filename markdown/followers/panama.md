@@ -1,6 +1,6 @@
 # Followers - Panama
 
-Generated: 2026-10-09T18:39:07.611Z
+Generated: 2026-10-10T08:09:32.467Z
 
 Users: 1071
 
@@ -17,8 +17,8 @@ Users: 1071
 | 9 | [Dandush03](https://github.com/Dandush03) | Daniel Laloush | Freelance |  | Panama | 67 |
 | 10 | [DottieDot](https://github.com/DottieDot) | Taran |  |  | Panama | 64 |
 | 11 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 61 |
-| 12 | [Yizack](https://github.com/Yizack) | Yizack Rangel | MailChannels | YizackR | Panama | 61 |
-| 13 | [muniter](https://github.com/muniter) | Javier Lopez |  |  | Panama, Panama City | 58 |
+| 12 | [muniter](https://github.com/muniter) | Javier Lopez |  |  | Panama, Panama City | 61 |
+| 13 | [Yizack](https://github.com/Yizack) | Yizack Rangel | MailChannels | YizackR | Panama | 61 |
 | 14 | [ibarria0](https://github.com/ibarria0) | Ivan Barria |  |  | Panama | 57 |
 | 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Eprezto.com |  | Panama | 56 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia |  |  | Panama City, Panama | 54 |

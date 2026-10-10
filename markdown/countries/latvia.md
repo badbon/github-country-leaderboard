@@ -48,14 +48,14 @@ Indexed users: 3,274
 | 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
 | 10 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
 | 11 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,634 |
-| 12 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq | Riga, Latvia | 1,551 |
-| 13 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
-| 14 | [andis-sprinkis](https://github.com/andis-sprinkis) | Andis Spriņķis | Latvia | 1,497 |
-| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
-| 16 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
-| 17 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
-| 18 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,262 |
-| 19 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,231 |
+| 12 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
+| 13 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq | Riga, Latvia | 1,551 |
+| 14 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
+| 15 | [andis-sprinkis](https://github.com/andis-sprinkis) | Andis Spriņķis | Latvia | 1,497 |
+| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
+| 17 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
+| 18 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
+| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,262 |
 | 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Latvia, Riga | 1,214 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 3,274
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-10T06:14:50.001Z
+Generated: 2026-10-10T07:51:53.642Z

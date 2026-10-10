@@ -1,8 +1,8 @@
 # Followers - Malawi
 
-Generated: 2026-10-10T06:20:21.833Z
+Generated: 2026-10-10T07:54:52.316Z
 
-Users: 901
+Users: 900
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 901
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  |  |  Malawi | 1439 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom |  |  | Blantyre , Malawi | 769 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | @HashTag-Technologies-Limited  | Marhardal | Lilongwe Malaŵi  | 562 |
-| 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 479 |
+| 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 483 |
 | 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe |  |  | Blantyre, MALAWI | 367 |
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 303 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe |  | Cardkess | Blantyre, MALAWI | 292 |

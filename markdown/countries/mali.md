@@ -25,7 +25,7 @@ Indexed users: 347
 | 11 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,226 |
 | 12 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,142 |
 | 13 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,006 |
-| 14 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,956 |
+| 14 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,951 |
 | 15 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,948 |
 | 16 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,947 |
 | 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,679 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-10T06:22:33.202Z
+Generated: 2026-10-10T07:55:02.693Z

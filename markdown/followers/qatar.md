@@ -1,8 +1,8 @@
 # Followers - Qatar
 
-Generated: 2026-10-10T06:39:17.777Z
+Generated: 2026-10-10T08:12:07.937Z
 
-Users: 1075
+Users: 1076
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1075
 | 17 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor |  |  | Al-Rayyan, Qatar | 107 |
 | 18 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Software Engineer | brainconnect0 | Al-Wakrah, Qatar | 100 |
 | 19 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 99 |
-| 20 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman |  |  | Doha, Qatar | 91 |
+| 20 | [gracekabaghe](https://github.com/gracekabaghe) | Grace Kabaghe | @microverseinc  |  | Qatar | 92 |

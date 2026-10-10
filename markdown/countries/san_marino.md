@@ -12,14 +12,14 @@ Indexed users: 61
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 12,076 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 12,435 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,687 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,207 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,150 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,313 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,282 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,176 |
-| 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,071 |
+| 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 2,074 |
 | 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 883 |
 | 10 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 755 |
 | 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 747 |
@@ -37,7 +37,7 @@ Indexed users: 61
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,232 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 4,236 |
 | 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | San Marino | 883 |
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 489 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 311 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-10T06:44:00.454Z
+Generated: 2026-10-10T08:17:55.912Z

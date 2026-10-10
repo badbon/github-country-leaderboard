@@ -26,7 +26,7 @@ Indexed users: 476
 | 12 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,510 |
 | 13 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,419 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,267 |
-| 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,242 |
+| 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,235 |
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,194 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,976 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,897 |
@@ -41,7 +41,7 @@ Indexed users: 476
 | 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 3,135 |
 | 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 2,237 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,890 |
-| 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,507 |
+| 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,500 |
 | 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,251 |
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,178 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | Windhoek | 679 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-10T06:27:57.003Z
+Generated: 2026-10-10T08:03:44.274Z

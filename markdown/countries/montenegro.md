@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 892
+Indexed users: 891
 
 | Leaderboard | Link |
 |---|---|
@@ -16,7 +16,7 @@ Indexed users: 892
 | 2 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 13,532 |
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 13,529 |
 | 4 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,397 |
-| 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,230 |
+| 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,289 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,639 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,487 |
 | 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,223 |
@@ -39,7 +39,7 @@ Indexed users: 892
 |---:|---|---|---|---:|
 | 1 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 13,529 |
 | 2 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 10,563 |
-| 3 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,160 |
+| 3 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,068 |
 | 4 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 4,856 |
 | 5 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 4,251 |
 | 6 | [KonstZiv](https://github.com/KonstZiv) | Константин Зивенко | Montenegro, Herzeg-Novi | 3,474 |
@@ -70,8 +70,8 @@ Indexed users: 892
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Montenegro | 334 |
 | 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina | Podgorica, Montenegro | 231 |
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 194 |
-| 9 | [cblp](https://github.com/cblp) | Yuriy Syrovetskiy | Montenegro | 142 |
-| 10 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 140 |
+| 9 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 144 |
+| 10 | [cblp](https://github.com/cblp) | Yuriy Syrovetskiy | Montenegro | 142 |
 | 11 | [lockie](https://github.com/lockie) | Andrew Kravchuk | Montenegro, Podgorica | 138 |
 | 12 | [arikon](https://github.com/arikon) | Sergey Belov | Tivat, Montenegro | 132 |
 | 13 | [mifth](https://github.com/mifth) | mifth | Montenegro | 130 |
@@ -83,4 +83,4 @@ Indexed users: 892
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-10T06:26:25.455Z
+Generated: 2026-10-10T07:59:31.348Z

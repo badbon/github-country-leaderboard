@@ -26,10 +26,10 @@ Indexed users: 742
 | 12 | [Salehahmedeus](https://github.com/Salehahmedeus) | Ahmed Saleh | Libya | 6,766 |
 | 13 | [swe-sanad](https://github.com/swe-sanad) | Sanad AlArousi | Zawia, Libya | 6,136 |
 | 14 | [Flat-Duck](https://github.com/Flat-Duck) | A.Mahidwei | Libya | 6,082 |
-| 15 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 6,016 |
+| 15 | [x414i](https://github.com/x414i) | Mohamed S. Belaid | Libya/Misrata | 5,995 |
 | 16 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 5,640 |
 | 17 | [AliAgela-dev](https://github.com/AliAgela-dev) | Ali Agela | Libya | 5,516 |
-| 18 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,149 |
+| 18 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 5,158 |
 | 19 | [EngGharbia](https://github.com/EngGharbia) | Ben Gharbia | Tripoli-Libya | 4,886 |
 | 20 | [erabti](https://github.com/erabti) | Ahmed Erabti | Libya | 4,712 |
 
@@ -40,9 +40,9 @@ Indexed users: 742
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,233 |
 | 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,471 |
 | 3 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,085 |
-| 4 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,065 |
+| 4 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,062 |
 | 5 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  | libya | 1,020 |
-| 6 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Tripoli, Libya | 701 |
+| 6 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Tripoli, Libya | 704 |
 | 7 | [azzubairx](https://github.com/azzubairx) | Azzubair | Libya | 683 |
 | 8 | [hazembook](https://github.com/hazembook) | Hazem Shaban | Libya | 665 |
 | 9 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Misurata, Libya | 655 |
@@ -83,4 +83,4 @@ Indexed users: 742
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-10T06:16:36.753Z
+Generated: 2026-10-10T07:52:43.824Z

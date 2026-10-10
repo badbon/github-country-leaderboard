@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-10T07:07:20.935Z
+Generated: 2026-10-10T07:57:17.247Z
 
 Users: 1758
 
@@ -20,9 +20,9 @@ Users: 1758
 | 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
 | 13 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
 | 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 4546 |
-| 15 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
-| 16 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4435 |
-| 17 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 4220 |
-| 18 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |
-| 19 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4084 |
-| 20 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 4079 |
+| 15 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 4461 |
+| 16 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
+| 17 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4435 |
+| 18 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 4220 |
+| 19 | [nikmd1306](https://github.com/nikmd1306) | Nikita Matsko | @Curano-AI  |  | Chisinau, Moldova | 4091 |
+| 20 | [piotr-shishkov](https://github.com/piotr-shishkov) | Piotr Shishkov | ARTDOCK COMPANY SRL |  | Chisinau, Moldova | 4084 |

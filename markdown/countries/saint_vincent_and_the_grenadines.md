@@ -63,7 +63,7 @@ Indexed users: 26
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [lukecampbell](https://github.com/lukecampbell) | Luke Campbell | South Kingstown, RI | 26 |
-| 2 | [colorstheforce](https://github.com/colorstheforce) | ColorsTheForce | North Kingstown | 15 |
+| 2 | [colorstheforce](https://github.com/colorstheforce) | ColorsTheForce | North Kingstown | 14 |
 | 3 | [lihadaway](https://github.com/lihadaway) | Leslie | Saint Vincent and the Grenadines | 14 |
 | 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel | Saint Vincent and the Grenadines | 10 |
 | 5 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 9 |
@@ -83,4 +83,4 @@ Indexed users: 26
 | 19 | [95Tarek784](https://github.com/95Tarek784) | Tarek Ollivierre | Kingstown, Saint Vincent  & The Grenadines | 1 |
 | 20 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 1 |
 
-Generated: 2026-10-10T06:43:56.437Z
+Generated: 2026-10-10T08:16:15.967Z

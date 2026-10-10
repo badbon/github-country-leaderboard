@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-10T06:29:25.057Z
+Generated: 2026-10-10T08:05:45.941Z
 
 Users: 111
 
@@ -21,8 +21,8 @@ Users: 111
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 215 |
 | 14 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B |  |  | New-Caledonia | 157 |
 | 15 | [trara538](https://github.com/trara538) | Rara Soro | South Pacific Community  |  | Noumea, New Caledonia | 151 |
-| 16 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 135 |
-| 17 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 132 |
+| 16 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 137 |
+| 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 125 |
 | 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak |  |  | Nouméa | 115 |
 | 19 | [Esncminas](https://github.com/Esncminas) | DUCTANE Adrien | INFOBAM NC |  | NEW CALEDONIA | 108 |
 | 20 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 104 |
