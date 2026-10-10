@@ -10232,7 +10232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 54,
     "createdAt": "2024-03-30T18:36:35Z"
   },
   {
@@ -10268,7 +10268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 278,
+    "publicContributions": 207,
     "createdAt": "2024-06-12T12:20:57Z"
   },
   {
@@ -10278,9 +10278,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 130,
+    "followers": 3,
+    "privateContributions": 10,
+    "publicContributions": 150,
     "createdAt": "2024-10-27T17:13:08Z"
   },
   {
@@ -10292,7 +10292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-02-18T00:17:44Z"
   },
   {
@@ -10304,7 +10304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 84,
     "createdAt": "2024-12-17T16:07:57Z"
   },
   {
@@ -10322,13 +10322,13 @@
   {
     "login": "thevoidwolf",
     "name": "Voidwolf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187206089?s=72&u=e95c2be07b6e8a024dfc43de0084a32a008e24f3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187206089?s=72&u=84da3af6adbb3f4aa3c0e4bdfcf01a3b976a57e7&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 397,
-    "publicContributions": 23,
+    "privateContributions": 421,
+    "publicContributions": 81,
     "createdAt": "2024-11-03T17:31:53Z"
   },
   {
@@ -10344,30 +10344,6 @@
     "createdAt": "2024-02-19T12:02:47Z"
   },
   {
-    "login": "Mannorr",
-    "name": "Mannorr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182333361?s=72&v=4",
-    "location": "Dublin, ireland",
-    "company": "",
-    "twitterUsername": "_Mannorr",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 271,
-    "createdAt": "2024-09-21T09:40:39Z"
-  },
-  {
-    "login": "lobhtml",
-    "name": "Luke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182923203?s=72&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 561,
-    "createdAt": "2024-09-26T12:45:20Z"
-  },
-  {
     "login": "JasonOgwueleka",
     "name": "Jason Ogwueleka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184787836?s=72&u=2b373a10d515a3b5a643ea06cbe2ec0d18a2e34a&v=4",
@@ -10376,7 +10352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 85,
     "createdAt": "2024-10-12T22:18:56Z"
   },
   {
@@ -10385,9 +10361,9 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/158355452?s=72&u=c38b5c584abff69d2d66ec223d1ef535bc4a1ef4&v=4",
     "location": "Ireland",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "cillian_maybe",
     "followers": 1,
-    "privateContributions": 652,
+    "privateContributions": 648,
     "publicContributions": 13,
     "createdAt": "2024-01-31T21:00:58Z"
   },
@@ -10412,7 +10388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-01-05T21:08:34Z"
   },
   {

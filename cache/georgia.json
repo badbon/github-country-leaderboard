@@ -10508,7 +10508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-12-04T09:46:29Z"
   },
   {
@@ -10519,8 +10519,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 68,
-    "publicContributions": 2,
+    "privateContributions": 66,
+    "publicContributions": 14,
     "createdAt": "2023-11-29T16:04:22Z"
   },
   {
@@ -10532,7 +10532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-03-10T06:30:16Z"
   },
   {
@@ -10556,7 +10556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 58,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2023-09-05T16:37:25Z"
   },
   {
@@ -10568,7 +10568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 98,
     "createdAt": "2023-03-15T07:07:13Z"
   },
   {
@@ -10604,7 +10604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 7,
     "createdAt": "2023-06-12T08:03:33Z"
   },
   {
@@ -10632,27 +10632,15 @@
     "createdAt": "2023-09-17T17:30:17Z"
   },
   {
-    "login": "denhealthy",
-    "name": "Denis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146937118?s=72&u=2f55013f7839ff5337b08ec2f266d768c551a4e5&v=4",
-    "location": "Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 40,
-    "createdAt": "2023-10-04T09:37:09Z"
-  },
-  {
     "login": "KliuevDmitrii",
     "name": "Kliuev Dmitrii",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132822223?s=72&u=8a8b27755e16d06a175b6d9201c19b1459fa34f9&v=4",
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 177,
+    "publicContributions": 98,
     "createdAt": "2023-05-07T11:45:18Z"
   },
   {
@@ -10676,7 +10664,7 @@
     "twitterUsername": "Herferax121517",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-04-18T13:46:01Z"
   },
   {
@@ -10699,8 +10687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 215,
-    "publicContributions": 10,
+    "privateContributions": 152,
+    "publicContributions": 8,
     "createdAt": "2023-07-27T14:31:39Z"
   },
   {
@@ -10711,8 +10699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 250,
-    "publicContributions": 36,
+    "privateContributions": 272,
+    "publicContributions": 64,
     "createdAt": "2023-10-08T10:38:29Z"
   },
   {
@@ -10724,7 +10712,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 19,
     "createdAt": "2023-09-23T09:04:28Z"
   },
   {

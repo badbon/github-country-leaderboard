@@ -10375,8 +10375,8 @@
     "company": "Bamboo Agile",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 26,
-    "publicContributions": 0,
+    "privateContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2021-06-14T11:15:10Z"
   },
   {
@@ -10392,18 +10392,6 @@
     "createdAt": "2021-12-03T14:16:09Z"
   },
   {
-    "login": "beltsys-labs",
-    "name": "Beltsys Labs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86432957?s=72&u=7d1caea50eade69b3a2f56a436319bbf2f614ddf&v=4",
-    "location": "Estonia",
-    "company": "Beltsys Labs Oü",
-    "twitterUsername": "Beltsys_dev",
-    "followers": 3,
-    "privateContributions": 602,
-    "publicContributions": 82,
-    "createdAt": "2021-06-24T18:45:10Z"
-  },
-  {
     "login": "Tryhard999",
     "name": "Tryhard999",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95774540?s=72&u=e97686e01ba258e97f17b1202224cde8a3f75f0a&v=4",
@@ -10411,8 +10399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 896,
-    "publicContributions": 7,
+    "privateContributions": 1064,
+    "publicContributions": 1,
     "createdAt": "2021-12-08T18:56:59Z"
   },
   {
@@ -10435,8 +10423,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 961,
-    "publicContributions": 0,
+    "privateContributions": 584,
+    "publicContributions": 3,
     "createdAt": "2021-01-02T07:18:34Z"
   },
   {
@@ -10445,10 +10433,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/93487413?s=72&u=bf935c88312bd4f55326fe72f3df4db3e649cc3c&v=4",
     "location": "Estonia",
     "company": "Estonian University of Life Sciences",
-    "twitterUsername": "vilna_k",
+    "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 69,
     "createdAt": "2021-10-31T17:38:54Z"
   },
   {
@@ -10494,9 +10482,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 46,
-    "publicContributions": 21,
+    "followers": 3,
+    "privateContributions": 140,
+    "publicContributions": 38,
     "createdAt": "2021-08-05T11:31:34Z"
   },
   {
@@ -10519,8 +10507,8 @@
     "company": "Cargoo",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 116,
-    "publicContributions": 6,
+    "privateContributions": 136,
+    "publicContributions": 3,
     "createdAt": "2021-02-10T08:15:18Z"
   },
   {
@@ -10532,7 +10520,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 172,
+    "publicContributions": 167,
     "createdAt": "2021-09-01T15:05:41Z"
   },
   {
@@ -10567,8 +10555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 165,
+    "privateContributions": 199,
+    "publicContributions": 141,
     "createdAt": "2021-03-21T16:07:21Z"
   },
   {
@@ -10579,7 +10567,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 36,
+    "privateContributions": 38,
     "publicContributions": 0,
     "createdAt": "2021-08-13T18:24:10Z"
   },
@@ -10594,18 +10582,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-24T21:58:19Z"
-  },
-  {
-    "login": "Agent-Ebimene",
-    "name": "Ebimene Agent",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77029524?s=72&u=d0573eb86af3e7d83845acfd2fca41584b939636&v=4",
-    "location": "Tallinn, Harjumaa, Estonia",
-    "company": "Ebimene",
-    "twitterUsername": "EbimeneEli",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-01-05T22:59:34Z"
   },
   {
     "login": "peeterleets",
@@ -58950,7 +58926,7 @@
     "location": "Narva mnt 7b-509, Tallinn 10117, Estonia 1df2",
     "company": "Spectro Finance OÜ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-17T01:28:17Z"
@@ -58975,7 +58951,7 @@
     "company": "WebWay OÜ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2302,
+    "privateContributions": 2426,
     "publicContributions": 2,
     "createdAt": "2026-06-04T10:24:25Z"
   },
@@ -59035,7 +59011,7 @@
     "company": "Tyche Institute",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1610,
+    "privateContributions": 1672,
     "publicContributions": 353,
     "createdAt": "2026-05-15T08:50:04Z"
   },

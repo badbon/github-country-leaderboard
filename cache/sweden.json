@@ -9414,9 +9414,9 @@
     "location": "Stockholm",
     "company": "Mentimeter",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 4683,
-    "publicContributions": 4338,
+    "followers": 2,
+    "privateContributions": 7309,
+    "publicContributions": 5613,
     "createdAt": "2025-10-13T12:49:16Z"
   },
   {
@@ -9428,7 +9428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 141,
     "createdAt": "2025-10-21T18:18:03Z"
   },
   {
@@ -9452,7 +9452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 24,
     "createdAt": "2025-09-23T12:29:52Z"
   },
   {
@@ -9464,7 +9464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 22,
     "createdAt": "2025-01-23T20:36:45Z"
   },
   {
@@ -9476,7 +9476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 63,
     "createdAt": "2025-01-21T16:07:57Z"
   },
   {
@@ -9488,7 +9488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 142,
     "createdAt": "2025-02-05T00:00:10Z"
   },
   {
@@ -9511,8 +9511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 339,
-    "publicContributions": 0,
+    "privateContributions": 343,
+    "publicContributions": 5,
     "createdAt": "2025-01-06T18:07:54Z"
   },
   {
@@ -9522,9 +9522,9 @@
     "location": "Stockholm",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 48,
     "createdAt": "2025-08-31T11:52:07Z"
   },
   {
@@ -9536,7 +9536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 257,
+    "publicContributions": 661,
     "createdAt": "2025-10-30T13:57:19Z"
   },
   {
@@ -9547,21 +9547,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 133,
+    "privateContributions": 135,
     "publicContributions": 0,
     "createdAt": "2025-02-06T16:01:03Z"
-  },
-  {
-    "login": "ZilverZtream",
-    "name": "Dennis Östling",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/197366966?s=72&u=27893fd13fcc5e45769bca349f946921b2061123&v=4",
-    "location": "Stockholm",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 14888,
-    "publicContributions": 9338,
-    "createdAt": "2025-02-01T08:55:35Z"
   },
   {
     "login": "R3m1x67",
@@ -9583,7 +9571,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 687,
+    "privateContributions": 866,
     "publicContributions": 1,
     "createdAt": "2025-11-20T19:15:00Z"
   },
@@ -9596,7 +9584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 52,
     "createdAt": "2025-11-29T13:36:12Z"
   },
   {
@@ -9610,18 +9598,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-01-07T20:10:53Z"
-  },
-  {
-    "login": "olinke95",
-    "name": "Olivia Linke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200954817?s=72&v=4",
-    "location": "Stockholm",
-    "company": "Stockholm University",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-02-26T14:04:53Z"
   },
   {
     "login": "Ozatalab",
@@ -9642,9 +9618,9 @@
     "location": "Stockholm",
     "company": "",
     "twitterUsername": "jjbert",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 248,
     "createdAt": "2025-12-19T12:47:57Z"
   },
   {

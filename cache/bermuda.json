@@ -10124,7 +10124,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2011-07-21T13:58:11Z"
   },
   {
@@ -10160,20 +10160,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2011-06-01T23:36:29Z"
-  },
-  {
-    "login": "markhahn",
-    "name": "Mark Hahn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1154031?s=72&v=4",
-    "location": "Hamilton, ON Canada",
-    "company": "McMaster/Sharcnet/ComputeCanada",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2011-10-26T19:19:33Z"
   },
   {
     "login": "LarryAnglin",
@@ -10230,8 +10218,8 @@
     "location": "Bermuda",
     "company": "@architect-co",
     "twitterUsername": "augustoproiete",
-    "followers": 326,
-    "privateContributions": 29,
+    "followers": 331,
+    "privateContributions": 17,
     "publicContributions": 32,
     "createdAt": "2010-01-06T20:37:56Z"
   },
@@ -10266,9 +10254,9 @@
     "location": "Hamilton, Ontario",
     "company": "me",
     "twitterUsername": "wesbos",
-    "followers": 35815,
-    "privateContributions": 138,
-    "publicContributions": 921,
+    "followers": 36008,
+    "privateContributions": 170,
+    "publicContributions": 1283,
     "createdAt": "2010-01-04T10:11:44Z"
   },
   {
@@ -10278,9 +10266,9 @@
     "location": "Hamilton",
     "company": "@reallygoodwork",
     "twitterUsername": "",
-    "followers": 220,
-    "privateContributions": 108,
-    "publicContributions": 71,
+    "followers": 219,
+    "privateContributions": 121,
+    "publicContributions": 69,
     "createdAt": "2010-10-21T15:48:22Z"
   },
   {
@@ -10290,9 +10278,9 @@
     "location": "Hamilton, ON",
     "company": "Elastic",
     "twitterUsername": "clintandrewhall",
-    "followers": 197,
-    "privateContributions": 124,
-    "publicContributions": 335,
+    "followers": 198,
+    "privateContributions": 366,
+    "publicContributions": 650,
     "createdAt": "2010-06-05T21:16:25Z"
   },
   {
@@ -10302,9 +10290,9 @@
     "location": "Hamilton, Ontario",
     "company": "McMaster University",
     "twitterUsername": "",
-    "followers": 173,
+    "followers": 174,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2010-03-09T15:36:46Z"
   },
   {
@@ -10314,9 +10302,9 @@
     "location": "Hamilton, Indiana",
     "company": "@Automattic ",
     "twitterUsername": "",
-    "followers": 133,
-    "privateContributions": 1,
-    "publicContributions": 6507,
+    "followers": 132,
+    "privateContributions": 178,
+    "publicContributions": 7147,
     "createdAt": "2010-12-20T18:04:03Z"
   },
   {
@@ -10327,8 +10315,8 @@
     "company": "@hostpapa ",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 2507,
-    "publicContributions": 895,
+    "privateContributions": 3005,
+    "publicContributions": 1289,
     "createdAt": "2010-03-04T15:21:32Z"
   },
   {
@@ -10338,9 +10326,9 @@
     "location": "Hamilton, Ontario",
     "company": "",
     "twitterUsername": "stieneee",
-    "followers": 17,
-    "privateContributions": 2715,
-    "publicContributions": 103,
+    "followers": 19,
+    "privateContributions": 3832,
+    "publicContributions": 101,
     "createdAt": "2010-11-19T02:21:57Z"
   },
   {
@@ -10351,8 +10339,8 @@
     "company": "Kirschbaum Development Group",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 2786,
-    "publicContributions": 45,
+    "privateContributions": 3273,
+    "publicContributions": 10,
     "createdAt": "2010-02-03T17:05:46Z"
   },
   {

@@ -10160,7 +10160,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 36,
     "createdAt": "2023-02-03T15:18:52Z"
   },
   {
@@ -10242,9 +10242,9 @@
     "location": "Prague, Czech Republic",
     "company": "42 Prague",
     "twitterUsername": "",
-    "followers": 81,
+    "followers": 82,
     "privateContributions": 0,
-    "publicContributions": 238,
+    "publicContributions": 219,
     "createdAt": "2023-09-14T21:18:47Z"
   },
   {
@@ -10254,7 +10254,7 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "ladydoraboateng",
-    "followers": 70,
+    "followers": 68,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-01-16T15:35:47Z"
@@ -10278,9 +10278,9 @@
     "location": "Czech Republic",
     "company": "JetBrains",
     "twitterUsername": "Qodana",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 31,
     "createdAt": "2023-07-18T12:56:42Z"
   },
   {
@@ -10290,9 +10290,9 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 690,
+    "publicContributions": 695,
     "createdAt": "2023-03-07T10:37:05Z"
   },
   {
@@ -10302,21 +10302,21 @@
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2023-10-19T19:17:04Z"
   },
   {
     "login": "nnocturnox",
     "name": "Selin Coban",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127951121?s=72&u=a1355c55c078d2f8a0a6bb7db10444708666ccc6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127951121?s=72&u=4fa629d5a2d1ad00978762313e218724f9af606c&v=4",
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 55,
     "createdAt": "2023-03-15T11:52:08Z"
   },
   {
@@ -10326,9 +10326,9 @@
     "location": "Czech Republic",
     "company": "FredonBytes",
     "twitterUsername": "FreedomPatrik",
-    "followers": 19,
-    "privateContributions": 5129,
-    "publicContributions": 2347,
+    "followers": 24,
+    "privateContributions": 4529,
+    "publicContributions": 1737,
     "createdAt": "2023-09-18T15:31:36Z"
   },
   {
@@ -10336,11 +10336,11 @@
     "name": "Erwin Elder",
     "avatarUrl": "https://avatars.githubusercontent.com/u/124094879?s=72&u=278f4de365f16bae6b71ccbcfa2b680d92e0c3a0&v=4",
     "location": "Czech Republic",
-    "company": "Docta",
+    "company": "Lunor Labs",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 376,
-    "publicContributions": 100,
+    "followers": 18,
+    "privateContributions": 305,
+    "publicContributions": 98,
     "createdAt": "2023-01-31T20:52:06Z"
   },
   {
@@ -10350,9 +10350,9 @@
     "location": "Czech republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 144,
     "createdAt": "2022-12-28T12:28:19Z"
   },
   {
@@ -10364,7 +10364,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 197,
+    "publicContributions": 160,
     "createdAt": "2023-09-05T19:19:21Z"
   },
   {
@@ -10374,8 +10374,8 @@
     "location": "Prague, Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 639,
+    "followers": 13,
+    "privateContributions": 881,
     "publicContributions": 7,
     "createdAt": "2023-12-09T11:10:58Z"
   },
@@ -10386,9 +10386,9 @@
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 145,
     "createdAt": "2023-03-14T05:27:45Z"
   },
   {
@@ -194564,7 +194564,67 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 597,
-    "publicContributions": 294,
+    "publicContributions": 295,
     "createdAt": "2026-06-03T17:49:17Z"
+  },
+  {
+    "login": "a10-dev",
+    "name": "a10",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290988306?s=72&u=a14b70cb7f0c2d3b9ea988442f4bd5622046b316&v=4",
+    "location": "Prague",
+    "company": "Braiins",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-05T09:13:09Z"
+  },
+  {
+    "login": "sananyasin500",
+    "name": "Sanan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296888225?s=72&u=9559cd53f8fa4cb1d9e463666b08ab0cd035e036&v=4",
+    "location": "Prague",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-25T13:28:06Z"
+  },
+  {
+    "login": "Bruncsoft",
+    "name": "Bruncsoft",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293363178?s=72&v=4",
+    "location": "Prague",
+    "company": "@Bruncsoft",
+    "twitterUsername": "Bruncsoft",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-13T12:28:06Z"
+  },
+  {
+    "login": "mariiaven",
+    "name": "mashka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295117614?s=72&u=70eb9296872f4a38da7a51b922543709c7f26bf7&v=4",
+    "location": "Prague, CZ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-06-19T12:27:41Z"
+  },
+  {
+    "login": "maribondarenko",
+    "name": "Mariia Bondarenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285621915?s=72&u=40ea67218f826640887beb84a355d5b91a0c8769&v=4",
+    "location": "Prague",
+    "company": "Ataccama",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-05-18T08:28:16Z"
   }
 ]

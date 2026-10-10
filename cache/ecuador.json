@@ -10434,7 +10434,7 @@
     "location": "Conocoto, Quito, Pichincha",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-25T18:08:40Z"
@@ -10460,7 +10460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 172,
     "createdAt": "2023-11-23T23:05:09Z"
   },
   {
@@ -10472,20 +10472,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 928,
+    "publicContributions": 910,
     "createdAt": "2023-11-17T21:58:29Z"
-  },
-  {
-    "login": "ArielSutntasig",
-    "name": "Ariel Suntasig",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139640206?s=72&u=172067f0b4d2215e42d9c879df54a054196a0ae7&v=4",
-    "location": "Quito",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 321,
-    "createdAt": "2023-07-15T15:30:12Z"
   },
   {
     "login": "Jarv1sYT",
@@ -10496,7 +10484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 26,
     "createdAt": "2023-05-07T04:47:34Z"
   },
   {
@@ -10508,7 +10496,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 12,
     "createdAt": "2023-08-16T03:24:16Z"
   },
   {
@@ -10574,13 +10562,13 @@
   {
     "login": "mateoenriquez",
     "name": "Mateo Enriquez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138543308?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138543308?s=72&u=2149c0067bc8373cc0259d01581a5d1cce736ec8&v=4",
     "location": "Quito",
     "company": "Universidad de las Americas",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 76,
     "createdAt": "2023-07-04T01:53:54Z"
   },
   {
@@ -10615,7 +10603,7 @@
     "company": "FirmaSeguraEC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1390,
+    "privateContributions": 2172,
     "publicContributions": 9,
     "createdAt": "2023-07-03T23:42:03Z"
   },

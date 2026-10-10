@@ -10398,34 +10398,22 @@
     "location": "Afghanistan ",
     "company": "MostionKit",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 27,
-    "publicContributions": 83,
+    "followers": 15,
+    "privateContributions": 57,
+    "publicContributions": 105,
     "createdAt": "2021-09-09T13:52:17Z"
   },
   {
     "login": "HamdullahHamdard",
     "name": "Hamdullah Hamdard",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86548083?s=72&u=c5f731f75b3ef473853936163f8181a879e73478&v=4",
-    "location": "Herat, Afghanistan",
+    "location": "Helmand, Afghanistan",
     "company": "Afgano LLC",
     "twitterUsername": "hamdullahhamda7",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2021-06-27T06:59:37Z"
-  },
-  {
-    "login": "EMEliasMi8859",
-    "name": "Engineer Muhammad Elias Muhammadi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90821377?s=72&u=c31b01fbcab6286123ba12fac8af9bdaee770422&v=4",
-    "location": "Afghanistan/Kabul",
-    "company": "ByteForge",
-    "twitterUsername": "EMEliasMi8859",
-    "followers": 12,
-    "privateContributions": 2,
-    "publicContributions": 4,
-    "createdAt": "2021-09-16T05:45:48Z"
   },
   {
     "login": "Mustafa-Zahedi",
@@ -10434,8 +10422,8 @@
     "location": "Herat, Afghanistan",
     "company": "@Daktilo-CMS",
     "twitterUsername": "Mustafa_Zahedi2",
-    "followers": 11,
-    "privateContributions": 6339,
+    "followers": 12,
+    "privateContributions": 6760,
     "publicContributions": 6,
     "createdAt": "2021-12-19T07:42:50Z"
   },
@@ -10447,8 +10435,8 @@
     "company": "",
     "twitterUsername": "RippedDeveloper",
     "followers": 11,
-    "privateContributions": 563,
-    "publicContributions": 238,
+    "privateContributions": 607,
+    "publicContributions": 215,
     "createdAt": "2021-10-13T10:49:32Z"
   },
   {
@@ -10458,9 +10446,9 @@
     "location": "Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 712,
-    "publicContributions": 45,
+    "followers": 12,
+    "privateContributions": 1047,
+    "publicContributions": 39,
     "createdAt": "2021-07-13T12:31:06Z"
   },
   {
@@ -10470,9 +10458,9 @@
     "location": "Afghanistan",
     "company": "",
     "twitterUsername": "MahdiahTurkmani",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 23,
     "createdAt": "2021-05-09T21:52:25Z"
   },
   {
@@ -10483,7 +10471,7 @@
     "company": "Freelance Software Developer",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1396,
+    "privateContributions": 1465,
     "publicContributions": 0,
     "createdAt": "2021-02-17T14:06:43Z"
   },
@@ -10506,7 +10494,7 @@
     "location": "Afghanistan ",
     "company": "Kenzomoni LLC ",
     "twitterUsername": "kenneth_justin",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-12T01:13:00Z"
@@ -10519,7 +10507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 415,
+    "privateContributions": 355,
     "publicContributions": 10,
     "createdAt": "2021-01-30T05:21:40Z"
   },
@@ -10531,8 +10519,8 @@
     "company": "World Health Organization (WHO)",
     "twitterUsername": "suhaibqanooni",
     "followers": 8,
-    "privateContributions": 1116,
-    "publicContributions": 12,
+    "privateContributions": 1169,
+    "publicContributions": 8,
     "createdAt": "2021-03-17T17:36:46Z"
   },
   {
@@ -10543,8 +10531,8 @@
     "company": "UNDP",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2139,
-    "publicContributions": 1448,
+    "privateContributions": 1981,
+    "publicContributions": 1318,
     "createdAt": "2021-07-11T06:53:27Z"
   },
   {
@@ -10567,8 +10555,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 109,
-    "publicContributions": 0,
+    "privateContributions": 158,
+    "publicContributions": 2,
     "createdAt": "2021-09-29T14:49:05Z"
   },
   {
@@ -10592,7 +10580,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 1,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2021-06-28T18:01:33Z"
   },
   {
@@ -10627,7 +10615,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 190,
+    "privateContributions": 306,
     "publicContributions": 0,
     "createdAt": "2021-12-11T18:12:57Z"
   },

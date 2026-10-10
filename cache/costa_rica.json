@@ -10530,9 +10530,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 27,
     "createdAt": "2023-01-16T16:54:02Z"
   },
   {
@@ -10568,7 +10568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 12,
     "createdAt": "2023-04-27T21:14:17Z"
   },
   {
@@ -10616,7 +10616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 49,
     "createdAt": "2023-02-16T03:11:13Z"
   },
   {
@@ -10628,7 +10628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 110,
     "createdAt": "2023-02-17T19:32:07Z"
   },
   {
@@ -10700,7 +10700,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 348,
+    "publicContributions": 326,
     "createdAt": "2023-05-24T18:58:30Z"
   },
   {
@@ -10711,21 +10711,9 @@
     "company": "",
     "twitterUsername": "Knirbyt",
     "followers": 1,
-    "privateContributions": 773,
-    "publicContributions": 3,
+    "privateContributions": 1407,
+    "publicContributions": 38,
     "createdAt": "2023-08-20T19:55:22Z"
-  },
-  {
-    "login": "marchena96",
-    "name": "Daniel Marchena Matarrita",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127681523?s=72&u=c382ac8d3fdb35e474632e509d7a79203a52f3f2&v=4",
-    "location": "Nicoya, Guanacaste, Costa Rica.",
-    "company": "Universidad Nacional de Costa Rica",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 256,
-    "createdAt": "2023-03-12T16:27:43Z"
   },
   {
     "login": "jungianca6",

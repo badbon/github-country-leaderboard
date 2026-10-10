@@ -10123,7 +10123,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1117,
     "publicContributions": 8,
     "createdAt": "2025-01-02T18:27:59Z"
   },
@@ -10136,32 +10136,20 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 65,
     "createdAt": "2025-03-17T04:18:40Z"
   },
   {
     "login": "OzyraN",
     "name": "OzyraN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/198144040?s=72&u=d65284502a3f05e5e2dc58c30223b166bd56437a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/198144040?s=72&u=caaad0c48da1d3f8c284562e8d0b53e6e9f0fc5a&v=4",
     "location": "Argentina",
     "company": "Yuimaru Co.",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
+    "privateContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2025-02-07T00:24:01Z"
-  },
-  {
-    "login": "farahmugrabi",
-    "name": "Farah Mugrabi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/227560017?s=72&u=9b4c101d7008ff1c96849f8b5ac38880e4f220fb&v=4",
-    "location": "In Dublin, but my heart's in Buenos Aires",
-    "company": "UCLouvain",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 100,
-    "createdAt": "2025-08-20T08:42:04Z"
   },
   {
     "login": "Dani-LoC-13",
@@ -10172,7 +10160,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2025-04-23T01:54:31Z"
   },
   {
@@ -10184,7 +10172,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 21,
     "createdAt": "2025-04-07T04:22:14Z"
   },
   {
@@ -10196,7 +10184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 1,
     "createdAt": "2025-06-25T21:23:54Z"
   },
   {
@@ -10208,7 +10196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 19,
     "createdAt": "2025-06-17T16:18:56Z"
   },
   {
@@ -10220,7 +10208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 60,
     "createdAt": "2025-05-26T15:19:50Z"
   },
   {
@@ -10242,9 +10230,9 @@
     "location": "Argentina, Corrientes Capital",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 91,
     "createdAt": "2025-02-15T17:53:34Z"
   },
   {
@@ -10256,7 +10244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 36,
     "createdAt": "2025-03-28T13:53:30Z"
   },
   {
@@ -10280,7 +10268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 92,
     "createdAt": "2025-02-25T00:02:19Z"
   },
   {
@@ -10292,7 +10280,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 4,
     "createdAt": "2025-04-10T14:47:29Z"
   },
   {
@@ -10339,8 +10327,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "privateContributions": 187,
+    "publicContributions": 0,
     "createdAt": "2025-03-20T17:53:40Z"
   },
   {
@@ -347974,18 +347962,6 @@
     "privateContributions": 0,
     "publicContributions": 154,
     "createdAt": "2020-10-28T13:10:53Z"
-  },
-  {
-    "login": "AngelAbelPelaye",
-    "name": "Angel Abel Pelaye",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73886845?s=72&u=16073dedb7dca992d503a98d1c046aca28be0404&v=4",
-    "location": "Sampacho, Córdoba, Argentina",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-11-03T11:45:59Z"
   },
   {
     "login": "EzequielArroyo",
