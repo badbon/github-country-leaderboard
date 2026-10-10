@@ -56,7 +56,7 @@ Published countries: 234
 | [Croatia](countries/croatia.md) | 5,439 | [Public](public_contributions/croatia.md) | [Total](total_contributions/croatia.md) | [Followers](followers/croatia.md) |
 | [Cuba](countries/cuba.md) | 1,284 | [Public](public_contributions/cuba.md) | [Total](total_contributions/cuba.md) | [Followers](followers/cuba.md) |
 | [Curaçao](countries/curacao.md) | 53 | [Public](public_contributions/curacao.md) | [Total](total_contributions/curacao.md) | [Followers](followers/curacao.md) |
-| [Cyprus](countries/cyprus.md) | 2,739 | [Public](public_contributions/cyprus.md) | [Total](total_contributions/cyprus.md) | [Followers](followers/cyprus.md) |
+| [Cyprus](countries/cyprus.md) | 2,738 | [Public](public_contributions/cyprus.md) | [Total](total_contributions/cyprus.md) | [Followers](followers/cyprus.md) |
 | [Czechia](countries/czechia.md) | 16,220 | [Public](public_contributions/czechia.md) | [Total](total_contributions/czechia.md) | [Followers](followers/czechia.md) |
 | [Denmark](countries/denmark.md) | 19,316 | [Public](public_contributions/denmark.md) | [Total](total_contributions/denmark.md) | [Followers](followers/denmark.md) |
 | [Djibouti](countries/djibouti.md) | 55 | [Public](public_contributions/djibouti.md) | [Total](total_contributions/djibouti.md) | [Followers](followers/djibouti.md) |
@@ -194,7 +194,7 @@ Published countries: 234
 | [Singapore](countries/singapore.md) | 24,691 | [Public](public_contributions/singapore.md) | [Total](total_contributions/singapore.md) | [Followers](followers/singapore.md) |
 | [Sint Maarten](countries/sint_maarten.md) | 7 | [Public](public_contributions/sint_maarten.md) | [Total](total_contributions/sint_maarten.md) | [Followers](followers/sint_maarten.md) |
 | [Slovakia](countries/slovakia.md) | 4,689 | [Public](public_contributions/slovakia.md) | [Total](total_contributions/slovakia.md) | [Followers](followers/slovakia.md) |
-| [Slovenia](countries/slovenia.md) | 3,107 | [Public](public_contributions/slovenia.md) | [Total](total_contributions/slovenia.md) | [Followers](followers/slovenia.md) |
+| [Slovenia](countries/slovenia.md) | 3,106 | [Public](public_contributions/slovenia.md) | [Total](total_contributions/slovenia.md) | [Followers](followers/slovenia.md) |
 | [Solomon Islands](countries/solomon_islands.md) | 19 | [Public](public_contributions/solomon_islands.md) | [Total](total_contributions/solomon_islands.md) | [Followers](followers/solomon_islands.md) |
 | [Somalia](countries/somalia.md) | 859 | [Public](public_contributions/somalia.md) | [Total](total_contributions/somalia.md) | [Followers](followers/somalia.md) |
 | [South Africa](countries/south_africa.md) | 17,942 | [Public](public_contributions/south_africa.md) | [Total](total_contributions/south_africa.md) | [Followers](followers/south_africa.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | [Zambia](countries/zambia.md) | 1,343 | [Public](public_contributions/zambia.md) | [Total](total_contributions/zambia.md) | [Followers](followers/zambia.md) |
 | [Zimbabwe](countries/zimbabwe.md) | 1,654 | [Public](public_contributions/zimbabwe.md) | [Total](total_contributions/zimbabwe.md) | [Followers](followers/zimbabwe.md) |
 
-Generated: 2026-10-10T14:20:02.919Z
+Generated: 2026-10-10T14:24:55.748Z
