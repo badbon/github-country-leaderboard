@@ -9416,7 +9416,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2018-02-07T18:57:41Z"
   },
   {
@@ -9426,9 +9426,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 41,
     "createdAt": "2018-06-06T08:54:32Z"
   },
   {
@@ -9450,7 +9450,7 @@
     "location": "Luxembourg",
     "company": "Amazon",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 53,
     "createdAt": "2018-06-24T14:59:33Z"
@@ -9463,8 +9463,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 1168,
-    "publicContributions": 40,
+    "privateContributions": 1076,
+    "publicContributions": 0,
     "createdAt": "2018-10-20T12:45:05Z"
   },
   {
@@ -9474,9 +9474,9 @@
     "location": "Luxembourg",
     "company": "Luxair",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 139,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2018-05-05T21:52:34Z"
   },
   {
@@ -9487,7 +9487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 47,
+    "privateContributions": 72,
     "publicContributions": 0,
     "createdAt": "2018-06-29T14:20:10Z"
   },
@@ -9500,7 +9500,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 8,
-    "publicContributions": 33,
+    "publicContributions": 30,
     "createdAt": "2018-04-27T16:19:14Z"
   },
   {
@@ -9510,9 +9510,9 @@
     "location": "Luxembourg, Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 56,
-    "publicContributions": 121,
+    "followers": 14,
+    "privateContributions": 12,
+    "publicContributions": 168,
     "createdAt": "2018-05-07T04:14:59Z"
   },
   {
@@ -9523,7 +9523,7 @@
     "company": "SnT Luxembourg, SpaceR Group",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 166,
+    "privateContributions": 189,
     "publicContributions": 0,
     "createdAt": "2018-03-06T19:09:50Z"
   },
@@ -9559,8 +9559,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 208,
-    "publicContributions": 42,
+    "privateContributions": 221,
+    "publicContributions": 59,
     "createdAt": "2018-02-10T16:17:13Z"
   },
   {
@@ -9571,8 +9571,8 @@
     "company": "University of Luxembourg",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 111,
-    "publicContributions": 10,
+    "privateContributions": 103,
+    "publicContributions": 16,
     "createdAt": "2018-12-04T11:34:39Z"
   },
   {
@@ -9580,11 +9580,11 @@
     "name": "PierrickPochelu",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44296854?s=72&u=0cdab60edc5925fea8fa9ca36617bfda7b2eb9ff&v=4",
     "location": "Luxembourg",
-    "company": "University of Luxembourg",
+    "company": "",
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2018-10-19T14:22:50Z"
   },
   {
@@ -9595,8 +9595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 481,
-    "publicContributions": 3,
+    "privateContributions": 484,
+    "publicContributions": 1,
     "createdAt": "2018-10-10T08:16:15Z"
   },
   {
@@ -9618,15 +9618,15 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2018-10-08T12:28:56Z"
   },
   {
     "login": "Lamiaselm",
     "name": "Lamia Selmane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38143626?s=72&u=3994ca08bde50ea9ce473840438487353743c86a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/38143626?s=72&v=4",
     "location": "Luxembourg",
     "company": "LIST",
     "twitterUsername": "",
@@ -9644,7 +9644,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 13,
-    "publicContributions": 71,
+    "publicContributions": 62,
     "createdAt": "2018-03-07T12:22:09Z"
   },
   {

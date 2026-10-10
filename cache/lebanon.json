@@ -9715,7 +9715,7 @@
     "company": "Al-Faris Association",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 24,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2022-12-02T11:06:51Z"
   },
@@ -9736,11 +9736,11 @@
     "name": "Karim Merhi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98538916?s=72&u=73b6fdd66ecae1495cbdf0e98c1c1ffb7b0a17a7&v=4",
     "location": "Lebanon",
-    "company": "",
+    "company": "Whish Money",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 28,
+    "followers": 7,
+    "privateContributions": 15,
+    "publicContributions": 178,
     "createdAt": "2022-01-27T15:01:06Z"
   },
   {
@@ -9752,7 +9752,7 @@
     "twitterUsername": "MahdiEzz_code",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 31,
     "createdAt": "2022-07-21T14:41:21Z"
   },
   {
@@ -9763,8 +9763,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 140,
-    "publicContributions": 258,
+    "privateContributions": 201,
+    "publicContributions": 511,
     "createdAt": "2022-07-16T11:23:12Z"
   },
   {
@@ -9776,7 +9776,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 115,
     "createdAt": "2022-09-24T09:03:31Z"
   },
   {
@@ -9798,7 +9798,7 @@
     "location": "lebanon",
     "company": "Junior full stack Web Developer",
     "twitterUsername": "Drakolaboomma",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-08-30T08:44:26Z"
@@ -9848,7 +9848,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2022-06-17T09:25:28Z"
   },
   {
@@ -9871,7 +9871,7 @@
     "company": "ULFG1",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 33,
+    "privateContributions": 2,
     "publicContributions": 3,
     "createdAt": "2022-09-23T16:21:53Z"
   },
@@ -9883,8 +9883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 227,
-    "publicContributions": 34,
+    "privateContributions": 226,
+    "publicContributions": 3,
     "createdAt": "2022-02-07T22:51:52Z"
   },
   {
@@ -9918,7 +9918,7 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-06-20T12:19:41Z"
@@ -9931,7 +9931,7 @@
     "company": "@Kirat-SAL ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 93,
+    "privateContributions": 70,
     "publicContributions": 4,
     "createdAt": "2022-10-30T11:06:09Z"
   },
@@ -30898,5 +30898,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-10T04:52:23Z"
+  },
+  {
+    "login": "Walidd22",
+    "name": "Walid Adra",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219841728?s=72&u=a2e555e9a2fd2bfc1d8434be24fb231e7d538cf6&v=4",
+    "location": "Tripoli, Lebanon",
+    "company": "WebRift",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 2283,
+    "publicContributions": 127,
+    "createdAt": "2025-07-08T11:59:01Z"
   }
 ]

@@ -9643,8 +9643,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 522,
-    "publicContributions": 6,
+    "privateContributions": 410,
+    "publicContributions": 3,
     "createdAt": "2012-07-26T17:08:51Z"
   },
   {
@@ -9668,7 +9668,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 62,
     "createdAt": "2012-06-25T10:20:53Z"
   },
   {
@@ -9680,7 +9680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 8,
     "createdAt": "2012-12-01T12:12:35Z"
   },
   {
@@ -9703,7 +9703,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 58,
     "publicContributions": 0,
     "createdAt": "2012-08-21T16:54:34Z"
   },
@@ -9728,7 +9728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 19,
-    "publicContributions": 54,
+    "publicContributions": 46,
     "createdAt": "2012-06-25T10:43:50Z"
   },
   {
@@ -9739,7 +9739,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2552,
+    "privateContributions": 2459,
     "publicContributions": 1,
     "createdAt": "2012-10-04T05:06:38Z"
   },
@@ -9751,8 +9751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
+    "privateContributions": 17,
+    "publicContributions": 19,
     "createdAt": "2012-04-02T12:47:44Z"
   },
   {
@@ -9774,9 +9774,9 @@
     "location": "Herceg Novi, Montenegro",
     "company": "Dobrix",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 0,
     "createdAt": "2012-08-01T21:30:42Z"
   },
   {
@@ -9788,7 +9788,7 @@
     "twitterUsername": "",
     "followers": 61,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 175,
     "createdAt": "2012-09-07T10:19:08Z"
   },
   {
@@ -9799,8 +9799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 80,
-    "publicContributions": 0,
+    "privateContributions": 1155,
+    "publicContributions": 7,
     "createdAt": "2012-11-01T21:24:00Z"
   },
   {
@@ -9822,22 +9822,10 @@
     "location": "Podgorica",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 240,
-    "publicContributions": 29,
+    "followers": 8,
+    "privateContributions": 162,
+    "publicContributions": 26,
     "createdAt": "2012-02-09T11:16:17Z"
-  },
-  {
-    "login": "silago",
-    "name": "Aleksandr Ovchinnikov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2487290?s=72&u=5aed0460c0a12536a5037c40a807b93a6fb071da&v=4",
-    "location": "Podgorica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 63,
-    "publicContributions": 39,
-    "createdAt": "2012-10-04T15:12:55Z"
   },
   {
     "login": "kudrin",
