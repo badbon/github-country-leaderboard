@@ -48,15 +48,15 @@ Indexed users: 4,045
 | 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev | Yerevan, Armenia | 2,475 |
 | 10 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Armenia, Quindío, Colombia | 2,130 |
 | 11 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | Armenia | 2,013 |
-| 12 | [h3l10w0r1d](https://github.com/h3l10w0r1d) | Armen Ghazaryan | Yerevan, Armenia | 1,750 |
-| 13 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,740 |
-| 14 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan | Yerevan, Armenia | 1,715 |
-| 15 | [nazelizurna](https://github.com/nazelizurna) |  | Yerevan, Armenia | 1,605 |
-| 16 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Armenia | 1,590 |
-| 17 | [asiryan](https://github.com/asiryan) | Valery Asiryan | Armenia, Yerevan | 1,577 |
-| 18 | [svyatov](https://github.com/svyatov) | Leonid Svyatov | Yerevan, Armenia | 1,545 |
-| 19 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,513 |
-| 20 | [projkov](https://github.com/projkov) | Pavel Rozhkov | Yerevan, Armenia | 1,486 |
+| 12 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Armenia | 1,740 |
+| 13 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan | Yerevan, Armenia | 1,715 |
+| 14 | [nazelizurna](https://github.com/nazelizurna) |  | Yerevan, Armenia | 1,605 |
+| 15 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Armenia | 1,590 |
+| 16 | [asiryan](https://github.com/asiryan) | Valery Asiryan | Armenia, Yerevan | 1,577 |
+| 17 | [svyatov](https://github.com/svyatov) | Leonid Svyatov | Yerevan, Armenia | 1,545 |
+| 18 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan | Armenia | 1,513 |
+| 19 | [projkov](https://github.com/projkov) | Pavel Rozhkov | Yerevan, Armenia | 1,486 |
+| 20 | [artialex](https://github.com/artialex) | Alexey Selivanov | Yerevan, Armenia | 1,449 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,045
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-10T14:40:16.293Z
+Generated: 2026-10-10T16:07:07.320Z

@@ -1,12 +1,12 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-10T15:14:31.355Z
+Generated: 2026-10-10T16:36:43.230Z
 
 Users: 155
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 4141 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 3671 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 880 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin |  |  | Douglas, Isle of Man | 734 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | @uroc-studios | craigiswayne | Isle of Man | 718 |
@@ -19,7 +19,7 @@ Users: 155
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | @Isle-of-Man-Government  |  | Isle of Man | 246 |
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 216 |
 | 13 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 154 |
-| 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 134 |
+| 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 138 |
 | 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 123 |
 | 16 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |
 | 17 | [K1erans](https://github.com/K1erans) | Kieran |  |  | Isle of man | 106 |

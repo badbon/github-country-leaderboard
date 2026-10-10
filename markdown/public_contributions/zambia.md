@@ -1,6 +1,6 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-10T14:36:14.903Z
+Generated: 2026-10-10T16:03:24.081Z
 
 Users: 1343
 
@@ -23,6 +23,6 @@ Users: 1343
 | 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 581 |
 | 16 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
 | 17 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |
-| 18 | [chrimztech](https://github.com/chrimztech) | Chrishent | Chrishent Matakala | Chrishent | Lusaka | 553 |
-| 19 | [sangwani-coder](https://github.com/sangwani-coder) | Zyambo | Lipila Tech Ltd | peter_zyambo | Zambia | 542 |
-| 20 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh |  |  | Lusaka, Zambia | 529 |
+| 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | mwapsam@gmail.com | mwapesamuel4 | Zambia | 554 |
+| 19 | [chrimztech](https://github.com/chrimztech) | Chrishent | Chrishent Matakala | Chrishent | Lusaka | 553 |
+| 20 | [sangwani-coder](https://github.com/sangwani-coder) | Zyambo | Lipila Tech Ltd | peter_zyambo | Zambia | 542 |

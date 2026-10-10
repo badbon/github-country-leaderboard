@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 901
+Indexed users: 900
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 901
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-10T14:46:44.330Z
+Generated: 2026-10-10T16:11:06.239Z

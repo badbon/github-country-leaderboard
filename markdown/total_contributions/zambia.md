@@ -1,12 +1,12 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-10T14:36:14.903Z
+Generated: 2026-10-10T16:03:24.081Z
 
 Users: 1343
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | @Plus94-Research | damianochintala | Lusaka, Zambia | 11442 |
+| 1 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | @Plus94-Research | damianochintala | Lusaka, Zambia | 12068 |
 | 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama |  |  | Lusaka, Zambia  | 10291 |
 | 3 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | @Inpsyde-Global-Service-Provider  | mwale_and_sons | Lusaka, Zambia | 8786 |
 | 4 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  |  | AbdurChimalo | Lusaka, Zambia  | 7188 |
@@ -23,6 +23,6 @@ Users: 1343
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3449 |
 | 16 | [engineervix](https://github.com/engineervix) | Victor Miti | @torchbox |  | Lusaka, Zambia | 3408 |
 | 17 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | @Lassod-Consulting  | erickmndev | Lusaka, Zambia | 3274 |
-| 18 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3128 |
-| 19 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3101 |
-| 20 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 3057 |
+| 18 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | @broosaction  |  | Zambia | 3200 |
+| 19 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu |  |  | Lusaka, Zambia | 3128 |
+| 20 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | Student  |  | LUSAKA, ZAMBIA | 3101 |

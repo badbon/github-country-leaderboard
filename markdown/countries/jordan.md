@@ -1,6 +1,6 @@
 # Jordan
 
-Indexed users: 4,025
+Indexed users: 4,024
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,025
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-10T15:16:42.263Z
+Generated: 2026-10-10T16:39:17.689Z

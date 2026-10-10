@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-10T14:48:52.027Z
+Generated: 2026-10-10T16:13:43.591Z
 
 Users: 2132
 
@@ -25,4 +25,4 @@ Users: 2132
 | 17 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 3701 |
 | 18 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim |  |  | Bosnia and Herzegovina | 3692 |
 | 19 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 3612 |
-| 20 | [Arqu](https://github.com/Arqu) | Asmir Avdicevic |  |  | Sarajevo, Bosnia and Herzegovina | 3543 |
+| 20 | [nermedin](https://github.com/nermedin) | Nermedin Džeković | Puzzles IT |  | Bosnia and Herzegovina | 3572 |

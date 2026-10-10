@@ -18,7 +18,7 @@ Indexed users: 67
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,312 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,732 |
 | 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,436 |
-| 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,358 |
+| 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,359 |
 | 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,210 |
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,035 |
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 1,990 |
@@ -37,7 +37,7 @@ Indexed users: 67
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 1,418 |
+| 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 1,419 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 999 |
 | 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 987 |
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 517 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-10T15:03:41.274Z
+Generated: 2026-10-10T16:28:00.942Z

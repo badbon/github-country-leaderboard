@@ -30,8 +30,8 @@ Indexed users: 1,497
 | 16 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref | Kabul Afghanistan | 5,656 |
 | 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,136 |
 | 18 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
-| 19 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | Kabul, Afghanistan | 4,854 |
-| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,839 |
+| 19 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,839 |
+| 20 | [ehsanbigzad](https://github.com/ehsanbigzad) | Ehsan | Afghanistan | 4,807 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,497
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 116 |
 
-Generated: 2026-10-10T14:37:05.091Z
+Generated: 2026-10-10T16:03:59.749Z

@@ -56,7 +56,7 @@ Indexed users: 2,041
 | 17 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
 | 18 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
 | 19 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,497 |
-| 20 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,448 |
+| 20 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,452 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-10T14:28:44.659Z
+Generated: 2026-10-10T15:53:26.579Z

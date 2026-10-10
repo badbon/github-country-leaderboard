@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-10T15:00:41.467Z
+Generated: 2026-10-10T16:24:33.964Z
 
 Users: 4899
 
@@ -16,8 +16,8 @@ Users: 4899
 | 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | @nyaruka |  | Quito, Ecuador | 3730 |
 | 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Universidad de las Fuerzas Armadas "ESPE" |  | Quito, Ecuador | 3341 |
 | 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | AlcbSystems | alcb1310 | Quito, Ecuador | 2443 |
-| 11 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez |  |  | Ambato, Ecuador  | 2376 |
-| 12 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia |  |  | Ecuador | 2318 |
+| 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia |  |  | Ecuador | 2429 |
+| 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez |  |  | Ambato, Ecuador  | 2376 |
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
 | 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |

@@ -15,7 +15,7 @@ Indexed users: 1,654
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 30,600 |
 | 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Borrowdale, Harare | 9,480 |
 | 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | Mutare, Zimbabwe | 9,326 |
-| 4 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,682 |
+| 4 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Zimbabwe | 7,511 |
 | 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,290 |
 | 6 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 7,217 |
 | 7 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 7,208 |
@@ -83,4 +83,4 @@ Indexed users: 1,654
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-10T14:36:28.752Z
+Generated: 2026-10-10T16:03:29.542Z

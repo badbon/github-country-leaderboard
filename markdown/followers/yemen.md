@@ -1,13 +1,13 @@
 # Followers - Yemen
 
-Generated: 2026-10-10T14:36:09.644Z
+Generated: 2026-10-10T16:03:19.395Z
 
-Users: 1212
+Users: 1211
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid |  |  | Yemen | 7557 |
-| 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 904 |
+| 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 922 |
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 891 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | @openjdk and @graalvm  |  | Yemen | 686 |
 | 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Co·founder @YemenOpenSource | watheq_show | Yemen | 403 |

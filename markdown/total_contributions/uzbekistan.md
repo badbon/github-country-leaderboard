@@ -1,8 +1,8 @@
 # Total Contributions - Uzbekistan
 
-Generated: 2026-10-10T14:34:36.810Z
+Generated: 2026-10-10T16:00:57.878Z
 
-Users: 9531
+Users: 9530
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,7 +18,7 @@ Users: 9531
 | 10 | [phanthom335](https://github.com/phanthom335) | phanthom |  |  | Uzbekistan | 10118 |
 | 11 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev |  |  | Uzbekistan | 10053 |
 | 12 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | IT-PARK |  | Xonqa, Xorazm, Uzbekistan | 10001 |
-| 13 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  |  |  | Uzbekistan | 9606 |
+| 13 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  |  |  | Uzbekistan | 9624 |
 | 14 | [itsakbarov](https://github.com/itsakbarov) | Sardor | io.net | itsakbarov | Tashkent, Uzbekistan | 9240 |
 | 15 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Safia |  | Tashkent | 9032 |
 | 16 | [Dave93](https://github.com/Dave93) | Davron Yuldashev |  | YulDavr | Tashkent, Uzbekistan | 8867 |

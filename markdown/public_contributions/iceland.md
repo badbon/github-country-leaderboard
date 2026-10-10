@@ -1,13 +1,13 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-10T15:11:28.437Z
+Generated: 2026-10-10T16:35:24.410Z
 
 Users: 1583
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | ƒ → sys → cell → db.team  |  | island( waiheke( nz )) | 4181 |
-| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | EFLA |  | Akranes, Iceland | 3282 |
+| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | EFLA |  | Akranes, Iceland | 3568 |
 | 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | almiworld.com |  | iceland | 2693 |
 | 4 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 2453 |
 | 5 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2079 |

@@ -13,19 +13,19 @@ Indexed users: 140
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 53,667 |
-| 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 37,972 |
-| 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,007 |
+| 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,010 |
+| 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,665 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,145 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,114 |
 | 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,672 |
-| 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,585 |
+| 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,586 |
 | 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,098 |
 | 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,058 |
 | 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,364 |
 | 11 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 2,931 |
 | 12 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,929 |
 | 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,392 |
-| 14 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 2,369 |
+| 14 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 2,386 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,736 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | Jersey | 1,625 |
 | 17 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Jersey | 1,384 |
@@ -39,7 +39,7 @@ Indexed users: 140
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 39,999 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 745 |
-| 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 713 |
+| 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 714 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 692 |
 | 5 | [adecler](https://github.com/adecler) | Arnaud Declercq | Jersey | 572 |
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 560 |
@@ -83,4 +83,4 @@ Indexed users: 140
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-10T15:16:10.308Z
+Generated: 2026-10-10T16:39:05.664Z

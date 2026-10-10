@@ -1,6 +1,6 @@
 # Uzbekistan
 
-Indexed users: 9,531
+Indexed users: 9,530
 
 | Leaderboard | Link |
 |---|---|
@@ -24,7 +24,7 @@ Indexed users: 9,531
 | 10 | [phanthom335](https://github.com/phanthom335) | phanthom | Uzbekistan | 10,118 |
 | 11 | [golibnarzullayev](https://github.com/golibnarzullayev) | G'olib Narzullayev | Uzbekistan | 10,053 |
 | 12 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
-| 13 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,606 |
+| 13 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,624 |
 | 14 | [itsakbarov](https://github.com/itsakbarov) | Sardor | Tashkent, Uzbekistan | 9,240 |
 | 15 | [ummataliyev](https://github.com/ummataliyev) | Umidjon Ummataliyev | Tashkent | 9,032 |
 | 16 | [Dave93](https://github.com/Dave93) | Davron Yuldashev | Tashkent, Uzbekistan | 8,867 |
@@ -44,7 +44,7 @@ Indexed users: 9,531
 | 5 | [WIKKIwk](https://github.com/WIKKIwk) | Abdulfattox | in Tashkent | 11,695 |
 | 6 | [ulugbek0217](https://github.com/ulugbek0217) | Ulug'bek Raxmankulov | Samarkand, Uzbekistan | 10,731 |
 | 7 | [gamerhackuz](https://github.com/gamerhackuz) | Mosa | Xonqa, Xorazm, Uzbekistan | 10,001 |
-| 8 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,527 |
+| 8 | [RahimovShaxriyor](https://github.com/RahimovShaxriyor) | Shaxriyor  | Uzbekistan | 9,535 |
 | 9 | [Maxliyo0404](https://github.com/Maxliyo0404) | Maxliyo | Tashkent | 7,727 |
 | 10 | [Secret-Uzbek](https://github.com/Secret-Uzbek) | Secret Uzbek | Tashkent, Uzbekistan | 6,957 |
 | 11 | [baxtiyorjongaziyev](https://github.com/baxtiyorjongaziyev) | Baxtiyorjon Gaziyev | Uzbekistan | 5,127 |
@@ -53,10 +53,10 @@ Indexed users: 9,531
 | 14 | [abbosch1k](https://github.com/abbosch1k) | tasher | Uzbekistan | 3,495 |
 | 15 | [husanxonminavvarov717](https://github.com/husanxonminavvarov717) | HMance | Uzbekistan  | 3,184 |
 | 16 | [diyor28](https://github.com/diyor28) | Diyor Khaydarov | Uzbekistan, Tashkent | 3,130 |
-| 17 | [AkobirCoder](https://github.com/AkobirCoder) | Akobir Usmonov | Uzbekistan, Tashkent | 2,985 |
-| 18 | [Alisher1994](https://github.com/Alisher1994) | Alisher Musayev | Uzbekistan | 2,951 |
-| 19 | [phanthom335](https://github.com/phanthom335) | phanthom | Uzbekistan | 2,937 |
-| 20 | [imfozilbek](https://github.com/imfozilbek) | Fozilbek Samiyev | Uzbekistan, Tashkent. | 2,848 |
+| 17 | [Alisher1994](https://github.com/Alisher1994) | Alisher Musayev | Uzbekistan | 2,951 |
+| 18 | [phanthom335](https://github.com/phanthom335) | phanthom | Uzbekistan | 2,937 |
+| 19 | [imfozilbek](https://github.com/imfozilbek) | Fozilbek Samiyev | Uzbekistan, Tashkent. | 2,848 |
+| 20 | [AkobirCoder](https://github.com/AkobirCoder) | Akobir Usmonov | Uzbekistan, Tashkent | 2,678 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 9,531
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-10T14:34:36.810Z
+Generated: 2026-10-10T16:00:57.878Z

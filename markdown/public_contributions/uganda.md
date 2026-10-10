@@ -1,6 +1,6 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-10T14:32:36.207Z
+Generated: 2026-10-10T15:59:21.054Z
 
 Users: 3879
 
@@ -13,7 +13,7 @@ Users: 3879
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 4382 |
 | 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre |  |  | Kampala | 3882 |
 | 7 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 2995 |
-| 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick |  |  | kampala | 2859 |
+| 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick |  |  | kampala | 2789 |
 | 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi |  |  | Uganda | 2776 |
 | 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL |  | buteramarcel | Kampala,Uganda | 2600 |
 | 11 | [afuchat1](https://github.com/afuchat1) | afuchat | AfuChat |  | Uganda | 2539 |

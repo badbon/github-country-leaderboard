@@ -38,7 +38,7 @@ Indexed users: 1,583
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 4,181 |
-| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,282 |
+| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
 | 3 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 2,693 |
 | 4 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,453 |
 | 5 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,079 |
@@ -83,4 +83,4 @@ Indexed users: 1,583
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-10T15:11:28.437Z
+Generated: 2026-10-10T16:35:24.410Z

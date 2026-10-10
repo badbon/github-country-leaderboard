@@ -44,7 +44,7 @@ Indexed users: 3,879
 | 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,382 |
 | 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
 | 7 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,995 |
-| 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,859 |
+| 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,789 |
 | 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,776 |
 | 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
 | 11 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
@@ -83,4 +83,4 @@ Indexed users: 3,879
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-10T14:32:36.207Z
+Generated: 2026-10-10T15:59:21.054Z

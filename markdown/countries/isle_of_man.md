@@ -14,7 +14,7 @@ Indexed users: 155
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,241 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 9,959 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 6,645 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 6,175 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,559 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,423 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
@@ -37,7 +37,7 @@ Indexed users: 155
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 4,141 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 3,671 |
 | 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 880 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 734 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 718 |
@@ -50,7 +50,7 @@ Indexed users: 155
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | Isle of Man | 246 |
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Isle of Man | 216 |
 | 13 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 154 |
-| 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 134 |
+| 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 138 |
 | 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 123 |
 | 16 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 108 |
 | 17 | [K1erans](https://github.com/K1erans) | Kieran | Isle of man | 106 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-10T15:14:31.355Z
+Generated: 2026-10-10T16:36:43.230Z

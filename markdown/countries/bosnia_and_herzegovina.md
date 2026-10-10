@@ -31,7 +31,7 @@ Indexed users: 2,132
 | 17 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 3,701 |
 | 18 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim | Bosnia and Herzegovina | 3,692 |
 | 19 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 3,612 |
-| 20 | [Arqu](https://github.com/Arqu) | Asmir Avdicevic | Sarajevo, Bosnia and Herzegovina | 3,543 |
+| 20 | [nermedin](https://github.com/nermedin) | Nermedin Džeković | Bosnia and Herzegovina | 3,572 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,132
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-10T14:48:52.027Z
+Generated: 2026-10-10T16:13:43.591Z

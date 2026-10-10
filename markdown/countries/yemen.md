@@ -1,6 +1,6 @@
 # Yemen
 
-Indexed users: 1,212
+Indexed users: 1,211
 
 | Leaderboard | Link |
 |---|---|
@@ -17,12 +17,12 @@ Indexed users: 1,212
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim | Sana'a  | 24,955 |
 | 4 | [Anwar-alhitar](https://github.com/Anwar-alhitar) | Anwar_alhitar  | Yemen sana'a  | 24,726 |
 | 5 | [saqer23](https://github.com/saqer23) | Saqer Aljabri | Yemen | 11,370 |
-| 6 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | Yemen | 8,587 |
-| 7 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Yemen | 8,443 |
-| 8 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali | Yemen | 8,328 |
-| 9 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 8,274 |
-| 10 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Sana'a Yemen | 8,119 |
-| 11 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 7,870 |
+| 6 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 8,667 |
+| 7 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | Yemen | 8,587 |
+| 8 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Yemen | 8,443 |
+| 9 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali | Yemen | 8,328 |
+| 10 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | Yemen,Ibb city | 8,274 |
+| 11 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Sana'a Yemen | 8,119 |
 | 12 | [omaralalwi](https://github.com/omaralalwi) | Omar Alalwi | sana'a Yemen | 7,239 |
 | 13 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Yemen | 7,145 |
 | 14 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | Yemen  | 7,036 |
@@ -30,8 +30,8 @@ Indexed users: 1,212
 | 16 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | Yemen | 6,678 |
 | 17 | [mr3od](https://github.com/mr3od) | Abdulrahman | Yemen | 6,412 |
 | 18 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | Yemen ,Sanaa - Hadda Street | 6,361 |
-| 19 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,050 |
-| 20 | [mrwan-1](https://github.com/mrwan-1) | Marwan Abdullah | Yemen , Sanaa | 6,011 |
+| 19 | [yousef-aman](https://github.com/yousef-aman) | Yousef Aman | Yemen | 6,134 |
+| 20 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Haziz- Sana'a | 6,050 |
 
 ## Public Contributions
 
@@ -63,7 +63,7 @@ Indexed users: 1,212
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid | Yemen | 7,557 |
-| 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 904 |
+| 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Sana'a ,Yemen | 922 |
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed | Yemen | 891 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | Yemen | 686 |
 | 5 | [WatheqAlshowaiter](https://github.com/WatheqAlshowaiter) | Watheq Alshowaiter | Yemen | 403 |
@@ -83,4 +83,4 @@ Indexed users: 1,212
 | 19 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 160 |
 | 20 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 157 |
 
-Generated: 2026-10-10T14:36:09.644Z
+Generated: 2026-10-10T16:03:19.395Z

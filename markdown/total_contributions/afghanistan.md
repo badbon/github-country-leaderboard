@@ -1,6 +1,6 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-10T14:37:05.091Z
+Generated: 2026-10-10T16:03:59.749Z
 
 Users: 1497
 
@@ -24,5 +24,5 @@ Users: 1497
 | 16 | [Ali-Aref](https://github.com/Ali-Aref) | Ali Aref |  |  | Kabul Afghanistan | 5656 |
 | 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5136 |
 | 18 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
-| 19 | [HajiRohullah](https://github.com/HajiRohullah) | Rohullah Hussaini | @Code9ine |  | Kabul, Afghanistan | 4854 |
-| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4839 |
+| 19 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4839 |
+| 20 | [ehsanbigzad](https://github.com/ehsanbigzad) | Ehsan |  | ehsanbigzad | Afghanistan | 4807 |

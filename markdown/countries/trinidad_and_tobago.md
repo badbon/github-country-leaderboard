@@ -19,7 +19,7 @@ Indexed users: 256
 | 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,121 |
 | 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,982 |
 | 7 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 2,981 |
-| 8 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 2,812 |
+| 8 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 2,815 |
 | 9 | [creativenull](https://github.com/creativenull) | Arnold Chand | Trinidad and Tobago | 2,277 |
 | 10 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 2,136 |
 | 11 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli | Trinidad and Tobago | 2,123 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-10T14:31:00.789Z
+Generated: 2026-10-10T15:55:19.489Z

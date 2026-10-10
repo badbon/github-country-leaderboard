@@ -1,8 +1,8 @@
 # Followers - Georgia
 
-Generated: 2026-10-10T14:36:32.211Z
+Generated: 2026-10-10T16:03:32.208Z
 
-Users: 6903
+Users: 6902
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

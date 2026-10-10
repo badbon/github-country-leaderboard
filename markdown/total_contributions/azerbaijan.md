@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-10T14:40:55.637Z
+Generated: 2026-10-10T16:08:45.908Z
 
 Users: 5086
 
@@ -20,8 +20,8 @@ Users: 5086
 | 12 | [zaursharifov](https://github.com/zaursharifov) | Zaur Sharifov | AFEA |  | Baku, Azerbaijan | 6052 |
 | 13 | [kerimovok](https://github.com/kerimovok) | Orkhan Karimov | HonestJS | karimovokx | Baku, Azerbaijan | 5607 |
 | 14 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
-| 15 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5535 |
-| 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
+| 15 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
+| 16 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5262 |
 | 17 | [UlviSuleymanov](https://github.com/UlviSuleymanov) | Ülvi Süleymanov | Bytable Games |  | Sumqayit , Azerbaijan | 5233 |
 | 18 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5045 |
 | 19 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 4767 |
