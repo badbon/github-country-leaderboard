@@ -11502,9 +11502,9 @@
     "location": "Belgium",
     "company": "@BosmanTechGroup",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 348,
-    "publicContributions": 333,
+    "followers": 10,
+    "privateContributions": 342,
+    "publicContributions": 342,
     "createdAt": "2023-10-16T09:59:04Z"
   },
   {
@@ -11514,22 +11514,10 @@
     "location": "Belgium",
     "company": "SPRAWL.software",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 201,
-    "publicContributions": 36,
+    "followers": 12,
+    "privateContributions": 227,
+    "publicContributions": 41,
     "createdAt": "2023-12-15T12:23:38Z"
-  },
-  {
-    "login": "chenhua-l33",
-    "name": "Chenhua Li",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148542688?s=72&u=2c34f294fd7510ef7ce5a37a45be5e90a6e1764a&v=4",
-    "location": "Brussels, Belgium",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 44,
-    "createdAt": "2023-10-20T10:10:54Z"
   },
   {
     "login": "Aurelien229",
@@ -11538,7 +11526,7 @@
     "location": "Belgium",
     "company": "BeCode",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-21T12:43:34Z"
@@ -11550,7 +11538,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 5,
     "publicContributions": 1,
     "createdAt": "2023-09-26T08:37:51Z"
@@ -11574,9 +11562,9 @@
     "location": "Vilvoorde, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 594,
-    "publicContributions": 532,
+    "followers": 11,
+    "privateContributions": 517,
+    "publicContributions": 1015,
     "createdAt": "2023-09-18T07:38:30Z"
   },
   {
@@ -11634,9 +11622,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 216,
-    "publicContributions": 509,
+    "followers": 12,
+    "privateContributions": 159,
+    "publicContributions": 513,
     "createdAt": "2023-02-02T16:17:37Z"
   },
   {
@@ -11647,7 +11635,7 @@
     "company": "Not Employed",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 813,
+    "privateContributions": 598,
     "publicContributions": 11,
     "createdAt": "2023-02-03T02:42:44Z"
   },
@@ -11658,9 +11646,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 177,
     "createdAt": "2023-09-14T09:18:52Z"
   },
   {
@@ -11671,7 +11659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2023-08-18T10:58:54Z"
   },
@@ -11682,9 +11670,9 @@
     "location": "Belgium",
     "company": "YNARCHIVE",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 2603,
-    "publicContributions": 942,
+    "followers": 8,
+    "privateContributions": 7962,
+    "publicContributions": 1029,
     "createdAt": "2023-08-12T13:50:54Z"
   },
   {
@@ -11694,9 +11682,9 @@
     "location": "Gent, Belgium",
     "company": "Ghent University",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 190,
-    "publicContributions": 112,
+    "followers": 12,
+    "privateContributions": 535,
+    "publicContributions": 134,
     "createdAt": "2023-01-23T09:22:10Z"
   },
   {
@@ -11706,9 +11694,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1232,
-    "publicContributions": 76,
+    "followers": 7,
+    "privateContributions": 297,
+    "publicContributions": 1002,
     "createdAt": "2023-04-19T20:05:59Z"
   },
   {
@@ -11720,7 +11708,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 5,
     "createdAt": "2023-09-19T09:30:14Z"
   },
   {

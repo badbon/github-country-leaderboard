@@ -11532,18 +11532,6 @@
     "createdAt": "2021-04-12T18:05:55Z"
   },
   {
-    "login": "stefanlinde95",
-    "name": "StefanL",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78504230?s=72&v=4",
-    "location": "Tallinn, Estonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 364,
-    "publicContributions": 3,
-    "createdAt": "2021-02-03T19:18:16Z"
-  },
-  {
     "login": "ghorbaniam",
     "name": "Amir Ghorbani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86163086?s=72&u=03788e9478b066ad977779179bc1ad50aea5ed28&v=4",
@@ -11576,7 +11564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-10-29T10:25:58Z"
   },
   {
@@ -11624,7 +11612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2021-07-28T19:44:38Z"
   },
   {
@@ -11684,7 +11672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 127,
     "createdAt": "2021-03-18T15:06:04Z"
   },
   {
@@ -11707,8 +11695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 136,
+    "privateContributions": 129,
+    "publicContributions": 143,
     "createdAt": "2021-10-19T18:41:32Z"
   },
   {
@@ -11731,7 +11719,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 298,
+    "privateContributions": 351,
     "publicContributions": 0,
     "createdAt": "2021-09-01T15:47:31Z"
   },

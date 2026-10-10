@@ -11275,7 +11275,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 38,
+    "privateContributions": 33,
     "publicContributions": 51,
     "createdAt": "2025-06-29T14:10:43Z"
   },
@@ -11286,7 +11286,7 @@
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 73,
     "createdAt": "2025-01-15T12:18:21Z"
@@ -11299,7 +11299,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4356,
+    "privateContributions": 6371,
     "publicContributions": 26,
     "createdAt": "2025-02-03T10:01:18Z"
   },
@@ -11312,7 +11312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2025-09-02T13:08:46Z"
   },
   {
@@ -11372,7 +11372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-07-09T12:14:24Z"
   },
   {
@@ -11408,7 +11408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 29,
     "createdAt": "2025-07-09T07:04:41Z"
   },
   {
@@ -11420,7 +11420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 84,
     "createdAt": "2025-07-15T05:29:43Z"
   },
   {
@@ -11430,9 +11430,9 @@
     "location": "South Africa",
     "company": "NeuroSyncTeam AI Dynamics Pty Ltd",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 141,
+    "publicContributions": 716,
     "createdAt": "2025-08-13T11:38:13Z"
   },
   {
@@ -11492,7 +11492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 61,
     "createdAt": "2025-05-22T05:46:18Z"
   },
   {
@@ -215302,5 +215302,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-02T12:57:19Z"
+  },
+  {
+    "login": "yashiel-stitch",
+    "name": "Yashiel Sookdeo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289072380?s=72&u=f53bbf87097a5e6c95c69be85f4dc8db1b25eaa3&v=4",
+    "location": "Cape Town",
+    "company": "@Stitch-Money",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 1241,
+    "publicContributions": 26,
+    "createdAt": "2026-05-29T22:15:30Z"
+  },
+  {
+    "login": "ubayd-hattas",
+    "name": "Ubayd Hattas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288050011?s=72&u=e4776147e10cb728420852fc3b720512c50d1120&v=4",
+    "location": "Cape Town",
+    "company": "University Of Cape Town",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2026-05-26T14:47:16Z"
+  },
+  {
+    "login": "luthomdotii-code",
+    "name": "Lutho Mdoti",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285320823?s=72&v=4",
+    "location": "Cape Town ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-17T01:42:57Z"
+  },
+  {
+    "login": "Immel-21",
+    "name": "Immel Euge",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293431659?s=72&u=85c6aee83200462211812702a5af154f6f843e9c&v=4",
+    "location": "Cape Town",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 131,
+    "createdAt": "2026-06-13T18:32:34Z"
   }
 ]

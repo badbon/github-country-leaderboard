@@ -11600,20 +11600,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-06-15T19:03:58Z"
-  },
-  {
-    "login": "OlgaOlmi",
-    "name": "Olga Mindlina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136970712?s=72&u=f1cbda66997a0d8a9b00ea808ada87d037b7cf23&v=4",
-    "location": "Israel",
-    "company": "Freelancer",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
     "publicContributions": 0,
-    "createdAt": "2023-06-18T11:20:20Z"
+    "createdAt": "2023-06-15T19:03:58Z"
   },
   {
     "login": "OmriYanay",
@@ -11636,7 +11624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 40,
     "createdAt": "2023-07-26T07:30:41Z"
   },
   {
@@ -11648,7 +11636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2023-07-27T20:00:27Z"
   },
   {
@@ -11660,7 +11648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 79,
     "createdAt": "2023-07-20T08:22:20Z"
   },
   {
@@ -11682,7 +11670,7 @@
     "location": "Tel Aviv, Israel",
     "company": "@microsoft",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2023-03-14T13:54:58Z"
@@ -11696,13 +11684,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 32,
+    "publicContributions": 12,
     "createdAt": "2023-03-19T15:01:24Z"
   },
   {
     "login": "alon-sagi",
     "name": "Alon Sagi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131533314?s=72&u=62ff30ee31c95bfc0934b811350a03c29d0d073b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131533314?s=72&u=c22937a58ac0bea8165ca7b0aca47757d7104292&v=4",
     "location": "Israel, Haifa",
     "company": "",
     "twitterUsername": "",
@@ -11732,7 +11720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1881,
+    "publicContributions": 2016,
     "createdAt": "2023-04-15T20:32:25Z"
   },
   {
@@ -11760,18 +11748,6 @@
     "createdAt": "2023-11-07T10:53:13Z"
   },
   {
-    "login": "evilae",
-    "name": "elivae",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154668440?s=72&u=d38b5b4404ea7029a11927245a152a11502a5303&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-12-23T09:39:22Z"
-  },
-  {
     "login": "edengolan1",
     "name": "Eden Golan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/138560566?s=72&v=4",
@@ -11792,7 +11768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 25,
     "createdAt": "2023-01-26T12:57:24Z"
   },
   {

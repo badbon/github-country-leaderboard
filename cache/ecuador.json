@@ -11576,7 +11576,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 0,
     "createdAt": "2022-09-06T12:44:20Z"
   },
   {
@@ -11586,9 +11586,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 172,
     "createdAt": "2022-01-13T15:27:35Z"
   },
   {
@@ -11599,8 +11599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 391,
-    "publicContributions": 151,
+    "privateContributions": 406,
+    "publicContributions": 144,
     "createdAt": "2022-07-08T18:39:07Z"
   },
   {
@@ -11610,9 +11610,9 @@
     "location": "Quito, Ecuador",
     "company": "Instituto Mayor Pedro Traversari",
     "twitterUsername": "joseph_e56",
-    "followers": 9,
-    "privateContributions": 404,
-    "publicContributions": 547,
+    "followers": 10,
+    "privateContributions": 240,
+    "publicContributions": 852,
     "createdAt": "2022-05-31T05:09:27Z"
   },
   {
@@ -11622,9 +11622,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 230,
-    "publicContributions": 2318,
+    "followers": 10,
+    "privateContributions": 221,
+    "publicContributions": 2429,
     "createdAt": "2022-11-17T00:26:35Z"
   },
   {
@@ -11634,9 +11634,9 @@
     "location": "Loja, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 80,
-    "publicContributions": 5,
+    "followers": 7,
+    "privateContributions": 216,
+    "publicContributions": 0,
     "createdAt": "2022-07-21T01:31:48Z"
   },
   {
@@ -11658,9 +11658,9 @@
     "location": "Ecuador",
     "company": "Monkey Computerec | PyWombat",
     "twitterUsername": "darkmariod",
-    "followers": 8,
-    "privateContributions": 47,
-    "publicContributions": 556,
+    "followers": 10,
+    "privateContributions": 92,
+    "publicContributions": 643,
     "createdAt": "2022-07-12T02:57:52Z"
   },
   {
@@ -11672,7 +11672,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 24,
     "createdAt": "2022-07-25T16:14:11Z"
   },
   {
@@ -11684,7 +11684,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 99,
     "createdAt": "2022-05-16T19:46:28Z"
   },
   {
@@ -11696,7 +11696,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2022-04-11T02:04:47Z"
   },
   {
@@ -11706,9 +11706,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 132,
-    "publicContributions": 147,
+    "followers": 9,
+    "privateContributions": 844,
+    "publicContributions": 167,
     "createdAt": "2022-05-19T13:15:11Z"
   },
   {
@@ -11726,12 +11726,12 @@
   {
     "login": "pabloeth",
     "name": "Pablo Fabian",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98679975?s=72&u=10bf822d8725ad3e28c37e75b671e23e35581310&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98679975?s=72&u=7597cbb3ce14342830d7449a06ffa13b916c704b&v=4",
     "location": "Manta, Ecuador",
-    "company": "",
+    "company": "@shellcatch",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 966,
+    "followers": 9,
+    "privateContributions": 895,
     "publicContributions": 0,
     "createdAt": "2022-01-30T05:24:31Z"
   },
@@ -11754,9 +11754,9 @@
     "location": "Quito, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 810,
-    "publicContributions": 327,
+    "followers": 6,
+    "privateContributions": 819,
+    "publicContributions": 324,
     "createdAt": "2022-05-02T16:01:50Z"
   },
   {
@@ -11767,8 +11767,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 38,
-    "publicContributions": 3,
+    "privateContributions": 39,
+    "publicContributions": 18,
     "createdAt": "2022-07-28T01:13:21Z"
   },
   {
@@ -11778,7 +11778,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 489,
     "createdAt": "2022-01-04T21:26:05Z"
@@ -11798,13 +11798,13 @@
   {
     "login": "bryandelgado99",
     "name": "Paul Delgado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115591939?s=72&u=a49446d1173b21025c65ccc06d5e9d9053a259f1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115591939?s=72&u=576300d1f798a0bde1b26775c02ffddf8b8df07d&v=4",
     "location": "Ecuador",
-    "company": "PaulDev",
+    "company": "@e-Condor-Digital ",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 70,
     "createdAt": "2022-10-11T21:30:36Z"
   },
   {

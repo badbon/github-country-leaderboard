@@ -11324,7 +11324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2019-06-04T08:19:48Z"
   },
   {
@@ -11345,23 +11345,11 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/59014877?s=72&u=e2e88ee24e9bf70e519ee1c6a66074d877145a57&v=4",
     "location": "Yemen",
     "company": "",
-    "twitterUsername": "YousefStack",
+    "twitterUsername": "YousefAmanDev",
     "followers": 2,
-    "privateContributions": 4857,
-    "publicContributions": 63,
+    "privateContributions": 5950,
+    "publicContributions": 184,
     "createdAt": "2019-12-18T10:31:46Z"
-  },
-  {
-    "login": "lyou00",
-    "name": "Ebrahim Alazny",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/50001109?s=72&u=6d4c763e763da21de7c35c66a7f274218cce757b&v=4",
-    "location": "Yemen",
-    "company": "Cyber Pro",
-    "twitterUsername": "IAlazeny",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2019-04-25T23:35:14Z"
   },
   {
     "login": "bassamprog",
@@ -11490,9 +11478,9 @@
     "location": "Sana'a ,Yemen",
     "company": "Tazamun",
     "twitterUsername": "",
-    "followers": 904,
-    "privateContributions": 7867,
-    "publicContributions": 3,
+    "followers": 922,
+    "privateContributions": 8372,
+    "publicContributions": 295,
     "createdAt": "2018-09-23T23:32:50Z"
   },
   {
@@ -11502,21 +11490,21 @@
     "location": "Sana'a, Yemen",
     "company": "@ReCoded-Org",
     "twitterUsername": "",
-    "followers": 129,
-    "privateContributions": 1022,
+    "followers": 131,
+    "privateContributions": 1843,
     "publicContributions": 3,
     "createdAt": "2018-06-21T13:26:48Z"
   },
   {
     "login": "akramghaleb",
     "name": "Akram Ghaleb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46090581?s=72&u=15fa715bf39cb9c7e926ad3253504284b7adbfc2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46090581?s=72&u=e0abbe10e0241056f45aae48499c0e307528ac5e&v=4",
     "location": "Yemen",
-    "company": "Malsoon AI",
+    "company": "Mlsoon AI",
     "twitterUsername": "AkramHub",
-    "followers": 97,
-    "privateContributions": 4112,
-    "publicContributions": 55,
+    "followers": 102,
+    "privateContributions": 4400,
+    "publicContributions": 114,
     "createdAt": "2018-12-23T17:28:45Z"
   },
   {
@@ -11526,8 +11514,8 @@
     "location": "Yemen, Sana'a",
     "company": "Software Engineer",
     "twitterUsername": "",
-    "followers": 71,
-    "privateContributions": 1157,
+    "followers": 75,
+    "privateContributions": 1469,
     "publicContributions": 261,
     "createdAt": "2018-12-06T18:00:19Z"
   },
@@ -11539,7 +11527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 54,
-    "privateContributions": 769,
+    "privateContributions": 905,
     "publicContributions": 3,
     "createdAt": "2018-03-18T10:59:39Z"
   },

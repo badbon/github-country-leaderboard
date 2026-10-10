@@ -1099,7 +1099,7 @@
     "company": "self-employed",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 186,
+    "privateContributions": 190,
     "publicContributions": 80,
     "createdAt": "2025-12-19T18:51:43Z"
   },
@@ -1122,7 +1122,7 @@
     "location": "Somalia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 80,
     "publicContributions": 152,
     "createdAt": "2025-07-22T03:56:06Z"
@@ -10306,5 +10306,77 @@
     "privateContributions": 335,
     "publicContributions": 32,
     "createdAt": "2020-01-26T08:54:18Z"
+  },
+  {
+    "login": "AhmetCreativity",
+    "name": "Ahmet Abdirizak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289963191?s=72&u=7c13625702ebc445df2c18b31ed6497e5d40bcbe&v=4",
+    "location": "somalia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2026-06-02T08:42:28Z"
+  },
+  {
+    "login": "nasteho-abdi",
+    "name": "Nasteho Abdi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294110845?s=72&u=f7f475d0b41d610980633d992be453db74e6b6c8&v=4",
+    "location": "Kismayo,Somalia",
+    "company": "Student At kismayo university",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 69,
+    "createdAt": "2026-06-16T08:19:52Z"
+  },
+  {
+    "login": "Abdijabardeckadam",
+    "name": "Abdijabar Deck Adam",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286437085?s=72&v=4",
+    "location": "Galkayo, Somalia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2026-05-20T18:05:14Z"
+  },
+  {
+    "login": "Sumad-Technology",
+    "name": "Sumad Technology ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293141839?s=72&u=4c264480b33ed2f45076481699ac80fdb094145c&v=4",
+    "location": "KM4, Mogadishu-Somalia",
+    "company": "Sumad Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-12T15:17:30Z"
+  },
+  {
+    "login": "Ruqia-mo",
+    "name": "Ruqia Mohamud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293424745?s=72&u=a468491ecd125c2797f1fb044caa339609ba3c9e&v=4",
+    "location": "Mogadishu, Somalia ",
+    "company": "Student at University of Somalia ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 165,
+    "createdAt": "2026-06-13T17:50:24Z"
+  },
+  {
+    "login": "suheybabdirahman10",
+    "name": "Suheib Abdirahman",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285879065?s=72&u=7475872d146b193c84100b87e2107ae31afce42f&v=4",
+    "location": "Mogadishu , Somalia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-05-19T03:38:17Z"
   }
 ]

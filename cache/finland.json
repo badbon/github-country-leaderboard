@@ -11264,7 +11264,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 4,
-    "publicContributions": 311,
+    "publicContributions": 289,
     "createdAt": "2023-01-16T21:47:51Z"
   },
   {
@@ -11276,20 +11276,8 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-07-26T11:50:21Z"
-  },
-  {
-    "login": "YtJalppa",
-    "name": "Jalppa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139807986?s=72&u=573856729dc0a565e6842f72824c63e1b206162c&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2023-07-17T18:44:23Z"
   },
   {
     "login": "amandaleee468",
@@ -11324,7 +11312,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 46,
     "createdAt": "2023-07-01T17:00:12Z"
   },
   {
@@ -11341,14 +11329,14 @@
   },
   {
     "login": "kravishan",
-    "name": "Kavindu Ravishan",
+    "name": "Kavindu Ravishan Perera",
     "avatarUrl": "https://avatars.githubusercontent.com/u/125926016?s=72&u=bf2c3fce619eb8fbee225347ec7f1fe61295f94b&v=4",
     "location": "Oulu, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 771,
-    "publicContributions": 14,
+    "followers": 9,
+    "privateContributions": 756,
+    "publicContributions": 17,
     "createdAt": "2023-02-20T21:38:35Z"
   },
   {
@@ -11369,10 +11357,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/151925563?s=72&u=6bb1fa71b5012aa8076108423bdbf39fb85208c8&v=4",
     "location": "Finland",
     "company": "",
-    "twitterUsername": "vpakarinen2",
+    "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 480,
+    "publicContributions": 402,
     "createdAt": "2023-11-24T11:03:25Z"
   },
   {
@@ -11395,8 +11383,8 @@
     "company": "Åbo Akademi",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 56,
-    "publicContributions": 86,
+    "privateContributions": 69,
+    "publicContributions": 87,
     "createdAt": "2023-09-25T10:32:29Z"
   },
   {
@@ -11419,8 +11407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 471,
-    "publicContributions": 116,
+    "privateContributions": 505,
+    "publicContributions": 99,
     "createdAt": "2023-09-26T12:20:11Z"
   },
   {
@@ -11431,8 +11419,8 @@
     "company": "Aalto University",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 35,
-    "publicContributions": 81,
+    "privateContributions": 93,
+    "publicContributions": 83,
     "createdAt": "2023-01-08T02:53:09Z"
   },
   {
@@ -11442,7 +11430,7 @@
     "location": "Finland",
     "company": "Freelancer's Organization",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-22T14:43:30Z"
@@ -11454,7 +11442,7 @@
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-11T11:53:11Z"
@@ -11468,7 +11456,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 50,
     "createdAt": "2023-05-11T12:42:08Z"
   },
   {
@@ -11492,7 +11480,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 25,
     "createdAt": "2023-05-22T18:02:58Z"
   },
   {
@@ -145026,7 +145014,7 @@
     "location": "Finland, France",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 123,
     "createdAt": "2014-01-20T18:30:39Z"

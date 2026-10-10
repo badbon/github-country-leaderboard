@@ -11215,7 +11215,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 6,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-09-30T11:51:29Z"
   },
@@ -11226,7 +11226,7 @@
     "location": "Bratislava, Slovakia",
     "company": "Freelance",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-29T19:56:46Z"
@@ -11250,21 +11250,21 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 319,
+    "publicContributions": 481,
     "createdAt": "2021-06-13T15:09:05Z"
   },
   {
     "login": "Exclypsy",
     "name": "Martin Bartko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82393798?s=72&u=ef2707d0e747d8b206decd3ebb0a9f3f67397f74&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/82393798?s=72&u=192ba149ecb6a64e2d56d297fb35b19431d44e8e&v=4",
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 70,
     "createdAt": "2021-04-12T14:36:44Z"
   },
   {
@@ -11276,7 +11276,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 70,
     "createdAt": "2021-12-06T16:52:31Z"
   },
   {
@@ -11288,7 +11288,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 282,
     "createdAt": "2021-07-26T06:57:20Z"
   },
   {
@@ -11299,7 +11299,7 @@
     "company": "",
     "twitterUsername": "dvidpilol",
     "followers": 3,
-    "privateContributions": 14,
+    "privateContributions": 19,
     "publicContributions": 10,
     "createdAt": "2021-02-18T20:33:20Z"
   },
@@ -11322,9 +11322,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-05-08T15:39:46Z"
   },
   {
@@ -11348,20 +11348,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-15T04:10:13Z"
-  },
-  {
-    "login": "Viro102",
-    "name": "Adam Virostek",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94068877?s=72&u=5aa231d68b88f3647e4af6f8f809d729dfec7668&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "Viro102",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 32,
-    "createdAt": "2021-11-10T16:44:06Z"
   },
   {
     "login": "ScrollDP",
@@ -11372,7 +11360,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2021-07-21T11:36:57Z"
   },
   {
@@ -11382,9 +11370,9 @@
     "location": "Žilina, Slovakia",
     "company": "K.M.B.E",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 64,
     "createdAt": "2021-04-29T19:50:47Z"
   },
   {
@@ -11395,7 +11383,7 @@
     "company": "blaze IT s.r.o.",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 90,
+    "privateContributions": 65,
     "publicContributions": 0,
     "createdAt": "2021-01-28T07:29:43Z"
   },
@@ -11406,7 +11394,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-09-22T10:11:42Z"
@@ -11420,7 +11408,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 134,
     "createdAt": "2021-06-05T08:36:49Z"
   },
   {
@@ -11444,7 +11432,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 18,
     "createdAt": "2021-05-31T03:46:58Z"
   },
   {

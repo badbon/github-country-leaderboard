@@ -11383,8 +11383,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 109,
+    "privateContributions": 8,
+    "publicContributions": 128,
     "createdAt": "2014-10-23T14:22:20Z"
   },
   {
@@ -11431,8 +11431,8 @@
     "company": "EFLA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1365,
-    "publicContributions": 3282,
+    "privateContributions": 1531,
+    "publicContributions": 3568,
     "createdAt": "2014-01-06T11:20:04Z"
   },
   {
@@ -11558,13 +11558,13 @@
   {
     "login": "MattiSig",
     "name": "Matthías Sigurbjörnsson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10011902?s=72&u=260c8052017720c6135f901e2ecc0419f1076ff2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10011902?s=72&u=3048d7b0169389144b49961b5737ae7fa7298d98&v=4",
     "location": "Reykjavík, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1162,
-    "publicContributions": 8,
+    "followers": 2,
+    "privateContributions": 1759,
+    "publicContributions": 95,
     "createdAt": "2014-11-30T18:45:14Z"
   },
   {
@@ -11587,8 +11587,8 @@
     "company": "The City of Reykjavík",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 134,
-    "publicContributions": 5,
+    "privateContributions": 119,
+    "publicContributions": 3,
     "createdAt": "2014-02-25T13:31:44Z"
   },
   {
@@ -11599,8 +11599,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 403,
-    "publicContributions": 60,
+    "privateContributions": 336,
+    "publicContributions": 57,
     "createdAt": "2014-04-29T23:00:23Z"
   },
   {
