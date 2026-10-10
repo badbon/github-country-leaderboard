@@ -18,8 +18,8 @@ Indexed users: 296
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,353 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,043 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 2,991 |
-| 7 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 2,096 |
-| 8 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 1,725 |
+| 7 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 2,090 |
+| 8 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 1,698 |
 | 9 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Port Moresby | 1,144 |
 | 10 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande | Port Moresby, Papua New Guinea | 1,138 |
 | 11 | [Amesi](https://github.com/Amesi) | Victor Temokang | Papua New Guinea | 1,052 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-10T02:44:03.798Z
+Generated: 2026-10-10T06:34:52.221Z

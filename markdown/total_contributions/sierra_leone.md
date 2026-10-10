@@ -1,18 +1,18 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-10T02:55:07.582Z
+Generated: 2026-10-10T06:45:36.369Z
 
 Users: 443
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 8242 |
+| 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 8370 |
 | 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 5785 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 5435 |
 | 4 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | TEKI-SL | Georges_mindset | Sierra Leone, West Africa | 5425 |
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 5043 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3704 |
-| 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3569 |
+| 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3563 |
 | 8 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 3362 |
 | 9 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | @monimesl , @monime-lab  | Abarrie_potter | Freetown, Sierra Leone | 2957 |
 | 10 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 2441 |

@@ -19,7 +19,7 @@ Indexed users: 299
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,791 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,153 |
 | 7 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,935 |
-| 8 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,901 |
+| 8 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,926 |
 | 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,877 |
 | 10 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,816 |
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,729 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-10T02:46:21.467Z
+Generated: 2026-10-10T06:39:54.193Z

@@ -12,13 +12,13 @@ Indexed users: 443
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 8,242 |
+| 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | Sierra Leone | 8,370 |
 | 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Freetown. Sierra Leone | 5,785 |
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 5,435 |
 | 4 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | Sierra Leone, West Africa | 5,425 |
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 5,043 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,704 |
-| 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,569 |
+| 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,563 |
 | 8 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 3,362 |
 | 9 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 2,957 |
 | 10 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 2,441 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-10T02:55:07.582Z
+Generated: 2026-10-10T06:45:36.369Z

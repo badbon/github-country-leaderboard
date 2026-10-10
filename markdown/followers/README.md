@@ -169,7 +169,7 @@ Published countries: 234
 | Peru | 9,786 | [View](./peru.md) |
 | Philippines | 19,816 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,464 | [View](./portugal.md) |
+| Portugal | 28,463 | [View](./portugal.md) |
 | Puerto Rico | 1,542 | [View](./puerto_rico.md) |
 | Qatar | 1,075 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,343 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-10T06:33:52.702Z
+Generated: 2026-10-10T06:46:18.991Z
