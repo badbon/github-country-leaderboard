@@ -10603,7 +10603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 808,
+    "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2021-09-12T16:03:12Z"
   },
@@ -10627,8 +10627,8 @@
     "company": "Self Taught",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 172,
-    "publicContributions": 114,
+    "privateContributions": 249,
+    "publicContributions": 169,
     "createdAt": "2021-07-31T13:36:40Z"
   },
   {
@@ -10638,9 +10638,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 171,
     "createdAt": "2021-01-26T19:17:17Z"
   },
   {
@@ -10650,9 +10650,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-02-14T19:32:20Z"
   },
   {
@@ -10682,11 +10682,11 @@
   {
     "login": "aytajzada",
     "name": "Aytaj Ismayilzada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78275315?s=72&u=2fe40a43e06f7e6d0d60f72e917318637fc814a4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78275315?s=72&u=876f1eb7c6530879d65abbc25abcf9b574e9c00b&v=4",
     "location": "Estonia, Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-30T18:43:04Z"
@@ -10698,9 +10698,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 22,
-    "publicContributions": 58,
+    "followers": 3,
+    "privateContributions": 24,
+    "publicContributions": 57,
     "createdAt": "2021-04-06T14:35:02Z"
   },
   {
@@ -10712,7 +10712,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2021-10-14T15:32:02Z"
   },
   {
@@ -10723,7 +10723,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
+    "privateContributions": 223,
     "publicContributions": 0,
     "createdAt": "2021-09-14T19:20:42Z"
   },
@@ -10759,7 +10759,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 570,
+    "privateContributions": 970,
     "publicContributions": 46,
     "createdAt": "2021-08-15T21:27:13Z"
   },
@@ -10772,7 +10772,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2021-03-08T13:23:03Z"
   },
   {
@@ -10784,7 +10784,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2021-02-27T00:00:47Z"
   },
   {
@@ -10796,7 +10796,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2021-06-30T12:09:33Z"
   },
   {
@@ -10808,12 +10808,12 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 8,
     "createdAt": "2021-10-11T14:21:14Z"
   },
   {
     "login": "J8rgen",
-    "name": "Jörgen Varjas",
+    "name": "Jörgen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/92487999?s=72&u=35fee594113baab08d49ead2a54e970160ba157f&v=4",
     "location": "Estonia",
     "company": "",

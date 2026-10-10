@@ -10412,7 +10412,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 27,
     "createdAt": "2024-04-08T13:28:53Z"
   },
   {
@@ -10435,8 +10435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 1,
+    "privateContributions": 28,
+    "publicContributions": 3,
     "createdAt": "2024-03-05T13:11:29Z"
   },
   {
@@ -10494,9 +10494,9 @@
     "location": "Ireland",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 51,
     "createdAt": "2024-02-08T21:49:54Z"
   },
   {
@@ -10508,7 +10508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 228,
     "createdAt": "2024-11-04T14:24:47Z"
   },
   {
@@ -10519,7 +10519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 328,
+    "privateContributions": 1791,
     "publicContributions": 4,
     "createdAt": "2024-07-07T05:39:56Z"
   },
@@ -10532,7 +10532,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 44,
     "createdAt": "2024-07-05T22:43:31Z"
   },
   {
@@ -10554,7 +10554,7 @@
     "location": "Ireland",
     "company": "@OpenUK",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-06T19:35:29Z"
@@ -10568,7 +10568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 15,
     "createdAt": "2024-10-10T10:40:37Z"
   },
   {
@@ -10610,13 +10610,13 @@
   {
     "login": "karagiae",
     "name": "Elena Karagianni",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180448552?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180448552?s=72&u=f0eda6845082abb9a42bfa2af56ec3cac3c95c26&v=4",
     "location": "Dublin, Ireland",
     "company": "Trinity College Dublin",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 23,
     "createdAt": "2024-09-04T16:53:55Z"
   },
   {

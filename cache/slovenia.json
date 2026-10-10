@@ -10387,7 +10387,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 160,
+    "privateContributions": 228,
     "publicContributions": 0,
     "createdAt": "2019-12-03T18:00:59Z"
   },
@@ -10400,7 +10400,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 163,
     "createdAt": "2019-06-23T21:23:44Z"
   },
   {
@@ -10411,7 +10411,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 465,
+    "privateContributions": 194,
     "publicContributions": 19,
     "createdAt": "2019-02-20T21:19:02Z"
   },
@@ -10422,20 +10422,20 @@
     "location": "Maribor, Slovenia",
     "company": "University of Maribor",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 114,
-    "publicContributions": 32,
+    "followers": 9,
+    "privateContributions": 88,
+    "publicContributions": 18,
     "createdAt": "2019-11-18T07:35:41Z"
   },
   {
     "login": "milanm-dev",
     "name": "Milan Milenkovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52612617?s=72&u=32c6cca8c265439f6c394eba1086c2d85ce877bb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52612617?s=72&u=3723ba37e61cba24684c21a0b9b89b7cf7ea8d2d&v=4",
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1070,
+    "privateContributions": 747,
     "publicContributions": 4,
     "createdAt": "2019-07-06T23:05:37Z"
   },
@@ -10447,8 +10447,8 @@
     "company": "@devrev ",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1554,
-    "publicContributions": 388,
+    "privateContributions": 1470,
+    "publicContributions": 419,
     "createdAt": "2019-01-01T19:46:49Z"
   },
   {
@@ -10459,8 +10459,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 311,
-    "publicContributions": 2,
+    "privateContributions": 412,
+    "publicContributions": 1,
     "createdAt": "2019-07-20T16:04:51Z"
   },
   {
@@ -10472,7 +10472,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2019-06-11T09:22:35Z"
   },
   {
@@ -10482,9 +10482,9 @@
     "location": "Slovenia",
     "company": "University of Ljubljana",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 54,
     "createdAt": "2019-02-22T10:23:31Z"
   },
   {
@@ -10531,8 +10531,8 @@
     "company": "Sorted wallet",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 3772,
-    "publicContributions": 52,
+    "privateContributions": 3644,
+    "publicContributions": 53,
     "createdAt": "2019-05-07T15:52:17Z"
   },
   {
@@ -10543,8 +10543,8 @@
     "company": "IJS",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 4138,
-    "publicContributions": 565,
+    "privateContributions": 10665,
+    "publicContributions": 641,
     "createdAt": "2019-06-19T14:03:29Z"
   },
   {
@@ -10567,20 +10567,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 152,
+    "privateContributions": 90,
     "publicContributions": 0,
     "createdAt": "2019-04-24T12:09:08Z"
   },
   {
     "login": "lilBunnyRabbit",
     "name": "Andraž Mesarič-Sirec",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47859473?s=72&u=ffee05395bb8406623298dd51bdae8491d915b02&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47859473?s=72&u=c02e3cf5ec5c9ac7c0a80b0303d5f40dcfe9c542&v=4",
     "location": "Slovenia",
     "company": "@Astra-AI-dev",
     "twitterUsername": "amesaricsirec",
     "followers": 8,
-    "privateContributions": 1019,
-    "publicContributions": 137,
+    "privateContributions": 1251,
+    "publicContributions": 281,
     "createdAt": "2019-02-21T14:33:54Z"
   },
   {
@@ -10590,7 +10590,7 @@
     "location": "Maribor, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2019-06-15T08:49:21Z"
@@ -10603,8 +10603,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1,
-    "publicContributions": 8,
+    "privateContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2019-03-02T10:26:36Z"
   },
   {
@@ -10615,8 +10615,8 @@
     "company": "Tacko",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2013,
-    "publicContributions": 1865,
+    "privateContributions": 2512,
+    "publicContributions": 2171,
     "createdAt": "2019-03-13T02:42:30Z"
   },
   {

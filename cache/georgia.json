@@ -10795,8 +10795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 134,
+    "privateContributions": 336,
+    "publicContributions": 138,
     "createdAt": "2023-07-02T19:39:49Z"
   },
   {
@@ -10855,7 +10855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 66,
     "createdAt": "2023-10-29T20:34:35Z"
   },
@@ -10867,8 +10867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 51,
+    "privateContributions": 7,
+    "publicContributions": 81,
     "createdAt": "2023-07-07T11:19:28Z"
   },
   {
@@ -10915,8 +10915,8 @@
     "company": "neolab",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 62,
+    "privateContributions": 19,
+    "publicContributions": 63,
     "createdAt": "2023-04-05T16:22:33Z"
   },
   {
@@ -32146,18 +32146,6 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2020-04-24T16:42:59Z"
-  },
-  {
-    "login": "KonstantinVasilkov",
-    "name": "Konstantin Vasilkov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/75098466?s=72&u=2fe7b680f1047c93f113c473bd31dc9c9a650053&v=4",
-    "location": "Georgia",
-    "company": "Husk",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 2565,
-    "publicContributions": 6,
-    "createdAt": "2020-11-26T22:05:27Z"
   },
   {
     "login": "fatdagreat78",

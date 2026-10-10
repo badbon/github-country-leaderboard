@@ -10494,9 +10494,9 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2025-07-18T10:58:49Z"
   },
   {
@@ -10506,9 +10506,9 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 46,
     "createdAt": "2025-07-11T04:25:09Z"
   },
   {
@@ -10518,33 +10518,33 @@
     "location": "iran ",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 202,
     "createdAt": "2025-07-11T12:38:16Z"
   },
   {
     "login": "iamRuqia",
-    "name": "Ruqia Enayat",
+    "name": "Mounes Enayat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/251642418?s=72&u=02bf927520ab4c73950dfe2f23bb2943d6e9bad0&v=4",
     "location": "Tehran,Iran",
     "company": "Shahid Beheshti University",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 36,
     "createdAt": "2025-12-26T19:22:19Z"
   },
   {
     "login": "MoeinZandi",
     "name": "MoeinZandi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219751246?s=72&u=eecf724425a24ad42e671e00b3e7473c623dea63&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219751246?s=72&u=4560a8c63684275ef43a0a0a1998d1f3c32b7014&v=4",
     "location": "karaj , Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 21,
     "createdAt": "2025-07-07T22:31:25Z"
   },
   {
@@ -10562,13 +10562,13 @@
   {
     "login": "matinkellari",
     "name": "Matin Kellari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235643292?s=72&u=6a5089a4d2772f5ef84736d8b681f01a9ab144fe&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/235643292?s=72&u=a18c73827a1ce6eafa01f8973b2274cf7f2c8bb8&v=4",
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 57,
     "createdAt": "2025-10-02T06:07:19Z"
   },
   {
@@ -10580,7 +10580,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 88,
     "createdAt": "2025-08-04T15:36:08Z"
   },
   {
@@ -10592,7 +10592,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 197,
+    "publicContributions": 172,
     "createdAt": "2025-10-01T11:49:17Z"
   },
   {
@@ -10614,9 +10614,9 @@
     "location": "Iran | Mahshahr",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 32,
-    "publicContributions": 326,
+    "followers": 11,
+    "privateContributions": 48,
+    "publicContributions": 137,
     "createdAt": "2025-07-27T12:07:26Z"
   },
   {
@@ -10628,7 +10628,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 12,
     "createdAt": "2025-07-29T08:54:29Z"
   },
   {
@@ -10638,34 +10638,22 @@
     "location": "Iran, Semnan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 27,
     "createdAt": "2025-09-22T05:49:20Z"
   },
   {
     "login": "MobinaTabari",
     "name": "Mobina tabari",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236691999?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/236691999?s=72&u=a4ccc3dc7238b1a13592b2d91189a9956e0c5ae8&v=4",
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 265,
+    "followers": 73,
+    "privateContributions": 11,
+    "publicContributions": 306,
     "createdAt": "2025-10-07T21:01:02Z"
-  },
-  {
-    "login": "ehsanellahi1385-commits",
-    "name": "ehsan elahi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229576911?s=72&u=9fff3d2f7946fbb93bd0fab2b79b795337ea3188&v=4",
-    "location": "Iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 43,
-    "createdAt": "2025-08-31T09:08:28Z"
   },
   {
     "login": "masoud-dev1",
@@ -10674,7 +10662,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 11,
     "privateContributions": 25,
     "publicContributions": 189,
     "createdAt": "2025-11-16T08:53:46Z"
@@ -10684,11 +10672,11 @@
     "name": "TahaAfzali",
     "avatarUrl": "https://avatars.githubusercontent.com/u/230725578?s=72&u=7934fe5a100354954bd1a0d58460e0115ee7466f&v=4",
     "location": "Iran/Kerman",
-    "company": "DP-Team",
+    "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 19,
-    "publicContributions": 609,
+    "privateContributions": 10,
+    "publicContributions": 435,
     "createdAt": "2025-09-06T13:24:45Z"
   },
   {
@@ -10710,9 +10698,9 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 136,
+    "publicContributions": 70,
     "createdAt": "2025-08-23T18:26:16Z"
   },
   {
@@ -10724,7 +10712,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 339,
     "createdAt": "2025-12-16T07:27:39Z"
   },
   {

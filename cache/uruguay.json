@@ -10484,7 +10484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 44,
     "createdAt": "2023-12-26T14:52:47Z"
   },
   {
@@ -10495,7 +10495,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1993,
     "publicContributions": 0,
     "createdAt": "2023-05-03T00:54:17Z"
   },
@@ -10520,7 +10520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-10-08T02:33:22Z"
   },
   {
@@ -10531,7 +10531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 667,
+    "privateContributions": 479,
     "publicContributions": 0,
     "createdAt": "2023-05-09T00:46:38Z"
   },
@@ -10542,9 +10542,9 @@
     "location": "Rivera / Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 518,
+    "followers": 507,
     "privateContributions": 0,
-    "publicContributions": 318,
+    "publicContributions": 544,
     "createdAt": "2022-01-02T23:44:55Z"
   },
   {
@@ -10554,9 +10554,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 444,
-    "privateContributions": 121,
-    "publicContributions": 73,
+    "followers": 449,
+    "privateContributions": 384,
+    "publicContributions": 89,
     "createdAt": "2022-11-04T23:41:53Z"
   },
   {
@@ -10566,9 +10566,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "yossdotpro",
-    "followers": 84,
-    "privateContributions": 2219,
-    "publicContributions": 527,
+    "followers": 87,
+    "privateContributions": 1812,
+    "publicContributions": 640,
     "createdAt": "2022-02-02T16:34:16Z"
   },
   {
@@ -10578,9 +10578,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 65,
-    "privateContributions": 3095,
-    "publicContributions": 204,
+    "followers": 72,
+    "privateContributions": 2814,
+    "publicContributions": 568,
     "createdAt": "2022-06-09T03:52:51Z"
   },
   {
@@ -10590,9 +10590,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 59,
-    "privateContributions": 11,
-    "publicContributions": 152,
+    "followers": 50,
+    "privateContributions": 10,
+    "publicContributions": 109,
     "createdAt": "2022-08-10T22:09:30Z"
   },
   {
@@ -10603,8 +10603,8 @@
     "company": "Koin",
     "twitterUsername": "",
     "followers": 53,
-    "privateContributions": 762,
-    "publicContributions": 1,
+    "privateContributions": 1477,
+    "publicContributions": 0,
     "createdAt": "2022-04-06T14:14:44Z"
   },
   {
@@ -10614,7 +10614,7 @@
     "location": "Montevideo, Uruguay",
     "company": "Holberton School",
     "twitterUsername": "",
-    "followers": 51,
+    "followers": 41,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-16T13:18:55Z"
@@ -10626,9 +10626,9 @@
     "location": "Montevideo, Uruguay",
     "company": "Eclipse Labs",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 804,
-    "publicContributions": 3658,
+    "followers": 90,
+    "privateContributions": 2832,
+    "publicContributions": 5444,
     "createdAt": "2022-05-03T16:54:53Z"
   },
   {
@@ -10640,7 +10640,7 @@
     "twitterUsername": "",
     "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 277,
+    "publicContributions": 257,
     "createdAt": "2022-03-22T23:51:53Z"
   },
   {
@@ -10662,9 +10662,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 1461,
-    "publicContributions": 18,
+    "followers": 43,
+    "privateContributions": 1144,
+    "publicContributions": 16,
     "createdAt": "2022-01-25T14:15:34Z"
   },
   {
@@ -10696,11 +10696,11 @@
     "name": "Joaquin Campo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/107267711?s=72&u=68b8f02cfdf0c2b0e2fbff81e4c3b01b4bb7d120&v=4",
     "location": "Uruguay",
-    "company": "@Pentoai",
+    "company": "@SantanderAI",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 2667,
-    "publicContributions": 1052,
+    "followers": 35,
+    "privateContributions": 2164,
+    "publicContributions": 1100,
     "createdAt": "2022-06-10T15:43:50Z"
   },
   {

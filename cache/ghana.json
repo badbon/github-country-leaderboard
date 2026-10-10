@@ -10568,7 +10568,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-02-17T11:39:51Z"
   },
   {
@@ -10592,7 +10592,7 @@
     "twitterUsername": "wafiyudeen5448",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 194,
+    "publicContributions": 201,
     "createdAt": "2024-12-25T18:12:51Z"
   },
   {
@@ -10604,7 +10604,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 30,
     "createdAt": "2024-07-01T10:51:31Z"
   },
   {
@@ -10616,7 +10616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 0,
     "createdAt": "2024-06-12T01:14:49Z"
   },
   {
@@ -10628,7 +10628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 61,
     "createdAt": "2024-09-25T09:07:17Z"
   },
   {
@@ -10676,7 +10676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 14,
     "createdAt": "2024-10-14T02:40:26Z"
   },
   {
@@ -10688,7 +10688,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 72,
     "createdAt": "2024-07-06T07:43:42Z"
   },
   {
@@ -10722,22 +10722,10 @@
     "location": "Ghana ",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 20,
     "createdAt": "2024-11-08T13:50:15Z"
-  },
-  {
-    "login": "deezzzi",
-    "name": "Kondas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185332813?s=72&u=352c8419bda9254d666de62412a6f46fac243f27&v=4",
-    "location": "Accra Ghana",
-    "company": "The FarmKing",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 48,
-    "publicContributions": 31,
-    "createdAt": "2024-10-17T06:44:34Z"
   },
   {
     "login": "Ellen-Essuamah-Asante",
@@ -10748,7 +10736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 11,
     "createdAt": "2024-09-05T13:57:18Z"
   },
   {
@@ -10758,21 +10746,21 @@
     "location": "Ghana",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 35,
     "createdAt": "2024-10-05T01:34:07Z"
   },
   {
     "login": "Habiba81-design",
-    "name": "Lambon Jnr.",
+    "name": "Habibatu Lambon ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/186523551?s=72&u=12a67737e0a7369997f681ba097a5e7ae5d4b80f&v=4",
     "location": "Ghana ",
     "company": "Bit_zone",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 132,
     "createdAt": "2024-10-28T00:36:51Z"
   },
   {
@@ -10783,8 +10771,8 @@
     "company": "IcE infotech ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 55,
-    "publicContributions": 45,
+    "privateContributions": 114,
+    "publicContributions": 69,
     "createdAt": "2024-02-17T01:12:28Z"
   },
   {
@@ -85064,7 +85052,7 @@
     "twitterUsername": "forteromeo_",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 442,
+    "publicContributions": 443,
     "createdAt": "2026-05-18T09:45:22Z"
   },
   {
@@ -85088,7 +85076,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 243,
+    "publicContributions": 257,
     "createdAt": "2026-05-16T13:31:11Z"
   },
   {
@@ -85136,7 +85124,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 14,
     "createdAt": "2026-06-26T17:59:45Z"
   },
   {
@@ -85246,5 +85234,89 @@
     "privateContributions": 0,
     "publicContributions": 23,
     "createdAt": "2026-06-10T18:51:32Z"
+  },
+  {
+    "login": "kelvinagyareyeboah",
+    "name": "Kelvin Agyare Yeboah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285845681?s=72&u=74f1ed7ed0d761eb6e88e71179c9f287ef74dcc2&v=4",
+    "location": "Accra",
+    "company": "Zoharix",
+    "twitterUsername": "_yo_kelvin",
+    "followers": 57,
+    "privateContributions": 3409,
+    "publicContributions": 4879,
+    "createdAt": "2026-05-19T00:19:07Z"
+  },
+  {
+    "login": "rowynkonadu",
+    "name": "Rowyn Oheneafrewo Konadu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292174821?s=72&u=900feab6c32b8a7f997360c774aad8185f86676c&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 70,
+    "createdAt": "2026-06-09T16:09:53Z"
+  },
+  {
+    "login": "cilla-sys",
+    "name": "Priscilla Akrumah",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292384429?s=72&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 10,
+    "privateContributions": 0,
+    "publicContributions": 33,
+    "createdAt": "2026-06-10T08:58:47Z"
+  },
+  {
+    "login": "NaaLarleyLartey",
+    "name": "Naa Larley Lartey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294514675?s=72&v=4",
+    "location": "Accra",
+    "company": "Accra Technical University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-06-17T13:01:49Z"
+  },
+  {
+    "login": "clixmatech-byte",
+    "name": "clixma_tech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292457126?s=72&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-10T13:14:52Z"
+  },
+  {
+    "login": "belindadev",
+    "name": "Belinda Avorgbedor",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291823097?s=72&u=6c4840e15e64298617ba22d8f2064a129285c796&v=4",
+    "location": "Accra",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-08T14:48:37Z"
+  },
+  {
+    "login": "njay9930-commits",
+    "name": "Holy Ghost Level",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296007117?s=72&v=4",
+    "location": "ACCRA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-23T00:29:11Z"
   }
 ]

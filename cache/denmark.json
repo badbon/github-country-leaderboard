@@ -10590,9 +10590,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 14,
-    "publicContributions": 362,
+    "followers": 10,
+    "privateContributions": 8,
+    "publicContributions": 337,
     "createdAt": "2023-12-27T22:19:21Z"
   },
   {
@@ -10603,8 +10603,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 19,
-    "publicContributions": 492,
+    "privateContributions": 27,
+    "publicContributions": 406,
     "createdAt": "2023-04-04T11:55:57Z"
   },
   {
@@ -10614,9 +10614,9 @@
     "location": "Denmark",
     "company": "FDV Studio",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 44,
     "createdAt": "2023-01-05T08:41:23Z"
   },
   {
@@ -10639,7 +10639,7 @@
     "company": "Clerk.io",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 558,
+    "privateContributions": 703,
     "publicContributions": 115,
     "createdAt": "2023-09-04T08:08:04Z"
   },
@@ -10650,9 +10650,9 @@
     "location": "Aarhus, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 6679,
-    "publicContributions": 876,
+    "followers": 7,
+    "privateContributions": 9751,
+    "publicContributions": 897,
     "createdAt": "2023-01-22T12:15:51Z"
   },
   {
@@ -10663,8 +10663,8 @@
     "company": "DTU",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 191,
-    "publicContributions": 73,
+    "privateContributions": 237,
+    "publicContributions": 65,
     "createdAt": "2023-02-28T15:52:17Z"
   },
   {
@@ -10674,22 +10674,10 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 644,
+    "publicContributions": 741,
     "createdAt": "2023-01-22T14:45:50Z"
-  },
-  {
-    "login": "CardosoDev04",
-    "name": "João Cardoso",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122165256?s=72&u=69eff4a9cd95b24a920ce2d90d57792e004f0917&v=4",
-    "location": "Denmark",
-    "company": "SDU",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 524,
-    "publicContributions": 123,
-    "createdAt": "2023-01-07T14:54:00Z"
   },
   {
     "login": "ledepede1",
@@ -10711,8 +10699,8 @@
     "company": "Lvl7consulting",
     "twitterUsername": "silas_stilling",
     "followers": 8,
-    "privateContributions": 94,
-    "publicContributions": 18,
+    "privateContributions": 91,
+    "publicContributions": 10,
     "createdAt": "2023-05-03T14:08:32Z"
   },
   {
@@ -10722,9 +10710,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 130,
     "createdAt": "2023-01-02T15:23:50Z"
   },
   {
@@ -10736,7 +10724,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 56,
     "createdAt": "2023-07-23T08:02:01Z"
   },
   {
@@ -10747,8 +10735,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 60,
-    "publicContributions": 159,
+    "privateContributions": 73,
+    "publicContributions": 165,
     "createdAt": "2023-07-24T17:08:50Z"
   },
   {
@@ -10759,8 +10747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 388,
-    "publicContributions": 158,
+    "privateContributions": 342,
+    "publicContributions": 178,
     "createdAt": "2023-04-02T19:03:10Z"
   },
   {
@@ -10771,8 +10759,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 63,
-    "publicContributions": 51,
+    "privateContributions": 58,
+    "publicContributions": 59,
     "createdAt": "2023-02-25T08:12:23Z"
   },
   {
@@ -10796,7 +10784,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-10-12T11:47:10Z"
   },
   {

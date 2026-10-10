@@ -10627,7 +10627,7 @@
     "company": "University of Patras",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 122,
+    "privateContributions": 112,
     "publicContributions": 1,
     "createdAt": "2024-12-19T20:00:30Z"
   },
@@ -10640,7 +10640,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 98,
-    "publicContributions": 38,
+    "publicContributions": 44,
     "createdAt": "2024-09-19T14:15:37Z"
   },
   {
@@ -10664,7 +10664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 133,
+    "publicContributions": 180,
     "createdAt": "2024-01-22T21:16:16Z"
   },
   {
@@ -10676,7 +10676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 29,
     "createdAt": "2024-11-05T18:00:47Z"
   },
   {
@@ -10688,7 +10688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 63,
     "createdAt": "2024-03-13T06:46:10Z"
   },
   {
@@ -10711,7 +10711,7 @@
     "company": "@LMS-Robotics-VR ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 734,
+    "privateContributions": 801,
     "publicContributions": 0,
     "createdAt": "2024-07-31T13:06:46Z"
   },
@@ -10784,19 +10784,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 37,
     "createdAt": "2024-08-27T19:37:17Z"
   },
   {
     "login": "LeoTsio",
     "name": "Leonidas Tsionis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189823007?s=72&u=8161e7dfa16fbafb0e407bc24fcf9755e5aa74bc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189823007?s=72&u=60b3e8d725fd910976f3a6d2e8f30deff50f1747&v=4",
     "location": "Europe / Greece / Athens / Cholargos",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 12,
     "createdAt": "2024-11-27T05:41:54Z"
   },
   {
@@ -10808,7 +10808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 37,
     "createdAt": "2024-12-03T22:46:39Z"
   },
   {
@@ -10818,9 +10818,9 @@
     "location": "Athens, Greece",
     "company": "National and Kapodistrian Univeristy of Athens",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 42,
-    "publicContributions": 21,
+    "publicContributions": 2,
     "createdAt": "2024-10-24T12:50:27Z"
   },
   {
@@ -186643,7 +186643,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 41,
+    "privateContributions": 48,
     "publicContributions": 401,
     "createdAt": "2026-05-26T21:34:35Z"
   },
@@ -186970,5 +186970,53 @@
     "privateContributions": 0,
     "publicContributions": 69,
     "createdAt": "2022-05-30T21:59:28Z"
+  },
+  {
+    "login": "ian-tribe",
+    "name": "Ian but tribe this time",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289820511?s=72&u=3d36c1b5624bccfd3387c6fe763df22d833bf5a2&v=4",
+    "location": "Athens, GA",
+    "company": "@TribeAI ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 686,
+    "createdAt": "2026-06-01T20:45:52Z"
+  },
+  {
+    "login": "Giwrgoslas77-stack",
+    "name": "giwrgos laskaris",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294860062?s=72&u=13a13e484ddd701d6e5c8cdc4055ddac08a08dff&v=4",
+    "location": "athens ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-18T15:10:48Z"
+  },
+  {
+    "login": "LiamDuquette",
+    "name": "Liam Duquette",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285425419?s=72&v=4",
+    "location": "Athens, Ohio",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-17T13:25:47Z"
+  },
+  {
+    "login": "t-ziou2026",
+    "name": "Thomas Ziou",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294160344?s=72&u=64f9fae05622e50824fcf6125c7dc523e019ce0b&v=4",
+    "location": "Athens",
+    "company": "Datanoesis",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-16T11:12:29Z"
   }
 ]

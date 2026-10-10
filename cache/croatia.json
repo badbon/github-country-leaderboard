@@ -10663,8 +10663,8 @@
     "company": "",
     "twitterUsername": "davidvrckovic",
     "followers": 2,
-    "privateContributions": 183,
-    "publicContributions": 10,
+    "privateContributions": 176,
+    "publicContributions": 2,
     "createdAt": "2021-05-16T15:18:01Z"
   },
   {
@@ -10687,8 +10687,8 @@
     "company": "Smart Sense",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 392,
-    "publicContributions": 0,
+    "privateContributions": 383,
+    "publicContributions": 3,
     "createdAt": "2021-01-16T23:22:49Z"
   },
   {
@@ -10699,7 +10699,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 12,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2021-11-29T22:37:23Z"
   },
@@ -10740,18 +10740,6 @@
     "createdAt": "2021-06-07T14:13:50Z"
   },
   {
-    "login": "ouzecky",
-    "name": "Josip Oužecky",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/83632552?s=72&u=13ffb4a3cc5d2f0b4b95bdf8c1b49f168ed77c86&v=4",
-    "location": "Osijek, Croatia",
-    "company": "@Inchoo",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 366,
-    "publicContributions": 3,
-    "createdAt": "2021-05-04T06:28:02Z"
-  },
-  {
     "login": "davidvodopija",
     "name": "David Vodopija",
     "avatarUrl": "https://avatars.githubusercontent.com/u/87013968?s=72&u=924d692316342ce2670776e6e00096242758224d&v=4",
@@ -10759,7 +10747,7 @@
     "company": "Faculty of electrical engineering and computing, University of Zagreb",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 33,
+    "privateContributions": 28,
     "publicContributions": 31,
     "createdAt": "2021-07-06T10:27:08Z"
   },
@@ -10771,7 +10759,7 @@
     "company": "@EpitechPromo2026",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 160,
+    "privateContributions": 141,
     "publicContributions": 60,
     "createdAt": "2021-09-30T11:43:33Z"
   },
@@ -10819,7 +10807,7 @@
     "company": "Glis Glis",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 337,
+    "privateContributions": 295,
     "publicContributions": 0,
     "createdAt": "2021-01-04T18:50:48Z"
   },
@@ -10856,7 +10844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2021-10-09T21:22:30Z"
   },
   {
@@ -10868,7 +10856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 306,
+    "publicContributions": 333,
     "createdAt": "2021-03-05T10:27:52Z"
   },
   {
@@ -10879,7 +10867,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1306,
+    "privateContributions": 1179,
     "publicContributions": 0,
     "createdAt": "2021-04-26T15:57:20Z"
   },

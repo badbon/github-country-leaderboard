@@ -10411,8 +10411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 243,
-    "publicContributions": 1137,
+    "privateContributions": 208,
+    "publicContributions": 1035,
     "createdAt": "2025-09-22T21:04:34Z"
   },
   {
@@ -10423,8 +10423,8 @@
     "company": "Escuela Colombiana de Ingeniería Julio Garavito",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 28,
-    "publicContributions": 1017,
+    "privateContributions": 121,
+    "publicContributions": 947,
     "createdAt": "2025-08-15T21:41:14Z"
   },
   {
@@ -10434,9 +10434,9 @@
     "location": "Bucaramanga, Santander, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 40,
     "createdAt": "2025-07-30T02:54:20Z"
   },
   {
@@ -10448,7 +10448,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-08-25T17:32:50Z"
   },
   {
@@ -10458,21 +10458,21 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 9,
-    "publicContributions": 93,
+    "publicContributions": 97,
     "createdAt": "2025-09-25T02:50:24Z"
   },
   {
     "login": "JuanPalaciosXO",
     "name": "Juan Palacios",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238373058?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/238373058?s=72&u=9e3aab6dc388655639dfcdc152e12c252f753efa&v=4",
     "location": "Bogotá, Colombia ",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 27,
     "createdAt": "2025-10-16T01:44:14Z"
   },
   {
@@ -10484,7 +10484,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 464,
+    "publicContributions": 479,
     "createdAt": "2025-11-12T01:06:44Z"
   },
   {
@@ -10506,9 +10506,9 @@
     "location": "Cartagena, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 371,
-    "publicContributions": 380,
+    "followers": 8,
+    "privateContributions": 396,
+    "publicContributions": 788,
     "createdAt": "2025-09-30T13:47:48Z"
   },
   {
@@ -10520,19 +10520,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 203,
+    "publicContributions": 223,
     "createdAt": "2025-10-15T14:54:05Z"
   },
   {
     "login": "angvtb",
     "name": "Angie Tamara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225418184?s=72&u=826b6dec5f5843415621535f0711b19542bddaaa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225418184?s=72&u=d4d4891c173095826c5da5e61de7bee6dc928fd3&v=4",
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 25,
     "createdAt": "2025-08-08T15:23:04Z"
   },
   {
@@ -10544,7 +10544,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 0,
     "createdAt": "2025-08-18T14:58:15Z"
   },
   {
@@ -10556,7 +10556,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 14,
     "createdAt": "2025-09-09T15:06:37Z"
   },
   {
@@ -10566,9 +10566,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "juan3178316",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 4,
-    "publicContributions": 315,
+    "publicContributions": 320,
     "createdAt": "2025-10-06T00:41:52Z"
   },
   {
@@ -10580,7 +10580,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 221,
     "createdAt": "2025-11-26T13:34:55Z"
   },
   {
@@ -10590,9 +10590,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 268,
+    "publicContributions": 275,
     "createdAt": "2025-07-10T02:21:31Z"
   },
   {
@@ -10604,20 +10604,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 209,
+    "publicContributions": 132,
     "createdAt": "2025-08-28T19:23:52Z"
-  },
-  {
-    "login": "anreuqul",
-    "name": "Willian Luquerna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229814161?s=72&u=85e279ddbfa33ced3afff6acbe6e72504256db1b&v=4",
-    "location": "Colombia",
-    "company": "",
-    "twitterUsername": "anreuqul",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-01T17:52:30Z"
   },
   {
     "login": "rprecigapuentes",
@@ -10628,7 +10616,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 265,
+    "publicContributions": 663,
     "createdAt": "2025-10-13T22:37:26Z"
   },
   {
@@ -10639,8 +10627,8 @@
     "company": "Grupo Trono",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 10,
-    "publicContributions": 48,
+    "privateContributions": 77,
+    "publicContributions": 34,
     "createdAt": "2025-08-12T06:17:47Z"
   },
   {
