@@ -1,6 +1,6 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-10T15:31:47.415Z
+Generated: 2026-10-10T16:53:20.427Z
 
 Users: 2075
 
@@ -9,7 +9,7 @@ Users: 2075
 | 1 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 10244 |
 | 2 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 7128 |
 | 3 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6627 |
-| 4 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5499 |
+| 4 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5531 |
 | 5 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | @Efficient-Soft |  | Yangon, Myanmar | 4933 |
 | 6 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM |  |  | Yangon, Myanmar | 4827 |
 | 7 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 4750 |
@@ -24,5 +24,5 @@ Users: 2075
 | 16 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3158 |
 | 17 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3106 |
 | 18 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3085 |
-| 19 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 2988 |
-| 20 | [HtetOoWaiYan](https://github.com/HtetOoWaiYan) | Htet Oo Wai Yan |  |  | Myanmar (Burma) | 2953 |
+| 19 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 3030 |
+| 20 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 2988 |

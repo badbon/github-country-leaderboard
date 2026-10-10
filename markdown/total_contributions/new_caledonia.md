@@ -1,13 +1,13 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-10T15:32:57.712Z
+Generated: 2026-10-10T16:54:30.824Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 13113 |
-| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 6526 |
+| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 6549 |
 | 3 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 5459 |
 | 4 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 4122 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 2424 |

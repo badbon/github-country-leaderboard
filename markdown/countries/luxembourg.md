@@ -14,15 +14,15 @@ Indexed users: 2,203
 |---:|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 36,874 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24,832 |
-| 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
-| 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,011 |
+| 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,492 |
+| 4 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
 | 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 13,577 |
-| 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 10,606 |
-| 7 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
-| 8 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 9,830 |
-| 9 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
-| 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 8,075 |
-| 11 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 7,571 |
+| 6 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
+| 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 10,606 |
+| 8 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
+| 9 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 9,830 |
+| 10 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
+| 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 8,075 |
 | 12 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 7,072 |
 | 13 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 14 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 6,723 |
@@ -72,7 +72,7 @@ Indexed users: 2,203
 | 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 303 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia | Luxembourg | 302 |
 | 10 | [andreafabrizi](https://github.com/andreafabrizi) | Andrea Fabrizi | Luxembourg | 289 |
-| 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies | Cardiff / Madrid / Luxembourg | 278 |
+| 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies | Cardiff / Madrid / Luxembourg | 289 |
 | 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK | Luxembourg | 277 |
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch | Luxembourg | 275 |
 | 14 | [Moado](https://github.com/Moado) | Moad HANI  | Luxembourg | 268 |
@@ -83,4 +83,4 @@ Indexed users: 2,203
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-10T15:21:55.573Z
+Generated: 2026-10-10T16:47:15.006Z

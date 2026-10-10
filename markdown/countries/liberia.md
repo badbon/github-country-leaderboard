@@ -47,7 +47,7 @@ Indexed users: 209
 | 8 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | Monrovia, Liberia | 318 |
 | 9 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 307 |
 | 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 286 |
-| 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 260 |
+| 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 256 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 196 |
 | 14 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 172 |
@@ -83,4 +83,4 @@ Indexed users: 209
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-10T15:19:57.849Z
+Generated: 2026-10-10T16:45:38.019Z

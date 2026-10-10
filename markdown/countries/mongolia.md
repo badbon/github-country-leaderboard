@@ -16,7 +16,7 @@ Indexed users: 805
 | 2 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 100,092 |
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 17,493 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Ulaanbaatar, Mongolia | 11,768 |
-| 5 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 10,944 |
+| 5 | [baysaa006](https://github.com/baysaa006) |  | Mongolia. | 11,020 |
 | 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 10,093 |
 | 7 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs | Ulan Bator | 9,523 |
 | 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 8,839 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-10T15:29:06.062Z
+Generated: 2026-10-10T16:51:41.115Z

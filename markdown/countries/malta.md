@@ -18,9 +18,9 @@ Indexed users: 1,226
 | 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
 | 6 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
-| 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
-| 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
-| 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 8,363 |
+| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,402 |
+| 8 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
+| 9 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
 | 10 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,337 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 7,973 |
 | 12 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
@@ -43,12 +43,12 @@ Indexed users: 1,226
 | 4 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
 | 5 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
 | 6 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,170 |
-| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,150 |
-| 9 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,126 |
+| 7 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,150 |
+| 8 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,126 |
+| 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,076 |
 | 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,531 |
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
-| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,448 |
+| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,497 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 14 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 2,018 |
 | 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
@@ -83,4 +83,4 @@ Indexed users: 1,226
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-10T15:23:34.445Z
+Generated: 2026-10-10T16:49:28.680Z

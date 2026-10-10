@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-10T15:23:34.445Z
+Generated: 2026-10-10T16:49:28.680Z
 
 Users: 1226
 
@@ -12,12 +12,12 @@ Users: 1226
 | 4 | [rinrab](https://github.com/rinrab) | Timofei Zhakov |  |  | Malta | 3588 |
 | 5 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi |  |  | Malta | 3561 |
 | 6 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar |  | ripienaar | Malta | 3341 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3170 |
-| 8 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3150 |
-| 9 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3126 |
+| 7 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 3150 |
+| 8 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Busuttil Technologies Limited |  | Malta | 3126 |
+| 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 3076 |
 | 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | GiG |  | Malta | 2531 |
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2499 |
-| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2448 |
+| 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2497 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | BullAware | marian2js | Malta | 2336 |
 | 14 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 2018 |
 | 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1905 |

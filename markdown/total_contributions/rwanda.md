@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-10T15:39:53.457Z
+Generated: 2026-10-10T17:04:52.064Z
 
 Users: 3531
 
@@ -14,15 +14,15 @@ Users: 3531
 | 6 | [Krasivaya](https://github.com/Krasivaya) | Carine SEMWAGA |  |  | Rwanda | 11697 |
 | 7 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 10130 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9290 |
-| 9 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 8814 |
-| 10 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
-| 11 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 8467 |
-| 12 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
-| 13 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
-| 14 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
-| 15 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
-| 16 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Atomiq |  | Rwanda | 7438 |
-| 17 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
-| 18 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 7133 |
-| 19 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 6897 |
-| 20 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Dime Inc Ltd |  | Rwanda, Kigali | 6555 |
+| 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
+| 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 8814 |
+| 11 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
+| 12 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 8467 |
+| 13 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
+| 14 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
+| 15 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
+| 16 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
+| 17 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Atomiq |  | Rwanda | 7438 |
+| 18 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
+| 19 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 7133 |
+| 20 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 6897 |

@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-10T15:23:34.445Z
+Generated: 2026-10-10T16:49:28.680Z
 
 Users: 1226
 
@@ -12,9 +12,9 @@ Users: 1226
 | 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 12956 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12416 |
 | 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 10549 |
-| 7 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
-| 8 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 8474 |
-| 9 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 8363 |
+| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9402 |
+| 8 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
+| 9 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 8474 |
 | 10 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8337 |
 | 11 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 7973 |
 | 12 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 7672 |

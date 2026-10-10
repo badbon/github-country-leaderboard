@@ -65,8 +65,8 @@ Indexed users: 289
 | 1 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 162 |
 | 2 | [Ziyadsk](https://github.com/Ziyadsk) | Ziyad | Nouakchott, Mauritania | 69 |
 | 3 | [aziz0x00](https://github.com/aziz0x00) | Aziz | Mauritania | 61 |
-| 4 | [ErgeibiMed](https://github.com/ErgeibiMed) |  | Nouakchott - Mauritanie  | 50 |
-| 5 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 49 |
+| 4 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 49 |
+| 5 | [ErgeibiMed](https://github.com/ErgeibiMed) |  | Nouakchott - Mauritanie  | 48 |
 | 6 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Mauritania | 48 |
 | 7 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 38 |
 | 8 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 36 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-10T15:25:54.800Z
+Generated: 2026-10-10T16:49:54.952Z

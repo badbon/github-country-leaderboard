@@ -1,14 +1,14 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-10T15:17:44.532Z
+Generated: 2026-10-10T16:43:23.928Z
 
 Users: 2455
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat |  |  | Bishkek, Kyrgyzstan | 2219 |
+| 1 | [temirovazat](https://github.com/temirovazat) | Temirov Azat |  |  | Bishkek, Kyrgyzstan | 2217 |
 | 2 | [Maksbicoin](https://github.com/Maksbicoin) | Cryptopunk13(soon1) |  |  | Kyrgyzstan | 380 |
-| 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Founder & CEO @CodexKG | binniev01 | Kyrgyzstan, Bishkek | 362 |
+| 3 | [Toktorov](https://github.com/Toktorov) | Toktorov Kurmanbek | Founder & CEO @CodexKG | binniev01 | Kyrgyzstan, Bishkek | 363 |
 | 4 | [anatoly-bobrovsky](https://github.com/anatoly-bobrovsky) | Anatoly Bobrovsky |  |  | Bishkek | 274 |
 | 5 | [gen1us2k](https://github.com/gen1us2k) | Andrew Zhuravlev |  | gen1us2k | Kyrgyzstan, Bishkek | 208 |
 | 6 | [nasirovx](https://github.com/nasirovx) | 5ekastan | ITC bootcamp  |  | Osh \| Kyrgyzstan | 183 |

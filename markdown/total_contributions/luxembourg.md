@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-10T15:21:55.573Z
+Generated: 2026-10-10T16:47:15.006Z
 
 Users: 2203
 
@@ -8,15 +8,15 @@ Users: 2203
 |---:|---|---|---|---|---|---:|
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | @LuxApps  |  | Luxembourg | 36874 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24832 |
-| 3 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
-| 4 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 16011 |
+| 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 16492 |
+| 4 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
 | 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 13577 |
-| 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 10606 |
-| 7 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
-| 8 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 9830 |
-| 9 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
-| 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 8075 |
-| 11 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 7571 |
+| 6 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11009 |
+| 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 10606 |
+| 8 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
+| 9 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 9830 |
+| 10 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
+| 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 8075 |
 | 12 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 7072 |
 | 13 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |
 | 14 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 6723 |

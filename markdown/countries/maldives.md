@@ -24,7 +24,7 @@ Indexed users: 354
 | 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 5,320 |
 | 11 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,965 |
 | 12 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,859 |
-| 13 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,731 |
+| 13 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,746 |
 | 14 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,685 |
 | 15 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 4,485 |
 | 16 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,445 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-10T15:23:26.179Z
+Generated: 2026-10-10T16:49:15.694Z

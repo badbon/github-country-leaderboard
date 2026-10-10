@@ -65,7 +65,7 @@ Indexed users: 160
 | 1 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 241 |
 | 2 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 213 |
 | 3 | [ocaes](https://github.com/ocaes) | Tsitso Mafantiri | Lesotho | 115 |
-| 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 57 |
+| 4 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 58 |
 | 5 | [Tumisangkhabisi](https://github.com/Tumisangkhabisi) | Tumisang khabisi | Lesotho, maseru | 54 |
 | 6 | [Lemohang](https://github.com/Lemohang) | Lemohang57 | Maseru  | 44 |
 | 7 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 41 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-10T15:19:55.059Z
+Generated: 2026-10-10T16:45:04.152Z

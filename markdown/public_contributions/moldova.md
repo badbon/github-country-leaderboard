@@ -1,8 +1,8 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-10T15:28:30.012Z
+Generated: 2026-10-10T16:51:35.160Z
 
-Users: 1757
+Users: 1756
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1757
 | 14 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1385 |
 | 15 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1276 |
 | 16 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
-| 17 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
-| 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1195 |
+| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1272 |
+| 18 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
 | 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 1177 |
 | 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov |  |  | Chisinau, Moldova | 1069 |

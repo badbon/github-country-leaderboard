@@ -1,6 +1,6 @@
 # Followers - Pakistan
 
-Generated: 2026-10-10T15:36:24.396Z
+Generated: 2026-10-10T16:59:35.368Z
 
 Users: 41770
 
@@ -16,7 +16,7 @@ Users: 41770
 | 8 | [SyedShaheerHussain](https://github.com/SyedShaheerHussain) | Syed Shaheer Hussain | Independent | thesyedshaheer | Karachi, Pakistan | 1850 |
 | 9 | [wajahatkarim3](https://github.com/wajahatkarim3) | Wajahat Karim |  | WajahatKarim | Karachi, Pakistan | 1834 |
 | 10 | [ghousahmed](https://github.com/ghousahmed) | Ghous Ahmed | Stellic |  | Karachi,Pakistan | 1726 |
-| 11 | [wecoded-dev](https://github.com/wecoded-dev) | Hanzla Baig | TheBitForge |  | Chichawatni,  Pakistan  | 1610 |
+| 11 | [wecoded-dev](https://github.com/wecoded-dev) | Hanzla Baig | TheBitForge |  | Chichawatni,  Pakistan  | 1600 |
 | 12 | [shanraisshan](https://github.com/shanraisshan) | Shayan Rais | disrupt.com | shanraisshan | Karachi, Pakistan | 1439 |
 | 13 | [salikhussain71-code](https://github.com/salikhussain71-code) | Salik Hussain | IQRA University Islamabad | salikhussain71 | Rawalpindi , punjab, Pakistan  | 1435 |
 | 14 | [AsharibAli](https://github.com/AsharibAli) | Asharib Ali |  | 0xAsharib | Pakistan | 1411 |

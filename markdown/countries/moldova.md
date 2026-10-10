@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,757
+Indexed users: 1,756
 
 | Leaderboard | Link |
 |---|---|
@@ -53,8 +53,8 @@ Indexed users: 1,757
 | 14 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu | Moldova | 1,385 |
 | 15 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov | Moldova | 1,276 |
 | 16 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Chisinau, Moldova | 1,273 |
-| 17 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor | Moldova | 1,201 |
-| 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,195 |
+| 17 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Chisinau, Republic of Moldova | 1,272 |
+| 18 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor | Moldova | 1,201 |
 | 19 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Moldova | 1,177 |
 | 20 | [TimurCravtov](https://github.com/TimurCravtov) | Timur Сravtov | Chisinau, Moldova | 1,069 |
 
@@ -81,6 +81,6 @@ Indexed users: 1,757
 | 17 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 119 |
 | 18 | [ygorigor](https://github.com/ygorigor) | Igor | Chisinau, Moldova | 118 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
-| 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 104 |
+| 20 | [gherciu](https://github.com/gherciu) | Gheorghe Gherciu | Moldova | 105 |
 
-Generated: 2026-10-10T15:28:30.012Z
+Generated: 2026-10-10T16:51:35.160Z

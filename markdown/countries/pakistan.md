@@ -72,7 +72,7 @@ Indexed users: 41,770
 | 8 | [SyedShaheerHussain](https://github.com/SyedShaheerHussain) | Syed Shaheer Hussain | Karachi, Pakistan | 1,850 |
 | 9 | [wajahatkarim3](https://github.com/wajahatkarim3) | Wajahat Karim | Karachi, Pakistan | 1,834 |
 | 10 | [ghousahmed](https://github.com/ghousahmed) | Ghous Ahmed | Karachi,Pakistan | 1,726 |
-| 11 | [wecoded-dev](https://github.com/wecoded-dev) | Hanzla Baig | Chichawatni,  Pakistan  | 1,610 |
+| 11 | [wecoded-dev](https://github.com/wecoded-dev) | Hanzla Baig | Chichawatni,  Pakistan  | 1,600 |
 | 12 | [shanraisshan](https://github.com/shanraisshan) | Shayan Rais | Karachi, Pakistan | 1,439 |
 | 13 | [salikhussain71-code](https://github.com/salikhussain71-code) | Salik Hussain | Rawalpindi , punjab, Pakistan  | 1,435 |
 | 14 | [AsharibAli](https://github.com/AsharibAli) | Asharib Ali | Pakistan | 1,411 |
@@ -83,4 +83,4 @@ Indexed users: 41,770
 | 19 | [mInzamamMalik](https://github.com/mInzamamMalik) | Inzamam Malik | karachi, pakistan | 1,250 |
 | 20 | [r0oth3x49](https://github.com/r0oth3x49) | Nasir Khan | Pakistan | 1,232 |
 
-Generated: 2026-10-10T15:36:24.396Z
+Generated: 2026-10-10T16:59:35.368Z

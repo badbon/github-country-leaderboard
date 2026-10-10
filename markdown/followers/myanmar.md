@@ -1,6 +1,6 @@
 # Followers - Myanmar
 
-Generated: 2026-10-10T15:31:47.415Z
+Generated: 2026-10-10T16:53:20.427Z
 
 Users: 2075
 
@@ -8,13 +8,13 @@ Users: 2075
 |---:|---|---|---|---|---|---:|
 | 1 | [eimg](https://github.com/eimg) | Ei Maung | Fairway Technology |  | Yangon, Myanmar | 4261 |
 | 2 | [minlwin](https://github.com/minlwin) | Min Lwin | SOLT Engineering Co.,Ltd. |  | Yangon, Myanmar | 1197 |
-| 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1050 |
+| 3 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 1065 |
 | 4 | [sailay1996](https://github.com/sailay1996) | valen |  | 404death | Myanmar | 754 |
-| 5 | [HlaingMinThan](https://github.com/HlaingMinThan) | Hlaing Min Than(Faizal) | Creative Coder | hlaingminthan4 | Yangon,Myanmar | 689 |
+| 5 | [HlaingMinThan](https://github.com/HlaingMinThan) | Hlaing Min Than(Faizal) | Creative Coder | hlaingminthan4 | Yangon,Myanmar | 693 |
 | 6 | [KhunHtetzNaing](https://github.com/KhunHtetzNaing) | Khun Htetz Naing |  |  | HsiHseng, Myanmar | 391 |
 | 7 | [myanmarlinks](https://github.com/myanmarlinks) | Myanmar Links | Myanmar Links |  | Yangon, Myanmar | 371 |
 | 8 | [waiferkolar](https://github.com/waiferkolar) | waiferkolar | 72CODER Software Development Co.,Ltd |  | Brighter Myanmar Computer Class, Second Top of San Yeik Nyein, Helden, Yangoon, Myanmar | 349 |
-| 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | ZOE Crypto |  | Myanmar | 285 |
+| 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | ZOE Crypto |  | Myanmar | 298 |
 | 10 | [trhura](https://github.com/trhura) | Thura Hlaing |  |  | Yangon, Myanmar | 265 |
 | 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | None |  | Tamu, Myanmar | 248 |
 | 12 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Vithey |  | Myanmar | 238 |
