@@ -66,9 +66,9 @@ Indexed users: 1,500
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 668 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Kabul-Afghanistan | 439 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal | Kabul | 419 |
-| 5 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 281 |
-| 6 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | Kabul, Afghanistan | 260 |
-| 7 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 258 |
+| 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 295 |
+| 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 281 |
+| 7 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | Kabul, Afghanistan | 260 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 222 |
 | 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Kabul, Afghanistan | 218 |
 | 10 | [SarwarEbrahimi01](https://github.com/SarwarEbrahimi01) | Sarwar Ebrahimi  | Kabul , Afghanistan  | 186 |
@@ -83,4 +83,4 @@ Indexed users: 1,500
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 118 |
 
-Generated: 2026-10-09T23:09:18.024Z
+Generated: 2026-10-10T00:29:45.952Z

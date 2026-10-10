@@ -1,13 +1,13 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-09T23:40:56.293Z
+Generated: 2026-10-10T01:01:21.418Z
 
 Users: 4027
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 18854 |
-| 2 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Mutasem-mk4 Security Research | mutasem_mk4 | Jordan | 18064 |
+| 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Mutasem-mk4 Security Research | mutasem_mk4 | Jordan | 33722 |
+| 2 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 18854 |
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Syarah - TechWadi |  | Amman, Jordan | 14319 |
 | 4 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 12591 |
 | 5 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8574 |

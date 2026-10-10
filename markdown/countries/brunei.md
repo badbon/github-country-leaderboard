@@ -27,7 +27,7 @@ Indexed users: 254
 | 13 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 503 |
 | 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 493 |
 | 15 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 391 |
-| 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 376 |
+| 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 373 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 349 |
 | 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 263 |
 | 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 234 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-09T23:17:48.271Z
+Generated: 2026-10-10T00:38:31.806Z

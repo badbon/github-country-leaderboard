@@ -49,14 +49,14 @@ Indexed users: 2,041
 | 10 | [zuck30](https://github.com/zuck30) | Shadrackovsky | Tanzania | 2,543 |
 | 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,952 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 1,923 |
-| 13 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
-| 14 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | Dar es salaam , Tanzania | 1,565 |
-| 15 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
-| 16 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
-| 17 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,497 |
-| 18 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,448 |
-| 19 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,389 |
-| 20 | [cozej4](https://github.com/cozej4) | Ilakoze Jumanne | Tanzania | 1,248 |
+| 13 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 1,893 |
+| 14 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
+| 15 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | Dar es salaam , Tanzania | 1,565 |
+| 16 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
+| 17 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
+| 18 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,497 |
+| 19 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 1,448 |
+| 20 | [cephasgm](https://github.com/cephasgm) | CephasGM | Dar Es Salaam, Tanzania | 1,389 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-09T23:00:14.115Z
+Generated: 2026-10-10T00:22:16.644Z

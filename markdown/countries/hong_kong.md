@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,314
+Indexed users: 10,312
 
 | Leaderboard | Link |
 |---|---|
@@ -12,13 +12,13 @@ Indexed users: 10,314
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 27,688 |
-| 2 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
-| 3 | [thekvn](https://github.com/thekvn) | Kevin Chan | Hong Kong | 16,589 |
-| 4 | [Dmdv](https://github.com/Dmdv) | dmdv | Hong Kong | 16,146 |
-| 5 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 16,055 |
-| 6 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU | Hong Kong, Hong Kong | 15,808 |
-| 7 | [ZenAlexa](https://github.com/ZenAlexa) | Ziming Wang | Clear Water Bay, Hong Kong | 15,122 |
+| 1 | [ZenAlexa](https://github.com/ZenAlexa) | Ziming Wang | Clear Water Bay, Hong Kong | 34,569 |
+| 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 27,688 |
+| 3 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
+| 4 | [thekvn](https://github.com/thekvn) | Kevin Chan | Hong Kong | 16,589 |
+| 5 | [Dmdv](https://github.com/Dmdv) | dmdv | Hong Kong | 16,146 |
+| 6 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 16,055 |
+| 7 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU | Hong Kong, Hong Kong | 15,808 |
 | 8 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 14,970 |
 | 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 14,637 |
 | 10 | [augchan42](https://github.com/augchan42) | Augustin Chan | Hong Kong | 14,636 |
@@ -83,4 +83,4 @@ Indexed users: 10,314
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-09T23:36:58.584Z
+Generated: 2026-10-10T00:58:57.870Z

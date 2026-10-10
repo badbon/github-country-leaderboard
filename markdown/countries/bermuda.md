@@ -15,7 +15,7 @@ Indexed users: 901
 | 1 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,037 |
 | 2 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 10,483 |
 | 3 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,208 |
-| 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 8,323 |
+| 4 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,154 |
 | 5 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,697 |
 | 6 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 7,309 |
 | 7 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 6,998 |
@@ -83,4 +83,4 @@ Indexed users: 901
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-09T23:16:40.210Z
+Generated: 2026-10-10T00:38:06.642Z

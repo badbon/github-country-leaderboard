@@ -1,6 +1,6 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-09T23:08:05.044Z
+Generated: 2026-10-10T00:29:36.282Z
 
 Users: 1343
 
@@ -17,8 +17,8 @@ Users: 1343
 | 9 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | SAT Limited |  | Zambia | 1010 |
 | 10 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa |  |  | Zambia | 998 |
 | 11 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Not Employed |  | Zambia | 951 |
-| 12 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 896 |
-| 13 | [214Toto](https://github.com/214Toto) | ToToZ Collection |  |  | Ndola, Copperbelt, Zambia | 724 |
+| 12 | [214Toto](https://github.com/214Toto) | ToToZ Collection |  |  | Ndola, Copperbelt, Zambia | 724 |
+| 13 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 685 |
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 657 |
 | 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 649 |
 | 16 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 586 |

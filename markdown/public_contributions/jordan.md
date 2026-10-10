@@ -1,12 +1,12 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-09T23:40:56.293Z
+Generated: 2026-10-10T01:01:21.418Z
 
 Users: 4027
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Mutasem-mk4 Security Research | mutasem_mk4 | Jordan | 18064 |
+| 1 | [Mutasem-mk4](https://github.com/Mutasem-mk4) | Mutasem Kharma | Mutasem-mk4 Security Research | mutasem_mk4 | Jordan | 33722 |
 | 2 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Activepieces |  | Jordan | 6092 |
 | 3 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5341 |
 | 4 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 4161 |

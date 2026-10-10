@@ -1,13 +1,13 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-09T23:33:35.705Z
+Generated: 2026-10-10T00:54:13.404Z
 
 Users: 59
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 1976 |
-| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1477 |
+| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1462 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 898 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj |  |  | Nuuk, Greenland | 695 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Tongji University |  | Greenland | 544 |
@@ -19,7 +19,7 @@ Users: 59
 | 11 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  |  |  | Greenland | 157 |
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita |  |  | Kaffeklubben Island, Greenland | 131 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 121 |
-| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | GEUS |  | Nuuk, Greenland | 103 |
+| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | GEUS |  | Nuuk, Greenland | 101 |
 | 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago |  |  | Greenland | 76 |
 | 16 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Naxela.info |  | Greenland | 67 |
 | 17 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 45 |

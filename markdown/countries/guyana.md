@@ -17,7 +17,7 @@ Indexed users: 186
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,311 |
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,426 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,301 |
-| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,917 |
+| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,910 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,895 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,771 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,324 |
@@ -25,7 +25,7 @@ Indexed users: 186
 | 11 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 3,056 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee | Georgetown, TX | 2,215 |
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,657 |
-| 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,582 |
+| 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 1,584 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 1,550 |
 | 16 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 1,489 |
 | 17 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | Georgetown, Texas | 1,475 |
@@ -53,7 +53,7 @@ Indexed users: 186
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Georgetown, TX | 323 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 315 |
 | 16 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad | Guyana | 266 |
-| 17 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 245 |
+| 17 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 246 |
 | 18 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 237 |
 | 19 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 222 |
 | 20 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 206 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-09T23:35:21.559Z
+Generated: 2026-10-10T00:55:59.492Z

@@ -30,7 +30,7 @@ Indexed users: 711
 | 16 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,941 |
 | 17 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | Dushanbe | 2,839 |
 | 18 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov | Dushanbe | 2,739 |
-| 19 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,665 |
+| 19 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Tajikistan | 2,668 |
 | 20 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,644 |
 
 ## Public Contributions
@@ -43,7 +43,7 @@ Indexed users: 711
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin | Dushanbe Tajikistan | 1,380 |
 | 5 | [Komil-Muminov](https://github.com/Komil-Muminov) | KOMIL MUMINOV | Dushanbe | 1,223 |
 | 6 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 978 |
-| 7 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 953 |
+| 7 | [bezhan2009](https://github.com/bezhan2009) | Karimov Bezhan | Tajikistan | 943 |
 | 8 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | Dushanbe, Tajikistan | 940 |
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 823 |
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 761 |
@@ -51,7 +51,7 @@ Indexed users: 711
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
 | 13 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
 | 14 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 469 |
-| 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 452 |
+| 15 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 468 |
 | 16 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
 | 17 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
 | 18 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor | Tajikistan | 419 |
@@ -83,4 +83,4 @@ Indexed users: 711
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 
-Generated: 2026-10-09T23:00:08.228Z
+Generated: 2026-10-10T00:20:39.788Z

@@ -1,6 +1,6 @@
 # Zimbabwe
 
-Indexed users: 1,655
+Indexed users: 1,654
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,655
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 113 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-09T23:08:46.637Z
+Generated: 2026-10-10T00:29:39.329Z

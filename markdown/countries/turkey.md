@@ -1,6 +1,6 @@
 # Turkey
 
-Indexed users: 79,101
+Indexed users: 79,152
 
 | Leaderboard | Link |
 |---|---|
@@ -47,16 +47,16 @@ Indexed users: 79,101
 | 8 | [yanekyuk](https://github.com/yanekyuk) | Yankı Ekin Yüksel | İstanbul | 12,571 |
 | 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda | İstanbul  | 11,265 |
 | 10 | [deligoez](https://github.com/deligoez) | Yunus Emre Deligöz | Ankara, TR | 10,835 |
-| 11 | [h4yfans](https://github.com/h4yfans) | Kaan Karaca | Istanbul, Turkey | 9,027 |
-| 12 | [nomadturk](https://github.com/nomadturk) | M. Omer Golgeli | Turkey | 8,765 |
-| 13 | [aneerabee](https://github.com/aneerabee) | RABE SABAN | turkey | 8,145 |
-| 14 | [Bes-js](https://github.com/Bes-js) | Berkant (Beş) Özdemir | İstanbul,Turkey | 7,011 |
-| 15 | [Siradankullanici](https://github.com/Siradankullanici) | Emirhan Uçan | Istanbul, Ümraniye | 6,735 |
-| 16 | [alerque](https://github.com/alerque) | Caleb Maclennan | İzmir, Türkiye | 6,527 |
-| 17 | [dmitrii-fediuk](https://github.com/dmitrii-fediuk) | Dmitrii Fediuk | Istanbul, Turkey | 6,516 |
-| 18 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır | Izmir, Turkey | 5,586 |
-| 19 | [esokullu](https://github.com/esokullu) | Emre Sokullu | Istanbul Turkey | 5,404 |
-| 20 | [tevfik](https://github.com/tevfik) | Tevfik Kadıoğlu | Istanbul Turkey | 5,390 |
+| 11 | [oaslananka](https://github.com/oaslananka) | Osman Aslan | Izmir/Türkiye | 9,824 |
+| 12 | [h4yfans](https://github.com/h4yfans) | Kaan Karaca | Istanbul, Turkey | 9,027 |
+| 13 | [nomadturk](https://github.com/nomadturk) | M. Omer Golgeli | Turkey | 8,765 |
+| 14 | [aneerabee](https://github.com/aneerabee) | RABE SABAN | turkey | 8,145 |
+| 15 | [Bes-js](https://github.com/Bes-js) | Berkant (Beş) Özdemir | İstanbul,Turkey | 7,011 |
+| 16 | [Siradankullanici](https://github.com/Siradankullanici) | Emirhan Uçan | Istanbul, Ümraniye | 6,735 |
+| 17 | [alerque](https://github.com/alerque) | Caleb Maclennan | İzmir, Türkiye | 6,527 |
+| 18 | [dmitrii-fediuk](https://github.com/dmitrii-fediuk) | Dmitrii Fediuk | Istanbul, Turkey | 6,516 |
+| 19 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır | Izmir, Turkey | 5,586 |
+| 20 | [esokullu](https://github.com/esokullu) | Emre Sokullu | Istanbul Turkey | 5,404 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 79,101
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-09T23:02:59.858Z
+Generated: 2026-10-10T00:24:10.916Z

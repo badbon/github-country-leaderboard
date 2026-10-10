@@ -13,7 +13,7 @@ Indexed users: 87
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,206 |
-| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,099 |
+| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,101 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,176 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,786 |
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,654 |
@@ -23,7 +23,7 @@ Indexed users: 87
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 687 |
 | 10 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 673 |
 | 11 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
-| 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 615 |
+| 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 612 |
 | 13 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 567 |
 | 14 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
 | 15 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-09T23:35:01.193Z
+Generated: 2026-10-10T00:55:21.250Z

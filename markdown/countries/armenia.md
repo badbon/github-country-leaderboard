@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,044
+Indexed users: 4,043
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,044
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-09T23:14:03.624Z
+Generated: 2026-10-10T00:34:07.090Z

@@ -14,8 +14,8 @@ Indexed users: 59
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,957 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,842 |
-| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,477 |
-| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,273 |
+| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,462 |
+| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,272 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 898 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 821 |
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 695 |
@@ -25,7 +25,7 @@ Indexed users: 59
 | 11 | [aredigg](https://github.com/aredigg) | Are Digranes | Grønland, Oslo, Norge | 174 |
 | 12 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 13 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 131 |
-| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 129 |
+| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 127 |
 | 15 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
 | 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 76 |
 | 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
@@ -38,7 +38,7 @@ Indexed users: 59
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,976 |
-| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,477 |
+| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,462 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 898 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 695 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 544 |
@@ -50,7 +50,7 @@ Indexed users: 59
 | 11 | [adarshdev2](https://github.com/adarshdev2) | ADARSH  | Greenland | 157 |
 | 12 | [hexia7230](https://github.com/hexia7230) | Terashita | Kaffeklubben Island, Greenland | 131 |
 | 13 | [panyster](https://github.com/panyster) | Pany | Greenland | 121 |
-| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 103 |
+| 14 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 101 |
 | 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago | Greenland | 76 |
 | 16 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Greenland | 67 |
 | 17 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 45 |
@@ -62,7 +62,7 @@ Indexed users: 59
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,517 |
+| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,516 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,221 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,024 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 291 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-09T23:33:35.705Z
+Generated: 2026-10-10T00:54:13.404Z

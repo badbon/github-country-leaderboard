@@ -13,13 +13,13 @@ Indexed users: 3,229
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 14,160 |
-| 2 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 7,844 |
-| 3 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
-| 4 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 7,133 |
-| 5 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 7,047 |
-| 6 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
-| 7 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
-| 8 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 6,176 |
+| 2 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
+| 3 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 7,844 |
+| 4 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
+| 5 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 7,133 |
+| 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 7,047 |
+| 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
+| 8 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
 | 9 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | Guatemala | 5,791 |
 | 10 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 5,581 |
 | 11 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
@@ -83,4 +83,4 @@ Indexed users: 3,229
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-09T23:35:07.972Z
+Generated: 2026-10-10T00:55:53.724Z

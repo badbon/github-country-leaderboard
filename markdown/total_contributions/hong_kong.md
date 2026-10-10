@@ -1,18 +1,18 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-09T23:36:58.584Z
+Generated: 2026-10-10T00:58:57.870Z
 
-Users: 10314
+Users: 10312
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | @scentbird @chainargos | donbeave | Hong Kong | 27688 |
-| 2 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | http://pantarei-design.com | hswong3i | Hong Kong | 22592 |
-| 3 | [thekvn](https://github.com/thekvn) | Kevin Chan | @ybexio  |  | Hong Kong | 16589 |
-| 4 | [Dmdv](https://github.com/Dmdv) | dmdv |  |  | Hong Kong | 16146 |
-| 5 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 16055 |
-| 6 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU |  |  | Hong Kong, Hong Kong | 15808 |
-| 7 | [ZenAlexa](https://github.com/ZenAlexa) | Ziming Wang | HKUST | Adrian_Z_Wang | Clear Water Bay, Hong Kong | 15122 |
+| 1 | [ZenAlexa](https://github.com/ZenAlexa) | Ziming Wang | HKUST | Adrian_Z_Wang | Clear Water Bay, Hong Kong | 34569 |
+| 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | @scentbird @chainargos | donbeave | Hong Kong | 27688 |
+| 3 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | http://pantarei-design.com | hswong3i | Hong Kong | 22592 |
+| 4 | [thekvn](https://github.com/thekvn) | Kevin Chan | @ybexio  |  | Hong Kong | 16589 |
+| 5 | [Dmdv](https://github.com/Dmdv) | dmdv |  |  | Hong Kong | 16146 |
+| 6 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 16055 |
+| 7 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU |  |  | Hong Kong, Hong Kong | 15808 |
 | 8 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | @basedhardware | makethings4ppl | melbourne/hong kong | 14970 |
 | 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 14637 |
 | 10 | [augchan42](https://github.com/augchan42) | Augustin Chan |  |  | Hong Kong | 14636 |

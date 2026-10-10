@@ -14,8 +14,8 @@ Indexed users: 1,803
 |---:|---|---|---|---:|
 | 1 | [Tomdieu](https://github.com/Tomdieu) | ivantom | Cameroon | 12,903 |
 | 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Cameroon - Yaounde | 11,682 |
-| 3 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,756 |
-| 4 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 8,112 |
+| 3 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 10,058 |
+| 4 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,756 |
 | 5 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,720 |
 | 6 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,204 |
 | 7 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 6,705 |
@@ -83,4 +83,4 @@ Indexed users: 1,803
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 | 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
 
-Generated: 2026-10-09T23:18:05.644Z
+Generated: 2026-10-10T00:40:26.332Z

@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-09T23:18:05.644Z
+Generated: 2026-10-10T00:40:26.332Z
 
 Users: 1803
 
@@ -8,8 +8,8 @@ Users: 1803
 |---:|---|---|---|---|---|---:|
 | 1 | [Tomdieu](https://github.com/Tomdieu) | ivantom | TrixGroup | navicorp_ | Cameroon | 12903 |
 | 2 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Full-Stack Developer | Momo_yde | Cameroon - Yaounde | 11682 |
-| 3 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9756 |
-| 4 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 8112 |
+| 3 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 10058 |
+| 4 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9756 |
 | 5 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 7720 |
 | 6 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 7204 |
 | 7 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 6705 |

@@ -1,8 +1,8 @@
 # Public Contributions - Turkey
 
-Generated: 2026-10-09T23:02:59.858Z
+Generated: 2026-10-10T00:24:10.916Z
 
-Users: 79101
+Users: 79152
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,13 +16,13 @@ Users: 79101
 | 8 | [yanekyuk](https://github.com/yanekyuk) | Yankı Ekin Yüksel |  |  | İstanbul | 12571 |
 | 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda |  |  | İstanbul  | 11265 |
 | 10 | [deligoez](https://github.com/deligoez) | Yunus Emre Deligöz | @tarfin-labs  | yedeligoez | Ankara, TR | 10835 |
-| 11 | [h4yfans](https://github.com/h4yfans) | Kaan Karaca | @adjust | h4yfans | Istanbul, Turkey | 9027 |
-| 12 | [nomadturk](https://github.com/nomadturk) | M. Omer Golgeli |  |  | Turkey | 8765 |
-| 13 | [aneerabee](https://github.com/aneerabee) | RABE SABAN | Brix |  | turkey | 8145 |
-| 14 | [Bes-js](https://github.com/Bes-js) | Berkant (Beş) Özdemir | @HikieSpace \| @Luppux | beykant_ | İstanbul,Turkey | 7011 |
-| 15 | [Siradankullanici](https://github.com/Siradankullanici) | Emirhan Uçan |  |  | Istanbul, Ümraniye | 6735 |
-| 16 | [alerque](https://github.com/alerque) | Caleb Maclennan |  | CalebMaclennan | İzmir, Türkiye | 6527 |
-| 17 | [dmitrii-fediuk](https://github.com/dmitrii-fediuk) | Dmitrii Fediuk |  |  | Istanbul, Turkey | 6516 |
-| 18 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır |  |  | Izmir, Turkey | 5586 |
-| 19 | [esokullu](https://github.com/esokullu) | Emre Sokullu |  | EmreSokullu | Istanbul Turkey | 5404 |
-| 20 | [tevfik](https://github.com/tevfik) | Tevfik Kadıoğlu |  |  | Istanbul Turkey | 5390 |
+| 11 | [oaslananka](https://github.com/oaslananka) | Osman Aslan |  | oaslananka | Izmir/Türkiye | 9824 |
+| 12 | [h4yfans](https://github.com/h4yfans) | Kaan Karaca | @adjust | h4yfans | Istanbul, Turkey | 9027 |
+| 13 | [nomadturk](https://github.com/nomadturk) | M. Omer Golgeli |  |  | Turkey | 8765 |
+| 14 | [aneerabee](https://github.com/aneerabee) | RABE SABAN | Brix |  | turkey | 8145 |
+| 15 | [Bes-js](https://github.com/Bes-js) | Berkant (Beş) Özdemir | @HikieSpace \| @Luppux | beykant_ | İstanbul,Turkey | 7011 |
+| 16 | [Siradankullanici](https://github.com/Siradankullanici) | Emirhan Uçan |  |  | Istanbul, Ümraniye | 6735 |
+| 17 | [alerque](https://github.com/alerque) | Caleb Maclennan |  | CalebMaclennan | İzmir, Türkiye | 6527 |
+| 18 | [dmitrii-fediuk](https://github.com/dmitrii-fediuk) | Dmitrii Fediuk |  |  | Istanbul, Turkey | 6516 |
+| 19 | [anilcancakir](https://github.com/anilcancakir) | Anılcan Çakır |  |  | Izmir, Turkey | 5586 |
+| 20 | [esokullu](https://github.com/esokullu) | Emre Sokullu |  | EmreSokullu | Istanbul Turkey | 5404 |

@@ -1,19 +1,19 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-09T23:35:07.972Z
+Generated: 2026-10-10T00:55:53.724Z
 
 Users: 3229
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | @SparkProjects  | Lewatoto | Guatemala | 14160 |
-| 2 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | GT Code Software |  | Guatemala | 7844 |
-| 3 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 7824 |
-| 4 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Recorrido.cl | DubonAlejandro | Guatemala | 7133 |
-| 5 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 7047 |
-| 6 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
-| 7 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |
-| 8 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | OSCARLEON |  | Guatemala | 6176 |
+| 2 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | OSCARLEON |  | Guatemala | 9523 |
+| 3 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | GT Code Software |  | Guatemala | 7844 |
+| 4 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 7824 |
+| 5 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Recorrido.cl | DubonAlejandro | Guatemala | 7133 |
+| 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 7047 |
+| 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
+| 8 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |
 | 9 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | ebsoltech |  | Guatemala | 5791 |
 | 10 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 5581 |
 | 11 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |

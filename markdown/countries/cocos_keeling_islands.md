@@ -12,10 +12,10 @@ Indexed users: 9
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 661 |
+| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 660 |
 | 2 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 153 |
 | 3 | [ivla-bit](https://github.com/ivla-bit) | Казаніков Ілля | Cocos Islands | 101 |
-| 4 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 11 |
+| 4 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 10 |
 | 5 | [getsalmon](https://github.com/getsalmon) | nton | Cocos Islands | 3 |
 | 6 | [Dmzll](https://github.com/Dmzll) | Dmzll | Keeling Islands | 1 |
 | 7 | [freakaton](https://github.com/freakaton) | Ivan Lavrenov | Cocos Islands | 0 |
@@ -27,8 +27,8 @@ Indexed users: 9
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] | West Island of New Zealand (aka Australia) | 134 |
-| 2 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 11 |
-| 3 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 6 |
+| 2 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 10 |
+| 3 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto | Cocos (Keeling) Islands | 5 |
 | 4 | [getsalmon](https://github.com/getsalmon) | nton | Cocos Islands | 3 |
 | 5 | [Dmzll](https://github.com/Dmzll) | Dmzll | Keeling Islands | 1 |
 | 6 | [freakaton](https://github.com/freakaton) | Ivan Lavrenov | Cocos Islands | 0 |
@@ -50,4 +50,4 @@ Indexed users: 9
 | 8 | [Nepoymi](https://github.com/Nepoymi) | Abrakham Baderman | Cocos Islands | 1 |
 | 9 | [NetworkWorm123](https://github.com/NetworkWorm123) | Timon | Cocos Islands | 1 |
 
-Generated: 2026-10-09T23:21:36.272Z
+Generated: 2026-10-10T00:43:28.776Z
