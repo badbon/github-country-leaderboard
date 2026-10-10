@@ -10628,7 +10628,7 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 35,
     "createdAt": "2015-07-24T01:58:15Z"
   },
   {
@@ -10638,9 +10638,9 @@
     "location": "Oman, Muscat",
     "company": "",
     "twitterUsername": "albadi142",
-    "followers": 16,
-    "privateContributions": 211,
-    "publicContributions": 8,
+    "followers": 18,
+    "privateContributions": 124,
+    "publicContributions": 1,
     "createdAt": "2015-02-11T18:12:54Z"
   },
   {
@@ -10651,8 +10651,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1645,
-    "publicContributions": 139,
+    "privateContributions": 1792,
+    "publicContributions": 150,
     "createdAt": "2015-04-25T10:26:41Z"
   },
   {
@@ -10664,7 +10664,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2015-06-13T13:25:58Z"
   },
   {
@@ -10676,7 +10676,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2015-02-25T09:58:09Z"
   },
   {
@@ -10686,9 +10686,9 @@
     "location": "Muscat, Oman",
     "company": "Protiviti",
     "twitterUsername": "Ahsan_Iftikhar",
-    "followers": 9,
-    "privateContributions": 19,
-    "publicContributions": 6,
+    "followers": 10,
+    "privateContributions": 25,
+    "publicContributions": 8,
     "createdAt": "2015-10-07T06:52:16Z"
   },
   {
@@ -10699,8 +10699,8 @@
     "company": "Bright Palm Solutions LLC",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 31093,
-    "publicContributions": 4,
+    "privateContributions": 31085,
+    "publicContributions": 0,
     "createdAt": "2015-04-19T10:13:07Z"
   },
   {
@@ -10770,9 +10770,9 @@
     "location": "Oman",
     "company": "@ESBAAR-AI ",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 827,
-    "publicContributions": 81,
+    "followers": 4,
+    "privateContributions": 1027,
+    "publicContributions": 75,
     "createdAt": "2015-08-27T21:37:53Z"
   },
   {
@@ -10782,9 +10782,9 @@
     "location": "Muscat, Oman",
     "company": "Integral Solutions",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 55,
-    "publicContributions": 15,
+    "followers": 4,
+    "privateContributions": 50,
+    "publicContributions": 19,
     "createdAt": "2015-09-15T19:32:21Z"
   },
   {
@@ -10800,18 +10800,6 @@
     "createdAt": "2015-11-05T08:17:15Z"
   },
   {
-    "login": "shabanelmansy",
-    "name": "Shaban Elmansy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/16060580?s=72&u=2b6597072af9de1ac37681f22851d7470fae3fb1&v=4",
-    "location": "Oman",
-    "company": "Etco",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 86,
-    "publicContributions": 0,
-    "createdAt": "2015-11-28T16:35:36Z"
-  },
-  {
     "login": "AbdulRahmanAlSalhi",
     "name": "Abdulrahman Salim Al-Salhi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/11533188?s=72&u=440d9225c707fe741d9a1bd329265e185a049ede&v=4",
@@ -10820,7 +10808,7 @@
     "twitterUsername": "a_rahmanalsalhi",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-03-18T06:01:35Z"
   },
   {

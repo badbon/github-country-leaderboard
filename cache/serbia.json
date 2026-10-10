@@ -10579,8 +10579,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 29,
-    "publicContributions": 161,
+    "privateContributions": 51,
+    "publicContributions": 148,
     "createdAt": "2023-04-07T21:00:09Z"
   },
   {
@@ -10590,7 +10590,7 @@
     "location": "Novi Sad, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-03T12:14:00Z"
@@ -10604,7 +10604,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-04-12T08:58:26Z"
   },
   {
@@ -10628,7 +10628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 2,
     "createdAt": "2023-02-23T21:30:26Z"
   },
   {
@@ -10638,15 +10638,15 @@
     "location": "Novi Sad, Serbia",
     "company": "Fivetran",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 155,
-    "publicContributions": 17,
+    "followers": 2,
+    "privateContributions": 54,
+    "publicContributions": 2,
     "createdAt": "2023-02-21T08:31:04Z"
   },
   {
     "login": "BorisSpring",
     "name": "Boris Dimitrijevic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125340151?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/125340151?s=72&u=5eadd68cc9d04cea97947f3b883fa5c90e9ed587&v=4",
     "location": "Belgrade Serbia",
     "company": "",
     "twitterUsername": "",
@@ -10670,13 +10670,13 @@
   {
     "login": "stevanovicdjordje",
     "name": "Djordje Stevanovic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150530556?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150530556?s=72&u=6e6de3c14048f36bd84f3247ecccfc458f261143&v=4",
     "location": "Belgrade, Serbia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 12,
     "createdAt": "2023-11-11T13:59:10Z"
   },
   {
@@ -10688,7 +10688,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 63,
     "createdAt": "2023-08-02T16:44:19Z"
   },
   {
@@ -10736,7 +10736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 61,
     "createdAt": "2023-11-27T08:27:07Z"
   },
   {

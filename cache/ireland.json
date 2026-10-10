@@ -233994,9 +233994,9 @@
     "location": "Dublin Ireland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 13324,
+    "publicContributions": 13567,
     "createdAt": "2026-06-22T17:03:23Z"
   },
   {
@@ -234226,5 +234226,53 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-06-11T10:20:53Z"
+  },
+  {
+    "login": "agent-gw",
+    "name": "agent-gw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284462681?s=72&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-13T23:04:35Z"
+  },
+  {
+    "login": "andreas-tank",
+    "name": "Andreas Kull",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297105305?s=72&v=4",
+    "location": "Dublin",
+    "company": "Acre Security",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-26T08:21:07Z"
+  },
+  {
+    "login": "Arex1989",
+    "name": "Rexmond Anih",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294122861?s=72&u=9a20453377db5c3cb78b4b65a947345d8a006f03&v=4",
+    "location": "Dublin, Ireland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 174,
+    "createdAt": "2026-06-16T09:00:56Z"
+  },
+  {
+    "login": "femsn271",
+    "name": "Fernanda Machado",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284660516?s=72&u=03f40a623b968b3409d8aa9ed500b9d54e0e9f01&v=4",
+    "location": "Dublin",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 42,
+    "createdAt": "2026-05-14T12:58:45Z"
   }
 ]

@@ -10580,7 +10580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2024-02-14T14:05:05Z"
   },
   {
@@ -10592,7 +10592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 28,
     "createdAt": "2024-09-22T19:07:02Z"
   },
   {
@@ -10627,7 +10627,7 @@
     "company": "Carnegie Mellon University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 17,
     "publicContributions": 4,
     "createdAt": "2024-06-06T12:06:42Z"
   },
@@ -10662,22 +10662,10 @@
     "location": "kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 60,
     "createdAt": "2024-11-07T13:46:56Z"
-  },
-  {
-    "login": "MERCIA-lab",
-    "name": "Meek :)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184163173?s=72&u=8252a3ae6382cdcfe3b05ca6dfcc4103dd2931a4&v=4",
-    "location": "Kigali,Nyarugenge",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 47,
-    "createdAt": "2024-10-07T20:53:32Z"
   },
   {
     "login": "lineboi",
@@ -10688,7 +10676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 119,
     "createdAt": "2024-10-03T07:28:36Z"
   },
   {
@@ -10698,7 +10686,7 @@
     "location": "Kigali ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-22T04:00:11Z"
@@ -10736,20 +10724,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 45,
     "createdAt": "2024-02-08T09:22:12Z"
-  },
-  {
-    "login": "Pierre-2",
-    "name": "Jean Pierre NIYOMUGABO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161997858?s=72&u=626b9442d005f3688ff732c0998e5f69186d84ef&v=4",
-    "location": "Kigali",
-    "company": "Student",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 34,
-    "createdAt": "2024-03-03T04:49:53Z"
   },
   {
     "login": "djnofear12",
@@ -10772,7 +10748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2024-04-30T16:23:27Z"
   },
   {

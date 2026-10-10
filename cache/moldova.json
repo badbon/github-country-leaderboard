@@ -10639,7 +10639,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 476,
+    "privateContributions": 426,
     "publicContributions": 1,
     "createdAt": "2018-01-30T16:56:18Z"
   },
@@ -10651,7 +10651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 7,
+    "privateContributions": 5,
     "publicContributions": 1,
     "createdAt": "2018-08-13T11:36:50Z"
   },
@@ -10663,7 +10663,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 81,
+    "privateContributions": 111,
     "publicContributions": 0,
     "createdAt": "2018-09-10T16:23:21Z"
   },
@@ -10676,7 +10676,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 3,
     "createdAt": "2018-04-18T16:24:21Z"
   },
   {
@@ -10686,9 +10686,9 @@
     "location": "Chisinau, Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1225,
-    "publicContributions": 27,
+    "followers": 6,
+    "privateContributions": 1734,
+    "publicContributions": 3,
     "createdAt": "2018-07-22T13:11:18Z"
   },
   {
@@ -10699,8 +10699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 62,
+    "privateContributions": 2,
+    "publicContributions": 22,
     "createdAt": "2018-05-22T09:34:55Z"
   },
   {
@@ -10711,7 +10711,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 80,
+    "privateContributions": 196,
     "publicContributions": 0,
     "createdAt": "2018-12-27T23:20:38Z"
   },
@@ -10760,7 +10760,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 26,
     "createdAt": "2018-03-15T15:21:07Z"
   },
   {
@@ -10807,7 +10807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 12,
+    "privateContributions": 14,
     "publicContributions": 0,
     "createdAt": "2018-09-22T14:41:12Z"
   },
@@ -10820,7 +10820,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 126,
     "createdAt": "2018-05-25T18:44:44Z"
   },
   {
@@ -10832,7 +10832,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 27,
     "createdAt": "2018-08-11T22:18:40Z"
   },
   {
@@ -10846,18 +10846,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-09-28T19:45:33Z"
-  },
-  {
-    "login": "asp1n",
-    "name": "Nicø Aspin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40360786?s=72&u=8db54f8494033b93580a9afed2a75e7e1c3f7047&v=4",
-    "location": "Moldova, Tiraspol",
-    "company": "@BTCSecure",
-    "twitterUsername": "asp1n",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-06-18T13:49:44Z"
   },
   {
     "login": "balanmarina",
