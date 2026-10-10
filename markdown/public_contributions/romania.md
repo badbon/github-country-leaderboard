@@ -1,16 +1,16 @@
 # Public Contributions - Romania
 
-Generated: 2026-10-10T09:43:54.817Z
+Generated: 2026-10-10T11:14:31.645Z
 
-Users: 14988
+Users: 14987
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | BuildOps | 0_vortex | Romania | 32297 |
 | 2 | [eliandoran](https://github.com/eliandoran) | Elian Doran | Esevo Tech |  | Sibiu, Romania | 12658 |
-| 3 | [ThatSINEWAVE](https://github.com/ThatSINEWAVE) | David | HEAT Labs | ThatSINEWAVE | Bucharest, Romania | 8087 |
-| 4 | [doriandrn](https://github.com/doriandrn) | Dorian Tudorache | @Numina-Labs @Numina-Software  | DorianTudorache | Romania, EU | 7896 |
-| 5 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | @pxmstudio |  | Romania | 7782 |
+| 3 | [doriandrn](https://github.com/doriandrn) | Dorian Tudorache | @Numina-Labs @Numina-Software  | DorianTudorache | Romania, EU | 7896 |
+| 4 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | @pxmstudio |  | Romania | 7782 |
+| 5 | [ThatSINEWAVE](https://github.com/ThatSINEWAVE) | David | HEAT Labs | ThatSINEWAVE | Bucharest, Romania | 7707 |
 | 6 | [cstroie](https://github.com/cstroie) | Costin Stroie |  |  | Bucharest, Romania | 7659 |
 | 7 | [victorrentea](https://github.com/victorrentea) | Victor Rentea | Independent | victorrentea | Bucharest, Romania | 7560 |
 | 8 | [homepods](https://github.com/homepods) | Andrei Toma | HOMEPOD | tomitzz | ROMANIA | 6863 |

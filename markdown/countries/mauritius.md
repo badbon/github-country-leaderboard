@@ -1,6 +1,6 @@
 # Mauritius
 
-Indexed users: 715
+Indexed users: 714
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 715
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-10T09:29:04.134Z
+Generated: 2026-10-10T11:00:37.760Z

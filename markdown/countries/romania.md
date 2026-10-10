@@ -1,6 +1,6 @@
 # Romania
 
-Indexed users: 14,988
+Indexed users: 14,987
 
 | Leaderboard | Link |
 |---|---|
@@ -39,9 +39,9 @@ Indexed users: 14,988
 |---:|---|---|---|---:|
 | 1 | [0-vortex](https://github.com/0-vortex) | TED Vortex (Teodor-Eugen Duțulescu) | Romania | 32,297 |
 | 2 | [eliandoran](https://github.com/eliandoran) | Elian Doran | Sibiu, Romania | 12,658 |
-| 3 | [ThatSINEWAVE](https://github.com/ThatSINEWAVE) | David | Bucharest, Romania | 8,087 |
-| 4 | [doriandrn](https://github.com/doriandrn) | Dorian Tudorache | Romania, EU | 7,896 |
-| 5 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | Romania | 7,782 |
+| 3 | [doriandrn](https://github.com/doriandrn) | Dorian Tudorache | Romania, EU | 7,896 |
+| 4 | [mihaipxm](https://github.com/mihaipxm) | Mihai Ungureanu | Romania | 7,782 |
+| 5 | [ThatSINEWAVE](https://github.com/ThatSINEWAVE) | David | Bucharest, Romania | 7,707 |
 | 6 | [cstroie](https://github.com/cstroie) | Costin Stroie | Bucharest, Romania | 7,659 |
 | 7 | [victorrentea](https://github.com/victorrentea) | Victor Rentea | Bucharest, Romania | 7,560 |
 | 8 | [homepods](https://github.com/homepods) | Andrei Toma | ROMANIA | 6,863 |
@@ -83,4 +83,4 @@ Indexed users: 14,988
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-10T09:43:54.817Z
+Generated: 2026-10-10T11:14:31.645Z

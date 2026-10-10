@@ -47,7 +47,7 @@ Indexed users: 347
 | 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 382 |
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 374 |
 | 10 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 329 |
-| 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 319 |
+| 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 309 |
 | 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
 | 14 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-10T09:25:23.105Z
+Generated: 2026-10-10T10:59:20.377Z

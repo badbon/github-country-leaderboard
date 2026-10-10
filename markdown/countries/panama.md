@@ -21,17 +21,17 @@ Indexed users: 1,071
 | 7 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 14,869 |
 | 8 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 11,958 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 9,624 |
-| 10 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,083 |
-| 11 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,433 |
-| 12 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,395 |
-| 13 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,697 |
-| 14 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,091 |
-| 15 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,665 |
-| 16 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
-| 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
-| 18 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
-| 19 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 5,888 |
-| 20 | [muniter](https://github.com/muniter) | Javier Lopez | Panama, Panama City | 5,137 |
+| 10 | [bgawne](https://github.com/bgawne) | Brad Gawne | Panama | 9,524 |
+| 11 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,083 |
+| 12 | [captainsparrow10](https://github.com/captainsparrow10) | Javier Acosta Tullock | Panama | 8,433 |
+| 13 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,395 |
+| 14 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,697 |
+| 15 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,091 |
+| 16 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,665 |
+| 17 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
+| 18 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
+| 19 | [atebites-hub](https://github.com/atebites-hub) | atebites | Panama | 6,149 |
+| 20 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 5,888 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,071
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-10T09:38:01.398Z
+Generated: 2026-10-10T11:11:23.804Z

@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-10T09:23:22.271Z
+Generated: 2026-10-10T10:57:50.051Z
 
 Users: 900
 
@@ -9,10 +9,10 @@ Users: 900
 | 1 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4708 |
 | 2 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 1725 |
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 1596 |
-| 4 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti |  |  | malawi | 1112 |
-| 5 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1018 |
+| 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1189 |
+| 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti |  |  | malawi | 1112 |
 | 6 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 985 |
-| 7 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 959 |
+| 7 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 965 |
 | 8 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 951 |
 | 9 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 |  |  | Malawi | 783 |
 | 10 | [lcfranklin](https://github.com/lcfranklin) | Franklin | f-algoverse |  | Rumphi, Malawi | 737 |

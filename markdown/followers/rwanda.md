@@ -1,6 +1,6 @@
 # Followers - Rwanda
 
-Generated: 2026-10-10T09:45:28.214Z
+Generated: 2026-10-10T11:14:38.059Z
 
 Users: 3527
 
@@ -12,8 +12,8 @@ Users: 3527
 | 4 | [thepiratehub](https://github.com/thepiratehub) | home of source code | @codewithedison |  | kigali rwanda | 1497 |
 | 5 | [habibundayishimiye](https://github.com/habibundayishimiye) | SPM_Habibu | UR |  | Kigali Rwanda | 1465 |
 | 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 1019 |
-| 7 | [Nsoro-Allan](https://github.com/Nsoro-Allan) | Nsoro Allan | AllanCorp |  | Kigali, Rwanda | 993 |
-| 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 895 |
+| 7 | [Nsoro-Allan](https://github.com/Nsoro-Allan) | Nsoro Allan | AllanCorp |  | Kigali, Rwanda | 974 |
+| 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 896 |
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad |  | umutambyi_gad | Kigali, Rwanda | 652 |
 | 10 | [samuelumutiti](https://github.com/samuelumutiti) | Umutiti Samuel | Freelancer | UsamuelC2287 | Rwanda / Kigali City | 614 |
 | 11 | [AlineHub-tech](https://github.com/AlineHub-tech) | Umugwaneza Aline | ByteFlow Ltd |  | Kigali, Rwanda | 511 |
@@ -21,8 +21,8 @@ Users: 3527
 | 13 | [uwenayoallain](https://github.com/uwenayoallain) | Alain Pacifique UWENAYO |  | uwenayoallain | Kigali,Rwanda | 445 |
 | 14 | [Mucyo-chris](https://github.com/Mucyo-chris) | Christian MUCYO |  |  | KIGALI-RWANDA | 388 |
 | 15 | [neoscratchteam](https://github.com/neoscratchteam) | NeoScratch | NeoScratch |  | Kigali, Rwanda | 386 |
-| 16 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo |  |  | Kigali, Rwanda | 351 |
-| 17 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel |  | descholar3 | Kigali, Rwanda | 328 |
-| 18 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | PangaTrip |  | Rwanda | 316 |
-| 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie |  |  | rwanda | 315 |
-| 20 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 314 |
+| 16 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 357 |
+| 17 | [regis-mucyo](https://github.com/regis-mucyo) | Regis Mucyo |  |  | Kigali, Rwanda | 351 |
+| 18 | [descholar-ceo](https://github.com/descholar-ceo) | Mugirase Emmanuel |  | descholar3 | Kigali, Rwanda | 328 |
+| 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | PangaTrip |  | Rwanda | 316 |
+| 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie |  | Shemaelie97 | rwanda | 314 |

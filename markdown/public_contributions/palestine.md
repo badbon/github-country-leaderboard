@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-10T09:37:56.977Z
+Generated: 2026-10-10T11:11:17.539Z
 
 Users: 2209
 
@@ -21,7 +21,7 @@ Users: 2209
 | 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
 | 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
 | 15 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 802 |
-| 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 759 |
+| 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 774 |
 | 17 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Co.Te.De. | KQnabi | Palestine | 718 |
 | 18 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Birzeit University |  | Palestine | 717 |
 | 19 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti |  |  | Palestine | 710 |
