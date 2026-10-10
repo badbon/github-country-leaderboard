@@ -11586,7 +11586,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2017-10-21T11:28:42Z"
@@ -11600,7 +11600,7 @@
     "twitterUsername": "m_lemine_b",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2017-01-08T21:11:05Z"
   },
   {
@@ -11610,9 +11610,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 56,
-    "publicContributions": 122,
+    "followers": 20,
+    "privateContributions": 53,
+    "publicContributions": 123,
     "createdAt": "2017-01-10T00:05:23Z"
   },
   {
@@ -11636,7 +11636,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 4,
-    "publicContributions": 406,
+    "publicContributions": 415,
     "createdAt": "2017-12-13T06:26:14Z"
   },
   {
@@ -11646,9 +11646,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "cedrichter",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 94,
     "createdAt": "2017-10-06T11:30:41Z"
   },
   {
@@ -11658,9 +11658,9 @@
     "location": "Esch-sur-Alzette, Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 600,
-    "publicContributions": 7,
+    "followers": 20,
+    "privateContributions": 611,
+    "publicContributions": 113,
     "createdAt": "2017-11-26T16:59:14Z"
   },
   {
@@ -11671,8 +11671,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 2189,
-    "publicContributions": 111,
+    "privateContributions": 1890,
+    "publicContributions": 123,
     "createdAt": "2017-06-29T07:02:41Z"
   },
   {
@@ -11683,8 +11683,8 @@
     "company": "Dennemeyer",
     "twitterUsername": "amirdaraee",
     "followers": 17,
-    "privateContributions": 589,
-    "publicContributions": 591,
+    "privateContributions": 1160,
+    "publicContributions": 1232,
     "createdAt": "2017-05-21T17:21:51Z"
   },
   {
@@ -11694,7 +11694,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2017-12-05T19:17:04Z"
@@ -11730,9 +11730,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 572,
+    "publicContributions": 529,
     "createdAt": "2017-04-28T16:26:44Z"
   },
   {
@@ -11742,8 +11742,8 @@
     "location": "Luxembourg",
     "company": "Sfeir - Luxembourg",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 253,
+    "followers": 16,
+    "privateContributions": 106,
     "publicContributions": 0,
     "createdAt": "2017-04-20T15:15:36Z"
   },
@@ -11754,8 +11754,8 @@
     "location": "Luxembourg",
     "company": "@Sitetracker",
     "twitterUsername": "renanbrasilio",
-    "followers": 14,
-    "privateContributions": 124,
+    "followers": 15,
+    "privateContributions": 255,
     "publicContributions": 25,
     "createdAt": "2017-01-12T11:21:07Z"
   },
@@ -11767,8 +11767,8 @@
     "company": "@Sfeir ",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 914,
-    "publicContributions": 45,
+    "privateContributions": 801,
+    "publicContributions": 48,
     "createdAt": "2017-06-14T09:26:12Z"
   },
   {
@@ -11776,24 +11776,12 @@
     "name": "Bacem Etteib",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25087539?s=72&u=27b8e6e8d513919c3720918310c7ccbfba516d8e&v=4",
     "location": "Luxembourg",
-    "company": "SnT",
+    "company": "Luxembourg Institute of Science and Technology",
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 6,
-    "publicContributions": 44,
+    "publicContributions": 46,
     "createdAt": "2017-01-12T19:26:38Z"
-  },
-  {
-    "login": "jadghadry",
-    "name": "Jade Ghadry",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30595005?s=72&u=1fb3468ab5e567d22a740665c121cbf0794cec93&v=4",
-    "location": "Luxembourg",
-    "company": "Augment",
-    "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 967,
-    "publicContributions": 3,
-    "createdAt": "2017-07-31T11:49:28Z"
   },
   {
     "login": "robertobernardelli",

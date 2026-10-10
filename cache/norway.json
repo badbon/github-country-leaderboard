@@ -11792,7 +11792,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 24,
     "createdAt": "2023-10-10T07:08:57Z"
   },
   {
@@ -11815,7 +11815,7 @@
     "company": " Crayon Consoulting ",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 376,
+    "privateContributions": 336,
     "publicContributions": 46,
     "createdAt": "2023-01-25T08:03:34Z"
   },
@@ -11827,8 +11827,8 @@
     "company": "HaugeDev",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 25,
-    "publicContributions": 278,
+    "privateContributions": 19,
+    "publicContributions": 277,
     "createdAt": "2023-08-16T15:01:09Z"
   },
   {
@@ -11876,7 +11876,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2023-08-21T11:29:47Z"
   },
   {
@@ -11886,7 +11886,7 @@
     "location": "Kongsberg, Norway",
     "company": "Vokser",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-07T12:45:19Z"
@@ -11899,20 +11899,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 53,
-    "publicContributions": 106,
+    "privateContributions": 61,
+    "publicContributions": 63,
     "createdAt": "2023-02-21T11:55:51Z"
   },
   {
     "login": "AndersPanders123",
     "name": "Anders Hoelstad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123541105?s=72&u=6c3c8c14faa66478813583eb1dce75ce003bdcd7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123541105?s=72&u=91cb30be2c978929857175a30241a953d937182b&v=4",
     "location": "Hamar, Norway",
-    "company": "Arribatec AS",
+    "company": "",
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-01-25T08:02:09Z"
   },
   {
@@ -11920,7 +11920,7 @@
     "name": "Harsirat Kaur",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143172141?s=72&u=11192b6a3a7b3ff51ff53b87be461613399d9ea1&v=4",
     "location": "Norway",
-    "company": "Oslo Metropolitan University",
+    "company": "University of Oslo",
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
@@ -11935,8 +11935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 333,
-    "publicContributions": 116,
+    "privateContributions": 360,
+    "publicContributions": 178,
     "createdAt": "2023-02-02T14:41:17Z"
   },
   {
@@ -11958,9 +11958,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 23,
     "createdAt": "2023-01-22T19:41:11Z"
   },
   {
@@ -11972,7 +11972,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2023-10-17T08:07:37Z"
   },
   {
@@ -11983,8 +11983,8 @@
     "company": "@bouvet",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 752,
-    "publicContributions": 5,
+    "privateContributions": 793,
+    "publicContributions": 4,
     "createdAt": "2023-04-19T15:16:38Z"
   },
   {
@@ -11996,7 +11996,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 31,
     "createdAt": "2023-08-23T07:28:12Z"
   },
   {
@@ -12004,23 +12004,23 @@
     "name": "Bård Andrè",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129296385?s=72&u=b003e8ea5dfc8747ab2f3e2f319cf7fee6ecbd1e&v=4",
     "location": "Skien, Norway",
-    "company": "Rubynor AS",
+    "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 140,
-    "publicContributions": 45,
+    "privateContributions": 195,
+    "publicContributions": 26,
     "createdAt": "2023-03-29T13:19:03Z"
   },
   {
     "login": "lbraten",
     "name": "Leander",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148044380?s=72&u=e27af51ccb9fcd625370a3a37a46dce273a7be04&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148044380?s=72&u=ad0a99d0122612be3bd3ac188e3e6e58666d13db&v=4",
     "location": "Oslo, Norway",
     "company": "@Utdanningsdirektoratet",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1004,
-    "publicContributions": 349,
+    "followers": 12,
+    "privateContributions": 1068,
+    "publicContributions": 338,
     "createdAt": "2023-10-16T07:16:28Z"
   },
   {

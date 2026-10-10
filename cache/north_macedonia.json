@@ -11972,7 +11972,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 40,
     "createdAt": "2019-10-20T20:14:18Z"
   },
   {
@@ -11983,7 +11983,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 361,
+    "privateContributions": 500,
     "publicContributions": 0,
     "createdAt": "2019-01-18T23:19:16Z"
   },
@@ -11996,7 +11996,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 9,
     "createdAt": "2019-03-17T10:45:04Z"
   },
   {
@@ -12055,7 +12055,7 @@
     "company": "EMIT Knowledge",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 13600,
+    "privateContributions": 21248,
     "publicContributions": 27,
     "createdAt": "2019-05-31T14:53:16Z"
   },
@@ -12103,8 +12103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 111,
-    "publicContributions": 0,
+    "privateContributions": 55,
+    "publicContributions": 17,
     "createdAt": "2019-04-14T19:19:28Z"
   },
   {
@@ -12163,21 +12163,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 37,
-    "publicContributions": 0,
+    "privateContributions": 64,
+    "publicContributions": 3,
     "createdAt": "2019-02-23T16:59:41Z"
-  },
-  {
-    "login": "KMaslar",
-    "name": "KGRM",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/57845451?s=72&u=85a4229e49a2ff56649c72f030b88a0972a4f7be&v=4",
-    "location": "Skopje",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-11-16T20:28:44Z"
   },
   {
     "login": "petarmajka",
@@ -12186,7 +12174,7 @@
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-15T14:38:49Z"

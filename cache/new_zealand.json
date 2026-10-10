@@ -11695,21 +11695,9 @@
     "company": "@development-nous ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 470,
+    "privateContributions": 492,
     "publicContributions": 11,
     "createdAt": "2023-10-26T05:06:48Z"
-  },
-  {
-    "login": "TobyMunyard",
-    "name": "FPA-TobyMunyard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153131738?s=72&u=153d3a6339238b5df05f67b7b7f305938a36f239&v=4",
-    "location": "Dunedin, New Zealand",
-    "company": "Fisher & Paykel",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2023-12-06T20:38:06Z"
   },
   {
     "login": "aaruship1",
@@ -11720,7 +11708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 2,
     "createdAt": "2023-02-25T21:29:51Z"
   },
   {
@@ -11755,8 +11743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
+    "privateContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2023-07-29T22:17:55Z"
   },
   {
@@ -11804,7 +11792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 48,
     "createdAt": "2023-05-14T13:21:04Z"
   },
   {
@@ -11816,7 +11804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2023-05-02T22:31:41Z"
   },
   {
@@ -11840,7 +11828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 13,
     "createdAt": "2023-04-26T07:53:23Z"
   },
   {
@@ -11858,13 +11846,13 @@
   {
     "login": "CyliaNiu",
     "name": "Cylia Niu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/131328903?s=72&u=ed7f46cdc41687c51d86e797304c62a714b3e287&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/131328903?s=72&u=9cc983fbb9731664f97d1ebec501c5a63843b456&v=4",
     "location": "New Zealand",
     "company": "The University of Auckland",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2023-04-20T03:36:35Z"
   },
   {
@@ -11876,7 +11864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 367,
+    "publicContributions": 217,
     "createdAt": "2023-08-07T04:08:08Z"
   },
   {
@@ -11886,9 +11874,9 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 120,
-    "privateContributions": 3685,
-    "publicContributions": 148,
+    "followers": 127,
+    "privateContributions": 5095,
+    "publicContributions": 69,
     "createdAt": "2023-03-28T20:59:54Z"
   },
   {
@@ -11898,7 +11886,7 @@
     "location": "Wellington, NZ",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-04T21:30:24Z"
@@ -11910,7 +11898,7 @@
     "location": "Wellington",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-02-15T07:19:19Z"

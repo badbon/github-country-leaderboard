@@ -310786,5 +310786,53 @@
     "privateContributions": 647,
     "publicContributions": 117,
     "createdAt": "2023-01-07T14:54:00Z"
+  },
+  {
+    "login": "phuctrung-nguyen",
+    "name": "phuctrunggg",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295407680?s=72&u=2a05adb503ddbd6f7495598ddab9638a2e4840f9&v=4",
+    "location": "Hanoi",
+    "company": "Hanoi University of Science and Technology",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2026-06-20T16:20:12Z"
+  },
+  {
+    "login": "huylevt",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289648214?s=72&v=4",
+    "location": "Hanoi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 257,
+    "createdAt": "2026-06-01T10:16:02Z"
+  },
+  {
+    "login": "sonpm-bsc",
+    "name": "SonPM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292629021?s=72&v=4",
+    "location": "Hanoi",
+    "company": "BSC",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-11T01:37:05Z"
+  },
+  {
+    "login": "y72zydmn4d-dev",
+    "name": "Trịnh Gia Huy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294559080?s=72&u=393898e16464355c10a6ebf5a3265394bd9ff5a3&v=4",
+    "location": "HaNoi ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2026-06-17T15:38:10Z"
   }
 ]

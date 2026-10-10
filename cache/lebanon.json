@@ -11862,9 +11862,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2022-01-15T17:43:27Z"
   },
   {
@@ -11876,7 +11876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 15,
     "createdAt": "2022-09-29T09:42:31Z"
   },
   {
@@ -11935,7 +11935,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1489,
+    "privateContributions": 1900,
     "publicContributions": 263,
     "createdAt": "2022-02-18T20:23:48Z"
   },
@@ -11948,7 +11948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 12,
     "createdAt": "2022-10-31T19:26:11Z"
   },
   {
@@ -11971,8 +11971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 25,
+    "privateContributions": 45,
+    "publicContributions": 7,
     "createdAt": "2022-08-30T10:40:59Z"
   },
   {
@@ -11984,7 +11984,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 27,
     "createdAt": "2022-09-04T10:19:34Z"
   },
   {
@@ -12006,9 +12006,9 @@
     "location": "Beirut, Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2022-08-23T12:20:04Z"
   },
   {
@@ -12044,7 +12044,7 @@
     "twitterUsername": "MarcSalameh2001",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 8,
     "createdAt": "2022-02-12T11:49:41Z"
   },
   {
@@ -12054,7 +12054,7 @@
     "location": "Beirut, Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-13T19:37:30Z"
@@ -30898,5 +30898,17 @@
     "privateContributions": 2283,
     "publicContributions": 127,
     "createdAt": "2025-07-08T11:59:01Z"
+  },
+  {
+    "login": "jadghadry",
+    "name": "Jade Ghadry",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30595005?s=72&u=1fb3468ab5e567d22a740665c121cbf0794cec93&v=4",
+    "location": "Lebanon",
+    "company": "Augment",
+    "twitterUsername": "",
+    "followers": 13,
+    "privateContributions": 1503,
+    "publicContributions": 39,
+    "createdAt": "2017-07-31T11:49:28Z"
   }
 ]
