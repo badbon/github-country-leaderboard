@@ -10340,7 +10340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-09-23T03:27:24Z"
   },
   {
@@ -10386,7 +10386,7 @@
     "location": "Saudi Arabia",
     "company": "TRX Solutions",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-11-06T05:30:56Z"
@@ -10398,7 +10398,7 @@
     "location": "Jeddah, Saudi Arabia",
     "company": "Darevu",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-19T15:16:14Z"
@@ -10410,22 +10410,10 @@
     "location": "Saudi Arabia",
     "company": "Arabian Admas Ltc Co",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 861,
+    "followers": 2,
+    "privateContributions": 650,
     "publicContributions": 53,
     "createdAt": "2024-05-02T22:48:42Z"
-  },
-  {
-    "login": "badProgrammer0",
-    "name": "Muhand",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176195164?s=72&v=4",
-    "location": "Saudi Arabia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2024-07-21T04:17:59Z"
   },
   {
     "login": "rizwan100mu",
@@ -10434,21 +10422,21 @@
     "location": "Saudi Arabia",
     "company": "Knoah Technology Factory",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 7,
-    "publicContributions": 76,
+    "publicContributions": 78,
     "createdAt": "2024-07-07T07:41:25Z"
   },
   {
     "login": "inoufalharbi",
     "name": "Nouf Alharbi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/172344116?s=72&u=e2dfdb72e24767b41a91b282266c422f59535a8f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/172344116?s=72&u=2627553c442d51a699b54509227d58c827e3fd53&v=4",
     "location": "Medinah, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 26,
     "createdAt": "2024-06-11T02:19:30Z"
   },
   {
@@ -10469,10 +10457,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/173680488?s=72&u=09663d35a43f99c23fca0eb469294eccb63e4c9e&v=4",
     "location": "Saudi Arabia",
     "company": "",
-    "twitterUsername": "ousama_altamimi",
+    "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 45,
+    "privateContributions": 101,
+    "publicContributions": 49,
     "createdAt": "2024-06-24T10:12:09Z"
   },
   {
@@ -10556,7 +10544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-07-29T20:11:10Z"
   },
   {
@@ -10568,7 +10556,7 @@
     "twitterUsername": "mo2annad",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 27,
     "createdAt": "2024-05-18T11:20:23Z"
   },
   {

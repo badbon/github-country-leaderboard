@@ -10244,7 +10244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 36,
     "createdAt": "2025-10-01T22:00:06Z"
   },
   {
@@ -10256,7 +10256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 25,
     "createdAt": "2025-06-22T01:07:22Z"
   },
   {
@@ -10268,7 +10268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 6,
     "createdAt": "2025-08-28T22:15:35Z"
   },
   {
@@ -10304,7 +10304,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 174,
     "createdAt": "2025-10-26T01:26:45Z"
   },
   {
@@ -10314,9 +10314,9 @@
     "location": "Queretaro MX",
     "company": "Next GenAi MX",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 364,
-    "publicContributions": 14,
+    "followers": 15,
+    "privateContributions": 102,
+    "publicContributions": 0,
     "createdAt": "2025-07-06T17:26:20Z"
   },
   {
@@ -10328,7 +10328,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 11,
     "createdAt": "2025-03-10T20:16:03Z"
   },
   {
@@ -10340,7 +10340,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 13,
     "createdAt": "2025-02-28T21:17:31Z"
   },
   {
@@ -10350,9 +10350,9 @@
     "location": "Queretaro",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2025-05-02T21:03:36Z"
   },
   {
@@ -10364,7 +10364,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2025-03-08T16:38:30Z"
   },
   {
@@ -10422,9 +10422,9 @@
     "location": "Ciudad Victoria, Tamaulipas, México",
     "company": "CNAD Noreste · Universidad Politécnica de Victoria",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 548,
-    "publicContributions": 83,
+    "followers": 61,
+    "privateContributions": 439,
+    "publicContributions": 49,
     "createdAt": "2022-06-24T20:30:19Z"
   },
   {
@@ -10435,7 +10435,7 @@
     "company": "Inovatix",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 104,
+    "privateContributions": 169,
     "publicContributions": 0,
     "createdAt": "2022-04-02T21:07:38Z"
   },
@@ -10447,8 +10447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 153,
-    "publicContributions": 10,
+    "privateContributions": 211,
+    "publicContributions": 11,
     "createdAt": "2022-05-04T22:11:51Z"
   },
   {
@@ -10462,18 +10462,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-14T21:09:13Z"
-  },
-  {
-    "login": "diegodev18",
-    "name": "Diego Sanchez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175571311?s=72&u=03a7a921bc31dde18df81c08857d5ec2b6a095eb&v=4",
-    "location": "Mexico",
-    "company": "",
-    "twitterUsername": "diegodev018",
-    "followers": 166,
-    "privateContributions": 5997,
-    "publicContributions": 1740,
-    "createdAt": "2024-07-15T00:44:18Z"
   },
   {
     "login": "EsmeMP",

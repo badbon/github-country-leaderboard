@@ -9499,7 +9499,7 @@
     "company": "",
     "twitterUsername": "GilbDavis",
     "followers": 1,
-    "privateContributions": 19,
+    "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2015-06-22T20:11:45Z"
   },
@@ -9510,7 +9510,7 @@
     "location": "Panama City, Panama",
     "company": "None",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-01-25T17:04:56Z"
@@ -9560,7 +9560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 21,
     "createdAt": "2015-03-24T20:20:36Z"
   },
   {
@@ -9571,7 +9571,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1969,
+    "privateContributions": 1966,
     "publicContributions": 1,
     "createdAt": "2015-04-29T02:09:58Z"
   },
@@ -9582,9 +9582,9 @@
     "location": "Panama, Panama City",
     "company": "",
     "twitterUsername": "",
-    "followers": 58,
-    "privateContributions": 2439,
-    "publicContributions": 91,
+    "followers": 61,
+    "privateContributions": 5063,
+    "publicContributions": 74,
     "createdAt": "2014-11-12T17:09:38Z"
   },
   {
@@ -9594,8 +9594,8 @@
     "location": "Panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 276,
+    "followers": 31,
+    "privateContributions": 607,
     "publicContributions": 0,
     "createdAt": "2014-12-24T23:11:52Z"
   },
@@ -9606,9 +9606,9 @@
     "location": "Panama City, Panama",
     "company": "Semiotic AI",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 239,
-    "publicContributions": 1135,
+    "followers": 28,
+    "privateContributions": 298,
+    "publicContributions": 1158,
     "createdAt": "2014-05-08T14:36:07Z"
   },
   {
@@ -9619,8 +9619,8 @@
     "company": "GND Labs",
     "twitterUsername": "christhoval",
     "followers": 25,
-    "privateContributions": 1306,
-    "publicContributions": 127,
+    "privateContributions": 1369,
+    "publicContributions": 138,
     "createdAt": "2014-04-02T00:38:29Z"
   },
   {
@@ -9628,11 +9628,11 @@
     "name": "Matthew Riddell",
     "avatarUrl": "https://avatars.githubusercontent.com/u/9354635?s=72&u=8c3a923d63a0384f5087d9bffba226a71269deab&v=4",
     "location": "Panama",
-    "company": "NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software",
+    "company": "Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software",
     "twitterUsername": "MattRiddell",
     "followers": 17,
-    "privateContributions": 18668,
-    "publicContributions": 0,
+    "privateContributions": 43848,
+    "publicContributions": 10,
     "createdAt": "2014-10-22T16:35:11Z"
   },
   {
@@ -9652,11 +9652,11 @@
     "name": "Jonathan Ortega",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6932538?s=72&u=b5db77972d36c213d1bd4d2ca49714f6c2239279&v=4",
     "location": "Panama",
-    "company": "Zinli",
+    "company": "",
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 71,
     "createdAt": "2014-03-12T17:30:00Z"
   },
   {
@@ -9666,9 +9666,9 @@
     "location": "Panama",
     "company": "rizoma",
     "twitterUsername": "gonzalezulises",
-    "followers": 15,
-    "privateContributions": 5681,
-    "publicContributions": 1711,
+    "followers": 17,
+    "privateContributions": 7780,
+    "publicContributions": 1844,
     "createdAt": "2014-04-09T01:56:41Z"
   },
   {
@@ -9678,7 +9678,7 @@
     "location": "PANAMA",
     "company": "StartFleet-Solutions",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-15T20:41:57Z"
@@ -9686,12 +9686,12 @@
   {
     "login": "Ricardo-Marques",
     "name": "Ricardo \"Meida\" Marques",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/9907599?s=72&u=fe9acb95c915931c34bad9e113ba5df43083f0a4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/9907599?s=72&u=446d04bca6f560b7fcd177c29c2734351f4913cb&v=4",
     "location": "Panama City Beach, Florida",
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 962,
+    "privateContributions": 1032,
     "publicContributions": 210,
     "createdAt": "2014-11-23T00:37:47Z"
   },
@@ -9704,7 +9704,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 1,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2014-12-16T16:42:28Z"
   },
   {
@@ -9726,9 +9726,9 @@
     "location": "8635 ,Jerold Knoll ,West Albertmouth ,Michigan ,Panama",
     "company": "Bahringer-Gulgowski",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 81,
     "createdAt": "2014-09-13T15:30:06Z"
   },
   {

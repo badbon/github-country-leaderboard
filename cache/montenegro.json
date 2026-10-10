@@ -10314,9 +10314,9 @@
     "location": "Bar, Montenegro",
     "company": "@nostria-app @block-core @Liberstad",
     "twitterUsername": "sondreb",
-    "followers": 140,
-    "privateContributions": 70,
-    "publicContributions": 7160,
+    "followers": 144,
+    "privateContributions": 221,
+    "publicContributions": 7068,
     "createdAt": "2010-06-20T11:35:21Z"
   },
   {
@@ -10326,22 +10326,10 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 86,
+    "followers": 88,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 80,
     "createdAt": "2010-12-08T00:13:54Z"
-  },
-  {
-    "login": "Amper",
-    "name": "Alexander Marshalov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/495795?s=72&u=e047130b2554d035be570e945424adc3072ab9db&v=4",
-    "location": "Montenegro",
-    "company": "@VictoriaMetrics",
-    "twitterUsername": "Amper",
-    "followers": 54,
-    "privateContributions": 1463,
-    "publicContributions": 919,
-    "createdAt": "2010-11-25T01:29:20Z"
   },
   {
     "login": "olegkoval",
@@ -10350,9 +10338,9 @@
     "location": "Bar, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 1,
-    "publicContributions": 7,
+    "followers": 48,
+    "privateContributions": 37,
+    "publicContributions": 61,
     "createdAt": "2010-04-27T13:54:40Z"
   },
   {
@@ -10374,9 +10362,9 @@
     "location": "Budva, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 196,
-    "publicContributions": 207,
+    "followers": 31,
+    "privateContributions": 235,
+    "publicContributions": 253,
     "createdAt": "2010-06-05T22:02:48Z"
   },
   {
@@ -10386,9 +10374,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 40,
-    "publicContributions": 26,
+    "followers": 25,
+    "privateContributions": 825,
+    "publicContributions": 61,
     "createdAt": "2010-12-29T19:51:52Z"
   },
   {
@@ -10399,8 +10387,8 @@
     "company": "M&P",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 1215,
-    "publicContributions": 60,
+    "privateContributions": 1175,
+    "publicContributions": 57,
     "createdAt": "2010-12-23T12:30:35Z"
   },
   {
@@ -10412,7 +10400,7 @@
     "twitterUsername": "prtngn",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 23,
     "createdAt": "2010-02-05T12:27:54Z"
   },
   {
@@ -10436,7 +10424,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2010-02-21T16:40:48Z"
   },
   {
@@ -10460,7 +10448,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2010-10-22T10:10:57Z"
   },
   {
@@ -10471,7 +10459,7 @@
     "company": "@pryvus ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2163,
+    "privateContributions": 2160,
     "publicContributions": 54,
     "createdAt": "2010-07-09T07:36:58Z"
   },
