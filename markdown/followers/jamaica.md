@@ -1,8 +1,8 @@
 # Followers - Jamaica
 
-Generated: 2026-10-10T11:18:10.339Z
+Generated: 2026-10-10T13:47:47.839Z
 
-Users: 1277
+Users: 1275
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-10T09:56:01.460Z
+Generated: 2026-10-10T13:00:42.956Z
 
 Users: 729
 
@@ -25,4 +25,4 @@ Users: 729
 | 17 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Taawuniya Insurance Company | osman_abd | Sudan / Khartoum | 2529 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 2234 |
 | 19 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Tamkeen Technology | cre_al | Sudan | 2020 |
-| 20 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 1843 |
+| 20 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 1861 |

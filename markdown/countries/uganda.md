@@ -13,13 +13,13 @@ Indexed users: 3,879
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
-| 2 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 11,790 |
-| 3 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 11,691 |
-| 4 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,033 |
-| 5 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 11,006 |
-| 6 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
-| 7 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
-| 8 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
+| 2 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 11,691 |
+| 3 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,033 |
+| 4 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 11,006 |
+| 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
+| 6 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
+| 7 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
+| 8 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
 | 9 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
 | 10 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
 | 11 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
@@ -62,8 +62,8 @@ Indexed users: 3,879
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Arison99](https://github.com/Arison99) | Byonanebye Arison | Kampala | 1,778 |
-| 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | uthuman 7H6P+H8, Kampala | 1,099 |
+| 1 | [Arison99](https://github.com/Arison99) | Byonanebye Arison | Kampala | 1,763 |
+| 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | uthuman 7H6P+H8, Kampala | 1,091 |
 | 3 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 928 |
 | 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Kampala | 760 |
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | Kampala, Uganda | 586 |
@@ -83,4 +83,4 @@ Indexed users: 3,879
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-10T10:05:16.366Z
+Generated: 2026-10-10T13:06:22.741Z

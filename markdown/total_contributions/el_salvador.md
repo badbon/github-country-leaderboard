@@ -1,15 +1,15 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-10T10:33:16.454Z
+Generated: 2026-10-10T13:33:13.759Z
 
 Users: 2381
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 10365 |
-| 2 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | @BitSpace-software | marom_beltran | La Libertad, El Salvador | 9290 |
-| 3 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 7926 |
-| 4 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Senior Software Engineer @praxent  |  | San Salvador, El Salvador | 7576 |
+| 1 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Staff Engineer @praxent |  | San Salvador, El Salvador | 10782 |
+| 2 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 10365 |
+| 3 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | @BitSpace-software | marom_beltran | La Libertad, El Salvador | 9290 |
+| 4 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 7926 |
 | 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 6938 |
 | 6 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 6304 |
 | 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | Abaco Capital | sthbryan_ | El Salvador | 6223 |

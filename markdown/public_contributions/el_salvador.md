@@ -1,18 +1,18 @@
 # Public Contributions - El Salvador
 
-Generated: 2026-10-10T10:33:16.454Z
+Generated: 2026-10-10T13:33:13.759Z
 
 Users: 2381
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Senior Software Engineer @praxent  |  | San Salvador, El Salvador | 6014 |
+| 1 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Staff Engineer @praxent |  | San Salvador, El Salvador | 8335 |
 | 2 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4589 |
 | 3 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4065 |
 | 4 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | Abaco Capital | sthbryan_ | El Salvador | 2658 |
 | 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 1986 |
-| 6 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 1626 |
-| 7 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | @fundacion-poma @glimmer-labs |  | El Salvador | 1509 |
+| 6 | [Haruki1707](https://github.com/Haruki1707) | Diego Gómez | @fundacion-poma @glimmer-labs |  | El Salvador | 1701 |
+| 7 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 1626 |
 | 8 | [Forte11Cuba](https://github.com/Forte11Cuba) | Forte11 |  | Forte11Cuba | El Salvador | 1404 |
 | 9 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 1206 |
 | 10 | [replaceafill](https://github.com/replaceafill) | Douglas Cerna | @artefactual  |  | San Salvador, El Salvador | 1037 |
@@ -25,4 +25,4 @@ Users: 2381
 | 17 | [DiazzzDev](https://github.com/DiazzzDev) | Edwin Díaz |  |  | El Salvador | 896 |
 | 18 | [jcanizalez](https://github.com/jcanizalez) | Javier Canizalez |  |  | El Salvador | 888 |
 | 19 | [castillorobin](https://github.com/castillorobin) | Robin Castillo | Universidad Católica de El Salvador | castillorobin | Santa Ana, El Salvador | 885 |
-| 20 | [kevocodes](https://github.com/kevocodes) | Kevin Escobar | @UCASV  |  | El Salvador | 873 |
+| 20 | [beihaili](https://github.com/beihaili) | bhbtc1337 |  | bhbtc1337 | El Salvador | 835 |

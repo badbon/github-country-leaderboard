@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,277
+Indexed users: 1,275
 
 | Leaderboard | Link |
 |---|---|
@@ -23,15 +23,15 @@ Indexed users: 1,277
 | 9 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
 | 10 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
 | 11 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
-| 12 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
-| 13 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 3,794 |
-| 14 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
-| 15 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
-| 16 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
-| 17 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
-| 18 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
-| 19 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
-| 20 | [titan-65](https://github.com/titan-65) | Vantol Bennett | Jamaica | 3,280 |
+| 12 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 3,896 |
+| 13 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
+| 14 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 3,794 |
+| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
+| 16 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
+| 17 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
+| 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
+| 19 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
+| 20 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 3,401 |
 
 ## Public Contributions
 
@@ -50,13 +50,13 @@ Indexed users: 1,277
 | 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 976 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 973 |
 | 13 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 942 |
-| 14 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | Kingston, RI | 826 |
-| 15 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
-| 16 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 751 |
-| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
-| 18 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
-| 19 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 638 |
-| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
+| 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
+| 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 751 |
+| 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 748 |
+| 17 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
+| 18 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 638 |
+| 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
+| 20 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 613 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,277
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-10T11:18:10.339Z
+Generated: 2026-10-10T13:47:47.839Z

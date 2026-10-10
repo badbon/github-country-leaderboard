@@ -1,13 +1,13 @@
 # Followers - Uganda
 
-Generated: 2026-10-10T10:05:16.366Z
+Generated: 2026-10-10T13:06:22.741Z
 
 Users: 3879
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Arison99](https://github.com/Arison99) | Byonanebye Arison | MedicMate | HarrisonDV | Kampala | 1778 |
-| 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | Uthuman & Co | uthumanco | uthuman 7H6P+H8, Kampala | 1099 |
+| 1 | [Arison99](https://github.com/Arison99) | Byonanebye Arison | WispHive |  | Kampala | 1763 |
+| 2 | [uthumany](https://github.com/uthumany) | Uthuman Moody | Uthuman & Co | uthumanco | uthuman 7H6P+H8, Kampala | 1091 |
 | 3 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 928 |
 | 4 | [CryceTruly](https://github.com/CryceTruly) | cryce truly | Reputable Tech Company | crycetruly | Kampala | 760 |
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | @mirrorworld-universe | codebender828 | Kampala, Uganda | 586 |

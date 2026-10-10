@@ -44,7 +44,7 @@ Indexed users: 5,821
 | 5 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
 | 6 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
 | 7 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 2,630 |
-| 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,370 |
+| 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,486 |
 | 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,118 |
 | 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
 | 11 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi | Algeria | 1,797 |
@@ -83,4 +83,4 @@ Indexed users: 5,821
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-10T10:10:50.831Z
+Generated: 2026-10-10T13:13:53.604Z

@@ -42,21 +42,21 @@ Indexed users: 1,343
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,416 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,672 |
 | 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,670 |
-| 6 | [bsam2019](https://github.com/bsam2019) | Samson Banda | Lusaka. Zambia | 1,179 |
-| 7 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
-| 8 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,054 |
-| 9 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,010 |
-| 10 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 998 |
-| 11 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 951 |
-| 12 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 724 |
-| 13 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 685 |
-| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
-| 15 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
-| 16 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
-| 17 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
-| 18 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
-| 19 | [chrimztech](https://github.com/chrimztech) | Chrishent | Lusaka | 553 |
-| 20 | [sangwani-coder](https://github.com/sangwani-coder) | Zyambo | Zambia | 542 |
+| 6 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
+| 7 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,054 |
+| 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,010 |
+| 9 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 998 |
+| 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 951 |
+| 11 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 724 |
+| 12 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 685 |
+| 13 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
+| 14 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
+| 16 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
+| 17 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
+| 18 | [chrimztech](https://github.com/chrimztech) | Chrishent | Lusaka | 553 |
+| 19 | [sangwani-coder](https://github.com/sangwani-coder) | Zyambo | Zambia | 542 |
+| 20 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 529 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,343
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-10T10:08:51.568Z
+Generated: 2026-10-10T13:10:20.399Z

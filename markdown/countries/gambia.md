@@ -14,7 +14,7 @@ Indexed users: 80
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,368 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,040 |
-| 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,589 |
+| 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,591 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,476 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,331 |
 | 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,304 |
@@ -37,7 +37,7 @@ Indexed users: 80
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 1,029 |
+| 1 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 1,031 |
 | 2 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 409 |
 | 3 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 406 |
 | 4 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 391 |
@@ -83,4 +83,4 @@ Indexed users: 80
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-10T10:40:17.227Z
+Generated: 2026-10-10T13:37:11.592Z

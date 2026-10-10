@@ -1,6 +1,6 @@
 # Public Contributions - Bahrain
 
-Generated: 2026-10-10T10:14:14.432Z
+Generated: 2026-10-10T13:17:34.816Z
 
 Users: 729
 
@@ -17,12 +17,12 @@ Users: 729
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Foulad | Fouladtm | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib |  |  | Bahrain | 888 |
 | 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | @bahrain-bp  |  | bahrain | 829 |
-| 12 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 778 |
-| 13 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 769 |
-| 14 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 733 |
-| 15 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 733 |
-| 16 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 678 |
-| 17 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai |  |  | Bahrain | 666 |
-| 18 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 664 |
+| 12 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 820 |
+| 13 | [FnrDev](https://github.com/FnrDev) | Ahmed |  | FnrDev | Bahrain | 778 |
+| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | American University of Bahrain |  | Bahrain | 769 |
+| 15 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi |  |  | Bahrain | 733 |
+| 16 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi |  |  | Bahrain | 733 |
+| 17 | [falansari](https://github.com/falansari) | Fatima Alansari |  |  | Bahrain | 678 |
+| 18 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai |  |  | Bahrain | 666 |
 | 19 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain Polytechnic |  | Bahrain | 657 |
 | 20 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain |  | _97ahm | Bahrain | 657 |

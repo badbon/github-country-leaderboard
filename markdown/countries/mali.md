@@ -1,6 +1,6 @@
 # Mali
 
-Indexed users: 347
+Indexed users: 348
 
 | Leaderboard | Link |
 |---|---|
@@ -48,15 +48,15 @@ Indexed users: 347
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 374 |
 | 10 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 329 |
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 309 |
-| 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
-| 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
-| 14 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
-| 15 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 191 |
-| 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 184 |
-| 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
-| 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
-| 19 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
-| 20 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse | Mali(Bamako) | 137 |
+| 12 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 303 |
+| 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
+| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
+| 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
+| 16 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 191 |
+| 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 184 |
+| 18 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
+| 19 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
+| 20 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-10T10:59:20.377Z
+Generated: 2026-10-10T12:56:47.799Z
