@@ -10999,8 +10999,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 83,
+    "privateContributions": 42,
+    "publicContributions": 42,
     "createdAt": "2023-11-06T04:30:23Z"
   },
   {
@@ -11010,22 +11010,10 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-14T21:53:02Z"
-  },
-  {
-    "login": "RanukaDinsitha",
-    "name": "Ranuka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140217957?s=72&u=88adcc6fe3b9cbdfeeb7edf87a5827dd004955e1&v=4",
-    "location": "Johnsonville, Wellington, New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 183,
-    "createdAt": "2023-07-22T00:21:36Z"
   },
   {
     "login": "Thomas5636",
@@ -11083,8 +11071,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 81,
-    "publicContributions": 7,
+    "privateContributions": 37,
+    "publicContributions": 5,
     "createdAt": "2023-03-30T00:50:27Z"
   },
   {
@@ -11131,20 +11119,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 267,
+    "privateContributions": 114,
     "publicContributions": 0,
     "createdAt": "2023-11-19T09:16:29Z"
   },
   {
     "login": "AdrianSup",
-    "name": "AdrianSup",
+    "name": "Adrian Suprapto",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132192444?s=72&u=6f276c6151c6459d6f462aa84ba5b331e9293462&v=4",
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 16,
     "createdAt": "2023-04-30T07:57:10Z"
   },
   {
@@ -11156,7 +11144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 54,
     "createdAt": "2023-04-19T21:04:20Z"
   },
   {
@@ -11191,7 +11179,7 @@
     "company": "@Hapara ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 541,
+    "privateContributions": 409,
     "publicContributions": 0,
     "createdAt": "2023-07-10T22:58:27Z"
   },
@@ -11214,22 +11202,10 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-30T23:13:08Z"
-  },
-  {
-    "login": "spiral-compute",
-    "name": "Spiral Compute",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132256025?s=72&v=4",
-    "location": "New Zealand",
-    "company": "Spiral Compute Limited",
-    "twitterUsername": "SpiralCompute",
-    "followers": 1,
-    "privateContributions": 81,
-    "publicContributions": 0,
-    "createdAt": "2023-05-01T07:55:04Z"
   },
   {
     "login": "MatijaMicheli",
@@ -145858,5 +145834,17 @@
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2026-06-10T04:16:01Z"
+  },
+  {
+    "login": "LocalFirstOfficial",
+    "name": "LocalFirst",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297599617?s=72&v=4",
+    "location": "Auckland, New Zealand",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T09:47:01Z"
   }
 ]

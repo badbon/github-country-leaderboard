@@ -11178,22 +11178,10 @@
     "location": "San Juan",
     "company": "@MicrosoftCopilot ",
     "twitterUsername": "Jpadro",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-27T22:54:41Z"
-  },
-  {
-    "login": "jcardenas16",
-    "name": "Jose Cardenas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25596394?s=72&v=4",
-    "location": "San Juan Capistrano",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-02-06T21:51:41Z"
   },
   {
     "login": "juandmelendez",
@@ -11216,7 +11204,7 @@
     "twitterUsername": "soylorodo",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 72,
     "createdAt": "2017-06-27T19:48:54Z"
   },
   {
@@ -11226,9 +11214,9 @@
     "location": "Puerto Rico",
     "company": "@RedVentures @ThinkTelic ",
     "twitterUsername": "",
-    "followers": 72,
-    "privateContributions": 1297,
-    "publicContributions": 5,
+    "followers": 73,
+    "privateContributions": 1096,
+    "publicContributions": 7,
     "createdAt": "2016-12-11T05:18:04Z"
   },
   {
@@ -11250,9 +11238,9 @@
     "location": "Puerto Rico",
     "company": "@borkinc @videoutpl @t4future",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 4715,
-    "publicContributions": 501,
+    "followers": 25,
+    "privateContributions": 5203,
+    "publicContributions": 578,
     "createdAt": "2016-09-28T00:37:31Z"
   },
   {
@@ -11275,8 +11263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 1,
-    "publicContributions": 2,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2016-05-09T01:30:14Z"
   },
   {
@@ -11286,9 +11274,9 @@
     "location": "Puerto Rico",
     "company": "HONRA",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 1693,
-    "publicContributions": 52,
+    "followers": 24,
+    "privateContributions": 2517,
+    "publicContributions": 72,
     "createdAt": "2016-10-03T00:32:11Z"
   },
   {
@@ -11310,9 +11298,9 @@
     "location": "Puerto Rico",
     "company": "UNIQORNS",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 30,
-    "publicContributions": 22,
+    "followers": 19,
+    "privateContributions": 787,
+    "publicContributions": 50,
     "createdAt": "2016-08-06T22:38:55Z"
   },
   {
@@ -11334,9 +11322,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 1928,
-    "publicContributions": 243,
+    "followers": 17,
+    "privateContributions": 2395,
+    "publicContributions": 261,
     "createdAt": "2016-03-23T10:58:37Z"
   },
   {
@@ -11346,8 +11334,8 @@
     "location": "Puerto Rico",
     "company": "UnoSec, Inc",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 854,
+    "followers": 18,
+    "privateContributions": 964,
     "publicContributions": 0,
     "createdAt": "2016-09-10T02:20:04Z"
   },
@@ -11359,7 +11347,7 @@
     "company": "@hyperion-fin, @trabian, @mesh-tech",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 2672,
+    "privateContributions": 3427,
     "publicContributions": 0,
     "createdAt": "2016-10-08T20:01:50Z"
   },
