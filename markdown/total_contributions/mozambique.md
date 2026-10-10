@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-10T02:36:27.892Z
+Generated: 2026-10-10T06:27:50.525Z
 
 Users: 1175
 
@@ -13,12 +13,12 @@ Users: 1175
 | 5 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 4992 |
 | 6 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4874 |
 | 7 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 4722 |
-| 8 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3910 |
-| 9 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 3687 |
-| 10 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3216 |
-| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 2827 |
-| 12 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2793 |
-| 13 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 2788 |
+| 8 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4320 |
+| 9 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3910 |
+| 10 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 3687 |
+| 11 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3216 |
+| 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 2827 |
+| 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2793 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2744 |
 | 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2682 |
 | 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2671 |

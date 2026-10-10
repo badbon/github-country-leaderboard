@@ -62,7 +62,7 @@ Indexed users: 892
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin | Montenegro | 791 |
+| 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin | Montenegro | 792 |
 | 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Montenegro | 556 |
 | 3 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 484 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin | Tivat, Montenegro | 363 |
@@ -83,4 +83,4 @@ Indexed users: 892
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-10T02:35:14.589Z
+Generated: 2026-10-10T06:26:25.455Z

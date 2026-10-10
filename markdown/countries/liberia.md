@@ -17,14 +17,14 @@ Indexed users: 209
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,366 |
 | 4 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,938 |
 | 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,095 |
-| 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,512 |
+| 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,514 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,448 |
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,380 |
 | 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,175 |
 | 10 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,132 |
-| 12 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 872 |
-| 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 871 |
+| 12 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 871 |
+| 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 869 |
 | 14 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 807 |
 | 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 778 |
 | 16 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 739 |
@@ -37,7 +37,7 @@ Indexed users: 209
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,512 |
+| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,514 |
 | 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 739 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 715 |
@@ -83,4 +83,4 @@ Indexed users: 209
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-10T02:28:14.632Z
+Generated: 2026-10-10T06:16:32.085Z

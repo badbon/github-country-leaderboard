@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-10T02:27:15.007Z
+Generated: 2026-10-10T06:14:50.001Z
 
 Users: 3274
 
@@ -25,4 +25,4 @@ Users: 3274
 | 17 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Software Engineer & Digital Artist |  | Riga | 5871 |
 | 18 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | @ubiquiti  | renarsvilnis | Rīga, Latvia | 5814 |
 | 19 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 5804 |
-| 20 | [martinssipenko](https://github.com/martinssipenko) | Martins Sipenko | StackRadar |  | Riga, Latvia | 5483 |
+| 20 | [martinduncanson](https://github.com/martinduncanson) | Martin Duncanson |  | MartinDuncanson | London / Riga | 5678 |

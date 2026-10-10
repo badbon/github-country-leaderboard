@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-10T02:37:58.154Z
+Generated: 2026-10-10T06:27:57.003Z
 
 Users: 476
 
@@ -20,8 +20,8 @@ Users: 476
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | iNstar inc |  | Windhoek, Namibia | 355 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 289 |
 | 14 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 271 |
-| 15 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
-| 16 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 254 |
+| 15 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 265 |
+| 16 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
 | 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
 | 18 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
 | 19 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 243 |

@@ -25,13 +25,13 @@ Indexed users: 996
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 8,204 |
 | 12 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
 | 13 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
-| 14 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
-| 15 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
-| 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
-| 17 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
-| 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
-| 19 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,219 |
-| 20 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
+| 14 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,556 |
+| 15 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
+| 16 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
+| 17 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
+| 18 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
+| 19 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
+| 20 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,219 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 996
 | 19 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-10T02:40:49.759Z
+Generated: 2026-10-10T06:32:38.207Z

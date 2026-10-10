@@ -46,7 +46,7 @@ Published countries: 234
 | Cayman Islands | 124 | [View](./cayman_islands.md) |
 | Central African Republic | 11 | [View](./central_african_republic.md) |
 | Chad | 200 | [View](./chad.md) |
-| Chile | 19,393 | [View](./chile.md) |
+| Chile | 19,394 | [View](./chile.md) |
 | Christmas Island | 20 | [View](./christmas_island.md) |
 | Cocos (Keeling) Islands | 9 | [View](./cocos_keeling_islands.md) |
 | Colombia | 29,180 | [View](./colombia.md) |
@@ -110,7 +110,7 @@ Published countries: 234
 | Jersey | 140 | [View](./jersey.md) |
 | Jordan | 4,027 | [View](./jordan.md) |
 | Kazakhstan | 5,669 | [View](./kazakhstan.md) |
-| Kenya | 24,038 | [View](./kenya.md) |
+| Kenya | 24,036 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 797 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,453 | [View](./kyrgyzstan.md) |
@@ -124,9 +124,9 @@ Published countries: 234
 | Lithuania | 5,396 | [View](./lithuania.md) |
 | Luxembourg | 2,201 | [View](./luxembourg.md) |
 | Macau | 441 | [View](./macau.md) |
-| Madagascar | 1,910 | [View](./madagascar.md) |
+| Madagascar | 1,909 | [View](./madagascar.md) |
 | Malawi | 901 | [View](./malawi.md) |
-| Malaysia | 11,824 | [View](./malaysia.md) |
+| Malaysia | 11,823 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 347 | [View](./mali.md) |
 | Malta | 1,226 | [View](./malta.md) |
@@ -142,14 +142,14 @@ Published countries: 234
 | Mongolia | 805 | [View](./mongolia.md) |
 | Montenegro | 892 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,670 | [View](./morocco.md) |
+| Morocco | 9,668 | [View](./morocco.md) |
 | Mozambique | 1,175 | [View](./mozambique.md) |
 | Myanmar | 2,079 | [View](./myanmar.md) |
 | Namibia | 476 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,139 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,156 | [View](./new_zealand.md) |
+| New Zealand | 12,155 | [View](./new_zealand.md) |
 | Nicaragua | 1,400 | [View](./nicaragua.md) |
 | Niger | 176 | [View](./niger.md) |
 | Nigeria | 33,222 | [View](./nigeria.md) |
@@ -224,7 +224,7 @@ Published countries: 234
 | Tuvalu | 11 | [View](./tuvalu.md) |
 | Uganda | 3,880 | [View](./uganda.md) |
 | Ukraine | 47,768 | [View](./ukraine.md) |
-| United Arab Emirates | 4,252 | [View](./united_arab_emirates.md) |
+| United Arab Emirates | 4,253 | [View](./united_arab_emirates.md) |
 | United States Minor Outlying Islands | 0 | [View](./united_states_minor_outlying_islands.md) |
 | United States Virgin Islands | 4 | [View](./united_states_virgin_islands.md) |
 | Uruguay | 5,626 | [View](./uruguay.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,343 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-10T03:46:39.884Z
+Generated: 2026-10-10T06:33:52.702Z

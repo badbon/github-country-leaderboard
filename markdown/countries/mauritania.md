@@ -18,7 +18,7 @@ Indexed users: 289
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,364 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,356 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,094 |
-| 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,211 |
+| 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,270 |
 | 8 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 2,764 |
 | 9 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 2,689 |
 | 10 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,341 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-10T02:33:35.418Z
+Generated: 2026-10-10T06:23:49.957Z

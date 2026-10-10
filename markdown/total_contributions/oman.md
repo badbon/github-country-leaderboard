@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-10T02:40:49.759Z
+Generated: 2026-10-10T06:32:38.207Z
 
 Users: 996
 
@@ -19,10 +19,10 @@ Users: 996
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 8204 |
 | 12 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6484 |
 | 13 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 5986 |
-| 14 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 4541 |
-| 15 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
-| 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
-| 17 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4239 |
-| 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
-| 19 | [amk9889](https://github.com/amk9889) | Alfarouq |  |  | Oman | 4219 |
-| 20 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4191 |
+| 14 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4556 |
+| 15 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 4541 |
+| 16 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
+| 17 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 4417 |
+| 18 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4239 |
+| 19 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
+| 20 | [amk9889](https://github.com/amk9889) | Alfarouq |  |  | Oman | 4219 |

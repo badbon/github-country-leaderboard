@@ -38,7 +38,7 @@ Indexed users: 797
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 5,927 |
-| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 2,755 |
+| 2 | [quadrillion-q8](https://github.com/quadrillion-q8) | Kuwait Computer Repair on Call | Hawalli, Kuwait | 2,964 |
 | 3 | [arabcoders](https://github.com/arabcoders) | Abdulmohsen | Kuwait | 2,379 |
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,244 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,740 |
@@ -56,7 +56,7 @@ Indexed users: 797
 | 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 518 |
 | 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 490 |
 | 19 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 447 |
-| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 438 |
+| 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 441 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 797
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
 
-Generated: 2026-10-10T02:26:29.360Z
+Generated: 2026-10-10T06:13:41.462Z

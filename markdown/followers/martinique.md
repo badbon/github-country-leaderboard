@@ -1,15 +1,15 @@
 # Followers - Martinique
 
-Generated: 2026-10-10T02:33:12.480Z
+Generated: 2026-10-10T06:23:46.831Z
 
 Users: 75
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 89 |
+| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 88 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 35 |
 | 3 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide |  |  | martinique | 17 |
-| 4 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | BCSIRT | bcsirt | Fort-de-France | 15 |
+| 4 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | BCSIRT | bcsirt | Fort-de-France | 16 |
 | 5 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 15 |
 | 6 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps |  |  | Martinique | 15 |
 | 7 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 14 |

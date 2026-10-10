@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-10T02:40:59.771Z
+Generated: 2026-10-10T06:32:44.209Z
 
 Users: 2209
 
@@ -19,8 +19,8 @@ Users: 2209
 | 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 944 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 922 |
 | 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
-| 14 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 818 |
-| 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
+| 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |
+| 15 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | wasla Compony |  | Palestine/ Gaza | 802 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa |  |  | Palestine | 759 |
 | 17 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Co.Te.De. | KQnabi | Palestine | 718 |
 | 18 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Birzeit University |  | Palestine | 717 |

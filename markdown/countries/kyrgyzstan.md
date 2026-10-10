@@ -30,8 +30,8 @@ Indexed users: 2,453
 | 16 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
 | 17 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
 | 18 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
-| 19 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
-| 20 | [P5ina](https://github.com/P5ina) | Timur Turatbekov | Kyrgyzstan, Bishkek | 3,873 |
+| 19 | [Donkasta](https://github.com/Donkasta) | Aidin | Bishkek | 4,070 |
+| 20 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,453
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 
-Generated: 2026-10-10T02:26:33.912Z
+Generated: 2026-10-10T06:14:44.111Z

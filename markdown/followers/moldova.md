@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-10T02:34:47.889Z
+Generated: 2026-10-10T06:26:16.365Z
 
 Users: 1757
 
@@ -11,7 +11,7 @@ Users: 1757
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 516 |
 | 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai |  |  | Republic of Moldova | 356 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | itcare.net |  | Chisinau, Moldova | 349 |
-| 6 | [mgutu](https://github.com/mgutu) | Maria Gutu | IPLT "Spiru Haret" |  | Republica Moldova | 292 |
+| 6 | [mgutu](https://github.com/mgutu) | Maria Gutu | IPLT "Spiru Haret" |  | Republica Moldova | 289 |
 | 7 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | @Planable | nicubarbaros | Moldova | 281 |
 | 8 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | BIT Soft |  | Moldova | 257 |
 | 9 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 205 |

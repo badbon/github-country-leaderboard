@@ -1,12 +1,12 @@
 # Followers - Montenegro
 
-Generated: 2026-10-10T02:35:14.589Z
+Generated: 2026-10-10T06:26:25.455Z
 
 Users: 892
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin |  | therustmonk | Montenegro | 791 |
+| 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin |  | therustmonk | Montenegro | 792 |
 | 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Coding Robots | dchest | Montenegro | 556 |
 | 3 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 484 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin |  |  | Tivat, Montenegro | 363 |

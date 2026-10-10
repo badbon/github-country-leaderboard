@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-10T02:29:55.685Z
+Generated: 2026-10-10T06:18:20.621Z
 
 Users: 2201
 
@@ -17,12 +17,12 @@ Users: 2201
 | 9 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
 | 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 8075 |
 | 11 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 7571 |
-| 12 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |
-| 13 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 6723 |
-| 14 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6477 |
-| 15 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6197 |
-| 16 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura |  |  | Luxembourg | 6081 |
-| 17 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 5976 |
+| 12 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 7072 |
+| 13 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |
+| 14 | [SignedAdam](https://github.com/SignedAdam) | adam | Narkis.ai | signed_adam | Luxembourg | 6723 |
+| 15 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 6477 |
+| 16 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6197 |
+| 17 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura |  |  | Luxembourg | 6081 |
 | 18 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | @AlterDomus |  | Luxembourg | 5348 |
 | 19 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 4946 |
 | 20 | [lukasjhan](https://github.com/lukasjhan) | Lukas.J.Han | Hopae S.A. |  | Luxembourg / Luxembourg | 4765 |

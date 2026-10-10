@@ -19,12 +19,12 @@ Indexed users: 1,175
 | 5 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 4,992 |
 | 6 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,874 |
 | 7 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 4,722 |
-| 8 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,910 |
-| 9 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 3,687 |
-| 10 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,216 |
-| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 2,827 |
-| 12 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,793 |
-| 13 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 2,788 |
+| 8 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,320 |
+| 9 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,910 |
+| 10 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 3,687 |
+| 11 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,216 |
+| 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 2,827 |
+| 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,793 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,744 |
 | 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
 | 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,671 |
@@ -83,4 +83,4 @@ Indexed users: 1,175
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-10T02:36:27.892Z
+Generated: 2026-10-10T06:27:50.525Z

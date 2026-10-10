@@ -1,6 +1,6 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-10T02:33:12.480Z
+Generated: 2026-10-10T06:23:46.831Z
 
 Users: 75
 
@@ -8,14 +8,14 @@ Users: 75
 |---:|---|---|---|---|---|---:|
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5316 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5210 |
-| 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 4893 |
+| 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 4900 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4293 |
-| 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3277 |
+| 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3278 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1575 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 1105 |
 | 8 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 942 |
 | 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel |  | R3tr8 | Martinique | 907 |
-| 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 831 |
+| 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 821 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit |  |  | Martinique | 745 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 470 |
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 381 |

@@ -21,9 +21,9 @@ Indexed users: 347
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,410 |
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,712 |
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,621 |
-| 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,339 |
-| 11 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,142 |
-| 12 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,090 |
+| 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,345 |
+| 11 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,226 |
+| 12 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,142 |
 | 13 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,006 |
 | 14 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,956 |
 | 15 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,948 |
@@ -51,7 +51,7 @@ Indexed users: 347
 | 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 238 |
 | 14 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
-| 15 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 196 |
+| 15 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 191 |
 | 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 184 |
 | 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
 | 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
@@ -62,7 +62,7 @@ Indexed users: 347
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 196 |
+| 1 | [ibrahimkelly](https://github.com/ibrahimkelly) | I-K(***)Y | Mali | 194 |
 | 2 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 131 |
 | 3 | [mkantem](https://github.com/mkantem) | Kante Mahamadou | Mali | 120 |
 | 4 | [IvinoDev](https://github.com/IvinoDev) | Mariam Kayantao | Mali, Bamako | 69 |
@@ -83,4 +83,4 @@ Indexed users: 347
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-10T02:31:14.789Z
+Generated: 2026-10-10T06:22:33.202Z

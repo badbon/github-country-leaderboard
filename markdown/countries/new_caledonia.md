@@ -13,14 +13,14 @@ Indexed users: 111
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 13,022 |
-| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,567 |
+| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,526 |
 | 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,465 |
 | 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,079 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,367 |
 | 6 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,471 |
 | 7 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,438 |
 | 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet | New- Caledonia | 1,402 |
-| 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,310 |
+| 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,290 |
 | 10 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,214 |
 | 11 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,198 |
 | 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 863 |
@@ -39,7 +39,7 @@ Indexed users: 111
 |---:|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 3,538 |
 | 2 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 3,111 |
-| 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 3,098 |
+| 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 2,957 |
 | 4 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,471 |
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 711 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 471 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-10T02:38:05.261Z
+Generated: 2026-10-10T06:29:25.057Z

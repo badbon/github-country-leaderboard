@@ -14,14 +14,14 @@ Indexed users: 75
 |---:|---|---|---|---:|
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | Schoelcher, Martinique | 5,316 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | Fort-de-France, Martinique | 5,210 |
-| 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 4,893 |
+| 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 4,900 |
 | 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard | Chicago / Fort-de-France | 4,293 |
-| 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,277 |
+| 5 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 3,278 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,575 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
 | 8 | [esrid](https://github.com/esrid) | ADS | Martinique | 942 |
 | 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 907 |
-| 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 831 |
+| 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 821 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 745 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 470 |
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 381 |
@@ -62,10 +62,10 @@ Indexed users: 75
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 89 |
+| 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 88 |
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 35 |
 | 3 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide | martinique | 17 |
-| 4 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | Fort-de-France | 15 |
+| 4 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | Fort-de-France | 16 |
 | 5 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 15 |
 | 6 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps | Martinique | 15 |
 | 7 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 14 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-10T02:33:12.480Z
+Generated: 2026-10-10T06:23:46.831Z

@@ -50,8 +50,8 @@ Indexed users: 2,209
 | 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | Palestine, Gaza | 944 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 922 |
 | 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
-| 14 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 818 |
-| 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
+| 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
+| 15 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 802 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 759 |
 | 17 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Palestine | 718 |
 | 18 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Palestine | 717 |
@@ -83,4 +83,4 @@ Indexed users: 2,209
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-10T02:40:59.771Z
+Generated: 2026-10-10T06:32:44.209Z

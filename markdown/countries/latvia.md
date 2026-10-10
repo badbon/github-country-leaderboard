@@ -31,7 +31,7 @@ Indexed users: 3,274
 | 17 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
 | 18 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | Rīga, Latvia | 5,814 |
 | 19 | [aivars](https://github.com/aivars) | Aivars | Latvia | 5,804 |
-| 20 | [martinssipenko](https://github.com/martinssipenko) | Martins Sipenko | Riga, Latvia | 5,483 |
+| 20 | [martinduncanson](https://github.com/martinduncanson) | Martin Duncanson | London / Riga | 5,678 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,274
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-10T02:27:15.007Z
+Generated: 2026-10-10T06:14:50.001Z
