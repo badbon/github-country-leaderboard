@@ -9452,7 +9452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 30,
     "createdAt": "2018-03-28T23:15:12Z"
   },
   {
@@ -9474,7 +9474,7 @@
     "location": "Victoria,BC",
     "company": "BC Gov",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2018-01-20T05:31:20Z"
@@ -9506,13 +9506,13 @@
   {
     "login": "desmondsmall",
     "name": "Des",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/40607888?s=72&u=a4c21f2b50c4aa8d335306e6d81dc2c816212e4c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/40607888?s=72&u=3a054958538e9c8488d024e49a91c1ec47c0d641&v=4",
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 258,
-    "publicContributions": 182,
+    "privateContributions": 419,
+    "publicContributions": 227,
     "createdAt": "2018-06-26T16:44:13Z"
   },
   {
@@ -9522,7 +9522,7 @@
     "location": "Victoria,BC - Canada",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2018-12-13T12:00:15Z"
@@ -9571,7 +9571,7 @@
     "company": "Digital Central",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2234,
+    "privateContributions": 2266,
     "publicContributions": 9,
     "createdAt": "2017-12-03T10:40:15Z"
   },
@@ -9582,7 +9582,7 @@
     "location": "Seychelles",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-21T14:58:34Z"
@@ -9596,7 +9596,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2017-06-29T10:17:44Z"
   },
   {
@@ -9607,7 +9607,7 @@
     "company": "Web Developer and maker of things.",
     "twitterUsername": "",
     "followers": 55,
-    "privateContributions": 161,
+    "privateContributions": 120,
     "publicContributions": 0,
     "createdAt": "2017-05-13T22:05:54Z"
   },
@@ -9618,7 +9618,7 @@
     "location": "Victoria BC",
     "company": "EY",
     "twitterUsername": "",
-    "followers": 53,
+    "followers": 40,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-08-26T01:27:31Z"
@@ -9630,9 +9630,9 @@
     "location": "Victoria, BC",
     "company": "Thinkific",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 4860,
-    "publicContributions": 0,
+    "followers": 43,
+    "privateContributions": 7134,
+    "publicContributions": 1,
     "createdAt": "2017-04-25T17:35:40Z"
   },
   {

@@ -9392,7 +9392,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 173,
     "createdAt": "2025-01-25T19:44:34Z"
   },
   {
@@ -9414,9 +9414,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 31,
     "createdAt": "2025-10-26T15:11:01Z"
   },
   {
@@ -9428,7 +9428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-27T19:39:03Z"
   },
   {
@@ -9440,7 +9440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 4,
     "createdAt": "2025-07-10T22:09:54Z"
   },
   {
@@ -9488,7 +9488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 0,
     "createdAt": "2025-08-13T13:40:26Z"
   },
   {
@@ -9512,7 +9512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-19T12:25:11Z"
   },
   {
@@ -9524,7 +9524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 10,
     "createdAt": "2025-06-09T14:40:35Z"
   },
   {
@@ -9546,33 +9546,21 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2025-05-06T18:43:35Z"
   },
   {
-    "login": "anaamorim0",
-    "name": "Ana Amorim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/206367071?s=72&u=7e20055db342968f5c00cd300d6c17c54042629f&v=4",
-    "location": "Portugal",
-    "company": "FCUP",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 33,
-    "publicContributions": 123,
-    "createdAt": "2025-04-05T19:48:32Z"
-  },
-  {
     "login": "joaoreix",
     "name": "Joao Reis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205645644?s=72&u=5731967dab0fcf8e988ffa56355fe1489e34449d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/205645644?s=72&u=a99968ee65ae4b562f76b6ca7cc247483c7b92d2&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 340,
-    "publicContributions": 9,
+    "followers": 2,
+    "privateContributions": 1389,
+    "publicContributions": 5,
     "createdAt": "2025-03-31T14:40:50Z"
   },
   {
@@ -9596,7 +9584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2025-01-09T20:51:19Z"
   },
   {
@@ -9607,8 +9595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1511,
-    "publicContributions": 51,
+    "privateContributions": 1428,
+    "publicContributions": 44,
     "createdAt": "2025-03-01T09:02:33Z"
   },
   {
