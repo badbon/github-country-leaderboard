@@ -1,12 +1,12 @@
 # Public Contributions - Saint Lucia
 
-Generated: 2026-10-10T00:09:33.515Z
+Generated: 2026-10-10T01:27:22.638Z
 
 Users: 35
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 929 |
+| 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 926 |
 | 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | @ec-intl |  | Saint Lucia | 440 |
 | 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 128 |
 | 4 | [fontius](https://github.com/fontius) |  |  |  | Saint Lucia | 85 |

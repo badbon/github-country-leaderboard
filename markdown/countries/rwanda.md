@@ -56,7 +56,7 @@ Indexed users: 3,528
 | 17 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | Kigali, Rwanda | 2,403 |
 | 18 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Kigali,Rwanda | 2,365 |
 | 19 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick | Kigali, Rwanda | 2,302 |
-| 20 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | Kigali | 2,299 |
+| 20 | [ishimweghislain](https://github.com/ishimweghislain) | ISHIMWE GHISLAIN | Rwanda, Kamonyi | 2,205 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,528
 | 19 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 315 |
 | 20 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 314 |
 
-Generated: 2026-10-10T00:07:46.525Z
+Generated: 2026-10-10T01:27:15.287Z

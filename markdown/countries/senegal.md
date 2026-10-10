@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,360
+Indexed users: 1,359
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,360
 | 19 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 | 20 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 135 |
 
-Generated: 2026-10-10T00:10:25.526Z
+Generated: 2026-10-10T01:29:25.519Z

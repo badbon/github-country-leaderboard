@@ -1,6 +1,6 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-10T00:09:47.488Z
+Generated: 2026-10-10T01:28:53.712Z
 
 Users: 61
 
@@ -8,15 +8,15 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 12076 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 9623 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4208 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4207 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3146 |
-| 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2316 |
-| 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2287 |
-| 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2183 |
+| 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2313 |
+| 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2282 |
+| 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2176 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 2071 |
 | 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 883 |
-| 10 | [thu105](https://github.com/thu105) | Hein Moe Thu |  |  | San Marino, CA | 756 |
-| 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | @prestalia |  | San Marino | 751 |
+| 10 | [thu105](https://github.com/thu105) | Hein Moe Thu |  |  | San Marino, CA | 755 |
+| 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | @prestalia |  | San Marino | 747 |
 | 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 733 |
 | 13 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | 22lab |  | San Marino | 467 |
 | 14 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 343 |

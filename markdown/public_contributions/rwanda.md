@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-10T00:07:46.525Z
+Generated: 2026-10-10T01:27:15.287Z
 
 Users: 3528
 
@@ -25,4 +25,4 @@ Users: 3528
 | 17 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | DondouAbiyi |  | Kigali, Rwanda | 2403 |
 | 18 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |
 | 19 | [cedrick13bienvenue](https://github.com/cedrick13bienvenue) | bienvenue cedrick |  |  | Kigali, Rwanda | 2302 |
-| 20 | [kai-lucky72](https://github.com/kai-lucky72) | lucky irene kagabo | NexaTech Rwanda | K_AI_Lucky | Kigali | 2299 |
+| 20 | [ishimweghislain](https://github.com/ishimweghislain) | ISHIMWE GHISLAIN | Fullstack Software Ltd |  | Rwanda, Kamonyi | 2205 |

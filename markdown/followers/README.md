@@ -80,7 +80,7 @@ Published countries: 234
 | French Southern and Antarctic Lands | 4 | [View](./french_southern_and_antarctic_lands.md) |
 | Gabon | 315 | [View](./gabon.md) |
 | Gambia | 80 | [View](./gambia.md) |
-| Georgia | 6,900 | [View](./georgia.md) |
+| Georgia | 6,906 | [View](./georgia.md) |
 | Ghana | 7,105 | [View](./ghana.md) |
 | Gibraltar | 93 | [View](./gibraltar.md) |
 | Greece | 15,582 | [View](./greece.md) |
@@ -186,8 +186,8 @@ Published countries: 234
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,752 | [View](./saudi_arabia.md) |
-| Senegal | 1,360 | [View](./senegal.md) |
+| Saudi Arabia | 7,751 | [View](./saudi_arabia.md) |
+| Senegal | 1,359 | [View](./senegal.md) |
 | Serbia | 10,670 | [View](./serbia.md) |
 | Seychelles | 1,771 | [View](./seychelles.md) |
 | Sierra Leone | 443 | [View](./sierra_leone.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,343 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-10T01:22:04.817Z
+Generated: 2026-10-10T01:31:26.668Z
