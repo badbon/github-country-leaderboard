@@ -1,6 +1,6 @@
 # Followers - Seychelles
 
-Generated: 2026-10-10T11:19:19.446Z
+Generated: 2026-10-10T14:18:58.220Z
 
 Users: 1769
 
@@ -16,7 +16,7 @@ Users: 1769
 | 8 | [codeWithCal](https://github.com/codeWithCal) | Code With Cal |  |  | Victoria | 238 |
 | 9 | [ikaliam](https://github.com/ikaliam) | Eirini Kalliamvakou |  |  | Victoria, BC | 237 |
 | 10 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 226 |
-| 11 | [shirosaidev](https://github.com/shirosaidev) | Chris Park | Diskover Data, Inc. |  | Victoria, BC | 178 |
+| 11 | [shirosaidev](https://github.com/shirosaidev) | Chris Park | Diskover Data, Inc. |  | Victoria, BC | 180 |
 | 12 | [samsonjs](https://github.com/samsonjs) | Sami Samhuri |  | _sjs | Victoria, BC | 176 |
 | 13 | [dmgerman](https://github.com/dmgerman) | Daniel German | University of Victoria |  | Victoria | 164 |
 | 14 | [leanpub](https://github.com/leanpub) | Leanpub | Leanpub |  | Victoria | 156 |

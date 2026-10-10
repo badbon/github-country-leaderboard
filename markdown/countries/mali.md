@@ -15,7 +15,7 @@ Indexed users: 348
 | 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 8,073 |
 | 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,180 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,210 |
-| 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 5,897 |
+| 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 5,894 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,288 |
 | 6 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,735 |
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,410 |
@@ -24,7 +24,7 @@ Indexed users: 348
 | 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,345 |
 | 11 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,226 |
 | 12 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,142 |
-| 13 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,006 |
+| 13 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,011 |
 | 14 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,951 |
 | 15 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,948 |
 | 16 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,947 |
@@ -42,7 +42,7 @@ Indexed users: 348
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,410 |
 | 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | Bamako, Mali | 1,163 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 1,116 |
-| 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 565 |
+| 6 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 566 |
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 386 |
 | 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ | Bamako | 382 |
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 374 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-10T12:56:47.799Z
+Generated: 2026-10-10T13:57:59.363Z

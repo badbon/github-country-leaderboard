@@ -1,8 +1,8 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-10T11:13:03.388Z
+Generated: 2026-10-10T14:11:49.452Z
 
-Users: 1541
+Users: 1540
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,8 +19,8 @@ Users: 1541
 | 11 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6253 |
 | 12 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
 | 13 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
-| 14 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
-| 15 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5216 |
+| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5781 |
+| 15 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
 | 16 | [jv-pv](https://github.com/jv-pv) | John Pieri |  |  | Puerto Rico | 5125 |
 | 17 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 4810 |
 | 18 | [n6617x](https://github.com/n6617x) | blk |  |  | Yabucoa, Puerto Rico, United States | 4782 |

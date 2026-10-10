@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-10T11:04:18.841Z
+Generated: 2026-10-10T14:05:03.343Z
 
 Users: 111
 
@@ -17,7 +17,7 @@ Users: 111
 | 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1290 |
 | 10 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1204 |
 | 11 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1200 |
-| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet |  |  | Nouméa, New Caledonia | 863 |
+| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet |  |  | Nouméa, New Caledonia | 870 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | Gouvernement de la Nouvelle-Calédonie |  | New-Caledonia | 731 |
 | 14 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 711 |
 | 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 710 |

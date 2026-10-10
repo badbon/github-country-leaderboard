@@ -1,6 +1,6 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-10T11:19:22.590Z
+Generated: 2026-10-10T14:19:01.836Z
 
 Users: 443
 
@@ -8,7 +8,7 @@ Users: 443
 |---:|---|---|---|---|---|---:|
 | 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2115 |
 | 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 1964 |
-| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 1314 |
+| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 1307 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 1024 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk |  |  | Regent, Freetown, Sierra Leone. | 978 |
 | 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 944 |

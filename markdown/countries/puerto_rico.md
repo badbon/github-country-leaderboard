@@ -1,6 +1,6 @@
 # Puerto Rico
 
-Indexed users: 1,541
+Indexed users: 1,540
 
 | Leaderboard | Link |
 |---|---|
@@ -25,8 +25,8 @@ Indexed users: 1,541
 | 11 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
 | 12 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
 | 13 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 14 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
-| 15 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,216 |
+| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
+| 15 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
 | 16 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
 | 17 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
 | 18 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,782 |
@@ -83,4 +83,4 @@ Indexed users: 1,541
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-10T11:13:03.388Z
+Generated: 2026-10-10T14:11:49.452Z

@@ -47,7 +47,7 @@ Indexed users: 805
 | 8 | [batmunkhcom](https://github.com/batmunkhcom) | BATMUNKH M | Mongolia, Ulaanbaatar | 788 |
 | 9 | [Zolb646](https://github.com/Zolb646) | B ZOLBAYAR | Mongolia | 781 |
 | 10 | [PQ-007](https://github.com/PQ-007) | Bilguuntushig | Mongolia, Ulaanbaatar | 665 |
-| 11 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene | Ulaanbaatar, Mongolia | 582 |
+| 11 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene | Ulaanbaatar, Mongolia | 598 |
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 543 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | Mongolia | 542 |
 | 14 | [tulubyev](https://github.com/tulubyev) | Alexander Tulubyev | Ulan-Bator, Mongolia | 536 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-10T11:01:07.967Z
+Generated: 2026-10-10T14:01:56.756Z

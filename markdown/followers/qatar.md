@@ -1,8 +1,8 @@
 # Followers - Qatar
 
-Generated: 2026-10-10T11:13:22.382Z
+Generated: 2026-10-10T14:12:21.497Z
 
-Users: 1076
+Users: 1075
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1076
 | 14 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | United Systema |  | Qatar | 113 |
 | 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil |  | akhalil_qa | Qatar | 109 |
 | 16 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P |  |  | Doha, Qatar | 108 |
-| 17 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor |  |  | Al-Rayyan, Qatar | 107 |
-| 18 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Software Engineer | brainconnect0 | Al-Wakrah, Qatar | 100 |
-| 19 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 99 |
+| 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 107 |
+| 18 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor |  |  | Al-Rayyan, Qatar | 107 |
+| 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Software Engineer | brainconnect0 | Al-Wakrah, Qatar | 100 |
 | 20 | [gracekabaghe](https://github.com/gracekabaghe) | Grace Kabaghe | @microverseinc  |  | Qatar | 92 |

@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-10T11:02:40.931Z
+Generated: 2026-10-10T14:03:29.948Z
 
 Users: 1174
 
@@ -10,12 +10,12 @@ Users: 1174
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 6627 |
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Flow Technologies su, lda |  | Mozambique | 5729 |
 | 4 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5635 |
-| 5 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 4992 |
-| 6 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4874 |
-| 7 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 4722 |
-| 8 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4320 |
-| 9 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3910 |
-| 10 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 3687 |
+| 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 5495 |
+| 6 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 4992 |
+| 7 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4874 |
+| 8 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 4722 |
+| 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4320 |
+| 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3892 |
 | 11 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3216 |
 | 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 2827 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2793 |

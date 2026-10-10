@@ -1,8 +1,8 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-10T11:13:22.382Z
+Generated: 2026-10-10T14:12:21.497Z
 
-Users: 1076
+Users: 1075
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 1076
 | 10 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1044 |
 | 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1040 |
 | 12 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 925 |
-| 13 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 903 |
-| 14 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 884 |
-| 15 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |
-| 16 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
-| 17 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | https://github.com/prajwal918/ |  | qatar doha | 761 |
-| 18 | [Melikash98](https://github.com/Melikash98) | Melika Shooryabi |  |  | Qatar | 724 |
-| 19 | [aazam-gh](https://github.com/aazam-gh) | Aazam Thakur | aazamthakur@gmail.com | aazam_twt | Doha, Qatar | 712 |
-| 20 | [Thilsan-Abuissa](https://github.com/Thilsan-Abuissa) | Ahamed Thilsan Ismalebbe |  |  | Doha, Qatar | 708 |
+| 13 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 904 |
+| 14 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 903 |
+| 15 | [syedahmedkhaderi](https://github.com/syedahmedkhaderi) | Syed Ahmed |  |  | Doha | 884 |
+| 16 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 828 |
+| 17 | [Ozhana](https://github.com/Ozhana) | Ozhan Akdag |  |  | Doha / Qatar | 792 |
+| 18 | [prajwal918](https://github.com/prajwal918) | prajwaljogi_ | https://github.com/prajwal918/ |  | qatar doha | 761 |
+| 19 | [Melikash98](https://github.com/Melikash98) | Melika Shooryabi |  |  | Qatar | 724 |
+| 20 | [aazam-gh](https://github.com/aazam-gh) | Aazam Thakur | aazamthakur@gmail.com | aazam_twt | Doha, Qatar | 712 |

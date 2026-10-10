@@ -21,17 +21,17 @@ Indexed users: 3,527
 | 7 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 10,130 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,290 |
 | 9 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 8,814 |
-| 10 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 8,467 |
-| 11 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
-| 12 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
-| 13 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
-| 14 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Rwanda | 7,438 |
-| 15 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
-| 16 | [princechrix](https://github.com/princechrix) | Prince Chrix | Kigali, Rwanda | 7,377 |
-| 17 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 7,133 |
-| 18 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 6,897 |
-| 19 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Rwanda, Kigali | 6,555 |
-| 20 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 6,491 |
+| 10 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE | Kigali, Rwanda | 8,563 |
+| 11 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 8,467 |
+| 12 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
+| 13 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  | Rwanda | 8,233 |
+| 14 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | Rwanda/ Kigali | 7,609 |
+| 15 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 7,511 |
+| 16 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Rwanda | 7,438 |
+| 17 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Rwanda | 7,389 |
+| 18 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 7,133 |
+| 19 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 6,897 |
+| 20 | [leocode09](https://github.com/leocode09) | KWIZERA Emmanuel Leonidas | Rwanda, Kigali | 6,555 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,527
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-10T11:14:38.059Z
+Generated: 2026-10-10T14:14:09.728Z

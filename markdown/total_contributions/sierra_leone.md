@@ -1,6 +1,6 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-10T11:19:22.590Z
+Generated: 2026-10-10T14:19:01.836Z
 
 Users: 443
 
@@ -8,8 +8,8 @@ Users: 443
 |---:|---|---|---|---|---|---:|
 | 1 | [alphashaw](https://github.com/alphashaw) | Alpha Shaw | @monimesl @monime-lab @fixsl |  | Sierra Leone | 8370 |
 | 2 | [butagreeza](https://github.com/butagreeza) | Francis Bangura | Byte Limited |  | Freetown. Sierra Leone | 5764 |
-| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 5435 |
-| 4 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | TEKI-SL | Georges_mindset | Sierra Leone, West Africa | 5425 |
+| 3 | [ibrahimgeorgefoday](https://github.com/ibrahimgeorgefoday) | Ibrahim George Foday | TEKI-SL | Georges_mindset | Sierra Leone, West Africa | 5425 |
+| 4 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 5421 |
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 5094 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3704 |
 | 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3563 |
@@ -22,7 +22,7 @@ Users: 443
 | 14 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 2110 |
 | 15 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh |  |  | Freetown, Sierra Leone | 2088 |
 | 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole |  |  | Freetown, Sierra Leone | 1887 |
-| 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1716 |
+| 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1717 |
 | 18 | [abu-bakarr](https://github.com/abu-bakarr) |  | Limkokwing University Student | Boss_Lovel | Sierra Leone | 1658 |
 | 19 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray |  |  | Sierra Leone | 1603 |
 | 20 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Nexlura | DeeMaejor | Freetown, Sierra Leone | 1529 |

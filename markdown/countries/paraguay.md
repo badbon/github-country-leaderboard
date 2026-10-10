@@ -30,15 +30,15 @@ Indexed users: 2,020
 | 16 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
 | 17 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 4,280 |
 | 18 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
-| 19 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
-| 20 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
+| 19 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
+| 20 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 12,746 |
-| 2 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
+| 2 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 3,104 |
 | 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 2,806 |
 | 4 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,357 |
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,181 |
@@ -83,4 +83,4 @@ Indexed users: 2,020
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-10T11:11:49.590Z
+Generated: 2026-10-10T14:09:38.407Z

@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-10T11:11:49.590Z
+Generated: 2026-10-10T14:09:38.407Z
 
 Users: 2020
 
@@ -24,5 +24,5 @@ Users: 2020
 | 16 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
 | 17 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 4280 |
 | 18 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas |  |  | Paraguay | 4243 |
-| 19 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 4218 |
-| 20 | [neocuella](https://github.com/neocuella) | Rick Ovelar |  | rickOvelar | Paraguay | 4146 |
+| 19 | [neocuella](https://github.com/neocuella) | Rick Ovelar |  | rickOvelar | Paraguay | 4146 |
+| 20 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4082 |

@@ -68,7 +68,7 @@ Indexed users: 891
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin | Tivat, Montenegro | 363 |
 | 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN | Montenegro | 344 |
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Montenegro | 334 |
-| 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina | Podgorica, Montenegro | 231 |
+| 7 | [LukaDut7](https://github.com/LukaDut7) | Luka Dutina | Podgorica, Montenegro | 230 |
 | 8 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 194 |
 | 9 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 144 |
 | 10 | [cblp](https://github.com/cblp) | Yury Syrovetsky | Montenegro | 142 |
@@ -83,4 +83,4 @@ Indexed users: 891
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-10T11:02:13.916Z
+Generated: 2026-10-10T14:02:00.022Z

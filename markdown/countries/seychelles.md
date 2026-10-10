@@ -72,7 +72,7 @@ Indexed users: 1,769
 | 8 | [codeWithCal](https://github.com/codeWithCal) | Code With Cal | Victoria | 238 |
 | 9 | [ikaliam](https://github.com/ikaliam) | Eirini Kalliamvakou | Victoria, BC | 237 |
 | 10 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 226 |
-| 11 | [shirosaidev](https://github.com/shirosaidev) | Chris Park | Victoria, BC | 178 |
+| 11 | [shirosaidev](https://github.com/shirosaidev) | Chris Park | Victoria, BC | 180 |
 | 12 | [samsonjs](https://github.com/samsonjs) | Sami Samhuri | Victoria, BC | 176 |
 | 13 | [dmgerman](https://github.com/dmgerman) | Daniel German | Victoria | 164 |
 | 14 | [leanpub](https://github.com/leanpub) | Leanpub | Victoria | 156 |
@@ -83,4 +83,4 @@ Indexed users: 1,769
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-10T11:19:19.446Z
+Generated: 2026-10-10T14:18:58.220Z
