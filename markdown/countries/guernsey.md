@@ -13,11 +13,11 @@ Indexed users: 45
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick | Guernsey | 2,374 |
-| 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 1,748 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,479 |
-| 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,305 |
+| 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 1,764 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,472 |
+| 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,297 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 963 |
-| 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 678 |
+| 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 677 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield | Guernsey | 453 |
 | 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | Guernsey | 378 |
 | 9 | [GlennToms](https://github.com/GlennToms) | Glenn Toms | Guernsey | 258 |
@@ -37,9 +37,9 @@ Indexed users: 45
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 678 |
-| 2 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 472 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 75 |
+| 1 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 677 |
+| 2 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 462 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 71 |
 | 4 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | Guernsey | 51 |
 | 5 | [adrianritchie](https://github.com/adrianritchie) |  | Guernsey | 41 |
 | 6 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick | Guernsey | 21 |
@@ -83,4 +83,4 @@ Indexed users: 45
 | 19 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 3 |
 | 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Guernsey | 3 |
 
-Generated: 2026-10-10T00:55:54.703Z
+Generated: 2026-10-10T02:17:23.006Z

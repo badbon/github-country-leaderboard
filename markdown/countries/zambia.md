@@ -51,8 +51,8 @@ Indexed users: 1,343
 | 12 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 724 |
 | 13 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 685 |
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
-| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 649 |
-| 16 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 15 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 16 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
 | 17 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
 | 18 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
 | 19 | [chrimztech](https://github.com/chrimztech) | Chrishent | Lusaka | 553 |
@@ -66,8 +66,8 @@ Indexed users: 1,343
 | 2 | [Billypeterlennards](https://github.com/Billypeterlennards) | Billy Peter Munyenyembe | Lusaka,Zambia | 313 |
 | 3 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 302 |
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 233 |
-| 5 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 232 |
-| 6 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
+| 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
+| 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 224 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 193 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 163 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 161 |
@@ -83,4 +83,4 @@ Indexed users: 1,343
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 105 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-10T00:29:36.282Z
+Generated: 2026-10-10T01:45:16.139Z

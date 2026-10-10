@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-10T00:38:06.642Z
+Generated: 2026-10-10T01:55:54.177Z
 
 Users: 901
 
@@ -11,8 +11,8 @@ Users: 901
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | @dxos |  | Hamilton, ON | 2549 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 1963 |
 | 5 | [Justype](https://github.com/Justype) | Cheng |  |  | Hamilton | 1393 |
-| 6 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | McMaster University |  | Hamilton, ON | 1264 |
-| 7 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 1242 |
+| 6 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 1366 |
+| 7 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | McMaster University |  | Hamilton, ON | 1264 |
 | 8 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel |  |  | Hamilton - ON | 1005 |
 | 9 | [wesbos](https://github.com/wesbos) | Wes Bos | me | wesbos | Hamilton, Ontario | 921 |
 | 10 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 895 |

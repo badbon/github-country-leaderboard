@@ -14,7 +14,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Cuba](markdown/countries/cuba.md) | 1,286 | [Public](markdown/public_contributions/cuba.md) | [Total](markdown/total_contributions/cuba.md) | [Followers](markdown/followers/cuba.md) |
+| [Cuba](markdown/countries/cuba.md) | 1,285 | [Public](markdown/public_contributions/cuba.md) | [Total](markdown/total_contributions/cuba.md) | [Followers](markdown/followers/cuba.md) |
 | [United States Virgin Islands](markdown/countries/united_states_virgin_islands.md) | 4 | [Public](markdown/public_contributions/united_states_virgin_islands.md) | [Total](markdown/total_contributions/united_states_virgin_islands.md) | [Followers](markdown/followers/united_states_virgin_islands.md) |
 | [Martinique](markdown/countries/martinique.md) | 75 | [Public](markdown/public_contributions/martinique.md) | [Total](markdown/total_contributions/martinique.md) | [Followers](markdown/followers/martinique.md) |
 | [Lithuania](markdown/countries/lithuania.md) | 5,396 | [Public](markdown/public_contributions/lithuania.md) | [Total](markdown/total_contributions/lithuania.md) | [Followers](markdown/followers/lithuania.md) |
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-10T01:31:26.668Z
+Generated: 2026-10-10T02:24:07.561Z

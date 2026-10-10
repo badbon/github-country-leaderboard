@@ -12,13 +12,13 @@ Indexed users: 38
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,726 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 822 |
+| 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,737 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 820 |
 | 3 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 579 |
 | 4 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 561 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
-| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 172 |
+| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 169 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 124 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 10 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 53 |
@@ -41,7 +41,7 @@ Indexed users: 38
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
 | 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 124 |
-| 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 113 |
+| 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 110 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 53 |
 | 8 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 50 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-10T00:34:12.920Z
+Generated: 2026-10-10T01:50:14.691Z

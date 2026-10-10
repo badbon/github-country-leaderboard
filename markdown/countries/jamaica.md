@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,277
+Indexed users: 1,276
 
 | Leaderboard | Link |
 |---|---|
@@ -75,12 +75,12 @@ Indexed users: 1,277
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
 | 12 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
 | 13 | [juliemturner](https://github.com/juliemturner) | Julie Turner | East Kingston, NH | 108 |
-| 14 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Kingston, Ontario | 106 |
-| 15 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
-| 16 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 104 |
+| 14 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 106 |
+| 15 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Kingston, Ontario | 106 |
+| 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 103 |
 | 18 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 101 |
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 96 |
 
-Generated: 2026-10-10T01:01:13.095Z
+Generated: 2026-10-10T02:22:02.498Z

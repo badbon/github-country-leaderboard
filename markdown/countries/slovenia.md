@@ -56,7 +56,7 @@ Indexed users: 3,108
 | 17 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
 | 18 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
 | 19 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
-| 20 | [alesurankar](https://github.com/alesurankar) | Aleš | Ljubljana | 1,887 |
+| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 1,865 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,108
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-10T00:14:51.112Z
+Generated: 2026-10-10T01:33:41.687Z

@@ -1,6 +1,6 @@
 # Azerbaijan
 
-Indexed users: 5,092
+Indexed users: 5,091
 
 | Leaderboard | Link |
 |---|---|
@@ -14,8 +14,8 @@ Indexed users: 5,092
 |---:|---|---|---|---:|
 | 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev | Azerbaijan | 951,933 |
 | 2 | [martian56](https://github.com/martian56) | Martian | Azerbaijan | 24,250 |
-| 3 | [ruslanabdullayev01](https://github.com/ruslanabdullayev01) | Ruslan Abdullayev | Azerbaijan | 10,183 |
-| 4 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam | Azerbaijan | 8,561 |
+| 3 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam | Azerbaijan | 8,561 |
+| 4 | [ruslanabdullayev01](https://github.com/ruslanabdullayev01) | Ruslan Abdullayev | Azerbaijan | 8,556 |
 | 5 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev | Baku | 8,410 |
 | 6 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Azerbaijan, Baku | 8,264 |
 | 7 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Azerbaijan, Baku | 8,065 |
@@ -83,4 +83,4 @@ Indexed users: 5,092
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 256 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-10T00:34:54.088Z
+Generated: 2026-10-10T01:51:23.022Z

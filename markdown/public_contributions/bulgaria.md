@@ -1,6 +1,6 @@
 # Public Contributions - Bulgaria
 
-Generated: 2026-10-10T00:38:34.371Z
+Generated: 2026-10-10T01:59:35.808Z
 
 Users: 14088
 
@@ -17,12 +17,12 @@ Users: 14088
 | 9 | [braboj](https://github.com/braboj) | Branimir Georgiev |  |  | Varna, Bulgaria | 6213 |
 | 10 | [BoykoNeov](https://github.com/BoykoNeov) |  |  |  | Sofia, Bulgaria | 6076 |
 | 11 | [spantaleev](https://github.com/spantaleev) | Slavi Pantaleev | Devture Ltd |  | Sofia, Bulgaria | 5214 |
-| 12 | [TedoNeObichaJavaScript](https://github.com/TedoNeObichaJavaScript) | Txdo | Nooze Alarm |  | Sofia, Bulgaria | 4858 |
-| 13 | [PeterNaydenov](https://github.com/PeterNaydenov) | Peter Naydenov |  | PeterNaydenov | Bulgaria, Sofia | 4676 |
-| 14 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | @KarlovoTech  |  | Karlovo, Bulgaria | 4590 |
-| 15 | [ggerganov](https://github.com/ggerganov) | Georgi Gerganov | @huggingface | ggerganov | Sofia, Bulgaria | 4253 |
-| 16 | [ldilov](https://github.com/ldilov) | Lazar Dilov |  |  | Bulgaria, Sofia | 4123 |
-| 17 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | @alethialabs-io  @the-tovr |  | Sofia, Bulgaria | 4054 |
-| 18 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 3949 |
-| 19 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov |  |  | Sofia, Bulgaria | 3448 |
-| 20 | [PetarKirov](https://github.com/PetarKirov) | Petar Kirov | @blocksense-network  |  | Sofia, Bulgaria | 3364 |
+| 12 | [PeterNaydenov](https://github.com/PeterNaydenov) | Peter Naydenov |  | PeterNaydenov | Bulgaria, Sofia | 4676 |
+| 13 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | @KarlovoTech  |  | Karlovo, Bulgaria | 4590 |
+| 14 | [ggerganov](https://github.com/ggerganov) | Georgi Gerganov | @huggingface | ggerganov | Sofia, Bulgaria | 4253 |
+| 15 | [ldilov](https://github.com/ldilov) | Lazar Dilov |  |  | Bulgaria, Sofia | 4123 |
+| 16 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | @alethialabs-io  @the-tovr |  | Sofia, Bulgaria | 4054 |
+| 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | shelf.nu |  | Sofia, Bulgaria | 3949 |
+| 18 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov |  |  | Sofia, Bulgaria | 3448 |
+| 19 | [PetarKirov](https://github.com/PetarKirov) | Petar Kirov | @blocksense-network  |  | Sofia, Bulgaria | 3364 |
+| 20 | [Madman10K](https://github.com/Madman10K) | Stanislav Vasilev | @MadLadSquad @Heapforge |  | Sofia, Bulgaria | 3332 |

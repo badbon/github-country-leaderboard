@@ -1,20 +1,20 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-10T00:46:15.914Z
+Generated: 2026-10-10T01:44:34.500Z
 
 Users: 5626
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 23365 |
-| 2 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero |  |  | Montevideo, Uruguay | 17928 |
-| 3 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 13568 |
-| 4 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 11515 |
-| 5 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
-| 6 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
-| 7 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
-| 8 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 9919 |
-| 9 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges |  |  | Montevideo, Uruguay | 9680 |
+| 1 | [lucasborges2001](https://github.com/lucasborges2001) | Lucas Borges |  |  | Montevideo, Uruguay | 25520 |
+| 2 | [matiaszanolli](https://github.com/matiaszanolli) | Matias Zanolli |  | TechForMusicAI | Uruguay | 23365 |
+| 3 | [jQuinRivero](https://github.com/jQuinRivero) | Joaquín Rivero |  |  | Montevideo, Uruguay | 17928 |
+| 4 | [dcadenas](https://github.com/dcadenas) | Daniel Cadenas |  | dcadenas | Montevideo, Uruguay | 13568 |
+| 5 | [EmoPorEmilio](https://github.com/EmoPorEmilio) | Emilio "Emo" Franceschini |  |  | Montevideo, Uruguay | 11515 |
+| 6 | [MateoVidalS](https://github.com/MateoVidalS) | Mateo Vidal | @pentoai  |  | Uruguay | 11113 |
+| 7 | [agurod42](https://github.com/agurod42) | Agu Rodríguez |  | agurod42 | Montevideo, Uruguay, Earth | 10131 |
+| 8 | [frankdavidcorona](https://github.com/frankdavidcorona) | Frank Corona Prendes | SynerSib Consulting SAS & Strictly | chaplindev | Montevideo, Uruguay | 10097 |
+| 9 | [ignaciogarcia-dev](https://github.com/ignaciogarcia-dev) | Ignacio García | Criptala |  | Uruguay | 9919 |
 | 10 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 9337 |
 | 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | @tryolabs  | juanfkurucz | Uruguay | 9097 |
 | 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 8580 |

@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-10T00:14:51.112Z
+Generated: 2026-10-10T01:33:41.687Z
 
 Users: 3108
 
@@ -25,4 +25,4 @@ Users: 3108
 | 17 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin |  | crtahlin | Slovenia | 2035 |
 | 18 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 1951 |
 | 19 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz |  |  | Slovenia | 1917 |
-| 20 | [alesurankar](https://github.com/alesurankar) | Aleš |  |  | Ljubljana | 1887 |
+| 20 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 1865 |

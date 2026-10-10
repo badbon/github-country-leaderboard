@@ -50,7 +50,7 @@ Indexed users: 6,708
 | 11 | [yared2124](https://github.com/yared2124) | yared aregayehu | Addis Ababa | 2,980 |
 | 12 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa | 2,685 |
 | 13 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
-| 14 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,523 |
+| 14 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,525 |
 | 15 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
 | 16 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,427 |
 | 17 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye | Adaama, Ethiopia | 2,378 |
@@ -67,10 +67,10 @@ Indexed users: 6,708
 | 3 | [Makitey](https://github.com/Makitey) | Makda Abraham | Addis Ababa | 2,881 |
 | 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom | Addis Ababa | 2,617 |
 | 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Addis Ababa  | 2,239 |
-| 6 | [devefy](https://github.com/devefy) | Abdulkerim Hamid | Ethiopia, Adama | 1,523 |
-| 7 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 1,508 |
-| 8 | [Yonatankinfe](https://github.com/Yonatankinfe) | Yonatan Kinfe | Ethiopia/Addis Ababa | 1,173 |
-| 9 | [bayisagit](https://github.com/bayisagit) | Bayisa Daba | Addis Ababa Ethiopia | 1,137 |
+| 6 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 1,567 |
+| 7 | [devefy](https://github.com/devefy) | Abdulkerim Hamid | Ethiopia, Adama | 1,523 |
+| 8 | [Yonatankinfe](https://github.com/Yonatankinfe) | Yonatan Kinfe | Ethiopia/Addis Ababa | 1,157 |
+| 9 | [bayisagit](https://github.com/bayisagit) | Bayisa Daba | Addis Ababa Ethiopia | 1,124 |
 | 10 | [Nathanage3](https://github.com/Nathanage3) | Nathan Hailu | Addis Ababa, Ethiopia | 1,112 |
 | 11 | [codingWithElias](https://github.com/codingWithElias) | Elias Yasin | Alem Gena, Ethiopia | 799 |
 | 12 | [dagmawibabi](https://github.com/dagmawibabi) | Dagmawi Babi | Addis Ababa, Ethiopia | 774 |
@@ -83,4 +83,4 @@ Indexed users: 6,708
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-10T00:57:44.864Z
+Generated: 2026-10-10T02:09:35.659Z

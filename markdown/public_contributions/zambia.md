@@ -1,6 +1,6 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-10T00:29:36.282Z
+Generated: 2026-10-10T01:45:16.139Z
 
 Users: 1343
 
@@ -20,8 +20,8 @@ Users: 1343
 | 12 | [214Toto](https://github.com/214Toto) | ToToZ Collection |  |  | Ndola, Copperbelt, Zambia | 724 |
 | 13 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu |  |  | Lusaka | 685 |
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 657 |
-| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 649 |
-| 16 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 586 |
+| 15 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 586 |
+| 16 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 581 |
 | 17 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | OpenEarth Foundation |  | Zambia | 556 |
 | 18 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |
 | 19 | [chrimztech](https://github.com/chrimztech) | Chrishent | Chrishent Matakala | Chrishent | Lusaka | 553 |

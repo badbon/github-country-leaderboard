@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-10T00:55:21.250Z
+Generated: 2026-10-10T02:15:41.024Z
 
 Users: 87
 
@@ -19,7 +19,7 @@ Users: 87
 | 11 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 658 |
 | 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 612 |
 | 13 | [sboli](https://github.com/sboli) | Bolivar Stephen |  | _sboli | Guadeloupe | 567 |
-| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 451 |
+| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS |  | FWICSS | Guadeloupe | 450 |
 | 15 | [seyken971](https://github.com/seyken971) | Andy Zébus | PXLC | seyken971 | Guadeloupe | 228 |
 | 16 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Gwadaweb | rubatdub | Guadeloupe | 184 |
 | 17 | [Virguiles](https://github.com/Virguiles) | Virgile |  |  | Guadeloupe | 144 |

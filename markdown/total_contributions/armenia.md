@@ -1,8 +1,8 @@
 # Total Contributions - Armenia
 
-Generated: 2026-10-10T00:34:07.090Z
+Generated: 2026-10-10T02:11:58.579Z
 
-Users: 4043
+Users: 4046
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,9 +15,9 @@ Users: 4043
 | 7 | [vadim-su](https://github.com/vadim-su) | Vadim Suharnikov |  |  | Armenia Yerevan | 8162 |
 | 8 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 8125 |
 | 9 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | @thefrontside | wkichdev | Armenia | 7743 |
-| 10 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan |  |  | Yerevan | 7617 |
-| 11 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
-| 12 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | CoinStats | AramArakelyan13 | Yerevan | 7164 |
+| 10 | [aramarakelyan88](https://github.com/aramarakelyan88) | Aram Arakelyan | CoinStats | AramArakelyan13 | Yerevan | 7628 |
+| 11 | [ashottonoyan](https://github.com/ashottonoyan) | Ashot Tonoyan |  |  | Yerevan | 7617 |
+| 12 | [anatoly-scherbakov](https://github.com/anatoly-scherbakov) | Anatoly Scherbakov | @datafold  |  | Yerevan, Armenia | 7340 |
 | 13 | [otanim](https://github.com/otanim) | Arman Yeghiazaryan |  |  | Armenia, Yerevan | 6913 |
 | 14 | [eventbalancer](https://github.com/eventbalancer) | Aleksei Filippov | BotScale |  | Armenia, Yerevan | 6763 |
 | 15 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 6618 |

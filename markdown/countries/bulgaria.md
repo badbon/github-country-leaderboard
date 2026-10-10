@@ -48,15 +48,15 @@ Indexed users: 14,088
 | 9 | [braboj](https://github.com/braboj) | Branimir Georgiev | Varna, Bulgaria | 6,213 |
 | 10 | [BoykoNeov](https://github.com/BoykoNeov) |  | Sofia, Bulgaria | 6,076 |
 | 11 | [spantaleev](https://github.com/spantaleev) | Slavi Pantaleev | Sofia, Bulgaria | 5,214 |
-| 12 | [TedoNeObichaJavaScript](https://github.com/TedoNeObichaJavaScript) | Txdo | Sofia, Bulgaria | 4,858 |
-| 13 | [PeterNaydenov](https://github.com/PeterNaydenov) | Peter Naydenov | Bulgaria, Sofia | 4,676 |
-| 14 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 4,590 |
-| 15 | [ggerganov](https://github.com/ggerganov) | Georgi Gerganov | Sofia, Bulgaria | 4,253 |
-| 16 | [ldilov](https://github.com/ldilov) | Lazar Dilov | Bulgaria, Sofia | 4,123 |
-| 17 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | Sofia, Bulgaria | 4,054 |
-| 18 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 3,949 |
-| 19 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov | Sofia, Bulgaria | 3,448 |
-| 20 | [PetarKirov](https://github.com/PetarKirov) | Petar Kirov | Sofia, Bulgaria | 3,364 |
+| 12 | [PeterNaydenov](https://github.com/PeterNaydenov) | Peter Naydenov | Bulgaria, Sofia | 4,676 |
+| 13 | [escapeboy](https://github.com/escapeboy) | Nikola Katsarov | Karlovo, Bulgaria | 4,590 |
+| 14 | [ggerganov](https://github.com/ggerganov) | Georgi Gerganov | Sofia, Bulgaria | 4,253 |
+| 15 | [ldilov](https://github.com/ldilov) | Lazar Dilov | Bulgaria, Sofia | 4,123 |
+| 16 | [bobikenobi12](https://github.com/bobikenobi12) | Borislav Borisov | Sofia, Bulgaria | 4,054 |
+| 17 | [DonKoko](https://github.com/DonKoko) | Nikolay Bonev | Sofia, Bulgaria | 3,949 |
+| 18 | [d4rkfella](https://github.com/d4rkfella) | Georgi Panov | Sofia, Bulgaria | 3,448 |
+| 19 | [PetarKirov](https://github.com/PetarKirov) | Petar Kirov | Sofia, Bulgaria | 3,364 |
+| 20 | [Madman10K](https://github.com/Madman10K) | Stanislav Vasilev | Sofia, Bulgaria | 3,332 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 14,088
 | 19 | [shanalikhan](https://github.com/shanalikhan) | Shan Khan | Bulgaria | 637 |
 | 20 | [RadoRado](https://github.com/RadoRado) | Radoslav Georgiev | Sofia | 631 |
 
-Generated: 2026-10-10T00:38:34.371Z
+Generated: 2026-10-10T01:59:35.808Z

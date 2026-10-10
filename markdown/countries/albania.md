@@ -55,8 +55,8 @@ Indexed users: 1,185
 | 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
 | 17 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 636 |
 | 18 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
-| 19 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 565 |
-| 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 532 |
+| 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 597 |
+| 20 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 565 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,185
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-10T00:29:53.595Z
+Generated: 2026-10-10T01:46:54.793Z

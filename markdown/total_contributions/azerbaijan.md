@@ -1,15 +1,15 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-10T00:34:54.088Z
+Generated: 2026-10-10T01:51:23.022Z
 
-Users: 5092
+Users: 5091
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [shahinpr](https://github.com/shahinpr) | Shahin Aliyev |  |  | Azerbaijan | 951933 |
 | 2 | [martian56](https://github.com/martian56) | Martian | @Alievs-corp |  | Azerbaijan | 24250 |
-| 3 | [ruslanabdullayev01](https://github.com/ruslanabdullayev01) | Ruslan Abdullayev |  |  | Azerbaijan | 10183 |
-| 4 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam |  |  | Azerbaijan | 8561 |
+| 3 | [nazarli-shabnam](https://github.com/nazarli-shabnam) | Shabnam |  |  | Azerbaijan | 8561 |
+| 4 | [ruslanabdullayev01](https://github.com/ruslanabdullayev01) | Ruslan Abdullayev |  |  | Azerbaijan | 8556 |
 | 5 | [RavanGuliyeff](https://github.com/RavanGuliyeff) | Ravan Guliyev |  |  | Baku | 8410 |
 | 6 | [SuleimanHajizadeh](https://github.com/SuleimanHajizadeh) | Suleiman Hajizadeh | Western Caspian University  |  | Azerbaijan, Baku | 8264 |
 | 7 | [BaxtiyarMammadyarov](https://github.com/BaxtiyarMammadyarov) | Baxtiyar Mammadyarov | Chevveek LLC |  | Azerbaijan, Baku | 8065 |

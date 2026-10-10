@@ -1,6 +1,6 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-10T00:15:31.198Z
+Generated: 2026-10-10T01:33:50.651Z
 
 Users: 859
 
@@ -8,7 +8,7 @@ Users: 859
 |---:|---|---|---|---|---|---:|
 | 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 8466 |
 | 2 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7648 |
-| 3 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman | Zifala Technologies | moha_a_osman | Mogadishu, Banaadir, Somalia | 7329 |
+| 3 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman |  | moha_a_osman | Mogadishu, Banaadir, Somalia | 7482 |
 | 4 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 6473 |
 | 5 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 6403 |
 | 6 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 5953 |

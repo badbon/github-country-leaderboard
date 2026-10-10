@@ -1,15 +1,15 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-10T00:38:10.630Z
+Generated: 2026-10-10T01:57:25.080Z
 
 Users: 1786
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 25275 |
-| 2 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2706 |
-| 3 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 2621 |
-| 4 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2576 |
+| 2 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 2621 |
+| 3 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2576 |
+| 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2567 |
 | 5 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi |  |  | Bolivia | 2280 |
 | 6 | [ldgd2](https://github.com/ldgd2) | Lider |  |  | Bolivia | 2241 |
 | 7 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 1684 |

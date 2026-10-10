@@ -29,7 +29,7 @@ Indexed users: 236
 | 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 745 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 545 |
-| 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 538 |
+| 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 539 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 322 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 292 |
 
@@ -39,7 +39,7 @@ Indexed users: 236
 |---:|---|---|---|---:|
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 974 |
 | 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 322 |
-| 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 309 |
+| 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 308 |
 | 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 292 |
 | 5 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 159 |
 | 6 | [zotz](https://github.com/zotz) | drew Roberts | Nassau, Bahamas | 145 |
@@ -69,7 +69,7 @@ Indexed users: 236
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | bahamas | 50 |
 | 6 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 38 |
 | 7 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
-| 8 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 35 |
+| 8 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 36 |
 | 9 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | Nassau, Bahamas | 28 |
 | 10 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Bahamas | 26 |
 | 11 | [Azure2020](https://github.com/Azure2020) |  | Bahamas  | 22 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-10T00:35:31.001Z
+Generated: 2026-10-10T01:51:59.247Z

@@ -29,9 +29,9 @@ Indexed users: 25,904
 | 15 | [HoangTran0410](https://github.com/HoangTran0410) | Hoang Tran | Viet Nam | 18,080 |
 | 16 | [kondo-masaki](https://github.com/kondo-masaki) | Kondo Masaki | Ho Chi Minh City, Vietnam | 17,193 |
 | 17 | [nhattran998](https://github.com/nhattran998) | Nhat Tran | VietNam | 17,028 |
-| 18 | [tuha263](https://github.com/tuha263) | Hoàng Anh Tú | Vietnam | 16,549 |
-| 19 | [JOY](https://github.com/JOY) | JOY | Vietnam | 16,457 |
-| 20 | [JustinChasez](https://github.com/JustinChasez) | Justin Nguyễn | Vietnam | 15,674 |
+| 18 | [huyphamcs](https://github.com/huyphamcs) | Huy (Anderson) Pham | Ho Chi Minh City, Vietnam | 16,998 |
+| 19 | [tuha263](https://github.com/tuha263) | Hoàng Anh Tú | Vietnam | 16,549 |
+| 20 | [JOY](https://github.com/JOY) | JOY | Vietnam | 16,457 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 25,904
 | 19 | [paulnguyen-mn](https://github.com/paulnguyen-mn) | Paul Nguyen | HCMC, Vietnam | 1,087 |
 | 20 | [qnblackcat](https://github.com/qnblackcat) | Nguyễn Đạt | Vietnam | 1,033 |
 
-Generated: 2026-10-10T01:01:04.958Z
+Generated: 2026-10-10T01:45:08.927Z

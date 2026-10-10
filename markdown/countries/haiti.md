@@ -14,14 +14,14 @@ Indexed users: 339
 |---:|---|---|---|---:|
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,544 |
 | 2 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 5,482 |
-| 3 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,733 |
+| 3 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,742 |
 | 4 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,591 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,531 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,416 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Haiti | 2,353 |
-| 8 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,340 |
+| 8 | [bogosla](https://github.com/bogosla) | James Destiné | Haiti | 2,349 |
 | 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 2,259 |
-| 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,847 |
+| 10 | [Nicaisse](https://github.com/Nicaisse) | Nicaisse Bryan  | Port-au-Prince | 1,850 |
 | 11 | [youko509](https://github.com/youko509) |  Erico Saint-Charles | Haiti | 1,785 |
 | 12 | [kingsGuillaume99](https://github.com/kingsGuillaume99) | Guillaume Kingsley | Port-au-Prince , Haiti | 1,752 |
 | 13 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | Port-au-prince, Haïti | 1,709 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-10T00:57:24.870Z
+Generated: 2026-10-10T02:18:26.074Z

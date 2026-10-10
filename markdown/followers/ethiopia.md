@@ -1,6 +1,6 @@
 # Followers - Ethiopia
 
-Generated: 2026-10-10T00:57:44.864Z
+Generated: 2026-10-10T02:09:35.659Z
 
 Users: 6708
 
@@ -11,10 +11,10 @@ Users: 6708
 | 3 | [Makitey](https://github.com/Makitey) | Makda Abraham |  | Maki_Weldem | Addis Ababa | 2881 |
 | 4 | [Emakiflom](https://github.com/Emakiflom) | Aman Kflom |  | AmanKflom | Addis Ababa | 2617 |
 | 5 | [Ruth12mak](https://github.com/Ruth12mak) | Ruth Simon | Freelancer |  | Addis Ababa  | 2239 |
-| 6 | [devefy](https://github.com/devefy) | Abdulkerim Hamid |  |  | Ethiopia, Adama | 1523 |
-| 7 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 1508 |
-| 8 | [Yonatankinfe](https://github.com/Yonatankinfe) | Yonatan Kinfe | Tekhaf Trading PLC | Yonatankinfe_B | Ethiopia/Addis Ababa | 1173 |
-| 9 | [bayisagit](https://github.com/bayisagit) | Bayisa Daba | Addis Ababa Science And Technology University |  | Addis Ababa Ethiopia | 1137 |
+| 6 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Adama Science and Technology University | alemu_geme88545 | Ethiopia | 1567 |
+| 7 | [devefy](https://github.com/devefy) | Abdulkerim Hamid |  |  | Ethiopia, Adama | 1523 |
+| 8 | [Yonatankinfe](https://github.com/Yonatankinfe) | Yonatan Kinfe | Tekhaf Trading PLC | Yonatankinfe_B | Ethiopia/Addis Ababa | 1157 |
+| 9 | [bayisagit](https://github.com/bayisagit) | Bayisa Daba | Addis Ababa Science And Technology University |  | Addis Ababa Ethiopia | 1124 |
 | 10 | [Nathanage3](https://github.com/Nathanage3) | Nathan Hailu |  | nattthy954 | Addis Ababa, Ethiopia | 1112 |
 | 11 | [codingWithElias](https://github.com/codingWithElias) | Elias Yasin | @codingWithElias |  | Alem Gena, Ethiopia | 799 |
 | 12 | [dagmawibabi](https://github.com/dagmawibabi) | Dagmawi Babi | Dream Intelligence | DagmawiBabi | Addis Ababa, Ethiopia | 774 |
