@@ -11275,8 +11275,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 321,
-    "publicContributions": 42,
+    "privateContributions": 174,
+    "publicContributions": 37,
     "createdAt": "2023-11-28T14:34:56Z"
   },
   {
@@ -11286,9 +11286,9 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 53,
-    "publicContributions": 69,
+    "followers": 15,
+    "privateContributions": 92,
+    "publicContributions": 72,
     "createdAt": "2023-08-18T21:26:08Z"
   },
   {
@@ -11299,8 +11299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 219,
-    "publicContributions": 2033,
+    "privateContributions": 396,
+    "publicContributions": 2053,
     "createdAt": "2023-06-16T10:05:40Z"
   },
   {
@@ -11347,7 +11347,7 @@
     "company": "@fightclubaz",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 8,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2023-10-02T11:28:54Z"
   },
@@ -11358,7 +11358,7 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 13,
     "createdAt": "2022-12-28T14:59:17Z"
@@ -11368,9 +11368,9 @@
     "name": "Amina Mehdiyeva",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143205569?s=72&v=4",
     "location": "Baku, Azerbaijan",
-    "company": "",
+    "company": "EPAM Systems, Inc.",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-25T15:38:49Z"
@@ -11396,7 +11396,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 73,
     "createdAt": "2023-02-14T07:45:27Z"
   },
   {
@@ -11406,9 +11406,9 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "nihadtaghiyev",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 217,
+    "publicContributions": 170,
     "createdAt": "2023-11-25T18:07:41Z"
   },
   {
@@ -11432,7 +11432,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 723,
+    "publicContributions": 777,
     "createdAt": "2023-01-27T18:46:20Z"
   },
   {
@@ -11455,7 +11455,7 @@
     "company": "Proxima Cybersecurity LLC",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 55,
+    "privateContributions": 54,
     "publicContributions": 0,
     "createdAt": "2023-02-05T14:53:15Z"
   },
@@ -11480,20 +11480,8 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 38,
     "createdAt": "2023-08-22T19:22:08Z"
-  },
-  {
-    "login": "kenanmusali",
-    "name": "Kenan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149934213?s=72&u=4ab0a9f9e7936b640df0896f41d33740b6300165&v=4",
-    "location": "Baku, Azerbaijan",
-    "company": "Absheron Logistics Center",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 99,
-    "publicContributions": 3994,
-    "createdAt": "2023-11-05T09:20:39Z"
   },
   {
     "login": "abdullayevemil",
@@ -11502,9 +11490,9 @@
     "location": "Baku, Azerbaijan",
     "company": "Baku Higher Oil School",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 1228,
-    "publicContributions": 86,
+    "followers": 10,
+    "privateContributions": 1671,
+    "publicContributions": 96,
     "createdAt": "2023-09-06T14:53:26Z"
   },
   {

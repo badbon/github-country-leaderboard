@@ -11479,7 +11479,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
+    "privateContributions": 2,
     "publicContributions": 16,
     "createdAt": "2016-02-07T17:59:41Z"
   },
@@ -11504,7 +11504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 227,
     "createdAt": "2016-06-28T06:31:49Z"
   },
   {
@@ -11538,7 +11538,7 @@
     "location": "Tegucigalpa, Honduras",
     "company": "Plasencia Tabacos S.A.",
     "twitterUsername": "",
-    "followers": 148,
+    "followers": 146,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2015-10-29T02:16:33Z"
@@ -11556,26 +11556,14 @@
     "createdAt": "2015-09-22T00:19:50Z"
   },
   {
-    "login": "AntonioCardenas",
-    "name": "Antonio Cardenas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11583391?s=72&u=3bee102dd8138293914711cc4ce924bc0cd66ea1&v=4",
-    "location": "Honduras",
-    "company": "",
-    "twitterUsername": "yeoudev",
-    "followers": 70,
-    "privateContributions": 473,
-    "publicContributions": 140,
-    "createdAt": "2015-03-21T08:33:40Z"
-  },
-  {
     "login": "edsantoshn",
     "name": "Edu Santos Paz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/14339004?s=72&u=6e69490580f9bd99b9312706b7293324dd25d734&v=4",
     "location": "Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 56,
-    "privateContributions": 3347,
+    "followers": 55,
+    "privateContributions": 2349,
     "publicContributions": 0,
     "createdAt": "2015-09-17T23:14:09Z"
   },
@@ -11586,8 +11574,8 @@
     "location": "Valle de Ángeles, Honduras",
     "company": "@seis-inc",
     "twitterUsername": "rnvdrs",
-    "followers": 37,
-    "privateContributions": 926,
+    "followers": 40,
+    "privateContributions": 1275,
     "publicContributions": 7,
     "createdAt": "2015-01-23T01:33:34Z"
   },
@@ -11599,7 +11587,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 936,
+    "privateContributions": 1058,
     "publicContributions": 0,
     "createdAt": "2015-04-30T01:36:33Z"
   },
@@ -11610,9 +11598,9 @@
     "location": "San Pedro Sula, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 195,
-    "publicContributions": 418,
+    "followers": 26,
+    "privateContributions": 170,
+    "publicContributions": 415,
     "createdAt": "2015-07-29T22:38:29Z"
   },
   {
@@ -11623,8 +11611,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 1725,
-    "publicContributions": 10,
+    "privateContributions": 2034,
+    "publicContributions": 8,
     "createdAt": "2015-08-19T17:10:28Z"
   },
   {
@@ -11634,9 +11622,9 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "guitartsword",
-    "followers": 18,
-    "privateContributions": 1634,
-    "publicContributions": 21,
+    "followers": 19,
+    "privateContributions": 2560,
+    "publicContributions": 26,
     "createdAt": "2015-04-22T17:01:45Z"
   },
   {
@@ -11647,7 +11635,7 @@
     "company": "",
     "twitterUsername": "roberto_627",
     "followers": 14,
-    "privateContributions": 205,
+    "privateContributions": 207,
     "publicContributions": 0,
     "createdAt": "2015-02-19T14:44:03Z"
   },
@@ -11671,8 +11659,8 @@
     "company": "",
     "twitterUsername": "reajuria",
     "followers": 13,
-    "privateContributions": 2327,
-    "publicContributions": 3,
+    "privateContributions": 2859,
+    "publicContributions": 9,
     "createdAt": "2015-01-05T16:14:01Z"
   },
   {
@@ -11683,7 +11671,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 17,
+    "privateContributions": 10,
     "publicContributions": 6,
     "createdAt": "2015-12-02T16:25:14Z"
   },

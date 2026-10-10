@@ -341046,7 +341046,7 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 103,
     "createdAt": "2026-05-27T20:49:59Z"
@@ -341506,5 +341506,65 @@
     "privateContributions": 509,
     "publicContributions": 1661,
     "createdAt": "2024-02-02T21:02:11Z"
+  },
+  {
+    "login": "ana1code",
+    "name": "Ana Sergio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285774585?s=72&v=4",
+    "location": "lisbon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-05-18T17:48:21Z"
+  },
+  {
+    "login": "aida-bal",
+    "name": "Aida Balboa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295361907?s=72&u=2457d7ef2da12d61ce916dcc74543b6f83445d1e&v=4",
+    "location": "Lisbon",
+    "company": "Freelance",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 141,
+    "publicContributions": 6,
+    "createdAt": "2026-06-20T12:24:08Z"
+  },
+  {
+    "login": "Assassino-de-aluguel",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288080110?s=72&u=7518b30416fdf21f5b626ae31bf0e2026a8744fd&v=4",
+    "location": "Lisbon",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-26T16:37:05Z"
+  },
+  {
+    "login": "Digit-Git-Hub",
+    "name": "Digit",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285510557?s=72&u=735b25be33979fcbe0711431b0e3f5da57c03b35&v=4",
+    "location": "Lisbon",
+    "company": "Digit",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 78,
+    "createdAt": "2026-05-17T21:30:40Z"
+  },
+  {
+    "login": "DingleyIT",
+    "name": "The Dingley Press",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292181872?s=72&u=2b327aecda0a4737f06ea7f73df59a501a8ecfed&v=4",
+    "location": "119 Lisbon Street Lisbon ME 04252",
+    "company": "The Dingley Press",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-09T16:35:30Z"
   }
 ]

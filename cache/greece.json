@@ -11358,21 +11358,21 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 46,
     "createdAt": "2024-12-15T19:04:32Z"
   },
   {
     "login": "AnasMertz",
     "name": "Anastasios Mertzanis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166212152?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166212152?s=72&u=4f40f71f241516d9cdaf749826c5b3cc5aaeda85&v=4",
     "location": "Athens,Greece",
     "company": "KPMG",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-04-06T09:00:58Z"
   },
   {
@@ -11408,7 +11408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 20,
     "createdAt": "2024-05-03T09:56:32Z"
   },
   {
@@ -11419,8 +11419,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 57,
-    "publicContributions": 76,
+    "privateContributions": 41,
+    "publicContributions": 151,
     "createdAt": "2024-12-24T03:06:52Z"
   },
   {
@@ -11478,8 +11478,8 @@
     "location": "Athens, Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 108,
+    "followers": 2,
+    "privateContributions": 71,
     "publicContributions": 89,
     "createdAt": "2024-10-05T12:55:54Z"
   },
@@ -11540,20 +11540,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 35,
     "createdAt": "2024-05-29T20:51:58Z"
-  },
-  {
-    "login": "ntua-el20224",
-    "name": "Kounelli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184220209?s=72&u=ee4fe21779771ee0d991f98c537882c4fa9292e1&v=4",
-    "location": "Athens, Greece",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-10-08T09:51:48Z"
   },
   {
     "login": "klokal",

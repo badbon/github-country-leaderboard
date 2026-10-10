@@ -10328,7 +10328,7 @@
     "twitterUsername": "",
     "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2024-03-19T21:41:53Z"
   },
   {
@@ -10338,9 +10338,9 @@
     "location": "Stockholm, Sweden",
     "company": "Technical Unity",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 779,
-    "publicContributions": 62,
+    "followers": 25,
+    "privateContributions": 739,
+    "publicContributions": 60,
     "createdAt": "2024-08-25T15:02:35Z"
   },
   {
@@ -10350,7 +10350,7 @@
     "location": "sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-11T18:14:53Z"
@@ -10363,8 +10363,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 244,
-    "publicContributions": 49,
+    "privateContributions": 345,
+    "publicContributions": 46,
     "createdAt": "2024-04-12T22:00:31Z"
   },
   {
@@ -10386,9 +10386,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 25,
-    "publicContributions": 352,
+    "followers": 21,
+    "privateContributions": 41,
+    "publicContributions": 364,
     "createdAt": "2024-12-07T06:59:54Z"
   },
   {
@@ -10398,9 +10398,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 103,
+    "publicContributions": 98,
     "createdAt": "2024-08-19T11:56:55Z"
   },
   {
@@ -10410,7 +10410,7 @@
     "location": "Stockholm, Sweden.",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 20,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2024-08-24T14:58:11Z"
@@ -10422,9 +10422,9 @@
     "location": "Köping, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 338,
-    "publicContributions": 393,
+    "followers": 18,
+    "privateContributions": 202,
+    "publicContributions": 406,
     "createdAt": "2024-09-02T08:53:39Z"
   },
   {
@@ -10435,8 +10435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 95,
-    "publicContributions": 370,
+    "privateContributions": 43,
+    "publicContributions": 348,
     "createdAt": "2024-09-30T12:07:07Z"
   },
   {
@@ -10446,9 +10446,9 @@
     "location": "Gothenburg, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 23,
-    "publicContributions": 222,
+    "followers": 17,
+    "privateContributions": 10,
+    "publicContributions": 203,
     "createdAt": "2024-11-01T15:28:40Z"
   },
   {
@@ -10458,9 +10458,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 443,
+    "publicContributions": 214,
     "createdAt": "2024-02-12T15:46:28Z"
   },
   {
@@ -10472,7 +10472,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 137,
     "createdAt": "2024-02-05T10:01:01Z"
   },
   {
@@ -10483,20 +10483,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 99,
-    "publicContributions": 162,
+    "privateContributions": 12,
+    "publicContributions": 67,
     "createdAt": "2024-10-01T14:55:15Z"
   },
   {
     "login": "EmilHakanzon",
     "name": "Emil Håkanzon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/166286375?s=72&u=ce04cbb2459000fefb1dd082acad2a0cbfed3106&v=4",
-    "location": "Sweden",
+    "location": "Borås, Sweden",
     "company": "Care of Carl",
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 74,
     "createdAt": "2024-04-07T08:04:46Z"
   },
   {
@@ -10507,20 +10507,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 3,
-    "publicContributions": 685,
+    "privateContributions": 2,
+    "publicContributions": 815,
     "createdAt": "2024-07-13T07:50:01Z"
   },
   {
     "login": "ellarhur",
     "name": "Ella Åkesson Hummerdal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185043761?s=72&u=814531237d9eb948f6388a8c787e51fb0bca82f0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185043761?s=72&u=e9dca80c73113705f10b9c695c4a9c5865711e36&v=4",
     "location": "Huskvarna, Sweden",
     "company": "Sogeti",
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 294,
+    "publicContributions": 240,
     "createdAt": "2024-10-15T07:44:48Z"
   },
   {
@@ -10530,9 +10530,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 872,
+    "publicContributions": 850,
     "createdAt": "2024-02-05T11:45:44Z"
   },
   {
@@ -10543,8 +10543,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 45,
-    "publicContributions": 282,
+    "privateContributions": 0,
+    "publicContributions": 203,
     "createdAt": "2024-09-30T09:39:33Z"
   },
   {
@@ -10556,7 +10556,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 97,
     "createdAt": "2024-04-05T19:19:59Z"
   },
   {

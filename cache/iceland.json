@@ -11156,7 +11156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 157,
     "createdAt": "2014-10-31T00:17:19Z"
   },
   {
@@ -11178,7 +11178,7 @@
     "location": "Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-05-20T19:57:30Z"
@@ -11252,7 +11252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2014-05-04T16:10:18Z"
   },
   {
@@ -11263,8 +11263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1402,
-    "publicContributions": 143,
+    "privateContributions": 2058,
+    "publicContributions": 287,
     "createdAt": "2014-09-24T17:08:14Z"
   },
   {
@@ -11288,13 +11288,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2014-02-10T11:12:41Z"
   },
   {
     "login": "bjornolafur",
     "name": "Björn Ingvarsson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8503046?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8503046?s=72&u=3dbaabb5fe23abe7cb9e6c372d6285956b1ed0af&v=4",
     "location": "Iceland",
     "company": "Exigo ",
     "twitterUsername": "",
@@ -11336,7 +11336,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2014-01-23T08:34:36Z"
   },
   {
@@ -11371,7 +11371,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 943,
+    "privateContributions": 923,
     "publicContributions": 0,
     "createdAt": "2014-08-24T14:32:26Z"
   },

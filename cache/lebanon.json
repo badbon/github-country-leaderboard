@@ -11419,8 +11419,8 @@
     "company": "",
     "twitterUsername": "HadyZellaya",
     "followers": 2,
-    "privateContributions": 1599,
-    "publicContributions": 61,
+    "privateContributions": 1827,
+    "publicContributions": 26,
     "createdAt": "2022-08-13T15:26:56Z"
   },
   {
@@ -11444,13 +11444,13 @@
     "twitterUsername": "soupzachary",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 3,
     "createdAt": "2022-06-15T06:54:03Z"
   },
   {
     "login": "Anthony20602",
     "name": "AnthonyMassaad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112924567?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112924567?s=72&u=edeb68e1ebea927520f4c6a51b8722d4ecf308ef&v=4",
     "location": "Lebanon",
     "company": "MEDCO S.A.L",
     "twitterUsername": "",
@@ -11458,18 +11458,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-09-06T05:28:44Z"
-  },
-  {
-    "login": "NoussaybaJrad",
-    "name": "Noussayba ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108062629?s=72&u=0e671019229927ae705bf2f2be0f41fc2a38a1ac&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 59,
-    "createdAt": "2022-06-23T09:55:03Z"
   },
   {
     "login": "mohamad-melhem",
@@ -11485,14 +11473,14 @@
   },
   {
     "login": "Hadi-AlKammouni",
-    "name": "Hadi Al Kammouni ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/105301602?s=72&u=c55c6c7d28e353d655b8e8a8fef229bd055b0d41&v=4",
-    "location": "Lebanon / Beirut",
+    "name": "Hadi Al Kammouni",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/105301602?s=72&u=33ccd4cd493599a6ce6c6be9732be8db8cd3fd8c&v=4",
+    "location": "Beirut, Lebanon",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 111,
     "createdAt": "2022-05-10T15:00:04Z"
   },
   {
@@ -11552,7 +11540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 151,
     "createdAt": "2022-12-26T19:32:48Z"
   },
   {
@@ -11563,7 +11551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 81,
+    "privateContributions": 80,
     "publicContributions": 0,
     "createdAt": "2022-09-28T14:44:55Z"
   },
@@ -11575,7 +11563,7 @@
     "company": "@IncodingDev ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3713,
+    "privateContributions": 3529,
     "publicContributions": 0,
     "createdAt": "2022-08-11T06:35:03Z"
   },

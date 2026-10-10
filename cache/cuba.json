@@ -11336,7 +11336,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 40,
     "createdAt": "2019-09-26T20:35:32Z"
   },
   {
@@ -11360,7 +11360,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2019-01-16T20:35:14Z"
   },
   {
@@ -11372,20 +11372,8 @@
     "twitterUsername": "JosuePortal",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 54,
     "createdAt": "2019-03-15T19:04:20Z"
-  },
-  {
-    "login": "adelbrc",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56926141?s=72&u=951a8387ed6ae14caabd67078bb7be6c2d8cfb8a&v=4",
-    "location": "La Habana, Cuba",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-10-23T14:11:11Z"
   },
   {
     "login": "theone89",
@@ -11395,7 +11383,7 @@
     "company": "OC EMCOMED",
     "twitterUsername": "franklinc8907",
     "followers": 3,
-    "privateContributions": 0,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2019-10-22T19:41:42Z"
   },
@@ -11419,7 +11407,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1094,
+    "privateContributions": 1097,
     "publicContributions": 0,
     "createdAt": "2019-06-10T03:41:28Z"
   },
@@ -11430,9 +11418,9 @@
     "location": "Habana, Cuba",
     "company": "Soluciones HR",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 16,
     "createdAt": "2019-04-26T11:48:16Z"
   },
   {
@@ -11479,7 +11467,7 @@
     "company": "",
     "twitterUsername": "denis_francia",
     "followers": 2,
-    "privateContributions": 847,
+    "privateContributions": 871,
     "publicContributions": 32,
     "createdAt": "2019-08-29T01:08:55Z"
   },
@@ -11504,7 +11492,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 75,
     "createdAt": "2019-03-17T03:47:10Z"
   },
   {
@@ -11514,9 +11502,9 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1440,
-    "publicContributions": 86,
+    "followers": 5,
+    "privateContributions": 1744,
+    "publicContributions": 84,
     "createdAt": "2019-12-06T05:49:21Z"
   },
   {
@@ -11539,20 +11527,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1737,
-    "publicContributions": 10,
+    "privateContributions": 4679,
+    "publicContributions": 6,
     "createdAt": "2019-11-06T16:44:45Z"
   },
   {
     "login": "acosta-dev",
     "name": "Orelbi Acosta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55179826?s=72&u=5e9915d369dc4f5b67b56205f1573e0402beb330&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/55179826?s=72&u=550f9644ad5e7ff53d29ac22a3eeaf22390feb46&v=4",
     "location": "Cuba",
     "company": "",
     "twitterUsername": "AcostaOrelbi",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-09-11T07:14:21Z"
   },
   {
