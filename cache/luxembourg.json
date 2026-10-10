@@ -10615,8 +10615,8 @@
     "company": "",
     "twitterUsername": "sirilteja",
     "followers": 2,
-    "privateContributions": 13,
-    "publicContributions": 26,
+    "privateContributions": 7,
+    "publicContributions": 40,
     "createdAt": "2018-12-08T04:47:57Z"
   },
   {
@@ -10627,8 +10627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 51,
-    "publicContributions": 86,
+    "privateContributions": 50,
+    "publicContributions": 79,
     "createdAt": "2018-08-14T16:08:34Z"
   },
   {
@@ -10674,7 +10674,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-02-26T10:56:47Z"
@@ -10699,8 +10699,8 @@
     "company": "Deloitte",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 584,
+    "privateContributions": 248,
+    "publicContributions": 509,
     "createdAt": "2018-12-15T21:30:47Z"
   },
   {
@@ -10728,18 +10728,6 @@
     "createdAt": "2018-03-05T16:15:35Z"
   },
   {
-    "login": "gilbycoyote",
-    "name": "Gilbert Muller",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36110336?s=72&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-02-03T17:11:21Z"
-  },
-  {
     "login": "robertonoosphere",
     "name": "Roberto Entringer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/44157090?s=72&u=f5e630553aa9c76cc73b9f48efb88101df1b1f50&v=4",
@@ -10760,7 +10748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 47,
     "createdAt": "2018-02-01T14:08:50Z"
   },
   {
@@ -26410,5 +26398,41 @@
     "privateContributions": 118,
     "publicContributions": 632,
     "createdAt": "2020-11-15T17:50:03Z"
+  },
+  {
+    "login": "wimgoossens-dev",
+    "name": "Wim Goossens",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291154462?s=72&u=6aa3233cbaa1f0edcf8e53fe77990b435bba340b&v=4",
+    "location": "Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 0,
+    "publicContributions": 261,
+    "createdAt": "2026-06-05T21:13:32Z"
+  },
+  {
+    "login": "TEC-LUDOVICO-PARISI",
+    "name": "Ludovico Parsi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286617405?s=72&v=4",
+    "location": "Luxembourg",
+    "company": "The Exploration Company",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-21T09:38:03Z"
+  },
+  {
+    "login": "gene-pauly",
+    "name": "Gene Pauly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287933227?s=72&u=d30aa4a42afd8fc34ef915426c3f1c7f15017b70&v=4",
+    "location": "Luxembourg",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 674,
+    "publicContributions": 20,
+    "createdAt": "2026-05-26T08:08:48Z"
   }
 ]

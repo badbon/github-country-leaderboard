@@ -2336,7 +2336,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 193,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2021-11-28T08:12:11Z"
   },
   {
@@ -2352,18 +2352,6 @@
     "createdAt": "2021-10-14T03:18:34Z"
   },
   {
-    "login": "TheLuther404",
-    "name": "luther",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94040486?s=72&u=36edb07df07d7e0f66f2ac1def2be8bd78ff1420&v=4",
-    "location": "Mauritius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2021-11-10T07:49:00Z"
-  },
-  {
     "login": "thatstraw",
     "name": "Traw",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61482810?s=72&u=33672b13de8dddbebae4ed9438acdeac262a13d7&v=4",
@@ -2371,7 +2359,7 @@
     "company": "GotechMu",
     "twitterUsername": "thatstraw",
     "followers": 584,
-    "privateContributions": 1050,
+    "privateContributions": 1040,
     "publicContributions": 71,
     "createdAt": "2020-02-26T01:03:15Z"
   },

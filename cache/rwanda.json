@@ -10807,8 +10807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
+    "privateContributions": 22,
+    "publicContributions": 28,
     "createdAt": "2024-05-08T09:49:49Z"
   },
   {
@@ -10820,7 +10820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 53,
     "createdAt": "2024-03-25T16:34:22Z"
   },
   {
@@ -10832,7 +10832,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2024-08-24T21:22:03Z"
   },
   {
@@ -10842,9 +10842,9 @@
     "location": "Kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 282,
+    "publicContributions": 361,
     "createdAt": "2024-09-02T10:53:53Z"
   },
   {
@@ -10854,7 +10854,7 @@
     "location": "KN8 KG 208 St, Kigali",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-10-14T08:32:25Z"
@@ -10866,9 +10866,9 @@
     "location": "Kigali, Rwanda",
     "company": "AllanCorp",
     "twitterUsername": "",
-    "followers": 993,
-    "privateContributions": 1704,
-    "publicContributions": 142,
+    "followers": 974,
+    "privateContributions": 1627,
+    "publicContributions": 186,
     "createdAt": "2023-06-05T15:51:44Z"
   },
   {
@@ -10878,9 +10878,9 @@
     "location": "Kigali Rwanda",
     "company": "@gokabisa",
     "twitterUsername": "ProgrammerDATCH",
-    "followers": 895,
-    "privateContributions": 5890,
-    "publicContributions": 51,
+    "followers": 896,
+    "privateContributions": 8369,
+    "publicContributions": 63,
     "createdAt": "2023-03-16T16:34:55Z"
   },
   {
@@ -10889,10 +10889,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/130182097?s=72&u=75b0a61433d3bd2d59895827ec578d7fec8076b3&v=4",
     "location": "rwanda",
     "company": "",
-    "twitterUsername": "",
-    "followers": 315,
-    "privateContributions": 1062,
-    "publicContributions": 495,
+    "twitterUsername": "Shemaelie97",
+    "followers": 314,
+    "privateContributions": 1098,
+    "publicContributions": 576,
     "createdAt": "2023-04-07T19:39:06Z"
   },
   {
@@ -10902,33 +10902,33 @@
     "location": "Rwanda-Kigali",
     "company": "@Echo-Sols-Ltd",
     "twitterUsername": "",
-    "followers": 314,
-    "privateContributions": 1983,
-    "publicContributions": 1968,
+    "followers": 357,
+    "privateContributions": 1396,
+    "publicContributions": 2667,
     "createdAt": "2023-11-19T20:49:22Z"
   },
   {
     "login": "Manzi-Elvis",
-    "name": "Elvis Manzi Rurangirwa",
+    "name": "Elvis Manzi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141098290?s=72&u=413dc6a4c3fe7a93879406a43f34cccb5ea09ae4&v=4",
     "location": "Rwanda",
     "company": "MiCorp",
     "twitterUsername": "_MRElvis_",
-    "followers": 306,
-    "privateContributions": 1059,
-    "publicContributions": 5827,
+    "followers": 299,
+    "privateContributions": 1016,
+    "publicContributions": 6117,
     "createdAt": "2023-08-01T02:05:41Z"
   },
   {
     "login": "njosuedev",
     "name": "NIYOMWUNGERI Josue",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149709646?s=72&u=b2d963ffd15555744dbc056ab3c7294185cc766a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149709646?s=72&u=e8f618665d84e4acc99be740cff421747e172bcc&v=4",
     "location": "kigali,Rwanda",
     "company": "higoverse",
     "twitterUsername": "njosuedev",
-    "followers": 224,
-    "privateContributions": 1204,
-    "publicContributions": 44,
+    "followers": 219,
+    "privateContributions": 1193,
+    "publicContributions": 629,
     "createdAt": "2023-11-02T17:12:53Z"
   },
   {
@@ -10938,9 +10938,9 @@
     "location": "Kigali, Rwanda",
     "company": "African Leadership University",
     "twitterUsername": "",
-    "followers": 146,
-    "privateContributions": 403,
-    "publicContributions": 1918,
+    "followers": 154,
+    "privateContributions": 445,
+    "publicContributions": 2099,
     "createdAt": "2023-02-22T14:54:28Z"
   },
   {
@@ -10950,21 +10950,21 @@
     "location": "Kigali Rwanda",
     "company": "@Ebyte-Lab @Shinobi-Open-Source-Academy ",
     "twitterUsername": "",
-    "followers": 141,
-    "privateContributions": 1137,
-    "publicContributions": 604,
+    "followers": 139,
+    "privateContributions": 1199,
+    "publicContributions": 572,
     "createdAt": "2023-05-24T10:33:39Z"
   },
   {
     "login": "KWIZERA-CALEB",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146452204?s=72&u=6856b376ce77c774ef485b6daab07d13c667edcd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146452204?s=72&u=ed162323c33c346abc4e0ed79fb072f725cd8a4a&v=4",
     "location": "Kigali, Rwanda",
     "company": "Trove Tech",
     "twitterUsername": "KwizeraCaleb",
-    "followers": 116,
-    "privateContributions": 514,
-    "publicContributions": 67,
+    "followers": 110,
+    "privateContributions": 475,
+    "publicContributions": 42,
     "createdAt": "2023-09-29T13:45:13Z"
   },
   {
@@ -10974,9 +10974,9 @@
     "location": "Kigali, Rwanda",
     "company": "Alx_Africa",
     "twitterUsername": "Niyibizi_Elyse",
-    "followers": 112,
-    "privateContributions": 765,
-    "publicContributions": 1827,
+    "followers": 115,
+    "privateContributions": 801,
+    "publicContributions": 1468,
     "createdAt": "2023-02-15T10:09:47Z"
   },
   {
@@ -10987,8 +10987,8 @@
     "company": "",
     "twitterUsername": "Nshuti_Kope",
     "followers": 108,
-    "privateContributions": 8,
-    "publicContributions": 748,
+    "privateContributions": 10,
+    "publicContributions": 789,
     "createdAt": "2023-09-22T12:07:40Z"
   },
   {
@@ -10999,8 +10999,8 @@
     "company": "Web3Mates",
     "twitterUsername": "",
     "followers": 92,
-    "privateContributions": 629,
-    "publicContributions": 226,
+    "privateContributions": 591,
+    "publicContributions": 304,
     "createdAt": "2023-11-14T11:06:16Z"
   },
   {
@@ -11010,9 +11010,9 @@
     "location": "Nyarugenge Kigali Rwanda",
     "company": "Engeneering Lab",
     "twitterUsername": "",
-    "followers": 91,
-    "privateContributions": 19,
-    "publicContributions": 497,
+    "followers": 79,
+    "privateContributions": 28,
+    "publicContributions": 541,
     "createdAt": "2023-01-24T10:02:30Z"
   },
   {
@@ -11022,9 +11022,9 @@
     "location": "Kigali,Rwanda",
     "company": "EchoSols  ",
     "twitterUsername": "shema_Leandre",
-    "followers": 84,
-    "privateContributions": 1286,
-    "publicContributions": 4338,
+    "followers": 89,
+    "privateContributions": 1243,
+    "publicContributions": 3661,
     "createdAt": "2023-10-08T09:36:45Z"
   },
   {

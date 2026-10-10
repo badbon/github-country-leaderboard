@@ -11012,7 +11012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2018-11-14T03:04:16Z"
   },
   {
@@ -11034,7 +11034,7 @@
     "location": "Managua, Nicaragua",
     "company": "Pasos al Exito",
     "twitterUsername": "MRomeroMojica",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-06-08T17:13:29Z"
@@ -11071,7 +11071,7 @@
     "company": "PlaybyPoint",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 191,
+    "privateContributions": 187,
     "publicContributions": 0,
     "createdAt": "2018-11-25T04:01:43Z"
   },
@@ -11155,7 +11155,7 @@
     "company": "@Nerdify",
     "twitterUsername": "ErwinVM01",
     "followers": 11,
-    "privateContributions": 678,
+    "privateContributions": 671,
     "publicContributions": 2,
     "createdAt": "2018-03-27T15:09:50Z"
   },
@@ -11179,8 +11179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 214,
-    "publicContributions": 14,
+    "privateContributions": 221,
+    "publicContributions": 13,
     "createdAt": "2018-03-06T22:06:01Z"
   },
   {
@@ -11192,13 +11192,13 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 147,
+    "publicContributions": 148,
     "createdAt": "2018-08-07T04:02:09Z"
   },
   {
     "login": "oquino",
     "name": "Oliver Milton Quino Carballo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44264104?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44264104?s=72&u=ffd53be3f79a00073f402b80a3f5949c15a4efde&v=4",
     "location": "Managua",
     "company": "Grupo Aganorsa",
     "twitterUsername": "",
@@ -11214,9 +11214,9 @@
     "location": "Managua, Nicaragua",
     "company": "@brevetech | LAFISE",
     "twitterUsername": "",
-    "followers": 39,
+    "followers": 35,
     "privateContributions": 37,
-    "publicContributions": 49,
+    "publicContributions": 100,
     "createdAt": "2017-01-19T20:30:04Z"
   },
   {
@@ -11226,21 +11226,21 @@
     "location": "Masaya, Nicaragua",
     "company": "Paxton AI",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 117,
+    "followers": 32,
+    "privateContributions": 162,
     "publicContributions": 2,
     "createdAt": "2017-04-06T00:18:46Z"
   },
   {
     "login": "Herald-Flores",
     "name": "Herald Flores",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26610741?s=72&u=be5385c3e0c30859356494ed5c0ecaea2ea44b83&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/26610741?s=72&u=1b2cc43f5a60c5bb50601f5fae0f7e88042f0bde&v=4",
     "location": "Estelí, Nicaragua",
     "company": "@Boombit-Agency @barrileteapp @Modern-WPress ",
     "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 621,
-    "publicContributions": 17,
+    "followers": 28,
+    "privateContributions": 752,
+    "publicContributions": 28,
     "createdAt": "2017-03-22T21:35:35Z"
   },
   {

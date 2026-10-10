@@ -10976,7 +10976,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2018-01-01T14:43:29Z"
   },
   {
@@ -11016,25 +11016,13 @@
     "createdAt": "2018-06-26T07:58:59Z"
   },
   {
-    "login": "ambiflextrous",
-    "name": "Nelson Xavier",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/38946066?s=72&u=73d908024b9e1d74eb11dfd4433d57f97e3be008&v=4",
-    "location": "Mozambique",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2018-05-03T11:48:05Z"
-  },
-  {
     "login": "nicolauMulungo",
     "name": "Nicolau Mulungo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38525892?s=72&u=727b5633d12e11ab7054a87dfb2abc64e6299df2&v=4",
     "location": "Maputo, Mozambique",
     "company": "UP",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-04-19T09:52:17Z"
@@ -11046,8 +11034,8 @@
     "location": "Mozambique",
     "company": "Beefactory | Casco",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 202,
+    "followers": 3,
+    "privateContributions": 116,
     "publicContributions": 0,
     "createdAt": "2018-07-08T18:52:50Z"
   },
@@ -11096,7 +11084,7 @@
     "twitterUsername": "FilipeD30920066",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 690,
+    "publicContributions": 944,
     "createdAt": "2018-09-12T13:58:18Z"
   },
   {
@@ -11120,7 +11108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2018-08-10T21:27:55Z"
   },
   {
@@ -11143,7 +11131,7 @@
     "company": "equipmoz",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 787,
+    "privateContributions": 980,
     "publicContributions": 12,
     "createdAt": "2018-07-20T17:35:55Z"
   },
@@ -11178,7 +11166,7 @@
     "location": "Maputo, Moçambique",
     "company": "@PaSoft-MZ ",
     "twitterUsername": "helinhojr10",
-    "followers": 32,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-17T20:44:19Z"
@@ -11191,7 +11179,7 @@
     "company": "@CEDSIF",
     "twitterUsername": "eltonnjulio",
     "followers": 30,
-    "privateContributions": 0,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2018-08-17T10:53:04Z"
   },

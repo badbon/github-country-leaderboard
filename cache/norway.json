@@ -10837,14 +10837,14 @@
   },
   {
     "login": "spectraneo",
-    "name": "Code Velocity",
+    "name": "Nicolas Anderson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/175766365?s=72&u=481cd019f1d6988a660eeb11e62228fda0b19f11&v=4",
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 11,
     "createdAt": "2024-07-17T01:28:33Z"
   },
   {
@@ -10890,9 +10890,9 @@
     "location": "Norge",
     "company": "Jobloop AS Lærling // Nordev AS ",
     "twitterUsername": "",
-    "followers": 59,
-    "privateContributions": 65,
-    "publicContributions": 228,
+    "followers": 60,
+    "privateContributions": 124,
+    "publicContributions": 293,
     "createdAt": "2023-06-20T07:25:50Z"
   },
   {
@@ -10903,8 +10903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 606,
-    "publicContributions": 273,
+    "privateContributions": 762,
+    "publicContributions": 303,
     "createdAt": "2023-10-21T16:11:44Z"
   },
   {
@@ -10951,8 +10951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
-    "publicContributions": 4,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-03-24T01:30:02Z"
   },
   {
@@ -10962,9 +10962,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 344,
+    "followers": 343,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 29,
     "createdAt": "2023-07-05T21:44:24Z"
   },
   {
@@ -10974,7 +10974,7 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 260,
+    "followers": 275,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2023-09-10T16:45:12Z"
@@ -10986,21 +10986,21 @@
     "location": "Tromsø, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 205,
-    "privateContributions": 17,
-    "publicContributions": 3,
+    "followers": 210,
+    "privateContributions": 70,
+    "publicContributions": 15,
     "createdAt": "2023-09-02T06:42:43Z"
   },
   {
     "login": "cihat-kose",
     "name": "Cihat Köse",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123509824?s=72&u=5434adad9c81856487ef1126421aed113360ace5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123509824?s=72&u=3395af9a673f474f6615646a493d132e5724bb8b&v=4",
     "location": "Trondheim, Trøndelag, Norway",
     "company": "Skatteetaten",
     "twitterUsername": "",
     "followers": 133,
-    "privateContributions": 60,
-    "publicContributions": 319,
+    "privateContributions": 31,
+    "publicContributions": 446,
     "createdAt": "2023-01-24T20:36:31Z"
   },
   {
@@ -11010,7 +11010,7 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 66,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-04T12:26:04Z"
@@ -11022,9 +11022,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
-    "privateContributions": 155,
-    "publicContributions": 1908,
+    "followers": 67,
+    "privateContributions": 134,
+    "publicContributions": 1858,
     "createdAt": "2023-04-01T07:28:25Z"
   },
   {
@@ -11034,9 +11034,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 65,
-    "privateContributions": 101,
-    "publicContributions": 16,
+    "followers": 73,
+    "privateContributions": 104,
+    "publicContributions": 18,
     "createdAt": "2023-12-18T08:57:52Z"
   },
   {
@@ -11046,22 +11046,10 @@
     "location": "Bergen, Norway",
     "company": "Jobloop",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 23,
-    "publicContributions": 57,
+    "followers": 39,
+    "privateContributions": 21,
+    "publicContributions": 38,
     "createdAt": "2023-09-18T06:58:23Z"
-  },
-  {
-    "login": "martinopedal",
-    "name": "Martin Opedal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150685542?s=72&u=7009a72dbc36f93fdf99c5c24ee0b75a4507a6a2&v=4",
-    "location": "Oslo, Norway",
-    "company": "@microsoft",
-    "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 3239,
-    "publicContributions": 3176,
-    "createdAt": "2023-11-13T13:20:56Z"
   },
   {
     "login": "Cheroptera",
@@ -11070,7 +11058,7 @@
     "location": "Vestfold, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 35,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-01-12T21:10:36Z"
