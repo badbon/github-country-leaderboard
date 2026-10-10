@@ -11120,7 +11120,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 46,
     "createdAt": "2019-02-24T20:16:23Z"
   },
   {
@@ -11132,7 +11132,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 1,
     "createdAt": "2019-10-31T10:17:40Z"
   },
   {
@@ -11155,7 +11155,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 561,
+    "privateContributions": 775,
     "publicContributions": 29,
     "createdAt": "2019-03-19T16:10:05Z"
   },
@@ -11196,18 +11196,6 @@
     "createdAt": "2019-11-05T06:55:02Z"
   },
   {
-    "login": "jozisatler",
-    "name": "Satler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54095559?s=72&v=4",
-    "location": "Slovenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 841,
-    "publicContributions": 53,
-    "createdAt": "2019-08-14T06:29:50Z"
-  },
-  {
     "login": "NikVogri",
     "name": "Nik Vogrinec",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55229210?s=72&u=a94dba13188a8d7adb1d6608e5c2ca86a90a6032&v=4",
@@ -11215,8 +11203,8 @@
     "company": "",
     "twitterUsername": "nikvogrinec",
     "followers": 3,
-    "privateContributions": 765,
-    "publicContributions": 9,
+    "privateContributions": 946,
+    "publicContributions": 7,
     "createdAt": "2019-09-12T07:07:36Z"
   },
   {
@@ -11251,7 +11239,7 @@
     "company": "Celtra",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2006,
+    "privateContributions": 2381,
     "publicContributions": 5,
     "createdAt": "2019-03-26T09:17:35Z"
   },
@@ -11300,7 +11288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 3,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2019-05-28T18:26:04Z"
   },
   {
@@ -11335,8 +11323,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 263,
-    "publicContributions": 66,
+    "privateContributions": 163,
+    "publicContributions": 71,
     "createdAt": "2019-03-22T15:23:38Z"
   },
   {
