@@ -1,12 +1,12 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-10T16:58:41.022Z
+Generated: 2026-10-10T23:36:03.310Z
 
-Users: 1936
+Users: 1935
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | EMIT Knowledge |  | Skopje | 13627 |
+| 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | EMIT Knowledge |  | Skopje | 21275 |
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  |  |  | Skopje, Macedonia | 9016 |
 | 3 | [bfzli](https://github.com/bfzli) | Benjamin |  | bfzli | North Macedonia | 7521 |
 | 4 | [fetijashari](https://github.com/fetijashari) | Feti Jashari | @fetosoft | fetijashari | Kumanovo, Macedonia | 6979 |

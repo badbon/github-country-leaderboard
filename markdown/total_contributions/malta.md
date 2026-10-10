@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-10T16:49:28.680Z
+Generated: 2026-10-10T23:23:38.928Z
 
 Users: 1226
 
@@ -22,7 +22,7 @@ Users: 1226
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7471 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
 | 16 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6234 |
-| 17 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |
-| 18 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5552 |
-| 19 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | @BetssonGroup  |  | Malta | 5523 |
-| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5272 |
+| 17 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5652 |
+| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |
+| 19 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5552 |
+| 20 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | @BetssonGroup  |  | Malta | 5523 |

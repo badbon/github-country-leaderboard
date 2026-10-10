@@ -66,7 +66,7 @@ Indexed users: 75
 | 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 35 |
 | 3 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide | martinique | 17 |
 | 4 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | Fort-de-France | 16 |
-| 5 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 15 |
+| 5 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 16 |
 | 6 | [jsrdescamps](https://github.com/jsrdescamps) | Julien Descamps | Martinique | 15 |
 | 7 | [steeven-js](https://github.com/steeven-js) | steeven_js | Martinique | 14 |
 | 8 | [b1nj](https://github.com/b1nj) | B1nj | Martinique | 10 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-10T16:49:52.416Z
+Generated: 2026-10-10T23:23:44.961Z

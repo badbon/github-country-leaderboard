@@ -24,7 +24,7 @@ Indexed users: 61
 | 10 | [thu105](https://github.com/thu105) | Hein Moe Thu | San Marino, CA | 760 |
 | 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | San Marino | 747 |
 | 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali | Republic of San Marino | 733 |
-| 13 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | San Marino | 472 |
+| 13 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | San Marino | 479 |
 | 14 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 343 |
 | 15 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 232 |
 | 16 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 197 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-10T17:07:07.723Z
+Generated: 2026-10-10T23:44:58.414Z

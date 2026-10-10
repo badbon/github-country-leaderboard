@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-10T17:04:52.064Z
+Generated: 2026-10-10T23:42:47.553Z
 
 Users: 3531
 
@@ -20,9 +20,9 @@ Users: 3531
 | 12 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 8467 |
 | 13 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
 | 14 | [rubailly](https://github.com/rubailly) | Bailly Rurangirwa  |  |  | Rwanda | 8233 |
-| 15 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
-| 16 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
-| 17 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Atomiq |  | Rwanda | 7438 |
-| 18 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
-| 19 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 7133 |
-| 20 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | Igire Rwanda Organisation | __derr1ck__ | kigali, Rwanda | 6897 |
+| 15 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 7642 |
+| 16 | [brunorwanda4](https://github.com/brunorwanda4) | Bruno Rwanda | @space-together-org  | rwanda_bruno | Rwanda/ Kigali | 7609 |
+| 17 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Cyber Coding Arena |  | Kigali Rwanda | 7511 |
+| 18 | [Aurumdev952](https://github.com/Aurumdev952) | Benjamin | Atomiq |  | Rwanda | 7438 |
+| 19 | [nrep](https://github.com/nrep) | Elvis Peace NDAHAYO RUGERO | Digital Umuganda | ElvisPeaceNR | Rwanda | 7389 |
+| 20 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | MiCorp | _MRElvis_ | Rwanda | 7133 |

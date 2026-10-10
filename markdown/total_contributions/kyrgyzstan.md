@@ -1,12 +1,12 @@
 # Total Contributions - Kyrgyzstan
 
-Generated: 2026-10-10T16:43:23.928Z
+Generated: 2026-10-10T23:16:31.775Z
 
-Users: 2455
+Users: 2454
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 20158 |
+| 1 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 25053 |
 | 2 | [kymuco](https://github.com/kymuco) | Ikymuco |  |  | Bishkek, Kyrgyzstan | 11207 |
 | 3 | [anton-plebanovich](https://github.com/anton-plebanovich) | Anton Plebanovich | Gologolol |  | Kyrgyzstan, Bishkek | 10596 |
 | 4 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | WeDevX && UniCorn |  | Karakol, Kyrgyzstan | 10024 |
@@ -15,7 +15,7 @@ Users: 2455
 | 7 | [whyfoks1s](https://github.com/whyfoks1s) | Kutman Melisov | AIT Solutions |  | Kyrgyzstan | 6581 |
 | 8 | [zarylbek-tenxdevs](https://github.com/zarylbek-tenxdevs) |  |  |  | Kyrgyzstan | 6123 |
 | 9 | [Amanch1ik](https://github.com/Amanch1ik) | Amanchik |  |  | Bishkek | 6088 |
-| 10 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5566 |
+| 10 | [qiniks](https://github.com/qiniks) | Talant Mataev |  |  | Kyrgyzstan | 5133 |
 | 11 | [chalshik](https://github.com/chalshik) | Nurmukhammed Kalmamatov | @aitsolutions |  | Kyrgyzstan | 5086 |
 | 12 | [emirbaktybekov-king](https://github.com/emirbaktybekov-king) | Emir Baktybekov |  |  | Bishkek, Kyrgyzstan | 5027 |
 | 13 | [isybai](https://github.com/isybai) | Isa | Stim.io |  | Bishkek | 4966 |

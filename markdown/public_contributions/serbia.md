@@ -1,6 +1,6 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-10T17:09:13.560Z
+Generated: 2026-10-10T23:48:25.251Z
 
 Users: 10668
 
@@ -11,7 +11,7 @@ Users: 10668
 | 3 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | OpenPanel, LLC. |  | Belgrade, Serbia | 8635 |
 | 4 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Optivem | valentinajemuov | Belgrade, Serbia | 8227 |
 | 5 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević |  | igorskyflyer | Serbia | 7592 |
-| 6 | [HKati](https://github.com/HKati) | EPLabsAI | EPLabsAI — E•PARADOX LABS |  | Subotica, Serbia | 5841 |
+| 6 | [HKati](https://github.com/HKati) | EPLabsAI | EPLabsAI — E•PARADOX LABS |  | Subotica, Serbia | 5789 |
 | 7 | [sikleq](https://github.com/sikleq) | sikle |  |  | Belgrade | 5416 |
 | 8 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | @r22d222  |  | Belgrade, Serbia | 4998 |
 | 9 | [atimad](https://github.com/atimad) | Atila Madai |  |  | Serbia | 4933 |

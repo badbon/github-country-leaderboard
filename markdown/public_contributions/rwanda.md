@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-10T17:04:52.064Z
+Generated: 2026-10-10T23:42:47.553Z
 
 Users: 3531
 
@@ -18,9 +18,9 @@ Users: 3531
 | 10 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES |  |  | KIGALI- RWANDA | 3820 |
 | 11 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | EchoSols   | shema_Leandre | Kigali,Rwanda | 3661 |
 | 12 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 3074 |
-| 13 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 2667 |
-| 14 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | University of Rwanda College of Science and Technology |  | Kigali, Rwanda | 2665 |
-| 15 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2662 |
+| 13 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | @Django-Rwanda @rwanda-computing-olympiad  @atlp-rwanda ATLP Andela | elion55698906 | Kigali Rwanda | 2996 |
+| 14 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | @Echo-Sols-Ltd |  | Rwanda-Kigali | 2667 |
+| 15 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | University of Rwanda College of Science and Technology |  | Kigali, Rwanda | 2665 |
 | 16 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 2586 |
 | 17 | [uparfait](https://github.com/uparfait) | Parfait Uwayo |  |  | Rwanda | 2563 |
 | 18 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |

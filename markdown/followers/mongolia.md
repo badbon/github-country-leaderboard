@@ -1,6 +1,6 @@
 # Followers - Mongolia
 
-Generated: 2026-10-10T16:51:41.115Z
+Generated: 2026-10-10T23:26:37.374Z
 
 Users: 805
 
@@ -23,6 +23,6 @@ Users: 805
 | 15 | [erkhembayar-gantulga](https://github.com/erkhembayar-gantulga) | Erkhembayar Gantulga | OyunAI Labs | erkhem_gantulga | Ulaanbaatar, Mongolia | 83 |
 | 16 | [Ankhbayar](https://github.com/Ankhbayar) | Ankhbayar | Databank LLC |  | Mongolia | 74 |
 | 17 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 72 |
-| 18 | [mchigm](https://github.com/mchigm) | MCHIGM | B&Bpython |  | Mongolia | 65 |
+| 18 | [mchigm](https://github.com/mchigm) | MCHIGM | B&Bpython |  | Mongolia | 64 |
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin |  |  | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen |  |  | Ulaanbaatar, Mongolia | 55 |

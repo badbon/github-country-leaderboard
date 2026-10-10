@@ -28,10 +28,10 @@ Indexed users: 1,226
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,471 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
 | 16 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
-| 17 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
-| 18 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,552 |
-| 19 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 5,523 |
-| 20 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,272 |
+| 17 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,652 |
+| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
+| 19 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,552 |
+| 20 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | Malta | 5,523 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,226
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-10T16:49:28.680Z
+Generated: 2026-10-10T23:23:38.928Z

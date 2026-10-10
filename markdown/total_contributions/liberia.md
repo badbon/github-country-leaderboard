@@ -1,16 +1,16 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-10T16:45:38.019Z
+Generated: 2026-10-10T23:19:29.386Z
 
 Users: 209
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7661 |
+| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7680 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5263 |
-| 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3366 |
+| 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3348 |
 | 4 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Cable Consortium of Liberia |  | Monrovia, Liberia | 2938 |
-| 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2095 |
+| 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2116 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1514 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1448 |
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1380 |
@@ -23,6 +23,6 @@ Users: 209
 | 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | The SchoolMate |  | Airfield, Sinkor, Monrovia, Liberia | 778 |
 | 16 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 739 |
 | 17 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 716 |
-| 18 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa |  | knasumo | Monrovia, Liberia | 633 |
+| 18 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa |  | knasumo | Monrovia, Liberia | 637 |
 | 19 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 608 |
 | 20 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Smart Liberia |  | Monrovia, Liberia | 604 |

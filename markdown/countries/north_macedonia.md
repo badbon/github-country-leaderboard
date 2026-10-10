@@ -1,6 +1,6 @@
 # North Macedonia
 
-Indexed users: 1,936
+Indexed users: 1,935
 
 | Leaderboard | Link |
 |---|---|
@@ -12,7 +12,7 @@ Indexed users: 1,936
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | Skopje | 13,627 |
+| 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | Skopje | 21,275 |
 | 2 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 9,016 |
 | 3 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 7,521 |
 | 4 | [fetijashari](https://github.com/fetijashari) | Feti Jashari | Kumanovo, Macedonia | 6,979 |
@@ -83,4 +83,4 @@ Indexed users: 1,936
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-10T16:58:41.022Z
+Generated: 2026-10-10T23:36:03.310Z

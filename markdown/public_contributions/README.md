@@ -4,7 +4,7 @@ Published countries: 234
 
 | Country | Indexed Users | Leaderboard |
 |---|---:|---|
-| Afghanistan | 1,495 | [View](./afghanistan.md) |
+| Afghanistan | 1,497 | [View](./afghanistan.md) |
 | Åland Islands | 61 | [View](./aland_islands.md) |
 | Albania | 1,185 | [View](./albania.md) |
 | Algeria | 5,820 | [View](./algeria.md) |
@@ -110,19 +110,19 @@ Published countries: 234
 | Jersey | 140 | [View](./jersey.md) |
 | Jordan | 4,024 | [View](./jordan.md) |
 | Kazakhstan | 5,667 | [View](./kazakhstan.md) |
-| Kenya | 24,033 | [View](./kenya.md) |
+| Kenya | 24,032 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
 | Kuwait | 798 | [View](./kuwait.md) |
-| Kyrgyzstan | 2,455 | [View](./kyrgyzstan.md) |
+| Kyrgyzstan | 2,454 | [View](./kyrgyzstan.md) |
 | Laos | 360 | [View](./laos.md) |
 | Latvia | 3,274 | [View](./latvia.md) |
-| Lebanon | 2,575 | [View](./lebanon.md) |
+| Lebanon | 2,576 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 209 | [View](./liberia.md) |
 | Libya | 742 | [View](./libya.md) |
 | Liechtenstein | 113 | [View](./liechtenstein.md) |
 | Lithuania | 5,396 | [View](./lithuania.md) |
-| Luxembourg | 2,203 | [View](./luxembourg.md) |
+| Luxembourg | 2,202 | [View](./luxembourg.md) |
 | Macau | 440 | [View](./macau.md) |
 | Madagascar | 1,908 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
@@ -135,7 +135,7 @@ Published countries: 234
 | Mauritania | 289 | [View](./mauritania.md) |
 | Mauritius | 714 | [View](./mauritius.md) |
 | Mayotte | 17 | [View](./mayotte.md) |
-| Mexico | 23,504 | [View](./mexico.md) |
+| Mexico | 23,503 | [View](./mexico.md) |
 | Micronesia | 11 | [View](./micronesia.md) |
 | Moldova | 1,756 | [View](./moldova.md) |
 | Monaco | 142 | [View](./monaco.md) |
@@ -144,30 +144,30 @@ Published countries: 234
 | Montserrat | 291 | [View](./montserrat.md) |
 | Morocco | 9,664 | [View](./morocco.md) |
 | Mozambique | 1,174 | [View](./mozambique.md) |
-| Myanmar | 2,075 | [View](./myanmar.md) |
+| Myanmar | 2,074 | [View](./myanmar.md) |
 | Namibia | 476 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
 | Nepal | 14,137 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
-| New Zealand | 12,154 | [View](./new_zealand.md) |
+| New Zealand | 12,153 | [View](./new_zealand.md) |
 | Nicaragua | 1,400 | [View](./nicaragua.md) |
 | Niger | 176 | [View](./niger.md) |
 | Nigeria | 33,219 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 2 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
-| North Macedonia | 1,936 | [View](./north_macedonia.md) |
+| North Macedonia | 1,935 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
 | Norway | 19,616 | [View](./norway.md) |
 | Oman | 995 | [View](./oman.md) |
 | Pakistan | 41,771 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
-| Palestine | 2,209 | [View](./palestine.md) |
+| Palestine | 2,208 | [View](./palestine.md) |
 | Panama | 1,071 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,020 | [View](./paraguay.md) |
-| Peru | 9,785 | [View](./peru.md) |
-| Philippines | 19,812 | [View](./philippines.md) |
+| Peru | 9,784 | [View](./peru.md) |
+| Philippines | 19,810 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,465 | [View](./portugal.md) |
 | Puerto Rico | 1,540 | [View](./puerto_rico.md) |
@@ -232,11 +232,11 @@ Published countries: 234
 | Vanuatu | 18 | [View](./vanuatu.md) |
 | Vatican City | 30 | [View](./vatican_city.md) |
 | Venezuela | 6,638 | [View](./venezuela.md) |
-| Vietnam | 25,899 | [View](./vietnam.md) |
+| Vietnam | 25,903 | [View](./vietnam.md) |
 | Wallis and Futuna | 0 | [View](./wallis_and_futuna.md) |
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,211 | [View](./yemen.md) |
 | Zambia | 1,343 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-10T23:13:35.096Z
+Generated: 2026-10-10T23:52:29.447Z

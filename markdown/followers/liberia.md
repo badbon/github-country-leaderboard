@@ -1,6 +1,6 @@
 # Followers - Liberia
 
-Generated: 2026-10-10T16:45:38.019Z
+Generated: 2026-10-10T23:19:29.386Z
 
 Users: 209
 
@@ -18,7 +18,7 @@ Users: 209
 | 10 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 34 |
 | 11 | [pastoreekahk96](https://github.com/pastoreekahk96) | Pastoreekahk S Arthur | ALX | arthur_solomon | Monrovia, Liberia | 33 |
 | 12 | [maxwelldorliea](https://github.com/maxwelldorliea) | Maxwell D.  Dorliea | @ngoane  | maxwelldorliea | Monrovia, Montserrado County, Liberia | 30 |
-| 13 | [weahotis](https://github.com/weahotis) | Otis Weah |  | WeahOtisweah22 | Monrovia Liberia | 29 |
+| 13 | [weahotis](https://github.com/weahotis) | Otis Weah |  | WeahOtisweah22 | Monrovia Liberia | 30 |
 | 14 | [tksiakor](https://github.com/tksiakor) | Kpetermeni Siakor | Kwagei Group |  | Monrovia, Liberia | 27 |
 | 15 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 25 |
 | 16 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 25 |

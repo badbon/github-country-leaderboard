@@ -24,14 +24,14 @@ Indexed users: 1,075
 | 10 | [mohammed-ibenayad](https://github.com/mohammed-ibenayad) | Mohammed Iben Ayad | QATAR | 6,010 |
 | 11 | [Snowy7](https://github.com/Snowy7) | Snowy | Qatar | 5,728 |
 | 12 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | QATAR | 5,561 |
-| 13 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 5,385 |
-| 14 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,007 |
-| 15 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 4,885 |
-| 16 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 4,844 |
-| 17 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 3,975 |
-| 18 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 3,929 |
-| 19 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 3,898 |
-| 20 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 3,817 |
+| 13 | [luca-bondi](https://github.com/luca-bondi) | Luca Bondi | Doha, Qatar | 5,450 |
+| 14 | [niyazpoyilan](https://github.com/niyazpoyilan) | Niyaz Poyilan | Qatar | 5,385 |
+| 15 | [Aboidrees](https://github.com/Aboidrees) | Muhammad Yousif | Qatar, Doha | 5,007 |
+| 16 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S | Qatar | 4,885 |
+| 17 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 4,844 |
+| 18 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 3,975 |
+| 19 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 3,929 |
+| 20 | [AnasMostefaoui](https://github.com/AnasMostefaoui) | M.Anes | Doha | 3,898 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,075
 | 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 | 20 | [gracekabaghe](https://github.com/gracekabaghe) | Grace Kabaghe | Qatar | 92 |
 
-Generated: 2026-10-10T17:03:32.900Z
+Generated: 2026-10-10T23:41:11.805Z
