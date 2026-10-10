@@ -11156,20 +11156,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 31,
     "createdAt": "2023-03-05T15:54:18Z"
-  },
-  {
-    "login": "deanattias",
-    "name": "Dean Attias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127678814?s=72&u=5e32e44bb283427098504374b379f10cc141c0f0&v=4",
-    "location": "Israel",
-    "company": "@sentraio",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1494,
-    "publicContributions": 2,
-    "createdAt": "2023-03-12T15:41:43Z"
   },
   {
     "login": "Barara98",
@@ -11192,7 +11180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2023-01-07T16:40:48Z"
   },
   {
@@ -11264,7 +11252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 12,
     "createdAt": "2023-07-29T13:55:47Z"
   },
   {
@@ -11336,7 +11324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-12-06T09:24:49Z"
   },
   {
@@ -11346,9 +11334,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1075,
-    "publicContributions": 265,
+    "followers": 2,
+    "privateContributions": 943,
+    "publicContributions": 261,
     "createdAt": "2023-09-27T13:12:27Z"
   },
   {
@@ -11360,7 +11348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 26,
     "createdAt": "2023-01-22T11:09:59Z"
   },
   {
@@ -11372,7 +11360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 182,
     "createdAt": "2023-01-16T21:25:55Z"
   },
   {
@@ -11380,7 +11368,7 @@
     "name": "Doron Azran",
     "avatarUrl": "https://avatars.githubusercontent.com/u/124685866?s=72&u=ff6caa59ce60f5d458635ff695bf9d10d2c9bbd8&v=4",
     "location": "Israel",
-    "company": "SK Pharma",
+    "company": "Modeni.Ai",
     "twitterUsername": "Azrandoron",
     "followers": 1,
     "privateContributions": 0,

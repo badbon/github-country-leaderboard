@@ -11035,8 +11035,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 7,
-    "publicContributions": 46,
+    "privateContributions": 4,
+    "publicContributions": 45,
     "createdAt": "2023-09-08T12:48:41Z"
   },
   {
@@ -11047,8 +11047,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 569,
-    "publicContributions": 13,
+    "privateContributions": 485,
+    "publicContributions": 15,
     "createdAt": "2023-03-22T21:17:07Z"
   },
   {
@@ -11058,9 +11058,9 @@
     "location": "Denmark",
     "company": "",
     "twitterUsername": "bodywarnn",
-    "followers": 5,
-    "privateContributions": 740,
-    "publicContributions": 139,
+    "followers": 6,
+    "privateContributions": 929,
+    "publicContributions": 152,
     "createdAt": "2023-11-23T16:20:11Z"
   },
   {
@@ -11072,7 +11072,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 49,
     "createdAt": "2023-03-27T07:22:03Z"
   },
   {
@@ -11094,9 +11094,9 @@
     "location": "Copenhagen, Denmark",
     "company": "@good-city",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 134,
-    "publicContributions": 10,
+    "followers": 6,
+    "privateContributions": 33,
+    "publicContributions": 6,
     "createdAt": "2023-08-23T19:15:56Z"
   },
   {
@@ -11119,8 +11119,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 738,
-    "publicContributions": 558,
+    "privateContributions": 891,
+    "publicContributions": 410,
     "createdAt": "2023-01-02T21:31:44Z"
   },
   {
@@ -11131,8 +11131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 178,
-    "publicContributions": 232,
+    "privateContributions": 158,
+    "publicContributions": 195,
     "createdAt": "2023-07-14T15:07:59Z"
   },
   {
@@ -11191,8 +11191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 317,
+    "privateContributions": 74,
+    "publicContributions": 314,
     "createdAt": "2023-05-01T06:37:26Z"
   },
   {
@@ -11203,8 +11203,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2941,
-    "publicContributions": 22,
+    "privateContributions": 2589,
+    "publicContributions": 0,
     "createdAt": "2023-10-28T19:48:28Z"
   },
   {
@@ -11214,21 +11214,21 @@
     "location": "Aarhus, Denmark",
     "company": "Aarhus University",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2023-01-25T13:22:55Z"
   },
   {
     "login": "aqys",
     "name": "aqys",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141941584?s=72&u=0fedd930200bfc18013a34e44d2c6be50ee3cff4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/141941584?s=72&u=2ef9267ae8e2080f89b34d57067e7a781b28b25c&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 97,
-    "publicContributions": 354,
+    "privateContributions": 194,
+    "publicContributions": 244,
     "createdAt": "2023-08-10T15:06:15Z"
   },
   {
@@ -11239,7 +11239,7 @@
     "company": "Denmark Technical University",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 26,
+    "privateContributions": 79,
     "publicContributions": 3,
     "createdAt": "2023-01-25T12:51:25Z"
   },
@@ -11251,21 +11251,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 9,
-    "publicContributions": 7,
+    "privateContributions": 1,
+    "publicContributions": 37,
     "createdAt": "2023-05-26T11:29:31Z"
-  },
-  {
-    "login": "Xorgh",
-    "name": "Casper Loft Elgaard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128655301?s=72&u=ee842134ecf870880bac13b5b99ad32b3ec3358a&v=4",
-    "location": "Denmark",
-    "company": "PayProff A/S",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 191,
-    "createdAt": "2023-03-23T00:42:34Z"
   },
   {
     "login": "b-rino",

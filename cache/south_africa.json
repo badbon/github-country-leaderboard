@@ -10868,7 +10868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 16,
     "createdAt": "2025-08-03T23:08:09Z"
   },
   {
@@ -10878,9 +10878,9 @@
     "location": "Johannesburg, South Africa",
     "company": "University of Johannesburg",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
+    "followers": 2,
+    "privateContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2025-09-19T08:20:03Z"
   },
   {
@@ -10916,7 +10916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 113,
     "createdAt": "2025-06-18T20:40:29Z"
   },
   {
@@ -10964,7 +10964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 18,
     "createdAt": "2025-06-24T18:10:24Z"
   },
   {
@@ -10976,7 +10976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 10,
     "createdAt": "2025-06-28T18:36:40Z"
   },
   {
@@ -10988,7 +10988,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 312,
+    "publicContributions": 127,
     "createdAt": "2025-02-17T12:40:25Z"
   },
   {
@@ -11004,18 +11004,6 @@
     "createdAt": "2025-03-07T08:36:05Z"
   },
   {
-    "login": "HanrevanNiekerk",
-    "name": "MonkeCode",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229967322?s=72&u=0d67210c2dcbdd14bb664f29990387fe84fc2567&v=4",
-    "location": "South Africa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 70,
-    "createdAt": "2025-09-02T13:48:41Z"
-  },
-  {
     "login": "sudoricher",
     "name": "Bonginkosi Moatshe",
     "avatarUrl": "https://avatars.githubusercontent.com/u/225045851?s=72&v=4",
@@ -11024,7 +11012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2025-08-06T16:38:45Z"
   },
   {
@@ -11036,20 +11024,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-27T13:16:37Z"
-  },
-  {
-    "login": "Azolayose",
-    "name": "Azola",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/238919948?s=72&u=d86470582a1497304de279924d3dd53641ab459a&v=4",
-    "location": "South Africa, Free State, Bloemfontein.",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2025-10-18T23:37:36Z"
   },
   {
     "login": "lazola-rulashe",

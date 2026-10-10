@@ -10100,7 +10100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1129,
+    "publicContributions": 429,
     "createdAt": "2025-06-17T08:55:03Z"
   },
   {
@@ -10112,7 +10112,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-22T13:04:23Z"
   },
   {
@@ -10122,7 +10122,7 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 435,
+    "followers": 421,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-29T23:31:48Z"
@@ -10134,9 +10134,9 @@
     "location": "Tumba, Stockholm, Sweden",
     "company": "localhost:8080",
     "twitterUsername": "",
-    "followers": 238,
+    "followers": 297,
     "privateContributions": 0,
-    "publicContributions": 207,
+    "publicContributions": 148,
     "createdAt": "2024-03-05T18:26:44Z"
   },
   {
@@ -10146,9 +10146,9 @@
     "location": "Gävle, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 202,
+    "followers": 196,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2024-08-26T07:17:44Z"
   },
   {
@@ -10158,9 +10158,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 129,
-    "privateContributions": 775,
-    "publicContributions": 69,
+    "followers": 124,
+    "privateContributions": 732,
+    "publicContributions": 40,
     "createdAt": "2024-09-05T11:37:40Z"
   },
   {
@@ -10170,22 +10170,10 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 108,
+    "followers": 104,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-27T22:31:12Z"
-  },
-  {
-    "login": "olaflaitinen",
-    "name": "Gustav Olaf Yunus Laitinen-Fredriksson Lundström-Imanov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176420103?s=72&u=4fdc7a78d3a8a90d459c06e6e6a35b0c73c4c163&v=4",
-    "location": "Stockholm, Sweden",
-    "company": "Stockholm University",
-    "twitterUsername": "olaflaitinen",
-    "followers": 97,
-    "privateContributions": 40,
-    "publicContributions": 1378,
-    "createdAt": "2024-07-23T17:07:08Z"
   },
   {
     "login": "MadelenNilsen",
@@ -10196,7 +10184,7 @@
     "twitterUsername": "",
     "followers": 61,
     "privateContributions": 0,
-    "publicContributions": 202,
+    "publicContributions": 158,
     "createdAt": "2024-08-22T14:04:23Z"
   },
   {
@@ -10206,9 +10194,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 1361,
-    "publicContributions": 103,
+    "followers": 37,
+    "privateContributions": 1538,
+    "publicContributions": 26,
     "createdAt": "2024-02-16T13:31:59Z"
   },
   {
@@ -10219,8 +10207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 134,
-    "publicContributions": 202,
+    "privateContributions": 128,
+    "publicContributions": 189,
     "createdAt": "2024-12-19T12:04:09Z"
   },
   {
@@ -10230,9 +10218,9 @@
     "location": "Sweden",
     "company": "Sweedly",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 19,
     "createdAt": "2024-05-02T01:59:37Z"
   },
   {
@@ -10244,7 +10232,7 @@
     "twitterUsername": "",
     "followers": 27,
     "privateContributions": 0,
-    "publicContributions": 428,
+    "publicContributions": 473,
     "createdAt": "2024-03-29T08:33:24Z"
   },
   {
@@ -10254,9 +10242,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 342,
+    "publicContributions": 814,
     "createdAt": "2024-10-25T10:53:59Z"
   },
   {
@@ -10279,7 +10267,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 476,
+    "privateContributions": 429,
     "publicContributions": 169,
     "createdAt": "2024-02-12T13:41:40Z"
   },
@@ -10290,9 +10278,9 @@
     "location": "Lund, Sweden",
     "company": "Lund University",
     "twitterUsername": "",
-    "followers": 22,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 241,
+    "publicContributions": 230,
     "createdAt": "2024-08-05T11:06:41Z"
   },
   {
@@ -10303,8 +10291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 640,
-    "publicContributions": 881,
+    "privateContributions": 606,
+    "publicContributions": 659,
     "createdAt": "2024-09-27T19:01:58Z"
   },
   {
@@ -10314,9 +10302,9 @@
     "location": "Stockholm,Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 542,
-    "publicContributions": 79,
+    "followers": 20,
+    "privateContributions": 932,
+    "publicContributions": 78,
     "createdAt": "2024-12-10T19:07:27Z"
   },
   {
@@ -10326,9 +10314,9 @@
     "location": "Stockholm, Sweden",
     "company": "",
     "twitterUsername": "NVisockis6770",
-    "followers": 21,
-    "privateContributions": 3403,
-    "publicContributions": 291,
+    "followers": 22,
+    "privateContributions": 6008,
+    "publicContributions": 213,
     "createdAt": "2024-02-02T13:57:17Z"
   },
   {

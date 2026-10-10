@@ -10818,9 +10818,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 677,
-    "publicContributions": 207,
+    "followers": 20,
+    "privateContributions": 713,
+    "publicContributions": 328,
     "createdAt": "2023-01-14T12:08:03Z"
   },
   {
@@ -10830,9 +10830,9 @@
     "location": "Riihimäki, Finland",
     "company": "Psyche's Royale Gaming RY",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 13,
     "privateContributions": 1,
-    "publicContributions": 890,
+    "publicContributions": 1105,
     "createdAt": "2023-11-22T05:23:35Z"
   },
   {
@@ -10842,9 +10842,9 @@
     "location": "Helsinki, Finland",
     "company": "",
     "twitterUsername": "silvoniemi",
-    "followers": 15,
-    "privateContributions": 244,
-    "publicContributions": 46,
+    "followers": 16,
+    "privateContributions": 198,
+    "publicContributions": 63,
     "createdAt": "2023-09-19T11:44:49Z"
   },
   {
@@ -10866,9 +10866,9 @@
     "location": "Lahti, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 359,
     "createdAt": "2023-08-02T16:36:21Z"
   },
   {
@@ -10878,9 +10878,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 59,
     "createdAt": "2022-12-31T09:10:58Z"
   },
   {
@@ -10902,9 +10902,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 1253,
-    "publicContributions": 1153,
+    "followers": 12,
+    "privateContributions": 1460,
+    "publicContributions": 1165,
     "createdAt": "2023-01-13T22:27:06Z"
   },
   {
@@ -10915,8 +10915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 731,
-    "publicContributions": 792,
+    "privateContributions": 792,
+    "publicContributions": 114,
     "createdAt": "2023-12-06T19:16:39Z"
   },
   {
@@ -10926,8 +10926,8 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 32,
+    "followers": 14,
+    "privateContributions": 34,
     "publicContributions": 57,
     "createdAt": "2023-08-21T12:03:28Z"
   },
@@ -10950,8 +10950,8 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 1,
+    "followers": 15,
+    "privateContributions": 3,
     "publicContributions": 3,
     "createdAt": "2023-11-06T10:35:20Z"
   },
@@ -10963,7 +10963,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 80,
+    "privateContributions": 161,
     "publicContributions": 0,
     "createdAt": "2023-02-20T15:52:01Z"
   },
@@ -10976,7 +10976,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 9,
     "createdAt": "2023-02-11T14:39:47Z"
   },
   {
@@ -10988,7 +10988,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 0,
     "createdAt": "2023-08-14T10:16:48Z"
   },
   {
@@ -217954,5 +217954,17 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2025-01-29T16:02:20Z"
+  },
+  {
+    "login": "olaflaitinen",
+    "name": "Olaf Yunus Laitinen Imanov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176420103?s=72&u=4fdc7a78d3a8a90d459c06e6e6a35b0c73c4c163&v=4",
+    "location": "Helsinki, Finland",
+    "company": "University of Helsinki",
+    "twitterUsername": "olaflaitinen",
+    "followers": 98,
+    "privateContributions": 40,
+    "publicContributions": 1905,
+    "createdAt": "2024-07-23T17:07:08Z"
   }
 ]
