@@ -1,6 +1,6 @@
 # Followers - Oman
 
-Generated: 2026-10-10T14:08:17.179Z
+Generated: 2026-10-10T15:35:39.063Z
 
 Users: 995
 
@@ -23,6 +23,6 @@ Users: 995
 | 15 | [HosseinShabani](https://github.com/HosseinShabani) | Hossein Shabani | XQuad | HosseinH3n | Oman | 108 |
 | 16 | [xZAYEDx](https://github.com/xZAYEDx) | ZAYED AL-GAWI |  | DrCyborg | Muscat,Oman | 105 |
 | 17 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 103 |
-| 18 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | @firebitsnet @firebitscode @sgcsd | 3mrdev | Khartoum, Sudan \| Muscat, Oman | 94 |
-| 19 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi |  | amirsakhravi | Muscat, Oman | 91 |
-| 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Foxoman | foxoman | Oman | 90 |
+| 18 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Foxoman | foxoman | Oman | 95 |
+| 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | @firebitsnet @firebitscode @sgcsd | 3mrdev | Khartoum, Sudan \| Muscat, Oman | 94 |
+| 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi |  | amirsakhravi | Muscat, Oman | 91 |

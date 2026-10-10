@@ -16,7 +16,7 @@ Indexed users: 354
 | 2 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 8,728 |
 | 3 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,501 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,488 |
-| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 6,572 |
+| 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 6,658 |
 | 6 | [lishaan](https://github.com/lishaan) | Lishan | Malé, Maldives | 6,056 |
 | 7 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 5,959 |
 | 8 | [ajaaibu](https://github.com/ajaaibu) | Ahmed Ali | Maldives | 5,712 |
@@ -29,8 +29,8 @@ Indexed users: 354
 | 15 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 4,485 |
 | 16 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,445 |
 | 17 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,407 |
-| 18 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,190 |
-| 19 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,151 |
+| 18 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,149 |
+| 19 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,124 |
 | 20 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,101 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-10T13:57:56.126Z
+Generated: 2026-10-10T15:23:26.179Z

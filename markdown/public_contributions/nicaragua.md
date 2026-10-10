@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-10T14:05:09.416Z
+Generated: 2026-10-10T15:33:58.287Z
 
 Users: 1400
 

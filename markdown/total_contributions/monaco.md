@@ -1,8 +1,8 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-10T14:01:52.048Z
+Generated: 2026-10-10T15:28:34.715Z
 
-Users: 143
+Users: 142
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 143
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 952 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 727 |
-| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 617 |
+| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 616 |
 | 13 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 561 |
 | 14 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 513 |
 | 15 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 412 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 407 |
-| 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 315 |
+| 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 352 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 269 |
 | 19 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 256 |
 | 20 | [ap705](https://github.com/ap705) | Arnaud Pradier |  |  | Monaco | 253 |

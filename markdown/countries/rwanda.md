@@ -1,6 +1,6 @@
 # Rwanda
 
-Indexed users: 3,527
+Indexed users: 3,531
 
 | Leaderboard | Link |
 |---|---|
@@ -41,8 +41,8 @@ Indexed users: 3,527
 | 2 | [kajugadaniels](https://github.com/kajugadaniels) | KAJUGA Daniels | Kigali Rwanda | 15,554 |
 | 3 | [Kevin-The-Cyber-Coder](https://github.com/Kevin-The-Cyber-Coder) | MUKESHIMANA KEVIN | Kigali Rwanda | 6,855 |
 | 4 | [Manzi-Elvis](https://github.com/Manzi-Elvis) | Elvis Manzi | Rwanda | 6,117 |
-| 5 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
-| 6 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,010 |
+| 5 | [Yackx-tx](https://github.com/Yackx-tx) | Yannick Gisubizo | Kigali, Rwanda | 5,997 |
+| 6 | [Derrick-MUGISHA](https://github.com/Derrick-MUGISHA) | Derrick | kigali, Rwanda | 5,107 |
 | 7 | [abeltony-prog](https://github.com/abeltony-prog) | AbelTony | Kigali/Rwannda | 4,278 |
 | 8 | [JackOfficial](https://github.com/JackOfficial) | Musengimana Jacques | Kigali Rwanda | 4,003 |
 | 9 | [kawacukennedy](https://github.com/kawacukennedy) | KAWACU Kennedy | Kigali, Rwanda | 3,872 |
@@ -83,4 +83,4 @@ Indexed users: 3,527
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-10T14:14:09.728Z
+Generated: 2026-10-10T15:39:53.457Z

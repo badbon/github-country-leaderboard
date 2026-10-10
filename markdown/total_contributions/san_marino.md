@@ -1,12 +1,12 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-10T14:17:26.450Z
+Generated: 2026-10-10T15:44:26.006Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 12435 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 12591 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 9687 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4207 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3152 |
@@ -23,6 +23,6 @@ Users: 61
 | 15 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
 | 16 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
 | 17 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | @pop-sm | nicorsm | San Marino | 161 |
-| 18 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 104 |
-| 19 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 100 |
-| 20 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |
+| 18 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna |  | Bologna / Rimini / San Marino | 118 |
+| 19 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner |  |  | San Marino | 104 |
+| 20 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 100 |

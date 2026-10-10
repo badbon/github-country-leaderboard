@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-10T14:08:17.179Z
+Generated: 2026-10-10T15:35:39.063Z
 
 Users: 995
 
@@ -18,11 +18,11 @@ Users: 995
 | 10 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 8290 |
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 8204 |
 | 12 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 8038 |
-| 13 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6484 |
-| 14 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 5986 |
-| 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 5396 |
-| 16 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4556 |
-| 17 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 4506 |
+| 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 7255 |
+| 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6484 |
+| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 5986 |
+| 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 5396 |
+| 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4556 |
 | 18 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Remote |  | Oman | 4239 |
 | 19 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4234 |
 | 20 | [amk9889](https://github.com/amk9889) | Alfarouq |  |  | Oman | 4219 |

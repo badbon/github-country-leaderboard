@@ -1,8 +1,8 @@
 # Followers - Myanmar
 
-Generated: 2026-10-10T14:03:32.549Z
+Generated: 2026-10-10T15:31:47.415Z
 
-Users: 2076
+Users: 2075
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

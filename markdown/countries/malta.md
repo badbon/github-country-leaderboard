@@ -49,7 +49,7 @@ Indexed users: 1,226
 | 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,531 |
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,448 |
-| 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,337 |
+| 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 14 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 2,018 |
 | 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
 | 16 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 1,853 |
@@ -74,7 +74,7 @@ Indexed users: 1,226
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 228 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 173 |
-| 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 152 |
+| 13 | [melihberberolu](https://github.com/melihberberolu) | Melih | Malta | 154 |
 | 14 | [JuxhinDB](https://github.com/JuxhinDB) | Juxhin | Malta | 142 |
 | 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 140 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 140 |
@@ -83,4 +83,4 @@ Indexed users: 1,226
 | 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-10T13:58:33.969Z
+Generated: 2026-10-10T15:23:34.445Z

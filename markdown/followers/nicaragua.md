@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-10T14:05:09.416Z
+Generated: 2026-10-10T15:33:58.287Z
 
 Users: 1400
 
@@ -24,5 +24,5 @@ Users: 1400
 | 16 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza |  | 14BryanEspinoza | Nicaragua | 73 |
 | 17 | [neydroid](https://github.com/neydroid) | José Ney Guerrero |  |  | Managua, Nicaragua | 70 |
 | 18 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia |  | luismejiadev | Managua, Nicaragua | 68 |
-| 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay |  | dannygaray60 | Nicaragua | 60 |
+| 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay |  | dannygaray60 | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | UNAN CUR CHONTALES |  | Nicaragua | 60 |
