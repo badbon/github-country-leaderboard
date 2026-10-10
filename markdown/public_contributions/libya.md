@@ -1,8 +1,8 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-09T23:44:50.842Z
+Generated: 2026-10-10T01:06:28.208Z
 
-Users: 743
+Users: 742
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 743
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 639 |
 | 11 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash |  |  | Libya | 613 |
 | 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 598 |
-| 13 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 547 |
-| 14 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 476 |
-| 15 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 437 |
-| 16 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 423 |
-| 17 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 362 |
-| 18 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
-| 19 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
+| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 476 |
+| 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 437 |
+| 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 423 |
+| 16 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 362 |
+| 17 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
+| 18 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
+| 19 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 348 |
 | 20 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 345 |

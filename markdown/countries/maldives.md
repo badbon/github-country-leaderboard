@@ -46,7 +46,7 @@ Indexed users: 354
 | 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 934 |
 | 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 726 |
 | 9 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 633 |
-| 10 | [crockalet](https://github.com/crockalet) |  | Maldives | 629 |
+| 10 | [crockalet](https://github.com/crockalet) |  | Maldives | 626 |
 | 11 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
 | 12 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 438 |
 | 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 423 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-09T23:49:33.471Z
+Generated: 2026-10-10T01:09:00.034Z

@@ -68,8 +68,8 @@ Indexed users: 5,396
 | 4 | [aras-p](https://github.com/aras-p) | Aras Pranckevičius | Kaunas, Lithuania | 2,531 |
 | 5 | [irenemmassy](https://github.com/irenemmassy) | Irene Arvydas Ranonis | Lithuania  | 680 |
 | 6 | [laimonas2g](https://github.com/laimonas2g) | Laimonas | Kaunas, Lithuania | 539 |
-| 7 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 395 |
-| 8 | [remrc](https://github.com/remrc) | Remigijus | Lithuania | 395 |
+| 7 | [remrc](https://github.com/remrc) | Remigijus | Lithuania | 405 |
+| 8 | [kibertoad](https://github.com/kibertoad) | Igor Savin | Vilnius | 395 |
 | 9 | [l3pp4rd](https://github.com/l3pp4rd) | Gediminas Morkevicius | Kaunas, Lithuania | 374 |
 | 10 | [justinas](https://github.com/justinas) | Justinas Stankevičius | Vilnius, Lithuania | 318 |
 | 11 | [belauzas](https://github.com/belauzas) | Rimantas | Lithuania | 304 |
@@ -78,9 +78,9 @@ Indexed users: 5,396
 | 14 | [simison](https://github.com/simison) | Mikael Korpela | Lithuania | 224 |
 | 15 | [Elijas](https://github.com/Elijas) | Elijas Dapšauskas | Vilnius, Lithuania | 220 |
 | 16 | [mgedmin](https://github.com/mgedmin) | Marius Gedminas | Lithuania | 219 |
-| 17 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 208 |
-| 18 | [pbrilius](https://github.com/pbrilius) | Povilas Brilius | Lithuania | 205 |
-| 19 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
+| 17 | [pbrilius](https://github.com/pbrilius) | Povilas Brilius | Lithuania | 205 |
+| 18 | [spajus](https://github.com/spajus) | spajus | Vilnius, Lithuania | 201 |
+| 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-09T23:45:36.676Z
+Generated: 2026-10-10T01:07:35.193Z

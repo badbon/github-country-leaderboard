@@ -1,6 +1,6 @@
 # Mozambique
 
-Indexed users: 1,176
+Indexed users: 1,175
 
 | Leaderboard | Link |
 |---|---|
@@ -15,10 +15,10 @@ Indexed users: 1,176
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 9,733 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,627 |
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 5,729 |
-| 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 4,992 |
-| 5 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,874 |
-| 6 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 4,722 |
-| 7 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 4,574 |
+| 4 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
+| 5 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 4,992 |
+| 6 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,874 |
+| 7 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 4,722 |
 | 8 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,910 |
 | 9 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 3,687 |
 | 10 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,216 |
@@ -37,7 +37,7 @@ Indexed users: 1,176
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 4,574 |
+| 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,850 |
 | 3 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,545 |
 | 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 2,226 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-09T23:54:30.932Z
+Generated: 2026-10-10T01:13:54.330Z

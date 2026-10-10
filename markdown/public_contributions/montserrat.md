@@ -1,6 +1,6 @@
 # Public Contributions - Montserrat
 
-Generated: 2026-10-09T23:53:03.321Z
+Generated: 2026-10-10T01:12:48.384Z
 
 Users: 291
 
@@ -13,7 +13,7 @@ Users: 291
 | 5 | [gjbauer](https://github.com/gjbauer) |  |  |  | Plymouth, NH | 786 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer |  |  | Plymouth, MN | 703 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 678 |
-| 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | @ucrisko  |  | Plymouth, MI | 533 |
+| 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | @ucrisko  |  | Plymouth, MI | 529 |
 | 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | VulnCheck |  | Plymouth, MI | 459 |
 | 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Hyundai MOBIS |  | Plymouth, MI | 405 |
 | 11 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Gillsystems.net | uknowGill | Plymouth, MA 02360 | 355 |

@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-09T23:49:38.172Z
+Generated: 2026-10-10T01:09:17.262Z
 
 Users: 347
 
@@ -15,7 +15,7 @@ Users: 347
 | 7 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 386 |
 | 8 | [LeoAz](https://github.com/LeoAz) | Lionel AZ |  |  | Bamako | 382 |
 | 9 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Tuwindi Foundation |  | Bamako | 375 |
-| 10 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 334 |
+| 10 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 329 |
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | @simplonsolutionssenegal | malladev223 | Bamako - MALI | 319 |
 | 12 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
 | 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 238 |
@@ -24,5 +24,5 @@ Users: 347
 | 16 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 184 |
 | 17 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
 | 18 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 145 |
-| 19 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse |  |  | Mali(Bamako) | 145 |
-| 20 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 144 |
+| 19 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 144 |
+| 20 | [McOriginal](https://github.com/McOriginal) | Mohamed Cisse |  |  | Mali(Bamako) | 137 |

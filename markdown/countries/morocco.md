@@ -1,6 +1,6 @@
 # Morocco
 
-Indexed users: 9,671
+Indexed users: 9,670
 
 | Leaderboard | Link |
 |---|---|
@@ -51,7 +51,7 @@ Indexed users: 9,671
 | 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Essaouira, Morocco | 2,431 |
 | 13 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah | Morocco | 2,395 |
 | 14 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | Morocco | 2,338 |
-| 15 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,293 |
+| 15 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | Taroudant, Morocco | 2,325 |
 | 16 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | Morocco | 2,283 |
 | 17 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | Morocco | 2,276 |
 | 18 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Casablanca, Morocco | 2,189 |
@@ -83,4 +83,4 @@ Indexed users: 9,671
 | 19 | [walidbosso](https://github.com/walidbosso) | Walid BOUSSOU | Tetouan, Morocco. | 821 |
 | 20 | [yassnemo](https://github.com/yassnemo) | Yassine Erradouani | Casablanca, Morocco | 741 |
 
-Generated: 2026-10-09T23:54:27.807Z
+Generated: 2026-10-10T01:13:51.854Z

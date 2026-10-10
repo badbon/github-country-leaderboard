@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 894
+Indexed users: 893
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 894
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-09T23:52:57.237Z
+Generated: 2026-10-10T01:12:43.655Z

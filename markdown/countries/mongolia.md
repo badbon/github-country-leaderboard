@@ -40,15 +40,15 @@ Indexed users: 805
 | 1 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa | Mongolia | 2,900 |
 | 2 | [BeBecpp](https://github.com/BeBecpp) | Nero | Mongolia, Darkhan | 1,229 |
 | 3 | [Temuujinhub](https://github.com/Temuujinhub) | Temuujin | Mongolia | 1,046 |
-| 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 994 |
+| 4 | [Ericwasepic127](https://github.com/Ericwasepic127) | Erkhembayr Batjargal | Ulaanbaatar, Mongolia | 989 |
 | 5 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 954 |
-| 6 | [AustiSeppo](https://github.com/AustiSeppo) |  | Mongolia | 826 |
+| 6 | [AustiSeppo](https://github.com/AustiSeppo) |  | Mongolia | 823 |
 | 7 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 790 |
 | 8 | [batmunkhcom](https://github.com/batmunkhcom) | BATMUNKH M | Mongolia, Ulaanbaatar | 788 |
-| 9 | [Zolb646](https://github.com/Zolb646) | B ZOLBAYAR | Mongolia | 778 |
+| 9 | [Zolb646](https://github.com/Zolb646) | B ZOLBAYAR | Mongolia | 781 |
 | 10 | [PQ-007](https://github.com/PQ-007) | Bilguuntushig | Mongolia, Ulaanbaatar | 652 |
 | 11 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene | Ulaanbaatar, Mongolia | 582 |
-| 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 546 |
+| 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 543 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | Mongolia | 541 |
 | 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Ulaanbaatar, Mongolia | 537 |
 | 15 | [tulubyev](https://github.com/tulubyev) | Alexander Tulubyev | Ulan-Bator, Mongolia | 536 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-09T23:52:52.656Z
+Generated: 2026-10-10T01:12:40.353Z

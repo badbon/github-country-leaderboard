@@ -1,8 +1,8 @@
 # Public Contributions - Morocco
 
-Generated: 2026-10-09T23:54:27.807Z
+Generated: 2026-10-10T01:13:51.854Z
 
-Users: 9671
+Users: 9670
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 9671
 | 12 | [Hi1talib1World](https://github.com/Hi1talib1World) | hicham outaleb | Denzo |  | Essaouira, Morocco | 2431 |
 | 13 | [tornidomaroc-web](https://github.com/tornidomaroc-web) | Abdelfettah Amellah |  | AboJadMar | Morocco | 2395 |
 | 14 | [ayagmar](https://github.com/ayagmar) | Abdeslam Yassine Agmar | @theodo-group |  | Morocco | 2338 |
-| 15 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | YOUCODE - SAFI |  | Taroudant, Morocco | 2293 |
+| 15 | [ilyas-doughmi](https://github.com/ilyas-doughmi) | Ilyas Doughmi | YOUCODE - SAFI |  | Taroudant, Morocco | 2325 |
 | 16 | [MyLhassane](https://github.com/MyLhassane) | My Lhassane | @MyLhassane |  | Morocco | 2283 |
 | 17 | [hichamboushaba](https://github.com/hichamboushaba) | Hicham Boushaba | @Automattic |  | Morocco | 2276 |
 | 18 | [faiz-oussama](https://github.com/faiz-oussama) | Oussama Faiz | Oracle |  | Casablanca, Morocco | 2189 |

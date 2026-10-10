@@ -15,23 +15,23 @@ Indexed users: 996
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 89,684 |
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,097 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 14,734 |
-| 4 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 11,352 |
-| 5 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
-| 6 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,554 |
-| 7 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
-| 8 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
-| 9 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,290 |
-| 10 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
-| 11 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
-| 12 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
-| 13 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
-| 14 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
-| 15 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
-| 16 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
-| 17 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
-| 18 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,219 |
-| 19 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
-| 20 | [waleed-alharthi](https://github.com/waleed-alharthi) | Waleed Al Harthi | Oman | 4,151 |
+| 4 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 11,511 |
+| 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 11,352 |
+| 6 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 11,052 |
+| 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,554 |
+| 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
+| 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
+| 10 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,290 |
+| 11 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
+| 12 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
+| 13 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 4,818 |
+| 14 | [shm379](https://github.com/shm379) | Hussein | Muscat | 4,541 |
+| 15 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 4,506 |
+| 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 4,417 |
+| 17 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
+| 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
+| 19 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,219 |
+| 20 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,191 |
 
 ## Public Contributions
 
@@ -47,9 +47,9 @@ Indexed users: 996
 | 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali |  Oman  | 2,454 |
 | 9 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Oman | 2,443 |
 | 10 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Oman | 2,316 |
-| 11 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 2,135 |
-| 12 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
-| 13 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 1,787 |
+| 11 | [2-towns](https://github.com/2-towns) | Arnaud | Oman | 2,258 |
+| 12 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Muscat, Masqaţ, Oman | 2,135 |
+| 13 | [WalaAlmawali](https://github.com/WalaAlmawali) | Wala Almawali  | Oman  | 2,129 |
 | 14 | [alwejdan97-stack](https://github.com/alwejdan97-stack) | Wejdan Salim Al-Subhi | Oman | 1,702 |
 | 15 | [Hajar2000Alfarsi](https://github.com/Hajar2000Alfarsi) | Hajar Alfarsi | Oman | 1,577 |
 | 16 | [73ink](https://github.com/73ink) | Aaisha A. Al Rubaie | Oman | 1,333 |
@@ -83,4 +83,4 @@ Indexed users: 996
 | 19 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 | 20 | [foxoman](https://github.com/foxoman) | Sultan Al Isaiee | Oman | 90 |
 
-Generated: 2026-10-10T00:00:44.755Z
+Generated: 2026-10-10T01:19:27.718Z

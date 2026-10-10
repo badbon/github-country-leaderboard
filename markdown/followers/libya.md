@@ -1,13 +1,13 @@
 # Followers - Libya
 
-Generated: 2026-10-09T23:44:50.842Z
+Generated: 2026-10-10T01:06:28.208Z
 
-Users: 743
+Users: 742
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [absholi7ly](https://github.com/absholi7ly) | Abdualhadi khalifa |  | absholi7ly | Libya | 133 |
-| 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 123 |
+| 2 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 124 |
 | 3 | [zakariasassi](https://github.com/zakariasassi) | Zakaria Sassi |  | zakariasassi96 | Libya | 90 |
 | 4 | [mohamedjaouda](https://github.com/mohamedjaouda) | Mohamed Jaouda |  |  | Benghazi, Libya | 86 |
 | 5 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 86 |
@@ -23,6 +23,6 @@ Users: 743
 | 15 | [asonni](https://github.com/asonni) | Aladdin Sonni | Almadar Aljadid | aladdin_sonni | Tripoli - Libya | 59 |
 | 16 | [ridalabbar](https://github.com/ridalabbar) | Rida Labbar |  | ridalabbar | Benghazi, Libya | 58 |
 | 17 | [SL0wZEr](https://github.com/SL0wZEr) | Ahmad Aljazzar |  | SL0wZEr | Tripoli, Libya | 58 |
-| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 57 |
+| 18 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 56 |
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi |  | zizouhuweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | @ProcessorLY |  | Benghazi, Libya | 49 |
