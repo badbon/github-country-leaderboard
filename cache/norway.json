@@ -9908,7 +9908,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 42,
     "createdAt": "2024-09-23T16:11:27Z"
   },
   {
@@ -9942,9 +9942,9 @@
     "location": "Oslo",
     "company": "SMOC-AI",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 815,
-    "publicContributions": 50,
+    "followers": 3,
+    "privateContributions": 597,
+    "publicContributions": 47,
     "createdAt": "2024-06-14T08:29:27Z"
   },
   {
@@ -9956,7 +9956,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 274,
+    "publicContributions": 283,
     "createdAt": "2024-07-19T07:10:14Z"
   },
   {
@@ -9970,18 +9970,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-21T18:22:39Z"
-  },
-  {
-    "login": "PatrickLundHaugen",
-    "name": "Patrick Lund Haugen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171488163?s=72&u=76e8213696f29fd6b8c85c49161ce3ae7960886a&v=4",
-    "location": "Oslo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 82,
-    "createdAt": "2024-06-02T12:00:13Z"
   },
   {
     "login": "Louis-Helberg",
@@ -10028,7 +10016,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 108,
     "createdAt": "2024-01-15T12:11:24Z"
   },
   {
@@ -10064,7 +10052,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 208,
+    "publicContributions": 330,
     "createdAt": "2024-08-12T13:22:06Z"
   },
   {
@@ -10074,9 +10062,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 187,
-    "publicContributions": 338,
+    "followers": 3,
+    "privateContributions": 188,
+    "publicContributions": 315,
     "createdAt": "2024-09-25T20:33:33Z"
   },
   {
@@ -10088,7 +10076,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 60,
     "createdAt": "2024-01-04T09:50:30Z"
   },
   {

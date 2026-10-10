@@ -8722,5 +8722,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-21T20:32:00Z"
+  },
+  {
+    "login": "Tehzeeb07",
+    "name": "Tehzeeb Shaikh",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295350713?s=72&u=06153bcdf7b6ac5a2b8ef91e1b9aa7ce0d91b7ac&v=4",
+    "location": "Bahrain",
+    "company": "Frosted Tech",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 385,
+    "createdAt": "2026-06-20T11:20:01Z"
+  },
+  {
+    "login": "afraa06f-ops",
+    "name": "Afraa Maideen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293168693?s=72&u=2d994caaeed58168c52a423f4337ab7f5257e249&v=4",
+    "location": "Bahrain",
+    "company": "-",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-06-12T16:58:59Z"
   }
 ]

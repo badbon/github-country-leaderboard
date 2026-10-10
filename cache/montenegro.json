@@ -9846,9 +9846,9 @@
     "location": "Podgorica",
     "company": "mctl",
     "twitterUsername": "mashkovd",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6339,
+    "publicContributions": 13529,
     "createdAt": "2012-06-12T12:52:18Z"
   },
   {
@@ -9858,9 +9858,9 @@
     "location": "Tivat, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 359,
+    "followers": 363,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 38,
     "createdAt": "2011-07-19T10:56:48Z"
   },
   {
@@ -9870,9 +9870,9 @@
     "location": "Podgorica, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 67,
     "privateContributions": 1,
-    "publicContributions": 133,
+    "publicContributions": 417,
     "createdAt": "2011-12-23T12:34:56Z"
   },
   {
@@ -9884,7 +9884,7 @@
     "twitterUsername": "",
     "followers": 67,
     "privateContributions": 1,
-    "publicContributions": 1753,
+    "publicContributions": 2661,
     "createdAt": "2011-02-11T15:12:30Z"
   },
   {
@@ -9895,21 +9895,9 @@
     "company": "@Automattic",
     "twitterUsername": "",
     "followers": 46,
-    "privateContributions": 1657,
-    "publicContributions": 0,
+    "privateContributions": 1878,
+    "publicContributions": 3,
     "createdAt": "2011-11-09T00:08:29Z"
-  },
-  {
-    "login": "czarkoff",
-    "name": "Dmitrij D. Czarkoff",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/977491?s=72&u=2a7df169f10761f81af6eac2d50c2cba225f66c6&v=4",
-    "location": "Montenegro, Podgorica",
-    "company": "Mbanq",
-    "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2011-08-13T07:46:02Z"
   },
   {
     "login": "VoVaVc",
@@ -9918,8 +9906,8 @@
     "location": "Herceg Novi, Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 290,
+    "followers": 32,
+    "privateContributions": 267,
     "publicContributions": 3,
     "createdAt": "2011-03-20T20:23:25Z"
   },
@@ -9931,8 +9919,8 @@
     "company": "CloudLinux",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 568,
-    "publicContributions": 2258,
+    "privateContributions": 663,
+    "publicContributions": 2237,
     "createdAt": "2011-03-04T05:37:38Z"
   },
   {
@@ -9942,9 +9930,9 @@
     "location": "Montenegro/Budva",
     "company": "@purelabio @ayyliens ",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 53,
-    "publicContributions": 33,
+    "followers": 29,
+    "privateContributions": 197,
+    "publicContributions": 30,
     "createdAt": "2011-12-02T07:55:44Z"
   },
   {
@@ -9968,7 +9956,7 @@
     "twitterUsername": "",
     "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 21,
     "createdAt": "2011-10-25T18:13:47Z"
   },
   {
@@ -9979,7 +9967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 468,
+    "privateContributions": 515,
     "publicContributions": 64,
     "createdAt": "2011-09-11T15:52:44Z"
   },
@@ -10002,9 +9990,9 @@
     "location": "Montenegro",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 89,
     "createdAt": "2011-04-13T12:30:48Z"
   },
   {
@@ -10016,7 +10004,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 450,
+    "publicContributions": 402,
     "createdAt": "2011-06-21T06:00:44Z"
   },
   {
@@ -10027,7 +10015,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-04-20T15:11:39Z"
   },
@@ -10039,7 +10027,7 @@
     "company": "SYNAPS",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1261,
+    "privateContributions": 2689,
     "publicContributions": 0,
     "createdAt": "2011-08-09T15:14:21Z"
   },
@@ -10076,7 +10064,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 117,
     "createdAt": "2011-06-17T07:32:33Z"
   },
   {
