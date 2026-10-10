@@ -1,6 +1,6 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-10T16:21:54.424Z
+Generated: 2026-10-10T22:48:18.331Z
 
 Users: 5641
 
@@ -8,7 +8,7 @@ Users: 5641
 |---:|---|---|---|---|---|---:|
 | 1 | [jourlez](https://github.com/jourlez) | Josué Rojas |  |  | Jacó, Costa Rica | 9483 |
 | 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  |  |  | costa rica | 8257 |
-| 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 6328 |
+| 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 5825 |
 | 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES |  | official_taches | Costa Rica | 5358 |
 | 5 | [ronz204](https://github.com/ronz204) | ronz |  |  | San Carlos, Costa Rica | 3801 |
 | 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | SkyCortex |  | Costa Rica | 3704 |
@@ -23,6 +23,6 @@ Users: 5641
 | 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | TEC |  | Costa Rica | 2028 |
 | 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 1978 |
 | 17 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) |  |  | Costa Rica  | 1927 |
-| 18 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |
-| 19 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |
-| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel |  |  | Costa Rica | 1803 |
+| 18 | [adrianvrj](https://github.com/adrianvrj) | adr!an | @cavos-labs  | 0xAdrianvrj | Costa Rica | 1901 |
+| 19 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |
+| 20 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |

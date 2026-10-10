@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 679
+Indexed users: 680
 
 | Leaderboard | Link |
 |---|---|
@@ -28,7 +28,7 @@ Indexed users: 679
 | 14 | [sebandroidev](https://github.com/sebandroidev) | Sebastien NOGBEDJI | Lomé, TOGO | 4,107 |
 | 15 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 4,099 |
 | 16 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 3,892 |
-| 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,607 |
+| 17 | [Giovidoh](https://github.com/Giovidoh) | ICGreborns | Lomé, Togo | 3,605 |
 | 18 | [Georginio-prod](https://github.com/Georginio-prod) | Georginio  | lomé-TOGO | 3,468 |
 | 19 | [GedeonRO](https://github.com/GedeonRO) | Devotak_u | lomé - Togo | 3,467 |
 | 20 | [Moubarakdev](https://github.com/Moubarakdev) | Moubarak KERIM | TOGO-Lomé | 3,359 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-10T15:54:13.570Z
+Generated: 2026-10-10T22:15:21.959Z

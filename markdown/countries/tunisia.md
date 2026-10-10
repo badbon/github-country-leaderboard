@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,201
+Indexed users: 7,203
 
 | Leaderboard | Link |
 |---|---|
@@ -63,7 +63,7 @@ Indexed users: 7,201
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [chahe-dridi](https://github.com/chahe-dridi) | chaher dridi | Tunisia | 3,480 |
-| 2 | [JawherKl](https://github.com/JawherKl) | Jawher Kl | Tunis | 2,989 |
+| 2 | [JawherKl](https://github.com/JawherKl) | Jawher Kl | Tunis | 2,995 |
 | 3 | [SelimHorri](https://github.com/SelimHorri) | Selim Horri | Tunisia | 2,296 |
 | 4 | [www-root](https://github.com/www-root) | ⚞ Asyrm ⚟ | Tunisia | 1,764 |
 | 5 | [ahmnouira](https://github.com/ahmnouira) | Ahmed Nouira | Monastir, Tunisia | 1,263 |
@@ -76,11 +76,11 @@ Indexed users: 7,201
 | 12 | [ShaheenJawadi](https://github.com/ShaheenJawadi) | Shaheen Jawadi | Ariana, Tunisia | 651 |
 | 13 | [X-SLAYER](https://github.com/X-SLAYER) | Iheb Briki | Tunisia | 645 |
 | 14 | [mn-youssef](https://github.com/mn-youssef) | mansouri youssef | tunisia | 613 |
-| 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Tunis | 607 |
+| 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Tunis | 603 |
 | 16 | [jasonxtn](https://github.com/jasonxtn) | JASON13 | Tunis, Tunisia | 566 |
 | 17 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 560 |
 | 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 | 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 477 |
 
-Generated: 2026-10-10T15:56:41.179Z
+Generated: 2026-10-10T22:27:44.551Z

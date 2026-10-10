@@ -16,7 +16,7 @@ Indexed users: 30
 | 2 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 199 |
 | 3 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 174 |
 | 4 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski | Vatican | 147 |
-| 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 76 |
+| 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 77 |
 | 6 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu | Vatican | 42 |
 | 7 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | Vatican City State  | 15 |
 | 8 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | Vatican City State (Holy See)  | 15 |
@@ -40,7 +40,7 @@ Indexed users: 30
 | 1 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 168 |
 | 2 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 149 |
 | 3 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu | Vatican | 42 |
-| 4 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 24 |
+| 4 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 25 |
 | 5 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski | Vatican | 19 |
 | 6 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | Vatican City State  | 15 |
 | 7 | [NOPR9D](https://github.com/NOPR9D) | NOPR9D ☄️ | Vatican City State (Holy See)  | 15 |
@@ -83,4 +83,4 @@ Indexed users: 30
 | 19 | [meereuk](https://github.com/meereuk) | KKUL | Vatican City | 2 |
 | 20 | [shapihelps-meta](https://github.com/shapihelps-meta) | Shapi | Vatican | 2 |
 
-Generated: 2026-10-10T16:02:03.511Z
+Generated: 2026-10-10T22:20:51.434Z

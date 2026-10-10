@@ -1,6 +1,6 @@
 # Bermuda
 
-Indexed users: 900
+Indexed users: 899
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 900
 | 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 609 |
 | 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 579 |
 | 19 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 561 |
-| 20 | [Chu-rill](https://github.com/Chu-rill) | Churchill Daniel | Hamilton | 494 |
+| 20 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 476 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-10T16:11:06.239Z
+Generated: 2026-10-10T22:35:23.983Z

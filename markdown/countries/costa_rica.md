@@ -19,8 +19,8 @@ Indexed users: 5,641
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Costa Rica | 11,951 |
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,534 |
 | 7 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon | Santa Ana, Costa Rica | 8,664 |
-| 8 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
-| 9 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,595 |
+| 8 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
+| 9 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
 | 10 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
 | 11 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 6,841 |
 | 12 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
@@ -39,7 +39,7 @@ Indexed users: 5,641
 |---:|---|---|---|---:|
 | 1 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 9,483 |
 | 2 | [skylartaylor](https://github.com/skylartaylor) | skylar taylor-barrick  | costa rica | 8,257 |
-| 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 6,328 |
+| 3 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 5,825 |
 | 4 | [glittercowboy](https://github.com/glittercowboy) | TÂCHES | Costa Rica | 5,358 |
 | 5 | [ronz204](https://github.com/ronz204) | ronz | San Carlos, Costa Rica | 3,801 |
 | 6 | [gloriacitizen00-dev](https://github.com/gloriacitizen00-dev) | Gloria Martinez | Costa Rica | 3,704 |
@@ -54,9 +54,9 @@ Indexed users: 5,641
 | 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
 | 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
 | 17 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) | Costa Rica  | 1,927 |
-| 18 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
-| 19 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
-| 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 1,803 |
+| 18 | [adrianvrj](https://github.com/adrianvrj) | adr!an | Costa Rica | 1,901 |
+| 19 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
+| 20 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,641
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-10T16:21:54.424Z
+Generated: 2026-10-10T22:48:18.331Z

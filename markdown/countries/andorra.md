@@ -31,7 +31,7 @@ Indexed users: 215
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,424 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
 | 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,792 |
-| 20 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 2,673 |
+| 20 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 2,712 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-10T16:05:19.995Z
+Generated: 2026-10-10T22:27:34.917Z

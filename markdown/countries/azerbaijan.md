@@ -1,6 +1,6 @@
 # Azerbaijan
 
-Indexed users: 5,086
+Indexed users: 5,085
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,086
 | 19 | [Jeyhun1227](https://github.com/Jeyhun1227) | Jeyhun Malikli | Baku | 256 |
 | 20 | [husniababaeva](https://github.com/husniababaeva) | Husniyya Babayeva | Azerbaijan,Baku | 252 |
 
-Generated: 2026-10-10T16:08:45.908Z
+Generated: 2026-10-10T22:31:32.165Z

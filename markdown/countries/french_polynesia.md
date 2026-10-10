@@ -15,7 +15,7 @@ Indexed users: 60
 | 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,191 |
 | 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,078 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,803 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,061 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,063 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 699 |
 | 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 467 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 427 |
@@ -37,7 +37,7 @@ Indexed users: 60
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,061 |
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,063 |
 | 2 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 427 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 405 |
 | 4 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 362 |
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-10T16:29:20.631Z
+Generated: 2026-10-10T22:59:45.371Z

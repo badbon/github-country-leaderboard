@@ -19,8 +19,8 @@ Indexed users: 140
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,114 |
 | 6 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,672 |
 | 7 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,586 |
-| 8 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,098 |
-| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,058 |
+| 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,108 |
+| 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,098 |
 | 10 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,364 |
 | 11 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 2,931 |
 | 12 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,929 |
@@ -45,7 +45,7 @@ Indexed users: 140
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 560 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
 | 8 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 424 |
-| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 225 |
+| 9 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 334 |
 | 10 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 219 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 210 |
 | 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 178 |
@@ -71,7 +71,7 @@ Indexed users: 140
 | 7 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 45 |
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | Jersey | 39 |
 | 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns | Jersey, Channel Islands | 37 |
-| 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 34 |
+| 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 35 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 33 |
 | 12 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 30 |
 | 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 29 |
@@ -83,4 +83,4 @@ Indexed users: 140
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-10T16:39:05.664Z
+Generated: 2026-10-10T23:09:45.311Z

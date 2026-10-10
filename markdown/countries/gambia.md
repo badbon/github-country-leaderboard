@@ -13,11 +13,11 @@ Indexed users: 80
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,368 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,040 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,096 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,591 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,476 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,331 |
-| 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,304 |
+| 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,314 |
 | 7 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,292 |
 | 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 847 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 745 |
@@ -68,8 +68,8 @@ Indexed users: 80
 | 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 26 |
 | 5 | [kamariana](https://github.com/kamariana) | A Kamariana | Brikama, Gambia | 24 |
 | 6 | [mathewharb](https://github.com/mathewharb) | Mathew Harb | Gambia | 16 |
-| 7 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 15 |
-| 8 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow | Banjul, The Gambia. | 15 |
+| 7 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow | Banjul, The Gambia. | 16 |
+| 8 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 15 |
 | 9 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 14 |
 | 10 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 13 |
 | 11 | [Fatimatrawally](https://github.com/Fatimatrawally) | Camara | Gambia  | 13 |
@@ -83,4 +83,4 @@ Indexed users: 80
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-10T16:30:14.859Z
+Generated: 2026-10-10T22:59:51.303Z

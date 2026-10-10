@@ -1,6 +1,6 @@
 # Followers - Jersey
 
-Generated: 2026-10-10T16:39:05.664Z
+Generated: 2026-10-10T23:09:45.311Z
 
 Users: 140
 
@@ -15,7 +15,7 @@ Users: 140
 | 7 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 45 |
 | 8 | [cappadona](https://github.com/cappadona) | Nick Cappadona | @anaconda |  | Jersey | 39 |
 | 9 | [nunnsy](https://github.com/nunnsy) | Daniel Nunns |  |  | Jersey, Channel Islands | 37 |
-| 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 34 |
+| 10 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 35 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 33 |
 | 12 | [jde](https://github.com/jde) | David Erwin | RollDeep | daviderwin | New [York, Jersey] | 30 |
 | 13 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 29 |

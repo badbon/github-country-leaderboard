@@ -17,15 +17,15 @@ Indexed users: 2,252
 | 3 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 9,376 |
 | 4 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 9,000 |
 | 5 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 8,747 |
-| 6 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,011 |
-| 7 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,758 |
-| 8 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 7,304 |
-| 9 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,803 |
-| 10 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,728 |
-| 11 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,573 |
-| 12 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,468 |
-| 13 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,104 |
-| 14 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 6,014 |
+| 6 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 8,037 |
+| 7 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,011 |
+| 8 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,758 |
+| 9 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 7,304 |
+| 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,803 |
+| 11 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,728 |
+| 12 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,573 |
+| 13 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,468 |
+| 14 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,104 |
 | 15 | [RekarBotany](https://github.com/RekarBotany) | Rekar Botany | Iraq, Erbil | 5,958 |
 | 16 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | iraq | 5,941 |
 | 17 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | Baghdad, Iraq | 5,566 |
@@ -83,4 +83,4 @@ Indexed users: 2,252
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-10T16:36:34.269Z
+Generated: 2026-10-10T23:07:49.229Z

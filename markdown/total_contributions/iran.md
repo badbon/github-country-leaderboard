@@ -1,6 +1,6 @@
 # Total Contributions - Iran
 
-Generated: 2026-10-10T16:36:30.916Z
+Generated: 2026-10-10T23:07:45.469Z
 
 Users: 26878
 
@@ -15,14 +15,14 @@ Users: 26878
 | 7 | [tahaghafuri](https://github.com/tahaghafuri) | Taha Amin Ghafuri [T@G] | Freelancer |  | Iran | 16174 |
 | 8 | [mohamad-liyaghi](https://github.com/mohamad-liyaghi) | Mohamad Liyaghi | ZebracatAI |  | Iran/Tehran | 14905 |
 | 9 | [MhdiTaheri](https://github.com/MhdiTaheri) | Mahdi Taheri |  |  | Iran,Mazandaran | 14752 |
-| 10 | [crackbest](https://github.com/crackbest) | AliakbarAhmadi |  |  | iran | 13352 |
-| 11 | [mehran-mousavi](https://github.com/mehran-mousavi) | Mehran Mousavi |  |  | Tehran | 13322 |
-| 12 | [tahamajs](https://github.com/tahamajs) | Taha Majlesi | University of Tehran |  | Tehran | 13291 |
-| 13 | [thisiszana](https://github.com/thisiszana) | Zana | Optisan |  | Iran, Tehran | 13020 |
-| 14 | [amirkma](https://github.com/amirkma) | amirreza_kma | KMA |  | IRAN | 12263 |
-| 15 | [MrAriaNet](https://github.com/MrAriaNet) | Aria | @mobinhost  | MrAriaNet | Tehran, Iran | 12136 |
-| 16 | [mehrdadmb2](https://github.com/mehrdadmb2) | Μιθριδάτης | university  |  | Iran  | 11796 |
-| 17 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Rayan programming education center |  | Iran | 11771 |
-| 18 | [HamiParsa](https://github.com/HamiParsa) | Hami |  |  | IRAN | 11429 |
-| 19 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | @AlephbaSystem  |  | Mashhad, Iran | 11006 |
-| 20 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | @K2Quant  |  | Tehran, Iran | 10530 |
+| 10 | [mehran-mousavi](https://github.com/mehran-mousavi) | Mehran Mousavi |  |  | Tehran | 13322 |
+| 11 | [tahamajs](https://github.com/tahamajs) | Taha Majlesi | University of Tehran |  | Tehran | 13291 |
+| 12 | [thisiszana](https://github.com/thisiszana) | Zana | Optisan |  | Iran, Tehran | 13020 |
+| 13 | [amirkma](https://github.com/amirkma) | amirreza_kma | KMA |  | IRAN | 12263 |
+| 14 | [MrAriaNet](https://github.com/MrAriaNet) | Aria | @mobinhost  | MrAriaNet | Tehran, Iran | 12136 |
+| 15 | [mehrdadmb2](https://github.com/mehrdadmb2) | Μιθριδάτης | university  |  | Iran  | 11796 |
+| 16 | [mohammadali-mousavireineh](https://github.com/mohammadali-mousavireineh) | Mohammadali Mousavireineh | Rayan programming education center |  | Iran | 11771 |
+| 17 | [HamiParsa](https://github.com/HamiParsa) | Hami |  |  | IRAN | 11429 |
+| 18 | [Torabi-srh](https://github.com/Torabi-srh) | Soroush Trb. | @AlephbaSystem  |  | Mashhad, Iran | 11006 |
+| 19 | [OkBayat](https://github.com/OkBayat) | Mohammad Bayat | @K2Quant  |  | Tehran, Iran | 10530 |
+| 20 | [crackbest](https://github.com/crackbest) | AliakbarAhmadi |  |  | iran | 10506 |

@@ -1,6 +1,6 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-10T16:21:54.424Z
+Generated: 2026-10-10T22:48:18.331Z
 
 Users: 5641
 
@@ -13,8 +13,8 @@ Users: 5641
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Aligned |  | Costa Rica | 11951 |
 | 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | MUSCLE |  | Costa Rica | 9534 |
 | 7 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon |  |  | Santa Ana, Costa Rica | 8664 |
-| 8 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 7663 |
-| 9 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 7595 |
+| 8 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 7763 |
+| 9 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 7663 |
 | 10 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | @Gordon-Web-Studio  | alexgordon25 | Costa Rica | 7434 |
 | 11 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 |  | HenryMarn08 | Costa Rica | 6841 |
 | 12 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Edenia | xaviercr | Costa Rica | 6797 |

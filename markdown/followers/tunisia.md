@@ -1,13 +1,13 @@
 # Followers - Tunisia
 
-Generated: 2026-10-10T15:56:41.179Z
+Generated: 2026-10-10T22:27:44.551Z
 
-Users: 7201
+Users: 7203
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [chahe-dridi](https://github.com/chahe-dridi) | chaher dridi |  |  | Tunisia | 3480 |
-| 2 | [JawherKl](https://github.com/JawherKl) | Jawher Kl | @Github |  | Tunis | 2989 |
+| 2 | [JawherKl](https://github.com/JawherKl) | Jawher Kl | @Github |  | Tunis | 2995 |
 | 3 | [SelimHorri](https://github.com/SelimHorri) | Selim Horri | Oodrive |  | Tunisia | 2296 |
 | 4 | [www-root](https://github.com/www-root) | ⚞ Asyrm ⚟ |  | 0xasyrm | Tunisia | 1764 |
 | 5 | [ahmnouira](https://github.com/ahmnouira) | Ahmed Nouira | Looking for a Job | ahmnouira | Monastir, Tunisia | 1263 |
@@ -20,7 +20,7 @@ Users: 7201
 | 12 | [ShaheenJawadi](https://github.com/ShaheenJawadi) | Shaheen Jawadi |  |  | Ariana, Tunisia | 651 |
 | 13 | [X-SLAYER](https://github.com/X-SLAYER) | Iheb Briki | MineBeat | iiheb_ | Tunisia | 645 |
 | 14 | [mn-youssef](https://github.com/mn-youssef) | mansouri youssef |  |  | tunisia | 613 |
-| 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Sesame |  | Tunis | 607 |
+| 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Sesame |  | Tunis | 603 |
 | 16 | [jasonxtn](https://github.com/jasonxtn) | JASON13 | ⠨⠵⠨⠁ ⠨⠺⠨⠁⠨⠗⠨⠥⠨⠙⠨⠕ | xtnjason | Tunis, Tunisia | 566 |
 | 17 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 560 |
 | 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Bysur | ziedalsnoussi | Tunisia | 522 |

@@ -19,9 +19,9 @@ Indexed users: 696
 | 5 | [JoeM1990](https://github.com/JoeM1990) | Jonathan Monkila  | kinshasa,RDC | 8,199 |
 | 6 | [Dr-Lab1](https://github.com/Dr-Lab1) | Jonathan Kukwabantu Bahati | Kinshasa | 7,041 |
 | 7 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 6,866 |
-| 8 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 6,294 |
+| 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 6,244 |
 | 9 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Butembo, Congo Kinshasa | 6,202 |
-| 10 | [merdielongo](https://github.com/merdielongo) | merdielongo | Congo / Kinshasa | 6,162 |
+| 10 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | Democratic Republic of the Congo, Goma | 6,177 |
 | 11 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 5,913 |
 | 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,508 |
 | 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | Kinshasa, DRC | 5,501 |
@@ -40,7 +40,7 @@ Indexed users: 696
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | Kinshasa, Kigali | 31,649 |
 | 2 | [andydefer](https://github.com/andydefer) | Andy Kani | Democratic Republic of Congo | 5,913 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA | kinshasa | 3,157 |
-| 4 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,686 |
+| 4 | [vickbk](https://github.com/vickbk) | Victoire Bake | Goma, DR Congo | 2,665 |
 | 5 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice | Kinshasa | 2,577 |
 | 6 | [ElieOko](https://github.com/ElieOko) | ElieOko | Kinshasa   | 1,694 |
 | 7 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
@@ -83,4 +83,4 @@ Indexed users: 696
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-10T16:24:30.656Z
+Generated: 2026-10-10T22:52:13.930Z
