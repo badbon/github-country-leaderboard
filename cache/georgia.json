@@ -82798,5 +82798,77 @@
     "privateContributions": 0,
     "publicContributions": 8,
     "createdAt": "2026-05-28T21:21:00Z"
+  },
+  {
+    "login": "AlakhiarovSalekh",
+    "name": "Salekh Alakhiarov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293670084?s=72&u=812cbbcfc8a2d0ef3141a299ab6d12a4941a6224&v=4",
+    "location": "Georgia, Tbilisi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 238,
+    "privateContributions": 166,
+    "publicContributions": 802,
+    "createdAt": "2026-06-14T20:22:26Z"
+  },
+  {
+    "login": "KidashiDesign",
+    "name": "Kidashi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294600574?s=72&u=ebb989e84a5c00416c055dcfe9660c1df086a528&v=4",
+    "location": "Tbilisi, Georgia",
+    "company": "Kidashi Design",
+    "twitterUsername": "",
+    "followers": 39,
+    "privateContributions": 0,
+    "publicContributions": 674,
+    "createdAt": "2026-06-17T18:29:15Z"
+  },
+  {
+    "login": "mariamshavliashvili",
+    "name": "Mariam Shavliashvili",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292879850?s=72&u=d4b4479c9e7cddaeb10a830bcb883fdfc9d3d42f&v=4",
+    "location": "Tbilisi, Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-11T18:20:27Z"
+  },
+  {
+    "login": "aleksei-n-helfy",
+    "name": "Aleksei Nikolski",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296178445?s=72&u=85c1fc6452925ef43a92eeea537676683535fcb1&v=4",
+    "location": "Georgia",
+    "company": "Helfy",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-23T13:28:36Z"
+  },
+  {
+    "login": "glenlittlefield",
+    "name": "Glen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293201009?s=72&v=4",
+    "location": "Georgia",
+    "company": "LittlefieldSoultions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-12T19:21:20Z"
+  },
+  {
+    "login": "Evgeniy-Tkachenko-Ai",
+    "name": "Evgeniy Tkachenko",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291595524?s=72&u=8e494c221d0b130a2684b4515b3453d93c6cbb7e&v=4",
+    "location": "Batumi, Georgia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-06-07T19:32:27Z"
   }
 ]

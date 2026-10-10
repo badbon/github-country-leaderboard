@@ -9607,7 +9607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 819,
-    "privateContributions": 26,
+    "privateContributions": 24,
     "publicContributions": 18,
     "createdAt": "2017-01-09T06:28:03Z"
   },
@@ -9619,7 +9619,7 @@
     "company": "Qatar Airways",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 13,
+    "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2017-11-04T08:15:51Z"
   },
@@ -9630,7 +9630,7 @@
     "location": "doha",
     "company": "CGI",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-26T08:03:39Z"
@@ -9643,8 +9643,8 @@
     "company": "Qatar Computing Research Institute",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 82,
-    "publicContributions": 14,
+    "privateContributions": 103,
+    "publicContributions": 12,
     "createdAt": "2017-08-04T17:05:51Z"
   },
   {
@@ -9655,8 +9655,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 76,
-    "publicContributions": 21,
+    "privateContributions": 61,
+    "publicContributions": 15,
     "createdAt": "2017-03-09T19:21:02Z"
   },
   {
@@ -9692,7 +9692,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 18,
     "createdAt": "2017-03-14T12:52:36Z"
   },
   {
@@ -9726,8 +9726,8 @@
     "location": "Qatar, Doha",
     "company": "Tecnicas Reunidas",
     "twitterUsername": "",
-    "followers": 204,
-    "privateContributions": 1663,
+    "followers": 202,
+    "privateContributions": 1749,
     "publicContributions": 1,
     "createdAt": "2016-10-08T05:56:25Z"
   },
@@ -9738,9 +9738,9 @@
     "location": "Doha - Qatar",
     "company": "Primary Health Care Corporation",
     "twitterUsername": "",
-    "followers": 126,
-    "privateContributions": 8076,
-    "publicContributions": 546,
+    "followers": 127,
+    "privateContributions": 7542,
+    "publicContributions": 4408,
     "createdAt": "2016-03-23T07:45:08Z"
   },
   {
@@ -9751,8 +9751,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 4515,
-    "publicContributions": 33,
+    "privateContributions": 4591,
+    "publicContributions": 294,
     "createdAt": "2016-06-16T06:24:10Z"
   },
   {
@@ -9762,9 +9762,9 @@
     "location": "Qatar",
     "company": "Multimedia",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 795,
-    "publicContributions": 15,
+    "followers": 41,
+    "privateContributions": 818,
+    "publicContributions": 16,
     "createdAt": "2016-03-26T16:56:01Z"
   },
   {
@@ -9774,9 +9774,9 @@
     "location": "Doha, Qatar",
     "company": "Hamad bin Khalifa University, Qatar",
     "twitterUsername": "qaiserabbas0",
-    "followers": 37,
-    "privateContributions": 38,
-    "publicContributions": 43,
+    "followers": 38,
+    "privateContributions": 26,
+    "publicContributions": 34,
     "createdAt": "2016-09-12T05:24:58Z"
   },
   {
@@ -9786,9 +9786,9 @@
     "location": "Doha, Qatar",
     "company": "Vodafone",
     "twitterUsername": "EshbanSuleman",
-    "followers": 35,
+    "followers": 36,
     "privateContributions": 60,
-    "publicContributions": 78,
+    "publicContributions": 80,
     "createdAt": "2016-07-22T19:44:13Z"
   },
   {
@@ -9798,9 +9798,9 @@
     "location": "Doha, Qatar",
     "company": "Hamad bin Khalifa University",
     "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 501,
-    "publicContributions": 7,
+    "followers": 31,
+    "privateContributions": 494,
+    "publicContributions": 6,
     "createdAt": "2016-01-16T07:17:37Z"
   },
   {
@@ -9812,17 +9812,17 @@
     "twitterUsername": "osamabck",
     "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-07-30T15:46:35Z"
   },
   {
     "login": "karstensuhre",
     "name": "Karsten Suhre",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23173374?s=72&u=b790be8d9419c1500dbf195707e7b00b3f0ecdb3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23173374?s=72&u=b9f8ef0eedca24a26ddca9e789224bbfafe3720e&v=4",
     "location": "Doha, Qatar",
     "company": "Weill Cornell Medicine - Qatar",
     "twitterUsername": "ksuhre",
-    "followers": 20,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2016-10-31T16:29:13Z"
@@ -9834,7 +9834,7 @@
     "location": "Doha, Qatar",
     "company": "Carnegie Mellon University",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2016-10-22T13:24:35Z"
