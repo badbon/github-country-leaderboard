@@ -58,7 +58,7 @@ Published countries: 234
 | Curaçao | 53 | [View](./curacao.md) |
 | Cyprus | 2,741 | [View](./cyprus.md) |
 | Czechia | 16,214 | [View](./czechia.md) |
-| Denmark | 19,308 | [View](./denmark.md) |
+| Denmark | 19,309 | [View](./denmark.md) |
 | Djibouti | 55 | [View](./djibouti.md) |
 | Dominica | 18 | [View](./dominica.md) |
 | Dominican Republic | 3,316 | [View](./dominican_republic.md) |
@@ -169,7 +169,7 @@ Published countries: 234
 | Peru | 9,787 | [View](./peru.md) |
 | Philippines | 19,816 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,465 | [View](./portugal.md) |
+| Portugal | 28,464 | [View](./portugal.md) |
 | Puerto Rico | 1,542 | [View](./puerto_rico.md) |
 | Qatar | 1,074 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -188,7 +188,7 @@ Published countries: 234
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
 | Saudi Arabia | 7,752 | [View](./saudi_arabia.md) |
 | Senegal | 1,360 | [View](./senegal.md) |
-| Serbia | 10,671 | [View](./serbia.md) |
+| Serbia | 10,670 | [View](./serbia.md) |
 | Seychelles | 1,771 | [View](./seychelles.md) |
 | Sierra Leone | 443 | [View](./sierra_leone.md) |
 | Singapore | 24,691 | [View](./singapore.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,343 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-10T00:03:24.847Z
+Generated: 2026-10-10T00:12:45.155Z

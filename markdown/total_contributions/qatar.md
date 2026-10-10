@@ -1,6 +1,6 @@
 # Total Contributions - Qatar
 
-Generated: 2026-10-09T18:40:57.399Z
+Generated: 2026-10-10T00:06:12.231Z
 
 Users: 1074
 
@@ -11,10 +11,10 @@ Users: 1074
 | 3 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said |  |  | Qatar | 8943 |
 | 4 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 8622 |
 | 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab |  | kin230 | Doha, Qatar | 8536 |
-| 6 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6313 |
-| 7 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 6093 |
-| 8 | [mohammed-ibenayad](https://github.com/mohammed-ibenayad) | Mohammed Iben Ayad | qadrin.com |  | QATAR | 6010 |
-| 9 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 5949 |
+| 6 | [asifmkhan](https://github.com/asifmkhan) | M. Asif Khan | University of Doha for Science and Technology (UDST) |  | Doha, Qatar | 6424 |
+| 7 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 6313 |
+| 8 | [yasircs4](https://github.com/yasircs4) | Yasir Najeeb |  | yasirnajeep | Doha, Qatar | 6093 |
+| 9 | [mohammed-ibenayad](https://github.com/mohammed-ibenayad) | Mohammed Iben Ayad | qadrin.com |  | QATAR | 6010 |
 | 10 | [Snowy7](https://github.com/Snowy7) | Snowy |  |  | Qatar | 5728 |
 | 11 | [samstickkz](https://github.com/samstickkz) | samuel joseph (samstickkz) | samstickkz |  | QATAR | 5561 |
 | 12 | [ilhamsyahids](https://github.com/ilhamsyahids) | Ilham Syahid S |  |  | Qatar | 4548 |

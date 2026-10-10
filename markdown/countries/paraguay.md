@@ -13,25 +13,25 @@ Indexed users: 2,021
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 15,366 |
-| 2 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 14,120 |
-| 3 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 13,886 |
-| 4 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 12,823 |
-| 5 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 10,224 |
-| 6 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
-| 7 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 8,226 |
-| 8 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 6,812 |
-| 9 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,583 |
-| 10 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
-| 11 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
-| 12 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 4,966 |
-| 13 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
-| 14 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
-| 15 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
-| 16 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 4,280 |
-| 17 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
-| 18 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
-| 19 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
-| 20 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,082 |
+| 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 14,573 |
+| 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 14,120 |
+| 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 13,886 |
+| 5 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | Paraguay | 12,823 |
+| 6 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 10,224 |
+| 7 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
+| 8 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 8,226 |
+| 9 | [juraj-m](https://github.com/juraj-m) | Juraj | Yaguarón, Paraguay | 6,812 |
+| 10 | [MHHukiewitz](https://github.com/MHHukiewitz) | Mike Hukiewitz | Paraguay, Cordillera | 6,583 |
+| 11 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | Paraguay | 5,899 |
+| 12 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 5,424 |
+| 13 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 4,966 |
+| 14 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
+| 15 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
+| 16 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
+| 17 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 4,280 |
+| 18 | [dev-cardenas](https://github.com/dev-cardenas) | Fernando Salinas Cardenas | Paraguay | 4,243 |
+| 19 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 4,218 |
+| 20 | [neocuella](https://github.com/neocuella) | Rick Ovelar | Paraguay | 4,146 |
 
 ## Public Contributions
 
@@ -44,8 +44,8 @@ Indexed users: 2,021
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,181 |
 | 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,602 |
 | 7 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,512 |
-| 8 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,383 |
-| 9 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 1,377 |
+| 8 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 1,377 |
+| 9 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
 | 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,290 |
 | 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,103 |
 | 12 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,089 |
@@ -83,4 +83,4 @@ Indexed users: 2,021
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-09T18:40:18.077Z
+Generated: 2026-10-10T00:04:28.854Z

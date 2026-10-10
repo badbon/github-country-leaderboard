@@ -1,8 +1,8 @@
 # Followers - Portugal
 
-Generated: 2026-10-09T18:40:51.064Z
+Generated: 2026-10-10T00:06:06.895Z
 
-Users: 28465
+Users: 28464
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

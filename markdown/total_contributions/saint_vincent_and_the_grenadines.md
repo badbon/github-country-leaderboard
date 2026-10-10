@@ -1,12 +1,12 @@
 # Total Contributions - Saint Vincent and the Grenadines
 
-Generated: 2026-10-09T18:42:17.951Z
+Generated: 2026-10-10T00:09:40.909Z
 
 Users: 26
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | DBV Technology, LLC |  | North Kingstown RI | 537 |
+| 1 | [colin-dbv](https://github.com/colin-dbv) | Colin Vincent | DBV Technology, LLC |  | North Kingstown RI | 536 |
 | 2 | [blazetopher](https://github.com/blazetopher) | Christopher Mueller | Maritime Planning Associates |  | North Kingstown, RI | 513 |
 | 3 | [2Remus](https://github.com/2Remus) | human#23416 | Customs and Excise St Vincent and the Grenadines |  | Kingstown, Saint George, Saint Vincent and the Grenadines | 373 |
 | 4 | [azeldaniel](https://github.com/azeldaniel) | Azel Daniel |  |  | Saint Vincent and the Grenadines | 332 |

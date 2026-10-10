@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-09T18:41:02.797Z
+Generated: 2026-10-10T00:06:18.197Z
 
 Users: 299
 
@@ -8,7 +8,7 @@ Users: 299
 |---:|---|---|---|---|---|---:|
 | 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 11301 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | liechticonsulting.com | liechticonsult | Congo | 6734 |
-| 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Nanocreatives |  | Congo Brazzaville | 4043 |
+| 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Nanocreatives |  | Congo Brazzaville | 4039 |
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3843 |
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | @akieni-tech |  | Brazzaville - Congo | 3791 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3153 |

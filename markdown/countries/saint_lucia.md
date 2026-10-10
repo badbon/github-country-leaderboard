@@ -17,9 +17,9 @@ Indexed users: 35
 | 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,615 |
 | 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 1,992 |
 | 5 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,044 |
-| 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,032 |
+| 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,028 |
 | 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Saint Lucia | 961 |
-| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 818 |
+| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 817 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 281 |
 | 10 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 93 |
 | 11 | [fontius](https://github.com/fontius) |  | Saint Lucia | 85 |
@@ -38,7 +38,7 @@ Indexed users: 35
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 929 |
-| 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 442 |
+| 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 440 |
 | 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 128 |
 | 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 85 |
 | 5 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 67 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-09T18:41:47.493Z
+Generated: 2026-10-10T00:09:33.515Z
