@@ -11263,8 +11263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4,
-    "publicContributions": 104,
+    "privateContributions": 1,
+    "publicContributions": 93,
     "createdAt": "2021-11-09T12:31:32Z"
   },
   {
@@ -11302,18 +11302,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-15T04:34:55Z"
-  },
-  {
-    "login": "MyintMyatKyaw",
-    "name": "Myint Myat Kyaw",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76935918?s=72&v=4",
-    "location": "Myanmar,Yangon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 25,
-    "createdAt": "2021-01-04T06:48:46Z"
   },
   {
     "login": "0FF1C1AL",
@@ -11442,9 +11430,9 @@
     "location": "Myanmar(Burma)",
     "company": "",
     "twitterUsername": "",
-    "followers": 112,
+    "followers": 114,
     "privateContributions": 0,
-    "publicContributions": 571,
+    "publicContributions": 393,
     "createdAt": "2020-09-27T04:21:21Z"
   },
   {

@@ -11300,7 +11300,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 115,
     "createdAt": "2023-12-06T11:17:02Z"
   },
   {
@@ -11310,7 +11310,7 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-30T20:17:54Z"
@@ -11322,9 +11322,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 25,
     "createdAt": "2023-03-12T19:53:45Z"
   },
   {
@@ -11335,7 +11335,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 186,
+    "privateContributions": 189,
     "publicContributions": 59,
     "createdAt": "2023-11-24T17:31:25Z"
   },
@@ -11348,7 +11348,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2023-06-12T13:13:10Z"
   },
   {
@@ -11370,9 +11370,9 @@
     "location": "Romania",
     "company": "Transylvania Systems Incorporated",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 433,
-    "publicContributions": 9,
+    "followers": 9,
+    "privateContributions": 477,
+    "publicContributions": 5,
     "createdAt": "2023-10-01T12:12:27Z"
   },
   {
@@ -11396,7 +11396,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 4,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2023-02-21T16:19:44Z"
   },
   {
@@ -11407,7 +11407,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 848,
+    "privateContributions": 957,
     "publicContributions": 0,
     "createdAt": "2023-07-04T07:50:56Z"
   },
@@ -11419,20 +11419,20 @@
     "company": "Bixag",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 882,
-    "publicContributions": 281,
+    "privateContributions": 811,
+    "publicContributions": 234,
     "createdAt": "2023-05-29T10:27:58Z"
   },
   {
     "login": "vikpurice",
     "name": "Victor Purice",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133047160?s=72&u=74cfe73aeeee555325969830d9aa87fcaa581f2e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133047160?s=72&u=91c9952c1af24fdb2805e154569341a9aba4a342&v=4",
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 234,
-    "publicContributions": 170,
+    "followers": 13,
+    "privateContributions": 363,
+    "publicContributions": 172,
     "createdAt": "2023-05-09T18:29:18Z"
   },
   {
@@ -11444,7 +11444,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-09-06T17:58:28Z"
   },
   {
@@ -11454,9 +11454,9 @@
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 29,
     "createdAt": "2023-11-22T10:40:05Z"
   },
   {
@@ -11466,22 +11466,10 @@
     "location": "Hermannstadt, Romania",
     "company": "",
     "twitterUsername": "DariusDarius01",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-28T10:50:25Z"
-  },
-  {
-    "login": "matei-anghel",
-    "name": "Matei Anghel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139790358?s=72&u=b7b382423b4e16b70c6870616a3c29484c3d8e84&v=4",
-    "location": "Romania",
-    "company": "ING Hubs",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 921,
-    "publicContributions": 401,
-    "createdAt": "2023-07-17T15:28:59Z"
   },
   {
     "login": "SicKCristi",

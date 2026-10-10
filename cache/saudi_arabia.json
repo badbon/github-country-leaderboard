@@ -11288,7 +11288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 1,
     "createdAt": "2024-09-26T13:18:38Z"
   },
   {
@@ -11299,8 +11299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 848,
+    "privateContributions": 5,
+    "publicContributions": 485,
     "createdAt": "2024-08-08T06:07:12Z"
   },
   {
@@ -11312,7 +11312,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 23,
     "createdAt": "2024-01-30T20:15:11Z"
   },
   {
@@ -11324,7 +11324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 16,
     "createdAt": "2024-09-08T06:28:31Z"
   },
   {
@@ -11335,7 +11335,7 @@
     "company": "Finalytics Systems",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1759,
+    "privateContributions": 1055,
     "publicContributions": 0,
     "createdAt": "2024-02-05T11:09:44Z"
   },
@@ -11347,7 +11347,7 @@
     "company": "Corporate Research and Investigations Limited",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 116,
+    "privateContributions": 144,
     "publicContributions": 0,
     "createdAt": "2024-10-18T06:52:13Z"
   },
@@ -11394,9 +11394,9 @@
     "location": "Riyadh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 40,
+    "followers": 2,
+    "privateContributions": 65,
+    "publicContributions": 43,
     "createdAt": "2024-10-29T20:49:30Z"
   },
   {
@@ -11424,18 +11424,6 @@
     "createdAt": "2024-06-02T07:42:39Z"
   },
   {
-    "login": "mohamadorfali2006",
-    "name": "Mohamad Orfali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/188117641?s=72&v=4",
-    "location": "Riyadh, Saudia Arabia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
-    "createdAt": "2024-11-11T23:27:14Z"
-  },
-  {
     "login": "KhawlahProgram",
     "name": "khawlah-BinTaleb",
     "avatarUrl": "https://avatars.githubusercontent.com/u/174952200?s=72&u=5a9aeeb2f8c4d113ab41b9d4752ece08242a4242&v=4",
@@ -11444,7 +11432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 15,
     "createdAt": "2024-07-07T15:20:59Z"
   },
   {
@@ -11482,18 +11470,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-28T20:35:07Z"
-  },
-  {
-    "login": "shingami66",
-    "name": "Mozfer mohamed elhadi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157619702?s=72&v=4",
-    "location": "Riyadh",
-    "company": "G7 BLUE",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 543,
-    "createdAt": "2024-01-24T15:24:32Z"
   },
   {
     "login": "ahdevloper",
