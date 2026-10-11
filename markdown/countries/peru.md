@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,790
+Indexed users: 9,789
 
 | Leaderboard | Link |
 |---|---|
@@ -52,11 +52,11 @@ Indexed users: 9,790
 | 13 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | Peru | 3,108 |
 | 14 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez | Peru (UTC-5) | 3,044 |
 | 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | Peru | 2,834 |
-| 16 | [Far14z](https://github.com/Far14z) | Farid Coronel | Peru | 2,790 |
-| 17 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 2,762 |
-| 18 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | Imperial - Cañete - Lima | 2,698 |
-| 19 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | Peru | 2,652 |
-| 20 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | Lima, Peru | 2,602 |
+| 16 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | Peru | 2,762 |
+| 17 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | Imperial - Cañete - Lima | 2,698 |
+| 18 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | Peru | 2,652 |
+| 19 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | Lima, Peru | 2,602 |
+| 20 | [Far14z](https://github.com/Far14z) | Farid Coronel | Peru | 2,377 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 9,790
 | 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 | 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-11T17:49:13.457Z
+Generated: 2026-10-11T23:18:52.384Z

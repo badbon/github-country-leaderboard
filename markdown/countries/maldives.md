@@ -43,10 +43,10 @@ Indexed users: 354
 | 4 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 1,243 |
 | 5 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 1,215 |
 | 6 | [MohammedAliSharafuddin](https://github.com/MohammedAliSharafuddin) | Mohammed Ali Sharafuddin | Malé, Maldives | 973 |
-| 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 934 |
+| 7 | [Usagi5677](https://github.com/Usagi5677) | Naish | Maldives | 937 |
 | 8 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 725 |
-| 9 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 637 |
-| 10 | [crockalet](https://github.com/crockalet) |  | Maldives | 626 |
+| 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 640 |
+| 10 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 637 |
 | 11 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
 | 12 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 440 |
 | 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 423 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-11T17:37:17.401Z
+Generated: 2026-10-11T23:07:56.857Z

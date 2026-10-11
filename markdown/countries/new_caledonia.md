@@ -30,7 +30,7 @@ Indexed users: 111
 | 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 637 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 601 |
 | 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 521 |
-| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 493 |
+| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 492 |
 | 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 463 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-11T17:43:28.044Z
+Generated: 2026-10-11T23:13:36.881Z

@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-11T17:34:51.718Z
+Generated: 2026-10-11T23:06:11.488Z
 
 Users: 2200
 
@@ -15,8 +15,8 @@ Users: 2200
 | 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 10606 |
 | 8 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
 | 9 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 9830 |
-| 10 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
-| 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 8075 |
+| 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9289 |
+| 11 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
 | 12 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 7072 |
 | 13 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 7040 |
 | 14 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | PURE LAMBDA | LeoBenkel | Luxembourg | 6955 |

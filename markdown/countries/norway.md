@@ -53,10 +53,10 @@ Indexed users: 19,627
 | 14 | [eiriksm](https://github.com/eiriksm) | Eirik Stanghelle Morland | Trondheim, Norway | 7,398 |
 | 15 | [folknor](https://github.com/folknor) | folk | Norway | 7,341 |
 | 16 | [rob-smallshire](https://github.com/rob-smallshire) | Robert Smallshire | Oslo, Norway | 7,218 |
-| 17 | [tmiland](https://github.com/tmiland) | Tommy Miland | Norway | 6,589 |
-| 18 | [eserlan](https://github.com/eserlan) | Espen Erlandsen | Oslo, Norway | 6,558 |
-| 19 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Oslo, Norway | 6,513 |
-| 20 | [drmowinckels](https://github.com/drmowinckels) | Athanasia Monika Mowinckel | Oslo, Norway | 6,477 |
+| 17 | [MadsenDev](https://github.com/MadsenDev) | Christoffer Madsen | Norway | 6,813 |
+| 18 | [tmiland](https://github.com/tmiland) | Tommy Miland | Norway | 6,589 |
+| 19 | [eserlan](https://github.com/eserlan) | Espen Erlandsen | Oslo, Norway | 6,558 |
+| 20 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Oslo, Norway | 6,513 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 19,627
 | 19 | [SimenB](https://github.com/SimenB) | Simen Bekkhus | Oslo, Norway | 1,277 |
 | 20 | [aurorascharff](https://github.com/aurorascharff) | Aurora Scharff | Oslo, Norway | 1,275 |
 
-Generated: 2026-10-11T17:46:21.281Z
+Generated: 2026-10-11T23:15:40.122Z

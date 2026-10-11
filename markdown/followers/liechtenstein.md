@@ -1,6 +1,6 @@
 # Followers - Liechtenstein
 
-Generated: 2026-10-11T17:33:21.483Z
+Generated: 2026-10-11T23:05:57.345Z
 
 Users: 113
 
@@ -8,7 +8,7 @@ Users: 113
 |---:|---|---|---|---|---|---:|
 | 1 | [mrmotchy](https://github.com/mrmotchy) | mr.motchy | district74 |  | Liechtenstein | 337 |
 | 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 291 |
-| 3 | [vad-babushkin](https://github.com/vad-babushkin) | vad babushkin |  |  | Liechtenstein | 54 |
+| 3 | [vad-babushkin](https://github.com/vad-babushkin) | vad babushkin |  |  | Liechtenstein | 55 |
 | 4 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 31 |
 | 5 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 30 |
 | 6 | [danheron](https://github.com/danheron) | Dan Heron |  |  | Liechtenstein | 29 |

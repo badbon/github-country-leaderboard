@@ -21,8 +21,8 @@ Indexed users: 2,200
 | 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 10,606 |
 | 8 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
 | 9 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 9,830 |
-| 10 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
-| 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 8,075 |
+| 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,289 |
+| 11 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
 | 12 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 7,072 |
 | 13 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 7,040 |
 | 14 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
@@ -83,4 +83,4 @@ Indexed users: 2,200
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-11T17:34:51.718Z
+Generated: 2026-10-11T23:06:11.488Z

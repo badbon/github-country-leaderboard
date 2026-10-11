@@ -1,6 +1,6 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-11T17:46:57.880Z
+Generated: 2026-10-11T23:15:45.269Z
 
 Users: 995
 
@@ -11,9 +11,9 @@ Users: 995
 | 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood | Rihal |  | Oman | 3445 |
 | 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Codeline |  | Oman | 2977 |
 | 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Codeline |  | Oman | 2794 |
-| 6 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Codeline |  | Oman | 2460 |
-| 7 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali | Codeline |  |  Oman  | 2454 |
-| 8 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 2443 |
+| 6 | [M0hammedAlnajjar](https://github.com/M0hammedAlnajjar) | Mohammed Salim  | Codeline  |  | Oman | 2586 |
+| 7 | [Reemkhalifa2](https://github.com/Reemkhalifa2) | Reem AL Adawi | Codeline |  | Oman | 2460 |
+| 8 | [Shahd-geo](https://github.com/Shahd-geo) | Shahd AL Abdali | Codeline |  |  Oman  | 2454 |
 | 9 | [Mawadda9962](https://github.com/Mawadda9962) | Mawadda Alshukaili | Codeline |  | Oman | 2316 |
 | 10 | [2-towns](https://github.com/2-towns) | Arnaud | @logos-storage |  | Oman | 2258 |
 | 11 | [KiarashMinoo](https://github.com/KiarashMinoo) | Kiarash Minoo | Minoo Trading SPC |  | Muscat, Masqaţ, Oman | 2135 |

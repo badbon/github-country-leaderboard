@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-11T17:40:12.860Z
+Generated: 2026-10-11T23:11:47.337Z
 
 Users: 1754
 
@@ -21,8 +21,8 @@ Users: 1754
 | 13 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
 | 14 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 1421 |
 | 15 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1385 |
-| 16 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1276 |
-| 17 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1273 |
+| 16 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
+| 17 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1276 |
 | 18 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1272 |
 | 19 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
 | 20 | [stephen-golban](https://github.com/stephen-golban) | Stephen G | Syncra Studio |  | Moldova | 1177 |

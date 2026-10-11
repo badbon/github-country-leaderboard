@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-11T17:58:24.860Z
+Generated: 2026-10-11T23:22:55.668Z
 
 Users: 1357
 
@@ -12,7 +12,7 @@ Users: 1357
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | FUTURIZE WORLD | orbitturner | Dakar, Senegal | 271 |
 | 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 232 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Gaindé 2000 |  | Dakar ,Senegal | 226 |
-| 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | GalsenAI, Air Sénégal, Coursera, Neograph | eliaswalyba | Dakar, Sénégal | 212 |
+| 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | GalsenAI, Air Sénégal, Coursera, Neograph | eliaswalyba | Dakar, Sénégal | 214 |
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 196 |
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | undefined | takanome_dev | Dakar, Senegal | 195 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 192 |

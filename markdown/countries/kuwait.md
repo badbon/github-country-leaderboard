@@ -18,9 +18,9 @@ Indexed users: 798
 | 4 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,211 |
 | 5 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,082 |
 | 6 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 5,968 |
-| 7 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,274 |
-| 8 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,240 |
-| 9 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,194 |
+| 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,330 |
+| 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Kuwait | 5,274 |
+| 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 5,240 |
 | 10 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 4,120 |
 | 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 3,909 |
 | 12 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 3,660 |
@@ -44,7 +44,7 @@ Indexed users: 798
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,740 |
 | 6 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 1,639 |
 | 7 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,573 |
-| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,533 |
+| 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,526 |
 | 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,389 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,328 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 935 |
@@ -81,6 +81,6 @@ Indexed users: 798
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 90 |
 | 18 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny | Kuwait | 89 |
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
-| 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 80 |
+| 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-11T17:30:52.444Z
+Generated: 2026-10-11T23:04:25.587Z

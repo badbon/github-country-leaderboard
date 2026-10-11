@@ -21,7 +21,7 @@ Indexed users: 75
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
 | 8 | [esrid](https://github.com/esrid) | ADS | Martinique | 942 |
 | 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 920 |
-| 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 820 |
+| 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 821 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 745 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 468 |
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD | Martinique | 381 |
@@ -63,7 +63,7 @@ Indexed users: 75
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | Martinique | 88 |
-| 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 35 |
+| 2 | [bolom](https://github.com/bolom) | Bolo Michelin | Martinique | 34 |
 | 3 | [giovanny972](https://github.com/giovanny972) | giovanny adelaide | martinique | 17 |
 | 4 | [bcsirt](https://github.com/bcsirt) | Laurent LOUIS-THERESE | Fort-de-France | 16 |
 | 5 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 16 |
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-11T17:37:43.801Z
+Generated: 2026-10-11T23:09:37.101Z

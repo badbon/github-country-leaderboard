@@ -16,8 +16,8 @@ Indexed users: 113
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,332 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,041 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,887 |
-| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,611 |
-| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,129 |
+| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,623 |
+| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,189 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,815 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,677 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,149 |
@@ -56,7 +56,7 @@ Indexed users: 113
 | 17 | [ukhan717](https://github.com/ukhan717) | u.khan | Liechtenstein | 99 |
 | 18 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 77 |
 | 19 | [xenok69](https://github.com/xenok69) | xenok1 | Liechtenstein | 65 |
-| 20 | [secures92](https://github.com/secures92) | Samuel Kranz | Liechtenstein | 44 |
+| 20 | [secures92](https://github.com/secures92) | Samuel Kranz | Liechtenstein | 45 |
 
 ## Followers
 
@@ -64,7 +64,7 @@ Indexed users: 113
 |---:|---|---|---|---:|
 | 1 | [mrmotchy](https://github.com/mrmotchy) | mr.motchy | Liechtenstein | 337 |
 | 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 291 |
-| 3 | [vad-babushkin](https://github.com/vad-babushkin) | vad babushkin | Liechtenstein | 54 |
+| 3 | [vad-babushkin](https://github.com/vad-babushkin) | vad babushkin | Liechtenstein | 55 |
 | 4 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 31 |
 | 5 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 30 |
 | 6 | [danheron](https://github.com/danheron) | Dan Heron | Liechtenstein | 29 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 13 |
 
-Generated: 2026-10-11T17:33:21.483Z
+Generated: 2026-10-11T23:05:57.345Z

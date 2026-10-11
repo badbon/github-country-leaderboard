@@ -19,7 +19,7 @@ Indexed users: 142
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,860 |
 | 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,657 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,168 |
-| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,035 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,036 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 952 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 728 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-11T17:40:15.849Z
+Generated: 2026-10-11T23:11:50.277Z

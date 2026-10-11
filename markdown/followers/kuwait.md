@@ -1,6 +1,6 @@
 # Followers - Kuwait
 
-Generated: 2026-10-11T17:30:52.444Z
+Generated: 2026-10-11T23:04:25.587Z
 
 Users: 798
 
@@ -25,4 +25,4 @@ Users: 798
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 90 |
 | 18 | [AlanBennyOfficial](https://github.com/AlanBennyOfficial) | Alan Benny |  | AlanBennyX | Kuwait | 89 |
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman |  |  | Kuwait | 84 |
-| 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 80 |
+| 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 81 |

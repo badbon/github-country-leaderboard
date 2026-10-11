@@ -1,8 +1,8 @@
 # Public Contributions - Peru
 
-Generated: 2026-10-11T17:49:13.457Z
+Generated: 2026-10-11T23:18:52.384Z
 
-Users: 9790
+Users: 9789
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 9790
 | 13 | [NikolasP98](https://github.com/NikolasP98) | Nikolas Pinon | @kyndryl |  | Peru | 3108 |
 | 14 | [dxrzc](https://github.com/dxrzc) | Diego Rodriguez |  |  | Peru (UTC-5) | 3044 |
 | 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | @crafter-station  | shiarauzo | Peru | 2834 |
-| 16 | [Far14z](https://github.com/Far14z) | Farid Coronel | Universidad Peruana de Ciencias Aplicadaas |  | Peru | 2790 |
-| 17 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | @Freelancer | patricio0312rev | Peru | 2762 |
-| 18 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | @vallegrande |  | Imperial - Cañete - Lima | 2698 |
-| 19 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | UTEC |  | Peru | 2652 |
-| 20 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | MiTienda.pe | carlosvidalperu | Lima, Peru | 2602 |
+| 16 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | @Freelancer | patricio0312rev | Peru | 2762 |
+| 17 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | @vallegrande |  | Imperial - Cañete - Lima | 2698 |
+| 18 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | UTEC |  | Peru | 2652 |
+| 19 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | MiTienda.pe | carlosvidalperu | Lima, Peru | 2602 |
+| 20 | [Far14z](https://github.com/Far14z) | Farid Coronel | Universidad Peruana de Ciencias Aplicadaas |  | Peru | 2377 |

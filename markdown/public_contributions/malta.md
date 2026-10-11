@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-11T17:37:37.366Z
+Generated: 2026-10-11T23:08:40.654Z
 
 Users: 1225
 
@@ -22,7 +22,7 @@ Users: 1225
 | 14 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 2070 |
 | 15 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 2018 |
 | 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1905 |
-| 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1348 |
-| 18 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1292 |
-| 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1280 |
-| 20 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | @CreativeCommons |  | San Ġwann, Malta 🇲🇹 | 1200 |
+| 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1866 |
+| 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | @INFURA | dfroberg | Gozo, Malta | 1443 |
+| 19 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1292 |
+| 20 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1280 |

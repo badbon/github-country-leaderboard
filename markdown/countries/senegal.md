@@ -52,7 +52,7 @@ Indexed users: 1,357
 | 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
 | 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,220 |
 | 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,160 |
-| 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,131 |
+| 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
 | 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
 | 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,021 |
@@ -68,7 +68,7 @@ Indexed users: 1,357
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | Dakar, Senegal | 271 |
 | 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 232 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Dakar ,Senegal | 226 |
-| 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | Dakar, Sénégal | 212 |
+| 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | Dakar, Sénégal | 214 |
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye | Dakar, Senegal | 196 |
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | Dakar, Senegal | 195 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Dakar | 192 |
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-11T17:58:24.860Z
+Generated: 2026-10-11T23:22:55.668Z

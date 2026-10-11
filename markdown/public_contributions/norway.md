@@ -1,6 +1,6 @@
 # Public Contributions - Norway
 
-Generated: 2026-10-11T17:46:21.281Z
+Generated: 2026-10-11T23:15:40.122Z
 
 Users: 19627
 
@@ -22,7 +22,7 @@ Users: 19627
 | 14 | [eiriksm](https://github.com/eiriksm) | Eirik Stanghelle Morland | @packagist  | orkj | Trondheim, Norway | 7398 |
 | 15 | [folknor](https://github.com/folknor) | folk |  |  | Norway | 7341 |
 | 16 | [rob-smallshire](https://github.com/rob-smallshire) | Robert Smallshire | @sixty-north  | robsmallshire | Oslo, Norway | 7218 |
-| 17 | [tmiland](https://github.com/tmiland) | Tommy Miland |  |  | Norway | 6589 |
-| 18 | [eserlan](https://github.com/eserlan) | Espen Erlandsen |  |  | Oslo, Norway | 6558 |
-| 19 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Funcom |  | Oslo, Norway | 6513 |
-| 20 | [drmowinckels](https://github.com/drmowinckels) | Athanasia Monika Mowinckel | @LCBC-UiO @capro-uio  |  | Oslo, Norway | 6477 |
+| 17 | [MadsenDev](https://github.com/MadsenDev) | Christoffer Madsen | Madsen Development |  | Norway | 6813 |
+| 18 | [tmiland](https://github.com/tmiland) | Tommy Miland |  |  | Norway | 6589 |
+| 19 | [eserlan](https://github.com/eserlan) | Espen Erlandsen |  |  | Oslo, Norway | 6558 |
+| 20 | [leifericf](https://github.com/leifericf) | Leif Eric Fredheim | Funcom |  | Oslo, Norway | 6513 |
