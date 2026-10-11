@@ -13952,7 +13952,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 81,
     "createdAt": "2023-10-22T15:38:45Z"
   },
   {
@@ -14010,7 +14010,7 @@
     "location": "Aarhus, Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-23T12:29:46Z"
@@ -14070,7 +14070,7 @@
     "location": "Denmark",
     "company": "www.google.com",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-28T09:59:20Z"
@@ -14083,8 +14083,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 161,
-    "publicContributions": 6,
+    "privateContributions": 210,
+    "publicContributions": 7,
     "createdAt": "2023-05-29T07:20:31Z"
   },
   {
@@ -14114,12 +14114,12 @@
   {
     "login": "PTSDeSiqueira",
     "name": "De Siqueira",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150800396?s=72&u=ca87619082323163dc900d60485c9a7957010591&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150800396?s=72&u=bf8be1e7dfcd12d95b70e4566039a64f9339411e&v=4",
     "location": "Denmark",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 489,
+    "followers": 2,
+    "privateContributions": 488,
     "publicContributions": 256,
     "createdAt": "2023-11-14T11:18:11Z"
   },

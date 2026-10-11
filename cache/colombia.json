@@ -13664,7 +13664,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-17T18:21:41Z"
   },
   {
@@ -13676,7 +13676,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 23,
     "createdAt": "2025-08-26T11:43:37Z"
   },
   {
@@ -13712,20 +13712,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-27T15:59:26Z"
-  },
-  {
-    "login": "edwynacosta",
-    "name": "Edwin Acosta Soriano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/235579531?s=72&u=9cedfd37303d814cf3ebb4453c90160aac967b67&v=4",
-    "location": "Bogotá, Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 106,
-    "createdAt": "2025-10-01T19:36:31Z"
   },
   {
     "login": "AndresChicaiza",
@@ -13736,7 +13724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 353,
+    "publicContributions": 354,
     "createdAt": "2025-10-26T22:28:32Z"
   },
   {
@@ -13748,7 +13736,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-08-05T23:42:17Z"
   },
   {
@@ -13760,7 +13748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 6,
-    "publicContributions": 637,
+    "publicContributions": 636,
     "createdAt": "2025-08-15T01:06:05Z"
   },
   {
@@ -13772,13 +13760,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 86,
     "createdAt": "2025-08-12T15:07:44Z"
   },
   {
     "login": "josealvarezco",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/242085856?s=72&u=5d27d325623a94daaa8e8e1a69304d9fd139eba4&v=4",
+    "name": "Jose Alvarez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/242085856?s=72&v=4",
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
@@ -13796,7 +13784,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2025-07-05T14:17:11Z"
   },
   {
@@ -13806,9 +13794,9 @@
     "location": "Medellin,Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 91,
     "createdAt": "2025-07-28T14:30:49Z"
   },
   {
@@ -13822,18 +13810,6 @@
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2025-12-12T20:18:10Z"
-  },
-  {
-    "login": "artindevcode",
-    "name": "Artin Dev (Miguel Ángel)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249652175?s=72&u=67fa607a34b92ffbd7e860fdc989a6bfee32be23&v=4",
-    "location": "Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-15T00:41:33Z"
   },
   {
     "login": "Studio-Bit-Jam",

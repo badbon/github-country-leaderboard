@@ -13516,11 +13516,11 @@
     "name": "Léon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93096590?s=72&u=0d2edbbc71db40e576a7d8932f5b1306913e9dfb&v=4",
     "location": "Marne-la-Vallée & Bratislava",
-    "company": "ESIEE Paris & Action Contre la Faim",
+    "company": "ESIEE Paris",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1216,
-    "publicContributions": 262,
+    "followers": 13,
+    "privateContributions": 1439,
+    "publicContributions": 345,
     "createdAt": "2021-10-24T19:13:14Z"
   },
   {
@@ -13530,7 +13530,7 @@
     "location": "Bratislava",
     "company": "Dell",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 7,
     "privateContributions": 35,
     "publicContributions": 12,
     "createdAt": "2021-11-08T11:15:33Z"
@@ -13542,7 +13542,7 @@
     "location": "Bratislava :3",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 6,
     "publicContributions": 164,
     "createdAt": "2021-09-29T18:49:42Z"
@@ -13556,7 +13556,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2021-07-18T08:59:58Z"
   },
   {
@@ -13567,8 +13567,8 @@
     "company": "@dna-era",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 687,
-    "publicContributions": 24,
+    "privateContributions": 571,
+    "publicContributions": 33,
     "createdAt": "2021-05-20T19:08:24Z"
   },
   {
@@ -13590,9 +13590,9 @@
     "location": "Bratislava",
     "company": "@utegsk",
     "twitterUsername": "justAnArthur",
-    "followers": 5,
-    "privateContributions": 5149,
-    "publicContributions": 400,
+    "followers": 6,
+    "privateContributions": 5662,
+    "publicContributions": 1665,
     "createdAt": "2021-08-08T12:02:00Z"
   },
   {
@@ -13608,25 +13608,13 @@
     "createdAt": "2021-03-13T08:20:57Z"
   },
   {
-    "login": "l3xi42",
-    "name": "Laura Schnitzer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87892081?s=72&v=4",
-    "location": "Bratislava",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2021-07-24T07:03:43Z"
-  },
-  {
     "login": "culturepulse-jel",
     "name": "Justin@Culturepulse",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96700964?s=72&u=9104c2997d993d90ec7302d76c04eade19521414&v=4",
     "location": "Bratislava",
     "company": "CulturePulse, Inc.",
     "twitterUsername": "culturepulseai",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2021-12-26T20:11:54Z"
@@ -13639,8 +13627,8 @@
     "company": "IBM International Services Centre",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 468,
-    "publicContributions": 137,
+    "privateContributions": 512,
+    "publicContributions": 146,
     "createdAt": "2021-12-16T19:53:02Z"
   },
   {
@@ -13650,9 +13638,9 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 207,
+    "publicContributions": 211,
     "createdAt": "2021-08-23T13:11:05Z"
   },
   {
@@ -13688,7 +13676,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 491,
+    "publicContributions": 489,
     "createdAt": "2021-10-25T10:06:35Z"
   },
   {
@@ -13722,7 +13710,7 @@
     "location": "Bratislava",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2021-08-08T13:31:42Z"
@@ -13732,7 +13720,7 @@
     "name": "SAMUEL FERENC",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94464675?s=72&v=4",
     "location": "Bratislava",
-    "company": "83106",
+    "company": "Samuel Ferenc company",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,

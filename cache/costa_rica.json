@@ -14070,7 +14070,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-24T14:59:09Z"
@@ -14083,21 +14083,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 8,
+    "privateContributions": 9,
     "publicContributions": 55,
     "createdAt": "2022-05-28T19:47:20Z"
-  },
-  {
-    "login": "TurciosIO",
-    "name": "Luis Rodriguez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113854611?s=72&u=5c19fe8a2a5fd10d422fafae052439bb98727cae&v=4",
-    "location": "Costa Rica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2022-09-18T18:04:42Z"
   },
   {
     "login": "Gaiseric",
@@ -14143,8 +14131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5,
-    "publicContributions": 0,
+    "privateContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-06-29T04:13:32Z"
   },
   {
@@ -14156,7 +14144,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 357,
     "createdAt": "2022-09-23T23:53:21Z"
   },
   {
@@ -14168,7 +14156,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 47,
     "createdAt": "2022-11-16T13:03:01Z"
   },
   {
@@ -14190,9 +14178,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 97,
     "createdAt": "2022-11-12T02:05:03Z"
   },
   {
@@ -14203,8 +14191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 318,
-    "publicContributions": 1057,
+    "privateContributions": 572,
+    "publicContributions": 2060,
     "createdAt": "2022-06-29T02:56:38Z"
   },
   {
@@ -14215,8 +14203,8 @@
     "company": "",
     "twitterUsername": "jmgranados__",
     "followers": 3,
-    "privateContributions": 102,
-    "publicContributions": 16,
+    "privateContributions": 65,
+    "publicContributions": 4,
     "createdAt": "2022-02-10T17:08:28Z"
   },
   {
@@ -14227,7 +14215,7 @@
     "company": "@dimerso-global ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2014,
+    "privateContributions": 5704,
     "publicContributions": 2,
     "createdAt": "2022-06-02T22:10:51Z"
   },
@@ -14251,7 +14239,7 @@
     "company": "Universidad De Costa Rica",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 94,
+    "privateContributions": 91,
     "publicContributions": 5,
     "createdAt": "2022-10-20T23:10:45Z"
   },
@@ -14275,7 +14263,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 790,
+    "privateContributions": 701,
     "publicContributions": 34,
     "createdAt": "2022-12-05T02:18:32Z"
   },

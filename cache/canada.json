@@ -1354927,7 +1354927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 21813,
+    "privateContributions": 21816,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1355000,7 +1355000,7 @@
     "twitterUsername": "",
     "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 843,
+    "publicContributions": 852,
     "createdAt": "2013-02-26T02:35:43Z"
   },
   {
@@ -1371872,7 +1371872,7 @@
     "twitterUsername": "LaiskyCai",
     "followers": 400,
     "privateContributions": 724,
-    "publicContributions": 2432,
+    "publicContributions": 2433,
     "createdAt": "2013-05-26T12:04:17Z"
   },
   {
@@ -1380079,7 +1380079,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 5955,
+    "privateContributions": 5989,
     "publicContributions": 135,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1424887,7 +1424887,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 2648,
+    "privateContributions": 2662,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1425080,7 +1425080,7 @@
     "twitterUsername": "",
     "followers": 39,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 59,
     "createdAt": "2013-06-22T14:29:41Z"
   },
   {
@@ -1425103,7 +1425103,7 @@
     "company": "CNN @ WBD",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 738,
+    "privateContributions": 753,
     "publicContributions": 0,
     "createdAt": "2013-01-31T19:33:00Z"
   },
@@ -1425238,5 +1425238,17 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2017-01-13T11:36:43Z"
+  },
+  {
+    "login": "Runnp",
+    "name": "Runnp / Nurmuhammad",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156886196?s=72&u=534ab20f1d4648dad1775248904d52736b833b5d&v=4",
+    "location": "Toronto, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 736,
+    "createdAt": "2024-01-17T06:51:56Z"
   }
 ]

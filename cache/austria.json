@@ -13868,7 +13868,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 23,
     "createdAt": "2023-12-27T09:26:13Z"
   },
   {
@@ -13880,7 +13880,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 9,
     "createdAt": "2023-10-23T20:55:02Z"
   },
   {
@@ -13903,20 +13903,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 124,
-    "publicContributions": 49,
+    "privateContributions": 345,
+    "publicContributions": 27,
     "createdAt": "2023-11-04T22:19:05Z"
   },
   {
     "login": "hoetzenofer",
-    "name": "MilchKuh",
+    "name": "Hötzi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/136977340?s=72&u=7e02e5230bd146cb4d8450b2ddcea346e924a21f&v=4",
     "location": "Austria",
     "company": "HTL Neufelden",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 15,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2023-06-18T13:08:35Z"
   },
   {
@@ -13938,9 +13938,9 @@
     "location": "Innsbruck, Austria",
     "company": "University of Innsbruck",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 239,
+    "publicContributions": 112,
     "createdAt": "2023-09-19T10:49:36Z"
   },
   {
@@ -13951,8 +13951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 63,
-    "publicContributions": 24,
+    "privateContributions": 67,
+    "publicContributions": 22,
     "createdAt": "2023-04-10T18:17:59Z"
   },
   {
@@ -13963,8 +13963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 176,
-    "publicContributions": 3,
+    "privateContributions": 188,
+    "publicContributions": 0,
     "createdAt": "2023-09-25T12:45:36Z"
   },
   {
@@ -13975,8 +13975,8 @@
     "company": "Danube Private University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 49,
-    "publicContributions": 204,
+    "privateContributions": 37,
+    "publicContributions": 162,
     "createdAt": "2023-05-10T10:34:58Z"
   },
   {
@@ -13988,7 +13988,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 18,
     "createdAt": "2023-01-11T15:50:41Z"
   },
   {
@@ -14000,7 +14000,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 298,
+    "publicContributions": 313,
     "createdAt": "2023-07-09T20:28:44Z"
   },
   {
@@ -14011,8 +14011,8 @@
     "company": "HTL Grieskirchen",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 476,
-    "publicContributions": 220,
+    "privateContributions": 697,
+    "publicContributions": 248,
     "createdAt": "2023-09-27T13:27:14Z"
   },
   {
@@ -14022,9 +14022,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 198,
-    "publicContributions": 3007,
+    "followers": 10,
+    "privateContributions": 204,
+    "publicContributions": 2578,
     "createdAt": "2023-05-14T21:04:48Z"
   },
   {
@@ -14047,7 +14047,7 @@
     "company": "@dmc-server",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 109,
+    "privateContributions": 103,
     "publicContributions": 7,
     "createdAt": "2023-01-21T09:35:28Z"
   },
@@ -14072,7 +14072,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 36,
-    "publicContributions": 27,
+    "publicContributions": 26,
     "createdAt": "2023-09-19T12:04:51Z"
   },
   {
@@ -219046,5 +219046,17 @@
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2026-06-10T07:15:01Z"
+  },
+  {
+    "login": "LorenzoDiYanta",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294009724?s=72&v=4",
+    "location": "Wien, Osterreich",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-15T23:54:43Z"
   }
 ]

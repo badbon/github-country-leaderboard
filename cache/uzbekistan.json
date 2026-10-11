@@ -13664,7 +13664,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 31,
     "createdAt": "2024-08-30T14:25:13Z"
   },
   {
@@ -13676,7 +13676,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 33,
     "createdAt": "2024-09-29T16:10:15Z"
   },
   {
@@ -13687,20 +13687,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 13,
-    "publicContributions": 359,
+    "privateContributions": 7,
+    "publicContributions": 293,
     "createdAt": "2024-11-17T17:43:10Z"
   },
   {
     "login": "juraevdev",
     "name": "davlat",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182498490?s=72&u=5f0776143c821697611e94d20e693cf26056461b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182498490?s=72&u=0514c463a642891210d4160171cc431aa66b8549&v=4",
     "location": "Uzbekistan/Jizzakh",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 522,
-    "publicContributions": 326,
+    "followers": 7,
+    "privateContributions": 496,
+    "publicContributions": 106,
     "createdAt": "2024-09-23T10:08:01Z"
   },
   {
@@ -13712,7 +13712,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 14,
     "createdAt": "2024-04-28T13:38:28Z"
   },
   {
@@ -13724,7 +13724,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 58,
     "createdAt": "2024-02-29T14:14:43Z"
   },
   {
@@ -13734,9 +13734,9 @@
     "location": "Uzbekistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 153,
     "createdAt": "2024-01-31T11:46:23Z"
   },
   {
@@ -13746,9 +13746,9 @@
     "location": "Uzbekistan",
     "company": "UzSpace",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1955,
-    "publicContributions": 130,
+    "followers": 6,
+    "privateContributions": 1787,
+    "publicContributions": 122,
     "createdAt": "2024-09-06T04:36:22Z"
   },
   {
@@ -13758,8 +13758,8 @@
     "location": "Tashkent, Uzbekistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 73,
+    "followers": 7,
+    "privateContributions": 169,
     "publicContributions": 39,
     "createdAt": "2024-01-11T21:56:20Z"
   },
@@ -13772,20 +13772,8 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 51,
-    "publicContributions": 46,
+    "publicContributions": 54,
     "createdAt": "2024-01-04T11:58:13Z"
-  },
-  {
-    "login": "Runnp",
-    "name": "Runnp / Nurmuhammad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156886196?s=72&u=534ab20f1d4648dad1775248904d52736b833b5d&v=4",
-    "location": "Tashkent, Uzbekistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 648,
-    "createdAt": "2024-01-17T06:51:56Z"
   },
   {
     "login": "Akbarshohh",
@@ -13808,7 +13796,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 51,
     "createdAt": "2024-11-07T04:43:08Z"
   },
   {
@@ -13820,7 +13808,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 5,
-    "publicContributions": 28,
+    "publicContributions": 7,
     "createdAt": "2024-04-09T14:47:30Z"
   },
   {
@@ -13850,13 +13838,13 @@
   {
     "login": "javohir-io",
     "name": "Abduvahhobov Javohir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182643297?s=72&u=2b64f8f337e1e4a1cf4f54b92a448444d1311c2b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/182643297?s=72&u=f36ffd6628b1adf3211ad451c152e783a2b493a3&v=4",
     "location": "Uzbekistan, Tashkent",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 243,
     "createdAt": "2024-09-24T12:39:31Z"
   },
   {
@@ -13868,7 +13856,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 86,
     "createdAt": "2024-06-24T20:50:28Z"
   },
   {
@@ -13890,9 +13878,9 @@
     "location": "Uzbekistan",
     "company": "Google",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 11,
     "createdAt": "2024-12-19T12:54:32Z"
   },
   {

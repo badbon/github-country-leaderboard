@@ -13602,9 +13602,9 @@
     "location": "Zürich, Schweiz",
     "company": "Universitätsspital Zürich",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 332,
+    "publicContributions": 357,
     "createdAt": "2023-10-05T10:11:21Z"
   },
   {
@@ -13616,7 +13616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-12-28T19:48:18Z"
   },
   {
@@ -13626,21 +13626,21 @@
     "location": "Suisse",
     "company": "42 Lausanne",
     "twitterUsername": "",
-    "followers": 51,
+    "followers": 50,
     "privateContributions": 0,
-    "publicContributions": 756,
+    "publicContributions": 600,
     "createdAt": "2023-06-13T16:37:22Z"
   },
   {
     "login": "ThomNardou",
     "name": "Tytan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122774874?s=72&u=4583c43ae197e3ca5994fb328ac0510639a2f640&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122774874?s=72&u=2acb9db29105d9b30ceb84d49dd18813d885fc39&v=4",
     "location": "Suisse",
-    "company": "ETML - Mikeau",
+    "company": "HEIG-VD",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 131,
-    "publicContributions": 72,
+    "followers": 19,
+    "privateContributions": 91,
+    "publicContributions": 77,
     "createdAt": "2023-01-16T07:11:31Z"
   },
   {
@@ -13652,7 +13652,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 325,
+    "publicContributions": 207,
     "createdAt": "2023-02-13T12:54:15Z"
   },
   {
@@ -13662,9 +13662,9 @@
     "location": "geneva, suisse",
     "company": "CFPT",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 147,
-    "publicContributions": 64,
+    "followers": 12,
+    "privateContributions": 135,
+    "publicContributions": 80,
     "createdAt": "2023-11-26T22:24:02Z"
   },
   {
@@ -13675,8 +13675,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 20,
-    "publicContributions": 17,
+    "privateContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2023-08-28T08:35:15Z"
   },
   {
@@ -13687,8 +13687,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 400,
-    "publicContributions": 19,
+    "privateContributions": 392,
+    "publicContributions": 1,
     "createdAt": "2023-10-24T09:06:24Z"
   },
   {
@@ -13700,19 +13700,19 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 386,
+    "publicContributions": 349,
     "createdAt": "2023-03-10T11:41:42Z"
   },
   {
     "login": "KarouROk",
-    "name": "Rokky",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126622058?s=72&u=8f7753bacccfa133ef69cf41244d478e58067238&v=4",
-    "location": "Genève,Suisse",
+    "name": "Karan Yadav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126622058?s=72&u=1a3fa8936c1c1b209e75b42ff2a876547a896e92&v=4",
+    "location": "Geneva, Switzerland ",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "Karanlqg",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-02-28T21:44:31Z"
   },
   {
@@ -13747,8 +13747,8 @@
     "company": "",
     "twitterUsername": "Shinederu",
     "followers": 2,
-    "privateContributions": 183,
-    "publicContributions": 1032,
+    "privateContributions": 179,
+    "publicContributions": 1061,
     "createdAt": "2023-03-20T08:17:47Z"
   },
   {
@@ -13756,11 +13756,11 @@
     "name": "Sacha Riccardo Leone",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150700369?s=72&u=a2febfeae2514aa209a07dfe632be2bf87a60db1&v=4",
     "location": "Suisse",
-    "company": "Ordine AI",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 185,
+    "publicContributions": 520,
     "createdAt": "2023-11-13T15:15:48Z"
   },
   {
@@ -13772,32 +13772,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 22,
     "createdAt": "2023-06-19T08:35:10Z"
-  },
-  {
-    "login": "Ymagech",
-    "name": "Ymage.ch",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139554314?s=72&u=8ff8c73ebf91390c282176e87b24b341ee142d43&v=4",
-    "location": "1400 Yverdon, Vaud, Suisse",
-    "company": "Ymage.ch",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-07-14T11:28:10Z"
-  },
-  {
-    "login": "gabrielctz",
-    "name": "Gabriel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133511026?s=72&u=bb6cd6ece81c9b910ecfa351e05b207ff7648d3d&v=4",
-    "location": "Suisse",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-05-13T13:20:46Z"
   },
   {
     "login": "gabomax",

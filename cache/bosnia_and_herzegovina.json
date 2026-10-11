@@ -13794,7 +13794,7 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 2,
     "publicContributions": 1,
     "createdAt": "2018-06-25T17:56:00Z"
@@ -13806,7 +13806,7 @@
     "location": "Goražde, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-11-08T12:47:57Z"
@@ -13844,7 +13844,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 13,
-    "publicContributions": 54,
+    "publicContributions": 134,
     "createdAt": "2018-07-19T14:09:55Z"
   },
   {
@@ -13855,19 +13855,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 3,
+    "privateContributions": 56,
     "publicContributions": 0,
     "createdAt": "2018-12-04T14:14:03Z"
   },
   {
     "login": "armin-subasic",
     "name": "Armin Subasic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42110364?s=72&u=3888bc84b067f5dcd712042dbf18350aae4826cc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/42110364?s=72&v=4",
     "location": "Bosnia and Herzegovina",
     "company": "Astrotale Games",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 151,
+    "privateContributions": 158,
     "publicContributions": 1,
     "createdAt": "2018-08-05T09:01:50Z"
   },
@@ -13878,8 +13878,8 @@
     "location": "Bosnia and Herzegovina",
     "company": "@ministryofprogramming",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 232,
+    "followers": 14,
+    "privateContributions": 350,
     "publicContributions": 0,
     "createdAt": "2018-03-23T23:29:56Z"
   },
@@ -13892,7 +13892,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2018-08-02T07:18:22Z"
   },
   {
@@ -13916,7 +13916,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 104,
     "createdAt": "2018-12-11T21:05:01Z"
   },
   {
@@ -13927,7 +13927,7 @@
     "company": "@rubiconba",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 2,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2018-01-15T19:56:08Z"
   },
@@ -13950,9 +13950,9 @@
     "location": "Banja Luka, Bosnia and Herzegovina",
     "company": "@codaxy",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 3267,
-    "publicContributions": 62,
+    "followers": 11,
+    "privateContributions": 3375,
+    "publicContributions": 61,
     "createdAt": "2018-12-08T18:32:45Z"
   },
   {
@@ -13976,7 +13976,7 @@
     "twitterUsername": "Mirsad_H",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2018-11-26T20:20:14Z"
   },
   {
@@ -13998,7 +13998,7 @@
     "location": "Bosnia and Herzegovina, Europe",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-03-03T16:21:51Z"
@@ -14011,7 +14011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 459,
+    "privateContributions": 421,
     "publicContributions": 2,
     "createdAt": "2018-07-28T13:18:37Z"
   },
