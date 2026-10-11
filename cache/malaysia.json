@@ -12690,7 +12690,7 @@
     "location": "Malaysia/KL",
     "company": "Uniten",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2024-10-13T15:21:22Z"
@@ -12716,7 +12716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 28,
     "createdAt": "2024-12-08T13:39:42Z"
   },
   {
@@ -12752,7 +12752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 20,
     "createdAt": "2024-06-03T08:36:06Z"
   },
   {
@@ -12764,7 +12764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 42,
     "createdAt": "2024-01-04T07:52:26Z"
   },
   {
@@ -12872,7 +12872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 34,
     "createdAt": "2024-05-21T08:44:12Z"
   },
   {
@@ -12890,13 +12890,13 @@
   {
     "login": "RectoBlazer",
     "name": "Iyed Souilem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189980833?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/189980833?s=72&u=5d91ba50c2d82720c9f585013bd7155b89340b1b&v=4",
     "location": "Malaysia",
     "company": "still a Student :)",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 8,
     "createdAt": "2024-11-28T10:58:14Z"
   },
   {
@@ -12908,7 +12908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 174,
     "createdAt": "2024-10-11T14:40:04Z"
   },
   {
@@ -12920,7 +12920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 21,
     "createdAt": "2024-03-06T08:52:19Z"
   },
   {
@@ -141838,5 +141838,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2026-05-20T01:52:52Z"
+  },
+  {
+    "login": "JerimothLau",
+    "name": "Jerimoth Lau",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297609633?s=72&u=704acb738db7de72bef5b4c4b3dfbd8fc0324eec&v=4",
+    "location": "Kuala Lumpur",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-06-28T10:44:11Z"
   }
 ]

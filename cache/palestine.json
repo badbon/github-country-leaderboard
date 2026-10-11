@@ -12908,7 +12908,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 102,
     "createdAt": "2021-03-16T12:37:00Z"
   },
   {
@@ -12918,7 +12918,7 @@
     "location": "Palestine",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2021-11-30T17:45:55Z"
@@ -12931,7 +12931,7 @@
     "company": "An-Najah National University",
     "twitterUsername": "Adam_akram2",
     "followers": 12,
-    "privateContributions": 177,
+    "privateContributions": 195,
     "publicContributions": 91,
     "createdAt": "2021-08-25T23:13:45Z"
   },
@@ -12942,9 +12942,9 @@
     "location": "Gaza Strip, Palestine",
     "company": "",
     "twitterUsername": "oshbeir",
-    "followers": 12,
-    "privateContributions": 138,
-    "publicContributions": 293,
+    "followers": 14,
+    "privateContributions": 156,
+    "publicContributions": 183,
     "createdAt": "2021-09-28T18:42:50Z"
   },
   {
@@ -12955,7 +12955,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 493,
+    "privateContributions": 497,
     "publicContributions": 9,
     "createdAt": "2020-12-28T01:15:28Z"
   },
@@ -12966,9 +12966,9 @@
     "location": "Palestine, Ramallah",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 31,
     "createdAt": "2021-02-16T14:40:09Z"
   },
   {
@@ -12992,7 +12992,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 12,
     "createdAt": "2021-07-19T13:10:00Z"
   },
   {
@@ -13004,7 +13004,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2021-03-27T15:23:06Z"
   },
   {
@@ -13016,20 +13016,8 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 90,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2021-07-25T12:50:24Z"
-  },
-  {
-    "login": "khaleda-02",
-    "name": "khaled elkhalili",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95202754?s=72&u=2ffaa4a8194e0d2d498eeee5f2614dd88cba659a&v=4",
-    "location": "Palestine",
-    "company": "",
-    "twitterUsername": "khaleda_02",
-    "followers": 11,
-    "privateContributions": 1074,
-    "publicContributions": 1,
-    "createdAt": "2021-11-29T04:47:57Z"
   },
   {
     "login": "huthiefa-abuznaid",
@@ -13040,7 +13028,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 55,
     "createdAt": "2021-06-19T14:34:16Z"
   },
   {
@@ -13051,7 +13039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 90,
+    "privateContributions": 155,
     "publicContributions": 8,
     "createdAt": "2021-07-09T08:11:36Z"
   },
@@ -13064,7 +13052,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 26,
     "createdAt": "2021-10-14T11:16:01Z"
   },
   {
@@ -13074,8 +13062,8 @@
     "location": "Palestine, Gaza",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1919,
+    "followers": 8,
+    "privateContributions": 2964,
     "publicContributions": 213,
     "createdAt": "2021-12-05T15:46:57Z"
   },
@@ -13088,19 +13076,19 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 36,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-17T11:54:34Z"
   },
   {
     "login": "sirajalwahidi",
-    "name": "Siraj W",
+    "name": "Siraj Alwahidi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89537989?s=72&u=5c63943b0d0e4d0b82e510ef13f793e1f2612175&v=4",
     "location": "Palestine ",
     "company": "Freelancer ",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2021-08-25T16:23:03Z"
   },
   {

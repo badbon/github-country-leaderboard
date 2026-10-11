@@ -12739,8 +12739,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 207,
-    "publicContributions": 46,
+    "privateContributions": 154,
+    "publicContributions": 39,
     "createdAt": "2023-09-12T17:47:24Z"
   },
   {
@@ -12750,7 +12750,7 @@
     "location": "Bucharest, Romania",
     "company": "Bitdefender",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2023-01-04T14:31:23Z"
@@ -12775,8 +12775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 22,
-    "publicContributions": 70,
+    "privateContributions": 16,
+    "publicContributions": 62,
     "createdAt": "2023-12-14T00:45:56Z"
   },
   {
@@ -12810,9 +12810,9 @@
     "location": "Romania, Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 74,
     "createdAt": "2023-11-16T10:35:45Z"
   },
   {
@@ -12858,20 +12858,20 @@
     "location": "Brasov, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 36,
-    "publicContributions": 20,
+    "followers": 8,
+    "privateContributions": 50,
+    "publicContributions": 35,
     "createdAt": "2023-04-22T23:16:28Z"
   },
   {
     "login": "reserban",
     "name": "Alexandru Serban",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134176220?s=72&u=102d24cb1bde3d03b9e218f33410f095fa7d94ae&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134176220?s=72&u=41930bf8313321d333b362cbd9544706475f5d48&v=4",
     "location": "Romania",
     "company": "@unzetnow",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 76,
+    "followers": 3,
+    "privateContributions": 62,
     "publicContributions": 9,
     "createdAt": "2023-05-20T23:30:41Z"
   },
@@ -12896,7 +12896,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 274,
+    "publicContributions": 200,
     "createdAt": "2023-01-28T15:42:14Z"
   },
   {
@@ -12907,7 +12907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1390,
+    "privateContributions": 1578,
     "publicContributions": 29,
     "createdAt": "2023-09-08T17:13:15Z"
   },
@@ -12920,7 +12920,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 7,
-    "publicContributions": 69,
+    "publicContributions": 47,
     "createdAt": "2023-02-02T20:51:49Z"
   },
   {
@@ -12942,7 +12942,7 @@
     "location": "Romania, Arad",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2023-10-26T20:07:37Z"
