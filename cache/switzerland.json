@@ -12415,8 +12415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
-    "publicContributions": 144,
+    "privateContributions": 64,
+    "publicContributions": 154,
     "createdAt": "2024-05-16T18:11:27Z"
   },
   {
@@ -12427,8 +12427,8 @@
     "company": "University of Bern",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 172,
+    "privateContributions": 18,
+    "publicContributions": 185,
     "createdAt": "2024-10-27T01:38:55Z"
   },
   {
@@ -12463,8 +12463,8 @@
     "company": "ETH Zürich",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 198,
-    "publicContributions": 0,
+    "privateContributions": 168,
+    "publicContributions": 25,
     "createdAt": "2024-05-06T13:16:30Z"
   },
   {
@@ -12548,7 +12548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 43,
     "createdAt": "2024-07-03T13:38:20Z"
   },
   {
@@ -12558,22 +12558,10 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-10-31T12:12:56Z"
-  },
-  {
-    "login": "kristoferUA",
-    "name": "kristoferUA",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171427458?s=72&u=7a28621fa5fd211ea022c30e69abd40e3d24129e&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 847,
-    "createdAt": "2024-06-01T12:54:24Z"
   },
   {
     "login": "BasilTschopp",
@@ -12584,7 +12572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 184,
     "createdAt": "2024-06-16T12:23:51Z"
   },
   {
@@ -12608,7 +12596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 18,
     "createdAt": "2024-01-08T10:34:47Z"
   },
   {

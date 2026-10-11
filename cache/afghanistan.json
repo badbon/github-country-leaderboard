@@ -12774,7 +12774,7 @@
     "location": "Kabul, Afghanistan",
     "company": "Aseelapp",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-10T13:36:34Z"
@@ -12802,18 +12802,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-02T10:06:49Z"
-  },
-  {
-    "login": "SayedNadirShah",
-    "name": "Sayed Nadir Shah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62017784?s=72&u=1292eeb89bcd8980e454d4b48de51b965ec1a51e&v=4",
-    "location": "Kabul-Afghanistan",
-    "company": "Ministry Of Finance",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-10T12:19:20Z"
   },
   {
     "login": "Maryam-MT",
@@ -12906,9 +12894,9 @@
     "location": "Kabul, Afghanistan",
     "company": "ARCS",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 157,
     "createdAt": "2020-05-27T21:59:31Z"
   },
   {
@@ -12930,7 +12918,7 @@
     "location": "Afghanistan",
     "company": "MSH",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-24T09:28:36Z"
@@ -12943,7 +12931,7 @@
     "company": "Technical and Vocational Education of Afghanistan organization",
     "twitterUsername": "sharif_rasekh",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2020-11-04T09:53:58Z"
   },
@@ -12979,7 +12967,7 @@
     "company": "Da Afghanistan Bank (APS)",
     "twitterUsername": "fazalhaq3232",
     "followers": 1,
-    "privateContributions": 21,
+    "privateContributions": 20,
     "publicContributions": 9,
     "createdAt": "2020-04-02T19:12:22Z"
   },

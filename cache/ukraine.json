@@ -12331,20 +12331,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 49,
-    "publicContributions": 8,
+    "privateContributions": 47,
+    "publicContributions": 3,
     "createdAt": "2024-02-26T16:52:03Z"
   },
   {
     "login": "HannaHtslk",
-    "name": "AnnaHtslk",
+    "name": "AnnKarpus",
     "avatarUrl": "https://avatars.githubusercontent.com/u/155448280?s=72&u=b296fcabfea575ca2c899659712e67adb2b2ca00&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 12,
-    "publicContributions": 88,
+    "privateContributions": 59,
+    "publicContributions": 4,
     "createdAt": "2024-01-02T12:26:47Z"
   },
   {
@@ -12356,7 +12356,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 31,
     "createdAt": "2024-05-21T05:21:28Z"
   },
   {
@@ -12367,7 +12367,7 @@
     "company": "@Confidential",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 674,
+    "privateContributions": 580,
     "publicContributions": 133,
     "createdAt": "2024-04-26T18:52:03Z"
   },
@@ -12378,7 +12378,7 @@
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 54,
     "publicContributions": 47,
     "createdAt": "2024-02-07T03:10:58Z"
@@ -12391,7 +12391,7 @@
     "company": "@sysgears",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 424,
+    "privateContributions": 397,
     "publicContributions": 0,
     "createdAt": "2024-05-21T11:26:13Z"
   },
@@ -12404,7 +12404,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 379,
+    "publicContributions": 382,
     "createdAt": "2024-02-14T17:09:04Z"
   },
   {
@@ -12415,8 +12415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 35,
-    "publicContributions": 297,
+    "privateContributions": 18,
+    "publicContributions": 291,
     "createdAt": "2024-02-13T09:45:07Z"
   },
   {
@@ -12427,8 +12427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 6,
-    "publicContributions": 133,
+    "privateContributions": 0,
+    "publicContributions": 106,
     "createdAt": "2024-02-05T17:06:55Z"
   },
   {
@@ -12450,7 +12450,7 @@
     "location": "Ukraine, near Lviv",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2024-05-01T07:27:34Z"
@@ -12476,7 +12476,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 3,
-    "publicContributions": 266,
+    "publicContributions": 265,
     "createdAt": "2024-01-16T17:41:20Z"
   },
   {
@@ -12488,7 +12488,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 45,
     "createdAt": "2024-04-27T11:18:11Z"
   },
   {
@@ -12511,8 +12511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1131,
-    "publicContributions": 357,
+    "privateContributions": 857,
+    "publicContributions": 1,
     "createdAt": "2024-02-09T19:43:06Z"
   },
   {
@@ -12524,7 +12524,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 20,
     "createdAt": "2024-06-21T11:27:13Z"
   },
   {
@@ -12535,8 +12535,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 12,
-    "publicContributions": 22,
+    "privateContributions": 15,
+    "publicContributions": 46,
     "createdAt": "2024-03-07T16:00:18Z"
   },
   {
@@ -573166,5 +573166,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-11T01:21:06Z"
+  },
+  {
+    "login": "kristoferUA",
+    "name": "Микита Сергійович Суковач",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171427458?s=72&u=7a28621fa5fd211ea022c30e69abd40e3d24129e&v=4",
+    "location": "Ukraine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 5,
+    "publicContributions": 704,
+    "createdAt": "2024-06-01T12:54:24Z"
   }
 ]

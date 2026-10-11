@@ -12540,18 +12540,6 @@
     "createdAt": "2021-06-21T14:20:58Z"
   },
   {
-    "login": "jalalc0in",
-    "name": "Jalal Fawzi Turki",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/93490852?s=72&u=397500070f97eedeef2c78487f19d25c317f4c3d&v=4",
-    "location": "IRAQ",
-    "company": "LANSHCOERBIL",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-10-31T19:30:29Z"
-  },
-  {
     "login": "oCetus",
     "name": "Cetus",
     "avatarUrl": "https://avatars.githubusercontent.com/u/93540184?s=72&u=9a32beaea654b317c3ee7a0c47f6d0cc0906c7c3&v=4",
@@ -12631,21 +12619,9 @@
     "company": "Kajeo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 62,
-    "publicContributions": 4,
+    "privateContributions": 58,
+    "publicContributions": 1,
     "createdAt": "2021-05-29T18:56:21Z"
-  },
-  {
-    "login": "IamRealCaster",
-    "name": "Caster",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89154310?s=72&u=6393fac7d0ff907ca8ae060487dfc15b42f908ed&v=4",
-    "location": "iraq",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2021-08-18T16:49:22Z"
   },
   {
     "login": "Farah-alhusseini",
@@ -12662,7 +12638,7 @@
   {
     "login": "albasry",
     "name": "Ibrahim A. Albasri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78179952?s=72&u=33dd0d77d415233277ad6bc5a9f37d31e4a71537&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78179952?s=72&u=6e0da4d3f0afd027c2ec6128a4ae99112a31629d&v=4",
     "location": "Iraq",
     "company": "",
     "twitterUsername": "ibm_basri",
@@ -12690,7 +12666,7 @@
     "location": "iraq",
     "company": "",
     "twitterUsername": "_Mujatba",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-15T16:50:21Z"

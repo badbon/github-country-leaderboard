@@ -12848,7 +12848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 144,
+    "publicContributions": 137,
     "createdAt": "2023-09-12T20:27:21Z"
   },
   {
@@ -12882,7 +12882,7 @@
     "location": "Tbilisi, Georgia",
     "company": "@reverseable",
     "twitterUsername": "",
-    "followers": 937,
+    "followers": 922,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-24T02:24:04Z"
@@ -12894,9 +12894,9 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "Nicknet1c",
-    "followers": 293,
-    "privateContributions": 9469,
-    "publicContributions": 37,
+    "followers": 296,
+    "privateContributions": 10799,
+    "publicContributions": 63,
     "createdAt": "2022-01-11T16:51:46Z"
   },
   {
@@ -12906,9 +12906,9 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "patnos_d",
-    "followers": 173,
-    "privateContributions": 278,
-    "publicContributions": 18,
+    "followers": 174,
+    "privateContributions": 289,
+    "publicContributions": 10,
     "createdAt": "2022-05-30T08:51:40Z"
   },
   {
@@ -12918,9 +12918,9 @@
     "location": "georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 157,
-    "privateContributions": 107,
-    "publicContributions": 93,
+    "followers": 155,
+    "privateContributions": 104,
+    "publicContributions": 95,
     "createdAt": "2022-10-15T12:04:53Z"
   },
   {
@@ -12930,9 +12930,9 @@
     "location": "Georgia, Tbilisi",
     "company": "R3dev Inc.",
     "twitterUsername": "",
-    "followers": 127,
-    "privateContributions": 1226,
-    "publicContributions": 388,
+    "followers": 128,
+    "privateContributions": 1522,
+    "publicContributions": 384,
     "createdAt": "2022-12-22T07:38:30Z"
   },
   {
@@ -12942,7 +12942,7 @@
     "location": "Telavi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 102,
+    "followers": 103,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-08T17:33:59Z"
@@ -12956,7 +12956,7 @@
     "twitterUsername": "",
     "followers": 92,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 51,
     "createdAt": "2022-10-29T16:32:42Z"
   },
   {
@@ -12966,9 +12966,9 @@
     "location": "Tbilisi, Georgia ",
     "company": "",
     "twitterUsername": "",
-    "followers": 77,
-    "privateContributions": 7819,
-    "publicContributions": 33,
+    "followers": 78,
+    "privateContributions": 6834,
+    "publicContributions": 42,
     "createdAt": "2022-02-15T13:23:25Z"
   },
   {
@@ -12978,9 +12978,9 @@
     "location": "Tbilisi, Georgia",
     "company": "@ethereum",
     "twitterUsername": "MushowUK",
-    "followers": 68,
-    "privateContributions": 500,
-    "publicContributions": 143,
+    "followers": 69,
+    "privateContributions": 720,
+    "publicContributions": 181,
     "createdAt": "2022-05-14T13:09:43Z"
   },
   {
@@ -12990,9 +12990,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 64,
+    "followers": 65,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2022-08-22T17:20:35Z"
   },
   {
@@ -13002,7 +13002,7 @@
     "location": "Tbilisi, Georgia",
     "company": "@ANKA-Services ",
     "twitterUsername": "",
-    "followers": 60,
+    "followers": 59,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-03T15:39:17Z"
@@ -13014,8 +13014,8 @@
     "location": "Georgia",
     "company": "Webico",
     "twitterUsername": "LukaKoridz",
-    "followers": 59,
-    "privateContributions": 1185,
+    "followers": 58,
+    "privateContributions": 1257,
     "publicContributions": 27,
     "createdAt": "2022-04-01T06:21:04Z"
   },
@@ -13028,7 +13028,7 @@
     "twitterUsername": "prolix_gg",
     "followers": 47,
     "privateContributions": 0,
-    "publicContributions": 3620,
+    "publicContributions": 4064,
     "createdAt": "2022-06-01T04:49:04Z"
   },
   {
@@ -13039,8 +13039,8 @@
     "company": "@tetrobyte-studio",
     "twitterUsername": "",
     "followers": 44,
-    "privateContributions": 8845,
-    "publicContributions": 9,
+    "privateContributions": 12506,
+    "publicContributions": 33,
     "createdAt": "2022-04-08T17:03:52Z"
   },
   {
@@ -82798,5 +82798,17 @@
     "privateContributions": 8,
     "publicContributions": 2,
     "createdAt": "2021-02-19T07:38:27Z"
+  },
+  {
+    "login": "moreveal",
+    "name": "Vyacheslav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71901974?s=72&u=6c2066dc4e9245cc371cf4aa31c338380d296446&v=4",
+    "location": "Batumi, Georgia",
+    "company": "Mimic",
+    "twitterUsername": "",
+    "followers": 16,
+    "privateContributions": 2968,
+    "publicContributions": 2482,
+    "createdAt": "2020-09-25T19:25:13Z"
   }
 ]

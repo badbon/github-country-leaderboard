@@ -12667,8 +12667,8 @@
     "company": "HTL Mössingerstraße",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 34,
-    "publicContributions": 20,
+    "privateContributions": 46,
+    "publicContributions": 16,
     "createdAt": "2023-12-09T15:42:07Z"
   },
   {
@@ -12679,8 +12679,8 @@
     "company": "Gansch Anlagenbau",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 462,
-    "publicContributions": 19,
+    "privateContributions": 348,
+    "publicContributions": 17,
     "createdAt": "2023-07-04T17:37:09Z"
   },
   {
@@ -12714,7 +12714,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-20T12:35:34Z"
@@ -12728,7 +12728,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 24,
     "createdAt": "2023-09-14T07:22:38Z"
   },
   {
@@ -12740,7 +12740,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 53,
     "createdAt": "2023-10-16T12:13:37Z"
   },
   {
@@ -12762,7 +12762,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 5,
     "publicContributions": 3,
     "createdAt": "2023-01-07T08:49:09Z"
@@ -12770,13 +12770,13 @@
   {
     "login": "harifel",
     "name": "Haris Felić",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/138762227?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/138762227?s=72&u=8d8ade3acb6e5be44a6b902431a5c34027ce05ea&v=4",
     "location": "Graz, Austria",
-    "company": "University of Technology Graz",
+    "company": "Graz University of Technology",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 88,
     "createdAt": "2023-07-06T07:37:46Z"
   },
   {
@@ -12811,8 +12811,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 11,
-    "publicContributions": 5,
+    "privateContributions": 49,
+    "publicContributions": 1,
     "createdAt": "2023-10-02T18:58:46Z"
   },
   {
@@ -12824,31 +12824,31 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 50,
     "createdAt": "2023-07-11T08:39:11Z"
   },
   {
     "login": "irisbauer06",
-    "name": "Iris Amelie Bauer",
+    "name": "Iris Bauer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/153088470?s=72&u=0fd4ce9a60222b40eedd7dcaea4ea26b8f4bb26b&v=4",
     "location": "Austria",
-    "company": "HTBLA Kaindorf",
+    "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-12-06T12:32:07Z"
   },
   {
     "login": "manuelkocher",
     "name": "Manuel Kocher",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122824716?s=72&u=f6cae668d125be5b69a9e1d17c8c6a80cca8dc26&v=4",
-    "location": "Graz, Austria",
-    "company": "Graz University of Technology",
+    "location": "Salzburg, Austria",
+    "company": "University of Salzburg & Graz University of Technology",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 491,
+    "publicContributions": 449,
     "createdAt": "2023-01-16T18:41:35Z"
   },
   {
@@ -12860,7 +12860,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 17,
     "createdAt": "2023-07-21T22:17:26Z"
   },
   {
@@ -12871,7 +12871,7 @@
     "company": "HTBLA Kaindorf",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 112,
+    "privateContributions": 146,
     "publicContributions": 7,
     "createdAt": "2023-09-29T08:41:35Z"
   },
@@ -12883,7 +12883,7 @@
     "company": "Freelance",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 372,
+    "privateContributions": 347,
     "publicContributions": 32,
     "createdAt": "2023-12-05T18:25:12Z"
   },
@@ -12894,7 +12894,7 @@
     "location": "Innsbruck, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 10,
     "publicContributions": 14,
     "createdAt": "2023-04-19T17:53:29Z"
