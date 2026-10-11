@@ -1,8 +1,8 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-11T15:23:17.144Z
+Generated: 2026-10-11T16:47:40.665Z
 
-Users: 7202
+Users: 7201
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 7202
 | 17 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |
 | 18 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 |  |  | Tunisia | 2258 |
 | 19 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 2118 |
-| 20 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | ZIX DEV |  | Tunisia | 1818 |
+| 20 | [mohamed-adhd](https://github.com/mohamed-adhd) | mohamed amdouni | Esprit |  | Tunis Tunisia | 1944 |

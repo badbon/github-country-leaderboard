@@ -1,13 +1,13 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-11T15:29:12.500Z
+Generated: 2026-10-11T16:54:50.175Z
 
 Users: 1184
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 10352 |
-| 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | basecode LLC. | flakerimi | Tirane, Albania | 10302 |
+| 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | basecode LLC. | flakerimi | Tirane, Albania | 21243 |
+| 2 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 10352 |
 | 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 9126 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8242 |

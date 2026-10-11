@@ -1,13 +1,13 @@
 # Total Contributions - Slovakia
 
-Generated: 2026-10-11T15:31:24.323Z
+Generated: 2026-10-11T16:38:32.314Z
 
-Users: 4684
+Users: 4683
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 16177 |
-| 2 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín |  |  | Prešov, Slovakia | 15052 |
+| 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín |  |  | Prešov, Slovakia | 26095 |
+| 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Kromberg & Schubert | NagyViktordp | Slovakia  | 16177 |
 | 3 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | @EHOSS-IT |  | Slovak Republic | 12108 |
 | 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | @version-two  | chamuty | Bratislava, Slovakia | 12043 |
 | 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Ubytovanie FOR YOU, sro |  | Košice, Slovakia | 11966 |

@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,202
+Indexed users: 7,201
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 7,202
 | 17 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
 | 18 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 | Tunisia | 2,258 |
 | 19 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 2,118 |
-| 20 | [ifaouibadi](https://github.com/ifaouibadi) | Badi Ifaoui | Tunisia | 1,818 |
+| 20 | [mohamed-adhd](https://github.com/mohamed-adhd) | mohamed amdouni | Tunis Tunisia | 1,944 |
 
 ## Followers
 
@@ -79,8 +79,8 @@ Indexed users: 7,202
 | 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Tunis | 603 |
 | 16 | [jasonxtn](https://github.com/jasonxtn) | JASON13 | Tunis, Tunisia | 566 |
 | 17 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 560 |
-| 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
-| 19 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
-| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim | Tunisia | 477 |
+| 18 | [jassercherif](https://github.com/jassercherif) | jasser cherif | Kelibia, Nabeul, Tunisia | 529 |
+| 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
+| 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-11T15:23:17.144Z
+Generated: 2026-10-11T16:47:40.665Z

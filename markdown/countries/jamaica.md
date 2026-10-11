@@ -23,15 +23,15 @@ Indexed users: 1,275
 | 9 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
 | 10 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
 | 11 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
-| 12 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
-| 13 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
-| 14 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
-| 15 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 3,896 |
-| 16 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 3,888 |
-| 17 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
-| 18 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 3,794 |
-| 19 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
-| 20 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
+| 12 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
+| 13 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
+| 14 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
+| 15 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
+| 16 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
+| 17 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 3,896 |
+| 18 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 3,888 |
+| 19 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
+| 20 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 3,794 |
 
 ## Public Contributions
 
@@ -54,8 +54,8 @@ Indexed users: 1,275
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 751 |
 | 16 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
 | 17 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 638 |
-| 18 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
-| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 613 |
+| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 630 |
+| 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
 | 20 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | Kingston, RI | 603 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 94 |
 
-Generated: 2026-10-11T16:03:59.990Z
+Generated: 2026-10-11T17:27:52.282Z

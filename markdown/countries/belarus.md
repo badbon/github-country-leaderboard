@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,953
+Indexed users: 10,952
 
 | Leaderboard | Link |
 |---|---|
@@ -39,7 +39,7 @@ Indexed users: 10,953
 |---:|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin | Minsk, Belarus | 13,765 |
 | 2 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,909 |
-| 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | Minsk, Belarus | 4,312 |
+| 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | Minsk, Belarus | 4,103 |
 | 4 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 3,364 |
 | 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex | Minsk | 2,879 |
 | 6 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
@@ -69,8 +69,8 @@ Indexed users: 10,953
 | 5 | [ArtPlatosha](https://github.com/ArtPlatosha) | Artyom | Belarus, Minsk | 653 |
 | 6 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 620 |
 | 7 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 469 |
-| 8 | [abirul3881](https://github.com/abirul3881) | Andrei Birul | Mozyr,Belarus | 393 |
-| 9 | [nillerusr](https://github.com/nillerusr) |  | Belarus | 390 |
+| 8 | [nillerusr](https://github.com/nillerusr) |  | Belarus | 390 |
+| 9 | [abirul3881](https://github.com/abirul3881) | Andrei Birul | Mozyr,Belarus | 388 |
 | 10 | [saldatCrus](https://github.com/saldatCrus) | SaldatCrus Exe  | Belarus | 284 |
 | 11 | [yzh44yzh](https://github.com/yzh44yzh) | Yuri Zhloba | Minsk, Belarus | 264 |
 | 12 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 250 |
@@ -83,4 +83,4 @@ Indexed users: 10,953
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-11T15:35:26.761Z
+Generated: 2026-10-11T17:01:14.853Z

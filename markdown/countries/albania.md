@@ -12,8 +12,8 @@ Indexed users: 1,184
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 10,352 |
-| 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 10,302 |
+| 1 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 21,243 |
+| 2 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 10,352 |
 | 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 9,126 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,598 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,242 |
@@ -38,7 +38,7 @@ Indexed users: 1,184
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,880 |
-| 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 2,012 |
+| 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 4,765 |
 | 3 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,521 |
 | 4 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,390 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,381 |
@@ -75,12 +75,12 @@ Indexed users: 1,184
 | 11 | [meggsila](https://github.com/meggsila) | Megi Sila | Tirana, Albania | 100 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | Albania | 92 |
 | 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi | Albania | 90 |
-| 14 | [rinor](https://github.com/rinor) | Rinor Hoxha | Albania, Tirane | 90 |
-| 15 | [devklajd](https://github.com/devklajd) | Klajd Belishaku | Tirana, Albania | 89 |
-| 16 | [nikolliervin](https://github.com/nikolliervin) | undefined | Tirana, Albania | 88 |
+| 14 | [devklajd](https://github.com/devklajd) | Klajd Belishaku | Tirana, Albania | 89 |
+| 15 | [nikolliervin](https://github.com/nikolliervin) | undefined | Tirana, Albania | 88 |
+| 16 | [rinor](https://github.com/rinor) | Rinor Hoxha | Albania, Tirane | 87 |
 | 17 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Albania | 85 |
 | 18 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 85 |
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-11T15:29:12.500Z
+Generated: 2026-10-11T16:54:50.175Z

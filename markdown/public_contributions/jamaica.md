@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-11T16:03:59.990Z
+Generated: 2026-10-11T17:27:52.282Z
 
 Users: 1275
 
@@ -23,6 +23,6 @@ Users: 1275
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 751 |
 | 16 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade |  |  | Kingston upon thames | 654 |
 | 17 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott |  | hughscottjr | Kingston, Jamaica  | 638 |
-| 18 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious |  | lord_dubious | Kingston, ON | 624 |
-| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 613 |
+| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  |  | joncooperworks | Jamaica | 630 |
+| 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious |  | lord_dubious | Kingston, ON | 624 |
 | 20 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | University of Rhode Island |  | Kingston, RI | 603 |

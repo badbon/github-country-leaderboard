@@ -1,6 +1,6 @@
 # Followers - Honduras
 
-Generated: 2026-10-11T16:00:09.186Z
+Generated: 2026-10-11T17:25:00.871Z
 
 Users: 1262
 
@@ -22,7 +22,7 @@ Users: 1262
 | 14 | [isinicolle](https://github.com/isinicolle) | Isis Zapata Florentino | Full Stack Developer |  | Honduras | 110 |
 | 15 | [StarSheriff2](https://github.com/StarSheriff2) | Arturo Alvarez | Full-stack Developer | ArturoAlvarezV | Honduras | 104 |
 | 16 | [aalvrz](https://github.com/aalvrz) | Andrés Álvarez | @systemsurveyor  |  | 🇭🇳 Honduras | 90 |
-| 17 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras |  |  | Honduras | 66 |
+| 17 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras |  |  | Honduras | 72 |
 | 18 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe |  |  | Tegucigalpa, HN | 62 |
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | DevTeam504 | christian_sc96 | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | UNAH Campus Comayagua |  | Honduras | 55 |

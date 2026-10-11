@@ -1,6 +1,6 @@
 # Slovakia
 
-Indexed users: 4,684
+Indexed users: 4,683
 
 | Leaderboard | Link |
 |---|---|
@@ -12,8 +12,8 @@ Indexed users: 4,684
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
-| 2 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 15,052 |
+| 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 26,095 |
+| 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
 | 3 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 12,108 |
 | 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 12,043 |
 | 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
@@ -83,4 +83,4 @@ Indexed users: 4,684
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-11T15:31:24.323Z
+Generated: 2026-10-11T16:38:32.314Z

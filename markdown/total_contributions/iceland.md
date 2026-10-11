@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-11T16:01:03.651Z
+Generated: 2026-10-11T17:26:01.615Z
 
 Users: 1582
 
@@ -21,8 +21,8 @@ Users: 1582
 | 13 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
 | 14 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6030 |
 | 15 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5619 |
-| 16 | [agudmund](https://github.com/agudmund) | Ævar Guðmundsson | aeVar |  | Iceland | 5577 |
-| 17 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 5501 |
-| 18 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 5396 |
-| 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5373 |
-| 20 | [korri123](https://github.com/korri123) | Kormákur |  |  | Iceland | 5291 |
+| 16 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 5501 |
+| 17 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 5396 |
+| 18 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5373 |
+| 19 | [korri123](https://github.com/korri123) | Kormákur |  |  | Iceland | 5291 |
+| 20 | [einargudnig](https://github.com/einargudnig) | Einar Guðni Guðjónsson | @maul-is  | einargudni | Reykjavik | 5203 |

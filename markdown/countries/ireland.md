@@ -83,4 +83,4 @@ Indexed users: 19,524
 | 19 | [damienmaguire](https://github.com/damienmaguire) | Damien Maguire | Ireland | 1,045 |
 | 20 | [afshinm](https://github.com/afshinm) | Afshin Mehrabani | Dublin, Ireland | 1,037 |
 
-Generated: 2026-10-11T16:02:21.841Z
+Generated: 2026-10-11T17:27:30.682Z

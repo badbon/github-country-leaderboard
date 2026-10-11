@@ -24,12 +24,12 @@ Indexed users: 1,262
 | 10 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 6,520 |
 | 11 | [ismarcotulio](https://github.com/ismarcotulio) | Marco Tulio Ruiz | Honduras | 6,514 |
 | 12 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 5,401 |
-| 13 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 5,093 |
-| 14 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 5,054 |
-| 15 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,988 |
-| 16 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,443 |
-| 17 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,414 |
-| 18 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 4,297 |
+| 13 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 5,395 |
+| 14 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 5,093 |
+| 15 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 5,054 |
+| 16 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,988 |
+| 17 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,443 |
+| 18 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,414 |
 | 19 | [robertraf](https://github.com/robertraf) | Roberto Ramírez | Tegucigalpa, Honduras | 4,077 |
 | 20 | [andresumanzor](https://github.com/andresumanzor) | Andrés Umanzor | San Pedro Sula, Honduras | 3,976 |
 
@@ -78,9 +78,9 @@ Indexed users: 1,262
 | 14 | [isinicolle](https://github.com/isinicolle) | Isis Zapata Florentino | Honduras | 110 |
 | 15 | [StarSheriff2](https://github.com/StarSheriff2) | Arturo Alvarez | Honduras | 104 |
 | 16 | [aalvrz](https://github.com/aalvrz) | Andrés Álvarez | 🇭🇳 Honduras | 90 |
-| 17 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras | Honduras | 66 |
+| 17 | [ideras](https://github.com/ideras) | Ivan de Jesus Deras | Honduras | 72 |
 | 18 | [Pcgell](https://github.com/Pcgell) | Kenneth Vittetoe | Tegucigalpa, HN | 62 |
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-11T16:00:09.186Z
+Generated: 2026-10-11T17:25:00.871Z

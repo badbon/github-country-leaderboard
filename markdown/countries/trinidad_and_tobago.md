@@ -73,7 +73,7 @@ Indexed users: 256
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert | Trinidad and Tobago | 61 |
 | 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Trinidad and tobago | 57 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | Trinidad and Tobago | 51 |
-| 12 | [Ispirett](https://github.com/Ispirett) | Ispirett | Trinidad and Tobago | 45 |
+| 12 | [Ispirett](https://github.com/Ispirett) | Ispirett | Trinidad and Tobago | 44 |
 | 13 | [kmn5409](https://github.com/kmn5409) | Keanu Nichols | Trinidad and Tobago | 43 |
 | 14 | [RicoAntonioFelix](https://github.com/RicoAntonioFelix) | Rico Antonio Felix | Trinidad and Tobago, Port-of-Spain | 34 |
 | 15 | [nakoyawilson](https://github.com/nakoyawilson) | Nakoya Wilson | Trinidad and Tobago | 33 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-11T15:23:12.138Z
+Generated: 2026-10-11T16:47:36.202Z

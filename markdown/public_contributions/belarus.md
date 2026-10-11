@@ -1,14 +1,14 @@
 # Public Contributions - Belarus
 
-Generated: 2026-10-11T15:35:26.761Z
+Generated: 2026-10-11T17:01:14.853Z
 
-Users: 10953
+Users: 10952
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kudima03](https://github.com/kudima03) | Dmitry Kurochkin |  |  | Minsk, Belarus | 13765 |
 | 2 | [dementorsss](https://github.com/dementorsss) | Dmitry |  |  | Minsk | 4909 |
-| 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | @ITProfGroup |  | Minsk, Belarus | 4312 |
+| 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | @ITProfGroup |  | Minsk, Belarus | 4103 |
 | 4 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | @androidbroadcast  | kirill_rozov | Grodno, Belarus | 3364 |
 | 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex |  |  | Minsk | 2879 |
 | 6 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | irex.ai |  | Minsk, Belarus | 2244 |

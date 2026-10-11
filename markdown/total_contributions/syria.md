@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-11T15:18:59.903Z
+Generated: 2026-10-11T16:43:56.188Z
 
 Users: 1482
 
@@ -17,8 +17,8 @@ Users: 1482
 | 9 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 2559 |
 | 10 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 2555 |
 | 11 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2551 |
-| 12 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2105 |
-| 13 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2024 |
+| 12 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2324 |
+| 13 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2105 |
 | 14 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1986 |
 | 15 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 1950 |
 | 16 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 1825 |

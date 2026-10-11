@@ -1,6 +1,6 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-11T15:26:14.989Z
+Generated: 2026-10-11T16:49:28.820Z
 
 Users: 5626
 
@@ -15,14 +15,14 @@ Users: 5626
 | 7 | [matiasportugau-ui](https://github.com/matiasportugau-ui) | MatPrompt | @BMCdecode  |  | Uruguay  | 3036 |
 | 8 | [davidmonterocrespo24](https://github.com/davidmonterocrespo24) | David Montero Crespo | Velxio | DMonteroCrespo1 | Uruguay | 2866 |
 | 9 | [damiansire](https://github.com/damiansire) | Damian Sire |  |  | Uruguay | 2721 |
-| 10 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
-| 11 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
-| 12 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
-| 13 | [SuarezPM](https://github.com/SuarezPM) | Pablo Suarez | Apohara |  | Montevideo, Uruguay | 2308 |
-| 14 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2299 |
-| 15 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 2284 |
-| 16 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2114 |
-| 17 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
-| 18 | [mathiashole](https://github.com/mathiashole) | Mathias Mangino |  | joaquinmangino | Montevideo, Uruguay | 1986 |
-| 19 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla |  |  | Uruguay, Montevideo | 1963 |
-| 20 | [matintosh](https://github.com/matintosh) | Matias Martinez | Everpass | matintosh | Montevideo | 1786 |
+| 10 | [jm181987](https://github.com/jm181987) | Jorge Marquez |  |  | Uruguay | 2672 |
+| 11 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
+| 12 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
+| 13 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
+| 14 | [SuarezPM](https://github.com/SuarezPM) | Pablo Suarez | Apohara |  | Montevideo, Uruguay | 2308 |
+| 15 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2299 |
+| 16 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 2284 |
+| 17 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2114 |
+| 18 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
+| 19 | [mathiashole](https://github.com/mathiashole) | Mathias Mangino |  | joaquinmangino | Montevideo, Uruguay | 1986 |
+| 20 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla |  |  | Uruguay, Montevideo | 1963 |

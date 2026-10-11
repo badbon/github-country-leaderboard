@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-11T15:27:27.981Z
+Generated: 2026-10-11T16:51:40.365Z
 
 Users: 1209
 
@@ -15,7 +15,7 @@ Users: 1209
 | 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | NLT Software (Malaysia) | alqubatihakim | Yemen | 3481 |
 | 8 | [mibo01699](https://github.com/mibo01699) | Mayass Ali  | Arabian Eagle A.E.C . 🌐🦅 | Arabianeagleaec | Yemen  | 2133 |
 | 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Freelance |  | Yemen | 2076 |
-| 10 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | NMCP |  | Yemen | 1856 |
+| 10 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | NMCP |  | Yemen | 1819 |
 | 11 | [HusseinBaraja](https://github.com/HusseinBaraja) | Hussein Ba Ragaa |  |  | Yemen | 1788 |
 | 12 | [ahmedalsanadi](https://github.com/ahmedalsanadi) | Ahmed Alsanadi | Open to New Opportunities |  | Yemen | 1293 |
 | 13 | [hishamco](https://github.com/hishamco) | Hisham Bin Ateya |  | hishambinateya | Yemen | 1287 |

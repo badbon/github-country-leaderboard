@@ -25,11 +25,11 @@ Indexed users: 461
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,984 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,865 |
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,263 |
-| 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,075 |
-| 15 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,732 |
-| 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,561 |
-| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
-| 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,350 |
+| 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,231 |
+| 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,866 |
+| 16 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,732 |
+| 17 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,561 |
+| 18 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
 | 19 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,025 |
 | 20 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,991 |
 
@@ -41,11 +41,11 @@ Indexed users: 461
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,137 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,499 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,011 |
-| 5 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,139 |
-| 6 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,130 |
+| 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,646 |
+| 6 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,139 |
 | 7 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,931 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
-| 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,299 |
+| 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,320 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,165 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,125 |
 | 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 771 |
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-11T15:30:41.474Z
+Generated: 2026-10-11T16:57:00.531Z

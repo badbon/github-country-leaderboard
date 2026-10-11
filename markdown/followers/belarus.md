@@ -1,8 +1,8 @@
 # Followers - Belarus
 
-Generated: 2026-10-11T15:35:26.761Z
+Generated: 2026-10-11T17:01:14.853Z
 
-Users: 10953
+Users: 10952
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,8 +13,8 @@ Users: 10953
 | 5 | [ArtPlatosha](https://github.com/ArtPlatosha) | Artyom |  |  | Belarus, Minsk | 653 |
 | 6 | [Nice3point](https://github.com/Nice3point) | Roman | Kinship |  | Minsk | 620 |
 | 7 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | @androidbroadcast  | kirill_rozov | Grodno, Belarus | 469 |
-| 8 | [abirul3881](https://github.com/abirul3881) | Andrei Birul |  |  | Mozyr,Belarus | 393 |
-| 9 | [nillerusr](https://github.com/nillerusr) |  |  |  | Belarus | 390 |
+| 8 | [nillerusr](https://github.com/nillerusr) |  |  |  | Belarus | 390 |
+| 9 | [abirul3881](https://github.com/abirul3881) | Andrei Birul |  |  | Mozyr,Belarus | 388 |
 | 10 | [saldatCrus](https://github.com/saldatCrus) | SaldatCrus Exe  | @World_KEKW_organization |  | Belarus | 284 |
 | 11 | [yzh44yzh](https://github.com/yzh44yzh) | Yuri Zhloba |  | yzh44yzh | Minsk, Belarus | 264 |
 | 12 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | irex.ai |  | Minsk, Belarus | 250 |

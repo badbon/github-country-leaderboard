@@ -1,6 +1,6 @@
 # Public Contributions - Grenada
 
-Generated: 2026-10-11T15:56:20.651Z
+Generated: 2026-10-11T17:20:43.514Z
 
 Users: 37
 
@@ -12,8 +12,8 @@ Users: 37
 | 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky |  |  | Grenada, W.I | 42 |
 | 5 | [trudygill](https://github.com/trudygill) | Trudy Gill |  |  | Grenada | 29 |
 | 6 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard |  |  | Grenada, West Indies | 28 |
-| 7 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau |  |  | Grenada  | 14 |
-| 8 | [Edixlk](https://github.com/Edixlk) | jsh.dev |  | nixc67 | Grenada | 14 |
+| 7 | [Edixlk](https://github.com/Edixlk) | jsh.dev |  | nixc67 | Grenada | 15 |
+| 8 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau |  |  | Grenada  | 14 |
 | 9 | [al-latte](https://github.com/al-latte) | Karlisha Roberts |  |  | Grenada | 10 |
 | 10 | [davidwilson001](https://github.com/davidwilson001) | David Wilson |  |  | Grenada | 10 |
 | 11 | [fegvebhtrbtr](https://github.com/fegvebhtrbtr) | Qingling Wang | Yangming Science and Technology |  | Grenada | 8 |

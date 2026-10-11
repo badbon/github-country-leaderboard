@@ -1,8 +1,8 @@
 # Public Contributions - Gambia
 
-Generated: 2026-10-11T15:55:30.732Z
+Generated: 2026-10-11T17:18:07.129Z
 
-Users: 80
+Users: 79
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

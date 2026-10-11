@@ -1,8 +1,8 @@
 # Followers - Tunisia
 
-Generated: 2026-10-11T15:23:17.144Z
+Generated: 2026-10-11T16:47:40.665Z
 
-Users: 7202
+Users: 7201
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 7202
 | 15 | [tekteku](https://github.com/tekteku) | Taher Chabaane | Sesame |  | Tunis | 603 |
 | 16 | [jasonxtn](https://github.com/jasonxtn) | JASON13 | ⠨⠵⠨⠁ ⠨⠺⠨⠁⠨⠗⠨⠥⠨⠙⠨⠕ | xtnjason | Tunis, Tunisia | 566 |
 | 17 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 560 |
-| 18 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Bysur | ziedalsnoussi | Tunisia | 522 |
-| 19 | [machour](https://github.com/machour) | Mehdi Achour |  | mac_hour | Tunisia | 483 |
-| 20 | [01JAMIL](https://github.com/01JAMIL) | Jamil Ben Brahim |  |  | Tunisia | 477 |
+| 18 | [jassercherif](https://github.com/jassercherif) | jasser cherif | ENSI |  | Kelibia, Nabeul, Tunisia | 529 |
+| 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Bysur | ziedalsnoussi | Tunisia | 522 |
+| 20 | [machour](https://github.com/machour) | Mehdi Achour |  | mac_hour | Tunisia | 483 |

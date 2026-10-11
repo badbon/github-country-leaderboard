@@ -1,6 +1,6 @@
 # Followers - Albania
 
-Generated: 2026-10-11T15:29:12.500Z
+Generated: 2026-10-11T16:54:50.175Z
 
 Users: 1184
 
@@ -19,9 +19,9 @@ Users: 1184
 | 11 | [meggsila](https://github.com/meggsila) | Megi Sila |  | meggsila | Tirana, Albania | 100 |
 | 12 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 92 |
 | 13 | [KristiSeraj](https://github.com/KristiSeraj) | Kristi |  | kristiseraj | Albania | 90 |
-| 14 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 90 |
-| 15 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 89 |
-| 16 | [nikolliervin](https://github.com/nikolliervin) | undefined |  |  | Tirana, Albania | 88 |
+| 14 | [devklajd](https://github.com/devklajd) | Klajd Belishaku |  |  | Tirana, Albania | 89 |
+| 15 | [nikolliervin](https://github.com/nikolliervin) | undefined |  |  | Tirana, Albania | 88 |
+| 16 | [rinor](https://github.com/rinor) | Rinor Hoxha | BAITS sh.p.k | rinorhoxha | Albania, Tirane | 87 |
 | 17 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon |  |  | Albania | 85 |
 | 18 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku |  |  | Albania | 85 |
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | PHP Framework |  | Albania | 81 |

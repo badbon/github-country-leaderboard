@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-11T15:37:04.109Z
+Generated: 2026-10-11T17:02:37.222Z
 
 Users: 1785
 
@@ -17,9 +17,9 @@ Users: 1785
 | 9 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4929 |
 | 10 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 4922 |
 | 11 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | @openzeppelin | nahimdhaney | Bolivia | 4524 |
-| 12 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 4251 |
-| 13 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca |  |  | Santa Cruz, Bolivia | 3751 |
-| 14 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari |  | ConchariChris | Bolivia | 3694 |
+| 12 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari |  | ConchariChris | Bolivia | 4388 |
+| 13 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 4251 |
+| 14 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca |  |  | Santa Cruz, Bolivia | 3751 |
 | 15 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | deepmicrosystems.com | iamatachyon | Bolivia | 3553 |
 | 16 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | @Taikoxyz | gusgonzalezs | Santa Cruz de la SIerra, Bolivia | 3455 |
 | 17 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 3406 |
