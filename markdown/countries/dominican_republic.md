@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Indexed users: 3,313
+Indexed users: 3,312
 
 | Leaderboard | Link |
 |---|---|
@@ -45,18 +45,18 @@ Indexed users: 3,313
 | 6 | [ubercylon8](https://github.com/ubercylon8) | James Pichardo | Dominican Republic | 3,034 |
 | 7 | [xNeuNoRo](https://github.com/xNeuNoRo) | Ángel González Muñoz | Dominican Republic | 2,552 |
 | 8 | [FredPeal](https://github.com/FredPeal) | Frederick Peñalo | Dominican Republic | 2,053 |
-| 9 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera | Santiago, Dominican Republic | 1,786 |
-| 10 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta | Dominican Republic | 1,758 |
-| 11 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero | Santo Domingo, Dominican Republic | 1,735 |
-| 12 | [XavielT](https://github.com/XavielT) | Xaviel Terrero | Dominican Republic | 1,718 |
-| 13 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz | Santo Domingo | 1,545 |
-| 14 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 1,473 |
-| 15 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | Dominican Republic | 1,460 |
-| 16 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
-| 17 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 1,348 |
-| 18 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont | America, Dominican Republic | 1,298 |
-| 19 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez | Dominican Republic | 1,291 |
-| 20 | [rwhite27](https://github.com/rwhite27) | Rafael White | Santo Domingo, Dominican Republic | 1,277 |
+| 9 | [henfrydls](https://github.com/henfrydls) | Henfry De Los Santos | Santo Domingo, República Dominicana | 1,900 |
+| 10 | [lrojas94](https://github.com/lrojas94) | Luis E. Rojas Cabrera | Santiago, Dominican Republic | 1,786 |
+| 11 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta | Dominican Republic | 1,758 |
+| 12 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero | Santo Domingo, Dominican Republic | 1,735 |
+| 13 | [XavielT](https://github.com/XavielT) | Xaviel Terrero | Dominican Republic | 1,718 |
+| 14 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz | Santo Domingo | 1,545 |
+| 15 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 1,473 |
+| 16 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | Dominican Republic | 1,460 |
+| 17 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
+| 18 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 1,348 |
+| 19 | [dbremont](https://github.com/dbremont) | Daniel  de Victoriano y Bremont | America, Dominican Republic | 1,298 |
+| 20 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez | Dominican Republic | 1,291 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,313
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-11T00:39:40.362Z
+Generated: 2026-10-11T02:24:10.095Z

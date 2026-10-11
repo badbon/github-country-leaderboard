@@ -1,6 +1,6 @@
 # Total Contributions - Taiwan
 
-Generated: 2026-10-11T00:01:15.870Z
+Generated: 2026-10-11T01:50:11.798Z
 
 Users: 22017
 
@@ -15,14 +15,14 @@ Users: 22017
 | 7 | [daiwanwei](https://github.com/daiwanwei) | daiwanwei |  |  | Taiwan | 30661 |
 | 8 | [BlackCat1968](https://github.com/BlackCat1968) | 玄貓 |  |  | Taipei | 25305 |
 | 9 | [peter279k](https://github.com/peter279k) | Chun-Sheng, Li | Institute for Information Industry | peter279k | Taipei, Taiwan | 23987 |
-| 10 | [sunpoet](https://github.com/sunpoet) | Po-Chuan Hsieh |  |  | Taipei, Taiwan | 22174 |
-| 11 | [frankekn](https://github.com/frankekn) | Frank Yang | Omnidrome | frankekn | Taipei, Taiwan | 21693 |
-| 12 | [Sevenflanks](https://github.com/Sevenflanks) | Rhys Chang | @softleader  |  | Taiwan | 21166 |
-| 13 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu |  |  | Taipei, Taiwan | 19537 |
-| 14 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 |  |  | Taiwan | 19369 |
-| 15 | [jhwang09](https://github.com/jhwang09) | Jerome | @aifian-dev   |  | Taipei | 18867 |
-| 16 | [Charles5277](https://github.com/Charles5277) | Charles5277 |  |  | Taiwan | 18638 |
-| 17 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang |  |  | Taiwan | 17526 |
-| 18 | [exeex](https://github.com/exeex) | Tim Wu | AMD |  | Hsichu, Taiwan, Asia | 16546 |
-| 19 | [chimerakang](https://github.com/chimerakang) | chimera kang |  |  | taiwan | 16427 |
-| 20 | [JUN-WEI-DING](https://github.com/JUN-WEI-DING) | Jun-Wei Ding | National Taiwan University |  | Taiwan | 16177 |
+| 10 | [cyh7789](https://github.com/cyh7789) | Danny |  | hcytlog | Taiwan | 22299 |
+| 11 | [sunpoet](https://github.com/sunpoet) | Po-Chuan Hsieh |  |  | Taipei, Taiwan | 22174 |
+| 12 | [frankekn](https://github.com/frankekn) | Frank Yang | Omnidrome | frankekn | Taipei, Taiwan | 21693 |
+| 13 | [Sevenflanks](https://github.com/Sevenflanks) | Rhys Chang | @softleader  |  | Taiwan | 21166 |
+| 14 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu |  |  | Taipei, Taiwan | 19537 |
+| 15 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 |  |  | Taiwan | 19369 |
+| 16 | [jhwang09](https://github.com/jhwang09) | Jerome | @aifian-dev   |  | Taipei | 18867 |
+| 17 | [Charles5277](https://github.com/Charles5277) | Charles5277 |  |  | Taiwan | 18638 |
+| 18 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang |  |  | Taiwan | 17526 |
+| 19 | [exeex](https://github.com/exeex) | Tim Wu | AMD |  | Hsichu, Taiwan, Asia | 16546 |
+| 20 | [chimerakang](https://github.com/chimerakang) | chimera kang |  |  | taiwan | 16427 |

@@ -29,9 +29,9 @@ Indexed users: 5,823
 | 15 | [WissalManseri](https://github.com/WissalManseri) | WISSAL MN | Mostaganem, Algeria | 5,048 |
 | 16 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | Algeria | 4,988 |
 | 17 | [wallydz](https://github.com/wallydz) |  | Algeria | 4,889 |
-| 18 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
-| 19 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
-| 20 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Algeria | 4,628 |
+| 18 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 4,818 |
+| 19 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi | Algeria | 4,654 |
+| 20 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun | Algeria | 4,636 |
 
 ## Public Contributions
 
@@ -48,7 +48,7 @@ Indexed users: 5,823
 | 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,118 |
 | 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
 | 11 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi | Algeria | 1,797 |
-| 12 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,751 |
+| 12 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,774 |
 | 13 | [Adel-Ayoub](https://github.com/Adel-Ayoub) | MAAZIZ Adel Ayoub | Algeria | 1,651 |
 | 14 | [samir1498](https://github.com/samir1498) | Samir Bettahar | Algeria | 1,614 |
 | 15 | [bitsnaps](https://github.com/bitsnaps) | Ibrahim H. | Algeria | 1,551 |
@@ -83,4 +83,4 @@ Indexed users: 5,823
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-11T00:17:08.307Z
+Generated: 2026-10-11T02:04:56.537Z

@@ -30,7 +30,7 @@ Indexed users: 729
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,769 |
 | 17 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,638 |
 | 18 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,263 |
-| 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,204 |
+| 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,226 |
 | 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,171 |
 
 ## Public Contributions
@@ -49,8 +49,8 @@ Indexed users: 729
 | 10 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
 | 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 829 |
 | 12 | [meshahid973](https://github.com/meshahid973) | meshahid.973 | bahrain | 820 |
-| 13 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 778 |
-| 14 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 769 |
+| 13 | [eslam-allam](https://github.com/eslam-allam) | Eslam Allam | Bahrain | 779 |
+| 14 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 778 |
 | 15 | [emilythestrangee](https://github.com/emilythestrangee) | Emaan Munshi | Bahrain | 733 |
 | 16 | [mahoozi97](https://github.com/mahoozi97) | Ali Almahoozi | Bahrain | 733 |
 | 17 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 678 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
 
-Generated: 2026-10-11T00:22:04.853Z
+Generated: 2026-10-11T02:07:55.976Z

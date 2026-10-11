@@ -1,6 +1,6 @@
 # Public Contributions - South Africa
 
-Generated: 2026-10-10T23:56:28.505Z
+Generated: 2026-10-11T01:46:21.225Z
 
 Users: 17946
 
@@ -18,11 +18,11 @@ Users: 17946
 | 10 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | @SATVILab  |  | Cape Town, South Africa | 5173 |
 | 11 | [datashaman](https://github.com/datashaman) | datashaman | datashaman |  | Cape Town, South Africa | 5144 |
 | 12 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | BinaryMaSH | RakheenD | Cape Town, South Africa | 5110 |
-| 13 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Plain Sailing Information Systems |  | Pretoria South Africa | 4779 |
-| 14 | [indium114](https://github.com/indium114) |  |  |  | South Africa | 4590 |
-| 15 | [peterp](https://github.com/peterp) | Peter Pistorius | @redwoodjs | appfactory | South Africa | 4520 |
-| 16 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Floatpays |  | Cape Town, South Africa | 4494 |
-| 17 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | @lightspeedwp  | lightspeedwp | Cape Town, South Africa | 4333 |
-| 18 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Kirov Dynamics Technology |  | Johannesburg, South Africa | 4247 |
-| 19 | [GedMarc](https://github.com/GedMarc) | Marc Magon |  |  | Johannesburg, South Africa | 4187 |
-| 20 | [schalkneethling](https://github.com/schalkneethling) | Schalk Neethling |  |  | Pretoria, South Africa | 4126 |
+| 13 | [RobynAwesome](https://github.com/RobynAwesome) | Kholofelo Robyn Rababalela | Kopano Labs (Pty) Ltd |  | Cape Town, South Africa | 5063 |
+| 14 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Plain Sailing Information Systems |  | Pretoria South Africa | 4779 |
+| 15 | [indium114](https://github.com/indium114) |  |  |  | South Africa | 4590 |
+| 16 | [peterp](https://github.com/peterp) | Peter Pistorius | @redwoodjs | appfactory | South Africa | 4520 |
+| 17 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Floatpays |  | Cape Town, South Africa | 4494 |
+| 18 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | @lightspeedwp  | lightspeedwp | Cape Town, South Africa | 4333 |
+| 19 | [Raphasha27](https://github.com/Raphasha27) | Koketso Raphasha | Kirov Dynamics Technology |  | Johannesburg, South Africa | 4247 |
+| 20 | [GedMarc](https://github.com/GedMarc) | Marc Magon |  |  | Johannesburg, South Africa | 4187 |

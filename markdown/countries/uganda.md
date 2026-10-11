@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,879
+Indexed users: 3,877
 
 | Leaderboard | Link |
 |---|---|
@@ -20,15 +20,15 @@ Indexed users: 3,879
 | 6 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
 | 7 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
 | 8 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
-| 9 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 10 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 11 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
-| 12 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,555 |
-| 13 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,428 |
-| 14 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 7,031 |
-| 15 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | Uganda kampala | 6,956 |
-| 16 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,942 |
-| 17 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 6,926 |
+| 9 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
+| 10 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 11 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 12 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
+| 13 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,555 |
+| 14 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,428 |
+| 15 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 7,031 |
+| 16 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | Uganda kampala | 6,956 |
+| 17 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,942 |
 | 18 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
 | 19 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
 | 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
@@ -45,7 +45,7 @@ Indexed users: 3,879
 | 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
 | 7 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,995 |
 | 8 | [devcoda25](https://github.com/devcoda25) | turyomwe. derrick | kampala | 2,789 |
-| 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,776 |
+| 9 | [OchiengPaul442](https://github.com/OchiengPaul442) | Paul Ochieng Levi | Uganda | 2,748 |
 | 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
 | 11 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
 | 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
@@ -83,4 +83,4 @@ Indexed users: 3,879
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-11T00:05:35.179Z
+Generated: 2026-10-11T01:55:39.413Z

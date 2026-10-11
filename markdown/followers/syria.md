@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-10T23:59:52.078Z
+Generated: 2026-10-11T01:50:02.434Z
 
 Users: 1482
 
@@ -18,8 +18,8 @@ Users: 1482
 | 10 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran |  |  | Syria | 155 |
 | 11 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 148 |
 | 12 | [RakoSY](https://github.com/RakoSY) | Rakthon | Rakwan Ali |  | Syria | 136 |
-| 13 | [ZeinMoh](https://github.com/ZeinMoh) | Zein |  |  | Syria, Latakia | 136 |
-| 14 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 135 |
+| 13 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 136 |
+| 14 | [ZeinMoh](https://github.com/ZeinMoh) | Zein |  |  | Syria, Latakia | 136 |
 | 15 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal |  |  | Syria  | 127 |
 | 16 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 126 |
 | 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |

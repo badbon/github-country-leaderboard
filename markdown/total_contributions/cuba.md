@@ -1,8 +1,8 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-11T00:36:57.301Z
+Generated: 2026-10-11T02:47:36.994Z
 
-Users: 1281
+Users: 1282
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 1281
 | 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez |  |  | Havana, Cuba | 4805 |
 | 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez |  |  | Havaba/Cuba | 4685 |
 | 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4316 |
-| 14 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 4061 |
-| 15 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | UCI |  | Cuba | 3735 |
-| 16 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3325 |
-| 17 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo |  |  | Cuba/Matanzas  | 3316 |
-| 18 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado |  |  | Cuba | 3177 |
-| 19 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida |  |  | Havana,Cuba | 3085 |
-| 20 | [frivasoto](https://github.com/frivasoto) | Fermin Rivas Sotomayor | @cujaeredsocial @medialityc  | frivasoto | Cuba | 3084 |
+| 14 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida |  |  | Havana,Cuba | 4220 |
+| 15 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 4061 |
+| 16 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | UCI |  | Cuba | 3735 |
+| 17 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez |  |  | Cuba | 3668 |
+| 18 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3325 |
+| 19 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo |  |  | Cuba/Matanzas  | 3316 |
+| 20 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado |  |  | Cuba | 3177 |

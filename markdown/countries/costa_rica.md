@@ -17,7 +17,7 @@ Indexed users: 5,641
 | 3 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Costa Rica | 17,750 |
 | 4 | [jourlez](https://github.com/jourlez) | Josué Rojas | Jacó, Costa Rica | 12,961 |
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Costa Rica | 11,951 |
-| 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,534 |
+| 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | Costa Rica | 9,771 |
 | 7 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon | Santa Ana, Costa Rica | 8,664 |
 | 8 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
 | 9 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
@@ -83,4 +83,4 @@ Indexed users: 5,641
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-11T00:36:47.751Z
+Generated: 2026-10-11T02:21:31.857Z

@@ -1,8 +1,8 @@
 # Followers - Zimbabwe
 
-Generated: 2026-10-11T00:14:08.059Z
+Generated: 2026-10-11T02:02:39.880Z
 
-Users: 1654
+Users: 1653
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

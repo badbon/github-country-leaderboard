@@ -1,6 +1,6 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-11T00:36:47.751Z
+Generated: 2026-10-11T02:21:31.857Z
 
 Users: 5641
 
@@ -11,7 +11,7 @@ Users: 5641
 | 3 | [lvillalobos-cr](https://github.com/lvillalobos-cr) | Lorenzo Villalobos | Vector Costa Rica |  | Costa Rica | 17750 |
 | 4 | [jourlez](https://github.com/jourlez) | Josué Rojas |  |  | Jacó, Costa Rica | 12961 |
 | 5 | [thoughtpunch](https://github.com/thoughtpunch) | Dan Barrett | Aligned |  | Costa Rica | 11951 |
-| 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | MUSCLE |  | Costa Rica | 9534 |
+| 6 | [byrafael](https://github.com/byrafael) | Rafael Soley | MUSCLE |  | Costa Rica | 9771 |
 | 7 | [tylergannon](https://github.com/tylergannon) | Tyler Gannon |  |  | Santa Ana, Costa Rica | 8664 |
 | 8 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín |  | josuearayamarin | Costa Rica | 7763 |
 | 9 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 7663 |

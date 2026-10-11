@@ -1,6 +1,6 @@
 # Public Contributions - Isle of Man
 
-Generated: 2026-10-11T00:57:59.295Z
+Generated: 2026-10-11T02:42:49.185Z
 
 Users: 155
 
@@ -18,7 +18,7 @@ Users: 155
 | 10 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 249 |
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | @Isle-of-Man-Government  |  | Isle of Man | 246 |
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 216 |
-| 13 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 154 |
+| 13 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 153 |
 | 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 138 |
 | 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 123 |
 | 16 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 108 |

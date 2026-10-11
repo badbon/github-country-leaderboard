@@ -1,8 +1,8 @@
 # Total Contributions - Georgia
 
-Generated: 2026-10-11T00:14:11.695Z
+Generated: 2026-10-11T02:02:43.665Z
 
-Users: 6902
+Users: 6901
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,7 +15,7 @@ Users: 6902
 | 7 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 14272 |
 | 8 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister |  |  | Tbilisi | 13937 |
 | 9 | [Krut](https://github.com/Krut) | Michael Krautwald |  |  | Tbilisi, Georgia | 12892 |
-| 10 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12891 |
+| 10 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Perk |  | Tbilisi | 12688 |
 | 11 | [badbon](https://github.com/badbon) | bolko |  |  | Georgia | 12412 |
 | 12 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 12249 |
 | 13 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili |  |  | Tbilisi, Georgia | 11858 |

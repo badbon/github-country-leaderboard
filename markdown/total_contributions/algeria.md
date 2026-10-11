@@ -1,6 +1,6 @@
 # Total Contributions - Algeria
 
-Generated: 2026-10-11T00:17:08.307Z
+Generated: 2026-10-11T02:04:56.537Z
 
 Users: 5823
 
@@ -23,6 +23,6 @@ Users: 5823
 | 15 | [WissalManseri](https://github.com/WissalManseri) | WISSAL MN | Meta AI Research  | wissal_mn2410 | Mostaganem, Algeria | 5048 |
 | 16 | [MoonFuji](https://github.com/MoonFuji) | Kadri Mohammed Mouncef | @Dusens-Research-Dev  |  | Algeria | 4988 |
 | 17 | [wallydz](https://github.com/wallydz) |  | UZ4 Network |  | Algeria | 4889 |
-| 18 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi |  |  | Algeria | 4654 |
-| 19 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 4636 |
-| 20 | [Hamza-HM](https://github.com/Hamza-HM) | Hamza Hed Messaoud | Graphicode |  | Algeria | 4628 |
+| 18 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 4818 |
+| 19 | [mahmoud-alragabi](https://github.com/mahmoud-alragabi) | Mahmoud Y. Al-Ragabi |  |  | Algeria | 4654 |
+| 20 | [useCallback](https://github.com/useCallback) | Mohamed El Mehdi Khalfoun |  |  | Algeria | 4636 |

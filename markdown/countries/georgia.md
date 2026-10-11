@@ -1,6 +1,6 @@
 # Georgia
 
-Indexed users: 6,902
+Indexed users: 6,901
 
 | Leaderboard | Link |
 |---|---|
@@ -21,7 +21,7 @@ Indexed users: 6,902
 | 7 | [NSchatz](https://github.com/NSchatz) | Noah Schatz | Georgia | 14,272 |
 | 8 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 13,937 |
 | 9 | [Krut](https://github.com/Krut) | Michael Krautwald | Tbilisi, Georgia | 12,892 |
-| 10 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,891 |
+| 10 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
 | 11 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
 | 12 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 12,249 |
 | 13 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
@@ -83,4 +83,4 @@ Indexed users: 6,902
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-11T00:14:11.695Z
+Generated: 2026-10-11T02:02:43.665Z

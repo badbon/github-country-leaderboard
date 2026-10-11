@@ -1,6 +1,6 @@
 # Cambodia
 
-Indexed users: 2,879
+Indexed users: 2,880
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 2,879
 | 17 | [vertsan](https://github.com/vertsan) | Vert San | Cambodia | 1,255 |
 | 18 | [PorKeat](https://github.com/PorKeat) | Seng Porkeat | Phnom Penh, Cambodia | 1,245 |
 | 19 | [monmatprogramer](https://github.com/monmatprogramer) | Mon  Mat | Cambodia | 1,211 |
-| 20 | [tola-san](https://github.com/tola-san) |  | Cambodia | 1,110 |
+| 20 | [ThyrexGG](https://github.com/ThyrexGG) | Thyrak | Phnom Penh, Cambodia | 1,141 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,879
 | 19 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
 | 20 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 125 |
 
-Generated: 2026-10-11T00:32:18.797Z
+Generated: 2026-10-11T02:18:26.664Z

@@ -21,17 +21,17 @@ Indexed users: 22,017
 | 7 | [daiwanwei](https://github.com/daiwanwei) | daiwanwei | Taiwan | 30,661 |
 | 8 | [BlackCat1968](https://github.com/BlackCat1968) | 玄貓 | Taipei | 25,305 |
 | 9 | [peter279k](https://github.com/peter279k) | Chun-Sheng, Li | Taipei, Taiwan | 23,987 |
-| 10 | [sunpoet](https://github.com/sunpoet) | Po-Chuan Hsieh | Taipei, Taiwan | 22,174 |
-| 11 | [frankekn](https://github.com/frankekn) | Frank Yang | Taipei, Taiwan | 21,693 |
-| 12 | [Sevenflanks](https://github.com/Sevenflanks) | Rhys Chang | Taiwan | 21,166 |
-| 13 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu | Taipei, Taiwan | 19,537 |
-| 14 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 | Taiwan | 19,369 |
-| 15 | [jhwang09](https://github.com/jhwang09) | Jerome | Taipei | 18,867 |
-| 16 | [Charles5277](https://github.com/Charles5277) | Charles5277 | Taiwan | 18,638 |
-| 17 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang | Taiwan | 17,526 |
-| 18 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 16,546 |
-| 19 | [chimerakang](https://github.com/chimerakang) | chimera kang | taiwan | 16,427 |
-| 20 | [JUN-WEI-DING](https://github.com/JUN-WEI-DING) | Jun-Wei Ding | Taiwan | 16,177 |
+| 10 | [cyh7789](https://github.com/cyh7789) | Danny | Taiwan | 22,299 |
+| 11 | [sunpoet](https://github.com/sunpoet) | Po-Chuan Hsieh | Taipei, Taiwan | 22,174 |
+| 12 | [frankekn](https://github.com/frankekn) | Frank Yang | Taipei, Taiwan | 21,693 |
+| 13 | [Sevenflanks](https://github.com/Sevenflanks) | Rhys Chang | Taiwan | 21,166 |
+| 14 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu | Taipei, Taiwan | 19,537 |
+| 15 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 | Taiwan | 19,369 |
+| 16 | [jhwang09](https://github.com/jhwang09) | Jerome | Taipei | 18,867 |
+| 17 | [Charles5277](https://github.com/Charles5277) | Charles5277 | Taiwan | 18,638 |
+| 18 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang | Taiwan | 17,526 |
+| 19 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 16,546 |
+| 20 | [chimerakang](https://github.com/chimerakang) | chimera kang | taiwan | 16,427 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 22,017
 | 19 | [kaochenlong](https://github.com/kaochenlong) | Eddie Kao 高見龍 | Taiwan, Taipei | 1,655 |
 | 20 | [aaaddress1](https://github.com/aaaddress1) | Sheng-Hao Ma | Taiwan | 1,518 |
 
-Generated: 2026-10-11T00:01:15.870Z
+Generated: 2026-10-11T01:50:11.798Z

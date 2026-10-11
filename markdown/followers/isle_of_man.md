@@ -1,6 +1,6 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-11T00:57:59.295Z
+Generated: 2026-10-11T02:42:49.185Z
 
 Users: 155
 
@@ -19,8 +19,8 @@ Users: 155
 | 11 | [drapermovies](https://github.com/drapermovies) | Joel E.P. Draper | Ensemble Media | jepdraper | Isle of Man | 34 |
 | 12 | [drajmarsh](https://github.com/drajmarsh) | Dr Andrew Marsh | PerformativeDesign.com |  | Isle of Man | 26 |
 | 13 | [chris-jamieson](https://github.com/chris-jamieson) | Chris Jamieson | CCS Group, Melior Enterprises | cjamieson_uk | Isle of Man | 24 |
-| 14 | [samuelnub](https://github.com/samuelnub) | Sam Yap | @Yappers, @nubbers  |  | Douglas, Isle of Man | 23 |
-| 15 | [francisuk1989](https://github.com/francisuk1989) | Francis |  |  | Douglas, Isle of Man | 22 |
+| 14 | [francisuk1989](https://github.com/francisuk1989) | Francis |  |  | Douglas, Isle of Man | 23 |
+| 15 | [samuelnub](https://github.com/samuelnub) | Sam Yap | @Yappers, @nubbers  |  | Douglas, Isle of Man | 23 |
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 20 |
 | 17 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Scott Polar Research Institute, University of Cambridge |  | Isle of Man | 19 |
 | 18 | [felipedecampos](https://github.com/felipedecampos) | Felipe de Campos | Campos Tecnologia LTDA |  | Douglas, Isle of Man, UK | 19 |

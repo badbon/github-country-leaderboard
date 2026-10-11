@@ -13,9 +13,9 @@ Indexed users: 48
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [xiaden](https://github.com/xiaden) | Lucian Hardy | Guam | 1,676 |
-| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,598 |
+| 2 | [ChairGTables](https://github.com/ChairGTables) | Jurichii | Guam | 1,588 |
 | 3 | [dannikate](https://github.com/dannikate) | Dannika | Guam | 1,169 |
-| 4 | [ThaumX](https://github.com/ThaumX) | ThaumX | Guam | 473 |
+| 4 | [ThaumX](https://github.com/ThaumX) | ThaumX | Guam | 484 |
 | 5 | [Chovin](https://github.com/Chovin) |  | Guam | 292 |
 | 6 | [nanodavinci](https://github.com/nanodavinci) | leo | Hagåtña, Guam | 290 |
 | 7 | [jlongus](https://github.com/jlongus) | josiah | Guam | 65 |
@@ -83,4 +83,4 @@ Indexed users: 48
 | 19 | [guamencja](https://github.com/guamencja) | guam | Guam | 4 |
 | 20 | [Rcarganilla](https://github.com/Rcarganilla) | Rizalyn T. Carganilla | Guam | 4 |
 
-Generated: 2026-10-11T00:53:27.417Z
+Generated: 2026-10-11T02:36:36.364Z

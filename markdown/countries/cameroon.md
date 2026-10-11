@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,801
+Indexed users: 1,805
 
 | Leaderboard | Link |
 |---|---|
@@ -51,8 +51,8 @@ Indexed users: 1,801
 | 12 | [Kanjo-Elkamira-Ndi](https://github.com/Kanjo-Elkamira-Ndi) | Alchemy Codes | Yaoundé Cameroon | 1,715 |
 | 13 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,621 |
 | 14 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,591 |
-| 15 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,470 |
-| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
+| 15 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
+| 16 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,447 |
 | 17 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,407 |
 | 18 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,390 |
 | 19 | [PromiseFru](https://github.com/PromiseFru) | Promise Fru | Cameroon | 1,360 |
@@ -83,4 +83,4 @@ Indexed users: 1,801
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 | 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
 
-Generated: 2026-10-11T00:32:41.013Z
+Generated: 2026-10-11T02:18:31.316Z
