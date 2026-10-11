@@ -12775,8 +12775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2,
-    "publicContributions": 6,
+    "privateContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2024-04-11T18:07:39Z"
   },
   {
@@ -12788,7 +12788,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 18,
     "createdAt": "2024-08-19T11:35:36Z"
   },
   {
@@ -12800,7 +12800,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 71,
     "createdAt": "2024-04-02T15:20:18Z"
   },
   {
@@ -12810,9 +12810,9 @@
     "location": "Morocco",
     "company": "ENSAM Casablanca",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 51,
-    "publicContributions": 178,
+    "followers": 7,
+    "privateContributions": 76,
+    "publicContributions": 203,
     "createdAt": "2024-09-28T15:38:13Z"
   },
   {
@@ -12822,21 +12822,21 @@
     "location": "Casablanca, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 30,
-    "publicContributions": 115,
+    "publicContributions": 98,
     "createdAt": "2024-11-17T18:41:23Z"
   },
   {
     "login": "toynime",
     "name": "Anas Ait Mouddar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/174380739?s=72&u=3633d6356bf8e76dd773b2a70515ebf9c83415bb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/174380739?s=72&v=4",
     "location": "Marrakech, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 61,
     "createdAt": "2024-07-01T20:01:33Z"
   },
   {
@@ -12858,9 +12858,9 @@
     "location": "Morocco",
     "company": "LahbabiCode",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 634,
-    "publicContributions": 78,
+    "followers": 6,
+    "privateContributions": 674,
+    "publicContributions": 48,
     "createdAt": "2024-04-22T15:55:04Z"
   },
   {
@@ -12872,7 +12872,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2024-05-14T10:35:05Z"
   },
   {
@@ -12882,9 +12882,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 60,
-    "publicContributions": 276,
+    "followers": 6,
+    "privateContributions": 101,
+    "publicContributions": 293,
     "createdAt": "2024-07-19T06:01:27Z"
   },
   {
@@ -12894,9 +12894,9 @@
     "location": "Morocco",
     "company": "None",
     "twitterUsername": "HassaneSkikri",
-    "followers": 5,
-    "privateContributions": 136,
-    "publicContributions": 112,
+    "followers": 4,
+    "privateContributions": 434,
+    "publicContributions": 113,
     "createdAt": "2024-09-09T11:21:30Z"
   },
   {
@@ -12906,21 +12906,21 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 284,
-    "publicContributions": 8,
+    "followers": 4,
+    "privateContributions": 225,
+    "publicContributions": 15,
     "createdAt": "2024-03-09T18:20:47Z"
   },
   {
     "login": "ayoubatouf",
-    "name": "byte",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192507511?s=72&u=cc362d6cc2ae8ed0d7829ff8543f23fb88e1ced9&v=4",
+    "name": "AYOUB ATOUF",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/192507511?s=72&u=67ceecc4097f660abf8ba23656a82bc9dc06c952&v=4",
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2024-12-22T11:56:00Z"
   },
   {
@@ -12942,21 +12942,21 @@
     "location": "Rabat Morocco",
     "company": "",
     "twitterUsername": "motasigraphy",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 48,
     "createdAt": "2024-10-05T01:20:23Z"
   },
   {
     "login": "NainiaYoussef",
     "name": "Youssef Nainia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168972809?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168972809?s=72&u=853de9e7a3c7b190390e17e394688bbaa2fc2649&v=4",
     "location": "Morocco ",
-    "company": "",
+    "company": "AI Training and Optimizer intern at Monark IT",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 81,
     "createdAt": "2024-05-05T12:57:38Z"
   },
   {
@@ -12990,9 +12990,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 214,
-    "publicContributions": 93,
+    "followers": 4,
+    "privateContributions": 557,
+    "publicContributions": 108,
     "createdAt": "2024-11-06T21:05:10Z"
   },
   {
@@ -13004,7 +13004,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 218,
+    "publicContributions": 277,
     "createdAt": "2023-12-30T11:46:43Z"
   },
   {

@@ -13146,9 +13146,9 @@
     "location": "Macedonia - Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 24,
     "createdAt": "2018-01-13T18:22:25Z"
   },
   {
@@ -13158,7 +13158,7 @@
     "location": "Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-10T12:39:54Z"
@@ -13189,13 +13189,13 @@
   },
   {
     "login": "matcvet",
-    "name": "Matea",
+    "name": "Matea Cvetanov",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37226375?s=72&u=aa7a345b88ece4c4b4a7db2f7b8ceca65655263b&v=4",
     "location": "Skopje, Macedonia",
     "company": "ASPEKT",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2018-03-09T20:26:15Z"
   },
@@ -13230,9 +13230,9 @@
     "location": "Skopje,Macedonia",
     "company": "https://tamaraackovska.netlify.app/",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 104,
     "createdAt": "2018-03-06T13:18:30Z"
   },
   {
@@ -13326,7 +13326,7 @@
     "location": "Macedonia",
     "company": "",
     "twitterUsername": "_Manevski",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-08-15T07:29:09Z"
@@ -13351,7 +13351,7 @@
     "company": "Arithmatrix AI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 166,
+    "privateContributions": 88,
     "publicContributions": 0,
     "createdAt": "2018-03-05T00:47:21Z"
   },
@@ -13364,7 +13364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2018-02-03T17:37:21Z"
   },
   {

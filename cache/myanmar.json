@@ -12896,7 +12896,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2020-01-15T06:12:09Z"
   },
   {
@@ -12914,7 +12914,7 @@
   {
     "login": "lwinmin99",
     "name": "Lwin Min Ko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63577754?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63577754?s=72&u=62b5e2cbd786fd1aa1c0ae41a748fd319e7a7ff5&v=4",
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
@@ -12930,22 +12930,10 @@
     "location": "Yangon, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-29T18:14:03Z"
-  },
-  {
-    "login": "FurryForWhat",
-    "name": "furry33",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60417722?s=72&u=37f033c0dbf413b35621cc76fdd3f9fadab26d70&v=4",
-    "location": "Myanmar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2020-01-29T04:13:41Z"
   },
   {
     "login": "KaungMoeSet",
@@ -12956,7 +12944,7 @@
     "twitterUsername": "KaungMoeSet",
     "followers": 4,
     "privateContributions": 34,
-    "publicContributions": 49,
+    "publicContributions": 46,
     "createdAt": "2020-12-17T15:02:57Z"
   },
   {
@@ -12980,7 +12968,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 2,
     "createdAt": "2020-04-08T13:02:36Z"
   },
   {
@@ -12992,7 +12980,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 239,
     "createdAt": "2020-03-25T13:43:35Z"
   },
   {
@@ -13016,7 +13004,7 @@
     "twitterUsername": "YanPaingPhyo19",
     "followers": 4,
     "privateContributions": 9,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2020-12-08T15:51:24Z"
   },
   {
@@ -13026,9 +13014,9 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "ktzaw13",
-    "followers": 4,
-    "privateContributions": 142,
-    "publicContributions": 10,
+    "followers": 6,
+    "privateContributions": 96,
+    "publicContributions": 11,
     "createdAt": "2020-10-27T10:26:54Z"
   },
   {
@@ -13076,7 +13064,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 47,
     "createdAt": "2020-08-24T16:08:56Z"
   },
   {
