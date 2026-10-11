@@ -13340,7 +13340,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 20,
     "createdAt": "2017-11-23T06:34:58Z"
   },
   {
@@ -13352,7 +13352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 16,
     "createdAt": "2017-05-10T17:28:41Z"
   },
   {
@@ -13362,22 +13362,10 @@
     "location": "Luxembourg and Reunion Island",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2015-01-02T13:15:39Z"
-  },
-  {
-    "login": "Moado",
-    "name": "Moad HANI ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23427415?s=72&u=22401f0a967651fab27f1db89094b8348deb22d9&v=4",
-    "location": "Luxembourg",
-    "company": "University of Luxembourg ",
-    "twitterUsername": "",
-    "followers": 268,
-    "privateContributions": 0,
-    "publicContributions": 28,
-    "createdAt": "2016-11-13T03:23:50Z"
   },
   {
     "login": "AndrejOrsula",
@@ -13386,9 +13374,9 @@
     "location": "Luxembourg",
     "company": "@snt-spacer",
     "twitterUsername": "",
-    "followers": 217,
-    "privateContributions": 2991,
-    "publicContributions": 346,
+    "followers": 223,
+    "privateContributions": 6669,
+    "publicContributions": 371,
     "createdAt": "2016-10-19T06:16:34Z"
   },
   {
@@ -13398,8 +13386,8 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg / LCSB",
     "twitterUsername": "guilhermeribas",
-    "followers": 75,
-    "privateContributions": 198,
+    "followers": 74,
+    "privateContributions": 152,
     "publicContributions": 0,
     "createdAt": "2016-03-28T18:49:53Z"
   },
@@ -13411,7 +13399,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 68,
-    "privateContributions": 222,
+    "privateContributions": 250,
     "publicContributions": 0,
     "createdAt": "2016-02-24T08:57:28Z"
   },
@@ -13423,8 +13411,8 @@
     "company": "University of Luxembourg",
     "twitterUsername": "zhong_zhiqiang",
     "followers": 64,
-    "privateContributions": 1000,
-    "publicContributions": 52,
+    "privateContributions": 1162,
+    "publicContributions": 69,
     "createdAt": "2016-02-11T16:29:41Z"
   },
   {
@@ -13446,9 +13434,9 @@
     "location": "Luxembourg, Luxembourg",
     "company": "1703 Group",
     "twitterUsername": "mrpopov_com",
-    "followers": 55,
-    "privateContributions": 585,
-    "publicContributions": 166,
+    "followers": 54,
+    "privateContributions": 514,
+    "publicContributions": 133,
     "createdAt": "2016-11-30T12:59:58Z"
   },
   {

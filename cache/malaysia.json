@@ -13424,7 +13424,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 20,
     "createdAt": "2024-07-17T03:58:09Z"
   },
   {
@@ -13459,8 +13459,8 @@
     "company": "Taylor's University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 50,
+    "privateContributions": 17,
+    "publicContributions": 58,
     "createdAt": "2024-11-09T14:08:19Z"
   },
   {
@@ -13470,9 +13470,9 @@
     "location": "Malaysia",
     "company": "UNITEN ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 301,
     "createdAt": "2024-05-14T07:21:29Z"
   },
   {
@@ -13484,7 +13484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 44,
     "createdAt": "2024-06-28T16:53:11Z"
   },
   {
@@ -13493,10 +13493,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/184184002?s=72&u=e0d170ae675730d7eca430409e9b31d209d77acd&v=4",
     "location": "Malaysia",
     "company": "",
-    "twitterUsername": "booejam",
+    "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 50,
-    "publicContributions": 8,
+    "privateContributions": 67,
+    "publicContributions": 0,
     "createdAt": "2024-10-08T02:46:12Z"
   },
   {
@@ -13507,8 +13507,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 474,
+    "privateContributions": 53,
+    "publicContributions": 463,
     "createdAt": "2024-11-14T03:32:25Z"
   },
   {
@@ -13520,7 +13520,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 16,
     "createdAt": "2024-02-16T20:32:09Z"
   },
   {
@@ -13530,9 +13530,9 @@
     "location": "Malaysia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 144,
-    "publicContributions": 49,
+    "followers": 2,
+    "privateContributions": 30,
+    "publicContributions": 53,
     "createdAt": "2024-09-01T20:24:35Z"
   },
   {
@@ -13544,7 +13544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1299,
+    "publicContributions": 1246,
     "createdAt": "2024-04-15T04:10:16Z"
   },
   {
@@ -13556,7 +13556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 57,
     "createdAt": "2024-11-20T18:04:07Z"
   },
   {
@@ -13568,7 +13568,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 21,
     "createdAt": "2024-06-28T02:58:38Z"
   },
   {
@@ -13592,20 +13592,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 29,
     "createdAt": "2024-01-11T10:00:12Z"
-  },
-  {
-    "login": "edubw",
-    "name": "Better World",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157886651?s=72&u=84200fb8cfc240edbf0651aa2232290ae5dbadde&v=4",
-    "location": "AIU, Alor Setar, Kedah, Malaysia",
-    "company": "Better World",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2024-01-27T11:06:41Z"
   },
   {
     "login": "gitsas-syp",

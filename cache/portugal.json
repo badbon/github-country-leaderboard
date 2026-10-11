@@ -13384,11 +13384,11 @@
     "name": "Rafael Gonçalves",
     "avatarUrl": "https://avatars.githubusercontent.com/u/159055063?s=72&u=7e32ebd92af66d0a8bb332d889b14adb6fc18d38&v=4",
     "location": "Lisbon, Portugal",
-    "company": "Building amazing things at @paos.pt",
+    "company": "Building amazing things",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 161,
     "createdAt": "2024-02-05T17:08:28Z"
   },
   {
@@ -13406,13 +13406,13 @@
   {
     "login": "TurnGui",
     "name": "Guilherme Duarte",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162611293?s=72&u=7920d2f975c14df46e407d6b5eb4fc68863fe3d7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162611293?s=72&u=9a7b5d795feaa90bee6c0b6034e67af929ae2dde&v=4",
     "location": "Braga, Portugal",
     "company": "University of Minho",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 272,
     "createdAt": "2024-03-07T16:30:18Z"
   },
   {
@@ -13424,7 +13424,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 284,
+    "publicContributions": 274,
     "createdAt": "2024-06-04T14:19:02Z"
   },
   {
@@ -13447,33 +13447,21 @@
     "company": "ISEP - Instituto Superior de Engenharia do Porto",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2024-02-28T11:14:16Z"
   },
   {
     "login": "Sajad-Hussaini",
     "name": "Sajad Hussaini",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170413848?s=72&u=8527b7817f92b1a16f311d010318bae7daaeaba7&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170413848?s=72&u=fbaba339247091fdc5341d3374e0e710e505d992&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 238,
+    "publicContributions": 208,
     "createdAt": "2024-05-21T09:28:33Z"
-  },
-  {
-    "login": "theblack372",
-    "name": "Pedro Ribas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163574814?s=72&u=ded554adc2856304aa268742a0d4f09b7c3f9ff3&v=4",
-    "location": "Portugal",
-    "company": "FEUP",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 32,
-    "publicContributions": 24,
-    "createdAt": "2024-03-15T17:05:42Z"
   },
   {
     "login": "joaoconceicao12",
@@ -13483,8 +13471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 649,
-    "publicContributions": 23,
+    "privateContributions": 825,
+    "publicContributions": 24,
     "createdAt": "2024-04-01T13:04:42Z"
   },
   {
@@ -13496,7 +13484,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 7,
     "createdAt": "2024-01-23T12:17:02Z"
   },
   {
@@ -13508,7 +13496,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 157,
     "createdAt": "2024-03-06T11:30:31Z"
   },
   {
@@ -13518,7 +13506,7 @@
     "location": "Portugal, Seixal",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2024-04-15T20:12:19Z"
@@ -13531,20 +13519,20 @@
     "company": "Instituto Superior Técnico",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 97,
+    "privateContributions": 109,
     "publicContributions": 107,
     "createdAt": "2024-05-04T17:14:53Z"
   },
   {
     "login": "castroxdev",
     "name": "Lucas de Castro Silva ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/169384752?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/169384752?s=72&u=3c4e726e72cd1bbe187b04ed0f45203ad8af9a54&v=4",
     "location": "Coimbra, Portugal",
-    "company": "Escola Secundária Avelar Brotero",
+    "company": "ISEC",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 249,
-    "publicContributions": 239,
+    "privateContributions": 324,
+    "publicContributions": 130,
     "createdAt": "2024-05-09T16:37:36Z"
   },
   {
@@ -13555,7 +13543,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 647,
+    "privateContributions": 653,
     "publicContributions": 2,
     "createdAt": "2024-02-27T18:37:41Z"
   },
@@ -13568,7 +13556,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 55,
     "createdAt": "2024-02-22T16:35:22Z"
   },
   {
@@ -13591,7 +13579,7 @@
     "company": "FEUP",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 145,
+    "privateContributions": 140,
     "publicContributions": 70,
     "createdAt": "2024-02-19T17:42:30Z"
   },
@@ -13603,7 +13591,7 @@
     "company": "Merkle",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 57,
+    "privateContributions": 55,
     "publicContributions": 9,
     "createdAt": "2024-02-06T11:23:07Z"
   },

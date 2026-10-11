@@ -13164,18 +13164,6 @@
     "createdAt": "2020-05-04T19:22:42Z"
   },
   {
-    "login": "tanderono",
-    "name": "Nikita Popov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/76627418?s=72&u=8bc0deaa8f3d20d820846f897b9f944ae27ce147&v=4",
-    "location": "Riga",
-    "company": "tanderono",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-12-26T18:28:57Z"
-  },
-  {
     "login": "OzgurOckoymaz",
     "name": "Özgür",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73197168?s=72&u=7f62cc0224aa8b40f9dcc002abd9426642f4da6f&v=4",
@@ -13218,8 +13206,8 @@
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1454,
+    "followers": 2,
+    "privateContributions": 1650,
     "publicContributions": 0,
     "createdAt": "2020-05-11T06:02:51Z"
   },
@@ -13231,7 +13219,7 @@
     "company": "VELUX",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2143,
+    "privateContributions": 1981,
     "publicContributions": 3,
     "createdAt": "2020-04-21T13:23:18Z"
   },
@@ -13268,7 +13256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 13,
     "createdAt": "2020-10-16T13:05:16Z"
   },
   {
@@ -13288,7 +13276,7 @@
     "name": "Aigars Valdmanis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/62906109?s=72&u=1c3632b065a0d6ab7a0801558a14a4edd01f8483&v=4",
     "location": "Riga",
-    "company": "CODELEX",
+    "company": "AA Projekts",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -13362,7 +13350,7 @@
     "location": "Latvia",
     "company": "kjnodes",
     "twitterUsername": "kjnodes",
-    "followers": 605,
+    "followers": 603,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2019-05-14T10:42:50Z"
@@ -13374,9 +13362,9 @@
     "location": "Latvia",
     "company": "@evolution-gaming",
     "twitterUsername": "",
-    "followers": 114,
-    "privateContributions": 2996,
-    "publicContributions": 4386,
+    "followers": 119,
+    "privateContributions": 5070,
+    "publicContributions": 3934,
     "createdAt": "2019-07-16T13:50:38Z"
   },
   {
