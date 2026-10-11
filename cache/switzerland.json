@@ -12212,7 +12212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 207,
+    "publicContributions": 238,
     "createdAt": "2024-09-19T08:48:05Z"
   },
   {
@@ -12223,7 +12223,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 181,
+    "privateContributions": 133,
     "publicContributions": 0,
     "createdAt": "2024-04-12T05:32:06Z"
   },
@@ -12234,8 +12234,8 @@
     "location": "Zürich, Switzerland",
     "company": "University of Zürich",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 255,
+    "followers": 2,
+    "privateContributions": 261,
     "publicContributions": 0,
     "createdAt": "2024-02-10T16:06:23Z"
   },
@@ -12248,7 +12248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 26,
     "createdAt": "2024-09-27T11:23:10Z"
   },
   {
@@ -12260,7 +12260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-10-19T23:01:53Z"
   },
   {
@@ -12348,18 +12348,6 @@
     "createdAt": "2024-11-15T01:34:46Z"
   },
   {
-    "login": "MFracassoSFA",
-    "name": "Mario",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160874870?s=72&u=4bb6b5c72238848160c0db977000273770434654&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-02-22T14:14:21Z"
-  },
-  {
     "login": "Syentri",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/161322747?s=72&u=18febc37f7dd466474c712831fba12d992f5448b&v=4",
@@ -12392,7 +12380,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 36,
     "createdAt": "2024-05-06T06:46:24Z"
   },
   {
@@ -12415,8 +12403,8 @@
     "company": "unemployed",
     "twitterUsername": "arctisv",
     "followers": 1,
-    "privateContributions": 1450,
-    "publicContributions": 13,
+    "privateContributions": 2089,
+    "publicContributions": 15,
     "createdAt": "2024-11-25T16:18:49Z"
   },
   {

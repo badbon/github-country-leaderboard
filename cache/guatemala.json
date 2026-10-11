@@ -12576,18 +12576,6 @@
     "createdAt": "2021-11-25T01:23:37Z"
   },
   {
-    "login": "BrayanMica",
-    "name": "Brayan Estiben",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85264563?s=72&v=4",
-    "location": "Guatemala",
-    "company": "",
-    "twitterUsername": "RayanEstiben",
-    "followers": 1,
-    "privateContributions": 449,
-    "publicContributions": 40,
-    "createdAt": "2021-06-03T00:53:37Z"
-  },
-  {
     "login": "Ounett",
     "name": "Edwin Escobar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/85139524?s=72&u=82878ab84c2af4a15912cfcb7790b672bd42197e&v=4",
@@ -12655,21 +12643,9 @@
     "company": "Isaalutions",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 138,
-    "publicContributions": 102,
+    "privateContributions": 205,
+    "publicContributions": 107,
     "createdAt": "2021-10-28T04:47:16Z"
-  },
-  {
-    "login": "SmokerRam",
-    "name": "Angel Ramirez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89809713?s=72&u=555377b031b9eac25ed927f2302cc3592dd72514&v=4",
-    "location": "Guatemala",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-08-30T20:23:33Z"
   },
   {
     "login": "ManuGarMon22",
@@ -12680,7 +12656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2021-03-04T22:07:27Z"
   },
   {
@@ -12715,7 +12691,7 @@
     "company": "Cognits",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2021-09-06T16:42:59Z"
   },
@@ -12726,9 +12702,9 @@
     "location": "Guatemala",
     "company": "Cybersecurity | Banking & Financial Services",
     "twitterUsername": "",
-    "followers": 331,
-    "privateContributions": 145,
-    "publicContributions": 55,
+    "followers": 332,
+    "privateContributions": 590,
+    "publicContributions": 53,
     "createdAt": "2020-09-07T23:45:00Z"
   },
   {
@@ -12738,9 +12714,9 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 187,
+    "followers": 186,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 0,
     "createdAt": "2020-08-04T16:54:14Z"
   },
   {
@@ -12750,9 +12726,9 @@
     "location": "Guatemala",
     "company": "Universidad de San Carlos de Guatemala",
     "twitterUsername": "",
-    "followers": 169,
-    "privateContributions": 21,
-    "publicContributions": 79,
+    "followers": 170,
+    "privateContributions": 4,
+    "publicContributions": 21,
     "createdAt": "2020-05-28T00:00:32Z"
   },
   {
@@ -12762,19 +12738,19 @@
     "location": "Guatemala City",
     "company": "",
     "twitterUsername": "",
-    "followers": 86,
-    "privateContributions": 562,
+    "followers": 97,
+    "privateContributions": 465,
     "publicContributions": 20,
     "createdAt": "2020-07-06T01:39:44Z"
   },
   {
     "login": "mayracmg",
     "name": "Mayra Morataya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/70965559?s=72&u=6fc0d3e0623d61c6134ba0310e5dfe20487da21d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/70965559?s=72&u=6929a1657a4c7a6d637de0f7526cdae31b5eaafd&v=4",
     "location": "Guatemala",
-    "company": "EY",
+    "company": "Deloitte",
     "twitterUsername": "",
-    "followers": 82,
+    "followers": 84,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-08T15:34:44Z"
@@ -12800,7 +12776,7 @@
     "twitterUsername": "",
     "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 44,
     "createdAt": "2020-09-06T23:26:48Z"
   },
   {

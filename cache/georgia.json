@@ -12608,7 +12608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 59,
     "createdAt": "2023-04-09T08:37:15Z"
   },
   {
@@ -12619,14 +12619,14 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
+    "privateContributions": 2,
     "publicContributions": 2,
     "createdAt": "2023-07-31T18:40:02Z"
   },
   {
     "login": "KirillosScummer",
     "name": "Kirill",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121619029?s=72&u=1ab4393df01a6939c84d3be374e75534a8fe1ccd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121619029?s=72&u=af1e58a6b8daafc5a2f220ab7fd577e6550ee597&v=4",
     "location": "Tbilisi",
     "company": "",
     "twitterUsername": "",
@@ -12682,18 +12682,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-03-20T11:11:42Z"
-  },
-  {
-    "login": "Eney997",
-    "name": "eney01",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144894688?s=72&u=2dbdce396f6e35148fb8e3feb221c40f50d692fe&v=4",
-    "location": "Geo,Tbilisi",
-    "company": "TBC UZ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1211,
-    "publicContributions": 31,
-    "createdAt": "2023-09-13T08:47:20Z"
   },
   {
     "login": "Zheka-GGS",
@@ -12787,8 +12775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2895,
-    "publicContributions": 14,
+    "privateContributions": 3641,
+    "publicContributions": 13,
     "createdAt": "2023-12-26T14:23:43Z"
   },
   {
@@ -12812,12 +12800,12 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2023-01-19T16:40:59Z"
   },
   {
     "login": "rezii3",
-    "name": "Rezi",
+    "name": "Rezi lomidze",
     "avatarUrl": "https://avatars.githubusercontent.com/u/138244178?s=72&u=a36c31880b65bed2a5b6cb936b9612cf8ed9f8ff&v=4",
     "location": "Tbilisi",
     "company": "500ml",

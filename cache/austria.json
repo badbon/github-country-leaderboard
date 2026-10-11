@@ -12426,7 +12426,7 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-04T21:30:39Z"
@@ -12440,7 +12440,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2023-03-01T07:55:22Z"
   },
   {
@@ -12452,7 +12452,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 9,
-    "publicContributions": 52,
+    "publicContributions": 64,
     "createdAt": "2023-07-01T21:01:09Z"
   },
   {
@@ -12462,9 +12462,9 @@
     "location": "Austria, Tyrol",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 464,
-    "publicContributions": 211,
+    "followers": 8,
+    "privateContributions": 502,
+    "publicContributions": 240,
     "createdAt": "2023-11-02T19:58:18Z"
   },
   {
@@ -12486,7 +12486,7 @@
     "location": "Vienna, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-24T21:14:58Z"
@@ -12494,13 +12494,13 @@
   {
     "login": "thedel0rean",
     "name": "Felian",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130921580?s=72&u=39fac92c371c530f3bdd355cccb8f3f370cbabb8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130921580?s=72&u=7c7a4a733e46e8b242d4e67514c5804fe328ba6a&v=4",
     "location": "Austria",
     "company": "reallywin",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1168,
-    "publicContributions": 6,
+    "followers": 8,
+    "privateContributions": 1280,
+    "publicContributions": 14,
     "createdAt": "2023-04-16T16:23:16Z"
   },
   {
@@ -12511,8 +12511,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1,
-    "publicContributions": 13,
+    "privateContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2023-02-02T15:57:36Z"
   },
   {
@@ -12522,7 +12522,7 @@
     "location": "Austria",
     "company": "Technical University of Graz",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 304,
     "createdAt": "2023-07-18T11:46:42Z"
@@ -12534,9 +12534,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 106,
-    "publicContributions": 1794,
+    "followers": 7,
+    "privateContributions": 97,
+    "publicContributions": 1752,
     "createdAt": "2023-04-20T17:40:57Z"
   },
   {
@@ -12570,7 +12570,7 @@
     "location": "Carinthia | Austria",
     "company": "HTL Villach",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2023-02-05T09:29:53Z"
@@ -12596,7 +12596,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-02-13T01:16:27Z"
   },
   {
@@ -12607,7 +12607,7 @@
     "company": "HTBLA Leonding",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 45,
+    "privateContributions": 41,
     "publicContributions": 518,
     "createdAt": "2023-09-25T11:36:20Z"
   },
@@ -12631,8 +12631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 6664,
-    "publicContributions": 5,
+    "privateContributions": 11230,
+    "publicContributions": 57,
     "createdAt": "2023-06-05T18:15:12Z"
   },
   {
@@ -12642,21 +12642,21 @@
     "location": "Austria",
     "company": "@AusiDevelopment ",
     "twitterUsername": "NoahLikesPMMP",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 470,
+    "publicContributions": 300,
     "createdAt": "2023-11-23T08:05:53Z"
   },
   {
     "login": "jx-grxf",
     "name": "Johannes Grof │ Dev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147989511?s=72&u=facaebabfb83d284d8a709febbaea34464a99257&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147989511?s=72&u=7658c9804f5602feed391e198c803f4a8295d7de&v=4",
     "location": "Austria",
     "company": "HTBLA Kaindorf an der Sulm",
-    "twitterUsername": "jx_grxf",
+    "twitterUsername": "johannesgrofdev",
     "followers": 6,
-    "privateContributions": 1646,
-    "publicContributions": 1242,
+    "privateContributions": 2965,
+    "publicContributions": 1422,
     "createdAt": "2023-10-15T13:39:47Z"
   },
   {

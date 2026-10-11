@@ -12487,7 +12487,7 @@
     "company": "MBYT LTD",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6360,
+    "privateContributions": 9995,
     "publicContributions": 0,
     "createdAt": "2019-07-28T09:58:40Z"
   },
@@ -12499,8 +12499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 392,
+    "privateContributions": 8,
+    "publicContributions": 402,
     "createdAt": "2019-08-13T06:14:59Z"
   },
   {
@@ -12556,10 +12556,10 @@
     "name": "Michael Leonidou",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56788746?s=72&u=54bb2b3a662775279a37b9fa8d98a0686354ba65&v=4",
     "location": "Cyprus",
-    "company": "@NetInfo",
+    "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "followers": 2,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2019-10-20T10:38:16Z"
   },
@@ -12570,7 +12570,7 @@
     "location": "Nicosia, CY",
     "company": "",
     "twitterUsername": "elvisray_dev",
-    "followers": 26,
+    "followers": 24,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-29T19:35:44Z"
@@ -12583,7 +12583,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 44,
+    "privateContributions": 42,
     "publicContributions": 0,
     "createdAt": "2019-05-02T10:39:53Z"
   },
@@ -12606,7 +12606,7 @@
     "location": "Nicosia",
     "company": "Kaner Group of Companies",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-13T13:42:09Z"
@@ -12630,9 +12630,9 @@
     "location": "Cyprus",
     "company": "CVAT.ai",
     "twitterUsername": "",
-    "followers": 165,
-    "privateContributions": 253,
-    "publicContributions": 458,
+    "followers": 168,
+    "privateContributions": 297,
+    "publicContributions": 527,
     "createdAt": "2018-06-29T10:07:04Z"
   },
   {
@@ -12642,9 +12642,9 @@
     "location": "Cyprus",
     "company": "Gaming Industry",
     "twitterUsername": "",
-    "followers": 146,
-    "privateContributions": 3552,
-    "publicContributions": 36,
+    "followers": 153,
+    "privateContributions": 4048,
+    "publicContributions": 42,
     "createdAt": "2018-04-06T18:55:38Z"
   },
   {
@@ -12654,9 +12654,9 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 110,
-    "privateContributions": 329,
-    "publicContributions": 113,
+    "followers": 113,
+    "privateContributions": 432,
+    "publicContributions": 93,
     "createdAt": "2018-11-15T09:47:12Z"
   },
   {
@@ -12666,7 +12666,7 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 96,
+    "followers": 98,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-05-21T13:59:24Z"
@@ -12678,21 +12678,21 @@
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 86,
-    "privateContributions": 1676,
+    "followers": 87,
+    "privateContributions": 1397,
     "publicContributions": 0,
     "createdAt": "2018-02-05T19:42:57Z"
   },
   {
     "login": "MakisChristou",
     "name": "Makis Christou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/39631552?s=72&u=cec72061b26915b345cb99e7ccf000473e9b4e87&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/39631552?s=72&u=6b5374142df059c102b6ed7c02567d48606e8b39&v=4",
     "location": "Cyprus",
     "company": "@commonprefix ",
     "twitterUsername": "0xMakis",
-    "followers": 82,
-    "privateContributions": 5382,
-    "publicContributions": 390,
+    "followers": 84,
+    "privateContributions": 5769,
+    "publicContributions": 411,
     "createdAt": "2018-05-25T17:54:24Z"
   },
   {

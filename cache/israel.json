@@ -12534,22 +12534,10 @@
     "location": "Israel, Tel-Aviv",
     "company": "Salesforce",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-01-25T13:40:08Z"
-  },
-  {
-    "login": "RoeeHadar",
-    "name": "Roee Hadar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137522270?s=72&v=4",
-    "location": "Haifa, Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 774,
-    "createdAt": "2023-06-23T14:49:13Z"
   },
   {
     "login": "TarekZSh",
@@ -12559,21 +12547,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 76,
-    "publicContributions": 12,
-    "createdAt": "2023-09-29T08:53:54Z"
-  },
-  {
-    "login": "oBecks",
-    "name": "Omer Beck",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130242202?s=72&v=4",
-    "location": "Israel ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 98,
     "publicContributions": 0,
-    "createdAt": "2023-04-08T17:06:06Z"
+    "createdAt": "2023-09-29T08:53:54Z"
   },
   {
     "login": "Ronen-Rusinov",
@@ -12584,7 +12560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 127,
     "createdAt": "2023-02-13T06:37:14Z"
   },
   {
@@ -12596,7 +12572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 4,
     "createdAt": "2023-07-03T17:29:12Z"
   },
   {
@@ -12632,7 +12608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-01-21T09:39:21Z"
   },
   {
@@ -12648,18 +12624,6 @@
     "createdAt": "2023-01-21T20:08:59Z"
   },
   {
-    "login": "elidata-jce",
-    "name": "Eli for JCE",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127851383?s=72&u=74f110369d54363aa952e21e419cc8ef5b2a326f&v=4",
-    "location": "Jerusalem, Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 66,
-    "createdAt": "2023-03-14T11:42:16Z"
-  },
-  {
     "login": "roytzahor",
     "name": "Roy Tzahor",
     "avatarUrl": "https://avatars.githubusercontent.com/u/140825217?s=72&v=4",
@@ -12668,7 +12632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 272,
     "createdAt": "2023-07-28T13:39:56Z"
   },
   {
@@ -12764,7 +12728,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 49,
     "createdAt": "2023-08-13T14:34:58Z"
   },
   {

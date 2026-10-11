@@ -12512,7 +12512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 4,
     "createdAt": "2024-03-13T11:44:39Z"
   },
   {
@@ -12560,7 +12560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 25,
     "createdAt": "2024-01-18T16:17:31Z"
   },
   {
@@ -12618,9 +12618,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 7,
-    "publicContributions": 155,
+    "publicContributions": 0,
     "createdAt": "2024-10-28T16:06:55Z"
   },
   {
@@ -12632,7 +12632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2024-08-26T19:04:41Z"
   },
   {
@@ -12660,18 +12660,6 @@
     "createdAt": "2024-04-01T07:57:58Z"
   },
   {
-    "login": "dan-kerik",
-    "name": "Dan Kerik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165212120?s=72&u=fb36c42827b1c326577c1454129b1d6e565f4205&v=4",
-    "location": "Athens, GA",
-    "company": "Protiviti",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-03-27T20:23:10Z"
-  },
-  {
     "login": "avitldv2",
     "name": "Avitld",
     "avatarUrl": "https://avatars.githubusercontent.com/u/171276483?s=72&u=fdb2f85c9b88a571da87e1f62170882c8abd790e&v=4",
@@ -12685,14 +12673,14 @@
   },
   {
     "login": "Thanos3G",
-    "name": "Thanasis Trigkas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/187754206?s=72&u=9e329a854d5f4acaa721c236e83c530b44038a93&v=4",
+    "name": "Athanasios Trigkas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/187754206?s=72&u=e7869ce6ec665688196e43a7662f5b2817ef0a96&v=4",
     "location": "Athens ",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 44,
     "createdAt": "2024-11-08T11:03:44Z"
   },
   {
@@ -12714,9 +12702,9 @@
     "location": "Athens",
     "company": "Biomedical Engineering Laboratory NTUA",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 58,
     "createdAt": "2024-04-26T21:50:14Z"
   },
   {

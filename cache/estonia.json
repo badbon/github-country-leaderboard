@@ -12523,7 +12523,7 @@
     "company": "",
     "twitterUsername": "_importt",
     "followers": 1,
-    "privateContributions": 1121,
+    "privateContributions": 1075,
     "publicContributions": 42,
     "createdAt": "2020-08-28T04:41:37Z"
   },
@@ -12534,9 +12534,9 @@
     "location": "Estonia, Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 709,
-    "privateContributions": 15,
-    "publicContributions": 83,
+    "followers": 689,
+    "privateContributions": 19,
+    "publicContributions": 79,
     "createdAt": "2020-07-13T09:23:34Z"
   },
   {
@@ -12546,9 +12546,9 @@
     "location": "Estonia",
     "company": "COOLJAPAN OU",
     "twitterUsername": "",
-    "followers": 283,
+    "followers": 306,
     "privateContributions": 0,
-    "publicContributions": 771,
+    "publicContributions": 747,
     "createdAt": "2020-12-05T09:22:53Z"
   },
   {
@@ -12560,7 +12560,7 @@
     "twitterUsername": "msbatal",
     "followers": 76,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 154,
     "createdAt": "2020-01-21T23:25:26Z"
   },
   {
@@ -12570,9 +12570,9 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 45,
-    "privateContributions": 136,
-    "publicContributions": 27,
+    "followers": 46,
+    "privateContributions": 158,
+    "publicContributions": 19,
     "createdAt": "2020-12-09T07:53:23Z"
   },
   {
@@ -12583,7 +12583,7 @@
     "company": "Tallinn University of Technology",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-02-12T16:50:24Z"
   },
@@ -12594,9 +12594,9 @@
     "location": "Tallinn, Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 626,
-    "publicContributions": 95,
+    "followers": 43,
+    "privateContributions": 557,
+    "publicContributions": 87,
     "createdAt": "2020-09-30T21:08:20Z"
   },
   {
@@ -12606,21 +12606,21 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "cetagostini",
-    "followers": 39,
-    "privateContributions": 686,
-    "publicContributions": 599,
+    "followers": 41,
+    "privateContributions": 1432,
+    "publicContributions": 1104,
     "createdAt": "2020-01-13T20:13:20Z"
   },
   {
     "login": "oniso20",
     "name": "Onis Emem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74050092?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/74050092?s=72&u=50a46875b48b69bf20345f3ae83214dbc25beefd&v=4",
     "location": "Tallinn, Estonia",
     "company": "Yolo Group",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 1314,
-    "publicContributions": 28,
+    "followers": 40,
+    "privateContributions": 1569,
+    "publicContributions": 29,
     "createdAt": "2020-11-06T10:35:57Z"
   },
   {
@@ -12630,9 +12630,9 @@
     "location": "Tartu, Estonia",
     "company": "Industry62",
     "twitterUsername": "",
-    "followers": 38,
+    "followers": 31,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 38,
     "createdAt": "2020-01-25T20:23:30Z"
   },
   {
@@ -12642,8 +12642,8 @@
     "location": "Tallinn, Estonia",
     "company": "Appthos Studio OÜ",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 1490,
+    "followers": 30,
+    "privateContributions": 1449,
     "publicContributions": 4,
     "createdAt": "2020-10-25T12:30:41Z"
   },
@@ -12652,21 +12652,21 @@
     "name": "Dmitry Timofeev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/71121334?s=72&u=b0d4c6ac8a34003ac8eaafeb4a9be2fa38ce0c46&v=4",
     "location": "Estonia, Sillamae",
-    "company": "",
+    "company": "Major Source OÜ",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 2816,
+    "followers": 22,
+    "privateContributions": 4301,
     "publicContributions": 11,
     "createdAt": "2020-09-11T07:31:41Z"
   },
   {
     "login": "adelaparras",
     "name": "Alejandro De La Parra Solomon",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61360980?s=72&u=7d8bcfede978a4c67496a7b8a0fe706e7690ea2e&v=4",
-    "location": "Estonia/Mexico/UAE",
-    "company": "Emirati Digital Transformation Centre (EDTC)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61360980?s=72&u=2054a414563ef5d88c328a874e48a7598362629c&v=4",
+    "location": "Estonia/Mexico",
+    "company": "Latin American Digital Transformation Center (CLTD)",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2020-02-22T18:52:58Z"
@@ -12678,9 +12678,9 @@
     "location": "Estonia",
     "company": "Asius",
     "twitterUsername": "AsiusAI",
-    "followers": 26,
-    "privateContributions": 1228,
-    "publicContributions": 25,
+    "followers": 29,
+    "privateContributions": 1306,
+    "publicContributions": 41,
     "createdAt": "2020-05-19T13:36:02Z"
   },
   {
@@ -12691,8 +12691,8 @@
     "company": "Hamnava",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 333,
-    "publicContributions": 18,
+    "privateContributions": 198,
+    "publicContributions": 14,
     "createdAt": "2020-09-19T01:55:15Z"
   },
   {

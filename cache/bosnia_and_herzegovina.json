@@ -12396,18 +12396,6 @@
     "createdAt": "2019-05-29T10:17:11Z"
   },
   {
-    "login": "Resto69",
-    "name": "MasterSeargent",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48391158?s=72&u=d5b7da925d7a73a00564fd74f7ef6084b1006cd6&v=4",
-    "location": "Bosnia & Herzegovina, Sarajevo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 4,
-    "createdAt": "2019-03-09T18:33:33Z"
-  },
-  {
     "login": "darioMiskovic",
     "name": "Dario Miskovic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/47636050?s=72&v=4",
@@ -12487,8 +12475,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2494,
-    "publicContributions": 58,
+    "privateContributions": 2789,
+    "publicContributions": 52,
     "createdAt": "2019-11-02T10:30:10Z"
   },
   {
@@ -12499,7 +12487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 7,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-30T16:50:42Z"
   },
@@ -12511,7 +12499,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 84,
+    "privateContributions": 82,
     "publicContributions": 15,
     "createdAt": "2019-11-13T13:48:50Z"
   },
@@ -12528,27 +12516,15 @@
     "createdAt": "2019-12-14T13:52:41Z"
   },
   {
-    "login": "EldinTiro",
-    "name": "Eldin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48203153?s=72&v=4",
-    "location": "Sarajevo",
-    "company": "HYCU",
-    "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 0,
-    "publicContributions": 60,
-    "createdAt": "2019-03-04T08:58:08Z"
-  },
-  {
     "login": "EmirVatric",
     "name": "Emir Vatric",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46676569?s=72&u=d7d8719d6e2c06bc5514ca2160e650b3f8c3ddd8&v=4",
     "location": "Sarajevo, BIH",
     "company": "",
     "twitterUsername": "emirvatric",
-    "followers": 41,
-    "privateContributions": 939,
-    "publicContributions": 10,
+    "followers": 40,
+    "privateContributions": 957,
+    "publicContributions": 17,
     "createdAt": "2019-01-14T12:26:30Z"
   },
   {
@@ -12559,7 +12535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 1379,
+    "privateContributions": 2129,
     "publicContributions": 0,
     "createdAt": "2019-11-30T20:13:43Z"
   },
@@ -12570,7 +12546,7 @@
     "location": "Sarajevo",
     "company": "pickleball.com",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2019-12-28T22:50:40Z"
@@ -12582,7 +12558,7 @@
     "location": "Sarajevo || Brodarevo",
     "company": "@ministryofprogramming",
     "twitterUsername": "Bugenzi98",
-    "followers": 32,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 67,
     "createdAt": "2019-01-27T14:50:24Z"
@@ -12594,8 +12570,8 @@
     "location": "Sarajevo ",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 217,
+    "followers": 30,
+    "privateContributions": 180,
     "publicContributions": 13,
     "createdAt": "2019-10-15T14:12:54Z"
   },
@@ -12606,9 +12582,9 @@
     "location": "Sarajevo",
     "company": "@ordo-one",
     "twitterUsername": "supersonicbyte",
-    "followers": 30,
-    "privateContributions": 639,
-    "publicContributions": 87,
+    "followers": 29,
+    "privateContributions": 651,
+    "publicContributions": 73,
     "createdAt": "2019-10-10T16:37:39Z"
   },
   {

@@ -12620,7 +12620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2021-09-07T09:01:12Z"
   },
   {
@@ -12643,7 +12643,7 @@
     "company": "Four of Them/Jhunt",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 116,
+    "privateContributions": 152,
     "publicContributions": 0,
     "createdAt": "2021-10-29T12:37:59Z"
   },
@@ -12738,8 +12738,8 @@
     "location": "Zagreb",
     "company": "cWebSpace",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 631,
+    "followers": 2,
+    "privateContributions": 827,
     "publicContributions": 29,
     "createdAt": "2021-04-21T17:12:04Z"
   },
@@ -12751,8 +12751,8 @@
     "company": "MochaLabs",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 612,
-    "publicContributions": 10,
+    "privateContributions": 697,
+    "publicContributions": 4,
     "createdAt": "2021-07-09T08:49:15Z"
   },
   {
@@ -12764,7 +12764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 73,
     "createdAt": "2021-11-29T21:11:17Z"
   },
   {

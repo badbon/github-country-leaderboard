@@ -12391,7 +12391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 40,
+    "privateContributions": 85,
     "publicContributions": 17,
     "createdAt": "2018-10-15T02:19:30Z"
   },
@@ -12404,20 +12404,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 36,
     "createdAt": "2018-01-28T13:14:54Z"
-  },
-  {
-    "login": "zencoder01",
-    "name": "Ignitious Samasumo Pesuka",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/43833569?s=72&u=241f76b5c4e6de8fef0a3c2f306cf1c3f3f198a8&v=4",
-    "location": "Lusaka, Zambia",
-    "company": "ZENCODE I.T. SERVICES, LLC ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1047,
-    "publicContributions": 29,
-    "createdAt": "2018-10-04T00:21:49Z"
   },
   {
     "login": "MikeyKanyungo",
@@ -12438,9 +12426,9 @@
     "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 525,
+    "publicContributions": 579,
     "createdAt": "2018-12-28T06:37:19Z"
   },
   {
@@ -12452,7 +12440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 78,
     "createdAt": "2018-06-16T13:54:31Z"
   },
   {
@@ -12475,8 +12463,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 30,
-    "publicContributions": 112,
+    "privateContributions": 40,
+    "publicContributions": 131,
     "createdAt": "2018-12-23T06:37:15Z"
   },
   {
@@ -12486,21 +12474,21 @@
     "location": "Lusaka",
     "company": "@bongohive",
     "twitterUsername": "alfayo_Kat",
-    "followers": 44,
-    "privateContributions": 1624,
+    "followers": 42,
+    "privateContributions": 1615,
     "publicContributions": 6,
     "createdAt": "2018-02-21T07:20:45Z"
   },
   {
     "login": "mapalochibwe",
     "name": "Mapalo  Mwape Chibwe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36625620?s=72&u=c9101a367991d821438a6835176a9c42164127d2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36625620?s=72&u=adc6e74a075702e066dacfa6256270ef96e2be3a&v=4",
     "location": "Lusaka",
-    "company": "Rideve Media",
+    "company": "Saverick Africa",
     "twitterUsername": "Maverickblessi1",
-    "followers": 27,
-    "privateContributions": 134,
-    "publicContributions": 64,
+    "followers": 29,
+    "privateContributions": 123,
+    "publicContributions": 65,
     "createdAt": "2018-02-19T11:20:11Z"
   },
   {
@@ -12510,9 +12498,9 @@
     "location": "Lusaka ",
     "company": "ByteShere Dev",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 1247,
-    "publicContributions": 179,
+    "followers": 24,
+    "privateContributions": 1382,
+    "publicContributions": 216,
     "createdAt": "2018-05-15T10:53:32Z"
   },
   {
@@ -12523,7 +12511,7 @@
     "company": "Cellulant ",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 6,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2018-08-14T09:49:00Z"
   },
@@ -12535,8 +12523,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 4,
-    "publicContributions": 0,
+    "privateContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2018-07-24T07:18:20Z"
   },
   {
@@ -12582,7 +12570,7 @@
     "location": "Lusaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-03-15T00:34:10Z"
