@@ -1,8 +1,8 @@
 # Total Contributions - Ukraine
 
-Generated: 2026-10-10T22:18:30.088Z
+Generated: 2026-10-11T00:06:54.209Z
 
-Users: 47766
+Users: 47765
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

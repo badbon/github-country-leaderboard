@@ -1,6 +1,6 @@
 # Followers - Somalia
 
-Generated: 2026-10-10T22:09:19.468Z
+Generated: 2026-10-10T23:56:09.516Z
 
 Users: 865
 
@@ -14,7 +14,7 @@ Users: 865
 | 6 | [Cabdulahi](https://github.com/Cabdulahi) | Cabdulahi Sharif | Hormuud | Cabdula18395654 | Mogadishu | 282 |
 | 7 | [LibanMoo](https://github.com/LibanMoo) | Liban Hussein | Somali International University |  | Somalia | 251 |
 | 8 | [munniomer](https://github.com/munniomer) | Munira Omar |  | munniomer | Mogadishu, Somalia | 244 |
-| 9 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 217 |
+| 9 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 218 |
 | 10 | [ShurieJr](https://github.com/ShurieJr) | Mohamed Abdullahi Mohamud | Near East University In Nothern Cyprus | shuuriyejr | Somalia | 211 |
 | 11 | [miirshe](https://github.com/miirshe) | Abdikafi Isse Isak | @kaabeup @Waagefaal @bulsho-development-bank |  | Somalia | 201 |
 | 12 | [baabale](https://github.com/baabale) | Abdirahman Baabale | Bulsho Development Bank | baabale | Mogadishu, Somalia | 164 |

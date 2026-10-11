@@ -22,10 +22,10 @@ Indexed users: 1,281
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,721 |
 | 10 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
-| 11 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,685 |
-| 12 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
-| 13 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 4,061 |
-| 14 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 3,832 |
+| 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 4,805 |
+| 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,685 |
+| 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
+| 14 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 4,061 |
 | 15 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,735 |
 | 16 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
 | 17 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
@@ -83,4 +83,4 @@ Indexed users: 1,281
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-10T22:49:05.655Z
+Generated: 2026-10-11T00:36:57.301Z

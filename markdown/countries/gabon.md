@@ -18,7 +18,7 @@ Indexed users: 315
 | 4 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,226 |
 | 5 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,113 |
 | 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,041 |
-| 7 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 1,002 |
+| 7 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 1,001 |
 | 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 972 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 843 |
 | 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 728 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-10T22:59:48.822Z
+Generated: 2026-10-11T00:50:39.399Z

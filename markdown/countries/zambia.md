@@ -46,13 +46,13 @@ Indexed users: 1,343
 | 7 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,054 |
 | 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,010 |
 | 9 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 998 |
-| 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 951 |
+| 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
 | 11 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 724 |
 | 12 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 685 |
-| 13 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
-| 14 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
-| 15 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
-| 16 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 556 |
+| 13 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 684 |
+| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
+| 15 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
+| 16 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
 | 17 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
 | 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 554 |
 | 19 | [chrimztech](https://github.com/chrimztech) | Chrishent | Lusaka | 553 |
@@ -83,4 +83,4 @@ Indexed users: 1,343
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-10T22:23:18.701Z
+Generated: 2026-10-11T00:14:05.621Z

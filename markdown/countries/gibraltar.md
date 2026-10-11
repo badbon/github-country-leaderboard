@@ -15,7 +15,7 @@ Indexed users: 93
 | 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | Gibraltar | 24,452 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Gibraltar | 5,663 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Gibraltar | 5,099 |
-| 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,276 |
+| 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz | Gibraltar | 3,277 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi | Gibraltar | 2,245 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C | Gibraltar | 1,384 |
 | 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas | Gibraltar, GI | 1,251 |
@@ -74,7 +74,7 @@ Indexed users: 93
 | 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak | Gibraltar | 26 |
 | 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
 | 12 | [multicharts](https://github.com/multicharts) |  | Gibraltar | 24 |
-| 13 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Gibraltar | 22 |
+| 13 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Gibraltar | 21 |
 | 14 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 17 |
 | 15 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 17 |
 | 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 17 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-10T23:00:57.134Z
+Generated: 2026-10-11T00:50:59.760Z

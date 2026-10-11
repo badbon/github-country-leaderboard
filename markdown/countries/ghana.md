@@ -53,10 +53,10 @@ Indexed users: 7,109
 | 14 | [maxwellagyapong](https://github.com/maxwellagyapong) | Maxwell Agyapong | Accra | 2,610 |
 | 15 | [s-kvng](https://github.com/s-kvng) | Nathaniel E. Adama | Accra \|\| Koforidua | 2,557 |
 | 16 | [gideonadeti](https://github.com/gideonadeti) | Gideon Adeti | Accra, Ghana | 2,518 |
-| 17 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
-| 18 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
-| 19 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
-| 20 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,291 |
+| 17 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,420 |
+| 18 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
+| 19 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
+| 20 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,109
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-10T22:59:54.172Z
+Generated: 2026-10-11T00:50:55.758Z

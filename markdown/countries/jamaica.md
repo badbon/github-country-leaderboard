@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,275
+Indexed users: 1,274
 
 | Leaderboard | Link |
 |---|---|
@@ -68,13 +68,13 @@ Indexed users: 1,275
 | 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris | Jamaica | 300 |
 | 5 | [m-oniqu3](https://github.com/m-oniqu3) | monique | Jamaica | 223 |
 | 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams | St. Ann, Jamaica | 212 |
-| 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Kingston, ON | 140 |
+| 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Kingston, ON | 138 |
 | 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt | Jamaica | 136 |
 | 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | Kingston, Jamaica | 134 |
 | 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | Kingston, New York | 123 |
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
-| 12 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
-| 13 | [juliemturner](https://github.com/juliemturner) | Julie Turner | East Kingston, NH | 108 |
+| 12 | [juliemturner](https://github.com/juliemturner) | Julie Turner | East Kingston, NH | 109 |
+| 13 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
 | 14 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Kingston, ON | 106 |
 | 15 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Kingston, Ontario | 106 |
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 106 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 94 |
 
-Generated: 2026-10-10T23:09:39.765Z
+Generated: 2026-10-11T00:59:43.221Z

@@ -26,12 +26,12 @@ Indexed users: 2,041
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
 | 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
 | 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
-| 15 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
-| 16 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
-| 17 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
-| 18 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
-| 19 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila | Dar es Salaam, Tanzania | 6,694 |
-| 20 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania | 6,537 |
+| 15 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
+| 16 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
+| 17 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
+| 18 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
+| 19 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
+| 20 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila | Dar es Salaam, Tanzania | 6,694 |
 
 ## Public Contributions
 
@@ -68,12 +68,12 @@ Indexed users: 2,041
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna | ARUSHA, TANZANIA | 1,070 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Tanzania | 1,025 |
 | 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | Dar es Salaam , Tanzania | 949 |
-| 7 | [isaka-james](https://github.com/isaka-james) | masterplan | Dodoma, Tanzania | 555 |
+| 7 | [isaka-james](https://github.com/isaka-james) | masterplan | Dodoma, Tanzania | 553 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest | Arusha, Tanzania | 412 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 409 |
 | 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 389 |
 | 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | Dar Es Salaam, TANZANIA | 379 |
-| 12 | [TripleHat](https://github.com/TripleHat) |  | Tanzania | 284 |
+| 12 | [TripleHat](https://github.com/TripleHat) |  | Tanzania | 295 |
 | 13 | [gilbertmunuotz](https://github.com/gilbertmunuotz) | Gilbert Munuo | Tanzania | 251 |
 | 14 | [Pheogrammer](https://github.com/Pheogrammer) | Alfeo Raymond | Dar es salaam, Tanzania | 217 |
 | 15 | [AvicennaJr](https://github.com/AvicennaJr) | Avicenna | Dar Es Salaam, Tanzania | 216 |
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-10T22:14:52.421Z
+Generated: 2026-10-11T00:01:26.073Z

@@ -17,7 +17,7 @@ Indexed users: 186
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,287 |
 | 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,424 |
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,316 |
-| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,910 |
+| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,928 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,910 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,770 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown, DC | 3,333 |
@@ -42,7 +42,7 @@ Indexed users: 186
 | 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,476 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,863 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,529 |
-| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,471 |
+| 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,478 |
 | 7 | [rjvaleo](https://github.com/rjvaleo) | transelectronic | Georgetown, Colorado | 1,455 |
 | 8 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 1,332 |
 | 9 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Georgetown University | 744 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-10T23:03:41.220Z
+Generated: 2026-10-11T00:54:51.466Z

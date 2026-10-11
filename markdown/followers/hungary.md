@@ -1,6 +1,6 @@
 # Followers - Hungary
 
-Generated: 2026-10-10T23:05:29.269Z
+Generated: 2026-10-11T00:57:09.081Z
 
 Users: 11192
 
@@ -25,4 +25,4 @@ Users: 11192
 | 17 | [johntakesnote](https://github.com/johntakesnote) | John Astern | TripAdvisor |  | Budapest, Hungary | 670 |
 | 18 | [Kapitany777](https://github.com/Kapitany777) | Viktor Török |  | Kapitany777 | Hungary | 601 |
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | @BinaryBirds  | tiborbodecs | Hungary | 600 |
-| 20 | [Aylur](https://github.com/Aylur) |  |  |  | Hungary | 573 |
+| 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter |  |  | Hungary | 572 |

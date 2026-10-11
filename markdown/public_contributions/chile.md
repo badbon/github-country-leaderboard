@@ -1,8 +1,8 @@
 # Public Contributions - Chile
 
-Generated: 2026-10-10T22:46:58.642Z
+Generated: 2026-10-11T00:35:07.432Z
 
-Users: 19393
+Users: 19392
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 19393
 | 10 | [underpostnet](https://github.com/underpostnet) | underpost |  |  | Chile | 8297 |
 | 11 | [lnds](https://github.com/lnds) | Eduardo Díaz | @ogu-lang  | lnds | Santiago, Chile | 7712 |
 | 12 | [ignaciocorball](https://github.com/ignaciocorball) | Ignacio Corball | Patagonia Labs |  | Chile | 7678 |
-| 13 | [VforVitorio](https://github.com/VforVitorio) | Victor | NTT Data |  | Santiago de Compostela · Hybrid in A Coruña | 6386 |
-| 14 | [NachoOFC](https://github.com/NachoOFC) | Nacho | @CodeBrosSystems @Laboratorio-nacho @Github |  | Puerto Montt, Chile | 5769 |
-| 15 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Efeonce Group |  | Chile | 5525 |
-| 16 | [madkoding](https://github.com/madkoding) | madKoding | madTrackers | madkoding | Chile | 5507 |
-| 17 | [nmorabowen](https://github.com/nmorabowen) | Nicolas Mora Bowen | UANDES |  | Chile | 4980 |
-| 18 | [jsgrrchg](https://github.com/jsgrrchg) | José Gurruchaga |  | jsgrrchg | Chile | 4906 |
-| 19 | [richonguzman](https://github.com/richonguzman) | Ricardo Guzman |  |  | Viña del Mar, Chile | 4899 |
-| 20 | [yorsh21](https://github.com/yorsh21) | Jorge Villagrán | Mercado Libre |  | Santiago, Chile | 4372 |
+| 13 | [JackStar6677-1](https://github.com/JackStar6677-1) | JackStar | DrakesCraft | JackStar6677 | Chile. Santiago, Padre Hurtado | 6769 |
+| 14 | [VforVitorio](https://github.com/VforVitorio) | Victor | NTT Data |  | Santiago de Compostela · Hybrid in A Coruña | 6386 |
+| 15 | [NachoOFC](https://github.com/NachoOFC) | Nacho | @CodeBrosSystems @Laboratorio-nacho @Github |  | Puerto Montt, Chile | 5769 |
+| 16 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Efeonce Group |  | Chile | 5525 |
+| 17 | [madkoding](https://github.com/madkoding) | madKoding | madTrackers | madkoding | Chile | 5507 |
+| 18 | [nmorabowen](https://github.com/nmorabowen) | Nicolas Mora Bowen | UANDES |  | Chile | 4980 |
+| 19 | [jsgrrchg](https://github.com/jsgrrchg) | José Gurruchaga |  | jsgrrchg | Chile | 4906 |
+| 20 | [richonguzman](https://github.com/richonguzman) | Ricardo Guzman |  |  | Viña del Mar, Chile | 4899 |

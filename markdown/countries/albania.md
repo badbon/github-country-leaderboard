@@ -1,6 +1,6 @@
 # Albania
 
-Indexed users: 1,185
+Indexed users: 1,184
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 1,185
 | 8 | [orges](https://github.com/orges) | orges | Albania | 6,225 |
 | 9 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 6,077 |
 | 10 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
-| 11 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
-| 12 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
-| 13 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
-| 14 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
-| 15 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
-| 16 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
-| 17 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,181 |
-| 18 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,048 |
-| 19 | [klajdicaushi](https://github.com/klajdicaushi) | Klajdi Çaushi | Tirana | 3,950 |
-| 20 | [dionverushi](https://github.com/dionverushi) | Dion Verushi | Tirana | 3,849 |
+| 11 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
+| 12 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
+| 13 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
+| 14 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
+| 15 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
+| 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
+| 17 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
+| 18 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,181 |
+| 19 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,048 |
+| 20 | [klajdicaushi](https://github.com/klajdicaushi) | Klajdi Çaushi | Tirana | 3,950 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,185
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-10T22:26:25.960Z
+Generated: 2026-10-11T00:15:18.964Z

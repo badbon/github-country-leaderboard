@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-10T22:37:07.303Z
+Generated: 2026-10-11T00:25:41.136Z
 
 Users: 1786
 
@@ -14,9 +14,9 @@ Users: 1786
 | 6 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5704 |
 | 7 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca |  |  | Bolivia | 5264 |
 | 8 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana |  |  | Santa Cruz, Bolivia | 4929 |
-| 9 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 4534 |
-| 10 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 4251 |
-| 11 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 3968 |
+| 9 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | @instrategy | michaellalaved | Santa Cruz de la Sierra, Bolivia | 4922 |
+| 10 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 4534 |
+| 11 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 4251 |
 | 12 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca |  |  | Santa Cruz, Bolivia | 3751 |
 | 13 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari |  | ConchariChris | Bolivia | 3694 |
 | 14 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | deepmicrosystems.com | iamatachyon | Bolivia | 3553 |
@@ -24,5 +24,5 @@ Users: 1786
 | 16 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez |  |  | Bolivia | 3406 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | Solunes Digital |  | La Paz, Bolivia | 3035 |
 | 18 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | FinUp |  | Santa Cruz, Bolivia | 3029 |
-| 19 | [villcabo](https://github.com/villcabo) | Bismarck Villca | @SintesisSA  | BismarckVillcaS | Bolivia | 3027 |
-| 20 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 2936 |
+| 19 | [ivansanguezax](https://github.com/ivansanguezax) | Ivan Sangueza Alarcon |  | ivansanguezax | Bolivia | 3028 |
+| 20 | [villcabo](https://github.com/villcabo) | Bismarck Villca | @SintesisSA  | BismarckVillcaS | Bolivia | 3027 |

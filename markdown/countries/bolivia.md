@@ -20,9 +20,9 @@ Indexed users: 1,786
 | 6 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg | Santa Cruz, Bolivia | 5,704 |
 | 7 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,264 |
 | 8 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,929 |
-| 9 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 4,534 |
-| 10 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
-| 11 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 3,968 |
+| 9 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 4,922 |
+| 10 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | La Paz, Bolivia | 4,534 |
+| 11 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
 | 12 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia | 3,751 |
 | 13 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 3,694 |
 | 14 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 3,553 |
@@ -30,8 +30,8 @@ Indexed users: 1,786
 | 16 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 3,406 |
 | 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
 | 18 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,029 |
-| 19 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
-| 20 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | Santa Cruz de la Sierra, Bolivia | 2,936 |
+| 19 | [ivansanguezax](https://github.com/ivansanguezax) | Ivan Sangueza Alarcon | Bolivia | 3,028 |
+| 20 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,786
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 
-Generated: 2026-10-10T22:37:07.303Z
+Generated: 2026-10-11T00:25:41.136Z

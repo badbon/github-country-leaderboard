@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-10T22:18:36.854Z
+Generated: 2026-10-11T00:08:11.783Z
 
 Users: 5626
 
@@ -18,11 +18,11 @@ Users: 5626
 | 10 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias |  |  | Montevideo, Uruguay | 9337 |
 | 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | @tryolabs  | juanfkurucz | Uruguay | 9097 |
 | 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez |  | sfaustto | Uruguay | 8580 |
-| 13 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
-| 14 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
-| 15 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
-| 16 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
-| 17 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
-| 18 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |
-| 19 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 6870 |
-| 20 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Sticky.io |  | Montevideo, Uruguay | 6632 |
+| 13 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo |  |  | Uruguay | 8420 |
+| 14 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Eclipse Labs |  | Montevideo, Uruguay | 8276 |
+| 15 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Iora Labs |  | Uruguay | 8205 |
+| 16 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Barbat.Dev |  | Uruguay | 7968 |
+| 17 | [Tombar](https://github.com/Tombar) | Martin Loy | Undermountain Coding Company | martinloy | Montevideo, Uruguay | 7600 |
+| 18 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | @NeoCoast  |  | Montevideo, Uruguay | 7198 |
+| 19 | [damian-buho](https://github.com/damian-buho) | Damián Búho |  |  | Uruguay | 6976 |
+| 20 | [machester4](https://github.com/machester4) | Michael Pintos |  |  | Uruguay | 6870 |

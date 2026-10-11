@@ -1,6 +1,6 @@
 # Slovenia
 
-Indexed users: 3,106
+Indexed users: 3,105
 
 | Leaderboard | Link |
 |---|---|
@@ -53,9 +53,9 @@ Indexed users: 3,106
 | 14 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
 | 15 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,269 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
-| 17 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,065 |
-| 18 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
-| 19 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 1,951 |
+| 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 2,097 |
+| 18 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,065 |
+| 19 | [crtahlin](https://github.com/crtahlin) | Crt Ahlin | Slovenia | 2,035 |
 | 20 | [SkBlaz](https://github.com/SkBlaz) | SkBlaz | Slovenia | 1,917 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 3,106
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-10T22:08:04.753Z
+Generated: 2026-10-10T23:55:28.018Z

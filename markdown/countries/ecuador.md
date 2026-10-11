@@ -46,7 +46,7 @@ Indexed users: 4,899
 | 7 | [AlejandroTatum](https://github.com/AlejandroTatum) | Alejandro Padilla | Ecuador | 3,763 |
 | 8 | [rowanseymour](https://github.com/rowanseymour) | Rowan Seymour | Quito, Ecuador | 3,730 |
 | 9 | [victor7w7r](https://github.com/victor7w7r) | victor7w7r | Quito, Ecuador | 3,341 |
-| 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,443 |
+| 10 | [alcb1310](https://github.com/alcb1310) | Andres Court | Quito, Ecuador | 2,954 |
 | 11 | [anchundiatech](https://github.com/anchundiatech) | Alejandro Anchundia | Ecuador | 2,429 |
 | 12 | [Patogol35](https://github.com/Patogol35) | Jorge Patricio Santamaría Cherrez | Ambato, Ecuador  | 2,376 |
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea | Ecuador | 2,032 |
@@ -83,4 +83,4 @@ Indexed users: 4,899
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-10T22:52:17.741Z
+Generated: 2026-10-11T00:40:49.664Z

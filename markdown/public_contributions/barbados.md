@@ -1,6 +1,6 @@
 # Public Contributions - Barbados
 
-Generated: 2026-10-10T22:33:47.271Z
+Generated: 2026-10-11T00:22:35.052Z
 
 Users: 133
 
@@ -20,9 +20,9 @@ Users: 133
 | 12 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | The George Alleyne Chronic Disease Research Centre | kernrocke | Bridgetown, Barbados | 109 |
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte |  |  | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | M&E Partners Limited |  | St. Phillips, Barbados, W.I. | 105 |
-| 15 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 97 |
-| 16 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 90 |
-| 17 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 88 |
-| 18 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |
-| 19 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 67 |
+| 15 | [baebranch](https://github.com/baebranch) | Brian Branch |  | baebranch | Barbados | 99 |
+| 16 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 97 |
+| 17 | [Taggs](https://github.com/Taggs) | Neil Taggart | Adaptive Consulting | neiltaggart | (London \|\| Barbados) && Cloud | 90 |
+| 18 | [starsden](https://github.com/starsden) | den | Airbus |  | Barbados | 88 |
+| 19 | [Rayh23](https://github.com/Rayh23) | Raynel |  |  | Barbados | 81 |
 | 20 | [cgoodridge](https://github.com/cgoodridge) |  |  |  | Barbados | 61 |

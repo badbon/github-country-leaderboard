@@ -1,8 +1,8 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-10T22:52:10.973Z
+Generated: 2026-10-11T00:39:40.362Z
 
-Users: 3314
+Users: 3313
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

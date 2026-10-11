@@ -12,14 +12,14 @@ Indexed users: 37
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 1,392 |
+| 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 1,410 |
 | 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 715 |
 | 3 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal | Grenada | 524 |
 | 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen | Grenada | 250 |
 | 5 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 187 |
 | 6 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 145 |
 | 7 | [AlexS473](https://github.com/AlexS473) | Shereece Victor | Grenada | 107 |
-| 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 41 |
+| 8 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 42 |
 | 9 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 31 |
 | 10 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
 | 11 | [Tisagh](https://github.com/Tisagh) | Tisagh Chase | Grenada | 15 |
@@ -40,7 +40,7 @@ Indexed users: 37
 | 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 656 |
 | 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 101 |
 | 3 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 81 |
-| 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 41 |
+| 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 42 |
 | 5 | [trudygill](https://github.com/trudygill) | Trudy Gill | Grenada | 29 |
 | 6 | [RockimSaintBernard](https://github.com/RockimSaintBernard) | Rockim St. Bernard | Grenada, West Indies | 28 |
 | 7 | [DamioneJDARBEAU](https://github.com/DamioneJDARBEAU) | Damione Darbeau | Grenada  | 14 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 3 |
 | 20 | [OmariCelestine](https://github.com/OmariCelestine) | Omari Celestine | Grenada | 3 |
 
-Generated: 2026-10-10T23:01:59.005Z
+Generated: 2026-10-11T00:53:09.102Z

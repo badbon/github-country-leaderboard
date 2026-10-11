@@ -1,8 +1,8 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-10T23:09:39.765Z
+Generated: 2026-10-11T00:59:43.221Z
 
-Users: 1275
+Users: 1274
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

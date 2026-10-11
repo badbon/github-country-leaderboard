@@ -1,6 +1,6 @@
 # Total Contributions - Cuba
 
-Generated: 2026-10-10T22:49:05.655Z
+Generated: 2026-10-11T00:36:57.301Z
 
 Users: 1281
 
@@ -16,10 +16,10 @@ Users: 1281
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan |  |  | Cuba | 5976 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 5721 |
 | 10 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | dofleini software | ucicarlos | Havana, Cuba | 5263 |
-| 11 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez |  |  | Havaba/Cuba | 4685 |
-| 12 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4316 |
-| 13 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 4061 |
-| 14 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez |  |  | Havana, Cuba | 3832 |
+| 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez |  |  | Havana, Cuba | 4805 |
+| 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez |  |  | Havaba/Cuba | 4685 |
+| 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4316 |
+| 14 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas |  |  | Cuba | 4061 |
 | 15 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | UCI |  | Cuba | 3735 |
 | 16 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3325 |
 | 17 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo |  |  | Cuba/Matanzas  | 3316 |

@@ -1,8 +1,8 @@
 # Followers - Jamaica
 
-Generated: 2026-10-10T23:09:39.765Z
+Generated: 2026-10-11T00:59:43.221Z
 
-Users: 1275
+Users: 1274
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,13 +12,13 @@ Users: 1275
 | 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris |  |  | Jamaica | 300 |
 | 5 | [m-oniqu3](https://github.com/m-oniqu3) | monique |  |  | Jamaica | 223 |
 | 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams |  |  | St. Ann, Jamaica | 212 |
-| 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Queen's University | jakekaupp | Kingston, ON | 140 |
+| 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Queen's University | jakekaupp | Kingston, ON | 138 |
 | 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt |  | ylynfatt | Jamaica | 136 |
 | 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | TechIsHiring | Chad_R_Stewart | Kingston, Jamaica | 134 |
 | 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | @CorticoAI |  | Kingston, New York | 123 |
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | L1NNA Lab, Queen's University |  | Kingston | 118 |
-| 12 | [justmat](https://github.com/justmat) | mat |  |  | Kingston, NY | 109 |
-| 13 | [juliemturner](https://github.com/juliemturner) | Julie Turner | Sympraxis Consulting |  | East Kingston, NH | 108 |
+| 12 | [juliemturner](https://github.com/juliemturner) | Julie Turner | Sympraxis Consulting |  | East Kingston, NH | 109 |
+| 13 | [justmat](https://github.com/justmat) | mat |  |  | Kingston, NY | 109 |
 | 14 | [ColauttiLab](https://github.com/ColauttiLab) | Colautti Lab | Colautti Lab, Queen's University, Canada | ColauttiLab | Kingston, ON | 106 |
 | 15 | [mayukh4](https://github.com/mayukh4) | Mayukh Bagchi | Mayukh Bagchi |  | Kingston, Ontario | 106 |
 | 16 | [olusiekwin](https://github.com/olusiekwin) | Gramm | Gramm's Foundation | _olusiekwin | kingston, JM | 106 |

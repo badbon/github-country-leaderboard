@@ -1,6 +1,6 @@
 # Public Contributions - Aruba
 
-Generated: 2026-10-10T22:31:22.811Z
+Generated: 2026-10-11T00:18:55.719Z
 
 Users: 38
 
@@ -12,8 +12,8 @@ Users: 38
 | 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 126 |
 | 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 110 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
-| 7 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 54 |
-| 8 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 50 |
+| 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 50 |
+| 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 44 |
 | 9 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 30 |
 | 10 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 28 |
 | 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee |  |  | Aruba | 19 |

@@ -1,6 +1,6 @@
 # Public Contributions - Hungary
 
-Generated: 2026-10-10T23:05:29.269Z
+Generated: 2026-10-11T00:57:09.081Z
 
 Users: 11192
 
@@ -24,5 +24,5 @@ Users: 11192
 | 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | @pohi99999 | pohanka_peter | Hungary | 4153 |
 | 17 | [Axwabo](https://github.com/Axwabo) | Axwabo |  |  | Hungary | 4036 |
 | 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | @Lombiq | zlehoczky | Budapest, Hungary | 3768 |
-| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3687 |
-| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga |  |  | Budapest, HU | 3662 |
+| 19 | [bugadani](https://github.com/bugadani) | Dániel Buga |  |  | Budapest, HU | 3662 |
+| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | @axoflow |  | Budapest, Hungary | 3512 |

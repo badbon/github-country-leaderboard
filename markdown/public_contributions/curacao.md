@@ -1,6 +1,6 @@
 # Public Contributions - Curaçao
 
-Generated: 2026-10-10T22:49:09.836Z
+Generated: 2026-10-11T00:37:01.519Z
 
 Users: 53
 
@@ -9,11 +9,11 @@ Users: 53
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3294 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 488 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 467 |
-| 4 | [JObersi10](https://github.com/JObersi10) |  | @Hack-Club-Curacao  |  | Willemstad, Curaçao | 426 |
+| 4 | [JObersi10](https://github.com/JObersi10) |  | @Hack-Club-Curacao  |  | Willemstad, Curaçao | 427 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 130 |
-| 7 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 63 |
-| 8 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 63 |
+| 7 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria |  |  | Curaçao | 68 |
+| 8 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 63 |
 | 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Artificial Intelligence Systems | angelrgonzalezg | Willemstad, Curacao | 45 |
 | 10 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
 | 11 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |

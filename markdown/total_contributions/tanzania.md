@@ -1,6 +1,6 @@
 # Total Contributions - Tanzania
 
-Generated: 2026-10-10T22:14:52.421Z
+Generated: 2026-10-11T00:01:26.073Z
 
 Users: 2041
 
@@ -20,9 +20,9 @@ Users: 2041
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 8023 |
 | 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | SainCraft Technologies |  | Arusha, Tanzania | 7939 |
 | 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 7797 |
-| 15 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
-| 16 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
-| 17 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
-| 18 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 6717 |
-| 19 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila |  |  | Dar es Salaam, Tanzania | 6694 |
-| 20 | [ruslanmasinjila](https://github.com/ruslanmasinjila) | Ruslan Masinjila | Tanzania |  | Tanzania | 6537 |
+| 15 | [Bulalu](https://github.com/Bulalu) |  |  | elisha_bulalu | Dar-es-Salaam,Tanzania | 7623 |
+| 16 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | ThisUncle Technologies |  | Dodoma, Tanzania | 7534 |
+| 17 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | Zepson Technologies |  | TANZANIA | 7498 |
+| 18 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Tarxemo Software Company  |  | Dodoma-Tanzania | 7408 |
+| 19 | [cygon23](https://github.com/cygon23) | cygon |  |  | Tanzania | 6717 |
+| 20 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila |  |  | Dar es Salaam, Tanzania | 6694 |

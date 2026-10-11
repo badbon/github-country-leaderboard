@@ -1,12 +1,12 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-10T22:58:10.634Z
+Generated: 2026-10-11T00:46:27.229Z
 
 Users: 325
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 3002 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 2999 |
 | 2 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1438 |
 | 3 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 1404 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1304 |

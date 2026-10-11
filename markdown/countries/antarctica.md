@@ -47,10 +47,10 @@ Indexed users: 461
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,299 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,165 |
-| 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,130 |
+| 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,125 |
 | 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 771 |
 | 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
-| 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 654 |
+| 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 664 |
 | 15 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 605 |
 | 16 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 529 |
 | 17 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-10T22:27:49.480Z
+Generated: 2026-10-11T00:18:42.927Z

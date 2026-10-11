@@ -24,14 +24,14 @@ Indexed users: 5,626
 | 10 | [figlesias221](https://github.com/figlesias221) | Federico Iglesias | Montevideo, Uruguay | 9,337 |
 | 11 | [JuanFKurucz](https://github.com/JuanFKurucz) | Francisco Kurucz | Uruguay | 9,097 |
 | 12 | [fausanchez](https://github.com/fausanchez) | Fausto Sanchez | Uruguay | 8,580 |
-| 13 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
-| 14 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
-| 15 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
-| 16 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
-| 17 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
-| 18 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
-| 19 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
-| 20 | [gfolga](https://github.com/gfolga) | Gustavo Folga | Montevideo, Uruguay | 6,632 |
+| 13 | [EugeniaGramajo](https://github.com/EugeniaGramajo) | Eugenia Gramajo | Uruguay | 8,420 |
+| 14 | [emiliano-go](https://github.com/emiliano-go) | Emiliano G.O. | Montevideo, Uruguay | 8,276 |
+| 15 | [pedrosgmagalhaes](https://github.com/pedrosgmagalhaes) | Pedro Magalhaes | Uruguay | 8,205 |
+| 16 | [barbatdev](https://github.com/barbatdev) | Juan Barbat | Uruguay | 7,968 |
+| 17 | [Tombar](https://github.com/Tombar) | Martin Loy | Montevideo, Uruguay | 7,600 |
+| 18 | [hernandezsanti](https://github.com/hernandezsanti) | Santiago Hernández | Montevideo, Uruguay | 7,198 |
+| 19 | [damian-buho](https://github.com/damian-buho) | Damián Búho | Uruguay | 6,976 |
+| 20 | [machester4](https://github.com/machester4) | Michael Pintos | Uruguay | 6,870 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,626
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-10T22:18:36.854Z
+Generated: 2026-10-11T00:08:11.783Z

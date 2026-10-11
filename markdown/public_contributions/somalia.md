@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-10T22:09:19.468Z
+Generated: 2026-10-10T23:56:09.516Z
 
 Users: 865
 
@@ -11,8 +11,8 @@ Users: 865
 | 3 | [abdulsalamhassan](https://github.com/abdulsalamhassan) | Abdulsalam H. Shiikhow | SIMAD University |  | Somalia, Mogadishu | 1558 |
 | 4 | [TheAnfac](https://github.com/TheAnfac) | Anfac Abdullahi |  |  | Somalia-Mogadishu | 1074 |
 | 5 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 954 |
-| 6 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 929 |
-| 7 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 924 |
+| 6 | [sadaqhassan](https://github.com/sadaqhassan) | Sadak Hassan Ahmed |  |  | mogadishu-somalia | 930 |
+| 7 | [mohameddahir57](https://github.com/mohameddahir57) | Mohamed Dahir Osman |  |  | Somalia,Mogadishu | 929 |
 | 8 | [Maxamed459](https://github.com/Maxamed459) | Maxamed Mahdi |  |  | Somalia | 877 |
 | 9 | [omartood](https://github.com/omartood) | Omar Tood | Instructor & Researcher At @goobolabs | omartoodAIR | Somalia | 776 |
 | 10 | [ibrahimmoalim](https://github.com/ibrahimmoalim) | Ibrahim |  |  | Garowe, Somalia | 759 |

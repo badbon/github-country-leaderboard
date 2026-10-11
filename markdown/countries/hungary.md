@@ -55,8 +55,8 @@ Indexed users: 11,192
 | 16 | [pohi99999](https://github.com/pohi99999) | Pohánka József Péter | Hungary | 4,153 |
 | 17 | [Axwabo](https://github.com/Axwabo) | Axwabo | Hungary | 4,036 |
 | 18 | [Piedone](https://github.com/Piedone) | Zoltán Lehóczky | Budapest, Hungary | 3,768 |
-| 19 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,687 |
-| 20 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
+| 19 | [bugadani](https://github.com/bugadani) | Dániel Buga | Budapest, HU | 3,662 |
+| 20 | [csatib02](https://github.com/csatib02) | Bence Csati | Budapest, Hungary | 3,512 |
 
 ## Followers
 
@@ -81,6 +81,6 @@ Indexed users: 11,192
 | 17 | [johntakesnote](https://github.com/johntakesnote) | John Astern | Budapest, Hungary | 670 |
 | 18 | [Kapitany777](https://github.com/Kapitany777) | Viktor Török | Hungary | 601 |
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
-| 20 | [Aylur](https://github.com/Aylur) |  | Hungary | 573 |
+| 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter | Hungary | 572 |
 
-Generated: 2026-10-10T23:05:29.269Z
+Generated: 2026-10-11T00:57:09.081Z

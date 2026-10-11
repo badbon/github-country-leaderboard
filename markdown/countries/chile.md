@@ -1,6 +1,6 @@
 # Chile
 
-Indexed users: 19,393
+Indexed users: 19,392
 
 | Leaderboard | Link |
 |---|---|
@@ -49,14 +49,14 @@ Indexed users: 19,393
 | 10 | [underpostnet](https://github.com/underpostnet) | underpost | Chile | 8,297 |
 | 11 | [lnds](https://github.com/lnds) | Eduardo Díaz | Santiago, Chile | 7,712 |
 | 12 | [ignaciocorball](https://github.com/ignaciocorball) | Ignacio Corball | Chile | 7,678 |
-| 13 | [VforVitorio](https://github.com/VforVitorio) | Victor | Santiago de Compostela · Hybrid in A Coruña | 6,386 |
-| 14 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 5,769 |
-| 15 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Chile | 5,525 |
-| 16 | [madkoding](https://github.com/madkoding) | madKoding | Chile | 5,507 |
-| 17 | [nmorabowen](https://github.com/nmorabowen) | Nicolas Mora Bowen | Chile | 4,980 |
-| 18 | [jsgrrchg](https://github.com/jsgrrchg) | José Gurruchaga | Chile | 4,906 |
-| 19 | [richonguzman](https://github.com/richonguzman) | Ricardo Guzman | Viña del Mar, Chile | 4,899 |
-| 20 | [yorsh21](https://github.com/yorsh21) | Jorge Villagrán | Santiago, Chile | 4,372 |
+| 13 | [JackStar6677-1](https://github.com/JackStar6677-1) | JackStar | Chile. Santiago, Padre Hurtado | 6,769 |
+| 14 | [VforVitorio](https://github.com/VforVitorio) | Victor | Santiago de Compostela · Hybrid in A Coruña | 6,386 |
+| 15 | [NachoOFC](https://github.com/NachoOFC) | Nacho | Puerto Montt, Chile | 5,769 |
+| 16 | [cesargrowth11](https://github.com/cesargrowth11) | Julio Reyes | Chile | 5,525 |
+| 17 | [madkoding](https://github.com/madkoding) | madKoding | Chile | 5,507 |
+| 18 | [nmorabowen](https://github.com/nmorabowen) | Nicolas Mora Bowen | Chile | 4,980 |
+| 19 | [jsgrrchg](https://github.com/jsgrrchg) | José Gurruchaga | Chile | 4,906 |
+| 20 | [richonguzman](https://github.com/richonguzman) | Ricardo Guzman | Viña del Mar, Chile | 4,899 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 19,393
 | 19 | [clsource](https://github.com/clsource) | Camilo | BEAM, Chile | 421 |
 | 20 | [Dieg0Code](https://github.com/Dieg0Code) | Diego | Chile | 420 |
 
-Generated: 2026-10-10T22:46:58.642Z
+Generated: 2026-10-11T00:35:07.432Z

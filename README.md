@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Cuba](markdown/countries/cuba.md) | 1,281 | [Public](markdown/public_contributions/cuba.md) | [Total](markdown/total_contributions/cuba.md) | [Followers](markdown/followers/cuba.md) |
-| [United States Virgin Islands](markdown/countries/united_states_virgin_islands.md) | 4 | [Public](markdown/public_contributions/united_states_virgin_islands.md) | [Total](markdown/total_contributions/united_states_virgin_islands.md) | [Followers](markdown/followers/united_states_virgin_islands.md) |
-| [Martinique](markdown/countries/martinique.md) | 75 | [Public](markdown/public_contributions/martinique.md) | [Total](markdown/total_contributions/martinique.md) | [Followers](markdown/followers/martinique.md) |
-| [Lithuania](markdown/countries/lithuania.md) | 5,396 | [Public](markdown/public_contributions/lithuania.md) | [Total](markdown/total_contributions/lithuania.md) | [Followers](markdown/followers/lithuania.md) |
-| [Thailand](markdown/countries/thailand.md) | 15,024 | [Public](markdown/public_contributions/thailand.md) | [Total](markdown/total_contributions/thailand.md) | [Followers](markdown/followers/thailand.md) |
+| [Israel](markdown/countries/israel.md) | 12,438 | [Public](markdown/public_contributions/israel.md) | [Total](markdown/total_contributions/israel.md) | [Followers](markdown/followers/israel.md) |
+| [Cyprus](markdown/countries/cyprus.md) | 2,738 | [Public](markdown/public_contributions/cyprus.md) | [Total](markdown/total_contributions/cyprus.md) | [Followers](markdown/followers/cyprus.md) |
+| [Romania](markdown/countries/romania.md) | 14,985 | [Public](markdown/public_contributions/romania.md) | [Total](markdown/total_contributions/romania.md) | [Followers](markdown/followers/romania.md) |
+| [Azerbaijan](markdown/countries/azerbaijan.md) | 5,085 | [Public](markdown/public_contributions/azerbaijan.md) | [Total](markdown/total_contributions/azerbaijan.md) | [Followers](markdown/followers/azerbaijan.md) |
+| [Kyrgyzstan](markdown/countries/kyrgyzstan.md) | 2,454 | [Public](markdown/public_contributions/kyrgyzstan.md) | [Total](markdown/total_contributions/kyrgyzstan.md) | [Followers](markdown/followers/kyrgyzstan.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-10T23:52:29.447Z
+Generated: 2026-10-11T01:02:33.872Z
