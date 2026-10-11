@@ -12595,8 +12595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1421,
-    "publicContributions": 1018,
+    "privateContributions": 3229,
+    "publicContributions": 845,
     "createdAt": "2025-10-21T01:53:31Z"
   },
   {
@@ -12606,9 +12606,9 @@
     "location": "Seoul, Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1010,
-    "publicContributions": 1426,
+    "followers": 8,
+    "privateContributions": 0,
+    "publicContributions": 1498,
     "createdAt": "2025-09-15T09:20:17Z"
   },
   {
@@ -12620,7 +12620,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 1,
     "createdAt": "2025-01-16T05:12:15Z"
   },
   {
@@ -12638,13 +12638,13 @@
   {
     "login": "seunghuncode-prog",
     "name": "Seung Hun Ji",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/237391007?s=72&u=a8e619a1ff809bb490197a9d83d3a37136f21571&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/237391007?s=72&u=7dfe717eff90a6c2f07ad3716ff87f41b050aa17&v=4",
     "location": "Seoul",
     "company": "@Kwangwoon UNIV",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 67,
     "createdAt": "2025-10-11T07:29:23Z"
   },
   {
@@ -12654,9 +12654,9 @@
     "location": "Seoul, Korea",
     "company": "yonsei univ",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 294,
-    "publicContributions": 5824,
+    "followers": 5,
+    "privateContributions": 461,
+    "publicContributions": 7240,
     "createdAt": "2025-03-27T06:40:59Z"
   },
   {
@@ -12666,9 +12666,9 @@
     "location": "Seoul, Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 175,
-    "publicContributions": 391,
+    "followers": 8,
+    "privateContributions": 88,
+    "publicContributions": 434,
     "createdAt": "2025-03-12T10:44:03Z"
   },
   {
@@ -12692,7 +12692,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 35,
     "createdAt": "2025-03-24T11:19:57Z"
   },
   {
@@ -12702,9 +12702,9 @@
     "location": "Jamsil, Seoul",
     "company": "NDA",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 15,
     "createdAt": "2025-06-25T11:22:56Z"
   },
   {
@@ -12715,21 +12715,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 314,
-    "publicContributions": 1456,
+    "privateContributions": 298,
+    "publicContributions": 1391,
     "createdAt": "2025-08-04T02:40:13Z"
-  },
-  {
-    "login": "Rosy-Jihye-Noh",
-    "name": "Jihye Noh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209993639?s=72&u=d1c0e416d7c6bbbe7510f5bc5cd220c40c9c2f86&v=4",
-    "location": "Seoul",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 107,
-    "createdAt": "2025-05-02T05:13:31Z"
   },
   {
     "login": "ji-park9636",
@@ -12739,8 +12727,8 @@
     "company": "SAIGE",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 607,
-    "publicContributions": 115,
+    "privateContributions": 932,
+    "publicContributions": 102,
     "createdAt": "2025-05-30T03:59:13Z"
   },
   {
@@ -12776,7 +12764,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 23,
     "createdAt": "2025-07-20T00:28:44Z"
   },
   {
@@ -12788,7 +12776,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-10-01T13:56:44Z"
   },
   {
@@ -12798,15 +12786,15 @@
     "location": "Seoul",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 868,
+    "publicContributions": 575,
     "createdAt": "2025-08-04T02:33:01Z"
   },
   {
     "login": "oneiric-hammer",
-    "name": "Liam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/202697991?s=72&u=0f02c3aeffd57ce3f1a39dc74ad28b2eec2a7612&v=4",
+    "name": "Hammer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/202697991?s=72&u=94abfb0be052e86599321961aa1ba13918b86f96&v=4",
     "location": "Seoul",
     "company": "Korean Ministary of Foreign Affairs",
     "twitterUsername": "",
@@ -12824,7 +12812,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 575,
+    "publicContributions": 478,
     "createdAt": "2025-08-31T07:19:04Z"
   },
   {
