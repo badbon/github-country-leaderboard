@@ -1,6 +1,6 @@
 # Ecuador
 
-Indexed users: 4,900
+Indexed users: 4,899
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 4,900
 | 13 | [devrchancay](https://github.com/devrchancay) | Ramón Chancay Ortega  | Ecuador, Guayaquil | 6,275 |
 | 14 | [raulidavid](https://github.com/raulidavid) | Raúl Flores | Ecuador | 6,081 |
 | 15 | [Johrespi](https://github.com/Johrespi) | Johann Alejandro Ramírez Espinoza | Guayaquil, Ecuador | 6,048 |
-| 16 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
-| 17 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
-| 18 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
-| 19 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
-| 20 | [jorgesolerrr](https://github.com/jorgesolerrr) | Jorge Soler | Guayaquil, Ecuador | 4,983 |
+| 16 | [shaskola](https://github.com/shaskola) | Fernando Ruiz | Ecuador | 5,843 |
+| 17 | [astandre](https://github.com/astandre) | André Herrera | Loja, Ecuador | 5,601 |
+| 18 | [somatechlat](https://github.com/somatechlat) | SomaTech - Bringin Artificiall Intelligence closer to Humans  | Quito | 5,138 |
+| 19 | [AndresGnu](https://github.com/AndresGnu) | Andrés Navarrete | Quito, Ecuador | 5,051 |
+| 20 | [chey3002](https://github.com/chey3002) | Carlos Valladarez | Ecuador | 5,036 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,900
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-11T09:11:33.461Z
+Generated: 2026-10-11T10:55:33.347Z

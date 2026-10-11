@@ -13,17 +13,17 @@ Indexed users: 155
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,241 |
-| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 9,959 |
+| 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,031 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 6,175 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,542 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,435 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
-| 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 1,887 |
+| 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 1,888 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,848 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,731 |
 | 10 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,618 |
 | 11 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,617 |
-| 12 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,569 |
+| 12 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,572 |
 | 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,557 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
 | 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,224 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-11T09:26:32.220Z
+Generated: 2026-10-11T11:10:25.471Z

@@ -1,8 +1,8 @@
 # Followers - Croatia
 
-Generated: 2026-10-11T09:04:59.273Z
+Generated: 2026-10-11T10:51:42.157Z
 
-Users: 5439
+Users: 5438
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

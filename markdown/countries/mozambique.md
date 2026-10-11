@@ -1,6 +1,6 @@
 # Mozambique
 
-Indexed users: 1,174
+Indexed users: 1,176
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,174
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-11T09:45:41.601Z
+Generated: 2026-10-11T10:59:40.211Z

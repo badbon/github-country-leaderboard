@@ -1,6 +1,6 @@
 # Iran
 
-Indexed users: 26,877
+Indexed users: 26,874
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 26,877
 | 19 | [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh) | Abolfazl Shadrouh | Guilan, Iran | 1,388 |
 | 20 | [FarzaneF](https://github.com/FarzaneF) | Farzane Faizi | Shiraz,Iran | 1,352 |
 
-Generated: 2026-10-11T09:25:22.944Z
+Generated: 2026-10-11T11:09:41.960Z

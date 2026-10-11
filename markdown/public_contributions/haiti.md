@@ -1,6 +1,6 @@
 # Public Contributions - Haiti
 
-Generated: 2026-10-11T09:22:39.413Z
+Generated: 2026-10-11T11:06:25.039Z
 
 Users: 339
 
@@ -18,11 +18,11 @@ Users: 339
 | 10 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  |  |  | Haiti | 241 |
 | 11 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | ventzdev |  | Haiti | 215 |
 | 12 | [Joffra](https://github.com/Joffra) | Jonel Francois |  |  | Haiti | 209 |
-| 13 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 198 |
-| 14 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Reves & Voyages |  | Port-Au-Prince | 194 |
+| 13 | [CalvertWanguy](https://github.com/CalvertWanguy) | Wanguy Calvert | Reves & Voyages |  | Port-Au-Prince | 199 |
+| 14 | [antifugazis](https://github.com/antifugazis) | Jyvor Slaadel Mortimer |  | antifugazis | Port-au-Prince | 198 |
 | 15 | [didierganthier](https://github.com/didierganthier) | Didier Peran Ganthier | @reactjs @microverseinc  | didierganthier_ | Port-au-prince, Haïti | 187 |
 | 16 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 166 |
 | 17 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Parkour studio |  | Port-au-prince, Haiti | 166 |
 | 18 | [Rocky1324](https://github.com/Rocky1324) | Rock Khyshnert |  |  | Haiti | 166 |
 | 19 | [clarensromeus](https://github.com/clarensromeus) | Romeus Clarens | Techy trans | clarensromeus | Port-au-prince/Petion-ville | 163 |
-| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | BWT |  | Haiti | 151 |
+| 20 | [blessedwingtech](https://github.com/blessedwingtech) | Blessed Wing Technology | BWT |  | Haiti | 155 |

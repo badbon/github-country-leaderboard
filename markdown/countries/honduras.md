@@ -1,6 +1,6 @@
 # Honduras
 
-Indexed users: 1,264
+Indexed users: 1,263
 
 | Leaderboard | Link |
 |---|---|
@@ -15,11 +15,11 @@ Indexed users: 1,264
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 13,555 |
 | 2 | [vfiii](https://github.com/vfiii) | Valentín Flores | Honduras | 11,748 |
 | 3 | [ElyDeveloper](https://github.com/ElyDeveloper) | Eliezer Rivera | Tegucigalpa, Honduras | 11,495 |
-| 4 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 8,223 |
-| 5 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,116 |
-| 6 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 7,880 |
-| 7 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 6,940 |
-| 8 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 6,667 |
+| 4 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 9,499 |
+| 5 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 8,223 |
+| 6 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,116 |
+| 7 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 7,880 |
+| 8 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 6,940 |
 | 9 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 6,520 |
 | 10 | [ismarcotulio](https://github.com/ismarcotulio) | Marco Tulio Ruiz | Honduras | 6,514 |
 | 11 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 5,401 |
@@ -51,19 +51,19 @@ Indexed users: 1,264
 | 12 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 975 |
 | 13 | [ingricardotoro](https://github.com/ingricardotoro) | MARVIN RICARDO TORO CRUZ | Tegucigalpa | 886 |
 | 14 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 877 |
-| 15 | [JoseAFlores777](https://github.com/JoseAFlores777) | José Izaguirre | Tegucigalpa, Honduras | 830 |
-| 16 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
-| 17 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 792 |
-| 18 | [esdrasclth](https://github.com/esdrasclth) | Esdras Clother | San Pedro Sula, Honduras | 781 |
-| 19 | [Mar10HT](https://github.com/Mar10HT) | Mario Herrera | Honduras | 776 |
-| 20 | [AnthonyAndino](https://github.com/AnthonyAndino) | Anthony Andino | Honduras | 766 |
+| 15 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 845 |
+| 16 | [JoseAFlores777](https://github.com/JoseAFlores777) | José Izaguirre | Tegucigalpa, Honduras | 830 |
+| 17 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e | Marcala, Honduras | 828 |
+| 18 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 792 |
+| 19 | [esdrasclth](https://github.com/esdrasclth) | Esdras Clother | San Pedro Sula, Honduras | 781 |
+| 20 | [Mar10HT](https://github.com/Mar10HT) | Mario Herrera | Honduras | 776 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Siumauricio](https://github.com/Siumauricio) | Mauricio Siu | Honduras, San Pedro Sula | 608 |
-| 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 518 |
+| 2 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | Roatan, Honduras | 517 |
 | 3 | [BryanAnariba](https://github.com/BryanAnariba) | Bryan Anariba | Honduras | 386 |
 | 4 | [Turupawn](https://github.com/Turupawn) | Ahmed Castro | San Pedro Sula, Honduras | 322 |
 | 5 | [BANARIBA](https://github.com/BANARIBA) | ARIEL ANARIBA | Honduras | 307 |
@@ -83,4 +83,4 @@ Indexed users: 1,264
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-11T09:23:13.648Z
+Generated: 2026-10-11T11:08:01.147Z

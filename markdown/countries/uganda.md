@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,876
+Indexed users: 3,875
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 3,876
 | 17 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
 | 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
 | 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
-| 20 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 1,765 |
+| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | Kampala Uganda  | 1,864 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,876
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-11T08:41:32.002Z
+Generated: 2026-10-11T10:25:10.167Z

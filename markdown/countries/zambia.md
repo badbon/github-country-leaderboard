@@ -14,9 +14,9 @@ Indexed users: 1,342
 |---:|---|---|---|---:|
 | 1 | [DamianoSilverhand](https://github.com/DamianoSilverhand) | Damiano Chintala | Lusaka, Zambia | 12,068 |
 | 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 10,291 |
-| 3 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | Lusaka, Zambia | 8,786 |
-| 4 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,188 |
-| 5 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 6,529 |
+| 3 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 8,828 |
+| 4 | [Mwalek](https://github.com/Mwalek) | Mwale Kalenga | Lusaka, Zambia | 8,786 |
+| 5 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 7,188 |
 | 6 | [senorMk](https://github.com/senorMk) | Penjani M | Zambia | 6,485 |
 | 7 | [MwambaKaenga](https://github.com/MwambaKaenga) | Mwamba Kaenga | Lusaka, Zambia | 6,302 |
 | 8 | [S4INT25](https://github.com/S4INT25) | luckson | lusaka zambia  | 5,229 |
@@ -40,7 +40,7 @@ Indexed users: 1,342
 | 1 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia  | 9,789 |
 | 2 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 6,796 |
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,416 |
-| 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,672 |
+| 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,753 |
 | 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,670 |
 | 6 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
 | 7 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,054 |
@@ -83,4 +83,4 @@ Indexed users: 1,342
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-11T08:45:21.300Z
+Generated: 2026-10-11T10:29:21.555Z

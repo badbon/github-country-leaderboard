@@ -23,15 +23,15 @@ Indexed users: 2,381
 | 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,010 |
 | 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 5,699 |
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 4,921 |
-| 12 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 4,728 |
-| 13 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,698 |
-| 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,614 |
-| 15 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,590 |
-| 16 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,586 |
-| 17 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,474 |
-| 18 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 4,446 |
-| 19 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | El Salvador | 4,261 |
-| 20 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera | El Salvador | 4,081 |
+| 12 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | El Salvador | 4,888 |
+| 13 | [loviver](https://github.com/loviver) | Oliver Calderón | El Salvador, San Salvador | 4,728 |
+| 14 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | San Salvador, El Salvador | 4,698 |
+| 15 | [cativo23](https://github.com/cativo23) | Carlos Cativo | San Salvador, El Salvador | 4,614 |
+| 16 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike | El Zonte, El Salvador | 4,590 |
+| 17 | [lucario028](https://github.com/lucario028) | Lucaritas | El Salvador | 4,586 |
+| 18 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | El Salvador | 4,474 |
+| 19 | [striker25](https://github.com/striker25) | Fernando Alvarado | El Salvador | 4,446 |
+| 20 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | El Salvador | 4,261 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,381
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-11T09:12:56.321Z
+Generated: 2026-10-11T10:56:26.544Z

@@ -1,6 +1,6 @@
 # Iraq
 
-Indexed users: 2,249
+Indexed users: 2,248
 
 | Leaderboard | Link |
 |---|---|
@@ -42,7 +42,7 @@ Indexed users: 2,249
 | 3 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 4,990 |
 | 4 | [pageton](https://github.com/pageton) | Sadiq | Basra, Iraq | 2,779 |
 | 5 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,231 |
-| 6 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,031 |
+| 6 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,157 |
 | 7 | [tatsumoto-ren](https://github.com/tatsumoto-ren) | Ren Tatsumoto | Baghdad | 2,000 |
 | 8 | [mahmoodbashar08](https://github.com/mahmoodbashar08) | mahmood | iraq | 1,317 |
 | 9 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 961 |
@@ -83,4 +83,4 @@ Indexed users: 2,249
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-11T09:25:59.221Z
+Generated: 2026-10-11T11:09:44.215Z

@@ -31,7 +31,7 @@ Indexed users: 729
 | 17 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,638 |
 | 18 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,263 |
 | 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,226 |
-| 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,171 |
+| 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,183 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
 
-Generated: 2026-10-11T08:54:07.468Z
+Generated: 2026-10-11T10:35:50.516Z

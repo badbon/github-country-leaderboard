@@ -1,6 +1,6 @@
 # Bolivia
 
-Indexed users: 1,786
+Indexed users: 1,785
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 1,786
 | 8 | [alxmcr](https://github.com/alxmcr) | Alejandro M. Coca | Bolivia | 5,264 |
 | 9 | [cesarszv](https://github.com/cesarszv) | Sebastian Zambrana | Santa Cruz, Bolivia | 4,929 |
 | 10 | [gitchaell](https://github.com/gitchaell) | Michaell Alavedra | Santa Cruz de la Sierra, Bolivia | 4,922 |
-| 11 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
-| 12 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia | 3,751 |
-| 13 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 3,694 |
-| 14 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 3,553 |
-| 15 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,455 |
-| 16 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 3,406 |
-| 17 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
-| 18 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,029 |
-| 19 | [ivansanguezax](https://github.com/ivansanguezax) | Ivan Sangueza Alarcon | Bolivia | 3,028 |
-| 20 | [villcabo](https://github.com/villcabo) | Bismarck Villca | Bolivia | 3,027 |
+| 11 | [nahimdhaney](https://github.com/nahimdhaney) | Nahim Terrazas Parada | Bolivia | 4,524 |
+| 12 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo | Bolivia | 4,251 |
+| 13 | [Mats2208](https://github.com/Mats2208) | Mateo Andres Soto Gareca | Santa Cruz, Bolivia | 3,751 |
+| 14 | [ChristianConchari](https://github.com/ChristianConchari) | Chris Conchari | Bolivia | 3,694 |
+| 15 | [stanlee321](https://github.com/stanlee321) | Stanley Salvatierra | Bolivia | 3,553 |
+| 16 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | Santa Cruz de la SIerra, Bolivia | 3,455 |
+| 17 | [jpfernandezl](https://github.com/jpfernandezl) | Juan Pablo Fernandez | Bolivia | 3,406 |
+| 18 | [GonzaloPinell](https://github.com/GonzaloPinell) | Gonzalo Pinell | La Paz, Bolivia | 3,035 |
+| 19 | [Aliaga23](https://github.com/Aliaga23) | Arturo Aliaga | Santa Cruz, Bolivia | 3,029 |
+| 20 | [ivansanguezax](https://github.com/ivansanguezax) | Ivan Sangueza Alarcon | Bolivia | 3,028 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,786
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 
-Generated: 2026-10-11T08:56:32.365Z
+Generated: 2026-10-11T10:41:26.160Z

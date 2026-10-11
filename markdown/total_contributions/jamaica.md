@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-11T09:26:46.116Z
+Generated: 2026-10-11T11:11:24.764Z
 
 Users: 1275
 
@@ -15,14 +15,14 @@ Users: 1275
 | 7 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Quigley Group | JohnPeterAt | Kingston, New York | 7798 |
 | 8 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | @Konnexx-Software-Developers  |  | Jamaica | 6819 |
 | 9 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5295 |
-| 10 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
-| 11 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
-| 12 | [capndave](https://github.com/capndave) | David Thompson | True Prodigy |  | Kingston, NY | 3896 |
-| 13 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 3821 |
-| 14 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 3794 |
-| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
-| 16 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
-| 17 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 3604 |
-| 18 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
-| 19 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |
-| 20 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 3401 |
+| 10 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 5114 |
+| 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
+| 12 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
+| 13 | [capndave](https://github.com/capndave) | David Thompson | True Prodigy |  | Kingston, NY | 3896 |
+| 14 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 3821 |
+| 15 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 3794 |
+| 16 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
+| 17 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
+| 18 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 3604 |
+| 19 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
+| 20 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |

@@ -23,15 +23,15 @@ Indexed users: 1,184
 | 9 | [orges](https://github.com/orges) | orges | Albania | 6,225 |
 | 10 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
 | 11 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
-| 12 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
-| 13 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
-| 14 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
-| 15 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
-| 16 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
-| 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
-| 18 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
-| 19 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,181 |
-| 20 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,048 |
+| 12 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 5,568 |
+| 13 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
+| 14 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
+| 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
+| 16 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
+| 17 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
+| 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
+| 19 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
+| 20 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,181 |
 
 ## Public Contributions
 
@@ -55,8 +55,8 @@ Indexed users: 1,184
 | 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
 | 17 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 636 |
 | 18 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
-| 19 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 597 |
-| 20 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari | Tirana, Albania | 565 |
+| 19 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 600 |
+| 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 597 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-11T08:46:57.844Z
+Generated: 2026-10-11T10:31:52.702Z

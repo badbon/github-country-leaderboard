@@ -1,8 +1,8 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-11T08:41:32.002Z
+Generated: 2026-10-11T10:25:10.167Z
 
-Users: 3876
+Users: 3875
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 3876
 | 17 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 1930 |
 | 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | @ReadBuddy, @airqo-platform | belindamarionk | Kampala, Uganda | 1904 |
 | 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan |  | TibzDankan | Kampala/Uganda | 1891 |
-| 20 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | M2 Digital Technologies Afrique |  | Kampala | 1765 |
+| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | DINDU TECH |  | Kampala Uganda  | 1864 |

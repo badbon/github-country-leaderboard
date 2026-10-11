@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,805
+Indexed users: 1,804
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,805
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
 | 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
 
-Generated: 2026-10-11T09:00:06.301Z
+Generated: 2026-10-11T10:47:15.105Z

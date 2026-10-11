@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-11T09:12:56.321Z
+Generated: 2026-10-11T10:56:26.544Z
 
 Users: 2381
 
@@ -17,12 +17,12 @@ Users: 2381
 | 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6010 |
 | 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 5699 |
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo |  |  | San Salvador, El Salvador | 4921 |
-| 12 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 4728 |
-| 13 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4698 |
-| 14 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4614 |
-| 15 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
-| 16 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4586 |
-| 17 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 4474 |
-| 18 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
-| 19 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |
-| 20 | [jorge-rivera91](https://github.com/jorge-rivera91) | Jorge Rivera |  |  | El Salvador | 4081 |
+| 12 | [eduard-gonzalez](https://github.com/eduard-gonzalez) | Efrain Gonzalez | Savvy Post Marketing |  | El Salvador | 4888 |
+| 13 | [loviver](https://github.com/loviver) | Oliver Calderón |  |  | El Salvador, San Salvador | 4728 |
+| 14 | [aedneth](https://github.com/aedneth) | Eduardo A. Borjas | Korvex | aedneth | San Salvador, El Salvador | 4698 |
+| 15 | [cativo23](https://github.com/cativo23) | Carlos Cativo |  |  | San Salvador, El Salvador | 4614 |
+| 16 | [ThomasFarstrike](https://github.com/ThomasFarstrike) | Thomas Farstrike |  | ThomasFarstrike | El Zonte, El Salvador | 4590 |
+| 17 | [lucario028](https://github.com/lucario028) | Lucaritas | @BluefoxSV |  | El Salvador | 4586 |
+| 18 | [LemonMantis5571](https://github.com/LemonMantis5571) | Leonel Guerrero | Pokémon Company |  | El Salvador | 4474 |
+| 19 | [striker25](https://github.com/striker25) | Fernando Alvarado | @Applaudo |  | El Salvador | 4446 |
+| 20 | [agodin3z](https://github.com/agodin3z) | Andrés Godínez | @suittch  | agodin3z | El Salvador | 4261 |

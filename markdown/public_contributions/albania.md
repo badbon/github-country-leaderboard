@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-11T08:46:57.844Z
+Generated: 2026-10-11T10:31:52.702Z
 
 Users: 1184
 
@@ -24,5 +24,5 @@ Users: 1184
 | 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
 | 17 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 636 |
 | 18 | [Damjanose](https://github.com/Damjanose) | Damjano |  |  | Albania, Tirana | 614 |
-| 19 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 597 |
-| 20 | [ArbriHamzallari](https://github.com/ArbriHamzallari) | Arbri Hamzallari |  |  | Tirana, Albania | 565 |
+| 19 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari |  |  | Tirana, Albania | 600 |
+| 20 | [kristiker](https://github.com/kristiker) | Kristi K |  |  | Albania | 597 |

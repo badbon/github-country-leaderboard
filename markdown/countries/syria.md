@@ -44,19 +44,19 @@ Indexed users: 1,482
 | 5 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,676 |
 | 6 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
 | 7 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,481 |
-| 8 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,180 |
-| 9 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
-| 10 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
-| 11 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,040 |
-| 12 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
-| 13 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,010 |
-| 14 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 991 |
-| 15 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
-| 16 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
-| 17 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH | Syria | 734 |
-| 18 | [AbdulrahmanNahhas](https://github.com/AbdulrahmanNahhas) | Abdulrahman Nahhas | Syria | 686 |
-| 19 | [BaraaLazkani](https://github.com/BaraaLazkani) | Baraa Lazkani | Latakia, Syria | 658 |
-| 20 | [khaldounalhalabi](https://github.com/khaldounalhalabi) | Khaldoun Alhalabi  | Damascus, Syria | 629 |
+| 8 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | Syria | 1,323 |
+| 9 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,180 |
+| 10 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
+| 11 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
+| 12 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,040 |
+| 13 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
+| 14 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,010 |
+| 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 991 |
+| 16 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout | Syria | 918 |
+| 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
+| 18 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
+| 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH | Syria | 734 |
+| 20 | [AbdulrahmanNahhas](https://github.com/AbdulrahmanNahhas) | Abdulrahman Nahhas | Syria | 686 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,482
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 102 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-11T08:33:35.354Z
+Generated: 2026-10-11T10:18:17.163Z

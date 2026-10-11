@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,282
+Indexed users: 1,281
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,282
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-11T09:05:33.136Z
+Generated: 2026-10-11T10:52:13.804Z

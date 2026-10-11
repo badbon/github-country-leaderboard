@@ -12,14 +12,14 @@ Indexed users: 133
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,467 |
-| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,127 |
+| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,483 |
+| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,193 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,673 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,162 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,863 |
 | 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,645 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,835 |
-| 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,740 |
+| 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,752 |
 | 9 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,367 |
 | 10 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,360 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,328 |
@@ -37,7 +37,7 @@ Indexed users: 133
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 710 |
+| 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 712 |
 | 2 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 676 |
 | 3 | [caritechsolutions](https://github.com/caritechsolutions) |  | Barbados | 410 |
 | 4 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 363 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-11T08:54:53.430Z
+Generated: 2026-10-11T10:35:57.420Z
