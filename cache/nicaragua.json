@@ -12224,7 +12224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-11-25T16:06:51Z"
   },
   {
@@ -12271,8 +12271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 39,
-    "publicContributions": 0,
+    "privateContributions": 41,
+    "publicContributions": 8,
     "createdAt": "2017-11-11T05:25:30Z"
   },
   {
@@ -12296,7 +12296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2017-11-06T20:16:09Z"
   },
   {
@@ -12306,9 +12306,9 @@
     "location": "Managua. Nic",
     "company": "",
     "twitterUsername": "starts_off",
-    "followers": 99,
-    "privateContributions": 33,
-    "publicContributions": 13,
+    "followers": 101,
+    "privateContributions": 124,
+    "publicContributions": 12,
     "createdAt": "2017-11-19T21:09:46Z"
   },
   {
@@ -12318,7 +12318,7 @@
     "location": "Universidad Nacional de Ingeniería, Managua",
     "company": "Fundación Uno",
     "twitterUsername": "",
-    "followers": 43,
+    "followers": 42,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-03-10T21:45:30Z"
@@ -12330,7 +12330,7 @@
     "location": "Managua",
     "company": "Fundación Solidaridad Latinoamericana",
     "twitterUsername": "hey_pitu",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2017-07-11T01:00:47Z"
@@ -12342,9 +12342,9 @@
     "location": "Managua, NI",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 303,
-    "publicContributions": 29,
+    "followers": 12,
+    "privateContributions": 103,
+    "publicContributions": 3,
     "createdAt": "2017-05-28T23:08:08Z"
   },
   {
@@ -12367,7 +12367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 365,
+    "privateContributions": 388,
     "publicContributions": 2,
     "createdAt": "2017-09-13T23:04:55Z"
   },
@@ -12379,7 +12379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 502,
+    "privateContributions": 608,
     "publicContributions": 0,
     "createdAt": "2017-08-26T19:47:20Z"
   },
@@ -12403,7 +12403,7 @@
     "company": "Alegra",
     "twitterUsername": "",
     "followers": 43,
-    "privateContributions": 30,
+    "privateContributions": 212,
     "publicContributions": 0,
     "createdAt": "2016-02-15T23:48:04Z"
   },
@@ -12414,7 +12414,7 @@
     "location": "Managua, Nicaragua",
     "company": "@letsdeel ",
     "twitterUsername": "billiramirezdev",
-    "followers": 29,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-22T16:29:05Z"
@@ -12426,9 +12426,9 @@
     "location": "Nicaragua",
     "company": "@bejamas",
     "twitterUsername": "GeraldM_92",
-    "followers": 28,
-    "privateContributions": 338,
-    "publicContributions": 2,
+    "followers": 29,
+    "privateContributions": 349,
+    "publicContributions": 1,
     "createdAt": "2016-09-13T08:37:43Z"
   },
   {
@@ -12438,8 +12438,8 @@
     "location": "Managua, Nicaragua",
     "company": "@nicaraodotagency ",
     "twitterUsername": "calonzolg",
-    "followers": 23,
-    "privateContributions": 455,
+    "followers": 24,
+    "privateContributions": 530,
     "publicContributions": 2,
     "createdAt": "2016-05-15T06:01:14Z"
   },

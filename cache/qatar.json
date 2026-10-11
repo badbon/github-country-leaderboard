@@ -12072,18 +12072,6 @@
     "createdAt": "2013-09-02T17:32:48Z"
   },
   {
-    "login": "shahzebrasool",
-    "name": "Shahzaib Rasool",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5428371?s=72&u=7f625b539c5bc0aadcec0ec22e970e4806471329&v=4",
-    "location": "Qatar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 698,
-    "publicContributions": 0,
-    "createdAt": "2013-09-10T15:18:19Z"
-  },
-  {
     "login": "sirusb",
     "name": "Nadhir",
     "avatarUrl": "https://avatars.githubusercontent.com/u/3537501?s=72&u=0d8590d3b47b21174ddeea585df967361296bbab&v=4",
@@ -12092,7 +12080,7 @@
     "twitterUsername": "",
     "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 16,
     "createdAt": "2013-02-12T01:03:49Z"
   },
   {
@@ -12116,7 +12104,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2013-05-19T17:06:07Z"
   },
   {
@@ -12126,7 +12114,7 @@
     "location": "Doha",
     "company": "Sidra Medical and Research Center",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-02-23T11:45:15Z"
@@ -12138,7 +12126,7 @@
     "location": "Qatar",
     "company": "",
     "twitterUsername": "akhalil_qa",
-    "followers": 109,
+    "followers": 110,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-12-03T04:41:11Z"
@@ -12150,7 +12138,7 @@
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 91,
+    "followers": 101,
     "privateContributions": 4,
     "publicContributions": 108,
     "createdAt": "2012-01-16T15:04:36Z"
@@ -12162,9 +12150,9 @@
     "location": "Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
-    "privateContributions": 235,
-    "publicContributions": 0,
+    "followers": 26,
+    "privateContributions": 386,
+    "publicContributions": 1,
     "createdAt": "2012-08-31T20:03:44Z"
   },
   {
@@ -12186,7 +12174,7 @@
     "location": "Qatar",
     "company": "Qatar Research Computing Institute ",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-05-25T05:56:21Z"
@@ -12198,22 +12186,10 @@
     "location": "qatar",
     "company": "BIMarabia",
     "twitterUsername": "bimarabia",
-    "followers": 5,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 156,
     "createdAt": "2012-08-12T07:18:06Z"
-  },
-  {
-    "login": "mohammed-ibenayad",
-    "name": "Mohammed Iben Ayad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1556842?s=72&u=4b0ba0ff99e7f0ac13395b096361a907d1181ccc&v=4",
-    "location": "QATAR",
-    "company": "qadrin.com",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 5868,
-    "publicContributions": 142,
-    "createdAt": "2012-03-20T14:29:10Z"
   },
   {
     "login": "NazS2",
