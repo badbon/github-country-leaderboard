@@ -12271,20 +12271,20 @@
     "company": "@testdouble",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 453,
+    "privateContributions": 462,
     "publicContributions": 0,
     "createdAt": "2014-07-16T16:43:40Z"
   },
   {
     "login": "QuigProQuo",
     "name": "John Peter Quigley",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6843902?s=72&u=0175c246de138f30d614575d9edcf3410eed8966&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/6843902?s=72&u=7430cb2b51207318e8185d0d6b377e24385fac2e&v=4",
     "location": "Kingston, New York",
     "company": "Quigley Group",
     "twitterUsername": "JohnPeterAt",
-    "followers": 12,
-    "privateContributions": 6544,
-    "publicContributions": 82,
+    "followers": 14,
+    "privateContributions": 7709,
+    "publicContributions": 89,
     "createdAt": "2014-03-03T20:55:41Z"
   },
   {
@@ -12294,9 +12294,9 @@
     "location": "Kingston Upon Thames",
     "company": "AuraQ Limited",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 41,
     "createdAt": "2014-06-26T06:57:09Z"
   },
   {
@@ -12356,7 +12356,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 82,
     "createdAt": "2014-11-03T03:47:47Z"
   },
   {
@@ -12403,7 +12403,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 399,
+    "privateContributions": 463,
     "publicContributions": 3,
     "createdAt": "2014-06-28T04:16:40Z"
   },
@@ -12440,7 +12440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 5,
     "createdAt": "2014-06-04T11:38:40Z"
   },
   {

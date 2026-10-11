@@ -12210,7 +12210,7 @@
     "location": "Chile, Coquimbo.",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-02-08T21:36:56Z"
@@ -12222,7 +12222,7 @@
     "location": "Chile",
     "company": "Work at Home",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 74,
     "createdAt": "2024-03-25T21:54:09Z"
@@ -12246,7 +12246,7 @@
     "location": "Concepción, Chile.",
     "company": "",
     "twitterUsername": "NonoHB",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2024-03-25T20:25:22Z"
@@ -12271,8 +12271,8 @@
     "company": "Lagserv",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 198,
-    "publicContributions": 220,
+    "privateContributions": 151,
+    "publicContributions": 153,
     "createdAt": "2024-03-24T18:12:52Z"
   },
   {
@@ -12282,22 +12282,10 @@
     "location": "Chile",
     "company": "richardaguirre.cloud",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 1,
     "createdAt": "2024-05-14T19:16:01Z"
-  },
-  {
-    "login": "Seggov",
-    "name": "Pedro Segovia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157068737?s=72&v=4",
-    "location": "La Serena, Chile",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 175,
-    "createdAt": "2024-01-18T21:25:11Z"
   },
   {
     "login": "darlopezp",
@@ -12307,8 +12295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 250,
-    "publicContributions": 41,
+    "privateContributions": 397,
+    "publicContributions": 30,
     "createdAt": "2024-05-02T15:26:13Z"
   },
   {
@@ -12320,7 +12308,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 103,
     "createdAt": "2024-01-29T20:33:58Z"
   },
   {
@@ -12330,7 +12318,7 @@
     "location": "Santiago, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-24T16:14:39Z"
@@ -12338,25 +12326,25 @@
   {
     "login": "devturini",
     "name": "Tomás Venturini",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162111533?s=72&u=ad4ba821028ddd4120ba92bbe221da8a2e80e425&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162111533?s=72&u=113415af2c9002f4673ab097646d3b47f94afbac&v=4",
     "location": "Santiago, Chile",
     "company": "Datawalt",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2366,
+    "privateContributions": 2906,
     "publicContributions": 0,
     "createdAt": "2024-03-04T09:28:51Z"
   },
   {
     "login": "sandoxp",
     "name": "Sebastián Sandoval Velásquez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170587961?s=72&u=def8c95ee3e7879fbc87e43db8e56938cf1577b8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/170587961?s=72&u=3d83c26a42df95291be0243b8de39267b7294877&v=4",
     "location": "Valparaíso, Chile",
     "company": "Pontificia Universidad Católica de Valparaíso (PUCV)",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3,
-    "publicContributions": 62,
+    "privateContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2024-05-23T01:19:37Z"
   },
   {
@@ -12368,19 +12356,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 0,
     "createdAt": "2024-06-20T19:01:37Z"
   },
   {
     "login": "smoraleslo",
-    "name": "Sebastián Morales",
+    "name": "Sebastián Morales López",
     "avatarUrl": "https://avatars.githubusercontent.com/u/164548014?s=72&u=26f39810914c48d2888ea2992e0e2dcd472c6754&v=4",
     "location": "Chile",
-    "company": "Bitum SpA",
+    "company": "Buk SpA",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 35,
     "createdAt": "2024-03-22T17:39:48Z"
   },
   {
@@ -12391,8 +12379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 120,
-    "publicContributions": 52,
+    "privateContributions": 206,
+    "publicContributions": 51,
     "createdAt": "2024-05-08T23:33:20Z"
   },
   {
@@ -12404,7 +12392,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 58,
     "createdAt": "2024-05-13T14:46:38Z"
   },
   {
@@ -12426,8 +12414,8 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 33,
+    "followers": 6,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2024-06-19T23:03:43Z"
   },
@@ -12440,7 +12428,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 98,
     "createdAt": "2024-01-29T19:54:10Z"
   },
   {

@@ -12115,7 +12115,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 40,
+    "privateContributions": 23,
     "publicContributions": 55,
     "createdAt": "2019-03-30T12:39:54Z"
   },
@@ -12151,7 +12151,7 @@
     "company": "ACT Solutions",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 51,
+    "privateContributions": 47,
     "publicContributions": 6,
     "createdAt": "2019-02-09T00:02:50Z"
   },
@@ -12166,18 +12166,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-09-22T07:02:35Z"
-  },
-  {
-    "login": "tendai98",
-    "name": "Tendai Bhebhe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58219304?s=72&u=ecb21408b079bad45c2b5cc2fdb1d311dd9eadc6&v=4",
-    "location": "Harare, Zimbabwe",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 38,
-    "createdAt": "2019-11-26T13:04:03Z"
   },
   {
     "login": "GeniusChinez",
@@ -12211,8 +12199,8 @@
     "company": "Easygrab Private Limited",
     "twitterUsername": "taitmarvelous",
     "followers": 3,
-    "privateContributions": 212,
-    "publicContributions": 56,
+    "privateContributions": 224,
+    "publicContributions": 59,
     "createdAt": "2019-06-29T15:32:51Z"
   },
   {
@@ -12234,7 +12222,7 @@
     "location": "zimbabwe",
     "company": "",
     "twitterUsername": "mutare_takunda",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-18T21:16:30Z"
@@ -12271,8 +12259,8 @@
     "company": "Profipath",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1159,
-    "publicContributions": 144,
+    "privateContributions": 1444,
+    "publicContributions": 146,
     "createdAt": "2019-11-03T16:14:02Z"
   },
   {
@@ -12294,9 +12282,9 @@
     "location": "Harare Zimbabwe",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 3150,
-    "publicContributions": 83,
+    "followers": 6,
+    "privateContributions": 3671,
+    "publicContributions": 115,
     "createdAt": "2019-04-22T10:48:25Z"
   },
   {
@@ -12308,7 +12296,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 26,
     "createdAt": "2019-07-31T09:08:30Z"
   },
   {

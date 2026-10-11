@@ -12306,7 +12306,7 @@
     "location": "Kabul Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-12-03T23:17:13Z"
@@ -12332,7 +12332,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 16,
     "createdAt": "2020-11-10T04:10:56Z"
   },
   {
@@ -12408,27 +12408,15 @@
     "createdAt": "2020-07-27T13:18:17Z"
   },
   {
-    "login": "mansooralamyar",
-    "name": "Mansoor Alamyar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62103031?s=72&u=7a35bc2ce4257a142eb9954fa2cbaa261eba0d14&v=4",
-    "location": "Afghanistan, Kabul",
-    "company": "",
-    "twitterUsername": "mansoor_sun",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-12T12:30:18Z"
-  },
-  {
     "login": "Jawed-Poya",
     "name": "Jawed Poya",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73993181?s=72&u=6081f69d9ac6d1f97ed635c7ef371be6153486eb&v=4",
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 963,
-    "publicContributions": 203,
+    "followers": 5,
+    "privateContributions": 1882,
+    "publicContributions": 22,
     "createdAt": "2020-11-05T10:11:55Z"
   },
   {
@@ -12438,9 +12426,9 @@
     "location": "Kabul, Afghanistan",
     "company": "AOGC",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 552,
-    "publicContributions": 93,
+    "followers": 4,
+    "privateContributions": 730,
+    "publicContributions": 91,
     "createdAt": "2020-11-22T05:58:48Z"
   },
   {
@@ -12452,7 +12440,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1217,
+    "publicContributions": 1083,
     "createdAt": "2020-06-25T10:16:47Z"
   },
   {
@@ -12462,7 +12450,7 @@
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "Ghulamali",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2020-02-27T20:04:22Z"
@@ -12474,9 +12462,9 @@
     "location": "Kandhar , Afghanistan",
     "company": "Kamilsoft",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 145,
-    "publicContributions": 26,
+    "followers": 7,
+    "privateContributions": 160,
+    "publicContributions": 29,
     "createdAt": "2020-04-27T23:23:55Z"
   },
   {

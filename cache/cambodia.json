@@ -12247,8 +12247,8 @@
     "company": "Hunesion",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 943,
-    "publicContributions": 106,
+    "privateContributions": 1068,
+    "publicContributions": 38,
     "createdAt": "2022-10-08T10:20:00Z"
   },
   {
@@ -12270,7 +12270,7 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2022-02-13T14:35:39Z"
@@ -12280,23 +12280,23 @@
     "name": "Chuob Piseth",
     "avatarUrl": "https://avatars.githubusercontent.com/u/115346323?s=72&u=2549127c35c9847eb68a18c91e11302de48fd496&v=4",
     "location": "Phnom Penh City, Cambodia",
-    "company": "",
+    "company": "Phum Digital",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 37,
     "createdAt": "2022-10-08T09:21:22Z"
   },
   {
     "login": "beenboeng",
     "name": "Benz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115332611?s=72&u=c3ab3f767ff23426b465352a970c740438d131fd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115332611?s=72&v=4",
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "benzboooo",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 42,
     "createdAt": "2022-10-08T03:20:07Z"
   },
   {
@@ -12308,7 +12308,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 0,
     "createdAt": "2022-04-22T02:24:34Z"
   },
   {
@@ -12366,7 +12366,7 @@
     "location": "Cambodia ",
     "company": "Darayut",
     "twitterUsername": "ANKOR",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-12T03:13:26Z"
@@ -12379,8 +12379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 9,
-    "publicContributions": 1,
+    "privateContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2022-12-07T14:36:49Z"
   },
   {
@@ -12390,9 +12390,9 @@
     "location": "Phnom Penh, Cambodia",
     "company": "DE-Lab R&D",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 21,
     "createdAt": "2022-03-15T16:17:02Z"
   },
   {
@@ -12402,7 +12402,7 @@
     "location": "Phnom Penh, Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-07-12T02:02:59Z"
@@ -12415,8 +12415,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 388,
-    "publicContributions": 102,
+    "privateContributions": 407,
+    "publicContributions": 100,
     "createdAt": "2022-10-06T05:48:17Z"
   },
   {
@@ -12426,7 +12426,7 @@
     "location": "Phnom Penh, Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-22T16:29:35Z"
@@ -12451,8 +12451,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 425,
+    "privateContributions": 53,
+    "publicContributions": 1141,
     "createdAt": "2022-11-21T12:45:29Z"
   },
   {
@@ -12462,9 +12462,9 @@
     "location": "Phnom Penh, Cambodia",
     "company": "turbotech.com",
     "twitterUsername": "Sopheak404",
-    "followers": 4,
-    "privateContributions": 287,
-    "publicContributions": 282,
+    "followers": 7,
+    "privateContributions": 503,
+    "publicContributions": 157,
     "createdAt": "2022-08-18T10:21:17Z"
   },
   {
@@ -12475,8 +12475,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1400,
-    "publicContributions": 16,
+    "privateContributions": 1793,
+    "publicContributions": 0,
     "createdAt": "2022-09-29T07:56:21Z"
   },
   {
@@ -34546,5 +34546,17 @@
     "privateContributions": 0,
     "publicContributions": 69,
     "createdAt": "2026-06-12T23:03:54Z"
+  },
+  {
+    "login": "miichantreanova",
+    "name": "MiiChantrea Nova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297595280?s=72&u=5eaf504c317475f13f8518efbe55acaf11e8d846&v=4",
+    "location": "Cambodia",
+    "company": "",
+    "twitterUsername": "miichantreanova",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 19,
+    "createdAt": "2026-06-28T09:22:55Z"
   }
 ]

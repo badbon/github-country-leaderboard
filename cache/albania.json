@@ -12308,7 +12308,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2015-07-11T12:56:29Z"
   },
   {
@@ -12318,7 +12318,7 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-27T18:28:35Z"
@@ -12343,8 +12343,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 204,
-    "publicContributions": 24,
+    "privateContributions": 249,
+    "publicContributions": 23,
     "createdAt": "2015-12-29T08:32:10Z"
   },
   {
@@ -12356,7 +12356,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 41,
     "createdAt": "2015-09-23T08:09:36Z"
   },
   {
@@ -12367,8 +12367,8 @@
     "company": "@DoraFshatit",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 523,
-    "publicContributions": 110,
+    "privateContributions": 766,
+    "publicContributions": 69,
     "createdAt": "2015-06-15T13:36:40Z"
   },
   {
@@ -12498,9 +12498,9 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 32,
     "createdAt": "2015-11-13T19:33:30Z"
   },
   {
@@ -12510,9 +12510,9 @@
     "location": "Tirana",
     "company": "Shko Online",
     "twitterUsername": "betimbeja",
-    "followers": 49,
+    "followers": 51,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 207,
     "createdAt": "2015-02-23T13:55:48Z"
   },
   {

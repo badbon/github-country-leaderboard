@@ -12368,7 +12368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 417,
+    "publicContributions": 380,
     "createdAt": "2023-07-10T16:38:02Z"
   },
   {
@@ -12416,7 +12416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 233,
+    "publicContributions": 180,
     "createdAt": "2023-07-23T21:13:19Z"
   },
   {
@@ -12476,7 +12476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 53,
     "createdAt": "2023-11-09T05:52:27Z"
   },
   {
@@ -12490,18 +12490,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-15T10:17:38Z"
-  },
-  {
-    "login": "yupryanya",
-    "name": "Yulia Pryanichnaya",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137698046?s=72&u=79b611b36a25a248c1f5ddd57a1994c24462599f&v=4",
-    "location": "Tbilisi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 37,
-    "createdAt": "2023-06-25T12:22:01Z"
   },
   {
     "login": "Jillbreak",
@@ -12559,7 +12547,7 @@
     "company": "Lightspeed",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 937,
+    "privateContributions": 1028,
     "publicContributions": 0,
     "createdAt": "2023-03-15T06:12:28Z"
   },
@@ -12582,9 +12570,9 @@
     "location": "Tbilisi",
     "company": "Perk",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 12826,
-    "publicContributions": 65,
+    "followers": 1,
+    "privateContributions": 12615,
+    "publicContributions": 73,
     "createdAt": "2023-05-30T09:17:13Z"
   },
   {

@@ -12032,7 +12032,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 30,
     "createdAt": "2025-09-05T02:29:24Z"
   },
   {
@@ -12044,7 +12044,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2025-08-04T21:36:02Z"
   },
   {
@@ -12055,8 +12055,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 41,
-    "publicContributions": 1410,
+    "privateContributions": 148,
+    "publicContributions": 1302,
     "createdAt": "2025-07-30T21:38:20Z"
   },
   {
@@ -12068,7 +12068,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 202,
+    "publicContributions": 233,
     "createdAt": "2025-11-07T14:28:28Z"
   },
   {
@@ -12078,9 +12078,9 @@
     "location": "Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 35,
     "createdAt": "2025-07-18T01:09:48Z"
   },
   {
@@ -12092,7 +12092,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 37,
     "createdAt": "2025-08-06T20:37:49Z"
   },
   {
@@ -12104,19 +12104,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2025-08-20T20:27:09Z"
   },
   {
     "login": "Shoreb",
     "name": "Shoreb",
     "avatarUrl": "https://avatars.githubusercontent.com/u/244381714?s=72&u=a75de93b40fdb400221781c80ab3d79b89801a9f&v=4",
-    "location": "Colombia",
+    "location": "Barranquilla, Colombia.",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 16,
     "privateContributions": 12,
-    "publicContributions": 199,
+    "publicContributions": 241,
     "createdAt": "2025-11-16T19:34:49Z"
   },
   {
@@ -12140,7 +12140,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 79,
     "createdAt": "2025-07-08T00:35:59Z"
   },
   {
@@ -12164,7 +12164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 46,
     "createdAt": "2025-08-07T17:29:28Z"
   },
   {
@@ -12175,8 +12175,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 142,
+    "privateContributions": 17,
+    "publicContributions": 292,
     "createdAt": "2023-03-01T23:06:03Z"
   },
   {
@@ -12188,7 +12188,7 @@
     "twitterUsername": "DeiderRuiz",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 13,
     "createdAt": "2023-02-01T19:11:08Z"
   },
   {
@@ -12200,20 +12200,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 46,
     "createdAt": "2025-09-11T18:04:04Z"
-  },
-  {
-    "login": "alan-cx",
-    "name": "Alan Chala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/232446760?s=72&u=01c572645d590005ae390741b8a92d6c9d91a8da&v=4",
-    "location": "Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 106,
-    "createdAt": "2025-09-15T19:21:22Z"
   },
   {
     "login": "Wendy2227",
@@ -12224,7 +12212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2025-09-16T10:14:21Z"
   },
   {
@@ -12260,7 +12248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 235,
     "createdAt": "2025-12-16T12:13:44Z"
   },
   {
@@ -349292,7 +349280,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 76,
     "createdAt": "2026-05-20T17:09:00Z"
   },
   {
@@ -349711,7 +349699,7 @@
     "company": "Bee Concept",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 225,
+    "privateContributions": 224,
     "publicContributions": 17,
     "createdAt": "2026-06-02T13:24:54Z"
   },
@@ -349866,7 +349854,7 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 49,
     "createdAt": "2026-06-18T12:55:18Z"
@@ -350086,5 +350074,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-23T08:27:29Z"
+  },
+  {
+    "login": "martiny-developer",
+    "name": "Martiny",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297227085?s=72&v=4",
+    "location": "Colombia, Bogotá",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 211,
+    "createdAt": "2026-06-26T17:12:27Z"
+  },
+  {
+    "login": "carlos2phd",
+    "name": "Carlos G Patiño H",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293391348?s=72&u=a51a2083252305e45f0d533c2ebb136a139997a5&v=4",
+    "location": "Bogotá",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-13T14:49:57Z"
+  },
+  {
+    "login": "juli34-arch",
+    "name": "Juliana Castillo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286500462?s=72&u=0516ee541bbc2f19b326776246f1f764d8e0188b&v=4",
+    "location": "Bogotá",
+    "company": "TeamSphereX",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-05-20T23:52:30Z"
+  },
+  {
+    "login": "jorgegutierrezvallejo",
+    "name": "Jorge Gutiérrez Vallejo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297226672?s=72&u=9730de31439fa455d3d67df47c00c957392d4a43&v=4",
+    "location": "Bogotá - Col",
+    "company": "Duit Media",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 45,
+    "createdAt": "2026-06-26T17:10:38Z"
   }
 ]

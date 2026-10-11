@@ -12259,7 +12259,7 @@
     "company": "AS Inbank",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 100,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2021-08-31T05:27:21Z"
   },
@@ -12306,8 +12306,8 @@
     "location": "Tallinn",
     "company": "CGI",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 104,
+    "followers": 2,
+    "privateContributions": 80,
     "publicContributions": 8,
     "createdAt": "2021-10-19T18:15:16Z"
   },
@@ -12336,18 +12336,6 @@
     "createdAt": "2021-09-16T10:34:29Z"
   },
   {
-    "login": "gusrod1",
-    "name": "Gustavo Rodrigues",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/87427275?s=72&u=70fc9abc6718ae7a60a012705ea8dd1afdaba7b3&v=4",
-    "location": "Tallinn",
-    "company": "EasyPark",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-07-14T12:25:59Z"
-  },
-  {
     "login": "gkassym",
     "name": "Gapur Kassym",
     "avatarUrl": "https://avatars.githubusercontent.com/u/95677319?s=72&u=fc2b3d588db36353cba8cc9923282d2fd7a0e14a&v=4",
@@ -12355,7 +12343,7 @@
     "company": "Twilio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 271,
+    "privateContributions": 216,
     "publicContributions": 0,
     "createdAt": "2021-12-07T07:28:20Z"
   },
@@ -12432,18 +12420,6 @@
     "createdAt": "2021-04-20T07:37:42Z"
   },
   {
-    "login": "HunterEwok",
-    "name": "Ewok",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/88090358?s=72&v=4",
-    "location": "Tallinn",
-    "company": "Virmali OÜ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2021-07-28T11:39:05Z"
-  },
-  {
     "login": "Anouarbouch",
     "name": "Anouar Bouchaara",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89533301?s=72&u=76ce51628853c0d7ea36e78e268fe3aa0bf8457e&v=4",
@@ -12463,7 +12439,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 167,
+    "privateContributions": 147,
     "publicContributions": 0,
     "createdAt": "2021-05-10T14:30:15Z"
   },

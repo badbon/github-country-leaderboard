@@ -3847,8 +3847,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1102,
-    "publicContributions": 1166,
+    "privateContributions": 1099,
+    "publicContributions": 1164,
     "createdAt": "2022-12-15T06:07:05Z"
   },
   {
@@ -3859,7 +3859,7 @@
     "company": "",
     "twitterUsername": "meda_mondonga",
     "followers": 7,
-    "privateContributions": 48,
+    "privateContributions": 65,
     "publicContributions": 30,
     "createdAt": "2022-05-23T21:17:03Z"
   },
@@ -3871,7 +3871,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1607,
+    "privateContributions": 1592,
     "publicContributions": 8,
     "createdAt": "2022-04-27T09:39:49Z"
   },
@@ -3895,7 +3895,7 @@
     "company": "@Hungana-International-Pte-Ltd ",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2507,
+    "privateContributions": 2505,
     "publicContributions": 49,
     "createdAt": "2022-02-03T23:51:00Z"
   },
@@ -3943,7 +3943,7 @@
     "company": "",
     "twitterUsername": "negroconstantin",
     "followers": 5,
-    "privateContributions": 3932,
+    "privateContributions": 3929,
     "publicContributions": 614,
     "createdAt": "2022-05-10T17:26:14Z"
   },
@@ -3956,7 +3956,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 3,
-    "publicContributions": 160,
+    "publicContributions": 161,
     "createdAt": "2022-01-05T20:53:59Z"
   },
   {
@@ -3996,18 +3996,6 @@
     "createdAt": "2022-04-27T10:00:28Z"
   },
   {
-    "login": "MARCOGN43",
-    "name": "Marc-Olivier Geyoro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104258747?s=72&u=38f4ab3c31fa717069c1759c81ce47fb818f30f5&v=4",
-    "location": "Kinshasa",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-04-23T11:36:43Z"
-  },
-  {
     "login": "lionellyon",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/98391062?s=72&u=2db81850ad47874dd9a8eee97edb1df4cd534990&v=4",
@@ -4039,7 +4027,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 983,
+    "privateContributions": 982,
     "publicContributions": 92,
     "createdAt": "2022-09-21T01:37:19Z"
   },

@@ -12272,7 +12272,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 61,
     "createdAt": "2024-08-19T19:01:23Z"
   },
   {
@@ -12307,8 +12307,8 @@
     "company": "dit@uoa",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 35,
-    "publicContributions": 92,
+    "privateContributions": 130,
+    "publicContributions": 28,
     "createdAt": "2024-10-09T19:06:46Z"
   },
   {
@@ -12355,7 +12355,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 75,
+    "privateContributions": 86,
     "publicContributions": 162,
     "createdAt": "2024-09-14T15:50:44Z"
   },
@@ -12392,7 +12392,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 207,
     "createdAt": "2024-04-13T21:12:06Z"
   },
   {
@@ -12416,7 +12416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 68,
     "createdAt": "2024-10-14T10:17:11Z"
   },
   {
@@ -12452,7 +12452,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 601,
     "createdAt": "2024-05-07T00:58:33Z"
   },
   {
@@ -12462,22 +12462,10 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 18,
     "createdAt": "2024-04-12T17:58:25Z"
-  },
-  {
-    "login": "angelosntousis",
-    "name": "Angelos Ntousis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/167450109?s=72&u=984d465c3df6aa8fed0c00ff1921eb31b0cd6f54&v=4",
-    "location": "Athens, GR",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 137,
-    "createdAt": "2024-04-18T15:03:33Z"
   },
   {
     "login": "Tser-vak",
@@ -12486,9 +12474,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 179,
-    "publicContributions": 180,
+    "followers": 3,
+    "privateContributions": 198,
+    "publicContributions": 212,
     "createdAt": "2024-11-06T09:14:36Z"
   },
   {

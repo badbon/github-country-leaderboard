@@ -5551,8 +5551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 166,
-    "publicContributions": 109,
+    "privateContributions": 169,
+    "publicContributions": 102,
     "createdAt": "2017-01-26T14:28:41Z"
   },
   {
@@ -5575,7 +5575,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 75,
-    "privateContributions": 818,
+    "privateContributions": 807,
     "publicContributions": 0,
     "createdAt": "2017-09-07T21:08:13Z"
   },
@@ -5743,7 +5743,7 @@
     "company": "Monkey Branch",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1368,
+    "privateContributions": 1378,
     "publicContributions": 0,
     "createdAt": "2017-08-24T06:19:30Z"
   },
@@ -6730,5 +6730,29 @@
     "privateContributions": 0,
     "publicContributions": 19,
     "createdAt": "2010-10-11T17:18:06Z"
+  },
+  {
+    "login": "RosaArthur0",
+    "name": "Arthur Baptista Rosa ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284469893?s=72&u=3c39414b0b3c7d8bc78fb8482d799773adf4c1fb&v=4",
+    "location": "Praia Grande - SP",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 14,
+    "createdAt": "2026-05-13T23:59:00Z"
+  },
+  {
+    "login": "shorttrend",
+    "name": "Shorttrend",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292026000?s=72&u=5260b7bf1941b5c67ec43f68a40ee1e96c485183&v=4",
+    "location": "Praia - Cabo Verde",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-09T07:21:06Z"
   }
 ]

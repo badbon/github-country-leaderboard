@@ -12008,7 +12008,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-04-10T12:27:40Z"
   },
   {
@@ -12020,7 +12020,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 205,
     "createdAt": "2025-01-20T19:38:34Z"
   },
   {
@@ -12044,7 +12044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2025-03-20T12:23:09Z"
   },
   {
@@ -12066,8 +12066,8 @@
     "location": "Argentina",
     "company": "Subsecretaria de Tránsito de Vicente López",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1313,
+    "followers": 6,
+    "privateContributions": 1201,
     "publicContributions": 56,
     "createdAt": "2025-01-06T06:13:53Z"
   },
@@ -12079,8 +12079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 75,
-    "publicContributions": 32,
+    "privateContributions": 79,
+    "publicContributions": 45,
     "createdAt": "2025-05-19T00:21:29Z"
   },
   {
@@ -12090,9 +12090,9 @@
     "location": "console.log('Argentina')",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 270,
+    "publicContributions": 181,
     "createdAt": "2025-03-31T17:06:18Z"
   },
   {
@@ -12104,7 +12104,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 19,
     "createdAt": "2025-01-22T03:06:45Z"
   },
   {
@@ -12151,14 +12151,14 @@
     "company": "CitizenGo",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 206,
+    "privateContributions": 345,
     "publicContributions": 1,
     "createdAt": "2025-02-25T22:20:48Z"
   },
   {
     "login": "Alejandro-Torrano",
     "name": "Alejandro Torrano",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/201385191?s=72&u=72a932873306ca08047b5fd38351f155c3c1f933&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/201385191?s=72&u=14349f317e385fb533b7b6b870ad19968f8b9ed5&v=4",
     "location": "Argentina, Mar del Plata",
     "company": "",
     "twitterUsername": "",
@@ -12176,7 +12176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2025-03-28T21:04:51Z"
   },
   {
@@ -12217,14 +12217,14 @@
   },
   {
     "login": "SantyOrsi",
-    "name": "Santy Orsi",
+    "name": "Santiago Orsi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/195059489?s=72&u=1a6722c66f5757b262fadc2fa6826e66c8ea58c5&v=4",
     "location": "Argentina",
-    "company": "defUX",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 180,
+    "publicContributions": 198,
     "createdAt": "2025-01-15T02:34:18Z"
   },
   {

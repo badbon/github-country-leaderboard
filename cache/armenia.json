@@ -12272,7 +12272,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-03-01T13:09:34Z"
   },
   {
@@ -12295,7 +12295,7 @@
     "company": "@",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2257,
+    "privateContributions": 1873,
     "publicContributions": 11,
     "createdAt": "2021-07-05T11:04:47Z"
   },
@@ -12307,8 +12307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 357,
-    "publicContributions": 13,
+    "privateContributions": 488,
+    "publicContributions": 14,
     "createdAt": "2021-09-09T11:51:03Z"
   },
   {
@@ -12319,8 +12319,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 5,
-    "publicContributions": 23,
+    "privateContributions": 26,
+    "publicContributions": 51,
     "createdAt": "2021-12-12T18:40:23Z"
   },
   {
@@ -12332,7 +12332,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2021-04-19T18:54:32Z"
   },
   {
@@ -12348,21 +12348,9 @@
     "createdAt": "2021-10-28T10:59:05Z"
   },
   {
-    "login": "ashot-developer",
-    "name": "Ashot Markosyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81588713?s=72&u=dadb1193bf589a3da1daea9817d5bf6bb786474c&v=4",
-    "location": "Armenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 15,
-    "createdAt": "2021-03-29T19:26:14Z"
-  },
-  {
     "login": "JohanMorales211",
     "name": "Johan Morales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/89624632?s=72&u=6963f3fa988a28dfd016106d26b88453fea280ff&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/89624632?s=72&u=f2be3e74adb894266714ef6c74f31ab17514bfe5&v=4",
     "location": "Armenia, Quindio, Colombia",
     "company": "",
     "twitterUsername": "",
@@ -12415,7 +12403,7 @@
     "company": "Epam Systems",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 752,
+    "privateContributions": 538,
     "publicContributions": 0,
     "createdAt": "2021-12-02T17:46:15Z"
   },
@@ -12428,7 +12416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 136,
     "createdAt": "2021-04-25T11:08:52Z"
   },
   {
@@ -12438,7 +12426,7 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-10-03T18:44:54Z"
@@ -12450,7 +12438,7 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2021-11-08T13:22:25Z"
@@ -12464,7 +12452,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2021-04-27T09:18:58Z"
   },
   {
@@ -12487,7 +12475,7 @@
     "company": "Cerberus",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1136,
+    "privateContributions": 1220,
     "publicContributions": 2,
     "createdAt": "2021-12-19T22:50:57Z"
   },
