@@ -158,7 +158,7 @@ Published countries: 234
 | North Korea | 185 | [View](./north_korea.md) |
 | North Macedonia | 1,934 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
-| Norway | 19,615 | [View](./norway.md) |
+| Norway | 19,629 | [View](./norway.md) |
 | Oman | 995 | [View](./oman.md) |
 | Pakistan | 41,770 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
@@ -197,9 +197,9 @@ Published countries: 234
 | Slovenia | 3,105 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 865 | [View](./somalia.md) |
-| South Africa | 17,946 | [View](./south_africa.md) |
+| South Africa | 17,945 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,908 | [View](./south_korea.md) |
+| South Korea | 56,907 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,336 | [View](./sri_lanka.md) |
 | Sudan | 729 | [View](./sudan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,342 | [View](./zambia.md) |
 | Zimbabwe | 1,653 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-11T13:42:12.205Z
+Generated: 2026-10-11T13:47:12.344Z
