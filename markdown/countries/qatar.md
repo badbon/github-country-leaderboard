@@ -31,7 +31,7 @@ Indexed users: 1,073
 | 17 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 4,844 |
 | 18 | [Gubbu77](https://github.com/Gubbu77) | Indrajith vs | Qatar | 3,975 |
 | 19 | [Engineersticity](https://github.com/Engineersticity) | Erastus Kirui | Doha, Qatar | 3,929 |
-| 20 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,727 |
+| 20 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 3,870 |
 
 ## Public Contributions
 
@@ -41,7 +41,7 @@ Indexed users: 1,073
 | 2 | [aurangzaib048](https://github.com/aurangzaib048) | Rana Aurangzaib | Doha, Qatar | 3,727 |
 | 3 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 3,001 |
 | 4 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,769 |
-| 5 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,519 |
+| 5 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,557 |
 | 6 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,512 |
 | 7 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 1,406 |
 | 8 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,389 |
@@ -62,8 +62,8 @@ Indexed users: 1,073
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi | Doha | 819 |
-| 2 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 763 |
+| 1 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 873 |
+| 2 | [Vetrivel-VP](https://github.com/Vetrivel-VP) | Vetrivel Ravi | Doha | 819 |
 | 3 | [maljefairi](https://github.com/maljefairi) | Mohammed Al-Jefairi | Qatar | 572 |
 | 4 | [TarikKaanKoc](https://github.com/TarikKaanKoc) | Tarık Kaan Koç | Qatar | 565 |
 | 5 | [Offensive-Panda](https://github.com/Offensive-Panda) | Usman Sikander | Qatar | 524 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 101 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 
-Generated: 2026-10-11T10:00:32.891Z
+Generated: 2026-10-11T13:35:15.020Z

@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-11T09:38:53.865Z
+Generated: 2026-10-11T13:20:34.260Z
 
 Users: 900
 
@@ -10,7 +10,7 @@ Users: 900
 | 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 10316 |
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7351 |
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6166 |
-| 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 5960 |
+| 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 5944 |
 | 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5666 |
 | 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 5585 |
 | 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 5305 |
@@ -22,7 +22,7 @@ Users: 900
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3687 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3452 |
 | 16 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
-| 17 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
-| 18 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3129 |
+| 17 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3194 |
+| 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |
 | 19 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | EvanieWares | EvanieWares | Malawi | 3055 |
 | 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3054 |

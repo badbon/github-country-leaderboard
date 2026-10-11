@@ -1,8 +1,8 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-11T09:33:07.727Z
+Generated: 2026-10-11T13:16:35.043Z
 
-Users: 2576
+Users: 2575
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 2576
 | 17 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1073 |
 | 18 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1066 |
 | 19 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | @openfga  |  | Beirut, Lebanon | 1024 |
-| 20 | [hassanaboukhalil](https://github.com/hassanaboukhalil) | hassan abou khalil |  | CodingHassan | Lebanon | 975 |
+| 20 | [slimism](https://github.com/slimism) | Mohammad Slim |  |  | Lebanon | 975 |

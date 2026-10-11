@@ -15,11 +15,11 @@ Indexed users: 1,071
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 43,858 |
 | 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 23,939 |
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 20,799 |
-| 4 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,381 |
-| 5 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,647 |
-| 6 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
-| 7 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 15,516 |
-| 8 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
+| 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
+| 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,381 |
+| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,647 |
+| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
+| 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 15,516 |
 | 9 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 14,869 |
 | 10 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,643 |
 | 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 9,624 |
@@ -37,7 +37,7 @@ Indexed users: 1,071
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
+| 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
 | 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,460 |
 | 3 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 4,111 |
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,704 |
@@ -63,10 +63,10 @@ Indexed users: 1,071
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [AvaoCore](https://github.com/AvaoCore) | Avao Foundation - Core | Panama | 227 |
-| 2 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 110 |
-| 3 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Panama, Panama | 108 |
-| 4 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 108 |
-| 5 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 101 |
+| 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 117 |
+| 3 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Panama City, Panama | 110 |
+| 4 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Panama, Panama | 109 |
+| 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Venezuala, Panama, Suiza | 108 |
 | 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | San Blas, Panama | 101 |
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | Panama City, Panama | 96 |
@@ -83,4 +83,4 @@ Indexed users: 1,071
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-11T09:55:48.932Z
+Generated: 2026-10-11T13:33:12.505Z

@@ -1,16 +1,16 @@
 # Followers - Panama
 
-Generated: 2026-10-11T09:55:48.932Z
+Generated: 2026-10-11T13:33:12.505Z
 
 Users: 1071
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [AvaoCore](https://github.com/AvaoCore) | Avao Foundation - Core |  | AvaoFoundation | Panama | 227 |
-| 2 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Procter & Gamble | mariajosemvv | Panama City, Panama | 110 |
-| 3 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Solusoft |  | Panama, Panama | 108 |
-| 4 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 108 |
-| 5 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 101 |
+| 2 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 117 |
+| 3 | [mariajosemv](https://github.com/mariajosemv) | Maria Jose Medina | Procter & Gamble | mariajosemvv | Panama City, Panama | 110 |
+| 4 | [abdelgmartinezl](https://github.com/abdelgmartinezl) | Abdel G. Martínez L. | Solusoft |  | Panama, Panama | 109 |
+| 5 | [apimercantil](https://github.com/apimercantil) | Mercantil Banco | Mercantil Banco CA | mercantilbanco | Venezuala, Panama, Suiza | 108 |
 | 6 | [lfamorim](https://github.com/lfamorim) | Lucas Fernando Amorim | Goodfellas & CreditHub | lfamorim | San Blas, Panama | 101 |
 | 7 | [calvinfroedge](https://github.com/calvinfroedge) | Calvin Froedge |  |  | Panama | 98 |
 | 8 | [issaiass](https://github.com/issaiass) | Rangel Isaías Alvarado Walles | DATA ACQUISITION SYSTEMS, S.A. | daqsyspty | Panama City, Panama | 96 |

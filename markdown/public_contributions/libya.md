@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-11T09:34:45.651Z
+Generated: 2026-10-11T13:17:46.721Z
 
 Users: 742
 
@@ -21,8 +21,8 @@ Users: 742
 | 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 472 |
 | 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 437 |
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 418 |
-| 16 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
-| 17 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 357 |
-| 18 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
-| 19 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 348 |
-| 20 | [MohamedFarag6](https://github.com/MohamedFarag6) | Mohamed Farag |  |  | Benghazi, Libya | 345 |
+| 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali |  |  | Libya, Tripoli | 367 |
+| 17 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 360 |
+| 18 | [Nojaid-Ad](https://github.com/Nojaid-Ad) |  |  |  | Tripoli | 357 |
+| 19 | [torgodly](https://github.com/torgodly) | Abdullah al-hajj | @Sahably | torgodly | libya | 351 |
+| 20 | [Monther-bug](https://github.com/Monther-bug) | Monther |  @ditsly  |  | Libya | 348 |

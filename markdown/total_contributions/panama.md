@@ -1,6 +1,6 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-11T09:55:48.932Z
+Generated: 2026-10-11T13:33:12.505Z
 
 Users: 1071
 
@@ -9,11 +9,11 @@ Users: 1071
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Group Advisors, NeoGen.AI, COVID Schedule, VentureVoIP, CreateOffshoreCompany, SineApps, VentureIP, C O International Holdings, Bio Earth Farms, Light Stream Farms, Singularity Software | MattRiddell | Panama | 43858 |
 | 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | AIdeazz start-up | reviceva | Panama, Panama city | 23939 |
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 20799 |
-| 4 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17381 |
-| 5 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15647 |
-| 6 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 15572 |
-| 7 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 15516 |
-| 8 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 15096 |
+| 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18057 |
+| 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17381 |
+| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15647 |
+| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 15572 |
+| 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 15516 |
 | 9 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 14869 |
 | 10 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9643 |
 | 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 9624 |

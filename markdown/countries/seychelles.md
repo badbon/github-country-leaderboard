@@ -52,10 +52,10 @@ Indexed users: 1,770
 | 13 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
 | 14 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
 | 15 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
-| 16 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
-| 17 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
-| 18 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
-| 19 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,389 |
+| 16 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,506 |
+| 17 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,436 |
+| 18 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
+| 19 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 1,389 |
 | 20 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,315 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
 
-Generated: 2026-10-11T10:08:02.838Z
+Generated: 2026-10-11T13:40:24.078Z

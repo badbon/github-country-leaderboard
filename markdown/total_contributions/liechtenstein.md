@@ -1,6 +1,6 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-11T09:35:21.720Z
+Generated: 2026-10-11T13:17:53.015Z
 
 Users: 113
 
@@ -22,7 +22,7 @@ Users: 113
 | 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin |  |  | Liechtenstein | 329 |
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous |  |  | Liechtenstein | 307 |
-| 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 298 |
+| 17 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 300 |
 | 18 | [ColinFL](https://github.com/ColinFL) |  |  |  | Liechtenstein | 267 |
 | 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 241 |
 | 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 167 |

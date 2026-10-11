@@ -14,7 +14,7 @@ Indexed users: 35
 |---:|---|---|---|---:|
 | 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,152 |
 | 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 4,006 |
-| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,670 |
+| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,672 |
 | 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 1,992 |
 | 5 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,035 |
 | 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,028 |
@@ -22,7 +22,7 @@ Indexed users: 35
 | 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 817 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 292 |
 | 10 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | Saint Lucia | 93 |
-| 11 | [fontius](https://github.com/fontius) |  | Saint Lucia | 85 |
+| 11 | [fontius](https://github.com/fontius) |  | Saint Lucia | 87 |
 | 12 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
 | 13 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | Saint Lucia | 18 |
 | 14 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo | Castries, Saint Lucia | 15 |
@@ -40,7 +40,7 @@ Indexed users: 35
 | 1 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 925 |
 | 2 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 440 |
 | 3 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | Castries, Saint Lucia | 128 |
-| 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 85 |
+| 4 | [fontius](https://github.com/fontius) |  | Saint Lucia | 87 |
 | 5 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 67 |
 | 6 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 42 |
 | 7 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 42 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-11T10:02:45.480Z
+Generated: 2026-10-11T13:36:28.986Z

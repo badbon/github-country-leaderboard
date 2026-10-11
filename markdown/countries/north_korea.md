@@ -20,7 +20,7 @@ Indexed users: 185
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent | Pyongyang, North Korea | 1,268 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Pyongyang, North Korea | 1,069 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna | North Korea | 766 |
-| 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 666 |
+| 9 | [Aashaby](https://github.com/Aashaby) |  | North Korea | 674 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | North Korea | 607 |
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan | Pyongyang | 567 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  P'yŏngyang, North Korea | 531 |
@@ -62,7 +62,7 @@ Indexed users: 185
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 137 |
+| 1 | [x1hy9](https://github.com/x1hy9) | MyeongGun Kim | Pyongyang | 138 |
 | 2 | [jdzmfg](https://github.com/jdzmfg) | ! ★ | pyongyang | 69 |
 | 3 | [0x4f53](https://github.com/0x4f53) | Owais Shaikh | 🇰🇵 Pyongyang, North Korea | 66 |
 | 4 | [advanced-rising](https://github.com/advanced-rising) | risingcore | Democratic People's Republic of Korea | 63 |
@@ -83,4 +83,4 @@ Indexed users: 185
 | 19 | [Lou1sEx](https://github.com/Lou1sEx) | Lou1s | North korea | 15 |
 | 20 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP | North Korea | 14 |
 
-Generated: 2026-10-11T09:50:59.399Z
+Generated: 2026-10-11T13:30:27.368Z

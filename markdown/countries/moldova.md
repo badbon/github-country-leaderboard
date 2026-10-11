@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,755
+Indexed users: 1,754
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,755
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [gherciu](https://github.com/gherciu) | Gheorghe Gherciu | Moldova | 105 |
 
-Generated: 2026-10-11T09:43:25.822Z
+Generated: 2026-10-11T13:23:34.905Z

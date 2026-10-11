@@ -29,7 +29,7 @@ Indexed users: 476
 | 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Windhoek, Namibia | 2,235 |
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,207 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,976 |
-| 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,897 |
+| 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,919 |
 | 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,877 |
 | 20 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,764 |
 
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-11T09:47:15.795Z
+Generated: 2026-10-11T13:27:02.634Z

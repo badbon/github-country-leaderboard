@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-11T09:38:53.865Z
+Generated: 2026-10-11T13:20:34.260Z
 
 Users: 900
 
@@ -8,11 +8,11 @@ Users: 900
 |---:|---|---|---|---|---|---:|
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 2649 |
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  |  |  Malawi | 1439 |
-| 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom |  |  | Blantyre , Malawi | 769 |
+| 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom |  |  | Blantyre , Malawi | 768 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | @HashTag-Technologies-Limited  | Marhardal | Lilongwe Malaŵi  | 562 |
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 483 |
-| 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe |  |  | Blantyre, MALAWI | 367 |
-| 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 303 |
+| 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe |  |  | Blantyre, MALAWI | 368 |
+| 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 304 |
 | 8 | [Cardkess](https://github.com/Cardkess) | Blessings Chidambe |  | Cardkess | Blantyre, MALAWI | 292 |
 | 9 | [Fraganya](https://github.com/Fraganya) | Francis Ganya | @lync-systems-mw  | _fraganya | Blantyre, Malawi | 259 |
 | 10 | [JosephGMkonda](https://github.com/JosephGMkonda) | Joseph Mkonda | codebuddy |  | malawi | 237 |

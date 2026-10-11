@@ -14,7 +14,7 @@ Indexed users: 296
 |---:|---|---|---|---:|
 | 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 15,509 |
 | 2 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,481 |
-| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 8,027 |
+| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 10,397 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,356 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,047 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 2,991 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 | 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
 
-Generated: 2026-10-11T09:55:51.377Z
+Generated: 2026-10-11T13:33:17.604Z

@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-11T09:45:24.755Z
+Generated: 2026-10-11T13:23:41.370Z
 
 Users: 805
 
@@ -11,15 +11,15 @@ Users: 805
 | 3 | [tortuvshin](https://github.com/tortuvshin) | Turtuvshin Byambaa |  |  | Mongolia | 17493 |
 | 4 | [ganbold](https://github.com/ganbold) | Ganbold | Zochil Technology |  | Ulaanbaatar, Mongolia | 11768 |
 | 5 | [baysaa006](https://github.com/baysaa006) |  |  |  | Mongolia. | 11020 |
-| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 10093 |
+| 6 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 10252 |
 | 7 | [heisenberg-kz](https://github.com/heisenberg-kz) | heisenbergjs |  |  | Ulan Bator | 9523 |
 | 8 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 8924 |
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | @gege-mn |  | Ulaanbaatar, Mongolia | 7406 |
 | 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Andromeda |  | Mongolia, Ulaanbaatar | 6510 |
 | 11 | [blgn94](https://github.com/blgn94) | Bilguun | Onlime LLC, Callpro Labs LLC, Callpro LLC |  | Erdenet, Mongolia | 6393 |
 | 12 | [turbold24](https://github.com/turbold24) | Turbold | @shoppyMN @cody-mn  | turu_mn | Ulaanbaatar, Mongolia | 5976 |
-| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5576 |
-| 14 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5247 |
+| 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger |  |  | Mongolia | 5624 |
+| 14 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5255 |
 | 15 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | CODY | g_nd | Mongolia | 4910 |
 | 16 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
 | 17 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4470 |
