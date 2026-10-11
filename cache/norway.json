@@ -13663,8 +13663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 89,
-    "publicContributions": 803,
+    "privateContributions": 64,
+    "publicContributions": 793,
     "createdAt": "2023-09-03T15:35:01Z"
   },
   {
@@ -13676,7 +13676,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-02-20T12:41:04Z"
   },
   {
@@ -13687,7 +13687,7 @@
     "company": "NHH Norwegian School of Economics",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 232,
+    "privateContributions": 126,
     "publicContributions": 0,
     "createdAt": "2023-07-05T21:13:50Z"
   },
@@ -13711,7 +13711,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 671,
+    "privateContributions": 703,
     "publicContributions": 2,
     "createdAt": "2023-03-16T08:47:01Z"
   },
@@ -13724,7 +13724,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 65,
     "createdAt": "2022-12-29T02:34:41Z"
   },
   {
@@ -13735,8 +13735,8 @@
     "company": "Norwegian University of Science and Technology (NTNU)",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 326,
-    "publicContributions": 152,
+    "privateContributions": 521,
+    "publicContributions": 156,
     "createdAt": "2023-10-05T09:00:03Z"
   },
   {
@@ -13748,7 +13748,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 2,
     "createdAt": "2023-08-20T10:59:33Z"
   },
   {
@@ -13784,7 +13784,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 6,
-    "publicContributions": 74,
+    "publicContributions": 303,
     "createdAt": "2023-03-20T21:19:34Z"
   },
   {
@@ -13795,8 +13795,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 6,
-    "publicContributions": 18,
+    "privateContributions": 1,
+    "publicContributions": 31,
     "createdAt": "2023-05-13T17:41:41Z"
   },
   {
@@ -13807,20 +13807,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 222,
-    "publicContributions": 1,
+    "privateContributions": 275,
+    "publicContributions": 0,
     "createdAt": "2023-09-21T20:02:25Z"
   },
   {
     "login": "martinhaugen99",
     "name": "Martin Haugen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132050999?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132050999?s=72&u=cdb0d7b3bcaa8f6ff3af224cbdc62b5804ed71b9&v=4",
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 27,
     "createdAt": "2023-04-28T08:03:22Z"
   },
   {
@@ -13831,8 +13831,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 272,
-    "publicContributions": 6,
+    "privateContributions": 430,
+    "publicContributions": 120,
     "createdAt": "2023-05-25T14:02:18Z"
   },
   {
@@ -13842,9 +13842,9 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 182,
-    "publicContributions": 316,
+    "followers": 4,
+    "privateContributions": 126,
+    "publicContributions": 249,
     "createdAt": "2023-11-08T14:30:15Z"
   },
   {
@@ -13868,7 +13868,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 287,
+    "publicContributions": 291,
     "createdAt": "2023-09-24T12:51:58Z"
   },
   {
@@ -13886,13 +13886,13 @@
   {
     "login": "LienSimen",
     "name": "Simen Lien",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122803724?s=72&u=2461c92bf909e097aa4e4b77b7d809b717875411&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122803724?s=72&u=5cf560124a93f63c7f30cce76ecfb46201519b91&v=4",
     "location": "Bergen, Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7417,
-    "publicContributions": 7,
+    "privateContributions": 13071,
+    "publicContributions": 1,
     "createdAt": "2023-01-16T14:23:40Z"
   },
   {

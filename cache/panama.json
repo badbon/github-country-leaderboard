@@ -6,7 +6,7 @@
     "location": "panama",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 361,
     "createdAt": "2026-01-13T20:27:53Z"
@@ -46,18 +46,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-03-27T19:41:44Z"
-  },
-  {
-    "login": "FeelsDark",
-    "name": "Christopher ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/279341537?s=72&u=fa3c882ef5851dd237d4173ad62ab22e2b9dd2cc&v=4",
-    "location": "Panama",
-    "company": "Universidad Tecnológica de Panamá",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2026-04-25T21:29:49Z"
   },
   {
     "login": "BlackSheeptechnology",
@@ -164,7 +152,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 58,
-    "publicContributions": 104,
+    "publicContributions": 111,
     "createdAt": "2025-08-10T14:43:29Z"
   },
   {
@@ -199,7 +187,7 @@
     "company": "Boton",
     "twitterUsername": "ricardostmalo",
     "followers": 6,
-    "privateContributions": 15636,
+    "privateContributions": 15802,
     "publicContributions": 11,
     "createdAt": "2025-04-01T14:27:53Z"
   },
@@ -211,7 +199,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 519,
+    "privateContributions": 570,
     "publicContributions": 106,
     "createdAt": "2025-05-04T21:25:59Z"
   },
@@ -235,7 +223,7 @@
     "company": "PGT Logistics",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3138,
+    "privateContributions": 3223,
     "publicContributions": 22,
     "createdAt": "2025-11-07T02:54:07Z"
   },
