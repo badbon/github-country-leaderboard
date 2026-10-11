@@ -62,7 +62,7 @@ Indexed users: 61
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 216 |
+| 1 | [agustingianni](https://github.com/agustingianni) | Agustin Gianni | San Marino | 218 |
 | 2 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 37 |
 | 3 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | San Marino | 36 |
 | 4 | [AleRiccardi](https://github.com/AleRiccardi) | Alessandro Riccardi | San Marino | 32 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-10T23:44:58.414Z
+Generated: 2026-10-11T01:37:43.808Z

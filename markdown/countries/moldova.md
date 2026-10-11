@@ -1,6 +1,6 @@
 # Moldova
 
-Indexed users: 1,756
+Indexed users: 1,755
 
 | Leaderboard | Link |
 |---|---|
@@ -21,11 +21,11 @@ Indexed users: 1,756
 | 7 | [StefuSD](https://github.com/StefuSD) | Stepan Stefu | Moldova | 5,328 |
 | 8 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion | Moldova, Chisinau | 5,271 |
 | 9 | [batanus](https://github.com/batanus) | Dmitrii Medvedev | Chisinau, Moldova | 5,122 |
-| 10 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,046 |
-| 11 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 4,973 |
-| 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
-| 13 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
-| 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 4,546 |
+| 10 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,071 |
+| 11 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,046 |
+| 12 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 4,973 |
+| 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
+| 14 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
 | 15 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 4,461 |
 | 16 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 4,454 |
 | 17 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,435 |
@@ -83,4 +83,4 @@ Indexed users: 1,756
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [gherciu](https://github.com/gherciu) | Gheorghe Gherciu | Moldova | 105 |
 
-Generated: 2026-10-10T23:26:11.918Z
+Generated: 2026-10-11T01:14:59.672Z

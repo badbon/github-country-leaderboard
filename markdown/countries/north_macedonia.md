@@ -68,7 +68,7 @@ Indexed users: 1,935
 | 4 | [jaggedsoft](https://github.com/jaggedsoft) | jagged | North Macedonia | 466 |
 | 5 | [trajchevska](https://github.com/trajchevska) | Katerina Trajchevska | Skopje Macedonia | 462 |
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | Macedonia | 306 |
-| 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Macedonia | 293 |
+| 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Macedonia | 282 |
 | 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 241 |
 | 9 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Skopje, Macedonia | 223 |
 | 10 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 212 |
@@ -83,4 +83,4 @@ Indexed users: 1,935
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-10T23:36:03.310Z
+Generated: 2026-10-11T01:25:45.452Z

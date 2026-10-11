@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-10T23:27:50.508Z
+Generated: 2026-10-11T01:19:38.083Z
 
 Users: 1174
 
@@ -16,8 +16,8 @@ Users: 1174
 | 8 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 4722 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4320 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3892 |
-| 11 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3216 |
-| 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 2827 |
+| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 3395 |
+| 12 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3216 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2793 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2744 |
 | 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2682 |

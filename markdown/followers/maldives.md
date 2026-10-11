@@ -1,6 +1,6 @@
 # Followers - Maldives
 
-Generated: 2026-10-10T23:22:29.303Z
+Generated: 2026-10-11T01:11:22.043Z
 
 Users: 354
 
@@ -10,7 +10,7 @@ Users: 354
 | 2 | [fallenbagel](https://github.com/fallenbagel) |  |  |  | Maldives | 168 |
 | 3 | [Samooh-9820060](https://github.com/Samooh-9820060) | Samooh Moosa |  | Samooh9820060 | Maldives | 130 |
 | 4 | [boring-dragon](https://github.com/boring-dragon) | Boring Dragon | @synetecs @oxiqa @mihaaru | boring_dragon | Maldives | 124 |
-| 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | @LottieFiles  | reallynattu | Maldives | 114 |
+| 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | @LottieFiles  | reallynattu | Maldives | 116 |
 | 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | @baivaru | eyaadh | Maldives | 101 |
 | 7 | [raftalks](https://github.com/raftalks) | Raf |  |  | Maldives | 88 |
 | 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim |  | fauzaanu | Maldives | 86 |

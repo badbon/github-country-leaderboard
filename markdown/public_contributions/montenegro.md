@@ -1,6 +1,6 @@
 # Public Contributions - Montenegro
 
-Generated: 2026-10-10T23:27:40.476Z
+Generated: 2026-10-11T01:16:14.137Z
 
 Users: 891
 
@@ -20,7 +20,7 @@ Users: 891
 | 12 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 1794 |
 | 13 | [Xaaalera](https://github.com/Xaaalera) | Roman Maslennikov | Nord Beaver |  | Montenegro | 1741 |
 | 14 | [atimofeev](https://github.com/atimofeev) | Artem Timofeev |  |  | Budva, Montenegro | 1631 |
-| 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1491 |
+| 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov |  |  | Bar, Montenegro | 1474 |
 | 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević |  | stevyhacker | Montenegro | 1371 |
 | 17 | [artempartos](https://github.com/artempartos) | Artem Petrov | Dualbootpartners |  | Montenegro | 1233 |
 | 18 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin |  |  | Montenegro | 1170 |

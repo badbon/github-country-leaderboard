@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-10T23:48:14.389Z
+Generated: 2026-10-11T01:39:36.207Z
 
 Users: 1359
 
@@ -8,7 +8,7 @@ Users: 1359
 |---:|---|---|---|---|---|---:|
 | 1 | [ManuSquall](https://github.com/ManuSquall) | Charles Emmanuel S. Ndiaye | @A2DG-SENEGAL  | manusquall | Dakar, Senegal | 528 |
 | 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw |  | Ibrahima92_ | Senegal | 319 |
-| 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA |  | daoodaba975 | Dakar, SN | 281 |
+| 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA |  | daoodaba975 | Dakar, SN | 282 |
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | FUTURIZE WORLD | orbitturner | Dakar, Senegal | 271 |
 | 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 232 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Gaindé 2000 |  | Dakar ,Senegal | 226 |
@@ -21,7 +21,7 @@ Users: 1359
 | 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko |  |  | Dakar, Senegal | 172 |
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 168 |
 | 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Zone 01 Dakar |  | Dakar, Sn | 165 |
-| 16 | [kasali](https://github.com/kasali) | kasali | Freelancer | kadev4solutions | Dakar Sénégal | 153 |
+| 16 | [kasali](https://github.com/kasali) | kasali | Freelancer | kadev4solutions | Dakar Sénégal | 154 |
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | PayDunya |  | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo |  | RidwaneD | Dakar - Senegal | 148 |
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Samane Corporation | NgorSeck | Dakar - Sénégal | 139 |

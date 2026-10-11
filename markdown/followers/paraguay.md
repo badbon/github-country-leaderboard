@@ -1,8 +1,8 @@
 # Followers - Paraguay
 
-Generated: 2026-10-10T23:39:33.418Z
+Generated: 2026-10-11T01:30:24.072Z
 
-Users: 2020
+Users: 2019
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 2020
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Paraguay |  | Asunción | 590 |
 | 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Banco Continental SAECA |  | Asunción, Paraguay | 527 |
 | 4 | [crodas](https://github.com/crodas) | C |  |  | Asunción, Paraguay | 424 |
-| 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla |  |  | Paraguay | 408 |
+| 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla |  |  | Paraguay | 387 |
 | 6 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 383 |
 | 7 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye |  |  | Paraguay | 262 |
 | 8 | [Tom5521](https://github.com/Tom5521) | Tom |  | _ThomasIsBored | Paraguay | 230 |
@@ -20,9 +20,9 @@ Users: 2020
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 181 |
 | 13 | [garyservin](https://github.com/garyservin) | Gary Servin | @locusrobotics  | garyservin | Asunción - Paraguay | 154 |
 | 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 148 |
-| 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 140 |
-| 16 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 134 |
-| 17 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | FortyAU | RamirezMatias03 | Fernando de la Mora, Central, Paraguay | 128 |
+| 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 134 |
+| 16 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | FortyAU | RamirezMatias03 | Fernando de la Mora, Central, Paraguay | 128 |
+| 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 125 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte |  |  | Ciudad del Este,  Paraguay | 118 |
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  |  | IvanK013 | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule |  |  | Asunción / Paraguay | 110 |

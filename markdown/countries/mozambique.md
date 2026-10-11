@@ -22,8 +22,8 @@ Indexed users: 1,174
 | 8 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 4,722 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,320 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,892 |
-| 11 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,216 |
-| 12 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 2,827 |
+| 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,395 |
+| 12 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,216 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,793 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,744 |
 | 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
@@ -51,12 +51,12 @@ Indexed users: 1,174
 | 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 674 |
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 644 |
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 630 |
-| 15 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 610 |
-| 16 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 598 |
-| 17 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 564 |
-| 18 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 563 |
-| 19 | [iamzjohn](https://github.com/iamzjohn) | zJohn | Maputo, Mozambique | 556 |
-| 20 | [EstandarMustaq](https://github.com/EstandarMustaq) | Estandar | Maputo, Mozambique | 523 |
+| 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 598 |
+| 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 564 |
+| 17 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 563 |
+| 18 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 561 |
+| 19 | [EstandarMustaq](https://github.com/EstandarMustaq) | Estandar | Maputo, Mozambique | 523 |
+| 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
 
 ## Followers
 
@@ -65,7 +65,7 @@ Indexed users: 1,174
 | 1 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 450 |
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 319 |
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 300 |
-| 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 277 |
+| 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 279 |
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 228 |
 | 6 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 198 |
 | 7 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 195 |
@@ -83,4 +83,4 @@ Indexed users: 1,174
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-10T23:27:50.508Z
+Generated: 2026-10-11T01:19:38.083Z

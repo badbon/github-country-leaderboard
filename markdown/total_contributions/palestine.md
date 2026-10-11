@@ -1,8 +1,8 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-10T23:37:38.157Z
+Generated: 2026-10-11T01:28:54.923Z
 
-Users: 2208
+Users: 2207
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 2208
 | 17 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 4081 |
 | 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
 | 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3378 |
-| 20 | [MohammedAlimoor](https://github.com/MohammedAlimoor) | Mohammed Alimoor | khanyunis municipality |  | Palestine | 3113 |
+| 20 | [SwAt1563](https://github.com/SwAt1563) | Qutaiba Olayyan |  |  | Palestine | 3264 |

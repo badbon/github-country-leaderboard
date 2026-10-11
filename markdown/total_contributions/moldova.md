@@ -1,8 +1,8 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-10T23:26:11.918Z
+Generated: 2026-10-11T01:14:59.672Z
 
-Users: 1756
+Users: 1755
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,11 +15,11 @@ Users: 1756
 | 7 | [StefuSD](https://github.com/StefuSD) | Stepan Stefu |  |  | Moldova | 5328 |
 | 8 | [ion-bostanica](https://github.com/ion-bostanica) | Bostanica Ion |  |  | Moldova, Chisinau | 5271 |
 | 9 | [batanus](https://github.com/batanus) | Dmitrii Medvedev |  |  | Chisinau, Moldova | 5122 |
-| 10 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5046 |
-| 11 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 4973 |
-| 12 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
-| 13 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
-| 14 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 4546 |
+| 10 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
+| 11 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5046 |
+| 12 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 4973 |
+| 13 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
+| 14 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
 | 15 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 4461 |
 | 16 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
 | 17 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4435 |

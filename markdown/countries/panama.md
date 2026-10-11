@@ -53,7 +53,7 @@ Indexed users: 1,071
 | 14 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,158 |
 | 15 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
 | 16 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,113 |
-| 17 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 1,096 |
+| 17 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 948 |
 | 18 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
 | 19 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
 | 20 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 844 |
@@ -83,4 +83,4 @@ Indexed users: 1,071
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-10T23:37:42.879Z
+Generated: 2026-10-11T01:30:18.092Z

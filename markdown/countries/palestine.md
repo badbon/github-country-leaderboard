@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,208
+Indexed users: 2,207
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 2,208
 | 17 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 4,081 |
 | 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 3,560 |
 | 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora | Palestine | 3,378 |
-| 20 | [MohammedAlimoor](https://github.com/MohammedAlimoor) | Mohammed Alimoor | Palestine | 3,113 |
+| 20 | [SwAt1563](https://github.com/SwAt1563) | Qutaiba Olayyan | Palestine | 3,264 |
 
 ## Public Contributions
 
@@ -53,10 +53,10 @@ Indexed users: 2,208
 | 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
 | 15 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 802 |
 | 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 774 |
-| 17 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Palestine | 718 |
-| 18 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Palestine | 717 |
-| 19 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti | Palestine | 710 |
-| 20 | [yaseen-asaliya](https://github.com/yaseen-asaliya) | Yaseen Asaliya | Palestine | 643 |
+| 17 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | palestine | 721 |
+| 18 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Palestine | 718 |
+| 19 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Palestine | 717 |
+| 20 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti | Palestine | 710 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,208
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-10T23:37:38.157Z
+Generated: 2026-10-11T01:28:54.923Z

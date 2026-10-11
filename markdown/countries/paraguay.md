@@ -1,6 +1,6 @@
 # Paraguay
 
-Indexed users: 2,020
+Indexed users: 2,019
 
 | Leaderboard | Link |
 |---|---|
@@ -44,12 +44,12 @@ Indexed users: 2,020
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 2,181 |
 | 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez | Paraguay | 1,870 |
 | 7 | [raczajko](https://github.com/raczajko) | Raúl Aguiar Czajkowski | Paraguay | 1,512 |
-| 8 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 1,377 |
-| 9 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
-| 10 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,290 |
-| 11 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,103 |
-| 12 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,089 |
-| 13 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,072 |
+| 8 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 1,349 |
+| 9 | [stevenayal](https://github.com/stevenayal) | Steven Ayala | Asunción, Paraguay | 1,290 |
+| 10 | [ciroiriarte](https://github.com/ciroiriarte) | Ciro Iriarte | Paraguay | 1,103 |
+| 11 | [m2f0](https://github.com/m2f0) | Mario Mayerle | Paraguay/USA | 1,089 |
+| 12 | [zot24](https://github.com/zot24) |  | Asuncion, Paraguay | 1,072 |
+| 13 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 980 |
 | 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | Paraguay | 948 |
 | 15 | [janparkio](https://github.com/janparkio) | Jan Park | Paraguay | 915 |
 | 16 | [da21nny](https://github.com/da21nny) | Edgar Vega | Paraguay | 906 |
@@ -66,7 +66,7 @@ Indexed users: 2,020
 | 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 590 |
 | 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Asunción, Paraguay | 527 |
 | 4 | [crodas](https://github.com/crodas) | C | Asunción, Paraguay | 424 |
-| 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 408 |
+| 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 387 |
 | 6 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | Paraguay | 383 |
 | 7 | [tchx84](https://github.com/tchx84) | Martin Abente Lahaye | Paraguay | 262 |
 | 8 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 230 |
@@ -76,11 +76,11 @@ Indexed users: 2,020
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 181 |
 | 13 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
 | 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 148 |
-| 15 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 140 |
-| 16 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 134 |
-| 17 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 128 |
+| 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  | Paraguay | 134 |
+| 16 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | Fernando de la Mora, Central, Paraguay | 128 |
+| 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo | Paraguay | 125 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte | Ciudad del Este,  Paraguay | 118 |
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-10T23:39:33.418Z
+Generated: 2026-10-11T01:30:24.072Z

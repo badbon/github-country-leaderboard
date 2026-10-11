@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-10T23:30:27.211Z
+Generated: 2026-10-11T01:22:23.523Z
 
 Users: 111
 
@@ -14,7 +14,7 @@ Users: 111
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 463 |
 | 7 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | none |  | New-Caledonia | 365 |
 | 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 335 |
-| 9 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 316 |
+| 9 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 322 |
 | 10 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 284 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 224 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 221 |

@@ -1,8 +1,8 @@
 # Followers - Qatar
 
-Generated: 2026-10-10T23:41:11.805Z
+Generated: 2026-10-11T01:33:39.200Z
 
-Users: 1075
+Users: 1073
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 1075
 | 12 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Primary Health Care Corporation |  | Doha - Qatar | 127 |
 | 13 | [mbrksntrk](https://github.com/mbrksntrk) | M Burak Şentürk | Boğaziçi Üniversitesi | mbrksntrk | Doha, Qatar | 124 |
 | 14 | [sahar-chatti](https://github.com/sahar-chatti) | Sahar Chatti | United Systema |  | Qatar | 113 |
-| 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil |  | akhalil_qa | Qatar | 109 |
+| 15 | [akhalil-qa](https://github.com/akhalil-qa) | Ahmed Khalil |  | akhalil_qa | Qatar | 110 |
 | 16 | [thouseef-hamza](https://github.com/thouseef-hamza) | Thouseef Hamza T P |  |  | Doha, Qatar | 108 |
 | 17 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 107 |
 | 18 | [thm-msror](https://github.com/thm-msror) | Tehreem Masroor |  |  | Al-Rayyan, Qatar | 107 |
-| 19 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Software Engineer | brainconnect0 | Al-Wakrah, Qatar | 100 |
-| 20 | [gracekabaghe](https://github.com/gracekabaghe) | Grace Kabaghe | @microverseinc  |  | Qatar | 92 |
+| 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman |  |  | Doha, Qatar | 101 |
+| 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Software Engineer | brainconnect0 | Al-Wakrah, Qatar | 100 |

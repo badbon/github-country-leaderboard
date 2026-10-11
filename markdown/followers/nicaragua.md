@@ -1,6 +1,6 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-10T23:32:26.207Z
+Generated: 2026-10-11T01:23:32.354Z
 
 Users: 1400
 
@@ -15,7 +15,7 @@ Users: 1400
 | 7 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | @Nixtla |  | Nicaragua | 121 |
 | 8 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda |  |  | Leon, Nicaragua | 115 |
 | 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana |  | hosmelq | Managua, Nic | 109 |
-| 10 | [Ualb](https://github.com/Ualb) | Ulises López |  | starts_off | Managua. Nic | 99 |
+| 10 | [Ualb](https://github.com/Ualb) | Ulises López |  | starts_off | Managua. Nic | 101 |
 | 11 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Sosafe | soyjimmysaenz | Managua, Nicaragua | 91 |
 | 12 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Freelance |  | Estelí, Nicaragua | 79 |
 | 13 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez |  |  | Managua, Nicaragua | 79 |
