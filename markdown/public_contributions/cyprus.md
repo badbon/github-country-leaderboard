@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-11T14:12:52.612Z
+Generated: 2026-10-11T15:47:30.360Z
 
 Users: 2738
 
@@ -18,11 +18,11 @@ Users: 2738
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Candaş Öz |  | Kıbrıs | 3467 |
 | 11 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 3289 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | KAINOTOMO PH LTD  |  | Cyprus  | 3137 |
-| 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 2706 |
-| 14 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2695 |
-| 15 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 2670 |
-| 16 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Lead Dev @boundary-digital / Building @ensemblr-hq |  | Limassol, Cyprus | 2614 |
-| 17 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 2444 |
-| 18 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray |  |  | Cyprus | 2361 |
-| 19 | [slima4](https://github.com/slima4) | Artem Senenko |  |  | Nicosia, Cyprus | 2345 |
-| 20 | [sakno](https://github.com/sakno) | Roman Sakno | Kurrent.io |  | Nicosia, Cyprus | 2336 |
+| 13 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 3112 |
+| 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov |  |  | Cyprus, Limassol | 2706 |
+| 15 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2695 |
+| 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 2670 |
+| 17 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Lead Dev @boundary-digital / Building @ensemblr-hq |  | Limassol, Cyprus | 2614 |
+| 18 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 2444 |
+| 19 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray |  |  | Cyprus | 2361 |
+| 20 | [slima4](https://github.com/slima4) | Artem Senenko |  |  | Nicosia, Cyprus | 2345 |

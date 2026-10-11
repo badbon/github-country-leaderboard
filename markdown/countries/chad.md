@@ -13,12 +13,12 @@ Indexed users: 201
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,012 |
-| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,393 |
+| 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,397 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 678 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 628 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 514 |
-| 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 240 |
-| 7 | [mittb1g](https://github.com/mittb1g) |  | Chad | 233 |
+| 6 | [mittb1g](https://github.com/mittb1g) |  | Chad | 244 |
+| 7 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 240 |
 | 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 233 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
 | 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 179 |
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-11T14:10:49.639Z
+Generated: 2026-10-11T15:41:59.947Z

@@ -1,8 +1,8 @@
 # Public Contributions - United Arab Emirates
 
-Generated: 2026-10-11T13:53:43.694Z
+Generated: 2026-10-11T15:24:57.389Z
 
-Users: 4245
+Users: 4244
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 4245
 | 12 | [aroff](https://github.com/aroff) | Alex Oliveira |  |  | United Arab Emirates | 2753 |
 | 13 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Rockstar games | HaseebMir91 | Dubai,United Arab Emirates | 2460 |
 | 14 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich |  | drakulavich | Abu Dhabi, UAE | 2378 |
-| 15 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall |  |  | Abu Dhabi | 2172 |
+| 15 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall |  |  | Abu Dhabi | 2146 |
 | 16 | [fidellim](https://github.com/fidellim) | Fidel Lim |  |  | Abu Dhabi, UAE | 2094 |
 | 17 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | DMT |  | Abu Dhabi, United Arab Emirates | 2037 |
 | 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela |  |  | Dubai, United Arab Emirates | 2025 |

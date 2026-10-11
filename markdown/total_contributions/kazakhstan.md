@@ -1,8 +1,8 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-11T14:33:55.188Z
+Generated: 2026-10-11T16:04:42.187Z
 
-Users: 5664
+Users: 5663
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -24,5 +24,5 @@ Users: 5664
 | 16 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Ozon |  | Kazakhstan | 8323 |
 | 17 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |
 | 18 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Higgsfield AI |  | Kazakhstan, Astana | 8236 |
-| 19 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov |  |  | Almaty, Kazakhstan | 7925 |
-| 20 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit |  |  | Almaty, Kazakhstan | 7687 |
+| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 8145 |
+| 20 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov |  |  | Almaty, Kazakhstan | 7925 |

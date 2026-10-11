@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,245
+Indexed users: 4,244
 
 | Leaderboard | Link |
 |---|---|
@@ -51,7 +51,7 @@ Indexed users: 4,245
 | 12 | [aroff](https://github.com/aroff) | Alex Oliveira | United Arab Emirates | 2,753 |
 | 13 | [haseeb-heaven](https://github.com/haseeb-heaven) | Haseeb Heaven | Dubai,United Arab Emirates | 2,460 |
 | 14 | [drakulavich](https://github.com/drakulavich) | Anton Yakutovich | Abu Dhabi, UAE | 2,378 |
-| 15 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,172 |
+| 15 | [avinash-mall](https://github.com/avinash-mall) | Avinash Mall | Abu Dhabi | 2,146 |
 | 16 | [fidellim](https://github.com/fidellim) | Fidel Lim | Abu Dhabi, UAE | 2,094 |
 | 17 | [Gaurav-Gosain](https://github.com/Gaurav-Gosain) | Gaurav Gosain | Abu Dhabi, United Arab Emirates | 2,037 |
 | 18 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 2,025 |
@@ -83,4 +83,4 @@ Indexed users: 4,245
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-11T13:53:43.694Z
+Generated: 2026-10-11T15:24:57.389Z

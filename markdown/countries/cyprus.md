@@ -12,8 +12,8 @@ Indexed users: 2,738
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
-| 2 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 16,217 |
+| 1 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,421 |
+| 2 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
 | 3 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 15,657 |
 | 4 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
 | 5 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
@@ -49,14 +49,14 @@ Indexed users: 2,738
 | 10 | [candasoz01-cmd](https://github.com/candasoz01-cmd) | Candaş Öz | Kıbrıs | 3,467 |
 | 11 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 3,289 |
 | 12 | [phalouvas](https://github.com/phalouvas) | Panayiotis Halouvas | Cyprus  | 3,137 |
-| 13 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
-| 14 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
-| 15 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
-| 16 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
-| 17 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
-| 18 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray | Cyprus | 2,361 |
-| 19 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
-| 20 | [sakno](https://github.com/sakno) | Roman Sakno | Nicosia, Cyprus | 2,336 |
+| 13 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 3,112 |
+| 14 | [Disentinel](https://github.com/Disentinel) | Vadim Reshetnikov | Cyprus, Limassol | 2,706 |
+| 15 | [nekto007](https://github.com/nekto007) | Igor | Limassol, Cyprus | 2,695 |
+| 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | Cyprus | 2,670 |
+| 17 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Limassol, Cyprus | 2,614 |
+| 18 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko | Limassol, Cyprus | 2,444 |
+| 19 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray | Cyprus | 2,361 |
+| 20 | [slima4](https://github.com/slima4) | Artem Senenko | Nicosia, Cyprus | 2,345 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,738
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-11T14:12:52.612Z
+Generated: 2026-10-11T15:47:30.360Z

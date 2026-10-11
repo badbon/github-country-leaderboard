@@ -26,12 +26,12 @@ Indexed users: 3,875
 | 12 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
 | 13 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,555 |
 | 14 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,428 |
-| 15 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 7,031 |
-| 16 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | Uganda kampala | 6,956 |
-| 17 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,942 |
-| 18 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
-| 19 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
+| 15 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
+| 16 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 7,031 |
+| 17 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | Uganda kampala | 6,956 |
+| 18 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,942 |
+| 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
+| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,875
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-11T13:52:18.591Z
+Generated: 2026-10-11T15:24:49.184Z

@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-11T14:06:34.233Z
+Generated: 2026-10-11T15:37:06.690Z
 
 Users: 2129
 
@@ -22,7 +22,7 @@ Users: 2129
 | 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović |  | k_imamovic | Bosnia and Herzegovina | 1141 |
 | 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Pixerize |  | Sarajevo, Bosnia and Herzegovina | 1099 |
 | 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |
-| 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota |  |  | Sarajevo, BiH | 892 |
+| 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota |  |  | Sarajevo, BiH | 794 |
 | 18 | [esensar](https://github.com/esensar) | Ensar Sarajčić |  |  | Sarajevo, Bosnia and Herzegovina | 719 |
 | 19 | [zalom](https://github.com/zalom) | Zlatko Alomerovic |  |  | Tuzla, Bosnia and Herzegovina | 716 |
 | 20 | [full-stack-web-developer-and-designer](https://github.com/full-stack-web-developer-and-designer) | Mirnes Glamočić |  | mirnesglamocic | Jajce, Bosnia and Herzegovina | 701 |

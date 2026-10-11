@@ -1,12 +1,12 @@
 # Followers - Cocos (Keeling) Islands
 
-Generated: 2026-10-11T14:11:59.869Z
+Generated: 2026-10-11T15:43:33.483Z
 
 Users: 9
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto |  |  | Cocos (Keeling) Islands | 148 |
+| 1 | [rohwid](https://github.com/rohwid) | Rohman Widiyanto |  |  | Cocos (Keeling) Islands | 149 |
 | 2 | [getsalmon](https://github.com/getsalmon) | nton |  |  | Cocos Islands | 9 |
 | 3 | [chullybun](https://github.com/chullybun) | Eric Sibly [chullybun] |  |  | West Island of New Zealand (aka Australia) | 7 |
 | 4 | [freakaton](https://github.com/freakaton) | Ivan Lavrenov |  |  | Cocos Islands | 6 |

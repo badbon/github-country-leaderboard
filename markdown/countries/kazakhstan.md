@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,664
+Indexed users: 5,663
 
 | Leaderboard | Link |
 |---|---|
@@ -30,8 +30,8 @@ Indexed users: 5,664
 | 16 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
 | 17 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
 | 18 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
-| 19 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov | Almaty, Kazakhstan | 7,925 |
-| 20 | [abdymazhit](https://github.com/abdymazhit) | Islam Abdymazhit | Almaty, Kazakhstan | 7,687 |
+| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
+| 20 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov | Almaty, Kazakhstan | 7,925 |
 
 ## Public Contributions
 
@@ -41,16 +41,16 @@ Indexed users: 5,664
 | 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 11,946 |
 | 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
 | 4 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | Kazakhstan, Kostanay | 5,428 |
-| 5 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 5,166 |
-| 6 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
-| 7 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
-| 8 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
-| 9 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
-| 10 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
-| 11 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
-| 12 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
-| 13 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,354 |
-| 14 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 2,336 |
+| 5 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 5,175 |
+| 6 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 5,166 |
+| 7 | [yaskhan](https://github.com/yaskhan) | Yaskhan | Kazakhstan | 3,748 |
+| 8 | [skulmakov-oss](https://github.com/skulmakov-oss) | Said | Kazakhstan | 3,646 |
+| 9 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
+| 10 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
+| 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
+| 12 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
+| 13 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
+| 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,354 |
 | 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
 | 16 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 2,191 |
 | 17 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,179 |
@@ -83,4 +83,4 @@ Indexed users: 5,664
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-11T14:33:55.188Z
+Generated: 2026-10-11T16:04:42.187Z

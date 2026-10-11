@@ -53,7 +53,7 @@ Indexed users: 2,129
 | 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,141 |
 | 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,099 |
 | 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
-| 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 892 |
+| 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 794 |
 | 18 | [esensar](https://github.com/esensar) | Ensar Sarajčić | Sarajevo, Bosnia and Herzegovina | 719 |
 | 19 | [zalom](https://github.com/zalom) | Zlatko Alomerovic | Tuzla, Bosnia and Herzegovina | 716 |
 | 20 | [full-stack-web-developer-and-designer](https://github.com/full-stack-web-developer-and-designer) | Mirnes Glamočić | Jajce, Bosnia and Herzegovina | 701 |
@@ -83,4 +83,4 @@ Indexed users: 2,129
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-11T14:06:34.233Z
+Generated: 2026-10-11T15:37:06.690Z

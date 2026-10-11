@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-11T13:48:20.338Z
+Generated: 2026-10-11T15:19:12.372Z
 
 Users: 711
 
@@ -24,5 +24,5 @@ Users: 711
 | 16 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2932 |
 | 17 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | MTM, FARDO |  | Dushanbe | 2839 |
 | 18 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov |  |  | Dushanbe | 2739 |
-| 19 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2682 |
-| 20 | [iamnoseh](https://github.com/iamnoseh) | Noseh Taghaymurodzoda | Kavsar Academy |  | Tajikistan | 2668 |
+| 19 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | @Paydo-Team |  | Tajikistan, Dushanbe | 2713 |
+| 20 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | @Silk-Road-Professionals |  | Tajikistan | 2682 |

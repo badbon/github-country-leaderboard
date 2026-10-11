@@ -1,6 +1,6 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-11T13:52:18.591Z
+Generated: 2026-10-11T15:24:49.184Z
 
 Users: 3875
 
@@ -20,9 +20,9 @@ Users: 3875
 | 12 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Eagle Info Solutions |  | Kampala, Uganda | 7556 |
 | 13 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth |  | kansiime_keneth | kampala, Ug | 7555 |
 | 14 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7428 |
-| 15 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 7031 |
-| 16 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | @Gamered | jdevoc | Uganda kampala | 6956 |
-| 17 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Mobiklinic |  | Kampala, Uganda | 6942 |
-| 18 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
-| 19 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |
-| 20 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | @opensource-now @open-nux @nuxjs @wearedelovery | kayondoedward | Kampala, Uganda | 6514 |
+| 15 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
+| 16 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 7031 |
+| 17 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | @Gamered | jdevoc | Uganda kampala | 6956 |
+| 18 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Mobiklinic |  | Kampala, Uganda | 6942 |
+| 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
+| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |

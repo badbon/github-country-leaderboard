@@ -1,13 +1,13 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-11T14:12:52.612Z
+Generated: 2026-10-11T15:47:30.360Z
 
 Users: 2738
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [linegel](https://github.com/linegel) | Eugène P. | @brainrocket | linege1 | Limassol, Cyprus | 22798 |
-| 2 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 16217 |
+| 1 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | @stapolar  |  | nicosia, cyprus | 23421 |
+| 2 | [linegel](https://github.com/linegel) | Eugène P. | @brainrocket | linege1 | Limassol, Cyprus | 22798 |
 | 3 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou |  | andyasprou | Cyprus | 15657 |
 | 4 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | FaceApp |  | Limassol, Cyprus | 14588 |
 | 5 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 14035 |
