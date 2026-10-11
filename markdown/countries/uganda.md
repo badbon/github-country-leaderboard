@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,877
+Indexed users: 3,876
 
 | Leaderboard | Link |
 |---|---|
@@ -50,13 +50,13 @@ Indexed users: 3,877
 | 11 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
 | 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
 | 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
-| 14 | [kasasa22](https://github.com/kasasa22) | Kasasa Livingstone Trevor | Uganda | 2,056 |
-| 15 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
-| 16 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
+| 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
+| 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
+| 16 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
 | 17 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
-| 18 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,917 |
-| 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
-| 20 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
+| 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
+| 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
+| 20 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 1,765 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,877
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-11T07:00:22.095Z
+Generated: 2026-10-11T08:41:32.002Z

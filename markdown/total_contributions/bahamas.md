@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-11T07:11:17.937Z
+Generated: 2026-10-11T08:53:33.257Z
 
 Users: 236
 
@@ -22,7 +22,7 @@ Users: 236
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 767 |
 | 15 | [Clearwood](https://github.com/Clearwood) |  |  | 0xKeno | Bahamas | 745 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams |  |  | Nassau Bahamas | 711 |
-| 17 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 546 |
-| 18 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 539 |
+| 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 567 |
+| 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | @archipelagoapps | nhayling_ | Nassau, The Bahamas | 546 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 323 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 285 |

@@ -20,13 +20,13 @@ Indexed users: 215
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 6,786 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 6,272 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 5,781 |
-| 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,146 |
+| 9 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,145 |
 | 10 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz | Barcelona (Spain) \| Encamp (Andorra) | 5,143 |
 | 11 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,850 |
 | 12 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,838 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,943 |
 | 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,859 |
-| 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,635 |
+| 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,733 |
 | 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,424 |
 | 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,423 |
 | 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
@@ -44,7 +44,7 @@ Indexed users: 215
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 711 |
 | 6 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 697 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 688 |
-| 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 648 |
+| 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 645 |
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 613 |
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 474 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-11T07:07:21.250Z
+Generated: 2026-10-11T08:47:10.436Z

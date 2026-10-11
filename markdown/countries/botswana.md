@@ -50,7 +50,7 @@ Indexed users: 533
 | 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 12 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 528 |
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 493 |
-| 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 434 |
+| 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 441 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
 | 16 | [kingbaaitse](https://github.com/kingbaaitse) | Leatile King Baaitse | Gaborone, Botswana | 412 |
 | 17 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 378 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-11T07:19:51.667Z
+Generated: 2026-10-11T08:58:24.842Z

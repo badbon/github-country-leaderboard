@@ -1,6 +1,6 @@
 # Georgia
 
-Indexed users: 6,900
+Indexed users: 6,901
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 6,900
 | 8 | [thedavidmeister](https://github.com/thedavidmeister) | David Meister | Tbilisi | 13,937 |
 | 9 | [Krut](https://github.com/Krut) | Michael Krautwald | Tbilisi, Georgia | 12,892 |
 | 10 | [z12ob](https://github.com/z12ob) | Guram Melikidze | Tbilisi | 12,688 |
-| 11 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
-| 12 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 12,249 |
-| 13 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
-| 14 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 11,451 |
-| 15 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Tbilisi, Georgia | 11,295 |
-| 16 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze | Ambrolauri,Georgia | 11,294 |
-| 17 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 11,195 |
-| 18 | [YuryBaranikhin](https://github.com/YuryBaranikhin) | Yury Baranikhin | Tbilisi | 10,474 |
-| 19 | [armanobosyan](https://github.com/armanobosyan) | Arman Obosyan | Tbilisi, Georgia | 10,311 |
-| 20 | [Reei-dp](https://github.com/Reei-dp) | Riyo | Georgia | 10,105 |
+| 11 | [Chkhikvadzeg](https://github.com/Chkhikvadzeg) | Giorgi Chkhikvadze | Tbilisi, Georgia | 12,539 |
+| 12 | [badbon](https://github.com/badbon) | bolko | Georgia | 12,412 |
+| 13 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek | Tbilisi | 12,249 |
+| 14 | [irakli-lekishvili](https://github.com/irakli-lekishvili) | Irakli Lekishvili | Tbilisi, Georgia | 11,858 |
+| 15 | [kevinthelago](https://github.com/kevinthelago) | Kevin Lago | Georgia | 11,451 |
+| 16 | [JEuler](https://github.com/JEuler) | Ivan Terekhin | Tbilisi, Georgia | 11,295 |
+| 17 | [l0rtk](https://github.com/l0rtk) | Luka Lortkipanidze | Ambrolauri,Georgia | 11,294 |
+| 18 | [lexfrei](https://github.com/lexfrei) | Aleksei Sviridkin | Tbilisi | 11,195 |
+| 19 | [Nikagagua](https://github.com/Nikagagua) | Nika Gagua | Georgia | 10,862 |
+| 20 | [YuryBaranikhin](https://github.com/YuryBaranikhin) | Yury Baranikhin | Tbilisi | 10,474 |
 
 ## Public Contributions
 
@@ -46,8 +46,8 @@ Indexed users: 6,900
 | 7 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski | Batumi, Georgia | 4,735 |
 | 8 | [smira](https://github.com/smira) | Andrey Smirnov | Georgia | 4,629 |
 | 9 | [lperto](https://github.com/lperto) | Lasha Pertakhia | Tbilisi | 4,195 |
-| 10 | [explosivebit](https://github.com/explosivebit) | Eli Rum | Tbilisi | 3,960 |
-| 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs | Georgia | 3,620 |
+| 10 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs | Georgia | 4,064 |
+| 11 | [explosivebit](https://github.com/explosivebit) | Eli Rum | Tbilisi | 3,960 |
 | 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 3,522 |
 | 13 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Tbilisi | 3,442 |
 | 14 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | Tbilisi | 3,344 |
@@ -65,7 +65,7 @@ Indexed users: 6,900
 | 1 | [thecodeholic](https://github.com/thecodeholic) | TheCodeholic | Tbilisi, Georgia | 3,756 |
 | 2 | [riseansmal](https://github.com/riseansmal) | Ri Sean Smal | Tbilisi, Georgia | 2,603 |
 | 3 | [catherineisonline](https://github.com/catherineisonline) | Ekaterine Mitagvaria | From Tbilisi, Georgia | 2,296 |
-| 4 | [heinodendal](https://github.com/heinodendal) | Hein Odendal | Tbilisi, Georgia | 937 |
+| 4 | [heinodendal](https://github.com/heinodendal) | Hein Odendal | Tbilisi, Georgia | 922 |
 | 5 | [quasilyte](https://github.com/quasilyte) | quasilyte | Georgia | 843 |
 | 6 | [dachi-khelashvili](https://github.com/dachi-khelashvili) | Dachi Khelashvili | Tbilisi, Georgia | 749 |
 | 7 | [muladz3gio](https://github.com/muladz3gio) | muladz3gio | Georgia, Tbilisi | 725 |
@@ -83,4 +83,4 @@ Indexed users: 6,900
 | 19 | [h-mdm](https://github.com/h-mdm) | Headwind MDM | Iustine Abuladze st. N15, Tbilisi, Georgia | 396 |
 | 20 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | Tbilisi, Georgia | 392 |
 
-Generated: 2026-10-11T07:05:22.527Z
+Generated: 2026-10-11T09:13:05.304Z

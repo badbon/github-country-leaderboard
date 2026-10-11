@@ -1,8 +1,8 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-11T07:05:22.527Z
+Generated: 2026-10-11T09:13:05.304Z
 
-Users: 6900
+Users: 6901
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,8 +15,8 @@ Users: 6900
 | 7 | [Komzpa](https://github.com/Komzpa) | Darafei Praliaskouski |  |  | Batumi, Georgia | 4735 |
 | 8 | [smira](https://github.com/smira) | Andrey Smirnov | @siderolabs  | smira | Georgia | 4629 |
 | 9 | [lperto](https://github.com/lperto) | Lasha Pertakhia |  | lpertakhia | Tbilisi | 4195 |
-| 10 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3960 |
-| 11 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 3620 |
+| 10 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 4064 |
+| 11 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3960 |
 | 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
 | 13 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
 | 14 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |

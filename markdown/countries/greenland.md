@@ -13,7 +13,7 @@ Indexed users: 59
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,956 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,821 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,805 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,457 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,272 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 899 |
@@ -65,7 +65,7 @@ Indexed users: 59
 | 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,514 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,225 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,025 |
-| 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 291 |
+| 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 292 |
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 202 |
 | 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 151 |
 | 7 | [Nelson-Cheung](https://github.com/Nelson-Cheung) | Nelson Cheung | Greenland | 89 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-11T07:39:21.286Z
+Generated: 2026-10-11T09:18:52.033Z

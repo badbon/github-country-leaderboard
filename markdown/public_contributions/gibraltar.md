@@ -1,12 +1,12 @@
 # Public Contributions - Gibraltar
 
-Generated: 2026-10-11T07:38:15.159Z
+Generated: 2026-10-11T09:17:19.942Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5663 |
+| 1 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5658 |
 | 2 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 1907 |
 | 3 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 580 |
 | 4 | [ajedrezpremium](https://github.com/ajedrezpremium) | Ajedrez Premium | AJEDREZ PREMIUM |  | GIBRALTAR | 494 |

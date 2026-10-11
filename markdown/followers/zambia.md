@@ -1,12 +1,12 @@
 # Followers - Zambia
 
-Generated: 2026-10-11T07:05:02.128Z
+Generated: 2026-10-11T08:45:21.300Z
 
 Users: 1342
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [malgamves](https://github.com/malgamves) | Daniel Madalitso Phiri |  | malgamves | Lusaka, Zambia | 432 |
+| 1 | [malgamves](https://github.com/malgamves) | Daniel Madalitso Phiri |  | malgamves | Lusaka, Zambia | 433 |
 | 2 | [Billypeterlennards](https://github.com/Billypeterlennards) | Billy Peter Munyenyembe | Briisp Academy  |  | Lusaka,Zambia | 392 |
 | 3 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa |  |  | Zambia | 302 |
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | KmkCoder |  | Ndola, Zambia | 233 |
@@ -15,7 +15,7 @@ Users: 1342
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 193 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | @pencilcasestudios  | silumesii | Zambia | 163 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi |  |  | Lusaka, Zambia | 161 |
-| 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | @EducoreServices |  | Zambia | 152 |
+| 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | @EducoreServices |  | Zambia | 147 |
 | 11 | [akebu6](https://github.com/akebu6) | Akebu | @TheZigGroup  | akebu6 | Zambia | 133 |
 | 12 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh |  |  | Lusaka, Zambia | 122 |
 | 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe |  | geraldmaboshe | Lusaka, Zambia | 116 |

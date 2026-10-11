@@ -21,8 +21,8 @@ Indexed users: 325
 | 7 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker | Suva City, Central, Fiji | 1,042 |
 | 8 | [jaclla](https://github.com/jaclla) | Logic | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,026 |
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,009 |
-| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 893 |
-| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 891 |
+| 10 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah | SUVA | 893 |
+| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 893 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 815 |
 | 13 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Suva | 644 |
 | 14 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt | Fiji | 626 |
@@ -46,7 +46,7 @@ Indexed users: 325
 | 7 | [alexwoo79](https://github.com/alexwoo79) | Alex_Woo | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 279 |
 | 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 253 |
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 233 |
-| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 230 |
+| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 222 |
 | 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Fiji | 214 |
 | 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo | Fiji | 183 |
 | 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew | Fiji | 182 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-11T07:34:55.678Z
+Generated: 2026-10-11T09:15:12.039Z

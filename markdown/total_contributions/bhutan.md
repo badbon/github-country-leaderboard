@@ -1,12 +1,12 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-11T07:18:23.208Z
+Generated: 2026-10-11T08:56:29.635Z
 
 Users: 268
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | @Cloud-Bhutan  | trigdzeen | Thimphu, Bhutan | 5757 |
+| 1 | [tshewang-rinzin](https://github.com/tshewang-rinzin) | Tshewang Rinzin | @Cloud-Bhutan  | trigdzeen | Thimphu, Bhutan | 5803 |
 | 2 | [tenztshering](https://github.com/tenztshering) | Tenzin Tshering |  |  | Thimphu, Bhutan | 5096 |
 | 3 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer |  | kzoeps | Thimphu, Bhutan | 3609 |
 | 4 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 3511 |

@@ -1,6 +1,6 @@
 # Public Contributions - Åland Islands
 
-Generated: 2026-10-11T07:06:30.731Z
+Generated: 2026-10-11T08:46:55.429Z
 
 Users: 61
 
@@ -13,10 +13,10 @@ Users: 61
 | 5 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | @enfuce  |  | Mariehamn | 581 |
 | 6 | [kejpa](https://github.com/kejpa) | Kjell Hansen |  |  | Mariehamn, Åland Islands | 528 |
 | 7 | [karusmari](https://github.com/karusmari) | Maris Karu | Gritlab |  | Åland Islands | 465 |
-| 8 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | @DeductiveLabs @Sofecta @SofectaLabs  | khalavak | Åland Islands | 391 |
+| 8 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | @DeductiveLabs @Sofecta @SofectaLabs  | khalavak | Åland Islands | 388 |
 | 9 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen |  |  | Aland Islands | 211 |
 | 10 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Grit:lab |  | Mariehamn | 182 |
-| 11 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 135 |
+| 11 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh |  |  | Mariehamn, Åland | 134 |
 | 12 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh |  |  | Mariehamn, Åland islands | 132 |
 | 13 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | WebSnabb | hmenorjr | Åland Islands, Finland | 88 |
 | 14 | [giAddams](https://github.com/giAddams) | Geraldine Addamo |  |  | Mariehamn | 80 |

@@ -1,13 +1,13 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-11T07:12:35.037Z
+Generated: 2026-10-11T08:54:07.468Z
 
 Users: 729
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri |  |  | Bahrain | 118426 |
-| 2 | [a7md](https://github.com/a7md) | {ahmed} |  |  | Bahrain | 12599 |
+| 2 | [a7md](https://github.com/a7md) | {ahmed} |  |  | Bahrain | 12695 |
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 10309 |
 | 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 6282 |
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 6013 |
@@ -21,7 +21,7 @@ Users: 729
 | 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4119 |
 | 14 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 4114 |
 | 15 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3774 |
-| 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3769 |
+| 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3760 |
 | 17 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN |  |  | Bahrain | 3638 |
 | 18 | [Kwaddo](https://github.com/Kwaddo) | Quad |  |  | Bahrain | 3263 |
 | 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain Polytechnic |  | Bahrain | 3226 |

@@ -1,6 +1,6 @@
 # Public Contributions - Botswana
 
-Generated: 2026-10-11T07:19:51.667Z
+Generated: 2026-10-11T08:58:24.842Z
 
 Users: 533
 
@@ -19,7 +19,7 @@ Users: 533
 | 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA |  |  | Botswana 🇧🇼  | 543 |
 | 12 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Fountspark pty ltd |  | Gaborone | 528 |
 | 13 | [loag0](https://github.com/loag0) | Loago Moremi |  |  | Botswana | 493 |
-| 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana International University of Science and Technology |  | Botswana | 434 |
+| 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana International University of Science and Technology |  | Botswana | 441 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | University of Botswana | justindotdev | Gaborone, Botswana | 430 |
 | 16 | [kingbaaitse](https://github.com/kingbaaitse) | Leatile King Baaitse | Oratory League | kingbaaitse | Gaborone, Botswana | 412 |
 | 17 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 378 |

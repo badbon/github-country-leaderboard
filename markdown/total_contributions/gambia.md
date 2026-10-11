@@ -1,13 +1,13 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-11T07:37:54.829Z
+Generated: 2026-10-11T09:16:41.885Z
 
 Users: 80
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3466 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3096 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3100 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | MEST Africa \|\| Ex Kuringo | aduboyjarjusey | Gambia | 2602 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1476 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane |  | alieundimz | Gambia | 1331 |
@@ -25,4 +25,4 @@ Users: 80
 | 17 | [fiture99](https://github.com/fiture99) | Lamin Jawneh |  | jawneh_lamin | Banjul, Gambia | 209 |
 | 18 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 205 |
 | 19 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | @LSHTM @MRCG |  | Banjul, Gambia | 177 |
-| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 157 |
+| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Medical Research Council The Gambia Unit at London School of Hygiene and Tropical medicine |  | Gambia | 156 |

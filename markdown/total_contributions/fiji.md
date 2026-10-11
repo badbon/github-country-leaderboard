@@ -1,6 +1,6 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-11T07:34:55.678Z
+Generated: 2026-10-11T09:15:12.039Z
 
 Users: 325
 
@@ -15,8 +15,8 @@ Users: 325
 | 7 | [navneil-naicker](https://github.com/navneil-naicker) | Navneil Naicker |  |  | Suva City, Central, Fiji | 1042 |
 | 8 | [jaclla](https://github.com/jaclla) | Logic | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1026 |
 | 9 | [ApophisX](https://github.com/ApophisX) | GienWang | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1009 |
-| 10 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 893 |
-| 11 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 891 |
+| 10 | [Eddie115-x](https://github.com/Eddie115-x) | Adrian Obadiah |  |  | SUVA | 893 |
+| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 893 |
 | 12 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 815 |
 | 13 | [kishkumar96](https://github.com/kishkumar96) | Kishan Chimman Kumar | Pacific Community |  | Suva | 644 |
 | 14 | [rahulduttt](https://github.com/rahulduttt) | Rahul Dutt |  |  | Fiji | 626 |

@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-11T07:04:57.815Z
+Generated: 2026-10-11T08:43:51.384Z
 
 Users: 1209
 
@@ -12,7 +12,7 @@ Users: 1209
 | 4 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
 | 5 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6050 |
 | 6 | [ken00H](https://github.com/ken00H) |  | NerdMagic Games |  | Yemen | 3498 |
-| 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati |  | alqubatihakim | Yemen | 3321 |
+| 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | NLT Software (Malaysia) | alqubatihakim | Yemen | 3481 |
 | 8 | [mibo01699](https://github.com/mibo01699) | Mayass Ali  | Arabian Eagle A.E.C . 🌐🦅 | Arabianeagleaec | Yemen  | 2133 |
 | 9 | [Ammar-1993](https://github.com/Ammar-1993) | Ammar Al-Najjar | Freelance |  | Yemen | 2076 |
 | 10 | [Hamza-ye](https://github.com/Hamza-ye) | Hamza | NMCP |  | Yemen | 1856 |

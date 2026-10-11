@@ -12,23 +12,23 @@ Indexed users: 67
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 14,952 |
+| 1 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 14,971 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 6,415 |
-| 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,364 |
+| 3 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 5,348 |
 | 4 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 3,313 |
 | 5 | [RudiPersson](https://github.com/RudiPersson) | Rudi Persson | Tórshavn, Faroe Islands | 2,732 |
-| 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,436 |
+| 6 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 2,425 |
 | 7 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 2,359 |
-| 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,211 |
+| 8 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 2,205 |
 | 9 | [ingipingi](https://github.com/ingipingi) | Ingi á Steinamørk | Faroe Islands | 2,035 |
-| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 1,990 |
+| 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 1,986 |
 | 11 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,441 |
 | 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,437 |
 | 13 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,031 |
 | 14 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 945 |
 | 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 872 |
 | 16 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 692 |
-| 17 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 624 |
+| 17 | [hansjd](https://github.com/hansjd) | Hans Jákup Danielsen | Faroe Islands | 619 |
 | 18 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 619 |
 | 19 | [bardurdam](https://github.com/bardurdam) | Bárður Viberg Dam | Faroe Islands | 503 |
 | 20 | [krvi](https://github.com/krvi) |  | Faroe Islands | 347 |
@@ -41,7 +41,7 @@ Indexed users: 67
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 999 |
 | 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 987 |
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 517 |
-| 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 493 |
+| 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 492 |
 | 6 | [krvi](https://github.com/krvi) |  | Faroe Islands | 347 |
 | 7 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen | Faroe Islands | 287 |
 | 8 | [olavurellefsen](https://github.com/olavurellefsen) | Olavur Ellefsen | Faroe Islands | 286 |
@@ -50,9 +50,9 @@ Indexed users: 67
 | 11 | [Femfus](https://github.com/Femfus) | Molly | Faroe Islands | 127 |
 | 12 | [mashema](https://github.com/mashema) | John Eyðstein Johannesen  | Faroe Islands | 125 |
 | 13 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 122 |
-| 14 | [forkh](https://github.com/forkh) |  | Føroyar | 104 |
-| 15 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 104 |
-| 16 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen | Faroe Islands | 93 |
+| 14 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 104 |
+| 15 | [Rogn](https://github.com/Rogn) | Hallur Holm Johannessen | Faroe Islands | 93 |
+| 16 | [forkh](https://github.com/forkh) |  | Føroyar | 91 |
 | 17 | [BergurDavidsen](https://github.com/BergurDavidsen) |  | Faroe Islands | 90 |
 | 18 | [michaelgyp](https://github.com/michaelgyp) | Michael Gusti Yanu Putra | Faroe Islands | 88 |
 | 19 | [argilzar](https://github.com/argilzar) | Brian Bischoff | Faroe Islands | 54 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-11T07:34:53.328Z
+Generated: 2026-10-11T09:15:09.265Z

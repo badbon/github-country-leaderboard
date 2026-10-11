@@ -13,7 +13,7 @@ Indexed users: 80
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,466 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,096 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,100 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,602 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,476 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,331 |
@@ -31,7 +31,7 @@ Indexed users: 80
 | 17 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
 | 18 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 205 |
 | 19 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 177 |
-| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 157 |
+| 20 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 156 |
 
 ## Public Contributions
 
@@ -46,7 +46,7 @@ Indexed users: 80
 | 7 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 234 |
 | 8 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
 | 9 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 177 |
-| 10 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 157 |
+| 10 | [Karim-Mane](https://github.com/Karim-Mane) | Karim MANE | Gambia | 156 |
 | 11 | [ONjie](https://github.com/ONjie) | Muhammed O Njie | Banjul, The Gambia | 138 |
 | 12 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 126 |
 | 13 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 125 |
@@ -83,4 +83,4 @@ Indexed users: 80
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-11T07:37:54.829Z
+Generated: 2026-10-11T09:16:41.885Z

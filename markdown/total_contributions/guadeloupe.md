@@ -1,6 +1,6 @@
 # Total Contributions - Guadeloupe
 
-Generated: 2026-10-11T07:39:30.262Z
+Generated: 2026-10-11T09:19:08.271Z
 
 Users: 87
 
@@ -14,7 +14,7 @@ Users: 87
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | @ionis-education-group |  | Guadeloupe | 1402 |
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 1386 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Blockchain Xpert Solutions | lionel_limol | Guadeloupe | 935 |
-| 9 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 689 |
+| 9 | [r1d](https://github.com/r1d) | Eric Degoul | EDSI Technologie |  | Sainte-Anne, Guadeloupe | 692 |
 | 10 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin |  |  | Le Moule, GUADELOUPE | 673 |
 | 11 | [nath971](https://github.com/nath971) | N |  |  | Guadeloupe | 658 |
 | 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 612 |
