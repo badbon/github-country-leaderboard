@@ -58765,14 +58765,14 @@
   },
   {
     "login": "clicktvdigital",
-    "name": "CLICK TV DIGITAL | Alerta EC",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/293235814?s=72&u=5c14b93b57ccfa4d34bf78525ef00182a558e95a&v=4",
+    "name": "CLICK TV DIGITAL ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293235814?s=72&u=7b6e792b4a1241ccbfa43374c5c58fe06cd69b31&v=4",
     "location": "Quito, Ecuador 🇪🇨",
     "company": "CLICK TV DIGITAL",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 455,
+    "publicContributions": 469,
     "createdAt": "2026-06-12T22:41:29Z"
   },
   {
@@ -58786,5 +58786,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-23T22:40:31Z"
+  },
+  {
+    "login": "ivanpaguay13",
+    "name": "Iván Paguay",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296565263?s=72&u=4ce473a313ed12fa7135f75c12c21aa2d6afae90&v=4",
+    "location": "Quito",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-24T15:52:46Z"
   }
 ]

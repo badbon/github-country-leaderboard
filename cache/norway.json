@@ -12272,7 +12272,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 456,
+    "publicContributions": 436,
     "createdAt": "2023-08-15T09:35:56Z"
   },
   {
@@ -12282,9 +12282,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 287,
+    "publicContributions": 138,
     "createdAt": "2023-06-06T08:30:21Z"
   },
   {
@@ -12294,9 +12294,9 @@
     "location": "Norway",
     "company": "@TelenorNorway ",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 135,
-    "publicContributions": 85,
+    "followers": 8,
+    "privateContributions": 192,
+    "publicContributions": 64,
     "createdAt": "2023-02-16T01:20:52Z"
   },
   {
@@ -12308,7 +12308,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 213,
+    "publicContributions": 51,
     "createdAt": "2023-11-27T09:20:30Z"
   },
   {
@@ -12318,9 +12318,9 @@
     "location": "Tromsø, Norway",
     "company": "UiT The Arctic University of Norway",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 559,
-    "publicContributions": 567,
+    "followers": 8,
+    "privateContributions": 610,
+    "publicContributions": 623,
     "createdAt": "2023-11-02T15:19:50Z"
   },
   {
@@ -12330,7 +12330,7 @@
     "location": "Trondheim, Norway",
     "company": "Norwegian University of Science and Technology (NTNU)",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2023-02-03T10:28:22Z"
@@ -12342,45 +12342,33 @@
     "location": "Trondheim, Norway",
     "company": "NTNU",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 323,
+    "publicContributions": 333,
     "createdAt": "2023-03-02T13:58:26Z"
-  },
-  {
-    "login": "JustablockCode",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132361344?s=72&u=0b6caa9101df68e9d9eee142660ebd93836f6d8b&v=4",
-    "location": "Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 42,
-    "createdAt": "2023-05-02T12:29:11Z"
   },
   {
     "login": "LiamFlsvik",
     "name": "Liam Følsvik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/130457674?s=72&u=3dc50097bb88bb1ae4a96179c5e3da94865f9b04&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/130457674?s=72&u=ebb0b493472eb42c5d43be8915fb1e8424e512e3&v=4",
     "location": "Norway",
     "company": "Student at NTNU Aalesund",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 72,
+    "privateContributions": 97,
     "publicContributions": 213,
     "createdAt": "2023-04-11T10:29:31Z"
   },
   {
     "login": "andreaslhjulstad",
     "name": "Andreas Lilleby Hjulstad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124878761?s=72&u=d16929343ae649f4b5036df46afbe3b39d964974&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124878761?s=72&u=81b43b4999d1db3d0b478275e2271a9482868f40&v=4",
     "location": "Trondheim, Norway",
-    "company": "",
+    "company": "Bekk",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 78,
-    "publicContributions": 49,
+    "privateContributions": 49,
+    "publicContributions": 44,
     "createdAt": "2023-02-09T10:04:07Z"
   },
   {
@@ -12402,8 +12390,8 @@
     "location": "Trondheim, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1113,
+    "followers": 8,
+    "privateContributions": 1755,
     "publicContributions": 41,
     "createdAt": "2023-03-31T06:54:34Z"
   },
@@ -12414,9 +12402,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 414,
+    "publicContributions": 382,
     "createdAt": "2023-12-08T22:23:02Z"
   },
   {
@@ -12428,7 +12416,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 161,
+    "publicContributions": 115,
     "createdAt": "2023-05-10T15:39:09Z"
   },
   {
@@ -12452,7 +12440,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 0,
     "createdAt": "2023-12-10T17:09:27Z"
   },
   {
@@ -12464,19 +12452,19 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 7,
     "createdAt": "2023-10-23T13:11:30Z"
   },
   {
     "login": "matsbak",
     "name": "Mats Bakketeig",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123639619?s=72&u=6d2fc287a77bb522781709c8aa4e677e9bb9b4ca&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123639619?s=72&u=b3a230d3aca5d2db13ab6d018dd1b9c5935d6e6c&v=4",
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 194,
-    "publicContributions": 50,
+    "privateContributions": 201,
+    "publicContributions": 37,
     "createdAt": "2023-01-26T12:12:53Z"
   },
   {
@@ -12488,7 +12476,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 4,
     "createdAt": "2023-09-12T11:24:53Z"
   },
   {

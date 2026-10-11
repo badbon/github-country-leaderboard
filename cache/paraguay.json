@@ -12319,8 +12319,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 87,
-    "publicContributions": 121,
+    "privateContributions": 92,
+    "publicContributions": 143,
     "createdAt": "2018-12-01T22:10:13Z"
   },
   {
@@ -12331,8 +12331,8 @@
     "company": "@ekumenlabs ",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 99,
-    "publicContributions": 241,
+    "privateContributions": 140,
+    "publicContributions": 229,
     "createdAt": "2018-08-03T15:19:49Z"
   },
   {
@@ -12343,8 +12343,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 3175,
-    "publicContributions": 58,
+    "privateContributions": 3849,
+    "publicContributions": 48,
     "createdAt": "2018-06-29T04:38:03Z"
   },
   {
@@ -12354,9 +12354,9 @@
     "location": "Paraguay",
     "company": "Alquimia",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 198,
-    "publicContributions": 6,
+    "followers": 19,
+    "privateContributions": 157,
+    "publicContributions": 0,
     "createdAt": "2018-01-04T23:05:51Z"
   },
   {
@@ -12367,8 +12367,8 @@
     "company": "FortyAU",
     "twitterUsername": "epeat_",
     "followers": 18,
-    "privateContributions": 526,
-    "publicContributions": 97,
+    "privateContributions": 802,
+    "publicContributions": 93,
     "createdAt": "2018-11-10T12:09:25Z"
   },
   {
@@ -12378,9 +12378,9 @@
     "location": "Ciudad del Este/Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 493,
-    "publicContributions": 81,
+    "followers": 19,
+    "privateContributions": 1008,
+    "publicContributions": 41,
     "createdAt": "2018-06-09T17:26:08Z"
   },
   {
@@ -12398,13 +12398,13 @@
   {
     "login": "stevenayal",
     "name": "Steven Ayala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34927429?s=72&u=c0312bfd7ce18305b07771c2dade8d8e7892549c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/34927429?s=72&u=1069b9895b2224a4007525fee09c49a5e027b737&v=4",
     "location": "Asunción, Paraguay",
     "company": "Banco Continental SAECA",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 1290,
+    "publicContributions": 1653,
     "createdAt": "2017-12-29T00:54:47Z"
   },
   {
@@ -12414,9 +12414,9 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "Inumansoul",
-    "followers": 17,
-    "privateContributions": 2478,
-    "publicContributions": 412,
+    "followers": 18,
+    "privateContributions": 4524,
+    "publicContributions": 477,
     "createdAt": "2018-06-02T15:29:52Z"
   },
   {
@@ -12427,7 +12427,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 255,
+    "privateContributions": 384,
     "publicContributions": 27,
     "createdAt": "2018-10-30T02:55:45Z"
   },
@@ -12438,8 +12438,8 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 8,
+    "followers": 17,
+    "privateContributions": 6,
     "publicContributions": 8,
     "createdAt": "2018-05-08T17:01:57Z"
   },
@@ -12451,8 +12451,8 @@
     "company": "Punto Farma S.A.",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 17,
-    "publicContributions": 38,
+    "privateContributions": 32,
+    "publicContributions": 8,
     "createdAt": "2018-03-18T12:51:20Z"
   },
   {
@@ -12475,7 +12475,7 @@
     "company": "Excelsis S.A.",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 47,
+    "privateContributions": 44,
     "publicContributions": 4,
     "createdAt": "2018-09-19T03:03:43Z"
   },
@@ -12486,22 +12486,10 @@
     "location": "Paraguay ",
     "company": "Cashea",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 921,
-    "publicContributions": 17,
-    "createdAt": "2018-09-21T17:22:46Z"
-  },
-  {
-    "login": "dabedev",
-    "name": "Daniel Benitez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/42282680?s=72&u=8d9aaef59404dad533d4cfd7a4e0f4c8bb33fcbc&v=4",
-    "location": "Paraguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 201,
+    "followers": 18,
+    "privateContributions": 1081,
     "publicContributions": 15,
-    "createdAt": "2018-08-10T20:55:58Z"
+    "createdAt": "2018-09-21T17:22:46Z"
   },
   {
     "login": "rickyMelida",
@@ -12510,9 +12498,9 @@
     "location": "Asunción, Paraguay",
     "company": "Software Developer",
     "twitterUsername": "MelidaRicardo",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 144,
+    "publicContributions": 151,
     "createdAt": "2018-06-26T23:55:45Z"
   },
   {
@@ -12535,7 +12523,7 @@
     "company": "@ittidigital ",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 554,
+    "privateContributions": 404,
     "publicContributions": 0,
     "createdAt": "2018-03-07T17:37:17Z"
   },

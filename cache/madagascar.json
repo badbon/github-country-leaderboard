@@ -12284,7 +12284,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 31,
     "createdAt": "2022-04-30T07:28:03Z"
   },
   {
@@ -12296,7 +12296,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-01-06T13:44:37Z"
   },
   {
@@ -12308,7 +12308,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 99,
     "createdAt": "2022-05-23T09:22:51Z"
   },
   {
@@ -12367,7 +12367,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 32,
+    "privateContributions": 83,
     "publicContributions": 0,
     "createdAt": "2022-01-23T06:42:08Z"
   },
@@ -12380,7 +12380,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2022-02-15T13:26:34Z"
   },
   {
@@ -12452,7 +12452,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2022-11-25T05:44:43Z"
   },
   {
@@ -12476,20 +12476,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 130,
     "createdAt": "2022-11-02T06:13:07Z"
-  },
-  {
-    "login": "EJisAwaken",
-    "name": "Esoalahy Josefa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117481272?s=72&u=9bf76c12795f6eb768f50428037b1d059e34e453&v=4",
-    "location": "Antananarivo",
-    "company": "https://www.univ-fianarantsoa.mg/",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2022-11-04T19:37:09Z"
   },
   {
     "login": "RaslCJ",
@@ -12510,7 +12498,7 @@
     "location": "Antananarivo",
     "company": "Qtec",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-01T14:42:06Z"

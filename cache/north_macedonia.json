@@ -12436,11 +12436,11 @@
     "name": "Mihail Mojsoski",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46059051?s=72&v=4",
     "location": "Macedonia",
-    "company": "@Silyze",
+    "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 1588,
-    "publicContributions": 73,
+    "privateContributions": 1094,
+    "publicContributions": 58,
     "createdAt": "2018-12-21T22:58:33Z"
   },
   {
@@ -12450,7 +12450,7 @@
     "location": "Prilep, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 22,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2018-04-23T17:03:25Z"
@@ -12464,7 +12464,7 @@
     "twitterUsername": "",
     "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 56,
     "createdAt": "2018-05-02T14:29:13Z"
   },
   {
@@ -12474,9 +12474,9 @@
     "location": "Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 17,
     "createdAt": "2018-08-23T21:10:12Z"
   },
   {
@@ -12486,22 +12486,10 @@
     "location": "Macedonia",
     "company": "@webiray ",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 199,
-    "publicContributions": 30,
+    "followers": 18,
+    "privateContributions": 563,
+    "publicContributions": 24,
     "createdAt": "2018-04-01T20:25:18Z"
-  },
-  {
-    "login": "ristespasov",
-    "name": "Riste S.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/45244745?s=72&v=4",
-    "location": "Skopje, Macedonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-11-21T21:09:59Z"
   },
   {
     "login": "ElNaga",
@@ -12510,9 +12498,9 @@
     "location": "Skopje, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 9,
     "createdAt": "2018-06-12T12:06:49Z"
   },
   {
@@ -12523,7 +12511,7 @@
     "company": "Webthink International",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 478,
+    "privateContributions": 441,
     "publicContributions": 10,
     "createdAt": "2018-10-30T01:25:18Z"
   },
@@ -12536,7 +12524,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2018-02-13T12:25:40Z"
   },
   {
@@ -12546,9 +12534,9 @@
     "location": "North Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 480,
-    "publicContributions": 2,
+    "followers": 11,
+    "privateContributions": 473,
+    "publicContributions": 1,
     "createdAt": "2018-08-06T14:30:43Z"
   },
   {
@@ -12558,8 +12546,8 @@
     "location": "Skopje, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 240,
+    "followers": 12,
+    "privateContributions": 302,
     "publicContributions": 18,
     "createdAt": "2018-11-21T18:10:04Z"
   },
@@ -12572,7 +12560,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 57,
     "createdAt": "2018-01-16T12:21:59Z"
   },
   {
@@ -12607,7 +12595,7 @@
     "company": "Avenix",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 493,
+    "privateContributions": 340,
     "publicContributions": 2,
     "createdAt": "2018-11-18T14:52:46Z"
   },
@@ -12619,7 +12607,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 43,
+    "privateContributions": 18,
     "publicContributions": 32,
     "createdAt": "2018-08-10T16:38:00Z"
   },
@@ -12630,8 +12618,8 @@
     "location": "Skopje, Republic of Macedonia",
     "company": "ByteTrix LTD",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 135,
+    "followers": 10,
+    "privateContributions": 436,
     "publicContributions": 4,
     "createdAt": "2018-10-03T13:38:54Z"
   },
@@ -12667,7 +12655,7 @@
     "company": "Damilah",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
+    "privateContributions": 9,
     "publicContributions": 1,
     "createdAt": "2018-02-08T13:25:36Z"
   },

@@ -12344,7 +12344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 54,
     "createdAt": "2016-10-08T15:51:18Z"
   },
   {
@@ -12378,7 +12378,7 @@
     "location": "Puerto Rico",
     "company": "ICF International, Inc.",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-18T20:08:17Z"
@@ -12402,9 +12402,9 @@
     "location": "San Juan, PR",
     "company": "ex uber",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 1131,
-    "publicContributions": 65,
+    "followers": 35,
+    "privateContributions": 1625,
+    "publicContributions": 66,
     "createdAt": "2016-02-14T23:50:26Z"
   },
   {
@@ -12414,20 +12414,20 @@
     "location": "San Juan Zitlaltepec, Zumpango. Edo. de México ",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 18,
-    "publicContributions": 18,
+    "followers": 33,
+    "privateContributions": 20,
+    "publicContributions": 2,
     "createdAt": "2016-11-22T19:40:18Z"
   },
   {
     "login": "grpecunia",
     "name": "Gustavo Rivera Pecunia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24437880?s=72&u=d6e374a8ef629ebc268542195a4600b2736a1a82&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24437880?s=72&u=926c0bbae222cedce59ec84316481025c14c522c&v=4",
     "location": "San Juan, PR",
     "company": "@grpecunia",
     "twitterUsername": "grpecunia",
     "followers": 13,
-    "privateContributions": 2195,
+    "privateContributions": 5792,
     "publicContributions": 3,
     "createdAt": "2016-12-07T16:16:39Z"
   },
@@ -12474,8 +12474,8 @@
     "location": "San Juan CIty",
     "company": "Vertere Global Solutions",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 78,
+    "followers": 6,
+    "privateContributions": 39,
     "publicContributions": 2,
     "createdAt": "2016-05-21T20:46:36Z"
   },
@@ -12511,7 +12511,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 708,
+    "privateContributions": 1077,
     "publicContributions": 0,
     "createdAt": "2016-04-14T00:26:07Z"
   },
