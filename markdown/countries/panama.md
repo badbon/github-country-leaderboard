@@ -1,6 +1,6 @@
 # Panama
 
-Indexed users: 1,071
+Indexed users: 1,070
 
 | Leaderboard | Link |
 |---|---|
@@ -17,7 +17,7 @@ Indexed users: 1,071
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 20,799 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,381 |
-| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,647 |
+| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,813 |
 | 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
 | 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 15,516 |
 | 9 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 14,869 |
@@ -83,4 +83,4 @@ Indexed users: 1,071
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-11T16:24:17.567Z
+Generated: 2026-10-11T17:48:39.079Z

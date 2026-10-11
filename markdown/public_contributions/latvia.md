@@ -1,6 +1,6 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-11T16:08:10.627Z
+Generated: 2026-10-11T17:31:07.287Z
 
 Users: 3272
 
@@ -15,8 +15,8 @@ Users: 3272
 | 7 | [mscbuild](https://github.com/mscbuild) | Yuri Dev |  𝒥ℛ🇯🇷   |  | Latvia (Europe) | 2419 |
 | 8 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin |  |  | Latvija, Riga | 2098 |
 | 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | @Countly  | ar2rsawseen | Latvia | 1858 |
-| 10 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1820 |
-| 11 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1634 |
+| 10 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai |  |  | Latvia, Riga | 1850 |
+| 11 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 1820 |
 | 12 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
 | 13 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq |  |  | Riga, Latvia | 1551 |
 | 14 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 1507 |

@@ -1,8 +1,8 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-11T16:24:17.567Z
+Generated: 2026-10-11T17:48:39.079Z
 
-Users: 1071
+Users: 1070
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 1071
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 20799 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17381 |
-| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15647 |
+| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15813 |
 | 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 15572 |
 | 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 15516 |
 | 9 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 14869 |

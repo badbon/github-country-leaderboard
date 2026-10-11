@@ -13,13 +13,13 @@ Indexed users: 291
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dotslashderek](https://github.com/dotslashderek) | Derek Thompson | Plymouth, MI | 14,382 |
-| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,180 |
+| 2 | [BuckinghamIO](https://github.com/BuckinghamIO) | Sam Buckingham | Plymouth, Devon | 8,244 |
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,322 |
 | 4 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,034 |
 | 5 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,000 |
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,803 |
-| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,381 |
-| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,080 |
+| 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,376 |
+| 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,084 |
 | 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,314 |
 | 10 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,255 |
 | 11 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,070 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-11T16:16:37.746Z
+Generated: 2026-10-11T17:41:28.826Z

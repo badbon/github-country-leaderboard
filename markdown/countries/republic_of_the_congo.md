@@ -18,8 +18,8 @@ Indexed users: 299
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,832 |
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,774 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,331 |
-| 7 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,945 |
-| 8 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 2,926 |
+| 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,297 |
+| 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,945 |
 | 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,871 |
 | 10 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,809 |
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,759 |
@@ -49,7 +49,7 @@ Indexed users: 299
 | 10 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
 | 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
 | 12 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 313 |
-| 13 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 259 |
+| 13 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 279 |
 | 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 257 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 225 |
 | 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 214 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-11T16:30:31.990Z
+Generated: 2026-10-11T17:52:27.397Z

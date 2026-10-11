@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-11T16:12:54.552Z
+Generated: 2026-10-11T17:37:37.366Z
 
 Users: 1225
 
@@ -20,9 +20,9 @@ Users: 1225
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8337 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 7574 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7471 |
-| 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
-| 16 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6234 |
-| 17 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5652 |
-| 18 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |
-| 19 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5552 |
-| 20 | [rossanmol](https://github.com/rossanmol) | Rostislav Dascal | @BetssonGroup  |  | Malta | 5523 |
+| 15 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7238 |
+| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
+| 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6234 |
+| 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5652 |
+| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |
+| 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | @SpiffingIO  |  | Malta | 5552 |

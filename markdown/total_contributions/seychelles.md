@@ -1,6 +1,6 @@
 # Total Contributions - Seychelles
 
-Generated: 2026-10-11T16:35:05.039Z
+Generated: 2026-10-11T17:59:01.443Z
 
 Users: 1770
 
@@ -19,10 +19,10 @@ Users: 1770
 | 11 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis |  |  | Victoria, BC | 6893 |
 | 12 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Space95 |  | Seychelles | 6686 |
 | 13 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 6537 |
-| 14 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
-| 15 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Well Health Technologies |  | Victoria BC | 5663 |
-| 16 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5331 |
-| 17 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 5248 |
-| 18 | [matchdav](https://github.com/matchdav) | Matthew Davidson | @metacogdev  |  | Victoria | 5223 |
-| 19 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Web 321 | web321co | Saanichton BC (aka part of Victoria BC) | 5132 |
-| 20 | [bradens](https://github.com/bradens) | Braden Simpson | @codex-data | bradensimpson | Victoria | 4912 |
+| 14 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Digitalspace Consulting Inc. |  | Victoria, BC | 6535 |
+| 15 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
+| 16 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Well Health Technologies |  | Victoria BC | 5663 |
+| 17 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5331 |
+| 18 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 5248 |
+| 19 | [matchdav](https://github.com/matchdav) | Matthew Davidson | @metacogdev  |  | Victoria | 5223 |
+| 20 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Web 321 | web321co | Saanichton BC (aka part of Victoria BC) | 5132 |

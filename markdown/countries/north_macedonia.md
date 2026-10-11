@@ -46,9 +46,9 @@ Indexed users: 1,934
 | 7 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | Skopje, Republic of Macedonia | 1,089 |
 | 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | Skopje, Macedonia | 1,086 |
 | 9 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | Bitola, North Macedonia | 1,048 |
-| 10 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 1,013 |
-| 11 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
-| 12 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 990 |
+| 10 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
+| 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 990 |
+| 12 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
 | 13 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 933 |
 | 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 922 |
 | 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 907 |
@@ -83,4 +83,4 @@ Indexed users: 1,934
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-11T16:19:48.974Z
+Generated: 2026-10-11T17:45:50.891Z

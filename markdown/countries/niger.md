@@ -53,7 +53,7 @@ Indexed users: 176
 | 14 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 103 |
 | 15 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 103 |
 | 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 98 |
-| 17 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | Niger | 97 |
+| 17 | [HamaBarhamou](https://github.com/HamaBarhamou) | HAMA Barhamou | Niger | 95 |
 | 18 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
 | 19 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 89 |
 | 20 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 87 |
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 
-Generated: 2026-10-11T16:19:17.037Z
+Generated: 2026-10-11T17:43:39.335Z

@@ -81,6 +81,6 @@ Indexed users: 113
 | 17 | [michi-dev](https://github.com/michi-dev) | Michael Schädler | Liechtenstein | 15 |
 | 18 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron | Vaduz | 14 |
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
-| 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
+| 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 13 |
 
-Generated: 2026-10-11T16:09:27.214Z
+Generated: 2026-10-11T17:33:21.483Z

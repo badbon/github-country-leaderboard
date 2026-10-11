@@ -14,8 +14,8 @@ Indexed users: 14,135
 |---:|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | Nepal | 25,137 |
 | 2 | [comethrusws](https://github.com/comethrusws) | Basab Jha | Bhaktapur, Nepal | 21,433 |
-| 3 | [stayrahul](https://github.com/stayrahul) | Rahul Kushwaha | Kathmandu | 18,362 |
-| 4 | [cmthakur](https://github.com/cmthakur) | Chandra M. Thakur | Nepal | 17,310 |
+| 3 | [cmthakur](https://github.com/cmthakur) | Chandra M. Thakur | Nepal | 17,310 |
+| 4 | [stayrahul](https://github.com/stayrahul) | Rahul Kushwaha | Kathmandu | 15,184 |
 | 5 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | Nepal | 13,034 |
 | 6 | [anamolsapkota](https://github.com/anamolsapkota) | Anamol Sapkota | Nepal | 13,026 |
 | 7 | [birajrai](https://github.com/birajrai) | Biraj Rai | Nepal | 12,650 |
@@ -83,4 +83,4 @@ Indexed users: 14,135
 | 19 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
 | 20 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 
-Generated: 2026-10-11T16:17:12.538Z
+Generated: 2026-10-11T17:43:09.170Z

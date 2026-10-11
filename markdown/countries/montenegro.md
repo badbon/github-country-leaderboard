@@ -23,7 +23,7 @@ Indexed users: 891
 | 9 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,098 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,796 |
 | 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,734 |
-| 12 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,675 |
+| 12 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,645 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,409 |
 | 14 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,168 |
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,136 |
@@ -64,7 +64,7 @@ Indexed users: 891
 |---:|---|---|---|---:|
 | 1 | [therustmonk](https://github.com/therustmonk) | Denis Kolodin | Montenegro | 792 |
 | 2 | [dchest](https://github.com/dchest) | Dmitry Chestnykh | Montenegro | 553 |
-| 3 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 484 |
+| 3 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 485 |
 | 4 | [Const-me](https://github.com/Const-me) | Konstantin | Tivat, Montenegro | 363 |
 | 5 | [oranmehmetsirin](https://github.com/oranmehmetsirin) | Mehmet Şirin ORAN | Montenegro | 344 |
 | 6 | [dockimbel](https://github.com/dockimbel) | Nenad Rakocevic | Montenegro | 334 |
@@ -83,4 +83,4 @@ Indexed users: 891
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-11T16:16:31.865Z
+Generated: 2026-10-11T17:41:24.330Z

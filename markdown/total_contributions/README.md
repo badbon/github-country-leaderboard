@@ -126,7 +126,7 @@ Published countries: 234
 | Macau | 439 | [View](./macau.md) |
 | Madagascar | 1,906 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
-| Malaysia | 11,817 | [View](./malaysia.md) |
+| Malaysia | 11,816 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 348 | [View](./mali.md) |
 | Malta | 1,225 | [View](./malta.md) |
@@ -163,11 +163,11 @@ Published countries: 234
 | Pakistan | 41,860 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,206 | [View](./palestine.md) |
-| Panama | 1,071 | [View](./panama.md) |
+| Panama | 1,070 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,016 | [View](./paraguay.md) |
-| Peru | 9,791 | [View](./peru.md) |
-| Philippines | 19,810 | [View](./philippines.md) |
+| Peru | 9,790 | [View](./peru.md) |
+| Philippines | 19,807 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,463 | [View](./portugal.md) |
 | Puerto Rico | 1,539 | [View](./puerto_rico.md) |
@@ -199,7 +199,7 @@ Published countries: 234
 | Somalia | 867 | [View](./somalia.md) |
 | South Africa | 17,946 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
-| South Korea | 56,908 | [View](./south_korea.md) |
+| South Korea | 56,909 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
 | Sri Lanka | 18,335 | [View](./sri_lanka.md) |
 | Sudan | 729 | [View](./sudan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,342 | [View](./zambia.md) |
 | Zimbabwe | 1,653 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-11T17:29:59.656Z
+Generated: 2026-10-11T18:01:47.887Z

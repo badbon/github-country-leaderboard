@@ -1,6 +1,6 @@
 # Total Contributions - Nepal
 
-Generated: 2026-10-11T16:17:12.538Z
+Generated: 2026-10-11T17:43:09.170Z
 
 Users: 14135
 
@@ -8,8 +8,8 @@ Users: 14135
 |---:|---|---|---|---|---|---:|
 | 1 | [Azathothas](https://github.com/Azathothas) | Ajam | @pkgforge |  | Nepal | 25137 |
 | 2 | [comethrusws](https://github.com/comethrusws) | Basab Jha | SAGEA |  | Bhaktapur, Nepal | 21433 |
-| 3 | [stayrahul](https://github.com/stayrahul) | Rahul Kushwaha |  |  | Kathmandu | 18362 |
-| 4 | [cmthakur](https://github.com/cmthakur) | Chandra M. Thakur | PostVivo Inc. | cmthakur1986 | Nepal | 17310 |
+| 3 | [cmthakur](https://github.com/cmthakur) | Chandra M. Thakur | PostVivo Inc. | cmthakur1986 | Nepal | 17310 |
+| 4 | [stayrahul](https://github.com/stayrahul) | Rahul Kushwaha |  |  | Kathmandu | 15184 |
 | 5 | [Prabesh01](https://github.com/Prabesh01) | Prabesh Sapkota | The Prabesh Sapkota |  | Nepal | 13034 |
 | 6 | [anamolsapkota](https://github.com/anamolsapkota) | Anamol Sapkota | Ek Ra Sunya Inc Pvt. Ltd. | anamolsapkota | Nepal | 13026 |
 | 7 | [birajrai](https://github.com/birajrai) | Biraj Rai | @calypsostudio |  | Nepal | 12650 |

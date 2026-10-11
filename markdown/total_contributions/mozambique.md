@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-11T16:17:01.730Z
+Generated: 2026-10-11T17:42:32.713Z
 
 Users: 1176
 
@@ -20,9 +20,9 @@ Users: 1176
 | 12 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3216 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2793 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2744 |
-| 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2682 |
-| 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2671 |
-| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2603 |
-| 18 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2492 |
-| 19 | [PauloPhagula](https://github.com/PauloPhagula) | Paulo Phagula | @factorialco  |  | Maputo, Mozambique | 2407 |
-| 20 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 2375 |
+| 15 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2722 |
+| 16 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2682 |
+| 17 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2671 |
+| 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2603 |
+| 19 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2492 |
+| 20 | [PauloPhagula](https://github.com/PauloPhagula) | Paulo Phagula | @factorialco  |  | Maputo, Mozambique | 2407 |

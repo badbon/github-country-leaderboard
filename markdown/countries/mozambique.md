@@ -26,12 +26,12 @@ Indexed users: 1,176
 | 12 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 3,216 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | Maputo | 2,793 |
 | 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane | Mozambique | 2,744 |
-| 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
-| 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,671 |
-| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,603 |
-| 18 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,492 |
-| 19 | [PauloPhagula](https://github.com/PauloPhagula) | Paulo Phagula | Maputo, Mozambique | 2,407 |
-| 20 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,375 |
+| 15 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,722 |
+| 16 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
+| 17 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,671 |
+| 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,603 |
+| 19 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,492 |
+| 20 | [PauloPhagula](https://github.com/PauloPhagula) | Paulo Phagula | Maputo, Mozambique | 2,407 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-11T16:17:01.730Z
+Generated: 2026-10-11T17:42:32.713Z

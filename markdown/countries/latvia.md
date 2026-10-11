@@ -14,11 +14,11 @@ Indexed users: 3,272
 |---:|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 24,552 |
 | 2 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 22,250 |
-| 3 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 17,316 |
-| 4 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 14,244 |
-| 5 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
-| 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
-| 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 10,310 |
+| 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 21,968 |
+| 4 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 17,316 |
+| 5 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 14,918 |
+| 6 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
+| 7 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
 | 8 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
 | 9 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
 | 10 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
@@ -46,8 +46,8 @@ Indexed users: 3,272
 | 7 | [mscbuild](https://github.com/mscbuild) | Yuri Dev | Latvia (Europe) | 2,419 |
 | 8 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
 | 9 | [ar2rsawseen](https://github.com/ar2rsawseen) | Arturs Sosins | Latvia | 1,858 |
-| 10 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
-| 11 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,634 |
+| 10 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
+| 11 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
 | 12 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
 | 13 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq | Riga, Latvia | 1,551 |
 | 14 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
@@ -83,4 +83,4 @@ Indexed users: 3,272
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-11T16:08:10.627Z
+Generated: 2026-10-11T17:31:07.287Z

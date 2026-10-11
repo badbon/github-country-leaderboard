@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-11T16:08:10.627Z
+Generated: 2026-10-11T17:31:07.287Z
 
 Users: 3272
 
@@ -8,11 +8,11 @@ Users: 3272
 |---:|---|---|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | @valksor |  | Rīga, Latvia | 24552 |
 | 2 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | AccessFintech |  | Latvia | 22250 |
-| 3 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | @formstack  |  | Riga, Latvia | 17316 |
-| 4 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs |  |  | Riga, Latvia | 14244 |
-| 5 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
-| 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
-| 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | T MEDIA GROUP |  | Latvia | 10310 |
+| 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs |  |  | Riga, Latvia | 21968 |
+| 4 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | @formstack  |  | Riga, Latvia | 17316 |
+| 5 | [ErneG](https://github.com/ErneG) | Ernests Dane | T MEDIA GROUP |  | Latvia | 14918 |
+| 6 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
+| 7 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
 | 8 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
 | 9 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
 | 10 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |

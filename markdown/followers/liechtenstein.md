@@ -1,6 +1,6 @@
 # Followers - Liechtenstein
 
-Generated: 2026-10-11T16:09:27.214Z
+Generated: 2026-10-11T17:33:21.483Z
 
 Users: 113
 
@@ -25,4 +25,4 @@ Users: 113
 | 17 | [michi-dev](https://github.com/michi-dev) | Michael Schädler |  | schaedler_michi | Liechtenstein | 15 |
 | 18 | [IncredibleAaron](https://github.com/IncredibleAaron) | Aaron |  |  | Vaduz | 14 |
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 14 |
-| 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 12 |
+| 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 13 |
