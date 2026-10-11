@@ -1,6 +1,6 @@
 # Public Contributions - Belarus
 
-Generated: 2026-10-11T17:01:14.853Z
+Generated: 2026-10-11T22:38:33.005Z
 
 Users: 10952
 
@@ -24,5 +24,5 @@ Users: 10952
 | 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou |  |  | Minsk, Belarus | 1826 |
 | 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Home |  | Minsk | 1681 |
 | 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak |  |  | Minsk Belarus | 1600 |
-| 19 | [therepanic](https://github.com/therepanic) | Andrey Litvitski |  |  | Minsk, Belarus | 1592 |
-| 20 | [vegacepticon](https://github.com/vegacepticon) |  |  |  | Belarus | 1569 |
+| 19 | [vegacepticon](https://github.com/vegacepticon) |  |  |  | Belarus | 1569 |
+| 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism |  ITec, GHU, CBT |  | Belarus, Minsk | 1543 |

@@ -1,8 +1,8 @@
 # Total Contributions - Costa Rica
 
-Generated: 2026-10-11T17:09:43.578Z
+Generated: 2026-10-11T22:46:05.968Z
 
-Users: 5640
+Users: 5639
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 5640
 | 14 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz |  |  | Costa Rica | 6187 |
 | 15 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | MIT |  | Cambridge, MA / San Jose, CA | 6091 |
 | 16 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 5743 |
-| 17 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
-| 18 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz |  |  | San Jose, Costa Rica | 5379 |
-| 19 | [xmorera](https://github.com/xmorera) | Xavier Morera | Lupo.ai \| Big Data Inc. |  | Costa Rica | 5248 |
-| 20 | [pegasus231184](https://github.com/pegasus231184) | Allan Martinez Pegasus | Simplexity |  | Costa Rica | 5114 |
+| 17 | [saihdez](https://github.com/saihdez) | saihdez | @dimerso-global  |  | Costa Rica, Heredia | 5706 |
+| 18 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | Universidad de Costa Rica |  | San Jose, Costa Rica | 5589 |
+| 19 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz |  |  | San Jose, Costa Rica | 5379 |
+| 20 | [xmorera](https://github.com/xmorera) | Xavier Morera | Lupo.ai \| Big Data Inc. |  | Costa Rica | 5248 |

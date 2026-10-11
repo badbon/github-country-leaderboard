@@ -55,8 +55,8 @@ Indexed users: 6,705
 | 16 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,427 |
 | 17 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye | Adaama, Ethiopia | 2,378 |
 | 18 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi | Addis Ababa, Ethiopia | 2,312 |
-| 19 | [hirodinn](https://github.com/hirodinn) | Hire Bikila | Addis Ababa, Ethiopia | 2,079 |
-| 20 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa, Ethiopia | 2,070 |
+| 19 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa, Ethiopia | 2,070 |
+| 20 | [Temamamankabeto](https://github.com/Temamamankabeto) | Temam | ethiopia | 2,024 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,705
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-11T17:15:20.312Z
+Generated: 2026-10-11T22:52:09.637Z

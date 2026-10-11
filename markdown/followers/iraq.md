@@ -1,12 +1,12 @@
 # Followers - Iraq
 
-Generated: 2026-10-11T17:26:27.072Z
+Generated: 2026-10-11T22:59:04.004Z
 
 Users: 2247
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Aziz-AXG](https://github.com/Aziz-AXG) | Aziz falah |  |  | Baghdad, Iraq | 3638 |
+| 1 | [Aziz-AXG](https://github.com/Aziz-AXG) | Aziz falah |  |  | Baghdad, Iraq | 3608 |
 | 2 | [sajjad-salam](https://github.com/sajjad-salam) | sajjad_salam | freelancer |  | iraq-baghdad | 3004 |
 | 3 | [muhammedessa](https://github.com/muhammedessa) | Muhammed Essa | Code for IRAQ |  | IRAQ | 2280 |
 | 4 | [Ha3MrX](https://github.com/Ha3MrX) | Ha3MrX | Rami |  | Iraq | 2022 |
@@ -20,7 +20,7 @@ Users: 2247
 | 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Freelancer |  | Iraq | 423 |
 | 13 | [munafio](https://github.com/munafio) | Munaf A. Mahdi | Sr. Software Engineer |  | Iraq | 408 |
 | 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | @talabatey | devmuaz | Iraq, Baghdad | 316 |
-| 15 | [arikarim](https://github.com/arikarim) | Ari Karim | KRG(Kurdistan Regional Government). | Ari_Karim_ | Kurdistan/Iraq | 301 |
+| 15 | [arikarim](https://github.com/arikarim) | Ari Karim | KRG(Kurdistan Regional Government). | Ari_Karim_ | Kurdistan/Iraq | 284 |
 | 16 | [FardinRastakhiz](https://github.com/FardinRastakhiz) | Fardin Rastakhiz | Fardin |  | Iraq | 244 |
 | 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba |  | ShahramShakibaa | Erbil, Erbil Governorate, Iraq  | 227 |
 | 18 | [HassanFulaih](https://github.com/HassanFulaih) | Hassan Fulaih | Al-Nahrain University |  | Baghdad, Iraq | 212 |

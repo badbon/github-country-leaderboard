@@ -19,14 +19,14 @@ Indexed users: 155
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,435 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 1,888 |
-| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,848 |
+| 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren | Isle of Man | 1,853 |
 | 9 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 1,731 |
 | 10 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 1,618 |
 | 11 | [ceottaki](https://github.com/ceottaki) | Felipe Ceotto | Isle of Man | 1,617 |
 | 12 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 1,572 |
 | 13 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 1,557 |
 | 14 | [lwangenheim](https://github.com/lwangenheim) | Lee Wangenheim | Isle of Man | 1,498 |
-| 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,224 |
+| 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,222 |
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,208 |
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,198 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,099 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-11T17:27:36.828Z
+Generated: 2026-10-11T23:00:10.027Z

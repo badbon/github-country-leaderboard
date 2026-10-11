@@ -1,8 +1,8 @@
 # Public Contributions - Costa Rica
 
-Generated: 2026-10-11T17:09:43.578Z
+Generated: 2026-10-11T22:46:05.968Z
 
-Users: 5640
+Users: 5639
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 5640
 | 12 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Profesional Costa Rica |  | Costa Rica | 2308 |
 | 13 | [lapc506](https://github.com/lapc506) | Andrés Peña | AltruPets, Vertivo, KeikoStart (my startups) |  | Heredia, Costa Rica | 2305 |
 | 14 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Universidad Nacional de Costa Rica |  | Costa Rica | 2199 |
-| 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | TEC |  | Costa Rica | 2028 |
-| 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 1978 |
-| 17 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) |  |  | Costa Rica  | 1927 |
-| 18 | [adrianvrj](https://github.com/adrianvrj) | adr!an | @cavos-labs  | 0xAdrianvrj | Costa Rica | 1901 |
-| 19 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |
-| 20 | [esoto](https://github.com/esoto) | Esteban Soto |  |  | Costa Rica | 1823 |
+| 15 | [rjwrld](https://github.com/rjwrld) | Josue Calderon |  |  | Costa Rica | 2060 |
+| 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | TEC |  | Costa Rica | 2028 |
+| 17 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar |  | aguilar1x1 | Costa Rica | 1978 |
+| 18 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) |  |  | Costa Rica  | 1927 |
+| 19 | [adrianvrj](https://github.com/adrianvrj) | adr!an | @cavos-labs  | 0xAdrianvrj | Costa Rica | 1901 |
+| 20 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Open To Work |  | Costa Rica | 1860 |

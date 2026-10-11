@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-11T17:15:20.312Z
+Generated: 2026-10-11T22:52:09.637Z
 
 Users: 6705
 
@@ -24,5 +24,5 @@ Users: 6705
 | 16 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Orient PLC. |  | Addis Ababa , Ethiopia | 2427 |
 | 17 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye |  |  | Adaama, Ethiopia | 2378 |
 | 18 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi |  |  | Addis Ababa, Ethiopia | 2312 |
-| 19 | [hirodinn](https://github.com/hirodinn) | Hire Bikila |  |  | Addis Ababa, Ethiopia | 2079 |
-| 20 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa Science And Technology University |  | Addis Ababa, Ethiopia | 2070 |
+| 19 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa Science And Technology University |  | Addis Ababa, Ethiopia | 2070 |
+| 20 | [Temamamankabeto](https://github.com/Temamamankabeto) | Temam |  |  | ethiopia | 2024 |

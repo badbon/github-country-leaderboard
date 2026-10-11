@@ -62,7 +62,7 @@ Indexed users: 2,247
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Aziz-AXG](https://github.com/Aziz-AXG) | Aziz falah | Baghdad, Iraq | 3,638 |
+| 1 | [Aziz-AXG](https://github.com/Aziz-AXG) | Aziz falah | Baghdad, Iraq | 3,608 |
 | 2 | [sajjad-salam](https://github.com/sajjad-salam) | sajjad_salam | iraq-baghdad | 3,004 |
 | 3 | [muhammedessa](https://github.com/muhammedessa) | Muhammed Essa | IRAQ | 2,280 |
 | 4 | [Ha3MrX](https://github.com/Ha3MrX) | Ha3MrX | Iraq | 2,022 |
@@ -76,11 +76,11 @@ Indexed users: 2,247
 | 12 | [Islam-Raad-dev](https://github.com/Islam-Raad-dev) | Islam Raad | Iraq | 423 |
 | 13 | [munafio](https://github.com/munafio) | Munaf A. Mahdi | Iraq | 408 |
 | 14 | [devmuaz](https://github.com/devmuaz) | AbdulMuaz Aqeel | Iraq, Baghdad | 316 |
-| 15 | [arikarim](https://github.com/arikarim) | Ari Karim | Kurdistan/Iraq | 301 |
+| 15 | [arikarim](https://github.com/arikarim) | Ari Karim | Kurdistan/Iraq | 284 |
 | 16 | [FardinRastakhiz](https://github.com/FardinRastakhiz) | Fardin Rastakhiz | Iraq | 244 |
 | 17 | [ShahramShakiba](https://github.com/ShahramShakiba) | Shahram Shakiba | Erbil, Erbil Governorate, Iraq  | 227 |
 | 18 | [HassanFulaih](https://github.com/HassanFulaih) | Hassan Fulaih | Baghdad, Iraq | 212 |
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-11T17:26:27.072Z
+Generated: 2026-10-11T22:59:04.004Z

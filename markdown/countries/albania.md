@@ -39,24 +39,24 @@ Indexed users: 1,184
 |---:|---|---|---|---:|
 | 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,880 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 4,765 |
-| 3 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,521 |
-| 4 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,390 |
-| 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,381 |
-| 6 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
-| 7 | [genciiv](https://github.com/genciiv) | G-code | Albania | 1,070 |
-| 8 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
-| 9 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
-| 10 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 883 |
-| 11 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 744 |
-| 12 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
-| 13 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
-| 14 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 664 |
-| 15 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 648 |
-| 16 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
-| 17 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 636 |
-| 18 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
-| 19 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 600 |
-| 20 | [kristiker](https://github.com/kristiker) | Kristi K | Albania | 597 |
+| 3 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 3,661 |
+| 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,521 |
+| 5 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,390 |
+| 6 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,381 |
+| 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
+| 8 | [genciiv](https://github.com/genciiv) | G-code | Albania | 1,070 |
+| 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 1,001 |
+| 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
+| 11 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 883 |
+| 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 744 |
+| 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
+| 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
+| 15 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 664 |
+| 16 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 648 |
+| 17 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
+| 18 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 636 |
+| 19 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
+| 20 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 600 |
 
 ## Followers
 
@@ -69,7 +69,7 @@ Indexed users: 1,184
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 459 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 228 |
 | 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 157 |
-| 8 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 154 |
+| 8 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 155 |
 | 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj | Tirana, Albania | 143 |
 | 10 | [klendi](https://github.com/klendi) | Klendi Goci | Tirana, Albania | 100 |
 | 11 | [meggsila](https://github.com/meggsila) | Megi Sila | Tirana, Albania | 100 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-11T16:54:50.175Z
+Generated: 2026-10-11T22:34:37.595Z

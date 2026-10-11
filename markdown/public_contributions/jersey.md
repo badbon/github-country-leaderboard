@@ -1,6 +1,6 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-11T17:28:23.033Z
+Generated: 2026-10-11T23:01:27.375Z
 
 Users: 140
 
@@ -20,7 +20,7 @@ Users: 140
 | 12 | [xsebby](https://github.com/xsebby) | sebby |  | xsebby | jersey | 178 |
 | 13 | [morrisjam](https://github.com/morrisjam) | James Morris |  |  | Jersey | 152 |
 | 14 | [devdanio](https://github.com/devdanio) | Dan | DevDan | DevDanIO | Jersey | 139 |
-| 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 133 |
+| 15 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 132 |
 | 16 | [Adrian609](https://github.com/Adrian609) | Adrian |  |  | Jersey | 131 |
 | 17 | [shiaoligreen](https://github.com/shiaoligreen) | Shiao-li Green |  | shiao_li | Jersey, Channel Islands | 118 |
 | 18 | [doobox](https://github.com/doobox) | Doobox | Doobox | doobox | Jersey | 110 |

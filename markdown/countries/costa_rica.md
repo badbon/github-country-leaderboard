@@ -1,6 +1,6 @@
 # Costa Rica
 
-Indexed users: 5,640
+Indexed users: 5,639
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 5,640
 | 14 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
 | 15 | [KentoNishi](https://github.com/KentoNishi) | Kento Nishi | Cambridge, MA / San Jose, CA | 6,091 |
 | 16 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 5,743 |
-| 17 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | San Jose, Costa Rica | 5,589 |
-| 18 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz | San Jose, Costa Rica | 5,379 |
-| 19 | [xmorera](https://github.com/xmorera) | Xavier Morera | Costa Rica | 5,248 |
-| 20 | [pegasus231184](https://github.com/pegasus231184) | Allan Martinez Pegasus | Costa Rica | 5,114 |
+| 17 | [saihdez](https://github.com/saihdez) | saihdez | Costa Rica, Heredia | 5,706 |
+| 18 | [maikol-solis](https://github.com/maikol-solis) | Maikol Solís | San Jose, Costa Rica | 5,589 |
+| 19 | [vdaluz](https://github.com/vdaluz) | Victor Da Luz | San Jose, Costa Rica | 5,379 |
+| 20 | [xmorera](https://github.com/xmorera) | Xavier Morera | Costa Rica | 5,248 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 5,640
 | 12 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
 | 13 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
 | 14 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,199 |
-| 15 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
-| 16 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
-| 17 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) | Costa Rica  | 1,927 |
-| 18 | [adrianvrj](https://github.com/adrianvrj) | adr!an | Costa Rica | 1,901 |
-| 19 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
-| 20 | [esoto](https://github.com/esoto) | Esteban Soto | Costa Rica | 1,823 |
+| 15 | [rjwrld](https://github.com/rjwrld) | Josue Calderon | Costa Rica | 2,060 |
+| 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
+| 17 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
+| 18 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) | Costa Rica  | 1,927 |
+| 19 | [adrianvrj](https://github.com/adrianvrj) | adr!an | Costa Rica | 1,901 |
+| 20 | [ericksuper8000-source](https://github.com/ericksuper8000-source) | Erick_Dev | Costa Rica | 1,860 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,640
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-11T17:09:43.578Z
+Generated: 2026-10-11T22:46:05.968Z

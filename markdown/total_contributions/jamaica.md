@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-11T17:27:52.282Z
+Generated: 2026-10-11T23:01:19.012Z
 
 Users: 1275
 
@@ -18,11 +18,11 @@ Users: 1275
 | 10 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5295 |
 | 11 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 5114 |
 | 12 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 4388 |
-| 13 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4180 |
-| 14 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
-| 15 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
-| 16 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | KPOD Labs | kareypowell | Manchester, Jamaica | 3902 |
-| 17 | [capndave](https://github.com/capndave) | David Thompson | True Prodigy |  | Kingston, NY | 3896 |
-| 18 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 3888 |
-| 19 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 3821 |
-| 20 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 3794 |
+| 13 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 4336 |
+| 14 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4180 |
+| 15 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
+| 16 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
+| 17 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | KPOD Labs | kareypowell | Manchester, Jamaica | 3902 |
+| 18 | [capndave](https://github.com/capndave) | David Thompson | True Prodigy |  | Kingston, NY | 3896 |
+| 19 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 3888 |
+| 20 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 3821 |

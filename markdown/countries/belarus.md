@@ -55,8 +55,8 @@ Indexed users: 10,952
 | 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
 | 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
 | 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
-| 19 | [therepanic](https://github.com/therepanic) | Andrey Litvitski | Minsk, Belarus | 1,592 |
-| 20 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
+| 19 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
+| 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 1,543 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,952
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-11T17:01:14.853Z
+Generated: 2026-10-11T22:38:33.005Z

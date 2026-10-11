@@ -1,8 +1,8 @@
 # Followers - Argentina
 
-Generated: 2026-10-11T16:57:04.734Z
+Generated: 2026-10-11T22:36:27.602Z
 
-Users: 50748
+Users: 50747
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
