@@ -13208,7 +13208,7 @@
     "twitterUsername": "steveisdev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-12-20T11:40:36Z"
   },
   {
@@ -13220,7 +13220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 46,
     "createdAt": "2021-12-07T21:53:58Z"
   },
   {
@@ -13243,7 +13243,7 @@
     "company": "Ministry of Finance",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 107,
+    "privateContributions": 396,
     "publicContributions": 0,
     "createdAt": "2021-03-12T19:23:04Z"
   },
@@ -13254,7 +13254,7 @@
     "location": "Santo Domingo, Rep. Dom.",
     "company": "DGTI-UASD",
     "twitterUsername": "BritoHaisel",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-23T18:55:32Z"
@@ -13263,8 +13263,8 @@
     "login": "Masr3",
     "name": "Manuel Alejandro Santana Ramirez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94250919?s=72&u=aed5d9e22c38b5f9f353a2026ca1a696ef793c9e&v=4",
-    "location": "Santo Domingo, República Dominicana",
-    "company": "",
+    "location": "Punta Cana, Dominican Republic",
+    "company": "CLERHP / Instadigs",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,

@@ -14086,5 +14086,29 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-06-27T17:07:10Z"
+  },
+  {
+    "login": "coutinho-jose",
+    "name": "Coutinho José Minêz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290845856?s=72&u=9dd0e6bf9607134b7edb240e47b4dbfd3bf2e238&v=4",
+    "location": "Maputo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 35,
+    "createdAt": "2026-06-04T20:19:55Z"
+  },
+  {
+    "login": "OsorioMalloa007",
+    "name": "Osorio Malloa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284876545?s=72&u=b3d88b90cdd3f413df76ad564780907775bd3641&v=4",
+    "location": "Maputo, Moçambique",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-15T07:02:41Z"
   }
 ]

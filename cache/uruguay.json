@@ -12880,7 +12880,7 @@
     "name": "Darwin Alves",
     "avatarUrl": "https://avatars.githubusercontent.com/u/107219872?s=72&u=e51ba6e1df265b9826e6f247c17654ab17c8147d&v=4",
     "location": "Uruguay",
-    "company": "@nuuxia",
+    "company": "@alcruxia",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
@@ -12895,8 +12895,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 68,
-    "publicContributions": 163,
+    "privateContributions": 6,
+    "publicContributions": 152,
     "createdAt": "2022-05-31T23:22:27Z"
   },
   {
@@ -12908,7 +12908,7 @@
     "twitterUsername": "BrunoRamosU",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 169,
     "createdAt": "2022-01-20T14:14:45Z"
   },
   {
@@ -12919,7 +12919,7 @@
     "company": "",
     "twitterUsername": "mathias_collazo",
     "followers": 4,
-    "privateContributions": 407,
+    "privateContributions": 549,
     "publicContributions": 0,
     "createdAt": "2022-01-12T20:41:07Z"
   },
@@ -12942,9 +12942,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 45,
     "createdAt": "2022-02-14T12:14:03Z"
   },
   {
@@ -12964,11 +12964,11 @@
     "name": "Santiago Sommer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103203556?s=72&u=d23b0bf0fcac21062cae25125a05e0b630bbe882&v=4",
     "location": "Uruguay",
-    "company": "EverPass Media",
+    "company": "DAZN",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 51,
     "createdAt": "2022-04-07T15:12:09Z"
   },
   {
@@ -12978,21 +12978,21 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 195,
+    "publicContributions": 133,
     "createdAt": "2022-12-20T18:16:05Z"
   },
   {
     "login": "noxxUY",
     "name": "noxx",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/121198083?s=72&u=cb51d281a0e772f894878497b1c717a707a7bae4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121198083?s=72&u=db0f09f797ef684ef9fceac16567c6aaa6611240&v=4",
     "location": "uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 114,
     "createdAt": "2022-12-21T20:33:57Z"
   },
   {
@@ -13002,9 +13002,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "nyasprr",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 328,
+    "publicContributions": 304,
     "createdAt": "2022-07-05T23:45:16Z"
   },
   {
@@ -13039,7 +13039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 118,
+    "privateContributions": 101,
     "publicContributions": 4,
     "createdAt": "2022-11-27T02:26:42Z"
   },
@@ -13063,7 +13063,7 @@
     "company": "Minelatino",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1218,
+    "privateContributions": 1357,
     "publicContributions": 20,
     "createdAt": "2022-03-24T00:13:47Z"
   },
@@ -13088,7 +13088,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 256,
+    "publicContributions": 216,
     "createdAt": "2022-12-16T13:44:15Z"
   },
   {
@@ -13100,7 +13100,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2022-04-05T17:13:54Z"
   },
   {
@@ -67510,5 +67510,17 @@
     "privateContributions": 144,
     "publicContributions": 156,
     "createdAt": "2019-07-22T01:21:28Z"
+  },
+  {
+    "login": "L4R4",
+    "name": "Roberto Eddy Lara Rodriguez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28109115?s=72&u=8d34692d1282e2b922b0927ed8f30bd025bb51db&v=4",
+    "location": "Montevideo, Uruguay",
+    "company": "Totalnet",
+    "twitterUsername": "L4R43",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 0,
+    "createdAt": "2017-04-27T16:19:17Z"
   }
 ]

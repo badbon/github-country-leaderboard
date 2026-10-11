@@ -12950,13 +12950,13 @@
   {
     "login": "JIMAVREAS",
     "name": "Dimitris Mavreas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178673051?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/178673051?s=72&u=4abe9e3f0ca1147d3f037d45560558ff42ac917c&v=4",
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 37,
     "createdAt": "2024-08-17T18:52:00Z"
   },
   {
@@ -12978,7 +12978,7 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2024-10-23T19:29:32Z"
@@ -13016,7 +13016,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 51,
     "createdAt": "2024-01-09T17:10:09Z"
   },
   {
@@ -13052,7 +13052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 49,
     "createdAt": "2024-05-30T19:42:18Z"
   },
   {
@@ -13074,9 +13074,9 @@
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 24,
     "createdAt": "2024-11-21T06:58:13Z"
   },
   {
@@ -13087,21 +13087,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 116,
+    "privateContributions": 114,
     "publicContributions": 31,
     "createdAt": "2024-04-29T20:38:10Z"
-  },
-  {
-    "login": "ApaChe367",
-    "name": "Konstantinos Georgiou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158169588?s=72&v=4",
-    "location": "Athens",
-    "company": "Velti",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2024-01-30T12:50:05Z"
   },
   {
     "login": "NickIsCognizant",
@@ -13166,13 +13154,13 @@
   {
     "login": "aimoniotis",
     "name": "Konstantinos Aimoniotis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165481971?s=72&u=43fc77238190d22a3e6378af5514fd7a79eff618&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165481971?s=72&u=2fe6c875f406e31dfe258b507a29bd0834c9a896&v=4",
     "location": "Athens",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 61,
     "createdAt": "2024-03-30T12:55:58Z"
   },
   {
@@ -13182,8 +13170,8 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 568,
-    "privateContributions": 45,
+    "followers": 600,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2023-02-25T22:15:31Z"
   },

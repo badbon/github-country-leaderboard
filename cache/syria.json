@@ -12836,7 +12836,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2020-01-01T13:09:51Z"
   },
   {
@@ -12846,7 +12846,7 @@
     "location": "Syria, Damascus",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-17T09:11:44Z"
@@ -12859,7 +12859,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-15T02:40:45Z"
   },
@@ -12884,7 +12884,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 0,
     "createdAt": "2020-09-29T02:26:43Z"
   },
   {
@@ -12896,7 +12896,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 148,
+    "publicContributions": 85,
     "createdAt": "2020-03-09T17:59:25Z"
   },
   {
@@ -12908,7 +12908,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 38,
-    "publicContributions": 97,
+    "publicContributions": 98,
     "createdAt": "2020-10-05T22:15:13Z"
   },
   {
@@ -12918,7 +12918,7 @@
     "location": "Aleppo, Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-26T15:36:51Z"
@@ -12966,7 +12966,7 @@
     "location": "Damascus, Syria",
     "company": "Tomsk State University",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2020-10-21T16:03:42Z"
@@ -12992,7 +12992,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 68,
     "createdAt": "2020-05-09T12:05:19Z"
   },
   {
@@ -13004,7 +13004,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 26,
     "createdAt": "2020-06-04T20:24:55Z"
   },
   {
@@ -13016,7 +13016,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-11-10T22:07:33Z"
   },
   {
@@ -13027,20 +13027,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 889,
-    "publicContributions": 343,
+    "privateContributions": 179,
+    "publicContributions": 918,
     "createdAt": "2020-09-12T06:32:26Z"
   },
   {
     "login": "royaraqamia",
-    "name": "رؤية رقمية",
+    "name": "رؤيَة رقَميَّة",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60569862?s=72&u=0bc7999cad19db77f9021b3e0a55ca50c3501901&v=4",
     "location": "Syria",
-    "company": "",
+    "company": "رؤيَة رقَميَّة",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 398,
+    "privateContributions": 1,
+    "publicContributions": 1323,
     "createdAt": "2020-02-02T10:54:09Z"
   },
   {
@@ -13057,14 +13057,14 @@
   },
   {
     "login": "AhmedDalwan",
-    "name": "Ahmed Dalwan",
+    "name": "Ahmed DN",
     "avatarUrl": "https://avatars.githubusercontent.com/u/74209083?s=72&u=30866a65f47fd35f716aa6fe49734f6a86fd8f48&v=4",
     "location": "Damascus, Syria",
     "company": "Game Power 7",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 96,
-    "publicContributions": 32,
+    "followers": 6,
+    "privateContributions": 87,
+    "publicContributions": 20,
     "createdAt": "2020-11-09T19:17:08Z"
   },
   {

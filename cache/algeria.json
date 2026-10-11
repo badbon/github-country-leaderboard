@@ -12642,7 +12642,7 @@
     "location": "algiers",
     "company": "Es Algiers ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2024-12-15T14:49:59Z"
@@ -12656,7 +12656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 5,
     "createdAt": "2024-03-26T15:31:58Z"
   },
   {
@@ -12686,11 +12686,11 @@
   {
     "login": "Farhi-Hocine",
     "name": "Farhi-Hocine",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180402499?s=72&u=30504dba83e07592534cff3a4983b317ec5f8b35&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/180402499?s=72&u=25724bd28048c4f29b86666f578d91264e6caff5&v=4",
     "location": "Algiers",
     "company": "@ESI",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-09-04T09:46:58Z"
@@ -12704,19 +12704,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-05-13T18:32:41Z"
   },
   {
     "login": "yasminehamma",
     "name": "Yasmine Hamma ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/183584035?s=72&u=4e43252c8929cfd6ae0c8b972071263136eac14a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/183584035?s=72&u=e22f51cc0f997682233ae8f99d5e725884feff3d&v=4",
     "location": "Algiers",
     "company": "GDG Algiers",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 17,
-    "publicContributions": 4,
+    "followers": 2,
+    "privateContributions": 119,
+    "publicContributions": 5,
     "createdAt": "2024-10-02T07:07:37Z"
   },
   {
@@ -12726,8 +12726,8 @@
     "location": "Algeria, Mali",
     "company": "Microverse",
     "twitterUsername": "AllassaneDicko0",
-    "followers": 70,
-    "privateContributions": 660,
+    "followers": 71,
+    "privateContributions": 771,
     "publicContributions": 2,
     "createdAt": "2020-11-13T12:09:27Z"
   },
@@ -12738,9 +12738,9 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2242,
+    "followers": 2438,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 232,
     "createdAt": "2023-10-14T19:57:06Z"
   },
   {
@@ -12750,8 +12750,8 @@
     "location": "Mostaganem, Algeria",
     "company": "Meta AI Research ",
     "twitterUsername": "wissal_mn2410",
-    "followers": 590,
-    "privateContributions": 5038,
+    "followers": 585,
+    "privateContributions": 4367,
     "publicContributions": 10,
     "createdAt": "2023-05-31T19:32:36Z"
   },
@@ -12762,9 +12762,9 @@
     "location": "Sidi moussa , Algiers, algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 336,
-    "privateContributions": 560,
-    "publicContributions": 40,
+    "followers": 331,
+    "privateContributions": 442,
+    "publicContributions": 38,
     "createdAt": "2023-02-24T13:06:44Z"
   },
   {
@@ -12774,9 +12774,9 @@
     "location": "Algiers-Algeria",
     "company": "Ecole Nationale Superieure d'Informatique",
     "twitterUsername": "",
-    "followers": 308,
-    "privateContributions": 153,
-    "publicContributions": 383,
+    "followers": 314,
+    "privateContributions": 148,
+    "publicContributions": 313,
     "createdAt": "2023-03-05T19:55:08Z"
   },
   {
@@ -12786,22 +12786,10 @@
     "location": "algeria",
     "company": "Hawiyat",
     "twitterUsername": "",
-    "followers": 288,
-    "privateContributions": 681,
-    "publicContributions": 560,
+    "followers": 284,
+    "privateContributions": 709,
+    "publicContributions": 418,
     "createdAt": "2023-10-13T22:59:03Z"
-  },
-  {
-    "login": "salahlalami",
-    "name": "Salah Eddine Lalami",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136928179?s=72&u=8b6b2a8baa00ef77df36a33226302975148f2e9a&v=4",
-    "location": "Algeria",
-    "company": "",
-    "twitterUsername": "lalamisdn",
-    "followers": 255,
-    "privateContributions": 1046,
-    "publicContributions": 13,
-    "createdAt": "2023-06-17T19:11:04Z"
   },
   {
     "login": "WalaEddine01",
@@ -12810,7 +12798,7 @@
     "location": "Algeria, Batna",
     "company": "ALX SWE",
     "twitterUsername": "",
-    "followers": 239,
+    "followers": 237,
     "privateContributions": 10,
     "publicContributions": 84,
     "createdAt": "2023-06-05T16:27:22Z"
@@ -12822,7 +12810,7 @@
     "location": "Algeria",
     "company": " @holbertonschool| @ALX_AFRICA",
     "twitterUsername": "salihabri",
-    "followers": 235,
+    "followers": 230,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-11T22:25:04Z"
@@ -12834,7 +12822,7 @@
     "location": "Algeria",
     "company": "",
     "twitterUsername": "b_abdelali",
-    "followers": 213,
+    "followers": 245,
     "privateContributions": 0,
     "publicContributions": 75,
     "createdAt": "2023-07-04T21:09:29Z"
@@ -12846,9 +12834,9 @@
     "location": "Algiers, Algeria",
     "company": "Ecole nationale Supérieure d'Informatique d'Alger",
     "twitterUsername": "thatguyrahim",
-    "followers": 188,
-    "privateContributions": 202,
-    "publicContributions": 68,
+    "followers": 184,
+    "privateContributions": 231,
+    "publicContributions": 65,
     "createdAt": "2023-11-01T17:49:06Z"
   },
   {
@@ -12858,9 +12846,9 @@
     "location": "algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 164,
-    "privateContributions": 2221,
-    "publicContributions": 878,
+    "followers": 168,
+    "privateContributions": 2696,
+    "publicContributions": 836,
     "createdAt": "2023-11-10T19:47:27Z"
   },
   {
@@ -12870,9 +12858,9 @@
     "location": "Algeria",
     "company": "The National Higher School of Artificial Intelligence (ENSIA)",
     "twitterUsername": "",
-    "followers": 163,
-    "privateContributions": 100,
-    "publicContributions": 99,
+    "followers": 195,
+    "privateContributions": 93,
+    "publicContributions": 124,
     "createdAt": "2023-09-26T15:46:42Z"
   },
   {

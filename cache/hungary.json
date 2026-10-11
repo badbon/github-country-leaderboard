@@ -12660,18 +12660,6 @@
     "createdAt": "2022-12-05T08:30:35Z"
   },
   {
-    "login": "peymanlee",
-    "name": "Peyman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114231456?s=72&u=1afacdb24691c94aa214e298931533baf0c22470&v=4",
-    "location": "Budapest, Hungary",
-    "company": "Eötvös Loránd University",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-09-23T11:31:50Z"
-  },
-  {
     "login": "NagyZoltanPeter",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113987313?s=72&u=6dbc1d0112b8796dc16085456c574f006461ed1e&v=4",
@@ -12680,7 +12668,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1222,
+    "publicContributions": 1370,
     "createdAt": "2022-09-20T10:50:21Z"
   },
   {
@@ -12704,7 +12692,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 21,
     "createdAt": "2022-12-19T17:36:28Z"
   },
   {
@@ -12715,7 +12703,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 356,
+    "privateContributions": 460,
     "publicContributions": 292,
     "createdAt": "2022-08-09T13:49:44Z"
   },
@@ -12733,14 +12721,14 @@
   },
   {
     "login": "SzFarkas32",
-    "name": "Szabó-Király Farkas",
+    "name": "Szabó-Király Farkas Tamás",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113937305?s=72&u=98628d1acd65e4f9c2505719c4fb9c9896ec41c8&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "hunPC1",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 37,
     "createdAt": "2022-09-19T18:25:16Z"
   },
   {
@@ -12751,8 +12739,8 @@
     "company": "KUKA Robotics",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 96,
-    "publicContributions": 298,
+    "privateContributions": 76,
+    "publicContributions": 288,
     "createdAt": "2022-02-25T20:27:34Z"
   },
   {
@@ -12763,21 +12751,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 146,
-    "publicContributions": 103,
+    "privateContributions": 173,
+    "publicContributions": 99,
     "createdAt": "2022-10-27T14:32:23Z"
-  },
-  {
-    "login": "CyntexMore",
-    "name": "Phrooo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114937220?s=72&u=80a424a4acebee2d753bd59b25278ac8fd66c052&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 34,
-    "publicContributions": 91,
-    "createdAt": "2022-10-03T15:12:35Z"
   },
   {
     "login": "ldaniel2726",
@@ -12787,7 +12763,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 88,
+    "privateContributions": 82,
     "publicContributions": 0,
     "createdAt": "2022-01-18T16:48:05Z"
   },
@@ -12800,7 +12776,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 53,
     "createdAt": "2022-10-25T13:40:39Z"
   },
   {
@@ -12811,7 +12787,7 @@
     "company": "",
     "twitterUsername": "_francodex",
     "followers": 6,
-    "privateContributions": 106,
+    "privateContributions": 105,
     "publicContributions": 8,
     "createdAt": "2022-07-20T19:23:05Z"
   },
@@ -12834,7 +12810,7 @@
     "location": "Hungary",
     "company": "Győri SZC Jedlik Ányos Gépipari és Informatikai Technikum és Kollégium",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 14,
     "publicContributions": 23,
     "createdAt": "2022-09-07T07:25:39Z"
@@ -12872,7 +12848,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 49,
     "createdAt": "2022-04-29T08:27:02Z"
   },
   {
@@ -12884,7 +12860,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 39,
     "createdAt": "2022-03-22T13:41:01Z"
   },
   {
@@ -12896,7 +12872,7 @@
     "twitterUsername": "pingivok",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 80,
     "createdAt": "2022-08-02T06:33:29Z"
   },
   {

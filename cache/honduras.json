@@ -13147,7 +13147,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 212,
+    "privateContributions": 203,
     "publicContributions": 9,
     "createdAt": "2014-07-25T22:44:32Z"
   },
@@ -13266,9 +13266,9 @@
     "location": "Tegucigalpa Hn",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 41,
-    "publicContributions": 11,
+    "publicContributions": 18,
     "createdAt": "2014-08-17T00:30:44Z"
   },
   {
@@ -13278,9 +13278,9 @@
     "location": "Roatan, Honduras",
     "company": "@AvantiPoint",
     "twitterUsername": "DanJSiegel",
-    "followers": 518,
-    "privateContributions": 6077,
-    "publicContributions": 590,
+    "followers": 517,
+    "privateContributions": 8654,
+    "publicContributions": 845,
     "createdAt": "2013-03-14T03:58:25Z"
   },
   {
@@ -13296,18 +13296,6 @@
     "createdAt": "2013-06-17T22:07:34Z"
   },
   {
-    "login": "Creativohn",
-    "name": "Mauricio Alvarado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4789849?s=72&v=4",
-    "location": "Honduras",
-    "company": "Creativohn",
-    "twitterUsername": "",
-    "followers": 55,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2013-06-23T18:59:09Z"
-  },
-  {
     "login": "Raimmaster",
     "name": "Raim Interiano",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6061123?s=72&u=ad6147256f4b86b2f1cf1acd1bacc97064bdeae6&v=4",
@@ -13315,7 +13303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 54,
-    "privateContributions": 77,
+    "privateContributions": 100,
     "publicContributions": 7,
     "createdAt": "2013-11-28T18:20:17Z"
   },
@@ -13326,9 +13314,9 @@
     "location": "Honduras",
     "company": "ens.domains",
     "twitterUsername": "f1Miyamoto",
-    "followers": 36,
-    "privateContributions": 676,
-    "publicContributions": 34,
+    "followers": 37,
+    "privateContributions": 649,
+    "publicContributions": 246,
     "createdAt": "2013-10-14T04:42:37Z"
   },
   {
@@ -13338,7 +13326,7 @@
     "location": "El Progreso, Yoro, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 36,
     "privateContributions": 0,
     "publicContributions": 107,
     "createdAt": "2013-10-18T22:13:28Z"
@@ -13346,13 +13334,13 @@
   {
     "login": "Vicra",
     "name": "Victor Ramirez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5639412?s=72&u=bcf66e6a32f939497c958033f920a6ad0cba7d86&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5639412?s=72&u=38ae4d012d1bf5cd302b72ec2038e16d1d94fbb7&v=4",
     "location": "San Pedro Sula, Honduras",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 128,
-    "publicContributions": 71,
+    "followers": 39,
+    "privateContributions": 154,
+    "publicContributions": 95,
     "createdAt": "2013-10-08T15:13:42Z"
   },
   {

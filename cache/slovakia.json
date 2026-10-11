@@ -12596,7 +12596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 97,
     "createdAt": "2021-11-27T18:37:59Z"
   },
   {
@@ -12618,7 +12618,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 27,
     "createdAt": "2021-07-05T18:44:54Z"
@@ -12636,18 +12636,6 @@
     "createdAt": "2021-05-20T16:04:24Z"
   },
   {
-    "login": "smartwebeu",
-    "name": "Marek Rehak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90618902?s=72&v=4",
-    "location": "Slovakia, Europe",
-    "company": "Smartweb s.r.o.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-09-13T11:49:58Z"
-  },
-  {
     "login": "aveadev",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/82083974?s=72&u=b43adc200d628eeb609077ac02853479d863085b&v=4",
@@ -12656,7 +12644,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2021-04-07T07:45:52Z"
   },
   {
@@ -12666,7 +12654,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-23T13:24:26Z"
@@ -12714,7 +12702,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2021-10-04T10:07:06Z"
@@ -12750,7 +12738,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-03-28T20:25:07Z"
@@ -12775,21 +12763,9 @@
     "company": "@OWASmooth",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 245,
+    "privateContributions": 128,
     "publicContributions": 0,
     "createdAt": "2021-01-21T09:09:26Z"
-  },
-  {
-    "login": "Wildous",
-    "name": "Marko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/80457617?s=72&u=38ad5385209277d683dafc7040ad79a3fdf71c63&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-03-11T10:36:35Z"
   },
   {
     "login": "SimonSkoda13",
@@ -12812,7 +12788,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 59,
     "createdAt": "2021-03-09T19:04:47Z"
   },
   {
@@ -12823,8 +12799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 108,
-    "publicContributions": 12,
+    "privateContributions": 175,
+    "publicContributions": 13,
     "createdAt": "2021-11-03T16:20:45Z"
   },
   {

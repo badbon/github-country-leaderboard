@@ -12619,8 +12619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 64,
-    "publicContributions": 7,
+    "privateContributions": 65,
+    "publicContributions": 6,
     "createdAt": "2023-05-16T18:54:54Z"
   },
   {
@@ -12630,9 +12630,9 @@
     "location": "Taiwan",
     "company": "Deloitte",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 79,
     "createdAt": "2023-08-21T09:25:33Z"
   },
   {
@@ -12654,21 +12654,21 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 53,
     "createdAt": "2023-03-29T10:27:00Z"
   },
   {
     "login": "Shiphan",
-    "name": "",
+    "name": "Shiphan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/140245703?s=72&u=d1793895514a261cac5b951788c7565a7459435c&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 252,
+    "publicContributions": 251,
     "createdAt": "2023-07-22T10:21:49Z"
   },
   {
@@ -12716,7 +12716,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2023-04-26T16:55:28Z"
   },
   {
@@ -12726,9 +12726,9 @@
     "location": "Taiwan , Taipei",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 935,
     "createdAt": "2023-02-21T10:23:13Z"
   },
   {
@@ -12740,7 +12740,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 75,
     "createdAt": "2023-01-19T15:24:03Z"
   },
   {
@@ -12750,7 +12750,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2023-01-06T08:06:47Z"
@@ -12786,22 +12786,10 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 155,
     "createdAt": "2023-09-18T14:39:27Z"
-  },
-  {
-    "login": "tfan2437",
-    "name": "Ting Wei Fan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147965616?s=72&u=87d564d3ce75f20d4f29efb5bd387c192d432713&v=4",
-    "location": "Taichung, Taiwan",
-    "company": "Architech AI",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2023-10-15T05:31:58Z"
   },
   {
     "login": "Howardisme",
@@ -12810,9 +12798,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 69,
     "createdAt": "2023-11-17T07:19:22Z"
   },
   {

@@ -12816,18 +12816,6 @@
     "createdAt": "2018-09-05T16:42:09Z"
   },
   {
-    "login": "Chelomai",
-    "name": "Marcelo Maidana",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44822144?s=72&u=851defabfe50a4cbcb2c5c9d7f1e7a1211776d91&v=4",
-    "location": "Bolivia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2018-11-06T23:32:08Z"
-  },
-  {
     "login": "jasbel",
     "name": "Asbel Jhonatan Apaza Romero",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38922692?s=72&u=f2b3673d1653076dae2a9789e741f0df03b1bb82&v=4",
@@ -12835,8 +12823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 162,
-    "publicContributions": 82,
+    "privateContributions": 204,
+    "publicContributions": 76,
     "createdAt": "2018-05-02T18:23:13Z"
   },
   {
@@ -12846,9 +12834,9 @@
     "location": "La Paz, Bolivia",
     "company": "Kapitalya Servicios Integrales",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 117,
-    "publicContributions": 44,
+    "followers": 3,
+    "privateContributions": 588,
+    "publicContributions": 76,
     "createdAt": "2018-11-27T23:17:14Z"
   },
   {
@@ -12859,7 +12847,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 59,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2018-01-10T16:55:53Z"
   },
@@ -12907,7 +12895,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
+    "privateContributions": 10,
     "publicContributions": 53,
     "createdAt": "2018-10-31T19:55:55Z"
   },
@@ -12919,7 +12907,7 @@
     "company": "Multi-platform Developer",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 255,
+    "privateContributions": 304,
     "publicContributions": 2,
     "createdAt": "2018-06-03T23:55:42Z"
   },
@@ -12932,7 +12920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 61,
     "createdAt": "2018-09-09T19:15:13Z"
   },
   {
@@ -12956,7 +12944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 80,
+    "publicContributions": 111,
     "createdAt": "2018-08-30T13:41:54Z"
   },
   {
@@ -12979,8 +12967,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 62,
-    "privateContributions": 208,
-    "publicContributions": 75,
+    "privateContributions": 184,
+    "publicContributions": 52,
     "createdAt": "2017-07-25T14:41:23Z"
   },
   {
@@ -12990,7 +12978,7 @@
     "location": "Santa Cruz de la Sierra, Bolivia",
     "company": "",
     "twitterUsername": "victordevcode",
-    "followers": 52,
+    "followers": 53,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-01-23T03:06:46Z"
@@ -13004,7 +12992,7 @@
     "twitterUsername": "",
     "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2017-12-11T02:36:25Z"
   },
   {
@@ -13015,7 +13003,7 @@
     "company": "@openzeppelin",
     "twitterUsername": "nahimdhaney",
     "followers": 31,
-    "privateContributions": 2526,
+    "privateContributions": 4476,
     "publicContributions": 48,
     "createdAt": "2017-07-09T15:03:15Z"
   },
@@ -13026,8 +13014,8 @@
     "location": "Santa Cruz, Bolivia",
     "company": "FITco",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 310,
+    "followers": 32,
+    "privateContributions": 349,
     "publicContributions": 35,
     "createdAt": "2017-04-20T00:59:54Z"
   },
@@ -13038,9 +13026,9 @@
     "location": "La Paz, Bolivia",
     "company": "",
     "twitterUsername": "KievAndresDev",
-    "followers": 21,
-    "privateContributions": 538,
-    "publicContributions": 234,
+    "followers": 24,
+    "privateContributions": 727,
+    "publicContributions": 120,
     "createdAt": "2017-05-05T09:51:48Z"
   },
   {

@@ -13016,7 +13016,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 20,
     "createdAt": "2022-08-04T12:44:31Z"
   },
   {
@@ -13026,9 +13026,9 @@
     "location": "Ecuador",
     "company": "Escuela Politecnica Nacional",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 74,
     "createdAt": "2022-11-15T18:00:06Z"
   },
   {
@@ -13038,9 +13038,9 @@
     "location": "Ecuador ",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2022-07-23T22:09:13Z"
   },
   {
@@ -13064,7 +13064,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2022-10-31T15:29:06Z"
   },
   {
@@ -13073,10 +13073,10 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/107126983?s=72&u=902b8c3f1c28c3dd6cc8cd8b1e91b66e9e779b2e&v=4",
     "location": "Ecuador",
     "company": "Saludsa",
-    "twitterUsername": "_dekov",
+    "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 100,
-    "publicContributions": 146,
+    "privateContributions": 73,
+    "publicContributions": 199,
     "createdAt": "2022-06-08T13:57:38Z"
   },
   {
@@ -13086,7 +13086,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-27T03:17:23Z"
@@ -13100,20 +13100,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 465,
+    "publicContributions": 468,
     "createdAt": "2022-05-24T14:35:52Z"
-  },
-  {
-    "login": "hugoespinosa01",
-    "name": "Hugo Espinosa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109091189?s=72&u=a1a2ca9bd1f04e5414cbf9ad30d55cdd616eb9f8&v=4",
-    "location": "Guayaquil, Ecuador",
-    "company": "Eikon S.A.",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 68,
-    "publicContributions": 4,
-    "createdAt": "2022-07-11T14:52:09Z"
   },
   {
     "login": "dimasb69",
@@ -13122,21 +13110,21 @@
     "location": "Ecuador",
     "company": "DGBP00 / MomDontGo.Dev",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 113,
-    "publicContributions": 109,
+    "followers": 9,
+    "privateContributions": 147,
+    "publicContributions": 95,
     "createdAt": "2022-01-22T01:45:33Z"
   },
   {
     "login": "shaskola",
-    "name": "Shaskola",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118312203?s=72&u=a0625e47ba208f371196ffe09171ea4483841310&v=4",
+    "name": "Fernando Ruiz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118312203?s=72&u=00bf20b34c81ce191ca3d1aaf30c957725e90c10&v=4",
     "location": "Ecuador",
-    "company": "Digital Daylight",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 3273,
-    "publicContributions": 9,
+    "company": "UXNodes",
+    "twitterUsername": "shasko",
+    "followers": 6,
+    "privateContributions": 5825,
+    "publicContributions": 18,
     "createdAt": "2022-11-15T21:09:52Z"
   },
   {
@@ -13148,7 +13136,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 37,
     "createdAt": "2022-04-05T14:29:52Z"
   },
   {
@@ -13158,7 +13146,7 @@
     "location": "Ecuador",
     "company": "Historia del Independiente del Valle",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-22T19:24:51Z"
@@ -13183,7 +13171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 12,
+    "privateContributions": 83,
     "publicContributions": 9,
     "createdAt": "2022-05-06T17:24:35Z"
   },
@@ -13206,9 +13194,9 @@
     "location": "Tumbaco, Quito - Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 11,
     "createdAt": "2022-08-13T01:08:59Z"
   },
   {
@@ -13220,7 +13208,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2022-12-16T04:32:13Z"
   },
   {
@@ -13242,9 +13230,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 733,
+    "publicContributions": 628,
     "createdAt": "2022-07-01T04:20:22Z"
   },
   {

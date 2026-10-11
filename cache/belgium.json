@@ -12932,7 +12932,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2023-02-14T16:59:08Z"
   },
   {
@@ -12943,8 +12943,8 @@
     "company": "@IntelliProve ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3497,
-    "publicContributions": 6,
+    "privateContributions": 2887,
+    "publicContributions": 2,
     "createdAt": "2023-01-02T09:16:27Z"
   },
   {
@@ -12954,9 +12954,9 @@
     "location": "Leuven, Belgium",
     "company": "Aetherspace",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2023-02-02T08:44:00Z"
   },
   {
@@ -12966,9 +12966,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 90,
     "createdAt": "2023-09-10T23:27:14Z"
   },
   {
@@ -12990,9 +12990,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 647,
-    "publicContributions": 77,
+    "followers": 5,
+    "privateContributions": 601,
+    "publicContributions": 177,
     "createdAt": "2023-04-14T08:17:05Z"
   },
   {
@@ -13015,8 +13015,8 @@
     "company": "@odoo",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 59,
-    "publicContributions": 72,
+    "privateContributions": 88,
+    "publicContributions": 65,
     "createdAt": "2023-07-17T20:45:25Z"
   },
   {
@@ -13027,19 +13027,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 990,
-    "publicContributions": 8,
+    "privateContributions": 1078,
+    "publicContributions": 2,
     "createdAt": "2023-10-13T17:43:52Z"
   },
   {
     "login": "loiclo",
     "name": "Loic",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129502120?s=72&u=a6d5e35772596e0e4d008a3f8402a42fa4c23549&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/129502120?s=72&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 101,
+    "privateContributions": 96,
     "publicContributions": 0,
     "createdAt": "2023-03-31T09:29:22Z"
   },
@@ -13057,14 +13057,14 @@
   },
   {
     "login": "khaixmania",
-    "name": "Kaan Akman",
+    "name": "Kaan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145116515?s=72&u=85d6250098d40c8a5f1eec0a4b7d70e0e4cf3b29&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 251,
+    "publicContributions": 247,
     "createdAt": "2023-09-15T10:10:18Z"
   },
   {
@@ -13075,7 +13075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 115,
+    "privateContributions": 108,
     "publicContributions": 133,
     "createdAt": "2023-03-01T15:10:07Z"
   },
@@ -13099,7 +13099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 641,
+    "privateContributions": 661,
     "publicContributions": 340,
     "createdAt": "2023-09-18T07:21:02Z"
   },
@@ -13111,7 +13111,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 77,
+    "privateContributions": 67,
     "publicContributions": 3,
     "createdAt": "2023-11-29T10:08:50Z"
   },
@@ -13123,8 +13123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 716,
-    "publicContributions": 218,
+    "privateContributions": 673,
+    "publicContributions": 168,
     "createdAt": "2023-09-15T09:05:40Z"
   },
   {
@@ -13136,7 +13136,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 41,
     "createdAt": "2023-02-20T16:26:57Z"
   },
   {

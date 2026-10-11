@@ -13087,7 +13087,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 405,
+    "privateContributions": 436,
     "publicContributions": 6,
     "createdAt": "2020-05-15T12:44:41Z"
   },
@@ -13099,7 +13099,7 @@
     "company": "",
     "twitterUsername": "Queeniva13",
     "followers": 4,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-03T12:26:03Z"
   },
@@ -13110,22 +13110,10 @@
     "location": "Cameroon,Buea",
     "company": "Wodar Technologies",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-15T00:41:08Z"
-  },
-  {
-    "login": "debbieoben",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64982178?s=72&v=4",
-    "location": "cameroon",
-    "company": "Oben Doriane",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 87,
-    "createdAt": "2020-05-07T18:08:42Z"
   },
   {
     "login": "Danwe05",
@@ -13135,8 +13123,8 @@
     "company": "HoroHouse Company",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 7,
-    "publicContributions": 78,
+    "privateContributions": 0,
+    "publicContributions": 77,
     "createdAt": "2020-11-07T09:17:21Z"
   },
   {
@@ -13147,7 +13135,7 @@
     "company": "",
     "twitterUsername": "jugalux1",
     "followers": 4,
-    "privateContributions": 64,
+    "privateContributions": 52,
     "publicContributions": 0,
     "createdAt": "2019-12-31T11:10:09Z"
   },
@@ -13183,8 +13171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 227,
-    "publicContributions": 101,
+    "privateContributions": 510,
+    "publicContributions": 84,
     "createdAt": "2020-03-27T06:14:29Z"
   },
   {
@@ -13207,8 +13195,8 @@
     "company": "SendSasa",
     "twitterUsername": "BlockchainMonk_",
     "followers": 3,
-    "privateContributions": 273,
-    "publicContributions": 206,
+    "privateContributions": 415,
+    "publicContributions": 44,
     "createdAt": "2020-06-02T07:12:17Z"
   },
   {
@@ -13219,8 +13207,8 @@
     "company": "VIXL ",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 969,
-    "publicContributions": 278,
+    "privateContributions": 1376,
+    "publicContributions": 325,
     "createdAt": "2020-10-17T07:43:44Z"
   },
   {
@@ -13242,7 +13230,7 @@
     "location": "Bonaberi, Douala, Cameroon",
     "company": "Universal Graphics",
     "twitterUsername": "OkobiOna",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-21T15:37:16Z"
@@ -13254,7 +13242,7 @@
     "location": "Yaounde, Cameroon",
     "company": "",
     "twitterUsername": "adrienngaland",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-07T08:11:26Z"
@@ -13266,9 +13254,9 @@
     "location": "Yaoundé, Cameroon",
     "company": "TechCorp ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 21,
     "createdAt": "2020-08-28T12:43:26Z"
   },
   {

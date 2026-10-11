@@ -12650,11 +12650,11 @@
   {
     "login": "jankammeth",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181718079?s=72&u=a0900beeb7a02542452808b64ce7b0c7c99fa410&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/181718079?s=72&u=5de626b39a5b2cffa4bdefb2d6494b7c8292c443&v=4",
     "location": "Zurich, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-09-16T09:41:49Z"
@@ -12692,7 +12692,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2024-04-19T16:06:34Z"
   },
   {
@@ -12727,21 +12727,9 @@
     "company": "Team Spirit AG",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 129,
+    "privateContributions": 23,
+    "publicContributions": 81,
     "createdAt": "2024-01-18T08:58:16Z"
-  },
-  {
-    "login": "shorabulhoque",
-    "name": "Shorabul Hoque",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189447508?s=72&u=bc0f8379e376d5054ab6ad48729b588044768660&v=4",
-    "location": "Hinwil, Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 225,
-    "createdAt": "2024-11-23T11:30:33Z"
   },
   {
     "login": "DorsazWilliam",
@@ -12810,7 +12798,7 @@
     "location": "Montreux, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-04T08:34:51Z"
@@ -12822,22 +12810,10 @@
     "location": "Bern, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 114,
+    "followers": 2,
+    "privateContributions": 179,
     "publicContributions": 10,
     "createdAt": "2024-12-24T14:16:19Z"
-  },
-  {
-    "login": "TechFusion94",
-    "name": "Luca Meier",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/182438760?s=72&u=42ad0c079cf8de7fd01017af2819c778fb69686d&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2024-09-22T17:48:18Z"
   },
   {
     "login": "TobiZeier",
@@ -12847,8 +12823,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 202,
+    "privateContributions": 0,
+    "publicContributions": 199,
     "createdAt": "2024-07-31T14:57:22Z"
   },
   {
@@ -12860,7 +12836,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 577,
     "createdAt": "2024-04-15T15:20:18Z"
   },
   {
