@@ -1,8 +1,8 @@
 # Followers - Nicaragua
 
-Generated: 2026-10-11T01:23:32.354Z
+Generated: 2026-10-11T06:24:38.372Z
 
-Users: 1400
+Users: 1399
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

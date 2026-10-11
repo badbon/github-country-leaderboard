@@ -49,7 +49,7 @@ Indexed users: 742
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi | Tripoli - Lebanon | 640 |
 | 11 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash | Libya | 615 |
 | 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih | Libya | 598 |
-| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 476 |
+| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr | Libya | 472 |
 | 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 437 |
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | Tripoli, Libya | 418 |
 | 16 | [Tellesy](https://github.com/Tellesy) | blueMu | Tripoli, Libya | 360 |
@@ -83,4 +83,4 @@ Indexed users: 742
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-11T01:09:20.621Z
+Generated: 2026-10-11T06:11:34.544Z

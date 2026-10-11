@@ -25,13 +25,13 @@ Indexed users: 1,540
 | 11 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
 | 12 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
 | 13 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 14 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
-| 15 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
-| 16 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
-| 17 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
-| 18 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
-| 19 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,782 |
-| 20 | [gerardojbaez](https://github.com/gerardojbaez) | Gerardo Baez | Puerto Rico | 4,730 |
+| 14 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
+| 15 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
+| 16 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
+| 17 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,337 |
+| 18 | [jv-pv](https://github.com/jv-pv) | John Pieri | Puerto Rico | 5,125 |
+| 19 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 4,810 |
+| 20 | [n6617x](https://github.com/n6617x) | blk | Yabucoa, Puerto Rico, United States | 4,782 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,540
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-11T01:32:07.985Z
+Generated: 2026-10-11T06:32:49.982Z

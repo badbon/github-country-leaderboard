@@ -12,7 +12,7 @@ Indexed users: 440
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,120 |
+| 1 | [K4Lok](https://github.com/K4Lok) | KaLok Sam | Macau | 11,159 |
 | 2 | [spiritLHLS](https://github.com/spiritLHLS) | spiritlhl | Macau | 9,280 |
 | 3 | [vergilsoleyn](https://github.com/vergilsoleyn) |  | Macau | 7,870 |
 | 4 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 6,616 |
@@ -51,10 +51,10 @@ Indexed users: 440
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 794 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
 | 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 685 |
-| 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 656 |
+| 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 653 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
-| 17 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 550 |
-| 18 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 546 |
+| 17 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 573 |
+| 18 | [Chonwai](https://github.com/Chonwai) | Chonwai Un, Edison | Macau | 550 |
 | 19 | [alemonmk](https://github.com/alemonmk) | Lemon Lam | Macau | 503 |
 | 20 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 467 |
 
@@ -83,4 +83,4 @@ Indexed users: 440
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-11T01:11:04.244Z
+Generated: 2026-10-11T06:11:51.388Z
