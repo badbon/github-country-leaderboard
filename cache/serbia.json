@@ -128026,5 +128026,29 @@
     "privateContributions": 0,
     "publicContributions": 52,
     "createdAt": "2023-06-25T12:22:01Z"
+  },
+  {
+    "login": "MarijaVjetrovic",
+    "name": "Marija Vjetrović",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297207609?s=72&u=88bb2b2a0ce48c4d4e7449eee8c46101a5bb0efa&v=4",
+    "location": "Belgrade",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-26T15:46:14Z"
+  },
+  {
+    "login": "marko-alyass-zaric",
+    "name": "Marko Alyass Zaric",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288591567?s=72&u=8dfd86a625576d33381ac33e222b95a793111b96&v=4",
+    "location": "Belgrade",
+    "company": "Ingsoftware",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-28T09:43:28Z"
   }
 ]

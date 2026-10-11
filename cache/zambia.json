@@ -13303,7 +13303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-14T02:56:42Z"
   },
@@ -13314,7 +13314,7 @@
     "location": "Lusaka, Zambia",
     "company": "SyncLabs",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-04-30T08:53:13Z"
@@ -13335,12 +13335,12 @@
     "login": "CHAMA18",
     "name": "Chungu Chipimo Chama",
     "avatarUrl": "https://avatars.githubusercontent.com/u/29226252?s=72&u=df2282b3ccc3a2b251815f30f8951cf39c011232&v=4",
-    "location": "Lusaka, Zambia ",
+    "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 502,
-    "publicContributions": 9789,
+    "followers": 6,
+    "privateContributions": 8383,
+    "publicContributions": 2691,
     "createdAt": "2017-06-06T09:29:25Z"
   },
   {
@@ -13375,7 +13375,7 @@
     "company": "Lyradomains",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 363,
+    "privateContributions": 275,
     "publicContributions": 17,
     "createdAt": "2017-02-01T09:03:21Z"
   },
@@ -13386,7 +13386,7 @@
     "location": "Kapiri Mposhi, Zambia",
     "company": "HapiTimes Foundation",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-06-13T01:44:37Z"
@@ -13418,13 +13418,13 @@
   {
     "login": "kalisto263",
     "name": "Tafadzwa Kalisto Munzwa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/32706989?s=72&u=c61c9ef57870244b8419e79c310a1cca0cf7ed21&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/32706989?s=72&u=01607c3ea909834a74421ce7f8ab170dd279a9fc&v=4",
     "location": "Lusaka, Zambia",
     "company": "Dawa Health, Inc",
     "twitterUsername": "kalimunzwa",
-    "followers": 2,
-    "privateContributions": 103,
-    "publicContributions": 50,
+    "followers": 3,
+    "privateContributions": 40,
+    "publicContributions": 32,
     "createdAt": "2017-10-11T12:30:25Z"
   },
   {
@@ -13470,9 +13470,9 @@
     "location": "Zambia",
     "company": "KauTech Solutions",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 8,
-    "publicContributions": 4,
+    "followers": 4,
+    "privateContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2017-01-10T11:48:46Z"
   },
   {

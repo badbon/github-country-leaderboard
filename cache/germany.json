@@ -845766,9 +845766,9 @@
     "location": "Germany",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 893,
-    "publicContributions": 832,
+    "followers": 8,
+    "privateContributions": 1134,
+    "publicContributions": 787,
     "createdAt": "2018-02-23T09:42:40Z"
   },
   {
@@ -846164,7 +846164,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 427,
-    "publicContributions": 171,
+    "publicContributions": 179,
     "createdAt": "2018-02-27T10:38:05Z"
   },
   {
@@ -847042,5 +847042,17 @@
     "privateContributions": 0,
     "publicContributions": 73,
     "createdAt": "2012-03-15T09:44:33Z"
+  },
+  {
+    "login": "korneXD",
+    "name": "korneXD",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/118478007?s=72&u=c0f9ae9d9c8227c4d94bc8dd7aabec9680351266&v=4",
+    "location": "Germany",
+    "company": "",
+    "twitterUsername": "itsk0rn3l",
+    "followers": 4,
+    "privateContributions": 417,
+    "publicContributions": 53,
+    "createdAt": "2022-11-17T18:57:29Z"
   }
 ]

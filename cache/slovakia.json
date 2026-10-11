@@ -13052,7 +13052,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 10,
     "createdAt": "2021-01-19T09:20:11Z"
   },
   {
@@ -13063,7 +13063,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 197,
+    "privateContributions": 204,
     "publicContributions": 0,
     "createdAt": "2021-05-06T10:55:43Z"
   },
@@ -13088,7 +13088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 20,
     "createdAt": "2021-10-12T17:55:40Z"
   },
   {
@@ -13100,7 +13100,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 32,
     "createdAt": "2021-06-14T15:04:12Z"
   },
   {
@@ -13124,7 +13124,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 5,
     "createdAt": "2021-11-08T09:24:46Z"
   },
   {
@@ -13171,7 +13171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1660,
+    "privateContributions": 930,
     "publicContributions": 4,
     "createdAt": "2021-06-16T21:22:31Z"
   },
@@ -13196,7 +13196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 62,
     "createdAt": "2020-12-29T16:42:53Z"
   },
   {
@@ -13230,9 +13230,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 36,
     "createdAt": "2021-04-15T07:59:46Z"
   },
   {
@@ -13243,7 +13243,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 164,
+    "privateContributions": 212,
     "publicContributions": 0,
     "createdAt": "2021-04-05T16:57:22Z"
   },
@@ -13255,8 +13255,8 @@
     "company": "",
     "twitterUsername": "__Miski__",
     "followers": 1,
-    "privateContributions": 157,
-    "publicContributions": 84,
+    "privateContributions": 160,
+    "publicContributions": 57,
     "createdAt": "2021-11-08T19:28:20Z"
   },
   {
@@ -56182,5 +56182,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-17T10:49:48Z"
+  },
+  {
+    "login": "haniquita",
+    "name": "Hana",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297643157?s=72&u=b3d7afaec028a8245e585375824b7c675204443d&v=4",
+    "location": "Slovakia",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-06-28T13:37:26Z"
+  },
+  {
+    "login": "TinaFusek",
+    "name": "Martina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297603811?s=72&u=3bddf1482d3b4e04489942c8cd994d4cc80ee198&v=4",
+    "location": "Slovakia",
+    "company": "Open to new opportunities",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-06-28T10:11:19Z"
   }
 ]

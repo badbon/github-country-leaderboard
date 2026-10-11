@@ -13184,7 +13184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 0,
     "createdAt": "2025-07-22T14:03:02Z"
   },
   {
@@ -13224,27 +13224,15 @@
     "createdAt": "2025-05-06T09:56:13Z"
   },
   {
-    "login": "Daniel-Rentoza",
-    "name": "Daniel Mommsen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/208664357?s=72&v=4",
-    "location": "Cape Town",
-    "company": "Rentoza",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2025-04-22T14:38:14Z"
-  },
-  {
     "login": "asante-matanga",
     "name": "Asante",
     "avatarUrl": "https://avatars.githubusercontent.com/u/229095893?s=72&u=5747e380461bdf47954bdde260d2a4903c67e004&v=4",
     "location": "Cape Town, SA",
     "company": "Hoeda",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2025-08-28T09:05:34Z"
   },
   {
@@ -13280,7 +13268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-01-18T10:44:37Z"
   },
   {
@@ -13304,7 +13292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-09-15T15:54:07Z"
   },
   {
@@ -13314,9 +13302,9 @@
     "location": "Cape Town",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 149,
+    "publicContributions": 182,
     "createdAt": "2025-06-18T12:56:56Z"
   },
   {
@@ -13327,8 +13315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 88,
+    "privateContributions": 37,
+    "publicContributions": 135,
     "createdAt": "2025-03-23T15:35:50Z"
   },
   {
@@ -13350,9 +13338,9 @@
     "location": "Cape Town",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 290,
     "createdAt": "2025-04-24T19:35:19Z"
   },
   {
@@ -13364,7 +13352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2025-03-31T08:22:18Z"
   },
   {
@@ -13374,7 +13362,7 @@
     "location": "Cape Town",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2025-04-03T12:29:24Z"
@@ -13399,7 +13387,7 @@
     "company": "University of Cape Town",
     "twitterUsername": "thatothapo",
     "followers": 1,
-    "privateContributions": 41,
+    "privateContributions": 42,
     "publicContributions": 8,
     "createdAt": "2025-03-10T12:15:37Z"
   },
@@ -13411,8 +13399,8 @@
     "company": "@TFG-Labs ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1386,
-    "publicContributions": 1,
+    "privateContributions": 1051,
+    "publicContributions": 0,
     "createdAt": "2025-03-05T07:58:13Z"
   },
   {
@@ -215338,5 +215326,41 @@
     "privateContributions": 0,
     "publicContributions": 131,
     "createdAt": "2026-06-13T18:32:34Z"
+  },
+  {
+    "login": "theeorip-collab",
+    "name": "TheeOri",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287717899?s=72&u=7d17666d56c73a2dd7bbfc37ec37f19a45a02a0e&v=4",
+    "location": "pretoria",
+    "company": "WaW",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-05-25T13:39:44Z"
+  },
+  {
+    "login": "managamashudu48-dot",
+    "name": "Mashudu Managa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291288331?s=72&u=377f14b1e446a9fcb7e9c47513fd5c58732806bc&v=4",
+    "location": "Pretoria Central",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-06-06T12:08:07Z"
+  },
+  {
+    "login": "lordmantsotsiu",
+    "name": "Mantšo Tšiu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291457796?s=72&u=b64f9522f4f951cb9fddc57b0f5d644e922c6d57&v=4",
+    "location": "Pretoria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 87,
+    "createdAt": "2026-06-07T07:02:41Z"
   }
 ]

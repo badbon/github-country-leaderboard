@@ -13520,7 +13520,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2022-04-18T16:59:41Z"
   },
   {
@@ -13532,7 +13532,7 @@
     "twitterUsername": "MaciasBermeo",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 157,
     "createdAt": "2022-04-20T19:39:48Z"
   },
   {
@@ -13546,18 +13546,6 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2022-10-26T14:50:09Z"
-  },
-  {
-    "login": "kastomd",
-    "name": "Kasto M",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99041020?s=72&u=436a32eb9a11b95c2912f70f720900452ca418be&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 134,
-    "createdAt": "2022-02-04T17:33:42Z"
   },
   {
     "login": "darwinjacome",
@@ -13579,8 +13567,8 @@
     "company": "RISKEN",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 313,
-    "publicContributions": 94,
+    "privateContributions": 273,
+    "publicContributions": 66,
     "createdAt": "2022-05-25T18:16:41Z"
   },
   {
@@ -13628,7 +13616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2022-03-30T21:33:32Z"
   },
   {
@@ -13662,9 +13650,9 @@
     "location": "Ecuador",
     "company": "Escuela Politécnica Nacional EPN",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 197,
+    "publicContributions": 327,
     "createdAt": "2022-11-08T13:37:33Z"
   },
   {
@@ -13676,7 +13664,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 26,
     "createdAt": "2022-05-31T14:30:18Z"
   },
   {
@@ -13686,7 +13674,7 @@
     "location": "Guayaquil, Guayas, Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-01T19:05:51Z"
@@ -13700,7 +13688,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 62,
-    "publicContributions": 96,
+    "publicContributions": 93,
     "createdAt": "2022-02-16T01:33:43Z"
   },
   {

@@ -13195,7 +13195,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 82,
+    "privateContributions": 43,
     "publicContributions": 0,
     "createdAt": "2022-02-11T08:48:10Z"
   },
@@ -13206,9 +13206,9 @@
     "location": "Abu Dhabi, UAE",
     "company": "PAM AI",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 154,
+    "publicContributions": 146,
     "createdAt": "2022-10-19T14:27:51Z"
   },
   {
@@ -13220,7 +13220,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2172,
+    "publicContributions": 2146,
     "createdAt": "2022-08-18T05:03:20Z"
   },
   {
@@ -13232,7 +13232,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2022-08-28T20:46:43Z"
   },
   {
@@ -13255,8 +13255,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 962,
-    "publicContributions": 34,
+    "privateContributions": 933,
+    "publicContributions": 53,
     "createdAt": "2022-08-27T18:08:56Z"
   },
   {
@@ -13267,8 +13267,8 @@
     "company": "42 Abu Dhabi",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 101,
-    "publicContributions": 18,
+    "privateContributions": 102,
+    "publicContributions": 21,
     "createdAt": "2022-04-08T12:35:16Z"
   },
   {
@@ -13278,9 +13278,9 @@
     "location": "Abu Dhabi",
     "company": "42 Abu Dhabi",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 16,
     "privateContributions": 4,
-    "publicContributions": 25,
+    "publicContributions": 30,
     "createdAt": "2022-02-04T11:27:22Z"
   },
   {
@@ -13290,9 +13290,9 @@
     "location": "Abu Dhabi",
     "company": "Khalifa University",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 212,
+    "followers": 6,
+    "privateContributions": 1,
+    "publicContributions": 331,
     "createdAt": "2022-12-12T11:33:44Z"
   },
   {
@@ -13308,18 +13308,6 @@
     "createdAt": "2022-05-16T06:44:00Z"
   },
   {
-    "login": "MiadosC1",
-    "name": "Ricardo Ibarra Garcia",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116777631?s=72&u=b68f2774be7d1d26d05f76766424d9f86a8f9678&v=4",
-    "location": "Abu Dhabi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 106,
-    "createdAt": "2022-10-27T02:43:57Z"
-  },
-  {
     "login": "Luke-Luo1",
     "name": "Zhenye (Luke) Luo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100562982?s=72&u=dcf30cf0688b87be6fe92987d6dac426754187de&v=4",
@@ -13328,7 +13316,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2022-02-28T08:48:50Z"
   },
   {
@@ -13336,9 +13324,9 @@
     "name": "Jonathan Yang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/119090647?s=72&u=104baff279f7ebfa312c00d14a2afa4657b95510&v=4",
     "location": "Abu Dhabi",
-    "company": "Solve-AI",
+    "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 10,
     "privateContributions": 465,
     "publicContributions": 15,
     "createdAt": "2022-11-26T03:09:35Z"
@@ -13360,11 +13348,11 @@
     "name": "Hussam Odeh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/107620725?s=72&u=bd763fb079e4f74875ce24619e5e2d9ef9dfbfc5&v=4",
     "location": "UAE, Abu Dhabi",
-    "company": "",
+    "company": "Abu Dhabi Municipality",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 75,
     "createdAt": "2022-06-16T10:49:01Z"
   },
   {
@@ -13376,7 +13364,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 228,
     "createdAt": "2022-02-02T08:33:31Z"
   },
   {
@@ -13398,9 +13386,9 @@
     "location": "Abu Dhabi, UAE",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 97,
     "createdAt": "2022-02-09T08:54:57Z"
   },
   {

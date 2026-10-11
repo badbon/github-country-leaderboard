@@ -3056,7 +3056,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 23,
     "createdAt": "2024-05-06T22:23:02Z"
   },
   {
@@ -10378,5 +10378,29 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2026-05-19T03:38:17Z"
+  },
+  {
+    "login": "tilaabo",
+    "name": "Mohamed Abshir Kariye",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292680191?s=72&v=4",
+    "location": "Mogadishu",
+    "company": "Tabaarak ICT Solutions",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-06-11T06:07:43Z"
+  },
+  {
+    "login": "Mohaad-Alii",
+    "name": "Mohamed Ali Mohamud",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292058592?s=72&u=53a625e494be3ff65e597b047d6c2206fa69621c&v=4",
+    "location": "Madina,wadajir, Mogadishu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 39,
+    "createdAt": "2026-06-09T09:18:17Z"
   }
 ]

@@ -13542,8 +13542,8 @@
     "location": "Georgia,Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 2520,
+    "followers": 18,
+    "privateContributions": 2463,
     "publicContributions": 172,
     "createdAt": "2022-07-02T10:43:35Z"
   },
@@ -13567,8 +13567,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 58,
-    "publicContributions": 26,
+    "privateContributions": 59,
+    "publicContributions": 0,
     "createdAt": "2022-02-07T10:05:11Z"
   },
   {
@@ -13580,7 +13580,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 24,
     "createdAt": "2022-02-07T23:25:03Z"
   },
   {
@@ -13627,7 +13627,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 230,
+    "privateContributions": 185,
     "publicContributions": 53,
     "createdAt": "2022-05-08T20:22:39Z"
   },
@@ -13640,7 +13640,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2022-07-26T19:05:04Z"
   },
   {
@@ -13652,7 +13652,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 102,
     "createdAt": "2022-02-20T00:05:03Z"
   },
   {
@@ -13663,7 +13663,7 @@
     "company": "Ozorix",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 16,
+    "privateContributions": 32,
     "publicContributions": 1,
     "createdAt": "2022-01-19T20:08:04Z"
   },
@@ -13674,21 +13674,21 @@
     "location": "Georgia, Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 558,
-    "publicContributions": 8,
+    "followers": 17,
+    "privateContributions": 544,
+    "publicContributions": 3,
     "createdAt": "2022-02-18T10:13:28Z"
   },
   {
     "login": "nccapo",
     "name": "Nicolas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98224439?s=72&u=88e72784d12cd64a8421a2cd0055240bd8902c98&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98224439?s=72&u=317d5e824c5af66a78e8aabd90f9289449735ccc&v=4",
     "location": "Tbilisi, Georgia",
     "company": "@syst3mctl",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 2242,
-    "publicContributions": 179,
+    "followers": 17,
+    "privateContributions": 2742,
+    "publicContributions": 369,
     "createdAt": "2022-01-22T15:19:55Z"
   },
   {
@@ -13698,9 +13698,9 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 16,
     "privateContributions": 6,
-    "publicContributions": 213,
+    "publicContributions": 186,
     "createdAt": "2022-06-13T15:40:23Z"
   },
   {
@@ -13710,8 +13710,8 @@
     "location": "Tbilisi, Georgia",
     "company": "Flutter International",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 673,
+    "followers": 12,
+    "privateContributions": 652,
     "publicContributions": 0,
     "createdAt": "2022-01-25T18:41:47Z"
   },
@@ -13722,9 +13722,9 @@
     "location": "Tbilisi, Georgia",
     "company": "@SelfPrivacy",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 71,
     "createdAt": "2022-09-12T01:00:17Z"
   },
   {
@@ -13734,7 +13734,7 @@
     "location": "Tbilisi,Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-31T10:37:02Z"
@@ -13746,7 +13746,7 @@
     "location": "Georgia,Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2022-12-25T16:25:17Z"
@@ -13760,19 +13760,19 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 152,
     "createdAt": "2022-09-19T15:52:05Z"
   },
   {
     "login": "beeeegi",
-    "name": "Giorgi Begiashvili (Begi)",
+    "name": "Begi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102294103?s=72&u=4e45f4499d8acce93a4de0db55953421a84063fb&v=4",
     "location": "Georgia",
     "company": "@Project-Resistor",
     "twitterUsername": "begi_dll",
-    "followers": 13,
-    "privateContributions": 376,
-    "publicContributions": 12,
+    "followers": 14,
+    "privateContributions": 537,
+    "publicContributions": 16,
     "createdAt": "2022-03-24T10:37:19Z"
   },
   {

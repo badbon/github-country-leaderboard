@@ -295662,9 +295662,9 @@
     "location": "10 Bayfront Ave Singapore 018956",
     "company": "",
     "twitterUsername": "",
-    "followers": 99,
+    "followers": 98,
     "privateContributions": 0,
-    "publicContributions": 1052,
+    "publicContributions": 1035,
     "createdAt": "2026-05-18T10:49:18Z"
   },
   {
@@ -295688,7 +295688,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 2476,
+    "publicContributions": 3116,
     "createdAt": "2026-06-07T23:06:18Z"
   },
   {
@@ -295746,9 +295746,9 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 111,
     "createdAt": "2026-06-07T10:50:21Z"
   },
   {
@@ -295880,7 +295880,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 577,
+    "publicContributions": 578,
     "createdAt": "2026-06-06T19:30:58Z"
   },
   {
@@ -296010,7 +296010,7 @@
     "location": "Singapore",
     "company": "",
     "twitterUsername": "ZeroDay_Brief",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 513,
     "createdAt": "2026-05-15T07:51:57Z"
@@ -296084,7 +296084,7 @@
     "twitterUsername": "bytesbrains",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 450,
+    "publicContributions": 451,
     "createdAt": "2026-06-12T04:22:03Z"
   },
   {
@@ -296228,7 +296228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 480,
+    "publicContributions": 494,
     "createdAt": "2026-06-05T01:00:40Z"
   },
   {
@@ -296314,5 +296314,17 @@
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2022-04-25T04:46:46Z"
+  },
+  {
+    "login": "AsElle06",
+    "name": "Suling Lim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284199434?s=72&u=92b0d88b6f76d3d876b5aba280415473ee249468&v=4",
+    "location": "Singapore",
+    "company": "NUS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-05-13T04:31:56Z"
   }
 ]
