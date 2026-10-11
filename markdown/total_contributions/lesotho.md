@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-11T06:09:39.065Z
+Generated: 2026-10-11T07:55:50.075Z
 
 Users: 160
 
@@ -15,7 +15,7 @@ Users: 160
 | 7 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | AliansImperium PTY LTD | MRamokhele | Maseru | 829 |
 | 8 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 821 |
 | 9 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi |  | _Moremi_ | Maseru | 705 |
-| 10 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 698 |
+| 10 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Eazy Tech Solutions |  | Maseru Qoaling | 697 |
 | 11 | [DevLereko](https://github.com/DevLereko) | Lereko Foloko | Eazy Tech Solutions |  | Maseru, Lesotho | 537 |
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple |  | misspurple | Lesotho  | 430 |

@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-11T06:22:15.581Z
+Generated: 2026-10-11T08:06:57.303Z
 
 Users: 1174
 
@@ -20,7 +20,7 @@ Users: 1174
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | CEG Microsystems | albrtinoaugusto | Mozambique, Maputo | 162 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 150 |
 | 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete |  | ltsaiete | Matola, Maputo, Mozambique | 142 |
-| 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 137 |
+| 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 138 |
 | 16 | [GraHms](https://github.com/GraHms) | Ismael GraHms | Vodacom Mozambique |  | Maputo | 125 |
 | 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Ologa-Sistemas informaticos |  | Maputo, Mozambique | 119 |
 | 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias |  | luisgeremias_ | Mozambique | 116 |

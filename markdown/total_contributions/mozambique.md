@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-11T06:22:15.581Z
+Generated: 2026-10-11T08:06:57.303Z
 
 Users: 1174
 
@@ -23,6 +23,6 @@ Users: 1174
 | 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2682 |
 | 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2671 |
 | 17 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2492 |
-| 18 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2328 |
-| 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2265 |
-| 20 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | CarsaiMz |  | Mozambique | 2239 |
+| 18 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 2375 |
+| 19 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2328 |
+| 20 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2265 |

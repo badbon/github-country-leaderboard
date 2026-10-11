@@ -15,10 +15,10 @@ Indexed users: 1,399
 | 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 9,372 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | Managua, Nicaragua | 8,715 |
 | 3 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,457 |
-| 4 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,789 |
-| 5 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 5,020 |
-| 6 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 4,946 |
-| 7 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 4,625 |
+| 4 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 7,123 |
+| 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,789 |
+| 6 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 5,020 |
+| 7 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 4,946 |
 | 8 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,398 |
 | 9 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 4,268 |
 | 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 3,787 |
@@ -83,4 +83,4 @@ Indexed users: 1,399
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-11T06:24:38.372Z
+Generated: 2026-10-11T08:10:23.292Z

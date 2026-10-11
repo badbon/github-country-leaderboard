@@ -23,14 +23,14 @@ Indexed users: 111
 | 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,290 |
 | 10 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,204 |
 | 11 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,204 |
-| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 870 |
+| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 879 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 731 |
 | 14 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 713 |
-| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 710 |
+| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 711 |
 | 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Nouméa, Nouvelle-Calédonie | 637 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather | Noumea, New Caledonia | 601 |
 | 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Nouméa | 524 |
-| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 496 |
+| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER | New Caledonia | 493 |
 | 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 463 |
 
 ## Public Contributions
@@ -44,7 +44,7 @@ Indexed users: 111
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 713 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 463 |
 | 7 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 365 |
-| 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 335 |
+| 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 336 |
 | 9 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 322 |
 | 10 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 284 |
 | 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO | New Caledonia | 224 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-11T06:24:32.405Z
+Generated: 2026-10-11T08:08:54.174Z

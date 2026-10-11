@@ -53,9 +53,9 @@ Indexed users: 3,273
 | 14 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
 | 15 | [andis-sprinkis](https://github.com/andis-sprinkis) | Andis Spriņķis | Latvia | 1,497 |
 | 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
-| 17 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
-| 18 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
-| 19 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,262 |
+| 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
+| 18 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
+| 19 | [Qaevix](https://github.com/Qaevix) | Qaevix | Riga | 1,281 |
 | 20 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds | Latvia | 1,216 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 3,273
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-11T06:09:34.176Z
+Generated: 2026-10-11T07:55:11.421Z

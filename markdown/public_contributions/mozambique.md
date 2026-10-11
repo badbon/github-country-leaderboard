@@ -1,6 +1,6 @@
 # Public Contributions - Mozambique
 
-Generated: 2026-10-11T06:22:15.581Z
+Generated: 2026-10-11T08:06:57.303Z
 
 Users: 1174
 
@@ -21,8 +21,8 @@ Users: 1174
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | ANOVAFASE |  | maputo, Mozambique | 644 |
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao |  | Arcides_ | Mozambique | 630 |
 | 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde |  |  | Maputo, Mozambique | 598 |
-| 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Wit Software |  | Mocambique - Maputo | 564 |
-| 17 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | CarsaiMz |  | Mozambique | 563 |
-| 18 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 561 |
+| 16 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | CarsaiMz |  | Mozambique | 563 |
+| 17 | [antonio-macave](https://github.com/antonio-macave) | António Macave |  | antonio_macave | Maputo, Mozambique | 561 |
+| 18 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Wit Software |  | Mocambique - Maputo | 546 |
 | 19 | [EstandarMustaq](https://github.com/EstandarMustaq) | Estandar | @mavulahq | estandardevz | Maputo, Mozambique | 523 |
 | 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul |  |  | Mozambique | 504 |

@@ -50,9 +50,9 @@ Indexed users: 1,226
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,497 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
-| 14 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 2,018 |
-| 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
-| 16 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 1,853 |
+| 14 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,070 |
+| 15 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 2,018 |
+| 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,348 |
 | 18 | [owenfar](https://github.com/owenfar) |  | Malta | 1,292 |
 | 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk | Malta | 1,280 |
@@ -66,11 +66,11 @@ Indexed users: 1,226
 | 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja | Malta | 658 |
 | 3 | [nothingismagick](https://github.com/nothingismagick) |  | Malta | 603 |
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 525 |
-| 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 473 |
+| 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 475 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 440 |
 | 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 366 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 291 |
-| 9 | [zeelog](https://github.com/zeelog) |  | Malta | 258 |
+| 9 | [zeelog](https://github.com/zeelog) |  | Malta | 259 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 228 |
 | 12 | [waynebonc](https://github.com/waynebonc) | Wayne Bonnici | Malta | 173 |
@@ -79,8 +79,8 @@ Indexed users: 1,226
 | 15 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 140 |
 | 16 | [nathan-abela](https://github.com/nathan-abela) | Nathan Abela | Malta | 140 |
 | 17 | [dalerank](https://github.com/dalerank) | dalerank | Sliema, Malta | 128 |
-| 18 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
-| 19 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 125 |
+| 18 | [ianharrigan](https://github.com/ianharrigan) | Ian Harrigan | Malta | 127 |
+| 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-11T06:14:41.548Z
+Generated: 2026-10-11T08:00:23.121Z

@@ -1,6 +1,6 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-11T06:11:44.881Z
+Generated: 2026-10-11T07:58:00.591Z
 
 Users: 2201
 
@@ -21,8 +21,8 @@ Users: 2201
 | 13 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | TAO |  | Luxembourg | 1861 |
 | 14 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 1806 |
 | 15 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev |  |  | Luxembourg | 1749 |
-| 16 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 1666 |
-| 17 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Edda |  | Luxembourg | 1659 |
-| 18 | [righel](https://github.com/righel) | Luciano Righetti | CIRCL | righelx | Luxembourg | 1653 |
-| 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | uni.lu |  | Luxembourg | 1636 |
-| 20 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Gcore | Geri4x | Luxembourg | 1607 |
+| 16 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | University of Luxembourg |  | Luxembourg | 1737 |
+| 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 1666 |
+| 18 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Edda |  | Luxembourg | 1659 |
+| 19 | [righel](https://github.com/righel) | Luciano Righetti | CIRCL | righelx | Luxembourg | 1653 |
+| 20 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | uni.lu |  | Luxembourg | 1636 |

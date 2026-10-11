@@ -52,11 +52,11 @@ Indexed users: 2,201
 | 13 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
 | 14 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
 | 15 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
-| 16 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
-| 17 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
-| 18 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
-| 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
-| 20 | [geri4](https://github.com/geri4) | Andrey Gerasimov | Luxembourg | 1,607 |
+| 16 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | Luxembourg | 1,737 |
+| 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
+| 18 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
+| 19 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
+| 20 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,201
 | 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 
-Generated: 2026-10-11T06:11:44.881Z
+Generated: 2026-10-11T07:58:00.591Z

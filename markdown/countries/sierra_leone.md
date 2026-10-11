@@ -23,7 +23,7 @@ Indexed users: 443
 | 9 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 2,957 |
 | 10 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 2,448 |
 | 11 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers | Freetown, Sierra Leone | 2,287 |
-| 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 2,232 |
+| 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 2,239 |
 | 13 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,115 |
 | 14 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 2,110 |
 | 15 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh | Freetown, Sierra Leone | 2,088 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-11T06:42:42.495Z
+Generated: 2026-10-11T08:23:05.624Z

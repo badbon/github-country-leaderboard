@@ -1,6 +1,6 @@
 # Public Contributions - Malta
 
-Generated: 2026-10-11T06:14:41.548Z
+Generated: 2026-10-11T08:00:23.121Z
 
 Users: 1226
 
@@ -19,9 +19,9 @@ Users: 1226
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev |  |  | Malta | 2499 |
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Stefan Buttigieg | stefanbuttigieg | Malta | 2497 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | BullAware | marian2js | Malta | 2336 |
-| 14 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 2018 |
-| 15 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1905 |
-| 16 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 1853 |
+| 14 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | @scalytics | mapredit | Malta | 2070 |
+| 15 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 2018 |
+| 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko |  |  | Malta | 1905 |
 | 17 | [terranc](https://github.com/terranc) | Terran |  | terranc | Malta | 1348 |
 | 18 | [owenfar](https://github.com/owenfar) |  | @owenfar |  | Malta | 1292 |
 | 19 | [GefMar](https://github.com/GefMar) | Sergei Romanchuk |  |  | Malta | 1280 |

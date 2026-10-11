@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-11T06:29:01.538Z
+Generated: 2026-10-11T08:13:22.098Z
 
 Users: 2207
 
@@ -11,9 +11,9 @@ Users: 2207
 | 3 | [mahmoudps](https://github.com/mahmoudps) | Mahmoud Matar | atyaf |  | Palestine | 11924 |
 | 4 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS |  |  | Palestine | 11579 |
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 8066 |
-| 6 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 6969 |
-| 7 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
-| 8 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 6602 |
+| 6 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 7546 |
+| 7 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 6969 |
+| 8 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
 | 9 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 5781 |
 | 10 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5505 |
 | 11 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
@@ -24,5 +24,5 @@ Users: 2207
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |
 | 17 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 4081 |
 | 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
-| 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3378 |
-| 20 | [SwAt1563](https://github.com/SwAt1563) | Qutaiba Olayyan |  |  | Palestine | 3264 |
+| 19 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn |  | Hannahinn021 | Palestine - Ramallah | 3383 |
+| 20 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3378 |

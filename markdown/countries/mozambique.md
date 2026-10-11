@@ -29,9 +29,9 @@ Indexed users: 1,174
 | 15 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Maputo, Mozambique | 2,682 |
 | 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,671 |
 | 17 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,492 |
-| 18 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
-| 19 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
-| 20 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 2,239 |
+| 18 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,375 |
+| 19 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
+| 20 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
 
 ## Public Contributions
 
@@ -52,9 +52,9 @@ Indexed users: 1,174
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 644 |
 | 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 630 |
 | 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 598 |
-| 16 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 564 |
-| 17 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 563 |
-| 18 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 561 |
+| 16 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 563 |
+| 17 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 561 |
+| 18 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 546 |
 | 19 | [EstandarMustaq](https://github.com/EstandarMustaq) | Estandar | Maputo, Mozambique | 523 |
 | 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
 
@@ -76,11 +76,11 @@ Indexed users: 1,174
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | Mozambique, Maputo | 162 |
 | 13 | [americo](https://github.com/americo) | Américo Júnior | Mozambique | 150 |
 | 14 | [ltsaiete](https://github.com/ltsaiete) | Luis Saiete | Matola, Maputo, Mozambique | 142 |
-| 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 137 |
+| 15 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 138 |
 | 16 | [GraHms](https://github.com/GraHms) | Ismael GraHms | Maputo | 125 |
 | 17 | [Machaieie](https://github.com/Machaieie) | Edwin Machaieie | Maputo, Mozambique | 119 |
 | 18 | [luisjeremias](https://github.com/luisjeremias) | Luis Geremias | Mozambique | 116 |
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-11T06:22:15.581Z
+Generated: 2026-10-11T08:06:57.303Z

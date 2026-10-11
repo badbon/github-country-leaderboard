@@ -56,7 +56,7 @@ Indexed users: 1,540
 | 17 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,013 |
 | 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
 | 19 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
-| 20 | [KarenPNavarro](https://github.com/KarenPNavarro) | Karen Navarro | Puerto Rico | 897 |
+| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 943 |
 
 ## Followers
 
@@ -74,7 +74,7 @@ Indexed users: 1,540
 | 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Aguadilla, Puerto Rico | 197 |
 | 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | Mayagüez, Puerto Rico | 172 |
 | 12 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 170 |
-| 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 166 |
+| 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 167 |
 | 14 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 164 |
 | 15 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 159 |
 | 16 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 150 |
@@ -83,4 +83,4 @@ Indexed users: 1,540
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 109 |
 
-Generated: 2026-10-11T06:32:49.982Z
+Generated: 2026-10-11T08:16:51.338Z

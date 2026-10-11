@@ -17,10 +17,10 @@ Indexed users: 1,071
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 20,799 |
 | 4 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,381 |
 | 5 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,647 |
-| 6 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 15,516 |
-| 7 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
-| 8 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 14,869 |
-| 9 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 11,958 |
+| 6 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
+| 7 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 15,516 |
+| 8 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 15,096 |
+| 9 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 14,869 |
 | 10 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,643 |
 | 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 9,624 |
 | 12 | [bgawne](https://github.com/bgawne) | Brad Gawne | Panama | 9,524 |
@@ -28,10 +28,10 @@ Indexed users: 1,071
 | 14 | [atomikigai](https://github.com/atomikigai) | Jostick Quiel | Panama | 8,395 |
 | 15 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 7,800 |
 | 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,697 |
-| 17 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,091 |
-| 18 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,665 |
-| 19 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
-| 20 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 6,426 |
+| 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,307 |
+| 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,091 |
+| 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,665 |
+| 20 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,071
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-11T06:30:35.834Z
+Generated: 2026-10-11T08:13:30.921Z

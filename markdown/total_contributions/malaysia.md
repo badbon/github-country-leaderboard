@@ -1,8 +1,8 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-11T06:13:03.934Z
+Generated: 2026-10-11T07:59:16.364Z
 
-Users: 11821
+Users: 11820
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 11821
 | 15 | [0xkaz](https://github.com/0xkaz) | kaz |  | WeaveKaz | Malaysia/UAE | 13375 |
 | 16 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
 | 17 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |
-| 18 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Lucathree Labs | 0xYudhishthra | Malaysia | 10928 |
-| 19 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Matrix Connexion |  | Malaysia | 10910 |
-| 20 | [michaelhauge](https://github.com/michaelhauge) | Michael Lansdowne Hauge | @pertama-partners |  | Kuala Lumpur, Malaysia | 10803 |
+| 18 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah |  |  | Penang, Malaysia | 11173 |
+| 19 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Lucathree Labs | 0xYudhishthra | Malaysia | 10928 |
+| 20 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Matrix Connexion |  | Malaysia | 10910 |

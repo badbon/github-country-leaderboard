@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,821
+Indexed users: 11,820
 
 | Leaderboard | Link |
 |---|---|
@@ -29,9 +29,9 @@ Indexed users: 11,821
 | 15 | [0xkaz](https://github.com/0xkaz) | kaz | Malaysia/UAE | 13,375 |
 | 16 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
 | 17 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
-| 18 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Malaysia | 10,928 |
-| 19 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Malaysia | 10,910 |
-| 20 | [michaelhauge](https://github.com/michaelhauge) | Michael Lansdowne Hauge | Kuala Lumpur, Malaysia | 10,803 |
+| 18 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah | Penang, Malaysia | 11,173 |
+| 19 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Malaysia | 10,928 |
+| 20 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Malaysia | 10,910 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 11,821
 | 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 458 |
 | 20 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 
-Generated: 2026-10-11T06:13:03.934Z
+Generated: 2026-10-11T07:59:16.364Z

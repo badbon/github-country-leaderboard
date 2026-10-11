@@ -17,9 +17,9 @@ Indexed users: 2,207
 | 3 | [mahmoudps](https://github.com/mahmoudps) | Mahmoud Matar | Palestine | 11,924 |
 | 4 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS | Palestine | 11,579 |
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Palestine | 8,066 |
-| 6 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 6,969 |
-| 7 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 6,823 |
-| 8 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 6,602 |
+| 6 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  | Palestine | 7,546 |
+| 7 | [RandaZraik](https://github.com/RandaZraik) | Randa | Nablus, Palestine | 6,969 |
+| 8 | [1210395](https://github.com/1210395) | Jadallah  | Ramallah | 6,823 |
 | 9 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | Palestine | 5,781 |
 | 10 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5,505 |
 | 11 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
@@ -30,8 +30,8 @@ Indexed users: 2,207
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,108 |
 | 17 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 4,081 |
 | 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 3,560 |
-| 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora | Palestine | 3,378 |
-| 20 | [SwAt1563](https://github.com/SwAt1563) | Qutaiba Olayyan | Palestine | 3,264 |
+| 19 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn | Palestine - Ramallah | 3,383 |
+| 20 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora | Palestine | 3,378 |
 
 ## Public Contributions
 
@@ -47,7 +47,7 @@ Indexed users: 2,207
 | 8 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | Palestine | 1,193 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
 | 10 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 982 |
-| 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | Palestine, Gaza | 944 |
+| 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | Palestine, Gaza | 943 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 922 |
 | 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
 | 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
@@ -83,4 +83,4 @@ Indexed users: 2,207
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-11T06:29:01.538Z
+Generated: 2026-10-11T08:13:22.098Z

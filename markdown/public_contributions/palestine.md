@@ -1,6 +1,6 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-11T06:29:01.538Z
+Generated: 2026-10-11T08:13:22.098Z
 
 Users: 2207
 
@@ -16,7 +16,7 @@ Users: 2207
 | 8 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | @TransformerLabs  |  | Palestine | 1193 |
 | 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush |  |  | Nablus, Palestine | 1014 |
 | 10 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Blue | OMARCODING_LEET | Palestine,Ramallah | 982 |
-| 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 944 |
+| 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | ISmart Trading and Technology |  | Palestine, Gaza | 943 |
 | 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Freelancer  |  | Palestine  | 922 |
 | 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine Technical University - Kadoorie |  | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
 | 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab |  |  | Palestine, Gaza, Khan yunis | 816 |

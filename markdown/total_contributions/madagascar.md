@@ -1,19 +1,19 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-11T06:12:26.920Z
+Generated: 2026-10-11T07:59:09.220Z
 
 Users: 1907
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 18350 |
+| 1 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 15245 |
 | 2 | [marioshaya](https://github.com/marioshaya) | SHAYA Mario |  | marioshaya | Antananarivo, Madagascar | 14886 |
 | 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 14715 |
 | 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 14427 |
 | 5 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 10457 |
 | 6 | [EdouardoRabe](https://github.com/EdouardoRabe) |  |  |  | Madagascar | 9932 |
 | 7 | [Xpirix](https://github.com/Xpirix) | Lova Andriarimalala |  | Xpirix3 | Madagascar | 7608 |
-| 8 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 6726 |
+| 8 | [josoavj](https://github.com/josoavj) | Josoa Vonjiniaina | @APEXNovaLabs  | j_Josoa | Antananarivo, Madagascar | 7594 |
 | 9 | [TantelyRandriamazaoro](https://github.com/TantelyRandriamazaoro) | Tantely Randriamazaoro | Mazaoro SARLU |  | Madagascar | 6553 |
 | 10 | [titamrtn](https://github.com/titamrtn) | RAJAONAH Nandrianina |  |  | Antananarivo, Madagascar | 6242 |
 | 11 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | IT University |  | Madagascar | 6231 |

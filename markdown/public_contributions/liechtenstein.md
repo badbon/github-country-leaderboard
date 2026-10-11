@@ -1,6 +1,6 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-11T06:11:37.210Z
+Generated: 2026-10-11T07:57:30.765Z
 
 Users: 113
 
@@ -11,7 +11,7 @@ Users: 113
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1149 |
 | 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 713 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 654 |
-| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 605 |
+| 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 603 |
 | 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 527 |
 | 8 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 459 |
 | 9 | [anondotli](https://github.com/anondotli) | anon.li |  |  | Liechtenstein | 298 |
