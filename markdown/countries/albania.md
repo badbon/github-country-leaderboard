@@ -21,11 +21,11 @@ Indexed users: 1,184
 | 7 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,334 |
 | 8 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,294 |
 | 9 | [orges](https://github.com/orges) | orges | Albania | 6,225 |
-| 10 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
-| 11 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
-| 12 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 5,568 |
-| 13 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
-| 14 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
+| 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 6,029 |
+| 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
+| 12 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
+| 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 5,568 |
+| 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
 | 16 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
 | 17 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-11T10:31:52.702Z
+Generated: 2026-10-11T14:00:06.650Z

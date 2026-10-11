@@ -28,7 +28,7 @@ Indexed users: 160
 | 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 344 |
 | 15 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 295 |
 | 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 290 |
-| 17 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 261 |
+| 17 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 263 |
 | 18 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 249 |
 | 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 226 |
 | 20 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 224 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-11T13:17:38.964Z
+Generated: 2026-10-11T14:40:16.502Z

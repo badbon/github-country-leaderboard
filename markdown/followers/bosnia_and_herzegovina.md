@@ -1,8 +1,8 @@
 # Followers - Bosnia and Herzegovina
 
-Generated: 2026-10-11T10:41:57.751Z
+Generated: 2026-10-11T14:06:34.233Z
 
-Users: 2130
+Users: 2129
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

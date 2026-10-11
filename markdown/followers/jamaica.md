@@ -1,6 +1,6 @@
 # Followers - Jamaica
 
-Generated: 2026-10-11T11:11:24.764Z
+Generated: 2026-10-11T14:32:28.646Z
 
 Users: 1275
 
@@ -15,7 +15,7 @@ Users: 1275
 | 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Queen's University | jakekaupp | Kingston, ON | 138 |
 | 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt |  | ylynfatt | Jamaica | 136 |
 | 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | TechIsHiring | Chad_R_Stewart | Kingston, Jamaica | 134 |
-| 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | @CorticoAI |  | Kingston, New York | 123 |
+| 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | @CorticoAI |  | Kingston, New York | 124 |
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | L1NNA Lab, Queen's University |  | Kingston | 118 |
 | 12 | [juliemturner](https://github.com/juliemturner) | Julie Turner | Sympraxis Consulting |  | East Kingston, NH | 109 |
 | 13 | [justmat](https://github.com/justmat) | mat |  |  | Kingston, NY | 109 |

@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-11T10:40:02.191Z
+Generated: 2026-10-11T14:05:34.979Z
 
 Users: 268
 
@@ -25,4 +25,4 @@ Users: 268
 | 17 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1794 |
 | 18 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1793 |
 | 19 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung |  |  | Thimphu Bhutan | 1707 |
-| 20 | [KarmaTensel](https://github.com/KarmaTensel) | ice |  |  | Bhutan | 1591 |
+| 20 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 1705 |

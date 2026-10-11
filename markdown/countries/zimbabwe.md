@@ -19,15 +19,15 @@ Indexed users: 1,653
 | 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona | Zimbabwe | 7,290 |
 | 6 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo | Harare | 7,217 |
 | 7 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | Harare | 7,208 |
-| 8 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 7,067 |
-| 9 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 6,939 |
-| 10 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 6,719 |
-| 11 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
-| 12 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
-| 13 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,832 |
+| 8 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 7,159 |
+| 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 7,067 |
+| 10 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 6,939 |
+| 11 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 6,719 |
+| 12 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,553 |
+| 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
 | 14 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,825 |
-| 15 | [phoscoder](https://github.com/phoscoder) | Victor Phos | Zimbabwe | 5,484 |
-| 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
+| 15 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
+| 16 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,428 |
 | 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,403 |
 | 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
 | 19 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,086 |
@@ -83,4 +83,4 @@ Indexed users: 1,653
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-11T10:30:17.954Z
+Generated: 2026-10-11T13:58:06.778Z

@@ -38,7 +38,7 @@ Indexed users: 6,706
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Addis Ababa | 8,502 |
-| 2 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Adama, Ethiopia | 4,539 |
+| 2 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Adama, Ethiopia | 4,854 |
 | 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,881 |
 | 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 3,646 |
 | 5 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,560 |
@@ -83,4 +83,4 @@ Indexed users: 6,706
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-11T10:59:38.865Z
+Generated: 2026-10-11T14:20:25.556Z

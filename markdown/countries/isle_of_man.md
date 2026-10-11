@@ -29,7 +29,7 @@ Indexed users: 155
 | 15 | [Gwiilo](https://github.com/Gwiilo) | Gwilo | Isle of Man | 1,224 |
 | 16 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge | Isle of Man | 1,208 |
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,198 |
-| 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,069 |
+| 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,099 |
 | 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,040 |
 | 20 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,020 |
 
@@ -44,7 +44,7 @@ Indexed users: 155
 | 5 | [torquuato](https://github.com/torquuato) |  | Isle of Man | 557 |
 | 6 | [jonnyirwin](https://github.com/jonnyirwin) | Jonny Irwin | Isle of Man | 430 |
 | 7 | [dominichubble](https://github.com/dominichubble) | Dominic Hubble | Isle of Man | 359 |
-| 8 | [jamesharrison2005](https://github.com/jamesharrison2005) | James Harrison | Isle of Man | 316 |
+| 8 | [jamesharrison2005](https://github.com/jamesharrison2005) | James Harrison | Isle of Man | 320 |
 | 9 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 306 |
 | 10 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 249 |
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | Isle of Man | 246 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-11T11:10:25.471Z
+Generated: 2026-10-11T14:32:15.118Z

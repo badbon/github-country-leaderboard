@@ -1,6 +1,6 @@
 # Total Contributions - Bolivia
 
-Generated: 2026-10-11T10:41:26.160Z
+Generated: 2026-10-11T14:06:12.305Z
 
 Users: 1785
 
@@ -8,8 +8,8 @@ Users: 1785
 |---:|---|---|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 27294 |
 | 2 | [ynvYauneEnovore](https://github.com/ynvYauneEnovore) | Yovan R. Enovore | Encorp LLC | ramonenovore | Sucre Bolivia | 10439 |
-| 3 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 7044 |
-| 4 | [rp4ri](https://github.com/rp4ri) | Toborochi |  |  | Bolivia | 6975 |
+| 3 | [rp4ri](https://github.com/rp4ri) | Toborochi | @Cyborg7-com  |  | Bolivia | 8894 |
+| 4 | [DaleneyRuben](https://github.com/DaleneyRuben) | Fernando Daleney | TurboTenant |  | La Paz, Bolivia | 7044 |
 | 5 | [abelrgr](https://github.com/abelrgr) | Abel |  |  | Bolivia | 6760 |
 | 6 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 5801 |
 | 7 | [nicolenumbergg](https://github.com/nicolenumbergg) | Nicole Numberg |  |  | Santa Cruz, Bolivia | 5704 |

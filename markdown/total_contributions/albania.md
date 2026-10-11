@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-11T10:31:52.702Z
+Generated: 2026-10-11T14:00:06.650Z
 
 Users: 1184
 
@@ -15,11 +15,11 @@ Users: 1184
 | 7 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6334 |
 | 8 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6294 |
 | 9 | [orges](https://github.com/orges) | orges |  |  | Albania | 6225 |
-| 10 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5887 |
-| 11 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5678 |
-| 12 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 5568 |
-| 13 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5500 |
-| 14 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 5493 |
+| 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | MarineDataCloud |  | Albania | 6029 |
+| 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | FiltonHayes |  | Tirana, Albania | 5887 |
+| 12 | [lacieri](https://github.com/lacieri) | Erand Laci | @kirschbaum-development |  | Tirana, Albania | 5678 |
+| 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 5568 |
+| 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5500 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4670 |
 | 16 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4411 |
 | 17 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4363 |

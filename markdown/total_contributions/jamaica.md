@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-11T11:11:24.764Z
+Generated: 2026-10-11T14:32:28.646Z
 
 Users: 1275
 
@@ -19,10 +19,10 @@ Users: 1275
 | 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
 | 12 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
 | 13 | [capndave](https://github.com/capndave) | David Thompson | True Prodigy |  | Kingston, NY | 3896 |
-| 14 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 3821 |
-| 15 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 3794 |
-| 16 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
-| 17 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
-| 18 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 3604 |
-| 19 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |
-| 20 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 3553 |
+| 14 | [kazo0](https://github.com/kazo0) | Steve Bilogan | @unoplatform | BiloganSteve | Kingston, ON | 3888 |
+| 15 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | RIMDC |  | Kingston, ON | 3821 |
+| 16 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair |  | shanoysinc | Jamaica | 3794 |
+| 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 3778 |
+| 18 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Tommy Gooden |  | Jamaica | 3625 |
+| 19 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 3604 |
+| 20 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 3582 |

@@ -25,13 +25,13 @@ Indexed users: 1,275
 | 11 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
 | 12 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
 | 13 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 3,896 |
-| 14 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
-| 15 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 3,794 |
-| 16 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
-| 17 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
-| 18 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
-| 19 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
-| 20 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 3,553 |
+| 14 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 3,888 |
+| 15 | [CryptoCanuck](https://github.com/CryptoCanuck) | Chris Robinson | Kingston, ON | 3,821 |
+| 16 | [shanoysinc](https://github.com/shanoysinc) | Shanoy Sinclair | Jamaica | 3,794 |
+| 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 3,778 |
+| 18 | [tommygooden](https://github.com/tommygooden) | Tommy Gooden | Jamaica | 3,625 |
+| 19 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 3,604 |
+| 20 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 3,582 |
 
 ## Public Contributions
 
@@ -43,10 +43,10 @@ Indexed users: 1,275
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,300 |
 | 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,236 |
 | 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
-| 7 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,383 |
-| 8 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,206 |
-| 9 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,172 |
-| 10 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,077 |
+| 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,418 |
+| 8 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,383 |
+| 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,362 |
+| 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,172 |
 | 11 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 976 |
 | 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 973 |
 | 13 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 942 |
@@ -71,7 +71,7 @@ Indexed users: 1,275
 | 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Kingston, ON | 138 |
 | 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt | Jamaica | 136 |
 | 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | Kingston, Jamaica | 134 |
-| 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | Kingston, New York | 123 |
+| 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | Kingston, New York | 124 |
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
 | 12 | [juliemturner](https://github.com/juliemturner) | Julie Turner | East Kingston, NH | 109 |
 | 13 | [justmat](https://github.com/justmat) | mat | Kingston, NY | 109 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 94 |
 
-Generated: 2026-10-11T11:11:24.764Z
+Generated: 2026-10-11T14:32:28.646Z

@@ -1,8 +1,8 @@
 # Public Contributions - Honduras
 
-Generated: 2026-10-11T11:08:01.147Z
+Generated: 2026-10-11T14:29:25.820Z
 
-Users: 1263
+Users: 1262
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 1263
 | 10 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez |  |  | Comayagua, Honduras | 1106 |
 | 11 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez |  |  | Honduras | 1061 |
 | 12 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Grupo Farinter |  | Honduras | 975 |
-| 13 | [ingricardotoro](https://github.com/ingricardotoro) | MARVIN RICARDO TORO CRUZ | Siteconnexion |  | Tegucigalpa | 886 |
-| 14 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Universidad Tecnologica Centroamericana |  | San Pedro Sula, Cortes, Honduras | 877 |
-| 15 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | @AvantiPoint | DanJSiegel | Roatan, Honduras | 845 |
-| 16 | [JoseAFlores777](https://github.com/JoseAFlores777) | José Izaguirre |  |  | Tegucigalpa, Honduras | 830 |
-| 17 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e |  |  | Marcala, Honduras | 828 |
-| 18 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | KSS | ajomuch92 | Comayagua, Honduras | 792 |
-| 19 | [esdrasclth](https://github.com/esdrasclth) | Esdras Clother | BrandSofts | esdrasclth | San Pedro Sula, Honduras | 781 |
-| 20 | [Mar10HT](https://github.com/Mar10HT) | Mario Herrera |  |  | Honduras | 776 |
+| 13 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Aviation Consultant | antoniolocandro | Honduras | 919 |
+| 14 | [ingricardotoro](https://github.com/ingricardotoro) | MARVIN RICARDO TORO CRUZ | Siteconnexion |  | Tegucigalpa | 886 |
+| 15 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | Universidad Tecnologica Centroamericana |  | San Pedro Sula, Cortes, Honduras | 877 |
+| 16 | [dansiegel](https://github.com/dansiegel) | Dan Siegel | @AvantiPoint | DanJSiegel | Roatan, Honduras | 845 |
+| 17 | [JoseAFlores777](https://github.com/JoseAFlores777) | José Izaguirre |  |  | Tegucigalpa, Honduras | 830 |
+| 18 | [HectorOC-e](https://github.com/HectorOC-e) | HectorOC-e |  |  | Marcala, Honduras | 828 |
+| 19 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | KSS | ajomuch92 | Comayagua, Honduras | 792 |
+| 20 | [esdrasclth](https://github.com/esdrasclth) | Esdras Clother | BrandSofts | esdrasclth | San Pedro Sula, Honduras | 781 |

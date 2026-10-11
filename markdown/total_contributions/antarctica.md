@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-11T10:32:38.468Z
+Generated: 2026-10-11T14:01:49.323Z
 
 Users: 461
 
@@ -11,7 +11,7 @@ Users: 461
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale |  |  | Antarctica | 6036 |
 | 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | SYSTEM_SERVICE_EXCEPTION | ifarbod | Antarctica  | 5264 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park |  |  | Deception Island, Antarctica | 5053 |
-| 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4837 |
+| 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis |  |  | Antarctica | 4906 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4656 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4646 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4539 |
@@ -25,4 +25,4 @@ Users: 461
 | 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2421 |
 | 18 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2350 |
 | 19 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2025 |
-| 20 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1911 |
+| 20 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1991 |

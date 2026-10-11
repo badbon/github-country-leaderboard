@@ -14,7 +14,7 @@ Indexed users: 2,575
 |---:|---|---|---|---:|
 | 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud | Beirut, Lebanon | 23,135 |
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 12,866 |
-| 3 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,182 |
+| 3 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,520 |
 | 4 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 10,546 |
 | 5 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,902 |
 | 6 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,444 |
@@ -83,4 +83,4 @@ Indexed users: 2,575
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 
-Generated: 2026-10-11T13:16:35.043Z
+Generated: 2026-10-11T14:38:52.078Z

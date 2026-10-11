@@ -1,6 +1,6 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-11T13:16:35.043Z
+Generated: 2026-10-11T14:38:52.078Z
 
 Users: 2575
 
@@ -8,7 +8,7 @@ Users: 2575
 |---:|---|---|---|---|---|---:|
 | 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud |  |  | Beirut, Lebanon | 23135 |
 | 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 12866 |
-| 3 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Kuwait Projects Company - Kipco | husseinturfah | Lebanon | 12182 |
+| 3 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Beachbeds | husseinturfah | Lebanon | 12520 |
 | 4 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 10546 |
 | 5 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | @detay-devs  @lblabs-dev @CGode-Dev  |  | lebanon | 9902 |
 | 6 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | @Poyesis | abedshaaban600 | Lebanon | 9444 |

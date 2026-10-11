@@ -1,6 +1,6 @@
 # Cuba
 
-Indexed users: 1,281
+Indexed users: 1,278
 
 | Leaderboard | Link |
 |---|---|
@@ -22,16 +22,16 @@ Indexed users: 1,281
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,976 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,721 |
 | 10 | [ucicarlos](https://github.com/ucicarlos) | Carlos Miguel Pérez Reyes | Havana, Cuba | 5,263 |
-| 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 4,805 |
-| 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,685 |
-| 13 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
-| 14 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 4,220 |
-| 15 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 4,061 |
-| 16 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,735 |
-| 17 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez | Cuba | 3,668 |
-| 18 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
-| 19 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
-| 20 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 3,177 |
+| 11 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 5,156 |
+| 12 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 4,805 |
+| 13 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,685 |
+| 14 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
+| 15 | [saulo-hermida](https://github.com/saulo-hermida) | Saulo Hermida | Havana,Cuba | 4,220 |
+| 16 | [raulodev](https://github.com/raulodev) | Raúl Cobiellas | Cuba | 4,061 |
+| 17 | [Ztaz9906](https://github.com/Ztaz9906) | Enrique Ferriero | Cuba | 3,735 |
+| 18 | [disnelrr](https://github.com/disnelrr) | Disnel Rodríguez Rodríguez | Cuba | 3,668 |
+| 19 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,325 |
+| 20 | [wolfsouldev](https://github.com/wolfsouldev) | Alejandro Alberto Fajardo | Cuba/Matanzas  | 3,316 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,281
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-11T10:52:13.804Z
+Generated: 2026-10-11T14:12:45.346Z

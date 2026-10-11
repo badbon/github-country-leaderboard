@@ -29,7 +29,7 @@ Indexed users: 215
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,733 |
 | 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,424 |
 | 17 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,423 |
-| 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,037 |
+| 18 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,073 |
 | 19 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,792 |
 | 20 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 2,712 |
 
@@ -45,7 +45,7 @@ Indexed users: 215
 | 6 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 697 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 688 |
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 645 |
-| 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 613 |
+| 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 614 |
 | 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 474 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 445 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 59 |
 
-Generated: 2026-10-11T10:31:59.683Z
+Generated: 2026-10-11T14:01:39.781Z
