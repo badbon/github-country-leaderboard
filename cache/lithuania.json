@@ -12492,18 +12492,6 @@
     "createdAt": "2021-12-10T20:08:17Z"
   },
   {
-    "login": "DmitryPoverov",
-    "name": "Dmitry Poverov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79256817?s=72&u=9b0a6198e7cb5d871d77f683606609bb46eed52b&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2021-02-18T10:58:28Z"
-  },
-  {
     "login": "jonasvit",
     "name": "Jonas Vitkauskas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89067278?s=72&u=45e2213403d0d9a6941d266d20bf00915375a432&v=4",
@@ -12535,7 +12523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 33,
+    "privateContributions": 26,
     "publicContributions": 0,
     "createdAt": "2021-01-06T21:47:00Z"
   },
@@ -12643,7 +12631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 38,
+    "privateContributions": 35,
     "publicContributions": 0,
     "createdAt": "2021-02-05T20:23:42Z"
   },
@@ -12679,8 +12667,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 54,
+    "privateContributions": 0,
+    "publicContributions": 40,
     "createdAt": "2021-08-31T16:06:31Z"
   },
   {
@@ -12692,7 +12680,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 46,
     "createdAt": "2021-03-27T07:59:53Z"
   },
   {
@@ -12703,7 +12691,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2021-11-15T18:28:49Z"
   },
@@ -12716,7 +12704,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2021-11-30T14:35:12Z"
   },
   {

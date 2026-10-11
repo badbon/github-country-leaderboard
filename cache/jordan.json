@@ -12416,7 +12416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2023-09-06T01:42:50Z"
   },
   {
@@ -12464,7 +12464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-07-20T06:56:39Z"
   },
   {
@@ -12476,7 +12476,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2023-04-06T23:59:26Z"
   },
   {
@@ -12487,7 +12487,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-26T11:06:16Z"
   },
@@ -12540,18 +12540,6 @@
     "createdAt": "2023-03-25T09:33:07Z"
   },
   {
-    "login": "RayIsmail",
-    "name": "Ray",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140697070?s=72&u=79e032cf387cd6aee4b8c16be07994f6f46ad238&v=4",
-    "location": "Jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2023-07-27T08:01:59Z"
-  },
-  {
     "login": "Moh-Najjar",
     "name": "Mohammad Al-Najjar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122217617?s=72&v=4",
@@ -12560,7 +12548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 94,
     "createdAt": "2023-01-08T14:43:45Z"
   },
   {
@@ -12614,13 +12602,13 @@
   {
     "login": "A-rosan",
     "name": "Abdullah Alrosan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133225253?s=72&u=b8a823e31b2d286aa66311f2abc5a14553339dd9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133225253?s=72&u=76b412eed5c6a3ac5fd488443af4aef28e3469a2&v=4",
     "location": "Amman-Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 19,
     "createdAt": "2023-05-11T11:59:22Z"
   },
   {

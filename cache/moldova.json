@@ -12535,7 +12535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 219,
+    "privateContributions": 237,
     "publicContributions": 7,
     "createdAt": "2017-01-26T12:32:01Z"
   },
@@ -12544,7 +12544,7 @@
     "name": "Evgheni Cerneavschi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26088821?s=72&u=d6ef3fc51a6e52eaab1b96bf240ba78671ca473e&v=4",
     "location": "Moldova, Chișinău",
-    "company": "Seavus",
+    "company": "Avenga",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
@@ -12583,8 +12583,8 @@
     "company": "Readymag",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 339,
-    "publicContributions": 4,
+    "privateContributions": 395,
+    "publicContributions": 1,
     "createdAt": "2017-09-24T20:53:40Z"
   },
   {
@@ -12614,13 +12614,13 @@
   {
     "login": "boxden",
     "name": "Den",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30258996?s=72&u=2fc080de3c674769dd6baa568911c02d072ab2b9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/30258996?s=72&u=b182b8c28692548815b2e9154dcc2c78d8db901c&v=4",
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 442,
+    "followers": 3,
+    "privateContributions": 10,
+    "publicContributions": 345,
     "createdAt": "2017-07-18T09:38:36Z"
   },
   {
@@ -12751,8 +12751,8 @@
     "company": "Grid Dynamics",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 29,
-    "publicContributions": 90,
+    "privateContributions": 2,
+    "publicContributions": 106,
     "createdAt": "2017-08-02T15:43:50Z"
   },
   {

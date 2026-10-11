@@ -12488,7 +12488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 15,
     "createdAt": "2025-12-07T13:54:55Z"
   },
   {
@@ -12500,7 +12500,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 6,
     "createdAt": "2025-04-14T19:01:59Z"
   },
   {
@@ -12514,18 +12514,6 @@
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2025-07-19T13:15:01Z"
-  },
-  {
-    "login": "saritasapkota123",
-    "name": "sarita sapkota",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/205958587?s=72&u=606a4c38adaf4c7d284e5dd43872032537b2017c&v=4",
-    "location": "Kathmandu, Nepal ",
-    "company": "KATHMANDU UNIVERSITY ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 125,
-    "createdAt": "2025-04-02T15:55:13Z"
   },
   {
     "login": "Gaurav-nullpix",
@@ -12558,21 +12546,21 @@
     "location": "Kathmandu,Nepal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 205,
+    "followers": 3,
+    "privateContributions": 3,
+    "publicContributions": 251,
     "createdAt": "2025-07-13T06:51:25Z"
   },
   {
     "login": "j-nirajan",
-    "name": "Nirajan (Neer)",
+    "name": "Nirajan (Nir)",
     "avatarUrl": "https://avatars.githubusercontent.com/u/222212431?s=72&u=cc03011f22f184c491c2c59fedda0aa17d4b55e7&v=4",
     "location": "Kathmandu, Nepal",
     "company": "",
     "twitterUsername": "JNeer9",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 32,
+    "privateContributions": 101,
+    "publicContributions": 35,
     "createdAt": "2025-07-22T10:51:52Z"
   },
   {
@@ -12583,8 +12571,8 @@
     "company": "",
     "twitterUsername": "ThapaSubina22",
     "followers": 51,
-    "privateContributions": 309,
-    "publicContributions": 403,
+    "privateContributions": 302,
+    "publicContributions": 411,
     "createdAt": "2025-08-18T02:30:01Z"
   },
   {
@@ -12595,8 +12583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 41,
-    "privateContributions": 23,
-    "publicContributions": 238,
+    "privateContributions": 89,
+    "publicContributions": 171,
     "createdAt": "2025-03-18T04:58:10Z"
   },
   {
@@ -12607,8 +12595,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 238,
-    "publicContributions": 194,
+    "privateContributions": 205,
+    "publicContributions": 293,
     "createdAt": "2025-11-22T15:38:06Z"
   },
   {
@@ -12619,8 +12607,8 @@
     "company": "@Discord",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 1642,
-    "publicContributions": 515,
+    "privateContributions": 1602,
+    "publicContributions": 430,
     "createdAt": "2025-02-11T13:07:33Z"
   },
   {
@@ -12630,9 +12618,9 @@
     "location": "Thulobharyang, Kathmandu",
     "company": "@redmi-mt6765-dev",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 7,
-    "publicContributions": 141,
+    "followers": 22,
+    "privateContributions": 5,
+    "publicContributions": 86,
     "createdAt": "2025-05-01T07:32:13Z"
   },
   {
@@ -12643,8 +12631,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 11,
-    "publicContributions": 102,
+    "privateContributions": 2,
+    "publicContributions": 11,
     "createdAt": "2024-12-28T12:47:28Z"
   },
   {
@@ -12655,8 +12643,8 @@
     "company": "",
     "twitterUsername": "luktheartist",
     "followers": 16,
-    "privateContributions": 20,
-    "publicContributions": 124,
+    "privateContributions": 9,
+    "publicContributions": 109,
     "createdAt": "2025-04-16T14:52:01Z"
   },
   {
@@ -12666,21 +12654,21 @@
     "location": "Kathmandu",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 479,
+    "publicContributions": 28,
     "createdAt": "2025-03-02T04:01:46Z"
   },
   {
     "login": "ABHINAB-CHHETRI",
     "name": "Abhinab B. Chhetri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/195707195?s=72&u=9477b6ed3075c71017486c62ec53d10690010e29&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/195707195?s=72&u=8a9d58793ce4abe82b6b54e8177ed7d6dcaf2000&v=4",
     "location": "Kathmandu",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 6,
-    "publicContributions": 171,
+    "publicContributions": 75,
     "createdAt": "2025-01-20T02:46:13Z"
   },
   {
@@ -12691,8 +12679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 45,
-    "publicContributions": 85,
+    "privateContributions": 33,
+    "publicContributions": 78,
     "createdAt": "2025-01-29T06:28:32Z"
   },
   {
@@ -12702,9 +12690,9 @@
     "location": "kathmandu",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 16,
-    "publicContributions": 63,
+    "publicContributions": 69,
     "createdAt": "2025-07-12T03:20:06Z"
   },
   {

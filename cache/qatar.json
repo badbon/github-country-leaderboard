@@ -12512,7 +12512,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 91,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2011-05-02T17:26:29Z"
   },
   {
@@ -12522,9 +12522,9 @@
     "location": "Doha",
     "company": "OSOME",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 14,
-    "publicContributions": 1,
+    "followers": 11,
+    "privateContributions": 259,
+    "publicContributions": 7,
     "createdAt": "2010-12-31T05:57:11Z"
   },
   {
@@ -12535,7 +12535,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 139,
+    "privateContributions": 146,
     "publicContributions": 18,
     "createdAt": "2011-09-20T02:37:08Z"
   },
@@ -12582,7 +12582,7 @@
     "location": "Qatar",
     "company": "Mawqey",
     "twitterUsername": "eng_askhamis",
-    "followers": 57,
+    "followers": 59,
     "privateContributions": 39,
     "publicContributions": 0,
     "createdAt": "2010-02-12T19:08:18Z"
@@ -12606,9 +12606,9 @@
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 63,
     "createdAt": "2010-12-07T07:13:17Z"
   },
   {
@@ -12630,9 +12630,9 @@
     "location": "Doha, Qatar",
     "company": "Research Allies",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 185,
     "createdAt": "2010-02-09T16:18:33Z"
   },
   {
@@ -12668,19 +12668,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 14,
     "createdAt": "2010-09-24T22:52:46Z"
   },
   {
     "login": "abdulaziz-alkhater",
     "name": "Abdulaziz Al Khater",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/440960?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/440960?s=72&u=f8d39a79ea87eb62f7ce69a8dc81926206ac01e1&v=4",
     "location": "Doha, Qatar",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 59,
     "createdAt": "2010-10-15T15:57:50Z"
   },
   {
