@@ -13424,7 +13424,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 9,
-    "publicContributions": 56,
+    "publicContributions": 57,
     "createdAt": "2022-12-13T13:04:20Z"
   },
   {
@@ -13446,9 +13446,9 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 63,
     "createdAt": "2022-03-08T13:20:15Z"
   },
   {
@@ -13532,7 +13532,7 @@
     "twitterUsername": "nosby2007",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 870,
+    "publicContributions": 1303,
     "createdAt": "2022-06-13T08:39:48Z"
   },
   {
@@ -13566,9 +13566,9 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "Tanaka_Chidemo",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "followers": 6,
+    "privateContributions": 138,
+    "publicContributions": 20,
     "createdAt": "2022-01-19T15:13:44Z"
   },
   {
@@ -13578,9 +13578,9 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 19,
     "createdAt": "2022-01-24T07:12:06Z"
   },
   {
@@ -13592,20 +13592,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 17,
     "createdAt": "2022-07-18T20:33:30Z"
-  },
-  {
-    "login": "90renrocraftcracksblogspotcom",
-    "name": "Dev_Renro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/118045844?s=72&u=4e7fc8a98babc772d85786e479107e2c61920d21&v=4",
-    "location": "Abu Dhabi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 676,
-    "publicContributions": 65,
-    "createdAt": "2022-11-12T08:24:44Z"
   },
   {
     "login": "lyubichka",
@@ -13627,8 +13615,8 @@
     "company": "Nadim",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 93,
-    "publicContributions": 86,
+    "privateContributions": 88,
+    "publicContributions": 73,
     "createdAt": "2022-08-06T10:02:15Z"
   },
   {
@@ -13638,7 +13626,7 @@
     "location": "Abu Dhabi, UAE",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2022-02-03T07:11:22Z"
@@ -50926,5 +50914,17 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2024-01-15T17:50:33Z"
+  },
+  {
+    "login": "DagmawiTeweldebrhan",
+    "name": "Dagmawi Teweldebrhan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157237851?s=72&v=4",
+    "location": "Abu Dhabi, United Arab Emirates",
+    "company": "New York University",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 48,
+    "publicContributions": 111,
+    "createdAt": "2024-01-20T17:56:30Z"
   }
 ]

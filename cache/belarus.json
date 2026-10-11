@@ -13860,18 +13860,6 @@
     "createdAt": "2023-03-13T20:38:16Z"
   },
   {
-    "login": "bvdtrjpp",
-    "name": "Alex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140995808?s=72&u=d295d36959cef4511f217833bf27251a2b16d8e2&v=4",
-    "location": "Minsk cuty",
-    "company": "none",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2023-07-31T03:13:56Z"
-  },
-  {
     "login": "DashaSidorovich",
     "name": "Dasha Sidorovich",
     "avatarUrl": "https://avatars.githubusercontent.com/u/141940124?s=72&u=b7d648f4bb75edbe4ba246e2e9941e99c1cb7f65&v=4",
@@ -13879,8 +13867,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 101,
-    "publicContributions": 71,
+    "privateContributions": 193,
+    "publicContributions": 28,
     "createdAt": "2023-08-10T14:47:51Z"
   },
   {
@@ -13940,7 +13928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 3,
     "createdAt": "2023-10-22T18:08:49Z"
   },
   {
@@ -13998,7 +13986,7 @@
     "location": "Mozyr,Belarus",
     "company": "",
     "twitterUsername": "",
-    "followers": 393,
+    "followers": 388,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-10T19:59:18Z"
@@ -14010,9 +13998,9 @@
     "location": "Minsk, Belarus",
     "company": "@ITProfGroup",
     "twitterUsername": "",
-    "followers": 148,
-    "privateContributions": 66,
-    "publicContributions": 4312,
+    "followers": 149,
+    "privateContributions": 52,
+    "publicContributions": 4103,
     "createdAt": "2022-05-15T14:33:29Z"
   },
   {
@@ -14022,7 +14010,7 @@
     "location": "Belarus",
     "company": "",
     "twitterUsername": "AKGR_PR",
-    "followers": 147,
+    "followers": 139,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-05T16:53:53Z"
@@ -14032,11 +14020,11 @@
     "name": "Vitaly Koiro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/99880025?s=72&u=edf5208b5a9d1e1adcbe91defa71df92a0510310&v=4",
     "location": "Belarus, Vitebsk",
-    "company": "@Site-Elite-Studio ",
+    "company": "",
     "twitterUsername": "",
-    "followers": 125,
-    "privateContributions": 1296,
-    "publicContributions": 30,
+    "followers": 124,
+    "privateContributions": 959,
+    "publicContributions": 27,
     "createdAt": "2022-02-17T11:29:44Z"
   },
   {

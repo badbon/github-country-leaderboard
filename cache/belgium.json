@@ -13627,7 +13627,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 69,
+    "privateContributions": 68,
     "publicContributions": 5,
     "createdAt": "2023-02-16T13:24:16Z"
   },
@@ -13640,7 +13640,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-10-24T18:11:06Z"
   },
   {
@@ -13650,7 +13650,7 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-03-12T10:39:26Z"
@@ -13663,8 +13663,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1047,
-    "publicContributions": 7,
+    "privateContributions": 939,
+    "publicContributions": 2,
     "createdAt": "2023-10-05T19:42:43Z"
   },
   {
@@ -13676,7 +13676,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2023-05-08T07:45:07Z"
   },
   {
@@ -13687,7 +13687,7 @@
     "company": "Computer Science @ Howest Bruges",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 294,
+    "privateContributions": 312,
     "publicContributions": 37,
     "createdAt": "2023-05-25T21:23:17Z"
   },
@@ -13710,7 +13710,7 @@
     "location": "Leuven, Belgium",
     "company": "KU Leuven",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-01-19T12:44:54Z"
@@ -13783,8 +13783,8 @@
     "company": "@DJdjDevelopment",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 16,
+    "privateContributions": 5,
+    "publicContributions": 18,
     "createdAt": "2023-02-28T13:17:49Z"
   },
   {
@@ -13795,7 +13795,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 91,
+    "privateContributions": 144,
     "publicContributions": 1,
     "createdAt": "2023-03-09T08:03:30Z"
   },
@@ -13807,8 +13807,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 22,
-    "publicContributions": 54,
+    "privateContributions": 35,
+    "publicContributions": 48,
     "createdAt": "2023-05-02T12:18:34Z"
   },
   {
@@ -13819,7 +13819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 357,
+    "privateContributions": 418,
     "publicContributions": 1,
     "createdAt": "2023-08-19T20:57:37Z"
   },
@@ -13839,12 +13839,12 @@
     "login": "kevinmlk",
     "name": "Kevin Malekera",
     "avatarUrl": "https://avatars.githubusercontent.com/u/147380511?s=72&u=2164520accde9919d218b8ad351fded5331a7928&v=4",
-    "location": "Belgium",
+    "location": "Brussels",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 16,
-    "publicContributions": 15,
+    "privateContributions": 26,
+    "publicContributions": 0,
     "createdAt": "2023-10-09T08:08:15Z"
   },
   {

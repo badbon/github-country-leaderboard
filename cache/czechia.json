@@ -13564,11 +13564,11 @@
     "name": "Killer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/134846041?s=72&u=aa26bfd62d93a0ef07aee1b0b393b4bb586c46f0&v=4",
     "location": "Czech Republic",
-    "company": "AppleLand.eu",
+    "company": "Zentrixia.cz",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2023-05-28T11:44:34Z"
   },
   {
@@ -13591,20 +13591,20 @@
     "company": "Accolade",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1004,
+    "privateContributions": 899,
     "publicContributions": 0,
     "createdAt": "2023-08-02T08:06:00Z"
   },
   {
     "login": "matyasselnik",
     "name": "Matyáš Selník",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148713249?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/148713249?s=72&u=cf8f5fd3e37f2e76dadb7223bae8f601bc29d460&v=4",
     "location": "Czech Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 61,
     "createdAt": "2023-10-22T17:34:11Z"
   },
   {
@@ -13674,9 +13674,9 @@
     "location": "Czech republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 77,
     "createdAt": "2023-10-17T13:30:20Z"
   },
   {
@@ -13687,7 +13687,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1712,
+    "privateContributions": 1668,
     "publicContributions": 0,
     "createdAt": "2022-12-29T15:42:26Z"
   },
@@ -13724,7 +13724,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 30,
     "createdAt": "2023-04-01T18:06:21Z"
   },
   {
@@ -194626,5 +194626,17 @@
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2021-11-10T16:44:06Z"
+  },
+  {
+    "login": "MilanBabuljak",
+    "name": "Milan Babuljak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77924967?s=72&u=e84ba197cb2fbae80682f0e374303a8e3368925e&v=4",
+    "location": "Brno, Czech Republic",
+    "company": "Faculty of Information Technology BUT",
+    "twitterUsername": "",
+    "followers": 46,
+    "privateContributions": 85,
+    "publicContributions": 51,
+    "createdAt": "2021-01-24T13:19:50Z"
   }
 ]

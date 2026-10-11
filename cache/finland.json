@@ -13424,7 +13424,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 154,
     "createdAt": "2023-11-14T17:43:28Z"
   },
   {
@@ -13435,8 +13435,8 @@
     "company": "Nordic Semiconductor",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 379,
-    "publicContributions": 1617,
+    "privateContributions": 923,
+    "publicContributions": 1754,
     "createdAt": "2023-03-27T10:23:50Z"
   },
   {
@@ -13447,7 +13447,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 32,
+    "privateContributions": 38,
     "publicContributions": 9,
     "createdAt": "2023-02-06T20:24:57Z"
   },
@@ -13470,7 +13470,7 @@
     "location": "Finland",
     "company": "Tampere University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2023-01-12T11:33:11Z"
@@ -13514,13 +13514,13 @@
   {
     "login": "karimartikainen",
     "name": "Kari Martikainen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152023573?s=72&u=a4685c4aa13a33ef4cb15042d49c0a7c949b6f70&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152023573?s=72&u=b1563b9987cf2b427d363736c0b95a7b6443d890&v=4",
     "location": "Finland",
     "company": "Pinja",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2023-11-25T16:56:51Z"
   },
   {
@@ -13544,18 +13544,18 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 13,
     "createdAt": "2023-02-10T10:28:50Z"
   },
   {
-    "login": "GianettaPiipponen",
+    "login": "gianettapiipponen",
     "name": "Gianetta Piipponen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/153427293?s=72&u=d8a1d83391e5e98e7a5bff019cba2ba2a978659c&v=4",
     "location": "Helsinki, Finland",
     "company": "Kalmar",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 93,
+    "privateContributions": 102,
     "publicContributions": 0,
     "createdAt": "2023-12-10T10:25:03Z"
   },
@@ -13566,8 +13566,8 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 24,
+    "followers": 4,
+    "privateContributions": 26,
     "publicContributions": 134,
     "createdAt": "2023-07-06T21:41:15Z"
   },
@@ -13616,7 +13616,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 51,
     "createdAt": "2023-05-10T13:00:32Z"
   },
   {

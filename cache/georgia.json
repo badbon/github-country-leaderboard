@@ -13819,8 +13819,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 152,
-    "publicContributions": 1427,
+    "privateContributions": 149,
+    "publicContributions": 1482,
     "createdAt": "2022-10-29T12:05:23Z"
   },
   {
@@ -13844,7 +13844,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2022-11-24T16:45:21Z"
   },
   {
@@ -13855,7 +13855,7 @@
     "company": "@EPAM | @MedoryHQ",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 2071,
+    "privateContributions": 1260,
     "publicContributions": 132,
     "createdAt": "2022-12-16T17:02:18Z"
   },
@@ -13866,8 +13866,8 @@
     "location": "Georgia, Tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 52,
+    "followers": 11,
+    "privateContributions": 57,
     "publicContributions": 8,
     "createdAt": "2022-07-22T23:51:46Z"
   },
@@ -13878,8 +13878,8 @@
     "location": "Georgia",
     "company": "Steve Jobs American Academy",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 29,
+    "followers": 13,
+    "privateContributions": 469,
     "publicContributions": 52,
     "createdAt": "2022-01-17T21:27:39Z"
   },
@@ -13915,7 +13915,7 @@
     "company": "",
     "twitterUsername": "mr_pipia",
     "followers": 13,
-    "privateContributions": 170,
+    "privateContributions": 241,
     "publicContributions": 89,
     "createdAt": "2022-01-01T08:00:23Z"
   },
@@ -13927,8 +13927,8 @@
     "company": "TBC",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 35,
-    "publicContributions": 2,
+    "privateContributions": 19,
+    "publicContributions": 0,
     "createdAt": "2022-11-23T09:06:49Z"
   },
   {
@@ -13938,7 +13938,7 @@
     "location": "Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-04T13:14:31Z"
@@ -13950,9 +13950,9 @@
     "location": "Georgia, tbilisi",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 116,
-    "publicContributions": 40,
+    "followers": 13,
+    "privateContributions": 80,
+    "publicContributions": 38,
     "createdAt": "2022-11-14T12:28:21Z"
   },
   {
@@ -13960,11 +13960,11 @@
     "name": "Nika Kopadze",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97542937?s=72&u=5b6f44604cd38bda374c0963335a9d7f9d830588&v=4",
     "location": "Georgia,Gori",
-    "company": "@devspark-studio",
+    "company": "Mitoni Systems",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 4419,
-    "publicContributions": 19,
+    "privateContributions": 4710,
+    "publicContributions": 42,
     "createdAt": "2022-01-11T16:40:38Z"
   },
   {
@@ -13975,20 +13975,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 418,
+    "privateContributions": 307,
     "publicContributions": 0,
     "createdAt": "2022-02-20T06:41:33Z"
   },
   {
     "login": "gchikovanii",
     "name": "Giorgi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99079585?s=72&u=32c67ab02f7e36439dbce99a005a3facde5fdb53&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99079585?s=72&u=43aa2fcdd2e6874e1f47fff165678c8be1aa9e46&v=4",
     "location": "Georgia, Tbilisi",
     "company": "",
-    "twitterUsername": "GiorgiChikova17",
+    "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 321,
-    "publicContributions": 8,
+    "privateContributions": 256,
+    "publicContributions": 2,
     "createdAt": "2022-02-05T12:52:30Z"
   },
   {
@@ -13999,20 +13999,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1748,
-    "publicContributions": 40,
+    "privateContributions": 1740,
+    "publicContributions": 36,
     "createdAt": "2022-10-13T07:52:02Z"
   },
   {
     "login": "MMeskhi",
     "name": "Mikheil Meskhi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99041141?s=72&u=e35ec45d118b46991cf66bb6180c700a8c2bb7ef&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99041141?s=72&v=4",
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 52,
     "createdAt": "2022-02-04T17:36:06Z"
   },
   {
