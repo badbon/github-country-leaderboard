@@ -237187,8 +237187,8 @@
     "company": "Embiggen X",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1576,
-    "publicContributions": 15,
+    "privateContributions": 1702,
+    "publicContributions": 14,
     "createdAt": "2026-05-18T05:33:03Z"
   },
   {
@@ -237682,5 +237682,41 @@
     "privateContributions": 1103,
     "publicContributions": 213,
     "createdAt": "2025-05-08T17:41:50Z"
+  },
+  {
+    "login": "annerachelalonzo",
+    "name": "Anne",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293299207?s=72&u=93862edc0da4039dbc6825799da1c298bc2f74c4&v=4",
+    "location": "Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-13T06:28:25Z"
+  },
+  {
+    "login": "patmadarang",
+    "name": "Patrick Madarang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293925871?s=72&u=eca8c9cbd92cf7a56423aa72c085175145c17a7e&v=4",
+    "location": "Quezon City, Metro Manila",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-15T16:36:29Z"
+  },
+  {
+    "login": "bacsantiago",
+    "name": "Basil Angelo Santiago",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290223327?s=72&u=f16ca897366d23204e0b4f98a8e71b332901c20f&v=4",
+    "location": "551 F Jhocson St, Sampaloc, Manila, 1008 Metro Manila",
+    "company": "National University Philippines",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-03T02:50:09Z"
   }
 ]

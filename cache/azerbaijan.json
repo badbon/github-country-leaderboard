@@ -13184,7 +13184,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-06-28T18:02:56Z"
   },
   {
@@ -13194,7 +13194,7 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 55,
     "createdAt": "2023-03-17T16:44:36Z"
@@ -13206,9 +13206,9 @@
     "location": "Azerbaijan",
     "company": "Baku State University",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 50,
     "createdAt": "2023-02-26T17:31:31Z"
   },
   {
@@ -13231,8 +13231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1073,
-    "publicContributions": 82,
+    "privateContributions": 979,
+    "publicContributions": 80,
     "createdAt": "2023-05-23T16:29:39Z"
   },
   {
@@ -13254,7 +13254,7 @@
     "location": "Baku,Azerbaijan",
     "company": "MasterCode Azerbaijan",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-10-07T07:29:46Z"
@@ -13292,7 +13292,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 66,
-    "publicContributions": 52,
+    "publicContributions": 50,
     "createdAt": "2023-07-27T09:37:55Z"
   },
   {
@@ -13320,18 +13320,6 @@
     "createdAt": "2023-01-26T15:41:47Z"
   },
   {
-    "login": "kemikable",
-    "name": "Kamran Aghayev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124082311?s=72&v=4",
-    "location": "Azerbaijan, Baku",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-01-31T17:57:35Z"
-  },
-  {
     "login": "compuser21",
     "name": "compuser21",
     "avatarUrl": "https://avatars.githubusercontent.com/u/137155283?s=72&u=ff64589ee31851e15a50b3004456be2735cf3160&v=4",
@@ -13340,7 +13328,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 33,
     "createdAt": "2023-06-20T07:50:10Z"
   },
   {
@@ -13388,7 +13376,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 67,
     "createdAt": "2023-11-13T12:39:11Z"
   },
   {
@@ -13400,7 +13388,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 56,
     "createdAt": "2023-01-14T13:53:51Z"
   },
   {

@@ -117151,7 +117151,7 @@
     "company": "@nexa-global-org",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 1303,
+    "privateContributions": 1282,
     "publicContributions": 121,
     "createdAt": "2026-05-28T03:37:35Z"
   },
@@ -117296,7 +117296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2026-05-30T01:06:10Z"
   },
   {
@@ -117332,7 +117332,7 @@
     "twitterUsername": "Rodrigo21162844",
     "followers": 3,
     "privateContributions": 350,
-    "publicContributions": 73,
+    "publicContributions": 117,
     "createdAt": "2026-06-19T23:54:04Z"
   },
   {
@@ -117370,5 +117370,125 @@
     "privateContributions": 0,
     "publicContributions": 127,
     "createdAt": "2026-06-25T22:51:39Z"
+  },
+  {
+    "login": "REYJAZ",
+    "name": "REYNER",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294726231?s=72&u=d018d3f35fac56da4c1bb3f91ead9a04f7ed3c5a&v=4",
+    "location": "Lima - perú 📍",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 93,
+    "createdAt": "2026-06-18T06:40:34Z"
+  },
+  {
+    "login": "JoseCardenasPanDEV",
+    "name": "JoseCardenasPanDEV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294179640?s=72&u=e2e5c1d63a1f482857b3559e3a6d4bc7bce990f5&v=4",
+    "location": "Lima/Pachamac",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 3,
+    "publicContributions": 56,
+    "createdAt": "2026-06-16T12:24:08Z"
+  },
+  {
+    "login": "dinobuild",
+    "name": "Claudette",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295235919?s=72&u=de7c53a7d33f50368160dd8efe3d263bc5eb2a68&v=4",
+    "location": "Lima, Perú",
+    "company": "Notion Perú",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-19T22:03:12Z"
+  },
+  {
+    "login": "jesubarba123",
+    "name": "Jesús Gonzalo Barba García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285553022?s=72&u=811f842e70ff041e4d21574dd6ff71914cab8cec&v=4",
+    "location": "Lima Perú",
+    "company": "10Pearls Latam ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 49,
+    "createdAt": "2026-05-18T03:01:26Z"
+  },
+  {
+    "login": "luzgomezmayami-ship-it",
+    "name": "Luz Yamila Gómez Mayhuire ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290523250?s=72&v=4",
+    "location": "Lima",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-03T21:00:59Z"
+  },
+  {
+    "login": "KarenChoqueRosas",
+    "name": "Judith Karen Choque Rosas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292948441?s=72&u=477daa27dd961e307134ec5fb7c556ad06fe8bbc&v=4",
+    "location": "Lima - Cañete",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2026-06-12T00:51:09Z"
+  },
+  {
+    "login": "abel-roque",
+    "name": "Abel Roque",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287847394?s=72&v=4",
+    "location": "Lima, Perú",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-26T01:09:50Z"
+  },
+  {
+    "login": "reydavilaca-hue",
+    "name": "Reynel Davila",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290245557?s=72&u=d24c9840f93d545a941cf7b8817b730d64c787e7&v=4",
+    "location": "Lima, Perú",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 40,
+    "createdAt": "2026-06-03T04:45:28Z"
+  },
+  {
+    "login": "PabloContreras14py",
+    "name": "PabloContreras.py",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296759603?s=72&u=ac0be0f5a3ee6ed4f8ee39672368fc5c38a4069d&v=4",
+    "location": "Cañete-Lima",
+    "company": "Valle Grande ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 30,
+    "createdAt": "2026-06-25T04:16:21Z"
+  },
+  {
+    "login": "erickss05azul-maker",
+    "name": "Erick Salcca",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288049528?s=72&v=4",
+    "location": "Lima",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 29,
+    "createdAt": "2026-05-26T14:45:51Z"
   }
 ]

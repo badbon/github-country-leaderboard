@@ -179818,5 +179818,53 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-12T18:23:50Z"
+  },
+  {
+    "login": "CristinaCat",
+    "name": "Cristina Catoiu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287165363?s=72&u=f6c93b67df6b7f7952833f5244cbeb86d7ca4633&v=4",
+    "location": "Bucharest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2026-05-23T07:22:58Z"
+  },
+  {
+    "login": "Thomas-T0ma",
+    "name": "Thomas Toma",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291849582?s=72&u=2d09bdab443d4b3f661ed9b7ebf733ef7ea05f79&v=4",
+    "location": "Bucharest",
+    "company": "Viral Developement Solutions",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-08T16:20:37Z"
+  },
+  {
+    "login": "mrsrosu",
+    "name": "Marius R.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294207201?s=72&u=f1e9f48937eb77bdd8417b3b1b6ef59915977a7f&v=4",
+    "location": "Bucharest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-16T14:00:02Z"
+  },
+  {
+    "login": "segfault-elf",
+    "name": "segfault.elf",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287030708?s=72&u=37da3e5014efd74cf444d3d43b2e7290a7ec6a08&v=4",
+    "location": "Bucharest",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 31,
+    "createdAt": "2026-05-22T16:47:19Z"
   }
 ]

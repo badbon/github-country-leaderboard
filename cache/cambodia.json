@@ -13255,8 +13255,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 119,
-    "publicContributions": 175,
+    "privateContributions": 528,
+    "publicContributions": 41,
     "createdAt": "2022-12-12T13:11:24Z"
   },
   {
@@ -13272,25 +13272,13 @@
     "createdAt": "2022-02-20T05:51:45Z"
   },
   {
-    "login": "nguonheng23dev",
-    "name": "Nguonheng Hout",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119398067?s=72&u=2b9613954d9247fa3808c2a98c87058a6661408d&v=4",
-    "location": "Phnom Penh, Cambodia",
-    "company": "SabaiCode X Cellcard",
-    "twitterUsername": "NguonHeng5",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2022-11-29T06:51:22Z"
-  },
-  {
     "login": "Sodykhorn",
     "name": "Sody Khorn",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102490027?s=72&v=4",
     "location": "Cambodia ",
     "company": "Khornsody94@outlook.com",
     "twitterUsername": "Smalldee94",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-27T22:14:00Z"
@@ -13315,7 +13303,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 184,
+    "privateContributions": 181,
     "publicContributions": 0,
     "createdAt": "2022-07-10T08:49:35Z"
   },
@@ -13327,8 +13315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 25,
+    "privateContributions": 31,
+    "publicContributions": 18,
     "createdAt": "2022-01-03T13:56:41Z"
   },
   {
@@ -13336,11 +13324,11 @@
     "name": "Vathana Tork",
     "avatarUrl": "https://avatars.githubusercontent.com/u/108050623?s=72&u=b562463141b720f6a29c83765b117157a7dc2553&v=4",
     "location": "Cambodia",
-    "company": "CADT",
+    "company": "@mef-gdde",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 327,
-    "publicContributions": 33,
+    "privateContributions": 203,
+    "publicContributions": 31,
     "createdAt": "2022-06-23T06:20:05Z"
   },
   {
@@ -13400,7 +13388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 160,
     "createdAt": "2022-10-18T10:00:20Z"
   },
   {
@@ -13422,7 +13410,7 @@
     "location": "Phnom Penh city, Cambodia",
     "company": "Icloud.com",
     "twitterUsername": "Mhirkhan",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-14T21:37:07Z"
@@ -13434,7 +13422,7 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-16T11:52:55Z"

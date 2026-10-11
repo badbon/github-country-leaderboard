@@ -13196,20 +13196,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 5,
-    "publicContributions": 46,
+    "publicContributions": 49,
     "createdAt": "2017-10-11T18:44:20Z"
-  },
-  {
-    "login": "maibyssl",
-    "name": "Maibys Sierra Lorenzo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33002821?s=72&v=4",
-    "location": "La Habana, Cuba",
-    "company": "Center for Atmospheric Physics, Meteorology Institute of Cuba",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-10-22T14:26:40Z"
   },
   {
     "login": "imtvi06",
@@ -13220,7 +13208,7 @@
     "twitterUsername": "imtvi06",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2017-12-06T13:48:03Z"
   },
   {
@@ -13244,7 +13232,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-04-01T15:04:35Z"
   },
   {
@@ -13260,18 +13248,6 @@
     "createdAt": "2017-04-20T16:21:46Z"
   },
   {
-    "login": "stdevAlDen",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/34870496?s=72&u=ad407abd2597867e89fc3b6fb142e2a9355332d8&v=4",
-    "location": "Havana, Cuba",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-12-26T21:31:28Z"
-  },
-  {
     "login": "lsuarez96",
     "name": "Luis Suárez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/32963572?s=72&v=4",
@@ -13282,18 +13258,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-20T16:10:21Z"
-  },
-  {
-    "login": "leoflavio1989",
-    "name": "Leonardo Flavio Fernández Arias",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26126880?s=72&u=48714e277b4f5f1f7af1390f67af92fc6e4137b9&v=4",
-    "location": "Cuba",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 29,
-    "publicContributions": 136,
-    "createdAt": "2017-03-01T23:52:05Z"
   },
   {
     "login": "cryzet",
@@ -13338,7 +13302,7 @@
     "location": "Havana",
     "company": "CorvanIT S.L.U",
     "twitterUsername": "linuxcuba",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-01-24T14:47:41Z"
@@ -13351,8 +13315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 10,
-    "publicContributions": 15,
+    "privateContributions": 4,
+    "publicContributions": 29,
     "createdAt": "2017-08-09T19:04:41Z"
   },
   {
@@ -13376,7 +13340,7 @@
     "twitterUsername": "",
     "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 7,
     "createdAt": "2016-04-26T17:57:41Z"
   },
   {
@@ -13386,9 +13350,9 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 3142,
-    "publicContributions": 35,
+    "followers": 37,
+    "privateContributions": 5098,
+    "publicContributions": 58,
     "createdAt": "2016-03-25T14:37:04Z"
   },
   {
@@ -13398,9 +13362,9 @@
     "location": "Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 34,
     "createdAt": "2016-08-28T22:14:08Z"
   },
   {

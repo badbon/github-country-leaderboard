@@ -13352,7 +13352,7 @@
     "twitterUsername": "antoniolocandro",
     "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 664,
+    "publicContributions": 919,
     "createdAt": "2013-06-06T03:58:50Z"
   },
   {
@@ -13362,8 +13362,8 @@
     "location": "Tegucigalpa, Honduras",
     "company": "X-Team",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 2564,
+    "followers": 17,
+    "privateContributions": 3157,
     "publicContributions": 0,
     "createdAt": "2013-05-01T22:38:20Z"
   },
@@ -13374,8 +13374,8 @@
     "location": "Tegucigalpa, Honduras",
     "company": "Prograpedia",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 23,
+    "followers": 16,
+    "privateContributions": 15,
     "publicContributions": 20,
     "createdAt": "2013-04-10T17:02:05Z"
   },
@@ -13387,8 +13387,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 3645,
-    "publicContributions": 97,
+    "privateContributions": 3584,
+    "publicContributions": 100,
     "createdAt": "2013-12-24T23:04:19Z"
   },
   {
@@ -13398,9 +13398,9 @@
     "location": "Honduras",
     "company": "",
     "twitterUsername": "jaguilar992",
-    "followers": 15,
-    "privateContributions": 401,
-    "publicContributions": 27,
+    "followers": 16,
+    "privateContributions": 509,
+    "publicContributions": 26,
     "createdAt": "2013-04-04T00:32:30Z"
   },
   {
@@ -13411,8 +13411,8 @@
     "company": "@AutoFi",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 648,
-    "publicContributions": 0,
+    "privateContributions": 575,
+    "publicContributions": 26,
     "createdAt": "2013-05-25T19:33:57Z"
   },
   {
@@ -13422,8 +13422,8 @@
     "location": "San Pedro Sula, Honduras.",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 2073,
+    "followers": 12,
+    "privateContributions": 2529,
     "publicContributions": 19,
     "createdAt": "2013-03-04T19:49:41Z"
   },
@@ -13471,7 +13471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 151,
+    "privateContributions": 143,
     "publicContributions": 73,
     "createdAt": "2013-01-20T22:50:38Z"
   },
@@ -13483,7 +13483,7 @@
     "company": "Code Store",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1324,
+    "privateContributions": 1308,
     "publicContributions": 0,
     "createdAt": "2013-05-15T20:07:37Z"
   },
@@ -13495,7 +13495,7 @@
     "company": "Academic Impressions",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 686,
+    "privateContributions": 714,
     "publicContributions": 0,
     "createdAt": "2013-03-15T00:09:31Z"
   },
@@ -13519,8 +13519,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 95,
-    "publicContributions": 565,
+    "privateContributions": 204,
+    "publicContributions": 576,
     "createdAt": "2013-01-14T13:12:54Z"
   },
   {
@@ -13531,8 +13531,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3120,
-    "publicContributions": 0,
+    "privateContributions": 3254,
+    "publicContributions": 1,
     "createdAt": "2013-05-23T22:26:36Z"
   },
   {
@@ -13564,24 +13564,12 @@
     "name": "Douglas Ortega",
     "avatarUrl": "https://avatars.githubusercontent.com/u/4195100?s=72&u=d364ae60924873970dba2cbe3fc243bd451c4e82&v=4",
     "location": "Tegucigalpa, Honduras",
-    "company": "@e-librodev ",
+    "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-04-18T20:15:35Z"
-  },
-  {
-    "login": "allcracked",
-    "name": "Jose Avilez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4792787?s=72&v=4",
-    "location": "Honduras",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 65,
-    "publicContributions": 2,
-    "createdAt": "2013-06-24T00:19:09Z"
   },
   {
     "login": "eaesquivel",

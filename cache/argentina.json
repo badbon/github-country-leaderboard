@@ -12940,11 +12940,11 @@
     "name": "Maximo Berth",
     "avatarUrl": "https://avatars.githubusercontent.com/u/236267812?s=72&u=9838fb4938e6f4b74794af0e3f2ab6bab200519f&v=4",
     "location": "Argentina ",
-    "company": "",
+    "company": "Nolex",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 30,
-    "publicContributions": 307,
+    "followers": 19,
+    "privateContributions": 133,
+    "publicContributions": 324,
     "createdAt": "2025-10-05T21:43:10Z"
   },
   {
@@ -12955,8 +12955,8 @@
     "company": "HashiCorp",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 15,
-    "publicContributions": 2,
+    "privateContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2025-07-14T20:45:08Z"
   },
   {
@@ -12966,9 +12966,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 117,
     "createdAt": "2025-08-20T17:25:52Z"
   },
   {
@@ -13004,7 +13004,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 349,
+    "publicContributions": 255,
     "createdAt": "2025-07-30T17:39:49Z"
   },
   {
@@ -13016,7 +13016,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 51,
     "createdAt": "2025-12-04T13:54:40Z"
   },
   {
@@ -13026,21 +13026,21 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 33,
-    "publicContributions": 796,
+    "followers": 14,
+    "privateContributions": 6,
+    "publicContributions": 139,
     "createdAt": "2025-08-27T13:12:02Z"
   },
   {
     "login": "N1x-afl",
     "name": "Felipe Loaiza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250742677?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/250742677?s=72&u=b29b416f190c81e2ad3499da14237e036f98989f&v=4",
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 114,
-    "publicContributions": 256,
+    "followers": 13,
+    "privateContributions": 128,
+    "publicContributions": 258,
     "createdAt": "2025-12-20T19:38:05Z"
   },
   {
@@ -13050,7 +13050,7 @@
     "location": "CABA, Argentina ",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2025-10-28T13:23:24Z"
@@ -13062,9 +13062,9 @@
     "location": "Lanús, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 16,
-    "publicContributions": 20,
+    "followers": 11,
+    "privateContributions": 23,
+    "publicContributions": 50,
     "createdAt": "2025-12-06T15:03:02Z"
   },
   {
@@ -13076,7 +13076,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 12,
     "createdAt": "2025-08-29T22:29:54Z"
   },
   {
@@ -13086,9 +13086,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 23,
     "createdAt": "2025-07-07T17:48:06Z"
   },
   {
@@ -13100,7 +13100,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 430,
+    "publicContributions": 347,
     "createdAt": "2025-08-01T15:30:45Z"
   },
   {
@@ -13110,9 +13110,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 591,
+    "publicContributions": 674,
     "createdAt": "2025-11-17T04:43:29Z"
   },
   {
@@ -13122,9 +13122,9 @@
     "location": "Córdoba, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 47,
     "createdAt": "2025-07-15T08:02:36Z"
   },
   {
@@ -13134,9 +13134,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "FedericoTrvl",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 44,
     "createdAt": "2025-10-06T12:52:46Z"
   },
   {
@@ -13148,7 +13148,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 251,
+    "publicContributions": 274,
     "createdAt": "2025-08-04T19:43:37Z"
   },
   {
@@ -13158,9 +13158,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 64,
     "createdAt": "2025-09-05T17:40:45Z"
   },
   {
@@ -13172,7 +13172,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 164,
+    "publicContributions": 246,
     "createdAt": "2025-08-14T21:34:03Z"
   },
   {

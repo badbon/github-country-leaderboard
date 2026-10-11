@@ -12878,13 +12878,13 @@
   {
     "login": "sfgxdfdfg",
     "name": "Mark_Developer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97959148?s=72&u=0c5b61a235123a12ee306bf03b5857ba59a567ae&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97959148?s=72&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 25,
     "createdAt": "2022-01-18T12:30:13Z"
   },
   {
@@ -12894,9 +12894,9 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 142,
-    "publicContributions": 36,
+    "followers": 6,
+    "privateContributions": 109,
+    "publicContributions": 61,
     "createdAt": "2022-02-15T15:34:37Z"
   },
   {
@@ -12906,7 +12906,7 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-20T14:29:35Z"
@@ -12914,7 +12914,7 @@
   {
     "login": "lionelvasko",
     "name": "Lionel Vaskó",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119498065?s=72&u=ff501efc0dbb51952f22eb2bd321cb4a0db1943e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119498065?s=72&u=6c5c21e9fff18491662772a2689461bf279f126f&v=4",
     "location": "Hungary",
     "company": "",
     "twitterUsername": "leo_vasko",
@@ -12932,7 +12932,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 10,
     "createdAt": "2022-09-16T19:50:33Z"
   },
   {
@@ -12943,7 +12943,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2377,
+    "privateContributions": 2548,
     "publicContributions": 0,
     "createdAt": "2022-04-30T14:17:22Z"
   },
@@ -12978,7 +12978,7 @@
     "location": "Hungary",
     "company": "Silverhand Inc.",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-07-18T05:16:17Z"
@@ -12991,8 +12991,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 485,
-    "publicContributions": 909,
+    "privateContributions": 919,
+    "publicContributions": 26,
     "createdAt": "2022-08-11T12:15:17Z"
   },
   {
@@ -13015,21 +13015,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 21,
+    "privateContributions": 11,
     "publicContributions": 0,
     "createdAt": "2022-02-08T07:48:29Z"
-  },
-  {
-    "login": "RmnFs",
-    "name": "Riman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/120929331?s=72&u=59777fd60ac0f7048e932978100f3afa947e8670&v=4",
-    "location": "Budapest, Hungary",
-    "company": "",
-    "twitterUsername": "Riman_Rmn",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 163,
-    "createdAt": "2022-12-18T11:39:52Z"
   },
   {
     "login": "alltabs",
@@ -13048,11 +13036,11 @@
     "name": "Engert Dániel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113103002?s=72&u=447ade9bf70e869ca96e7b248768183d3d2b88d5&v=4",
     "location": "Pilisvörösvár, Hungary",
-    "company": "Verebély László Technikum",
+    "company": "Óbudai Egyetem, Neuman Kar",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 137,
-    "publicContributions": 13,
+    "privateContributions": 144,
+    "publicContributions": 6,
     "createdAt": "2022-09-08T10:04:13Z"
   },
   {
@@ -13064,7 +13052,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 47,
     "createdAt": "2022-02-20T13:39:07Z"
   },
   {
@@ -13074,9 +13062,9 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 204,
     "createdAt": "2022-09-07T07:24:42Z"
   },
   {
@@ -13098,7 +13086,7 @@
     "location": "Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-07T14:26:32Z"

@@ -13220,7 +13220,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 83,
     "createdAt": "2020-05-04T11:30:18Z"
   },
   {
@@ -13231,7 +13231,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-09-26T19:11:40Z"
   },
@@ -13266,9 +13266,9 @@
     "location": "Kabul",
     "company": "Ministry of Foreign Affairs Afghanistan",
     "twitterUsername": "yasirsahibzada5",
-    "followers": 2,
-    "privateContributions": 598,
-    "publicContributions": 28,
+    "followers": 4,
+    "privateContributions": 631,
+    "publicContributions": 33,
     "createdAt": "2020-09-12T01:28:26Z"
   },
   {
@@ -13338,21 +13338,21 @@
     "location": "kabul, Afghanistan",
     "company": "@decipheron",
     "twitterUsername": "SanamHamza2",
-    "followers": 110,
+    "followers": 91,
     "privateContributions": 4,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2019-09-28T00:49:36Z"
   },
   {
     "login": "snavid-dev",
     "name": "Sayed Navid Azimi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58168739?s=72&u=6ebbc8807f1c6a859adcd229b670208329c6fb63&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/58168739?s=72&u=79f7e96d5304b2e8f0d500425ae20651f30d5540&v=4",
     "location": "Afghanistan",
     "company": "Cyborg Tech Creative Agency",
     "twitterUsername": "",
-    "followers": 67,
-    "privateContributions": 883,
-    "publicContributions": 353,
+    "followers": 68,
+    "privateContributions": 2823,
+    "publicContributions": 339,
     "createdAt": "2019-11-25T09:53:51Z"
   },
   {
@@ -13363,8 +13363,8 @@
     "company": "",
     "twitterUsername": "Mahdi_Rezaei_AF",
     "followers": 53,
-    "privateContributions": 1491,
-    "publicContributions": 859,
+    "privateContributions": 2137,
+    "publicContributions": 811,
     "createdAt": "2019-05-17T10:53:45Z"
   },
   {
@@ -13374,9 +13374,9 @@
     "location": "Afghanistan",
     "company": "Full-Stack Software Developer",
     "twitterUsername": "Wahidul74626845",
-    "followers": 46,
-    "privateContributions": 16,
-    "publicContributions": 16,
+    "followers": 49,
+    "privateContributions": 29,
+    "publicContributions": 17,
     "createdAt": "2019-06-12T13:38:44Z"
   },
   {
@@ -13386,7 +13386,7 @@
     "location": "Herat, Afghanistan",
     "company": "Shine",
     "twitterUsername": "",
-    "followers": 42,
+    "followers": 46,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2019-11-03T10:38:23Z"
@@ -13400,7 +13400,7 @@
     "twitterUsername": "sadatshahira",
     "followers": 40,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2019-07-31T15:03:08Z"
   },
   {
@@ -13410,21 +13410,21 @@
     "location": "Kabul, Afghanistan",
     "company": "Full Stack Software Developer",
     "twitterUsername": "IqbalElham7",
-    "followers": 39,
-    "privateContributions": 579,
+    "followers": 40,
+    "privateContributions": 430,
     "publicContributions": 14,
     "createdAt": "2019-04-21T07:04:44Z"
   },
   {
     "login": "ShahidKhanDev",
     "name": "Shahid",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59318204?s=72&u=287f38585c4ec63bf7af35d1029801adb120d642&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59318204?s=72&u=fe3a15c6e6d918b382a8235952f0c0c45a28d72a&v=4",
     "location": "Kabul, Afghanistan",
     "company": "",
     "twitterUsername": "shahid_a5",
-    "followers": 39,
+    "followers": 47,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 7,
     "createdAt": "2019-12-28T18:40:04Z"
   },
   {
@@ -13434,7 +13434,7 @@
     "location": "Herat, Afghanistan",
     "company": "@Poraan-ICT",
     "twitterUsername": "M_Ghorbani_",
-    "followers": 31,
+    "followers": 29,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-08T20:19:20Z"
@@ -13447,7 +13447,7 @@
     "company": "Code9ine",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 2655,
+    "privateContributions": 3838,
     "publicContributions": 0,
     "createdAt": "2019-12-22T20:04:23Z"
   },

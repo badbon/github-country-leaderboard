@@ -13220,20 +13220,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 26,
     "createdAt": "2021-07-18T12:49:06Z"
-  },
-  {
-    "login": "edgar5055",
-    "name": "Edgar Arakelyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/94640258?s=72&u=34673a4ee4070b4941e0ab997bcb7876ad4c2127&v=4",
-    "location": "Yerevan Armenia",
-    "company": "Armsoft",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2021-11-18T18:29:12Z"
   },
   {
     "login": "KaroHambaryan",
@@ -13255,8 +13243,8 @@
     "company": "Iguan Systems",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 72,
-    "publicContributions": 61,
+    "privateContributions": 75,
+    "publicContributions": 57,
     "createdAt": "2021-08-07T12:47:23Z"
   },
   {
@@ -13280,7 +13268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2021-08-28T14:02:37Z"
   },
   {
@@ -13339,7 +13327,7 @@
     "company": "",
     "twitterUsername": "narek4211",
     "followers": 1,
-    "privateContributions": 1231,
+    "privateContributions": 1457,
     "publicContributions": 12,
     "createdAt": "2021-11-04T19:54:37Z"
   },
@@ -13351,8 +13339,8 @@
     "company": "RatStudio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 969,
-    "publicContributions": 27,
+    "privateContributions": 959,
+    "publicContributions": 49,
     "createdAt": "2021-04-24T12:11:19Z"
   },
   {
@@ -13411,7 +13399,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
+    "privateContributions": 10,
     "publicContributions": 5,
     "createdAt": "2021-01-27T10:01:41Z"
   },

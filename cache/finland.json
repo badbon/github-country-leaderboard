@@ -12907,8 +12907,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 129,
-    "publicContributions": 266,
+    "privateContributions": 161,
+    "publicContributions": 321,
     "createdAt": "2023-07-16T18:10:38Z"
   },
   {
@@ -12919,8 +12919,8 @@
     "company": "Aalto University",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 169,
-    "publicContributions": 27,
+    "privateContributions": 255,
+    "publicContributions": 21,
     "createdAt": "2023-09-19T07:56:28Z"
   },
   {
@@ -12931,8 +12931,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 29,
-    "publicContributions": 333,
+    "privateContributions": 28,
+    "publicContributions": 288,
     "createdAt": "2023-04-08T06:32:20Z"
   },
   {
@@ -12944,7 +12944,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 64,
     "createdAt": "2023-02-15T11:27:43Z"
   },
   {
@@ -12956,7 +12956,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 257,
     "createdAt": "2023-11-25T10:54:19Z"
   },
   {
@@ -12967,8 +12967,8 @@
     "company": "Satakunta University of Applied Sciences",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 39,
-    "publicContributions": 98,
+    "privateContributions": 22,
+    "publicContributions": 78,
     "createdAt": "2023-09-21T11:53:07Z"
   },
   {
@@ -13015,8 +13015,8 @@
     "company": "Metropolia UAS",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1935,
-    "publicContributions": 290,
+    "privateContributions": 2122,
+    "publicContributions": 234,
     "createdAt": "2023-12-15T11:12:04Z"
   },
   {
@@ -13039,8 +13039,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 80,
-    "publicContributions": 65,
+    "privateContributions": 36,
+    "publicContributions": 66,
     "createdAt": "2023-08-22T12:37:11Z"
   },
   {
@@ -13063,8 +13063,8 @@
     "company": "Tampere university",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 107,
-    "publicContributions": 443,
+    "privateContributions": 543,
+    "publicContributions": 776,
     "createdAt": "2023-01-28T10:35:31Z"
   },
   {
@@ -13074,9 +13074,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 207,
-    "publicContributions": 287,
+    "followers": 4,
+    "privateContributions": 225,
+    "publicContributions": 249,
     "createdAt": "2023-01-12T16:27:02Z"
   },
   {
@@ -13086,7 +13086,7 @@
     "location": "Finland",
     "company": "pekkakorpi-tassi.fi",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-23T02:55:08Z"
@@ -13123,19 +13123,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 17,
-    "publicContributions": 39,
+    "privateContributions": 59,
+    "publicContributions": 14,
     "createdAt": "2023-10-03T07:17:59Z"
   },
   {
     "login": "uidq",
     "name": "uid",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128550925?s=72&u=b91bab782166b036795a3e07f774417c25cb708e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/128550925?s=72&u=cf82d48d03ed5550de0c03a4b3178ba2068ca3cf&v=4",
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 570,
+    "privateContributions": 754,
     "publicContributions": 6,
     "createdAt": "2023-03-21T22:26:14Z"
   },

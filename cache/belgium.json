@@ -13184,20 +13184,8 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 219,
     "createdAt": "2023-09-20T08:01:29Z"
-  },
-  {
-    "login": "eternom-krabe",
-    "name": "Eternom",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142027648?s=72&u=edb340c80acf9682ce7a8ff015d9bd26e2d06695&v=4",
-    "location": "Belgium",
-    "company": "Eternom",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 241,
-    "publicContributions": 133,
-    "createdAt": "2023-08-11T14:07:29Z"
   },
   {
     "login": "dylanclaes",
@@ -13208,7 +13196,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 80,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2023-04-14T13:14:18Z"
   },
   {
@@ -13242,21 +13230,21 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 902,
-    "publicContributions": 1819,
+    "followers": 7,
+    "privateContributions": 942,
+    "publicContributions": 2120,
     "createdAt": "2023-09-05T06:39:33Z"
   },
   {
     "login": "vznd3v",
-    "name": "Marmotte",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124028093?s=72&u=e578c411b05fd333bb037a47566093d8340dae77&v=4",
+    "name": "Niceware",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124028093?s=72&u=a6ad84cdd1ff4a67470d782e58976e070d7affa9&v=4",
     "location": "Belgium",
-    "company": "Polnorth",
+    "company": "World",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 85,
     "createdAt": "2023-01-31T06:47:06Z"
   },
   {
@@ -13280,7 +13268,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 83,
     "createdAt": "2023-09-21T17:00:37Z"
   },
   {
@@ -13292,7 +13280,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 144,
     "createdAt": "2023-02-19T10:09:49Z"
   },
   {
@@ -13303,8 +13291,8 @@
     "company": "Linear Studios",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2087,
-    "publicContributions": 31,
+    "privateContributions": 2492,
+    "publicContributions": 30,
     "createdAt": "2023-11-17T14:25:26Z"
   },
   {
@@ -13314,9 +13302,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 118,
     "createdAt": "2023-03-07T00:39:12Z"
   },
   {
@@ -13328,7 +13316,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 46,
     "createdAt": "2023-01-20T18:39:40Z"
   },
   {
@@ -13340,7 +13328,7 @@
     "twitterUsername": "C_Goemaere",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2023-08-09T12:57:09Z"
   },
   {
@@ -13362,9 +13350,9 @@
     "location": "Brussels, Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2023-01-18T17:33:11Z"
   },
   {
@@ -13376,7 +13364,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 97,
     "createdAt": "2023-02-16T13:45:08Z"
   },
   {
@@ -13390,18 +13378,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-10-04T08:05:49Z"
-  },
-  {
-    "login": "tvercamer",
-    "name": "Thomas Vercamer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125456909?s=72&u=b9c05ad675388f0a7ae3b4581f645f7e20bc1fbf&v=4",
-    "location": "Heist-op-den-Berg, Belgium",
-    "company": "Datawijs | Odisee",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 67,
-    "publicContributions": 16,
-    "createdAt": "2023-02-15T10:49:59Z"
   },
   {
     "login": "Amos754",
