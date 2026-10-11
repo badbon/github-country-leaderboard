@@ -1,6 +1,6 @@
 # Macau
 
-Indexed users: 440
+Indexed users: 439
 
 | Leaderboard | Link |
 |---|---|
@@ -74,7 +74,7 @@ Indexed users: 440
 | 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 127 |
 | 11 | [manesec](https://github.com/manesec) | Mane | Macau | 126 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 110 |
-| 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 106 |
+| 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 100 |
 | 15 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | Macau | 93 |
 | 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Macau | 92 |
@@ -83,4 +83,4 @@ Indexed users: 440
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-11T07:58:03.026Z
+Generated: 2026-10-11T09:37:24.905Z

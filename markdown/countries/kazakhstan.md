@@ -1,6 +1,6 @@
 # Kazakhstan
 
-Indexed users: 5,665
+Indexed users: 5,664
 
 | Leaderboard | Link |
 |---|---|
@@ -18,12 +18,12 @@ Indexed users: 5,665
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,165 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev | Atyrau, Kazakhstan | 15,489 |
-| 7 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 13,558 |
-| 8 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,873 |
-| 9 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
-| 10 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
-| 11 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
-| 12 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 10,659 |
+| 7 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Astana, Kazakhstan | 14,638 |
+| 8 | [LeventySeven](https://github.com/LeventySeven) | Slava | Almaty, Kazakhstan | 13,558 |
+| 9 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | Kazakhstan, Almaty | 12,873 |
+| 10 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
+| 11 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
+| 12 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
 | 13 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
 | 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 9,875 |
 | 15 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
@@ -83,4 +83,4 @@ Indexed users: 5,665
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-11T07:53:41.203Z
+Generated: 2026-10-11T09:31:21.081Z

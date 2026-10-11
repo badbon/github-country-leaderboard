@@ -14,12 +14,12 @@ Indexed users: 1,174
 |---:|---|---|---|---:|
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 9,733 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,627 |
-| 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 5,729 |
-| 4 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
-| 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 5,495 |
-| 6 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 4,992 |
-| 7 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,874 |
-| 8 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 4,722 |
+| 3 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,892 |
+| 4 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 5,729 |
+| 5 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
+| 6 | [emagombe](https://github.com/emagombe) | Edson Magombe | Mozambique | 5,495 |
+| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 4,992 |
+| 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano | Mozambique Maputo | 4,874 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  | Maputo, Mozambique | 4,320 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | Mozambique | 3,892 |
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | Mozambique, Sofala, Beira | 3,395 |
@@ -31,7 +31,7 @@ Indexed users: 1,174
 | 17 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane | Mozambique | 2,492 |
 | 18 | [IvanBila](https://github.com/IvanBila) | Connoisseur | Maputo, Mozambique | 2,375 |
 | 19 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Maputo | 2,328 |
-| 20 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 2,265 |
+| 20 | [albertomandlate](https://github.com/albertomandlate) | Alberto Cláudio Mandlate | Maputo - Mozambique | 2,281 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,174
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-11T08:06:57.303Z
+Generated: 2026-10-11T09:45:41.601Z

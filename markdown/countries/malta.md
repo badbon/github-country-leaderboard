@@ -1,6 +1,6 @@
 # Malta
 
-Indexed users: 1,226
+Indexed users: 1,225
 
 | Leaderboard | Link |
 |---|---|
@@ -14,7 +14,7 @@ Indexed users: 1,226
 |---:|---|---|---|---:|
 | 1 | [davidbalzan](https://github.com/davidbalzan) | David Balzan | Malta | 25,544 |
 | 2 | [SijanC147](https://github.com/SijanC147) | Sean | Malta | 25,147 |
-| 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 19,296 |
+| 3 | [tssge](https://github.com/tssge) | Teemu Grönqvist | Msida, Malta | 15,347 |
 | 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 12,956 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
 | 6 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
@@ -83,4 +83,4 @@ Indexed users: 1,226
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-11T08:00:23.121Z
+Generated: 2026-10-11T09:40:41.341Z

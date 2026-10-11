@@ -27,7 +27,7 @@ Indexed users: 443
 | 13 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,115 |
 | 14 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 2,110 |
 | 15 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh | Freetown, Sierra Leone | 2,088 |
-| 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole | Freetown, Sierra Leone | 1,887 |
+| 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole | Freetown, Sierra Leone | 1,879 |
 | 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 1,717 |
 | 18 | [abu-bakarr](https://github.com/abu-bakarr) |  | Sierra Leone | 1,658 |
 | 19 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray | Sierra Leone | 1,603 |
@@ -54,9 +54,9 @@ Indexed users: 443
 | 15 | [konneh-hub](https://github.com/konneh-hub) | Mohamed Kortu Konneh | Sierra Leone | 354 |
 | 16 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 352 |
 | 17 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Sierra Leone  | 316 |
-| 18 | [Koigor97](https://github.com/Koigor97) | Koigor Fogbawa | Freetown, Sierra Leone | 269 |
-| 19 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh | Freetown, SierraLeone | 252 |
-| 20 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | Freetown Sierra Leone | 248 |
+| 18 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh | Freetown, SierraLeone | 252 |
+| 19 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | Freetown Sierra Leone | 248 |
+| 20 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 248 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-11T08:23:05.624Z
+Generated: 2026-10-11T10:08:34.250Z

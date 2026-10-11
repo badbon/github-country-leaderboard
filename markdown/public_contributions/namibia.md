@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-11T08:07:05.133Z
+Generated: 2026-10-11T09:47:15.795Z
 
 Users: 476
 
@@ -16,7 +16,7 @@ Users: 476
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 679 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 623 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Venture Media |  | Namibia | 610 |
-| 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | IU International University of Applied Sciences | TusneldeE | Namibia | 437 |
+| 11 | [Tusneld](https://github.com/Tusneld) | Tusnelde Endjala | IU International University of Applied Sciences | TusneldeE | Namibia | 427 |
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | iNstar inc |  | Windhoek, Namibia | 355 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 289 |
 | 14 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 271 |

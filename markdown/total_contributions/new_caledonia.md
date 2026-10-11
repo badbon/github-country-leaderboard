@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-11T08:08:54.174Z
+Generated: 2026-10-11T09:47:53.191Z
 
 Users: 111
 
@@ -23,6 +23,6 @@ Users: 111
 | 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 711 |
 | 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 637 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 601 |
-| 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 524 |
+| 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 521 |
 | 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 493 |
 | 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 463 |

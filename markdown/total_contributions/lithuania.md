@@ -1,6 +1,6 @@
 # Total Contributions - Lithuania
 
-Generated: 2026-10-11T07:57:57.653Z
+Generated: 2026-10-11T09:35:30.937Z
 
 Users: 5395
 
@@ -13,13 +13,13 @@ Users: 5395
 | 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau |  |  | Vilnius, Lithuania | 13412 |
 | 6 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas |  |  | Vilnius | 13013 |
 | 7 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Paysera | YOzaz | Vilnius, Lithuania | 13010 |
-| 8 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 12403 |
-| 9 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 12318 |
-| 10 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas |  |  | Lithuania | 11042 |
-| 11 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus |  | ZilvinasBartkus | Vilnius, Lithuania | 10402 |
-| 12 | [Algiras](https://github.com/Algiras) | Algimantas K. | @wix  |  | Vilnius, Lithuania | 10351 |
-| 13 | [goleaf](https://github.com/goleaf) | Andrej Prus |  |  | Lithuania, Vilnius | 10091 |
-| 14 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Mygom.tech |  | Lithuania | 9290 |
+| 8 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Mygom.tech |  | Lithuania | 12973 |
+| 9 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | @quassum  | bringshrubberyy | Vilnius, Lithuania | 12403 |
+| 10 | [justrau](https://github.com/justrau) | Justas Raudonius |  |  | Lithuania | 12318 |
+| 11 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas |  |  | Lithuania | 11042 |
+| 12 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus |  | ZilvinasBartkus | Vilnius, Lithuania | 10402 |
+| 13 | [Algiras](https://github.com/Algiras) | Algimantas K. | @wix  |  | Vilnius, Lithuania | 10351 |
+| 14 | [goleaf](https://github.com/goleaf) | Andrej Prus |  |  | Lithuania, Vilnius | 10091 |
 | 15 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko |  |  | Lithuania, Vilnius | 9135 |
 | 16 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich |  |  | Vilnius | 9129 |
 | 17 | [podo](https://github.com/podo) | Giedrius Jaloveckas |  |  | Vilnius, Lithuania | 9010 |

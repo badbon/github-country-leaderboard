@@ -13,12 +13,12 @@ Indexed users: 160
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 7,406 |
-| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,344 |
+| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,343 |
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 2,273 |
 | 4 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 2,033 |
 | 5 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 1,950 |
 | 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | Maseru, Lesotho | 1,017 |
-| 7 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | Maseru | 829 |
+| 7 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | Maseru | 830 |
 | 8 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 821 |
 | 9 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi | Maseru | 705 |
 | 10 | [mokaty1818795](https://github.com/mokaty1818795) | Tlotliso Mokati | Maseru Qoaling | 697 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-11T07:55:50.075Z
+Generated: 2026-10-11T09:33:38.400Z

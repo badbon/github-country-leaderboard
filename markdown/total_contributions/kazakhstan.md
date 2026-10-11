@@ -1,8 +1,8 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-11T07:53:41.203Z
+Generated: 2026-10-11T09:31:21.081Z
 
-Users: 5665
+Users: 5664
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,12 +12,12 @@ Users: 5665
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman |  |  | Kazakhstan | 34165 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 24758 |
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev |  |  | Atyrau, Kazakhstan | 15489 |
-| 7 | [LeventySeven](https://github.com/LeventySeven) | Slava |  | Seventydotleven | Almaty, Kazakhstan | 13558 |
-| 8 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | @Maxinum |  | Kazakhstan, Almaty | 12873 |
-| 9 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 12675 |
-| 10 | [uzarsalan](https://github.com/uzarsalan) | Arsalan |  |  | Astana, Kazakhstan | 12368 |
-| 11 | [enganese](https://github.com/enganese) | Ulan Aitbay |  |  | Aktau, Kazakhstan / Almaty, Kazakhstan | 11740 |
-| 12 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Abblix |  | Astana, Kazakhstan | 10659 |
+| 7 | [alexey-abblix](https://github.com/alexey-abblix) | Alexey Poltorak | Abblix |  | Astana, Kazakhstan | 14638 |
+| 8 | [LeventySeven](https://github.com/LeventySeven) | Slava |  | Seventydotleven | Almaty, Kazakhstan | 13558 |
+| 9 | [edelmir-muratkanov](https://github.com/edelmir-muratkanov) | Edelmir | @Maxinum |  | Kazakhstan, Almaty | 12873 |
+| 10 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 12675 |
+| 11 | [uzarsalan](https://github.com/uzarsalan) | Arsalan |  |  | Astana, Kazakhstan | 12368 |
+| 12 | [enganese](https://github.com/enganese) | Ulan Aitbay |  |  | Aktau, Kazakhstan / Almaty, Kazakhstan | 11740 |
 | 13 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | @khangroupkz  |  | Kazakhstan | 10357 |
 | 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 9875 |
 | 15 | [neokofg](https://github.com/neokofg) | neoko |  |  | Almaty, Kazakhstan | 9093 |

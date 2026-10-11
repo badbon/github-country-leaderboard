@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-11T08:06:57.303Z
+Generated: 2026-10-11T09:45:41.601Z
 
 Users: 1174
 
@@ -8,12 +8,12 @@ Users: 1174
 |---:|---|---|---|---|---|---:|
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 9733 |
 | 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Arkosjs |  | Beira, Sofala, Mozambique | 6627 |
-| 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Flow Technologies su, lda |  | Mozambique | 5729 |
-| 4 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5635 |
-| 5 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 5495 |
-| 6 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 4992 |
-| 7 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4874 |
-| 8 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 4722 |
+| 3 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos |  | reizen_desu | Maputo, Mozambique | 5892 |
+| 4 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Flow Technologies su, lda |  | Mozambique | 5729 |
+| 5 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Dp Works \| Quinatec Lda \| OmniTrack \| Muv \| Consorcio Pilao \| Mozambique Support Services | KrgVibe | Mozambique-Maputo | 5635 |
+| 6 | [emagombe](https://github.com/emagombe) | Edson Magombe | @stackmeteor |  | Mozambique | 5495 |
+| 7 | [hc12r](https://github.com/hc12r) | Pitch dev | Vodacom Mozambique |  | Maputo, Mozambique | 4992 |
+| 8 | [caf-3](https://github.com/caf-3) | Tomas Caetano |  |  | Mozambique Maputo | 4874 |
 | 9 | [JoneBulande](https://github.com/JoneBulande) | Jone  |  | JoneBulande | Maputo, Mozambique | 4320 |
 | 10 | [rnrnshn](https://github.com/rnrnshn) | rurushu | @Maputo-Frontenders | rnrnshn | Mozambique | 3892 |
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 3395 |
@@ -25,4 +25,4 @@ Users: 1174
 | 17 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2492 |
 | 18 | [IvanBila](https://github.com/IvanBila) | Connoisseur | @bazara  |  | Maputo, Mozambique | 2375 |
 | 19 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2328 |
-| 20 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2265 |
+| 20 | [albertomandlate](https://github.com/albertomandlate) | Alberto Cláudio Mandlate | Simansoft | albertomandlate | Maputo - Mozambique | 2281 |

@@ -62,15 +62,15 @@ Indexed users: 1,359
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ManuSquall](https://github.com/ManuSquall) | Charles Emmanuel S. Ndiaye | Dakar, Senegal | 528 |
-| 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw | Senegal | 319 |
+| 1 | [ManuSquall](https://github.com/ManuSquall) | Charles Emmanuel S. Ndiaye | Dakar, Senegal | 533 |
+| 2 | [ibrahima92](https://github.com/ibrahima92) | Ibrahima Ndaw | Senegal | 318 |
 | 3 | [daoodaba975](https://github.com/daoodaba975) | Daouda BA | Dakar, SN | 282 |
 | 4 | [orbitturner](https://github.com/orbitturner) | Orbit Turner | Dakar, Senegal | 271 |
 | 5 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 232 |
 | 6 | [EpsilonCoder](https://github.com/EpsilonCoder) | Epsilon | Dakar ,Senegal | 226 |
 | 7 | [eliaswalyba](https://github.com/eliaswalyba) | Elias W. BA | Dakar, Sénégal | 212 |
-| 8 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | Dakar, Senegal | 195 |
-| 9 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye | Dakar, Senegal | 193 |
+| 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye | Dakar, Senegal | 196 |
+| 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | Dakar, Senegal | 195 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Dakar | 192 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | Senegal | 180 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | Dakar | 180 |
@@ -83,4 +83,4 @@ Indexed users: 1,359
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 139 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-11T08:21:31.073Z
+Generated: 2026-10-11T10:06:09.042Z

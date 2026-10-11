@@ -19,13 +19,13 @@ Indexed users: 5,395
 | 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
 | 6 | [Midunas](https://github.com/Midunas) | Mykolas Vidunas | Vilnius | 13,013 |
 | 7 | [YOzaz](https://github.com/YOzaz) | Marijus Plančiūnas | Vilnius, Lithuania | 13,010 |
-| 8 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 12,403 |
-| 9 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
-| 10 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
-| 11 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
-| 12 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
-| 13 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
-| 14 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 9,290 |
+| 8 | [justascesnauskas](https://github.com/justascesnauskas) | Justas Česnauskas | Lithuania | 12,973 |
+| 9 | [bring-shrubbery](https://github.com/bring-shrubbery) | Antoni Silvestrovič | Vilnius, Lithuania | 12,403 |
+| 10 | [justrau](https://github.com/justrau) | Justas Raudonius | Lithuania | 12,318 |
+| 11 | [kasinskas](https://github.com/kasinskas) | Rokas Kašinskas | Lithuania | 11,042 |
+| 12 | [Paktas](https://github.com/Paktas) | Zilvinas Bartkus | Vilnius, Lithuania | 10,402 |
+| 13 | [Algiras](https://github.com/Algiras) | Algimantas K. | Vilnius, Lithuania | 10,351 |
+| 14 | [goleaf](https://github.com/goleaf) | Andrej Prus | Lithuania, Vilnius | 10,091 |
 | 15 | [SashaSkywalker](https://github.com/SashaSkywalker) | Alexander Demeshko | Lithuania, Vilnius | 9,135 |
 | 16 | [CADBIMDeveloper](https://github.com/CADBIMDeveloper) | Alexander Ignatovich | Vilnius | 9,129 |
 | 17 | [podo](https://github.com/podo) | Giedrius Jaloveckas | Vilnius, Lithuania | 9,010 |
@@ -83,4 +83,4 @@ Indexed users: 5,395
 | 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-11T07:57:57.653Z
+Generated: 2026-10-11T09:35:30.937Z

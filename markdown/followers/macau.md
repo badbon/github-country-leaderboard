@@ -1,8 +1,8 @@
 # Followers - Macau
 
-Generated: 2026-10-11T07:58:03.026Z
+Generated: 2026-10-11T09:37:24.905Z
 
-Users: 440
+Users: 439
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -18,7 +18,7 @@ Users: 440
 | 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Cargo Capital |  | Macau | 127 |
 | 11 | [manesec](https://github.com/manesec) | Mane |  |  | Macau | 126 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak |  |  | Macao | 110 |
-| 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 |  | mengguyi | Macau | 106 |
+| 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 |  | mengguyi | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | @Yahoo |  | macau | 100 |
 | 15 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | University of Macau |  | Macau | 93 |
 | 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Harvard University | laochonlam | Macau | 92 |

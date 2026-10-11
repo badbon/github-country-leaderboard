@@ -20,10 +20,10 @@ Indexed users: 291
 | 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,803 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,381 |
 | 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,080 |
-| 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,322 |
+| 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,314 |
 | 10 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,126 |
 | 11 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,023 |
-| 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,019 |
+| 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,018 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,478 |
 | 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,405 |
 | 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,288 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-11T08:05:50.227Z
+Generated: 2026-10-11T09:45:32.385Z
