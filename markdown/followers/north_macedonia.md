@@ -1,6 +1,6 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-11T13:30:30.596Z
+Generated: 2026-10-11T14:57:39.984Z
 
 Users: 1934
 
@@ -19,10 +19,10 @@ Users: 1934
 | 11 | [callibra](https://github.com/callibra) | Ivan Gjorcev  |  |  | Sveti Nikole, Macedonia  🌎 🗺️ | 207 |
 | 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | @supabase |  | Skopje, Republic of North Macedonia | 197 |
 | 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov |  | davorminchorov | Skopje, Macedonia | 186 |
-| 14 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 177 |
-| 15 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | @CCExtractor |  | Skopje, Macedonia | 173 |
-| 16 | [eritislami](https://github.com/eritislami) | Erit Islami | @OrangeMelons |  | Struga, North Macedonia | 172 |
-| 17 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | @Sourcico  |  | Skopje | 170 |
-| 18 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 163 |
+| 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | @usekaneo | andrejsshell | Skopje | 179 |
+| 15 | [visar](https://github.com/visar) | Visar Zejnullahu |  |  | Skopje, Macedonia | 177 |
+| 16 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | @CCExtractor |  | Skopje, Macedonia | 173 |
+| 17 | [eritislami](https://github.com/eritislami) | Erit Islami | @OrangeMelons |  | Struga, North Macedonia | 172 |
+| 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | @Sourcico  |  | Skopje | 170 |
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | @Automattic | BSitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски |  |  | Skopje, Macedonia | 144 |

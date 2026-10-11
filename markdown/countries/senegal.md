@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,359
+Indexed users: 1,358
 
 | Leaderboard | Link |
 |---|---|
@@ -80,7 +80,7 @@ Indexed users: 1,359
 | 16 | [kasali](https://github.com/kasali) | kasali | Dakar Sénégal | 154 |
 | 17 | [paydunyadev](https://github.com/paydunyadev) | PayDunya | Sénégal - Dakar (Ouest Foire) | 150 |
 | 18 | [ridwanediallo](https://github.com/ridwanediallo) | Ridwan Diallo | Dakar - Senegal | 148 |
-| 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 139 |
+| 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-11T13:39:12.339Z
+Generated: 2026-10-11T15:09:25.611Z

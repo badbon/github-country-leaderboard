@@ -23,12 +23,12 @@ Indexed users: 142
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 952 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 728 |
-| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 616 |
+| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 612 |
 | 13 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | Monaco | 573 |
 | 14 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monaco | 566 |
 | 15 | [giraudremi92](https://github.com/giraudremi92) | Rémi | Monaco | 412 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 407 |
-| 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 352 |
+| 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Monaco | 405 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 270 |
 | 19 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 256 |
 | 20 | [ap705](https://github.com/ap705) | Arnaud Pradier | Monaco | 253 |
@@ -40,7 +40,7 @@ Indexed users: 142
 | 1 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 4,005 |
 | 2 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 2,184 |
 | 3 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,619 |
-| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 616 |
+| 4 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | Monaco , Kampala/Uganda | 612 |
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane | Monaco | 243 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 174 |
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-11T13:23:35.688Z
+Generated: 2026-10-11T14:51:42.353Z

@@ -1,6 +1,6 @@
 # Total Contributions - Monaco
 
-Generated: 2026-10-11T13:23:35.688Z
+Generated: 2026-10-11T14:51:42.353Z
 
 Users: 142
 
@@ -17,12 +17,12 @@ Users: 142
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 952 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana |  |  | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Mosaic S.A.R.L |  | Monte-Carlo, Monaco | 728 |
-| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 616 |
+| 12 | [asingizwe1](https://github.com/asingizwe1) | Dev. Louis Asingizwe | 7C | _Louis_A_ | Monaco , Kampala/Uganda | 612 |
 | 13 | [vjandrea](https://github.com/vjandrea) | Andrea Bergamasco | KeeSystem | vjandrea | Monaco | 573 |
 | 14 | [Orion98MC](https://github.com/Orion98MC) | Thierry Passeron | Monte-Carlo Computing |  | Monaco | 566 |
 | 15 | [giraudremi92](https://github.com/giraudremi92) | Rémi |  |  | Monaco | 412 |
 | 16 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 407 |
-| 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 352 |
+| 17 | [scribelia-anthony](https://github.com/scribelia-anthony) | Anthony | Scribelia |  | Monaco | 405 |
 | 18 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Université Nice Côte D'Azur |  | Monaco  | 270 |
 | 19 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 256 |
 | 20 | [ap705](https://github.com/ap705) | Arnaud Pradier |  |  | Monaco | 253 |

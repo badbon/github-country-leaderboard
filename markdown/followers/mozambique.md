@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-11T13:25:46.138Z
+Generated: 2026-10-11T14:53:34.512Z
 
 Users: 1176
 
@@ -11,8 +11,8 @@ Users: 1176
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | FastTeam | edgarfeliciano | Mozambique | 300 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Explicador Inc, LDA. |  | Maputo, Mozambique | 279 |
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior |  | GabrielMJ_2005 | Maputo/Mozambique  | 228 |
-| 6 | [eltonlaice](https://github.com/eltonlaice) | Elton |  |  | Mozambique | 198 |
-| 7 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 195 |
+| 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 195 |
+| 7 | [eltonlaice](https://github.com/eltonlaice) | Elton |  |  | Mozambique | 195 |
 | 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino |  |  | Mozambique, Maputo | 192 |
 | 9 | [jose-bone](https://github.com/jose-bone) | José Boné |  | jose_bonejr | Quelimane, Mozambique | 188 |
 | 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | ESBM |  | Mozambique | 168 |

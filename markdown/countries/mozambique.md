@@ -67,8 +67,8 @@ Indexed users: 1,176
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 300 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 279 |
 | 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 228 |
-| 6 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 198 |
-| 7 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 195 |
+| 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 195 |
+| 7 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 195 |
 | 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino | Mozambique, Maputo | 192 |
 | 9 | [jose-bone](https://github.com/jose-bone) | José Boné | Quelimane, Mozambique | 188 |
 | 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | Mozambique | 168 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-11T13:25:46.138Z
+Generated: 2026-10-11T14:53:34.512Z

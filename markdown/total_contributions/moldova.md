@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-11T13:23:34.905Z
+Generated: 2026-10-11T14:50:39.192Z
 
 Users: 1754
 
@@ -24,5 +24,5 @@ Users: 1754
 | 16 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 4461 |
 | 17 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 4454 |
 | 18 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Synkwise |  | Chisinau, Moldova | 4435 |
-| 19 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 4220 |
-| 20 | [ion-golovco](https://github.com/ion-golovco) | Golovco Ion |  |  | Moldova | 4097 |
+| 19 | [dcantir](https://github.com/dcantir) | Dan Cantir |  |  | Chișinău | 4267 |
+| 20 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | AgendaMed RO |  | Moldova | 4220 |

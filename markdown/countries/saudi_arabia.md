@@ -1,6 +1,6 @@
 # Saudi Arabia
 
-Indexed users: 7,752
+Indexed users: 7,751
 
 | Leaderboard | Link |
 |---|---|
@@ -43,7 +43,7 @@ Indexed users: 7,752
 | 4 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad | Saudi Arabia | 11,447 |
 | 5 | [coldworld22](https://github.com/coldworld22) | Ayman Mohammed Osman Bashir | Abha, Saudi Arabia | 8,944 |
 | 6 | [alhanoofalabdullah-ai](https://github.com/alhanoofalabdullah-ai) | Alhanoof Alabdullah | Saudi Arabia, Riyadh city | 5,518 |
-| 7 | [justpainful](https://github.com/justpainful) | Faisal | Saudi Arabia | 4,181 |
+| 7 | [justpainful](https://github.com/justpainful) | 777 | Saudi Arabia | 4,237 |
 | 8 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb | Saudi Arabia | 4,097 |
 | 9 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi | Saudi Arabia | 4,084 |
 | 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | Riyadh, Saudi Arabia | 3,442 |
@@ -83,4 +83,4 @@ Indexed users: 7,752
 | 19 | [davidrpugh](https://github.com/davidrpugh) | David R. Pugh | Thuwal, Saudi Arabia | 458 |
 | 20 | [madahetooo](https://github.com/madahetooo) | Eslam Medhat | Riyadh, Saudi Arabia | 458 |
 
-Generated: 2026-10-11T13:38:50.901Z
+Generated: 2026-10-11T15:08:54.941Z

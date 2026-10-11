@@ -1,6 +1,6 @@
 # Paraguay
 
-Indexed users: 2,017
+Indexed users: 2,016
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,017
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-11T13:33:35.660Z
+Generated: 2026-10-11T15:02:16.282Z

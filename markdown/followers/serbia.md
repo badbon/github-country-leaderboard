@@ -1,6 +1,6 @@
 # Followers - Serbia
 
-Generated: 2026-10-11T13:39:51.120Z
+Generated: 2026-10-11T15:10:07.065Z
 
 Users: 10669
 
@@ -12,14 +12,14 @@ Users: 10669
 | 4 | [milanm](https://github.com/milanm) | Dr Milan Milanović | @3MD-Solutions | milan_milanovic | Belgrade, Serbia | 2799 |
 | 5 | [ancaferro](https://github.com/ancaferro) | Anca Kovach |  |  | Beograd, Srbija | 2718 |
 | 6 | [ClusterM](https://github.com/ClusterM) | Alexey Cluster |  | Cluster_M | Serbia | 1815 |
-| 7 | [stefvndev](https://github.com/stefvndev) | Stefan |  |  | Serbia | 1369 |
+| 7 | [stefvndev](https://github.com/stefvndev) | Stefan |  |  | Serbia | 1363 |
 | 8 | [kerryjanes](https://github.com/kerryjanes) | Kerry | TNation | hypotheclending | Belgrade | 1104 |
 | 9 | [bobangajicsm](https://github.com/bobangajicsm) | Slobodan Gajic | Duneolas | _SlobodanGajic_ | Serbia | 1001 |
 | 10 | [mohamed-taman](https://github.com/mohamed-taman) | Mohamed Taman | Magna International  | _tamanm | Belgrade, Serbia | 921 |
 | 11 | [StefanTheCode](https://github.com/StefanTheCode) | Stefan Đokić | TheCodeMan | TheCodeMan__ | Nis, Serbia | 761 |
 | 12 | [zoran-horvat](https://github.com/zoran-horvat) | Zoran Horvat | Coding Helmet Consultancy |  | Belgrade | 733 |
 | 13 | [vdumitraskovic](https://github.com/vdumitraskovic) | Vladimir Dumitraskovic |  |  |  Novi Sad, Serbia | 719 |
-| 14 | [Anonymous6598](https://github.com/Anonymous6598) | Viktor Ilić | FON - Faculty of Organizational Sciences |  | Belgrade, Serbia | 679 |
+| 14 | [Anonymous6598](https://github.com/Anonymous6598) | Viktor Ilić | FON - Faculty of Organizational Sciences |  | Belgrade, Serbia | 682 |
 | 15 | [slevithan](https://github.com/slevithan) | Steven Levithan |  | slevithan | Belgrade, Serbia | 668 |
 | 16 | [tacic](https://github.com/tacic) | Marko Tacic |  |  | Belgrade, Serbia | 573 |
 | 17 | [SireenWadi](https://github.com/SireenWadi) | Sireen Wadi |  |  | serbia | 508 |

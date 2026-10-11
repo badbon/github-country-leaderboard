@@ -12,7 +12,7 @@ Indexed users: 714
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,323 |
+| 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,288 |
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,310 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,000 |
 | 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,628 |
@@ -22,7 +22,7 @@ Indexed users: 714
 | 8 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 5,507 |
 | 9 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,226 |
 | 10 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,217 |
-| 11 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,064 |
+| 11 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,013 |
 | 12 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 4,881 |
 | 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,107 |
 | 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 3,875 |
@@ -44,7 +44,7 @@ Indexed users: 714
 | 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,528 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,485 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,427 |
-| 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,385 |
+| 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,371 |
 | 9 | [danielgithiomi](https://github.com/danielgithiomi) | Daniel Githiomi | Grand Baie, Mauritius | 1,343 |
 | 10 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,301 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,009 |
@@ -74,7 +74,7 @@ Indexed users: 714
 | 10 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 109 |
 | 11 | [loganaden](https://github.com/loganaden) | Loganaden Velvindron | Mauritius | 102 |
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 98 |
-| 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 92 |
+| 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 93 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 86 |
 | 15 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 84 |
 | 16 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-11T13:22:06.436Z
+Generated: 2026-10-11T14:50:07.885Z

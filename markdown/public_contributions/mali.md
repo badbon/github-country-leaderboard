@@ -1,12 +1,12 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-11T13:20:42.732Z
+Generated: 2026-10-11T14:47:46.641Z
 
 Users: 348
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 6389 |
+| 1 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 6390 |
 | 2 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA |  |  | Bamako,Mali | 4328 |
 | 3 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 1410 |
 | 4 | [rgaudin](https://github.com/rgaudin) | rgaudin | yɛlɛman |  | Bamako, Mali | 1142 |
@@ -19,10 +19,10 @@ Users: 348
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | @simplonsolutionssenegal | malladev223 | Bamako - MALI | 309 |
 | 12 | [tijjanismk](https://github.com/tijjanismk) |  |  |  | Mali | 303 |
 | 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
-| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 238 |
+| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 243 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Falcon Digital Hub |  | Mali | 229 |
 | 16 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 191 |
-| 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 184 |
+| 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 181 |
 | 18 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba |  | d1array | Bamako, Mali | 155 |
 | 19 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 145 |
 | 20 | [Jbriguel](https://github.com/Jbriguel) |  |  |  | Mali | 144 |

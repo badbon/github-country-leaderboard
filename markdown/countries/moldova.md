@@ -30,8 +30,8 @@ Indexed users: 1,754
 | 16 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 4,461 |
 | 17 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | Moldova | 4,454 |
 | 18 | [andrianboscanean](https://github.com/andrianboscanean) | Andrian Boscanean | Chisinau, Moldova | 4,435 |
-| 19 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 4,220 |
-| 20 | [ion-golovco](https://github.com/ion-golovco) | Golovco Ion | Moldova | 4,097 |
+| 19 | [dcantir](https://github.com/dcantir) | Dan Cantir | Chișinău | 4,267 |
+| 20 | [igor-danilov1994](https://github.com/igor-danilov1994) | Igor  | Moldova | 4,220 |
 
 ## Public Contributions
 
@@ -81,6 +81,6 @@ Indexed users: 1,754
 | 17 | [keriat](https://github.com/keriat) | Sergey Beresnev | Moldova, Chisinau | 119 |
 | 18 | [ygorigor](https://github.com/ygorigor) | Igor | Chisinau, Moldova | 118 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
-| 20 | [gherciu](https://github.com/gherciu) | Gheorghe Gherciu | Moldova | 105 |
+| 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-11T13:23:34.905Z
+Generated: 2026-10-11T14:50:39.192Z

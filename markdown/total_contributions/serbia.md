@@ -1,6 +1,6 @@
 # Total Contributions - Serbia
 
-Generated: 2026-10-11T13:39:51.120Z
+Generated: 2026-10-11T15:10:07.065Z
 
 Users: 10669
 
@@ -18,11 +18,11 @@ Users: 10669
 | 10 | [ydnikolaev](https://github.com/ydnikolaev) | Nikolaev | @r22d222  |  | Belgrade, Serbia | 12572 |
 | 11 | [Nek-12](https://github.com/Nek-12) | Nek.12 | @respawn-app  |  | Serbia | 11237 |
 | 12 | [valentinajemuovic](https://github.com/valentinajemuovic) | Valentina Jemuović  | Optivem | valentinajemuov | Belgrade, Serbia | 11013 |
-| 13 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski |  |  | Serbia | 10046 |
-| 14 | [olujicz](https://github.com/olujicz) | Zoran Olujić |  |  | Serbia | 10025 |
-| 15 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | MailerLite | kutija | Serbia | 9548 |
-| 16 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | OpenPanel, LLC. |  | Belgrade, Serbia | 9534 |
-| 17 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević |  | igorskyflyer | Serbia | 9286 |
-| 18 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | @Mozilla |  | Serbia | 8912 |
-| 19 | [markoradak](https://github.com/markoradak) | Marko Radak |  |  | Belgrade, Serbia | 8751 |
-| 20 | [smartinov](https://github.com/smartinov) | Stefan Martinov | @bestbytes  |  | Novi Sad, Serbia | 8343 |
+| 13 | [filiptrivan](https://github.com/filiptrivan) | Filip Trivan | Spiderly | filiptrivan | Belgrade, Serbia | 10193 |
+| 14 | [darktasevski](https://github.com/darktasevski) | Darkø Tasevski |  |  | Serbia | 10046 |
+| 15 | [olujicz](https://github.com/olujicz) | Zoran Olujić |  |  | Serbia | 10025 |
+| 16 | [igorhrcek](https://github.com/igorhrcek) | Igor Hrček | MailerLite | kutija | Serbia | 9548 |
+| 17 | [stefanpejcic](https://github.com/stefanpejcic) | Stefan Pejcic | OpenPanel, LLC. |  | Belgrade, Serbia | 9534 |
+| 18 | [igorskyflyer](https://github.com/igorskyflyer) | Igor Dimitrijević |  | igorskyflyer | Serbia | 9286 |
+| 19 | [zombie](https://github.com/zombie) | Tomislav Jovanovic | @Mozilla |  | Serbia | 8912 |
+| 20 | [markoradak](https://github.com/markoradak) | Marko Radak |  |  | Belgrade, Serbia | 8751 |

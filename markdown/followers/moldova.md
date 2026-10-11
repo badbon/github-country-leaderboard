@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-11T13:23:34.905Z
+Generated: 2026-10-11T14:50:39.192Z
 
 Users: 1754
 
@@ -25,4 +25,4 @@ Users: 1754
 | 17 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 119 |
 | 18 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 118 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji |  | v_gaidarji | Moldova | 115 |
-| 20 | [gherciu](https://github.com/gherciu) | Gheorghe Gherciu | Episclera |  | Moldova | 105 |
+| 20 | [Ernest96](https://github.com/Ernest96) | Ernest |  |  | Chisinau Moldova | 107 |
