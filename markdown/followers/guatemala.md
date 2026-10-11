@@ -1,20 +1,20 @@
 # Followers - Guatemala
 
-Generated: 2026-10-11T02:36:38.425Z
+Generated: 2026-10-11T07:41:04.181Z
 
-Users: 3226
+Users: 3224
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Elemental Geeks |  | Guatemala | 434 |
-| 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Cybersecurity \| Banking & Financial Services |  | Guatemala | 331 |
+| 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Cybersecurity \| Banking & Financial Services |  | Guatemala | 332 |
 | 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez |  |  | Guatemala | 308 |
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco |  | tuxtor | Guatemala | 298 |
 | 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Universidad De San Carlos De Guatemala |  | Guatemala | 280 |
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Galileo University |  | Guatemala | 217 |
 | 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | nimble. | jpaulmora | Guatemala | 210 |
-| 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay |  |  | Guatemala | 187 |
-| 9 | [luisespino](https://github.com/luisespino) | Luis Espino | Universidad de San Carlos de Guatemala |  | Guatemala | 169 |
+| 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay |  |  | Guatemala | 186 |
+| 9 | [luisespino](https://github.com/luisespino) | Luis Espino | Universidad de San Carlos de Guatemala |  | Guatemala | 170 |
 | 10 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | USAC | sergioarmgpl | Guatemala | 169 |
 | 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph |  |  | Guatemala | 162 |
 | 12 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Universidad del Valle de Guatemala |  | Guatemala | 160 |

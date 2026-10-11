@@ -69,7 +69,7 @@ Indexed users: 108
 | 5 | [brian25online](https://github.com/brian25online) | Brian Dlamini | Lozitha, Swaziland  | 25 |
 | 6 | [SiveMdluli](https://github.com/SiveMdluli) | Sive Mdluli | ESwatini, Mbabane | 24 |
 | 7 | [mkhulisi](https://github.com/mkhulisi) | mkhulisi | swaziland | 21 |
-| 8 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 19 |
+| 8 | [sicelo](https://github.com/sicelo) | Sicelo | Mbabane, ESWATINI | 20 |
 | 9 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 17 |
 | 10 | [adekunleowolabi](https://github.com/adekunleowolabi) | Adekunle Owolabi | Mbabane, Eswatini | 14 |
 | 11 | [Milly801](https://github.com/Milly801) | Gcwalisile Matse | Mbabane, Eswatini | 13 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-11T02:29:57.995Z
+Generated: 2026-10-11T07:34:22.684Z

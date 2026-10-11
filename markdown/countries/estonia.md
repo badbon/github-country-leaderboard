@@ -71,7 +71,7 @@ Indexed users: 4,915
 | 7 | [rebane2001](https://github.com/rebane2001) | Lyra Rebane | Estonia | 862 |
 | 8 | [s4kibs4mi](https://github.com/s4kibs4mi) | Sakib Sami | Tallinn, Estonia | 777 |
 | 9 | [TahaTesser](https://github.com/TahaTesser) | Taha Tesser | Tallinn, Estonia | 740 |
-| 10 | [urmasa-tar](https://github.com/urmasa-tar) | Nikita Goltsev | Estonia, Tallinn | 709 |
+| 10 | [urmasa-tar](https://github.com/urmasa-tar) | Nikita Goltsev | Estonia, Tallinn | 689 |
 | 11 | [angryziber](https://github.com/angryziber) | Anton Keks | Estonia | 642 |
 | 12 | [antonarhipov](https://github.com/antonarhipov) | Anton Arhipov | Estonia | 622 |
 | 13 | [egonelbre](https://github.com/egonelbre) | Egon Elbre | Estonia, Tartu | 604 |
@@ -83,4 +83,4 @@ Indexed users: 4,915
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-11T02:28:37.406Z
+Generated: 2026-10-11T07:33:44.664Z

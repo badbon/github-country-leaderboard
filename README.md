@@ -14,7 +14,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Israel](markdown/countries/israel.md) | 12,439 | [Public](markdown/public_contributions/israel.md) | [Total](markdown/total_contributions/israel.md) | [Followers](markdown/followers/israel.md) |
+| [Israel](markdown/countries/israel.md) | 12,436 | [Public](markdown/public_contributions/israel.md) | [Total](markdown/total_contributions/israel.md) | [Followers](markdown/followers/israel.md) |
 | [Cyprus](markdown/countries/cyprus.md) | 2,738 | [Public](markdown/public_contributions/cyprus.md) | [Total](markdown/total_contributions/cyprus.md) | [Followers](markdown/followers/cyprus.md) |
 | [Romania](markdown/countries/romania.md) | 14,985 | [Public](markdown/public_contributions/romania.md) | [Total](markdown/total_contributions/romania.md) | [Followers](markdown/followers/romania.md) |
 | [Azerbaijan](markdown/countries/azerbaijan.md) | 5,085 | [Public](markdown/public_contributions/azerbaijan.md) | [Total](markdown/total_contributions/azerbaijan.md) | [Followers](markdown/followers/azerbaijan.md) |
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-11T06:44:46.531Z
+Generated: 2026-10-11T07:52:21.745Z

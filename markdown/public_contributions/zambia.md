@@ -1,8 +1,8 @@
 # Public Contributions - Zambia
 
-Generated: 2026-10-11T02:01:35.671Z
+Generated: 2026-10-11T07:05:02.128Z
 
-Users: 1343
+Users: 1342
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1343
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | iZyane InnovSoultion |  | Lusaka, Zambia | 657 |
 | 15 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 586 |
 | 16 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 581 |
-| 17 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |
-| 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | mwapsam@gmail.com | mwapesamuel4 | Zambia | 554 |
-| 19 | [chrimztech](https://github.com/chrimztech) | Chrishent | Chrishent Matakala | Chrishent | Lusaka | 553 |
-| 20 | [sangwani-coder](https://github.com/sangwani-coder) | Zyambo | Lipila Tech Ltd | peter_zyambo | Zambia | 542 |
+| 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba |  |  | Lusaka, Zambia | 579 |
+| 18 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Covian hive technologies  |  | Zambia  | 555 |
+| 19 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | mwapsam@gmail.com | mwapesamuel4 | Zambia | 554 |
+| 20 | [chrimztech](https://github.com/chrimztech) | Chrishent | Chrishent Matakala | Chrishent | Lusaka | 553 |

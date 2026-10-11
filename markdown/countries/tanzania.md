@@ -23,15 +23,15 @@ Indexed users: 2,041
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 12,163 |
 | 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
 | 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
-| 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
-| 13 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
-| 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
-| 15 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
-| 16 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
-| 17 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
-| 18 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
-| 19 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
-| 20 | [CodeWithCrescent](https://github.com/CodeWithCrescent) | Crescent Sambila | Dar es Salaam, Tanzania | 6,694 |
+| 12 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
+| 13 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
+| 14 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
+| 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
+| 16 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
+| 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
+| 18 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
+| 19 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
+| 20 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
 
 ## Public Contributions
 
@@ -50,13 +50,13 @@ Indexed users: 2,041
 | 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | tanzania | 1,952 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 1,923 |
 | 13 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 1,893 |
-| 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,711 |
-| 15 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
-| 16 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | Dar es salaam , Tanzania | 1,565 |
-| 17 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
-| 18 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
-| 19 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,497 |
-| 20 | [zayqu](https://github.com/zayqu) | Daraja | Dar Es Salaam, Tanzania | 1,452 |
+| 14 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 1,826 |
+| 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,711 |
+| 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
+| 17 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | Dar es salaam , Tanzania | 1,565 |
+| 18 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
+| 19 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
+| 20 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,497 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-11T01:51:23.645Z
+Generated: 2026-10-11T06:53:45.857Z

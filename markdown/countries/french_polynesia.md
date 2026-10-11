@@ -12,11 +12,11 @@ Indexed users: 60
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,191 |
-| 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,078 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,803 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,063 |
-| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 699 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters | Tahanea, Tuamotus, French Polynesia | 3,259 |
+| 2 | [jburckel](https://github.com/jburckel) |  | French Polynesia | 3,072 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 2,805 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,060 |
+| 5 | [jalik](https://github.com/jalik) | Karl Stein | French Polynesia | 698 |
 | 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | French Polynesia | 467 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 427 |
 | 8 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 362 |
@@ -37,7 +37,7 @@ Indexed users: 60
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,063 |
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | Faa'a, Tahiti, French Polynesia | 1,060 |
 | 2 | [craff](https://github.com/craff) | Christophe Raffalli | Polynésie, Française | 427 |
 | 3 | [marsender](https://github.com/marsender) | Didier Corbière | French Polynesia | 405 |
 | 4 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne | Papeete, French Polynesia | 362 |
@@ -55,8 +55,8 @@ Indexed users: 60
 | 16 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard | Tahiti, French Polynesia | 7 |
 | 17 | [rputoa](https://github.com/rputoa) | Rowan PUTOA | Papeete, French Polynesia | 6 |
 | 18 | [Heinux](https://github.com/Heinux) | Heinux | French Polynesia | 5 |
-| 19 | [sysnux](https://github.com/sysnux) | Jean-Denis Girard | Tahiti, French Polynesia, Polynésie française | 4 |
-| 20 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 3 |
+| 19 | [HURIMOZ](https://github.com/HURIMOZ) | Huri Translations | Mo'orea, French Polynesia | 3 |
+| 20 | [sysnux](https://github.com/sysnux) | Jean-Denis Girard | Tahiti, French Polynesia, Polynésie française | 3 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 60
 | 19 | [TToarii](https://github.com/TToarii) | TAU Toarii | French Polynesia | 5 |
 | 20 | [geoffguillain](https://github.com/geoffguillain) | Geoff | French Polynesia | 4 |
 
-Generated: 2026-10-11T02:33:12.084Z
+Generated: 2026-10-11T07:36:07.790Z

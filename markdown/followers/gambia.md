@@ -1,6 +1,6 @@
 # Followers - Gambia
 
-Generated: 2026-10-11T02:34:23.027Z
+Generated: 2026-10-11T07:37:54.829Z
 
 Users: 80
 
@@ -11,9 +11,9 @@ Users: 80
 | 3 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 26 |
 | 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 26 |
 | 5 | [kamariana](https://github.com/kamariana) | A Kamariana | @sisaydimba  | kamariana40 | Brikama, Gambia | 24 |
-| 6 | [mathewharb](https://github.com/mathewharb) | Mathew Harb |  |  | Gambia | 16 |
-| 7 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow |  |  | Banjul, The Gambia. | 16 |
-| 8 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow |  | momodousalieu | Banjul, The Gambia | 15 |
+| 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow |  | momodousalieu | Banjul, The Gambia | 16 |
+| 7 | [mathewharb](https://github.com/mathewharb) | Mathew Harb |  |  | Gambia | 16 |
+| 8 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow |  |  | Banjul, The Gambia. | 16 |
 | 9 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane |  | alieundimz | Gambia | 14 |
 | 10 | [Baboucar](https://github.com/Baboucar) | Baboucarr |  |  | Gambia | 13 |
 | 11 | [Fatimatrawally](https://github.com/Fatimatrawally) | Camara |  |  | Gambia  | 13 |

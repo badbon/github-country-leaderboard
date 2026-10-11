@@ -17,21 +17,21 @@ Indexed users: 1,184
 | 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | Tirane, Albania | 9,126 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 8,598 |
 | 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho | Albania, Tirana | 8,242 |
-| 6 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,334 |
-| 7 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,294 |
-| 8 | [orges](https://github.com/orges) | orges | Albania | 6,225 |
-| 9 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 6,077 |
+| 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Tirana | 7,090 |
+| 7 | [geridev12](https://github.com/geridev12) | Gerald Nuraj | Tirana, Albania | 6,334 |
+| 8 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,294 |
+| 9 | [orges](https://github.com/orges) | orges | Albania | 6,225 |
 | 10 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
 | 11 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
-| 12 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
-| 13 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
-| 14 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
-| 15 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
-| 16 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
-| 17 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
-| 18 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,181 |
-| 19 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,048 |
-| 20 | [klajdicaushi](https://github.com/klajdicaushi) | Klajdi Çaushi | Tirana | 3,950 |
+| 12 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
+| 13 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 5,493 |
+| 14 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
+| 15 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,411 |
+| 16 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
+| 17 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
+| 18 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | Tirana, Albania | 4,257 |
+| 19 | [jozefini](https://github.com/jozefini) | Jozefin B. | Albania | 4,181 |
+| 20 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 4,048 |
 
 ## Public Contributions
 
@@ -68,7 +68,7 @@ Indexed users: 1,184
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 718 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 459 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 228 |
-| 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 156 |
+| 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 157 |
 | 8 | [banago](https://github.com/banago) | Baki Goxhaj | Vlorë, Albania | 154 |
 | 9 | [aziflaj](https://github.com/aziflaj) | Aldo Ziflaj | Tirana, Albania | 143 |
 | 10 | [klendi](https://github.com/klendi) | Klendi Goci | Tirana, Albania | 100 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-11T02:02:53.996Z
+Generated: 2026-10-11T07:06:35.263Z

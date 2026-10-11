@@ -20,7 +20,7 @@ Indexed users: 461
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,837 |
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,656 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,646 |
-| 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,482 |
+| 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,539 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,134 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,984 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,865 |
@@ -38,7 +38,7 @@ Indexed users: 461
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,656 |
-| 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,078 |
+| 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,137 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,496 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,011 |
 | 5 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,139 |
@@ -66,7 +66,7 @@ Indexed users: 461
 | 2 | [Washi1337](https://github.com/Washi1337) | Washi | McMurdo Station, Antarctica | 618 |
 | 3 | [r-lyeh](https://github.com/r-lyeh) |  | Vostok, Antarctica | 465 |
 | 4 | [josephpoon](https://github.com/josephpoon) | Joseph Poon | Antarctica | 343 |
-| 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 216 |
+| 5 | [walterwhite-69](https://github.com/walterwhite-69) | Walter | Antarctica | 218 |
 | 6 | [kura](https://github.com/kura) | Kura | Halley Research Station, Antarctica | 199 |
 | 7 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 185 |
 | 8 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 133 |
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-11T02:06:31.579Z
+Generated: 2026-10-11T07:09:16.429Z

@@ -1,6 +1,6 @@
 # Total Contributions - Sri Lanka
 
-Generated: 2026-10-11T06:24:20.615Z
+Generated: 2026-10-11T06:48:51.065Z
 
 Users: 18336
 
@@ -9,9 +9,9 @@ Users: 18336
 | 1 | [nuuuwan](https://github.com/nuuuwan) | Nuwan I. Senaratna |  | nuuuwan | Colombo, Sri Lanka | 163626 |
 | 2 | [RensithUdara](https://github.com/RensithUdara) | Rensith Udara Gonalagoda |  | RensithUdara | Galle, Sri Lanka | 153664 |
 | 3 | [pawara-mmns](https://github.com/pawara-mmns) | Pawara Samarawickrama | CLYSO |  | Colombo,Sri Lanka | 86162 |
-| 4 | [RAVEENSR](https://github.com/RAVEENSR) | Raveen Savinda Rathnayake | WSO2 | RAVEENSAVINDA | Colombo, Sri Lanka | 22273 |
-| 5 | [udmodz0](https://github.com/udmodz0) | UDhanika Dissanayaka | UDMODZ |  | Sri Lanka | 20079 |
-| 6 | [subothr14](https://github.com/subothr14) | Suboth Ragunathan | University of Moratuwa |  | Colombo, Sri Lanka | 18274 |
+| 4 | [subothr14](https://github.com/subothr14) | Suboth Ragunathan | University of Moratuwa |  | Colombo, Sri Lanka | 25083 |
+| 5 | [RAVEENSR](https://github.com/RAVEENSR) | Raveen Savinda Rathnayake | WSO2 | RAVEENSAVINDA | Colombo, Sri Lanka | 22273 |
+| 6 | [udmodz0](https://github.com/udmodz0) | UDhanika Dissanayaka | UDMODZ |  | Sri Lanka | 20079 |
 | 7 | [ThiroshMadhusha](https://github.com/ThiroshMadhusha) | Thirosh Madhusha | DLAD Software Solution (Pvt) Ltd |  | Colombo 02, Sri Lanka | 14792 |
 | 8 | [ramthir](https://github.com/ramthir) | Ramesh Thiruchelvam | Limark Technologies | ramthi | Sri Lanka | 14268 |
 | 9 | [theetaz](https://github.com/theetaz) | Nipun Theekshana |  |  | Colombo, Sri Lanka | 13822 |

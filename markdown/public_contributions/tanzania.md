@@ -1,6 +1,6 @@
 # Public Contributions - Tanzania
 
-Generated: 2026-10-11T01:51:23.645Z
+Generated: 2026-10-11T06:53:45.857Z
 
 Users: 2041
 
@@ -19,10 +19,10 @@ Users: 2041
 | 11 | [wizystudios](https://github.com/wizystudios) | khalifa Nadhir | wizystudio |  | tanzania | 1952 |
 | 12 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Camel Creatives |  | Dar es Salaam ,Tanzania | 1923 |
 | 13 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Quadrat Global Software House | mghalatia | Tanzania | 1893 |
-| 14 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 1711 |
-| 15 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1606 |
-| 16 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | University of Dar es salaam | AdamMashak1 | Dar es salaam , Tanzania | 1565 |
-| 17 | [Maquiz1](https://github.com/Maquiz1) | Maquiz |  | maquiz_ | Tanzania | 1560 |
-| 18 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1516 |
-| 19 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1497 |
-| 20 | [zayqu](https://github.com/zayqu) | Daraja | MzHoldings |  | Dar Es Salaam, Tanzania | 1452 |
+| 14 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya |  |  | Tanzania | 1826 |
+| 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson |  |  | Mbeya, Tanzania | 1711 |
+| 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. |  |  | Tanzania | 1606 |
+| 17 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | University of Dar es salaam | AdamMashak1 | Dar es salaam , Tanzania | 1565 |
+| 18 | [Maquiz1](https://github.com/Maquiz1) | Maquiz |  | maquiz_ | Tanzania | 1560 |
+| 19 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi |  |  | Tanzania | 1516 |
+| 20 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Neuraltlae Technologies |  | Tanzania  | 1497 |

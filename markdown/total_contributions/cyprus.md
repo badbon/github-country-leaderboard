@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-11T02:22:43.100Z
+Generated: 2026-10-11T07:28:04.317Z
 
 Users: 2738
 
@@ -13,16 +13,16 @@ Users: 2738
 | 5 | [servitola](https://github.com/servitola) | Adik Servitola |  |  | Cyprus | 14035 |
 | 6 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu |  |  | Cyprus | 11983 |
 | 7 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | BetterGroup Holding Inc |  | Cyprus | 10126 |
-| 8 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
-| 9 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
-| 10 | [RootViper4](https://github.com/RootViper4) | Root Lindow | Root Tech, CyprusCodes, Fatsoma | frankteidara | Nicosia, North Cyprus | 9615 |
-| 11 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 9314 |
-| 12 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
-| 13 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Materiias d.o.o | TheAbdeen9 | Lefkosa, Cyprus | 9126 |
-| 14 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
-| 15 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 9102 |
-| 16 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
-| 17 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
-| 18 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
-| 19 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |
-| 20 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | CIYA | siyabuilt | Cyprus | 8388 |
+| 8 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
+| 9 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
+| 10 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
+| 11 | [RootViper4](https://github.com/RootViper4) | Root Lindow | Root Tech, CyprusCodes, Fatsoma | frankteidara | Nicosia, North Cyprus | 9615 |
+| 12 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 9314 |
+| 13 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
+| 14 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Materiias d.o.o | TheAbdeen9 | Lefkosa, Cyprus | 9126 |
+| 15 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
+| 16 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 9102 |
+| 17 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
+| 18 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
+| 19 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
+| 20 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides |  |  | Cyprus | 8521 |

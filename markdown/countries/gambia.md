@@ -24,8 +24,8 @@ Indexed users: 80
 | 10 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 651 |
 | 11 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 632 |
 | 12 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 608 |
-| 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 409 |
-| 14 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 406 |
+| 13 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 454 |
+| 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 409 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 391 |
 | 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 245 |
 | 17 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
@@ -38,8 +38,8 @@ Indexed users: 80
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 1,031 |
-| 2 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 409 |
-| 3 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 406 |
+| 2 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 454 |
+| 3 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 409 |
 | 4 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 391 |
 | 5 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 361 |
 | 6 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 317 |
@@ -52,7 +52,7 @@ Indexed users: 80
 | 13 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 125 |
 | 14 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 88 |
 | 15 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 68 |
-| 16 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh | Gambia banjul | 61 |
+| 16 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh | Gambia banjul | 62 |
 | 17 | [mustapha-jaiteh](https://github.com/mustapha-jaiteh) | Mustapha Jaiteh | Banjul, The Gambia | 58 |
 | 18 | [yusjeng21](https://github.com/yusjeng21) | Yusupha Jeng  | Banjul, The Gambia | 48 |
 | 19 | [mustaphaDarbo](https://github.com/mustaphaDarbo) | Mustapha_Darboe | Gambia | 44 |
@@ -67,9 +67,9 @@ Indexed users: 80
 | 3 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 26 |
 | 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 26 |
 | 5 | [kamariana](https://github.com/kamariana) | A Kamariana | Brikama, Gambia | 24 |
-| 6 | [mathewharb](https://github.com/mathewharb) | Mathew Harb | Gambia | 16 |
-| 7 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow | Banjul, The Gambia. | 16 |
-| 8 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 15 |
+| 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 16 |
+| 7 | [mathewharb](https://github.com/mathewharb) | Mathew Harb | Gambia | 16 |
+| 8 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow | Banjul, The Gambia. | 16 |
 | 9 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 14 |
 | 10 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 13 |
 | 11 | [Fatimatrawally](https://github.com/Fatimatrawally) | Camara | Gambia  | 13 |
@@ -83,4 +83,4 @@ Indexed users: 80
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-11T02:34:23.027Z
+Generated: 2026-10-11T07:37:54.829Z

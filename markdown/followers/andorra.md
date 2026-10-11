@@ -1,6 +1,6 @@
 # Followers - Andorra
 
-Generated: 2026-10-11T02:05:05.783Z
+Generated: 2026-10-11T07:07:21.250Z
 
 Users: 215
 
@@ -18,7 +18,7 @@ Users: 215
 | 10 | [damarnez](https://github.com/damarnez) | Dani Martin Jimenez | https://tanukilabs.xyz/ |  | Andorra | 105 |
 | 11 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 102 |
 | 12 | [facundomedica](https://github.com/facundomedica) | Facundo Medica |  | facundomedica | Andorra | 93 |
-| 13 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 92 |
+| 13 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 93 |
 | 14 | [XaviTorello](https://github.com/XaviTorello) | Xavi Torelló |  |  | Andorra | 92 |
 | 15 | [roboticswithjulia](https://github.com/roboticswithjulia) | Júlia Marsal Perendreu | CTO Swarm124 |  | Andorra la Vella, Andorra | 85 |
 | 16 | [delgod](https://github.com/delgod) | Mykola Marzhan | @Canonical |  | Andorra | 82 |

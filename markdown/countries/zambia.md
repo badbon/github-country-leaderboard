@@ -1,6 +1,6 @@
 # Zambia
 
-Indexed users: 1,343
+Indexed users: 1,342
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 1,343
 | 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
 | 15 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
 | 16 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
-| 17 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
-| 18 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 554 |
-| 19 | [chrimztech](https://github.com/chrimztech) | Chrishent | Lusaka | 553 |
-| 20 | [sangwani-coder](https://github.com/sangwani-coder) | Zyambo | Zambia | 542 |
+| 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 579 |
+| 18 | [SilasChalwe](https://github.com/SilasChalwe) | Silas Chalwe  | Zambia  | 555 |
+| 19 | [Mwapsam](https://github.com/Mwapsam) | Samuel Chimfwembe | Zambia | 554 |
+| 20 | [chrimztech](https://github.com/chrimztech) | Chrishent | Lusaka | 553 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,343
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-11T02:01:35.671Z
+Generated: 2026-10-11T07:05:02.128Z

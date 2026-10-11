@@ -1,6 +1,6 @@
 # Followers - Sri Lanka
 
-Generated: 2026-10-11T06:24:20.615Z
+Generated: 2026-10-11T06:48:51.065Z
 
 Users: 18336
 
@@ -24,5 +24,5 @@ Users: 18336
 | 16 | [chamodshehanka](https://github.com/chamodshehanka) | Chamod Shehanka Perera | @circleslife | chamodshehanka | Horana, Sri Lanka | 732 |
 | 17 | [ksenginew](https://github.com/ksenginew) | Kavindu Santhusa |  | ksanthusa | Sri Lanka | 716 |
 | 18 | [rohithadassanayake](https://github.com/rohithadassanayake) | ROHITHA DASSANAYAKE |  |  | SRI LANKA | 650 |
-| 19 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas |  |  | Colombo , Srilanka | 639 |
-| 20 | [ChanithaAbey](https://github.com/ChanithaAbey) | Chanitha Abeygunawardena  | University of Westminster [IIT] |  | Colombo, Sri Lanka | 629 |
+| 19 | [shenald-dev](https://github.com/shenald-dev) | Shenal D | Independent Developer |  | Sri Lanka | 648 |
+| 20 | [Ihsas01](https://github.com/Ihsas01) | Mohamed Ihsas |  |  | Colombo , Srilanka | 639 |

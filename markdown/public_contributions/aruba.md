@@ -1,18 +1,18 @@
 # Public Contributions - Aruba
 
-Generated: 2026-10-11T02:06:42.766Z
+Generated: 2026-10-11T07:10:27.556Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 579 |
+| 1 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 548 |
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 496 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | BlueKoala |  | Oranjestad, Aruba | 203 |
 | 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | ZOS Consultancy |  | Aruba | 126 |
 | 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Next Inn Games |  | Aruba | 110 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
-| 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 50 |
+| 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 47 |
 | 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 44 |
 | 9 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 30 |
 | 10 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 28 |

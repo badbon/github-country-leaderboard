@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-11T01:50:02.434Z
+Generated: 2026-10-11T06:52:32.611Z
 
 Users: 1482
 
@@ -24,5 +24,5 @@ Users: 1482
 | 16 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 126 |
 | 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |
 | 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 114 |
-| 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 101 |
+| 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 102 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy |  |  | Latakia, Syria | 101 |

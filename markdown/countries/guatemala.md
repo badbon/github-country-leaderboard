@@ -1,6 +1,6 @@
 # Guatemala
 
-Indexed users: 3,226
+Indexed users: 3,224
 
 | Leaderboard | Link |
 |---|---|
@@ -63,14 +63,14 @@ Indexed users: 3,226
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 434 |
-| 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Guatemala | 331 |
+| 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Guatemala | 332 |
 | 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez | Guatemala | 308 |
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco | Guatemala | 298 |
 | 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Guatemala | 280 |
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Guatemala | 217 |
 | 7 | [JPaulMora](https://github.com/JPaulMora) | John Mora | Guatemala | 210 |
-| 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay | Guatemala | 187 |
-| 9 | [luisespino](https://github.com/luisespino) | Luis Espino | Guatemala | 169 |
+| 8 | [tahayk3](https://github.com/tahayk3) | Cristian Tahay | Guatemala | 186 |
+| 9 | [luisespino](https://github.com/luisespino) | Luis Espino | Guatemala | 170 |
 | 10 | [sergioarmgpl](https://github.com/sergioarmgpl) | Sergio Méndez | Guatemala | 169 |
 | 11 | [RandolphVI](https://github.com/RandolphVI) | Randolph | Guatemala | 162 |
 | 12 | [XaviAlvarado18](https://github.com/XaviAlvarado18) | Javier Alvarado | Guatemala | 160 |
@@ -83,4 +83,4 @@ Indexed users: 3,226
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-11T02:36:38.425Z
+Generated: 2026-10-11T07:41:04.181Z
