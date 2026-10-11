@@ -13904,7 +13904,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 119,
     "createdAt": "2022-04-13T20:11:21Z"
   },
   {
@@ -13915,8 +13915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 542,
-    "publicContributions": 229,
+    "privateContributions": 1243,
+    "publicContributions": 392,
     "createdAt": "2022-10-18T04:48:53Z"
   },
   {
@@ -13927,8 +13927,8 @@
     "company": "Faculty of Science, University of Kragujevac",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 322,
-    "publicContributions": 167,
+    "privateContributions": 411,
+    "publicContributions": 157,
     "createdAt": "2022-04-07T16:25:31Z"
   },
   {
@@ -13939,8 +13939,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 497,
-    "publicContributions": 149,
+    "privateContributions": 286,
+    "publicContributions": 336,
     "createdAt": "2022-10-21T13:33:32Z"
   },
   {
@@ -13950,9 +13950,9 @@
     "location": "Belgrade, Serbia",
     "company": "Orion Telekom",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 71,
-    "publicContributions": 422,
+    "followers": 16,
+    "privateContributions": 98,
+    "publicContributions": 278,
     "createdAt": "2022-03-22T20:57:44Z"
   },
   {
@@ -13962,8 +13962,8 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 4,
+    "followers": 13,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-31T13:41:28Z"
   },
@@ -13975,8 +13975,8 @@
     "company": "Nordeus",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 69,
-    "publicContributions": 404,
+    "privateContributions": 81,
+    "publicContributions": 365,
     "createdAt": "2022-12-23T17:28:22Z"
   },
   {
@@ -13993,14 +13993,14 @@
   },
   {
     "login": "baakhoff",
-    "name": "NikolaI Baakh",
+    "name": "Nikolay Baakh",
     "avatarUrl": "https://avatars.githubusercontent.com/u/120090123?s=72&u=23958e119c9ceb380f4b2287dc3ca63625e01462&v=4",
     "location": "Belgrade, Serbia",
     "company": "NDA",
     "twitterUsername": "BaakhOff",
-    "followers": 14,
-    "privateContributions": 502,
-    "publicContributions": 1287,
+    "followers": 11,
+    "privateContributions": 1064,
+    "publicContributions": 1961,
     "createdAt": "2022-12-08T08:31:40Z"
   },
   {
@@ -14012,7 +14012,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 2,
-    "publicContributions": 86,
+    "publicContributions": 106,
     "createdAt": "2022-10-30T19:28:08Z"
   },
   {
@@ -14022,9 +14022,9 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 13,
     "createdAt": "2022-12-17T16:56:00Z"
   },
   {
@@ -14035,8 +14035,8 @@
     "company": "@informalsystems",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 442,
-    "publicContributions": 736,
+    "privateContributions": 447,
+    "publicContributions": 654,
     "createdAt": "2022-10-29T12:29:43Z"
   },
   {
@@ -14106,9 +14106,9 @@
     "location": "Novi Sad, Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 168,
-    "publicContributions": 2,
+    "followers": 14,
+    "privateContributions": 271,
+    "publicContributions": 1,
     "createdAt": "2022-10-28T11:56:48Z"
   },
   {
@@ -14118,7 +14118,7 @@
     "location": "Serbia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-28T06:37:40Z"

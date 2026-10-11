@@ -13748,7 +13748,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2023-10-30T22:56:11Z"
   },
   {
@@ -13759,8 +13759,8 @@
     "company": "TRICKS SAC",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 29,
-    "publicContributions": 475,
+    "privateContributions": 46,
+    "publicContributions": 365,
     "createdAt": "2023-07-29T01:46:23Z"
   },
   {
@@ -13771,8 +13771,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 525,
-    "publicContributions": 67,
+    "privateContributions": 825,
+    "publicContributions": 68,
     "createdAt": "2023-05-29T03:54:51Z"
   },
   {
@@ -13782,9 +13782,9 @@
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 34,
-    "publicContributions": 229,
+    "publicContributions": 223,
     "createdAt": "2023-04-21T12:07:26Z"
   },
   {
@@ -13794,9 +13794,9 @@
     "location": "Lima Peru",
     "company": "UPC-MO",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 329,
+    "publicContributions": 291,
     "createdAt": "2023-04-12T12:30:39Z"
   },
   {
@@ -13808,7 +13808,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-05-28T18:57:07Z"
   },
   {
@@ -13819,7 +13819,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 338,
+    "privateContributions": 167,
     "publicContributions": 12,
     "createdAt": "2023-01-10T16:47:23Z"
   },
@@ -13830,21 +13830,21 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "JulioOreMon",
-    "followers": 7,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 8,
     "createdAt": "2023-07-14T06:25:45Z"
   },
   {
     "login": "AsthriPardave",
     "name": "AJ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135352588?s=72&u=d6e2da5f7f277ffd75af8a3beb50c2bce651108f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/135352588?s=72&u=745eff122b2875efab887e2fbd96cc99c6306848&v=4",
     "location": "Peru",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 107,
+    "publicContributions": 123,
     "createdAt": "2023-06-02T15:25:44Z"
   },
   {
@@ -13866,9 +13866,9 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1701,
-    "publicContributions": 11,
+    "followers": 6,
+    "privateContributions": 1620,
+    "publicContributions": 9,
     "createdAt": "2023-04-16T23:09:20Z"
   },
   {
@@ -13876,7 +13876,7 @@
     "name": "Alex Calero Revilla",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127535510?s=72&u=cb5fa138e7bf78333aa24e9d075155302b809116&v=4",
     "location": "Lima, Peru",
-    "company": "",
+    "company": "PCI Energy Solutions",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
@@ -13890,9 +13890,9 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 55,
     "createdAt": "2023-09-29T21:24:23Z"
   },
   {
@@ -13904,19 +13904,19 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 26,
-    "publicContributions": 20,
+    "publicContributions": 23,
     "createdAt": "2023-11-27T23:41:12Z"
   },
   {
     "login": "Far14z",
     "name": "Farid Coronel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133823375?s=72&u=9fc06ee1704647fb38779cd5d9339b05f904a729&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133823375?s=72&u=34c94a292e82740304798a048187f59e18c2ed09&v=4",
     "location": "Peru",
     "company": "Universidad Peruana de Ciencias Aplicadaas",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 2790,
+    "publicContributions": 2377,
     "createdAt": "2023-05-16T23:02:55Z"
   },
   {
@@ -13927,7 +13927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 239,
+    "privateContributions": 124,
     "publicContributions": 0,
     "createdAt": "2023-01-14T22:41:09Z"
   },
@@ -13940,20 +13940,8 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 105,
     "createdAt": "2023-03-13T06:16:15Z"
-  },
-  {
-    "login": "diego-taquiri",
-    "name": "Diego Taquiri-Diaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129102661?s=72&u=20f0e57aeb8cf6220ece1eba38258c89f5635549&v=4",
-    "location": "Peru",
-    "company": "",
-    "twitterUsername": "diego_taquiri",
-    "followers": 7,
-    "privateContributions": 82,
-    "publicContributions": 0,
-    "createdAt": "2023-03-27T17:30:13Z"
   },
   {
     "login": "Mique-Jesus",
@@ -13964,7 +13952,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 8,
     "createdAt": "2023-07-25T18:16:36Z"
   },
   {
@@ -13974,9 +13962,9 @@
     "location": "Lima, Peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 194,
-    "publicContributions": 935,
+    "followers": 7,
+    "privateContributions": 166,
+    "publicContributions": 1105,
     "createdAt": "2023-12-12T05:31:31Z"
   },
   {

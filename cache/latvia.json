@@ -13644,26 +13644,14 @@
     "createdAt": "2019-06-19T09:10:19Z"
   },
   {
-    "login": "ho1yspirt",
-    "name": "Amir",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58621227?s=72&u=4b8c0f7ea988ac196874180bd1a7083e3e6bc5c5&v=4",
-    "location": "Riga, Latvia",
-    "company": "Individual Entrepreneur, IUCA, Riga Technical University & Banku Augstkola",
-    "twitterUsername": "m4tor0",
-    "followers": 11,
-    "privateContributions": 25,
-    "publicContributions": 2,
-    "createdAt": "2019-12-07T07:36:31Z"
-  },
-  {
     "login": "dvlkt",
     "name": "Dāvis Lektauers",
     "avatarUrl": "https://avatars.githubusercontent.com/u/53017676?s=72&u=e057316b075a769c2ac42150c0080252f9f674c4&v=4",
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 54,
+    "followers": 13,
+    "privateContributions": 52,
     "publicContributions": 11,
     "createdAt": "2019-07-17T18:33:08Z"
   },
@@ -13674,9 +13662,9 @@
     "location": "Latvia",
     "company": "Free",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1,
-    "publicContributions": 9,
+    "followers": 12,
+    "privateContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2019-02-25T20:34:46Z"
   },
   {
@@ -13702,18 +13690,6 @@
     "privateContributions": 227,
     "publicContributions": 0,
     "createdAt": "2019-08-05T07:32:57Z"
-  },
-  {
-    "login": "misha-dig",
-    "name": "Misha Zaslavskis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/55639759?s=72&u=523f880bba8e00ef329e0bef3d52161409eb1dfb&v=4",
-    "location": "Riga - Latvia and Canterbury - UK",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 17,
-    "createdAt": "2019-09-21T22:39:46Z"
   },
   {
     "login": "technomancer-lv",
@@ -13747,8 +13723,8 @@
     "company": "ChiliLabs",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 3062,
-    "publicContributions": 64,
+    "privateContributions": 3236,
+    "publicContributions": 55,
     "createdAt": "2019-02-01T14:25:27Z"
   },
   {
@@ -13758,9 +13734,9 @@
     "location": "Rīga, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 489,
-    "publicContributions": 196,
+    "followers": 12,
+    "privateContributions": 470,
+    "publicContributions": 291,
     "createdAt": "2019-10-11T19:20:07Z"
   },
   {
@@ -13770,9 +13746,9 @@
     "location": "Latvia",
     "company": "Seal Solutions",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 13,
     "createdAt": "2019-10-27T09:38:29Z"
   },
   {
@@ -13784,7 +13760,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 38,
     "createdAt": "2019-08-03T16:21:09Z"
   },
   {
@@ -13796,7 +13772,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 275,
+    "publicContributions": 468,
     "createdAt": "2019-02-09T15:13:17Z"
   },
   {
@@ -13807,7 +13783,7 @@
     "company": "@ubiquiti ",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1057,
+    "privateContributions": 1203,
     "publicContributions": 0,
     "createdAt": "2019-10-28T09:32:13Z"
   },
@@ -13820,7 +13796,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 2,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2019-03-21T16:26:03Z"
   },
   {
@@ -13830,9 +13806,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2019-10-06T13:29:44Z"
   },
   {
@@ -13842,9 +13818,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2019-08-10T17:09:59Z"
   },
   {

@@ -13830,9 +13830,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 72,
-    "publicContributions": 70,
+    "followers": 3,
+    "privateContributions": 60,
+    "publicContributions": 65,
     "createdAt": "2024-09-24T17:55:11Z"
   },
   {
@@ -13880,7 +13880,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 37,
+    "publicContributions": 33,
     "createdAt": "2024-05-07T04:13:22Z"
   },
   {
@@ -13890,9 +13890,9 @@
     "location": "Mexico",
     "company": "Student",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 83,
     "createdAt": "2024-11-28T15:40:52Z"
   },
   {
@@ -13904,7 +13904,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 69,
     "createdAt": "2024-10-19T17:50:33Z"
   },
   {
@@ -13916,7 +13916,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 58,
     "createdAt": "2024-09-16T06:49:39Z"
   },
   {
@@ -13940,7 +13940,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 192,
+    "publicContributions": 287,
     "createdAt": "2023-12-30T20:48:44Z"
   },
   {
@@ -13950,9 +13950,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 212,
     "createdAt": "2024-01-02T05:30:30Z"
   },
   {
@@ -14004,18 +14004,6 @@
     "createdAt": "2024-07-16T16:12:50Z"
   },
   {
-    "login": "7kotaaa",
-    "name": "7kotaa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/184424012?s=72&u=95dbf47b8922a3844013f98217d5f76f9aa8ae4f&v=4",
-    "location": "Mexico",
-    "company": "N/A",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2024-10-09T17:03:25Z"
-  },
-  {
     "login": "miguel-aalonso",
     "name": "Miguel Angel Alonso",
     "avatarUrl": "https://avatars.githubusercontent.com/u/192281946?s=72&u=1da4a10c18310f6715d2fb8d392aab6bb9c662c4&v=4",
@@ -14035,7 +14023,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2,
+    "privateContributions": 12,
     "publicContributions": 25,
     "createdAt": "2024-11-29T18:37:11Z"
   },
