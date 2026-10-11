@@ -12066,9 +12066,9 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 71,
-    "publicContributions": 3,
+    "followers": 12,
+    "privateContributions": 50,
+    "publicContributions": 2,
     "createdAt": "2015-08-07T07:49:58Z"
   },
   {
@@ -12080,7 +12080,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 106,
     "createdAt": "2015-03-16T08:00:24Z"
   },
   {
@@ -12102,7 +12102,7 @@
     "location": "Albania",
     "company": "CTSystem",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-11-07T19:17:42Z"
@@ -12110,13 +12110,13 @@
   {
     "login": "belisarh",
     "name": "Belisar Hoxholli",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/11684453?s=72&u=bce440f222cf06e31e35426b798d3f9b4b90aeb8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/11684453?s=72&u=5eca20c8f6e43e497a6d12442e9d192d91bcbc62&v=4",
     "location": "Tirana, Albania",
     "company": "@kirschbaum-development ",
     "twitterUsername": "belisar",
-    "followers": 11,
-    "privateContributions": 2027,
-    "publicContributions": 0,
+    "followers": 12,
+    "privateContributions": 2919,
+    "publicContributions": 17,
     "createdAt": "2015-03-27T18:20:47Z"
   },
   {
@@ -12126,22 +12126,10 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 385,
+    "followers": 11,
+    "privateContributions": 361,
     "publicContributions": 66,
     "createdAt": "2015-08-27T20:21:00Z"
-  },
-  {
-    "login": "riesachedanova",
-    "name": "Benjamin Snyder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10885385?s=72&v=4",
-    "location": "Troybury, Albania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 135,
-    "createdAt": "2015-02-06T16:34:41Z"
   },
   {
     "login": "rcst",
@@ -12175,8 +12163,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1921,
-    "publicContributions": 5,
+    "privateContributions": 2642,
+    "publicContributions": 7,
     "createdAt": "2015-06-26T12:47:04Z"
   },
   {
@@ -12187,7 +12175,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 542,
+    "privateContributions": 486,
     "publicContributions": 0,
     "createdAt": "2015-10-21T13:22:02Z"
   },
@@ -12200,7 +12188,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 27,
     "createdAt": "2015-01-20T18:01:47Z"
   },
   {
@@ -12210,8 +12198,8 @@
     "location": "Tirana, Albania",
     "company": "@kirschbaum-development",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 1307,
+    "followers": 7,
+    "privateContributions": 5678,
     "publicContributions": 0,
     "createdAt": "2015-06-15T08:24:45Z"
   },
@@ -12222,7 +12210,7 @@
     "location": "Albania",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2015-04-16T16:42:00Z"
@@ -12246,7 +12234,7 @@
     "location": "Tirane, Albania",
     "company": "@31prompt",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 6,
     "publicContributions": 1,
     "createdAt": "2015-01-05T17:05:01Z"
@@ -12271,8 +12259,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1526,
-    "publicContributions": 105,
+    "privateContributions": 1558,
+    "publicContributions": 93,
     "createdAt": "2015-03-19T14:07:27Z"
   },
   {

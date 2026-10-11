@@ -11683,20 +11683,20 @@
     "company": "SkyStream Solutions",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 499,
-    "publicContributions": 39,
+    "privateContributions": 496,
+    "publicContributions": 31,
     "createdAt": "2021-01-13T19:22:48Z"
   },
   {
     "login": "ivanvirgala",
     "name": "Ivan Virgala",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/91537184?s=72&u=805acdb6e7bf1da1313b3de830d9b77e27305c25&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/91537184?s=72&u=8d0bac78f6c4b6fc65163a545436e57447706aeb&v=4",
     "location": "Slovakia",
     "company": "Technical University of Košice",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 138,
-    "publicContributions": 98,
+    "followers": 4,
+    "privateContributions": 156,
+    "publicContributions": 102,
     "createdAt": "2021-09-28T10:52:21Z"
   },
   {
@@ -11708,20 +11708,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 22,
     "createdAt": "2021-03-20T13:52:47Z"
-  },
-  {
-    "login": "Michalkassa",
-    "name": "Michal Kassa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84039535?s=72&u=5b6320d10a3cdc276e6938a5ba996d7a2333ea87&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 142,
-    "createdAt": "2021-05-11T18:08:13Z"
   },
   {
     "login": "rohlicekk",
@@ -11744,20 +11732,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-05-27T17:00:29Z"
-  },
-  {
-    "login": "DarkTender",
-    "name": "Dušan Šavrda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/82323669?s=72&u=cbf55d84a8c7e431c9229730fcf68f2cd6138c4e&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 266,
-    "createdAt": "2021-04-11T13:57:28Z"
   },
   {
     "login": "filip-769",
@@ -11767,8 +11743,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 42,
-    "publicContributions": 5,
+    "privateContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2021-01-17T15:30:50Z"
   },
   {
@@ -11780,7 +11756,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 220,
     "createdAt": "2021-03-14T22:51:00Z"
   },
   {
@@ -11791,7 +11767,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 192,
+    "privateContributions": 172,
     "publicContributions": 0,
     "createdAt": "2021-04-27T10:41:43Z"
   },
@@ -11803,7 +11779,7 @@
     "company": "Home",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 14,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2021-05-29T16:41:36Z"
   },
@@ -11827,8 +11803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 143,
-    "publicContributions": 17,
+    "privateContributions": 151,
+    "publicContributions": 16,
     "createdAt": "2021-03-12T17:32:12Z"
   },
   {
@@ -11838,9 +11814,9 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 57,
     "createdAt": "2021-08-19T20:18:43Z"
   },
   {
@@ -11851,7 +11827,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 43,
+    "privateContributions": 51,
     "publicContributions": 30,
     "createdAt": "2021-06-06T07:13:59Z"
   },
@@ -11863,8 +11839,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 27,
-    "publicContributions": 37,
+    "privateContributions": 5,
+    "publicContributions": 29,
     "createdAt": "2021-04-15T16:22:22Z"
   },
   {
@@ -11874,7 +11850,7 @@
     "location": "Bratislava, Slovakia",
     "company": "self-employed",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2021-09-21T07:07:32Z"
@@ -11894,13 +11870,13 @@
   {
     "login": "filipbodor",
     "name": "Filip Bodor",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95436954?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/95436954?s=72&u=84e5a8ae60af3b52e6c6e9c970ac8ee04b6f61be&v=4",
     "location": "Bratislava, Slovakia",
-    "company": "Cisco",
+    "company": "cisco",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 759,
-    "publicContributions": 217,
+    "privateContributions": 889,
+    "publicContributions": 335,
     "createdAt": "2021-12-02T17:21:17Z"
   },
   {
@@ -11911,8 +11887,8 @@
     "company": "Voxwise",
     "twitterUsername": "ivandjukic02",
     "followers": 2,
-    "privateContributions": 259,
-    "publicContributions": 68,
+    "privateContributions": 1394,
+    "publicContributions": 66,
     "createdAt": "2021-03-30T17:07:57Z"
   },
   {

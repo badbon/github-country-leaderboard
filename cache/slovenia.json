@@ -11816,7 +11816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 18,
     "createdAt": "2019-10-07T07:27:55Z"
   },
   {
@@ -11840,7 +11840,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 91,
     "createdAt": "2019-12-19T17:14:11Z"
   },
   {
@@ -11863,8 +11863,8 @@
     "company": "me, myself and I",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 23,
-    "publicContributions": 6,
+    "privateContributions": 28,
+    "publicContributions": 17,
     "createdAt": "2019-11-26T19:31:34Z"
   },
   {
@@ -11900,7 +11900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 25,
     "createdAt": "2019-12-14T10:53:06Z"
   },
   {
@@ -11947,7 +11947,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1108,
+    "privateContributions": 1153,
     "publicContributions": 0,
     "createdAt": "2019-12-20T20:42:33Z"
   },
@@ -11971,21 +11971,9 @@
     "company": "@canonical @lxc ",
     "twitterUsername": "",
     "followers": 26,
-    "privateContributions": 1686,
-    "publicContributions": 1951,
+    "privateContributions": 1976,
+    "publicContributions": 2097,
     "createdAt": "2019-10-10T13:17:52Z"
-  },
-  {
-    "login": "zspiler",
-    "name": "Žan Špiler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51880388?s=72&u=17077eb2d7a321dbae45e961a0b52f3d9ccb4d27&v=4",
-    "location": "Ljubljana",
-    "company": "Celtra",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 2048,
-    "publicContributions": 2,
-    "createdAt": "2019-06-16T12:32:34Z"
   },
   {
     "login": "zigamedved",
@@ -11995,8 +11983,8 @@
     "company": "Robinhood",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 118,
-    "publicContributions": 59,
+    "privateContributions": 290,
+    "publicContributions": 110,
     "createdAt": "2019-02-23T14:44:48Z"
   },
   {
@@ -12006,9 +11994,9 @@
     "location": "Ljubljana",
     "company": "Microsoft",
     "twitterUsername": "bvrhovnik",
-    "followers": 17,
-    "privateContributions": 516,
-    "publicContributions": 306,
+    "followers": 18,
+    "privateContributions": 503,
+    "publicContributions": 304,
     "createdAt": "2019-12-01T20:10:09Z"
   },
   {
@@ -12018,9 +12006,9 @@
     "location": "Ljubljana",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 148,
-    "publicContributions": 116,
+    "followers": 20,
+    "privateContributions": 207,
+    "publicContributions": 258,
     "createdAt": "2019-07-24T11:31:53Z"
   },
   {
@@ -12030,9 +12018,9 @@
     "location": "Ljubljana",
     "company": "@TheCalda",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 55,
-    "publicContributions": 122,
+    "followers": 19,
+    "privateContributions": 136,
+    "publicContributions": 83,
     "createdAt": "2019-08-26T09:53:29Z"
   },
   {
@@ -12043,8 +12031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 432,
-    "publicContributions": 144,
+    "privateContributions": 391,
+    "publicContributions": 168,
     "createdAt": "2019-04-16T22:21:25Z"
   },
   {

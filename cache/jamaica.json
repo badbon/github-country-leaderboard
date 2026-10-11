@@ -12091,7 +12091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
+    "privateContributions": 19,
     "publicContributions": 23,
     "createdAt": "2014-11-18T22:06:08Z"
   },
@@ -12103,7 +12103,7 @@
     "company": "",
     "twitterUsername": "thatcodewiffs",
     "followers": 1,
-    "privateContributions": 197,
+    "privateContributions": 207,
     "publicContributions": 0,
     "createdAt": "2014-03-05T21:02:00Z"
   },
@@ -12128,7 +12128,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 115,
     "createdAt": "2014-07-12T07:01:09Z"
   },
   {
@@ -12142,18 +12142,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-04-03T12:17:20Z"
-  },
-  {
-    "login": "alehole",
-    "name": "abc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8896419?s=72&v=4",
-    "location": "Jamaica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-09-24T09:04:32Z"
   },
   {
     "login": "leonwright",
@@ -12174,7 +12162,7 @@
     "location": "Kingston, ON",
     "company": "Queen's University",
     "twitterUsername": "jakekaupp",
-    "followers": 140,
+    "followers": 138,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2014-07-28T19:11:16Z"
@@ -12187,7 +12175,7 @@
     "company": "L1NNA Lab, Queen's University",
     "twitterUsername": "",
     "followers": 118,
-    "privateContributions": 40,
+    "privateContributions": 30,
     "publicContributions": 10,
     "createdAt": "2014-08-18T01:21:11Z"
   },
@@ -12198,9 +12186,9 @@
     "location": "East Kingston, NH",
     "company": "Sympraxis Consulting",
     "twitterUsername": "",
-    "followers": 108,
+    "followers": 109,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 94,
     "createdAt": "2014-05-13T15:24:37Z"
   },
   {
@@ -12210,7 +12198,7 @@
     "location": "Kingston, NY",
     "company": "",
     "twitterUsername": "amandakoster",
-    "followers": 40,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 54,
     "createdAt": "2014-12-18T17:51:47Z"
@@ -12222,9 +12210,9 @@
     "location": "Kingston",
     "company": "AE",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 53,
     "createdAt": "2014-06-23T13:52:23Z"
   },
   {
@@ -12234,9 +12222,9 @@
     "location": "Kingston, CA",
     "company": "",
     "twitterUsername": "",
-    "followers": 23,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 20,
     "createdAt": "2014-07-23T07:58:14Z"
   },
   {
@@ -12258,7 +12246,7 @@
     "location": "Kingston, ON",
     "company": "Queen's University",
     "twitterUsername": "mariam_gui",
-    "followers": 19,
+    "followers": 17,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2014-02-18T19:45:39Z"

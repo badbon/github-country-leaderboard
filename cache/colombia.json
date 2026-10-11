@@ -11804,7 +11804,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 18,
     "createdAt": "2025-07-01T21:02:24Z"
   },
   {
@@ -11828,7 +11828,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2025-08-13T01:11:45Z"
   },
   {
@@ -11851,8 +11851,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 17,
-    "publicContributions": 57,
+    "privateContributions": 18,
+    "publicContributions": 61,
     "createdAt": "2025-10-02T02:18:03Z"
   },
   {
@@ -11888,7 +11888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 8,
     "createdAt": "2025-10-27T02:51:27Z"
   },
   {
@@ -11900,7 +11900,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 57,
     "createdAt": "2025-08-11T18:38:56Z"
   },
   {
@@ -11924,7 +11924,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 51,
     "createdAt": "2025-10-25T02:55:28Z"
   },
   {
@@ -11960,7 +11960,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2025-11-28T22:49:25Z"
   },
   {
@@ -11972,19 +11972,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 36,
     "createdAt": "2025-09-01T02:27:45Z"
   },
   {
     "login": "4cceleration",
     "name": "Miguel Angel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/225486851?s=72&u=12a4adf83995615e5426737b50062f321b303550&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/225486851?s=72&u=532863c1bdd3134d11d5cba25f80965e88d7da29&v=4",
     "location": "Colombia",
-    "company": "",
+    "company": "@Stronglify",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 305,
     "createdAt": "2025-08-08T23:50:09Z"
   },
   {
@@ -12008,7 +12008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 71,
     "createdAt": "2025-07-14T02:31:21Z"
   },
   {
@@ -12020,20 +12020,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 13,
     "createdAt": "2025-09-11T14:03:47Z"
-  },
-  {
-    "login": "Kevin-Base",
-    "name": "Kevin Bohorquez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/233092959?s=72&u=160149ff5120010eaf1c073e12984bf5e473c4f1&v=4",
-    "location": "Colombia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-18T13:52:38Z"
   },
   {
     "login": "felowtech",

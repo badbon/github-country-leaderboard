@@ -11839,8 +11839,8 @@
     "company": "@notum-cz ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 180,
-    "publicContributions": 47,
+    "privateContributions": 157,
+    "publicContributions": 66,
     "createdAt": "2023-06-07T13:12:16Z"
   },
   {
@@ -11852,7 +11852,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 14,
     "createdAt": "2023-09-18T08:17:32Z"
   },
   {
@@ -11864,7 +11864,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 243,
+    "publicContributions": 315,
     "createdAt": "2023-07-01T15:11:02Z"
   },
   {
@@ -11888,7 +11888,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 197,
+    "publicContributions": 224,
     "createdAt": "2023-11-21T08:08:55Z"
   },
   {
@@ -11899,7 +11899,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 82,
+    "privateContributions": 30,
     "publicContributions": 0,
     "createdAt": "2023-01-28T13:51:56Z"
   },
@@ -11911,8 +11911,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 45,
-    "publicContributions": 16,
+    "privateContributions": 38,
+    "publicContributions": 15,
     "createdAt": "2023-09-23T18:30:54Z"
   },
   {
@@ -11959,7 +11959,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2023-01-04T15:08:57Z"
   },
@@ -11972,7 +11972,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 4,
     "createdAt": "2023-01-14T13:49:48Z"
   },
   {
@@ -11994,8 +11994,8 @@
     "location": "Czech Republic",
     "company": "ajtak.it",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 800,
+    "followers": 3,
+    "privateContributions": 1073,
     "publicContributions": 45,
     "createdAt": "2023-12-09T12:51:40Z"
   },
@@ -12008,7 +12008,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 7,
     "createdAt": "2023-11-30T20:36:58Z"
   },
   {
@@ -12018,9 +12018,9 @@
     "location": "Brno, Czech republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 19,
     "createdAt": "2023-01-04T12:31:24Z"
   },
   {
@@ -12031,21 +12031,9 @@
     "company": "@wrapuj ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1676,
-    "publicContributions": 212,
+    "privateContributions": 3377,
+    "publicContributions": 218,
     "createdAt": "2023-11-24T11:20:58Z"
-  },
-  {
-    "login": "jogg15",
-    "name": "Vladimír Studenský",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126342834?s=72&u=fe637a356ab47066401b0293711169528885c5fc&v=4",
-    "location": "Czech Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 154,
-    "publicContributions": 108,
-    "createdAt": "2023-02-25T15:55:11Z"
   },
   {
     "login": "ki-ujep",

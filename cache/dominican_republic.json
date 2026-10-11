@@ -12108,18 +12108,6 @@
     "createdAt": "2021-05-15T19:40:39Z"
   },
   {
-    "login": "Marelyn15",
-    "name": "Marelyn Deschamps",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78377414?s=72&u=3715f48c6cdfe9ed73323ba7794ecbaefb0b18c8&v=4",
-    "location": "Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-02-01T18:20:17Z"
-  },
-  {
     "login": "vanmt05",
     "name": "Ivan Morel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/86641323?s=72&v=4",
@@ -12128,7 +12116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2021-06-29T03:16:45Z"
   },
   {
@@ -12162,21 +12150,21 @@
     "location": "Santo Domingo, Dominican Republic",
     "company": "",
     "twitterUsername": "jhossuarevenge",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 659,
+    "publicContributions": 601,
     "createdAt": "2021-10-13T17:34:01Z"
   },
   {
     "login": "johnnydev4",
     "name": "Johnny",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78631799?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78631799?s=72&u=524d6ee8b8c769908d87d3621c96bb469c3d2e09&v=4",
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 181,
+    "privateContributions": 9,
+    "publicContributions": 298,
     "createdAt": "2021-02-06T04:01:06Z"
   },
   {
@@ -12212,7 +12200,7 @@
     "twitterUsername": "ItFalbert",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2021-07-26T00:11:36Z"
   },
   {
@@ -12236,7 +12224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2021-04-11T14:40:45Z"
   },
   {
@@ -12244,10 +12232,10 @@
     "name": "Mario Alejandro Galan Soto",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96089896?s=72&u=25aad35a4c38d88c0fce29ca9626d6fab60fcad5&v=4",
     "location": "Dominican Republic, Santo Domingo",
-    "company": "Nodefleet",
+    "company": "Grupo Popular",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 8,
+    "privateContributions": 5,
     "publicContributions": 6,
     "createdAt": "2021-12-13T23:12:17Z"
   },
@@ -12271,8 +12259,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
-    "publicContributions": 61,
+    "privateContributions": 78,
+    "publicContributions": 84,
     "createdAt": "2021-04-20T22:00:39Z"
   },
   {
@@ -12343,8 +12331,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 34,
-    "publicContributions": 188,
+    "privateContributions": 72,
+    "publicContributions": 112,
     "createdAt": "2021-07-24T17:46:46Z"
   },
   {
