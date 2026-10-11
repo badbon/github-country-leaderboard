@@ -80,7 +80,7 @@ Indexed users: 296
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou | Papua New Guinea | 9 |
 | 18 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Papua New Guinea | 8 |
-| 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
-| 20 | [loiwai](https://github.com/loiwai) | Loi Wai | Papua New Guinea | 8 |
+| 19 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 8 |
+| 20 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 
-Generated: 2026-10-11T15:01:13.008Z
+Generated: 2026-10-11T16:25:37.216Z

@@ -1,6 +1,6 @@
 # Public Contributions - Maldives
 
-Generated: 2026-10-11T14:47:42.853Z
+Generated: 2026-10-11T16:12:16.578Z
 
 Users: 354
 
@@ -24,5 +24,5 @@ Users: 354
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed |  |  | Male`, Maldives | 358 |
 | 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee |  |  | Maldives | 322 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | @Javaabu / @Baivaru |  | Maldives | 256 |
-| 19 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Allied | WovenCoast | Maldives | 233 |
-| 20 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 232 |
+| 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE |  | WhoIsFishie | Maldives | 233 |
+| 20 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Allied | WovenCoast | Maldives | 233 |

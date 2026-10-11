@@ -1,6 +1,6 @@
 # Total Contributions - Peru
 
-Generated: 2026-10-11T15:02:20.340Z
+Generated: 2026-10-11T16:26:49.363Z
 
 Users: 9791
 
@@ -21,8 +21,8 @@ Users: 9791
 | 13 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña |  | diegojohnsonlud | Peru | 7995 |
 | 14 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla |  | jorgedlcpdev | Lima, Peru | 7963 |
 | 15 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Jokma Web Solutions |  | Lima, Peru | 7823 |
-| 16 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces |  |  | Lima | 7563 |
-| 17 | [harold18m](https://github.com/harold18m) | Harold Medrano | @DropoutCapital  |  | Lima | 7456 |
-| 18 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz |  |  | Lima, Peru | 7286 |
-| 19 | [TerryCM](https://github.com/TerryCM) | Terry Cruz Melo | yavendio.com |  | Peru | 7149 |
-| 20 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | @bobadilla-tech |  | Lima, Perú | 6941 |
+| 16 | [nglmercer](https://github.com/nglmercer) | memelser |  |  | Peru | 7728 |
+| 17 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces |  |  | Lima | 7563 |
+| 18 | [harold18m](https://github.com/harold18m) | Harold Medrano | @DropoutCapital  |  | Lima | 7456 |
+| 19 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz |  |  | Lima, Peru | 7286 |
+| 20 | [TerryCM](https://github.com/TerryCM) | Terry Cruz Melo | yavendio.com |  | Peru | 7149 |

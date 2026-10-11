@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,358
+Indexed users: 1,357
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,358
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-11T15:09:25.611Z
+Generated: 2026-10-11T16:34:29.658Z

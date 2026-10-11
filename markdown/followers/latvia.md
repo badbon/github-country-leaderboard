@@ -1,16 +1,16 @@
 # Followers - Latvia
 
-Generated: 2026-10-11T14:38:15.160Z
+Generated: 2026-10-11T16:08:10.627Z
 
-Users: 3273
+Users: 3272
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [GrayMamoru](https://github.com/GrayMamoru) |  |  |  | Riga | 5201 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 2401 |
 | 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Emergn  | RepriseLoans | Riga | 1124 |
-| 4 | [kj89](https://github.com/kj89) | kjnodes | kjnodes | kjnodes | Latvia | 605 |
-| 5 | [therceman](https://github.com/therceman) | Anton |  | therceman | Latvia | 604 |
+| 4 | [therceman](https://github.com/therceman) | Anton |  | therceman | Latvia | 604 |
+| 5 | [kj89](https://github.com/kj89) | kjnodes | kjnodes | kjnodes | Latvia | 603 |
 | 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | @lokalise |  | Riga | 532 |
 | 7 | [esneko](https://github.com/esneko) | Andrejs Agejevs |  |  | Latvia | 505 |
 | 8 | [darjaorlova](https://github.com/darjaorlova) | Darja Orlova | BBapps | dariadroid | Latvia, Riga | 487 |

@@ -1,6 +1,6 @@
 # Public Contributions - Serbia
 
-Generated: 2026-10-11T15:19:01.648Z
+Generated: 2026-10-11T16:34:59.507Z
 
 Users: 10671
 
@@ -25,4 +25,4 @@ Users: 10671
 | 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr |  |  | Belgrade, Serbia | 3336 |
 | 18 | [egv](https://github.com/egv) | Gena | Cambrian |  | Belgrade - Tel Aviv - Dubai | 3094 |
 | 19 | [maratik123](https://github.com/maratik123) |  |  |  | Serbia, Belgrade | 2991 |
-| 20 | [IgorKonovalov](https://github.com/IgorKonovalov) | Igor Konovalov | Epam |  | Serbia, Belgrade | 2901 |
+| 20 | [mrsladoje](https://github.com/mrsladoje) | Marko Sladojević | Codolis |  | Novi Sad, Serbia | 2967 |

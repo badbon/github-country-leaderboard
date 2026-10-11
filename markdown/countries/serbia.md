@@ -56,7 +56,7 @@ Indexed users: 10,671
 | 17 | [vladprrs](https://github.com/vladprrs) | Vlad Pr | Belgrade, Serbia | 3,336 |
 | 18 | [egv](https://github.com/egv) | Gena | Belgrade - Tel Aviv - Dubai | 3,094 |
 | 19 | [maratik123](https://github.com/maratik123) |  | Serbia, Belgrade | 2,991 |
-| 20 | [IgorKonovalov](https://github.com/IgorKonovalov) | Igor Konovalov | Serbia, Belgrade | 2,901 |
+| 20 | [mrsladoje](https://github.com/mrsladoje) | Marko Sladojević | Novi Sad, Serbia | 2,967 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,671
 | 19 | [umpirsky](https://github.com/umpirsky) | Saša Stamenković | Niš, Serbia | 458 |
 | 20 | [Stojanovic94](https://github.com/Stojanovic94) | Nikola Stojanović | Niš, Serbia | 435 |
 
-Generated: 2026-10-11T15:19:01.648Z
+Generated: 2026-10-11T16:34:59.507Z

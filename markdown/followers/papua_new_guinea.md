@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-11T15:01:13.008Z
+Generated: 2026-10-11T16:25:37.216Z
 
 Users: 296
 
@@ -24,5 +24,5 @@ Users: 296
 | 16 | [jtuckayo](https://github.com/jtuckayo) | Julius Tuckayo | Nasfund | jtuckayo | Port Morseby, Papua New Guinea | 9 |
 | 17 | [wilfred-wulbou](https://github.com/wilfred-wulbou) | Wilfred Wulbou |  | wilfredwulbou | Papua New Guinea | 9 |
 | 18 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 8 |
-| 19 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 8 |
-| 20 | [loiwai](https://github.com/loiwai) | Loi Wai |  |  | Papua New Guinea | 8 |
+| 19 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Skoonters |  | Papua New Guinea | 8 |
+| 20 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 8 |

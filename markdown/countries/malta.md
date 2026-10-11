@@ -18,12 +18,12 @@ Indexed users: 1,225
 | 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 14,624 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Malta | 12,416 |
 | 6 | [exori90](https://github.com/exori90) | exori | Malta | 10,549 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,402 |
-| 8 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 8,837 |
-| 9 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
-| 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
-| 11 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,337 |
-| 12 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 7,672 |
+| 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | Malta | 10,208 |
+| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 9,402 |
+| 9 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 8,837 |
+| 10 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle | Malta | 8,493 |
+| 11 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
+| 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,337 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,471 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-11T14:47:53.069Z
+Generated: 2026-10-11T16:12:54.552Z

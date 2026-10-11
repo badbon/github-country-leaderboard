@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,273
+Indexed users: 3,272
 
 | Leaderboard | Link |
 |---|---|
@@ -19,10 +19,10 @@ Indexed users: 3,273
 | 5 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 12,198 |
 | 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | Riga | 10,409 |
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | Latvia | 10,310 |
-| 8 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
-| 9 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
-| 10 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 7,497 |
-| 11 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 7,382 |
+| 8 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
+| 9 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
+| 10 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
+| 11 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | Riga, Latvia | 7,497 |
 | 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
 | 13 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
 | 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,594 |
@@ -39,7 +39,7 @@ Indexed users: 3,273
 |---:|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 13,921 |
 | 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | Riga, Latvia | 4,411 |
-| 3 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 4,386 |
+| 3 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 3,934 |
 | 4 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs | Riga, Latvia | 2,889 |
 | 5 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis | Latvia, Europe | 2,851 |
 | 6 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 2,465 |
@@ -65,8 +65,8 @@ Indexed users: 3,273
 | 1 | [GrayMamoru](https://github.com/GrayMamoru) |  | Riga | 5,201 |
 | 2 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 2,401 |
 | 3 | [Mistrust12](https://github.com/Mistrust12) | Stay forever | Riga | 1,124 |
-| 4 | [kj89](https://github.com/kj89) | kjnodes | Latvia | 605 |
-| 5 | [therceman](https://github.com/therceman) | Anton | Latvia | 604 |
+| 4 | [therceman](https://github.com/therceman) | Anton | Latvia | 604 |
+| 5 | [kj89](https://github.com/kj89) | kjnodes | Latvia | 603 |
 | 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | Riga | 532 |
 | 7 | [esneko](https://github.com/esneko) | Andrejs Agejevs | Latvia | 505 |
 | 8 | [darjaorlova](https://github.com/darjaorlova) | Darja Orlova | Latvia, Riga | 487 |
@@ -83,4 +83,4 @@ Indexed users: 3,273
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-11T14:38:15.160Z
+Generated: 2026-10-11T16:08:10.627Z

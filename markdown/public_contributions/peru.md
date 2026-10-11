@@ -1,6 +1,6 @@
 # Public Contributions - Peru
 
-Generated: 2026-10-11T15:02:20.340Z
+Generated: 2026-10-11T16:26:49.363Z
 
 Users: 9791
 
@@ -8,9 +8,9 @@ Users: 9791
 |---:|---|---|---|---|---|---:|
 | 1 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | SAP | wrujel | Lima, Peru | 13480 |
 | 2 | [cesars](https://github.com/cesars) | César Soplín Sánchez | indexante |  | Lima, Perú | 8503 |
-| 3 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales |  | gartiel23 | Peru | 5639 |
-| 4 | [totallynotdavid](https://github.com/totallynotdavid) | David |  |  | Lima, Perú | 5162 |
-| 5 | [nglmercer](https://github.com/nglmercer) | memelser |  |  | Peru | 5062 |
+| 3 | [nglmercer](https://github.com/nglmercer) | memelser |  |  | Peru | 7031 |
+| 4 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales |  | gartiel23 | Peru | 5639 |
+| 5 | [totallynotdavid](https://github.com/totallynotdavid) | David |  |  | Lima, Perú | 5162 |
 | 6 | [cuevaio](https://github.com/cuevaio) | anthony | Humanity | cuevaio | Lima | 4911 |
 | 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo |  |  | Lima | 4616 |
 | 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 4074 |

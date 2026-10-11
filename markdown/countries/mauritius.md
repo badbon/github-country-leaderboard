@@ -16,7 +16,7 @@ Indexed users: 714
 | 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,310 |
 | 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,000 |
 | 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,628 |
-| 5 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,575 |
+| 5 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,584 |
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,184 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,555 |
 | 8 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 5,507 |
@@ -52,7 +52,7 @@ Indexed users: 714
 | 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 851 |
 | 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 672 |
 | 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 632 |
-| 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 626 |
+| 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 629 |
 | 17 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 603 |
 | 18 | [lakubuDavid](https://github.com/lakubuDavid) | Lakubu Mayanda David | Mauritius | 600 |
 | 19 | [ZiadJ](https://github.com/ZiadJ) | Ziad Jeeroburkhan | Mauritius | 563 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-11T14:50:07.885Z
+Generated: 2026-10-11T16:15:09.703Z

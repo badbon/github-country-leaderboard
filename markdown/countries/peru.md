@@ -27,11 +27,11 @@ Indexed users: 9,791
 | 13 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña | Peru | 7,995 |
 | 14 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla | Lima, Peru | 7,963 |
 | 15 | [joekotvas](https://github.com/joekotvas) | Joseph Kotvas | Lima, Peru | 7,823 |
-| 16 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces | Lima | 7,563 |
-| 17 | [harold18m](https://github.com/harold18m) | Harold Medrano | Lima | 7,456 |
-| 18 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz | Lima, Peru | 7,286 |
-| 19 | [TerryCM](https://github.com/TerryCM) | Terry Cruz Melo | Peru | 7,149 |
-| 20 | [UltiRequiem](https://github.com/UltiRequiem) | Eliaz Bobadilla | Lima, Perú | 6,941 |
+| 16 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 7,728 |
+| 17 | [DiegoCru1024](https://github.com/DiegoCru1024) | Diego Cruces | Lima | 7,563 |
+| 18 | [harold18m](https://github.com/harold18m) | Harold Medrano | Lima | 7,456 |
+| 19 | [KiryuuLight](https://github.com/KiryuuLight) | Luis Ortiz | Lima, Peru | 7,286 |
+| 20 | [TerryCM](https://github.com/TerryCM) | Terry Cruz Melo | Peru | 7,149 |
 
 ## Public Contributions
 
@@ -39,9 +39,9 @@ Indexed users: 9,791
 |---:|---|---|---|---:|
 | 1 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | Lima, Peru | 13,480 |
 | 2 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,503 |
-| 3 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales | Peru | 5,639 |
-| 4 | [totallynotdavid](https://github.com/totallynotdavid) | David | Lima, Perú | 5,162 |
-| 5 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 5,062 |
+| 3 | [nglmercer](https://github.com/nglmercer) | memelser | Peru | 7,031 |
+| 4 | [jeancdevx](https://github.com/jeancdevx) | Jeancarlo Morales | Peru | 5,639 |
+| 5 | [totallynotdavid](https://github.com/totallynotdavid) | David | Lima, Perú | 5,162 |
 | 6 | [cuevaio](https://github.com/cuevaio) | anthony | Lima | 4,911 |
 | 7 | [Sve-nnN](https://github.com/Sve-nnN) | Juan Angulo | Lima | 4,616 |
 | 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 4,074 |
@@ -83,4 +83,4 @@ Indexed users: 9,791
 | 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 | 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-11T15:02:20.340Z
+Generated: 2026-10-11T16:26:49.363Z

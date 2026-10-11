@@ -22,16 +22,16 @@ Indexed users: 1,399
 | 8 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,398 |
 | 9 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 4,268 |
 | 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,103 |
-| 11 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
-| 12 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,641 |
-| 13 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 3,624 |
-| 14 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 3,606 |
-| 15 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,460 |
-| 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,407 |
-| 17 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 3,355 |
-| 18 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 3,325 |
-| 19 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,263 |
-| 20 | [juliosolis](https://github.com/juliosolis) | Julio Solis | Nicaragua | 3,141 |
+| 11 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,085 |
+| 12 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
+| 13 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,641 |
+| 14 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 3,624 |
+| 15 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 3,606 |
+| 16 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,460 |
+| 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,407 |
+| 18 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 3,355 |
+| 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 3,325 |
+| 20 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | Nicaragua | 3,263 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,399
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-11T14:56:30.102Z
+Generated: 2026-10-11T16:19:13.480Z

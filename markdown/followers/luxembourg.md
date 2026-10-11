@@ -1,8 +1,8 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-11T14:46:07.782Z
+Generated: 2026-10-11T16:10:35.618Z
 
-Users: 2201
+Users: 2200
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 2201
 | 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies |  | joewdavies | Cardiff / Madrid / Luxembourg | 289 |
 | 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK |  | SvenGDK | Luxembourg | 277 |
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch |  |  | Luxembourg | 275 |
-| 14 | [Moado](https://github.com/Moado) | Moad HANI  | University of Luxembourg  |  | Luxembourg | 268 |
-| 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow |  | Sn0wAlice | Luxembourg | 256 |
-| 16 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | StarObject |  | Luxembourg | 254 |
-| 17 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 225 |
-| 18 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 217 |
-| 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 213 |
-| 20 | [l4rz](https://github.com/l4rz) | Mike K. |  |  | Luxembourg | 194 |
+| 14 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow |  | Sn0wAlice | Luxembourg | 256 |
+| 15 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | StarObject |  | Luxembourg | 254 |
+| 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 225 |
+| 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | @snt-spacer |  | Luxembourg | 223 |
+| 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee |  | erkobridee | Luxembourg | 213 |
+| 19 | [l4rz](https://github.com/l4rz) | Mike K. |  |  | Luxembourg | 194 |
+| 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Amazon | ugorosolia | Luxembourg, Lux | 192 |

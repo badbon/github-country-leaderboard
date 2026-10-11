@@ -1,6 +1,6 @@
 # Luxembourg
 
-Indexed users: 2,201
+Indexed users: 2,200
 
 | Leaderboard | Link |
 |---|---|
@@ -24,14 +24,14 @@ Indexed users: 2,201
 | 10 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
 | 11 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 8,075 |
 | 12 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 7,072 |
-| 13 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
-| 14 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 6,723 |
-| 15 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,477 |
-| 16 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
-| 17 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
-| 18 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
-| 19 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 4,946 |
-| 20 | [lukasjhan](https://github.com/lukasjhan) | Lukas.J.Han | Luxembourg / Luxembourg | 4,765 |
+| 13 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 7,040 |
+| 14 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
+| 15 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 6,723 |
+| 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,477 |
+| 17 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
+| 18 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
+| 19 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
+| 20 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 4,946 |
 
 ## Public Contributions
 
@@ -75,12 +75,12 @@ Indexed users: 2,201
 | 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies | Cardiff / Madrid / Luxembourg | 289 |
 | 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK | Luxembourg | 277 |
 | 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch | Luxembourg | 275 |
-| 14 | [Moado](https://github.com/Moado) | Moad HANI  | Luxembourg | 268 |
-| 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 256 |
-| 16 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | Luxembourg | 254 |
-| 17 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 225 |
-| 18 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 217 |
-| 19 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
-| 20 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
+| 14 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 256 |
+| 15 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | Luxembourg | 254 |
+| 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 225 |
+| 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 223 |
+| 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
+| 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
+| 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-11T14:46:07.782Z
+Generated: 2026-10-11T16:10:35.618Z

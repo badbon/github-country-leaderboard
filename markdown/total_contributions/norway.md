@@ -1,8 +1,8 @@
 # Total Contributions - Norway
 
-Generated: 2026-10-11T14:58:49.170Z
+Generated: 2026-10-11T16:21:29.146Z
 
-Users: 19628
+Users: 19627
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

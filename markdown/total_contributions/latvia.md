@@ -1,8 +1,8 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-11T14:38:15.160Z
+Generated: 2026-10-11T16:08:10.627Z
 
-Users: 3273
+Users: 3272
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,10 +13,10 @@ Users: 3273
 | 5 | [yarlson](https://github.com/yarlson) | Yar Kravtsov |  | yarlson | Riga, Latvia | 12198 |
 | 6 | [ricardomichel](https://github.com/ricardomichel) | Ricardo Michel Reyes | @HostPal-mx  |  | Riga | 10409 |
 | 7 | [ErneG](https://github.com/ErneG) | Ernests Dane | T MEDIA GROUP |  | Latvia | 10310 |
-| 8 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
-| 9 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
-| 10 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 7497 |
-| 11 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 7382 |
+| 8 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 9004 |
+| 9 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 7758 |
+| 10 | [jecis-repos](https://github.com/jecis-repos) | Jecis |  | jecis_ | Latvia | 7539 |
+| 11 | [raimonade](https://github.com/raimonade) | Raimonds Korzenevskis | raykay.dk | raimonade_ | Riga, Latvia | 7497 |
 | 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
 | 13 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
 | 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6594 |

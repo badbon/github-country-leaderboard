@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-11T14:47:53.069Z
+Generated: 2026-10-11T16:12:54.552Z
 
 Users: 1225
 
@@ -12,12 +12,12 @@ Users: 1225
 | 4 | [zcourts](https://github.com/zcourts) | Courtney Robinson | Hypi | zcourts | London (UK), Łodz (Poland), Valletta (Malta) | 14624 |
 | 5 | [kjlibsol](https://github.com/kjlibsol) | Klaus Jensen | Liberatum Solutions Ltd |  | Malta | 12416 |
 | 6 | [exori90](https://github.com/exori90) | exori |  |  | Malta | 10549 |
-| 7 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9402 |
-| 8 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 8837 |
-| 9 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
-| 10 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 8474 |
-| 11 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8337 |
-| 12 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 7672 |
+| 7 | [GabrielGil](https://github.com/GabrielGil) | Gabriel | @redacreltd | GabrielSchlomo | Malta | 10208 |
+| 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Sil van Diepen | silvandiepen | Malta | 9402 |
+| 9 | [polp6880](https://github.com/polp6880) | Paul Portelli | Paul Portelli | polp6880 | Malta | 8837 |
+| 10 | [mattbeedle](https://github.com/mattbeedle) | Matt Beedle |  |  | Malta | 8493 |
+| 11 | [Sml995](https://github.com/Sml995) | Samuel HASSID | @Supplement-Bacon  |  | Sliema, Malta | 8474 |
+| 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8337 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 7574 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7471 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |

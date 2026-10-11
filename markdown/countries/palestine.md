@@ -1,6 +1,6 @@
 # Palestine
 
-Indexed users: 2,206
+Indexed users: 2,205
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 2,206
 | 11 | [moustff](https://github.com/moustff) | Mustafa Salem | Gaza, Palestine. | 5,401 |
 | 12 | [salahy](https://github.com/salahy) | Salah Yahya | Palestine | 5,336 |
 | 13 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh | Jenin, Palestine | 4,581 |
-| 14 | [mghabin](https://github.com/mghabin) | Mohammad Ghabin | Palestine, Ramallah | 4,455 |
-| 15 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 4,300 |
-| 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,108 |
-| 17 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 4,081 |
-| 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 3,560 |
-| 19 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn | Palestine - Ramallah | 3,383 |
-| 20 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora | Palestine | 3,378 |
+| 14 | [farahty](https://github.com/farahty) | Nimer Farahty | Palestine | 4,300 |
+| 15 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi | Palestine, Hebron   | 4,108 |
+| 16 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 4,081 |
+| 17 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi | Gaza, Palestine | 3,560 |
+| 18 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn | Palestine - Ramallah | 3,383 |
+| 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora | Palestine | 3,378 |
+| 20 | [SwAt1563](https://github.com/SwAt1563) | Qutaiba Olayyan | Palestine | 3,264 |
 
 ## Public Contributions
 
@@ -39,24 +39,24 @@ Indexed users: 2,206
 |---:|---|---|---|---:|
 | 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Palestine | 3,974 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2,199 |
-| 3 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan | Palestine | 1,562 |
-| 4 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh | Nablus, Palestine | 1,531 |
-| 5 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 1,464 |
-| 6 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,436 |
-| 7 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh |  Palestine - Ramallah | 1,406 |
-| 8 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | Palestine | 1,193 |
-| 9 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
-| 10 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 982 |
-| 11 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | Palestine, Gaza | 943 |
-| 12 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 922 |
-| 13 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
-| 14 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
-| 15 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 802 |
-| 16 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 774 |
-| 17 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | palestine | 721 |
-| 18 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Palestine | 718 |
-| 19 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Palestine | 717 |
-| 20 | [afnanfayez](https://github.com/afnanfayez) | Afnan Zeiti | Palestine | 710 |
+| 3 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon | Palestine | 1,621 |
+| 4 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan | Palestine | 1,562 |
+| 5 | [darxx03eh](https://github.com/darxx03eh) | Mahmoud Darawsheh | Nablus, Palestine | 1,531 |
+| 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | Palestine | 1,464 |
+| 7 | [Maryam-Skaik](https://github.com/Maryam-Skaik) | Maryam Skaik | Gaza, Palestine | 1,436 |
+| 8 | [KhaledAwashreh](https://github.com/KhaledAwashreh) | Khaled Awashreh |  Palestine - Ramallah | 1,406 |
+| 9 | [OthmanMohammad](https://github.com/OthmanMohammad) | Mohammad Othman | Palestine | 1,193 |
+| 10 | [AlaaArmoush](https://github.com/AlaaArmoush) | Alaa Armoush | Nablus, Palestine | 1,014 |
+| 11 | [fjcj0](https://github.com/fjcj0) | 𝓞𝓜𝓐𝓡 𝓒𝓞𝓓𝓘𝓝𝓖🐉 | Palestine,Ramallah | 982 |
+| 12 | [salahsaeed19](https://github.com/salahsaeed19) | Salah ElDin Saeed Abu Saif | Palestine, Gaza | 943 |
+| 13 | [hussainabuhajjaj](https://github.com/hussainabuhajjaj) | Hussain abu hajjaj | Palestine  | 922 |
+| 14 | [Amer-Abuyaqob](https://github.com/Amer-Abuyaqob) | Amer Abuyaqob | Palestine \|  ✌︎︎ ︎فِلَـسَـٓــِٰٓطٓـيَنُ | 918 |
+| 15 | [Adel-Shurrab](https://github.com/Adel-Shurrab) | Adel Shurrab | Palestine, Gaza, Khan yunis | 816 |
+| 16 | [SamehDheir](https://github.com/SamehDheir) | Sameh Dheir | Palestine/ Gaza | 802 |
+| 17 | [AMD4x](https://github.com/AMD4x) | Ahmed Mustafa | Palestine | 774 |
+| 18 | [eslamalbaik](https://github.com/eslamalbaik) | Eslam AlBaik | palestine | 721 |
+| 19 | [Khalidiqnaibi](https://github.com/Khalidiqnaibi) | khalid iqnaibi | Palestine | 718 |
+| 20 | [Baraa-Rj](https://github.com/Baraa-Rj) | Baraa RJ | Palestine | 717 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,206
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-11T15:00:55.272Z
+Generated: 2026-10-11T16:24:10.421Z

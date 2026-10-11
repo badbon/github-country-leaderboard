@@ -13,7 +13,7 @@ Indexed users: 354
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [xahiru](https://github.com/xahiru) | Ahmed Zahir | Maldives | 11,399 |
-| 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,501 |
+| 2 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 8,543 |
 | 3 | [hilarl](https://github.com/hilarl) | Hilal Agil | Male', Maldives | 8,297 |
 | 4 | [mnazaal](https://github.com/mnazaal) | Nazaal | Maldives | 7,488 |
 | 5 | [mohamed-aiman](https://github.com/mohamed-aiman) | Mohamed Aiman | Maldives | 6,658 |
@@ -55,8 +55,8 @@ Indexed users: 354
 | 16 | [hailam](https://github.com/hailam) | Mohamed Hailam Ahmed | Male`, Maldives | 358 |
 | 17 | [aliaafee](https://github.com/aliaafee) | Ali Aafee | Maldives | 322 |
 | 18 | [athphane](https://github.com/athphane) | Athfan Khaleel | Maldives | 256 |
-| 19 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Maldives | 233 |
-| 20 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 232 |
+| 19 | [WhoIsFishie](https://github.com/WhoIsFishie) | fISHIE | Maldives | 233 |
+| 20 | [WovenCoast](https://github.com/WovenCoast) | FlameXode | Maldives | 233 |
 
 ## Followers
 
@@ -69,7 +69,7 @@ Indexed users: 354
 | 5 | [reallynattu](https://github.com/reallynattu) | Nattu Adnan | Maldives | 116 |
 | 6 | [eyaadh](https://github.com/eyaadh) | eyaadh | Maldives | 101 |
 | 7 | [raftalks](https://github.com/raftalks) | Raf | Maldives | 88 |
-| 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 86 |
+| 8 | [fauzaanu](https://github.com/fauzaanu) | Fauzaan Gasim | Maldives | 85 |
 | 9 | [aharen](https://github.com/aharen) | Ahmed Khusaam | Malé, Maldives | 79 |
 | 10 | [Z3d0X](https://github.com/Z3d0X) | ZedoX | Maldives | 79 |
 | 11 | [Glaisher](https://github.com/Glaisher) | Mohamed Yooshau | Maldives | 71 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-11T14:47:42.853Z
+Generated: 2026-10-11T16:12:16.578Z

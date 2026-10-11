@@ -12,8 +12,8 @@ Indexed users: 891
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 14,740 |
-| 2 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 13,532 |
+| 1 | [Hatshepsuth](https://github.com/Hatshepsuth) | Katja | Montenegro | 14,785 |
+| 2 | [zenalex](https://github.com/zenalex) | Aleksei | Budva, Montenegro | 14,740 |
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 13,529 |
 | 4 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,397 |
 | 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,289 |
@@ -83,4 +83,4 @@ Indexed users: 891
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-11T14:52:24.153Z
+Generated: 2026-10-11T16:16:31.865Z

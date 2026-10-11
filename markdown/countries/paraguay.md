@@ -63,7 +63,7 @@ Indexed users: 2,016
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Paraguay | 2,012 |
-| 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 590 |
+| 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Asunción | 592 |
 | 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Asunción, Paraguay | 527 |
 | 4 | [crodas](https://github.com/crodas) | C | Asunción, Paraguay | 424 |
 | 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla | Paraguay | 387 |
@@ -72,7 +72,7 @@ Indexed users: 2,016
 | 8 | [Tom5521](https://github.com/Tom5521) | Tom | Paraguay | 230 |
 | 9 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes | Paraguay | 213 |
 | 10 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić | Paraguay | 197 |
-| 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 183 |
+| 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | Asunción, Paraguay | 182 |
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 181 |
 | 13 | [garyservin](https://github.com/garyservin) | Gary Servin | Asunción - Paraguay | 154 |
 | 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Asunción, Paraguay | 148 |
@@ -83,4 +83,4 @@ Indexed users: 2,016
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 117 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-11T15:02:16.282Z
+Generated: 2026-10-11T16:26:13.142Z

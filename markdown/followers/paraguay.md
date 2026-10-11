@@ -1,13 +1,13 @@
 # Followers - Paraguay
 
-Generated: 2026-10-11T15:02:16.282Z
+Generated: 2026-10-11T16:26:13.142Z
 
 Users: 2016
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [matiasinsaurralde](https://github.com/matiasinsaurralde) | Matías Insaurralde | Chainloop, Inc. |  | Paraguay | 2012 |
-| 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Paraguay |  | Asunción | 590 |
+| 2 | [biagiola](https://github.com/biagiola) | David Biagiola | Paraguay |  | Asunción | 592 |
 | 3 | [lexzer42](https://github.com/lexzer42) | Oscar Rojas | Banco Continental SAECA |  | Asunción, Paraguay | 527 |
 | 4 | [crodas](https://github.com/crodas) | C |  |  | Asunción, Paraguay | 424 |
 | 5 | [blaszorrilla](https://github.com/blaszorrilla) | Blas Zorrilla |  |  | Paraguay | 387 |
@@ -16,7 +16,7 @@ Users: 2016
 | 8 | [Tom5521](https://github.com/Tom5521) | Tom |  | _ThomasIsBored | Paraguay | 230 |
 | 9 | [nemesiscodex](https://github.com/nemesiscodex) | Julio Daniel Reyes |  | nemesiscodex | Paraguay | 213 |
 | 10 | [prolic](https://github.com/prolic) | Sascha-Oliver Prolić |  |  | Paraguay | 197 |
-| 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | FullStack Labs | AbdelPerez11 | Asunción, Paraguay | 183 |
+| 11 | [abdelp](https://github.com/abdelp) | Abdel Pérez Téllez | FullStack Labs | AbdelPerez11 | Asunción, Paraguay | 182 |
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 181 |
 | 13 | [garyservin](https://github.com/garyservin) | Gary Servin | @locusrobotics  | garyservin | Asunción - Paraguay | 154 |
 | 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 148 |
