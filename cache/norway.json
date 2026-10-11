@@ -13207,8 +13207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 6,
-    "publicContributions": 10,
+    "privateContributions": 1,
+    "publicContributions": 22,
     "createdAt": "2023-08-15T15:14:36Z"
   },
   {
@@ -13219,8 +13219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 517,
-    "publicContributions": 25,
+    "privateContributions": 556,
+    "publicContributions": 32,
     "createdAt": "2023-08-15T11:56:02Z"
   },
   {
@@ -13230,22 +13230,10 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 35,
     "createdAt": "2023-08-13T17:35:42Z"
-  },
-  {
-    "login": "rootmarkexe",
-    "name": "Mkrtchyan Mark",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/141444049?s=72&u=a14b30c180fb46babe6cde5aee6385fa0c6ce451&v=4",
-    "location": "Flåm, Norway",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 108,
-    "createdAt": "2023-08-04T17:18:09Z"
   },
   {
     "login": "YounesBB",
@@ -13255,8 +13243,8 @@
     "company": "University of Oslo",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 194,
-    "publicContributions": 130,
+    "privateContributions": 191,
+    "publicContributions": 131,
     "createdAt": "2023-02-21T13:47:18Z"
   },
   {
@@ -13267,8 +13255,8 @@
     "company": "UiT - arctic university of Norway",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 21,
-    "publicContributions": 70,
+    "privateContributions": 41,
+    "publicContributions": 112,
     "createdAt": "2023-02-16T13:18:52Z"
   },
   {
@@ -13290,9 +13278,9 @@
     "location": "Stavanger, Norway",
     "company": "Boitano AS",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 34,
+    "followers": 5,
+    "privateContributions": 1182,
+    "publicContributions": 66,
     "createdAt": "2023-03-02T10:19:12Z"
   },
   {
@@ -13303,8 +13291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 281,
-    "publicContributions": 132,
+    "privateContributions": 270,
+    "publicContributions": 30,
     "createdAt": "2023-01-10T20:47:50Z"
   },
   {
@@ -13315,8 +13303,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 451,
-    "publicContributions": 116,
+    "privateContributions": 378,
+    "publicContributions": 40,
     "createdAt": "2023-08-17T16:33:19Z"
   },
   {
@@ -13327,8 +13315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 63,
-    "publicContributions": 236,
+    "privateContributions": 132,
+    "publicContributions": 180,
     "createdAt": "2023-08-21T09:46:39Z"
   },
   {
@@ -13340,7 +13328,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 90,
     "createdAt": "2023-01-15T17:41:11Z"
   },
   {
@@ -13350,7 +13338,7 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 56,
     "publicContributions": 8,
     "createdAt": "2023-02-11T22:19:15Z"
@@ -13388,18 +13376,18 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 128,
     "createdAt": "2023-10-10T14:31:15Z"
   },
   {
     "login": "ricboer0",
     "name": "Riccardo Boero",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154505067?s=72&u=a96dfad5f5debf503542019f277801e996e0162d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/154505067?s=72&u=c38debebef2d9ffea41067d9b66286729274ad4c&v=4",
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 6,
+    "privateContributions": 20,
     "publicContributions": 1864,
     "createdAt": "2023-12-21T08:34:56Z"
   },
@@ -13411,7 +13399,7 @@
     "company": "PolarCS",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1061,
+    "privateContributions": 956,
     "publicContributions": 8,
     "createdAt": "2023-01-12T16:43:29Z"
   },
@@ -13423,8 +13411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 479,
-    "publicContributions": 73,
+    "privateContributions": 515,
+    "publicContributions": 56,
     "createdAt": "2023-08-24T12:24:19Z"
   },
   {
@@ -13436,7 +13424,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 143,
     "createdAt": "2023-04-16T11:36:44Z"
   },
   {

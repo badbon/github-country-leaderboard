@@ -13159,8 +13159,8 @@
     "company": "@BDATA-YGN",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1007,
-    "publicContributions": 9,
+    "privateContributions": 991,
+    "publicContributions": 12,
     "createdAt": "2020-11-25T04:09:48Z"
   },
   {
@@ -13170,7 +13170,7 @@
     "location": "Yangon, Myanmar",
     "company": "FPT Software",
     "twitterUsername": "nay_soewin",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2020-03-14T15:08:19Z"
@@ -13254,7 +13254,7 @@
     "location": "Mandalay, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-04-28T13:41:00Z"
@@ -13282,18 +13282,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-08-06T18:06:11Z"
-  },
-  {
-    "login": "whispermmepub",
-    "name": "AungSoe Moe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61192036?s=72&u=7207cfdad3bb99319590a8d1534b91cb6333125b&v=4",
-    "location": "🇲🇲 Myanmar",
-    "company": "",
-    "twitterUsername": "WhisperW69842",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 432,
-    "createdAt": "2020-02-18T12:51:38Z"
   },
   {
     "login": "techaung7",
@@ -13326,9 +13314,9 @@
     "location": "No. 101, Poemyay ward, Mingalar Taung Nyunt Township, Yangon, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-11-17T02:25:11Z"
   },
   {

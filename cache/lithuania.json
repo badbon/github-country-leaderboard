@@ -13184,20 +13184,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 662,
+    "publicContributions": 871,
     "createdAt": "2021-02-10T13:31:23Z"
-  },
-  {
-    "login": "Monte-M",
-    "name": "Mantas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86341106?s=72&u=f12dd9ee34c1e4b03d14e6ec57a001e9b13c03e1&v=4",
-    "location": "Kaunas, Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-06-23T05:48:38Z"
   },
   {
     "login": "owoloschin",
@@ -13226,7 +13214,7 @@
   {
     "login": "TautvydasJavaisis0",
     "name": "Tautvydas Javaisis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79303638?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/79303638?s=72&u=e2cd13efa7a1188a4aae2b6e88295ae455049403&v=4",
     "location": "Vilnius/Lithuania",
     "company": "",
     "twitterUsername": "",
@@ -13266,9 +13254,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "sausage_noods",
-    "followers": 67,
-    "privateContributions": 49,
-    "publicContributions": 66,
+    "followers": 69,
+    "privateContributions": 56,
+    "publicContributions": 59,
     "createdAt": "2021-05-19T12:45:07Z"
   },
   {
@@ -13279,7 +13267,7 @@
     "company": "Vilnius Coding School",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 7,
+    "privateContributions": 6,
     "publicContributions": 3,
     "createdAt": "2021-12-22T16:37:42Z"
   },
@@ -13303,8 +13291,8 @@
     "company": "freelance",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 750,
-    "publicContributions": 61,
+    "privateContributions": 1078,
+    "publicContributions": 63,
     "createdAt": "2021-04-30T09:10:26Z"
   },
   {
@@ -13315,7 +13303,7 @@
     "company": "GURTAM (wialon)",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 419,
+    "privateContributions": 840,
     "publicContributions": 15,
     "createdAt": "2021-05-21T17:05:43Z"
   },
@@ -13326,9 +13314,9 @@
     "location": "Vilnius",
     "company": "@Knowledgator",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 164,
-    "publicContributions": 208,
+    "followers": 23,
+    "privateContributions": 129,
+    "publicContributions": 223,
     "createdAt": "2021-01-14T19:28:18Z"
   },
   {
@@ -13338,7 +13326,7 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 19,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2021-05-17T11:26:06Z"
@@ -13363,8 +13351,8 @@
     "company": "Systems Engineer | Embedded Linux • Architecture • Leadership",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 125,
-    "publicContributions": 361,
+    "privateContributions": 96,
+    "publicContributions": 402,
     "createdAt": "2021-03-13T13:46:25Z"
   },
   {
@@ -13374,9 +13362,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 39,
     "createdAt": "2021-04-19T15:48:04Z"
   },
   {
@@ -13386,9 +13374,9 @@
     "location": "Vilnius",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 15,
-    "publicContributions": 72,
+    "publicContributions": 49,
     "createdAt": "2021-05-28T20:05:14Z"
   },
   {
