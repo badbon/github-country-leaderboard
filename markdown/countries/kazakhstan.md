@@ -71,7 +71,7 @@ Indexed users: 5,663
 | 7 | [artemnovichkov](https://github.com/artemnovichkov) | Artem Novichkov | Almaty, Kazakhstan | 579 |
 | 8 | [exentrich](https://github.com/exentrich) | Rustem Mussabekov | Astana | 574 |
 | 9 | [kekekeks](https://github.com/kekekeks) | Nikita Tsukanov | Kazakhstan, Astana | 527 |
-| 10 | [andreikhromushin](https://github.com/andreikhromushin) | Andrei Khromushin | Kazakhstan, Astana | 522 |
+| 10 | [andreikhromushin](https://github.com/andreikhromushin) | Andrei Khromushin | Kazakhstan, Astana | 510 |
 | 11 | [adilkhash](https://github.com/adilkhash) | Adylzhan Khashtamov | Astana, Kazakhstan | 466 |
 | 12 | [D-Mass-RR](https://github.com/D-Mass-RR) | Alan Mit | Astana, Kazakhstan | 445 |
 | 13 | [ykmnkmi](https://github.com/ykmnkmi) | Olzhas Suleimen | Kazakhstan, Almaty | 437 |
@@ -83,4 +83,4 @@ Indexed users: 5,663
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-12T01:02:09.398Z
+Generated: 2026-10-12T02:05:12.307Z

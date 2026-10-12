@@ -24,7 +24,7 @@ Indexed users: 1,770
 | 10 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Victoria, BC | 7,135 |
 | 11 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis | Victoria, BC | 6,893 |
 | 12 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 6,686 |
-| 13 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,537 |
+| 13 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,561 |
 | 14 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 6,535 |
 | 15 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
 | 16 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 5,663 |
@@ -65,7 +65,7 @@ Indexed users: 1,770
 | 1 | [isovector](https://github.com/isovector) | Sandy Maguire | Victoria, BC | 1,312 |
 | 2 | [dcaoyuan](https://github.com/dcaoyuan) | Caoyuan Deng | Victoria, B.C. Canada | 928 |
 | 3 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 727 |
-| 4 | [ChrisPenner](https://github.com/ChrisPenner) | Chris Penner | Victoria BC, CA | 488 |
+| 4 | [ChrisPenner](https://github.com/ChrisPenner) | Chris Penner | Victoria BC, CA | 492 |
 | 5 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 464 |
 | 6 | [jasoncwarner](https://github.com/jasoncwarner) | Jason Warner | Victoria, BC | 394 |
 | 7 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 249 |
@@ -81,6 +81,6 @@ Indexed users: 1,770
 | 17 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | Victoria | 136 |
 | 18 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | Seychelles | 128 |
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
-| 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 119 |
+| 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 120 |
 
-Generated: 2026-10-12T01:22:24.134Z
+Generated: 2026-10-12T02:24:20.462Z

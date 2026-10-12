@@ -1,6 +1,6 @@
 # Nepal
 
-Indexed users: 14,133
+Indexed users: 14,132
 
 | Leaderboard | Link |
 |---|---|
@@ -78,9 +78,9 @@ Indexed users: 14,133
 | 14 | [Rorychhattish](https://github.com/Rorychhattish) | Chhatish kumar Sah | Janakpur, Nepal | 1,014 |
 | 15 | [vijaythapa333](https://github.com/vijaythapa333) | Vijay Thapa | Kathmandu, Nepal | 946 |
 | 16 | [iamtekson](https://github.com/iamtekson) | Tek Kshetri | Nepal | 935 |
-| 17 | [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1) | Ritesh Chauhan | Birgunj , Nepal | 860 |
-| 18 | [sanamhub](https://github.com/sanamhub) | Sanam | Nepal | 838 |
-| 19 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
-| 20 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
+| 17 | [sanamhub](https://github.com/sanamhub) | Sanam | Nepal | 838 |
+| 18 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
+| 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
+| 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-12T01:12:33.424Z
+Generated: 2026-10-12T02:14:00.428Z

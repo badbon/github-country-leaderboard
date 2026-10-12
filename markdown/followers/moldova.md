@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-12T01:10:00.049Z
+Generated: 2026-10-12T02:11:51.224Z
 
 Users: 1754
 
@@ -11,12 +11,12 @@ Users: 1754
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 516 |
 | 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai |  |  | Republic of Moldova | 356 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | itcare.net |  | Chisinau, Moldova | 349 |
-| 6 | [mgutu](https://github.com/mgutu) | Maria Gutu | IPLT "Spiru Haret" |  | Republica Moldova | 289 |
-| 7 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | @Planable | nicubarbaros | Moldova | 281 |
-| 8 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | BIT Soft |  | Moldova | 257 |
+| 6 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Adtelligent Inc. |  | Moldova | 293 |
+| 7 | [mgutu](https://github.com/mgutu) | Maria Gutu | IPLT "Spiru Haret" |  | Republica Moldova | 289 |
+| 8 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | @Planable | nicubarbaros | Moldova | 281 |
 | 9 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 205 |
 | 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman |  |  | Moldova, Tiraspol | 194 |
-| 11 | [steevehook](https://github.com/steevehook) | Steve Hook | @steevehook | steevehook | Chisinau, Moldova | 190 |
+| 11 | [steevehook](https://github.com/steevehook) | Steve Hook | @steevehook | steevehook | Chisinau, Moldova | 187 |
 | 12 | [Ywxig](https://github.com/Ywxig) | Ywxig |  |  | Moldova Chisinau  | 179 |
 | 13 | [vova07](https://github.com/vova07) | Vasile C. |  |  | Chișinău, Moldova | 171 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | zugzwang lab |  | ulmu, laloveni, Moldova | 155 |

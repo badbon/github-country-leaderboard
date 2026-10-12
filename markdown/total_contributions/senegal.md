@@ -1,8 +1,8 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-12T01:21:54.547Z
+Generated: 2026-10-12T02:23:55.533Z
 
-Users: 1357
+Users: 1356
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,12 +16,12 @@ Users: 1357
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 6373 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 6295 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | kamit digital | ndiaga_dev | Dakar | 5639 |
-| 11 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Zone01 Dakar | okinobal | Dakar, Senegal | 5296 |
-| 12 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 5019 |
-| 13 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 4785 |
-| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 4679 |
-| 15 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 4385 |
-| 16 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Moussa Ndour |  | Dakar | 4337 |
+| 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Moussa Ndour |  | Dakar | 5557 |
+| 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Zone01 Dakar | okinobal | Dakar, Senegal | 5296 |
+| 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 5019 |
+| 14 | [crossben](https://github.com/crossben) |  |  |  | Dakar | 4785 |
+| 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  |  |  | Dakar, Sénégal | 4679 |
+| 16 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 4385 |
 | 17 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Ridwan Technologie |  | Dakar | 4228 |
 | 18 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | @efficity | eliusx | Senegal | 4201 |
 | 19 | [lonie12](https://github.com/lonie12) | Yxie |  | lonie73919967 | Dakar, Senegal | 4092 |

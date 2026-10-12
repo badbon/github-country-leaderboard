@@ -13,7 +13,7 @@ Indexed users: 360
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 30,326 |
-| 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 19,004 |
+| 2 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 18,822 |
 | 3 | [Bee777](https://github.com/Bee777) | Bee | Vientiane | 5,070 |
 | 4 | [TKXDev](https://github.com/TKXDev) | TKXDev | Vientiane,Laos | 4,965 |
 | 5 | [Black13313](https://github.com/Black13313) | Phonepaseuth Keodouangchit | Laos | 4,478 |
@@ -23,7 +23,7 @@ Indexed users: 360
 | 9 | [chanthavong](https://github.com/chanthavong) | Jan Jao | Vientiane, Laos | 2,546 |
 | 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai | Vientiane, Laos | 2,249 |
 | 11 | [vilasone455](https://github.com/vilasone455) |  | Laos | 1,950 |
-| 12 | [Thanakone123](https://github.com/Thanakone123) | Un | Laos | 1,797 |
+| 12 | [Thanakone123](https://github.com/Thanakone123) | Un | Laos | 1,840 |
 | 13 | [Anousack789](https://github.com/Anousack789) | Anousack | Vientiane | 1,732 |
 | 14 | [BounkhongDev](https://github.com/BounkhongDev) | BounkhongDev | Vientiane, laos | 1,677 |
 | 15 | [Phounn](https://github.com/Phounn) |  | Laos | 1,555 |
@@ -68,8 +68,8 @@ Indexed users: 360
 | 4 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab | Vientiane, Lao | 37 |
 | 5 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin | Laos | 36 |
 | 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 32 |
-| 7 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI | ວຽງຈັນ, Laos | 27 |
-| 8 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | Vientiane, Laos | 26 |
+| 7 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | Vientiane, Laos | 27 |
+| 8 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI | ວຽງຈັນ, Laos | 27 |
 | 9 | [huevangxp](https://github.com/huevangxp) | Hue Vang | laos | 24 |
 | 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai | Vientiane, Laos | 24 |
 | 11 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | Vientiane, Laos | 24 |
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-12T01:05:39.292Z
+Generated: 2026-10-12T02:05:45.909Z

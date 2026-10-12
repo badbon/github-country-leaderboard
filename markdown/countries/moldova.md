@@ -67,12 +67,12 @@ Indexed users: 1,754
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev | Moldova, Eastern Europe | 516 |
 | 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai | Republic of Moldova | 356 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | Chisinau, Moldova | 349 |
-| 6 | [mgutu](https://github.com/mgutu) | Maria Gutu | Republica Moldova | 289 |
-| 7 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | Moldova | 281 |
-| 8 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Moldova | 257 |
+| 6 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Moldova | 293 |
+| 7 | [mgutu](https://github.com/mgutu) | Maria Gutu | Republica Moldova | 289 |
+| 8 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | Moldova | 281 |
 | 9 | [sighook](https://github.com/sighook) | Alex Savca | Moldova | 205 |
 | 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman | Moldova, Tiraspol | 194 |
-| 11 | [steevehook](https://github.com/steevehook) | Steve Hook | Chisinau, Moldova | 190 |
+| 11 | [steevehook](https://github.com/steevehook) | Steve Hook | Chisinau, Moldova | 187 |
 | 12 | [Ywxig](https://github.com/Ywxig) | Ywxig | Moldova Chisinau  | 179 |
 | 13 | [vova07](https://github.com/vova07) | Vasile C. | Chișinău, Moldova | 171 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | ulmu, laloveni, Moldova | 155 |
@@ -83,4 +83,4 @@ Indexed users: 1,754
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-12T01:10:00.049Z
+Generated: 2026-10-12T02:11:51.224Z

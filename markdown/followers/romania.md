@@ -1,6 +1,6 @@
 # Followers - Romania
 
-Generated: 2026-10-12T01:18:54.549Z
+Generated: 2026-10-12T02:21:03.452Z
 
 Users: 14989
 

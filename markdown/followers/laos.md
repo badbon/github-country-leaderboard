@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-12T01:05:39.292Z
+Generated: 2026-10-12T02:05:45.909Z
 
 Users: 360
 
@@ -12,8 +12,8 @@ Users: 360
 | 4 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |
 | 5 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 36 |
 | 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 32 |
-| 7 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
-| 8 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 26 |
+| 7 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 27 |
+| 8 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |
 | 9 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 24 |
 | 10 | [khatthaphone](https://github.com/khatthaphone) | Khatthaphone Sengvilai |  |  | Vientiane, Laos | 24 |
 | 11 | [Tedev555](https://github.com/Tedev555) | Thanongsine Chanthakham | http://tedory.me |  | Vientiane, Laos | 24 |

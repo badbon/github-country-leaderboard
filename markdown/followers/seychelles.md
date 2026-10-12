@@ -1,6 +1,6 @@
 # Followers - Seychelles
 
-Generated: 2026-10-12T01:22:24.134Z
+Generated: 2026-10-12T02:24:20.462Z
 
 Users: 1770
 
@@ -9,7 +9,7 @@ Users: 1770
 | 1 | [isovector](https://github.com/isovector) | Sandy Maguire |  |  | Victoria, BC | 1312 |
 | 2 | [dcaoyuan](https://github.com/dcaoyuan) | Caoyuan Deng | VibeTrader | dcaoyuan | Victoria, B.C. Canada | 928 |
 | 3 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | AppVeyor Systems Inc. |  | Victoria, BC | 727 |
-| 4 | [ChrisPenner](https://github.com/ChrisPenner) | Chris Penner | Unison Computing | chrislpenner | Victoria BC, CA | 488 |
+| 4 | [ChrisPenner](https://github.com/ChrisPenner) | Chris Penner | Unison Computing | chrislpenner | Victoria BC, CA | 492 |
 | 5 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | @neondatabase | clarkbw | Victoria, BC | 464 |
 | 6 | [jasoncwarner](https://github.com/jasoncwarner) | Jason Warner | Poolside | jasoncwarner | Victoria, BC | 394 |
 | 7 | [naomiaro](https://github.com/naomiaro) | Naomi | @moises-ai | naomiaro | Victoria, BC | 249 |
@@ -25,4 +25,4 @@ Users: 1770
 | 17 | [jodygarnett](https://github.com/jodygarnett) | Jody Garnett | GeoCat Canada |  | Victoria | 136 |
 | 18 | [PandaVPN](https://github.com/PandaVPN) | PandaVPN® | PandaVPN Official |  | Seychelles | 128 |
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Cherish Community Living  |  | Victoria BC Canada | 122 |
-| 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 119 |
+| 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 120 |

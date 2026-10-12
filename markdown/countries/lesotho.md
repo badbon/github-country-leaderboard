@@ -13,7 +13,7 @@ Indexed users: 160
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 7,387 |
-| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,343 |
+| 2 | [KNkoe](https://github.com/KNkoe) | Katleho Nkoe | Maseru | 2,349 |
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 2,273 |
 | 4 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali | Lesotho | 1,995 |
 | 5 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 1,950 |
@@ -26,7 +26,7 @@ Indexed users: 160
 | 12 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 508 |
 | 13 | [MissPurrple](https://github.com/MissPurrple) | Miss Purple | Lesotho  | 430 |
 | 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 344 |
-| 15 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 295 |
+| 15 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 292 |
 | 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 290 |
 | 17 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 263 |
 | 18 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 249 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-12T01:06:18.168Z
+Generated: 2026-10-12T02:05:56.218Z

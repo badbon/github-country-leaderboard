@@ -1,6 +1,6 @@
 # Senegal
 
-Indexed users: 1,357
+Indexed users: 1,356
 
 | Leaderboard | Link |
 |---|---|
@@ -22,12 +22,12 @@ Indexed users: 1,357
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué | Dakar | 6,373 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 6,295 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | Dakar | 5,639 |
-| 11 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,296 |
-| 12 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
-| 13 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
-| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
-| 15 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
-| 16 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group \| Innolink | Dakar | 4,337 |
+| 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Dakar | 5,557 |
+| 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,296 |
+| 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
+| 14 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
+| 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
+| 16 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
 | 17 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
 | 18 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 4,201 |
 | 19 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,092 |
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-12T01:21:54.547Z
+Generated: 2026-10-12T02:23:55.533Z

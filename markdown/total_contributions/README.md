@@ -115,7 +115,7 @@ Published countries: 234
 | Kuwait | 798 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,454 | [View](./kyrgyzstan.md) |
 | Laos | 360 | [View](./laos.md) |
-| Latvia | 3,268 | [View](./latvia.md) |
+| Latvia | 3,267 | [View](./latvia.md) |
 | Lebanon | 2,575 | [View](./lebanon.md) |
 | Lesotho | 160 | [View](./lesotho.md) |
 | Liberia | 209 | [View](./liberia.md) |
@@ -147,7 +147,7 @@ Published countries: 234
 | Myanmar | 2,071 | [View](./myanmar.md) |
 | Namibia | 476 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
-| Nepal | 14,133 | [View](./nepal.md) |
+| Nepal | 14,132 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
 | New Zealand | 12,153 | [View](./new_zealand.md) |
 | Nicaragua | 1,396 | [View](./nicaragua.md) |
@@ -167,9 +167,9 @@ Published countries: 234
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,016 | [View](./paraguay.md) |
 | Peru | 9,789 | [View](./peru.md) |
-| Philippines | 19,801 | [View](./philippines.md) |
+| Philippines | 19,800 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,463 | [View](./portugal.md) |
+| Portugal | 28,462 | [View](./portugal.md) |
 | Puerto Rico | 1,539 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -187,7 +187,7 @@ Published countries: 234
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
 | Saudi Arabia | 7,751 | [View](./saudi_arabia.md) |
-| Senegal | 1,357 | [View](./senegal.md) |
+| Senegal | 1,356 | [View](./senegal.md) |
 | Serbia | 10,671 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
 | Sierra Leone | 443 | [View](./sierra_leone.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,342 | [View](./zambia.md) |
 | Zimbabwe | 1,653 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-12T02:04:02.312Z
+Generated: 2026-10-12T02:25:21.513Z

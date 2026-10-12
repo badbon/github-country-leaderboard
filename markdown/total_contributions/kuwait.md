@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-12T01:04:56.870Z
+Generated: 2026-10-12T02:05:21.869Z
 
 Users: 798
 
@@ -15,14 +15,14 @@ Users: 798
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5330 |
 | 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5274 |
 | 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5240 |
-| 10 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4120 |
-| 11 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 3909 |
-| 12 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3660 |
-| 13 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3623 |
-| 14 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 3599 |
+| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4181 |
+| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4120 |
+| 12 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 3909 |
+| 13 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3660 |
+| 14 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3623 |
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3567 |
 | 16 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3525 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3493 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3454 |
-| 19 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3272 |
-| 20 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3057 |
+| 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3386 |
+| 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3272 |

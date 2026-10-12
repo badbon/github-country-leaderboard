@@ -1,8 +1,8 @@
 # Followers - Nepal
 
-Generated: 2026-10-12T01:12:33.424Z
+Generated: 2026-10-12T02:14:00.428Z
 
-Users: 14133
+Users: 14132
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 14133
 | 14 | [Rorychhattish](https://github.com/Rorychhattish) | Chhatish kumar Sah |  |  | Janakpur, Nepal | 1014 |
 | 15 | [vijaythapa333](https://github.com/vijaythapa333) | Vijay Thapa |  | thevijaythapa | Kathmandu, Nepal | 946 |
 | 16 | [iamtekson](https://github.com/iamtekson) | Tek Kshetri | The Solution Stack | iamtekson | Nepal | 935 |
-| 17 | [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1) | Ritesh Chauhan |  |  | Birgunj , Nepal | 860 |
-| 18 | [sanamhub](https://github.com/sanamhub) | Sanam | SEA | sanampakuwal | Nepal | 838 |
-| 19 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | @Digital-Pathshala |  | Itahari, Sunsari, Nepal | 815 |
-| 20 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire |  |  | Nepal | 755 |
+| 17 | [sanamhub](https://github.com/sanamhub) | Sanam | SEA | sanampakuwal | Nepal | 838 |
+| 18 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | @Digital-Pathshala |  | Itahari, Sunsari, Nepal | 815 |
+| 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire |  |  | Nepal | 755 |
+| 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini |  | amrit_twts_ | Kathmandu, Nepal | 747 |
