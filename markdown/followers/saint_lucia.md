@@ -1,6 +1,6 @@
 # Followers - Saint Lucia
 
-Generated: 2026-10-12T17:07:00.901Z
+Generated: 2026-10-12T18:26:31.126Z
 
 Users: 35
 
@@ -16,8 +16,8 @@ Users: 35
 | 8 | [NMonKLabs77](https://github.com/NMonKLabs77) | Nehemiah Monrose |  |  | Saint Lucia | 10 |
 | 9 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | kingship |  | Saint Lucia | 9 |
 | 10 | [granges0storage](https://github.com/granges0storage) | Lidia St |  |  | Saint Lucia | 6 |
-| 11 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 6 |
-| 12 | [LDECODES](https://github.com/LDECODES) | Leon Evans |  |  | Saint Lucia | 5 |
+| 11 | [LDECODES](https://github.com/LDECODES) | Leon Evans |  |  | Saint Lucia | 5 |
+| 12 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 5 |
 | 13 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio |  | bxnes_97 | Saint Lucia | 4 |
 | 14 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo |  |  | Castries, Saint Lucia | 4 |
 | 15 | [jigzstar](https://github.com/jigzstar) | Joakim George | Saint Lucia NIC |  | Castries, Saint Lucia | 4 |

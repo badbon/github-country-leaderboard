@@ -1,6 +1,6 @@
 # Followers - Malta
 
-Generated: 2026-10-12T16:51:05.756Z
+Generated: 2026-10-12T18:09:36.905Z
 
 Users: 1225
 
@@ -12,7 +12,7 @@ Users: 1225
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | Ethernity Cloud Ltd | Ethernity_cloud | St. Julians, Malta | 525 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Guru inc. | xiaocong | Malta | 475 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo |  |  | Malta | 440 |
-| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | MCAST IICT, Paola |  | Malta | 366 |
+| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | MCAST IICT, Paola |  | Malta | 370 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Schirp DSO LTD | mbjschirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  |  |  | Malta | 259 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | @frain-dev  | rtukpe | Luqa, Malta | 243 |

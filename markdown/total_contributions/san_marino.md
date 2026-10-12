@@ -1,6 +1,6 @@
 # Total Contributions - San Marino
 
-Generated: 2026-10-12T17:08:35.373Z
+Generated: 2026-10-12T18:28:51.757Z
 
 Users: 61
 
@@ -8,15 +8,15 @@ Users: 61
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 13566 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 9757 |
-| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4230 |
+| 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno |  |  | San Marino | 4241 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 3151 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | UC Berkeley |  | San Marino, California | 2315 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris |  |  | San Marino | 2282 |
-| 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2172 |
+| 7 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 2189 |
 | 8 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 2066 |
 | 9 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 855 |
 | 10 | [thu105](https://github.com/thu105) | Hein Moe Thu |  |  | San Marino, CA | 765 |
-| 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | @prestalia |  | San Marino | 747 |
+| 11 | [gennaris](https://github.com/gennaris) | Simone Gennari | @prestalia |  | San Marino | 749 |
 | 12 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 733 |
 | 13 | [lmacchiavelli](https://github.com/lmacchiavelli) | Lorenzo Macchiavelli | 22lab |  | San Marino | 483 |
 | 14 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 343 |

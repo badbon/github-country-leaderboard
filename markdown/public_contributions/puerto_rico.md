@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-12T17:05:28.669Z
+Generated: 2026-10-12T18:23:11.665Z
 
 Users: 1538
 
@@ -11,12 +11,12 @@ Users: 1538
 | 3 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
 | 4 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 5162 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4798 |
-| 6 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 3100 |
-| 7 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 2993 |
-| 8 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2672 |
-| 9 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 2615 |
-| 10 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1685 |
-| 11 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 1337 |
+| 6 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 3411 |
+| 7 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 3100 |
+| 8 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 2993 |
+| 9 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2672 |
+| 10 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 2615 |
+| 11 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1685 |
 | 12 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1331 |
 | 13 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | @LinkPR |  | Guaynabo, Puerto Rico | 1306 |
 | 14 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1140 |

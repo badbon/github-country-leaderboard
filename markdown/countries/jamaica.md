@@ -1,6 +1,6 @@
 # Jamaica
 
-Indexed users: 1,274
+Indexed users: 1,275
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,274
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-12T18:01:39.777Z
+Generated: 2026-10-12T18:12:31.217Z

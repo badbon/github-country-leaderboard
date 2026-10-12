@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,798
+Indexed users: 19,797
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 19,798
 | 19 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 | 20 | [lxsmnsyc](https://github.com/lxsmnsyc) | Alexis H. Munsayac | Philippines | 602 |
 
-Generated: 2026-10-12T17:04:14.560Z
+Generated: 2026-10-12T18:22:01.036Z

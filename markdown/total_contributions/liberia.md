@@ -1,6 +1,6 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-12T16:44:52.919Z
+Generated: 2026-10-12T18:07:22.321Z
 
 Users: 209
 
@@ -19,8 +19,8 @@ Users: 209
 | 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1123 |
 | 12 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 866 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 859 |
-| 14 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | LoneScore | daddys_boy_21 | Monrovia, Liberia | 807 |
-| 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | The SchoolMate |  | Airfield, Sinkor, Monrovia, Liberia | 781 |
+| 14 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | The SchoolMate |  | Airfield, Sinkor, Monrovia, Liberia | 807 |
+| 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | LoneScore | daddys_boy_21 | Monrovia, Liberia | 807 |
 | 16 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Vendorad |  | Liberia | 768 |
 | 17 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 719 |
 | 18 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa |  | knasumo | Monrovia, Liberia | 634 |

@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-12T16:51:41.677Z
+Generated: 2026-10-12T18:10:56.352Z
 
 Users: 714
 
@@ -13,7 +13,7 @@ Users: 714
 | 5 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6584 |
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6334 |
 | 7 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 6134 |
-| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5555 |
+| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5557 |
 | 9 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 5226 |
 | 10 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5217 |
 | 11 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 5159 |

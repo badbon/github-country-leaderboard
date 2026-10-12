@@ -26,12 +26,12 @@ Indexed users: 1,770
 | 12 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 6,686 |
 | 13 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,561 |
 | 14 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 6,535 |
-| 15 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
-| 16 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 5,663 |
-| 17 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,331 |
-| 18 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 5,248 |
-| 19 | [matchdav](https://github.com/matchdav) | Matthew Davidson | Victoria | 5,223 |
-| 20 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Saanichton BC (aka part of Victoria BC) | 5,132 |
+| 15 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 6,120 |
+| 16 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
+| 17 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,835 |
+| 18 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 5,663 |
+| 19 | [jmoseley](https://github.com/jmoseley) | Jeremy Moseley | Victoria BC | 5,652 |
+| 20 | [troymcginnis](https://github.com/troymcginnis) | Troy McGinnis | Victoria, BC | 5,383 |
 
 ## Public Contributions
 
@@ -40,17 +40,17 @@ Indexed users: 1,770
 | 1 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 8,787 |
 | 2 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 5,488 |
 | 3 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 4,109 |
-| 4 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,444 |
+| 4 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,584 |
 | 5 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 3,166 |
 | 6 | [CijeTheCreator](https://github.com/CijeTheCreator) | Chijioke (Akaolisa) Osadebe | Victoria Island, Lagos | 2,345 |
 | 7 | [eliotmcintire](https://github.com/eliotmcintire) | Eliot McIntire | Victoria, BC | 2,228 |
 | 8 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 2,173 |
 | 9 | [arcshiftsolutions](https://github.com/arcshiftsolutions) | Marco Villeneuve | Victoria, BC | 2,116 |
 | 10 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 1,991 |
-| 11 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Victoria, BC - Canada | 1,889 |
-| 12 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
-| 13 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,779 |
-| 14 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,748 |
+| 11 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 1,927 |
+| 12 | [shreypdev](https://github.com/shreypdev) | Shrey Patel | Victoria, BC - Canada | 1,889 |
+| 13 | [Nospamas](https://github.com/Nospamas) |  | Victoria, BC | 1,851 |
+| 14 | [Zhonghao1995](https://github.com/Zhonghao1995) | Zhonghao Zhang | Victoria BC | 1,779 |
 | 15 | [jamubc](https://github.com/jamubc) |  | Victoria, BC | 1,581 |
 | 16 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 1,523 |
 | 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,506 |
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 120 |
 
-Generated: 2026-10-12T17:09:59.753Z
+Generated: 2026-10-12T18:30:40.913Z

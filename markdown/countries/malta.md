@@ -24,13 +24,13 @@ Indexed users: 1,225
 | 10 | [polp6880](https://github.com/polp6880) | Paul Portelli | Malta | 8,837 |
 | 11 | [Sml995](https://github.com/Sml995) | Samuel HASSID | Sliema, Malta | 8,474 |
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,337 |
-| 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
+| 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 8,219 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,471 |
 | 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,327 |
 | 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,238 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,652 |
-| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
+| 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,628 |
 | 20 | [kevinfarrugia](https://github.com/kevinfarrugia) | Kevin Farrugia | Malta | 5,552 |
 
 ## Public Contributions
@@ -68,7 +68,7 @@ Indexed users: 1,225
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 525 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 475 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 440 |
-| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 366 |
+| 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 370 |
 | 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 259 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-12T16:51:05.756Z
+Generated: 2026-10-12T18:09:36.905Z

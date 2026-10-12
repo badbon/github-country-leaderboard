@@ -23,14 +23,14 @@ Indexed users: 354
 | 9 | [hashes02](https://github.com/hashes02) | HASHES | Maldives | 5,589 |
 | 10 | [nullptrz](https://github.com/nullptrz) | Ali Ahsan Saeed | Maldives | 5,429 |
 | 11 | [jaaahh](https://github.com/jaaahh) | Jaah | Maldives | 4,965 |
-| 12 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,835 |
+| 12 | [roris](https://github.com/roris) | Thoail Ahmed | Maldives | 4,840 |
 | 13 | [agent306](https://github.com/agent306) | Ncodex | Male', Maldives | 4,803 |
 | 14 | [NeXsHeLL](https://github.com/NeXsHeLL) | ismile ThuThts | Maldives | 4,784 |
 | 15 | [muizzu](https://github.com/muizzu) | Muizzu Abbas | Maldives | 4,674 |
-| 16 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,500 |
-| 17 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,489 |
+| 16 | [ayarse](https://github.com/ayarse) | ayaz | Maldives | 4,662 |
+| 17 | [maldivien](https://github.com/maldivien) | Ahmed Shareef | Maldives | 4,500 |
 | 18 | [samynmhd](https://github.com/samynmhd) | Mohamed Sameen Firaq | Maldives | 4,146 |
-| 19 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,064 |
+| 19 | [whosaynow](https://github.com/whosaynow) | whosaynow | Maldives | 4,060 |
 | 20 | [ismailshuaau](https://github.com/ismailshuaau) | Ismail Shuaau | Male', Maldives | 4,041 |
 
 ## Public Contributions
@@ -48,7 +48,7 @@ Indexed users: 354
 | 9 | [crockalet](https://github.com/crockalet) |  | Maldives | 640 |
 | 10 | [fallenbagel](https://github.com/fallenbagel) |  | Maldives | 637 |
 | 11 | [N4ZEN](https://github.com/N4ZEN) | Naza | Maldives | 498 |
-| 12 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 440 |
+| 12 | [chipaau](https://github.com/chipaau) | ahmed shifau | Maldives | 453 |
 | 13 | [Ghoul4500](https://github.com/Ghoul4500) | Ahmed Yaseen | Maldives | 423 |
 | 14 | [xSil3nt](https://github.com/xSil3nt) | Shazin | Male', Maldives | 420 |
 | 15 | [M-IYAAADH](https://github.com/M-IYAAADH) | Mohamed Iyaadh | Male' , Maldives | 366 |
@@ -83,4 +83,4 @@ Indexed users: 354
 | 19 | [Dharisd](https://github.com/Dharisd) |  | maldives | 41 |
 | 20 | [muhannad0](https://github.com/muhannad0) | Monde | Maldives | 41 |
 
-Generated: 2026-10-12T16:50:20.742Z
+Generated: 2026-10-12T18:09:29.867Z

@@ -13,7 +13,7 @@ Indexed users: 1,073
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 19,403 |
-| 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,302 |
+| 2 | [MohammedTarigg](https://github.com/MohammedTarigg) | Mohamed Nour | Qatar | 14,278 |
 | 3 | [nirzaf](https://github.com/nirzaf) | M.F.M Fazrin | Doha - Qatar | 11,950 |
 | 4 | [Alaaeldin-Said](https://github.com/Alaaeldin-Said) | Alaaeldin Said | Qatar | 8,943 |
 | 5 | [Kin230k](https://github.com/Kin230k) | Kinan Kassab | Doha, Qatar | 8,721 |
@@ -47,8 +47,8 @@ Indexed users: 1,073
 | 8 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 1,406 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,389 |
 | 10 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 1,077 |
-| 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,044 |
-| 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,040 |
+| 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,052 |
+| 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,044 |
 | 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Qatar | 970 |
 | 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini | Doha | 904 |
 | 15 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Qatar | 896 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 101 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 
-Generated: 2026-10-12T17:05:34.231Z
+Generated: 2026-10-12T18:23:16.764Z

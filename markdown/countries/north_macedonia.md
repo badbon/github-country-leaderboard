@@ -1,6 +1,6 @@
 # North Macedonia
 
-Indexed users: 1,932
+Indexed users: 1,931
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,932
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-12T16:59:31.134Z
+Generated: 2026-10-12T18:19:07.711Z

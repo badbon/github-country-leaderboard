@@ -12,9 +12,9 @@ Indexed users: 35
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,152 |
+| 1 | [jarnickae](https://github.com/jarnickae) |  | Castries, Saint Lucia | 7,177 |
 | 2 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 4,006 |
-| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,707 |
+| 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 3,735 |
 | 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor | Saint Lucia | 2,004 |
 | 5 | [leadegroot](https://github.com/leadegroot) | Lea de Groot | Saint Lucia | 1,035 |
 | 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | Saint Lucia | 1,031 |
@@ -72,8 +72,8 @@ Indexed users: 35
 | 8 | [NMonKLabs77](https://github.com/NMonKLabs77) | Nehemiah Monrose | Saint Lucia | 10 |
 | 9 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | Saint Lucia | 9 |
 | 10 | [granges0storage](https://github.com/granges0storage) | Lidia St | Saint Lucia | 6 |
-| 11 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 6 |
-| 12 | [LDECODES](https://github.com/LDECODES) | Leon Evans | Saint Lucia | 5 |
+| 11 | [LDECODES](https://github.com/LDECODES) | Leon Evans | Saint Lucia | 5 |
+| 12 | [wilsonwolf](https://github.com/wilsonwolf) |  | Castries, Saint Lucia | 5 |
 | 13 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio | Saint Lucia | 4 |
 | 14 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo | Castries, Saint Lucia | 4 |
 | 15 | [jigzstar](https://github.com/jigzstar) | Joakim George | Castries, Saint Lucia | 4 |
@@ -83,4 +83,4 @@ Indexed users: 35
 | 19 | [PGPillar](https://github.com/PGPillar) | H | Saint Lucia | 3 |
 | 20 | [fontius](https://github.com/fontius) |  | Saint Lucia | 2 |
 
-Generated: 2026-10-12T17:07:00.901Z
+Generated: 2026-10-12T18:26:31.126Z

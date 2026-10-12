@@ -42,12 +42,12 @@ Indexed users: 1,538
 | 3 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
 | 4 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,798 |
-| 6 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
-| 7 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
-| 8 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
-| 9 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
-| 10 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,685 |
-| 11 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 1,337 |
+| 6 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
+| 7 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
+| 8 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
+| 9 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
+| 10 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
+| 11 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,685 |
 | 12 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,331 |
 | 13 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Guaynabo, Puerto Rico | 1,306 |
 | 14 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,140 |
@@ -83,4 +83,4 @@ Indexed users: 1,538
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 121 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 
-Generated: 2026-10-12T17:05:28.669Z
+Generated: 2026-10-12T18:23:11.665Z

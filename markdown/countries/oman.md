@@ -1,6 +1,6 @@
 # Oman
 
-Indexed users: 995
+Indexed users: 994
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 995
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-12T17:00:45.518Z
+Generated: 2026-10-12T18:19:17.320Z

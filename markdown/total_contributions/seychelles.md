@@ -1,6 +1,6 @@
 # Total Contributions - Seychelles
 
-Generated: 2026-10-12T17:09:59.753Z
+Generated: 2026-10-12T18:30:40.913Z
 
 Users: 1770
 
@@ -20,9 +20,9 @@ Users: 1770
 | 12 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Space95 |  | Seychelles | 6686 |
 | 13 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | @kohofinancial  |  | Victoria, BC | 6561 |
 | 14 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Digitalspace Consulting Inc. |  | Victoria, BC | 6535 |
-| 15 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
-| 16 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Well Health Technologies |  | Victoria BC | 5663 |
-| 17 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5331 |
-| 18 | [FigBug](https://github.com/FigBug) | Roland Rabien |  | SocaLabs | Victoria, BC | 5248 |
-| 19 | [matchdav](https://github.com/matchdav) | Matthew Davidson | @metacogdev  |  | Victoria | 5223 |
-| 20 | [dewolfe001](https://github.com/dewolfe001) | Shawn DeWolfe | Web 321 | web321co | Saanichton BC (aka part of Victoria BC) | 5132 |
+| 15 | [shinybrar](https://github.com/shinybrar) | shiny. | Canadian Astronomy Data Centre |  | Victoria, BC | 6120 |
+| 16 | [levibe](https://github.com/levibe) | Levi Bucsis | @momentumdash  | levibucsis | Victoria, BC | 5868 |
+| 17 | [igboyes](https://github.com/igboyes) | Ian Boyes |  |  | Victoria | 5835 |
+| 18 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Well Health Technologies |  | Victoria BC | 5663 |
+| 19 | [jmoseley](https://github.com/jmoseley) | Jeremy Moseley | @microsoft @github |  | Victoria BC | 5652 |
+| 20 | [troymcginnis](https://github.com/troymcginnis) | Troy McGinnis |  |  | Victoria, BC | 5383 |

@@ -1,6 +1,6 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-12T17:05:34.231Z
+Generated: 2026-10-12T18:23:16.764Z
 
 Users: 1073
 
@@ -16,8 +16,8 @@ Users: 1073
 | 8 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 1406 |
 | 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1389 |
 | 10 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 1077 |
-| 11 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1044 |
-| 12 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1040 |
+| 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1052 |
+| 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1044 |
 | 13 | [rm1dev](https://github.com/rm1dev) | Reza Moghaddam | Romak |  | Qatar | 970 |
 | 14 | [kevinpiac](https://github.com/kevinpiac) | Kevin Piacentini |  | kevinpiac | Doha | 904 |
 | 15 | [shafiiiq](https://github.com/shafiiiq) | Muhammed Shafeek | Al Ansari |  | Qatar | 896 |
