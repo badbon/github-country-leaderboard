@@ -15104,7 +15104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-02-16T11:06:07Z"
   },
   {
@@ -15115,8 +15115,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3124,
-    "publicContributions": 254,
+    "privateContributions": 4094,
+    "publicContributions": 199,
     "createdAt": "2023-01-26T21:53:07Z"
   },
   {
@@ -15136,7 +15136,7 @@
     "name": "Yasaman Maleki",
     "avatarUrl": "https://avatars.githubusercontent.com/u/135819040?s=72&u=1649a52027b51f620ecddb5863109dfa6e2dbbe5&v=4",
     "location": "Norway",
-    "company": "",
+    "company": "IMR",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -15164,7 +15164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 31,
     "createdAt": "2023-06-29T11:01:25Z"
   },
   {
@@ -15174,9 +15174,9 @@
     "location": "Bergen, Norway",
     "company": "University of Bergen",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 238,
-    "publicContributions": 103,
+    "followers": 3,
+    "privateContributions": 215,
+    "publicContributions": 134,
     "createdAt": "2023-06-07T20:36:37Z"
   },
   {
@@ -15186,7 +15186,7 @@
     "location": "Norway",
     "company": "Symbiose AS",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-10T09:00:45Z"
@@ -15260,7 +15260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 124,
     "createdAt": "2023-08-28T06:43:13Z"
   },
   {
@@ -15284,7 +15284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2023-02-14T17:58:45Z"
   },
   {
@@ -15308,7 +15308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 46,
     "createdAt": "2023-02-10T15:47:06Z"
   },
   {
@@ -15331,8 +15331,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 288,
-    "publicContributions": 56,
+    "privateContributions": 338,
+    "publicContributions": 29,
     "createdAt": "2023-02-20T20:40:11Z"
   },
   {

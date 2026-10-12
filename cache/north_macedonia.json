@@ -15344,7 +15344,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 16,
     "createdAt": "2017-06-28T17:41:01Z"
   },
   {
@@ -15361,13 +15361,13 @@
   },
   {
     "login": "anthones",
-    "name": "Antonie Dimovski",
+    "name": "Antoan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25478459?s=72&u=36ca6cd932cff050d635b8d380539f0d292ee2d6&v=4",
     "location": "Skopje",
     "company": "",
-    "twitterUsername": "antoniedimovski",
-    "followers": 2,
-    "privateContributions": 76,
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 94,
     "publicContributions": 18,
     "createdAt": "2017-02-01T10:13:05Z"
   },
@@ -15414,9 +15414,9 @@
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 75,
     "createdAt": "2017-12-02T23:11:21Z"
   },
   {
@@ -15474,7 +15474,7 @@
     "location": "Sveti Nikole, Macedonia  🌎 🗺️",
     "company": "",
     "twitterUsername": "",
-    "followers": 207,
+    "followers": 225,
     "privateContributions": 0,
     "publicContributions": 340,
     "createdAt": "2016-01-14T00:45:32Z"
@@ -15486,9 +15486,9 @@
     "location": "Skopje, Macedonia",
     "company": "@CCExtractor",
     "twitterUsername": "",
-    "followers": 173,
+    "followers": 178,
     "privateContributions": 1,
-    "publicContributions": 229,
+    "publicContributions": 175,
     "createdAt": "2016-11-29T19:06:49Z"
   },
   {
@@ -15499,7 +15499,7 @@
     "company": "@OrangeMelons",
     "twitterUsername": "",
     "followers": 172,
-    "privateContributions": 515,
+    "privateContributions": 293,
     "publicContributions": 0,
     "createdAt": "2016-10-07T12:38:42Z"
   },
@@ -15510,9 +15510,9 @@
     "location": "Bitola, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 68,
-    "privateContributions": 359,
-    "publicContributions": 374,
+    "followers": 75,
+    "privateContributions": 634,
+    "publicContributions": 423,
     "createdAt": "2016-10-25T18:12:36Z"
   },
   {
@@ -15522,22 +15522,10 @@
     "location": "Macedonia",
     "company": "IWinBack",
     "twitterUsername": "zaebalovek",
-    "followers": 59,
-    "privateContributions": 374,
-    "publicContributions": 550,
+    "followers": 60,
+    "privateContributions": 495,
+    "publicContributions": 555,
     "createdAt": "2016-12-26T07:03:42Z"
-  },
-  {
-    "login": "nanorocks",
-    "name": "Andrej Nankov, MSc.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18250654?s=72&u=f3a227d98c0c14abc0aaf16e4a78227344d63fb6&v=4",
-    "location": "Skopje, Macedonia",
-    "company": "Quipu GmbH",
-    "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 658,
-    "publicContributions": 271,
-    "createdAt": "2016-04-03T21:09:56Z"
   },
   {
     "login": "bkolosk1",
