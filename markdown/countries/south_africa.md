@@ -27,10 +27,10 @@ Indexed users: 17,944
 | 13 | [presidentGift](https://github.com/presidentGift) | Gift Zikalala | South Africa | 16,380 |
 | 14 | [AGM1968](https://github.com/AGM1968) |  | South Africa | 15,687 |
 | 15 | [TheRealJamesRussell](https://github.com/TheRealJamesRussell) | James Russell | South Africa | 15,525 |
-| 16 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Cape Town | 14,732 |
-| 17 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
-| 18 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Cape Town | 13,764 |
-| 19 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 13,162 |
+| 16 | [BitnationAI](https://github.com/BitnationAI) | Chad | South Africa | 15,302 |
+| 17 | [edwynmoss](https://github.com/edwynmoss) | Edwyn Moss | Cape Town | 14,732 |
+| 18 | [DG-za](https://github.com/DG-za) | Stefan Els | Pretoria, South Africa | 13,794 |
+| 19 | [costa-developer](https://github.com/costa-developer) | Tendai Gumunyu | Cape Town | 13,764 |
 | 20 | [tawanike](https://github.com/tawanike) | Tawanda Makunike | Sandton, South Africa | 13,017 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 17,944
 | 19 | [peterp](https://github.com/peterp) | Peter Pistorius | South Africa | 639 |
 | 20 | [mortolian](https://github.com/mortolian) | Gideon Schoonbee | Western Cape, South Africa | 632 |
 
-Generated: 2026-10-12T09:56:26.992Z
+Generated: 2026-10-12T11:04:12.680Z

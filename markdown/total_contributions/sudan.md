@@ -1,13 +1,13 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-12T09:56:41.576Z
+Generated: 2026-10-12T11:05:09.677Z
 
 Users: 729
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online |  |  | Khartoum, Sudan | 10133 |
-| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein |  | TheYass1n | Sudan | 7531 |
+| 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein |  | TheYass1n | Sudan | 7594 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Banan IT |  | Farog Diyab St, Mamora, Khartoum, Sudan | 5370 |
 | 4 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | Emad777_ | Sudan | 4875 |
 | 5 | [hacktolove](https://github.com/hacktolove) | Ashraf Alhaj | Sudan News Agency - Suna |  | Sudan | 4738 |
@@ -23,6 +23,6 @@ Users: 729
 | 15 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2552 |
 | 16 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Sudan University of Science and Technology  | AminOmerM | Khartoum, Sudan | 2536 |
 | 17 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Taawuniya Insurance Company | osman_abd | Sudan / Khartoum | 2529 |
-| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 2234 |
+| 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 2215 |
 | 19 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Tamkeen Technology | cre_al | Sudan | 2021 |
 | 20 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 1861 |
