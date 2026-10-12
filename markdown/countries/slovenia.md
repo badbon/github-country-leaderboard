@@ -28,10 +28,10 @@ Indexed users: 3,103
 | 14 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
 | 15 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
 | 16 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
-| 17 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
-| 18 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
-| 19 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
-| 20 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | Ljubljana | 6,551 |
+| 17 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | Slovenia | 6,861 |
+| 18 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
+| 19 | [some1else](https://github.com/some1else) | Srđan Prodanović | Slovenia | 6,574 |
+| 20 | [tfius](https://github.com/tfius) | Tadej Fius | Slovenia | 6,568 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,103
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-12T07:42:05.320Z
+Generated: 2026-10-12T08:46:38.337Z

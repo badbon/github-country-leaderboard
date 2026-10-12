@@ -1,6 +1,6 @@
 # Public Contributions - Somalia
 
-Generated: 2026-10-12T07:42:35.340Z
+Generated: 2026-10-12T08:47:23.196Z
 
 Users: 867
 
@@ -22,7 +22,7 @@ Users: 867
 | 14 | [khaledyusuf44](https://github.com/khaledyusuf44) | Khalid Yusuf Dahir |  | khaledyusuf44 | Mogadishu | 605 |
 | 15 | [karimsaabir9](https://github.com/karimsaabir9) | Sabir Salad Hassan |  | karimsaabir9 | Mogadishu-Somalia | 594 |
 | 16 | [hayle01](https://github.com/hayle01) |  Mohamed Abdirahim |  |  | Mogadishu, Somalia | 572 |
-| 17 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir |  |  | Mogadishu-Somalia | 555 |
-| 18 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 537 |
+| 17 | [mohamedbashirnux](https://github.com/mohamedbashirnux) | Maxamett Bashir |  |  | Mogadishu-Somalia | 562 |
+| 18 | [marshaale](https://github.com/marshaale) |  |  |  | Somalia | 538 |
 | 19 | [hafsahassan23](https://github.com/hafsahassan23) | Hafsa Hassan Ahmed | Zamzam University of Science and Technology | HafsaHaajji | Mogadishu-Somalia | 529 |
 | 20 | [IshakAbdiazizHussen](https://github.com/IshakAbdiazizHussen) | Ishak Abdiaziz Hussein | Independent Software Engineer \| AI Engineer  |  | Mogadisho, Somalia | 511 |

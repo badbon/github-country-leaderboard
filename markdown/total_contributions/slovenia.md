@@ -1,6 +1,6 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-12T07:42:05.320Z
+Generated: 2026-10-12T08:46:38.337Z
 
 Users: 3103
 
@@ -22,7 +22,7 @@ Users: 3103
 | 14 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Mediately |  | Ljubljana | 8383 |
 | 15 | [matija2209](https://github.com/matija2209) | Matija Žiberna | We Hate Copy Pasting |  | Slovenia | 8260 |
 | 16 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 7042 |
-| 17 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
-| 18 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
-| 19 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
-| 20 | [barisgit](https://github.com/barisgit) | Blaž Aristovnik | @Paxia-team  |  | Ljubljana | 6551 |
+| 17 | [omeratagunn](https://github.com/omeratagunn) | Ömer Atagün | SAP | OmerAtagun | Slovenia | 6861 |
+| 18 | [jurej1](https://github.com/jurej1) | Jure Jures |  |  | Slovenia | 6645 |
+| 19 | [some1else](https://github.com/some1else) | Srđan Prodanović |  |  | Slovenia | 6574 |
+| 20 | [tfius](https://github.com/tfius) | Tadej Fius | MediaAtlas |  | Slovenia | 6568 |
