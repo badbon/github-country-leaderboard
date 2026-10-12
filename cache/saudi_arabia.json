@@ -15800,7 +15800,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2023-11-25T16:06:44Z"
   },
   {
@@ -15834,9 +15834,9 @@
     "location": "Riyadh, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 929,
-    "publicContributions": 80,
+    "followers": 2,
+    "privateContributions": 969,
+    "publicContributions": 125,
     "createdAt": "2023-11-26T18:59:12Z"
   },
   {
@@ -15848,7 +15848,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 162,
+    "publicContributions": 174,
     "createdAt": "2023-04-28T19:18:59Z"
   },
   {
@@ -15870,9 +15870,9 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 31,
     "createdAt": "2023-07-13T15:58:33Z"
   },
   {
@@ -15894,20 +15894,20 @@
     "location": "Saudi Arabia",
     "company": "LRGEX",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 52,
     "createdAt": "2023-03-16T11:11:05Z"
   },
   {
     "login": "elswefy",
     "name": "Bassem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153991394?s=72&u=0231c38c23f8ac4f437b9c7004ef6629f5d84102&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153991394?s=72&u=a53ff0a170ffc5d363dba517fc509d503558eb49&v=4",
     "location": "Riyadh, Saudi Arabia",
     "company": "QBE Digital Solutions",
     "twitterUsername": "des_bassem",
     "followers": 1,
-    "privateContributions": 70,
+    "privateContributions": 97,
     "publicContributions": 11,
     "createdAt": "2023-12-16T11:17:42Z"
   },
@@ -15920,7 +15920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 57,
     "createdAt": "2023-07-04T15:02:02Z"
   },
   {
@@ -15954,9 +15954,9 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 35,
     "createdAt": "2023-01-15T18:41:22Z"
   },
   {

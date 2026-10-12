@@ -15920,7 +15920,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2013-03-12T12:16:19Z"
   },
   {
@@ -16003,8 +16003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 387,
-    "publicContributions": 22,
+    "privateContributions": 372,
+    "publicContributions": 27,
     "createdAt": "2013-08-05T13:32:19Z"
   },
   {
@@ -16014,9 +16014,9 @@
     "location": "Cayey, Puerto Rico",
     "company": "R1 Software",
     "twitterUsername": "lfontanez",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 242,
+    "publicContributions": 234,
     "createdAt": "2013-06-17T13:31:26Z"
   },
   {
@@ -16039,7 +16039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 138,
-    "privateContributions": 635,
+    "privateContributions": 611,
     "publicContributions": 0,
     "createdAt": "2013-02-01T15:08:24Z"
   },
@@ -16051,8 +16051,8 @@
     "company": "@finboxio ",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 388,
-    "publicContributions": 41,
+    "privateContributions": 294,
+    "publicContributions": 37,
     "createdAt": "2013-03-09T23:56:09Z"
   },
   {
@@ -16062,9 +16062,9 @@
     "location": "San Juan, PR",
     "company": "",
     "twitterUsername": "andrewbroz",
-    "followers": 36,
-    "privateContributions": 899,
-    "publicContributions": 501,
+    "followers": 35,
+    "privateContributions": 2104,
+    "publicContributions": 627,
     "createdAt": "2013-03-22T17:31:56Z"
   },
   {
@@ -16076,7 +16076,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2013-09-29T22:36:57Z"
   },
   {
@@ -16087,7 +16087,7 @@
     "company": "ML & Simulation Engineer at @Gauntlet-xyz ",
     "twitterUsername": "alifier1",
     "followers": 22,
-    "privateContributions": 868,
+    "privateContributions": 951,
     "publicContributions": 1,
     "createdAt": "2013-07-25T10:50:55Z"
   },
@@ -16098,7 +16098,7 @@
     "location": "San Juan Argentina",
     "company": "UNSJ",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-31T20:14:11Z"
@@ -16123,8 +16123,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 10,
-    "publicContributions": 18,
+    "privateContributions": 34,
+    "publicContributions": 20,
     "createdAt": "2013-06-07T17:41:45Z"
   },
   {

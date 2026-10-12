@@ -15799,8 +15799,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 217,
-    "publicContributions": 129,
+    "privateContributions": 236,
+    "publicContributions": 49,
     "createdAt": "2022-06-15T21:52:05Z"
   },
   {
@@ -15811,8 +15811,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
-    "publicContributions": 1,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2022-09-14T06:07:23Z"
   },
   {
@@ -15836,7 +15836,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 36,
     "createdAt": "2022-09-04T03:23:45Z"
   },
   {
@@ -15870,9 +15870,9 @@
     "location": "Auckland, New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 169,
     "createdAt": "2022-08-24T21:17:48Z"
   },
   {
@@ -15882,9 +15882,9 @@
     "location": "Auckland, New Zealand",
     "company": "University of Auckland",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 679,
-    "publicContributions": 14,
+    "followers": 3,
+    "privateContributions": 676,
+    "publicContributions": 12,
     "createdAt": "2022-06-21T11:09:06Z"
   },
   {
@@ -15894,9 +15894,9 @@
     "location": "New Zealand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2022-06-23T05:32:29Z"
   },
   {
@@ -15908,7 +15908,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-04-20T07:06:51Z"
   },
   {
@@ -15948,18 +15948,6 @@
     "createdAt": "2022-10-10T02:52:31Z"
   },
   {
-    "login": "hd2s",
-    "name": "Harsh Singh ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114851603?s=72&u=bae5051e0a361a8a83411ded2bd21624d912df82&v=4",
-    "location": "New Zealand",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 24,
-    "createdAt": "2022-10-02T07:34:17Z"
-  },
-  {
     "login": "mkd7x",
     "name": "Michael",
     "avatarUrl": "https://avatars.githubusercontent.com/u/110014548?s=72&v=4",
@@ -15968,7 +15956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2022-07-26T06:13:07Z"
   },
   {
@@ -15980,7 +15968,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 38,
     "createdAt": "2022-12-22T00:07:05Z"
   },
   {
@@ -15990,9 +15978,9 @@
     "location": "New Zealand",
     "company": "Logan Park High School",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 56,
     "createdAt": "2022-10-01T13:06:21Z"
   },
   {

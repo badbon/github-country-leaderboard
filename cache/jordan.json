@@ -15703,8 +15703,8 @@
     "company": "",
     "twitterUsername": "MhamdNaserEdden",
     "followers": 9,
-    "privateContributions": 4147,
-    "publicContributions": 246,
+    "privateContributions": 102,
+    "publicContributions": 260,
     "createdAt": "2022-10-10T06:09:52Z"
   },
   {
@@ -15715,7 +15715,7 @@
     "company": "OHG",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 8,
+    "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2022-07-08T10:44:17Z"
   },
@@ -15726,7 +15726,7 @@
     "location": "Jordan",
     "company": "Abo2Msh3al",
     "twitterUsername": "Abo2msh3al",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-10-07T20:32:02Z"
@@ -15738,8 +15738,8 @@
     "location": "Jordan",
     "company": "@vardot",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 12,
+    "followers": 10,
+    "privateContributions": 15,
     "publicContributions": 5,
     "createdAt": "2022-12-14T20:21:29Z"
   },
@@ -15750,7 +15750,7 @@
     "location": "jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-08T21:21:05Z"
@@ -15798,7 +15798,7 @@
     "location": "Amman, Jordan",
     "company": "@RuhulStudio ",
     "twitterUsername": "alkhazaliih",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2022-02-12T15:51:37Z"
@@ -15810,9 +15810,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 723,
-    "publicContributions": 3,
+    "followers": 6,
+    "privateContributions": 1218,
+    "publicContributions": 10,
     "createdAt": "2022-04-11T11:57:59Z"
   },
   {
@@ -15824,7 +15824,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 57,
     "createdAt": "2022-03-27T16:24:16Z"
   },
   {
@@ -15834,7 +15834,7 @@
     "location": "Jordan Amman",
     "company": "BluLogix",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2022-10-21T13:12:34Z"
@@ -15847,8 +15847,8 @@
     "company": "@Solutions-Now",
     "twitterUsername": "OsamaAssaf2k",
     "followers": 8,
-    "privateContributions": 6284,
-    "publicContributions": 163,
+    "privateContributions": 6443,
+    "publicContributions": 49,
     "createdAt": "2021-12-29T09:09:01Z"
   },
   {
@@ -15870,9 +15870,9 @@
     "location": "Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2022-09-14T22:15:24Z"
   },
   {
@@ -15882,33 +15882,21 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 286,
+    "followers": 9,
+    "privateContributions": 241,
     "publicContributions": 71,
     "createdAt": "2022-10-26T11:39:35Z"
   },
   {
-    "login": "ISlmaanE",
-    "name": "slmaan albeady",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98796293?s=72&u=dda896d160fca5d64b6553475c4040577c526bf9&v=4",
-    "location": "jordan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1161,
-    "publicContributions": 0,
-    "createdAt": "2022-02-01T04:51:10Z"
-  },
-  {
     "login": "rnadjqaim",
     "name": "Renad Jqaim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103530494?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103530494?s=72&u=38b8a1f4f9becdd0d74c01ba3b5ece2230e6b302&v=4",
     "location": "Amman Jordan",
     "company": "Open Source",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 15,
-    "publicContributions": 22,
+    "followers": 11,
+    "privateContributions": 13,
+    "publicContributions": 23,
     "createdAt": "2022-04-12T18:25:37Z"
   },
   {
@@ -15930,9 +15918,9 @@
     "location": "Amman Jordan ",
     "company": "Paramount Computer Systems",
     "twitterUsername": "MoTech00",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 688,
+    "publicContributions": 708,
     "createdAt": "2022-06-10T14:09:46Z"
   },
   {

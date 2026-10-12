@@ -15992,7 +15992,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2012-02-10T16:41:37Z"
   },
   {
@@ -16015,7 +16015,7 @@
     "company": "",
     "twitterUsername": "luismejiadev",
     "followers": 68,
-    "privateContributions": 0,
+    "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2011-09-15T16:31:10Z"
   },
@@ -16026,8 +16026,8 @@
     "location": "Diriamba, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 52,
-    "privateContributions": 46,
+    "followers": 53,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2011-09-15T23:34:21Z"
   },
@@ -16038,9 +16038,9 @@
     "location": "Nicaragua",
     "company": "@nicasource & @clov3rlabs ",
     "twitterUsername": "chrux",
-    "followers": 47,
+    "followers": 48,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 40,
     "createdAt": "2011-02-10T14:16:17Z"
   },
   {
@@ -16050,7 +16050,7 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 45,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-01-05T07:00:35Z"
@@ -16074,8 +16074,8 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 316,
+    "followers": 32,
+    "privateContributions": 309,
     "publicContributions": 0,
     "createdAt": "2011-07-22T15:04:34Z"
   },
@@ -16087,7 +16087,7 @@
     "company": "@fathom-video",
     "twitterUsername": "mdelaossa",
     "followers": 29,
-    "privateContributions": 1037,
+    "privateContributions": 959,
     "publicContributions": 2,
     "createdAt": "2011-06-27T02:01:39Z"
   },
@@ -16099,8 +16099,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 1055,
-    "publicContributions": 2,
+    "privateContributions": 1142,
+    "publicContributions": 0,
     "createdAt": "2011-02-02T14:12:53Z"
   },
   {
@@ -16110,9 +16110,9 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "rubone02",
-    "followers": 20,
-    "privateContributions": 454,
-    "publicContributions": 23,
+    "followers": 22,
+    "privateContributions": 738,
+    "publicContributions": 24,
     "createdAt": "2011-09-12T00:53:23Z"
   },
   {
@@ -16122,7 +16122,7 @@
     "location": "Managua, Nicaragua",
     "company": "Nisum",
     "twitterUsername": "luchonetvv",
-    "followers": 17,
+    "followers": 18,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2011-09-22T02:13:30Z"
@@ -16146,7 +16146,7 @@
     "location": "Managua, Nicaragua",
     "company": "Segunda Vuelta",
     "twitterUsername": "desamaru",
-    "followers": 13,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2011-07-24T20:48:53Z"
@@ -16170,9 +16170,9 @@
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 3224,
-    "publicContributions": 382,
+    "followers": 12,
+    "privateContributions": 4727,
+    "publicContributions": 640,
     "createdAt": "2011-11-26T01:00:12Z"
   },
   {
@@ -16219,8 +16219,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 3136,
-    "publicContributions": 5,
+    "privateContributions": 2676,
+    "publicContributions": 19,
     "createdAt": "2011-08-11T21:58:37Z"
   },
   {
