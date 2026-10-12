@@ -80,7 +80,7 @@ Indexed users: 1,801
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | Douala, Cameroon | 221 |
 | 17 | [Clovremix](https://github.com/Clovremix) |  | Yaounde Cameroon  | 179 |
 | 18 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
-| 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 172 |
-| 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
+| 19 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
+| 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 
-Generated: 2026-10-12T09:08:42.447Z
+Generated: 2026-10-12T10:18:31.503Z

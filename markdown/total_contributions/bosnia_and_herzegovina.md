@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-12T09:06:44.608Z
+Generated: 2026-10-12T10:16:41.018Z
 
 Users: 2128
 
@@ -22,7 +22,7 @@ Users: 2128
 | 14 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 4601 |
 | 15 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |
 | 16 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 4094 |
-| 17 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 3970 |
-| 18 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic |  |  | Sarajevo, Bosnia and Herzegovina | 3873 |
-| 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 3757 |
-| 20 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim |  |  | Bosnia and Herzegovina | 3692 |
+| 17 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic |  |  | Sarajevo, Bosnia and Herzegovina | 4090 |
+| 18 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 3970 |
+| 19 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic |  |  | Sarajevo, Bosnia and Herzegovina | 3873 |
+| 20 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim |  |  | Bosnia and Herzegovina | 3842 |

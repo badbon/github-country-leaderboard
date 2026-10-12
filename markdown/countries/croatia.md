@@ -23,8 +23,8 @@ Indexed users: 5,438
 | 9 | [bis3946](https://github.com/bis3946) | bis3946 | Croatia | 8,871 |
 | 10 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Croatia | 8,131 |
 | 11 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Croatia, Vukovar | 7,621 |
-| 12 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 7,247 |
-| 13 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
+| 12 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Zagreb | 7,219 |
+| 13 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 6,981 |
 | 14 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 6,979 |
 | 15 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa | Pula, Croatia | 6,913 |
 | 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 6,760 |
@@ -46,13 +46,13 @@ Indexed users: 5,438
 | 7 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Zagreb | 4,748 |
 | 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Zagreb, Croatia | 4,479 |
 | 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Croatia | 4,225 |
-| 10 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 4,153 |
-| 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic | Croatia | 3,819 |
-| 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Zagreb/Trogir | 3,806 |
-| 13 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA | Zagreb | 3,700 |
-| 14 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
-| 15 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
-| 16 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 2,954 |
+| 10 | [chefsale](https://github.com/chefsale) | Sandi Fatic | Croatia | 3,819 |
+| 11 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Zagreb/Trogir | 3,806 |
+| 12 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA | Zagreb | 3,700 |
+| 13 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
+| 14 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
+| 15 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 2,954 |
+| 16 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 2,864 |
 | 17 | [Ino-Bagaric](https://github.com/Ino-Bagaric) | Ivan Bagarić | Croatia | 2,824 |
 | 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,786 |
 | 19 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Veli Lošinj, Croatia | 2,611 |
@@ -83,4 +83,4 @@ Indexed users: 5,438
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-12T09:14:08.882Z
+Generated: 2026-10-12T10:20:37.540Z

@@ -41,14 +41,14 @@ Indexed users: 899
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
 | 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,549 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,046 |
-| 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,393 |
+| 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,394 |
 | 6 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,366 |
 | 7 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 1,289 |
 | 8 | [wesbos](https://github.com/wesbos) | Wes Bos | Hamilton, Ontario | 1,283 |
 | 9 | [tridibbanik17](https://github.com/tridibbanik17) | Tridib Banik | Hamilton, ON | 1,261 |
 | 10 | [danielmiguel02](https://github.com/danielmiguel02) | Daniel Miguel | Hamilton - ON | 1,005 |
 | 11 | [kadgitub7](https://github.com/kadgitub7) | Kadhir Ponnambalam | Hamilton Ontario | 884 |
-| 12 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 851 |
+| 12 | [obeabi](https://github.com/obeabi) | David_Abiola_Obembe | Hamilton, Ontario | 853 |
 | 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 806 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 781 |
 | 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 650 |
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-12T09:05:23.687Z
+Generated: 2026-10-12T10:16:05.925Z

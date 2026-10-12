@@ -1,6 +1,6 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-12T08:55:19.452Z
+Generated: 2026-10-12T10:02:02.903Z
 
 Users: 7198
 
@@ -15,14 +15,14 @@ Users: 7198
 | 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 4552 |
 | 8 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 4474 |
 | 9 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | @Carthage-Software | azjezz | Tunisia | 4468 |
-| 10 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi |  |  | Tunisia | 3453 |
-| 11 | [dustin04x](https://github.com/dustin04x) | Skander Wali |  |  | Tunisia | 3386 |
-| 12 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Kalidia Consulting |  | Tunisia | 3153 |
-| 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila |  |  | tunis | 2980 |
-| 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
-| 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |
-| 16 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
-| 17 | [Hiviexd](https://github.com/Hiviexd) | Hivie | @ppy  |  | Tunisia | 2312 |
-| 18 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |
-| 19 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 |  |  | Tunisia | 2258 |
-| 20 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 2118 |
+| 10 | [azizwhibi](https://github.com/azizwhibi) | Aziz Ouhibi | ESPRIT |  | Tunisia | 3986 |
+| 11 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi |  |  | Tunisia | 3453 |
+| 12 | [dustin04x](https://github.com/dustin04x) | Skander Wali |  |  | Tunisia | 3386 |
+| 13 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Kalidia Consulting |  | Tunisia | 3153 |
+| 14 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila |  |  | tunis | 2980 |
+| 15 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
+| 16 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |
+| 17 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
+| 18 | [Hiviexd](https://github.com/Hiviexd) | Hivie | @ppy  |  | Tunisia | 2312 |
+| 19 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |
+| 20 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 |  |  | Tunisia | 2258 |

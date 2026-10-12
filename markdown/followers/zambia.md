@@ -1,8 +1,8 @@
 # Followers - Zambia
 
-Generated: 2026-10-12T08:58:19.393Z
+Generated: 2026-10-12T10:08:29.389Z
 
-Users: 1341
+Users: 1340
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -12,7 +12,7 @@ Users: 1341
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | KmkCoder |  | Ndola, Zambia | 233 |
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  |  |  | Lusaka, Zambia  | 230 |
 | 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 224 |
-| 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 193 |
+| 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 192 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | @pencilcasestudios  | silumesii | Zambia | 163 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi |  |  | Lusaka, Zambia | 161 |
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | @EducoreServices |  | Zambia | 147 |
@@ -20,7 +20,7 @@ Users: 1341
 | 12 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh |  |  | Lusaka, Zambia | 122 |
 | 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe |  | geraldmaboshe | Lusaka, Zambia | 116 |
 | 14 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Available for Hire | King_Kaylo1 | Lusaka, Zambia | 116 |
-| 15 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje |  |  | Ndola, Zambia | 109 |
+| 15 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje |  |  | Ndola, Zambia | 110 |
 | 16 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Kuseni Digital Inc Zambia |  | Lusaka, Zambia | 108 |
 | 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | TechTonic Inc. | yambwa_imwaka | Zambia | 107 |
 | 18 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | PICKANAPP ZAMBIA |  | Zambia | 106 |

@@ -12,11 +12,11 @@ Indexed users: 186
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 8,037 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 8,048 |
 | 2 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 5,503 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,287 |
-| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,426 |
-| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,327 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,281 |
+| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,427 |
+| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,331 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,962 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,918 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,768 |
@@ -37,9 +37,9 @@ Indexed users: 186
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 4,093 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 4,097 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,917 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,476 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,473 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,855 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,546 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,492 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-12T09:23:34.316Z
+Generated: 2026-10-12T10:31:40.628Z

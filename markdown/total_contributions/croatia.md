@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-12T09:14:08.882Z
+Generated: 2026-10-12T10:20:37.540Z
 
 Users: 5438
 
@@ -17,8 +17,8 @@ Users: 5438
 | 9 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
 | 10 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
 | 11 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 12 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 7247 |
-| 13 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
+| 12 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
+| 13 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 6981 |
 | 14 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 6979 |
 | 15 | [Domogo](https://github.com/Domogo) | Domagoj Satrapa |  |  | Pula, Croatia | 6913 |
 | 16 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 6760 |

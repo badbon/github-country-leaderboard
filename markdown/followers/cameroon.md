@@ -1,6 +1,6 @@
 # Followers - Cameroon
 
-Generated: 2026-10-12T09:08:42.447Z
+Generated: 2026-10-12T10:18:31.503Z
 
 Users: 1801
 
@@ -24,5 +24,5 @@ Users: 1801
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | togeva.com | Yunweneric | Douala, Cameroon | 221 |
 | 17 | [Clovremix](https://github.com/Clovremix) |  |  | HonClovis | Yaounde Cameroon  | 179 |
 | 18 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | @Progressoft  |  | Cameroon | 173 |
-| 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Carnegie Mellon University | baimamboukarr | Yaoundé | 172 |
-| 20 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | NexoPOS Solutions, @Tendoo  | blairjersyer | Cameroon. Yaoundé | 171 |
+| 19 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | NexoPOS Solutions, @Tendoo  | blairjersyer | Cameroon. Yaoundé | 171 |
+| 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Carnegie Mellon University | baimamboukarr | Yaoundé | 170 |

@@ -1,6 +1,6 @@
 # Zambia
 
-Indexed users: 1,341
+Indexed users: 1,340
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 1,341
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,924 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,497 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,449 |
-| 16 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,274 |
-| 17 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,200 |
-| 18 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,188 |
-| 19 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
-| 20 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,101 |
+| 16 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 3,396 |
+| 17 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,274 |
+| 18 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,200 |
+| 19 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,188 |
+| 20 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
 
 ## Public Contributions
 
@@ -68,7 +68,7 @@ Indexed users: 1,341
 | 4 | [KMKCODER](https://github.com/KMKCODER) | Kapembwa Kangali  | Ndola, Zambia | 233 |
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
 | 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 224 |
-| 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 193 |
+| 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 192 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 163 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 161 |
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 147 |
@@ -76,11 +76,11 @@ Indexed users: 1,341
 | 12 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 122 |
 | 13 | [geraldmaboshe](https://github.com/geraldmaboshe) | Gerald Maboshe | Lusaka, Zambia | 116 |
 | 14 | [KayLemba](https://github.com/KayLemba) | Kalolo Chola Lemba | Lusaka, Zambia | 116 |
-| 15 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje | Ndola, Zambia | 109 |
+| 15 | [twmbx](https://github.com/twmbx) | Twaambo Haamucenje | Ndola, Zambia | 110 |
 | 16 | [Beardless-sheik](https://github.com/Beardless-sheik) | Alick Nyirenda  | Lusaka, Zambia | 108 |
 | 17 | [YambwaImwaka](https://github.com/YambwaImwaka) | Yambwa Imwaka | Zambia | 107 |
 | 18 | [swengineermwi](https://github.com/swengineermwi) | Mwila B.K. | Zambia | 106 |
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-12T08:58:19.393Z
+Generated: 2026-10-12T10:08:29.389Z

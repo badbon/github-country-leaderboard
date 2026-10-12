@@ -42,21 +42,21 @@ Indexed users: 19,313
 | 3 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang | Copenhagen, Denmark | 15,850 |
 | 4 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | Holstebro, Denmark | 13,102 |
 | 5 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | Denmark | 12,291 |
-| 6 | [jhnwllr](https://github.com/jhnwllr) | John Waller | Copenhagen | 9,491 |
-| 7 | [niksedk](https://github.com/niksedk) | Nikolaj Olsson | Denmark | 9,302 |
-| 8 | [floitsch](https://github.com/floitsch) | Florian Loitsch | Aarhus, Denmark | 9,212 |
-| 9 | [pmorch](https://github.com/pmorch) | Peter Valdemar Mørch | Copenhagen | 8,699 |
-| 10 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 8,676 |
-| 11 | [christianhelle](https://github.com/christianhelle) | Christian Helle | Copenhagen, Denmark | 8,245 |
-| 12 | [SShadowS](https://github.com/SShadowS) | Torben Leth | Denmark | 8,242 |
-| 13 | [neoneye](https://github.com/neoneye) | Simon Strandgaard | Copenhagen - Denmark | 7,342 |
-| 14 | [lwjohnst86](https://github.com/lwjohnst86) | Luke W. Johnston | Copenhagen, Denmark | 7,062 |
-| 15 | [fbosch](https://github.com/fbosch) | Frederik Bosch | Copenhagen, Denmark | 7,002 |
-| 16 | [eea-jenkins](https://github.com/eea-jenkins) | EEA Jenkins | Kongens Nytorv 6, 1050, Copenhagen K, Denmark | 6,965 |
-| 17 | [kasperisager](https://github.com/kasperisager) | Kasper Isager Dalsgarð | Denmark | 6,503 |
-| 18 | [davsclaus](https://github.com/davsclaus) | Claus Ibsen | Denmark | 6,304 |
-| 19 | [saattrupdan](https://github.com/saattrupdan) | Dan Saattrup Smart | Copenhagen, Denmark | 6,137 |
-| 20 | [cbroberg](https://github.com/cbroberg) | Christian Broberg | Blokhus, Denmark | 6,029 |
+| 6 | [sunholo-voight-kampff](https://github.com/sunholo-voight-kampff) | Voight-Kampff (bot) | Copenhagen | 11,130 |
+| 7 | [jhnwllr](https://github.com/jhnwllr) | John Waller | Copenhagen | 9,491 |
+| 8 | [niksedk](https://github.com/niksedk) | Nikolaj Olsson | Denmark | 9,302 |
+| 9 | [floitsch](https://github.com/floitsch) | Florian Loitsch | Aarhus, Denmark | 9,212 |
+| 10 | [pmorch](https://github.com/pmorch) | Peter Valdemar Mørch | Copenhagen | 8,699 |
+| 11 | [luxass](https://github.com/luxass) | Lucas Nørgård | Aarhus, Denmark | 8,676 |
+| 12 | [christianhelle](https://github.com/christianhelle) | Christian Helle | Copenhagen, Denmark | 8,245 |
+| 13 | [SShadowS](https://github.com/SShadowS) | Torben Leth | Denmark | 8,242 |
+| 14 | [neoneye](https://github.com/neoneye) | Simon Strandgaard | Copenhagen - Denmark | 7,342 |
+| 15 | [lwjohnst86](https://github.com/lwjohnst86) | Luke W. Johnston | Copenhagen, Denmark | 7,062 |
+| 16 | [fbosch](https://github.com/fbosch) | Frederik Bosch | Copenhagen, Denmark | 7,002 |
+| 17 | [eea-jenkins](https://github.com/eea-jenkins) | EEA Jenkins | Kongens Nytorv 6, 1050, Copenhagen K, Denmark | 6,965 |
+| 18 | [kasperisager](https://github.com/kasperisager) | Kasper Isager Dalsgarð | Denmark | 6,503 |
+| 19 | [davsclaus](https://github.com/davsclaus) | Claus Ibsen | Denmark | 6,304 |
+| 20 | [saattrupdan](https://github.com/saattrupdan) | Dan Saattrup Smart | Copenhagen, Denmark | 6,137 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 19,313
 | 19 | [ThomasVitale](https://github.com/ThomasVitale) | Thomas Vitale | Denmark | 1,273 |
 | 20 | [mit-mit](https://github.com/mit-mit) | Michael Thomsen | Aarhus, Denmark | 1,198 |
 
-Generated: 2026-10-12T09:14:50.454Z
+Generated: 2026-10-12T10:22:33.106Z

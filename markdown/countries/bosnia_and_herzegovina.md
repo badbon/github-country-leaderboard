@@ -28,10 +28,10 @@ Indexed users: 2,128
 | 14 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 4,601 |
 | 15 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
 | 16 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 4,094 |
-| 17 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
-| 18 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic | Sarajevo, Bosnia and Herzegovina | 3,873 |
-| 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 3,757 |
-| 20 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim | Bosnia and Herzegovina | 3,692 |
+| 17 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic | Sarajevo, Bosnia and Herzegovina | 4,090 |
+| 18 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
+| 19 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic | Sarajevo, Bosnia and Herzegovina | 3,873 |
+| 20 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim | Bosnia and Herzegovina | 3,842 |
 
 ## Public Contributions
 
@@ -40,8 +40,8 @@ Indexed users: 2,128
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,766 |
 | 2 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 2,950 |
 | 3 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Sarajevo | 2,863 |
-| 4 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 2,647 |
-| 5 | [goran1010](https://github.com/goran1010) | Goran Jović | Banja Luka, Bosnia and Herzegovina | 2,306 |
+| 4 | [goran1010](https://github.com/goran1010) | Goran Jović | Banja Luka, Bosnia and Herzegovina | 2,666 |
+| 5 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 2,647 |
 | 6 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 2,043 |
 | 7 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,871 |
 | 8 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 1,813 |
@@ -83,4 +83,4 @@ Indexed users: 2,128
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-12T09:06:44.608Z
+Generated: 2026-10-12T10:16:41.018Z

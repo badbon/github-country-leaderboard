@@ -1,8 +1,8 @@
 # Followers - El Salvador
 
-Generated: 2026-10-12T09:15:48.782Z
+Generated: 2026-10-12T10:25:38.940Z
 
-Users: 2380
+Users: 2379
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

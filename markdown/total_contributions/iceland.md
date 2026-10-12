@@ -1,8 +1,8 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-12T09:25:05.607Z
+Generated: 2026-10-12T10:34:05.093Z
 
-Users: 1582
+Users: 1580
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 1582
 | 9 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Lóalóa |  | Reykjavík, Iceland | 8780 |
 | 10 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 8749 |
 | 11 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason |  |  | Reykjavik, Iceland | 7577 |
-| 12 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | @Daveloehf  | Chipcius | Reykjavik, Iceland | 7531 |
-| 13 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Sókrates |  | Iceland | 7306 |
-| 14 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | @avohq | bjornolafur | iceland | 6895 |
-| 15 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6633 |
-| 16 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
-| 17 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6030 |
-| 18 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5619 |
-| 19 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 5501 |
+| 12 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Tero |  | Reykjavik | 7571 |
+| 13 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | @Daveloehf  | Chipcius | Reykjavik, Iceland | 7531 |
+| 14 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Sókrates |  | Iceland | 7306 |
+| 15 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | @avohq | bjornolafur | iceland | 6895 |
+| 16 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6633 |
+| 17 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
+| 18 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6030 |
+| 19 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5619 |
 | 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5373 |

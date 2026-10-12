@@ -30,7 +30,7 @@ Indexed users: 254
 | 16 | [MadHazz](https://github.com/MadHazz) | Ahmad Ghazali Bin Haji Hanipah | Bandar Seri Begawan, Brunei Muara District, Negara Brunei Darussalam | 369 |
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 346 |
 | 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 260 |
-| 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 234 |
+| 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 236 |
 | 20 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 232 |
 
 ## Public Contributions
@@ -55,7 +55,7 @@ Indexed users: 254
 | 16 | [Nekrozu](https://github.com/Nekrozu) | Luq | Brunei Darussalam | 62 |
 | 17 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 61 |
 | 18 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Brunei Darussalam | 57 |
-| 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 53 |
+| 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 55 |
 | 20 | [Hifdzullah](https://github.com/Hifdzullah) | Zul | Brunei | 52 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-12T09:07:24.013Z
+Generated: 2026-10-12T10:17:45.083Z

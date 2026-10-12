@@ -1,6 +1,6 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-12T09:14:08.882Z
+Generated: 2026-10-12T10:20:37.540Z
 
 Users: 5438
 
@@ -15,13 +15,13 @@ Users: 5438
 | 7 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Liferay Inc. |  | Zagreb | 4748 |
 | 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 4479 |
 | 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Nastava |  | Croatia | 4225 |
-| 10 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 4153 |
-| 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic |  |  | Croatia | 3819 |
-| 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Xylon d.o.o |  | Zagreb/Trogir | 3806 |
-| 13 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA |  |  | Zagreb | 3700 |
-| 14 | [moljac](https://github.com/moljac) | moljac | Microsoft / Xamarin Inc., HolisticWare | moljacsharp | Zagreb, Croatia | 3410 |
-| 15 | [borisbabic](https://github.com/borisbabic) | Boris |  |  | Zagreb, Croatia | 3205 |
-| 16 | [davidabram](https://github.com/davidabram) | David Abram | crocoder.dev | devabram | Croatia | 2954 |
+| 10 | [chefsale](https://github.com/chefsale) | Sandi Fatic |  |  | Croatia | 3819 |
+| 11 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Xylon d.o.o |  | Zagreb/Trogir | 3806 |
+| 12 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA |  |  | Zagreb | 3700 |
+| 13 | [moljac](https://github.com/moljac) | moljac | Microsoft / Xamarin Inc., HolisticWare | moljacsharp | Zagreb, Croatia | 3410 |
+| 14 | [borisbabic](https://github.com/borisbabic) | Boris |  |  | Zagreb, Croatia | 3205 |
+| 15 | [davidabram](https://github.com/davidabram) | David Abram | crocoder.dev | devabram | Croatia | 2954 |
+| 16 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 2864 |
 | 17 | [Ino-Bagaric](https://github.com/Ino-Bagaric) | Ivan Bagarić |  |  | Croatia | 2824 |
 | 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic |  | SeloSlav | Zagreb | 2786 |
 | 19 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Founder, Head of R&D | irregularbi | Veli Lošinj, Croatia | 2611 |
