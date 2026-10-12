@@ -15883,8 +15883,8 @@
     "company": "Bildungszentrum Zürichsee, Horgen",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 56,
-    "publicContributions": 160,
+    "privateContributions": 81,
+    "publicContributions": 168,
     "createdAt": "2023-09-26T11:05:36Z"
   },
   {
@@ -15896,7 +15896,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2023-08-09T08:32:34Z"
   },
   {
@@ -15908,7 +15908,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 92,
     "createdAt": "2023-02-24T15:09:22Z"
   },
   {
@@ -15919,8 +15919,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 12,
-    "publicContributions": 30,
+    "privateContributions": 10,
+    "publicContributions": 29,
     "createdAt": "2023-06-28T20:08:24Z"
   },
   {
@@ -15930,9 +15930,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 45,
     "createdAt": "2023-06-30T08:44:26Z"
   },
   {
@@ -15944,7 +15944,7 @@
     "twitterUsername": "withJannis",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 55,
     "createdAt": "2023-02-19T14:19:00Z"
   },
   {
@@ -15955,8 +15955,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 454,
-    "publicContributions": 101,
+    "privateContributions": 526,
+    "publicContributions": 85,
     "createdAt": "2023-04-24T07:57:06Z"
   },
   {
@@ -15967,7 +15967,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 361,
+    "privateContributions": 352,
     "publicContributions": 223,
     "createdAt": "2023-01-30T07:37:50Z"
   },
@@ -15980,7 +15980,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 96,
-    "publicContributions": 217,
+    "publicContributions": 209,
     "createdAt": "2023-05-10T11:43:54Z"
   },
   {
@@ -15990,9 +15990,9 @@
     "location": "Zurich, Switzerland",
     "company": "ETH Zurich",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 36,
-    "publicContributions": 7,
+    "followers": 7,
+    "privateContributions": 61,
+    "publicContributions": 9,
     "createdAt": "2023-02-28T08:48:19Z"
   },
   {
@@ -16003,8 +16003,8 @@
     "company": "ETH Zurich",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 69,
-    "publicContributions": 21,
+    "privateContributions": 101,
+    "publicContributions": 81,
     "createdAt": "2023-05-12T21:25:43Z"
   },
   {
@@ -16014,9 +16014,9 @@
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 919,
-    "publicContributions": 712,
+    "followers": 11,
+    "privateContributions": 2442,
+    "publicContributions": 1359,
     "createdAt": "2023-07-23T21:03:20Z"
   },
   {
@@ -16026,8 +16026,8 @@
     "location": "Zug, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 67,
+    "followers": 7,
+    "privateContributions": 43,
     "publicContributions": 3,
     "createdAt": "2023-04-17T06:54:22Z"
   },
@@ -16040,7 +16040,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 48,
     "createdAt": "2023-05-17T14:56:38Z"
   },
   {
@@ -16052,7 +16052,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2023-11-15T08:17:27Z"
   },
   {
@@ -16068,18 +16068,6 @@
     "createdAt": "2023-09-20T07:57:26Z"
   },
   {
-    "login": "philderks",
-    "name": "Philipp Derks",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150897365?s=72&u=55d53ab682f47d8ed2e48e6e59f2f88101684ee5&v=4",
-    "location": "Zürich, Switzerland",
-    "company": "ETH Zürich",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 124,
-    "publicContributions": 408,
-    "createdAt": "2023-11-15T08:05:51Z"
-  },
-  {
     "login": "maude-v",
     "name": "Maude Vernet",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145331125?s=72&u=e44831aa9f8aa2fa1d262b59acfb41cc3853ace9&v=4",
@@ -16087,8 +16075,8 @@
     "company": "University of Bern, Division of Conservation Biology",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 5,
-    "publicContributions": 109,
+    "privateContributions": 4,
+    "publicContributions": 212,
     "createdAt": "2023-09-18T08:18:27Z"
   },
   {
@@ -16100,7 +16088,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-05-22T08:24:51Z"
   },
   {
@@ -16112,7 +16100,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2023-01-20T08:35:46Z"
   },
   {

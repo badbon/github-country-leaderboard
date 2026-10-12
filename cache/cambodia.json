@@ -16292,7 +16292,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2021-09-30T02:47:40Z"
   },
   {
@@ -16302,9 +16302,9 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 53,
     "createdAt": "2021-12-07T06:17:49Z"
   },
   {
@@ -16392,18 +16392,6 @@
     "createdAt": "2021-11-06T09:39:52Z"
   },
   {
-    "login": "phear1n",
-    "name": "rin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/85883876?s=72&v=4",
-    "location": "Cambodia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-06-14T13:23:18Z"
-  },
-  {
     "login": "sleanghak",
     "name": "Leanghak SEIREY",
     "avatarUrl": "https://avatars.githubusercontent.com/u/88415887?s=72&u=995accb4d0dd7e27bde07acaf52efada429ba7ab&v=4",
@@ -16460,7 +16448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 23,
     "createdAt": "2021-03-17T02:23:11Z"
   },
   {
@@ -16519,7 +16507,7 @@
     "company": "",
     "twitterUsername": "menghorng04",
     "followers": 1,
-    "privateContributions": 706,
+    "privateContributions": 1158,
     "publicContributions": 6,
     "createdAt": "2021-01-27T07:04:26Z"
   },

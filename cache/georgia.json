@@ -16400,20 +16400,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 23,
     "createdAt": "2022-12-08T08:34:02Z"
-  },
-  {
-    "login": "IlyaGaltsev",
-    "name": "ILIA GALTSEV",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114068223?s=72&u=24f7ffae39b9c652553c94bc1d07d26eee638098&v=4",
-    "location": "Georgia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2022-09-21T09:57:58Z"
   },
   {
     "login": "sabachx",
@@ -16424,7 +16412,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 34,
-    "publicContributions": 649,
+    "publicContributions": 792,
     "createdAt": "2022-11-06T00:22:23Z"
   },
   {
@@ -16447,8 +16435,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2547,
-    "publicContributions": 40,
+    "privateContributions": 2385,
+    "publicContributions": 31,
     "createdAt": "2022-08-19T06:34:10Z"
   },
   {
@@ -16460,7 +16448,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 18,
     "createdAt": "2022-04-21T04:09:45Z"
   },
   {
@@ -16508,7 +16496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2022-12-14T20:59:41Z"
   },
   {
@@ -16519,7 +16507,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 6190,
+    "privateContributions": 7421,
     "publicContributions": 9,
     "createdAt": "2022-03-28T14:04:22Z"
   },
@@ -16615,7 +16603,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-04T10:20:16Z"
   },
@@ -82786,5 +82774,17 @@
     "privateContributions": 2968,
     "publicContributions": 2482,
     "createdAt": "2020-09-25T19:25:13Z"
+  },
+  {
+    "login": "meztizshura",
+    "name": "Alexandra Frolova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112712770?s=72&u=9b56b6c7fa3f1365770a10abe5df4fcdcc1e68cc&v=4",
+    "location": "Batumi",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2022-09-02T14:45:27Z"
   }
 ]

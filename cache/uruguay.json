@@ -16207,8 +16207,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 54,
-    "publicContributions": 22,
+    "privateContributions": 58,
+    "publicContributions": 36,
     "createdAt": "2022-12-03T14:56:13Z"
   },
   {
@@ -16284,18 +16284,6 @@
     "createdAt": "2022-07-21T19:04:47Z"
   },
   {
-    "login": "Nataruna",
-    "name": "Natalia Rueda",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109604963?s=72&u=247da391c198e07a6671a2091a0a1991e2c80cb5&v=4",
-    "location": "Uruguay",
-    "company": "@Infuy",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-07-19T13:45:28Z"
-  },
-  {
     "login": "victoria233",
     "name": "Victoria",
     "avatarUrl": "https://avatars.githubusercontent.com/u/110432991?s=72&u=6e9d83898bf9ec71a152667021f8ea1743ed4486&v=4",
@@ -16328,20 +16316,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-03-21T02:28:32Z"
-  },
-  {
-    "login": "diegocastro0210",
-    "name": "Diego Castro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102040615?s=72&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2022-03-21T13:45:02Z"
   },
   {
     "login": "FranciscoGomezDeLeon",
@@ -16387,7 +16363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
+    "privateContributions": 68,
     "publicContributions": 46,
     "createdAt": "2022-04-05T22:17:44Z"
   },
@@ -16412,7 +16388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 100,
+    "publicContributions": 54,
     "createdAt": "2022-02-22T21:40:29Z"
   },
   {

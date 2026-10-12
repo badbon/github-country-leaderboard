@@ -15354,9 +15354,9 @@
     "location": "Sweden",
     "company": "404 - Location Not Found",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 420,
+    "publicContributions": 401,
     "createdAt": "2024-05-18T06:38:31Z"
   },
   {
@@ -15392,7 +15392,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 15,
     "createdAt": "2023-12-30T18:21:40Z"
   },
   {
@@ -15404,7 +15404,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-06-28T10:05:53Z"
   },
   {
@@ -15416,7 +15416,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2024-09-09T02:22:31Z"
   },
   {
@@ -15440,7 +15440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 66,
     "createdAt": "2024-08-31T10:38:30Z"
   },
   {
@@ -15450,9 +15450,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 122,
     "createdAt": "2024-02-07T23:49:02Z"
   },
   {
@@ -15462,9 +15462,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 12,
-    "publicContributions": 87,
+    "followers": 5,
+    "privateContributions": 18,
+    "publicContributions": 114,
     "createdAt": "2024-09-13T12:07:28Z"
   },
   {
@@ -15482,13 +15482,13 @@
   {
     "login": "cArmgarth",
     "name": "Christian Armgarth",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/161868548?s=72&u=d6e4090b02334cd44dee1d67a9cba4f82613bdd0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/161868548?s=72&u=cdfd1569ca79e1640eb30006a8038202a2040a30&v=4",
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 2,
     "createdAt": "2024-03-01T16:51:15Z"
   },
   {
@@ -15500,7 +15500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 17,
     "createdAt": "2024-02-03T19:47:31Z"
   },
   {
@@ -15510,9 +15510,9 @@
     "location": "Sweden",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 19,
-    "publicContributions": 45,
+    "publicContributions": 54,
     "createdAt": "2024-08-26T11:58:08Z"
   },
   {
@@ -15524,7 +15524,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 101,
     "createdAt": "2024-11-25T08:26:36Z"
   },
   {
@@ -15536,7 +15536,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 5,
-    "publicContributions": 100,
+    "publicContributions": 101,
     "createdAt": "2024-11-19T13:13:47Z"
   },
   {
@@ -15548,7 +15548,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 47,
     "createdAt": "2024-09-04T10:34:48Z"
   },
   {
@@ -15560,7 +15560,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 145,
+    "publicContributions": 184,
     "createdAt": "2024-09-13T09:15:39Z"
   },
   {
@@ -15572,7 +15572,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 700,
+    "publicContributions": 2,
     "createdAt": "2024-08-20T07:23:58Z"
   },
   {
@@ -468574,5 +468574,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-10-13T07:46:29Z"
+  },
+  {
+    "login": "philderks",
+    "name": "Philipp Derks",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150897365?s=72&u=55d53ab682f47d8ed2e48e6e59f2f88101684ee5&v=4",
+    "location": "Stockholm, Sweden",
+    "company": "Nrlyze",
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 111,
+    "publicContributions": 504,
+    "createdAt": "2023-11-15T08:05:51Z"
   }
 ]

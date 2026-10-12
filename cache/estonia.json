@@ -16244,7 +16244,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 60,
     "createdAt": "2020-12-14T13:04:12Z"
   },
   {
@@ -16254,9 +16254,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-03-20T13:24:44Z"
   },
   {
@@ -16268,7 +16268,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2020-09-24T12:42:38Z"
   },
   {
@@ -16290,9 +16290,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 43,
     "createdAt": "2020-02-13T13:29:09Z"
   },
   {
@@ -16300,10 +16300,10 @@
     "name": "Lauri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69038889?s=72&u=48f3384ed6230a8afebcfbbc5a433dc47a2a1025&v=4",
     "location": "Tallinn",
-    "company": "",
+    "company": "@userjourneys-ai ",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2171,
+    "privateContributions": 2301,
     "publicContributions": 0,
     "createdAt": "2020-07-31T10:39:53Z"
   },
@@ -16315,7 +16315,7 @@
     "company": "Bolt",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1598,
+    "privateContributions": 1674,
     "publicContributions": 0,
     "createdAt": "2020-12-07T10:44:30Z"
   },
@@ -16328,7 +16328,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 46,
     "createdAt": "2020-11-01T15:42:10Z"
   },
   {
@@ -16350,9 +16350,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 1,
-    "publicContributions": 18,
+    "publicContributions": 19,
     "createdAt": "2020-10-12T22:45:44Z"
   },
   {
@@ -16363,8 +16363,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 28,
-    "publicContributions": 1404,
+    "privateContributions": 10,
+    "publicContributions": 1334,
     "createdAt": "2020-01-15T10:36:01Z"
   },
   {
@@ -16394,13 +16394,13 @@
   {
     "login": "markusmeresma",
     "name": "Markus Meresma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60234604?s=72&u=f7684dc048c75511fd74386f013d50b014125d37&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60234604?s=72&u=54479b58e0b0afe38e58b203f20b85909c37dacb&v=4",
     "location": "Tallinn / London",
     "company": "",
-    "twitterUsername": "",
-    "followers": 4,
+    "twitterUsername": "markusmeresma",
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 183,
+    "publicContributions": 181,
     "createdAt": "2020-01-23T18:11:55Z"
   },
   {
@@ -16460,7 +16460,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 19,
     "createdAt": "2020-07-14T14:54:53Z"
   },
   {
@@ -16471,7 +16471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 159,
+    "privateContributions": 155,
     "publicContributions": 69,
     "createdAt": "2020-01-27T19:52:42Z"
   },
