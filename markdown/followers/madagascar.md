@@ -1,28 +1,28 @@
 # Followers - Madagascar
 
-Generated: 2026-10-12T03:11:58.017Z
+Generated: 2026-10-12T07:20:54.658Z
 
 Users: 1906
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 594 |
-| 2 | [mattnix4](https://github.com/mattnix4) | Nix Ra |  |  | Antananarivo, Madagascar | 417 |
-| 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | ENI |  | Madagascar | 358 |
+| 2 | [mattnix4](https://github.com/mattnix4) | Nix Ra |  |  | Antananarivo, Madagascar | 421 |
+| 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | Ilaikoto |  | Madagascar | 361 |
 | 4 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE |  | davfilsdev | Antananarivo Madagascar | 355 |
 | 5 | [julkwel](https://github.com/julkwel) | Julien Rajerison  | @Techzara, @Bocasay, @7he-Challenger |  | Madagascar | 343 |
 | 6 | [ThierryRakotomanana](https://github.com/ThierryRakotomanana) | ThierryRakt |  | ThieryRkt | Antananarivo | 338 |
 | 7 | [TsitouhRanjafy](https://github.com/TsitouhRanjafy) | Tsitohaina |  |  | Madagascar  | 330 |
 | 8 | [lahatra3](https://github.com/lahatra3) | Lahatra Anjara RAVELONARIVO  | @iTeam-S  | lahatra31 | Madagascar-Antananarivo | 329 |
-| 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 234 |
+| 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 213 |
 | 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Kleonix |  | Antananarivo, Madagascar | 184 |
 | 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 175 |
 | 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina |  |  | Antananarivo Madagascar | 166 |
 | 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 165 |
 | 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 164 |
 | 15 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina |  | lovanirina_r | Madagascar, Antananarivo | 158 |
-| 16 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Onja |  | Toamasina, Madagascar | 155 |
-| 17 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 149 |
-| 18 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan |  |  | Antananarivo, Madagascar | 145 |
-| 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | HEI |  | Antananarivo | 145 |
+| 16 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia |  |  | Antananarivo, Madagascar | 149 |
+| 17 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan |  |  | Antananarivo, Madagascar | 145 |
+| 18 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | HEI |  | Antananarivo | 145 |
+| 19 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Onja |  | Toamasina, Madagascar | 144 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery |  |  | Madagascar | 143 |

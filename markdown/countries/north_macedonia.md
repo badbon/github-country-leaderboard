@@ -1,6 +1,6 @@
 # North Macedonia
 
-Indexed users: 1,934
+Indexed users: 1,933
 
 | Leaderboard | Link |
 |---|---|
@@ -70,17 +70,17 @@ Indexed users: 1,934
 | 6 | [xStephx](https://github.com/xStephx) | Stefan Bojkovski | Macedonia | 306 |
 | 7 | [BojanaVasilevska](https://github.com/BojanaVasilevska) | Bojana  | Macedonia | 282 |
 | 8 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Skopje, Macedonia | 241 |
-| 9 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Skopje, Macedonia | 223 |
-| 10 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 212 |
-| 11 | [callibra](https://github.com/callibra) | Ivan Gjorcev  | Sveti Nikole, Macedonia  🌎 🗺️ | 207 |
+| 9 | [callibra](https://github.com/callibra) | Ivan Gjorcev  | Sveti Nikole, Macedonia  🌎 🗺️ | 225 |
+| 10 | [stefanandonov](https://github.com/stefanandonov) | Stefan Andonov | Skopje, Macedonia | 223 |
+| 11 | [MTrajK](https://github.com/MTrajK) | Meto Trajkovski | Skopje | 212 |
 | 12 | [hf](https://github.com/hf) | Stojan Dimitrovski | Skopje, Republic of North Macedonia | 197 |
 | 13 | [davorminchorov](https://github.com/davorminchorov) | Davor Minchorov | Skopje, Macedonia | 186 |
 | 14 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 179 |
-| 15 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 177 |
-| 16 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | Skopje, Macedonia | 173 |
+| 15 | [MatejMecka](https://github.com/MatejMecka) | Matej Plavevski | Skopje, Macedonia | 178 |
+| 16 | [visar](https://github.com/visar) | Visar Zejnullahu | Skopje, Macedonia | 177 |
 | 17 | [eritislami](https://github.com/eritislami) | Erit Islami | Struga, North Macedonia | 172 |
 | 18 | [sweko](https://github.com/sweko) | Wekoslav Stefanovski | Skopje | 170 |
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-12T03:19:41.956Z
+Generated: 2026-10-12T07:29:28.056Z

@@ -1,6 +1,6 @@
 # Followers - São Tomé and Príncipe
 
-Generated: 2026-10-12T03:25:02.591Z
+Generated: 2026-10-12T07:37:38.130Z
 
 Users: 20
 
@@ -16,9 +16,9 @@ Users: 20
 | 8 | [StephannyBorges](https://github.com/StephannyBorges) | Stephanny Borges |  |  | São Tomé RN | 6 |
 | 9 | [Octaniel](https://github.com/Octaniel) | Octaniel José | b-software |  | São Tomé | 4 |
 | 10 | [AlekssanderCosta](https://github.com/AlekssanderCosta) | Alekssander Costa |  |  | São Tomé | 3 |
-| 11 | [habraino](https://github.com/habraino) | Habraino C. De Deus | SafuTech |  | São-Tomé | 3 |
-| 12 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras |  |  | São Tomé e Príncipe | 3 |
-| 13 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 2 |
+| 11 | [henilcioterras](https://github.com/henilcioterras) | Henilcio Terras |  |  | São Tomé e Príncipe | 3 |
+| 12 | [Andre-Dalva](https://github.com/Andre-Dalva) |  |  |  | São Tomé e Principe  | 2 |
+| 13 | [habraino](https://github.com/habraino) | Habraino C. De Deus | SafuTech |  | São-Tomé | 2 |
 | 14 | [LelecoNN](https://github.com/LelecoNN) |  |  | nelito_cruz | São Tomé  | 2 |
 | 15 | [susyviegas](https://github.com/susyviegas) | Susy Viegas |  |  | São Tomé | 2 |
 | 16 | [abdulay-cusodio](https://github.com/abdulay-cusodio) | Abdulay custódio | MEES | abdulay_cunha | São Tomé and Príncipe | 1 |

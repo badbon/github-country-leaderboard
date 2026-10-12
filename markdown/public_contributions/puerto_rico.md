@@ -1,6 +1,6 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-12T03:21:59.676Z
+Generated: 2026-10-12T07:33:08.961Z
 
 Users: 1539
 
@@ -18,11 +18,11 @@ Users: 1539
 | 10 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1685 |
 | 11 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 1337 |
 | 12 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1331 |
-| 13 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1140 |
-| 14 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | @Microsoft | jaxelr | San Juan, Puerto Rico | 1096 |
-| 15 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 1089 |
-| 16 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1058 |
-| 17 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
-| 18 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos |  |  | Puerto Rico | 946 |
-| 19 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | San Juan |  | Puerto Rico | 943 |
-| 20 | [KarenPNavarro](https://github.com/KarenPNavarro) | Karen Navarro |  |  | Puerto Rico | 897 |
+| 13 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | @LinkPR |  | Guaynabo, Puerto Rico | 1306 |
+| 14 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Nova Labs Research |  | Puerto Rico | 1140 |
+| 15 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | @Microsoft | jaxelr | San Juan, Puerto Rico | 1096 |
+| 16 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Holberton Coding School |  | Puerto Rico | 1089 |
+| 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez |  |  | Puerto Rico | 1058 |
+| 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago |  | Marc0sSantiago | Puerto Rico | 988 |
+| 19 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos |  |  | Puerto Rico | 946 |
+| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | San Juan |  | Puerto Rico | 943 |

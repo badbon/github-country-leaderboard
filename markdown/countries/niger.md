@@ -31,7 +31,7 @@ Indexed users: 176
 | 17 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 514 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 457 |
-| 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 440 |
+| 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 439 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 
-Generated: 2026-10-12T03:17:56.198Z
+Generated: 2026-10-12T07:29:17.264Z

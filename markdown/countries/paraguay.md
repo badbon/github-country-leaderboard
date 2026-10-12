@@ -15,7 +15,7 @@ Indexed users: 2,016
 | 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés | Paraguay | 15,366 |
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | Paraguay | 14,573 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R | Paraguay | 14,120 |
-| 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 13,886 |
+| 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 10,883 |
 | 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Paraguay | 10,440 |
 | 6 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares | Paraguay | 10,224 |
 | 7 | [anthonybir](https://github.com/anthonybir) | Anthony Bir | Asuncion, Paraguay | 10,124 |
@@ -37,7 +37,7 @@ Indexed users: 2,016
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 12,746 |
+| 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | Paraguay | 9,772 |
 | 2 | [eeeds](https://github.com/eeeds) | Esteban Encina | Paraguay | 3,104 |
 | 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 2,806 |
 | 4 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. | Asunción, Paraguay | 2,357 |
@@ -83,4 +83,4 @@ Indexed users: 2,016
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-12T03:21:26.326Z
+Generated: 2026-10-12T07:31:22.986Z

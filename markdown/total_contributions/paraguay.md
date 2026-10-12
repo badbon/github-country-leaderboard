@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-12T03:21:26.326Z
+Generated: 2026-10-12T07:31:22.986Z
 
 Users: 2016
 
@@ -9,7 +9,7 @@ Users: 2016
 | 1 | [LuisValdesZero](https://github.com/LuisValdesZero) | Luis Valdés |  |  | Paraguay | 15366 |
 | 2 | [nikdim03](https://github.com/nikdim03) | Dmitrii Nikulin | TON Foundation |  | Paraguay | 14573 |
 | 3 | [devsart95](https://github.com/devsart95) | S4R |  |  | Paraguay | 14120 |
-| 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 13886 |
+| 4 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 10883 |
 | 5 | [pyfection](https://github.com/pyfection) | Matthias Schreiber | Pyfection |  | Paraguay | 10440 |
 | 6 | [diogocsoares](https://github.com/diogocsoares) | Diogo Soares |  |  | Paraguay | 10224 |
 | 7 | [anthonybir](https://github.com/anthonybir) | Anthony Bir |  |  | Asuncion, Paraguay | 10124 |

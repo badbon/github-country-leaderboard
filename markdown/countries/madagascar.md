@@ -31,7 +31,7 @@ Indexed users: 1,906
 | 17 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 4,804 |
 | 18 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Madagascar, Antananarivo | 4,752 |
 | 19 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 4,568 |
-| 20 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | Antananarivo, Madagascar | 4,365 |
+| 20 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | Antananarivo, Madagascar | 4,370 |
 
 ## Public Contributions
 
@@ -63,24 +63,24 @@ Indexed users: 1,906
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 594 |
-| 2 | [mattnix4](https://github.com/mattnix4) | Nix Ra | Antananarivo, Madagascar | 417 |
-| 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | Madagascar | 358 |
+| 2 | [mattnix4](https://github.com/mattnix4) | Nix Ra | Antananarivo, Madagascar | 421 |
+| 3 | [hatixntsoa](https://github.com/hatixntsoa) | Hatix Ntsoa | Madagascar | 361 |
 | 4 | [DavFilsDev](https://github.com/DavFilsDev) | F. Miharisoa David Fils RATIANDRAIBE | Antananarivo Madagascar | 355 |
 | 5 | [julkwel](https://github.com/julkwel) | Julien Rajerison  | Madagascar | 343 |
 | 6 | [ThierryRakotomanana](https://github.com/ThierryRakotomanana) | ThierryRakt | Antananarivo | 338 |
 | 7 | [TsitouhRanjafy](https://github.com/TsitouhRanjafy) | Tsitohaina | Madagascar  | 330 |
 | 8 | [lahatra3](https://github.com/lahatra3) | Lahatra Anjara RAVELONARIVO  | Madagascar-Antananarivo | 329 |
-| 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | Antananarivo, Madagascar | 234 |
+| 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | Antananarivo, Madagascar | 213 |
 | 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Antananarivo, Madagascar | 184 |
 | 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA | Antananarivo - MADAGASCAR | 175 |
 | 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina | Antananarivo Madagascar | 166 |
 | 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | Antananarivo - Madagascar | 165 |
 | 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | Toamasina, Madagascar | 164 |
 | 15 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina | Madagascar, Antananarivo | 158 |
-| 16 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Toamasina, Madagascar | 155 |
-| 17 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia | Antananarivo, Madagascar | 149 |
-| 18 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan | Antananarivo, Madagascar | 145 |
-| 19 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
+| 16 | [DMikaia](https://github.com/DMikaia) | Daniel Mikaia | Antananarivo, Madagascar | 149 |
+| 17 | [LizkaRyan](https://github.com/LizkaRyan) | Ryan | Antananarivo, Madagascar | 145 |
+| 18 | [valisoa01](https://github.com/valisoa01) | Valisoa Tolotriniaina | Antananarivo | 145 |
+| 19 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Toamasina, Madagascar | 144 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-12T03:11:58.017Z
+Generated: 2026-10-12T07:20:54.658Z

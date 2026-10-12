@@ -1,6 +1,6 @@
 # Total Contributions - Saudi Arabia
 
-Generated: 2026-10-12T03:25:34.208Z
+Generated: 2026-10-12T07:38:51.092Z
 
 Users: 7751
 
@@ -21,8 +21,8 @@ Users: 7751
 | 13 | [Ahmed-aleryani](https://github.com/Ahmed-aleryani) | Ahmed Aleryani | @Transferwise |  | Sana'a, Yemen / Tallinn, Estonia / Riyadh, Saudi Arabia | 10605 |
 | 14 | [A1cy](https://github.com/A1cy) | A1 | A1xAI | A1hady | Riyadh | 10288 |
 | 15 | [imadaitelarabi](https://github.com/imadaitelarabi) | IMAD AIT EL ARABI | Xenith AI |  | Riyadh | 9583 |
-| 16 | [coldworld22](https://github.com/coldworld22) | Ayman Mohammed Osman Bashir | Perfect Presenttion |  | Abha, Saudi Arabia | 8959 |
-| 17 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
-| 18 | [GarthOrmsby](https://github.com/GarthOrmsby) |  |  |  | Saudi Arabia | 8196 |
-| 19 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | One Studio |  | Jeddah, Saudi Arabia | 8144 |
-| 20 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 7587 |
+| 16 | [mo-alhaddad](https://github.com/mo-alhaddad) | Mohammed Alhaddad | IPTech |  | Khobar, Saudi Arabia | 8946 |
+| 17 | [GarthOrmsby](https://github.com/GarthOrmsby) |  |  |  | Saudi Arabia | 8196 |
+| 18 | [devmsh](https://github.com/devmsh) | Mohammed S Shurrab | One Studio |  | Jeddah, Saudi Arabia | 8144 |
+| 19 | [xahmd](https://github.com/xahmd) | AHMAD JAMOS |  |  | Saudi Arabia | 7587 |
+| 20 | [alfee3l](https://github.com/alfee3l) | Abdulrazzaq Al-Fil | Muaynah |  | Saudi Arabia | 7425 |

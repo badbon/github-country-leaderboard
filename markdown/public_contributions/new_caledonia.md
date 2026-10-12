@@ -1,12 +1,12 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-12T03:16:23.980Z
+Generated: 2026-10-12T07:28:48.750Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 3804 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | Stratégie Zen IT |  | New Caledonia | 3818 |
 | 2 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 3159 |
 | 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | SPC |  | Noumea, New Caledonia | 2960 |
 | 4 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1471 |
@@ -23,6 +23,6 @@ Users: 111
 | 15 | [trara538](https://github.com/trara538) | Rara Soro | South Pacific Community  |  | Noumea, New Caledonia | 151 |
 | 16 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 139 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 125 |
-| 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak |  |  | Nouméa | 115 |
+| 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak |  |  | Nouméa | 118 |
 | 19 | [Esncminas](https://github.com/Esncminas) | DUCTANE Adrien | INFOBAM NC |  | NEW CALEDONIA | 108 |
-| 20 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 95 |
+| 20 | [nevizsh](https://github.com/nevizsh) | Nevi |  |  | New Caledonia | 94 |

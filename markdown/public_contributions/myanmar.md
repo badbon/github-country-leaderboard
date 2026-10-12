@@ -1,15 +1,15 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-12T03:15:16.634Z
+Generated: 2026-10-12T07:27:22.448Z
 
-Users: 2071
+Users: 2070
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6627 |
 | 2 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
 | 3 | [thesithunyein](https://github.com/thesithunyein) | SITHU NYEIN |  | thesithunyein | Yangon, Myanmar | 2670 |
-| 4 | [Oungseik](https://github.com/Oungseik) |  | Crossworks Myanmar |  | Mawlamyine, Mon State, Myanmar | 1495 |
+| 4 | [Oungseik](https://github.com/Oungseik) |  | Crossworks Myanmar |  | Mawlamyine, Mon State, Myanmar | 1429 |
 | 5 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 1400 |
 | 6 | [y3l1n4ung](https://github.com/y3l1n4ung) | Ye Lin Aung | Witz-U |  | Yangon , Myanmar | 1399 |
 | 7 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 1367 |

@@ -15,10 +15,10 @@ Indexed users: 1,770
 | 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | Victoria, BC Canada | 31,597 |
 | 2 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 12,117 |
 | 3 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
-| 4 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 8,787 |
-| 5 | [kwintin](https://github.com/kwintin) | Quentin | Victoria, BC | 8,695 |
-| 6 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | Victoria, BC | 8,221 |
-| 7 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 8,138 |
+| 4 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 9,189 |
+| 5 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 8,787 |
+| 6 | [kwintin](https://github.com/kwintin) | Quentin | Victoria, BC | 8,695 |
+| 7 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | Victoria, BC | 8,221 |
 | 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 7,711 |
 | 9 | [ascott](https://github.com/ascott) | Alanna Scott | Victoria, BC | 7,211 |
 | 10 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Victoria, BC | 7,135 |
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 120 |
 
-Generated: 2026-10-12T03:26:41.929Z
+Generated: 2026-10-12T07:39:07.684Z

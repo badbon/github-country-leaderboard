@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-12T03:11:58.017Z
+Generated: 2026-10-12T07:20:54.658Z
 
 Users: 1906
 
@@ -25,4 +25,4 @@ Users: 1906
 | 17 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 4804 |
 | 18 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Ohayo Dev&Design |  | Madagascar, Antananarivo | 4752 |
 | 19 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |
-| 20 | [rakotomandimby](https://github.com/rakotomandimby) | Mihamina Rakotomandimby | RKTMB | rktmb | Antananarivo, Madagascar | 4365 |
+| 20 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 4370 |
