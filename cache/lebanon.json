@@ -15476,7 +15476,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 168,
     "createdAt": "2021-04-14T06:00:30Z"
   },
   {
@@ -15486,7 +15486,7 @@
     "location": "Lebanon",
     "company": "DK WebMedia",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-06-16T10:22:45Z"
@@ -15500,7 +15500,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2021-07-14T11:34:51Z"
   },
   {
@@ -15511,8 +15511,8 @@
     "company": "Spike",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 330,
-    "publicContributions": 6,
+    "privateContributions": 333,
+    "publicContributions": 4,
     "createdAt": "2021-01-25T17:53:07Z"
   },
   {
@@ -15535,8 +15535,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 541,
-    "publicContributions": 2,
+    "privateContributions": 652,
+    "publicContributions": 0,
     "createdAt": "2021-04-08T08:28:25Z"
   },
   {
@@ -15608,7 +15608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 68,
     "createdAt": "2021-03-07T08:12:08Z"
   },
   {
@@ -15632,7 +15632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 20,
     "createdAt": "2021-08-01T14:50:07Z"
   },
   {
@@ -15642,22 +15642,10 @@
     "location": "Lebanon",
     "company": "Eurisko",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 481,
+    "publicContributions": 683,
     "createdAt": "2020-12-28T20:40:34Z"
-  },
-  {
-    "login": "Hilal211",
-    "name": "Hilal Masri",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77400675?s=72&u=6c11b234437da4fb8dc6d6387c7aa7bf1aa9f44a&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2021-01-13T15:28:39Z"
   },
   {
     "login": "suleiman-younes",

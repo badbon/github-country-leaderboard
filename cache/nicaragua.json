@@ -15558,7 +15558,7 @@
     "location": "Managua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 84,
     "createdAt": "2013-05-27T20:05:07Z"
@@ -15570,7 +15570,7 @@
     "location": "Managua, Nicaragua",
     "company": "Sosafe",
     "twitterUsername": "soyjimmysaenz",
-    "followers": 91,
+    "followers": 92,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2012-01-30T05:14:29Z"
@@ -15578,13 +15578,13 @@
   {
     "login": "charlieweb",
     "name": "Carlos Espinoza",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2066155?s=72&u=b801f2b799fe40bc003fb97e004970115c948d37&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2066155?s=72&u=10cabfc23c71a58634519f5462bcdf6cd1e82ffe&v=4",
     "location": "Nicaragua",
     "company": "Deftrobot",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 77,
-    "publicContributions": 50,
+    "followers": 30,
+    "privateContributions": 31,
+    "publicContributions": 72,
     "createdAt": "2012-07-30T16:32:32Z"
   },
   {
@@ -15594,7 +15594,7 @@
     "location": "Nicaragua",
     "company": "",
     "twitterUsername": "hectorsevillani",
-    "followers": 27,
+    "followers": 25,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2012-07-11T21:57:40Z"
@@ -15607,8 +15607,8 @@
     "company": "@nerdify",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 2128,
-    "publicContributions": 9,
+    "privateContributions": 2159,
+    "publicContributions": 24,
     "createdAt": "2012-04-24T14:52:14Z"
   },
   {
@@ -15618,9 +15618,9 @@
     "location": "Nicaragua",
     "company": "@Tixifni ",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2012-11-15T16:02:10Z"
   },
   {
@@ -15632,7 +15632,7 @@
     "twitterUsername": "",
     "followers": 24,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 114,
     "createdAt": "2012-05-19T21:14:09Z"
   },
   {
@@ -15644,20 +15644,8 @@
     "twitterUsername": "",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 17,
     "createdAt": "2012-06-04T21:31:27Z"
-  },
-  {
-    "login": "daviddagb2",
-    "name": "David Gonzalez Blanchard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1445496?s=72&u=51b0ec18352b42516cfb3ebceaa5df90f1a546d8&v=4",
-    "location": "Nicaragua",
-    "company": "GonzalezBlanchard",
-    "twitterUsername": "daviddagbx",
-    "followers": 21,
-    "privateContributions": 406,
-    "publicContributions": 10,
-    "createdAt": "2012-02-17T04:38:15Z"
   },
   {
     "login": "ernestoruiz89",
@@ -15667,8 +15655,8 @@
     "company": "",
     "twitterUsername": "ernestoruiz89",
     "followers": 17,
-    "privateContributions": 2734,
-    "publicContributions": 673,
+    "privateContributions": 2688,
+    "publicContributions": 967,
     "createdAt": "2012-03-31T05:52:09Z"
   },
   {
@@ -15678,9 +15666,9 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 1367,
-    "publicContributions": 21,
+    "followers": 17,
+    "privateContributions": 1548,
+    "publicContributions": 10,
     "createdAt": "2012-08-23T15:46:32Z"
   },
   {
@@ -15702,9 +15690,9 @@
     "location": "Nicaragua",
     "company": "Nova Cloud / Condor Comunicaciones ",
     "twitterUsername": "dfv78",
-    "followers": 14,
+    "followers": 15,
     "privateContributions": 1,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2012-06-27T01:29:58Z"
   },
   {
@@ -15716,7 +15704,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2012-03-14T02:44:20Z"
   },
   {
@@ -15739,8 +15727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 3612,
-    "publicContributions": 12,
+    "privateContributions": 4485,
+    "publicContributions": 13,
     "createdAt": "2012-07-10T16:20:19Z"
   },
   {
@@ -15750,9 +15738,9 @@
     "location": "Nicaragua",
     "company": "VIP Technology",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 77,
     "createdAt": "2012-12-27T06:12:11Z"
   },
   {
