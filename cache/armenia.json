@@ -14192,7 +14192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 64,
     "createdAt": "2021-01-24T22:48:58Z"
   },
   {
@@ -14228,7 +14228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 35,
     "createdAt": "2021-09-28T19:57:53Z"
   },
   {
@@ -14262,7 +14262,7 @@
     "location": "Armenia",
     "company": "SE&C Ingeniería",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-03T01:53:24Z"
@@ -14286,9 +14286,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 17,
+    "followers": 3,
+    "privateContributions": 2818,
+    "publicContributions": 109,
     "createdAt": "2021-04-30T10:48:26Z"
   },
   {
@@ -14310,7 +14310,7 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2021-04-10T10:22:15Z"
@@ -14323,7 +14323,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1172,
+    "privateContributions": 1119,
     "publicContributions": 0,
     "createdAt": "2021-04-04T13:00:34Z"
   },
@@ -14348,7 +14348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 19,
     "createdAt": "2021-02-08T19:10:34Z"
   },
   {
@@ -14359,7 +14359,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4531,
+    "privateContributions": 4788,
     "publicContributions": 29,
     "createdAt": "2021-10-29T20:13:19Z"
   },
@@ -14370,9 +14370,9 @@
     "location": "Yerevan",
     "company": "Civitta",
     "twitterUsername": "",
-    "followers": 1081,
-    "privateContributions": 951,
-    "publicContributions": 263,
+    "followers": 1084,
+    "privateContributions": 1464,
+    "publicContributions": 169,
     "createdAt": "2021-07-12T12:57:10Z"
   },
   {
@@ -14382,9 +14382,9 @@
     "location": "Yerevan",
     "company": "Snapp!",
     "twitterUsername": "arshamalh",
-    "followers": 207,
-    "privateContributions": 61,
-    "publicContributions": 19,
+    "followers": 208,
+    "privateContributions": 63,
+    "publicContributions": 22,
     "createdAt": "2021-03-30T18:30:26Z"
   },
   {
@@ -14392,11 +14392,11 @@
     "name": "nuwanda",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77895035?s=72&u=8dbdade01d1d4a46b55d27098b8d44535aca9f8a&v=4",
     "location": "Yerevan",
-    "company": "",
+    "company": "Inferaim",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 22,
-    "publicContributions": 356,
+    "privateContributions": 20,
+    "publicContributions": 420,
     "createdAt": "2021-01-23T17:39:54Z"
   },
   {

@@ -13820,7 +13820,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-07-08T08:10:17Z"
   },
   {
@@ -13842,9 +13842,9 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2120,
-    "publicContributions": 175,
+    "followers": 3,
+    "privateContributions": 3778,
+    "publicContributions": 585,
     "createdAt": "2023-10-13T04:46:38Z"
   },
   {
@@ -13856,7 +13856,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 354,
+    "publicContributions": 460,
     "createdAt": "2023-06-18T02:21:43Z"
   },
   {
@@ -13868,7 +13868,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-03-30T17:36:28Z"
   },
   {
@@ -13891,7 +13891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 224,
+    "privateContributions": 206,
     "publicContributions": 0,
     "createdAt": "2023-12-05T03:43:41Z"
   },
@@ -13903,8 +13903,8 @@
     "company": "National Yang Ming Chiao Tung University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 892,
-    "publicContributions": 49,
+    "privateContributions": 970,
+    "publicContributions": 68,
     "createdAt": "2023-03-30T05:49:45Z"
   },
   {
@@ -13914,9 +13914,9 @@
     "location": "Hsinchu, Taiwan",
     "company": "National Tsing Hua University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 730,
+    "publicContributions": 1142,
     "createdAt": "2023-03-15T00:12:37Z"
   },
   {
@@ -14012,7 +14012,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 2,
     "createdAt": "2023-08-15T08:30:54Z"
   },
   {

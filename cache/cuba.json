@@ -14118,9 +14118,9 @@
     "location": "Las Tunas, Cuba",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2015-07-08T14:12:35Z"
   },
   {
@@ -14132,7 +14132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2015-01-31T18:13:48Z"
   },
   {
@@ -14154,9 +14154,9 @@
     "location": "Havana, Cuba",
     "company": "Dennis Yalint",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2015-12-23T23:44:58Z"
   },
   {
@@ -14191,7 +14191,7 @@
     "company": "",
     "twitterUsername": "WilkieDF",
     "followers": 1,
-    "privateContributions": 22,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2015-03-20T20:14:40Z"
   },
@@ -14239,20 +14239,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 74,
+    "privateContributions": 77,
     "publicContributions": 2,
     "createdAt": "2015-12-15T16:01:45Z"
   },
   {
     "login": "fiderosado",
     "name": "Fidel Remedios Rosado",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15683590?s=72&u=31b9923e4b18c532f872bb8e6080121d62a3be03&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15683590?s=72&v=4",
     "location": "cuba",
     "company": "SerproTeam",
     "twitterUsername": "fiderosado",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 81,
     "createdAt": "2015-11-06T05:42:50Z"
   },
   {
@@ -14262,7 +14262,7 @@
     "location": "Cuba",
     "company": "CUSOBU-ServInfo",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2015-08-04T17:59:34Z"
@@ -14288,7 +14288,7 @@
     "twitterUsername": "clgil17",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 575,
+    "publicContributions": 587,
     "createdAt": "2015-06-30T17:00:07Z"
   },
   {
@@ -14299,8 +14299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 187,
-    "publicContributions": 96,
+    "privateContributions": 203,
+    "publicContributions": 66,
     "createdAt": "2015-03-26T15:55:03Z"
   },
   {
@@ -14328,25 +14328,13 @@
     "createdAt": "2015-07-07T17:21:49Z"
   },
   {
-    "login": "enaide",
-    "name": "Enaide Corrales Fernández",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15266862?s=72&u=62420b8ce5acb9b77e63c74be3f7bf341af700d5&v=4",
-    "location": "Holguin, Cuba",
-    "company": "Entrepreneur",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2015-10-23T15:57:11Z"
-  },
-  {
     "login": "gbismarck",
     "name": "Gianny Miranda Ramos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16105461?s=72&u=0c314ab9f0ead3aa3e149e3a1f929d038d1fde3b&v=4",
     "location": "Havana",
     "company": "Smart145",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-01T18:09:19Z"

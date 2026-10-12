@@ -14144,7 +14144,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2025-04-16T13:59:30Z"
   },
   {
@@ -14156,7 +14156,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 206,
+    "publicContributions": 193,
     "createdAt": "2025-06-19T00:51:39Z"
   },
   {
@@ -14179,8 +14179,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 381,
-    "publicContributions": 36,
+    "privateContributions": 436,
+    "publicContributions": 31,
     "createdAt": "2025-06-12T11:01:28Z"
   },
   {
@@ -14204,7 +14204,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 21,
     "createdAt": "2025-04-30T17:38:57Z"
   },
   {
@@ -14214,9 +14214,9 @@
     "location": "Cairo, Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 35,
     "createdAt": "2025-06-15T13:13:24Z"
   },
   {
@@ -14228,7 +14228,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 18,
     "createdAt": "2025-06-17T18:40:57Z"
   },
   {
@@ -14240,7 +14240,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2025-04-29T13:38:39Z"
   },
   {
@@ -14252,7 +14252,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 120,
     "createdAt": "2025-04-16T12:27:51Z"
   },
   {
@@ -14262,9 +14262,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 6,
     "createdAt": "2025-04-14T07:12:52Z"
   },
   {
@@ -14276,7 +14276,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 29,
     "createdAt": "2025-05-03T13:05:04Z"
   },
   {
@@ -14288,19 +14288,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 117,
     "createdAt": "2025-04-23T21:39:26Z"
   },
   {
     "login": "madonna-gergis",
     "name": "Madonna Gerges",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/217346900?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/217346900?s=72&u=a0d342095a995a1c7dbb0c8217b968c313d2aa2d&v=4",
     "location": "Cairo, Egypt",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 58,
     "createdAt": "2025-06-21T13:36:02Z"
   },
   {
@@ -14310,9 +14310,9 @@
     "location": "Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 236,
     "createdAt": "2025-04-13T16:00:51Z"
   },
   {
@@ -14324,7 +14324,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 27,
     "createdAt": "2025-05-13T15:33:34Z"
   },
   {
@@ -14336,7 +14336,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 0,
     "createdAt": "2025-06-02T10:40:16Z"
   },
   {
@@ -14348,7 +14348,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2025-04-30T13:10:20Z"
   },
   {
@@ -14358,9 +14358,9 @@
     "location": "Egypt/Giza",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 78,
     "createdAt": "2025-06-25T20:43:41Z"
   },
   {
@@ -14372,7 +14372,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 52,
     "createdAt": "2025-04-16T17:35:52Z"
   },
   {
@@ -409090,5 +409090,29 @@
     "privateContributions": 0,
     "publicContributions": 41,
     "createdAt": "2022-01-30T18:36:30Z"
+  },
+  {
+    "login": "anas-desoki-dev",
+    "name": "Anas Desoki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297584821?s=72&u=e6071408688c766c0ef78e0f1c635e91ce6c854a&v=4",
+    "location": "Cairo, Giza",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 21,
+    "privateContributions": 0,
+    "publicContributions": 38,
+    "createdAt": "2026-06-28T08:24:07Z"
+  },
+  {
+    "login": "Khaled24dv",
+    "name": "Khaled Mostafa",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297634361?s=72&v=4",
+    "location": "Cairo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-28T12:55:00Z"
   }
 ]

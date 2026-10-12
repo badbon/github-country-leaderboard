@@ -14276,7 +14276,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2020-01-14T17:05:35Z"
   },
   {
@@ -14288,7 +14288,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 9,
     "createdAt": "2020-11-18T02:39:09Z"
   },
   {
@@ -14298,9 +14298,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 263,
-    "publicContributions": 6,
+    "followers": 8,
+    "privateContributions": 186,
+    "publicContributions": 9,
     "createdAt": "2020-11-18T15:17:23Z"
   },
   {
@@ -14359,7 +14359,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 279,
+    "privateContributions": 221,
     "publicContributions": 0,
     "createdAt": "2020-04-18T19:46:23Z"
   },
@@ -14382,9 +14382,9 @@
     "location": "Dominican Republic",
     "company": "Linkyou",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1270,
-    "publicContributions": 50,
+    "followers": 7,
+    "privateContributions": 1162,
+    "publicContributions": 67,
     "createdAt": "2020-10-15T19:54:24Z"
   },
   {
@@ -14395,20 +14395,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 727,
+    "privateContributions": 899,
     "publicContributions": 3,
     "createdAt": "2020-08-29T15:04:06Z"
   },
   {
     "login": "lewissmatos",
     "name": "Lewis Silfredo Matos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63300185?s=72&u=54c8edd06e7b61dc300475e47a375a10b3e509b5&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/63300185?s=72&u=a6ed919949a44dc8e1d5a655df3a49432469df03&v=4",
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 6,
     "createdAt": "2020-04-07T13:37:19Z"
   },
   {
@@ -14419,8 +14419,8 @@
     "company": "Frontend Developer",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 388,
-    "publicContributions": 179,
+    "privateContributions": 439,
+    "publicContributions": 182,
     "createdAt": "2020-06-14T01:12:26Z"
   },
   {
@@ -14431,8 +14431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 60,
-    "publicContributions": 74,
+    "privateContributions": 63,
+    "publicContributions": 73,
     "createdAt": "2020-07-14T03:08:45Z"
   },
   {
@@ -14449,14 +14449,14 @@
   },
   {
     "login": "fjmedina21",
-    "name": "Francisco J. Medina ",
+    "name": "Francisco Medina ",
     "avatarUrl": "https://avatars.githubusercontent.com/u/70180651?s=72&u=1c6723208e5c362387ea77b251295f2a798a4f9e&v=4",
     "location": "Santo Domingo, Dominican Republic ",
     "company": "",
     "twitterUsername": "fjmedina21",
     "followers": 8,
-    "privateContributions": 58,
-    "publicContributions": 85,
+    "privateContributions": 46,
+    "publicContributions": 83,
     "createdAt": "2020-08-25T00:18:33Z"
   },
   {
@@ -14466,7 +14466,7 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "rmiguel2505",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-08T18:19:12Z"

@@ -13964,7 +13964,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 33,
     "createdAt": "2023-06-12T15:02:59Z"
   },
   {
@@ -13976,7 +13976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-07-21T12:45:19Z"
   },
   {
@@ -14012,7 +14012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 7,
     "createdAt": "2023-10-08T10:31:37Z"
   },
   {
@@ -14024,7 +14024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 14,
     "createdAt": "2023-11-23T13:12:00Z"
   },
   {
@@ -14052,18 +14052,6 @@
     "createdAt": "2023-08-20T19:41:46Z"
   },
   {
-    "login": "tycinka",
-    "name": "Alena Mikešová",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122482152?s=72&u=3c4e22316b57c1ce1de14db69dbe9f0e804e908e&v=4",
-    "location": "Ostrava, Czech Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 160,
-    "publicContributions": 2,
-    "createdAt": "2023-01-11T19:08:21Z"
-  },
-  {
     "login": "kuceram2",
     "name": "Martin Kučera",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129427461?s=72&v=4",
@@ -14072,7 +14060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 30,
     "createdAt": "2023-03-30T17:51:57Z"
   },
   {
@@ -14090,13 +14078,13 @@
   {
     "login": "Kamilla29",
     "name": "Kamilla Kuanysheva",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136432816?s=72&u=252491c241235cbdde1570493800b3466cbee009&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136432816?s=72&u=46968d2d313acd1879233a042efb4c13111c3b6e&v=4",
     "location": "Czech Republic, Prague",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 135,
     "createdAt": "2023-06-13T07:23:20Z"
   },
   {
@@ -14120,19 +14108,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 86,
     "createdAt": "2023-11-10T16:33:04Z"
   },
   {
     "login": "tkoscieln",
     "name": "Tomáš Koscielniak",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147053087?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/147053087?s=72&u=1b6a8e3d0c90bf151a1accdd11f0142242c05a04&v=4",
     "location": "Czech Republic",
     "company": "RedHat",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 263,
+    "privateContributions": 7,
+    "publicContributions": 251,
     "createdAt": "2023-10-05T10:51:26Z"
   },
   {
@@ -14143,7 +14131,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1134,
+    "privateContributions": 1975,
     "publicContributions": 1,
     "createdAt": "2023-09-26T17:58:09Z"
   },
@@ -14156,7 +14144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2023-03-05T07:14:50Z"
   },
   {
@@ -14167,7 +14155,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 169,
+    "privateContributions": 164,
     "publicContributions": 7,
     "createdAt": "2023-12-18T11:40:03Z"
   },

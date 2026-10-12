@@ -13844,7 +13844,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 52,
     "createdAt": "2025-07-08T03:31:58Z"
   },
   {
@@ -13856,7 +13856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-07-07T23:22:35Z"
   },
   {
@@ -13868,7 +13868,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 23,
     "createdAt": "2025-08-09T22:35:44Z"
   },
   {
@@ -13892,7 +13892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2025-08-18T03:56:04Z"
   },
   {
@@ -13904,7 +13904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 1,
     "createdAt": "2025-09-20T23:38:26Z"
   },
   {
@@ -13916,7 +13916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-10-08T14:39:35Z"
   },
   {
@@ -13928,7 +13928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-26T06:02:30Z"
   },
   {
@@ -13950,7 +13950,7 @@
     "location": "Colombia, Cartagena de Indias",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 61,
     "createdAt": "2025-08-03T16:06:31Z"
@@ -13974,9 +13974,9 @@
     "location": "Colombia (Campoalegre - Huila)",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 9,
     "createdAt": "2025-09-02T01:01:15Z"
   },
   {
@@ -13986,9 +13986,9 @@
     "location": "Colombia",
     "company": "Universidad Nacional de Colombia",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 101,
     "createdAt": "2025-09-10T00:38:39Z"
   },
   {
@@ -13998,9 +13998,9 @@
     "location": "Bogotá, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 462,
-    "publicContributions": 7,
+    "followers": 2,
+    "privateContributions": 623,
+    "publicContributions": 230,
     "createdAt": "2025-09-09T00:07:53Z"
   },
   {
@@ -14011,8 +14011,8 @@
     "company": "Universidad de los Andes @UniversidadDeLosAndes @marceloctorres-net @desarrollosig-net @ctorres-ia @gisdevelopments-net @universidad-de-los-andes",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 138,
-    "publicContributions": 89,
+    "privateContributions": 593,
+    "publicContributions": 12,
     "createdAt": "2025-07-31T08:53:15Z"
   },
   {
@@ -14023,8 +14023,8 @@
     "company": "ANEIAP",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 28,
+    "privateContributions": 19,
+    "publicContributions": 39,
     "createdAt": "2025-10-23T21:19:37Z"
   },
   {
@@ -14035,8 +14035,8 @@
     "company": "Independiente",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 4,
+    "privateContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-08-01T16:14:05Z"
   },
   {
@@ -14048,7 +14048,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 548,
+    "publicContributions": 510,
     "createdAt": "2025-08-24T18:50:56Z"
   },
   {
@@ -14060,7 +14060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 184,
     "createdAt": "2025-09-22T21:29:20Z"
   },
   {
@@ -14072,7 +14072,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 14,
     "createdAt": "2025-08-22T20:05:49Z"
   },
   {
@@ -350026,5 +350026,17 @@
     "privateContributions": 0,
     "publicContributions": 45,
     "createdAt": "2026-06-26T17:10:38Z"
+  },
+  {
+    "login": "cashcoorporation-commits",
+    "name": "SYNTRYX DEVS FULLSTACK",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297675129?s=72&u=84abb893293c91d65c1b56d330b6d8a9d6b2a7fc&v=4",
+    "location": "Colombia",
+    "company": "@syntrixsoftware ",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T16:16:13Z"
   }
 ]

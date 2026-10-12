@@ -14191,8 +14191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 50,
-    "publicContributions": 37,
+    "privateContributions": 56,
+    "publicContributions": 39,
     "createdAt": "2022-05-05T02:06:42Z"
   },
   {
@@ -14228,19 +14228,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 27,
     "createdAt": "2022-07-01T23:42:42Z"
   },
   {
     "login": "marcosdaniel2002",
     "name": "Marcos Terán",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107767656?s=72&u=be629d8ad9c94e12fdb71be2fda6a06da6a6cc0d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/107767656?s=72&u=e06f716fcceaa901417f390f9dc971ea68e107ec&v=4",
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 49,
     "createdAt": "2022-06-18T17:23:58Z"
   },
   {
@@ -14252,7 +14252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 13,
     "createdAt": "2022-05-25T21:30:08Z"
   },
   {
@@ -14276,7 +14276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 84,
     "createdAt": "2022-05-23T17:55:59Z"
   },
   {
@@ -14287,8 +14287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 152,
-    "publicContributions": 481,
+    "privateContributions": 169,
+    "publicContributions": 489,
     "createdAt": "2022-11-08T13:30:14Z"
   },
   {
@@ -14298,9 +14298,9 @@
     "location": "Quito, Ecuador.",
     "company": "Escuela Politécnica Nacional",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 372,
+    "publicContributions": 791,
     "createdAt": "2022-05-12T16:41:05Z"
   },
   {
@@ -14312,7 +14312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 35,
-    "publicContributions": 99,
+    "publicContributions": 100,
     "createdAt": "2022-07-14T16:49:05Z"
   },
   {
@@ -14324,7 +14324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 156,
     "createdAt": "2022-09-22T00:49:36Z"
   },
   {
@@ -14372,7 +14372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 44,
     "createdAt": "2022-06-30T18:22:25Z"
   },
   {
@@ -14396,7 +14396,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 20,
     "createdAt": "2022-10-13T20:30:56Z"
   },
   {
@@ -58774,5 +58774,17 @@
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2026-06-24T15:52:46Z"
+  },
+  {
+    "login": "ShisuiTrash",
+    "name": "Miaurisio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297723238?s=72&u=d6439e7a63700438a3280f40b93f3e25f09d0a22&v=4",
+    "location": "Ecuador",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T21:23:02Z"
   }
 ]

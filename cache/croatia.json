@@ -14214,7 +14214,7 @@
     "location": "Croatia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-12T17:08:46Z"
@@ -14228,7 +14228,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 530,
+    "publicContributions": 532,
     "createdAt": "2020-09-09T21:45:07Z"
   },
   {
@@ -14239,7 +14239,7 @@
     "company": "",
     "twitterUsername": "IvanB_001",
     "followers": 5,
-    "privateContributions": 620,
+    "privateContributions": 418,
     "publicContributions": 25,
     "createdAt": "2020-10-18T17:34:36Z"
   },
@@ -14252,7 +14252,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 623,
+    "publicContributions": 628,
     "createdAt": "2020-06-19T17:56:40Z"
   },
   {
@@ -14264,7 +14264,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 18,
     "createdAt": "2020-03-19T10:09:43Z"
   },
   {
@@ -14275,7 +14275,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 313,
+    "privateContributions": 316,
     "publicContributions": 0,
     "createdAt": "2020-10-18T18:14:49Z"
   },
@@ -14286,9 +14286,9 @@
     "location": "Zagreb, Croatia",
     "company": "DECODE",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 7,
     "createdAt": "2020-09-10T13:53:31Z"
   },
   {
@@ -14311,7 +14311,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 109,
+    "privateContributions": 106,
     "publicContributions": 2,
     "createdAt": "2020-10-25T14:38:19Z"
   },
@@ -14323,7 +14323,7 @@
     "company": "Self Employed",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1047,
+    "privateContributions": 1036,
     "publicContributions": 0,
     "createdAt": "2020-09-17T14:32:31Z"
   },
@@ -14360,7 +14360,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 14,
     "createdAt": "2020-08-12T14:02:41Z"
   },
   {
@@ -14371,8 +14371,8 @@
     "company": "Ericsson Nikola Tesla",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 314,
-    "publicContributions": 78,
+    "privateContributions": 329,
+    "publicContributions": 88,
     "createdAt": "2020-09-09T20:25:01Z"
   },
   {
@@ -14395,8 +14395,8 @@
     "company": "",
     "twitterUsername": "lpetronika",
     "followers": 5,
-    "privateContributions": 274,
-    "publicContributions": 165,
+    "privateContributions": 198,
+    "publicContributions": 211,
     "createdAt": "2020-04-06T13:03:46Z"
   },
   {
@@ -14419,8 +14419,8 @@
     "company": "Aras™ Digital Products",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2835,
-    "publicContributions": 29,
+    "privateContributions": 2804,
+    "publicContributions": 19,
     "createdAt": "2020-10-26T11:07:44Z"
   },
   {
@@ -14431,7 +14431,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 20,
+    "privateContributions": 17,
     "publicContributions": 0,
     "createdAt": "2020-10-06T15:49:31Z"
   },
@@ -65242,5 +65242,17 @@
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2011-08-13T07:46:02Z"
+  },
+  {
+    "login": "tandarajure-crypto",
+    "name": "JURE TANDARA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287090835?s=72&u=721e73bcb0414f24d062d7c6cda7abc903955fdf&v=4",
+    "location": "Zagreb",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3700,
+    "createdAt": "2026-05-22T22:10:11Z"
   }
 ]
