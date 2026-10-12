@@ -1,6 +1,6 @@
 # Argentina
 
-Indexed users: 50,742
+Indexed users: 50,741
 
 | Leaderboard | Link |
 |---|---|
@@ -19,11 +19,11 @@ Indexed users: 50,742
 | 5 | [alexsrebernic](https://github.com/alexsrebernic) | Alex Srebernic | Argentina | 27,983 |
 | 6 | [pambram](https://github.com/pambram) | Pablo Ambram | Buenos Aires | 23,399 |
 | 7 | [fdbustamante](https://github.com/fdbustamante) | Federico Bustamante | Argentina | 22,907 |
-| 8 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | San Salvador de Jujuy, Argentina | 20,691 |
-| 9 | [anaibol](https://github.com/anaibol) | Anibal | Buenos Aires | 20,606 |
-| 10 | [jefrnc](https://github.com/jefrnc) | José Franco | Buenos Aires | 18,378 |
-| 11 | [inakiabt](https://github.com/inakiabt) | Iñaki Abete | Tandil, Argentina | 18,297 |
-| 12 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich | Concepcion del Uruguay, Entre Rios, Argentina | 18,189 |
+| 8 | [anaibol](https://github.com/anaibol) | Anibal | Buenos Aires | 20,606 |
+| 9 | [jefrnc](https://github.com/jefrnc) | José Franco | Buenos Aires | 18,378 |
+| 10 | [inakiabt](https://github.com/inakiabt) | Iñaki Abete | Tandil, Argentina | 18,297 |
+| 11 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich | Concepcion del Uruguay, Entre Rios, Argentina | 18,189 |
+| 12 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | San Salvador de Jujuy, Argentina | 18,014 |
 | 13 | [agusrdelia](https://github.com/agusrdelia) | Agustín D'Elía | Ciudad de Buenos Aires, Argentina | 17,639 |
 | 14 | [esemashko](https://github.com/esemashko) | Eduard Semashko | Buenos Aires Argentina | 15,532 |
 | 15 | [nicolasbatistoni](https://github.com/nicolasbatistoni) | Nicolás Batistoni | Balcarce, Buenos Aires, Argentina | 15,472 |
@@ -40,8 +40,8 @@ Indexed users: 50,742
 | 1 | [pablojorgeandres](https://github.com/pablojorgeandres) | Pablo Jorge Andres | CABA, Buenos Aires | 603,404 |
 | 2 | [Ju4nAgust1n](https://github.com/Ju4nAgust1n) | Juan Agustín | Argentina | 34,743 |
 | 3 | [fdbustamante](https://github.com/fdbustamante) | Federico Bustamante | Argentina | 22,907 |
-| 4 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | San Salvador de Jujuy, Argentina | 20,638 |
-| 5 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich | Concepcion del Uruguay, Entre Rios, Argentina | 18,189 |
+| 4 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich | Concepcion del Uruguay, Entre Rios, Argentina | 18,189 |
+| 5 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | San Salvador de Jujuy, Argentina | 17,985 |
 | 6 | [PinkLittleKitty](https://github.com/PinkLittleKitty) | Santiago Fisela | Argentina | 13,959 |
 | 7 | [xplshn](https://github.com/xplshn) | Anto | Argentina | 11,041 |
 | 8 | [benthamite](https://github.com/benthamite) | Pablo Stafforini | Buenos Aires | 9,390 |
@@ -83,4 +83,4 @@ Indexed users: 50,742
 | 19 | [dacap](https://github.com/dacap) | David Capello | Argentina | 1,004 |
 | 20 | [andresriancho](https://github.com/andresriancho) | Andres Riancho | Buenos Aires, Argentina | 1,001 |
 
-Generated: 2026-10-12T16:10:07.199Z
+Generated: 2026-10-12T17:32:19.983Z

@@ -1,13 +1,13 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-12T15:55:41.485Z
+Generated: 2026-10-12T17:19:04.109Z
 
 Users: 1481
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares |  |  | Aleppo/Syria | 4645 |
-| 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2917 |
+| 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2853 |
 | 3 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2001 |
 | 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1676 |
 | 5 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1630 |

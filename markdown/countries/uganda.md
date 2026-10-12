@@ -72,15 +72,15 @@ Indexed users: 3,874
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 391 |
 | 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 330 |
 | 10 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 329 |
-| 11 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | Kampala | 327 |
-| 12 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 323 |
+| 11 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 327 |
+| 12 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | Kampala | 325 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | KAMPALA, UGANDA | 315 |
 | 14 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Kampala, Uganda | 296 |
 | 15 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 288 |
 | 16 | [kbjude](https://github.com/kbjude) | kbjude | Kampala | 218 |
-| 17 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Kampala | 214 |
-| 18 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 209 |
+| 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya | Kampala, Uganda | 209 |
+| 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Kampala | 203 |
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-12T16:01:23.664Z
+Generated: 2026-10-12T17:22:42.249Z

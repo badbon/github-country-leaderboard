@@ -1,8 +1,8 @@
 # Total Contributions - Argentina
 
-Generated: 2026-10-12T16:10:07.199Z
+Generated: 2026-10-12T17:32:19.983Z
 
-Users: 50742
+Users: 50741
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,11 +13,11 @@ Users: 50742
 | 5 | [alexsrebernic](https://github.com/alexsrebernic) | Alex Srebernic | @cryptoacademy-play  | ASrebernic | Argentina | 27983 |
 | 6 | [pambram](https://github.com/pambram) | Pablo Ambram | @trilogy-group  |  | Buenos Aires | 23399 |
 | 7 | [fdbustamante](https://github.com/fdbustamante) | Federico Bustamante |  |  | Argentina | 22907 |
-| 8 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | Upwork |  | San Salvador de Jujuy, Argentina | 20691 |
-| 9 | [anaibol](https://github.com/anaibol) | Anibal |  |  | Buenos Aires | 20606 |
-| 10 | [jefrnc](https://github.com/jefrnc) | José Franco | @Quant-Lodge  |  | Buenos Aires | 18378 |
-| 11 | [inakiabt](https://github.com/inakiabt) | Iñaki Abete |  |  | Tandil, Argentina | 18297 |
-| 12 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich |  |  | Concepcion del Uruguay, Entre Rios, Argentina | 18189 |
+| 8 | [anaibol](https://github.com/anaibol) | Anibal |  |  | Buenos Aires | 20606 |
+| 9 | [jefrnc](https://github.com/jefrnc) | José Franco | @Quant-Lodge  |  | Buenos Aires | 18378 |
+| 10 | [inakiabt](https://github.com/inakiabt) | Iñaki Abete |  |  | Tandil, Argentina | 18297 |
+| 11 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich |  |  | Concepcion del Uruguay, Entre Rios, Argentina | 18189 |
+| 12 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | Upwork |  | San Salvador de Jujuy, Argentina | 18014 |
 | 13 | [agusrdelia](https://github.com/agusrdelia) | Agustín D'Elía | @Iconosur | agusrdelia | Ciudad de Buenos Aires, Argentina | 17639 |
 | 14 | [esemashko](https://github.com/esemashko) | Eduard Semashko |  |  | Buenos Aires Argentina | 15532 |
 | 15 | [nicolasbatistoni](https://github.com/nicolasbatistoni) | Nicolás Batistoni | Otara Labs |  | Balcarce, Buenos Aires, Argentina | 15472 |

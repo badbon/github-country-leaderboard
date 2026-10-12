@@ -1,6 +1,6 @@
 # Followers - Ivory Coast
 
-Generated: 2026-10-12T16:38:47.351Z
+Generated: 2026-10-12T18:01:04.052Z
 
 Users: 488
 
@@ -12,7 +12,7 @@ Users: 488
 | 4 | [AngeTia](https://github.com/AngeTia) | M. Gompou Tia Ange | Freelancer  | AngeTia03 | Ivory Coast, Abidjan | 138 |
 | 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye |  | the_boye_ | Ivory Coast | 137 |
 | 6 | [moasko](https://github.com/moasko) | moasko.dev |  | mouhage5 | Côte d'Ivoire | 116 |
-| 7 | [detygon](https://github.com/detygon) | Salomon Dion | @asacitechnologies | detygon | Abidjan, Côte d'Ivoire | 91 |
+| 7 | [detygon](https://github.com/detygon) | Salomon Dion | @asacitechnologies | detygon | Abidjan, Côte d'Ivoire | 92 |
 | 8 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | @SC-DIGITAL | yayadeveloppeur | Côte d'Ivoire, Abidjan | 90 |
 | 9 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | CEO @ Dukify Inc. | sidikfaha | Abidjan, Ivory Coast | 81 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | @workify | KKompissi | Abidjan, Côte d'ivoire | 75 |

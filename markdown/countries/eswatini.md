@@ -62,7 +62,7 @@ Indexed users: 108
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 201 |
+| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 202 |
 | 2 | [KDlamini](https://github.com/KDlamini) | Simo Dlamini | Mbabane, Eswatini | 78 |
 | 3 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 37 |
 | 4 | [phume03](https://github.com/phume03) | Phumelela Mdluli | Eswatini | 28 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-12T16:28:24.736Z
+Generated: 2026-10-12T17:51:11.741Z

@@ -1,8 +1,8 @@
 # Total Contributions - Taiwan
 
-Generated: 2026-10-12T15:56:25.132Z
+Generated: 2026-10-12T17:19:07.480Z
 
-Users: 22019
+Users: 22018
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

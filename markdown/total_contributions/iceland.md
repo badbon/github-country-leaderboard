@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-12T16:37:08.008Z
+Generated: 2026-10-12T17:58:16.779Z
 
 Users: 1580
 
@@ -11,10 +11,10 @@ Users: 1580
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason |  |  | Akureyri, Iceland | 16153 |
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt |  |  | Reykjavík, Iceland | 15680 |
 | 5 | [tylerelias](https://github.com/tylerelias) | Tyler |  |  | Iceland | 14616 |
-| 6 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12026 |
-| 7 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 10894 |
-| 8 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 9170 |
-| 9 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Lóalóa |  | Reykjavík, Iceland | 8780 |
+| 6 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Loaloa |  | Reykjavík, Iceland | 12769 |
+| 7 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson |  |  | Iceland | 12026 |
+| 8 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 10894 |
+| 9 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | @aranja  |  | Iceland | 9170 |
 | 10 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 8749 |
 | 11 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason |  |  | Reykjavik, Iceland | 7577 |
 | 12 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Tero |  | Reykjavik | 7571 |

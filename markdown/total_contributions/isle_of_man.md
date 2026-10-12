@@ -1,6 +1,6 @@
 # Total Contributions - Isle of Man
 
-Generated: 2026-10-12T16:38:37.704Z
+Generated: 2026-10-12T18:00:19.902Z
 
 Users: 155
 
@@ -10,7 +10,7 @@ Users: 155
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | @AuBerryBerry | auberryberry | Isle of Man | 10036 |
 | 3 | [bengris32](https://github.com/bengris32) | Ben |  |  | Isle of Man | 7288 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | @craftapplied | dazdotdev | Isle of Man | 4532 |
-| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3444 |
+| 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min |  |  | Isle of Man | 3446 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 2160 |
 | 7 | [oliciv](https://github.com/oliciv) | Oli Allen |  |  | Isle of Man | 1906 |
 | 8 | [lukawarren](https://github.com/lukawarren) | Luka Warren |  |  | Isle of Man | 1853 |
@@ -24,5 +24,5 @@ Users: 155
 | 16 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco |  |  | Isle of Man | 1211 |
 | 17 | [tonypartridge](https://github.com/tonypartridge) | Tony Partridge |  | tonypartridge | Isle of Man | 1210 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson |  |  | Isle of Man | 1106 |
-| 19 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1040 |
+| 19 | [dannmat](https://github.com/dannmat) | Matt Ward |  |  | Isle of Man | 1041 |
 | 20 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | @apptrackit  |  | Isle of Man | 1003 |

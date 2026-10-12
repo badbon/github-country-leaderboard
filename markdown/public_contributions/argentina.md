@@ -1,16 +1,16 @@
 # Public Contributions - Argentina
 
-Generated: 2026-10-12T16:10:07.199Z
+Generated: 2026-10-12T17:32:19.983Z
 
-Users: 50742
+Users: 50741
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [pablojorgeandres](https://github.com/pablojorgeandres) | Pablo Jorge Andres | Conekta |  | CABA, Buenos Aires | 603404 |
 | 2 | [Ju4nAgust1n](https://github.com/Ju4nAgust1n) | Juan Agustín | Novativa Group |  | Argentina | 34743 |
 | 3 | [fdbustamante](https://github.com/fdbustamante) | Federico Bustamante |  |  | Argentina | 22907 |
-| 4 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | Upwork |  | San Salvador de Jujuy, Argentina | 20638 |
-| 5 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich |  |  | Concepcion del Uruguay, Entre Rios, Argentina | 18189 |
+| 4 | [qazuor](https://github.com/qazuor) | Leandro Asrilevich |  |  | Concepcion del Uruguay, Entre Rios, Argentina | 18189 |
+| 5 | [Happy-sloth](https://github.com/Happy-sloth) | Giovanni A. | Upwork |  | San Salvador de Jujuy, Argentina | 17985 |
 | 6 | [PinkLittleKitty](https://github.com/PinkLittleKitty) | Santiago Fisela | FaR-Team |  | Argentina | 13959 |
 | 7 | [xplshn](https://github.com/xplshn) | Anto | Random Contrarian Insurgent Organization |  | Argentina | 11041 |
 | 8 | [benthamite](https://github.com/benthamite) | Pablo Stafforini | @epoch-research |  | Buenos Aires | 9390 |

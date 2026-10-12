@@ -14,7 +14,7 @@ Indexed users: 728
 |---:|---|---|---|---:|
 | 1 | [EAlbasri](https://github.com/EAlbasri) | Ebrahim Albasri | Bahrain | 118,629 |
 | 2 | [a7md](https://github.com/a7md) | {ahmed} | Bahrain | 12,695 |
-| 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,309 |
+| 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 10,334 |
 | 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,282 |
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan | Manama, Bahrain | 6,013 |
 | 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 5,752 |
@@ -44,7 +44,7 @@ Indexed users: 728
 | 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,688 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 1,877 |
 | 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,300 |
-| 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,258 |
+| 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,273 |
 | 9 | [sfoulad](https://github.com/sfoulad) | Sameh Foulad | Bahrain | 893 |
 | 10 | [read2see](https://github.com/read2see) | Husain Habib | Bahrain | 888 |
 | 11 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 829 |
@@ -71,7 +71,7 @@ Indexed users: 728
 | 7 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 104 |
 | 8 | [FnrDev](https://github.com/FnrDev) | Ahmed | Bahrain | 93 |
 | 9 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 93 |
-| 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 85 |
+| 10 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 86 |
 | 11 | [zakk616](https://github.com/zakk616) | Muhammad Zakaria | Manama, Bahrain | 84 |
 | 12 | [SouvikChoudhury360](https://github.com/SouvikChoudhury360) | Souvik Choudhury | Manama, Bahrain | 80 |
 | 13 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 64 |
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
 
-Generated: 2026-10-12T16:11:43.825Z
+Generated: 2026-10-12T17:33:12.365Z

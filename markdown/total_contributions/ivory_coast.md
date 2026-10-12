@@ -1,6 +1,6 @@
 # Total Contributions - Ivory Coast
 
-Generated: 2026-10-12T16:38:47.351Z
+Generated: 2026-10-12T18:01:04.052Z
 
 Users: 488
 
@@ -12,8 +12,8 @@ Users: 488
 | 4 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | WAZMINE | azinakou | Abidjan, Côte d'ivoire | 7482 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | @endeavourmining @artipie @cqfn | baudoliver7 | Abidjan, Côte d'Ivoire | 7179 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Artefact |  | Cocody, Abidjan, Côte d'Ivoire | 5972 |
-| 7 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 5827 |
-| 8 | [theboss001](https://github.com/theboss001) | Landry Kolaï | @africancarfleet  |  | Côte d'ivoire | 5753 |
+| 7 | [theboss001](https://github.com/theboss001) | Landry Kolaï | @africancarfleet  |  | Côte d'ivoire | 5854 |
+| 8 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | @nascent-tech  | houssenedao | Côte d'ivoire, Abidjan | 5827 |
 | 9 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | AFRICAN PERMANENT INNOVATIONS | lordkkjmix | abidjan, côte d'ivoire | 5615 |
 | 10 | [lambirou](https://github.com/lambirou) | Roland Edi | Codivoire SARL. | lambirou225 | Abidjan, Côte d'ivoire | 5372 |
 | 11 | [karimalik](https://github.com/karimalik) | Karim Kompissi | @workify | KKompissi | Abidjan, Côte d'ivoire | 5076 |

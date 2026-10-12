@@ -29,9 +29,9 @@ Indexed users: 1,799
 | 15 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
 | 16 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,598 |
 | 17 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | Cameroon | 5,266 |
-| 18 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
-| 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,087 |
-| 20 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 4,749 |
+| 18 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | Buea, Cameroon | 5,241 |
+| 19 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
+| 20 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,087 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,799
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
 
-Generated: 2026-10-12T16:16:45.221Z
+Generated: 2026-10-12T17:40:31.565Z

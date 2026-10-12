@@ -31,7 +31,7 @@ Indexed users: 339
 | 17 | [fater04](https://github.com/fater04) | fater_04 | Haiti | 1,111 |
 | 18 | [jsbeaudry](https://github.com/jsbeaudry) | Beaudry Jean Sauvenel | Port-au-prince, Haiti | 976 |
 | 19 | [EdManDev](https://github.com/EdManDev) | EdManDev | Haiti | 926 |
-| 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 870 |
+| 20 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 873 |
 
 ## Public Contributions
 
@@ -67,7 +67,7 @@ Indexed users: 339
 | 3 | [certilremy](https://github.com/certilremy) | Certil Remy | Haiti | 72 |
 | 4 | [davidsonluma](https://github.com/davidsonluma) | Davidson | Haiti | 72 |
 | 5 | [cbaja](https://github.com/cbaja) | Carly BAJA | HAITI | 71 |
-| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 64 |
+| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Port-au-Prince | 63 |
 | 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 58 |
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Port-au-Prince - Haiti | 56 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-12T16:35:42.569Z
+Generated: 2026-10-12T17:56:09.823Z

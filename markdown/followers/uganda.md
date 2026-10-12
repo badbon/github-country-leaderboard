@@ -1,6 +1,6 @@
 # Followers - Uganda
 
-Generated: 2026-10-12T16:01:23.664Z
+Generated: 2026-10-12T17:22:42.249Z
 
 Users: 3874
 
@@ -16,13 +16,13 @@ Users: 3874
 | 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | J-SofTech | MarcinJesar | Uganda | 391 |
 | 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | MUTUNGO-KAMPALA |  | UGANDA | 330 |
 | 10 | [aivan2798](https://github.com/aivan2798) | aivan2798 |  |  | Kampala | 329 |
-| 11 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | e-Learning Platform | jesse_comedian | Kampala | 327 |
-| 12 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Uganda Christian University | MugangaCharles5 | Kampala | 323 |
+| 11 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Uganda Christian University | MugangaCharles5 | Kampala | 327 |
+| 12 | [Fresh-Teacher](https://github.com/Fresh-Teacher) | Fresh Teacher | e-Learning Platform | jesse_comedian | Kampala | 325 |
 | 13 | [kidde60](https://github.com/kidde60) | GEORGE WILLIAM KIDDE | Microverse | KGWilliam60 | KAMPALA, UGANDA | 315 |
 | 14 | [has2k1](https://github.com/has2k1) | Hassan Kibirige | Posit, PBC | HKibirige | Kampala, Uganda | 296 |
 | 15 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 288 |
 | 16 | [kbjude](https://github.com/kbjude) | kbjude | git.eygo.biz | balindakj | Kampala | 218 |
-| 17 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Loft  | mitalasam | Kampala | 214 |
-| 18 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya |  | ceasor_elvis | Kampala, Uganda | 209 |
+| 17 | [ceasor-elvis](https://github.com/ceasor-elvis) | Elvis Joseph Kawalya |  | ceasor_elvis | Kampala, Uganda | 209 |
+| 18 | [mitalasamuel](https://github.com/mitalasamuel) | Mitala Samuel | Loft  | mitalasam | Kampala | 203 |
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Digital Impressions Uganda, ICT Skills Dev Ctr | kitemaggwaFic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 186 |

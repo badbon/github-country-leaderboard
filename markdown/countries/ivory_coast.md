@@ -18,8 +18,8 @@ Indexed users: 488
 | 4 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 7,482 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 7,179 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 5,972 |
-| 7 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 5,827 |
-| 8 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 5,753 |
+| 7 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 5,854 |
+| 8 | [houssenedao](https://github.com/houssenedao) | Houssene Dao | Côte d'ivoire, Abidjan | 5,827 |
 | 9 | [lordkkjmix](https://github.com/lordkkjmix) | Koffi Josué Kouakou | abidjan, côte d'ivoire | 5,615 |
 | 10 | [lambirou](https://github.com/lambirou) | Roland Edi | Abidjan, Côte d'ivoire | 5,372 |
 | 11 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 5,076 |
@@ -68,7 +68,7 @@ Indexed users: 488
 | 4 | [AngeTia](https://github.com/AngeTia) | M. Gompou Tia Ange | Ivory Coast, Abidjan | 138 |
 | 5 | [boyeClaude](https://github.com/boyeClaude) | Frederic Boye | Ivory Coast | 137 |
 | 6 | [moasko](https://github.com/moasko) | moasko.dev | Côte d'Ivoire | 116 |
-| 7 | [detygon](https://github.com/detygon) | Salomon Dion | Abidjan, Côte d'Ivoire | 91 |
+| 7 | [detygon](https://github.com/detygon) | Salomon Dion | Abidjan, Côte d'Ivoire | 92 |
 | 8 | [Yaya12085](https://github.com/Yaya12085) | Yaya Mohamed | Côte d'Ivoire, Abidjan | 90 |
 | 9 | [sidikfaha](https://github.com/sidikfaha) | Aboubakar Sidik Faha | Abidjan, Ivory Coast | 81 |
 | 10 | [karimalik](https://github.com/karimalik) | Karim Kompissi | Abidjan, Côte d'ivoire | 75 |
@@ -83,4 +83,4 @@ Indexed users: 488
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
 
-Generated: 2026-10-12T16:38:47.351Z
+Generated: 2026-10-12T18:01:04.052Z

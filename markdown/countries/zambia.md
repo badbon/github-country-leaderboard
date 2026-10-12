@@ -41,16 +41,16 @@ Indexed users: 1,339
 | 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 2,691 |
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,234 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,753 |
-| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,670 |
+| 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,686 |
 | 6 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
 | 7 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,054 |
-| 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,010 |
+| 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,046 |
 | 9 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 998 |
 | 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
 | 11 | [214Toto](https://github.com/214Toto) | ToToZ Collection | Ndola, Copperbelt, Zambia | 724 |
 | 12 | [Mukela12](https://github.com/Mukela12) | Mukela Katungu | Lusaka | 685 |
 | 13 | [cephaschapa](https://github.com/cephaschapa) | Cephas Chapa | Zambia | 684 |
-| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 657 |
+| 14 | [simwawatim](https://github.com/simwawatim) | Timothy Simwawa | Lusaka, Zambia | 645 |
 | 15 | [c00p75](https://github.com/c00p75) | George M'sapenda | Lusaka, Zambia | 586 |
 | 16 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 581 |
 | 17 | [wmweemba](https://github.com/wmweemba) | William .S. Mweemba | Lusaka, Zambia | 579 |
@@ -83,4 +83,4 @@ Indexed users: 1,339
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-12T16:04:31.375Z
+Generated: 2026-10-12T17:27:02.766Z

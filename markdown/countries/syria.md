@@ -18,7 +18,7 @@ Indexed users: 1,481
 | 4 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | Syria | 4,647 |
 | 5 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh | Syria | 4,593 |
 | 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 3,178 |
-| 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,917 |
+| 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
 | 8 | [sam-a1a](https://github.com/sam-a1a) | Sam | Damascus, Syrian Arab Republic | 2,847 |
 | 9 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi | Damascus | 2,559 |
 | 10 | [amurru](https://github.com/amurru) | Ammar Zerouk | Syria | 2,555 |
@@ -26,19 +26,19 @@ Indexed users: 1,481
 | 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | Syria, Turkey | 2,242 |
 | 13 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,105 |
 | 14 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,029 |
-| 15 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,986 |
-| 16 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,950 |
-| 17 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,795 |
-| 18 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,744 |
-| 19 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 1,728 |
-| 20 | [z44d](https://github.com/z44d) | Za¡d | Damascus, Syria | 1,708 |
+| 15 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 1,997 |
+| 16 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,986 |
+| 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,950 |
+| 18 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,795 |
+| 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,744 |
+| 20 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 1,728 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [MustafaFares445](https://github.com/MustafaFares445) | Mustafa Fares | Aleppo/Syria | 4,645 |
-| 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,917 |
+| 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
 | 3 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,001 |
 | 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,676 |
 | 5 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
@@ -83,4 +83,4 @@ Indexed users: 1,481
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 102 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-12T15:55:41.485Z
+Generated: 2026-10-12T17:19:04.109Z

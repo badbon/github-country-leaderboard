@@ -49,14 +49,14 @@ Indexed users: 6,704
 | 10 | [j-ordanos](https://github.com/j-ordanos) | Yordanos Zewge | Addis Ababa, Ethiopia | 3,124 |
 | 11 | [Rick1330](https://github.com/Rick1330) | Elshaday Mengesha | Addis Ababa | 3,073 |
 | 12 | [yared2124](https://github.com/yared2124) | yared aregayehu | Addis Ababa | 2,980 |
-| 13 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa | 2,685 |
-| 14 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
-| 15 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,525 |
-| 16 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
-| 17 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,427 |
-| 18 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye | Adaama, Ethiopia | 2,378 |
-| 19 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi | Addis Ababa, Ethiopia | 2,312 |
-| 20 | [kid-yP](https://github.com/kid-yP) | Kidus Yosef | Addis Ababa, Ethiopia | 2,070 |
+| 13 | [Temamamankabeto](https://github.com/Temamamankabeto) | Temam | ethiopia | 2,775 |
+| 14 | [soltsega](https://github.com/soltsega) | Solomon Tsega | Addis Ababa | 2,685 |
+| 15 | [kaleab-kali](https://github.com/kaleab-kali) | kaleab Girma | Addis Ababa, Ethiopia | 2,667 |
+| 16 | [game-ale](https://github.com/game-ale) | Gemechu Alemu Bedasa | Ethiopia | 2,525 |
+| 17 | [Abduljebar49](https://github.com/Abduljebar49) | Abduljebar | Addis Ababa, Ethiopia | 2,510 |
+| 18 | [Mebrie-Awoke](https://github.com/Mebrie-Awoke) | Mebrie Awoke | Addis Ababa , Ethiopia | 2,427 |
+| 19 | [gemachistesfaye](https://github.com/gemachistesfaye) | Gemachis Tesfaye | Adaama, Ethiopia | 2,378 |
+| 20 | [Kidus-M](https://github.com/Kidus-M) | Kidus Mesfin Teferi | Addis Ababa, Ethiopia | 2,312 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 6,704
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-12T16:28:28.161Z
+Generated: 2026-10-12T17:51:17.919Z

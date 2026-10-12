@@ -18,7 +18,7 @@ Indexed users: 471
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,864 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,214 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,543 |
-| 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,079 |
+| 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,121 |
 | 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,421 |
 | 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,167 |
 | 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,993 |
@@ -49,7 +49,7 @@ Indexed users: 471
 | 10 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 1,124 |
 | 11 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,066 |
 | 12 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
-| 13 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 945 |
+| 13 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 958 |
 | 14 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 886 |
 | 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 795 |
 | 16 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 72 |
 
-Generated: 2026-10-12T16:13:52.537Z
+Generated: 2026-10-12T17:35:02.662Z

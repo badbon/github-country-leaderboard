@@ -1,6 +1,6 @@
 # Followers - Haiti
 
-Generated: 2026-10-12T16:35:42.569Z
+Generated: 2026-10-12T17:56:09.823Z
 
 Users: 339
 
@@ -11,7 +11,7 @@ Users: 339
 | 3 | [certilremy](https://github.com/certilremy) | Certil Remy |  Full-stack Developer | certilremy | Haiti | 72 |
 | 4 | [davidsonluma](https://github.com/davidsonluma) | Davidson |  | Hope3Mahmoud | Haiti | 72 |
 | 5 | [cbaja](https://github.com/cbaja) | Carly BAJA | @codepath |  | HAITI | 71 |
-| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 64 |
+| 6 | [dukenst2006](https://github.com/dukenst2006) | Thelemaque | Jetlitransfer | dukenst | Port-au-Prince | 63 |
 | 7 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis |  | odilsondev | Les Cayes, Haiti | 58 |
 | 8 | [Gardimy](https://github.com/Gardimy) | Gardimy Charles |  | gardyelontiga45 | Haiti | 56 |
 | 9 | [Lemayzeur](https://github.com/Lemayzeur) | Lub Lorry Lamysère | Code9Dev | lemayzeur | Port-au-Prince - Haiti | 56 |

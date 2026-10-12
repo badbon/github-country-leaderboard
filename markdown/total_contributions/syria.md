@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-12T15:55:41.485Z
+Generated: 2026-10-12T17:19:04.109Z
 
 Users: 1481
 
@@ -12,7 +12,7 @@ Users: 1481
 | 4 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4647 |
 | 5 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4593 |
 | 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3178 |
-| 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2917 |
+| 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2853 |
 | 8 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 2847 |
 | 9 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 2559 |
 | 10 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 2555 |
@@ -20,9 +20,9 @@ Users: 1481
 | 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2242 |
 | 13 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2105 |
 | 14 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2029 |
-| 15 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1986 |
-| 16 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 1950 |
-| 17 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1795 |
-| 18 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 1744 |
-| 19 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 1728 |
-| 20 | [z44d](https://github.com/z44d) | Za¡d |  | 0z44d | Damascus, Syria | 1708 |
+| 15 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Nashra |  | Damascus | 1997 |
+| 16 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima |  |  | Damascus, Syria | 1986 |
+| 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 1950 |
+| 18 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1795 |
+| 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | SoftRemit |  | Damascus, Syria | 1744 |
+| 20 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | @ContraForce | RasheedMozaffar | Damascus, Syria | 1728 |
