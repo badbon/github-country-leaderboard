@@ -14275,7 +14275,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 405,
+    "privateContributions": 566,
     "publicContributions": 61,
     "createdAt": "2023-11-20T22:23:08Z"
   },
@@ -14334,9 +14334,9 @@
     "location": "Amman-Jorden",
     "company": "Al Hussein Bin Talal University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 302,
+    "publicContributions": 177,
     "createdAt": "2023-06-17T09:11:35Z"
   },
   {
@@ -14360,7 +14360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 6,
     "createdAt": "2023-06-13T18:09:06Z"
   },
   {
@@ -14394,7 +14394,7 @@
     "location": "Amman",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2023-11-26T08:40:56Z"
@@ -14432,7 +14432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 20,
     "createdAt": "2023-05-31T20:47:17Z"
   },
   {
@@ -14443,8 +14443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 198,
-    "publicContributions": 64,
+    "privateContributions": 122,
+    "publicContributions": 27,
     "createdAt": "2023-09-10T12:24:34Z"
   },
   {
@@ -14466,9 +14466,9 @@
     "location": "Amman, Jordan",
     "company": "RightNow AI",
     "twitterUsername": "Akashi203",
-    "followers": 441,
-    "privateContributions": 17863,
-    "publicContributions": 991,
+    "followers": 456,
+    "privateContributions": 27800,
+    "publicContributions": 1020,
     "createdAt": "2022-04-15T11:51:57Z"
   },
   {
@@ -14478,22 +14478,10 @@
     "location": "Amman, Jordan",
     "company": "@jordanopensource",
     "twitterUsername": "",
-    "followers": 268,
-    "privateContributions": 183,
-    "publicContributions": 42,
+    "followers": 246,
+    "privateContributions": 175,
+    "publicContributions": 52,
     "createdAt": "2022-08-02T22:25:17Z"
-  },
-  {
-    "login": "Abdalaziz90",
-    "name": "Abdalaziz (AOT)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99193943?s=72&u=2ccacf4405a38c418f02ed508d9aba92502c1ea7&v=4",
-    "location": "Jordan/Amman",
-    "company": "",
-    "twitterUsername": "abdalazizzinati",
-    "followers": 135,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2022-02-07T14:25:15Z"
   },
   {
     "login": "AbdulTheActivePiecer",
@@ -14502,9 +14490,9 @@
     "location": "Jordan",
     "company": "Activepieces",
     "twitterUsername": "",
-    "followers": 112,
-    "privateContributions": 6499,
-    "publicContributions": 6092,
+    "followers": 119,
+    "privateContributions": 2113,
+    "publicContributions": 1620,
     "createdAt": "2022-05-30T19:19:41Z"
   },
   {

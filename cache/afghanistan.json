@@ -14420,7 +14420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 122,
     "createdAt": "2019-08-11T15:14:21Z"
   },
   {
@@ -14443,8 +14443,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 686,
-    "publicContributions": 4,
+    "privateContributions": 900,
+    "publicContributions": 1,
     "createdAt": "2019-01-19T17:31:15Z"
   },
   {
@@ -14456,7 +14456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-06-07T17:46:05Z"
   },
   {
@@ -14491,7 +14491,7 @@
     "company": "Ministry of Finance-AFMIS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 919,
+    "privateContributions": 952,
     "publicContributions": 18,
     "createdAt": "2019-02-05T06:21:32Z"
   },
@@ -14551,8 +14551,8 @@
     "company": "Dev",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 2969,
-    "publicContributions": 12,
+    "privateContributions": 2280,
+    "publicContributions": 97,
     "createdAt": "2019-09-19T09:26:23Z"
   },
   {
@@ -14562,9 +14562,9 @@
     "location": "Kabul",
     "company": "@SeferYak ",
     "twitterUsername": "KhudadadKhawari",
-    "followers": 26,
-    "privateContributions": 728,
-    "publicContributions": 30,
+    "followers": 25,
+    "privateContributions": 1391,
+    "publicContributions": 39,
     "createdAt": "2019-08-31T08:47:23Z"
   },
   {
@@ -14578,18 +14578,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-12T09:36:14Z"
-  },
-  {
-    "login": "MoctarAboubacar",
-    "name": "Moctar Aboubacar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54015478?s=72&u=8d1f7390c012416d6b8b6e5634459ec3de1ecb49&v=4",
-    "location": "Kabul",
-    "company": "@WFP-VAM ",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2019-08-12T04:54:04Z"
   },
   {
     "login": "Nooraziz-Khogyani",

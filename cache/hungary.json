@@ -14052,18 +14052,6 @@
     "createdAt": "2022-09-20T10:53:47Z"
   },
   {
-    "login": "prodmichael",
-    "name": "Michael Klinkov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102651644?s=72&u=a737f65cdff73ab102dbe79cadc83b0002737440&v=4",
-    "location": "Hungary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 330,
-    "publicContributions": 0,
-    "createdAt": "2022-03-30T07:16:02Z"
-  },
-  {
     "login": "shiroyama42",
     "name": "Vajas Benjámin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113691267?s=72&v=4",
@@ -14107,7 +14095,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 24,
+    "privateContributions": 21,
     "publicContributions": 4,
     "createdAt": "2022-06-11T18:30:27Z"
   },
@@ -14120,7 +14108,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2022-02-18T12:30:01Z"
   },
   {
@@ -14132,7 +14120,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 82,
     "createdAt": "2022-09-05T10:44:20Z"
   },
   {
@@ -14167,8 +14155,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 224,
-    "publicContributions": 31,
+    "privateContributions": 199,
+    "publicContributions": 28,
     "createdAt": "2022-02-06T18:07:56Z"
   },
   {
@@ -14180,7 +14168,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 4,
-    "publicContributions": 104,
+    "publicContributions": 209,
     "createdAt": "2022-01-10T06:40:43Z"
   },
   {
@@ -14191,8 +14179,8 @@
     "company": "Mito Digital Ltd.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2311,
-    "publicContributions": 1,
+    "privateContributions": 2519,
+    "publicContributions": 0,
     "createdAt": "2022-01-10T09:41:48Z"
   },
   {
@@ -14204,7 +14192,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 46,
     "createdAt": "2022-09-07T14:27:04Z"
   },
   {
@@ -14214,9 +14202,9 @@
     "location": "Budapest, Hungary",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1540,
-    "publicContributions": 9,
+    "followers": 3,
+    "privateContributions": 1523,
+    "publicContributions": 8,
     "createdAt": "2022-09-17T11:11:00Z"
   },
   {
@@ -14227,8 +14215,8 @@
     "company": "@mozisarok",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 151,
-    "publicContributions": 2,
+    "privateContributions": 187,
+    "publicContributions": 6,
     "createdAt": "2022-10-13T17:56:20Z"
   },
   {
@@ -14238,9 +14226,9 @@
     "location": "Miskolc, Hungary",
     "company": "",
     "twitterUsername": "iklevente",
-    "followers": 2,
-    "privateContributions": 15,
-    "publicContributions": 16,
+    "followers": 1,
+    "privateContributions": 30,
+    "publicContributions": 7,
     "createdAt": "2022-02-07T22:22:08Z"
   },
   {
@@ -14263,8 +14251,8 @@
     "company": "University of Szeged",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 43,
-    "publicContributions": 24,
+    "privateContributions": 40,
+    "publicContributions": 25,
     "createdAt": "2021-12-31T03:12:31Z"
   },
   {
@@ -14275,8 +14263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 72,
-    "publicContributions": 0,
+    "privateContributions": 80,
+    "publicContributions": 3,
     "createdAt": "2022-04-29T06:18:00Z"
   },
   {

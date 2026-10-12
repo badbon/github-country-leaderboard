@@ -14346,9 +14346,9 @@
     "location": "Varadero, Cuba",
     "company": "@Yelp",
     "twitterUsername": "davecuza",
-    "followers": 45,
-    "privateContributions": 26,
-    "publicContributions": 101,
+    "followers": 47,
+    "privateContributions": 166,
+    "publicContributions": 159,
     "createdAt": "2014-12-09T07:29:52Z"
   },
   {
@@ -14371,8 +14371,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 553,
-    "publicContributions": 215,
+    "privateContributions": 514,
+    "publicContributions": 216,
     "createdAt": "2014-09-03T19:13:25Z"
   },
   {
@@ -14382,7 +14382,7 @@
     "location": "Colón, Matanzas, Cuba",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2014-06-20T19:36:48Z"
@@ -14407,7 +14407,7 @@
     "company": "dofleini software",
     "twitterUsername": "ucicarlos",
     "followers": 7,
-    "privateContributions": 5262,
+    "privateContributions": 4152,
     "publicContributions": 1,
     "createdAt": "2014-09-11T15:17:31Z"
   },
@@ -14418,8 +14418,8 @@
     "location": "Cuba",
     "company": "Interamplify",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 342,
+    "followers": 8,
+    "privateContributions": 496,
     "publicContributions": 3,
     "createdAt": "2014-09-04T19:15:23Z"
   },
@@ -14448,18 +14448,6 @@
     "createdAt": "2014-02-08T01:15:08Z"
   },
   {
-    "login": "nfap88",
-    "name": "Niover Avila ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/9051699?s=72&u=ecbdd7c137411ba611faf79ce1a770b823b21ec9&v=4",
-    "location": "Cuba",
-    "company": "telecomcell",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-10-07T13:41:36Z"
-  },
-  {
     "login": "mayorCuba",
     "name": "Mayor",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8342153?s=72&u=a5efa8edd211a42c7422239b0568fd12227ecffe&v=4",
@@ -14468,7 +14456,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 16,
     "createdAt": "2014-08-03T08:55:59Z"
   },
   {

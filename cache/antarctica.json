@@ -3132,18 +3132,6 @@
     "createdAt": "2019-11-28T17:20:50Z"
   },
   {
-    "login": "stephen-zeng",
-    "name": "0x535A",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47418664?s=72&u=07bb2238a3d9808b172e290f83aed4c1a5d19db2&v=4",
-    "location": "Antarctica",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 1961,
-    "publicContributions": 771,
-    "createdAt": "2019-02-07T11:54:37Z"
-  },
-  {
     "login": "BackMountainDevil",
     "name": "Kearney",
     "avatarUrl": "https://avatars.githubusercontent.com/u/59185302?s=72&u=fcb5d31047dd1147e82d690230a8a43d572d94da&v=4",
@@ -3235,8 +3223,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 30,
-    "publicContributions": 87,
+    "privateContributions": 60,
+    "publicContributions": 78,
     "createdAt": "2019-06-09T12:38:28Z"
   },
   {
@@ -3259,7 +3247,7 @@
     "company": "University of Chicago",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1087,
+    "privateContributions": 1072,
     "publicContributions": 8,
     "createdAt": "2019-08-12T18:38:07Z"
   },
@@ -3307,7 +3295,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 439,
+    "privateContributions": 438,
     "publicContributions": 32,
     "createdAt": "2019-08-19T13:57:57Z"
   },

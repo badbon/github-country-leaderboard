@@ -14420,7 +14420,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-04-24T10:16:56Z"
   },
   {
@@ -14432,7 +14432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 113,
     "createdAt": "2022-08-29T00:17:47Z"
   },
   {
@@ -14460,18 +14460,6 @@
     "createdAt": "2022-04-26T10:00:19Z"
   },
   {
-    "login": "012francisco012madboy",
-    "name": "Ariel Francisco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102692782?s=72&u=ce60101a9faf105ba62a5c721dc7f876efc0afa5&v=4",
-    "location": "Luanda",
-    "company": "Premier Code",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 261,
-    "publicContributions": 18,
-    "createdAt": "2022-03-30T18:44:26Z"
-  },
-  {
     "login": "JoelProconde",
     "name": "Joel Joao Borge Conde",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112348064?s=72&u=cf326300089d559411c8d496e670879db01f382e&v=4",
@@ -14480,7 +14468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-08-28T19:50:35Z"
   },
   {
@@ -14528,7 +14516,7 @@
     "twitterUsername": "KondoNzuzi",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 45,
     "createdAt": "2022-01-26T10:05:34Z"
   },
   {
@@ -14540,7 +14528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 610,
     "createdAt": "2022-07-30T22:01:27Z"
   },
   {
@@ -14574,8 +14562,8 @@
     "location": "luanda",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 10,
+    "followers": 2,
+    "privateContributions": 39,
     "publicContributions": 0,
     "createdAt": "2022-04-07T15:14:55Z"
   },
@@ -14599,8 +14587,8 @@
     "company": "",
     "twitterUsername": "ananias_augusto",
     "followers": 1,
-    "privateContributions": 334,
-    "publicContributions": 80,
+    "privateContributions": 392,
+    "publicContributions": 77,
     "createdAt": "2022-02-26T12:11:09Z"
   },
   {
@@ -14622,9 +14610,9 @@
     "location": "Angola/Luanda",
     "company": "@clubmedtecnologia ",
     "twitterUsername": "",
-    "followers": 258,
-    "privateContributions": 43,
-    "publicContributions": 5,
+    "followers": 259,
+    "privateContributions": 39,
+    "publicContributions": 4,
     "createdAt": "2021-03-08T22:02:02Z"
   },
   {
@@ -14634,9 +14622,9 @@
     "location": "Luanda, Angola",
     "company": "@42School",
     "twitterUsername": "NzolaKiampava",
-    "followers": 99,
-    "privateContributions": 225,
-    "publicContributions": 330,
+    "followers": 106,
+    "privateContributions": 263,
+    "publicContributions": 96,
     "createdAt": "2021-03-29T09:53:26Z"
   },
   {

@@ -14106,7 +14106,7 @@
     "location": "Caracas",
     "company": "",
     "twitterUsername": "IMasked22",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2023-08-31T02:01:58Z"
@@ -14130,9 +14130,9 @@
     "location": "caracas",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 23,
     "createdAt": "2023-11-26T01:58:00Z"
   },
   {
@@ -14156,7 +14156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 62,
     "createdAt": "2023-08-29T01:53:53Z"
   },
   {
@@ -14208,18 +14208,6 @@
     "createdAt": "2023-03-28T18:29:44Z"
   },
   {
-    "login": "rafaelortizdotdev",
-    "name": "Rafael Ortiz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146885339?s=72&u=f2b6d9f449c0ba30bc6b2cdc09a8513f99aca0d2&v=4",
-    "location": "Caracas, VE · Remote",
-    "company": "chartmetric",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 44,
-    "createdAt": "2023-10-03T19:57:39Z"
-  },
-  {
     "login": "dimac21ca",
     "name": "Soluciones DIMAC 21 C.A.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139415875?s=72&u=a306444fa1f7eedf3d03bebd8c26c88445de7058&v=4",
@@ -14240,7 +14228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 0,
     "createdAt": "2023-03-26T08:46:27Z"
   },
   {
@@ -14334,9 +14322,9 @@
     "location": "Venezuela",
     "company": "Analista y Desarrollador de Sistemas",
     "twitterUsername": "",
-    "followers": 207,
-    "privateContributions": 84,
-    "publicContributions": 341,
+    "followers": 185,
+    "privateContributions": 81,
+    "publicContributions": 254,
     "createdAt": "2022-09-22T17:59:20Z"
   },
   {

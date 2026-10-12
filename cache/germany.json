@@ -847054,5 +847054,29 @@
     "privateContributions": 417,
     "publicContributions": 53,
     "createdAt": "2022-11-17T18:57:29Z"
+  },
+  {
+    "login": "JosiasAurel",
+    "name": "Josias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47951376?s=72&u=c6080b99d46e786cbffbfc76fdadc921934b446a&v=4",
+    "location": "Berlin, Germany",
+    "company": "@hackclub ",
+    "twitterUsername": "JosiasWing",
+    "followers": 126,
+    "privateContributions": 2095,
+    "publicContributions": 735,
+    "createdAt": "2019-02-24T19:29:16Z"
+  },
+  {
+    "login": "prodmichael",
+    "name": "Michael Klinkov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102651644?s=72&u=a737f65cdff73ab102dbe79cadc83b0002737440&v=4",
+    "location": "Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 272,
+    "publicContributions": 0,
+    "createdAt": "2022-03-30T07:16:02Z"
   }
 ]

@@ -14166,8 +14166,8 @@
     "location": "hong kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 345,
+    "followers": 2,
+    "privateContributions": 339,
     "publicContributions": 19,
     "createdAt": "2023-09-22T04:39:16Z"
   },
@@ -14180,7 +14180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 101,
     "createdAt": "2023-01-12T13:20:07Z"
   },
   {
@@ -14191,8 +14191,8 @@
     "company": "HKUST",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1714,
-    "publicContributions": 1218,
+    "privateContributions": 1771,
+    "publicContributions": 1504,
     "createdAt": "2023-01-29T16:01:35Z"
   },
   {
@@ -14204,7 +14204,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 64,
     "createdAt": "2023-02-09T02:57:35Z"
   },
   {
@@ -14214,9 +14214,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 82,
+    "publicContributions": 147,
     "createdAt": "2023-12-02T21:07:53Z"
   },
   {
@@ -14227,8 +14227,8 @@
     "company": "TreeholeHK Limited",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2043,
-    "publicContributions": 18,
+    "privateContributions": 2614,
+    "publicContributions": 17,
     "createdAt": "2023-08-15T04:05:33Z"
   },
   {
@@ -14312,7 +14312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 105,
     "createdAt": "2023-03-22T03:37:08Z"
   },
   {
@@ -14358,7 +14358,7 @@
     "location": "HONG KONG",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-02-15T07:26:37Z"
@@ -14370,22 +14370,10 @@
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 158,
     "createdAt": "2023-08-30T17:31:06Z"
-  },
-  {
-    "login": "Dlrencee",
-    "name": "Dlrence",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140469834?s=72&u=277627a29bf48493bc23eca071d6d2055e334f86&v=4",
-    "location": "Hong Kong",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-07-25T02:20:41Z"
   },
   {
     "login": "MrPotato9048",
@@ -79050,9 +79038,9 @@
     "location": "Hong Kong, China",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 413,
+    "followers": 417,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 31,
     "createdAt": "2016-01-24T01:35:28Z"
   },
   {
@@ -79422,9 +79410,9 @@
     "location": "Hong Kong, China",
     "company": "PolyU",
     "twitterUsername": "",
-    "followers": 107,
+    "followers": 109,
     "privateContributions": 0,
-    "publicContributions": 83,
+    "publicContributions": 98,
     "createdAt": "2016-01-29T20:28:36Z"
   },
   {
@@ -80132,7 +80120,7 @@
     "twitterUsername": "",
     "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 118,
     "createdAt": "2016-02-11T12:26:48Z"
   },
   {

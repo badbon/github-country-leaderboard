@@ -14168,19 +14168,19 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 14,
-    "publicContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2019-08-11T03:29:45Z"
   },
   {
     "login": "AlbertoJorge100",
     "name": "Alberto",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/51424668?s=72&u=c51a41682331d2a1870bfc11d1049a248df9cc9f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/51424668?s=72&v=4",
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2019-06-05T22:18:18Z"
   },
   {
@@ -14190,9 +14190,9 @@
     "location": "San Salvador, El Salvador",
     "company": "",
     "twitterUsername": "sebacordero",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 34,
     "createdAt": "2019-06-24T21:13:28Z"
   },
   {
@@ -14202,9 +14202,9 @@
     "location": "El Salvador, San Salvador",
     "company": "",
     "twitterUsername": "c3_sc0",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 757,
+    "publicContributions": 897,
     "createdAt": "2019-10-02T22:14:18Z"
   },
   {
@@ -14227,7 +14227,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 35,
+    "privateContributions": 18,
     "publicContributions": 2,
     "createdAt": "2019-01-11T15:35:58Z"
   },
@@ -14262,7 +14262,7 @@
     "location": "El Salvador",
     "company": "Telus International",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-12T14:16:40Z"
@@ -14274,9 +14274,9 @@
     "location": "Sonsonate, El Salvador",
     "company": "Foundever",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 23,
     "createdAt": "2019-06-03T00:24:53Z"
   },
   {
@@ -14286,9 +14286,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 10,
-    "publicContributions": 61,
+    "followers": 12,
+    "privateContributions": 9,
+    "publicContributions": 130,
     "createdAt": "2019-01-26T17:34:52Z"
   },
   {
@@ -14298,9 +14298,9 @@
     "location": "San Salvador, El Salvador",
     "company": "Influencia Tecnológica S.A de C.V",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "followers": 12,
+    "privateContributions": 390,
+    "publicContributions": 4,
     "createdAt": "2019-07-19T06:48:56Z"
   },
   {
@@ -14311,8 +14311,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 592,
-    "publicContributions": 112,
+    "privateContributions": 645,
+    "publicContributions": 155,
     "createdAt": "2019-02-11T20:16:58Z"
   },
   {
@@ -14322,9 +14322,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "alexisrx96",
-    "followers": 10,
-    "privateContributions": 1195,
-    "publicContributions": 968,
+    "followers": 12,
+    "privateContributions": 1221,
+    "publicContributions": 1035,
     "createdAt": "2019-08-12T18:29:58Z"
   },
   {
@@ -14334,7 +14334,7 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2019-11-18T22:58:06Z"
@@ -14346,9 +14346,9 @@
     "location": "El Salvador",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 57,
-    "publicContributions": 421,
+    "followers": 8,
+    "privateContributions": 40,
+    "publicContributions": 371,
     "createdAt": "2019-02-09T05:09:12Z"
   },
   {
@@ -14360,7 +14360,7 @@
     "twitterUsername": "TheNeto06",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 125,
     "createdAt": "2019-09-05T15:58:01Z"
   },
   {
@@ -14383,7 +14383,7 @@
     "company": "Freelance Full Stack Developer",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 1292,
+    "privateContributions": 1183,
     "publicContributions": 0,
     "createdAt": "2019-08-05T05:35:32Z"
   },
@@ -14394,9 +14394,9 @@
     "location": "El Salvador",
     "company": "CityLab",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 46,
-    "publicContributions": 177,
+    "followers": 11,
+    "privateContributions": 17,
+    "publicContributions": 146,
     "createdAt": "2019-05-02T16:48:47Z"
   },
   {
