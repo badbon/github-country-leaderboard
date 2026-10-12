@@ -1,6 +1,6 @@
 # Public Contributions - South Sudan
 
-Generated: 2026-10-12T08:49:06.992Z
+Generated: 2026-10-12T09:56:35.772Z
 
 Users: 132
 
@@ -15,7 +15,7 @@ Users: 132
 | 7 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 502 |
 | 8 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 492 |
 | 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | @open-southsudan  | GeoffreyWani | Juba, South Sudan | 386 |
-| 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 327 |
+| 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 328 |
 | 11 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 324 |
 | 12 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 323 |
 | 13 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | TechPro |  | South Sudan | 271 |

@@ -193,11 +193,11 @@ Published countries: 234
 | Sierra Leone | 443 | [View](./sierra_leone.md) |
 | Singapore | 24,695 | [View](./singapore.md) |
 | Sint Maarten | 7 | [View](./sint_maarten.md) |
-| Slovakia | 4,678 | [View](./slovakia.md) |
+| Slovakia | 4,677 | [View](./slovakia.md) |
 | Slovenia | 3,103 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 867 | [View](./somalia.md) |
-| South Africa | 17,945 | [View](./south_africa.md) |
+| South Africa | 17,944 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
 | South Korea | 56,936 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
@@ -237,6 +237,6 @@ Published countries: 234
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,208 | [View](./yemen.md) |
 | Zambia | 1,341 | [View](./zambia.md) |
-| Zimbabwe | 1,653 | [View](./zimbabwe.md) |
+| Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-12T09:53:08.707Z
+Generated: 2026-10-12T09:58:29.277Z

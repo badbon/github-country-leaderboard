@@ -1,12 +1,12 @@
 # Total Contributions - South Sudan
 
-Generated: 2026-10-12T08:49:06.992Z
+Generated: 2026-10-12T09:56:35.772Z
 
 Users: 132
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 9634 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 9793 |
 | 2 | [davelee001](https://github.com/davelee001) | David Leek |  | barax_lee | South Sudan | 5313 |
 | 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Creative Studios | wol_james | Juba, South Sudan | 5206 |
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat |  |  | Juba, South sudan | 3408 |
@@ -20,7 +20,7 @@ Users: 132
 | 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 502 |
 | 13 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 501 |
 | 14 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 329 |
-| 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 327 |
+| 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  |  |  | Juba, South Sudan | 328 |
 | 16 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | SharpNet technologies  |  | Juba South Sudan | 323 |
 | 17 | [deng-joe](https://github.com/deng-joe) | Joe | MTN South Sudan | joedeng_ | Juba, CE, South Sudan | 310 |
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | TechPro |  | South Sudan | 271 |
