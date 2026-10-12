@@ -16302,9 +16302,9 @@
     "location": "El Salvador",
     "company": "FUSAI ONG",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 202,
-    "publicContributions": 7,
+    "followers": 2,
+    "privateContributions": 241,
+    "publicContributions": 6,
     "createdAt": "2019-09-01T00:29:20Z"
   },
   {
@@ -16364,7 +16364,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2019-10-11T19:50:18Z"
   },
   {
@@ -16400,7 +16400,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 24,
     "createdAt": "2019-12-28T16:25:30Z"
   },
   {
@@ -16416,18 +16416,6 @@
     "createdAt": "2019-09-03T15:59:14Z"
   },
   {
-    "login": "fernan11xd",
-    "name": "Fernando Flores",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54419470?s=72&u=20f6bb327762b633d2c2aa9d7f93b0c45ffc921d&v=4",
-    "location": "San Salvador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2019-08-22T21:04:28Z"
-  },
-  {
     "login": "jsegomez",
     "name": "Josué Eliezer Gómez Soto",
     "avatarUrl": "https://avatars.githubusercontent.com/u/58272564?s=72&u=1505afd6f802bd10c5b58bc73094a46ed3e37156&v=4",
@@ -16436,7 +16424,7 @@
     "twitterUsername": "jsegomezz",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 250,
+    "publicContributions": 166,
     "createdAt": "2019-11-27T19:44:46Z"
   },
   {
@@ -16483,7 +16471,7 @@
     "company": "jobbi.me",
     "twitterUsername": "BalbinoAylagas",
     "followers": 185,
-    "privateContributions": 115,
+    "privateContributions": 24,
     "publicContributions": 111,
     "createdAt": "2018-04-24T19:01:06Z"
   },
@@ -16494,8 +16482,8 @@
     "location": "San Salvador, El Salvador",
     "company": "COAMSS/OPAMSS",
     "twitterUsername": "",
-    "followers": 122,
-    "privateContributions": 8,
+    "followers": 120,
+    "privateContributions": 7,
     "publicContributions": 5,
     "createdAt": "2018-10-25T05:40:50Z"
   },
@@ -16507,8 +16495,8 @@
     "company": "SOUTHWORKS",
     "twitterUsername": "wmoralesdev",
     "followers": 72,
-    "privateContributions": 1011,
-    "publicContributions": 757,
+    "privateContributions": 1302,
+    "publicContributions": 779,
     "createdAt": "2018-11-13T13:36:02Z"
   },
   {
@@ -16518,9 +16506,9 @@
     "location": "El Salvador",
     "company": "GDG San Miguel",
     "twitterUsername": "chrisft25",
-    "followers": 62,
-    "privateContributions": 237,
-    "publicContributions": 4,
+    "followers": 60,
+    "privateContributions": 223,
+    "publicContributions": 11,
     "createdAt": "2018-08-08T23:09:04Z"
   },
   {
@@ -16530,9 +16518,9 @@
     "location": "El Salvador",
     "company": "@fullstacklabs ",
     "twitterUsername": "",
-    "followers": 57,
+    "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 15,
     "createdAt": "2018-03-06T22:39:10Z"
   },
   {

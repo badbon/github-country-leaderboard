@@ -16220,7 +16220,7 @@
     "twitterUsername": "zeroproxytech",
     "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-04-29T00:38:10Z"
   },
   {
@@ -16230,9 +16230,9 @@
     "location": "Hong Kong",
     "company": "vLLM-Omni Collaborator",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 397,
-    "publicContributions": 419,
+    "followers": 41,
+    "privateContributions": 515,
+    "publicContributions": 531,
     "createdAt": "2022-10-10T07:01:41Z"
   },
   {
@@ -16242,7 +16242,7 @@
     "location": "Hong Kong, SAR",
     "company": "The University of Hong Kong",
     "twitterUsername": "BowenWangNLP",
-    "followers": 32,
+    "followers": 33,
     "privateContributions": 0,
     "publicContributions": 280,
     "createdAt": "2022-03-27T13:09:08Z"
@@ -16254,8 +16254,8 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 27,
+    "followers": 28,
+    "privateContributions": 24,
     "publicContributions": 73,
     "createdAt": "2022-09-12T08:33:06Z"
   },
@@ -16266,33 +16266,21 @@
     "location": "Hong Kong",
     "company": "Ei Studio",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 31,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-07-03T13:36:12Z"
   },
   {
-    "login": "Battam1111",
-    "name": "battam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101111615?s=72&u=0e0ad85f14638fa5bd35123e4fa8758765094847&v=4",
-    "location": "Hong Kong",
-    "company": "Hong Kong Polytechnic University",
-    "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 333,
-    "publicContributions": 523,
-    "createdAt": "2022-03-07T12:05:47Z"
-  },
-  {
     "login": "vincentwclau",
     "name": "Vincent Lau",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/97787380?s=72&u=c4449f828f21f08aca2130ebbfd0df0e78599ea0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/97787380?s=72&u=c537e7ba868120d91194e244eb54a3878719ead0&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 28,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 50,
     "createdAt": "2022-01-15T11:02:23Z"
   },
   {
@@ -16302,9 +16290,9 @@
     "location": "Hong Kong",
     "company": "CityUHK",
     "twitterUsername": "Sean_XiangLi",
-    "followers": 28,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2022-07-13T07:41:11Z"
   },
   {
@@ -16314,9 +16302,9 @@
     "location": "Hong Kong",
     "company": "University of York",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 11,
-    "publicContributions": 24,
+    "publicContributions": 21,
     "createdAt": "2022-02-20T18:44:49Z"
   },
   {
@@ -16326,9 +16314,9 @@
     "location": "Hong Kong",
     "company": "School",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 2140,
+    "publicContributions": 2642,
     "createdAt": "2022-07-06T09:18:57Z"
   },
   {
@@ -16338,22 +16326,10 @@
     "location": "Hong Kong, SAR",
     "company": "The Hong Kong University of Science and Technology",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 0,
-    "publicContributions": 177,
+    "publicContributions": 186,
     "createdAt": "2022-07-11T06:06:30Z"
-  },
-  {
-    "login": "boyi-liu",
-    "name": "Boyi Liu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109515325?s=72&u=0a59b9e3678b70714d2d319dc5d6d6abb249fe3b&v=4",
-    "location": "Hong Kong",
-    "company": "Beihang University, City University of Hong Kong",
-    "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 57,
-    "publicContributions": 145,
-    "createdAt": "2022-07-18T09:18:17Z"
   },
   {
     "login": "WANGAndyYucheng",
@@ -16362,9 +16338,9 @@
     "location": "Hong Kong",
     "company": "HKUST",
     "twitterUsername": "AndyYucheng",
-    "followers": 25,
-    "privateContributions": 26,
-    "publicContributions": 92,
+    "followers": 26,
+    "privateContributions": 80,
+    "publicContributions": 108,
     "createdAt": "2022-06-18T06:01:08Z"
   },
   {
@@ -16374,9 +16350,9 @@
     "location": "Hong kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 188,
-    "publicContributions": 32,
+    "followers": 21,
+    "privateContributions": 197,
+    "publicContributions": 54,
     "createdAt": "2022-03-14T15:04:53Z"
   },
   {
@@ -16388,19 +16364,19 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 71,
     "createdAt": "2022-04-19T02:15:12Z"
   },
   {
     "login": "RyanDyson",
     "name": "Ryan Dyson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99585343?s=72&u=1a2c742390e808f3a99de0a3aa71f0ea0d501838&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/99585343?s=72&u=04b77dbd70f2f8d64de74a5627f6174e49b23602&v=4",
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 1510,
-    "publicContributions": 240,
+    "followers": 21,
+    "privateContributions": 1367,
+    "publicContributions": 201,
     "createdAt": "2022-02-13T08:23:24Z"
   },
   {
@@ -16410,9 +16386,9 @@
     "location": "Hong Kong",
     "company": "The Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 229,
-    "publicContributions": 29,
+    "followers": 20,
+    "privateContributions": 159,
+    "publicContributions": 33,
     "createdAt": "2022-08-29T01:34:06Z"
   },
   {
@@ -16423,8 +16399,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 47,
-    "publicContributions": 344,
+    "privateContributions": 122,
+    "publicContributions": 265,
     "createdAt": "2022-12-22T15:38:04Z"
   },
   {
@@ -16434,21 +16410,21 @@
     "location": "Hong Kong",
     "company": "Flow Traders",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2022-10-06T06:42:30Z"
   },
   {
     "login": "SIN-Chun-Hung",
-    "name": "SIN, Chun Hung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100747465?s=72&v=4",
+    "name": "SIN Chun Hung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/100747465?s=72&u=89366cbd0511be1760dbba48562d88876e2091ce&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 59,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2022-03-02T04:40:48Z"
   },
   {

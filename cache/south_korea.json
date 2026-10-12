@@ -15918,7 +15918,7 @@
     "location": "Seoul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-12-24T17:34:37Z"
@@ -15932,7 +15932,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2025-01-23T10:06:52Z"
   },
   {
@@ -15944,7 +15944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 224,
+    "publicContributions": 256,
     "createdAt": "2025-03-10T08:22:31Z"
   },
   {
@@ -15955,8 +15955,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 656,
-    "publicContributions": 158,
+    "privateContributions": 657,
+    "publicContributions": 177,
     "createdAt": "2025-04-14T13:59:22Z"
   },
   {
@@ -15966,9 +15966,9 @@
     "location": "Seoul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 23,
     "createdAt": "2025-03-18T07:33:49Z"
   },
   {
@@ -15980,7 +15980,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 23,
     "createdAt": "2025-06-28T07:00:28Z"
   },
   {
@@ -15990,9 +15990,9 @@
     "location": "Seoul, Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1993,
+    "publicContributions": 2011,
     "createdAt": "2025-04-30T02:30:34Z"
   },
   {
@@ -16003,8 +16003,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 201,
-    "publicContributions": 244,
+    "privateContributions": 104,
+    "publicContributions": 163,
     "createdAt": "2025-07-30T07:28:49Z"
   },
   {
@@ -16028,20 +16028,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 317,
+    "publicContributions": 319,
     "createdAt": "2025-02-10T04:40:28Z"
-  },
-  {
-    "login": "choejoongho",
-    "name": "Choe Joongho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/218518348?s=72&u=55c85ab4c065819e757ebc4a5b9a19286f021655&v=4",
-    "location": "Seoul",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-06-29T22:30:30Z"
   },
   {
     "login": "keemseojin",
@@ -16074,7 +16062,7 @@
     "location": "Seoul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 346,
     "createdAt": "2025-10-23T08:37:16Z"
@@ -16087,7 +16075,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 19,
+    "privateContributions": 30,
     "publicContributions": 1,
     "createdAt": "2025-10-29T08:06:42Z"
   },
@@ -16100,7 +16088,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 89,
     "createdAt": "2025-10-22T22:37:03Z"
   },
   {
@@ -16116,18 +16104,6 @@
     "createdAt": "2025-04-06T15:39:49Z"
   },
   {
-    "login": "allipceo",
-    "name": "Goodface",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211113607?s=72&v=4",
-    "location": "Seoul, Korea",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 226,
-    "createdAt": "2025-05-10T10:49:34Z"
-  },
-  {
     "login": "sungjunpark3",
     "name": "Sungjun Park",
     "avatarUrl": "https://avatars.githubusercontent.com/u/207050070?s=72&u=7425bd4bd6f0db8d29dc6642d35706f8c190ef59&v=4",
@@ -16135,8 +16111,8 @@
     "company": "@zarathucorp ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 477,
-    "publicContributions": 24,
+    "privateContributions": 617,
+    "publicContributions": 14,
     "createdAt": "2025-04-10T14:01:41Z"
   },
   {
