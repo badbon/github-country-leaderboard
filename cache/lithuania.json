@@ -14180,7 +14180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2021-11-15T19:05:18Z"
   },
   {
@@ -14191,7 +14191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 146,
+    "privateContributions": 161,
     "publicContributions": 5,
     "createdAt": "2021-02-27T12:12:39Z"
   },
@@ -14215,7 +14215,7 @@
     "company": "@hometogo ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 964,
+    "privateContributions": 754,
     "publicContributions": 0,
     "createdAt": "2021-02-22T17:03:43Z"
   },
@@ -14240,7 +14240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-08-29T21:05:17Z"
   },
   {
@@ -14292,18 +14292,6 @@
     "createdAt": "2021-01-15T17:37:51Z"
   },
   {
-    "login": "yusufberber",
-    "name": "Yusuf Berber",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/96169781?s=72&u=744f591cc039e26196aa5cd1d6b616717e0eedbe&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2021-12-15T07:47:12Z"
-  },
-  {
     "login": "CarPro-ltu",
     "name": "CarPro",
     "avatarUrl": "https://avatars.githubusercontent.com/u/77451534?s=72&u=749c21d1be48ff9ba8191af9a7f9e7b19bdfbf5c&v=4",
@@ -14314,18 +14302,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-01-14T15:29:02Z"
-  },
-  {
-    "login": "Marius-Mart",
-    "name": "Marius",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/92679215?s=72&v=4",
-    "location": "Vilnius",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 7,
-    "createdAt": "2021-10-17T13:58:37Z"
   },
   {
     "login": "aliayan15",

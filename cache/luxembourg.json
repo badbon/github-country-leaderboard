@@ -13920,18 +13920,6 @@
     "createdAt": "2016-05-08T22:00:17Z"
   },
   {
-    "login": "panios",
-    "name": "Panos Kostakos",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19819500?s=72&u=b83d92a4cec41b8e455631b51115a230095af3de&v=4",
-    "location": "Luxembourg ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 494,
-    "publicContributions": 25,
-    "createdAt": "2016-06-08T12:41:14Z"
-  },
-  {
     "login": "yaayes",
     "name": "Yassine Sedrani",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20878658?s=72&u=c16d6db28ca47afd1caeb781fe2c89b082355536&v=4",
@@ -13939,8 +13927,8 @@
     "company": "In Mind Web",
     "twitterUsername": "0xynone",
     "followers": 11,
-    "privateContributions": 124,
-    "publicContributions": 76,
+    "privateContributions": 263,
+    "publicContributions": 91,
     "createdAt": "2016-08-06T19:04:13Z"
   },
   {
@@ -13963,7 +13951,7 @@
     "company": "Université du Luxembourg",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 73,
+    "privateContributions": 78,
     "publicContributions": 0,
     "createdAt": "2016-11-14T17:51:55Z"
   },
@@ -13974,9 +13962,9 @@
     "location": "Luxembourg",
     "company": "@BW-Colossos",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 1,
-    "publicContributions": 69,
+    "followers": 13,
+    "privateContributions": 5,
+    "publicContributions": 68,
     "createdAt": "2016-01-16T15:00:08Z"
   },
   {
@@ -13988,7 +13976,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 442,
     "createdAt": "2016-06-14T03:03:15Z"
   },
   {
@@ -14010,9 +13998,9 @@
     "location": "Luxembourg & Johannesburg, ZA",
     "company": "Alis Exchange",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 106,
-    "publicContributions": 368,
+    "followers": 8,
+    "privateContributions": 39,
+    "publicContributions": 434,
     "createdAt": "2016-03-22T21:37:22Z"
   },
   {
@@ -14023,8 +14011,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 226,
-    "publicContributions": 48,
+    "privateContributions": 278,
+    "publicContributions": 107,
     "createdAt": "2016-09-17T05:17:29Z"
   },
   {
@@ -14046,22 +14034,10 @@
     "location": "Luxembourg",
     "company": "@aws",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 0,
+    "followers": 10,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2016-04-16T00:39:43Z"
-  },
-  {
-    "login": "huseyz",
-    "name": "Huseyin Zengin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17434082?s=72&u=a86d5c59231ac4c4e6bf8bb8ae867f2faa11a881&v=4",
-    "location": "Luxembourg",
-    "company": "Amazon",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 7,
-    "publicContributions": 3,
-    "createdAt": "2016-02-23T16:06:13Z"
   },
   {
     "login": "julian-wittische",
@@ -14072,7 +14048,7 @@
     "twitterUsername": "JulianWittische",
     "followers": 9,
     "privateContributions": 2,
-    "publicContributions": 65,
+    "publicContributions": 61,
     "createdAt": "2016-03-17T01:38:40Z"
   },
   {
@@ -14083,8 +14059,8 @@
     "company": "European Parliament",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 0,
-    "publicContributions": 191,
+    "privateContributions": 834,
+    "publicContributions": 20,
     "createdAt": "2016-06-06T19:59:47Z"
   },
   {
@@ -14094,7 +14070,7 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2016-09-16T10:21:07Z"
@@ -14106,21 +14082,21 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 18,
+    "followers": 9,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2016-07-25T08:42:39Z"
   },
   {
     "login": "DorianJoubaud",
     "name": "Dorian Joubaud",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23552139?s=72&u=d124535a394659a752018ecda1b4d1a95aeba764&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23552139?s=72&u=d102180d466f755a24ad0e007f31db33745abb3e&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2016-11-18T10:12:45Z"
   },
   {
@@ -14143,7 +14119,7 @@
     "company": "Devoteam",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2,
+    "privateContributions": 7,
     "publicContributions": 1,
     "createdAt": "2016-12-14T10:20:02Z"
   },
@@ -14156,7 +14132,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2016-05-09T15:20:28Z"
   },
   {

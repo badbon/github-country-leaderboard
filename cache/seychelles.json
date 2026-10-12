@@ -14204,7 +14204,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 59,
     "createdAt": "2015-06-10T23:34:11Z"
   },
   {
@@ -14222,12 +14222,12 @@
   {
     "login": "jbberinger",
     "name": "Justin Beringer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15133540?s=72&u=776cc1bacef1f07508622783862ed4db52da81ab&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/15133540?s=72&u=473b1a9875126b8971bf52fa3fb824f67c4b64b1&v=4",
     "location": "Victoria, BC",
-    "company": "@Certn",
+    "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 163,
+    "privateContributions": 200,
     "publicContributions": 0,
     "createdAt": "2015-10-15T00:43:21Z"
   },
@@ -14239,8 +14239,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 162,
-    "publicContributions": 8,
+    "privateContributions": 207,
+    "publicContributions": 13,
     "createdAt": "2015-01-03T23:09:10Z"
   },
   {
@@ -14251,7 +14251,7 @@
     "company": "Twilio",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2097,
+    "privateContributions": 1994,
     "publicContributions": 8,
     "createdAt": "2015-09-09T08:38:48Z"
   },
@@ -14263,7 +14263,7 @@
     "company": "Jobber",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 467,
+    "privateContributions": 473,
     "publicContributions": 0,
     "createdAt": "2015-04-07T21:51:03Z"
   },
@@ -14347,8 +14347,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 519,
-    "publicContributions": 0,
+    "privateContributions": 548,
+    "publicContributions": 222,
     "createdAt": "2015-08-24T20:37:24Z"
   },
   {

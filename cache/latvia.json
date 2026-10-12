@@ -13830,9 +13830,9 @@
     "location": "Latvia, Riga",
     "company": "If Insurance",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 588,
-    "publicContributions": 0,
+    "followers": 8,
+    "privateContributions": 790,
+    "publicContributions": 6,
     "createdAt": "2019-11-08T12:29:06Z"
   },
   {
@@ -13842,7 +13842,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-09T19:15:08Z"
@@ -13855,7 +13855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 850,
+    "privateContributions": 668,
     "publicContributions": 0,
     "createdAt": "2019-06-20T17:15:17Z"
   },
@@ -13867,8 +13867,8 @@
     "company": "kernelpanic inc.",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 107,
-    "publicContributions": 42,
+    "privateContributions": 141,
+    "publicContributions": 32,
     "createdAt": "2019-10-19T10:41:41Z"
   },
   {
@@ -13879,21 +13879,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 755,
-    "publicContributions": 42,
+    "privateContributions": 1235,
+    "publicContributions": 1,
     "createdAt": "2019-03-05T10:35:37Z"
-  },
-  {
-    "login": "andis-sprinkis",
-    "name": "Andis Spriņķis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52537705?s=72&u=3a9e8d1ea737ec45d5c11b5f9e89fd94cba020fa&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 1,
-    "publicContributions": 1497,
-    "createdAt": "2019-07-04T13:28:39Z"
   },
   {
     "login": "inzanty",
@@ -13903,7 +13891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 28,
+    "privateContributions": 13,
     "publicContributions": 8,
     "createdAt": "2019-08-09T11:57:32Z"
   },
@@ -13914,9 +13902,9 @@
     "location": "Riga, Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 18,
-    "publicContributions": 7,
+    "followers": 9,
+    "privateContributions": 15,
+    "publicContributions": 1,
     "createdAt": "2019-07-20T16:40:02Z"
   },
   {
@@ -13927,7 +13915,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 71,
+    "privateContributions": 40,
     "publicContributions": 63,
     "createdAt": "2019-02-10T20:06:50Z"
   },
@@ -13952,7 +13940,7 @@
     "twitterUsername": "darkmanlv",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 20,
     "createdAt": "2019-06-11T19:32:39Z"
   },
   {
@@ -13963,8 +13951,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 948,
-    "publicContributions": 15,
+    "privateContributions": 911,
+    "publicContributions": 0,
     "createdAt": "2019-07-11T11:14:54Z"
   },
   {
@@ -13976,7 +13964,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 14,
     "createdAt": "2019-11-29T11:05:33Z"
   },
   {
@@ -14034,7 +14022,7 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 28,
     "publicContributions": 15,
     "createdAt": "2019-06-25T08:26:37Z"
@@ -14059,7 +14047,7 @@
     "company": "Riga Technical University",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 0,
+    "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2019-01-15T19:44:24Z"
   },

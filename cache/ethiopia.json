@@ -80132,7 +80132,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 77,
     "createdAt": "2026-05-26T19:34:36Z"
   },
   {
@@ -80192,7 +80192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 337,
+    "publicContributions": 329,
     "createdAt": "2026-05-25T05:08:32Z"
   },
   {
@@ -80334,9 +80334,9 @@
     "location": "Addis Ababa, Ethiopia.",
     "company": "",
     "twitterUsername": "HaniSemayat",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 310,
     "createdAt": "2026-06-18T22:02:44Z"
   },
   {
@@ -80408,7 +80408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 168,
+    "publicContributions": 169,
     "createdAt": "2026-06-23T08:27:12Z"
   },
   {
@@ -80458,5 +80458,65 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-11-16T06:36:23Z"
+  },
+  {
+    "login": "amanwtsegaw",
+    "name": "Aman Worku",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294409795?s=72&u=3e1402f4b1db415b7b932b63ce0e69d1eea35f07&v=4",
+    "location": "Addis Ababa",
+    "company": "@EzraSeminary",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-17T06:33:30Z"
+  },
+  {
+    "login": "sefonias-tilahun",
+    "name": "Sefonias Tilahun",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290302139?s=72&v=4",
+    "location": "addis ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-03T08:31:03Z"
+  },
+  {
+    "login": "KingDagiDipixel1216",
+    "name": "Dagm Wegayehu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290537512?s=72&u=7af8e4287e2039fb63d8303074af67446157c758&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 22,
+    "createdAt": "2026-06-03T22:26:37Z"
+  },
+  {
+    "login": "Bereketkasahun-alt",
+    "name": "Bekam-Tech",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284405886?s=72&u=6e549493470d2e91cb08a9f174a13c5c5bed1c75&v=4",
+    "location": "Addis Ababa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-05-13T18:08:56Z"
+  },
+  {
+    "login": "domestic-byt",
+    "name": "Domestic Hub",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289322857?s=72&v=4",
+    "location": "Addis Ababa",
+    "company": "Domestic General Trading plc ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-05-31T03:12:38Z"
   }
 ]
