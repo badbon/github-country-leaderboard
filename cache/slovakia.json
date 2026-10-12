@@ -15379,7 +15379,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 30,
+    "privateContributions": 28,
     "publicContributions": 3,
     "createdAt": "2020-08-24T19:11:45Z"
   },
@@ -15392,7 +15392,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 94,
     "createdAt": "2020-06-03T16:58:44Z"
   },
   {
@@ -15415,7 +15415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 141,
+    "privateContributions": 148,
     "publicContributions": 9,
     "createdAt": "2020-12-18T15:44:20Z"
   },
@@ -15427,8 +15427,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 368,
-    "publicContributions": 189,
+    "privateContributions": 369,
+    "publicContributions": 209,
     "createdAt": "2020-01-10T10:39:26Z"
   },
   {
@@ -15440,7 +15440,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2020-02-11T17:47:26Z"
   },
   {
@@ -15463,7 +15463,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 229,
+    "privateContributions": 225,
     "publicContributions": 2,
     "createdAt": "2020-08-16T08:58:48Z"
   },
@@ -15475,8 +15475,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 259,
+    "privateContributions": 25,
+    "publicContributions": 321,
     "createdAt": "2020-05-04T10:09:36Z"
   },
   {
@@ -15511,7 +15511,7 @@
     "company": "OnGym s.r.o.",
     "twitterUsername": "ValiskaAdam",
     "followers": 4,
-    "privateContributions": 1020,
+    "privateContributions": 1849,
     "publicContributions": 0,
     "createdAt": "2020-01-17T11:15:41Z"
   },
@@ -15524,7 +15524,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 20,
     "createdAt": "2020-10-17T19:23:13Z"
   },
   {
@@ -15560,7 +15560,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 288,
     "createdAt": "2020-09-26T19:32:15Z"
   },
   {
@@ -15570,8 +15570,8 @@
     "location": "Kosice, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 3602,
+    "followers": 5,
+    "privateContributions": 3208,
     "publicContributions": 0,
     "createdAt": "2020-10-02T07:34:40Z"
   },
@@ -15582,22 +15582,10 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 73,
-    "publicContributions": 50,
+    "followers": 5,
+    "privateContributions": 88,
+    "publicContributions": 25,
     "createdAt": "2020-03-11T14:14:03Z"
-  },
-  {
-    "login": "Saplington",
-    "name": "Tomas Zalobin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67586951?s=72&u=33e37b8e6eb20f2a6f40ceb5b0f53c5a8a3c9a84&v=4",
-    "location": "Kosice, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-06-29T12:10:37Z"
   },
   {
     "login": "MartinKrause21",
