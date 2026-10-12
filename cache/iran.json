@@ -14864,7 +14864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2025-09-29T14:30:59Z"
   },
   {
@@ -14874,9 +14874,9 @@
     "location": "Iran / Tabriz",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 82,
     "createdAt": "2025-08-08T21:25:22Z"
   },
   {
@@ -14886,9 +14886,9 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 37,
     "createdAt": "2025-12-23T21:12:32Z"
   },
   {
@@ -14898,7 +14898,7 @@
     "location": "Iran/Kerman/Sirjan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2025-07-25T09:18:14Z"
@@ -14936,7 +14936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 54,
     "createdAt": "2025-11-10T13:58:53Z"
   },
   {
@@ -14946,7 +14946,7 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2025-12-16T08:15:16Z"
@@ -14996,7 +14996,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-05T06:11:56Z"
   },
   {
@@ -15006,14 +15006,14 @@
     "location": "Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 98,
     "createdAt": "2025-11-12T06:27:00Z"
   },
   {
     "login": "Ali-1248",
-    "name": "Ali Baba",
+    "name": "Ali Nouri",
     "avatarUrl": "https://avatars.githubusercontent.com/u/223685364?s=72&u=7ed80c389c5159735a652a3f8aa7c16bcd4d60b4&v=4",
     "location": "Iran, Tehran",
     "company": "https://codevorse.ir",
@@ -15032,7 +15032,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 50,
     "createdAt": "2025-10-11T15:02:51Z"
   },
   {
@@ -15044,7 +15044,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 12,
     "createdAt": "2025-09-21T23:11:56Z"
   },
   {
@@ -15056,20 +15056,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 23,
     "createdAt": "2025-07-17T09:06:08Z"
-  },
-  {
-    "login": "JGATUSSO88",
-    "name": "AMIR",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/221833230?s=72&u=615fbdc6451dd3528e5b0888e39cc18f0121854d&v=4",
-    "location": "iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-07-20T11:02:16Z"
   },
   {
     "login": "goodarzbar",
@@ -15080,7 +15068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-07-30T21:36:12Z"
   },
   {
@@ -15092,7 +15080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 28,
     "createdAt": "2025-08-29T11:51:59Z"
   },
   {

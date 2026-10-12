@@ -15259,8 +15259,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 222,
+    "privateContributions": 580,
+    "publicContributions": 39,
     "createdAt": "2022-09-04T11:42:42Z"
   },
   {
@@ -15271,8 +15271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 10,
-    "publicContributions": 26,
+    "privateContributions": 1,
+    "publicContributions": 20,
     "createdAt": "2022-03-06T20:24:56Z"
   },
   {
@@ -15306,8 +15306,8 @@
     "location": "Belarus, Minsk",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 11,
+    "followers": 6,
+    "privateContributions": 9,
     "publicContributions": 23,
     "createdAt": "2022-07-03T11:45:53Z"
   },
@@ -15320,7 +15320,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 51,
     "createdAt": "2022-12-21T08:18:43Z"
   },
   {
@@ -15356,7 +15356,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 29,
     "createdAt": "2022-03-21T15:36:27Z"
   },
   {
@@ -15380,7 +15380,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 131,
     "createdAt": "2022-09-02T19:28:08Z"
   },
   {
@@ -15392,7 +15392,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 725,
+    "publicContributions": 432,
     "createdAt": "2022-03-30T07:31:52Z"
   },
   {
@@ -15404,20 +15404,8 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-03-07T17:11:45Z"
-  },
-  {
-    "login": "maximozaitsev",
-    "name": "Maxim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104011221?s=72&u=f2d3a0295a993d6ec7787d2fe88203cfe0cd727f&v=4",
-    "location": "Minsk, Belarus",
-    "company": "FRAKT",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 431,
-    "publicContributions": 427,
-    "createdAt": "2022-04-19T13:37:07Z"
   },
   {
     "login": "KonstantinSerebryakov",
@@ -15426,9 +15414,9 @@
     "location": "Minsk, Belarus",
     "company": "Looking for JavaScript job",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 4255,
-    "publicContributions": 20,
+    "followers": 7,
+    "privateContributions": 10548,
+    "publicContributions": 119,
     "createdAt": "2022-01-06T17:56:03Z"
   },
   {
@@ -15438,9 +15426,9 @@
     "location": "MInsk, Belarus",
     "company": "BSU, FAMCS",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 0,
     "createdAt": "2022-09-28T08:53:57Z"
   },
   {

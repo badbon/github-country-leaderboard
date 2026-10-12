@@ -14732,7 +14732,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2023-07-18T01:13:15Z"
   },
   {
@@ -14767,20 +14767,20 @@
     "company": "National Taiwan University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 65,
+    "privateContributions": 106,
+    "publicContributions": 64,
     "createdAt": "2023-04-03T07:09:43Z"
   },
   {
     "login": "ljc-1222",
-    "name": "林進成",
+    "name": "JC Lin",
     "avatarUrl": "https://avatars.githubusercontent.com/u/133750286?s=72&u=871d1c532f6a62c89b4607f7464f6f4ae2c5b81a&v=4",
     "location": "Taiwan",
     "company": "National Tsing Hua University",
-    "twitterUsername": "ljc_1222",
-    "followers": 1,
-    "privateContributions": 62,
-    "publicContributions": 112,
+    "twitterUsername": "",
+    "followers": 6,
+    "privateContributions": 269,
+    "publicContributions": 113,
     "createdAt": "2023-05-16T07:48:29Z"
   },
   {
@@ -14790,7 +14790,7 @@
     "location": "Hsinchu City, Taiwan",
     "company": "@KTCFE-MIS ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-09-19T03:23:17Z"
@@ -14815,8 +14815,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 211,
-    "publicContributions": 28,
+    "privateContributions": 202,
+    "publicContributions": 15,
     "createdAt": "2023-07-10T08:59:03Z"
   },
   {
@@ -14864,20 +14864,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 26,
     "createdAt": "2023-02-23T11:21:19Z"
-  },
-  {
-    "login": "kurimaart",
-    "name": "Raffaele / 宇威",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/135217553?s=72&u=bd0eb72c9e8e562127724b85848eeeab4ae1d072&v=4",
-    "location": "Taiwan",
-    "company": "NTHU",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 24,
-    "createdAt": "2023-06-01T09:09:38Z"
   },
   {
     "login": "54LeePing",
@@ -14912,7 +14900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 186,
     "createdAt": "2023-08-14T00:22:19Z"
   },
   {
@@ -14924,7 +14912,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 21,
     "createdAt": "2023-04-28T11:03:10Z"
   },
   {
@@ -14948,7 +14936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 59,
     "createdAt": "2023-10-29T06:29:25Z"
   },
   {
@@ -14960,7 +14948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 59,
+    "publicContributions": 55,
     "createdAt": "2023-06-16T06:31:33Z"
   },
   {

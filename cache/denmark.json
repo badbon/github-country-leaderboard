@@ -15092,7 +15092,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 29,
-    "publicContributions": 31,
+    "publicContributions": 36,
     "createdAt": "2023-02-16T16:07:39Z"
   },
   {
@@ -15127,7 +15127,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 66,
+    "privateContributions": 143,
     "publicContributions": 0,
     "createdAt": "2023-09-12T21:42:51Z"
   },
@@ -15140,20 +15140,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 55,
     "createdAt": "2023-09-16T12:24:02Z"
-  },
-  {
-    "login": "RyanB8411",
-    "name": "Ryan Burkhardt",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/148020592?s=72&u=9ed8bd1cc0f74792e8a2de5b8daa54a2482e0b1e&v=4",
-    "location": "Copenhagen Denmark",
-    "company": "AeroX | Starlink",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 25,
-    "publicContributions": 1,
-    "createdAt": "2023-10-16T01:01:09Z"
   },
   {
     "login": "mejerfromperu",
@@ -15163,8 +15151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 326,
-    "publicContributions": 11,
+    "privateContributions": 144,
+    "publicContributions": 7,
     "createdAt": "2023-09-11T22:04:17Z"
   },
   {
@@ -15176,7 +15164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 827,
+    "publicContributions": 1394,
     "createdAt": "2023-10-22T02:04:13Z"
   },
   {
@@ -15195,12 +15183,12 @@
     "login": "Henrikk17",
     "name": "Henrik S. J. Knudsen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/135713603?s=72&v=4",
-    "location": "DTU, Denmark",
+    "location": "Copenhagen, Denmark",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 150,
     "createdAt": "2023-06-06T13:12:27Z"
   },
   {
@@ -15236,7 +15224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 30,
     "createdAt": "2023-06-19T19:00:40Z"
   },
   {
@@ -15259,7 +15247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 587,
+    "privateContributions": 879,
     "publicContributions": 0,
     "createdAt": "2023-09-08T08:39:57Z"
   },
@@ -15284,7 +15272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 97,
     "createdAt": "2023-11-07T19:42:02Z"
   },
   {

@@ -14851,8 +14851,8 @@
     "company": "Self-employed",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 749,
-    "publicContributions": 3,
+    "privateContributions": 37,
+    "publicContributions": 0,
     "createdAt": "2023-04-12T07:17:10Z"
   },
   {
@@ -14863,7 +14863,7 @@
     "company": "Mox Bank",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1329,
+    "privateContributions": 1309,
     "publicContributions": 0,
     "createdAt": "2023-08-21T05:30:05Z"
   },
@@ -14924,7 +14924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 43,
     "createdAt": "2023-09-28T10:41:02Z"
   },
   {
@@ -14934,7 +14934,7 @@
     "location": "Hong Kong",
     "company": "Steam Building Co Ltd",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-04-07T03:20:24Z"
@@ -14948,7 +14948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 13,
     "createdAt": "2022-12-31T16:48:06Z"
   },
   {
@@ -14959,8 +14959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 472,
-    "publicContributions": 136,
+    "privateContributions": 329,
+    "publicContributions": 132,
     "createdAt": "2023-11-28T15:31:04Z"
   },
   {
@@ -14996,18 +14996,18 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2023-06-12T02:39:36Z"
   },
   {
     "login": "Charlotte0228",
     "name": "Shuqi FU",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132884912?s=72&u=a7e26feb6fde001c1f9234510c26c6f153f37538&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/132884912?s=72&u=784855c28b8c1a8bf515b2683621a73efbce5b42&v=4",
     "location": "Hong Kong ",
-    "company": "CityU of Hong Kong",
+    "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 33,
+    "privateContributions": 26,
     "publicContributions": 3,
     "createdAt": "2023-05-08T07:52:02Z"
   },
@@ -15030,9 +15030,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 867,
+    "publicContributions": 764,
     "createdAt": "2023-08-14T01:33:43Z"
   },
   {
@@ -15058,18 +15058,6 @@
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2023-01-15T11:12:09Z"
-  },
-  {
-    "login": "JingYang00",
-    "name": "Jing Yang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149138164?s=72&u=76a6c8ea9f259d88767b8cc38d3f882e9c5e2781&v=4",
-    "location": "Hong Kong",
-    "company": "The Hong Kong University of Science and Technology",
-    "twitterUsername": "00ybella",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-10-27T05:31:34Z"
   },
   {
     "login": "ohpamahk",

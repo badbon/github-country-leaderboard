@@ -14994,8 +14994,8 @@
     "location": "Sarajevo, Bosna i Hercegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 9,
+    "followers": 18,
+    "privateContributions": 12,
     "publicContributions": 0,
     "createdAt": "2018-10-18T08:08:33Z"
   },
@@ -15007,7 +15007,7 @@
     "company": "@SO",
     "twitterUsername": "AjdinBajric",
     "followers": 16,
-    "privateContributions": 232,
+    "privateContributions": 334,
     "publicContributions": 0,
     "createdAt": "2018-07-21T09:39:10Z"
   },
@@ -15055,7 +15055,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 5276,
+    "privateContributions": 7028,
     "publicContributions": 0,
     "createdAt": "2018-10-17T14:48:04Z"
   },
@@ -15067,7 +15067,7 @@
     "company": "Faculty of Information Technologies, University Džemal Bijedić of Mostar",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 17,
+    "privateContributions": 13,
     "publicContributions": 0,
     "createdAt": "2018-11-07T11:48:23Z"
   },
@@ -15079,8 +15079,8 @@
     "company": "@omnitaskba ",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 2313,
-    "publicContributions": 46,
+    "privateContributions": 2308,
+    "publicContributions": 48,
     "createdAt": "2018-02-28T10:08:35Z"
   },
   {
@@ -15091,21 +15091,9 @@
     "company": "Am I robot?",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 418,
-    "publicContributions": 42,
+    "privateContributions": 377,
+    "publicContributions": 40,
     "createdAt": "2018-10-25T21:28:53Z"
-  },
-  {
-    "login": "banberina",
-    "name": "Berina",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44987552?s=72&u=f0137176edd049ddc6533c1cf8de5ae12d24cd02&v=4",
-    "location": "Sarajevo",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-11-13T00:45:10Z"
   },
   {
     "login": "nikolamajmunovic",
@@ -15115,7 +15103,7 @@
     "company": "Ministry of Programming",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 902,
+    "privateContributions": 1335,
     "publicContributions": 0,
     "createdAt": "2018-11-01T20:32:34Z"
   },
@@ -15127,8 +15115,8 @@
     "company": "@Paragon",
     "twitterUsername": "emir_de3",
     "followers": 9,
-    "privateContributions": 19,
-    "publicContributions": 2,
+    "privateContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2018-11-15T19:36:19Z"
   },
   {
@@ -15139,8 +15127,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 50,
-    "publicContributions": 15,
+    "privateContributions": 61,
+    "publicContributions": 18,
     "createdAt": "2018-08-26T12:39:58Z"
   },
   {
@@ -15162,9 +15150,9 @@
     "location": "University of Sarajevo",
     "company": "Faculty of Electrical Engineering, Computer Science",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 36,
-    "publicContributions": 106,
+    "publicContributions": 103,
     "createdAt": "2018-06-13T13:23:26Z"
   },
   {
@@ -15187,7 +15175,7 @@
     "company": "Sentry Cybersecurity & Defense",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 43,
+    "privateContributions": 29,
     "publicContributions": 1,
     "createdAt": "2018-10-15T19:50:04Z"
   },
@@ -15211,7 +15199,7 @@
     "company": "ShopCircle",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 967,
+    "privateContributions": 1095,
     "publicContributions": 0,
     "createdAt": "2018-04-05T14:50:49Z"
   },
@@ -15224,7 +15212,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2018-01-21T20:40:46Z"
   },
   {

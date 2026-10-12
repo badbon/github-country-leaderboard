@@ -15176,7 +15176,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2019-09-11T09:19:44Z"
   },
   {
@@ -15211,7 +15211,7 @@
     "company": "Software Engineer (legrandgeorges53@gmail.com)",
     "twitterUsername": "GeorginhoPocho",
     "followers": 5,
-    "privateContributions": 660,
+    "privateContributions": 867,
     "publicContributions": 107,
     "createdAt": "2019-01-10T12:12:28Z"
   },
@@ -15222,9 +15222,9 @@
     "location": "Cameroon",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 184,
-    "publicContributions": 100,
+    "followers": 6,
+    "privateContributions": 179,
+    "publicContributions": 92,
     "createdAt": "2019-07-13T06:07:29Z"
   },
   {
@@ -15259,8 +15259,8 @@
     "company": "Africa Global Logistics",
     "twitterUsername": "sam_foulla",
     "followers": 5,
-    "privateContributions": 1423,
-    "publicContributions": 123,
+    "privateContributions": 1382,
+    "publicContributions": 200,
     "createdAt": "2019-01-28T03:50:01Z"
   },
   {
@@ -15272,7 +15272,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2019-06-27T08:43:56Z"
   },
   {
@@ -15283,8 +15283,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 46,
-    "publicContributions": 38,
+    "privateContributions": 111,
+    "publicContributions": 41,
     "createdAt": "2019-03-05T08:22:50Z"
   },
   {
@@ -15295,7 +15295,7 @@
     "company": "Omdena",
     "twitterUsername": "DzeRichard",
     "followers": 4,
-    "privateContributions": 14,
+    "privateContributions": 46,
     "publicContributions": 0,
     "createdAt": "2019-08-21T00:48:36Z"
   },
@@ -15318,9 +15318,9 @@
     "location": "Yaounde, Cameroon",
     "company": "Digimark Sarl",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 28,
     "createdAt": "2019-07-28T18:32:12Z"
   },
   {
@@ -15344,7 +15344,7 @@
     "twitterUsername": "YBonyaO",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-05-31T06:08:33Z"
   },
   {
@@ -15354,22 +15354,10 @@
     "location": "Cameroon",
     "company": "Yaba-In",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-20T13:44:58Z"
-  },
-  {
-    "login": "mekontso",
-    "name": "Mekontso Anderson ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/48370882?s=72&u=c1d176b5ff18b0557beef842a8db9fd46ba0b6ca&v=4",
-    "location": "Yaounde, Cameroon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 60,
-    "publicContributions": 0,
-    "createdAt": "2019-03-09T00:50:39Z"
   },
   {
     "login": "nthierrys",
@@ -15391,8 +15379,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2141,
-    "publicContributions": 14,
+    "privateContributions": 2117,
+    "publicContributions": 15,
     "createdAt": "2019-11-15T14:11:31Z"
   },
   {

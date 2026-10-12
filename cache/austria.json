@@ -15036,27 +15036,15 @@
     "createdAt": "2023-07-03T07:59:16Z"
   },
   {
-    "login": "calghar",
-    "name": "Farooq Shaikh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/132209419?s=72&v=4",
-    "location": "Austria",
-    "company": "Dynatrace",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 732,
-    "publicContributions": 474,
-    "createdAt": "2023-04-30T13:46:33Z"
-  },
-  {
     "login": "NoahVelickovic",
     "name": "Noah Velickovic",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121921800?s=72&u=2c7f7ee1d4e9b737290ddc1abee848beea68633c&v=4",
     "location": "Austria | Linz Upper Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 120,
-    "publicContributions": 217,
+    "followers": 3,
+    "privateContributions": 139,
+    "publicContributions": 196,
     "createdAt": "2023-01-04T05:17:37Z"
   },
   {
@@ -15067,8 +15055,8 @@
     "company": "BonRepublic",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 839,
-    "publicContributions": 62,
+    "privateContributions": 460,
+    "publicContributions": 5,
     "createdAt": "2023-02-17T13:24:32Z"
   },
   {
@@ -15092,7 +15080,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 18,
     "createdAt": "2023-05-31T19:50:07Z"
   },
   {
@@ -15115,8 +15103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 104,
-    "publicContributions": 110,
+    "privateContributions": 163,
+    "publicContributions": 113,
     "createdAt": "2023-11-25T18:50:43Z"
   },
   {
@@ -15128,7 +15116,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 28,
     "createdAt": "2023-04-19T09:08:28Z"
   },
   {
@@ -15163,8 +15151,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 276,
-    "publicContributions": 553,
+    "privateContributions": 260,
+    "publicContributions": 535,
     "createdAt": "2023-06-06T15:54:31Z"
   },
   {
@@ -15187,7 +15175,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1278,
+    "privateContributions": 1116,
     "publicContributions": 2,
     "createdAt": "2023-01-23T22:05:15Z"
   },
@@ -15222,9 +15210,9 @@
     "location": "Austria ",
     "company": "",
     "twitterUsername": "Lallana023",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 261,
+    "publicContributions": 284,
     "createdAt": "2023-03-22T09:14:49Z"
   },
   {
@@ -15234,9 +15222,9 @@
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 12,
     "createdAt": "2023-01-16T20:40:39Z"
   },
   {
@@ -15247,7 +15235,7 @@
     "company": "@htl-grieskirchen ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 171,
+    "privateContributions": 185,
     "publicContributions": 12,
     "createdAt": "2023-09-14T07:23:45Z"
   },
@@ -15258,7 +15246,7 @@
     "location": "Linz, Austria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-20T09:27:22Z"
@@ -15271,8 +15259,8 @@
     "company": "Datenpol GmbH",
     "twitterUsername": "danielmulec",
     "followers": 2,
-    "privateContributions": 2198,
-    "publicContributions": 652,
+    "privateContributions": 3276,
+    "publicContributions": 1055,
     "createdAt": "2023-12-10T22:10:21Z"
   },
   {
@@ -219058,5 +219046,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-15T23:54:43Z"
+  },
+  {
+    "login": "banberina",
+    "name": "Berina",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44987552?s=72&v=4",
+    "location": "Vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 3,
+    "publicContributions": 0,
+    "createdAt": "2018-11-13T00:45:10Z"
   }
 ]
