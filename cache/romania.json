@@ -16580,7 +16580,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2023-03-26T15:19:45Z"
   },
   {
@@ -16652,7 +16652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-08-07T09:27:03Z"
   },
   {
@@ -16723,7 +16723,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 105,
+    "privateContributions": 103,
     "publicContributions": 257,
     "createdAt": "2023-10-02T18:09:27Z"
   },
@@ -16736,19 +16736,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 436,
+    "publicContributions": 391,
     "createdAt": "2023-06-19T15:16:14Z"
   },
   {
     "login": "iustinflorian",
     "name": "Iustin Florian Gaiță",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151085099?s=72&u=baf99f4fdc633af37ec27045da67eaa373d4d3e6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151085099?s=72&u=6249e6da41780575335a514cb1dff49c0d6ac70b&v=4",
     "location": "Bucharest, Romania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 227,
     "createdAt": "2023-11-16T20:39:01Z"
   },
   {

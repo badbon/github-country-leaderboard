@@ -16616,7 +16616,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 26,
     "createdAt": "2016-10-31T19:10:19Z"
   },
   {
@@ -16756,8 +16756,8 @@
     "name": "Pablo Acosta",
     "avatarUrl": "https://avatars.githubusercontent.com/u/16957736?s=72&u=0fd4809f42a06a5266cd7132f42dbf5944cf2078&v=4",
     "location": "Asunción ",
-    "company": "Epas sae",
-    "twitterUsername": "pabloacpy_",
+    "company": "TU Financiera",
+    "twitterUsername": "pabloacpy",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
@@ -16770,21 +16770,21 @@
     "location": "Paraguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 134,
-    "privateContributions": 293,
-    "publicContributions": 26,
+    "followers": 136,
+    "privateContributions": 207,
+    "publicContributions": 25,
     "createdAt": "2015-01-11T23:19:59Z"
   },
   {
     "login": "guilleheizen",
     "name": "Guille Heizen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/10975501?s=72&u=91e0b0b0f68af9eefc65498bbca008530a5e17c3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/10975501?s=72&u=df05c068867a9d194613108c43cce30efe86fb19&v=4",
     "location": "Asunción - Paraguay",
     "company": "BrosCo",
     "twitterUsername": "",
-    "followers": 57,
-    "privateContributions": 1512,
-    "publicContributions": 92,
+    "followers": 61,
+    "privateContributions": 1615,
+    "publicContributions": 98,
     "createdAt": "2015-02-12T11:25:17Z"
   },
   {
@@ -16794,9 +16794,9 @@
     "location": "Paraguay",
     "company": "pavon.com.py",
     "twitterUsername": "",
-    "followers": 54,
+    "followers": 55,
     "privateContributions": 0,
-    "publicContributions": 948,
+    "publicContributions": 1269,
     "createdAt": "2015-07-07T05:40:53Z"
   },
   {
@@ -16806,8 +16806,8 @@
     "location": "Asuncion-Paraguay",
     "company": "SmartHub",
     "twitterUsername": "",
-    "followers": 46,
-    "privateContributions": 97,
+    "followers": 45,
+    "privateContributions": 90,
     "publicContributions": 3,
     "createdAt": "2015-01-18T21:00:17Z"
   },

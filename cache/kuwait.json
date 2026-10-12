@@ -6907,7 +6907,7 @@
     "company": "ZAK Solutions",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 217,
+    "privateContributions": 210,
     "publicContributions": 0,
     "createdAt": "2016-06-23T22:52:54Z"
   },
@@ -9574,5 +9574,17 @@
     "privateContributions": 1789,
     "publicContributions": 111,
     "createdAt": "2021-05-13T19:24:19Z"
+  },
+  {
+    "login": "Hydebiy",
+    "name": "adeolu",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211673903?s=72&u=0569a54b7187293da9b4ad770620942d580ece21&v=4",
+    "location": "Farwaniyah, Kuwait",
+    "company": "DataForte ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2025-05-14T12:15:50Z"
   }
 ]

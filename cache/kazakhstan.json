@@ -16338,7 +16338,7 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-09-27T10:20:21Z"
@@ -16351,7 +16351,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 202,
+    "privateContributions": 134,
     "publicContributions": 3,
     "createdAt": "2022-01-04T09:53:36Z"
   },
@@ -16362,9 +16362,9 @@
     "location": "Almaty/Kazakhstan",
     "company": "skp.kz",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 46,
     "createdAt": "2022-02-06T22:10:47Z"
   },
   {
@@ -16374,9 +16374,9 @@
     "location": "Kazakhstan, Semey",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 21,
     "createdAt": "2022-03-11T16:00:17Z"
   },
   {
@@ -16411,8 +16411,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3486,
-    "publicContributions": 195,
+    "privateContributions": 5959,
+    "publicContributions": 127,
     "createdAt": "2022-08-01T06:40:41Z"
   },
   {
@@ -16422,9 +16422,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 168,
     "createdAt": "2022-08-05T10:42:49Z"
   },
   {
@@ -16460,7 +16460,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2022-10-18T13:07:58Z"
   },
   {
@@ -16471,8 +16471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 137,
+    "privateContributions": 1008,
+    "publicContributions": 162,
     "createdAt": "2022-08-25T17:36:01Z"
   },
   {
@@ -16496,7 +16496,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 14,
     "createdAt": "2022-11-10T12:52:52Z"
   },
   {
@@ -16508,7 +16508,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 10,
     "createdAt": "2022-04-01T04:04:46Z"
   },
   {
@@ -16519,8 +16519,8 @@
     "company": "Student of Astana IT University (AITU) ",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 165,
-    "publicContributions": 7,
+    "privateContributions": 169,
+    "publicContributions": 5,
     "createdAt": "2022-11-02T07:49:13Z"
   },
   {
@@ -16531,8 +16531,8 @@
     "company": "New York University",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 7,
-    "publicContributions": 178,
+    "privateContributions": 85,
+    "publicContributions": 203,
     "createdAt": "2022-01-29T04:58:13Z"
   },
   {
@@ -16555,19 +16555,19 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 89,
-    "publicContributions": 66,
+    "privateContributions": 255,
+    "publicContributions": 34,
     "createdAt": "2022-06-03T13:40:59Z"
   },
   {
     "login": "adilkhan-tubulbayev",
     "name": "Adilkhan Tubulbayev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116016401?s=72&u=318dcfde47d25057873990532ffaac4d5b73ed13&v=4",
-    "location": "Kostanay, Kazakhstan",
+    "location": "Almaty, Kazakhstan",
     "company": "Flowleads",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 887,
+    "privateContributions": 1134,
     "publicContributions": 0,
     "createdAt": "2022-10-17T15:21:19Z"
   },

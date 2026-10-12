@@ -16422,7 +16422,7 @@
     "location": "Jordan",
     "company": "Privet",
     "twitterUsername": "Narchcf17a",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-17T15:11:25Z"
@@ -16446,9 +16446,9 @@
     "location": "Amman, Jordan",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 471,
-    "publicContributions": 69,
+    "followers": 6,
+    "privateContributions": 1460,
+    "publicContributions": 114,
     "createdAt": "2022-06-30T13:50:04Z"
   },
   {
@@ -16470,21 +16470,21 @@
     "location": "Amman, Jordan",
     "company": "Maqsam",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 25,
     "createdAt": "2022-07-25T23:17:39Z"
   },
   {
     "login": "yamaz-dev",
     "name": "Yaman",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/117444759?s=72&u=f1b672866cf360b5b1aee93d531ce540a169d8d7&v=4",
-    "location": "Jordan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/117444759?s=72&u=13b094c2150ecc3deceb24effe55c0369c2493ad&v=4",
+    "location": "Amman",
     "company": "@BuggyCoders ",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 32,
-    "publicContributions": 27,
+    "followers": 9,
+    "privateContributions": 17,
+    "publicContributions": 39,
     "createdAt": "2022-11-04T10:21:10Z"
   },
   {
@@ -16508,7 +16508,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 232,
+    "publicContributions": 226,
     "createdAt": "2022-01-28T00:01:41Z"
   },
   {
@@ -16520,7 +16520,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 117,
     "createdAt": "2022-03-16T06:56:53Z"
   },
   {
@@ -16532,7 +16532,7 @@
     "twitterUsername": "webshipco",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 121,
+    "publicContributions": 85,
     "createdAt": "2022-01-10T13:07:34Z"
   },
   {
@@ -16568,7 +16568,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-12-17T13:14:51Z"
   },
   {
@@ -16600,11 +16600,11 @@
     "name": "Zaid",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97914966?s=72&u=01ef7110d4a5ac6f929dbed8c88c49ec96c0bdbc&v=4",
     "location": "Amman / Jordan",
-    "company": "MENADevs",
+    "company": "Hardrock",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 426,
-    "publicContributions": 2723,
+    "privateContributions": 4248,
+    "publicContributions": 117,
     "createdAt": "2022-01-17T19:43:08Z"
   },
   {
@@ -16627,21 +16627,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 1,
     "createdAt": "2022-06-03T12:05:54Z"
-  },
-  {
-    "login": "omarkalloush",
-    "name": "Kalloush, Omar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/100078273?s=72&u=a131b6e53de0b5daf7f602cf895f59c6e5a07a7c&v=4",
-    "location": "Amman, Jordan",
-    "company": "Optimum Partners",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 1381,
-    "publicContributions": 6,
-    "createdAt": "2022-02-20T13:41:29Z"
   },
   {
     "login": "Musstavo",

@@ -16392,18 +16392,6 @@
     "createdAt": "2020-12-20T15:01:45Z"
   },
   {
-    "login": "kimsanbaev-karim",
-    "name": "Karim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61922642?s=72&u=e9a949cd4eef881504d87b14fabe00ec6276b94c&v=4",
-    "location": "Kyrgyz Republic, Bishkek",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 10,
-    "createdAt": "2020-03-07T23:24:29Z"
-  },
-  {
     "login": "AintIsa",
     "name": "Isa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/60132163?s=72&u=5fc685d7c8962ff03aa4f17dd91808a4d96d9c95&v=4",
@@ -16459,8 +16447,8 @@
     "company": "@growave-io",
     "twitterUsername": "",
     "followers": 76,
-    "privateContributions": 291,
-    "publicContributions": 131,
+    "privateContributions": 243,
+    "publicContributions": 416,
     "createdAt": "2020-12-02T19:16:52Z"
   },
   {
@@ -16470,22 +16458,10 @@
     "location": "Osh, Kyrgyzstan",
     "company": "@ionet-official ",
     "twitterUsername": "",
-    "followers": 59,
-    "privateContributions": 1629,
-    "publicContributions": 68,
+    "followers": 58,
+    "privateContributions": 1852,
+    "publicContributions": 505,
     "createdAt": "2020-08-28T13:03:25Z"
-  },
-  {
-    "login": "enoobis",
-    "name": "Daniel Becerra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62465404?s=72&u=a908606887df5026790b22b5d92f1d3202068ed0&v=4",
-    "location": "Bishkek / Kyrgyzstan",
-    "company": "",
-    "twitterUsername": "enoobis",
-    "followers": 56,
-    "privateContributions": 52,
-    "publicContributions": 1184,
-    "createdAt": "2020-03-21T10:19:05Z"
   },
   {
     "login": "hellohelldar",
@@ -16494,8 +16470,8 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 2286,
+    "followers": 48,
+    "privateContributions": 3362,
     "publicContributions": 66,
     "createdAt": "2020-03-04T11:09:37Z"
   },
@@ -16506,9 +16482,9 @@
     "location": "Kyrgyzstan",
     "company": "Juna",
     "twitterUsername": "Omurbek1",
-    "followers": 45,
+    "followers": 46,
     "privateContributions": 0,
-    "publicContributions": 475,
+    "publicContributions": 464,
     "createdAt": "2020-05-05T15:35:20Z"
   },
   {
@@ -16518,9 +16494,9 @@
     "location": "Kyrgyzstan, Naryn",
     "company": "University of Cental Asia",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 686,
-    "publicContributions": 558,
+    "followers": 42,
+    "privateContributions": 702,
+    "publicContributions": 614,
     "createdAt": "2020-07-20T22:43:22Z"
   },
   {
@@ -16531,8 +16507,8 @@
     "company": "Geeks ",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 1149,
-    "publicContributions": 112,
+    "privateContributions": 13,
+    "publicContributions": 1064,
     "createdAt": "2020-10-07T21:37:49Z"
   },
   {
@@ -16542,8 +16518,8 @@
     "location": "Kyrgyzstan",
     "company": "Magnet AI",
     "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 2,
+    "followers": 36,
+    "privateContributions": 12,
     "publicContributions": 4,
     "createdAt": "2020-12-21T17:54:17Z"
   },
@@ -16555,7 +16531,7 @@
     "company": "Digital Education Center in MES KR",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 361,
+    "privateContributions": 365,
     "publicContributions": 36,
     "createdAt": "2020-06-27T15:53:35Z"
   },
@@ -16566,7 +16542,7 @@
     "location": "Kyrgyzstan, Bishkek",
     "company": "Hopeffer",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-02T15:29:26Z"
@@ -16579,8 +16555,8 @@
     "company": "Stealth GenAI",
     "twitterUsername": "bezdarnost_brr",
     "followers": 33,
-    "privateContributions": 275,
-    "publicContributions": 133,
+    "privateContributions": 662,
+    "publicContributions": 107,
     "createdAt": "2020-06-26T17:29:00Z"
   },
   {
@@ -16603,7 +16579,7 @@
     "company": "@KarakolTECH",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 25,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2020-12-02T09:44:48Z"
   },

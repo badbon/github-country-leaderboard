@@ -16398,7 +16398,7 @@
     "location": "Mexico",
     "company": "Social Outcast",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 64,
     "createdAt": "2024-09-24T22:30:11Z"
@@ -16442,13 +16442,13 @@
   {
     "login": "EmmanuelForcelledoMena",
     "name": "Emmanuel Forcelledo Mena",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160568006?s=72&u=da76aab3e9cc4627ce7e7087618f936d4d27b324&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160568006?s=72&u=3c3eb7b8845d3243b45ff4e1d1237b7b3549de9a&v=4",
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 22,
     "createdAt": "2024-02-20T04:47:16Z"
   },
   {
@@ -16484,7 +16484,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 13,
     "createdAt": "2024-06-13T17:49:04Z"
   },
   {
@@ -16508,7 +16508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 120,
     "createdAt": "2024-10-08T02:28:15Z"
   },
   {
@@ -16556,7 +16556,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2024-06-26T20:37:06Z"
   },
   {
@@ -16592,7 +16592,7 @@
     "twitterUsername": "rodroshc",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 2,
     "createdAt": "2024-03-29T22:05:22Z"
   },
   {
@@ -273146,14 +273146,14 @@
   {
     "login": "acanales",
     "name": "Alfredo Canales",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/916052?s=72&u=002e94b9ac94af01bae63bfa3aaa818713e48ec4&v=4",
-    "location": "Monterrey, Mexico",
-    "company": "AC",
-    "twitterUsername": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289256476?s=72&u=155efd0a4d7ec62e52e993701e24af60a18368dc&v=4",
+    "location": "Monterrey",
+    "company": "Unmade",
+    "twitterUsername": "alfredocanales",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2011-07-14T20:37:38Z"
+    "publicContributions": 9,
+    "createdAt": "2026-05-30T18:01:23Z"
   },
   {
     "login": "orlando",
@@ -281986,5 +281986,89 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-05-19T06:31:08Z"
+  },
+  {
+    "login": "luisbenitez-dev",
+    "name": "Luis Benítez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292988905?s=72&v=4",
+    "location": "Monterrey, Nuevo León, México ",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-12T04:54:47Z"
+  },
+  {
+    "login": "lirio-dav",
+    "name": "lirio",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297048921?s=72&v=4",
+    "location": "Monterrey, Nuevo León",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-26T03:14:58Z"
+  },
+  {
+    "login": "Lenjeru",
+    "name": "Angel Beltran",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293009392?s=72&u=499a023598c0f4f302e669034bb8623880f9aff7&v=4",
+    "location": "Monterrey N.L",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2026-06-12T06:32:06Z"
+  },
+  {
+    "login": "Maximilianogc32",
+    "name": "Alex Gomez",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288496241?s=72&u=6dffa6d7b6219b62c2ecb072234884b074e3408b&v=4",
+    "location": "Monterrey",
+    "company": "Haciendas de Bustamante",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-05-28T02:07:02Z"
+  },
+  {
+    "login": "DanCastanedaX",
+    "name": "Dan Castañeda.",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290113690?s=72&v=4",
+    "location": "Monterrey, Nuevo León ",
+    "company": "",
+    "twitterUsername": "DanCastanedaX",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-02T17:24:56Z"
+  },
+  {
+    "login": "naikary",
+    "name": "Naikary",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287277031?s=72&u=325768075e1fac6e8e2c27e34bf0936b79643a19&v=4",
+    "location": "Monterrey",
+    "company": "CIMAT",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 47,
+    "createdAt": "2026-05-23T17:49:53Z"
+  },
+  {
+    "login": "fcojcangasz",
+    "name": "Javier Cangas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291388367?s=72&v=4",
+    "location": "Monterrey, Nuevo Léon, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-06-06T21:19:44Z"
   }
 ]

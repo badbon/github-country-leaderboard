@@ -16616,7 +16616,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2012-04-11T02:27:59Z"
   },
   {
@@ -16650,9 +16650,9 @@
     "location": "Isabela, Puerto Rico",
     "company": "@effectbuilder",
     "twitterUsername": "mirandaobsy",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 42,
     "createdAt": "2012-09-27T20:04:56Z"
   },
   {
@@ -16662,7 +16662,7 @@
     "location": "Puerto Rico",
     "company": " ServiceUpAuto",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-11-14T23:15:54Z"
@@ -16675,7 +16675,7 @@
     "company": "Outcome Project, LLC",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3418,
+    "privateContributions": 3283,
     "publicContributions": 1,
     "createdAt": "2012-08-12T15:27:53Z"
   },
@@ -16686,7 +16686,7 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-10-19T18:52:21Z"
@@ -16694,13 +16694,13 @@
   {
     "login": "arnaldoroman",
     "name": "Arnaldo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1839758?s=72&u=97de48d0935ac930131086ad6e7347e43c218ad0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1839758?s=72&u=b10cf9204eddaec8374f6492879f3e5c35dd3cdb&v=4",
     "location": "San Juan, Puerto Rico",
     "company": "Grupo Probeta",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2012-06-11T19:13:14Z"
   },
   {
@@ -16734,9 +16734,9 @@
     "location": "Puerto Rico",
     "company": "Opensoft, Inc",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 729,
+    "publicContributions": 6739,
     "createdAt": "2012-03-07T22:17:02Z"
   },
   {
@@ -16790,13 +16790,13 @@
   {
     "login": "AlexisBlas",
     "name": "Alexis Blas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1301589?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1301589?s=72&u=00bf72f0d2a5036e94d155455da50acf6ce8d48c&v=4",
     "location": "Puerto Rico",
-    "company": "KIS",
+    "company": "humbol studio",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 28,
     "createdAt": "2012-01-03T16:41:31Z"
   },
   {
@@ -16820,7 +16820,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2012-10-22T06:57:19Z"
   },
   {
@@ -16832,7 +16832,7 @@
     "twitterUsername": "",
     "followers": 267,
     "privateContributions": 0,
-    "publicContributions": 1685,
+    "publicContributions": 1960,
     "createdAt": "2012-12-10T23:16:35Z"
   },
   {
@@ -16842,9 +16842,9 @@
     "location": "San Juan, PR",
     "company": "Web3 Studios LLC",
     "twitterUsername": "hackingbutlegal",
-    "followers": 108,
-    "privateContributions": 4227,
-    "publicContributions": 309,
+    "followers": 107,
+    "privateContributions": 4826,
+    "publicContributions": 278,
     "createdAt": "2012-02-10T23:47:23Z"
   },
   {

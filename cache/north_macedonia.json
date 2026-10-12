@@ -16788,25 +16788,13 @@
     "createdAt": "2016-06-24T17:28:13Z"
   },
   {
-    "login": "njofce",
-    "name": "Nasi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/20361763?s=72&u=5fa971715dfc37e32b29782111c7b3bc404cdebe&v=4",
-    "location": "Skopje",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 815,
-    "publicContributions": 6,
-    "createdAt": "2016-07-08T19:46:49Z"
-  },
-  {
     "login": "izindl",
     "name": "Ivan Zindl",
     "avatarUrl": "https://avatars.githubusercontent.com/u/20887367?s=72&u=bd34232502fd8685a3171ddd223e8d9e5d04f43a&v=4",
     "location": "Skopje",
     "company": "",
     "twitterUsername": "",
-    "followers": 26,
+    "followers": 32,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-08-07T12:58:06Z"
@@ -16844,7 +16832,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 28,
     "createdAt": "2016-03-20T12:06:55Z"
   },
   {
@@ -16856,7 +16844,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-07-10T15:45:18Z"
   },
   {
@@ -16867,7 +16855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 688,
+    "privateContributions": 762,
     "publicContributions": 0,
     "createdAt": "2016-03-29T09:32:31Z"
   },
@@ -16892,7 +16880,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 369,
+    "publicContributions": 384,
     "createdAt": "2016-03-10T13:48:32Z"
   },
   {
@@ -16915,8 +16903,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 91,
-    "publicContributions": 29,
+    "privateContributions": 78,
+    "publicContributions": 6,
     "createdAt": "2016-09-03T10:02:03Z"
   },
   {
