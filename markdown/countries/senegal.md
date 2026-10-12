@@ -45,15 +45,15 @@ Indexed users: 1,356
 | 6 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 2,015 |
 | 7 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
 | 8 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,760 |
-| 9 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,661 |
-| 10 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,655 |
+| 9 | [FadelDia](https://github.com/FadelDia) | Fallou Dia | SENEGAL | 1,655 |
+| 10 | [crybaby050](https://github.com/crybaby050) | Seydina | Senegal | 1,651 |
 | 11 | [Libs9977](https://github.com/Libs9977) | Libasse Mbaye | Dakar,Senegal | 1,583 |
 | 12 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 1,315 |
 | 13 | [Ramadiaw12](https://github.com/Ramadiaw12) | Rahma | Senegal | 1,253 |
 | 14 | [soszaboss](https://github.com/soszaboss) | Moustoifa Ben Kamal Moussa | Dakar, Senegal | 1,220 |
 | 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,160 |
 | 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
-| 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,067 |
+| 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
 | 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
 | 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,021 |
 | 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 927 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-12T18:29:59.776Z
+Generated: 2026-10-12T19:45:10.073Z

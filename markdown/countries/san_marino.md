@@ -13,9 +13,9 @@ Indexed users: 61
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 13,566 |
-| 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,757 |
+| 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,876 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,241 |
-| 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,151 |
+| 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,176 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,315 |
 | 6 | [CastFX](https://github.com/CastFX) | Chris | San Marino | 2,282 |
 | 7 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 2,189 |
@@ -49,8 +49,8 @@ Indexed users: 61
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 96 |
 | 11 | [lucabio](https://github.com/lucabio) | Luca | San Marino | 75 |
 | 12 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 50 |
-| 13 | [salugea](https://github.com/salugea) | Salugea | San Marino | 45 |
-| 14 | [pigorg](https://github.com/pigorg) | alessandro gnola | san marino | 44 |
+| 13 | [pigorg](https://github.com/pigorg) | alessandro gnola | san marino | 48 |
+| 14 | [salugea](https://github.com/salugea) | Salugea | San Marino | 45 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 43 |
 | 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | San Marino, CA | 39 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 37 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-12T18:28:51.757Z
+Generated: 2026-10-12T19:43:43.293Z

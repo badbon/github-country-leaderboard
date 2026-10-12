@@ -1,6 +1,6 @@
 # Nigeria
 
-Indexed users: 33,218
+Indexed users: 33,217
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 33,218
 | 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 | 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | Lagos, Nigeria | 707 |
 
-Generated: 2026-10-12T18:18:43.240Z
+Generated: 2026-10-12T19:31:32.381Z

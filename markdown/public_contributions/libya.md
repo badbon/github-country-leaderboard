@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-12T18:07:24.679Z
+Generated: 2026-10-12T19:21:05.545Z
 
 Users: 742
 
@@ -11,10 +11,10 @@ Users: 742
 | 3 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY |  |  | Libya | 1085 |
 | 4 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     |  |  | Tripoli Libya | 1062 |
 | 5 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  |  |  | libya | 1020 |
-| 6 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Bentlos |  | Tripoli, Libya | 704 |
-| 7 | [azzubairx](https://github.com/azzubairx) | Azzubair |  |  | Libya | 683 |
-| 8 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 665 |
-| 9 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 655 |
+| 6 | [almontasser](https://github.com/almontasser) | Mahmoud Almontasser | Lamah |  | Misurata, Libya | 721 |
+| 7 | [AbdulrahmanAbusnena](https://github.com/AbdulrahmanAbusnena) | Abdulrahman Abusnena | Bentlos |  | Tripoli, Libya | 704 |
+| 8 | [azzubairx](https://github.com/azzubairx) | Azzubair |  |  | Libya | 683 |
+| 9 | [hazembook](https://github.com/hazembook) | Hazem Shaban | College of Engineering Technology - Janzour | hazembook | Libya | 665 |
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 640 |
 | 11 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash |  |  | Libya | 615 |
 | 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 598 |

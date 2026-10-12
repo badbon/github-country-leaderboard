@@ -1,8 +1,8 @@
 # Public Contributions - Kyrgyzstan
 
-Generated: 2026-10-12T18:05:45.406Z
+Generated: 2026-10-12T19:19:12.452Z
 
-Users: 2454
+Users: 2452
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 2454
 | 12 | [teimurjan](https://github.com/teimurjan) | Teimur Gasanov | @SpeechifyInc | teimurjan | Bishkek, Kyrgyzstan | 1247 |
 | 13 | [alxnko](https://github.com/alxnko) | Alex Neko | AIT Solutions |  | Kyrgyzstan | 1217 |
 | 14 | [Eldar2021](https://github.com/Eldar2021) | Eldiiar Almazbek | ElTeh | EldiiarAlmazbek | Bishkek | 1203 |
-| 15 | [enoobis](https://github.com/enoobis) | Daniel Becerra |  | enoobis | Bishkek / Kyrgyzstan | 1184 |
+| 15 | [isko18](https://github.com/isko18) | islam | Geeks  |  | Kyrgyzstan, Osh | 1064 |
 | 16 | [ArzubekDev](https://github.com/ArzubekDev) | Arzubek | Yldam market |  | Bishkek | 1025 |
 | 17 | [asannov](https://github.com/asannov) | Damir |  |  | Bishkek, Kyrgyz Republic | 991 |
 | 18 | [dioritdev](https://github.com/dioritdev) | DIOR | prolab |  | Kyrgyzstan/Osh | 978 |

@@ -17,12 +17,12 @@ Indexed users: 891
 | 3 | [mashkovd](https://github.com/mashkovd) | mashkovd | Podgorica | 13,529 |
 | 4 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,397 |
 | 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,289 |
-| 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,639 |
+| 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,642 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,487 |
 | 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,223 |
 | 9 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,098 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,796 |
-| 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,734 |
+| 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Podgorica | 5,767 |
 | 12 | [1v4n4](https://github.com/1v4n4) |  | Montenegro | 5,645 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | Montenegro | 5,409 |
 | 14 | [zee229](https://github.com/zee229) | Nikita Yastreb | Montenegro, Bar | 5,224 |
@@ -31,7 +31,7 @@ Indexed users: 891
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,685 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,424 |
 | 19 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,424 |
-| 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,390 |
+| 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,419 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 891
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-12T18:13:59.598Z
+Generated: 2026-10-12T19:27:45.259Z

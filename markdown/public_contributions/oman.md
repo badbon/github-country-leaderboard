@@ -1,6 +1,6 @@
 # Public Contributions - Oman
 
-Generated: 2026-10-12T18:19:17.320Z
+Generated: 2026-10-12T19:34:15.931Z
 
 Users: 994
 
@@ -25,4 +25,4 @@ Users: 994
 | 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Codeline |  | Muscat, Oman | 1322 |
 | 18 | [ilia144000](https://github.com/ilia144000) | Ilia GH | @rannta | ranntacoin | Sultanate of Oman | 1097 |
 | 19 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Codeline |  | Oman | 1080 |
-| 20 | [MrSn001](https://github.com/MrSn001) | Shaheen Hussain Al-Amri | CodeLine |  | Oman, Muscat, Galah | 1054 |
+| 20 | [MrSn001](https://github.com/MrSn001) | Shaheen Hussain Al-Amri | CodeLine |  | Oman, Muscat, Galah | 1059 |

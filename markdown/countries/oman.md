@@ -20,12 +20,12 @@ Indexed users: 994
 | 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 11,352 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,554 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
-| 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 8,918 |
+| 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,005 |
 | 10 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,290 |
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 8,204 |
 | 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,038 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,255 |
-| 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,484 |
+| 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,633 |
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,396 |
 | 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,556 |
@@ -56,7 +56,7 @@ Indexed users: 994
 | 17 | [engSulaimanMohammed](https://github.com/engSulaimanMohammed) | Sulaiman Mohammed | Muscat, Oman | 1,322 |
 | 18 | [ilia144000](https://github.com/ilia144000) | Ilia GH | Sultanate of Oman | 1,097 |
 | 19 | [6qzr](https://github.com/6qzr) | Mohammed Al Abri | Oman | 1,080 |
-| 20 | [MrSn001](https://github.com/MrSn001) | Shaheen Hussain Al-Amri | Oman, Muscat, Galah | 1,054 |
+| 20 | [MrSn001](https://github.com/MrSn001) | Shaheen Hussain Al-Amri | Oman, Muscat, Galah | 1,059 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 994
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-12T18:19:17.320Z
+Generated: 2026-10-12T19:34:15.931Z

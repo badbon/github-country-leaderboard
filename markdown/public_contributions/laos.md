@@ -1,13 +1,13 @@
 # Public Contributions - Laos
 
-Generated: 2026-10-12T18:05:50.941Z
+Generated: 2026-10-12T19:19:48.563Z
 
 Users: 360
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [huevangxp](https://github.com/huevangxp) | Hue Vang | Freelancer |  | laos | 4275 |
-| 2 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 1223 |
+| 2 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 1239 |
 | 3 | [bobby-sills](https://github.com/bobby-sills) | Bobby Sills |  |  | Vientiane, Laos | 1044 |
 | 4 | [tyecode](https://github.com/tyecode) | Sengphachanh CHANTHAVONG |  |  | Vientiane Capital, Laos | 624 |
 | 5 | [iamlex01](https://github.com/iamlex01) | Alex Saelao |  |  | Vientiane, Laos | 442 |

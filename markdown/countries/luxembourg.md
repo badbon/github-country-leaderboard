@@ -28,10 +28,10 @@ Indexed users: 2,197
 | 14 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 15 | [SignedAdam](https://github.com/SignedAdam) | adam | Luxembourg | 6,723 |
 | 16 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,477 |
-| 17 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
-| 18 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
-| 19 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
-| 20 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 4,946 |
+| 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
+| 18 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
+| 19 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
+| 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
 
 ## Public Contributions
 
@@ -41,22 +41,22 @@ Indexed users: 2,197
 | 2 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,451 |
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 4,387 |
-| 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,004 |
+| 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,379 |
 | 6 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,960 |
 | 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,817 |
 | 8 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
 | 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
-| 11 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
-| 12 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
-| 13 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
-| 14 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
-| 15 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
-| 16 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | Luxembourg | 1,737 |
-| 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 1,666 |
+| 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,220 |
+| 12 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 1,936 |
+| 13 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
+| 14 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
+| 15 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
+| 16 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
+| 17 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | Luxembourg | 1,737 |
 | 18 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
-| 19 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
-| 20 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,636 |
+| 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,655 |
+| 20 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-12T18:08:42.590Z
+Generated: 2026-10-12T19:21:21.845Z

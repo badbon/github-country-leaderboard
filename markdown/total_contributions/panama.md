@@ -1,6 +1,6 @@
 # Total Contributions - Panama
 
-Generated: 2026-10-12T18:21:27.671Z
+Generated: 2026-10-12T19:34:27.224Z
 
 Users: 1070
 
@@ -11,9 +11,9 @@ Users: 1070
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | RARO |  | Panama | 20799 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Flux Labs | jeremymcs | Panama City, FL | 18057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada |  |  | Panama | 17381 |
-| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15813 |
-| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 15572 |
-| 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 15516 |
+| 6 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | ASSA |  | Panama | 16047 |
+| 7 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Boton | ricardostmalo | Panama | 15813 |
+| 8 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud |  | hjupter | Panama | 15572 |
 | 9 | [SirRodney](https://github.com/SirRodney) | Rodney |  |  | Panama | 14869 |
 | 10 | [lexjm](https://github.com/lexjm) | Alexander  | TKS TECHNOLOGY |  | Panama City, Panama | 9643 |
 | 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 9624 |

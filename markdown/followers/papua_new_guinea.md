@@ -1,6 +1,6 @@
 # Followers - Papua New Guinea
 
-Generated: 2026-10-12T18:21:33.815Z
+Generated: 2026-10-12T19:35:13.720Z
 
 Users: 296
 
@@ -8,7 +8,7 @@ Users: 296
 |---:|---|---|---|---|---|---:|
 | 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 239 |
 | 2 | [grecpt](https://github.com/grecpt) | Grecpt | Grecpt |  | Papua New Guinea | 75 |
-| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 30 |
+| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly |  | CieranKelly6 | Port Moresby | 29 |
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn |  |  | Madang, Papua New Guinea | 27 |
 | 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | JHEK Investment Limited |  | Lae, Papua New Guinea | 25 |
 | 6 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | Mad Travel |  | PORT MORESBY | 23 |

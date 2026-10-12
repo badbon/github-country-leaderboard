@@ -23,15 +23,15 @@ Indexed users: 1,538
 | 9 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | San Juan, PR | 7,470 |
 | 10 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 6,925 |
 | 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
-| 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
-| 13 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
-| 14 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
-| 15 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
-| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 17 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
-| 18 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
-| 19 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
-| 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 5,433 |
+| 12 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
+| 13 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
+| 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
+| 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
+| 16 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
+| 17 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
+| 18 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
+| 19 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
+| 20 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
 
 ## Public Contributions
 
@@ -39,24 +39,24 @@ Indexed users: 1,538
 |---:|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 16,639 |
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,316 |
-| 3 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
-| 4 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
-| 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,798 |
-| 6 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
-| 7 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
-| 8 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
-| 9 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
-| 10 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
-| 11 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,685 |
-| 12 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,331 |
-| 13 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Guaynabo, Puerto Rico | 1,306 |
-| 14 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,140 |
-| 15 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,096 |
-| 16 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 1,089 |
-| 17 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,058 |
-| 18 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
-| 19 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
-| 20 | [jSantiago318](https://github.com/jSantiago318) | Joshua SI | Puerto Rico | 943 |
+| 3 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
+| 4 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
+| 5 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
+| 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,798 |
+| 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
+| 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
+| 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
+| 10 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
+| 11 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
+| 12 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,960 |
+| 13 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,331 |
+| 14 | [eresfavolosx](https://github.com/eresfavolosx) | Fabián Vélez Vicente | Guaynabo, Puerto Rico | 1,306 |
+| 15 | [drosadocastro-bit](https://github.com/drosadocastro-bit) | Danny Rosado Castro (Drakus) | Puerto Rico | 1,140 |
+| 16 | [Jaxelr](https://github.com/Jaxelr) | Jaxel Rojas Lopez | San Juan, Puerto Rico | 1,096 |
+| 17 | [CristianAce05](https://github.com/CristianAce05) | Cristian Acevedo | Puerto Rico | 1,089 |
+| 18 | [MicaelVR04](https://github.com/MicaelVR04) | Micael Velez Rodriguez | Puerto Rico | 1,058 |
+| 19 | [marcosstgo](https://github.com/marcosstgo) | Marcos Santiago | Puerto Rico | 988 |
+| 20 | [Bryan-tech-coder](https://github.com/Bryan-tech-coder) | Bryan Ramos | Puerto Rico | 946 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,538
 | 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 121 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 
-Generated: 2026-10-12T18:23:11.665Z
+Generated: 2026-10-12T19:38:26.325Z

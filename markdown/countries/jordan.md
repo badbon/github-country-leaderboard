@@ -1,6 +1,6 @@
 # Jordan
 
-Indexed users: 4,017
+Indexed users: 4,016
 
 | Leaderboard | Link |
 |---|---|
@@ -44,19 +44,19 @@ Indexed users: 4,017
 | 5 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 3,432 |
 | 6 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 3,065 |
 | 7 | [iofahmawi](https://github.com/iofahmawi) | Mohammad Fahmawi | Jordan | 2,784 |
-| 8 | [mercenary19961](https://github.com/mercenary19961) | Zaid | Amman / Jordan | 2,723 |
-| 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
-| 10 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,052 |
-| 11 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
-| 12 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
-| 13 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 1,620 |
-| 14 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 1,537 |
-| 15 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,409 |
-| 16 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,352 |
-| 17 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,340 |
-| 18 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | Amman, Jordan | 1,130 |
-| 19 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo | Jordan | 1,129 |
-| 20 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
+| 8 | [Natshah](https://github.com/Natshah) | Rajab Natshah | Amman, Jordan | 2,587 |
+| 9 | [AmroKSaleh](https://github.com/AmroKSaleh) | Amro Saleh | Jordan | 2,052 |
+| 10 | [MKAbuMattar](https://github.com/MKAbuMattar) | Mohammad Abu Mattar | Amman, Jordan | 1,938 |
+| 11 | [DRAGOX7](https://github.com/DRAGOX7) | Abdallah Talal Abdallah Alja'Fari | Jordan | 1,783 |
+| 12 | [AbdulTheActivePiecer](https://github.com/AbdulTheActivePiecer) | Abdul | Jordan | 1,620 |
+| 13 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 1,537 |
+| 14 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,409 |
+| 15 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,352 |
+| 16 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,340 |
+| 17 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | Amman, Jordan | 1,130 |
+| 18 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo | Jordan | 1,129 |
+| 19 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
+| 20 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad | Amman, Jordan | 1,071 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,017
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-12T18:04:35.651Z
+Generated: 2026-10-12T19:18:56.668Z

@@ -1,6 +1,6 @@
 # Public Contributions - Panama
 
-Generated: 2026-10-12T18:21:27.671Z
+Generated: 2026-10-12T19:34:27.224Z
 
 Users: 1070
 
@@ -12,8 +12,8 @@ Users: 1070
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés |  | nandocdev | Panama, Panama City | 2704 |
 | 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | alecs | dasfacc | Panama City | 2438 |
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Oberon Solutions |  | Panama | 2166 |
-| 7 | [kingg22](https://github.com/kingg22) | Rey |  |  | Panama | 1998 |
-| 8 | [Yizack](https://github.com/Yizack) | Yizack Rangel | MailChannels | YizackR | Panama | 1993 |
+| 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | MailChannels | YizackR | Panama | 1993 |
+| 8 | [kingg22](https://github.com/kingg22) | Rey |  |  | Panama | 1951 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | rizoma | gonzalezulises | Panama | 1844 |
 | 10 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal |  |  | Panama City, Panama | 1425 |
 | 11 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | @InitiumLab | quantumquirkxyz | Panama City, Panama | 1320 |

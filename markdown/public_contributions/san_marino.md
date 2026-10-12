@@ -1,6 +1,6 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-12T18:28:51.757Z
+Generated: 2026-10-12T19:43:43.293Z
 
 Users: 61
 
@@ -18,8 +18,8 @@ Users: 61
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 96 |
 | 11 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |
 | 12 | [mcdado](https://github.com/mcdado) | David Gasperoni |  |  | San Marino (SMR) <✈️> Madrid, Spain | 50 |
-| 13 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
-| 14 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 44 |
+| 13 | [pigorg](https://github.com/pigorg) | alessandro gnola |  |  | san marino | 48 |
+| 14 | [salugea](https://github.com/salugea) | Salugea | Salugea |  | San Marino | 45 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza |  | adamgerza | San Marino, CA | 43 |
 | 16 | [gchen98](https://github.com/gchen98) | Gary K. Chen | Pioneer Metals |  | San Marino, CA | 39 |
 | 17 | [damiandominella](https://github.com/damiandominella) | dodo | Golee |  | San Marino / Milan / Remotely | 37 |

@@ -13,8 +13,8 @@ Indexed users: 296
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [NiuPay-Jason](https://github.com/NiuPay-Jason) | Jaye | Papua New Guinea | 16,220 |
-| 2 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,475 |
-| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 10,397 |
+| 2 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 12,415 |
+| 3 | [Emmanue707](https://github.com/Emmanue707) | Emmanuel Kokele | Papua New Guinea | 10,475 |
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 4,308 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | Port Moresby | 3,055 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa | Port Moresby, Papua New Guinea | 3,000 |
@@ -64,7 +64,7 @@ Indexed users: 296
 |---:|---|---|---|---:|
 | 1 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka | Port Moresby, Papua New Guinea | 239 |
 | 2 | [grecpt](https://github.com/grecpt) | Grecpt | Papua New Guinea | 75 |
-| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 30 |
+| 3 | [kirioh](https://github.com/kirioh) | Cieran Kelly | Port Moresby | 29 |
 | 4 | [chrisaugu](https://github.com/chrisaugu) | Christian Augustyn | Madang, Papua New Guinea | 27 |
 | 5 | [JHEK675](https://github.com/JHEK675) | Hosea Wartabar Kolis | Lae, Papua New Guinea | 25 |
 | 6 | [nxnmsl0](https://github.com/nxnmsl0) | Nixon Misiel Agregum | PORT MORESBY | 23 |
@@ -83,4 +83,4 @@ Indexed users: 296
 | 19 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Papua New Guinea | 8 |
 | 20 | [jm0535](https://github.com/jm0535) | Jimmy Moses | Papua New Guinea | 8 |
 
-Generated: 2026-10-12T18:21:33.815Z
+Generated: 2026-10-12T19:35:13.720Z

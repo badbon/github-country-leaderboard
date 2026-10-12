@@ -1,6 +1,6 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-12T18:41:48.409Z
+Generated: 2026-10-12T19:20:29.291Z
 
 Users: 2571
 
@@ -8,7 +8,7 @@ Users: 2571
 |---:|---|---|---|---|---|---:|
 | 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 3991 |
 | 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 3217 |
-| 3 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 3188 |
+| 3 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 2919 |
 | 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2706 |
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed |  | KhaleddSaeed18 | Lebanon | 2639 |
 | 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Omar7tech |  | Beirut | 2603 |

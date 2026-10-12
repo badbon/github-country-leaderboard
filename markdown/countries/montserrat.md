@@ -21,11 +21,11 @@ Indexed users: 291
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,376 |
 | 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,084 |
 | 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,348 |
-| 10 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,255 |
-| 11 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,070 |
+| 10 | [gathercole3](https://github.com/gathercole3) | jacob gathercole | plymouth | 2,309 |
+| 11 | [Faved](https://github.com/Faved) | Alan Bennett | Plymouth, Devon | 2,255 |
 | 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,017 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,478 |
-| 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,405 |
+| 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,414 |
 | 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,319 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,134 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,078 |
@@ -39,7 +39,7 @@ Indexed users: 291
 |---:|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,000 |
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,828 |
-| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,405 |
+| 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,414 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 957 |
 | 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 763 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-12T18:14:37.060Z
+Generated: 2026-10-12T19:28:48.245Z

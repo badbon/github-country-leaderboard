@@ -17,9 +17,9 @@ Indexed users: 1,070
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 20,799 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,381 |
-| 6 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,813 |
-| 7 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
-| 8 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 15,516 |
+| 6 | [Kenth06](https://github.com/Kenth06) | Kenneth Rios | Panama | 16,047 |
+| 7 | [ricardostmalo](https://github.com/ricardostmalo) | Ricardo de Saint Malo | Panama | 15,813 |
+| 8 | [hjupter](https://github.com/hjupter) | Hjupter Cerrud | Panama | 15,572 |
 | 9 | [SirRodney](https://github.com/SirRodney) | Rodney | Panama | 14,869 |
 | 10 | [lexjm](https://github.com/lexjm) | Alexander  | Panama City, Panama | 9,643 |
 | 11 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 9,624 |
@@ -43,8 +43,8 @@ Indexed users: 1,070
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,704 |
 | 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,438 |
 | 6 | [ergofobe](https://github.com/ergofobe) | Jim Phillips | Panama | 2,166 |
-| 7 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,998 |
-| 8 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,993 |
+| 7 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,993 |
+| 8 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,951 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,844 |
 | 10 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,425 |
 | 11 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,320 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-12T18:21:27.671Z
+Generated: 2026-10-12T19:34:27.224Z

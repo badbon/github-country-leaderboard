@@ -22,16 +22,16 @@ Indexed users: 2,571
 | 8 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | Lebanon | 9,315 |
 | 9 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
 | 10 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
-| 11 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
-| 12 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 6,225 |
-| 13 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
-| 14 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
-| 15 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
-| 16 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
-| 17 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,352 |
-| 18 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
-| 19 | [abdallahmoubarak](https://github.com/abdallahmoubarak) | Abdallah Moubarak | Beirut, Lebanon | 5,186 |
-| 20 | [Tamer-Halabi](https://github.com/Tamer-Halabi) | tamerrr | Lebanon | 5,181 |
+| 11 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
+| 12 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
+| 13 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 6,225 |
+| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
+| 15 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
+| 16 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
+| 17 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
+| 18 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,352 |
+| 19 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
+| 20 | [abdallahmoubarak](https://github.com/abdallahmoubarak) | Abdallah Moubarak | Beirut, Lebanon | 5,186 |
 
 ## Public Contributions
 
@@ -39,7 +39,7 @@ Indexed users: 2,571
 |---:|---|---|---|---:|
 | 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 3,991 |
 | 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,217 |
-| 3 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 3,188 |
+| 3 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
 | 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,706 |
 | 5 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 2,639 |
 | 6 | [Omar7tech](https://github.com/Omar7tech) | Omar Abi Farraj | Beirut | 2,603 |
@@ -83,4 +83,4 @@ Indexed users: 2,571
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 
-Generated: 2026-10-12T18:41:48.409Z
+Generated: 2026-10-12T19:20:29.291Z

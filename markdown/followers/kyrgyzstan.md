@@ -1,8 +1,8 @@
 # Followers - Kyrgyzstan
 
-Generated: 2026-10-12T18:05:45.406Z
+Generated: 2026-10-12T19:19:12.452Z
 
-Users: 2454
+Users: 2452
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

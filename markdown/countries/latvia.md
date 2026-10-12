@@ -12,7 +12,7 @@ Indexed users: 3,265
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 24,552 |
+| 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 29,848 |
 | 2 | [tcivie](https://github.com/tcivie) | Gleb Tcivie | Latvia | 22,250 |
 | 3 | [kosovojs](https://github.com/kosovojs) | Edgars Košovojs | Riga, Latvia | 21,968 |
 | 4 | [JPurinsh](https://github.com/JPurinsh) | Jānis Puriņš-Biezais | Riga, Latvia | 17,316 |
@@ -37,7 +37,7 @@ Indexed users: 3,265
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 13,921 |
+| 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 14,548 |
 | 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | Riga, Latvia | 4,411 |
 | 3 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 3,934 |
 | 4 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs | Riga, Latvia | 2,889 |
@@ -49,8 +49,8 @@ Indexed users: 3,265
 | 10 | [dmytropolizhai](https://github.com/dmytropolizhai) | Dmytro Polizhai | Latvia, Riga | 1,850 |
 | 11 | [yarlson](https://github.com/yarlson) | Yar Kravtsov | Riga, Latvia | 1,820 |
 | 12 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo | Latvia | 1,576 |
-| 13 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq | Riga, Latvia | 1,551 |
-| 14 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
+| 13 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Riga, Latvia | 1,507 |
+| 14 | [eglitise](https://github.com/eglitise) | Edgars Eglītis | Riga, Latvia | 1,422 |
 | 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | Riga, Latvia | 1,419 |
 | 16 | [LilithStd](https://github.com/LilithStd) | Dmitrii | Latvia, Riga | 1,390 |
 | 17 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis | Riga, Latvia | 1,313 |
@@ -83,4 +83,4 @@ Indexed users: 3,265
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-12T18:07:11.633Z
+Generated: 2026-10-12T19:20:22.649Z

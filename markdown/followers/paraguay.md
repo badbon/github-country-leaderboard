@@ -1,6 +1,6 @@
 # Followers - Paraguay
 
-Generated: 2026-10-12T18:21:35.824Z
+Generated: 2026-10-12T19:35:40.804Z
 
 Users: 2016
 
@@ -20,7 +20,7 @@ Users: 2016
 | 12 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 181 |
 | 13 | [garyservin](https://github.com/garyservin) | Gary Servin | @locusrobotics  | garyservin | Asunción - Paraguay | 154 |
 | 14 | [pablo](https://github.com/pablo) | Pablo Santa Cruz | Roshka | pablojavierpy | Asunción, Paraguay | 148 |
-| 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 134 |
+| 15 | [WilliBobadilla](https://github.com/WilliBobadilla) | Williams Ismael Bobadilla Torres  |  |  | Paraguay | 136 |
 | 16 | [ramirezsebas](https://github.com/ramirezsebas) | Matias Sebastian Ramirez Brizuela | FortyAU | RamirezMatias03 | Fernando de la Mora, Central, Paraguay | 128 |
 | 17 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 125 |
 | 18 | [leodufer](https://github.com/leodufer) | Oscar Duarte |  |  | Ciudad del Este,  Paraguay | 118 |

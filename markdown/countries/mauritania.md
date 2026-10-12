@@ -42,7 +42,7 @@ Indexed users: 289
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 868 |
 | 4 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | Nouakchott | 673 |
 | 5 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 663 |
-| 6 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 618 |
+| 6 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 620 |
 | 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed | Nouakchott | 518 |
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | Mauritania  | 403 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh | Nouakchott | 378 |
@@ -73,14 +73,14 @@ Indexed users: 289
 | 9 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 33 |
 | 10 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 33 |
 | 11 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | MAURITANIA  | 32 |
-| 12 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 30 |
-| 13 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 30 |
-| 14 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 29 |
-| 15 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 29 |
+| 12 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 30 |
+| 13 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 30 |
+| 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 30 |
+| 15 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 29 |
 | 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou | Nouakchott, Mauritania | 29 |
 | 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 28 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-12T18:10:47.810Z
+Generated: 2026-10-12T19:25:41.970Z

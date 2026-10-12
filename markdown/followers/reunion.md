@@ -1,6 +1,6 @@
 # Followers - Réunion
 
-Generated: 2026-10-12T18:24:21.170Z
+Generated: 2026-10-12T19:40:08.810Z
 
 Users: 212
 
@@ -22,7 +22,7 @@ Users: 212
 | 14 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Université de La Réunion |  | Saint Denis, La Réunion  | 27 |
 | 15 | [ThomasDeruel](https://github.com/ThomasDeruel) | Thomas Deruel |  |  | Seine-Saint-Denis | 27 |
 | 16 | [zourite](https://github.com/zourite) | Sonia SAUGRIN | @forkparty  | zourite | Reunion Island | 27 |
-| 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | @clauzier-dev  | 0x346e3730 | Saint-Denis, Reunion Island | 23 |
+| 17 | [0x346e3730](https://github.com/0x346e3730) | Antonin CLAUZIER | @clauzier-dev  | 0x346e3730 | Saint-Denis, Reunion Island | 24 |
 | 18 | [julien-lav](https://github.com/julien-lav) | julien-lav |  |  | Saint-Denis | 21 |
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien |  |  | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 20 |

@@ -1,6 +1,6 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-12T18:31:48.775Z
+Generated: 2026-10-12T19:45:27.187Z
 
 Users: 443
 
@@ -8,14 +8,14 @@ Users: 443
 |---:|---|---|---|---|---|---:|
 | 1 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2115 |
 | 2 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 1949 |
-| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 1307 |
+| 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Christex Foundation @christex-foundation  | kotor_saedu | Sierra Leone | 1296 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 1019 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk |  |  | Regent, Freetown, Sierra Leone. | 978 |
 | 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Christex Foundation | el_saintt | Sierra Leone | 938 |
 | 7 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 830 |
 | 8 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | @christex-foundation  |  | Freetown,Sierra Leone | 788 |
 | 9 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Johnny-Tech  |  | Freetown Sierra Leone  | 769 |
-| 10 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Safetysphere |  | Freetown, Sierra Leone | 520 |
+| 10 | [Malaikamadi](https://github.com/Malaikamadi) | Malaika~madi | Safetysphere |  | Freetown, Sierra Leone | 522 |
 | 11 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 495 |
 | 12 | [joemrnice](https://github.com/joemrnice) | Joseph Lahai Kanu | CodeZerra | JosephLahaiKan3 | Freetown, Sierra Leone. | 414 |
 | 13 | [Barrie20](https://github.com/Barrie20) | Alpha Yerroh Barrie |  | Yerrohbarrie06 | Sierra Leone , West Africa | 370 |
