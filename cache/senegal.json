@@ -14719,8 +14719,8 @@
     "company": "MSAS",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 108,
+    "privateContributions": 538,
+    "publicContributions": 119,
     "createdAt": "2015-05-28T09:33:34Z"
   },
   {
@@ -14832,18 +14832,6 @@
     "createdAt": "2015-12-06T01:59:55Z"
   },
   {
-    "login": "ibeltechnology",
-    "name": "Ibel Technology",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/15941230?s=72&v=4",
-    "location": "Senegal, Diourbel",
-    "company": "Ibel Technology",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2015-11-20T10:55:34Z"
-  },
-  {
     "login": "gawlab",
     "name": "Praline B",
     "avatarUrl": "https://avatars.githubusercontent.com/u/15051263?s=72&v=4",
@@ -14874,21 +14862,21 @@
     "location": "Dakar, SN",
     "company": "",
     "twitterUsername": "",
-    "followers": 38,
-    "privateContributions": 928,
-    "publicContributions": 245,
+    "followers": 39,
+    "privateContributions": 1587,
+    "publicContributions": 186,
     "createdAt": "2015-09-19T18:51:40Z"
   },
   {
     "login": "touskar",
-    "name": "Moussa Ndour DSI at INTech Group | Innolink",
+    "name": "Moussa Ndour DSI at INTech Group",
     "avatarUrl": "https://avatars.githubusercontent.com/u/13134736?s=72&u=9b3ae914f4ced39366ba1d3cec4a6268ad970db9&v=4",
     "location": "Dakar",
     "company": "Moussa Ndour",
     "twitterUsername": "",
-    "followers": 27,
-    "privateContributions": 4288,
-    "publicContributions": 49,
+    "followers": 30,
+    "privateContributions": 5518,
+    "publicContributions": 39,
     "createdAt": "2015-07-01T12:01:32Z"
   },
   {
@@ -14910,7 +14898,7 @@
     "location": "Dakar Sénégal",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-12-21T21:47:58Z"

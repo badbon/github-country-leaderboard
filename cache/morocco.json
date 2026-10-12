@@ -14444,7 +14444,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2024-03-09T19:24:16Z"
   },
   {
@@ -14456,7 +14456,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 80,
     "createdAt": "2024-08-10T14:56:35Z"
   },
   {
@@ -14466,7 +14466,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-19T17:12:02Z"
@@ -14480,7 +14480,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 171,
+    "publicContributions": 0,
     "createdAt": "2024-04-28T11:20:08Z"
   },
   {
@@ -14491,8 +14491,8 @@
     "company": "BITS SOLUTIONS",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 341,
-    "publicContributions": 46,
+    "privateContributions": 749,
+    "publicContributions": 35,
     "createdAt": "2024-05-12T21:38:41Z"
   },
   {
@@ -14502,9 +14502,9 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 40,
     "createdAt": "2024-10-19T13:47:07Z"
   },
   {
@@ -14516,19 +14516,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 44,
     "createdAt": "2023-12-28T08:48:31Z"
   },
   {
     "login": "naouarelb",
     "name": "Naouar EL BOUMASHOULI",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/168862881?s=72&u=eac75c1ca865ed9fae57891cc5ca115983383d05&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/168862881?s=72&u=1e84af65d8a2aa15f586b3c153e4fec0df8aea53&v=4",
     "location": "Rabat, Morocco",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 38,
     "createdAt": "2024-05-03T19:00:04Z"
   },
   {
@@ -14540,7 +14540,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-01-15T07:11:20Z"
   },
   {
@@ -14552,7 +14552,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 65,
     "createdAt": "2024-06-07T15:42:05Z"
   },
   {
@@ -14564,7 +14564,7 @@
     "twitterUsername": "ZgourraMarouane",
     "followers": 3,
     "privateContributions": 28,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2024-10-20T13:39:15Z"
   },
   {
@@ -14574,9 +14574,9 @@
     "location": "Marrakech ,Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 31,
     "createdAt": "2024-10-31T13:46:30Z"
   },
   {
@@ -14586,9 +14586,9 @@
     "location": "Khouribga, Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 116,
-    "publicContributions": 54,
+    "followers": 6,
+    "privateContributions": 97,
+    "publicContributions": 207,
     "createdAt": "2024-11-14T19:05:24Z"
   },
   {
@@ -14618,13 +14618,13 @@
   {
     "login": "zeeenku",
     "name": "Enajjachi Zakariaa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176648876?s=72&u=f832ffad95f6f3ced2f6a1d70c2d5d1b9afc2df3&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176648876?s=72&u=66e99266032b40b0599c30665d1d3db2d6e642d9&v=4",
     "location": "Morocco",
     "company": "Zeenku",
     "twitterUsername": "_zenku__",
     "followers": 3,
-    "privateContributions": 976,
-    "publicContributions": 40,
+    "privateContributions": 1168,
+    "publicContributions": 27,
     "createdAt": "2024-07-26T05:11:09Z"
   },
   {

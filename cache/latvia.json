@@ -14336,7 +14336,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 24,
     "createdAt": "2019-12-13T09:56:27Z"
   },
   {
@@ -14359,8 +14359,8 @@
     "company": "Giraffe 360",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 215,
-    "publicContributions": 78,
+    "privateContributions": 281,
+    "publicContributions": 74,
     "createdAt": "2019-02-07T11:29:43Z"
   },
   {
@@ -14371,8 +14371,8 @@
     "company": "Magebit",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2476,
-    "publicContributions": 677,
+    "privateContributions": 2918,
+    "publicContributions": 870,
     "createdAt": "2019-12-04T07:51:43Z"
   },
   {
@@ -14383,7 +14383,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 32,
+    "privateContributions": 31,
     "publicContributions": 24,
     "createdAt": "2019-09-09T08:23:09Z"
   },
@@ -14419,8 +14419,8 @@
     "company": "Longo Group, AS",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 573,
-    "publicContributions": 40,
+    "privateContributions": 829,
+    "publicContributions": 9,
     "createdAt": "2019-03-04T17:33:44Z"
   },
   {
@@ -14430,8 +14430,8 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 542,
+    "followers": 4,
+    "privateContributions": 657,
     "publicContributions": 2,
     "createdAt": "2019-04-01T20:51:43Z"
   },
@@ -14444,7 +14444,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2019-04-02T18:22:53Z"
   },
   {
@@ -14478,9 +14478,9 @@
     "location": "Latvia, Tukums",
     "company": "FFT",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 45,
     "createdAt": "2019-05-29T10:16:04Z"
   },
   {
@@ -14496,18 +14496,6 @@
     "createdAt": "2019-03-12T08:49:51Z"
   },
   {
-    "login": "woories19",
-    "name": "Abdullah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54666457?s=72&u=b71d1baaa8f38a739c5785d189322f16f7029e42&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "maardiyamujhay",
-    "followers": 3,
-    "privateContributions": 211,
-    "publicContributions": 109,
-    "createdAt": "2019-08-29T09:41:50Z"
-  },
-  {
     "login": "HenrijsS",
     "name": "Henrijs Sprogis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/49265222?s=72&u=4843b71abb11f36e91817b7a55f8c639007e90d7&v=4",
@@ -14515,8 +14503,8 @@
     "company": "Self Employed",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 447,
-    "publicContributions": 13,
+    "privateContributions": 514,
+    "publicContributions": 14,
     "createdAt": "2019-04-04T06:11:21Z"
   },
   {
