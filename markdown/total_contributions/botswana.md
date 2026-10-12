@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-12T00:42:57.576Z
+Generated: 2026-10-12T01:43:08.010Z
 
 Users: 533
 
@@ -22,7 +22,7 @@ Users: 533
 | 14 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 2017 |
 | 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 1955 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 1890 |
-| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1717 |
+| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1691 |
 | 18 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa |  |  | Botswana | 1662 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1516 |
 | 20 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1427 |

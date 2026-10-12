@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-12T00:37:38.903Z
+Generated: 2026-10-12T01:35:40.753Z
 
 Users: 1653
 
@@ -9,14 +9,14 @@ Users: 1653
 | 1 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 30600 |
 | 2 | [Mutombe](https://github.com/Mutombe) | Mutombe | Bit Studio |  | Borrowdale, Harare | 9480 |
 | 3 | [codewithkin](https://github.com/codewithkin) | Kin Leon Zinzombe | GroundUpMVP | codewithkin | Mutare, Zimbabwe | 9326 |
-| 4 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7511 |
-| 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7290 |
-| 6 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 7217 |
-| 7 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 7208 |
-| 8 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7159 |
-| 9 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7067 |
-| 10 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6939 |
-| 11 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 6719 |
+| 4 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 7859 |
+| 5 | [Patizy-tel](https://github.com/Patizy-tel) | Magnificient Stallion Tello🔥 | Flostec Digital Solutions | PatizyTel | Zimbabwe | 7511 |
+| 6 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 7290 |
+| 7 | [Lewy263](https://github.com/Lewy263) | Tinashe Lewis Karumazondo |  | Tinashe_Lewis | Harare | 7217 |
+| 8 | [farmhutsoftwareteam](https://github.com/farmhutsoftwareteam) | Munyaradzi Makosa | @hubflo | makosamunyaa | Harare | 7208 |
+| 9 | [phoscoder](https://github.com/phoscoder) | Victor Phos |  |  | Zimbabwe | 7159 |
+| 10 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 7067 |
+| 11 | [protendai](https://github.com/protendai) | Tendai Karuma | @code-stallion-zw | karumatendai | Harare Zimbabwe | 6939 |
 | 12 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 6553 |
 | 13 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Slyker Tech Web Services |  | Zimbabwe | 6468 |
 | 14 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 5825 |

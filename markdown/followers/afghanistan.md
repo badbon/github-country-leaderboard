@@ -1,8 +1,8 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-12T00:38:02.192Z
+Generated: 2026-10-12T01:35:49.898Z
 
-Users: 1491
+Users: 1490
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 1491
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Progrology |  | Afghanistan/Kabul | 129 |
 | 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Senior Full Stack Software Engineer | yasinnoori_dev | Kabul, Afghanistan | 126 |
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Product Manager at aseelapp.com  | ZainabTurkmen | Kabul  | 125 |
-| 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal |  | NaveedAHematmal | Afghanistan | 116 |
+| 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal |  | NaveedAHematmal | Afghanistan | 117 |

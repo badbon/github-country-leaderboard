@@ -24,7 +24,7 @@ Indexed users: 268
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | Bhutan | 2,045 |
 | 11 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | Thimphu | 1,989 |
 | 12 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | Thiimphu, Bhutan | 1,958 |
-| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,932 |
+| 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 1,918 |
 | 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 1,910 |
 | 15 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Thimphu, Bhutan | 1,830 |
 | 16 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Bhutan | 1,802 |
@@ -53,7 +53,7 @@ Indexed users: 268
 | 14 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 170 |
 | 15 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
 | 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 152 |
-| 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 142 |
+| 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 143 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 132 |
 | 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
 | 20 | [Art-sys-86](https://github.com/Art-sys-86) | Art | Bhutan | 119 |
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-12T00:41:50.754Z
+Generated: 2026-10-12T01:41:53.623Z

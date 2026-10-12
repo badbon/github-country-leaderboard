@@ -13,7 +13,7 @@ Indexed users: 133
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 5,483 |
-| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,193 |
+| 2 | [jasonals](https://github.com/jasonals) | Jason Als | Barbados | 5,218 |
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,673 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,162 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,863 |
@@ -67,7 +67,7 @@ Indexed users: 133
 | 3 | [iRoachie](https://github.com/iRoachie) | Kyle Roach | Barbados | 299 |
 | 4 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 275 |
 | 5 | [AnalystLiv](https://github.com/AnalystLiv) | Liv 📊 | Barbados 🇧🇧 | 161 |
-| 6 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 84 |
+| 6 | [hammertoe](https://github.com/hammertoe) | Matt Hamilton | Barbados | 85 |
 | 7 | [adevbuildingstuff](https://github.com/adevbuildingstuff) | Owan Hunte | Barbados | 48 |
 | 8 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 34 |
 | 9 | [fibini](https://github.com/fibini) | Fabien Brathwaite | Barbados | 24 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-12T00:41:14.005Z
+Generated: 2026-10-12T01:39:47.129Z

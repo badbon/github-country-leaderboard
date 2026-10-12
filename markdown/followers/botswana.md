@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-12T00:42:57.576Z
+Generated: 2026-10-12T01:43:08.010Z
 
 Users: 533
 
@@ -9,10 +9,10 @@ Users: 533
 | 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 240 |
 | 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Student at University of Botswana  | boitsholo_r | Gaborone, Botswana | 156 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial |  |  | Gaborone, Botswana | 121 |
-| 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 103 |
+| 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana International University of Science and Technology | GoitseoneThemba | Botswana | 105 |
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 74 |
-| 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Ryom | Ryodevv | Botswana | 68 |
-| 7 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe |  |  | Botswana | 67 |
+| 6 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe |  |  | Botswana | 67 |
+| 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Ryom | Ryodevv | Botswana | 67 |
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. |  |  | Botswana | 67 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Microverse | Milez09 | Palapye, Botswana | 64 |
 | 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime |  | RomeobwIII | Gaborone, Botswana | 62 |

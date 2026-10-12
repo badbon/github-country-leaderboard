@@ -13,11 +13,11 @@ Indexed users: 79
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,495 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,114 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,118 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,603 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,468 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,331 |
-| 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,317 |
+| 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,315 |
 | 7 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,298 |
 | 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 847 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 744 |
@@ -27,7 +27,7 @@ Indexed users: 79
 | 13 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 479 |
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 411 |
 | 15 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 391 |
-| 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 245 |
+| 16 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 249 |
 | 17 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
 | 18 | [Baboucar](https://github.com/Baboucar) | Baboucarr | Gambia | 208 |
 | 19 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 177 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-12T00:55:41.128Z
+Generated: 2026-10-12T01:54:53.044Z

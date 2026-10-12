@@ -28,7 +28,7 @@ Indexed users: 533
 | 14 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,017 |
 | 15 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 1,955 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
-| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,717 |
+| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,691 |
 | 18 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,662 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga | Gaborone, Botswana | 1,516 |
 | 20 | [geek911](https://github.com/geek911) | Moses Chawawa | Gaborone, Botswana | 1,427 |
@@ -49,7 +49,7 @@ Indexed users: 533
 | 10 | [Scheke](https://github.com/Scheke) | Boipuso Rante | Botswana | 592 |
 | 11 | [Sesame-alpha](https://github.com/Sesame-alpha) | SESAME DITHUPA | Botswana 🇧🇼  | 543 |
 | 12 | [Cse21-034](https://github.com/Cse21-034) | leatile mosimanyana | Gaborone | 528 |
-| 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 493 |
+| 13 | [loag0](https://github.com/loag0) | Loago Moremi | Botswana | 523 |
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 441 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
 | 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
@@ -65,10 +65,10 @@ Indexed users: 533
 | 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 240 |
 | 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 156 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial | Gaborone, Botswana | 121 |
-| 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 103 |
+| 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 105 |
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 74 |
-| 6 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 68 |
-| 7 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 67 |
+| 6 | [Aobakwe25](https://github.com/Aobakwe25) | Aobakwe | Botswana | 67 |
+| 7 | [Raymacmillan](https://github.com/Raymacmillan) | Ryodevv | Botswana | 67 |
 | 8 | [VioletShards](https://github.com/VioletShards) | Leon N. | Botswana | 67 |
 | 9 | [Timbar09](https://github.com/Timbar09) | Miles Mosweu | Palapye, Botswana | 64 |
 | 10 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 62 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-12T00:42:57.576Z
+Generated: 2026-10-12T01:43:08.010Z

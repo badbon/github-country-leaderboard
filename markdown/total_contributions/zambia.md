@@ -1,6 +1,6 @@
 # Total Contributions - Zambia
 
-Generated: 2026-10-12T00:37:32.694Z
+Generated: 2026-10-12T01:35:37.661Z
 
 Users: 1342
 
@@ -16,8 +16,8 @@ Users: 1342
 | 8 | [S4INT25](https://github.com/S4INT25) | luckson |  |  | lusaka zambia  | 5229 |
 | 9 | [c00p75](https://github.com/c00p75) | George M'sapenda |  |  | Lusaka, Zambia | 4731 |
 | 10 | [cacious7](https://github.com/cacious7) | Cacious Siamunyanga | @connexcs  |  | Lusaka, Zambia | 4384 |
-| 11 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 4175 |
-| 12 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4005 |
+| 11 | [makayi](https://github.com/makayi) | Mbuyu  Makayi | @ChipperCash  | mbuyu_ | Zambia | 4253 |
+| 12 | [Acesulfame02](https://github.com/Acesulfame02) | Aaron Masembe |  |  | Lusaka, Lusaka, Zambia | 4175 |
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | ProBase Limited |  | LUSAKA | 3924 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | @AdsOnAds  | princekwesi7 | Zambia | 3497 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula |  |  | Zambia | 3449 |

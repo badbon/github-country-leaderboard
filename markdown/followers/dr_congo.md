@@ -1,6 +1,6 @@
 # Followers - DR Congo
 
-Generated: 2026-10-12T00:50:38.292Z
+Generated: 2026-10-12T01:50:21.179Z
 
 Users: 699
 
@@ -23,6 +23,6 @@ Users: 699
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kadea | jlmbaka | Kinshasa, DRC | 83 |
 | 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Reputable Tech Company | ManfulMwez | Kinshasa \| Kigali \| Nairobi | 83 |
 | 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Lussi | joellusavuvu | Kinshasa, RDCongo  | 72 |
-| 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | @guidelightfoundation | johnmbiya | Kinshasa | 71 |
+| 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | @guidelightfoundation | johnmbiya | Kinshasa | 72 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Dev Artefact | bolenge_ | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | @KinshasaDigitalAcademy  | MwanyaChristian | kinshasa | 69 |

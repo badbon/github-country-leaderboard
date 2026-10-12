@@ -1,6 +1,6 @@
 # Algeria
 
-Indexed users: 5,819
+Indexed users: 5,818
 
 | Leaderboard | Link |
 |---|---|
@@ -45,7 +45,7 @@ Indexed users: 5,819
 | 6 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
 | 7 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 2,630 |
 | 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,486 |
-| 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,118 |
+| 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,158 |
 | 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
 | 11 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi | Algeria | 1,797 |
 | 12 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | algiers | 1,774 |
@@ -83,4 +83,4 @@ Indexed users: 5,819
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-12T00:38:13.693Z
+Generated: 2026-10-12T01:37:02.667Z

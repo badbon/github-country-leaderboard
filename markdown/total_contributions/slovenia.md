@@ -1,8 +1,8 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-12T00:28:03.258Z
+Generated: 2026-10-12T01:26:23.375Z
 
-Users: 3105
+Users: 3104
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

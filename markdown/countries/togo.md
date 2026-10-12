@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 680
+Indexed users: 679
 
 | Leaderboard | Link |
 |---|---|
@@ -66,7 +66,7 @@ Indexed users: 680
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | Lomé, Togo | 211 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen | Lomé | 197 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder | Lomé-Togo | 149 |
-| 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 142 |
+| 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Togo | 141 |
 | 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | Lomé, Togo | 133 |
 | 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | Togo | 112 |
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Lomé, TOGO | 109 |
@@ -83,4 +83,4 @@ Indexed users: 680
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-12T00:31:34.012Z
+Generated: 2026-10-12T01:29:45.193Z

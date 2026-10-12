@@ -21,15 +21,15 @@ Indexed users: 2,041
 | 7 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 13,423 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 12,163 |
-| 10 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
-| 11 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
-| 12 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
-| 13 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
-| 14 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
-| 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
-| 16 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
-| 17 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
-| 18 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 7,498 |
+| 10 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 10,825 |
+| 11 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
+| 12 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
+| 13 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
+| 14 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
+| 15 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
+| 16 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 7,797 |
+| 17 | [Bulalu](https://github.com/Bulalu) |  | Dar-es-Salaam,Tanzania | 7,623 |
+| 18 | [victorjudysen](https://github.com/victorjudysen) | Victor Kweka | Dodoma, Tanzania | 7,534 |
 | 19 | [alobit21](https://github.com/alobit21) | Aloyce Mtavangu | Dodoma-Tanzania | 7,408 |
 | 20 | [cygon23](https://github.com/cygon23) | cygon | Tanzania | 6,717 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-12T00:30:53.673Z
+Generated: 2026-10-12T01:28:36.360Z

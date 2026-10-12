@@ -1,8 +1,8 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-12T00:38:13.693Z
+Generated: 2026-10-12T01:37:02.667Z
 
-Users: 5819
+Users: 5818
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,7 +14,7 @@ Users: 5819
 | 6 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 2674 |
 | 7 | [selmahacii](https://github.com/selmahacii) | selma haci |  |  | Algiers, Algeria | 2630 |
 | 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref |  |  | Algeria | 2486 |
-| 9 | [ndpm13](https://github.com/ndpm13) | Naz | @noid-linux  |  | M'sila, Algeria | 2118 |
+| 9 | [ndpm13](https://github.com/ndpm13) | Naz | @noid-linux  |  | M'sila, Algeria | 2158 |
 | 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Co-Founder @WuuD-Team \| Head of Mobile Development @ResearchGate |  | Berlin, Germany / Algiers, Algeria | 2083 |
 | 11 | [XaviCode1000](https://github.com/XaviCode1000) | Xavi |  |  | Algeria | 1797 |
 | 12 | [maamriaabderahmene](https://github.com/maamriaabderahmene) | Maamria Abderahmene | National higher school of advanced technologies |  | algiers | 1774 |

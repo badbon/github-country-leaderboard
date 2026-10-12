@@ -1,8 +1,8 @@
 # Followers - Togo
 
-Generated: 2026-10-12T00:31:34.012Z
+Generated: 2026-10-12T01:29:45.193Z
 
-Users: 680
+Users: 679
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 680
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | CaSEG |  | Lomé, Togo | 211 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen |  | iroukaizen | Lomé | 197 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder |  |  | Lomé-Togo | 149 |
-| 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Louis Technology (LT) | AgadaFrancisL | Togo | 142 |
+| 5 | [Agadafrancis](https://github.com/Agadafrancis) | Agada Francis Louis N. | Louis Technology (LT) | AgadaFrancisL | Togo | 141 |
 | 6 | [Docteur-Parfait](https://github.com/Docteur-Parfait) | Tech Pastor | RodiumAi | docteur_parfait | Lomé, Togo | 133 |
 | 7 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 112 |
 | 8 | [ibraum](https://github.com/ibraum) | KONDO Ibrahim | Freelance |  | Lomé, TOGO | 109 |

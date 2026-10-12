@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-12T00:59:02.868Z
+Generated: 2026-10-12T01:58:18.434Z
 
 Users: 1582
 
@@ -19,10 +19,10 @@ Users: 1582
 | 11 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 1866 |
 | 12 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 1774 |
 | 13 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1496 |
-| 14 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason |  |  | Reykjavík, Iceland | 1449 |
-| 15 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1408 |
-| 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | tunnels.is | keyb1nd | Iceland | 1376 |
-| 17 | [arividar](https://github.com/arividar) | Ari Johannesson | Andes ehf. | arividar | Reykjavik | 1294 |
-| 18 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1265 |
-| 19 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | RD AAOW Free development lab |  | Reykjavík, Iceland | 1169 |
-| 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 1157 |
+| 14 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 1493 |
+| 15 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason |  |  | Reykjavík, Iceland | 1449 |
+| 16 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin |  |  | Iceland | 1408 |
+| 17 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | tunnels.is | keyb1nd | Iceland | 1376 |
+| 18 | [arividar](https://github.com/arividar) | Ari Johannesson | Andes ehf. | arividar | Reykjavik | 1294 |
+| 19 | [Max77788](https://github.com/Max77788) | Max Mat | MOM AI Technologies |  | Iceland | 1265 |
+| 20 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | University of Iceland | tungufoss | Iceland | 1234 |

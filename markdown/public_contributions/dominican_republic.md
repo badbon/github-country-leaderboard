@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-12T00:50:17.826Z
+Generated: 2026-10-12T01:50:13.780Z
 
 Users: 3311
 
@@ -20,9 +20,9 @@ Users: 3311
 | 12 | [bryanstevensacosta](https://github.com/bryanstevensacosta) | Bryan Acosta |  |  | Dominican Republic | 1758 |
 | 13 | [jesusantguerrero](https://github.com/jesusantguerrero) | Jesus Guerrero | Insane Code | jesusntguerrero | Santo Domingo, Dominican Republic | 1735 |
 | 14 | [XavielT](https://github.com/XavielT) | Xaviel Terrero |  |  | Dominican Republic | 1718 |
-| 15 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
-| 16 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
-| 17 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |
-| 18 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1417 |
-| 19 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
-| 20 | [Gperez88](https://github.com/Gperez88) | Gabriel Perez |  |  | Dominican Republic | 1291 |
+| 15 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 1622 |
+| 16 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
+| 17 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
+| 18 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |
+| 19 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1417 |
+| 20 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |

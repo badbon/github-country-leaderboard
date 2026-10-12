@@ -1,6 +1,6 @@
 # Public Contributions - Bhutan
 
-Generated: 2026-10-12T00:41:50.754Z
+Generated: 2026-10-12T01:41:53.623Z
 
 Users: 268
 
@@ -22,7 +22,7 @@ Users: 268
 | 14 | [devdgna](https://github.com/devdgna) | Dev | Bhutan NDI, CoinOn, ScanPrice, Prescaner |  | Kingdom of Bhutan | 170 |
 | 15 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Selise |  | Thimphu, Bhutan | 154 |
 | 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | None |  | Bhutan | 152 |
-| 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 142 |
+| 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 143 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo |  |  | Bhutan | 132 |
 | 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | @SELISEdigitalplatforms  |  | Thimphu | 122 |
 | 20 | [Art-sys-86](https://github.com/Art-sys-86) | Art |  |  | Bhutan | 119 |

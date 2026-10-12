@@ -1,8 +1,8 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-12T00:38:02.192Z
+Generated: 2026-10-12T01:35:49.898Z
 
-Users: 1491
+Users: 1490
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 1491
 | 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Hushmand Shahar Tech |  | Kabul, Afghanistan | 1816 |
 | 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Hendra.com |  | Afghanistan | 1620 |
 | 11 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori |  |  | Afghanistan  | 1471 |
-| 12 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | UNDP |  | Kabul, Afghanistan | 1318 |
-| 13 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Tawana Technology |  | Kabul, Afghanistan | 1230 |
-| 14 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1181 |
-| 15 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin |  |  | Afghanistan | 1083 |
-| 16 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1081 |
-| 17 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1077 |
-| 18 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1062 |
-| 19 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily |  | stysh_Esmaily | Herat,Afghanistan | 1014 |
-| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Netlinks Inc |  | Kabul, Afghanistan | 933 |
+| 12 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Netlinks Inc |  | Kabul, Afghanistan | 1442 |
+| 13 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | UNDP |  | Kabul, Afghanistan | 1318 |
+| 14 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Tawana Technology |  | Kabul, Afghanistan | 1230 |
+| 15 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1181 |
+| 16 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin |  |  | Afghanistan | 1083 |
+| 17 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1081 |
+| 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1077 |
+| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1062 |
+| 20 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily |  | stysh_Esmaily | Herat,Afghanistan | 1014 |

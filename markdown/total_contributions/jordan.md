@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-12T01:01:48.410Z
+Generated: 2026-10-12T02:02:55.493Z
 
 Users: 4018
 
@@ -18,11 +18,11 @@ Users: 4018
 | 10 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | MENADevs |  | Amman\Jordan | 5804 |
 | 11 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Careem |  | Amman | 5377 |
 | 12 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh |  |  | Jordan, Amman | 5292 |
-| 13 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | @mujeer-com |  | Amman, Jordan | 5287 |
-| 14 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 5271 |
-| 15 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
-| 16 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5181 |
-| 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
-| 18 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
-| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |
-| 20 | [shwawra](https://github.com/shwawra) | Shwawra | Theta Technologies |  | Jordan | 4519 |
+| 13 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Several Brands |  | Amman, Jordan | 5271 |
+| 14 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
+| 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5181 |
+| 16 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
+| 17 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
+| 18 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |
+| 19 | [shwawra](https://github.com/shwawra) | Shwawra | Theta Technologies |  | Jordan | 4519 |
+| 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 4515 |

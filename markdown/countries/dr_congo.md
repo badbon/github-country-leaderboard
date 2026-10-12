@@ -26,7 +26,7 @@ Indexed users: 699
 | 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Kampala, Kinshasa | 5,883 |
 | 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | Kinshasa, DRC | 5,501 |
 | 14 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,007 |
-| 15 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 4,954 |
+| 15 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 4,946 |
 | 16 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 4,929 |
 | 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,745 |
 | 18 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,543 |
@@ -79,8 +79,8 @@ Indexed users: 699
 | 15 | [jlmbaka](https://github.com/jlmbaka) | Jean-Louis Mbaka | Kinshasa, DRC | 83 |
 | 16 | [RolandM99](https://github.com/RolandM99) | Roland MN | Kinshasa \| Kigali \| Nairobi | 83 |
 | 17 | [enigma972](https://github.com/enigma972) | Joel Lusavuvu | Kinshasa, RDCongo  | 72 |
-| 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 71 |
+| 18 | [johnmbiya](https://github.com/johnmbiya) | Jean Claude Mbiya | Kinshasa | 72 |
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-12T00:50:38.292Z
+Generated: 2026-10-12T01:50:21.179Z

@@ -1,6 +1,6 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-12T00:37:38.903Z
+Generated: 2026-10-12T01:35:40.753Z
 
 Users: 1653
 
@@ -16,11 +16,11 @@ Users: 1653
 | 8 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | uncommon.org |  | Mufakose, Harare, Zimbabwe | 2272 |
 | 9 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Kawerify Tech |  | Bulawayo, Zimbabwe | 2038 |
 | 10 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 1828 |
-| 11 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Ministry of Health and Child Care | chihwayii | Harare | 1632 |
-| 12 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Br3eze Africa |  | Zimbabwe, BYO | 1527 |
-| 13 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1511 |
-| 14 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1426 |
-| 15 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 1424 |
+| 11 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Codecraft Solutions | iamngoni | Harare | 1805 |
+| 12 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Ministry of Health and Child Care | chihwayii | Harare | 1632 |
+| 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Br3eze Africa |  | Zimbabwe, BYO | 1527 |
+| 14 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa |  |  | Mashonaland West Province, Zimbabwe, Harare | 1511 |
+| 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine |  | king_tine11 | Zimbabwe | 1426 |
 | 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Classgap |  | Harare Zimbabwe | 1254 |
 | 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | eisax software services |  | Zimbabwe | 1220 |
 | 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Marwadi Education Foundation Group of Institutions, Rajkot Subdistrict |  | Harare Zimbabwe | 1197 |

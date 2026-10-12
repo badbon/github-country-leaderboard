@@ -1,6 +1,6 @@
 # Followers - Georgia
 
-Generated: 2026-10-12T00:37:58.676Z
+Generated: 2026-10-12T01:35:44.954Z
 
 Users: 6901
 

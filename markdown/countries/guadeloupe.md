@@ -21,17 +21,17 @@ Indexed users: 87
 | 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,385 |
 | 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 936 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 698 |
-| 10 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 678 |
+| 10 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 684 |
 | 11 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
 | 12 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 607 |
 | 13 | [sboli](https://github.com/sboli) | Bolivar Stephen | Guadeloupe | 567 |
-| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
+| 14 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 453 |
 | 15 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
 | 16 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 201 |
 | 17 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 18 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 136 |
 | 19 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 110 |
-| 20 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 80 |
+| 20 | [mperouma](https://github.com/mperouma) | Mathias P. | Guadeloupe | 80 |
 
 ## Public Contributions
 
@@ -40,7 +40,7 @@ Indexed users: 87
 | 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,385 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 3 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU | Guadeloupe | 488 |
-| 4 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 451 |
+| 4 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 453 |
 | 5 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 315 |
 | 6 | [seyken971](https://github.com/seyken971) | Andy Zébus | Guadeloupe | 228 |
 | 7 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
@@ -83,4 +83,4 @@ Indexed users: 87
 | 19 | [Clement97712](https://github.com/Clement97712) |  | Guadeloupe | 6 |
 | 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 
-Generated: 2026-10-12T00:57:05.440Z
+Generated: 2026-10-12T01:55:36.750Z

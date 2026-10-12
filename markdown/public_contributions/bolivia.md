@@ -1,15 +1,15 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-12T00:41:57.270Z
+Generated: 2026-10-12T01:42:29.813Z
 
 Users: 1785
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 25275 |
-| 2 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2576 |
-| 3 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2567 |
-| 4 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi |  |  | Bolivia | 2280 |
+| 2 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi |  |  | Bolivia | 3024 |
+| 3 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2576 |
+| 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2567 |
 | 5 | [ldgd2](https://github.com/ldgd2) | Lider |  |  | Bolivia | 2241 |
 | 6 | [SergioRibera](https://github.com/SergioRibera) | Sergio Alejandro Ribera Costa | @RustLangES | sergioribera_rs | Santa Cruz de la Sierra, Bolivia | 2088 |
 | 7 | [arkgast](https://github.com/arkgast) | Arnold Gandarillas Castillo |  |  | Bolivia | 1627 |

@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,491
+Indexed users: 1,490
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 1,491
 | 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Kabul khoshal khan | 5,819 |
 | 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Afghanistan | 5,753 |
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer | Kabul, Afghanistan | 5,737 |
-| 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,136 |
-| 18 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
-| 19 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,839 |
-| 20 | [ehsanbigzad](https://github.com/ehsanbigzad) | Ehsan | Afghanistan | 4,807 |
+| 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Afghanistan | 5,201 |
+| 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada | Kabul, Afghanistan | 5,136 |
+| 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Afghanistan | 4,857 |
+| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Afghanistan | 4,839 |
 
 ## Public Contributions
 
@@ -48,15 +48,15 @@ Indexed users: 1,491
 | 9 | [Ozair0101](https://github.com/Ozair0101) | Mohmmad Ozair Khurami | Kabul, Afghanistan | 1,816 |
 | 10 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 1,620 |
 | 11 | [abdurrahmanoori](https://github.com/abdurrahmanoori) | Abdurrahman Noori | Afghanistan  | 1,471 |
-| 12 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,318 |
-| 13 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,230 |
-| 14 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,181 |
-| 15 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,083 |
-| 16 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,081 |
-| 17 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,077 |
-| 18 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,062 |
-| 19 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily | Herat,Afghanistan | 1,014 |
-| 20 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 933 |
+| 12 | [ElhamDevelopmentStudio](https://github.com/ElhamDevelopmentStudio) | Elhamullah Hossaini | Kabul, Afghanistan | 1,442 |
+| 13 | [sulaimanQasimi](https://github.com/sulaimanQasimi) | Sulaiman Qasimi | Kabul, Afghanistan | 1,318 |
+| 14 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,230 |
+| 15 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,181 |
+| 16 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,083 |
+| 17 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,081 |
+| 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,077 |
+| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,062 |
+| 20 | [Satayesh-Esmaily](https://github.com/Satayesh-Esmaily) | Satayesh Esmaily | Herat,Afghanistan | 1,014 |
 
 ## Followers
 
@@ -81,6 +81,6 @@ Indexed users: 1,491
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 129 |
 | 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Kabul, Afghanistan | 126 |
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
-| 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 116 |
+| 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-12T00:38:02.192Z
+Generated: 2026-10-12T01:35:49.898Z

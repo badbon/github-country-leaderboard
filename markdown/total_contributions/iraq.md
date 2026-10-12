@@ -1,16 +1,16 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-12T00:59:23.070Z
+Generated: 2026-10-12T01:59:50.852Z
 
 Users: 2247
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [gcp64](https://github.com/gcp64) | Mr.bob |  |  | Iraq | 2205846 |
-| 2 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | @Ronex-Krd | hoshmandent | Erbil, Iraq | 18551 |
-| 3 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Capsula | MujtabaFR | Iraq, Najaf | 9376 |
-| 4 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 9000 |
-| 5 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 8747 |
+| 2 | [hoshmandent](https://github.com/hoshmandent) | Hoshmand M. Qadir | @Ronex-Krd | hoshmandent | Erbil, Iraq | 24547 |
+| 3 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 19083 |
+| 4 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Capsula | MujtabaFR | Iraq, Najaf | 9376 |
+| 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 9000 |
 | 6 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 8037 |
 | 7 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Independent ~ Bregeoff | SamadZuhairdev | Erbil, Iraq | 8011 |
 | 8 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7758 |
@@ -24,5 +24,5 @@ Users: 2247
 | 16 | [DiyarFirasmusa](https://github.com/DiyarFirasmusa) | Diyar Firas | @simple-applicable-solutions  |  | iraq | 5941 |
 | 17 | [s1mpLyy](https://github.com/s1mpLyy) | Hamza Kareem | @Miswag |  | Baghdad, Iraq | 5566 |
 | 18 | [MohamadTahir](https://github.com/MohamadTahir) | Mohammad Tahir | @ditkrg  | _MohammedTahir | Erbil, Iraq | 5492 |
-| 19 | [pageton](https://github.com/pageton) | Sadiq |  |  | Basra, Iraq | 5396 |
-| 20 | [AhmedITD](https://github.com/AhmedITD) | Ahmed Imad Tarq |  |  | Iraq, Baghdad | 5362 |
+| 19 | [OneAboveAll1964](https://github.com/OneAboveAll1964) | Shko Maghdid Ebrahim | Otee.co |  | Erbil, Iraq | 5477 |
+| 20 | [pageton](https://github.com/pageton) | Sadiq |  |  | Basra, Iraq | 5396 |

@@ -1,8 +1,8 @@
 # Total Contributions - Afghanistan
 
-Generated: 2026-10-12T00:38:02.192Z
+Generated: 2026-10-12T01:35:49.898Z
 
-Users: 1491
+Users: 1490
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 1491
 | 14 | [WiyarAhmadZai](https://github.com/WiyarAhmadZai) | Muhammad Hakeem Wiyar | Wiyar Companies  |  | Kabul khoshal khan | 5819 |
 | 15 | [shahghasiadil](https://github.com/shahghasiadil) | Shahghasi Adil | Sr. Software Engineer | shahghasi_adil | Afghanistan | 5753 |
 | 16 | [shafaqatullah](https://github.com/shafaqatullah) | shafaqatullah zaheer |  |  | Kabul, Afghanistan | 5737 |
-| 17 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5136 |
-| 18 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
-| 19 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4839 |
-| 20 | [ehsanbigzad](https://github.com/ehsanbigzad) | Ehsan |  | ehsanbigzad | Afghanistan | 4807 |
+| 17 | [ahmadjoya](https://github.com/ahmadjoya) | Ahmad Joya | Softwareship-io |  | Afghanistan | 5201 |
+| 18 | [azizpgl](https://github.com/azizpgl) | Aziz Nabizada |  Peace Global Logistic |  | Kabul, Afghanistan | 5136 |
+| 19 | [basirkhan1995](https://github.com/basirkhan1995) | Basir Hashimi | Zaitoon |  | Afghanistan | 4857 |
+| 20 | [khalidafghanmal](https://github.com/khalidafghanmal) | khalid afghanmal | Smart City Solution ICT |  | Afghanistan | 4839 |

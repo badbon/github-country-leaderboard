@@ -24,14 +24,14 @@ Indexed users: 4,018
 | 10 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,804 |
 | 11 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 5,377 |
 | 12 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh | Jordan, Amman | 5,292 |
-| 13 | [mjaber5](https://github.com/mjaber5) | Mohammed Jaber | Amman, Jordan | 5,287 |
-| 14 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 5,271 |
-| 15 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | Amman-Jordan | 5,215 |
-| 16 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,181 |
-| 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
-| 18 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
-| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 4,785 |
-| 20 | [shwawra](https://github.com/shwawra) | Shwawra | Jordan | 4,519 |
+| 13 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 5,271 |
+| 14 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | Amman-Jordan | 5,215 |
+| 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,181 |
+| 16 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
+| 17 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
+| 18 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 4,785 |
+| 19 | [shwawra](https://github.com/shwawra) | Shwawra | Jordan | 4,519 |
+| 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 4,515 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,018
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-12T01:01:48.410Z
+Generated: 2026-10-12T02:02:55.493Z

@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-12T00:47:13.810Z
+Generated: 2026-10-12T01:46:02.369Z
 
 Users: 201
 
@@ -22,7 +22,7 @@ Users: 201
 | 14 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | AbboTech |  | N'djamena | 122 |
 | 15 | [Mbaigo](https://github.com/Mbaigo) | Evrard | THTC |  | N'Djamena | 119 |
 | 16 | [Debeing](https://github.com/Debeing) | MBAITEL-AM MBAINAISSEM ERIC |  |  | Tchad | 103 |
-| 17 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 90 |
-| 18 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 88 |
+| 17 | [BenjosMB235](https://github.com/BenjosMB235) | MBAIRAM BENJAMIN BEASSOUM |  |  | N'djaména-Tchad | 88 |
+| 18 | [OumarChabakaOusmane](https://github.com/OumarChabakaOusmane) | oumar chabaka ousmane | INSTA |  | Tchad | 87 |
 | 19 | [Muffinlavania](https://github.com/Muffinlavania) | Cristian S | treeofcontent.com |  | chad | 60 |
 | 20 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |

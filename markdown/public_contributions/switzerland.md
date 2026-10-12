@@ -1,6 +1,6 @@
 # Public Contributions - Switzerland
 
-Generated: 2026-10-12T00:30:40.097Z
+Generated: 2026-10-12T01:28:20.784Z
 
 Users: 24068
 
@@ -15,14 +15,14 @@ Users: 24068
 | 7 | [maonakamoto](https://github.com/maonakamoto) | G |  |  | Zurich, Switzerland | 13000 |
 | 8 | [fjacquet](https://github.com/fjacquet) | Frederic Jacquet |  |  | Switzerland | 12609 |
 | 9 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | @remotion-dev | JNYBGR | Zurich, Switzerland | 12533 |
-| 10 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Outcome Engineering | simonheimlicher | Zurich, Switzerland | 10907 |
-| 11 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz |  |  | Switzerland | 10770 |
-| 12 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | University of Basel | EricBoittier | Basel, Switzerland | 10443 |
-| 13 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Graehl Arts |  | Zürich, Switzerland | 9468 |
-| 14 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | AIcrowd |  | Geneva, Switzerland | 8411 |
-| 15 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown |  |  | Zurich, Switzerland | 8394 |
-| 16 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | @Batiplus  |  | Lausanne (Switzerland) | 8356 |
-| 17 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Gabriel Software |  | Switzerland | 8298 |
-| 18 | [thodel](https://github.com/thodel) | Tobias Hodel | Universität Bern |  | Bern | 8196 |
-| 19 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa |  |  | Zurich, Switzerland | 8079 |
-| 20 | [jonesbusy](https://github.com/jonesbusy) | Valentin Delaye | @jenkinsci contributor |  | Lausanne, Switzerland | 8053 |
+| 10 | [artiphishle](https://github.com/artiphishle) | Fabio Gartenmann | @ankhorage  |  | Zürich, Switzerland | 11717 |
+| 11 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Outcome Engineering | simonheimlicher | Zurich, Switzerland | 10907 |
+| 12 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz |  |  | Switzerland | 10770 |
+| 13 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | University of Basel | EricBoittier | Basel, Switzerland | 10443 |
+| 14 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Graehl Arts |  | Zürich, Switzerland | 9468 |
+| 15 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | AIcrowd |  | Geneva, Switzerland | 8411 |
+| 16 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown |  |  | Zurich, Switzerland | 8394 |
+| 17 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | @Batiplus  |  | Lausanne (Switzerland) | 8356 |
+| 18 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Gabriel Software |  | Switzerland | 8298 |
+| 19 | [thodel](https://github.com/thodel) | Tobias Hodel | Universität Bern |  | Bern | 8196 |
+| 20 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa |  |  | Zurich, Switzerland | 8079 |

@@ -52,8 +52,8 @@ Indexed users: 460
 | 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 664 |
 | 14 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 605 |
 | 15 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 529 |
-| 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
+| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 524 |
+| 17 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
 | 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
 | 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
 | 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 440 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-12T00:39:24.190Z
+Generated: 2026-10-12T01:37:53.975Z

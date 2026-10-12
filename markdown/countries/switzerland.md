@@ -46,17 +46,17 @@ Indexed users: 24,068
 | 7 | [maonakamoto](https://github.com/maonakamoto) | G | Zurich, Switzerland | 13,000 |
 | 8 | [fjacquet](https://github.com/fjacquet) | Frederic Jacquet | Switzerland | 12,609 |
 | 9 | [JonnyBurger](https://github.com/JonnyBurger) | Jonny Burger | Zurich, Switzerland | 12,533 |
-| 10 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Zurich, Switzerland | 10,907 |
-| 11 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz | Switzerland | 10,770 |
-| 12 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | Basel, Switzerland | 10,443 |
-| 13 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Zürich, Switzerland | 9,468 |
-| 14 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 8,411 |
-| 15 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown | Zurich, Switzerland | 8,394 |
-| 16 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | Lausanne (Switzerland) | 8,356 |
-| 17 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Switzerland | 8,298 |
-| 18 | [thodel](https://github.com/thodel) | Tobias Hodel | Bern | 8,196 |
-| 19 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa | Zurich, Switzerland | 8,079 |
-| 20 | [jonesbusy](https://github.com/jonesbusy) | Valentin Delaye | Lausanne, Switzerland | 8,053 |
+| 10 | [artiphishle](https://github.com/artiphishle) | Fabio Gartenmann | Zürich, Switzerland | 11,717 |
+| 11 | [simonheimlicher](https://github.com/simonheimlicher) | Simon Heimlicher | Zurich, Switzerland | 10,907 |
+| 12 | [ChrisGVE](https://github.com/ChrisGVE) | Christian C. Berclaz | Switzerland | 10,770 |
+| 13 | [EricBoittier](https://github.com/EricBoittier) | Eric Boittier | Basel, Switzerland | 10,443 |
+| 14 | [kzahel](https://github.com/kzahel) | Kyle Graehl | Zürich, Switzerland | 9,468 |
+| 15 | [spMohanty](https://github.com/spMohanty) | SP Mohanty | Geneva, Switzerland | 8,411 |
+| 16 | [evolvedlight](https://github.com/evolvedlight) | Stephen Brown | Zurich, Switzerland | 8,394 |
+| 17 | [leeroybrun](https://github.com/leeroybrun) | Leeroy Brun | Lausanne (Switzerland) | 8,356 |
+| 18 | [barbalex](https://github.com/barbalex) | Alexander Gabriel | Switzerland | 8,298 |
+| 19 | [thodel](https://github.com/thodel) | Tobias Hodel | Bern | 8,196 |
+| 20 | [jorgsowa](https://github.com/jorgsowa) | Jorg Adam Sowa | Zurich, Switzerland | 8,079 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 24,068
 | 19 | [nyancrimew](https://github.com/nyancrimew) | maia arson crimew | Switzerland | 1,856 |
 | 20 | [jeremytammik](https://github.com/jeremytammik) | Jeremy Tammik | Switzerland | 1,841 |
 
-Generated: 2026-10-12T00:30:40.097Z
+Generated: 2026-10-12T01:28:20.784Z

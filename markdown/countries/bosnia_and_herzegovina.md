@@ -27,11 +27,11 @@ Indexed users: 2,129
 | 13 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 4,601 |
 | 14 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
 | 15 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 4,102 |
-| 16 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
-| 17 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic | Sarajevo, Bosnia and Herzegovina | 3,873 |
-| 18 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 3,757 |
-| 19 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim | Bosnia and Herzegovina | 3,692 |
-| 20 | [bashovski](https://github.com/bashovski) | Anur Bašić | Sarajevo | 3,618 |
+| 16 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 4,094 |
+| 17 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
+| 18 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic | Sarajevo, Bosnia and Herzegovina | 3,873 |
+| 19 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 3,757 |
+| 20 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim | Bosnia and Herzegovina | 3,692 |
 
 ## Public Contributions
 
@@ -51,12 +51,12 @@ Indexed users: 2,129
 | 12 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,269 |
 | 13 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 1,249 |
 | 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,141 |
-| 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,099 |
-| 16 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
-| 17 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 794 |
-| 18 | [esensar](https://github.com/esensar) | Ensar Sarajčić | Sarajevo, Bosnia and Herzegovina | 719 |
-| 19 | [zalom](https://github.com/zalom) | Zlatko Alomerovic | Tuzla, Bosnia and Herzegovina | 716 |
-| 20 | [full-stack-web-developer-and-designer](https://github.com/full-stack-web-developer-and-designer) | Mirnes Glamočić | Jajce, Bosnia and Herzegovina | 701 |
+| 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,095 |
+| 16 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 1,011 |
+| 17 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
+| 18 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 794 |
+| 19 | [esensar](https://github.com/esensar) | Ensar Sarajčić | Sarajevo, Bosnia and Herzegovina | 719 |
+| 20 | [zalom](https://github.com/zalom) | Zlatko Alomerovic | Tuzla, Bosnia and Herzegovina | 716 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,129
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-12T00:42:33.792Z
+Generated: 2026-10-12T01:43:01.805Z
