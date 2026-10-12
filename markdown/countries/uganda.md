@@ -52,11 +52,11 @@ Indexed users: 3,874
 | 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
 | 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
 | 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
-| 16 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
-| 17 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
-| 18 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
-| 19 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
-| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | Kampala Uganda  | 1,864 |
+| 16 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
+| 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
+| 18 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
+| 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
+| 20 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,874
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-12T17:22:42.249Z
+Generated: 2026-10-12T18:43:10.527Z

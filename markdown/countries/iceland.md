@@ -18,13 +18,13 @@ Indexed users: 1,580
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt | Reykjavík, Iceland | 15,680 |
 | 5 | [tylerelias](https://github.com/tylerelias) | Tyler | Iceland | 14,616 |
 | 6 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Reykjavík, Iceland | 12,769 |
-| 7 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 12,026 |
-| 8 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 10,894 |
-| 9 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 9,170 |
-| 10 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 8,749 |
-| 11 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 7,577 |
-| 12 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 7,571 |
-| 13 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 7,531 |
+| 7 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 12,229 |
+| 8 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 12,026 |
+| 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 10,894 |
+| 10 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 9,170 |
+| 11 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 8,749 |
+| 12 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 7,577 |
+| 13 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 7,571 |
 | 14 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,306 |
 | 15 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 6,895 |
 | 16 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,633 |
@@ -83,4 +83,4 @@ Indexed users: 1,580
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 217 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-12T17:58:16.779Z
+Generated: 2026-10-12T19:13:58.056Z

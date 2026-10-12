@@ -62,7 +62,7 @@ Indexed users: 1,490
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani |  Kabul, Afghanistan | 3,455 |
+| 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani |  Kabul, Afghanistan | 3,463 |
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 668 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Kabul-Afghanistan | 436 |
 | 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal | Kabul | 419 |
@@ -79,8 +79,8 @@ Indexed users: 1,490
 | 15 | [starkbaknet](https://github.com/starkbaknet) | StarkBak | Kabul, Afghanistan | 135 |
 | 16 | [SaeqaSultani](https://github.com/SaeqaSultani) | Saeqa Sultani | Afghanistan | 130 |
 | 17 | [shayanheidari01](https://github.com/shayanheidari01) | Shayan Heidari | Afghanistan/Kabul | 129 |
-| 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Kabul, Afghanistan | 126 |
+| 18 | [yasinnoori](https://github.com/yasinnoori) | Mohammad Yasin Noori | Kabul, Afghanistan | 129 |
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-12T17:28:28.750Z
+Generated: 2026-10-12T18:46:42.223Z

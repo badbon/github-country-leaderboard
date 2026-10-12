@@ -52,11 +52,11 @@ Indexed users: 1,654
 | 13 | [br3eze-code](https://github.com/br3eze-code) | Brighton Mzacana | Zimbabwe, BYO | 1,527 |
 | 14 | [kudzaiprichard](https://github.com/kudzaiprichard) | Kudzai Prichard Matizirofa | Mashonaland West Province, Zimbabwe, Harare | 1,511 |
 | 15 | [TinevimboMusingadi](https://github.com/TinevimboMusingadi) | King Tine | Zimbabwe | 1,426 |
-| 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,254 |
-| 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,220 |
-| 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
-| 19 | [waltergkaturuza](https://github.com/waltergkaturuza) | Greenford Walter KATURUZA | Zimbabwe | 1,191 |
-| 20 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,120 |
+| 16 | [tate2301](https://github.com/tate2301) | Atipamara | Masvingo, Zimbabwe | 1,343 |
+| 17 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,254 |
+| 18 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,220 |
+| 19 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
+| 20 | [waltergkaturuza](https://github.com/waltergkaturuza) | Greenford Walter KATURUZA | Zimbabwe | 1,191 |
 
 ## Followers
 
@@ -67,10 +67,10 @@ Indexed users: 1,654
 | 3 | [nelsonnzou-crypt](https://github.com/nelsonnzou-crypt) | Tapiwanashe Nelson Nzou | Zimbabwe | 612 |
 | 4 | [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit) | Nyashadzaishe Masvongo | harare  Zimbabwe | 458 |
 | 5 | [iamngoni](https://github.com/iamngoni) | Ngonidzashe Mangudya | Harare | 231 |
-| 6 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 205 |
+| 6 | [skyridertk](https://github.com/skyridertk) | Tanaka I Kahwai | Harare, Zimbabwe | 200 |
 | 7 | [blessing-mufaro](https://github.com/blessing-mufaro) | Blessing Mufaro Kashava | Harare, Zimbabwe | 188 |
 | 8 | [kculz](https://github.com/kculz) | Kudzai Munyama | Mutare, Zimbabwe | 186 |
-| 9 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Bulawayo, Zimbabwe | 183 |
+| 9 | [alistairholmes](https://github.com/alistairholmes) | Alistair Holmes | Bulawayo, Zimbabwe | 184 |
 | 10 | [sirx2713](https://github.com/sirx2713) | iSAD | Zimbabwe | 171 |
 | 11 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 166 |
 | 12 | [DonnC](https://github.com/DonnC) | Donald Chinhuru | Harare, Zimbabwe | 165 |
@@ -83,4 +83,4 @@ Indexed users: 1,654
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-12T17:27:42.470Z
+Generated: 2026-10-12T18:46:04.712Z

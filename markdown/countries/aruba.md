@@ -13,12 +13,12 @@ Indexed users: 38
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 817 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 818 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 564 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 549 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 6 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
-| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 173 |
+| 7 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 174 |
 | 8 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 126 |
 | 9 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 10 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 47 |
@@ -41,7 +41,7 @@ Indexed users: 38
 | 2 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
 | 3 | [blonkm](https://github.com/blonkm) | Michiel van der Blonk | Oranjestad, Aruba | 203 |
 | 4 | [StephanZaat](https://github.com/StephanZaat) | Stephan Zaat | Aruba | 126 |
-| 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 112 |
+| 5 | [GeraldR12](https://github.com/GeraldR12) | Nathan R | Aruba | 113 |
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča | Oranjestad | 72 |
 | 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 47 |
 | 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | Oranjestad, Aruba | 44 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-12T17:32:26.012Z
+Generated: 2026-10-12T18:49:18.891Z

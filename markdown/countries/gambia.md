@@ -13,11 +13,11 @@ Indexed users: 79
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,530 |
-| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,118 |
+| 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,172 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,636 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,466 |
-| 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,330 |
-| 6 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,315 |
+| 5 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,332 |
+| 6 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,330 |
 | 7 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,299 |
 | 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 847 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 744 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-12T17:53:53.420Z
+Generated: 2026-10-12T19:08:32.074Z

@@ -12,7 +12,7 @@ Indexed users: 108
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 21,420 |
+| 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 21,421 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa | Eswatini, Southern Africa | 1,672 |
 | 3 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 1,007 |
 | 4 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 702 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-12T17:51:11.741Z
+Generated: 2026-10-12T19:06:36.061Z

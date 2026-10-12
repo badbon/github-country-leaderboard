@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-12T17:30:19.837Z
+Generated: 2026-10-12T18:47:54.446Z
 
 Users: 215
 
@@ -18,7 +18,7 @@ Users: 215
 | 10 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5139 |
 | 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 4874 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4842 |
-| 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3966 |
+| 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3948 |
 | 14 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 3944 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 3835 |
 | 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3448 |

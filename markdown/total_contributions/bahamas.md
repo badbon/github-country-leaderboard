@@ -1,6 +1,6 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-12T17:32:40.340Z
+Generated: 2026-10-12T18:50:54.551Z
 
 Users: 236
 
@@ -8,9 +8,9 @@ Users: 236
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 22190 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3214 |
-| 3 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3085 |
-| 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3057 |
-| 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2488 |
+| 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3154 |
+| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3085 |
+| 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2501 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | Melo Inc |  | nassau | 2039 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour |  |  | New Providence, Bahamas | 1612 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Agio Digital Ltd. |  | Nassau, The Bahamas | 1457 |

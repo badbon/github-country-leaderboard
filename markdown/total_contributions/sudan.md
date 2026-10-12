@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-12T17:17:24.647Z
+Generated: 2026-10-12T18:36:32.060Z
 
 Users: 729
 
@@ -18,11 +18,11 @@ Users: 729
 | 10 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 2851 |
 | 11 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | PashaDP | m_elhabib_dev | Sudan, Khartoum | 2818 |
 | 12 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker |  |  | Khartoum | 2746 |
-| 13 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2622 |
-| 14 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 2576 |
-| 15 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2552 |
-| 16 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Sudan University of Science and Technology  | AminOmerM | Khartoum, Sudan | 2536 |
-| 17 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Taawuniya Insurance Company | osman_abd | Sudan / Khartoum | 2529 |
+| 13 | [abdosaeedelhassan](https://github.com/abdosaeedelhassan) | Abdelrahman Saeed Elhassan | AsayHome | abdosaeedtweet | Al-Thawrah H 19, Omdurman, Sudan | 2645 |
+| 14 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 2580 |
+| 15 | [Bakrialtaif](https://github.com/Bakrialtaif) | Abobaker Altaif | Kashta | bakriatlaif | Sudan | 2544 |
+| 16 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Taawuniya Insurance Company | osman_abd | Sudan / Khartoum | 2536 |
+| 17 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Sudan University of Science and Technology  | AminOmerM | Khartoum, Sudan | 2514 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudagoarth Co.Ltd - سوداغورث المحدودة  | asimsharf | Sudan | 2215 |
 | 19 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Tamkeen Technology | cre_al | Sudan | 2021 |
 | 20 | [OxSama](https://github.com/OxSama) | OxSama |  | OX_SAMA | Khartoum - Sudan | 1861 |

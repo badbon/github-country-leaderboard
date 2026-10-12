@@ -1,8 +1,8 @@
 # Followers - El Salvador
 
-Generated: 2026-10-12T17:49:18.889Z
+Generated: 2026-10-12T19:05:23.993Z
 
-Users: 2378
+Users: 2377
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,7 +20,7 @@ Users: 2378
 | 12 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 124 |
 | 13 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda |  |  | El Salvador | 124 |
 | 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | Applaudo | ricardoerl | El Salvador | 123 |
-| 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | COAMSS/OPAMSS |  | San Salvador, El Salvador | 122 |
+| 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | COAMSS/OPAMSS |  | San Salvador, El Salvador | 120 |
 | 16 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana |  |  | El Salvador | 116 |
 | 17 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez |  | fher_eduardo | El Salvador | 101 |
 | 18 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 100 |

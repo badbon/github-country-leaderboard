@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-12T17:40:24.366Z
+Generated: 2026-10-12T18:57:01.726Z
 
 Users: 236
 
@@ -8,7 +8,7 @@ Users: 236
 |---:|---|---|---|---|---|---:|
 | 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | HOGI |  | Bujumbura, Burundi | 6233 |
 | 2 | [mugar](https://github.com/mugar) | mugabo armand |  |  | Burundi | 4274 |
-| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2548 |
+| 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Leapa | mucotreso | Bujumbura, Burundi | 2621 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | hogitugende | inganzamarumpu | Bujumbura, Burundi | 2520 |
 | 5 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 2105 |
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1653 |
@@ -21,7 +21,7 @@ Users: 236
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1108 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 1016 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 990 |
-| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 988 |
+| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | EXEC |  | Burundi | 986 |
 | 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | RIHA TELECOM |  | Bujumbura,  Burundi | 983 |
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | United Nations Population Fund |  | Bujumbura, Burundi | 930 |
 | 19 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | PayVista |  | Burundi | 894 |

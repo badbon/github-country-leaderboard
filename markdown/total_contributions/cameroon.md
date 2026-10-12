@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-12T17:40:31.565Z
+Generated: 2026-10-12T18:57:09.894Z
 
 Users: 1799
 
@@ -9,15 +9,15 @@ Users: 1799
 | 1 | [jp-sft](https://github.com/jp-sft) | Jessy Pango | KODXO | JessyPango | Cameroon | 15161 |
 | 2 | [Tomdieu](https://github.com/Tomdieu) | ivantom | TrixGroup | navicorp_ | Cameroon | 12903 |
 | 3 | [momo-87](https://github.com/momo-87) | Christian Romuald MOMO TONFACK | Full-Stack Developer | Momo_yde | Cameroon - Yaounde | 11682 |
-| 4 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 10058 |
-| 5 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9756 |
-| 6 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 7720 |
-| 7 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | @veridyl | elroykanye | Yaoundé, Cameroon | 7432 |
-| 8 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 7402 |
-| 9 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 6705 |
-| 10 | [gwagsi](https://github.com/gwagsi) | Gwagsi |  | gwagsig | Yaounde, Cameroon | 6660 |
-| 11 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
-| 12 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | @gwislab  | bisynerd | Buea, Cameroon | 6120 |
+| 4 | [cliffordten](https://github.com/cliffordten) | Teneng Clifford | @gwislab  | bisynerd | Buea, Cameroon | 10943 |
+| 5 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | @think-dev-io | bpsmartdesign | Yaoundé - Douala, Cameroon | 10058 |
+| 6 | [gwagsi](https://github.com/gwagsi) | Gwagsi |  | gwagsig | Yaounde, Cameroon | 10008 |
+| 7 | [iws3](https://github.com/iws3) | Fonyuy Gita |  |  | Bamenda, Cameroon | 9756 |
+| 8 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 7720 |
+| 9 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | @veridyl | elroykanye | Yaoundé, Cameroon | 7432 |
+| 10 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 7402 |
+| 11 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 6705 |
+| 12 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
 | 13 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
 | 14 | [MartexCorp](https://github.com/MartexCorp) | David Acho | NA SERVICES INC |  | Yaounde, Cameroon | 5800 |
 | 15 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 5789 |

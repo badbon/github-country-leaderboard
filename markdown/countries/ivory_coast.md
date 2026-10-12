@@ -15,7 +15,7 @@ Indexed users: 488
 | 1 | [eshe-huli](https://github.com/eshe-huli) | Ben G. Seydou Ouattara | Abidjan, Ivory Coast | 10,089 |
 | 2 | [adrielzimbril](https://github.com/adrielzimbril) | Adriel Zimbril | Abidjan, Ivory Coast | 8,656 |
 | 3 | [davtechci2](https://github.com/davtechci2) | ADZASU KOFFI DAVID | Côte d'ivoire, Abidjan | 8,489 |
-| 4 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 7,482 |
+| 4 | [agazinakou](https://github.com/agazinakou) | Lamine AZINAKOU | Abidjan, Côte d'ivoire | 7,474 |
 | 5 | [baudoliver7](https://github.com/baudoliver7) | Olivier Baudouin OURA | Abidjan, Côte d'Ivoire | 7,179 |
 | 6 | [AlMoustapha01](https://github.com/AlMoustapha01) | Al Moustapha | Cocody, Abidjan, Côte d'Ivoire | 5,972 |
 | 7 | [theboss001](https://github.com/theboss001) | Landry Kolaï | Côte d'ivoire | 5,854 |
@@ -78,9 +78,9 @@ Indexed users: 488
 | 14 | [Shadracthechosenone](https://github.com/Shadracthechosenone) | Shadrac | Ivory Coast | 61 |
 | 15 | [agnamc9](https://github.com/agnamc9) | Agnaramon Boris-Carnot | Abidjan, Côte d'Ivoire | 58 |
 | 16 | [daboujohan-hub](https://github.com/daboujohan-hub) | Diomandé Abou johan | San Pedro, Côte d'Ivoire | 58 |
-| 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 50 |
+| 17 | [daohassane](https://github.com/daohassane) | Hassane Dao | Côte d'ivoire, Abidjan | 51 |
 | 18 | [ourystd](https://github.com/ourystd) | Oury Diallo | Abidjan, Côte d'Ivoire | 49 |
 | 19 | [DevAlves1993](https://github.com/DevAlves1993) | Christian Alves Cyrille Amani | Ivory Coast (Abidjan) | 42 |
 | 20 | [stephsalou](https://github.com/stephsalou) | stephane salou | Abidjan , Côte D'Ivoire | 41 |
 
-Generated: 2026-10-12T18:01:04.052Z
+Generated: 2026-10-12T19:15:31.151Z

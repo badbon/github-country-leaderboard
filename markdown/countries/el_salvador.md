@@ -1,6 +1,6 @@
 # El Salvador
 
-Indexed users: 2,378
+Indexed users: 2,377
 
 | Leaderboard | Link |
 |---|---|
@@ -76,11 +76,11 @@ Indexed users: 2,378
 | 12 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 124 |
 | 13 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda | El Salvador | 124 |
 | 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | El Salvador | 123 |
-| 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | San Salvador, El Salvador | 122 |
+| 15 | [DanielRivera03](https://github.com/DanielRivera03) | Daniel Rivera | San Salvador, El Salvador | 120 |
 | 16 | [Nexxtor](https://github.com/Nexxtor) | Nestor Aldana | El Salvador | 116 |
 | 17 | [fhereduardo90](https://github.com/fhereduardo90) | Fernando Juarez | El Salvador | 101 |
 | 18 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 100 |
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-12T17:49:18.889Z
+Generated: 2026-10-12T19:05:23.993Z

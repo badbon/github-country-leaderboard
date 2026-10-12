@@ -1,6 +1,6 @@
 # Followers - Botswana
 
-Generated: 2026-10-12T17:38:09.688Z
+Generated: 2026-10-12T18:55:19.123Z
 
 Users: 533
 
@@ -21,7 +21,7 @@ Users: 533
 | 13 | [Hope-Nts](https://github.com/Hope-Nts) | Hope Ntshonono |  | Hope_Ntshonono | Gaborone,Botswana | 46 |
 | 14 | [mwmiller](https://github.com/mwmiller) | Matt Miller |  |  | Gaborone, Botswana | 45 |
 | 15 | [mitp0sh](https://github.com/mitp0sh) | mitp0sh | Botswana Ltd. | mitp0sh | Botswana | 44 |
-| 16 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo |  | samuel_kabelo | Gaborone Botswana | 39 |
+| 16 | [samKenpachi011](https://github.com/samKenpachi011) | Samuel Kabelo |  | samuel_kabelo | Gaborone Botswana | 41 |
 | 17 | [godwillmonthe](https://github.com/godwillmonthe) | Godwill Monthe | Xavier Africa Technologies - @Xavier-Botswana  | godwil1monthe | Gaborone, Botswana | 35 |
 | 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 35 |
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Digital FastForward |  | Botswana, Gaborone-Mokobaxane | 34 |

@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-12T17:38:09.688Z
+Generated: 2026-10-12T18:55:19.123Z
 
 Users: 533
 
@@ -12,8 +12,8 @@ Users: 533
 | 4 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2598 |
 | 5 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 2578 |
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 2397 |
-| 7 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | @africacodeacademy @wholeapp  |  | Gaborone, Botswana | 2308 |
-| 8 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Botswana International University of Science and Technology  |  | Gaborone, Botswana | 2298 |
+| 7 | [Koketso1999](https://github.com/Koketso1999) | Koketso Morapedi | Botswana International University of Science and Technology  |  | Gaborone, Botswana | 2342 |
+| 8 | [ChinyangaTL](https://github.com/ChinyangaTL) | Les Chinyanga | @africacodeacademy @wholeapp  |  | Gaborone, Botswana | 2308 |
 | 9 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | @MODISAR  | FuzzFoo | Botswana | 2114 |
 | 10 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | @SwiftIQ  | MoneiBakang | Gaborone, Botswana | 2071 |
 | 11 | [Batoli19](https://github.com/Batoli19) | future |  |  | Gaborone | 2057 |

@@ -24,7 +24,7 @@ Indexed users: 215
 | 10 | [marcalj](https://github.com/marcalj) | Marçal | Andorra | 5,139 |
 | 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 4,874 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | Escaldes, Andorra | 4,842 |
-| 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,966 |
+| 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | Andorra | 3,948 |
 | 14 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Andorra | 3,944 |
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,835 |
 | 16 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,448 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-12T17:30:19.837Z
+Generated: 2026-10-12T18:47:54.446Z

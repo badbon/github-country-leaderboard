@@ -13,7 +13,7 @@ Indexed users: 711
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 8,913 |
-| 2 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 8,730 |
+| 2 | [OdinManiac](https://github.com/OdinManiac) | George | Tajikistan | 8,824 |
 | 3 | [rahimov-yr](https://github.com/rahimov-yr) | Yusuf Rahimov | Tajikistan | 7,463 |
 | 4 | [shyn1ck](https://github.com/shyn1ck) | Parvizjon Hasanov | Taikistan, Dushanbe  | 7,230 |
 | 5 | [umedsondoniyor](https://github.com/umedsondoniyor) | Umedzhon Izbasarov | Tajikistan/Dushanbe | 6,702 |
@@ -49,9 +49,9 @@ Indexed users: 711
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Dushanbe, Tajikistan | 761 |
 | 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov | Dushanbe, Tajikistan | 699 |
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf | Dushanbe | 658 |
-| 13 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 508 |
-| 14 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
-| 15 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 469 |
+| 13 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov | Dushanbe, Tajikistan | 558 |
+| 14 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов | Tajikistan / Khujand / Dushanbe / Kulob | 508 |
+| 15 | [Roma-723](https://github.com/Roma-723) | Yusufjon | Dushanbe | 476 |
 | 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | Dushanbe | 468 |
 | 17 | [llcsanjar](https://github.com/llcsanjar) | Sanjar | Tajikistan | 443 |
 | 18 | [rustamovy9](https://github.com/rustamovy9) |  | Dushanbe,Tajikistan | 428 |
@@ -83,4 +83,4 @@ Indexed users: 711
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 
-Generated: 2026-10-12T17:19:13.164Z
+Generated: 2026-10-12T18:38:26.638Z

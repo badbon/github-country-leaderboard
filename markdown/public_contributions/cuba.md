@@ -1,6 +1,6 @@
 # Public Contributions - Cuba
 
-Generated: 2026-10-12T17:44:49.773Z
+Generated: 2026-10-12T19:01:59.298Z
 
 Users: 1276
 
@@ -10,12 +10,12 @@ Users: 1276
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  |  |  | Ciego de Ávila, Cuba | 9050 |
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 7089 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4454 |
-| 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3277 |
+| 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3246 |
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez |  |  | Havana, Cuba | 2293 |
 | 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Universidad de Matanzas |  | Cuba | 1919 |
 | 8 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 1514 |
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 1486 |
-| 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert |  |  | Cuba | 1474 |
+| 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert |  |  | Cuba | 1476 |
 | 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco |  |  | Havana, Cuba | 1464 |
 | 12 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 1161 |
 | 13 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | PayNest | noakmilo | Cuba | 1110 |
