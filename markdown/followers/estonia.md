@@ -1,6 +1,6 @@
 # Followers - Estonia
 
-Generated: 2026-10-12T19:06:33.318Z
+Generated: 2026-10-12T20:19:28.110Z
 
 Users: 4910
 
@@ -14,7 +14,7 @@ Users: 4910
 | 6 | [tuupola](https://github.com/tuupola) | Mika Tuupola | Kakotron Oy | tuupola | Finland,  Thailand, Estonia | 961 |
 | 7 | [rebane2001](https://github.com/rebane2001) | Lyra Rebane |  |  | Estonia | 862 |
 | 8 | [s4kibs4mi](https://github.com/s4kibs4mi) | Sakib Sami |  | s4kibs4mi | Tallinn, Estonia | 777 |
-| 9 | [TahaTesser](https://github.com/TahaTesser) | Taha Tesser | @woltapp | tahatesser | Tallinn, Estonia | 740 |
+| 9 | [TahaTesser](https://github.com/TahaTesser) | Taha Tesser | @woltapp | tahatesser | Tallinn, Estonia | 741 |
 | 10 | [urmasa-tar](https://github.com/urmasa-tar) | Nikita Goltsev |  |  | Estonia, Tallinn | 689 |
 | 11 | [angryziber](https://github.com/angryziber) | Anton Keks | Codeborne |  | Estonia | 642 |
 | 12 | [antonarhipov](https://github.com/antonarhipov) | Anton Arhipov | JetBrains | antonarhipov | Estonia | 622 |

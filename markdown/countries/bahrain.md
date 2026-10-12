@@ -81,6 +81,6 @@ Indexed users: 728
 | 17 | [veno](https://github.com/veno) | Venomous Committer | Bahrain | 45 |
 | 18 | [akhaled01](https://github.com/akhaled01) | Abdulrahman Idrees | Manama, Bahrain | 42 |
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
-| 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
+| 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-12T18:51:00.498Z
+Generated: 2026-10-12T20:06:44.112Z

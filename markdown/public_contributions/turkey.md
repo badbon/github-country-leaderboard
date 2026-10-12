@@ -1,8 +1,8 @@
 # Public Contributions - Turkey
 
-Generated: 2026-10-12T18:41:53.326Z
+Generated: 2026-10-12T19:54:42.418Z
 
-Users: 79152
+Users: 79151
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

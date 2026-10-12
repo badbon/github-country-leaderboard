@@ -25,13 +25,13 @@ Indexed users: 1,654
 | 11 | [protendai](https://github.com/protendai) | Tendai Karuma | Harare Zimbabwe | 6,939 |
 | 12 | [morebnyemba](https://github.com/morebnyemba) | Moreblessing Nyemba | Zimbabwe | 6,468 |
 | 13 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Harare, Zimbabwe | 6,400 |
-| 14 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,825 |
-| 15 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
-| 16 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,428 |
-| 17 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
-| 18 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
-| 19 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,086 |
-| 20 | [tawandachiteshe](https://github.com/tawandachiteshe) | tawandachiteshe | Harare | 4,969 |
+| 14 | [tkmawarire](https://github.com/tkmawarire) | #SpecialForces | Harare, Zimbabwe | 5,953 |
+| 15 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,825 |
+| 16 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
+| 17 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,428 |
+| 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
+| 19 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
+| 20 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,086 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,654
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-12T18:46:04.712Z
+Generated: 2026-10-12T19:59:20.635Z

@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-12T19:09:24.307Z
+Generated: 2026-10-12T20:26:02.606Z
 
 Users: 3222
 
@@ -14,8 +14,8 @@ Users: 3222
 | 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 7047 |
 | 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
 | 8 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |
-| 9 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | ebsoltech |  | Guatemala | 5791 |
-| 10 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 5581 |
+| 9 | [edman-cota](https://github.com/edman-cota) | edmancota | Universidad del Valle de Guatemala |  | Guatemala | 6100 |
+| 10 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | ebsoltech |  | Guatemala | 5791 |
 | 11 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee |  |  | Guatemala | 5506 |
 | 12 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte |  | alanhurtarte | Guatemala city, Guatemala | 5488 |
 | 13 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López |  |  | Chimaltenango/Guatemala | 5446 |

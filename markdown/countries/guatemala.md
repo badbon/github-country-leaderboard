@@ -20,8 +20,8 @@ Indexed users: 3,222
 | 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 7,047 |
 | 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
 | 8 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
-| 9 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | Guatemala | 5,791 |
-| 10 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 5,581 |
+| 9 | [edman-cota](https://github.com/edman-cota) | edmancota | Guatemala | 6,100 |
+| 10 | [ElvisBatzibal](https://github.com/ElvisBatzibal) | Elvis Geovanny Batzibal | Guatemala | 5,791 |
 | 11 | [marcoleejr](https://github.com/marcoleejr) | Marco Lee | Guatemala | 5,506 |
 | 12 | [kenny08gt](https://github.com/kenny08gt) | Alan Hurtarte | Guatemala city, Guatemala | 5,488 |
 | 13 | [jrodas4044](https://github.com/jrodas4044) | Jonhathan Rolando Rodas López | Chimaltenango/Guatemala | 5,446 |
@@ -64,7 +64,7 @@ Indexed users: 3,222
 |---:|---|---|---|---:|
 | 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Guatemala | 434 |
 | 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Guatemala | 332 |
-| 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez | Guatemala | 308 |
+| 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez | Guatemala | 305 |
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco | Guatemala | 298 |
 | 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Guatemala | 280 |
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Guatemala | 217 |
@@ -83,4 +83,4 @@ Indexed users: 3,222
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-12T19:09:24.307Z
+Generated: 2026-10-12T20:26:02.606Z

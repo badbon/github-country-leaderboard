@@ -22,15 +22,15 @@ Indexed users: 899
 | 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,325 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,466 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,148 |
-| 11 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,002 |
+| 11 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 5,990 |
 | 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 5,969 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,544 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,951 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,426 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | Hamilton, Ontario | 4,294 |
-| 18 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,106 |
-| 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,029 |
+| 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | Hamilton | 4,204 |
+| 19 | [adriand](https://github.com/adriand) | Adrian Duyzer | Hamilton, Ontario | 4,106 |
 | 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene | Hamilton, Ontario | 3,933 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-12T18:54:05.115Z
+Generated: 2026-10-12T20:08:12.691Z

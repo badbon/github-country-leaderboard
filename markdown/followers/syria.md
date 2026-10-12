@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-12T18:37:17.946Z
+Generated: 2026-10-12T19:51:32.569Z
 
 Users: 1481
 
@@ -25,4 +25,4 @@ Users: 1481
 | 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |
 | 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 114 |
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 102 |
-| 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy |  |  | Latakia, Syria | 101 |
+| 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy |  |  | Latakia, Syria | 102 |

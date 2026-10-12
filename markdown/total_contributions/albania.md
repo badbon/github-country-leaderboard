@@ -1,6 +1,6 @@
 # Total Contributions - Albania
 
-Generated: 2026-10-12T18:47:22.204Z
+Generated: 2026-10-12T20:00:39.525Z
 
 Users: 1184
 
@@ -10,7 +10,7 @@ Users: 1184
 | 2 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 10352 |
 | 3 | [ErionTp](https://github.com/ErionTp) | Erjon Këllëçi | RokoHub |  | Tirane, Albania | 9126 |
 | 4 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 8598 |
-| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8242 |
+| 5 | [Jorgo55](https://github.com/Jorgo55) | Jorgo Bardho |  |  | Albania, Tirana | 8238 |
 | 6 | [kevingabeci](https://github.com/kevingabeci) | Kevin Gabeci | Apatero | gabeciii | Tirana | 7090 |
 | 7 | [geridev12](https://github.com/geridev12) | Gerald Nuraj |  |  | Tirana, Albania | 6533 |
 | 8 | [somethim](https://github.com/somethim) | Arbi Kullakshi | @zennit-dev | arbi_kullakshi | Tirana, Albania | 6294 |
@@ -21,7 +21,7 @@ Users: 1184
 | 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Freelancer | edMilushi | Albania | 5568 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci |  |  | Albania | 5500 |
 | 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 4670 |
-| 16 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4411 |
+| 16 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 4397 |
 | 17 | [sly503](https://github.com/sly503) | Fatjon Rami |  |  | Tirana | 4363 |
 | 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | @new-media-communications | blenardpazari | Tirana | 4321 |
 | 19 | [klkucaj](https://github.com/klkucaj) | Klaudio Kuçaj | https://www.idea-developers.com/ |  | Tirana, Albania | 4257 |

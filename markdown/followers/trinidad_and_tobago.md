@@ -1,6 +1,6 @@
 # Followers - Trinidad and Tobago
 
-Generated: 2026-10-12T18:41:13.074Z
+Generated: 2026-10-12T19:54:36.732Z
 
 Users: 256
 
@@ -17,7 +17,7 @@ Users: 256
 | 9 | [foohyfooh](https://github.com/foohyfooh) | Jonathan Herbert |  |  | Trinidad and Tobago | 61 |
 | 10 | [premarafael108-jpg](https://github.com/premarafael108-jpg) | Anahata.Agent | Anahata | AnahataASI | Trinidad and tobago | 58 |
 | 11 | [Snickdx](https://github.com/Snickdx) | Nicholas Mendez | @uwidcit @gdgpos | snickdx | Trinidad and Tobago | 51 |
-| 12 | [Ispirett](https://github.com/Ispirett) | Ispirett |  2020-stack Developer |  | Trinidad and Tobago | 44 |
+| 12 | [Ispirett](https://github.com/Ispirett) | Ispirett |  2020-stack Developer |  | Trinidad and Tobago | 43 |
 | 13 | [kmn5409](https://github.com/kmn5409) | Keanu Nichols |  | kmn5409 | Trinidad and Tobago | 43 |
 | 14 | [RicoAntonioFelix](https://github.com/RicoAntonioFelix) | Rico Antonio Felix | @hioa-cs  @includeos @Bareflank  |  | Trinidad and Tobago, Port-of-Spain | 34 |
 | 15 | [nakoyawilson](https://github.com/nakoyawilson) | Nakoya Wilson |  | nakoyawilson | Trinidad and Tobago | 33 |

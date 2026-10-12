@@ -1,13 +1,13 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-12T19:02:40.010Z
+Generated: 2026-10-12T20:16:24.408Z
 
 Users: 2736
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 7743 |
-| 2 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev |  |  | Cyprus | 6174 |
+| 2 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev |  |  | Cyprus | 5626 |
 | 3 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Rackot production |  | Cyprus | 4627 |
 | 4 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou |  | GeorgeWebDev | Cyprus | 4307 |
 | 5 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 4279 |

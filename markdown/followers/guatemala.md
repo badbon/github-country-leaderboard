@@ -1,6 +1,6 @@
 # Followers - Guatemala
 
-Generated: 2026-10-12T19:09:24.307Z
+Generated: 2026-10-12T20:26:02.606Z
 
 Users: 3222
 
@@ -8,7 +8,7 @@ Users: 3222
 |---:|---|---|---|---|---|---:|
 | 1 | [ykro](https://github.com/ykro) | Adrián Catalán | Elemental Geeks |  | Guatemala | 434 |
 | 2 | [jorge-luis-perez-canto](https://github.com/jorge-luis-perez-canto) | Jorge Luis Pérez Canto | Cybersecurity \| Banking & Financial Services |  | Guatemala | 332 |
-| 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez |  |  | Guatemala | 308 |
+| 3 | [robertodevs](https://github.com/robertodevs) | Roberto Juarez |  |  | Guatemala | 305 |
 | 4 | [tuxtor](https://github.com/tuxtor) | Víctor Orozco |  | tuxtor | Guatemala | 298 |
 | 5 | [bryan967132](https://github.com/bryan967132) | Bryan Tejaxún | Universidad De San Carlos De Guatemala |  | Guatemala | 280 |
 | 6 | [micromasterandroid](https://github.com/micromasterandroid) | amoraleschan | Galileo University |  | Guatemala | 217 |
@@ -22,7 +22,7 @@ Users: 3222
 | 14 | [jinchuika](https://github.com/jinchuika) | Luis Carlos | PatientPoint Technologies |  | Guatemala | 136 |
 | 15 | [Elmnik](https://github.com/Elmnik) | Elmer Aguilar | BDG S.A |  | Guatemala | 134 |
 | 16 | [brandonT2002](https://github.com/brandonT2002) | Brandon Tejaxún | Universidad San Carlos de Guatemala | BrandonT1002 | Guatemala | 125 |
-| 17 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  |  |  | Guatemala | 123 |
+| 17 | [luislopez-dev](https://github.com/luislopez-dev) | Luis René López  | Pharmaceutical industry |  | Guatemala | 123 |
 | 18 | [Alvaro-SP](https://github.com/Alvaro-SP) | Alvaro Socop |  | socop2412 | Guatemala | 122 |
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  |  | gustavo_dev_ | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó |  |  | Guatemala | 117 |

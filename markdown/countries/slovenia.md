@@ -49,9 +49,9 @@ Indexed users: 3,103
 | 10 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
 | 11 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | Slovenia | 2,715 |
 | 12 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
-| 13 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
-| 14 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
-| 15 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,269 |
+| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
+| 14 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
+| 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
 | 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 2,097 |
 | 18 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | Ljubljana | 2,065 |
@@ -83,4 +83,4 @@ Indexed users: 3,103
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-12T18:33:38.793Z
+Generated: 2026-10-12T19:48:01.864Z

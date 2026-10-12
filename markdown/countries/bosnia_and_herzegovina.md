@@ -38,25 +38,25 @@ Indexed users: 2,128
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | Bosnia and Herzegovina | 5,766 |
-| 2 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 2,950 |
-| 3 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Sarajevo | 2,863 |
-| 4 | [goran1010](https://github.com/goran1010) | Goran Jović | Banja Luka, Bosnia and Herzegovina | 2,666 |
-| 5 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 2,647 |
-| 6 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 2,559 |
-| 7 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 2,043 |
-| 8 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,871 |
-| 9 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,787 |
-| 10 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,382 |
-| 11 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,374 |
-| 12 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,269 |
-| 13 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 1,249 |
-| 14 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,141 |
-| 15 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,095 |
-| 16 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 1,011 |
-| 17 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
-| 18 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 794 |
-| 19 | [FarisMujacic](https://github.com/FarisMujacic) | Faris Mujačić | Sarajevo | 725 |
-| 20 | [esensar](https://github.com/esensar) | Ensar Sarajčić | Sarajevo, Bosnia and Herzegovina | 719 |
+| 2 | [MaidCorbic](https://github.com/MaidCorbic) | Maid Čorbić | Tuzla, Bosnia and Herzegovina | 3,728 |
+| 3 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 2,950 |
+| 4 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Sarajevo | 2,863 |
+| 5 | [goran1010](https://github.com/goran1010) | Goran Jović | Banja Luka, Bosnia and Herzegovina | 2,666 |
+| 6 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 2,647 |
+| 7 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 2,559 |
+| 8 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 2,043 |
+| 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,871 |
+| 10 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,787 |
+| 11 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,382 |
+| 12 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,374 |
+| 13 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,269 |
+| 14 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 1,249 |
+| 15 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,141 |
+| 16 | [pixerize](https://github.com/pixerize) | Djordje Sajlovic | Sarajevo, Bosnia and Herzegovina | 1,095 |
+| 17 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 1,011 |
+| 18 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Istočno Sarajevo | 923 |
+| 19 | [new-AF](https://github.com/new-AF) | Abdullah Fatota | Sarajevo, BiH | 794 |
+| 20 | [FarisMujacic](https://github.com/FarisMujacic) | Faris Mujačić | Sarajevo | 725 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,128
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-12T18:55:14.683Z
+Generated: 2026-10-12T20:08:52.333Z

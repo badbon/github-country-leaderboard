@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-12T18:47:22.204Z
+Generated: 2026-10-12T20:00:39.525Z
 
 Users: 1184
 
@@ -14,7 +14,7 @@ Users: 1184
 | 6 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 1390 |
 | 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Western Balkan Univesity | kleo_j14 | Albania | 1243 |
 | 8 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 1070 |
-| 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 1001 |
+| 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 980 |
 | 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 901 |
 | 11 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 883 |
 | 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 744 |

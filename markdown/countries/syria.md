@@ -27,8 +27,8 @@ Indexed users: 1,481
 | 13 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Syria | 2,105 |
 | 14 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,029 |
 | 15 | [MahmoudSlameh](https://github.com/MahmoudSlameh) | Mahmoud Salameh | Damascus | 1,997 |
-| 16 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,986 |
-| 17 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,950 |
+| 16 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 1,950 |
+| 17 | [kutaibah](https://github.com/kutaibah) | Kutaibah Halima | Damascus, Syria | 1,906 |
 | 18 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,795 |
 | 19 | [Yazan-Alrefaai](https://github.com/Yazan-Alrefaai) | Yazan Alrefaai | Damascus, Syria | 1,744 |
 | 20 | [rasheed-k-mozaffar](https://github.com/rasheed-k-mozaffar) | Rasheed K Mozaffar | Damascus, Syria | 1,728 |
@@ -81,6 +81,6 @@ Indexed users: 1,481
 | 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg | Damascus... Syria | 123 |
 | 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud | Damascus | 114 |
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 102 |
-| 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
+| 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 
-Generated: 2026-10-12T18:37:17.946Z
+Generated: 2026-10-12T19:51:32.569Z

@@ -1,6 +1,6 @@
 # Followers - Ecuador
 
-Generated: 2026-10-12T19:05:16.667Z
+Generated: 2026-10-12T20:17:42.900Z
 
 Users: 4898
 
@@ -10,7 +10,7 @@ Users: 4898
 | 2 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Independent Developer | fastsquatch | Cuenca, Ecuador | 1263 |
 | 3 | [olabini](https://github.com/olabini) | Ola Bini | Centro de Autonomía Digital |  | Quito, Ecuador | 621 |
 | 4 | [danielaltamirano1993](https://github.com/danielaltamirano1993) | danielaltamiranoborja | Back-end and Front-end Developer  |  | Ecuador-Pichincha-Quito | 595 |
-| 5 | [GataNina-Li](https://github.com/GataNina-Li) | Gata Dios  | @Evolution-Global-Bots |  | Ecuador | 582 |
+| 5 | [GataNina-Li](https://github.com/GataNina-Li) | Gata Dios  | @Evolution-Global-Bots |  | Ecuador | 585 |
 | 6 | [stsewd](https://github.com/stsewd) | Santos Gallegos | @readthedocs  | stsewd | Ecuador | 531 |
 | 7 | [asantibanez](https://github.com/asantibanez) | Andrés Santibáñez | Andrés Santibáñez | asantibanez | Guayaquil, Ecuador | 514 |
 | 8 | [eythaann](https://github.com/eythaann) | Eythan David | @Seelen-Corp |  | Ecuador | 383 |

@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-12T18:54:05.115Z
+Generated: 2026-10-12T20:08:12.691Z
 
 Users: 899
 
@@ -16,13 +16,13 @@ Users: 899
 | 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7325 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 6466 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6148 |
-| 11 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 6002 |
+| 11 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 5990 |
 | 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 5969 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5544 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 4997 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4951 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Questown L.L.C. |  | Hamilton, Bermuda | 4426 |
 | 17 | [grantlucas](https://github.com/grantlucas) | Grant Lucas | @hostpapa  |  | Hamilton, Ontario | 4294 |
-| 18 | [adriand](https://github.com/adriand) | Adrian Duyzer |  |  | Hamilton, Ontario | 4106 |
-| 19 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4029 |
+| 18 | [izzudin96](https://github.com/izzudin96) | Izzudin Anuar | @initio-insurance |  | Hamilton | 4204 |
+| 19 | [adriand](https://github.com/adriand) | Adrian Duyzer |  |  | Hamilton, Ontario | 4106 |
 | 20 | [Stieneee](https://github.com/Stieneee) | Tyler Stiene |  | stieneee | Hamilton, Ontario | 3933 |

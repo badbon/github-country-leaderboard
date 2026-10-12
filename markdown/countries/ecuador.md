@@ -66,7 +66,7 @@ Indexed users: 4,898
 | 2 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Cuenca, Ecuador | 1,263 |
 | 3 | [olabini](https://github.com/olabini) | Ola Bini | Quito, Ecuador | 621 |
 | 4 | [danielaltamirano1993](https://github.com/danielaltamirano1993) | danielaltamiranoborja | Ecuador-Pichincha-Quito | 595 |
-| 5 | [GataNina-Li](https://github.com/GataNina-Li) | Gata Dios  | Ecuador | 582 |
+| 5 | [GataNina-Li](https://github.com/GataNina-Li) | Gata Dios  | Ecuador | 585 |
 | 6 | [stsewd](https://github.com/stsewd) | Santos Gallegos | Ecuador | 531 |
 | 7 | [asantibanez](https://github.com/asantibanez) | Andrés Santibáñez | Guayaquil, Ecuador | 514 |
 | 8 | [eythaann](https://github.com/eythaann) | Eythan David | Ecuador | 383 |
@@ -83,4 +83,4 @@ Indexed users: 4,898
 | 19 | [Davichobits](https://github.com/Davichobits) | David Ruiz | Ecuador | 116 |
 | 20 | [Bryan-Herrera-DEV](https://github.com/Bryan-Herrera-DEV) | Bryan Herrera ~ ርᚱ1ናተᛰ ᚻህᚥተპᚱ | Ecuador | 115 |
 
-Generated: 2026-10-12T19:05:16.667Z
+Generated: 2026-10-12T20:17:42.900Z

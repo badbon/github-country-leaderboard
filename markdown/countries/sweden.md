@@ -18,11 +18,11 @@ Indexed users: 39,049
 | 4 | [skaramicke](https://github.com/skaramicke) | Mikael Grön | Skara, Sweden | 34,746 |
 | 5 | [devghost](https://github.com/devghost) | Robert Blixt | Kungshamn, Sweden | 31,960 |
 | 6 | [assert-bot](https://github.com/assert-bot) |  | Stockholm | 31,285 |
-| 7 | [futhr](https://github.com/futhr) | Tobias Bohwalli | Gothenburg, Sweden | 28,009 |
-| 8 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Stockholm, Sweden | 26,840 |
-| 9 | [jonasb](https://github.com/jonasb) | Jonas Bengtsson | Malmö, Sweden | 26,612 |
-| 10 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Stockholm, Sweden | 25,161 |
-| 11 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Sweden | 23,705 |
+| 7 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Sweden | 29,236 |
+| 8 | [futhr](https://github.com/futhr) | Tobias Bohwalli | Gothenburg, Sweden | 28,009 |
+| 9 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Stockholm, Sweden | 26,840 |
+| 10 | [jonasb](https://github.com/jonasb) | Jonas Bengtsson | Malmö, Sweden | 26,612 |
+| 11 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Stockholm, Sweden | 25,161 |
 | 12 | [BadLiveware](https://github.com/BadLiveware) | Fredrik Larsson | Stockholm, Sweden | 22,955 |
 | 13 | [cwenner](https://github.com/cwenner) | Cenny | Stockholm, Sweden | 22,099 |
 | 14 | [fellanH](https://github.com/fellanH) | Felix Hellström | Stockholm | 21,860 |
@@ -83,4 +83,4 @@ Indexed users: 39,049
 | 19 | [tobiasahlin](https://github.com/tobiasahlin) | Tobias Ahlin | Sweden | 2,667 |
 | 20 | [sonyxperiadev](https://github.com/sonyxperiadev) | Sony – Developer World for Xperia | Sweden | 2,664 |
 
-Generated: 2026-10-12T18:37:12.166Z
+Generated: 2026-10-12T19:50:33.382Z

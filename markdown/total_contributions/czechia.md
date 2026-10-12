@@ -1,8 +1,8 @@
 # Total Contributions - Czechia
 
-Generated: 2026-10-12T19:03:13.788Z
+Generated: 2026-10-12T20:16:58.673Z
 
-Users: 16218
+Users: 16216
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,9 +14,9 @@ Users: 16218
 | 6 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň |  |  | Prague, Czechia | 18231 |
 | 7 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | @GoodData | martinnajemi | Prague, Czech Republic | 17779 |
 | 8 | [robertvokac](https://github.com/robertvokac) | Robert Vokac |  |  | Prague | 17358 |
-| 9 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen |  |  | Prague | 16700 |
-| 10 | [hejny](https://github.com/hejny) | Pavol Hejny | Promptbook | pavolhejny | Prague | 15062 |
-| 11 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | SCIO |  | Prague | 14678 |
+| 9 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | SCIO |  | Prague | 17262 |
+| 10 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen |  |  | Prague | 16700 |
+| 11 | [hejny](https://github.com/hejny) | Pavol Hejny | Promptbook | pavolhejny | Prague | 15062 |
 | 12 | [matej21](https://github.com/matej21) | David Matějka |  |  | Prague, Czech Republic | 14637 |
 | 13 | [klapuch](https://github.com/klapuch) | Dominik Klapuch |  |  | Czech Republic | 13602 |
 | 14 | [stanlymt](https://github.com/stanlymt) | Stanly Thomas | Paylocity |  | Prague | 13483 |

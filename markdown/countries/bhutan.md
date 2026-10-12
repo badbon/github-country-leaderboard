@@ -40,9 +40,9 @@ Indexed users: 268
 | 1 | [Kzoeps](https://github.com/Kzoeps) | Karma Zoepa Yoezer | Thimphu, Bhutan | 2,741 |
 | 2 | [Bomjan](https://github.com/Bomjan) | Sundra Builds | Thimphu | 1,035 |
 | 3 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | Thimphu, Bhutan | 1,007 |
-| 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,002 |
+| 4 | [guruwangchuk7](https://github.com/guruwangchuk7) | Guru Wangchuk | Bhutan | 1,004 |
 | 5 | [twangyel](https://github.com/twangyel) | Tandin Wangyel | Bhutan | 924 |
-| 6 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 857 |
+| 6 | [yesheytenzin](https://github.com/yesheytenzin) | tenz | Thimphu, Bhutan | 866 |
 | 7 | [grey300](https://github.com/grey300) | Tshering Gyeltshen | Bhutan | 742 |
 | 8 | [Choedra](https://github.com/Choedra) | Choedra Gyamtsho | Chubachu, Thimphu | 437 |
 | 9 | [SurajSunar](https://github.com/SurajSunar) | Suraj Sunar | Thimphu, Bhutan | 376 |
@@ -50,9 +50,9 @@ Indexed users: 268
 | 11 | [nimaytenzin](https://github.com/nimaytenzin) |  | Bhutan | 297 |
 | 12 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Thimphu Bhutan | 231 |
 | 13 | [aspee12](https://github.com/aspee12) | Sonam Phuntsho | Thimphu, IT Park | 186 |
-| 14 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 170 |
-| 15 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
-| 16 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 152 |
+| 14 | [devdgna](https://github.com/devdgna) | Dev | Kingdom of Bhutan | 174 |
+| 15 | [Tenzin-06](https://github.com/Tenzin-06) | Tenzin Tobgay | Bhutan | 161 |
+| 16 | [jigmetnamgyal](https://github.com/jigmetnamgyal) | Jigme Namgyal | Thimphu, Bhutan | 154 |
 | 17 | [bugloper](https://github.com/bugloper) | Nima Yonten | Thimphu Babesa | 143 |
 | 18 | [dorjizangpo-067](https://github.com/dorjizangpo-067) | Dorji Zangpo | Bhutan | 132 |
 | 19 | [teknatha136](https://github.com/teknatha136) | Tek Nath | Thimphu | 122 |
@@ -83,4 +83,4 @@ Indexed users: 268
 | 19 | [chimiWangchukWangdi](https://github.com/chimiWangchukWangdi) | Chimi Wangchuk Wangdi | Thimphu, Bhutan | 22 |
 | 20 | [devsangay](https://github.com/devsangay) | Sangay Wangdi | Bhutan | 22 |
 
-Generated: 2026-10-12T18:55:08.787Z
+Generated: 2026-10-12T20:08:18.097Z

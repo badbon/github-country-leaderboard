@@ -1,6 +1,6 @@
 # Total Contributions - Sweden
 
-Generated: 2026-10-12T18:37:12.166Z
+Generated: 2026-10-12T19:50:33.382Z
 
 Users: 39049
 
@@ -12,11 +12,11 @@ Users: 39049
 | 4 | [skaramicke](https://github.com/skaramicke) | Mikael Grön |  |  | Skara, Sweden | 34746 |
 | 5 | [devghost](https://github.com/devghost) | Robert Blixt | Zivrio | devghost | Kungshamn, Sweden | 31960 |
 | 6 | [assert-bot](https://github.com/assert-bot) |  | @KTH |  | Stockholm | 31285 |
-| 7 | [futhr](https://github.com/futhr) | Tobias Bohwalli | @myDevicesIoT  |  | Gothenburg, Sweden | 28009 |
-| 8 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Asynkron AB | rogeralsing | Stockholm, Sweden | 26840 |
-| 9 | [jonasb](https://github.com/jonasb) | Jonas Bengtsson |  |  | Malmö, Sweden | 26612 |
-| 10 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Coder Society |  | Stockholm, Sweden | 25161 |
-| 11 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Coffee Code Studio  |  | Sweden | 23705 |
+| 7 | [CoffeeCodeStudio](https://github.com/CoffeeCodeStudio) | Rami E | Coffee Code Studio  |  | Sweden | 29236 |
+| 8 | [futhr](https://github.com/futhr) | Tobias Bohwalli | @myDevicesIoT  |  | Gothenburg, Sweden | 28009 |
+| 9 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Asynkron AB | rogeralsing | Stockholm, Sweden | 26840 |
+| 10 | [jonasb](https://github.com/jonasb) | Jonas Bengtsson |  |  | Malmö, Sweden | 26612 |
+| 11 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Coder Society |  | Stockholm, Sweden | 25161 |
 | 12 | [BadLiveware](https://github.com/BadLiveware) | Fredrik Larsson | Tradera |  | Stockholm, Sweden | 22955 |
 | 13 | [cwenner](https://github.com/cwenner) | Cenny | Tandem Health, Omnimodular |  | Stockholm, Sweden | 22099 |
 | 14 | [fellanH](https://github.com/fellanH) | Felix Hellström | Stormfors | hellstromfelix | Stockholm | 21860 |

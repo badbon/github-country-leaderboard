@@ -1,6 +1,6 @@
 # Czechia
 
-Indexed users: 16,218
+Indexed users: 16,216
 
 | Leaderboard | Link |
 |---|---|
@@ -20,9 +20,9 @@ Indexed users: 16,218
 | 6 | [ghostON3](https://github.com/ghostON3) | Michal Duchoň | Prague, Czechia | 18,231 |
 | 7 | [martinnaj](https://github.com/martinnaj) | Martin Najemi | Prague, Czech Republic | 17,779 |
 | 8 | [robertvokac](https://github.com/robertvokac) | Robert Vokac | Prague | 17,358 |
-| 9 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen | Prague | 16,700 |
-| 10 | [hejny](https://github.com/hejny) | Pavol Hejny | Prague | 15,062 |
-| 11 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | Prague | 14,678 |
+| 9 | [jankalasnikov47](https://github.com/jankalasnikov47) | Jan Kalasnikov | Prague | 17,262 |
+| 10 | [mikevercoelen](https://github.com/mikevercoelen) | Mike Vercoelen | Prague | 16,700 |
+| 11 | [hejny](https://github.com/hejny) | Pavol Hejny | Prague | 15,062 |
 | 12 | [matej21](https://github.com/matej21) | David Matějka | Prague, Czech Republic | 14,637 |
 | 13 | [klapuch](https://github.com/klapuch) | Dominik Klapuch | Czech Republic | 13,602 |
 | 14 | [stanlymt](https://github.com/stanlymt) | Stanly Thomas | Prague | 13,483 |
@@ -83,4 +83,4 @@ Indexed users: 16,218
 | 19 | [wbenny](https://github.com/wbenny) | Petr Beneš | Brno, Czech Republic | 877 |
 | 20 | [ondras](https://github.com/ondras) | Ondřej Žára | Prague | 840 |
 
-Generated: 2026-10-12T19:03:13.788Z
+Generated: 2026-10-12T20:16:58.673Z

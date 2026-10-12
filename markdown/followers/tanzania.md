@@ -1,6 +1,6 @@
 # Followers - Tanzania
 
-Generated: 2026-10-12T18:38:32.251Z
+Generated: 2026-10-12T19:52:52.732Z
 
 Users: 2041
 
@@ -11,7 +11,7 @@ Users: 2041
 | 3 | [lykmapipo](https://github.com/lykmapipo) | lally elias | @tehamalab @anzalab @CodeTanzania |  | Dar es salaam, Tanzania | 1119 |
 | 4 | [karimshaban01](https://github.com/karimshaban01) | Karim S. Haruna |  | OficialKareem | ARUSHA, TANZANIA | 1070 |
 | 5 | [avict18](https://github.com/avict18) | Aaron Vic | Ziplies |  | Tanzania | 1025 |
-| 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | @NeuroTech-HQ | j_kalebu | Dar es Salaam , Tanzania | 949 |
+| 6 | [Kalebu](https://github.com/Kalebu) | Jordan Kalebu | @NeuroTech-HQ | j_kalebu | Dar es Salaam , Tanzania | 955 |
 | 7 | [isaka-james](https://github.com/isaka-james) | masterplan | @innotake |  | Dodoma, Tanzania | 553 |
 | 8 | [gernest](https://github.com/gernest) | Geofrey Ernest |  |  | Arusha, Tanzania | 412 |
 | 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | TarXemo |  | Dodoma-Tanzania | 409 |
@@ -19,7 +19,7 @@ Users: 2041
 | 11 | [benny-png](https://github.com/benny-png) | Benjamin Maziku Mashimba | 3D & Robotics Lab UDSM |  | Dar Es Salaam, TANZANIA | 379 |
 | 12 | [TripleHat](https://github.com/TripleHat) |  |  | tripl3hat | Tanzania | 295 |
 | 13 | [gilbertmunuotz](https://github.com/gilbertmunuotz) | Gilbert Munuo | Remote | gilbertmunuotz | Tanzania | 251 |
-| 14 | [Pheogrammer](https://github.com/Pheogrammer) | Alfeo Raymond |  | pheogrammer | Dar es salaam, Tanzania | 217 |
+| 14 | [Pheogrammer](https://github.com/Pheogrammer) | Alfeo Raymond |  | pheogrammer | Dar es salaam, Tanzania | 219 |
 | 15 | [AvicennaJr](https://github.com/AvicennaJr) | Avicenna |  |  | Dar Es Salaam, Tanzania | 216 |
 | 16 | [shadrackjm](https://github.com/shadrackjm) | Shadrack Mballah |  |  | Dar es Salaam, Tanzania | 214 |
 | 17 | [Jelius47](https://github.com/Jelius47) | jelius | Eaestern Africa Statistical Training Center | jelius07 | Tanzania | 203 |

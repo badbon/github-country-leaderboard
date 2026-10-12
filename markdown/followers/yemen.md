@@ -1,12 +1,12 @@
 # Followers - Yemen
 
-Generated: 2026-10-12T18:45:54.765Z
+Generated: 2026-10-12T19:58:09.017Z
 
 Users: 1207
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid |  |  | Yemen | 7557 |
+| 1 | [mbahomaid](https://github.com/mbahomaid) | Mustafa Bahomaid |  |  | Yemen | 7552 |
 | 2 | [OsamaAlmamri](https://github.com/OsamaAlmamri) | Osama Al-mamari  | Tazamun |  | Sana'a ,Yemen | 922 |
 | 3 | [SaraAhmed1999](https://github.com/SaraAhmed1999) | Sara Ahmed |  |  | Yemen | 891 |
 | 4 | [Asbaharoon](https://github.com/Asbaharoon) | Abdullah Baharoon | @openjdk and @graalvm  |  | Yemen | 686 |
@@ -19,7 +19,7 @@ Users: 1207
 | 11 | [doctor-he](https://github.com/doctor-he) | Dr. He |  |  | Yemen, Sanaa | 273 |
 | 12 | [AymanAltairi73](https://github.com/AymanAltairi73) | Ayman Ahmed Altairi  | Freelancer |  | Yemen/Mukalla | 272 |
 | 13 | [suaad997](https://github.com/suaad997) | SuadAljuaid | UST Unversity |  | yemen ,sana'a | 228 |
-| 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️ |  | YEMEN | 186 |
+| 14 | [mrpythonfpi](https://github.com/mrpythonfpi) | 𝐌r𝐏𝐘𝐓𝐇𝐎𝐍🎩༒ | 𝗦𝗘𝗖𝗥𝗘𝗧 𝗡𝗘𝗧 ⋆ 🏴‍☠️ |  | YEMEN | 187 |
 | 15 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 182 |
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | alemadtr.com |  | Yemen | 172 |
 | 17 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 160 |

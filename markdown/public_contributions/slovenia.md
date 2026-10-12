@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-12T18:33:38.793Z
+Generated: 2026-10-12T19:48:01.864Z
 
 Users: 3103
 
@@ -18,9 +18,9 @@ Users: 3103
 | 10 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2825 |
 | 11 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | LUXIM d.o.o. |  | Slovenia | 2715 |
 | 12 | [majazaloznik](https://github.com/majazaloznik) | maja | ox.ac.uk |  | oxford--ljubljana | 2581 |
-| 13 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2351 |
-| 14 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
-| 15 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2269 |
+| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
+| 14 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2351 |
+| 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |
 | 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 2097 |
 | 18 | [kubus-project](https://github.com/kubus-project) | Rok Černezel | kubus |  | Ljubljana | 2065 |

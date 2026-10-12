@@ -1,8 +1,8 @@
 # Followers - Guadeloupe
 
-Generated: 2026-10-12T19:09:17.317Z
+Generated: 2026-10-12T20:25:02.347Z
 
-Users: 87
+Users: 86
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 87
 | 13 | [YannickSF](https://github.com/YannickSF) | Yannick S. F |  | _symba7 | Guadeloupe | 8 |
 | 14 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR |  |  | Guadeloupe (FWI) | 7 |
 | 15 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta |  | GBAccetta | Guadeloupe | 7 |
-| 16 | [L-Dev31](https://github.com/L-Dev31) | Léo TOSKU |  |  | Guadeloupe | 7 |
-| 17 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 7 |
-| 18 | [Yoel-PEPIN](https://github.com/Yoel-PEPIN) | Yoël Pépin | @Digitom |  | Guadeloupe | 7 |
-| 19 | [Clement97712](https://github.com/Clement97712) |  |  |  | Guadeloupe | 6 |
-| 20 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ |  |  | Guadeloupe | 6 |
+| 16 | [sype](https://github.com/sype) | Sebastien Pincemail | @wefactorit | wefactorit | Paris / Guadeloupe | 7 |
+| 17 | [Yoel-PEPIN](https://github.com/Yoel-PEPIN) | Yoël Pépin | @Digitom |  | Guadeloupe | 7 |
+| 18 | [Clement97712](https://github.com/Clement97712) |  |  |  | Guadeloupe | 6 |
+| 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ |  |  | Guadeloupe | 6 |
+| 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Kulipa |  | Guadeloupe, West-Indies | 6 |

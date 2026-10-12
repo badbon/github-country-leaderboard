@@ -38,7 +38,7 @@ Indexed users: 2,736
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 7,743 |
-| 2 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 6,174 |
+| 2 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 5,626 |
 | 3 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
 | 4 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 4,307 |
 | 5 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,279 |
@@ -83,4 +83,4 @@ Indexed users: 2,736
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-12T19:02:40.010Z
+Generated: 2026-10-12T20:16:24.408Z

@@ -28,7 +28,7 @@ Indexed users: 699
 | 14 | [hktom](https://github.com/hktom) | Tom Hikari | Congo Kinshasa | 5,007 |
 | 15 | [bilwifi](https://github.com/bilwifi) | Peniel DIALUNDAMA | Kinshasa, DRC | 4,946 |
 | 16 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 4,935 |
-| 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,745 |
+| 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,798 |
 | 18 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,543 |
 | 19 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,493 |
 | 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,403 |
@@ -56,7 +56,7 @@ Indexed users: 699
 | 17 | [Mgreat01](https://github.com/Mgreat01) | ephraim monga ( ambassadeur 🥷) | KINSHASA / RD CONGO | 782 |
 | 18 | [AngisheSALEM](https://github.com/AngisheSALEM) | Salem Angishe  | Kinshasa  | 736 |
 | 19 | [silasmas](https://github.com/silasmas) | silasmas | kinshasa | 700 |
-| 20 | [arnold722](https://github.com/arnold722) | Arnold Leonce | Bukavu, DR Congo | 662 |
+| 20 | [arnold722](https://github.com/arnold722) | Arnold Leonce | Bukavu, DR Congo | 665 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-12T19:05:13.966Z
+Generated: 2026-10-12T20:17:39.237Z
