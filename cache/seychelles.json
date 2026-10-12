@@ -16099,7 +16099,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 768,
+    "privateContributions": 1019,
     "publicContributions": 15,
     "createdAt": "2014-08-10T21:50:31Z"
   },
@@ -16135,7 +16135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
+    "privateContributions": 22,
     "publicContributions": 0,
     "createdAt": "2014-05-06T21:43:19Z"
   },
@@ -16208,7 +16208,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 18,
     "createdAt": "2014-01-07T22:51:37Z"
   },
   {
@@ -16220,7 +16220,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 170,
+    "publicContributions": 150,
     "createdAt": "2014-02-01T03:19:06Z"
   },
   {
@@ -16267,7 +16267,7 @@
     "company": "Wizeline",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 280,
+    "privateContributions": 437,
     "publicContributions": 1,
     "createdAt": "2014-01-31T04:23:59Z"
   },
@@ -16291,7 +16291,7 @@
     "company": "IRIS Dynamics Limited",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 372,
+    "privateContributions": 329,
     "publicContributions": 0,
     "createdAt": "2014-02-03T23:00:55Z"
   },
@@ -16302,21 +16302,21 @@
     "location": "Victoria, Seychelles",
     "company": "",
     "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 2143,
+    "followers": 17,
+    "privateContributions": 2857,
     "publicContributions": 3,
     "createdAt": "2013-01-14T23:20:05Z"
   },
   {
     "login": "FeodorFitsner",
     "name": "Feodor Fitsner",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5041459?s=72&u=aab4beb0b1f3c874b44cd5f416c71c6775d1223c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5041459?s=72&u=447008ea21d6271c5a4f7237b772c419988e9349&v=4",
     "location": "Victoria, BC",
-    "company": "AppVeyor Systems Inc.",
+    "company": "Flet HQ",
     "twitterUsername": "",
-    "followers": 727,
+    "followers": 735,
     "privateContributions": 0,
-    "publicContributions": 1098,
+    "publicContributions": 1214,
     "createdAt": "2013-07-18T17:58:00Z"
   },
   {
@@ -16326,8 +16326,8 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 77,
-    "privateContributions": 11,
+    "followers": 76,
+    "privateContributions": 9,
     "publicContributions": 7,
     "createdAt": "2013-04-04T19:01:05Z"
   },

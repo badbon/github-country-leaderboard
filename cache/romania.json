@@ -16081,14 +16081,14 @@
   },
   {
     "login": "Cristi3956",
-    "name": "",
+    "name": "Cristian Pop",
     "avatarUrl": "https://avatars.githubusercontent.com/u/126018018?s=72&v=4",
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2023-02-21T19:34:31Z"
   },
   {
@@ -16135,7 +16135,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3199,
+    "privateContributions": 2639,
     "publicContributions": 129,
     "createdAt": "2023-05-24T08:19:17Z"
   },
@@ -16147,8 +16147,8 @@
     "company": "University Politehnica of Bucharest",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 28,
-    "publicContributions": 13,
+    "privateContributions": 21,
+    "publicContributions": 7,
     "createdAt": "2023-08-14T10:45:12Z"
   },
   {
@@ -16196,7 +16196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 61,
     "createdAt": "2023-07-28T06:09:43Z"
   },
   {
@@ -16207,7 +16207,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 208,
+    "privateContributions": 257,
     "publicContributions": 1,
     "createdAt": "2023-03-27T19:31:35Z"
   },
@@ -16219,7 +16219,7 @@
     "company": "@Agilefreaks ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 180,
+    "privateContributions": 163,
     "publicContributions": 290,
     "createdAt": "2023-02-20T08:34:42Z"
   },
@@ -16262,26 +16262,14 @@
   {
     "login": "antoniastefania",
     "name": "Antonia-Stefania Andrei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/149198260?s=72&u=e66fe0782140ebc9bb680b30e117d3d4ac301e96&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149198260?s=72&u=2bcbb42a8360dbdb7b3acd49e7c8a0a2c6697f55&v=4",
     "location": "Bucharest, Romania",
     "company": "Universitatea Politehnica, Facultatea de Automatica si Calculatoare",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2023-10-27T18:31:19Z"
-  },
-  {
-    "login": "AlexCri5an",
-    "name": "Alexandru Crișan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152699572?s=72&u=808d8f675f097c7696ad36a61b78b2c4d30df7e2&v=4",
-    "location": "Cluj-Napoca, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 191,
     "publicContributions": 15,
-    "createdAt": "2023-12-02T12:21:34Z"
+    "createdAt": "2023-10-27T18:31:19Z"
   },
   {
     "login": "BogdanLes",

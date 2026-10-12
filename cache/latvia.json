@@ -15716,7 +15716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2019-08-09T10:36:20Z"
   },
   {
@@ -15788,7 +15788,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 5,
     "createdAt": "2019-01-20T13:54:23Z"
   },
   {
@@ -15799,7 +15799,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2019-06-17T16:41:34Z"
   },
@@ -15810,9 +15810,9 @@
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 13,
     "createdAt": "2019-05-23T18:09:58Z"
   },
   {
@@ -15824,7 +15824,7 @@
     "twitterUsername": "JohnHNewland",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2019-09-13T12:48:44Z"
   },
   {
@@ -15835,8 +15835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 658,
-    "publicContributions": 181,
+    "privateContributions": 688,
+    "publicContributions": 145,
     "createdAt": "2019-11-12T15:40:23Z"
   },
   {
@@ -15847,8 +15847,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 329,
-    "publicContributions": 18,
+    "privateContributions": 336,
+    "publicContributions": 14,
     "createdAt": "2019-09-15T16:01:55Z"
   },
   {
@@ -15859,20 +15859,20 @@
     "company": "Tietoevry",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 147,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2019-09-08T11:52:51Z"
   },
   {
     "login": "vkondratjevs",
     "name": "Vladimirs Kondratjevs",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46796847?s=72&u=e82bd97fe3eda856766764631d57eefc3ff2a132&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/46796847?s=72&u=96794eef76b4c891758e74f093827014e6e7288c&v=4",
     "location": "Riga",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 26,
     "createdAt": "2019-01-17T20:47:39Z"
   },
   {
@@ -15883,8 +15883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
+    "privateContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2019-12-12T12:38:46Z"
   },
   {
@@ -15920,7 +15920,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2019-06-16T12:06:33Z"
   },
   {

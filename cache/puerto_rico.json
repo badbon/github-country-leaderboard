@@ -16160,7 +16160,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 52,
     "createdAt": "2013-07-05T02:48:55Z"
   },
   {
@@ -16171,8 +16171,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 776,
-    "publicContributions": 1,
+    "privateContributions": 1130,
+    "publicContributions": 3,
     "createdAt": "2013-01-25T23:30:24Z"
   },
   {
@@ -16196,7 +16196,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 30,
     "createdAt": "2013-12-05T15:59:18Z"
   },
   {
@@ -16244,7 +16244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 135,
+    "publicContributions": 134,
     "createdAt": "2013-08-05T13:31:43Z"
   },
   {
@@ -16267,8 +16267,8 @@
     "company": "R|com Studios, LLC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 1,
+    "privateContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2013-01-17T22:09:22Z"
   },
   {
@@ -16290,9 +16290,9 @@
     "location": "Puerto Rico",
     "company": "@paritytech ",
     "twitterUsername": "shawntabrizi",
-    "followers": 1112,
-    "privateContributions": 2545,
-    "publicContributions": 2265,
+    "followers": 1114,
+    "privateContributions": 3576,
+    "publicContributions": 2993,
     "createdAt": "2012-06-18T01:53:04Z"
   },
   {
@@ -16302,9 +16302,9 @@
     "location": "San Juan, Puerto Rico",
     "company": "@RhettCreighton",
     "twitterUsername": "",
-    "followers": 170,
-    "privateContributions": 29978,
-    "publicContributions": 4936,
+    "followers": 169,
+    "privateContributions": 26459,
+    "publicContributions": 12316,
     "createdAt": "2012-09-20T18:33:42Z"
   },
   {
@@ -16314,9 +16314,9 @@
     "location": "Puerto Rico",
     "company": "@google",
     "twitterUsername": "",
-    "followers": 148,
+    "followers": 149,
     "privateContributions": 45,
-    "publicContributions": 298,
+    "publicContributions": 173,
     "createdAt": "2012-06-13T03:01:37Z"
   },
   {
@@ -16326,9 +16326,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 122,
+    "followers": 121,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2012-05-27T22:56:50Z"
   },
   {
@@ -16338,21 +16338,21 @@
     "location": "Puerto Rico",
     "company": "JegoYalu",
     "twitterUsername": "",
-    "followers": 107,
+    "followers": 106,
     "privateContributions": 0,
-    "publicContributions": 818,
+    "publicContributions": 940,
     "createdAt": "2012-05-03T13:54:55Z"
   },
   {
     "login": "bmouler",
     "name": "Bert Mouler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2917428?s=72&u=2e86a89d1b78b20f8b1fe221ada4015b75ebe72f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/2917428?s=72&u=88025f4264e35c7c6c896c83f5d7c62362cd0578&v=4",
     "location": "Puerto Rico",
     "company": "Profluent Group LLC",
     "twitterUsername": "bmouler",
     "followers": 87,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 93,
     "createdAt": "2012-11-29T02:43:26Z"
   },
   {
@@ -16362,9 +16362,9 @@
     "location": "Puerto Rico",
     "company": "@KDAB",
     "twitterUsername": "JCuperino",
-    "followers": 68,
-    "privateContributions": 52,
-    "publicContributions": 549,
+    "followers": 72,
+    "privateContributions": 68,
+    "publicContributions": 542,
     "createdAt": "2012-06-11T23:02:06Z"
   },
   {

@@ -217906,5 +217906,77 @@
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2022-10-06T04:38:31Z"
+  },
+  {
+    "login": "kanitta-rsp",
+    "name": "Kanitta Ruaysap",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294402178?s=72&v=4",
+    "location": "University of Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-17T06:02:53Z"
+  },
+  {
+    "login": "stopinspb1-pixel",
+    "name": "Gennadiy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284713180?s=72&u=267a8714f97282e40d320a8bdf5279981dc7899a&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2026-05-14T16:07:30Z"
+  },
+  {
+    "login": "alexkruppy",
+    "name": "Alex Krupnov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288427318?s=72&u=fe046161c4cd211e2b6095ff86b4f9c6c877876c&v=4",
+    "location": "Helsinki",
+    "company": "Intelline",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 222,
+    "createdAt": "2026-05-27T19:14:53Z"
+  },
+  {
+    "login": "MatiasLaukka",
+    "name": "Matias Laukka",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284962444?s=72&u=73efc99a1686880e67f55094e667ab23b6646fb5&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 734,
+    "createdAt": "2026-05-15T13:22:36Z"
+  },
+  {
+    "login": "salagkdim",
+    "name": "Dimitrios Salagkoudis",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292101333?s=72&u=401e2a29e41f991f52ae5b4ed31498e675154a13&v=4",
+    "location": "Helsinki",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 36,
+    "publicContributions": 7,
+    "createdAt": "2026-06-09T12:00:08Z"
+  },
+  {
+    "login": "anttipajunen-ff",
+    "name": "Antti Pajunen",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288307321?s=72&u=c99195b8cc1826057ba042feae1aa47fd7842b87&v=4",
+    "location": "Helsinki",
+    "company": "Forward Forever",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-05-27T11:45:24Z"
   }
 ]

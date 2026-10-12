@@ -15884,7 +15884,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 20,
     "createdAt": "2021-12-28T10:58:25Z"
   },
   {
@@ -15895,7 +15895,7 @@
     "company": "Rauan and company",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 133,
+    "privateContributions": 150,
     "publicContributions": 490,
     "createdAt": "2022-01-25T16:46:27Z"
   },
@@ -15908,7 +15908,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 32,
     "createdAt": "2022-10-09T14:18:44Z"
   },
   {
@@ -15919,20 +15919,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 57,
-    "publicContributions": 132,
+    "privateContributions": 85,
+    "publicContributions": 127,
     "createdAt": "2022-04-30T06:37:24Z"
   },
   {
     "login": "maoroch",
-    "name": "Ilyas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/111112631?s=72&u=09a3501fe29804b3faae9a896a47139efa27a400&v=4",
+    "name": "Ilyas Salimov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/111112631?s=72&u=7d330e0f4fe9ea4895e05fc8d2e894440b5b2b39&v=4",
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 477,
-    "publicContributions": 338,
+    "followers": 8,
+    "privateContributions": 808,
+    "publicContributions": 148,
     "createdAt": "2022-08-12T07:07:35Z"
   },
   {
@@ -15942,9 +15942,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 309,
-    "publicContributions": 135,
+    "followers": 10,
+    "privateContributions": 321,
+    "publicContributions": 130,
     "createdAt": "2022-08-23T10:04:19Z"
   },
   {
@@ -15954,7 +15954,7 @@
     "location": "Kazakhstan, Nur-Sultan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-21T07:36:58Z"
@@ -15968,7 +15968,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2022-04-25T13:45:21Z"
   },
   {
@@ -15979,8 +15979,8 @@
     "company": "SDU",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 2814,
-    "publicContributions": 28,
+    "privateContributions": 2875,
+    "publicContributions": 4,
     "createdAt": "2022-12-15T15:28:19Z"
   },
   {
@@ -15990,7 +15990,7 @@
     "location": "Astana, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2022-09-10T11:52:23Z"
@@ -16004,7 +16004,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 38,
     "createdAt": "2022-10-21T14:45:26Z"
   },
   {
@@ -16020,27 +16020,15 @@
     "createdAt": "2022-11-23T09:33:59Z"
   },
   {
-    "login": "Ilyushya",
-    "name": "Ilya Sokolov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98094811?s=72&u=577a2f7e21c34aba099be65eaa1e3b0ac0fd6118&v=4",
-    "location": "Almaty, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 102,
-    "publicContributions": 0,
-    "createdAt": "2022-01-20T11:50:04Z"
-  },
-  {
     "login": "salamqt",
     "name": "Salamat",
     "avatarUrl": "https://avatars.githubusercontent.com/u/102606434?s=72&u=f1055496a3f74fadc4d60d146880dfd44495ee14&v=4",
     "location": "Kazakhstan, Almaty",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 27,
-    "publicContributions": 36,
+    "followers": 7,
+    "privateContributions": 26,
+    "publicContributions": 29,
     "createdAt": "2022-03-29T14:36:27Z"
   },
   {
@@ -16063,7 +16051,7 @@
     "company": "KBTU",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 2,
+    "privateContributions": 1,
     "publicContributions": 6,
     "createdAt": "2022-07-20T16:35:08Z"
   },
@@ -16074,9 +16062,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1517,
-    "publicContributions": 38,
+    "followers": 9,
+    "privateContributions": 1783,
+    "publicContributions": 36,
     "createdAt": "2022-09-06T07:12:47Z"
   },
   {
@@ -16098,9 +16086,9 @@
     "location": "Almaty, Kazakhstan",
     "company": "@Nomis-cc",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1066,
-    "publicContributions": 55,
+    "followers": 12,
+    "privateContributions": 1096,
+    "publicContributions": 52,
     "createdAt": "2022-06-02T22:00:06Z"
   },
   {
@@ -16112,7 +16100,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 401,
+    "publicContributions": 449,
     "createdAt": "2022-11-19T12:55:57Z"
   },
   {

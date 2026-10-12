@@ -16254,7 +16254,7 @@
     "location": "Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2016-02-21T15:39:32Z"
@@ -16279,7 +16279,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 24,
+    "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2016-05-26T13:56:59Z"
   },
@@ -16302,9 +16302,9 @@
     "location": "Macedonia",
     "company": "",
     "twitterUsername": "mHtR1337",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 8,
     "createdAt": "2016-10-25T20:14:43Z"
   },
   {
@@ -16316,7 +16316,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 92,
+    "publicContributions": 91,
     "createdAt": "2016-05-01T06:58:30Z"
   },
   {
@@ -16364,7 +16364,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 7,
     "createdAt": "2016-01-22T12:53:23Z"
   },
   {
@@ -16402,18 +16402,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-09-17T23:22:50Z"
-  },
-  {
-    "login": "StefanSquared",
-    "name": "Stefan Stefanovski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17151961?s=72&u=5a14981b2dc6638b11a5bfe7307f4f0e7b16e553&v=4",
-    "location": "Skopje, Macedonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 0,
-    "createdAt": "2016-02-09T23:00:42Z"
   },
   {
     "login": "dimi3evski",
@@ -16459,8 +16447,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 868,
-    "publicContributions": 2,
+    "privateContributions": 1146,
+    "publicContributions": 1,
     "createdAt": "2016-10-18T14:29:07Z"
   },
   {
