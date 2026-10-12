@@ -1,6 +1,6 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-12T09:32:19.458Z
+Generated: 2026-10-12T10:41:15.601Z
 
 Users: 742
 
@@ -13,7 +13,7 @@ Users: 742
 | 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 12266 |
 | 6 | [ayagaidi](https://github.com/ayagaidi) | Yaya |  |  |  Tripoli, Libya  | 9392 |
 | 7 | [Sokanon](https://github.com/Sokanon) | So | @beyondtheinnovation  | Sokanon_ | Libya | 9243 |
-| 8 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 9106 |
+| 8 | [Tellesy](https://github.com/Tellesy) | blueMu | @Ethaq  |  | Tripoli, Libya | 9144 |
 | 9 | [radwan-77](https://github.com/radwan-77) | RADWAN |  |  | Libya | 7856 |
 | 10 | [GaafarBBK](https://github.com/GaafarBBK) | Mohamed Gaafar |  |  | Libya | 7794 |
 | 11 | [Elsheshtawwy](https://github.com/Elsheshtawwy) | Badr Elsheshtawy |  | El_Sheshtawwy | Benghazi, Libya 🇱🇾 | 6789 |

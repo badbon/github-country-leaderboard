@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-12T09:39:05.656Z
+Generated: 2026-10-12T10:49:12.125Z
 
 Users: 476
 
@@ -20,9 +20,9 @@ Users: 476
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | iNstar inc |  | Windhoek, Namibia | 355 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 290 |
 | 14 | [PascalMTK](https://github.com/PascalMTK) |  |  |  | Windhoek - Namibia | 271 |
-| 15 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 265 |
+| 15 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | @erongo  |  | Walvis Bay, Namibia | 266 |
 | 16 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Technology  |  | Namibia, Windhoek | 263 |
-| 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
-| 18 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
-| 19 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 243 |
-| 20 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung |  |  | Windhoek, Namibia | 233 |
+| 17 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 259 |
+| 18 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout |  |  | Windhoek, Namibia | 250 |
+| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 243 |
+| 20 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | The Document Warehouse Namibia |  | Namibia | 243 |

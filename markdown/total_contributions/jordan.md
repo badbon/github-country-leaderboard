@@ -1,8 +1,8 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-12T09:29:18.412Z
+Generated: 2026-10-12T10:39:46.417Z
 
-Users: 4018
+Users: 4017
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,7 +11,7 @@ Users: 4018
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Syarah - TechWadi |  | Amman, Jordan | 10839 |
 | 4 | [samertall](https://github.com/samertall) | Samer Tallauze | SamerTallauze |  | Amman, Jordan | 8574 |
 | 5 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 8035 |
-| 6 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6447 |
+| 6 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | @Solutions-Now | OsamaAssaf2k | Jordan | 6492 |
 | 7 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T |  |  | Jordan | 6128 |
 | 8 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Simplify9 |  | Amman, Jordan | 6105 |
 | 9 | [htirawi](https://github.com/htirawi) | Hussein Tirawi |  |  | Jordan | 5976 |

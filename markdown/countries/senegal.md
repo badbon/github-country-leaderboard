@@ -74,7 +74,7 @@ Indexed users: 1,356
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Dakar | 192 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | Senegal | 180 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | Dakar | 180 |
-| 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko | Dakar, Senegal | 172 |
+| 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko | Dakar, Senegal | 171 |
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | Dakar | 168 |
 | 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Dakar, Sn | 165 |
 | 16 | [kasali](https://github.com/kasali) | kasali | Dakar Sénégal | 154 |
@@ -83,4 +83,4 @@ Indexed users: 1,356
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-12T09:50:23.967Z
+Generated: 2026-10-12T11:00:33.623Z

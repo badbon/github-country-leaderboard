@@ -52,8 +52,8 @@ Indexed users: 798
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 623 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 610 |
 | 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
-| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 531 |
-| 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 518 |
+| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
+| 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 529 |
 | 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 490 |
 | 19 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 447 |
 | 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 441 |
@@ -83,4 +83,4 @@ Indexed users: 798
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-12T09:29:31.637Z
+Generated: 2026-10-12T10:40:16.253Z

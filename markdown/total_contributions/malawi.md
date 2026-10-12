@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-12T09:34:58.523Z
+Generated: 2026-10-12T10:42:31.473Z
 
 Users: 900
 
@@ -18,9 +18,9 @@ Users: 900
 | 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4708 |
 | 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 4494 |
 | 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga |  |  | Mzuzu, Malawi | 4063 |
-| 13 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 3913 |
+| 13 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 3931 |
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3687 |
-| 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3452 |
+| 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3455 |
 | 16 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
 | 17 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3194 |
 | 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3137 |

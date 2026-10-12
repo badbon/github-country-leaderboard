@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-12T09:34:13.427Z
+Generated: 2026-10-12T10:42:27.052Z
 
 Users: 1906
 
@@ -20,8 +20,8 @@ Users: 1906
 | 12 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1738 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1706 |
 | 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1623 |
-| 15 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
-| 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1558 |
+| 15 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1589 |
+| 16 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
 | 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
 | 18 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1535 |
 | 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1486 |

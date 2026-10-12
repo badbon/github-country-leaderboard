@@ -13,8 +13,8 @@ Indexed users: 714
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,288 |
-| 2 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,325 |
-| 3 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,310 |
+| 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,700 |
+| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,325 |
 | 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,612 |
 | 5 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,584 |
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,334 |
@@ -29,7 +29,7 @@ Indexed users: 714
 | 15 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,798 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,791 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,730 |
-| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,270 |
+| 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,281 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,262 |
 | 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,042 |
 
@@ -76,11 +76,11 @@ Indexed users: 714
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 98 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Mauritius | 93 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | Mauritius | 86 |
-| 15 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 84 |
-| 16 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
+| 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner | Mauritius | 84 |
+| 16 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | Mauritius | 83 |
 | 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 81 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | Mauritius | 75 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-12T09:37:00.095Z
+Generated: 2026-10-12T10:45:27.848Z

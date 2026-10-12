@@ -22,7 +22,7 @@ Indexed users: 289
 | 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Nouakchott, Mauritania | 2,851 |
 | 9 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 2,749 |
 | 10 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar | Nouakchott, Mauritania | 2,341 |
-| 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,324 |
+| 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 2,330 |
 | 12 | [salembaira](https://github.com/salembaira) | Mohamed Salem BAIRA | Nouakchott, Mauritania | 2,263 |
 | 13 | [va0000ll](https://github.com/va0000ll) | mohamedvall ibrahim | Nouakchott, Mauritania | 1,776 |
 | 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,722 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-12T09:36:53.783Z
+Generated: 2026-10-12T10:45:20.642Z

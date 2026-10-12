@@ -62,7 +62,7 @@ Indexed users: 2,197
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw | Luxembourg | 841 |
+| 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw | Luxembourg | 858 |
 | 2 | [kissalexandra](https://github.com/kissalexandra) | Alexandra Kiss | Ville de Luxembourg | 613 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 467 |
 | 4 | [themarcba](https://github.com/themarcba) | Marc Backes | Luxembourg | 391 |
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-12T09:33:35.838Z
+Generated: 2026-10-12T10:42:18.512Z

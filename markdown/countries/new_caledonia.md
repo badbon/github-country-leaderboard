@@ -13,7 +13,7 @@ Indexed users: 111
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 13,425 |
-| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,557 |
+| 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,561 |
 | 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,492 |
 | 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,122 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,464 |
@@ -39,7 +39,7 @@ Indexed users: 111
 |---:|---|---|---|---:|
 | 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 3,818 |
 | 2 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 3,159 |
-| 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 2,960 |
+| 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 2,961 |
 | 4 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,471 |
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 714 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 463 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-12T09:39:43.043Z
+Generated: 2026-10-12T10:50:21.543Z

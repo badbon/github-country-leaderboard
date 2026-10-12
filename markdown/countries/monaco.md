@@ -13,13 +13,13 @@ Indexed users: 142
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG | Monaco | 7,036 |
-| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,049 |
+| 2 | [DamienMonchaty](https://github.com/DamienMonchaty) | Damien Monchaty | Monaco | 6,056 |
 | 3 | [laurentqro](https://github.com/laurentqro) | Laurent Curau | Monaco | 5,306 |
 | 4 | [LovelessCodes](https://github.com/LovelessCodes) |  | Monaco | 3,470 |
 | 5 | [KristofM854](https://github.com/KristofM854) | Kristof Moeller | Monaco | 1,860 |
-| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,657 |
+| 6 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 1,786 |
 | 7 | [digitalonyx](https://github.com/digitalonyx) | DigitalOnyx | Monaco | 1,168 |
-| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,036 |
+| 8 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 1,029 |
 | 9 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Marseille / Monaco | 950 |
 | 10 | [tatianamc](https://github.com/tatianamc) | Tatiana | Monaco | 783 |
 | 11 | [jz222](https://github.com/jz222) | Timo Zimmermann | Monte-Carlo, Monaco | 733 |
@@ -55,7 +55,7 @@ Indexed users: 142
 | 16 | [silvainfm](https://github.com/silvainfm) | François-Marie Brych | Nashville & Monaco | 52 |
 | 17 | [Akira98000](https://github.com/Akira98000) | Santhakumaran Akira | Monaco  | 49 |
 | 18 | [Faooel](https://github.com/Faooel) | Benoit G | Monaco | 49 |
-| 19 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 40 |
+| 19 | [matteodevenuto](https://github.com/matteodevenuto) | Matteo De Venuto | Monaco | 42 |
 | 20 | [mortii](https://github.com/mortii) |  | Monaco | 40 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 142
 | 19 | [coachklng12](https://github.com/coachklng12) |  | Monaco | 14 |
 | 20 | [co-stig](https://github.com/co-stig) | Constantine | Monaco | 13 |
 
-Generated: 2026-10-12T09:37:32.019Z
+Generated: 2026-10-12T10:47:50.437Z

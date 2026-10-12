@@ -1,6 +1,6 @@
 # Followers - Mauritius
 
-Generated: 2026-10-12T09:37:00.095Z
+Generated: 2026-10-12T10:45:27.848Z
 
 Users: 714
 
@@ -20,8 +20,8 @@ Users: 714
 | 12 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 98 |
 | 13 | [shaha-nah](https://github.com/shaha-nah) | Shahanah | Dayforce |  | Mauritius | 93 |
 | 14 | [rahul-thakoor](https://github.com/rahul-thakoor) | Rahul Thakoor | @balena-io  |  | Mauritius | 86 |
-| 15 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | @funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices | MariusRabenariv | Mauritius | 84 |
-| 16 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner |  | gaming_shar | Mauritius | 84 |
+| 15 | [SharCodin](https://github.com/SharCodin) | Code Crafters Corner |  | gaming_shar | Mauritius | 84 |
+| 16 | [puchka](https://github.com/puchka) | A. Marius Rabenarivo | @funpro-mu @AlgoMada @BetaX-Community @SimplyFinServices | MariusRabenariv | Mauritius | 83 |
 | 17 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | @Accenture | EdgarEldy | Mauritius | 81 |
 | 18 | [arwinneil](https://github.com/arwinneil) | Arwin Neil Baichoo | @livestorm | arwinneil | Mauritius | 75 |
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M |  | maskys_ | Mauritius | 74 |

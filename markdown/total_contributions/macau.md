@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-12T09:34:07.607Z
+Generated: 2026-10-12T10:42:23.159Z
 
 Users: 439
 
@@ -20,7 +20,7 @@ Users: 439
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2270 |
 | 13 | [Alex-Leong](https://github.com/Alex-Leong) | Alex |  |  | Macau | 2212 |
 | 14 | [Yh1sam](https://github.com/Yh1sam) |  | Pui Ching Middle School |  | Macau | 2098 |
-| 15 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 1988 |
+| 15 | [RyanKung](https://github.com/RyanKung) | Elder Ryan |  | Elder24601 | Macau | 2002 |
 | 16 | [aungminnkhant9400](https://github.com/aungminnkhant9400) | Rollo |  |  | Macau | 1781 |
 | 17 | [HansiChan](https://github.com/HansiChan) | Colin | Sands  | hansiCrypto | Macau | 1764 |
 | 18 | [hheei](https://github.com/hheei) | Lo Chon Hei |  |  | Macau | 1725 |

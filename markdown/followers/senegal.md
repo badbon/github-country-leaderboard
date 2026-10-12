@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-12T09:50:23.967Z
+Generated: 2026-10-12T11:00:33.623Z
 
 Users: 1356
 
@@ -18,7 +18,7 @@ Users: 1356
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 192 |
 | 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 180 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 180 |
-| 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko |  |  | Dakar, Senegal | 172 |
+| 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko |  |  | Dakar, Senegal | 171 |
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 168 |
 | 15 | [yayediop2](https://github.com/yayediop2) | Yaye Fatou | Zone 01 Dakar |  | Dakar, Sn | 165 |
 | 16 | [kasali](https://github.com/kasali) | kasali | Freelancer | kadev4solutions | Dakar Sénégal | 154 |

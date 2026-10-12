@@ -1,6 +1,6 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-12T09:46:01.545Z
+Generated: 2026-10-12T10:53:15.686Z
 
 Users: 2016
 
@@ -19,10 +19,10 @@ Users: 2016
 | 11 | [m2f0](https://github.com/m2f0) | Mario Mayerle | @INOSX  |  | Paraguay/USA | 1089 |
 | 12 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 1072 |
 | 13 | [cardozoaldama](https://github.com/cardozoaldama) | Fernando Cardozo |  |  | Paraguay | 980 |
-| 14 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 948 |
-| 15 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) | janparkio | Paraguay | 915 |
-| 16 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
-| 17 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 905 |
-| 18 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
-| 19 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 891 |
-| 20 | [denis-kudelin](https://github.com/denis-kudelin) | Denis Kudelin |  |  | Paraguay | 885 |
+| 14 | [Renetrox](https://github.com/Renetrox) | Dino René Caballero Marquez |  |  | Paraguay | 971 |
+| 15 | [oscar0pavon](https://github.com/oscar0pavon) | Oscar Pavon | pavon.com.py |  | Paraguay | 948 |
+| 16 | [janparkio](https://github.com/janparkio) | Jan Park | LeadWise (PL EAS) | janparkio | Paraguay | 915 |
+| 17 | [da21nny](https://github.com/da21nny) | Edgar Vega |  |  | Paraguay | 906 |
+| 18 | [melizeche](https://github.com/melizeche) | Marcelo Elizeche Landó | @goauthentik | melizeche | Paraguay | 905 |
+| 19 | [isaias-alt](https://github.com/isaias-alt) | Lucas Isaias Casco |  | lucascodev | Paraguay | 892 |
+| 20 | [hekatonkheirex](https://github.com/hekatonkheirex) | Rodrigo Y. Murayama |  |  | Asunción, Paraguay | 891 |

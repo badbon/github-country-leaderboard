@@ -1,8 +1,8 @@
 # Public Contributions - Malaysia
 
-Generated: 2026-10-12T09:35:31.358Z
+Generated: 2026-10-12T10:42:35.861Z
 
-Users: 11813
+Users: 11812
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -12,12 +12,12 @@ Users: 11813
 | 4 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
 | 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia |  |  | Johor, Malaysia | 9221 |
 | 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah |  | farhansyah90 | Malaysia | 8321 |
-| 7 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Asia Pacific University | AngJianming | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 8075 |
-| 8 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 7747 |
-| 9 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 7057 |
-| 10 | [ariffazil](https://github.com/ariffazil) | ariffazil |  | ArifFazil90 | Malaysia | 6700 |
-| 11 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon |  |  | Kuala Lumpur, Malaysia | 6390 |
-| 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi |  |  | Malaysia | 6304 |
+| 7 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 7747 |
+| 8 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 7057 |
+| 9 | [ariffazil](https://github.com/ariffazil) | ariffazil |  | ArifFazil90 | Malaysia | 6700 |
+| 10 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon |  |  | Kuala Lumpur, Malaysia | 6390 |
+| 11 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi |  |  | Malaysia | 6304 |
+| 12 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Asia Pacific University | AngJianming | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 6054 |
 | 13 | [lifeofgurpreet](https://github.com/lifeofgurpreet) | Gurpreet | Biji-biji Initiative | lifeofgurpreet | Malaysia | 4956 |
 | 14 | [msmalley](https://github.com/msmalley) | msmalley | OpenSource Technology Evangelist and BlockChain Enthusiast |  | Kuala Lumpur, Malaysia | 4748 |
 | 15 | [season179](https://github.com/season179) | Season Saw |  | seasonsaw | Kuala Lumpur, Malaysia | 4711 |

@@ -1,12 +1,12 @@
 # Followers - Luxembourg
 
-Generated: 2026-10-12T09:33:35.838Z
+Generated: 2026-10-12T10:42:18.512Z
 
 Users: 2197
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw |  |  | Luxembourg | 841 |
+| 1 | [qdm12](https://github.com/qdm12) | Quentin McGaw |  |  | Luxembourg | 858 |
 | 2 | [kissalexandra](https://github.com/kissalexandra) | Alexandra Kiss |  | xkissalexandra | Ville de Luxembourg | 613 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | MESR, Luxembourg | brodriguesco | Luxembourg-City, Luxembourg | 467 |
 | 4 | [themarcba](https://github.com/themarcba) | Marc Backes | @directus | marcba | Luxembourg | 391 |

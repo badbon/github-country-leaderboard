@@ -24,9 +24,9 @@ Indexed users: 900
 | 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,708 |
 | 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,494 |
 | 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 4,063 |
-| 13 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 3,913 |
+| 13 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 3,931 |
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,687 |
-| 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,452 |
+| 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,455 |
 | 16 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,210 |
 | 17 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,194 |
 | 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,137 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-12T09:34:58.523Z
+Generated: 2026-10-12T10:42:31.473Z

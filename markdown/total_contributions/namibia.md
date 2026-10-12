@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-12T09:39:05.656Z
+Generated: 2026-10-12T10:49:12.125Z
 
 Users: 476
 
@@ -12,11 +12,11 @@ Users: 476
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6424 |
 | 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 6073 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach |  |  | Namibia | 6062 |
-| 7 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 6023 |
-| 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | @nzzdev @meyabase @silosset | axelmukwena | Namibia | 5086 |
+| 7 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 6010 |
+| 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | @nzzdev @meyabase @silosset | axelmukwena | Namibia | 5147 |
 | 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | @Absynth-Tech  |  | namibia,Africa | 4519 |
 | 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Cyberdyne Investments cc | SirLeon14 | Namibia, Windhoek | 3050 |
-| 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 2843 |
+| 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | University of Namibia | rtonata | Windhoek, Namibia | 2870 |
 | 12 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 2569 |
 | 13 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 2480 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2287 |
@@ -24,5 +24,5 @@ Users: 476
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2207 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 1959 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1919 |
-| 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | @ColabNam  |  | Namibia  | 1877 |
+| 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | @ColabNam  |  | Namibia  | 1889 |
 | 20 | [mou-rush](https://github.com/mou-rush) | Moureen |  | resilient_mo_ | Swakopmund, Namibia | 1750 |

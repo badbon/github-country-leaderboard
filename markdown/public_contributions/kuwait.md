@@ -1,6 +1,6 @@
 # Public Contributions - Kuwait
 
-Generated: 2026-10-12T09:29:31.637Z
+Generated: 2026-10-12T10:40:16.253Z
 
 Users: 798
 
@@ -21,8 +21,8 @@ Users: 798
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 623 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 610 |
 | 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Folk Valley | fibn_cc | Kuwait | 545 |
-| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 531 |
-| 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid |  |  | Kuwait | 518 |
+| 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon |  |  | Kuwait | 532 |
+| 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid |  |  | Kuwait | 529 |
 | 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei |  |  | Kuwait | 490 |
 | 19 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 447 |
 | 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | free lancer |  | kuwait | 441 |

@@ -1,6 +1,6 @@
 # Jordan
 
-Indexed users: 4,018
+Indexed users: 4,017
 
 | Leaderboard | Link |
 |---|---|
@@ -17,7 +17,7 @@ Indexed users: 4,018
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Amman, Jordan | 10,839 |
 | 4 | [samertall](https://github.com/samertall) | Samer Tallauze | Amman, Jordan | 8,574 |
 | 5 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 8,035 |
-| 6 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | Jordan | 6,447 |
+| 6 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | Jordan | 6,492 |
 | 7 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 6,128 |
 | 8 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Amman, Jordan | 6,105 |
 | 9 | [htirawi](https://github.com/htirawi) | Hussein Tirawi | Jordan | 5,976 |
@@ -83,4 +83,4 @@ Indexed users: 4,018
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-12T09:29:18.412Z
+Generated: 2026-10-12T10:39:46.417Z

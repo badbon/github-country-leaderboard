@@ -18,11 +18,11 @@ Indexed users: 476
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,424 |
 | 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,073 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 6,062 |
-| 7 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,023 |
-| 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 5,086 |
+| 7 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,010 |
+| 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | Namibia | 5,147 |
 | 9 | [frans-nekongo](https://github.com/frans-nekongo) | frans nekongo | namibia,Africa | 4,519 |
 | 10 | [codezilla91](https://github.com/codezilla91) | Leon CodeZilla Matota | Namibia, Windhoek | 3,050 |
-| 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,843 |
+| 11 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 2,870 |
 | 12 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Windhoek, Namibia | 2,569 |
 | 13 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | NAMIBIA | 2,480 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | Swakopmund, Namibia | 2,287 |
@@ -30,7 +30,7 @@ Indexed users: 476
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 2,207 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Namibia | 1,959 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja | Windhoek | 1,919 |
-| 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,877 |
+| 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | Namibia  | 1,889 |
 | 20 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 1,750 |
 
 ## Public Contributions
@@ -51,12 +51,12 @@ Indexed users: 476
 | 12 | [Sphellep04](https://github.com/Sphellep04) | Phellep.Dev | Windhoek, Namibia | 355 |
 | 13 | [mou-rush](https://github.com/mou-rush) | Moureen | Swakopmund, Namibia | 290 |
 | 14 | [PascalMTK](https://github.com/PascalMTK) |  | Windhoek - Namibia | 271 |
-| 15 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 265 |
+| 15 | [m-spangenberg](https://github.com/m-spangenberg) | Marthinus Spangenberg | Walvis Bay, Namibia | 266 |
 | 16 | [Math0202](https://github.com/Math0202) | Tangeni Matheus | Namibia, Windhoek | 263 |
-| 17 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
-| 18 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
-| 19 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 243 |
-| 20 | [alisonKYoung](https://github.com/alisonKYoung) | alisonKYoung | Windhoek, Namibia | 233 |
+| 17 | [rtonata88](https://github.com/rtonata88) | Richard Chambula | Windhoek, Namibia | 259 |
+| 18 | [RohanBez2801](https://github.com/RohanBez2801) | Rohan Bezuidenhout | Windhoek, Namibia | 250 |
+| 19 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 243 |
+| 20 | [sekhubede](https://github.com/sekhubede) | Michael Sekhubede | Namibia | 243 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-12T09:39:05.656Z
+Generated: 2026-10-12T10:49:12.125Z

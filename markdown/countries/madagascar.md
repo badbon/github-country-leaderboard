@@ -51,8 +51,8 @@ Indexed users: 1,906
 | 12 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,738 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,706 |
 | 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,623 |
-| 15 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,562 |
-| 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,558 |
+| 15 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,589 |
+| 16 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,562 |
 | 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
 | 18 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
 | 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,486 |
@@ -83,4 +83,4 @@ Indexed users: 1,906
 | 19 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Toamasina, Madagascar | 144 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-12T09:34:13.427Z
+Generated: 2026-10-12T10:42:27.052Z

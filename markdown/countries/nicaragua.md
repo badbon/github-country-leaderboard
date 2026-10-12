@@ -18,16 +18,16 @@ Indexed users: 1,395
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,457 |
 | 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 7,381 |
 | 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Nicaragua | 7,123 |
-| 7 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,340 |
-| 8 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 4,946 |
-| 9 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,498 |
-| 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,398 |
-| 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,103 |
-| 12 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,085 |
-| 13 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
-| 14 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,655 |
-| 15 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,641 |
-| 16 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 3,606 |
+| 7 | [alfchee](https://github.com/alfchee) | Alfchee | Nicaragua | 5,367 |
+| 8 | [josetorres1](https://github.com/josetorres1) | José Torres | Managua, Nicaragua | 5,340 |
+| 9 | [slzno](https://github.com/slzno) | Luis Solorzano | León, Nicaragua | 4,946 |
+| 10 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno | NIcaragua | 4,498 |
+| 11 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 4,398 |
+| 12 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 4,103 |
+| 13 | [degomon](https://github.com/degomon) | Denis González | Nicaragua | 4,085 |
+| 14 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Nicaragua | 3,723 |
+| 15 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 3,655 |
+| 16 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 3,641 |
 | 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet | León, Nicaragua | 3,460 |
 | 18 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes | Nicaragua | 3,355 |
 | 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado | Nicaragua | 3,325 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-12T09:39:51.350Z
+Generated: 2026-10-12T10:50:54.803Z

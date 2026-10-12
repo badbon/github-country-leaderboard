@@ -1,8 +1,8 @@
 # Public Contributions - Peru
 
-Generated: 2026-10-12T09:46:05.347Z
+Generated: 2026-10-12T10:53:57.656Z
 
-Users: 9787
+Users: 9786
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -23,6 +23,6 @@ Users: 9787
 | 15 | [shiarauzo](https://github.com/shiarauzo) | Shiara Arauzo | @crafter-station  | shiarauzo | Peru | 2834 |
 | 16 | [patricio0312rev](https://github.com/patricio0312rev) | Patricio Marroquin | @Freelancer | patricio0312rev | Peru | 2762 |
 | 17 | [VidalLuyo](https://github.com/VidalLuyo) | VidalLuyo | @vallegrande |  | Imperial - Cañete - Lima | 2698 |
-| 18 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | UTEC |  | Peru | 2652 |
-| 19 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | MiTienda.pe | carlosvidalperu | Lima, Peru | 2602 |
-| 20 | [Far14z](https://github.com/Far14z) | Farid Coronel | Universidad Peruana de Ciencias Aplicadaas |  | Peru | 2377 |
+| 18 | [Dreamcoder08](https://github.com/Dreamcoder08) | Dreamcoder08 | @arkelythex | Dreamcoder08 | Piura, Peru | 2660 |
+| 19 | [Grazen0](https://github.com/Grazen0) | José Daniel Grayson | UTEC |  | Peru | 2652 |
+| 20 | [carlosvidal](https://github.com/carlosvidal) | Carlos Vidal | MiTienda.pe | carlosvidalperu | Lima, Peru | 2602 |
