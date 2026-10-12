@@ -15248,7 +15248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2019-10-17T10:18:04Z"
   },
   {
@@ -15296,7 +15296,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 17,
     "createdAt": "2019-01-02T11:23:34Z"
   },
   {
@@ -15307,8 +15307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 566,
-    "publicContributions": 54,
+    "privateContributions": 700,
+    "publicContributions": 22,
     "createdAt": "2019-08-31T11:17:43Z"
   },
   {
@@ -15319,7 +15319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 28,
+    "privateContributions": 44,
     "publicContributions": 0,
     "createdAt": "2019-02-09T10:45:59Z"
   },
@@ -15385,14 +15385,14 @@
   },
   {
     "login": "embermann",
-    "name": "Vlad Zabotinsky",
+    "name": "Vladislavs Zabotinskis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/49512700?s=72&u=a8b674e20be5b9cb08e3491576decdb072529e1c&v=4",
     "location": "Latvia",
-    "company": "",
+    "company": "Watu",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2019-04-11T07:23:13Z"
   },
   {

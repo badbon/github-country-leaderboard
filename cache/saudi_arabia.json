@@ -15510,7 +15510,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-21T11:18:53Z"
@@ -15558,7 +15558,7 @@
     "location": "Jeddah, Saudi Arabia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2023-04-26T16:40:55Z"
@@ -15570,7 +15570,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "Echo_Shred",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-18T10:13:25Z"
@@ -15608,19 +15608,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 78,
     "createdAt": "2023-05-13T16:22:54Z"
   },
   {
     "login": "Abdulrahman-Albeladi",
     "name": "Abdulrahman Albeladi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/143843901?s=72&u=77d25c4406e3929a18a631b4b3b84bbd9e5a20d2&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/143843901?s=72&u=950d37441f6e322470258b92be130730260ea44e&v=4",
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 279,
+    "publicContributions": 429,
     "createdAt": "2023-09-01T20:10:08Z"
   },
   {
@@ -15632,7 +15632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 97,
     "createdAt": "2023-03-30T01:08:39Z"
   },
   {
@@ -15643,7 +15643,7 @@
     "company": "@sallaapp",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 709,
+    "privateContributions": 781,
     "publicContributions": 0,
     "createdAt": "2023-10-15T09:49:25Z"
   },
@@ -15654,7 +15654,7 @@
     "location": "Saudi Arabia",
     "company": "",
     "twitterUsername": "adu_707",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 58,
     "createdAt": "2023-05-24T15:05:56Z"
@@ -15668,7 +15668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 167,
+    "publicContributions": 161,
     "createdAt": "2023-05-21T21:20:48Z"
   },
   {
@@ -15690,7 +15690,7 @@
     "location": "Jeddah, Saudi Arabia",
     "company": "Jawal Games",
     "twitterUsername": "jawalgames",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-02-02T22:53:34Z"
@@ -15704,20 +15704,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 21,
     "createdAt": "2023-04-02T19:23:41Z"
-  },
-  {
-    "login": "maroofhn",
-    "name": "Maroof Hassan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133170480?s=72&u=9873e3ac9718320a4ee749fe7ebd80596badbb2e&v=4",
-    "location": "Jeddah, Saudi Arabia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 65,
-    "createdAt": "2023-05-10T22:18:18Z"
   },
   {
     "login": "MariyaFS",

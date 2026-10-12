@@ -15344,7 +15344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 57,
     "createdAt": "2016-05-18T12:23:51Z"
   },
   {
@@ -15403,7 +15403,7 @@
     "company": "Amazon",
     "twitterUsername": "ayyildizrdm",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2016-03-27T17:08:08Z"
   },
@@ -15475,8 +15475,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 12,
-    "publicContributions": 3,
+    "privateContributions": 23,
+    "publicContributions": 2,
     "createdAt": "2016-04-28T17:45:45Z"
   },
   {
@@ -15514,18 +15514,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-10-12T08:17:17Z"
-  },
-  {
-    "login": "rodrigocmn",
-    "name": "Rodrigo Nascimento",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22591995?s=72&u=1c8d4cb5e491b400bacdc833132d7e26be2e2e1b&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "rodrigocmn",
-    "followers": 1,
-    "privateContributions": 2056,
-    "publicContributions": 1,
-    "createdAt": "2016-10-03T12:26:12Z"
   },
   {
     "login": "LostBee",
