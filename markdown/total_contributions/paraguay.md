@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-12T08:38:36.095Z
+Generated: 2026-10-12T09:46:01.545Z
 
 Users: 2016
 
@@ -22,7 +22,7 @@ Users: 2016
 | 14 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
 | 15 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
 | 16 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 4941 |
-| 17 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
-| 18 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
-| 19 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 4280 |
-| 20 | [neocuella](https://github.com/neocuella) | Rick Ovelar |  | rickOvelar | Paraguay | 4146 |
+| 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
+| 18 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
+| 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
+| 20 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 4280 |

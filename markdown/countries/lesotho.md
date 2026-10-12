@@ -28,10 +28,10 @@ Indexed users: 160
 | 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | Maseru, Lesotho | 344 |
 | 15 | [lebusa](https://github.com/lebusa) | Motebang | Maseru, Lesotho | 292 |
 | 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 290 |
-| 17 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 263 |
-| 18 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 249 |
-| 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 226 |
-| 20 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 216 |
+| 17 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 285 |
+| 18 | [setsoto](https://github.com/setsoto) | Setsoto | Lesotho | 263 |
+| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa | Lesotho | 249 |
+| 20 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 226 |
 
 ## Public Contributions
 
@@ -39,10 +39,10 @@ Indexed users: 160
 |---:|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Maseru | 444 |
 | 2 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Maseru, Lesotho | 309 |
-| 3 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 237 |
-| 4 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 216 |
-| 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 202 |
-| 6 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 192 |
+| 3 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela | Lesotho | 275 |
+| 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 237 |
+| 5 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 216 |
+| 6 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 202 |
 | 7 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 190 |
 | 8 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 180 |
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 151 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-12T08:24:57.542Z
+Generated: 2026-10-12T09:31:21.882Z

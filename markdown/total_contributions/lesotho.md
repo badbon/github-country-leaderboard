@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-12T08:24:57.542Z
+Generated: 2026-10-12T09:31:21.882Z
 
 Users: 160
 
@@ -22,7 +22,7 @@ Users: 160
 | 14 | [khauta](https://github.com/khauta) | Khauta Maliehe | @Liparola  | kjamaliehe | Maseru, Lesotho | 344 |
 | 15 | [lebusa](https://github.com/lebusa) | Motebang |  | sirfongfong | Maseru, Lesotho | 292 |
 | 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 290 |
-| 17 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 263 |
-| 18 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 249 |
-| 19 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 226 |
-| 20 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 216 |
+| 17 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 285 |
+| 18 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 263 |
+| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 249 |
+| 20 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 226 |

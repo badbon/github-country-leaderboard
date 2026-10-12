@@ -26,8 +26,8 @@ Indexed users: 1,225
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega | malta | 8,337 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan | Malta | 7,574 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os | Malta | 7,471 |
-| 15 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,238 |
-| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,226 |
+| 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | Malta | 7,327 |
+| 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen | Malta | 7,238 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | Malta | 5,652 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul | Malta | 5,640 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-12T08:28:33.689Z
+Generated: 2026-10-12T09:35:44.683Z

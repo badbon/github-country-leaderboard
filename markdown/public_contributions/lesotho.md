@@ -1,6 +1,6 @@
 # Public Contributions - Lesotho
 
-Generated: 2026-10-12T08:24:57.542Z
+Generated: 2026-10-12T09:31:21.882Z
 
 Users: 160
 
@@ -8,10 +8,10 @@ Users: 160
 |---:|---|---|---|---|---|---:|
 | 1 | [ntholi](https://github.com/ntholi) | Ntholi Nkhatho | Limkokwing University | ntholi | Maseru | 444 |
 | 2 | [LNkholise](https://github.com/LNkholise) | Leonard Nkholise | Phytely Pty Ltd |  | Maseru, Lesotho | 309 |
-| 3 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 237 |
-| 4 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 216 |
-| 5 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 202 |
-| 6 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 192 |
+| 3 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 275 |
+| 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 237 |
+| 5 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | BLACK DOX |  | MASERU,LESOTHO | 216 |
+| 6 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 202 |
 | 7 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Zeeecom Technologies  |  | Lesotho, maseru | 190 |
 | 8 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 180 |
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 151 |

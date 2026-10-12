@@ -27,11 +27,11 @@ Indexed users: 2,454
 | 13 | [isybai](https://github.com/isybai) | Isa | Bishkek | 4,966 |
 | 14 | [991o2o9](https://github.com/991o2o9) | Soltobekov Amin | Bishkek | 4,857 |
 | 15 | [nasipa1](https://github.com/nasipa1) | Nasipa | Kyrgyzstan, Bishkek | 4,724 |
-| 16 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
-| 17 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
-| 18 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
-| 19 | [Donkasta](https://github.com/Donkasta) | Aidin | Bishkek | 4,070 |
-| 20 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,042 |
+| 16 | [timplifier](https://github.com/timplifier) | timplifier雨 | Bishkek | 4,644 |
+| 17 | [songhee24](https://github.com/songhee24) | Azamat | Kyrgyzstan | 4,549 |
+| 18 | [eeemmm29](https://github.com/eeemmm29) | EM | Kyrgyzstan | 4,454 |
+| 19 | [bonyvah](https://github.com/bonyvah) | Bekbolsun Ysmanov | Kyrgyzstan | 4,265 |
+| 20 | [Donkasta](https://github.com/Donkasta) | Aidin | Bishkek | 4,070 |
 
 ## Public Contributions
 
@@ -76,11 +76,11 @@ Indexed users: 2,454
 | 12 | [NuraiymMamatova](https://github.com/NuraiymMamatova) | Nuraiym | Kyrgyzstan | 115 |
 | 13 | [Turatkg](https://github.com/Turatkg) | Turat Alybaev | Kyrgyzstan | 113 |
 | 14 | [zhanybekovich](https://github.com/zhanybekovich) | Mirlan Urzhanov | Karakol, Kyrgyzstan | 112 |
-| 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | Beksultan | Bishkek | 109 |
+| 15 | [bmamatkadyr](https://github.com/bmamatkadyr) | beks | Bishkek | 111 |
 | 16 | [5ekastanx](https://github.com/5ekastanx) | bekastan | Osh \| Kyrgyzstan | 106 |
 | 17 | [AlexanderBagel](https://github.com/AlexanderBagel) | Alexander (Rouse_) Bagel | Bishkek | 105 |
 | 18 | [bashu](https://github.com/bashu) | Basil Sh. | Bishkek, Kyrgyzstan | 104 |
 | 19 | [Elkhan2003](https://github.com/Elkhan2003) | Elkhan Sharshenbekov | Karakol, Kyrgyzstan | 103 |
 | 20 | [eszdman](https://github.com/eszdman) |  | Kyrgyzstan | 102 |
 
-Generated: 2026-10-12T08:24:10.571Z
+Generated: 2026-10-12T09:29:35.613Z

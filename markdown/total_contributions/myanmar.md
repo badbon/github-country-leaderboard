@@ -1,6 +1,6 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-12T08:32:27.371Z
+Generated: 2026-10-12T09:38:59.264Z
 
 Users: 2069
 
@@ -21,8 +21,8 @@ Users: 2069
 | 13 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3857 |
 | 14 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3664 |
 | 15 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 3492 |
-| 16 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
-| 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3158 |
+| 16 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
+| 17 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
 | 18 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3106 |
 | 19 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3085 |
 | 20 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 3030 |

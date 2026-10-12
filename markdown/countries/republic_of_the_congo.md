@@ -12,7 +12,7 @@ Indexed users: 299
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,275 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | Brazzaville - Congo | 11,302 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | Congo | 6,732 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Congo Brazzaville | 4,026 |
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,802 |
@@ -20,9 +20,9 @@ Indexed users: 299
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,333 |
 | 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,297 |
 | 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,945 |
-| 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,871 |
-| 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,826 |
-| 11 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,809 |
+| 9 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,881 |
+| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,871 |
+| 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,826 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,424 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,314 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,205 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-12T08:41:39.101Z
+Generated: 2026-10-12T09:47:17.233Z

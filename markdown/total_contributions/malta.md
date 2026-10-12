@@ -1,6 +1,6 @@
 # Total Contributions - Malta
 
-Generated: 2026-10-12T08:28:33.689Z
+Generated: 2026-10-12T09:35:44.683Z
 
 Users: 1225
 
@@ -20,8 +20,8 @@ Users: 1225
 | 12 | [mauroziux](https://github.com/mauroziux) | Mauricio Suárez vega |  |  | malta | 8337 |
 | 13 | [angusgee](https://github.com/angusgee) | Angus Girvan |  |  | Malta | 7574 |
 | 14 | [m2ximus](https://github.com/m2ximus) | max—os |  |  | Malta | 7471 |
-| 15 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7238 |
-| 16 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7226 |
+| 15 | [iko2000](https://github.com/iko2000) | Iviko Shengelia | 88Bit Limited |  | Malta | 7327 |
+| 16 | [KimSpecht](https://github.com/KimSpecht) | Kim Pedersen |  |  | Malta | 7238 |
 | 17 | [ksazid](https://github.com/ksazid) | Sazid |  |  | Malta | 6234 |
 | 18 | [mzaharenkov](https://github.com/mzaharenkov) | Mikhail Zakharenkov | HMLabs |  | Malta | 5652 |
 | 19 | [seanellul](https://github.com/seanellul) | Sean Ellul |  |  | Malta | 5640 |

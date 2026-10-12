@@ -13,8 +13,8 @@ Indexed users: 714
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [EdgarEldy](https://github.com/EdgarEldy) | EDGAR MUHAMYANGABO | Mauritius | 14,288 |
-| 2 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,310 |
-| 3 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,000 |
+| 2 | [borissedov](https://github.com/borissedov) | Boris Sedov | Tamarin, Mauritius | 7,325 |
+| 3 | [512banque](https://github.com/512banque) | Kevin Richard | Mauritius | 7,310 |
 | 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,612 |
 | 5 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,584 |
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,334 |
@@ -31,7 +31,7 @@ Indexed users: 714
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,730 |
 | 18 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 3,270 |
 | 19 | [johanleroch](https://github.com/johanleroch) | Johan le Roch | Mauritius | 3,262 |
-| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,017 |
+| 20 | [iwugod](https://github.com/iwugod) | Joshua Iwugod  | Republic of Mauritius  | 3,042 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-12T08:30:19.894Z
+Generated: 2026-10-12T09:37:00.095Z

@@ -1,12 +1,12 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-12T08:41:39.101Z
+Generated: 2026-10-12T09:47:17.233Z
 
 Users: 299
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 11275 |
+| 1 | [bruxx-6243](https://github.com/bruxx-6243) | Fariol Blondeau | @akieni-tech | bryan_6243 | Brazzaville - Congo | 11302 |
 | 2 | [Athanaze](https://github.com/Athanaze) | Sacha Liechti | liechticonsulting.com | liechticonsult | Congo | 6732 |
 | 3 | [Saintrick-FM](https://github.com/Saintrick-FM) | Francy Saintrick Malonga | Nanocreatives |  | Congo Brazzaville | 4026 |
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda |  |  | Pointe-Noire, Congo | 3802 |
@@ -14,9 +14,9 @@ Users: 299
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3333 |
 | 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 3297 |
 | 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2945 |
-| 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2871 |
-| 10 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2826 |
-| 11 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2809 |
+| 9 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2881 |
+| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2871 |
+| 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2826 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2424 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2314 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2205 |

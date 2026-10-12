@@ -1,6 +1,6 @@
 # Public Contributions - Malaysia
 
-Generated: 2026-10-12T08:27:15.113Z
+Generated: 2026-10-12T09:35:31.358Z
 
 Users: 11813
 
@@ -13,8 +13,8 @@ Users: 11813
 | 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia |  |  | Johor, Malaysia | 9221 |
 | 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah |  | farhansyah90 | Malaysia | 8321 |
 | 7 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Asia Pacific University | AngJianming | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 8075 |
-| 8 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 7057 |
-| 9 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 6906 |
+| 8 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my |  |  | Putrajaya, Malaysia | 7747 |
+| 9 | [syarief02](https://github.com/syarief02) | Syarief Azman | National Pharmaceutical Regulatory Agency | syariefazman | Malaysia | 7057 |
 | 10 | [ariffazil](https://github.com/ariffazil) | ariffazil |  | ArifFazil90 | Malaysia | 6700 |
 | 11 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon |  |  | Kuala Lumpur, Malaysia | 6390 |
 | 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi |  |  | Malaysia | 6304 |

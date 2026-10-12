@@ -1,6 +1,6 @@
 # Total Contributions - Nepal
 
-Generated: 2026-10-12T08:33:34.961Z
+Generated: 2026-10-12T09:39:38.819Z
 
 Users: 14130
 
@@ -15,9 +15,9 @@ Users: 14130
 | 7 | [birajrai](https://github.com/birajrai) | Biraj Rai | @calypsostudio |  | Nepal | 12650 |
 | 8 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | SMAIT TECHNOLOGY |  | kathmandu,Nepal | 12170 |
 | 9 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur |  | Avinash0x1 | Nepal | 11696 |
-| 10 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh |  |  | Nepal | 11616 |
-| 11 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) |  |  | Jayabageshowri,Kathmandu,Nepal. | 11532 |
-| 12 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 11503 |
+| 10 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 11658 |
+| 11 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh |  |  | Nepal | 11616 |
+| 12 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) |  |  | Jayabageshowri,Kathmandu,Nepal. | 11532 |
 | 13 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  | Baliyo Technologies |  |  New Baneshwor, Kathmandu, Nepal | 11452 |
 | 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | @dizpair | Utsabpanday | Kathmandu | 11440 |
 | 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA |  |  | Nepal | 10737 |

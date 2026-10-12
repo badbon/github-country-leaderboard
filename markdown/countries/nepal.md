@@ -21,9 +21,9 @@ Indexed users: 14,130
 | 7 | [birajrai](https://github.com/birajrai) | Biraj Rai | Nepal | 12,650 |
 | 8 | [codersantoshadhikari](https://github.com/codersantoshadhikari) | SANTOSH ADHIKARI | kathmandu,Nepal | 12,170 |
 | 9 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 11,696 |
-| 10 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh | Nepal | 11,616 |
-| 11 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) | Jayabageshowri,Kathmandu,Nepal. | 11,532 |
-| 12 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 11,503 |
+| 10 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 11,658 |
+| 11 | [manishsainju](https://github.com/manishsainju) | Ma Ni Sh | Nepal | 11,616 |
+| 12 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) | Jayabageshowri,Kathmandu,Nepal. | 11,532 |
 | 13 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  |  New Baneshwor, Kathmandu, Nepal | 11,452 |
 | 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | Kathmandu | 11,440 |
 | 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA | Nepal | 10,737 |
@@ -43,8 +43,8 @@ Indexed users: 14,130
 | 4 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur | Nepal | 10,241 |
 | 5 | [Wahesh](https://github.com/Wahesh) | Mahesh Dahal | Nepal | 6,922 |
 | 6 | [Nischhalsubba](https://github.com/Nischhalsubba) | Nischhal Raj Subba | Kathmandu | 6,498 |
-| 7 | [QaidVoid](https://github.com/QaidVoid) | Rabindra Dhakal | Nepal | 6,227 |
-| 8 | [AkkalDhami](https://github.com/AkkalDhami) | Akkal Dhami | Kathmandu, Nepal | 5,917 |
+| 7 | [AkkalDhami](https://github.com/AkkalDhami) | Akkal Dhami | Kathmandu, Nepal | 6,396 |
+| 8 | [QaidVoid](https://github.com/QaidVoid) | Rabindra Dhakal | Nepal | 6,227 |
 | 9 | [adityathebe](https://github.com/adityathebe) | Aditya Thebe | Kathmandu, Nepal | 4,851 |
 | 10 | [neupkishor](https://github.com/neupkishor) | Kishor Neupane | Kathmandu, Nepal | 3,724 |
 | 11 | [nightmaregaurav](https://github.com/nightmaregaurav) | Gaurav Nyaupane | Kathmandu, Nepal | 3,641 |
@@ -54,9 +54,9 @@ Indexed users: 14,130
 | 15 | [muktinathrajbanshi](https://github.com/muktinathrajbanshi) | Muktinath Rajbanshi | Kathmandu | 3,383 |
 | 16 | [ParbinShrees](https://github.com/ParbinShrees) | Parbin Shrees | Nepal,Pokhara | 3,185 |
 | 17 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | Kathmandu, Nepal | 2,871 |
-| 18 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 2,831 |
-| 19 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada | Dhading,Nepal | 2,689 |
-| 20 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary | Pokhara, Nepal | 2,666 |
+| 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada | Dhading,Nepal | 2,689 |
+| 19 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary | Pokhara, Nepal | 2,666 |
+| 20 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | Kathmandu, Nepal | 2,596 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 14,130
 | 19 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 | 20 | [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit) | Amrit Marasini | Kathmandu, Nepal | 747 |
 
-Generated: 2026-10-12T08:33:34.961Z
+Generated: 2026-10-12T09:39:38.819Z

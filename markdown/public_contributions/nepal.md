@@ -1,6 +1,6 @@
 # Public Contributions - Nepal
 
-Generated: 2026-10-12T08:33:34.961Z
+Generated: 2026-10-12T09:39:38.819Z
 
 Users: 14130
 
@@ -12,8 +12,8 @@ Users: 14130
 | 4 | [Avinash0x1](https://github.com/Avinash0x1) | Avinash Thakur |  | Avinash0x1 | Nepal | 10241 |
 | 5 | [Wahesh](https://github.com/Wahesh) | Mahesh Dahal |  |  | Nepal | 6922 |
 | 6 | [Nischhalsubba](https://github.com/Nischhalsubba) | Nischhal Raj Subba | Fiverr | imnischhal | Kathmandu | 6498 |
-| 7 | [QaidVoid](https://github.com/QaidVoid) | Rabindra Dhakal | @pkgforge |  | Nepal | 6227 |
-| 8 | [AkkalDhami](https://github.com/AkkalDhami) | Akkal Dhami | K*****Tech  | _akkal_dhami | Kathmandu, Nepal | 5917 |
+| 7 | [AkkalDhami](https://github.com/AkkalDhami) | Akkal Dhami | K*****Tech  | _akkal_dhami | Kathmandu, Nepal | 6396 |
+| 8 | [QaidVoid](https://github.com/QaidVoid) | Rabindra Dhakal | @pkgforge |  | Nepal | 6227 |
 | 9 | [adityathebe](https://github.com/adityathebe) | Aditya Thebe | @flanksource |  | Kathmandu, Nepal | 4851 |
 | 10 | [neupkishor](https://github.com/neupkishor) | Kishor Neupane | Neup Group | heyneupkishor | Kathmandu, Nepal | 3724 |
 | 11 | [nightmaregaurav](https://github.com/nightmaregaurav) | Gaurav Nyaupane | Tekkon Technologies |  | Kathmandu, Nepal | 3641 |
@@ -23,6 +23,6 @@ Users: 14130
 | 15 | [muktinathrajbanshi](https://github.com/muktinathrajbanshi) | Muktinath Rajbanshi | company@mukti |  | Kathmandu | 3383 |
 | 16 | [ParbinShrees](https://github.com/ParbinShrees) | Parbin Shrees |  |  | Nepal,Pokhara | 3185 |
 | 17 | [raaznp](https://github.com/raaznp) | Raj Kumar Nepal | @merocms |  | Kathmandu, Nepal | 2871 |
-| 18 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 2831 |
-| 19 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada |  |  | Dhading,Nepal | 2689 |
-| 20 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary |  | AashishCha9656 | Pokhara, Nepal | 2666 |
+| 18 | [sameer9860](https://github.com/sameer9860) | Samir Khatiwada |  |  | Dhading,Nepal | 2689 |
+| 19 | [AshPiBit02](https://github.com/AshPiBit02) | Aashish Chaudhary |  | AashishCha9656 | Pokhara, Nepal | 2666 |
+| 20 | [lohanidamodar](https://github.com/lohanidamodar) | Damodar Lohani | @appwrite PopupBits | lohanidamodar | Kathmandu, Nepal | 2596 |

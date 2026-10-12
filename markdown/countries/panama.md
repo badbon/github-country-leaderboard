@@ -13,7 +13,7 @@ Indexed users: 1,070
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [MattRiddell](https://github.com/MattRiddell) | Matthew Riddell | Panama | 43,858 |
-| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 23,939 |
+| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 24,100 |
 | 3 | [rafaaro](https://github.com/rafaaro) | Rafael Arosemena | Panama | 20,799 |
 | 4 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
 | 5 | [quezadaesteban](https://github.com/quezadaesteban) | Esteban Quezada | Panama | 17,381 |
@@ -38,7 +38,7 @@ Indexed users: 1,070
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [jeremymcs](https://github.com/jeremymcs) | Jeremy McSpadden | Panama City, FL | 18,057 |
-| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,460 |
+| 2 | [ElenaRevicheva](https://github.com/ElenaRevicheva) | Elena | Panama, Panama city | 5,627 |
 | 3 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 4,111 |
 | 4 | [nandocdev](https://github.com/nandocdev) | Fernando Castillo Valdés | Panama, Panama City | 2,704 |
 | 5 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 2,438 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-12T08:38:05.894Z
+Generated: 2026-10-12T09:45:21.012Z

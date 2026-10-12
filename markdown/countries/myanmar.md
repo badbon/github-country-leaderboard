@@ -27,8 +27,8 @@ Indexed users: 2,069
 | 13 | [myatminag](https://github.com/myatminag) | Myat Min Aung | Yangon, Myanmar | 3,857 |
 | 14 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 3,664 |
 | 15 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet | Myanmar | 3,492 |
-| 16 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
-| 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,158 |
+| 16 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,409 |
+| 17 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
 | 18 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) | Myanmar, Yangon | 3,106 |
 | 19 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | Myanmar | 3,085 |
 | 20 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | Yangon, Myanmar | 3,030 |
@@ -50,7 +50,7 @@ Indexed users: 2,069
 | 11 | [wintkhantlin](https://github.com/wintkhantlin) | Wint Khant Lin | Myanmar, Yangon, Shwe Pyi Thar | 1,175 |
 | 12 | [mrmyothet](https://github.com/mrmyothet) | MyoThet | Yangon, Myanmar | 1,153 |
 | 13 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | Muse, Shan State, Myanmar | 1,152 |
-| 14 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,091 |
+| 14 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | Myanmar | 1,071 |
 | 15 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | Myanmar | 1,032 |
 | 16 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung | Myanmar | 1,006 |
 | 17 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Yangon, Myanmar | 1,001 |
@@ -83,4 +83,4 @@ Indexed users: 2,069
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-12T08:32:27.371Z
+Generated: 2026-10-12T09:38:59.264Z

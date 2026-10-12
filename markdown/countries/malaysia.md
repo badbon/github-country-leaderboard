@@ -44,8 +44,8 @@ Indexed users: 11,813
 | 5 | [melvinchia3636](https://github.com/melvinchia3636) | Melvin Chia | Johor, Malaysia | 9,221 |
 | 6 | [farhan-syah](https://github.com/farhan-syah) | Farhan Syah | Malaysia | 8,321 |
 | 7 | [AngJianming](https://github.com/AngJianming) | Ang Jianming (Jim) | Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | 8,075 |
-| 8 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 7,057 |
-| 9 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 6,906 |
+| 8 | [data-gov-my](https://github.com/data-gov-my) | data.gov.my | Putrajaya, Malaysia | 7,747 |
+| 9 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 7,057 |
 | 10 | [ariffazil](https://github.com/ariffazil) | ariffazil | Malaysia | 6,700 |
 | 11 | [red1oon](https://github.com/red1oon) | Redhuan D. Oon | Kuala Lumpur, Malaysia | 6,390 |
 | 12 | [afandiazmi](https://github.com/afandiazmi) | Afandi Azmi | Malaysia | 6,304 |
@@ -83,4 +83,4 @@ Indexed users: 11,813
 | 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 458 |
 | 20 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 
-Generated: 2026-10-12T08:27:15.113Z
+Generated: 2026-10-12T09:35:31.358Z
