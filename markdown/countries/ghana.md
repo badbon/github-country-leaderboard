@@ -13,10 +13,10 @@ Indexed users: 7,108
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Ghana | 78,019 |
-| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 67,756 |
+| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 53,012 |
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 33,429 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 27,754 |
-| 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 22,798 |
+| 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 24,855 |
 | 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 15,480 |
 | 7 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Accra, Ghana | 12,739 |
 | 8 | [Philinzag](https://github.com/Philinzag) | Philip A. | Ghana | 10,626 |
@@ -38,9 +38,9 @@ Indexed users: 7,108
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | Accra, Ghana | 31,359 |
-| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 25,397 |
-| 3 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 23,317 |
-| 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 19,382 |
+| 2 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 23,317 |
+| 3 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong | Accra, Ghana | 19,539 |
+| 4 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | Takoradi, Western Region, Ghana. | 19,383 |
 | 5 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | Accra Ghana | 14,900 |
 | 6 | [ghwmelite-dotcom](https://github.com/ghwmelite-dotcom) | OsbornH | GHANA | 7,240 |
 | 7 | [Eselase-Noble](https://github.com/Eselase-Noble) | Nobleson | Accra | 7,054 |
@@ -55,8 +55,8 @@ Indexed users: 7,108
 | 16 | [gideonadeti](https://github.com/gideonadeti) | Gideon Adeti | Accra, Ghana | 2,518 |
 | 17 | [collinsasante](https://github.com/collinsasante) | Collins Asante | Accra, Ghana | 2,420 |
 | 18 | [dominicnaatey](https://github.com/dominicnaatey) | Dominic Naatey | Accra | 2,387 |
-| 19 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 2,295 |
-| 20 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
+| 19 | [nyaabaaugustine-hue](https://github.com/nyaabaaugustine-hue) | Cyber | Accra | 2,294 |
+| 20 | [lankyghana](https://github.com/lankyghana) | Daniel Kwadwo Takyi | Accra Ghana | 2,176 |
 
 ## Followers
 
@@ -68,12 +68,12 @@ Indexed users: 7,108
 | 4 | [wycliffecomputerdoc](https://github.com/wycliffecomputerdoc) | Gyambibi Wycliffe Kwame | Ghana | 602 |
 | 5 | [elidotco](https://github.com/elidotco) | Ebenezer Ametepeh | Ghana | 518 |
 | 6 | [david-legend](https://github.com/david-legend) | David-Legend | GHANA | 513 |
-| 7 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 467 |
-| 8 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 456 |
+| 7 | [qbentil](https://github.com/qbentil) | Bentil Shadrack | Ghana | 456 |
+| 8 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | Accra, Ghana | 454 |
 | 9 | [Burkifa23](https://github.com/Burkifa23) | Frank Kwizera | Ghana, Berekuso | 452 |
 | 10 | [Williano](https://github.com/Williano) | William Kpabitey Kwabla | Kumasi, Ghana | 443 |
 | 11 | [Cittykitten](https://github.com/Cittykitten) | Tegah Tiana |  Ghana | 404 |
-| 12 | [Origina-sudo](https://github.com/Origina-sudo) | Benjamin Arthur | Ghana | 397 |
+| 12 | [Origina-sudo](https://github.com/Origina-sudo) | Benjamin Arthur | Ghana | 388 |
 | 13 | [quintincodes](https://github.com/quintincodes) | Edward King Quintin-Sey | Ghana | 357 |
 | 14 | [hunterxcobby](https://github.com/hunterxcobby) | Cobby Sefah Solomon | Accra, Ghana | 356 |
 | 15 | [tothepointcode](https://github.com/tothepointcode) | Terra Andoh Baffoe | Ghana | 353 |
@@ -83,4 +83,4 @@ Indexed users: 7,108
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-11T22:53:54.198Z
+Generated: 2026-10-11T23:57:27.764Z

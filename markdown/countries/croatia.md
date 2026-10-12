@@ -1,6 +1,6 @@
 # Croatia
 
-Indexed users: 5,437
+Indexed users: 5,438
 
 | Leaderboard | Link |
 |---|---|
@@ -49,14 +49,14 @@ Indexed users: 5,437
 | 10 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Croatia | 4,153 |
 | 11 | [chefsale](https://github.com/chefsale) | Sandi Fatic | Croatia | 3,819 |
 | 12 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Zagreb/Trogir | 3,806 |
-| 13 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
-| 14 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
-| 15 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 2,954 |
-| 16 | [Ino-Bagaric](https://github.com/Ino-Bagaric) | Ivan Bagarić | Croatia | 2,824 |
-| 17 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,786 |
-| 18 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Veli Lošinj, Croatia | 2,611 |
-| 19 | [brunozoric](https://github.com/brunozoric) | Bruno Zorić | Zagreb | 2,409 |
-| 20 | [MathieuDutSik](https://github.com/MathieuDutSik) | Mathieu Dutour Sikiric | Zagreb | 2,287 |
+| 13 | [tandarajure-crypto](https://github.com/tandarajure-crypto) | JURE TANDARA | Zagreb | 3,700 |
+| 14 | [moljac](https://github.com/moljac) | moljac | Zagreb, Croatia | 3,410 |
+| 15 | [borisbabic](https://github.com/borisbabic) | Boris | Zagreb, Croatia | 3,205 |
+| 16 | [davidabram](https://github.com/davidabram) | David Abram | Croatia | 2,954 |
+| 17 | [Ino-Bagaric](https://github.com/Ino-Bagaric) | Ivan Bagarić | Croatia | 2,824 |
+| 18 | [SeloSlav](https://github.com/SeloSlav) | Martin Erlic | Zagreb | 2,786 |
+| 19 | [ralfbecher](https://github.com/ralfbecher) | Ralfo Becher | Veli Lošinj, Croatia | 2,611 |
+| 20 | [brunozoric](https://github.com/brunozoric) | Bruno Zorić | Zagreb | 2,409 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,437
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-11T22:46:10.305Z
+Generated: 2026-10-11T23:50:40.789Z

@@ -42,13 +42,13 @@ Indexed users: 10,952
 | 3 | [Bayselonarrend](https://github.com/Bayselonarrend) | Anton Titovets | Minsk, Belarus | 4,103 |
 | 4 | [kirich1409](https://github.com/kirich1409) | Kirill Rozov | Grodno, Belarus | 3,364 |
 | 5 | [zarazaex69](https://github.com/zarazaex69) | zarazaex | Minsk | 2,879 |
-| 6 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
-| 7 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,208 |
-| 8 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 2,150 |
-| 9 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
-| 10 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
-| 11 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
-| 12 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga | Brest, Belarus | 2,037 |
+| 6 | [DmitriyKuladmed](https://github.com/DmitriyKuladmed) | Dmitriy Kulaga | Brest, Belarus | 2,733 |
+| 7 | [ermig1979](https://github.com/ermig1979) | Ihar Yermalayeu | Minsk, Belarus | 2,244 |
+| 8 | [TarhunchiKKK](https://github.com/TarhunchiKKK) | Konstantin Barilo | Minsk, Belarus | 2,208 |
+| 9 | [Mukller](https://github.com/Mukller) | Anton Petnitsky | Belarus, Minsk | 2,150 |
+| 10 | [pese-git](https://github.com/pese-git) | Sergey Penkovsky | Belarus | 2,113 |
+| 11 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
+| 12 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
 | 13 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
 | 14 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
 | 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
@@ -83,4 +83,4 @@ Indexed users: 10,952
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-11T22:38:33.005Z
+Generated: 2026-10-11T23:42:27.848Z

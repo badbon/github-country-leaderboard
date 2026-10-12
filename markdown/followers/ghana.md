@@ -1,6 +1,6 @@
 # Followers - Ghana
 
-Generated: 2026-10-11T22:53:54.198Z
+Generated: 2026-10-11T23:57:27.764Z
 
 Users: 7108
 
@@ -12,12 +12,12 @@ Users: 7108
 | 4 | [wycliffecomputerdoc](https://github.com/wycliffecomputerdoc) | Gyambibi Wycliffe Kwame | Individual | Computerdoc_1 | Ghana | 602 |
 | 5 | [elidotco](https://github.com/elidotco) | Ebenezer Ametepeh |  |  | Ghana | 518 |
 | 6 | [david-legend](https://github.com/david-legend) | David-Legend |  | DavidLegend47 | GHANA | 513 |
-| 7 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | @SeViVI-Tese  | CodeJoeTheDuke | Accra, Ghana | 467 |
-| 8 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 456 |
+| 7 | [qbentil](https://github.com/qbentil) | Bentil Shadrack |  | themanbentil | Ghana | 456 |
+| 8 | [codejoetheduke](https://github.com/codejoetheduke) | Duke Kojo Kongo | @SeViVI-Tese  | CodeJoeTheDuke | Accra, Ghana | 454 |
 | 9 | [Burkifa23](https://github.com/Burkifa23) | Frank Kwizera | Ashesi University | burkifa23 | Ghana, Berekuso | 452 |
 | 10 | [Williano](https://github.com/Williano) | William Kpabitey Kwabla |  | _Williano7 | Kumasi, Ghana | 443 |
 | 11 | [Cittykitten](https://github.com/Cittykitten) | Tegah Tiana | University of Ghana | Tegah_Tiana |  Ghana | 404 |
-| 12 | [Origina-sudo](https://github.com/Origina-sudo) | Benjamin Arthur | Ghana Water Company Limited | BenjaminAr36918 | Ghana | 397 |
+| 12 | [Origina-sudo](https://github.com/Origina-sudo) | Benjamin Arthur | Ghana Water Company Limited | BenjaminAr36918 | Ghana | 388 |
 | 13 | [quintincodes](https://github.com/quintincodes) | Edward King Quintin-Sey | QEXION LABS | MrQuintinSey | Ghana | 357 |
 | 14 | [hunterxcobby](https://github.com/hunterxcobby) | Cobby Sefah Solomon | Zedulo Ghana Limited | hunterxcobby | Accra, Ghana | 356 |
 | 15 | [tothepointcode](https://github.com/tothepointcode) | Terra Andoh Baffoe |  |  | Ghana | 353 |

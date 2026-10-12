@@ -21,17 +21,17 @@ Indexed users: 2,129
 | 7 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | Bosnia and Herzegovina | 5,790 |
 | 8 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa | East Sarajevo, Bosnia and Herzegovina | 5,769 |
 | 9 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
-| 10 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 5,276 |
-| 11 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,224 |
-| 12 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 4,601 |
-| 13 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
-| 14 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 4,102 |
-| 15 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
-| 16 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 3,757 |
-| 17 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 3,701 |
-| 18 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim | Bosnia and Herzegovina | 3,692 |
-| 19 | [bashovski](https://github.com/bashovski) | Anur Bašić | Sarajevo | 3,618 |
-| 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 3,612 |
+| 10 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,452 |
+| 11 | [aness55](https://github.com/aness55) | Anes | Sarajevo | 5,276 |
+| 12 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,224 |
+| 13 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Sarajevo | 4,601 |
+| 14 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
+| 15 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic | Sarajevo | 4,102 |
+| 16 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
+| 17 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic | Sarajevo, Bosnia and Herzegovina | 3,873 |
+| 18 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 3,757 |
+| 19 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim | Bosnia and Herzegovina | 3,692 |
+| 20 | [bashovski](https://github.com/bashovski) | Anur Bašić | Sarajevo | 3,618 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,129
 | 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-11T22:41:34.495Z
+Generated: 2026-10-11T23:45:46.387Z

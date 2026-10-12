@@ -1,17 +1,17 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-11T22:35:27.178Z
+Generated: 2026-10-11T23:40:21.885Z
 
-Users: 2506
+Users: 2505
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech |  |  | Angola | 31686 |
-| 2 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 2301 |
-| 3 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  | alberto_rj_dev |  Luanda, Angola | 2163 |
-| 4 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
-| 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2104 |
-| 6 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | @42Luanda |  | Luanda | 1899 |
+| 2 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | @42Luanda |  | Luanda | 2614 |
+| 3 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala |  |  | Angola, Luanda | 2301 |
+| 4 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  | alberto_rj_dev |  Luanda, Angola | 2163 |
+| 5 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
+| 6 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2104 |
 | 7 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1779 |
 | 8 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @underdev-official  |  | Moçâmedes, Namibe, Angola | 1400 |
 | 9 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1374 |

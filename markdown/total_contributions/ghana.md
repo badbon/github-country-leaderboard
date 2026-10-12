@@ -1,16 +1,16 @@
 # Total Contributions - Ghana
 
-Generated: 2026-10-11T22:53:54.198Z
+Generated: 2026-10-11T23:57:27.764Z
 
 Users: 7108
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [1mos-droid](https://github.com/1mos-droid) | Kumesi Moses Mawulolo | Monarch Holdings |  | Ghana | 78019 |
-| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 67756 |
+| 2 | [Joeboy77](https://github.com/Joeboy77) | Joseph Acheampong |  |  | Accra, Ghana | 53012 |
 | 3 | [Ibrahim-Aboubacar](https://github.com/Ibrahim-Aboubacar) | Ibrahim Aboubacar Ibrahim | @tech-plus-plus |  | Accra, Ghana | 33429 |
 | 4 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Rehotech & Tayenn | heiskimathi | Ghana | 27754 |
-| 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 22798 |
+| 5 | [danieladeabah](https://github.com/danieladeabah) | Daniel Adeabah | CEO at Toazeo, Fullstack Dev @wonchunii. |  | Takoradi, Western Region, Ghana. | 24855 |
 | 6 | [mhiskall282](https://github.com/mhiskall282) | John Okyere | https://johnokyere.xyz | 0xMhiskall | Accra Ghana | 15480 |
 | 7 | [felixyeboah](https://github.com/felixyeboah) | Felix Nana Yaw Yeboah | Complete Farmer LLC | sudocode_ | Accra, Ghana | 12739 |
 | 8 | [Philinzag](https://github.com/Philinzag) | Philip A. | SOFNED |  | Ghana | 10626 |

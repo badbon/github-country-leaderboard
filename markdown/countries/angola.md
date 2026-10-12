@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,506
+Indexed users: 2,505
 
 | Leaderboard | Link |
 |---|---|
@@ -38,11 +38,11 @@ Indexed users: 2,506
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [runtechx](https://github.com/runtechx) | RunTech | Angola | 31,686 |
-| 2 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,301 |
-| 3 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,163 |
-| 4 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
-| 5 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
-| 6 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 1,899 |
+| 2 | [NdondaDaniel2020](https://github.com/NdondaDaniel2020) | Ndonda Daniel | Luanda | 2,614 |
+| 3 | [FranciscoDala](https://github.com/FranciscoDala) | Francisco Dala | Angola, Luanda | 2,301 |
+| 4 | [alberto-rj](https://github.com/alberto-rj) | Alberto José |  Luanda, Angola | 2,163 |
+| 5 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
+| 6 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
 | 7 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,779 |
 | 8 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,400 |
 | 9 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
@@ -83,4 +83,4 @@ Indexed users: 2,506
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-11T22:35:27.178Z
+Generated: 2026-10-11T23:40:21.885Z

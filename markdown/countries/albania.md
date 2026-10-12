@@ -22,7 +22,7 @@ Indexed users: 1,184
 | 8 | [somethim](https://github.com/somethim) | Arbi Kullakshi | Tirana, Albania | 6,294 |
 | 9 | [orges](https://github.com/orges) | orges | Albania | 6,225 |
 | 10 | [bledar](https://github.com/bledar) | Bledar Haxhia | Albania | 6,029 |
-| 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,887 |
+| 11 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 5,794 |
 | 12 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
 | 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 5,568 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
@@ -37,7 +37,7 @@ Indexed users: 1,184
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,880 |
+| 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,833 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 4,765 |
 | 3 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 3,661 |
 | 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,521 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-11T22:34:37.595Z
+Generated: 2026-10-11T23:39:14.500Z

@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Israel](markdown/countries/israel.md) | 12,434 | [Public](markdown/public_contributions/israel.md) | [Total](markdown/total_contributions/israel.md) | [Followers](markdown/followers/israel.md) |
-| [Cyprus](markdown/countries/cyprus.md) | 2,738 | [Public](markdown/public_contributions/cyprus.md) | [Total](markdown/total_contributions/cyprus.md) | [Followers](markdown/followers/cyprus.md) |
-| [Romania](markdown/countries/romania.md) | 14,989 | [Public](markdown/public_contributions/romania.md) | [Total](markdown/total_contributions/romania.md) | [Followers](markdown/followers/romania.md) |
-| [Azerbaijan](markdown/countries/azerbaijan.md) | 5,083 | [Public](markdown/public_contributions/azerbaijan.md) | [Total](markdown/total_contributions/azerbaijan.md) | [Followers](markdown/followers/azerbaijan.md) |
-| [Kyrgyzstan](markdown/countries/kyrgyzstan.md) | 2,454 | [Public](markdown/public_contributions/kyrgyzstan.md) | [Total](markdown/total_contributions/kyrgyzstan.md) | [Followers](markdown/followers/kyrgyzstan.md) |
+| [Iceland](markdown/countries/iceland.md) | 1,582 | [Public](markdown/public_contributions/iceland.md) | [Total](markdown/total_contributions/iceland.md) | [Followers](markdown/followers/iceland.md) |
+| [Guinea](markdown/countries/guinea.md) | 263 | [Public](markdown/public_contributions/guinea.md) | [Total](markdown/total_contributions/guinea.md) | [Followers](markdown/followers/guinea.md) |
+| [Isle of Man](markdown/countries/isle_of_man.md) | 155 | [Public](markdown/public_contributions/isle_of_man.md) | [Total](markdown/total_contributions/isle_of_man.md) | [Followers](markdown/followers/isle_of_man.md) |
+| [Greece](markdown/countries/greece.md) | 15,580 | [Public](markdown/public_contributions/greece.md) | [Total](markdown/total_contributions/greece.md) | [Followers](markdown/followers/greece.md) |
+| [South Africa](markdown/countries/south_africa.md) | 17,946 | [Public](markdown/public_contributions/south_africa.md) | [Total](markdown/total_contributions/south_africa.md) | [Followers](markdown/followers/south_africa.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-11T23:24:45.642Z
+Generated: 2026-10-12T00:05:17.351Z

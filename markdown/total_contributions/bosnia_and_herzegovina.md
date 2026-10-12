@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-11T22:41:34.495Z
+Generated: 2026-10-11T23:45:46.387Z
 
 Users: 2129
 
@@ -15,14 +15,14 @@ Users: 2129
 | 7 | [newPrimitives](https://github.com/newPrimitives) | Nermin Šehić | @betastudio | itsnerminsehic | Bosnia and Herzegovina | 5790 |
 | 8 | [vascabarkapa](https://github.com/vascabarkapa) | Vasilije Čabarkapa |  |  | East Sarajevo, Bosnia and Herzegovina | 5769 |
 | 9 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic |  |  | Sarajevo | 5647 |
-| 10 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 5276 |
-| 11 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5224 |
-| 12 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 4601 |
-| 13 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |
-| 14 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 4102 |
-| 15 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 3970 |
-| 16 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 3757 |
-| 17 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 3701 |
-| 18 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim |  |  | Bosnia and Herzegovina | 3692 |
-| 19 | [bashovski](https://github.com/bashovski) | Anur Bašić | @RnD-Labz |  | Sarajevo | 3618 |
-| 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 3612 |
+| 10 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
+| 11 | [aness55](https://github.com/aness55) | Anes |  |  | Sarajevo | 5276 |
+| 12 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5224 |
+| 13 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 4601 |
+| 14 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |
+| 15 | [agobeljic1](https://github.com/agobeljic1) | Adnan Gobeljic |  |  | Sarajevo | 4102 |
+| 16 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 3970 |
+| 17 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic |  |  | Sarajevo, Bosnia and Herzegovina | 3873 |
+| 18 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 3757 |
+| 19 | [ibrahimcaj](https://github.com/ibrahimcaj) | Ibrahim |  |  | Bosnia and Herzegovina | 3692 |
+| 20 | [bashovski](https://github.com/bashovski) | Anur Bašić | @RnD-Labz |  | Sarajevo | 3618 |
