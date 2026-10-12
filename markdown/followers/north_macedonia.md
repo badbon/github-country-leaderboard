@@ -1,8 +1,8 @@
 # Followers - North Macedonia
 
-Generated: 2026-10-12T10:51:41.941Z
+Generated: 2026-10-12T16:59:31.134Z
 
-Users: 1933
+Users: 1932
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

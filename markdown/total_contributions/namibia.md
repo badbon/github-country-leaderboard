@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-12T10:49:12.125Z
+Generated: 2026-10-12T16:56:33.996Z
 
 Users: 476
 
@@ -20,7 +20,7 @@ Users: 476
 | 12 | [mtjikuzu](https://github.com/mtjikuzu) | Mbaunguraije Tjikuzu | Namibia University of Science and Technology |  | Windhoek, Namibia | 2569 |
 | 13 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 2480 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2287 |
-| 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2235 |
+| 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2225 |
 | 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2207 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 1959 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1919 |

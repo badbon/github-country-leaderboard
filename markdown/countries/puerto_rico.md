@@ -12,7 +12,7 @@ Indexed users: 1,538
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 34,914 |
+| 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 38,775 |
 | 2 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 19,949 |
 | 3 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 18,486 |
 | 4 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 17,279 |
@@ -24,28 +24,28 @@ Indexed users: 1,538
 | 10 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 6,925 |
 | 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
 | 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 6,644 |
-| 13 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
-| 14 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
-| 15 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
-| 17 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
-| 18 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
-| 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 5,433 |
-| 20 | [Wizrig](https://github.com/Wizrig) | Wiz | Florida, Puerto Rico, California,  | 5,348 |
+| 13 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
+| 14 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
+| 15 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 6,099 |
+| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
+| 17 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
+| 18 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
+| 19 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
+| 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 5,433 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 16,639 |
-| 2 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
-| 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
-| 4 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 4,936 |
+| 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,316 |
+| 3 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
+| 4 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,798 |
 | 6 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
-| 7 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
-| 8 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
-| 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,265 |
+| 7 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 2,993 |
+| 8 | [cywf](https://github.com/cywf) | KP | San Juan, PR | 2,672 |
+| 9 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | Puerto Rico | 2,615 |
 | 10 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 1,685 |
 | 11 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 1,337 |
 | 12 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús | San Juan, Puerto Rico | 1,331 |
@@ -64,7 +64,7 @@ Indexed users: 1,538
 |---:|---|---|---|---:|
 | 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez | Puerto Rico | 2,184 |
 | 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,384 |
-| 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 1,112 |
+| 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 1,114 |
 | 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López | Puerto Rico | 688 |
 | 5 | [NathanSweet](https://github.com/NathanSweet) | Nathan Sweet | Puerto Rico | 589 |
 | 6 | [gcollazo](https://github.com/gcollazo) | Giovanni Collazo | Puerto Rico | 456 |
@@ -73,14 +73,14 @@ Indexed users: 1,538
 | 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | Puerto Rico | 204 |
 | 10 | [FrenzyExists](https://github.com/FrenzyExists) | Detective Pikachu | Aguadilla, Puerto Rico | 197 |
 | 11 | [bvelez](https://github.com/bvelez) | Bienvenido Vélez | Mayagüez, Puerto Rico | 174 |
-| 12 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 170 |
+| 12 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 169 |
 | 13 | [victoroalvarez](https://github.com/victoroalvarez) | Victor O. Alvarez | Puerto Rico | 167 |
 | 14 | [0thernet](https://github.com/0thernet) | ben | puerto rico | 164 |
 | 15 | [aryxns](https://github.com/aryxns) | Aryan Sharma | puerto rico | 159 |
 | 16 | [perazaharmonics](https://github.com/perazaharmonics) | J. Enrique Peraza, BScEE MEngEE | Hatillo, Puerto Rico | 150 |
-| 17 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | Puerto Rico | 148 |
+| 17 | [danysantiago](https://github.com/danysantiago) | Daniel Santiago | Puerto Rico | 149 |
 | 18 | [Xiomara7](https://github.com/Xiomara7) | Xiomara Figueroa  | San Juan, PR | 138 |
-| 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 122 |
+| 19 | [jonahoffline](https://github.com/jonahoffline) | Jonah Ruiz | Puerto Rico | 121 |
 | 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 
-Generated: 2026-10-12T10:55:45.174Z
+Generated: 2026-10-12T17:05:28.669Z

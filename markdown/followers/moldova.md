@@ -1,6 +1,6 @@
 # Followers - Moldova
 
-Generated: 2026-10-12T10:47:11.087Z
+Generated: 2026-10-12T16:54:51.831Z
 
 Users: 1754
 
@@ -13,7 +13,7 @@ Users: 1754
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | itcare.net |  | Chisinau, Moldova | 349 |
 | 6 | [sergiuchilat](https://github.com/sergiuchilat) | Sergiu Chilat | Adtelligent Inc. |  | Moldova | 293 |
 | 7 | [mgutu](https://github.com/mgutu) | Maria Gutu | IPLT "Spiru Haret" |  | Republica Moldova | 289 |
-| 8 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | @Planable | nicubarbaros | Moldova | 281 |
+| 8 | [nicubarbaros](https://github.com/nicubarbaros) | Nicu Barbaros | @Planable | nicubarbaros | Moldova | 280 |
 | 9 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 205 |
 | 10 | [gvvynplaine](https://github.com/gvvynplaine) | Roman |  |  | Moldova, Tiraspol | 194 |
 | 11 | [steevehook](https://github.com/steevehook) | Steve Hook | @steevehook | steevehook | Chisinau, Moldova | 187 |
@@ -21,7 +21,7 @@ Users: 1754
 | 13 | [vova07](https://github.com/vova07) | Vasile C. |  |  | Chișinău, Moldova | 171 |
 | 14 | [bearanatolie](https://github.com/bearanatolie) | Anatolie Ursu | zugzwang lab |  | ulmu, laloveni, Moldova | 155 |
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | emysound.com | addictedcs | Chisinau, Moldova | 144 |
-| 16 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | @callstack | andrei_zgirvaci | Chișinău, Moldova | 122 |
+| 16 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | @callstack | andrei_zgirvaci | Chișinău, Moldova | 123 |
 | 17 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 119 |
 | 18 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 118 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji |  | v_gaidarji | Moldova | 115 |

@@ -24,7 +24,7 @@ Indexed users: 299
 | 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,871 |
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,826 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,424 |
-| 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,314 |
+| 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,297 |
 | 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,205 |
 | 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,148 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
@@ -50,7 +50,7 @@ Indexed users: 299
 | 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
 | 12 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 312 |
 | 13 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 279 |
-| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 257 |
+| 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 256 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 225 |
 | 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 214 |
 | 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-12T10:56:17.459Z
+Generated: 2026-10-12T17:05:37.269Z

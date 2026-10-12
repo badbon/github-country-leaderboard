@@ -1,12 +1,12 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-12T10:40:16.253Z
+Generated: 2026-10-12T16:42:52.243Z
 
 Users: 798
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7015 |
+| 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7564 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 6794 |
 | 3 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6287 |
 | 4 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6211 |
@@ -23,6 +23,6 @@ Users: 798
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3567 |
 | 16 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3525 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3493 |
-| 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3454 |
+| 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3463 |
 | 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3386 |
 | 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3272 |

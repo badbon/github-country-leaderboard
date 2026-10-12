@@ -1,20 +1,20 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-12T10:55:45.174Z
+Generated: 2026-10-12T17:05:28.669Z
 
 Users: 1538
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 16639 |
-| 2 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
-| 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 5162 |
-| 4 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 4936 |
+| 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 12316 |
+| 3 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
+| 4 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 5162 |
 | 5 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4798 |
 | 6 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 3100 |
-| 7 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2672 |
-| 8 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 2615 |
-| 9 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 2265 |
+| 7 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 2993 |
+| 8 | [cywf](https://github.com/cywf) | KP | @pr-cybr  |  | San Juan, PR | 2672 |
+| 9 | [rebelinux](https://github.com/rebelinux) | Jonathan Colon | IT Consultant |  | Puerto Rico | 2615 |
 | 10 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 1685 |
 | 11 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 1337 |
 | 12 | [ricardojuanmorales](https://github.com/ricardojuanmorales) | Ricardo Juan Morales De Jesús |  |  | San Juan, Puerto Rico | 1331 |

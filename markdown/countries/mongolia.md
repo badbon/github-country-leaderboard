@@ -23,7 +23,7 @@ Indexed users: 805
 | 9 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 7,807 |
 | 10 | [ebattulga](https://github.com/ebattulga) | ebattulga | Mongolia, Ulaanbaatar | 6,510 |
 | 11 | [blgn94](https://github.com/blgn94) | Bilguun | Erdenet, Mongolia | 6,393 |
-| 12 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 5,976 |
+| 12 | [turbold24](https://github.com/turbold24) | Turbold | Ulaanbaatar, Mongolia | 6,166 |
 | 13 | [mtergel](https://github.com/mtergel) | Tergel Munkhdelger | Mongolia | 5,624 |
 | 14 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,255 |
 | 15 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | Mongolia | 4,910 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-12T10:48:30.945Z
+Generated: 2026-10-12T16:54:58.459Z

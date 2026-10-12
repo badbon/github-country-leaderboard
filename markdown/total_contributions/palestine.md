@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-12T10:53:02.783Z
+Generated: 2026-10-12T17:01:56.662Z
 
 Users: 2203
 
@@ -22,7 +22,7 @@ Users: 2203
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
 | 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |
-| 17 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
-| 18 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn |  | Hannahinn021 | Palestine - Ramallah | 3383 |
-| 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3378 |
-| 20 | [SwAt1563](https://github.com/SwAt1563) | Qutaiba Olayyan |  |  | Palestine | 3264 |
+| 17 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib |  |  | Palestine | 3880 |
+| 18 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
+| 19 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn |  | Hannahinn021 | Palestine - Ramallah | 3383 |
+| 20 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3378 |

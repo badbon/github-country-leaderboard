@@ -56,7 +56,7 @@ Indexed users: 1,770
 | 17 | [johncbowman](https://github.com/johncbowman) | John Bowman | Victoria, BC Canada | 1,506 |
 | 18 | [kpeatt](https://github.com/kpeatt) | Kyle Peatt | Victoria, BC | 1,419 |
 | 19 | [SodhiA1](https://github.com/SodhiA1) | Avisha Sodhi | Victoria | 1,315 |
-| 20 | [danielfrankcom](https://github.com/danielfrankcom) | Daniel Frankcom | Victoria, BC | 1,196 |
+| 20 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 1,214 |
 
 ## Followers
 
@@ -64,7 +64,7 @@ Indexed users: 1,770
 |---:|---|---|---|---:|
 | 1 | [isovector](https://github.com/isovector) | Sandy Maguire | Victoria, BC | 1,312 |
 | 2 | [dcaoyuan](https://github.com/dcaoyuan) | Caoyuan Deng | Victoria, B.C. Canada | 928 |
-| 3 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 727 |
+| 3 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Victoria, BC | 735 |
 | 4 | [ChrisPenner](https://github.com/ChrisPenner) | Chris Penner | Victoria BC, CA | 492 |
 | 5 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | Victoria, BC | 464 |
 | 6 | [jasoncwarner](https://github.com/jasoncwarner) | Jason Warner | Victoria, BC | 394 |
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 120 |
 
-Generated: 2026-10-12T11:00:55.726Z
+Generated: 2026-10-12T17:09:59.753Z

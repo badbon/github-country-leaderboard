@@ -22,7 +22,7 @@ Indexed users: 209
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,380 |
 | 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,161 |
 | 10 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
-| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,127 |
+| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,123 |
 | 12 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 866 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 859 |
 | 14 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 807 |
@@ -31,7 +31,7 @@ Indexed users: 209
 | 17 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 18 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa | Monrovia, Liberia | 634 |
 | 19 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad | Monrovia, Liberia | 618 |
-| 20 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Monrovia, Liberia | 604 |
+| 20 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 612 |
 
 ## Public Contributions
 
@@ -50,8 +50,8 @@ Indexed users: 209
 | 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 256 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 196 |
-| 14 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 172 |
-| 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 169 |
+| 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 179 |
+| 15 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 172 |
 | 16 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 157 |
 | 17 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | Rwanda, Liberia. | 144 |
 | 18 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 139 |
@@ -83,4 +83,4 @@ Indexed users: 209
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-12T10:41:07.031Z
+Generated: 2026-10-12T16:44:52.919Z

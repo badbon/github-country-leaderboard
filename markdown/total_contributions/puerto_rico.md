@@ -1,12 +1,12 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-12T10:55:45.174Z
+Generated: 2026-10-12T17:05:28.669Z
 
 Users: 1538
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 34914 |
+| 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 38775 |
 | 2 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 19949 |
 | 3 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 18486 |
 | 4 | [mattvv](https://github.com/mattvv) | Matt Van | @proofofplay |  | San Juan, Puerto Rico | 17279 |
@@ -18,11 +18,11 @@ Users: 1538
 | 10 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 6925 |
 | 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 6798 |
 | 12 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
-| 13 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6253 |
-| 14 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
-| 15 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
-| 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
-| 17 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5781 |
-| 18 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 5490 |
-| 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 5433 |
-| 20 | [Wizrig](https://github.com/Wizrig) | Wiz | I/O Digital Foundation |  | Florida, Puerto Rico, California,  | 5348 |
+| 13 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 6569 |
+| 14 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6253 |
+| 15 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
+| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
+| 17 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
+| 18 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5781 |
+| 19 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 5490 |
+| 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 5433 |

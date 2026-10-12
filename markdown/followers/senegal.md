@@ -1,6 +1,6 @@
 # Followers - Senegal
 
-Generated: 2026-10-12T11:00:33.623Z
+Generated: 2026-10-12T17:09:22.270Z
 
 Users: 1356
 
@@ -16,7 +16,7 @@ Users: 1356
 | 8 | [PapiHack](https://github.com/PapiHack) | Meissa (Papi) Mbaye |  | the_it_dev | Dakar, Senegal | 196 |
 | 9 | [takanome-dev](https://github.com/takanome-dev) | El Hadji Malick Seck | undefined | takanome_dev | Dakar, Senegal | 195 |
 | 10 | [MedouneSGB](https://github.com/MedouneSGB) | Médoune Siby Georges Baldé | Eyone | Medoune_SGB | Dakar | 192 |
-| 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 180 |
+| 11 | [dofbi](https://github.com/dofbi) | dofbi.eth | 01SERVICES | dofbi | Senegal | 186 |
 | 12 | [mamour-dx](https://github.com/mamour-dx) | Mamour Dieng | École Supérieure Polytechnique |  | Dakar | 180 |
 | 13 | [dickoa](https://github.com/dickoa) | Ahmadou Dicko |  |  | Dakar, Senegal | 171 |
 | 14 | [andrewSarr](https://github.com/andrewSarr) | Andre Sarr | None |  | Dakar | 168 |

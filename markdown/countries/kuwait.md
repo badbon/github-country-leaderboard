@@ -12,7 +12,7 @@ Indexed users: 798
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,015 |
+| 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,564 |
 | 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 6,794 |
 | 3 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,287 |
 | 4 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,211 |
@@ -29,7 +29,7 @@ Indexed users: 798
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas | Kuwait | 3,567 |
 | 16 | [careless10](https://github.com/careless10) | Menawer | Kuwait | 3,525 |
 | 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef | Kuwait | 3,493 |
-| 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,454 |
+| 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 3,463 |
 | 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | Kuwait City | 3,386 |
 | 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | Kuwait | 3,272 |
 
@@ -45,7 +45,7 @@ Indexed users: 798
 | 6 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 1,639 |
 | 7 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,573 |
 | 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,526 |
-| 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,389 |
+| 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,398 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,334 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 935 |
 | 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 824 |
@@ -69,7 +69,7 @@ Indexed users: 798
 | 5 | [smokeme](https://github.com/smokeme) | Fawaz Adi | Kuwait | 150 |
 | 6 | [MMGGYY66](https://github.com/MMGGYY66) | MOHAMED GAMIL ELDIMARDASH | KUWAIT | 143 |
 | 7 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 140 |
-| 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 131 |
+| 8 | [dmakwt](https://github.com/dmakwt) | Dhari | Kuwait | 132 |
 | 9 | [omsi96](https://github.com/omsi96) | Omar | Kuwait | 120 |
 | 10 | [hashemi](https://github.com/hashemi) | Ahmad Alhashemi | Kuwait | 110 |
 | 11 | [asmaaeltawil](https://github.com/asmaaeltawil) | Asmaa Eltawil | Kuwait | 106 |
@@ -83,4 +83,4 @@ Indexed users: 798
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-12T10:40:16.253Z
+Generated: 2026-10-12T16:42:52.243Z

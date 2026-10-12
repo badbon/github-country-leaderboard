@@ -49,14 +49,14 @@ Indexed users: 3,526
 | 10 | [leandre000](https://github.com/leandre000) | Izere Shema Leandre | Kigali,Rwanda | 3,661 |
 | 11 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 3,074 |
 | 12 | [Ndevu12](https://github.com/Ndevu12) | Jean Paul Elisa NIYOKWIZERWA | Kigali Rwanda | 2,996 |
-| 13 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 2,667 |
-| 14 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
-| 15 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 2,586 |
-| 16 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
-| 17 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
-| 18 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
-| 19 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | Kigali, Rwanda | 2,403 |
-| 20 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Kigali,Rwanda | 2,365 |
+| 13 | [etienne0114](https://github.com/etienne0114) | etienne tuyihamye | kigali | 2,820 |
+| 14 | [Goal651](https://github.com/Goal651) |  Wilson Goal BUGIRI | Rwanda-Kigali | 2,667 |
+| 15 | [tuyisengeaurele](https://github.com/tuyisengeaurele) | Ange Aurele Tuyisenge | Kigali, Rwanda | 2,665 |
+| 16 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 2,586 |
+| 17 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
+| 18 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
+| 19 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
+| 20 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | Kigali, Rwanda | 2,403 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,526
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-12T10:57:30.907Z
+Generated: 2026-10-12T17:05:50.948Z

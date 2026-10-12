@@ -1,6 +1,6 @@
 # Followers - Seychelles
 
-Generated: 2026-10-12T11:00:55.726Z
+Generated: 2026-10-12T17:09:59.753Z
 
 Users: 1770
 
@@ -8,7 +8,7 @@ Users: 1770
 |---:|---|---|---|---|---|---:|
 | 1 | [isovector](https://github.com/isovector) | Sandy Maguire |  |  | Victoria, BC | 1312 |
 | 2 | [dcaoyuan](https://github.com/dcaoyuan) | Caoyuan Deng | VibeTrader | dcaoyuan | Victoria, B.C. Canada | 928 |
-| 3 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | AppVeyor Systems Inc. |  | Victoria, BC | 727 |
+| 3 | [FeodorFitsner](https://github.com/FeodorFitsner) | Feodor Fitsner | Flet HQ |  | Victoria, BC | 735 |
 | 4 | [ChrisPenner](https://github.com/ChrisPenner) | Chris Penner | Unison Computing | chrislpenner | Victoria BC, CA | 492 |
 | 5 | [clarkbw](https://github.com/clarkbw) | Bryan Clark | @neondatabase | clarkbw | Victoria, BC | 464 |
 | 6 | [jasoncwarner](https://github.com/jasoncwarner) | Jason Warner | Poolside | jasoncwarner | Victoria, BC | 394 |

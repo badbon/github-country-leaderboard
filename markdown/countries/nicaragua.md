@@ -70,7 +70,7 @@ Indexed users: 1,395
 | 6 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 143 |
 | 7 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
 | 8 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 115 |
-| 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 109 |
+| 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
 | 10 | [Ualb](https://github.com/Ualb) | Ulises López | Managua. Nic | 101 |
 | 11 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 92 |
 | 12 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez | Managua, Nicaragua | 82 |
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-12T10:50:54.803Z
+Generated: 2026-10-12T16:57:59.987Z

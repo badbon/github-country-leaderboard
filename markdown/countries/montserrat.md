@@ -45,7 +45,7 @@ Indexed users: 291
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer | Plymouth, MN | 703 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 678 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 516 |
-| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 438 |
+| 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 426 |
 | 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 403 |
 | 11 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 355 |
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 347 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-12T10:48:57.958Z
+Generated: 2026-10-12T16:55:20.303Z

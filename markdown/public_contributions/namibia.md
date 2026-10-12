@@ -1,6 +1,6 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-12T10:49:12.125Z
+Generated: 2026-10-12T16:56:33.996Z
 
 Users: 476
 
@@ -10,7 +10,7 @@ Users: 476
 | 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 3135 |
 | 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 2239 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 1903 |
-| 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1500 |
+| 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1536 |
 | 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | 127.0.0.1 |  | Namibia | 1249 |
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1186 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 679 |

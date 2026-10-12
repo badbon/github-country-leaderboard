@@ -1,6 +1,6 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-12T10:41:07.031Z
+Generated: 2026-10-12T16:44:52.919Z
 
 Users: 209
 
@@ -16,7 +16,7 @@ Users: 209
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1380 |
 | 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 1161 |
 | 10 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
-| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1127 |
+| 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1123 |
 | 12 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 866 |
 | 13 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 859 |
 | 14 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | LoneScore | daddys_boy_21 | Monrovia, Liberia | 807 |
@@ -25,4 +25,4 @@ Users: 209
 | 17 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | FRONT-END DEVELOPER | efmomoh | Monrovia, Liberia | 719 |
 | 18 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa |  | knasumo | Monrovia, Liberia | 634 |
 | 19 | [xarrijorge](https://github.com/xarrijorge) | The African Nomad |  | xarrijorge | Monrovia, Liberia | 618 |
-| 20 | [davewonnah](https://github.com/davewonnah) | Dave Wonnah | Smart Liberia |  | Monrovia, Liberia | 604 |
+| 20 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 612 |

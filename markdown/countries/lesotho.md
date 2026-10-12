@@ -43,7 +43,7 @@ Indexed users: 160
 | 4 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche | Lesotho | 237 |
 | 5 | [Polokopule](https://github.com/Polokopule) | BD-SCHOOL-OF-CREATION  | MASERU,LESOTHO | 216 |
 | 6 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki | Lesotho, Maseru | 202 |
-| 7 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 190 |
+| 7 | [dev-penniel](https://github.com/dev-penniel) | Penniel Mothae | Lesotho, maseru | 191 |
 | 8 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha | Maseru | 180 |
 | 9 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane | Maseru, Lesotho | 151 |
 | 10 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | Lesotho,Maseru | 131 |
@@ -83,4 +83,4 @@ Indexed users: 160
 | 19 | [bonzysalesman](https://github.com/bonzysalesman) | Bonzy Salesman | Maseru | 13 |
 | 20 | [entsoereng](https://github.com/entsoereng) | Mokonyana Ntsoereng | Lesotho | 12 |
 
-Generated: 2026-10-12T10:40:33.932Z
+Generated: 2026-10-12T16:44:10.299Z
