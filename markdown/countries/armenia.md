@@ -12,7 +12,7 @@ Indexed users: 4,043
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Erik-Egnatosyan](https://github.com/Erik-Egnatosyan) | Erik Egnatosyan | Armenia | 105,206 |
+| 1 | [Erik-Egnatosyan](https://github.com/Erik-Egnatosyan) | Erik Egnatosyan | Armenia | 113,819 |
 | 2 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 10,720 |
 | 3 | [logictonic](https://github.com/logictonic) | Eugene | Armenia | 10,401 |
 | 4 | [ilyalosinski](https://github.com/ilyalosinski) | Ilya Losinski | Yerevan, Armenia | 10,400 |
@@ -83,4 +83,4 @@ Indexed users: 4,043
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-12T07:56:53.682Z
+Generated: 2026-10-12T09:03:29.131Z

@@ -1,8 +1,8 @@
 # Followers - Cyprus
 
-Generated: 2026-10-12T08:07:33.920Z
+Generated: 2026-10-12T09:14:23.426Z
 
-Users: 2737
+Users: 2736
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

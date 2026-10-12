@@ -43,8 +43,8 @@ Indexed users: 339
 | 4 | [ritchartconcept](https://github.com/ritchartconcept) | Fritzner Richard | haiti | 374 |
 | 5 | [Tonton-ios](https://github.com/Tonton-ios) | Eernst_ | HAITI | 369 |
 | 6 | [dolphfi](https://github.com/dolphfi) | Fidele Delon Phayendy Rodolph | Cap-Haïtien, Haiti | 343 |
-| 7 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 290 |
-| 8 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 288 |
+| 7 | [AD0791](https://github.com/AD0791) | Alexandro Disla | Haiti | 295 |
+| 8 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 290 |
 | 9 | [odilson-dev](https://github.com/odilson-dev) | Odilson W. Italis | Les Cayes, Haiti | 265 |
 | 10 | [haitibrand-co](https://github.com/haitibrand-co) | HaitiBrand  | Haiti | 241 |
 | 11 | [ventzDev509](https://github.com/ventzDev509) | Marceille Eventz | Haiti | 215 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-12T08:15:46.380Z
+Generated: 2026-10-12T09:23:38.667Z

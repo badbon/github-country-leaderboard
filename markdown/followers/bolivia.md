@@ -1,6 +1,6 @@
 # Followers - Bolivia
 
-Generated: 2026-10-12T08:01:50.290Z
+Generated: 2026-10-12T09:06:10.255Z
 
 Users: 1785
 
@@ -21,7 +21,7 @@ Users: 1785
 | 13 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 170 |
 | 14 | [mariocesar](https://github.com/mariocesar) | Mario-César | Humanzilla | mariocesar_bo | Santa Cruz de la Sierra, Bolivia | 170 |
 | 15 | [vitiko98](https://github.com/vitiko98) | Vitiko |  |  | Bolivia | 149 |
-| 16 | [luucamay](https://github.com/luucamay) | luucamay | independent | luucamay_ | La Paz, Bolivia | 143 |
+| 16 | [luucamay](https://github.com/luucamay) | luucamay | independent | luucamay_ | La Paz, Bolivia | 146 |
 | 17 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 138 |
 | 18 | [pazteddy](https://github.com/pazteddy) | Teddy Paz Muñoz | DevTalles |  | Bolivia | 131 |
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | University "Mayor de San Andres" | CarlaMamaniCha1 | La Paz, Bolivia | 127 |

@@ -46,7 +46,7 @@ Indexed users: 1,275
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,418 |
 | 8 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,383 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,362 |
-| 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,172 |
+| 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,173 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 978 |
 | 12 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 942 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 876 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-12T08:20:50.653Z
+Generated: 2026-10-12T09:26:26.325Z

@@ -1,6 +1,6 @@
 # Total Contributions - Cambodia
 
-Generated: 2026-10-12T08:02:37.302Z
+Generated: 2026-10-12T09:08:17.616Z
 
 Users: 2877
 
@@ -17,7 +17,7 @@ Users: 2877
 | 9 | [soknoy12](https://github.com/soknoy12) | Soknoy |  |  | Phnom Penh, Cambodia | 5209 |
 | 10 | [Chinteyley](https://github.com/Chinteyley) | chintey |  | kimteyley | Cambodia | 5094 |
 | 11 | [khonchanphearaa](https://github.com/khonchanphearaa) | Phearaa |  |  | Phnom Penh, Cambodia | 5076 |
-| 12 | [tykealy](https://github.com/tykealy) | Tykea Ly | vtenh | tykeaboyloy | Phnom Penh, Cambodia | 4766 |
+| 12 | [tykealy](https://github.com/tykealy) | Tykea Ly | vtenh | tykeaboyloy | Phnom Penh, Cambodia | 4898 |
 | 13 | [DamonKert](https://github.com/DamonKert) | Damon | ARH Technology |  | Cambodia | 4762 |
 | 14 | [pckimlong](https://github.com/pckimlong) | Kim |  |  | Cambodia | 4608 |
 | 15 | [phannaly](https://github.com/phannaly) | phanna |  |  | Cambodia | 4541 |

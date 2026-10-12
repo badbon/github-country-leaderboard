@@ -74,7 +74,7 @@ Indexed users: 93
 | 10 | [ileghlam](https://github.com/ileghlam) | Leghlam Ishak | Gibraltar | 26 |
 | 11 | [luciomafia](https://github.com/luciomafia) | ─ RUM / MAYHEM ! | 𖠊  WATCHPOINT GIBRALTAR . . . | 25 |
 | 12 | [multicharts](https://github.com/multicharts) |  | Gibraltar | 24 |
-| 13 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Gibraltar | 21 |
+| 13 | [ElAndy94](https://github.com/ElAndy94) | Andrew | Gibraltar | 20 |
 | 14 | [nats12](https://github.com/nats12) | Natalie Mclaren | Gibraltar | 17 |
 | 15 | [SGarcia96](https://github.com/SGarcia96) | SGarcia | Spain/Gibraltar | 17 |
 | 16 | [vizcosity](https://github.com/vizcosity) | Aaron Baw | Gibraltar | 17 |
@@ -83,4 +83,4 @@ Indexed users: 93
 | 19 | [vfiodor](https://github.com/vfiodor) | Fiodor Veresciaka | Gibraltar | 13 |
 | 20 | [VPSServerCom](https://github.com/VPSServerCom) | VPS Server | Gibraltar | 13 |
 
-Generated: 2026-10-12T08:13:52.145Z
+Generated: 2026-10-12T09:20:05.360Z

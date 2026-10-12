@@ -1,8 +1,8 @@
 # Total Contributions - Belarus
 
-Generated: 2026-10-12T08:00:16.081Z
+Generated: 2026-10-12T09:05:09.607Z
 
-Users: 10951
+Users: 10950
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,9 +13,9 @@ Users: 10951
 | 5 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Looking for JavaScript job |  | Minsk, Belarus | 10667 |
 | 6 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau |  |  | Belarus, Minsk | 10259 |
 | 7 | [fxpw](https://github.com/fxpw) | fxpw | Sherpa RPA |  | Belarus | 9448 |
-| 8 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 6414 |
-| 9 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |
-| 10 | [omuteqq](https://github.com/omuteqq) | Иван |  |  | Minsk, Belarus | 5977 |
+| 8 | [omuteqq](https://github.com/omuteqq) | Иван |  |  | Minsk, Belarus | 7527 |
+| 9 | [iamsphere](https://github.com/iamsphere) | Vladislav | FRAKT |  | Belarus, Minsk | 6414 |
+| 10 | [NikolayNN](https://github.com/NikolayNN) | Nikolay |  |  | Minsk | 6267 |
 | 11 | [igormorozov](https://github.com/igormorozov) | Igor Morozov |  |  | Minsk | 5759 |
 | 12 | [davassi](https://github.com/davassi) | Gianluigi Davassi |  |  | Dubai - Berlin - Milan - Minsk | 5274 |
 | 13 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei |  |  | Minsk | 5240 |

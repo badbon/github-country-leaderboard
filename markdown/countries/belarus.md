@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,951
+Indexed users: 10,950
 
 | Leaderboard | Link |
 |---|---|
@@ -19,9 +19,9 @@ Indexed users: 10,951
 | 5 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
 | 6 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
 | 7 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 9,448 |
-| 8 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
-| 9 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
-| 10 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 5,977 |
+| 8 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 7,527 |
+| 9 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
+| 10 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
 | 11 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
 | 12 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
 | 13 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,240 |
@@ -83,4 +83,4 @@ Indexed users: 10,951
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-12T08:00:16.081Z
+Generated: 2026-10-12T09:05:09.607Z

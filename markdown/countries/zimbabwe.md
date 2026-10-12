@@ -28,8 +28,8 @@ Indexed users: 1,653
 | 14 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | Zimbabwe | 5,825 |
 | 15 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Chinhoyi, Zimbabwe | 5,441 |
 | 16 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Zimbabwe | 5,428 |
-| 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,403 |
-| 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
+| 17 | [XJ76](https://github.com/XJ76) | Joshua J Smith | Harare | 5,166 |
+| 18 | [emarss](https://github.com/emarss) | Rufaro Sithole | Harare, Zimbabwe | 5,105 |
 | 19 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro | Harare, Zimbabwe | 5,086 |
 | 20 | [tawandachiteshe](https://github.com/tawandachiteshe) | tawandachiteshe | Harare | 4,969 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,653
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-12T07:53:26.047Z
+Generated: 2026-10-12T08:58:48.611Z

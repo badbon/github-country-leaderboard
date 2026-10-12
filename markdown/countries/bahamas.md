@@ -18,7 +18,7 @@ Indexed users: 236
 | 4 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,057 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,488 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
-| 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,637 |
+| 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,612 |
 | 8 | [janajmccardy](https://github.com/janajmccardy) | Jana JM | Nassau, The Bahamas | 1,457 |
 | 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,371 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,206 |
@@ -67,8 +67,8 @@ Indexed users: 236
 | 3 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 88 |
 | 4 | [mikkqu](https://github.com/mikkqu) | Mikhail Kalashnikov | Nassau, Bahamas | 62 |
 | 5 | [btcwoot](https://github.com/btcwoot) | btcwoot | bahamas | 50 |
-| 6 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 38 |
-| 7 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 38 |
+| 6 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 40 |
+| 7 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 38 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 37 |
 | 9 | [lucayepa](https://github.com/lucayepa) | Luca Venturini | Nassau, Bahamas | 28 |
 | 10 | [travismillerweb](https://github.com/travismillerweb) | Travis Miller | Bahamas | 26 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-12T07:58:30.163Z
+Generated: 2026-10-12T09:04:38.329Z

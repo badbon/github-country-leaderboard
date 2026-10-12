@@ -13,7 +13,7 @@ Indexed users: 460
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,606 |
-| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,173 |
+| 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,165 |
 | 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,035 |
 | 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,264 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,053 |
@@ -31,7 +31,7 @@ Indexed users: 460
 | 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
 | 18 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,127 |
 | 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,991 |
-| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,718 |
+| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,716 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-12T07:55:28.323Z
+Generated: 2026-10-12T09:03:18.932Z

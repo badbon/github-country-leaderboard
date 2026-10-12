@@ -1,6 +1,6 @@
 # Total Contributions - Zimbabwe
 
-Generated: 2026-10-12T07:53:26.047Z
+Generated: 2026-10-12T08:58:48.611Z
 
 Users: 1653
 
@@ -22,7 +22,7 @@ Users: 1653
 | 14 | [Tadiwr](https://github.com/Tadiwr) | Tadiwanashe Shangwa | @codaptdev | tadiwrr | Zimbabwe | 5825 |
 | 15 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Founder @ Campus Market | praisetech_zw | Chinhoyi, Zimbabwe | 5441 |
 | 16 | [xeroxzen](https://github.com/xeroxzen) | Andile Jaden Mbele | Vectra Dynamics, Optimeer Labs, Emzini weCode, ZimWorx | andilejaden | Zimbabwe | 5428 |
-| 17 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5403 |
-| 18 | [XJ76](https://github.com/XJ76) | Joshua J Smith | @WYV-inc  |  | Harare | 5166 |
+| 17 | [XJ76](https://github.com/XJ76) | Joshua J Smith | @WYV-inc  |  | Harare | 5166 |
+| 18 | [emarss](https://github.com/emarss) | Rufaro Sithole | Eyetro Digital | emarss04 | Harare, Zimbabwe | 5105 |
 | 19 | [chiroro-jr](https://github.com/chiroro-jr) | Nyasha Chiroro |  | chiroro_jr | Harare, Zimbabwe | 5086 |
 | 20 | [tawandachiteshe](https://github.com/tawandachiteshe) | tawandachiteshe |  | NChiteshe | Harare | 4969 |

@@ -1,6 +1,6 @@
 # Public Contributions - Aruba
 
-Generated: 2026-10-12T07:57:16.329Z
+Generated: 2026-10-12T09:03:31.753Z
 
 Users: 38
 
@@ -14,8 +14,8 @@ Users: 38
 | 6 | [Veknica](https://github.com/Veknica) | Pola Sendviča |  |  | Oranjestad | 72 |
 | 7 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | wdms |  | Aruba | 47 |
 | 8 | [Vortex93](https://github.com/Vortex93) | Derwin Tromp | AIB, UTwente |  | Oranjestad, Aruba | 44 |
-| 9 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 30 |
-| 10 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 28 |
+| 9 | [hfsyung](https://github.com/hfsyung) |  |  |  | Aruba | 33 |
+| 10 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 30 |
 | 11 | [MatthewELee](https://github.com/MatthewELee) | Matt Lee |  |  | Aruba | 19 |
 | 12 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Lead Web Designer @AWSAruba | JWSARUBA | Oranjestad, Aruba | 17 |
 | 13 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Freelancer |  | Aruba | 11 |
