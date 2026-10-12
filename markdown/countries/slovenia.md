@@ -17,12 +17,12 @@ Indexed users: 3,103
 | 3 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
 | 4 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 13,109 |
 | 5 | [Meemaw](https://github.com/Meemaw) | Matej Šnuderl | Ljubljana, Slovenia | 12,643 |
-| 6 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
-| 7 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
-| 8 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
-| 9 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
-| 10 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
+| 6 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 11,949 |
+| 7 | [AMGrobelnik](https://github.com/AMGrobelnik) | Adrian Mladenic Grobelnik | Ljubljana, Slovenia | 11,306 |
+| 8 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
+| 9 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
+| 10 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
+| 11 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
 | 12 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
 | 13 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
 | 14 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
@@ -83,4 +83,4 @@ Indexed users: 3,103
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-12T06:31:36.066Z
+Generated: 2026-10-12T07:42:05.320Z

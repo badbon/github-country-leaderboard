@@ -1,6 +1,6 @@
 # Total Contributions - Sudan
 
-Generated: 2026-10-12T06:32:29.438Z
+Generated: 2026-10-12T07:43:32.186Z
 
 Users: 729
 
@@ -13,7 +13,7 @@ Users: 729
 | 5 | [EMAD77](https://github.com/EMAD77) | Emad777 |  | Emad777_ | Sudan | 4690 |
 | 6 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | @obaaa  | obaaa8 | sudan | 4638 |
 | 7 | [alsir](https://github.com/alsir) | Alsir Hamory |  |  | Khartoum , sudan | 3701 |
-| 8 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3350 |
+| 8 | [harranali](https://github.com/harranali) |  |  | harran_ali | Sudan | 3363 |
 | 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | @morph-sa | hamoda_dev | Sudan | 3091 |
 | 10 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 2851 |
 | 11 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | PashaDP | m_elhabib_dev | Sudan, Khartoum | 2818 |

@@ -31,7 +31,7 @@ Indexed users: 132
 | 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 310 |
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 19 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 268 |
-| 20 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 262 |
+| 20 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 263 |
 
 ## Public Contributions
 
@@ -52,7 +52,7 @@ Indexed users: 132
 | 13 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 14 | [felixuxx](https://github.com/felixuxx) | ... | Juba, South Sudan | 268 |
 | 15 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 268 |
-| 16 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 262 |
+| 16 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 263 |
 | 17 | [Wai-Mike](https://github.com/Wai-Mike) | Wai Michael Kat | South Sudan | 262 |
 | 18 | [joseph-akaro](https://github.com/joseph-akaro) | Joseph Akaro | Juba | 215 |
 | 19 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 195 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-12T06:32:23.482Z
+Generated: 2026-10-12T07:42:48.426Z

@@ -1,6 +1,6 @@
 # Public Contributions - South Africa
 
-Generated: 2026-10-12T06:32:15.424Z
+Generated: 2026-10-12T07:42:39.446Z
 
 Users: 17945
 
@@ -18,9 +18,9 @@ Users: 17945
 | 10 | [MiguelRodo](https://github.com/MiguelRodo) | Miguel Rodo | @SATVILab  |  | Cape Town, South Africa | 5173 |
 | 11 | [datashaman](https://github.com/datashaman) | datashaman | datashaman |  | Cape Town, South Africa | 5144 |
 | 12 | [rakheen-dama](https://github.com/rakheen-dama) | Rakheen Dama | BinaryMaSH | RakheenD | Cape Town, South Africa | 5110 |
-| 13 | [RobynAwesome](https://github.com/RobynAwesome) | Kholofelo Robyn Rababalela | Kopano Labs (Pty) Ltd |  | Cape Town, South Africa | 5063 |
-| 14 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Plain Sailing Information Systems |  | Pretoria South Africa | 4779 |
-| 15 | [indium114](https://github.com/indium114) |  |  |  | South Africa | 4590 |
+| 13 | [indium114](https://github.com/indium114) |  |  |  | South Africa | 5103 |
+| 14 | [RobynAwesome](https://github.com/RobynAwesome) | Kholofelo Robyn Rababalela | Kopano Labs (Pty) Ltd |  | Cape Town, South Africa | 5063 |
+| 15 | [johanpiet2](https://github.com/johanpiet2) | Johan Pieterse | Plain Sailing Information Systems |  | Pretoria South Africa | 4779 |
 | 16 | [peterp](https://github.com/peterp) | Peter Pistorius | @redwoodjs | appfactory | South Africa | 4520 |
 | 17 | [wkirschbaum](https://github.com/wkirschbaum) | Wilhelm Kirschbaum | Floatpays |  | Cape Town, South Africa | 4494 |
 | 18 | [ashleyshaw](https://github.com/ashleyshaw) | Ash Shaw | @lightspeedwp  | lightspeedwp | Cape Town, South Africa | 4333 |
