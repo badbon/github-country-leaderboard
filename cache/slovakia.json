@@ -14911,7 +14911,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 245,
+    "privateContributions": 248,
     "publicContributions": 0,
     "createdAt": "2020-12-27T01:29:29Z"
   },
@@ -14923,7 +14923,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 957,
+    "privateContributions": 977,
     "publicContributions": 3,
     "createdAt": "2020-09-25T18:16:05Z"
   },
@@ -14935,8 +14935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 354,
-    "publicContributions": 173,
+    "privateContributions": 357,
+    "publicContributions": 237,
     "createdAt": "2020-01-11T16:49:01Z"
   },
   {
@@ -14947,20 +14947,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 654,
-    "publicContributions": 128,
+    "privateContributions": 1460,
+    "publicContributions": 123,
     "createdAt": "2020-04-22T09:04:18Z"
   },
   {
     "login": "alexeybelyaevv",
-    "name": "Oleksii Bieliaiev",
+    "name": "Alexey Belyaev",
     "avatarUrl": "https://avatars.githubusercontent.com/u/65511216?s=72&u=1276e6759cc0f9ec0ecb86978c6a748f908fd8f3&v=4",
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 761,
-    "publicContributions": 88,
+    "privateContributions": 842,
+    "publicContributions": 65,
     "createdAt": "2020-05-17T20:50:00Z"
   },
   {
@@ -14968,11 +14968,11 @@
     "name": "Yurii Murha",
     "avatarUrl": "https://avatars.githubusercontent.com/u/69917252?s=72&u=a2e6f35b6c6b4bf867c5527e9427bc83687420ce&v=4",
     "location": "Košice, Slovakia",
-    "company": "MetaApp",
+    "company": "GymBeam",
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 131,
     "createdAt": "2020-08-19T17:05:28Z"
   },
   {
@@ -14983,7 +14983,7 @@
     "company": "Roelu",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3052,
+    "privateContributions": 4139,
     "publicContributions": 0,
     "createdAt": "2020-04-27T08:39:10Z"
   },
@@ -14996,7 +14996,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 7,
     "createdAt": "2020-09-29T08:03:36Z"
   },
   {
@@ -15008,7 +15008,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 60,
     "createdAt": "2020-01-11T18:35:45Z"
   },
   {
@@ -15019,8 +15019,8 @@
     "company": "Flowis",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1191,
-    "publicContributions": 13,
+    "privateContributions": 1581,
+    "publicContributions": 5,
     "createdAt": "2020-05-06T13:40:51Z"
   },
   {
@@ -15032,7 +15032,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 72,
     "createdAt": "2020-05-27T15:10:29Z"
   },
   {
@@ -15054,7 +15054,7 @@
     "location": "Michalovce, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-05T12:36:03Z"
@@ -15067,21 +15067,9 @@
     "company": "@Atwix",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1407,
-    "publicContributions": 56,
+    "privateContributions": 2042,
+    "publicContributions": 55,
     "createdAt": "2020-06-25T20:49:45Z"
-  },
-  {
-    "login": "MrJoeKr",
-    "name": "Jozef Kraus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/65533512?s=72&u=b51525f97649349b72254f0d711801b7706343c1&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 675,
-    "publicContributions": 519,
-    "createdAt": "2020-05-18T08:05:49Z"
   },
   {
     "login": "IvanaBachrata",
@@ -15116,7 +15104,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2020-09-05T21:08:14Z"
   },
   {
@@ -15124,11 +15112,11 @@
     "name": "Martin Kubica",
     "avatarUrl": "https://avatars.githubusercontent.com/u/71782154?s=72&u=491e91fc481d60999ccad74244b3bff80e59a95c&v=4",
     "location": "Slovakia",
-    "company": "SPS IT",
-    "twitterUsername": "mrskillmob",
+    "company": "UNIZA",
+    "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2020-09-23T16:30:00Z"
   },
   {
