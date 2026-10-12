@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-12T07:13:01.644Z
+Generated: 2026-10-12T08:18:50.845Z
 
 Users: 2247
 
@@ -11,8 +11,8 @@ Users: 2247
 | 3 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Freelancer |  | Baghdad / Iraq | 19083 |
 | 4 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Capsula | MujtabaFR | Iraq, Najaf | 9376 |
 | 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 9000 |
-| 6 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 8037 |
-| 7 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Independent ~ Bregeoff | SamadZuhairdev | Erbil, Iraq | 8011 |
+| 6 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Independent ~ Bregeoff | SamadZuhairdev | Erbil, Iraq | 8799 |
+| 7 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 8037 |
 | 8 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7758 |
 | 9 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 7304 |
 | 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6803 |

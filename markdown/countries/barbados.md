@@ -17,7 +17,7 @@ Indexed users: 133
 | 3 | [bajedev](https://github.com/bajedev) | Theo Taylor | Barbados | 4,673 |
 | 4 | [d-alleyne](https://github.com/d-alleyne) | Damien Alleyne | Barbados | 3,162 |
 | 5 | [paulmiu](https://github.com/paulmiu) | Paul Miu | Barbados | 2,863 |
-| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,665 |
+| 6 | [shaquillehinds](https://github.com/shaquillehinds) | Shaquille Hinds | Barbados | 2,664 |
 | 7 | [alexlilburn](https://github.com/alexlilburn) | Alex Lilburn | Barbados | 1,855 |
 | 8 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 1,752 |
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,401 |
@@ -51,7 +51,7 @@ Indexed users: 133
 | 12 | [kernrocke](https://github.com/kernrocke) | Kern Rocke | Bridgetown, Barbados | 109 |
 | 13 | [AzielJust](https://github.com/AzielJust) | Aziel Hoyte | Barbados | 107 |
 | 14 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 105 |
-| 15 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 99 |
+| 15 | [baebranch](https://github.com/baebranch) | Brian Branch | Barbados | 101 |
 | 16 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 97 |
 | 17 | [Taggs](https://github.com/Taggs) | Neil Taggart | (London \|\| Barbados) && Cloud | 90 |
 | 18 | [starsden](https://github.com/starsden) | den | Barbados | 88 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-12T06:48:05.810Z
+Generated: 2026-10-12T07:59:45.817Z

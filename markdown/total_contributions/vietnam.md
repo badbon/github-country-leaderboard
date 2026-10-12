@@ -1,8 +1,8 @@
 # Total Contributions - Vietnam
 
-Generated: 2026-10-12T06:43:11.574Z
+Generated: 2026-10-12T07:52:14.449Z
 
-Users: 25890
+Users: 25889
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

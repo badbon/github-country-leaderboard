@@ -12,8 +12,8 @@ Indexed users: 1,582
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 20,075 |
-| 2 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 19,520 |
+| 1 | [davideagle](https://github.com/davideagle) | davideagle | Iceland | 25,173 |
+| 2 | [benkauffman](https://github.com/benkauffman) | Ben Kauffman | Reykjavík, Iceland | 20,075 |
 | 3 | [Magnussmari](https://github.com/Magnussmari) | Magnús Smári Smárason | Akureyri, Iceland | 16,153 |
 | 4 | [padresmurfa](https://github.com/padresmurfa) | David Hermann Brandt | Reykjavík, Iceland | 15,680 |
 | 5 | [tylerelias](https://github.com/tylerelias) | Tyler | Iceland | 14,616 |
@@ -22,16 +22,16 @@ Indexed users: 1,582
 | 8 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 9,170 |
 | 9 | [valurhrafn](https://github.com/valurhrafn) | Valur Hrafn Einarsson | Reykjavík, Iceland | 8,780 |
 | 10 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 8,749 |
-| 11 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 7,531 |
-| 12 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,306 |
-| 13 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 6,895 |
-| 14 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,633 |
-| 15 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,419 |
-| 16 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,030 |
-| 17 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,619 |
-| 18 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 5,501 |
-| 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,373 |
-| 20 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 5,355 |
+| 11 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 7,577 |
+| 12 | [Chipcius](https://github.com/Chipcius) | Andri Thorlacius | Reykjavik, Iceland | 7,531 |
+| 13 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,306 |
+| 14 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 6,895 |
+| 15 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,633 |
+| 16 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,419 |
+| 17 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,030 |
+| 18 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,619 |
+| 19 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 5,501 |
+| 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,373 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,582
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-12T07:11:44.697Z
+Generated: 2026-10-12T08:17:35.333Z

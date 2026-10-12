@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,504
+Indexed users: 2,503
 
 | Leaderboard | Link |
 |---|---|
@@ -44,9 +44,9 @@ Indexed users: 2,504
 | 5 | [skillmio](https://github.com/skillmio) | Skillmio | Angola | 2,160 |
 | 6 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | Angola 🇦🇴 | 2,104 |
 | 7 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 1,779 |
-| 8 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,400 |
-| 9 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
-| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,273 |
+| 8 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | Luanda, Angola | 1,569 |
+| 9 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | Moçâmedes, Namibe, Angola | 1,400 |
+| 10 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís | Angola | 1,374 |
 | 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | Luanda, Angola | 1,200 |
 | 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | Angola - Luanda Viana Estalagem | 1,169 |
 | 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga | Angola | 1,090 |
@@ -83,4 +83,4 @@ Indexed users: 2,504
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-12T06:46:00.239Z
+Generated: 2026-10-12T07:54:17.670Z

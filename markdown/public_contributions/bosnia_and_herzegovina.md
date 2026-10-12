@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-12T06:51:45.454Z
+Generated: 2026-10-12T08:01:54.141Z
 
 Users: 2128
 
@@ -24,5 +24,5 @@ Users: 2128
 | 16 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 1011 |
 | 17 | [MilanVlaski](https://github.com/MilanVlaski) | Milan Vlaški | Nelkinda Software Craft Pvt Ltd |  | Istočno Sarajevo | 923 |
 | 18 | [new-AF](https://github.com/new-AF) | Abdullah Fatota |  |  | Sarajevo, BiH | 794 |
-| 19 | [esensar](https://github.com/esensar) | Ensar Sarajčić |  |  | Sarajevo, Bosnia and Herzegovina | 719 |
-| 20 | [zalom](https://github.com/zalom) | Zlatko Alomerovic |  |  | Tuzla, Bosnia and Herzegovina | 716 |
+| 19 | [FarisMujacic](https://github.com/FarisMujacic) | Faris Mujačić |  |  | Sarajevo | 725 |
+| 20 | [esensar](https://github.com/esensar) | Ensar Sarajčić |  |  | Sarajevo, Bosnia and Herzegovina | 719 |

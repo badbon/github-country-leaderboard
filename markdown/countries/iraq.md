@@ -17,8 +17,8 @@ Indexed users: 2,247
 | 3 | [Alifaleh](https://github.com/Alifaleh) | Ali Faleh | Baghdad / Iraq | 19,083 |
 | 4 | [MujtabaFR](https://github.com/MujtabaFR) | Mujtaba Fadhil | Iraq, Najaf | 9,376 |
 | 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 9,000 |
-| 6 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 8,037 |
-| 7 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,011 |
+| 6 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,799 |
+| 7 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 8,037 |
 | 8 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,758 |
 | 9 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 7,304 |
 | 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,803 |
@@ -83,4 +83,4 @@ Indexed users: 2,247
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-12T07:13:01.644Z
+Generated: 2026-10-12T08:18:50.845Z

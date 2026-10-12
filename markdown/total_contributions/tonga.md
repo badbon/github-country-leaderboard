@@ -1,6 +1,6 @@
 # Total Contributions - Tonga
 
-Generated: 2026-10-12T06:37:14.552Z
+Generated: 2026-10-12T07:49:42.636Z
 
 Users: 9
 
@@ -10,7 +10,7 @@ Users: 9
 | 2 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 136 |
 | 3 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 135 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 58 |
-| 5 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 36 |
+| 5 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 37 |
 | 6 | [Pace417](https://github.com/Pace417) | AH | Lehman Brothers |  | Tonga | 22 |
 | 7 | [james151br](https://github.com/james151br) | James |  |  | Tonga | 1 |
 | 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | 29157 |  | Tonga | 0 |

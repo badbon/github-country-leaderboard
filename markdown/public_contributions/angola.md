@@ -1,8 +1,8 @@
 # Public Contributions - Angola
 
-Generated: 2026-10-12T06:46:00.239Z
+Generated: 2026-10-12T07:54:17.670Z
 
-Users: 2504
+Users: 2503
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,9 +13,9 @@ Users: 2504
 | 5 | [skillmio](https://github.com/skillmio) | Skillmio |  |  | Angola | 2160 |
 | 6 | [Enock200558](https://github.com/Enock200558) | Enoque Bumba Cando  | GASOtec Corporation  |  | Angola 🇦🇴 | 2104 |
 | 7 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 1779 |
-| 8 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @underdev-official  |  | Moçâmedes, Namibe, Angola | 1400 |
-| 9 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1374 |
-| 10 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1273 |
+| 8 | [LouAntonio](https://github.com/LouAntonio) | Lourenço António Dala | 42 Luanda |  | Luanda, Angola | 1569 |
+| 9 | [adilson889](https://github.com/adilson889) | Adilson C. Rafael | @underdev-official  |  | Moçâmedes, Namibe, Angola | 1400 |
+| 10 | [jormaedes](https://github.com/jormaedes) | Jormaedes Luís |  |  | Angola | 1374 |
 | 11 | [marcmav](https://github.com/marcmav) | Marciano Mavungo | 42 Luanda |  | Luanda, Angola | 1200 |
 | 12 | [ercabsalias](https://github.com/ercabsalias) | Ernesto Cabingano Salias | @IS4S-Intelligence-Software-Solutions  |  | Angola - Luanda Viana Estalagem | 1169 |
 | 13 | [dcanhanga](https://github.com/dcanhanga) | Domingos Canhanga |  |  | Angola | 1090 |

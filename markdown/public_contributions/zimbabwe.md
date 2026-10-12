@@ -1,6 +1,6 @@
 # Public Contributions - Zimbabwe
 
-Generated: 2026-10-12T06:43:48.335Z
+Generated: 2026-10-12T07:53:26.047Z
 
 Users: 1653
 
@@ -12,8 +12,8 @@ Users: 1653
 | 4 | [mrfr8nk](https://github.com/mrfr8nk) | 𝐃𝐀𝐑𝐑𝐄𝐋𝐋 𝐌𝐔𝐂𝐇𝐄𝐑𝐈 ⚡ | Synapex | mrfr4nkofc | Zimbabwe, Harare | 4230 |
 | 5 | [tapiwamakandigona](https://github.com/tapiwamakandigona) | Tapiwa Makandigona |  |  | Zimbabwe | 3589 |
 | 6 | [PraiseTechzw](https://github.com/PraiseTechzw) | Praise Masunga | Founder @ Campus Market | praisetech_zw | Chinhoyi, Zimbabwe | 2830 |
-| 7 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 2567 |
-| 8 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | uncommon.org |  | Mufakose, Harare, Zimbabwe | 2272 |
+| 7 | [VincentMugondora](https://github.com/VincentMugondora) | Vincent Mugondora | uncommon.org |  | Mufakose, Harare, Zimbabwe | 2272 |
+| 8 | [josemukorivo](https://github.com/josemukorivo) | Joseph Mukorivo | Complexus Technologies | josemukorivo | Harare, Zimbabwe | 2182 |
 | 9 | [tonderaikawere](https://github.com/tonderaikawere) | Tonderai Kawere | Kawerify Tech |  | Bulawayo, Zimbabwe | 2038 |
 | 10 | [chihwayi](https://github.com/chihwayi) | Ignatious Chihwayi | Ministry of Health and Child Care | chihwayii | Harare | 1980 |
 | 11 | [zinyando](https://github.com/zinyando) | Lennex Zinyando | Izwi AI | zinyando | Harare, Zimbabwe | 1828 |

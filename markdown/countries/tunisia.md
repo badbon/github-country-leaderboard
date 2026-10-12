@@ -46,9 +46,9 @@ Indexed users: 7,198
 | 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | Tunisia | 4,552 |
 | 8 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  | Tunisia ,  Sousse ,  Msaken | 4,474 |
 | 9 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | Tunisia | 4,468 |
-| 10 | [dustin04x](https://github.com/dustin04x) | Skander Wali | Tunisia | 3,386 |
-| 11 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Tunisia | 3,153 |
-| 12 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi | Tunisia | 3,043 |
+| 10 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi | Tunisia | 3,453 |
+| 11 | [dustin04x](https://github.com/dustin04x) | Skander Wali | Tunisia | 3,386 |
+| 12 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Tunisia | 3,153 |
 | 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila | tunis | 2,980 |
 | 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari | Tunisia | 2,710 |
 | 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida | Zarzis/Tunisia | 2,676 |
@@ -83,4 +83,4 @@ Indexed users: 7,198
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-12T06:37:23.090Z
+Generated: 2026-10-12T07:50:14.702Z

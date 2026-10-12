@@ -13,11 +13,11 @@ Indexed users: 315
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [hervedelmas](https://github.com/hervedelmas) | herve delmas | libreville | 1,985 |
-| 2 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,875 |
-| 3 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,835 |
+| 2 | [therealwardell](https://github.com/therealwardell) | ElieJoel | Libreville,GABON | 1,892 |
+| 3 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,797 |
 | 4 | [Yusufibin](https://github.com/Yusufibin) | Youssouf ⚜️ | Gabon, Libreville | 1,338 |
 | 5 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,110 |
-| 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,041 |
+| 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,042 |
 | 7 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 1,001 |
 | 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 934 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 849 |
@@ -37,8 +37,8 @@ Indexed users: 315
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,467 |
-| 2 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,041 |
+| 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,484 |
+| 2 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,042 |
 | 3 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 934 |
 | 4 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 728 |
 | 5 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 491 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-12T07:06:39.035Z
+Generated: 2026-10-12T08:12:37.160Z

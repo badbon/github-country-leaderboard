@@ -14,7 +14,7 @@ Indexed users: 899
 |---:|---|---|---|---:|
 | 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 20,367 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,037 |
-| 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 10,483 |
+| 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 10,781 |
 | 4 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,208 |
 | 5 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,154 |
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,697 |
@@ -24,7 +24,7 @@ Indexed users: 899
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,148 |
 | 11 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 6,002 |
 | 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 5,969 |
-| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,557 |
+| 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,544 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,951 |
 | 16 | [lbrgriffith](https://github.com/lbrgriffith) | L. B. Ricardo Griffith | Hamilton, Bermuda | 4,426 |
@@ -52,11 +52,11 @@ Indexed users: 899
 | 13 | [nvelden](https://github.com/nvelden) |  | Hamilton, Bermuda | 806 |
 | 14 | [DesktopECHO](https://github.com/DesktopECHO) |  | Hamilton, Bermuda | 781 |
 | 15 | [clintandrewhall](https://github.com/clintandrewhall) | Clint Andrew Hall | Hamilton, ON | 650 |
-| 16 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 649 |
-| 17 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 607 |
-| 18 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 577 |
-| 19 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 561 |
-| 20 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 476 |
+| 16 | [AymenS02](https://github.com/AymenS02) | Aymen Shoteri | Hamilton, Ontario | 607 |
+| 17 | [miamioh-roseaw](https://github.com/miamioh-roseaw) | Anthony W Rose | Oxford, OH, Hamilton, OH | 577 |
+| 18 | [bjornbasar](https://github.com/bjornbasar) | Bjorn Christian Basar | Hamilton | 561 |
+| 19 | [robkumarrr](https://github.com/robkumarrr) | Rob Kumar | Hamilton, ON | 476 |
+| 20 | [TOTBWF](https://github.com/TOTBWF) | Reed Mullanix | Hamilton, ON | 468 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-12T06:50:35.304Z
+Generated: 2026-10-12T08:00:34.074Z

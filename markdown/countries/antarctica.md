@@ -14,11 +14,11 @@ Indexed users: 460
 |---:|---|---|---|---:|
 | 1 | [lukeanthony007](https://github.com/lukeanthony007) | Lucas | Antarctica | 6,606 |
 | 2 | [shreeshiv](https://github.com/shreeshiv) | Shreeshiv Patel | Antarctica | 6,173 |
-| 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,036 |
+| 3 | [adwait1290](https://github.com/adwait1290) | Adwait Athale | Antarctica | 6,035 |
 | 4 | [ifarbod](https://github.com/ifarbod) | iFarbod | Antarctica  | 5,264 |
 | 5 | [jeongho](https://github.com/jeongho) | Jeongho Park | Deception Island, Antarctica | 5,053 |
 | 6 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 4,906 |
-| 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,656 |
+| 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,706 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,646 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,539 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,210 |
@@ -37,7 +37,7 @@ Indexed users: 460
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,656 |
+| 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,706 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,137 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,499 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,994 |
@@ -83,4 +83,4 @@ Indexed users: 460
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-12T06:46:09.715Z
+Generated: 2026-10-12T07:55:28.323Z

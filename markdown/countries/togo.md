@@ -1,6 +1,6 @@
 # Togo
 
-Indexed users: 679
+Indexed users: 680
 
 | Leaderboard | Link |
 |---|---|
@@ -44,8 +44,8 @@ Indexed users: 679
 | 5 | [Rahim10020](https://github.com/Rahim10020) | Rahim ALI | Lome -TOGO | 3,140 |
 | 6 | [GYFX35](https://github.com/GYFX35) | GOUNTANTE yendoukoa | Togo | 1,973 |
 | 7 | [ALBAN3886](https://github.com/ALBAN3886) | AET Technology  | Togo | 1,848 |
-| 8 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,826 |
-| 9 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,810 |
+| 8 | [horacioskrp](https://github.com/horacioskrp) | Kudayah Sassou Horacio Herve | Togo-Lomé  | 1,840 |
+| 9 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA | Togo | 1,826 |
 | 10 | [Juniorleriche27](https://github.com/Juniorleriche27) |  | Lome, Togo | 1,701 |
 | 11 | [Nova2026-graphik](https://github.com/Nova2026-graphik) | Samuel Nova | Lomé / Togo | 1,275 |
 | 12 | [Einswilli](https://github.com/Einswilli) | #Einswilli | Lomé | 1,195 |
@@ -83,4 +83,4 @@ Indexed users: 679
 | 19 | [ica1010](https://github.com/ica1010) | Ghislin | Lomé , Togo | 66 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime | Togo | 64 |
 
-Generated: 2026-10-12T06:36:54.913Z
+Generated: 2026-10-12T08:17:23.086Z

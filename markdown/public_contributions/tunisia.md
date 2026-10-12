@@ -1,6 +1,6 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-12T06:37:23.090Z
+Generated: 2026-10-12T07:50:14.702Z
 
 Users: 7198
 
@@ -15,9 +15,9 @@ Users: 7198
 | 7 | [baderdean](https://github.com/baderdean) | Badreddine Lejmi | ankaboot |  | Tunisia | 4552 |
 | 8 | [Ylandolsi](https://github.com/Ylandolsi) | Mohamed Yassine Landolsi  |  |  | Tunisia ,  Sousse ,  Msaken | 4474 |
 | 9 | [azjezz](https://github.com/azjezz) | Seifeddine Gmati | @Carthage-Software | azjezz | Tunisia | 4468 |
-| 10 | [dustin04x](https://github.com/dustin04x) | Skander Wali |  |  | Tunisia | 3386 |
-| 11 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Kalidia Consulting |  | Tunisia | 3153 |
-| 12 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi |  |  | Tunisia | 3043 |
+| 10 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi |  |  | Tunisia | 3453 |
+| 11 | [dustin04x](https://github.com/dustin04x) | Skander Wali |  |  | Tunisia | 3386 |
+| 12 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Kalidia Consulting |  | Tunisia | 3153 |
 | 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila |  |  | tunis | 2980 |
 | 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
 | 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |

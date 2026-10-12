@@ -1,15 +1,15 @@
 # Public Contributions - French Polynesia
 
-Generated: 2026-10-12T07:06:34.695Z
+Generated: 2026-10-12T08:12:32.177Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1057 |
+| 1 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1059 |
 | 2 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 427 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 402 |
-| 4 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 383 |
+| 3 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 414 |
+| 4 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 402 |
 | 5 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 360 |
 | 6 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 335 |
 | 7 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 246 |

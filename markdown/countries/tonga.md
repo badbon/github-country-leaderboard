@@ -16,7 +16,7 @@ Indexed users: 9
 | 2 | [Cartus](https://github.com/Cartus) | Zhijiang | Tonga | 136 |
 | 3 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon | Rachelmouth, Tonga | 135 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau | Tonga | 58 |
-| 5 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 36 |
+| 5 | [taufa](https://github.com/taufa) | Semisi | Tongatapu, Tonga | 37 |
 | 6 | [Pace417](https://github.com/Pace417) | AH | Tonga | 22 |
 | 7 | [james151br](https://github.com/james151br) | James | Tonga | 1 |
 | 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 0 |
@@ -50,4 +50,4 @@ Indexed users: 9
 | 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | Tonga | 1 |
 | 9 | [Pace417](https://github.com/Pace417) | AH | Tonga | 1 |
 
-Generated: 2026-10-12T06:37:14.552Z
+Generated: 2026-10-12T07:49:42.636Z
