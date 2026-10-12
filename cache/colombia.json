@@ -15464,7 +15464,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 19,
     "createdAt": "2025-12-10T13:31:48Z"
   },
   {
@@ -15536,7 +15536,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 124,
     "createdAt": "2025-08-08T00:57:27Z"
   },
   {
@@ -15548,7 +15548,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 62,
     "createdAt": "2025-08-25T23:43:34Z"
   },
   {
@@ -15560,7 +15560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 6,
     "createdAt": "2025-03-18T02:12:32Z"
   },
   {
@@ -15596,7 +15596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 74,
+    "publicContributions": 68,
     "createdAt": "2025-05-24T09:35:13Z"
   },
   {
@@ -15606,9 +15606,9 @@
     "location": "Bogotá D.C.",
     "company": "MRM",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 32,
-    "publicContributions": 338,
+    "followers": 2,
+    "privateContributions": 9,
+    "publicContributions": 365,
     "createdAt": "2025-08-05T01:37:07Z"
   },
   {
@@ -15618,9 +15618,9 @@
     "location": "Bogotá",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 56,
     "createdAt": "2025-07-02T20:51:03Z"
   },
   {
@@ -15630,9 +15630,9 @@
     "location": "Bogotá, D.C.",
     "company": "30X LLC",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 719,
-    "publicContributions": 12,
+    "followers": 3,
+    "privateContributions": 1209,
+    "publicContributions": 169,
     "createdAt": "2025-04-29T05:42:53Z"
   },
   {
@@ -15643,8 +15643,8 @@
     "company": "",
     "twitterUsername": "A_cubica_R",
     "followers": 8,
-    "privateContributions": 5,
-    "publicContributions": 27,
+    "privateContributions": 0,
+    "publicContributions": 18,
     "createdAt": "2023-05-25T21:48:34Z"
   },
   {
@@ -15654,9 +15654,9 @@
     "location": "San José de Cúcuta, Colombia",
     "company": "@ProgramacionCompetitivaUFPS",
     "twitterUsername": "A_cubica_R",
-    "followers": 4,
-    "privateContributions": 4,
-    "publicContributions": 638,
+    "followers": 5,
+    "privateContributions": 53,
+    "publicContributions": 1098,
     "createdAt": "2023-11-04T02:17:53Z"
   },
   {
@@ -15666,7 +15666,7 @@
     "location": "Armenia Quindío, Colombia",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-14T01:21:10Z"
@@ -15678,21 +15678,21 @@
     "location": "Colombia",
     "company": "Icesi",
     "twitterUsername": "",
-    "followers": 119,
-    "privateContributions": 404,
-    "publicContributions": 63,
+    "followers": 117,
+    "privateContributions": 336,
+    "publicContributions": 212,
     "createdAt": "2024-02-09T19:14:40Z"
   },
   {
     "login": "Carchaloneo22",
     "name": "Carlos Chaparro",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159488757?s=72&u=541ea774a7dce68b31f50d95defd716404100b37&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159488757?s=72&u=bff2053b7bc97a5381b3a62cfd306fed39cc7b6d&v=4",
     "location": "Colombia",
     "company": "S3media",
     "twitterUsername": "",
-    "followers": 87,
-    "privateContributions": 22,
-    "publicContributions": 120,
+    "followers": 129,
+    "privateContributions": 88,
+    "publicContributions": 412,
     "createdAt": "2024-02-08T20:52:01Z"
   },
   {

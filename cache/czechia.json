@@ -15631,7 +15631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 247,
+    "privateContributions": 291,
     "publicContributions": 11,
     "createdAt": "2023-06-12T17:14:11Z"
   },
@@ -15643,8 +15643,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 1159,
-    "publicContributions": 920,
+    "privateContributions": 1393,
+    "publicContributions": 943,
     "createdAt": "2023-03-25T02:15:29Z"
   },
   {
@@ -15667,8 +15667,8 @@
     "company": "Czech Technical University",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 222,
-    "publicContributions": 39,
+    "privateContributions": 495,
+    "publicContributions": 30,
     "createdAt": "2023-04-25T12:17:15Z"
   },
   {
@@ -15678,9 +15678,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 177,
     "createdAt": "2023-06-26T16:30:40Z"
   },
   {
@@ -15690,9 +15690,9 @@
     "location": "Prague",
     "company": "@JuliaHub ",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 2342,
-    "publicContributions": 2774,
+    "followers": 8,
+    "privateContributions": 2898,
+    "publicContributions": 3845,
     "createdAt": "2023-02-01T12:41:38Z"
   },
   {
@@ -15703,7 +15703,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
+    "privateContributions": 345,
     "publicContributions": 112,
     "createdAt": "2023-03-25T15:57:28Z"
   },
@@ -15715,8 +15715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 232,
-    "publicContributions": 154,
+    "privateContributions": 173,
+    "publicContributions": 151,
     "createdAt": "2022-12-30T14:49:01Z"
   },
   {
@@ -15728,7 +15728,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 14,
     "createdAt": "2023-03-01T19:49:32Z"
   },
   {
@@ -15794,37 +15794,37 @@
   {
     "login": "patvoj",
     "name": "Patrik Vojta",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122916872?s=72&u=4cbc0f27462427e66d93ae1d8a9f79fe4c64e699&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122916872?s=72&u=0bef52c3890d6a361f2023b77def9f494e6dbf65&v=4",
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 645,
+    "privateContributions": 946,
     "publicContributions": 0,
     "createdAt": "2023-01-17T17:43:19Z"
   },
   {
     "login": "matejbednar4",
     "name": "Matěj Bednář",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/134158075?s=72&u=e20540df9920b583a6aee9d4b2768fd14327dead&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/134158075?s=72&u=ad775ff0a7b0cde07118b613eea7803987d15b20&v=4",
     "location": "Prague",
-    "company": "@Flaer-Inc ",
+    "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1570,
-    "publicContributions": 0,
+    "followers": 7,
+    "privateContributions": 1459,
+    "publicContributions": 8,
     "createdAt": "2023-05-20T16:20:32Z"
   },
   {
     "login": "riveerxd",
-    "name": "Lukáš Hrehor",
+    "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132168494?s=72&v=4",
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 0,
-    "publicContributions": 687,
+    "followers": 7,
+    "privateContributions": 55,
+    "publicContributions": 954,
     "createdAt": "2023-04-29T20:36:54Z"
   },
   {
@@ -15835,7 +15835,7 @@
     "company": "Behavio Labs",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 854,
+    "privateContributions": 822,
     "publicContributions": 0,
     "createdAt": "2023-02-28T21:08:30Z"
   },
@@ -15860,7 +15860,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 17,
     "createdAt": "2023-05-15T15:28:27Z"
   },
   {

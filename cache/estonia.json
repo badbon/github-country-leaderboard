@@ -15834,7 +15834,7 @@
     "location": "Estonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-10-04T19:03:08Z"
@@ -15896,7 +15896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-08-14T17:17:24Z"
   },
   {
@@ -15919,7 +15919,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 28,
     "publicContributions": 0,
     "createdAt": "2020-09-07T16:36:37Z"
   },
@@ -15956,7 +15956,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 2,
     "createdAt": "2020-12-05T18:34:24Z"
   },
   {
@@ -15979,8 +15979,8 @@
     "company": "University of Tartu",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 839,
-    "publicContributions": 42,
+    "privateContributions": 846,
+    "publicContributions": 24,
     "createdAt": "2020-02-15T21:49:48Z"
   },
   {
@@ -16002,9 +16002,9 @@
     "location": "Tallinn",
     "company": "Tallinn University",
     "twitterUsername": "",
-    "followers": 129,
-    "privateContributions": 1622,
-    "publicContributions": 39,
+    "followers": 132,
+    "privateContributions": 1233,
+    "publicContributions": 199,
     "createdAt": "2020-11-23T12:10:32Z"
   },
   {
@@ -16014,7 +16014,7 @@
     "location": "Tallinn",
     "company": "humbl.ai",
     "twitterUsername": "",
-    "followers": 82,
+    "followers": 83,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-04T11:35:59Z"

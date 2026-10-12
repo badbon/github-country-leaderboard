@@ -15786,7 +15786,7 @@
     "location": "Uruguay",
     "company": "ninguno",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-05T22:55:36Z"
@@ -15822,7 +15822,7 @@
     "location": "Uruguay, Montevideo",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-08T14:27:20Z"
@@ -15860,7 +15860,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 15,
     "createdAt": "2022-11-11T23:53:00Z"
   },
   {
@@ -15868,11 +15868,11 @@
     "name": "Facundo Duque",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112723442?s=72&u=e7c84b858b02faca903561d1370f26c746881e57&v=4",
     "location": "Montevideo, Uruguay.",
-    "company": "",
+    "company": "DefineCreative Gmbh",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1628,
-    "publicContributions": 210,
+    "privateContributions": 2190,
+    "publicContributions": 239,
     "createdAt": "2022-09-02T18:01:35Z"
   },
   {
@@ -15918,7 +15918,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-04-09T07:52:58Z"
@@ -15932,20 +15932,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 9,
     "createdAt": "2022-03-30T18:34:37Z"
-  },
-  {
-    "login": "darwinfont2022",
-    "name": "Darwin Font",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101813261?s=72&u=b23c6e82df90857a14aff8376218598458fdad49&v=4",
-    "location": "Uruguay",
-    "company": "none",
-    "twitterUsername": "none",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2022-03-17T13:40:25Z"
   },
   {
     "login": "FranciscoAlvareez",
@@ -15956,7 +15944,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-08-08T11:58:45Z"
   },
   {

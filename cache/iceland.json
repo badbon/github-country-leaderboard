@@ -15684,18 +15684,6 @@
     "createdAt": "2012-02-10T16:36:54Z"
   },
   {
-    "login": "jamesrobb",
-    "name": "James Robb",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/3089512?s=72&u=ad6f17c395bbc27ab1e1a2deb91ec74c444850a2&v=4",
-    "location": "Reykjavik",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 35,
-    "privateContributions": 478,
-    "publicContributions": 28,
-    "createdAt": "2012-12-20T11:52:41Z"
-  },
-  {
     "login": "AronI",
     "name": "Aron Oskarsson",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2590831?s=72&u=fb5b50bcfba72cf66e80575ecfd05a85316fdc18&v=4",
@@ -15703,21 +15691,9 @@
     "company": "Gangverk",
     "twitterUsername": "",
     "followers": 23,
-    "privateContributions": 3221,
+    "privateContributions": 3277,
     "publicContributions": 10,
     "createdAt": "2012-10-18T16:24:30Z"
-  },
-  {
-    "login": "arividar",
-    "name": "Ari Johannesson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1431432?s=72&v=4",
-    "location": "Reykjavik",
-    "company": "Andes ehf.",
-    "twitterUsername": "arividar",
-    "followers": 17,
-    "privateContributions": 1316,
-    "publicContributions": 1294,
-    "createdAt": "2012-02-12T19:25:55Z"
   },
   {
     "login": "logileifs",
@@ -15739,8 +15715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 226,
-    "publicContributions": 6,
+    "privateContributions": 302,
+    "publicContributions": 4,
     "createdAt": "2012-08-29T11:59:14Z"
   },
   {
@@ -15750,9 +15726,9 @@
     "location": "Reykjavik",
     "company": "Tero",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 4472,
-    "publicContributions": 379,
+    "followers": 11,
+    "privateContributions": 7127,
+    "publicContributions": 444,
     "createdAt": "2012-07-12T12:11:19Z"
   },
   {
@@ -15760,11 +15736,11 @@
     "name": "Jaimie Fryer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2613062?s=72&v=4",
     "location": "Reykjavik",
-    "company": "@greenqloud ",
+    "company": "@KalvexDotDev  ",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 342,
-    "publicContributions": 47,
+    "followers": 7,
+    "privateContributions": 1084,
+    "publicContributions": 97,
     "createdAt": "2012-10-21T14:44:10Z"
   },
   {
@@ -15788,7 +15764,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 41,
     "createdAt": "2012-05-16T15:26:18Z"
   },
   {
@@ -15800,7 +15776,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2012-12-20T00:05:47Z"
   },
   {
@@ -15810,9 +15786,9 @@
     "location": "Reykjavik",
     "company": "@massif-network ",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 3048,
-    "publicContributions": 2453,
+    "followers": 20,
+    "privateContributions": 2475,
+    "publicContributions": 2720,
     "createdAt": "2012-10-18T13:33:12Z"
   },
   {
@@ -15882,9 +15858,9 @@
     "location": "Reykjavík, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 600,
-    "privateContributions": 256,
-    "publicContributions": 742,
+    "followers": 606,
+    "privateContributions": 238,
+    "publicContributions": 702,
     "createdAt": "2011-03-06T15:10:30Z"
   },
   {
@@ -15895,8 +15871,8 @@
     "company": "@kodo-is",
     "twitterUsername": "jeremybarbet",
     "followers": 366,
-    "privateContributions": 2226,
-    "publicContributions": 32,
+    "privateContributions": 2664,
+    "publicContributions": 36,
     "createdAt": "2011-07-25T13:46:13Z"
   },
   {
@@ -15906,9 +15882,9 @@
     "location": "Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 216,
+    "followers": 217,
     "privateContributions": 0,
-    "publicContributions": 444,
+    "publicContributions": 221,
     "createdAt": "2011-11-22T12:39:45Z"
   },
   {
@@ -15918,9 +15894,9 @@
     "location": "Reykjavík, Iceland",
     "company": "Self-employed",
     "twitterUsername": "",
-    "followers": 98,
-    "privateContributions": 0,
-    "publicContributions": 62,
+    "followers": 95,
+    "privateContributions": 1800,
+    "publicContributions": 63,
     "createdAt": "2011-11-02T05:01:17Z"
   },
   {

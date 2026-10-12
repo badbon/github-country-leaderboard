@@ -15691,8 +15691,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 108,
-    "publicContributions": 1,
+    "privateContributions": 150,
+    "publicContributions": 0,
     "createdAt": "2013-01-08T05:34:41Z"
   },
   {
@@ -15716,7 +15716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 0,
     "createdAt": "2013-01-10T08:38:09Z"
   },
   {
@@ -15750,7 +15750,7 @@
     "location": "Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 14,
     "privateContributions": 485,
     "publicContributions": 13,
     "createdAt": "2012-09-03T15:52:16Z"
@@ -15786,9 +15786,9 @@
     "location": "Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 75,
+    "followers": 2,
+    "privateContributions": 103,
+    "publicContributions": 90,
     "createdAt": "2012-09-15T15:03:21Z"
   },
   {
@@ -15798,7 +15798,7 @@
     "location": "Lusaka",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-06-28T17:50:50Z"
@@ -15834,9 +15834,9 @@
     "location": "Lusaka, Zambia",
     "company": "Zambia",
     "twitterUsername": "",
-    "followers": 193,
-    "privateContributions": 1855,
-    "publicContributions": 301,
+    "followers": 192,
+    "privateContributions": 3127,
+    "publicContributions": 269,
     "createdAt": "2011-01-06T12:42:27Z"
   },
   {
@@ -15846,9 +15846,9 @@
     "location": "Lusaka, Zambia",
     "company": "",
     "twitterUsername": "daryllukas",
-    "followers": 62,
-    "privateContributions": 59,
-    "publicContributions": 0,
+    "followers": 61,
+    "privateContributions": 72,
+    "publicContributions": 5,
     "createdAt": "2011-08-30T13:34:29Z"
   },
   {
@@ -15859,21 +15859,9 @@
     "company": "72 Degrees",
     "twitterUsername": "SaintUx",
     "followers": 26,
-    "privateContributions": 1568,
+    "privateContributions": 1873,
     "publicContributions": 39,
     "createdAt": "2011-12-13T12:41:20Z"
-  },
-  {
-    "login": "vejnoe",
-    "name": "Andreas Vejnø Andersen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/647287?s=72&u=1368652595a300921c5bb4f3430fb87e09fd8c31&v=4",
-    "location": "Zambia",
-    "company": "Vejnø",
-    "twitterUsername": "vejnoe",
-    "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2011-03-02T16:35:55Z"
   },
   {
     "login": "JustEthelElla",
@@ -15906,9 +15894,9 @@
     "location": "Lusaka",
     "company": "University of Zambia",
     "twitterUsername": "lightonphiri",
-    "followers": 47,
-    "privateContributions": 28,
-    "publicContributions": 21,
+    "followers": 48,
+    "privateContributions": 29,
+    "publicContributions": 19,
     "createdAt": "2011-05-21T00:30:05Z"
   },
   {
@@ -15918,9 +15906,9 @@
     "location": "Ndola, Zambia",
     "company": "",
     "twitterUsername": "",
-    "followers": 109,
-    "privateContributions": 64,
-    "publicContributions": 5,
+    "followers": 110,
+    "privateContributions": 109,
+    "publicContributions": 3,
     "createdAt": "2010-12-25T15:16:42Z"
   },
   {

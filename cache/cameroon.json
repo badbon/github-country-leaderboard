@@ -15884,7 +15884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-01-08T01:46:09Z"
   },
   {
@@ -15918,7 +15918,7 @@
     "location": "Yaounde, Cameroon",
     "company": "",
     "twitterUsername": "YNdendeng",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-03-21T09:57:19Z"
@@ -15955,8 +15955,8 @@
     "company": "",
     "twitterUsername": "NjasapTibah",
     "followers": 1,
-    "privateContributions": 14,
-    "publicContributions": 37,
+    "privateContributions": 0,
+    "publicContributions": 34,
     "createdAt": "2019-10-05T15:45:19Z"
   },
   {
@@ -15991,7 +15991,7 @@
     "company": "",
     "twitterUsername": "yannickfogang",
     "followers": 1,
-    "privateContributions": 704,
+    "privateContributions": 1034,
     "publicContributions": 0,
     "createdAt": "2019-01-23T15:59:51Z"
   },
@@ -16027,8 +16027,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 217,
-    "publicContributions": 6,
+    "privateContributions": 221,
+    "publicContributions": 7,
     "createdAt": "2019-06-21T23:09:11Z"
   },
   {
@@ -16074,9 +16074,9 @@
     "location": "Yaoundé",
     "company": "Carnegie Mellon University",
     "twitterUsername": "baimamboukarr",
-    "followers": 172,
-    "privateContributions": 103,
-    "publicContributions": 198,
+    "followers": 170,
+    "privateContributions": 72,
+    "publicContributions": 313,
     "createdAt": "2019-04-01T19:46:48Z"
   },
   {
@@ -16086,9 +16086,9 @@
     "location": "Yaoundé, Cameroun",
     "company": "AFREETECH",
     "twitterUsername": "diatatus",
-    "followers": 57,
-    "privateContributions": 4,
-    "publicContributions": 12,
+    "followers": 56,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2019-09-27T01:44:17Z"
   },
   {
@@ -16098,9 +16098,9 @@
     "location": "Yaoundé ",
     "company": "Vitnamedia.com",
     "twitterUsername": "",
-    "followers": 47,
-    "privateContributions": 28,
-    "publicContributions": 14,
+    "followers": 43,
+    "privateContributions": 29,
+    "publicContributions": 11,
     "createdAt": "2019-11-15T14:49:44Z"
   },
   {
@@ -16111,8 +16111,8 @@
     "company": "OnProgramme",
     "twitterUsername": "JoresTala",
     "followers": 22,
-    "privateContributions": 1617,
-    "publicContributions": 14,
+    "privateContributions": 2125,
+    "publicContributions": 16,
     "createdAt": "2019-12-08T01:54:43Z"
   },
   {
