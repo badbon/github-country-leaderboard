@@ -1344546,7 +1344546,7 @@
     "location": "Ottawa, Ontario, Canada",
     "company": "@posthog",
     "twitterUsername": "",
-    "followers": 106,
+    "followers": 107,
     "privateContributions": 437,
     "publicContributions": 7935,
     "createdAt": "2013-01-11T19:27:18Z"
@@ -1354927,7 +1354927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 21828,
+    "privateContributions": 21831,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1355000,7 +1355000,7 @@
     "twitterUsername": "",
     "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 858,
+    "publicContributions": 859,
     "createdAt": "2013-02-26T02:35:43Z"
   },
   {
@@ -1380079,7 +1380079,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 6028,
+    "privateContributions": 6034,
     "publicContributions": 135,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1425250,5 +1425250,17 @@
     "privateContributions": 0,
     "publicContributions": 736,
     "createdAt": "2024-01-17T06:51:56Z"
+  },
+  {
+    "login": "Sami482005",
+    "name": "Sami Saliby",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/77988242?s=72&v=4",
+    "location": "Canada",
+    "company": "University of Toronto",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 37,
+    "createdAt": "2021-01-25T18:21:39Z"
   }
 ]

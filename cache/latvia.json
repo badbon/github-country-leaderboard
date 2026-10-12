@@ -14072,7 +14072,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 6,
-    "publicContributions": 18,
+    "publicContributions": 10,
     "createdAt": "2019-04-25T17:44:01Z"
   },
   {
@@ -14083,7 +14083,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 1117,
+    "privateContributions": 1030,
     "publicContributions": 0,
     "createdAt": "2019-01-10T17:42:32Z"
   },
@@ -14094,9 +14094,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 572,
-    "publicContributions": 42,
+    "followers": 7,
+    "privateContributions": 511,
+    "publicContributions": 123,
     "createdAt": "2019-04-03T10:38:28Z"
   },
   {
@@ -14131,8 +14131,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 120,
-    "publicContributions": 19,
+    "privateContributions": 98,
+    "publicContributions": 18,
     "createdAt": "2019-09-20T21:28:34Z"
   },
   {
@@ -14143,7 +14143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 234,
+    "privateContributions": 147,
     "publicContributions": 0,
     "createdAt": "2019-02-01T21:48:48Z"
   },
@@ -14167,21 +14167,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2,
-    "publicContributions": 252,
-    "createdAt": "2019-07-25T11:35:45Z"
-  },
-  {
-    "login": "XEjb",
-    "name": "Vladislav",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/54907042?s=72&u=7a5deed9e0694cab52f68180c2ef5f022c4fa95e&v=4",
-    "location": "Latvia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
-    "createdAt": "2019-09-04T17:00:08Z"
+    "createdAt": "2019-07-25T11:35:45Z"
   },
   {
     "login": "aSabanskis",
@@ -14190,9 +14178,9 @@
     "location": "Riga, Latvia",
     "company": "Institute of Numerical Modelling",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 17,
     "createdAt": "2019-10-20T16:26:38Z"
   },
   {
@@ -14203,7 +14191,7 @@
     "company": "University of Latvia",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 117,
+    "privateContributions": 115,
     "publicContributions": 0,
     "createdAt": "2019-06-14T19:45:02Z"
   },
@@ -14214,9 +14202,9 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 298,
-    "publicContributions": 372,
+    "followers": 5,
+    "privateContributions": 346,
+    "publicContributions": 305,
     "createdAt": "2019-08-26T21:01:43Z"
   },
   {
@@ -14227,7 +14215,7 @@
     "company": "Salusfin",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 365,
+    "privateContributions": 274,
     "publicContributions": 1,
     "createdAt": "2019-02-12T20:11:08Z"
   },
@@ -14239,7 +14227,7 @@
     "company": "@Supliful ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1551,
+    "privateContributions": 1475,
     "publicContributions": 7,
     "createdAt": "2019-02-23T18:25:23Z"
   },
@@ -14250,8 +14238,8 @@
     "location": "Latvia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 47,
+    "followers": 2,
+    "privateContributions": 42,
     "publicContributions": 1,
     "createdAt": "2019-05-27T10:12:43Z"
   },
@@ -14275,8 +14263,8 @@
     "company": "@Nerds-Incorp ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 218,
-    "publicContributions": 16,
+    "privateContributions": 234,
+    "publicContributions": 23,
     "createdAt": "2019-11-09T19:32:03Z"
   },
   {
@@ -14288,7 +14276,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 229,
+    "publicContributions": 234,
     "createdAt": "2019-12-22T13:09:34Z"
   },
   {

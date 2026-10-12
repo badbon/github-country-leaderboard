@@ -14624,7 +14624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2014-09-19T13:34:03Z"
   },
   {
@@ -14659,7 +14659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 680,
+    "privateContributions": 756,
     "publicContributions": 0,
     "createdAt": "2014-03-16T21:22:23Z"
   },
@@ -14671,21 +14671,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 21,
-    "createdAt": "2014-06-06T15:08:00Z"
-  },
-  {
-    "login": "jchmartinez",
-    "name": "Jaime Chavarria Martinez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8412999?s=72&u=b70d7eaae87cadafd3be20f9bdcb6f137524a047&v=4",
-    "location": "Managua, Nicaragua.",
-    "company": "Servicios Técnicos en Programación.",
-    "twitterUsername": "",
-    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-08-11T04:49:14Z"
+    "publicContributions": 40,
+    "createdAt": "2014-06-06T15:08:00Z"
   },
   {
     "login": "Keylopez",
@@ -14720,7 +14708,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2014-05-22T16:35:12Z"
   },
   {
@@ -14732,7 +14720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2014-03-31T23:50:05Z"
   },
   {
@@ -14746,18 +14734,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2014-05-29T16:45:51Z"
-  },
-  {
-    "login": "titus163",
-    "name": "lester flores ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7673329?s=72&u=4547e0bd12c30f6848255e8b66801047e854c744&v=4",
-    "location": "NICARAGUA ",
-    "company": "NuSentius",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 46,
-    "publicContributions": 0,
-    "createdAt": "2014-05-22T20:42:44Z"
   },
   {
     "login": "uxumaki",
@@ -14779,8 +14755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1335,
-    "publicContributions": 7,
+    "privateContributions": 1372,
+    "publicContributions": 3,
     "createdAt": "2014-05-28T14:34:43Z"
   },
   {
@@ -14802,7 +14778,7 @@
     "location": "Managua, Nicarauga",
     "company": "@BI-NI",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2014-05-08T17:51:27Z"
@@ -14815,7 +14791,7 @@
     "company": "Boombit",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 439,
+    "privateContributions": 463,
     "publicContributions": 0,
     "createdAt": "2014-01-23T15:37:54Z"
   },

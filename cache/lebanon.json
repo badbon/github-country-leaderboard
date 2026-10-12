@@ -14516,7 +14516,7 @@
     "twitterUsername": "majidious",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 16,
     "createdAt": "2021-09-07T11:46:27Z"
   },
   {
@@ -14527,7 +14527,7 @@
     "company": "Lebanese American University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 2,
     "createdAt": "2021-11-23T16:11:08Z"
   },
@@ -14540,7 +14540,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 158,
     "createdAt": "2021-03-09T14:29:59Z"
   },
   {
@@ -14563,7 +14563,7 @@
     "company": "MEDCO SAL",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 187,
+    "privateContributions": 182,
     "publicContributions": 18,
     "createdAt": "2021-08-25T06:36:27Z"
   },
@@ -14587,8 +14587,8 @@
     "company": "Student",
     "twitterUsername": "adamamer1801",
     "followers": 3,
-    "privateContributions": 6,
-    "publicContributions": 29,
+    "privateContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2021-02-05T16:59:08Z"
   },
   {
@@ -14623,7 +14623,7 @@
     "company": "inmind.ai",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 364,
+    "privateContributions": 597,
     "publicContributions": 3,
     "createdAt": "2021-01-06T13:41:00Z"
   },
@@ -14636,7 +14636,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 84,
     "createdAt": "2021-07-01T20:01:03Z"
   },
   {
@@ -14676,18 +14676,6 @@
     "createdAt": "2021-08-03T11:47:47Z"
   },
   {
-    "login": "Sami482005",
-    "name": "Sami Saliby",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/77988242?s=72&v=4",
-    "location": "Lebanon",
-    "company": "Lebanese American University",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 57,
-    "createdAt": "2021-01-25T18:21:39Z"
-  },
-  {
     "login": "waseemissa",
     "name": "Waseem Issa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/89384304?s=72&u=59d1b561fe854d9661690af4cf8faed419cc34ff&v=4",
@@ -14695,7 +14683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 222,
+    "privateContributions": 226,
     "publicContributions": 0,
     "createdAt": "2021-08-23T08:57:22Z"
   },
@@ -14707,7 +14695,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1154,
+    "privateContributions": 1273,
     "publicContributions": 0,
     "createdAt": "2021-08-23T11:14:21Z"
   },
