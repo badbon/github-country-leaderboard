@@ -23,7 +23,7 @@ Indexed users: 111
 | 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | Nouméa, New Caledonia | 1,265 |
 | 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien | New Caledonia | 1,209 |
 | 11 | [Dougniel](https://github.com/Dougniel) | Daniel Santos | New Caledonia | 1,197 |
-| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 886 |
+| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet | Nouméa, New Caledonia | 887 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | New-Caledonia | 728 |
 | 14 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 715 |
 | 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 712 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-12T19:31:21.353Z
+Generated: 2026-10-12T20:46:56.876Z

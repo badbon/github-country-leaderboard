@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,571
+Indexed users: 2,570
 
 | Leaderboard | Link |
 |---|---|
@@ -80,7 +80,7 @@ Indexed users: 2,571
 | 16 | [SarahMelki](https://github.com/SarahMelki) | Sarah Melki | Beirut, Lebanon | 138 |
 | 17 | [Mahmoud7Osman](https://github.com/Mahmoud7Osman) | Mahmoud Osman | Lebanon | 129 |
 | 18 | [saeedhalabi](https://github.com/saeedhalabi) | Saeed Halabi | Lebanon 🇱🇧 | 109 |
-| 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
-| 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
+| 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
+| 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-12T19:20:29.291Z
+Generated: 2026-10-12T20:37:51.929Z

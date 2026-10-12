@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-12T19:22:27.842Z
+Generated: 2026-10-12T20:40:00.398Z
 
 Users: 900
 
@@ -21,7 +21,7 @@ Users: 900
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire |  |  | Malawi | 635 |
 | 14 | [V014](https://github.com/V014) | Wanga Kanjala | Status Premier | void265 | Blantyre, Malawi | 612 |
 | 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Crosfade Technologies LLC  |  | Lilongwe  | 565 |
-| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 487 |
+| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 485 |
 | 17 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi |  | hopgausi | Malawi | 481 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni |  |  | Malawi | 477 |
 | 19 | [codaMW](https://github.com/codaMW) | codaMW | BitDevs Malawi | codaMW | Lilongwe, Malawi | 471 |

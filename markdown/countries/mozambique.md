@@ -50,13 +50,13 @@ Indexed users: 1,176
 | 11 | [Bernie-Dramos](https://github.com/Bernie-Dramos) | Bernardo E. Dramos Jr. | Mozambique | 721 |
 | 12 | [djafta](https://github.com/djafta) | Djafta | Mozambique | 674 |
 | 13 | [renzi-fidele-frontend](https://github.com/renzi-fidele-frontend) | Renzi Fidele | maputo, Mozambique | 644 |
-| 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 630 |
+| 14 | [ArcidesFerrao](https://github.com/ArcidesFerrao) | Arcides Ferrao | Mozambique | 610 |
 | 15 | [Eddy-Nhabinde](https://github.com/Eddy-Nhabinde) | Edmilson Nhabinde | Maputo, Mozambique | 598 |
 | 16 | [carsaimz](https://github.com/carsaimz) | CarsaiMz | Mozambique | 563 |
 | 17 | [antonio-macave](https://github.com/antonio-macave) | António Macave | Maputo, Mozambique | 561 |
 | 18 | [herquiloidehele](https://github.com/herquiloidehele) | Herquiloide Hele | Mocambique - Maputo | 546 |
-| 19 | [EstandarMustaq](https://github.com/EstandarMustaq) | Estandar | Maputo, Mozambique | 523 |
-| 20 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
+| 19 | [Muiria814](https://github.com/Muiria814) | Eleuterio Raul | Mozambique | 504 |
+| 20 | [iradoweck](https://github.com/iradoweck) | Edmilson Muacigarro | Mozambique | 486 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-12T19:29:47.325Z
+Generated: 2026-10-12T20:45:45.334Z

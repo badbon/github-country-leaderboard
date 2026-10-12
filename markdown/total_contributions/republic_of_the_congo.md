@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-12T19:39:34.701Z
+Generated: 2026-10-12T20:56:56.363Z
 
 Users: 299
 
@@ -14,8 +14,8 @@ Users: 299
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke |  |  | Congo | 3333 |
 | 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | @Akieni | lepresk1 | Brazzaville, Congo | 3297 |
 | 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Confort 7 incubateur | justany_itoua | Brazzaville | 2945 |
-| 9 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2881 |
-| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2871 |
+| 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Akieni |  | Brazzaville - Congo | 2882 |
+| 10 | [Merite15](https://github.com/Merite15) | Merite |  |  | Brazzaville, Congo | 2881 |
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2826 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2424 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2297 |

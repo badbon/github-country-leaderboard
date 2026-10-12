@@ -52,7 +52,7 @@ Indexed users: 900
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
 | 14 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 612 |
 | 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
-| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 487 |
+| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
 | 17 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 481 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
 | 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
@@ -75,12 +75,12 @@ Indexed users: 900
 | 11 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 231 |
 | 12 | [nbolok-code](https://github.com/nbolok-code) | Nathan Bolokonya | Malawi  | 223 |
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Lilongwe | 205 |
-| 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 202 |
-| 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 197 |
+| 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | Blantyre, Malawi | 203 |
+| 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 198 |
 | 16 | [i-christian](https://github.com/i-christian) | Christian | Mzuzu, Malawi  | 176 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | Blantyre, Malawi | 145 |
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-12T19:22:27.842Z
+Generated: 2026-10-12T20:40:00.398Z

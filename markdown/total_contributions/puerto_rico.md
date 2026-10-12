@@ -1,8 +1,8 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-12T19:38:26.325Z
+Generated: 2026-10-12T20:56:50.596Z
 
-Users: 1538
+Users: 1537
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 1538
 | 7 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 8232 |
 | 8 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 7609 |
 | 9 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | Betabit LLC | yoaquim | San Juan, PR | 7470 |
-| 10 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 6925 |
-| 11 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 6798 |
-| 12 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
-| 13 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 6644 |
+| 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 7027 |
+| 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala |  | bombillazo | Puerto Rico | 6925 |
+| 12 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | @QuantumCare-LLC  |  | Puerto Rico | 6798 |
+| 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 6569 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6253 |
-| 16 | [0thernet](https://github.com/0thernet) | ben | hraness | hraness | puerto rico | 6099 |
-| 17 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
-| 18 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
-| 19 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5781 |
-| 20 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 5490 |
+| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
+| 17 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
+| 18 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5781 |
+| 19 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 5490 |
+| 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 5433 |

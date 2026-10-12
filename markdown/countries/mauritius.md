@@ -25,7 +25,7 @@ Indexed users: 714
 | 11 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 5,159 |
 | 12 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,013 |
 | 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,052 |
-| 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 3,875 |
+| 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 3,914 |
 | 15 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,798 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,791 |
 | 17 | [k3ii](https://github.com/k3ii) | Jain Ramchurn | Mauritius | 3,730 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-12T19:26:17.739Z
+Generated: 2026-10-12T20:41:42.403Z

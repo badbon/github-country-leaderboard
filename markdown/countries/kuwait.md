@@ -13,9 +13,9 @@ Indexed users: 799
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Kuwait | 7,564 |
-| 2 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 6,794 |
-| 3 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,287 |
-| 4 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,211 |
+| 2 | [ghaith99](https://github.com/ghaith99) |  | Kuwait | 6,805 |
+| 3 | [buaziz](https://github.com/buaziz) | Buaziz | Kuwait | 6,794 |
+| 4 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | kuwait | 6,287 |
 | 5 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 6,082 |
 | 6 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | Kuwait | 5,968 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 5,330 |
@@ -54,7 +54,7 @@ Indexed users: 799
 | 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
 | 16 | [agatho-daemon](https://github.com/agatho-daemon) | Agathodaemon | Kuwait | 532 |
 | 17 | [AwadhObaid](https://github.com/AwadhObaid) | Awadh Obaid | Kuwait | 529 |
-| 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 490 |
+| 18 | [lonlydwolf](https://github.com/lonlydwolf) | Ahmad Mollaei | Kuwait | 491 |
 | 19 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Kuwait | 447 |
 | 20 | [Ahmad-Ali-mohammad](https://github.com/Ahmad-Ali-mohammad) | ahmad al mohammad | kuwait | 441 |
 
@@ -83,4 +83,4 @@ Indexed users: 799
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-12T19:31:32.381Z
+Generated: 2026-10-12T20:35:08.403Z

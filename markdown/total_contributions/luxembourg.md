@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-12T19:21:21.845Z
+Generated: 2026-10-12T20:39:46.674Z
 
 Users: 2197
 
@@ -25,4 +25,4 @@ Users: 2197
 | 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 6213 |
 | 18 | [francois352](https://github.com/francois352) | Francois Altwies | Neurofeedback Luxembourg | francois352 | Luxembourg | 6197 |
 | 19 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura |  |  | Luxembourg | 6081 |
-| 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | @AlterDomus |  | Luxembourg | 5348 |
+| 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | @AlterDomus |  | Luxembourg | 5465 |

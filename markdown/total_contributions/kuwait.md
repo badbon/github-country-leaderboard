@@ -1,15 +1,15 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-12T19:31:32.381Z
+Generated: 2026-10-12T20:35:08.403Z
 
 Users: 799
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [mshll](https://github.com/mshll) | meshal | Boubyan Bank |  | Kuwait | 7564 |
-| 2 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 6794 |
-| 3 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6287 |
-| 4 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6211 |
+| 2 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6805 |
+| 3 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 6794 |
+| 4 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6287 |
 | 5 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6082 |
 | 6 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 5968 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5330 |

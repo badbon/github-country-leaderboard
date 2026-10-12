@@ -1,6 +1,6 @@
 # Total Contributions - Mauritania
 
-Generated: 2026-10-12T19:25:41.970Z
+Generated: 2026-10-12T20:41:37.506Z
 
 Users: 289
 
@@ -13,7 +13,7 @@ Users: 289
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 4355 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | SUPNUM - Institut Supérieur du Numérique |  | Nouakchott, Mauritania | 4094 |
 | 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi |  |  | Mauritania | 3270 |
-| 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 2851 |
+| 8 | [myeljoud](https://github.com/myeljoud) | Mohamed Yahye El Joud | Next Technology | myeljoud | Nouakchott, Mauritania | 3205 |
 | 9 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib |  |  | Nouakchott, Mauritania | 2749 |
 | 10 | [oumarhadrami](https://github.com/oumarhadrami) | Mohamed EL Hadramy Oumar |  | mohamed_hadramy | Nouakchott, Mauritania | 2341 |
 | 11 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | HrFlow.ai | BabeSalehDahi | Nouakchott, Mauritania | 2330 |
@@ -23,6 +23,6 @@ Users: 289
 | 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Student at iscae |  | Mauritania | 1528 |
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer |  |  | Mauritania | 1347 |
 | 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med |  |  | Nouakchott, Mauritania | 1276 |
-| 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 974 |
+| 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Joujou Services  |  | Nouakchott | 988 |
 | 19 | [aadeina](https://github.com/aadeina) | Amar |  |  | Mauritania | 856 |
 | 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  | iyehah |  Nouakchott | 831 |

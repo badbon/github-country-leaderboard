@@ -20,8 +20,8 @@ Indexed users: 299
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,333 |
 | 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,297 |
 | 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,945 |
-| 9 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,881 |
-| 10 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,871 |
+| 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,882 |
+| 10 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,881 |
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,826 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,424 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,297 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-12T19:39:34.701Z
+Generated: 2026-10-12T20:56:56.363Z

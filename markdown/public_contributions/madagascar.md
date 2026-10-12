@@ -1,6 +1,6 @@
 # Public Contributions - Madagascar
 
-Generated: 2026-10-12T19:22:02.628Z
+Generated: 2026-10-12T20:39:55.619Z
 
 Users: 1906
 
@@ -17,12 +17,12 @@ Users: 1906
 | 9 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 2868 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu |  |  | Madagascar | 2222 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | IT University | loricktsarazaka | Madagascar | 1932 |
-| 12 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1738 |
-| 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1706 |
-| 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1623 |
-| 15 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1589 |
-| 16 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
-| 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
-| 18 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1535 |
+| 12 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Ismael_dev |  | Antananarivo | 1815 |
+| 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Sénat de Madagascar | Rajharit_r77 | Antananarivo | 1738 |
+| 14 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 1706 |
+| 15 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Haute Ecole d'Informatique (HEI) |  | Antananarivo Madagascar | 1623 |
+| 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA |  |  | madagascar | 1589 |
+| 17 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio |  |  | Antananarivo, MADAGASCAR | 1562 |
+| 18 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa |  |  | Antananarivo, Madagascar | 1553 |
 | 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina |  |  | Madagascar | 1486 |
 | 20 | [tokimanana](https://github.com/tokimanana) | ANDRIAMBOLOLONA Tokimanana Samuel Sarobidy |  |  | Fianarantsoa, Madagascar | 1413 |

@@ -25,13 +25,13 @@ Indexed users: 1,906
 | 11 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | Madagascar | 6,231 |
 | 12 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | Antananarivo / Madagascar | 5,312 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 5,181 |
-| 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 5,058 |
-| 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 4,972 |
-| 16 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala | Madagascar | 4,933 |
-| 17 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 4,804 |
-| 18 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Madagascar, Antananarivo | 4,752 |
-| 19 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 4,568 |
-| 20 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | Antananarivo, Madagascar | 4,370 |
+| 14 | [andostronaut](https://github.com/andostronaut) | Ando | Antananarivo, MG | 5,129 |
+| 15 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra | Antananarivo, Madagascar | 5,058 |
+| 16 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Madagascar | 4,972 |
+| 17 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala | Madagascar | 4,933 |
+| 18 | [colombefioren](https://github.com/colombefioren) | COCO | Madagascar, Antananarivo | 4,804 |
+| 19 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Madagascar, Antananarivo | 4,752 |
+| 20 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 4,568 |
 
 ## Public Contributions
 
@@ -48,13 +48,13 @@ Indexed users: 1,906
 | 9 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | Anatananarivo, Madagascar | 2,868 |
 | 10 | [Mathieu-bot](https://github.com/Mathieu-bot) | Tafita Mathieu | Madagascar | 2,222 |
 | 11 | [lorick-tsarazaka](https://github.com/lorick-tsarazaka) | Lorick TSARAZAKA | Madagascar | 1,932 |
-| 12 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,738 |
-| 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,706 |
-| 14 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,623 |
-| 15 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,589 |
-| 16 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,562 |
-| 17 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
-| 18 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,535 |
+| 12 | [Ismael148](https://github.com/Ismael148) | Zo Lalaina Ismael RAJAOHARIMANANA | Antananarivo | 1,815 |
+| 13 | [RaJharit77](https://github.com/RaJharit77) | Rajoharitiana Ainasoa Raharison | Antananarivo | 1,738 |
+| 14 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly | Madagascar | 1,706 |
+| 15 | [ChristianMDG](https://github.com/ChristianMDG) | Christian RAVELOJAONA | Antananarivo Madagascar | 1,623 |
+| 16 | [aina-lang](https://github.com/aina-lang) | RAFANDEFERANA MAMINIAINA MERCIA | madagascar | 1,589 |
+| 17 | [MamitianaAntonio](https://github.com/MamitianaAntonio) | Antonio | Antananarivo, MADAGASCAR | 1,562 |
+| 18 | [hrtsx](https://github.com/hrtsx) | Harena Hirintsoa | Antananarivo, Madagascar | 1,553 |
 | 19 | [MaminirinaEdwino](https://github.com/MaminirinaEdwino) | Edwino maminirina | Madagascar | 1,486 |
 | 20 | [tokimanana](https://github.com/tokimanana) | ANDRIAMBOLOLONA Tokimanana Samuel Sarobidy | Fianarantsoa, Madagascar | 1,413 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,906
 | 19 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Toamasina, Madagascar | 144 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-12T19:22:02.628Z
+Generated: 2026-10-12T20:39:55.619Z

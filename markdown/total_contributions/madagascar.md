@@ -1,6 +1,6 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-12T19:22:02.628Z
+Generated: 2026-10-12T20:39:55.619Z
 
 Users: 1906
 
@@ -19,10 +19,10 @@ Users: 1906
 | 11 | [amel-sc](https://github.com/amel-sc) | Amel CHARLES | IT University |  | Madagascar | 6231 |
 | 12 | [tsirysndr](https://github.com/tsirysndr) | Tsiry Sandratraina | @fluentci-io | tsiry_sndr | Antananarivo / Madagascar | 5312 |
 | 13 | [Emii-lia](https://github.com/Emii-lia) | Fiaro Miangaly |  |  | Madagascar | 5181 |
-| 14 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 5058 |
-| 15 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 4972 |
-| 16 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala |  |  | Madagascar | 4933 |
-| 17 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 4804 |
-| 18 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Ohayo Dev&Design |  | Madagascar, Antananarivo | 4752 |
-| 19 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |
-| 20 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 4370 |
+| 14 | [andostronaut](https://github.com/andostronaut) | Ando |  | andostronaut | Antananarivo, MG | 5129 |
+| 15 | [fatratra-png](https://github.com/fatratra-png) | RAFANOMEZANTSOA Ny Fatratra |  |  | Antananarivo, Madagascar | 5058 |
+| 16 | [Andryrasolofomanana](https://github.com/Andryrasolofomanana) | Andry Rasolofomanana | Kiama |  | Madagascar | 4972 |
+| 17 | [Rakotoarilala51](https://github.com/Rakotoarilala51) | Aina Rakotoarilala |  |  | Madagascar | 4933 |
+| 18 | [colombefioren](https://github.com/colombefioren) | COCO |  |  | Madagascar, Antananarivo | 4804 |
+| 19 | [Dokja620](https://github.com/Dokja620) | Axel RAKOTOARIVAO | Ohayo Dev&Design |  | Madagascar, Antananarivo | 4752 |
+| 20 | [radandevist](https://github.com/radandevist) | Andrianarisoa Daniel | i_am_radan | radandevist | Anatananarivo, Madagascar | 4568 |

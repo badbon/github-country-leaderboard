@@ -1,18 +1,18 @@
 # Public Contributions - Namibia
 
-Generated: 2026-10-12T19:29:53.807Z
+Generated: 2026-10-12T20:45:51.444Z
 
 Users: 476
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 8782 |
-| 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 3135 |
+| 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 3248 |
 | 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 2239 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 1903 |
 | 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster |  |  | Walvis Bay, Namibia | 1536 |
 | 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | 127.0.0.1 |  | Namibia | 1249 |
-| 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1186 |
+| 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 1191 |
 | 8 | [lamlg00](https://github.com/lamlg00) | Lam II | @cyberpolco | lamlg00 | Windhoek | 679 |
 | 9 | [Driftedbucket](https://github.com/Driftedbucket) | Awike Gulu |  |  | Windhoek, Namibia | 623 |
 | 10 | [Leon2332](https://github.com/Leon2332) | Leon | Venture Media |  | Namibia | 610 |

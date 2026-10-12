@@ -45,11 +45,11 @@ Indexed users: 1,395
 | 6 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
 | 7 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez | Managua, Nicaragua | 1,249 |
 | 8 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
-| 9 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,153 |
-| 10 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,124 |
+| 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,215 |
+| 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,153 |
 | 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,093 |
-| 12 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,048 |
-| 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,037 |
+| 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,087 |
+| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,048 |
 | 14 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,027 |
 | 15 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 987 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
@@ -77,10 +77,10 @@ Indexed users: 1,395
 | 13 | [felixicaza](https://github.com/felixicaza) | Felix Icaza | Estelí, Nicaragua | 79 |
 | 14 | [alexxandraSalazar](https://github.com/alexxandraSalazar) | Alexandra Salazar | Nicaragua | 78 |
 | 15 | [JezerM](https://github.com/JezerM) | Jezer Mejía | Nicaragua | 78 |
-| 16 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 73 |
+| 16 | [14BryanEspinoza](https://github.com/14BryanEspinoza) | Bryan Espinoza | Nicaragua | 76 |
 | 17 | [neydroid](https://github.com/neydroid) | José Ney Guerrero | Managua, Nicaragua | 71 |
 | 18 | [luismejiadev](https://github.com/luismejiadev) | Luis Mejia | Managua, Nicaragua | 68 |
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-12T19:31:25.906Z
+Generated: 2026-10-12T20:47:35.941Z

@@ -29,7 +29,7 @@ Indexed users: 994
 | 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,396 |
 | 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,556 |
-| 18 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,239 |
+| 18 | [manqur](https://github.com/manqur) | Mansoor Qurishi | Oman | 4,247 |
 | 19 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,234 |
 | 20 | [amk9889](https://github.com/amk9889) | Alfarouq | Oman | 4,219 |
 
@@ -83,4 +83,4 @@ Indexed users: 994
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-12T19:34:15.931Z
+Generated: 2026-10-12T20:52:42.202Z

@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-12T19:45:10.073Z
+Generated: 2026-10-12T21:00:55.765Z
 
 Users: 1356
 
@@ -9,7 +9,7 @@ Users: 1356
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 4304 |
 | 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3262 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 3059 |
-| 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2837 |
+| 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2810 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | 21STUDIO |  | Dakar, Sénégal | 2534 |
 | 6 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | National Agency of Statistic and Demography | IbrahimaTall_SN | Dakar, Senegal | 2015 |
 | 7 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour |  |  | Rufisque, Dakar, Sénégal | 1902 |

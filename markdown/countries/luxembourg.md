@@ -31,7 +31,7 @@ Indexed users: 2,197
 | 17 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 6,213 |
 | 18 | [francois352](https://github.com/francois352) | Francois Altwies | Luxembourg | 6,197 |
 | 19 | [jose99segura](https://github.com/jose99segura) | Jose Luis Segura | Luxembourg | 6,081 |
-| 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,348 |
+| 20 | [remiminnebo](https://github.com/remiminnebo) | Remi J. Minnebo | Luxembourg | 5,465 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-12T19:21:21.845Z
+Generated: 2026-10-12T20:39:46.674Z

@@ -1,6 +1,6 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-12T19:29:53.807Z
+Generated: 2026-10-12T20:45:51.444Z
 
 Users: 476
 
@@ -10,7 +10,7 @@ Users: 476
 | 2 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 8782 |
 | 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 6626 |
 | 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6424 |
-| 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 6073 |
+| 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 6252 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach |  |  | Namibia | 6062 |
 | 7 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 6010 |
 | 8 | [axelmukwena](https://github.com/axelmukwena) | Axel Mukwena | @nzzdev @meyabase @silosset | axelmukwena | Namibia | 5147 |
@@ -21,7 +21,7 @@ Users: 476
 | 13 | [holgarkotze-commits](https://github.com/holgarkotze-commits) | STITCH WORX INC. | STITCH WORX |  | NAMIBIA | 2480 |
 | 14 | [rolandihms](https://github.com/rolandihms) | ihms | @ihms-co  | rolandihms | Swakopmund, Namibia | 2334 |
 | 15 | [geraldokandonga](https://github.com/geraldokandonga) | Geraldo K. Fillipus | Holoog |  | Windhoek, Namibia | 2225 |
-| 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2207 |
+| 16 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Spotify |  | Amsterdam - Windhoek | 2221 |
 | 17 | [Eckhardt-D](https://github.com/Eckhardt-D) | Eckhardt Scheffer | Kaizen Media | eckhardtdreyer | Namibia | 1959 |
 | 18 | [lothartj](https://github.com/lothartj) | Lothar Tjipueja |  |  | Windhoek | 1919 |
 | 19 | [TulongaHishiko](https://github.com/TulongaHishiko) | Tulonga Hishiko | @ColabNam  |  | Namibia  | 1889 |
