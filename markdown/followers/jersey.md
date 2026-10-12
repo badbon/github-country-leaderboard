@@ -1,8 +1,8 @@
 # Followers - Jersey
 
-Generated: 2026-10-12T00:03:52.474Z
+Generated: 2026-10-12T01:01:14.825Z
 
-Users: 140
+Users: 139
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

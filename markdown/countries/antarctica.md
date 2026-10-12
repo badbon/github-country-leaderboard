@@ -1,6 +1,6 @@
 # Antarctica
 
-Indexed users: 461
+Indexed users: 460
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 461
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,263 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,231 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,866 |
-| 16 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 2,732 |
-| 17 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,561 |
-| 18 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
-| 19 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,127 |
-| 20 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,991 |
+| 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,561 |
+| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
+| 18 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,127 |
+| 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,991 |
+| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,718 |
 
 ## Public Contributions
 
@@ -48,15 +48,15 @@ Indexed users: 461
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,320 |
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail | Antarctica | 1,165 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 | Antarctica | 1,125 |
-| 12 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A | Antarctica | 771 |
-| 13 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
-| 14 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 664 |
-| 15 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 605 |
-| 16 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 529 |
-| 17 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
-| 18 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
-| 19 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
-| 20 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
+| 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | Antarctica | 708 |
+| 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 | Antarctica | 664 |
+| 14 | [KrLite](https://github.com/KrLite) | KrLite | Antarctica | 605 |
+| 15 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | Antarctica | 529 |
+| 16 | [oniaz](https://github.com/oniaz) | Omnia | antarctica | 517 |
+| 17 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Antarctica, Discord, VRChat | 513 |
+| 18 | [Daedalus-code](https://github.com/Daedalus-code) |  | Antarctica | 472 |
+| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  | Antarctica | 450 |
+| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing | Antarctica | 440 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 461
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-11T23:40:42.138Z
+Generated: 2026-10-12T00:39:24.190Z

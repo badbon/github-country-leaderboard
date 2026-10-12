@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-11T23:47:40.692Z
+Generated: 2026-10-12T00:44:24.668Z
 
 Users: 254
 
@@ -13,16 +13,16 @@ Users: 254
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 204 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan |  |  | Brunei | 148 |
 | 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 121 |
-| 8 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 108 |
-| 9 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
-| 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 103 |
-| 11 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM |  |  | Brunei Darussalam | 101 |
-| 12 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 85 |
-| 13 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 75 |
-| 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 71 |
-| 15 | [Nekrozu](https://github.com/Nekrozu) | Luq |  |  | Brunei Darussalam | 62 |
-| 16 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 61 |
-| 17 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 59 |
+| 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 109 |
+| 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 108 |
+| 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |
+| 11 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou |  |  | Brunei Darussalam | 103 |
+| 12 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM |  |  | Brunei Darussalam | 101 |
+| 13 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Shell Petroleum |  | Brunei Darussalam | 85 |
+| 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman |  |  | Brunei Darussalam | 75 |
+| 15 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel |  |  | Brunei | 71 |
+| 16 | [Nekrozu](https://github.com/Nekrozu) | Luq |  |  | Brunei Darussalam | 62 |
+| 17 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse |  |  | Brunei | 61 |
 | 18 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Zeey Developer |  | Brunei Darussalam | 57 |
 | 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin |  |  | Brunei | 53 |
 | 20 | [Hifdzullah](https://github.com/Hifdzullah) | Zul |  |  | Brunei | 52 |

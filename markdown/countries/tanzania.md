@@ -52,9 +52,9 @@ Indexed users: 2,041
 | 13 | [klaus-gudy](https://github.com/klaus-gudy) | Goodluck Madadi | Tanzania | 1,893 |
 | 14 | [Heracraft](https://github.com/Heracraft) | Nehemia Kaaya | Tanzania | 1,826 |
 | 15 | [elishagerson](https://github.com/elishagerson) | Elisha Gerson | Mbeya, Tanzania | 1,711 |
-| 16 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,606 |
-| 17 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | Dar es salaam , Tanzania | 1,565 |
-| 18 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
+| 16 | [AdamMashaka](https://github.com/AdamMashaka) | Adam Mashaka | Dar es salaam , Tanzania | 1,565 |
+| 17 | [Maquiz1](https://github.com/Maquiz1) | Maquiz | Tanzania | 1,560 |
+| 18 | [fmpiza](https://github.com/fmpiza) | fridolinmpiza, Msc. | Tanzania | 1,544 |
 | 19 | [Gudi650](https://github.com/Gudi650) | Godluck Emmanuel Msangi | Tanzania | 1,516 |
 | 20 | [JuliusNtale](https://github.com/JuliusNtale) | Julius Peter Ntale | Tanzania  | 1,497 |
 
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-11T23:31:46.398Z
+Generated: 2026-10-12T00:30:53.673Z

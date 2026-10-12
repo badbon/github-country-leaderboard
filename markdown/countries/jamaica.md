@@ -12,11 +12,11 @@ Indexed users: 1,275
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,079 |
+| 1 | [gordonswaby](https://github.com/gordonswaby) | EduFocal | Kingston, Jamaica  | 43,890 |
 | 2 | [slocker3](https://github.com/slocker3) | Stephen Locker | Kingston, WA | 14,995 |
 | 3 | [alexarthurs](https://github.com/alexarthurs) | Alex Arthurs | Kingston, Ontario | 11,002 |
 | 4 | [SirFitz](https://github.com/SirFitz) | Romario Fitzgerald | Jamaica | 9,419 |
-| 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,359 |
+| 5 | [eforth](https://github.com/eforth) | Ervin Forth | Jamaica | 9,400 |
 | 6 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 9,101 |
 | 7 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,941 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,798 |
@@ -24,14 +24,14 @@ Indexed users: 1,275
 | 10 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
 | 11 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
 | 12 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
-| 13 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
-| 14 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
-| 15 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
-| 16 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
-| 17 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
-| 18 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
-| 19 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 3,896 |
-| 20 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 3,888 |
+| 13 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
+| 14 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
+| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
+| 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
+| 17 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
+| 18 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
+| 19 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
+| 20 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 3,896 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 94 |
 
-Generated: 2026-10-12T00:03:45.451Z
+Generated: 2026-10-12T01:01:09.885Z

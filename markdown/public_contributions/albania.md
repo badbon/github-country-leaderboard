@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-11T23:39:14.500Z
+Generated: 2026-10-12T00:38:10.480Z
 
 Users: 1184
 
@@ -10,8 +10,8 @@ Users: 1184
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | basecode LLC. | flakerimi | Tirane, Albania | 4765 |
 | 3 | [fadion](https://github.com/fadion) | Fadion Dashi |  |  | Tirana, Albania | 3661 |
 | 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | @DiceMasterIO |  | Tirana, Albania | 1521 |
-| 5 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 1390 |
-| 6 | [Orest-Z](https://github.com/Orest-Z) | Orest |  |  | Albania | 1381 |
+| 5 | [Orest-Z](https://github.com/Orest-Z) | Orest |  |  | Albania | 1488 |
+| 6 | [okturan](https://github.com/okturan) | Okan Erturan |  |  | Tirana | 1390 |
 | 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Western Balkan Univesity | kleo_j14 | Albania | 1243 |
 | 8 | [genciiv](https://github.com/genciiv) | G-code | G-code |  | Albania | 1070 |
 | 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 1001 |

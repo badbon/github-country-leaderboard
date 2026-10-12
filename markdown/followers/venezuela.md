@@ -1,8 +1,8 @@
 # Followers - Venezuela
 
-Generated: 2026-10-11T23:35:36.745Z
+Generated: 2026-10-12T00:35:52.129Z
 
-Users: 6637
+Users: 6636
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 6637
 | 12 | [JellyBitz](https://github.com/JellyBitz) | Engels Quintero |  | ImJellyBitz | Venezuela | 218 |
 | 13 | [VonHeikemen](https://github.com/VonHeikemen) | Heiker |  | VonHeikemen_ | Venezuela | 215 |
 | 14 | [jaimeirazabal1](https://github.com/jaimeirazabal1) | Jaime Irazabal | Home Office | JaimeIrazabal | Venezuela | 211 |
-| 15 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Analista y Desarrollador de Sistemas |  | Venezuela | 207 |
-| 16 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Obeltech C.A. |  | Venezuela, Distrito Capital | 202 |
-| 17 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 198 |
+| 15 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Obeltech C.A. |  | Venezuela, Distrito Capital | 202 |
+| 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Soluciones Administrativas, C.A. |  | Venezuela. | 198 |
+| 17 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Analista y Desarrollador de Sistemas |  | Venezuela | 185 |
 | 18 | [gutoccs](https://github.com/gutoccs) | Gustavo Escobar Cobos |  |  | Caracas, Venezuela | 185 |
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro |  |  | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar |  |  | Venezuela / Remote | 175 |

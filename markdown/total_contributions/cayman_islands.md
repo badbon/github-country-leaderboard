@@ -1,6 +1,6 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-10-11T23:49:24.396Z
+Generated: 2026-10-12T00:47:10.832Z
 
 Users: 124
 
@@ -8,10 +8,10 @@ Users: 124
 |---:|---|---|---|---|---|---:|
 | 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 22006 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | @etherfi-protocol | evandro_saturn | Cayman Islands | 7513 |
-| 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 4913 |
+| 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 4918 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 3714 |
 | 5 | [pankajjagtapp](https://github.com/pankajjagtapp) | Pankaj Jagtap | @etherfi-protocol | pankajjagtapp | Cayman Islands | 3303 |
-| 6 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 3091 |
+| 6 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 3112 |
 | 7 | [shinchann221](https://github.com/shinchann221) | Paras Jain |  | PaarasJainn | Cayman Islands | 2825 |
 | 8 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Gadze Finance SEZC | MikeSilagadze | Cayman Islands | 2674 |
 | 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 2414 |
@@ -19,7 +19,7 @@ Users: 124
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper |  |  | Grand Cayman, Cayman Islands | 1732 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 1485 |
 | 13 | [RodneyAlison](https://github.com/RodneyAlison) | Rodney Alison |  |  | Cayman Islands | 1226 |
-| 14 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1095 |
+| 14 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1089 |
 | 15 | [saviro-orin](https://github.com/saviro-orin) | Orin |  |  | Cayman Islands | 1049 |
 | 16 | [BaltasarAroso](https://github.com/BaltasarAroso) | Baltasar Aroso |  | ArosoBaltasar | George Town, Cayman Islands | 1034 |
 | 17 | [Gise345](https://github.com/Gise345) | Giselle Johnson | https://invovibetech.com/ |  | Cayman Islands | 937 |

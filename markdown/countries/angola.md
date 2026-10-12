@@ -1,6 +1,6 @@
 # Angola
 
-Indexed users: 2,505
+Indexed users: 2,504
 
 | Leaderboard | Link |
 |---|---|
@@ -70,7 +70,7 @@ Indexed users: 2,505
 | 6 | [westjoao12](https://github.com/westjoao12) | West João | Angola, Luanda | 338 |
 | 7 | [Adyllsxn](https://github.com/Adyllsxn) | Domingos Nascimento | Luanda, Angola | 294 |
 | 8 | [braulio94](https://github.com/braulio94) | Braulio Cassule | Luanda, Angola | 272 |
-| 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | Angola/Luanda | 258 |
+| 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | Angola/Luanda | 259 |
 | 10 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto | Luanda, Angola | 257 |
 | 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Angola/Luanda | 223 |
 | 12 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Luanda, Angola | 214 |
@@ -83,4 +83,4 @@ Indexed users: 2,505
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-11T23:40:21.885Z
+Generated: 2026-10-12T00:39:18.014Z

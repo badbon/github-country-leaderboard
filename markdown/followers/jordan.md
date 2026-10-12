@@ -1,8 +1,8 @@
 # Followers - Jordan
 
-Generated: 2026-10-12T00:03:55.710Z
+Generated: 2026-10-12T01:01:48.410Z
 
-Users: 4019
+Users: 4018
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,14 +15,14 @@ Users: 4019
 | 7 | [MohammadYounes](https://github.com/MohammadYounes) | Mohammad Younes |  |  | Jordan | 629 |
 | 8 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | @activepieces  | mabuaboud | Amman, Jordan | 501 |
 | 9 | [Natshah](https://github.com/Natshah) | Rajab Natshah | @Vardot  |  | Amman, Jordan | 469 |
-| 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 441 |
+| 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 456 |
 | 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 427 |
 | 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine |  |  | Amman, Jordan | 386 |
 | 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf |  | MoonWebsDev | Jordan | 380 |
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 328 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman |  | R1DDIF | Jordan,Amman | 313 |
-| 16 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | @jordanopensource |  | Amman, Jordan | 268 |
-| 17 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | @OpenSooq  |  | Jordan | 258 |
+| 16 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | @OpenSooq  |  | Jordan | 258 |
+| 17 | [OmarAzizi](https://github.com/OmarAzizi) | Kryptonite | @jordanopensource |  | Amman, Jordan | 246 |
 | 18 | [afaneh92](https://github.com/afaneh92) | mohammad.afaneh92 |  |  | Amman-Jordan | 242 |
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed |  | MohElsayed_se | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 192 |

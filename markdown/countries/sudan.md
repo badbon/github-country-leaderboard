@@ -20,7 +20,7 @@ Indexed users: 729
 | 6 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 4,638 |
 | 7 | [alsir](https://github.com/alsir) | Alsir Hamory | Khartoum , sudan | 3,688 |
 | 8 | [harranali](https://github.com/harranali) |  | Sudan | 3,350 |
-| 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | Sudan | 3,116 |
+| 9 | [hamoda-dev](https://github.com/hamoda-dev) | Mohammed Hamid Hamoda | Sudan | 3,091 |
 | 10 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed | Sudan - Khartoum | 2,851 |
 | 11 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 2,818 |
 | 12 | [hazembabiker-2004](https://github.com/hazembabiker-2004) | Hazem Babiker | Khartoum | 2,746 |
@@ -30,7 +30,7 @@ Indexed users: 729
 | 16 | [AminOmer](https://github.com/AminOmer) | Amin Omer | Khartoum, Sudan | 2,536 |
 | 17 | [osmanabdelsalam](https://github.com/osmanabdelsalam) | Osman Abdelsalam | Sudan / Khartoum | 2,529 |
 | 18 | [asimsharf](https://github.com/asimsharf) | Asim Abdelgadir | Sudan | 2,234 |
-| 19 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 2,020 |
+| 19 | [wali-eldin-hassan](https://github.com/wali-eldin-hassan) | Wali Eldin  | Sudan | 2,021 |
 | 20 | [OxSama](https://github.com/OxSama) | OxSama | Khartoum - Sudan | 1,861 |
 
 ## Public Contributions
@@ -63,7 +63,7 @@ Indexed users: 729
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [semicode-ltd](https://github.com/semicode-ltd) | SemiCode Inc | Khartoum , Sudan | 270 |
-| 2 | [shoukreytom](https://github.com/shoukreytom) | Shoukrey Tom | Sudan | 191 |
+| 2 | [shoukreytom](https://github.com/shoukreytom) | Shoukrey Tom | Sudan | 189 |
 | 3 | [wadgamaraldeen](https://github.com/wadgamaraldeen) | Mustafa Adam Gamaraldin Abdalla | Sudan | 168 |
 | 4 | [amolood](https://github.com/amolood) | ABDALRAHMAN MOLOOD | Khartoum,Sudan | 150 |
 | 5 | [oovaa](https://github.com/oovaa) | Omar  | Sudan | 115 |
@@ -72,9 +72,9 @@ Indexed users: 729
 | 8 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil | Sudan | 89 |
 | 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia | Sudan | 88 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab | Khartoum, Sudan | 76 |
-| 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | sudan | 73 |
+| 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | sudan | 74 |
 | 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 62 |
-| 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 61 |
+| 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 60 |
 | 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar | Sudan, Khartoum | 59 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 59 |
 | 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 56 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 48 |
 
-Generated: 2026-10-11T23:30:00.284Z
+Generated: 2026-10-12T00:29:56.803Z

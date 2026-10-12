@@ -19,7 +19,7 @@ Indexed users: 315
 | 5 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 1,113 |
 | 6 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,041 |
 | 7 | [Arthur241g](https://github.com/Arthur241g) | Arthur Crown | GABON | 1,001 |
-| 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 972 |
+| 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 934 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 849 |
 | 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 728 |
 | 11 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 679 |
@@ -39,7 +39,7 @@ Indexed users: 315
 |---:|---|---|---|---:|
 | 1 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT | Gabon | 1,467 |
 | 2 | [Crazynotdev](https://github.com/Crazynotdev) | ZynXx | Gabon | 1,041 |
-| 3 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 972 |
+| 3 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 934 |
 | 4 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 728 |
 | 5 | [EbenEzer-MOMBO](https://github.com/EbenEzer-MOMBO) | MOMBO Eben | Gabon | 491 |
 | 6 | [jealife](https://github.com/jealife) | JEaLiFe | Gabon | 451 |
@@ -77,10 +77,10 @@ Indexed users: 315
 | 13 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | Libreville/Gabon | 33 |
 | 14 | [SlymDev](https://github.com/SlymDev) | Moundziegou | Libreville | 31 |
 | 15 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 30 |
-| 16 | [bangaromaric](https://github.com/bangaromaric) | BANGA | Libreville, Gabon | 27 |
+| 16 | [bangaromaric](https://github.com/bangaromaric) | BANGA | Libreville, Gabon | 28 |
 | 17 | [hamiltondarryl](https://github.com/hamiltondarryl) | MAHANGA BOULINGUI Hamilton Darryl | Libreville, Gabon | 27 |
 | 18 | [abdoulayedong](https://github.com/abdoulayedong) | Abdoulaye Dong | Libreville, Gabon | 26 |
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-11T23:57:20.295Z
+Generated: 2026-10-12T00:55:04.590Z

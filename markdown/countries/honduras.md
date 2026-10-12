@@ -20,13 +20,13 @@ Indexed users: 1,262
 | 6 | [CMRicardo](https://github.com/CMRicardo) | Ricardo Corrales | Honduras | 8,223 |
 | 7 | [BitterSweetBoy](https://github.com/BitterSweetBoy) | Denis Dueñas | Honduras | 8,116 |
 | 8 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 7,880 |
-| 9 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 6,940 |
-| 10 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 6,520 |
-| 11 | [ismarcotulio](https://github.com/ismarcotulio) | Marco Tulio Ruiz | Honduras | 6,514 |
-| 12 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 5,401 |
-| 13 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 5,395 |
-| 14 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 5,093 |
-| 15 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 5,054 |
+| 9 | [ahvega](https://github.com/ahvega) | Adalberto Hernandez Vega | Honduras | 7,629 |
+| 10 | [drshotyou](https://github.com/drshotyou) | Alden Rivera | San Pedro Sula, Honduras | 6,940 |
+| 11 | [ajomuch92](https://github.com/ajomuch92) | Aarón J. Montes | Comayagua, Honduras | 6,520 |
+| 12 | [ismarcotulio](https://github.com/ismarcotulio) | Marco Tulio Ruiz | Honduras | 6,514 |
+| 13 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 5,803 |
+| 14 | [AugustoMelara-Dev](https://github.com/AugustoMelara-Dev) | Augusto Jose Melara Milla | Honduras 🇭🇳 | 5,401 |
+| 15 | [mmelara](https://github.com/mmelara) | Marcelo Melara | Honduras | 5,395 |
 | 16 | [Emiliano-Agurcia](https://github.com/Emiliano-Agurcia) | Emiliano Agurcia | Honduras | 4,988 |
 | 17 | [Gianmembreno](https://github.com/Gianmembreno) | Gian Membreno | Honduras | 4,443 |
 | 18 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 4,414 |
@@ -44,7 +44,7 @@ Indexed users: 1,262
 | 5 | [andrepg-dev](https://github.com/andrepg-dev) | Andre Ponce | Honduras | 1,897 |
 | 6 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 1,802 |
 | 7 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | Honduras | 1,486 |
-| 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,466 |
+| 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,473 |
 | 9 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,199 |
 | 10 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,106 |
 | 11 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,061 |
@@ -83,4 +83,4 @@ Indexed users: 1,262
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-12T00:01:07.430Z
+Generated: 2026-10-12T00:57:46.581Z

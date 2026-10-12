@@ -1,8 +1,8 @@
 # Followers - Cuba
 
-Generated: 2026-10-11T23:51:11.013Z
+Generated: 2026-10-12T00:48:53.639Z
 
-Users: 1277
+Users: 1276
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

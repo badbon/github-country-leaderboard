@@ -20,7 +20,7 @@ Indexed users: 10
 | 6 | [elden-l0rd](https://github.com/elden-l0rd) |  | Longyearbyen | 45 |
 | 7 | [sunnyerteit](https://github.com/sunnyerteit) | S🌞nny | Longyearbyen | 31 |
 | 8 | [slipeer](https://github.com/slipeer) | Pavel | Barentsburg, Svalbard og Jan Mayen | 8 |
-| 9 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby | Longyearbyen | 5 |
+| 9 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby | Longyearbyen | 3 |
 | 10 | [Rainbowed](https://github.com/Rainbowed) | Cake | Longyearbyen, Svalbard | 0 |
 
 ## Public Contributions
@@ -34,7 +34,7 @@ Indexed users: 10
 | 5 | [elden-l0rd](https://github.com/elden-l0rd) |  | Longyearbyen | 13 |
 | 6 | [ngvrnd](https://github.com/ngvrnd) | Nick Caruso | Svalbard and Jan Mayen | 10 |
 | 7 | [slipeer](https://github.com/slipeer) | Pavel | Barentsburg, Svalbard og Jan Mayen | 8 |
-| 8 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby | Longyearbyen | 5 |
+| 8 | [JennyJohnsby](https://github.com/JennyJohnsby) | Jenny Johnsby | Longyearbyen | 3 |
 | 9 | [Rainbowed](https://github.com/Rainbowed) | Cake | Longyearbyen, Svalbard | 0 |
 | 10 | [ThalesAbyss](https://github.com/ThalesAbyss) | David Parmenter | Longyearbyen, Svalbard & Jan Mayen | 0 |
 
@@ -53,4 +53,4 @@ Indexed users: 10
 | 9 | [slipeer](https://github.com/slipeer) | Pavel | Barentsburg, Svalbard og Jan Mayen | 2 |
 | 10 | [danavitski](https://github.com/danavitski) | Daan Kivits | Longyearbyen, Svalbard | 1 |
 
-Generated: 2026-10-11T23:30:23.950Z
+Generated: 2026-10-12T00:30:01.719Z

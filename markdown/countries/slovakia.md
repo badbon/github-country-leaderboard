@@ -14,7 +14,7 @@ Indexed users: 4,682
 |---:|---|---|---|---:|
 | 1 | [nkovalcin](https://github.com/nkovalcin) | Norbert Kovalčín | Prešov, Slovakia | 26,095 |
 | 2 | [NagyVikt](https://github.com/NagyVikt) | Viktor Nagy | Slovakia  | 16,177 |
-| 3 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 12,108 |
+| 3 | [kyemets](https://github.com/kyemets) | Kostiantyn Yemets | Slovak Republic | 13,908 |
 | 4 | [mario-chamuty](https://github.com/mario-chamuty) | Mario Chamuty | Bratislava, Slovakia | 12,043 |
 | 5 | [Mausino](https://github.com/Mausino) | Miky Mikolaj | Košice, Slovakia | 11,966 |
 | 6 | [vzeman](https://github.com/vzeman) | Viktor Zeman | Bratislava | 11,799 |
@@ -75,7 +75,7 @@ Indexed users: 4,682
 | 11 | [Kixunil](https://github.com/Kixunil) | Martin Habovštiak | Bratislava | 398 |
 | 12 | [lalinsky](https://github.com/lalinsky) | Lukáš Lalinský | Trenčín, Slovakia | 352 |
 | 13 | [ingbrzy](https://github.com/ingbrzy) | ingbrzy | Slovakia, EU | 348 |
-| 14 | [MatejBendik](https://github.com/MatejBendik) | Matej Bendík | Slovakia | 335 |
+| 14 | [MatejBendik](https://github.com/MatejBendik) | Matej Bendík | Slovakia | 333 |
 | 15 | [vlady0712](https://github.com/vlady0712) | Vlady | Košice, Slovakia | 321 |
 | 16 | [xhyrom](https://github.com/xhyrom) | Jozef Steinhübl | Slovakia | 319 |
 | 17 | [ckissi](https://github.com/ckissi) | Csaba Kissi | Slovakia | 314 |
@@ -83,4 +83,4 @@ Indexed users: 4,682
 | 19 | [Stiivi](https://github.com/Stiivi) | Stefan Urbanek | Bratislava | 280 |
 | 20 | [haad](https://github.com/haad) | Adam Hamsik | Bratislava Slovakia | 259 |
 
-Generated: 2026-10-11T23:26:07.595Z
+Generated: 2026-10-12T00:27:29.130Z

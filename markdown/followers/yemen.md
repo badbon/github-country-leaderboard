@@ -1,6 +1,6 @@
 # Followers - Yemen
 
-Generated: 2026-10-11T23:37:07.435Z
+Generated: 2026-10-12T00:36:58.602Z
 
 Users: 1209
 
@@ -24,5 +24,5 @@ Users: 1209
 | 16 | [Emadalshamery](https://github.com/Emadalshamery) | Emad QEAD Alshamiri  | alemadtr.com |  | Yemen | 172 |
 | 17 | [0-d3y](https://github.com/0-d3y) | S4Tech | Cyber Security | Linux_ye | Yemen | 160 |
 | 18 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Temmam Light | hetaridev | Yemen | 160 |
-| 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais |  |  | Sana'a, Yemen | 157 |
+| 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais |  |  | Sana'a, Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen International Technology Company | its4nas | Yemen | 147 |

@@ -1,8 +1,8 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-11T23:40:42.138Z
+Generated: 2026-10-12T00:39:24.190Z
 
-Users: 461
+Users: 460
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 461
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3263 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3231 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2866 |
-| 16 | [stephen-zeng](https://github.com/stephen-zeng) | 0x535A |  |  | Antarctica | 2732 |
-| 17 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2561 |
-| 18 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2421 |
-| 19 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2127 |
-| 20 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1991 |
+| 16 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2561 |
+| 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2421 |
+| 18 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2127 |
+| 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1991 |
+| 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | @truckersmp |  | Antarctica | 1718 |

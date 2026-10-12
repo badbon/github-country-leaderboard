@@ -19,7 +19,7 @@ Indexed users: 36
 | 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 112 |
 | 6 | [drainerw](https://github.com/drainerw) |  | French Guiana | 82 |
 | 7 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
-| 8 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 68 |
+| 8 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 69 |
 | 9 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 35 |
 | 10 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
 | 11 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME |  French Guiana | 21 |
@@ -40,7 +40,7 @@ Indexed users: 36
 | 1 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS | Amandafurt, French Guiana | 135 |
 | 2 | [jjcabon](https://github.com/jjcabon) | JJCABON | CAYENNE | 84 |
 | 3 | [ginimod](https://github.com/ginimod) | GIni | Cayenne | 76 |
-| 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 68 |
+| 4 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 69 |
 | 5 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | French Guiana | 35 |
 | 6 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE | Guyane (Saint-laurent-du-maroni) | 25 |
 | 7 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME |  French Guiana | 21 |
@@ -83,4 +83,4 @@ Indexed users: 36
 | 19 | [Shyrka973](https://github.com/Shyrka973) |  | Kourou / French Guiana | 3 |
 | 20 | [StephaneKourou](https://github.com/StephaneKourou) | StephaneKourou | Kourou, French Guiana | 3 |
 
-Generated: 2026-10-11T23:57:14.337Z
+Generated: 2026-10-12T00:53:58.717Z

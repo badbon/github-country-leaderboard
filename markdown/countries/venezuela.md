@@ -1,6 +1,6 @@
 # Venezuela
 
-Indexed users: 6,637
+Indexed users: 6,636
 
 | Leaderboard | Link |
 |---|---|
@@ -76,11 +76,11 @@ Indexed users: 6,637
 | 12 | [JellyBitz](https://github.com/JellyBitz) | Engels Quintero | Venezuela | 218 |
 | 13 | [VonHeikemen](https://github.com/VonHeikemen) | Heiker | Venezuela | 215 |
 | 14 | [jaimeirazabal1](https://github.com/jaimeirazabal1) | Jaime Irazabal | Venezuela | 211 |
-| 15 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Venezuela | 207 |
-| 16 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Venezuela, Distrito Capital | 202 |
-| 17 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 198 |
+| 15 | [GaboInsane6489](https://github.com/GaboInsane6489) | Gabriel González | Venezuela, Distrito Capital | 202 |
+| 16 | [jlcarrascof](https://github.com/jlcarrascof) | Javier Jesus Martínez Fariñas | Venezuela. | 198 |
+| 17 | [Astharmin](https://github.com/Astharmin) | Aaron Barcenas | Venezuela | 185 |
 | 18 | [gutoccs](https://github.com/gutoccs) | Gustavo Escobar Cobos | Caracas, Venezuela | 185 |
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-11T23:35:36.745Z
+Generated: 2026-10-12T00:35:52.129Z

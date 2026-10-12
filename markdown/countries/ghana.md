@@ -1,6 +1,6 @@
 # Ghana
 
-Indexed users: 7,108
+Indexed users: 7,107
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 7,108
 | 19 | [Mmabiaa](https://github.com/Mmabiaa) | Boateng Prince Agyenim | Ghana | 326 |
 | 20 | [sedegah](https://github.com/sedegah) | Kimathi  Sedegah | Ghana | 310 |
 
-Generated: 2026-10-11T23:57:27.764Z
+Generated: 2026-10-12T00:55:47.866Z

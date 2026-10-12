@@ -16,7 +16,7 @@ Indexed users: 45
 | 2 | [gsydev191](https://github.com/gsydev191) | Dan | Guernsey | 1,863 |
 | 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | Guernsey | 1,467 |
 | 4 | [tris203](https://github.com/tris203) | Tristan Knight | Guernsey | 1,341 |
-| 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 973 |
+| 5 | [technosight](https://github.com/technosight) | Ivan Petrov | St Peter Port, Guernsey | 970 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt | Guernsey | 677 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield | Guernsey | 451 |
 | 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | Guernsey | 378 |
@@ -24,7 +24,7 @@ Indexed users: 45
 | 10 | [JamesK2754](https://github.com/JamesK2754) | James King | Guernsey | 228 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY | Guernsey | 114 |
 | 12 | [theModrzew](https://github.com/theModrzew) | Patryk | Guernsey | 105 |
-| 13 | [adrianritchie](https://github.com/adrianritchie) |  | Guernsey | 75 |
+| 13 | [adrianritchie](https://github.com/adrianritchie) |  | Guernsey | 73 |
 | 14 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion | Guernsey | 19 |
 | 15 | [tomupson](https://github.com/tomupson) | Tom Upson | Guernsey | 17 |
 | 16 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | Guernsey | 10 |
@@ -83,4 +83,4 @@ Indexed users: 45
 | 19 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub | Guernsey, CI | 3 |
 | 20 | [mtp-tkostudax](https://github.com/mtp-tkostudax) | Shanty Irish | Guernsey | 3 |
 
-Generated: 2026-10-11T23:59:01.486Z
+Generated: 2026-10-12T00:57:15.682Z

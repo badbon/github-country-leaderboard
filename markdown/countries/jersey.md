@@ -1,6 +1,6 @@
 # Jersey
 
-Indexed users: 140
+Indexed users: 139
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 140
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-12T00:03:52.474Z
+Generated: 2026-10-12T01:01:14.825Z

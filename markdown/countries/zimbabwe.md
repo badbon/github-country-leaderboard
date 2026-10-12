@@ -55,8 +55,8 @@ Indexed users: 1,653
 | 16 | [Mikelesnr](https://github.com/Mikelesnr) | Michael Ngonidzashe | Harare Zimbabwe | 1,254 |
 | 17 | [eisax](https://github.com/eisax) | Josphat Ndhlovu | Zimbabwe | 1,220 |
 | 18 | [Iceyma02](https://github.com/Iceyma02) | Anesu Manjengwa | Harare Zimbabwe | 1,197 |
-| 19 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,120 |
-| 20 | [sehmaluva](https://github.com/sehmaluva) | Malvin T. Machingura | Harare, Zimbabwe | 1,092 |
+| 19 | [waltergkaturuza](https://github.com/waltergkaturuza) | Greenford Walter KATURUZA | Zimbabwe | 1,191 |
+| 20 | [Shewart](https://github.com/Shewart) | Shewart | Harare | 1,120 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,653
 | 19 | [Ju99ernaut](https://github.com/Ju99ernaut) | Brendon Ngirazi | Zimbabwe | 111 |
 | 20 | [zim-bot](https://github.com/zim-bot) | DRIPS MEMES BLENNIE BLESSED TUNA | Zimbabwe | 110 |
 
-Generated: 2026-10-11T23:37:47.237Z
+Generated: 2026-10-12T00:37:38.903Z

@@ -22,7 +22,7 @@ Indexed users: 254
 | 8 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 897 |
 | 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 890 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 619 |
-| 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 609 |
+| 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 603 |
 | 12 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 522 |
 | 13 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 507 |
 | 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 497 |
@@ -44,16 +44,16 @@ Indexed users: 254
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 204 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan | Brunei | 148 |
 | 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 121 |
-| 8 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 108 |
-| 9 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei | 108 |
-| 10 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 103 |
-| 11 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM | Brunei Darussalam | 101 |
-| 12 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 85 |
-| 13 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 75 |
-| 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 71 |
-| 15 | [Nekrozu](https://github.com/Nekrozu) | Luq | Brunei Darussalam | 62 |
-| 16 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 61 |
-| 17 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 59 |
+| 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 109 |
+| 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 108 |
+| 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei | 108 |
+| 11 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 103 |
+| 12 | [wafeeyhm](https://github.com/wafeeyhm) | Wafeey HM | Brunei Darussalam | 101 |
+| 13 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 85 |
+| 14 | [jailanihar](https://github.com/jailanihar) | Jailani Abdul Rahman | Brunei Darussalam | 75 |
+| 15 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 71 |
+| 16 | [Nekrozu](https://github.com/Nekrozu) | Luq | Brunei Darussalam | 62 |
+| 17 | [notanonymouse](https://github.com/notanonymouse) | notanonymouse | Brunei | 61 |
 | 18 | [ZeeyKhm](https://github.com/ZeeyKhm) | Azizi Keffli | Brunei Darussalam | 57 |
 | 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 53 |
 | 20 | [Hifdzullah](https://github.com/Hifdzullah) | Zul | Brunei | 52 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-11T23:47:40.692Z
+Generated: 2026-10-12T00:44:24.668Z

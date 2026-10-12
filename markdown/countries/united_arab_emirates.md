@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,241
+Indexed users: 4,240
 
 | Leaderboard | Link |
 |---|---|
@@ -62,12 +62,12 @@ Indexed users: 4,241
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [1cucer](https://github.com/1cucer) | Cucer | United Arab Emirates | 1,857 |
+| 1 | [1cucer](https://github.com/1cucer) | Cucer | United Arab Emirates | 1,851 |
 | 2 | [batermj](https://github.com/batermj) | Bater.Makhabel | Abu Dhabi, UAE | 1,789 |
 | 3 | [leap71](https://github.com/leap71) | LEAP 71 | Dubai, United Arab Emirates | 1,190 |
 | 4 | [ski043](https://github.com/ski043) | Jan | 🇦🇪 United Arab Emirates (Dubai & RAK) | 922 |
 | 5 | [0x4m4](https://github.com/0x4m4) | Muhammad Osama | United Arab Emirates | 862 |
-| 6 | [tuomaskivioja](https://github.com/tuomaskivioja) | Tuomas Kivioja | Dubai, United Arab Emirates | 668 |
+| 6 | [tuomaskivioja](https://github.com/tuomaskivioja) | Tuomas Kivioja | Dubai, United Arab Emirates | 669 |
 | 7 | [Ahmed-Adel-Ismail](https://github.com/Ahmed-Adel-Ismail) | Ahmed Adel Ismail | United Arab Emirates | 587 |
 | 8 | [TadesseDev](https://github.com/TadesseDev) | Tadesse Dubale | Dubai, United Arab Emirates | 553 |
 | 9 | [Jackal08](https://github.com/Jackal08) | Jacques Francois Joubert | Abu Dhabi | 510 |
@@ -83,4 +83,4 @@ Indexed users: 4,241
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-11T23:33:50.811Z
+Generated: 2026-10-12T00:33:47.317Z
