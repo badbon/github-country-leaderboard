@@ -25,13 +25,13 @@ Indexed users: 6,636
 | 11 | [LuisAlejandro](https://github.com/LuisAlejandro) | Luis Alejandro | Maracay, Venezuela | 8,055 |
 | 12 | [The-BoxHead-Guy](https://github.com/The-BoxHead-Guy) | Jhon Alessandro | Venezuela | 7,875 |
 | 13 | [wilmerjpg](https://github.com/wilmerjpg) | Wilmer Prieto | Caracas, Venezuela. | 7,859 |
-| 14 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
-| 15 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
-| 16 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
-| 17 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
-| 18 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
-| 19 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
-| 20 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 6,192 |
+| 14 | [AlexMGP7](https://github.com/AlexMGP7) | Alexander | Venezuela | 7,356 |
+| 15 | [ralvarezdev](https://github.com/ralvarezdev) | Ramón Álvarez | Venezuela | 7,257 |
+| 16 | [edinsonjohender](https://github.com/edinsonjohender) | Edinson Peña | Venezuela | 6,957 |
+| 17 | [renebell0](https://github.com/renebell0) | Rene Bello | Caracas/Venezuela | 6,890 |
+| 18 | [rich-97](https://github.com/rich-97) | Ricardo Moreno | Maracaibo, Venezuela | 6,804 |
+| 19 | [douglasdevsec](https://github.com/douglasdevsec) | Douglas Puente | Venezuela | 6,705 |
+| 20 | [juniorgerdet](https://github.com/juniorgerdet) | Junior | Caracas | 6,629 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 6,636
 | 19 | [NTBBloodbath](https://github.com/NTBBloodbath) | Alejandro | Caracas, Venezuela | 179 |
 | 20 | [KellbisJ](https://github.com/KellbisJ) | Kellbis Salazar | Venezuela / Remote | 175 |
 
-Generated: 2026-10-12T01:34:11.362Z
+Generated: 2026-10-12T02:35:55.837Z

@@ -1,8 +1,8 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-12T01:39:07.407Z
+Generated: 2026-10-12T02:43:04.992Z
 
-Users: 729
+Users: 728
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,7 +18,7 @@ Users: 729
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 4727 |
 | 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | @dotlas | _kelvindecosta | Bahrain | 4473 |
 | 12 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Al Salam Bank |  | Bahrain | 4427 |
-| 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4119 |
+| 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad |  | S3CURE_ME | Bahrain | 4184 |
 | 14 | [halalgami](https://github.com/halalgami) | Algam |  |  | Bahrain | 4114 |
 | 15 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | BRDigitech | tayyabaat | Bahrain | 3774 |
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Delet |  | Bahrain | 3760 |

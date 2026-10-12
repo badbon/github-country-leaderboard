@@ -12,7 +12,7 @@ Indexed users: 53
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,000 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,005 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,821 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,575 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,353 |
@@ -31,7 +31,7 @@ Indexed users: 53
 | 17 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
 | 18 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
 | 19 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
-| 20 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 32 |
+| 20 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 30 |
 
 ## Public Contributions
 
@@ -49,8 +49,8 @@ Indexed users: 53
 | 10 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
 | 11 | [agenteardilla47](https://github.com/agenteardilla47) |  | willemstad | 41 |
 | 12 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas | Willemstad, Curacao | 38 |
-| 13 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 32 |
-| 14 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 31 |
+| 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 31 |
+| 14 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | Curaçao | 30 |
 | 15 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 23 |
 | 16 | [AngeloAAB](https://github.com/AngeloAAB) | Angelo Bartholomeus | Willemstad, Curaçao | 22 |
 | 17 | [emile2600](https://github.com/emile2600) | Emile | Willemstad, Curacao | 17 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-12T01:47:55.664Z
+Generated: 2026-10-12T02:52:10.096Z

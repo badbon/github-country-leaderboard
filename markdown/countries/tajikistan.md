@@ -29,8 +29,8 @@ Indexed users: 711
 | 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Dushanbe, Tajikistan | 3,164 |
 | 16 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Dushanbe | 2,932 |
 | 17 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | Dushanbe | 2,834 |
-| 18 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov | Dushanbe | 2,739 |
-| 19 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,713 |
+| 18 | [yusupkhemraev](https://github.com/yusupkhemraev) | Yusup Khemraev | Tajikistan, Dushanbe | 2,713 |
+| 19 | [burhon97](https://github.com/burhon97) | Burhonkhon Idriskhonov | Dushanbe | 2,710 |
 | 20 | [Z4f4r](https://github.com/Z4f4r) | Zafarjon Makhsudov | Tajikistan | 2,682 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 711
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | Dushanbe | 48 |
 
-Generated: 2026-10-12T01:28:31.292Z
+Generated: 2026-10-12T02:32:13.031Z

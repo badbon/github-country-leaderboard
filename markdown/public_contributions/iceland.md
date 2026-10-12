@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-12T01:58:18.434Z
+Generated: 2026-10-12T03:01:46.294Z
 
 Users: 1582
 
@@ -10,13 +10,13 @@ Users: 1582
 | 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | EFLA |  | Akranes, Iceland | 3568 |
 | 3 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | JBT Marel |  | Reykjavík, Iceland | 3008 |
 | 4 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | almiworld.com |  | iceland | 2693 |
-| 5 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 2453 |
-| 6 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2405 |
-| 7 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2015 |
-| 8 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2002 |
-| 9 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Góður kóði |  | Rekjavik, Iceland | 1970 |
-| 10 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1947 |
-| 11 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 1866 |
+| 5 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 2477 |
+| 6 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 2453 |
+| 7 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2405 |
+| 8 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2015 |
+| 9 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2002 |
+| 10 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Góður kóði |  | Rekjavik, Iceland | 1970 |
+| 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1947 |
 | 12 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 1774 |
 | 13 | [sandsower](https://github.com/sandsower) | Vic Valenzuela |  |  | Reykjavík, Iceland | 1496 |
 | 14 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | @Vettvangur  | bgunnarssonis | Iceland | 1493 |

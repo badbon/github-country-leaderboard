@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,199
+Indexed users: 7,198
 
 | Leaderboard | Link |
 |---|---|
@@ -50,13 +50,13 @@ Indexed users: 7,199
 | 11 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Tunisia | 3,153 |
 | 12 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi | Tunisia | 3,043 |
 | 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila | tunis | 2,980 |
-| 14 | [marwndev](https://github.com/marwndev) | Marwan Aouida | Zarzis/Tunisia | 2,676 |
-| 15 | [akramBNA](https://github.com/akramBNA) | Akram | Tunisia | 2,438 |
-| 16 | [Hiviexd](https://github.com/Hiviexd) | Hivie | Tunisia | 2,312 |
-| 17 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
-| 18 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 | Tunisia | 2,258 |
-| 19 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 2,118 |
-| 20 | [mohamed-adhd](https://github.com/mohamed-adhd) | mohamed amdouni | Tunis Tunisia | 1,944 |
+| 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari | Tunisia | 2,710 |
+| 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida | Zarzis/Tunisia | 2,676 |
+| 16 | [akramBNA](https://github.com/akramBNA) | Akram | Tunisia | 2,438 |
+| 17 | [Hiviexd](https://github.com/Hiviexd) | Hivie | Tunisia | 2,312 |
+| 18 | [17med](https://github.com/17med) | ahmed achour | tunis | 2,281 |
+| 19 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 | Tunisia | 2,258 |
+| 20 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | Tunisia, Djerba | 2,118 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 7,199
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-12T01:30:13.617Z
+Generated: 2026-10-12T02:33:49.275Z

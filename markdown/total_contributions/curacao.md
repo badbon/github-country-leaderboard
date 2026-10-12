@@ -1,12 +1,12 @@
 # Total Contributions - Curaçao
 
-Generated: 2026-10-12T01:47:55.664Z
+Generated: 2026-10-12T02:52:10.096Z
 
 Users: 53
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 6000 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | @business-one  |  | Curaçao | 6005 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe |  | wiebe1971 | Willemstad, Curaçao | 3821 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | @celery-payroll  |  | Willemstad, Curacao | 3575 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 3353 |
@@ -25,4 +25,4 @@ Users: 53
 | 17 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 42 |
 | 18 | [agenteardilla47](https://github.com/agenteardilla47) |  | Antheus |  | willemstad | 41 |
 | 19 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 38 |
-| 20 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 32 |
+| 20 | [LuukDAO](https://github.com/LuukDAO) | LuukDAO | EcoLabs | LuukDAO | Curaçao | 30 |

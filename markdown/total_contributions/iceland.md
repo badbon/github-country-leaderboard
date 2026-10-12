@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-12T01:58:18.434Z
+Generated: 2026-10-12T03:01:46.294Z
 
 Users: 1582
 
@@ -25,4 +25,4 @@ Users: 1582
 | 17 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5619 |
 | 18 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | @massif-network  |  | Reykjavik | 5501 |
 | 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5373 |
-| 20 | [korri123](https://github.com/korri123) | Kormákur |  |  | Iceland | 5291 |
+| 20 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 5355 |

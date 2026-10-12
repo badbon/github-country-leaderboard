@@ -12,7 +12,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,222 |
+| 1 | [257lad](https://github.com/257lad) | Isaac NDAYIZEYE | Bujumbura, Burundi | 6,233 |
 | 2 | [mugar](https://github.com/mugar) | mugabo armand | Burundi | 4,274 |
 | 3 | [muco-rolle](https://github.com/muco-rolle) | Trésor Muco | Bujumbura, Burundi | 2,548 |
 | 4 | [INGANZAMARUMPU](https://github.com/INGANZAMARUMPU) | NKURUNZIZA | Bujumbura, Burundi | 2,520 |
@@ -26,9 +26,9 @@ Indexed users: 236
 | 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,236 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,016 |
-| 15 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 1,002 |
-| 16 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 988 |
-| 17 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 988 |
+| 15 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 988 |
+| 16 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 988 |
+| 17 | [Evran0](https://github.com/Evran0) | Eddy Poli | Bujumbura,  Burundi | 983 |
 | 18 | [kidasijunior10](https://github.com/kidasijunior10) | Joachim KIDASI | Bujumbura, Burundi | 943 |
 | 19 | [EddyKubwimana](https://github.com/EddyKubwimana) | Eddy Kubwimana | Burundi | 894 |
 | 20 | [NIMPAYE](https://github.com/NIMPAYE) | christian belly NIMPAYE | Burundi | 836 |
@@ -42,8 +42,8 @@ Indexed users: 236
 | 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 673 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 500 |
 | 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 465 |
-| 6 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 372 |
-| 7 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 335 |
+| 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev | Burundi | 392 |
+| 7 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | burundi | 372 |
 | 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Burundi | 312 |
 | 9 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel | Gitega, Burundi  | 301 |
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 269 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-12T01:44:43.394Z
+Generated: 2026-10-12T02:45:49.187Z

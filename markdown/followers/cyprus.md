@@ -1,6 +1,6 @@
 # Followers - Cyprus
 
-Generated: 2026-10-12T01:47:59.181Z
+Generated: 2026-10-12T02:52:15.237Z
 
 Users: 2737
 
@@ -15,7 +15,7 @@ Users: 2737
 | 7 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | JetBrains | VBragilevsky | Larnaca, Cyprus | 539 |
 | 8 | [FZambia](https://github.com/FZambia) | Alexander Emelin | @centrifugal  |  | Limassol, Cyprus | 471 |
 | 9 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | @JetBrains | KathrinPetrova | Nicosia, Cyprus | 440 |
-| 10 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | https://www.journeymentor.net | Sanaebadi97 | Cyprus, Nicosia | 404 |
+| 10 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | https://www.journeymentor.net | Sanaebadi97 | Cyprus, Nicosia | 401 |
 | 11 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | @grafana  | Dieter_be | Cyprus | 396 |
 | 12 | [tony2001](https://github.com/tony2001) | Antony Dovgal |  |  | Limassol, Cyprus | 371 |
 | 13 | [dgutov](https://github.com/dgutov) | Dmitry Gutov |  | dgutov | Limassol, Cyprus | 352 |

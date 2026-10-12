@@ -1,6 +1,6 @@
 # Guatemala
 
-Indexed users: 3,224
+Indexed users: 3,223
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 3,224
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-12T01:56:09.206Z
+Generated: 2026-10-12T02:59:52.704Z

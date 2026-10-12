@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 729
+Indexed users: 728
 
 | Leaderboard | Link |
 |---|---|
@@ -24,7 +24,7 @@ Indexed users: 729
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | Bahrain | 4,727 |
 | 11 | [kelvindecosta](https://github.com/kelvindecosta) | Kelvin DeCosta | Bahrain | 4,473 |
 | 12 | [iMythms](https://github.com/iMythms) | Mytham Jasim | Bahrain | 4,427 |
-| 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,119 |
+| 13 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 4,184 |
 | 14 | [halalgami](https://github.com/halalgami) | Algam | Bahrain | 4,114 |
 | 15 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,774 |
 | 16 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,760 |
@@ -40,8 +40,8 @@ Indexed users: 729
 | 1 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | Bahrain | 6,282 |
 | 2 | [fairbird](https://github.com/fairbird) | RAED | Bahrain | 5,375 |
 | 3 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BAHRAIN | 2,870 |
-| 4 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,688 |
-| 5 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,661 |
+| 4 | [UnbreakableMJ](https://github.com/UnbreakableMJ) | Mohamed Hammad | Bahrain | 2,693 |
+| 5 | [fatema-maitham](https://github.com/fatema-maitham) | Fatema Maitham | Bahrain | 2,688 |
 | 6 | [ov-tron](https://github.com/ov-tron) | ov - Tron | Amwaj, Bahrain | 1,877 |
 | 7 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 1,300 |
 | 8 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | Al Muharraq, Bahrain | 1,258 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [masterde](https://github.com/masterde) | Baker | Bahrain, Muharraq | 39 |
 
-Generated: 2026-10-12T01:39:07.407Z
+Generated: 2026-10-12T02:43:04.992Z

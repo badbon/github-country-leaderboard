@@ -21,17 +21,17 @@ Indexed users: 1,275
 | 7 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,941 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,798 |
 | 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,819 |
-| 10 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
-| 11 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
-| 12 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
-| 13 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
-| 14 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
-| 15 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
-| 16 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
-| 17 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
-| 18 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
-| 19 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
-| 20 | [capndave](https://github.com/capndave) | David Thompson | Kingston, NY | 3,896 |
+| 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,366 |
+| 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
+| 12 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
+| 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
+| 14 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
+| 15 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
+| 16 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
+| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
+| 18 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
+| 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
+| 20 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
 
 ## Public Contributions
 
@@ -42,21 +42,21 @@ Indexed users: 1,275
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,829 |
 | 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,300 |
 | 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,236 |
-| 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 2,185 |
+| 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,597 |
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,418 |
 | 8 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,383 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,362 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,172 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 978 |
 | 12 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 942 |
-| 13 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 872 |
-| 14 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 818 |
+| 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 876 |
+| 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 872 |
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 751 |
 | 16 | [Patric-1613](https://github.com/Patric-1613) | Pratikraj Pavankumar Mugade | Kingston upon thames | 654 |
-| 17 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 638 |
-| 18 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 630 |
-| 19 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
-| 20 | [brownsarahm](https://github.com/brownsarahm) | Sarah Brown | Kingston, RI | 603 |
+| 17 | [kfrancis](https://github.com/kfrancis) | Kori Francis | Kingston, Ontario | 652 |
+| 18 | [HughScott2002](https://github.com/HughScott2002) | Hugh Scott | Kingston, Jamaica  | 638 |
+| 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 630 |
+| 20 | [lord-dubious](https://github.com/lord-dubious) | Lord_dubious | Kingston, ON | 624 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 94 |
 
-Generated: 2026-10-12T02:01:43.721Z
+Generated: 2026-10-12T03:03:47.833Z

@@ -1,6 +1,6 @@
 # Total Contributions - El Salvador
 
-Generated: 2026-10-12T01:51:54.193Z
+Generated: 2026-10-12T02:53:34.032Z
 
 Users: 2380
 
@@ -9,11 +9,11 @@ Users: 2380
 | 1 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | @BitSpace-software | marom_beltran | La Libertad, El Salvador | 11301 |
 | 2 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | Staff Engineer @praxent |  | San Salvador, El Salvador | 10782 |
 | 3 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  |  @HormigasAIS  |  | El Salvador  | 10365 |
-| 4 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 7926 |
-| 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 6938 |
-| 6 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 6304 |
-| 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | Abaco Capital | sthbryan_ | El Salvador | 6223 |
-| 8 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | @ikaro-studio  | jromerojarj | San Salvador, El Salvador | 6129 |
+| 4 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | @ikaro-studio  | jromerojarj | San Salvador, El Salvador | 9862 |
+| 5 | [heycesar](https://github.com/heycesar) | César A. Ramírez | Axel, @kods-io  | cesaramirezsv | El Salvador | 7926 |
+| 6 | [martirale](https://github.com/martirale) | Alejandro Mártir | @am25-labs  |  | El Salvador | 6938 |
+| 7 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | NotAwait | dgerardoflores | El Salvador | 6304 |
+| 8 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | Abaco Capital | sthbryan_ | El Salvador | 6223 |
 | 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado |  |  | El Salvador | 6010 |
 | 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | teip | deskmendez | El Salvador | 5699 |
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo |  |  | San Salvador, El Salvador | 4921 |

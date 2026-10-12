@@ -15,11 +15,11 @@ Indexed users: 2,380
 | 1 | [marombeltran](https://github.com/marombeltran) | Marom Beltran | La Libertad, El Salvador | 11,301 |
 | 2 | [b-mendoza](https://github.com/b-mendoza) | Bryan Mendoza | San Salvador, El Salvador | 10,782 |
 | 3 | [Thrumanshow](https://github.com/Thrumanshow) | Cristhiam Leonardo Hernández Quiñonez  | El Salvador  | 10,365 |
-| 4 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 7,926 |
-| 5 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 6,938 |
-| 6 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 6,304 |
-| 7 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 6,223 |
-| 8 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 6,129 |
+| 4 | [jromerojarj](https://github.com/jromerojarj) | Jonathan Romero | San Salvador, El Salvador | 9,862 |
+| 5 | [heycesar](https://github.com/heycesar) | César A. Ramírez | El Salvador | 7,926 |
+| 6 | [martirale](https://github.com/martirale) | Alejandro Mártir | El Salvador | 6,938 |
+| 7 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 6,304 |
+| 8 | [sthbryan](https://github.com/sthbryan) | Bryan Villafuerte | El Salvador | 6,223 |
 | 9 | [josealvarado3a](https://github.com/josealvarado3a) | José Alvarado | El Salvador | 6,010 |
 | 10 | [DesKevinMendez](https://github.com/DesKevinMendez) | Kevin Mendez | El Salvador | 5,699 |
 | 11 | [raarevalo96](https://github.com/raarevalo96) | Rodrigo Arévalo | San Salvador, El Salvador | 4,921 |
@@ -83,4 +83,4 @@ Indexed users: 2,380
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-12T01:51:54.193Z
+Generated: 2026-10-12T02:53:34.032Z

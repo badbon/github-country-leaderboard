@@ -13,7 +13,7 @@ Indexed users: 59
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,956 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,805 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,779 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,448 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,272 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 900 |
@@ -74,7 +74,7 @@ Indexed users: 59
 | 10 | [PennyHow](https://github.com/PennyHow) | Penny How | Nuuk, Greenland | 56 |
 | 11 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen | Kalaallit Nunaat (Greenland) | 26 |
 | 12 | [pierreminik](https://github.com/pierreminik) | Pierre Minik Lynge | Kalaallit Nunaat (Greenland) | 23 |
-| 13 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 16 |
+| 13 | [pressure679](https://github.com/pressure679) | Vittus Mikiassen | Greenland | 17 |
 | 14 | [zhaoxieluoke](https://github.com/zhaoxieluoke) | 朝些罗可 | Greenland,Earth | 15 |
 | 15 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Nuuk, Greenland | 12 |
 | 16 | [qovero](https://github.com/qovero) |  | Nuuk, Greenland | 11 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-12T01:55:30.752Z
+Generated: 2026-10-12T02:58:35.077Z

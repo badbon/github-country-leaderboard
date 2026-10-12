@@ -1,6 +1,6 @@
 # Yemen
 
-Indexed users: 1,209
+Indexed users: 1,208
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,209
 | 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-12T01:35:33.339Z
+Generated: 2026-10-12T02:36:03.571Z

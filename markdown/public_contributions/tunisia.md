@@ -1,8 +1,8 @@
 # Public Contributions - Tunisia
 
-Generated: 2026-10-12T01:30:13.617Z
+Generated: 2026-10-12T02:33:49.275Z
 
-Users: 7199
+Users: 7198
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 7199
 | 11 | [mayouni](https://github.com/mayouni) | Mansour Ayouni | Kalidia Consulting |  | Tunisia | 3153 |
 | 12 | [josephsenior](https://github.com/josephsenior) | Youssef Mejdi |  |  | Tunisia | 3043 |
 | 13 | [nourhb](https://github.com/nourhb) | nourelhoudabouajila |  |  | tunis | 2980 |
-| 14 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |
-| 15 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
-| 16 | [Hiviexd](https://github.com/Hiviexd) | Hivie | @ppy  |  | Tunisia | 2312 |
-| 17 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |
-| 18 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 |  |  | Tunisia | 2258 |
-| 19 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 2118 |
-| 20 | [mohamed-adhd](https://github.com/mohamed-adhd) | mohamed amdouni | Esprit |  | Tunis Tunisia | 1944 |
+| 14 | [Asembris](https://github.com/Asembris) | Mohamed Aziz Ayari |  |  | Tunisia | 2710 |
+| 15 | [marwndev](https://github.com/marwndev) | Marwan Aouida |  |  | Zarzis/Tunisia | 2676 |
+| 16 | [akramBNA](https://github.com/akramBNA) | Akram | Infinitum-tech (formally Marabout Technology) |  | Tunisia | 2438 |
+| 17 | [Hiviexd](https://github.com/Hiviexd) | Hivie | @ppy  |  | Tunisia | 2312 |
+| 18 | [17med](https://github.com/17med) | ahmed achour |  |  | tunis | 2281 |
+| 19 | [DeMiro5001](https://github.com/DeMiro5001) | DeMiro5001 |  |  | Tunisia | 2258 |
+| 20 | [AzizBenIsmail](https://github.com/AzizBenIsmail) | Mohamed Aziz Ben Ismail | @Dar-Blockchain |  | Tunisia, Djerba | 2118 |

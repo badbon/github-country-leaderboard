@@ -12,9 +12,9 @@ Indexed users: 1,276
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,116 |
-| 2 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 13,456 |
-| 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 13,269 |
+| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 17,907 |
+| 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,116 |
+| 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 13,456 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,299 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,256 |
 | 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 6,907 |
@@ -39,7 +39,7 @@ Indexed users: 1,276
 |---:|---|---|---|---:|
 | 1 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 11,040 |
 | 2 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,050 |
-| 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 5,610 |
+| 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 7,089 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,316 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,277 |
 | 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,293 |
@@ -62,7 +62,7 @@ Indexed users: 1,276
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 450 |
+| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 457 |
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo | Cuba | 381 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 206 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 143 |
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-12T01:47:51.760Z
+Generated: 2026-10-12T02:52:05.214Z

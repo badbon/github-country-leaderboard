@@ -1,6 +1,6 @@
 # Slovenia
 
-Indexed users: 3,104
+Indexed users: 3,103
 
 | Leaderboard | Link |
 |---|---|
@@ -21,11 +21,11 @@ Indexed users: 3,104
 | 7 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 10,718 |
 | 8 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 10,622 |
 | 9 | [tfourj](https://github.com/tfourj) | Taj Tkalec | Slovenia | 9,996 |
-| 10 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,945 |
-| 11 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
-| 12 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
-| 13 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
-| 14 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
+| 10 | [pako999](https://github.com/pako999) | Patrik | Slovenia  | 8,682 |
+| 11 | [domengabrovsek](https://github.com/domengabrovsek) | Domen Gabrovšek | Ljubljana, Slovenia | 8,648 |
+| 12 | [vucinatim](https://github.com/vucinatim) | Tim Vučina | Ljubljana, Slovenia | 8,637 |
+| 13 | [zprima](https://github.com/zprima) | Primož Žnidar | Slovenia | 8,431 |
+| 14 | [mitjapotocin](https://github.com/mitjapotocin) | Mitja Potočin | Ljubljana | 8,383 |
 | 15 | [matija2209](https://github.com/matija2209) | Matija Žiberna | Slovenia | 8,260 |
 | 16 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 7,042 |
 | 17 | [jurej1](https://github.com/jurej1) | Jure Jures | Slovenia | 6,645 |
@@ -83,4 +83,4 @@ Indexed users: 3,104
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
 
-Generated: 2026-10-12T01:26:23.375Z
+Generated: 2026-10-12T02:26:52.095Z

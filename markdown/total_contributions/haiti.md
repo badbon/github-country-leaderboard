@@ -1,15 +1,15 @@
 # Total Contributions - Haiti
 
-Generated: 2026-10-12T01:57:07.899Z
+Generated: 2026-10-12T03:01:30.717Z
 
 Users: 339
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | @syntaxstudio-io  | jn_kenley | Haiti | 5551 |
-| 2 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 5031 |
-| 3 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4776 |
-| 4 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4602 |
+| 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. |  | BerlenskyO | Haiti | 4776 |
+| 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Loyalto Services | ninjaroot509 | Haiti | 4602 |
+| 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | FMG. IFY. |  | Port-au-prince, Haiti | 4321 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | @jecode93 | jecode93 | Haiti | 3544 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin |  |  | Haiti | 2438 |
 | 7 | [FalandyJEAN](https://github.com/FalandyJEAN) | Falandy Jean | Mackandal Technologies |  | Haiti | 2354 |

@@ -1,12 +1,12 @@
 # Followers - Cuba
 
-Generated: 2026-10-12T01:47:51.760Z
+Generated: 2026-10-12T02:52:05.214Z
 
 Users: 1276
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 450 |
+| 1 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 457 |
 | 2 | [jr20xx](https://github.com/jr20xx) | José Ricardo |  |  | Cuba | 381 |
 | 3 | [GamerHack](https://github.com/GamerHack) |  |  | GamerHack93 | Cuba | 206 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro |  |  | La Habana, Cuba | 143 |

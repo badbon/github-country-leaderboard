@@ -31,7 +31,7 @@ Indexed users: 1,582
 | 17 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,619 |
 | 18 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 5,501 |
 | 19 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,373 |
-| 20 | [korri123](https://github.com/korri123) | Kormákur | Iceland | 5,291 |
+| 20 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 5,355 |
 
 ## Public Contributions
 
@@ -41,13 +41,13 @@ Indexed users: 1,582
 | 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
 | 3 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,008 |
 | 4 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 2,693 |
-| 5 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,453 |
-| 6 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,405 |
-| 7 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,015 |
-| 8 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,002 |
-| 9 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 1,970 |
-| 10 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,947 |
-| 11 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 1,866 |
+| 5 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 2,477 |
+| 6 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,453 |
+| 7 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 2,405 |
+| 8 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson | Iceland | 2,015 |
+| 9 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson | Reykjavík, Iceland | 2,002 |
+| 10 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 1,970 |
+| 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,947 |
 | 12 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
 | 13 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,496 |
 | 14 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
@@ -83,4 +83,4 @@ Indexed users: 1,582
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 216 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-12T01:58:18.434Z
+Generated: 2026-10-12T03:01:46.294Z

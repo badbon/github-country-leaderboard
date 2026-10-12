@@ -50,13 +50,13 @@ Indexed users: 10,952
 | 11 | [timseriakov](https://github.com/timseriakov) | Tim Seriakov | Minsk, Belarus | 2,082 |
 | 12 | [Nice3point](https://github.com/Nice3point) | Roman | Minsk | 2,066 |
 | 13 | [naxBody](https://github.com/naxBody) | Артем | Belarus, Luninets  | 1,957 |
-| 14 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
-| 15 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
-| 16 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
-| 17 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
-| 18 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
-| 19 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
-| 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 1,543 |
+| 14 | [Alexeykoh](https://github.com/Alexeykoh) | Алексей | Belarus | 1,928 |
+| 15 | [MikalaiKryvusha](https://github.com/MikalaiKryvusha) | Mikalai Kryvusha | Belarus, Minsk | 1,922 |
+| 16 | [e-gleba](https://github.com/e-gleba) | Evgeniy Gleba | Minsk | 1,838 |
+| 17 | [HardNorth](https://github.com/HardNorth) | Vadzim Hushchanskou | Minsk, Belarus | 1,826 |
+| 18 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 1,681 |
+| 19 | [fedorkobak](https://github.com/fedorkobak) | Fedor Kobak | Minsk Belarus | 1,600 |
+| 20 | [vegacepticon](https://github.com/vegacepticon) |  | Belarus | 1,569 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 10,952
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-12T01:39:52.417Z
+Generated: 2026-10-12T02:43:13.337Z

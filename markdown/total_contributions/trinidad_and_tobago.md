@@ -1,12 +1,12 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-12T01:30:10.038Z
+Generated: 2026-10-12T02:33:45.876Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [DarionHernandez](https://github.com/DarionHernandez) | Darion A. Hernandez | @CariPay |  | Trinidad and Tobago | 8564 |
+| 1 | [DarionHernandez](https://github.com/DarionHernandez) | Darion A. Hernandez | @CariPay |  | Trinidad and Tobago | 8764 |
 | 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6466 |
 | 3 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 4616 |
 | 4 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 3827 |
@@ -14,7 +14,7 @@ Users: 256
 | 6 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 2987 |
 | 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2960 |
 | 8 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 2835 |
-| 9 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2276 |
+| 9 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 2272 |
 | 10 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 2222 |
 | 11 | [marcstampfli](https://github.com/marcstampfli) | Marc Stämpfli |  |  | Trinidad and Tobago | 2115 |
 | 12 | [jaedanpersaud12](https://github.com/jaedanpersaud12) | Jaedan Persaud | zed-io | jaedanpersaudtt | Trinidad and Tobago | 2056 |
