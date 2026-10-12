@@ -15668,7 +15668,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-21T02:13:40Z"
   },
   {
@@ -15679,8 +15679,8 @@
     "company": "UNECO · Environmental Operations",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 633,
+    "privateContributions": 1310,
+    "publicContributions": 725,
     "createdAt": "2025-04-18T00:57:22Z"
   },
   {
@@ -15740,7 +15740,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2025-07-08T01:13:12Z"
   },
   {
@@ -15752,7 +15752,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 0,
     "createdAt": "2025-07-29T04:53:42Z"
   },
   {
@@ -15763,13 +15763,13 @@
     "company": "FaindersAI",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 425,
-    "publicContributions": 4,
+    "privateContributions": 409,
+    "publicContributions": 3,
     "createdAt": "2025-05-12T07:26:53Z"
   },
   {
     "login": "oyeqa",
-    "name": "Heesung Kim",
+    "name": "Heesung",
     "avatarUrl": "https://avatars.githubusercontent.com/u/202930898?s=72&v=4",
     "location": "Seoul, Korea",
     "company": "",
@@ -15788,19 +15788,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1014,
+    "publicContributions": 940,
     "createdAt": "2025-07-18T04:31:04Z"
   },
   {
     "login": "Smileyhojin",
     "name": "Hojin Yoo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/211841681?s=72&u=5c8327407955da4d677ed37200b75a63f391bb17&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/211841681?s=72&u=7b3f901cf84e79296ad149143a4ff2b03986ed3c&v=4",
     "location": "Seoul",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 48,
+    "privateContributions": 190,
+    "publicContributions": 40,
     "createdAt": "2025-05-15T14:02:54Z"
   },
   {
@@ -15810,9 +15810,9 @@
     "location": "Seoul",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 103,
     "createdAt": "2025-11-26T06:32:35Z"
   },
   {
@@ -15823,7 +15823,7 @@
     "company": "PassionFactory",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
+    "privateContributions": 257,
     "publicContributions": 7,
     "createdAt": "2025-10-25T04:09:53Z"
   },
@@ -15884,19 +15884,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 148,
     "createdAt": "2025-05-08T02:22:43Z"
   },
   {
     "login": "ehaahaa",
-    "name": "SeungHun Lee",
+    "name": "LEE_SEUNG_HUN",
     "avatarUrl": "https://avatars.githubusercontent.com/u/219387852?s=72&v=4",
     "location": "Seoul",
     "company": "Seokyeong University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2025-07-05T06:24:24Z"
   },
   {
