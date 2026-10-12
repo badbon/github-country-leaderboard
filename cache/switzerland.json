@@ -15175,7 +15175,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 113,
+    "privateContributions": 117,
     "publicContributions": 0,
     "createdAt": "2023-04-11T14:31:32Z"
   },
@@ -15188,7 +15188,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 66,
-    "publicContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2023-04-05T08:34:47Z"
   },
   {
@@ -15198,9 +15198,9 @@
     "location": "Switzerland",
     "company": "@BasellandKB",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 36,
     "createdAt": "2023-11-29T14:59:54Z"
   },
   {
@@ -15210,7 +15210,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-11-21T16:33:54Z"
@@ -15234,7 +15234,7 @@
     "location": "St. Gallen, Switzerland",
     "company": "KSB",
     "twitterUsername": "devcoerres",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2023-08-21T07:16:31Z"
@@ -15248,7 +15248,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 14,
     "createdAt": "2023-08-01T08:09:42Z"
   },
   {
@@ -15270,22 +15270,10 @@
     "location": "Zürich, Switzerland",
     "company": "Palantir",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-05-22T09:51:18Z"
-  },
-  {
-    "login": "informaticker",
-    "name": "Elia Kessler",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146715005?s=72&v=4",
-    "location": "Switzerland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2023-10-02T09:00:58Z"
   },
   {
     "login": "tobias-kuhn",
@@ -15330,9 +15318,9 @@
     "location": "Switzerland",
     "company": "Fachhochschule Nordwestschweiz FHNW",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 372,
+    "publicContributions": 188,
     "createdAt": "2023-08-22T09:02:36Z"
   },
   {
@@ -15342,8 +15330,8 @@
     "location": "Altstätten / Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 550,
+    "followers": 7,
+    "privateContributions": 1069,
     "publicContributions": 14,
     "createdAt": "2023-02-06T12:37:43Z"
   },
@@ -15366,9 +15354,9 @@
     "location": "Zurich, Switzerland",
     "company": "Student @ ETH Zurich",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 368,
-    "publicContributions": 165,
+    "followers": 7,
+    "privateContributions": 579,
+    "publicContributions": 209,
     "createdAt": "2023-10-01T21:14:39Z"
   },
   {
@@ -15379,8 +15367,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 210,
-    "publicContributions": 19,
+    "privateContributions": 213,
+    "publicContributions": 23,
     "createdAt": "2023-02-19T21:49:28Z"
   },
   {
@@ -15392,7 +15380,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 174,
+    "publicContributions": 135,
     "createdAt": "2023-08-22T09:15:04Z"
   },
   {
@@ -15402,9 +15390,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "coding_jam",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 193,
+    "publicContributions": 225,
     "createdAt": "2023-01-08T22:41:33Z"
   },
   {

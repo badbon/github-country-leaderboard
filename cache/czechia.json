@@ -15391,7 +15391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 305,
+    "privateContributions": 378,
     "publicContributions": 2,
     "createdAt": "2023-07-14T10:05:24Z"
   },
@@ -15402,7 +15402,7 @@
     "location": "Brno/Zlín, Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 50,
     "publicContributions": 0,
     "createdAt": "2023-06-13T16:17:34Z"
@@ -15427,7 +15427,7 @@
     "company": "42Prague",
     "twitterUsername": "",
     "followers": 28,
-    "privateContributions": 24,
+    "privateContributions": 6,
     "publicContributions": 0,
     "createdAt": "2023-01-03T12:23:36Z"
   },
@@ -15439,8 +15439,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 22,
-    "publicContributions": 84,
+    "privateContributions": 17,
+    "publicContributions": 83,
     "createdAt": "2023-01-11T20:52:39Z"
   },
   {
@@ -15462,9 +15462,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2023-02-21T19:37:54Z"
   },
   {
@@ -15488,7 +15488,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 34,
     "createdAt": "2023-04-25T12:06:23Z"
   },
   {
@@ -15498,8 +15498,8 @@
     "location": "Prague",
     "company": "Apple",
     "twitterUsername": "raphFaur",
-    "followers": 17,
-    "privateContributions": 88,
+    "followers": 16,
+    "privateContributions": 87,
     "publicContributions": 53,
     "createdAt": "2023-01-20T21:59:39Z"
   },
@@ -15510,9 +15510,9 @@
     "location": "Prague",
     "company": "Turris, Charles University",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 107,
-    "publicContributions": 14,
+    "followers": 15,
+    "privateContributions": 42,
+    "publicContributions": 12,
     "createdAt": "2023-03-02T18:15:37Z"
   },
   {
@@ -15522,9 +15522,9 @@
     "location": "Prague",
     "company": "Make more s.r.o",
     "twitterUsername": "",
-    "followers": 12,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 196,
+    "publicContributions": 705,
     "createdAt": "2023-02-28T10:34:07Z"
   },
   {
@@ -15534,8 +15534,8 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 33,
+    "followers": 13,
+    "privateContributions": 23,
     "publicContributions": 79,
     "createdAt": "2023-04-18T19:09:51Z"
   },
@@ -15548,7 +15548,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-04-03T19:59:49Z"
   },
   {
@@ -15571,7 +15571,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 438,
+    "privateContributions": 482,
     "publicContributions": 17,
     "createdAt": "2023-06-09T19:41:13Z"
   },
@@ -15582,9 +15582,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 532,
-    "publicContributions": 17,
+    "followers": 5,
+    "privateContributions": 566,
+    "publicContributions": 16,
     "createdAt": "2023-03-03T16:42:37Z"
   },
   {
@@ -15596,19 +15596,19 @@
     "twitterUsername": "guglielmo_ted",
     "followers": 7,
     "privateContributions": 7,
-    "publicContributions": 43,
+    "publicContributions": 25,
     "createdAt": "2023-05-29T11:04:23Z"
   },
   {
     "login": "alexsvorada",
-    "name": "Alex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136394425?s=72&u=1b456aa3792414d14c313e604b2b967fe719c458&v=4",
+    "name": "Alex Svorada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136394425?s=72&u=5dcea8e7d462fe6ae2f00b0565e4e941cdc5b786&v=4",
     "location": "Prague",
-    "company": "freelance",
+    "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 3,
     "createdAt": "2023-06-12T23:09:07Z"
   },
   {

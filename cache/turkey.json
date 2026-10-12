@@ -15278,13 +15278,13 @@
   {
     "login": "txt-yusuf",
     "name": "yusuf kılıç",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/229468565?s=72&v=4",
-    "location": "turkey",
-    "company": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/229468565?s=72&u=1dd318ed7c71ceac444515e44ad326f3be936087&v=4",
+    "location": "Türkiye",
+    "company": "RomSoft",
     "twitterUsername": "txt_yusuf",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 13,
     "createdAt": "2025-08-30T11:33:09Z"
   },
   {
@@ -15296,20 +15296,8 @@
     "twitterUsername": "nem0adam",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 129,
+    "publicContributions": 18,
     "createdAt": "2025-02-20T12:58:56Z"
-  },
-  {
-    "login": "arabic-pixel",
-    "name": "yusuf can",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/210887333?s=72&u=fe6089f56acf149fcb7873b824180ae5b0751ee9&v=4",
-    "location": "turkey",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2025-05-08T16:04:00Z"
   },
   {
     "login": "UrekAlper",
@@ -15320,7 +15308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 10,
     "createdAt": "2025-04-27T12:29:58Z"
   },
   {
@@ -15354,9 +15342,9 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 763,
-    "publicContributions": 12,
+    "followers": 2,
+    "privateContributions": 858,
+    "publicContributions": 9,
     "createdAt": "2025-03-06T13:45:14Z"
   },
   {
@@ -15368,7 +15356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 4,
     "createdAt": "2025-01-27T12:54:18Z"
   },
   {
@@ -15414,7 +15402,7 @@
     "location": "Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 35,
     "createdAt": "2025-02-26T14:41:25Z"
@@ -15428,7 +15416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 56,
     "createdAt": "2025-08-15T22:10:15Z"
   },
   {
@@ -15440,7 +15428,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-15T22:11:54Z"
   },
   {
@@ -15450,9 +15438,9 @@
     "location": "Ankara, Turkey",
     "company": "METU",
     "twitterUsername": "yigitpush",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 98,
+    "followers": 4,
+    "privateContributions": 13,
+    "publicContributions": 100,
     "createdAt": "2025-12-10T16:05:37Z"
   },
   {
@@ -15464,7 +15452,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 69,
+    "publicContributions": 71,
     "createdAt": "2025-05-23T19:23:57Z"
   },
   {

@@ -15198,9 +15198,9 @@
     "location": "Taipei, Taiwan",
     "company": "richi",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 208,
     "createdAt": "2023-01-07T07:31:23Z"
   },
   {
@@ -15272,7 +15272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 71,
     "createdAt": "2023-10-27T07:44:02Z"
   },
   {
@@ -15284,7 +15284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2023-05-13T14:00:58Z"
   },
   {
@@ -15294,9 +15294,9 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 143,
     "createdAt": "2023-04-15T01:49:41Z"
   },
   {
@@ -15308,7 +15308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2023-05-10T10:03:12Z"
   },
   {
@@ -15332,7 +15332,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 31,
-    "publicContributions": 6,
+    "publicContributions": 10,
     "createdAt": "2023-02-25T05:39:29Z"
   },
   {
@@ -15344,7 +15344,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 10,
     "createdAt": "2023-04-22T14:51:36Z"
   },
   {
@@ -15354,9 +15354,9 @@
     "location": "Taiwan ",
     "company": "Yuan Ze University",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 10,
     "createdAt": "2023-10-02T04:59:42Z"
   },
   {
@@ -15368,7 +15368,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 32,
     "createdAt": "2023-11-21T04:53:10Z"
   },
   {
@@ -15379,8 +15379,8 @@
     "company": "Pou Chen Group",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 86,
-    "publicContributions": 34,
+    "privateContributions": 202,
+    "publicContributions": 47,
     "createdAt": "2023-01-11T13:10:31Z"
   },
   {
@@ -15390,7 +15390,7 @@
     "location": "taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2023-04-18T05:53:47Z"
@@ -264214,5 +264214,17 @@
     "privateContributions": 914,
     "publicContributions": 1,
     "createdAt": "2026-06-26T18:38:41Z"
+  },
+  {
+    "login": "jettakarn",
+    "name": "Jettakarn Khamwai",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/184194110?s=72&v=4",
+    "location": "Chungli, Taiwan",
+    "company": "Aethel",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 76,
+    "createdAt": "2024-10-08T05:28:16Z"
   }
 ]

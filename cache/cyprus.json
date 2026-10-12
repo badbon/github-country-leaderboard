@@ -15596,7 +15596,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2017-09-29T14:03:26Z"
   },
   {
@@ -15606,9 +15606,9 @@
     "location": "Cyprus, Limassol",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 122,
-    "publicContributions": 82,
+    "followers": 8,
+    "privateContributions": 123,
+    "publicContributions": 57,
     "createdAt": "2017-04-18T14:26:13Z"
   },
   {
@@ -15619,8 +15619,8 @@
     "company": "",
     "twitterUsername": "i_am_demetris",
     "followers": 10,
-    "privateContributions": 3241,
-    "publicContributions": 49,
+    "privateContributions": 4864,
+    "publicContributions": 59,
     "createdAt": "2017-03-20T07:38:06Z"
   },
   {
@@ -15630,9 +15630,9 @@
     "location": "Limassol, Cyprus",
     "company": "Exness",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 1,
     "createdAt": "2017-05-07T17:06:53Z"
   },
   {
@@ -15643,21 +15643,9 @@
     "company": "@discover-digitals ",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 2786,
+    "privateContributions": 3874,
     "publicContributions": 2,
     "createdAt": "2017-05-30T22:32:03Z"
-  },
-  {
-    "login": "echolimazulu",
-    "name": "Evgenii Sokolov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/26638058?s=72&u=1a171fc72911d418b00f17dbbf1ef07ad76bda28&v=4",
-    "location": "Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-03-23T23:15:17Z"
   },
   {
     "login": "tmarenko",
@@ -15704,19 +15692,19 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2017-09-17T20:39:02Z"
   },
   {
     "login": "markvrc",
     "name": "Mark Virchenko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/33373431?s=72&u=1145b91c0308253687a0e1fd8be791f78a826d4a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/33373431?s=72&u=33473f94c4c54fad585014a5002d85b9f5e62b66&v=4",
     "location": "Cyprus",
     "company": "RedDuck",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 289,
-    "publicContributions": 22,
+    "privateContributions": 287,
+    "publicContributions": 23,
     "createdAt": "2017-11-04T13:30:10Z"
   },
   {
@@ -15727,8 +15715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 206,
-    "publicContributions": 195,
+    "privateContributions": 388,
+    "publicContributions": 202,
     "createdAt": "2017-04-13T12:43:11Z"
   },
   {
@@ -15739,7 +15727,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 3042,
+    "privateContributions": 4133,
     "publicContributions": 0,
     "createdAt": "2017-07-06T06:15:05Z"
   },
@@ -15764,7 +15752,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2017-11-09T10:12:33Z"
   },
   {
@@ -15776,7 +15764,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 217,
     "createdAt": "2017-07-06T18:03:18Z"
   },
   {
@@ -15786,8 +15774,8 @@
     "location": "Cyprus",
     "company": "@semrush",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 226,
+    "followers": 9,
+    "privateContributions": 424,
     "publicContributions": 6,
     "createdAt": "2017-07-04T20:09:49Z"
   },
@@ -15799,8 +15787,8 @@
     "company": "@criteo",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 422,
-    "publicContributions": 1088,
+    "privateContributions": 341,
+    "publicContributions": 1194,
     "createdAt": "2017-02-22T17:51:16Z"
   },
   {
@@ -15812,7 +15800,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2017-02-16T17:38:18Z"
   },
   {
