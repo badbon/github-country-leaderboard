@@ -14886,9 +14886,9 @@
     "location": "Romania",
     "company": "Consultant",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 1792,
-    "publicContributions": 292,
+    "followers": 3,
+    "privateContributions": 1797,
+    "publicContributions": 696,
     "createdAt": "2023-09-25T20:03:25Z"
   },
   {
@@ -14918,13 +14918,13 @@
   {
     "login": "AlinDiaconu",
     "name": "Alin-Stefan Diaconu ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123000998?s=72&u=eca46fe78896d4537e96700b40554d12073f4a4f&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/123000998?s=72&u=b9ea40724583c9951a091cd2556e147d109755fe&v=4",
     "location": "Iași, Romania",
-    "company": "",
+    "company": "@AUMOVIO",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2023-01-18T16:03:32Z"
   },
   {
@@ -14971,8 +14971,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 364,
-    "publicContributions": 44,
+    "privateContributions": 315,
+    "publicContributions": 41,
     "createdAt": "2023-11-16T09:50:21Z"
   },
   {
@@ -14982,7 +14982,7 @@
     "location": "Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-05-07T03:19:03Z"
@@ -14996,7 +14996,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-03-21T17:41:19Z"
   },
   {
@@ -15006,9 +15006,9 @@
     "location": "Cluj-Napoca, Cluj, Romania",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 646,
+    "publicContributions": 1242,
     "createdAt": "2023-05-28T12:25:25Z"
   },
   {
@@ -15020,7 +15020,7 @@
     "twitterUsername": "HypeLyst",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 38,
     "createdAt": "2023-10-30T12:28:43Z"
   },
   {
@@ -15079,7 +15079,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 229,
+    "privateContributions": 1069,
     "publicContributions": 23,
     "createdAt": "2023-12-01T12:38:26Z"
   },
@@ -15096,18 +15096,6 @@
     "createdAt": "2023-09-29T17:36:08Z"
   },
   {
-    "login": "EzequielPereirae",
-    "name": "EzequielPereirae",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122256564?s=72&u=1e41627f82c60af857fbbc4ab5d2023c9f0e4ac5&v=4",
-    "location": "Cluj-Napoca, Romania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2023-01-09T07:05:14Z"
-  },
-  {
     "login": "mateineaga",
     "name": "Matei",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139350009?s=72&u=5e75508b0b45c07869704248cbf0ea4c55aab825&v=4",
@@ -15116,7 +15104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 26,
     "createdAt": "2023-07-12T11:41:32Z"
   },
   {

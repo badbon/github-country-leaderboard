@@ -768,18 +768,6 @@
     "createdAt": "2022-10-31T19:38:05Z"
   },
   {
-    "login": "JancoNel",
-    "name": "Janco Nel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/99132925?s=72&u=fe01a87348e6174b8ce69e564714c27463e1f946&v=4",
-    "location": "North Korea",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 53,
-    "publicContributions": 50,
-    "createdAt": "2022-02-06T15:23:49Z"
-  },
-  {
     "login": "manlycracker65",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103338779?s=72&u=0d79c44e71c1fc68bb7380272a9eb56647685b62&v=4",
@@ -2218,5 +2206,17 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2010-06-12T18:14:23Z"
+  },
+  {
+    "login": "JiangChen404",
+    "name": "JIANG CHEN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292797500?s=72&u=8ff15b7ca9d22ad747183bb5477199ac4c3068f0&v=4",
+    "location": "PYONGYANG",
+    "company": "FRENCH FISH",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-11T13:23:45Z"
   }
 ]

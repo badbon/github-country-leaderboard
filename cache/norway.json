@@ -14862,9 +14862,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2023-09-28T10:38:56Z"
   },
   {
@@ -14931,12 +14931,12 @@
     "login": "KovalDenys1",
     "name": "Denys Koval",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150188317?s=72&u=db56f23c7850c82e99cee640537e0529fca169c3&v=4",
-    "location": "Norway, Oslo.",
+    "location": "Oslo, Norway",
     "company": "Comono AS",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2262,
-    "publicContributions": 2369,
+    "followers": 6,
+    "privateContributions": 5073,
+    "publicContributions": 3954,
     "createdAt": "2023-11-07T20:11:35Z"
   },
   {
@@ -14968,23 +14968,23 @@
     "name": "Zagros Jawar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/135693273?s=72&v=4",
     "location": "Norway",
-    "company": "",
+    "company": "MediaFutures",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
+    "privateContributions": 1,
+    "publicContributions": 18,
     "createdAt": "2023-06-06T07:28:34Z"
   },
   {
     "login": "alexanderteinum",
     "name": "Alexander Teinum",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/136804069?s=72&u=dbcd968f15c777154aa9a1b81587eb2ebc68c587&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/136804069?s=72&u=47fc688a186ed39904a3315411100db0f6eb207a&v=4",
     "location": "Kristiansand, Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 221,
+    "publicContributions": 214,
     "createdAt": "2023-06-16T10:01:22Z"
   },
   {
@@ -14995,8 +14995,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 173,
+    "privateContributions": 9,
+    "publicContributions": 158,
     "createdAt": "2023-07-21T13:46:35Z"
   },
   {
@@ -15006,7 +15006,7 @@
     "location": "Oslo - Norway ",
     "company": "Nexans",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-09T09:57:11Z"
@@ -15032,7 +15032,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2023-04-06T07:37:27Z"
   },
   {
@@ -15067,7 +15067,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 163,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2023-06-26T10:12:33Z"
   },
@@ -15079,8 +15079,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 850,
-    "publicContributions": 38,
+    "privateContributions": 981,
+    "publicContributions": 121,
     "createdAt": "2023-09-15T11:32:16Z"
   },
   {
@@ -15092,7 +15092,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 148,
+    "publicContributions": 117,
     "createdAt": "2023-11-08T09:34:05Z"
   },
   {
@@ -235522,5 +235522,65 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-05T18:20:11Z"
+  },
+  {
+    "login": "built-by-shasha",
+    "name": "Shashank",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288554647?s=72&u=c7e0920a57e0226cc05bdb6c38debbaea8f67ca7&v=4",
+    "location": "Oslo",
+    "company": "Mandora AS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 10829,
+    "publicContributions": 1,
+    "createdAt": "2026-05-28T07:20:07Z"
+  },
+  {
+    "login": "emhartland",
+    "name": "Emma Hartland",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289944083?s=72&u=f761478984e50f937557e78846c313bfb8d00502&v=4",
+    "location": "Oslo",
+    "company": "Telenor Norge",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-02T07:36:16Z"
+  },
+  {
+    "login": "makmian",
+    "name": "Makmian",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284581633?s=72&u=93b846b5ec645095a773bbf446355f45dfec4f23&v=4",
+    "location": "Oslo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-14T09:17:25Z"
+  },
+  {
+    "login": "hannatredal",
+    "name": "Hanna Trædal",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288442525?s=72&u=c67944cf609f05b33899e4710854be33954cc922&v=4",
+    "location": "Oslo",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-27T20:25:02Z"
+  },
+  {
+    "login": "yrjarv-klp",
+    "name": "Yrjar Vederhus (KLP)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292125616?s=72&u=016359f3d400bb5c3dbac23ffe42fa51f8312a73&v=4",
+    "location": "Oslo",
+    "company": "@klpkonsern",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-06-09T13:24:58Z"
   }
 ]
