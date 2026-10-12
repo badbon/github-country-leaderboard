@@ -1,13 +1,13 @@
 # Followers - Liechtenstein
 
-Generated: 2026-10-12T02:06:34.905Z
+Generated: 2026-10-12T03:10:51.817Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [mrmotchy](https://github.com/mrmotchy) | mr.motchy | district74 |  | Liechtenstein | 337 |
-| 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 291 |
+| 2 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 290 |
 | 3 | [vad-babushkin](https://github.com/vad-babushkin) | vad babushkin |  |  | Liechtenstein | 55 |
 | 4 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Arval BnP | Taku16671414 | Liechtenstein | 31 |
 | 5 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski |  |  | Liechtenstein | 30 |

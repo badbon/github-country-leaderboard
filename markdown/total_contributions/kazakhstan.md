@@ -1,14 +1,14 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-12T02:05:12.307Z
+Generated: 2026-10-12T03:06:46.270Z
 
 Users: 5663
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh |  |  | Kazakhstan | 126195 |
-| 2 | [nstwfdev](https://github.com/nstwfdev) | Timur |  |  | Kazakhstan | 40433 |
-| 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 37462 |
+| 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 74329 |
+| 3 | [nstwfdev](https://github.com/nstwfdev) | Timur |  |  | Kazakhstan | 40433 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman |  |  | Kazakhstan | 34165 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 24758 |
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev |  |  | Atyrau, Kazakhstan | 15489 |
@@ -18,8 +18,8 @@ Users: 5663
 | 10 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 12675 |
 | 11 | [uzarsalan](https://github.com/uzarsalan) | Arsalan |  |  | Astana, Kazakhstan | 12368 |
 | 12 | [enganese](https://github.com/enganese) | Ulan Aitbay |  |  | Aktau, Kazakhstan / Almaty, Kazakhstan | 11740 |
-| 13 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | @khangroupkz  |  | Kazakhstan | 10357 |
-| 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 9875 |
+| 13 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 10505 |
+| 14 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | @khangroupkz  |  | Kazakhstan | 10357 |
 | 15 | [neokofg](https://github.com/neokofg) | neoko |  |  | Almaty, Kazakhstan | 9093 |
 | 16 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Ozon |  | Kazakhstan | 8323 |
 | 17 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |

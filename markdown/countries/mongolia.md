@@ -28,10 +28,10 @@ Indexed users: 805
 | 14 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg | Ulaanbaatar, Mongolia | 5,255 |
 | 15 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | Mongolia | 4,910 |
 | 16 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Mongolia | 4,786 |
-| 17 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,470 |
-| 18 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 4,336 |
-| 19 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,164 |
-| 20 | [TuguldurJ](https://github.com/TuguldurJ) | Tuguldur | Mongolia, Ulaanbaatar | 3,978 |
+| 17 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj | Mongolia, Ulaanbaatar | 4,515 |
+| 18 | [dokind](https://github.com/dokind) | dokind | Mongolia | 4,470 |
+| 19 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 4,405 |
+| 20 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | Ulaanbaatar, Mongolia | 4,164 |
 
 ## Public Contributions
 
@@ -70,7 +70,7 @@ Indexed users: 805
 | 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 220 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar | Mongolia | 176 |
-| 9 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 111 |
+| 9 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 113 |
 | 10 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar | Ulaanbaatar, Mongolia | 105 |
 | 11 | [KInGATiLLa](https://github.com/KInGATiLLa) | KInGATiLLa | Ulaanbaatar, Mongolia | 102 |
 | 12 | [Zorig](https://github.com/Zorig) | Zorig | Ulaanbaatar, Mongolia | 102 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-12T02:12:30.988Z
+Generated: 2026-10-12T03:14:19.325Z

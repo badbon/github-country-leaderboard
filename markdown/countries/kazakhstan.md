@@ -13,8 +13,8 @@ Indexed users: 5,663
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 126,195 |
-| 2 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,433 |
-| 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 37,462 |
+| 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 74,329 |
+| 3 | [nstwfdev](https://github.com/nstwfdev) | Timur | Kazakhstan | 40,433 |
 | 4 | [ZhymabekRoman](https://github.com/ZhymabekRoman) | Zhymabek Roman | Kazakhstan | 34,165 |
 | 5 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
 | 6 | [yasball](https://github.com/yasball) | Yesbol Sariyev | Atyrau, Kazakhstan | 15,489 |
@@ -24,8 +24,8 @@ Indexed users: 5,663
 | 10 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 12,675 |
 | 11 | [uzarsalan](https://github.com/uzarsalan) | Arsalan | Astana, Kazakhstan | 12,368 |
 | 12 | [enganese](https://github.com/enganese) | Ulan Aitbay | Aktau, Kazakhstan / Almaty, Kazakhstan | 11,740 |
-| 13 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
-| 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 9,875 |
+| 13 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 10,505 |
+| 14 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
 | 15 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
 | 16 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
 | 17 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
@@ -38,8 +38,8 @@ Indexed users: 5,663
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | Kazakhstan, Kyzylorda | 24,758 |
-| 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 11,946 |
-| 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 10,764 |
+| 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | Kazakhstan/World | 23,444 |
+| 3 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger | Almaty, Kazakhstan | 11,946 |
 | 4 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | Kazakhstan, Kostanay | 5,428 |
 | 5 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 5,175 |
 | 6 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Astana | 5,166 |
@@ -48,9 +48,9 @@ Indexed users: 5,663
 | 9 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | Qazaqstan | 3,538 |
 | 10 | [dchernykh1984](https://github.com/dchernykh1984) | Denis | Kazakhstan, Almaty | 3,230 |
 | 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov | Kazakhstan | 2,861 |
-| 12 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
-| 13 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
-| 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,354 |
+| 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 2,839 |
+| 13 | [SapphoSys](https://github.com/SapphoSys) | Chloe | Almaty, Kazakhstan | 2,680 |
+| 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
 | 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
 | 16 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 2,191 |
 | 17 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,179 |
@@ -83,4 +83,4 @@ Indexed users: 5,663
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-12T02:05:12.307Z
+Generated: 2026-10-12T03:06:46.270Z

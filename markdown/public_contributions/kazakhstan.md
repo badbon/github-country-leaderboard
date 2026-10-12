@@ -1,14 +1,14 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-12T02:05:12.307Z
+Generated: 2026-10-12T03:06:46.270Z
 
 Users: 5663
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [yrn-dev](https://github.com/yrn-dev) | Yernur | AI institute |  | Kazakhstan, Kyzylorda | 24758 |
-| 2 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 11946 |
-| 3 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 10764 |
+| 2 | [rldyourmnd](https://github.com/rldyourmnd) | Danil Silantyev | @NDDev-it-com |  | Kazakhstan/World | 23444 |
+| 3 | [IManss-ai](https://github.com/IManss-ai) | Mansur Zhiger |  | Manss_dev | Almaty, Kazakhstan | 11946 |
 | 4 | [AnmiTaliDev](https://github.com/AnmiTaliDev) | AnmiTaliDev | @AnmiTaliDev (?) |  | Kazakhstan, Kostanay | 5428 |
 | 5 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 5175 |
 | 6 | [denislibs](https://github.com/denislibs) | Denis Maramygin | Documentolog |  | Astana | 5166 |
@@ -17,9 +17,9 @@ Users: 5663
 | 9 | [Vidrimers](https://github.com/Vidrimers) | Yaroslav | SJ |  | Qazaqstan | 3538 |
 | 10 | [dchernykh1984](https://github.com/dchernykh1984) | Denis |  |  | Kazakhstan, Almaty | 3230 |
 | 11 | [Islombek-stack](https://github.com/Islombek-stack) | Islombek Abilbekov |  |  | Kazakhstan | 2861 |
-| 12 | [SapphoSys](https://github.com/SapphoSys) | Chloe |  |  | Almaty, Kazakhstan | 2680 |
-| 13 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | @TourmalineCore |  | Kazakhstan, Astana | 2672 |
-| 14 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 2354 |
+| 12 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 2839 |
+| 13 | [SapphoSys](https://github.com/SapphoSys) | Chloe |  |  | Almaty, Kazakhstan | 2680 |
+| 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | @TourmalineCore |  | Kazakhstan, Astana | 2672 |
 | 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty Technological University |  | Almaty, Qazaqstan | 2232 |
 | 16 | [chelaxian](https://github.com/chelaxian) | ratu.sh |  |  | Kazakhstan | 2191 |
 | 17 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Student | rdmnad | Kazakhstan | 2179 |

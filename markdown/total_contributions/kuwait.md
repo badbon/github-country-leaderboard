@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-12T02:05:21.869Z
+Generated: 2026-10-12T03:07:27.188Z
 
 Users: 798
 
@@ -15,9 +15,9 @@ Users: 798
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5330 |
 | 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5274 |
 | 9 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | wytSKY Clouding Solutions | wyt_sky | kuwait | 5240 |
-| 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4181 |
-| 11 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4120 |
-| 12 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 3909 |
+| 10 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam |  |  | Kuwait | 4383 |
+| 11 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | KazmaAI | b_alfaris | Kuwait | 4181 |
+| 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4120 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3660 |
 | 14 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3623 |
 | 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3567 |

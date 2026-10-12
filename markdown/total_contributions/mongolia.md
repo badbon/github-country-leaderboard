@@ -1,6 +1,6 @@
 # Total Contributions - Mongolia
 
-Generated: 2026-10-12T02:12:30.988Z
+Generated: 2026-10-12T03:14:19.325Z
 
 Users: 805
 
@@ -22,7 +22,7 @@ Users: 805
 | 14 | [2khan](https://github.com/2khan) | Jargalsaikhan Erdenetsetseg |  |  | Ulaanbaatar, Mongolia | 5255 |
 | 15 | [ssxenon01](https://github.com/ssxenon01) | Gundsambuu | CODY | g_nd | Mongolia | 4910 |
 | 16 | [kyuna0312](https://github.com/kyuna0312) | kyuna0312 | Amari Hana Inc |  | Mongolia | 4786 |
-| 17 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4470 |
-| 18 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4336 |
-| 19 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4164 |
-| 20 | [TuguldurJ](https://github.com/TuguldurJ) | Tuguldur | Topoptin |  | Mongolia, Ulaanbaatar | 3978 |
+| 17 | [anhbaysgalan1](https://github.com/anhbaysgalan1) | Ankhbayasgalan Davaadorj |  |  | Mongolia, Ulaanbaatar | 4515 |
+| 18 | [dokind](https://github.com/dokind) | dokind | Solo Spark Ventures LLC |  | Mongolia | 4470 |
+| 19 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 4405 |
+| 20 | [enkhtuvsh1n](https://github.com/enkhtuvsh1n) | 9x | @shoppyMN @Uwins-Shoppy  |  | Ulaanbaatar, Mongolia | 4164 |

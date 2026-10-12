@@ -28,7 +28,7 @@ Indexed users: 289
 | 14 | [sons-of-titus](https://github.com/sons-of-titus) | Mourad Abdellahi | Mauritania | 1,722 |
 | 15 | [Mohamed-Beirouk](https://github.com/Mohamed-Beirouk) | Mohamed Mohamed Beirouk | Mauritania | 1,528 |
 | 16 | [cheikh-sadbouh](https://github.com/cheikh-sadbouh) | J-developer | Mauritania | 1,347 |
-| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,277 |
+| 17 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 1,276 |
 | 18 | [MedAb94](https://github.com/MedAb94) | Medab Vall | Nouakchott | 974 |
 | 19 | [aadeina](https://github.com/aadeina) | Amar | Mauritania | 857 |
 | 20 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 835 |
@@ -39,7 +39,7 @@ Indexed users: 289
 |---:|---|---|---|---:|
 | 1 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,094 |
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 1,221 |
-| 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 870 |
+| 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 868 |
 | 4 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | Nouakchott | 673 |
 | 5 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 663 |
 | 6 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 618 |
@@ -69,7 +69,7 @@ Indexed users: 289
 | 5 | [ErgeibiMed](https://github.com/ErgeibiMed) |  | Nouakchott - Mauritanie  | 48 |
 | 6 | [leloufadel](https://github.com/leloufadel) | Lala Aicha El Vadel | Mauritania | 48 |
 | 7 | [iyehah](https://github.com/iyehah) | Iyehah Hacen |  Nouakchott | 38 |
-| 8 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 36 |
+| 8 | [lavantora](https://github.com/lavantora) | Aysha | Mauritania | 37 |
 | 9 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 33 |
 | 10 | [babasahi](https://github.com/babasahi) | Babe Saleh Dahi | Nouakchott, Mauritania | 33 |
 | 11 | [Kader198](https://github.com/Kader198) | Abdel Kader Maguiraga | MAURITANIA  | 32 |
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-12T02:09:43.832Z
+Generated: 2026-10-12T03:12:44.034Z

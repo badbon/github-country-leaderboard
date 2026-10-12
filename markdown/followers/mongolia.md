@@ -1,6 +1,6 @@
 # Followers - Mongolia
 
-Generated: 2026-10-12T02:12:30.988Z
+Generated: 2026-10-12T03:14:19.325Z
 
 Users: 805
 
@@ -14,7 +14,7 @@ Users: 805
 | 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu |  |  | Khuvsgul, Mongolia | 220 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od |  | 0xMnkhod | Mongolia | 202 |
 | 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar |  |  | Mongolia | 176 |
-| 9 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 111 |
+| 9 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 113 |
 | 10 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar |  | jase_rock | Ulaanbaatar, Mongolia | 105 |
 | 11 | [KInGATiLLa](https://github.com/KInGATiLLa) | KInGATiLLa |  |  | Ulaanbaatar, Mongolia | 102 |
 | 12 | [Zorig](https://github.com/Zorig) | Zorig |  | rizogg | Ulaanbaatar, Mongolia | 102 |

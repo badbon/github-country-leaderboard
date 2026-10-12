@@ -46,8 +46,8 @@ Indexed users: 1,070
 | 7 | [kingg22](https://github.com/kingg22) | Rey | Panama | 1,998 |
 | 8 | [Yizack](https://github.com/Yizack) | Yizack Rangel | Panama | 1,993 |
 | 9 | [gonzalezulises](https://github.com/gonzalezulises) | Ulises Gonzalez | Panama | 1,844 |
-| 10 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,611 |
-| 11 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,439 |
+| 10 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,425 |
+| 11 | [quantumquirkxyz](https://github.com/quantumquirkxyz) | Jhuomar Boskoll Quintero | Panama City, Panama | 1,320 |
 | 12 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,311 |
 | 13 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,189 |
 | 14 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,177 |
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-12T02:17:10.069Z
+Generated: 2026-10-12T03:21:17.985Z

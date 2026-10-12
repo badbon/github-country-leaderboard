@@ -1,6 +1,6 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-12T02:15:08.732Z
+Generated: 2026-10-12T03:17:20.773Z
 
 Users: 1396
 
@@ -12,9 +12,9 @@ Users: 1396
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Freelance |  | Managua, Nicaragua | 7457 |
 | 5 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 7381 |
 | 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 7123 |
-| 7 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 4946 |
-| 8 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4398 |
-| 9 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 4268 |
+| 7 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 5340 |
+| 8 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 4946 |
+| 9 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4398 |
 | 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 4103 |
 | 11 | [degomon](https://github.com/degomon) | Denis González |  | degomondev | Nicaragua | 4085 |
 | 12 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |

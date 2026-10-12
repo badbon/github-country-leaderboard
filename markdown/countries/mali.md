@@ -16,7 +16,7 @@ Indexed users: 348
 | 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,180 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,211 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 5,894 |
-| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,288 |
+| 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,311 |
 | 6 | [MFOF7310](https://github.com/MFOF7310) | MFOFANA | Bamako,Mali | 4,743 |
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,438 |
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,748 |
@@ -70,7 +70,7 @@ Indexed users: 348
 | 6 | [Lex-corp-crypto](https://github.com/Lex-corp-crypto) | Amadou H TRAORE | Mali/Bamako | 52 |
 | 7 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ | Mali | 48 |
 | 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 46 |
-| 9 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 42 |
+| 9 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 43 |
 | 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 37 |
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Bamako - Mali | 35 |
 | 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 34 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-12T02:08:02.148Z
+Generated: 2026-10-12T03:12:27.909Z

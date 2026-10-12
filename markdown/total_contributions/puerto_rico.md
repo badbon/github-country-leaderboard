@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-12T02:19:27.219Z
+Generated: 2026-10-12T03:21:59.676Z
 
 Users: 1539
 
@@ -24,5 +24,5 @@ Users: 1539
 | 16 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
 | 17 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5781 |
 | 18 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 5490 |
-| 19 | [Wizrig](https://github.com/Wizrig) | Wiz | I/O Digital Foundation |  | Florida, Puerto Rico, California,  | 5348 |
-| 20 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5337 |
+| 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 5433 |
+| 20 | [Wizrig](https://github.com/Wizrig) | Wiz | I/O Digital Foundation |  | Florida, Puerto Rico, California,  | 5348 |
