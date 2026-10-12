@@ -1699,8 +1699,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 10,
-    "publicContributions": 4,
+    "privateContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2023-09-06T19:28:03Z"
   },
   {
@@ -1722,9 +1722,9 @@
     "location": "Cape Verde",
     "company": "",
     "twitterUsername": "",
-    "followers": 451,
+    "followers": 450,
     "privateContributions": 0,
-    "publicContributions": 108,
+    "publicContributions": 106,
     "createdAt": "2022-08-25T12:46:19Z"
   },
   {
@@ -1759,7 +1759,7 @@
     "company": "",
     "twitterUsername": "Ste_ravy",
     "followers": 21,
-    "privateContributions": 1274,
+    "privateContributions": 1268,
     "publicContributions": 22,
     "createdAt": "2022-10-20T21:43:18Z"
   },
@@ -1832,7 +1832,7 @@
     "twitterUsername": "",
     "followers": 93,
     "privateContributions": 0,
-    "publicContributions": 110,
+    "publicContributions": 115,
     "createdAt": "2022-08-26T19:08:26Z"
   },
   {
@@ -1842,7 +1842,7 @@
     "location": "Praia Grande -SP",
     "company": "Fatec-PG",
     "twitterUsername": "",
-    "followers": 52,
+    "followers": 51,
     "privateContributions": 0,
     "publicContributions": 28,
     "createdAt": "2022-02-17T14:50:55Z"
@@ -1855,7 +1855,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 49,
-    "privateContributions": 388,
+    "privateContributions": 375,
     "publicContributions": 0,
     "createdAt": "2022-10-10T22:20:26Z"
   },
@@ -1879,7 +1879,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 30,
-    "privateContributions": 1092,
+    "privateContributions": 1090,
     "publicContributions": 117,
     "createdAt": "2022-11-30T10:46:11Z"
   },

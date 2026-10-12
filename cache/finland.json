@@ -15060,18 +15060,6 @@
     "createdAt": "2023-09-03T17:00:35Z"
   },
   {
-    "login": "pinjakam",
-    "name": "Pinja Kamula",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144798042?s=72&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-09-12T11:15:50Z"
-  },
-  {
     "login": "arttujussikil",
     "name": "Arttu-Jussi Kilponen",
     "avatarUrl": "https://avatars.githubusercontent.com/u/134328154?s=72&v=4",
@@ -15090,7 +15078,7 @@
     "location": "Tampere, Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2023-05-09T05:50:43Z"
@@ -15115,7 +15103,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 45,
+    "privateContributions": 37,
     "publicContributions": 1,
     "createdAt": "2023-12-19T00:41:12Z"
   },
@@ -15151,8 +15139,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 423,
-    "publicContributions": 8,
+    "privateContributions": 662,
+    "publicContributions": 5,
     "createdAt": "2023-02-08T17:15:45Z"
   },
   {
@@ -15164,7 +15152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 5,
-    "publicContributions": 86,
+    "publicContributions": 50,
     "createdAt": "2023-04-17T05:45:56Z"
   },
   {
@@ -15188,7 +15176,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2023-12-03T15:42:24Z"
   },
   {
@@ -15200,7 +15188,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 26,
     "createdAt": "2023-08-11T15:02:23Z"
   },
   {
@@ -15224,7 +15212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 15,
     "createdAt": "2023-02-24T12:50:44Z"
   },
   {
@@ -15236,7 +15224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 40,
     "createdAt": "2023-06-18T17:37:38Z"
   },
   {
@@ -15260,7 +15248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 31,
     "createdAt": "2023-09-18T15:57:30Z"
   },
   {
@@ -15284,7 +15272,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2023-03-06T14:00:21Z"
   },
   {

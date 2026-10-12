@@ -272,7 +272,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 22,
     "createdAt": "2025-05-28T14:20:25Z"
   },
   {
@@ -367,7 +367,7 @@
     "company": "@sanservices ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 532,
+    "privateContributions": 528,
     "publicContributions": 0,
     "createdAt": "2025-04-07T15:50:20Z"
   },
@@ -391,8 +391,8 @@
     "company": "AJM Digital Solutions",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3110,
-    "publicContributions": 2291,
+    "privateContributions": 3130,
+    "publicContributions": 3765,
     "createdAt": "2025-07-13T14:30:10Z"
   },
   {
@@ -432,18 +432,6 @@
     "createdAt": "2025-11-23T03:09:17Z"
   },
   {
-    "login": "AlhanisEspinal",
-    "name": "AlhanisEspinal",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209562673?s=72&u=e5a854ae28e5dd70c7d5f81403f5a5a285880378&v=4",
-    "location": "Tegucigalpa, Honduras",
-    "company": "Ginih",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2460,
-    "publicContributions": 2,
-    "createdAt": "2025-04-29T00:05:24Z"
-  },
-  {
     "login": "Juanito-BugMaker",
     "name": "Inmer Suazo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/236696525?s=72&u=4ffac04bfd64c585fd73280b088e5bf1c698f526&v=4",
@@ -452,7 +440,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 62,
     "createdAt": "2025-10-07T21:38:57Z"
   },
   {
@@ -475,8 +463,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 110,
-    "publicContributions": 152,
+    "privateContributions": 82,
+    "publicContributions": 166,
     "createdAt": "2025-04-25T19:10:10Z"
   },
   {

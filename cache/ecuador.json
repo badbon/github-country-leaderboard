@@ -15391,7 +15391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 56,
+    "privateContributions": 29,
     "publicContributions": 51,
     "createdAt": "2022-08-23T02:57:14Z"
   },
@@ -15404,7 +15404,7 @@
     "twitterUsername": "jonath_zamora",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-05-06T04:20:42Z"
   },
   {
@@ -15415,7 +15415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 17,
+    "privateContributions": 57,
     "publicContributions": 0,
     "createdAt": "2022-05-20T15:31:38Z"
   },
@@ -15451,7 +15451,7 @@
     "company": "Onixdev",
     "twitterUsername": "onixdev_oficial",
     "followers": 1,
-    "privateContributions": 4,
+    "privateContributions": 5,
     "publicContributions": 0,
     "createdAt": "2022-03-16T19:58:40Z"
   },
@@ -15463,7 +15463,7 @@
     "company": "@digital-roots",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 18,
+    "privateContributions": 15,
     "publicContributions": 0,
     "createdAt": "2022-10-14T18:31:17Z"
   },
@@ -15475,7 +15475,7 @@
     "company": "Universidad de Guayaquil",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 137,
+    "privateContributions": 302,
     "publicContributions": 1,
     "createdAt": "2022-06-22T18:44:48Z"
   },
@@ -15488,7 +15488,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 105,
+    "publicContributions": 102,
     "createdAt": "2022-11-16T03:17:40Z"
   },
   {
@@ -15523,7 +15523,7 @@
     "company": "",
     "twitterUsername": "derianzambranom",
     "followers": 1,
-    "privateContributions": 108,
+    "privateContributions": 103,
     "publicContributions": 0,
     "createdAt": "2022-09-06T12:35:11Z"
   },
@@ -15560,7 +15560,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 10,
     "createdAt": "2022-06-17T17:18:00Z"
   },
   {
@@ -15571,7 +15571,7 @@
     "company": "Trade",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 641,
+    "privateContributions": 648,
     "publicContributions": 0,
     "createdAt": "2021-12-28T13:11:16Z"
   },
@@ -15584,7 +15584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 22,
     "createdAt": "2022-08-03T02:09:00Z"
   },
   {
@@ -15610,18 +15610,6 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-11-24T21:15:43Z"
-  },
-  {
-    "login": "marcoguillenuio",
-    "name": "Marco Guillen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101744963?s=72&u=cc03fcc22cc4f8c5c3bf19790e9a8d54256f0d37&v=4",
-    "location": "Ecuador",
-    "company": "CTO.ai",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-03-16T18:44:16Z"
   },
   {
     "login": "FelixAndueza",

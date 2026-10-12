@@ -15199,7 +15199,7 @@
     "company": "Trinity College Dublin",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
+    "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2023-07-15T13:12:49Z"
   },
@@ -15236,7 +15236,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 14,
-    "publicContributions": 34,
+    "publicContributions": 27,
     "createdAt": "2023-02-13T21:10:24Z"
   },
   {
@@ -15248,7 +15248,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 178,
+    "publicContributions": 109,
     "createdAt": "2023-03-14T13:12:08Z"
   },
   {
@@ -15295,8 +15295,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 135,
-    "publicContributions": 76,
+    "privateContributions": 88,
+    "publicContributions": 64,
     "createdAt": "2023-10-20T13:35:34Z"
   },
   {
@@ -15308,7 +15308,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 878,
+    "publicContributions": 824,
     "createdAt": "2023-12-24T19:31:58Z"
   },
   {
@@ -15319,8 +15319,8 @@
     "company": "Student @DKIT",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 19,
-    "publicContributions": 294,
+    "privateContributions": 20,
+    "publicContributions": 291,
     "createdAt": "2023-12-14T14:07:09Z"
   },
   {
@@ -15330,9 +15330,9 @@
     "location": "Athlone, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 419,
+    "publicContributions": 423,
     "createdAt": "2023-10-16T16:21:34Z"
   },
   {
@@ -15344,7 +15344,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 6,
     "createdAt": "2023-10-29T23:51:09Z"
   },
   {
@@ -15354,9 +15354,9 @@
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 283,
+    "publicContributions": 288,
     "createdAt": "2023-12-10T01:25:53Z"
   },
   {
@@ -15366,9 +15366,9 @@
     "location": "Ireland, Cork",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 601,
+    "publicContributions": 345,
     "createdAt": "2023-09-16T07:19:33Z"
   },
   {
@@ -15392,19 +15392,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 60,
     "createdAt": "2023-04-04T22:15:36Z"
   },
   {
     "login": "EricMurray-e-m-dev",
     "name": "Eric Murray",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127801800?s=72&u=ec70132b2ae9011088738fbbe48d0e426fcaa484&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127801800?s=72&v=4",
     "location": "Ireland",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 224,
-    "publicContributions": 829,
+    "privateContributions": 503,
+    "publicContributions": 639,
     "createdAt": "2023-03-13T23:22:23Z"
   },
   {

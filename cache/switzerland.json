@@ -14942,13 +14942,13 @@
   {
     "login": "lhilfiker",
     "name": "Lukas Hilfiker",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142885453?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142885453?s=72&u=b7ae93560c580315d3b49ae679e86bd8c3f8c4b1&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 2570,
-    "publicContributions": 568,
+    "followers": 13,
+    "privateContributions": 2684,
+    "publicContributions": 401,
     "createdAt": "2023-08-22T08:54:09Z"
   },
   {
@@ -14958,9 +14958,9 @@
     "location": "Switzerland",
     "company": "BBB Baden & Kantonsschule Baden",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 67,
     "createdAt": "2023-08-22T09:04:58Z"
   },
   {
@@ -14977,14 +14977,14 @@
   },
   {
     "login": "MaximeCaty",
-    "name": "",
+    "name": "Maxime Caty",
     "avatarUrl": "https://avatars.githubusercontent.com/u/136202358?s=72&u=60499a9f1e80626056064f205016ced1cfb228ce&v=4",
     "location": "Lausanne, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 265,
     "createdAt": "2023-06-10T22:08:39Z"
   },
   {
@@ -14994,7 +14994,7 @@
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 12,
     "privateContributions": 7,
     "publicContributions": 23,
     "createdAt": "2023-01-17T22:20:23Z"
@@ -15007,8 +15007,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 63,
-    "publicContributions": 203,
+    "privateContributions": 19,
+    "publicContributions": 189,
     "createdAt": "2023-06-14T12:10:13Z"
   },
   {
@@ -15019,8 +15019,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 25,
-    "publicContributions": 427,
+    "privateContributions": 9,
+    "publicContributions": 378,
     "createdAt": "2023-08-18T11:35:44Z"
   },
   {
@@ -15030,9 +15030,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 1855,
+    "publicContributions": 2416,
     "createdAt": "2023-10-30T11:56:34Z"
   },
   {
@@ -15066,9 +15066,9 @@
     "location": "Switzerland",
     "company": "Ergon",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 621,
-    "publicContributions": 326,
+    "followers": 10,
+    "privateContributions": 599,
+    "publicContributions": 328,
     "createdAt": "2023-04-01T14:48:57Z"
   },
   {
@@ -15080,7 +15080,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 209,
     "createdAt": "2023-12-22T16:07:47Z"
   },
   {
@@ -15091,8 +15091,8 @@
     "company": "EPFL",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 303,
-    "publicContributions": 66,
+    "privateContributions": 246,
+    "publicContributions": 36,
     "createdAt": "2023-09-21T06:42:37Z"
   },
   {
@@ -15102,9 +15102,9 @@
     "location": "Zürich, Switzerland",
     "company": "mimic",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 501,
-    "publicContributions": 2,
+    "followers": 7,
+    "privateContributions": 560,
+    "publicContributions": 1,
     "createdAt": "2023-09-20T11:37:23Z"
   },
   {
@@ -15115,32 +15115,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2023-04-02T16:06:37Z"
-  },
-  {
-    "login": "katari16",
-    "name": "Hans Baumann-Ortiz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129002230?s=72&u=3d41258521107b962862b961e8970e29d325ae0e&v=4",
-    "location": "Zurich, Zurich, Switzerland",
-    "company": "ETH Zürich",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 224,
-    "publicContributions": 173,
-    "createdAt": "2023-03-26T19:01:29Z"
   },
   {
     "login": "Jussif79",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150897455?s=72&u=bde2c1117dd4c49f5eb9cf2d247d6a77943a8e88&v=4",
     "location": "Switzerland",
-    "company": "BFO",
+    "company": "",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2023-11-15T08:07:05Z"
   },
   {
@@ -15150,7 +15138,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "sandroidmusic",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 5,
     "publicContributions": 41,
     "createdAt": "2023-01-23T15:29:06Z"
@@ -15174,9 +15162,9 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 9,
-    "publicContributions": 237,
+    "followers": 11,
+    "privateContributions": 10,
+    "publicContributions": 166,
     "createdAt": "2023-04-17T08:03:26Z"
   },
   {

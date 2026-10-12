@@ -15080,7 +15080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 14,
     "createdAt": "2024-08-05T08:24:49Z"
   },
   {
@@ -15126,9 +15126,9 @@
     "location": "Phayao, Thailand",
     "company": "University of Phayao",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 50,
     "createdAt": "2024-02-18T11:11:02Z"
   },
   {
@@ -15152,7 +15152,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 185,
     "createdAt": "2024-06-22T14:04:10Z"
   },
   {
@@ -15164,7 +15164,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 0,
     "createdAt": "2024-10-27T13:00:43Z"
   },
   {
@@ -15200,7 +15200,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 17,
-    "publicContributions": 216,
+    "publicContributions": 143,
     "createdAt": "2024-08-26T01:17:11Z"
   },
   {
@@ -15210,7 +15210,7 @@
     "location": "bangkok,thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-18T17:30:55Z"
@@ -15224,7 +15224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 103,
     "createdAt": "2024-01-05T06:19:06Z"
   },
   {
@@ -15236,7 +15236,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 14,
+    "publicContributions": 16,
     "createdAt": "2024-01-14T12:30:47Z"
   },
   {
@@ -15274,18 +15274,6 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2024-03-02T15:53:34Z"
-  },
-  {
-    "login": "PinontX",
-    "name": "Pinont's Bot",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/178093828?s=72&u=846baeac06ae2f510e8e1f2aee91127c95cf6711&v=4",
-    "location": "Chiang Mai, Thailand",
-    "company": "PinontDev",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-08-11T15:19:00Z"
   },
   {
     "login": "TrueTaha",
@@ -179886,7 +179874,7 @@
     "location": "Bangkok , Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 127,
     "createdAt": "2026-06-23T13:54:19Z"
@@ -180250,5 +180238,65 @@
     "privateContributions": 0,
     "publicContributions": 50,
     "createdAt": "2023-10-28T06:17:23Z"
+  },
+  {
+    "login": "kinkor7",
+    "name": "codev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284728337?s=72&u=7c70a1d979a644f6db5232317ab7e71d534bf213&v=4",
+    "location": "BANGKOK",
+    "company": "https://ai.codev.click/",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-14T17:05:30Z"
+  },
+  {
+    "login": "raghvendra-yadav-07",
+    "name": "raghvendra yadav",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296103834?s=72&u=889ab05bab959317c8d5f0fecf34401029ad86ea&v=4",
+    "location": "bangkok",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 91,
+    "createdAt": "2026-06-23T08:38:41Z"
+  },
+  {
+    "login": "nkaewmani",
+    "name": "Kritsada",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285704388?s=72&u=81d4464e3522ab7c0267572eb37a0a24825e7b49&v=4",
+    "location": "Bangkok",
+    "company": "Netflix",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-18T13:35:34Z"
+  },
+  {
+    "login": "natnulo",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294979771?s=72&v=4",
+    "location": "Bangkok",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-19T01:09:51Z"
+  },
+  {
+    "login": "AL-Balet",
+    "name": "Alexandre Balet",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/292174014?s=72&u=370216e4d8c9955d09b724144f178de1ae49322e&v=4",
+    "location": "Bangkok",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 107,
+    "createdAt": "2026-06-09T16:06:53Z"
   }
 ]

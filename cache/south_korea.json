@@ -682315,8 +682315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 2560,
-    "publicContributions": 1465,
+    "privateContributions": 2562,
+    "publicContributions": 1468,
     "createdAt": "2026-05-23T05:26:18Z"
   },
   {
@@ -682328,7 +682328,7 @@
     "twitterUsername": "woongworks",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 337,
+    "publicContributions": 340,
     "createdAt": "2026-05-28T08:14:19Z"
   },
   {
@@ -682471,8 +682471,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 89,
-    "publicContributions": 42,
+    "privateContributions": 91,
+    "publicContributions": 43,
     "createdAt": "2026-06-26T12:54:29Z"
   },
   {
@@ -682544,7 +682544,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 914,
+    "publicContributions": 926,
     "createdAt": "2026-06-13T05:16:30Z"
   },
   {
@@ -682568,7 +682568,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 51,
     "createdAt": "2026-06-10T11:27:42Z"
   },
   {
@@ -682640,7 +682640,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 77,
-    "publicContributions": 137,
+    "publicContributions": 153,
     "createdAt": "2026-05-15T05:21:49Z"
   },
   {
@@ -682676,7 +682676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 89,
     "createdAt": "2026-05-15T14:16:10Z"
   },
   {
@@ -682856,7 +682856,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 128,
     "createdAt": "2026-05-30T21:15:00Z"
   },
   {
@@ -682882,5 +682882,365 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-04-25T21:29:49Z"
+  },
+  {
+    "login": "12bin31-ops",
+    "name": "Bin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296940332?s=72&u=91987be419d926bb88173b7e04b0bfe6584e3f19&v=4",
+    "location": "Seoul, Korea",
+    "company": "Korea univ.",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 61,
+    "createdAt": "2026-06-25T16:43:55Z"
+  },
+  {
+    "login": "donghyeoni",
+    "name": "DH KIM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291541042?s=72&u=f817271df99dd7e16e69527ca8f5fb60a90ffa71&v=4",
+    "location": "Seoul ",
+    "company": "Korea Aerospace University ",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 4,
+    "publicContributions": 397,
+    "createdAt": "2026-06-07T14:31:26Z"
+  },
+  {
+    "login": "SKHN918",
+    "name": "조석훈",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288525733?s=72&v=4",
+    "location": "Heukseok-dong, Seoul",
+    "company": "Chung-Ang University, School of Software",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 55,
+    "createdAt": "2026-05-28T05:01:47Z"
+  },
+  {
+    "login": "jasonwpgml",
+    "name": "Jason",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295786525?s=72&u=f267dfa0656393f09120e7552fbb30128e24aa3c&v=4",
+    "location": "Seoul, Gangnam-gu",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 857,
+    "publicContributions": 260,
+    "createdAt": "2026-06-22T08:32:39Z"
+  },
+  {
+    "login": "minseok-info",
+    "name": "Minseok Kwon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288604055?s=72&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 28,
+    "createdAt": "2026-05-28T10:34:00Z"
+  },
+  {
+    "login": "jongw511",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289880024?s=72&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2026-06-02T02:41:49Z"
+  },
+  {
+    "login": "lmxx-kaos",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284482121?s=72&v=4",
+    "location": "Seoul",
+    "company": "KAOS Labs",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-05-14T01:17:54Z"
+  },
+  {
+    "login": "ahoy79-dot",
+    "name": "LIM SUNGBAE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284576098?s=72&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 113,
+    "createdAt": "2026-05-14T08:54:27Z"
+  },
+  {
+    "login": "kims6305-bjk",
+    "name": "bjkim",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286993046?s=72&u=d170dceb734ff94f06b9623846b68ec07607785c&v=4",
+    "location": "Seoul, South Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 52,
+    "publicContributions": 39,
+    "createdAt": "2026-05-22T14:14:43Z"
+  },
+  {
+    "login": "pinehill99",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/287063854?s=72&u=f91cba773019cf8cb676d3c1da021e14a65b227b&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 65,
+    "publicContributions": 424,
+    "createdAt": "2026-05-22T19:24:57Z"
+  },
+  {
+    "login": "bell-hyun",
+    "name": "Jonghyun Park",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284986283?s=72&v=4",
+    "location": "Seoul, Korea",
+    "company": "Samsung SDS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-05-15T14:54:24Z"
+  },
+  {
+    "login": "withmoco",
+    "name": "moco",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295322012?s=72&u=b2b5d83a9a4bad2381f684062e4a695924c38c63&v=4",
+    "location": "Seoul, Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-20T08:30:12Z"
+  },
+  {
+    "login": "be-realdeveloper",
+    "name": "B 개발자",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295524568?s=72&u=69546effe9a7c3d0f5784682116fe42b3f79d454&v=4",
+    "location": "Seoul,Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 13,
+    "createdAt": "2026-06-21T06:30:54Z"
+  },
+  {
+    "login": "codeg-dev",
+    "name": "Code_G",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288527233?s=72&u=63a22e9077a241275cfe13c51b243baead08adbb&v=4",
+    "location": "Seoul, Korea",
+    "company": "@mindy-inc ",
+    "twitterUsername": "code_g",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 75,
+    "createdAt": "2026-05-28T05:10:18Z"
+  },
+  {
+    "login": "rjsgud1996-png",
+    "name": "geonhyoung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288537321?s=72&v=4",
+    "location": "seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 79,
+    "createdAt": "2026-05-28T06:04:48Z"
+  },
+  {
+    "login": "termsksg",
+    "name": "Seulgi Kang",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295746390?s=72&v=4",
+    "location": "Seoul, Korea",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 3,
+    "createdAt": "2026-06-22T05:56:51Z"
+  },
+  {
+    "login": "sinaeannn",
+    "name": "안시내",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291105028?s=72&u=8d72de4e73e4ecf6fc2f33b2d39360e5091a6d69&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-06-05T17:06:14Z"
+  },
+  {
+    "login": "sorrysungkwon",
+    "name": "sungkwon",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286902374?s=72&u=d083cc7ae5d78e17131f8fe56fd4a32925dab86f&v=4",
+    "location": "seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2225,
+    "createdAt": "2026-05-22T08:02:54Z"
+  },
+  {
+    "login": "draconicbf",
+    "name": "Sahin Can Kilic",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285608471?s=72&u=6d011547e81eefe27aa30828a31e020ac76456ff&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-18T07:37:04Z"
+  },
+  {
+    "login": "shyundev",
+    "name": "Sang Hyun Lee",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/296818144?s=72&u=00b07c1463c29c5df11a3f01664c74e73258d76e&v=4",
+    "location": "Seoul, Korea",
+    "company": "SK Telecom",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2026-06-25T08:47:27Z"
+  },
+  {
+    "login": "farkhod-clk",
+    "name": "FARKHOD ABDUKODIROV",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293987340?s=72&u=ffade6d7545b6a5a35238f300d0c8444af3352b9&v=4",
+    "location": "Seoul",
+    "company": "Cosmos Labs Korea",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 256,
+    "publicContributions": 68,
+    "createdAt": "2026-06-15T21:14:43Z"
+  },
+  {
+    "login": "nikky916",
+    "name": "youngjae",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289541900?s=72&u=59f547dc1fdd98950e897ca416fd37df0218ce97&v=4",
+    "location": "seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 125,
+    "createdAt": "2026-06-01T02:25:23Z"
+  },
+  {
+    "login": "richardhwang-iotrust",
+    "name": "황승익(Richard.Hwang)",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284855470?s=72&u=b08b526f53bceedc97ae5ef4a82965846c84cad1&v=4",
+    "location": "seoul",
+    "company": "ioTrust",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 25,
+    "createdAt": "2026-05-15T05:15:02Z"
+  },
+  {
+    "login": "howw0606",
+    "name": "howw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291187372?s=72&u=91855ba450491928e0c4eed37e2a0d1d9f59d035&v=4",
+    "location": "seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 12,
+    "createdAt": "2026-06-06T01:21:40Z"
+  },
+  {
+    "login": "polo93888-create",
+    "name": "bjminhyuk",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284755982?s=72&u=0b7710648e381daf12acea5d5c245a1bc677d171&v=4",
+    "location": "Seoul",
+    "company": "University of Seoul",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-05-14T19:02:03Z"
+  },
+  {
+    "login": "joyyyjw",
+    "name": "joyyyjw",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285923983?s=72&u=1ea170d935fd34475d3614c2d97cac17f03fb123&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-19T07:21:48Z"
+  },
+  {
+    "login": "dhdslab",
+    "name": "Digital Health Data Science Lab",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291650642?s=72&v=4",
+    "location": "Seoul, Korea",
+    "company": "Korea University College of Medicine",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 32,
+    "createdAt": "2026-06-08T02:18:43Z"
+  },
+  {
+    "login": "Otroven",
+    "name": "Otroven",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294040308?s=72&u=09123bc071e38856f90cf194e57c11a9046a548b&v=4",
+    "location": "Seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 180,
+    "publicContributions": 103,
+    "createdAt": "2026-06-16T03:10:43Z"
+  },
+  {
+    "login": "smb-investment",
+    "name": "SMB-Investment",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288826939?s=72&u=815dade8aff2448eec030b1782f47afb001ad073&v=4",
+    "location": "seoul",
+    "company": "SMB",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-05-29T04:22:43Z"
+  },
+  {
+    "login": "gottso",
+    "name": "leesoheung",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293277531?s=72&v=4",
+    "location": "seoul",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 91,
+    "createdAt": "2026-06-13T04:05:29Z"
   }
 ]
