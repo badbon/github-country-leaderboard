@@ -1,13 +1,13 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-12T02:39:41.323Z
+Generated: 2026-10-12T06:45:49.898Z
 
 Users: 215
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 22374 |
-| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 2960 |
+| 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 2963 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1033 |
 | 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 766 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 713 |

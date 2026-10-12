@@ -14,24 +14,24 @@ Indexed users: 2,737
 |---:|---|---|---|---:|
 | 1 | [programmeradu](https://github.com/programmeradu) | Samuel Adu-Berekorang | nicosia, cyprus | 23,421 |
 | 2 | [linegel](https://github.com/linegel) | Eugène P. | Limassol, Cyprus | 22,798 |
-| 3 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 15,657 |
-| 4 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
-| 5 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
-| 6 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
-| 7 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 10,126 |
-| 8 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
-| 9 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
-| 10 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
-| 11 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
-| 12 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
-| 13 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
-| 14 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
-| 15 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
-| 16 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
-| 17 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
-| 18 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
-| 19 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
-| 20 | [siyabendoezdemir](https://github.com/siyabendoezdemir) | Siya | Cyprus | 8,388 |
+| 3 | [denizgolbas](https://github.com/denizgolbas) | Deniz Gölbaş | Cyprus | 19,015 |
+| 4 | [andreasasprou](https://github.com/andreasasprou) | Andreas Asprou | Cyprus | 15,657 |
+| 5 | [ei-grad](https://github.com/ei-grad) | Andrew Grigorev | Limassol, Cyprus | 14,588 |
+| 6 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 14,035 |
+| 7 | [iskifogl](https://github.com/iskifogl) | Abdullah İskifoğlu | Cyprus | 11,983 |
+| 8 | [miguelrisero](https://github.com/miguelrisero) | Miguel Rasero | Cyprus | 10,126 |
+| 9 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | Cyprus | 9,995 |
+| 10 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou | Cyprus | 9,926 |
+| 11 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
+| 12 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
+| 13 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
+| 14 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
+| 15 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
+| 16 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
+| 17 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
+| 18 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
+| 19 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
+| 20 | [openmindednewby](https://github.com/openmindednewby) | Demetrios Loizides | Cyprus | 8,521 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,737
 | 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
 | 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 
-Generated: 2026-10-12T02:52:15.237Z
+Generated: 2026-10-12T06:59:49.979Z

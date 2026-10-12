@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-12T02:31:32.282Z
+Generated: 2026-10-12T06:35:17.674Z
 
 Users: 1482
 
@@ -16,13 +16,13 @@ Users: 1482
 | 8 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | رؤيَة رقَميَّة |  | Syria | 1323 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Freelancer | AbdoMaghrbi | Syria | 1250 |
 | 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Sham Logix |  | Syria | 1180 |
-| 11 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1149 |
-| 12 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
-| 13 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1040 |
-| 14 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1017 |
+| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 1156 |
+| 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 1149 |
+| 13 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
+| 14 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1040 |
 | 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 991 |
 | 16 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout |  |  | Syria | 918 |
 | 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 744 |
 | 18 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 741 |
 | 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH |  |  | Syria | 734 |
-| 20 | [AbdulrahmanNahhas](https://github.com/AbdulrahmanNahhas) | Abdulrahman Nahhas |  |  | Syria | 686 |
+| 20 | [wissam333](https://github.com/wissam333) | Marco Arkento |  |  | Syria | 689 |

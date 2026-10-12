@@ -27,9 +27,9 @@ Indexed users: 1,341
 | 13 | [Jules369-ZM](https://github.com/Jules369-ZM) | JULIUS MARTIN BANDA | LUSAKA | 3,924 |
 | 14 | [genthegreat](https://github.com/genthegreat) | Prince Kwesi | Zambia | 3,497 |
 | 15 | [barthkapepula](https://github.com/barthkapepula) | Bartholomew Kapepula | Zambia | 3,449 |
-| 16 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,408 |
-| 17 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,274 |
-| 18 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,200 |
+| 16 | [ericknamukolo](https://github.com/ericknamukolo) | Erick Namukolo | Lusaka, Zambia | 3,274 |
+| 17 | [brucetruth](https://github.com/brucetruth) | Bruce Truth | Zambia | 3,200 |
+| 18 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 3,188 |
 | 19 | [Geoffrey-Zulu](https://github.com/Geoffrey-Zulu) | Geoffrey Zulu | Lusaka, Zambia | 3,128 |
 | 20 | [SamWaku](https://github.com/SamWaku) | Samuel Wakumelo | LUSAKA, ZAMBIA | 3,101 |
 
@@ -39,7 +39,7 @@ Indexed users: 1,341
 |---:|---|---|---|---:|
 | 1 | [Abdurrahmaan9](https://github.com/Abdurrahmaan9) |  | Lusaka, Zambia  | 6,796 |
 | 2 | [CHAMA18](https://github.com/CHAMA18) | Chungu Chipimo Chama | Lusaka, Zambia | 2,691 |
-| 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,416 |
+| 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,234 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,753 |
 | 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,670 |
 | 6 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
@@ -83,4 +83,4 @@ Indexed users: 1,341
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-12T02:36:06.733Z
+Generated: 2026-10-12T06:43:44.894Z

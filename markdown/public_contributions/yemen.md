@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-12T02:36:03.571Z
+Generated: 2026-10-12T06:43:39.071Z
 
 Users: 1208
 
@@ -9,7 +9,7 @@ Users: 1208
 | 1 | [thejulan](https://github.com/thejulan) | Julan | @green-goblins @DevITOps @looptron-team  |  | Yemen | 97118 |
 | 2 | [YounisDany](https://github.com/YounisDany) | Younis Dany \| يونس ضاعني |  | Yunesdhanei | Yemen | 43097 |
 | 3 | [MrIbrahem](https://github.com/MrIbrahem) | ibrahem Qasim |  | Ibrahem_Qasim | Sana'a  | 22704 |
-| 4 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
+| 4 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7227 |
 | 5 | [Jabri-web](https://github.com/Jabri-web) | Abdulla Al-Jabri | Yemen |  | Haziz- Sana'a | 6050 |
 | 6 | [ken00H](https://github.com/ken00H) |  | NerdMagic Games |  | Yemen | 3498 |
 | 7 | [HakimAlqubati](https://github.com/HakimAlqubati) | Hakim Ahmed Alqubati | NLT Software (Malaysia) | alqubatihakim | Yemen | 3481 |

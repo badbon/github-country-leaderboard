@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-12T02:40:51.938Z
+Generated: 2026-10-12T06:46:09.715Z
 
 Users: 460
 
@@ -16,9 +16,9 @@ Users: 460
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4646 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4539 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 4210 |
-| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3984 |
+| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3983 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux |  |  | Antarctica ;) | 3865 |
-| 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3263 |
+| 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3246 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3231 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2866 |
 | 16 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2561 |

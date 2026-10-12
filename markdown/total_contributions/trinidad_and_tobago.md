@@ -1,6 +1,6 @@
 # Total Contributions - Trinidad and Tobago
 
-Generated: 2026-10-12T02:33:45.876Z
+Generated: 2026-10-12T06:37:18.966Z
 
 Users: 256
 
@@ -10,7 +10,7 @@ Users: 256
 | 2 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh |  |  | Trinidad and Tobago | 6466 |
 | 3 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 4616 |
 | 4 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | PGS |  | Trinidad and Tobago | 3827 |
-| 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3128 |
+| 5 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | @squareup  | kyle_def | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3127 |
 | 6 | [Emille1723](https://github.com/Emille1723) | Emille Henry |  |  | Trinidad and Tobago | 2987 |
 | 7 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson |  |  | Trinidad and Tobago | 2960 |
 | 8 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 2835 |

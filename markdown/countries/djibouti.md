@@ -12,7 +12,7 @@ Indexed users: 55
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,466 |
+| 1 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Djibouti | 5,475 |
 | 2 | [Abdoul-Hakim101](https://github.com/Abdoul-Hakim101) | Abdihakim  Mohamed | Djibouti | 1,392 |
 | 3 | [Captain-iiro](https://github.com/Captain-iiro) | Captain iiro (Abdourahman) | Djibouti | 1,189 |
 | 4 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH | Djibouti Dj | 689 |
@@ -55,7 +55,7 @@ Indexed users: 55
 | 16 | [fathia09](https://github.com/fathia09) | fathia abdourahman mohamed | Djibouti | 31 |
 | 17 | [ABDOURAHMAN-ILTIREH](https://github.com/ABDOURAHMAN-ILTIREH) | ABOURAHMAN ILTIREH | DJIBOUTI | 30 |
 | 18 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 28 |
-| 19 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 16 |
+| 19 | [bassim18ramad](https://github.com/bassim18ramad) | BassimRH | Djibouti | 18 |
 | 20 | [alitani253](https://github.com/alitani253) | Tani Ali | Djibouti | 6 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 55
 | 19 | [jibo-zz](https://github.com/jibo-zz) | Mohamed Cheikh | Djibouti | 5 |
 | 20 | [LuxusIX](https://github.com/LuxusIX) | Abdourahman A.Daher | Djibouti | 5 |
 
-Generated: 2026-10-12T02:52:43.169Z
+Generated: 2026-10-12T07:00:56.797Z

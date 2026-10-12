@@ -63,13 +63,13 @@ Indexed users: 1,275
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [trevoirwilliams](https://github.com/trevoirwilliams) | Trevoir Williams | Jamaica | 1,469 |
-| 2 | [jed](https://github.com/jed) | Jed Schmidt | Kingston, NY | 1,144 |
-| 3 | [quirkey](https://github.com/quirkey) | Aaron Quint | Kingston, NY | 543 |
+| 2 | [jed](https://github.com/jed) | Jed Schmidt | Kingston, NY | 1,147 |
+| 3 | [quirkey](https://github.com/quirkey) | Aaron Quint | Kingston, NY | 542 |
 | 4 | [tiannaparris](https://github.com/tiannaparris) | Tianna Parris | Jamaica | 300 |
 | 5 | [m-oniqu3](https://github.com/m-oniqu3) | monique | Jamaica | 223 |
 | 6 | [SIsilicon](https://github.com/SIsilicon) | Roujel Williams | St. Ann, Jamaica | 212 |
-| 7 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Kingston, ON | 138 |
-| 8 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt | Jamaica | 136 |
+| 7 | [ylynfatt](https://github.com/ylynfatt) | Yannick Lyn Fatt | Jamaica | 139 |
+| 8 | [jkaupp](https://github.com/jkaupp) | Jake Kaupp | Kingston, ON | 138 |
 | 9 | [chadstewart](https://github.com/chadstewart) | Chad Rhonan Stewart | Kingston, Jamaica | 134 |
 | 10 | [josiah-wolf-oberholtzer](https://github.com/josiah-wolf-oberholtzer) | J. Wolf Oberholtzer | Kingston, New York | 124 |
 | 11 | [steven-hh-ding](https://github.com/steven-hh-ding) | Steven Ding | Kingston | 118 |
@@ -81,6 +81,6 @@ Indexed users: 1,275
 | 17 | [RakibulRanak](https://github.com/RakibulRanak) | MD RAKIBUL HASAN | Kingston, Ontario | 103 |
 | 18 | [aliasad059](https://github.com/aliasad059) | Ali Asad | Kingston, Ontario | 101 |
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
-| 20 | [jordanliu](https://github.com/jordanliu) | Jordan Liu | Kingston, Jamaica | 94 |
+| 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-12T03:03:47.833Z
+Generated: 2026-10-12T07:14:39.756Z

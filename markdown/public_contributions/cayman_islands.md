@@ -1,12 +1,12 @@
 # Public Contributions - Cayman Islands
 
-Generated: 2026-10-12T02:47:35.868Z
+Generated: 2026-10-12T06:55:47.088Z
 
 Users: 124
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 1774 |
+| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 1776 |
 | 2 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 1577 |
 | 3 | [tmancey](https://github.com/tmancey) | Terry Mancey |  |  | Cayman Islands | 1089 |
 | 4 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 1050 |
@@ -24,5 +24,5 @@ Users: 124
 | 16 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova |  |  | Cayman Islands | 154 |
 | 17 | [RaisinBread42](https://github.com/RaisinBread42) | SkyyCipp |  |  | Cayman Islands | 154 |
 | 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 131 |
-| 19 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | @Sim-Labs-LLC  | ackermann721 | Cayman Islands | 74 |
+| 19 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | @Sim-Labs-LLC  | ackermann721 | Cayman Islands | 71 |
 | 20 | [SuperMohit](https://github.com/SuperMohit) | Mohit Talniya |  |  | Cayman Islands | 63 |

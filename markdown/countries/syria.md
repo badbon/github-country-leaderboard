@@ -47,16 +47,16 @@ Indexed users: 1,482
 | 8 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | Syria | 1,323 |
 | 9 | [Abdomghrbi](https://github.com/Abdomghrbi) | Abdullrahman almaghrabi | Syria | 1,250 |
 | 10 | [Hakam-aldeen-Kh](https://github.com/Hakam-aldeen-Kh) | Hakam aldeen Alkhadraa | Syria | 1,180 |
-| 11 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
-| 12 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
-| 13 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,040 |
-| 14 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,017 |
+| 11 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 1,156 |
+| 12 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem | syria | 1,149 |
+| 13 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz | Syria | 1,082 |
+| 14 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini | Syria | 1,040 |
 | 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad | Syria | 991 |
 | 16 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout | Syria | 918 |
 | 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Syria | 744 |
 | 18 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki | Syria | 741 |
 | 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH | Syria | 734 |
-| 20 | [AbdulrahmanNahhas](https://github.com/AbdulrahmanNahhas) | Abdulrahman Nahhas | Syria | 686 |
+| 20 | [wissam333](https://github.com/wissam333) | Marco Arkento | Syria | 689 |
 
 ## Followers
 
@@ -66,7 +66,7 @@ Indexed users: 1,482
 | 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi | Syria | 309 |
 | 3 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | syria | 303 |
 | 4 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Damascus, Syria | 303 |
-| 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 216 |
+| 5 | [firasuke](https://github.com/firasuke) | Firas Khana | Aleppo, Syria | 222 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | syria  | 202 |
 | 7 | [simabilony](https://github.com/simabilony) | Sima Bilony | Syria/Aleppo | 176 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | Damascus | 174 |
@@ -83,4 +83,4 @@ Indexed users: 1,482
 | 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | Sivas, Syria | 102 |
 | 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 101 |
 
-Generated: 2026-10-12T02:31:32.282Z
+Generated: 2026-10-12T06:35:17.674Z

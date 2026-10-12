@@ -1,6 +1,6 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-12T02:36:03.571Z
+Generated: 2026-10-12T06:43:39.071Z
 
 Users: 1208
 
@@ -17,10 +17,10 @@ Users: 1208
 | 9 | [MokarmDev](https://github.com/MokarmDev) | Mokarm Mohammed | @SmartMindSYSCoder |  | Yemen | 8587 |
 | 10 | [moatasem-alhilali](https://github.com/moatasem-alhilali) | Moatasem Alhilali |  |  | Yemen | 8328 |
 | 11 | [Qaidsaher](https://github.com/Qaidsaher) | Saher Qaid | InjazCode | SaherQaid | Yemen,Ibb city | 8274 |
-| 12 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Trades |  | Sana'a Yemen | 8119 |
+| 12 | [Nabeel-Zawia](https://github.com/Nabeel-Zawia) | Nabeel Khalid Zawia | Trades |  | Sana'a Yemen | 8160 |
 | 13 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Noot | aymanmalhattami | Yemen | 7630 |
 | 14 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 7321 |
-| 15 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7036 |
+| 15 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7227 |
 | 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6876 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6678 |
 | 18 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6412 |

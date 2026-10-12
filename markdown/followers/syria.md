@@ -1,6 +1,6 @@
 # Followers - Syria
 
-Generated: 2026-10-12T02:31:32.282Z
+Generated: 2026-10-12T06:35:17.674Z
 
 Users: 1482
 
@@ -10,7 +10,7 @@ Users: 1482
 | 2 | [WaelTarabishi](https://github.com/WaelTarabishi) | Wael Tarabishi |  |  | Syria | 309 |
 | 3 | [Rakwan007](https://github.com/Rakwan007) | Rakwan | Rako |  | syria | 303 |
 | 4 | [SedrAlex](https://github.com/SedrAlex) | Sedra Mhanna | Seven Technologies |  | Damascus, Syria | 303 |
-| 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 216 |
+| 5 | [firasuke](https://github.com/firasuke) | Firas Khana | @glaucuslinux  |  | Aleppo, Syria | 222 |
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 202 |
 | 7 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 176 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |

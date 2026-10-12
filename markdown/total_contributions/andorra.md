@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-12T02:39:41.323Z
+Generated: 2026-10-12T06:45:49.898Z
 
 Users: 215
 
@@ -11,7 +11,7 @@ Users: 215
 | 3 | [AdrianMastronardi](https://github.com/AdrianMastronardi) | Adrian Mastronardi |  | amastronardi | Andorra | 9857 |
 | 4 | [orimarti](https://github.com/orimarti) | Oriol Martí |  |  | Andorra | 9661 |
 | 5 | [castrolem](https://github.com/castrolem) | Luis Castro |  |  | Andorra la Vella, Andorra | 8789 |
-| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 6786 |
+| 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 6789 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6268 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5781 |
 | 9 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5145 |

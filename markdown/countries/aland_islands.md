@@ -16,8 +16,8 @@ Indexed users: 61
 | 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan | Mariehamn | 3,907 |
 | 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 3,753 |
 | 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,171 |
-| 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,763 |
-| 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 1,581 |
+| 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,766 |
+| 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 1,580 |
 | 7 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Åland, Finland | 1,218 |
 | 8 | [taneli-paf](https://github.com/taneli-paf) | Taneli Mäkihannu | Mariehamn, Åland Islands | 1,127 |
 | 9 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam | Mariehamn, Åland | 1,024 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-12T02:37:50.307Z
+Generated: 2026-10-12T06:45:33.631Z

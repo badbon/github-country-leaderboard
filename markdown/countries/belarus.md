@@ -1,6 +1,6 @@
 # Belarus
 
-Indexed users: 10,952
+Indexed users: 10,951
 
 | Leaderboard | Link |
 |---|---|
@@ -16,22 +16,22 @@ Indexed users: 10,952
 | 2 | [AndreiDrang](https://github.com/AndreiDrang) | Andrei | Minsk | 14,416 |
 | 3 | [masasibata](https://github.com/masasibata) | Artem | Belarus | 12,224 |
 | 4 | [jakwuh](https://github.com/jakwuh) | James | Belarus | 11,999 |
-| 5 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
-| 6 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 9,448 |
-| 7 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
-| 8 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
-| 9 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 5,977 |
-| 10 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
-| 11 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
-| 12 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,240 |
-| 13 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
-| 14 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Minsk, Belarus | 5,176 |
-| 15 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
-| 16 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,928 |
-| 17 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
-| 18 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
-| 19 | [LeonidShatilo](https://github.com/LeonidShatilo) | Leonid Shatilo | Gomel, Belarus | 4,563 |
-| 20 | [dzmitryNz](https://github.com/dzmitryNz) |  | Belarus | 4,481 |
+| 5 | [KonstantinSerebryakov](https://github.com/KonstantinSerebryakov) | Konstantin Serebryakov | Minsk, Belarus | 10,667 |
+| 6 | [dzmitrys-dev](https://github.com/dzmitrys-dev) | Dzmitry Sukhau | Belarus, Minsk | 10,259 |
+| 7 | [fxpw](https://github.com/fxpw) | fxpw | Belarus | 9,448 |
+| 8 | [iamsphere](https://github.com/iamsphere) | Vladislav | Belarus, Minsk | 6,414 |
+| 9 | [NikolayNN](https://github.com/NikolayNN) | Nikolay | Minsk | 6,267 |
+| 10 | [omuteqq](https://github.com/omuteqq) | Иван | Minsk, Belarus | 5,977 |
+| 11 | [igormorozov](https://github.com/igormorozov) | Igor Morozov | Minsk | 5,759 |
+| 12 | [davassi](https://github.com/davassi) | Gianluigi Davassi | Dubai - Berlin - Milan - Minsk | 5,274 |
+| 13 | [burvelandrei](https://github.com/burvelandrei) | Burvel Andrei | Minsk | 5,240 |
+| 14 | [reven86](https://github.com/reven86) | Andrew Karpushin | Minsk, Belarus | 5,216 |
+| 15 | [hawkxdev](https://github.com/hawkxdev) | Sergey Sokolkin | Minsk, Belarus | 5,176 |
+| 16 | [pavelpikta](https://github.com/pavelpikta) | Pavel Pikta | Grodno, Belarus | 5,010 |
+| 17 | [dementorsss](https://github.com/dementorsss) | Dmitry | Minsk | 4,928 |
+| 18 | [Frederlk](https://github.com/Frederlk) | Petrinich Sergey | Belarus/Minsk | 4,821 |
+| 19 | [hotrush](https://github.com/hotrush) |  | Minsk, Belarus | 4,799 |
+| 20 | [LeonidShatilo](https://github.com/LeonidShatilo) | Leonid Shatilo | Gomel, Belarus | 4,563 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,952
 | 19 | [dillidon](https://github.com/dillidon) | RV | Belarus | 183 |
 | 20 | [OlegEgoism](https://github.com/OlegEgoism) | OlegEgoism | Belarus, Minsk | 175 |
 
-Generated: 2026-10-12T02:43:13.337Z
+Generated: 2026-10-12T06:48:49.395Z

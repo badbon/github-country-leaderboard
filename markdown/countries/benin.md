@@ -56,7 +56,7 @@ Indexed users: 471
 | 17 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 749 |
 | 18 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 593 |
 | 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
-| 20 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 586 |
+| 20 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 583 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 73 |
 | 20 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 
-Generated: 2026-10-12T02:43:48.391Z
+Generated: 2026-10-12T06:49:57.131Z

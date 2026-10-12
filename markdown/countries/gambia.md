@@ -12,7 +12,7 @@ Indexed users: 79
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,495 |
+| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,499 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,118 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | Gambia | 2,618 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,466 |
@@ -22,7 +22,7 @@ Indexed users: 79
 | 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 847 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 744 |
 | 10 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 651 |
-| 11 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 632 |
+| 11 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 629 |
 | 12 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 609 |
 | 13 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 479 |
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 411 |
@@ -51,7 +51,7 @@ Indexed users: 79
 | 12 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 126 |
 | 13 | [thanos14million605](https://github.com/thanos14million605) | Ebrima Gajaga | Brikama, Gambia | 125 |
 | 14 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 88 |
-| 15 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 68 |
+| 15 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 65 |
 | 16 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh | Gambia banjul | 62 |
 | 17 | [mustapha-jaiteh](https://github.com/mustapha-jaiteh) | Mustapha Jaiteh | Banjul, The Gambia | 57 |
 | 18 | [yusjeng21](https://github.com/yusjeng21) | Yusupha Jeng  | Banjul, The Gambia | 48 |
@@ -83,4 +83,4 @@ Indexed users: 79
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-12T02:57:01.984Z
+Generated: 2026-10-12T07:06:42.418Z

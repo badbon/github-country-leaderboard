@@ -1,12 +1,12 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-12T02:57:01.984Z
+Generated: 2026-10-12T07:06:42.418Z
 
 Users: 79
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3495 |
+| 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo |  |  | Gambia | 3499 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Royalsmb |  | Gambia | 3118 |
 | 3 | [Adama101](https://github.com/Adama101) | Adama Jarju | MEST Africa \|\| Ex Kuringo | aduboyjarjusey | Gambia | 2618 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | @DANOSOFT |  | Gambia/Banjul | 1466 |
@@ -16,7 +16,7 @@ Users: 79
 | 8 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 847 |
 | 9 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Nafa Financial | fula_programmer | Gambia | 744 |
 | 10 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | African Commission on Human and Peoples' Rights | MarieLoumar | Banjul, The Gambia | 651 |
-| 11 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 632 |
+| 11 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 629 |
 | 12 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 609 |
 | 13 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 479 |
 | 14 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 411 |

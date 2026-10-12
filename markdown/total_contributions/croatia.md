@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-12T02:51:08.930Z
+Generated: 2026-10-12T06:58:34.331Z
 
 Users: 5438
 
@@ -13,10 +13,10 @@ Users: 5438
 | 5 | [TVCTC](https://github.com/TVCTC) | Tomislav |  |  | Zagreb | 10893 |
 | 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 10662 |
 | 7 | [vburojevic](https://github.com/vburojevic) | Vedran Burojević | Caffeinated Code |  | Zagreb, Croatia | 9779 |
-| 8 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
-| 9 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
-| 10 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
-| 11 | [markoboras0712](https://github.com/markoboras0712) | mboras | @prototypdigital |  | Osijek, Croatia | 7256 |
+| 8 | [markoboras0712](https://github.com/markoboras0712) | mboras | @prototypdigital |  | Osijek, Croatia | 9003 |
+| 9 | [bis3946](https://github.com/bis3946) | bis3946 | NuN Nexus of Unity  | bis3946 | Croatia | 8871 |
+| 10 | [lazar-tomislav](https://github.com/lazar-tomislav) | Tomislav Lazar | Morgan Code |  | Croatia | 8131 |
+| 11 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7621 |
 | 12 | [verona-dev](https://github.com/verona-dev) | Zoran G. Verona | Good Code |  | Croatia | 7247 |
 | 13 | [zvanjak](https://github.com/zvanjak) | Zvonimir Vanjak | Quantum Soft d.o.o. | zvanjak | Zagreb | 7219 |
 | 14 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 6979 |

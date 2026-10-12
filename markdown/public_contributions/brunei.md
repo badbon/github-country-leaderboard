@@ -1,6 +1,6 @@
 # Public Contributions - Brunei
 
-Generated: 2026-10-12T02:45:38.686Z
+Generated: 2026-10-12T06:54:09.240Z
 
 Users: 254
 
@@ -8,11 +8,11 @@ Users: 254
 |---:|---|---|---|---|---|---:|
 | 1 | [aresople](https://github.com/aresople) | Aresa Naif | Developer |  | Brunei | 5758 |
 | 2 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Deltice Technology |  | Brunei | 594 |
-| 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 400 |
+| 3 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum |  | Qoyyuum | Brunei Darussalam | 398 |
 | 4 | [bumplzz69](https://github.com/bumplzz69) | Eddie |  |  | Brunei | 346 |
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman |  |  | Brunei Darussalam | 217 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan |  |  | Brunei | 148 |
-| 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 121 |
+| 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | @supabase |  | Brunei | 119 |
 | 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam |  | syahnur197 | Brunei | 109 |
 | 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim |  |  | San Francisco, CA \| Brunei | 108 |
 | 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei University of Technology |  | Brunei | 108 |

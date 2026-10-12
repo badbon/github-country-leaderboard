@@ -1,6 +1,6 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-12T02:43:54.800Z
+Generated: 2026-10-12T06:51:00.293Z
 
 Users: 268
 
@@ -15,14 +15,14 @@ Users: 268
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye |  |  | Bhutan | 2699 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2623 |
 | 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2317 |
-| 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 2045 |
+| 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 2047 |
 | 11 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 1989 |
 | 12 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 1958 |
 | 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1918 |
 | 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1910 |
 | 15 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1830 |
 | 16 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1802 |
-| 17 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1793 |
-| 18 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1786 |
+| 17 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1786 |
+| 18 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1781 |
 | 19 | [kashgurung](https://github.com/kashgurung) | Bikash Gurung |  |  | Thimphu Bhutan | 1707 |
 | 20 | [grey300](https://github.com/grey300) | Tshering Gyeltshen |  |  | Bhutan | 1705 |

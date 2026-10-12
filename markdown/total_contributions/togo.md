@@ -1,6 +1,6 @@
 # Total Contributions - Togo
 
-Generated: 2026-10-12T02:32:43.882Z
+Generated: 2026-10-12T06:36:54.913Z
 
 Users: 679
 
@@ -8,14 +8,14 @@ Users: 679
 |---:|---|---|---|---|---|---:|
 | 1 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 13187 |
 | 2 | [woueziou](https://github.com/woueziou) | Taas S. Ekpaye | @strantsolutions @BBLY-ANALYTICS-LLC  |  | Lomé | 11310 |
-| 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 10207 |
+| 3 | [omarfarouk228](https://github.com/omarfarouk228) | Omar farouk KOUGBADA | KOFCOPORATION | OKougbada | Togo | 10356 |
 | 4 | [MaximeKELI](https://github.com/MaximeKELI) | Maxime KELI | ALL-CODERS |  | Lome,TOGO | 9428 |
 | 5 | [kodesonik](https://github.com/kodesonik) | AMADOU AROUNA |  |  | Togo | 8344 |
 | 6 | [hermannleboss](https://github.com/hermannleboss) | Hermann EHO | W3 Frame | hermanneho | Lomé TOGO | 8140 |
 | 7 | [GTW503](https://github.com/GTW503) | MEK |  |  | Togo | 8052 |
-| 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6223 |
+| 8 | [DATAGNIKAN](https://github.com/DATAGNIKAN) | DATAGNI K. Armand Noël |  | DATAGNIKAN | Togo, Lomé | 6283 |
 | 9 | [JsOptimizer](https://github.com/JsOptimizer) | Michael Olalekan |  |  | Togo | 5762 |
-| 10 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 5691 |
+| 10 | [jeanclaudesoft](https://github.com/jeanclaudesoft) | Claudy | Coders For Togo | JeanKonou | Togo | 5706 |
 | 11 | [charlesdzadu](https://github.com/charlesdzadu) | Charles DZADU | @makifaa  | CharlesDzadu | Lomé - Togo | 5161 |
 | 12 | [Dreykovic](https://github.com/Dreykovic) | Birewa Audrey AMONA |  |  | Togo | 4502 |
 | 13 | [EmD-228](https://github.com/EmD-228) | Kokou DENYO |  |  | Lome-Togo | 4457 |

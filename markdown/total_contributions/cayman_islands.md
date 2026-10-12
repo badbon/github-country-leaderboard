@@ -1,6 +1,6 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-10-12T02:47:35.868Z
+Generated: 2026-10-12T06:55:47.088Z
 
 Users: 124
 
@@ -14,7 +14,7 @@ Users: 124
 | 6 | [dcimring](https://github.com/dcimring) | Daniel |  |  | Cayman Islands | 3112 |
 | 7 | [shinchann221](https://github.com/shinchann221) | Paras Jain |  | PaarasJainn | Cayman Islands | 2825 |
 | 8 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Gadze Finance SEZC | MikeSilagadze | Cayman Islands | 2674 |
-| 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 2414 |
+| 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 2416 |
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 2352 |
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper |  |  | Grand Cayman, Cayman Islands | 1732 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | jadehopper ltd. |  | Cayman Islands | 1485 |

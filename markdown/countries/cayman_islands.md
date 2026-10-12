@@ -20,7 +20,7 @@ Indexed users: 124
 | 6 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 3,112 |
 | 7 | [shinchann221](https://github.com/shinchann221) | Paras Jain | Cayman Islands | 2,825 |
 | 8 | [GadzeMike](https://github.com/GadzeMike) | Mike Silagadze | Cayman Islands | 2,674 |
-| 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 2,414 |
+| 9 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 2,416 |
 | 10 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Cayman Islands | 2,352 |
 | 11 | [tamebadger](https://github.com/tamebadger) | Rupert Klopper | Grand Cayman, Cayman Islands | 1,732 |
 | 12 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 1,485 |
@@ -37,7 +37,7 @@ Indexed users: 124
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 1,774 |
+| 1 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | Cayman Islands | 1,776 |
 | 2 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 1,577 |
 | 3 | [tmancey](https://github.com/tmancey) | Terry Mancey | Cayman Islands | 1,089 |
 | 4 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 1,050 |
@@ -55,7 +55,7 @@ Indexed users: 124
 | 16 | [NazgulT](https://github.com/NazgulT) | Nazgul Sagatova | Cayman Islands | 154 |
 | 17 | [RaisinBread42](https://github.com/RaisinBread42) | SkyyCipp | Cayman Islands | 154 |
 | 18 | [paulofierro](https://github.com/paulofierro) | Paulo Fierro | Cayman Islands | 131 |
-| 19 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | Cayman Islands | 74 |
+| 19 | [keVIMena98](https://github.com/keVIMena98) | Kevin Ramirez | Cayman Islands | 71 |
 | 20 | [SuperMohit](https://github.com/SuperMohit) | Mohit Talniya | Cayman Islands | 63 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 16 |
 
-Generated: 2026-10-12T02:47:35.868Z
+Generated: 2026-10-12T06:55:47.088Z
