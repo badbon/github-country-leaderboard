@@ -1344546,7 +1344546,7 @@
     "location": "Ottawa, Ontario, Canada",
     "company": "@posthog",
     "twitterUsername": "",
-    "followers": 108,
+    "followers": 109,
     "privateContributions": 437,
     "publicContributions": 7935,
     "createdAt": "2013-01-11T19:27:18Z"
@@ -1354927,7 +1354927,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 21833,
+    "privateContributions": 21845,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1371872,7 +1371872,7 @@
     "twitterUsername": "LaiskyCai",
     "followers": 400,
     "privateContributions": 724,
-    "publicContributions": 2436,
+    "publicContributions": 2456,
     "createdAt": "2013-05-26T12:04:17Z"
   },
   {
@@ -1380079,7 +1380079,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 6094,
+    "privateContributions": 6121,
     "publicContributions": 135,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1380739,7 +1380739,7 @@
     "company": "NetBox Labs",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 3392,
+    "privateContributions": 3394,
     "publicContributions": 151,
     "createdAt": "2013-07-08T14:51:00Z"
   },
@@ -1388192,7 +1388192,7 @@
     "twitterUsername": "",
     "followers": 32,
     "privateContributions": 341,
-    "publicContributions": 1289,
+    "publicContributions": 1290,
     "createdAt": "2013-09-02T18:22:20Z"
   },
   {
@@ -1424887,7 +1424887,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 2672,
+    "privateContributions": 2704,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1425006,7 +1425006,7 @@
     "location": "Ottawa, ON",
     "company": "@Shopify ",
     "twitterUsername": "",
-    "followers": 61,
+    "followers": 60,
     "privateContributions": 104,
     "publicContributions": 0,
     "createdAt": "2013-01-08T07:19:00Z"
@@ -1425103,7 +1425103,7 @@
     "company": "CNN @ WBD",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 752,
+    "privateContributions": 760,
     "publicContributions": 0,
     "createdAt": "2013-01-31T19:33:00Z"
   },
@@ -1425151,7 +1425151,7 @@
     "company": "Gadget",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 3779,
+    "privateContributions": 3795,
     "publicContributions": 144,
     "createdAt": "2013-05-07T19:03:10Z"
   },
@@ -1425286,5 +1425286,17 @@
     "privateContributions": 47,
     "publicContributions": 1,
     "createdAt": "2019-03-09T00:50:39Z"
+  },
+  {
+    "login": "ameniifi",
+    "name": "Amani AIFI",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/121758668?s=72&u=5a50fc60514c52ac9a5170e754aa747a9e719d3f&v=4",
+    "location": "Montréal, Canada",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 5,
+    "privateContributions": 493,
+    "publicContributions": 11,
+    "createdAt": "2023-01-01T14:42:59Z"
   }
 ]

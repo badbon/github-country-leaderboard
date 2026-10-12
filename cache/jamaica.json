@@ -859,7 +859,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 31,
+    "privateContributions": 27,
     "publicContributions": 83,
     "createdAt": "2024-08-14T03:32:13Z"
   },
@@ -871,8 +871,8 @@
     "company": "@nvidia",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 1034,
-    "publicContributions": 561,
+    "privateContributions": 1040,
+    "publicContributions": 608,
     "createdAt": "2024-04-05T14:13:35Z"
   },
   {
@@ -884,7 +884,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 43,
     "createdAt": "2024-04-10T20:27:28Z"
   },
   {
@@ -910,18 +910,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-10-24T22:58:05Z"
-  },
-  {
-    "login": "RafCosta10",
-    "name": "Rafael Costa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158981191?s=72&u=e5a9ede01bfab653e240e9ce3e3e15b85c3db2bc&v=4",
-    "location": "Kingston",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 29,
-    "createdAt": "2024-02-05T02:37:21Z"
   },
   {
     "login": "JXOHG",

@@ -16026,9 +16026,9 @@
     "location": "Harjumaa, Tallinn linn, Lasnamäe linnaosa, Ruunaoja tn 3, 11415",
     "company": "Revolist",
     "twitterUsername": "",
-    "followers": 81,
-    "privateContributions": 773,
-    "publicContributions": 293,
+    "followers": 80,
+    "privateContributions": 914,
+    "publicContributions": 331,
     "createdAt": "2020-05-04T21:15:53Z"
   },
   {
@@ -16038,9 +16038,9 @@
     "location": "Tallinn",
     "company": "flutter.wtf",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 45,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-10-19T16:32:34Z"
   },
   {
@@ -16050,22 +16050,10 @@
     "location": "Tallinn",
     "company": "Gamma Intelligence Training",
     "twitterUsername": "",
-    "followers": 31,
+    "followers": 30,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 10,
     "createdAt": "2020-09-27T12:14:26Z"
-  },
-  {
-    "login": "oKhodus",
-    "name": "Oleksii Khodus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73364595?s=72&v=4",
-    "location": "Tallinn",
-    "company": "@Knowzilla",
-    "twitterUsername": "khodusal",
-    "followers": 24,
-    "privateContributions": 490,
-    "publicContributions": 325,
-    "createdAt": "2020-10-23T20:02:04Z"
   },
   {
     "login": "simmaksim",
@@ -16078,18 +16066,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-31T11:45:59Z"
-  },
-  {
-    "login": "Rahul-sinha84",
-    "name": "Rahul Sinha",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60269478?s=72&u=8575fe92b816c9977759e648ed22b632108fbbd0&v=4",
-    "location": "Tallinn",
-    "company": "",
-    "twitterUsername": "xyzrahulsinha",
-    "followers": 22,
-    "privateContributions": 614,
-    "publicContributions": 100,
-    "createdAt": "2020-01-24T17:39:10Z"
   },
   {
     "login": "KNITS-OS",
@@ -16110,8 +16086,8 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 5378,
+    "followers": 13,
+    "privateContributions": 8052,
     "publicContributions": 5,
     "createdAt": "2020-03-04T18:52:16Z"
   },
@@ -16124,7 +16100,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 9,
-    "publicContributions": 88,
+    "publicContributions": 92,
     "createdAt": "2020-10-03T15:35:12Z"
   },
   {
@@ -16134,9 +16110,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 64,
     "createdAt": "2020-05-16T20:37:06Z"
   },
   {
@@ -16146,9 +16122,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 3,
     "createdAt": "2020-03-04T10:36:50Z"
   },
   {
@@ -16158,9 +16134,9 @@
     "location": "Tallinn",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 906,
-    "publicContributions": 393,
+    "followers": 9,
+    "privateContributions": 1196,
+    "publicContributions": 263,
     "createdAt": "2020-05-13T06:59:09Z"
   },
   {
@@ -16171,8 +16147,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 337,
-    "publicContributions": 96,
+    "privateContributions": 334,
+    "publicContributions": 105,
     "createdAt": "2020-12-09T08:06:02Z"
   },
   {
@@ -16183,8 +16159,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 5,
-    "publicContributions": 369,
+    "privateContributions": 18,
+    "publicContributions": 373,
     "createdAt": "2020-01-07T06:41:27Z"
   },
   {
@@ -16195,7 +16171,7 @@
     "company": "Veriff OÜ",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 507,
+    "privateContributions": 663,
     "publicContributions": 0,
     "createdAt": "2020-01-07T14:18:00Z"
   },
@@ -16207,8 +16183,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 228,
+    "privateContributions": 394,
+    "publicContributions": 291,
     "createdAt": "2020-04-14T08:56:19Z"
   },
   {
@@ -16242,9 +16218,9 @@
     "location": "Tallinn",
     "company": "TalTech",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 165,
-    "publicContributions": 390,
+    "followers": 5,
+    "privateContributions": 801,
+    "publicContributions": 320,
     "createdAt": "2020-05-08T20:33:23Z"
   },
   {

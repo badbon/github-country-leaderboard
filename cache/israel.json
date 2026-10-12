@@ -16075,8 +16075,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2,
-    "publicContributions": 35,
+    "privateContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2022-07-18T07:47:25Z"
   },
   {
@@ -16086,9 +16086,9 @@
     "location": "Israel",
     "company": "AllCloud",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 19,
     "createdAt": "2022-08-29T07:00:25Z"
   },
   {
@@ -16110,7 +16110,7 @@
     "location": "israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-08-15T04:38:27Z"
@@ -16134,7 +16134,7 @@
     "location": "Israel, Tel-Aviv",
     "company": "Treetoscope",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2022-07-10T21:26:38Z"
@@ -16146,22 +16146,10 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 193,
-    "publicContributions": 176,
+    "followers": 5,
+    "privateContributions": 69,
+    "publicContributions": 154,
     "createdAt": "2022-09-11T14:53:41Z"
-  },
-  {
-    "login": "JustNOTRO",
-    "name": "Eilon H",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102175264?s=72&u=b353ccbbfc91a3ee2f87a29d2572fc490853e4e8&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 82,
-    "createdAt": "2022-03-22T16:48:54Z"
   },
   {
     "login": "tirtza-weinfeld",
@@ -16171,8 +16159,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3347,
-    "publicContributions": 219,
+    "privateContributions": 12030,
+    "publicContributions": 182,
     "createdAt": "2022-08-04T09:38:21Z"
   },
   {
@@ -16243,8 +16231,8 @@
     "company": "MisterBit",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 51,
-    "publicContributions": 67,
+    "privateContributions": 1574,
+    "publicContributions": 140,
     "createdAt": "2022-05-24T08:35:07Z"
   },
   {
@@ -16254,9 +16242,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 421,
-    "publicContributions": 33,
+    "followers": 5,
+    "privateContributions": 589,
+    "publicContributions": 35,
     "createdAt": "2022-08-22T19:20:29Z"
   },
   {
@@ -16280,7 +16268,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 38,
     "createdAt": "2022-02-06T15:21:49Z"
   },
   {

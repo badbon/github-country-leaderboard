@@ -15944,7 +15944,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2017-09-23T14:44:37Z"
   },
   {
@@ -15955,8 +15955,8 @@
     "company": "Siemens Energy",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 1854,
-    "publicContributions": 38,
+    "privateContributions": 2111,
+    "publicContributions": 55,
     "createdAt": "2017-01-24T17:50:42Z"
   },
   {
@@ -15966,7 +15966,7 @@
     "location": "Mostar, Bosnia and Herzegovina",
     "company": "nsftx",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-08-08T16:34:16Z"
@@ -15990,7 +15990,7 @@
     "location": "Bosnia and Herzegovina",
     "company": "Digital Consulting LABs",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 13,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-01-10T11:23:21Z"
@@ -16003,7 +16003,7 @@
     "company": "Companions Corp",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1160,
+    "privateContributions": 1679,
     "publicContributions": 1,
     "createdAt": "2017-06-26T00:09:35Z"
   },
@@ -16015,7 +16015,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 336,
+    "privateContributions": 360,
     "publicContributions": 0,
     "createdAt": "2017-03-05T10:37:31Z"
   },
@@ -16026,8 +16026,8 @@
     "location": "Prague, Czech Republic | Banja Luka, Serb Republic, Bosnia and Herzegovina",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 184,
+    "followers": 12,
+    "privateContributions": 191,
     "publicContributions": 1,
     "createdAt": "2017-12-10T13:09:21Z"
   },
@@ -16039,7 +16039,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 28,
+    "privateContributions": 32,
     "publicContributions": 0,
     "createdAt": "2017-05-10T14:18:08Z"
   },
@@ -16060,11 +16060,11 @@
     "name": "Abdulah Proho",
     "avatarUrl": "https://avatars.githubusercontent.com/u/33128352?s=72&u=492ca14b543973f48a1e0f071711e052f79d8522&v=4",
     "location": "Sarajevo / Bosnia and Herzegovina",
-    "company": "Shop Circle",
+    "company": "Circeus",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 216,
-    "publicContributions": 1813,
+    "privateContributions": 409,
+    "publicContributions": 2559,
     "createdAt": "2017-10-26T15:06:05Z"
   },
   {
@@ -16098,7 +16098,7 @@
     "location": "Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2017-01-25T13:55:40Z"
@@ -16122,9 +16122,9 @@
     "location": "Sarajevo, Bosnia and Herzegovina",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 173,
-    "publicContributions": 0,
+    "followers": 8,
+    "privateContributions": 171,
+    "publicContributions": 1,
     "createdAt": "2017-12-15T21:27:09Z"
   },
   {
@@ -16148,7 +16148,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 18,
     "createdAt": "2017-09-05T13:41:47Z"
   },
   {
@@ -16171,7 +16171,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 27,
+    "privateContributions": 26,
     "publicContributions": 0,
     "createdAt": "2017-02-10T23:05:37Z"
   },

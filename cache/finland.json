@@ -15764,7 +15764,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 8,
     "createdAt": "2023-04-14T16:24:53Z"
   },
   {
@@ -15812,7 +15812,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2023-08-31T04:31:13Z"
   },
   {
@@ -15835,8 +15835,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 95,
-    "publicContributions": 29,
+    "privateContributions": 82,
+    "publicContributions": 30,
     "createdAt": "2023-06-03T15:16:34Z"
   },
   {
@@ -15872,7 +15872,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 11,
     "createdAt": "2023-11-17T07:10:13Z"
   },
   {
@@ -15884,7 +15884,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 127,
     "createdAt": "2023-11-17T09:42:20Z"
   },
   {
@@ -15896,7 +15896,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-10-09T06:45:02Z"
   },
   {
@@ -15918,8 +15918,8 @@
     "location": "Finland ",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1534,
+    "followers": 2,
+    "privateContributions": 2032,
     "publicContributions": 1068,
     "createdAt": "2023-05-25T16:41:34Z"
   },
@@ -15931,33 +15931,21 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 126,
-    "publicContributions": 181,
+    "privateContributions": 122,
+    "publicContributions": 172,
     "createdAt": "2023-06-17T18:11:48Z"
   },
   {
     "login": "ponyo19",
-    "name": "Julian",
+    "name": "Duy",
     "avatarUrl": "https://avatars.githubusercontent.com/u/122917567?s=72&u=d9bf275ce3235cc1bba78249bddccbc4c1634250&v=4",
     "location": "Espoo, Finland",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 19,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2023-01-17T17:49:59Z"
-  },
-  {
-    "login": "Snooppikoira",
-    "name": "Snooppikoira",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133780594?s=72&u=1651dfe52d984f6a1c33e3c8622f846717cffbdc&v=4",
-    "location": "Finland",
-    "company": "Not yet, not ever",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 46,
-    "createdAt": "2023-05-16T13:36:42Z"
   },
   {
     "login": "mysilence1408",
