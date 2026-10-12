@@ -1,6 +1,6 @@
 # Public Contributions - Monaco
 
-Generated: 2026-10-12T00:12:27.089Z
+Generated: 2026-10-12T01:10:04.993Z
 
 Users: 142
 
@@ -13,7 +13,7 @@ Users: 142
 | 5 | [auvents-brave](https://github.com/auvents-brave) | Stéphane |  |  | Monaco | 243 |
 | 6 | [AlexRLG98](https://github.com/AlexRLG98) | Alex_RLG |  |  | Monaco | 212 |
 | 7 | [co-stig](https://github.com/co-stig) | Constantine | Vilia |  | Monaco | 174 |
-| 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 168 |
+| 8 | [NicoBocq](https://github.com/NicoBocq) | Nicolas Bocquet | Inforca |  | Marseille / Monaco | 166 |
 | 9 | [Steve-Deguilly](https://github.com/Steve-Deguilly) | Steve DEGUILLY | CREASTORY CONSEIL |  | Nice / Monaco / Sophia Antipolis | 114 |
 | 10 | [margauxhaering](https://github.com/margauxhaering) | Margaux Haering |  |  | Monaco | 109 |
 | 11 | [fedecarz](https://github.com/fedecarz) | fedecarz | International University of Monaco - IUM |  | Monaco | 99 |

@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-12T00:23:56.182Z
+Generated: 2026-10-12T01:21:54.547Z
 
 Users: 1357
 
@@ -25,4 +25,4 @@ Users: 1357
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1067 |
 | 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1022 |
 | 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
-| 20 | [bngesp](https://github.com/bngesp) | bassirou ngom | Phd Computer Science |  | Senegal | 998 |
+| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |

@@ -1,6 +1,6 @@
 # Total Contributions - Kenya
 
-Generated: 2026-10-12T00:38:02.192Z
+Generated: 2026-10-12T01:03:55.181Z
 
 Users: 24032
 
@@ -9,8 +9,8 @@ Users: 24032
 | 1 | [CodeWithEugene](https://github.com/CodeWithEugene) | Eugene Mutembei | Technetium Kenya | codewitheugenee | Nairobi, Kenya | 993626 |
 | 2 | [mwakidenis](https://github.com/mwakidenis) |  🐘 |  |  | Nairobi | 252261 |
 | 3 | [mauricegift](https://github.com/mauricegift) | Maurice Gift | @gifted-solstice  |  | Eldoret, Kenya | 158347 |
-| 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 146168 |
-| 5 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
+| 4 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
+| 5 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 58608 |
 | 6 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi |  | gkarumbi | Nairobi,KE | 47165 |
 | 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
 | 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Datacraft |  | Nairobi | 35536 |

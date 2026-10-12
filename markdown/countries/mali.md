@@ -21,8 +21,8 @@ Indexed users: 348
 | 7 | [MrSakine](https://github.com/MrSakine) | MrSakine | Mali | 3,438 |
 | 8 | [kdiawara96](https://github.com/kdiawara96) | Karim Diawara | JX4X+QX9, Bamako | 2,748 |
 | 9 | [AmadouDiadie95](https://github.com/AmadouDiadie95) | Amadou Diadie Coulibaly | Bamako-Mali | 2,604 |
-| 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,345 |
-| 11 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,226 |
+| 10 | [yacouba01](https://github.com/yacouba01) | Yacouba Doumbia | Mali | 2,368 |
+| 11 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,318 |
 | 12 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,141 |
 | 13 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,011 |
 | 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,951 |
@@ -56,7 +56,7 @@ Indexed users: 348
 | 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 181 |
 | 18 | [diarray-hub](https://github.com/diarray-hub) | Diarra Yacouba | Bamako, Mali | 155 |
 | 19 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 145 |
-| 20 | [Jbriguel](https://github.com/Jbriguel) |  | Mali | 144 |
+| 20 | [Babasky](https://github.com/Babasky) | Boureima MAIGA | Bamako | 144 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 25 |
 
-Generated: 2026-10-12T00:10:36.541Z
+Generated: 2026-10-12T01:08:07.267Z

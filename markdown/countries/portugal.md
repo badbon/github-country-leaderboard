@@ -12,8 +12,8 @@ Indexed users: 28,463
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [tfantas](https://github.com/tfantas) | Thiago Antas | Lisbon, Portugal | 118,493 |
-| 2 | [risenowrise](https://github.com/risenowrise) | RISE | Lisbon, Portugal | 109,544 |
+| 1 | [risenowrise](https://github.com/risenowrise) | RISE | Lisbon, Portugal | 182,466 |
+| 2 | [tfantas](https://github.com/tfantas) | Thiago Antas | Lisbon, Portugal | 118,493 |
 | 3 | [paulojmorais](https://github.com/paulojmorais) | Paulo Jorge Morais | Portugal | 87,237 |
 | 4 | [pmcostadev](https://github.com/pmcostadev) | Pedro Costa | Portugal | 81,461 |
 | 5 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | Portugal | 57,673 |
@@ -83,4 +83,4 @@ Indexed users: 28,463
 | 19 | [abo-abo](https://github.com/abo-abo) | Oleh Krehel | Matosinhos, Portugal | 1,857 |
 | 20 | [SimCoderYoutube](https://github.com/SimCoderYoutube) | SimCoder | Porto, Portugal | 1,831 |
 
-Generated: 2026-10-12T00:19:43.698Z
+Generated: 2026-10-12T01:17:44.784Z

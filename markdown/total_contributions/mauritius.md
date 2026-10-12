@@ -1,6 +1,6 @@
 # Total Contributions - Mauritius
 
-Generated: 2026-10-12T00:11:27.454Z
+Generated: 2026-10-12T01:09:22.375Z
 
 Users: 714
 
@@ -12,13 +12,13 @@ Users: 714
 | 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric |  |  | Mauritius | 6628 |
 | 5 | [w1am](https://github.com/w1am) | William Chong | @kurrent-io |  | Mauritius | 6584 |
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos |  |  | Mauritius | 6184 |
-| 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5555 |
-| 8 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 5507 |
+| 7 | [andrashejj](https://github.com/andrashejj) | Andras Hejj |  | andrashejj | Mauritius | 6134 |
+| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Livestorm | __sun__ | Mauritius | 5555 |
 | 9 | [oliverox](https://github.com/oliverox) | Oliver Oxenham |  | oliveroxenham | Mauritius | 5226 |
 | 10 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | ITverse |  | Mauritius | 5217 |
 | 11 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | EndFrame |  | Port Louis, Mauritius | 5013 |
 | 12 | [masterdubs](https://github.com/masterdubs) | Dubs | @starkleytech | mast3rdubs | Mauritius | 4881 |
-| 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4107 |
+| 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | @SharinPix @spoonconsulting @zfir-dev  | _zfir_ | Mauritius | 4052 |
 | 14 | [yayann](https://github.com/yayann) | Yann Labour |  |  | Mauritius | 3875 |
 | 15 | [MGabala](https://github.com/MGabala) | Mateusz |  |  | Mauritius | 3798 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh |  |  | Mauritius | 3791 |

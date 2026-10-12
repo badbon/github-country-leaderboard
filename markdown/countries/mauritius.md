@@ -18,13 +18,13 @@ Indexed users: 714
 | 4 | [cedpoilly](https://github.com/cedpoilly) | Cedric | Mauritius | 6,628 |
 | 5 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 6,584 |
 | 6 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 6,184 |
-| 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,555 |
-| 8 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 5,507 |
+| 7 | [andrashejj](https://github.com/andrashejj) | Andras Hejj | Mauritius | 6,134 |
+| 8 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 5,555 |
 | 9 | [oliverox](https://github.com/oliverox) | Oliver Oxenham | Mauritius | 5,226 |
 | 10 | [Emmastro](https://github.com/Emmastro) | Emmanuel Bauma Murairi | Mauritius | 5,217 |
 | 11 | [nyashaChiza](https://github.com/nyashaChiza) | Nyasha Chizampeni | Port Louis, Mauritius | 5,013 |
 | 12 | [masterdubs](https://github.com/masterdubs) | Dubs | Mauritius | 4,881 |
-| 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,107 |
+| 13 | [zfir](https://github.com/zfir) | Zafir Sk Heerah | Mauritius | 4,052 |
 | 14 | [yayann](https://github.com/yayann) | Yann Labour | Mauritius | 3,875 |
 | 15 | [MGabala](https://github.com/MGabala) | Mateusz | Mauritius | 3,798 |
 | 16 | [thhsie](https://github.com/thhsie) | hitesh | Mauritius | 3,791 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-12T00:11:27.454Z
+Generated: 2026-10-12T01:09:22.375Z

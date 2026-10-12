@@ -1,13 +1,13 @@
 # Total Contributions - Portugal
 
-Generated: 2026-10-12T00:19:43.698Z
+Generated: 2026-10-12T01:17:44.784Z
 
 Users: 28463
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [tfantas](https://github.com/tfantas) | Thiago Antas | Capgemini |  | Lisbon, Portugal | 118493 |
-| 2 | [risenowrise](https://github.com/risenowrise) | RISE |  |  | Lisbon, Portugal | 109544 |
+| 1 | [risenowrise](https://github.com/risenowrise) | RISE |  |  | Lisbon, Portugal | 182466 |
+| 2 | [tfantas](https://github.com/tfantas) | Thiago Antas | Capgemini |  | Lisbon, Portugal | 118493 |
 | 3 | [paulojmorais](https://github.com/paulojmorais) | Paulo Jorge Morais |  |  | Portugal | 87237 |
 | 4 | [pmcostadev](https://github.com/pmcostadev) | Pedro Costa | @cryptohub-agency | pmcostadev | Portugal | 81461 |
 | 5 | [LIVREpt](https://github.com/LIVREpt) | Partido LIVRE | @codigo-LIVRE  | LIVREpt | Portugal | 57673 |

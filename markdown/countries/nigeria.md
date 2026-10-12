@@ -44,13 +44,13 @@ Indexed users: 33,222
 | 5 | [Mid-D-Man](https://github.com/Mid-D-Man) | AbdulHamid Mamman Suleiman  | Nigeria | 8,729 |
 | 6 | [samkiell](https://github.com/samkiell) | Samuel Ezekiel  | Ile Ife, Osun State, Nigeria. | 8,039 |
 | 7 | [beresdowds-afk](https://github.com/beresdowds-afk) | Olusola Adebayo  | Nigeria  | 7,029 |
-| 8 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 6,809 |
-| 9 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
-| 10 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,318 |
-| 11 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
-| 12 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,049 |
-| 13 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
-| 14 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
+| 8 | [eshanokpe](https://github.com/eshanokpe) | Dannicode | Lagos, Nigeria | 6,755 |
+| 9 | [ademosuoluwatobi-cloud](https://github.com/ademosuoluwatobi-cloud) | Oluwatobi Peter Ademosu | Ibadan, Nigeria | 6,318 |
+| 10 | [Xaxxoo](https://github.com/Xaxxoo) |  | Nigeria | 6,151 |
+| 11 | [aabxtract](https://github.com/aabxtract) | Afolami Anuoluwapo | Akure, Nigeria | 6,049 |
+| 12 | [Officialhomie](https://github.com/Officialhomie) | OneTrueHomie | Lagos, Nigeria | 5,789 |
+| 13 | [caxtonacollins](https://github.com/caxtonacollins) | caxton strange | Nigeria | 5,675 |
+| 14 | [DiceTech435](https://github.com/DiceTech435) | Amevye Matthew | Lagos, Nigeria | 5,604 |
 | 15 | [DevMuktary](https://github.com/DevMuktary) | MUKTAR ABDULWAHEED | Nigeria 🇳🇬  | 5,169 |
 | 16 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
 | 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
@@ -83,4 +83,4 @@ Indexed users: 33,222
 | 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 | 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | Lagos, Nigeria | 707 |
 
-Generated: 2026-10-12T00:16:26.097Z
+Generated: 2026-10-12T01:14:08.918Z

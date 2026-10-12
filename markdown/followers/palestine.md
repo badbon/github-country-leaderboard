@@ -1,8 +1,8 @@
 # Followers - Palestine
 
-Generated: 2026-10-12T00:18:13.217Z
+Generated: 2026-10-12T01:17:03.136Z
 
-Users: 2205
+Users: 2204
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

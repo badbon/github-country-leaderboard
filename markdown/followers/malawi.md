@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-12T00:10:09.831Z
+Generated: 2026-10-12T01:07:40.701Z
 
 Users: 900
 
@@ -21,7 +21,7 @@ Users: 900
 | 13 | [macneil265](https://github.com/macneil265) | Mac Neil | Mac Neil | macneil265 | Lilongwe | 205 |
 | 14 | [PreciousNyasulu](https://github.com/PreciousNyasulu) | Precious Nyasulu | @Angledimension @Almost-thr  ex @creditdatamw @golang-malawi | theebyter | Blantyre, Malawi | 202 |
 | 15 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | ex @creditdatamw  | tgkcapture | Blantyre, Malawi. | 197 |
-| 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 168 |
+| 16 | [i-christian](https://github.com/i-christian) | Christian |  |  | Mzuzu, Malawi  | 176 |
 | 17 | [MalcolmorianVII](https://github.com/MalcolmorianVII) | Belson Malcolm Kutambe | Malawi Liverpool Wellcome Trust |  | Malawi | 153 |
 | 18 | [sam-zarila](https://github.com/sam-zarila) | sam zarila | TechNest | badboy_trox99 | Blantyre, Malawi | 145 |
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | Hyphen Malawi | GMkyelu | 🇲🇼 Malawi | 131 |
