@@ -16843,8 +16843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 294,
+    "privateContributions": 22,
+    "publicContributions": 475,
     "createdAt": "2021-06-27T14:11:36Z"
   },
   {
@@ -16858,18 +16858,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-21T19:40:57Z"
-  },
-  {
-    "login": "CakeLiar",
-    "name": "Allie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/79081062?s=72&u=333f6b1d849cdeca880fd85ace7b68eb482a5554&v=4",
-    "location": "American University of Beirut",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1253,
-    "publicContributions": 188,
-    "createdAt": "2021-02-15T08:48:48Z"
   },
   {
     "login": "ffakhry",
@@ -16952,7 +16940,7 @@
     "twitterUsername": "",
     "followers": 129,
     "privateContributions": 4,
-    "publicContributions": 6,
+    "publicContributions": 2,
     "createdAt": "2020-01-18T11:19:02Z"
   },
   {
@@ -16962,9 +16950,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 104,
+    "followers": 88,
     "privateContributions": 10,
-    "publicContributions": 329,
+    "publicContributions": 284,
     "createdAt": "2020-05-03T18:30:48Z"
   },
   {
@@ -16974,7 +16962,7 @@
     "location": "Lebanon",
     "company": "Upwork",
     "twitterUsername": "",
-    "followers": 85,
+    "followers": 86,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-02-21T19:45:49Z"
@@ -16982,12 +16970,12 @@
   {
     "login": "hibabdelk",
     "name": "Hiba Abdel Karim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60704772?s=72&u=cf8ff533714498607084688ef9f2ba47f6daa04e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60704772?s=72&u=d2812c51cec9fcfa11cb2096a57b3ca79888174d&v=4",
     "location": "lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 167,
+    "followers": 76,
+    "privateContributions": 151,
     "publicContributions": 1,
     "createdAt": "2020-02-05T15:30:25Z"
   },
@@ -17000,7 +16988,7 @@
     "twitterUsername": "aliabbani",
     "followers": 51,
     "privateContributions": 8,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2020-01-25T14:15:28Z"
   },
   {
@@ -17010,9 +16998,9 @@
     "location": "Lebanon",
     "company": "LAU",
     "twitterUsername": "Murf_y",
-    "followers": 38,
-    "privateContributions": 1917,
-    "publicContributions": 29,
+    "followers": 39,
+    "privateContributions": 3791,
+    "publicContributions": 25,
     "createdAt": "2020-05-30T05:27:14Z"
   },
   {
@@ -17022,9 +17010,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 37,
+    "followers": 38,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 13,
     "createdAt": "2020-02-22T07:38:52Z"
   },
   {
@@ -17034,9 +17022,9 @@
     "location": "Beirut, Lebanon",
     "company": "American University of Beirut",
     "twitterUsername": "",
-    "followers": 36,
-    "privateContributions": 123,
-    "publicContributions": 6,
+    "followers": 40,
+    "privateContributions": 257,
+    "publicContributions": 11,
     "createdAt": "2020-05-27T17:58:50Z"
   },
   {
@@ -17046,7 +17034,7 @@
     "location": "Beirut, Beirut Governorate, Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 36,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-05T10:31:05Z"

@@ -16801,14 +16801,14 @@
   },
   {
     "login": "Melkepakken",
-    "name": "Naith",
+    "name": "Melkepakken",
     "avatarUrl": "https://avatars.githubusercontent.com/u/145360784?s=72&u=738f02e819bb7db5c538528ed608ec5579b622fe&v=4",
     "location": "Norway",
     "company": "",
-    "twitterUsername": "",
+    "twitterUsername": "melkepakken",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 90,
     "createdAt": "2023-09-18T13:51:03Z"
   },
   {
@@ -16880,7 +16880,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 26,
     "createdAt": "2023-02-09T15:05:17Z"
   },
   {
@@ -16892,7 +16892,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 13,
-    "publicContributions": 42,
+    "publicContributions": 14,
     "createdAt": "2023-10-12T17:00:25Z"
   },
   {
@@ -16903,7 +16903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2757,
+    "privateContributions": 4570,
     "publicContributions": 44,
     "createdAt": "2023-07-03T08:36:37Z"
   },
@@ -16916,7 +16916,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 204,
+    "publicContributions": 145,
     "createdAt": "2023-06-07T13:55:00Z"
   },
   {
@@ -16934,13 +16934,13 @@
   {
     "login": "Zarahuztra",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/126940706?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/126940706?s=72&u=cf5152a9661778ed307bcfeb67a21b48574250f5&v=4",
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 23,
     "createdAt": "2023-03-04T05:59:23Z"
   },
   {
@@ -16970,13 +16970,13 @@
   {
     "login": "vmyklebust",
     "name": "Vebjørn Røed Myklebust",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139376158?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/139376158?s=72&u=97957fc97eeeb6bccf76641cc83f296609d7cc94&v=4",
     "location": "Oslo, Norway",
     "company": "Texas Instruments",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 8,
     "createdAt": "2023-07-12T16:25:07Z"
   },
   {

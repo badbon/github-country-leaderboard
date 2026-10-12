@@ -847090,5 +847090,29 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2023-05-25T13:42:39Z"
+  },
+  {
+    "login": "Temirkulov",
+    "name": "Mirkamol Temirkulov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133952004?s=72&u=2104107d79f6a28490dda907492b29537516675c&v=4",
+    "location": "Germany",
+    "company": "Technical University of Munich",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 0,
+    "publicContributions": 62,
+    "createdAt": "2023-05-18T07:21:31Z"
+  },
+  {
+    "login": "annaperkova",
+    "name": "Anna Perkova",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114907418?s=72&u=7ca90a19faaac0aa6df06832e6df4e24bb4f313f&v=4",
+    "location": "Lüneburg, Germany",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 8,
+    "publicContributions": 75,
+    "createdAt": "2022-10-03T07:54:49Z"
   }
 ]
