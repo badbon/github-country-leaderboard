@@ -16340,7 +16340,7 @@
     "twitterUsername": "",
     "followers": 77,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 21,
     "createdAt": "2013-01-25T20:35:08Z"
   },
   {
@@ -16351,8 +16351,8 @@
     "company": "@isovalent Head of Docs, @kubernetes Chair Emeritus",
     "twitterUsername": "",
     "followers": 62,
-    "privateContributions": 33,
-    "publicContributions": 8,
+    "privateContributions": 9,
+    "publicContributions": 7,
     "createdAt": "2013-01-07T22:54:51Z"
   },
   {
@@ -16362,9 +16362,9 @@
     "location": "Victoria BC",
     "company": "@microsoft @github",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 3969,
-    "publicContributions": 113,
+    "followers": 41,
+    "privateContributions": 5525,
+    "publicContributions": 127,
     "createdAt": "2013-05-09T00:23:52Z"
   },
   {
@@ -16375,8 +16375,8 @@
     "company": "@confluentinc ",
     "twitterUsername": "",
     "followers": 40,
-    "privateContributions": 2023,
-    "publicContributions": 493,
+    "privateContributions": 2313,
+    "publicContributions": 539,
     "createdAt": "2013-10-30T20:45:47Z"
   },
   {
@@ -16387,8 +16387,8 @@
     "company": "@SuperGoodSoft",
     "twitterUsername": "forkata",
     "followers": 37,
-    "privateContributions": 621,
-    "publicContributions": 112,
+    "privateContributions": 658,
+    "publicContributions": 122,
     "createdAt": "2012-12-30T11:07:14Z"
   },
   {
@@ -16398,21 +16398,21 @@
     "location": "Victoria, British Columbia",
     "company": "@spotify",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 979,
-    "publicContributions": 1,
+    "followers": 31,
+    "privateContributions": 1036,
+    "publicContributions": 19,
     "createdAt": "2013-03-01T07:16:40Z"
   },
   {
     "login": "essmahr",
     "name": "Scott Mahr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/5510974?s=72&u=9ba8db7a4ebc1375436f4511ceb6d5a470e9790a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5510974?s=72&u=24eca6fb762d13b873d2cda3e0e647c5bdb7ad9e&v=4",
     "location": "Victoria, BC",
     "company": "@closeio ",
     "twitterUsername": "",
     "followers": 25,
-    "privateContributions": 1522,
-    "publicContributions": 3,
+    "privateContributions": 1865,
+    "publicContributions": 24,
     "createdAt": "2013-09-22T04:44:12Z"
   },
   {
@@ -16422,9 +16422,9 @@
     "location": "Victoria Australia",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 844,
-    "publicContributions": 59,
+    "followers": 27,
+    "privateContributions": 821,
+    "publicContributions": 88,
     "createdAt": "2013-09-17T23:30:32Z"
   },
   {
@@ -16434,9 +16434,9 @@
     "location": "Victoria",
     "company": "",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 1887,
-    "publicContributions": 3444,
+    "followers": 22,
+    "privateContributions": 2251,
+    "publicContributions": 3584,
     "createdAt": "2013-11-14T23:52:18Z"
   },
   {
@@ -16458,9 +16458,9 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 108,
-    "publicContributions": 5,
+    "followers": 20,
+    "privateContributions": 73,
+    "publicContributions": 3,
     "createdAt": "2013-01-23T18:06:09Z"
   },
   {
@@ -16470,9 +16470,9 @@
     "location": "Victoria, British Columbia",
     "company": "@bcgov @BCDevExchange ",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 21,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 103,
     "createdAt": "2013-04-17T01:16:17Z"
   },
   {
@@ -16482,8 +16482,8 @@
     "location": "Victoria, BC",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 623,
+    "followers": 21,
+    "privateContributions": 768,
     "publicContributions": 0,
     "createdAt": "2013-02-05T22:22:34Z"
   },
@@ -16495,8 +16495,8 @@
     "company": "Canadian Astronomy Data Centre",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1583,
-    "publicContributions": 1748,
+    "privateContributions": 4193,
+    "publicContributions": 1927,
     "createdAt": "2013-04-19T00:29:22Z"
   },
   {
@@ -16507,7 +16507,7 @@
     "company": "@wsp-digital ",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 95,
+    "privateContributions": 149,
     "publicContributions": 0,
     "createdAt": "2013-01-10T10:23:59Z"
   },
@@ -16519,8 +16519,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 4862,
-    "publicContributions": 19,
+    "privateContributions": 5348,
+    "publicContributions": 35,
     "createdAt": "2013-04-30T06:40:47Z"
   },
   {
@@ -16531,20 +16531,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 662,
-    "publicContributions": 60,
+    "privateContributions": 844,
+    "publicContributions": 45,
     "createdAt": "2013-05-09T02:26:43Z"
   },
   {
     "login": "dewolfe001",
     "name": "Shawn DeWolfe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4086452?s=72&u=f8437c58a54f3dc2db1f2cad1207dcff2bf8d7e9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4086452?s=72&u=069cf234711911b9c8240dd7c25d2899d0d4cfab&v=4",
     "location": "Saanichton BC (aka part of Victoria BC)",
     "company": "Web 321",
     "twitterUsername": "web321co",
-    "followers": 16,
-    "privateContributions": 4884,
-    "publicContributions": 248,
+    "followers": 15,
+    "privateContributions": 4375,
+    "publicContributions": 244,
     "createdAt": "2013-04-07T19:38:32Z"
   },
   {
@@ -16556,7 +16556,7 @@
     "twitterUsername": "",
     "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2013-02-28T05:02:26Z"
   },
   {
@@ -16567,7 +16567,7 @@
     "company": "ArteraAI",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 136,
+    "privateContributions": 192,
     "publicContributions": 0,
     "createdAt": "2013-03-27T18:05:52Z"
   },

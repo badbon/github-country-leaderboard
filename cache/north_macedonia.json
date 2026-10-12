@@ -16519,7 +16519,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 100,
+    "privateContributions": 109,
     "publicContributions": 0,
     "createdAt": "2016-10-05T12:02:01Z"
   },
@@ -16544,7 +16544,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2016-12-03T20:00:41Z"
   },
   {
@@ -16592,7 +16592,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 77,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-10-21T11:29:51Z"
   },
   {
@@ -16603,21 +16603,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2016-10-01T14:40:08Z"
-  },
-  {
-    "login": "martin-corevski",
-    "name": "Martin Corevski",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/21193541?s=72&u=94a25bf819430a98e64a6547917c3f8188c10855&v=4",
-    "location": "Skopje Macedonia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2016-08-23T09:08:31Z"
   },
   {
     "login": "angelam2593",

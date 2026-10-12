@@ -4363,7 +4363,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 788,
+    "privateContributions": 790,
     "publicContributions": 714,
     "createdAt": "2023-11-19T10:31:08Z"
   },
@@ -4387,8 +4387,8 @@
     "company": "baramej",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 733,
-    "publicContributions": 9,
+    "privateContributions": 786,
+    "publicContributions": 16,
     "createdAt": "2023-05-24T13:15:38Z"
   },
   {
@@ -4459,7 +4459,7 @@
     "company": "",
     "twitterUsername": "abom_me",
     "followers": 58,
-    "privateContributions": 525,
+    "privateContributions": 581,
     "publicContributions": 59,
     "createdAt": "2022-08-12T14:23:00Z"
   },
@@ -4471,7 +4471,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 377,
+    "privateContributions": 371,
     "publicContributions": 13,
     "createdAt": "2022-05-17T15:13:40Z"
   },
@@ -4483,21 +4483,9 @@
     "company": "Rihal",
     "twitterUsername": "",
     "followers": 31,
-    "privateContributions": 1170,
-    "publicContributions": 11,
+    "privateContributions": 1225,
+    "publicContributions": 12,
     "createdAt": "2022-07-17T05:46:29Z"
-  },
-  {
-    "login": "sainudheenp",
-    "name": "Sainudheen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115580669?s=72&u=9effb59ac75a566254139ef8154e8f0f2980f608&v=4",
-    "location": "Oman",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 26,
-    "privateContributions": 1349,
-    "publicContributions": 287,
-    "createdAt": "2022-10-11T17:39:44Z"
   },
   {
     "login": "SultanMuqimi",
@@ -4531,7 +4519,7 @@
     "company": "",
     "twitterUsername": "idris_altamimi",
     "followers": 15,
-    "privateContributions": 1235,
+    "privateContributions": 1230,
     "publicContributions": 18,
     "createdAt": "2022-01-10T16:38:30Z"
   },
@@ -4544,7 +4532,7 @@
     "twitterUsername": "",
     "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 42,
     "createdAt": "2022-04-27T07:03:40Z"
   },
   {
