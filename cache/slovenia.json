@@ -14670,9 +14670,9 @@
     "location": "Ljubljana",
     "company": "",
     "twitterUsername": "kristjankrizman",
-    "followers": 18,
-    "privateContributions": 1810,
-    "publicContributions": 91,
+    "followers": 19,
+    "privateContributions": 1935,
+    "publicContributions": 93,
     "createdAt": "2018-03-04T16:02:18Z"
   },
   {
@@ -14683,8 +14683,8 @@
     "company": "",
     "twitterUsername": "vuherer",
     "followers": 9,
-    "privateContributions": 6,
-    "publicContributions": 8,
+    "privateContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2018-01-16T20:43:37Z"
   },
   {
@@ -14719,8 +14719,8 @@
     "company": "Mediately",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 8945,
-    "publicContributions": 0,
+    "privateContributions": 8374,
+    "publicContributions": 9,
     "createdAt": "2018-02-10T22:54:31Z"
   },
   {
@@ -14755,7 +14755,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1432,
+    "privateContributions": 1546,
     "publicContributions": 20,
     "createdAt": "2018-10-11T19:23:03Z"
   },
@@ -14764,10 +14764,10 @@
     "name": "Žiga Šolar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/36842781?s=72&u=0c9b85f7ef9bbe0fc0eb41b874924d7b164a986c&v=4",
     "location": "Ljubljana",
-    "company": "@celtra ",
+    "company": "@better ",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1442,
+    "privateContributions": 1336,
     "publicContributions": 0,
     "createdAt": "2018-02-26T09:43:06Z"
   },
@@ -14780,7 +14780,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 3,
+    "publicContributions": 19,
     "createdAt": "2018-04-17T10:11:29Z"
   },
   {
@@ -14791,8 +14791,8 @@
     "company": "Adacta",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 192,
-    "publicContributions": 123,
+    "privateContributions": 346,
+    "publicContributions": 59,
     "createdAt": "2018-11-04T15:34:11Z"
   },
   {
@@ -14803,8 +14803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1186,
-    "publicContributions": 80,
+    "privateContributions": 1142,
+    "publicContributions": 78,
     "createdAt": "2018-06-01T10:10:22Z"
   },
   {
@@ -14816,19 +14816,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2018-05-04T13:00:09Z"
   },
   {
     "login": "matejklemencic",
     "name": "Matej Klemenčič",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44869551?s=72&u=26c1a61ae648fc866297cb6ace13e8ffb85fef57&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44869551?s=72&u=41726914572d0cb4333828846fc3e6e528bbadee&v=4",
     "location": "Ljubljana",
     "company": "SPAN d.o.o., Ljubljana",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 49,
     "createdAt": "2018-11-08T13:08:02Z"
   },
   {
@@ -14851,7 +14851,7 @@
     "company": "@infinum ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1368,
+    "privateContributions": 1732,
     "publicContributions": 2,
     "createdAt": "2018-04-28T16:44:06Z"
   },
@@ -14890,18 +14890,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-10-19T08:31:34Z"
-  },
-  {
-    "login": "YShoji-HEP",
-    "name": "Yutaro Shoji",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36077404?s=72&u=e1f475d6859b0c61dec1cde8a21e73336355fc36&v=4",
-    "location": "Ljubljana",
-    "company": "Jožef Stefan Institute",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2018-02-02T14:12:36Z"
   },
   {
     "login": "blazpezdir",

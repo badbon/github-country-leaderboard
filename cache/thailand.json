@@ -14600,7 +14600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 118,
     "createdAt": "2024-08-23T09:54:53Z"
   },
   {
@@ -14611,8 +14611,8 @@
     "company": "M2Dev Studio",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2704,
-    "publicContributions": 83,
+    "privateContributions": 3980,
+    "publicContributions": 140,
     "createdAt": "2024-01-18T02:19:17Z"
   },
   {
@@ -14624,7 +14624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 91,
+    "publicContributions": 94,
     "createdAt": "2024-02-23T15:16:23Z"
   },
   {
@@ -14636,7 +14636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 13,
     "createdAt": "2024-05-12T14:29:42Z"
   },
   {
@@ -14648,7 +14648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 1516,
     "createdAt": "2024-12-05T15:35:13Z"
   },
   {
@@ -14659,8 +14659,8 @@
     "company": "Faculty of ICT, Mahidol University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 49,
-    "publicContributions": 90,
+    "privateContributions": 31,
+    "publicContributions": 109,
     "createdAt": "2024-12-23T16:37:18Z"
   },
   {
@@ -14696,7 +14696,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 13,
     "createdAt": "2024-06-13T14:40:23Z"
   },
   {
@@ -14719,8 +14719,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 46,
-    "publicContributions": 54,
+    "privateContributions": 44,
+    "publicContributions": 12,
     "createdAt": "2024-03-27T01:51:46Z"
   },
   {
@@ -14756,7 +14756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2024-11-11T15:00:48Z"
   },
   {
@@ -14774,13 +14774,13 @@
   {
     "login": "notplai",
     "name": "Suphakorn Khamwongsa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/186504862?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/186504862?s=72&u=baed3207bc24b517ca336cd2d870f4a12c14e5ce&v=4",
     "location": "Thailand",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 38,
     "createdAt": "2024-10-27T18:32:55Z"
   },
   {
@@ -14804,7 +14804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 78,
     "createdAt": "2024-11-22T02:56:10Z"
   },
   {
@@ -14816,7 +14816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 5,
     "createdAt": "2024-09-25T08:44:51Z"
   },
   {
@@ -14828,7 +14828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 56,
     "createdAt": "2024-05-26T08:08:48Z"
   },
   {
@@ -180250,5 +180250,17 @@
     "privateContributions": 24,
     "publicContributions": 48,
     "createdAt": "2020-01-29T04:13:41Z"
+  },
+  {
+    "login": "kantinanpew",
+    "name": "kantinan3820",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/149226701?s=72&v=4",
+    "location": "Bangkok",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 50,
+    "createdAt": "2023-10-28T06:17:23Z"
   }
 ]

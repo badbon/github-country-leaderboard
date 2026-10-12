@@ -42,7 +42,7 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 72,
     "createdAt": "2026-05-07T00:41:38Z"
@@ -54,9 +54,9 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1902,
-    "publicContributions": 313,
+    "followers": 13,
+    "privateContributions": 1910,
+    "publicContributions": 314,
     "createdAt": "2026-03-03T07:42:15Z"
   },
   {
@@ -68,7 +68,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 331,
+    "publicContributions": 354,
     "createdAt": "2026-03-27T17:35:34Z"
   },
   {
@@ -80,7 +80,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 4,
-    "publicContributions": 120,
+    "publicContributions": 147,
     "createdAt": "2026-02-22T22:57:45Z"
   },
   {
@@ -114,9 +114,9 @@
     "location": "Yemen",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 13,
     "createdAt": "2026-03-25T17:08:25Z"
   },
   {
@@ -202,18 +202,6 @@
     "privateContributions": 0,
     "publicContributions": 98,
     "createdAt": "2026-01-02T14:13:52Z"
-  },
-  {
-    "login": "ibs-allaow",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/255127489?s=72&v=4",
-    "location": "Yemen",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 46,
-    "createdAt": "2026-01-15T13:12:45Z"
   },
   {
     "login": "amjadbokir-tech",

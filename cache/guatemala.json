@@ -14984,7 +14984,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 142,
+    "publicContributions": 192,
     "createdAt": "2020-02-15T16:37:42Z"
   },
   {
@@ -15025,14 +15025,14 @@
   },
   {
     "login": "salazar2001",
-    "name": "",
+    "name": "Oscar Salazar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/61639758?s=72&u=03f7c11c85d07a6735a56e79a10d325b296a0f2a&v=4",
     "location": "Guatemala",
     "company": "GoTo Technologies",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 102,
     "createdAt": "2020-03-01T01:27:29Z"
   },
   {
@@ -15043,8 +15043,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 22,
-    "publicContributions": 54,
+    "privateContributions": 28,
+    "publicContributions": 65,
     "createdAt": "2020-10-18T21:59:40Z"
   },
   {
@@ -15054,7 +15054,7 @@
     "location": "Guatemala",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 3,
     "createdAt": "2020-08-04T04:57:59Z"
@@ -15068,7 +15068,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2020-09-12T16:02:53Z"
   },
   {
@@ -15091,8 +15091,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 169,
+    "privateContributions": 16,
+    "publicContributions": 185,
     "createdAt": "2020-01-15T14:50:10Z"
   },
   {
@@ -15103,7 +15103,7 @@
     "company": "Interamercon",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 552,
+    "privateContributions": 640,
     "publicContributions": 0,
     "createdAt": "2020-05-30T13:20:08Z"
   },
@@ -15116,7 +15116,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2020-08-16T19:40:21Z"
   },
   {
@@ -15140,7 +15140,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 7,
     "createdAt": "2020-01-18T00:23:17Z"
   },
   {
@@ -15152,7 +15152,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2020-02-06T17:44:24Z"
   },
   {
@@ -15166,18 +15166,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-03-20T01:41:32Z"
-  },
-  {
-    "login": "aleexcif",
-    "name": "Soliman Cifuentes",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63319370?s=72&u=224c36d963a0aa96a1bc32f268a9d614792baac6&v=4",
-    "location": "Guatemala City, GT",
-    "company": "WhatConverts",
-    "twitterUsername": "soliman_cf",
-    "followers": 3,
-    "privateContributions": 371,
-    "publicContributions": 27,
-    "createdAt": "2020-04-07T20:56:18Z"
   },
   {
     "login": "carlosrubenruiztelus",

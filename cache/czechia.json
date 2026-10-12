@@ -14672,7 +14672,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 56,
     "createdAt": "2023-07-26T17:17:44Z"
   },
   {
@@ -14684,7 +14684,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 309,
+    "publicContributions": 225,
     "createdAt": "2023-10-22T10:59:53Z"
   },
   {
@@ -14719,8 +14719,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 52,
-    "publicContributions": 225,
+    "privateContributions": 59,
+    "publicContributions": 232,
     "createdAt": "2023-11-17T22:36:24Z"
   },
   {
@@ -14740,11 +14740,11 @@
     "name": "Jakub Dvořák",
     "avatarUrl": "https://avatars.githubusercontent.com/u/149242188?s=72&v=4",
     "location": "Prague, Czechia",
-    "company": "@zoplio",
-    "twitterUsername": "",
+    "company": "Zoplio",
+    "twitterUsername": "jakubdvorak_ai",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 302,
+    "publicContributions": 327,
     "createdAt": "2023-10-28T11:23:47Z"
   },
   {
@@ -14754,9 +14754,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 104,
-    "publicContributions": 165,
+    "followers": 1,
+    "privateContributions": 141,
+    "publicContributions": 142,
     "createdAt": "2023-09-14T13:43:28Z"
   },
   {
@@ -14768,7 +14768,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 79,
     "createdAt": "2023-09-09T10:00:09Z"
   },
   {
@@ -14802,9 +14802,9 @@
     "location": "Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 38,
-    "publicContributions": 41,
+    "followers": 3,
+    "privateContributions": 43,
+    "publicContributions": 86,
     "createdAt": "2023-04-24T15:46:48Z"
   },
   {
@@ -14827,8 +14827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 281,
-    "publicContributions": 471,
+    "privateContributions": 268,
+    "publicContributions": 147,
     "createdAt": "2023-06-04T10:00:57Z"
   },
   {
@@ -14839,8 +14839,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 618,
-    "publicContributions": 5,
+    "privateContributions": 736,
+    "publicContributions": 8,
     "createdAt": "2023-05-09T06:18:26Z"
   },
   {
@@ -14850,7 +14850,7 @@
     "location": "Prague, Czechia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-07T10:13:18Z"
@@ -14864,7 +14864,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 19,
     "createdAt": "2023-03-05T16:11:56Z"
   },
   {
@@ -14887,7 +14887,7 @@
     "company": "Digiteq Automotive",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 767,
+    "privateContributions": 933,
     "publicContributions": 1,
     "createdAt": "2023-07-17T06:58:04Z"
   },
@@ -14896,11 +14896,11 @@
     "name": "fkrajsa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/129093926?s=72&u=1ef8bec32542459435e5995f048e0343cc0c9704&v=4",
     "location": "Uherský Brod, Czechia",
-    "company": "",
+    "company": "OAUH",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 33,
     "createdAt": "2023-03-27T16:10:19Z"
   },
   {

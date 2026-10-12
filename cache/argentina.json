@@ -14586,7 +14586,7 @@
     "location": "C.A.B.A., Argentina",
     "company": "Freelancer",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 2,
     "publicContributions": 17,
     "createdAt": "2025-11-29T14:18:17Z"
@@ -14598,7 +14598,7 @@
     "location": "Argentina",
     "company": "SDFX Grupe",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 25,
     "createdAt": "2025-12-13T16:25:08Z"
@@ -14624,7 +14624,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 35,
     "createdAt": "2025-07-22T14:08:34Z"
   },
   {
@@ -14636,7 +14636,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 132,
+    "publicContributions": 219,
     "createdAt": "2025-10-17T21:12:51Z"
   },
   {
@@ -14647,20 +14647,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 46,
+    "privateContributions": 27,
     "publicContributions": 46,
     "createdAt": "2025-08-13T23:10:01Z"
   },
   {
     "login": "facuruiz-dev",
-    "name": "Facundo",
+    "name": "Facundo Ruiz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/225276436?s=72&u=89db9dc51d1ecd527e19f94ffbb03bed82243177&v=4",
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 18,
     "createdAt": "2025-08-07T21:09:20Z"
   },
   {
@@ -14672,7 +14672,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 29,
     "createdAt": "2025-09-30T21:04:35Z"
   },
   {
@@ -14696,7 +14696,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 103,
     "createdAt": "2025-08-16T21:15:29Z"
   },
   {
@@ -14706,22 +14706,10 @@
     "location": "Buenos Aires, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 50,
     "createdAt": "2025-08-21T18:48:45Z"
-  },
-  {
-    "login": "frankolazo",
-    "name": "amirzao",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231713582?s=72&u=9deef29414ce6c76f06b8c604733ef2eec0e5c27&v=4",
-    "location": "Argentina, Buenos Aires",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-09-11T14:29:45Z"
   },
   {
     "login": "nachobazan2006",
@@ -14730,9 +14718,9 @@
     "location": "Cordoba, Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 100,
     "createdAt": "2025-08-27T02:57:56Z"
   },
   {
@@ -14744,7 +14732,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 14,
     "createdAt": "2025-09-29T23:30:12Z"
   },
   {
@@ -14774,13 +14762,13 @@
   {
     "login": "Maurezg7",
     "name": "Mauro L. Gomez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/219205745?s=72&u=d88713ca5e321b725773148c78c2722de80dec44&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/219205745?s=72&u=8c71aabedcb57bafa28a4a891fe1b509a0c6c0e9&v=4",
     "location": "Salta, Argentina",
     "company": "",
-    "twitterUsername": "",
-    "followers": 2,
+    "twitterUsername": "maurezg7",
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 227,
     "createdAt": "2025-07-03T22:31:20Z"
   },
   {
@@ -14792,7 +14780,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 25,
     "createdAt": "2025-11-11T23:29:27Z"
   },
   {
@@ -14802,7 +14790,7 @@
     "location": "Ciudad Autónoma de Buenos Aires, Argentina",
     "company": "Remolques Mirage",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2025-10-22T02:31:59Z"

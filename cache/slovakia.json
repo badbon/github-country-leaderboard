@@ -14492,7 +14492,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 281,
+    "publicContributions": 350,
     "createdAt": "2020-09-11T19:14:00Z"
   },
   {
@@ -14503,8 +14503,8 @@
     "company": "Argon",
     "twitterUsername": "",
     "followers": 16,
-    "privateContributions": 1903,
-    "publicContributions": 203,
+    "privateContributions": 2366,
+    "publicContributions": 207,
     "createdAt": "2020-06-16T00:08:37Z"
   },
   {
@@ -14514,9 +14514,9 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 172,
-    "publicContributions": 158,
+    "followers": 17,
+    "privateContributions": 138,
+    "publicContributions": 159,
     "createdAt": "2020-03-04T19:04:30Z"
   },
   {
@@ -14526,9 +14526,9 @@
     "location": "Žilina, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 18,
-    "publicContributions": 14,
+    "publicContributions": 7,
     "createdAt": "2020-03-29T11:02:17Z"
   },
   {
@@ -14539,7 +14539,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 601,
+    "privateContributions": 656,
     "publicContributions": 5,
     "createdAt": "2020-04-28T08:49:40Z"
   },
@@ -14551,21 +14551,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 814,
-    "publicContributions": 8,
+    "privateContributions": 802,
+    "publicContributions": 16,
     "createdAt": "2020-07-07T21:20:30Z"
-  },
-  {
-    "login": "FungY911",
-    "name": "Patrik",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/74965749?s=72&u=0728da6788a1e86035a527a6593ec6b4b6ec619c&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 951,
-    "publicContributions": 34,
-    "createdAt": "2020-11-24T11:44:57Z"
   },
   {
     "login": "yungsamd17",
@@ -14574,9 +14562,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "yungsamd17",
-    "followers": 14,
-    "privateContributions": 75,
-    "publicContributions": 262,
+    "followers": 17,
+    "privateContributions": 508,
+    "publicContributions": 821,
     "createdAt": "2020-04-22T13:57:26Z"
   },
   {
@@ -14588,7 +14576,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 133,
     "createdAt": "2020-10-25T06:00:16Z"
   },
   {
@@ -14612,7 +14600,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 85,
-    "publicContributions": 70,
+    "publicContributions": 65,
     "createdAt": "2020-10-13T07:34:20Z"
   },
   {
@@ -14622,7 +14610,7 @@
     "location": "Slovakia",
     "company": "@Simplicity-Tech",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 14,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-19T22:39:22Z"
@@ -14635,21 +14623,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 1215,
+    "privateContributions": 1672,
     "publicContributions": 3,
     "createdAt": "2020-05-11T08:40:29Z"
-  },
-  {
-    "login": "bubasekdev",
-    "name": "Jakub Blaho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69165787?s=72&u=47aee6b8898c666a1001f44f7f8591f352f3441c&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 0,
-    "publicContributions": 5,
-    "createdAt": "2020-08-03T18:19:19Z"
   },
   {
     "login": "vajzii",
@@ -14658,9 +14634,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 671,
-    "publicContributions": 32,
+    "followers": 12,
+    "privateContributions": 669,
+    "publicContributions": 34,
     "createdAt": "2020-09-19T23:02:19Z"
   },
   {
@@ -14670,21 +14646,21 @@
     "location": "Košice, Slovakia",
     "company": "Department of Space Physics, Institute of Experimental Physics, Slovak Academy of Sciences",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 15,
     "createdAt": "2020-06-26T16:58:31Z"
   },
   {
     "login": "mesmerlord",
     "name": "Govind",
     "avatarUrl": "https://avatars.githubusercontent.com/u/76161333?s=72&u=6bdc2ffc727c22c77ebbf31579f773a770aa385e&v=4",
-    "location": "Bratislava, Slovakia",
-    "company": "U+ Venture Building",
+    "location": "Slovakia",
+    "company": "AdMakeAI",
     "twitterUsername": "mesmerlord",
     "followers": 10,
-    "privateContributions": 1537,
-    "publicContributions": 11,
+    "privateContributions": 2366,
+    "publicContributions": 18,
     "createdAt": "2020-12-17T11:20:17Z"
   },
   {
@@ -14695,8 +14671,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 10,
-    "publicContributions": 42,
+    "privateContributions": 13,
+    "publicContributions": 41,
     "createdAt": "2020-10-18T16:12:20Z"
   },
   {

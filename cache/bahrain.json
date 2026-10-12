@@ -6240,18 +6240,6 @@
     "createdAt": "2017-11-20T08:34:37Z"
   },
   {
-    "login": "juandl",
-    "name": "Juan David",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/25650720?s=72&u=6dd6a82eb109f8284399addcc491f5cfc43f512d&v=4",
-    "location": "Bahrain",
-    "company": "",
-    "twitterUsername": "jdla1o",
-    "followers": 23,
-    "privateContributions": 0,
-    "publicContributions": 102,
-    "createdAt": "2017-02-09T00:34:23Z"
-  },
-  {
     "login": "waelisa",
     "name": "Wael Isa",
     "avatarUrl": "https://avatars.githubusercontent.com/u/24850589?s=72&u=1abdfd6538a644d3e9888934a97666af3b7bcca6&v=4",
@@ -6295,7 +6283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2017-07-26T16:48:56Z"
   },
@@ -6307,8 +6295,8 @@
     "company": "",
     "twitterUsername": "S3CURE_ME",
     "followers": 12,
-    "privateContributions": 1458,
-    "publicContributions": 2661,
+    "privateContributions": 1491,
+    "publicContributions": 2693,
     "createdAt": "2017-12-02T20:45:04Z"
   },
   {
@@ -6331,7 +6319,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 839,
+    "privateContributions": 855,
     "publicContributions": 0,
     "createdAt": "2017-03-08T15:27:14Z"
   },
@@ -6439,7 +6427,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 965,
+    "privateContributions": 967,
     "publicContributions": 1,
     "createdAt": "2017-03-04T17:38:23Z"
   },

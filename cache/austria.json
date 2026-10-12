@@ -14828,7 +14828,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 52,
     "createdAt": "2023-09-04T12:54:14Z"
   },
   {
@@ -14840,7 +14840,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 10,
     "createdAt": "2023-08-23T18:19:52Z"
   },
   {
@@ -14875,8 +14875,8 @@
     "company": "Second Stage Studio",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1275,
-    "publicContributions": 42,
+    "privateContributions": 1140,
+    "publicContributions": 38,
     "createdAt": "2023-09-02T12:14:29Z"
   },
   {
@@ -14887,7 +14887,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 14,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2023-05-26T20:54:11Z"
   },
@@ -14911,7 +14911,7 @@
     "company": "Simple Feedback",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2023-10-10T07:55:04Z"
   },
@@ -14924,7 +14924,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 32,
     "createdAt": "2023-01-10T16:44:14Z"
   },
   {
@@ -14932,11 +14932,11 @@
     "name": "Marek Šugár",
     "avatarUrl": "https://avatars.githubusercontent.com/u/133791037?s=72&u=0e79ebc9446639779d23296ce1420565e435c8c3&v=4",
     "location": "Vienna, Austria",
-    "company": "EDEN & TU Wien",
+    "company": "EDEN & TU Wien & Växten",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 232,
-    "publicContributions": 367,
+    "followers": 3,
+    "privateContributions": 68,
+    "publicContributions": 335,
     "createdAt": "2023-05-16T15:23:59Z"
   },
   {
@@ -14947,8 +14947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 65,
+    "privateContributions": 205,
+    "publicContributions": 50,
     "createdAt": "2023-09-15T13:57:25Z"
   },
   {
@@ -14958,9 +14958,9 @@
     "location": "Ljubljana/Vienna",
     "company": "Vienna University of Technology",
     "twitterUsername": "",
-    "followers": 21,
-    "privateContributions": 365,
-    "publicContributions": 23,
+    "followers": 20,
+    "privateContributions": 454,
+    "publicContributions": 20,
     "createdAt": "2021-02-16T19:24:44Z"
   },
   {
@@ -14972,7 +14972,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 109,
+    "publicContributions": 0,
     "createdAt": "2023-08-25T15:08:27Z"
   },
   {
@@ -14983,20 +14983,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 24,
+    "privateContributions": 26,
     "publicContributions": 24,
     "createdAt": "2023-01-10T18:40:50Z"
   },
   {
     "login": "arebrahimif",
     "name": "Armin Ebrahimi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/124291343?s=72&u=164dc9c9ada7413936f848c67c439215a2ca888b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/124291343?s=72&u=f2688e2afbd8ef533a6460e9b7810c2fc53a31b2&v=4",
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2023-02-02T17:11:41Z"
   },
   {
