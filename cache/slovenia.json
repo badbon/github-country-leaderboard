@@ -14911,8 +14911,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 125,
-    "publicContributions": 137,
+    "privateContributions": 238,
+    "publicContributions": 129,
     "createdAt": "2018-12-24T19:14:10Z"
   },
   {
@@ -14948,7 +14948,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 0,
     "createdAt": "2018-12-17T17:23:15Z"
   },
   {
@@ -14959,7 +14959,7 @@
     "company": "Edge Case Solutions",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
+    "privateContributions": 13,
     "publicContributions": 108,
     "createdAt": "2018-12-10T23:57:47Z"
   },
@@ -14971,7 +14971,7 @@
     "company": "Wepik",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 32,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2018-03-17T16:13:12Z"
   },
@@ -15014,13 +15014,13 @@
   {
     "login": "timurkulenovic",
     "name": "Timur Kulenović",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/36702990?s=72&u=9171b283741a7aae31e3199350fee69ad95492b1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/36702990?s=72&u=8a0b2301aa75601cffff92d494ee14088b78ec84&v=4",
     "location": "Ljubljana, Slovenia",
     "company": "Sportradar",
     "twitterUsername": "timurkulenovic",
     "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 7,
+    "privateContributions": 57,
+    "publicContributions": 10,
     "createdAt": "2018-02-21T14:38:08Z"
   },
   {
@@ -15054,9 +15054,9 @@
     "location": "Slovenia",
     "company": "@avarra & @preskok",
     "twitterUsername": "aikenahac",
-    "followers": 75,
-    "privateContributions": 591,
-    "publicContributions": 644,
+    "followers": 78,
+    "privateContributions": 691,
+    "publicContributions": 699,
     "createdAt": "2017-08-12T19:13:23Z"
   },
   {
@@ -15066,9 +15066,9 @@
     "location": "Slovenia",
     "company": "@aeriotech",
     "twitterUsername": "",
-    "followers": 73,
-    "privateContributions": 215,
-    "publicContributions": 153,
+    "followers": 67,
+    "privateContributions": 199,
+    "publicContributions": 173,
     "createdAt": "2017-12-24T13:46:02Z"
   },
   {
@@ -15078,9 +15078,9 @@
     "location": "SubWork, Bled, Slovenia",
     "company": "",
     "twitterUsername": "poppyseedDev",
-    "followers": 66,
-    "privateContributions": 429,
-    "publicContributions": 423,
+    "followers": 65,
+    "privateContributions": 1061,
+    "publicContributions": 455,
     "createdAt": "2017-08-02T15:24:23Z"
   },
   {
@@ -15091,8 +15091,8 @@
     "company": "Databox Inc.",
     "twitterUsername": "",
     "followers": 64,
-    "privateContributions": 1172,
-    "publicContributions": 93,
+    "privateContributions": 1370,
+    "publicContributions": 168,
     "createdAt": "2017-11-07T19:07:34Z"
   },
   {
@@ -15102,9 +15102,9 @@
     "location": "Cerknica, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 56,
-    "privateContributions": 1943,
-    "publicContributions": 1,
+    "followers": 57,
+    "privateContributions": 2222,
+    "publicContributions": 10,
     "createdAt": "2017-05-06T07:23:41Z"
   },
   {
@@ -15114,9 +15114,9 @@
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 51,
-    "privateContributions": 829,
-    "publicContributions": 24,
+    "followers": 53,
+    "privateContributions": 633,
+    "publicContributions": 19,
     "createdAt": "2017-10-09T11:23:33Z"
   },
   {
