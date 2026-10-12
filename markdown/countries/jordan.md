@@ -29,9 +29,9 @@ Indexed users: 4,018
 | 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,181 |
 | 16 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
 | 17 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
-| 18 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 4,785 |
-| 19 | [shwawra](https://github.com/shwawra) | Shwawra | Jordan | 4,519 |
-| 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 4,515 |
+| 18 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Amman, Jordan | 4,810 |
+| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 4,785 |
+| 20 | [shwawra](https://github.com/shwawra) | Shwawra | Jordan | 4,519 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,018
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-12T07:18:05.946Z
+Generated: 2026-10-12T08:23:43.217Z

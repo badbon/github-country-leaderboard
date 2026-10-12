@@ -62,7 +62,7 @@ Indexed users: 798
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT | Kuwait | 3,187 |
+| 1 | [NYAN-x-CAT](https://github.com/NYAN-x-CAT) | NYAN CAT | Kuwait | 3,189 |
 | 2 | [Voulnet](https://github.com/Voulnet) | Mohammed ALDOUB | Kuwait, Kuwait City | 445 |
 | 3 | [abdallahelsokary](https://github.com/abdallahelsokary) | Abdallah Elsokary | kuwait | 390 |
 | 4 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 211 |
@@ -83,4 +83,4 @@ Indexed users: 798
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 84 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-12T07:18:37.275Z
+Generated: 2026-10-12T08:24:07.670Z

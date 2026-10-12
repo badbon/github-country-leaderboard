@@ -1,6 +1,6 @@
 # Followers - Liberia
 
-Generated: 2026-10-12T07:19:26.713Z
+Generated: 2026-10-12T08:25:02.077Z
 
 Users: 209
 
@@ -23,6 +23,6 @@ Users: 209
 | 15 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik |  |  | Monrovia, CA | 25 |
 | 16 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 25 |
 | 17 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 24 |
-| 18 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 24 |
+| 18 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 23 |
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Liberia Digital Insights | Morgan_5574 | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay |  | ejaygbay | Liberia | 20 |

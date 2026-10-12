@@ -17,7 +17,7 @@ Indexed users: 291
 | 3 | [flaviocfneto](https://github.com/flaviocfneto) | Flávio Neto | Plymouth | 6,381 |
 | 4 | [Aloogy](https://github.com/Aloogy) | Alex Cottenham | Plymouth, GB. | 4,034 |
 | 5 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,000 |
-| 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,803 |
+| 6 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,828 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 3,376 |
 | 8 | [thisisthechris](https://github.com/thisisthechris) | Chris Hunt | Plymouth | 3,084 |
 | 9 | [cpotey](https://github.com/cpotey) | Connor Pote | Plymouth | 2,314 |
@@ -38,7 +38,7 @@ Indexed users: 291
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [dvmrry](https://github.com/dvmrry) | Dave Murray | Plymouth Meeting, Pennsylvania | 4,000 |
-| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,803 |
+| 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi | Plymouth | 3,828 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,405 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth | 957 |
 | 5 | [gjbauer](https://github.com/gjbauer) |  | Plymouth, NH | 763 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-12T07:27:10.295Z
+Generated: 2026-10-12T08:32:13.333Z

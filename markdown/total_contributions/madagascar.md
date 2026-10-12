@@ -1,13 +1,13 @@
 # Total Contributions - Madagascar
 
-Generated: 2026-10-12T07:20:54.658Z
+Generated: 2026-10-12T08:26:44.174Z
 
 Users: 1906
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 15245 |
-| 2 | [marioshaya](https://github.com/marioshaya) | SHAYA Mario |  | marioshaya | Antananarivo, Madagascar | 14886 |
+| 1 | [marioshaya](https://github.com/marioshaya) | Mario SHAYA |  | marioshaya | Antananarivo, Madagascar | 15673 |
+| 2 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Paneramg, Mgcodeur | mgcodeur | Madagascar | 15245 |
 | 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  |  |  | Madagascar | 14715 |
 | 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Freelance |  | Antananarivo, Madagascar | 14427 |
 | 5 | [elsycharles](https://github.com/elsycharles) | Elsy | IT University |  | Madagascar | 10457 |

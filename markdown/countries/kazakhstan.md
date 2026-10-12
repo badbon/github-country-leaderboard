@@ -27,11 +27,11 @@ Indexed users: 5,662
 | 13 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Kazakhstan | 10,505 |
 | 14 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | Kazakhstan | 10,357 |
 | 15 | [neokofg](https://github.com/neokofg) | neoko | Almaty, Kazakhstan | 9,093 |
-| 16 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
-| 17 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
-| 18 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
-| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
-| 20 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov | Almaty, Kazakhstan | 7,925 |
+| 16 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Astana, Kazakhstan | 8,486 |
+| 17 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Kazakhstan | 8,323 |
+| 18 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | Astana | 8,307 |
+| 19 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Kazakhstan, Astana | 8,236 |
+| 20 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov | Astana, KZ | 8,145 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,662
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-12T07:18:09.844Z
+Generated: 2026-10-12T08:23:48.756Z

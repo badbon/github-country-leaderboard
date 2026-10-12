@@ -1,6 +1,6 @@
 # Followers - Malawi
 
-Generated: 2026-10-12T07:20:57.802Z
+Generated: 2026-10-12T08:26:49.611Z
 
 Users: 900
 
@@ -9,7 +9,7 @@ Users: 900
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | @Accurate-Cyber-Defense ☠️🏴‍☠️ | Iankulani | Mzimba, Malawi | 2649 |
 | 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  |  |  Malawi | 1439 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom |  |  | Blantyre , Malawi | 768 |
-| 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | @HashTag-Technologies-Limited  | Marhardal | Lilongwe Malaŵi  | 562 |
+| 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | @HashTag-Technologies-Limited  | Marhardal | Lilongwe Malaŵi  | 564 |
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 483 |
 | 6 | [Cardkess-SG](https://github.com/Cardkess-SG) | Blessings Chidambe |  |  | Blantyre, MALAWI | 368 |
 | 7 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 304 |

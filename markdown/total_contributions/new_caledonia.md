@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-12T07:28:48.750Z
+Generated: 2026-10-12T08:34:02.436Z
 
 Users: 111
 
@@ -17,12 +17,12 @@ Users: 111
 | 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1265 |
 | 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1206 |
 | 11 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1197 |
-| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet |  |  | Nouméa, New Caledonia | 879 |
+| 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet |  |  | Nouméa, New Caledonia | 886 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | Gouvernement de la Nouvelle-Calédonie |  | New-Caledonia | 727 |
 | 14 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 714 |
-| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 711 |
+| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 712 |
 | 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 637 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 601 |
 | 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 522 |
-| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 492 |
+| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 498 |
 | 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 463 |

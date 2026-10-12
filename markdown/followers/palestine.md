@@ -1,6 +1,6 @@
 # Followers - Palestine
 
-Generated: 2026-10-12T07:31:06.686Z
+Generated: 2026-10-12T08:37:27.400Z
 
 Users: 2203
 
@@ -9,7 +9,7 @@ Users: 2203
 | 1 | [shadeed](https://github.com/shadeed) | Ahmad Shadeed |  | shadeed9 | Tulkarm, Palestine | 1838 |
 | 2 | [LaithGhnemat12302](https://github.com/LaithGhnemat12302) | Laith Ghnemat | Student at BZU |  | Palestine-Ramallah-Kufor-Malik | 498 |
 | 3 | [msafadi](https://github.com/msafadi) | Mohammed Safadi |  | msafadi | Gaza, Palestine | 488 |
-| 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 228 |
+| 4 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 257 |
 | 5 | [MariamHasanat](https://github.com/MariamHasanat) | Mariam Hasanat |  |  | Dura, Palestine  | 218 |
 | 6 | [hayasam](https://github.com/hayasam) | Haya Samaana | An Najah National University |  | Palestine | 216 |
 | 7 | [ibrahim-sisar](https://github.com/ibrahim-sisar) | ibrahim abu al roos |  |  | Gaza,Palestine | 209 |
@@ -17,7 +17,7 @@ Users: 2203
 | 9 | [mohammed-naji](https://github.com/mohammed-naji) | Mohammed Naji |  | mohnaji94 | Palestine / Gaza | 177 |
 | 10 | [hetslop](https://github.com/hetslop) | lance | bestfriends!! @bratworth @thefruitgrape @inmycomfortzone @evtjvashtsmartin @AdorableCattyy @milkiiwayz @kromakon |  | https://arab.org/click-to-help/palestine/ | 175 |
 | 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Foothill Technology Solutions, LLC |  | Jenin, Palestine | 174 |
-| 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | @Apple |  | Jenin, Palestine | 170 |
+| 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | @Apple |  | Jenin, Palestine | 168 |
 | 13 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Freelance |  | Al Quds, Palestine | 165 |
 | 14 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Upwork |  | Ramallah,Palestine | 165 |
 | 15 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | @elastic | AhmadBamieh | Palestine | 152 |

@@ -1,6 +1,6 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-12T07:18:05.946Z
+Generated: 2026-10-12T08:23:43.217Z
 
 Users: 4018
 
@@ -23,6 +23,6 @@ Users: 4018
 | 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5181 |
 | 16 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
 | 17 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
-| 18 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |
-| 19 | [shwawra](https://github.com/shwawra) | Shwawra | Theta Technologies |  | Jordan | 4519 |
-| 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi |  | omardulaimidev | Jordan | 4515 |
+| 18 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Viero |  | Amman, Jordan | 4810 |
+| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |
+| 20 | [shwawra](https://github.com/shwawra) | Shwawra | Theta Technologies |  | Jordan | 4519 |

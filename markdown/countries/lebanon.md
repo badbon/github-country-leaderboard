@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,575
+Indexed users: 2,574
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 2,575
 | 19 | [GaroK01](https://github.com/GaroK01) | Garo Kalfayan | Lebanon | 104 |
 | 20 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 
-Generated: 2026-10-12T07:18:49.460Z
+Generated: 2026-10-12T08:24:22.772Z

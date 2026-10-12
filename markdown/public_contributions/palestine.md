@@ -1,12 +1,12 @@
 # Public Contributions - Palestine
 
-Generated: 2026-10-12T07:31:06.686Z
+Generated: 2026-10-12T08:37:27.400Z
 
 Users: 2203
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 3974 |
+| 1 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 6937 |
 | 2 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 2199 |
 | 3 | [Ayaalmadhon2004](https://github.com/Ayaalmadhon2004) | Aya almadhon |  |  | Palestine | 1621 |
 | 4 | [Tojan-Naiem](https://github.com/Tojan-Naiem) | Tojan |  |  | Palestine | 1562 |

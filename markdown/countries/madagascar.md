@@ -12,8 +12,8 @@ Indexed users: 1,906
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Madagascar | 15,245 |
-| 2 | [marioshaya](https://github.com/marioshaya) | SHAYA Mario | Antananarivo, Madagascar | 14,886 |
+| 1 | [marioshaya](https://github.com/marioshaya) | Mario SHAYA | Antananarivo, Madagascar | 15,673 |
+| 2 | [mgcodeur](https://github.com/mgcodeur) | Jimmy Raphaël (Iharena) | Madagascar | 15,245 |
 | 3 | [rajostelly](https://github.com/rajostelly) | RANDRIATSEHENO Rajo Stelly  | Madagascar | 14,715 |
 | 4 | [tiavina-mika](https://github.com/tiavina-mika) | Tiavina Michael Ralainirina | Antananarivo, Madagascar | 14,427 |
 | 5 | [elsycharles](https://github.com/elsycharles) | Elsy | Madagascar | 10,457 |
@@ -83,4 +83,4 @@ Indexed users: 1,906
 | 19 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Toamasina, Madagascar | 144 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-12T07:20:54.658Z
+Generated: 2026-10-12T08:26:44.174Z

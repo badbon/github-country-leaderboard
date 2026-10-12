@@ -17,7 +17,7 @@ Indexed users: 209
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,338 |
 | 4 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,951 |
 | 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,103 |
-| 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,514 |
+| 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,436 |
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,380 |
 | 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,161 |
@@ -37,7 +37,7 @@ Indexed users: 209
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,514 |
+| 1 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 2 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 3 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 734 |
 | 4 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 718 |
@@ -79,8 +79,8 @@ Indexed users: 209
 | 15 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 25 |
 | 16 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 25 |
 | 17 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | West Africa, Liberia | 24 |
-| 18 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 24 |
+| 18 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 23 |
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-12T07:19:26.713Z
+Generated: 2026-10-12T08:25:02.077Z

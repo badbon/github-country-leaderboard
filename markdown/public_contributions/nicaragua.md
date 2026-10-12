@@ -1,8 +1,8 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-12T07:28:55.472Z
+Generated: 2026-10-12T08:34:13.023Z
 
-Users: 1396
+Users: 1395
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 1396
 | 13 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1037 |
 | 14 | [R0LM0](https://github.com/R0LM0) | r0lm0 | None | r0lm0 | Managua, Nicaragua | 1027 |
 | 15 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 987 |
-| 16 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 895 |
-| 17 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 894 |
-| 18 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez |  |  | Leon, Nicaragua | 876 |
-| 19 | [xangcastle](https://github.com/xangcastle) | Cesar Abel |  |  | Nicaragua | 845 |
-| 20 | [bradlygutierrez](https://github.com/bradlygutierrez) | Bradly Gutierrez |  |  | Nicaragua | 759 |
+| 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 967 |
+| 17 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 895 |
+| 18 | [Gaboxqc](https://github.com/Gaboxqc) | Gabriel Mayorga | MortaCorp |  | Managua | 894 |
+| 19 | [Alvinferdeveloper](https://github.com/Alvinferdeveloper) | Albin Fernandez |  |  | Leon, Nicaragua | 876 |
+| 20 | [xangcastle](https://github.com/xangcastle) | Cesar Abel |  |  | Nicaragua | 845 |

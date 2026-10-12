@@ -1,8 +1,8 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-12T07:28:55.472Z
+Generated: 2026-10-12T08:34:13.023Z
 
-Users: 1396
+Users: 1395
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 1396
 | 6 | [ahjavier](https://github.com/ahjavier) | Javier Alvarez | Telnyx |  | Nicaragua | 7123 |
 | 7 | [josetorres1](https://github.com/josetorres1) | José Torres |  |  | Managua, Nicaragua | 5340 |
 | 8 | [slzno](https://github.com/slzno) | Luis Solorzano | Homeflow Technologies | SlznoLudav | León, Nicaragua | 4946 |
-| 9 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4398 |
-| 10 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 4103 |
-| 11 | [degomon](https://github.com/degomon) | Denis González |  | degomondev | Nicaragua | 4085 |
-| 12 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |
-| 13 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3641 |
-| 14 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno |  |  | NIcaragua | 3624 |
-| 15 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 3606 |
-| 16 | [kenetpicado](https://github.com/kenetpicado) | Kenet |  | kenetphp | León, Nicaragua | 3460 |
-| 17 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3407 |
+| 9 | [marcosmamg](https://github.com/marcosmamg) | Marcos Moreno |  |  | NIcaragua | 4498 |
+| 10 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 4398 |
+| 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 4103 |
+| 12 | [degomon](https://github.com/degomon) | Denis González |  | degomondev | Nicaragua | 4085 |
+| 13 | [fabmnt](https://github.com/fabmnt) | Fabián Montoya | Dentalrobot | fabmnt_ | Nicaragua | 3723 |
+| 14 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 3655 |
+| 15 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | @mcnallydev  |  | Mangua, Nicaragua | 3641 |
+| 16 | [alfchee](https://github.com/alfchee) | Alfchee |  |  | Nicaragua | 3606 |
+| 17 | [kenetpicado](https://github.com/kenetpicado) | Kenet |  | kenetphp | León, Nicaragua | 3460 |
 | 18 | [edycarreyes99](https://github.com/edycarreyes99) | Edycar Reyes |  | edycarreyes99 | Nicaragua | 3355 |
 | 19 | [eatorres510](https://github.com/eatorres510) | Erick Alexander Torres Prado |  |  | Nicaragua | 3325 |
 | 20 | [ElVatoEste](https://github.com/ElVatoEste) | VatoDev | @EscaliaTech  |  | Nicaragua | 3263 |

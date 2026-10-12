@@ -1,6 +1,6 @@
 # Total Contributions - Kazakhstan
 
-Generated: 2026-10-12T07:18:09.844Z
+Generated: 2026-10-12T08:23:48.756Z
 
 Users: 5662
 
@@ -21,8 +21,8 @@ Users: 5662
 | 13 | [yelmuratoff](https://github.com/yelmuratoff) | Yelaman Yelmurat | Astana Hub |  | Kazakhstan | 10505 |
 | 14 | [Mukhambetov](https://github.com/Mukhambetov) | Sagyndyk Mukhambetov | @khangroupkz  |  | Kazakhstan | 10357 |
 | 15 | [neokofg](https://github.com/neokofg) | neoko |  |  | Almaty, Kazakhstan | 9093 |
-| 16 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Ozon |  | Kazakhstan | 8323 |
-| 17 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |
-| 18 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Higgsfield AI |  | Kazakhstan, Astana | 8236 |
-| 19 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 8145 |
-| 20 | [jmelnikov](https://github.com/jmelnikov) | Yuriy Melnikov |  |  | Almaty, Kazakhstan | 7925 |
+| 16 | [MisterAlenExe](https://github.com/MisterAlenExe) | Alen Sultanov | Higgsfield AI |  | Astana, Kazakhstan | 8486 |
+| 17 | [shprotx](https://github.com/shprotx) | Arturka Arturka | Ozon |  | Kazakhstan | 8323 |
+| 18 | [Lyamon4](https://github.com/Lyamon4) | alim the coder | @neuralese |  | Astana | 8307 |
+| 19 | [Dias1c](https://github.com/Dias1c) | Dias Kappassov | Higgsfield AI |  | Kazakhstan, Astana | 8236 |
+| 20 | [aa-blinov](https://github.com/aa-blinov) | aa-blinov |  |  | Astana, KZ | 8145 |

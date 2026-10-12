@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-12T07:31:06.686Z
+Generated: 2026-10-12T08:37:27.400Z
 
 Users: 2203
 
@@ -12,16 +12,16 @@ Users: 2203
 | 4 | [FALKONPS](https://github.com/FALKONPS) | FALKON.PS |  |  | Palestine | 11579 |
 | 5 | [ibrahimhajjaj](https://github.com/ibrahimhajjaj) | Ibrahim Hajjaj | Verdelic |  | Palestine | 8066 |
 | 6 | [Walaa-Volidis](https://github.com/Walaa-Volidis) |  |  |  | Palestine | 7546 |
-| 7 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 6969 |
-| 8 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
-| 9 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 5781 |
-| 10 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5505 |
-| 11 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
-| 12 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 5336 |
-| 13 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
-| 14 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
-| 15 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |
-| 16 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 4081 |
+| 7 | [izadoesdev](https://github.com/izadoesdev) | iza | Databuddy | izadoesdev | Palestine | 7373 |
+| 8 | [RandaZraik](https://github.com/RandaZraik) | Randa | @FoothillSolutions |  | Nablus, Palestine | 6969 |
+| 9 | [1210395](https://github.com/1210395) | Jadallah  | BZU |  | Ramallah | 6823 |
+| 10 | [AbdulsalamMansour](https://github.com/AbdulsalamMansour) | Abdulsalam Mansour | LogesTechs |  | Palestine | 5781 |
+| 11 | [AhmedMElhalaby](https://github.com/AhmedMElhalaby) | Ahmed M. Elhalaby |  | AhmedMElhalaby | Palestine, Gaza, Remal, khdeer Tower , 5th floor | 5505 |
+| 12 | [moustff](https://github.com/moustff) | Mustafa Salem | NADSOFT |  | Gaza, Palestine. | 5401 |
+| 13 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 5336 |
+| 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
+| 15 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
+| 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |
 | 17 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
 | 18 | [Hanna-Hinn](https://github.com/Hanna-Hinn) | Hanna-Hinn |  | Hannahinn021 | Palestine - Ramallah | 3383 |
 | 19 | [AbdQaddora](https://github.com/AbdQaddora) | abd qaddora |  | Abdqaddora1 | Palestine | 3378 |
