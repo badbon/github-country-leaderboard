@@ -207828,18 +207828,6 @@
     "createdAt": "2022-09-21T09:53:34Z"
   },
   {
-    "login": "beyuneek",
-    "name": "Parth Sharma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113319598?s=72&u=a519648637b28112eeacc946fc348c7cec10c1ec&v=4",
-    "location": "Toronto, Canada ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 8,
-    "createdAt": "2022-09-12T01:09:14Z"
-  },
-  {
     "login": "Youngwook-Go",
     "name": "Youngwook Go",
     "avatarUrl": "https://avatars.githubusercontent.com/u/113055584?s=72&u=59ebef6badcb3971d05bc4c2e03655c3d699d3cf&v=4",
@@ -221422,18 +221410,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-17T08:17:46Z"
-  },
-  {
-    "login": "MuditSomra",
-    "name": "Mudit Somra",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113372073?s=72&v=4",
-    "location": "Calgary",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 476,
-    "createdAt": "2022-09-12T15:51:48Z"
   },
   {
     "login": "Zhai790",
@@ -1354927,7 +1354903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 21880,
+    "privateContributions": 21886,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1371872,7 +1371848,7 @@
     "twitterUsername": "LaiskyCai",
     "followers": 400,
     "privateContributions": 724,
-    "publicContributions": 2460,
+    "publicContributions": 2487,
     "createdAt": "2013-05-26T12:04:17Z"
   },
   {
@@ -1424863,7 +1424839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 162,
-    "privateContributions": 344,
+    "privateContributions": 345,
     "publicContributions": 250,
     "createdAt": "2013-05-23T10:31:14Z"
   },

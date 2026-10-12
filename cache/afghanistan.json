@@ -16770,7 +16770,7 @@
     "location": "Afghanistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2016-12-12T09:21:17Z"
@@ -16822,18 +16822,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2016-02-16T10:38:06Z"
-  },
-  {
-    "login": "Qk-Ahmadzai",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/18209310?s=72&u=3d8020b31b0a403808bc769aaf506503b046d5c7&v=4",
-    "location": "Kabul, Afghanistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 71,
-    "createdAt": "2016-04-01T08:56:54Z"
   },
   {
     "login": "Arkitecton",
@@ -16897,14 +16885,14 @@
   },
   {
     "login": "romalfaizyar",
-    "name": "",
+    "name": "Romal Faizyar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/21338794?s=72&v=4",
     "location": "Kabul, Afghanistan",
-    "company": "",
+    "company": "Panda ICT",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2016-08-30T13:53:31Z"
   },
   {
@@ -16950,8 +16938,8 @@
     "location": "Kabul",
     "company": "MCIT",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 159,
+    "followers": 13,
+    "privateContributions": 184,
     "publicContributions": 38,
     "createdAt": "2016-09-21T18:29:17Z"
   },
@@ -16962,9 +16950,9 @@
     "location": "Kabul",
     "company": "Rana University",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 119,
     "createdAt": "2016-07-21T13:56:19Z"
   },
   {
@@ -16974,9 +16962,9 @@
     "location": "Kabul",
     "company": "MoreSystems.org",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 54,
     "createdAt": "2016-06-01T05:32:18Z"
   },
   {
@@ -16987,7 +16975,7 @@
     "company": "https://sabzak.tech/",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 968,
+    "privateContributions": 1221,
     "publicContributions": 0,
     "createdAt": "2015-04-12T15:44:24Z"
   },

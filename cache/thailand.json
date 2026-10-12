@@ -16460,7 +16460,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 70,
     "createdAt": "2024-02-02T15:10:58Z"
   },
   {
@@ -16472,7 +16472,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 132,
     "createdAt": "2024-06-16T10:10:31Z"
   },
   {
@@ -16483,8 +16483,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 32,
-    "publicContributions": 15,
+    "privateContributions": 57,
+    "publicContributions": 16,
     "createdAt": "2024-05-30T03:12:34Z"
   },
   {
@@ -16496,7 +16496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 379,
+    "publicContributions": 363,
     "createdAt": "2024-03-25T04:48:25Z"
   },
   {
@@ -16508,7 +16508,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 38,
     "createdAt": "2024-07-21T03:40:39Z"
   },
   {
@@ -16518,7 +16518,7 @@
     "location": "Phayathai, Bangkok",
     "company": "MIMO Tech Co., Ltd.",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-03T04:33:37Z"
@@ -16531,7 +16531,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 790,
+    "privateContributions": 1268,
     "publicContributions": 7,
     "createdAt": "2024-03-08T08:03:16Z"
   },
@@ -16544,43 +16544,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 21,
     "createdAt": "2024-03-29T05:33:43Z"
-  },
-  {
-    "login": "kochityeaung",
-    "name": "Chit Ye Aung (J)",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171648550?s=72&u=f49028864828d13e191cdfb75b50e69d07ff41ac&v=4",
-    "location": "Bangkok",
-    "company": "Num Eiang",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2024-06-04T04:06:01Z"
-  },
-  {
-    "login": "JaoShiGitHub",
-    "name": "OSHIN  |  おしん ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158509127?s=72&u=8a5015995ebf625b4063301c6b533c33656cbaff&v=4",
-    "location": "BANGKOK",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 11,
-    "createdAt": "2024-02-01T18:37:07Z"
   },
   {
     "login": "HapooIsLuv",
     "name": "hapooisluv",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/166941625?s=72&u=a93f1fc24e40edd17edf94c8fc5bf963f47a2f4a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/166941625?s=72&u=e8685f3ae650c4e87e9ab3fadbe07aa93ac04783&v=4",
     "location": "Bangkok",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 4,
-    "publicContributions": 19,
+    "privateContributions": 8,
+    "publicContributions": 25,
     "createdAt": "2024-04-13T16:47:30Z"
   },
   {
@@ -16592,7 +16568,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 20,
     "createdAt": "2024-02-18T15:55:16Z"
   },
   {
@@ -16603,20 +16579,20 @@
     "company": "King Mongkut's Institute of Technology Ladkrabang",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 134,
+    "privateContributions": 5,
+    "publicContributions": 49,
     "createdAt": "2024-09-17T10:29:00Z"
   },
   {
     "login": "KKimSoulz",
     "name": "Saksit Chokchai",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179441426?s=72&u=b41a06ed435ac3a60b22b845e67b280aae0ebe83&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179441426?s=72&u=7ef3fa9b78298c2528bb237b3422c353328fafcb&v=4",
     "location": "8/1 SaSa Place Project, Borommaratchachonnani Rd, Sala Thammasop, Thawi Watthana, Bangkok 10170",
     "company": "MULTI INNOVATIONS HEALTHCARE CO., LTD. ",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 19,
     "createdAt": "2024-08-26T07:29:11Z"
   },
   {
@@ -16628,7 +16604,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 20,
     "createdAt": "2024-03-29T05:37:22Z"
   },
   {
@@ -16663,7 +16639,7 @@
     "company": "do not have",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 60,
+    "privateContributions": 40,
     "publicContributions": 0,
     "createdAt": "2024-02-01T19:46:11Z"
   },
@@ -16675,7 +16651,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 94,
+    "privateContributions": 78,
     "publicContributions": 3,
     "createdAt": "2024-10-09T12:31:08Z"
   },

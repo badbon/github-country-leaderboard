@@ -16724,7 +16724,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 3,
     "createdAt": "2023-09-26T08:10:29Z"
   },
   {
@@ -16732,11 +16732,11 @@
     "name": "Eldar Hasanli",
     "avatarUrl": "https://avatars.githubusercontent.com/u/151502641?s=72&u=8407e8591a0edf360808d5e3b9022a95a3a2b09d&v=4",
     "location": "Baku",
-    "company": "Azerbaijan Airlines",
-    "twitterUsername": "",
+    "company": "Andersen Lab",
+    "twitterUsername": "eldarhasanly",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 57,
     "createdAt": "2023-11-20T06:48:16Z"
   },
   {
@@ -16747,8 +16747,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 40,
-    "publicContributions": 209,
+    "privateContributions": 54,
+    "publicContributions": 192,
     "createdAt": "2023-07-28T06:26:44Z"
   },
   {
@@ -16759,7 +16759,7 @@
     "company": "R",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 74,
+    "privateContributions": 7,
     "publicContributions": 15,
     "createdAt": "2023-02-03T21:12:04Z"
   },
@@ -16782,22 +16782,10 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 2,
+    "followers": 3,
+    "privateContributions": 477,
+    "publicContributions": 0,
     "createdAt": "2023-11-11T13:22:58Z"
-  },
-  {
-    "login": "kha0sk1ng",
-    "name": "Kha0sK1ng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/129691125?s=72&u=20bf1219e63649f5fb9ad1997d42016e49633dde&v=4",
-    "location": "Baku",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 309,
-    "publicContributions": 99,
-    "createdAt": "2023-04-02T19:43:01Z"
   },
   {
     "login": "resul4bdul",
@@ -16819,7 +16807,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 41,
+    "privateContributions": 36,
     "publicContributions": 5,
     "createdAt": "2023-04-23T09:37:25Z"
   },
@@ -16855,7 +16843,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 24,
+    "privateContributions": 22,
     "publicContributions": 1,
     "createdAt": "2023-02-04T13:25:42Z"
   },
@@ -16878,7 +16866,7 @@
     "location": "Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-13T19:25:21Z"
@@ -16927,8 +16915,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 7,
-    "publicContributions": 74,
+    "privateContributions": 5,
+    "publicContributions": 72,
     "createdAt": "2023-04-24T20:44:09Z"
   },
   {

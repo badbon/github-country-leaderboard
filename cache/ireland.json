@@ -16614,9 +16614,9 @@
     "location": "Wicklow, Ireland",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 290,
+    "followers": 3,
+    "privateContributions": 17,
+    "publicContributions": 291,
     "createdAt": "2023-05-29T16:26:18Z"
   },
   {
@@ -16628,7 +16628,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 280,
+    "publicContributions": 336,
     "createdAt": "2023-09-24T22:13:45Z"
   },
   {
@@ -16651,21 +16651,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 173,
-    "publicContributions": 293,
+    "privateContributions": 155,
+    "publicContributions": 265,
     "createdAt": "2023-12-18T12:41:12Z"
-  },
-  {
-    "login": "royzheng0904",
-    "name": "Roy Zheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154633763?s=72&u=d8f79482ab3d4d2cc7324e9908e788ca2e090688&v=4",
-    "location": "Dublin, Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 115,
-    "publicContributions": 42,
-    "createdAt": "2023-12-22T20:19:43Z"
   },
   {
     "login": "nazarisamaneh",
@@ -16674,7 +16662,7 @@
     "location": "Dublin, Ireland",
     "company": "Aerlytix",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-04T10:26:30Z"
@@ -16688,7 +16676,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 84,
     "createdAt": "2023-12-01T19:41:33Z"
   },
   {
@@ -16734,7 +16722,7 @@
     "location": "Maynooth, Ireland",
     "company": "National University of Ireland",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2023-12-07T12:30:21Z"
@@ -16748,7 +16736,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 22,
     "createdAt": "2023-10-11T05:19:10Z"
   },
   {
@@ -16760,7 +16748,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 51,
     "createdAt": "2023-06-08T13:19:28Z"
   },
   {
@@ -16772,7 +16760,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 20,
     "createdAt": "2023-12-13T22:58:19Z"
   },
   {
@@ -16788,18 +16776,6 @@
     "createdAt": "2023-11-06T13:26:37Z"
   },
   {
-    "login": "Tommy-Vercetty",
-    "name": "Enrico Ortenzi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146434267?s=72&u=d679648b3a17f9d67c9b01e606aaf069540f9da7&v=4",
-    "location": "Ireland",
-    "company": "Vice City",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 51,
-    "createdAt": "2023-09-29T10:11:24Z"
-  },
-  {
     "login": "Tadhug56",
     "name": "Tadhg Mulvey",
     "avatarUrl": "https://avatars.githubusercontent.com/u/124158044?s=72&u=897289357f4377ddf8277fbf28b173b348d3920a&v=4",
@@ -16807,8 +16783,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 176,
-    "publicContributions": 2,
+    "privateContributions": 116,
+    "publicContributions": 14,
     "createdAt": "2023-02-01T12:12:13Z"
   },
   {
@@ -16832,7 +16808,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 435,
+    "publicContributions": 398,
     "createdAt": "2023-03-09T13:25:34Z"
   },
   {
@@ -16843,7 +16819,7 @@
     "company": "@Realtra ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 82,
+    "privateContributions": 104,
     "publicContributions": 0,
     "createdAt": "2023-10-12T07:50:03Z"
   },

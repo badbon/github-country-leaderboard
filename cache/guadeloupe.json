@@ -283,7 +283,7 @@
     "company": "Freelance",
     "twitterUsername": "DarmaJoachim",
     "followers": 3,
-    "privateContributions": 3154,
+    "privateContributions": 3160,
     "publicContributions": 28,
     "createdAt": "2022-05-13T15:02:45Z"
   },
@@ -307,7 +307,7 @@
     "company": "Blockchain Xpert Solutions",
     "twitterUsername": "lionel_limol",
     "followers": 74,
-    "privateContributions": 272,
+    "privateContributions": 277,
     "publicContributions": 664,
     "createdAt": "2021-06-16T20:16:02Z"
   },
@@ -322,18 +322,6 @@
     "privateContributions": 1,
     "publicContributions": 55,
     "createdAt": "2021-10-05T14:30:49Z"
-  },
-  {
-    "login": "L-Dev31",
-    "name": "Léo TOSKU",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86838693?s=72&u=49a01cb1761a880033743a01d428199fc03ee1ed&v=4",
-    "location": "Guadeloupe",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 119,
-    "publicContributions": 488,
-    "createdAt": "2021-07-02T13:20:27Z"
   },
   {
     "login": "AlbertKloster",

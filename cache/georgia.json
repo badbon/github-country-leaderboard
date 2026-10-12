@@ -16902,8 +16902,8 @@
     "location": "Tbilisi, Georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 38,
+    "followers": 3,
+    "privateContributions": 50,
     "publicContributions": 1,
     "createdAt": "2022-01-15T18:52:45Z"
   },
@@ -16916,7 +16916,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 6,
     "createdAt": "2022-07-15T18:39:14Z"
   },
   {
@@ -16928,7 +16928,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 50,
     "createdAt": "2022-02-03T04:11:49Z"
   },
   {
@@ -16994,13 +16994,13 @@
   {
     "login": "joxmode",
     "name": "jox",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114237441?s=72&u=b5439ed5da31493b445970e982b2c7c4614c1d23&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114237441?s=72&u=e8496fb17831db6b35e76ccc6ce4bf710dbea49d&v=4",
     "location": "georgia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 8,
     "createdAt": "2022-09-23T13:13:16Z"
   },
   {
@@ -17024,20 +17024,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 2,
     "createdAt": "2022-10-31T18:53:01Z"
-  },
-  {
-    "login": "KortesKnight",
-    "name": "Aleksandr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/108358595?s=72&u=f5ed2cf796eeec99e700fa629d28ba466bcb0238&v=4",
-    "location": "Georgia",
-    "company": "Zelkom LLC",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 0,
-    "createdAt": "2022-06-28T16:38:36Z"
   },
   {
     "login": "JadeZinHarris",
@@ -17083,7 +17071,7 @@
     "company": "",
     "twitterUsername": "Sabby1326",
     "followers": 2,
-    "privateContributions": 180,
+    "privateContributions": 1003,
     "publicContributions": 15,
     "createdAt": "2022-11-16T09:57:09Z"
   },

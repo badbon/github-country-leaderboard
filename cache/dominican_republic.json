@@ -16880,7 +16880,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 3,
-    "publicContributions": 31,
+    "publicContributions": 35,
     "createdAt": "2020-01-10T06:23:00Z"
   },
   {
@@ -16891,8 +16891,8 @@
     "company": "Renotec Soluciones",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 963,
-    "publicContributions": 13,
+    "privateContributions": 1783,
+    "publicContributions": 11,
     "createdAt": "2020-03-20T11:54:33Z"
   },
   {
@@ -16902,9 +16902,9 @@
     "location": "Santo Domingo",
     "company": "@eogsoft",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 31,
     "createdAt": "2020-06-27T18:22:27Z"
   },
   {
@@ -16950,9 +16950,9 @@
     "location": "Santo Domingo Este / República Dominicana",
     "company": "ITLA",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 3,
     "createdAt": "2020-11-29T00:36:43Z"
   },
   {
@@ -16988,7 +16988,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 28,
     "createdAt": "2020-11-16T13:29:50Z"
   },
   {
@@ -17000,7 +17000,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 529,
+    "publicContributions": 562,
     "createdAt": "2020-06-13T03:52:20Z"
   },
   {
@@ -17029,7 +17029,7 @@
   },
   {
     "login": "Yanugod",
-    "name": "Yanuel",
+    "name": "Yanuel A.",
     "avatarUrl": "https://avatars.githubusercontent.com/u/73754459?s=72&u=09a59da65d5a7e2402fcda0910071f4fabb3f5f4&v=4",
     "location": "Distrito Nacional, Santo Domingo",
     "company": "",
@@ -17046,7 +17046,7 @@
     "location": "Santo Domingo",
     "company": "Frontend Developer",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 11,
     "publicContributions": 4,
     "createdAt": "2020-05-26T04:56:57Z"
@@ -17058,8 +17058,8 @@
     "location": "Santo Domingo Este",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 7,
+    "followers": 3,
+    "privateContributions": 22,
     "publicContributions": 2,
     "createdAt": "2020-05-11T16:38:24Z"
   },
