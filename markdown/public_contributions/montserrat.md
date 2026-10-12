@@ -1,6 +1,6 @@
 # Public Contributions - Montserrat
 
-Generated: 2026-10-11T23:12:01.494Z
+Generated: 2026-10-12T00:12:36.067Z
 
 Users: 291
 
@@ -10,7 +10,7 @@ Users: 291
 | 2 | [albemontors](https://github.com/albemontors) | Alberto Montorsi |  |  | Plymouth | 3803 |
 | 3 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn |  |  | Plymouth | 1405 |
 | 4 | [robertjwilson](https://github.com/robertjwilson) | Robert Wilson | Plymouth Marine Laboratory |  | Plymouth | 957 |
-| 5 | [gjbauer](https://github.com/gjbauer) |  |  |  | Plymouth, NH | 786 |
+| 5 | [gjbauer](https://github.com/gjbauer) |  |  |  | Plymouth, NH | 763 |
 | 6 | [jaydreyer](https://github.com/jaydreyer) | Jay Dreyer |  |  | Plymouth, MN | 703 |
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Infinite-scope.com |  | Plymouth, Ma | 678 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | @ucrisko  |  | Plymouth, MI | 516 |

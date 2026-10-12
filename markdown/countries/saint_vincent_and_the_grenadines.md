@@ -20,8 +20,8 @@ Indexed users: 26
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman | North Kingstown, Rhode Island | 159 |
 | 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans | Saint Vincent and the Grenadines | 40 |
 | 8 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 25 |
-| 9 | [Richardson-Rayshorn](https://github.com/Richardson-Rayshorn) | Rayshorn Richardson | Saint Vincent and the Grenadines | 8 |
-| 10 | [Tomrish](https://github.com/Tomrish) | Tom Rishworth | North Kingstown, RI | 5 |
+| 9 | [Richardson-Rayshorn](https://github.com/Richardson-Rayshorn) | Rayshorn Richardson | Saint Vincent and the Grenadines | 5 |
+| 10 | [Tomrish](https://github.com/Tomrish) | Tom Rishworth | North Kingstown, RI | 3 |
 | 11 | [lihadaway](https://github.com/lihadaway) | Leslie | Saint Vincent and the Grenadines | 1 |
 | 12 | [pepperseed](https://github.com/pepperseed) | Hariet Caine | Kingstown VC | 1 |
 | 13 | [95Tarek784](https://github.com/95Tarek784) | Tarek Ollivierre | Kingstown, Saint Vincent  & The Grenadines | 0 |
@@ -83,4 +83,4 @@ Indexed users: 26
 | 19 | [95Tarek784](https://github.com/95Tarek784) | Tarek Ollivierre | Kingstown, Saint Vincent  & The Grenadines | 1 |
 | 20 | [dellon28](https://github.com/dellon28) | Dellonte Boucher | Saint Vincent and the Grenadines | 1 |
 
-Generated: 2026-10-11T23:22:13.351Z
+Generated: 2026-10-12T00:21:40.443Z

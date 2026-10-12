@@ -1,6 +1,6 @@
 # Total Contributions - Nepal
 
-Generated: 2026-10-11T23:13:34.592Z
+Generated: 2026-10-12T00:14:47.376Z
 
 Users: 14135
 
@@ -19,7 +19,7 @@ Users: 14135
 | 11 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) |  |  | Jayabageshowri,Kathmandu,Nepal. | 11532 |
 | 12 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Chill |  | Gothgaun, Nepal | 11503 |
 | 13 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  | Baliyo Technologies |  |  New Baneshwor, Kathmandu, Nepal | 11452 |
-| 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | @dizpair | Utsabpanday | Kathmandu | 11441 |
+| 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | @dizpair | Utsabpanday | Kathmandu | 11440 |
 | 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA |  |  | Nepal | 10737 |
 | 16 | [pramodlaha08](https://github.com/pramodlaha08) | Pramod Laha |  |  | Nepal | 10247 |
 | 17 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Teispace | iamkrishnaa_ | Pokhara, Nepal | 10230 |

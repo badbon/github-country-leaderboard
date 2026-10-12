@@ -1,13 +1,13 @@
 # Public Contributions - Samoa
 
-Generated: 2026-10-11T23:22:15.943Z
+Generated: 2026-10-12T00:22:17.794Z
 
 Users: 19
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Synergy Blockchain Pacific Limited | Hamobcdev | Samoa | 944 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 220 |
+| 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Synergy Blockchain Pacific Limited | Hamobcdev | Samoa | 983 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | madman.com | arctips | Apia, Samoa | 217 |
 | 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | SPREP |  | Samoa | 105 |
 | 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Hamotech Solutions |  | Apia Samoa | 93 |
 | 5 | [iwtem](https://github.com/iwtem) | Iwtem | American |  | Samoa | 75 |

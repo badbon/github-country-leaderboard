@@ -1,6 +1,6 @@
 # Followers - Niger
 
-Generated: 2026-10-11T23:13:48.964Z
+Generated: 2026-10-12T00:16:17.368Z
 
 Users: 176
 
@@ -16,7 +16,7 @@ Users: 176
 | 8 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu |  |  | Niger | 31 |
 | 9 | [bkina1](https://github.com/bkina1) | Boubacar Kina |  | KinaBoubacar | Niger | 30 |
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | @Profiteroles |  | Niamey , Niger | 30 |
-| 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | @Acacurs | ab3masta | Niamey-Niger | 29 |
+| 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | @Acacurs | ab3masta | Niamey-Niger | 28 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Codeloccol | TrakyRichard | Niger | 27 |
 | 13 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Sahel Coders | wourichouf | Niamey | 23 |
 | 14 | [sn115426](https://github.com/sn115426) | sn01 | Atlas |  | niger | 23 |

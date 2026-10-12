@@ -1,6 +1,6 @@
 # Total Contributions - Romania
 
-Generated: 2026-10-11T23:20:45.735Z
+Generated: 2026-10-12T00:20:32.617Z
 
 Users: 14989
 
@@ -25,4 +25,4 @@ Users: 14989
 | 17 | [mercer](https://github.com/mercer) | Emilian Losneanu | @uipath |  | Bucharest, Romania | 11174 |
 | 18 | [afurculita](https://github.com/afurculita) | Alexandru Furculita |  | afurculita | Iasi, Romania   | 11030 |
 | 19 | [rfksna](https://github.com/rfksna) | Neacsu Daniel |  |  | Bucharest & Cluj-Napoca | 10823 |
-| 20 | [sorcamarian](https://github.com/sorcamarian) | Marian Sorca |  | MarianSo99 | Romania | 9989 |
+| 20 | [flvmnt](https://github.com/flvmnt) | Munteanu Flavius-Ioan |  |  | Romania | 10765 |

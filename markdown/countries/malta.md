@@ -39,9 +39,9 @@ Indexed users: 1,225
 |---:|---|---|---|---:|
 | 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 3,876 |
-| 3 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
-| 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
-| 5 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,341 |
+| 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,835 |
+| 4 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
+| 5 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,561 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,150 |
 | 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,126 |
 | 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,076 |
@@ -51,7 +51,7 @@ Indexed users: 1,225
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,497 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
 | 14 | [novatechflow](https://github.com/novatechflow) | Alexander Alten | Malta | 2,070 |
-| 15 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 2,018 |
+| 15 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 1,977 |
 | 16 | [SerZhyAle](https://github.com/SerZhyAle) | Serhii Zhyhunenko | Malta | 1,905 |
 | 17 | [terranc](https://github.com/terranc) | Terran | Malta | 1,866 |
 | 18 | [dfroberg](https://github.com/dfroberg) | Danny Froberg | Gozo, Malta | 1,443 |
@@ -62,14 +62,14 @@ Indexed users: 1,225
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,790 |
+| 1 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,933 |
 | 2 | [CarlBugeja](https://github.com/CarlBugeja) | Carl Bugeja | Malta | 658 |
 | 3 | [nothingismagick](https://github.com/nothingismagick) |  | Malta | 603 |
 | 4 | [ethernity-cloud](https://github.com/ethernity-cloud) | Ethernity CLOUD | St. Julians, Malta | 525 |
 | 5 | [xiaocong](https://github.com/xiaocong) | xiaocong | Malta | 475 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 440 |
 | 7 | [mandyfarrugia](https://github.com/mandyfarrugia) | Mandy Farrugia | Malta | 366 |
-| 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 291 |
+| 8 | [mbj](https://github.com/mbj) | Markus Schirp | Malta | 293 |
 | 9 | [zeelog](https://github.com/zeelog) |  | Malta | 259 |
 | 10 | [jirevwe](https://github.com/jirevwe) | Raymond Tukpe | Luqa, Malta | 243 |
 | 11 | [TimidRobot](https://github.com/TimidRobot) | Timid Robot Zehta | San Ġwann, Malta 🇲🇹 | 230 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-11T23:08:40.654Z
+Generated: 2026-10-12T00:10:44.912Z

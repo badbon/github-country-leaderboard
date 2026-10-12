@@ -50,12 +50,12 @@ Indexed users: 1,070
 | 11 | [ArkoSammy12](https://github.com/ArkoSammy12) | James Villarreal | Panama City, Panama | 1,439 |
 | 12 | [jaimelias](https://github.com/jaimelias) | Jaimelías | Panama City, Panama | 1,311 |
 | 13 | [kelvinhe04](https://github.com/kelvinhe04) | Kelvin He Wu | Panama | 1,189 |
-| 14 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
-| 15 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,158 |
-| 16 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
-| 17 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,113 |
-| 18 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 948 |
-| 19 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 942 |
+| 14 | [angelnereira](https://github.com/angelnereira) | Angel Nereira | Panama | 1,177 |
+| 15 | [jquesada92](https://github.com/jquesada92) | Jose Quesada | Panama | 1,158 |
+| 16 | [neithanmo](https://github.com/neithanmo) | Natanael Mojica | Panama City, Panama | 1,158 |
+| 17 | [ahmedrangel](https://github.com/ahmedrangel) | Ahmed Rangel | Panama | 1,138 |
+| 18 | [alexandermorales-dev](https://github.com/alexandermorales-dev) | Alexander Morales | Panama/Venezuela | 1,113 |
+| 19 | [iaretechnician](https://github.com/iaretechnician) | Frank Harris | Panama City Beach FL | 948 |
 | 20 | [swlarot](https://github.com/swlarot) | José Luis González Montenegro | Panama | 886 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | Panama City | 47 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-11T23:17:22.491Z
+Generated: 2026-10-12T00:19:08.895Z

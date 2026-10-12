@@ -31,7 +31,7 @@ Indexed users: 14,989
 | 17 | [mercer](https://github.com/mercer) | Emilian Losneanu | Bucharest, Romania | 11,174 |
 | 18 | [afurculita](https://github.com/afurculita) | Alexandru Furculita | Iasi, Romania   | 11,030 |
 | 19 | [rfksna](https://github.com/rfksna) | Neacsu Daniel | Bucharest & Cluj-Napoca | 10,823 |
-| 20 | [sorcamarian](https://github.com/sorcamarian) | Marian Sorca | Romania | 9,989 |
+| 20 | [flvmnt](https://github.com/flvmnt) | Munteanu Flavius-Ioan | Romania | 10,765 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 14,989
 | 19 | [alexandru-paduraru](https://github.com/alexandru-paduraru) | Alex Paduraru | Bucharest | 600 |
 | 20 | [ovidiuch](https://github.com/ovidiuch) | Ovidiu Cherecheș | Cluj-Napoca, Romania | 582 |
 
-Generated: 2026-10-11T23:20:45.735Z
+Generated: 2026-10-12T00:20:32.617Z

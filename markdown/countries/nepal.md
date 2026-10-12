@@ -25,7 +25,7 @@ Indexed users: 14,135
 | 11 | [winnee0solta](https://github.com/winnee0solta) | Kishor Shrestha (WINNEE) | Jayabageshowri,Kathmandu,Nepal. | 11,532 |
 | 12 | [madhav-acharya](https://github.com/madhav-acharya) | Madhav Acharya | Gothgaun, Nepal | 11,503 |
 | 13 | [bibek1414](https://github.com/bibek1414) | Bibek Bhattarai  |  New Baneshwor, Kathmandu, Nepal | 11,452 |
-| 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | Kathmandu | 11,441 |
+| 14 | [utsabpanday](https://github.com/utsabpanday) | Utsab Panday | Kathmandu | 11,440 |
 | 15 | [kaanchan](https://github.com/kaanchan) | KA/SCA | Nepal | 10,737 |
 | 16 | [pramodlaha08](https://github.com/pramodlaha08) | Pramod Laha | Nepal | 10,247 |
 | 17 | [TheKAdhikari](https://github.com/TheKAdhikari) | Krishna Adhikari | Pokhara, Nepal | 10,230 |
@@ -83,4 +83,4 @@ Indexed users: 14,135
 | 19 | [maheshbasnet089](https://github.com/maheshbasnet089) | Manish Basnet  | Itahari, Sunsari, Nepal | 815 |
 | 20 | [SajanGhimire1](https://github.com/SajanGhimire1) | Sajan Ghimire | Nepal | 755 |
 
-Generated: 2026-10-11T23:13:34.592Z
+Generated: 2026-10-12T00:14:47.376Z

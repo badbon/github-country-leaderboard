@@ -1,8 +1,8 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-11T23:04:36.968Z
+Generated: 2026-10-12T00:08:18.942Z
 
-Users: 3270
+Users: 3269
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 3270
 | 12 | [kristoferssolo](https://github.com/kristoferssolo) | Kristofers Solo |  |  | Latvia | 1576 |
 | 13 | [romainducrocq](https://github.com/romainducrocq) | Romain Ducrocq |  |  | Riga, Latvia | 1551 |
 | 14 | [puikinsh](https://github.com/puikinsh) | Aigars Silkalns | Divilab | AigarsSilkalns | Riga, Latvia | 1507 |
-| 15 | [andis-sprinkis](https://github.com/andis-sprinkis) | Andis Spriņķis |  |  | Latvia | 1497 |
-| 16 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1419 |
-| 17 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
-| 18 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis |  |  | Riga, Latvia | 1313 |
-| 19 | [Qaevix](https://github.com/Qaevix) | Qaevix |  |  | Riga | 1281 |
-| 20 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds |  |  | Latvia | 1216 |
+| 15 | [flancer64](https://github.com/flancer64) | Alex Gusev | F. Lancer, LLC |  | Riga, Latvia | 1419 |
+| 16 | [LilithStd](https://github.com/LilithStd) | Dmitrii |  |  | Latvia, Riga | 1390 |
+| 17 | [resoltico](https://github.com/resoltico) | Ervins Strauhmanis |  |  | Riga, Latvia | 1313 |
+| 18 | [Qaevix](https://github.com/Qaevix) | Qaevix |  |  | Riga | 1281 |
+| 19 | [Ted-Rose](https://github.com/Ted-Rose) | Tedis Rozenfelds |  |  | Latvia | 1216 |
+| 20 | [alanarzumanjan](https://github.com/alanarzumanjan) | Alan Arzumanjan | Transport and Telecommunication Institute |  | Latvia, Riga | 1214 |

@@ -1,6 +1,6 @@
 # Total Contributions - Senegal
 
-Generated: 2026-10-11T23:22:55.668Z
+Generated: 2026-10-12T00:23:56.182Z
 
 Users: 1357
 
@@ -8,11 +8,11 @@ Users: 1357
 |---:|---|---|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 12941 |
 | 2 | [niangamadou888](https://github.com/niangamadou888) | Amadou Boubacar Niang |  |  | Saint-Louis, Senegal | 12001 |
-| 3 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 9901 |
-| 4 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | WIICODE |  | Dakar, Senegal | 9125 |
-| 5 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 7503 |
-| 6 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7300 |
-| 7 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Fellwiin |  | Dakar, Sénégal | 7135 |
+| 3 | [OusManDiouf](https://github.com/OusManDiouf) | OUSMANE  DIOUF | Fellwiin |  | Dakar, Sénégal | 10369 |
+| 4 | [ModesteNAHUM](https://github.com/ModesteNAHUM) | Modeste NAHUM | @SimplifyStack  |  | Dakar, Sénégal | 9901 |
+| 5 | [Titovich2203](https://github.com/Titovich2203) | Tito GBEDJEHA | WIICODE |  | Dakar, Senegal | 9125 |
+| 6 | [jmndao](https://github.com/jmndao) | Jonathan Musa NDAO | Tecafrik |  | Senegal | 7503 |
+| 7 | [gaelahouanvoedo](https://github.com/gaelahouanvoedo) | Gael AHOUANVOEDO |  |  | Dakar, Sénégal | 7300 |
 | 8 | [MJoshua25](https://github.com/MJoshua25) | Yao Josué |  |  | Dakar | 6373 |
 | 9 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 6295 |
 | 10 | [njaga](https://github.com/njaga) | Ndiaga Ndiaye | kamit digital | ndiaga_dev | Dakar | 5639 |

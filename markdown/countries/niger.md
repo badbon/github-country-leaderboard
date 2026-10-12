@@ -28,7 +28,7 @@ Indexed users: 176
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 696 |
 | 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 587 |
 | 16 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 516 |
-| 17 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 516 |
+| 17 | [mocy111](https://github.com/mocy111) | Moctar Yonli | Niamey | 514 |
 | 18 | [netmophus](https://github.com/netmophus) | NETMORPHUS | Niamey | 495 |
 | 19 | [Kounou25](https://github.com/Kounou25) | Kounou Gilbert | Niamey,Niger | 457 |
 | 20 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 440 |
@@ -72,7 +72,7 @@ Indexed users: 176
 | 8 | [Chaibouu](https://github.com/Chaibouu) | Chaibouu | Niger | 31 |
 | 9 | [bkina1](https://github.com/bkina1) | Boubacar Kina | Niger | 30 |
 | 10 | [malnuxstarck](https://github.com/malnuxstarck) | Abdoul Malik | Niamey , Niger | 30 |
-| 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | Niamey-Niger | 29 |
+| 11 | [ab3masta](https://github.com/ab3masta) | Abdou Abarchi Aboubacar | Niamey-Niger | 28 |
 | 12 | [TrakyRichard](https://github.com/TrakyRichard) | Traky Richard | Niger | 27 |
 | 13 | [Richouf95](https://github.com/Richouf95) | Abdoulaye Wouri Chouf | Niamey | 23 |
 | 14 | [sn115426](https://github.com/sn115426) | sn01 | niger | 23 |
@@ -83,4 +83,4 @@ Indexed users: 176
 | 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
 | 20 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
 
-Generated: 2026-10-11T23:13:48.964Z
+Generated: 2026-10-12T00:16:17.368Z
