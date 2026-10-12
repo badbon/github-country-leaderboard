@@ -1,6 +1,6 @@
 # Zambia
 
-Indexed users: 1,340
+Indexed users: 1,339
 
 | Leaderboard | Link |
 |---|---|
@@ -69,7 +69,7 @@ Indexed users: 1,340
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  | Lusaka, Zambia  | 230 |
 | 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 224 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 192 |
-| 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 163 |
+| 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 175 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 161 |
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 147 |
 | 11 | [akebu6](https://github.com/akebu6) | Akebu | Zambia | 133 |
@@ -83,4 +83,4 @@ Indexed users: 1,340
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-12T10:08:29.389Z
+Generated: 2026-10-12T16:04:31.375Z

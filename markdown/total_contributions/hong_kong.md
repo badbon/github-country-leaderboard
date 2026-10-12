@@ -1,8 +1,8 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-12T10:40:10.272Z
+Generated: 2026-10-12T16:36:56.667Z
 
-Users: 10296
+Users: 10293
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,8 +17,8 @@ Users: 10296
 | 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 14637 |
 | 10 | [augchan42](https://github.com/augchan42) | Augustin Chan |  |  | Hong Kong | 14636 |
 | 11 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | .NET Foundation |  | Hong Kong | 14213 |
-| 12 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | @startino |  | Hong Kong | 12379 |
-| 13 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 12151 |
+| 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 13265 |
+| 13 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | @startino |  | Hong Kong | 12379 |
 | 14 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
 | 15 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
 | 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |

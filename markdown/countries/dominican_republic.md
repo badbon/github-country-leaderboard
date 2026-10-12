@@ -12,7 +12,7 @@ Indexed users: 3,311
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 15,916 |
+| 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Dominican Republic | 16,414 |
 | 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez | Santo Domingo, R. D. | 15,371 |
 | 3 | [kaioken](https://github.com/kaioken) | Max Castro | Dominican Republic | 12,671 |
 | 4 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | Dominican Republic | 11,312 |
@@ -30,8 +30,8 @@ Indexed users: 3,311
 | 16 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer | Dominican Republic | 5,854 |
 | 17 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Dominican Republic | 5,554 |
 | 18 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya | Dominican Republic | 5,486 |
-| 19 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git | Dominican Republic | 5,478 |
-| 20 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 5,442 |
+| 19 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | Dominican Republic, Santo Domingo | 5,442 |
+| 20 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Dominican Republic | 5,369 |
 
 ## Public Contributions
 
@@ -54,9 +54,9 @@ Indexed users: 3,311
 | 15 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 1,622 |
 | 16 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz | Santo Domingo | 1,545 |
 | 17 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 1,473 |
-| 18 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | Dominican Republic | 1,460 |
-| 19 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
-| 20 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 1,348 |
+| 18 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
+| 19 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 1,348 |
+| 20 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | Dominican Republic | 1,308 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,311
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-12T10:23:44.938Z
+Generated: 2026-10-12T16:25:36.512Z

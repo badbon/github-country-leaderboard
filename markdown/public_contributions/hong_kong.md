@@ -1,8 +1,8 @@
 # Public Contributions - Hong Kong
 
-Generated: 2026-10-12T10:40:10.272Z
+Generated: 2026-10-12T16:36:56.667Z
 
-Users: 10296
+Users: 10293
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,8 +13,8 @@ Users: 10296
 | 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | the Hong Kong University of Science and Technology (HKUST) |  | Hong Kong | 9360 |
 | 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang |  | Tangwingho | Hong Kong | 9074 |
 | 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung |  |  | Hong Kong | 8170 |
-| 8 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 7960 |
-| 9 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | wonglaitung@gmail.com |  | Hong Kong | 7683 |
+| 8 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | wonglaitung@gmail.com |  | Hong Kong | 7683 |
+| 9 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 7663 |
 | 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani |  |  | Hong Kong | 7358 |
 | 11 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Auros |  | Hong Kong, China | 6455 |
 | 12 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk |  |  | Hong Kong | 6407 |

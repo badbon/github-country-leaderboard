@@ -1,6 +1,6 @@
 # Followers - Belarus
 
-Generated: 2026-10-12T10:14:12.702Z
+Generated: 2026-10-12T16:13:40.545Z
 
 Users: 10947
 

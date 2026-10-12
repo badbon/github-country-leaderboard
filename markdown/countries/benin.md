@@ -14,7 +14,7 @@ Indexed users: 471
 |---:|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | Abomey-Calavi, Benin | 17,024 |
 | 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 9,503 |
-| 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 8,799 |
+| 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 8,834 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,864 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,214 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,543 |
@@ -54,7 +54,7 @@ Indexed users: 471
 | 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 795 |
 | 16 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
 | 17 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 749 |
-| 18 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 593 |
+| 18 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 595 |
 | 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
 | 20 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 583 |
 
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 72 |
 
-Generated: 2026-10-12T10:15:27.369Z
+Generated: 2026-10-12T16:13:52.537Z

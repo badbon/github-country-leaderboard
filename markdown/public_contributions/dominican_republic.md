@@ -1,6 +1,6 @@
 # Public Contributions - Dominican Republic
 
-Generated: 2026-10-12T10:23:44.938Z
+Generated: 2026-10-12T16:25:36.512Z
 
 Users: 3311
 
@@ -23,6 +23,6 @@ Users: 3311
 | 15 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Nubeteck, SRL |  | Dominican Republic | 1622 |
 | 16 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz |  |  | Santo Domingo | 1545 |
 | 17 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez |  | adeldotdo | Dominican Republic | 1473 |
-| 18 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1460 |
-| 19 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1417 |
-| 20 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
+| 18 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata |  |  | Dominican Republic | 1417 |
+| 19 | [eburgos](https://github.com/eburgos) | Eduardo Burgos |  |  | Santo Domingo, DN, Dominican Republic | 1348 |
+| 20 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | MoonCode |  | Dominican Republic | 1308 |

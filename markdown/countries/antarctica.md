@@ -27,8 +27,8 @@ Indexed users: 460
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,246 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,231 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,866 |
-| 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,561 |
-| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,421 |
+| 16 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,574 |
+| 17 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,436 |
 | 18 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,127 |
 | 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,991 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,716 |
@@ -42,7 +42,7 @@ Indexed users: 460
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,499 |
 | 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,994 |
 | 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 2,646 |
-| 6 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,139 |
+| 6 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,143 |
 | 7 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 1,931 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,465 |
 | 9 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 1,320 |
@@ -77,10 +77,10 @@ Indexed users: 460
 | 13 | [emre1393](https://github.com/emre1393) | Emre | Antarctica | 114 |
 | 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 105 |
 | 15 | [piplup7575](https://github.com/piplup7575) | pipl | antarctica | 92 |
-| 16 | [r4sas](https://github.com/r4sas) | R4SAS | Vostok Station, Antarctica | 89 |
-| 17 | [crse](https://github.com/crse) |  | Antarctica | 88 |
-| 18 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 88 |
+| 16 | [crse](https://github.com/crse) |  | Antarctica | 88 |
+| 17 | [pkasila](https://github.com/pkasila) | Pavel Kasila | Antarctica | 88 |
+| 18 | [r4sas](https://github.com/r4sas) | R4SAS | Vostok Station, Antarctica | 88 |
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-12T10:10:31.203Z
+Generated: 2026-10-12T16:08:44.927Z

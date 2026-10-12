@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-12T10:10:01.650Z
+Generated: 2026-10-12T16:07:30.347Z
 
 Users: 215
 
@@ -14,8 +14,8 @@ Users: 215
 | 6 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 6789 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6268 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5781 |
-| 9 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5139 |
-| 10 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5138 |
+| 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5169 |
+| 10 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5139 |
 | 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 4874 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4842 |
 | 13 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3966 |

@@ -1,12 +1,12 @@
 # Total Contributions - Fiji
 
-Generated: 2026-10-12T10:28:07.376Z
+Generated: 2026-10-12T16:29:45.550Z
 
 Users: 325
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 2999 |
+| 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Counterpoint Group |  | Nadi, Fiji | 3009 |
 | 2 | [Amdeo](https://github.com/Amdeo) | Cooper |  |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1438 |
 | 3 | [Shoneel](https://github.com/Shoneel) |  |  |  | Fiji, Suva  | 1404 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji National University  |  | Fiji | 1304 |
@@ -23,6 +23,6 @@ Users: 325
 | 15 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 518 |
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 502 |
 | 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 482 |
-| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 437 |
+| 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 438 |
 | 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 422 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy |  |  | Fiji | 399 |

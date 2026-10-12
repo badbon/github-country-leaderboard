@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,296
+Indexed users: 10,293
 
 | Leaderboard | Link |
 |---|---|
@@ -23,8 +23,8 @@ Indexed users: 10,296
 | 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 14,637 |
 | 10 | [augchan42](https://github.com/augchan42) | Augustin Chan | Hong Kong | 14,636 |
 | 11 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | Hong Kong | 14,213 |
-| 12 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | Hong Kong | 12,379 |
-| 13 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 12,151 |
+| 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 13,265 |
+| 13 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | Hong Kong | 12,379 |
 | 14 | [araa47](https://github.com/araa47) | Akshay  | Hong Kong  | 11,917 |
 | 15 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
 | 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
@@ -44,8 +44,8 @@ Indexed users: 10,296
 | 5 | [CeHouGIS](https://github.com/CeHouGIS) | Ce Hou | Hong Kong | 9,360 |
 | 6 | [tombelieber](https://github.com/tombelieber) | Tom Tang | Hong Kong | 9,074 |
 | 7 | [lokshunhung](https://github.com/lokshunhung) | LS Hung | Hong Kong | 8,170 |
-| 8 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,960 |
-| 9 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
+| 8 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
+| 9 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,663 |
 | 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
 | 11 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Hong Kong, China | 6,455 |
 | 12 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk | Hong Kong | 6,407 |
@@ -83,4 +83,4 @@ Indexed users: 10,296
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-12T10:40:10.272Z
+Generated: 2026-10-12T16:36:56.667Z

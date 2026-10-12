@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-12T10:10:31.203Z
+Generated: 2026-10-12T16:08:44.927Z
 
 Users: 460
 
@@ -21,8 +21,8 @@ Users: 460
 | 13 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3246 |
 | 14 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3231 |
 | 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 2866 |
-| 16 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2561 |
-| 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2421 |
+| 16 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2574 |
+| 17 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2436 |
 | 18 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2127 |
 | 19 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 1991 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | @truckersmp |  | Antarctica | 1716 |

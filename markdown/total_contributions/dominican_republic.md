@@ -1,12 +1,12 @@
 # Total Contributions - Dominican Republic
 
-Generated: 2026-10-12T10:23:44.938Z
+Generated: 2026-10-12T16:25:36.512Z
 
 Users: 3311
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Integrolend | IdequelBernabel | Dominican Republic | 15916 |
+| 1 | [ibernabel](https://github.com/ibernabel) | Idequel Bernabel | Integrolend | IdequelBernabel | Dominican Republic | 16414 |
 | 2 | [deuriib](https://github.com/deuriib) | Deuri Vasquez |  |  | Santo Domingo, R. D. | 15371 |
 | 3 | [kaioken](https://github.com/kaioken) | Max Castro | @mctekk |  | Dominican Republic | 12671 |
 | 4 | [jflerime314](https://github.com/jflerime314) | Joseph Angelo Flerimé | @jflerime | jflerime | Dominican Republic | 11312 |
@@ -24,5 +24,5 @@ Users: 3311
 | 16 | [ERPalmer](https://github.com/ERPalmer) | ERPalmer |  | ERPalmer | Dominican Republic | 5854 |
 | 17 | [Bebell-Digital-Solutions](https://github.com/Bebell-Digital-Solutions) | Bebell Digital Solutions 🚀 | Bebell Digital Solutions |  | Dominican Republic | 5554 |
 | 18 | [dylanminaya](https://github.com/dylanminaya) | Dylan Minaya |  |  | Dominican Republic | 5486 |
-| 19 | [JoseEnriqueGit](https://github.com/JoseEnriqueGit) | Enrique.Git |  |  | Dominican Republic | 5478 |
-| 20 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 5442 |
+| 19 | [wcontreras](https://github.com/wcontreras) | Williams Contreras | @glowicom  |  | Dominican Republic, Santo Domingo | 5442 |
+| 20 | [dkropachev](https://github.com/dkropachev) | Dmitry Kropachev | Scylla |  | Dominican Republic | 5369 |

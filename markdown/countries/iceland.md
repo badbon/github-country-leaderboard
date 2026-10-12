@@ -31,7 +31,7 @@ Indexed users: 1,580
 | 17 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,419 |
 | 18 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,030 |
 | 19 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,619 |
-| 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Iceland | 5,373 |
+| 20 | [steinnes](https://github.com/steinnes) | Steinn Eldjárn Sigurðarson | Reykjavik, Iceland | 5,421 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,580
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 217 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-12T10:34:05.093Z
+Generated: 2026-10-12T16:37:08.008Z

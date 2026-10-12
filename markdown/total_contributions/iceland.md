@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-12T10:34:05.093Z
+Generated: 2026-10-12T16:37:08.008Z
 
 Users: 1580
 
@@ -25,4 +25,4 @@ Users: 1580
 | 17 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
 | 18 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6030 |
 | 19 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5619 |
-| 20 | [AndriGitDev](https://github.com/AndriGitDev) | Andri | Nova |  | Iceland | 5373 |
+| 20 | [steinnes](https://github.com/steinnes) | Steinn Eldjárn Sigurðarson |  |  | Reykjavik, Iceland | 5421 |

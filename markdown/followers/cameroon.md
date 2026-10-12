@@ -1,15 +1,15 @@
 # Followers - Cameroon
 
-Generated: 2026-10-12T10:18:31.503Z
+Generated: 2026-10-12T16:16:45.221Z
 
-Users: 1801
+Users: 1799
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1331 |
 | 2 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 1235 |
 | 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Clemios | chojuninengu | Cameroon | 672 |
-| 4 | [bonzum](https://github.com/bonzum) | Mark legend |  |  | Cameroon | 564 |
+| 4 | [bonzum](https://github.com/bonzum) | Mark legend |  |  | Cameroon | 559 |
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 506 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | @Univ-Douala |  | Cameroon | 493 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Adorsys | n_severian | Cameroon, Bangangte | 356 |
@@ -23,6 +23,6 @@ Users: 1801
 | 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | @Wikimedia |  | Buea, Cameroon | 223 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | togeva.com | Yunweneric | Douala, Cameroon | 221 |
 | 17 | [Clovremix](https://github.com/Clovremix) |  |  | HonClovis | Yaounde Cameroon  | 179 |
-| 18 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | @Progressoft  |  | Cameroon | 173 |
-| 19 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | NexoPOS Solutions, @Tendoo  | blairjersyer | Cameroon. Yaoundé | 171 |
-| 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Carnegie Mellon University | baimamboukarr | Yaoundé | 170 |
+| 18 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | NexoPOS Solutions, @Tendoo  | blairjersyer | Cameroon. Yaoundé | 171 |
+| 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Carnegie Mellon University | baimamboukarr | Yaoundé | 170 |
+| 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta |  | NobertEtta | Buea, Cameroon | 170 |

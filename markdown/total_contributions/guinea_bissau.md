@@ -1,14 +1,14 @@
 # Total Contributions - Guinea-Bissau
 
-Generated: 2026-10-12T10:31:08.517Z
+Generated: 2026-10-12T16:34:53.286Z
 
 Users: 23
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [laurentino-dev](https://github.com/laurentino-dev) | Laurentino |  |  | Bissau | 2732 |
-| 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Abiptom |  | Bissau, Guinea-Bissau | 454 |
-| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | CEO @ IHT - Iniciativa Hobai Tecnologias |  | Bissau | 262 |
+| 2 | [atchutchi](https://github.com/atchutchi) | Atchutchi B Ferreira | Abiptom |  | Bissau, Guinea-Bissau | 459 |
+| 3 | [HobaiGuigui](https://github.com/HobaiGuigui) | Mr.Hobai | CEO @ IHT - Iniciativa Hobai Tecnologias |  | Bissau | 263 |
 | 4 | [Samsilva64](https://github.com/Samsilva64) | Daltonsilva |  |  | Guiné-bissau/pluba | 64 |
 | 5 | [baribucirio-cmyk](https://github.com/baribucirio-cmyk) | Bucirio Bari | Estudante |  | Guiné-Bissau | 57 |
 | 6 | [Eduildo](https://github.com/Eduildo) | eduildo | Menzies Aviation | eduildo_lima | Bissau, Guiné-Bissau | 19 |

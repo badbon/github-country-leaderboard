@@ -1,8 +1,8 @@
 # Followers - Zambia
 
-Generated: 2026-10-12T10:08:29.389Z
+Generated: 2026-10-12T16:04:31.375Z
 
-Users: 1340
+Users: 1339
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -13,7 +13,7 @@ Users: 1340
 | 5 | [Joshk21758](https://github.com/Joshk21758) | Mwansa kunda  |  |  | Lusaka, Zambia  | 230 |
 | 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | @Lupleg | Alisikaundi | Zambia | 224 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Zambia |  | Lusaka, Zambia | 192 |
-| 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | @pencilcasestudios  | silumesii | Zambia | 163 |
+| 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | @pencilcasestudios  | silumesii | Zambia | 175 |
 | 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi |  |  | Lusaka, Zambia | 161 |
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | @EducoreServices |  | Zambia | 147 |
 | 11 | [akebu6](https://github.com/akebu6) | Akebu | @TheZigGroup  | akebu6 | Zambia | 133 |

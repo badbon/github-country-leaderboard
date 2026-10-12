@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,801
+Indexed users: 1,799
 
 | Leaderboard | Link |
 |---|---|
@@ -52,7 +52,7 @@ Indexed users: 1,801
 | 13 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 1,621 |
 | 14 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Cameroon | 1,591 |
 | 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi | Cameroon | 1,484 |
-| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,452 |
+| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | Douala, Cameroon | 1,448 |
 | 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | Cameroon | 1,447 |
 | 18 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | Cameroon | 1,407 |
 | 19 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,390 |
@@ -65,7 +65,7 @@ Indexed users: 1,801
 | 1 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Cameroon, Bangangté  | 1,331 |
 | 2 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 1,235 |
 | 3 | [chojuninengu](https://github.com/chojuninengu) | JU-NINE NGU CHO | Cameroon | 672 |
-| 4 | [bonzum](https://github.com/bonzum) | Mark legend | Cameroon | 564 |
+| 4 | [bonzum](https://github.com/bonzum) | Mark legend | Cameroon | 559 |
 | 5 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | cameroon | 506 |
 | 6 | [djonmaila](https://github.com/djonmaila) | DJONMAILA PYTHAGORE  | Cameroon | 493 |
 | 7 | [Nkwenti-Severian-Ndongtsop](https://github.com/Nkwenti-Severian-Ndongtsop) | @Nkwenti @Severian | Cameroon, Bangangte | 356 |
@@ -79,8 +79,8 @@ Indexed users: 1,801
 | 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | Buea, Cameroon | 223 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | Douala, Cameroon | 221 |
 | 17 | [Clovremix](https://github.com/Clovremix) |  | Yaounde Cameroon  | 179 |
-| 18 | [xasterKies](https://github.com/xasterKies) | Samuel Tiokeng | Cameroon | 173 |
-| 19 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
-| 20 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
+| 18 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | Cameroon. Yaoundé | 171 |
+| 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
+| 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
 
-Generated: 2026-10-12T10:18:31.503Z
+Generated: 2026-10-12T16:16:45.221Z

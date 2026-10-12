@@ -1,8 +1,8 @@
 # Public Contributions - Cameroon
 
-Generated: 2026-10-12T10:18:31.503Z
+Generated: 2026-10-12T16:16:45.221Z
 
-Users: 1801
+Users: 1799
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 1801
 | 13 | [Arielpetit](https://github.com/Arielpetit) | arielpetit | @adorsys |  | cameroon | 1621 |
 | 14 | [Josiasange37](https://github.com/Josiasange37) | AKANA SIGNING JOSIAS AARON | Xyber CLan | AlmightJosias | Cameroon | 1591 |
 | 15 | [Allmight2002](https://github.com/Allmight2002) | Raymond Mbassi |  |  | Cameroon | 1484 |
-| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1452 |
+| 16 | [pythonbrad](https://github.com/pythonbrad) | Brady Fomegne | @fodydev | pythonbrad | Douala, Cameroon | 1448 |
 | 17 | [Hermann-Core](https://github.com/Hermann-Core) | Hermann Core | SkyEngPro/Adorsys | Dr_Itachii | Cameroon | 1447 |
 | 18 | [Koufan-De-King](https://github.com/Koufan-De-King) | King-Koufan | ADORSYS |  | Cameroon | 1407 |
 | 19 | [JOELNATHAN544](https://github.com/JOELNATHAN544) | Joel Nathan Wanko | Adorsys |  | Cameroon, Bangangté  | 1390 |

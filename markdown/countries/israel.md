@@ -1,6 +1,6 @@
 # Israel
 
-Indexed users: 12,433
+Indexed users: 12,432
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 12,433
 | 19 | [kuchin](https://github.com/kuchin) | Dima Kuchin | Israel | 665 |
 | 20 | [YuvalNirkin](https://github.com/YuvalNirkin) | Yuval Nirkin | Tel Aviv, Israel | 641 |
 
-Generated: 2026-10-12T10:36:29.932Z
+Generated: 2026-10-12T16:38:41.904Z
