@@ -14360,7 +14360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2025-05-16T11:42:23Z"
   },
   {
@@ -14383,8 +14383,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 123,
-    "publicContributions": 100,
+    "privateContributions": 161,
+    "publicContributions": 107,
     "createdAt": "2025-08-06T12:01:13Z"
   },
   {
@@ -14408,7 +14408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 8,
     "createdAt": "2025-05-27T08:43:59Z"
   },
   {
@@ -14420,7 +14420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 67,
     "createdAt": "2025-01-03T18:37:10Z"
   },
   {
@@ -14432,7 +14432,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2025-08-30T20:38:31Z"
   },
   {
@@ -14466,9 +14466,9 @@
     "location": "Pretoria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 433,
+    "publicContributions": 482,
     "createdAt": "2025-02-24T10:32:58Z"
   },
   {
@@ -14480,7 +14480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 99,
     "createdAt": "2025-08-07T04:39:10Z"
   },
   {
@@ -14504,7 +14504,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 17,
     "createdAt": "2025-10-08T21:58:40Z"
   },
   {
@@ -14516,7 +14516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 9,
     "createdAt": "2025-08-07T18:55:40Z"
   },
   {
@@ -14527,7 +14527,7 @@
     "company": "SANTS Private Higher Education Institute",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 899,
+    "privateContributions": 985,
     "publicContributions": 0,
     "createdAt": "2025-03-10T11:01:22Z"
   },
@@ -14551,21 +14551,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-05-16T08:24:30Z"
-  },
-  {
-    "login": "GivenMoreke",
-    "name": "Reitumetse Given Moreke",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/214722026?s=72&v=4",
-    "location": "Pretoria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 53,
-    "createdAt": "2025-06-03T20:03:45Z"
   },
   {
     "login": "Grandgather",

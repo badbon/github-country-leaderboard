@@ -14347,8 +14347,8 @@
     "company": "@hamk",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 755,
-    "publicContributions": 77,
+    "privateContributions": 1137,
+    "publicContributions": 61,
     "createdAt": "2023-08-22T07:40:47Z"
   },
   {
@@ -14358,9 +14358,9 @@
     "location": "Espoo, Finland",
     "company": "",
     "twitterUsername": "fowsidayib",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 51,
     "createdAt": "2023-04-27T13:49:06Z"
   },
   {
@@ -14384,7 +14384,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-01-10T17:25:21Z"
   },
   {
@@ -14406,9 +14406,9 @@
     "location": "Elimäki, Finland",
     "company": "",
     "twitterUsername": "do_essential",
-    "followers": 2,
+    "followers": 20,
     "privateContributions": 0,
-    "publicContributions": 236,
+    "publicContributions": 259,
     "createdAt": "2023-03-15T14:54:57Z"
   },
   {
@@ -14444,7 +14444,7 @@
     "twitterUsername": "PeetuKupiainen",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 18,
     "createdAt": "2023-01-29T00:17:26Z"
   },
   {
@@ -14456,7 +14456,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 34,
     "createdAt": "2023-08-21T09:31:33Z"
   },
   {
@@ -14466,9 +14466,9 @@
     "location": "Kuopio, Finland",
     "company": "Savonia University of Applied Sciences",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 74,
-    "publicContributions": 146,
+    "followers": 3,
+    "privateContributions": 84,
+    "publicContributions": 315,
     "createdAt": "2023-10-23T13:02:07Z"
   },
   {
@@ -14540,7 +14540,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 13,
     "createdAt": "2023-09-10T07:29:35Z"
   },
   {
@@ -14551,8 +14551,8 @@
     "company": "Metropolia University",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 51,
-    "publicContributions": 61,
+    "privateContributions": 209,
+    "publicContributions": 49,
     "createdAt": "2023-09-21T09:11:15Z"
   },
   {
@@ -14564,7 +14564,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 312,
+    "publicContributions": 253,
     "createdAt": "2023-09-27T10:48:23Z"
   },
   {
@@ -14576,7 +14576,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 2,
     "createdAt": "2023-09-11T09:26:11Z"
   },
   {
@@ -217930,5 +217930,17 @@
     "privateContributions": 40,
     "publicContributions": 1905,
     "createdAt": "2024-07-23T17:07:08Z"
+  },
+  {
+    "login": "robert-osvath",
+    "name": "Osvath Robert",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115132298?s=72&u=5cca01cf5fdc612b05c417f7c71d86048f16a9c2&v=4",
+    "location": "Helsinki, Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 26,
+    "createdAt": "2022-10-06T04:38:31Z"
   }
 ]

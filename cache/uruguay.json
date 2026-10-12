@@ -14539,8 +14539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 12,
+    "privateContributions": 0,
+    "publicContributions": 16,
     "createdAt": "2022-09-06T17:52:20Z"
   },
   {
@@ -14551,7 +14551,7 @@
     "company": "Routist Sas",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1918,
+    "privateContributions": 2029,
     "publicContributions": 0,
     "createdAt": "2022-09-12T12:57:57Z"
   },
@@ -14586,9 +14586,9 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "advanced_unit",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 7,
     "createdAt": "2022-05-04T15:11:00Z"
   },
   {
@@ -14600,7 +14600,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2022-05-09T20:53:33Z"
   },
   {
@@ -14636,7 +14636,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-09-10T22:55:08Z"
   },
   {
@@ -14654,13 +14654,13 @@
   {
     "login": "alexcuadroo",
     "name": "Alex",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/104812291?s=72&u=17e3705bc96758d8f5adbe59b3cfb27c6dffa761&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/104812291?s=72&u=7a8051068bd58e81967504717aaebdae27e1aa6e&v=4",
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2130,
-    "publicContributions": 385,
+    "privateContributions": 2702,
+    "publicContributions": 499,
     "createdAt": "2022-05-03T03:46:56Z"
   },
   {
@@ -14731,7 +14731,7 @@
     "company": "Glic Global",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 981,
+    "privateContributions": 2569,
     "publicContributions": 1,
     "createdAt": "2022-04-04T13:51:10Z"
   },
@@ -14742,9 +14742,9 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 189,
+    "publicContributions": 138,
     "createdAt": "2022-08-01T16:21:38Z"
   },
   {
@@ -14756,7 +14756,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 62,
     "createdAt": "2022-08-15T06:23:21Z"
   },
   {

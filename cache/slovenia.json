@@ -14478,7 +14478,7 @@
     "location": "Slovenia, Ljubljana",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-09-02T10:51:31Z"
@@ -14491,7 +14491,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 452,
+    "privateContributions": 484,
     "publicContributions": 0,
     "createdAt": "2018-12-19T14:12:48Z"
   },
@@ -14503,8 +14503,8 @@
     "company": "Blauberg",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 406,
-    "publicContributions": 46,
+    "privateContributions": 321,
+    "publicContributions": 43,
     "createdAt": "2018-07-06T13:06:28Z"
   },
   {
@@ -14539,7 +14539,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 624,
+    "privateContributions": 2439,
     "publicContributions": 0,
     "createdAt": "2018-09-08T17:40:08Z"
   },
@@ -14552,7 +14552,7 @@
     "twitterUsername": "Zalowsski",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 3,
     "createdAt": "2018-11-15T08:48:30Z"
   },
   {
@@ -14569,8 +14569,8 @@
   },
   {
     "login": "aljox",
-    "name": "Aljaž Bogataj",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44030296?s=72&u=84e5f6103a6cca17ed02dcef2dcea54a6a240169&v=4",
+    "name": "AB",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/44030296?s=72&v=4",
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
@@ -14598,9 +14598,9 @@
     "location": "Slovenia",
     "company": "Senso4s d.o.o.",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 528,
-    "publicContributions": 1,
+    "followers": 2,
+    "privateContributions": 354,
+    "publicContributions": 2,
     "createdAt": "2018-08-06T18:42:19Z"
   },
   {
@@ -14611,8 +14611,8 @@
     "company": "@Viverius-Institute ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 182,
-    "publicContributions": 1,
+    "privateContributions": 185,
+    "publicContributions": 0,
     "createdAt": "2018-11-02T21:06:39Z"
   },
   {
@@ -14623,8 +14623,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 237,
-    "publicContributions": 884,
+    "privateContributions": 374,
+    "publicContributions": 923,
     "createdAt": "2018-10-23T07:14:05Z"
   },
   {
@@ -14638,18 +14638,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-26T18:52:16Z"
-  },
-  {
-    "login": "jakobnarobe",
-    "name": "Jakob Narobe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/44295294?s=72&u=50a07c14d8becabe59ad11f35f4bc3342d1e90f6&v=4",
-    "location": "Slovenia, Ljubljana",
-    "company": "@30k4j",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 30,
-    "publicContributions": 2,
-    "createdAt": "2018-10-19T13:24:00Z"
   },
   {
     "login": "robert-reinhardt",
@@ -14671,7 +14659,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 71,
+    "privateContributions": 54,
     "publicContributions": 12,
     "createdAt": "2018-11-07T15:30:27Z"
   },

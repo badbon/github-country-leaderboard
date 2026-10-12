@@ -14660,7 +14660,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 52,
+    "publicContributions": 55,
     "createdAt": "2024-02-11T13:44:46Z"
   },
   {
@@ -14671,8 +14671,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 564,
-    "publicContributions": 24,
+    "privateContributions": 99,
+    "publicContributions": 15,
     "createdAt": "2024-02-13T18:21:34Z"
   },
   {
@@ -14683,7 +14683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 865,
+    "privateContributions": 762,
     "publicContributions": 3,
     "createdAt": "2024-10-22T08:32:10Z"
   },
@@ -14696,7 +14696,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 259,
+    "publicContributions": 171,
     "createdAt": "2024-04-19T13:08:52Z"
   },
   {
@@ -14706,9 +14706,9 @@
     "location": "Adama, Ethiopia",
     "company": "@a2sv",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 9,
-    "publicContributions": 267,
+    "followers": 4,
+    "privateContributions": 13,
+    "publicContributions": 108,
     "createdAt": "2023-12-29T19:05:22Z"
   },
   {
@@ -14720,19 +14720,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 131,
     "createdAt": "2024-11-29T14:39:36Z"
   },
   {
     "login": "rodas-awgichew",
     "name": "Rodas Awgichew",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179638220?s=72&u=e3a1a841c7e2a8148193cde00b252c1116f86daf&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179638220?s=72&u=9be12bc48c90a928ff3379934c12b2643b671993&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 513,
+    "publicContributions": 473,
     "createdAt": "2024-08-27T19:22:23Z"
   },
   {
@@ -14750,25 +14750,25 @@
   {
     "login": "theluchadora",
     "name": "Tsion Feleke Engidashet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160585859?s=72&u=fb8aa0d7525a1c462e5c468d3c855cffd7ebf64e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160585859?s=72&v=4",
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 210,
+    "publicContributions": 137,
     "createdAt": "2024-02-20T08:32:23Z"
   },
   {
     "login": "YonInsights",
     "name": "Yonatan Abrham",
     "avatarUrl": "https://avatars.githubusercontent.com/u/161576995?s=72&u=3e1e83a4fc8c19e74f6189ab4706b917be9c1343&v=4",
-    "location": "Addis Ababa Ethiopia ",
-    "company": "",
+    "location": "Addis Ababa, Ethiopia",
+    "company": "Ethiopian Engineering Corporation | Infradigital CAD",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 33,
     "createdAt": "2024-02-28T08:40:49Z"
   },
   {
@@ -14780,7 +14780,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 181,
     "createdAt": "2024-03-13T03:47:20Z"
   },
   {
@@ -14802,9 +14802,9 @@
     "location": "Addis Ababa, Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 302,
+    "publicContributions": 350,
     "createdAt": "2024-08-24T09:19:06Z"
   },
   {
@@ -14814,22 +14814,10 @@
     "location": "Ethiopia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 55,
-    "publicContributions": 718,
+    "followers": 14,
+    "privateContributions": 77,
+    "publicContributions": 720,
     "createdAt": "2024-11-21T22:12:14Z"
-  },
-  {
-    "login": "addis-ale",
-    "name": "Addis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192595425?s=72&v=4",
-    "location": "Addis Ababa, Ethiopia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 752,
-    "publicContributions": 754,
-    "createdAt": "2024-12-23T10:30:47Z"
   },
   {
     "login": "SolomonTagesse",
@@ -14863,8 +14851,8 @@
     "company": "Little Light Ethiopia",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 727,
-    "publicContributions": 249,
+    "privateContributions": 816,
+    "publicContributions": 257,
     "createdAt": "2024-07-08T16:08:15Z"
   },
   {
@@ -14888,7 +14876,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 58,
-    "publicContributions": 1363,
+    "publicContributions": 1290,
     "createdAt": "2024-09-07T17:39:14Z"
   },
   {

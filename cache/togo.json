@@ -6247,7 +6247,7 @@
     "company": "Maison Phone Informatique",
     "twitterUsername": "julesledev",
     "followers": 1,
-    "privateContributions": 628,
+    "privateContributions": 630,
     "publicContributions": 2,
     "createdAt": "2020-09-22T14:30:41Z"
   },
@@ -6258,7 +6258,7 @@
     "location": "Togo",
     "company": "Louis Technology (LT)",
     "twitterUsername": "AgadaFrancisL",
-    "followers": 142,
+    "followers": 141,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-26T22:01:57Z"
@@ -6271,7 +6271,7 @@
     "company": "@TPG",
     "twitterUsername": "toutpuissantged",
     "followers": 80,
-    "privateContributions": 2227,
+    "privateContributions": 2233,
     "publicContributions": 315,
     "createdAt": "2019-11-25T05:51:58Z"
   },
@@ -6319,7 +6319,7 @@
     "company": "",
     "twitterUsername": "hophoet",
     "followers": 26,
-    "privateContributions": 1059,
+    "privateContributions": 1048,
     "publicContributions": 0,
     "createdAt": "2019-07-02T16:52:40Z"
   },
@@ -6331,8 +6331,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 240,
-    "publicContributions": 30,
+    "privateContributions": 268,
+    "publicContributions": 19,
     "createdAt": "2019-04-14T20:02:47Z"
   },
   {
@@ -6367,8 +6367,8 @@
     "company": "",
     "twitterUsername": "assekouda",
     "followers": 14,
-    "privateContributions": 53,
-    "publicContributions": 2,
+    "privateContributions": 68,
+    "publicContributions": 1,
     "createdAt": "2019-01-29T09:08:04Z"
   },
   {
@@ -6391,7 +6391,7 @@
     "company": "@bryanskovich",
     "twitterUsername": "BryanADJEI2",
     "followers": 12,
-    "privateContributions": 538,
+    "privateContributions": 524,
     "publicContributions": 0,
     "createdAt": "2019-02-21T11:31:07Z"
   },
@@ -6403,7 +6403,7 @@
     "company": "www",
     "twitterUsername": "leroymataahewa",
     "followers": 11,
-    "privateContributions": 111,
+    "privateContributions": 109,
     "publicContributions": 0,
     "createdAt": "2019-02-21T01:39:56Z"
   },
@@ -6415,21 +6415,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 902,
+    "privateContributions": 904,
     "publicContributions": 111,
     "createdAt": "2019-03-18T07:54:58Z"
-  },
-  {
-    "login": "jbokobosso",
-    "name": "Josué BOKOBOSSO",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46633795?s=72&u=fa52e147dc5b6248f8f90512597ac7a51b41b42a&v=4",
-    "location": "Togo",
-    "company": "JB",
-    "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-01-12T20:12:15Z"
   },
   {
     "login": "kajun04",
