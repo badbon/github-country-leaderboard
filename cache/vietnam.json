@@ -17612,7 +17612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 234,
+    "publicContributions": 81,
     "createdAt": "2025-03-09T12:35:29Z"
   },
   {
@@ -17624,7 +17624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2025-10-24T17:41:47Z"
   },
   {
@@ -17638,18 +17638,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-07-22T10:19:38Z"
-  },
-  {
-    "login": "Elinla",
-    "name": "Khánh Linh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/193527218?s=72&u=ee784e29dfb3e66f909e2dff832bfc7cdd6080c6&v=4",
-    "location": "HaNoi",
-    "company": "HUST",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2025-01-02T18:25:13Z"
   },
   {
     "login": "Duy-Khai-Pr0xY",
@@ -17672,7 +17660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 22,
     "createdAt": "2025-09-30T11:49:34Z"
   },
   {
@@ -17684,7 +17672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 106,
     "createdAt": "2025-02-26T02:32:24Z"
   },
   {
@@ -17696,7 +17684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 48,
     "createdAt": "2025-08-28T15:49:49Z"
   },
   {
@@ -17714,13 +17702,13 @@
   {
     "login": "VyNguyenHaKhanh-1256",
     "name": "Nguyễn Hà Khánh Vy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/194046211?s=72&u=10ab4c2d9bc2b65d4620a0236eb070533a8896ef&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/194046211?s=72&v=4",
     "location": "HaNoi",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 10,
     "createdAt": "2025-01-07T03:14:15Z"
   },
   {
@@ -17732,7 +17720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-07-26T04:45:18Z"
   },
   {
@@ -17767,8 +17755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 236,
+    "privateContributions": 34,
+    "publicContributions": 391,
     "createdAt": "2025-02-27T16:39:21Z"
   },
   {
@@ -17780,7 +17768,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 77,
+    "publicContributions": 100,
     "createdAt": "2025-11-25T10:28:53Z"
   },
   {
@@ -17796,18 +17784,6 @@
     "createdAt": "2025-12-07T16:04:06Z"
   },
   {
-    "login": "phinq-omt",
-    "name": "phinq",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212316319?s=72&u=a9ab644b3e2afce73d1b998558dd975650b56767&v=4",
-    "location": "Hanoi",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2025-05-19T06:26:22Z"
-  },
-  {
     "login": "HaiLV04",
     "name": "Lê Vũ Hải",
     "avatarUrl": "https://avatars.githubusercontent.com/u/195086460?s=72&u=e1173502a4c56dea3cdf7c82fc19ddd722811a46&v=4",
@@ -17815,8 +17791,8 @@
     "company": "FPT University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 778,
-    "publicContributions": 274,
+    "privateContributions": 969,
+    "publicContributions": 356,
     "createdAt": "2025-01-15T07:22:46Z"
   },
   {

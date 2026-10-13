@@ -17528,7 +17528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 42,
-    "publicContributions": 38,
+    "publicContributions": 43,
     "createdAt": "2025-02-12T05:23:33Z"
   },
   {
@@ -17538,9 +17538,9 @@
     "location": "Seoul",
     "company": "@woowabros",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 34,
     "createdAt": "2025-01-27T11:55:56Z"
   },
   {
@@ -17552,19 +17552,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-02-18T12:42:10Z"
   },
   {
     "login": "Heptagon372",
     "name": "윤승호",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203921928?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203921928?s=72&u=9b5e9ea369c956b6a7e79f6d4144d040ecd9a43e&v=4",
     "location": "Seoul",
     "company": "Sungkonghoe University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 397,
     "createdAt": "2025-03-18T23:44:33Z"
   },
   {
@@ -17575,8 +17575,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 328,
+    "privateContributions": 87,
+    "publicContributions": 279,
     "createdAt": "2025-08-24T09:30:05Z"
   },
   {
@@ -17586,7 +17586,7 @@
     "location": "Republic of Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 127,
+    "followers": 126,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-05-02T05:58:06Z"
@@ -17598,9 +17598,9 @@
     "location": "Seoul, Republic of Korea",
     "company": "",
     "twitterUsername": "bytaesu",
-    "followers": 90,
-    "privateContributions": 6095,
-    "publicContributions": 1809,
+    "followers": 98,
+    "privateContributions": 15658,
+    "publicContributions": 2344,
     "createdAt": "2024-04-10T09:31:01Z"
   },
   {
@@ -17610,21 +17610,21 @@
     "location": "Busan, Republic of Korea",
     "company": "Team Monolith",
     "twitterUsername": "",
-    "followers": 84,
-    "privateContributions": 1564,
-    "publicContributions": 1105,
+    "followers": 85,
+    "privateContributions": 2672,
+    "publicContributions": 760,
     "createdAt": "2024-03-04T08:25:17Z"
   },
   {
     "login": "hyesngy",
     "name": "hyeseong",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/165576376?s=72&u=05c5031dd8a5b0bff0123c2b7df92678e54db5a1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/165576376?s=72&u=3df1c6c7414c13e5dff86a52f090ae995484b8a8&v=4",
     "location": "Republic of Korea",
     "company": "Hansung Univ.",
     "twitterUsername": "",
-    "followers": 70,
-    "privateContributions": 7,
-    "publicContributions": 1318,
+    "followers": 71,
+    "privateContributions": 10,
+    "publicContributions": 921,
     "createdAt": "2024-03-31T15:39:15Z"
   },
   {
@@ -17634,9 +17634,9 @@
     "location": "Republic of Korea",
     "company": "@woowacourse 8th BE",
     "twitterUsername": "",
-    "followers": 44,
-    "privateContributions": 2008,
-    "publicContributions": 764,
+    "followers": 43,
+    "privateContributions": 2380,
+    "publicContributions": 915,
     "createdAt": "2024-10-10T07:11:01Z"
   },
   {
@@ -17646,9 +17646,9 @@
     "location": "Seoul, Republic of Korea",
     "company": "Soongsil University",
     "twitterUsername": "",
-    "followers": 44,
+    "followers": 46,
     "privateContributions": 105,
-    "publicContributions": 564,
+    "publicContributions": 325,
     "createdAt": "2024-03-23T16:04:43Z"
   },
   {
@@ -17660,7 +17660,7 @@
     "twitterUsername": "",
     "followers": 43,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2024-07-07T13:37:25Z"
   },
   {
@@ -17670,9 +17670,9 @@
     "location": "Republic of Korea, Busan",
     "company": "Busan Software Meister High School",
     "twitterUsername": "",
-    "followers": 42,
-    "privateContributions": 1288,
-    "publicContributions": 878,
+    "followers": 43,
+    "privateContributions": 1244,
+    "publicContributions": 770,
     "createdAt": "2024-01-22T15:44:28Z"
   },
   {
@@ -17684,7 +17684,7 @@
     "twitterUsername": "",
     "followers": 41,
     "privateContributions": 0,
-    "publicContributions": 1293,
+    "publicContributions": 1680,
     "createdAt": "2024-03-17T06:18:41Z"
   },
   {
@@ -17696,7 +17696,7 @@
     "twitterUsername": "",
     "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 956,
+    "publicContributions": 662,
     "createdAt": "2024-05-30T06:39:02Z"
   },
   {
@@ -17708,31 +17708,31 @@
     "twitterUsername": "",
     "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2024-05-01T06:00:01Z"
   },
   {
     "login": "seomsoo",
     "name": "Minsu Seo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156265567?s=72&u=5eee470a600e216b64c83980a6e2df97658cfd61&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156265567?s=72&u=8ea068b970e893a38dc76d07acb78ad07a8d7ed4&v=4",
     "location": "Korea, Republic of",
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 54,
-    "publicContributions": 1067,
+    "privateContributions": 56,
+    "publicContributions": 1039,
     "createdAt": "2024-01-11T01:07:10Z"
   },
   {
     "login": "GitJIHO",
-    "name": "JIHO LEE",
+    "name": "JIHO LEE (dodo)",
     "avatarUrl": "https://avatars.githubusercontent.com/u/161289673?s=72&u=3763d65415638b4e56649a6669aabb5e2776b909&v=4",
     "location": "Republic of Korea",
     "company": "KakaoCloud",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 365,
+    "publicContributions": 95,
     "createdAt": "2024-02-26T06:56:48Z"
   },
   {
@@ -683146,5 +683146,17 @@
     "privateContributions": 0,
     "publicContributions": 91,
     "createdAt": "2026-06-13T04:05:29Z"
+  },
+  {
+    "login": "lymanny",
+    "name": "Manny Ly",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/66889182?s=72&u=8daa4a69c7641ee31cd61954415dff795747d15f&v=4",
+    "location": "South Korea",
+    "company": "Inje University, KOSIGN, Webcash Busan IT Center",
+    "twitterUsername": "",
+    "followers": 9,
+    "privateContributions": 0,
+    "publicContributions": 78,
+    "createdAt": "2020-06-13T22:37:21Z"
   }
 ]

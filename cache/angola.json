@@ -18224,7 +18224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 29,
-    "publicContributions": 40,
+    "publicContributions": 34,
     "createdAt": "2021-06-23T20:14:21Z"
   },
   {
@@ -18234,7 +18234,7 @@
     "location": "Luanda",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-04-21T23:28:36Z"
@@ -18270,7 +18270,7 @@
     "location": "luanda",
     "company": "Ciencias da Computacao",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 78,
     "createdAt": "2021-04-20T22:48:47Z"
@@ -18284,7 +18284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 8,
     "createdAt": "2021-10-15T20:34:34Z"
   },
   {
@@ -18308,7 +18308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 57,
     "createdAt": "2021-11-14T19:56:25Z"
   },
   {
@@ -18318,9 +18318,9 @@
     "location": "Luanda, Angola",
     "company": "Digital Boost",
     "twitterUsername": "MrioVarela4",
-    "followers": 214,
-    "privateContributions": 723,
-    "publicContributions": 39,
+    "followers": 205,
+    "privateContributions": 334,
+    "publicContributions": 25,
     "createdAt": "2020-10-06T14:21:27Z"
   },
   {
@@ -18330,9 +18330,9 @@
     "location": "Angola",
     "company": "Uija Code",
     "twitterUsername": "",
-    "followers": 178,
-    "privateContributions": 15,
-    "publicContributions": 56,
+    "followers": 180,
+    "privateContributions": 28,
+    "publicContributions": 130,
     "createdAt": "2020-03-26T23:25:15Z"
   },
   {
@@ -18354,9 +18354,9 @@
     "location": "Luanda-Angola",
     "company": "@monotono",
     "twitterUsername": "",
-    "followers": 107,
-    "privateContributions": 72,
-    "publicContributions": 16,
+    "followers": 106,
+    "privateContributions": 109,
+    "publicContributions": 27,
     "createdAt": "2020-07-31T23:11:50Z"
   },
   {
@@ -18378,21 +18378,21 @@
     "location": "Luanda - Angola ",
     "company": "",
     "twitterUsername": "tuma_sara",
-    "followers": 98,
-    "privateContributions": 194,
-    "publicContributions": 49,
+    "followers": 99,
+    "privateContributions": 185,
+    "publicContributions": 78,
     "createdAt": "2020-02-21T10:55:45Z"
   },
   {
     "login": "julianasoba",
     "name": "Juliana Soba",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/73260408?s=72&u=0cf1eaa0e837461802ae53970e3d44436edd4fde&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/73260408?s=72&u=8497d231d6922f92db110d03c26191c9b05a7770&v=4",
     "location": "Luanda, Angola",
-    "company": "",
+    "company": "Frente Animal",
     "twitterUsername": "",
-    "followers": 96,
-    "privateContributions": 81,
-    "publicContributions": 74,
+    "followers": 97,
+    "privateContributions": 127,
+    "publicContributions": 59,
     "createdAt": "2020-10-21T22:54:42Z"
   },
   {
@@ -18402,9 +18402,9 @@
     "location": "Angola",
     "company": "",
     "twitterUsername": "aldair03avelino",
-    "followers": 91,
-    "privateContributions": 1069,
-    "publicContributions": 228,
+    "followers": 95,
+    "privateContributions": 1208,
+    "publicContributions": 179,
     "createdAt": "2020-09-22T14:41:19Z"
   },
   {
@@ -18415,20 +18415,20 @@
     "company": "RNC, (SU) LDA",
     "twitterUsername": "ricardo_camisa",
     "followers": 89,
-    "privateContributions": 230,
-    "publicContributions": 7,
+    "privateContributions": 203,
+    "publicContributions": 5,
     "createdAt": "2020-09-07T10:17:27Z"
   },
   {
     "login": "PedroMakengo",
     "name": "Pedro Makengo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/61626420?s=72&u=f4b0d45afa8d3e32bb7bf8c4721adbd2087d5952&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/61626420?s=72&u=84292d37a0f3d86b3e274336ef16b10fa3041910&v=4",
     "location": "Angola",
     "company": "@IS4-S ",
     "twitterUsername": "PedroMakengo",
     "followers": 88,
-    "privateContributions": 971,
-    "publicContributions": 307,
+    "privateContributions": 968,
+    "publicContributions": 300,
     "createdAt": "2020-02-29T14:51:08Z"
   },
   {
