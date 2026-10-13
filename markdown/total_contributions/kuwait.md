@@ -1,6 +1,6 @@
 # Total Contributions - Kuwait
 
-Generated: 2026-10-13T02:10:18.923Z
+Generated: 2026-10-13T03:35:02.862Z
 
 Users: 799
 
@@ -10,7 +10,7 @@ Users: 799
 | 2 | [ghaith99](https://github.com/ghaith99) |  |  |  | Kuwait | 6805 |
 | 3 | [buaziz](https://github.com/buaziz) | Buaziz |  |  | Kuwait | 6794 |
 | 4 | [uusa35](https://github.com/uusa35) | Usama.Ahmed | 965 65772444 |  | kuwait | 6287 |
-| 5 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6082 |
+| 5 | [drhema](https://github.com/drhema) | Ibrahim Elsherbiny | Ibrahim |  | Kuwait | 6108 |
 | 6 | [BAWES](https://github.com/BAWES) | Khalid Al-Mutawa | BAWES |  | Kuwait | 5968 |
 | 7 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Dsrpt. | AbdulkaderSafi | Kuwait | 5330 |
 | 8 | [bigboss97lnt](https://github.com/bigboss97lnt) | Nasser Tahan | Yuehlia | bigboss97lnt | Kuwait | 5274 |
@@ -20,9 +20,9 @@ Users: 799
 | 12 | [knro](https://github.com/knro) | Jasem Mutlaq |  |  | Kuwait | 4120 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Boubyan Bank |  | Kuwait | 3660 |
 | 14 | [mulaifi](https://github.com/mulaifi) | Salem Almulaifi | LEAN | SalemAlmulaifi | Kuwait | 3623 |
-| 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3567 |
+| 15 | [iZaL](https://github.com/iZaL) | Afzal Abbas |  |  | Kuwait | 3570 |
 | 16 | [careless10](https://github.com/careless10) | Menawer | Ruba |  | Kuwait | 3525 |
-| 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3493 |
+| 17 | [DiNaSoR](https://github.com/DiNaSoR) | BuYousef |  |  | Kuwait | 3506 |
 | 18 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi |  |  | Kuwait | 3463 |
 | 19 | [tammerofficial](https://github.com/tammerofficial) | tammer | tammerofficial | tammerofficial | Kuwait City | 3386 |
 | 20 | [saudshaddad](https://github.com/saudshaddad) | Saud Shaddad | @rasameel  @Elite-MA-Academy  | saudshaddad | Kuwait | 3272 |

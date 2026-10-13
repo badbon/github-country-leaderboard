@@ -1,14 +1,14 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-13T02:17:37.649Z
+Generated: 2026-10-13T03:42:32.268Z
 
 Users: 1753
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3189 |
-| 2 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3063 |
-| 3 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3048 |
+| 2 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3165 |
+| 3 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3063 |
 | 4 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 2530 |
 | 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2388 |
 | 6 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2029 |

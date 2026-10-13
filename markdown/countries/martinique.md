@@ -20,7 +20,7 @@ Indexed users: 75
 | 6 | [docVoid](https://github.com/docVoid) | void216 | Martinique | 1,577 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE | Martinique | 1,105 |
 | 8 | [esrid](https://github.com/esrid) | ADS | Martinique | 942 |
-| 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 934 |
+| 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel | Martinique | 940 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | Martinique | 821 |
 | 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 800 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. | Martinique | 466 |
@@ -31,7 +31,7 @@ Indexed users: 75
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART | Martinique | 160 |
 | 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Martinique | 139 |
 | 19 | [marieangeliquepied](https://github.com/marieangeliquepied) | Marie-Angélique PIED | Martinique  | 126 |
-| 20 | [nadlgit](https://github.com/nadlgit) | Nadine | Martinique | 109 |
+| 20 | [nadlgit](https://github.com/nadlgit) | Nadine | Martinique | 107 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 75
 | 19 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit | Martinique | 6 |
 | 20 | [phnxtrill](https://github.com/phnxtrill) | Quentin | Fort-de-France, Martinique | 6 |
 
-Generated: 2026-10-13T02:15:36.102Z
+Generated: 2026-10-13T03:41:22.496Z

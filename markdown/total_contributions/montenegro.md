@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-13T02:18:53.719Z
+Generated: 2026-10-13T03:44:46.880Z
 
 Users: 891
 
@@ -18,7 +18,7 @@ Users: 891
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5983 |
 | 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 5767 |
 | 12 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5645 |
-| 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5409 |
+| 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5471 |
 | 14 | [zee229](https://github.com/zee229) | Nikita Yastreb |  |  | Montenegro, Bar | 5224 |
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | @vadahq |  | Montenegro | 5136 |
 | 16 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Kayama D.O.O. |  | Montenegro | 4714 |

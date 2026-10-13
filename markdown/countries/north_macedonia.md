@@ -13,8 +13,8 @@ Indexed users: 1,929
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sofe1204](https://github.com/sofe1204) | Nikola Sofeski | Skopje | 21,275 |
-| 2 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov | Kochani, Macedonia | 9,136 |
-| 3 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 9,016 |
+| 2 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 10,836 |
+| 3 | [DarkoMK](https://github.com/DarkoMK) | Darko Cebov | Kochani, Macedonia | 9,136 |
 | 4 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 7,521 |
 | 5 | [nushkovg](https://github.com/nushkovg) | Goran Nushkov | Skopje, North Macedonia | 7,086 |
 | 6 | [Bogatinovski](https://github.com/Bogatinovski) | Dejan Bogatinovski | Macedonia [FYROM] | 6,598 |
@@ -51,7 +51,7 @@ Indexed users: 1,929
 | 12 | [ardijancuri](https://github.com/ardijancuri) | Ardijan Curi | Skopje | 982 |
 | 13 | [bfzli](https://github.com/bfzli) | Benjamin | North Macedonia | 933 |
 | 14 | [gocemitevski](https://github.com/gocemitevski) | Goce Mitevski | Skopje, North Macedonia | 922 |
-| 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 907 |
+| 15 | [ssbarbee](https://github.com/ssbarbee) |  | Skopje, Macedonia | 890 |
 | 16 | [stojce](https://github.com/stojce) | Stojce Slavkovski | Skopje, Macedonia | 861 |
 | 17 | [KralMarko123](https://github.com/KralMarko123) | Marko Markovikj | Skopje | 839 |
 | 18 | [EienMosu](https://github.com/EienMosu) | Ozkan Selcuk | North Macedonia/Skopje | 806 |
@@ -83,4 +83,4 @@ Indexed users: 1,929
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-13T02:24:35.750Z
+Generated: 2026-10-13T03:51:26.001Z

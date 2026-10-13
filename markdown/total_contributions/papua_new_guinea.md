@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-13T02:26:37.138Z
+Generated: 2026-10-13T03:57:03.838Z
 
 Users: 296
 
@@ -12,8 +12,8 @@ Users: 296
 | 4 | [BruinGrowly](https://github.com/BruinGrowly) | Wellington Taureka |  |  | Port Moresby, Papua New Guinea | 4308 |
 | 5 | [myitsolutionspg](https://github.com/myitsolutionspg) | Melky Warinak | My IT Solutions |  | Port Moresby | 3055 |
 | 6 | [n30dyn4m1c](https://github.com/n30dyn4m1c) | Neo Malesa |  | n30dyn4m1c | Port Moresby, Papua New Guinea | 3007 |
-| 7 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 2122 |
-| 8 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 1676 |
+| 7 | [jm0535](https://github.com/jm0535) | Jimmy Moses |  |  | Papua New Guinea | 2123 |
+| 8 | [glenhayoge](https://github.com/glenhayoge) | Glen G Hayoge | Dzagoo Digital Technologies-https://dzagoo.com | GHayoge | Papua New Guinea | 1640 |
 | 9 | [alefsolutions](https://github.com/alefsolutions) | Louis Ronald | Alef Digital Solutions |  | Port Moresby | 1166 |
 | 10 | [eugene-pande](https://github.com/eugene-pande) | Eugene Pande |  |  | Port Moresby, Papua New Guinea | 1136 |
 | 11 | [Amesi](https://github.com/Amesi) | Victor Temokang |  |  | Papua New Guinea | 1073 |

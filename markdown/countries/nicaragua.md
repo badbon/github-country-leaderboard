@@ -1,6 +1,6 @@
 # Nicaragua
 
-Indexed users: 1,395
+Indexed users: 1,394
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,395
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-13T02:22:20.390Z
+Generated: 2026-10-13T03:49:04.920Z
