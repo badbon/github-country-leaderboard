@@ -1,6 +1,6 @@
 # Total Contributions - Denmark
 
-Generated: 2026-10-13T16:42:36.392Z
+Generated: 2026-10-13T18:11:08.872Z
 
 Users: 19312
 
@@ -13,16 +13,16 @@ Users: 19312
 | 5 | [zahlio](https://github.com/zahlio) | Christoffer Mikkelsen | @flowbasedk  |  | Denmark | 24636 |
 | 6 | [mahope](https://github.com/mahope) | Mads Holst Jensen | Mahope.dk |  | Fyn, Denmark | 23572 |
 | 7 | [JonasAbde](https://github.com/JonasAbde) | Jonas Abde | Student @ Erhvervsakademi Aarhus |  | Denmark  | 22194 |
-| 8 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang |  | lassestilvang | Copenhagen, Denmark | 18851 |
-| 9 | [TanvirAlam](https://github.com/TanvirAlam) | Tanvir Alam | Xiia |  | Denmark | 16334 |
-| 10 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Freelance | trenskow | Aarhus, Denmark | 15978 |
-| 11 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | @this-is-learning |  | Holstebro, Denmark | 15540 |
-| 12 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | TV2 |  | Denmark | 15097 |
-| 13 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Epoch Engineering |  | Copenhagen | 14885 |
-| 14 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | @Geocodio @cboxdk  | cboxdk | Denmark | 14434 |
-| 15 | [kimdv](https://github.com/kimdv) | Kim de Vos | @vippsas  | kimdv | Aarhus, Denmark  | 13968 |
-| 16 | [atiti](https://github.com/atiti) | Attila Sukosd | AIRTAME ApS |  | Copenhagen, Denmark | 13262 |
-| 17 | [luxass](https://github.com/luxass) | Lucas Nørgård | @KvalitetsIT | ssaxul | Aarhus, Denmark | 12712 |
-| 18 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Holgarsson Consulting |  | Copenhagen, Denmark | 12638 |
-| 19 | [Marti-S](https://github.com/Marti-S) | Marti | @FormaEngine |  | Denmark | 12557 |
+| 8 | [marti-s](https://github.com/marti-s) | Marti Staerfeldt | @FormaEngine |  | Denmark | 18981 |
+| 9 | [lassestilvang](https://github.com/lassestilvang) | Lasse Stilvang |  | lassestilvang | Copenhagen, Denmark | 18851 |
+| 10 | [TanvirAlam](https://github.com/TanvirAlam) | Tanvir Alam | Xiia |  | Denmark | 16334 |
+| 11 | [trenskow](https://github.com/trenskow) | Kristian Trenskow | Freelance | trenskow | Aarhus, Denmark | 15978 |
+| 12 | [LayZeeDK](https://github.com/LayZeeDK) | Lars Gyrup Brink Nielsen | @this-is-learning |  | Holstebro, Denmark | 15540 |
+| 13 | [devantler](https://github.com/devantler) | Nikolai Emil Damm | TV2 |  | Denmark | 15097 |
+| 14 | [EpochBoy](https://github.com/EpochBoy) | EpochBoy | Epoch Engineering |  | Copenhagen | 14885 |
+| 15 | [sylvesterdamgaard](https://github.com/sylvesterdamgaard) | Sylvester Damgaard | @Geocodio @cboxdk  | cboxdk | Denmark | 14434 |
+| 16 | [kimdv](https://github.com/kimdv) | Kim de Vos | @vippsas  | kimdv | Aarhus, Denmark  | 13968 |
+| 17 | [atiti](https://github.com/atiti) | Attila Sukosd | AIRTAME ApS |  | Copenhagen, Denmark | 13262 |
+| 18 | [luxass](https://github.com/luxass) | Lucas Nørgård | @KvalitetsIT | ssaxul | Aarhus, Denmark | 12712 |
+| 19 | [holgarsson](https://github.com/holgarsson) | Rói Holgarsson | Holgarsson Consulting |  | Copenhagen, Denmark | 12638 |
 | 20 | [michaelthuren](https://github.com/michaelthuren) | Michael Thuren |  |  | Copenhagen | 12088 |

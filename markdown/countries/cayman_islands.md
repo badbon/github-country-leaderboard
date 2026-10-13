@@ -12,7 +12,7 @@ Indexed users: 124
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,046 |
+| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Cayman Islands | 22,106 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | Cayman Islands | 7,536 |
 | 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | Cayman Islands | 4,937 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle | 🇰🇾 Cayman Islands | 3,750 |
@@ -83,4 +83,4 @@ Indexed users: 124
 | 19 | [dcimring](https://github.com/dcimring) | Daniel | Cayman Islands | 16 |
 | 20 | [RJDevGroup](https://github.com/RJDevGroup) | RJ Dev Group | George Town | 15 |
 
-Generated: 2026-10-13T16:35:39.705Z
+Generated: 2026-10-13T18:05:56.232Z

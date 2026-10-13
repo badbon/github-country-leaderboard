@@ -1,14 +1,14 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-13T16:32:06.689Z
+Generated: 2026-10-13T18:01:15.759Z
 
 Users: 533
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | imbra |  | Botswana, Gaborone | 8495 |
-| 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Albatros network | soundninja0401 | Botswana,Gaborone | 8251 |
-| 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 2677 |
+| 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Albatros network | soundninja0401 | Botswana,Gaborone | 8279 |
+| 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gitwork |  | Gaborone | 2678 |
 | 4 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi |  |  | Gaborone, Botswana | 2611 |
 | 5 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Ras Ali Labs  |  | Botswana, Gaborone | 2598 |
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | @I-kenye  |  | Maun, Botswana | 2397 |

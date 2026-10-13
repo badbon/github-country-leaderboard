@@ -1,6 +1,6 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-13T16:35:30.542Z
+Generated: 2026-10-13T18:04:18.978Z
 
 Users: 563
 
@@ -13,12 +13,12 @@ Users: 563
 | 5 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Zing Developers |  | Praia, Cabo Verde | 2064 |
 | 6 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | X.Lab (TV1) \| thiagoci.com |  | Praia Grande - SP | 1897 |
 | 7 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Inventta |  | Praia Grande/SP | 1793 |
-| 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1750 |
+| 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | @nubank |  | Praia Grande | 1785 |
 | 9 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Monkey Branch |  | Itajai - Praia Brava | 1378 |
 | 10 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves |  |  | Praia, Cape Verde | 1362 |
 | 11 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | DescPay |  | Praia Grande | 1295 |
 | 12 | [Steravy](https://github.com/Steravy) | Stefan Victoria  |  | Ste_ravy | Praia, Cape Verde | 1290 |
-| 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1286 |
+| 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Tray |  | Praia Grande - SP | 1277 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana |  |  | Praia do Sonho - Palhoça, SC - Brasil | 1215 |
 | 15 | [peeta98](https://github.com/peeta98) | Pedro Moreira |  |  | Terceira, Praia da Vitória | 1207 |
 | 16 | [Denio26](https://github.com/Denio26) | Dénio Melo | @DevMasters-Lda |  | Cape Verde | 1164 |

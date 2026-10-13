@@ -1,6 +1,6 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-13T16:34:15.918Z
+Generated: 2026-10-13T18:02:58.481Z
 
 Users: 235
 
@@ -14,10 +14,10 @@ Users: 235
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | @vovota |  | Bujumbura,Burundi | 1653 |
 | 7 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | @kubwacu-entreprise  | kalculata | Bujumbura, Burundi | 1554 |
 | 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | ACLIS | gatarelib | Burundi | 1521 |
-| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Magis BI |  | Burundi/Bujumbura | 1514 |
-| 10 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 1288 |
-| 11 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1261 |
-| 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1244 |
+| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Magis BI |  | Burundi/Bujumbura | 1507 |
+| 10 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1290 |
+| 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Mediabox | bon_tertius | Bujumbura, Burundi | 1288 |
+| 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 1261 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 1108 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Immadridista | b3rking | Burundi | 1026 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 990 |

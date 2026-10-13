@@ -48,7 +48,7 @@ Indexed users: 1,276
 | 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,486 |
 | 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,476 |
 | 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,464 |
-| 12 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,161 |
+| 12 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,168 |
 | 13 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,110 |
 | 14 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández | Universidad de Ciencias Informáticas, La Habana, Cuba | 1,104 |
 | 15 | [apokaliptolesamale](https://github.com/apokaliptolesamale) | Dailyn García Domínguez | La Habana, Cuba | 994 |
@@ -67,13 +67,13 @@ Indexed users: 1,276
 | 3 | [GamerHack](https://github.com/GamerHack) |  | Cuba | 206 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro | La Habana, Cuba | 144 |
 | 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 134 |
-| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 132 |
+| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 133 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | La Habana, Cuba | 115 |
 | 10 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro | La Habana, Cuba | 111 |
 | 11 | [Innavoj](https://github.com/Innavoj) | Innavoj | Cuba | 110 |
-| 12 | [CJPD00](https://github.com/CJPD00) | CJPD00 | Cuba | 103 |
+| 12 | [CJPD00](https://github.com/CJPD00) | CJPD00 | Cuba | 104 |
 | 13 | [saulin18](https://github.com/saulin18) | Saúl Sondón | Holguín, Cuba | 94 |
 | 14 | [ObisoftDev](https://github.com/ObisoftDev) | Obisoft Dev | Cuba | 76 |
 | 15 | [ALbertE03](https://github.com/ALbertE03) | Albert | La Habana, Cuba | 75 |
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-13T16:41:18.402Z
+Generated: 2026-10-13T18:09:38.837Z

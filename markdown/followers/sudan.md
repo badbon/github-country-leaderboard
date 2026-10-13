@@ -1,6 +1,6 @@
 # Followers - Sudan
 
-Generated: 2026-10-13T16:12:19.580Z
+Generated: 2026-10-13T17:37:46.902Z
 
 Users: 729
 
@@ -14,7 +14,7 @@ Users: 729
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 112 |
 | 7 | [MohdMuslim92](https://github.com/MohdMuslim92) | Mohammed Saeed |  | MohdMuslim92 | Sudan - Khartoum | 109 |
 | 8 | [phr3nzy](https://github.com/phr3nzy) | Osama Adil |  | _phr3nzy | Sudan | 90 |
-| 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia |  | 0x01_Muawia | Sudan | 88 |
+| 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia |  | 0x01_Muawia | Sudan | 87 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab |  | abdalla__arbab | Khartoum, Sudan | 76 |
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | I work for myself ✋ |  | sudan | 74 |
 | 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed |  |  | Sudan | 63 |

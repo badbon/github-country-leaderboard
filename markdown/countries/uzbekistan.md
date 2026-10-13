@@ -1,6 +1,6 @@
 # Uzbekistan
 
-Indexed users: 9,531
+Indexed users: 9,530
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 9,531
 | 19 | [Andrey0189](https://github.com/Andrey0189) | Andrew | Tashkent | 310 |
 | 20 | [mukhtorov](https://github.com/mukhtorov) | Sardor | Tashkent, Uzbekistan | 299 |
 
-Generated: 2026-10-13T16:18:53.347Z
+Generated: 2026-10-13T17:47:58.225Z

@@ -16,22 +16,22 @@ Indexed users: 471
 | 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 9,503 |
 | 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Benin | 8,834 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,892 |
-| 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,214 |
+| 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 7,267 |
 | 6 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 6,543 |
 | 7 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 5,121 |
 | 8 | [BOCOVO](https://github.com/BOCOVO) | bocovo | Cotonou, Benin | 4,421 |
 | 9 | [Block67](https://github.com/Block67) | Rahamane ₿ODA | Benin, Cotonou | 4,167 |
 | 10 | [ludndev](https://github.com/ludndev) | Judicaël AHYI | Cotonou, Benin | 3,993 |
 | 11 | [iyosayi0x](https://github.com/iyosayi0x) | Iyosayi | Nigeria , Benin  | 3,980 |
-| 12 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,908 |
+| 12 | [Yoannoza](https://github.com/Yoannoza) | Yoann OZA | Cotonou, Benin | 3,905 |
 | 13 | [Reqima-dev](https://github.com/Reqima-dev) | Abdul A. KONDO | Benin, Cotonou | 3,842 |
 | 14 | [Richard6141](https://github.com/Richard6141) | Richard SALANON | Cotonou, Bénin | 3,629 |
 | 15 | [Van064886](https://github.com/Van064886) | Vanique ATADE  | Cotonou, Benin | 3,435 |
-| 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,328 |
+| 16 | [20Frederic20](https://github.com/20Frederic20) |  | Benin, Cotonou | 3,326 |
 | 17 | [Aulerien](https://github.com/Aulerien) | TCHANHOUIN Amede Angel Aulerien | Benin, Cotonou | 3,226 |
 | 18 | [salemnouhou](https://github.com/salemnouhou) | Salem Souleymane NOUHOU | Cotonou, BENIN | 3,171 |
-| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,161 |
-| 20 | [eliotfgn](https://github.com/eliotfgn) | Eliot FAGNON | Cotonou, Benin | 3,117 |
+| 19 | [mdnjohn](https://github.com/mdnjohn) | John B. | Benin | 3,158 |
+| 20 | [Kinbor1994](https://github.com/Kinbor1994) | KINNOUME S. Borel | BENIN | 3,121 |
 
 ## Public Contributions
 
@@ -56,7 +56,7 @@ Indexed users: 471
 | 17 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 742 |
 | 18 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 595 |
 | 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
-| 20 | [Nozel-silva](https://github.com/Nozel-silva) | Nuel Agafie | Benin | 583 |
+| 20 | [delsDin](https://github.com/delsDin) | Dels Dinla | Benin | 588 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 72 |
 
-Generated: 2026-10-13T16:30:53.113Z
+Generated: 2026-10-13T17:59:11.369Z

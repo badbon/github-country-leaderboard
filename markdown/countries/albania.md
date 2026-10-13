@@ -26,7 +26,7 @@ Indexed users: 1,184
 | 12 | [lacieri](https://github.com/lacieri) | Erand Laci | Tirana, Albania | 5,678 |
 | 13 | [emilushi](https://github.com/emilushi) | Eduard Milushi | Albania | 5,568 |
 | 14 | [nertilpoci](https://github.com/nertilpoci) | Nertil Poci | Albania | 5,500 |
-| 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,670 |
+| 15 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 4,672 |
 | 16 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 4,397 |
 | 17 | [sly503](https://github.com/sly503) | Fatjon Rami | Tirana | 4,363 |
 | 18 | [blenardpazari](https://github.com/blenardpazari) | Blenard Pazari | Tirana | 4,321 |
@@ -46,7 +46,7 @@ Indexed users: 1,184
 | 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
 | 8 | [genciiv](https://github.com/genciiv) | G-code | Albania | 1,070 |
 | 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 980 |
-| 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
+| 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 914 |
 | 11 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 883 |
 | 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 782 |
 | 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
@@ -65,7 +65,7 @@ Indexed users: 1,184
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,781 |
 | 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,889 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 774 |
-| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 718 |
+| 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 719 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 459 |
 | 6 | [DenDev712](https://github.com/DenDev712) | Denis Papara | Tirana, Albania | 226 |
 | 7 | [jonatoni](https://github.com/jonatoni) | Jona Azizaj | Albania | 157 |
@@ -79,8 +79,8 @@ Indexed users: 1,184
 | 15 | [nikolliervin](https://github.com/nikolliervin) | undefined | Tirana, Albania | 88 |
 | 16 | [rinor](https://github.com/rinor) | Rinor Hoxha | Albania, Tirane | 87 |
 | 17 | [AndiXplorer](https://github.com/AndiXplorer) | Young Moon | Albania | 85 |
-| 18 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 85 |
+| 18 | [joanjanku2000](https://github.com/joanjanku2000) | Joan Janku | Albania | 84 |
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
-| 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
+| 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 75 |
 
-Generated: 2026-10-13T16:23:28.112Z
+Generated: 2026-10-13T17:51:29.637Z

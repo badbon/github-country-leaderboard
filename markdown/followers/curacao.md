@@ -1,6 +1,6 @@
 # Followers - Curaçao
 
-Generated: 2026-10-13T16:41:53.850Z
+Generated: 2026-10-13T18:10:55.243Z
 
 Users: 53
 
@@ -9,14 +9,14 @@ Users: 53
 | 1 | [BalusC](https://github.com/BalusC) | Bauke Scholtz |  | OmniFaces | Willemstad, Curaçao | 448 |
 | 2 | [schroef](https://github.com/schroef) |  |  |  | Curaçao, Dutch Caribbean | 67 |
 | 3 | [dwarfland](https://github.com/dwarfland) | marc hoffman | RemObjects Software | dwarfland | Curaçao | 63 |
-| 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Loba Tech Ltd. |  | Curaçao | 63 |
+| 4 | [plopezbarbosa](https://github.com/plopezbarbosa) | Pierre López Barbosa | Loba Tech Ltd. |  | Curaçao | 62 |
 | 5 | [weyert](https://github.com/weyert) | Weyert de Boer |  |  | London, Curaçao | 43 |
 | 6 | [acesuares](https://github.com/acesuares) | Ace Suares | Suares & Co |  | Willemstad, Netherlands Antilles | 38 |
 | 7 | [rascoop](https://github.com/rascoop) | Richard Scoop |  |  | Curaçao, Dutch Caribbean | 33 |
 | 8 | [jentanbernardus](https://github.com/jentanbernardus) | Jentan Bernardus |  | jentanbernardus | Curaçao | 28 |
 | 9 | [frankgeerlings](https://github.com/frankgeerlings) | Frank Geerlings |  |  | Curaçao | 22 |
 | 10 | [nelreina](https://github.com/nelreina) | Nelreina |  | nelreina | Willemstad, Curacao | 19 |
-| 11 | [ekid](https://github.com/ekid) | Ekid | Eflavour |  | Willemstad | 15 |
+| 11 | [ekid](https://github.com/ekid) | Ekid | Eflavour |  | Willemstad | 16 |
 | 12 | [rscoopcur](https://github.com/rscoopcur) | Richard Scoop | Cursoft Development & Consultancy NV | rascoop | Willemstad, Curaçao, Dutch Caribbean | 15 |
 | 13 | [r3c4ll](https://github.com/r3c4ll) | Ali Moreno | XenoTrue N.V. | r3c4ll | Willemstad, Curaçao. | 13 |
 | 14 | [bythealphabet](https://github.com/bythealphabet) | Isaac Lucas |  | bythealphabet1 | Willemstad, Curacao | 7 |

@@ -1,12 +1,12 @@
 # Total Contributions - Cayman Islands
 
-Generated: 2026-10-13T16:35:39.705Z
+Generated: 2026-10-13T18:05:56.232Z
 
 Users: 124
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 22046 |
+| 1 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 22106 |
 | 2 | [evandrosaturnino](https://github.com/evandrosaturnino) | Evandro Saturnino | @etherfi-protocol | evandro_saturn | Cayman Islands | 7536 |
 | 3 | [yannickrocks](https://github.com/yannickrocks) | Yannick Mermet | IoFinnet |  | Cayman Islands | 4937 |
 | 4 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 3750 |

@@ -1,6 +1,6 @@
 # Total Contributions - Gambia
 
-Generated: 2026-10-13T16:48:11.925Z
+Generated: 2026-10-13T18:19:05.480Z
 
 Users: 78
 
@@ -17,7 +17,7 @@ Users: 78
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | African Commission on Human and Peoples' Rights | MarieLoumar | Banjul, The Gambia | 651 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gcubed | ghostkanyi | Gambia | 628 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 606 |
-| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 485 |
+| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave |  | gidave_ | Banjul, The Gambia | 486 |
 | 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | NAN |  | Banjul | 413 |
 | 14 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE |  |  | Gambia | 392 |
 | 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday |  |  | Banjul, The Gambia | 249 |

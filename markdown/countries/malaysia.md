@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,808
+Indexed users: 11,809
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 11,808
 | 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 458 |
 | 20 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 
-Generated: 2026-10-13T17:07:35.356Z
+Generated: 2026-10-13T18:19:42.493Z

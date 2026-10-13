@@ -12,11 +12,11 @@ Indexed users: 186
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 8,048 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 8,081 |
 | 2 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 5,503 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,281 |
-| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,427 |
-| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,331 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,223 |
+| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,469 |
+| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,335 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,976 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,918 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,793 |
@@ -37,9 +37,9 @@ Indexed users: 186
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 4,097 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 4,103 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,917 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,473 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,445 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,855 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,589 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,492 |
@@ -53,8 +53,8 @@ Indexed users: 186
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Georgetown, TX | 323 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 315 |
 | 16 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad | Guyana | 266 |
-| 17 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 251 |
-| 18 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 237 |
+| 17 | [billydavis](https://github.com/billydavis) | Billy Davis | Georgetown, Texas | 262 |
+| 18 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | Guyana | 251 |
 | 19 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | Georgetown, TX | 222 |
 | 20 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 206 |
 
@@ -65,7 +65,7 @@ Indexed users: 186
 | 1 | [xwings](https://github.com/xwings) | xwings | Georgetown, Penang | 334 |
 | 2 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 252 |
 | 3 | [xbze3](https://github.com/xbze3) | Ezra Minty | Guyana | 233 |
-| 4 | [skylerto](https://github.com/skylerto) | Skyler Layne | Georgetown, ON | 101 |
+| 4 | [skylerto](https://github.com/skylerto) | Skyler Layne | Georgetown, ON | 100 |
 | 5 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Georgetown, TX | 60 |
 | 6 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 49 |
 | 7 | [tylerwhall](https://github.com/tylerwhall) | Tyler Hall | Georgetown, KY | 48 |
@@ -77,10 +77,10 @@ Indexed users: 186
 | 13 | [rlisle](https://github.com/rlisle) | Ron Lisle | Georgetown, TX | 34 |
 | 14 | [NathanMLu](https://github.com/NathanMLu) | Nathan Lu | Georgetown, Texas | 30 |
 | 15 | [ocrram](https://github.com/ocrram) | Marco | Georgetown, TX | 30 |
-| 16 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | Georgetown, TX | 29 |
-| 17 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 28 |
+| 16 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 29 |
+| 17 | [ryanrotman](https://github.com/ryanrotman) | Ryan Rotman | Georgetown, TX | 29 |
 | 18 | [MichaelATang](https://github.com/MichaelATang) | Michael Tang | Guyana | 25 |
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-13T16:54:36.475Z
+Generated: 2026-10-13T18:22:58.666Z

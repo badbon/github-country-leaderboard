@@ -21,7 +21,7 @@ Indexed users: 132
 | 7 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 757 |
 | 8 | [wellawet](https://github.com/wellawet) | Wella Awet | South Sudan | 625 |
 | 9 | [AchukCodeMaster](https://github.com/AchukCodeMaster) | Johnson Achuk | Juba, South Sudan | 611 |
-| 10 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 520 |
+| 10 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 525 |
 | 11 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
 | 12 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 503 |
 | 13 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
@@ -45,7 +45,7 @@ Indexed users: 132
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
 | 7 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
 | 8 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 494 |
-| 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 387 |
+| 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 392 |
 | 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
 | 11 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 324 |
 | 12 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-13T16:11:46.612Z
+Generated: 2026-10-13T17:37:38.986Z

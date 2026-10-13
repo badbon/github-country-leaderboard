@@ -1,8 +1,8 @@
 # Public Contributions - Uganda
 
-Generated: 2026-10-13T16:18:35.387Z
+Generated: 2026-10-13T17:46:58.837Z
 
-Users: 3872
+Users: 3871
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 3872
 | 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL |  | buteramarcel | Kampala,Uganda | 2600 |
 | 11 | [afuchat1](https://github.com/afuchat1) | afuchat | AfuChat |  | Uganda | 2539 |
 | 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 2422 |
-| 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Concept Crashers @Concept-Crashers  | wambogohassan | Kampala Uganda | 2169 |
+| 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Peculiar Technologies Ltd @Peculiar256 | wambogohassan | Kampala Uganda | 2001 |
 | 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark |  |  | Kampala,Uganda | 1986 |
 | 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Netbritz |  | Kampala | 1958 |
 | 16 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | @OpenElements | danielmarvin785 | Kampala | 1947 |
 | 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | Wota creators Technologies  | JoashKutee80790 | uganda  | 1933 |
 | 18 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 1930 |
 | 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | @ReadBuddy, @airqo-platform | belindamarionk | Kampala, Uganda | 1904 |
-| 20 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan |  | TibzDankan | Kampala/Uganda | 1891 |
+| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | DINDU TECH |  | Kampala Uganda  | 1864 |

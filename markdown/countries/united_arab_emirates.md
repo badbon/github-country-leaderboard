@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,237
+Indexed users: 4,235
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 4,237
 | 14 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | United Arab Emirates, Dubai | 9,537 |
 | 15 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
 | 16 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
-| 17 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
-| 18 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
-| 19 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 7,294 |
-| 20 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Dubai, United Arab Emirates | 7,156 |
+| 17 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
+| 18 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
+| 19 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
+| 20 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | United Arab Emirates | 7,294 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,237
 | 19 | [FrayxRulez](https://github.com/FrayxRulez) | Fela | Dubai, United Arab Emirates | 366 |
 | 20 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 
-Generated: 2026-10-13T16:18:43.003Z
+Generated: 2026-10-13T17:47:07.914Z

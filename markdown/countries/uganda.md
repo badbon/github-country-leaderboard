@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,872
+Indexed users: 3,871
 
 | Leaderboard | Link |
 |---|---|
@@ -28,10 +28,10 @@ Indexed users: 3,872
 | 14 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,428 |
 | 15 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
 | 16 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 7,031 |
-| 17 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | Uganda kampala | 6,956 |
-| 18 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,942 |
-| 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
-| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
+| 17 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 6,709 |
+| 18 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | Bugema  Kampala-Uganda | 6,657 |
+| 19 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | Kampala, Uganda | 6,514 |
+| 20 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Kampala, Uganda | 6,463 |
 
 ## Public Contributions
 
@@ -49,14 +49,14 @@ Indexed users: 3,872
 | 10 | [Marcelofury](https://github.com/Marcelofury) | BUTERA MARCEL | Kampala,Uganda | 2,600 |
 | 11 | [afuchat1](https://github.com/afuchat1) | afuchat | Uganda | 2,539 |
 | 12 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 2,422 |
-| 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,169 |
+| 13 | [Chemistry2i](https://github.com/Chemistry2i) | WAMBOGO  HASSAN SADAT | Kampala Uganda | 2,001 |
 | 14 | [gwaiffemark001](https://github.com/gwaiffemark001) | Gwaiffe Mark | Kampala,Uganda | 1,986 |
 | 15 | [herberthk](https://github.com/herberthk) | Kavuma Herbert | Kampala | 1,958 |
 | 16 | [danielmarv](https://github.com/danielmarv) | Daniel Ntege | Kampala | 1,947 |
 | 17 | [Joshkovu](https://github.com/Joshkovu) | Kuteesa Joash | uganda  | 1,933 |
 | 18 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 1,930 |
 | 19 | [Codebmk](https://github.com/Codebmk) | Belinda Marion Kobusingye | Kampala, Uganda | 1,904 |
-| 20 | [Tibz-Dankan](https://github.com/Tibz-Dankan) | Tibesigwa Dankan | Kampala/Uganda | 1,891 |
+| 20 | [Vaniahchristian](https://github.com/Vaniahchristian) | Vaniah Christian | Kampala Uganda  | 1,864 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,872
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-13T16:18:35.387Z
+Generated: 2026-10-13T17:46:58.837Z

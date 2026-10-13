@@ -1,13 +1,13 @@
 # Total Contributions - Bahamas
 
-Generated: 2026-10-13T16:28:55.479Z
+Generated: 2026-10-13T17:56:44.046Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | @lightspeed |  | Freeport, Bahamas | 22190 |
-| 2 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3214 |
+| 2 | [dbraganca](https://github.com/dbraganca) | dbraganca |  |  | Bahamas | 3282 |
 | 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | @Basecamp | zoejessica | Bahamas / Canada | 3154 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Bond Sports |  | Casino Royale, Nassau, Bahamas | 3083 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan |  | ry_austin | Bahamas | 2501 |

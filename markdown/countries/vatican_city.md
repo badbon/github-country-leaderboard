@@ -13,7 +13,7 @@ Indexed users: 30
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 238 |
-| 2 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 168 |
+| 2 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 170 |
 | 3 | [kubonnt](https://github.com/kubonnt) |  | Vatican City | 158 |
 | 4 | [Wiktor-Borski](https://github.com/Wiktor-Borski) | Wiktor Borski | Vatican | 147 |
 | 5 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 77 |
@@ -37,7 +37,7 @@ Indexed users: 30
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 168 |
+| 1 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 170 |
 | 2 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 151 |
 | 3 | [xFaiafokkusu](https://github.com/xFaiafokkusu) | Faiafokkusu | Vatican | 42 |
 | 4 | [LBreda](https://github.com/LBreda) | Lorenzo Breda | Vatican City State | 25 |
@@ -72,10 +72,10 @@ Indexed users: 30
 | 8 | [JumperLiu](https://github.com/JumperLiu) | JumperLiu | Vatican | 5 |
 | 9 | [0xSums](https://github.com/0xSums) | ﷽ | Vatican City, Vatican | 4 |
 | 10 | [SavageAnonymous](https://github.com/SavageAnonymous) | Will Beattie | Vatican City? | 4 |
-| 11 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | Vatican City State  | 3 |
-| 12 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 3 |
-| 13 | [stanlin21](https://github.com/stanlin21) | stanlin | Vatican City | 3 |
-| 14 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 3 |
+| 11 | [Ventexx](https://github.com/Ventexx) | Ventex | Vatican City | 4 |
+| 12 | [Bayu-Risanto](https://github.com/Bayu-Risanto) | Christoforus Bayu Risanto | Vatican City State  | 3 |
+| 13 | [Czuowuek-SOS](https://github.com/Czuowuek-SOS) | amogus | Vatican | 3 |
+| 14 | [stanlin21](https://github.com/stanlin21) | stanlin | Vatican City | 3 |
 | 15 | [B00Mjack](https://github.com/B00Mjack) |  | Vatican City Città del Vaticano 00120 Vatican City | 2 |
 | 16 | [BigFatHat](https://github.com/BigFatHat) | Ryan Zhou | Vatican City State (Holy See) | 2 |
 | 17 | [fisgix](https://github.com/fisgix) | fisgix | Vatican City | 2 |
@@ -83,4 +83,4 @@ Indexed users: 30
 | 19 | [meereuk](https://github.com/meereuk) | KKUL | Vatican City | 2 |
 | 20 | [shapihelps-meta](https://github.com/shapihelps-meta) | Shapi | Vatican | 2 |
 
-Generated: 2026-10-13T16:19:50.597Z
+Generated: 2026-10-13T17:49:13.003Z

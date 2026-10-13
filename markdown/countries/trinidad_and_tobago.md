@@ -15,7 +15,7 @@ Indexed users: 256
 | 1 | [Spartanlasergun](https://github.com/Spartanlasergun) | Narendra Singh | Trinidad and Tobago | 6,424 |
 | 2 | [jeiang](https://github.com/jeiang) | Aidan Pinard | Trinidad and Tobago | 4,941 |
 | 3 | [jefroy](https://github.com/jefroy) | Ajay Sieunarine | Trinidad and Tobago | 3,850 |
-| 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,127 |
+| 4 | [kyledef](https://github.com/kyledef) | Kyle E DeFreitas | Canda / Trinidad and Tobago / St Vincent and the Grenadines | 3,139 |
 | 5 | [Emille1723](https://github.com/Emille1723) | Emille Henry | Trinidad and Tobago | 3,027 |
 | 6 | [Chiggs-I-Am](https://github.com/Chiggs-I-Am) | Stephan Wilson | Trinidad and Tobago | 2,947 |
 | 7 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 2,885 |
@@ -49,7 +49,7 @@ Indexed users: 256
 | 10 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | Trinidad and Tobago | 421 |
 | 11 | [Somi-Project](https://github.com/Somi-Project) | Somi | Trinidad And Tobago | 363 |
 | 12 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste | Trinidad and Tobago | 339 |
-| 13 | [dmcken](https://github.com/dmcken) | David Mc Ken | Trinidad and Tobago | 302 |
+| 13 | [dmcken](https://github.com/dmcken) | David Mc Ken | Trinidad and Tobago | 303 |
 | 14 | [rezziemaven](https://github.com/rezziemaven) | Sherezz Grant | Trinidad and Tobago | 264 |
 | 15 | [devxlag](https://github.com/devxlag) | Devon Murray | Trinidad and Tobago | 256 |
 | 16 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes | Trinidad and Tobago | 250 |
@@ -83,4 +83,4 @@ Indexed users: 256
 | 19 | [DionMS8](https://github.com/DionMS8) | Dion Singh | Trinidad and Tobago | 29 |
 | 20 | [wyntonfranklin](https://github.com/wyntonfranklin) | Wynton Franklin | Trinidad and Tobago | 29 |
 
-Generated: 2026-10-13T16:16:01.047Z
+Generated: 2026-10-13T17:45:32.945Z

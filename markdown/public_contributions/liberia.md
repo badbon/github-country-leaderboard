@@ -1,8 +1,8 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-13T17:05:42.409Z
+Generated: 2026-10-13T17:46:58.837Z
 
-Users: 209
+Users: 210
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 209
 | 9 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 312 |
 | 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  |  |  | Liberia | 286 |
 | 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Tec Liberia |  | Liberia | 256 |
-| 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |
-| 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 198 |
-| 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 179 |
-| 15 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 171 |
-| 16 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 157 |
-| 17 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 144 |
-| 18 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 139 |
-| 19 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 134 |
-| 20 | [armandosolisvillegas-max](https://github.com/armandosolisvillegas-max) | Armando José Solís Villegas |  |  | Liberia | 129 |
+| 12 | [cruso003](https://github.com/cruso003) | Geitodyu Henrique Crusoe |  | CrusoeHenrique | Paynesville, Liberia | 240 |
+| 13 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr |  | simeonatarr862 | Buchanan City, Liberia | 210 |
+| 14 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | TBAY Tech Service | FitzgeraldChal | Ontario, Canada & Monrovia, Liberia | 198 |
+| 15 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo |  |  | Monrovia, Liberia | 179 |
+| 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 171 |
+| 17 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 157 |
+| 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 144 |
+| 19 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 139 |
+| 20 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 134 |

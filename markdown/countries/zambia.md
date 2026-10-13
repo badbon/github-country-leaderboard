@@ -42,8 +42,8 @@ Indexed users: 1,339
 | 3 | [engineervix](https://github.com/engineervix) | Victor Miti | Lusaka, Zambia | 2,234 |
 | 4 | [thompsonmanda08](https://github.com/thompsonmanda08) | Thompson Manda | Zambia | 1,753 |
 | 5 | [RoyalMix](https://github.com/RoyalMix) | MOJAD - GOOS  | Zambia -lusaka - Kabwata  | 1,686 |
-| 6 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
-| 7 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,054 |
+| 6 | [lisotech](https://github.com/lisotech) | LISOTECH INNOVATIONS | LUSAKA ZAMBIA | 1,074 |
+| 7 | [Sonickmumba](https://github.com/Sonickmumba) | Sonick Mumba | Lusaka, Zambia | 1,069 |
 | 8 | [Simbarasheat](https://github.com/Simbarasheat) | Simbarashe Augustus Tembo | Zambia | 1,046 |
 | 9 | [rly0nheart](https://github.com/rly0nheart) | Ritchie Mwewa | Zambia | 998 |
 | 10 | [MS0C54073](https://github.com/MS0C54073) | Musonda Salimu | Zambia | 829 |
@@ -83,4 +83,4 @@ Indexed users: 1,339
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-13T16:21:17.035Z
+Generated: 2026-10-13T17:49:58.508Z

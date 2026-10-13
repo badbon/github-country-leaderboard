@@ -1,6 +1,6 @@
 # Followers - Angola
 
-Generated: 2026-10-13T16:23:43.882Z
+Generated: 2026-10-13T17:53:24.929Z
 
 Users: 2503
 
@@ -17,10 +17,10 @@ Users: 2503
 | 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | @clubmedtecnologia  |  | Angola/Luanda | 259 |
 | 10 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto |  | gentildpinto | Luanda, Angola | 257 |
 | 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Home office |  | Angola/Luanda | 223 |
-| 12 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Digital Boost | MrioVarela4 | Luanda, Angola | 214 |
-| 13 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola |  | CKuzola | Luanda, Angola | 208 |
+| 12 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola |  | CKuzola | Luanda, Angola | 208 |
+| 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Digital Boost | MrioVarela4 | Luanda, Angola | 205 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | BISC8 - CREATIVE AGENCY |  | Luanda - Angola | 181 |
-| 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Uija Code |  | Angola | 178 |
+| 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Uija Code |  | Angola | 180 |
 | 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo |  | cirilocussaca | Luanda, Amgola | 170 |
 | 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Software Engineer | manuelernest0 | Angola | 165 |
 | 18 | [bacarPereira](https://github.com/bacarPereira) | Abú-Bakr Pereira K | Elasticus | bacar_bc | Luanda,Angola | 164 |

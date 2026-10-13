@@ -1,14 +1,14 @@
 # Public Contributions - Åland Islands
 
-Generated: 2026-10-13T16:22:24.457Z
+Generated: 2026-10-13T17:50:58.318Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Unwrapped | Mike_Andreuzza | Mariehman, Åland Islands, Finland | 1129 |
-| 2 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 962 |
-| 3 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 825 |
+| 2 | [SaddamHosyn](https://github.com/SaddamHosyn) | Hussain Saddam |  |  | Mariehamn, Åland | 965 |
+| 3 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati |  |  | Mariehamn, Åland | 828 |
 | 4 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla |  |  | Mariehamn and Helsinki | 617 |
 | 5 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | @enfuce  |  | Mariehamn | 582 |
 | 6 | [kejpa](https://github.com/kejpa) | Kjell Hansen |  |  | Mariehamn, Åland Islands | 528 |
@@ -24,5 +24,5 @@ Users: 61
 | 16 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström |  |  | Åland Islands | 67 |
 | 17 | [ejmilli](https://github.com/ejmilli) | eliza john |  |  |  Åland Islands, Finland | 46 |
 | 18 | [johanwestling](https://github.com/johanwestling) | Johan Westling | @Aventyret |  | Åland, Finland | 46 |
-| 19 | [joakim-ha](https://github.com/joakim-ha) | Joakim Isaksson | Åland University of Applied Sciences |  | Åland Islands | 21 |
-| 20 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 14 |
+| 19 | [borsokman](https://github.com/borsokman) | Sagyn |  |  | Mariehamn & Stockholm  | 14 |
+| 20 | [tommybarden](https://github.com/tommybarden) |  |  |  | Åland Islands | 12 |

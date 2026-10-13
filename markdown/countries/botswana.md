@@ -13,8 +13,8 @@ Indexed users: 533
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kalungia](https://github.com/kalungia) | Abraham Kalungi | Botswana, Gaborone | 8,495 |
-| 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,251 |
-| 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,677 |
+| 2 | [Chalebgwa](https://github.com/Chalebgwa) | Pako Chalebgwa | Botswana,Gaborone | 8,279 |
+| 3 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 2,678 |
 | 4 | [tiromodibedi](https://github.com/tiromodibedi) | Tiro Modibedi | Gaborone, Botswana | 2,611 |
 | 5 | [rasali535](https://github.com/rasali535) | Alpheaus Chiwaze | Botswana, Gaborone | 2,598 |
 | 6 | [kmaphane](https://github.com/kmaphane) | Kenna Maphane | Maun, Botswana | 2,397 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-13T16:32:06.689Z
+Generated: 2026-10-13T18:01:15.759Z

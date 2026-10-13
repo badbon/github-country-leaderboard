@@ -1,13 +1,13 @@
 # Total Contributions - Somalia
 
-Generated: 2026-10-13T16:10:00.435Z
+Generated: 2026-10-13T17:35:58.552Z
 
 Users: 867
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [abdirahman-sharmarke](https://github.com/abdirahman-sharmarke) | ᵃᵇᵈⁱ | Astaan  |  | Somalia/ Mogdisho | 8651 |
-| 2 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7648 |
+| 2 | [hanadderia](https://github.com/hanadderia) | Abdulshakur Ahmed | SOMALI PAYMENT SWITCH (SPS) |  | Mogadishu, Somalia | 7657 |
 | 3 | [mohaaosman](https://github.com/mohaaosman) | Mohamed Osman |  | moha_a_osman | Mogadishu, Banaadir, Somalia | 7482 |
 | 4 | [baaslaawe](https://github.com/baaslaawe) | Abdalla Hassan Awale | @Adwaar Technologies | baaslaawe | somalia | 6967 |
 | 5 | [khalidhussein957](https://github.com/khalidhussein957) | khalid Hussein | Impetik Ltd |  | Mogadishu Somalia | 6473 |
@@ -15,7 +15,7 @@ Users: 867
 | 7 | [yousumohamed](https://github.com/yousumohamed) | Yousuf Mohamed | @Sahan-Labs  |  | somalia | 6012 |
 | 8 | [mhbaando](https://github.com/mhbaando) | kamaal Abshir | NextOne | mhbaando | Mogadishu Somalia | 4971 |
 | 9 | [xamiir](https://github.com/xamiir) | Abdullahi Abdi Ahmed | Bixi |  | Somalia  | 4759 |
-| 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 4390 |
+| 10 | [Mustafaa4A](https://github.com/Mustafaa4A) | Mustaf Abubakar Abdullahi | @kaabeup, @waagefaal | Mustafaa4A | Mogadishu, Somalia | 4356 |
 | 11 | [hanad124](https://github.com/hanad124) | Hanad Mohamed Dahir | @bulsho-development-bank |  | Mogadishu \| Somalia | 4087 |
 | 12 | [3bdirahman](https://github.com/3bdirahman) | Abdirahman jimale | premierBank |  | Mogadishu, Somalia | 4017 |
 | 13 | [mrabukar](https://github.com/mrabukar) | Mr Abukar | @Loranet-Technologies  |  | Mogadisho, Somalia | 3819 |

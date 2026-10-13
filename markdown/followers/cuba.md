@@ -1,6 +1,6 @@
 # Followers - Cuba
 
-Generated: 2026-10-13T16:41:18.402Z
+Generated: 2026-10-13T18:09:38.837Z
 
 Users: 1276
 
@@ -11,13 +11,13 @@ Users: 1276
 | 3 | [GamerHack](https://github.com/GamerHack) |  |  | GamerHack93 | Cuba | 206 |
 | 4 | [herbertDev12](https://github.com/herbertDev12) | Herbert L. Navarro |  |  | La Habana, Cuba | 144 |
 | 5 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 134 |
-| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 132 |
+| 6 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 133 |
 | 7 | [aurielfournier](https://github.com/aurielfournier) | Auriel M.V. Fournier | Illinois Natural History Survey |  | Havana, IL  | 127 |
 | 8 | [Eilen-Fonseca-Garrote](https://github.com/Eilen-Fonseca-Garrote) | Eilen Fonseca Garrote  | CUJAE  |  | La Habana, Cuba | 127 |
 | 9 | [yudivian](https://github.com/yudivian) | Yudivián Almeida Cruz | Universidad de La Habana |  | La Habana, Cuba | 115 |
 | 10 | [vircoding](https://github.com/vircoding) | Luis Miguel Navarro |  | vircoding | La Habana, Cuba | 111 |
 | 11 | [Innavoj](https://github.com/Innavoj) | Innavoj | Freelance |  | Cuba | 110 |
-| 12 | [CJPD00](https://github.com/CJPD00) | CJPD00 |  |  | Cuba | 103 |
+| 12 | [CJPD00](https://github.com/CJPD00) | CJPD00 |  |  | Cuba | 104 |
 | 13 | [saulin18](https://github.com/saulin18) | Saúl Sondón |  |  | Holguín, Cuba | 94 |
 | 14 | [ObisoftDev](https://github.com/ObisoftDev) | Obisoft Dev | obisoftdev |  | Cuba | 76 |
 | 15 | [ALbertE03](https://github.com/ALbertE03) | Albert | Universidad de la Habana |  | La Habana, Cuba | 75 |

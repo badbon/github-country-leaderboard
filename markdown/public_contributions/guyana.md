@@ -1,14 +1,14 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-13T16:54:36.475Z
+Generated: 2026-10-13T18:22:58.666Z
 
 Users: 186
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4097 |
+| 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4103 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3917 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3473 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3445 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1855 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1589 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1492 |
@@ -22,7 +22,7 @@ Users: 186
 | 14 | [ryanrhanson](https://github.com/ryanrhanson) | Ryan Hanson | Doppler |  | Georgetown, TX | 323 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 315 |
 | 16 | [adi-pr](https://github.com/adi-pr) | Aditya (Ruben) Prasad |  |  | Guyana | 266 |
-| 17 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 251 |
-| 18 | [billydavis](https://github.com/billydavis) | Billy Davis |  |  | Georgetown, Texas | 237 |
+| 17 | [billydavis](https://github.com/billydavis) | Billy Davis |  |  | Georgetown, Texas | 262 |
+| 18 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 251 |
 | 19 | [amberhinds](https://github.com/amberhinds) | Amber Hinds | @equalizedigital  | heyamberhinds | Georgetown, TX | 222 |
 | 20 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 206 |

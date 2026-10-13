@@ -1,13 +1,13 @@
 # Public Contributions - DR Congo
 
-Generated: 2026-10-13T16:42:53.360Z
+Generated: 2026-10-13T18:13:07.741Z
 
 Users: 699
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [coolbeatz71](https://github.com/coolbeatz71) | Mutombo Jean-Vincent | B2Tech-Git | coolbeatz71 | Kinshasa, Kigali | 31775 |
-| 2 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 5913 |
+| 2 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 6103 |
 | 3 | [Theodorebinda](https://github.com/Theodorebinda) | Theodore SAMBA |  |  | kinshasa | 3157 |
 | 4 | [vickbk](https://github.com/vickbk) | Victoire Bake |  | Vick_bk8 | Goma, DR Congo | 2665 |
 | 5 | [ChrisJustice600](https://github.com/ChrisJustice600) | justice |  |  | Kinshasa | 2562 |

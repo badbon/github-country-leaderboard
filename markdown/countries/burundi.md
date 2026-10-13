@@ -20,10 +20,10 @@ Indexed users: 235
 | 6 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
 | 7 | [kalculata](https://github.com/kalculata) | Huzaifa Nimushimirimana | Bujumbura, Burundi | 1,554 |
 | 8 | [gatarelib](https://github.com/gatarelib) | Gatare Libère | Burundi | 1,521 |
-| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,514 |
-| 10 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,288 |
-| 11 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,261 |
-| 12 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,244 |
+| 9 | [Blaise28](https://github.com/Blaise28) | MANIRAKIZA Blaise | Burundi/Bujumbura | 1,507 |
+| 10 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,290 |
+| 11 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 1,288 |
+| 12 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 1,261 |
 | 13 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | Burundi | 1,108 |
 | 14 | [b3rking](https://github.com/b3rking) | ISHIMWE Eschyle Bersy | Burundi | 1,026 |
 | 15 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | Burundi | 990 |
@@ -38,7 +38,7 @@ Indexed users: 235
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [yvartpro](https://github.com/yvartpro) | Nshemezimana Yves | Bujumbura,Burundi | 1,653 |
-| 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,244 |
+| 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Gitega-Burundi | 1,290 |
 | 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | Burundi | 669 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana | Burundi | 500 |
 | 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | Burundi | 466 |
@@ -83,4 +83,4 @@ Indexed users: 235
 | 19 | [tertcoder](https://github.com/tertcoder) | Bon Tertius Tuyishimire  | Bujumbura, Burundi | 35 |
 | 20 | [arsou2015](https://github.com/arsou2015) | Arsene Nduwayo | Burundi | 34 |
 
-Generated: 2026-10-13T16:34:15.918Z
+Generated: 2026-10-13T18:02:58.481Z

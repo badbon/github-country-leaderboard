@@ -1,6 +1,6 @@
 # Bahrain
 
-Indexed users: 728
+Indexed users: 727
 
 | Leaderboard | Link |
 |---|---|
@@ -56,7 +56,7 @@ Indexed users: 728
 | 17 | [falansari](https://github.com/falansari) | Fatima Alansari | Bahrain | 678 |
 | 18 | [hussain-alsaibai](https://github.com/hussain-alsaibai) | Hussain Alsaibai | Bahrain | 666 |
 | 19 | [alialsaffarcodexals](https://github.com/alialsaffarcodexals) | Ali Alsaffar | Bahrain | 657 |
-| 20 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain | Bahrain | 657 |
+| 20 | [sahmedhusain](https://github.com/sahmedhusain) | Sayed Ahmed Husain | Bahrain | 656 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 728
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-13T16:29:27.381Z
+Generated: 2026-10-13T17:57:47.782Z

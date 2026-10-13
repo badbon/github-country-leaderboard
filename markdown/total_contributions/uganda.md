@@ -1,8 +1,8 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-13T16:18:35.387Z
+Generated: 2026-10-13T17:46:58.837Z
 
-Users: 3872
+Users: 3871
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 3872
 | 14 | [judeotine](https://github.com/judeotine) | Judeotine |  | Judeotine | Uganda | 7428 |
 | 15 | [cosmah](https://github.com/cosmah) | cosmah | CosMc technologies | cosmah_l | kampala, Uganda | 7177 |
 | 16 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | Deisishub Technologies | MJohnbaptist | KAMPALA -UGANDA | 7031 |
-| 17 | [John4650-hub](https://github.com/John4650-hub) | John Delvin | @Gamered | jdevoc | Uganda kampala | 6956 |
-| 18 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Mobiklinic |  | Kampala, Uganda | 6942 |
-| 19 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
-| 20 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |
+| 17 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | TECH-WORLDINFO |  | uganda | 6709 |
+| 18 | [Bravos-hub](https://github.com/Bravos-hub) | BRAVE OLIMI | BUGEMA UNIVERSITY |  | Bugema  Kampala-Uganda | 6657 |
+| 19 | [amkayondo](https://github.com/amkayondo) | Kayondo Edward | @opensource-now @open-nux @nuxjs @wearedelovery | kayondoedward | Kampala, Uganda | 6514 |
+| 20 | [arafats1](https://github.com/arafats1) | Arafat Magezi | Mobiklinic |  | Kampala, Uganda | 6463 |

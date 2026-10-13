@@ -1,8 +1,8 @@
 # Total Contributions - Bhutan
 
-Generated: 2026-10-13T16:31:02.154Z
+Generated: 2026-10-13T17:59:59.259Z
 
-Users: 268
+Users: 267
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,13 +14,13 @@ Users: 268
 | 6 | [tashi-iu](https://github.com/tashi-iu) | Tashi Tobgay Dakpa | @Jaggle-AI-HQ  |  | Thimphu, Bhutan | 3321 |
 | 7 | [ThuktenSingye](https://github.com/ThuktenSingye) | ThuktenSingye |  |  | Bhutan | 2732 |
 | 8 | [PraMishra-s](https://github.com/PraMishra-s) | Pralad Mishra | College of Science and Technology |  | Bhutan | 2633 |
-| 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2317 |
+| 9 | [sangayt1997](https://github.com/sangayt1997) | Sangay Thinley | SELISE Group | SangayT97 | Thimphu, Bhutan | 2333 |
 | 10 | [Ugyenjigmerangdrel](https://github.com/Ugyenjigmerangdrel) | Ugyen Jigme Rangdrel | @jaggle.ai | URangdrel | Bhutan | 2047 |
 | 11 | [namgaytobden](https://github.com/namgaytobden) | Namgay Tobden | @selisebt |  | Thimphu | 2004 |
 | 12 | [ugyentenzin1](https://github.com/ugyentenzin1) | Ugyen Tenzin  | @SELISEdigitalplatforms  |  | Thiimphu, Bhutan | 1964 |
 | 13 | [bugloper](https://github.com/bugloper) | Nima Yonten | Selise |  | Thimphu Babesa | 1939 |
 | 14 | [jigmeloday](https://github.com/jigmeloday) | Jigme Lodey | Freelancer |  | Thimphu Bhutan | 1920 |
-| 15 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1830 |
+| 15 | [khandudo](https://github.com/khandudo) | Dorji Khandu | Coala Pay(San Francisco, CA) | Dojeee1 | Thimphu, Bhutan | 1837 |
 | 16 | [JigmePwangyel](https://github.com/JigmePwangyel) | Jigme Phuntsho Wangyel | Selise Bhutan |  | Bhutan | 1821 |
 | 17 | [KinWang-2013](https://github.com/KinWang-2013) | Kinley Wangchuk |  |  | Thimphu, Bhutan | 1787 |
 | 18 | [sonamtaa](https://github.com/sonamtaa) | Sonam Tashi | SELISE Bhutan | tashist515 | Babesa, Thimphu | 1781 |

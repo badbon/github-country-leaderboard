@@ -1,6 +1,6 @@
 # Public Contributions - Ecuador
 
-Generated: 2026-10-13T16:43:52.083Z
+Generated: 2026-10-13T18:13:12.260Z
 
 Users: 4898
 
@@ -21,8 +21,8 @@ Users: 4898
 | 13 | [jxlarrea](https://github.com/jxlarrea) | Xavier Larrea |  | jxlarrea | Ecuador | 2032 |
 | 14 | [AndSanG](https://github.com/AndSanG) | Andrés Sánchez |  |  | Quito - Ecuador | 1927 |
 | 15 | [devsebastian44](https://github.com/devsebastian44) | Sebastian Zhunaula |  | devsebastian44 | Ecuador | 1878 |
-| 16 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
-| 17 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |
-| 18 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
-| 19 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |
-| 20 | [mikehardy](https://github.com/mikehardy) | Mike Hardy | Independent Developer | fastsquatch | Cuenca, Ecuador | 1525 |
+| 16 | [DavidAucancela](https://github.com/DavidAucancela) |  | Here and there |  | Quito, Ecuador | 1742 |
+| 17 | [itusebastian](https://github.com/itusebastian) | Sebastián Iturralde | BUOY |  | Cumbayá, Ecuador | 1665 |
+| 18 | [pedrodcsjostrom](https://github.com/pedrodcsjostrom) | Peter | @ez-donate @ioet @gdg-quito  | peterDev_ | Quito, Ecuador | 1627 |
+| 19 | [AnthonyLozadaAlexander](https://github.com/AnthonyLozadaAlexander) | zDefcon21 |  |  | Ecuador | 1573 |
+| 20 | [and27](https://github.com/and27) | Andrés Banda |  |  | Ecuador | 1558 |

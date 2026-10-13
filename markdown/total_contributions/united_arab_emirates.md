@@ -1,8 +1,8 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-13T16:18:43.003Z
+Generated: 2026-10-13T17:47:07.914Z
 
-Users: 4237
+Users: 4235
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 4237
 | 14 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
 | 15 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
 | 16 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
-| 17 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
-| 18 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Blue Beetle |  | Dubai, United Arab Emirates | 7593 |
-| 19 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | @desertcart | mohammaddohad | United Arab Emirates | 7294 |
-| 20 | [moeidsaleem](https://github.com/moeidsaleem) | Moeid Saleem khan | Atrix.dev© / Hoppers Network \|  | moeidsaleem | Dubai, United Arab Emirates | 7156 |
+| 17 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |
+| 18 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
+| 19 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Blue Beetle |  | Dubai, United Arab Emirates | 7593 |
+| 20 | [Gr8z](https://github.com/Gr8z) | Mohammad Dohadwala | @desertcart | mohammaddohad | United Arab Emirates | 7294 |

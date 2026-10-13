@@ -56,7 +56,7 @@ Indexed users: 201
 | 17 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO | N'djamena | 57 |
 | 18 | [Yassine235](https://github.com/Yassine235) | Yassine | Tchad | 55 |
 | 19 | [chupacker](https://github.com/chupacker) | chu pack | chad | 53 |
-| 20 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 45 |
+| 20 | [Makoundji](https://github.com/Makoundji) | Makoundji Francis Diakoundila  | N’DJAMENA,TCHAD | 45 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-13T16:36:27.631Z
+Generated: 2026-10-13T18:06:27.705Z

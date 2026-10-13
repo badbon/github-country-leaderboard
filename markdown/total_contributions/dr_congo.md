@@ -1,6 +1,6 @@
 # Total Contributions - DR Congo
 
-Generated: 2026-10-13T16:42:53.360Z
+Generated: 2026-10-13T18:13:07.741Z
 
 Users: 699
 
@@ -16,7 +16,7 @@ Users: 699
 | 8 | [merdielongo](https://github.com/merdielongo) | merdielongo | ELONGO CREA | MerdiElongo | Congo / Kinshasa | 6244 |
 | 9 | [esaiemuhasa](https://github.com/esaiemuhasa) | Esaie Muhasa | Forge Digitale | esaiemuhasa | Butembo, Congo Kinshasa | 6202 |
 | 10 | [kalemadaniel](https://github.com/kalemadaniel) | Kalema Daniel Jonathan | ULB COOPERATION | KalemaDaniel2 | Democratic Republic of the Congo, Goma | 6177 |
-| 11 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 5913 |
+| 11 | [andydefer](https://github.com/andydefer) | Andy Kani | AndyKani DevServices |  | Democratic Republic of Congo | 6103 |
 | 12 | [bindukabusara](https://github.com/bindukabusara) | Bindu Kabusara Josué | Uganda Christian Unversity |  | Kampala, Kinshasa | 5883 |
 | 13 | [stany-bns](https://github.com/stany-bns) | Stany Bibwangu | @altiustechnology |  | Kinshasa, DRC | 5542 |
 | 14 | [hktom](https://github.com/hktom) | Tom Hikari | Akieni |  | Congo Kinshasa | 5007 |

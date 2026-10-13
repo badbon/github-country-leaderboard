@@ -73,14 +73,14 @@ Indexed users: 2,503
 | 9 | [matheusmanuel](https://github.com/matheusmanuel) | Matheus Manuel | Angola/Luanda | 259 |
 | 10 | [gentildpinto](https://github.com/gentildpinto) | Gentil Pinto | Luanda, Angola | 257 |
 | 11 | [manuelcunga](https://github.com/manuelcunga) | Lázaro Manuel Cunga | Angola/Luanda | 223 |
-| 12 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Luanda, Angola | 214 |
-| 13 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola | Luanda, Angola | 208 |
+| 12 | [Creuma-Kuzola](https://github.com/Creuma-Kuzola) | Creuma Kuzola | Luanda, Angola | 208 |
+| 13 | [trupakufi](https://github.com/trupakufi) | Mário Varela | Luanda, Angola | 205 |
 | 14 | [tchiinhemba](https://github.com/tchiinhemba) | Eládio Tchiinhemba | Luanda - Angola | 181 |
-| 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 178 |
+| 15 | [EufranioDiogo](https://github.com/EufranioDiogo) | Eufránio Diogo | Angola | 180 |
 | 16 | [cirilocanganjo](https://github.com/cirilocanganjo) | Cirilo Cussaca Canganjo | Luanda, Amgola | 170 |
 | 17 | [manuelernesto](https://github.com/manuelernesto) | Manuel Ernesto | Angola | 165 |
 | 18 | [bacarPereira](https://github.com/bacarPereira) | Abú-Bakr Pereira K | Luanda,Angola | 164 |
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-13T16:23:43.882Z
+Generated: 2026-10-13T17:53:24.929Z

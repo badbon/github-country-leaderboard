@@ -19,12 +19,12 @@ Indexed users: 563
 | 5 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 2,064 |
 | 6 | [ThiagoCI](https://github.com/ThiagoCI) | Thiago C Iglesias | Praia Grande - SP | 1,897 |
 | 7 | [PedroVenchiarutti](https://github.com/PedroVenchiarutti) | Pedro Venchiarutti | Praia Grande/SP | 1,793 |
-| 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,750 |
+| 8 | [LeandroLeiteC](https://github.com/LeandroLeiteC) | Leleco | Praia Grande | 1,785 |
 | 9 | [LCSSchmidt](https://github.com/LCSSchmidt) | Lucas Miguel Schmidt | Itajai - Praia Brava | 1,378 |
 | 10 | [codewrldniclas](https://github.com/codewrldniclas) | Nicholas Alves | Praia, Cape Verde | 1,362 |
 | 11 | [Matheuszy](https://github.com/Matheuszy) | Matheus Carlos | Praia Grande | 1,295 |
 | 12 | [Steravy](https://github.com/Steravy) | Stefan Victoria  | Praia, Cape Verde | 1,290 |
-| 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,286 |
+| 13 | [Deustavo](https://github.com/Deustavo) | Gustavo Andrade | Praia Grande - SP | 1,277 |
 | 14 | [adrianoviana87](https://github.com/adrianoviana87) | Adriano Viana | Praia do Sonho - Palhoça, SC - Brasil | 1,215 |
 | 15 | [peeta98](https://github.com/peeta98) | Pedro Moreira | Terceira, Praia da Vitória | 1,207 |
 | 16 | [Denio26](https://github.com/Denio26) | Dénio Melo | Cape Verde | 1,164 |
@@ -54,9 +54,9 @@ Indexed users: 563
 | 15 | [maytearaujo](https://github.com/maytearaujo) | Maytê Araújo | Praia Grande - SP | 256 |
 | 16 | [Brocy](https://github.com/Brocy) | Brocy Centeio | Praia, Cabo Verde | 232 |
 | 17 | [GlhermePereira](https://github.com/GlhermePereira) | Guilherme Pereira | Praia Grande-SP | 186 |
-| 18 | [eduardoschmitt](https://github.com/eduardoschmitt) | Eduardo Schmitt | Praia Grande - SC | 185 |
-| 19 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 183 |
-| 20 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  Praia da Costa, Vila Velha - ES | 180 |
+| 18 | [kjunior-dev](https://github.com/kjunior-dev) | Kevin Developer | Cabo Verde - Praia | 183 |
+| 19 | [Matheusesp1](https://github.com/Matheusesp1) | Matheus Espindola |  Praia da Costa, Vila Velha - ES | 180 |
+| 20 | [Mirtiloo1](https://github.com/Mirtiloo1) |  | Praia Grande - SP | 177 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 563
 | 19 | [fabio-cv](https://github.com/fabio-cv) | Fábio Barros | Praia, Cabo Verde | 57 |
 | 20 | [FredSoares](https://github.com/FredSoares) | Frederico Soares | Cape Verde | 54 |
 
-Generated: 2026-10-13T16:35:30.542Z
+Generated: 2026-10-13T18:04:18.978Z

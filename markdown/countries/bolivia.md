@@ -53,10 +53,10 @@ Indexed users: 1,785
 | 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. | Bolivia | 1,224 |
 | 15 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Bolivia | 1,219 |
 | 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Santa cruz de la sierra, Bolivia | 1,106 |
-| 17 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,085 |
-| 18 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
-| 19 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
-| 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez | Bolivia | 1,021 |
+| 17 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez | Bolivia | 1,097 |
+| 18 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy | Cochabamba, Bolivia | 1,085 |
+| 19 | [ospfranco](https://github.com/ospfranco) | Oscar Franco | Bolivia | 1,081 |
+| 20 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño | Cochabamba, Bolivia | 1,042 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,785
 | 19 | [CarlaMamaniChavez](https://github.com/CarlaMamaniChavez) | Carla Vanesa Mamani Chavez | La Paz, Bolivia | 127 |
 | 20 | [alvarosiles11](https://github.com/alvarosiles11) | Alvaro Siles Estrada | Bolivia | 121 |
 
-Generated: 2026-10-13T16:31:58.267Z
+Generated: 2026-10-13T18:00:36.218Z

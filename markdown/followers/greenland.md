@@ -1,17 +1,17 @@
 # Followers - Greenland
 
-Generated: 2026-10-13T16:51:02.503Z
+Generated: 2026-10-13T18:20:30.035Z
 
 Users: 59
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [aantoooon](https://github.com/aantoooon) | anton |  |  | Greenland | 1518 |
+| 1 | [aantoooon](https://github.com/aantoooon) | anton |  |  | Greenland | 1520 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 1227 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 1029 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Garbagecode Inc | jiiksi | Greenland | 292 |
 | 5 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 202 |
-| 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 151 |
+| 6 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 152 |
 | 7 | [Nelson-Cheung](https://github.com/Nelson-Cheung) | Nelson Cheung | Sun Yat-sen University |  | Greenland | 90 |
 | 8 | [FandyHanz](https://github.com/FandyHanz) | General Tenzen Yamauchi | Early Warning System Glacier Greenland Search And Rescue |  | Fjord Dickson, Greenland | 62 |
 | 9 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Naxela.info |  | Greenland | 58 |
