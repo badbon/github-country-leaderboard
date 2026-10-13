@@ -17946,9 +17946,9 @@
     "location": "Luxembourg ",
     "company": "",
     "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 524,
-    "publicContributions": 72,
+    "followers": 46,
+    "privateContributions": 491,
+    "publicContributions": 75,
     "createdAt": "2014-08-06T14:49:13Z"
   },
   {
@@ -17959,8 +17959,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 35,
-    "privateContributions": 10,
-    "publicContributions": 33,
+    "privateContributions": 12,
+    "publicContributions": 40,
     "createdAt": "2014-04-03T23:36:55Z"
   },
   {
@@ -17970,9 +17970,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 99,
-    "publicContributions": 1389,
+    "followers": 35,
+    "privateContributions": 3121,
+    "publicContributions": 1134,
     "createdAt": "2014-06-06T13:43:51Z"
   },
   {
@@ -17983,7 +17983,7 @@
     "company": "Pixlcraft",
     "twitterUsername": "GaetanBoedec",
     "followers": 30,
-    "privateContributions": 497,
+    "privateContributions": 370,
     "publicContributions": 0,
     "createdAt": "2014-06-30T12:51:24Z"
   },
@@ -17994,21 +17994,21 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "",
-    "followers": 28,
-    "privateContributions": 2421,
+    "followers": 29,
+    "privateContributions": 2701,
     "publicContributions": 1,
     "createdAt": "2014-01-29T22:00:42Z"
   },
   {
     "login": "adrienpeiffer",
     "name": "Adrien Peiffer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/8035793?s=72&u=9e3219dea651d0b79ee45e5e577dac79ad5ca140&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/8035793?s=72&u=10df4dd367ee7fd31f19541aa79d49ede1cbcb1e&v=4",
     "location": "Luxembourg",
     "company": "Administration des contributions directes",
     "twitterUsername": "",
     "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 14,
     "createdAt": "2014-07-01T09:54:38Z"
   },
   {
@@ -18018,9 +18018,9 @@
     "location": "Luxembourg",
     "company": "University of Luxembourg",
     "twitterUsername": "JohGroLux",
-    "followers": 24,
+    "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 43,
     "createdAt": "2014-04-25T01:11:34Z"
   },
   {
@@ -18028,11 +18028,11 @@
     "name": "Thiago Durante",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6700642?s=72&u=7f09cf1da375d1fe1d753b57757652e4fdf0983e&v=4",
     "location": "Luxembourg",
-    "company": "@startuplandia",
+    "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 3213,
-    "publicContributions": 205,
+    "privateContributions": 4814,
+    "publicContributions": 216,
     "createdAt": "2014-02-17T02:50:53Z"
   },
   {
@@ -18043,8 +18043,8 @@
     "company": "NeatCapital OÜ",
     "twitterUsername": "samafshari",
     "followers": 23,
-    "privateContributions": 3728,
-    "publicContributions": 8,
+    "privateContributions": 4311,
+    "publicContributions": 11,
     "createdAt": "2014-01-07T10:39:44Z"
   },
   {
@@ -18066,9 +18066,9 @@
     "location": "Luxembourg",
     "company": "Finmars SCSA",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 358,
+    "publicContributions": 318,
     "createdAt": "2014-10-14T14:36:17Z"
   },
   {
@@ -18079,7 +18079,7 @@
     "company": "Optitoo S.à r.l.",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 586,
+    "privateContributions": 648,
     "publicContributions": 0,
     "createdAt": "2014-06-06T07:23:52Z"
   },
@@ -18090,9 +18090,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 20,
     "privateContributions": 2,
-    "publicContributions": 13,
+    "publicContributions": 11,
     "createdAt": "2014-04-29T00:45:34Z"
   },
   {
@@ -18108,27 +18108,15 @@
     "createdAt": "2014-09-19T15:28:28Z"
   },
   {
-    "login": "average-coder-9000",
-    "name": "Average Coder",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6389854?s=72&u=b360280fe72ced28eecac3a917c3be9dfac77f5b&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-01-13T13:34:19Z"
-  },
-  {
     "login": "Alexandre-io",
     "name": "Alexandre",
     "avatarUrl": "https://avatars.githubusercontent.com/u/8135542?s=72&u=7b06679baeba414a9ba1c7f2d3d44465bebb5f3e&v=4",
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 354,
-    "publicContributions": 34,
+    "followers": 20,
+    "privateContributions": 757,
+    "publicContributions": 23,
     "createdAt": "2014-07-11T13:22:49Z"
   },
   {
@@ -18136,11 +18124,11 @@
     "name": "Michaël Garrez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6329406?s=72&v=4",
     "location": "Luxembourg",
-    "company": "@ankorstore ",
+    "company": "@hostaway ",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 1481,
-    "publicContributions": 1,
+    "followers": 20,
+    "privateContributions": 4731,
+    "publicContributions": 84,
     "createdAt": "2014-01-06T11:33:27Z"
   },
   {
@@ -18162,9 +18150,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 100,
-    "publicContributions": 0,
+    "followers": 18,
+    "privateContributions": 88,
+    "publicContributions": 1,
     "createdAt": "2014-04-18T13:18:03Z"
   },
   {
@@ -18174,9 +18162,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 19,
+    "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 481,
+    "publicContributions": 1493,
     "createdAt": "2014-01-19T17:34:32Z"
   },
   {

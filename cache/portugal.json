@@ -18103,8 +18103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 61,
-    "publicContributions": 95,
+    "privateContributions": 50,
+    "publicContributions": 61,
     "createdAt": "2024-06-14T17:35:44Z"
   },
   {
@@ -18116,7 +18116,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 50,
     "createdAt": "2024-02-20T18:18:44Z"
   },
   {
@@ -18128,13 +18128,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 146,
+    "publicContributions": 127,
     "createdAt": "2024-05-23T14:08:39Z"
   },
   {
     "login": "joaotsfigueiredo",
     "name": "João Figueiredo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160622873?s=72&u=b0ca88a10890e7503eec3212f2f91f97d95bf5c1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160622873?s=72&u=0ffeadbcc05d25442fa0c9c3f59b096793a2e288&v=4",
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
@@ -18151,21 +18151,9 @@
     "company": "Universidade do Minho",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 111,
+    "privateContributions": 108,
     "publicContributions": 124,
     "createdAt": "2024-04-03T15:19:08Z"
-  },
-  {
-    "login": "Madrev33",
-    "name": "Madrev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/158242800?s=72&u=830a5ef377b6f71b4e5b337f81bc4bf2c07036fc&v=4",
-    "location": "Portugal, Lisbon",
-    "company": "",
-    "twitterUsername": "Madrev_",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2024-01-31T03:07:39Z"
   },
   {
     "login": "PedroDelgado2500",
@@ -18224,7 +18212,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 72,
     "createdAt": "2024-02-21T16:11:57Z"
   },
   {
@@ -18242,13 +18230,13 @@
   {
     "login": "joelcostapt",
     "name": "Joel Costa",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/159049244?s=72&u=2d23ce5fd5c46b1b848931aac1ac7a5856150d77&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/159049244?s=72&u=b2c086b26f582f0564f00223de3bba4f5d6c50a0&v=4",
     "location": "Portugal",
-    "company": "DevLite - Soluções Digitais",
+    "company": "Dão IT - Soluções Digitais",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 11,
     "createdAt": "2024-02-05T16:10:11Z"
   },
   {
@@ -18270,7 +18258,7 @@
     "location": "Portugal, Azores island, Faial",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-06-30T10:44:11Z"
@@ -18319,7 +18307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5159,
+    "privateContributions": 5651,
     "publicContributions": 6,
     "createdAt": "2024-03-17T13:52:50Z"
   },

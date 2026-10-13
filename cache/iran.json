@@ -17790,9 +17790,9 @@
     "location": "Tehran",
     "company": "Chargoon",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 15,
     "createdAt": "2025-03-07T16:37:09Z"
   },
   {
@@ -17802,9 +17802,9 @@
     "location": "Tehran",
     "company": "SBU",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 0,
-    "publicContributions": 10,
+    "followers": 19,
+    "privateContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2025-01-05T18:18:50Z"
   },
   {
@@ -17816,7 +17816,7 @@
     "twitterUsername": "",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 1,
     "createdAt": "2025-02-22T08:20:41Z"
   },
   {
@@ -17826,7 +17826,7 @@
     "location": "TEHRAN",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-02-26T18:44:46Z"
@@ -17838,9 +17838,9 @@
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 46,
     "createdAt": "2025-11-18T08:19:14Z"
   },
   {
@@ -17850,9 +17850,9 @@
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 46,
     "createdAt": "2025-04-25T10:42:59Z"
   },
   {
@@ -17862,9 +17862,9 @@
     "location": "Tehran",
     "company": "University of Tehran",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 25,
     "privateContributions": 0,
-    "publicContributions": 443,
+    "publicContributions": 958,
     "createdAt": "2024-12-27T12:31:39Z"
   },
   {
@@ -17874,7 +17874,7 @@
     "location": "tehran, amir abad,park elm v fanavari",
     "company": "samiz",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 21,
     "createdAt": "2025-07-15T19:34:26Z"
@@ -17886,9 +17886,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 3,
-    "publicContributions": 140,
+    "followers": 16,
+    "privateContributions": 33,
+    "publicContributions": 205,
     "createdAt": "2025-06-11T07:07:29Z"
   },
   {
@@ -17899,8 +17899,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 142,
-    "publicContributions": 80,
+    "privateContributions": 171,
+    "publicContributions": 81,
     "createdAt": "2025-05-20T16:26:42Z"
   },
   {
@@ -17910,9 +17910,9 @@
     "location": "Tehran",
     "company": "University of Tehran, ECE",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 30,
-    "publicContributions": 232,
+    "followers": 17,
+    "privateContributions": 22,
+    "publicContributions": 243,
     "createdAt": "2025-04-09T11:08:04Z"
   },
   {
@@ -17922,34 +17922,22 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-04-18T06:53:53Z"
   },
   {
     "login": "orcnighte",
-    "name": "Mohammad_emami",
+    "name": "Mohammad_Emami",
     "avatarUrl": "https://avatars.githubusercontent.com/u/214325853?s=72&u=a884d051a2185e159a537eb94a531b61453fbbc2&v=4",
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 29,
     "createdAt": "2025-06-01T05:57:13Z"
-  },
-  {
-    "login": "Hoot-Code",
-    "name": "Aria",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249505706?s=72&u=07ee7b2c2280ac27d932d20c887a7b3f28bdf76e&v=4",
-    "location": "Tehran",
-    "company": "",
-    "twitterUsername": "Hoot_code",
-    "followers": 13,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2025-12-13T22:31:37Z"
   },
   {
     "login": "farjudi",
@@ -17958,9 +17946,9 @@
     "location": "tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 13,
+    "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 42,
     "createdAt": "2025-04-13T17:17:14Z"
   },
   {
@@ -17970,9 +17958,9 @@
     "location": "Tehran",
     "company": "IPCO",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 110,
-    "publicContributions": 124,
+    "followers": 16,
+    "privateContributions": 104,
+    "publicContributions": 240,
     "createdAt": "2025-02-22T17:58:10Z"
   },
   {
@@ -17982,9 +17970,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 70,
     "createdAt": "2025-11-06T14:34:17Z"
   },
   {
@@ -17994,9 +17982,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 21,
     "createdAt": "2025-09-30T22:03:45Z"
   },
   {
@@ -18006,9 +17994,9 @@
     "location": "Tehran",
     "company": "University of Tehran",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2025-08-14T07:02:35Z"
   },
   {
@@ -18018,9 +18006,9 @@
     "location": "Tehran",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 98,
     "createdAt": "2025-06-04T10:39:49Z"
   },
   {

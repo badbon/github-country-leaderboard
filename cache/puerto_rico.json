@@ -18067,7 +18067,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 42,
-    "privateContributions": 60,
+    "privateContributions": 58,
     "publicContributions": 24,
     "createdAt": "2010-06-10T15:14:11Z"
   },
@@ -18090,9 +18090,9 @@
     "location": "San Juan Capistrano, CA",
     "company": "",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 4912,
-    "publicContributions": 5162,
+    "followers": 21,
+    "privateContributions": 8091,
+    "publicContributions": 9824,
     "createdAt": "2010-01-12T07:19:01Z"
   },
   {
@@ -18103,8 +18103,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 701,
-    "publicContributions": 20,
+    "privateContributions": 556,
+    "publicContributions": 21,
     "createdAt": "2010-10-11T00:01:15Z"
   },
   {
@@ -18138,9 +18138,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "sparragus",
-    "followers": 688,
-    "privateContributions": 2275,
-    "publicContributions": 7,
+    "followers": 689,
+    "privateContributions": 2064,
+    "publicContributions": 3,
     "createdAt": "2009-05-04T23:38:59Z"
   },
   {
@@ -18150,9 +18150,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 456,
-    "privateContributions": 639,
-    "publicContributions": 21,
+    "followers": 454,
+    "privateContributions": 775,
+    "publicContributions": 25,
     "createdAt": "2009-03-07T12:13:35Z"
   },
   {
@@ -18160,11 +18160,11 @@
     "name": "Matt Van",
     "avatarUrl": "https://avatars.githubusercontent.com/u/117194?s=72&u=fcd2a0f00effe427507d302e941e669718fcf9e4&v=4",
     "location": "San Juan, Puerto Rico",
-    "company": "@proofofplay",
+    "company": "",
     "twitterUsername": "",
-    "followers": 70,
-    "privateContributions": 17273,
-    "publicContributions": 6,
+    "followers": 71,
+    "privateContributions": 33006,
+    "publicContributions": 185,
     "createdAt": "2009-08-19T20:13:30Z"
   },
   {
@@ -18174,7 +18174,7 @@
     "location": "San Juan, Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 69,
+    "followers": 72,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-08-31T22:41:43Z"
@@ -18187,7 +18187,7 @@
     "company": "Shopify",
     "twitterUsername": "samanthamjohn",
     "followers": 61,
-    "privateContributions": 1492,
+    "privateContributions": 1341,
     "publicContributions": 0,
     "createdAt": "2009-09-13T18:43:31Z"
   },
@@ -18198,9 +18198,9 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 26,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 83,
     "createdAt": "2009-01-30T03:16:55Z"
   },
   {
@@ -18211,8 +18211,8 @@
     "company": "IBM",
     "twitterUsername": "ncolon1976",
     "followers": 20,
-    "privateContributions": 98,
-    "publicContributions": 19,
+    "privateContributions": 100,
+    "publicContributions": 1,
     "createdAt": "2009-07-09T02:55:24Z"
   },
   {
@@ -18223,7 +18223,7 @@
     "company": "massive",
     "twitterUsername": "",
     "followers": 19,
-    "privateContributions": 1705,
+    "privateContributions": 2020,
     "publicContributions": 102,
     "createdAt": "2009-09-24T19:16:34Z"
   },
@@ -18236,20 +18236,8 @@
     "twitterUsername": "renatco",
     "followers": 18,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 13,
     "createdAt": "2009-08-12T17:22:53Z"
-  },
-  {
-    "login": "cmrcode",
-    "name": "Charlie Roffe",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122574?s=72&v=4",
-    "location": "Puerto Rico",
-    "company": "Qumodity LLC",
-    "twitterUsername": "",
-    "followers": 18,
-    "privateContributions": 1458,
-    "publicContributions": 0,
-    "createdAt": "2009-09-02T21:48:01Z"
   },
   {
     "login": "Fran89",
@@ -18260,7 +18248,7 @@
     "twitterUsername": "",
     "followers": 17,
     "privateContributions": 163,
-    "publicContributions": 5,
+    "publicContributions": 9,
     "createdAt": "2009-07-18T02:02:35Z"
   },
   {
@@ -18271,7 +18259,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 273,
+    "privateContributions": 266,
     "publicContributions": 0,
     "createdAt": "2009-05-28T20:59:30Z"
   },

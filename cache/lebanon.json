@@ -18235,8 +18235,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
-    "publicContributions": 2,
+    "privateContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2020-01-17T11:14:59Z"
   },
   {
@@ -18308,7 +18308,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2020-05-15T22:32:09Z"
   },
   {
@@ -18320,7 +18320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 545,
+    "publicContributions": 576,
     "createdAt": "2020-05-02T19:07:14Z"
   },
   {
@@ -18330,7 +18330,7 @@
     "location": "lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-06-28T07:15:25Z"
@@ -18343,7 +18343,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 278,
+    "privateContributions": 422,
     "publicContributions": 5,
     "createdAt": "2020-01-27T15:41:40Z"
   },
@@ -18439,8 +18439,8 @@
     "company": "",
     "twitterUsername": "MAHcodes",
     "followers": 51,
-    "privateContributions": 99,
-    "publicContributions": 39,
+    "privateContributions": 104,
+    "publicContributions": 143,
     "createdAt": "2020-08-10T12:52:00Z"
   },
   {
@@ -18450,21 +18450,21 @@
     "location": " Beirut, Lebanon ",
     "company": "",
     "twitterUsername": "NBK_dev",
-    "followers": 44,
-    "privateContributions": 472,
-    "publicContributions": 13,
+    "followers": 46,
+    "privateContributions": 480,
+    "publicContributions": 20,
     "createdAt": "2020-11-01T11:10:16Z"
   },
   {
     "login": "ahmadmeselmani",
-    "name": "Meselmани",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/69538977?s=72&u=6038aa5ddb9d7a63e3d50baa4aa942eb4489357f&v=4",
+    "name": "Ahmad Meselmani",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/69538977?s=72&u=94e14f8545c41d5fcc7eec65725cfecf74eea869&v=4",
     "location": "Lebanon",
     "company": "",
-    "twitterUsername": "",
-    "followers": 42,
+    "twitterUsername": "ahmadmeselmanii",
+    "followers": 35,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 63,
     "createdAt": "2020-08-11T19:35:14Z"
   },
   {

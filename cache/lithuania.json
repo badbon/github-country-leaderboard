@@ -18163,45 +18163,9 @@
     "company": "Toughlex",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-05-23T15:31:31Z"
-  },
-  {
-    "login": "irmamesk",
-    "name": "Irma Meškauskaitė",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/67467634?s=72&u=0e86436d71fc11db1e82cb26d613fd5a33303626&v=4",
-    "location": "Vilnius, Lithuania",
-    "company": "Mykolas Marcinkevičius Hospital",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-06-26T12:21:01Z"
-  },
-  {
-    "login": "Mantttas",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/68852194?s=72&u=6bc36d4d9edaa9aeb5790baa58912c1029fdc9ac&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 1,
-    "createdAt": "2020-07-27T11:14:57Z"
-  },
-  {
-    "login": "sergejshugajev",
-    "name": "Sergej Sugajev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62987639?s=72&u=0a1964d81f5ea69dfc631689b1b21fe7ea3af110&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-04-01T08:30:26Z"
   },
   {
     "login": "wordsguy",
@@ -18247,7 +18211,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 652,
+    "privateContributions": 646,
     "publicContributions": 2,
     "createdAt": "2020-06-13T10:45:29Z"
   },
@@ -18260,7 +18224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 13,
+    "publicContributions": 10,
     "createdAt": "2020-06-22T09:09:15Z"
   },
   {
@@ -18271,7 +18235,7 @@
     "company": "Surfshark",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 20,
     "publicContributions": 6,
     "createdAt": "2020-07-28T18:44:00Z"
   },
@@ -18283,7 +18247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 71,
+    "privateContributions": 493,
     "publicContributions": 0,
     "createdAt": "2020-11-04T18:30:49Z"
   },
@@ -18343,7 +18307,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 288,
+    "privateContributions": 329,
     "publicContributions": 1,
     "createdAt": "2020-10-30T12:50:09Z"
   },
@@ -18356,7 +18320,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2020-10-19T11:06:12Z"
   },
   {

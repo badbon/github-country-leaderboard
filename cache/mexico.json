@@ -18020,20 +18020,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 182,
     "createdAt": "2024-04-26T18:37:02Z"
-  },
-  {
-    "login": "RecruiterJC",
-    "name": "Jenniffer Cabrera ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157672463?s=72&u=14f267b00f744ce9c288d2f0104cc71bae6148b3&v=4",
-    "location": "Mexico",
-    "company": "Multiplica",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-01-25T04:51:57Z"
   },
   {
     "login": "ehuacuzg",
@@ -18043,7 +18031,7 @@
     "company": "Royal Caribbean Group",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 868,
+    "privateContributions": 1108,
     "publicContributions": 0,
     "createdAt": "2024-02-22T21:45:50Z"
   },
@@ -18080,7 +18068,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-12-28T02:17:19Z"
   },
   {
@@ -18092,7 +18080,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 0,
     "createdAt": "2024-01-23T22:43:50Z"
   },
   {
@@ -18102,9 +18090,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 27,
-    "publicContributions": 22,
+    "followers": 2,
+    "privateContributions": 13,
+    "publicContributions": 39,
     "createdAt": "2024-01-16T04:15:52Z"
   },
   {
@@ -18126,9 +18114,9 @@
     "location": "Delicias, Chihuahua, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 224,
-    "publicContributions": 8,
+    "followers": 2,
+    "privateContributions": 572,
+    "publicContributions": 0,
     "createdAt": "2024-02-10T04:26:49Z"
   },
   {
@@ -18163,8 +18151,8 @@
     "company": "Universidad Panamericana",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 265,
-    "publicContributions": 62,
+    "privateContributions": 239,
+    "publicContributions": 40,
     "createdAt": "2024-02-22T20:44:29Z"
   },
   {
@@ -18236,7 +18224,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2024-11-03T22:57:39Z"
   },
   {
@@ -282010,5 +281998,65 @@
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2026-06-06T21:19:44Z"
+  },
+  {
+    "login": "christianr-dev",
+    "name": "Christian Romero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285275010?s=72&u=036039fd465ead9b5037a5fd9f01fbb7a4305523&v=4",
+    "location": "Puebla",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 10,
+    "createdAt": "2026-05-16T19:09:57Z"
+  },
+  {
+    "login": "JoseHdez210201",
+    "name": "José Juan Hernández García",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/295893686?s=72&v=4",
+    "location": "Puebla, México",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-22T15:09:38Z"
+  },
+  {
+    "login": "PGEstrategias",
+    "name": "PGEstrategias",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286419456?s=72&u=aa132e4b7c9939c7c8aa839ed7b891b60acd99a4&v=4",
+    "location": "Puebla",
+    "company": "PGEstrategias",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 23,
+    "createdAt": "2026-05-20T17:02:13Z"
+  },
+  {
+    "login": "Zammael333",
+    "name": "Zammael Mtz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285445008?s=72&u=186ee1d1bd7df3c71f4bd27f6933e053c907a14b&v=4",
+    "location": "Calle 5 de Mayo S/N, Cuartel 1er Batallón, Ignacio Zaragoza, 72380 Heroica Puebla de Zaragoza, Pue.",
+    "company": "Koyote Nexus",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 46,
+    "createdAt": "2026-05-17T15:05:02Z"
+  },
+  {
+    "login": "HerreraChanes",
+    "name": "María Paola Herrera Chanes",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288423695?s=72&u=b8d02415adfd473cc80e0525d20c4c19b5412058&v=4",
+    "location": "TEHUACAN, PUEBLA",
+    "company": "CONSERFLOW",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-27T18:57:31Z"
   }
 ]
