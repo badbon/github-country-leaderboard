@@ -18031,8 +18031,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 839,
-    "publicContributions": 89,
+    "privateContributions": 835,
+    "publicContributions": 78,
     "createdAt": "2013-11-06T15:27:40Z"
   },
   {
@@ -18068,7 +18068,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2013-09-29T12:09:58Z"
   },
   {
@@ -18102,7 +18102,7 @@
     "location": "Chisinau, Moldova . From Ukraine ",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2013-09-24T05:42:32Z"
@@ -18126,9 +18126,9 @@
     "location": "Moldova",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 672,
-    "publicContributions": 1665,
+    "followers": 5,
+    "privateContributions": 811,
+    "publicContributions": 1740,
     "createdAt": "2013-07-30T06:12:15Z"
   },
   {
@@ -18151,7 +18151,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 281,
+    "privateContributions": 339,
     "publicContributions": 0,
     "createdAt": "2013-01-05T18:26:20Z"
   },
@@ -18223,7 +18223,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 713,
+    "privateContributions": 757,
     "publicContributions": 0,
     "createdAt": "2013-02-26T10:05:42Z"
   },
@@ -18236,20 +18236,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 24,
     "createdAt": "2013-03-27T14:02:50Z"
-  },
-  {
-    "login": "spasat",
-    "name": "Pasat Sergiu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4507497?s=72&u=0bffb2a854abbde5576697e20d4b726cab3f4169&v=4",
-    "location": "Chisinau, Moldova",
-    "company": "@rabota-md",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 815,
-    "publicContributions": 0,
-    "createdAt": "2013-05-23T08:24:35Z"
   },
   {
     "login": "jahmanjee",

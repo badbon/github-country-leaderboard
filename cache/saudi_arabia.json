@@ -17864,7 +17864,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 4,
     "createdAt": "2023-09-20T17:59:41Z"
   },
   {
@@ -17875,8 +17875,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 77,
-    "publicContributions": 18,
+    "privateContributions": 149,
+    "publicContributions": 19,
     "createdAt": "2023-12-05T10:59:44Z"
   },
   {
@@ -17884,11 +17884,11 @@
     "name": "Khalid Al Dosari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150322474?s=72&u=2e84468f6866ea75396088fae58e67f552c2fb9c&v=4",
     "location": "Riyadh",
-    "company": "@Tuwaiq-Academy-Training",
+    "company": "Tuwaiq Academy",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 531,
     "createdAt": "2023-11-09T06:13:08Z"
   },
   {
@@ -17910,7 +17910,7 @@
     "location": "Riyadh",
     "company": "King Saud University",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-14T08:43:30Z"
@@ -17924,7 +17924,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 85,
     "createdAt": "2023-08-25T11:17:32Z"
   },
   {
@@ -17936,7 +17936,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 111,
     "createdAt": "2023-11-01T07:34:01Z"
   },
   {
@@ -17946,9 +17946,9 @@
     "location": "Riyadh",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 11,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-09-14T14:30:55Z"
   },
   {
@@ -17958,9 +17958,9 @@
     "location": "Riyadh",
     "company": "SARsatX",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 380,
+    "publicContributions": 349,
     "createdAt": "2023-11-11T13:55:46Z"
   },
   {
@@ -17972,7 +17972,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 116,
+    "publicContributions": 46,
     "createdAt": "2023-04-04T01:28:47Z"
   },
   {
@@ -17984,7 +17984,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 182,
+    "publicContributions": 99,
     "createdAt": "2023-02-11T11:59:37Z"
   },
   {
@@ -18006,9 +18006,9 @@
     "location": "Riyadh, KSA",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 250,
-    "publicContributions": 93,
+    "followers": 4,
+    "privateContributions": 244,
+    "publicContributions": 199,
     "createdAt": "2023-03-29T11:13:29Z"
   },
   {
@@ -18018,9 +18018,9 @@
     "location": "Riyadh, KSA",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 124,
     "createdAt": "2023-01-19T11:53:16Z"
   },
   {
@@ -18032,19 +18032,19 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2023-05-23T13:30:38Z"
   },
   {
     "login": "OmarMohamed03",
     "name": "Omar Mohamed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/122728735?s=72&u=0c3366bb3f59116a159145ea32245ebd5a9b3b06&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/122728735?s=72&u=2f5236fafb8044403c49461ab32e257fed053141&v=4",
     "location": "Riyadh",
     "company": "@zidsa",
     "twitterUsername": "OmarMohamed_28",
     "followers": 3,
-    "privateContributions": 2627,
-    "publicContributions": 128,
+    "privateContributions": 3639,
+    "publicContributions": 105,
     "createdAt": "2023-01-15T12:04:47Z"
   },
   {
@@ -18068,20 +18068,8 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 22,
     "createdAt": "2023-11-07T12:38:55Z"
-  },
-  {
-    "login": "urquijo1234",
-    "name": "Joseph Urquijo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142939496?s=72&u=c3e8eaf48d07775f4fbdca164f6fe00ecd7c9c3f&v=4",
-    "location": "RIYADH",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 198,
-    "createdAt": "2023-08-22T20:01:06Z"
   },
   {
     "login": "HomoudAldosari",

@@ -17898,9 +17898,9 @@
     "location": "Portugal",
     "company": "Nova School of Science and Technology",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 117,
-    "publicContributions": 271,
+    "followers": 8,
+    "privateContributions": 243,
+    "publicContributions": 301,
     "createdAt": "2024-04-10T13:02:34Z"
   },
   {
@@ -17911,7 +17911,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 888,
+    "privateContributions": 1041,
     "publicContributions": 3,
     "createdAt": "2024-03-05T17:45:11Z"
   },
@@ -17924,7 +17924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 6,
     "createdAt": "2024-03-27T21:02:56Z"
   },
   {
@@ -17936,7 +17936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 132,
     "createdAt": "2024-04-22T22:53:35Z"
   },
   {
@@ -18068,20 +18068,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 12,
     "createdAt": "2024-05-02T22:15:05Z"
-  },
-  {
-    "login": "NunoTeste",
-    "name": "Nuno Roque MS",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/170432663?s=72&v=4",
-    "location": "Alfeizerão, Portugal",
-    "company": "Machado & Silveira, Lda",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-05-21T13:17:52Z"
   },
   {
     "login": "JuanJoseLievanoTorres",

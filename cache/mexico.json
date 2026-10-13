@@ -17792,7 +17792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-05-21T03:18:45Z"
   },
   {
@@ -17804,7 +17804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2024-12-01T04:43:05Z"
   },
   {
@@ -17816,7 +17816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 164,
     "createdAt": "2024-02-27T00:49:30Z"
   },
   {
@@ -17828,7 +17828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 99,
     "createdAt": "2024-03-03T07:54:05Z"
   },
   {
@@ -17840,20 +17840,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 43,
     "createdAt": "2024-11-15T08:00:30Z"
-  },
-  {
-    "login": "Aalexalmaguer",
-    "name": "Alejandro Almaguer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156637972?s=72&v=4",
-    "location": "Nuevo León, Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 54,
-    "createdAt": "2024-01-15T04:55:01Z"
   },
   {
     "login": "isai5dx",
@@ -17864,7 +17852,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 54,
+    "publicContributions": 17,
     "createdAt": "2024-07-31T21:23:28Z"
   },
   {
@@ -17904,25 +17892,13 @@
     "createdAt": "2024-08-03T02:40:04Z"
   },
   {
-    "login": "JulietaRiver",
-    "name": "Julieta Rivera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/177906500?s=72&u=e65debb61704712108f35641491fd791ee25aa71&v=4",
-    "location": "mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2024-08-09T04:13:40Z"
-  },
-  {
     "login": "cokiesAndCreme",
     "name": "Luis Fernando  (Cookies)",
     "avatarUrl": "https://avatars.githubusercontent.com/u/168473875?s=72&v=4",
     "location": "Mexico, mexico city 🏙️",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-29T18:34:00Z"
@@ -17934,9 +17910,9 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 111,
     "createdAt": "2024-09-03T02:28:42Z"
   },
   {
@@ -17984,7 +17960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 59,
     "createdAt": "2024-11-15T15:58:51Z"
   },
   {
@@ -17996,7 +17972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2024-02-13T23:10:52Z"
   },
   {
@@ -18008,7 +17984,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 95,
     "createdAt": "2024-07-17T18:30:26Z"
   },
   {
@@ -18018,9 +17994,9 @@
     "location": "Guadalajara, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 259,
-    "publicContributions": 93,
+    "followers": 3,
+    "privateContributions": 185,
+    "publicContributions": 112,
     "createdAt": "2024-05-02T22:04:05Z"
   },
   {

@@ -322582,5 +322582,89 @@
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2026-06-07T21:37:56Z"
+  },
+  {
+    "login": "AmirGeekTech",
+    "name": "AmirGeek",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297678462?s=72&u=655cd52b8aeee7a93afa2293269ebba181d26589&v=4",
+    "location": "Iran",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 17,
+    "createdAt": "2026-06-28T16:34:09Z"
+  },
+  {
+    "login": "sinazebarjadi",
+    "name": "Sina Zebarjadi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297659454?s=72&u=fa649669ce1e7c5c35320e8af3fa9b482e1b2db7&v=4",
+    "location": "Iran",
+    "company": "Snapp!",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 71,
+    "createdAt": "2026-06-28T14:56:08Z"
+  },
+  {
+    "login": "Ethical-Developer1390",
+    "name": "Ethical_Developer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297707110?s=72&u=6a7fb34215c5437f8b84952579f343c80cad9f57&v=4",
+    "location": "Iran",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 16,
+    "createdAt": "2026-06-28T19:26:32Z"
+  },
+  {
+    "login": "AmiRGMC",
+    "name": "AmiRGMC",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297583147?s=72&u=f2c3a819e302e26b82dda98472f1fe3be41ca7ef&v=4",
+    "location": "IRAN",
+    "company": "GMC COMMUNITY ",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T08:14:14Z"
+  },
+  {
+    "login": "its-ablfazl",
+    "name": "Abolfazl Cheraghi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297719722?s=72&u=40cd8df4ff33b0e7e7cd12d19e24842d2e408613&v=4",
+    "location": "iran",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 15,
+    "createdAt": "2026-06-28T20:57:07Z"
+  },
+  {
+    "login": "SystemScholar",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297710696?s=72&u=423d9b2ef69f80a82af4d95f8234444d06883ddf&v=4",
+    "location": "Iran",
+    "company": "Arvid Software Technologies",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T19:52:03Z"
+  },
+  {
+    "login": "nikashkrmi",
+    "name": "Nikashaki",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297677372?s=72&v=4",
+    "location": "Iran",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-28T16:28:10Z"
   }
 ]
