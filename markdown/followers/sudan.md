@@ -1,6 +1,6 @@
 # Followers - Sudan
 
-Generated: 2026-10-13T14:42:23.207Z
+Generated: 2026-10-13T16:12:19.580Z
 
 Users: 729
 
@@ -19,7 +19,7 @@ Users: 729
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | I work for myself ✋ |  | sudan | 74 |
 | 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed |  |  | Sudan | 63 |
 | 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali |  | attaryz94 | Khartoum, Sudan | 60 |
-| 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar |  |  | Sudan, Khartoum | 59 |
+| 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim |  |  | Sudan, Khartoum | 59 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | HussamAdil |  | Sudan | 59 |
 | 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed |  |  | sudan | 56 |
 | 17 | [sam-x86](https://github.com/sam-x86) | SAM X86 | @HackScaleTeam | sam_x86_ | Sudan | 56 |

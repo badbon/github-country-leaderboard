@@ -1,13 +1,13 @@
 # Total Contributions - Aruba
 
-Generated: 2026-10-13T15:00:04.763Z
+Generated: 2026-10-13T16:27:41.065Z
 
 Users: 38
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent |  |  | Aruba | 1737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 818 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | CR38TE | azaandam | Aruba | 831 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé |  | flacle | Aruba | 564 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Cornerstone Economics / Lovely Data |  | Aruba | 550 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp |  |  | Aruba | 496 |

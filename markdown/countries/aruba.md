@@ -13,7 +13,7 @@ Indexed users: 38
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [QVault](https://github.com/QVault) | Quincent | Aruba | 1,737 |
-| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 818 |
+| 2 | [azaandam](https://github.com/azaandam) | André Zaandam | Aruba | 831 |
 | 3 | [flacle](https://github.com/flacle) | Francis Laclé | Aruba | 564 |
 | 4 | [rendell](https://github.com/rendell) | Rendell de Kort | Aruba | 550 |
 | 5 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 496 |
@@ -62,7 +62,7 @@ Indexed users: 38
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 69 |
+| 1 | [EstherPlomp](https://github.com/EstherPlomp) | Esther Plomp | Aruba | 68 |
 | 2 | [waterkip](https://github.com/waterkip) | Wesley Schwengle | Aruba | 18 |
 | 3 | [JunTechWebSolutions](https://github.com/JunTechWebSolutions) | Juny Engelhart (AWS Aruba) | Oranjestad, Aruba | 17 |
 | 4 | [PICyber](https://github.com/PICyber) |  | ⭕️❌⭕️✯ARUBA✯⭕️❌⭕️ | 15 |
@@ -83,4 +83,4 @@ Indexed users: 38
 | 19 | [XBrewyn](https://github.com/XBrewyn) | Brewyn Frederick Espinal Mercado | Aruba | 5 |
 | 20 | [DushiRox](https://github.com/DushiRox) | Roxana Rodriguez | Oranjestad, Aruba | 4 |
 
-Generated: 2026-10-13T15:00:04.763Z
+Generated: 2026-10-13T16:27:41.065Z

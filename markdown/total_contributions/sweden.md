@@ -1,6 +1,6 @@
 # Total Contributions - Sweden
 
-Generated: 2026-10-13T14:43:49.868Z
+Generated: 2026-10-13T16:12:29.037Z
 
 Users: 39047
 

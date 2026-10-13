@@ -31,7 +31,7 @@ Indexed users: 5,437
 | 17 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | Zagreb | 6,748 |
 | 18 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek | Croatia | 6,743 |
 | 19 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | Croatia | 6,678 |
-| 20 | [JS1240](https://github.com/JS1240) | Jure Šunić | Zagreb, HR | 6,434 |
+| 20 | [VedranCOI](https://github.com/VedranCOI) | COI | Zagreb | 6,513 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 5,437
 | 19 | [loboris](https://github.com/loboris) | Boris Lovosevic | Zagreb, Croatia | 406 |
 | 20 | [nibzard](https://github.com/nibzard) | Nikola Balic | Split, Croatia | 364 |
 
-Generated: 2026-10-13T15:13:19.586Z
+Generated: 2026-10-13T16:40:43.880Z

@@ -1,8 +1,8 @@
 # Total Contributions - Burundi
 
-Generated: 2026-10-13T15:08:43.416Z
+Generated: 2026-10-13T16:34:15.918Z
 
-Users: 236
+Users: 235
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|

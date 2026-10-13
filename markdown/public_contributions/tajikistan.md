@@ -1,12 +1,12 @@
 # Public Contributions - Tajikistan
 
-Generated: 2026-10-13T14:46:11.216Z
+Generated: 2026-10-13T16:12:48.209Z
 
 Users: 711
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 2255 |
+| 1 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 2357 |
 | 2 | [meetmeonlinefree](https://github.com/meetmeonlinefree) | Nekruz | KoftaGard Ltd. |  | Tajikistan | 2066 |
 | 3 | [MUHAMMADAMIN100](https://github.com/MUHAMMADAMIN100) | Muhammadamin |  |  | Tajikistan,Dushanbe | 1628 |
 | 4 | [beginwebdev2002](https://github.com/beginwebdev2002) | Jamoliddin |  |  | Dushanbe Tajikistan | 1380 |
@@ -16,7 +16,7 @@ Users: 711
 | 8 | [AnushervonKhidirov](https://github.com/AnushervonKhidirov) | Anushervon | @contobox  |  | Dushanbe, Tajikistan | 940 |
 | 9 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | @LLC-Alif-Technology  |  | Tajikistan | 823 |
 | 10 | [Ilkhom-S](https://github.com/Ilkhom-S) | Ilkhom Safarov | Payvand |  | Dushanbe, Tajikistan | 761 |
-| 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov |  |  | Dushanbe, Tajikistan | 699 |
+| 11 | [Suhrob4ikk](https://github.com/Suhrob4ikk) | Suhrob Davlatov |  |  | Dushanbe, Tajikistan | 732 |
 | 12 | [Osaf-Abdulloev](https://github.com/Osaf-Abdulloev) | Abdulloev Osaf |  |  | Dushanbe | 658 |
 | 13 | [GulomovCreative](https://github.com/GulomovCreative) | Bakhtovar Gulomov |  |  | Dushanbe, Tajikistan | 558 |
 | 14 | [UMARJO9](https://github.com/UMARJO9) | Умарджон Нурмадов |  |  | Tajikistan / Khujand / Dushanbe / Kulob | 508 |
@@ -24,5 +24,5 @@ Users: 711
 | 16 | [Muhammadjon0204](https://github.com/Muhammadjon0204) | Muhammadjon Kosimov | SoftClub - IT Academy |  | Dushanbe | 468 |
 | 17 | [llcsanjar](https://github.com/llcsanjar) | Sanjar |  |  | Tajikistan | 443 |
 | 18 | [rustamovy9](https://github.com/rustamovy9) |  |  |  | Dushanbe,Tajikistan | 428 |
-| 19 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 419 |
+| 19 | [BakhtiyorSharipov](https://github.com/BakhtiyorSharipov) | Bakhtiyor |  |  | Tajikistan | 418 |
 | 20 | [Ismatjonov](https://github.com/Ismatjonov) | Bakhtovar Ismatjonov |  |  | Tajikistan, Khujand | 416 |

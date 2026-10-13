@@ -1,6 +1,6 @@
 # Switzerland
 
-Indexed users: 24,100
+Indexed users: 24,099
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 24,100
 | 19 | [nyancrimew](https://github.com/nyancrimew) | maia arson crimew | Switzerland | 1,856 |
 | 20 | [jeremytammik](https://github.com/jeremytammik) | Jeremy Tammik | Switzerland | 1,841 |
 
-Generated: 2026-10-13T14:44:35.392Z
+Generated: 2026-10-13T16:12:33.300Z

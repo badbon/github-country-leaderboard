@@ -23,23 +23,23 @@ Indexed users: 1,580
 | 9 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 10,894 |
 | 10 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 9,507 |
 | 11 | [DavidBachmann](https://github.com/DavidBachmann) | Davíð Bachmann | Iceland | 9,170 |
-| 12 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 7,577 |
-| 13 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 7,571 |
-| 14 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,306 |
-| 15 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 6,895 |
-| 16 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,633 |
-| 17 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,419 |
-| 18 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,030 |
-| 19 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 5,931 |
-| 20 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,808 |
+| 12 | [rbjarnason](https://github.com/rbjarnason) | Róbert Viðar Bjarnason | Iceland | 7,954 |
+| 13 | [sarnason](https://github.com/sarnason) | Steingrímur Árnason | Reykjavik, Iceland | 7,577 |
+| 14 | [olioskar](https://github.com/olioskar) | Olafur O. Egilsson | Reykjavik | 7,571 |
+| 15 | [RationallyPrime](https://github.com/RationallyPrime) | Hákon Freyr Gunnarsson | Iceland | 7,306 |
+| 16 | [bjornj12](https://github.com/bjornj12) | Björn Ólafur Jóhannsson | iceland | 6,895 |
+| 17 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,633 |
+| 18 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,419 |
+| 19 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,030 |
+| 20 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 5,931 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 4,181 |
-| 2 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
-| 3 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,008 |
+| 1 | [karirafn](https://github.com/karirafn) | Kári Rafn Karlsson | Akranes, Iceland | 3,568 |
+| 2 | [HermannBjorgvin](https://github.com/HermannBjorgvin) | Hermann Björgvin | Reykjavík, Iceland | 3,008 |
+| 3 | [philcockfield](https://github.com/philcockfield) | Phil Cockfield | island( waiheke( nz )) | 2,986 |
 | 4 | [Raudbjorn](https://github.com/Raudbjorn) | Sveinbjörn Geirsson | Reykjavik | 2,720 |
 | 5 | [smnasiruz016-blip](https://github.com/smnasiruz016-blip) | Sheikh Muhammad Nasir Uz Zaman | iceland | 2,693 |
 | 6 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson | Reykjavík, Iceland | 2,477 |
@@ -49,14 +49,14 @@ Indexed users: 1,580
 | 10 | [hugithordarson](https://github.com/hugithordarson) | Hugi Thordarson | Rekjavik, Iceland | 1,970 |
 | 11 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad | Iceland | 1,947 |
 | 12 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 1,774 |
-| 13 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,501 |
-| 14 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
-| 15 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 1,449 |
-| 16 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,408 |
-| 17 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,376 |
-| 18 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,265 |
-| 19 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | Iceland | 1,234 |
-| 20 | [adslbarxatov](https://github.com/adslbarxatov) | RD AAOW Free development lab | Reykjavík, Iceland | 1,169 |
+| 13 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 1,580 |
+| 14 | [sandsower](https://github.com/sandsower) | Vic Valenzuela | Reykjavík, Iceland | 1,501 |
+| 15 | [bgunnarsson](https://github.com/bgunnarsson) | B. Gunnarsson | Iceland | 1,493 |
+| 16 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 1,449 |
+| 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,408 |
+| 18 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,376 |
+| 19 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,265 |
+| 20 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | Iceland | 1,234 |
 
 ## Followers
 
@@ -75,7 +75,7 @@ Indexed users: 1,580
 | 11 | [thormagnusson](https://github.com/thormagnusson) | thor magnusson | Reykjavik | 316 |
 | 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 283 |
 | 13 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 279 |
-| 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 277 |
+| 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 276 |
 | 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 248 |
 | 16 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 243 |
 | 17 | [wonderlandraja](https://github.com/wonderlandraja) | ashswag | : ̗̀➛ mcyt hill, island, dont cud when im w/ my gf unless we are close friends !  | 241 |
@@ -83,4 +83,4 @@ Indexed users: 1,580
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 217 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-13T15:31:19.785Z
+Generated: 2026-10-13T16:57:22.012Z

@@ -51,7 +51,7 @@ Indexed users: 729
 | 12 | [breezyx28](https://github.com/breezyx28) | Mohamed Ahmed (Kat) | Omdurman, Khartoum, Sudan | 425 |
 | 13 | [AminElhag](https://github.com/AminElhag) | Amin Elhag | Khartoum,Sudan | 398 |
 | 14 | [Ah-m-ed-Dev](https://github.com/Ah-m-ed-Dev) | Ahmed_khalil | sudan | 397 |
-| 15 | [249f](https://github.com/249f) | ALi Abdellatif | Omdurman Khartoum - Sudan | 361 |
+| 15 | [249f](https://github.com/249f) | ALi Abdellatif | Omdurman Khartoum - Sudan | 362 |
 | 16 | [m-elhabib-dev](https://github.com/m-elhabib-dev) | Mohamed Elhabib | Sudan, Khartoum | 352 |
 | 17 | [ahmedelbilal](https://github.com/ahmedelbilal) | Ahmed Elbilal | Sudan, Khartoum | 348 |
 | 18 | [aaami1ster](https://github.com/aaami1ster) | Abdalla Elsayed | Khartoum, Sudan | 328 |
@@ -75,7 +75,7 @@ Indexed users: 729
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | sudan | 74 |
 | 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 63 |
 | 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 60 |
-| 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar | Sudan, Khartoum | 59 |
+| 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar Ibrahim | Sudan, Khartoum | 59 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 59 |
 | 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed | sudan | 56 |
 | 17 | [sam-x86](https://github.com/sam-x86) | SAM X86 | Sudan | 56 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 51 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 49 |
 
-Generated: 2026-10-13T14:42:23.207Z
+Generated: 2026-10-13T16:12:19.580Z

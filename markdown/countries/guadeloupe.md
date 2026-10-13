@@ -13,13 +13,13 @@ Indexed users: 86
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,338 |
-| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,188 |
+| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,208 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,194 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,767 |
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,646 |
 | 6 | [iamcryptoki](https://github.com/iamcryptoki) | Gael Gentil | Guadeloupe | 1,425 |
-| 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,385 |
-| 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 941 |
+| 7 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,391 |
+| 8 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 943 |
 | 9 | [r1d](https://github.com/r1d) | Eric Degoul | Sainte-Anne, Guadeloupe | 701 |
 | 10 | [BLVCK971](https://github.com/BLVCK971) | Yoel Pépin | Le Moule, GUADELOUPE | 684 |
 | 11 | [nath971](https://github.com/nath971) | N | Guadeloupe | 658 |
@@ -29,7 +29,7 @@ Indexed users: 86
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 201 |
 | 16 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 17 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 136 |
-| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 110 |
+| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 101 |
 | 19 | [mperouma](https://github.com/mperouma) | Mathias P. | Guadeloupe | 80 |
 | 20 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 76 |
 
@@ -37,7 +37,7 @@ Indexed users: 86
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,385 |
+| 1 | [Gaelle-charles](https://github.com/Gaelle-charles) | Gaëlle CHARLES-BELAMOUR | Guadeloupe (FWI) | 1,391 |
 | 2 | [liobrasil](https://github.com/liobrasil) | Lionel LIMOL | Guadeloupe | 664 |
 | 3 | [FWICSS](https://github.com/FWICSS) | FWICSS | Guadeloupe | 460 |
 | 4 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 316 |
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-13T15:25:39.670Z
+Generated: 2026-10-13T16:52:11.514Z

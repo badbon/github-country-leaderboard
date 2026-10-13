@@ -1,6 +1,6 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-10-13T15:07:39.191Z
+Generated: 2026-10-13T16:33:52.888Z
 
 Users: 487
 
@@ -24,5 +24,5 @@ Users: 487
 | 16 | [Moussier24](https://github.com/Moussier24) | Moussier Cissé | Le Kimbi Créatif | leKimbiCreatif | Burkina Faso | 1560 |
 | 17 | [donnikurosaki](https://github.com/donnikurosaki) | DARA Dieudonné Goumba | @BIT-Solutions-Impact  |  | Burkina Faso, Ouagadougou | 1393 |
 | 18 | [adamako](https://github.com/adamako) | Adama KO | Declic |  | Burkina Faso | 1372 |
-| 19 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Inference |  | Ouagadougou, Burkina Faso | 1213 |
-| 20 | [rikudosama](https://github.com/rikudosama) | Lengam jean bonaventure | Taariam technologie | rikudosama | Ouagadougou, Burkina Faso | 1199 |
+| 19 | [NICE-DEV226](https://github.com/NICE-DEV226) | Azaël Wend-panga SAWADOGO  |  | NiceDEVbf | Burkina Faso | 1303 |
+| 20 | [k13lucien](https://github.com/k13lucien) | Lucien Kiemde | Inference |  | Ouagadougou, Burkina Faso | 1213 |

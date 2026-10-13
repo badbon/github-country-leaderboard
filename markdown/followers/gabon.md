@@ -1,6 +1,6 @@
 # Followers - Gabon
 
-Generated: 2026-10-13T15:24:48.743Z
+Generated: 2026-10-13T16:47:34.928Z
 
 Users: 315
 
@@ -17,8 +17,8 @@ Users: 315
 | 9 | [El-GeorgesW](https://github.com/El-GeorgesW) | El Georges William | @Fractal-Engines | El_GeorgesW | Libreville, Gabon | 34 |
 | 10 | [Ggboykxz](https://github.com/Ggboykxz) | Mr. ROBOT |  |  | Gabon | 34 |
 | 11 | [Steeven1995](https://github.com/Steeven1995) | Gabin Moundziegou |  |  | Libreville, Gabon | 34 |
-| 12 | [bibangjoseph](https://github.com/bibangjoseph) | Joseph Donovan BIBANG BEFENE |  | BibangJoseph | Libreville / Gabon | 33 |
-| 13 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | @Reachafrika-Technicals, Freelance |  | Libreville/Gabon | 33 |
+| 12 | [stoneC0der](https://github.com/stoneC0der) | Cedric Megnie N. | @Reachafrika-Technicals, Freelance |  | Libreville/Gabon | 33 |
+| 13 | [bibangjoseph](https://github.com/bibangjoseph) | Joseph Donovan BIBANG BEFENE |  | BibangJoseph | Libreville / Gabon | 32 |
 | 14 | [SlymDev](https://github.com/SlymDev) | Moundziegou | SlymDev |  | Libreville | 31 |
 | 15 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui |  |  | Gabon | 30 |
 | 16 | [bangaromaric](https://github.com/bangaromaric) | BANGA |  | bangaromaric | Libreville, Gabon | 28 |

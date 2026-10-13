@@ -28,7 +28,7 @@ Indexed users: 132
 | 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
 | 15 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 329 |
 | 16 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
-| 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 310 |
+| 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 300 |
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 19 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 269 |
 | 20 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 267 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-13T14:41:33.197Z
+Generated: 2026-10-13T16:11:46.612Z

@@ -29,8 +29,8 @@ Indexed users: 263
 | 15 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory | Guinea | 1,152 |
 | 16 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | GUINEA CONAKRY | 1,105 |
 | 17 | [mrrootc](https://github.com/mrrootc) | Abdoulaye Camara | Guinea, Conakry | 699 |
-| 18 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 605 |
-| 19 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 599 |
+| 18 | [Salif50](https://github.com/Salif50) | Salif SUMA | République de Guinée | 606 |
+| 19 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 605 |
 | 20 | [Zakui](https://github.com/Zakui) | Jules Thea | Guinea, Conakry | 581 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-13T15:27:10.204Z
+Generated: 2026-10-13T16:53:58.171Z

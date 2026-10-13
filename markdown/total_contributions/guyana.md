@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-13T15:27:53.200Z
+Generated: 2026-10-13T16:54:36.475Z
 
 Users: 186
 
@@ -13,9 +13,9 @@ Users: 186
 | 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4331 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 3976 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3918 |
-| 8 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3768 |
+| 8 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3793 |
 | 9 | [beckettharriman](https://github.com/beckettharriman) | Beckett Harriman | Georgetown University |  | Georgetown, DC | 3365 |
-| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3118 |
+| 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3157 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3002 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2227 |
 | 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1738 |
