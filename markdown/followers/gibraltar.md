@@ -1,6 +1,6 @@
 # Followers - Gibraltar
 
-Generated: 2026-10-13T04:49:56.789Z
+Generated: 2026-10-13T15:25:25.400Z
 
 Users: 93
 
@@ -10,7 +10,7 @@ Users: 93
 | 2 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 86 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 71 |
 | 4 | [sloancameron](https://github.com/sloancameron) | valley / bernadette | @eijiromantic <- also me! |  | watchpoint gibraltar | 39 |
-| 5 | [docziegler](https://github.com/docziegler) | star | overwatch |  | watchpoint gibraltar | 35 |
+| 5 | [docziegler](https://github.com/docziegler) | star | overwatch |  | watchpoint gibraltar | 36 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 33 |
 | 7 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 31 |
 | 8 | [carribus](https://github.com/carribus) | Peter Mares |  |  | Gibraltar | 28 |

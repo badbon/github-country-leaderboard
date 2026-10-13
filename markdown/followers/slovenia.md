@@ -1,6 +1,6 @@
 # Followers - Slovenia
 
-Generated: 2026-10-13T04:10:25.343Z
+Generated: 2026-10-13T14:39:00.504Z
 
 Users: 3102
 
@@ -25,4 +25,4 @@ Users: 3102
 | 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Prewave |  | Ljubljana, Slovenia | 248 |
 | 18 | [jure](https://github.com/jure) | Jure Triglav |  | juretriglav | Ljubljana, Slovenia | 241 |
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 240 |
-| 20 | [buresdv](https://github.com/buresdv) | David Bureš | USU Solutions |  | Maribor, Slovenia | 237 |
+| 20 | [buresdv](https://github.com/buresdv) | David Bureš |  |  | Maribor, Slovenia | 238 |

@@ -1,6 +1,6 @@
 # Public Contributions - Trinidad and Tobago
 
-Generated: 2026-10-13T04:17:18.652Z
+Generated: 2026-10-13T14:48:40.562Z
 
 Users: 256
 
@@ -8,7 +8,7 @@ Users: 256
 |---:|---|---|---|---|---|---:|
 | 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 4591 |
 | 2 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1436 |
-| 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1188 |
+| 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1187 |
 | 4 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1074 |
 | 5 | [rishi-latchmepersad](https://github.com/rishi-latchmepersad) | Rishi Latchmepersad | Shell |  | Trinidad and Tobago | 949 |
 | 6 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 779 |
@@ -17,8 +17,8 @@ Users: 256
 | 9 | [JadeOfMaar](https://github.com/JadeOfMaar) | JadeOfMaar |  |  | Trinidad and Tobago | 452 |
 | 10 | [msanatan](https://github.com/msanatan) | Marcus Sanatan | @CoplayDev  | marcussanatan | Trinidad and Tobago | 421 |
 | 11 | [Somi-Project](https://github.com/Somi-Project) | Somi |  | SomiProject | Trinidad And Tobago | 363 |
-| 12 | [dmcken](https://github.com/dmcken) | David Mc Ken |  |  | Trinidad and Tobago | 302 |
-| 13 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 295 |
+| 12 | [AnthonyASBaptiste](https://github.com/AnthonyASBaptiste) | Anthony A.S Baptiste |  |  | Trinidad and Tobago | 339 |
+| 13 | [dmcken](https://github.com/dmcken) | David Mc Ken |  |  | Trinidad and Tobago | 302 |
 | 14 | [rezziemaven](https://github.com/rezziemaven) | Sherezz Grant | Rezzie Maven |  | Trinidad and Tobago | 264 |
 | 15 | [devxlag](https://github.com/devxlag) | Devon Murray | UWI |  | Trinidad and Tobago | 256 |
 | 16 | [0xNick404](https://github.com/0xNick404) | Nicholas Grimes |  |  | Trinidad and Tobago | 250 |

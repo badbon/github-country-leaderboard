@@ -1,8 +1,8 @@
 # Public Contributions - Antarctica
 
-Generated: 2026-10-13T04:28:36.579Z
+Generated: 2026-10-13T14:59:24.832Z
 
-Users: 460
+Users: 459
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,11 +18,11 @@ Users: 460
 | 10 | [FreezingSnail](https://github.com/FreezingSnail) | Freezing Snail |  |  | Antarctica | 1255 |
 | 11 | [antedotee](https://github.com/antedotee) | ky505 |  |  | Antarctica | 1125 |
 | 12 | [codes-by-utkarsh](https://github.com/codes-by-utkarsh) | Utkarsh Srivastava | VIT Bhopal  | u25tkarsh | Antarctica | 708 |
-| 13 | [liuzhen9320](https://github.com/liuzhen9320) | liuzhen932 🇦🇶 |  |  | Antarctica | 664 |
-| 14 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 605 |
-| 15 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 531 |
-| 16 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 524 |
-| 17 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
-| 18 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
-| 19 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
-| 20 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing |  | healingdrawing | Antarctica | 440 |
+| 13 | [KrLite](https://github.com/KrLite) | KrLite |  | KrLite | Antarctica | 605 |
+| 14 | [DenzelPenzel](https://github.com/DenzelPenzel) |  | @FAQGURU  |  | Antarctica | 531 |
+| 15 | [PenguinDOOM](https://github.com/PenguinDOOM) | Penguin | Working 6 days a week, 317 days a year |  | Antarctica, Discord, VRChat | 524 |
+| 16 | [oniaz](https://github.com/oniaz) | Omnia |  |  | antarctica | 517 |
+| 17 | [Daedalus-code](https://github.com/Daedalus-code) |  |  |  | Antarctica | 472 |
+| 18 | [AuroraLantean](https://github.com/AuroraLantean) | AuroraLantean  |  | raymondlweb3 | Antarctica | 450 |
+| 19 | [healingdrawing](https://github.com/healingdrawing) | Healing Drawing |  | healingdrawing | Antarctica | 440 |
+| 20 | [bestruirui](https://github.com/bestruirui) | BESTRUI |  |  | Antarctica | 436 |

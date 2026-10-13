@@ -29,7 +29,7 @@ Indexed users: 236
 | 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 741 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 567 |
-| 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 546 |
+| 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 547 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 324 |
 | 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 245 |
 
@@ -55,7 +55,7 @@ Indexed users: 236
 | 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
 | 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 47 |
 | 18 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 44 |
-| 19 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 41 |
+| 19 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 39 |
 | 20 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 33 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-13T04:29:57.218Z
+Generated: 2026-10-13T15:01:20.046Z

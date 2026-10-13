@@ -12,14 +12,14 @@ Indexed users: 201
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,012 |
+| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 3,273 |
 | 2 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 2,398 |
 | 3 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 624 |
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TCHAD | 515 |
-| 6 | [mittb1g](https://github.com/mittb1g) |  | Chad | 251 |
-| 7 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 241 |
-| 8 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 240 |
+| 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tchad | 259 |
+| 7 | [mittb1g](https://github.com/mittb1g) |  | Chad | 251 |
+| 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | Ndjamena, Tchad | 241 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr | Tchad | 189 |
 | 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Ndjaména/Tchad | 179 |
 | 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait | Chad | 162 |
@@ -37,7 +37,7 @@ Indexed users: 201
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 971 |
+| 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 1,232 |
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | TCHAD | 680 |
 | 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan | Chad | 452 |
 | 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 243 |
@@ -63,7 +63,7 @@ Indexed users: 201
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore | Tchad | 196 |
-| 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 118 |
+| 2 | [Abdelkerim516](https://github.com/Abdelkerim516) | ABDEL_ABBO | N'djamena | 117 |
 | 3 | [Kakaymi10](https://github.com/Kakaymi10) | Moussa | NDjamena, Chad | 61 |
 | 4 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Chad | 25 |
 | 5 | [malachieborohoul](https://github.com/malachieborohoul) | BOROHOUL Soguelni Malachie | Chad | 14 |
@@ -83,4 +83,4 @@ Indexed users: 201
 | 19 | [sulzokeboulin](https://github.com/sulzokeboulin) | Norma Brown | West Joshuaburgh, Chad | 8 |
 | 20 | [Floppinqq](https://github.com/Floppinqq) | Floppinqq | chad | 7 |
 
-Generated: 2026-10-13T04:39:13.051Z
+Generated: 2026-10-13T15:12:25.903Z

@@ -39,7 +39,7 @@ Indexed users: 3,102
 |---:|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 7,269 |
-| 3 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 6,261 |
+| 3 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 5,412 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
 | 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 3,979 |
 | 6 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Ljubljana, Slovenia | 3,845 |
@@ -81,6 +81,6 @@ Indexed users: 3,102
 | 17 | [dorkamotorka](https://github.com/dorkamotorka) | Teodor Janez Podobnik | Ljubljana, Slovenia | 248 |
 | 18 | [jure](https://github.com/jure) | Jure Triglav | Ljubljana, Slovenia | 241 |
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
-| 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 237 |
+| 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-13T04:10:25.343Z
+Generated: 2026-10-13T14:39:00.504Z

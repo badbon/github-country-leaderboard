@@ -1,6 +1,6 @@
 # Total Contributions - Estonia
 
-Generated: 2026-10-13T04:46:37.968Z
+Generated: 2026-10-13T15:20:18.041Z
 
 Users: 4910
 
@@ -24,5 +24,5 @@ Users: 4910
 | 16 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe |  |  | Estonia | 12300 |
 | 17 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | ReSense Agency |  | Estonia | 12258 |
 | 18 | [paat](https://github.com/paat) | Andre Tšernikov | R-53 OÜ |  | Tallinn, Estonia | 11779 |
-| 19 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 11549 |
-| 20 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Taltech |  | Estonia | 11161 |
+| 19 | [joonatanjak](https://github.com/joonatanjak) | Joonatan Jakobson |  |  | Estonia | 11610 |
+| 20 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne |  |  | Estonia | 11549 |

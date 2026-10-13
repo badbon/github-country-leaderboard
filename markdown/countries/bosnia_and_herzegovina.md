@@ -31,7 +31,7 @@ Indexed users: 2,128
 | 17 | [eldar6776](https://github.com/eldar6776) | DoE | Sarajevo Bosna i Hercegovina | 4,134 |
 | 18 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 4,094 |
 | 19 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic | Sarajevo, Bosnia and Herzegovina | 4,090 |
-| 20 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 3,970 |
+| 20 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic | Sarajevo, Bosnia and Herzegovina | 3,873 |
 
 ## Public Contributions
 
@@ -45,7 +45,7 @@ Indexed users: 2,128
 | 6 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 2,647 |
 | 7 | [pr0h0](https://github.com/pr0h0) | Abdulah Proho | Sarajevo / Bosnia and Herzegovina | 2,559 |
 | 8 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 2,043 |
-| 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,871 |
+| 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,827 |
 | 10 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,787 |
 | 11 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,382 |
 | 12 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,374 |
@@ -79,8 +79,8 @@ Indexed users: 2,128
 | 15 | [MS-WEB-BN](https://github.com/MS-WEB-BN) |  | Bijeljina, Bosnia and Herzegovina | 133 |
 | 16 | [borisdj](https://github.com/borisdj) | Boris Djurdjevic | Banja Luka, Bosnia and Herzegovina | 130 |
 | 17 | [nenadg](https://github.com/nenadg) | Nenad Golubovic | Banja Luka, Bosnia and Herzegovina | 129 |
-| 18 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 124 |
-| 19 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
+| 18 | [xiprox](https://github.com/xiprox) | İhsan Işık | Sarajevo | 123 |
+| 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-13T04:35:04.914Z
+Generated: 2026-10-13T15:06:19.005Z

@@ -1,6 +1,6 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-13T04:10:25.343Z
+Generated: 2026-10-13T14:39:00.504Z
 
 Users: 3102
 
@@ -8,7 +8,7 @@ Users: 3102
 |---:|---|---|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 9114 |
 | 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi |  |  | Ljubljana, Slovenia | 7269 |
-| 3 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 6261 |
+| 3 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 4219 |
 | 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | SkyLabs d.o.o. |  | Maribor, Slovenia | 3979 |
 | 6 | [AKzar1el](https://github.com/AKzar1el) | Tommy | Solo | AKzar1el | Ljubljana, Slovenia | 3845 |

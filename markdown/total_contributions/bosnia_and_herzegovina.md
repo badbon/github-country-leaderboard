@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-13T04:35:04.914Z
+Generated: 2026-10-13T15:06:19.005Z
 
 Users: 2128
 
@@ -25,4 +25,4 @@ Users: 2128
 | 17 | [eldar6776](https://github.com/eldar6776) | DoE |  |  | Sarajevo Bosna i Hercegovina | 4134 |
 | 18 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 4094 |
 | 19 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic |  |  | Sarajevo, Bosnia and Herzegovina | 4090 |
-| 20 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 3970 |
+| 20 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic |  |  | Sarajevo, Bosnia and Herzegovina | 3873 |

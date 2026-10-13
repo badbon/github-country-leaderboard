@@ -19,12 +19,12 @@ Indexed users: 263
 | 5 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 3,539 |
 | 6 | [hadpro24](https://github.com/hadpro24) | Harouna Diallo | Guinée, Conakry, GN | 3,519 |
 | 7 | [mohdiarra](https://github.com/mohdiarra) | Mohamed Diarra | Conakry, Guinea | 2,637 |
-| 8 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,226 |
+| 8 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,228 |
 | 9 | [TheRealBerete](https://github.com/TheRealBerete) | BERETE 🇬🇳❤️ | Conakry  | 2,062 |
 | 10 | [Cellou404](https://github.com/Cellou404) | Cellou Cisse | Conakry, Guinée | 1,986 |
 | 11 | [Adbrim](https://github.com/Adbrim) | Alhassane Bah | CONAKRY | 1,957 |
 | 12 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 1,832 |
-| 13 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 1,464 |
+| 13 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 1,449 |
 | 14 | [konatem-mk9](https://github.com/konatem-mk9) | KONATE Moussa | CONAKRY | 1,229 |
 | 15 | [DiabySoryIb](https://github.com/DiabySoryIb) | Ib Sory | Guinea | 1,152 |
 | 16 | [ISSIAGA-CONDE224](https://github.com/ISSIAGA-CONDE224) | ISSIAGA CONDE | GUINEA CONAKRY | 1,105 |
@@ -37,7 +37,7 @@ Indexed users: 263
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,226 |
+| 1 | [SouleymaneSy7](https://github.com/SouleymaneSy7) | Souleymane Sy | Guinée, Conakry | 2,228 |
 | 2 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 907 |
 | 3 | [ftd6435](https://github.com/ftd6435) | Pathé PK Diallo | Guinea | 605 |
 | 4 | [sitatec](https://github.com/sitatec) | Sita Bérété | Conakry, Guinea | 476 |
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-13T04:52:35.438Z
+Generated: 2026-10-13T15:27:10.204Z

@@ -12,7 +12,7 @@ Indexed users: 53
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,080 |
+| 1 | [mvdgun](https://github.com/mvdgun) | Mauro van der Gun | Curaçao | 6,106 |
 | 2 | [kloostermanw](https://github.com/kloostermanw) | Wiebe | Willemstad, Curaçao | 3,821 |
 | 3 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 3,572 |
 | 4 | [BalusC](https://github.com/BalusC) | Bauke Scholtz | Willemstad, Curaçao | 3,381 |
@@ -25,7 +25,7 @@ Indexed users: 53
 | 11 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 12 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
 | 13 | [nelreina](https://github.com/nelreina) | Nelreina | Willemstad, Curacao | 92 |
-| 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 73 |
+| 14 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 77 |
 | 15 | [iamjesco](https://github.com/iamjesco) | Jurgen Schoobaar | Willemstad | 50 |
 | 16 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
 | 17 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
@@ -43,7 +43,7 @@ Indexed users: 53
 | 4 | [JObersi10](https://github.com/JObersi10) |  | Willemstad, Curaçao | 468 |
 | 5 | [acesuares](https://github.com/acesuares) | Ace Suares | Willemstad, Netherlands Antilles | 253 |
 | 6 | [weyert](https://github.com/weyert) | Weyert de Boer | London, Curaçao | 130 |
-| 7 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 73 |
+| 7 | [theowlsden](https://github.com/theowlsden) | Shaquil Maria | Curaçao | 77 |
 | 8 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 63 |
 | 9 | [angelrgonzalezg](https://github.com/angelrgonzalezg) | Angel R Gonzalez G | Willemstad, Curacao | 45 |
 | 10 | [schroef](https://github.com/schroef) |  | Curaçao, Dutch Caribbean | 42 |
@@ -83,4 +83,4 @@ Indexed users: 53
 | 19 | [coinversus](https://github.com/coinversus) | CoinVersus | Curaçao | 5 |
 | 20 | [flangfeldt](https://github.com/flangfeldt) | FΞLIX | Willemstad, Curacao | 5 |
 
-Generated: 2026-10-13T04:41:46.256Z
+Generated: 2026-10-13T15:14:40.858Z

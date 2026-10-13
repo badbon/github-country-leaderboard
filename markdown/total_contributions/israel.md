@@ -1,6 +1,6 @@
 # Total Contributions - Israel
 
-Generated: 2026-10-13T04:57:58.187Z
+Generated: 2026-10-13T15:32:43.660Z
 
 Users: 12432
 

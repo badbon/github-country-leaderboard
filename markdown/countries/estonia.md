@@ -30,8 +30,8 @@ Indexed users: 4,910
 | 16 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
 | 17 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
 | 18 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
-| 19 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
-| 20 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
+| 19 | [joonatanjak](https://github.com/joonatanjak) | Joonatan Jakobson | Estonia | 11,610 |
+| 20 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,910
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-13T04:46:37.968Z
+Generated: 2026-10-13T15:20:18.041Z

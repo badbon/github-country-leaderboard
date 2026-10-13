@@ -1,12 +1,12 @@
 # Total Contributions - Cape Verde
 
-Generated: 2026-10-13T04:38:04.814Z
+Generated: 2026-10-13T15:10:24.173Z
 
 Users: 563
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [svcrashh](https://github.com/svcrashh) | crashh | Wellhub |  | Praia Grande | 6033 |
+| 1 | [svcrashh](https://github.com/svcrashh) | crashh | Wellhub |  | Praia Grande | 7530 |
 | 2 | [Kowts](https://github.com/Kowts) | Joselito Lima Coutinho | CVTelecom |  | Praia, Cabo Verde | 3227 |
 | 3 | [Balula12](https://github.com/Balula12) | Gustavo Santos Balula |  |  | Praia Grande, SP | 2622 |
 | 4 | [natanvalimcardoso](https://github.com/natanvalimcardoso) | Natan Valim | Bemol |  | Praia Grande - SC | 2067 |

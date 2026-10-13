@@ -1,8 +1,8 @@
 # Total Contributions - Jordan
 
-Generated: 2026-10-13T04:59:15.434Z
+Generated: 2026-10-13T15:34:29.262Z
 
-Users: 4016
+Users: 4015
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 4016
 | 14 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | eduArabia |  | Amman-Jordan | 5215 |
 | 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi |  |  | Amman, Jordan | 5181 |
 | 16 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen |  |  | Jordan, Amman | 5150 |
-| 17 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
-| 18 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Viero |  | Amman, Jordan | 4810 |
-| 19 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |
-| 20 | [shwawra](https://github.com/shwawra) | Shwawra | Theta Technologies |  | Jordan | 4519 |
+| 17 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | String Education |  | Jordan | 5122 |
+| 18 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb |  |  | Jordan, Amman | 5114 |
+| 19 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Viero |  | Amman, Jordan | 4810 |
+| 20 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh |  |  | Amman, Jordan | 4785 |

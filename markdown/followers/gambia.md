@@ -1,8 +1,8 @@
 # Followers - Gambia
 
-Generated: 2026-10-13T04:49:19.101Z
+Generated: 2026-10-13T15:24:53.831Z
 
-Users: 79
+Users: 78
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
