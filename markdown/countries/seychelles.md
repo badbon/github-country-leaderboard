@@ -13,25 +13,25 @@ Indexed users: 1,770
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | Victoria, BC Canada | 31,597 |
-| 2 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 12,117 |
-| 3 | [kwintin](https://github.com/kwintin) | Quentin | Victoria, BC | 11,089 |
-| 4 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 10,207 |
-| 5 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
-| 6 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 9,189 |
-| 7 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | Victoria, BC | 8,221 |
+| 2 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | Victoria, BC | 14,399 |
+| 3 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 12,117 |
+| 4 | [kwintin](https://github.com/kwintin) | Quentin | Victoria, BC | 11,089 |
+| 5 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 10,207 |
+| 6 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
+| 7 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 9,189 |
 | 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 7,711 |
 | 9 | [ascott](https://github.com/ascott) | Alanna Scott | Victoria, BC | 7,211 |
 | 10 | [sdevalapurkar](https://github.com/sdevalapurkar) | Shreyas Devalapurkar | Victoria, BC | 7,135 |
 | 11 | [brandonellis](https://github.com/brandonellis) | Brandon Ellis | Victoria, BC | 6,893 |
-| 12 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 6,686 |
-| 13 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,561 |
-| 14 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 6,535 |
-| 15 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 6,120 |
-| 16 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
-| 17 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,835 |
-| 18 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 5,663 |
-| 19 | [jmoseley](https://github.com/jmoseley) | Jeremy Moseley | Victoria BC | 5,652 |
-| 20 | [troymcginnis](https://github.com/troymcginnis) | Troy McGinnis | Victoria, BC | 5,383 |
+| 12 | [DaveCThompson](https://github.com/DaveCThompson) | Dave Thompson | Victoria | 6,731 |
+| 13 | [AnonymousGhost-SC](https://github.com/AnonymousGhost-SC) | Adrian Noel | Seychelles | 6,686 |
+| 14 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 6,561 |
+| 15 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 6,535 |
+| 16 | [shinybrar](https://github.com/shinybrar) | shiny. | Victoria, BC | 6,120 |
+| 17 | [levibe](https://github.com/levibe) | Levi Bucsis | Victoria, BC | 5,868 |
+| 18 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 5,835 |
+| 19 | [BenjaminBenetti](https://github.com/BenjaminBenetti) | Benjamin Benetti | Victoria BC | 5,663 |
+| 20 | [jmoseley](https://github.com/jmoseley) | Jeremy Moseley | Victoria BC | 5,652 |
 
 ## Public Contributions
 
@@ -70,7 +70,7 @@ Indexed users: 1,770
 | 6 | [jasoncwarner](https://github.com/jasoncwarner) | Jason Warner | Victoria, BC | 394 |
 | 7 | [naomiaro](https://github.com/naomiaro) | Naomi | Victoria, BC | 249 |
 | 8 | [codeWithCal](https://github.com/codeWithCal) | Code With Cal | Victoria | 238 |
-| 9 | [ikaliam](https://github.com/ikaliam) | Eirini Kalliamvakou | Victoria, BC | 237 |
+| 9 | [ikaliam](https://github.com/ikaliam) | Eirini Kalliamvakou | Victoria, BC | 238 |
 | 10 | [FigBug](https://github.com/FigBug) | Roland Rabien | Victoria, BC | 226 |
 | 11 | [shirosaidev](https://github.com/shirosaidev) | Chris Park | Victoria, BC | 180 |
 | 12 | [samsonjs](https://github.com/samsonjs) | Sami Samhuri | Victoria, BC | 176 |
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 120 |
 
-Generated: 2026-10-13T04:06:51.691Z
+Generated: 2026-10-13T05:26:49.335Z

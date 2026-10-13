@@ -1,8 +1,8 @@
 # Total Contributions - Lebanon
 
-Generated: 2026-10-13T03:35:40.494Z
+Generated: 2026-10-13T05:03:14.338Z
 
-Users: 2570
+Users: 2569
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 2570
 | 11 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan |  |  | Lebanon | 6600 |
 | 12 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Fundbot |  | Beirut | 6452 |
 | 13 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 6334 |
-| 14 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Freelance | alishkeir_ | Beirut, Lebanon | 6225 |
-| 15 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6138 |
-| 16 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 6034 |
-| 17 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
+| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan |  |  | Aley, Lebanon | 6138 |
+| 15 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | @Meritt-dev  |  | Lebanon | 6034 |
+| 16 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | @manifest @barqfleet @thaat | kaakati | Beirut, Lebanon | 5864 |
+| 17 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Freelance | alishkeir_ | Beirut, Lebanon | 5577 |
 | 18 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | @Instadapp  | KABBOUCHI | Lebanon | 5390 |
 | 19 | [Salah1221](https://github.com/Salah1221) | Salah Najem | @nesco-lb  |  | Tripoli District, North Governorate, Lebanon | 5352 |
 | 20 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | @Poyesis  |  | Lebanon | 5308 |

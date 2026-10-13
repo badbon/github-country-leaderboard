@@ -1,13 +1,13 @@
 # Total Contributions - Mali
 
-Generated: 2026-10-13T03:40:12.705Z
+Generated: 2026-10-13T05:06:54.819Z
 
 Users: 348
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | SahelPAY | diblo_n | BAMAKO MALI | 8171 |
-| 2 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 7180 |
+| 2 | [koneke55](https://github.com/koneke55) | कोनेके |  | koneke55 | Bamako, Mali | 7178 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Logic Fly |  | Bamako-Mali | 6258 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | HorizonFuture |  | Bamako, telecel GBS | 6110 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | .... |  | Bamako | 5311 |
@@ -19,10 +19,10 @@ Users: 348
 | 11 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen |  |  | Bamako, Mali | 2318 |
 | 12 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Akicorp Solutions Technology |  | Bamako | 2163 |
 | 13 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou |  | AbduRahmanSb | Bamako | 2138 |
-| 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 1955 |
-| 15 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | @Kabakoo-app  | djounnoureyni | Bamako, Mali | 1942 |
-| 16 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun |  |  | Bamako, Mali | 1941 |
+| 14 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun |  |  | Bamako, Mali | 1966 |
+| 15 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | @axiora-dev | DiomanKeita | Bamako/Mali | 1955 |
+| 16 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | @Kabakoo-app  | djounnoureyni | Bamako, Mali | 1942 |
 | 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo |  | elpav2022 | Bamako | 1659 |
-| 18 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Gestscolaire |  | Mali/Bamako | 1588 |
-| 19 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 1578 |
-| 20 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré |  |  | MALI  | 1577 |
+| 18 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Danapay |  | Bamako , Mali 🇲🇱  | 1600 |
+| 19 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Gestscolaire |  | Mali/Bamako | 1575 |
+| 20 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré |  |  | MALI  | 1575 |

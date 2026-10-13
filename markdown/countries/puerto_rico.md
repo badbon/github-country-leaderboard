@@ -13,25 +13,25 @@ Indexed users: 1,537
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 38,775 |
-| 2 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 19,949 |
-| 3 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 18,486 |
-| 4 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 17,279 |
-| 5 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 17,003 |
-| 6 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,074 |
-| 7 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 8,232 |
-| 8 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 7,609 |
-| 9 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | San Juan, PR | 7,470 |
-| 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
-| 11 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 6,925 |
-| 12 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
-| 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
-| 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
-| 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
-| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
-| 17 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
-| 18 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
-| 19 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
-| 20 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 5,433 |
+| 2 | [angusdavis2](https://github.com/angusdavis2) |  | Dorado, Puerto Rico | 27,920 |
+| 3 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 19,949 |
+| 4 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 18,486 |
+| 5 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 17,279 |
+| 6 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 17,003 |
+| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,074 |
+| 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 8,232 |
+| 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 7,609 |
+| 10 | [yoaquim](https://github.com/yoaquim) | Yoaquim Cintrón | San Juan, PR | 7,470 |
+| 11 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
+| 12 | [bombillazo](https://github.com/bombillazo) | Hector Ayala | Puerto Rico | 6,925 |
+| 13 | [aegonzalez95](https://github.com/aegonzalez95) | Angel Gonzalez | Puerto Rico | 6,798 |
+| 14 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
+| 15 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
+| 16 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
+| 17 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
+| 18 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
+| 19 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
+| 20 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,537
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-13T02:29:01.453Z
+Generated: 2026-10-13T05:21:19.387Z

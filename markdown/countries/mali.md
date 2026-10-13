@@ -13,7 +13,7 @@ Indexed users: 348
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [dione24](https://github.com/dione24) | Niangaly Abdoulaye | BAMAKO MALI | 8,171 |
-| 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,180 |
+| 2 | [koneke55](https://github.com/koneke55) | कोनेके | Bamako, Mali | 7,178 |
 | 3 | [flyBoy667](https://github.com/flyBoy667) | Salifou Dembélé | Bamako-Mali | 6,258 |
 | 4 | [Abbv75](https://github.com/Abbv75) | Younouss Boré  | Bamako, telecel GBS | 6,110 |
 | 5 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 5,311 |
@@ -25,13 +25,13 @@ Indexed users: 348
 | 11 | [Alhoussen](https://github.com/Alhoussen) | Alhoussen | Bamako, Mali | 2,318 |
 | 12 | [alitimbo](https://github.com/alitimbo) | Ali Timbo | Bamako | 2,163 |
 | 13 | [AbduRahmanS](https://github.com/AbduRahmanS) | Abdrahamane Sarambounou | Bamako | 2,138 |
-| 14 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,955 |
-| 15 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,942 |
-| 16 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,941 |
+| 14 | [Ifiboys](https://github.com/Ifiboys) | Ephraim D Oladokun | Bamako, Mali | 1,966 |
+| 15 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 1,955 |
+| 16 | [djounnoureyni](https://github.com/djounnoureyni) | Ousmane Mahamane Maïga | Bamako, Mali | 1,942 |
 | 17 | [Pelpav](https://github.com/Pelpav) | Christian Pavlov Elom Nouboukpo | Bamako | 1,659 |
-| 18 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,588 |
-| 19 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,578 |
-| 20 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,577 |
+| 18 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 1,600 |
+| 19 | [Bah-traore](https://github.com/Bah-traore) | Mr.tanjiro_bah | Mali/Bamako | 1,575 |
+| 20 | [bahamasangare](https://github.com/bahamasangare) | Bahama Sangaré | MALI  | 1,575 |
 
 ## Public Contributions
 
@@ -49,8 +49,8 @@ Indexed users: 348
 | 10 | [skypper109](https://github.com/skypper109) | SKYPPER | Mali | 331 |
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | Bamako - MALI | 305 |
 | 12 | [tijjanismk](https://github.com/tijjanismk) |  | Mali | 303 |
-| 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
-| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 243 |
+| 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 274 |
+| 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Mali | 229 |
 | 16 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama | Bamako, Mali | 191 |
 | 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Mali | 181 |
@@ -71,7 +71,7 @@ Indexed users: 348
 | 7 | [iamdanajr](https://github.com/iamdanajr) | Dana JR✨ | Mali | 48 |
 | 8 | [Abdoul03](https://github.com/Abdoul03) | Abdoul Ibrahima Samaké | Bamako | 46 |
 | 9 | [sudoping01](https://github.com/sudoping01) | sed | Bamako | 43 |
-| 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 37 |
+| 10 | [THIOYE97](https://github.com/THIOYE97) | THIOYE MARIKO | Bamako , Mali 🇲🇱  | 38 |
 | 11 | [diarisdiakite](https://github.com/diarisdiakite) | Diariatou Diakite | Bamako - Mali | 35 |
 | 12 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Bamako, Mali | 34 |
 | 13 | [Abdoulayadiallo](https://github.com/Abdoulayadiallo) | Abdoulaye Diallo | BAMAKO | 33 |
@@ -83,4 +83,4 @@ Indexed users: 348
 | 19 | [AlyKonte](https://github.com/AlyKonte) |  | Mali/Bamako | 27 |
 | 20 | [Dioman-Keita](https://github.com/Dioman-Keita) | Dioman Keïta | Bamako/Mali | 26 |
 
-Generated: 2026-10-13T03:40:12.705Z
+Generated: 2026-10-13T05:06:54.819Z

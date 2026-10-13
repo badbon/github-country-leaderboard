@@ -1,6 +1,6 @@
 # Public Contributions - Mongolia
 
-Generated: 2026-10-13T03:44:40.396Z
+Generated: 2026-10-13T05:12:25.671Z
 
 Users: 805
 
@@ -19,10 +19,10 @@ Users: 805
 | 11 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene |  |  | Ulaanbaatar, Mongolia | 598 |
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj |  |  | mongolia | 543 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | @Fleetbase |  | Mongolia | 542 |
-| 14 | [tulubyev](https://github.com/tulubyev) | Alexander Tulubyev | Innovative Intellectual Systems |  | Ulan-Bator, Mongolia | 536 |
-| 15 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Duke Kunshan University |  | Ulaanbaatar, Mongolia | 535 |
-| 16 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 529 |
-| 17 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 492 |
-| 18 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 484 |
-| 19 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
-| 20 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 483 |
+| 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Duke Kunshan University |  | Ulaanbaatar, Mongolia | 535 |
+| 15 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | erxes | Amaraa2404 | Ulaanbaatar, Mongolia | 529 |
+| 16 | [zolbooo](https://github.com/zolbooo) | Oleg | @coretech-asia |  | Ulaanbaatar, Mongolia | 492 |
+| 17 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Numad Labs | Dolgoonnn1 | Ulaanbaatar, Mongolia | 484 |
+| 18 | [Namuun0521](https://github.com/Namuun0521) | Namuun |  |  | Ulaanbaatar, Mongolia | 484 |
+| 19 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | @erxes  |  | mongolia | 483 |
+| 20 | [Zombie-01](https://github.com/Zombie-01) | adiyadorj badamsereejid |  |  | mongolia | 478 |

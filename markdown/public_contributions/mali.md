@@ -1,6 +1,6 @@
 # Public Contributions - Mali
 
-Generated: 2026-10-13T03:40:12.705Z
+Generated: 2026-10-13T05:06:54.819Z
 
 Users: 348
 
@@ -18,8 +18,8 @@ Users: 348
 | 10 | [skypper109](https://github.com/skypper109) | SKYPPER | AMD tech |  | Mali | 331 |
 | 11 | [malladev](https://github.com/malladev) | Mohamed Lamine KONE | @simplonsolutionssenegal | malladev223 | Bamako - MALI | 305 |
 | 12 | [tijjanismk](https://github.com/tijjanismk) |  |  |  | Mali | 303 |
-| 13 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
-| 14 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 243 |
+| 13 | [Dayifour](https://github.com/Dayifour) | Sékou Dayifourou KEITA | Orange ML | Dayifour | Bamako, Mali | 274 |
+| 14 | [SekouSallah](https://github.com/SekouSallah) | Sékou Sow | @loga-engineering |  | Bamako, Mali | 250 |
 | 15 | [kontere-tienou](https://github.com/kontere-tienou) | Kontere TIENOU | Falcon Digital Hub |  | Mali | 229 |
 | 16 | [mandjou-dama](https://github.com/mandjou-dama) | Mandjou Dama |  | Mandjou_JS | Bamako, Mali | 191 |
 | 17 | [mohdiop](https://github.com/mohdiop) | Mohamed Diop | Irrex Consulting |  | Mali | 181 |

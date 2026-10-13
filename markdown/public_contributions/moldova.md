@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-13T03:42:32.268Z
+Generated: 2026-10-13T05:11:39.082Z
 
 Users: 1753
 
@@ -11,9 +11,9 @@ Users: 1753
 | 3 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3063 |
 | 4 | [texpert](https://github.com/texpert) | Aurel Branzeanu | PC-Link | tvorogoff | Chisinau, Moldova | 2530 |
 | 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2388 |
-| 6 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2029 |
-| 7 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2021 |
-| 8 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 1808 |
+| 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2263 |
+| 7 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2029 |
+| 8 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2021 |
 | 9 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | TTG.club |  | Moldova | 1764 |
 | 10 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr |  |  | Moldova | 1708 |
 | 11 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 1693 |

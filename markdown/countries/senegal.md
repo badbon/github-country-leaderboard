@@ -54,8 +54,8 @@ Indexed users: 1,357
 | 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | Dakar,Senegal | 1,160 |
 | 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Dakar | 1,143 |
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
-| 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
-| 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,021 |
+| 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,031 |
+| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
 | 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 927 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-13T04:06:18.041Z
+Generated: 2026-10-13T05:26:02.584Z

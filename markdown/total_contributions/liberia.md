@@ -1,20 +1,20 @@
 # Total Contributions - Liberia
 
-Generated: 2026-10-13T03:35:45.298Z
+Generated: 2026-10-13T05:03:20.688Z
 
 Users: 209
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | FrApps |  | Liberia | 7725 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5268 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  |  | rademejs | Liberia  | 5300 |
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | CYGEC IT SOLUTIONS |  | Liberia | 3338 |
 | 4 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Cable Consortium of Liberia |  | Monrovia, Liberia | 2951 |
 | 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah |  |  | Liberia,Monrovia | 2100 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Tech Rockstars |  | Monrovia, CA | 1516 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe |  |  | Liberia, West Africa | 1436 |
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P |  |  | Monrovia | 1380 |
-| 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 1161 |
+| 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | @Kwagei | tangaye_siafa | Paynesville, Liberia | 1209 |
 | 10 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera |  |  | Liberia | 1142 |
 | 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. |  | mdsomah | Monrovia, Liberia | 1123 |
 | 12 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 866 |

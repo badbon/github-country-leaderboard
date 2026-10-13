@@ -1,6 +1,6 @@
 # Total Contributions - Republic of the Congo
 
-Generated: 2026-10-13T04:02:03.930Z
+Generated: 2026-10-13T05:21:48.043Z
 
 Users: 299
 
@@ -19,10 +19,10 @@ Users: 299
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS |  |  | Brazzaville CG | 2826 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Globoris Technologies | KitogaElisee | Kigali, Rwanda \| Congo, Kinshasa | 2424 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | cesoentreprise | CesarLouzala | Congo | 2297 |
-| 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2205 |
-| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 2148 |
+| 14 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka |  | josuebrunel | Pointe-Noire (Congo) | 2216 |
+| 15 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah |  |  | Congo Brazzaville  | 2205 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev |  |  | Brazzaville | 1944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga |  |  | Brazzaville, Congo | 1901 |
-| 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 1471 |
+| 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | FunctionalStack | rajivhost | Brazzaville, Congo | 1478 |
 | 19 | [DevProsper](https://github.com/DevProsper) |  | ASNEC-IT |  | Brazzaville, Congo | 1333 |
 | 20 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Fite_Congo |  | Congo, brazzaville | 1320 |

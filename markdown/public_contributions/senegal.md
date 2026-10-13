@@ -1,6 +1,6 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-13T04:06:18.041Z
+Generated: 2026-10-13T05:26:02.584Z
 
 Users: 1357
 
@@ -23,6 +23,6 @@ Users: 1357
 | 15 | [SeydinaBANE](https://github.com/SeydinaBANE) | Seydina Mouhamet BANE | OptimaIA |  | Dakar,Senegal | 1160 |
 | 16 | [supermalang](https://github.com/supermalang) | Elhadji Malang | Digital Project Manager at Laiterie Du Berger | supermalang_ | Dakar | 1143 |
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1066 |
-| 18 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1022 |
-| 19 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1021 |
+| 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1031 |
+| 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1022 |
 | 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |

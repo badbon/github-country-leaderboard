@@ -12,10 +12,10 @@ Indexed users: 476
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 10,189 |
+| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 10,190 |
 | 2 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,782 |
 | 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | Namibia | 6,626 |
-| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,424 |
+| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 6,503 |
 | 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 6,252 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach | Namibia | 6,062 |
 | 7 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele | Windhoek, Namibia | 6,010 |
@@ -39,8 +39,8 @@ Indexed users: 476
 |---:|---|---|---|---:|
 | 1 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | swakopmund, Namibia | 8,782 |
 | 2 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | Namibia | 3,248 |
-| 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 2,239 |
-| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,903 |
+| 3 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Namibia | 2,240 |
+| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan | Walvis Bay, Namibia | 1,905 |
 | 5 | [evertvorster](https://github.com/evertvorster) | Evert Vorster | Walvis Bay, Namibia | 1,536 |
 | 6 | [CodeGrogu](https://github.com/CodeGrogu) | Jaden Awaseb | Namibia | 1,249 |
 | 7 | [gijzelaerr](https://github.com/gijzelaerr) | Gijs Molenaar | Amsterdam - Windhoek | 1,191 |
@@ -83,4 +83,4 @@ Indexed users: 476
 | 19 | [Hilya02](https://github.com/Hilya02) | Hilya Ntinda Tuyakula | Windhoek, Namibia | 36 |
 | 20 | [erassynathingo](https://github.com/erassynathingo) | Erastus Nathingo | Windhoek | 33 |
 
-Generated: 2026-10-13T03:48:28.511Z
+Generated: 2026-10-13T05:14:59.121Z

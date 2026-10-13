@@ -1,6 +1,6 @@
 # Public Contributions - Réunion
 
-Generated: 2026-10-13T04:02:07.518Z
+Generated: 2026-10-13T05:22:24.771Z
 
 Users: 212
 
@@ -11,7 +11,7 @@ Users: 212
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 1139 |
 | 4 | [ChaffyLace](https://github.com/ChaffyLace) |  |  |  | Saint Denis | 1100 |
 | 5 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 869 |
-| 6 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 716 |
+| 6 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 713 |
 | 7 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 701 |
 | 8 | [Karl97490](https://github.com/Karl97490) | Karl Pery-Potonie |  |  | Réunion | 485 |
 | 9 | [John361](https://github.com/John361) | John |  |  | Réunion | 343 |
@@ -19,10 +19,10 @@ Users: 212
 | 11 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 308 |
 | 12 | [DeiTsukiii](https://github.com/DeiTsukiii) | DeiTsuki | DeiTsuki corp |  | Reunion Island | 289 |
 | 13 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 288 |
-| 14 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
-| 15 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
-| 16 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
-| 17 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 238 |
+| 14 | [alexreu](https://github.com/alexreu) | Alexandre ADOLPHE |  |  | Reunion island | 287 |
+| 15 | [bourgault314](https://github.com/bourgault314) | Gwenaël Bourgault |  |  | Réunion island  | 280 |
+| 16 | [dancodeur](https://github.com/dancodeur) | Dan Elenga |  |  |  93210, Saint-Denis | 276 |
+| 17 | [jnativel](https://github.com/jnativel) | Jimmy NATIVEL |  |  | Reunion Island | 267 |
 | 18 | [thibautfontaine](https://github.com/thibautfontaine) | Ti_punch |  |  | Reunion Island | 220 |
 | 19 | [RandomZeleff](https://github.com/RandomZeleff) | Zeleff_ | Nartya | zeleff_ii | Reunion Island | 206 |
 | 20 | [aurelien-loyer](https://github.com/aurelien-loyer) | LOYER Aurélien | EPITECH |  | Reunion Island | 185 |

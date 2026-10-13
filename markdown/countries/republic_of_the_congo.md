@@ -25,11 +25,11 @@ Indexed users: 299
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,826 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,424 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,297 |
-| 14 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,205 |
-| 15 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,148 |
+| 14 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,216 |
+| 15 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,205 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,901 |
-| 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,471 |
+| 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,478 |
 | 19 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,333 |
 | 20 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,320 |
 
@@ -39,7 +39,7 @@ Indexed users: 299
 |---:|---|---|---|---:|
 | 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 2 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,901 |
-| 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,120 |
+| 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,163 |
 | 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,054 |
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 725 |
 | 6 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 518 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-13T04:02:03.930Z
+Generated: 2026-10-13T05:21:48.043Z

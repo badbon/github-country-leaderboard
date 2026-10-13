@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-13T03:49:04.920Z
+Generated: 2026-10-13T05:16:11.599Z
 
 Users: 1394
 
@@ -13,8 +13,8 @@ Users: 1394
 | 5 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina |  |  | Nicaragua | 1371 |
 | 6 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 1315 |
 | 7 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez |  |  | Managua, Nicaragua | 1249 |
-| 8 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Universidad Americana |  | Managua, Nicaragua | 1217 |
-| 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone |  |  | Nicaragua | 1215 |
+| 8 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone |  |  | Nicaragua | 1215 |
+| 9 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Universidad Americana |  | Managua, Nicaragua | 1172 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Mao Agency |  | Nicaragua | 1153 |
 | 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1093 |
 | 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1087 |

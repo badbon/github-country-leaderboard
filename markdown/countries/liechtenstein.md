@@ -23,7 +23,7 @@ Indexed users: 113
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,149 |
 | 10 | [masteradhoc](https://github.com/masteradhoc) | Brian | Liechtenstein | 737 |
 | 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger | Liechtenstein | 719 |
-| 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 472 |
+| 12 | [d0dge-dev](https://github.com/d0dge-dev) | David | Liechtenstein | 473 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle | Liechtenstein | 463 |
 | 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | Liechtenstein | 332 |
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-13T03:36:53.425Z
+Generated: 2026-10-13T05:03:28.627Z

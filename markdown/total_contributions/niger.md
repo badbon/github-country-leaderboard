@@ -1,12 +1,12 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-13T03:50:08.171Z
+Generated: 2026-10-13T05:16:15.888Z
 
 Users: 176
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 9954 |
+| 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 10101 |
 | 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil |  | jamilbachard | Niger | 3356 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 3003 |
 | 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | SAADAW SYSTEMS |  | Niamey, Niger | 2156 |

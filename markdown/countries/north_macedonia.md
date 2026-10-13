@@ -43,8 +43,8 @@ Indexed users: 1,929
 | 4 | [tino097](https://github.com/tino097) | Konstantin Sivakov | Bitola, North Macedonia | 1,702 |
 | 5 | [oliverlaz](https://github.com/oliverlaz) | Oliver Lazoroski | Skopje, Macedonia | 1,348 |
 | 6 | [andrejsshell](https://github.com/andrejsshell) | Andrej | Skopje | 1,147 |
-| 7 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | Skopje, Republic of Macedonia | 1,089 |
-| 8 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | Skopje, Macedonia | 1,086 |
+| 7 | [ivasilov](https://github.com/ivasilov) | Ivan Vasilov | Skopje, Macedonia | 1,086 |
+| 8 | [VelikovPetar](https://github.com/VelikovPetar) | Petar Velikov | Skopje, Republic of Macedonia | 1,076 |
 | 9 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | Bitola, North Macedonia | 1,048 |
 | 10 | [martintrifunov](https://github.com/martintrifunov) | Martin Trifunov | Skopje, North Macedonia | 1,008 |
 | 11 | [isekovanic](https://github.com/isekovanic) | Ivan Sekovanikj | Skopje, Macedonia | 1,006 |
@@ -83,4 +83,4 @@ Indexed users: 1,929
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-13T03:51:26.001Z
+Generated: 2026-10-13T05:17:38.264Z

@@ -1,15 +1,15 @@
 # Total Contributions - Namibia
 
-Generated: 2026-10-13T03:48:28.511Z
+Generated: 2026-10-13T05:14:59.121Z
 
 Users: 476
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 10189 |
+| 1 | [lemuelvdm](https://github.com/lemuelvdm) | Lemuel | Vast Development Method @vdm-io |  | Namibia | 10190 |
 | 2 | [dikuwa](https://github.com/dikuwa) | Martin Mukoya | martinmukoya.com |  | swakopmund, Namibia | 8782 |
 | 3 | [Jason-Mendes](https://github.com/Jason-Mendes) | Jason-Mendes | @Etomart @NZZ @Daaily @DezCorp |  | Namibia | 6626 |
-| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6424 |
+| 4 | [DeclanRiedel](https://github.com/DeclanRiedel) | Declan |  |  | Walvis Bay, Namibia | 6503 |
 | 5 | [UnitBuilds](https://github.com/UnitBuilds) | UnitBuilds | UnitBuilds CC |  | Namibia | 6252 |
 | 6 | [rvs1257](https://github.com/rvs1257) | Rudi Steinbach |  |  | Namibia | 6062 |
 | 7 | [asenmwa](https://github.com/asenmwa) | Asen Mwandemele |  | asenmwa | Windhoek, Namibia | 6010 |

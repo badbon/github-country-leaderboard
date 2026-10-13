@@ -1,6 +1,6 @@
 # Followers - Panama
 
-Generated: 2026-10-13T03:55:58.015Z
+Generated: 2026-10-13T05:18:54.744Z
 
 Users: 1070
 
@@ -23,6 +23,6 @@ Users: 1070
 | 15 | [joseabraham](https://github.com/joseabraham) | Jose Abraham Garcia | Eprezto.com |  | Panama | 56 |
 | 16 | [alexishevia](https://github.com/alexishevia) | Alexis Hevia |  |  | Panama City, Panama | 54 |
 | 17 | [hoolymama](https://github.com/hoolymama) | Julian Mann |  |  | Panama | 51 |
-| 18 | [Commandtechno](https://github.com/Commandtechno) | Techno |  |  | David, Panama | 49 |
-| 19 | [dsfaccini](https://github.com/dsfaccini) | David SF | alecs | dasfacc | Panama City | 47 |
+| 18 | [dsfaccini](https://github.com/dsfaccini) | David SF | alecs | dasfacc | Panama City | 50 |
+| 19 | [Commandtechno](https://github.com/Commandtechno) | Techno |  |  | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos |  |  | Panama | 47 |

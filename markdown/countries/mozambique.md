@@ -13,7 +13,7 @@ Indexed users: 1,176
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 9,733 |
-| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,627 |
+| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 6,567 |
 | 3 | [playboybillionaire-prod](https://github.com/playboybillionaire-prod) | Mário jambo | Mozambique | 6,013 |
 | 4 | [reizen-desu](https://github.com/reizen-desu) | Reizen dos Santos | Maputo, Mozambique | 5,892 |
 | 5 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
@@ -38,7 +38,7 @@ Indexed users: 1,176
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [afonsoDomingos](https://github.com/afonsoDomingos) | Afonso Domingos (Vibe) | Mozambique-Maputo | 5,635 |
-| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,850 |
+| 2 | [Uanela](https://github.com/Uanela) | Uanela Como | Beira, Sofala, Mozambique | 3,812 |
 | 3 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Maputo, Mozambique | 2,545 |
 | 4 | [hc12r](https://github.com/hc12r) | Pitch dev | Maputo, Mozambique | 2,226 |
 | 5 | [mabuie-test](https://github.com/mabuie-test) | Jorge Augusto Mabuie | Mozambique | 1,546 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-13T03:45:32.799Z
+Generated: 2026-10-13T05:14:18.807Z

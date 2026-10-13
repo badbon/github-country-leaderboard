@@ -1,12 +1,12 @@
 # Followers - Montserrat
 
-Generated: 2026-10-13T03:44:51.905Z
+Generated: 2026-10-13T05:13:34.021Z
 
 Users: 291
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [wbond](https://github.com/wbond) | Will Bond | @uber | wbond | Plymouth, NH | 2315 |
+| 1 | [wbond](https://github.com/wbond) | Will Bond | @uber | wbond | Plymouth, NH | 2314 |
 | 2 | [aldeed](https://github.com/aldeed) | Eric Dobbertin | @DairyStateDesigns @longshotlabs @qawolf  |  | Plymouth, WI | 672 |
 | 3 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | VulnCheck |  | Plymouth, MI | 69 |
 | 4 | [carlism](https://github.com/carlism) | Carl Leiby |  | carlism | Plymouth Meeting, PA | 65 |

@@ -62,7 +62,7 @@ Indexed users: 291
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [wbond](https://github.com/wbond) | Will Bond | Plymouth, NH | 2,315 |
+| 1 | [wbond](https://github.com/wbond) | Will Bond | Plymouth, NH | 2,314 |
 | 2 | [aldeed](https://github.com/aldeed) | Eric Dobbertin | Plymouth, WI | 672 |
 | 3 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 69 |
 | 4 | [carlism](https://github.com/carlism) | Carl Leiby | Plymouth Meeting, PA | 65 |
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-13T03:44:51.905Z
+Generated: 2026-10-13T05:13:34.021Z

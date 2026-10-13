@@ -44,8 +44,8 @@ Indexed users: 1,394
 | 5 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 1,371 |
 | 6 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
 | 7 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez | Managua, Nicaragua | 1,249 |
-| 8 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,217 |
-| 9 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,215 |
+| 8 | [ErvingMiranda](https://github.com/ErvingMiranda) | Ezone | Nicaragua | 1,215 |
+| 9 | [jp-zuniga](https://github.com/jp-zuniga) | Joaquín Zúñiga | Managua, Nicaragua | 1,172 |
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,153 |
 | 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,093 |
 | 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,087 |
@@ -69,8 +69,8 @@ Indexed users: 1,394
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 146 |
 | 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 144 |
 | 7 | [narencastellon](https://github.com/narencastellon) | Naren Castellon | Nicaragua | 121 |
-| 8 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 115 |
-| 9 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
+| 8 | [hosmelq](https://github.com/hosmelq) | Hosmel Quintana | Managua, Nic | 114 |
+| 9 | [linuxmel27](https://github.com/linuxmel27) | Melvin Pineda | Leon, Nicaragua | 114 |
 | 10 | [Ualb](https://github.com/Ualb) | Ulises López | Managua. Nic | 101 |
 | 11 | [soyjimmysaenz](https://github.com/soyjimmysaenz) | Jimmy Sáenz Rizo | Managua, Nicaragua | 92 |
 | 12 | [rcrodriguez89](https://github.com/rcrodriguez89) | Roberto Rodríguez | Managua, Nicaragua | 82 |
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-13T03:49:04.920Z
+Generated: 2026-10-13T05:16:11.599Z

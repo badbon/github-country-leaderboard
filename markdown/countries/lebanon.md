@@ -1,6 +1,6 @@
 # Lebanon
 
-Indexed users: 2,570
+Indexed users: 2,569
 
 | Leaderboard | Link |
 |---|---|
@@ -25,10 +25,10 @@ Indexed users: 2,570
 | 11 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
 | 12 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
 | 13 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
-| 14 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 6,225 |
-| 15 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
-| 16 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
-| 17 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
+| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
+| 15 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
+| 16 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
+| 17 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 5,577 |
 | 18 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
 | 19 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,352 |
 | 20 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
@@ -83,4 +83,4 @@ Indexed users: 2,570
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-13T03:35:40.494Z
+Generated: 2026-10-13T05:03:14.338Z

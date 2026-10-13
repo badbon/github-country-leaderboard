@@ -1,28 +1,28 @@
 # Total Contributions - Myanmar
 
-Generated: 2026-10-13T03:46:57.438Z
+Generated: 2026-10-13T05:14:56.205Z
 
-Users: 2068
+Users: 2067
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [YellMinNaing-micro](https://github.com/YellMinNaing-micro) | Yell Min Naing | @Efficient-Soft |  | Yangon, Myanmar | 10244 |
-| 2 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 7128 |
-| 3 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6627 |
-| 4 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5531 |
-| 5 | [thitlwincoder](https://github.com/thitlwincoder) | Thit Lwin | Remote |  | Yangon, Myanmar(Burma) | 5527 |
-| 6 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | @Efficient-Soft |  | Yangon, Myanmar | 5157 |
-| 7 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM |  |  | Yangon, Myanmar | 4827 |
-| 8 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 4750 |
-| 9 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | - | kyawkoko232 | Yangon, Myanmar(Burma) | 4580 |
-| 10 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Message Spring | yanminthwin | Yangon, Myanmar (Burma) | 4053 |
-| 11 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3913 |
-| 12 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3857 |
-| 13 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3664 |
-| 14 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung |  |  | Yangon, Myanmar | 3646 |
-| 15 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 3492 |
-| 16 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
-| 17 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
-| 18 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3106 |
-| 19 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3085 |
-| 20 | [sannlynnhtun-coding](https://github.com/sannlynnhtun-coding) | Sann Lynn Htun | ACE Data Systems | burma_collin | Yangon, Myanmar | 3030 |
+| 2 | [peterlianpi](https://github.com/peterlianpi) | Peter |  | peterlianpi | Myanmar | 8676 |
+| 3 | [MoeThetKhine](https://github.com/MoeThetKhine) | Moe Thet Khine |  |  | Yangon,Myanmar | 7128 |
+| 4 | [nyeinkokoaung404](https://github.com/nyeinkokoaung404) | i AM 404 |  |  | Myanmar | 6627 |
+| 5 | [gon-khaung](https://github.com/gon-khaung) | GK |  |  | Yangon, Myanmar | 5531 |
+| 6 | [thitlwincoder](https://github.com/thitlwincoder) | Thit Lwin | Remote |  | Yangon, Myanmar(Burma) | 5527 |
+| 7 | [aungaung99](https://github.com/aungaung99) | Aung Naing Oo | @Efficient-Soft |  | Yangon, Myanmar | 5157 |
+| 8 | [kwarnkham](https://github.com/kwarnkham) | SAI KWRN KHAM |  |  | Yangon, Myanmar | 4827 |
+| 9 | [kokim2022](https://github.com/kokim2022) | hwaung | Klink Myanmar, Oakhouse Technology |  | Yangon, Myanmar | 4750 |
+| 10 | [kyawkoko232](https://github.com/kyawkoko232) | Kyaw Ko Ko | - | kyawkoko232 | Yangon, Myanmar(Burma) | 4580 |
+| 11 | [why-a-en](https://github.com/why-a-en) | Yan Min Thwin | Message Spring | yanminthwin | Yangon, Myanmar (Burma) | 4053 |
+| 12 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 3913 |
+| 13 | [myatminag](https://github.com/myatminag) | Myat Min Aung | AYA Bank (Innovation Labs) |  | Yangon, Myanmar | 3857 |
+| 14 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 3664 |
+| 15 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung |  |  | Yangon, Myanmar | 3646 |
+| 16 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet |  |  | Myanmar | 3492 |
+| 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  |  |  | Taunggyi, Myanmar | 3409 |
+| 18 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar Golden Rock International |  | Myanmar/ Singapore | 3322 |
+| 19 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) |  | htetaunglin_cdr | Myanmar, Yangon | 3106 |
+| 20 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | IdeaCode Academy |  | Myanmar | 3085 |

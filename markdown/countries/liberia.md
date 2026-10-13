@@ -13,14 +13,14 @@ Indexed users: 209
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,725 |
-| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,268 |
+| 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,300 |
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,338 |
 | 4 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,951 |
 | 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,100 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,436 |
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,380 |
-| 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,161 |
+| 9 | [tangaye](https://github.com/tangaye) | Nathan Tangaye Siafa | Paynesville, Liberia | 1,209 |
 | 10 | [Carlostala04](https://github.com/Carlostala04) | Carlos Talavera | Liberia | 1,142 |
 | 11 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,123 |
 | 12 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 866 |
@@ -51,7 +51,7 @@ Indexed users: 209
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
 | 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 198 |
 | 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 179 |
-| 15 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 172 |
+| 15 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 171 |
 | 16 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 157 |
 | 17 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | Rwanda, Liberia. | 144 |
 | 18 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay | Paynesville City, Monrovia Liberia | 139 |
@@ -83,4 +83,4 @@ Indexed users: 209
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-13T03:35:45.298Z
+Generated: 2026-10-13T05:03:20.688Z
