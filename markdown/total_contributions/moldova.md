@@ -1,6 +1,6 @@
 # Total Contributions - Moldova
 
-Generated: 2026-10-13T05:11:39.082Z
+Generated: 2026-10-13T15:48:12.444Z
 
 Users: 1753
 
@@ -21,8 +21,8 @@ Users: 1753
 | 13 | [artickc](https://github.com/artickc) | NOXX - Commiter | iTSolution |  | Moldova, Chisinau | 5071 |
 | 14 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov |  |  | Chisinau, Moldova | 5046 |
 | 15 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Eventino |  | Chișinău, Moldova | 4973 |
-| 16 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
-| 17 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
-| 18 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 4756 |
-| 19 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | @labs42io | rvmdl | Chișinău | 4720 |
-| 20 | [xyrolle](https://github.com/xyrolle) | Serghei |  |  | Moldova | 4461 |
+| 16 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov |  |  | Moldova | 4859 |
+| 17 | [sebsti5](https://github.com/sebsti5) | Sebastian | @Tafi-Solutions |  | Moldova 🇲🇩 | 4802 |
+| 18 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | @Tafi-Solutions  |  | Moldova | 4782 |
+| 19 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Complexica  |  | Chisinau, Moldova | 4756 |
+| 20 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | @labs42io | rvmdl | Chișinău | 4720 |

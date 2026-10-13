@@ -1,6 +1,6 @@
 # Norfolk Island
 
-Indexed users: 2
+Indexed users: 1
 
 | Leaderboard | Link |
 |---|---|
@@ -12,21 +12,18 @@ Indexed users: 2
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mark-ssd](https://github.com/mark-ssd) | Mark SSD | Norfolk Island | 1,827 |
-| 2 | [ENIGMA2O5](https://github.com/ENIGMA2O5) | ENGIMA205 | norfolk island | 0 |
+| 1 | [mark-ssd](https://github.com/mark-ssd) | Mark SSD | Norfolk Island | 1,828 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [mark-ssd](https://github.com/mark-ssd) | Mark SSD | Norfolk Island | 1,014 |
-| 2 | [ENIGMA2O5](https://github.com/ENIGMA2O5) | ENGIMA205 | norfolk island | 0 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [mark-ssd](https://github.com/mark-ssd) | Mark SSD | Norfolk Island | 5 |
-| 2 | [ENIGMA2O5](https://github.com/ENIGMA2O5) | ENGIMA205 | norfolk island | 2 |
 
-Generated: 2026-10-13T05:16:23.845Z
+Generated: 2026-10-13T15:53:46.711Z

@@ -42,7 +42,7 @@ Indexed users: 443
 | 3 | [saidubundukamara](https://github.com/saidubundukamara) | Saidu | Sierra Leone | 1,296 |
 | 4 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 1,019 |
 | 5 | [ElktrumElk](https://github.com/ElktrumElk) | Elktrum Elk | Regent, Freetown, Sierra Leone. | 986 |
-| 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Sierra Leone | 938 |
+| 6 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Sierra Leone | 929 |
 | 7 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 830 |
 | 8 | [adewoleeugene](https://github.com/adewoleeugene) | Jinjon | Freetown,Sierra Leone | 788 |
 | 9 | [fatormajohn64-bit](https://github.com/fatormajohn64-bit) | Johnny-Tech  | Freetown Sierra Leone  | 769 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-13T05:27:21.228Z
+Generated: 2026-10-13T16:06:30.954Z

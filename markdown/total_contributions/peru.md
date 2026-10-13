@@ -1,8 +1,8 @@
 # Total Contributions - Peru
 
-Generated: 2026-10-13T05:19:38.939Z
+Generated: 2026-10-13T15:59:05.752Z
 
-Users: 9784
+Users: 9783
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,13 +10,13 @@ Users: 9784
 | 2 | [A-PachecoT](https://github.com/A-PachecoT) | André Pacheco | Cofoundy |  | Lima, Peru | 14996 |
 | 3 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | SAP | wrujel | Lima, Peru | 14791 |
 | 4 | [0wex](https://github.com/0wex) | Owen Atamari |  |  | Peru | 12372 |
-| 5 | [CryptologySAC](https://github.com/CryptologySAC) | Cryptology | Cryptology SAC | __mocks__ | Lima, Peru | 10105 |
-| 6 | [rosmelortizpimentel](https://github.com/rosmelortizpimentel) | Rosmel Ortiz |  |  | Lima | 9910 |
-| 7 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 8945 |
-| 8 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo |  | marcelo_earth | Peru | 8912 |
-| 9 | [ubinatus](https://github.com/ubinatus) | JA Castro | @Sophiie-AI | ubinatus | Lima, Peru | 8825 |
-| 10 | [jayvidev](https://github.com/jayvidev) | Jason Vila |  |  | Lima, Perú | 8702 |
-| 11 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira |  |  | Lima Duarte - MG | 8590 |
+| 5 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira |  |  | Lima Duarte - MG | 11935 |
+| 6 | [CryptologySAC](https://github.com/CryptologySAC) | Cryptology | Cryptology SAC | __mocks__ | Lima, Peru | 10105 |
+| 7 | [rosmelortizpimentel](https://github.com/rosmelortizpimentel) | Rosmel Ortiz |  |  | Lima | 9910 |
+| 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | BeyondNet | beyondnet | Lima, Perú | 8945 |
+| 9 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo |  | marcelo_earth | Peru | 8912 |
+| 10 | [ubinatus](https://github.com/ubinatus) | JA Castro | @Sophiie-AI | ubinatus | Lima, Peru | 8825 |
+| 11 | [jayvidev](https://github.com/jayvidev) | Jason Vila |  |  | Lima, Perú | 8702 |
 | 12 | [cesars](https://github.com/cesars) | César Soplín Sánchez | indexante |  | Lima, Perú | 8531 |
 | 13 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña |  | diegojohnsonlud | Peru | 7995 |
 | 14 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla |  | jorgedlcpdev | Lima, Peru | 7963 |

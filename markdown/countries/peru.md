@@ -1,6 +1,6 @@
 # Peru
 
-Indexed users: 9,784
+Indexed users: 9,783
 
 | Leaderboard | Link |
 |---|---|
@@ -16,13 +16,13 @@ Indexed users: 9,784
 | 2 | [A-PachecoT](https://github.com/A-PachecoT) | André Pacheco | Lima, Peru | 14,996 |
 | 3 | [wrujel](https://github.com/wrujel) | Wilfredo Rujel | Lima, Peru | 14,791 |
 | 4 | [0wex](https://github.com/0wex) | Owen Atamari | Peru | 12,372 |
-| 5 | [CryptologySAC](https://github.com/CryptologySAC) | Cryptology | Lima, Peru | 10,105 |
-| 6 | [rosmelortizpimentel](https://github.com/rosmelortizpimentel) | Rosmel Ortiz | Lima | 9,910 |
-| 7 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 8,945 |
-| 8 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo | Peru | 8,912 |
-| 9 | [ubinatus](https://github.com/ubinatus) | JA Castro | Lima, Peru | 8,825 |
-| 10 | [jayvidev](https://github.com/jayvidev) | Jason Vila | Lima, Perú | 8,702 |
-| 11 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira | Lima Duarte - MG | 8,590 |
+| 5 | [ayranoliveira1](https://github.com/ayranoliveira1) | Ayran Oliveira | Lima Duarte - MG | 11,935 |
+| 6 | [CryptologySAC](https://github.com/CryptologySAC) | Cryptology | Lima, Peru | 10,105 |
+| 7 | [rosmelortizpimentel](https://github.com/rosmelortizpimentel) | Rosmel Ortiz | Lima | 9,910 |
+| 8 | [beyondnetPeru](https://github.com/beyondnetPeru) | Alberto Arroyo Raygada | Lima, Perú | 8,945 |
+| 9 | [marcelo-earth](https://github.com/marcelo-earth) | Marcelo | Peru | 8,912 |
+| 10 | [ubinatus](https://github.com/ubinatus) | JA Castro | Lima, Peru | 8,825 |
+| 11 | [jayvidev](https://github.com/jayvidev) | Jason Vila | Lima, Perú | 8,702 |
 | 12 | [cesars](https://github.com/cesars) | César Soplín Sánchez | Lima, Perú | 8,531 |
 | 13 | [DiegoJohnsonL](https://github.com/DiegoJohnsonL) | Diego Johnson Ludeña | Peru | 7,995 |
 | 14 | [jorgedelacruz07](https://github.com/jorgedelacruz07) | Jorge de la Cruz Padilla | Lima, Peru | 7,963 |
@@ -83,4 +83,4 @@ Indexed users: 9,784
 | 19 | [Franklin369](https://github.com/Franklin369) | codigo369.com | Peru | 445 |
 | 20 | [carlosal1015](https://github.com/carlosal1015) | Oromion | Lima, Peru | 438 |
 
-Generated: 2026-10-13T05:19:38.939Z
+Generated: 2026-10-13T15:59:05.752Z

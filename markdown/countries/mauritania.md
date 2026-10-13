@@ -15,7 +15,7 @@ Indexed users: 289
 | 1 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 12,042 |
 | 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,409 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 9,999 |
-| 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,395 |
+| 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,398 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,369 |
 | 6 | [mohameden19961](https://github.com/mohameden19961) | abdy mohameden | Nouakchott, Mauritania | 4,094 |
 | 7 | [beillahi](https://github.com/beillahi) | Sidi Mohamed Beillahi | Mauritania | 3,281 |
@@ -41,7 +41,7 @@ Indexed users: 289
 | 2 | [OussamaTeyib](https://github.com/OussamaTeyib) | Oussama Teyib | Nouakchott, Mauritania | 1,219 |
 | 3 | [LhacenMed](https://github.com/LhacenMed) | Lhacen Med | Nouakchott, Mauritania | 868 |
 | 4 | [sidihmety](https://github.com/sidihmety) | SIDI HMETY | Nouakchott | 673 |
-| 5 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 663 |
+| 5 | [visola777](https://github.com/visola777) | visola777 | Mauritania | 661 |
 | 6 | [Th3-attacker](https://github.com/Th3-attacker) | Elhadj Malick Ndiaye | Nouakchott-Mauritanie | 620 |
 | 7 | [AbdellahiAhmed](https://github.com/AbdellahiAhmed) | Abdellahi Ahmed | Nouakchott | 518 |
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | Mauritania  | 403 |
@@ -54,7 +54,7 @@ Indexed users: 289
 | 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 213 |
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 206 |
 | 17 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 202 |
-| 18 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 187 |
+| 18 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 188 |
 | 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 177 |
 | 20 | [medmahmoudhdaya](https://github.com/medmahmoudhdaya) | med mahmoud hdaya | nouakchott mauritania | 174 |
 
@@ -83,4 +83,4 @@ Indexed users: 289
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-13T05:08:44.063Z
+Generated: 2026-10-13T15:46:35.310Z

@@ -40,7 +40,7 @@ Indexed users: 1,394
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno | Managua Nicaragua | 6,984 |
 | 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez | Managua, Nicaragua | 2,077 |
 | 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo | Nicaragua | 2,021 |
-| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,451 |
+| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  | Nicaragua | 1,646 |
 | 5 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina | Nicaragua | 1,371 |
 | 6 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 1,315 |
 | 7 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez | Managua, Nicaragua | 1,249 |
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-13T05:16:11.599Z
+Generated: 2026-10-13T15:52:00.473Z

@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-13T05:16:11.599Z
+Generated: 2026-10-13T15:52:00.473Z
 
 Users: 1394
 
@@ -9,7 +9,7 @@ Users: 1394
 | 1 | [williamjmorenor](https://github.com/williamjmorenor) | William Moreno |  |  | Managua Nicaragua | 6984 |
 | 2 | [Xch4rt](https://github.com/Xch4rt) | Pablo Gutiérrez |  |  | Managua, Nicaragua | 2077 |
 | 3 | [Void-CA](https://github.com/Void-CA) | Ari Castillo |  |  | Nicaragua | 2021 |
-| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  |  |  | Nicaragua | 1451 |
+| 4 | [CharFranR](https://github.com/CharFranR) | Oscar Francisco Reyes Guevara  |  |  | Nicaragua | 1646 |
 | 5 | [oscarMolina1523](https://github.com/oscarMolina1523) | Oscar Danilo Molina |  |  | Nicaragua | 1371 |
 | 6 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 1315 |
 | 7 | [carlosrenatohr](https://github.com/carlosrenatohr) | Carlos Hernandez |  |  | Managua, Nicaragua | 1249 |

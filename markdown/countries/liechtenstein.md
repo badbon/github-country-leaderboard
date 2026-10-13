@@ -14,8 +14,8 @@ Indexed users: 113
 |---:|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos | Liechtenstein | 5,416 |
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,457 |
-| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,193 |
-| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,971 |
+| 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,248 |
+| 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,975 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,617 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,297 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,815 |
@@ -29,7 +29,7 @@ Indexed users: 113
 | 15 | [xGreeny](https://github.com/xGreeny) | Flurin | Liechtenstein | 329 |
 | 16 | [anonymouslyanonymous1](https://github.com/anonymouslyanonymous1) | Anonymously Anonymous | Liechtenstein | 307 |
 | 17 | [anondotli](https://github.com/anondotli) | anon.li | Liechtenstein | 300 |
-| 18 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 267 |
+| 18 | [ColinFL](https://github.com/ColinFL) |  | Liechtenstein | 268 |
 | 19 | [FeeJai](https://github.com/FeeJai) | Felix Jankowski | Liechtenstein | 262 |
 | 20 | [shakespear95](https://github.com/shakespear95) | Shakespear Samu | Liechtenstein | 167 |
 
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-13T05:03:28.627Z
+Generated: 2026-10-13T15:40:35.287Z

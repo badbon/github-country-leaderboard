@@ -12,7 +12,7 @@ Indexed users: 212
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 13,255 |
+| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 13,363 |
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,784 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,435 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,764 |
@@ -63,7 +63,7 @@ Indexed users: 212
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde | Réunion | 159 |
-| 2 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 155 |
+| 2 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 156 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 94 |
 | 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 67 |
 | 5 | [GagnereGeorges](https://github.com/GagnereGeorges) | Georges Gagneré | Saint-Denis | 59 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-13T05:22:24.771Z
+Generated: 2026-10-13T16:01:14.833Z

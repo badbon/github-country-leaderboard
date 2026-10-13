@@ -27,11 +27,11 @@ Indexed users: 1,753
 | 13 | [artickc](https://github.com/artickc) | NOXX - Commiter | Moldova, Chisinau | 5,071 |
 | 14 | [fedotovdev](https://github.com/fedotovdev) | Ivan Fedotov | Chisinau, Moldova | 5,046 |
 | 15 | [httpcatalin](https://github.com/httpcatalin) | Catalin | Chișinău, Moldova | 4,973 |
-| 16 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
-| 17 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
-| 18 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Chisinau, Moldova | 4,756 |
-| 19 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | Chișinău | 4,720 |
-| 20 | [xyrolle](https://github.com/xyrolle) | Serghei | Moldova | 4,461 |
+| 16 | [vfarafonov](https://github.com/vfarafonov) | Vladimir Farafonov | Moldova | 4,859 |
+| 17 | [sebsti5](https://github.com/sebsti5) | Sebastian | Moldova 🇲🇩 | 4,802 |
+| 18 | [Andrei-Ciuperca](https://github.com/Andrei-Ciuperca) | Andrei Ciupercă | Moldova | 4,782 |
+| 19 | [szagoret](https://github.com/szagoret) | Sergiu Zagoret | Chisinau, Moldova | 4,756 |
+| 20 | [rvmoldova](https://github.com/rvmoldova) | Vadim Russu | Chișinău | 4,720 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,753
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest | Chisinau Moldova | 107 |
 
-Generated: 2026-10-13T05:11:39.082Z
+Generated: 2026-10-13T15:48:12.444Z

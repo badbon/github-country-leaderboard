@@ -64,7 +64,7 @@ Published countries: 234
 | Dominican Republic | 3,310 | [View](./dominican_republic.md) |
 | DR Congo | 699 | [View](./dr_congo.md) |
 | Ecuador | 4,898 | [View](./ecuador.md) |
-| Egypt | 34,089 | [View](./egypt.md) |
+| Egypt | 34,093 | [View](./egypt.md) |
 | El Salvador | 2,377 | [View](./el_salvador.md) |
 | Equatorial Guinea | 21 | [View](./equatorial_guinea.md) |
 | Eritrea | 17 | [View](./eritrea.md) |
@@ -152,9 +152,9 @@ Published countries: 234
 | New Zealand | 12,154 | [View](./new_zealand.md) |
 | Nicaragua | 1,394 | [View](./nicaragua.md) |
 | Niger | 176 | [View](./niger.md) |
-| Nigeria | 33,215 | [View](./nigeria.md) |
+| Nigeria | 33,214 | [View](./nigeria.md) |
 | Niue | 4 | [View](./niue.md) |
-| Norfolk Island | 2 | [View](./norfolk_island.md) |
+| Norfolk Island | 1 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
 | North Macedonia | 1,929 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
@@ -166,10 +166,10 @@ Published countries: 234
 | Panama | 1,070 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,016 | [View](./paraguay.md) |
-| Peru | 9,784 | [View](./peru.md) |
+| Peru | 9,783 | [View](./peru.md) |
 | Philippines | 19,791 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,458 | [View](./portugal.md) |
+| Portugal | 28,457 | [View](./portugal.md) |
 | Puerto Rico | 1,537 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,339 | [View](./zambia.md) |
 | Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-13T15:36:25.999Z
+Generated: 2026-10-13T16:08:18.788Z

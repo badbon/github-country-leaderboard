@@ -1,12 +1,12 @@
 # Followers - New Caledonia
 
-Generated: 2026-10-13T05:15:08.765Z
+Generated: 2026-10-13T15:51:53.238Z
 
 Users: 111
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [AkiraLaine](https://github.com/AkiraLaine) | Akira Laine |  |  | Noumea, New Caledonia | 261 |
+| 1 | [AkiraLaine](https://github.com/AkiraLaine) | Akira Laine |  |  | Noumea, New Caledonia | 262 |
 | 2 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 235 |
 | 3 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 77 |
 | 4 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 57 |
