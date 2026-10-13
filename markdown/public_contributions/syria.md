@@ -1,6 +1,6 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-13T02:45:08.487Z
+Generated: 2026-10-13T04:15:00.349Z
 
 Users: 1480
 
@@ -21,8 +21,8 @@ Users: 1480
 | 13 | [YAZAN420](https://github.com/YAZAN420) | YazanMahfooz |  |  | Syria | 1082 |
 | 14 | [DrAbdulmalek](https://github.com/DrAbdulmalek) | Dr Abdulmalek Al-Husseini |  |  | Syria | 1040 |
 | 15 | [AliMohammadDev](https://github.com/AliMohammadDev) | Ali Mohammad |  |  | Syria | 991 |
-| 16 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout |  |  | Syria | 918 |
-| 17 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 744 |
-| 18 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 741 |
-| 19 | [GH-ZX](https://github.com/GH-ZX) | Ahmed GH |  |  | Syria | 734 |
-| 20 | [wissam333](https://github.com/wissam333) | Marco Arkento |  |  | Syria | 689 |
+| 16 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 960 |
+| 17 | [AbdSattout](https://github.com/AbdSattout) | Abd Sattout |  |  | Syria | 918 |
+| 18 | [zaher](https://github.com/zaher) | Zaher Dirkey | Creative Solutions | zaherdirkey | Damascus, Syria | 806 |
+| 19 | [yazan-alsamman](https://github.com/yazan-alsamman) | Yazan-Alsamman | Code Machine |  | Syria | 744 |
+| 20 | [ibrah5em](https://github.com/ibrah5em) | Ibrahem Hasaki |  |  | Syria | 741 |

@@ -1,6 +1,6 @@
 # Followers - Tajikistan
 
-Generated: 2026-10-13T02:45:14.644Z
+Generated: 2026-10-13T04:15:45.594Z
 
 Users: 711
 
@@ -8,7 +8,7 @@ Users: 711
 |---:|---|---|---|---|---|---:|
 | 1 | [abdullokhonz](https://github.com/abdullokhonz) | Abdullokhon Ghaibulloev | CEO at @google & @microsoft | abdullokhonz | Khujand, Tajikistan | 429 |
 | 2 | [RahimovAbdurahmon](https://github.com/RahimovAbdurahmon) |  | Soft Club |  | Tajikistan, Dushanbe | 226 |
-| 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam |  |  | Khujand, Tajikistan | 174 |
+| 3 | [AzamBayzaev](https://github.com/AzamBayzaev) | Azam |  |  | Khujand, Tajikistan | 173 |
 | 4 | [jahongirholmatov](https://github.com/jahongirholmatov) | Jahongir |  |  | Khujand, Tajikistan | 173 |
 | 5 | [Thexasan](https://github.com/Thexasan) | Husenov Hasan  | @softclub-academy |  | Tajikistan, Dushanbe | 140 |
 | 6 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 131 |
@@ -25,4 +25,4 @@ Users: 711
 | 17 | [mehriddinsaidov](https://github.com/mehriddinsaidov) | Mehriddin Saidov | Saiph Group |  | Tajikistan | 51 |
 | 18 | [nazarovqurbonali](https://github.com/nazarovqurbonali) | Nazarov Qurbonali | Saiph Group |  | Dushanbe,Tajikistan | 50 |
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | https://evilmartians.com | 11bit | Dushanbe | 49 |
-| 20 | [islom-din](https://github.com/islom-din) | Islom Nuridinov  | MegaFon  |  | Dushanbe | 48 |
+| 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Abdughafur Projects |  | Tajikistan | 48 |

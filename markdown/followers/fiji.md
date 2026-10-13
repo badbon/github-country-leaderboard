@@ -1,12 +1,12 @@
 # Followers - Fiji
 
-Generated: 2026-10-13T03:19:46.807Z
+Generated: 2026-10-13T04:47:51.298Z
 
 Users: 325
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 524 |
+| 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | @kpmg-au @simplex-lab | takeiteasyvik | Fiji | 523 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | serp.ai |  | Suva | 134 |
 | 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Forward company (FIJI) |  | Nadi ,Fiji | 69 |
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Pacific Technologies |  | Fiji | 66 |

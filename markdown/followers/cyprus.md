@@ -1,6 +1,6 @@
 # Followers - Cyprus
 
-Generated: 2026-10-13T03:13:57.526Z
+Generated: 2026-10-13T04:41:52.879Z
 
 Users: 2735
 
@@ -9,7 +9,7 @@ Users: 2735
 | 1 | [zloirock](https://github.com/zloirock) | Denis Pushkarev |  | zloirock | Cyprus, Larnaca | 7491 |
 | 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | @blackhatethicalhacking | secur1ty1samyth | Cyprus | 2135 |
 | 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 1319 |
-| 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh |  | MozafariManesh | Republic Of Cyprus | 709 |
+| 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh |  | MozafariManesh | Republic Of Cyprus | 697 |
 | 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin |  | zakirullin | Limassol, Cyprus | 556 |
 | 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | JetBrains | VBragilevsky | Larnaca, Cyprus | 539 |
 | 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | @centrifugal  |  | Limassol, Cyprus | 471 |
@@ -19,7 +19,7 @@ Users: 2735
 | 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal |  |  | Limassol, Cyprus | 371 |
 | 12 | [dgutov](https://github.com/dgutov) | Dmitry Gutov |  | dgutov | Limassol, Cyprus | 352 |
 | 13 | [fedosejev](https://github.com/fedosejev) | Artemij Fedosejev |  |  | Paphos, Cyprus | 352 |
-| 14 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Exness |  | Cyprus, Limassol | 342 |
+| 14 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Exness |  | Cyprus, Limassol | 334 |
 | 15 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu |  |  | Cyprus | 332 |
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy |  |  | Cyprus | 302 |
 | 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | @Shopify | paracycle | Nicosia, Cyprus | 294 |

@@ -12,7 +12,7 @@ Indexed users: 132
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 9,793 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 9,871 |
 | 2 | [davelee001](https://github.com/davelee001) | David Leek | South Sudan | 5,313 |
 | 3 | [jameswol-ai](https://github.com/jameswol-ai) | James Wol | Juba, South Sudan | 5,206 |
 | 4 | [riek27](https://github.com/riek27) | Riek Gatluak Geka Reat | Juba, South sudan | 3,408 |
@@ -25,8 +25,8 @@ Indexed users: 132
 | 11 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Juba-South Sudan | 516 |
 | 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
 | 13 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 501 |
-| 14 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 329 |
-| 15 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 328 |
+| 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
+| 15 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 329 |
 | 16 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
 | 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 310 |
 | 18 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
@@ -46,7 +46,7 @@ Indexed users: 132
 | 7 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 502 |
 | 8 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | Juba  | 492 |
 | 9 | [WANI12](https://github.com/WANI12) | wani geoffrey | Juba, South Sudan | 387 |
-| 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 328 |
+| 10 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
 | 11 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 324 |
 | 12 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 323 |
 | 13 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
@@ -62,7 +62,7 @@ Indexed users: 132
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 425 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Juba, South Sudan | 424 |
 | 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang | Juba, South Sudan | 135 |
 | 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham | Juba,South Sudan | 63 |
 | 4 | [longmaker2](https://github.com/longmaker2) | Long Maker Long Deng | Juba | 45 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared | Juba, South Sudan | 15 |
 
-Generated: 2026-10-13T02:42:47.386Z
+Generated: 2026-10-13T04:13:24.844Z

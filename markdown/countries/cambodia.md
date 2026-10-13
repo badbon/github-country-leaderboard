@@ -1,6 +1,6 @@
 # Cambodia
 
-Indexed users: 2,876
+Indexed users: 2,875
 
 | Leaderboard | Link |
 |---|---|
@@ -80,7 +80,7 @@ Indexed users: 2,876
 | 16 | [sublimator](https://github.com/sublimator) | Niq Dudfield | Phnom Penh | 163 |
 | 17 | [StarCodeKh](https://github.com/StarCodeKh) | StarCode Kh | Cambodia/Phnom Penh | 159 |
 | 18 | [theachoem](https://github.com/theachoem) | Thea Choem | Phnom Penh, Cambodia | 134 |
-| 19 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
-| 20 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 125 |
+| 19 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 128 |
+| 20 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
 
-Generated: 2026-10-13T03:09:39.533Z
+Generated: 2026-10-13T04:37:52.286Z

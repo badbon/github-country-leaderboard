@@ -14,8 +14,8 @@ Indexed users: 61
 |---:|---|---|---|---:|
 | 1 | [michael-andreuzza](https://github.com/michael-andreuzza) | Michael Andreuzza | Mariehman, Åland Islands, Finland | 9,860 |
 | 2 | [npunzalan](https://github.com/npunzalan) | Nico Punzalan | Mariehamn | 3,941 |
-| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 3,766 |
-| 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,179 |
+| 3 | [hkarlstrom](https://github.com/hkarlstrom) | Henrik Karlström | Åland Islands | 3,763 |
+| 4 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 3,184 |
 | 5 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 1,776 |
 | 6 | [MarkusYPA](https://github.com/MarkusYPA) | Markus Amberla | Mariehamn and Helsinki | 1,579 |
 | 7 | [linusaarnio](https://github.com/linusaarnio) | Linus Aarnio | Åland, Finland | 1,227 |
@@ -24,14 +24,14 @@ Indexed users: 61
 | 10 | [mareerray](https://github.com/mareerray) | Mayuree Reunsati | Mariehamn, Åland | 825 |
 | 11 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 581 |
 | 12 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 528 |
-| 13 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 488 |
+| 13 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 483 |
 | 14 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 465 |
-| 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 387 |
+| 15 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 385 |
 | 16 | [johanwestling](https://github.com/johanwestling) | Johan Westling | Åland, Finland | 238 |
 | 17 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 185 |
 | 18 | [ejmilli](https://github.com/ejmilli) | eliza john |  Åland Islands, Finland | 178 |
 | 19 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 132 |
-| 20 | [viktor-sarge](https://github.com/viktor-sarge) | Viktor Sarge | Mariehamn | 117 |
+| 20 | [viktor-sarge](https://github.com/viktor-sarge) | Viktor Sarge | Mariehamn | 118 |
 
 ## Public Contributions
 
@@ -44,11 +44,11 @@ Indexed users: 61
 | 5 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 581 |
 | 6 | [kejpa](https://github.com/kejpa) | Kjell Hansen | Mariehamn, Åland Islands | 528 |
 | 7 | [karusmari](https://github.com/karusmari) | Maris Karu | Åland Islands | 465 |
-| 8 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 387 |
+| 8 | [khalavak](https://github.com/khalavak) | Kim Halavakoski | Åland Islands | 385 |
 | 9 | [mathisen99](https://github.com/mathisen99) | Tommy Mathisen | Aland Islands | 211 |
 | 10 | [olegamobile](https://github.com/olegamobile) | Oleg Balandin | Mariehamn | 179 |
-| 11 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 137 |
-| 12 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 132 |
+| 11 | [fatemekh78](https://github.com/fatemekh78) | Fatemeh | Mariehamn, Åland islands | 132 |
+| 12 | [rahulwagh](https://github.com/rahulwagh) | Rahul Wagh | Mariehamn, Åland | 131 |
 | 13 | [hmenorjr](https://github.com/hmenorjr) | Herman Menor, Jr. | Åland Islands, Finland | 92 |
 | 14 | [giAddams](https://github.com/giAddams) | Geraldine Addamo | Mariehamn | 80 |
 | 15 | [mavka1207](https://github.com/mavka1207) | Kateryna Ovsiienko | Mariehamn | 78 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [GitHug](https://github.com/GitHug) | Fredrik Mäkilä | London / Mariehamn | 10 |
 | 20 | [fannielf](https://github.com/fannielf) | Fanni Vesanen | Mariehamn | 9 |
 
-Generated: 2026-10-13T02:57:13.688Z
+Generated: 2026-10-13T04:24:23.630Z

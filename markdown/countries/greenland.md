@@ -14,8 +14,8 @@ Indexed users: 59
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,958 |
 | 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,772 |
-| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,448 |
-| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,273 |
+| 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,442 |
+| 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,272 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 6 | [WingWR](https://github.com/WingWR) |  | Greenland | 821 |
 | 7 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 699 |
@@ -38,7 +38,7 @@ Indexed users: 59
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 1,975 |
-| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,448 |
+| 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,442 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 901 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj | Nuuk, Greenland | 699 |
 | 5 | [WingWR](https://github.com/WingWR) |  | Greenland | 544 |
@@ -62,7 +62,7 @@ Indexed users: 59
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,516 |
+| 1 | [aantoooon](https://github.com/aantoooon) | anton | Greenland | 1,518 |
 | 2 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 1,225 |
 | 3 | [panyster](https://github.com/panyster) | Pany | Greenland | 1,027 |
 | 4 | [Jiiks](https://github.com/Jiiks) | Alexei Stukov | Greenland | 292 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-13T03:22:18.286Z
+Generated: 2026-10-13T04:50:51.722Z

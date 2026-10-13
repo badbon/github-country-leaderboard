@@ -1,6 +1,6 @@
 # Total Contributions - Croatia
 
-Generated: 2026-10-13T03:12:54.117Z
+Generated: 2026-10-13T04:41:38.553Z
 
 Users: 5437
 
@@ -25,4 +25,4 @@ Users: 5437
 | 17 | [piqusy](https://github.com/piqusy) | Ivan Ramljak | @infinum  |  | Zagreb | 6748 |
 | 18 | [leonardogazdek](https://github.com/leonardogazdek) | Leonardo Gazdek |  |  | Croatia | 6743 |
 | 19 | [drKreso](https://github.com/drKreso) | Kresimir Bojcic | @kodius  |  | Croatia | 6678 |
-| 20 | [darko-mijic](https://github.com/darko-mijic) | Darko Mijić | Parity Technologies |  | Zagreb | 6431 |
+| 20 | [JS1240](https://github.com/JS1240) | Jure Šunić |  |  | Zagreb, HR | 6434 |

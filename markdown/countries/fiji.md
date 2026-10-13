@@ -14,7 +14,7 @@ Indexed users: 325
 |---:|---|---|---|---:|
 | 1 | [SMani0547](https://github.com/SMani0547) | Shiva Mani Goundar | Nadi, Fiji | 3,009 |
 | 2 | [Amdeo](https://github.com/Amdeo) | Cooper | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,438 |
-| 3 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,404 |
+| 3 | [Shoneel](https://github.com/Shoneel) |  | Fiji, Suva  | 1,426 |
 | 4 | [felix-davui-679](https://github.com/felix-davui-679) | Filimone Davui | Fiji | 1,304 |
 | 5 | [krishneelkamalsingh](https://github.com/krishneelkamalsingh) | Krish | Fiji | 1,138 |
 | 6 | [crazybanboo](https://github.com/crazybanboo) | Ethan | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 1,085 |
@@ -30,7 +30,7 @@ Indexed users: 325
 | 16 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 502 |
 | 17 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | Fiji | 488 |
 | 18 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | Suva, Fiji | 438 |
-| 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 422 |
+| 19 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 430 |
 | 20 | [Amanimal](https://github.com/Amanimal) | Abhishek Swamy | Fiji | 399 |
 
 ## Public Contributions
@@ -62,7 +62,7 @@ Indexed users: 325
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 524 |
+| 1 | [vikichand](https://github.com/vikichand) | Vikash Chand | Fiji | 523 |
 | 2 | [2-fly-4-ai](https://github.com/2-fly-4-ai) | Brian farley | Suva | 134 |
 | 3 | [eastwardnew](https://github.com/eastwardnew) | Eastward New | Nadi ,Fiji | 69 |
 | 4 | [anav5704](https://github.com/anav5704) | Anav Chand | Fiji | 66 |
@@ -83,4 +83,4 @@ Indexed users: 325
 | 19 | [phpoh](https://github.com/phpoh) | phpoh | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 21 |
 | 20 | [alvinkumar18](https://github.com/alvinkumar18) | Alvin Kumar | Fiji | 18 |
 
-Generated: 2026-10-13T03:19:46.807Z
+Generated: 2026-10-13T04:47:51.298Z

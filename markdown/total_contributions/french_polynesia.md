@@ -1,21 +1,21 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-13T03:21:29.233Z
+Generated: 2026-10-13T04:48:05.320Z
 
 Users: 60
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3374 |
+| 1 | [jaffadog](https://github.com/jaffadog) | Jeremy Waters |  |  | Tahanea, Tuamotus, French Polynesia | 3452 |
 | 2 | [jburckel](https://github.com/jburckel) |  | natimai.solutions |  | French Polynesia | 3072 |
-| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2809 |
-| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1059 |
+| 3 | [marsender](https://github.com/marsender) | Didier Corbière |  |  | French Polynesia | 2816 |
+| 4 | [smortex](https://github.com/smortex) | Romain Tartière | @FreeBSD @opus-codium @voxpupuli |  | Faa'a, Tahiti, French Polynesia | 1058 |
 | 5 | [jalik](https://github.com/jalik) | Karl Stein | SIGMA POLYNESIA | jalik26 | French Polynesia | 698 |
 | 6 | [N1coc4colA](https://github.com/N1coc4colA) |  | The Community | n1coc4cola | French Polynesia | 469 |
 | 7 | [craff](https://github.com/craff) | Christophe Raffalli | Gaati, UPF |  | Polynésie, Française | 427 |
 | 8 | [ch4mpy](https://github.com/ch4mpy) | Jérôme Wacongne |  |  | Papeete, French Polynesia | 421 |
 | 9 | [adriencanterot](https://github.com/adriencanterot) | Adrien Cantérot |  | adriencanterot | Tahiti, French Polynesia | 300 |
-| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 269 |
+| 10 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 268 |
 | 11 | [syllebra](https://github.com/syllebra) | BilboX |  |  | French Polynesia | 109 |
 | 12 | [Apollo987](https://github.com/Apollo987) | Jerome B |  |  | French Polynesia | 64 |
 | 13 | [geoffguillain](https://github.com/geoffguillain) | Geoff | Automattic |  | French Polynesia | 53 |

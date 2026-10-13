@@ -69,7 +69,7 @@ Indexed users: 3,874
 | 5 | [codebender828](https://github.com/codebender828) | Jonathan Bakebwa | Kampala, Uganda | 586 |
 | 6 | [ConradPB](https://github.com/ConradPB) | Conrad P.B | Kampala | 540 |
 | 7 | [ABAASA-BYOONA](https://github.com/ABAASA-BYOONA) | ABAASA | kampala | 510 |
-| 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 391 |
+| 8 | [jesar-enl](https://github.com/jesar-enl) | Jesse Kyambadde | Uganda | 381 |
 | 9 | [KubanjaElijahEldred](https://github.com/KubanjaElijahEldred) | KUBANJA ELIJAH ELDRED | UGANDA | 330 |
 | 10 | [aivan2798](https://github.com/aivan2798) | aivan2798 | Kampala | 329 |
 | 11 | [muganga-charles](https://github.com/muganga-charles) | Muganga Charles | Kampala | 327 |
@@ -83,4 +83,4 @@ Indexed users: 3,874
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-13T03:19:37.067Z
+Generated: 2026-10-13T04:19:11.181Z

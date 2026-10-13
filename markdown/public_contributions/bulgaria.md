@@ -1,8 +1,8 @@
 # Public Contributions - Bulgaria
 
-Generated: 2026-10-13T03:08:24.863Z
+Generated: 2026-10-13T04:36:42.804Z
 
-Users: 14085
+Users: 14084
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

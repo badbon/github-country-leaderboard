@@ -14,7 +14,7 @@ Indexed users: 1,276
 |---:|---|---|---|---:|
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 17,907 |
 | 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,116 |
-| 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 13,456 |
+| 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 14,900 |
 | 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,299 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,256 |
 | 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 6,907 |
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-13T03:13:28.896Z
+Generated: 2026-10-13T04:41:43.082Z

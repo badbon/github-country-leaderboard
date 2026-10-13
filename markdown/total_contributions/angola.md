@@ -1,8 +1,8 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-13T02:58:46.199Z
+Generated: 2026-10-13T04:26:58.502Z
 
-Users: 2501
+Users: 2503
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -18,9 +18,9 @@ Users: 2501
 | 10 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
 | 11 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 5456 |
 | 12 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |
-| 13 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
-| 14 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 4823 |
-| 15 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 3905 |
+| 13 | [osvaldowafulua](https://github.com/osvaldowafulua) | Osvaldo Wafulua | Smart Cloud |  | Angola | 4952 |
+| 14 | [noejunior299](https://github.com/noejunior299) | Noé Idagi | ITEL - Institute of Telecomunications | noejunior299 | Angola/Luanda | 4947 |
+| 15 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 4823 |
 | 16 | [BaziotaBeans](https://github.com/BaziotaBeans) | Fábio Baziota |  | baziota | Angola/Luanda | 3799 |
 | 17 | [overlineink](https://github.com/overlineink) | 𝔍𝖔𝖗𝖌𝖊 𝕮𝖔𝖘𝖙𝖆 | Principal Frontend Engineer @ Appy People, Co-Founder of @businx | overlineink | Luanda, Angola | 3700 |
 | 18 | [AntonioSebastiaoPedro](https://github.com/AntonioSebastiaoPedro) | António Sebastião Pedro |  |  | Morro Bento, Luanda, Angola | 3489 |

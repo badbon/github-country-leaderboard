@@ -1,6 +1,6 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-13T03:13:57.526Z
+Generated: 2026-10-13T04:41:52.879Z
 
 Users: 2735
 
@@ -19,8 +19,8 @@ Users: 2735
 | 11 | [ByczukMartin](https://github.com/ByczukMartin) | Martin B. | MBYT LTD |  | Cyprus | 9995 |
 | 12 | [cploutarchou](https://github.com/cploutarchou) | Christos Ploutarchou |  | cploutarchou | Cyprus | 9926 |
 | 13 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
-| 14 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 9314 |
-| 15 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
+| 14 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9399 |
+| 15 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 9314 |
 | 16 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
 | 17 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 9102 |
 | 18 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |

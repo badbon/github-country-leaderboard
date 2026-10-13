@@ -1,6 +1,6 @@
 # Austria
 
-Indexed users: 18,253
+Indexed users: 18,258
 
 | Leaderboard | Link |
 |---|---|
@@ -45,10 +45,10 @@ Indexed users: 18,253
 | 6 | [nerolation](https://github.com/nerolation) | Toni Wahrstätter | Austria | 10,313 |
 | 7 | [mcm1957](https://github.com/mcm1957) | Martin M. | Vienna, Austria | 10,062 |
 | 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | Austria | 10,006 |
-| 9 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8,906 |
-| 10 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet | Vienna | 8,637 |
-| 11 | [phax](https://github.com/phax) | Philip Helger | Vienna, Austria | 8,386 |
-| 12 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | Vienna  | 8,316 |
+| 9 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | Vienna  | 9,717 |
+| 10 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8,906 |
+| 11 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet | Vienna | 8,637 |
+| 12 | [phax](https://github.com/phax) | Philip Helger | Vienna, Austria | 8,386 |
 | 13 | [thisbavoreva](https://github.com/thisbavoreva) | Laurenz Stampfl | Vienna, Austria | 7,903 |
 | 14 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 7,889 |
 | 15 | [Tuubblarheuert](https://github.com/Tuubblarheuert) | Laurenz Stampfl | Vienna, Austria | 7,111 |
@@ -83,4 +83,4 @@ Indexed users: 18,253
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-13T03:01:37.482Z
+Generated: 2026-10-13T04:42:36.615Z

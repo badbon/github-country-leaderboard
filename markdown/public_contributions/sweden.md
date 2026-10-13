@@ -1,8 +1,8 @@
 # Public Contributions - Sweden
 
-Generated: 2026-10-13T02:44:14.021Z
+Generated: 2026-10-13T04:14:53.463Z
 
-Users: 39049
+Users: 39048
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -17,12 +17,12 @@ Users: 39049
 | 9 | [eddlgtm](https://github.com/eddlgtm) |  |  |  | Stockholm, Sweden | 12506 |
 | 10 | [jolars](https://github.com/jolars) | Johan Larsson | University of Copenhagen |  | Lund, Sweden | 11487 |
 | 11 | [mattias800](https://github.com/mattias800) | Mattias Andersson | Alessanto AB |  | Göteborg, Sweden | 11413 |
-| 12 | [Zoooooomies](https://github.com/Zoooooomies) | Edd Schauman-Haigh | @odevo-dev |  | Stockholm, Sweden | 11278 |
-| 13 | [moritzmyrz](https://github.com/moritzmyrz) | Moritz André Myrseth | @devify-no | moritzmyrz | Stockholm, Sweden | 10946 |
-| 14 | [SzeChunYiu](https://github.com/SzeChunYiu) | Sze Chun YIU | Fysikum, Stockholm University |  | Stockholm, Sweden | 10671 |
-| 15 | [raptor4mc](https://github.com/raptor4mc) | Raptor4 | MPS |  | Sweden | 10341 |
-| 16 | [niclaslindstedt](https://github.com/niclaslindstedt) | Niclas Lindstedt |  |  | Stockholm | 10318 |
-| 17 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Asynkron AB | rogeralsing | Stockholm, Sweden | 10283 |
-| 18 | [marinasundstrom](https://github.com/marinasundstrom) | Marina Sundström |  |  | Malmö, Sweden | 9740 |
-| 19 | [ledgernode](https://github.com/ledgernode) | trace:original | Enigio Time AB |  | Stockholm | 9702 |
-| 20 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Coder Society |  | Stockholm, Sweden | 9556 |
+| 12 | [moritzmyrz](https://github.com/moritzmyrz) | Moritz André Myrseth | @devify-no | moritzmyrz | Stockholm, Sweden | 10946 |
+| 13 | [SzeChunYiu](https://github.com/SzeChunYiu) | Sze Chun YIU | Fysikum, Stockholm University |  | Stockholm, Sweden | 10671 |
+| 14 | [raptor4mc](https://github.com/raptor4mc) | Raptor4 | MPS |  | Sweden | 10341 |
+| 15 | [niclaslindstedt](https://github.com/niclaslindstedt) | Niclas Lindstedt |  |  | Stockholm | 10318 |
+| 16 | [rogeralsing](https://github.com/rogeralsing) | Roger Johansson | Asynkron AB | rogeralsing | Stockholm, Sweden | 10283 |
+| 17 | [marinasundstrom](https://github.com/marinasundstrom) | Marina Sundström |  |  | Malmö, Sweden | 9740 |
+| 18 | [ledgernode](https://github.com/ledgernode) | trace:original | Enigio Time AB |  | Stockholm | 9702 |
+| 19 | [kojiwakayama](https://github.com/kojiwakayama) | Koji Wakayama | Coder Society |  | Stockholm, Sweden | 9556 |
+| 20 | [Lillecarl](https://github.com/Lillecarl) | Carl |  |  | Stockholm | 9166 |

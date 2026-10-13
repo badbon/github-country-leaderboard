@@ -1,6 +1,6 @@
 # Followers - Sudan
 
-Generated: 2026-10-13T02:43:54.731Z
+Generated: 2026-10-13T04:13:29.772Z
 
 Users: 729
 
@@ -24,5 +24,5 @@ Users: 729
 | 16 | [mhadiahmed](https://github.com/mhadiahmed) | Mhadi Ahmed |  |  | sudan | 56 |
 | 17 | [sam-x86](https://github.com/sam-x86) | SAM X86 | @HackScaleTeam | sam_x86_ | Sudan | 55 |
 | 18 | [osayami](https://github.com/osayami) | OSAYAMI | @Prayas-Corporation  | osmanahmedhindi | Sudan | 52 |
-| 19 | [kabaros](https://github.com/kabaros) | Mozafar | nyala.dev |  | Khartoum / Glasgow | 50 |
-| 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | @obaaa  | obaaa8 | sudan | 48 |
+| 19 | [kabaros](https://github.com/kabaros) | Mozafar | nyala.dev |  | Khartoum / Glasgow | 51 |
+| 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | @obaaa  | obaaa8 | sudan | 49 |

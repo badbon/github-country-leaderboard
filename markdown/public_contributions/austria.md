@@ -1,8 +1,8 @@
 # Public Contributions - Austria
 
-Generated: 2026-10-13T03:01:37.482Z
+Generated: 2026-10-13T04:42:36.615Z
 
-Users: 18253
+Users: 18258
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -14,10 +14,10 @@ Users: 18253
 | 6 | [nerolation](https://github.com/nerolation) | Toni Wahrstätter | Ethereum | nero_eth | Austria | 10313 |
 | 7 | [mcm1957](https://github.com/mcm1957) | Martin M. |  |  | Vienna, Austria | 10062 |
 | 8 | [rmayr](https://github.com/rmayr) | René Mayrhofer | @mobilesec @google | rene_mobile | Austria | 10006 |
-| 9 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | RFI-IRFOS . (Research Focus Institute- Interdisciplinary Research Facility for Open Sciences) |  | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8906 |
-| 10 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet |  |  | Vienna | 8637 |
-| 11 | [phax](https://github.com/phax) | Philip Helger | Philip Helger |  | Vienna, Austria | 8386 |
-| 12 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | FH Technikum Wien (UAS) |  | Vienna  | 8316 |
+| 9 | [ANcpLua](https://github.com/ANcpLua) | Alexander Nachtmann | FH Technikum Wien (UAS) |  | Vienna  | 9717 |
+| 10 | [simeon-kepp](https://github.com/simeon-kepp) | rfi-irfos | RFI-IRFOS . (Research Focus Institute- Interdisciplinary Research Facility for Open Sciences) |  | Elisabetinergasse 25/Top 10/DG/ Graz, Austria, Skybase | 8906 |
+| 11 | [mxssnx-creator](https://github.com/mxssnx-creator) | xssnet |  |  | Vienna | 8637 |
+| 12 | [phax](https://github.com/phax) | Philip Helger | Philip Helger |  | Vienna, Austria | 8386 |
 | 13 | [thisbavoreva](https://github.com/thisbavoreva) | Laurenz Stampfl | Canva |  | Vienna, Austria | 7903 |
 | 14 | [unbraind](https://github.com/unbraind) | Steve Preu |  | StevePreu | Austria | 7889 |
 | 15 | [Tuubblarheuert](https://github.com/Tuubblarheuert) | Laurenz Stampfl | Canva |  | Vienna, Austria | 7111 |

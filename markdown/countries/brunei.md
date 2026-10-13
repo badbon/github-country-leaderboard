@@ -44,7 +44,7 @@ Indexed users: 254
 | 5 | [danialothman](https://github.com/danialothman) | Danial Othman | Brunei Darussalam | 217 |
 | 6 | [naqiuddinihsan](https://github.com/naqiuddinihsan) | Ihsan | Brunei | 148 |
 | 7 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 119 |
-| 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 109 |
+| 8 | [syahnur197](https://github.com/syahnur197) | Syahnur Nizam | Brunei | 110 |
 | 9 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 108 |
 | 10 | [Zylioth](https://github.com/Zylioth) | Muhammad Amir Sabrin bin Mohamad Ali | Brunei | 108 |
 | 11 | [PenguinMiaou](https://github.com/PenguinMiaou) | PenguinMiaou | Brunei Darussalam | 103 |
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-13T03:08:22.110Z
+Generated: 2026-10-13T04:36:39.658Z

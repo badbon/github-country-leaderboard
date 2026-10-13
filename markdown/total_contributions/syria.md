@@ -1,6 +1,6 @@
 # Total Contributions - Syria
 
-Generated: 2026-10-13T02:45:08.487Z
+Generated: 2026-10-13T04:15:00.349Z
 
 Users: 1480
 
@@ -12,10 +12,10 @@ Users: 1480
 | 4 | [ibrahim4433](https://github.com/ibrahim4433) | Ibrahim Andraws | IA team - Digital Voluntary Team (DVT) |  | Syria | 4647 |
 | 5 | [Abubakr-Alsheikh](https://github.com/Abubakr-Alsheikh) | Abubakr Alsheikh |  | AbubakrAlshei77 | Syria | 4593 |
 | 6 | [ali-talal-ibrahem](https://github.com/ali-talal-ibrahem) | Ali Talal Ibrahem |  |  | syria | 3178 |
-| 7 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2853 |
-| 8 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 2847 |
-| 9 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 2559 |
-| 10 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 2555 |
+| 7 | [amurru](https://github.com/amurru) | Ammar Zerouk |  |  | Syria | 3117 |
+| 8 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2853 |
+| 9 | [sam-a1a](https://github.com/sam-a1a) | Sam |  |  | Damascus, Syrian Arab Republic | 2847 |
+| 10 | [AhmedHMWI](https://github.com/AhmedHMWI) | Ahmed hamwi |  |  | Damascus | 2559 |
 | 11 | [alsa7err90](https://github.com/alsa7err90) | abdulnafea |  |  | syria | 2324 |
 | 12 | [eymeen](https://github.com/eymeen) | Ayman Eid | QualityX | aymaneidx | Syria, Turkey | 2242 |
 | 13 | [CodeFather-xe](https://github.com/CodeFather-xe) | CodeFather-xe | Co-Founder of Kernel Crew |  | Syria | 2105 |
