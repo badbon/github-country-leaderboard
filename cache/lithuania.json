@@ -17251,7 +17251,7 @@
     "company": "@robolabs-lt",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 455,
+    "privateContributions": 460,
     "publicContributions": 0,
     "createdAt": "2020-12-11T09:42:10Z"
   },
@@ -17288,7 +17288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2020-02-03T06:43:53Z"
   },
   {
@@ -17324,7 +17324,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 88,
     "createdAt": "2020-07-12T16:11:05Z"
   },
   {
@@ -17360,7 +17360,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 9,
     "createdAt": "2020-01-15T01:53:14Z"
   },
   {
@@ -17395,21 +17395,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 488,
+    "privateContributions": 456,
     "publicContributions": 8,
     "createdAt": "2020-09-07T12:00:43Z"
-  },
-  {
-    "login": "martynasgz",
-    "name": "Martynas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62173913?s=72&u=0136b7c0b5fa07ec4e871c92fbebcf26a2cfb53f&v=4",
-    "location": "Kaunas, Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 182,
-    "publicContributions": 4,
-    "createdAt": "2020-03-14T10:56:33Z"
   },
   {
     "login": "ERuseckas",
@@ -17419,7 +17407,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1577,
+    "privateContributions": 1691,
     "publicContributions": 0,
     "createdAt": "2020-03-31T12:25:24Z"
   },
@@ -17454,7 +17442,7 @@
     "location": "Vilnius, Lithuania",
     "company": "https://fotomagas.com/",
     "twitterUsername": "sirota",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2020-06-19T07:29:13Z"

@@ -524,7 +524,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2025-05-09T15:20:55Z"
   },
   {
@@ -558,9 +558,9 @@
     "location": "Managua, Nicaragua",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 16,
-    "publicContributions": 59,
+    "publicContributions": 63,
     "createdAt": "2025-08-16T18:57:27Z"
   },
   {
@@ -584,7 +584,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 52,
     "createdAt": "2025-06-06T01:10:04Z"
   },
   {
@@ -596,7 +596,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 151,
+    "publicContributions": 153,
     "createdAt": "2025-05-09T16:51:03Z"
   },
   {
@@ -608,7 +608,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 69,
     "createdAt": "2025-03-22T00:21:54Z"
   },
   {
@@ -632,7 +632,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 30,
     "createdAt": "2025-02-02T02:33:32Z"
   },
   {
@@ -670,18 +670,6 @@
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2025-06-20T13:17:28Z"
-  },
-  {
-    "login": "jlshadowsking001-blip",
-    "name": "Leonidas Martinez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/236246974?s=72&u=5e1d659bddabaa162b8f53ad6692ecfef2d7fd39&v=4",
-    "location": "Nicaragua",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2025-10-05T18:20:15Z"
   },
   {
     "login": "DevLearnsAl",

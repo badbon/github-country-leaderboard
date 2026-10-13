@@ -17016,18 +17016,6 @@
     "createdAt": "2015-09-29T15:16:07Z"
   },
   {
-    "login": "mmorgano",
-    "name": "Maurizio Morgano ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14269399?s=72&u=c42c57f1370adb50b173f9b210eef2542f9890c8&v=4",
-    "location": "Luxembourg",
-    "company": "Sogeti",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 26,
-    "createdAt": "2015-09-14T05:59:37Z"
-  },
-  {
     "login": "AYMENCARLOS",
     "name": "Aymen BEN YOUSSEF",
     "avatarUrl": "https://avatars.githubusercontent.com/u/12739242?s=72&u=9a1afb1406bcb831afd2057168695640a5596579&v=4",
@@ -17059,8 +17047,8 @@
     "company": "TAO Testing",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 573,
-    "publicContributions": 966,
+    "privateContributions": 479,
+    "publicContributions": 1121,
     "createdAt": "2015-12-09T22:04:42Z"
   },
   {
@@ -17084,7 +17072,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 671,
+    "publicContributions": 683,
     "createdAt": "2015-10-04T19:22:57Z"
   },
   {
@@ -17096,7 +17084,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 13,
     "createdAt": "2015-04-02T14:09:47Z"
   },
   {
@@ -17107,7 +17095,7 @@
     "company": "@post-luxembourg",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 487,
+    "privateContributions": 463,
     "publicContributions": 8,
     "createdAt": "2015-01-24T15:07:11Z"
   },
@@ -17120,7 +17108,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 39,
     "createdAt": "2015-01-31T19:59:39Z"
   },
   {
@@ -17131,7 +17119,7 @@
     "company": "@amzn",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 26,
+    "privateContributions": 1056,
     "publicContributions": 0,
     "createdAt": "2015-05-14T10:45:53Z"
   },
@@ -17142,8 +17130,8 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1766,
+    "followers": 4,
+    "privateContributions": 1874,
     "publicContributions": 10,
     "createdAt": "2015-01-04T10:35:07Z"
   },
@@ -17168,7 +17156,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2015-07-12T16:51:08Z"
   },
   {
@@ -17180,7 +17168,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 4,
     "createdAt": "2015-03-24T19:02:25Z"
   },
   {
@@ -17191,7 +17179,7 @@
     "company": "@ArcelorMittal",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 868,
+    "privateContributions": 994,
     "publicContributions": 0,
     "createdAt": "2015-01-20T15:36:18Z"
   },
@@ -17204,7 +17192,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 4,
     "createdAt": "2015-07-11T15:32:23Z"
   },
   {
@@ -17215,7 +17203,7 @@
     "company": "Amazon",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 11,
+    "privateContributions": 18,
     "publicContributions": 2,
     "createdAt": "2015-03-24T10:38:51Z"
   },
@@ -17240,7 +17228,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 18,
+    "publicContributions": 14,
     "createdAt": "2015-06-03T09:36:53Z"
   },
   {

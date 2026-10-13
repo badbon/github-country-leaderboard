@@ -17108,7 +17108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 40,
     "createdAt": "2023-11-16T23:00:51Z"
   },
   {
@@ -17132,7 +17132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 5,
     "createdAt": "2023-11-29T03:41:58Z"
   },
   {
@@ -17156,7 +17156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-04-01T22:53:49Z"
   },
   {
@@ -17196,18 +17196,6 @@
     "createdAt": "2023-07-13T20:09:53Z"
   },
   {
-    "login": "Joota16",
-    "name": "Jhunior Herrera",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/137581804?s=72&u=2a1e70e157d6c7cab4295affc536bf079f8e4d10&v=4",
-    "location": "Lima, Peru",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2023-06-24T00:27:41Z"
-  },
-  {
     "login": "julissaponteblaze",
     "name": "Julissa Ponte",
     "avatarUrl": "https://avatars.githubusercontent.com/u/143023537?s=72&u=81d03e8b75f64407e4d299c266a740dee14f8993&v=4",
@@ -17240,7 +17228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 14,
     "createdAt": "2023-05-16T15:16:47Z"
   },
   {
@@ -17250,9 +17238,9 @@
     "location": "lima, peru",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 7,
     "createdAt": "2023-01-24T16:30:36Z"
   },
   {
