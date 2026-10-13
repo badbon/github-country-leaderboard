@@ -17076,18 +17076,6 @@
     "createdAt": "2024-06-06T08:06:58Z"
   },
   {
-    "login": "chikin-a",
-    "name": "Anton Chikin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/157885924?s=72&u=1ea9336fed54b3aa12fbc4450184b97d0fad3b86&v=4",
-    "location": "Ukraine",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 67,
-    "createdAt": "2024-01-27T10:52:23Z"
-  },
-  {
     "login": "StasTsarenko",
     "name": "Tsarenko Stas",
     "avatarUrl": "https://avatars.githubusercontent.com/u/159028031?s=72&u=22bab622094a8c09c0327d733865add6242c02b2&v=4",
@@ -17120,7 +17108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 130,
+    "publicContributions": 136,
     "createdAt": "2024-02-06T09:01:15Z"
   },
   {
@@ -17192,7 +17180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2024-06-10T12:25:48Z"
   },
   {
@@ -17226,7 +17214,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2024-02-21T16:33:55Z"
@@ -17251,7 +17239,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 80,
+    "privateContributions": 61,
     "publicContributions": 36,
     "createdAt": "2024-01-08T17:08:07Z"
   },
@@ -17259,12 +17247,12 @@
     "login": "mfcodess",
     "name": "Maxim Fedoseenko",
     "avatarUrl": "https://avatars.githubusercontent.com/u/158294939?s=72&u=44bfc76182b6f26a0a4d7c03ce40c6def0d07655&v=4",
-    "location": "Cherkasy, Ukraine",
+    "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 23,
     "createdAt": "2024-01-31T13:33:47Z"
   },
   {
@@ -17275,8 +17263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 47,
+    "privateContributions": 0,
+    "publicContributions": 28,
     "createdAt": "2024-01-24T22:03:06Z"
   },
   {

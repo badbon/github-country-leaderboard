@@ -17528,7 +17528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 87,
     "createdAt": "2023-03-02T14:46:40Z"
   },
   {
@@ -17540,7 +17540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 50,
     "createdAt": "2023-01-04T19:07:35Z"
   },
   {
@@ -17552,7 +17552,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2021-08-23T19:21:49Z"
   },
   {
@@ -17563,7 +17563,7 @@
     "company": "Central European University",
     "twitterUsername": "",
     "followers": 27,
-    "privateContributions": 358,
+    "privateContributions": 373,
     "publicContributions": 145,
     "createdAt": "2021-04-15T16:37:39Z"
   },
@@ -17574,9 +17574,9 @@
     "location": "Vienna",
     "company": "@proxmox",
     "twitterUsername": "",
-    "followers": 87,
-    "privateContributions": 126,
-    "publicContributions": 970,
+    "followers": 89,
+    "privateContributions": 139,
+    "publicContributions": 761,
     "createdAt": "2023-06-11T20:20:05Z"
   },
   {
@@ -17587,8 +17587,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 62,
-    "privateContributions": 91,
-    "publicContributions": 600,
+    "privateContributions": 101,
+    "publicContributions": 460,
     "createdAt": "2023-03-24T15:03:16Z"
   },
   {
@@ -17598,9 +17598,9 @@
     "location": "Vienna",
     "company": "42Vienna",
     "twitterUsername": "",
-    "followers": 41,
-    "privateContributions": 103,
-    "publicContributions": 124,
+    "followers": 40,
+    "privateContributions": 88,
+    "publicContributions": 111,
     "createdAt": "2023-03-24T08:48:38Z"
   },
   {
@@ -17610,9 +17610,9 @@
     "location": "Vienna ",
     "company": "FH Technikum Wien (UAS)",
     "twitterUsername": "",
-    "followers": 34,
-    "privateContributions": 2790,
-    "publicContributions": 8316,
+    "followers": 35,
+    "privateContributions": 3501,
+    "publicContributions": 9717,
     "createdAt": "2023-02-01T20:34:53Z"
   },
   {
@@ -17622,9 +17622,9 @@
     "location": "Vienna",
     "company": "@proxmox",
     "twitterUsername": "",
-    "followers": 32,
-    "privateContributions": 52,
-    "publicContributions": 70,
+    "followers": 31,
+    "privateContributions": 16,
+    "publicContributions": 48,
     "createdAt": "2023-09-05T16:49:12Z"
   },
   {
@@ -218802,9 +218802,9 @@
     "location": "Vienna, Austria",
     "company": "42 Vienna",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 213,
+    "publicContributions": 229,
     "createdAt": "2026-05-21T09:38:53Z"
   },
   {
@@ -219034,5 +219034,65 @@
     "privateContributions": 3,
     "publicContributions": 0,
     "createdAt": "2018-11-13T00:45:10Z"
+  },
+  {
+    "login": "derstandard-forum",
+    "name": "Dark Matters",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/285508233?s=72&u=078b9f63e0b171952d92d88882967c4890f24dc8&v=4",
+    "location": "Vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 8,
+    "publicContributions": 23,
+    "createdAt": "2026-05-17T21:13:03Z"
+  },
+  {
+    "login": "andy-d-70",
+    "name": "Andy",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293926298?s=72&v=4",
+    "location": "vienna",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-15T16:38:11Z"
+  },
+  {
+    "login": "SpiNat-H",
+    "name": "Nathalie Spittler",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/289452205?s=72&v=4",
+    "location": "Vienna",
+    "company": "BOKU University",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-31T16:26:01Z"
+  },
+  {
+    "login": "lukashuberdm",
+    "name": "Lukas Huber",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290978366?s=72&u=c5522d66967e26adc52917038d737de031b398ae&v=4",
+    "location": "Vienna",
+    "company": "DocuMain",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 4,
+    "createdAt": "2026-06-05T08:32:51Z"
+  },
+  {
+    "login": "q350915",
+    "name": "Gerhard Glos",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293886341?s=72&u=faf587852ea30c17526cfa5ebc4fe7f9af2f08fa&v=4",
+    "location": "Salztorgasse 1/2A 1010 Vienna",
+    "company": "UCS",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-15T14:07:15Z"
   }
 ]

@@ -17210,13 +17210,13 @@
   {
     "login": "lol-wave",
     "name": "LolWave",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/185409407?s=72&u=cc85efc758094875768de9d065539e52b9930bdd&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/185409407?s=72&u=01205f9c8c0a5d9e4129265fc9a72bfa12507c17&v=4",
     "location": "Uzbekistan/Samarkand",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 69,
     "createdAt": "2024-10-17T17:33:42Z"
   },
   {
@@ -17227,8 +17227,8 @@
     "company": "IT Park",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 31,
-    "publicContributions": 56,
+    "privateContributions": 11,
+    "publicContributions": 59,
     "createdAt": "2024-07-25T12:38:01Z"
   },
   {
@@ -17264,7 +17264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-10-16T09:06:51Z"
   },
   {
@@ -17276,7 +17276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 85,
+    "publicContributions": 65,
     "createdAt": "2024-10-10T18:52:32Z"
   },
   {
@@ -17324,7 +17324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2024-12-26T23:53:42Z"
   },
   {
@@ -17334,9 +17334,9 @@
     "location": "Samarkand, Uzbekistan | Open to work",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 96,
     "createdAt": "2024-12-24T07:45:56Z"
   },
   {
@@ -17370,34 +17370,22 @@
     "location": "Uzbekistan, Tashkent",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 11,
     "createdAt": "2024-03-14T11:31:22Z"
   },
   {
     "login": "Javokhiir",
-    "name": "Javokhir Shakhriyorov",
+    "name": "Javokhir",
     "avatarUrl": "https://avatars.githubusercontent.com/u/189328480?s=72&u=32493aeccc7bae74fff917c6fef4784ade660289&v=4",
     "location": "Uzbekistan, Tashkent",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 126,
+    "publicContributions": 138,
     "createdAt": "2024-11-22T07:41:13Z"
-  },
-  {
-    "login": "menarzullayev",
-    "name": "Saidakbar Narzullayev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192264739?s=72&u=e12ab3465181c8e27dcd7e8e39eac5b8cd5262b6&v=4",
-    "location": "Samarkand, Uzbekistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2682,
-    "publicContributions": 289,
-    "createdAt": "2024-12-19T20:02:56Z"
   },
   {
     "login": "Rakhimboyev-FerUzbek",
@@ -17408,19 +17396,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 218,
     "createdAt": "2024-11-12T04:30:04Z"
   },
   {
     "login": "Abukuii",
-    "name": "Abukuii",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/160826735?s=72&u=7eae8606dc584561d83910cc4eb0c063fcde8438&v=4",
+    "name": "Otabek Nematov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/160826735?s=72&u=a1b00111add2b5f6a061acfa90662f36b3565c96&v=4",
     "location": "Uzbekistan, Jizzakh",
-    "company": "IT Park Jizzakh",
+    "company": "Texnopark Jizzakh",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 45,
+    "publicContributions": 54,
     "createdAt": "2024-02-22T06:39:59Z"
   },
   {

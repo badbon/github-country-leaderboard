@@ -17479,7 +17479,7 @@
     "company": "TxRx Systems",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 362,
+    "privateContributions": 384,
     "publicContributions": 0,
     "createdAt": "2021-01-21T12:03:36Z"
   },
@@ -17526,9 +17526,9 @@
     "location": "Bairro Académico, Cidade Baixa, Huambo, Angola",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 26,
     "createdAt": "2021-09-11T12:51:26Z"
   },
   {
@@ -17588,7 +17588,7 @@
     "twitterUsername": "abelgoncalo",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 25,
     "createdAt": "2021-05-03T09:20:56Z"
   },
   {
@@ -17599,7 +17599,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 13,
+    "privateContributions": 18,
     "publicContributions": 11,
     "createdAt": "2021-09-09T20:20:41Z"
   },
@@ -17610,9 +17610,9 @@
     "location": "Angola",
     "company": "Smart Cloud",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3718,
-    "publicContributions": 187,
+    "followers": 3,
+    "privateContributions": 4743,
+    "publicContributions": 209,
     "createdAt": "2021-08-27T11:17:22Z"
   },
   {
@@ -17622,7 +17622,7 @@
     "location": "Luanda, Angola",
     "company": "",
     "twitterUsername": "GilGiorgio",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-02-08T10:44:00Z"
@@ -17684,7 +17684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 74,
     "createdAt": "2021-10-06T07:00:08Z"
   },
   {
@@ -30010,5 +30010,29 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-23T16:01:47Z"
+  },
+  {
+    "login": "bel-son",
+    "name": "Belson Quizomba",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286125833?s=72&u=8ead9d4354b7276cdf5f763e9880beb21468405f&v=4",
+    "location": "Luanda",
+    "company": "Programador web",
+    "twitterUsername": "",
+    "followers": 7,
+    "privateContributions": 0,
+    "publicContributions": 192,
+    "createdAt": "2026-05-19T19:45:01Z"
+  },
+  {
+    "login": "lumpinimario",
+    "name": "Samuel Mário ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291290951?s=72&u=901ee0dfd2cde4d7e9c6c3d052cd6c1cf10706bc&v=4",
+    "location": "Luanda",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 5,
+    "createdAt": "2026-06-06T12:22:10Z"
   }
 ]

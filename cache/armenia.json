@@ -17564,7 +17564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 25,
+    "publicContributions": 9,
     "createdAt": "2020-07-03T12:29:32Z"
   },
   {
@@ -17612,7 +17612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2020-06-02T12:18:11Z"
   },
   {
@@ -17660,7 +17660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2020-07-05T12:54:04Z"
   },
   {
@@ -48414,9 +48414,9 @@
     "location": "Yerevan , Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 13,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 33,
     "createdAt": "2026-06-03T18:36:27Z"
   },
   {
@@ -48514,5 +48514,41 @@
     "privateContributions": 0,
     "publicContributions": 36,
     "createdAt": "2026-06-07T12:37:28Z"
+  },
+  {
+    "login": "gyryvladbeep",
+    "name": "Vladislav Grekov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290640713?s=72&u=357e7d809403a48b5e36dec20ae1c0616f8993f0&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 282,
+    "createdAt": "2026-06-04T07:35:52Z"
+  },
+  {
+    "login": "Hakob-Kis",
+    "name": "Hakob",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297331663?s=72&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-27T05:04:20Z"
+  },
+  {
+    "login": "Narek-stat",
+    "name": "Narek Avetisyan",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/293366051?s=72&v=4",
+    "location": "Yerevan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-13T12:43:47Z"
   }
 ]

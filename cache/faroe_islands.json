@@ -487,8 +487,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 4856,
-    "publicContributions": 492,
+    "privateContributions": 4854,
+    "publicContributions": 491,
     "createdAt": "2014-03-19T19:03:09Z"
   },
   {
@@ -554,13 +554,13 @@
   {
     "login": "OddmarDam",
     "name": "Oddmar Dam",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/4441007?s=72&u=ac6a8a9563fa86b6f5e93e8d48334952b774b39d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/4441007?s=72&v=4",
     "location": "Faroe Islands",
     "company": "P/F Net",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 7,
     "createdAt": "2013-05-15T19:42:43Z"
   },
   {
@@ -619,8 +619,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 2302,
-    "publicContributions": 125,
+    "privateContributions": 2300,
+    "publicContributions": 123,
     "createdAt": "2012-09-21T08:55:47Z"
   },
   {
@@ -631,7 +631,7 @@
     "company": "@Flowcore-io",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 14755,
+    "privateContributions": 14927,
     "publicContributions": 286,
     "createdAt": "2012-11-27T13:02:53Z"
   },

@@ -17287,7 +17287,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 200,
+    "privateContributions": 304,
     "publicContributions": 45,
     "createdAt": "2023-08-06T10:27:02Z"
   },
@@ -17298,9 +17298,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1843,
-    "publicContributions": 66,
+    "followers": 8,
+    "privateContributions": 2299,
+    "publicContributions": 122,
     "createdAt": "2023-07-24T20:11:52Z"
   },
   {
@@ -17312,7 +17312,7 @@
     "twitterUsername": "tobias_stoulil",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 9,
     "createdAt": "2023-07-28T11:45:36Z"
   },
   {
@@ -17323,8 +17323,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 493,
-    "publicContributions": 85,
+    "privateContributions": 620,
+    "publicContributions": 1,
     "createdAt": "2023-09-21T17:16:00Z"
   },
   {
@@ -17334,7 +17334,7 @@
     "location": "Prague",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-07-26T13:59:41Z"
@@ -17371,8 +17371,8 @@
     "company": "Allianz Insurance/ Workly/ Clay / JK Real",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 239,
-    "publicContributions": 38,
+    "privateContributions": 164,
+    "publicContributions": 35,
     "createdAt": "2023-10-22T07:24:48Z"
   },
   {
@@ -17408,7 +17408,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 102,
+    "publicContributions": 95,
     "createdAt": "2023-11-08T10:46:27Z"
   },
   {
@@ -17419,8 +17419,8 @@
     "company": "Rapid7",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 82,
-    "publicContributions": 13,
+    "privateContributions": 72,
+    "publicContributions": 16,
     "createdAt": "2023-10-18T13:52:46Z"
   },
   {
@@ -17444,7 +17444,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 596,
+    "publicContributions": 542,
     "createdAt": "2023-11-02T09:10:21Z"
   },
   {
@@ -17454,7 +17454,7 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-14T11:24:59Z"
@@ -17480,7 +17480,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 104,
+    "publicContributions": 101,
     "createdAt": "2023-10-02T15:13:40Z"
   },
   {
@@ -17491,8 +17491,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 190,
-    "publicContributions": 114,
+    "privateContributions": 721,
+    "publicContributions": 104,
     "createdAt": "2023-11-19T17:06:39Z"
   },
   {
@@ -194578,5 +194578,17 @@
     "privateContributions": 85,
     "publicContributions": 51,
     "createdAt": "2021-01-24T13:19:50Z"
+  },
+  {
+    "login": "chikin-a",
+    "name": "Anton Chikin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/157885924?s=72&u=1a5f05d47c850d9a841795f832bd793e384aa747&v=4",
+    "location": "Czech Republic",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 63,
+    "createdAt": "2024-01-27T10:52:23Z"
   }
 ]

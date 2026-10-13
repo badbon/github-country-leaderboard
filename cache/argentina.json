@@ -17180,7 +17180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 121,
     "createdAt": "2025-12-18T00:47:18Z"
   },
   {
@@ -17192,7 +17192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 158,
     "createdAt": "2025-08-26T01:09:22Z"
   },
   {
@@ -17204,7 +17204,7 @@
     "twitterUsername": "UnderSays",
     "followers": 1,
     "privateContributions": 14,
-    "publicContributions": 204,
+    "publicContributions": 210,
     "createdAt": "2025-11-26T16:05:30Z"
   },
   {
@@ -17228,7 +17228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 37,
     "createdAt": "2025-12-20T11:18:17Z"
   },
   {
@@ -17250,9 +17250,9 @@
     "location": "Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 54,
     "createdAt": "2025-12-03T19:24:41Z"
   },
   {
@@ -17264,7 +17264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 70,
+    "publicContributions": 61,
     "createdAt": "2025-08-27T12:56:14Z"
   },
   {
@@ -17274,7 +17274,7 @@
     "location": "San Juan, Argentina",
     "company": "Aural Syncro",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 26,
     "privateContributions": 0,
     "publicContributions": 309,
     "createdAt": "2022-04-04T04:11:35Z"
@@ -17287,8 +17287,8 @@
     "company": "",
     "twitterUsername": "Sr_Ezequiel_",
     "followers": 18,
-    "privateContributions": 9,
-    "publicContributions": 111,
+    "privateContributions": 15,
+    "publicContributions": 44,
     "createdAt": "2022-05-10T04:34:23Z"
   },
   {
@@ -17298,9 +17298,9 @@
     "location": "San juan , Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 39,
     "createdAt": "2022-05-25T15:40:34Z"
   },
   {
@@ -17312,7 +17312,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 92,
     "createdAt": "2022-01-29T17:26:49Z"
   },
   {
@@ -17322,7 +17322,7 @@
     "location": "San Juan, Argentina",
     "company": "",
     "twitterUsername": "josepaezsoria",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-14T03:51:48Z"
@@ -17336,7 +17336,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-04-13T21:01:19Z"
   },
   {
@@ -17348,7 +17348,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 1304,
+    "publicContributions": 825,
     "createdAt": "2022-04-17T00:14:20Z"
   },
   {
@@ -17358,9 +17358,9 @@
     "location": "San Juan,Argentina",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 150,
     "createdAt": "2022-01-18T14:39:39Z"
   },
   {
@@ -17396,7 +17396,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 36,
     "createdAt": "2022-11-29T23:01:47Z"
   },
   {
@@ -608878,5 +608878,17 @@
     "privateContributions": 0,
     "publicContributions": 84,
     "createdAt": "2026-06-28T18:01:28Z"
+  },
+  {
+    "login": "orazinazarena-01",
+    "name": "Nazarena Orazi",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297939592?s=72&u=b20ed23967be5fe6aeb66f7fc8b161b2ace68059&v=4",
+    "location": "Bahía Blanca, Buenos Aires, Argentina",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 16,
+    "publicContributions": 4,
+    "createdAt": "2026-06-29T14:18:55Z"
   }
 ]

@@ -488,7 +488,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2014-06-05T09:59:08Z"
   },
   {
@@ -499,8 +499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 627,
-    "privateContributions": 351,
-    "publicContributions": 137,
+    "privateContributions": 352,
+    "publicContributions": 131,
     "createdAt": "2014-02-27T19:08:55Z"
   },
   {
@@ -523,7 +523,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 14,
-    "privateContributions": 2968,
+    "privateContributions": 2973,
     "publicContributions": 211,
     "createdAt": "2013-07-17T16:13:02Z"
   },
@@ -560,7 +560,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 117,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2013-01-24T16:35:10Z"
   },
   {
@@ -596,7 +596,7 @@
     "twitterUsername": "khalavak",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 387,
+    "publicContributions": 385,
     "createdAt": "2012-08-02T06:34:20Z"
   },
   {
@@ -631,7 +631,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 3699,
+    "privateContributions": 3696,
     "publicContributions": 67,
     "createdAt": "2011-05-17T09:55:28Z"
   },

@@ -17624,7 +17624,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 595,
+    "publicContributions": 661,
     "createdAt": "2023-07-16T14:19:49Z"
   },
   {
@@ -17694,22 +17694,10 @@
     "location": "Plovdiv, Bulgaria",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 93,
     "createdAt": "2023-01-10T19:54:04Z"
-  },
-  {
-    "login": "d-707bg",
-    "name": "Daniel Todorov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/125958348?s=72&u=3eeba9a5edbe4b2a45bf618e075d563345146519&v=4",
-    "location": "Stara Zagora, Bulgaria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 60,
-    "createdAt": "2023-02-21T08:01:24Z"
   },
   {
     "login": "Labforty-KristianGeorgiev",
@@ -17730,9 +17718,9 @@
     "location": "Plovdiv, Bulgaria",
     "company": "Jakala",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2023-03-30T08:22:26Z"
   },
   {
@@ -17768,7 +17756,7 @@
     "twitterUsername": "engGeorgiPashev",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 18,
     "createdAt": "2023-04-27T11:08:22Z"
   },
   {

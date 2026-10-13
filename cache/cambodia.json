@@ -17480,7 +17480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 6,
     "createdAt": "2021-08-26T23:53:39Z"
   },
   {
@@ -17516,7 +17516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 96,
     "createdAt": "2021-08-05T12:14:06Z"
   },
   {
@@ -17561,7 +17561,7 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/96372956?s=72&v=4",
     "location": "Phnom Penh",
     "company": "Royal University of Phnom Penh",
-    "twitterUsername": "rolex_lx",
+    "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
@@ -17576,7 +17576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 3,
     "createdAt": "2021-06-15T05:25:19Z"
   },
   {
@@ -17616,18 +17616,6 @@
     "createdAt": "2021-02-15T15:20:36Z"
   },
   {
-    "login": "phansivang",
-    "name": "Phansivang Cheng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/95892957?s=72&u=9f339c5e15470f15b358adfc73f346a7145170f3&v=4",
-    "location": "Phnom Penh",
-    "company": "WingBank",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 84,
-    "publicContributions": 14,
-    "createdAt": "2021-12-10T01:24:08Z"
-  },
-  {
     "login": "hasse0303",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/94961295?s=72&u=491cbb4606eec080dc7ecc96185c5bd36ccfa060&v=4",
@@ -17646,9 +17634,9 @@
     "location": "Cambodia",
     "company": "ITC",
     "twitterUsername": "",
-    "followers": 125,
-    "privateContributions": 10,
-    "publicContributions": 58,
+    "followers": 128,
+    "privateContributions": 9,
+    "publicContributions": 63,
     "createdAt": "2020-11-05T02:38:00Z"
   },
   {
@@ -17658,9 +17646,9 @@
     "location": "Cambodia",
     "company": "",
     "twitterUsername": "",
-    "followers": 89,
-    "privateContributions": 90,
-    "publicContributions": 6,
+    "followers": 80,
+    "privateContributions": 243,
+    "publicContributions": 2,
     "createdAt": "2020-12-10T01:54:12Z"
   },
   {
@@ -17670,9 +17658,9 @@
     "location": "Phnom Penh, Cambodia",
     "company": "Sabay TeKh",
     "twitterUsername": "mengsreang_dev",
-    "followers": 84,
-    "privateContributions": 550,
-    "publicContributions": 201,
+    "followers": 95,
+    "privateContributions": 850,
+    "publicContributions": 357,
     "createdAt": "2020-04-08T01:05:08Z"
   },
   {
@@ -17682,9 +17670,9 @@
     "location": "Phnom Penh, Cambodia",
     "company": "Anywhere in another universe",
     "twitterUsername": "UnMengtong",
-    "followers": 61,
-    "privateContributions": 692,
-    "publicContributions": 30,
+    "followers": 62,
+    "privateContributions": 3592,
+    "publicContributions": 33,
     "createdAt": "2020-01-20T07:14:30Z"
   },
   {
@@ -17694,9 +17682,9 @@
     "location": "Phnom Penh, Cambodia",
     "company": "",
     "twitterUsername": "bansothen",
-    "followers": 60,
-    "privateContributions": 1841,
-    "publicContributions": 138,
+    "followers": 63,
+    "privateContributions": 2442,
+    "publicContributions": 119,
     "createdAt": "2020-06-26T09:13:01Z"
   },
   {
@@ -17707,8 +17695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 57,
-    "privateContributions": 270,
-    "publicContributions": 6,
+    "privateContributions": 110,
+    "publicContributions": 3,
     "createdAt": "2020-01-20T07:20:17Z"
   },
   {

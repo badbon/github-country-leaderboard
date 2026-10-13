@@ -17095,7 +17095,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 685,
+    "privateContributions": 653,
     "publicContributions": 0,
     "createdAt": "2023-06-01T18:07:19Z"
   },
@@ -17112,18 +17112,6 @@
     "createdAt": "2023-01-15T16:18:08Z"
   },
   {
-    "login": "Abderraouf-sn",
-    "name": "Abderraouf Sassene",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128513165?s=72&v=4",
-    "location": "Algeria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-03-21T17:08:06Z"
-  },
-  {
     "login": "Rafikbou2",
     "name": "rafik bougaada",
     "avatarUrl": "https://avatars.githubusercontent.com/u/128294903?s=72&u=f94fc10e9b586a67625ced71b41bbd104502cf61&v=4",
@@ -17132,7 +17120,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 3,
     "createdAt": "2023-03-19T11:48:38Z"
   },
   {
@@ -17155,8 +17143,8 @@
     "company": "Freelancer",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 159,
-    "publicContributions": 127,
+    "privateContributions": 201,
+    "publicContributions": 110,
     "createdAt": "2023-12-05T14:51:48Z"
   },
   {
@@ -17166,7 +17154,7 @@
     "location": "M'chedalllah, Bouira, Algeria",
     "company": "Bouira University",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-03-13T17:35:30Z"
@@ -17190,9 +17178,9 @@
     "location": "Boumerdes , Algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 1209,
-    "publicContributions": 88,
+    "followers": 6,
+    "privateContributions": 1254,
+    "publicContributions": 55,
     "createdAt": "2023-12-03T20:23:54Z"
   },
   {
@@ -17204,7 +17192,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2023-02-21T13:15:54Z"
   },
   {
@@ -17216,7 +17204,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 84,
     "createdAt": "2023-03-26T09:07:28Z"
   },
   {
@@ -17228,7 +17216,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 198,
+    "publicContributions": 187,
     "createdAt": "2022-12-29T14:55:08Z"
   },
   {
@@ -17239,8 +17227,8 @@
     "company": "university of Batna 2",
     "twitterUsername": "splitingwood",
     "followers": 3,
-    "privateContributions": 65,
-    "publicContributions": 50,
+    "privateContributions": 19,
+    "publicContributions": 27,
     "createdAt": "2023-06-23T23:36:14Z"
   },
   {
@@ -17274,7 +17262,7 @@
     "location": "algeria",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-12T08:55:51Z"
@@ -17312,7 +17300,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 29,
     "createdAt": "2023-08-06T13:54:38Z"
   },
   {
@@ -17324,7 +17312,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-10-03T12:40:58Z"
   },
   {
@@ -69754,5 +69742,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-05-30T22:44:53Z"
+  },
+  {
+    "login": "rachid-myah",
+    "name": "MYAH Rachid",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/284576035?s=72&v=4",
+    "location": "Kouba - Algiers",
+    "company": "@GOMYCODE",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-05-14T08:54:09Z"
   }
 ]

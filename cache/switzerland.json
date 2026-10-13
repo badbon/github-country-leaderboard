@@ -17076,18 +17076,6 @@
     "createdAt": "2023-02-21T10:55:10Z"
   },
   {
-    "login": "Awirbl",
-    "name": "Quentin Vasseur",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/145999797?s=72&v=4",
-    "location": "Switzerland",
-    "company": "EPFL",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 102,
-    "publicContributions": 0,
-    "createdAt": "2023-09-25T13:49:49Z"
-  },
-  {
     "login": "ElsDehantschutter",
     "name": "Els",
     "avatarUrl": "https://avatars.githubusercontent.com/u/128699978?s=72&u=d11576b8866cfeec3f81d7096f53cb13dcaeddae&v=4",
@@ -17106,8 +17094,8 @@
     "location": "Switzerland",
     "company": "UZH",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 62,
+    "followers": 3,
+    "privateContributions": 49,
     "publicContributions": 0,
     "createdAt": "2023-03-03T08:55:36Z"
   },
@@ -17166,7 +17154,7 @@
     "location": "Switzerland",
     "company": "PhD Student in Humanities and Social Sciences of Medicine and Health",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 64,
     "createdAt": "2023-05-07T02:22:58Z"
@@ -17178,9 +17166,9 @@
     "location": "Switzerland",
     "company": "Paul Scherrer Institut",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 73,
-    "publicContributions": 869,
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1511,
     "createdAt": "2023-05-12T14:40:16Z"
   },
   {
@@ -17203,8 +17191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 7,
-    "publicContributions": 153,
+    "privateContributions": 8,
+    "publicContributions": 142,
     "createdAt": "2023-01-15T14:26:55Z"
   },
   {
@@ -17228,31 +17216,31 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 93,
     "createdAt": "2023-03-17T20:37:00Z"
   },
   {
     "login": "annageiser",
     "name": "Anna",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133098923?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133098923?s=72&u=f81d0505af72d48ee92ecff10c9016815780d068&v=4",
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 328,
+    "publicContributions": 416,
     "createdAt": "2023-05-10T08:33:45Z"
   },
   {
     "login": "ashrv12",
     "name": "reverix",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151522619?s=72&u=7f2982b29ca33a21843f3ee65b1a5cba78aedd34&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151522619?s=72&u=5d3af8e600a27f6a5952ac9d17aa116df90000ac&v=4",
     "location": "Geneva, Switzerland",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 278,
+    "publicContributions": 186,
     "createdAt": "2023-11-20T10:36:07Z"
   },
   {
@@ -17286,7 +17274,7 @@
     "location": "Switzerland",
     "company": "",
     "twitterUsername": "login",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-21T15:30:48Z"
