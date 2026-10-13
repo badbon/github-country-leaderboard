@@ -17059,7 +17059,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
+    "privateContributions": 10,
     "publicContributions": 0,
     "createdAt": "2017-08-30T17:45:24Z"
   },
@@ -17068,7 +17068,7 @@
     "name": "mojekarte",
     "avatarUrl": "https://avatars.githubusercontent.com/u/25451384?s=72&u=52fa800a30bbab7798c06aac98e4e37417738c6b&v=4",
     "location": "Ljubljana, Slovenia",
-    "company": "mojekarte.si",
+    "company": "mojekarte.com",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
@@ -17107,8 +17107,8 @@
     "company": "",
     "twitterUsername": "PetravicLuka",
     "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 2,
+    "privateContributions": 23,
+    "publicContributions": 3,
     "createdAt": "2017-06-25T12:17:13Z"
   },
   {
@@ -17167,21 +17167,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 318,
-    "publicContributions": 14,
+    "privateContributions": 282,
+    "publicContributions": 0,
     "createdAt": "2017-10-05T15:42:28Z"
-  },
-  {
-    "login": "fresh55",
-    "name": "Bruno Gale",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/32834882?s=72&u=b9caa7f00cbd5a6440b8d8b78f732ab382fa3114&v=4",
-    "location": "Ptuj, Slovenia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2367,
-    "publicContributions": 15,
-    "createdAt": "2017-10-16T08:51:19Z"
   },
   {
     "login": "miharek",
@@ -17203,7 +17191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2017-08-20T19:36:59Z"
   },
@@ -17252,7 +17240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 42,
-    "publicContributions": 17,
+    "publicContributions": 16,
     "createdAt": "2017-10-22T21:45:45Z"
   },
   {
@@ -17276,7 +17264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2017-05-02T20:26:54Z"
   },
   {

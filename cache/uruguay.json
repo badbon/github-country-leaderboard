@@ -17132,7 +17132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 10,
     "createdAt": "2022-04-15T17:21:57Z"
   },
   {
@@ -17144,7 +17144,7 @@
     "twitterUsername": "Tatto4k",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 6,
     "createdAt": "2022-02-18T23:17:22Z"
   },
   {
@@ -17204,20 +17204,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 55,
     "createdAt": "2022-04-29T15:22:35Z"
-  },
-  {
-    "login": "SuarezPM",
-    "name": "Pablo Suarez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110942776?s=72&u=1ee768d1122e8fc5e22c2aa7a1bf897026b9339c&v=4",
-    "location": "Montevideo, Uruguay",
-    "company": "Apohara",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1013,
-    "publicContributions": 2308,
-    "createdAt": "2022-08-09T22:00:35Z"
   },
   {
     "login": "santillorach",
@@ -17264,7 +17252,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 41,
     "createdAt": "2022-10-02T15:03:29Z"
   },
   {
@@ -17276,7 +17264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-05-24T22:33:26Z"
   },
   {
@@ -17336,7 +17324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 0,
     "createdAt": "2022-03-25T14:33:32Z"
   },
   {
@@ -17346,7 +17334,7 @@
     "location": "Montevideo, Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-21T22:03:33Z"

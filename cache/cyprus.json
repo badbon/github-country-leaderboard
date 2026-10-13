@@ -17360,7 +17360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 8,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2017-07-21T11:36:45Z"
   },
   {
@@ -17370,9 +17370,9 @@
     "location": "Limassol, Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 6,
     "createdAt": "2017-02-23T16:51:42Z"
   },
   {
@@ -17470,18 +17470,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-05-25T07:49:49Z"
-  },
-  {
-    "login": "AbdeenM",
-    "name": "Abdeen Mohamed",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/24494653?s=72&u=a468ad75b6a8eb4ca91e53103c0b346c24033555&v=4",
-    "location": "Lefkosa, Cyprus",
-    "company": "Materiias d.o.o",
-    "twitterUsername": "TheAbdeen9",
-    "followers": 8492,
-    "privateContributions": 9126,
-    "publicContributions": 0,
-    "createdAt": "2016-12-10T15:07:32Z"
   },
   {
     "login": "mozafarimanesh",

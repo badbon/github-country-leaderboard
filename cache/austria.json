@@ -17210,13 +17210,13 @@
   {
     "login": "Z00Li",
     "name": "Z00Li",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133202841?s=72&u=631306da9c62136189ec80fbd24d82b6691c72bc&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/133202841?s=72&u=60b75728b8e0d106fcfd487898b2030a13742dae&v=4",
     "location": "Austria",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 15,
+    "privateContributions": 81,
+    "publicContributions": 18,
     "createdAt": "2023-05-11T07:36:24Z"
   },
   {
@@ -17240,7 +17240,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 84,
+    "publicContributions": 85,
     "createdAt": "2023-04-29T05:58:20Z"
   },
   {
@@ -17264,7 +17264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 457,
+    "publicContributions": 1286,
     "createdAt": "2023-04-01T07:21:14Z"
   },
   {
@@ -17274,9 +17274,9 @@
     "location": "Pinkafeld, Austria",
     "company": "University of Applied Sciences Burgenland",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 3,
-    "publicContributions": 1,
+    "followers": 3,
+    "privateContributions": 5,
+    "publicContributions": 2,
     "createdAt": "2023-03-27T12:56:19Z"
   },
   {
@@ -17300,7 +17300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 558,
+    "publicContributions": 515,
     "createdAt": "2023-10-14T08:37:21Z"
   },
   {
@@ -17324,7 +17324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 27,
     "createdAt": "2023-02-22T06:49:46Z"
   },
   {
@@ -17386,18 +17386,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-12T21:05:52Z"
-  },
-  {
-    "login": "N0M4N5",
-    "name": "Michael Anzinger",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/147316389?s=72&u=9cf22182535401cdc713a7586a79e21bba3d6aeb&v=4",
-    "location": "Austria",
-    "company": "@softawaregmbh ",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 56,
-    "publicContributions": 5,
-    "createdAt": "2023-10-08T11:34:18Z"
   },
   {
     "login": "mrymsumi",

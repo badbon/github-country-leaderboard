@@ -16928,7 +16928,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 39,
     "createdAt": "2025-11-17T07:41:23Z"
   },
   {
@@ -16976,7 +16976,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 2,
     "createdAt": "2025-06-22T18:59:43Z"
   },
   {
@@ -16992,27 +16992,15 @@
     "createdAt": "2025-07-07T07:46:37Z"
   },
   {
-    "login": "enessyasar5-ui",
-    "name": "Enes Yaşar AKTÜRK",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/228934213?s=72&u=1116dbe46aa6713e46c667090a3c02c044712ba0&v=4",
-    "location": "Turkey,İzmir",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 67,
-    "createdAt": "2025-08-27T13:01:42Z"
-  },
-  {
     "login": "Burgerschonco",
     "name": "BurgerSchön",
     "avatarUrl": "https://avatars.githubusercontent.com/u/231019890?s=72&u=52ccc71f9dd8f1b0b3313da5b2ebcbf25c40f783&v=4",
     "location": "Turkey",
     "company": "Burgerschön",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 3,
     "createdAt": "2025-09-08T12:20:17Z"
   },
   {
@@ -17036,7 +17024,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 155,
     "createdAt": "2025-09-15T21:26:04Z"
   },
   {
@@ -17047,20 +17035,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 53,
+    "privateContributions": 89,
     "publicContributions": 20,
     "createdAt": "2025-05-30T12:14:21Z"
   },
   {
     "login": "EneSolaire",
     "name": "Enes Ömer Kara",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/209158242?s=72&u=7fd6d1307e296918a916e17c7f6d654fe83d8363&v=4",
-    "location": "Kocaeli/Turkey",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/209158242?s=72&u=9390c7ace3a3bb129c9c4b5bd3326574853b319d&v=4",
+    "location": "Kırşehir/Turkey",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 57,
+    "followers": 48,
+    "privateContributions": 2,
+    "publicContributions": 70,
     "createdAt": "2025-04-25T18:02:36Z"
   },
   {
@@ -17074,18 +17062,6 @@
     "privateContributions": 0,
     "publicContributions": 81,
     "createdAt": "2025-10-15T08:34:31Z"
-  },
-  {
-    "login": "Qasim-Alhardanee",
-    "name": "Qasim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223249813?s=72&u=71ef5690c480d6b211ae23acac7aa8ed78943117&v=4",
-    "location": "Samsun/TURKEY",
-    "company": "Ondokuz Mayis university",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 938,
-    "publicContributions": 134,
-    "createdAt": "2025-07-28T09:34:17Z"
   },
   {
     "login": "o6x9",
@@ -17106,9 +17082,9 @@
     "location": "Türkiye",
     "company": "",
     "twitterUsername": "",
-    "followers": 319,
-    "privateContributions": 40,
-    "publicContributions": 43,
+    "followers": 326,
+    "privateContributions": 30,
+    "publicContributions": 47,
     "createdAt": "2025-03-06T23:20:34Z"
   },
   {
@@ -948740,7 +948716,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 55,
     "createdAt": "2026-06-01T21:26:42Z"
   },
   {
@@ -949810,5 +949786,29 @@
     "privateContributions": 0,
     "publicContributions": 29,
     "createdAt": "2026-06-21T06:59:13Z"
+  },
+  {
+    "login": "RisingStarRobotics",
+    "name": "FRC #11022 Rising Star Robotics",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/291148228?s=72&u=03dd4f8e5f0fbde77c791384423651dc7c9d0f69&v=4",
+    "location": "İnegöl, Bursa",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 18,
+    "publicContributions": 1,
+    "createdAt": "2026-06-05T20:35:55Z"
+  },
+  {
+    "login": "CypherN0x",
+    "name": "CypherN0x",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/286756400?s=72&u=9b725deb1d52df1b6c49e50e6a6187a30e690650&v=4",
+    "location": "BURSA / TR",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 53,
+    "createdAt": "2026-05-21T18:13:12Z"
   }
 ]

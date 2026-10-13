@@ -16998,9 +16998,9 @@
     "location": "Kampala",
     "company": "",
     "twitterUsername": "Bronix1998",
-    "followers": 2,
-    "privateContributions": 185,
-    "publicContributions": 58,
+    "followers": 3,
+    "privateContributions": 189,
+    "publicContributions": 62,
     "createdAt": "2022-01-15T08:33:04Z"
   },
   {
@@ -17024,7 +17024,7 @@
     "twitterUsername": "DrSserunjogi",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2022-03-06T11:00:47Z"
   },
   {
@@ -17059,7 +17059,7 @@
     "company": "",
     "twitterUsername": "kansiime_keneth",
     "followers": 2,
-    "privateContributions": 7540,
+    "privateContributions": 7942,
     "publicContributions": 15,
     "createdAt": "2022-12-08T07:35:29Z"
   },
@@ -17094,7 +17094,7 @@
     "location": "kampala",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 22,
     "createdAt": "2022-12-16T11:52:21Z"
@@ -17120,7 +17120,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 404,
+    "publicContributions": 114,
     "createdAt": "2022-02-01T13:13:29Z"
   },
   {
@@ -17155,7 +17155,7 @@
     "company": "UltraICT Solutions Limited",
     "twitterUsername": "JMuyimbwa",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-24T05:30:56Z"
   },
@@ -46474,5 +46474,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-09T18:56:49Z"
+  },
+  {
+    "login": "Praise830322",
+    "name": "KISAKYE PRAISE",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297710380?s=72&u=c928d87991fa7e3c387f1c0c05545a60114c74a0&v=4",
+    "location": "KAMPALA-NTINDA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2026-06-28T19:49:44Z"
   }
 ]

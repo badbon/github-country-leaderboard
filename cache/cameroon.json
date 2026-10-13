@@ -17299,8 +17299,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
+    "privateContributions": 4,
+    "publicContributions": 2,
     "createdAt": "2018-06-02T07:29:22Z"
   },
   {
@@ -17322,9 +17322,9 @@
     "location": "Buea, Cameroon",
     "company": "Iknite Space Studio",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 170,
-    "publicContributions": 257,
+    "followers": 5,
+    "privateContributions": 128,
+    "publicContributions": 312,
     "createdAt": "2018-10-29T15:15:13Z"
   },
   {
@@ -17406,9 +17406,9 @@
     "location": "Yaounde, Cameroon",
     "company": "Leshey Digital",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2703,
-    "publicContributions": 34,
+    "followers": 3,
+    "privateContributions": 9082,
+    "publicContributions": 20,
     "createdAt": "2018-03-31T13:31:44Z"
   },
   {
@@ -17460,18 +17460,6 @@
     "createdAt": "2018-09-28T02:05:38Z"
   },
   {
-    "login": "raphy-z",
-    "name": "raphy-z",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/41334859?s=72&u=56709ed85969e9417e6e86f359b3ac57cf277cf3&v=4",
-    "location": "Yaounde, Cameroon ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2018-07-17T13:40:14Z"
-  },
-  {
     "login": "akongnwi02",
     "name": "Akongnwi Devert",
     "avatarUrl": "https://avatars.githubusercontent.com/u/37408988?s=72&u=811860938bb10d20793665db74612ac056a9f107&v=4",
@@ -17491,8 +17479,8 @@
     "company": "Crédit Communautaire d'Afrique Banque (CCA BANK)",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 885,
-    "publicContributions": 11,
+    "privateContributions": 1005,
+    "publicContributions": 10,
     "createdAt": "2018-12-25T03:08:56Z"
   },
   {
@@ -17504,7 +17492,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2018-12-22T22:08:01Z"
   },
   {
@@ -17516,7 +17504,7 @@
     "twitterUsername": "franckui",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 72,
+    "publicContributions": 50,
     "createdAt": "2018-02-27T22:08:14Z"
   },
   {

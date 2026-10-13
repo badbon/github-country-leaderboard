@@ -17143,7 +17143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 0,
+    "privateContributions": 1,
     "publicContributions": 0,
     "createdAt": "2017-10-19T22:00:37Z"
   },
@@ -17154,7 +17154,7 @@
     "location": "Sarajevo",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2017-01-27T11:28:12Z"
@@ -17191,8 +17191,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2892,
-    "publicContributions": 387,
+    "privateContributions": 3754,
+    "publicContributions": 380,
     "createdAt": "2017-12-18T11:04:13Z"
   },
   {
@@ -17251,7 +17251,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 715,
+    "privateContributions": 516,
     "publicContributions": 0,
     "createdAt": "2017-10-18T11:20:38Z"
   },
@@ -17287,8 +17287,8 @@
     "company": "AnkoraINC",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 422,
-    "publicContributions": 1,
+    "privateContributions": 352,
+    "publicContributions": 23,
     "createdAt": "2017-08-22T21:20:18Z"
   },
   {
@@ -17359,7 +17359,7 @@
     "company": "Ministry of Programming ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 171,
+    "privateContributions": 203,
     "publicContributions": 2,
     "createdAt": "2017-07-20T17:03:58Z"
   },

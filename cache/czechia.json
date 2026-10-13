@@ -17036,7 +17036,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2023-05-16T10:07:47Z"
   },
   {
@@ -17095,7 +17095,7 @@
     "company": "Stats Perform",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 557,
+    "privateContributions": 546,
     "publicContributions": 8,
     "createdAt": "2023-06-02T07:25:51Z"
   },
@@ -17166,9 +17166,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 32,
+    "followers": 33,
     "privateContributions": 0,
-    "publicContributions": 1622,
+    "publicContributions": 1250,
     "createdAt": "2023-11-05T16:32:40Z"
   },
   {
@@ -17190,9 +17190,9 @@
     "location": "Prague",
     "company": "Apify",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 180,
-    "publicContributions": 160,
+    "followers": 16,
+    "privateContributions": 231,
+    "publicContributions": 123,
     "createdAt": "2023-11-17T14:56:39Z"
   },
   {
@@ -17209,14 +17209,14 @@
   },
   {
     "login": "safarsin",
-    "name": "Sino ",
+    "name": "Sino",
     "avatarUrl": "https://avatars.githubusercontent.com/u/144455077?s=72&u=fc2354fd5af8bfd74d24e08b0bf907e5776c099a&v=4",
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 12,
-    "privateContributions": 0,
-    "publicContributions": 395,
+    "followers": 17,
+    "privateContributions": 64,
+    "publicContributions": 449,
     "createdAt": "2023-09-08T12:46:28Z"
   },
   {
@@ -17228,7 +17228,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 1,
     "createdAt": "2023-11-16T12:02:15Z"
   },
   {
@@ -17238,21 +17238,21 @@
     "location": "Prague",
     "company": "@ITISHolding",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 19,
     "createdAt": "2023-11-20T16:30:17Z"
   },
   {
     "login": "ArtemGubin",
     "name": "Tem Temych",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144693837?s=72&u=5d67b6ac6bc243946455a2509fec6121b6bc70f8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/144693837?s=72&v=4",
     "location": "Prague",
-    "company": "",
+    "company": "@Collibra",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 9,
-    "publicContributions": 8,
+    "privateContributions": 17,
+    "publicContributions": 3,
     "createdAt": "2023-09-11T12:55:29Z"
   },
   {
@@ -17263,8 +17263,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 5,
-    "publicContributions": 199,
+    "privateContributions": 6,
+    "publicContributions": 212,
     "createdAt": "2023-08-14T09:27:21Z"
   },
   {

@@ -17232,25 +17232,13 @@
     "createdAt": "2025-04-16T19:45:34Z"
   },
   {
-    "login": "AlaaAshraf309",
-    "name": "Alaa Ashraf",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212896390?s=72&v=4",
-    "location": "Egypt",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 45,
-    "createdAt": "2025-05-22T13:00:10Z"
-  },
-  {
     "login": "OmarNagy26",
     "name": "Omar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/210187442?s=72&u=18e6676ea9537cf62ec302e5c2a343129bc1b942&v=4",
     "location": "Alexandria, Egypt",
     "company": "",
     "twitterUsername": "AlhnfyMr59709",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2025-05-03T20:39:20Z"
@@ -17276,7 +17264,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 19,
     "createdAt": "2025-04-15T06:17:38Z"
   },
   {
@@ -17287,7 +17275,7 @@
     "company": "Open to opportunities",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 2,
+    "privateContributions": 5,
     "publicContributions": 18,
     "createdAt": "2025-06-27T11:25:56Z"
   },
@@ -17299,8 +17287,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 357,
-    "publicContributions": 55,
+    "privateContributions": 380,
+    "publicContributions": 20,
     "createdAt": "2025-05-04T23:33:57Z"
   },
   {
@@ -17324,7 +17312,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 39,
     "createdAt": "2025-04-12T20:55:52Z"
   },
   {
@@ -17336,7 +17324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 33,
     "createdAt": "2025-06-01T12:12:10Z"
   },
   {
@@ -17347,8 +17335,8 @@
     "company": "VOIS",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 973,
-    "publicContributions": 1,
+    "privateContributions": 756,
+    "publicContributions": 0,
     "createdAt": "2025-05-27T20:23:39Z"
   },
   {
@@ -17360,7 +17348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 0,
     "createdAt": "2025-06-16T13:22:10Z"
   },
   {
@@ -17372,7 +17360,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 10,
     "createdAt": "2025-06-12T18:30:11Z"
   },
   {
@@ -17384,7 +17372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 62,
+    "publicContributions": 0,
     "createdAt": "2025-05-21T15:55:48Z"
   },
   {
@@ -17394,9 +17382,9 @@
     "location": "Alexandria, Egypt",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 111,
+    "publicContributions": 110,
     "createdAt": "2025-04-12T12:41:35Z"
   },
   {
@@ -409066,5 +409054,17 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2026-06-28T12:55:00Z"
+  },
+  {
+    "login": "AbdeenM",
+    "name": "Abdeen Mohamed",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/24494653?s=72&u=a468ad75b6a8eb4ca91e53103c0b346c24033555&v=4",
+    "location": "Cairo, Egypt",
+    "company": "Materiias d.o.o",
+    "twitterUsername": "TheAbdeen9",
+    "followers": 8474,
+    "privateContributions": 8255,
+    "publicContributions": 0,
+    "createdAt": "2016-12-10T15:07:32Z"
   }
 ]

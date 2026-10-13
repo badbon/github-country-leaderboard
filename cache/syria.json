@@ -17196,18 +17196,6 @@
     "createdAt": "2014-11-09T00:12:49Z"
   },
   {
-    "login": "Rami-Sabbagh",
-    "name": "Rami Sabbagh",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/6272475?s=72&u=d8f6088f70adfd0dce3b93739a28fa3056fc0f84&v=4",
-    "location": "Damascus, Syria",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 156,
-    "privateContributions": 193,
-    "publicContributions": 62,
-    "createdAt": "2013-12-27T18:36:40Z"
-  },
-  {
     "login": "sader1992",
     "name": "Sader Fawall",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5981261?s=72&u=9e6d0747bdf0f0c1bbfbf6703af79ea758217970&v=4",
@@ -17216,7 +17204,7 @@
     "twitterUsername": "sader1992",
     "followers": 25,
     "privateContributions": 4,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2013-11-19T14:59:11Z"
   },
   {
@@ -17262,7 +17250,7 @@
     "location": "Syria",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-08-18T23:40:53Z"
@@ -17275,7 +17263,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 10,
+    "privateContributions": 13,
     "publicContributions": 117,
     "createdAt": "2013-09-18T21:34:23Z"
   },
@@ -17300,7 +17288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 216,
+    "publicContributions": 218,
     "createdAt": "2013-09-12T23:40:58Z"
   },
   {
@@ -17322,9 +17310,9 @@
     "location": "damascus",
     "company": "3rabsoft",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 57,
     "createdAt": "2013-04-21T10:08:34Z"
   },
   {
@@ -17334,9 +17322,9 @@
     "location": "Vanderville, Damascus",
     "company": "freelance",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 145,
     "createdAt": "2013-08-28T06:18:27Z"
   },
   {
