@@ -19,7 +19,7 @@ Indexed users: 299
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,763 |
 | 6 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,333 |
 | 7 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,297 |
-| 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,945 |
+| 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,973 |
 | 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,882 |
 | 10 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,881 |
 | 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,826 |
@@ -30,7 +30,7 @@ Indexed users: 299
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
 | 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,901 |
 | 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,471 |
-| 19 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,327 |
+| 19 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,333 |
 | 20 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,320 |
 
 ## Public Contributions
@@ -52,7 +52,7 @@ Indexed users: 299
 | 13 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 279 |
 | 14 | [Chadrac-WAKOMYA](https://github.com/Chadrac-WAKOMYA) | KIGHUNDILA WAKOMYA Chadrac | Congo | 256 |
 | 15 | [babacleven](https://github.com/babacleven) | BABA Aristote Cleven  | Congo-Brazzaville | 225 |
-| 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 214 |
+| 16 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 213 |
 | 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
 | 18 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
 | 19 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu | congo | 193 |
@@ -63,7 +63,7 @@ Indexed users: 299
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [alexissengangabo07](https://github.com/alexissengangabo07) | Dr. Code | Goma, Congo | 318 |
-| 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 212 |
+| 2 | [chronoss09](https://github.com/chronoss09) | Chronoss | Congo | 213 |
 | 3 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 206 |
 | 4 | [Josephbakulikira](https://github.com/Josephbakulikira) | Joseph  | Congo | 107 |
 | 5 | [AdalbertPungu](https://github.com/AdalbertPungu) | Adalbert Pungu | Congo (DRC) | 103 |
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-12T20:56:56.363Z
+Generated: 2026-10-13T02:29:30.494Z

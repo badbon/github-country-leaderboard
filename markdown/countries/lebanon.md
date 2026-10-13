@@ -13,31 +13,31 @@ Indexed users: 2,570
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [YoussofH](https://github.com/YoussofH) | Youssof Hammoud | Beirut, Lebanon | 23,135 |
-| 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 12,866 |
+| 2 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 21,539 |
 | 3 | [hussein-turfah](https://github.com/hussein-turfah) | Hussein Turfah | Lebanon | 12,520 |
 | 4 | [KhaledSaeed18](https://github.com/KhaledSaeed18) | Khaled Saeed | Lebanon | 10,546 |
 | 5 | [SilverLucFox](https://github.com/SilverLucFox) | Jawad Choucair | lebanon | 9,902 |
 | 6 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 9,741 |
 | 7 | [abedshaaban](https://github.com/abedshaaban) | Abed Al Ghani Shaaban | Lebanon | 9,444 |
 | 8 | [Mhmdhammoud](https://github.com/Mhmdhammoud) | Mohammad Hammoud | Lebanon | 9,315 |
-| 9 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
-| 10 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
-| 11 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
-| 12 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
-| 13 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 6,225 |
-| 14 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
-| 15 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
-| 16 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
-| 17 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
-| 18 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,352 |
-| 19 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
-| 20 | [abdallahmoubarak](https://github.com/abdallahmoubarak) | Abdallah Moubarak | Beirut, Lebanon | 5,186 |
+| 9 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 9,150 |
+| 10 | [mhdbouk](https://github.com/mhdbouk) | Mohamad Dbouk | Beirut, Lebanon | 7,264 |
+| 11 | [MohammadKanaan](https://github.com/MohammadKanaan) | Mohammad Kanaan | Lebanon | 6,600 |
+| 12 | [mincer-fundbot](https://github.com/mincer-fundbot) | Mincer Alaeddine | Beirut | 6,452 |
+| 13 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 6,334 |
+| 14 | [alishkeir](https://github.com/alishkeir) | Ali Shokair | Beirut, Lebanon | 6,225 |
+| 15 | [MrPancakes39](https://github.com/MrPancakes39) | Sal Hasan | Aley, Lebanon | 6,138 |
+| 16 | [mustafahalabi](https://github.com/mustafahalabi) | Mustafa Halabi | Lebanon | 6,034 |
+| 17 | [Kaakati](https://github.com/Kaakati) | Mohamad Kaakati | Beirut, Lebanon | 5,864 |
+| 18 | [KABBOUCHI](https://github.com/KABBOUCHI) | Georges KABBOUCHI | Lebanon | 5,390 |
+| 19 | [Salah1221](https://github.com/Salah1221) | Salah Najem | Tripoli District, North Governorate, Lebanon | 5,352 |
+| 20 | [HadiHz88](https://github.com/HadiHz88) | Hadi Hijazi | Lebanon | 5,308 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 3,991 |
+| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi | Lebanon | 6,378 |
 | 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji | Lebanon | 3,217 |
 | 3 | [aliscco](https://github.com/aliscco) | Ali mazloum | Beirut | 2,919 |
 | 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | Aaramoun, Lebanon | 2,706 |
@@ -47,16 +47,16 @@ Indexed users: 2,570
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun | Lebanon | 1,998 |
 | 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Beirut | 1,920 |
 | 10 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom | Beirut - Lebanon | 1,819 |
-| 11 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
-| 12 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
-| 13 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,160 |
-| 14 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
-| 15 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
-| 16 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
-| 17 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
-| 18 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,066 |
-| 19 | [naveed-gung](https://github.com/naveed-gung) | Navid | Beirut, Lebanon | 1,032 |
-| 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 1,024 |
+| 11 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad | Lebanon | 1,701 |
+| 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | Lebanon | 1,671 |
+| 13 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo | Beirut, Lebanon | 1,233 |
+| 14 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi | Lebanon | 1,160 |
+| 15 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak | Lebanon,Beirut | 1,138 |
+| 16 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | Beirut, LB | 1,107 |
+| 17 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Lebanon | 1,082 |
+| 18 | [jat10](https://github.com/jat10) | Jad Tarabay | Lebanon | 1,073 |
+| 19 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah | Beirut, Lebanon | 1,066 |
+| 20 | [naveed-gung](https://github.com/naveed-gung) | Navid | Beirut, Lebanon | 1,032 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 2,570
 | 19 | [hadiidbouk](https://github.com/hadiidbouk) | Hadi Dbouk | Lebanon | 100 |
 | 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | Beirut, Lebanon | 95 |
 
-Generated: 2026-10-12T20:37:51.929Z
+Generated: 2026-10-13T02:11:38.089Z

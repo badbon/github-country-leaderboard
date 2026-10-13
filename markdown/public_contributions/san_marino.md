@@ -1,19 +1,19 @@
 # Public Contributions - San Marino
 
-Generated: 2026-10-12T20:59:44.017Z
+Generated: 2026-10-13T02:33:38.000Z
 
 Users: 61
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | AINA Tech |  | San Marino, CA | 4322 |
-| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 855 |
+| 2 | [alessandrorebosio](https://github.com/alessandrorebosio) | Rebo | Università di Bologna |  | San Marino | 850 |
 | 3 | [gcardi](https://github.com/gcardi) | Giuliano Cardinali |  |  | Republic of San Marino | 489 |
 | 4 | [deBrian07](https://github.com/deBrian07) | Brian C. | Carnegie Mellon University |  | San Marino, CA | 311 |
 | 5 | [simooooone](https://github.com/simooooone) | Simos |  |  | San Marino | 284 |
 | 6 | [simorina](https://github.com/simorina) | Simone Rinaldi |  |  | San Marino | 232 |
 | 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti |  |  | San Marino | 197 |
-| 8 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna |  | Bologna / Rimini / San Marino | 118 |
+| 8 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Alma Mater Studiorum - Università di Bologna |  | Bologna / Rimini / San Marino | 119 |
 | 9 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | @grafana | llandy3d | San Marino | 101 |
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico |  | N1K0232 | Repubblica di San Marino | 96 |
 | 11 | [lucabio](https://github.com/lucabio) | Luca |  |  | San Marino | 75 |

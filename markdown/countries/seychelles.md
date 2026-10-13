@@ -14,9 +14,9 @@ Indexed users: 1,770
 |---:|---|---|---|---:|
 | 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | Victoria, BC Canada | 31,597 |
 | 2 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler | Victoria BC | 12,117 |
-| 3 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
-| 4 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 9,189 |
-| 5 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 8,787 |
+| 3 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 10,207 |
+| 4 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | Victoria, BC | 9,357 |
+| 5 | [plohkoon](https://github.com/plohkoon) | Greg Huber | Victoria, BC | 9,189 |
 | 6 | [kwintin](https://github.com/kwintin) | Quentin | Victoria, BC | 8,695 |
 | 7 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | Victoria, BC | 8,221 |
 | 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 7,711 |
@@ -37,7 +37,7 @@ Indexed users: 1,770
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 8,787 |
+| 1 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | Victoria BC Canada | 10,207 |
 | 2 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  Victoria, BC - Canada | 5,488 |
 | 3 | [danieltruong](https://github.com/danieltruong) | Daniel Truong | Victoria, BC | 4,109 |
 | 4 | [igboyes](https://github.com/igboyes) | Ian Boyes | Victoria | 3,584 |
@@ -83,4 +83,4 @@ Indexed users: 1,770
 | 19 | [cherishwins](https://github.com/cherishwins) | Jesse James | Victoria BC Canada | 122 |
 | 20 | [bewuethr](https://github.com/bewuethr) | Benjamin Wuethrich | Victoria, BC | 120 |
 
-Generated: 2026-10-12T21:01:37.811Z
+Generated: 2026-10-13T02:34:37.110Z

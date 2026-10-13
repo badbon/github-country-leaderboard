@@ -1,6 +1,6 @@
 # Followers - Rwanda
 
-Generated: 2026-10-12T20:57:09.194Z
+Generated: 2026-10-13T02:31:24.057Z
 
 Users: 3525
 
@@ -8,10 +8,10 @@ Users: 3525
 |---:|---|---|---|---|---|---:|
 | 1 | [ikuzweelisa](https://github.com/ikuzweelisa) | Ikuzwe |  | ikuzweelisa | Rwanda | 1673 |
 | 2 | [Edouard144](https://github.com/Edouard144) | Edouard |  | EdouardTuy6 | Kigali, Rwanda | 1654 |
-| 3 | [NailTechLtd](https://github.com/NailTechLtd) | Nail Tech Ltd | @NailTechLtd |  | Kigali Rwanda | 1608 |
+| 3 | [NailTechLtd](https://github.com/NailTechLtd) | Nail Tech Ltd | @NailTechLtd |  | Kigali Rwanda | 1606 |
 | 4 | [thepiratehub](https://github.com/thepiratehub) | home of source code | @codewithedison |  | kigali rwanda | 1497 |
-| 5 | [habibundayishimiye](https://github.com/habibundayishimiye) | SPM_Habibu | UR |  | Kigali Rwanda | 1465 |
-| 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 1019 |
+| 5 | [habibundayishimiye](https://github.com/habibundayishimiye) | SPM_Habibu | UR |  | Kigali Rwanda | 1445 |
+| 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 1016 |
 | 7 | [Nsoro-Allan](https://github.com/Nsoro-Allan) | Nsoro Allan | AllanCorp |  | Kigali, Rwanda | 974 |
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 896 |
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad |  | umutambyi_gad | Kigali, Rwanda | 652 |

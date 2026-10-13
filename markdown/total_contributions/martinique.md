@@ -1,6 +1,6 @@
 # Total Contributions - Martinique
 
-Generated: 2026-10-12T20:41:33.950Z
+Generated: 2026-10-13T02:15:36.102Z
 
 Users: 75
 
@@ -9,18 +9,18 @@ Users: 75
 | 1 | [pyleglise](https://github.com/pyleglise) | Pierre-Yves Léglise | axialdata |  | Schoelcher, Martinique | 5327 |
 | 2 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 5208 |
 | 3 | [diasjorge](https://github.com/diasjorge) | Jorge Dias | http://aerisnova.com | dias_jorge | Martinique | 4938 |
-| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4386 |
+| 4 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 4404 |
 | 5 | [bolom](https://github.com/bolom) | Bolo Michelin | @scionx-io | bolomichelin | Martinique | 3234 |
 | 6 | [docVoid](https://github.com/docVoid) | void216 | pngrtz |  | Martinique | 1577 |
 | 7 | [p4cm4n972](https://github.com/p4cm4n972) | Manuel ADELE |  |  | Martinique | 1105 |
 | 8 | [esrid](https://github.com/esrid) | ADS | none | as_esrid | Martinique | 942 |
 | 9 | [R3tr8](https://github.com/R3tr8) | Franck-Emmanuel |  | R3tr8 | Martinique | 934 |
 | 10 | [vevedh](https://github.com/vevedh) | Hervé de CHAVIGNY | @phasme |  | Martinique | 821 |
-| 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit |  |  | Martinique | 745 |
+| 11 | [LePtitBiscuit](https://github.com/LePtitBiscuit) | LePtitBiscuit |  |  | Martinique | 800 |
 | 12 | [blazux](https://github.com/blazux) | Vincent B. |  |  | Martinique | 466 |
 | 13 | [ricard33](https://github.com/ricard33) | Cédric RICARD |  |  | Martinique | 380 |
 | 14 | [steeven-js](https://github.com/steeven-js) | steeven_js | Madin.IA |  | Martinique | 372 |
-| 15 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 170 |
+| 15 | [kodzukye](https://github.com/kodzukye) | Jayyy ⋆˚✿˖° |  |  | Martinique | 171 |
 | 16 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 167 |
 | 17 | [Jb-Analytics](https://github.com/Jb-Analytics) | Célia JEAN-BART |  |  | Martinique | 160 |
 | 18 | [Ulrico972](https://github.com/Ulrico972) | Ulrich Giberné | Airship |  | Martinique | 139 |

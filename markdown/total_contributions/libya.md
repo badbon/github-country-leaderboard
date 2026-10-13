@@ -1,13 +1,13 @@
 # Total Contributions - Libya
 
-Generated: 2026-10-12T20:39:09.206Z
+Generated: 2026-10-13T02:11:52.693Z
 
 Users: 742
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | ReBootKamp |  | Tripoli, Libya | 165979 |
-| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 13587 |
+| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libyan Spider |  | Libya | 13734 |
 | 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani |  |  | Libya | 12869 |
 | 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | @Artisans-Digital-Agency , @ditsly |  | Libya  | 12328 |
 | 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 12266 |

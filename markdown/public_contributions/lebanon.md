@@ -1,12 +1,12 @@
 # Public Contributions - Lebanon
 
-Generated: 2026-10-12T20:37:51.929Z
+Generated: 2026-10-13T02:11:38.089Z
 
 Users: 2570
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 3991 |
+| 1 | [1homsi](https://github.com/1homsi) | Mohamad Homsi |  | 1homsii | Lebanon | 6378 |
 | 2 | [Mazennaji](https://github.com/Mazennaji) | Mazen Naji |  |  | Lebanon | 3217 |
 | 3 | [aliscco](https://github.com/aliscco) | Ali mazloum | acme,inc |  | Beirut | 2919 |
 | 4 | [shahednasser](https://github.com/shahednasser) | Shahed Nasser | @medusajs | _shahednasser | Aaramoun, Lebanon | 2706 |
@@ -16,13 +16,13 @@ Users: 2570
 | 8 | [MahmoudAmouni](https://github.com/MahmoudAmouni) | Mahmoud Abou Amoun |  |  | Lebanon | 1998 |
 | 9 | [samerc](https://github.com/samerc) | Samer Cheaib | Fancyshark |  | Beirut | 1920 |
 | 10 | [MohammadRstm](https://github.com/MohammadRstm) | Mohammad Rostom |  |  | Beirut - Lebanon | 1819 |
-| 11 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 1671 |
-| 12 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1233 |
-| 13 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi |  |  | Lebanon | 1160 |
-| 14 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak |  |  | Lebanon,Beirut | 1138 |
-| 15 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1107 |
-| 16 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Greateck |  | Lebanon | 1082 |
-| 17 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1073 |
-| 18 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1066 |
-| 19 | [naveed-gung](https://github.com/naveed-gung) | Navid |  |  | Beirut, Lebanon | 1032 |
-| 20 | [rhamzeh](https://github.com/rhamzeh) | Raghd Hamzeh | @openfga  |  | Beirut, Lebanon | 1024 |
+| 11 | [JanoTheDev](https://github.com/JanoTheDev) | Jean Haddad |  |  | Lebanon | 1701 |
+| 12 | [AbedAmouneh](https://github.com/AbedAmouneh) | Abed El-Fattah Amouneh | @voxire |  | Lebanon | 1671 |
+| 13 | [imtithalhalalo](https://github.com/imtithalhalalo) | Imtithal Halalo |  |  | Beirut, Lebanon | 1233 |
+| 14 | [ahomsi0](https://github.com/ahomsi0) | Ahmad Homsi |  |  | Lebanon | 1160 |
+| 15 | [mahdi-alkak-1](https://github.com/mahdi-alkak-1) | Mahdi Kak |  |  | Lebanon,Beirut | 1138 |
+| 16 | [Kronbii](https://github.com/Kronbii) | Rami Kronbi | @Oreyeon |  | Beirut, LB | 1107 |
+| 17 | [mcfarhat](https://github.com/mcfarhat) | Mohammad Farhat | Greateck |  | Lebanon | 1082 |
+| 18 | [jat10](https://github.com/jat10) | Jad Tarabay | ZAQ |  | Lebanon | 1073 |
+| 19 | [mabd-dev](https://github.com/mabd-dev) | Mahmoud Abdallah |  | MABDdev | Beirut, Lebanon | 1066 |
+| 20 | [naveed-gung](https://github.com/naveed-gung) | Navid |  |  | Beirut, Lebanon | 1032 |

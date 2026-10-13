@@ -19,8 +19,8 @@ Indexed users: 24,028
 | 5 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 58,608 |
 | 6 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi | Nairobi,KE | 47,165 |
 | 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
-| 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Nairobi | 35,536 |
-| 9 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 34,624 |
+| 8 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 39,823 |
+| 9 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Nairobi | 35,536 |
 | 10 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 21,856 |
 | 11 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | Nairobi-Kenya | 21,658 |
 | 12 | [nedmoeca](https://github.com/nedmoeca) | TERRENCE M.K | Nairobi, Kenya | 20,631 |
@@ -42,7 +42,7 @@ Indexed users: 24,028
 | 3 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 131,244 |
 | 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger | Savior, kenya | 58,608 |
 | 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy | Kenya | 45,847 |
-| 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 34,624 |
+| 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko | Nairobi | 39,823 |
 | 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | Nairobi-Kenya | 21,537 |
 | 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | Nairobi, Kenya | 21,080 |
 | 9 | [allano0](https://github.com/allano0) | Allan Wachira | KENYA | 19,235 |
@@ -72,15 +72,15 @@ Indexed users: 24,028
 | 8 | [mwakidenis](https://github.com/mwakidenis) |  🐘 | Nairobi | 2,644 |
 | 9 | [jonkirathe](https://github.com/jonkirathe) | John kirathe | Nairobi, Kenya | 2,240 |
 | 10 | [Maxwell-Muthui-Mwangi](https://github.com/Maxwell-Muthui-Mwangi) | Maxwell Muthui Mwangi(Justmwangii) | Kenya | 2,233 |
-| 11 | [Mathenge-Alex](https://github.com/Mathenge-Alex) | Alex M | Nairobi, Kenya | 1,763 |
-| 12 | [iVGeek](https://github.com/iVGeek) | iVGeek | Kenya | 1,739 |
-| 13 | [fbiego](https://github.com/fbiego) | Felix Biego | Kenya | 1,604 |
-| 14 | [Dark-Xploit](https://github.com/Dark-Xploit) | Tylor | Kenya | 1,503 |
-| 15 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 1,447 |
-| 16 | [mbitujames](https://github.com/mbitujames) | Mbitu | Nairobi, Kenya | 1,442 |
-| 17 | [jumaallan](https://github.com/jumaallan) | Juma Allan | Nairobi Kenya | 1,431 |
-| 18 | [Mulandii](https://github.com/Mulandii) | Ace. | Nairobi,Kenya | 1,322 |
-| 19 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
-| 20 | [danielmuthama](https://github.com/danielmuthama) | Daniel Muthama | Nairobi, Kenya | 1,289 |
+| 11 | [Kate-mwaura](https://github.com/Kate-mwaura) | Kate Mwaura | Nairobi | 1,856 |
+| 12 | [Mathenge-Alex](https://github.com/Mathenge-Alex) | Alex M | Nairobi, Kenya | 1,763 |
+| 13 | [iVGeek](https://github.com/iVGeek) | iVGeek | Kenya | 1,739 |
+| 14 | [fbiego](https://github.com/fbiego) | Felix Biego | Kenya | 1,604 |
+| 15 | [Dark-Xploit](https://github.com/Dark-Xploit) | Tylor | Kenya | 1,503 |
+| 16 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 | Nairobi, Kenya | 1,447 |
+| 17 | [mbitujames](https://github.com/mbitujames) | Mbitu | Nairobi, Kenya | 1,442 |
+| 18 | [jumaallan](https://github.com/jumaallan) | Juma Allan | Nairobi Kenya | 1,431 |
+| 19 | [Mulandii](https://github.com/Mulandii) | Ace. | Nairobi,Kenya | 1,322 |
+| 20 | [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka) | lincoln | Nairobi and Worldwide  | 1,320 |
 
-Generated: 2026-10-12T20:34:31.769Z
+Generated: 2026-10-13T02:09:13.392Z

@@ -21,7 +21,7 @@ Indexed users: 3,525
 | 7 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Rwanda | 10,130 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | Kigali, Rwanda | 9,290 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Kigali, Rwanda | 9,232 |
-| 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 8,814 |
+| 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 9,203 |
 | 11 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE | Kigali, Rwanda | 8,563 |
 | 12 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | Kigali/Rwanda | 8,467 |
 | 13 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 8,432 |
@@ -64,10 +64,10 @@ Indexed users: 3,525
 |---:|---|---|---|---:|
 | 1 | [ikuzweelisa](https://github.com/ikuzweelisa) | Ikuzwe | Rwanda | 1,673 |
 | 2 | [Edouard144](https://github.com/Edouard144) | Edouard | Kigali, Rwanda | 1,654 |
-| 3 | [NailTechLtd](https://github.com/NailTechLtd) | Nail Tech Ltd | Kigali Rwanda | 1,608 |
+| 3 | [NailTechLtd](https://github.com/NailTechLtd) | Nail Tech Ltd | Kigali Rwanda | 1,606 |
 | 4 | [thepiratehub](https://github.com/thepiratehub) | home of source code | kigali rwanda | 1,497 |
-| 5 | [habibundayishimiye](https://github.com/habibundayishimiye) | SPM_Habibu | Kigali Rwanda | 1,465 |
-| 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 1,019 |
+| 5 | [habibundayishimiye](https://github.com/habibundayishimiye) | SPM_Habibu | Kigali Rwanda | 1,445 |
+| 6 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | Rwanda | 1,016 |
 | 7 | [Nsoro-Allan](https://github.com/Nsoro-Allan) | Nsoro Allan | Kigali, Rwanda | 974 |
 | 8 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | Kigali Rwanda | 896 |
 | 9 | [umutambyi-gad](https://github.com/umutambyi-gad) | Gad | Kigali, Rwanda | 652 |
@@ -83,4 +83,4 @@ Indexed users: 3,525
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-12T20:57:09.194Z
+Generated: 2026-10-13T02:31:24.057Z

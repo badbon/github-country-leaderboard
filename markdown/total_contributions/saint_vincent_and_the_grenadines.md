@@ -1,6 +1,6 @@
 # Total Contributions - Saint Vincent and the Grenadines
 
-Generated: 2026-10-12T20:59:39.366Z
+Generated: 2026-10-13T02:32:38.881Z
 
 Users: 26
 
@@ -14,7 +14,7 @@ Users: 26
 | 6 | [kazar4](https://github.com/kazar4) | Kazen Gallman |  |  | North Kingstown, Rhode Island | 159 |
 | 7 | [Kascique](https://github.com/Kascique) | Kascique Lowmans |  |  | Saint Vincent and the Grenadines | 40 |
 | 8 | [dellon28](https://github.com/dellon28) | Dellonte Boucher |  |  | Saint Vincent and the Grenadines | 25 |
-| 9 | [Richardson-Rayshorn](https://github.com/Richardson-Rayshorn) | Rayshorn Richardson | Eknotec Services Ltd |  | Saint Vincent and the Grenadines | 5 |
+| 9 | [Richardson-Rayshorn](https://github.com/Richardson-Rayshorn) | Rayshorn Richardson | Eknotec Services Ltd |  | Saint Vincent and the Grenadines | 4 |
 | 10 | [Tomrish](https://github.com/Tomrish) | Tom Rishworth | New England FIRST |  | North Kingstown, RI | 3 |
 | 11 | [lihadaway](https://github.com/lihadaway) | Leslie |  |  | Saint Vincent and the Grenadines | 1 |
 | 12 | [pepperseed](https://github.com/pepperseed) | Hariet Caine | Gov vc |  | Kingstown VC | 1 |

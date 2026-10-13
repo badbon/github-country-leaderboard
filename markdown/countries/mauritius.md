@@ -41,7 +41,7 @@ Indexed users: 714
 | 2 | [wyxos](https://github.com/wyxos) | Wyxos | Mauritius | 4,221 |
 | 3 | [Redstoneinvente](https://github.com/Redstoneinvente) | Doshagyasing Gowardun | Mauritius | 2,228 |
 | 4 | [AQUILA04](https://github.com/AQUILA04) | Francis AHONSOU | Port-Louis, Mauritius \| Lomé, Togo | 1,690 |
-| 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,528 |
+| 5 | [asvinb](https://github.com/asvinb) | Asvin Balloo | Mauritius | 1,577 |
 | 6 | [xelab04](https://github.com/xelab04) | Alex Bissessur | Mauritius | 1,485 |
 | 7 | [MrSunshyne](https://github.com/MrSunshyne) | Sandeep Ramgolam | Mauritius | 1,426 |
 | 8 | [eznix86](https://github.com/eznix86) | Bruno Bernard | Mauritius | 1,371 |
@@ -49,7 +49,7 @@ Indexed users: 714
 | 10 | [Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ) | Abdur-Rahmaan Janhangeer | Mauritius | 1,307 |
 | 11 | [Andriamahay11master](https://github.com/Andriamahay11master) | Andriamahay Henikaja IRIMANANA | Trianon, Mauritius | 1,009 |
 | 12 | [jochenkirstaetter](https://github.com/jochenkirstaetter) | Jochen Kirstätter | Mauritius | 994 |
-| 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 851 |
+| 13 | [BarbUk](https://github.com/BarbUk) | Julien Virey | Mauritius | 878 |
 | 14 | [rragoomundun](https://github.com/rragoomundun) | Raphael Ragoomundun | Mauritius | 672 |
 | 15 | [cbillowes](https://github.com/cbillowes) | Clarice Bouwer | Mauritius | 632 |
 | 16 | [w1am](https://github.com/w1am) | William Chong | Mauritius | 629 |
@@ -83,4 +83,4 @@ Indexed users: 714
 | 19 | [MaskyS](https://github.com/MaskyS) | Kifah M | Mauritius | 74 |
 | 20 | [umarmw](https://github.com/umarmw) | Umar Waliyullah | Mauritius | 66 |
 
-Generated: 2026-10-12T20:41:42.403Z
+Generated: 2026-10-13T02:15:42.633Z

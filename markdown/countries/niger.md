@@ -24,7 +24,7 @@ Indexed users: 176
 | 10 | [5mamane](https://github.com/5mamane) | Mamane I. | Niamey | 950 |
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | Niamey Niger | 946 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | Niger | 768 |
-| 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 752 |
+| 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 749 |
 | 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 696 |
 | 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael | Niamey & Lomé | 587 |
 | 16 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 520 |
@@ -53,8 +53,8 @@ Indexed users: 176
 | 14 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 103 |
 | 15 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA | Niamey, Niger  | 103 |
 | 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Niamey, Niger | 98 |
-| 17 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
-| 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 89 |
+| 17 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn | Niger, Niamey | 97 |
+| 18 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif | Niamey Niger | 95 |
 | 19 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Zinder, Niger | 87 |
 | 20 | [HonourObed](https://github.com/HonourObed) | Eje Obed Honour | Minna, Niger, Nigeria | 86 |
 
@@ -79,8 +79,8 @@ Indexed users: 176
 | 15 | [haouaenikoye](https://github.com/haouaenikoye) | QueenTech | Niamey-Niger | 21 |
 | 16 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly | Niamey, Niger | 19 |
 | 17 | [yayeousmane](https://github.com/yayeousmane) | Ousmane Soumaila Yaye  | Niger Niamey  | 19 |
-| 18 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha | Niamey-Niger | 18 |
-| 19 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
-| 20 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
+| 18 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou | Niamey/Niger | 18 |
+| 19 | [ibkhall](https://github.com/ibkhall) | Ibrahim Boubacar | Niamey | 17 |
+| 20 | [ibrahimcheik](https://github.com/ibrahimcheik) | Amadou Moussa Ibrahim | Niamey | 17 |
 
-Generated: 2026-10-12T20:48:08.681Z
+Generated: 2026-10-13T02:23:24.403Z

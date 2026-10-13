@@ -1,6 +1,6 @@
 # Public Contributions - Niger
 
-Generated: 2026-10-12T20:48:08.681Z
+Generated: 2026-10-13T02:23:24.403Z
 
 Users: 176
 
@@ -22,7 +22,7 @@ Users: 176
 | 14 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 103 |
 | 15 | [MahamadouG0](https://github.com/MahamadouG0) | Mahamadou GARBA |  | GarbaM38909 | Niamey, Niger  | 103 |
 | 16 | [abbuss11](https://github.com/abbuss11) | ABBA | Mi+ | abbuss_227 | Niamey, Niger | 98 |
-| 17 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
-| 18 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 89 |
+| 17 | [annmart-svg](https://github.com/annmart-svg) | Anna Martyn |  |  | Niger, Niamey | 97 |
+| 18 | [youss-uiux](https://github.com/youss-uiux) | Aboubacar Youssif |  |  | Niamey Niger | 95 |
 | 19 | [F3T1W](https://github.com/F3T1W) | Vlad Matiushin | Refactor Factory | elonmusk | Zinder, Niger | 87 |
 | 20 | [HonourObed](https://github.com/HonourObed) | Eje Obed Honour | Federal University of Technology Minna |  | Minna, Niger, Nigeria | 86 |

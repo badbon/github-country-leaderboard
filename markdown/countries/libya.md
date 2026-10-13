@@ -13,7 +13,7 @@ Indexed users: 742
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,979 |
-| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 13,587 |
+| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 13,734 |
 | 3 | [ZeroGDrive](https://github.com/ZeroGDrive) | Ayoub Alfurjani | Libya | 12,869 |
 | 4 | [Arjeeah](https://github.com/Arjeeah) | Arjeeah | Libya  | 12,328 |
 | 5 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly | Libya | 12,266 |
@@ -38,7 +38,7 @@ Indexed users: 742
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Abdlrrahman](https://github.com/Abdlrrahman) | Abdlrrahman Shibani | Tripoli, Libya | 165,107 |
-| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,471 |
+| 2 | [mohn93](https://github.com/mohn93) | Mohaned Benmesken | Libya | 3,475 |
 | 3 | [Uldy-USDBOT](https://github.com/Uldy-USDBOT) | ULDY | Libya | 1,085 |
 | 4 | [OthmanHaba](https://github.com/OthmanHaba) |  Othman Haba  (ง'̀-'́)ง     | Tripoli Libya | 1,062 |
 | 5 | [safwan12salem](https://github.com/safwan12salem) | Safwan Salem  | libya | 1,020 |
@@ -83,4 +83,4 @@ Indexed users: 742
 | 19 | [ZizouHuweidi](https://github.com/ZizouHuweidi) | El Zubeir Huweidi | Benghazi, Libya | 52 |
 | 20 | [Islam-alshiki](https://github.com/Islam-alshiki) | Islam alshiki | Benghazi, Libya | 49 |
 
-Generated: 2026-10-12T20:39:09.206Z
+Generated: 2026-10-13T02:11:52.693Z

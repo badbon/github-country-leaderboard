@@ -83,4 +83,4 @@ Indexed users: 2,197
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 194 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-12T20:39:46.674Z
+Generated: 2026-10-13T02:13:10.965Z

@@ -1,6 +1,6 @@
 # Total Contributions - Montenegro
 
-Generated: 2026-10-12T20:44:32.110Z
+Generated: 2026-10-13T02:18:53.719Z
 
 Users: 891
 
@@ -14,8 +14,8 @@ Users: 891
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Quicknode Inc |  | Montenegro | 6642 |
 | 7 | [jare25](https://github.com/jare25) | Miloš Jaredić |  |  | Podgorica, Montenegro | 6487 |
 | 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev |  |  | Montenegro | 6223 |
-| 9 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 6098 |
-| 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5796 |
+| 9 | [recursion128](https://github.com/recursion128) | DDDDOGE |  |  | Crna Gora | 6213 |
+| 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | @DeSource-Labs |  | Montenegro, Budva | 5983 |
 | 11 | [aco228](https://github.com/aco228) | Aleksandar Konatar | Likvido |  | Podgorica | 5767 |
 | 12 | [1v4n4](https://github.com/1v4n4) |  | Fix The Status Quo |  | Montenegro | 5645 |
 | 13 | [pokidov](https://github.com/pokidov) | Kirill Pokidov | AAA Consulting |  | Montenegro | 5409 |

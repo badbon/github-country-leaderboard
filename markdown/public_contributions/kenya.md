@@ -1,6 +1,6 @@
 # Public Contributions - Kenya
 
-Generated: 2026-10-12T20:34:31.769Z
+Generated: 2026-10-13T02:09:13.392Z
 
 Users: 24028
 
@@ -11,7 +11,7 @@ Users: 24028
 | 3 | [Bd-Mutant7](https://github.com/Bd-Mutant7) | 7 |  | BdMutant | Nairobi, Kenya | 131244 |
 | 4 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 58608 |
 | 5 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
-| 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 34624 |
+| 6 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 39823 |
 | 7 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | FINTECH-GROUP | alexkemboi97 | Nairobi-Kenya | 21537 |
 | 8 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | xcasper.space |  | Nairobi, Kenya | 21080 |
 | 9 | [allano0](https://github.com/allano0) | Allan Wachira |  |  | KENYA | 19235 |

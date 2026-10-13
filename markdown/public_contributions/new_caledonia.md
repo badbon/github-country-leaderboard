@@ -1,6 +1,6 @@
 # Public Contributions - New Caledonia
 
-Generated: 2026-10-12T20:46:56.876Z
+Generated: 2026-10-13T02:21:51.140Z
 
 Users: 111
 
@@ -16,7 +16,7 @@ Users: 111
 | 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 337 |
 | 9 | [jchable](https://github.com/jchable) | Julien CHABLE | NC IT |  | Nouméa | 322 |
 | 10 | [loxK](https://github.com/loxK) | Laurent Dinclaux | Gecka |  | New Caledonia | 284 |
-| 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 230 |
+| 11 | [ahyolia](https://github.com/ahyolia) | Camélia AMIN HANDOYO |  |  | New Caledonia | 238 |
 | 12 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 222 |
 | 13 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 216 |
 | 14 | [kibagami-nc](https://github.com/kibagami-nc) | Manley.B |  |  | New-Caledonia | 157 |
@@ -25,4 +25,4 @@ Users: 111
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 125 |
 | 18 | [thhomas](https://github.com/thhomas) | Thomas Tilak |  |  | Nouméa | 118 |
 | 19 | [Esncminas](https://github.com/Esncminas) | DUCTANE Adrien | INFOBAM NC |  | NEW CALEDONIA | 108 |
-| 20 | [nevizsh](https://github.com/nevizsh) | Nevi |  |  | New Caledonia | 101 |
+| 20 | [nevizsh](https://github.com/nevizsh) | Nevi |  |  | New Caledonia | 102 |

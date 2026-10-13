@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-12T20:53:58.320Z
+Generated: 2026-10-13T02:26:37.138Z
 
 Users: 296
 
@@ -23,6 +23,6 @@ Users: 296
 | 15 | [jebudo](https://github.com/jebudo) | Jesse Biribudo |  |  | Port Moresby, Papua New Guinea | 563 |
 | 16 | [TMJ-24](https://github.com/TMJ-24) | tmj | https://jershmamet.com |  | Port Moresby | 452 |
 | 17 | [rudoq007](https://github.com/rudoq007) | WanixRSGIS |  |  | Papua New Guinea | 330 |
-| 18 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
-| 19 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Skoonters |  | Papua New Guinea | 289 |
+| 18 | [jeremykes](https://github.com/jeremykes) | Jeremy Kes Palme  | Skoonters |  | Papua New Guinea | 305 |
+| 19 | [mrwicktheprogrammer](https://github.com/mrwicktheprogrammer) | Jonathan Kamalan |  |  | Mt Hagen, Western Highlands Province, Papua New Guinea | 294 |
 | 20 | [gbajesns](https://github.com/gbajesns) | Gabriel Baje | SNS Tech  |  | Papua New Guinea | 269 |

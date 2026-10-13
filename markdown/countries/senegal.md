@@ -41,7 +41,7 @@ Indexed users: 1,357
 | 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,262 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,059 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,810 |
-| 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,534 |
+| 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,508 |
 | 6 | [IbrahimaTall](https://github.com/IbrahimaTall) | Ibrahima TALL | Dakar, Senegal | 2,015 |
 | 7 | [thesenegalesehitch](https://github.com/thesenegalesehitch) | Alexandre Albert Ndour | Rufisque, Dakar, Sénégal | 1,902 |
 | 8 | [unic-backend](https://github.com/unic-backend) | Ousmane | dakar senegal | 1,760 |
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-13T01:53:23.017Z
+Generated: 2026-10-13T02:33:48.257Z

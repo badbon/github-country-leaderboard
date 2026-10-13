@@ -1,6 +1,6 @@
 # Followers - Madagascar
 
-Generated: 2026-10-12T20:39:55.619Z
+Generated: 2026-10-13T02:13:17.147Z
 
 Users: 1906
 
@@ -17,7 +17,7 @@ Users: 1906
 | 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | @GhosTCorp  | NSFitiavana | Antananarivo, Madagascar | 213 |
 | 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Kleonix |  | Antananarivo, Madagascar | 184 |
 | 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA |  |  | Antananarivo - MADAGASCAR | 175 |
-| 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina |  |  | Antananarivo Madagascar | 166 |
+| 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina |  |  | Antananarivo Madagascar | 171 |
 | 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | @iTeam-S |  | Antananarivo - Madagascar | 165 |
 | 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | @iTeam-S |  | Toamasina, Madagascar | 164 |
 | 15 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina |  | lovanirina_r | Madagascar, Antananarivo | 158 |

@@ -12,11 +12,11 @@ Indexed users: 209
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,710 |
+| 1 | [FranklinD10](https://github.com/FranklinD10) | FrApps | Liberia | 7,725 |
 | 2 | [RA9](https://github.com/RA9) | Carlos S. Nah  | Liberia  | 5,268 |
 | 3 | [Forratino21](https://github.com/Forratino21) | Courage J. F. T Chileegbo | Liberia | 3,338 |
 | 4 | [Abayoh](https://github.com/Abayoh) | Alexander Bayoh | Monrovia, Liberia | 2,951 |
-| 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,103 |
+| 5 | [deginmulbah](https://github.com/deginmulbah) | Jenkins D.Mulbah | Liberia,Monrovia | 2,100 |
 | 6 | [priceflex](https://github.com/priceflex) | Steven Price | Monrovia, CA | 1,516 |
 | 7 | [timtjoe](https://github.com/timtjoe) | Tim T. Joe | Liberia, West Africa | 1,436 |
 | 8 | [arunponnappan](https://github.com/arunponnappan) | Arun P | Monrovia | 1,380 |
@@ -49,7 +49,7 @@ Indexed users: 209
 | 10 | [AlexUG0104](https://github.com/AlexUG0104) | Alexander Umaña  | Liberia | 286 |
 | 11 | [prince14-D](https://github.com/prince14-D) | Dr. Prince W Dahn Jr | Liberia | 256 |
 | 12 | [SimeonATarr231](https://github.com/SimeonATarr231) | Simeon Aseon Tarr | Buchanan City, Liberia | 210 |
-| 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 196 |
+| 13 | [FitzgeraldChallar](https://github.com/FitzgeraldChallar) | Fitzgerald Challar | Ontario, Canada & Monrovia, Liberia | 198 |
 | 14 | [Deviskalo](https://github.com/Deviskalo) | Dev Iskalo | Monrovia, Liberia | 179 |
 | 15 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | Monrovia, Liberia | 172 |
 | 16 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 157 |
@@ -83,4 +83,4 @@ Indexed users: 209
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 22 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-12T20:39:02.791Z
+Generated: 2026-10-13T02:11:46.596Z

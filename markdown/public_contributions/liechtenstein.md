@@ -1,15 +1,15 @@
 # Public Contributions - Liechtenstein
 
-Generated: 2026-10-12T20:39:37.557Z
+Generated: 2026-10-13T02:11:55.138Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 1932 |
-| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1680 |
+| 2 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1684 |
 | 3 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1149 |
-| 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 718 |
+| 4 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 719 |
 | 5 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 654 |
 | 6 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 589 |
 | 7 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 529 |

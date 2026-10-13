@@ -12,11 +12,11 @@ Indexed users: 19
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,745 |
-| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,423 |
-| 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 997 |
+| 1 | [Green-Ranger11](https://github.com/Green-Ranger11) | Alesana Eteuati Jr | Samoa | 4,858 |
+| 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 1,433 |
+| 3 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,007 |
 | 4 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 330 |
-| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 105 |
+| 5 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 106 |
 | 6 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
 | 7 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 71 |
 | 8 | [tavitas](https://github.com/tavitas) | Tavita Su'a | Samoa | 44 |
@@ -36,9 +36,9 @@ Indexed users: 19
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 997 |
+| 1 | [Hamobcdev](https://github.com/Hamobcdev) | Anthony George Williams | Samoa | 1,007 |
 | 2 | [genebarker](https://github.com/genebarker) | Eugene F. Barker | Apia, Samoa | 217 |
-| 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 105 |
+| 3 | [ainsofs](https://github.com/ainsofs) | Ainsof So'o | Samoa | 106 |
 | 4 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 93 |
 | 5 | [iwtem](https://github.com/iwtem) | Iwtem | Samoa | 75 |
 | 6 | [Radr443](https://github.com/Radr443) | Radr | Samoa  | 71 |
@@ -80,4 +80,4 @@ Indexed users: 19
 | 18 | [xfy777](https://github.com/xfy777) | xfy | Samoa | 2 |
 | 19 | [RichardVBoi](https://github.com/RichardVBoi) | Richard  Panama Vaalotu | Apia Samoa | 1 |
 
-Generated: 2026-10-12T20:59:43.275Z
+Generated: 2026-10-13T02:32:42.245Z

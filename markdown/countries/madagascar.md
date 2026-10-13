@@ -73,7 +73,7 @@ Indexed users: 1,906
 | 9 | [GhosTHaise](https://github.com/GhosTHaise) | Fitiavana Sambatra | Antananarivo, Madagascar | 213 |
 | 10 | [KiadyNirina](https://github.com/KiadyNirina) | Kiady | Antananarivo, Madagascar | 184 |
 | 11 | [NajoroRabiaza](https://github.com/NajoroRabiaza) | Amboara RAJAONARILALA | Antananarivo - MADAGASCAR | 175 |
-| 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina | Antananarivo Madagascar | 166 |
+| 12 | [RajaRakoto](https://github.com/RajaRakoto) | Raja Rakotonirina | Antananarivo Madagascar | 171 |
 | 13 | [dario208](https://github.com/dario208) | TSIAHOUA Feno Dario Dasylva | Antananarivo - Madagascar | 165 |
 | 14 | [gaetan1903](https://github.com/gaetan1903) | Gaetan Jonathan BAKARY | Toamasina, Madagascar | 164 |
 | 15 | [Ryuka25](https://github.com/Ryuka25) | Lovanirina | Madagascar, Antananarivo | 158 |
@@ -83,4 +83,4 @@ Indexed users: 1,906
 | 19 | [Mickaellah](https://github.com/Mickaellah) | Clopedia Nomenjanahary | Toamasina, Madagascar | 144 |
 | 20 | [tokyramarozaka](https://github.com/tokyramarozaka) | Tokimahery | Madagascar | 143 |
 
-Generated: 2026-10-12T20:39:55.619Z
+Generated: 2026-10-13T02:13:17.147Z

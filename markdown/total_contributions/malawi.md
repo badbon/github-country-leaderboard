@@ -1,12 +1,12 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-12T20:40:00.398Z
+Generated: 2026-10-13T02:13:24.507Z
 
 Users: 900
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | INFI-TECH(Infinity Technologies Inc) @InfinityCodeMw  as well as @talents2germany |  | Malawi | 13606 |
+| 1 | [dthyolerak](https://github.com/dthyolerak) | Donnex Thyolera Kamsonga | INFI-TECH(Infinity Technologies Inc) @InfinityCodeMw  as well as @talents2germany |  | Malawi | 13668 |
 | 2 | [kachaje](https://github.com/kachaje) | Chimwemwe Kachaje |  |  | Lilongwe, Malawi | 10316 |
 | 3 | [calmwalija](https://github.com/calmwalija) | Comfort Mwalija |  |  | Malawi, Lilongwe | 7351 |
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6538 |
@@ -21,8 +21,8 @@ Users: 900
 | 13 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 3931 |
 | 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 3687 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe |  | FrankGondwe11 | Malawi | 3455 |
-| 16 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3210 |
-| 17 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3194 |
+| 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Self |  | Malawi | 3194 |
+| 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | @creditdatamw |  | Blantyre, Malawi | 3184 |
 | 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | @InfinityCodeMw  | IsaacKalam44251 | Lilongwe | 3136 |
 | 19 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | EvanieWares | EvanieWares | Malawi | 3055 |
 | 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Veigatec |  | Lilongwe, Malawi | 3054 |

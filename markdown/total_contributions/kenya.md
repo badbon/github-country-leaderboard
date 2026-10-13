@@ -1,6 +1,6 @@
 # Total Contributions - Kenya
 
-Generated: 2026-10-12T20:34:31.769Z
+Generated: 2026-10-13T02:09:13.392Z
 
 Users: 24028
 
@@ -13,8 +13,8 @@ Users: 24028
 | 5 | [FeyrithhbcQC8](https://github.com/FeyrithhbcQC8) | MythForger |  |  | Savior, kenya | 58608 |
 | 6 | [gkarumbi](https://github.com/gkarumbi) | George Karumbi |  | gkarumbi | Nairobi,KE | 47165 |
 | 7 | [amdefiguy](https://github.com/amdefiguy) | Defi Guy |  |  | Kenya | 45847 |
-| 8 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Datacraft |  | Nairobi | 35536 |
-| 9 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 34624 |
+| 8 | [MathewKioko](https://github.com/MathewKioko) | Mathew Kioko |  |  | Nairobi | 39823 |
+| 9 | [nyimbi](https://github.com/nyimbi) | Nyimbi Odero | Datacraft |  | Nairobi | 35536 |
 | 10 | [Casper-Tech-ke](https://github.com/Casper-Tech-ke) | Casper Tech Kenya | xcasper.space |  | Nairobi, Kenya | 21856 |
 | 11 | [alexkemboi](https://github.com/alexkemboi) | ALEX KEMBOI | FINTECH-GROUP | alexkemboi97 | Nairobi-Kenya | 21658 |
 | 12 | [nedmoeca](https://github.com/nedmoeca) | TERRENCE M.K |  | nedmoeca | Nairobi, Kenya | 20631 |

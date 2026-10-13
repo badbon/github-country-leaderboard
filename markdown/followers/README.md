@@ -142,12 +142,12 @@ Published countries: 234
 | Mongolia | 805 | [View](./mongolia.md) |
 | Montenegro | 891 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,654 | [View](./morocco.md) |
+| Morocco | 9,653 | [View](./morocco.md) |
 | Mozambique | 1,176 | [View](./mozambique.md) |
 | Myanmar | 2,068 | [View](./myanmar.md) |
 | Namibia | 476 | [View](./namibia.md) |
 | Nauru | 3 | [View](./nauru.md) |
-| Nepal | 14,128 | [View](./nepal.md) |
+| Nepal | 14,127 | [View](./nepal.md) |
 | New Caledonia | 111 | [View](./new_caledonia.md) |
 | New Zealand | 12,154 | [View](./new_zealand.md) |
 | Nicaragua | 1,395 | [View](./nicaragua.md) |
@@ -156,20 +156,20 @@ Published countries: 234
 | Niue | 4 | [View](./niue.md) |
 | Norfolk Island | 2 | [View](./norfolk_island.md) |
 | North Korea | 185 | [View](./north_korea.md) |
-| North Macedonia | 1,930 | [View](./north_macedonia.md) |
+| North Macedonia | 1,929 | [View](./north_macedonia.md) |
 | Northern Mariana Islands | 13 | [View](./northern_mariana_islands.md) |
-| Norway | 19,632 | [View](./norway.md) |
+| Norway | 19,631 | [View](./norway.md) |
 | Oman | 994 | [View](./oman.md) |
-| Pakistan | 41,900 | [View](./pakistan.md) |
+| Pakistan | 41,899 | [View](./pakistan.md) |
 | Palau | 2 | [View](./palau.md) |
 | Palestine | 2,203 | [View](./palestine.md) |
 | Panama | 1,070 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,016 | [View](./paraguay.md) |
 | Peru | 9,785 | [View](./peru.md) |
-| Philippines | 19,795 | [View](./philippines.md) |
+| Philippines | 19,794 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
-| Portugal | 28,460 | [View](./portugal.md) |
+| Portugal | 28,459 | [View](./portugal.md) |
 | Puerto Rico | 1,537 | [View](./puerto_rico.md) |
 | Qatar | 1,073 | [View](./qatar.md) |
 | Republic of the Congo | 299 | [View](./republic_of_the_congo.md) |
@@ -197,7 +197,7 @@ Published countries: 234
 | Slovenia | 3,103 | [View](./slovenia.md) |
 | Solomon Islands | 19 | [View](./solomon_islands.md) |
 | Somalia | 867 | [View](./somalia.md) |
-| South Africa | 17,943 | [View](./south_africa.md) |
+| South Africa | 17,944 | [View](./south_africa.md) |
 | South Georgia | 6 | [View](./south_georgia.md) |
 | South Korea | 56,933 | [View](./south_korea.md) |
 | South Sudan | 132 | [View](./south_sudan.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,339 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-13T02:08:21.493Z
+Generated: 2026-10-13T02:36:54.199Z

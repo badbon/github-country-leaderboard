@@ -1,6 +1,6 @@
 # Total Contributions - Rwanda
 
-Generated: 2026-10-12T20:57:09.194Z
+Generated: 2026-10-13T02:31:24.057Z
 
 Users: 3525
 
@@ -15,7 +15,7 @@ Users: 3525
 | 7 | [Chaste-Djaziri](https://github.com/Chaste-Djaziri) | Chaste Djaziri | Micorp |  | Rwanda | 10130 |
 | 8 | [iAmNsengi](https://github.com/iAmNsengi) | Eliezer Nsengi | KB21 |  | Kigali, Rwanda | 9290 |
 | 9 | [Icyubahiro-Jay-P](https://github.com/Icyubahiro-Jay-P) | JAY P | Diolichat |  | Kigali, Rwanda | 9232 |
-| 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 8814 |
+| 10 | [codeWithEdison](https://github.com/codeWithEdison) | Edison UWIHANGANYE | UR Binary Hub |  | Rwanda | 9203 |
 | 11 | [princechrix](https://github.com/princechrix) | Prince Christian ISHIMWE |  |  | Kigali, Rwanda | 8563 |
 | 12 | [MugemaneBertin2001](https://github.com/MugemaneBertin2001) | Mugemane Bertin | GeminTech | MugemaneB | Kigali/Rwanda | 8467 |
 | 13 | [ProgrammerDATCH](https://github.com/ProgrammerDATCH) | Mr. David | @gokabisa | ProgrammerDATCH | Kigali Rwanda | 8432 |
