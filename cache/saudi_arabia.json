@@ -17168,7 +17168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 23,
     "createdAt": "2023-04-03T10:14:44Z"
   },
   {
@@ -17202,7 +17202,7 @@
     "location": "Saudi Arabia , Jeddah",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2023-11-09T09:50:16Z"
@@ -17238,7 +17238,7 @@
     "location": "Saudi Arabia",
     "company": "@Unix-Team1 ",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2023-10-04T09:04:38Z"
@@ -17251,8 +17251,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 24,
-    "publicContributions": 49,
+    "privateContributions": 29,
+    "publicContributions": 56,
     "createdAt": "2023-01-09T07:00:26Z"
   },
   {
@@ -17276,7 +17276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-10-16T09:38:32Z"
   },
   {
@@ -17288,7 +17288,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 12,
     "createdAt": "2023-05-17T18:49:23Z"
   },
   {
@@ -17300,7 +17300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 4,
-    "publicContributions": 32,
+    "publicContributions": 0,
     "createdAt": "2023-05-20T11:55:51Z"
   },
   {
@@ -17364,18 +17364,6 @@
     "createdAt": "2023-02-17T17:59:05Z"
   },
   {
-    "login": "Fahad-Mutlaq",
-    "name": "Fahad Mutlaq Alharbi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128253866?s=72&u=20d42e285831de23d4ac84248b7bc9a5a2c9eac4&v=4",
-    "location": "Riyadh, Saudi Arabia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 67,
-    "createdAt": "2023-03-18T18:44:36Z"
-  },
-  {
     "login": "meem298",
     "name": "Maitha",
     "avatarUrl": "https://avatars.githubusercontent.com/u/149906236?s=72&u=0487c9785256124ab5a028a71197b80514687151&v=4",
@@ -17384,7 +17372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 52,
     "createdAt": "2023-11-04T21:05:02Z"
   },
   {
