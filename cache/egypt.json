@@ -409066,5 +409066,53 @@
     "privateContributions": 8255,
     "publicContributions": 0,
     "createdAt": "2016-12-10T15:07:32Z"
+  },
+  {
+    "login": "usufalbaz",
+    "name": "Yousuf Albaz",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298055926?s=72&u=25033b867b1df205a5fdc6dc7467f3aa82748236&v=4",
+    "location": "Egypt",
+    "company": "",
+    "twitterUsername": "usufalbaz",
+    "followers": 8,
+    "privateContributions": 12,
+    "publicContributions": 191,
+    "createdAt": "2026-06-29T21:56:34Z"
+  },
+  {
+    "login": "ENG-AmrOsama",
+    "name": "Amr Osama",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297879565?s=72&u=8e612e726105447e00709ecf076742021ba5c090&v=4",
+    "location": "Egypt",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-29T10:40:57Z"
+  },
+  {
+    "login": "aliabdelffadil-netizen",
+    "name": "Ali Ahmed ",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/298050672?s=72&u=0308dfa520e48d0126cf12c26ddc81d5601d4361&v=4",
+    "location": "Egypt",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 24,
+    "createdAt": "2026-06-29T21:27:32Z"
+  },
+  {
+    "login": "othvmAi",
+    "name": "OTHVM",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297811095?s=72&u=2ef72c90447c135f5fb28ed5973ce1ee6ea98401&v=4",
+    "location": "Egypt",
+    "company": "OTHVM",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 11,
+    "createdAt": "2026-06-29T06:49:23Z"
   }
 ]

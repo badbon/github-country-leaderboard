@@ -17647,8 +17647,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 76,
-    "publicContributions": 7,
+    "privateContributions": 24,
+    "publicContributions": 4,
     "createdAt": "2024-02-05T11:27:07Z"
   },
   {
@@ -17674,18 +17674,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-03-11T20:10:34Z"
-  },
-  {
-    "login": "RoxanneJCoelho",
-    "name": "Roxanne Coelho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163065171?s=72&u=31b1b24397290901834687fb8cec1d9c981dccbe&v=4",
-    "location": "Portugal",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 56,
-    "createdAt": "2024-03-11T22:28:46Z"
   },
   {
     "login": "alfacearlindo",
@@ -17732,7 +17720,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 9,
     "createdAt": "2024-06-26T14:06:09Z"
   },
   {
@@ -17750,13 +17738,13 @@
   {
     "login": "AnamfSoares",
     "name": "Ana Soares",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171793700?s=72&u=4673ac8b36b6c11452bc445dd23801e5252c88db&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171793700?s=72&u=a0670437a88f3531e3afe1f33480a59b312249d6&v=4",
     "location": "Portugal",
     "company": "@TCBarreiro ",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2024-06-05T09:26:39Z"
   },
   {
@@ -17766,7 +17754,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-06-23T09:39:31Z"
@@ -17776,11 +17764,11 @@
     "name": "Martim Machado",
     "avatarUrl": "https://avatars.githubusercontent.com/u/158637093?s=72&u=63ba3e72ea8507a1b071c4a7f3f70a719f3daf77&v=4",
     "location": "Portugal",
-    "company": "@ntm-dev-organization ",
+    "company": "@silentra-dev",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 719,
+    "publicContributions": 2400,
     "createdAt": "2024-02-03T00:05:31Z"
   },
   {
@@ -17804,7 +17792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 91,
     "createdAt": "2024-04-23T22:31:53Z"
   },
   {
@@ -17850,7 +17838,7 @@
     "location": "Lisbon, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-04-11T20:40:50Z"

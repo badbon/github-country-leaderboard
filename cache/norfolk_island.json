@@ -1,17 +1,5 @@
 [
   {
-    "login": "ENIGMA2O5",
-    "name": "ENGIMA205",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98743862?s=72&u=204966e2da33b515a27dc72e8bfaf159b3075a9f&v=4",
-    "location": "norfolk island",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2022-01-31T10:50:00Z"
-  },
-  {
     "login": "mark-ssd",
     "name": "Mark SSD",
     "avatarUrl": "https://avatars.githubusercontent.com/u/26331077?s=72&u=31656568e3589a48c716d21da9a5a30fcfdec995&v=4",
@@ -19,7 +7,7 @@
     "company": "SSD Technologies",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 813,
+    "privateContributions": 814,
     "publicContributions": 1014,
     "createdAt": "2017-03-10T16:57:40Z"
   }
