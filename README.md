@@ -14,11 +14,11 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Iceland](markdown/countries/iceland.md) | 1,580 | [Public](markdown/public_contributions/iceland.md) | [Total](markdown/total_contributions/iceland.md) | [Followers](markdown/followers/iceland.md) |
-| [Guinea](markdown/countries/guinea.md) | 263 | [Public](markdown/public_contributions/guinea.md) | [Total](markdown/total_contributions/guinea.md) | [Followers](markdown/followers/guinea.md) |
-| [Isle of Man](markdown/countries/isle_of_man.md) | 155 | [Public](markdown/public_contributions/isle_of_man.md) | [Total](markdown/total_contributions/isle_of_man.md) | [Followers](markdown/followers/isle_of_man.md) |
-| [Greece](markdown/countries/greece.md) | 15,577 | [Public](markdown/public_contributions/greece.md) | [Total](markdown/total_contributions/greece.md) | [Followers](markdown/followers/greece.md) |
-| [South Africa](markdown/countries/south_africa.md) | 17,944 | [Public](markdown/public_contributions/south_africa.md) | [Total](markdown/total_contributions/south_africa.md) | [Followers](markdown/followers/south_africa.md) |
+| [Cameroon](markdown/countries/cameroon.md) | 1,799 | [Public](markdown/public_contributions/cameroon.md) | [Total](markdown/total_contributions/cameroon.md) | [Followers](markdown/followers/cameroon.md) |
+| [Botswana](markdown/countries/botswana.md) | 533 | [Public](markdown/public_contributions/botswana.md) | [Total](markdown/total_contributions/botswana.md) | [Followers](markdown/followers/botswana.md) |
+| [Turkey](markdown/countries/turkey.md) | 79,151 | [Public](markdown/public_contributions/turkey.md) | [Total](markdown/total_contributions/turkey.md) | [Followers](markdown/followers/turkey.md) |
+| [Guatemala](markdown/countries/guatemala.md) | 3,222 | [Public](markdown/public_contributions/guatemala.md) | [Total](markdown/total_contributions/guatemala.md) | [Followers](markdown/followers/guatemala.md) |
+| [Saint Martin](markdown/countries/saint_martin.md) | 8 | [Public](markdown/public_contributions/saint_martin.md) | [Total](markdown/total_contributions/saint_martin.md) | [Followers](markdown/followers/saint_martin.md) |
 
 ## How It Works
 
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-12T21:03:31.595Z
+Generated: 2026-10-13T02:08:21.493Z

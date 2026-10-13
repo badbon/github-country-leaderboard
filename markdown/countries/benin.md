@@ -41,18 +41,18 @@ Indexed users: 471
 | 2 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy | Cotonou, Benin | 7,864 |
 | 3 | [Crazyde](https://github.com/Crazyde) | ACHIDI Corneille | Cotonou, Benin | 2,512 |
 | 4 | [jprud67](https://github.com/jprud67) | Prudence  Dieudonné Assogba | Benin, cotonou | 2,118 |
-| 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,796 |
+| 5 | [Tryboy869](https://github.com/Tryboy869) | Abdoul Anzize Daouda | Benin | 1,797 |
 | 6 | [Simonaks](https://github.com/Simonaks) | Simon AVOSSE | Benin | 1,637 |
-| 7 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,455 |
-| 8 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,440 |
-| 9 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,416 |
+| 7 | [octavebahoun](https://github.com/octavebahoun) | Octave BAHOUN-HOUTOUKPE | Benin | 1,494 |
+| 8 | [Hop-Syder](https://github.com/Hop-Syder) | ISMAEL CHRISTIAN DAOUDA ABASSI | Benin | 1,455 |
+| 9 | [7Bhil](https://github.com/7Bhil) | Bhilal. Chitou | Porto-Novo, Bénin | 1,440 |
 | 10 | [michael-on-code](https://github.com/michael-on-code) | ANIMASHAUN Michael | Cotonou, Republic of Benin | 1,124 |
 | 11 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | Cotonou, Benin | 1,066 |
 | 12 | [fhermas22](https://github.com/fhermas22) | Hermas Francisco | Abomey-Calavi, Benin | 980 |
 | 13 | [silassare](https://github.com/silassare) | Emile Silas Sare | Porto-Novo, Benin | 958 |
 | 14 | [Bestbeedev](https://github.com/Bestbeedev) | AOGA Oluwafèmi Josuée | Abomey-Calavi, Atlantique, Benin | 886 |
-| 15 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 795 |
-| 16 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
+| 15 | [devalade](https://github.com/devalade) | Alade YESSOUFOU | Cotonou,Littoral, Benin | 793 |
+| 16 | [Bellox1](https://github.com/Bellox1) | Matinou BELLO | Cotonou,Littoral, Benin | 788 |
 | 17 | [eldomagan](https://github.com/eldomagan) | Eldo Magan | Cotonou, Benin | 742 |
 | 18 | [koladev32](https://github.com/koladev32) | Mangabo  Kolawole | Benin, Cotonou | 595 |
 | 19 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. | Benin | 592 |
@@ -83,4 +83,4 @@ Indexed users: 471
 | 19 | [awarris](https://github.com/awarris) | Warris AGBANNONDE | Benin, Cotonou Ganhi | 72 |
 | 20 | [baba-mandef](https://github.com/baba-mandef) | Abiodoun Paraïso | Adjarra, Benin | 72 |
 
-Generated: 2026-10-12T20:07:39.391Z
+Generated: 2026-10-13T01:36:04.229Z

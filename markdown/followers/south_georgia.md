@@ -1,6 +1,6 @@
 # Followers - South Georgia
 
-Generated: 2026-10-12T19:48:34.263Z
+Generated: 2026-10-13T01:13:35.157Z
 
 Users: 6
 

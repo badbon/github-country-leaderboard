@@ -1,12 +1,12 @@
 # Public Contributions - Jersey
 
-Generated: 2026-10-12T02:02:17.622Z
+Generated: 2026-10-13T02:05:37.781Z
 
 Users: 139
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 40076 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | @evergreenjersey @awardsapp @wpallstars | marcuswquinn | London, UK, Los-angeles, California, England, Jersey | 43315 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | @structurizr  | simonbrown | Jersey, Channel Islands | 745 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Blue Flame Digital Solutions Limited | myPhilTaylor | Jersey, Channel Islands | 714 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack |  |  | Jersey, UK | 692 |

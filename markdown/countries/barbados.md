@@ -23,7 +23,7 @@ Indexed users: 133
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C | Barbados | 1,426 |
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman | Barbados | 1,368 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Barbados | 1,328 |
-| 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,210 |
+| 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C | Barbados | 1,205 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | Barbados | 934 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | Barbados | 677 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Barbados | 608 |
@@ -83,4 +83,4 @@ Indexed users: 133
 | 19 | [sramharack](https://github.com/sramharack) | Shankar Ramharack | St. Phillips, Barbados, W.I. | 12 |
 | 20 | [paulamelrz](https://github.com/paulamelrz) | Paula Melero | Barbados | 11 |
 
-Generated: 2026-10-12T20:06:49.665Z
+Generated: 2026-10-13T01:34:29.495Z

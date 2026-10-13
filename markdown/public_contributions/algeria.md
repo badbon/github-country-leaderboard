@@ -1,6 +1,6 @@
 # Public Contributions - Algeria
 
-Generated: 2026-10-12T20:02:02.313Z
+Generated: 2026-10-13T01:28:05.773Z
 
 Users: 5813
 
@@ -8,11 +8,11 @@ Users: 5813
 |---:|---|---|---|---|---|---:|
 | 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi |  | ashv3il | Algeria | 3998 |
 | 2 | [imadtbn](https://github.com/imadtbn) | imad tbn |  |  | algeria | 3781 |
-| 3 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah |  |  | Algeria | 3682 |
-| 4 | [rayandripo](https://github.com/rayandripo) | Rayan |  | rayandpo | Algiers | 2785 |
-| 5 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | @Imainigination |  | Algiers,Algeria | 2715 |
-| 6 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 2674 |
-| 7 | [selmahacii](https://github.com/selmahacii) | selma haci |  |  | Algiers, Algeria | 2630 |
+| 3 | [selmahacii](https://github.com/selmahacii) | selma haci |  |  | Algiers, Algeria | 3747 |
+| 4 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah |  |  | Algeria | 3682 |
+| 5 | [rayandripo](https://github.com/rayandripo) | Rayan |  | rayandpo | Algiers | 2785 |
+| 6 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | @Imainigination |  | Algiers,Algeria | 2715 |
+| 7 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | ENSIA | DzMohaned | Algeria, Constantine | 2674 |
 | 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref |  |  | Algeria | 2486 |
 | 9 | [ndpm13](https://github.com/ndpm13) | Naz | @noid-linux  |  | M'sila, Algeria | 2158 |
 | 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Co-Founder @WuuD-Team \| Head of Mobile Development @ResearchGate |  | Berlin, Germany / Algiers, Algeria | 2083 |

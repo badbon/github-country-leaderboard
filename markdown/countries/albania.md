@@ -48,7 +48,7 @@ Indexed users: 1,184
 | 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 980 |
 | 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 901 |
 | 11 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 883 |
-| 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 744 |
+| 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 782 |
 | 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
 | 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
 | 15 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 658 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 74 |
 
-Generated: 2026-10-12T20:00:39.525Z
+Generated: 2026-10-13T01:28:02.894Z

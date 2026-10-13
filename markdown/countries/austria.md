@@ -16,8 +16,8 @@ Indexed users: 18,254
 | 2 | [unbraind](https://github.com/unbraind) | Steve Preu | Austria | 33,304 |
 | 3 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz, Austria | 31,948 |
 | 4 | [Kanevry](https://github.com/Kanevry) | Bernhard Götzendorfer | vienna | 31,693 |
-| 5 | [preciz](https://github.com/preciz) | Barna Kovacs | Austria | 23,804 |
-| 6 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl | Austria | 22,367 |
+| 5 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl | Austria | 30,011 |
+| 6 | [preciz](https://github.com/preciz) | Barna Kovacs | Austria | 23,804 |
 | 7 | [michavie](https://github.com/michavie) | Micha Vie | Austria | 21,730 |
 | 8 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | Vienna | 17,986 |
 | 9 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | Austria | 17,494 |
@@ -83,4 +83,4 @@ Indexed users: 18,254
 | 19 | [timolins](https://github.com/timolins) | Timo Lins | Vienna, Austria | 1,173 |
 | 20 | [cliffordwolf](https://github.com/cliffordwolf) | Claire Wolf | Vienna | 1,143 |
 
-Generated: 2026-10-12T20:05:31.516Z
+Generated: 2026-10-13T01:33:10.763Z

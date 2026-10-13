@@ -12,7 +12,7 @@ Indexed users: 729
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,133 |
+| 1 | [mustafa-online](https://github.com/mustafa-online) | Mustafa Online | Khartoum, Sudan | 10,175 |
 | 2 | [TheYass1n](https://github.com/TheYass1n) | Yassin Hussein | Sudan | 7,594 |
 | 3 | [Mohammed-Moniem](https://github.com/Mohammed-Moniem) | Mohammed-Moniem | Farog Diyab St, Mamora, Khartoum, Sudan | 5,370 |
 | 4 | [EMAD77](https://github.com/EMAD77) | Emad777 | Sudan | 4,875 |
@@ -41,7 +41,7 @@ Indexed users: 729
 | 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer | sudan, kassala | 1,196 |
 | 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | sudan -khartoum | 1,178 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  | Sudan | 934 |
-| 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 842 |
+| 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Sudan | 848 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | Sudan, Khartoum | 812 |
 | 7 | [sherif414](https://github.com/sherif414) | shareef | Sudan | 792 |
 | 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir |  Sudan | 691 |
@@ -73,7 +73,7 @@ Indexed users: 729
 | 9 | [Muawia24](https://github.com/Muawia24) | Ahmed Muawia | Sudan | 88 |
 | 10 | [the94air](https://github.com/the94air) | Abdalla Arbab | Khartoum, Sudan | 76 |
 | 11 | [saeedo201](https://github.com/saeedo201) | Saeed Ahmeed | sudan | 74 |
-| 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 62 |
+| 12 | [vzool](https://github.com/vzool) | Abdelaziz Elrashed | Sudan | 63 |
 | 13 | [attaryz](https://github.com/attaryz) | Abdullah Ali | Khartoum, Sudan | 60 |
 | 14 | [Amar-Dev1](https://github.com/Amar-Dev1) | Amar | Sudan, Khartoum | 59 |
 | 15 | [HussamAdil](https://github.com/HussamAdil) | Hussam Adil | Sudan | 59 |
@@ -83,4 +83,4 @@ Indexed users: 729
 | 19 | [kabaros](https://github.com/kabaros) | Mozafar | Khartoum / Glasgow | 50 |
 | 20 | [obaaa8](https://github.com/obaaa8) | محمود عبدالسميع التوم | sudan | 48 |
 
-Generated: 2026-10-12T19:49:28.605Z
+Generated: 2026-10-13T01:14:49.829Z

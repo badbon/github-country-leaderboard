@@ -1,6 +1,6 @@
 # Public Contributions - Burundi
 
-Generated: 2026-10-12T20:10:46.558Z
+Generated: 2026-10-13T01:42:33.591Z
 
 Users: 236
 
@@ -10,13 +10,13 @@ Users: 236
 | 2 | [Advaxe](https://github.com/Advaxe) | Advaxe Ndayisenga | Free Tech Institute | AdvaxeIr | Gitega-Burundi | 1244 |
 | 3 | [allyelvis](https://github.com/allyelvis) | Ally Elvis Nzeyimana | @AENZBi  | AllyElvis1 | Burundi | 673 |
 | 4 | [Ndikuma](https://github.com/Ndikuma) | Idris Ndikumana |  | AdnesNdiku10883 | Burundi | 500 |
-| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 465 |
+| 5 | [srugano](https://github.com/srugano) | Allan Stockman RUGANO  | @UbuhingaVizion  | iMitwe | Burundi | 466 |
 | 6 | [JubuNiyokoDev](https://github.com/JubuNiyokoDev) | Jubu Niyoko Dev |  |  | Burundi | 392 |
 | 7 | [Mutimanwa](https://github.com/Mutimanwa) | calvinDev | @uhuru-Market  |  | burundi | 372 |
 | 8 | [klauskira07](https://github.com/klauskira07) | Klaus KIRA | Vortex Ltd. | klauskira07 | Burundi | 312 |
 | 9 | [miguelandy875](https://github.com/miguelandy875) | Habyarimana Andy Miguel |  | AndyHabyarimana | Gitega, Burundi  | 301 |
 | 10 | [Janeirohurley](https://github.com/Janeirohurley) | Janeiro hurley | @RundiNova  | janeirohurley | Burundi | 269 |
-| 11 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 238 |
+| 11 | [butofleury](https://github.com/butofleury) | Fleury | @BLSQ |  | Burundi, Bujumbura | 241 |
 | 12 | [kozetchanny52-gif](https://github.com/kozetchanny52-gif) | KOZE TCHANY |  |  | Burundi/Bujumbura | 221 |
 | 13 | [IdrissMulenga](https://github.com/IdrissMulenga) | IdrissM | afritic-group |  | Burundi | 202 |
 | 14 | [XPTOOLS](https://github.com/XPTOOLS) | XP TOOLS | FREENETHUB™ |  | Burundi | 159 |

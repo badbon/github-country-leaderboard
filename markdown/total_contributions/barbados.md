@@ -1,6 +1,6 @@
 # Total Contributions - Barbados
 
-Generated: 2026-10-12T20:06:49.665Z
+Generated: 2026-10-13T01:34:29.495Z
 
 Users: 133
 
@@ -17,7 +17,7 @@ Users: 133
 | 9 | [FamineDT246](https://github.com/FamineDT246) | Ceejay C |  |  | Barbados | 1426 |
 | 10 | [ShamarKellman](https://github.com/ShamarKellman) | Shamar Kellman |  | CoderShamar | Barbados | 1368 |
 | 11 | [alexanderbahlk](https://github.com/alexanderbahlk) | Alexander Bahlk | Coast Solutions OÜ |  | Barbados | 1328 |
-| 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1210 |
+| 12 | [dario-j-c](https://github.com/dario-j-c) | Dario J C |  |  | Barbados | 1205 |
 | 13 | [lukehefson](https://github.com/lukehefson) | Luke Hefson | @workbrew | lukehefson | Barbados | 934 |
 | 14 | [ianhambleton](https://github.com/ianhambleton) | Ian Hambleton | The University of the West Indies |  | Barbados | 677 |
 | 15 | [Thomas-Heniart](https://github.com/Thomas-Heniart) | Thomas Heniart | Bitfinex |  | Barbados | 608 |

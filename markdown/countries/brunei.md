@@ -17,13 +17,13 @@ Indexed users: 254
 | 3 | [SatriaSuriaAriffin](https://github.com/SatriaSuriaAriffin) | Satria Suria | Brunei | 2,941 |
 | 4 | [akasmirhan4](https://github.com/akasmirhan4) | Amirrul Kasmirhan | Brunei | 2,231 |
 | 5 | [fatinjulaihi](https://github.com/fatinjulaihi) | Fatin Julaihi | Brunei | 1,199 |
-| 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,055 |
+| 6 | [abizarleman](https://github.com/abizarleman) | Abizar Leman | Brunei Darussalam | 1,054 |
 | 7 | [OmarDST](https://github.com/OmarDST) | Omar Ibrahim | Brunei | 1,018 |
 | 8 | [KaramelBytes](https://github.com/KaramelBytes) | Jeremiah Henning | Brunei Darussalam | 894 |
 | 9 | [hilmishah](https://github.com/hilmishah) | Hilmi Shah | Brunei | 890 |
 | 10 | [lmwnshn](https://github.com/lmwnshn) | Wan Shen Lim | San Francisco, CA \| Brunei | 614 |
 | 11 | [habibah-mahadi](https://github.com/habibah-mahadi) | Habibah Mahadi | Brunei Darussalam | 603 |
-| 12 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 522 |
+| 12 | [anwari-fikri](https://github.com/anwari-fikri) | Anwari Fikri | Brunei Darussalam | 555 |
 | 13 | [Qoyyuum](https://github.com/Qoyyuum) | Abdul Qoyyuum | Brunei Darussalam | 505 |
 | 14 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 492 |
 | 15 | [amirulmenjeni](https://github.com/amirulmenjeni) | Amirul Menjeni | Brunei Darussalam | 378 |
@@ -31,7 +31,7 @@ Indexed users: 254
 | 17 | [bumplzz69](https://github.com/bumplzz69) | Eddie | Brunei | 346 |
 | 18 | [thewheat](https://github.com/thewheat) | Timothy Lim | Brunei | 260 |
 | 19 | [hfzizz](https://github.com/hfzizz) | Hafiz Izzuddin | Brunei | 236 |
-| 20 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 232 |
+| 20 | [MirzaMuqri](https://github.com/MirzaMuqri) | Mirza Muk(q)ri | Brunei Darussalam | 233 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 254
 | 19 | [nathanielcwm](https://github.com/nathanielcwm) | Nathaniel | Brunei | 14 |
 | 20 | [affenrahim88](https://github.com/affenrahim88) | Affandy Abdul Rahim | Brunei Darussalam | 13 |
 
-Generated: 2026-10-12T20:09:07.691Z
+Generated: 2026-10-13T01:41:13.460Z

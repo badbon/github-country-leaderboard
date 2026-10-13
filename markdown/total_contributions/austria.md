@@ -1,6 +1,6 @@
 # Total Contributions - Austria
 
-Generated: 2026-10-12T20:05:31.516Z
+Generated: 2026-10-13T01:33:10.763Z
 
 Users: 18254
 
@@ -10,8 +10,8 @@ Users: 18254
 | 2 | [unbraind](https://github.com/unbraind) | Steve Preu |  | StevePreu | Austria | 33304 |
 | 3 | [krystophny](https://github.com/krystophny) | Christopher Albert | Graz University of Technology |  | Graz, Austria | 31948 |
 | 4 | [Kanevry](https://github.com/Kanevry) | Bernhard Götzendorfer |  | _Kanevry | vienna | 31693 |
-| 5 | [preciz](https://github.com/preciz) | Barna Kovacs |  |  | Austria | 23804 |
-| 6 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl |  |  | Austria | 22367 |
+| 5 | [jack-ofalltraids](https://github.com/jack-ofalltraids) | Maxl |  |  | Austria | 30011 |
+| 6 | [preciz](https://github.com/preciz) | Barna Kovacs |  |  | Austria | 23804 |
 | 7 | [michavie](https://github.com/michavie) | Micha Vie | @vLeapGroup @PeerMeHQ @JoAiHQ @TagrityHQ @SpawnableHQ | michavie_ | Austria | 21730 |
 | 8 | [masterleopold](https://github.com/masterleopold) | Yoichiro Hara | @VoxTechnologies |  | Vienna | 17986 |
 | 9 | [smartlabsAT](https://github.com/smartlabsAT) | Christopher Schwarz | neugebauerschwarz gmbh |  | Austria | 17494 |

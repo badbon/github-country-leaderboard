@@ -1,6 +1,6 @@
 # Total Contributions - Guatemala
 
-Generated: 2026-10-12T20:26:02.606Z
+Generated: 2026-10-13T01:57:50.436Z
 
 Users: 3222
 
@@ -8,9 +8,9 @@ Users: 3222
 |---:|---|---|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | @SparkProjects  | Lewatoto | Guatemala | 14160 |
 | 2 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | OSCARLEON |  | Guatemala | 9523 |
-| 3 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | GT Code Software |  | Guatemala | 7844 |
-| 4 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 7824 |
-| 5 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Recorrido.cl | DubonAlejandro | Guatemala | 7133 |
+| 3 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Recorrido.cl | DubonAlejandro | Guatemala | 8675 |
+| 4 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | GT Code Software |  | Guatemala | 7844 |
+| 5 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal |  | ehvidalp | Guatemala | 7824 |
 | 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz |  | JoseJorge_Diaz | Guatemala | 7047 |
 | 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon |  |  | Guatemala | 6785 |
 | 8 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | MedHue Labs LLC |  | Guatemala | 6585 |

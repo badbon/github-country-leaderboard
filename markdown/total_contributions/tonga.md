@@ -1,16 +1,16 @@
 # Total Contributions - Tonga
 
-Generated: 2026-10-12T19:54:33.589Z
+Generated: 2026-10-13T01:19:14.064Z
 
 Users: 9
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 1054 |
-| 2 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 136 |
-| 3 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 135 |
+| 1 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 1080 |
+| 2 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 135 |
+| 3 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 130 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 58 |
-| 5 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 38 |
+| 5 | [taufa](https://github.com/taufa) | Semisi |  |  | Tongatapu, Tonga | 39 |
 | 6 | [Pace417](https://github.com/Pace417) | AH | Lehman Brothers |  | Tonga | 22 |
 | 7 | [james151br](https://github.com/james151br) | James |  |  | Tonga | 1 |
 | 8 | [lekamotu](https://github.com/lekamotu) | Sioto Fine | 29157 |  | Tonga | 0 |

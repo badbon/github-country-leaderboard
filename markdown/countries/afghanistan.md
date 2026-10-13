@@ -1,6 +1,6 @@
 # Afghanistan
 
-Indexed users: 1,489
+Indexed users: 1,488
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,489
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-12T19:59:29.008Z
+Generated: 2026-10-13T01:27:55.604Z

@@ -30,8 +30,8 @@ Indexed users: 1,580
 | 16 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta | Island | 6,633 |
 | 17 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Reykjavík, Iceland | 6,419 |
 | 18 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson | Reykjavik, Iceland | 6,030 |
-| 19 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,619 |
-| 20 | [steinnes](https://github.com/steinnes) | Steinn Eldjárn Sigurðarson | Reykjavik, Iceland | 5,421 |
+| 19 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | Reykjavik | 5,931 |
+| 20 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 5,808 |
 
 ## Public Contributions
 
@@ -64,16 +64,16 @@ Indexed users: 1,580
 |---:|---|---|---|---:|
 | 1 | [asgeirtj](https://github.com/asgeirtj) | Ásgeir Thor Johnson | Iceland | 2,256 |
 | 2 | [imbue-bit](https://github.com/imbue-bit) | 栀染 | Iceland | 848 |
-| 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 736 |
+| 3 | [SuprDewd](https://github.com/SuprDewd) | Bjarki Ágúst Guðmundsson | Iceland | 740 |
 | 4 | [sveinbjornt](https://github.com/sveinbjornt) | Sveinbjorn Thordarson | Reykjavík, Iceland | 606 |
 | 5 | [phunterlau](https://github.com/phunterlau) | Hongliang Liu | Iceland | 590 |
 | 6 | [starrylumi](https://github.com/starrylumi) | ࿔𝜗𝜚‧₊`Lumi‹𝟹༉‧₊˚. | mostly at gi area, sometimes at docks/island, usually FTS or a spec in fsr... \ sign strawpage & atabook pretty plz / whisp if u want to add me on any platforms<3 | 527 |
 | 7 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | Iceland | 488 |
-| 8 | [birkir](https://github.com/birkir) | Birkir Gudjonsson | Reykjavík, Iceland | 450 |
+| 8 | [birkir](https://github.com/birkir) | Birkir Gudjonsson | Reykjavík, Iceland | 451 |
 | 9 | [jeremybarbet](https://github.com/jeremybarbet) | Jérémy Barbet | Reykjavík, Iceland | 366 |
 | 10 | [jarmitage](https://github.com/jarmitage) | Jack Armitage | Reykjavík, Iceland | 353 |
-| 11 | [thormagnusson](https://github.com/thormagnusson) | thor magnusson | Reykjavik | 311 |
-| 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 281 |
+| 11 | [thormagnusson](https://github.com/thormagnusson) | thor magnusson | Reykjavik | 316 |
+| 12 | [pagekite](https://github.com/pagekite) | The Beanstalks Project | Reykjavik, Iceland | 283 |
 | 13 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 279 |
 | 14 | [egil](https://github.com/egil) | Egil Hansen | Iceland | 277 |
 | 15 | [alexharri](https://github.com/alexharri) | Alex Harri Jónsson | Reykjavík, Iceland | 248 |
@@ -83,4 +83,4 @@ Indexed users: 1,580
 | 19 | [szhorvat](https://github.com/szhorvat) | Szabolcs Horvát | Iceland | 217 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-12T20:27:58.971Z
+Generated: 2026-10-13T02:02:54.824Z

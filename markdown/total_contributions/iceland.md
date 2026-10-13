@@ -1,6 +1,6 @@
 # Total Contributions - Iceland
 
-Generated: 2026-10-12T20:27:58.971Z
+Generated: 2026-10-13T02:02:54.824Z
 
 Users: 1580
 
@@ -24,5 +24,5 @@ Users: 1580
 | 16 | [arnavmehta7](https://github.com/arnavmehta7) | Arnav Mehta |  |  | Island | 6633 |
 | 17 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 6419 |
 | 18 | [arnimarj](https://github.com/arnimarj) | Árni Már Jónsson |  |  | Reykjavik, Iceland | 6030 |
-| 19 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5619 |
-| 20 | [steinnes](https://github.com/steinnes) | Steinn Eldjárn Sigurðarson |  |  | Reykjavik, Iceland | 5421 |
+| 19 | [gunniho](https://github.com/gunniho) | Gunnar Holmsteinn | @QuestPortal  | gunniho | Reykjavik | 5931 |
+| 20 | [koddsson](https://github.com/koddsson) | Kristján Oddsson | @WorkBrew |  | Iceland | 5808 |

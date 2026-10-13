@@ -12,7 +12,7 @@ Indexed users: 21
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,814 |
+| 1 | [vicentehmba](https://github.com/vicentehmba) | VIcente Hugo Mba | Equatorial Guinea | 2,809 |
 | 2 | [alexis-ngoyi](https://github.com/alexis-ngoyi) | Alexis Ngoyi M. | Guinee Equatoriale, Malabo | 319 |
 | 3 | [arongesono12](https://github.com/arongesono12) | Aron Esono Ondo Eyang | Malabo | 251 |
 | 4 | [seamuddin](https://github.com/seamuddin) | Seam uddin | Malabo, Equatorial guinea | 122 |
@@ -83,4 +83,4 @@ Indexed users: 21
 | 19 | [melitonio](https://github.com/melitonio) | Meliton Pablo Mangue Mañana | Malabo, Guinea Ecuatorial | 1 |
 | 20 | [petr2rzu](https://github.com/petr2rzu) | Javier |  Equatorial Guinea | 1 |
 
-Generated: 2026-10-12T20:18:29.307Z
+Generated: 2026-10-13T01:50:35.535Z

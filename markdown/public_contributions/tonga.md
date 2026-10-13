@@ -1,13 +1,13 @@
 # Public Contributions - Tonga
 
-Generated: 2026-10-12T19:54:33.589Z
+Generated: 2026-10-13T01:19:14.064Z
 
 Users: 9
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 136 |
-| 2 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 135 |
+| 1 | [tadongyro](https://github.com/tadongyro) | Melissa Gordon |  |  | Rachelmouth, Tonga | 135 |
+| 2 | [Cartus](https://github.com/Cartus) | Zhijiang | University of Cambridge | ZhijiangG | Tonga | 130 |
 | 3 | [JonLiki](https://github.com/JonLiki) | Sione Folaumoetu'i Likiliki |  |  | Tonga | 68 |
 | 4 | [staumoepeau](https://github.com/staumoepeau) | Sione Taumoepeau |  |  | Tonga | 58 |
 | 5 | [Pace417](https://github.com/Pace417) | AH | Lehman Brothers |  | Tonga | 22 |

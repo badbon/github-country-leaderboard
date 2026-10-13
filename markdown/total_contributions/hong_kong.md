@@ -1,6 +1,6 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-12T20:27:49.536Z
+Generated: 2026-10-13T02:02:09.879Z
 
 Users: 10291
 
@@ -20,9 +20,9 @@ Users: 10291
 | 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 13265 |
 | 13 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | @startino |  | Hong Kong | 12379 |
 | 14 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
-| 15 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
-| 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
-| 17 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |
-| 18 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |
-| 19 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | @reality-connect  |  | Hong Kong | 10343 |
-| 20 | [wonglok](https://github.com/wonglok) | Wong Lok |  | wonglok831 | Hong Kong | 10082 |
+| 15 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | @narrativeproject |  | Hong Kong | 11369 |
+| 16 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
+| 17 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
+| 18 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |
+| 19 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |
+| 20 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | @reality-connect  |  | Hong Kong | 10343 |

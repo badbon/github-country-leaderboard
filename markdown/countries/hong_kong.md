@@ -26,12 +26,12 @@ Indexed users: 10,291
 | 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 13,265 |
 | 13 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | Hong Kong | 12,379 |
 | 14 | [araa47](https://github.com/araa47) | Akshay  | Hong Kong  | 11,917 |
-| 15 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
-| 16 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
-| 17 | [jasongong111](https://github.com/jasongong111) | Jason Gong | KLT, KW, Hong Kong | 10,906 |
-| 18 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 | Hong Kong | 10,458 |
-| 19 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | Hong Kong | 10,343 |
-| 20 | [wonglok](https://github.com/wonglok) | Wong Lok | Hong Kong | 10,082 |
+| 15 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | Hong Kong | 11,369 |
+| 16 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
+| 17 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
+| 18 | [jasongong111](https://github.com/jasongong111) | Jason Gong | KLT, KW, Hong Kong | 10,906 |
+| 19 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 | Hong Kong | 10,458 |
+| 20 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | Hong Kong | 10,343 |
 
 ## Public Contributions
 
@@ -47,13 +47,13 @@ Indexed users: 10,291
 | 8 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | Hong Kong | 7,683 |
 | 9 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 7,663 |
 | 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani | Hong Kong | 7,358 |
-| 11 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Hong Kong, China | 6,455 |
-| 12 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk | Hong Kong | 6,407 |
-| 13 | [auto-wood](https://github.com/auto-wood) | Auto.Wood | Hong Kong | 6,337 |
-| 14 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Hong Kong | 6,035 |
-| 15 | [williamchong](https://github.com/williamchong) | William Chong | Hong Kong | 5,950 |
-| 16 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Hong Kong | 4,735 |
-| 17 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei | Hong Kong | 4,280 |
+| 11 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | 3rdYuno | Hong Kong | 6,876 |
+| 12 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Hong Kong, China | 6,455 |
+| 13 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk | Hong Kong | 6,407 |
+| 14 | [auto-wood](https://github.com/auto-wood) | Auto.Wood | Hong Kong | 6,337 |
+| 15 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Hong Kong | 6,035 |
+| 16 | [williamchong](https://github.com/williamchong) | William Chong | Hong Kong | 5,950 |
+| 17 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Hong Kong | 4,735 |
 | 18 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung | Hong Kong | 4,241 |
 | 19 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 3,845 |
 | 20 | [atomyyyy](https://github.com/atomyyyy) | Alan | Hong Kong | 3,664 |
@@ -83,4 +83,4 @@ Indexed users: 10,291
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-12T20:27:49.536Z
+Generated: 2026-10-13T02:02:09.879Z

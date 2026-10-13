@@ -14,9 +14,9 @@ Indexed users: 3,222
 |---:|---|---|---|---:|
 | 1 | [Lewatoto](https://github.com/Lewatoto) | Gerson Alvarado | Guatemala | 14,160 |
 | 2 | [oscarleonapp](https://github.com/oscarleonapp) | Oscar León | Guatemala | 9,523 |
-| 3 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 7,844 |
-| 4 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
-| 5 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 7,133 |
+| 3 | [DubAvenXP](https://github.com/DubAvenXP) | Alejandro Dubon | Guatemala | 8,675 |
+| 4 | [daviddevsoftware](https://github.com/daviddevsoftware) | David | Guatemala | 7,844 |
+| 5 | [ehvidalp](https://github.com/ehvidalp) | Edward Vidal | Guatemala | 7,824 |
 | 6 | [GeorgeLBS1](https://github.com/GeorgeLBS1) | Jose Jorge Díaz | Guatemala | 7,047 |
 | 7 | [Charlisim](https://github.com/Charlisim) | Carlos Simon | Guatemala | 6,785 |
 | 8 | [MarioAndF](https://github.com/MarioAndF) | Mario A Flores | Guatemala | 6,585 |
@@ -83,4 +83,4 @@ Indexed users: 3,222
 | 19 | [elmergustavo](https://github.com/elmergustavo) | Gustavo (tavcode)  | Quetzaltenango, Guatemala | 119 |
 | 20 | [cms](https://github.com/cms) | Christian C. Salvadó | Guatemala | 117 |
 
-Generated: 2026-10-12T20:26:02.606Z
+Generated: 2026-10-13T01:57:50.436Z

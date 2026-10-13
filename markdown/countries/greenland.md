@@ -12,8 +12,8 @@ Indexed users: 59
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,957 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,780 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | Greenland | 3,958 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Nuuk, Greenland | 1,772 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | Greenland | 1,448 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | Greenland | 1,273 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Greenland | 900 |
@@ -83,4 +83,4 @@ Indexed users: 59
 | 19 | [yuzujam](https://github.com/yuzujam) | yuzujam | Nuuk,Greenland | 10 |
 | 20 | [DaniEstevezBarcia](https://github.com/DaniEstevezBarcia) | Daniel Estévez-Barcia | Greenland | 8 |
 
-Generated: 2026-10-12T20:24:57.429Z
+Generated: 2026-10-13T01:56:33.229Z

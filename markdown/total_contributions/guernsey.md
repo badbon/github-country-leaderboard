@@ -1,15 +1,15 @@
 # Total Contributions - Guernsey
 
-Generated: 2026-10-12T20:26:04.022Z
+Generated: 2026-10-13T01:57:53.926Z
 
 Users: 45
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 2420 |
-| 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1887 |
+| 1 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 2467 |
+| 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1893 |
 | 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1473 |
-| 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1341 |
+| 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1346 |
 | 5 | [technosight](https://github.com/technosight) | Ivan Petrov | Technosight |  | St Peter Port, Guernsey | 979 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 677 |
 | 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 451 |

@@ -1,6 +1,6 @@
 # Public Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-12T20:08:52.333Z
+Generated: 2026-10-13T01:38:10.274Z
 
 Users: 2128
 
@@ -8,7 +8,7 @@ Users: 2128
 |---:|---|---|---|---|---|---:|
 | 1 | [JokerHin](https://github.com/JokerHin) | Cho Kar Hin | student |  | Bosnia and Herzegovina | 5766 |
 | 2 | [MaidCorbic](https://github.com/MaidCorbic) | Maid Čorbić | Foto Žunić Tuzla |  | Tuzla, Bosnia and Herzegovina | 3728 |
-| 3 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 2950 |
+| 3 | [ghostrider0470](https://github.com/ghostrider0470) | Abdagić Hamza | Horizon Tech d.o.o. Sarajevo  |  | Sarajevo | 2979 |
 | 4 | [Kerim-Sabic](https://github.com/Kerim-Sabic) | Kerim Sabic | Horalix |  | Sarajevo | 2863 |
 | 5 | [goran1010](https://github.com/goran1010) | Goran Jović |  |  | Banja Luka, Bosnia and Herzegovina | 2666 |
 | 6 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 2647 |

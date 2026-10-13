@@ -1,6 +1,6 @@
 # Public Contributions - Sudan
 
-Generated: 2026-10-12T19:49:28.605Z
+Generated: 2026-10-13T01:14:49.829Z
 
 Users: 729
 
@@ -10,7 +10,7 @@ Users: 729
 | 2 | [MoAnwer](https://github.com/MoAnwer) | Mohamed Anwer |  |  | sudan, kassala | 1196 |
 | 3 | [daoudtajeldeinn-png](https://github.com/daoudtajeldeinn-png) | Daoud Tajeldeinn Ahmed | Sudanese Chemical Industeis  |  | sudan -khartoum | 1178 |
 | 4 | [star4droid](https://github.com/star4droid) | Star4Droid  |  |  | Sudan | 934 |
-| 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Penstash | alilibx | Sudan | 842 |
+| 5 | [alilibx](https://github.com/alilibx) | Ali Alhashimi | Penstash | alilibx | Sudan | 848 |
 | 6 | [adonese](https://github.com/adonese) | Mohamed Yousif | EEBAX | _adonese | Sudan, Khartoum | 812 |
 | 7 | [sherif414](https://github.com/sherif414) | shareef | @undefined |  | Sudan | 792 |
 | 8 | [saifeldinkhedir-coder](https://github.com/saifeldinkhedir-coder) | Seifeldin M G Alkhedir | University of Khartoum |  |  Sudan | 691 |

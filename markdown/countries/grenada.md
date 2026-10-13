@@ -13,7 +13,7 @@ Indexed users: 37
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 1,416 |
-| 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 674 |
+| 2 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 669 |
 | 3 | [Tosinish88](https://github.com/Tosinish88) | Oluwatosin Ishmeal | Grenada | 574 |
 | 4 | [smcqueen-95](https://github.com/smcqueen-95) | Samira Mc Queen | Grenada | 250 |
 | 5 | [davidwilson001](https://github.com/davidwilson001) | David Wilson | Grenada | 187 |
@@ -37,7 +37,7 @@ Indexed users: 37
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 615 |
+| 1 | [AhndreWalters](https://github.com/AhndreWalters) | Ahndre Walters | Grenada, West Indies | 610 |
 | 2 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 101 |
 | 3 | [kerrongordon](https://github.com/kerrongordon) | kerron gordon | Grenada | 81 |
 | 4 | [mmsacky](https://github.com/mmsacky) | Michael Msacky | Grenada, W.I | 43 |
@@ -83,4 +83,4 @@ Indexed users: 37
 | 19 | [lenuswalker](https://github.com/lenuswalker) | Lenus Walker | Grenada | 3 |
 | 20 | [OmariCelestine](https://github.com/OmariCelestine) | Omari Celestine | Grenada | 3 |
 
-Generated: 2026-10-12T20:24:59.527Z
+Generated: 2026-10-13T01:56:35.431Z

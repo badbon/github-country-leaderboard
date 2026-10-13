@@ -1,13 +1,13 @@
 # Followers - Bolivia
 
-Generated: 2026-10-12T20:08:47.744Z
+Generated: 2026-10-13T01:36:25.066Z
 
 Users: 1785
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [Frosmin](https://github.com/Frosmin) | Simon Abasto Martinis | Higher University of San Simón |  | Bolivia | 2319 |
-| 2 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1400 |
+| 2 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1401 |
 | 3 | [ospfranco](https://github.com/ospfranco) | Oscar Franco |  | ospfranco | Bolivia | 571 |
 | 4 | [lizarragadev](https://github.com/lizarragadev) | Gustavo Lizárraga |  | lizarragadev | La Paz, Bolivia | 430 |
 | 5 | [Snifer](https://github.com/Snifer) | Snifer | Snifer@L4b's | sniferl4bs | Bolivia | 294 |

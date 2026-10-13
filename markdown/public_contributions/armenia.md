@@ -1,6 +1,6 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-12T20:04:50.596Z
+Generated: 2026-10-13T01:32:03.850Z
 
 Users: 4043
 
@@ -17,12 +17,12 @@ Users: 4043
 | 9 | [esceptico](https://github.com/esceptico) | Tim Ganiev |  | postimortem | Yerevan, Armenia | 2475 |
 | 10 | [diegnghtmr](https://github.com/diegnghtmr) | Diego Alejandro Flores Quintero | Universidad del Quindío |  | Armenia, Quindío, Colombia | 2130 |
 | 11 | [vvmspace](https://github.com/vvmspace) | Vladimir V. M. | DST - Dubai eSTate |  | Armenia | 2013 |
-| 12 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Barivan |  | Armenia | 1740 |
-| 13 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
-| 14 | [nazelizurna](https://github.com/nazelizurna) |  |  |  | Yerevan, Armenia | 1605 |
-| 15 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
-| 16 | [asiryan](https://github.com/asiryan) | Valery Asiryan |  |  | Armenia, Yerevan | 1577 |
-| 17 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
-| 18 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1513 |
+| 12 | [gagik894](https://github.com/gagik894) | Gagik Sargsyan |  |  | Armenia | 1982 |
+| 13 | [barivanlab](https://github.com/barivanlab) | BarivanLab | Barivan |  | Armenia | 1740 |
+| 14 | [HenrikGharagyozyan](https://github.com/HenrikGharagyozyan) | Henrik Gharagyozyan |  |  | Yerevan, Armenia | 1715 |
+| 15 | [nazelizurna](https://github.com/nazelizurna) |  |  |  | Yerevan, Armenia | 1605 |
+| 16 | [tauinbox](https://github.com/tauinbox) | Alexander Tupavov | Personal |  | Armenia | 1590 |
+| 17 | [asiryan](https://github.com/asiryan) | Valery Asiryan |  |  | Armenia, Yerevan | 1577 |
+| 18 | [svyatov](https://github.com/svyatov) | Leonid Svyatov |  |  | Yerevan, Armenia | 1545 |
 | 19 | [projkov](https://github.com/projkov) | Pavel Rozhkov | @beda-software |  | Yerevan, Armenia | 1486 |
 | 20 | [artialex](https://github.com/artialex) | Alexey Selivanov |  | alextheartisan | Yerevan, Armenia | 1449 |

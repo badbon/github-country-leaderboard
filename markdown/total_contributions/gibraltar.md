@@ -1,18 +1,18 @@
 # Total Contributions - Gibraltar
 
-Generated: 2026-10-12T20:24:51.190Z
+Generated: 2026-10-13T01:56:27.202Z
 
 Users: 93
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | AntheaConsulting |  | Gibraltar | 25621 |
+| 1 | [Likeandfeel](https://github.com/Likeandfeel) |  | AntheaConsulting |  | Gibraltar | 26112 |
 | 2 | [miohtama](https://github.com/miohtama) | Mikko Ohtamaa | Trading Strategy | moo9000 | Gibraltar | 5654 |
 | 3 | [Industrial](https://github.com/Industrial) | Tom Wieland | Idclear |  | Gibraltar | 5146 |
 | 4 | [marcoscholz](https://github.com/marcoscholz) | Marco Scholz |  |  | Gibraltar | 3280 |
 | 5 | [dlicudi](https://github.com/dlicudi) | Duane Licudi |  |  | Gibraltar | 2300 |
 | 6 | [Fenicio](https://github.com/Fenicio) | Guillermo G C |  |  | Gibraltar | 1390 |
-| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas |  |  | Gibraltar, GI | 1242 |
+| 7 | [ArmandasB](https://github.com/ArmandasB) | Armandas Bespalovas |  |  | Gibraltar, GI | 1244 |
 | 8 | [llmora](https://github.com/llmora) | Lluis Mora |  | lluismh | Gibraltar | 1174 |
 | 9 | [ArtemSoldatkin](https://github.com/ArtemSoldatkin) | Artem Soldatkin |  |  | Gibraltar | 826 |
 | 10 | [sTevoFort](https://github.com/sTevoFort) | Stephen Fortunato |  |  | Gibraltar | 772 |
@@ -24,5 +24,5 @@ Users: 93
 | 16 | [PeterKottas](https://github.com/PeterKottas) | Peter Kottas | @guestbell  |  | Gibraltar | 460 |
 | 17 | [VladimirHumeniuk](https://github.com/VladimirHumeniuk) | vhmnk |  |  | Gibraltar | 402 |
 | 18 | [cdharris](https://github.com/cdharris) | Chris Harris |  | hellokozmo | Berlin / Europe / Gibraltar | 397 |
-| 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 264 |
+| 19 | [thebaubau](https://github.com/thebaubau) | Daniel Fintinariu |  |  | Gibraltar | 267 |
 | 20 | [crpol](https://github.com/crpol) | Cesar Rosa Polanco |  | cesarrpol | Gibraltar | 253 |

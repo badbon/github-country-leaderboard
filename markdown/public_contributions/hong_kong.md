@@ -1,6 +1,6 @@
 # Public Contributions - Hong Kong
 
-Generated: 2026-10-12T20:27:49.536Z
+Generated: 2026-10-13T02:02:09.879Z
 
 Users: 10291
 
@@ -16,13 +16,13 @@ Users: 10291
 | 8 | [wonglaitung](https://github.com/wonglaitung) | Marco Wong | wonglaitung@gmail.com |  | Hong Kong | 7683 |
 | 9 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 7663 |
 | 10 | [lcacchiani](https://github.com/lcacchiani) | Luca Cacchiani |  |  | Hong Kong | 7358 |
-| 11 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Auros |  | Hong Kong, China | 6455 |
-| 12 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk |  |  | Hong Kong | 6407 |
-| 13 | [auto-wood](https://github.com/auto-wood) | Auto.Wood |  |  | Hong Kong | 6337 |
-| 14 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Freelance |  | Hong Kong | 6035 |
-| 15 | [williamchong](https://github.com/williamchong) | William Chong | @likecoin  |  | Hong Kong | 5950 |
-| 16 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Droste |  | Hong Kong | 4735 |
-| 17 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | Eva Rei |  |  | Hong Kong | 4280 |
+| 11 | [ZhuchkaTriplesix](https://github.com/ZhuchkaTriplesix) | 3rdYuno |  |  | Hong Kong | 6876 |
+| 12 | [JakkuSakura](https://github.com/JakkuSakura) | Jakku Sakura | Auros |  | Hong Kong, China | 6455 |
+| 13 | [Jamyth](https://github.com/Jamyth) | Jamyth Luk |  |  | Hong Kong | 6407 |
+| 14 | [auto-wood](https://github.com/auto-wood) | Auto.Wood |  |  | Hong Kong | 6337 |
+| 15 | [dirkarnez](https://github.com/dirkarnez) | Dirk Arnez | Freelance |  | Hong Kong | 6035 |
+| 16 | [williamchong](https://github.com/williamchong) | William Chong | @likecoin  |  | Hong Kong | 5950 |
+| 17 | [tijptjik](https://github.com/tijptjik) | Mart van de Ven | Droste |  | Hong Kong | 4735 |
 | 18 | [DarkLight1337](https://github.com/DarkLight1337) | Cyrus Leung |  |  | Hong Kong | 4241 |
 | 19 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 3845 |
 | 20 | [atomyyyy](https://github.com/atomyyyy) | Alan |  |  | Hong Kong | 3664 |

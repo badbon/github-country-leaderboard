@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-12T20:11:26.627Z
+Generated: 2026-10-13T01:43:17.893Z
 
 Users: 1799
 
@@ -19,10 +19,10 @@ Users: 1799
 | 11 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | GAIA SARL U |  | Cameroon | 6705 |
 | 12 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
 | 13 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
-| 14 | [MartexCorp](https://github.com/MartexCorp) | David Acho | NA SERVICES INC |  | Yaounde, Cameroon | 5800 |
-| 15 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 5789 |
-| 16 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5598 |
-| 17 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5266 |
-| 18 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | @Ntopor-Social  | dark_matter08 | Buea, Cameroon | 5241 |
-| 19 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 5129 |
-| 20 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | @DorsetCompany |  | District 7 Of Yaoundé, CM | 5087 |
+| 14 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 5789 |
+| 15 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5598 |
+| 16 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5266 |
+| 17 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | @Ntopor-Social  | dark_matter08 | Buea, Cameroon | 5241 |
+| 18 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Rhinostone |  | Douala / Cameroon | 5129 |
+| 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | @DorsetCompany |  | District 7 Of Yaoundé, CM | 5087 |
+| 20 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | genesis company |  | Yaoundé  | 4749 |

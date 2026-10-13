@@ -1,6 +1,6 @@
 # Followers - South Sudan
 
-Generated: 2026-10-12T19:48:41.493Z
+Generated: 2026-10-13T01:14:43.640Z
 
 Users: 132
 
@@ -15,7 +15,7 @@ Users: 132
 | 7 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Lajik Tech | Dengtieljr15673 | Juba/Online | 36 |
 | 8 | [Agaba-derrick](https://github.com/Agaba-derrick) | Agaba Derrick  | @DIGI-UW  @OPENMRS | djnuior256 | Juba  | 33 |
 | 9 | [riakizo](https://github.com/riakizo) | Riak Isaac | Abukruel international group | Riak03 | South Sudan  | 33 |
-| 10 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | University of Juba |  | Juba, South Sudan | 31 |
+| 10 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | University of Juba |  | Juba, South Sudan | 32 |
 | 11 | [AlierPM](https://github.com/AlierPM) | Alier  Philip Maguet | @microverseinc  | AlierPM | Juba, South Sudan | 29 |
 | 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Freelancer | stephen_morlex | Juba, South Sudan | 25 |
 | 13 | [Konson22](https://github.com/Konson22) | Kon Akech | Miles global Link | konsonak | South Sudan | 21 |

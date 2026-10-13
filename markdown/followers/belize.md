@@ -1,6 +1,6 @@
 # Followers - Belize
 
-Generated: 2026-10-12T20:07:03.830Z
+Generated: 2026-10-13T01:36:00.754Z
 
 Users: 95
 
@@ -19,8 +19,8 @@ Users: 95
 | 11 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 12 |
 | 12 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 12 |
 | 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 10 |
-| 14 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 10 |
-| 15 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
+| 14 | [cruzer45](https://github.com/cruzer45) | Maurice Rogers |  |  | Belize  | 9 |
+| 15 | [joshuariverol](https://github.com/joshuariverol) | Joshua Riverol |  | joshuariverol | Belize, CA | 9 |
 | 16 | [alexanderrivera96](https://github.com/alexanderrivera96) | AlexRiv007 |  | AlexRiv007 | Belize City, Belize | 8 |
 | 17 | [happyherp](https://github.com/happyherp) | Carlos Freund | Self Employed |  | Belize | 8 |
 | 18 | [Lee26Ed](https://github.com/Lee26Ed) | Lee E. Panti |  |  | San Jose Succotz, Cayo District, Belize | 8 |

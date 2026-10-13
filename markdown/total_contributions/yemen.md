@@ -1,8 +1,8 @@
 # Total Contributions - Yemen
 
-Generated: 2026-10-12T19:58:09.017Z
+Generated: 2026-10-13T01:26:40.522Z
 
-Users: 1207
+Users: 1206
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,7 +21,7 @@ Users: 1207
 | 13 | [aymanalhattami](https://github.com/aymanalhattami) | Ayman Alhattami | Noot | aymanmalhattami | Yemen | 7630 |
 | 14 | [muath-ye](https://github.com/muath-ye) | Muath Alsowadi | Co-founder @YemenOpenSource, Member of @open-sale | muathye | Yemen | 7321 |
 | 15 | [tarasana-mufadhala](https://github.com/tarasana-mufadhala) | Mokhtar Hussein Abdulwahab Alsorori | University of Saba Region  |  | Yemen  | 7227 |
-| 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6876 |
+| 16 | [AhmedSalehGhaithan](https://github.com/AhmedSalehGhaithan) | Ahmed ghaithan | DataTrans |  | Yemen ,sanaa | 6842 |
 | 17 | [EngAzzamZaid](https://github.com/EngAzzamZaid) | Eng Azzam Alsharie  | @KitSysCo  |  | Yemen | 6678 |
 | 18 | [mr3od](https://github.com/mr3od) | Abdulrahman | @nexumind-com  |  | Yemen | 6412 |
 | 19 | [abdulsalam-alhammadi](https://github.com/abdulsalam-alhammadi) | Abdulsalam AL-Hammadi | @Azora POS,@Yemen Waseet inc. | hammadi_salamy | Yemen ,Sanaa - Hadda Street | 6361 |

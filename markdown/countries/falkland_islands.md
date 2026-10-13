@@ -12,7 +12,7 @@ Indexed users: 13
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [trrt54999](https://github.com/trrt54999) | trrt54999 |  Falkland Islands | 596 |
+| 1 | [trrt54999](https://github.com/trrt54999) | trrt54999 |  Falkland Islands | 595 |
 | 2 | [Norrch2](https://github.com/Norrch2) |  | Stanley, North Carolina | 543 |
 | 3 | [lukeMersh](https://github.com/lukeMersh) | Luke Mersh | New Kyo- Stanley- Durham - UK | 86 |
 | 4 | [RongWroom](https://github.com/RongWroom) | RongWroom | Stanley, Co Durham | 70 |
@@ -62,4 +62,4 @@ Indexed users: 13
 | 12 | [netzeeek](https://github.com/netzeeek) | netzeek | Islas Malvinas | 1 |
 | 13 | [saeri-ims](https://github.com/saeri-ims) | SAERI | Stanley, Falkland Islands | 1 |
 
-Generated: 2026-10-12T20:20:28.795Z
+Generated: 2026-10-13T01:52:20.907Z

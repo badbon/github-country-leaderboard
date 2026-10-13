@@ -50,12 +50,12 @@ Indexed users: 108
 | 11 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 47 |
 | 12 | [benele-m](https://github.com/benele-m) | Benele Mamba | Eswatini, | 44 |
 | 13 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 44 |
-| 14 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 43 |
-| 15 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 43 |
+| 14 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 43 |
+| 15 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | Ezulwini, Eswatini | 42 |
 | 16 | [samkelogwebu1569-hub](https://github.com/samkelogwebu1569-hub) | Gemini Mbhele | Eswatini, Mbabane | 42 |
 | 17 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Swaziland | 41 |
-| 18 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. | Eswatini, Mbabane, Sidvwashini | 41 |
-| 19 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza | Manzini, Swaziland | 39 |
+| 18 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza | Manzini, Swaziland | 39 |
+| 19 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. | Eswatini, Mbabane, Sidvwashini | 29 |
 | 20 | [Sdingo](https://github.com/Sdingo) | Phiwokuhle Sdingo Kunene | Eswatini | 28 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-12T20:19:32.021Z
+Generated: 2026-10-13T01:51:45.194Z

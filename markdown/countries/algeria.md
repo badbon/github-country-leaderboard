@@ -39,11 +39,11 @@ Indexed users: 5,813
 |---:|---|---|---|---:|
 | 1 | [Alaa-Younsi](https://github.com/Alaa-Younsi) | Alaa Younsi | Algeria | 3,998 |
 | 2 | [imadtbn](https://github.com/imadtbn) | imad tbn | algeria | 3,781 |
-| 3 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
-| 4 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
-| 5 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
-| 6 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
-| 7 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 2,630 |
+| 3 | [selmahacii](https://github.com/selmahacii) | selma haci | Algiers, Algeria | 3,747 |
+| 4 | [BELYAGOUBIABDELILAH](https://github.com/BELYAGOUBIABDELILAH) | abdelilah | Algeria | 3,682 |
+| 5 | [rayandripo](https://github.com/rayandripo) | Rayan | Algiers | 2,785 |
+| 6 | [phantekzy](https://github.com/phantekzy) | Maini Lotfi  | Algiers,Algeria | 2,715 |
+| 7 | [mohaneddz](https://github.com/mohaneddz) | Mohaned-Dz | Algeria, Constantine | 2,674 |
 | 8 | [AchrefBoub](https://github.com/AchrefBoub) | Achref | Algeria | 2,486 |
 | 9 | [ndpm13](https://github.com/ndpm13) | Naz | M'sila, Algeria | 2,158 |
 | 10 | [MedRedha](https://github.com/MedRedha) | Mohamed Redha Khelifi | Berlin, Germany / Algiers, Algeria | 2,083 |
@@ -83,4 +83,4 @@ Indexed users: 5,813
 | 19 | [sabri-zaki](https://github.com/sabri-zaki) | sabri zakaria | Algeria | 686 |
 | 20 | [Hamza5](https://github.com/Hamza5) | Hamza Abbad | Algeria | 669 |
 
-Generated: 2026-10-12T20:02:02.313Z
+Generated: 2026-10-13T01:28:05.773Z

@@ -15,7 +15,7 @@ Indexed users: 236
 | 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 22,190 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,214 |
 | 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,154 |
-| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,085 |
+| 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,083 |
 | 5 | [ryaustin](https://github.com/ryaustin) | Ryan | Bahamas | 2,501 |
 | 6 | [yannyhl](https://github.com/yannyhl) | yg | nassau | 2,039 |
 | 7 | [TajhSeymour](https://github.com/TajhSeymour) | Tajh Seymour | New Providence, Bahamas | 1,612 |
@@ -31,7 +31,7 @@ Indexed users: 236
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 567 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 546 |
 | 19 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 324 |
-| 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 270 |
+| 20 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 245 |
 
 ## Public Contributions
 
@@ -40,10 +40,10 @@ Indexed users: 236
 | 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 944 |
 | 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 324 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 308 |
-| 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 270 |
+| 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 245 |
 | 5 | [zotz](https://github.com/zotz) | drew Roberts | Nassau, Bahamas | 145 |
 | 6 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 131 |
-| 7 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 123 |
+| 7 | [gtsbahamas](https://github.com/gtsbahamas) | Ty Wells | Nassau, Bahamas | 117 |
 | 8 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 111 |
 | 9 | [SamSepiol266](https://github.com/SamSepiol266) | Sam Sepiol | Nassau, Bahamas | 95 |
 | 10 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 91 |
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-12T20:05:42.072Z
+Generated: 2026-10-13T01:33:22.735Z

@@ -16,7 +16,7 @@ Indexed users: 11
 | 2 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 891 |
 | 3 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 859 |
 | 4 | [Jerry-M-L](https://github.com/Jerry-M-L) | Jerry | Centrafrique,Bangui | 428 |
-| 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 229 |
+| 5 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 228 |
 | 6 | [yadiOs-a-darel](https://github.com/yadiOs-a-darel) | Alphonso Darel | Bangui, Central African Republic | 190 |
 | 7 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 44 |
 | 8 | [hermanmandaba](https://github.com/hermanmandaba) | Hermann Mandaba | Bangui, Cenral African Republic | 23 |
@@ -29,7 +29,7 @@ Indexed users: 11
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [elielMengue](https://github.com/elielMengue) | Eliel MENGUE | BANGUI | 297 |
-| 2 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 229 |
+| 2 | [nguereza-tony](https://github.com/nguereza-tony) | Tony NGUEREZA | Bangui | 228 |
 | 3 | [Nanobolide](https://github.com/Nanobolide) | Geoffroy Maidou | Remote ,Bangui , Centrafrique 🇨🇫 ; | 120 |
 | 4 | [yann-bot](https://github.com/yann-bot) | Yann Dubois Ouafete | Bangui , CAR | 56 |
 | 5 | [tacopola](https://github.com/tacopola) | polaDev | Bangui | 44 |
@@ -56,4 +56,4 @@ Indexed users: 11
 | 10 | [josuehdasse](https://github.com/josuehdasse) | DASSE TE NGBOKOTA Josué Honoré | Bangui, République Centrafricaine | 1 |
 | 11 | [Zompire7](https://github.com/Zompire7) | Mahamat BENAMOU | Bangui | 1 |
 
-Generated: 2026-10-12T20:12:34.234Z
+Generated: 2026-10-13T01:44:19.005Z

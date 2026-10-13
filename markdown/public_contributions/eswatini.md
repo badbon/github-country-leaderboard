@@ -1,6 +1,6 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-12T20:19:32.021Z
+Generated: 2026-10-13T01:51:45.194Z
 
 Users: 108
 
@@ -19,10 +19,10 @@ Users: 108
 | 11 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 47 |
 | 12 | [benele-m](https://github.com/benele-m) | Benele Mamba |  |  | Eswatini, | 44 |
 | 13 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 44 |
-| 14 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 43 |
-| 15 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 43 |
+| 14 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Intuition | wandilemawelel | Manzini, Eswatini | 43 |
+| 15 | [BrianMsane](https://github.com/BrianMsane) | Brian Msane | EPH | msanebrianboss | Ezulwini, Eswatini | 42 |
 | 16 | [samkelogwebu1569-hub](https://github.com/samkelogwebu1569-hub) | Gemini Mbhele |  |  | Eswatini, Mbabane | 42 |
 | 17 | [CodehubNerd](https://github.com/CodehubNerd) | Culture | Nu Africa | Culture_Dlamini | Swaziland | 41 |
-| 18 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. |  |  | Eswatini, Mbabane, Sidvwashini | 41 |
-| 19 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza |  | menzi_fanele | Manzini, Swaziland | 39 |
+| 18 | [Fanelemenzi](https://github.com/Fanelemenzi) | Fanelesiyibonge Mabuza |  | menzi_fanele | Manzini, Swaziland | 39 |
+| 19 | [Sibakhe-Nyembe](https://github.com/Sibakhe-Nyembe) | SIBAKHE N. |  |  | Eswatini, Mbabane, Sidvwashini | 29 |
 | 20 | [Sdingo](https://github.com/Sdingo) | Phiwokuhle Sdingo Kunene |  |  | Eswatini | 28 |
