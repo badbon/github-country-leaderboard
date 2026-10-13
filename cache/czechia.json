@@ -16801,14 +16801,14 @@
   },
   {
     "login": "LGAP98",
-    "name": "Lucie Procházková",
+    "name": "Lucie Louka",
     "avatarUrl": "https://avatars.githubusercontent.com/u/132786164?s=72&v=4",
     "location": "Prague",
     "company": "Manta Tools",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 32,
+    "publicContributions": 33,
     "createdAt": "2023-05-06T20:47:27Z"
   },
   {
@@ -16843,8 +16843,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 60,
-    "publicContributions": 5,
+    "privateContributions": 32,
+    "publicContributions": 1,
     "createdAt": "2023-05-09T18:35:03Z"
   },
   {
@@ -16858,18 +16858,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-07T14:00:43Z"
-  },
-  {
-    "login": "makhmudovv",
-    "name": "Elnur Mahmudov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123551697?s=72&v=4",
-    "location": "Prague",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-01-25T10:47:00Z"
   },
   {
     "login": "ItsPin",
@@ -16902,9 +16890,9 @@
     "location": "Prague",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 13,
-    "publicContributions": 183,
+    "publicContributions": 288,
     "createdAt": "2023-02-19T19:44:45Z"
   },
   {
@@ -16916,7 +16904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 264,
     "createdAt": "2023-04-29T13:13:52Z"
   },
   {
@@ -16952,7 +16940,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 71,
     "createdAt": "2023-05-13T20:12:09Z"
   },
   {
@@ -16975,8 +16963,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 152,
-    "publicContributions": 77,
+    "privateContributions": 143,
+    "publicContributions": 21,
     "createdAt": "2023-04-05T19:08:36Z"
   },
   {
@@ -17023,7 +17011,7 @@
     "company": "@the-mama-ai ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 48,
+    "privateContributions": 91,
     "publicContributions": 0,
     "createdAt": "2023-02-06T11:28:07Z"
   },
@@ -17035,7 +17023,7 @@
     "company": "Ubiquiti",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 698,
+    "privateContributions": 580,
     "publicContributions": 0,
     "createdAt": "2023-03-01T14:56:12Z"
   },

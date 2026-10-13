@@ -17180,7 +17180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 1,
     "createdAt": "2023-02-27T19:49:11Z"
   },
   {
@@ -17191,7 +17191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 69,
+    "privateContributions": 65,
     "publicContributions": 1,
     "createdAt": "2023-02-22T14:39:47Z"
   },
@@ -17239,8 +17239,8 @@
     "company": "Front-End Developer | Based in Varna, Bulgaria",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 26,
-    "publicContributions": 156,
+    "privateContributions": 27,
+    "publicContributions": 104,
     "createdAt": "2023-10-18T15:30:11Z"
   },
   {
@@ -17278,18 +17278,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-06-27T12:46:25Z"
-  },
-  {
-    "login": "KristiyanKobarelov",
-    "name": "Kristiyan Kobarelov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123277206?s=72&u=29b03a0f8ca8b25f81bf0aaa93056b4ebb3e37e3&v=4",
-    "location": "Sofia, Bulgaria",
-    "company": "ELSYS",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 347,
-    "createdAt": "2023-01-21T23:41:39Z"
   },
   {
     "login": "BojidarIvanov33",
@@ -17360,7 +17348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 48,
     "createdAt": "2023-05-28T09:43:06Z"
   },
   {

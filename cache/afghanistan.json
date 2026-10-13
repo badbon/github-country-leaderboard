@@ -16988,7 +16988,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 32,
     "createdAt": "2015-05-14T05:52:10Z"
   },
   {
@@ -17058,7 +17058,7 @@
     "location": "Kabul Afghanistan",
     "company": "Microverse ",
     "twitterUsername": "mozameljawad",
-    "followers": 42,
+    "followers": 43,
     "privateContributions": 0,
     "publicContributions": 34,
     "createdAt": "2015-10-03T10:10:28Z"
@@ -17070,9 +17070,9 @@
     "location": "Herat, Afghanistan",
     "company": "Tanbali",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 308,
-    "publicContributions": 64,
+    "followers": 17,
+    "privateContributions": 306,
+    "publicContributions": 66,
     "createdAt": "2015-09-08T06:38:34Z"
   },
   {
@@ -17098,18 +17098,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2015-07-10T07:10:41Z"
-  },
-  {
-    "login": "khdanish",
-    "name": "Khalil Danish",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/14087594?s=72&u=a4c997ac29c01d6ee14f0139d43c0997f7bd0eb4&v=4",
-    "location": "Herat , Afghanistan",
-    "company": "Raha Ertebat",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 457,
-    "publicContributions": 5,
-    "createdAt": "2015-09-02T06:45:55Z"
   },
   {
     "login": "Najibullah-Akbary",
@@ -17190,9 +17178,9 @@
     "location": "Kabul, Afghanistan",
     "company": "Remote",
     "twitterUsername": "DGhousi",
-    "followers": 35,
-    "privateContributions": 940,
-    "publicContributions": 13,
+    "followers": 33,
+    "privateContributions": 970,
+    "publicContributions": 9,
     "createdAt": "2014-09-06T09:27:02Z"
   },
   {
@@ -17202,9 +17190,9 @@
     "location": "Kabul, Afghanistan",
     "company": "Elitech",
     "twitterUsername": "a_faisal47",
-    "followers": 27,
-    "privateContributions": 1853,
-    "publicContributions": 115,
+    "followers": 28,
+    "privateContributions": 1810,
+    "publicContributions": 114,
     "createdAt": "2014-11-27T15:50:34Z"
   },
   {
@@ -17214,9 +17202,9 @@
     "location": "Afghanistan",
     "company": "Nethub",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2014-10-23T05:14:47Z"
   },
   {

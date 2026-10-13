@@ -16614,9 +16614,9 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 726,
-    "publicContributions": 825,
+    "followers": 2,
+    "privateContributions": 1086,
+    "publicContributions": 1048,
     "createdAt": "2023-03-19T09:03:54Z"
   },
   {
@@ -16628,7 +16628,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1074,
+    "publicContributions": 1083,
     "createdAt": "2023-11-25T07:58:58Z"
   },
   {
@@ -16638,7 +16638,7 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 59,
     "createdAt": "2023-07-05T09:01:23Z"
@@ -16652,7 +16652,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 53,
+    "publicContributions": 82,
     "createdAt": "2023-06-01T09:15:02Z"
   },
   {
@@ -16662,7 +16662,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-08-03T07:33:21Z"
@@ -16690,18 +16690,6 @@
     "privateContributions": 0,
     "publicContributions": 7,
     "createdAt": "2023-01-07T09:49:02Z"
-  },
-  {
-    "login": "TzengKyle",
-    "name": "Kyle Tseng",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128128604?s=72&u=e57e7e00abcfdf316f81361dd56b6faa69584d63&v=4",
-    "location": "Taiwan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 14,
-    "createdAt": "2023-03-17T07:33:28Z"
   },
   {
     "login": "EagleRaySinging",
@@ -16772,7 +16760,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 4,
     "createdAt": "2023-03-18T02:30:23Z"
   },
   {
@@ -16784,7 +16772,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2022-12-28T03:40:26Z"
   },
   {
@@ -16807,8 +16795,8 @@
     "company": "AS-BCST",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 349,
-    "publicContributions": 6,
+    "privateContributions": 265,
+    "publicContributions": 3,
     "createdAt": "2023-04-11T03:13:55Z"
   },
   {
@@ -16819,8 +16807,8 @@
     "company": "NTUIM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 396,
-    "publicContributions": 204,
+    "privateContributions": 356,
+    "publicContributions": 196,
     "createdAt": "2023-04-07T02:48:15Z"
   },
   {
@@ -16828,11 +16816,11 @@
     "name": "Bao Le",
     "avatarUrl": "https://avatars.githubusercontent.com/u/127121163?s=72&u=38acd6c66f43b433fbbf63044cafc05629e12ec0&v=4",
     "location": "Taiwan",
-    "company": "eCloudvalley",
+    "company": "Micron Technology",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 54,
     "createdAt": "2023-03-06T14:36:34Z"
   },
   {

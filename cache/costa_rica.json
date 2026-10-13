@@ -17132,7 +17132,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 901,
+    "publicContributions": 843,
     "createdAt": "2022-08-23T00:33:16Z"
   },
   {
@@ -17144,7 +17144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 19,
     "createdAt": "2022-05-04T10:13:05Z"
   },
   {
@@ -17154,7 +17154,7 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2022-08-20T18:53:32Z"
@@ -17180,7 +17180,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 6,
     "createdAt": "2022-03-09T01:17:53Z"
   },
   {
@@ -17200,11 +17200,11 @@
     "name": "David Granados",
     "avatarUrl": "https://avatars.githubusercontent.com/u/103458202?s=72&u=77f1a451c781502e56b980d7988aefbb5f4eeb6e&v=4",
     "location": "Costa Rica",
-    "company": "",
+    "company": "JLL",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 47,
     "createdAt": "2022-04-11T20:02:41Z"
   },
   {
@@ -17257,14 +17257,14 @@
   },
   {
     "login": "Joshisan",
-    "name": "Joshisan Devie",
+    "name": "Jossué Sanabria",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109239412?s=72&u=7ffb69e51df950aff6f7283e309a58ecb26408c6&v=4",
     "location": "Costa Rica",
-    "company": "Morphobit Inc.",
+    "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2022-07-13T17:38:04Z"
   },
   {
@@ -17287,7 +17287,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 251,
+    "privateContributions": 236,
     "publicContributions": 46,
     "createdAt": "2022-03-09T03:10:10Z"
   },
@@ -17298,7 +17298,7 @@
     "location": "Costa Rica ",
     "company": "Microsoft",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-12T14:37:34Z"
@@ -17342,7 +17342,7 @@
   {
     "login": "Crisledezma",
     "name": "Cristian Ledezma",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/98240946?s=72&u=bdc7e9bc27b085b6e0120fd9cda2795500c95cfa&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/98240946?s=72&u=6037ee9623f899999a358a325fcdfbb90d05ce8e&v=4",
     "location": "San José, Costa Rica",
     "company": "",
     "twitterUsername": "Crisledezma",
@@ -17353,10 +17353,10 @@
   },
   {
     "login": "AndridMontero",
-    "name": "Andrid Javier Montero Lopez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114886478?s=72&u=864d5b3d7056857e3bc437b21e95bd56bbda9443&v=4",
+    "name": "Andrid Montero",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114886478?s=72&u=70cf01425cd36a37d7817db35d13c796ab010232&v=4",
     "location": "Costa Rica",
-    "company": "",
+    "company": "TechHeroes Company",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,

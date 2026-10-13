@@ -16675,8 +16675,8 @@
     "company": "@narrativeproject",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 6754,
-    "publicContributions": 23,
+    "privateContributions": 11323,
+    "publicContributions": 46,
     "createdAt": "2022-12-08T11:09:22Z"
   },
   {
@@ -16686,9 +16686,9 @@
     "location": "Hong Kong",
     "company": "LTC AI Lab",
     "twitterUsername": "lazercuber",
-    "followers": 17,
-    "privateContributions": 25,
-    "publicContributions": 46,
+    "followers": 20,
+    "privateContributions": 10,
+    "publicContributions": 45,
     "createdAt": "2022-09-13T06:38:33Z"
   },
   {
@@ -16698,9 +16698,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 17,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 6,
     "createdAt": "2022-11-05T10:18:09Z"
   },
   {
@@ -16711,8 +16711,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 207,
-    "publicContributions": 21,
+    "privateContributions": 199,
+    "publicContributions": 33,
     "createdAt": "2022-02-17T00:06:44Z"
   },
   {
@@ -16722,8 +16722,8 @@
     "location": "Hong Kong",
     "company": "Silrith io.",
     "twitterUsername": "silrithio",
-    "followers": 16,
-    "privateContributions": 585,
+    "followers": 17,
+    "privateContributions": 712,
     "publicContributions": 2,
     "createdAt": "2022-01-09T07:51:12Z"
   },
@@ -16747,8 +16747,8 @@
     "company": "HKBU | HKU",
     "twitterUsername": "chemistryloveri",
     "followers": 15,
-    "privateContributions": 870,
-    "publicContributions": 61,
+    "privateContributions": 839,
+    "publicContributions": 29,
     "createdAt": "2022-01-11T01:57:23Z"
   },
   {
@@ -16758,20 +16758,20 @@
     "location": "Hong Kong",
     "company": "University of Hong Kong",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 38,
-    "publicContributions": 10,
+    "followers": 17,
+    "privateContributions": 60,
+    "publicContributions": 4,
     "createdAt": "2022-11-05T19:11:34Z"
   },
   {
     "login": "yuhao536",
-    "name": "Yuhao Li（李宇豪）",
+    "name": "Yuhao Li (李宇豪)",
     "avatarUrl": "https://avatars.githubusercontent.com/u/106574511?s=72&u=a2ffc9ad2220c5b70914d7287245c6e1f2d72a79&v=4",
     "location": "Hong Kong",
     "company": "CSE, CUHK",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 470,
+    "followers": 19,
+    "privateContributions": 488,
     "publicContributions": 22,
     "createdAt": "2022-05-31T04:50:58Z"
   },
@@ -16784,7 +16784,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 69,
     "createdAt": "2022-06-17T07:54:46Z"
   },
   {
@@ -16796,7 +16796,7 @@
     "twitterUsername": "aqeel_abbas5",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2022-01-01T15:10:38Z"
   },
   {
@@ -16807,8 +16807,8 @@
     "company": "ASL",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2024,
-    "publicContributions": 19,
+    "privateContributions": 1788,
+    "publicContributions": 14,
     "createdAt": "2022-04-29T07:01:37Z"
   },
   {
@@ -16818,9 +16818,9 @@
     "location": "Hong Kong",
     "company": "HKU",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 120,
-    "publicContributions": 58,
+    "followers": 16,
+    "privateContributions": 280,
+    "publicContributions": 57,
     "createdAt": "2022-03-04T13:01:50Z"
   },
   {
@@ -16842,7 +16842,7 @@
     "location": "Hong Kong, China",
     "company": "CUHK",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-03-11T08:32:22Z"
@@ -16854,21 +16854,21 @@
     "location": "Hong Kong",
     "company": "HKUST",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 2,
     "createdAt": "2022-09-28T13:20:33Z"
   },
   {
     "login": "ZhuchkaTriplesix",
-    "name": "Eva Rei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114882226?s=72&u=4168325173fa6e023e47bd0025e9444284bcaba2&v=4",
+    "name": "3rdYuno",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114882226?s=72&u=31a5e9adffbafc38f623bff2dc0d5c9996a881a1&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 2001,
-    "publicContributions": 4280,
+    "followers": 16,
+    "privateContributions": 2016,
+    "publicContributions": 6876,
     "createdAt": "2022-10-02T20:27:43Z"
   },
   {
@@ -16879,8 +16879,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 2457,
-    "publicContributions": 7,
+    "privateContributions": 2298,
+    "publicContributions": 11,
     "createdAt": "2022-05-07T15:53:23Z"
   },
   {
@@ -16902,9 +16902,9 @@
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 13,
     "privateContributions": 466,
-    "publicContributions": 48,
+    "publicContributions": 0,
     "createdAt": "2022-03-08T14:10:47Z"
   },
   {

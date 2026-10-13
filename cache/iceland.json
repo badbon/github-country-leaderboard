@@ -16866,9 +16866,9 @@
     "location": "Reykjavik",
     "company": "Intelligent Instruments Lab",
     "twitterUsername": "thormagnusson",
-    "followers": 311,
+    "followers": 316,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2011-04-10T13:37:18Z"
   },
   {
@@ -16880,7 +16880,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 20,
     "createdAt": "2011-02-21T09:59:11Z"
   },
   {
@@ -16890,9 +16890,9 @@
     "location": "Reykjavik",
     "company": "bla",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2011-07-15T09:28:17Z"
   },
   {
@@ -16902,8 +16902,8 @@
     "location": "Reykjavik",
     "company": "wat",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 950,
+    "followers": 12,
+    "privateContributions": 2040,
     "publicContributions": 57,
     "createdAt": "2011-09-07T18:51:49Z"
   },
@@ -16927,8 +16927,8 @@
     "company": "@QuestPortal ",
     "twitterUsername": "gunniho",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 13,
+    "privateContributions": 5875,
+    "publicContributions": 56,
     "createdAt": "2011-12-11T12:43:35Z"
   },
   {
@@ -16951,7 +16951,7 @@
     "company": "@wonderguide-com ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1,
+    "privateContributions": 9,
     "publicContributions": 0,
     "createdAt": "2011-08-27T12:51:25Z"
   },
@@ -16962,7 +16962,7 @@
     "location": "Iceland",
     "company": "Reykjavík University",
     "twitterUsername": "",
-    "followers": 736,
+    "followers": 740,
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2010-01-21T18:20:39Z"
@@ -16975,8 +16975,8 @@
     "company": "@WorkBrew",
     "twitterUsername": "",
     "followers": 488,
-    "privateContributions": 4602,
-    "publicContributions": 1017,
+    "privateContributions": 4838,
+    "publicContributions": 970,
     "createdAt": "2010-06-30T01:13:18Z"
   },
   {
@@ -16986,9 +16986,9 @@
     "location": "Reykjavík, Iceland",
     "company": "@enumstudio ",
     "twitterUsername": "birkirgudjonson",
-    "followers": 450,
-    "privateContributions": 2100,
-    "publicContributions": 14,
+    "followers": 451,
+    "privateContributions": 3342,
+    "publicContributions": 13,
     "createdAt": "2010-01-12T14:44:57Z"
   },
   {
@@ -16998,7 +16998,7 @@
     "location": "Reykjavik, Iceland",
     "company": "The Beanstalks Project ehf.",
     "twitterUsername": "PageKite",
-    "followers": 281,
+    "followers": 283,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2010-10-22T23:52:29Z"
@@ -17010,9 +17010,9 @@
     "location": "Mosfellsbær, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 166,
-    "privateContributions": 2629,
-    "publicContributions": 1105,
+    "followers": 169,
+    "privateContributions": 2968,
+    "publicContributions": 1141,
     "createdAt": "2010-02-10T22:50:10Z"
   },
   {
@@ -17023,18 +17023,18 @@
     "company": "",
     "twitterUsername": "gauiis",
     "followers": 75,
-    "privateContributions": 0,
+    "privateContributions": 180,
     "publicContributions": 0,
     "createdAt": "2010-11-11T20:40:13Z"
   },
   {
     "login": "hlysig",
     "name": "Hlynur Sigurþórsson",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/223798?s=72&u=d5bcc429e64934a5417272e57141b669f9cf3e4a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/223798?s=72&v=4",
     "location": "Iceland, Reykjavík",
     "company": "@gangverk @bastaai ",
     "twitterUsername": "",
-    "followers": 60,
+    "followers": 61,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2010-03-16T13:18:34Z"
@@ -17046,9 +17046,9 @@
     "location": "Reykjavík, Iceland",
     "company": "@gangverk",
     "twitterUsername": "",
-    "followers": 43,
-    "privateContributions": 1375,
-    "publicContributions": 517,
+    "followers": 47,
+    "privateContributions": 1618,
+    "publicContributions": 558,
     "createdAt": "2010-02-19T16:23:30Z"
   },
   {
@@ -17059,8 +17059,8 @@
     "company": "nemur.net",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 13,
-    "publicContributions": 249,
+    "privateContributions": 14,
+    "publicContributions": 227,
     "createdAt": "2010-01-15T16:12:42Z"
   },
   {
@@ -17070,9 +17070,9 @@
     "location": "Iceland",
     "company": "@Sothebys @Natusehf @KolibriDev @Codato @Hauxi ",
     "twitterUsername": "",
-    "followers": 30,
-    "privateContributions": 3358,
-    "publicContributions": 69,
+    "followers": 31,
+    "privateContributions": 4547,
+    "publicContributions": 77,
     "createdAt": "2010-03-15T21:17:10Z"
   },
   {
@@ -17082,9 +17082,9 @@
     "location": "Reykjavik, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 29,
+    "followers": 33,
     "privateContributions": 11,
-    "publicContributions": 501,
+    "publicContributions": 651,
     "createdAt": "2010-10-27T00:17:36Z"
   },
   {
@@ -17094,9 +17094,9 @@
     "location": "Reykjavik, Iceland",
     "company": "",
     "twitterUsername": "",
-    "followers": 27,
+    "followers": 28,
     "privateContributions": 2,
-    "publicContributions": 121,
+    "publicContributions": 124,
     "createdAt": "2010-08-09T01:19:13Z"
   },
   {
