@@ -18019,8 +18019,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 149,
-    "publicContributions": 77,
+    "privateContributions": 78,
+    "publicContributions": 66,
     "createdAt": "2022-10-30T15:38:53Z"
   },
   {
@@ -18030,9 +18030,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 87,
-    "publicContributions": 245,
+    "followers": 6,
+    "privateContributions": 485,
+    "publicContributions": 416,
     "createdAt": "2022-09-21T14:14:35Z"
   },
   {
@@ -18040,7 +18040,7 @@
     "name": "Mahdi Abu Hamida",
     "avatarUrl": "https://avatars.githubusercontent.com/u/100580487?s=72&u=ea20014304247b54bf361aafc595107a4f2131a8&v=4",
     "location": "Northern District, Israel",
-    "company": "Electro 2000",
+    "company": "Local Store",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
@@ -18050,13 +18050,13 @@
   {
     "login": "Orda120",
     "name": "Or Dahan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102467475?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102467475?s=72&u=b845990c35f07c473b71ae2a4c36e916960d62f5&v=4",
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 16,
+    "privateContributions": 1253,
+    "publicContributions": 17,
     "createdAt": "2022-03-27T11:42:58Z"
   },
   {
@@ -18080,7 +18080,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 364,
+    "publicContributions": 363,
     "createdAt": "2022-09-11T17:40:01Z"
   },
   {
@@ -18091,7 +18091,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 366,
+    "privateContributions": 453,
     "publicContributions": 1,
     "createdAt": "2022-10-30T11:11:29Z"
   },
@@ -18120,18 +18120,6 @@
     "createdAt": "2022-10-30T20:42:31Z"
   },
   {
-    "login": "IvanKuper",
-    "name": "Ivan Kuper",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/106661931?s=72&u=02781f1380f0db7d4784f8aa77c021893bf6372a&v=4",
-    "location": "Israel",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 112,
-    "publicContributions": 2,
-    "createdAt": "2022-06-01T09:15:21Z"
-  },
-  {
     "login": "RomRL",
     "name": "Rom Harel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109737626?s=72&u=85ea48ab94bfc8daa69a6fa5d7e864b22d8a61be&v=4",
@@ -18152,7 +18140,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 5,
     "createdAt": "2022-09-17T20:05:24Z"
   },
   {
@@ -18164,7 +18152,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 27,
     "createdAt": "2022-12-01T13:50:38Z"
   },
   {
@@ -18176,7 +18164,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4002,
+    "publicContributions": 3965,
     "createdAt": "2022-03-29T15:29:17Z"
   },
   {

@@ -17774,7 +17774,7 @@
   {
     "login": "misratjahan512",
     "name": "Misrat Jahan Simi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/196485921?s=72&u=e8d3b377fd375fd9c37b7d7ef5ff125962269293&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/196485921?s=72&u=a1d51b4d6166f7a1c112c3f3fa7fa1d1ee39aa5e&v=4",
     "location": "Bangladesh ",
     "company": "",
     "twitterUsername": "",
@@ -17804,7 +17804,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 0,
     "createdAt": "2025-01-28T19:51:05Z"
   },
   {
@@ -17826,9 +17826,9 @@
     "location": "Bangladesh",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 8,
     "createdAt": "2025-02-05T11:46:10Z"
   },
   {
@@ -17864,7 +17864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 1,
     "createdAt": "2025-02-14T16:28:47Z"
   },
   {
@@ -17888,7 +17888,7 @@
     "twitterUsername": "Helal568768",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 740,
+    "publicContributions": 693,
     "createdAt": "2024-12-31T07:41:00Z"
   },
   {
@@ -17900,7 +17900,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 45,
     "createdAt": "2025-03-04T04:50:53Z"
   },
   {
@@ -17910,21 +17910,21 @@
     "location": "Fatikchari, Chattogram, Bangladesh.",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 152,
+    "publicContributions": 235,
     "createdAt": "2025-01-08T10:43:38Z"
   },
   {
     "login": "pritom76",
     "name": "Pritom Roy",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/200709360?s=72&u=acdde5de6f222512309226550bf44e125b52049e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/200709360?s=72&u=d450e7c0e75072276f6af742a8f83e5b330fc3ff&v=4",
     "location": "Dhaka , Bangladesh",
     "company": "Jahangirnagar University",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 62,
     "createdAt": "2025-02-25T03:44:25Z"
   },
   {
@@ -17936,7 +17936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 101,
+    "publicContributions": 90,
     "createdAt": "2025-02-22T01:58:07Z"
   },
   {
@@ -17947,8 +17947,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 694,
-    "publicContributions": 108,
+    "privateContributions": 631,
+    "publicContributions": 449,
     "createdAt": "2025-02-08T13:11:40Z"
   },
   {
@@ -17972,7 +17972,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2025-02-16T03:10:58Z"
   },
   {
@@ -663526,5 +663526,17 @@
     "privateContributions": 0,
     "publicContributions": 69,
     "createdAt": "2026-06-13T14:57:10Z"
+  },
+  {
+    "login": "Mohaiminul2",
+    "name": "Sadi Mohaimin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/145025285?s=72&u=6e413225d148507a3e9978b318d0e68169b93a78&v=4",
+    "location": "Dhaka, Bangladesh",
+    "company": "FRISTA retail AG",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 72,
+    "createdAt": "2023-09-14T13:09:31Z"
   }
 ]

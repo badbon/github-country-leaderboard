@@ -17684,7 +17684,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 1,
-    "publicContributions": 166,
+    "publicContributions": 137,
     "createdAt": "2023-01-09T12:50:36Z"
   },
   {
@@ -17719,7 +17719,7 @@
     "company": " Lapin University of Applied Science ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
+    "privateContributions": 38,
     "publicContributions": 84,
     "createdAt": "2023-10-10T20:38:26Z"
   },
@@ -17754,7 +17754,7 @@
     "location": "Finland, Tampere",
     "company": "Tuni",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-02-09T17:27:20Z"
@@ -17784,18 +17784,6 @@
     "createdAt": "2023-07-31T18:10:05Z"
   },
   {
-    "login": "matbou85",
-    "name": "Matthieu Bourgery",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144766083?s=72&v=4",
-    "location": "Finland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-09-12T05:32:03Z"
-  },
-  {
     "login": "Hupifri",
     "name": "Hugo Huotari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/153357113?s=72&u=1ef9e7c35e4a6ad68b6b1d71b7b80198da4cd1ce&v=4",
@@ -17815,8 +17803,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 47,
-    "publicContributions": 683,
+    "privateContributions": 49,
+    "publicContributions": 678,
     "createdAt": "2023-08-26T13:35:14Z"
   },
   {
@@ -17839,8 +17827,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 69,
-    "publicContributions": 60,
+    "privateContributions": 65,
+    "publicContributions": 76,
     "createdAt": "2023-09-06T10:20:14Z"
   },
   {
@@ -17850,9 +17838,9 @@
     "location": "Finland",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 1,
     "createdAt": "2023-01-16T07:33:25Z"
   },
   {
@@ -217966,5 +217954,17 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2026-05-27T11:45:24Z"
+  },
+  {
+    "login": "akx25",
+    "name": "ak",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297703120?s=72&u=dbbd11f842e910ec5a5cf356e3ed3e723fd2631f&v=4",
+    "location": "Finland",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 3,
+    "privateContributions": 0,
+    "publicContributions": 171,
+    "createdAt": "2026-06-28T18:59:07Z"
   }
 ]

@@ -17791,8 +17791,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 7,
-    "publicContributions": 1,
+    "privateContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2023-02-04T23:27:08Z"
   },
   {
@@ -17844,18 +17844,6 @@
     "createdAt": "2023-02-25T21:04:53Z"
   },
   {
-    "login": "jordan-hennessy",
-    "name": "Jordan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151176205?s=72&u=f25c275b65ece492a5bff11ffb600857df0448d3&v=4",
-    "location": "Ireland",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 80,
-    "publicContributions": 766,
-    "createdAt": "2023-11-17T13:40:17Z"
-  },
-  {
     "login": "alinayevstropova",
     "name": "Alina Yevstropova",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139133840?s=72&u=53611fd16c089183888c78cc3b61c01ea3b27d4b&v=4",
@@ -17863,7 +17851,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 179,
+    "privateContributions": 854,
     "publicContributions": 45,
     "createdAt": "2023-07-10T12:21:25Z"
   },
@@ -17876,7 +17864,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 25,
     "createdAt": "2023-10-21T11:58:17Z"
   },
   {
@@ -17888,7 +17876,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 9,
     "createdAt": "2023-06-02T18:36:26Z"
   },
   {
@@ -17936,7 +17924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2023-04-15T13:15:13Z"
   },
   {
@@ -17948,20 +17936,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 13,
     "createdAt": "2023-05-17T19:19:58Z"
-  },
-  {
-    "login": "Adhiccup",
-    "name": "Adhiccup",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/133824278?s=72&u=89a055bc38f8296af15d8c8023d91deb225832f0&v=4",
-    "location": "Dubline, Ireland",
-    "company": "ICT",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-05-16T23:22:44Z"
   },
   {
     "login": "kashif-liaqat",
@@ -17984,7 +17960,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 67,
+    "publicContributions": 44,
     "createdAt": "2023-10-12T13:41:46Z"
   },
   {
@@ -18007,7 +17983,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 90,
+    "privateContributions": 69,
     "publicContributions": 0,
     "createdAt": "2023-07-31T15:34:35Z"
   },

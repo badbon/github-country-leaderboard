@@ -17600,7 +17600,7 @@
     "twitterUsername": "patriksetalo",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 17,
     "createdAt": "2022-04-07T20:32:16Z"
   },
   {
@@ -17611,8 +17611,8 @@
     "company": "Kir-Dev",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1318,
-    "publicContributions": 827,
+    "privateContributions": 2882,
+    "publicContributions": 746,
     "createdAt": "2022-11-10T18:17:20Z"
   },
   {
@@ -17622,7 +17622,7 @@
     "location": "Budapest",
     "company": "@ZIPPUP-Team",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-26T15:18:22Z"
@@ -17634,9 +17634,9 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 214,
-    "publicContributions": 133,
+    "followers": 4,
+    "privateContributions": 53,
+    "publicContributions": 106,
     "createdAt": "2022-06-27T11:45:55Z"
   },
   {
@@ -17648,7 +17648,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 46,
+    "publicContributions": 37,
     "createdAt": "2022-05-25T07:00:21Z"
   },
   {
@@ -17658,21 +17658,21 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 205,
+    "publicContributions": 163,
     "createdAt": "2022-08-16T13:05:40Z"
   },
   {
     "login": "Maximus23451",
     "name": "Max",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/101045264?s=72&u=04e0bafe80f0b7bd02ee584b40be9e0519f38b9d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101045264?s=72&u=55ac6e1e3c4058219bb0a61879e60d817ac6d286&v=4",
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 19,
-    "publicContributions": 164,
+    "privateContributions": 38,
+    "publicContributions": 163,
     "createdAt": "2022-03-06T11:12:24Z"
   },
   {
@@ -17684,7 +17684,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 1,
     "createdAt": "2022-09-18T09:01:59Z"
   },
   {
@@ -17720,7 +17720,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 35,
     "createdAt": "2022-12-11T01:53:08Z"
   },
   {
@@ -17730,7 +17730,7 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-05-08T16:43:45Z"
@@ -17780,7 +17780,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 82,
     "createdAt": "2022-08-26T17:07:34Z"
   },
   {
@@ -17804,7 +17804,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 18,
+    "publicContributions": 8,
     "createdAt": "2022-04-07T09:18:16Z"
   },
   {
@@ -17814,9 +17814,9 @@
     "location": "Budapest",
     "company": "HUN-REN CSS",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 436,
+    "publicContributions": 479,
     "createdAt": "2022-07-08T11:59:01Z"
   },
   {
@@ -17826,8 +17826,8 @@
     "location": "Budapest",
     "company": "eCon Engineering",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 4,
+    "followers": 3,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-09-02T08:14:10Z"
   },

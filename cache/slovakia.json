@@ -17527,7 +17527,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1590,
+    "privateContributions": 1604,
     "publicContributions": 0,
     "createdAt": "2020-11-04T15:38:36Z"
   },
@@ -17539,8 +17539,8 @@
     "company": "@keggtech",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1197,
-    "publicContributions": 56,
+    "privateContributions": 1406,
+    "publicContributions": 30,
     "createdAt": "2020-03-05T16:12:12Z"
   },
   {
@@ -17550,8 +17550,8 @@
     "location": "Kosice, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 1275,
+    "followers": 2,
+    "privateContributions": 1439,
     "publicContributions": 0,
     "createdAt": "2020-08-21T09:09:26Z"
   },
@@ -17576,7 +17576,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 283,
+    "publicContributions": 312,
     "createdAt": "2020-03-19T11:24:40Z"
   },
   {
@@ -17595,25 +17595,13 @@
     "login": "lum3ye",
     "name": "Volodymyr",
     "avatarUrl": "https://avatars.githubusercontent.com/u/75204309?s=72&u=8e6252ca1dc5b5ce00d46ad00bc5e3b80c030164&v=4",
-    "location": "Ukraine, Slovakia",
+    "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-11-29T11:06:11Z"
-  },
-  {
-    "login": "xpointsolution",
-    "name": "XPoint Solutions",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/63318717?s=72&u=095c696a28fc288012fafd922cf42418171623f3&v=4",
-    "location": "Kosice, Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 17,
-    "createdAt": "2020-04-07T20:36:16Z"
   },
   {
     "login": "proasnet",
@@ -17624,7 +17612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2020-12-25T05:59:44Z"
   },
   {
@@ -17635,8 +17623,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 989,
-    "publicContributions": 151,
+    "privateContributions": 1410,
+    "publicContributions": 163,
     "createdAt": "2020-10-18T13:50:04Z"
   },
   {

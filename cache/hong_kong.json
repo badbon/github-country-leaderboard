@@ -17580,18 +17580,6 @@
     "createdAt": "2022-07-06T09:17:33Z"
   },
   {
-    "login": "HLLF-FAN",
-    "name": "FAN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/107034178?s=72&u=1e5fbed787c17e285d6d31df8f7fe5d1efa6054c&v=4",
-    "location": "Hong Kong",
-    "company": "FAN Studio",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 1,
-    "publicContributions": 3,
-    "createdAt": "2022-06-07T08:47:38Z"
-  },
-  {
     "login": "XinweiZhang1998",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/106583870?s=72&u=5a42883ba5a98606749cb70d9560876e1fe20cf0&v=4",
@@ -17600,20 +17588,8 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 45,
     "createdAt": "2022-05-31T08:09:07Z"
-  },
-  {
-    "login": "zhlouise",
-    "name": "Jia Yi Louise Zhou",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116058486?s=72&u=9e19e86d71cdd909ea043d56f08d8e280317ac28&v=4",
-    "location": "Hong Kong",
-    "company": "The Hong Kong Polytechnic University",
-    "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 8,
-    "publicContributions": 333,
-    "createdAt": "2022-10-18T06:05:44Z"
   },
   {
     "login": "ottoykh",
@@ -17624,7 +17600,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2022-09-02T01:22:06Z"
   },
   {
@@ -17646,7 +17622,7 @@
     "location": "Hong Kong",
     "company": "Huawei Technologies",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2022-08-09T11:19:20Z"
@@ -17658,9 +17634,9 @@
     "location": "Hong Kong",
     "company": "Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 9,
     "createdAt": "2022-01-14T15:51:44Z"
   },
   {
@@ -17670,9 +17646,9 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 545,
-    "publicContributions": 36,
+    "followers": 9,
+    "privateContributions": 651,
+    "publicContributions": 35,
     "createdAt": "2022-01-28T12:14:12Z"
   },
   {
@@ -17684,7 +17660,7 @@
     "twitterUsername": "DennisTay5",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 99,
+    "publicContributions": 94,
     "createdAt": "2022-07-21T03:47:09Z"
   },
   {
@@ -17696,7 +17672,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 96,
     "createdAt": "2022-03-20T11:43:49Z"
   },
   {
@@ -17706,21 +17682,21 @@
     "location": "Hong Kong",
     "company": "The University of Hong Kong",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 7,
+    "followers": 9,
+    "privateContributions": 9,
     "publicContributions": 19,
     "createdAt": "2022-02-18T13:42:37Z"
   },
   {
     "login": "AhiruNeko",
     "name": "AhiruNeko",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109407500?s=72&u=306e4f5bbd7198cd83d50e1c974382ff08d223ac&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109407500?s=72&u=2cd5314b3c9ce9024ed2cdd05117d7f3901db707&v=4",
     "location": "Hong Kong",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 246,
+    "publicContributions": 149,
     "createdAt": "2022-07-16T06:22:24Z"
   },
   {
@@ -17744,7 +17720,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-08-01T15:54:59Z"
   },
   {
@@ -17752,11 +17728,11 @@
     "name": "Nick_MC",
     "avatarUrl": "https://avatars.githubusercontent.com/u/107901861?s=72&u=9d877a12601178134c65a363295537635cf803ea&v=4",
     "location": "Hong Kong",
-    "company": "Nicknation Games",
+    "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 287,
-    "publicContributions": 186,
+    "privateContributions": 395,
+    "publicContributions": 154,
     "createdAt": "2022-06-21T02:52:46Z"
   },
   {
@@ -17768,7 +17744,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2022-08-14T01:42:20Z"
   },
   {
@@ -17778,9 +17754,9 @@
     "location": "Hong Kong",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 573,
-    "publicContributions": 6,
+    "followers": 8,
+    "privateContributions": 617,
+    "publicContributions": 4,
     "createdAt": "2022-02-16T10:42:42Z"
   },
   {
@@ -17792,7 +17768,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 26,
+    "publicContributions": 18,
     "createdAt": "2022-09-07T08:13:44Z"
   },
   {
@@ -17814,9 +17790,9 @@
     "location": "Hong Kong",
     "company": "Barrows Connected Store",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 9269,
-    "publicContributions": 25,
+    "followers": 6,
+    "privateContributions": 8260,
+    "publicContributions": 27,
     "createdAt": "2022-06-06T09:14:48Z"
   },
   {
