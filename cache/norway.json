@@ -17516,7 +17516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 62,
     "createdAt": "2023-09-11T06:55:19Z"
   },
   {
@@ -17540,7 +17540,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 175,
+    "publicContributions": 501,
     "createdAt": "2023-12-26T13:49:42Z"
   },
   {
@@ -17551,7 +17551,7 @@
     "company": "VPS Decarbonisation",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 1979,
+    "privateContributions": 3255,
     "publicContributions": 0,
     "createdAt": "2023-08-02T06:18:40Z"
   },
@@ -17563,8 +17563,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 81,
-    "privateContributions": 5,
-    "publicContributions": 71,
+    "privateContributions": 3,
+    "publicContributions": 28,
     "createdAt": "2023-11-09T10:27:37Z"
   },
   {
@@ -17574,7 +17574,7 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 25,
+    "followers": 12,
     "privateContributions": 0,
     "publicContributions": 61,
     "createdAt": "2023-02-21T13:56:07Z"
@@ -17586,7 +17586,7 @@
     "location": "Oslo",
     "company": "Elvebakken vgs",
     "twitterUsername": "",
-    "followers": 24,
+    "followers": 23,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-12-05T10:08:46Z"
@@ -17598,9 +17598,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 140,
-    "publicContributions": 261,
+    "followers": 21,
+    "privateContributions": 135,
+    "publicContributions": 259,
     "createdAt": "2023-08-25T14:42:52Z"
   },
   {
@@ -17610,9 +17610,9 @@
     "location": "Oslo",
     "company": "@sopra-steria-norge",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 795,
-    "publicContributions": 46,
+    "followers": 20,
+    "privateContributions": 745,
+    "publicContributions": 28,
     "createdAt": "2023-01-26T08:09:40Z"
   },
   {
@@ -17622,9 +17622,9 @@
     "location": "Oslo",
     "company": "Høyskolen Kristiania",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 16,
-    "publicContributions": 442,
+    "followers": 23,
+    "privateContributions": 5,
+    "publicContributions": 273,
     "createdAt": "2023-08-21T07:40:54Z"
   },
   {
@@ -17646,9 +17646,9 @@
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 1,
-    "publicContributions": 225,
+    "followers": 17,
+    "privateContributions": 0,
+    "publicContributions": 11,
     "createdAt": "2023-11-27T12:54:27Z"
   },
   {
@@ -17658,9 +17658,9 @@
     "location": "Oslo",
     "company": "@kult-byra ",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 1377,
-    "publicContributions": 115,
+    "followers": 14,
+    "privateContributions": 1984,
+    "publicContributions": 128,
     "createdAt": "2023-01-25T20:16:27Z"
   },
   {
@@ -17668,35 +17668,35 @@
     "name": "Chris Robert Berg",
     "avatarUrl": "https://avatars.githubusercontent.com/u/142938616?s=72&u=ffb2af9afc1730fddb5ace4e79ad402fd1d839e3&v=4",
     "location": "Oslo",
-    "company": "Noroff",
+    "company": "Høyskolen kristiania",
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 12,
     "createdAt": "2023-08-22T19:46:50Z"
   },
   {
     "login": "camzymb",
     "name": "Camille Nicole ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/127772567?s=72&u=043b9e83daadac8cc410fb2c9d4ece7acd7ddd66&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/127772567?s=72&u=acc0504d93295183731735ccab12c2f27df68528&v=4",
     "location": "Oslo",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 29,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 68,
     "createdAt": "2023-03-13T16:02:06Z"
   },
   {
     "login": "radwaag0211",
     "name": "Radwa Godor",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/150075332?s=72&u=0bd6812bb7da3eeeb2204158a7e8405d6d8295e8&v=4",
-    "location": "Oslo",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/150075332?s=72&u=380e472126113c7111581fac29b9a450bba27454&v=4",
+    "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 51,
     "createdAt": "2023-11-06T19:22:32Z"
   },
   {

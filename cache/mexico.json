@@ -17324,7 +17324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 51,
+    "publicContributions": 54,
     "createdAt": "2024-02-08T16:55:47Z"
   },
   {
@@ -17372,7 +17372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 258,
+    "publicContributions": 236,
     "createdAt": "2024-09-16T22:29:26Z"
   },
   {
@@ -17408,7 +17408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 77,
     "createdAt": "2024-03-18T21:56:58Z"
   },
   {
@@ -17419,7 +17419,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 5,
+    "privateContributions": 4,
     "publicContributions": 0,
     "createdAt": "2024-01-17T04:27:44Z"
   },
@@ -17430,7 +17430,7 @@
     "location": "Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-23T04:52:07Z"
@@ -17480,7 +17480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2024-11-13T04:37:01Z"
   },
   {
@@ -17502,9 +17502,9 @@
     "location": "CDMX, Mexico",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 65,
     "createdAt": "2024-11-08T13:48:52Z"
   },
   {
@@ -17512,11 +17512,11 @@
     "name": "タヒク",
     "avatarUrl": "https://avatars.githubusercontent.com/u/165953459?s=72&u=d83921c2871ca63d5fb17578b0b2c9011f7df186&v=4",
     "location": "Mexico",
-    "company": "Alalia Team (Currently Disbanded)",
+    "company": "DBA Alalia",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
-    "publicContributions": 13,
+    "privateContributions": 43,
+    "publicContributions": 15,
     "createdAt": "2024-04-03T19:46:57Z"
   },
   {
@@ -17528,7 +17528,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 88,
+    "publicContributions": 97,
     "createdAt": "2024-11-26T17:57:48Z"
   },
   {
@@ -17540,20 +17540,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 227,
+    "publicContributions": 182,
     "createdAt": "2024-03-27T11:41:50Z"
-  },
-  {
-    "login": "RolandoCabreraxyz",
-    "name": "Ronnie",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/181601955?s=72&v=4",
-    "location": "Mexico",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 31,
-    "createdAt": "2024-09-14T21:08:52Z"
   },
   {
     "login": "mjcolivier04",

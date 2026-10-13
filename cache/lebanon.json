@@ -17527,21 +17527,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 338,
-    "publicContributions": 143,
+    "privateContributions": 604,
+    "publicContributions": 148,
     "createdAt": "2020-01-15T09:57:06Z"
-  },
-  {
-    "login": "CharbelDaher8",
-    "name": "Charbel",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64895607?s=72&u=7fb69172acd8176ae99ccc3d7e6cb57488978e17&v=4",
-    "location": "Beirut, Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 25,
-    "publicContributions": 129,
-    "createdAt": "2020-05-06T09:02:13Z"
   },
   {
     "login": "khaledbaghdadii",
@@ -17558,13 +17546,13 @@
   {
     "login": "alishkeir",
     "name": "Ali Shokair",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/60306272?s=72&u=2db7bf0e23a0e9b750b075ffe477400379227d6b&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/60306272?s=72&u=0732cd80fd35d34839e89e083688b63fb987993e&v=4",
     "location": "Beirut, Lebanon",
     "company": "Freelance",
     "twitterUsername": "alishkeir_",
     "followers": 4,
-    "privateContributions": 6224,
-    "publicContributions": 1,
+    "privateContributions": 5575,
+    "publicContributions": 2,
     "createdAt": "2020-01-26T01:56:14Z"
   },
   {
@@ -17587,7 +17575,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 195,
+    "privateContributions": 165,
     "publicContributions": 0,
     "createdAt": "2020-03-15T09:18:42Z"
   },
@@ -17611,7 +17599,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1551,
+    "privateContributions": 1642,
     "publicContributions": 0,
     "createdAt": "2020-04-14T19:17:09Z"
   },
@@ -17634,9 +17622,9 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 8,
-    "publicContributions": 0,
+    "followers": 5,
+    "privateContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2020-05-25T08:25:51Z"
   },
   {
@@ -17658,7 +17646,7 @@
     "location": "Lebanon, Bei",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 44,
     "createdAt": "2020-05-01T08:37:56Z"
@@ -17744,7 +17732,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-04-15T18:54:40Z"
   },
   {
