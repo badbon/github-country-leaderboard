@@ -16,7 +16,7 @@ Indexed users: 212
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,784 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,435 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,738 |
-| 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,502 |
+| 5 | [axelearning](https://github.com/axelearning) | Axel Rasse | Reunion island | 3,549 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | Reunion Island | 2,767 |
 | 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | Reunion Island, France | 2,411 |
 | 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Saint-Denis | 2,305 |
@@ -62,7 +62,7 @@ Indexed users: 212
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde | Réunion | 158 |
+| 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde | Réunion | 159 |
 | 2 | [Wes974](https://github.com/Wes974) | Ouwéis | Reunion Island | 155 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Réunion | 94 |
 | 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 67 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-13T02:30:05.348Z
+Generated: 2026-10-13T04:02:07.518Z

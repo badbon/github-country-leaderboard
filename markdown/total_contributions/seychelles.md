@@ -1,6 +1,6 @@
 # Total Contributions - Seychelles
 
-Generated: 2026-10-13T02:34:37.110Z
+Generated: 2026-10-13T04:06:51.691Z
 
 Users: 1770
 
@@ -8,10 +8,10 @@ Users: 1770
 |---:|---|---|---|---|---|---:|
 | 1 | [ericmacdougall](https://github.com/ericmacdougall) | Eric MacDougall | @framebright  | ericmacdougall | Victoria, BC Canada | 31597 |
 | 2 | [bryceeppler](https://github.com/bryceeppler) | Bryce Eppler |  |  | Victoria BC | 12117 |
-| 3 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | SuperEpic Ventures Ltd. |  | Victoria BC Canada | 10207 |
-| 4 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | @closient  | cjensen | Victoria, BC | 9357 |
-| 5 | [plohkoon](https://github.com/plohkoon) | Greg Huber | @rubosstech  |  | Victoria, BC | 9189 |
-| 6 | [kwintin](https://github.com/kwintin) | Quentin |  |  | Victoria, BC | 8695 |
+| 3 | [kwintin](https://github.com/kwintin) | Quentin |  |  | Victoria, BC | 11089 |
+| 4 | [jdegreef](https://github.com/jdegreef) | James Peter DeGreef | SuperEpic Ventures Ltd. |  | Victoria BC Canada | 10207 |
+| 5 | [jensenbox](https://github.com/jensenbox) | Christian Jensen | @closient  | cjensen | Victoria, BC | 9357 |
+| 6 | [plohkoon](https://github.com/plohkoon) | Greg Huber | @rubosstech  |  | Victoria, BC | 9189 |
 | 7 | [jeffreyguenther](https://github.com/jeffreyguenther) | Jeffrey Guenther | @LoamStudios  | jeffreyguenther | Victoria, BC | 8221 |
 | 8 | [wsmontes](https://github.com/wsmontes) | Wagner Montes |  |  |  Victoria, BC - Canada | 7711 |
 | 9 | [ascott](https://github.com/ascott) | Alanna Scott | @trykinside  |  | Victoria, BC | 7211 |

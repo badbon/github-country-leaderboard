@@ -1,12 +1,12 @@
 # Followers - Réunion
 
-Generated: 2026-10-13T02:30:05.348Z
+Generated: 2026-10-13T04:02:07.518Z
 
 Users: 212
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde |  |  | Réunion | 158 |
+| 1 | [fvsch](https://github.com/fvsch) | Florens Verschelde |  |  | Réunion | 159 |
 | 2 | [Wes974](https://github.com/Wes974) | Ouwéis |  |  | Reunion Island | 155 |
 | 3 | [elmarco](https://github.com/elmarco) | Marc-André Lureau | Red Hat, Inc. | elmarco | Réunion | 94 |
 | 4 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | @Basaltbytes @Coding-Dodo | _philDL | Réunion | 67 |

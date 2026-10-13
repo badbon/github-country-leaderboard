@@ -186,7 +186,7 @@ Published countries: 234
 | Samoa | 19 | [View](./samoa.md) |
 | San Marino | 61 | [View](./san_marino.md) |
 | São Tomé and Príncipe | 20 | [View](./sao_tome_and_principe.md) |
-| Saudi Arabia | 7,750 | [View](./saudi_arabia.md) |
+| Saudi Arabia | 7,749 | [View](./saudi_arabia.md) |
 | Senegal | 1,357 | [View](./senegal.md) |
 | Serbia | 10,670 | [View](./serbia.md) |
 | Seychelles | 1,770 | [View](./seychelles.md) |
@@ -237,6 +237,6 @@ Published countries: 234
 | Western Sahara | 5 | [View](./western_sahara.md) |
 | Yemen | 1,206 | [View](./yemen.md) |
 | Zambia | 1,339 | [View](./zambia.md) |
-| Zimbabwe | 1,654 | [View](./zimbabwe.md) |
+| Zimbabwe | 1,655 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-13T04:00:26.043Z
+Generated: 2026-10-13T04:08:39.550Z
