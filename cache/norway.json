@@ -17059,7 +17059,7 @@
     "company": "@ShalomOslo ",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 175,
+    "privateContributions": 98,
     "publicContributions": 93,
     "createdAt": "2023-01-27T14:21:56Z"
   },
@@ -17084,7 +17084,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2023-03-09T18:32:43Z"
   },
   {
@@ -17098,18 +17098,6 @@
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-10-12T10:24:12Z"
-  },
-  {
-    "login": "richard-jh-mccrae",
-    "name": "Richard",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144454846?s=72&u=624e42b5fa39c74775d30218738522c33c97f6b6&v=4",
-    "location": "Trondheim, Norway",
-    "company": "EmLogic",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1384,
-    "createdAt": "2023-09-08T12:43:41Z"
   },
   {
     "login": "MrHaaland",
@@ -17156,7 +17144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 7,
     "createdAt": "2023-04-15T15:51:59Z"
   },
   {
@@ -17168,7 +17156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 141,
     "createdAt": "2023-02-20T18:55:14Z"
   },
   {
@@ -17202,7 +17190,7 @@
     "location": "Bodø, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 16,
     "createdAt": "2023-10-13T15:51:20Z"
@@ -17235,11 +17223,11 @@
     "login": "Axelj00",
     "name": "Axel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/124807716?s=72&u=dbf733ee33ed38e3f1d426224871d70198ffbce9&v=4",
-    "location": "Norway",
-    "company": "wellvector & scholaro",
+    "location": "Norway, Tigerstaden",
+    "company": "Wellvector",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 4265,
+    "privateContributions": 7357,
     "publicContributions": 1370,
     "createdAt": "2023-02-08T16:48:41Z"
   },
