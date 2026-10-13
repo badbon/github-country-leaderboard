@@ -20,10 +20,10 @@ Indexed users: 2,041
 | 6 | [raydanielg](https://github.com/raydanielg) | Ezra Daniel Gyunda | Tanzania | 17,665 |
 | 7 | [cleven12](https://github.com/cleven12) | cleven | Tanzania | 17,597 |
 | 8 | [fredy-me](https://github.com/fredy-me) | Melkizedek Fredy | Dar Es Salaam, Tanzania | 13,423 |
-| 9 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 12,163 |
-| 10 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 10,825 |
-| 11 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
-| 12 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 8,880 |
+| 9 | [Lurgic-error](https://github.com/Lurgic-error) | Lurge | Tanzania, Dar es salaam | 13,070 |
+| 10 | [tarxemo](https://github.com/tarxemo) | TarXemo | Dodoma-Tanzania | 12,163 |
+| 11 | [pro-cms](https://github.com/pro-cms) | Novath Thomas | TANZANIA | 10,825 |
+| 12 | [TheCollinsByte](https://github.com/TheCollinsByte) | Collins | Arusha, Tanzania | 10,759 |
 | 13 | [islandkid-20](https://github.com/islandkid-20) | James Mashaka | Dar Es Salaam,Tanzania | 8,739 |
 | 14 | [troubleman96](https://github.com/troubleman96) | Lugenge Emmanuel | Dar es Salaam ,Tanzania | 8,023 |
 | 15 | [Jerubaalking](https://github.com/Jerubaalking) | Gideon Sainyeye | Arusha, Tanzania | 7,939 |
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-13T01:17:49.564Z
+Generated: 2026-10-13T02:45:20.851Z

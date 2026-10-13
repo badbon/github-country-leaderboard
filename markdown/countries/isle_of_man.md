@@ -14,7 +14,7 @@ Indexed users: 155
 |---:|---|---|---|---:|
 | 1 | [Not-Chur-Architect](https://github.com/Not-Chur-Architect) | Nicholas Campisano | Isle of Man | 11,245 |
 | 2 | [auberryberry](https://github.com/auberryberry) | Aubrey Stearn | Isle of Man | 10,048 |
-| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 7,288 |
+| 3 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 7,264 |
 | 4 | [darrenbarklie](https://github.com/darrenbarklie) | Darren Barklie | Isle of Man | 4,551 |
 | 5 | [tekminewe](https://github.com/tekminewe) | Ewe Tek Min | Isle of Man | 3,446 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko | Isle of Man | 2,160 |
@@ -31,14 +31,14 @@ Indexed users: 155
 | 17 | [allantrabuco](https://github.com/allantrabuco) | Allan Trabuco | Isle of Man | 1,211 |
 | 18 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 1,112 |
 | 19 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 1,041 |
-| 20 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 1,003 |
+| 20 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 999 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 4,785 |
-| 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 863 |
+| 1 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 4,743 |
+| 2 | [bllbtnd](https://github.com/bllbtnd) | Balla Botond | Isle of Man | 859 |
 | 3 | [PerpetualBeta](https://github.com/PerpetualBeta) | Jonathan M. Hollin | Douglas, Isle of Man | 771 |
 | 4 | [craigiswayne](https://github.com/craigiswayne) | Craig Wayne | Isle of Man | 718 |
 | 5 | [torquuato](https://github.com/torquuato) |  | Isle of Man | 557 |
@@ -49,8 +49,8 @@ Indexed users: 155
 | 10 | [mattwilson02](https://github.com/mattwilson02) | Matt Wilson | Isle of Man | 249 |
 | 11 | [gabriel-fortin](https://github.com/gabriel-fortin) | Gabriel Fortin | Isle of Man | 246 |
 | 12 | [AndrewIOM](https://github.com/AndrewIOM) | Andrew Martin | Isle of Man | 216 |
-| 13 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 153 |
-| 14 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 139 |
+| 13 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man | 159 |
+| 14 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | Douglas, Isle of Man | 153 |
 | 15 | [mayconht](https://github.com/mayconht) | Maycon Douglas | Isle of Man | 123 |
 | 16 | [oliciv](https://github.com/oliciv) | Oli Allen | Isle of Man | 108 |
 | 17 | [K1erans](https://github.com/K1erans) | Kieran | Isle of man | 106 |
@@ -63,7 +63,7 @@ Indexed users: 155
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [braydie](https://github.com/braydie) | Braydie Grove | Isle of Man | 368 |
-| 2 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 232 |
+| 2 | [bengris32](https://github.com/bengris32) | Ben | Isle of Man | 231 |
 | 3 | [cydolo](https://github.com/cydolo) | Dolo | Isle of Man | 148 |
 | 4 | [thomas-coldwell](https://github.com/thomas-coldwell) | Thomas Coldwell | Isle of Man | 148 |
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Isle of Man | 86 |
@@ -83,4 +83,4 @@ Indexed users: 155
 | 19 | [DanAnkers](https://github.com/DanAnkers) | Daniel Ankers | Isle of Man | 18 |
 | 20 | [dannmat](https://github.com/dannmat) | Matt Ward | Isle of Man | 18 |
 
-Generated: 2026-10-13T02:03:12.202Z
+Generated: 2026-10-13T03:29:14.359Z

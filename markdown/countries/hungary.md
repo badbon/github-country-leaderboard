@@ -26,8 +26,8 @@ Indexed users: 11,185
 | 12 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár | Budapest, Hungary | 15,825 |
 | 13 | [tenxlenx](https://github.com/tenxlenx) | Norbert Domcsek | Budapest | 15,425 |
 | 14 | [zcserei](https://github.com/zcserei) | Cserei Zoltán | Budapest | 12,777 |
-| 15 | [stt08](https://github.com/stt08) | Samat Tamerlan | Budapest, HU | 12,014 |
-| 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes | Budapest | 10,868 |
+| 15 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes | Budapest | 10,868 |
+| 16 | [stt08](https://github.com/stt08) | Samat Tamerlan | Budapest, HU | 10,859 |
 | 17 | [danko-david](https://github.com/danko-david) | David Danko | Hungary, Miskolc | 10,779 |
 | 18 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | Budapest, HU | 10,644 |
 | 19 | [lipi4242](https://github.com/lipi4242) | Krisztián Lipcsei | Budapest, Hungary | 9,733 |
@@ -83,4 +83,4 @@ Indexed users: 11,185
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | Hungary | 600 |
 | 20 | [Aylur](https://github.com/Aylur) | Kristóf Demeter | Hungary | 572 |
 
-Generated: 2026-10-13T02:02:15.624Z
+Generated: 2026-10-13T03:26:50.624Z

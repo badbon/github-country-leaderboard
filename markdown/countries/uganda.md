@@ -1,6 +1,6 @@
 # Uganda
 
-Indexed users: 3,873
+Indexed users: 3,874
 
 | Leaderboard | Link |
 |---|---|
@@ -21,10 +21,10 @@ Indexed users: 3,873
 | 7 | [ziyalogy](https://github.com/ziyalogy) | Ziyal Amanya | Uganda | 9,934 |
 | 8 | [GenoJ83](https://github.com/GenoJ83) | Geno Joshua | Kampala | 9,133 |
 | 9 | [baliddeki](https://github.com/baliddeki) | Aliddeki Mulindwa Bryan | Kampala, Uganda | 9,028 |
-| 10 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
-| 11 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
-| 12 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
-| 13 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,555 |
+| 10 | [KansiimeKenie](https://github.com/KansiimeKenie) | Kansiime Keneth | kampala, Ug | 7,957 |
+| 11 | [GaspardKirira](https://github.com/GaspardKirira) | G-kirira | Africa / Uganda / Kampala | 7,825 |
+| 12 | [baliksjosay](https://github.com/baliksjosay) | Joseph Balikuddembe | Kampala, uganda | 7,753 |
+| 13 | [BrianPollar](https://github.com/BrianPollar) | Pollar Brian Okello | Kampala, Uganda | 7,556 |
 | 14 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 7,428 |
 | 15 | [cosmah](https://github.com/cosmah) | cosmah | kampala, Uganda | 7,177 |
 | 16 | [MUKE-coder](https://github.com/MUKE-coder) | MUKE JOHNBAPTIST | KAMPALA -UGANDA | 7,031 |
@@ -83,4 +83,4 @@ Indexed users: 3,873
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 186 |
 
-Generated: 2026-10-13T01:20:57.364Z
+Generated: 2026-10-13T03:19:37.067Z

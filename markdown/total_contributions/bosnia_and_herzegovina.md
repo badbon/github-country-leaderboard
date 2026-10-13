@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-13T01:38:10.274Z
+Generated: 2026-10-13T03:07:18.421Z
 
 Users: 2128
 
@@ -22,7 +22,7 @@ Users: 2128
 | 14 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
 | 15 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5224 |
 | 16 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |
-| 17 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 4094 |
-| 18 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic |  |  | Sarajevo, Bosnia and Herzegovina | 4090 |
-| 19 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 3970 |
-| 20 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic |  |  | Sarajevo, Bosnia and Herzegovina | 3873 |
+| 17 | [eldar6776](https://github.com/eldar6776) | DoE |  |  | Sarajevo Bosna i Hercegovina | 4134 |
+| 18 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 4094 |
+| 19 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic |  |  | Sarajevo, Bosnia and Herzegovina | 4090 |
+| 20 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić |  | aleksamcode | Banja Luka, Bosnia and Herzegovina | 3970 |

@@ -53,9 +53,9 @@ Indexed users: 5,660
 | 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | Kazakhstan, Astana | 2,672 |
 | 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty, Qazaqstan | 2,232 |
 | 16 | [chelaxian](https://github.com/chelaxian) | ratu.sh | Kazakhstan | 2,191 |
-| 17 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,179 |
-| 18 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
-| 19 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
+| 17 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Shymkent, Kazakhstan | 2,099 |
+| 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | Kazakhstan | 2,049 |
+| 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Kazakhstan | 2,041 |
 | 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Kazakhstan | 2,026 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 5,660
 | 19 | [Beisenbek](https://github.com/Beisenbek) | Beisenbek Baisakov | Almaty, Kazakhstan | 365 |
 | 20 | [aidarnouman](https://github.com/aidarnouman) | Aidar Nouman | Almaty, Kazakhstan | 303 |
 
-Generated: 2026-10-13T02:07:34.596Z
+Generated: 2026-10-13T03:31:20.010Z

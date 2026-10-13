@@ -1,12 +1,12 @@
 # Followers - Andorra
 
-Generated: 2026-10-13T01:31:23.587Z
+Generated: 2026-10-13T02:58:09.198Z
 
 Users: 215
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Astral Technologies | AlexAltea | Les Escaldes, Andorra | 952 |
+| 1 | [AlexAltea](https://github.com/AlexAltea) | Alexandro Sanchez Bach | Astral Technologies | AlexAltea | Les Escaldes, Andorra | 951 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 878 |
 | 3 | [hussein-aitlahcen](https://github.com/hussein-aitlahcen) | hussein | Code is law |  | Andorra | 583 |
 | 4 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 253 |

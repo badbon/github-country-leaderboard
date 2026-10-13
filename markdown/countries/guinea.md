@@ -13,7 +13,7 @@ Indexed users: 263
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 7,915 |
-| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,025 |
+| 2 | [Morymirco](https://github.com/Morymirco) | Mory Mirco Koulibaly | Conakry,Guinéé | 7,022 |
 | 3 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 6,754 |
 | 4 | [korbonya](https://github.com/korbonya) | Mamadou Alpha Baldé | Conakry | 6,253 |
 | 5 | [GYOM15](https://github.com/GYOM15) | Guy Olivier Millimouno | Guinea/Conakry | 3,551 |
@@ -79,8 +79,8 @@ Indexed users: 263
 | 15 | [thebestofAKB](https://github.com/thebestofAKB) | Abdoul Karim Baldé | Conakry, Guinea | 23 |
 | 16 | [mamadou6c](https://github.com/mamadou6c) | Mamadou | Guinea | 21 |
 | 17 | [massazoum](https://github.com/massazoum) | Massa Zoumanigui | Guinea | 20 |
-| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | Guinée, Conakry | 15 |
+| 18 | [Ibrahima2487](https://github.com/Ibrahima2487) | Ibrahima Sory Diallo | Guinée, Conakry | 14 |
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-13T01:57:56.275Z
+Generated: 2026-10-13T03:24:07.257Z

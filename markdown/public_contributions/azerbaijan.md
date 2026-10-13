@@ -1,8 +1,8 @@
 # Public Contributions - Azerbaijan
 
-Generated: 2026-10-13T01:33:14.820Z
+Generated: 2026-10-13T03:03:04.241Z
 
-Users: 5080
+Users: 5079
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,7 +19,7 @@ Users: 5080
 | 11 | [Ramazan-ryu](https://github.com/Ramazan-ryu) | ramazan_mustafayev |  |  | Baku | 2729 |
 | 12 | [agasefmemmedli](https://github.com/agasefmemmedli) | Agasef Memmedli | XalqBank |  | Azerbaijan , Baku . | 2508 |
 | 13 | [kenanqafarov](https://github.com/kenanqafarov) | Kenan Qafarov | Enthuzone |  | Baku, Azerbaijan | 2493 |
-| 14 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev |  |  | Baku | 2290 |
+| 14 | [Firdovsirz](https://github.com/Firdovsirz) | Firdovsi Rzaev |  |  | Baku | 2405 |
 | 15 | [Aytac21](https://github.com/Aytac21) | Aytac Mehdizadə |  |  | Baku | 2082 |
 | 16 | [Semedw](https://github.com/Semedw) | Samad Musazade |  |  | Azerbaijan | 2053 |
 | 17 | [aliyevaladddin](https://github.com/aliyevaladddin) | Aladdin Aliyev |  | Aladddinaliyev | Azerbaijan,Baku | 2050 |

@@ -14,7 +14,7 @@ Top GitHub users by country, ranked from public GitHub profile and contribution 
 
 | Country | Indexed Users | Public | Total | Followers |
 |---|---:|---|---|---|
-| [Cameroon](markdown/countries/cameroon.md) | 1,799 | [Public](markdown/public_contributions/cameroon.md) | [Total](markdown/total_contributions/cameroon.md) | [Followers](markdown/followers/cameroon.md) |
+| [Cameroon](markdown/countries/cameroon.md) | 1,798 | [Public](markdown/public_contributions/cameroon.md) | [Total](markdown/total_contributions/cameroon.md) | [Followers](markdown/followers/cameroon.md) |
 | [Botswana](markdown/countries/botswana.md) | 533 | [Public](markdown/public_contributions/botswana.md) | [Total](markdown/total_contributions/botswana.md) | [Followers](markdown/followers/botswana.md) |
 | [Turkey](markdown/countries/turkey.md) | 79,151 | [Public](markdown/public_contributions/turkey.md) | [Total](markdown/total_contributions/turkey.md) | [Followers](markdown/followers/turkey.md) |
 | [Guatemala](markdown/countries/guatemala.md) | 3,222 | [Public](markdown/public_contributions/guatemala.md) | [Total](markdown/total_contributions/guatemala.md) | [Followers](markdown/followers/guatemala.md) |
@@ -26,4 +26,4 @@ The collector searches GitHub users by self-reported profile location, keeps use
 
 Locations are not verified. The raw profile location is preserved, and country assignment uses deterministic country, alias, city, and exact phrase rules.
 
-Generated: 2026-10-13T02:36:54.199Z
+Generated: 2026-10-13T03:32:12.553Z

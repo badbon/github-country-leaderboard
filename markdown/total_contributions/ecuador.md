@@ -1,15 +1,15 @@
 # Total Contributions - Ecuador
 
-Generated: 2026-10-13T01:49:23.779Z
+Generated: 2026-10-13T03:18:13.248Z
 
 Users: 4898
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 11911 |
-| 2 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | IT Security |  | Ecuador | 11630 |
-| 3 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10133 |
-| 4 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes |  | yeyodev | Guayaquil, Ecuador | 9478 |
+| 1 | [yeyodev1](https://github.com/yeyodev1) | Diego Reyes |  | yeyodev | Guayaquil, Ecuador | 18674 |
+| 2 | [danny270793](https://github.com/danny270793) | Danny Vaca | Technisys | danny270793 | Ecuador | 11911 |
+| 3 | [kamikhanz](https://github.com/kamikhanz) | Edisson Barbecho | IT Security |  | Ecuador | 11630 |
+| 4 | [adrianarodriguezp](https://github.com/adrianarodriguezp) |  |  |  | Ecuador | 10133 |
 | 5 | [jcdaniel14](https://github.com/jcdaniel14) | Gustavo Santiago | FiftyFlowers |  | Ecuador | 9075 |
 | 6 | [bitgandtter](https://github.com/bitgandtter) | Yasmany Cubela Medina | WILDBIT |  | Guayaquil, Ecuador | 7955 |
 | 7 | [JorgeDoicela](https://github.com/JorgeDoicela) | Jorge Doicela |  |  | Quito | 7903 |

@@ -1,16 +1,16 @@
 # Public Contributions - Trinidad and Tobago
 
-Generated: 2026-10-13T01:19:18.207Z
+Generated: 2026-10-13T02:46:37.366Z
 
 Users: 256
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 4265 |
+| 1 | [jeiang](https://github.com/jeiang) | Aidan Pinard | CIBC Caribbean | jeiang_ | Trinidad and Tobago | 4591 |
 | 2 | [snorkpete](https://github.com/snorkpete) | Kion Stephen |  |  | Trinidad and Tobago | 1436 |
 | 3 | [renniemaharaj](https://github.com/renniemaharaj) | Rennie Maharaj | The Writer Company  |  | Trinidad and Tobago | 1188 |
 | 4 | [mreid-tt](https://github.com/mreid-tt) | Michael Reid |  | mreid_tt | Trinidad and Tobago | 1074 |
-| 5 | [rishi-latchmepersad](https://github.com/rishi-latchmepersad) | Rishi Latchmepersad | Shell |  | Trinidad and Tobago | 950 |
+| 5 | [rishi-latchmepersad](https://github.com/rishi-latchmepersad) | Rishi Latchmepersad | Shell |  | Trinidad and Tobago | 949 |
 | 6 | [creativenull](https://github.com/creativenull) | Arnold Chand |  | creativenu11 | Trinidad and Tobago | 779 |
 | 7 | [Andrews3002](https://github.com/Andrews3002) | Alexangelo Andews |  |  | Trinidad and Tobago | 658 |
 | 8 | [mungruez](https://github.com/mungruez) | Zaakir Mungrue | DojoSoft | mungruez | Trinidad and Tobago | 609 |

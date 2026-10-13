@@ -1,6 +1,6 @@
 # Total Contributions - Hungary
 
-Generated: 2026-10-13T02:02:15.624Z
+Generated: 2026-10-13T03:26:50.624Z
 
 Users: 11185
 
@@ -20,8 +20,8 @@ Users: 11185
 | 12 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár |  | sagikazarmark | Budapest, Hungary | 15825 |
 | 13 | [tenxlenx](https://github.com/tenxlenx) | Norbert Domcsek |  |  | Budapest | 15425 |
 | 14 | [zcserei](https://github.com/zcserei) | Cserei Zoltán | @vernusone  | zcserei | Budapest | 12777 |
-| 15 | [stt08](https://github.com/stt08) | Samat Tamerlan | @Ericsson |  | Budapest, HU | 12014 |
-| 16 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes |  |  | Budapest | 10868 |
+| 15 | [krksgbr](https://github.com/krksgbr) | Gábor Kerekes |  |  | Budapest | 10868 |
+| 16 | [stt08](https://github.com/stt08) | Samat Tamerlan | @Ericsson |  | Budapest, HU | 10859 |
 | 17 | [danko-david](https://github.com/danko-david) | David Danko |  |  | Hungary, Miskolc | 10779 |
 | 18 | [kfarkasHU](https://github.com/kfarkasHU) | Kolos F | @wraithlight |  | Budapest, HU | 10644 |
 | 19 | [lipi4242](https://github.com/lipi4242) | Krisztián Lipcsei |  |  | Budapest, Hungary | 9733 |

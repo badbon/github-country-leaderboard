@@ -1,6 +1,6 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-13T01:57:53.926Z
+Generated: 2026-10-13T03:23:38.485Z
 
 Users: 45
 
@@ -12,7 +12,7 @@ Users: 45
 | 4 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 52 |
 | 5 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 41 |
 | 6 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 21 |
-| 7 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 19 |
+| 7 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 18 |
 | 8 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
 | 9 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 11 |
 | 10 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |

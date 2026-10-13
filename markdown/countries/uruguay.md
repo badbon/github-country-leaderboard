@@ -1,6 +1,6 @@
 # Uruguay
 
-Indexed users: 5,622
+Indexed users: 5,621
 
 | Leaderboard | Link |
 |---|---|
@@ -50,13 +50,13 @@ Indexed users: 5,622
 | 11 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Montevideo, Uruguay | 2,539 |
 | 12 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio | Uruguay | 2,520 |
 | 13 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman | Montevideo,Uruguay | 2,373 |
-| 14 | [SuarezPM](https://github.com/SuarezPM) | Pablo Suarez | Montevideo, Uruguay | 2,308 |
-| 15 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc | Uruguay | 2,299 |
-| 16 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 2,284 |
-| 17 | [Pauisdev](https://github.com/Pauisdev) | Pau | Uruguay, Montevideo | 2,114 |
-| 18 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
-| 19 | [mathiashole](https://github.com/mathiashole) | Mathias Mangino | Montevideo, Uruguay | 1,986 |
-| 20 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla | Uruguay, Montevideo | 1,963 |
+| 14 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc | Uruguay | 2,299 |
+| 15 | [eduair94](https://github.com/eduair94) | EduAir | Uruguay | 2,284 |
+| 16 | [Pauisdev](https://github.com/Pauisdev) | Pau | Uruguay, Montevideo | 2,114 |
+| 17 | [bradelev](https://github.com/bradelev) | Braulio De Leon | Montevideo, Uruguay | 2,033 |
+| 18 | [mathiashole](https://github.com/mathiashole) | Mathias Mangino | Montevideo, Uruguay | 1,986 |
+| 19 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla | Uruguay, Montevideo | 1,963 |
+| 20 | [matintosh](https://github.com/matintosh) | Matias Martinez | Montevideo | 1,786 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 5,622
 | 19 | [mauricioszabo](https://github.com/mauricioszabo) | Maurício Szabo | Montevideo, Uruguay | 196 |
 | 20 | [ppazos](https://github.com/ppazos) | Pablo Pazos Gutiérrez | Montevideo, Uruguay | 196 |
 
-Generated: 2026-10-13T01:22:13.857Z
+Generated: 2026-10-13T02:49:50.241Z

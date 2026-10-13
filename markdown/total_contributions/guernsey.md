@@ -1,6 +1,6 @@
 # Total Contributions - Guernsey
 
-Generated: 2026-10-13T01:57:53.926Z
+Generated: 2026-10-13T03:23:38.485Z
 
 Users: 45
 
@@ -10,16 +10,16 @@ Users: 45
 | 2 | [gsydev191](https://github.com/gsydev191) | Dan |  |  | Guernsey | 1893 |
 | 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 1473 |
 | 4 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 1346 |
-| 5 | [technosight](https://github.com/technosight) | Ivan Petrov | Technosight |  | St Peter Port, Guernsey | 979 |
+| 5 | [technosight](https://github.com/technosight) | Ivan Petrov | Technosight |  | St Peter Port, Guernsey | 973 |
 | 6 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 677 |
-| 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 451 |
+| 7 | [bkp7](https://github.com/bkp7) | Barry Pitfield |  |  | Guernsey | 450 |
 | 8 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 379 |
 | 9 | [GlennToms](https://github.com/GlennToms) | Glenn Toms |  |  | Guernsey | 258 |
 | 10 | [JamesK2754](https://github.com/JamesK2754) | James King |  |  | Guernsey | 228 |
 | 11 | [IanGSY](https://github.com/IanGSY) | IanGSY |  |  | Guernsey | 114 |
 | 12 | [theModrzew](https://github.com/theModrzew) | Patryk |  |  | Guernsey | 105 |
-| 13 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 73 |
-| 14 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 19 |
+| 13 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 71 |
+| 14 | [MattJamesChampion](https://github.com/MattJamesChampion) | Matt "Danny" Champion |  |  | Guernsey | 18 |
 | 15 | [tomupson](https://github.com/tomupson) | Tom Upson |  |  | Guernsey | 17 |
 | 16 | [gilbertbw](https://github.com/gilbertbw) | Gilbert Bishop-White | @x-ware-ltd  |  | Guernsey | 10 |
 | 17 | [LIHITAB](https://github.com/LIHITAB) | Like and Code on GitHub |  |  | Guernsey, CI | 8 |

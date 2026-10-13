@@ -1,6 +1,6 @@
 # Public Contributions - Kazakhstan
 
-Generated: 2026-10-13T02:07:34.596Z
+Generated: 2026-10-13T03:31:20.010Z
 
 Users: 5660
 
@@ -22,7 +22,7 @@ Users: 5660
 | 14 | [MDI74](https://github.com/MDI74) | Dmitriy Myakotin | @TourmalineCore |  | Kazakhstan, Astana | 2672 |
 | 15 | [Kaiyrkhan](https://github.com/Kaiyrkhan) | Kaiyrkhan Mukapil | Almaty Technological University |  | Almaty, Qazaqstan | 2232 |
 | 16 | [chelaxian](https://github.com/chelaxian) | ratu.sh |  |  | Kazakhstan | 2191 |
-| 17 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Student | rdmnad | Kazakhstan | 2179 |
-| 18 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Gosayram |  | Shymkent, Kazakhstan | 2099 |
-| 19 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 2049 |
+| 17 | [atlet99](https://github.com/atlet99) | Abdurakhman Rakhmankulov | Gosayram |  | Shymkent, Kazakhstan | 2099 |
+| 18 | [maximgorbatyuk](https://github.com/maximgorbatyuk) | Maxim Gorbatyuk | @Techinterview-space  |  | Kazakhstan | 2049 |
+| 19 | [rdmbtc](https://github.com/rdmbtc) | Dr RDM | Student | rdmnad | Kazakhstan | 2041 |
 | 20 | [borisk85](https://github.com/borisk85) | Boris Komarov | Vibecraft | borisfounder | Kazakhstan | 2026 |

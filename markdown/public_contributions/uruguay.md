@@ -1,8 +1,8 @@
 # Public Contributions - Uruguay
 
-Generated: 2026-10-13T01:22:13.857Z
+Generated: 2026-10-13T02:49:50.241Z
 
-Users: 5622
+Users: 5621
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 5622
 | 11 | [fzipi](https://github.com/fzipi) | Felipe Zipitría | Facultad de Ingeniería, Universidad de la República |  | Montevideo, Uruguay | 2539 |
 | 12 | [rpiaggio](https://github.com/rpiaggio) | Raúl Piaggio |  |  | Uruguay | 2520 |
 | 13 | [nicolas-maman](https://github.com/nicolas-maman) | Nicolas Maman |  |  | Montevideo,Uruguay | 2373 |
-| 14 | [SuarezPM](https://github.com/SuarezPM) | Pablo Suarez | Apohara |  | Montevideo, Uruguay | 2308 |
-| 15 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2299 |
-| 16 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 2284 |
-| 17 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2114 |
-| 18 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
-| 19 | [mathiashole](https://github.com/mathiashole) | Mathias Mangino |  | joaquinmangino | Montevideo, Uruguay | 1986 |
-| 20 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla |  |  | Uruguay, Montevideo | 1963 |
+| 14 | [Joacohbc](https://github.com/Joacohbc) | Joacohbc |  |  | Uruguay | 2299 |
+| 15 | [eduair94](https://github.com/eduair94) | EduAir | Shellix / CheckLeaked.cc |  | Uruguay | 2284 |
+| 16 | [Pauisdev](https://github.com/Pauisdev) | Pau |  |  | Uruguay, Montevideo | 2114 |
+| 17 | [bradelev](https://github.com/bradelev) | Braulio De Leon |  |  | Montevideo, Uruguay | 2033 |
+| 18 | [mathiashole](https://github.com/mathiashole) | Mathias Mangino |  | joaquinmangino | Montevideo, Uruguay | 1986 |
+| 19 | [vola-trebla](https://github.com/vola-trebla) | Vola Trebla |  |  | Uruguay, Montevideo | 1963 |
+| 20 | [matintosh](https://github.com/matintosh) | Matias Martinez | Everpass | matintosh | Montevideo | 1786 |

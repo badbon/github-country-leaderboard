@@ -1,19 +1,19 @@
 # Total Contributions - French Guiana
 
-Generated: 2026-10-13T01:53:30.960Z
+Generated: 2026-10-13T03:20:55.807Z
 
 Users: 36
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto |  | randyLunetto | French Amazonia (Guyane) | 2872 |
+| 1 | [LunettoRandall](https://github.com/LunettoRandall) | Randall Lunetto |  | randyLunetto | French Amazonia (Guyane) | 2879 |
 | 2 | [MelPeslier](https://github.com/MelPeslier) | Mel |  |  | Guyane  | 1230 |
 | 3 | [Ludoc0de](https://github.com/Ludoc0de) | Ludocode | @100Devs | ludoC0de | French Guiana | 282 |
 | 4 | [baffy-req](https://github.com/baffy-req) | Thomas Boyd DDS |  |  | Amandafurt, French Guiana | 135 |
 | 5 | [jjcabon](https://github.com/jjcabon) | JJCABON | EDUCATION NATIONALE |  | CAYENNE | 112 |
 | 6 | [drainerw](https://github.com/drainerw) |  |  |  | French Guiana | 82 |
 | 7 | [ginimod](https://github.com/ginimod) | GIni |  |  | Cayenne | 76 |
-| 8 | [Shyrka973](https://github.com/Shyrka973) |  |  |  | Kourou / French Guiana | 70 |
+| 8 | [Shyrka973](https://github.com/Shyrka973) |  |  |  | Kourou / French Guiana | 69 |
 | 9 | [S3F1RO](https://github.com/S3F1RO) | su1y_ | IUT de Kourou |  | French Guiana | 35 |
 | 10 | [badette-robert](https://github.com/badette-robert) | Robert BADETTE |  |  | Guyane (Saint-laurent-du-maroni) | 25 |
 | 11 | [qlspanda17](https://github.com/qlspanda17) | SONY PAME | université de Guyane |  |  French Guiana | 21 |

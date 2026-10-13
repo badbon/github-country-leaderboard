@@ -21,17 +21,17 @@ Indexed users: 4,910
 | 7 | [Nitrammets](https://github.com/Nitrammets) | Martin Metsküla | Tallinn | 13,725 |
 | 8 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 13,667 |
 | 9 | [battlesnake](https://github.com/battlesnake) | Mark Cowan | Tallinn | 13,447 |
-| 10 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
-| 11 | [alright212](https://github.com/alright212) | Glen Kink | Tallinn | 12,564 |
-| 12 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
-| 13 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
-| 14 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
-| 15 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
-| 16 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
-| 17 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
-| 18 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
-| 19 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
-| 20 | [lukacsaron](https://github.com/lukacsaron) | Aron Lukacs | Tallinn | 11,074 |
+| 10 | [Kypsis](https://github.com/Kypsis) | Harry Sild | Estonia | 13,244 |
+| 11 | [kempu](https://github.com/kempu) | Klemens Arro | Estonia | 12,958 |
+| 12 | [alright212](https://github.com/alright212) | Glen Kink | Tallinn | 12,564 |
+| 13 | [pietrodelfranco](https://github.com/pietrodelfranco) | Pietro Del Franco | Tallinn | 12,368 |
+| 14 | [tooming](https://github.com/tooming) | Martin Tooming | Tallinn | 12,354 |
+| 15 | [enkronos](https://github.com/enkronos) | Enkronos OÜ | Estonia | 12,330 |
+| 16 | [matbcvo](https://github.com/matbcvo) | Martin Vooremäe | Estonia | 12,300 |
+| 17 | [rkaalma](https://github.com/rkaalma) | Risto Kaalma | Estonia | 12,258 |
+| 18 | [paat](https://github.com/paat) | Andre Tšernikov | Tallinn, Estonia | 11,779 |
+| 19 | [rorychatt](https://github.com/rorychatt) | Mikael Rinne | Estonia | 11,549 |
+| 20 | [igorboss](https://github.com/igorboss) | Igor Bossenko | Estonia | 11,161 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,910
 | 19 | [Wirasm](https://github.com/Wirasm) | Rasmus Widing | tallinn | 406 |
 | 20 | [toomastahves](https://github.com/toomastahves) | Toomas Tahves | Tallinn, Estonia | 388 |
 
-Generated: 2026-10-13T01:51:39.259Z
+Generated: 2026-10-13T03:19:27.893Z

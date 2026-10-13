@@ -1,6 +1,6 @@
 # Cameroon
 
-Indexed users: 1,799
+Indexed users: 1,798
 
 | Leaderboard | Link |
 |---|---|
@@ -19,19 +19,19 @@ Indexed users: 1,799
 | 5 | [bpsmartdesign](https://github.com/bpsmartdesign) | Biya Paul | Yaoundé - Douala, Cameroon | 10,058 |
 | 6 | [gwagsi](https://github.com/gwagsi) | Gwagsi | Yaounde, Cameroon | 10,008 |
 | 7 | [iws3](https://github.com/iws3) | Fonyuy Gita | Bamenda, Cameroon | 9,756 |
-| 8 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,720 |
-| 9 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 7,432 |
-| 10 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,402 |
-| 11 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 6,705 |
-| 12 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,280 |
-| 13 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,014 |
-| 14 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
-| 15 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,598 |
-| 16 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | Cameroon | 5,266 |
-| 17 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | Buea, Cameroon | 5,241 |
-| 18 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
-| 19 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,087 |
-| 20 | [Notho-freedom](https://github.com/Notho-freedom) | Ravel Momo | Yaoundé  | 4,749 |
+| 8 | [KingsleyLeshey](https://github.com/KingsleyLeshey) | Kingsley Leshey | Yaounde, Cameroon | 9,102 |
+| 9 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Cameroon | 7,720 |
+| 10 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | Yaoundé, Cameroon | 7,432 |
+| 11 | [ln-dev7](https://github.com/ln-dev7) | LN | Cameroon | 7,402 |
+| 12 | [LudovicAndreBiyong](https://github.com/LudovicAndreBiyong) | Ludovic André Biyong | Cameroon | 6,705 |
+| 13 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | Cameroon | 6,280 |
+| 14 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | Douala,Cameroon | 6,014 |
+| 15 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Buea, Cameroon | 5,789 |
+| 16 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Buea, Cameroon | 5,598 |
+| 17 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | Cameroon | 5,266 |
+| 18 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | Buea, Cameroon | 5,241 |
+| 19 | [Martin-Luther](https://github.com/Martin-Luther) | Martin Luther ETOUMAN NDAMBWE | Douala / Cameroon | 5,129 |
+| 20 | [ussfranck](https://github.com/ussfranck) | Franck Mekoulou | District 7 Of Yaoundé, CM | 5,087 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 1,799
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta | Buea, Cameroon | 170 |
 
-Generated: 2026-10-13T01:43:17.893Z
+Generated: 2026-10-13T03:10:11.484Z

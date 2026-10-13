@@ -1,6 +1,6 @@
 # Cyprus
 
-Indexed users: 2,736
+Indexed users: 2,735
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 2,736
 | 13 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | Cyprus | 9,666 |
 | 14 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam | Cyprus | 9,314 |
 | 15 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | Cyprus, Paphos | 9,137 |
-| 16 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 9,126 |
-| 17 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
-| 18 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
-| 19 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
-| 20 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
+| 16 | [jin0x](https://github.com/jin0x) | John Leskas | Limassol, Cyprus | 9,123 |
+| 17 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | Nicosia, Cyprus | 9,102 |
+| 18 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko | Cyprus | 8,881 |
+| 19 | [laikhtman](https://github.com/laikhtman) | [DL] | Cyprus | 8,796 |
+| 20 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Cyprus, Larnaca | 8,728 |
 
 ## Public Contributions
 
@@ -62,25 +62,25 @@ Indexed users: 2,736
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Lefkosa, Cyprus | 8,492 |
-| 2 | [zloirock](https://github.com/zloirock) | Denis Pushkarev | Cyprus, Larnaca | 7,491 |
-| 3 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | Cyprus | 2,135 |
-| 4 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 1,319 |
-| 5 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh | Republic Of Cyprus | 709 |
-| 6 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin | Limassol, Cyprus | 556 |
-| 7 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 539 |
-| 8 | [FZambia](https://github.com/FZambia) | Alexander Emelin | Limassol, Cyprus | 471 |
-| 9 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | Nicosia, Cyprus | 440 |
-| 10 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | Cyprus, Nicosia | 401 |
-| 11 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | Cyprus | 396 |
-| 12 | [tony2001](https://github.com/tony2001) | Antony Dovgal | Limassol, Cyprus | 371 |
-| 13 | [dgutov](https://github.com/dgutov) | Dmitry Gutov | Limassol, Cyprus | 352 |
-| 14 | [fedosejev](https://github.com/fedosejev) | Artemij Fedosejev | Paphos, Cyprus | 352 |
-| 15 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Cyprus, Limassol | 342 |
-| 16 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu | Cyprus | 332 |
-| 17 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy | Cyprus | 302 |
-| 18 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 294 |
-| 19 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
-| 20 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
+| 1 | [zloirock](https://github.com/zloirock) | Denis Pushkarev | Cyprus, Larnaca | 7,491 |
+| 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | Cyprus | 2,135 |
+| 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 1,319 |
+| 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh | Republic Of Cyprus | 709 |
+| 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin | Limassol, Cyprus | 556 |
+| 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 539 |
+| 7 | [FZambia](https://github.com/FZambia) | Alexander Emelin | Limassol, Cyprus | 471 |
+| 8 | [KaterinaPetrova](https://github.com/KaterinaPetrova) | Ekaterina Petrova | Nicosia, Cyprus | 440 |
+| 9 | [Sanaebadi97](https://github.com/Sanaebadi97) | Sana Ebadi | Cyprus, Nicosia | 401 |
+| 10 | [Dieterbe](https://github.com/Dieterbe) | Dieter Plaetinck | Cyprus | 396 |
+| 11 | [tony2001](https://github.com/tony2001) | Antony Dovgal | Limassol, Cyprus | 371 |
+| 12 | [dgutov](https://github.com/dgutov) | Dmitry Gutov | Limassol, Cyprus | 352 |
+| 13 | [fedosejev](https://github.com/fedosejev) | Artemij Fedosejev | Paphos, Cyprus | 352 |
+| 14 | [GrigoriiTarasov](https://github.com/GrigoriiTarasov) |  | Cyprus, Limassol | 342 |
+| 15 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu | Cyprus | 332 |
+| 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy | Cyprus | 302 |
+| 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 294 |
+| 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
+| 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
+| 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-13T01:47:38.025Z
+Generated: 2026-10-13T03:13:57.526Z

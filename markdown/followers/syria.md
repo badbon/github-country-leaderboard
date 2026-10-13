@@ -1,8 +1,8 @@
 # Followers - Syria
 
-Generated: 2026-10-13T01:16:22.137Z
+Generated: 2026-10-13T02:45:08.487Z
 
-Users: 1481
+Users: 1480
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -14,15 +14,15 @@ Users: 1481
 | 6 | [nawrzqal](https://github.com/nawrzqal) | nawrz qal | Yarmouk Private University |  | syria  | 202 |
 | 7 | [simabilony](https://github.com/simabilony) | Sima Bilony |  |  | Syria/Aleppo | 176 |
 | 8 | [hassansaker](https://github.com/hassansaker) |  | SMART ROUTE |  | Damascus | 174 |
-| 9 | [Rami-Sabbagh](https://github.com/Rami-Sabbagh) | Rami Sabbagh |  |  | Damascus, Syria | 156 |
-| 10 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran |  |  | Syria | 155 |
-| 11 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 148 |
-| 12 | [RakoSY](https://github.com/RakoSY) | Rakthon | Rakwan Ali |  | Syria | 136 |
-| 13 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 136 |
-| 14 | [ZeinMoh](https://github.com/ZeinMoh) | Zein |  |  | Syria, Latakia | 136 |
-| 15 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal |  |  | Syria  | 127 |
-| 16 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 126 |
-| 17 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |
-| 18 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 114 |
-| 19 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 102 |
-| 20 | [nebrassy](https://github.com/nebrassy) | Nebrassy |  |  | Latakia, Syria | 102 |
+| 9 | [Rabee-Omran](https://github.com/Rabee-Omran) | Rabee Omran |  |  | Syria | 155 |
+| 10 | [Yassin522](https://github.com/Yassin522) | Yassin Abdulmahdi | Damascus University |  | Syria | 148 |
+| 11 | [RakoSY](https://github.com/RakoSY) | Rakthon | Rakwan Ali |  | Syria | 136 |
+| 12 | [SaleemAdhamKassab](https://github.com/SaleemAdhamKassab) | Saleem Kassab | Syriatel Mobile Telecom |  | Damascus | 136 |
+| 13 | [ZeinMoh](https://github.com/ZeinMoh) | Zein |  |  | Syria, Latakia | 136 |
+| 14 | [Mohammadbill](https://github.com/Mohammadbill) | Mohammad bilal |  |  | Syria  | 127 |
+| 15 | [MuhammadSulaiman001](https://github.com/MuhammadSulaiman001) | Muhammad Sulaiman | LikeCard | m_sulaiman001 | Damascus, Syria | 126 |
+| 16 | [Sedraalsabagh](https://github.com/Sedraalsabagh) | sedra sbg |  |  | Damascus... Syria | 123 |
+| 17 | [Makihataima-Ken](https://github.com/Makihataima-Ken) | Ahmad Soud |  |  | Damascus | 114 |
+| 18 | [muhammedelsami](https://github.com/muhammedelsami) | Muhammed Elşami | DetaySoft |  | Sivas, Syria | 102 |
+| 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy |  |  | Latakia, Syria | 102 |
+| 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Creative Solutions | zaherdirkey | Damascus, Syria | 96 |

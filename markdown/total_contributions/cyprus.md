@@ -1,8 +1,8 @@
 # Total Contributions - Cyprus
 
-Generated: 2026-10-13T01:47:38.025Z
+Generated: 2026-10-13T03:13:57.526Z
 
-Users: 2736
+Users: 2735
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 2736
 | 13 | [nyyhao](https://github.com/nyyhao) | nyhaoo_ | n1apps |  | Cyprus | 9666 |
 | 14 | [rsaryev](https://github.com/rsaryev) | Saryev Rustam |  | rsaryevdev | Cyprus | 9314 |
 | 15 | [vvsotnikov](https://github.com/vvsotnikov) | Vladimir Sotnikov | @JetBrains |  | Cyprus, Paphos | 9137 |
-| 16 | [AbdeenM](https://github.com/AbdeenM) | Abdeen Mohamed | Materiias d.o.o | TheAbdeen9 | Lefkosa, Cyprus | 9126 |
-| 17 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
-| 18 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 9102 |
-| 19 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
-| 20 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
+| 16 | [jin0x](https://github.com/jin0x) | John Leskas | RSH Creative Web Studio LTD | john_leskas | Limassol, Cyprus | 9123 |
+| 17 | [aytacg26](https://github.com/aytacg26) | Aytac Güley | CYENS SuPerWorld | aytacg26 | Nicosia, Cyprus | 9102 |
+| 18 | [awrshift](https://github.com/awrshift) | Serhii Kravchenko |  | awrshift | Cyprus | 8881 |
+| 19 | [laikhtman](https://github.com/laikhtman) | [DL] | Filiatix |  | Cyprus | 8796 |
+| 20 | [Bezarius](https://github.com/Bezarius) | Mstislav Pavlov | Nekki |  | Cyprus, Larnaca | 8728 |
