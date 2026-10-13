@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-13T17:10:45.898Z
+Generated: 2026-10-13T18:38:54.186Z
 
 Users: 289
 
@@ -16,7 +16,7 @@ Users: 289
 | 8 | [12ahm-c](https://github.com/12ahm-c) | ahmed ismail | supnum |  | Mauritania  | 403 |
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh |  | SidiMaadh | Nouakchott | 378 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 343 |
-| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati |  | SidatiLbar97468 | Nouakchott | 299 |
+| 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati |  | SidatiLbar97468 | Nouakchott | 297 |
 | 12 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 278 |
 | 13 | [alibyh](https://github.com/alibyh) | Alibyh | mauri-alpha |  | Nouakchott-Mauritania | 264 |
 | 14 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  |  |  | Nouakchott mauritanie  | 246 |

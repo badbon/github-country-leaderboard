@@ -1,6 +1,6 @@
 # Followers - Namibia
 
-Generated: 2026-10-13T17:16:25.445Z
+Generated: 2026-10-13T18:44:27.959Z
 
 Users: 476
 

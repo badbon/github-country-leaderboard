@@ -1,17 +1,17 @@
 # Followers - Puerto Rico
 
-Generated: 2026-10-13T17:23:43.301Z
+Generated: 2026-10-13T18:52:09.036Z
 
-Users: 1537
+Users: 1536
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez |  | carlos_perez | Puerto Rico | 2193 |
 | 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez |  |  | Puerto Rico | 1384 |
 | 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 1114 |
-| 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López |  | sparragus | Puerto Rico | 688 |
+| 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López |  | sparragus | Puerto Rico | 689 |
 | 5 | [NathanSweet](https://github.com/NathanSweet) | Nathan Sweet | Esoteric Software |  | Puerto Rico | 594 |
-| 6 | [gcollazo](https://github.com/gcollazo) | Giovanni Collazo |  |  | Puerto Rico | 456 |
+| 6 | [gcollazo](https://github.com/gcollazo) | Giovanni Collazo |  |  | Puerto Rico | 454 |
 | 7 | [jgravois](https://github.com/jgravois) | john gravois | @compilerla |  | san juan capo, ca | 267 |
 | 8 | [JamesMessinger](https://github.com/JamesMessinger) | James Messinger |  | James_Messinger | San Juan, PR | 225 |
 | 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | @FoundersFund, @ethereum, @AugurProject, @eco | joeykrug | Puerto Rico | 204 |

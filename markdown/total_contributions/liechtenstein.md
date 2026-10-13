@@ -1,6 +1,6 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-13T17:06:47.269Z
+Generated: 2026-10-13T18:35:00.984Z
 
 Users: 113
 
@@ -10,8 +10,8 @@ Users: 113
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4457 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4248 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2975 |
-| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2617 |
-| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2297 |
+| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2618 |
+| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2418 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1815 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1684 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1173 |

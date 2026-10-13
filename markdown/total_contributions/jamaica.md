@@ -1,6 +1,6 @@
 # Total Contributions - Jamaica
 
-Generated: 2026-10-13T16:59:55.358Z
+Generated: 2026-10-13T18:30:53.492Z
 
 Users: 1275
 
@@ -18,11 +18,11 @@ Users: 1275
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Marc Gayle |  | Kingston, Jamaica | 6366 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 6067 |
 | 12 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Solutions Architect @QualityWorksCG  | irtimid_harding | Kingston, Jamaica | 5295 |
-| 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 5114 |
-| 14 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 4618 |
-| 15 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 4388 |
-| 16 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 4336 |
-| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4180 |
-| 18 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 4072 |
+| 13 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | AlphaQuants Capital Investment  Fund  |  | Kingston, Jamaica | 5238 |
+| 14 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds |  |  | Kingston, Jamaica | 5114 |
+| 15 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson |  |  | Jamaica | 4618 |
+| 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | @DevDaysAtWork  |  | Jamaica | 4388 |
+| 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell |  |  | Kingston, NY | 4336 |
+| 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | 2U Inc. |  | Kingston, NY | 4180 |
 | 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | @tenstorrent |  | Kingston, ON | 4009 |
 | 20 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | KPOD Labs | kareypowell | Manchester, Jamaica | 3902 |

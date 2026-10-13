@@ -18,34 +18,34 @@ Indexed users: 299
 | 4 | [chrismoussounda](https://github.com/chrismoussounda) | Christoffert Moussounda | Pointe-Noire, Congo | 3,802 |
 | 5 | [Codeur-Omniscient](https://github.com/Codeur-Omniscient) | Anthony Dorian | Brazzaville - Congo | 3,763 |
 | 6 | [lepresk](https://github.com/lepresk) | Logan CodeMaker | Brazzaville, Congo | 3,545 |
-| 7 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,333 |
+| 7 | [BlackAngel242](https://github.com/BlackAngel242) | DrSmoke | Congo | 3,393 |
 | 8 | [Justany](https://github.com/Justany) | Justany ITOUA | Brazzaville | 2,973 |
 | 9 | [OrionWambert](https://github.com/OrionWambert) | Orion WAMBERT | Brazzaville - Congo | 2,882 |
 | 10 | [Merite15](https://github.com/Merite15) | Merite | Brazzaville, Congo | 2,881 |
-| 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,826 |
+| 11 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 2,872 |
 | 12 | [Elisee01](https://github.com/Elisee01) | Kitoga Elisee | Kigali, Rwanda \| Congo, Kinshasa | 2,424 |
 | 13 | [Cesar008](https://github.com/Cesar008) | Cesar Grace Louzala | Congo | 2,297 |
 | 14 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 2,216 |
 | 15 | [sancty007](https://github.com/sancty007) | sanctifier Yaw-Mensah | Congo Brazzaville  | 2,205 |
 | 16 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
-| 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,901 |
+| 17 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,926 |
 | 18 | [Rajivhost](https://github.com/Rajivhost) | Rajiv Mounguengue | Brazzaville, Congo | 1,478 |
-| 19 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,333 |
-| 20 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,320 |
+| 19 | [Nianga-hussein](https://github.com/Nianga-hussein) | NIANGA Claude Hussein | Brazzaville | 1,396 |
+| 20 | [DevProsper](https://github.com/DevProsper) |  | Brazzaville, Congo | 1,333 |
 
 ## Public Contributions
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [gedeon2306](https://github.com/gedeon2306) | JihrelDev | Brazzaville | 1,944 |
-| 2 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,901 |
+| 2 | [Osiris-Balonga](https://github.com/Osiris-Balonga) | Emmanuel Osiris Balonga | Brazzaville, Congo | 1,926 |
 | 3 | [josuebrunel](https://github.com/josuebrunel) | Josue Kouka | Pointe-Noire (Congo) | 1,163 |
 | 4 | [Shadow8021](https://github.com/Shadow8021) | Red_Sh@dow | Congo, brazzaville | 1,054 |
 | 5 | [ksthecrowned](https://github.com/ksthecrowned) | Kaiser D. Styve | Brazzaville | 725 |
 | 6 | [elongastarks](https://github.com/elongastarks) | Elonga Stark  | Congo/North-kivu/Butembo | 518 |
 | 7 | [Espoir-Loem](https://github.com/Espoir-Loem) | Espoir LOEMBA | R.Congo, Brazzaville | 461 |
 | 8 | [SedeoLeos](https://github.com/SedeoLeos) | Slaega | Brazzaville congo | 416 |
-| 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 370 |
+| 9 | [Flammeduciel](https://github.com/Flammeduciel) | Flamme Du Ciel WASS | Brazzaville CG | 385 |
 | 10 | [lafondcodeur](https://github.com/lafondcodeur) | MACK LAFOND De Boumas | Brazzaville | 360 |
 | 11 | [denniskoech457](https://github.com/denniskoech457) | Extravaganza | Congo | 343 |
 | 12 | [leloeduk](https://github.com/leloeduk) | Lelo  | Congo | 311 |
@@ -56,7 +56,7 @@ Indexed users: 299
 | 17 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 200 |
 | 18 | [arsene-akiana](https://github.com/arsene-akiana) | Arsène Gloire AKIANA  | Brazzaville, Congo | 195 |
 | 19 | [DMiyalu](https://github.com/DMiyalu) | Dieudonné Miyalu | congo | 193 |
-| 20 | [MakVieSAinte](https://github.com/MakVieSAinte) | MakVieSAinte | Congo Brazzaville | 187 |
+| 20 | [JBixx](https://github.com/JBixx) | HIRWA Jean Baptiste | Brazzaville, Republic of the Congo | 187 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 299
 | 19 | [Ssnnee](https://github.com/Ssnnee) | Samuel Nandi | Republic of the Congo | 26 |
 | 20 | [WinnersProx](https://github.com/WinnersProx) | Vainqueur Bihame | Kigali,Rwanda,Congo | 25 |
 
-Generated: 2026-10-13T17:23:53.811Z
+Generated: 2026-10-13T18:52:54.322Z

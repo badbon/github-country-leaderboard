@@ -1,6 +1,6 @@
 # Puerto Rico
 
-Indexed users: 1,537
+Indexed users: 1,536
 
 | Leaderboard | Link |
 |---|---|
@@ -13,12 +13,12 @@ Indexed users: 1,537
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 38,775 |
-| 2 | [angusdavis2](https://github.com/angusdavis2) |  | Dorado, Puerto Rico | 27,920 |
-| 3 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 22,250 |
-| 4 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 19,949 |
-| 5 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 18,486 |
-| 6 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 17,279 |
-| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 10,074 |
+| 2 | [mattvv](https://github.com/mattvv) | Matt Van | San Juan, Puerto Rico | 33,191 |
+| 3 | [angusdavis2](https://github.com/angusdavis2) |  | Dorado, Puerto Rico | 27,920 |
+| 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | Orlando FL \| Seattle WA \| San Juan PR | 22,250 |
+| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves | Puerto Rico | 19,949 |
+| 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 18,486 |
+| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 17,915 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | Aguadilla, Puerto Rico | 8,232 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben | San Juan, Puerto Rico | 7,609 |
 | 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | San Juan, PR | 7,027 |
@@ -39,9 +39,9 @@ Indexed users: 1,537
 |---:|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | San Juan, PR 🇵🇷 | 16,639 |
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | San Juan, Puerto Rico | 12,316 |
-| 3 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
-| 4 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
-| 5 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 5,162 |
+| 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri | San Juan Capistrano, CA | 9,824 |
+| 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
+| 5 | [egmtm](https://github.com/egmtm) | EGM™ | Puerto Rico | 5,334 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 4,798 |
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson | Puerto Rico | 3,411 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 3,100 |
@@ -65,9 +65,9 @@ Indexed users: 1,537
 | 1 | [darkoperator](https://github.com/darkoperator) | Carlos Perez | Puerto Rico | 2,193 |
 | 2 | [josean-dev](https://github.com/josean-dev) | Josean Martinez | Puerto Rico | 1,384 |
 | 3 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 1,114 |
-| 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López | Puerto Rico | 688 |
+| 4 | [Sparragus](https://github.com/Sparragus) | Richard B. Kaufman-López | Puerto Rico | 689 |
 | 5 | [NathanSweet](https://github.com/NathanSweet) | Nathan Sweet | Puerto Rico | 594 |
-| 6 | [gcollazo](https://github.com/gcollazo) | Giovanni Collazo | Puerto Rico | 456 |
+| 6 | [gcollazo](https://github.com/gcollazo) | Giovanni Collazo | Puerto Rico | 454 |
 | 7 | [jgravois](https://github.com/jgravois) | john gravois | san juan capo, ca | 267 |
 | 8 | [JamesMessinger](https://github.com/JamesMessinger) | James Messinger | San Juan, PR | 225 |
 | 9 | [joeykrug](https://github.com/joeykrug) | Joseph Krug | Puerto Rico | 204 |
@@ -83,4 +83,4 @@ Indexed users: 1,537
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-13T17:23:43.301Z
+Generated: 2026-10-13T18:52:09.036Z

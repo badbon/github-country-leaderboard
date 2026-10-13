@@ -19,19 +19,19 @@ Indexed users: 900
 | 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo | Malawi | 5,944 |
 | 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Area 47, Lilongwe, Malawi | 5,666 |
 | 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Lilongwe, Malawi | 5,585 |
-| 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 5,305 |
-| 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,879 |
+| 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Malawi, Lilongwe | 5,456 |
+| 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | Malawi | 4,900 |
 | 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp | Mzuzu, Malawi | 4,708 |
 | 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera | Blantyre, Malawi | 4,594 |
 | 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga | Mzuzu, Malawi | 4,063 |
 | 13 | [prow57](https://github.com/prow57) | Immanuel Bester | Malawi | 3,931 |
-| 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,687 |
+| 14 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 3,624 |
 | 15 | [Frank5ive](https://github.com/Frank5ive) | Frank Gondwe | Malawi | 3,455 |
 | 16 | [KhoTheProgrammer](https://github.com/KhoTheProgrammer) | Kondwani Padyera | Malawi | 3,194 |
 | 17 | [markulaya2](https://github.com/markulaya2) | Mark Ulaya | Blantyre, Malawi | 3,184 |
 | 18 | [IsaacKalambo22](https://github.com/IsaacKalambo22) | Isaac Kalambo | Lilongwe | 3,136 |
-| 19 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | Malawi | 3,055 |
-| 20 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,054 |
+| 19 | [Valent-p](https://github.com/Valent-p) | Valentino Phiri - Programmer | Lilongwe, Malawi | 3,054 |
+| 20 | [EvanieWares](https://github.com/EvanieWares) | Chisomo Psyelera | Malawi | 3,045 |
 
 ## Public Contributions
 
@@ -42,9 +42,9 @@ Indexed users: 900
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 1,596 |
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Malawi  | 1,189 |
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti | malawi | 1,119 |
-| 6 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 985 |
-| 7 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 965 |
-| 8 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 951 |
+| 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | Lilongwe, Malawi | 965 |
+| 7 | [innowowa](https://github.com/innowowa) | Innocent Wowa | Malawi, Lilongwe | 951 |
+| 8 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | Malawi | 944 |
 | 9 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 | Malawi | 765 |
 | 10 | [lcfranklin](https://github.com/lcfranklin) | Franklin | Rumphi, Malawi | 738 |
 | 11 | [Forgata](https://github.com/Forgata) | Forgata | Malawi | 686 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-13T17:07:31.447Z
+Generated: 2026-10-13T18:37:00.642Z

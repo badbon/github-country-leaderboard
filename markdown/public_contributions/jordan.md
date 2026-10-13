@@ -1,6 +1,6 @@
 # Public Contributions - Jordan
 
-Generated: 2026-10-13T17:00:15.223Z
+Generated: 2026-10-13T18:32:10.039Z
 
 Users: 4015
 
@@ -21,8 +21,8 @@ Users: 4015
 | 13 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | @ExpediaGroup @dexpace |  | Jordan | 1537 |
 | 14 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 1409 |
 | 15 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh |  |  | Amman/Jordan | 1352 |
-| 16 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1340 |
-| 17 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |
-| 18 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 1129 |
-| 19 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |
-| 20 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad |  |  | Amman, Jordan | 1071 |
+| 16 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb |  |  | Jordan | 1349 |
+| 17 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi |  | MohQaddoumi | Jordan | 1340 |
+| 18 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | 42 School |  | Amman, Jordan | 1130 |
+| 19 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo |  | zaid_ejjo | Jordan | 1129 |
+| 20 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan |  | AlMothafar | Amman, Jordan | 1109 |

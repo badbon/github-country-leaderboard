@@ -1,18 +1,18 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-13T17:23:43.301Z
+Generated: 2026-10-13T18:52:09.036Z
 
-Users: 1537
+Users: 1536
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 38775 |
-| 2 | [angusdavis2](https://github.com/angusdavis2) |  | @alianzacap  | angusdav | Dorado, Puerto Rico | 27920 |
-| 3 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | @DRM3Labs  | 7SigmaCompanies | Orlando FL \| Seattle WA \| San Juan PR | 22250 |
-| 4 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 19949 |
-| 5 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 18486 |
-| 6 | [mattvv](https://github.com/mattvv) | Matt Van | @proofofplay |  | San Juan, Puerto Rico | 17279 |
-| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 10074 |
+| 2 | [mattvv](https://github.com/mattvv) | Matt Van |  |  | San Juan, Puerto Rico | 33191 |
+| 3 | [angusdavis2](https://github.com/angusdavis2) |  | @alianzacap  | angusdav | Dorado, Puerto Rico | 27920 |
+| 4 | [robertjchristian](https://github.com/robertjchristian) | Robert Christian | @DRM3Labs  | 7SigmaCompanies | Orlando FL \| Seattle WA \| San Juan PR | 22250 |
+| 5 | [gabynevada](https://github.com/gabynevada) | Elvis Nieves |  | ElvisGNieves | Puerto Rico | 19949 |
+| 6 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 18486 |
+| 7 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 17915 |
 | 8 | [devmoreno](https://github.com/devmoreno) | Edwin Moreno | @ProRanked  | devmoreno | Aguadilla, Puerto Rico | 8232 |
 | 9 | [jdreben](https://github.com/jdreben) | James Dreben |  |  | San Juan, Puerto Rico | 7609 |
 | 10 | [chrisrodz](https://github.com/chrisrodz) | Christian A. Rodriguez | @Parcha-ai  | chrisrodz35 | San Juan, PR | 7027 |

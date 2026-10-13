@@ -1,6 +1,6 @@
 # Latvia
 
-Indexed users: 3,264
+Indexed users: 3,263
 
 | Leaderboard | Link |
 |---|---|
@@ -40,8 +40,8 @@ Indexed users: 3,264
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | Rīga, Latvia | 14,548 |
 | 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | Riga, Latvia | 4,411 |
 | 3 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 3,934 |
-| 4 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs | Riga, Latvia | 2,889 |
-| 5 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis | Latvia, Europe | 2,851 |
+| 4 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis | Latvia, Europe | 3,822 |
+| 5 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs | Riga, Latvia | 2,889 |
 | 6 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 2,465 |
 | 7 | [mscbuild](https://github.com/mscbuild) | Yuri Dev | Latvia (Europe) | 2,419 |
 | 8 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin | Latvija, Riga | 2,098 |
@@ -83,4 +83,4 @@ Indexed users: 3,264
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-13T17:04:34.002Z
+Generated: 2026-10-13T18:33:44.651Z

@@ -1,6 +1,6 @@
 # Followers - Réunion
 
-Generated: 2026-10-13T17:24:34.675Z
+Generated: 2026-10-13T18:53:21.546Z
 
 Users: 212
 
@@ -16,7 +16,7 @@ Users: 212
 | 8 | [mekhalleh](https://github.com/mekhalleh) | RAMELLA Sébastien | Pirates.RE |  | Reunion island | 47 |
 | 9 | [theo-futol](https://github.com/theo-futol) | Théo Futol |  |  | Saint-Denis, Réunion | 33 |
 | 10 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet |  | fabricepayetfr | Reunion Island | 29 |
-| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 29 |
+| 11 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 28 |
 | 12 | [GuillaumeDupuy](https://github.com/GuillaumeDupuy) | Varius | Ynov Paris Campus  |  | Seine-Saint-Denis | 28 |
 | 13 | [mebyz](https://github.com/mebyz) | Emmanuel BOTROS YOUSSEF | PistahX |  | reunion island (FR) | 28 |
 | 14 | [bilbaoba](https://github.com/bilbaoba) | Mathieu Delsaut | Université de La Réunion |  | Saint Denis, La Réunion  | 27 |

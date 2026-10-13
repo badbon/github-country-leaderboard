@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-13T17:17:48.481Z
+Generated: 2026-10-13T18:45:02.424Z
 
 Users: 111
 
@@ -11,7 +11,7 @@ Users: 111
 | 3 | [maitredede](https://github.com/maitredede) | Damien DALY |  |  | Nouméa, New Caledonia | 5497 |
 | 4 | [adriens](https://github.com/adriens) | SALES | OPT-NC | rastadidi | Nouméa, New-Caledonia | 4123 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 2469 |
-| 6 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1471 |
+| 6 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1473 |
 | 7 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 1463 |
 | 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1409 |
 | 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1264 |
@@ -20,9 +20,9 @@ Users: 111
 | 12 | [bpouzet](https://github.com/bpouzet) | Benoît Pouzet |  |  | Nouméa, New Caledonia | 887 |
 | 13 | [lschaeffer313](https://github.com/lschaeffer313) | Laurent Schaeffer | Gouvernement de la Nouvelle-Calédonie |  | New-Caledonia | 739 |
 | 14 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Pacific Community \| Communauté du Pacifique |  | Noumea, New Caledonia | 715 |
-| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 712 |
+| 15 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini |  |  | Nouméa | 713 |
 | 16 | [ellisp](https://github.com/ellisp) | Peter Ellis | Pacific Community \| Communauté de Pacifique |  | Nouméa, Nouvelle-Calédonie | 637 |
 | 17 | [FreddieJH](https://github.com/FreddieJH) | Freddie J. Heather |  |  | Noumea, New Caledonia | 604 |
 | 18 | [BJ-Cochrane](https://github.com/BJ-Cochrane) | Ben Cochrane | Pacific Community \| Communauté de Pacifique | BenCochraneR | Nouméa | 523 |
-| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 498 |
+| 19 | [darwiin](https://github.com/darwiin) | Christophe ROGER |  |  | New Caledonia | 500 |
 | 20 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | New-Caledonian Agronomic Institute - IAC |  | Nouméa, New-Caledonia | 463 |

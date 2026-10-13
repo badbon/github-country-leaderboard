@@ -40,8 +40,8 @@ Indexed users: 1,225
 | 1 | [ksazid](https://github.com/ksazid) | Sazid | Malta | 6,234 |
 | 2 | [jonathan-vella](https://github.com/jonathan-vella) | Jonathan Vella | Malta | 3,876 |
 | 3 | [ripienaar](https://github.com/ripienaar) | R.I.Pienaar | Malta | 3,835 |
-| 4 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,588 |
-| 5 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,552 |
+| 4 | [OmegaGbenga](https://github.com/OmegaGbenga) | Olugbenga Olatunde Dareowolabi | Malta | 3,552 |
+| 5 | [rinrab](https://github.com/rinrab) | Timofei Zhakov | Malta | 3,350 |
 | 6 | [camilamacedo86](https://github.com/camilamacedo86) | Camila Macedo | Malta | 3,150 |
 | 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,126 |
 | 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,076 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-13T17:09:51.010Z
+Generated: 2026-10-13T18:38:40.443Z

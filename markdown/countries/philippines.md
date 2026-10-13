@@ -1,6 +1,6 @@
 # Philippines
 
-Indexed users: 19,790
+Indexed users: 19,788
 
 | Leaderboard | Link |
 |---|---|
@@ -64,7 +64,7 @@ Indexed users: 19,790
 |---:|---|---|---|---:|
 | 1 | [zshaian](https://github.com/zshaian) | Shaian | Manila, Philippines | 5,387 |
 | 2 | [rodrigogalura](https://github.com/rodrigogalura) | Rodrigo Galura | Philippines | 3,344 |
-| 3 | [Hazy019](https://github.com/Hazy019) | Kyrell Santillan | Philippines  | 2,305 |
+| 3 | [Hazy019](https://github.com/Hazy019) | Kyrell Santillan | Philippines  | 2,427 |
 | 4 | [JaKooLit](https://github.com/JaKooLit) | Ja.KooLit | Philippines / South Korea - Worldwide | 2,215 |
 | 5 | [audreyfeldroy](https://github.com/audreyfeldroy) | Audrey M. Roy Greenfeld | Manila | 2,172 |
 | 6 | [xchanmolx](https://github.com/xchanmolx) | Chiantine P. Manigos | Philippines | 1,995 |
@@ -83,4 +83,4 @@ Indexed users: 19,790
 | 19 | [exezick](https://github.com/exezick) | Exequiel Vibar | Philippines | 604 |
 | 20 | [lxsmnsyc](https://github.com/lxsmnsyc) | Alexis H. Munsayac | Philippines | 602 |
 
-Generated: 2026-10-13T17:23:29.208Z
+Generated: 2026-10-13T18:50:08.440Z

@@ -1,16 +1,16 @@
 # Public Contributions - Latvia
 
-Generated: 2026-10-13T17:04:34.002Z
+Generated: 2026-10-13T18:33:44.651Z
 
-Users: 3264
+Users: 3263
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [k0d3r1s](https://github.com/k0d3r1s) | Dāvis Zālītis | @valksor |  | Rīga, Latvia | 14548 |
 | 2 | [mbrock](https://github.com/mbrock) | Mikael Brockman | @lessrest  | meekaale | Riga, Latvia | 4411 |
 | 3 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | @evolution-gaming |  | Latvia | 3934 |
-| 4 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs |  |  | Riga, Latvia | 2889 |
-| 5 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis |  |  | Latvia, Europe | 2851 |
+| 4 | [ringoldsdev](https://github.com/ringoldsdev) | Ringolds Lescinskis |  |  | Latvia, Europe | 3822 |
+| 5 | [rinkevich](https://github.com/rinkevich) | Andrejs Rinkevičs |  |  | Riga, Latvia | 2889 |
 | 6 | [skakri](https://github.com/skakri) | Kristaps Karlsons |  |  | Latvia | 2465 |
 | 7 | [mscbuild](https://github.com/mscbuild) | Yuri Dev |  𝒥ℛ🇯🇷   |  | Latvia (Europe) | 2419 |
 | 8 | [Prokuuudin](https://github.com/Prokuuudin) | Aleksandr Prokudin |  |  | Latvija, Riga | 2098 |

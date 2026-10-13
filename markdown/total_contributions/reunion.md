@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-13T17:24:34.675Z
+Generated: 2026-10-13T18:53:21.546Z
 
 Users: 212
 
@@ -17,12 +17,12 @@ Users: 212
 | 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2089 |
 | 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2053 |
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2050 |
-| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 1994 |
+| 12 | [Gabouin](https://github.com/Gabouin) | Gabouin |  |  | Reunion Island | 2003 |
 | 13 | [John361](https://github.com/John361) | John |  |  | Réunion | 1891 |
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1779 |
 | 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1778 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1710 |
 | 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1593 |
-| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1349 |
-| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1267 |
+| 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1357 |
+| 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1284 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 1152 |

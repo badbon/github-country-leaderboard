@@ -1,16 +1,16 @@
 # Public Contributions - Puerto Rico
 
-Generated: 2026-10-13T17:23:43.301Z
+Generated: 2026-10-13T18:52:09.036Z
 
-Users: 1537
+Users: 1536
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [0xPlayerOne](https://github.com/0xPlayerOne) | A. Mahoney-Fernandes | @NiftyLeague  | 0xPlayerOne | San Juan, PR 🇵🇷 | 16639 |
 | 2 | [RhettCreighton](https://github.com/RhettCreighton) | Rhett Creighton | @RhettCreighton |  | San Juan, Puerto Rico | 12316 |
-| 3 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
-| 4 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
-| 5 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 5162 |
+| 3 | [bpamiri](https://github.com/bpamiri) | Peter Amiri |  |  | San Juan Capistrano, CA | 9824 |
+| 4 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
+| 5 | [egmtm](https://github.com/egmtm) | EGM™ |  | EGMDownloader | Puerto Rico | 5334 |
 | 6 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 4798 |
 | 7 | [edwardlthompson](https://github.com/edwardlthompson) | Edward Thompson |  |  | Puerto Rico | 3411 |
 | 8 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | @PostHog |  | Bayamón, Puerto Rico | 3100 |

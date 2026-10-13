@@ -24,12 +24,12 @@ Indexed users: 1,275
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,366 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
 | 12 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
-| 13 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
-| 14 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
-| 15 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
-| 16 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
-| 17 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
-| 18 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 4,072 |
+| 13 | [SammarieoBrown](https://github.com/SammarieoBrown) | Sammarieo Brown | Kingston, Jamaica | 5,238 |
+| 14 | [tunecrew](https://github.com/tunecrew) | Christopher Edmonds | Kingston, Jamaica | 5,114 |
+| 15 | [emperorjm](https://github.com/emperorjm) | Adrian Thompson | Jamaica | 4,618 |
+| 16 | [javaniecampbell](https://github.com/javaniecampbell) | Javanie Campbell | Jamaica | 4,388 |
+| 17 | [cogell](https://github.com/cogell) | B. Cedric Cogell | Kingston, NY | 4,336 |
+| 18 | [JCarran0](https://github.com/JCarran0) | Jared Carrano | Kingston, NY | 4,180 |
 | 19 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 4,009 |
 | 20 | [kareypowell](https://github.com/kareypowell) | Karey H. Powell | Manchester, Jamaica | 3,902 |
 
@@ -40,7 +40,7 @@ Indexed users: 1,275
 | 1 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,578 |
 | 2 | [kaplanz](https://github.com/kaplanz) | Zakhary Kaplan | Kingston, ON | 3,926 |
 | 3 | [dcblundell](https://github.com/dcblundell) | David Blundell | Kingston, ON | 2,829 |
-| 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,300 |
+| 4 | [shamar-morrison](https://github.com/shamar-morrison) | horizon | Jamaica | 2,283 |
 | 5 | [craole-cc](https://github.com/craole-cc) | Craig "Craole' Cole | Jamaica | 2,260 |
 | 6 | [OddBloke](https://github.com/OddBloke) | Daniel Watkins | Kingston, ON | 1,597 |
 | 7 | [kazo0](https://github.com/kazo0) | Steve Bilogan | Kingston, ON | 1,418 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-13T16:59:55.358Z
+Generated: 2026-10-13T18:30:53.492Z

@@ -1,13 +1,13 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-13T17:19:05.645Z
+Generated: 2026-10-13T18:45:14.024Z
 
 Users: 176
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [Yacine-ai-tech](https://github.com/Yacine-ai-tech) | Seybou Siddo Yacine |  |  | Niamey, Niger | 10101 |
-| 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil |  | jamilbachard | Niger | 3356 |
+| 2 | [jamilbachard](https://github.com/jamilbachard) | Bachard Jamil |  | jamilbachard | Niger | 3369 |
 | 3 | [feyroozecode](https://github.com/feyroozecode) | Ibrahim Ahmad (feyroozecode) |  | feyroozcode | Niger | 3003 |
 | 4 | [docteur-charles](https://github.com/docteur-charles) | MOUSSA DAN SAAADOU Abdourahamane | SAADAW SYSTEMS |  | Niamey, Niger | 2156 |
 | 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis |  |  | Niger/Niamey | 1764 |
@@ -15,11 +15,11 @@ Users: 176
 | 7 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1156 |
 | 8 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 1155 |
 | 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1036 |
-| 10 | [5mamane](https://github.com/5mamane) | Mamane I. |  |  | Niamey | 950 |
-| 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 946 |
+| 10 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 946 |
+| 11 | [5mamane](https://github.com/5mamane) | Mamane I. |  |  | Niamey | 940 |
 | 12 | [Godisouleymane](https://github.com/Godisouleymane) | Souleymane Sabiou | @Sakona-Ne | godi_Souleymane | Niger | 766 |
 | 13 | [oxy227](https://github.com/oxy227) | Ayouba Issoufou |  |  | Niamey/Niger | 749 |
-| 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 696 |
+| 14 | [Abdoulaye-Ly](https://github.com/Abdoulaye-Ly) | Abdoulaye Ousmane Ly |  | doudou__ly | Niamey, Niger | 709 |
 | 15 | [Ismail0u](https://github.com/Ismail0u) | Ismael |  |  | Niamey & Lomé | 587 |
 | 16 | [Imrana-Moustapha](https://github.com/Imrana-Moustapha) | Imrana Moustapha |  |  | Niamey-Niger | 520 |
 | 17 | [mocy111](https://github.com/mocy111) | Moctar Yonli | @Kamamini  | moctar_yonli | Niamey | 516 |

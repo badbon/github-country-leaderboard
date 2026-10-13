@@ -26,7 +26,7 @@ Indexed users: 291
 | 12 | [jasonshillingford](https://github.com/jasonshillingford) | Jason Shillingford | Plymouth | 2,017 |
 | 13 | [pillingworth](https://github.com/pillingworth) | Paul Illingworth | Plymouth, Devon | 1,490 |
 | 14 | [bostonmyk](https://github.com/bostonmyk) | Mike Mykytyn | Plymouth | 1,414 |
-| 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,319 |
+| 15 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 1,397 |
 | 16 | [418error](https://github.com/418error) | Andy 'Channie' Chan | Plymouth | 1,136 |
 | 17 | [samuel-duffield1](https://github.com/samuel-duffield1) | Sam Duffield | Plymouth | 1,088 |
 | 18 | [edgood1](https://github.com/edgood1) | Eddie Goodwin | Plymouth, MA | 990 |
@@ -46,7 +46,7 @@ Indexed users: 291
 | 7 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 678 |
 | 8 | [cpuzzuol](https://github.com/cpuzzuol) | Chris Puzzuoli | Plymouth, MI | 515 |
 | 9 | [patrickmgarrity](https://github.com/patrickmgarrity) | Patrick Garrity | Plymouth, MI | 426 |
-| 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 403 |
+| 10 | [AnshLaw](https://github.com/AnshLaw) | Ansh R. Suryavanshi | Plymouth, MI | 394 |
 | 11 | [OCNGill](https://github.com/OCNGill) | Stephen Gill | Plymouth, MA 02360 | 355 |
 | 12 | [tjrandall](https://github.com/tjrandall) | T.j. Randall | Plymouth, MA | 347 |
 | 13 | [lucafrancesc](https://github.com/lucafrancesc) | Luca Francesco Eto | Plymouth | 344 |
@@ -56,7 +56,7 @@ Indexed users: 291
 | 17 | [leeper48](https://github.com/leeper48) | Kurt Jordan | Plymouth, MA | 251 |
 | 18 | [JacobMalin](https://github.com/JacobMalin) | Jacob Malin | Plymouth, MN | 225 |
 | 19 | [lunatech-3d](https://github.com/lunatech-3d) | LunaTech 3D | Plymouth, Wayne, MI | 207 |
-| 20 | [rshields2004](https://github.com/rshields2004) | Rowan Shields | Plymouth | 190 |
+| 20 | [cjungmann](https://github.com/cjungmann) | Chuck Jungmann | Plymouth, MN USA | 189 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 291
 | 19 | [BeresIvan](https://github.com/BeresIvan) |  | Plymouth, MN | 20 |
 | 20 | [binarytide](https://github.com/binarytide) | John McAndrews | Plymouth, Ma | 20 |
 
-Generated: 2026-10-13T17:14:27.163Z
+Generated: 2026-10-13T18:42:35.528Z

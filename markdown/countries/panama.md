@@ -1,6 +1,6 @@
 # Panama
 
-Indexed users: 1,070
+Indexed users: 1,069
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,070
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-13T17:22:09.347Z
+Generated: 2026-10-13T18:48:49.473Z

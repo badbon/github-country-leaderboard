@@ -16,8 +16,8 @@ Indexed users: 113
 | 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Vaduz, Liechtenstein | 4,457 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | Liechtenstein | 4,248 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Liechtenstein | 2,975 |
-| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,617 |
-| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,297 |
+| 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 2,618 |
+| 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | Liechtenstein | 2,418 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Liechtenstein | 1,815 |
 | 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | Ruggell, Liechtenstein | 1,684 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 1,173 |
@@ -83,4 +83,4 @@ Indexed users: 113
 | 19 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber | Liechtenstein | 14 |
 | 20 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | Liechtenstein | 12 |
 
-Generated: 2026-10-13T17:06:47.269Z
+Generated: 2026-10-13T18:35:00.984Z

@@ -1,14 +1,14 @@
 # Followers - Philippines
 
-Generated: 2026-10-13T17:23:29.208Z
+Generated: 2026-10-13T18:50:08.440Z
 
-Users: 19790
+Users: 19788
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [zshaian](https://github.com/zshaian) | Shaian |  |  | Manila, Philippines | 5387 |
 | 2 | [rodrigogalura](https://github.com/rodrigogalura) | Rodrigo Galura | @qstrike  |  | Philippines | 3344 |
-| 3 | [Hazy019](https://github.com/Hazy019) | Kyrell Santillan |  |  | Philippines  | 2305 |
+| 3 | [Hazy019](https://github.com/Hazy019) | Kyrell Santillan |  |  | Philippines  | 2427 |
 | 4 | [JaKooLit](https://github.com/JaKooLit) | Ja.KooLit |  |  | Philippines / South Korea - Worldwide | 2215 |
 | 5 | [audreyfeldroy](https://github.com/audreyfeldroy) | Audrey M. Roy Greenfeld | @feldroy | audreyfeldroy | Manila | 2172 |
 | 6 | [xchanmolx](https://github.com/xchanmolx) | Chiantine P. Manigos | Manigos Information Technology Solutions | xchanmolx | Philippines | 1995 |

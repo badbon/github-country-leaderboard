@@ -52,11 +52,11 @@ Indexed users: 4,015
 | 13 | [OmarAlJarrah](https://github.com/OmarAlJarrah) | Omar Aljarrah | Jordan | 1,537 |
 | 14 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 1,409 |
 | 15 | [motasemodeh](https://github.com/motasemodeh) | Mo'tasem Odeh | Amman/Jordan | 1,352 |
-| 16 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,340 |
-| 17 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | Amman, Jordan | 1,130 |
-| 18 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo | Jordan | 1,129 |
-| 19 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
-| 20 | [OdaiAyyad](https://github.com/OdaiAyyad) | Odai Ayyad | Amman, Jordan | 1,071 |
+| 16 | [mohammadtmohsen](https://github.com/mohammadtmohsen) | Mohammad Taleb | Jordan | 1,349 |
+| 17 | [Qaddoumi](https://github.com/Qaddoumi) | Qaddoumi | Jordan | 1,340 |
+| 18 | [mosaba7i](https://github.com/mosaba7i) | Mohammed Al-Sabahi | Amman, Jordan | 1,130 |
+| 19 | [zaidejjo](https://github.com/zaidejjo) | Zaid Ajo | Jordan | 1,129 |
+| 20 | [almothafar](https://github.com/almothafar) | Al-Mothafar Al-Hasan | Amman, Jordan | 1,109 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 4,015
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-13T17:00:15.223Z
+Generated: 2026-10-13T18:32:10.039Z

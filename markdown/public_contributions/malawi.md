@@ -1,6 +1,6 @@
 # Public Contributions - Malawi
 
-Generated: 2026-10-13T17:07:31.447Z
+Generated: 2026-10-13T18:37:00.642Z
 
 Users: 900
 
@@ -11,9 +11,9 @@ Users: 900
 | 3 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | @nndi-tech | zikani03 | Lilongwe, Malawi | 1596 |
 | 4 | [edisontaimu9-ui](https://github.com/edisontaimu9-ui) | Edison Taimu  | Bata All Nutrition  |  | Malawi  | 1189 |
 | 5 | [jelome265](https://github.com/jelome265) | Jelome Ngamuti |  |  | malawi | 1119 |
-| 6 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 985 |
-| 7 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 965 |
-| 8 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 951 |
+| 6 | [finalSay9](https://github.com/finalSay9) | Evan Chimwaza | techvac |  | Lilongwe, Malawi | 965 |
+| 7 | [innowowa](https://github.com/innowowa) | Innocent Wowa |  |  | Malawi, Lilongwe | 951 |
+| 8 | [petroskayange](https://github.com/petroskayange) | Petros Kayange | @Kuunika @LUKEINTERNATIONAL @EGPAFMalawiHIS @HISMalawi @DoxDevOps  |  | Malawi | 944 |
 | 9 | [BenjaminMwambakulu](https://github.com/BenjaminMwambakulu) | BenjaminVamp2o5 |  |  | Malawi | 765 |
 | 10 | [lcfranklin](https://github.com/lcfranklin) | Franklin | f-algoverse |  | Rumphi, Malawi | 738 |
 | 11 | [Forgata](https://github.com/Forgata) | Forgata |  |  | Malawi | 686 |

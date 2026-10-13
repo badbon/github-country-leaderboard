@@ -1,8 +1,8 @@
 # Followers - Iran
 
-Generated: 2026-10-13T17:14:22.372Z
+Generated: 2026-10-13T18:28:17.193Z
 
-Users: 26889
+Users: 26888
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
