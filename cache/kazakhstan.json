@@ -17539,8 +17539,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 168,
-    "publicContributions": 20,
+    "privateContributions": 549,
+    "publicContributions": 19,
     "createdAt": "2022-04-18T16:13:16Z"
   },
   {
@@ -17551,7 +17551,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 161,
+    "privateContributions": 58,
     "publicContributions": 2,
     "createdAt": "2022-01-31T05:36:06Z"
   },
@@ -17564,7 +17564,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 0,
     "createdAt": "2022-12-12T15:23:41Z"
   },
   {
@@ -17576,7 +17576,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 108,
-    "publicContributions": 152,
+    "publicContributions": 27,
     "createdAt": "2022-12-12T16:42:13Z"
   },
   {
@@ -17588,7 +17588,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 125,
+    "publicContributions": 113,
     "createdAt": "2022-04-03T11:55:46Z"
   },
   {
@@ -17598,21 +17598,21 @@
     "location": "Almaty, Kazakhstan",
     "company": "Investlink LTD",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 27,
     "createdAt": "2022-03-24T16:32:23Z"
   },
   {
     "login": "arsendgaf",
-    "name": "arsen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/119044107?s=72&u=518b84003a06f0f336537704329987aef7a90784&v=4",
-    "location": "Kazakhstan, Oral",
+    "name": "Arsen Ablkharissov",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/119044107?s=72&u=226d125c199bce58498548d2ddf6141ce7ac498f&v=4",
+    "location": "Kazakhstan, Astana",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2022-11-25T09:52:18Z"
   },
   {
@@ -17623,8 +17623,8 @@
     "company": " INTERNATIONAL EDUCATIONAL CORPORATION",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 235,
-    "publicContributions": 27,
+    "privateContributions": 233,
+    "publicContributions": 24,
     "createdAt": "2022-11-29T17:19:59Z"
   },
   {
@@ -17635,8 +17635,8 @@
     "company": "De Montfort University",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 258,
-    "publicContributions": 225,
+    "privateContributions": 223,
+    "publicContributions": 271,
     "createdAt": "2022-08-11T11:46:59Z"
   },
   {
@@ -17682,9 +17682,9 @@
     "location": "Kazakhstan",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 248,
+    "publicContributions": 313,
     "createdAt": "2022-04-16T13:21:47Z"
   },
   {
@@ -17722,18 +17722,6 @@
     "privateContributions": 0,
     "publicContributions": 18,
     "createdAt": "2022-12-07T05:13:48Z"
-  },
-  {
-    "login": "A5an",
-    "name": "Aukenov Assanali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/115568332?s=72&v=4",
-    "location": "Semey, Kazakhstan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 141,
-    "createdAt": "2022-10-11T14:43:02Z"
   },
   {
     "login": "itsmerusechka",
@@ -67918,5 +67906,17 @@
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2026-06-21T11:26:02Z"
+  },
+  {
+    "login": "AGGIB",
+    "name": "Agybay Gibatollayev",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/113549303?s=72&u=e8f3b08d39a79d5d6b5436e9a070dc76017456d8&v=4",
+    "location": "Kazakhstan",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 11,
+    "privateContributions": 1255,
+    "publicContributions": 978,
+    "createdAt": "2022-09-14T18:19:24Z"
   }
 ]

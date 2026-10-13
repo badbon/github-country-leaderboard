@@ -17431,8 +17431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 192,
-    "publicContributions": 62,
+    "privateContributions": 262,
+    "publicContributions": 45,
     "createdAt": "2024-11-06T17:01:18Z"
   },
   {
@@ -17442,9 +17442,9 @@
     "location": "Cape Town, South Africa",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 98,
     "createdAt": "2024-02-28T13:08:40Z"
   },
   {
@@ -17456,55 +17456,31 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 26,
     "createdAt": "2024-03-01T12:36:11Z"
   },
   {
     "login": "ramun-r",
-    "name": "Rothe Ramun",
+    "name": "Rothe Ramuntshi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/158855719?s=72&u=40eedab2d0f2f0dffdd67d7df5e9b5ff64f9ca4e&v=4",
     "location": "South Africa",
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 241,
-    "publicContributions": 19,
+    "privateContributions": 240,
+    "publicContributions": 22,
     "createdAt": "2024-02-04T20:54:52Z"
-  },
-  {
-    "login": "GabbyGrobler",
-    "name": "Gabrielle",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162476708?s=72&u=c4ff9cd4757cd936fc1c1f7465bb5c1afcb37549&v=4",
-    "location": "Pretoria, South Africa",
-    "company": "M.A.P. Scientific Services",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2024-03-06T15:56:20Z"
-  },
-  {
-    "login": "Morne76B",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175190645?s=72&u=c6c78ed85a1cea6d9bfc21bb0b4a30c54dcbc882&v=4",
-    "location": "South Africa",
-    "company": "@Faolan-Consulting @FaolanIQ",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 19,
-    "createdAt": "2024-07-10T06:49:54Z"
   },
   {
     "login": "ishvah-24",
     "name": "Ishvah",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175614268?s=72&u=11a99edbbf25d0b5501d4f143688d252b6ccd9c4&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175614268?s=72&u=50c1a293599cb81bb10f576f16955387d616d85c&v=4",
     "location": "South Africa",
     "company": "Richfield Graduate Institute of Technology",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 66,
     "createdAt": "2024-07-15T12:04:30Z"
   },
   {
@@ -17516,7 +17492,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 76,
+    "publicContributions": 53,
     "createdAt": "2024-06-19T08:55:35Z"
   },
   {
@@ -17551,8 +17527,8 @@
     "company": "@StellenboschUniversity",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 936,
-    "publicContributions": 218,
+    "privateContributions": 844,
+    "publicContributions": 245,
     "createdAt": "2024-08-16T10:56:54Z"
   },
   {
@@ -17564,7 +17540,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 127,
     "createdAt": "2024-07-20T19:54:24Z"
   },
   {
@@ -17576,7 +17552,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 212,
+    "publicContributions": 198,
     "createdAt": "2024-10-16T09:21:28Z"
   },
   {
@@ -17588,7 +17564,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 18,
     "createdAt": "2024-09-24T20:21:32Z"
   },
   {
@@ -17598,9 +17574,9 @@
     "location": "South Africa",
     "company": "Drive4U ",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 17,
-    "publicContributions": 55,
+    "publicContributions": 53,
     "createdAt": "2024-11-04T15:01:05Z"
   },
   {
@@ -17620,10 +17596,10 @@
     "name": "Lesedi Kutumela",
     "avatarUrl": "https://avatars.githubusercontent.com/u/186722708?s=72&u=693bf2489c007cb810cf9e0881a3e215470cb8bf&v=4",
     "location": "Gauteng, South Africa",
-    "company": "Kai Learning Solution",
+    "company": "Nucleus System",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 53,
+    "privateContributions": 97,
     "publicContributions": 105,
     "createdAt": "2024-10-29T14:19:27Z"
   },
@@ -17634,9 +17610,9 @@
     "location": "South Africa",
     "company": "Abbott Solution(Pty) Ltd",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 22,
     "createdAt": "2024-11-16T19:42:48Z"
   },
   {
@@ -17648,7 +17624,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 247,
+    "publicContributions": 249,
     "createdAt": "2024-02-28T07:30:13Z"
   },
   {

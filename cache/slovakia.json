@@ -17287,7 +17287,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 178,
+    "privateContributions": 239,
     "publicContributions": 0,
     "createdAt": "2020-10-16T16:46:46Z"
   },
@@ -17300,7 +17300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 14,
     "createdAt": "2020-08-23T14:08:26Z"
   },
   {
@@ -17324,7 +17324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 10,
     "createdAt": "2020-03-24T09:56:30Z"
   },
   {
@@ -17336,19 +17336,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 59,
+    "publicContributions": 52,
     "createdAt": "2020-08-08T21:07:09Z"
   },
   {
     "login": "reinum",
     "name": "Michael Ďalog",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59619109?s=72&u=ed277bdad38c5010a8863b15d433f77447396c2a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/59619109?s=72&u=c9e15e13902ed66a916b57cc3fccd4fd6c13cce1&v=4",
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2020-01-07T17:32:13Z"
   },
   {
@@ -17370,9 +17370,9 @@
     "location": "Bratislava, Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 52,
-    "publicContributions": 111,
+    "followers": 2,
+    "privateContributions": 86,
+    "publicContributions": 131,
     "createdAt": "2020-10-11T14:15:37Z"
   },
   {
@@ -17432,20 +17432,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
-    "createdAt": "2020-11-06T12:08:24Z"
-  },
-  {
-    "login": "Aiia-du",
-    "name": "Aiia-u",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/64350683?s=72&u=b57ccf3be0eabdd83896a6a9b9057e158e9b046a&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
     "publicContributions": 3,
-    "createdAt": "2020-04-26T07:47:48Z"
+    "createdAt": "2020-11-06T12:08:24Z"
   },
   {
     "login": "stulo3322",
@@ -17460,18 +17448,6 @@
     "createdAt": "2020-02-26T21:11:41Z"
   },
   {
-    "login": "priechodsky",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/62188977?s=72&v=4",
-    "location": "Slovakia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-03-14T21:01:01Z"
-  },
-  {
     "login": "valeklubomir",
     "name": "",
     "avatarUrl": "https://avatars.githubusercontent.com/u/71550793?s=72&v=4",
@@ -17479,7 +17455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 2,
     "publicContributions": 0,
     "createdAt": "2020-09-19T10:47:22Z"
   },
@@ -17514,9 +17490,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 5,
-    "publicContributions": 381,
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 366,
     "createdAt": "2020-10-02T14:38:43Z"
   },
   {

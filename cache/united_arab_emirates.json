@@ -17378,13 +17378,13 @@
   {
     "login": "one-loop",
     "name": "Saad",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/78092430?s=72&u=e34839c474ff033b8efed2c303dc7f2f4953e0eb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/78092430?s=72&u=a8f505a3ee992c422d314e8d8a0ebbe3c5a8ebfa&v=4",
     "location": "Abu Dhabi",
     "company": "New York University",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 55,
-    "publicContributions": 553,
+    "followers": 15,
+    "privateContributions": 179,
+    "publicContributions": 588,
     "createdAt": "2021-01-27T14:40:16Z"
   },
   {
@@ -17407,8 +17407,8 @@
     "company": "MBZUAI",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 33,
-    "publicContributions": 116,
+    "privateContributions": 37,
+    "publicContributions": 129,
     "createdAt": "2021-10-04T12:30:33Z"
   },
   {
@@ -17418,9 +17418,9 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 440,
-    "publicContributions": 304,
+    "followers": 9,
+    "privateContributions": 3758,
+    "publicContributions": 1757,
     "createdAt": "2021-06-28T16:28:03Z"
   },
   {
@@ -17430,9 +17430,9 @@
     "location": "Abu Dhabi · Remote",
     "company": "Software Engineer",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 400,
-    "publicContributions": 240,
+    "publicContributions": 200,
     "createdAt": "2021-08-18T06:57:48Z"
   },
   {
@@ -17454,9 +17454,9 @@
     "location": "Abu Dhabi",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 836,
+    "publicContributions": 833,
     "createdAt": "2021-06-28T16:07:39Z"
   },
   {
@@ -17478,9 +17478,9 @@
     "location": "Abu Dhabi",
     "company": "University of Bonn",
     "twitterUsername": "OzodbekOzodov",
-    "followers": 9,
-    "privateContributions": 157,
-    "publicContributions": 16,
+    "followers": 11,
+    "privateContributions": 524,
+    "publicContributions": 15,
     "createdAt": "2021-03-12T20:25:43Z"
   },
   {
@@ -17492,7 +17492,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 7,
     "createdAt": "2021-01-24T11:15:35Z"
   },
   {
@@ -17502,7 +17502,7 @@
     "location": "Abu Dhabi, UAE",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2021-12-15T07:44:43Z"
@@ -17515,8 +17515,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 141,
-    "publicContributions": 113,
+    "privateContributions": 171,
+    "publicContributions": 111,
     "createdAt": "2021-02-27T22:25:19Z"
   },
   {
@@ -17528,7 +17528,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 11,
-    "publicContributions": 30,
+    "publicContributions": 49,
     "createdAt": "2021-03-09T11:32:35Z"
   },
   {
@@ -17540,7 +17540,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2021-08-18T10:16:01Z"
   },
   {
@@ -17552,7 +17552,7 @@
     "twitterUsername": "",
     "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 155,
+    "publicContributions": 211,
     "createdAt": "2021-09-29T07:27:10Z"
   },
   {
@@ -17574,7 +17574,7 @@
     "location": "Abu Dhabi",
     "company": "42 school",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-23T19:43:03Z"
@@ -17600,7 +17600,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 3,
     "createdAt": "2021-09-07T18:23:38Z"
   },
   {
@@ -17610,7 +17610,7 @@
     "location": "Abu Dhabi",
     "company": "Divar",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-11-21T10:58:42Z"
@@ -50842,5 +50842,17 @@
     "privateContributions": 0,
     "publicContributions": 33,
     "createdAt": "2023-05-10T22:18:18Z"
+  },
+  {
+    "login": "A5an",
+    "name": "Aukenov Assanali",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/115568332?s=72&v=4",
+    "location": "Abu Dhabi, UAE",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 20,
+    "createdAt": "2022-10-11T14:43:02Z"
   }
 ]

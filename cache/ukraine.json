@@ -17286,9 +17286,9 @@
     "location": "Kyiv, Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 33,
     "createdAt": "2024-02-27T18:39:40Z"
   },
   {
@@ -17299,20 +17299,20 @@
     "company": "Loyola Marymount University",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 768,
+    "privateContributions": 685,
     "publicContributions": 22,
     "createdAt": "2024-01-16T18:43:55Z"
   },
   {
     "login": "AlexanderSmil",
-    "name": "",
+    "name": "AlexanderSmil",
     "avatarUrl": "https://avatars.githubusercontent.com/u/162728184?s=72&u=385ecb78d060e0bdc490bd0da946e2aebc47e084&v=4",
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 13,
     "createdAt": "2024-03-08T16:00:42Z"
   },
   {
@@ -17322,7 +17322,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 144,
     "createdAt": "2024-05-11T09:59:51Z"
@@ -17336,7 +17336,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2024-04-26T16:51:07Z"
   },
   {
@@ -17372,7 +17372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 33,
     "createdAt": "2024-03-01T13:43:29Z"
   },
   {
@@ -17407,8 +17407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 214,
-    "publicContributions": 87,
+    "privateContributions": 284,
+    "publicContributions": 29,
     "createdAt": "2024-01-30T14:08:18Z"
   },
   {
@@ -17456,7 +17456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 5,
-    "publicContributions": 141,
+    "publicContributions": 140,
     "createdAt": "2024-04-22T07:31:20Z"
   },
   {
@@ -17490,7 +17490,7 @@
     "location": "Ukraine",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 32,
     "createdAt": "2024-06-07T13:54:08Z"
@@ -17503,7 +17503,7 @@
     "company": "Westron LLC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 112,
+    "privateContributions": 88,
     "publicContributions": 0,
     "createdAt": "2024-06-24T11:15:32Z"
   },
@@ -17516,7 +17516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-06-19T10:36:14Z"
   },
   {
@@ -573130,5 +573130,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-06T18:34:00Z"
+  },
+  {
+    "login": "Aiia-du",
+    "name": "Aiia-u",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/64350683?s=72&u=b57ccf3be0eabdd83896a6a9b9057e158e9b046a&v=4",
+    "location": "Ukraine",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 9,
+    "createdAt": "2020-04-26T07:47:48Z"
   }
 ]

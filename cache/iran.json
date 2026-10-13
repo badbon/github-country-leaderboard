@@ -17372,7 +17372,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2025-08-29T21:16:32Z"
   },
   {
@@ -17384,7 +17384,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-08-29T20:35:54Z"
   },
   {
@@ -17400,18 +17400,6 @@
     "createdAt": "2025-12-04T17:35:20Z"
   },
   {
-    "login": "soheilmohajer-code",
-    "name": "Soheil Mohajer",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/250978754?s=72&u=8f438a06dd7cf609878e79c8a2886e3ef29d3507&v=4",
-    "location": "Iran",
-    "company": "Zenithra Company",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 16,
-    "createdAt": "2025-12-22T10:58:09Z"
-  },
-  {
     "login": "dariush-hub",
     "name": "sadra abbasi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/225607212?s=72&u=b9cda33bfb039c2e85024211d6da62bb86ece592&v=4",
@@ -17420,7 +17408,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-08-09T19:35:32Z"
   },
   {
@@ -17432,7 +17420,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1191,
+    "publicContributions": 1683,
     "createdAt": "2025-11-10T21:54:31Z"
   },
   {
@@ -17468,7 +17456,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 60,
+    "publicContributions": 25,
     "createdAt": "2025-08-23T18:56:11Z"
   },
   {
@@ -17480,7 +17468,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 84,
     "createdAt": "2025-11-24T20:24:40Z"
   },
   {
@@ -17492,7 +17480,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 46,
     "createdAt": "2025-08-27T09:56:40Z"
   },
   {
@@ -17508,49 +17496,13 @@
     "createdAt": "2025-12-20T20:01:02Z"
   },
   {
-    "login": "sjd1494103-star",
-    "name": "Sajjad Safaei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/247764805?s=72&v=4",
-    "location": "Iran, Mazandaran, Tonekabon, Tayyeb_Mahalle, Niloofar_Abi",
-    "company": "نداریم.",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2025-12-04T09:34:04Z"
-  },
-  {
-    "login": "SEPEHR56",
-    "name": "sepehr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/249240178?s=72&v=4",
-    "location": "iran",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2025-12-12T07:25:29Z"
-  },
-  {
-    "login": "aryamorsali",
-    "name": "Arya Morsali",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/224828927?s=72&v=4",
-    "location": "iran, bokan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 70,
-    "createdAt": "2025-08-05T15:45:17Z"
-  },
-  {
     "login": "aysahajipour",
     "name": "aysahajipour",
     "avatarUrl": "https://avatars.githubusercontent.com/u/223231606?s=72&v=4",
     "location": "Tehran, Iran",
-    "company": "Data Pardazesh",
+    "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2025-07-28T07:49:23Z"
@@ -17574,8 +17526,8 @@
     "location": "Urmia, West Azerbaijan Province, Iran",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 1428,
+    "followers": 12,
+    "privateContributions": 1471,
     "publicContributions": 0,
     "createdAt": "2023-12-25T07:01:45Z"
   },
@@ -17586,7 +17538,7 @@
     "location": "Iran, East Azerbaijan Province, Azarshahr",
     "company": "Afra Pardazesh Kara Co.",
     "twitterUsername": "",
-    "followers": 8,
+    "followers": 15,
     "privateContributions": 0,
     "publicContributions": 31,
     "createdAt": "2023-05-29T20:18:59Z"

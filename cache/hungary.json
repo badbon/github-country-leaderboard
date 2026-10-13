@@ -17384,7 +17384,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2022-07-22T15:13:51Z"
   },
   {
@@ -17395,8 +17395,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 3,
-    "publicContributions": 266,
+    "privateContributions": 0,
+    "publicContributions": 236,
     "createdAt": "2022-02-21T20:02:28Z"
   },
   {
@@ -17407,7 +17407,7 @@
     "company": "",
     "twitterUsername": "Vranek_V",
     "followers": 3,
-    "privateContributions": 137,
+    "privateContributions": 114,
     "publicContributions": 7,
     "createdAt": "2022-10-05T19:57:55Z"
   },
@@ -17420,7 +17420,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 102,
     "createdAt": "2022-09-12T07:08:24Z"
   },
   {
@@ -17431,8 +17431,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 36,
-    "publicContributions": 0,
+    "privateContributions": 260,
+    "publicContributions": 5,
     "createdAt": "2022-06-28T09:28:06Z"
   },
   {
@@ -17454,7 +17454,7 @@
     "location": "Budapest",
     "company": "HSBC",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-02-08T19:03:46Z"
@@ -17466,7 +17466,7 @@
     "location": "Tashkent/Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2022-09-10T19:12:26Z"
@@ -17479,8 +17479,8 @@
     "company": "@inlinestudio ",
     "twitterUsername": "KristofTischler",
     "followers": 3,
-    "privateContributions": 6372,
-    "publicContributions": 249,
+    "privateContributions": 6638,
+    "publicContributions": 307,
     "createdAt": "2022-06-09T15:25:24Z"
   },
   {
@@ -17528,7 +17528,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 87,
+    "publicContributions": 2,
     "createdAt": "2022-01-31T16:10:40Z"
   },
   {
@@ -17539,8 +17539,8 @@
     "company": "Tata Consultancy Services",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 80,
-    "publicContributions": 10,
+    "privateContributions": 79,
+    "publicContributions": 24,
     "createdAt": "2022-09-15T09:12:57Z"
   },
   {
@@ -17554,18 +17554,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-03-09T10:32:06Z"
-  },
-  {
-    "login": "AGGIB",
-    "name": "Agybay Gibatollayev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113549303?s=72&u=e8f3b08d39a79d5d6b5436e9a070dc76017456d8&v=4",
-    "location": "Budapest",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 966,
-    "publicContributions": 51,
-    "createdAt": "2022-09-14T18:19:24Z"
   },
   {
     "login": "balazscsorgo",
@@ -17586,9 +17574,9 @@
     "location": "Budapest",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 9,
     "createdAt": "2022-05-30T10:34:23Z"
   },
   {
@@ -17600,7 +17588,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 80,
     "createdAt": "2022-10-07T08:14:19Z"
   },
   {

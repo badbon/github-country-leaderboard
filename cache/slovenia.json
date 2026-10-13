@@ -17551,8 +17551,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 200,
-    "publicContributions": 0,
+    "privateContributions": 781,
+    "publicContributions": 1,
     "createdAt": "2017-03-03T09:04:24Z"
   },
   {
@@ -17587,7 +17587,7 @@
     "company": "Univerza v Ljubljani",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 42,
+    "privateContributions": 68,
     "publicContributions": 2,
     "createdAt": "2017-01-25T09:18:36Z"
   },
@@ -17636,7 +17636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2017-08-31T13:22:57Z"
   },
   {
@@ -17648,7 +17648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6261,
+    "publicContributions": 5412,
     "createdAt": "2017-05-25T18:20:49Z"
   },
   {
@@ -17683,8 +17683,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 29,
-    "publicContributions": 0,
+    "privateContributions": 73,
+    "publicContributions": 4,
     "createdAt": "2017-12-11T17:50:40Z"
   },
   {
@@ -17702,13 +17702,13 @@
   {
     "login": "buresdv",
     "name": "David Bureš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/22037369?s=72&u=d848e25cdc2b5e9ddf0488af5e5a4303062ce12c&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/22037369?s=72&u=98adbfd1a20a7af6cc273cec14d493f938866264&v=4",
     "location": "Maribor, Slovenia",
-    "company": "USU Solutions",
+    "company": "",
     "twitterUsername": "",
-    "followers": 237,
-    "privateContributions": 3,
-    "publicContributions": 482,
+    "followers": 238,
+    "privateContributions": 14,
+    "publicContributions": 474,
     "createdAt": "2016-09-06T20:11:45Z"
   },
   {
@@ -17718,9 +17718,9 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 109,
-    "privateContributions": 107,
-    "publicContributions": 350,
+    "followers": 111,
+    "privateContributions": 237,
+    "publicContributions": 379,
     "createdAt": "2016-01-09T18:36:00Z"
   },
   {
@@ -17732,7 +17732,7 @@
     "twitterUsername": "dzindzinovic",
     "followers": 73,
     "privateContributions": 0,
-    "publicContributions": 1403,
+    "publicContributions": 1487,
     "createdAt": "2016-07-11T09:36:28Z"
   },
   {
@@ -17742,21 +17742,21 @@
     "location": "Ljubljana, Slovenia",
     "company": "Reflexivity",
     "twitterUsername": "",
-    "followers": 60,
-    "privateContributions": 1515,
-    "publicContributions": 415,
+    "followers": 63,
+    "privateContributions": 2100,
+    "publicContributions": 612,
     "createdAt": "2016-10-16T13:52:43Z"
   },
   {
     "login": "anderlli0053",
-    "name": "Andrew Poženel - SloDevTeam",
+    "name": "Andrew Poženel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22171451?s=72&u=72335fcfa8c397e925b1ce44d15a2b05d45c2707&v=4",
     "location": "Slovenia",
     "company": "Various things",
     "twitterUsername": "",
-    "followers": 57,
-    "privateContributions": 207,
-    "publicContributions": 469,
+    "followers": 63,
+    "privateContributions": 195,
+    "publicContributions": 424,
     "createdAt": "2016-09-13T11:53:24Z"
   },
   {

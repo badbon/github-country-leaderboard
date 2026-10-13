@@ -17600,7 +17600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 10,
     "createdAt": "2022-06-28T20:38:22Z"
   },
   {
@@ -17612,7 +17612,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 211,
+    "publicContributions": 199,
     "createdAt": "2022-11-16T17:17:18Z"
   },
   {
@@ -17636,7 +17636,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 0,
     "createdAt": "2022-05-23T23:24:46Z"
   },
   {
@@ -17648,7 +17648,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 1,
     "createdAt": "2022-05-23T23:07:40Z"
   },
   {
@@ -17660,7 +17660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 21,
     "createdAt": "2022-05-23T22:59:38Z"
   },
   {
@@ -17683,8 +17683,8 @@
     "company": "kevinmedina",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 35,
-    "publicContributions": 27,
+    "privateContributions": 64,
+    "publicContributions": 10,
     "createdAt": "2022-12-19T22:25:26Z"
   },
   {
@@ -17694,7 +17694,7 @@
     "location": "Uruguay",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-12-27T20:20:09Z"
@@ -17768,19 +17768,19 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-07-29T14:37:29Z"
   },
   {
     "login": "facundoborrazas",
     "name": "Facundo Borrazás",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/110354534?s=72&u=c43b63fc9f788794ee4bd4e09067e6e8929d6dae&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/110354534?s=72&u=04178b5392827f09204840fd9244b7c830d6da23&v=4",
     "location": "Montevide, Uruguay",
     "company": "Asignet",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 7,
     "createdAt": "2022-07-31T20:18:30Z"
   },
   {
@@ -17803,7 +17803,7 @@
     "company": "UnlockCommerce",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 126,
+    "privateContributions": 16,
     "publicContributions": 0,
     "createdAt": "2022-05-10T15:34:22Z"
   },
