@@ -27,7 +27,7 @@ Indexed users: 1,357
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
 | 14 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
 | 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
-| 16 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,385 |
+| 16 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,387 |
 | 17 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
 | 18 | [eliusxpol](https://github.com/eliusxpol) | Elhadji Ibrahima Ndiaye | Senegal | 4,201 |
 | 19 | [lonie12](https://github.com/lonie12) | Yxie | Dakar, Senegal | 4,147 |
@@ -38,7 +38,7 @@ Indexed users: 1,357
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | dakar, senegal | 4,304 |
-| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,262 |
+| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 3,264 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Senegal | 3,059 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf | Dakar  | 2,810 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | Dakar, Sénégal | 2,508 |
@@ -56,7 +56,7 @@ Indexed users: 1,357
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev | Senegal | 1,066 |
 | 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni | Dakar, Senegal | 1,031 |
 | 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 1,022 |
-| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 927 |
+| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Dakar, Sn  | 939 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-13T16:05:11.502Z
+Generated: 2026-10-13T17:30:38.367Z

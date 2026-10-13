@@ -13,7 +13,7 @@ Indexed users: 289
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [medsabbar](https://github.com/medsabbar) | Mohamed Sabbar | Nouakchott, Mauritania | 12,042 |
-| 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,409 |
+| 2 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 11,301 |
 | 3 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | mauritania nouakchott | 9,999 |
 | 4 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 8,398 |
 | 5 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 4,369 |
@@ -52,7 +52,7 @@ Indexed users: 289
 | 13 | [alibyh](https://github.com/alibyh) | Alibyh | Nouakchott-Mauritania | 264 |
 | 14 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  | Nouakchott mauritanie  | 246 |
 | 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef | Mauritania | 213 |
-| 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 206 |
+| 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | Nouakchott, Mauritania | 207 |
 | 17 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Nouakchott Mauritania | 202 |
 | 18 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 188 |
 | 19 | [saeedbark](https://github.com/saeedbark) | saeedbark | mauritania | 177 |
@@ -76,11 +76,11 @@ Indexed users: 289
 | 12 | [Layito96](https://github.com/Layito96) |  | Nouakchott, Mauritania | 30 |
 | 13 | [LeminEly](https://github.com/LeminEly) | Lemin | Mauritania | 30 |
 | 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said | Nouakchott,Mauriania | 30 |
-| 15 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 29 |
-| 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou | Nouakchott, Mauritania | 29 |
+| 15 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou | Nouakchott, Mauritania | 30 |
+| 16 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh | nouakchott | 29 |
 | 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed | Nouakchott, Mauritania | 28 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Mauritania, Nouakchott | 25 |
 | 20 | [rajelmn](https://github.com/rajelmn) | ra_mn | mauritania | 24 |
 
-Generated: 2026-10-13T15:46:35.310Z
+Generated: 2026-10-13T17:10:45.898Z

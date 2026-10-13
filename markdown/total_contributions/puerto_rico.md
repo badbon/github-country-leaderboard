@@ -1,6 +1,6 @@
 # Total Contributions - Puerto Rico
 
-Generated: 2026-10-13T16:00:31.116Z
+Generated: 2026-10-13T17:23:43.301Z
 
 Users: 1537
 
@@ -21,7 +21,7 @@ Users: 1537
 | 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Opensoft, Inc |  | Puerto Rico | 6739 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | @paritytech  | shawntabrizi | Puerto Rico | 6569 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | @FutureDeveloperZ   | RealWolfkid | Puerto Rico | 6253 |
-| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 6030 |
+| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado |  |  | San juan, Puerto Rico | 5843 |
 | 17 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | @grpecunia | grpecunia | San Juan, PR | 5795 |
 | 18 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | @borkinc @videoutpl @t4future |  | Puerto Rico | 5781 |
 | 19 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | CFT Services |  | San Juan, Puerto Rico | 5490 |

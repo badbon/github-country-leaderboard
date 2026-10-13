@@ -1,8 +1,8 @@
 # Total Contributions - Malaysia
 
-Generated: 2026-10-13T15:43:42.707Z
+Generated: 2026-10-13T17:07:35.356Z
 
-Users: 11810
+Users: 11808
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -21,8 +21,8 @@ Users: 11810
 | 13 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Latton Lab |  | Malaysia | 13802 |
 | 14 | [edwardtay](https://github.com/edwardtay) | Edward Tay |  | iamedwardtay | Malaysia  | 13397 |
 | 15 | [0xkaz](https://github.com/0xkaz) | kaz |  | WeaveKaz | Malaysia/UAE | 13375 |
-| 16 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
-| 17 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |
-| 18 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah |  |  | Penang, Malaysia | 11173 |
-| 19 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Lucathree Labs | 0xYudhishthra | Malaysia | 10928 |
-| 20 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Matrix Connexion |  | Malaysia | 10910 |
+| 16 | [Marxz13](https://github.com/Marxz13) | Marz |  |  | Malaysia | 13140 |
+| 17 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | University Of Nottingham (Malaysia Campus) |  | Malaysia | 12827 |
+| 18 | [aabeds](https://github.com/aabeds) | Syed Safwan | Deine Tür Gmbh |  | Malaysia | 12115 |
+| 19 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah |  |  | Penang, Malaysia | 11173 |
+| 20 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Lucathree Labs | 0xYudhishthra | Malaysia | 10928 |

@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-13T15:41:47.906Z
+Generated: 2026-10-13T17:07:20.333Z
 
 Users: 2195
 

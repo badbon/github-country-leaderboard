@@ -12,14 +12,14 @@ Indexed users: 25
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 1,380 |
+| 1 | [Dylandoesprogramming](https://github.com/Dylandoesprogramming) | Dylan Brown | Jamestown, CA | 1,384 |
 | 2 | [zerodoc](https://github.com/zerodoc) | Howard M Wheeler | Jamestown, New York | 184 |
 | 3 | [radshiny1992](https://github.com/radshiny1992) | Ashley Moreno | New Emilychester, Saint Helena | 135 |
 | 4 | [carehart](https://github.com/carehart) | Charlie Arehart | Jamestown, KY | 128 |
 | 5 | [johncoder](https://github.com/johncoder) | John Nelson | Jamestown, NY | 66 |
 | 6 | [brandan-schmitz](https://github.com/brandan-schmitz) | Brandan Schmitz | Jamestown, North Dakota | 62 |
 | 7 | [scottley](https://github.com/scottley) | Scott Simon | Jamestown, MO | 41 |
-| 8 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 21 |
+| 8 | [Ashtray915](https://github.com/Ashtray915) | 3am Dead Coder | Jamestown | 23 |
 | 9 | [john-moore-levesque](https://github.com/john-moore-levesque) | John Moore-Levesque | Jamestown, RI | 10 |
 | 10 | [ReviewEdge](https://github.com/ReviewEdge) | Logan Richardson | Jamestown, NY | 3 |
 | 11 | [agentic-webb](https://github.com/agentic-webb) | Eric Webb | Jamestown, KY | 1 |
@@ -83,4 +83,4 @@ Indexed users: 25
 | 19 | [EgonX](https://github.com/EgonX) | J. Hall | Jamestown, TN | 1 |
 | 20 | [GTCCApplications](https://github.com/GTCCApplications) | GTCC Applications | Jamestown, NC | 1 |
 
-Generated: 2026-10-13T16:01:41.159Z
+Generated: 2026-10-13T17:26:31.150Z

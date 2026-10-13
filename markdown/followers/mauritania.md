@@ -1,6 +1,6 @@
 # Followers - Mauritania
 
-Generated: 2026-10-13T15:46:35.310Z
+Generated: 2026-10-13T17:10:45.898Z
 
 Users: 289
 
@@ -20,8 +20,8 @@ Users: 289
 | 12 | [Layito96](https://github.com/Layito96) |  | Interlink, Wimex |  | Nouakchott, Mauritania | 30 |
 | 13 | [LeminEly](https://github.com/LeminEly) | Lemin |  SupNum |  | Mauritania | 30 |
 | 14 | [MdMahmoudSaid](https://github.com/MdMahmoudSaid) | Mohamed Mahmoud Said |  |  | Nouakchott,Mauriania | 30 |
-| 15 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 29 |
-| 16 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 29 |
+| 15 | [moustaphatalebjiddou](https://github.com/moustaphatalebjiddou) | Moustapha Taleb Jiddou |  | MoustaphaTJ | Nouakchott, Mauritania | 30 |
+| 16 | [etfaghaoubeid](https://github.com/etfaghaoubeid) | Etfagha oubeid Elatigh |  |  | nouakchott | 29 |
 | 17 | [BechirAhmed](https://github.com/BechirAhmed) | Bechir Ahmed |  |  | Nouakchott, Mauritania | 28 |
 | 18 | [mohamdi](https://github.com/mohamdi) | Mohamdi Khlil |  |  | Mauritania | 26 |
 | 19 | [mbareck7](https://github.com/mbareck7) | mbar3ck7 | Bits Tamer | mbareck77 | Mauritania, Nouakchott | 25 |

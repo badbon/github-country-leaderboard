@@ -53,7 +53,7 @@ Indexed users: 900
 | 14 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 624 |
 | 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
 | 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
-| 17 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 481 |
+| 17 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 483 |
 | 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
 | 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
 | 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | Lilongwe, Malawi | 426 |
@@ -63,7 +63,7 @@ Indexed users: 900
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Iankulani](https://github.com/Iankulani) | Ian Carter Kulani | Mzimba, Malawi | 2,649 |
-| 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,439 |
+| 2 | [StevenKamwaza](https://github.com/StevenKamwaza) | Steven Kamwaza |  Malawi | 1,445 |
 | 3 | [ACT91](https://github.com/ACT91) | Stanley Gersom | Blantyre , Malawi | 768 |
 | 4 | [Marhardal](https://github.com/Marhardal) | Martin Harawa | Lilongwe Malaŵi  | 564 |
 | 5 | [zikani03](https://github.com/zikani03) | Zikani Nyirenda Mwase | Lilongwe, Malawi | 483 |
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-13T15:43:16.669Z
+Generated: 2026-10-13T17:07:31.447Z

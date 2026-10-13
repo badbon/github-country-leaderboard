@@ -27,7 +27,7 @@ Indexed users: 1,537
 | 13 | [brettheap](https://github.com/brettheap) | Brett Heap | Puerto Rico | 6,739 |
 | 14 | [shawntabrizi](https://github.com/shawntabrizi) | Shawn Tabrizi | Puerto Rico | 6,569 |
 | 15 | [Wolfkid200444](https://github.com/Wolfkid200444) | Wolfie | Puerto Rico | 6,253 |
-| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 6,030 |
+| 16 | [torlanco](https://github.com/torlanco) | Francisco Tirado | San juan, Puerto Rico | 5,843 |
 | 17 | [grpecunia](https://github.com/grpecunia) | Gustavo Rivera Pecunia | San Juan, PR | 5,795 |
 | 18 | [ChristianPerez34](https://github.com/ChristianPerez34) | Christian Perez Villanueva | Puerto Rico | 5,781 |
 | 19 | [cfboy](https://github.com/cfboy) | Cristian F. Torres Collazo | San Juan, Puerto Rico | 5,490 |
@@ -83,4 +83,4 @@ Indexed users: 1,537
 | 19 | [rnegron](https://github.com/rnegron) | Raúl Negrón-Otero | Bayamón, Puerto Rico | 113 |
 | 20 | [hackingbutlegal](https://github.com/hackingbutlegal) | Jackie Singh | San Juan, PR | 107 |
 
-Generated: 2026-10-13T16:00:31.116Z
+Generated: 2026-10-13T17:23:43.301Z

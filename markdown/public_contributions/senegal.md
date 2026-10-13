@@ -1,13 +1,13 @@
 # Public Contributions - Senegal
 
-Generated: 2026-10-13T16:05:11.502Z
+Generated: 2026-10-13T17:30:38.367Z
 
 Users: 1357
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [traorecheikh](https://github.com/traorecheikh) | Cheikh Tidiane TRAORÉ | @Teksi-inc @404-NotFound-Org @TyvaaServices  | HanoWhisper | dakar, senegal | 4304 |
-| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3262 |
+| 2 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | ISI |  | Sénegale, Dakar | 3264 |
 | 3 | [utachicodes](https://github.com/utachicodes) | Abdoullah Ndao | Azertica |  | Senegal | 3059 |
 | 4 | [nosleepman1](https://github.com/nosleepman1) | Abdallah Diouf |  |  | Dakar  | 2810 |
 | 5 | [Anna-007-tech](https://github.com/Anna-007-tech) | Anne Marie Seye | 21STUDIO |  | Dakar, Sénégal | 2508 |
@@ -25,4 +25,4 @@ Users: 1357
 | 17 | [sokhnaFaaty](https://github.com/sokhnaFaaty) | nexuusDev |  |  | Senegal | 1066 |
 | 18 | [RBen19](https://github.com/RBen19) | Rosinard Beni |  |  | Dakar, Senegal | 1031 |
 | 19 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | @OpenFn | eliaswalyba | Dakar, Senegal | 1022 |
-| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar |  | Dakar, Sn  | 927 |
+| 20 | [khadimmbaye0](https://github.com/khadimmbaye0) | Khadim MBAYE  | Student at Ecole Superieur Polytechnique de Dakar | khadimmb004 | Dakar, Sn  | 939 |

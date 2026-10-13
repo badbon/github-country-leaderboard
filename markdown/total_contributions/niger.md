@@ -1,6 +1,6 @@
 # Total Contributions - Niger
 
-Generated: 2026-10-13T15:52:44.970Z
+Generated: 2026-10-13T17:19:05.645Z
 
 Users: 176
 
@@ -13,7 +13,7 @@ Users: 176
 | 5 | [akaletekoffilevis](https://github.com/akaletekoffilevis) | akaletekoffilevis |  |  | Niger/Niamey | 1764 |
 | 6 | [petrozavodsky](https://github.com/petrozavodsky) | Vladimir Petrozavodsky |  |  | Niger | 1376 |
 | 7 | [kodjodevf](https://github.com/kodjodevf) | Moustapha Kodjo Amadou |  | kodjodevf | Niamey,Niger | 1156 |
-| 8 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 1140 |
+| 8 | [Yacoubou-seidou](https://github.com/Yacoubou-seidou) | Yacos | Available for hire |  | Niamey/Niger | 1155 |
 | 9 | [FadelMamar](https://github.com/FadelMamar) | Fadel |  |  | Niger | 1036 |
 | 10 | [5mamane](https://github.com/5mamane) | Mamane I. |  |  | Niamey | 950 |
 | 11 | [Transega](https://github.com/Transega) | Collins Asega Amadala  | @omdena | asega_collins | Niamey Niger | 946 |

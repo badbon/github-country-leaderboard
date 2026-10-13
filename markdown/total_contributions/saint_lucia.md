@@ -1,6 +1,6 @@
 # Total Contributions - Saint Lucia
 
-Generated: 2026-10-13T16:01:46.928Z
+Generated: 2026-10-13T17:27:38.913Z
 
 Users: 35
 
@@ -10,16 +10,16 @@ Users: 35
 | 2 | [wilsonwolf](https://github.com/wilsonwolf) |  |  |  | Castries, Saint Lucia | 4004 |
 | 3 | [jigzstar](https://github.com/jigzstar) | Joakim George | Saint Lucia NIC |  | Castries, Saint Lucia | 3765 |
 | 4 | [UVLabs](https://github.com/UVLabs) | Uriahs Victor |  |  | Saint Lucia | 2004 |
-| 5 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 1035 |
-| 6 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | @ec-intl |  | Saint Lucia | 1033 |
+| 5 | [k-alphonse](https://github.com/k-alphonse) | Kaitlyn Alphonse | @ec-intl |  | Saint Lucia | 1037 |
+| 6 | [leadegroot](https://github.com/leadegroot) | Lea de Groot |  |  | Saint Lucia | 1035 |
 | 7 | [remyfrancis](https://github.com/remyfrancis) | Remy Francis | Quantum Garden Software |  | Saint Lucia | 954 |
-| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 820 |
+| 8 | [cmbengue-ec-intl](https://github.com/cmbengue-ec-intl) | Cheikh Mbengue | @ec-intl @CliMA @utatulc  | combengue | Castries, Saint Lucia | 821 |
 | 9 | [antonio-agiste](https://github.com/antonio-agiste) | Antonio |  | bxnes_97 | Saint Lucia | 301 |
 | 10 | [johnsBeharry](https://github.com/johnsBeharry) | Johns Beharry | @peakshift  | johnsBeharry | Saint Lucia | 94 |
 | 11 | [fontius](https://github.com/fontius) |  |  |  | Saint Lucia | 93 |
 | 12 | [PGPillar](https://github.com/PGPillar) | H |  |  | Saint Lucia | 42 |
 | 13 | [swelanauguste](https://github.com/swelanauguste) | Swelan R. Auguste | kingship |  | Saint Lucia | 18 |
-| 14 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo |  |  | Castries, Saint Lucia | 15 |
+| 14 | [Azendae-Popo](https://github.com/Azendae-Popo) | Azendae Popo |  |  | Castries, Saint Lucia | 16 |
 | 15 | [Orbtronics-Admin](https://github.com/Orbtronics-Admin) | Orbtronics |  |  | Saint Lucia | 14 |
 | 16 | [granges0storage](https://github.com/granges0storage) | Lidia St |  |  | Saint Lucia | 13 |
 | 17 | [xavier-1-tech](https://github.com/xavier-1-tech) | Xavier Henry | eMagine Solutions Inc. |  | Saint Lucia | 13 |

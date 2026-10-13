@@ -12,7 +12,7 @@ Indexed users: 61
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 13,640 |
+| 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 13,717 |
 | 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 9,876 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,253 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,176 |
@@ -29,7 +29,7 @@ Indexed users: 61
 | 15 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 232 |
 | 16 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 197 |
 | 17 | [nicorsm](https://github.com/nicorsm) | Nicola Giancecchi | San Marino | 159 |
-| 18 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Bologna / Rimini / San Marino | 119 |
+| 18 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Bologna / Rimini / San Marino | 120 |
 | 19 | [alexsteinerr](https://github.com/alexsteinerr) | Alex Steiner | San Marino | 104 |
 | 20 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 100 |
 
@@ -44,7 +44,7 @@ Indexed users: 61
 | 5 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 284 |
 | 6 | [simorina](https://github.com/simorina) | Simone Rinaldi | San Marino | 232 |
 | 7 | [elena-sarti](https://github.com/elena-sarti) | Elena Sarti | San Marino | 197 |
-| 8 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Bologna / Rimini / San Marino | 119 |
+| 8 | [CometaSensitiva](https://github.com/CometaSensitiva) | Michele Mazza | Bologna / Rimini / San Marino | 120 |
 | 9 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 101 |
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 96 |
 | 11 | [lucabio](https://github.com/lucabio) | Luca | San Marino | 75 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-13T16:04:06.450Z
+Generated: 2026-10-13T17:30:00.638Z

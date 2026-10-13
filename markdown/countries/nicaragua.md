@@ -12,7 +12,7 @@ Indexed users: 1,394
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 9,372 |
+| 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | Nicaragua | 9,320 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | Managua, Nicaragua | 8,715 |
 | 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real | Nicaragua | 8,221 |
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Managua, Nicaragua | 7,457 |
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-13T15:52:00.473Z
+Generated: 2026-10-13T17:18:40.475Z

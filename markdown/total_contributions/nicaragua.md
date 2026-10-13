@@ -1,12 +1,12 @@
 # Total Contributions - Nicaragua
 
-Generated: 2026-10-13T15:52:00.473Z
+Generated: 2026-10-13T17:18:40.475Z
 
 Users: 1394
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 9372 |
+| 1 | [antonygiomarxdev](https://github.com/antonygiomarxdev) | Antony Giomar Hernández | @Atomchat-io | antonygiomarx | Nicaragua | 9320 |
 | 2 | [pacisauctor](https://github.com/pacisauctor) | Axel Garcia | @BreveTech @tizo-nic  | pacisauctor_ | Managua, Nicaragua | 8715 |
 | 3 | [herroldreal](https://github.com/herroldreal) | Herrold H. Real |  |  | Nicaragua | 8221 |
 | 4 | [LuiisDev21](https://github.com/LuiisDev21) | Luis Ordoñez | Freelance |  | Managua, Nicaragua | 7457 |

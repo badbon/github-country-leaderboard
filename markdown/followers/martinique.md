@@ -1,6 +1,6 @@
 # Followers - Martinique
 
-Generated: 2026-10-13T15:45:52.273Z
+Generated: 2026-10-13T17:10:40.193Z
 
 Users: 75
 
@@ -16,9 +16,9 @@ Users: 75
 | 8 | [b1nj](https://github.com/b1nj) | B1nj | pixellweb.com |  | Martinique | 10 |
 | 9 | [jucollet972](https://github.com/jucollet972) | Julien COLLET |  |  | Martinique | 10 |
 | 10 | [lalabarca](https://github.com/lalabarca) | Laura Hardy-Dessources |  |  | Martinique | 10 |
-| 11 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 9 |
-| 12 | [kylian97](https://github.com/kylian97) | kylian_b |  |  | Martinique | 9 |
-| 13 | [nadlgit](https://github.com/nadlgit) | Nadine |  |  | Martinique | 9 |
+| 11 | [kylian97](https://github.com/kylian97) | kylian_b |  |  | Martinique | 9 |
+| 12 | [nadlgit](https://github.com/nadlgit) | Nadine |  |  | Martinique | 9 |
+| 13 | [GuillaumeBld](https://github.com/GuillaumeBld) | Guillaume Bolivard |  |  | Chicago / Fort-de-France | 8 |
 | 14 | [anthony-nosibor](https://github.com/anthony-nosibor) | Anthony nosibor |  |  | Martinique | 7 |
 | 15 | [glefait](https://github.com/glefait) | Guillem Lefait | @Holimetrix @tvty-official  |  | Fort-de-France, Martinique | 7 |
 | 16 | [kdichon](https://github.com/kdichon) | Kdichon | Kdichon Dev |  | Martinique  | 7 |

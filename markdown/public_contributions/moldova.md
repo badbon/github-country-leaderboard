@@ -1,8 +1,8 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-13T15:48:12.444Z
+Generated: 2026-10-13T17:12:20.347Z
 
-Users: 1753
+Users: 1752
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -15,9 +15,9 @@ Users: 1753
 | 7 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2029 |
 | 8 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2021 |
 | 9 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | TTG.club |  | Moldova | 1764 |
-| 10 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr |  |  | Moldova | 1708 |
-| 11 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 1693 |
-| 12 | [teratron](https://github.com/teratron) | Oleg Alexandrov |  |  | Moldova | 1665 |
+| 10 | [teratron](https://github.com/teratron) | Oleg Alexandrov |  |  | Moldova | 1740 |
+| 11 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr |  |  | Moldova | 1708 |
+| 12 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 1693 |
 | 13 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1552 |
 | 14 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1498 |
 | 15 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |

@@ -12,10 +12,10 @@ Indexed users: 111
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 13,465 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 13,520 |
 | 2 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 6,604 |
-| 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,492 |
-| 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,122 |
+| 3 | [maitredede](https://github.com/maitredede) | Damien DALY | Nouméa, New Caledonia | 5,497 |
+| 4 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 4,123 |
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 2,469 |
 | 6 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,471 |
 | 7 | [120dev](https://github.com/120dev) | 120 | NEW CALEDONIA | 1,463 |
@@ -37,13 +37,13 @@ Indexed users: 111
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 3,848 |
-| 2 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 3,159 |
+| 1 | [MelanieGault](https://github.com/MelanieGault) | Mélanie | New Caledonia | 3,880 |
+| 2 | [adriens](https://github.com/adriens) | SALES | Nouméa, New-Caledonia | 3,160 |
 | 3 | [kyuhank](https://github.com/kyuhank) | Kyuhan Kim | Noumea, New Caledonia | 2,995 |
 | 4 | [tom333](https://github.com/tom333) |  | Nouméa, New Calédonia | 1,471 |
 | 5 | [gvdr](https://github.com/gvdr) | Giulio Valentino Dalla Riva | Noumea, New Caledonia | 715 |
 | 6 | [PLStenger](https://github.com/PLStenger) | Pierre-Louis Stenger | Nouméa, New-Caledonia | 463 |
-| 7 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 365 |
+| 7 | [Nem0oo](https://github.com/Nem0oo) | Guillaume COURTOT | New-Caledonia | 375 |
 | 8 | [aNaoy](https://github.com/aNaoy) | Yoan Agostini | Nouméa | 337 |
 | 9 | [jchable](https://github.com/jchable) | Julien CHABLE | Nouméa | 322 |
 | 10 | [loxK](https://github.com/loxK) | Laurent Dinclaux | New Caledonia | 284 |
@@ -83,4 +83,4 @@ Indexed users: 111
 | 19 | [gronono](https://github.com/gronono) | Arnaud | New Caledonia | 9 |
 | 20 | [6pheR](https://github.com/6pheR) | CipheR_ | New Caledonia | 8 |
 
-Generated: 2026-10-13T15:51:53.238Z
+Generated: 2026-10-13T17:17:48.481Z

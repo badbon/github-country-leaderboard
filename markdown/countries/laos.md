@@ -45,7 +45,7 @@ Indexed users: 360
 | 6 | [dhecaptain](https://github.com/dhecaptain) | David Wambua | Laos | 390 |
 | 7 | [douangtavanh](https://github.com/douangtavanh) | Douangtavanh Kongphaly | Vientiane, Laos | 389 |
 | 8 | [maxontorres](https://github.com/maxontorres) | Maxon Torres | Vientiane, Laos | 344 |
-| 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 293 |
+| 9 | [barluscuda](https://github.com/barluscuda) | BarlusCuda | Laos | 294 |
 | 10 | [KT246](https://github.com/KT246) | khamtay kongmanh | Vientiane, Laos | 258 |
 | 11 | [bytoum](https://github.com/bytoum) | Toum Nanthavath | Laos | 189 |
 | 12 | [nirankoon](https://github.com/nirankoon) |  | Vientiane | 174 |
@@ -83,4 +83,4 @@ Indexed users: 360
 | 19 | [Sengkue](https://github.com/Sengkue) | SengKueVang | Laos, Vientiane capital | 16 |
 | 20 | [JarnKet](https://github.com/JarnKet) | Ketsadaphone BOUTPANYDA | Savannakhet, Laos | 14 |
 
-Generated: 2026-10-13T15:38:46.637Z
+Generated: 2026-10-13T17:04:09.311Z

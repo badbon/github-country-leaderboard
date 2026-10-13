@@ -1,6 +1,6 @@
 # Public Contributions - Myanmar
 
-Generated: 2026-10-13T15:50:21.498Z
+Generated: 2026-10-13T17:15:40.555Z
 
 Users: 2067
 
@@ -21,8 +21,8 @@ Users: 2067
 | 13 | [thaw98](https://github.com/thaw98) | Pyae Phyo Thaw | ACE Data Systems |  | Myanmar | 1071 |
 | 14 | [SaingHmineTun](https://github.com/SaingHmineTun) | Sai Saing Hmine Tun | TMK Group | SaingHmineTun2 | Muse, Shan State, Myanmar | 1037 |
 | 15 | [acehidan](https://github.com/acehidan) | Aung Aung Oo | OTAS Tech Solutions |  | Myanmar | 1032 |
-| 16 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1006 |
-| 17 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1001 |
-| 18 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Aplus Binary |  | Taunggyi, Shan State, Myanmar | 933 |
-| 19 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 920 |
+| 16 | [TaoMonLae](https://github.com/TaoMonLae) |  |  |  | Myanmar | 1017 |
+| 17 | [phothinmg](https://github.com/phothinmg) | Pho Thin Maung |  |  | Myanmar | 1006 |
+| 18 | [thanthtooaung-coding](https://github.com/thanthtooaung-coding) | Thant Htoo Aung | Laconic | VinnnDev | Yangon, Myanmar | 1001 |
+| 19 | [HlyamHtetKyaw](https://github.com/HlyamHtetKyaw) | Hlyam_Htet_Kyaw | Aplus Binary |  | Taunggyi, Shan State, Myanmar | 933 |
 | 20 | [ThantSinTun009](https://github.com/ThantSinTun009) | Thant Sin Tun |  |  | Mandalay, Myanmar | 905 |

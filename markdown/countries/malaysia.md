@@ -1,6 +1,6 @@
 # Malaysia
 
-Indexed users: 11,810
+Indexed users: 11,808
 
 | Leaderboard | Link |
 |---|---|
@@ -27,11 +27,11 @@ Indexed users: 11,810
 | 13 | [ninjitsuytber](https://github.com/ninjitsuytber) | Stephen Sii | Malaysia | 13,802 |
 | 14 | [edwardtay](https://github.com/edwardtay) | Edward Tay | Malaysia  | 13,397 |
 | 15 | [0xkaz](https://github.com/0xkaz) | kaz | Malaysia/UAE | 13,375 |
-| 16 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
-| 17 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
-| 18 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah | Penang, Malaysia | 11,173 |
-| 19 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Malaysia | 10,928 |
-| 20 | [wantanwonderland](https://github.com/wantanwonderland) | Wantan | Malaysia | 10,910 |
+| 16 | [Marxz13](https://github.com/Marxz13) | Marz | Malaysia | 13,140 |
+| 17 | [AqwamCreates](https://github.com/AqwamCreates) | Aqwam Harish Aiman | Malaysia | 12,827 |
+| 18 | [aabeds](https://github.com/aabeds) | Syed Safwan | Malaysia | 12,115 |
+| 19 | [bernardcheah](https://github.com/bernardcheah) | Bernard Cheah | Penang, Malaysia | 11,173 |
+| 20 | [0xYudhishthra](https://github.com/0xYudhishthra) | Yudhishthra Sugumaran | Malaysia | 10,928 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 11,810
 | 19 | [syarief02](https://github.com/syarief02) | Syarief Azman | Malaysia | 458 |
 | 20 | [Zeyad-Azima](https://github.com/Zeyad-Azima) | Zer0verflow | Malaysia | 439 |
 
-Generated: 2026-10-13T15:43:42.707Z
+Generated: 2026-10-13T17:07:35.356Z

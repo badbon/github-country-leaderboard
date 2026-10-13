@@ -1,6 +1,6 @@
 # Total Contributions - Lesotho
 
-Generated: 2026-10-13T15:40:21.371Z
+Generated: 2026-10-13T17:05:12.880Z
 
 Users: 160
 
@@ -11,7 +11,7 @@ Users: 160
 | 3 | [tshakalekholoane](https://github.com/tshakalekholoane) | Tshaka Lekholoane |  |  | Maseru, Lesotho | 2315 |
 | 4 | [KamoheloKoali](https://github.com/KamoheloKoali) | Kamohelo Koali |  |  | Lesotho | 2002 |
 | 5 | [LomNtetha](https://github.com/LomNtetha) | Lumkile Ntetha |  | ntethalumkile | Maseru | 1974 |
-| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1016 |
+| 6 | [Montso-Matlaletsa](https://github.com/Montso-Matlaletsa) | Montso Matlaletsa | @africacodeacademy @wholeapp |  | Maseru, Lesotho | 1018 |
 | 7 | [hitman1c](https://github.com/hitman1c) | SechabaLaptopTracker | SechabaLaptopTracker |  | Lesotho,Maseru | 852 |
 | 8 | [kaneloramokhele](https://github.com/kaneloramokhele) | Ramokhele | AliansImperium PTY LTD | MRamokhele | Maseru | 831 |
 | 9 | [KenedyMoremi](https://github.com/KenedyMoremi) | Tumisang Moremi |  | _Moremi_ | Maseru | 705 |
@@ -24,5 +24,5 @@ Users: 160
 | 16 | [tefol-hub](https://github.com/tefol-hub) | Tefo Leche |  | tefoLec | Lesotho | 291 |
 | 17 | [Matela-cyber](https://github.com/Matela-cyber) | Vicent Matela |  |  | Lesotho | 285 |
 | 18 | [setsoto](https://github.com/setsoto) | Setsoto |  |  | Lesotho | 263 |
-| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 249 |
+| 19 | [kananelotseisa](https://github.com/kananelotseisa) | Kananelo Ts'eisa |  |  | Lesotho | 252 |
 | 20 | [Thato-Motseki](https://github.com/Thato-Motseki) | Thato Motseki |  |  | Lesotho, Maseru | 226 |
