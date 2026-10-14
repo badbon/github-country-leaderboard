@@ -1,6 +1,6 @@
 # Public Contributions - Iceland
 
-Generated: 2026-10-14T08:52:24.838Z
+Generated: 2026-10-14T10:18:24.318Z
 
 Users: 1579
 
@@ -15,7 +15,7 @@ Users: 1579
 | 7 | [bjorndarri](https://github.com/bjorndarri) | Björn Darri Sigurðsson |  |  | Reykjavík, Iceland | 2477 |
 | 8 | [gardarthorsteins](https://github.com/gardarthorsteins) | Garðar Þorsteinsson | Vettvangur |  | Reykjavík, Iceland | 2405 |
 | 9 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | @trip-to-japan  | jokull | Reykjavík, Iceland | 2163 |
-| 10 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2015 |
+| 10 | [pzychozen](https://github.com/pzychozen) | Hilmir Frímann Halldórsson |  | pzychozen | Iceland | 2028 |
 | 11 | [bgautijonsson](https://github.com/bgautijonsson) | Brynjolfur Gauti Jónsson |  |  | Reykjavík, Iceland | 2002 |
 | 12 | [vvzvlad](https://github.com/vvzvlad) | vvzvlad |  | vvzvlad | Iceland | 1947 |
 | 13 | [egil](https://github.com/egil) | Egil Hansen | Egil Hansen ehf |  | Iceland | 1580 |

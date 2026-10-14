@@ -1,8 +1,8 @@
 # Public Contributions - Hungary
 
-Generated: 2026-10-14T08:51:45.895Z
+Generated: 2026-10-14T10:17:09.854Z
 
-Users: 11182
+Users: 11180
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

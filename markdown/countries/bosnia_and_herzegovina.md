@@ -27,11 +27,11 @@ Indexed users: 2,128
 | 13 | [TarikVelic](https://github.com/TarikVelic) | Tarik Velic | Sarajevo | 5,647 |
 | 14 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,452 |
 | 15 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,224 |
-| 16 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
-| 17 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | Sarajevo | 4,294 |
-| 18 | [eldar6776](https://github.com/eldar6776) | DoE | Sarajevo Bosna i Hercegovina | 4,134 |
-| 19 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 4,094 |
-| 20 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic | Sarajevo, Bosnia and Herzegovina | 4,090 |
+| 16 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | Sarajevo, Bosnia and Herzegovina | 5,056 |
+| 17 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
+| 18 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | Sarajevo | 4,294 |
+| 19 | [eldar6776](https://github.com/eldar6776) | DoE | Sarajevo Bosna i Hercegovina | 4,134 |
+| 20 | [amarbeslija](https://github.com/amarbeslija) | Amar Bešlija | Sarajevo, Bosnia and Herzegovina | 4,133 |
 
 ## Public Contributions
 
@@ -47,8 +47,8 @@ Indexed users: 2,128
 | 8 | [hernad](https://github.com/hernad) | Ernad Husremović | Bosnia and Herzegovina, Sarajevo | 2,043 |
 | 9 | [AleksaMCode](https://github.com/AleksaMCode) | Aleksa Majkić | Banja Luka, Bosnia and Herzegovina | 1,827 |
 | 10 | [Mirza404](https://github.com/Mirza404) | Mirza Abdulahovic | Sarajevo | 1,787 |
-| 11 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,382 |
-| 12 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,374 |
+| 11 | [DEntis-T](https://github.com/DEntis-T) | Tractus Corticospinalis | Sarajevo, FBiH | 1,374 |
+| 12 | [beganovich](https://github.com/beganovich) | Benjamin Beganović | Bosnia and Herzegovina | 1,345 |
 | 13 | [IntuitionAmiga](https://github.com/IntuitionAmiga) | Zayn | Sarajevo, BiH | 1,269 |
 | 14 | [enisdenjo](https://github.com/enisdenjo) | Denis Badurina | Sarajevo | 1,249 |
 | 15 | [kimamovic21](https://github.com/kimamovic21) | Kerim Imamović | Bosnia and Herzegovina | 1,141 |
@@ -83,4 +83,4 @@ Indexed users: 2,128
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-14T08:30:07.708Z
+Generated: 2026-10-14T09:53:48.859Z

@@ -19,10 +19,10 @@ Indexed users: 2,244
 | 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso | Iraq | 9,000 |
 | 6 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Erbil, Iraq | 8,799 |
 | 7 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed | Iraq | 8,037 |
-| 8 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 7,304 |
-| 9 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,063 |
-| 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,803 |
-| 11 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,728 |
+| 8 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin | Baghdad | 7,063 |
+| 9 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud | Iraq | 6,803 |
+| 10 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar | Erbil, Iraq | 6,728 |
+| 11 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | Iraq/Erbil | 6,641 |
 | 12 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael | Iraq, Sulaymaniyah, Ranya  | 6,573 |
 | 13 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | Iraq | 6,468 |
 | 14 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | Erbil, Iraq | 6,285 |
@@ -42,7 +42,7 @@ Indexed users: 2,244
 | 3 | [shaheenfarjo](https://github.com/shaheenfarjo) | Shaheen K. Farjo | Baghdad, Iraq | 3,348 |
 | 4 | [pageton](https://github.com/pageton) | Sadiq | Basra, Iraq | 2,779 |
 | 5 | [tatsumoto-ren](https://github.com/tatsumoto-ren) | Ren Tatsumoto | Baghdad | 2,383 |
-| 6 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,231 |
+| 6 | [osama1998H](https://github.com/osama1998H) | Osama Muhammed | Baghdad - Iraq | 2,274 |
 | 7 | [PEWDS101](https://github.com/PEWDS101) | George Muneer George | Iraq | 2,157 |
 | 8 | [mahmoodbashar08](https://github.com/mahmoodbashar08) | mahmood | iraq | 1,317 |
 | 9 | [AzaAsim](https://github.com/AzaAsim) |  | Iraq, KRG | 961 |
@@ -83,4 +83,4 @@ Indexed users: 2,244
 | 19 | [Om4r-007](https://github.com/Om4r-007) | Omar Imad | Baghdad / Iraq | 202 |
 | 20 | [TARQkop](https://github.com/TARQkop) | TARIQ | IRAQ | 178 |
 
-Generated: 2026-10-14T08:54:05.965Z
+Generated: 2026-10-14T10:19:13.962Z

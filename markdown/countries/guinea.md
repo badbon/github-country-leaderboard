@@ -44,7 +44,7 @@ Indexed users: 263
 | 5 | [DialloYoussef](https://github.com/DialloYoussef) | Youssouf | Guinée, Conakry, GN | 282 |
 | 6 | [Hayy-Balde](https://github.com/Hayy-Balde) | Mamadou Oury Baldé | Guinea | 252 |
 | 7 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 252 |
-| 8 | [Le-web-developpeur1](https://github.com/Le-web-developpeur1) | Boubacar Bah | Conakry-Guinea | 224 |
+| 8 | [Le-web-developpeur1](https://github.com/Le-web-developpeur1) | Boubacar Bah | Conakry-Guinea | 227 |
 | 9 | [AlhsGdev](https://github.com/AlhsGdev) | Alhousseny Bangoura | Guinée, Conakry | 196 |
 | 10 | [popytech](https://github.com/popytech) | POPY TRAORE | Conakry | 177 |
 | 11 | [Jeanos2004](https://github.com/Jeanos2004) | Jeanos Ouamouno | Guinee-Conakry | 173 |
@@ -56,7 +56,7 @@ Indexed users: 263
 | 17 | [Abel-sangare](https://github.com/Abel-sangare) |  | Conakry | 133 |
 | 18 | [Keira224](https://github.com/Keira224) | Ousmane Keira  | Guinée, Conakry | 123 |
 | 19 | [Skjnior](https://github.com/Skjnior) | Rj_45 | Guinea | 118 |
-| 20 | [kantecellou70-hub](https://github.com/kantecellou70-hub) | CelKa | Conakry, Lambanyi | 106 |
+| 20 | [ouberete](https://github.com/ouberete) | Oumar BERETE | Conakry | 102 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 263
 | 19 | [fouzo09](https://github.com/fouzo09) | Mafouz DIALLO | Guinée, conakry | 13 |
 | 20 | [koulibalyamadou10](https://github.com/koulibalyamadou10) | Koulibaly | Conakry | 13 |
 
-Generated: 2026-10-14T08:48:39.987Z
+Generated: 2026-10-14T10:14:16.189Z

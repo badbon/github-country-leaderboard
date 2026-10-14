@@ -1,8 +1,8 @@
 # Followers - Hungary
 
-Generated: 2026-10-14T08:51:45.895Z
+Generated: 2026-10-14T10:17:09.854Z
 
-Users: 11182
+Users: 11180
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,12 +16,12 @@ Users: 11182
 | 8 | [sagikazarmark](https://github.com/sagikazarmark) | Márk Sági-Kazár |  | sagikazarmark | Budapest, Hungary | 1389 |
 | 9 | [relatedcode](https://github.com/relatedcode) | Related Code |  |  | Budapest | 1240 |
 | 10 | [zsmb13](https://github.com/zsmb13) | Márton Braun |  | zsmb13 | Budapest, Hungary | 1026 |
-| 11 | [0l1v3rr](https://github.com/0l1v3rr) | Olivér Mrakovics |  | 0I1v3rr | Budapest, Hungary | 929 |
+| 11 | [0l1v3rr](https://github.com/0l1v3rr) | Olivér Mrakovics |  | 0I1v3rr | Budapest, Hungary | 927 |
 | 12 | [icebob](https://github.com/icebob) | Icebob |  |  | Hungary | 832 |
 | 13 | [szepeviktor](https://github.com/szepeviktor) | Viktor Szépe |  | szepeviktor | G2RM+5M Budapest | 767 |
 | 14 | [kisvegabor](https://github.com/kisvegabor) | Gabor Kiss-Vamosi | LVGL @lvgl |  | Hungary, Budapest | 727 |
-| 15 | [uigitdev](https://github.com/uigitdev) | David Toth | @uigitdev |  | Hungary | 711 |
-| 16 | [Csaba79-coder](https://github.com/Csaba79-coder) | Csaba Vadász MSc | Software & AI Engineer \| Instructor | csaba_vadasz | Budakalasz, Hungary | 686 |
+| 15 | [Csaba79-coder](https://github.com/Csaba79-coder) | Csaba Vadász MSc | Software & AI Engineer \| Instructor | csaba_vadasz | Budakalasz, Hungary | 713 |
+| 16 | [uigitdev](https://github.com/uigitdev) | David Toth | @uigitdev |  | Hungary | 711 |
 | 17 | [johntakesnote](https://github.com/johntakesnote) | John Astern | TripAdvisor |  | Budapest, Hungary | 670 |
 | 18 | [Kapitany777](https://github.com/Kapitany777) | Viktor Török |  | Kapitany777 | Hungary | 601 |
 | 19 | [tib](https://github.com/tib) | Tibor Bödecs | @BinaryBirds  | tiborbodecs | Hungary | 600 |

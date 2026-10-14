@@ -1,8 +1,8 @@
 # Followers - United Arab Emirates
 
-Generated: 2026-10-14T08:16:20.533Z
+Generated: 2026-10-14T09:40:43.950Z
 
-Users: 4231
+Users: 4230
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

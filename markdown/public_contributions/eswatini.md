@@ -1,6 +1,6 @@
 # Public Contributions - Eswatini
 
-Generated: 2026-10-14T08:43:02.512Z
+Generated: 2026-10-14T10:07:22.379Z
 
 Users: 108
 
@@ -8,14 +8,14 @@ Users: 108
 |---:|---|---|---|---|---|---:|
 | 1 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Razonetix Eswatini |  | Eswatini | 702 |
 | 2 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | BRT Inc. |  | Manzini, Kingdom of Eswatini | 673 |
-| 3 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 468 |
+| 3 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini |  |  | Eswatini | 467 |
 | 4 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba |  |  | Eswatini | 98 |
 | 5 | [siko13-bot](https://github.com/siko13-bot) | 202101251 |  |  | Mbabane,Eswatini | 94 |
 | 6 | [nigeljohnson73](https://github.com/nigeljohnson73) | Nigel Johnson |  |  | Malkerns, Swaziland | 81 |
 | 7 | [Sandziso](https://github.com/Sandziso) | Sandziso Mamba |  |  |  Eswatini | 71 |
-| 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 69 |
+| 8 | [BhutiiMlamuli](https://github.com/BhutiiMlamuli) | Mlamuli Sibandze |  |  | Swaziland | 63 |
 | 9 | [sicelo](https://github.com/sicelo) | Sicelo |  |  | Mbabane, ESWATINI | 60 |
-| 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 52 |
+| 10 | [sanele176](https://github.com/sanele176) | Mancoba Dlamini |  |  | Eswatini | 51 |
 | 11 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Bits & PCs | Coordinator | Manzini, Eswatini | 47 |
 | 12 | [benele-m](https://github.com/benele-m) | Benele Mamba |  |  | Eswatini, | 44 |
 | 13 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | RFK Solutions |  | Eswatini, Manzini | 44 |

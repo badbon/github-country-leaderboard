@@ -1,8 +1,8 @@
 # Followers - Antarctica
 
-Generated: 2026-10-14T08:23:50.268Z
+Generated: 2026-10-14T09:47:48.926Z
 
-Users: 459
+Users: 458
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

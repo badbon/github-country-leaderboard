@@ -1,6 +1,6 @@
 # Total Contributions - Iraq
 
-Generated: 2026-10-14T08:54:05.965Z
+Generated: 2026-10-14T10:19:13.962Z
 
 Users: 2244
 
@@ -13,10 +13,10 @@ Users: 2244
 | 5 | [araaso-dev](https://github.com/araaso-dev) | Ara Aso |  |  | Iraq | 9000 |
 | 6 | [SamadZuhair](https://github.com/SamadZuhair) | Abdulsamad Zuhair | Independent ~ Bregeoff | SamadZuhairdev | Erbil, Iraq | 8799 |
 | 7 | [alialnaimi1](https://github.com/alialnaimi1) | Ali Mohammed |  |  | Iraq | 8037 |
-| 8 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 7304 |
-| 9 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7063 |
-| 10 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6803 |
-| 11 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6728 |
+| 8 | [alimehasin](https://github.com/alimehasin) | Ali Mehasin |  | alimehasin | Baghdad | 7063 |
+| 9 | [Abdalkaderdev](https://github.com/Abdalkaderdev) | Abdalkader Alhamoud |  |  | Iraq | 6803 |
+| 10 | [Aramsatar](https://github.com/Aramsatar) | Aram Satar |  |  | Erbil, Iraq | 6728 |
+| 11 | [codezardasht](https://github.com/codezardasht) | Zardasht Rwandzi | TechnoBase |  | Iraq/Erbil | 6641 |
 | 12 | [Hamoi1](https://github.com/Hamoi1) | Muhammad Esmael |  |  | Iraq, Sulaymaniyah, Ranya  | 6573 |
 | 13 | [RezdarNajeeb](https://github.com/RezdarNajeeb) | Rezdar Najeeb | @oXero-krd  |  | Iraq | 6468 |
 | 14 | [5h4k4r](https://github.com/5h4k4r) | Shakar Bakr | @ditkrg | shakar__ | Erbil, Iraq | 6285 |

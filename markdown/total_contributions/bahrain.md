@@ -1,6 +1,6 @@
 # Total Contributions - Bahrain
 
-Generated: 2026-10-14T08:25:45.244Z
+Generated: 2026-10-14T09:49:48.501Z
 
 Users: 727
 
@@ -11,8 +11,8 @@ Users: 727
 | 3 | [aldoyh](https://github.com/aldoyh) | Hasan AlDoy | @doy.tech @Bahrain-TV @RadioBahrain  |  | Al Muharraq, Bahrain | 10334 |
 | 4 | [emadprograms](https://github.com/emadprograms) | Hamza Arshad Alam | @aou |  | Bahrain | 6282 |
 | 5 | [AlqattanDev](https://github.com/AlqattanDev) | Ali AlQattan |  |  | Manama, Bahrain | 6193 |
-| 6 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 5752 |
-| 7 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 5709 |
+| 6 | [meshahid973](https://github.com/meshahid973) | meshahid.973 |  |  | bahrain | 5982 |
+| 7 | [SalehAbdulla](https://github.com/SalehAbdulla) | SalehAbdulla | BeyondEduBH |  | BAHRAIN | 5752 |
 | 8 | [fairbird](https://github.com/fairbird) | RAED | (Enigma2 Developer) |  | Bahrain | 5419 |
 | 9 | [zahidala](https://github.com/zahidala) | Zahid Allaulddin |  |  | Bahrain | 5132 |
 | 10 | [xCuzSkillz](https://github.com/xCuzSkillz) | Ali M. | AvexInc | xCuzSkillz | Bahrain | 4727 |

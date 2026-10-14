@@ -22,7 +22,7 @@ Indexed users: 5,635
 | 8 | [Josue19-08](https://github.com/Josue19-08) | Josué Araya Marín | Costa Rica | 7,763 |
 | 9 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 7,663 |
 | 10 | [alexgordon25](https://github.com/alexgordon25) | Daniel Gordon | Costa Rica | 7,434 |
-| 11 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 6,841 |
+| 11 | [HenryM8](https://github.com/HenryM8) | 𝙷𝚎𝚗𝚛𝚢 𝙼𝚊𝚛𝚒́𝚗 | Costa Rica | 7,023 |
 | 12 | [xavier506](https://github.com/xavier506) | Xavier Fernandez | Costa Rica | 6,797 |
 | 13 | [Tgarcia7](https://github.com/Tgarcia7) |  Tey García | San José, Costa Rica | 6,736 |
 | 14 | [Eduardof0nt](https://github.com/Eduardof0nt) | Eduardo Font Cruz | Costa Rica | 6,187 |
@@ -83,4 +83,4 @@ Indexed users: 5,635
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-14T08:36:39.956Z
+Generated: 2026-10-14T10:01:26.748Z

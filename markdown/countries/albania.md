@@ -40,7 +40,7 @@ Indexed users: 1,184
 | 1 | [arkellahi82-tech](https://github.com/arkellahi82-tech) | Arkel Lahi | Tirana, Albania | 4,833 |
 | 2 | [flakerimi](https://github.com/flakerimi) | Flakerim Ismani | Tirane, Albania | 4,765 |
 | 3 | [fadion](https://github.com/fadion) | Fadion Dashi | Tirana, Albania | 3,661 |
-| 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,521 |
+| 4 | [GentBajko](https://github.com/GentBajko) | Gent Bajko | Tirana, Albania | 1,950 |
 | 5 | [Orest-Z](https://github.com/Orest-Z) | Orest | Albania | 1,488 |
 | 6 | [okturan](https://github.com/okturan) | Okan Erturan | Tirana | 1,390 |
 | 7 | [KLEOJAHOLLARI](https://github.com/KLEOJAHOLLARI) | Kleo Jahollari | Albania | 1,243 |
@@ -63,7 +63,7 @@ Indexed users: 1,184
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [vasilirigels](https://github.com/vasilirigels) | Vasili Rigels | Tirana, Albania | 3,781 |
-| 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,889 |
+| 2 | [jbaci](https://github.com/jbaci) | J.Baci | Tirana, Albania | 1,888 |
 | 3 | [redianmarku](https://github.com/redianmarku) | Redian Marku | Albania | 774 |
 | 4 | [4lbH4cker](https://github.com/4lbH4cker) | 4lbH4cker | Albania | 719 |
 | 5 | [eneajaho](https://github.com/eneajaho) | Enea Jahollari | Albania | 459 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 75 |
 
-Generated: 2026-10-14T08:21:32.986Z
+Generated: 2026-10-14T09:45:35.922Z

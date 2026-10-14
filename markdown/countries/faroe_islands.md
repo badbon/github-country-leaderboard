@@ -24,7 +24,7 @@ Indexed users: 67
 | 10 | [samal-rasmussen](https://github.com/samal-rasmussen) | Sámal Rasmussen | Tórshavn, Faroe Islands | 1,989 |
 | 11 | [MaterBater](https://github.com/MaterBater) | Mater | Faroe Islands | 1,474 |
 | 12 | [SigmundurMorkore](https://github.com/SigmundurMorkore) | Sigmundur Mørkøre | Faroe Islands | 1,460 |
-| 13 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,036 |
+| 13 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 1,039 |
 | 14 | [SheetHappiness](https://github.com/SheetHappiness) | SheetHappiness | Faroe Islands | 951 |
 | 15 | [Theoistic](https://github.com/Theoistic) | Theodor Solbjorg | Faroe Islands | 872 |
 | 16 | [eydunn](https://github.com/eydunn) | Eyðun Nielsen | Tórshavn, Faroe islands | 693 |
@@ -39,7 +39,7 @@ Indexed users: 67
 |---:|---|---|---|---:|
 | 1 | [hoegnason](https://github.com/hoegnason) | Rani Högnason Hansen | Tórshavn | 1,427 |
 | 2 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 999 |
-| 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 992 |
+| 3 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 995 |
 | 4 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 517 |
 | 5 | [jbiskur](https://github.com/jbiskur) | Julius á Rógvi Biskopstø | Faroe Islands | 487 |
 | 6 | [krvi](https://github.com/krvi) |  | Faroe Islands | 465 |
@@ -62,7 +62,7 @@ Indexed users: 67
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 188 |
+| 1 | [kruseio](https://github.com/kruseio) | Ragnar Kruse | Faroe Islands | 189 |
 | 2 | [TimonPeng](https://github.com/TimonPeng) | Timon Peng | Føroyar | 125 |
 | 3 | [ahjohannessen](https://github.com/ahjohannessen) | Alex Henning Johannessen | Faroe Islands | 45 |
 | 4 | [Brian-ED](https://github.com/Brian-ED) | Brian E | Faroe Islands | 21 |
@@ -83,4 +83,4 @@ Indexed users: 67
 | 19 | [shishpt](https://github.com/shishpt) | Shishir Patel | Torshavn, Faroe Islands | 7 |
 | 20 | [suuunly](https://github.com/suuunly) | Jóhann Østerø | Faroe Islands | 7 |
 
-Generated: 2026-10-14T08:43:13.252Z
+Generated: 2026-10-14T10:08:55.121Z

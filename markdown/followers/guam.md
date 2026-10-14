@@ -1,12 +1,12 @@
 # Followers - Guam
 
-Generated: 2026-10-14T08:47:55.575Z
+Generated: 2026-10-14T10:13:02.715Z
 
 Users: 48
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [cshellz](https://github.com/cshellz) | Antara | App Academy (@appacademy) |  | Marianas Trench, Guam | 215 |
+| 1 | [cshellz](https://github.com/cshellz) | Antara | App Academy (@appacademy) |  | Marianas Trench, Guam | 216 |
 | 2 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | AnT1nG Marketing Guam | TweetApp07 | Guam, United, States | 67 |
 | 3 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou |  |  | Guam | 51 |
 | 4 | [jasonsalas](https://github.com/jasonsalas) | Jason Salas | KUAM News | jasonsalas | Guam | 24 |

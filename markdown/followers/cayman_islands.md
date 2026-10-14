@@ -1,6 +1,6 @@
 # Followers - Cayman Islands
 
-Generated: 2026-10-14T08:33:58.880Z
+Generated: 2026-10-14T09:59:10.534Z
 
 Users: 124
 
@@ -9,7 +9,7 @@ Users: 124
 | 1 | [nodersteam](https://github.com/nodersteam) | [NODERS]TEAM | [NODERS]TEAM | NODERS_TEAM | Cayman islands | 154 |
 | 2 | [pjdurden](https://github.com/pjdurden) | Prajjwal Chittori | @etherfi-protocol  |  | Cayman Islands | 144 |
 | 3 | [DelaneyM](https://github.com/DelaneyM) | Delaney Manders |  |  | George Town, Cayman Islands | 98 |
-| 4 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 83 |
+| 4 | [0xpanicError](https://github.com/0xpanicError) | Yash Saraswat | Ether.Fi | 0xpanicError | Cayman Islands | 82 |
 | 5 | [andreogle](https://github.com/andreogle) | André Ogle |  |  | 🇰🇾 Cayman Islands | 73 |
 | 6 | [gregorydaval345](https://github.com/gregorydaval345) | Daval Gregory |  |  | Cayman Islands | 67 |
 | 7 | [lhermoso](https://github.com/lhermoso) | Leo Hermoso | Liquid Byte Labs | leohermoso | Cayman Islands | 58 |

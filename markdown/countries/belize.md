@@ -18,7 +18,7 @@ Indexed users: 95
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,652 |
 | 5 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 1,491 |
 | 6 | [happyherp](https://github.com/happyherp) | Carlos Freund | Belize | 1,472 |
-| 7 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,260 |
+| 7 | [blackmambo](https://github.com/blackmambo) | Winston Hope, Jr. | Belize | 1,263 |
 | 8 | [Jaymar](https://github.com/Jaymar) | Jaymar Zane Noralez | Belize | 1,185 |
 | 9 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 970 |
 | 10 | [DrianeDiojanPerez](https://github.com/DrianeDiojanPerez) | Driane Diojan Perez | Avenida Primitivo Aragon, Sarteneja, Corozal, Belize | 941 |
@@ -83,4 +83,4 @@ Indexed users: 95
 | 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-14T08:27:59.875Z
+Generated: 2026-10-14T09:51:16.998Z

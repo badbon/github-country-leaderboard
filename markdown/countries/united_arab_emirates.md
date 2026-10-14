@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,231
+Indexed users: 4,230
 
 | Leaderboard | Link |
 |---|---|
@@ -19,9 +19,9 @@ Indexed users: 4,231
 | 5 | [omarismailb](https://github.com/omarismailb) | omar | London / Abu Dhabi  | 13,848 |
 | 6 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | United Arab Emirates | 13,573 |
 | 7 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Dubai, United Arab Emirates | 13,470 |
-| 8 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 11,244 |
-| 9 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
-| 10 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
+| 8 | [syymza](https://github.com/syymza) | Dani | Abu Dhabi, UAE | 11,227 |
+| 9 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari | United Arab Emirates | 11,188 |
+| 10 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa | Dubai, United Arab Emirates | 10,914 |
 | 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | United Arab Emirates | 10,867 |
 | 12 | [Massad](https://github.com/Massad) | Omar Masad | United Arab Emirates, Dubai | 10,605 |
 | 13 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal | Dubai, United Arab Emirates | 10,163 |
@@ -30,8 +30,8 @@ Indexed users: 4,231
 | 16 | [codemug](https://github.com/codemug) | Usman Shahid | Dubai, United Arab Emirates | 9,519 |
 | 17 | [abegehr](https://github.com/abegehr) | Anton Begehr | Dubai, United Arab Emirates | 9,141 |
 | 18 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS | Abu Dhabi, UAE | 8,796 |
-| 19 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
-| 20 | [hmimthiaz](https://github.com/hmimthiaz) | Imthiaz Rafiq | Dubai, United Arab Emirates | 7,593 |
+| 19 | [Pawel-608](https://github.com/Pawel-608) | Paweł Rainer | Dubai, United Arab Emirates | 8,228 |
+| 20 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | United Arab Emirates | 8,043 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 4,231
 | 19 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 | 20 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali | Abu Dhabi | 359 |
 
-Generated: 2026-10-14T08:16:20.533Z
+Generated: 2026-10-14T09:40:43.950Z

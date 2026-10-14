@@ -1,13 +1,13 @@
 # Total Contributions - Benin
 
-Generated: 2026-10-14T08:28:33.699Z
+Generated: 2026-10-14T09:51:58.382Z
 
 Users: 471
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [SteveAsterAfovo](https://github.com/SteveAsterAfovo) | Steve Aster AFOVO | @ProGestionSoft  | SteveAsterAfovo | Abomey-Calavi, Benin | 17024 |
-| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 9503 |
+| 2 | [Abdoul-wakilou](https://github.com/Abdoul-wakilou) | AbDev - Freelance | AbDev - Freelance | abdev229 | Cotonou, Benin | 9483 |
 | 3 | [nahim-salami](https://github.com/nahim-salami) | Nahim SALAMI | Ahime | salami_nahim | Benin | 8834 |
 | 4 | [blackdevfeldy](https://github.com/blackdevfeldy) | TOHOYESSOU Feldy |  |  | Cotonou, Benin | 7892 |
 | 5 | [AxelSalim](https://github.com/AxelSalim) | ADJAKIDJE K. Axel S. H. |  | iamaxelsalim | Benin | 7267 |
