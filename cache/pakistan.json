@@ -20479,8 +20479,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 21,
-    "publicContributions": 11,
+    "privateContributions": 28,
+    "publicContributions": 4,
     "createdAt": "2025-03-04T12:42:02Z"
   },
   {
@@ -20492,7 +20492,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 42,
     "createdAt": "2025-03-08T08:48:40Z"
   },
   {
@@ -20504,7 +20504,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 51,
     "createdAt": "2025-03-26T12:59:37Z"
   },
   {
@@ -20516,7 +20516,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 106,
     "createdAt": "2025-03-04T07:46:20Z"
   },
   {
@@ -20528,20 +20528,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 6,
     "createdAt": "2025-03-04T06:30:40Z"
-  },
-  {
-    "login": "Ahmed-AI-Developer",
-    "name": "Ahmed Awan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/204186390?s=72&u=c5f9f9d2f7ffde5581ff970b00b7f860b7e1a207&v=4",
-    "location": "pakistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 18,
-    "createdAt": "2025-03-20T11:47:32Z"
   },
   {
     "login": "syeda-duaa",
@@ -20552,7 +20540,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 42,
     "createdAt": "2025-03-16T08:24:41Z"
   },
   {
@@ -20564,7 +20552,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 56,
     "createdAt": "2025-03-17T19:17:16Z"
   },
   {
@@ -20588,7 +20576,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 28,
     "createdAt": "2025-03-11T15:26:45Z"
   },
   {
@@ -20600,7 +20588,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 17,
     "createdAt": "2025-02-14T10:49:56Z"
   },
   {
@@ -20634,9 +20622,9 @@
     "location": "Karachi, Pakistan",
     "company": "Lahore Univeristy of Management Sciences",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 56,
-    "publicContributions": 40,
+    "followers": 9,
+    "privateContributions": 1016,
+    "publicContributions": 53,
     "createdAt": "2025-02-20T11:39:48Z"
   },
   {
@@ -20646,9 +20634,9 @@
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 123,
+    "publicContributions": 151,
     "createdAt": "2025-02-23T18:59:22Z"
   },
   {
@@ -20660,7 +20648,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 142,
     "createdAt": "2025-02-19T13:42:57Z"
   },
   {
@@ -20684,13 +20672,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 96,
+    "publicContributions": 92,
     "createdAt": "2025-02-24T16:03:53Z"
   },
   {
     "login": "usmanfaheim",
     "name": "Usman Faheem",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/203404877?s=72&u=197014c15b80d4282e5955710c483d97ee0e77f6&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/203404877?s=72&u=b758eac13713814c66131cc0d9cef273a5a141c4&v=4",
     "location": "Pakistan",
     "company": "",
     "twitterUsername": "",
@@ -20706,9 +20694,9 @@
     "location": "Islamabad, Pakistan",
     "company": "TeraRare Solutions",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 58,
-    "publicContributions": 26,
+    "followers": 2,
+    "privateContributions": 65,
+    "publicContributions": 30,
     "createdAt": "2025-03-22T03:08:09Z"
   },
   {

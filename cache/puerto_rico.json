@@ -2204,7 +2204,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 9,
-    "publicContributions": 12,
+    "publicContributions": 7,
     "createdAt": "2023-01-09T01:50:13Z"
   },
   {
@@ -2227,7 +2227,7 @@
     "company": "SelenoDev",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 94,
+    "privateContributions": 92,
     "publicContributions": 3,
     "createdAt": "2023-02-13T04:28:00Z"
   },
@@ -2288,7 +2288,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 137,
+    "publicContributions": 132,
     "createdAt": "2023-02-05T00:04:16Z"
   },
   {
@@ -2322,7 +2322,7 @@
     "location": "Puerto Rico",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 15,
     "createdAt": "2023-01-26T21:12:11Z"
@@ -2356,11 +2356,11 @@
     "name": "Emilia Couret",
     "avatarUrl": "https://avatars.githubusercontent.com/u/139599672?s=72&u=5d264603f2bb729f60220138db2d847bb123df63&v=4",
     "location": "Puerto Rico",
-    "company": "University of Puerto Rico - Mayagüez",
+    "company": "University of Puerto Rico - Rio Piedras",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 57,
     "createdAt": "2023-07-15T01:05:25Z"
   },
   {
@@ -2383,8 +2383,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 251,
-    "publicContributions": 46,
+    "privateContributions": 236,
+    "publicContributions": 45,
     "createdAt": "2023-08-21T23:08:29Z"
   },
   {
