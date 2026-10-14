@@ -21138,7 +21138,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-07-16T21:21:10Z"
@@ -21150,9 +21150,9 @@
     "location": "Porto, Portugal",
     "company": "ESTG - Escola Superior de Tecnologia e Gestão",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 31,
     "createdAt": "2024-11-08T17:11:52Z"
   },
   {
@@ -21175,8 +21175,8 @@
     "company": "",
     "twitterUsername": "Denis_Pecha",
     "followers": 2,
-    "privateContributions": 295,
-    "publicContributions": 14,
+    "privateContributions": 989,
+    "publicContributions": 13,
     "createdAt": "2024-09-06T08:50:00Z"
   },
   {
@@ -21200,7 +21200,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-08-03T21:46:15Z"
   },
   {
@@ -21210,7 +21210,7 @@
     "location": "Ovar, Aveiro, Portugal",
     "company": "Keenfinity Group",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2024-09-16T20:47:28Z"
@@ -21230,13 +21230,13 @@
   {
     "login": "gambriel182",
     "name": "Gabriel Cavaco",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176619471?s=72&u=594d1ba66b6fa69f3f7e2e91fdf7b03ce6a0d72a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/176619471?s=72&u=838ceb4184bae1a700cfd0fcc1895de0a26a59b2&v=4",
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 32,
+    "followers": 3,
+    "privateContributions": 38,
+    "publicContributions": 100,
     "createdAt": "2024-07-25T18:31:59Z"
   },
   {
@@ -21272,7 +21272,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 89,
+    "publicContributions": 58,
     "createdAt": "2024-09-07T19:54:43Z"
   },
   {
@@ -21306,7 +21306,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 2,
     "publicContributions": 179,
     "createdAt": "2024-10-02T10:06:37Z"
@@ -21330,7 +21330,7 @@
     "location": "Portugal",
     "company": "Dear Lisbon",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 57,
     "createdAt": "2024-12-12T02:16:23Z"
@@ -21368,7 +21368,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 53,
     "createdAt": "2024-12-20T13:37:21Z"
   },
   {
@@ -341362,5 +341362,17 @@
     "privateContributions": 822,
     "publicContributions": 216,
     "createdAt": "2022-08-06T06:47:11Z"
+  },
+  {
+    "login": "iammacheta",
+    "name": "Max Ichetovkin",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102209570?s=72&u=b602b669c10c7a0792919bd84265e2e52d2d97a1&v=4",
+    "location": "Lisbon, Portugal",
+    "company": "@mobalyticshq",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 21,
+    "createdAt": "2022-03-23T06:28:45Z"
   }
 ]

@@ -21306,8 +21306,8 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 20,
+    "followers": 3,
+    "privateContributions": 27,
     "publicContributions": 0,
     "createdAt": "2022-10-20T22:58:10Z"
   },
@@ -21332,7 +21332,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2022-03-07T14:12:17Z"
   },
   {
@@ -21355,7 +21355,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 101,
+    "privateContributions": 232,
     "publicContributions": 0,
     "createdAt": "2022-04-19T01:58:10Z"
   },
@@ -21379,8 +21379,8 @@
     "company": "@epam systems",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1013,
-    "publicContributions": 42,
+    "privateContributions": 2355,
+    "publicContributions": 84,
     "createdAt": "2022-05-16T22:27:53Z"
   },
   {
@@ -21403,8 +21403,8 @@
     "company": "",
     "twitterUsername": "CeskyPane",
     "followers": 2,
-    "privateContributions": 1334,
-    "publicContributions": 1,
+    "privateContributions": 1720,
+    "publicContributions": 0,
     "createdAt": "2022-06-13T14:32:53Z"
   },
   {
@@ -21415,7 +21415,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 110,
+    "privateContributions": 160,
     "publicContributions": 6,
     "createdAt": "2022-03-24T18:28:07Z"
   },
@@ -21440,7 +21440,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 176,
     "createdAt": "2022-02-19T09:49:46Z"
   },
   {
@@ -21451,8 +21451,8 @@
     "company": "staro gvozdje",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 414,
-    "publicContributions": 17,
+    "privateContributions": 598,
+    "publicContributions": 77,
     "createdAt": "2022-06-15T14:30:24Z"
   },
   {
@@ -21462,9 +21462,9 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 21,
+    "publicContributions": 23,
     "createdAt": "2022-06-26T20:25:18Z"
   },
   {
@@ -21476,7 +21476,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 31,
+    "publicContributions": 18,
     "createdAt": "2022-09-11T15:15:23Z"
   },
   {
@@ -21486,9 +21486,9 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 1211,
+    "publicContributions": 2534,
     "createdAt": "2022-03-14T19:27:39Z"
   },
   {
@@ -21514,18 +21514,6 @@
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2022-09-01T13:12:31Z"
-  },
-  {
-    "login": "iammacheta",
-    "name": "Max Ichetovkin",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/102209570?s=72&u=b602b669c10c7a0792919bd84265e2e52d2d97a1&v=4",
-    "location": "Belgrade",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2022-03-23T06:28:45Z"
   },
   {
     "login": "Buliboul",

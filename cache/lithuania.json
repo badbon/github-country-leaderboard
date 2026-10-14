@@ -21235,7 +21235,7 @@
     "company": "@Bbright",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2822,
+    "privateContributions": 2683,
     "publicContributions": 0,
     "createdAt": "2019-01-14T19:05:22Z"
   },
@@ -21248,7 +21248,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2019-01-24T19:24:50Z"
   },
   {
@@ -21259,8 +21259,8 @@
     "company": "Ketuzduotys.lt",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1164,
-    "publicContributions": 2,
+    "privateContributions": 1359,
+    "publicContributions": 3,
     "createdAt": "2019-10-28T12:38:01Z"
   },
   {
@@ -21283,7 +21283,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2127,
+    "privateContributions": 3251,
     "publicContributions": 19,
     "createdAt": "2019-09-18T10:49:09Z"
   },
@@ -21294,7 +21294,7 @@
     "location": "Lithuania",
     "company": "iTechArt Group",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-10-31T16:55:55Z"
@@ -21310,18 +21310,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-04-09T17:10:22Z"
-  },
-  {
-    "login": "MadBuddha42",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/58366138?s=72&u=fd3d913f80d64b148560b986aec4ef90ff611558&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 1,
-    "createdAt": "2019-11-30T14:56:35Z"
   },
   {
     "login": "Staticas",
@@ -21343,8 +21331,8 @@
     "company": "AustroByte",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 441,
-    "publicContributions": 9,
+    "privateContributions": 32,
+    "publicContributions": 4,
     "createdAt": "2019-11-19T10:59:37Z"
   },
   {
@@ -21367,8 +21355,8 @@
     "company": "",
     "twitterUsername": "LukasDzenk",
     "followers": 4,
-    "privateContributions": 808,
-    "publicContributions": 12,
+    "privateContributions": 690,
+    "publicContributions": 11,
     "createdAt": "2019-02-28T09:38:23Z"
   },
   {
@@ -21379,8 +21367,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2231,
-    "publicContributions": 173,
+    "privateContributions": 4347,
+    "publicContributions": 176,
     "createdAt": "2019-07-21T14:21:22Z"
   },
   {
@@ -21402,9 +21390,9 @@
     "location": "Kaunas, Lithuania",
     "company": "@CarVertical",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 617,
-    "publicContributions": 5,
+    "followers": 6,
+    "privateContributions": 664,
+    "publicContributions": 1,
     "createdAt": "2019-07-30T21:26:19Z"
   },
   {
@@ -21415,20 +21403,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 2035,
+    "privateContributions": 2235,
     "publicContributions": 0,
     "createdAt": "2019-02-19T13:17:55Z"
   },
   {
     "login": "megazvezda",
-    "name": "Amir Kuskeyev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52395112?s=72&u=148f19497783fd328033d4acd56e5e5e458024b4&v=4",
+    "name": "",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/52395112?s=72&u=eaad883765a5839fdfb0cce8273e60838036a060&v=4",
     "location": "Vilnius, Lithuania",
     "company": "@digitaldrugstech",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 36,
-    "publicContributions": 92,
+    "followers": 8,
+    "privateContributions": 34,
+    "publicContributions": 109,
     "createdAt": "2019-07-01T04:49:08Z"
   },
   {
@@ -21450,9 +21438,9 @@
     "location": "Vilnius, Lithuania",
     "company": "",
     "twitterUsername": "akulik512",
-    "followers": 3,
+    "followers": 5,
     "privateContributions": 26,
-    "publicContributions": 8,
+    "publicContributions": 0,
     "createdAt": "2019-09-09T12:41:06Z"
   },
   {
