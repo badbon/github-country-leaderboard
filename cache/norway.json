@@ -20118,9 +20118,9 @@
     "location": "Norway",
     "company": "Marine Technologies",
     "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 919,
-    "publicContributions": 5,
+    "followers": 19,
+    "privateContributions": 962,
+    "publicContributions": 4,
     "createdAt": "2022-03-03T10:44:09Z"
   },
   {
@@ -20130,9 +20130,9 @@
     "location": "Norway",
     "company": "Looking for work",
     "twitterUsername": "",
-    "followers": 19,
-    "privateContributions": 28,
-    "publicContributions": 41,
+    "followers": 20,
+    "privateContributions": 25,
+    "publicContributions": 32,
     "createdAt": "2022-10-24T09:52:24Z"
   },
   {
@@ -20155,7 +20155,7 @@
     "company": "Statens vegvesen-Nasjonal vegdatabank (NVDB)",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 533,
+    "privateContributions": 600,
     "publicContributions": 5,
     "createdAt": "2022-09-25T13:43:22Z"
   },
@@ -20166,9 +20166,9 @@
     "location": "Oslo, Norway",
     "company": "Gjensidige Forsikring ASA",
     "twitterUsername": "vquangn",
-    "followers": 18,
-    "privateContributions": 414,
-    "publicContributions": 0,
+    "followers": 16,
+    "privateContributions": 494,
+    "publicContributions": 7,
     "createdAt": "2022-07-30T20:22:42Z"
   },
   {
@@ -20191,7 +20191,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 577,
+    "privateContributions": 417,
     "publicContributions": 0,
     "createdAt": "2022-09-01T12:06:47Z"
   },
@@ -20226,9 +20226,9 @@
     "location": "Norway",
     "company": "Nettbureau",
     "twitterUsername": "",
-    "followers": 17,
-    "privateContributions": 2962,
-    "publicContributions": 104,
+    "followers": 16,
+    "privateContributions": 3380,
+    "publicContributions": 47,
     "createdAt": "2022-10-27T10:28:09Z"
   },
   {
@@ -20250,9 +20250,9 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 17,
     "privateContributions": 0,
-    "publicContributions": 381,
+    "publicContributions": 105,
     "createdAt": "2022-07-06T18:36:24Z"
   },
   {
@@ -20271,12 +20271,12 @@
     "login": "ehsan-lari",
     "name": "Ehsan Lari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/105930435?s=72&u=3eb4def1431703aebc3231aaa6904ecd4dec19e0&v=4",
-    "location": "Trondheim, Norway",
-    "company": "Norwegian University of Science and Technology (NTNU)",
+    "location": "Norway",
+    "company": "",
     "twitterUsername": "",
-    "followers": 16,
-    "privateContributions": 103,
-    "publicContributions": 74,
+    "followers": 17,
+    "privateContributions": 105,
+    "publicContributions": 76,
     "createdAt": "2022-05-20T14:03:01Z"
   },
   {
@@ -20286,9 +20286,9 @@
     "location": "Oslo, Norway",
     "company": "Bouvet Norge AS",
     "twitterUsername": "",
-    "followers": 16,
+    "followers": 19,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 10,
     "createdAt": "2022-02-15T09:03:59Z"
   },
   {
@@ -20298,9 +20298,9 @@
     "location": "Trondheim, Norway",
     "company": "Norwegian University of Science and Technology",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 22,
-    "publicContributions": 204,
+    "followers": 13,
+    "privateContributions": 19,
+    "publicContributions": 199,
     "createdAt": "2022-08-22T11:18:56Z"
   },
   {
@@ -20310,20 +20310,20 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
+    "followers": 16,
     "privateContributions": 0,
-    "publicContributions": 357,
+    "publicContributions": 340,
     "createdAt": "2022-06-21T19:56:45Z"
   },
   {
     "login": "bentduso",
     "name": "Benjamin Zubača",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/112086949?s=72&u=100210d96617c8f0a13df39882202ce5f08016f0&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112086949?s=72&u=913d7941fe26128412acf3e164bfbe4766325639&v=4",
     "location": "Trondheim, Norway",
     "company": "@studentmediene",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 51,
+    "followers": 13,
+    "privateContributions": 40,
     "publicContributions": 104,
     "createdAt": "2022-08-25T12:00:05Z"
   },
@@ -20334,9 +20334,9 @@
     "location": "Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 15,
-    "privateContributions": 16,
-    "publicContributions": 664,
+    "followers": 16,
+    "privateContributions": 14,
+    "publicContributions": 648,
     "createdAt": "2022-01-11T13:53:03Z"
   },
   {
@@ -20346,8 +20346,8 @@
     "location": "Oslo, Norway",
     "company": "",
     "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 205,
+    "followers": 13,
+    "privateContributions": 15,
     "publicContributions": 205,
     "createdAt": "2022-08-26T09:06:53Z"
   },

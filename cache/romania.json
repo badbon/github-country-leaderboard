@@ -20144,7 +20144,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 7,
-    "publicContributions": 117,
+    "publicContributions": 112,
     "createdAt": "2023-11-10T18:08:00Z"
   },
   {
@@ -20168,7 +20168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 159,
+    "publicContributions": 163,
     "createdAt": "2023-01-31T07:05:56Z"
   },
   {
@@ -20228,7 +20228,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 12,
     "createdAt": "2023-07-22T20:08:51Z"
   },
   {
@@ -20282,13 +20282,13 @@
   {
     "login": "lucararesandrei",
     "name": "Luca Rares Andrei",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/153931613?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/153931613?s=72&u=b6a6e6735a09304f3e88490b6123553e03530de8&v=4",
     "location": "Bucharest",
     "company": "Liceul Teoretic International de Informatica Bucuresti",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 19,
+    "publicContributions": 30,
     "createdAt": "2023-12-15T15:23:07Z"
   },
   {
@@ -20298,21 +20298,21 @@
     "location": "Bucharest",
     "company": "CSPCF",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 379,
+    "followers": 2,
+    "privateContributions": 12,
+    "publicContributions": 438,
     "createdAt": "2023-12-17T10:21:33Z"
   },
   {
     "login": "dianav18",
     "name": "Vulpoi Maria-Diana",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151461331?s=72&u=0678f323e925374c34c011f522ac65a76139add9&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/151461331?s=72&u=90edd0ab03d6edb35ad3987de5c8e7841bfb4bd7&v=4",
     "location": "Bucharest",
     "company": "UNSTPB",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 32,
     "createdAt": "2023-11-19T17:30:51Z"
   },
   {
@@ -20323,8 +20323,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 120,
-    "publicContributions": 198,
+    "privateContributions": 122,
+    "publicContributions": 200,
     "createdAt": "2023-10-24T16:46:30Z"
   },
   {
@@ -20348,20 +20348,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-10-02T15:59:52Z"
-  },
-  {
-    "login": "AdrianTuci1",
-    "name": "Tucean",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/151585066?s=72&u=8c1a07b323e5ad9f16035337ca5f23cc2783e46f&v=4",
-    "location": "Bucharest",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 888,
-    "createdAt": "2023-11-20T23:25:33Z"
   },
   {
     "login": "CosminDinut",

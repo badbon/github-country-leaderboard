@@ -20095,8 +20095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 20,
-    "publicContributions": 56,
+    "privateContributions": 39,
+    "publicContributions": 61,
     "createdAt": "2020-05-19T20:16:54Z"
   },
   {
@@ -20108,7 +20108,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2020-09-07T19:09:29Z"
   },
   {
@@ -20128,11 +20128,11 @@
     "name": "Tronikel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56039679?s=72&u=7c4ddeddf92f3788ce4b709e462bf482b40023d4&v=4",
     "location": "Lithuania",
-    "company": "192.168.1.175",
+    "company": "192.168.1.179",
     "twitterUsername": "",
-    "followers": 75,
-    "privateContributions": 152,
-    "publicContributions": 870,
+    "followers": 79,
+    "privateContributions": 292,
+    "publicContributions": 596,
     "createdAt": "2019-10-01T16:02:50Z"
   },
   {
@@ -20143,8 +20143,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 36,
-    "privateContributions": 189,
-    "publicContributions": 155,
+    "privateContributions": 233,
+    "publicContributions": 202,
     "createdAt": "2019-11-16T19:22:02Z"
   },
   {
@@ -20154,7 +20154,7 @@
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
-    "followers": 35,
+    "followers": 34,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-11-23T17:48:35Z"
@@ -20174,13 +20174,13 @@
   {
     "login": "gitautas",
     "name": "Gintautas Kazlauskas",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53479485?s=72&u=206537200cb357709560074c4fef12186e4be2a8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/53479485?s=72&u=a2040dbe8fdfc70e9705feaf5a79a2e2c61751fb&v=4",
     "location": "Lithuania",
     "company": "",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 21,
-    "publicContributions": 113,
+    "privateContributions": 20,
+    "publicContributions": 179,
     "createdAt": "2019-07-30T12:54:09Z"
   },
   {
@@ -20188,11 +20188,11 @@
     "name": "Konradas Bunikis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/55544305?s=72&u=7f28b3d8a7741271d54277a0730b5e128234126a&v=4",
     "location": "Lithuania, Kaunas",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 29,
-    "privateContributions": 998,
-    "publicContributions": 94,
+    "company": "Hostinger",
+    "twitterUsername": "konradasb",
+    "followers": 30,
+    "privateContributions": 774,
+    "publicContributions": 101,
     "createdAt": "2019-09-19T13:20:15Z"
   },
   {
@@ -20203,8 +20203,8 @@
     "company": "",
     "twitterUsername": "itz_samietex",
     "followers": 28,
-    "privateContributions": 339,
-    "publicContributions": 107,
+    "privateContributions": 701,
+    "publicContributions": 235,
     "createdAt": "2019-11-11T22:49:28Z"
   },
   {
@@ -20215,7 +20215,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 24,
-    "privateContributions": 6205,
+    "privateContributions": 6911,
     "publicContributions": 69,
     "createdAt": "2019-05-04T11:38:05Z"
   },
@@ -20226,8 +20226,8 @@
     "location": "Kaunas, Lithuania",
     "company": "@zyro-inc @hostinger",
     "twitterUsername": "",
-    "followers": 24,
-    "privateContributions": 3317,
+    "followers": 26,
+    "privateContributions": 4180,
     "publicContributions": 0,
     "createdAt": "2019-07-12T08:44:12Z"
   },
@@ -20251,8 +20251,8 @@
     "company": "@KachingAppz",
     "twitterUsername": "",
     "followers": 21,
-    "privateContributions": 1897,
-    "publicContributions": 1,
+    "privateContributions": 3036,
+    "publicContributions": 2,
     "createdAt": "2019-03-14T19:53:00Z"
   },
   {
@@ -20263,21 +20263,9 @@
     "company": "Vilnius University",
     "twitterUsername": "",
     "followers": 20,
-    "privateContributions": 423,
-    "publicContributions": 136,
+    "privateContributions": 416,
+    "publicContributions": 152,
     "createdAt": "2019-12-11T20:57:38Z"
-  },
-  {
-    "login": "rezendas",
-    "name": "Marcos Rezende",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49098831?s=72&u=d45a4e8daf70b35f25e2b982979c592f40717461&v=4",
-    "location": "Lithuania",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 20,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-03-30T14:42:38Z"
   },
   {
     "login": "serackis",
