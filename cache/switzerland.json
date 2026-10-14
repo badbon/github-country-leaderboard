@@ -289186,5 +289186,41 @@
     "privateContributions": 0,
     "publicContributions": 14,
     "createdAt": "2026-06-19T07:48:13Z"
+  },
+  {
+    "login": "soleluna83",
+    "name": "thomas",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/288268286?s=72&u=47e1fbf518bc2bc93b9ddc04ead845f3fe71a8e3&v=4",
+    "location": "bern",
+    "company": "sbb",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-05-27T09:01:08Z"
+  },
+  {
+    "login": "florianthievent",
+    "name": "Florian Thiévent",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/290016973?s=72&v=4",
+    "location": "Bern",
+    "company": "Schweizerische Bundesbahnen",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 1,
+    "createdAt": "2026-06-02T11:59:31Z"
+  },
+  {
+    "login": "MaxVDT",
+    "name": "Max",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/294238954?s=72&u=61b96890e4d35e42d123171f77a5ccb7069476b2&v=4",
+    "location": "Bern",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 4,
+    "publicContributions": 2,
+    "createdAt": "2026-06-16T15:48:39Z"
   }
 ]

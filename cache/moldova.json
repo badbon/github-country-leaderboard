@@ -18715,8 +18715,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 15,
-    "privateContributions": 224,
-    "publicContributions": 140,
+    "privateContributions": 539,
+    "publicContributions": 117,
     "createdAt": "2012-08-03T12:41:44Z"
   },
   {
@@ -18728,7 +18728,7 @@
     "twitterUsername": "",
     "followers": 15,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2012-09-03T09:38:35Z"
   },
   {
@@ -18738,8 +18738,8 @@
     "location": "Moldova, Eastern Europe",
     "company": "@BazMaster",
     "twitterUsername": "bazilio100lei",
-    "followers": 15,
-    "privateContributions": 756,
+    "followers": 19,
+    "privateContributions": 892,
     "publicContributions": 2,
     "createdAt": "2012-11-29T16:57:32Z"
   },
@@ -18752,7 +18752,7 @@
     "twitterUsername": "",
     "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 20,
     "createdAt": "2012-08-15T11:01:25Z"
   },
   {
@@ -18762,9 +18762,9 @@
     "location": "Chisinau, Republic of Moldova",
     "company": "Tacit Knowledge",
     "twitterUsername": "",
-    "followers": 13,
-    "privateContributions": 566,
-    "publicContributions": 1,
+    "followers": 14,
+    "privateContributions": 597,
+    "publicContributions": 0,
     "createdAt": "2012-01-13T08:35:20Z"
   },
   {
@@ -18775,7 +18775,7 @@
     "company": "EXJEQTIVE",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 617,
+    "privateContributions": 1040,
     "publicContributions": 0,
     "createdAt": "2012-11-14T07:53:30Z"
   },
@@ -18787,8 +18787,8 @@
     "company": "@labs42io ",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 368,
-    "publicContributions": 31,
+    "privateContributions": 386,
+    "publicContributions": 5,
     "createdAt": "2012-11-28T06:52:04Z"
   },
   {
@@ -18799,7 +18799,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1217,
+    "privateContributions": 1339,
     "publicContributions": 21,
     "createdAt": "2012-04-30T09:12:26Z"
   },
@@ -18812,19 +18812,19 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 14,
     "createdAt": "2012-11-26T14:28:28Z"
   },
   {
     "login": "atamaniuc",
-    "name": "Dmitriy Atamaniuc",
+    "name": "Dmitri Atamaniuc",
     "avatarUrl": "https://avatars.githubusercontent.com/u/2070896?s=72&u=32a77b86db71b06afa0c3f14c2924f34ead6daa0&v=4",
     "location": "Chisinau, Republic of Moldova",
-    "company": "",
+    "company": "DYNO SOFT",
     "twitterUsername": "",
     "followers": 11,
-    "privateContributions": 23,
-    "publicContributions": 14,
+    "privateContributions": 21,
+    "publicContributions": 149,
     "createdAt": "2012-07-31T12:07:49Z"
   },
   {
@@ -18836,7 +18836,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 3,
-    "publicContributions": 100,
+    "publicContributions": 59,
     "createdAt": "2012-08-08T15:00:52Z"
   },
   {
@@ -18846,9 +18846,9 @@
     "location": "Moldova, Chisinau",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 5271,
-    "publicContributions": 0,
+    "followers": 11,
+    "privateContributions": 11643,
+    "publicContributions": 31,
     "createdAt": "2012-10-10T17:58:37Z"
   },
   {
@@ -18860,7 +18860,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2012-05-23T15:24:19Z"
   },
   {
@@ -18883,8 +18883,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 36,
-    "publicContributions": 0,
+    "privateContributions": 35,
+    "publicContributions": 5,
     "createdAt": "2012-06-30T16:19:16Z"
   },
   {
@@ -18894,22 +18894,10 @@
     "location": "Moldova/Chisinau",
     "company": "",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 0,
-    "publicContributions": 121,
-    "createdAt": "2012-12-17T13:18:52Z"
-  },
-  {
-    "login": "YaroslavShapoval",
-    "name": "Yaroslav Shapoval",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/2136103?s=72&v=4",
-    "location": "Moldova, Tiraspol",
-    "company": "",
-    "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2012-08-11T17:07:16Z"
+    "publicContributions": 130,
+    "createdAt": "2012-12-17T13:18:52Z"
   },
   {
     "login": "Apmyp",
@@ -18919,7 +18907,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1343,
+    "privateContributions": 1596,
     "publicContributions": 160,
     "createdAt": "2012-01-29T15:28:14Z"
   },
@@ -18931,8 +18919,8 @@
     "company": "",
     "twitterUsername": "zullkas",
     "followers": 9,
-    "privateContributions": 224,
-    "publicContributions": 10,
+    "privateContributions": 189,
+    "publicContributions": 7,
     "createdAt": "2012-07-07T15:29:32Z"
   },
   {
@@ -18943,7 +18931,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 1271,
+    "privateContributions": 1569,
     "publicContributions": 0,
     "createdAt": "2012-10-18T09:52:33Z"
   },

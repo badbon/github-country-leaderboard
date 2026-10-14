@@ -18570,9 +18570,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 152,
-    "publicContributions": 59,
+    "followers": 2,
+    "privateContributions": 126,
+    "publicContributions": 149,
     "createdAt": "2024-02-21T09:42:07Z"
   },
   {
@@ -18620,7 +18620,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 97,
+    "publicContributions": 78,
     "createdAt": "2024-02-05T17:38:11Z"
   },
   {
@@ -18656,7 +18656,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-03-17T13:59:49Z"
   },
   {
@@ -18672,18 +18672,6 @@
     "createdAt": "2024-03-19T22:20:32Z"
   },
   {
-    "login": "HenriqueRuaz",
-    "name": "Henrique Ruaz",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/164258745?s=72&u=73db9f930d02dce44789fd00c323e1e14dcfc90f&v=4",
-    "location": "Portugal/Beja",
-    "company": "none",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 6,
-    "createdAt": "2024-03-20T21:48:25Z"
-  },
-  {
     "login": "luricodes",
     "name": "Lucas Richert",
     "avatarUrl": "https://avatars.githubusercontent.com/u/174043873?s=72&u=369824240b378d8e5e05221c80013ad5358b233d&v=4",
@@ -18691,8 +18679,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 297,
-    "publicContributions": 96,
+    "privateContributions": 255,
+    "publicContributions": 57,
     "createdAt": "2024-06-27T16:54:40Z"
   },
   {
@@ -18715,8 +18703,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 6,
-    "publicContributions": 14,
+    "privateContributions": 0,
+    "publicContributions": 15,
     "createdAt": "2024-04-09T15:20:48Z"
   },
   {
@@ -18762,9 +18750,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 112,
+    "publicContributions": 162,
     "createdAt": "2024-03-29T17:32:23Z"
   },
   {
@@ -18774,9 +18762,9 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2024-02-13T13:59:04Z"
   },
   {
@@ -18786,9 +18774,9 @@
     "location": "Portugal",
     "company": "reckon.ai",
     "twitterUsername": "",
-    "followers": 147,
-    "privateContributions": 729,
-    "publicContributions": 1635,
+    "followers": 146,
+    "privateContributions": 698,
+    "publicContributions": 1150,
     "createdAt": "2024-10-13T16:30:03Z"
   },
   {
