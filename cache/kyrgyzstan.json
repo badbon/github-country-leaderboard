@@ -19243,8 +19243,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 30,
+    "privateContributions": 90,
+    "publicContributions": 130,
     "createdAt": "2020-12-03T09:41:40Z"
   },
   {
@@ -19254,9 +19254,9 @@
     "location": "Bishkek",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-01-29T09:34:03Z"
   },
   {
@@ -19292,7 +19292,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2020-02-27T05:25:00Z"
   },
   {
@@ -19304,7 +19304,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 29,
     "createdAt": "2020-11-21T12:48:57Z"
   },
   {
@@ -19315,7 +19315,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 30,
+    "privateContributions": 25,
     "publicContributions": 0,
     "createdAt": "2020-01-13T07:07:30Z"
   },
@@ -19363,8 +19363,8 @@
     "company": "TrixCode LLC",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 463,
-    "publicContributions": 7,
+    "privateContributions": 495,
+    "publicContributions": 39,
     "createdAt": "2020-03-03T07:03:29Z"
   },
   {
@@ -19376,13 +19376,13 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 1,
     "createdAt": "2020-09-08T03:55:31Z"
   },
   {
     "login": "sabyr-musuraliev",
     "name": "Musuraliev Sabyr",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/71604385?s=72&u=bdba03bd603637e304d688b01ae8846f81a38fce&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/71604385?s=72&u=1fad01586c1d63a4e7fe98e8c4c721676c6d0626&v=4",
     "location": "Bishkek",
     "company": "CA Consult",
     "twitterUsername": "",
@@ -19448,7 +19448,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 93,
     "createdAt": "2020-05-09T11:40:08Z"
   },
   {
@@ -19460,7 +19460,7 @@
     "twitterUsername": "tigerses24",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 2,
     "createdAt": "2020-04-10T09:07:16Z"
   },
   {
