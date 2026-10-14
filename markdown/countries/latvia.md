@@ -28,10 +28,10 @@ Indexed users: 3,261
 | 14 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
 | 15 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,594 |
 | 16 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
-| 17 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 5,985 |
-| 18 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
-| 19 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks | Riga, Latvia | 5,845 |
-| 20 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | Rīga, Latvia | 5,814 |
+| 17 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | Latvia | 6,151 |
+| 18 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 5,985 |
+| 19 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
+| 20 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks | Riga, Latvia | 5,845 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 3,261
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-14T20:26:57.650Z
+Generated: 2026-10-14T21:49:20.198Z

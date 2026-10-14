@@ -1,6 +1,6 @@
 # Public Contributions - Qatar
 
-Generated: 2026-10-14T20:45:51.604Z
+Generated: 2026-10-14T22:12:17.153Z
 
 Users: 1073
 
@@ -11,10 +11,10 @@ Users: 1073
 | 3 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Hamad Medical Corporation | Bewinxed | Doha, Qatar | 3001 |
 | 4 | [Tamoura](https://github.com/Tamoura) | Tamer | QDB |  | Qatar | 1769 |
 | 5 | [kashkoool](https://github.com/kashkoool) | louay kashkool |  |  | qatar | 1715 |
-| 6 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1557 |
-| 7 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1517 |
-| 8 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1452 |
-| 9 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 1406 |
+| 6 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS |  |  | Doha, Qatar | 1580 |
+| 7 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  |  |  | Doha, Qatar  Sudan  | 1557 |
+| 8 | [BZO95](https://github.com/BZO95) | DeFi Junkie |  |  | Qatar | 1517 |
+| 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Gethouse | hussain4real | Doha, Qatar | 1452 |
 | 10 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Ministry of Interior Qatar | itsarisid | Qatar | 1077 |
 | 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | University of Malaya |  | Doha, Qatar | 1052 |
 | 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Researcher, Iberdrola |  | Doha, Qatar | 1041 |

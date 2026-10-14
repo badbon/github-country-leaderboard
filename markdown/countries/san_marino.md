@@ -13,7 +13,7 @@ Indexed users: 61
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [calebnewtonusc](https://github.com/calebnewtonusc) | Caleb Newton | San Marino, CA | 13,868 |
-| 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 10,000 |
+| 2 | [simooooone](https://github.com/simooooone) | Simos | San Marino | 10,015 |
 | 3 | [brunodotgg](https://github.com/brunodotgg) | Bruno | San Marino | 4,349 |
 | 4 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 3,199 |
 | 5 | [tomwhoooo](https://github.com/tomwhoooo) | Tom Hu | San Marino, California | 2,313 |
@@ -48,7 +48,7 @@ Indexed users: 61
 | 9 | [Llandy3d](https://github.com/Llandy3d) | Llandy Riveron Del Risco | San Marino | 101 |
 | 10 | [N1K0232](https://github.com/N1K0232) | Nico | Repubblica di San Marino | 93 |
 | 11 | [lucabio](https://github.com/lucabio) | Luca | San Marino | 75 |
-| 12 | [pigorg](https://github.com/pigorg) | alessandro gnola | san marino | 62 |
+| 12 | [pigorg](https://github.com/pigorg) | alessandro gnola | san marino | 66 |
 | 13 | [mcdado](https://github.com/mcdado) | David Gasperoni | San Marino (SMR) <✈️> Madrid, Spain | 50 |
 | 14 | [salugea](https://github.com/salugea) | Salugea | San Marino | 45 |
 | 15 | [gerza-lab](https://github.com/gerza-lab) | adam gerza | San Marino, CA | 44 |
@@ -83,4 +83,4 @@ Indexed users: 61
 | 19 | [damiandominella](https://github.com/damiandominella) | dodo | San Marino / Milan / Remotely | 11 |
 | 20 | [deBrian07](https://github.com/deBrian07) | Brian C. | San Marino, CA | 11 |
 
-Generated: 2026-10-14T20:49:03.917Z
+Generated: 2026-10-14T22:16:36.724Z

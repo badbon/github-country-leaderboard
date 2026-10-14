@@ -46,7 +46,7 @@ Indexed users: 1,225
 | 7 | [KevinBusuttil](https://github.com/KevinBusuttil) | Kevin Busuttil | Malta | 3,126 |
 | 8 | [silvandiepen](https://github.com/silvandiepen) | Sil van Diepen | Malta | 3,076 |
 | 9 | [zcourts](https://github.com/zcourts) | Courtney Robinson | London (UK), Łodz (Poland), Valletta (Malta) | 2,632 |
-| 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,531 |
+| 10 | [arogan178](https://github.com/arogan178) | Andrea Bugeja | Malta | 2,562 |
 | 11 | [ntulenev](https://github.com/ntulenev) | Nikita Tulenev | Malta | 2,499 |
 | 12 | [stefanbuttigieg](https://github.com/stefanbuttigieg) | Stefan Buttigieg | Malta | 2,497 |
 | 13 | [marian2js](https://github.com/marian2js) | Mariano Pardo | Malta | 2,336 |
@@ -83,4 +83,4 @@ Indexed users: 1,225
 | 19 | [mattcg](https://github.com/mattcg) | Matthew Caruana Galizia | Malta | 126 |
 | 20 | [CM2Walki](https://github.com/CM2Walki) | Walki | Malta | 118 |
 
-Generated: 2026-10-14T20:31:00.747Z
+Generated: 2026-10-14T21:56:52.930Z

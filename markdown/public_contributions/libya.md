@@ -1,6 +1,6 @@
 # Public Contributions - Libya
 
-Generated: 2026-10-14T20:27:31.413Z
+Generated: 2026-10-14T21:50:38.685Z
 
 Users: 742
 
@@ -18,7 +18,7 @@ Users: 742
 | 10 | [mhmdnab](https://github.com/mhmdnab) | Mohamad Naboulsi |  | mhmdnab004 | Tripoli - Lebanon | 640 |
 | 11 | [Nick-800](https://github.com/Nick-800) | Sohaib Kamash |  |  | Libya | 631 |
 | 12 | [habberrih](https://github.com/habberrih) | Abdullah Habberrih |  |  | Libya | 556 |
-| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 472 |
+| 13 | [Asma-Nasr](https://github.com/Asma-Nasr) | Asmaa Nasr |  |  | Libya | 461 |
 | 14 | [salemaljebaly](https://github.com/salemaljebaly) | Salem Aljebaly |  |  | Libya | 426 |
 | 15 | [MElkmeshi](https://github.com/MElkmeshi) | Mohamed Elkmeshi | @PrestoLY  | melkmeshi | Tripoli, Libya | 416 |
 | 16 | [Wondermine](https://github.com/Wondermine) | Taha Ali |  |  | Libya, Tripoli | 367 |

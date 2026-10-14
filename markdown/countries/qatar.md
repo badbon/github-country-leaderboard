@@ -42,10 +42,10 @@ Indexed users: 1,073
 | 3 | [Bewinxed](https://github.com/Bewinxed) | Omar Al Matar | Doha, Qatar | 3,001 |
 | 4 | [Tamoura](https://github.com/Tamoura) | Tamer | Qatar | 1,769 |
 | 5 | [kashkoool](https://github.com/kashkoool) | louay kashkool | qatar | 1,715 |
-| 6 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,557 |
-| 7 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,517 |
-| 8 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,452 |
-| 9 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 1,406 |
+| 6 | [Ajmalpshaik](https://github.com/Ajmalpshaik) | AjmalPS | Doha, Qatar | 1,580 |
+| 7 | [altyebv](https://github.com/altyebv) | Altayeb Abdeljalil  | Doha, Qatar  Sudan  | 1,557 |
+| 8 | [BZO95](https://github.com/BZO95) | DeFi Junkie | Qatar | 1,517 |
+| 9 | [hussain4real](https://github.com/hussain4real) | Hussain Aminu | Doha, Qatar | 1,452 |
 | 10 | [itsarisid](https://github.com/itsarisid) | Sajid Khan | Qatar | 1,077 |
 | 11 | [aarntn](https://github.com/aarntn) | Aaron Tan | Doha, Qatar | 1,052 |
 | 12 | [atick-faisal](https://github.com/atick-faisal) | Atick Faisal | Doha, Qatar | 1,041 |
@@ -83,4 +83,4 @@ Indexed users: 1,073
 | 19 | [muratyaman](https://github.com/muratyaman) | Haci Murat Yaman | Doha, Qatar | 101 |
 | 20 | [brainconnect93](https://github.com/brainconnect93) | Afolabi Akorede | Al-Wakrah, Qatar | 100 |
 
-Generated: 2026-10-14T20:45:51.604Z
+Generated: 2026-10-14T22:12:17.153Z

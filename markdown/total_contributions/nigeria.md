@@ -1,8 +1,8 @@
 # Total Contributions - Nigeria
 
-Generated: 2026-10-14T20:39:30.274Z
+Generated: 2026-10-14T22:03:34.028Z
 
-Users: 33216
+Users: 33215
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -19,10 +19,10 @@ Users: 33216
 | 11 | [boxpositron](https://github.com/boxpositron) | David Ibia | @boxmarshall  @reoclo  | boxpositron | Nigeria | 14461 |
 | 12 | [usmansbk](https://github.com/usmansbk) | Usman Suleiman Babakolo | Andela | Babakolo_Usman | Kaduna, Nigeria | 14279 |
 | 13 | [alabobriggs](https://github.com/alabobriggs) | Alabo.eth | SWE @parallel |  | Abuja, Nigeria | 13506 |
-| 14 | [timothyafolami](https://github.com/timothyafolami) | Timothy Afolami | @PeepalyticsAIdev  |  | NIgeria | 12685 |
-| 15 | [emekaorjiani](https://github.com/emekaorjiani) | DoctorVee Orjiani | iDot Creations Entertainment |  | Nigeria | 12532 |
-| 16 | [enahomurphy](https://github.com/enahomurphy) | Enaho Murphy | Girbil |  | Lagos, Nigeria | 12332 |
-| 17 | [devhammed](https://github.com/devhammed) | Hammed Oyedele | @verbalate | devhammed | Ibadan, Nigeria | 12294 |
-| 18 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe |  | Devineishuman | Lagos, Nigeria. | 12025 |
-| 19 | [BrainiacRawkib](https://github.com/BrainiacRawkib) | Br@ini@c R@wkib | Software | Brainiac_Rawkib | Nigeria | 11650 |
-| 20 | [elcharitas](https://github.com/elcharitas) | Jonathan Irhodia | @jazzband \| @AlphadayHQ \| @ngyn-rs | iamelcharitas | Abuja, Nigeria | 11646 |
+| 14 | [treasure567](https://github.com/treasure567) | Treasure Uvietobore |  | treasure_devops | Benin City, Nigeria | 12761 |
+| 15 | [timothyafolami](https://github.com/timothyafolami) | Timothy Afolami | @PeepalyticsAIdev  |  | NIgeria | 12685 |
+| 16 | [emekaorjiani](https://github.com/emekaorjiani) | DoctorVee Orjiani | iDot Creations Entertainment |  | Nigeria | 12532 |
+| 17 | [enahomurphy](https://github.com/enahomurphy) | Enaho Murphy | Girbil |  | Lagos, Nigeria | 12332 |
+| 18 | [devhammed](https://github.com/devhammed) | Hammed Oyedele | @verbalate | devhammed | Ibadan, Nigeria | 12294 |
+| 19 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe |  | Devineishuman | Lagos, Nigeria. | 12025 |
+| 20 | [BrainiacRawkib](https://github.com/BrainiacRawkib) | Br@ini@c R@wkib | Software | Brainiac_Rawkib | Nigeria | 11650 |

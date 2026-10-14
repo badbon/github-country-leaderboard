@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-14T20:26:57.650Z
+Generated: 2026-10-14T21:49:20.198Z
 
 Users: 3261
 
@@ -22,7 +22,7 @@ Users: 3261
 | 14 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
 | 15 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6594 |
 | 16 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
-| 17 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 5985 |
-| 18 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Software Engineer & Digital Artist |  | Riga | 5871 |
-| 19 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks |  |  | Riga, Latvia | 5845 |
-| 20 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | @ubiquiti  | renarsvilnis | Rīga, Latvia | 5814 |
+| 17 | [emplv](https://github.com/emplv) | Emīls Pļavenieks | @emp-lv  | empdotlv | Latvia | 6151 |
+| 18 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 5985 |
+| 19 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Software Engineer & Digital Artist |  | Riga | 5871 |
+| 20 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks |  |  | Riga, Latvia | 5845 |

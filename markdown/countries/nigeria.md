@@ -1,6 +1,6 @@
 # Nigeria
 
-Indexed users: 33,216
+Indexed users: 33,215
 
 | Leaderboard | Link |
 |---|---|
@@ -25,13 +25,13 @@ Indexed users: 33,216
 | 11 | [boxpositron](https://github.com/boxpositron) | David Ibia | Nigeria | 14,461 |
 | 12 | [usmansbk](https://github.com/usmansbk) | Usman Suleiman Babakolo | Kaduna, Nigeria | 14,279 |
 | 13 | [alabobriggs](https://github.com/alabobriggs) | Alabo.eth | Abuja, Nigeria | 13,506 |
-| 14 | [timothyafolami](https://github.com/timothyafolami) | Timothy Afolami | NIgeria | 12,685 |
-| 15 | [emekaorjiani](https://github.com/emekaorjiani) | DoctorVee Orjiani | Nigeria | 12,532 |
-| 16 | [enahomurphy](https://github.com/enahomurphy) | Enaho Murphy | Lagos, Nigeria | 12,332 |
-| 17 | [devhammed](https://github.com/devhammed) | Hammed Oyedele | Ibadan, Nigeria | 12,294 |
-| 18 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe | Lagos, Nigeria. | 12,025 |
-| 19 | [BrainiacRawkib](https://github.com/BrainiacRawkib) | Br@ini@c R@wkib | Nigeria | 11,650 |
-| 20 | [elcharitas](https://github.com/elcharitas) | Jonathan Irhodia | Abuja, Nigeria | 11,646 |
+| 14 | [treasure567](https://github.com/treasure567) | Treasure Uvietobore | Benin City, Nigeria | 12,761 |
+| 15 | [timothyafolami](https://github.com/timothyafolami) | Timothy Afolami | NIgeria | 12,685 |
+| 16 | [emekaorjiani](https://github.com/emekaorjiani) | DoctorVee Orjiani | Nigeria | 12,532 |
+| 17 | [enahomurphy](https://github.com/enahomurphy) | Enaho Murphy | Lagos, Nigeria | 12,332 |
+| 18 | [devhammed](https://github.com/devhammed) | Hammed Oyedele | Ibadan, Nigeria | 12,294 |
+| 19 | [TheWeirdDee](https://github.com/TheWeirdDee) | Divine Dilibe | Lagos, Nigeria. | 12,025 |
+| 20 | [BrainiacRawkib](https://github.com/BrainiacRawkib) | Br@ini@c R@wkib | Nigeria | 11,650 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 33,216
 | 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 | 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | Lagos, Nigeria | 707 |
 
-Generated: 2026-10-14T20:39:30.274Z
+Generated: 2026-10-14T22:03:34.028Z
