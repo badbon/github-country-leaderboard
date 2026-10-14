@@ -1,6 +1,6 @@
 # Public Contributions - Andorra
 
-Generated: 2026-10-14T06:59:17.089Z
+Generated: 2026-10-14T08:22:56.611Z
 
 Users: 215
 
@@ -9,17 +9,17 @@ Users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra Telecom | erisco_and | Andorra | 27898 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | @kaleidos & @penpot |  | Andorra | 2976 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 1033 |
-| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 770 |
+| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | @cowprotocol, @wanderwallet | gmzcodes | Andorra | 774 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Domaine de Casinus |  | Andorra | 723 |
 | 6 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 697 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 689 |
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | @giantswarm |  | Andorra | 656 |
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Quasar Store |  | Andorra, Principality of Andorra | 615 |
-| 10 | [martapanc](https://github.com/martapanc) |  |  |  | Italy / Andorra | 509 |
+| 10 | [martapanc](https://github.com/martapanc) |  |  |  | Italy / Andorra | 512 |
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Mountain Path Consulting |  | Ordino, Andorra | 474 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | @Peersyst |  | Andorra | 442 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Menetray | RobertMenetray | Andorra | 406 |
-| 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 385 |
+| 14 | [markusand](https://github.com/markusand) | Marc Vilella |  |  | Andorra | 381 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | @MinaProtocol |  | Andorra | 358 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | CubePath Inc. | marciglesias17 | Andorra | 317 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Retired | paulMatencio | Andorra | 276 |

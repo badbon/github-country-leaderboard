@@ -26,7 +26,7 @@ Indexed users: 533
 | 12 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 2,064 |
 | 13 | [Batoli19](https://github.com/Batoli19) | future | Gaborone | 2,057 |
 | 14 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Gaborone | 2,045 |
-| 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,017 |
+| 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 2,020 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa | Gaborone, Botswana | 1,890 |
 | 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | Botswana | 1,691 |
 | 18 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa | Botswana | 1,662 |
@@ -53,17 +53,17 @@ Indexed users: 533
 | 14 | [bChandrax](https://github.com/bChandrax) | Karabo Machanja | Botswana | 442 |
 | 15 | [justindotdevv](https://github.com/justindotdevv) | justin | Gaborone, Botswana | 430 |
 | 16 | [mulaxprime](https://github.com/mulaxprime) | Mulax Prime | Gaborone, Botswana | 372 |
-| 17 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 363 |
-| 18 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 347 |
-| 19 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
-| 20 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 323 |
+| 17 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Maun, Botswana | 347 |
+| 18 | [DippsDev](https://github.com/DippsDev) | DippsDev | Botswana | 327 |
+| 19 | [Serumola](https://github.com/Serumola) | Pako Serumola | Gaborone, Botswana | 323 |
+| 20 | [TheoMKgosi](https://github.com/TheoMKgosi) |  | Botswana | 291 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [Fuzzworth](https://github.com/Fuzzworth) | Nyangasi Mhozya | Botswana | 240 |
-| 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 156 |
+| 2 | [ramokhua](https://github.com/ramokhua) | Boitsholo Ramokhua | Gaborone, Botswana | 153 |
 | 3 | [PrimordialOrigin](https://github.com/PrimordialOrigin) | Primordial | Gaborone, Botswana | 121 |
 | 4 | [Goitseone-Themba](https://github.com/Goitseone-Themba) | ISOTOPE \| THEMBA | Botswana | 105 |
 | 5 | [darula-hpp](https://github.com/darula-hpp) | Olebogeng Mbedzi | Gaborone | 74 |
@@ -83,4 +83,4 @@ Indexed users: 533
 | 19 | [Tebalo](https://github.com/Tebalo) | Bopaki | Botswana, Gaborone-Mokobaxane | 34 |
 | 20 | [BakangMonei](https://github.com/BakangMonei) | Monei Bakang | Gaborone, Botswana | 33 |
 
-Generated: 2026-10-14T07:08:05.093Z
+Generated: 2026-10-14T08:30:43.456Z

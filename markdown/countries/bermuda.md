@@ -15,7 +15,7 @@ Indexed users: 899
 | 1 | [bokmann](https://github.com/bokmann) | David Bock | Hamilton, VA | 20,367 |
 | 2 | [nahoskins](https://github.com/nahoskins) | Nick Hoskins | Bermuda | 13,216 |
 | 3 | [kianis4](https://github.com/kianis4) | Suleyman Kiani | Hamilton, ON | 10,781 |
-| 4 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,208 |
+| 4 | [xaphod](https://github.com/xaphod) | Tim Carr | Hamilton ON | 10,206 |
 | 5 | [marc-pelland](https://github.com/marc-pelland) | Marc Pelland | Hamilton, ON | 10,154 |
 | 6 | [PatrickMcLennan](https://github.com/PatrickMcLennan) | Patrick McLennan | Hamilton, Ontario | 7,705 |
 | 7 | [eimaj](https://github.com/eimaj) | Jamie Allen | Hamilton | 7,379 |
@@ -39,7 +39,7 @@ Indexed users: 899
 |---:|---|---|---|---:|
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,147 |
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
-| 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,549 |
+| 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 2,580 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | Hamilton, Ontario | 2,046 |
 | 5 | [Justype](https://github.com/Justype) | Cheng | Hamilton | 1,394 |
 | 6 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson | Hamilton, NJ | 1,366 |
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-14T07:06:18.124Z
+Generated: 2026-10-14T08:29:07.313Z

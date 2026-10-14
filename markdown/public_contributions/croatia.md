@@ -1,8 +1,8 @@
 # Public Contributions - Croatia
 
-Generated: 2026-10-14T07:15:16.495Z
+Generated: 2026-10-14T08:36:46.501Z
 
-Users: 5436
+Users: 5435
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,10 +10,10 @@ Users: 5436
 | 2 | [TVCTC](https://github.com/TVCTC) | Tomislav |  |  | Zagreb | 10893 |
 | 3 | [AleksandarDev](https://github.com/AleksandarDev) | Aleksandar Toplek | https://enterwell.net | AleksandarDev | Zagreb, Croatia | 8073 |
 | 4 | [ivanmeler](https://github.com/ivanmeler) | Ivan Meler | Meler Media Group | ivan_meler | Croatia, Vukovar | 7359 |
-| 5 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 5346 |
-| 6 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 4846 |
-| 7 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Liferay Inc. |  | Zagreb | 4748 |
-| 8 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 4479 |
+| 5 | [SirBepy](https://github.com/SirBepy) | Josip Muzic | Proxify |  | Zagreb, Croatia | 6695 |
+| 6 | [nibzard](https://github.com/nibzard) | Nikola Balic | @disequi | nibzard | Split, Croatia | 5346 |
+| 7 | [vladmandic](https://github.com/vladmandic) | Vladimir Mandic |  | vmandic00 | Miami, Florida / Rijeka, Croatia | 4846 |
+| 8 | [ivicac](https://github.com/ivicac) | Ivica Čardić | Liferay Inc. |  | Zagreb | 4748 |
 | 9 | [VlahoZrinski](https://github.com/VlahoZrinski) | Vlaho Zrinski | Nastava |  | Croatia | 4225 |
 | 10 | [chefsale](https://github.com/chefsale) | Sandi Fatic |  |  | Croatia | 3819 |
 | 11 | [KarloSiric](https://github.com/KarloSiric) | Karlo Siric | Xylon d.o.o |  | Zagreb/Trogir | 3806 |

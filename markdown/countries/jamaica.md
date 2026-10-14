@@ -20,7 +20,7 @@ Indexed users: 1,275
 | 6 | [kenoButler](https://github.com/kenoButler) | KenoB | Kingston, Jamaica | 8,941 |
 | 7 | [olusiekwin](https://github.com/olusiekwin) | Gramm | kingston, JM | 8,867 |
 | 8 | [QuigProQuo](https://github.com/QuigProQuo) | John Peter Quigley | Kingston, New York | 7,798 |
-| 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,819 |
+| 9 | [DinitoThompson](https://github.com/DinitoThompson) | Dinito Thompson | Jamaica | 6,874 |
 | 10 | [marcamillion](https://github.com/marcamillion) | Marc Gayle | Kingston, Jamaica | 6,366 |
 | 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 6,067 |
 | 12 | [dimitriharding](https://github.com/dimitriharding) | Dimitri Harding | Kingston, Jamaica | 5,295 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-14T07:31:30.210Z
+Generated: 2026-10-14T08:55:51.523Z

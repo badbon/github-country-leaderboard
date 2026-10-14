@@ -13,17 +13,17 @@ Indexed users: 139
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,306 |
-| 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,399 |
-| 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,803 |
+| 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,484 |
+| 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,807 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,548 |
 | 5 | [guessty](https://github.com/guessty) | Christian | Jersey, Channel Islands | 8,115 |
-| 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,762 |
+| 6 | [timkrins](https://github.com/timkrins) | Tim Krins | Jersey, Channel Islands | 4,817 |
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | Jersey | 4,644 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 4,266 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Jersey | 4,136 |
 | 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | The dirty (jersey) | 3,435 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally | Jersey | 3,355 |
-| 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,309 |
+| 12 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 3,307 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | Jersey / London | 2,897 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Jersey | 2,390 |
 | 15 | [samjamead](https://github.com/samjamead) | Sam Mead | Grouville, Jersey | 1,738 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-14T07:32:15.481Z
+Generated: 2026-10-14T08:56:29.793Z

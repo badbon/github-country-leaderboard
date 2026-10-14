@@ -1,6 +1,6 @@
 # Total Contributions - Cameroon
 
-Generated: 2026-10-14T07:11:46.973Z
+Generated: 2026-10-14T08:32:43.752Z
 
 Users: 1797
 
@@ -18,9 +18,9 @@ Users: 1797
 | 10 | [zenderock](https://github.com/zenderock) | Emmanuel Zenderock | Aubigo | iamzenderock | Cameroon | 7720 |
 | 11 | [elroykanye](https://github.com/elroykanye) | Elroy Kimbi | @veridyl | elroykanye | Yaoundé, Cameroon | 7432 |
 | 12 | [ln-dev7](https://github.com/ln-dev7) | LN | @mus-inn | ln_dev7 | Cameroon | 7402 |
-| 13 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
-| 14 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
-| 15 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 5789 |
+| 13 | [leonelngande](https://github.com/leonelngande) | Leonel Elimpe | Ngande Consulting | leonelngande | Buea, Cameroon | 7257 |
+| 14 | [psycho237-prog](https://github.com/psycho237-prog) | ONANA GREGOIRE LEGRAND  | XYBERCLAN |  | Cameroon | 6280 |
+| 15 | [OkonoWil](https://github.com/OkonoWil) | Okono Wilfried | @WeTell-Africa  @JEUNESMENTORS | OkonoWilfried | Douala,Cameroon | 6014 |
 | 16 | [itzomen](https://github.com/itzomen) | Peng Boris Akebuon | Traleor | itz_omen | Buea, Cameroon | 5598 |
 | 17 | [koatiromeo](https://github.com/koatiromeo) | koatiromeo | koatiromeo | koatiromeo | Cameroon | 5266 |
 | 18 | [dark-matter08](https://github.com/dark-matter08) | Nde Lucien | @Ntopor-Social  | dark_matter08 | Buea, Cameroon | 5241 |

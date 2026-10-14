@@ -1,6 +1,6 @@
 # Followers - Suriname
 
-Generated: 2026-10-14T06:46:26.811Z
+Generated: 2026-10-14T08:10:57.642Z
 
 Users: 123
 
@@ -12,7 +12,7 @@ Users: 123
 | 4 | [nerkarso](https://github.com/nerkarso) | Ner Karso | @ngineerlab |  | Paramaribo, Suriname | 41 |
 | 5 | [Fuseteam](https://github.com/Fuseteam) | Rahammetoela Toekiman | Smart Secure Solutions N.V. | xiaofuse | Paramaribo, Suriname | 39 |
 | 6 | [CreativeYudai](https://github.com/CreativeYudai) | Yudai Heber | StayDirect |  | Paramaribo | 38 |
-| 7 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam |  |  | Suriname | 38 |
+| 7 | [Sh1vZ](https://github.com/Sh1vZ) | Shivam |  |  | Suriname | 37 |
 | 8 | [eSaniello](https://github.com/eSaniello) | Shaniel  | @Bits-Please-Technologies | shaniel292 | Suriname | 36 |
 | 9 | [Karel95](https://github.com/Karel95) | Karel Hernández |  |  | Paramaribo, Suriname | 36 |
 | 10 | [shayant98](https://github.com/shayant98) | Shayant |  |  | Suriname | 36 |

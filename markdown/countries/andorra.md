@@ -29,7 +29,7 @@ Indexed users: 215
 | 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil | Andorra | 3,975 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil | Andorra | 3,443 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | Andorra | 3,434 |
-| 18 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,295 |
+| 18 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez | Andorra | 3,346 |
 | 19 | [GRKdev](https://github.com/GRKdev) | G.R.K. | Andorra | 3,081 |
 | 20 | [guillemfrancisco](https://github.com/guillemfrancisco) | Guillem Francisco | Andorra | 2,815 |
 
@@ -40,17 +40,17 @@ Indexed users: 215
 | 1 | [ericrisco](https://github.com/ericrisco) | Eric Risco de la Torre | Andorra | 27,898 |
 | 2 | [niwinz](https://github.com/niwinz) | Andrey Antukh | Andorra | 2,976 |
 | 3 | [acastellana](https://github.com/acastellana) | Albert Castellana | Andorra | 1,033 |
-| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 770 |
+| 4 | [Danziger](https://github.com/Danziger) | Dani Gámez Franco | Andorra | 774 |
 | 5 | [Estemobs](https://github.com/Estemobs) | estemobs | Andorra | 723 |
 | 6 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Andorra | 697 |
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg | Andorra | 689 |
 | 8 | [iuriaranda](https://github.com/iuriaranda) | iuri | Andorra | 656 |
 | 9 | [imnotquasar](https://github.com/imnotquasar) | ImNotQuasar | Andorra, Principality of Andorra | 615 |
-| 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 509 |
+| 10 | [martapanc](https://github.com/martapanc) |  | Italy / Andorra | 512 |
 | 11 | [AdamBaali](https://github.com/AdamBaali) | Adam Baali | Ordino, Andorra | 474 |
 | 12 | [AdriaCarrera](https://github.com/AdriaCarrera) | Adrià Carrera | Andorra | 442 |
 | 13 | [trebormc](https://github.com/trebormc) | Robert Menetray | Andorra | 406 |
-| 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 385 |
+| 14 | [markusand](https://github.com/markusand) | Marc Vilella | Andorra | 381 |
 | 15 | [georgeee](https://github.com/georgeee) | George Agapov | Andorra | 358 |
 | 16 | [marciglesias17](https://github.com/marciglesias17) | Marc Iglesias | Andorra | 317 |
 | 17 | [PaulMatencio](https://github.com/PaulMatencio) | Paul Matencio | Andorra | 276 |
@@ -83,4 +83,4 @@ Indexed users: 215
 | 19 | [ysb33r](https://github.com/ysb33r) | Schalk W. Cronjé | Andorra | 63 |
 | 20 | [castrolem](https://github.com/castrolem) | Luis Castro | Andorra la Vella, Andorra | 60 |
 
-Generated: 2026-10-14T06:59:17.089Z
+Generated: 2026-10-14T08:22:56.611Z

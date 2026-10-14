@@ -1,15 +1,15 @@
 # Followers - Gambia
 
-Generated: 2026-10-14T07:23:33.311Z
+Generated: 2026-10-14T08:45:42.323Z
 
-Users: 78
+Users: 79
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | LBarrow | laminbarrow | Bakoteh, Gambia | 36 |
 | 2 | [Sannabs](https://github.com/Sannabs) | Sanna BS Jammeh |  |  | Gambia banjul | 34 |
 | 3 | [deedevs](https://github.com/deedevs) | David Ladipo |  | davy0417 | Banjul, The Gambia | 26 |
-| 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 26 |
+| 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Kendesoft | farmerscoder | Banjul | 25 |
 | 5 | [kamariana](https://github.com/kamariana) | A Kamariana | @sisaydimba  | kamariana40 | Brikama, Gambia | 24 |
 | 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow |  | momodousalieu | Banjul, The Gambia | 17 |
 | 7 | [mathewharb](https://github.com/mathewharb) | Mathew Harb |  |  | Gambia | 16 |

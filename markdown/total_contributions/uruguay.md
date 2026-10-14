@@ -1,6 +1,6 @@
 # Total Contributions - Uruguay
 
-Generated: 2026-10-14T06:54:36.731Z
+Generated: 2026-10-14T08:17:01.260Z
 
 Users: 5620
 

@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-14T07:26:25.448Z
+Generated: 2026-10-14T08:49:06.344Z
 
 Users: 186
 
@@ -18,11 +18,11 @@ Users: 186
 | 10 | [jonathansharman](https://github.com/jonathansharman) | Jonathan Sharman |  |  | Georgetown, DE | 3157 |
 | 11 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 3006 |
 | 12 | [JohnnyMcGee](https://github.com/JohnnyMcGee) | Johnny McGee |  |  | Georgetown, TX | 2238 |
-| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1738 |
+| 13 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1768 |
 | 14 | [codedbychavez](https://github.com/codedbychavez) | Chavez Harris | @configcat |  | Guyana | 1577 |
 | 15 | [schrum2](https://github.com/schrum2) | Jacob Schrum | Southwestern University |  | Georgetown, TX | 1520 |
 | 16 | [kev-mb](https://github.com/kev-mb) | Kevin Martinez Bautista | SenSimTek |  | Georgetown, Texas | 1475 |
 | 17 | [rjvaleo](https://github.com/rjvaleo) | transelectronic |  |  | Georgetown, Colorado | 1451 |
 | 18 | [xbze3](https://github.com/xbze3) | Ezra Minty | @MintLeaf-Tech  |  | Guyana | 1431 |
-| 19 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1271 |
-| 20 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1263 |
+| 19 | [owengrant](https://github.com/owengrant) | Owen Grant | Arawak Software Consultancy |  | Guyana | 1275 |
+| 20 | [kathigg](https://github.com/kathigg) | Kathleen Higgins | Johns Hopkins Applied Physics Lab |  | Georgetown University | 1271 |

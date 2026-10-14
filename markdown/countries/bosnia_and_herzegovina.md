@@ -28,10 +28,10 @@ Indexed users: 2,128
 | 14 | [robo58](https://github.com/robo58) | Robert Sliskovic | Siroki Brijeg,Bosnia and Herzegovina | 5,452 |
 | 15 | [aprohic](https://github.com/aprohic) |  | Sarajevo | 5,224 |
 | 16 | [ribice](https://github.com/ribice) | Emir Ribić | Sarajevo | 4,359 |
-| 17 | [eldar6776](https://github.com/eldar6776) | DoE | Sarajevo Bosna i Hercegovina | 4,134 |
-| 18 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 4,094 |
-| 19 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic | Sarajevo, Bosnia and Herzegovina | 4,090 |
-| 20 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic | Sarajevo, Bosnia and Herzegovina | 3,873 |
+| 17 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | Sarajevo | 4,294 |
+| 18 | [eldar6776](https://github.com/eldar6776) | DoE | Sarajevo Bosna i Hercegovina | 4,134 |
+| 19 | [omznc](https://github.com/omznc) | Omar Zunic | Bosnia & Herzegovina | 4,094 |
+| 20 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic | Sarajevo, Bosnia and Herzegovina | 4,090 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,128
 | 19 | [Mickey0001](https://github.com/Mickey0001) | Mirza Sisic | Sarajevo, Bosnia and Herzegovina  | 122 |
 | 20 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | Sarajevo, Bosnia | 116 |
 
-Generated: 2026-10-14T07:07:30.370Z
+Generated: 2026-10-14T08:30:07.708Z

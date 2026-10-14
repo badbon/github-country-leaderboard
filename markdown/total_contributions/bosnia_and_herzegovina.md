@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-14T07:07:30.370Z
+Generated: 2026-10-14T08:30:07.708Z
 
 Users: 2128
 
@@ -22,7 +22,7 @@ Users: 2128
 | 14 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
 | 15 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5224 |
 | 16 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |
-| 17 | [eldar6776](https://github.com/eldar6776) | DoE |  |  | Sarajevo Bosna i Hercegovina | 4134 |
-| 18 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 4094 |
-| 19 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic |  |  | Sarajevo, Bosnia and Herzegovina | 4090 |
-| 20 | [rahmo-hus](https://github.com/rahmo-hus) | Rahmo Huseinagic |  |  | Sarajevo, Bosnia and Herzegovina | 3873 |
+| 17 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | @ministryofprogramming  |  | Sarajevo | 4294 |
+| 18 | [eldar6776](https://github.com/eldar6776) | DoE |  |  | Sarajevo Bosna i Hercegovina | 4134 |
+| 19 | [omznc](https://github.com/omznc) | Omar Zunic | Profico |  | Bosnia & Herzegovina | 4094 |
+| 20 | [ajdinahmetovic](https://github.com/ajdinahmetovic) | Ajdin Ahmetovic |  |  | Sarajevo, Bosnia and Herzegovina | 4090 |

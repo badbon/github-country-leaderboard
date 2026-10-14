@@ -21,16 +21,16 @@ Indexed users: 459
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,706 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,659 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,587 |
-| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,210 |
+| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,187 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,983 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,879 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,424 |
 | 14 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,250 |
 | 15 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,246 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,832 |
-| 17 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,574 |
-| 18 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,436 |
-| 19 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,127 |
+| 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,617 |
+| 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,574 |
+| 19 | [oagix](https://github.com/oagix) | AGENT | Antarctica | 2,436 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | Antarctica | 1,716 |
 
 ## Public Contributions
@@ -83,4 +83,4 @@ Indexed users: 459
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-14T07:01:13.509Z
+Generated: 2026-10-14T08:23:50.268Z

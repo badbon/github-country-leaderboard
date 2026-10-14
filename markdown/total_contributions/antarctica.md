@@ -1,6 +1,6 @@
 # Total Contributions - Antarctica
 
-Generated: 2026-10-14T07:01:13.509Z
+Generated: 2026-10-14T08:23:50.268Z
 
 Users: 459
 
@@ -15,14 +15,14 @@ Users: 459
 | 7 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | https://www.goodnewsnetwork.org/dead-man-jolted-back-to-life-by-the-intolerable-bumps-of-indias-potholes/ |  | Antarctica | 4706 |
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Weyland-Yutani Corp. |  | Antarctica | 4659 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 |  |  | Antarctica | 4587 |
-| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 4210 |
+| 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti |  |  | antarctica | 4187 |
 | 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | AsciiNomads |  | Antarctica | 3983 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux |  |  | Antarctica ;) | 3879 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | EtherFun Lab |  | Antarctica | 3424 |
 | 14 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Lapr Inc. |  | Antarctica | 3250 |
 | 15 | [ethicnology](https://github.com/ethicnology) | Azad | @SatoshiPortal  |  | Antarctica | 3246 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack |  |  | Antarctica | 2832 |
-| 17 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2574 |
-| 18 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2436 |
-| 19 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2127 |
+| 17 | [echo108471](https://github.com/echo108471) | Eugene Cho |  |  | Antarctica | 2617 |
+| 18 | [shangyian](https://github.com/shangyian) | Yian |  |  | Antarctica | 2574 |
+| 19 | [oagix](https://github.com/oagix) | AGENT |  |  | Antarctica | 2436 |
 | 20 | [PenguinNexus](https://github.com/PenguinNexus) | Penguin | @truckersmp |  | Antarctica | 1716 |

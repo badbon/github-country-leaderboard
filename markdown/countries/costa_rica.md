@@ -1,6 +1,6 @@
 # Costa Rica
 
-Indexed users: 5,636
+Indexed users: 5,635
 
 | Leaderboard | Link |
 |---|---|
@@ -46,13 +46,13 @@ Indexed users: 5,636
 | 7 | [Matt-Aurora-Ventures](https://github.com/Matt-Aurora-Ventures) | Matt Haynes | Costa Rica | 3,585 |
 | 8 | [aramirez087](https://github.com/aramirez087) | Alexander Ramirez Kiriushenko | Costa Rica | 2,870 |
 | 9 | [morozov](https://github.com/morozov) | Sergei Morozov | San José, CA | 2,590 |
-| 10 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
-| 11 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
-| 12 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
-| 13 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
-| 14 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,199 |
-| 15 | [rjwrld](https://github.com/rjwrld) | Josue Calderon | Costa Rica | 2,060 |
-| 16 | [aleju03](https://github.com/aleju03) | Alejandro Jiménez | Costa Rica | 2,028 |
+| 10 | [aleju03](https://github.com/aleju03) | Aleju03 | Costa Rica | 2,572 |
+| 11 | [jonnabio](https://github.com/jonnabio) | Jonathan Herrera | Costa Rica | 2,546 |
+| 12 | [jetm](https://github.com/jetm) | Javier Tia | Costa Rica | 2,464 |
+| 13 | [nestormata](https://github.com/nestormata) | Nestor Mata Cuthbert | Costa Rica | 2,308 |
+| 14 | [lapc506](https://github.com/lapc506) | Andrés Peña | Heredia, Costa Rica | 2,305 |
+| 15 | [kfonsecah](https://github.com/kfonsecah) | Kendall Fonseca | Costa Rica | 2,199 |
+| 16 | [rjwrld](https://github.com/rjwrld) | Josue Calderon | Costa Rica | 2,060 |
 | 17 | [aguilar1x](https://github.com/aguilar1x) | Matias Aguilar | Costa Rica | 1,978 |
 | 18 | [byLAEV](https://github.com/byLAEV) | Lerry Alexander Elizondo Villalobos (LAEV) | Costa Rica  | 1,927 |
 | 19 | [adrianvrj](https://github.com/adrianvrj) | adr!an | Costa Rica | 1,901 |
@@ -83,4 +83,4 @@ Indexed users: 5,636
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-14T07:15:11.550Z
+Generated: 2026-10-14T08:36:39.956Z

@@ -28,7 +28,7 @@ Indexed users: 132
 | 14 | [SanMajur](https://github.com/SanMajur) | Santino Majur Malong  | Juba, South Sudan | 344 |
 | 15 | [Dengtiel](https://github.com/Dengtiel) | Deng Mayen Deng Akol | Juba/Online | 329 |
 | 16 | [John-Tongun](https://github.com/John-Tongun) | John Tongun Wani | Juba South Sudan | 326 |
-| 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 300 |
+| 17 | [deng-joe](https://github.com/deng-joe) | Joe | Juba, CE, South Sudan | 286 |
 | 18 | [nhial-cham](https://github.com/nhial-cham) | Nhial Cham | Juba, South Sudan | 272 |
 | 19 | [Yel-Mangok](https://github.com/Yel-Mangok) |  | South Sudan | 271 |
 | 20 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 270 |
@@ -73,7 +73,7 @@ Indexed users: 132
 | 9 | [riakizo](https://github.com/riakizo) | Riak Isaac | South Sudan  | 33 |
 | 10 | [uojai](https://github.com/uojai) | UoJ Artificial Intelligence | Juba, South Sudan | 32 |
 | 11 | [AlierPM](https://github.com/AlierPM) | Alier  Philip Maguet | Juba, South Sudan | 29 |
-| 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 25 |
+| 12 | [stephen-morlex](https://github.com/stephen-morlex) | Stephen Victor | Juba, South Sudan | 26 |
 | 13 | [Konson22](https://github.com/Konson22) | Kon Akech | South Sudan | 21 |
 | 14 | [cholg2003](https://github.com/cholg2003) | Chol | South Sudan | 20 |
 | 15 | [PiengBol](https://github.com/PiengBol) | Pieng Bol | Juba, South Sudan | 19 |
@@ -83,4 +83,4 @@ Indexed users: 132
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | South Sudan | 15 |
 | 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | Juba, South Sudan  | 14 |
 
-Generated: 2026-10-14T06:45:40.629Z
+Generated: 2026-10-14T08:09:31.563Z

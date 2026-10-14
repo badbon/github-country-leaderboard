@@ -1,6 +1,6 @@
 # Public Contributions - Bermuda
 
-Generated: 2026-10-14T07:06:18.124Z
+Generated: 2026-10-14T08:29:07.313Z
 
 Users: 899
 
@@ -8,7 +8,7 @@ Users: 899
 |---:|---|---|---|---|---|---:|
 | 1 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7147 |
 | 2 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 4997 |
-| 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | @dxos |  | Hamilton, ON | 2549 |
+| 3 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | @dxos |  | Hamilton, ON | 2580 |
 | 4 | [bbolker](https://github.com/bbolker) | Ben Bolker | McMaster University |  | Hamilton, Ontario | 2046 |
 | 5 | [Justype](https://github.com/Justype) | Cheng |  |  | Hamilton | 1394 |
 | 6 | [kevinAlbs](https://github.com/kevinAlbs) | Kevin Albertson |  |  | Hamilton, NJ | 1366 |
