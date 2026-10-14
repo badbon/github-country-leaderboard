@@ -18499,8 +18499,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 944,
-    "publicContributions": 9,
+    "privateContributions": 1071,
+    "publicContributions": 13,
     "createdAt": "2021-04-24T20:46:01Z"
   },
   {
@@ -18512,7 +18512,7 @@
     "twitterUsername": "fabriialama",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 78,
+    "publicContributions": 80,
     "createdAt": "2021-08-02T00:54:23Z"
   },
   {
@@ -18522,9 +18522,9 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 43,
-    "publicContributions": 1,
+    "followers": 6,
+    "privateContributions": 33,
+    "publicContributions": 3,
     "createdAt": "2021-04-03T14:22:27Z"
   },
   {
@@ -18559,7 +18559,7 @@
     "company": "Lambdo",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 830,
+    "privateContributions": 1058,
     "publicContributions": 7,
     "createdAt": "2021-03-03T16:56:36Z"
   },
@@ -18572,7 +18572,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 219,
+    "publicContributions": 304,
     "createdAt": "2021-03-17T08:15:45Z"
   },
   {
@@ -18583,8 +18583,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 3,
-    "publicContributions": 18,
+    "privateContributions": 40,
+    "publicContributions": 63,
     "createdAt": "2021-05-21T18:40:18Z"
   },
   {
@@ -18604,11 +18604,11 @@
     "name": "Daniel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96448685?s=72&u=1b64f5ec1071e43731216fc1f695fac73aab7614&v=4",
     "location": "Ecuador",
-    "company": "Meniuz",
+    "company": "Freelance",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 51,
-    "publicContributions": 66,
+    "followers": 3,
+    "privateContributions": 2,
+    "publicContributions": 27,
     "createdAt": "2021-12-20T22:02:57Z"
   },
   {
@@ -18618,7 +18618,7 @@
     "location": "Ecuador",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-08-13T18:39:24Z"
@@ -18632,7 +18632,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2021-05-17T04:33:35Z"
   },
   {
@@ -18655,8 +18655,8 @@
     "company": "",
     "twitterUsername": "DylanCerv10",
     "followers": 4,
-    "privateContributions": 1548,
-    "publicContributions": 261,
+    "privateContributions": 1212,
+    "publicContributions": 246,
     "createdAt": "2021-12-09T23:22:23Z"
   },
   {
@@ -18674,26 +18674,14 @@
   {
     "login": "carlossricardo",
     "name": "Carlos Ricardo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/84218582?s=72&u=b58fd1bbc1688d6e531debb5dab78a35ff920370&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84218582?s=72&u=1ea622b78bdb991c97964d754d2d05814f75fe14&v=4",
     "location": "Santa Elena, Ecuador",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 25,
+    "privateContributions": 32,
     "publicContributions": 0,
     "createdAt": "2021-05-15T05:07:17Z"
-  },
-  {
-    "login": "navimk",
-    "name": "Navimk",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/90862238?s=72&u=b51a88f550eca3218fb34a48288d1c7a79c524d7&v=4",
-    "location": "Ecuador",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 45,
-    "createdAt": "2021-09-16T17:22:17Z"
   },
   {
     "login": "juansuarezb",
@@ -18704,7 +18692,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 2,
-    "publicContributions": 314,
+    "publicContributions": 292,
     "createdAt": "2021-11-16T17:17:26Z"
   },
   {

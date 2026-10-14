@@ -18330,9 +18330,9 @@
     "location": "Tanzania",
     "company": "Datafav",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 124,
+    "publicContributions": 176,
     "createdAt": "2018-02-06T07:56:38Z"
   },
   {
@@ -18391,7 +18391,7 @@
     "company": "Doshtek LLC",
     "twitterUsername": "answaryaidan",
     "followers": 1,
-    "privateContributions": 1666,
+    "privateContributions": 1299,
     "publicContributions": 4,
     "createdAt": "2018-10-11T11:20:03Z"
   },
@@ -18438,7 +18438,7 @@
     "location": "Tanzania",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-08-07T15:30:25Z"
@@ -18530,13 +18530,13 @@
   {
     "login": "neicore",
     "name": "neicore",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28825727?s=72&u=5570b04533cff65dcedfce813e1cd3bfe696c923&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/28825727?s=72&u=1cd3286192ab8d27d5cf2f623d14a2700bb225c6&v=4",
     "location": "Dar es Salaam, Tanzania",
     "company": "@flexcodelabs, @aSoft-Ltd",
     "twitterUsername": "",
-    "followers": 144,
-    "privateContributions": 1330,
-    "publicContributions": 351,
+    "followers": 147,
+    "privateContributions": 1644,
+    "publicContributions": 412,
     "createdAt": "2017-05-20T13:27:14Z"
   },
   {
@@ -18546,8 +18546,8 @@
     "location": "Tanzania",
     "company": "Canny Bits",
     "twitterUsername": "CannyBits",
-    "followers": 136,
-    "privateContributions": 1125,
+    "followers": 124,
+    "privateContributions": 932,
     "publicContributions": 44,
     "createdAt": "2017-05-01T15:09:07Z"
   },

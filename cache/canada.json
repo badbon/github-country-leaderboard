@@ -1344523,8 +1344523,8 @@
     "company": "@posthog",
     "twitterUsername": "",
     "followers": 109,
-    "privateContributions": 460,
-    "publicContributions": 7949,
+    "privateContributions": 469,
+    "publicContributions": 7967,
     "createdAt": "2013-01-11T19:27:18Z"
   },
   {
@@ -1354903,7 +1354903,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 22128,
+    "privateContributions": 22255,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1354976,7 +1354976,7 @@
     "twitterUsername": "",
     "followers": 32,
     "privateContributions": 0,
-    "publicContributions": 876,
+    "publicContributions": 884,
     "createdAt": "2013-02-26T02:35:43Z"
   },
   {
@@ -1371811,7 +1371811,7 @@
     "company": "@bluesky-social ",
     "twitterUsername": "",
     "followers": 1656,
-    "privateContributions": 1544,
+    "privateContributions": 1546,
     "publicContributions": 330,
     "createdAt": "2013-06-18T22:39:16Z"
   },
@@ -1372028,7 +1372028,7 @@
     "twitterUsername": "pseudomuto",
     "followers": 124,
     "privateContributions": 112,
-    "publicContributions": 688,
+    "publicContributions": 689,
     "createdAt": "2013-06-20T13:04:46Z"
   },
   {
@@ -1380055,7 +1380055,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 6356,
+    "privateContributions": 6372,
     "publicContributions": 135,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1380715,7 +1380715,7 @@
     "company": "NetBox Labs",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 3409,
+    "privateContributions": 3416,
     "publicContributions": 151,
     "createdAt": "2013-07-08T14:51:00Z"
   },
@@ -1380788,7 +1380788,7 @@
     "twitterUsername": "",
     "followers": 37,
     "privateContributions": 0,
-    "publicContributions": 378,
+    "publicContributions": 380,
     "createdAt": "2013-08-10T00:40:56Z"
   },
   {
@@ -1387747,7 +1387747,7 @@
     "company": "@team-telnyx ",
     "twitterUsername": "",
     "followers": 50,
-    "privateContributions": 1889,
+    "privateContributions": 1891,
     "publicContributions": 239,
     "createdAt": "2013-09-24T22:13:18Z"
   },
@@ -1388167,7 +1388167,7 @@
     "company": "@EclipseFdn ",
     "twitterUsername": "",
     "followers": 32,
-    "privateContributions": 124,
+    "privateContributions": 125,
     "publicContributions": 1327,
     "createdAt": "2013-09-02T18:22:20Z"
   },
@@ -1424839,7 +1424839,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 162,
-    "privateContributions": 352,
+    "privateContributions": 359,
     "publicContributions": 250,
     "createdAt": "2013-05-23T10:31:14Z"
   },
@@ -1424863,7 +1424863,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 2753,
+    "privateContributions": 2775,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1424935,7 +1424935,7 @@
     "company": "SardineAI",
     "twitterUsername": "",
     "followers": 72,
-    "privateContributions": 1136,
+    "privateContributions": 1137,
     "publicContributions": 1,
     "createdAt": "2013-03-11T06:45:28Z"
   },
@@ -1425007,7 +1425007,7 @@
     "company": "@clio",
     "twitterUsername": "",
     "followers": 56,
-    "privateContributions": 366,
+    "privateContributions": 368,
     "publicContributions": 6,
     "createdAt": "2013-12-18T00:34:15Z"
   },
@@ -1425127,7 +1425127,7 @@
     "company": "Gadget",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 3798,
+    "privateContributions": 3805,
     "publicContributions": 144,
     "createdAt": "2013-05-07T19:03:10Z"
   },
@@ -1425274,5 +1425274,17 @@
     "privateContributions": 493,
     "publicContributions": 11,
     "createdAt": "2023-01-01T14:42:59Z"
+  },
+  {
+    "login": "JOduMonT",
+    "name": "Jonathan Dumont",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/5204724?s=72&u=d6d3f12ea633bb5132d14d7ce20833345c6ec6a0&v=4",
+    "location": "Ottawa, CANADA",
+    "company": "JOduMonT",
+    "twitterUsername": "",
+    "followers": 54,
+    "privateContributions": 0,
+    "publicContributions": 161,
+    "createdAt": "2013-08-10T20:23:16Z"
   }
 ]

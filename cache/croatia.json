@@ -18572,7 +18572,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 35,
     "createdAt": "2020-10-22T18:53:00Z"
   },
   {
@@ -18584,7 +18584,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2020-04-07T14:16:58Z"
   },
   {
@@ -18598,18 +18598,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2020-07-29T11:46:47Z"
-  },
-  {
-    "login": "tingrgic",
-    "name": "Tin ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59627893?s=72&u=78da9400d6fbb2b6dae1a68e53557760fffe20db&v=4",
-    "location": "Zagreb",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2020-01-07T22:44:26Z"
   },
   {
     "login": "KMatunec",
@@ -18667,7 +18655,7 @@
     "company": "Coreline",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 15,
+    "privateContributions": 61,
     "publicContributions": 0,
     "createdAt": "2020-05-21T19:56:04Z"
   },
@@ -18715,7 +18703,7 @@
     "company": "Webico @Webico-Solutions",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 717,
+    "privateContributions": 888,
     "publicContributions": 0,
     "createdAt": "2020-10-01T08:09:30Z"
   },
@@ -18739,8 +18727,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 11,
-    "publicContributions": 173,
+    "privateContributions": 0,
+    "publicContributions": 73,
     "createdAt": "2020-03-07T08:34:15Z"
   },
   {
