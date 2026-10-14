@@ -20360,7 +20360,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 24,
     "createdAt": "2023-02-24T21:36:54Z"
   },
   {
@@ -20384,7 +20384,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 34,
     "createdAt": "2023-12-19T14:56:13Z"
   },
   {
@@ -20407,8 +20407,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 389,
-    "publicContributions": 242,
+    "privateContributions": 400,
+    "publicContributions": 171,
     "createdAt": "2023-07-27T18:13:47Z"
   },
   {
@@ -20432,7 +20432,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 79,
+    "publicContributions": 81,
     "createdAt": "2023-04-15T15:42:02Z"
   },
   {
@@ -20454,9 +20454,9 @@
     "location": "Lima, Perú",
     "company": "Mainframe",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 134,
+    "publicContributions": 117,
     "createdAt": "2023-03-13T04:28:28Z"
   },
   {
@@ -20514,9 +20514,9 @@
     "location": "Lima",
     "company": "Universidad Nacional de Ingenieria",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 86,
+    "publicContributions": 68,
     "createdAt": "2023-09-03T22:45:57Z"
   },
   {
@@ -20528,7 +20528,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2023-04-26T19:18:08Z"
   },
   {
@@ -20539,8 +20539,8 @@
     "company": "",
     "twitterUsername": "wpinocaico",
     "followers": 2,
-    "privateContributions": 63,
-    "publicContributions": 0,
+    "privateContributions": 60,
+    "publicContributions": 2,
     "createdAt": "2023-03-26T07:29:07Z"
   },
   {
@@ -20562,22 +20562,10 @@
     "location": "Perú Lima",
     "company": "Senati",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-01-24T14:58:58Z"
-  },
-  {
-    "login": "Style-Pin",
-    "name": "Brayan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139256447?s=72&u=ca7fc909ed3151be307cd317f7b83a67ca258871&v=4",
-    "location": "Lima",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-07-11T16:20:58Z"
   },
   {
     "login": "gerson-pardo-shift4",
@@ -20587,8 +20575,8 @@
     "company": "Shift4",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1295,
-    "publicContributions": 2,
+    "privateContributions": 1370,
+    "publicContributions": 1,
     "createdAt": "2023-10-05T16:52:44Z"
   },
   {

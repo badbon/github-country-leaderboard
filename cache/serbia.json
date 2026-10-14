@@ -20574,7 +20574,7 @@
     "location": "Belgrade",
     "company": "CoreWeb",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 185,
     "publicContributions": 26,
     "createdAt": "2022-11-23T21:50:40Z"
@@ -20586,7 +20586,7 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 26,
     "publicContributions": 78,
     "createdAt": "2022-12-14T11:17:36Z"
@@ -20598,7 +20598,7 @@
     "location": "Belgrade",
     "company": "University of Belgrade, Faculty of Organizational Sciences",
     "twitterUsername": "",
-    "followers": 10,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 182,
     "createdAt": "2022-08-26T12:49:37Z"
@@ -20610,8 +20610,8 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 5,
+    "followers": 8,
+    "privateContributions": 41,
     "publicContributions": 0,
     "createdAt": "2022-08-21T04:58:33Z"
   },
@@ -20635,8 +20635,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 3,
-    "publicContributions": 222,
+    "privateContributions": 0,
+    "publicContributions": 204,
     "createdAt": "2022-10-14T15:36:32Z"
   },
   {
@@ -20646,8 +20646,8 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "Ugarkovi3Nikola",
-    "followers": 7,
-    "privateContributions": 127,
+    "followers": 6,
+    "privateContributions": 211,
     "publicContributions": 0,
     "createdAt": "2022-03-17T13:48:34Z"
   },
@@ -20658,9 +20658,9 @@
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 114,
     "createdAt": "2022-10-14T13:35:38Z"
   },
   {
@@ -20672,7 +20672,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 750,
+    "publicContributions": 757,
     "createdAt": "2022-10-24T16:33:28Z"
   },
   {
@@ -20695,7 +20695,7 @@
     "company": "Factory World Wide",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 898,
+    "privateContributions": 1155,
     "publicContributions": 0,
     "createdAt": "2022-09-10T10:59:21Z"
   },
@@ -20720,7 +20720,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 73,
+    "publicContributions": 67,
     "createdAt": "2022-10-29T08:36:44Z"
   },
   {
@@ -20732,7 +20732,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 36,
     "createdAt": "2022-05-04T16:07:32Z"
   },
   {
@@ -20756,7 +20756,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2022-06-27T16:09:12Z"
   },
   {
@@ -20768,7 +20768,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 18,
     "createdAt": "2022-05-02T08:24:03Z"
   },
   {
@@ -20779,20 +20779,20 @@
     "company": "Replai",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 91,
+    "privateContributions": 66,
     "publicContributions": 140,
     "createdAt": "2022-08-17T09:56:37Z"
   },
   {
     "login": "alexcfv",
-    "name": "Kramskoi Alexey",
+    "name": "Kramskoi Alexei",
     "avatarUrl": "https://avatars.githubusercontent.com/u/109853627?s=72&u=3762ed36297e81964c60cace565337edef1de495&v=4",
     "location": "Belgrade",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 526,
+    "publicContributions": 425,
     "createdAt": "2022-07-23T10:32:21Z"
   },
   {
@@ -20800,11 +20800,11 @@
     "name": "Uroš Orolicki",
     "avatarUrl": "https://avatars.githubusercontent.com/u/96778657?s=72&u=bfddf0736f5f39a4a136ca0bec92e8d12f5fdb0e&v=4",
     "location": "Belgrade",
-    "company": "",
+    "company": "FoldNine",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 191,
-    "publicContributions": 85,
+    "followers": 9,
+    "privateContributions": 309,
+    "publicContributions": 83,
     "createdAt": "2021-12-28T12:51:56Z"
   },
   {

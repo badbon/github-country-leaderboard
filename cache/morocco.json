@@ -20264,20 +20264,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2024-08-13T23:58:50Z"
-  },
-  {
-    "login": "AymanMidan",
-    "name": "Ayman MIDAN",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/189344463?s=72&u=a2de810268aa4b437ef6e2d105eb6ce27a6fefa3&v=4",
-    "location": "Rabat, Maroc",
-    "company": "INPT",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 121,
-    "createdAt": "2024-11-22T10:10:30Z"
   },
   {
     "login": "Oulhajsalwa",
@@ -20288,7 +20276,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 15,
     "createdAt": "2024-01-16T20:11:49Z"
   },
   {
@@ -20312,7 +20300,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 24,
     "createdAt": "2024-10-13T11:47:57Z"
   },
   {
@@ -20336,7 +20324,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 58,
+    "publicContributions": 38,
     "createdAt": "2024-11-20T07:56:42Z"
   },
   {
@@ -20348,7 +20336,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 90,
     "createdAt": "2024-09-13T11:31:56Z"
   },
   {
@@ -20360,7 +20348,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 63,
+    "publicContributions": 62,
     "createdAt": "2024-05-18T18:49:01Z"
   },
   {
@@ -20394,9 +20382,9 @@
     "location": "Kingdom of Morocco ☆",
     "company": "",
     "twitterUsername": "",
-    "followers": 40,
-    "privateContributions": 82,
-    "publicContributions": 22,
+    "followers": 39,
+    "privateContributions": 42,
+    "publicContributions": 2,
     "createdAt": "2023-08-28T20:45:35Z"
   },
   {
@@ -20406,9 +20394,9 @@
     "location": "Casablanca, Morocco.",
     "company": "Future Full Stack Developer",
     "twitterUsername": "",
-    "followers": 4195,
-    "privateContributions": 476,
-    "publicContributions": 96,
+    "followers": 4149,
+    "privateContributions": 452,
+    "publicContributions": 87,
     "createdAt": "2023-03-26T12:03:46Z"
   },
   {
@@ -20418,7 +20406,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "",
-    "followers": 1772,
+    "followers": 1768,
     "privateContributions": 0,
     "publicContributions": 6,
     "createdAt": "2023-01-30T17:07:43Z"
@@ -20430,9 +20418,9 @@
     "location": "Morocco",
     "company": "42 Network/1337",
     "twitterUsername": "AbdellahSyani",
-    "followers": 1304,
+    "followers": 1302,
     "privateContributions": 0,
-    "publicContributions": 674,
+    "publicContributions": 808,
     "createdAt": "2023-05-11T09:01:43Z"
   },
   {
@@ -20442,9 +20430,9 @@
     "location": "Tetouan, Morocco",
     "company": "1337 MED - 42 Network ",
     "twitterUsername": "Mdbenta1eb",
-    "followers": 368,
-    "privateContributions": 1000,
-    "publicContributions": 481,
+    "followers": 367,
+    "privateContributions": 872,
+    "publicContributions": 537,
     "createdAt": "2023-05-05T21:37:27Z"
   },
   {
@@ -20454,9 +20442,9 @@
     "location": "Morocco",
     "company": "42 Network",
     "twitterUsername": "",
-    "followers": 343,
-    "privateContributions": 0,
-    "publicContributions": 87,
+    "followers": 339,
+    "privateContributions": 37,
+    "publicContributions": 56,
     "createdAt": "2023-02-09T07:44:04Z"
   },
   {
@@ -20466,9 +20454,9 @@
     "location": "Casablanca, Morocco ",
     "company": "ALX",
     "twitterUsername": "ZakariaOrche",
-    "followers": 307,
+    "followers": 305,
     "privateContributions": 0,
-    "publicContributions": 140,
+    "publicContributions": 156,
     "createdAt": "2023-05-30T21:58:28Z"
   },
   {
@@ -20478,7 +20466,7 @@
     "location": "Morocco",
     "company": "",
     "twitterUsername": "manaloujghi27",
-    "followers": 196,
+    "followers": 189,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2023-02-15T09:37:28Z"
@@ -20491,8 +20479,8 @@
     "company": "42 Network",
     "twitterUsername": "it_CryptoKs",
     "followers": 180,
-    "privateContributions": 121,
-    "publicContributions": 400,
+    "privateContributions": 126,
+    "publicContributions": 375,
     "createdAt": "2023-02-15T07:22:20Z"
   },
   {

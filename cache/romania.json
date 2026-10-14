@@ -20588,7 +20588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 512,
+    "publicContributions": 513,
     "createdAt": "2023-08-31T11:27:06Z"
   },
   {
@@ -20610,9 +20610,9 @@
     "location": "Bucharest",
     "company": "Expleo",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 75,
+    "publicContributions": 79,
     "createdAt": "2023-11-10T14:55:51Z"
   },
   {
@@ -20672,7 +20672,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 263,
+    "publicContributions": 269,
     "createdAt": "2023-03-16T11:44:29Z"
   },
   {
@@ -20694,9 +20694,9 @@
     "location": "Brasov -> Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 2,
-    "publicContributions": 11,
+    "followers": 2,
+    "privateContributions": 10,
+    "publicContributions": 33,
     "createdAt": "2023-10-29T20:46:24Z"
   },
   {
@@ -20730,7 +20730,7 @@
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-04-24T13:47:09Z"
@@ -20762,7 +20762,7 @@
   {
     "login": "d3liaG",
     "name": "Delia Gheorghiu",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/152205511?s=72&u=11e7ce2c20aa42d6b37a0d17be654cebd780e0e1&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/152205511?s=72&u=1973803f14b48d874c495bcb6608c599378cf48e&v=4",
     "location": "Bucharest",
     "company": "",
     "twitterUsername": "",
