@@ -19170,9 +19170,9 @@
     "location": "Republic of Korea",
     "company": "",
     "twitterUsername": "tb4nch0r",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 33,
     "createdAt": "2024-05-31T06:39:13Z"
   },
   {
@@ -19182,7 +19182,7 @@
     "location": "Republic of Korea, Seoul",
     "company": "Hankuk University of Foreign Studies",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 61,
     "createdAt": "2024-03-28T15:33:54Z"
@@ -19206,9 +19206,9 @@
     "location": "125, Dongseo-daero, Yuseong-gu, Daejeon, Republic of Korea",
     "company": "Hanbat National University",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 151,
-    "publicContributions": 1315,
+    "followers": 9,
+    "privateContributions": 112,
+    "publicContributions": 1799,
     "createdAt": "2024-01-13T15:20:59Z"
   },
   {
@@ -19220,31 +19220,31 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 676,
+    "publicContributions": 689,
     "createdAt": "2024-01-22T01:24:55Z"
   },
   {
     "login": "hyeon-cho",
     "name": "Hyunmin Cho",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/162781973?s=72&v=4",
-    "location": "Korea, Republic of.",
-    "company": "IPA",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/162781973?s=72&u=6d1c2fba47386159331e6cc78a9067a7ca838af5&v=4",
+    "location": "Seoul, Republic of Korea",
+    "company": "Image Processing Algorithm Lab, Korea University",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 106,
+    "publicContributions": 100,
     "createdAt": "2024-03-09T06:28:38Z"
   },
   {
     "login": "segretoo",
     "name": "Moonjeong Kim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/171138574?s=72&u=51f55d455d8b1a034e36fd813d4d7a8d0b6b041d&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/171138574?s=72&u=c605b9b74765c1a58eb93070758e5fcaa824e329&v=4",
     "location": "Seoul, Republic of Korea",
     "company": "",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 115,
+    "publicContributions": 270,
     "createdAt": "2024-05-29T10:11:48Z"
   },
   {
@@ -19268,7 +19268,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 685,
+    "publicContributions": 687,
     "createdAt": "2024-03-01T13:20:31Z"
   },
   {
@@ -19290,8 +19290,8 @@
     "location": "Seoul, Republic of Korea (South)",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 825,
+    "followers": 7,
+    "privateContributions": 1013,
     "publicContributions": 0,
     "createdAt": "2024-04-30T15:38:12Z"
   },
@@ -19304,7 +19304,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 156,
+    "publicContributions": 140,
     "createdAt": "2024-09-02T04:13:34Z"
   },
   {
@@ -19315,20 +19315,20 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 173,
+    "privateContributions": 374,
+    "publicContributions": 66,
     "createdAt": "2024-03-12T05:42:47Z"
   },
   {
     "login": "Inlayo",
     "name": "Inlayo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/163668558?s=72&u=ed336a2b2a3cbf37765d877bf4124ccdc02bd148&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/163668558?s=72&u=651f2202d2690703f6f3b9e29d7b148d32a829c6&v=4",
     "location": "Republic of Korea",
     "company": "Inlayo.com",
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 61,
+    "publicContributions": 69,
     "createdAt": "2024-03-16T16:15:59Z"
   },
   {
@@ -19339,8 +19339,8 @@
     "company": "AONE Information Technology",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 9,
-    "publicContributions": 266,
+    "privateContributions": 11,
+    "publicContributions": 143,
     "createdAt": "2024-07-30T04:52:00Z"
   },
   {
@@ -19350,22 +19350,10 @@
     "location": "Seoul, Republic of Korea",
     "company": "Ewha Womans University",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 55,
+    "publicContributions": 60,
     "createdAt": "2024-10-22T08:41:23Z"
-  },
-  {
-    "login": "GyuHyeong-Kim",
-    "name": "Gyuhyeong Kim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175017387?s=72&u=daf9b1f2ea43e955753f1eba1b9d61e668f831c1&v=4",
-    "location": "Republic of Korea",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 6,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2024-07-08T12:36:50Z"
   },
   {
     "login": "culonculon",
@@ -19376,7 +19364,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 22,
     "createdAt": "2024-03-10T15:57:58Z"
   },
   {
@@ -19387,8 +19375,8 @@
     "company": "Dong-A University",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 7,
-    "publicContributions": 34,
+    "privateContributions": 5,
+    "publicContributions": 31,
     "createdAt": "2024-07-03T05:11:22Z"
   },
   {
@@ -19398,9 +19386,9 @@
     "location": "Republic of Korea",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 198,
-    "publicContributions": 295,
+    "followers": 10,
+    "privateContributions": 99,
+    "publicContributions": 708,
     "createdAt": "2024-11-09T07:56:38Z"
   },
   {

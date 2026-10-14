@@ -2440,11 +2440,11 @@
     "name": "Usmon",
     "avatarUrl": "https://avatars.githubusercontent.com/u/131257200?s=72&u=a8cfd278675541b1255d9f7a051ac216423ecde1&v=4",
     "location": "Tajikistan",
-    "company": "@aki1234556",
+    "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 286,
+    "publicContributions": 280,
     "createdAt": "2023-04-19T10:31:03Z"
   },
   {
@@ -2467,7 +2467,7 @@
     "company": "Silk Road Professionals",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 1038,
+    "privateContributions": 1145,
     "publicContributions": 72,
     "createdAt": "2023-11-27T15:12:21Z"
   },
@@ -2479,7 +2479,7 @@
     "company": "Saiph Tech",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 680,
+    "privateContributions": 683,
     "publicContributions": 12,
     "createdAt": "2023-12-07T12:15:03Z"
   },
@@ -2602,18 +2602,6 @@
     "privateContributions": 0,
     "publicContributions": 24,
     "createdAt": "2023-11-12T11:59:49Z"
-  },
-  {
-    "login": "vosidov-msaid",
-    "name": "Muhammadsaid",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140943483?s=72&v=4",
-    "location": "Tajikistan",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 93,
-    "publicContributions": 55,
-    "createdAt": "2023-07-30T08:25:31Z"
   },
   {
     "login": "prvznzrv",

@@ -19808,7 +19808,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 5,
     "createdAt": "2023-11-14T21:21:06Z"
   },
   {
@@ -19982,7 +19982,7 @@
   {
     "login": "r00ky21",
     "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/142233997?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/142233997?s=72&u=e42f5d411bc8af9a8170b444ec6db5fcc9c757a6&v=4",
     "location": "Vienna",
     "company": "crais GmbH",
     "twitterUsername": "",
@@ -20011,7 +20011,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 46,
+    "privateContributions": 80,
     "publicContributions": 60,
     "createdAt": "2023-08-31T18:10:16Z"
   },
@@ -20024,20 +20024,8 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
-    "createdAt": "2023-12-10T14:56:15Z"
-  },
-  {
-    "login": "akayevs",
-    "name": "Sanjar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/139784201?s=72&u=30cc3555cbf6b6bfc9be8ff2c8a7588a3cc02751&v=4",
-    "location": "Vienna",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
     "publicContributions": 0,
-    "createdAt": "2023-07-17T14:26:07Z"
+    "createdAt": "2023-12-10T14:56:15Z"
   },
   {
     "login": "ChristoffTscharyiski",

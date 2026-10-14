@@ -19675,7 +19675,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 127,
+    "privateContributions": 113,
     "publicContributions": 4,
     "createdAt": "2015-12-30T07:00:27Z"
   },
@@ -19688,7 +19688,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 5,
     "createdAt": "2016-03-05T06:16:12Z"
   },
   {
@@ -19711,7 +19711,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 56,
     "publicContributions": 1,
     "createdAt": "2016-02-28T11:04:43Z"
   },
@@ -19748,7 +19748,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 50,
+    "publicContributions": 78,
     "createdAt": "2016-02-12T10:46:15Z"
   },
   {
@@ -19766,7 +19766,7 @@
   {
     "login": "JanDolenc",
     "name": "Jan Dolenc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/23385863?s=72&u=db2ebf816c0ffb90e95d32fb5ecbc24c72bbdb64&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/23385863?s=72&u=6dc8eb29492333ba4083eca328875dbe6ebd7b0f&v=4",
     "location": "Škofja Loka, Slovenia",
     "company": "",
     "twitterUsername": "",
@@ -19808,13 +19808,13 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 12,
     "createdAt": "2016-04-18T08:45:19Z"
   },
   {
     "login": "denisdobras",
     "name": "Denis Dobraš",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19154560?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/19154560?s=72&u=141dcadbe60d11aaf4756b0e2e882aaba61f1ebc&v=4",
     "location": "Ljubljana, Slovenia",
     "company": "",
     "twitterUsername": "",
@@ -19842,7 +19842,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2016-12-17T13:32:29Z"
@@ -19855,8 +19855,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 521,
-    "publicContributions": 12,
+    "privateContributions": 464,
+    "publicContributions": 11,
     "createdAt": "2016-03-05T12:06:24Z"
   },
   {
@@ -19904,7 +19904,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2016-04-01T23:01:08Z"
   },
   {

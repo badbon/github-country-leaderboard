@@ -1380055,7 +1380055,7 @@
     "company": "Arcnovus",
     "twitterUsername": "",
     "followers": 327,
-    "privateContributions": 6401,
+    "privateContributions": 6403,
     "publicContributions": 135,
     "createdAt": "2013-07-06T04:27:19Z"
   },
@@ -1425298,5 +1425298,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2018-04-23T07:19:40Z"
+  },
+  {
+    "login": "Mahyar-Abbasi",
+    "name": "Mahyar",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/222282726?s=72&v=4",
+    "location": "Calgary",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 6,
+    "createdAt": "2025-07-22T17:21:22Z"
   }
 ]
