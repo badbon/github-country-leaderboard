@@ -18,8 +18,8 @@ Indexed users: 487
 | 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo | Burkina Faso, Kadiogo, Ouagadougou | 4,403 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 3,949 |
 | 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 3,921 |
-| 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,833 |
-| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,623 |
+| 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  | Burkina Faso / Bobo Dioulasso | 3,835 |
+| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,646 |
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ouagadougou, Burkina Faso 🇧🇫 | 2,797 |
 | 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | Ouagadougou, Burkina Faso | 2,662 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 2,334 |
@@ -37,7 +37,7 @@ Indexed users: 487
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,623 |
+| 1 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 3,646 |
 | 2 | [tky0065](https://github.com/tky0065) | Enokdev | Burkina Faso | 2,666 |
 | 3 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | Burkina Faso | 2,172 |
 | 4 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Burkina Faso | 1,361 |
@@ -72,8 +72,8 @@ Indexed users: 487
 | 8 | [honokini](https://github.com/honokini) | KINI Biè Honoré | Burkina Faso(Bobo-Dioulasso) | 104 |
 | 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue | Burkina Faso - Ouagadougou | 98 |
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Burkina Faso | 93 |
-| 11 | [Kidchris](https://github.com/Kidchris) | Kidchris | Ouagadougou, Burkina Faso | 64 |
-| 12 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 64 |
+| 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Ouagadougou, Burkina Faso | 65 |
+| 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Ouagadougou, Burkina Faso | 64 |
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 57 |
 | 14 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE | Koudougou, Burkina Faso | 51 |
 | 15 | [leaston](https://github.com/leaston) | Nkuna Charles | Burkina Faso | 50 |
@@ -83,4 +83,4 @@ Indexed users: 487
 | 19 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | BURKINA FASO | 38 |
 | 20 | [kulturman](https://github.com/kulturman) | Arnaud Bakyono  | Ouagadougou | 37 |
 
-Generated: 2026-10-14T16:18:58.225Z
+Generated: 2026-10-14T18:18:54.353Z

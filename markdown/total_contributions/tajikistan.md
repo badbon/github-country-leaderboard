@@ -1,6 +1,6 @@
 # Total Contributions - Tajikistan
 
-Generated: 2026-10-14T15:56:25.057Z
+Generated: 2026-10-14T17:57:19.300Z
 
 Users: 710
 
@@ -18,8 +18,8 @@ Users: 710
 | 10 | [shahromako](https://github.com/shahromako) | Shahrom Kurbonov | Ayan Capital | koorbonovs | Tajikistan, Dushanbe | 3720 |
 | 11 | [sultonzoda2011](https://github.com/sultonzoda2011) | Sultonzoda Abdulloh | Freelance |  | Dushanbe | 3613 |
 | 12 | [dev-muhammad](https://github.com/dev-muhammad) | Muhammad Abdugafarov  | Lookona Labs |  | Tajikistan | 3480 |
-| 13 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Paydo-Team |  | Dushanbe, Tajikistan | 3212 |
-| 14 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3201 |
+| 13 | [D1lsh0D](https://github.com/D1lsh0D) | Dilshod Hojiboev | @Silk-Road-Professionals |  | Khujand, Tajikistan | 3227 |
+| 14 | [Rahmonali](https://github.com/Rahmonali) | Rahmonali | Paydo-Team |  | Dushanbe, Tajikistan | 3212 |
 | 15 | [IllMind11](https://github.com/IllMind11) | Islom Khushnazarov | Ayan Capital |  | Dushanbe, Tajikistan | 3164 |
 | 16 | [Amsurur](https://github.com/Amsurur) | Muhammadsurur Abdulloev | Softclub , RowTech |  | Dushanbe | 2936 |
 | 17 | [Jamoliddin2001](https://github.com/Jamoliddin2001) | Jamoliddin  | MTM, FARDO |  | Dushanbe | 2834 |

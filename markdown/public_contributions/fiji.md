@@ -1,6 +1,6 @@
 # Public Contributions - Fiji
 
-Generated: 2026-10-14T16:28:46.037Z
+Generated: 2026-10-14T18:32:31.153Z
 
 Users: 325
 
@@ -15,8 +15,8 @@ Users: 325
 | 7 | [aryann-7](https://github.com/aryann-7) | Aryan Singh | The University of the South Pacific |  | Suva, Fiji | 283 |
 | 8 | [SRVSRR](https://github.com/SRVSRR) | Rohan Nandan | University of the South Pacific | SRVSRR | Fiji | 253 |
 | 9 | [codeshareman](https://github.com/codeshareman) | Z° North | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 243 |
-| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 222 |
-| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 214 |
+| 10 | [grey0758](https://github.com/grey0758) | 徐业辉 | Zenaida Orn Company |  | 0588 ,Emelia Rest ,Marceleneport ,Idaho ,Fiji | 221 |
+| 11 | [rudrprasad05](https://github.com/rudrprasad05) | Rudr Prasad | Procyon |  | Fiji | 211 |
 | 12 | [Lagilava](https://github.com/Lagilava) | Lagilava Paulo |  |  | Fiji | 201 |
 | 13 | [Geekmaxxer](https://github.com/Geekmaxxer) | Pew |  |  | Fiji | 183 |
 | 14 | [kunz398](https://github.com/kunz398) | Kunal Singh |  |  | Fiji | 168 |

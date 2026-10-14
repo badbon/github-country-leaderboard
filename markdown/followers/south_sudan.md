@@ -1,14 +1,14 @@
 # Followers - South Sudan
 
-Generated: 2026-10-14T15:53:53.475Z
+Generated: 2026-10-14T17:53:59.581Z
 
 Users: 132
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 425 |
+| 1 | [Maiz27](https://github.com/Maiz27) | Maged Faiz | Nilotik General Trading Co. Ltd | _Maiz27_ | Juba, South Sudan | 427 |
 | 2 | [dutkulang](https://github.com/dutkulang) | Dut Kulang |  | DutKulang1 | Juba, South Sudan | 135 |
-| 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham |  | ChamOchudho | Juba,South Sudan | 62 |
+| 3 | [OchudhoCham](https://github.com/OchudhoCham) | Ochudho Cham |  | ChamOchudho | Juba,South Sudan | 61 |
 | 4 | [longmaker2](https://github.com/longmaker2) | Long Maker Long Deng | African Leadership University (ALU) | LongMakerGutaja | Juba | 45 |
 | 5 | [kilataban](https://github.com/kilataban) | Kila Taban  |  |  | Juba, South Sudan | 41 |
 | 6 | [JohnMarit](https://github.com/JohnMarit) | John Marit | Belednai Technology |  | Juba-South Sudan | 38 |

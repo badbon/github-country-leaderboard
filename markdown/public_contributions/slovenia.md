@@ -1,13 +1,13 @@
 # Public Contributions - Slovenia
 
-Generated: 2026-10-14T15:52:01.894Z
+Generated: 2026-10-14T17:52:30.084Z
 
 Users: 3101
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Nix - Elm - Rust - Python | garbas | Ljubljana, Slovenia | 9114 |
-| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi |  |  | Ljubljana, Slovenia | 7269 |
+| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 8386 |
 | 3 | [darkojelen](https://github.com/darkojelen) | darko |  |  | Ljubljana | 5412 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 4219 |
 | 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | SkyLabs d.o.o. |  | Maribor, Slovenia | 3979 |
@@ -17,9 +17,9 @@ Users: 3101
 | 9 | [fentas](https://github.com/fentas) | Jan Guth | @lanisce | lanisce_si | Slovenia | 3035 |
 | 10 | [matejdro](https://github.com/matejdro) | Matej Drobnič |  |  | Slovenia | 2825 |
 | 11 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | LUXIM d.o.o. |  | Slovenia | 2715 |
-| 12 | [majazaloznik](https://github.com/majazaloznik) | maja | ox.ac.uk |  | oxford--ljubljana | 2581 |
-| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
-| 14 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2351 |
+| 12 | [OBattler](https://github.com/OBattler) | Miran Grča |  |  | Koper, Slovenia | 2657 |
+| 13 | [majazaloznik](https://github.com/majazaloznik) | maja | ox.ac.uk |  | oxford--ljubljana | 2581 |
+| 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič |  |  | Ptuj, Slovenia | 2397 |
 | 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Flint SI |  | Slovenia | 2344 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Tacko |  | Slovenia | 2171 |
 | 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | @canonical @lxc  |  | Ljubljana | 2097 |

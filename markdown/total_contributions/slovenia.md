@@ -1,12 +1,12 @@
 # Total Contributions - Slovenia
 
-Generated: 2026-10-14T15:52:01.894Z
+Generated: 2026-10-14T17:52:30.084Z
 
 Users: 3101
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi |  |  | Ljubljana, Slovenia | 29433 |
+| 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Almadar |  | Ljubljana, Slovenia | 32477 |
 | 2 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Unified Sense |  | Slovenia | 16440 |
 | 3 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Ljubljana |  | Slovenia | 13573 |
 | 4 | [bobalazek](https://github.com/bobalazek) | Borut Balazek |  |  | Slovenia, Europe | 13109 |

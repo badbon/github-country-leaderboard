@@ -1,6 +1,6 @@
 # Total Contributions - Jersey
 
-Generated: 2026-10-14T16:42:24.106Z
+Generated: 2026-10-14T18:44:52.102Z
 
 Users: 139
 
@@ -15,14 +15,14 @@ Users: 139
 | 7 | [danielmullin](https://github.com/danielmullin) | Daniel Mullin | inshore Ltd | danielmullin | Jersey | 4644 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey |  |  | Jersey, Channel Islands | 4273 |
 | 9 | [wildgeodude](https://github.com/wildgeodude) | Dominic Samphier | Pinpoint |  | Jersey | 4111 |
-| 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 3435 |
+| 10 | [digitalbuddha](https://github.com/digitalbuddha) | Mike Nakhimovich | @Twitter | FriendlyMikhail | The dirty (jersey) | 3481 |
 | 11 | [oidz1234](https://github.com/oidz1234) | Mark McNally |  | mark_mcnally_je | Jersey | 3355 |
 | 12 | [r-moore](https://github.com/r-moore) | Richard Moore | @EWG-Group  |  | Jersey | 3307 |
 | 13 | [cjkmcc](https://github.com/cjkmcc) | Chris McCarthy | @Circlr-io |  | Jersey / London | 2897 |
 | 14 | [TafadzwaD](https://github.com/TafadzwaD) | Tafadzwa Demba | Tiphar Solutions |  | Jersey | 2391 |
-| 15 | [samjamead](https://github.com/samjamead) | Sam Mead |  |  | Grouville, Jersey | 1738 |
+| 15 | [samjamead](https://github.com/samjamead) | Sam Mead |  |  | Grouville, Jersey | 1744 |
 | 16 | [jackleriche](https://github.com/jackleriche) | Jack Le Riche | @vaiie  |  | Jersey | 1625 |
 | 17 | [alexleach](https://github.com/alexleach) | ALB.Leach | ITC Bio |  | Jersey, UK | 1425 |
-| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 1395 |
+| 18 | [JoshCollis](https://github.com/JoshCollis) | Josh Collis | Newtel Limited |  | Jersey | 1399 |
 | 19 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | Sephora UK | MrCJJackson | St. Clement, Jersey | 1148 |
 | 20 | [cheiler](https://github.com/cheiler) | Christian Heiler |  |  | St. Helier, Jersey | 948 |

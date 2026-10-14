@@ -1,8 +1,8 @@
 # Followers - Bangladesh
 
-Generated: 2026-10-14T16:13:19.361Z
+Generated: 2026-10-14T18:14:38.843Z
 
-Users: 55314
+Users: 55321
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 55314
 | 8 | [JubayerRiyad](https://github.com/JubayerRiyad) | Jubayer Riyad | Jubayer Riyad | JubayerRiyad | Bangladesh | 5623 |
 | 9 | [shovoalways](https://github.com/shovoalways) | Ali Hossain | aliHossain Academy | shovoalways | Bangladesh | 3713 |
 | 10 | [mrhm-dev](https://github.com/mrhm-dev) | HM Nayem | @Stack-Learner  | mrhm_dev | Dhaka, Bangladesh | 3654 |
-| 11 | [nafiul-afk](https://github.com/nafiul-afk) | Nafiul Islam |  | NafiulAfk | Dhaka, Bangladesh | 3355 |
+| 11 | [nafiul-afk](https://github.com/nafiul-afk) | Nafiul Islam |  | NafiulAfk | Dhaka, Bangladesh | 3382 |
 | 12 | [rahmantamim11](https://github.com/rahmantamim11) | Rahman Tamim | Algrowvert |  | Bangladesh | 2932 |
 | 13 | [KasRoudra](https://github.com/KasRoudra) | Roudra Sarker |  | Kas_Roudra | Dhaka, Bangladesh | 2600 |
 | 14 | [md-sazzadul-islam](https://github.com/md-sazzadul-islam) | Md Sazzadul islam | Super Star Group (SSG) | sazzadul1 | Dhaka, Bangladesh | 2352 |

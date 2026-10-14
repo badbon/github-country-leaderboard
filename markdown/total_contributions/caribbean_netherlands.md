@@ -1,12 +1,12 @@
 # Total Contributions - Caribbean Netherlands
 
-Generated: 2026-10-14T16:20:15.741Z
+Generated: 2026-10-14T18:21:36.153Z
 
 Users: 13
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | @BonDataNL |  | Kralendijk | 154 |
+| 1 | [debruijn](https://github.com/debruijn) | Bert de Bruijn | @BonDataNL |  | Kralendijk | 155 |
 | 2 | [Blossoming-Truth](https://github.com/Blossoming-Truth) | ✦ . Viv/Viverie ! | ✦ . ALL OF MY FRENS ILY !! MY BSFS? ILYSM !! bro pls dont wever quit |  | Usually with frens/alone ., but find me in the bottom right corner of map ! Or anywhere idk | 62 |
 | 3 | [IanLKaplan](https://github.com/IanLKaplan) | Ian Kaplan | Topstone Software Consulting |  | Bonaire, Caribbean Netherlands  | 16 |
 | 4 | [dotxnc](https://github.com/dotxnc) | .xnc |  |  | the bottom of a bottle | 1 |

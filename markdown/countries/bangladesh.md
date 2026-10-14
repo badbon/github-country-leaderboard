@@ -1,6 +1,6 @@
 # Bangladesh
 
-Indexed users: 55,314
+Indexed users: 55,321
 
 | Leaderboard | Link |
 |---|---|
@@ -72,7 +72,7 @@ Indexed users: 55,314
 | 8 | [JubayerRiyad](https://github.com/JubayerRiyad) | Jubayer Riyad | Bangladesh | 5,623 |
 | 9 | [shovoalways](https://github.com/shovoalways) | Ali Hossain | Bangladesh | 3,713 |
 | 10 | [mrhm-dev](https://github.com/mrhm-dev) | HM Nayem | Dhaka, Bangladesh | 3,654 |
-| 11 | [nafiul-afk](https://github.com/nafiul-afk) | Nafiul Islam | Dhaka, Bangladesh | 3,355 |
+| 11 | [nafiul-afk](https://github.com/nafiul-afk) | Nafiul Islam | Dhaka, Bangladesh | 3,382 |
 | 12 | [rahmantamim11](https://github.com/rahmantamim11) | Rahman Tamim | Bangladesh | 2,932 |
 | 13 | [KasRoudra](https://github.com/KasRoudra) | Roudra Sarker | Dhaka, Bangladesh | 2,600 |
 | 14 | [md-sazzadul-islam](https://github.com/md-sazzadul-islam) | Md Sazzadul islam | Dhaka, Bangladesh | 2,352 |
@@ -83,4 +83,4 @@ Indexed users: 55,314
 | 19 | [hasancse91](https://github.com/hasancse91) | Abdullah Al Hasan | Dhaka, Bangladesh | 1,916 |
 | 20 | [raufurislam](https://github.com/raufurislam) | Raufur Islam | Jamalpur Sadar Upazila, Bangladesh | 1,822 |
 
-Generated: 2026-10-14T16:13:19.361Z
+Generated: 2026-10-14T18:14:38.843Z

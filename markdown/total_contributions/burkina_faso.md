@@ -1,6 +1,6 @@
 # Total Contributions - Burkina Faso
 
-Generated: 2026-10-14T16:18:58.225Z
+Generated: 2026-10-14T18:18:54.353Z
 
 Users: 487
 
@@ -12,8 +12,8 @@ Users: 487
 | 4 | [Rafik226](https://github.com/Rafik226) | Oumar Abdoul Rafik Sawadogo |  | rafikcodeur | Burkina Faso, Kadiogo, Ouagadougou | 4403 |
 | 5 | [Y4NN777](https://github.com/Y4NN777) | Ragnang-Newende Yanis Axel DABO | @Y7-Labs  |  | Burkina Faso | 3949 |
 | 6 | [sokevinjonas](https://github.com/sokevinjonas) | SO Kevin Jonas Gningnabe | KGSLAB |  | BURKINA FASO | 3921 |
-| 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 3833 |
-| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3623 |
+| 7 | [nanaelie](https://github.com/nanaelie) | Nana Elie  |  | pyfs_dev | Burkina Faso / Bobo Dioulasso | 3835 |
+| 8 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 3646 |
 | 9 | [serge-eric-kalaga](https://github.com/serge-eric-kalaga) | KALAGA Serge Eric | Ticanalyse |  | Ouagadougou, Burkina Faso 🇧🇫 | 2797 |
 | 10 | [ao627515](https://github.com/ao627515) | Abdoul Aziz Ouedraogo | ODG Enterprise |  | Ouagadougou, Burkina Faso | 2662 |
 | 11 | [ArielShadrac](https://github.com/ArielShadrac) | Ouedraogo Fildouindé Ariel Shadrac | Xcept-Health |  | Burkina Faso | 2334 |

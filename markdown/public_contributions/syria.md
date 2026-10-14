@@ -1,8 +1,8 @@
 # Public Contributions - Syria
 
-Generated: 2026-10-14T15:55:53.476Z
+Generated: 2026-10-14T18:42:48.731Z
 
-Users: 1480
+Users: 1481
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,7 +10,7 @@ Users: 1480
 | 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka |  |  | Damascus - SY | 2853 |
 | 3 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati |  |  | Damascus, Syria | 2001 |
 | 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem |  |  | Latakia, Syria | 1676 |
-| 5 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1630 |
+| 5 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan |  |  | Syria, Damascus | 1525 |
 | 6 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  |  |  | syria | 1498 |
 | 7 | [M7MMAD-OMAR](https://github.com/M7MMAD-OMAR) | Muhmad | Sbarah |  | Syria | 1474 |
 | 8 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | رؤيَة رقَميَّة |  | Syria | 1323 |

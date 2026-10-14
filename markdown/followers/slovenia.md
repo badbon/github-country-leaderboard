@@ -1,6 +1,6 @@
 # Followers - Slovenia
 
-Generated: 2026-10-14T15:52:01.894Z
+Generated: 2026-10-14T17:52:30.084Z
 
 Users: 3101
 
@@ -13,7 +13,7 @@ Users: 3101
 | 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | @armbian  |  | Ljubljana | 916 |
 | 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov |  |  | Koper, Slovenia | 627 |
 | 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | SentinelOne \| Previously: Scalyr, Extreme Networks, Brocade, StackStorm, Rackspace, etc. |  | Ljubljana, Slovenia | 614 |
-| 8 | [CANopenNode](https://github.com/CANopenNode) | Janez |  |  | Slovenia | 603 |
+| 8 | [CANopenNode](https://github.com/CANopenNode) | Janez |  |  | Slovenia | 609 |
 | 9 | [matej](https://github.com/matej) | Matej Bukovinski | PSPDFKit | bukovinski | Ljubljana, Slovenia | 414 |
 | 10 | [maticzav](https://github.com/maticzav) | Matic Zavadlal |  | maticzav | Ljubljana, Slovenia | 388 |
 | 11 | [titpetric](https://github.com/titpetric) | Tit Petric |  |  | Ljubljana, Slovenia | 332 |

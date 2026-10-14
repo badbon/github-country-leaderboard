@@ -1,6 +1,6 @@
 # Public Contributions - Georgia
 
-Generated: 2026-10-14T16:07:30.176Z
+Generated: 2026-10-14T18:06:54.172Z
 
 Users: 6895
 
@@ -18,11 +18,11 @@ Users: 6895
 | 10 | [prolix-oc](https://github.com/prolix-oc) | Prolix OCs |  | prolix_gg | Georgia | 4064 |
 | 11 | [explosivebit](https://github.com/explosivebit) | Eli Rum | ForgePlan |  | Tbilisi | 3960 |
 | 12 | [jkomyno](https://github.com/jkomyno) | Alberto Schiabel | @composioHQ | jkomyno | Tbilisi, Georgia | 3522 |
-| 13 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
-| 14 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
-| 15 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
-| 16 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
-| 17 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
-| 18 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |
-| 19 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |
-| 20 | [Mamaduka](https://github.com/Mamaduka) | George Mamadashvili |  | Mamaduka | Tbilisi, Georgia | 2971 |
+| 13 | [ivanopcode](https://github.com/ivanopcode) | Ivan | @wildberries-tech |  | Tbilisi | 3453 |
+| 14 | [pozitronik](https://github.com/pozitronik) | Pavel Dubrovsky | Freelancer |  | Tbilisi | 3442 |
+| 15 | [andrinoff](https://github.com/andrinoff) | Drew Smirnoff | @charmbracelet | andrin0ff | Tbilisi | 3344 |
+| 16 | [NSchatz](https://github.com/NSchatz) | Noah Schatz |  |  | Georgia | 3307 |
+| 17 | [Khizanag](https://github.com/Khizanag) | Giga Khizanishvili | Space International | Khizanag | Tbilisi, Georgia | 3085 |
+| 18 | [Nikushhaa](https://github.com/Nikushhaa) | Nikushhaa Developer \| AI • Web • Software |  |  | 📍 Georgia | 3054 |
+| 19 | [ilobilo](https://github.com/ilobilo) | ilobilo |  |  | Georgia | 3041 |
+| 20 | [skulidropek](https://github.com/skulidropek) | Skuli Dropek |  |  | Tbilisi | 3036 |

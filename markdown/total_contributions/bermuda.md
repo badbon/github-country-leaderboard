@@ -1,6 +1,6 @@
 # Total Contributions - Bermuda
 
-Generated: 2026-10-14T16:16:12.139Z
+Generated: 2026-10-14T18:15:30.190Z
 
 Users: 899
 
@@ -16,8 +16,8 @@ Users: 899
 | 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | @Automattic  |  | Hamilton, Indiana | 7325 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink |  |  | Hamilton, ON | 6550 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | @DeBoerTool  |  | Hamilton, Ontario | 6305 |
-| 11 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 5990 |
-| 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 5969 |
+| 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | @squareup  | mattgrande | Hamilton, Ontario | 6051 |
+| 12 | [Noprop](https://github.com/Noprop) | Greg Forster |  |  | Hamilton | 5990 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Solodigitalis |  | Hamilton | 5544 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum |  |  | Hamilton, Ontario | 4997 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | https://radixils.com |  | Bermuda | 4946 |

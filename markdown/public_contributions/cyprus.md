@@ -1,6 +1,6 @@
 # Public Contributions - Cyprus
 
-Generated: 2026-10-14T16:23:59.156Z
+Generated: 2026-10-14T18:26:49.176Z
 
 Users: 2731
 
@@ -23,6 +23,6 @@ Users: 2731
 | 15 | [nekto007](https://github.com/nekto007) | Igor |  | Nekto_007 | Limassol, Cyprus | 2695 |
 | 16 | [VISTALL](https://github.com/VISTALL) | Valery Semenchuk | @consulo | vistall_valery | Cyprus | 2670 |
 | 17 | [psoldunov](https://github.com/psoldunov) | Philipp Soldunov | Lead Dev @boundary-digital / Building @ensemblr-hq |  | Limassol, Cyprus | 2614 |
-| 18 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 2444 |
-| 19 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray |  |  | Cyprus | 2361 |
-| 20 | [slima4](https://github.com/slima4) | Artem Senenko |  |  | Nicosia, Cyprus | 2345 |
+| 18 | [eg013ra1n](https://github.com/eg013ra1n) | Vilen Sharifov |  | sharifov | Cyprus | 2593 |
+| 19 | [AxGord](https://github.com/AxGord) | Alexander Gordeyko |  | axgord | Limassol, Cyprus | 2444 |
+| 20 | [MMMikeM](https://github.com/MMMikeM) | Mike Murray |  |  | Cyprus | 2361 |

@@ -1,6 +1,6 @@
 # Public Contributions - Yemen
 
-Generated: 2026-10-14T16:07:16.616Z
+Generated: 2026-10-14T18:06:01.853Z
 
 Users: 1206
 
@@ -24,5 +24,5 @@ Users: 1206
 | 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Hadramout |  | Yemen | 932 |
 | 17 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | DataTrans - Obeikan Digital Solution |  | sana'a  | 879 |
 | 18 | [yswef](https://github.com/yswef) | yswef alhmzy | @alphacode-ye  |  | yemen | 835 |
-| 19 | [O2sa](https://github.com/O2sa) | Osama Mabkhot |  | o22sam | Yemen | 694 |
-| 20 | [HassanY1010](https://github.com/HassanY1010) | Hassan |  |  | Yemen | 683 |
+| 19 | [ENG-BXI](https://github.com/ENG-BXI) | Abdulrhman Muneer Khamees Al-Jaeeidi \| عبدالرحمن منير خميس الجعيدي | Self Employee |  | YEMEN | 694 |
+| 20 | [O2sa](https://github.com/O2sa) | Osama Mabkhot |  | o22sam | Yemen | 694 |

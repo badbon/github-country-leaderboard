@@ -1,6 +1,6 @@
 # Followers - Cameroon
 
-Generated: 2026-10-14T16:19:40.984Z
+Generated: 2026-10-14T18:20:57.235Z
 
 Users: 1797
 
@@ -20,9 +20,9 @@ Users: 1797
 | 12 | [wisdom2608](https://github.com/wisdom2608) | Julius |  |  | Buea, Cameroon | 242 |
 | 13 | [tegha-romeo](https://github.com/tegha-romeo) | tegha-romeo | student at GIS Training Center |  | Bangante, Cameroon | 238 |
 | 14 | [Daniel-TheProgrammer](https://github.com/Daniel-TheProgrammer) | Nji Daniel  | @DANIEL-THE-PROGRAMMER  | DTP_237 | Buea,Cameroon | 226 |
-| 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | @Wikimedia |  | Buea, Cameroon | 223 |
+| 15 | [xSavitar](https://github.com/xSavitar) | Derick Alangi | @hallowelt @wikimedia |  | Buea, Cameroon | 225 |
 | 16 | [yunweneric](https://github.com/yunweneric) | Yunweneric | togeva.com | Yunweneric | Douala, Cameroon | 221 |
 | 17 | [Clovremix](https://github.com/Clovremix) |  |  | HonClovis | Yaounde Cameroon  | 179 |
-| 18 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | NexoPOS Solutions, @Tendoo  | blairjersyer | Cameroon. Yaoundé | 171 |
+| 18 | [Blair2004](https://github.com/Blair2004) | Blair Jersyer | NexoPOS Solutions, @Tendoo  | blairjersyer | Cameroon. Yaoundé | 174 |
 | 19 | [baimamboukar](https://github.com/baimamboukar) | BAIMAM BOUKAR JEAN JACQUES | Carnegie Mellon University | baimamboukarr | Yaoundé | 170 |
 | 20 | [Suprememajor](https://github.com/Suprememajor) | Nobert Etta |  | NobertEtta | Buea, Cameroon | 170 |

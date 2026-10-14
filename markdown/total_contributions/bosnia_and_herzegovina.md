@@ -1,6 +1,6 @@
 # Total Contributions - Bosnia and Herzegovina
 
-Generated: 2026-10-14T16:17:30.317Z
+Generated: 2026-10-14T18:16:57.522Z
 
 Users: 2128
 
@@ -22,7 +22,7 @@ Users: 2128
 | 14 | [robo58](https://github.com/robo58) | Robert Sliskovic |  |  | Siroki Brijeg,Bosnia and Herzegovina | 5452 |
 | 15 | [aprohic](https://github.com/aprohic) |  |  |  | Sarajevo | 5224 |
 | 16 | [jasminsuljic](https://github.com/jasminsuljic) | Jasmin Suljic | @MonriPayments  |  | Sarajevo, Bosnia and Herzegovina | 5056 |
-| 17 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |
-| 18 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | @ministryofprogramming  |  | Sarajevo | 4294 |
-| 19 | [eldar6776](https://github.com/eldar6776) | DoE |  |  | Sarajevo Bosna i Hercegovina | 4134 |
-| 20 | [amarbeslija](https://github.com/amarbeslija) | Amar Bešlija | lab387.com |  | Sarajevo, Bosnia and Herzegovina | 4133 |
+| 17 | [sake92](https://github.com/sake92) | Sakib Hadžiavdić | @sacode387  |  | Sarajevo, Bosnia | 4641 |
+| 18 | [ribice](https://github.com/ribice) | Emir Ribić | @caseconnect-ai |  | Sarajevo | 4359 |
+| 19 | [KenanHrnjic](https://github.com/KenanHrnjic) | Kenan Hrnjic | @ministryofprogramming  |  | Sarajevo | 4294 |
+| 20 | [eldar6776](https://github.com/eldar6776) | DoE |  |  | Sarajevo Bosna i Hercegovina | 4134 |

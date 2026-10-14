@@ -22,8 +22,8 @@ Indexed users: 899
 | 8 | [brandonpayton](https://github.com/brandonpayton) | Brandon Payton | Hamilton, Indiana | 7,325 |
 | 9 | [keithbrink](https://github.com/keithbrink) | Keith Brink | Hamilton, ON | 6,550 |
 | 10 | [danielsdeboer](https://github.com/danielsdeboer) | Daniel S. Deboer | Hamilton, Ontario | 6,305 |
-| 11 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 5,990 |
-| 12 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 5,969 |
+| 11 | [mattgrande](https://github.com/mattgrande) | Matt Grande | Hamilton, Ontario | 6,051 |
+| 12 | [Noprop](https://github.com/Noprop) | Greg Forster | Hamilton | 5,990 |
 | 13 | [nckdhl](https://github.com/nckdhl) | Nick Dahl | Hamilton | 5,544 |
 | 14 | [rdaum](https://github.com/rdaum) | Ryan Daum | Hamilton, Ontario | 4,997 |
 | 15 | [dbactual](https://github.com/dbactual) | Dave Berton | Bermuda | 4,946 |
@@ -83,4 +83,4 @@ Indexed users: 899
 | 19 | [feilongcheng](https://github.com/feilongcheng) | Felix | Hamilton, NZ | 85 |
 | 20 | [wittjosiah](https://github.com/wittjosiah) | Josiah Witt | Hamilton, ON | 67 |
 
-Generated: 2026-10-14T16:16:12.139Z
+Generated: 2026-10-14T18:15:30.190Z

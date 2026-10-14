@@ -55,7 +55,7 @@ Indexed users: 1,578
 | 16 | [odinndagur](https://github.com/odinndagur) | Óðinn Dagur Bjarnason | Reykjavík, Iceland | 1,449 |
 | 17 | [gasvaktin](https://github.com/gasvaktin) | Gasvaktin | Iceland | 1,408 |
 | 18 | [zveinn](https://github.com/zveinn) | Sveinn ( keyb1nd ) | Iceland | 1,376 |
-| 19 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,265 |
+| 19 | [Max77788](https://github.com/Max77788) | Max Mat | Iceland | 1,261 |
 | 20 | [tungufoss](https://github.com/tungufoss) | Helga Ingimundardóttir | Iceland | 1,234 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,578
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-14T16:39:55.374Z
+Generated: 2026-10-14T18:42:05.942Z

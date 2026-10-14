@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Indexed users: 3,308
+Indexed users: 3,307
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 3,308
 | 14 | [XavielT](https://github.com/XavielT) | Xaviel Terrero | Dominican Republic | 1,718 |
 | 15 | [franklinmdev](https://github.com/franklinmdev) | Franklin Martinez | Dominican Republic | 1,622 |
 | 16 | [oliverdiaz873](https://github.com/oliverdiaz873) | Oliver Antonio Diaz | Santo Domingo | 1,545 |
-| 17 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 1,473 |
-| 18 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
-| 19 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 1,348 |
-| 20 | [EdgarJr30](https://github.com/EdgarJr30) | Edgar Pérez | Dominican Republic | 1,308 |
+| 17 | [ctorressoftware](https://github.com/ctorressoftware) | Carlos Torres | Dominican Republic | 1,508 |
+| 18 | [adelrodriguez](https://github.com/adelrodriguez) | Adel Rodríguez | Dominican Republic | 1,473 |
+| 19 | [Rudxain](https://github.com/Rudxain) | Ricardo Fernández Serrata | Dominican Republic | 1,417 |
+| 20 | [eburgos](https://github.com/eburgos) | Eduardo Burgos | Santo Domingo, DN, Dominican Republic | 1,348 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,308
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-14T16:26:14.313Z
+Generated: 2026-10-14T18:28:07.103Z

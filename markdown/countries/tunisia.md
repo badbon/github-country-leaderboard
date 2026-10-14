@@ -1,6 +1,6 @@
 # Tunisia
 
-Indexed users: 7,192
+Indexed users: 7,191
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 7,192
 | 19 | [zied-snoussi](https://github.com/zied-snoussi) | Zied Snoussi | Tunisia | 522 |
 | 20 | [machour](https://github.com/machour) | Mehdi Achour | Tunisia | 483 |
 
-Generated: 2026-10-14T16:00:42.439Z
+Generated: 2026-10-14T17:58:58.044Z

@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,480
+Indexed users: 1,481
 
 | Leaderboard | Link |
 |---|---|
@@ -41,7 +41,7 @@ Indexed users: 1,480
 | 2 | [gaaferHajji2](https://github.com/gaaferHajji2) | Jafar Loka | Damascus - SY | 2,853 |
 | 3 | [nachawati](https://github.com/nachawati) | Mohamad Omar Nachawati | Damascus, Syria | 2,001 |
 | 4 | [assem2023-habib](https://github.com/assem2023-habib) | Assem | Latakia, Syria | 1,676 |
-| 5 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,630 |
+| 5 | [AhmadKharfan](https://github.com/AhmadKharfan) | Ahmad Kharfan | Syria, Damascus | 1,525 |
 | 6 | [ibrahimhamwi99](https://github.com/ibrahimhamwi99) | ibrahimhamwi  | syria | 1,498 |
 | 7 | [M7MMAD-OMAR](https://github.com/M7MMAD-OMAR) | Muhmad | Syria | 1,474 |
 | 8 | [royaraqamia](https://github.com/royaraqamia) | رؤيَة رقَميَّة | Syria | 1,323 |
@@ -83,4 +83,4 @@ Indexed users: 1,480
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-14T15:55:53.476Z
+Generated: 2026-10-14T18:42:48.731Z

@@ -12,7 +12,7 @@ Indexed users: 3,101
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 29,433 |
+| 1 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 32,477 |
 | 2 | [Legoless](https://github.com/Legoless) | Dal Rupnik | Slovenia | 16,440 |
 | 3 | [bl4ko](https://github.com/bl4ko) | Gasper Oblak | Slovenia | 13,573 |
 | 4 | [bobalazek](https://github.com/bobalazek) | Borut Balazek | Slovenia, Europe | 13,109 |
@@ -38,7 +38,7 @@ Indexed users: 3,101
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 9,114 |
-| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 7,269 |
+| 2 | [itechdom](https://github.com/itechdom) | Osama Alghanmi | Ljubljana, Slovenia | 8,386 |
 | 3 | [darkojelen](https://github.com/darkojelen) | darko | Ljubljana | 5,412 |
 | 4 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 4,219 |
 | 5 | [MatejGomboc](https://github.com/MatejGomboc) | Matej Gomboc | Maribor, Slovenia | 3,979 |
@@ -48,9 +48,9 @@ Indexed users: 3,101
 | 9 | [fentas](https://github.com/fentas) | Jan Guth | Slovenia | 3,035 |
 | 10 | [matejdro](https://github.com/matejdro) | Matej Drobnič | Slovenia | 2,825 |
 | 11 | [sysadminmatmoz](https://github.com/sysadminmatmoz) | Matjaz Mozetic | Slovenia | 2,715 |
-| 12 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
-| 13 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
-| 14 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,351 |
+| 12 | [OBattler](https://github.com/OBattler) | Miran Grča | Koper, Slovenia | 2,657 |
+| 13 | [majazaloznik](https://github.com/majazaloznik) | maja | oxford--ljubljana | 2,581 |
+| 14 | [aljazmc](https://github.com/aljazmc) | Aljaž Mlinarič | Ptuj, Slovenia | 2,397 |
 | 15 | [mzagozen](https://github.com/mzagozen) | Marko Zagožen | Slovenia | 2,344 |
 | 16 | [unjica](https://github.com/unjica) | Sanja Malovic | Slovenia | 2,171 |
 | 17 | [MusicDin](https://github.com/MusicDin) | Din Mušić | Ljubljana | 2,097 |
@@ -69,7 +69,7 @@ Indexed users: 3,101
 | 5 | [igorpecovnik](https://github.com/igorpecovnik) | Igor | Ljubljana | 916 |
 | 6 | [aksonov](https://github.com/aksonov) | Pavel Aksonov | Koper, Slovenia | 627 |
 | 7 | [Kami](https://github.com/Kami) | Tomaz Muraus | Ljubljana, Slovenia | 614 |
-| 8 | [CANopenNode](https://github.com/CANopenNode) | Janez | Slovenia | 603 |
+| 8 | [CANopenNode](https://github.com/CANopenNode) | Janez | Slovenia | 609 |
 | 9 | [matej](https://github.com/matej) | Matej Bukovinski | Ljubljana, Slovenia | 414 |
 | 10 | [maticzav](https://github.com/maticzav) | Matic Zavadlal | Ljubljana, Slovenia | 388 |
 | 11 | [titpetric](https://github.com/titpetric) | Tit Petric | Ljubljana, Slovenia | 332 |
@@ -83,4 +83,4 @@ Indexed users: 3,101
 | 19 | [garbas](https://github.com/garbas) | Rok Garbas | Ljubljana, Slovenia | 240 |
 | 20 | [buresdv](https://github.com/buresdv) | David Bureš | Maribor, Slovenia | 238 |
 
-Generated: 2026-10-14T15:52:01.894Z
+Generated: 2026-10-14T17:52:30.084Z

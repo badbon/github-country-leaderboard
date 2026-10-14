@@ -22,11 +22,11 @@ Indexed users: 458
 | 8 | [AntoineSebert](https://github.com/AntoineSebert) | Antoine Sébert | Antarctica | 4,659 |
 | 9 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,587 |
 | 10 | [bharxhav](https://github.com/bharxhav) | Bhargav Kantheti | antarctica | 4,187 |
-| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,983 |
+| 11 | [Rayrsn](https://github.com/Rayrsn) | Rayr | Antarctica | 3,991 |
 | 12 | [cutetux](https://github.com/cutetux) | CuteTux | Antarctica ;) | 3,879 |
 | 13 | [enriquephl](https://github.com/enriquephl) |  | Antarctica | 3,424 |
-| 14 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,250 |
-| 15 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,246 |
+| 14 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,287 |
+| 15 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,250 |
 | 16 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,832 |
 | 17 | [echo108471](https://github.com/echo108471) | Eugene Cho | Antarctica | 2,617 |
 | 18 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,574 |
@@ -40,8 +40,8 @@ Indexed users: 458
 | 1 | [JohnChristianD](https://github.com/JohnChristianD) | John Christian Domingo | Antarctica | 4,706 |
 | 2 | [Sup2point0](https://github.com/Sup2point0) | Sup#2.0 | Antarctica | 4,184 |
 | 3 | [morgaesis](https://github.com/morgaesis) | Mörgæsis | Antarctica | 3,520 |
-| 4 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,030 |
-| 5 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 2,994 |
+| 4 | [ethicnology](https://github.com/ethicnology) | Azad | Antarctica | 3,035 |
+| 5 | [lunavyqo](https://github.com/lunavyqo) | Lunavyqo | Antarctica | 3,030 |
 | 6 | [PicasoTheDeal](https://github.com/PicasoTheDeal) | Tetstack | Antarctica | 2,772 |
 | 7 | [shangyian](https://github.com/shangyian) | Yian | Antarctica | 2,143 |
 | 8 | [krwg](https://github.com/krwg) | アイダ ミール | Antarctica | 1,464 |
@@ -83,4 +83,4 @@ Indexed users: 458
 | 19 | [alphaaurigae](https://github.com/alphaaurigae) | Marian Brockerhoff | Antarctica | 85 |
 | 20 | [fakeid30](https://github.com/fakeid30) | Fake ID | Antarctica | 78 |
 
-Generated: 2026-10-14T16:11:00.547Z
+Generated: 2026-10-14T18:09:54.176Z

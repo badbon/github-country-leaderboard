@@ -1,6 +1,6 @@
 # Followers - Burkina Faso
 
-Generated: 2026-10-14T16:18:58.225Z
+Generated: 2026-10-14T18:18:54.353Z
 
 Users: 487
 
@@ -16,8 +16,8 @@ Users: 487
 | 8 | [honokini](https://github.com/honokini) | KINI Biè Honoré | Université Aube Nouvelle (New Dawn University) | HonoreKini | Burkina Faso(Bobo-Dioulasso) | 104 |
 | 9 | [bsrodrigue](https://github.com/bsrodrigue) | Badini Rachid Rodrigue |  |  | Burkina Faso - Ouagadougou | 98 |
 | 10 | [theobosomtwe](https://github.com/theobosomtwe) | Theophilus_Bosomtwe | Theojnana Tech Solution | theobosomtwe | Burkina Faso | 93 |
-| 11 | [Kidchris](https://github.com/Kidchris) | Kidchris | Passionate Developer | KidChris7 | Ouagadougou, Burkina Faso | 64 |
-| 12 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 64 |
+| 11 | [spwoodcock](https://github.com/spwoodcock) | Sam | Tech Lead @hotosm |  | Ouagadougou, Burkina Faso | 65 |
+| 12 | [Kidchris](https://github.com/Kidchris) | Kidchris | Passionate Developer | KidChris7 | Ouagadougou, Burkina Faso | 64 |
 | 13 | [wendtoinissaka](https://github.com/wendtoinissaka) |  |  |  | Ouagadougou, BURKINA FASO 🇧🇫❤️ | 57 |
 | 14 | [Zangafigue](https://github.com/Zangafigue) | Zangafigué Mathias TRAORE |  | zangafigue | Koudougou, Burkina Faso | 51 |
 | 15 | [leaston](https://github.com/leaston) | Nkuna Charles | Soft Consulting Services |  | Burkina Faso | 50 |

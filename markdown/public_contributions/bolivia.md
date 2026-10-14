@@ -1,6 +1,6 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-14T16:16:59.162Z
+Generated: 2026-10-14T18:16:51.374Z
 
 Users: 1784
 
@@ -18,11 +18,11 @@ Users: 1784
 | 10 | [olivio-git](https://github.com/olivio-git) | olivio-git |  |  | Tarija/Bolivia | 1416 |
 | 11 | [ggonzalez94](https://github.com/ggonzalez94) | Gustavo Gonzalez | @Taikoxyz | gusgonzalezs | Santa Cruz de la SIerra, Bolivia | 1399 |
 | 12 | [pachonjcl](https://github.com/pachonjcl) | Jose Carlos Laura Ramirez |  |  | La Paz, Bolivia | 1267 |
-| 13 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1225 |
-| 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
-| 15 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1219 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
-| 17 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1097 |
-| 18 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1085 |
-| 19 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |
-| 20 | [nataly-33](https://github.com/nataly-33) | Nataly Vanessa Martinez Martinez |  |  | Bolivia | 1021 |
+| 13 | [asosab](https://github.com/asosab) | Alejandro Sosa Briceño |  | asosab | Bolivia | 1225 |
+| 14 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1225 |
+| 15 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
+| 16 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1219 |
+| 17 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
+| 18 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1097 |
+| 19 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1085 |
+| 20 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |
