@@ -20012,7 +20012,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 153,
+    "publicContributions": 122,
     "createdAt": "2025-01-22T13:16:05Z"
   },
   {
@@ -20060,7 +20060,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 66,
+    "publicContributions": 65,
     "createdAt": "2025-08-25T12:27:34Z"
   },
   {
@@ -20096,7 +20096,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 12,
     "createdAt": "2025-04-24T19:12:38Z"
   },
   {
@@ -20124,27 +20124,15 @@
     "createdAt": "2025-04-20T00:58:09Z"
   },
   {
-    "login": "Gaspar2005",
-    "name": "Gaspar",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/231131257?s=72&u=f0f72795f96534f4c5043cc03f181ff41973090e&v=4",
-    "location": "Ciudad Autonoma de Buenos Aires",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 115,
-    "createdAt": "2025-09-08T23:17:12Z"
-  },
-  {
     "login": "luky2209",
     "name": "Lucas Molinari",
     "avatarUrl": "https://avatars.githubusercontent.com/u/210159252?s=72&u=d229d7a0d08ec9e8bba44d82b515a47ef99da9af&v=4",
     "location": "Buenos Aires",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 31,
     "createdAt": "2025-05-03T14:38:23Z"
   },
   {
@@ -20168,7 +20156,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 15,
     "createdAt": "2025-12-16T15:03:15Z"
   },
   {
@@ -20180,7 +20168,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 28,
     "createdAt": "2025-06-26T23:29:58Z"
   },
   {
@@ -20204,7 +20192,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 140,
     "createdAt": "2025-03-22T16:16:30Z"
   },
   {
@@ -20228,7 +20216,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2025-09-04T16:57:44Z"
   },
   {
@@ -608854,5 +608842,17 @@
     "privateContributions": 16,
     "publicContributions": 4,
     "createdAt": "2026-06-29T14:18:55Z"
+  },
+  {
+    "login": "2-che",
+    "name": "Adrian Archer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/102318848?s=72&u=fcad5357c6ddcbfdc7bb5fe7323155df65e02ade&v=4",
+    "location": "CABA, Argentina",
+    "company": "[ the empire }",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 2,
+    "createdAt": "2022-03-24T17:43:04Z"
   }
 ]

@@ -20395,32 +20395,32 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 66,
-    "publicContributions": 21,
+    "privateContributions": 67,
+    "publicContributions": 34,
     "createdAt": "2019-01-05T21:55:35Z"
   },
   {
     "login": "sunkek",
     "name": "Nikita Zotov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/47845323?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/47845323?s=72&u=fd10a7a810e0eeb332e27919a8456f09da6f2538&v=4",
     "location": "Armenia",
     "company": "HRB Software",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 143,
+    "publicContributions": 297,
     "createdAt": "2019-02-21T06:53:03Z"
   },
   {
     "login": "MamikonP",
     "name": "Mamikon Papikyan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/49882479?s=72&u=47e56213e199565050efdc082c7fef74540500e8&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/49882479?s=72&u=83d7c39e2c0761850b4808d437b982f107b62d66&v=4",
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 9,
+    "publicContributions": 6,
     "createdAt": "2019-04-22T19:28:04Z"
   },
   {
@@ -20432,7 +20432,7 @@
     "twitterUsername": "",
     "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2019-07-01T13:08:01Z"
   },
   {
@@ -20455,7 +20455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 694,
+    "privateContributions": 831,
     "publicContributions": 0,
     "createdAt": "2019-09-22T13:04:18Z"
   },
@@ -20490,9 +20490,9 @@
     "location": "Dilijan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 942,
-    "publicContributions": 7,
+    "followers": 5,
+    "privateContributions": 1194,
+    "publicContributions": 33,
     "createdAt": "2019-10-24T11:51:43Z"
   },
   {
@@ -20527,18 +20527,18 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 1,
-    "publicContributions": 21,
+    "privateContributions": 6,
+    "publicContributions": 39,
     "createdAt": "2019-02-16T08:57:37Z"
   },
   {
     "login": "LevonPython",
-    "name": "Levon",
+    "name": "LevonYeghiazaryan",
     "avatarUrl": "https://avatars.githubusercontent.com/u/52299857?s=72&u=521a8a1ee9973b8bb3e7477219b53a9de96e9c1a&v=4",
     "location": "Yerevan, Armenia",
     "company": "Fimetech LLC",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 125,
     "createdAt": "2019-06-27T21:51:21Z"
@@ -20551,7 +20551,7 @@
     "company": "Atlantics Corporation",
     "twitterUsername": "_atlantx",
     "followers": 4,
-    "privateContributions": 381,
+    "privateContributions": 334,
     "publicContributions": 3,
     "createdAt": "2019-01-27T17:29:26Z"
   },
@@ -20562,7 +20562,7 @@
     "location": "Armenia, Yerevan",
     "company": "Adobe",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 8,
     "publicContributions": 0,
     "createdAt": "2019-03-30T17:51:35Z"
@@ -20574,9 +20574,9 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 309,
-    "publicContributions": 5,
+    "followers": 5,
+    "privateContributions": 239,
+    "publicContributions": 0,
     "createdAt": "2019-02-27T11:58:06Z"
   },
   {
@@ -20611,7 +20611,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 591,
+    "privateContributions": 520,
     "publicContributions": 0,
     "createdAt": "2019-01-21T16:49:51Z"
   },

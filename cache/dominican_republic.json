@@ -20480,7 +20480,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 13,
+    "publicContributions": 12,
     "createdAt": "2019-03-15T00:30:23Z"
   },
   {
@@ -20504,7 +20504,7 @@
     "twitterUsername": "elvinsomon",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 12,
     "createdAt": "2019-05-09T03:32:37Z"
   },
   {
@@ -20515,7 +20515,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1190,
+    "privateContributions": 1290,
     "publicContributions": 0,
     "createdAt": "2019-03-31T00:31:20Z"
   },
@@ -20599,8 +20599,8 @@
     "company": "OGTIC",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 230,
-    "publicContributions": 28,
+    "privateContributions": 256,
+    "publicContributions": 19,
     "createdAt": "2019-09-26T06:14:54Z"
   },
   {
@@ -20647,8 +20647,8 @@
     "company": "EnterpriceDevelopers",
     "twitterUsername": "dilone",
     "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 1,
+    "privateContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2019-04-30T14:31:58Z"
   },
   {
@@ -20660,7 +20660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 31,
     "createdAt": "2019-06-02T02:37:43Z"
   },
   {
@@ -20677,14 +20677,14 @@
   },
   {
     "login": "joaquinganan",
-    "name": "Joaquin Ganan",
+    "name": "Joaquín Gañán",
     "avatarUrl": "https://avatars.githubusercontent.com/u/56562601?s=72&u=32a94e930e9a6b1c92acf41da159d4676ab569a5&v=4",
-    "location": "Santo Domingo, Dominican Repuublic",
+    "location": "Santo Domingo, Dominican Republic",
     "company": "",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 218,
     "createdAt": "2019-10-14T20:07:52Z"
   },
   {

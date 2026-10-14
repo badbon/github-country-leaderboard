@@ -2406,9 +2406,9 @@
     "location": "Herat,Afghanistan",
     "company": "Aqsagroup",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 3,
     "createdAt": "2025-07-30T09:21:23Z"
   },
   {
@@ -2422,18 +2422,6 @@
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2025-08-29T18:01:42Z"
-  },
-  {
-    "login": "AbdulhayMuslim",
-    "name": "Abdulhay Muslim",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/212481452?s=72&u=8ffe236d0640bc1a3cd3ac812b3f0b858ae77e56&v=4",
-    "location": "Afghanistan",
-    "company": "",
-    "twitterUsername": "AbdulhayMuslim",
-    "followers": 1,
-    "privateContributions": 206,
-    "publicContributions": 283,
-    "createdAt": "2025-05-20T05:19:28Z"
   },
   {
     "login": "Azizullah-zafari",
@@ -2600,7 +2588,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 118,
+    "publicContributions": 115,
     "createdAt": "2025-03-16T12:51:12Z"
   },
   {

@@ -19939,8 +19939,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 10,
-    "privateContributions": 312,
-    "publicContributions": 48,
+    "privateContributions": 314,
+    "publicContributions": 40,
     "createdAt": "2022-02-13T12:15:08Z"
   },
   {
@@ -19950,9 +19950,9 @@
     "location": "Tainan, Taiwan",
     "company": "National Cheng Kung University",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 2,
-    "publicContributions": 17,
+    "followers": 11,
+    "privateContributions": 6,
+    "publicContributions": 9,
     "createdAt": "2022-02-08T11:00:17Z"
   },
   {
@@ -19964,7 +19964,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 76,
     "createdAt": "2022-01-06T09:44:12Z"
   },
   {
@@ -19976,7 +19976,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 1,
     "createdAt": "2022-02-12T14:50:07Z"
   },
   {
@@ -19986,7 +19986,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 11,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-01-10T13:30:42Z"
@@ -19998,8 +19998,8 @@
     "location": "Taipei, Taiwan",
     "company": "IBM",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 14,
+    "followers": 7,
+    "privateContributions": 13,
     "publicContributions": 1,
     "createdAt": "2022-02-10T09:09:09Z"
   },
@@ -20010,7 +20010,7 @@
     "location": "Taipei, Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 10,
     "createdAt": "2022-04-27T07:23:20Z"
@@ -20022,7 +20022,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 1243,
     "createdAt": "2022-03-28T08:17:08Z"
@@ -20034,7 +20034,7 @@
     "location": "Taiwan",
     "company": "NTHU-ESS",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-26T04:57:50Z"
@@ -20046,9 +20046,9 @@
     "location": "Taiwan",
     "company": "@1001-build ",
     "twitterUsername": "alsey89",
-    "followers": 9,
-    "privateContributions": 4199,
-    "publicContributions": 118,
+    "followers": 11,
+    "privateContributions": 6483,
+    "publicContributions": 203,
     "createdAt": "2022-03-07T15:09:10Z"
   },
   {
@@ -20058,7 +20058,7 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-04-18T00:50:52Z"
@@ -20071,8 +20071,8 @@
     "company": "National Cheng Kung University",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 26,
-    "publicContributions": 24,
+    "privateContributions": 86,
+    "publicContributions": 34,
     "createdAt": "2022-01-13T04:38:41Z"
   },
   {
@@ -20082,9 +20082,9 @@
     "location": "Taipei, Taiwan",
     "company": "National Chengchi University",
     "twitterUsername": "",
-    "followers": 9,
-    "privateContributions": 56,
-    "publicContributions": 108,
+    "followers": 8,
+    "privateContributions": 21,
+    "publicContributions": 82,
     "createdAt": "2022-02-04T11:16:51Z"
   },
   {
@@ -20095,8 +20095,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 301,
-    "publicContributions": 3,
+    "privateContributions": 315,
+    "publicContributions": 5,
     "createdAt": "2022-06-05T07:20:35Z"
   },
   {
@@ -20106,21 +20106,21 @@
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
-    "followers": 9,
+    "followers": 14,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 161,
     "createdAt": "2022-03-18T13:55:17Z"
   },
   {
     "login": "ken0814",
     "name": "ken li",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/103400040?s=72&u=ceeb645ae87fed1f0e2626cc3e6472d0a9d88239&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/103400040?s=72&u=b2466992d73204436b547bfdb0b52a0ef8fc92bc&v=4",
     "location": "Taiwan",
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 1289,
-    "publicContributions": 6,
+    "privateContributions": 1431,
+    "publicContributions": 0,
     "createdAt": "2022-04-11T03:17:38Z"
   },
   {
@@ -20130,7 +20130,7 @@
     "location": "Taipei, Taiwan",
     "company": "ORing Industrial Networking Corp.",
     "twitterUsername": "ArcherH11",
-    "followers": 8,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2022-06-10T09:59:37Z"
@@ -20143,7 +20143,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 8,
-    "privateContributions": 187,
+    "privateContributions": 275,
     "publicContributions": 44,
     "createdAt": "2022-04-17T11:53:13Z"
   },

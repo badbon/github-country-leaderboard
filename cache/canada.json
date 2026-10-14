@@ -564780,18 +564780,6 @@
     "createdAt": "2019-08-08T13:25:47Z"
   },
   {
-    "login": "FLVieira",
-    "name": "Fábio Vieira",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/53447610?s=72&u=24441c018f31a55593fa018d1cb11d09232e546c&v=4",
-    "location": "Canada",
-    "company": "Plathanus & Chave7",
-    "twitterUsername": "",
-    "followers": 14,
-    "privateContributions": 1284,
-    "publicContributions": 11,
-    "createdAt": "2019-07-29T18:45:15Z"
-  },
-  {
     "login": "Ibrajber99",
     "name": "Ibrahim Jaber",
     "avatarUrl": "https://avatars.githubusercontent.com/u/53438581?s=72&u=a453861a1213181c41b97079730c60a4ced752a1&v=4",
@@ -1344524,7 +1344512,7 @@
     "twitterUsername": "",
     "followers": 109,
     "privateContributions": 470,
-    "publicContributions": 7979,
+    "publicContributions": 7980,
     "createdAt": "2013-01-11T19:27:18Z"
   },
   {
@@ -1354903,7 +1354891,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 34,
-    "privateContributions": 22301,
+    "privateContributions": 22310,
     "publicContributions": 3,
     "createdAt": "2013-02-27T13:51:34Z"
   },
@@ -1354999,7 +1354987,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 33,
-    "privateContributions": 1893,
+    "privateContributions": 1896,
     "publicContributions": 0,
     "createdAt": "2013-03-11T14:44:26Z"
   },
@@ -1371810,7 +1371798,7 @@
     "location": "Ottawa, Canada",
     "company": "@bluesky-social ",
     "twitterUsername": "",
-    "followers": 1656,
+    "followers": 1657,
     "privateContributions": 1542,
     "publicContributions": 325,
     "createdAt": "2013-06-18T22:39:16Z"
@@ -1380344,7 +1380332,7 @@
     "twitterUsername": "",
     "followers": 72,
     "privateContributions": 795,
-    "publicContributions": 144,
+    "publicContributions": 145,
     "createdAt": "2013-08-15T01:03:50Z"
   },
   {
@@ -1380715,7 +1380703,7 @@
     "company": "NetBox Labs",
     "twitterUsername": "",
     "followers": 39,
-    "privateContributions": 3430,
+    "privateContributions": 3431,
     "publicContributions": 151,
     "createdAt": "2013-07-08T14:51:00Z"
   },
@@ -1424863,7 +1424851,7 @@
     "company": "Shopify",
     "twitterUsername": "",
     "followers": 127,
-    "privateContributions": 2840,
+    "privateContributions": 2846,
     "publicContributions": 1,
     "createdAt": "2013-09-18T15:25:30Z"
   },
@@ -1424935,7 +1424923,7 @@
     "company": "SardineAI",
     "twitterUsername": "",
     "followers": 72,
-    "privateContributions": 1137,
+    "privateContributions": 1141,
     "publicContributions": 1,
     "createdAt": "2013-03-11T06:45:28Z"
   },

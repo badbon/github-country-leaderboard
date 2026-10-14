@@ -20107,8 +20107,8 @@
     "company": "Code Institute",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 58,
-    "publicContributions": 17,
+    "privateContributions": 59,
+    "publicContributions": 13,
     "createdAt": "2023-01-16T12:13:55Z"
   },
   {
@@ -20119,8 +20119,8 @@
     "company": "Equal1",
     "twitterUsername": "",
     "followers": 9,
-    "privateContributions": 21,
-    "publicContributions": 58,
+    "privateContributions": 73,
+    "publicContributions": 35,
     "createdAt": "2023-09-08T15:51:09Z"
   },
   {
@@ -20154,8 +20154,8 @@
     "location": "Dublin",
     "company": "MongoDB",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 12,
+    "followers": 7,
+    "privateContributions": 13,
     "publicContributions": 2,
     "createdAt": "2023-09-13T12:21:59Z"
   },
@@ -20166,9 +20166,9 @@
     "location": "Dublin",
     "company": "@draios ",
     "twitterUsername": "",
-    "followers": 8,
-    "privateContributions": 241,
-    "publicContributions": 8,
+    "followers": 5,
+    "privateContributions": 205,
+    "publicContributions": 4,
     "createdAt": "2023-07-31T10:29:34Z"
   },
   {
@@ -20192,7 +20192,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 5,
     "createdAt": "2023-01-23T21:10:32Z"
   },
   {
@@ -20202,22 +20202,10 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 142,
-    "publicContributions": 389,
+    "followers": 10,
+    "privateContributions": 39,
+    "publicContributions": 360,
     "createdAt": "2023-01-31T14:54:44Z"
-  },
-  {
-    "login": "luciabrown",
-    "name": "Lucia Brown",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128033551?s=72&u=5dfb36db899da3114f57016dbbcdeac7516f954a&v=4",
-    "location": "Dublin",
-    "company": "Trinity College Dublin",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 63,
-    "publicContributions": 618,
-    "createdAt": "2023-03-16T08:50:53Z"
   },
   {
     "login": "CaioJacob",
@@ -20228,7 +20216,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 181,
+    "publicContributions": 72,
     "createdAt": "2023-10-09T12:30:37Z"
   },
   {
@@ -20239,8 +20227,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 13,
-    "publicContributions": 267,
+    "privateContributions": 8,
+    "publicContributions": 343,
     "createdAt": "2023-10-31T15:45:26Z"
   },
   {
@@ -20252,7 +20240,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 15,
+    "publicContributions": 17,
     "createdAt": "2023-08-28T12:54:58Z"
   },
   {
@@ -20262,9 +20250,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-02-22T17:49:19Z"
   },
   {
@@ -20276,7 +20264,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 339,
+    "publicContributions": 177,
     "createdAt": "2022-12-31T02:57:04Z"
   },
   {
@@ -20286,9 +20274,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "davidwrossiter",
-    "followers": 6,
-    "privateContributions": 3024,
-    "publicContributions": 45,
+    "followers": 7,
+    "privateContributions": 4235,
+    "publicContributions": 44,
     "createdAt": "2023-01-23T15:34:47Z"
   },
   {
@@ -20299,21 +20287,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 5,
-    "publicContributions": 6,
+    "privateContributions": 4,
+    "publicContributions": 11,
     "createdAt": "2023-11-07T16:17:03Z"
-  },
-  {
-    "login": "tiagoluis12",
-    "name": "Tiago Luis",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/128226293?s=72&u=db1cacd9527170e20a9fbd620be57127ccca4f1c&v=4",
-    "location": "Dublin. IE",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 7,
-    "publicContributions": 9,
-    "createdAt": "2023-03-18T11:22:21Z"
   },
   {
     "login": "elizabeth-yixin",
@@ -20334,9 +20310,9 @@
     "location": "Dublin",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 26,
     "createdAt": "2023-02-02T18:30:54Z"
   },
   {

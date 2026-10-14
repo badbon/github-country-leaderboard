@@ -20455,7 +20455,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 41,
+    "privateContributions": 23,
     "publicContributions": 20,
     "createdAt": "2023-02-08T17:40:43Z"
   },
@@ -20516,7 +20516,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2023-09-14T11:03:05Z"
   },
   {
@@ -20564,7 +20564,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 1,
     "createdAt": "2023-08-23T02:50:35Z"
   },
   {
@@ -20600,7 +20600,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 41,
+    "publicContributions": 46,
     "createdAt": "2023-01-13T14:07:09Z"
   },
   {
@@ -20610,22 +20610,10 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 223,
-    "publicContributions": 388,
+    "followers": 2,
+    "privateContributions": 250,
+    "publicContributions": 395,
     "createdAt": "2023-08-16T10:58:16Z"
-  },
-  {
-    "login": "DeyanAleksandrov",
-    "name": "Deyan Aleksandrov",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/154365605?s=72&u=da3e5c54076bcc43b3a2800b417e8b519a2dc3af&v=4",
-    "location": "Sofia",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2023-12-19T18:12:27Z"
   },
   {
     "login": "SS-Stefanov1",
@@ -20634,9 +20622,9 @@
     "location": "Sofia",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 0,
     "createdAt": "2023-06-20T14:32:44Z"
   },
   {
