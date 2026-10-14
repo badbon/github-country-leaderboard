@@ -21223,8 +21223,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3241,
-    "publicContributions": 92,
+    "privateContributions": 2262,
+    "publicContributions": 6,
     "createdAt": "2022-10-27T17:48:27Z"
   },
   {
@@ -21236,7 +21236,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 6,
     "createdAt": "2022-02-28T16:21:28Z"
   },
   {
@@ -21246,9 +21246,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 33,
+    "publicContributions": 32,
     "createdAt": "2022-03-02T12:52:36Z"
   },
   {
@@ -21260,7 +21260,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 160,
     "createdAt": "2022-02-22T07:35:27Z"
   },
   {
@@ -21271,8 +21271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 505,
-    "publicContributions": 34,
+    "privateContributions": 525,
+    "publicContributions": 16,
     "createdAt": "2022-09-28T08:54:38Z"
   },
   {
@@ -21284,7 +21284,7 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 184,
+    "publicContributions": 192,
     "createdAt": "2022-09-22T12:13:00Z"
   },
   {
@@ -21294,9 +21294,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "jarnedm05",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 486,
+    "publicContributions": 404,
     "createdAt": "2022-02-05T22:03:00Z"
   },
   {
@@ -21307,21 +21307,9 @@
     "company": "Car Wash From Home",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 3089,
-    "publicContributions": 171,
+    "privateContributions": 4076,
+    "publicContributions": 186,
     "createdAt": "2022-08-27T11:27:56Z"
-  },
-  {
-    "login": "swilmet",
-    "name": "Sébastien Wilmet",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/116598562?s=72&v=4",
-    "location": "Belgium, Europe",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 226,
-    "createdAt": "2022-10-24T20:25:06Z"
   },
   {
     "login": "arthurcornil",
@@ -21330,9 +21318,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 611,
-    "publicContributions": 93,
+    "followers": 8,
+    "privateContributions": 524,
+    "publicContributions": 146,
     "createdAt": "2022-03-31T15:58:29Z"
   },
   {
@@ -21344,19 +21332,19 @@
     "twitterUsername": "",
     "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 4,
     "createdAt": "2022-04-11T10:01:03Z"
   },
   {
     "login": "Kobe-Sapijn",
     "name": "Kobe Sapijn",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/114575912?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/114575912?s=72&u=03d42ba15a94247d3c8b5242c59f097ed7303e77&v=4",
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 678,
-    "publicContributions": 9,
+    "followers": 9,
+    "privateContributions": 672,
+    "publicContributions": 6,
     "createdAt": "2022-09-28T09:56:29Z"
   },
   {
@@ -21380,7 +21368,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 14,
     "createdAt": "2022-09-16T11:39:26Z"
   },
   {
@@ -21391,7 +21379,7 @@
     "company": "NLABS BV",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 1206,
+    "privateContributions": 1102,
     "publicContributions": 0,
     "createdAt": "2022-06-03T21:32:48Z"
   },
@@ -21403,20 +21391,20 @@
     "company": "ULB",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 825,
-    "publicContributions": 68,
+    "privateContributions": 851,
+    "publicContributions": 92,
     "createdAt": "2022-02-05T10:27:32Z"
   },
   {
     "login": "aris-mav",
-    "name": "Aristarchos Mavridis",
+    "name": "Aris Mavridis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/116081909?s=72&u=169d71f6f5a33b5f1ed74a53f7ba2e2331260bca&v=4",
     "location": "Leuven, Belgium",
     "company": "KU Leuven",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 1,
-    "publicContributions": 50,
+    "publicContributions": 48,
     "createdAt": "2022-10-18T11:58:40Z"
   },
   {
@@ -21426,8 +21414,8 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "MrOlivierdA",
-    "followers": 6,
-    "privateContributions": 45,
+    "followers": 7,
+    "privateContributions": 68,
     "publicContributions": 0,
     "createdAt": "2022-02-16T10:16:09Z"
   },
@@ -21438,9 +21426,9 @@
     "location": "Belgium",
     "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2022-10-18T09:46:45Z"
   },
   {
@@ -21452,7 +21440,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 65,
-    "publicContributions": 403,
+    "publicContributions": 260,
     "createdAt": "2022-10-26T17:00:53Z"
   },
   {

@@ -20876,7 +20876,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 22,
     "createdAt": "2022-11-06T12:08:25Z"
   },
   {
@@ -20936,7 +20936,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 24,
-    "publicContributions": 5,
+    "publicContributions": 1,
     "createdAt": "2022-06-04T01:39:33Z"
   },
   {
@@ -20959,8 +20959,8 @@
     "company": "",
     "twitterUsername": "cabaci_eth",
     "followers": 2,
-    "privateContributions": 1792,
-    "publicContributions": 28,
+    "privateContributions": 2309,
+    "publicContributions": 26,
     "createdAt": "2022-01-21T12:25:15Z"
   },
   {
@@ -20972,7 +20972,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 9,
     "createdAt": "2022-11-04T06:28:18Z"
   },
   {
@@ -20982,9 +20982,9 @@
     "location": "Hong Kong",
     "company": "Chinese University of Hong Kong",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 33,
-    "publicContributions": 82,
+    "publicContributions": 132,
     "createdAt": "2022-11-27T21:53:04Z"
   },
   {
@@ -20996,7 +20996,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 38,
+    "publicContributions": 11,
     "createdAt": "2022-03-27T21:22:24Z"
   },
   {
@@ -21019,7 +21019,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 423,
+    "privateContributions": 211,
     "publicContributions": 6,
     "createdAt": "2022-09-27T09:23:03Z"
   },
@@ -21032,19 +21032,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 26,
     "createdAt": "2022-11-04T13:46:22Z"
   },
   {
     "login": "BaiYeBuTingXuan",
-    "name": "WANG Hejun, Martin",
+    "name": "WANG Hejun, Martinez",
     "avatarUrl": "https://avatars.githubusercontent.com/u/97432514?s=72&u=cd409367fcc804b0b14942f0e73a5d683110a347&v=4",
     "location": "Hong Kong",
     "company": "The Hong Kong Polytechnic University",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 45,
+    "publicContributions": 79,
     "createdAt": "2022-01-10T07:41:37Z"
   },
   {
@@ -21054,7 +21054,7 @@
     "location": "Hong Kong, China",
     "company": "City University of Hong Kong",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2022-07-29T03:03:08Z"
@@ -21079,8 +21079,8 @@
     "company": "HKUST",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 3,
-    "publicContributions": 51,
+    "privateContributions": 0,
+    "publicContributions": 6,
     "createdAt": "2022-07-14T18:42:12Z"
   },
   {

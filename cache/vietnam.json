@@ -20556,27 +20556,15 @@
     "createdAt": "2024-02-21T08:26:29Z"
   },
   {
-    "login": "danth-ai-swe",
-    "name": "Tran Huu Dan",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192430515?s=72&u=dd19e011f9ffe0baebb099869c52ce2c3bd9c77b&v=4",
-    "location": "Nha Trang, Khanh Hoa, Viet Nam",
-    "company": "FPT Software",
-    "twitterUsername": "HuuDanDev",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 149,
-    "createdAt": "2024-12-21T12:42:31Z"
-  },
-  {
     "login": "GiaKhang1810",
     "name": "Gia Khang",
     "avatarUrl": "https://avatars.githubusercontent.com/u/167672919?s=72&u=ea22a59dc65728f80d149bd1f0655ecbc579bb85&v=4",
     "location": "Viet Nam",
     "company": "Bà Rịa - Vũng Tàu",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 46,
     "createdAt": "2024-04-21T07:23:00Z"
   },
   {
@@ -20587,7 +20575,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 427,
+    "privateContributions": 268,
     "publicContributions": 4,
     "createdAt": "2024-07-01T08:21:11Z"
   },
@@ -20600,7 +20588,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 393,
+    "publicContributions": 411,
     "createdAt": "2023-12-31T09:45:16Z"
   },
   {
@@ -20610,7 +20598,7 @@
     "location": "Ha Noi, Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-10T03:05:21Z"
@@ -20622,7 +20610,7 @@
     "location": "Ho Chi Minh City, Viet Nam",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 99,
     "createdAt": "2024-04-09T12:17:38Z"
@@ -20636,7 +20624,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 13,
     "createdAt": "2024-04-09T13:09:38Z"
   },
   {
@@ -20658,33 +20646,21 @@
     "location": "Viet Nam",
     "company": "TNC Group",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 93,
+    "publicContributions": 105,
     "createdAt": "2024-01-25T08:39:08Z"
-  },
-  {
-    "login": "Hinn27",
-    "name": "Huynh Kim Duc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/180417731?s=72&u=e5a95c8ea651969e8fe0ad0760c6a66a57c3595a&v=4",
-    "location": "Viet Nam",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 2,
-    "publicContributions": 382,
-    "createdAt": "2024-09-04T12:32:40Z"
   },
   {
     "login": "taidangduc",
     "name": "Tai Dang",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/156822314?s=72&u=3cab3959840b105a93d7171e683e464ed6ddfa04&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/156822314?s=72&u=5e3ae67ce987f5eea7894f52a81e9d6fc98cbee0&v=4",
     "location": "Viet Nam",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 67,
-    "publicContributions": 461,
+    "privateContributions": 36,
+    "publicContributions": 399,
     "createdAt": "2024-01-16T15:16:16Z"
   },
   {
@@ -20719,8 +20695,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 434,
-    "publicContributions": 1397,
+    "privateContributions": 1736,
+    "publicContributions": 1428,
     "createdAt": "2024-04-20T01:35:13Z"
   },
   {
@@ -20732,7 +20708,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 98,
+    "publicContributions": 147,
     "createdAt": "2024-02-15T16:36:50Z"
   },
   {
@@ -20756,19 +20732,19 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 20,
     "createdAt": "2024-09-23T08:40:10Z"
   },
   {
     "login": "bnabnubne",
     "name": "Nguyễn Mai Hương",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/179621374?s=72&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/179621374?s=72&u=bea819540fb400f76b326b006ac798392615a556&v=4",
     "location": "Viet Nam",
     "company": "Hanoi University of Science and Techonology",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 45,
     "createdAt": "2024-08-27T16:06:20Z"
   },
   {
@@ -20780,7 +20756,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 10,
+    "publicContributions": 3,
     "createdAt": "2024-06-22T03:56:35Z"
   },
   {

@@ -21186,7 +21186,7 @@
     "location": "La Paz, Bolivia",
     "company": "AlandiaITCorp",
     "twitterUsername": "palandia",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2009-05-06T00:14:50Z"
@@ -21233,22 +21233,22 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/25034?s=72&u=840a9be26f20c88523ac9353bc043ee5990ae94b&v=4",
     "location": "Santa Cruz de la Sierra, Bolivia",
     "company": "Humanzilla",
-    "twitterUsername": "mariocesar_bo",
-    "followers": 170,
-    "privateContributions": 0,
-    "publicContributions": 94,
+    "twitterUsername": "mariocesar_xyz",
+    "followers": 178,
+    "privateContributions": 394,
+    "publicContributions": 711,
     "createdAt": "2008-09-17T16:09:14Z"
   },
   {
     "login": "boriscy",
     "name": "Boris Barroso",
     "avatarUrl": "https://avatars.githubusercontent.com/u/38298?s=72&u=5541ee9432a3aaa19c464ad046538eb068f7f7db&v=4",
-    "location": "Samaipata, Bolivia",
+    "location": "Cochabamba, Bolivia",
     "company": "Lead With Purpose",
     "twitterUsername": "",
     "followers": 53,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2008-12-04T15:25:56Z"
   },
   {
@@ -21256,11 +21256,11 @@
     "name": "Carlos Ramos",
     "avatarUrl": "https://avatars.githubusercontent.com/u/6695?s=72&u=1751c801353b0210ea90ff6c1061aa729bad98fd&v=4",
     "location": "Bolivia",
-    "company": "",
+    "company": "Kopius",
     "twitterUsername": "carakan",
-    "followers": 49,
-    "privateContributions": 30,
-    "publicContributions": 4,
+    "followers": 51,
+    "privateContributions": 27,
+    "publicContributions": 35,
     "createdAt": "2008-04-11T17:19:03Z"
   },
   {
@@ -21270,9 +21270,9 @@
     "location": "Cochabamba, Bolivia",
     "company": "@radio-helsinki-graz",
     "twitterUsername": "",
-    "followers": 33,
+    "followers": 34,
     "privateContributions": 0,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2008-07-10T00:57:16Z"
   },
   {
@@ -21282,7 +21282,7 @@
     "location": "Bolivia",
     "company": "CesarNVF",
     "twitterUsername": "",
-    "followers": 21,
+    "followers": 19,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2008-10-04T13:29:25Z"
@@ -21294,9 +21294,9 @@
     "location": "La Paz, Bolivia",
     "company": "Segurisk SRL",
     "twitterUsername": "",
-    "followers": 20,
+    "followers": 23,
     "privateContributions": 0,
-    "publicContributions": 30,
+    "publicContributions": 34,
     "createdAt": "2008-10-07T00:44:58Z"
   },
   {
@@ -21307,8 +21307,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 0,
-    "publicContributions": 39,
+    "privateContributions": 2920,
+    "publicContributions": 101,
     "createdAt": "2008-08-21T05:06:37Z"
   },
   {
@@ -21391,7 +21391,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 0,
+    "privateContributions": 12,
     "publicContributions": 87,
     "createdAt": "2026-05-15T04:35:09Z"
   },
@@ -21404,7 +21404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 334,
+    "publicContributions": 354,
     "createdAt": "2026-06-16T20:23:35Z"
   }
 ]

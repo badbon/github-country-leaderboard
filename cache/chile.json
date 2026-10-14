@@ -21223,7 +21223,7 @@
     "company": "FCFM",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 112,
+    "privateContributions": 123,
     "publicContributions": 11,
     "createdAt": "2024-08-19T16:55:49Z"
   },
@@ -21235,8 +21235,8 @@
     "company": "CodeFusion SpA.",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5188,
-    "publicContributions": 387,
+    "privateContributions": 4277,
+    "publicContributions": 1442,
     "createdAt": "2024-07-18T14:39:35Z"
   },
   {
@@ -21248,7 +21248,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 30,
     "createdAt": "2024-07-09T15:48:12Z"
   },
   {
@@ -21284,7 +21284,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2024-09-22T04:54:19Z"
   },
   {
@@ -21306,9 +21306,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 321,
+    "followers": 1,
+    "privateContributions": 386,
+    "publicContributions": 341,
     "createdAt": "2024-08-08T19:38:08Z"
   },
   {
@@ -21356,7 +21356,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 3,
     "createdAt": "2024-07-04T15:00:22Z"
   },
   {
@@ -21380,7 +21380,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2024-11-04T12:22:35Z"
   },
   {
@@ -21390,7 +21390,7 @@
     "location": "Coquimbo, Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 26,
     "createdAt": "2024-11-06T19:04:05Z"
@@ -21403,8 +21403,8 @@
     "company": "3Clics",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 118,
+    "privateContributions": 1663,
+    "publicContributions": 131,
     "createdAt": "2024-10-28T19:07:05Z"
   },
   {
@@ -21414,9 +21414,9 @@
     "location": "Chile",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 178,
-    "publicContributions": 141,
+    "followers": 4,
+    "privateContributions": 301,
+    "publicContributions": 249,
     "createdAt": "2024-07-30T20:21:55Z"
   },
   {
@@ -21428,20 +21428,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 47,
+    "publicContributions": 33,
     "createdAt": "2024-07-02T21:39:09Z"
-  },
-  {
-    "login": "Romania-G",
-    "name": "Romania Gallardo",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/176453933?s=72&v=4",
-    "location": "Santiago - Chile ",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-07-24T03:34:26Z"
   },
   {
     "login": "Helhestt",

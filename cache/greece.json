@@ -21234,9 +21234,9 @@
     "location": "Greece",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 533,
+    "publicContributions": 531,
     "createdAt": "2023-12-23T15:51:37Z"
   },
   {
@@ -21248,7 +21248,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 22,
     "createdAt": "2023-06-11T09:21:23Z"
   },
   {
@@ -21260,7 +21260,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 165,
+    "publicContributions": 151,
     "createdAt": "2023-07-09T14:27:28Z"
   },
   {
@@ -21284,7 +21284,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 6,
+    "publicContributions": 5,
     "createdAt": "2023-12-14T18:18:18Z"
   },
   {
@@ -21355,8 +21355,8 @@
     "company": "University of Peloponnese",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 9,
-    "publicContributions": 6,
+    "privateContributions": 24,
+    "publicContributions": 0,
     "createdAt": "2023-01-03T14:29:25Z"
   },
   {
@@ -21404,7 +21404,7 @@
     "twitterUsername": "alex_xr1",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 0,
     "createdAt": "2023-03-16T09:13:28Z"
   },
   {
@@ -21433,27 +21433,15 @@
   },
   {
     "login": "xMik3",
-    "name": "",
+    "name": "Michael Ieronymidis",
     "avatarUrl": "https://avatars.githubusercontent.com/u/151619030?s=72&u=a401a475cf99889d1d05b0a251d4f344be53e18d&v=4",
-    "location": "Greece",
+    "location": "Athens, Greece",
     "company": "University Of West Attica",
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 24,
+    "publicContributions": 65,
     "createdAt": "2023-11-21T08:51:45Z"
-  },
-  {
-    "login": "xgre1",
-    "name": "Gregory S.",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/123780401?s=72&u=135ce2bdaa3dbc4712336d7807912a9efb1bb953&v=4",
-    "location": "Greece",
-    "company": "",
-    "twitterUsername": "sydedev",
-    "followers": 1,
-    "privateContributions": 2337,
-    "publicContributions": 10,
-    "createdAt": "2023-01-27T22:35:24Z"
   },
   {
     "login": "raphpapad",
@@ -21464,7 +21452,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 51,
     "createdAt": "2023-07-03T15:49:37Z"
   },
   {
