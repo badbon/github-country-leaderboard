@@ -13,7 +13,7 @@ Indexed users: 5,386
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [kiznis](https://github.com/kiznis) | Mindaugas Kiznis | Lithuania | 99,902 |
-| 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Vilnius | 19,608 |
+| 2 | [vytautas-bunevicius](https://github.com/vytautas-bunevicius) | Vytautas | Vilnius | 29,125 |
 | 3 | [Dambre](https://github.com/Dambre) | Lukas | Lithuania | 14,784 |
 | 4 | [renaldasbuilds](https://github.com/renaldasbuilds) | Renaldas | Lithuania | 14,763 |
 | 5 | [KonnikPahoni](https://github.com/KonnikPahoni) | Piotr Markielau | Vilnius, Lithuania | 13,412 |
@@ -83,4 +83,4 @@ Indexed users: 5,386
 | 19 | [ErikasRamaneckas](https://github.com/ErikasRamaneckas) | Erikas Ramaneckas | Vilnius, Lithuania | 197 |
 | 20 | [Miceuz](https://github.com/Miceuz) | Albertas Mickėnas | Vilnius, Lithuania | 190 |
 
-Generated: 2026-10-14T03:13:07.331Z
+Generated: 2026-10-14T06:14:47.650Z

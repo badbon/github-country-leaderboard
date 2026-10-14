@@ -1,6 +1,6 @@
 # Total Contributions - Macau
 
-Generated: 2026-10-14T03:14:07.760Z
+Generated: 2026-10-14T06:17:12.665Z
 
 Users: 439
 
@@ -13,8 +13,8 @@ Users: 439
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu |  |  | Macau | 5699 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou |  |  | Macau | 5325 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel |  |  | Macau | 3486 |
-| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3315 |
-| 9 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3272 |
+| 8 | [1595901624](https://github.com/1595901624) | Cloris |  | LhyLuhaoyu | Macau | 3315 |
+| 9 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | University of Macau | blogonresearch | Macao | 3315 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau University of Science and Technology |  | Macau | 2902 |
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan |  |  | Macau,Zhuhai | 2312 |
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng |  |  | macao | 2274 |

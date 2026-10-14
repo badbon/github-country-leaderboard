@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-14T03:30:38.911Z
+Generated: 2026-10-14T06:29:42.730Z
 
 Users: 2015
 
@@ -22,7 +22,7 @@ Users: 2015
 | 14 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
 | 15 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
 | 16 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 4941 |
-| 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
-| 18 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
-| 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
-| 20 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla |  |  | Asuncion, Paraguay | 4301 |
+| 17 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 4805 |
+| 18 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
+| 19 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
+| 20 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |

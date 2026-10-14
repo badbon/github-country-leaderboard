@@ -112,7 +112,7 @@ Published countries: 234
 | Kazakhstan | 5,662 | [View](./kazakhstan.md) |
 | Kenya | 24,028 | [View](./kenya.md) |
 | Kiribati | 4 | [View](./kiribati.md) |
-| Kuwait | 799 | [View](./kuwait.md) |
+| Kuwait | 798 | [View](./kuwait.md) |
 | Kyrgyzstan | 2,452 | [View](./kyrgyzstan.md) |
 | Laos | 360 | [View](./laos.md) |
 | Latvia | 3,263 | [View](./latvia.md) |
@@ -124,9 +124,9 @@ Published countries: 234
 | Lithuania | 5,386 | [View](./lithuania.md) |
 | Luxembourg | 2,193 | [View](./luxembourg.md) |
 | Macau | 439 | [View](./macau.md) |
-| Madagascar | 1,906 | [View](./madagascar.md) |
+| Madagascar | 1,905 | [View](./madagascar.md) |
 | Malawi | 900 | [View](./malawi.md) |
-| Malaysia | 11,809 | [View](./malaysia.md) |
+| Malaysia | 11,808 | [View](./malaysia.md) |
 | Maldives | 354 | [View](./maldives.md) |
 | Mali | 348 | [View](./mali.md) |
 | Malta | 1,225 | [View](./malta.md) |
@@ -142,7 +142,7 @@ Published countries: 234
 | Mongolia | 805 | [View](./mongolia.md) |
 | Montenegro | 891 | [View](./montenegro.md) |
 | Montserrat | 291 | [View](./montserrat.md) |
-| Morocco | 9,648 | [View](./morocco.md) |
+| Morocco | 9,647 | [View](./morocco.md) |
 | Mozambique | 1,176 | [View](./mozambique.md) |
 | Myanmar | 2,066 | [View](./myanmar.md) |
 | Namibia | 476 | [View](./namibia.md) |
@@ -166,8 +166,8 @@ Published countries: 234
 | Panama | 1,069 | [View](./panama.md) |
 | Papua New Guinea | 296 | [View](./papua_new_guinea.md) |
 | Paraguay | 2,015 | [View](./paraguay.md) |
-| Peru | 9,782 | [View](./peru.md) |
-| Philippines | 19,787 | [View](./philippines.md) |
+| Peru | 9,781 | [View](./peru.md) |
+| Philippines | 19,786 | [View](./philippines.md) |
 | Pitcairn Islands | 5 | [View](./pitcairn_islands.md) |
 | Portugal | 28,452 | [View](./portugal.md) |
 | Puerto Rico | 1,536 | [View](./puerto_rico.md) |
@@ -239,4 +239,4 @@ Published countries: 234
 | Zambia | 1,339 | [View](./zambia.md) |
 | Zimbabwe | 1,654 | [View](./zimbabwe.md) |
 
-Generated: 2026-10-14T06:10:46.788Z
+Generated: 2026-10-14T06:39:39.223Z

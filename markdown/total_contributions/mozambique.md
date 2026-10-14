@@ -1,6 +1,6 @@
 # Total Contributions - Mozambique
 
-Generated: 2026-10-14T03:24:05.873Z
+Generated: 2026-10-14T06:22:40.710Z
 
 Users: 1176
 
@@ -19,10 +19,10 @@ Users: 1176
 | 11 | [Edsonjorgef1](https://github.com/Edsonjorgef1) | Edson Jorge Francisco | @equip-mozambique |  | Mozambique, Sofala, Beira | 3395 |
 | 12 | [americo](https://github.com/americo) | Américo Júnior |  | americosmjr | Mozambique | 3216 |
 | 13 | [emuneme](https://github.com/emuneme) | Eusebio  Augusto Munene | ASTER-Informatica & Servicos | einfor | Maputo | 2793 |
-| 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2744 |
+| 14 | [rafael-the-dev](https://github.com/rafael-the-dev) | Rafael Tivane |  |  | Mozambique | 2782 |
 | 15 | [backstageel](https://github.com/backstageel) | Elísio Leonardo | Hostmoz |  | Maputo | 2722 |
-| 16 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2682 |
-| 17 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2671 |
-| 18 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2603 |
+| 16 | [enoqueJonas](https://github.com/enoqueJonas) | Enoque Macanda | Microverse | enoque_jonas | Maputo, Mozambique | 2671 |
+| 17 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 2603 |
+| 18 | [KelvenCassamo](https://github.com/KelvenCassamo) | Kelven Cassamo | Bivdev, LDA |  | Maputo, Mozambique | 2560 |
 | 19 | [domingoslequechane](https://github.com/domingoslequechane) | Domingos Francisco Lequechane |  |  | Mozambique | 2492 |
 | 20 | [PauloPhagula](https://github.com/PauloPhagula) | Paulo Phagula | @factorialco  |  | Maputo, Mozambique | 2407 |

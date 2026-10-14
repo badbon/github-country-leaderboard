@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-14T03:20:25.276Z
+Generated: 2026-10-14T06:20:10.274Z
 
 Users: 1750
 
@@ -10,7 +10,7 @@ Users: 1750
 | 2 | [ivanm696](https://github.com/ivanm696) | ivanm696  |  |  | Moldova | 3189 |
 | 3 | [deoleg](https://github.com/deoleg) | deoleg | CRU Moldova |  | Moldova | 3165 |
 | 4 | [sighook](https://github.com/sighook) | Alex Savca |  |  | Moldova | 3076 |
-| 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2388 |
+| 5 | [nikpopesku](https://github.com/nikpopesku) | Nikolai Popesku |  |  | Chisinau, Moldova | 2534 |
 | 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2263 |
 | 7 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2029 |
 | 8 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2021 |

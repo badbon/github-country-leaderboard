@@ -1,6 +1,6 @@
 # Public Contributions - Liberia
 
-Generated: 2026-10-14T03:11:23.043Z
+Generated: 2026-10-14T06:14:36.249Z
 
 Users: 210
 
@@ -24,5 +24,5 @@ Users: 210
 | 16 | [1989shack](https://github.com/1989shack) | Martin M Sheriff | 1989shack Inc. | shacktimemonco | Monrovia, Liberia | 171 |
 | 17 | [stenson](https://github.com/stenson) | Rob Stenson | @goodhertz  | robstenson | Monrovia, CA | 157 |
 | 18 | [brimaabrahamfuller-blip](https://github.com/brimaabrahamfuller-blip) | Brima Abraham Fuller | NextGents Tech Inc. |  | Rwanda, Liberia. | 144 |
-| 19 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 139 |
-| 20 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 134 |
+| 19 | [boakaidorborkamara](https://github.com/boakaidorborkamara) | Boakai Dorbor Kamara | Sogital Lab | bdk_codes | West Africa, Liberia | 134 |
+| 20 | [Rolandzogbay](https://github.com/Rolandzogbay) | Roland Zogbay |  |  | Paynesville City, Monrovia Liberia | 130 |

@@ -1,6 +1,6 @@
 # Kuwait
 
-Indexed users: 799
+Indexed users: 798
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 799
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-14T03:08:50.174Z
+Generated: 2026-10-14T06:12:38.544Z

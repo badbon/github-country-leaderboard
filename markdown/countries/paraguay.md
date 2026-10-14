@@ -28,10 +28,10 @@ Indexed users: 2,015
 | 14 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña | Paraguay | 5,001 |
 | 15 | [aplgr](https://github.com/aplgr) | André Plöger | Paraguay | 4,966 |
 | 16 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | Paraguay | 4,941 |
-| 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,708 |
-| 18 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
-| 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
-| 20 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 4,301 |
+| 17 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Asunción, Paraguay | 4,805 |
+| 18 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,708 |
+| 19 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
+| 20 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,015
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-14T03:30:38.911Z
+Generated: 2026-10-14T06:29:42.730Z

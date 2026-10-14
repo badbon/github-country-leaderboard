@@ -29,9 +29,9 @@ Indexed users: 2,066
 | 15 | [PyaeSoneAungRgn](https://github.com/PyaeSoneAungRgn) | Pyae Sone Aung | Yangon, Myanmar | 3,646 |
 | 16 | [kyawhtetyang](https://github.com/kyawhtetyang) | Kyaw Htet | Myanmar | 3,492 |
 | 17 | [KHUN-NOON](https://github.com/KHUN-NOON) |  | Taunggyi, Myanmar | 3,409 |
-| 18 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
-| 19 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) | Myanmar, Yangon | 3,106 |
-| 20 | [HanZawNyein](https://github.com/HanZawNyein) | Agga | Myanmar | 3,085 |
+| 18 | [YeMyoAung](https://github.com/YeMyoAung) | Ye Myo Aung | Myanmar/Mandalay | 3,399 |
+| 19 | [MinThutaSawNaing](https://github.com/MinThutaSawNaing) | Min Thuta Saw Naing Eric | Myanmar/ Singapore | 3,322 |
+| 20 | [htetaunglin-coder](https://github.com/htetaunglin-coder) | Htet Aung Lin (Kelvin) | Myanmar, Yangon | 3,106 |
 
 ## Public Contributions
 
@@ -72,10 +72,10 @@ Indexed users: 2,066
 | 8 | [waiferkolar](https://github.com/waiferkolar) | waiferkolar | Brighter Myanmar Computer Class, Second Top of San Yeik Nyein, Helden, Yangoon, Myanmar | 349 |
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | Myanmar | 298 |
 | 10 | [trhura](https://github.com/trhura) | Thura Hlaing | Yangon, Myanmar | 265 |
-| 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | Tamu, Myanmar | 248 |
+| 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | Tamu, Myanmar | 254 |
 | 12 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Myanmar | 238 |
 | 13 | [theaungmyatmoe](https://github.com/theaungmyatmoe) | Aung Myat Moe | Yangon, Myanmar | 238 |
-| 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | Yangon, Myanmar | 227 |
+| 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | Yangon, Myanmar | 234 |
 | 15 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu | Myanmar | 214 |
 | 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Myanmar, Yangon | 209 |
 | 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Yangon, Myanmar | 200 |
@@ -83,4 +83,4 @@ Indexed users: 2,066
 | 19 | [winsandymyint](https://github.com/winsandymyint) | Win Sandy Myint | Myanmar | 167 |
 | 20 | [LunaM00n](https://github.com/LunaM00n) | Thin Ba Shane (Luna) | Myanmar | 162 |
 
-Generated: 2026-10-14T03:24:28.276Z
+Generated: 2026-10-14T06:22:45.485Z

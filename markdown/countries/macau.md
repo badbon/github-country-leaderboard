@@ -19,8 +19,8 @@ Indexed users: 439
 | 5 | [kenischu](https://github.com/kenischu) | Kenis Chu | Macau | 5,699 |
 | 6 | [sou350121](https://github.com/sou350121) | KenSou | Macau | 5,325 |
 | 7 | [LunchBox](https://github.com/LunchBox) | Daniel | Macau | 3,486 |
-| 8 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,315 |
-| 9 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,272 |
+| 8 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 3,315 |
+| 9 | [sfcheung](https://github.com/sfcheung) | Shu Fai Cheung | Macao | 3,315 |
 | 10 | [MUST-panxiao](https://github.com/MUST-panxiao) | Xiao Pan | Macau | 2,902 |
 | 11 | [7788ken](https://github.com/7788ken) | Mark.pan | Macau,Zhuhai | 2,312 |
 | 12 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 2,274 |
@@ -72,7 +72,7 @@ Indexed users: 439
 | 8 | [IMRL](https://github.com/IMRL) |  | Taipa, Macau | 166 |
 | 9 | [QingbiaoLi](https://github.com/QingbiaoLi) | Qingbiao Li | Macau | 129 |
 | 10 | [iefuzzer](https://github.com/iefuzzer) | iefuzzer | Macau | 127 |
-| 11 | [manesec](https://github.com/manesec) | Mane | Macau | 126 |
+| 11 | [manesec](https://github.com/manesec) | Mane | Macau | 127 |
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 110 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 100 |
@@ -83,4 +83,4 @@ Indexed users: 439
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-14T03:14:07.760Z
+Generated: 2026-10-14T06:17:12.665Z

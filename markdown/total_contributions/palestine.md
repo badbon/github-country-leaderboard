@@ -1,6 +1,6 @@
 # Total Contributions - Palestine
 
-Generated: 2026-10-14T03:30:27.621Z
+Generated: 2026-10-14T06:28:28.440Z
 
 Users: 2202
 
@@ -21,8 +21,8 @@ Users: 2202
 | 13 | [salahy](https://github.com/salahy) | Salah Yahya |  |  | Palestine | 5336 |
 | 14 | [abusalameh](https://github.com/abusalameh) | Raja Abu Salameh |  |  | Jenin, Palestine | 4581 |
 | 15 | [farahty](https://github.com/farahty) | Nimer Farahty | FASTME |  | Palestine | 4300 |
-| 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4108 |
+| 16 | [Mahmoud-Skafi](https://github.com/Mahmoud-Skafi) | Mahmoud skafi |  | MahmouSkafi | Palestine, Hebron   | 4125 |
 | 17 | [m5atib](https://github.com/m5atib) | Muhaimen Khatib |  |  | Palestine | 3880 |
-| 18 | [majdghithan](https://github.com/majdghithan) | Majd Ghithan |  |  | Palestine | 3698 |
-| 19 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh |  |  | Ramallah - Palestine | 3647 |
-| 20 | [marayshi](https://github.com/marayshi) | Mohammed Alarayshi |  |  | Gaza, Palestine | 3560 |
+| 18 | [zreaqqasem](https://github.com/zreaqqasem) | Qasaem M.Zreaq |  |  | palestine | 3820 |
+| 19 | [majdghithan](https://github.com/majdghithan) | Majd Ghithan |  |  | Palestine | 3698 |
+| 20 | [yahya-iyaseh](https://github.com/yahya-iyaseh) | Yahya k AlAyaseh |  |  | Ramallah - Palestine | 3647 |

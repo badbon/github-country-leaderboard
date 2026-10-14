@@ -1,6 +1,6 @@
 # Followers - Myanmar
 
-Generated: 2026-10-14T03:24:28.276Z
+Generated: 2026-10-14T06:22:45.485Z
 
 Users: 2066
 
@@ -16,10 +16,10 @@ Users: 2066
 | 8 | [waiferkolar](https://github.com/waiferkolar) | waiferkolar | 72CODER Software Development Co.,Ltd |  | Brighter Myanmar Computer Class, Second Top of San Yeik Nyein, Helden, Yangoon, Myanmar | 349 |
 | 9 | [sanlinhtik3](https://github.com/sanlinhtik3) | San Lin Htike | ZOE Crypto |  | Myanmar | 298 |
 | 10 | [trhura](https://github.com/trhura) | Thura Hlaing |  |  | Yangon, Myanmar | 265 |
-| 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | None |  | Tamu, Myanmar | 248 |
+| 11 | [Hsuzarnimaung](https://github.com/Hsuzarnimaung) | Hsu Zarni Maung | None |  | Tamu, Myanmar | 254 |
 | 12 | [sawmon71293](https://github.com/sawmon71293) | Saw Mon Han | Vithey |  | Myanmar | 238 |
 | 13 | [theaungmyatmoe](https://github.com/theaungmyatmoe) | Aung Myat Moe | @myanmarcyberyouths  | aungmyatmoe_ | Yangon, Myanmar | 238 |
-| 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | University of Computer Studies, Mandalay |  | Yangon, Myanmar | 227 |
+| 14 | [tharhtetsan](https://github.com/tharhtetsan) | Thar Htet San | University of Computer Studies, Mandalay |  | Yangon, Myanmar | 234 |
 | 15 | [MinSiThu](https://github.com/MinSiThu) | Min Si Thu |  |  | Myanmar | 214 |
 | 16 | [Hein-HtetSan](https://github.com/Hein-HtetSan) | dev@hnhts | Freelance |  | Myanmar, Yangon | 209 |
 | 17 | [thenayjourney](https://github.com/thenayjourney) | Nay Yaung Lin Lakk | Pet Sentry |  | Yangon, Myanmar | 200 |
