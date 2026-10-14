@@ -18884,7 +18884,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 113,
+    "publicContributions": 97,
     "createdAt": "2023-04-20T08:01:37Z"
   },
   {
@@ -18896,7 +18896,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 52,
     "createdAt": "2023-11-23T14:55:17Z"
   },
   {
@@ -18908,7 +18908,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 57,
+    "publicContributions": 21,
     "createdAt": "2023-09-07T06:18:59Z"
   },
   {
@@ -18918,9 +18918,9 @@
     "location": "Helsinki",
     "company": "Alma Media",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 14,
     "createdAt": "2023-01-26T10:59:11Z"
   },
   {
@@ -18931,8 +18931,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 166,
-    "publicContributions": 9,
+    "privateContributions": 144,
+    "publicContributions": 8,
     "createdAt": "2023-10-17T20:06:18Z"
   },
   {
@@ -18943,7 +18943,7 @@
     "company": "Helsinki XR Center",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 210,
+    "privateContributions": 205,
     "publicContributions": 593,
     "createdAt": "2023-08-23T12:18:20Z"
   },
@@ -18956,7 +18956,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 25,
+    "publicContributions": 7,
     "createdAt": "2023-10-25T08:37:34Z"
   },
   {
@@ -18992,7 +18992,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 2,
-    "publicContributions": 16,
+    "publicContributions": 15,
     "createdAt": "2023-04-11T07:05:22Z"
   },
   {
@@ -19014,9 +19014,9 @@
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 383,
-    "publicContributions": 138,
+    "followers": 5,
+    "privateContributions": 28292,
+    "publicContributions": 639,
     "createdAt": "2023-02-13T21:09:29Z"
   },
   {
@@ -19032,27 +19032,15 @@
     "createdAt": "2023-11-13T07:30:08Z"
   },
   {
-    "login": "Onekris",
-    "name": "Code grey ",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/144165554?s=72&v=4",
-    "location": "Helsinki",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2023-09-05T18:26:09Z"
-  },
-  {
     "login": "XeUby",
     "name": "Boris",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/146715808?s=72&u=6ba0fdf0ca4276ba78b4f94a29142802eaa8cd2a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/146715808?s=72&u=183060fe734433f84c75c75b6bb91ae09561b4d6&v=4",
     "location": "Helsinki",
     "company": "",
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 34,
+    "publicContributions": 66,
     "createdAt": "2023-10-02T09:09:57Z"
   },
   {
@@ -19075,8 +19063,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 57,
-    "publicContributions": 41,
+    "privateContributions": 100,
+    "publicContributions": 51,
     "createdAt": "2023-01-14T11:17:08Z"
   },
   {

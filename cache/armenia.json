@@ -19231,8 +19231,8 @@
     "company": "EPAM",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 444,
-    "publicContributions": 70,
+    "privateContributions": 654,
+    "publicContributions": 75,
     "createdAt": "2020-02-04T14:24:50Z"
   },
   {
@@ -19290,9 +19290,9 @@
     "location": "Yerevan, Armenia",
     "company": "Optimum Partners",
     "twitterUsername": "_vahan_sahakyan",
-    "followers": 480,
+    "followers": 475,
     "privateContributions": 74,
-    "publicContributions": 121,
+    "publicContributions": 288,
     "createdAt": "2019-06-29T20:23:21Z"
   },
   {
@@ -19302,9 +19302,9 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 174,
+    "followers": 178,
     "privateContributions": 0,
-    "publicContributions": 196,
+    "publicContributions": 155,
     "createdAt": "2019-07-03T10:36:39Z"
   },
   {
@@ -19314,9 +19314,9 @@
     "location": "Yerevan, Armenia",
     "company": "TON Core",
     "twitterUsername": "petr_makhneff",
-    "followers": 165,
-    "privateContributions": 197,
-    "publicContributions": 5270,
+    "followers": 190,
+    "privateContributions": 211,
+    "publicContributions": 5084,
     "createdAt": "2019-06-15T12:07:11Z"
   },
   {
@@ -19326,8 +19326,8 @@
     "location": "Armenia, Yerevan",
     "company": "",
     "twitterUsername": "",
-    "followers": 137,
-    "privateContributions": 2,
+    "followers": 120,
+    "privateContributions": 66,
     "publicContributions": 10,
     "createdAt": "2019-05-31T11:44:30Z"
   },
@@ -19338,8 +19338,8 @@
     "location": "Yerevan, Armenia",
     "company": "UnaFinancial",
     "twitterUsername": "",
-    "followers": 121,
-    "privateContributions": 71,
+    "followers": 103,
+    "privateContributions": 61,
     "publicContributions": 12,
     "createdAt": "2019-09-17T10:51:48Z"
   },
@@ -19350,9 +19350,9 @@
     "location": "Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 93,
-    "privateContributions": 421,
-    "publicContributions": 52,
+    "followers": 95,
+    "privateContributions": 95,
+    "publicContributions": 12,
     "createdAt": "2019-03-13T04:16:22Z"
   },
   {
@@ -19362,9 +19362,9 @@
     "location": "Armenia",
     "company": "itrocket",
     "twitterUsername": "itrocket_team",
-    "followers": 79,
+    "followers": 75,
     "privateContributions": 0,
-    "publicContributions": 56,
+    "publicContributions": 41,
     "createdAt": "2019-03-06T10:40:06Z"
   },
   {
@@ -19375,8 +19375,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 61,
-    "privateContributions": 335,
-    "publicContributions": 245,
+    "privateContributions": 641,
+    "publicContributions": 236,
     "createdAt": "2019-10-04T14:49:55Z"
   },
   {
@@ -19386,9 +19386,9 @@
     "location": "Yerevan, Armenia",
     "company": "@Picsart ",
     "twitterUsername": "hayk__davtyan",
-    "followers": 62,
+    "followers": 53,
     "privateContributions": 0,
-    "publicContributions": 90,
+    "publicContributions": 84,
     "createdAt": "2019-01-15T12:19:10Z"
   },
   {
@@ -19398,9 +19398,9 @@
     "location": "Yerevan, Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 51,
-    "privateContributions": 2048,
-    "publicContributions": 104,
+    "followers": 55,
+    "privateContributions": 1771,
+    "publicContributions": 140,
     "createdAt": "2019-06-26T20:14:46Z"
   },
   {
@@ -19411,8 +19411,8 @@
     "company": "",
     "twitterUsername": "amiram_v1",
     "followers": 49,
-    "privateContributions": 215,
-    "publicContributions": 152,
+    "privateContributions": 239,
+    "publicContributions": 155,
     "createdAt": "2019-05-17T01:58:31Z"
   },
   {
@@ -19422,7 +19422,7 @@
     "location": "Yerevan/Armenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 46,
+    "followers": 44,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2019-03-20T20:03:23Z"
@@ -19435,7 +19435,7 @@
     "company": "VMS Software Inc.",
     "twitterUsername": "",
     "followers": 45,
-    "privateContributions": 1,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2018-12-30T15:05:04Z"
   },
@@ -48550,5 +48550,17 @@
     "privateContributions": 0,
     "publicContributions": 11,
     "createdAt": "2026-06-13T12:43:47Z"
+  },
+  {
+    "login": "YERVANDYAN-123",
+    "name": "YERVANDYAN",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297673979?s=72&u=778f3245209d4f261a827d4be128cfa24b9b8a03&v=4",
+    "location": "ARMENIA",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 4,
+    "privateContributions": 0,
+    "publicContributions": 7,
+    "createdAt": "2026-06-28T16:10:10Z"
   }
 ]

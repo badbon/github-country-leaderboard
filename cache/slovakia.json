@@ -18679,8 +18679,8 @@
     "company": "",
     "twitterUsername": "LGarancovsky",
     "followers": 3,
-    "privateContributions": 274,
-    "publicContributions": 176,
+    "privateContributions": 320,
+    "publicContributions": 162,
     "createdAt": "2019-03-09T16:14:02Z"
   },
   {
@@ -18692,7 +18692,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 1,
     "createdAt": "2019-03-25T19:11:30Z"
   },
   {
@@ -18710,13 +18710,13 @@
   {
     "login": "xhyrom",
     "name": "Jozef Steinhübl",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/56601352?s=72&u=ddbdc83b82d6acc4ac903d612e7bd835e9577563&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/56601352?s=72&u=0b74fa9bc9ffa612af43a04239e8f22801070e78&v=4",
     "location": "Slovakia",
     "company": "@slovensko-digital ",
     "twitterUsername": "",
-    "followers": 319,
-    "privateContributions": 1337,
-    "publicContributions": 1168,
+    "followers": 321,
+    "privateContributions": 1296,
+    "publicContributions": 1038,
     "createdAt": "2019-10-15T16:09:51Z"
   },
   {
@@ -18726,7 +18726,7 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "",
-    "followers": 83,
+    "followers": 84,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-08-17T18:43:13Z"
@@ -18739,8 +18739,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 71,
-    "privateContributions": 229,
-    "publicContributions": 17,
+    "privateContributions": 218,
+    "publicContributions": 2,
     "createdAt": "2019-04-26T08:17:17Z"
   },
   {
@@ -18752,7 +18752,7 @@
     "twitterUsername": "",
     "followers": 62,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 20,
     "createdAt": "2019-03-13T17:08:10Z"
   },
   {
@@ -18762,9 +18762,9 @@
     "location": "Slovakia",
     "company": "SentinelOne",
     "twitterUsername": "",
-    "followers": 54,
-    "privateContributions": 235,
-    "publicContributions": 283,
+    "followers": 55,
+    "privateContributions": 63,
+    "publicContributions": 865,
     "createdAt": "2019-01-25T09:53:32Z"
   },
   {
@@ -18774,9 +18774,9 @@
     "location": "Slovakia",
     "company": "",
     "twitterUsername": "tomasklaen",
-    "followers": 42,
+    "followers": 44,
     "privateContributions": 0,
-    "publicContributions": 20,
+    "publicContributions": 14,
     "createdAt": "2019-02-02T20:45:09Z"
   },
   {
@@ -18787,7 +18787,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 38,
-    "privateContributions": 4739,
+    "privateContributions": 5222,
     "publicContributions": 2,
     "createdAt": "2019-06-01T21:59:45Z"
   },
@@ -18799,7 +18799,7 @@
     "company": "DevOps engineer at @dvpsgrp ",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 20,
+    "privateContributions": 23,
     "publicContributions": 0,
     "createdAt": "2019-10-03T10:06:07Z"
   },
@@ -18811,8 +18811,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 29,
-    "privateContributions": 5,
-    "publicContributions": 55,
+    "privateContributions": 24,
+    "publicContributions": 46,
     "createdAt": "2019-02-20T13:51:24Z"
   },
   {
@@ -18846,9 +18846,9 @@
     "location": "Slovakia",
     "company": "CANNYPACK",
     "twitterUsername": "",
-    "followers": 23,
-    "privateContributions": 2736,
-    "publicContributions": 10,
+    "followers": 21,
+    "privateContributions": 3166,
+    "publicContributions": 2,
     "createdAt": "2019-04-11T18:05:26Z"
   },
   {
@@ -18860,20 +18860,8 @@
     "twitterUsername": "",
     "followers": 23,
     "privateContributions": 11,
-    "publicContributions": 44,
+    "publicContributions": 40,
     "createdAt": "2019-01-12T18:51:59Z"
-  },
-  {
-    "login": "FanaticExplorer",
-    "name": "F4nat1c",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/52747818?s=72&u=9ca4cdb07f5937511e0f20f968b23357994e17c3&v=4",
-    "location": "Nitra, Slovakia",
-    "company": "Univerzita Konštantína Filozofa",
-    "twitterUsername": "FanaticExplorer",
-    "followers": 22,
-    "privateContributions": 223,
-    "publicContributions": 343,
-    "createdAt": "2019-07-10T12:58:15Z"
   },
   {
     "login": "romanpalenik",
@@ -18884,7 +18872,7 @@
     "twitterUsername": "RomanPalenik",
     "followers": 22,
     "privateContributions": 0,
-    "publicContributions": 48,
+    "publicContributions": 49,
     "createdAt": "2019-10-01T08:28:49Z"
   },
   {
@@ -18895,8 +18883,8 @@
     "company": "SWAN | Slovak University of Technology",
     "twitterUsername": "",
     "followers": 22,
-    "privateContributions": 888,
-    "publicContributions": 711,
+    "privateContributions": 1286,
+    "publicContributions": 714,
     "createdAt": "2019-05-16T18:50:13Z"
   },
   {
@@ -18906,8 +18894,8 @@
     "location": "Slovakia",
     "company": "ShopVOX",
     "twitterUsername": "",
-    "followers": 22,
-    "privateContributions": 208,
+    "followers": 23,
+    "privateContributions": 159,
     "publicContributions": 0,
     "createdAt": "2019-04-09T08:29:30Z"
   },

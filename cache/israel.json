@@ -19184,7 +19184,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 2,
     "createdAt": "2022-10-31T07:51:58Z"
   },
   {
@@ -19196,7 +19196,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 8,
     "createdAt": "2022-11-22T20:44:20Z"
   },
   {
@@ -19231,8 +19231,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 221,
-    "publicContributions": 26,
+    "privateContributions": 226,
+    "publicContributions": 25,
     "createdAt": "2022-12-12T14:50:15Z"
   },
   {
@@ -19244,7 +19244,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 36,
+    "publicContributions": 35,
     "createdAt": "2022-07-17T22:17:12Z"
   },
   {
@@ -19256,7 +19256,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 43,
     "createdAt": "2022-02-21T10:56:21Z"
   },
   {
@@ -19268,7 +19268,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 40,
     "createdAt": "2022-11-05T18:00:09Z"
   },
   {
@@ -19278,9 +19278,9 @@
     "location": "Israel",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 3,
     "createdAt": "2022-09-30T20:32:05Z"
   },
   {
@@ -19298,7 +19298,7 @@
   {
     "login": "moshecc",
     "name": "Moshe Cohen",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/109029181?s=72&u=86cf007044da5907270ccd00e2034879eb70a52e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/109029181?s=72&u=64481a9c6cbf4acffe7e8748492ced6981cd8c23&v=4",
     "location": "Rehovot, Israel",
     "company": "IDF",
     "twitterUsername": "",

@@ -19292,7 +19292,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2019-10-10T03:58:29Z"
   },
   {
@@ -19340,7 +19340,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2019-02-15T04:49:29Z"
   },
   {
@@ -19350,9 +19350,9 @@
     "location": "Dominican Republic",
     "company": "D&N Automatización y Control, SRL",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 37,
     "createdAt": "2019-01-20T05:50:23Z"
   },
   {
@@ -19374,9 +19374,9 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 57,
     "createdAt": "2019-09-23T15:17:59Z"
   },
   {
@@ -19400,20 +19400,8 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 14,
+    "publicContributions": 4,
     "createdAt": "2019-05-02T13:19:15Z"
-  },
-  {
-    "login": "EliezerYT",
-    "name": "ElyDev",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/46678316?s=72&u=4d4f0808d544cf74ad8b68ea18fe340074407de7&v=4",
-    "location": "Dominican Republic",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 21,
-    "createdAt": "2019-01-14T13:30:30Z"
   },
   {
     "login": "socialgurudr",
@@ -19434,8 +19422,8 @@
     "location": "Dominican Republic",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 312,
+    "followers": 2,
+    "privateContributions": 290,
     "publicContributions": 2,
     "createdAt": "2019-05-13T17:31:34Z"
   },

@@ -19088,7 +19088,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 29,
     "createdAt": "2023-11-19T10:21:54Z"
   },
   {
@@ -19098,7 +19098,7 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-05-10T07:47:40Z"
@@ -19112,7 +19112,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 68,
+    "publicContributions": 99,
     "createdAt": "2023-01-09T14:19:28Z"
   },
   {
@@ -19148,7 +19148,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 4,
     "createdAt": "2023-11-12T17:11:32Z"
   },
   {
@@ -19159,8 +19159,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1052,
-    "publicContributions": 198,
+    "privateContributions": 1104,
+    "publicContributions": 31,
     "createdAt": "2023-11-10T14:57:27Z"
   },
   {
@@ -19172,7 +19172,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 29,
+    "publicContributions": 25,
     "createdAt": "2023-10-24T11:33:46Z"
   },
   {
@@ -19206,8 +19206,8 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
+    "followers": 4,
+    "privateContributions": 530,
     "publicContributions": 4,
     "createdAt": "2023-02-03T15:14:37Z"
   },
@@ -19232,7 +19232,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 231,
+    "publicContributions": 172,
     "createdAt": "2023-12-12T16:20:38Z"
   },
   {
@@ -19292,7 +19292,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 12,
+    "publicContributions": 9,
     "createdAt": "2023-03-24T18:12:20Z"
   },
   {
@@ -19302,7 +19302,7 @@
     "location": "Vienna",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2023-07-20T08:20:26Z"
@@ -19316,7 +19316,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 81,
+    "publicContributions": 85,
     "createdAt": "2023-05-22T15:03:33Z"
   },
   {
@@ -219094,5 +219094,17 @@
     "privateContributions": 0,
     "publicContributions": 1,
     "createdAt": "2026-06-15T14:07:15Z"
+  },
+  {
+    "login": "Vasanti-S",
+    "name": "Vasanti Sirikonda",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297655169?s=72&v=4",
+    "location": "Vienna, Austria",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 2,
+    "privateContributions": 0,
+    "publicContributions": 18,
+    "createdAt": "2026-06-28T14:34:57Z"
   }
 ]

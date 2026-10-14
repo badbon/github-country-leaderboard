@@ -18726,9 +18726,9 @@
     "location": "Switzerland",
     "company": "Cisco",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 44,
+    "publicContributions": 43,
     "createdAt": "2023-08-16T15:07:51Z"
   },
   {
@@ -18775,8 +18775,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1,
-    "publicContributions": 5,
+    "privateContributions": 0,
+    "publicContributions": 3,
     "createdAt": "2023-12-02T18:15:57Z"
   },
   {
@@ -18787,8 +18787,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 496,
-    "publicContributions": 594,
+    "privateContributions": 779,
+    "publicContributions": 269,
     "createdAt": "2023-06-18T13:57:49Z"
   },
   {
@@ -18812,7 +18812,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 95,
+    "publicContributions": 129,
     "createdAt": "2023-03-01T15:23:19Z"
   },
   {
@@ -18847,8 +18847,8 @@
     "company": "Glowing Blue AG",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 1370,
-    "publicContributions": 217,
+    "privateContributions": 1396,
+    "publicContributions": 205,
     "createdAt": "2023-10-04T07:01:51Z"
   },
   {
@@ -18864,18 +18864,6 @@
     "createdAt": "2023-07-26T21:00:35Z"
   },
   {
-    "login": "MalikDjaferi",
-    "name": "Malik Djaferi",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/140524293?s=72&u=bdb3ab9a675ce4344e3771254114b89a4eed4457&v=4",
-    "location": "Switzerland/Kosovo",
-    "company": "ARKOS",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 27,
-    "createdAt": "2023-07-25T14:06:52Z"
-  },
-  {
     "login": "marcprojer",
     "name": "Marc Projer",
     "avatarUrl": "https://avatars.githubusercontent.com/u/146005171?s=72&u=38155893fcdd3231045b85b706c730f9cd867784&v=4",
@@ -18883,8 +18871,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 5,
-    "publicContributions": 156,
+    "privateContributions": 24,
+    "publicContributions": 140,
     "createdAt": "2023-09-25T14:43:35Z"
   },
   {
@@ -18919,8 +18907,8 @@
     "company": "ETH Zurich",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 78,
-    "publicContributions": 17,
+    "privateContributions": 81,
+    "publicContributions": 12,
     "createdAt": "2023-07-14T11:57:59Z"
   },
   {
@@ -18932,7 +18920,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 6,
     "createdAt": "2023-11-26T12:13:34Z"
   },
   {

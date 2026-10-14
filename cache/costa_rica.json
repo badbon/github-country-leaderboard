@@ -19291,8 +19291,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 6,
-    "privateContributions": 91,
-    "publicContributions": 66,
+    "privateContributions": 164,
+    "publicContributions": 0,
     "createdAt": "2021-03-03T15:59:25Z"
   },
   {
@@ -19315,8 +19315,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 152,
-    "publicContributions": 95,
+    "privateContributions": 130,
+    "publicContributions": 127,
     "createdAt": "2021-01-11T18:40:17Z"
   },
   {
@@ -19338,9 +19338,9 @@
     "location": "Costa Rica",
     "company": "OpenToWork",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1986,
-    "publicContributions": 33,
+    "followers": 7,
+    "privateContributions": 2053,
+    "publicContributions": 35,
     "createdAt": "2021-04-17T21:38:09Z"
   },
   {
@@ -19352,19 +19352,19 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 448,
+    "publicContributions": 393,
     "createdAt": "2021-05-28T15:49:31Z"
   },
   {
     "login": "TVTvirus",
     "name": "TVTvirus",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/86693814?s=72&u=960405268077afd2c6bf2ad3f80e95002adfeb7e&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/86693814?s=72&u=5656240ac71403c4a9a4cae123b09730e657356b&v=4",
     "location": "Costa Rica",
     "company": "MineWave ",
     "twitterUsername": "TVTvirusOW",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 169,
+    "publicContributions": 268,
     "createdAt": "2021-06-29T23:35:36Z"
   },
   {
@@ -19374,9 +19374,9 @@
     "location": "Costa-Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 8,
+    "publicContributions": 13,
     "createdAt": "2021-09-29T02:29:26Z"
   },
   {
@@ -19447,7 +19447,7 @@
     "company": "Universidad de Costa Rica",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 11,
+    "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2021-12-04T04:04:41Z"
   },
@@ -19458,9 +19458,9 @@
     "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 14,
-    "publicContributions": 27,
+    "followers": 6,
+    "privateContributions": 31,
+    "publicContributions": 17,
     "createdAt": "2021-06-04T17:24:32Z"
   },
   {
@@ -19472,7 +19472,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 342,
+    "publicContributions": 295,
     "createdAt": "2021-01-22T19:28:27Z"
   },
   {
@@ -19484,7 +19484,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 65,
+    "publicContributions": 36,
     "createdAt": "2021-05-12T18:01:41Z"
   },
   {
@@ -19496,18 +19496,18 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 119,
+    "publicContributions": 112,
     "createdAt": "2021-03-09T17:46:36Z"
   },
   {
     "login": "LuisGomez24",
     "name": "Luis Gomez",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/81343945?s=72&u=e635939304c1fec350ad7e3b11586bb31fdbde26&v=4",
-    "location": "San José, Costa Rica",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/81343945?s=72&u=27141966081ff83cd493c6aece8f1350f31faa3a&v=4",
+    "location": "Costa Rica",
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 10,
+    "privateContributions": 22,
     "publicContributions": 1,
     "createdAt": "2021-03-25T04:13:23Z"
   },

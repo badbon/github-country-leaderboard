@@ -19152,18 +19152,6 @@
     "createdAt": "2016-09-01T18:28:03Z"
   },
   {
-    "login": "AlexeySetevoi",
-    "name": "",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/17676189?s=72&v=4",
-    "location": "Cyprus, Limassol",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 0,
-    "publicContributions": 3,
-    "createdAt": "2016-03-05T17:05:26Z"
-  },
-  {
     "login": "tommysdaniel",
     "name": "Chrysostomos Daniel",
     "avatarUrl": "https://avatars.githubusercontent.com/u/18263157?s=72&u=b9fef00a33ca75d02dce40b6ad6172ba4b73055c&v=4",
@@ -19182,9 +19170,9 @@
     "location": "Limassol, Cyprus",
     "company": "Exinity",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 4,
     "privateContributions": 0,
-    "publicContributions": 496,
+    "publicContributions": 945,
     "createdAt": "2016-05-24T19:16:54Z"
   },
   {
@@ -19195,7 +19183,7 @@
     "company": "SmartApe.io",
     "twitterUsername": "BAllhyani",
     "followers": 3,
-    "privateContributions": 1193,
+    "privateContributions": 1940,
     "publicContributions": 0,
     "createdAt": "2016-10-26T07:43:31Z"
   },
@@ -19208,7 +19196,7 @@
     "twitterUsername": "doge_we",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 7,
     "createdAt": "2016-10-11T19:01:12Z"
   },
   {
@@ -19254,9 +19242,9 @@
     "location": "Cyprus",
     "company": "Filiatix",
     "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 8584,
-    "publicContributions": 212,
+    "followers": 4,
+    "privateContributions": 10968,
+    "publicContributions": 216,
     "createdAt": "2016-05-19T14:10:38Z"
   },
   {
@@ -19291,7 +19279,7 @@
     "company": "Mercuryo",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 2116,
+    "privateContributions": 2304,
     "publicContributions": 0,
     "createdAt": "2016-02-09T19:56:14Z"
   },
@@ -19332,27 +19320,15 @@
     "createdAt": "2016-12-27T18:41:57Z"
   },
   {
-    "login": "mdelamere",
-    "name": "Michael Delamere",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/19558044?s=72&v=4",
-    "location": "Larnaca, Cyprus",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 35,
-    "createdAt": "2016-05-24T18:37:04Z"
-  },
-  {
     "login": "SinnieOnFire",
     "name": "Sinnie",
     "avatarUrl": "https://avatars.githubusercontent.com/u/22021379?s=72&v=4",
     "location": "Cyprus",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 27,
+    "publicContributions": 29,
     "createdAt": "2016-09-06T06:46:22Z"
   },
   {
