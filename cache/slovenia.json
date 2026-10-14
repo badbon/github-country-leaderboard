@@ -20660,7 +20660,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 11,
     "createdAt": "2016-02-02T17:17:59Z"
   },
   {
@@ -20683,7 +20683,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 171,
+    "privateContributions": 187,
     "publicContributions": 1,
     "createdAt": "2016-03-20T19:23:03Z"
   },
@@ -20695,8 +20695,8 @@
     "company": "VMA",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 174,
-    "publicContributions": 8,
+    "privateContributions": 118,
+    "publicContributions": 7,
     "createdAt": "2016-02-24T10:27:08Z"
   },
   {
@@ -20742,7 +20742,7 @@
     "location": "Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 603,
+    "followers": 609,
     "privateContributions": 0,
     "publicContributions": 9,
     "createdAt": "2015-07-30T17:05:01Z"
@@ -20752,11 +20752,11 @@
     "name": "Osama Alghanmi",
     "avatarUrl": "https://avatars.githubusercontent.com/u/12499719?s=72&u=c28a3b65c2d5e8a9d02150f1f7ea22466b6bd3b3&v=4",
     "location": "Ljubljana, Slovenia",
-    "company": "",
+    "company": "Almadar",
     "twitterUsername": "",
-    "followers": 188,
-    "privateContributions": 22164,
-    "publicContributions": 7269,
+    "followers": 191,
+    "privateContributions": 24091,
+    "publicContributions": 8386,
     "createdAt": "2015-05-18T16:37:14Z"
   },
   {
@@ -20768,7 +20768,7 @@
     "twitterUsername": "tomaz_tsql",
     "followers": 166,
     "privateContributions": 1,
-    "publicContributions": 232,
+    "publicContributions": 199,
     "createdAt": "2015-12-16T21:12:05Z"
   },
   {
@@ -20778,9 +20778,9 @@
     "location": "Koper, Slovenia",
     "company": "",
     "twitterUsername": "",
-    "followers": 134,
+    "followers": 142,
     "privateContributions": 0,
-    "publicContributions": 2351,
+    "publicContributions": 2657,
     "createdAt": "2015-01-01T18:09:01Z"
   },
   {
@@ -20790,9 +20790,9 @@
     "location": "Slovenia",
     "company": "Mono Technologies Inc.",
     "twitterUsername": "",
-    "followers": 111,
+    "followers": 114,
     "privateContributions": 0,
-    "publicContributions": 11,
+    "publicContributions": 15,
     "createdAt": "2015-01-30T08:42:17Z"
   },
   {
@@ -20802,9 +20802,9 @@
     "location": "Slovenia",
     "company": "@geldata ",
     "twitterUsername": "",
-    "followers": 74,
-    "privateContributions": 130,
-    "publicContributions": 946,
+    "followers": 75,
+    "privateContributions": 426,
+    "publicContributions": 925,
     "createdAt": "2015-02-19T09:06:54Z"
   },
   {
@@ -20814,7 +20814,7 @@
     "location": "Slovenia",
     "company": "1Home",
     "twitterUsername": "",
-    "followers": 72,
+    "followers": 71,
     "privateContributions": 0,
     "publicContributions": 2,
     "createdAt": "2015-09-21T14:56:07Z"
@@ -20826,9 +20826,9 @@
     "location": "Slovenia",
     "company": "Skylabs",
     "twitterUsername": "",
-    "followers": 68,
+    "followers": 71,
     "privateContributions": 0,
-    "publicContributions": 64,
+    "publicContributions": 102,
     "createdAt": "2015-11-11T22:41:00Z"
   },
   {
@@ -20838,9 +20838,9 @@
     "location": "Slovenia",
     "company": "@Pylo, @MCreator, @awakeboards",
     "twitterUsername": "",
-    "followers": 65,
-    "privateContributions": 608,
-    "publicContributions": 1422,
+    "followers": 68,
+    "privateContributions": 668,
+    "publicContributions": 1681,
     "createdAt": "2015-12-20T19:00:54Z"
   },
   {
@@ -20850,8 +20850,8 @@
     "location": "Slovenia",
     "company": "@EssentialDeveloperCom",
     "twitterUsername": "",
-    "followers": 60,
-    "privateContributions": 2048,
+    "followers": 61,
+    "privateContributions": 1798,
     "publicContributions": 0,
     "createdAt": "2015-01-23T10:32:24Z"
   },
@@ -20862,9 +20862,9 @@
     "location": "Slovenia",
     "company": "elastic",
     "twitterUsername": "",
-    "followers": 54,
-    "privateContributions": 563,
-    "publicContributions": 501,
+    "followers": 55,
+    "privateContributions": 1926,
+    "publicContributions": 561,
     "createdAt": "2015-08-03T18:25:35Z"
   },
   {

@@ -20744,7 +20744,7 @@
     "twitterUsername": "",
     "followers": 12,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 0,
     "createdAt": "2022-03-06T15:26:58Z"
   },
   {
@@ -20768,7 +20768,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 22,
+    "publicContributions": 15,
     "createdAt": "2022-08-19T07:07:18Z"
   },
   {
@@ -20804,7 +20804,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 10,
-    "publicContributions": 241,
+    "publicContributions": 164,
     "createdAt": "2022-11-12T22:24:58Z"
   },
   {
@@ -20814,9 +20814,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 12,
     "privateContributions": 112,
-    "publicContributions": 21,
+    "publicContributions": 6,
     "createdAt": "2022-05-25T16:03:56Z"
   },
   {
@@ -20826,9 +20826,9 @@
     "location": "Sumqayit,Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2022-06-06T16:35:31Z"
   },
   {
@@ -20838,9 +20838,9 @@
     "location": "Baku, Azerbaijan",
     "company": "SECOP Co ",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 9,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 33,
     "createdAt": "2022-11-11T12:37:57Z"
   },
   {
@@ -20850,22 +20850,10 @@
     "location": "Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 861,
+    "followers": 10,
+    "privateContributions": 1360,
     "publicContributions": 36,
     "createdAt": "2022-04-27T14:16:41Z"
-  },
-  {
-    "login": "c0sm0thecoder",
-    "name": "Kamal Aghazada",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/113236268?s=72&v=4",
-    "location": "Baku, Azerbaijan",
-    "company": "Azercell Telecom LLC",
-    "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 654,
-    "publicContributions": 109,
-    "createdAt": "2022-09-10T09:10:41Z"
   },
   {
     "login": "AliGadashov",
@@ -20874,9 +20862,9 @@
     "location": "Baku, Azerbaijan",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
-    "privateContributions": 6,
-    "publicContributions": 40,
+    "followers": 13,
+    "privateContributions": 11,
+    "publicContributions": 0,
     "createdAt": "2022-11-21T16:21:22Z"
   },
   {
@@ -20886,7 +20874,7 @@
     "location": "Azerbaijan Baku",
     "company": "",
     "twitterUsername": "",
-    "followers": 11,
+    "followers": 10,
     "privateContributions": 0,
     "publicContributions": 4,
     "createdAt": "2022-08-08T15:41:44Z"
@@ -20900,7 +20888,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 314,
-    "publicContributions": 110,
+    "publicContributions": 109,
     "createdAt": "2022-11-21T16:22:13Z"
   },
   {
@@ -20912,7 +20900,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 28,
     "createdAt": "2022-09-22T09:24:25Z"
   },
   {
@@ -20924,7 +20912,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 0,
-    "publicContributions": 17,
+    "publicContributions": 0,
     "createdAt": "2022-09-21T11:08:52Z"
   },
   {
@@ -20936,7 +20924,7 @@
     "twitterUsername": "hesenv_007",
     "followers": 11,
     "privateContributions": 28,
-    "publicContributions": 92,
+    "publicContributions": 91,
     "createdAt": "2022-07-18T17:46:48Z"
   },
   {
@@ -20960,7 +20948,7 @@
     "twitterUsername": "",
     "followers": 11,
     "privateContributions": 3,
-    "publicContributions": 53,
+    "publicContributions": 59,
     "createdAt": "2022-11-28T18:59:49Z"
   },
   {

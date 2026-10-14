@@ -20756,7 +20756,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 2,
-    "publicContributions": 15,
+    "publicContributions": 13,
     "createdAt": "2023-03-09T10:10:32Z"
   },
   {
@@ -20767,7 +20767,7 @@
     "company": "",
     "twitterUsername": "nika8white",
     "followers": 1,
-    "privateContributions": 114,
+    "privateContributions": 7,
     "publicContributions": 3,
     "createdAt": "2023-06-21T16:12:40Z"
   },
@@ -20816,7 +20816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 167,
     "createdAt": "2023-03-30T10:20:10Z"
   },
   {
@@ -20828,7 +20828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 20,
     "createdAt": "2023-12-18T11:20:45Z"
   },
   {
@@ -20836,11 +20836,11 @@
     "name": "Daniel Schwarz",
     "avatarUrl": "https://avatars.githubusercontent.com/u/121813887?s=72&u=b0fa26bfdf5d620548a8d8b3c6c59ab96510a742&v=4",
     "location": "Vienna",
-    "company": "Universität Wien",
+    "company": "",
     "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 41,
+    "followers": 4,
+    "privateContributions": 2,
+    "publicContributions": 62,
     "createdAt": "2023-01-02T15:17:42Z"
   },
   {
@@ -20886,7 +20886,7 @@
     "location": "Vienna",
     "company": "WU Vienna University of Economics and Business",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 17,
     "createdAt": "2023-02-16T09:28:04Z"
@@ -20899,8 +20899,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 13,
-    "privateContributions": 14,
-    "publicContributions": 63,
+    "privateContributions": 19,
+    "publicContributions": 74,
     "createdAt": "2017-11-18T09:53:05Z"
   },
   {
@@ -20911,8 +20911,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 199,
-    "publicContributions": 39,
+    "privateContributions": 267,
+    "publicContributions": 187,
     "createdAt": "2023-05-17T09:19:14Z"
   },
   {
@@ -20924,7 +20924,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 0,
+    "publicContributions": 1,
     "createdAt": "2023-02-03T18:26:27Z"
   },
   {
@@ -20936,7 +20936,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 28,
+    "publicContributions": 16,
     "createdAt": "2023-03-28T13:50:41Z"
   },
   {
@@ -20947,7 +20947,7 @@
     "company": "Bloch3 Projektentwicklung GmbH",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 187,
+    "privateContributions": 430,
     "publicContributions": 0,
     "createdAt": "2023-09-22T08:43:46Z"
   },
@@ -20970,9 +20970,9 @@
     "location": "Eisenstadt, Austria 🇦🇹",
     "company": "@AI-Engineering-at",
     "twitterUsername": "",
-    "followers": 150,
-    "privateContributions": 821,
-    "publicContributions": 232,
+    "followers": 158,
+    "privateContributions": 830,
+    "publicContributions": 239,
     "createdAt": "2022-11-30T21:11:20Z"
   },
   {

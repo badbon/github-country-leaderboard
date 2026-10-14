@@ -20744,7 +20744,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 118,
     "createdAt": "2024-08-22T15:09:05Z"
   },
   {
@@ -20755,8 +20755,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 1,
-    "privateContributions": 312,
-    "publicContributions": 90,
+    "privateContributions": 400,
+    "publicContributions": 5,
     "createdAt": "2024-07-25T15:49:22Z"
   },
   {
@@ -20780,7 +20780,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 3,
     "createdAt": "2024-10-12T08:34:10Z"
   },
   {
@@ -20792,7 +20792,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 48,
-    "publicContributions": 407,
+    "publicContributions": 203,
     "createdAt": "2024-02-06T15:42:52Z"
   },
   {
@@ -20816,7 +20816,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-06-14T07:02:15Z"
   },
   {
@@ -20828,7 +20828,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 324,
+    "publicContributions": 300,
     "createdAt": "2024-03-14T06:05:26Z"
   },
   {
@@ -20850,7 +20850,7 @@
     "location": "Addis Ababa",
     "company": "HST Consulting",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2024-01-08T06:20:52Z"
@@ -20874,9 +20874,9 @@
     "location": "Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 9,
     "createdAt": "2024-01-04T19:16:18Z"
   },
   {
@@ -20922,27 +20922,15 @@
     "location": "Addis Ababa",
     "company": "",
     "twitterUsername": "",
-    "followers": 1,
+    "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 139,
+    "publicContributions": 241,
     "createdAt": "2024-12-24T06:35:38Z"
-  },
-  {
-    "login": "mahlet11berhane",
-    "name": "Mahlet Berhane",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/192735433?s=72&u=e5625733b6a622e100c789ba26d103c9ee8eda4e&v=4",
-    "location": "Addis Ababa",
-    "company": "AAiT",
-    "twitterUsername": "",
-    "followers": 1,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2024-12-24T17:29:59Z"
   },
   {
     "login": "vSeidN1",
     "name": "Seid Nur",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/175256487?s=72&u=dc071c68389ebd738a8cdb2a25cad365010237bb&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/175256487?s=72&u=dc5a1c8f20b739cb8f26d233add26aa30045c680&v=4",
     "location": "Addis Ababa",
     "company": "",
     "twitterUsername": "",
