@@ -21090,7 +21090,7 @@
     "location": "Lebanon",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 8,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-12-06T07:09:34Z"
@@ -21120,18 +21120,6 @@
     "createdAt": "2019-12-19T08:38:08Z"
   },
   {
-    "login": "omarkar101",
-    "name": "Omar Karazoun",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/59054172?s=72&u=978794cbbac5f022ee1cb10094df4ecfac0b23ea&v=4",
-    "location": "Lebanon",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 7,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2019-12-19T12:29:59Z"
-  },
-  {
     "login": "bechara-rizk",
     "name": "Bechara Rizk",
     "avatarUrl": "https://avatars.githubusercontent.com/u/46350363?s=72&u=a4f82cccd50aa4d848b340a2eba60c8110cea056&v=4",
@@ -21139,7 +21127,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 64,
+    "privateContributions": 173,
     "publicContributions": 0,
     "createdAt": "2019-01-03T14:38:10Z"
   },
@@ -21198,7 +21186,7 @@
     "location": "lebanon",
     "company": "sparkersi",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2019-06-12T05:56:49Z"
@@ -21210,7 +21198,7 @@
     "location": "Lebanon",
     "company": "Lebanese American University",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
     "publicContributions": 5,
     "createdAt": "2019-09-12T17:28:48Z"
@@ -21220,11 +21208,11 @@
     "name": "Mohammad Rahal",
     "avatarUrl": "https://avatars.githubusercontent.com/u/58606159?s=72&v=4",
     "location": "lebanon",
-    "company": "byrahal",
+    "company": "",
     "twitterUsername": "",
-    "followers": 6,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 4,
+    "publicContributions": 9,
     "createdAt": "2019-12-06T18:16:05Z"
   },
   {
@@ -21247,7 +21235,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 67,
+    "privateContributions": 81,
     "publicContributions": 3,
     "createdAt": "2019-09-10T09:24:08Z"
   },
@@ -21259,7 +21247,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2364,
+    "privateContributions": 3459,
     "publicContributions": 6,
     "createdAt": "2019-11-09T12:18:47Z"
   },
@@ -21270,9 +21258,9 @@
     "location": "lebanon",
     "company": "Web weavers",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 43,
+    "publicContributions": 57,
     "createdAt": "2019-06-12T08:35:48Z"
   },
   {
@@ -21283,8 +21271,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 2191,
-    "publicContributions": 18,
+    "privateContributions": 2783,
+    "publicContributions": 17,
     "createdAt": "2019-01-17T08:10:57Z"
   },
   {
@@ -21295,7 +21283,7 @@
     "company": "@ClickerSoftware ClickerSoftware",
     "twitterUsername": "mhdtawil1",
     "followers": 5,
-    "privateContributions": 4,
+    "privateContributions": 168,
     "publicContributions": 2,
     "createdAt": "2019-05-08T19:02:48Z"
   },

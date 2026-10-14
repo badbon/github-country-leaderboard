@@ -21258,7 +21258,7 @@
     "location": "Skopje",
     "company": "ATD",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 3,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2013-07-29T12:07:48Z"
@@ -21356,7 +21356,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 0,
     "createdAt": "2013-01-24T12:34:35Z"
   },
   {
@@ -21390,8 +21390,8 @@
     "location": "North Macedonia",
     "company": "",
     "twitterUsername": "henryruhs",
-    "followers": 627,
-    "privateContributions": 379,
+    "followers": 639,
+    "privateContributions": 618,
     "publicContributions": 349,
     "createdAt": "2012-06-10T11:26:05Z"
   },
@@ -21402,9 +21402,9 @@
     "location": "Skopje, North Macedonia",
     "company": "@Automattic",
     "twitterUsername": "BSitnikovski",
-    "followers": 163,
-    "privateContributions": 2031,
-    "publicContributions": 441,
+    "followers": 166,
+    "privateContributions": 1709,
+    "publicContributions": 814,
     "createdAt": "2012-04-07T11:00:18Z"
   },
   {
@@ -21414,9 +21414,9 @@
     "location": "Bitola, North Macedonia",
     "company": "@MindsDB",
     "twitterUsername": "tino097",
-    "followers": 134,
-    "privateContributions": 388,
-    "publicContributions": 1702,
+    "followers": 142,
+    "privateContributions": 586,
+    "publicContributions": 1829,
     "createdAt": "2012-11-02T14:54:26Z"
   },
   {
@@ -21426,21 +21426,21 @@
     "location": "Macedonia",
     "company": "@CodeChem",
     "twitterUsername": "",
-    "followers": 53,
-    "privateContributions": 80,
-    "publicContributions": 77,
+    "followers": 51,
+    "privateContributions": 173,
+    "publicContributions": 88,
     "createdAt": "2012-09-21T10:58:22Z"
   },
   {
     "login": "antonio-ivanovski",
     "name": "Antonio",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/1628876?s=72&u=bef703ebbdb889b80d6b5d339d937a57111f9b0a&v=4",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/1628876?s=72&u=90dae4524c470b1eb3975ea2935ab020bcc91e06&v=4",
     "location": "North Macedonia",
     "company": "",
-    "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 836,
-    "publicContributions": 768,
+    "twitterUsername": "antonioivski",
+    "followers": 46,
+    "privateContributions": 1096,
+    "publicContributions": 712,
     "createdAt": "2012-04-10T10:31:45Z"
   },
   {
@@ -21450,8 +21450,8 @@
     "location": "Skopje, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 37,
-    "privateContributions": 347,
+    "followers": 38,
+    "privateContributions": 482,
     "publicContributions": 0,
     "createdAt": "2012-02-21T15:24:19Z"
   },
@@ -21462,7 +21462,7 @@
     "location": "Skopje, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 34,
+    "followers": 37,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2012-03-28T09:41:16Z"
@@ -21474,8 +21474,8 @@
     "location": "Skopje, Macedonia",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 738,
+    "followers": 33,
+    "privateContributions": 1298,
     "publicContributions": 0,
     "createdAt": "2012-07-10T00:10:09Z"
   },

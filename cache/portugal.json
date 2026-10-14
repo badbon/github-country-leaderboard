@@ -20935,8 +20935,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 3,
-    "privateContributions": 2,
-    "publicContributions": 3,
+    "privateContributions": 0,
+    "publicContributions": 0,
     "createdAt": "2024-07-08T23:31:59Z"
   },
   {
@@ -20948,7 +20948,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2024-12-04T14:53:21Z"
   },
   {
@@ -20958,8 +20958,8 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 33,
+    "followers": 5,
+    "privateContributions": 47,
     "publicContributions": 1,
     "createdAt": "2024-12-18T22:53:09Z"
   },
@@ -20984,7 +20984,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 200,
+    "publicContributions": 176,
     "createdAt": "2024-10-24T09:58:22Z"
   },
   {
@@ -20994,9 +20994,9 @@
     "location": "Portugal",
     "company": "ESTGV - UPV",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 75,
-    "publicContributions": 213,
+    "followers": 4,
+    "privateContributions": 80,
+    "publicContributions": 223,
     "createdAt": "2024-11-27T17:31:16Z"
   },
   {
@@ -21008,7 +21008,7 @@
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 407,
+    "publicContributions": 399,
     "createdAt": "2024-07-30T00:42:58Z"
   },
   {
@@ -21016,11 +21016,11 @@
     "name": "André Lopes",
     "avatarUrl": "https://avatars.githubusercontent.com/u/184461637?s=72&u=c0ad313d190960fc1f47dbd52675a4d6ee17b07d&v=4",
     "location": "Lisbon, Portugal",
-    "company": "Instituto Superior Técnico",
+    "company": "",
     "twitterUsername": "",
     "followers": 3,
     "privateContributions": 0,
-    "publicContributions": 117,
+    "publicContributions": 46,
     "createdAt": "2024-10-10T02:15:11Z"
   },
   {
@@ -21042,21 +21042,21 @@
     "location": "Porto, Portugal",
     "company": "FEUP - Faculdade de Engenharia da Universidade do Porto",
     "twitterUsername": "",
-    "followers": 3,
-    "privateContributions": 89,
-    "publicContributions": 248,
+    "followers": 7,
+    "privateContributions": 338,
+    "publicContributions": 252,
     "createdAt": "2024-07-20T20:23:40Z"
   },
   {
     "login": "viniciussilva2504",
-    "name": "Vinnicius Jesus",
+    "name": "Vinicius Jesus",
     "avatarUrl": "https://avatars.githubusercontent.com/u/177151278?s=72&u=a0a8535eda2803f2f09581d7bc96b73a00acf80c&v=4",
     "location": "Porto, Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 3,
+    "followers": 8,
     "privateContributions": 0,
-    "publicContributions": 389,
+    "publicContributions": 379,
     "createdAt": "2024-07-31T17:31:09Z"
   },
   {
@@ -21080,7 +21080,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 39,
+    "publicContributions": 10,
     "createdAt": "2024-09-19T12:44:40Z"
   },
   {
@@ -21090,7 +21090,7 @@
     "location": "Portugal",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 1,
     "privateContributions": 0,
     "publicContributions": 39,
     "createdAt": "2024-11-09T18:55:47Z"
@@ -21104,7 +21104,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 160,
+    "publicContributions": 138,
     "createdAt": "2024-11-06T01:48:50Z"
   },
   {
@@ -21116,7 +21116,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 114,
+    "publicContributions": 115,
     "createdAt": "2024-07-19T23:00:58Z"
   },
   {
