@@ -1,6 +1,6 @@
 # Total Contributions - Sierra Leone
 
-Generated: 2026-10-14T13:07:25.669Z
+Generated: 2026-10-14T14:28:16.871Z
 
 Users: 443
 
@@ -13,16 +13,16 @@ Users: 443
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Walon-Foundation |  | Sierra Leone | 5131 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben |  | bnjoxx | Sierra Leone | 3697 |
 | 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova |  | ponkratikka | Sierra Leone | 3550 |
-| 8 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | @monimesl , @monime-lab  | Abarrie_potter | Freetown, Sierra Leone | 3494 |
+| 8 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | @monimesl , @monime-lab  | Abarrie_potter | Freetown, Sierra Leone | 3493 |
 | 9 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala |  |  | Freetown, Sierra Leone	 | 3345 |
 | 10 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | @DORB-AI |  | Sierra Leone | 2466 |
 | 11 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers |  | TheLoneWulf_WA | Freetown, Sierra Leone | 2386 |
 | 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Korlie Limited | zombo_mah | Wilberforce, Freetown. | 2237 |
 | 13 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon |  |  | Sierra Leone | 2115 |
-| 14 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 2098 |
+| 14 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 2097 |
 | 15 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh |  |  | Freetown, Sierra Leone | 2088 |
 | 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole |  |  | Freetown, Sierra Leone | 1876 |
 | 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Core Brim Tech |  | Freetown, Sierra Leone | 1719 |
 | 18 | [abu-bakarr](https://github.com/abu-bakarr) |  | Limkokwing University Student | Boss_Lovel | Sierra Leone | 1668 |
 | 19 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray |  |  | Sierra Leone | 1605 |
-| 20 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Nexlura | DeeMaejor | Freetown, Sierra Leone | 1529 |
+| 20 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Nexlura | DeeMaejor | Freetown, Sierra Leone | 1528 |

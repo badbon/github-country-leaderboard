@@ -1,6 +1,6 @@
 # Public Contributions - Sierra Leone
 
-Generated: 2026-10-14T13:07:25.669Z
+Generated: 2026-10-14T14:28:16.871Z
 
 Users: 443
 
@@ -25,4 +25,4 @@ Users: 443
 | 17 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Dev-Link  |  | Sierra Leone  | 316 |
 | 18 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh |  | _david_conteh | Freetown, SierraLeone | 252 |
 | 19 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | @DropX-Labs  |  | Freetown Sierra Leone | 250 |
-| 20 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Coursepaddy | samuelmoiwa | Sierra Leone | 238 |
+| 20 | [SaiduDev](https://github.com/SaiduDev) | Saidu Mohamed Koroma |  |  | Freetown Sierra Leone  | 235 |

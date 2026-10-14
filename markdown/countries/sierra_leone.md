@@ -19,19 +19,19 @@ Indexed users: 443
 | 5 | [walonCode](https://github.com/walonCode) | Mohamed Lamin Walon Jalloh | Sierra Leone | 5,131 |
 | 6 | [bnjox](https://github.com/bnjox) | Ben | Sierra Leone | 3,697 |
 | 7 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 3,550 |
-| 8 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 3,494 |
+| 8 | [BarrieLAJ](https://github.com/BarrieLAJ) | Alhaji Abubakarr Barrie | Freetown, Sierra Leone | 3,493 |
 | 9 | [EmmanuelKeifala](https://github.com/EmmanuelKeifala) | Emmanuel Keifala | Freetown, Sierra Leone	 | 3,345 |
 | 10 | [dominicOT](https://github.com/dominicOT) | Dominic Oladapo-Tonade | Sierra Leone | 2,466 |
 | 11 | [TheLoneWulf-WA](https://github.com/TheLoneWulf-WA) | Theodore Rogers | Freetown, Sierra Leone | 2,386 |
 | 12 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 2,237 |
 | 13 | [HawaKallon](https://github.com/HawaKallon) | Hawa Kallon | Sierra Leone | 2,115 |
-| 14 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 2,098 |
+| 14 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 2,097 |
 | 15 | [ksawaneh](https://github.com/ksawaneh) | Karim Sawaneh | Freetown, Sierra Leone | 2,088 |
 | 16 | [Mevizcode](https://github.com/Mevizcode) | David Cole | Freetown, Sierra Leone | 1,876 |
 | 17 | [mkk2026](https://github.com/mkk2026) | Momodu Kamara-Kolleh | Freetown, Sierra Leone | 1,719 |
 | 18 | [abu-bakarr](https://github.com/abu-bakarr) |  | Sierra Leone | 1,668 |
 | 19 | [Swaray10](https://github.com/Swaray10) | Alusine Swaray | Sierra Leone | 1,605 |
-| 20 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Freetown, Sierra Leone | 1,529 |
+| 20 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Freetown, Sierra Leone | 1,528 |
 
 ## Public Contributions
 
@@ -56,13 +56,13 @@ Indexed users: 443
 | 17 | [devlinksl](https://github.com/devlinksl) | Dev-Link Sl  | Sierra Leone  | 316 |
 | 18 | [davidddeveloper](https://github.com/davidddeveloper) | David Conteh | Freetown, SierraLeone | 252 |
 | 19 | [Hadesalive](https://github.com/Hadesalive) | Alpha Amadu Bah | Freetown Sierra Leone | 250 |
-| 20 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 238 |
+| 20 | [SaiduDev](https://github.com/SaiduDev) | Saidu Mohamed Koroma | Freetown Sierra Leone  | 235 |
 
 ## Followers
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Freetown, Sierra Leone | 224 |
+| 1 | [mmsesay](https://github.com/mmsesay) | Muhammad Sesay | Freetown, Sierra Leone | 225 |
 | 2 | [AmaduKamara](https://github.com/AmaduKamara) | Amadu Kamara | Freetown, Sierra Leone. | 110 |
 | 3 | [tayyibGbondo](https://github.com/tayyibGbondo) | Tayyib Gbondo | Sierra Leone | 93 |
 | 4 | [larrybah](https://github.com/larrybah) | Larry Bah | Sierra Leone | 89 |
@@ -72,9 +72,9 @@ Indexed users: 443
 | 8 | [Mmah-Zombo](https://github.com/Mmah-Zombo) | M'mah Zombo | Wilberforce, Freetown. | 53 |
 | 9 | [samuelmoiwa](https://github.com/samuelmoiwa) | Moiwa | Sierra Leone | 46 |
 | 10 | [stElmitchay](https://github.com/stElmitchay) | Mitch | Sierra Leone | 42 |
-| 11 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 41 |
-| 12 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | Sierra Leone | 41 |
-| 13 | [Alusp](https://github.com/Alusp) | Alusine Jalloh | Sierra Leone | 40 |
+| 11 | [Alusp](https://github.com/Alusp) | Alusine Jalloh | Sierra Leone | 41 |
+| 12 | [eponkratova](https://github.com/eponkratova) | Eka Ponkratova | Sierra Leone | 41 |
+| 13 | [Johnblesson](https://github.com/Johnblesson) | John Blesson-Rowe | Sierra Leone | 41 |
 | 14 | [rolandeke](https://github.com/rolandeke) | Chinedum Roland Eke | Freetown, Sierra Leone | 39 |
 | 15 | [click2tman](https://github.com/click2tman) | Tamba Lamin | Freetown | 38 |
 | 16 | [francisguchie](https://github.com/francisguchie) | Guchie | Freetown | 33 |
@@ -83,4 +83,4 @@ Indexed users: 443
 | 19 | [IshmaelKargbo](https://github.com/IshmaelKargbo) | Ishmael Kargbo | Sierra Leone | 29 |
 | 20 | [Ifuhad622](https://github.com/Ifuhad622) | Ibraihim Fuhad Suma | Freetown, Sierra Leone, West Africa | 26 |
 
-Generated: 2026-10-14T13:07:25.669Z
+Generated: 2026-10-14T14:28:16.871Z
