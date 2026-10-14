@@ -1,6 +1,6 @@
 # Public Contributions - Ethiopia
 
-Generated: 2026-10-14T15:04:52.840Z
+Generated: 2026-10-14T16:28:39.127Z
 
 Users: 6696
 
@@ -8,10 +8,10 @@ Users: 6696
 |---:|---|---|---|---|---|---:|
 | 1 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Afronex Tech Hub |  | Adama, Ethiopia | 4854 |
 | 2 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Afrodigital.dev |  | Addis Ababa | 4213 |
-| 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) |  |  | Addis Ababa  | 3881 |
-| 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa |  | Fahmi_khandro | Ethiopia | 3646 |
-| 5 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera |  |  | Ethiopia  | 3560 |
-| 6 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh |  |  | Debre Birhan, Ethiopia | 3491 |
+| 3 | [poricf](https://github.com/poricf) | Fahmi Dinsefa |  | Fahmi_khandro | Ethiopia | 3646 |
+| 4 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera |  |  | Ethiopia  | 3560 |
+| 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh |  |  | Debre Birhan, Ethiopia | 3491 |
+| 6 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) |  |  | Addis Ababa  | 3469 |
 | 7 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane |  |  | Addis Ababa, Ethiopia | 3390 |
 | 8 | [Yoseph-M](https://github.com/Yoseph-M) | Yoseph_M |  |  | Addis Ababa, Ethiopia | 3388 |
 | 9 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  |  |  | Ethiopia | 3230 |

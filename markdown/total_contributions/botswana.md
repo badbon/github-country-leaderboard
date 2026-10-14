@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-14T14:54:31.758Z
+Generated: 2026-10-14T16:17:33.001Z
 
 Users: 533
 
@@ -22,7 +22,7 @@ Users: 533
 | 14 | [mrdiin](https://github.com/mrdiin) | Botshelo Brandon Tidimalo | Innovateium (Pty) Ltd | mrdiin_dev | Gaborone | 2045 |
 | 15 | [WyvernPirate](https://github.com/WyvernPirate) | Phemelo Moloi | Botswana International University of Science and Technology |  | Maun, Botswana | 2020 |
 | 16 | [Mopati123](https://github.com/Mopati123) | Mopati Ramaologa |  |  | Gaborone, Botswana | 1890 |
-| 17 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1691 |
-| 18 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa |  |  | Botswana | 1662 |
+| 17 | [sheriff-kutlo](https://github.com/sheriff-kutlo) | Kutlo Will Mangwa |  |  | Botswana | 1830 |
+| 18 | [samsonmabetho](https://github.com/samsonmabetho) | Samson Mabetho | @Modisar |  | Botswana | 1691 |
 | 19 | [Ed1ezac](https://github.com/Ed1ezac) | Edgar Kealeboga |  |  | Gaborone, Botswana | 1516 |
 | 20 | [geek911](https://github.com/geek911) | Moses Chawawa |  |  | Gaborone, Botswana | 1417 |

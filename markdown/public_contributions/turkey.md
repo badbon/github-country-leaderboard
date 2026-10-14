@@ -1,8 +1,8 @@
 # Public Contributions - Turkey
 
-Generated: 2026-10-14T14:37:33.090Z
+Generated: 2026-10-14T16:00:48.537Z
 
-Users: 79191
+Users: 79195
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -16,7 +16,7 @@ Users: 79191
 | 8 | [yanekyuk](https://github.com/yanekyuk) | Yankı Ekin Yüksel |  |  | İstanbul | 12571 |
 | 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda |  |  | İstanbul  | 11265 |
 | 10 | [deligoez](https://github.com/deligoez) | Yunus Emre Deligöz | @tarfin-labs  | yedeligoez | Ankara, TR | 10835 |
-| 11 | [oaslananka](https://github.com/oaslananka) | Osman Aslan |  | oaslananka | Izmir/Türkiye | 9824 |
+| 11 | [oaslananka](https://github.com/oaslananka) | Osman Aslan |  | oaslananka | Izmir/Türkiye | 10365 |
 | 12 | [h4yfans](https://github.com/h4yfans) | Kaan Karaca | @adjust | h4yfans | Istanbul, Turkey | 9027 |
 | 13 | [nomadturk](https://github.com/nomadturk) | M. Omer Golgeli |  |  | Turkey | 8765 |
 | 14 | [aneerabee](https://github.com/aneerabee) | RABE SABAN | Brix |  | turkey | 8145 |

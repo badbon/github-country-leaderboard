@@ -1,15 +1,15 @@
 # Followers - Dominican Republic
 
-Generated: 2026-10-14T15:02:44.719Z
+Generated: 2026-10-14T16:26:14.313Z
 
-Users: 3309
+Users: 3308
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | @wakatime | alanhamlett | Dominican Republic | 5137 |
 | 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Jsoftsolutiom |  | Dominican republic | 940 |
 | 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | @sgsoluciones  | stgermosen | Santo Domingo, Republica Dominicana | 728 |
-| 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Stemelle | LeomarisReyes11 | Dominican Republic | 562 |
+| 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Stemelle | LeomarisReyes11 | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | @x-team  |  | Dominican Republic | 425 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña |  | JulioUrena | Dominican Republic | 311 |
 | 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dev Protocol |  | Dominican Republic | 309 |

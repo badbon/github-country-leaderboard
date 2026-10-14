@@ -1,6 +1,6 @@
 # Total Contributions - Guyana
 
-Generated: 2026-10-14T15:11:53.694Z
+Generated: 2026-10-14T16:36:46.621Z
 
 Users: 186
 
@@ -8,9 +8,9 @@ Users: 186
 |---:|---|---|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 8081 |
 | 2 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Vorso Computing, Inc. | sandogee | Guyana, South America | 5503 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 5223 |
-| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 4469 |
-| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4335 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 5203 |
+| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | RASH |  | Georgetown Guyana | 4468 |
+| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell |  |  | Guyana | 4341 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 3976 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3928 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph |  |  | Georgetown, TX | 3803 |

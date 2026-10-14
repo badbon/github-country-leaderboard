@@ -1,6 +1,6 @@
 # Public Contributions - Afghanistan
 
-Generated: 2026-10-14T14:44:08.191Z
+Generated: 2026-10-14T16:08:03.498Z
 
 Users: 1487
 
@@ -23,6 +23,6 @@ Users: 1487
 | 15 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Tawana Technology |  | Kabul, Afghanistan | 1261 |
 | 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi |  |  | Kabul, Afghanistan | 1181 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin |  |  | Afghanistan | 1083 |
-| 18 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1081 |
-| 19 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1078 |
-| 20 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1062 |
+| 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Freelancer |  | Herat, Afghanistan | 1078 |
+| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh |  |  | Afghanistan,Herat | 1062 |
+| 20 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Islamic Bank Of Afghanistan |  | Kabul | 1049 |

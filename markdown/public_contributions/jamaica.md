@@ -1,6 +1,6 @@
 # Public Contributions - Jamaica
 
-Generated: 2026-10-14T15:19:01.288Z
+Generated: 2026-10-14T16:42:01.473Z
 
 Users: 1275
 
@@ -16,8 +16,8 @@ Users: 1275
 | 8 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket |  | AirpocketRobot | kingston jamaca | 1383 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Chabad.Org |  | Kingston, PA | 1362 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith |  |  | Jamaica | 1173 |
-| 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 978 |
-| 12 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 942 |
+| 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | @Travelers |  | Kingston, NY | 1002 |
+| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Flox |  | Kingston, Ontario | 978 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser |  |  | Kingston, Ontario | 876 |
 | 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase |  |  | Kingston upon Thames | 872 |
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi |  |  | Kingston Upon Thames | 751 |

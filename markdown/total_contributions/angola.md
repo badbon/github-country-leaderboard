@@ -1,6 +1,6 @@
 # Total Contributions - Angola
 
-Generated: 2026-10-14T14:46:06.742Z
+Generated: 2026-10-14T16:09:50.852Z
 
 Users: 2505
 
@@ -14,8 +14,8 @@ Users: 2505
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido |  |  | Luanda, Angola | 7203 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel |  |  | Luanda, Angola | 6554 |
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue |  |  | Angola | 6520 |
-| 9 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5936 |
-| 10 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 5656 |
+| 9 | [joel2011140](https://github.com/joel2011140) | Joel Marinho |  | joelmarinho2016 | Luanda | 5656 |
+| 10 | [bentocussei](https://github.com/bentocussei) | Bento Cussei |  | bentobenack | Luanda, Angola | 5633 |
 | 11 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo | 42 Luanda |  |  Luanda, Angola | 5486 |
 | 12 | [figassis](https://github.com/figassis) | Assis Ngolo | Nellcorp |  | Luanda, Angola | 5456 |
 | 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Business Warrior |  | Angola, IN | 5388 |

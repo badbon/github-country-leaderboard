@@ -1,6 +1,6 @@
 # Hong Kong
 
-Indexed users: 10,282
+Indexed users: 10,281
 
 | Leaderboard | Link |
 |---|---|
@@ -16,22 +16,22 @@ Indexed users: 10,282
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | Hong Kong | 27,688 |
 | 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | melbourne/hong kong | 24,121 |
 | 4 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | Hong Kong | 22,592 |
-| 5 | [thekvn](https://github.com/thekvn) | Kevin Chan | Hong Kong | 16,589 |
-| 6 | [Dmdv](https://github.com/Dmdv) | dmdv | Hong Kong | 16,146 |
-| 7 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 16,055 |
-| 8 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU | Hong Kong, Hong Kong | 15,808 |
-| 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 14,637 |
-| 10 | [augchan42](https://github.com/augchan42) | Augustin Chan | Hong Kong | 14,636 |
-| 11 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | Hong Kong | 14,213 |
-| 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 13,265 |
-| 13 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | Hong Kong | 12,379 |
-| 14 | [araa47](https://github.com/araa47) | Akshay  | Hong Kong  | 11,917 |
-| 15 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | Hong Kong | 11,369 |
-| 16 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
-| 17 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
-| 18 | [jasongong111](https://github.com/jasongong111) | Jason Gong | KLT, KW, Hong Kong | 10,906 |
-| 19 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 | Hong Kong | 10,458 |
-| 20 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | Hong Kong | 10,343 |
+| 5 | [stanley-hypo](https://github.com/stanley-hypo) | Stanley | Hong Kong | 18,380 |
+| 6 | [thekvn](https://github.com/thekvn) | Kevin Chan | Hong Kong | 16,589 |
+| 7 | [Dmdv](https://github.com/Dmdv) | dmdv | Hong Kong | 16,146 |
+| 8 | [warren618](https://github.com/warren618) | Haozhe Wu | HONG KONG | 16,055 |
+| 9 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU | Hong Kong, Hong Kong | 15,808 |
+| 10 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat | Hong Kong | 14,637 |
+| 11 | [augchan42](https://github.com/augchan42) | Augustin Chan | Hong Kong | 14,636 |
+| 12 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | Hong Kong | 14,213 |
+| 13 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | Hong Kong | 13,265 |
+| 14 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | Hong Kong | 12,379 |
+| 15 | [araa47](https://github.com/araa47) | Akshay  | Hong Kong  | 11,917 |
+| 16 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | Hong Kong | 11,369 |
+| 17 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Hong Kong | 11,308 |
+| 18 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Hong Kong | 11,006 |
+| 19 | [jasongong111](https://github.com/jasongong111) | Jason Gong | KLT, KW, Hong Kong | 10,906 |
+| 20 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 | Hong Kong | 10,458 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 10,282
 | 19 | [syhyz1990](https://github.com/syhyz1990) | iPc | Hong Kong | 975 |
 | 20 | [robbin](https://github.com/robbin) | Fan Kai | Hong Kong | 959 |
 
-Generated: 2026-10-14T15:13:56.497Z
+Generated: 2026-10-14T16:39:02.549Z

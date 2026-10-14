@@ -1,8 +1,8 @@
 # Total Contributions - Hong Kong
 
-Generated: 2026-10-14T15:13:56.497Z
+Generated: 2026-10-14T16:39:02.549Z
 
-Users: 10282
+Users: 10281
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -10,19 +10,19 @@ Users: 10282
 | 2 | [donbeave](https://github.com/donbeave) | Alexey Zhokhov | @scentbird @chainargos | donbeave | Hong Kong | 27688 |
 | 3 | [undivisible](https://github.com/undivisible) | Max Carter 祁明思 | @basedhardware | makethings4ppl | melbourne/hong kong | 24121 |
 | 4 | [hswong3i](https://github.com/hswong3i) | Wong Hoi Sing Edison | http://pantarei-design.com | hswong3i | Hong Kong | 22592 |
-| 5 | [thekvn](https://github.com/thekvn) | Kevin Chan | @ybexio  |  | Hong Kong | 16589 |
-| 6 | [Dmdv](https://github.com/Dmdv) | dmdv |  |  | Hong Kong | 16146 |
-| 7 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 16055 |
-| 8 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU |  |  | Hong Kong, Hong Kong | 15808 |
-| 9 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 14637 |
-| 10 | [augchan42](https://github.com/augchan42) | Augustin Chan |  |  | Hong Kong | 14636 |
-| 11 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | .NET Foundation |  | Hong Kong | 14213 |
-| 12 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 13265 |
-| 13 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | @startino |  | Hong Kong | 12379 |
-| 14 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
-| 15 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | @narrativeproject |  | Hong Kong | 11369 |
-| 16 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
-| 17 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
-| 18 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |
-| 19 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |
-| 20 | [SGAfonso](https://github.com/SGAfonso) | Sebastian | @reality-connect  |  | Hong Kong | 10343 |
+| 5 | [stanley-hypo](https://github.com/stanley-hypo) | Stanley |  |  | Hong Kong | 18380 |
+| 6 | [thekvn](https://github.com/thekvn) | Kevin Chan | @ybexio  |  | Hong Kong | 16589 |
+| 7 | [Dmdv](https://github.com/Dmdv) | dmdv |  |  | Hong Kong | 16146 |
+| 8 | [warren618](https://github.com/warren618) | Haozhe Wu | The University Of Hong Kong |  | HONG KONG | 16055 |
+| 9 | [pakkinlau](https://github.com/pakkinlau) | Pak Kin LAU |  |  | Hong Kong, Hong Kong | 15808 |
+| 10 | [BattlefieldDuck](https://github.com/BattlefieldDuck) | tptat |  |  | Hong Kong | 14637 |
+| 11 | [augchan42](https://github.com/augchan42) | Augustin Chan |  |  | Hong Kong | 14636 |
+| 12 | [ArgoZhang](https://github.com/ArgoZhang) | Argo Zhang | .NET Foundation |  | Hong Kong | 14213 |
+| 13 | [SpatLyu](https://github.com/SpatLyu) | Wenbo Lyu | PolyU; HKUST(GZ); |  | Hong Kong | 13265 |
+| 14 | [antopiahk](https://github.com/antopiahk) | Jorge Lewis | @startino |  | Hong Kong | 12379 |
+| 15 | [araa47](https://github.com/araa47) | Akshay  |  |  | Hong Kong  | 11917 |
+| 16 | [clchinkc](https://github.com/clchinkc) | Kevin Chin | @narrativeproject |  | Hong Kong | 11369 |
+| 17 | [veryverypro](https://github.com/veryverypro) | Xu, Hao | Optima AI Limited |  | Hong Kong | 11308 |
+| 18 | [shuakami](https://github.com/shuakami) | 速冻饺子 | Luoxiaohei |  | Hong Kong | 11006 |
+| 19 | [jasongong111](https://github.com/jasongong111) | Jason Gong | Hong Kong Baptist University  |  | KLT, KW, Hong Kong | 10906 |
+| 20 | [qq200774491](https://github.com/qq200774491) | 花吃了阿九 |  |  | Hong Kong | 10458 |

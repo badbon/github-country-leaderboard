@@ -1,8 +1,8 @@
 # Total Contributions - United Arab Emirates
 
-Generated: 2026-10-14T14:40:17.312Z
+Generated: 2026-10-14T16:11:13.589Z
 
-Users: 4229
+Users: 4230
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -13,16 +13,16 @@ Users: 4229
 | 5 | [omarismailb](https://github.com/omarismailb) | omar | Ascend |  | London / Abu Dhabi  | 13848 |
 | 6 | [piwi3910](https://github.com/piwi3910) | Pascal Watteel | Dell Technologies |  | United Arab Emirates | 13573 |
 | 7 | [seyyedmuhamad](https://github.com/seyyedmuhamad) | Mohamad Mahdi Mohamadian | Elegant Hoopoe |  | Dubai, United Arab Emirates | 13470 |
-| 8 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
-| 9 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
-| 10 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 10914 |
-| 11 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
-| 12 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
-| 13 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 10163 |
-| 14 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
-| 15 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
-| 16 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
-| 17 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
-| 18 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |
-| 19 | [Pawel-608](https://github.com/Pawel-608) | Paweł Rainer |  |  | Dubai, United Arab Emirates | 8228 |
-| 20 | [GoldRbxia12](https://github.com/GoldRbxia12) | GoldRbxia | GDXYZ |  | United Arab Emirates | 8043 |
+| 8 | [Desouki27](https://github.com/Desouki27) | Mohamed Desouki | Deloitte |  | Dubai, United Arab Emirates | 12906 |
+| 9 | [syymza](https://github.com/syymza) | Dani | @alpheya |  | Abu Dhabi, UAE | 11227 |
+| 10 | [ankitmaheshwari-com](https://github.com/ankitmaheshwari-com) | Ankit Maheshwari |  |  | United Arab Emirates | 11188 |
+| 11 | [AliRaZa1121](https://github.com/AliRaZa1121) | Ali RaZa |  |  | Dubai, United Arab Emirates | 10914 |
+| 12 | [ahmadpx](https://github.com/ahmadpx) | Ahmed Abdallah | Seera \| Tajawal \| Almosafer |  | United Arab Emirates | 10867 |
+| 13 | [Massad](https://github.com/Massad) | Omar Masad | @testappio |  | United Arab Emirates, Dubai | 10605 |
+| 14 | [tech-sumit](https://github.com/tech-sumit) | Sumit S. Agrawal |  |  | Dubai, United Arab Emirates | 10163 |
+| 15 | [aenawi](https://github.com/aenawi) | Hashem Aldhaheri |  | aenawi | Abu Dhabi, United Arab Emirates | 9573 |
+| 16 | [Aborii](https://github.com/Aborii) | Abdullah Almofleh | @tech-propwise-org  |  | United Arab Emirates, Dubai | 9537 |
+| 17 | [codemug](https://github.com/codemug) | Usman Shahid | Careem |  | Dubai, United Arab Emirates | 9519 |
+| 18 | [abegehr](https://github.com/abegehr) | Anton Begehr | @Stealth | abegehr | Dubai, United Arab Emirates | 9141 |
+| 19 | [xdaguy](https://github.com/xdaguy) | ABDULLAH HARIS |  |  | Abu Dhabi, UAE | 8796 |
+| 20 | [Pawel-608](https://github.com/Pawel-608) | Paweł Rainer |  |  | Dubai, United Arab Emirates | 8228 |

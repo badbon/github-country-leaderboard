@@ -45,8 +45,8 @@ Indexed users: 1,261
 | 6 | [MGeovany](https://github.com/MGeovany) | Marlon Geovany Castro | Honduras, Cortes | 1,802 |
 | 7 | [MilanDroid](https://github.com/MilanDroid) | Antony Brenes | Honduras | 1,486 |
 | 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,473 |
-| 9 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,195 |
-| 10 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,106 |
+| 9 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,465 |
+| 10 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,195 |
 | 11 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 1,089 |
 | 12 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,085 |
 | 13 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 919 |
@@ -83,4 +83,4 @@ Indexed users: 1,261
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-14T15:13:10.539Z
+Generated: 2026-10-14T16:38:17.467Z

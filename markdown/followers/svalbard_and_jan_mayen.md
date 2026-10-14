@@ -1,6 +1,6 @@
 # Followers - Svalbard and Jan Mayen
 
-Generated: 2026-10-14T14:34:11.458Z
+Generated: 2026-10-14T15:54:44.101Z
 
 Users: 10
 

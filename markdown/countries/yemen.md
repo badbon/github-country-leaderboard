@@ -55,8 +55,8 @@ Indexed users: 1,206
 | 16 | [716W](https://github.com/716W) | Ali Bin-Samida | Yemen | 932 |
 | 17 | [Hazem-Alyaari](https://github.com/Hazem-Alyaari) | Hazem Alyaari | sana'a  | 879 |
 | 18 | [yswef](https://github.com/yswef) | yswef alhmzy | yemen | 835 |
-| 19 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 683 |
-| 20 | [hetari](https://github.com/hetari) | Ebraheem Alhetari | Yemen | 680 |
+| 19 | [O2sa](https://github.com/O2sa) | Osama Mabkhot | Yemen | 694 |
+| 20 | [HassanY1010](https://github.com/HassanY1010) | Hassan | Yemen | 683 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 1,206
 | 19 | [aameralduais](https://github.com/aameralduais) | Aamer Alduais | Sana'a, Yemen | 158 |
 | 20 | [its4nas](https://github.com/its4nas) | Anas Al-Dharei | Yemen | 147 |
 
-Generated: 2026-10-14T14:42:59.769Z
+Generated: 2026-10-14T16:07:16.616Z

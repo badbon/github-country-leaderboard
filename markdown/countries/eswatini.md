@@ -15,8 +15,8 @@ Indexed users: 108
 | 1 | [rapthar](https://github.com/rapthar) | Mncedisi Bhembe | Swaziland | 21,421 |
 | 2 | [Chasusa](https://github.com/Chasusa) | Paul Chasusa | Eswatini, Southern Africa | 1,701 |
 | 3 | [CBahtaria](https://github.com/CBahtaria) | Charles Bartaria | Manzini, Kingdom of Eswatini | 1,007 |
-| 4 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 702 |
-| 5 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 650 |
+| 4 | [Co-ordinator](https://github.com/Co-ordinator) | Coordinator | Manzini, Eswatini | 970 |
+| 5 | [mayo23-06-02](https://github.com/mayo23-06-02) | Mayo | Eswatini | 702 |
 | 6 | [Dwaynemaster007](https://github.com/Dwaynemaster007) | Thubelihle Dlamini | Eswatini | 469 |
 | 7 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 357 |
 | 8 | [Dalubuhle-Dlamini](https://github.com/Dalubuhle-Dlamini) | Sihlelo Dalubuhle Dlamini | Swaziland | 336 |
@@ -62,7 +62,7 @@ Indexed users: 108
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 201 |
+| 1 | [wandilemawelela](https://github.com/wandilemawelela) | Wandile Mawelela | Manzini, Eswatini | 202 |
 | 2 | [KDlamini](https://github.com/KDlamini) | Simo Dlamini | Mbabane, Eswatini | 78 |
 | 3 | [Njabulo240](https://github.com/Njabulo240) | Njabulo Mamba | Eswatini, Manzini | 37 |
 | 4 | [phume03](https://github.com/phume03) | Phumelela Mdluli | Eswatini | 28 |
@@ -83,4 +83,4 @@ Indexed users: 108
 | 19 | [SakhileMamba](https://github.com/SakhileMamba) | Sakhile Mamba | Eswatini | 9 |
 | 20 | [allGhostAnon](https://github.com/allGhostAnon) | Lwazi Dlamini | Mbabane, Swaziland  | 8 |
 
-Generated: 2026-10-14T15:04:48.481Z
+Generated: 2026-10-14T16:27:41.293Z

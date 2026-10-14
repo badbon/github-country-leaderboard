@@ -54,9 +54,9 @@ Indexed users: 1,487
 | 15 | [elyasdehati](https://github.com/elyasdehati) | Elyas Dehati | Kabul, Afghanistan | 1,261 |
 | 16 | [Jamalludeen](https://github.com/Jamalludeen) | Jamalludeen Karimi | Kabul, Afghanistan | 1,181 |
 | 17 | [Munib03](https://github.com/Munib03) | Hedayatullah Yamin | Afghanistan | 1,083 |
-| 18 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,081 |
-| 19 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,078 |
-| 20 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,062 |
+| 18 | [nasir-ehsan-83](https://github.com/nasir-ehsan-83) | Nasir Ahmad Ehsan | Herat, Afghanistan | 1,078 |
+| 19 | [Mahdi-Hasanzadeh](https://github.com/Mahdi-Hasanzadeh) | Mahdi Hasanzadeh | Afghanistan,Herat | 1,062 |
+| 20 | [AhmadWahebArifi](https://github.com/AhmadWahebArifi) | Ahmad Waheb Arifi | Kabul | 1,049 |
 
 ## Followers
 
@@ -65,9 +65,9 @@ Indexed users: 1,487
 | 1 | [afgprogrammer](https://github.com/afgprogrammer) | Mohammad Rahmani |  Kabul, Afghanistan | 3,463 |
 | 2 | [imranmalakzai](https://github.com/imranmalakzai) | Imran Malakzai | Afghanistan | 672 |
 | 3 | [SanaTameem](https://github.com/SanaTameem) | Sana Tameem | Kabul-Afghanistan | 436 |
-| 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal | Kabul | 419 |
+| 4 | [UstadYasin](https://github.com/UstadYasin) | Muhammad Yasin Jamal | Kabul | 421 |
 | 5 | [YaserZarifi](https://github.com/YaserZarifi) | Yaser Zarifi | Kabul | 295 |
-| 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 281 |
+| 6 | [jaweid123](https://github.com/jaweid123) | Jaweid Moraadi | Kabul province  | 287 |
 | 7 | [MasihMuhammadi](https://github.com/MasihMuhammadi) | MasihullahMuhammadi | Kabul, Afghanistan | 242 |
 | 8 | [AmanAyoub](https://github.com/AmanAyoub) | Aman Ayoub | Afghanistan | 222 |
 | 9 | [MastooraTurkmen](https://github.com/MastooraTurkmen) | Mastoora Turkmen | Kabul, Afghanistan | 218 |
@@ -83,4 +83,4 @@ Indexed users: 1,487
 | 19 | [zainabturkmen](https://github.com/zainabturkmen) | Zainab Turkmen | Kabul  | 125 |
 | 20 | [NaveedAhmadHematmal](https://github.com/NaveedAhmadHematmal) | Naveed Ahmad Hematmal | Afghanistan | 117 |
 
-Generated: 2026-10-14T14:44:08.191Z
+Generated: 2026-10-14T16:08:03.498Z

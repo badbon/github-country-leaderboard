@@ -1,8 +1,8 @@
 # Public Contributions - Israel
 
-Generated: 2026-10-14T15:17:24.306Z
+Generated: 2026-10-14T16:40:49.109Z
 
-Users: 12428
+Users: 12427
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|

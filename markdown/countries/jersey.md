@@ -12,7 +12,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,306 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 54,327 |
 | 2 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 38,484 |
 | 3 | [jde](https://github.com/jde) | David Erwin | New [York, Jersey] | 11,807 |
 | 4 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 10,567 |
@@ -37,7 +37,7 @@ Indexed users: 139
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 40,069 |
+| 1 | [marcusquinn](https://github.com/marcusquinn) | Marcus Quinn | London, UK, Los-angeles, California, England, Jersey | 40,080 |
 | 2 | [simonbrowndotje](https://github.com/simonbrowndotje) | Simon Brown | Jersey, Channel Islands | 747 |
 | 3 | [PhilETaylor](https://github.com/PhilETaylor) | Phil E. Taylor | Jersey, Channel Islands | 714 |
 | 4 | [j4ckxyz](https://github.com/j4ckxyz) | jack | Jersey, UK | 691 |
@@ -45,7 +45,7 @@ Indexed users: 139
 | 6 | [CJ-Jackson](https://github.com/CJ-Jackson) | Christopher John Jackson | St. Clement, Jersey | 548 |
 | 7 | [vraic](https://github.com/vraic) | André Tanguy | Jersey | 500 |
 | 8 | [gnathoi](https://github.com/gnathoi) | Nathaniel Hey | Jersey, Channel Islands | 423 |
-| 9 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 407 |
+| 9 | [michaelbutler1998](https://github.com/michaelbutler1998) | Michael Butler | Jersey | 411 |
 | 10 | [ndestates](https://github.com/ndestates) | Nick Dodsley | Jersey | 213 |
 | 11 | [mhaddon](https://github.com/mhaddon) | Michael Haddon | Jersey, Channel Islands | 211 |
 | 12 | [xsebby](https://github.com/xsebby) | sebby | jersey | 178 |
@@ -83,4 +83,4 @@ Indexed users: 139
 | 19 | [r-moore](https://github.com/r-moore) | Richard Moore | Jersey | 21 |
 | 20 | [Chrisedmo](https://github.com/Chrisedmo) | Chris Mousdale | Jersey, Channel Islands | 20 |
 
-Generated: 2026-10-14T15:19:07.522Z
+Generated: 2026-10-14T16:42:24.106Z

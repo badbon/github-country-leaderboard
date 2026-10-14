@@ -1,6 +1,6 @@
 # Dominican Republic
 
-Indexed users: 3,309
+Indexed users: 3,308
 
 | Leaderboard | Link |
 |---|---|
@@ -65,7 +65,7 @@ Indexed users: 3,309
 | 1 | [alanhamlett](https://github.com/alanhamlett) | Alan Hamlett | Dominican Republic | 5,137 |
 | 2 | [johansitoweb](https://github.com/johansitoweb) | Johan Antonio | Dominican republic | 940 |
 | 3 | [sgermosen](https://github.com/sgermosen) | Starling Germosen | Santo Domingo, Republica Dominicana | 728 |
-| 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Dominican Republic | 562 |
+| 4 | [LeomarisReyes](https://github.com/LeomarisReyes) | Leomaris Reyes | Dominican Republic | 565 |
 | 5 | [rmariuzzo](https://github.com/rmariuzzo) | Rubens Mariuzzo | Dominican Republic | 425 |
 | 6 | [juliourena](https://github.com/juliourena) | Julio Ureña | Dominican Republic | 311 |
 | 7 | [Topdev1234](https://github.com/Topdev1234) | Topdev | Dominican Republic | 309 |
@@ -83,4 +83,4 @@ Indexed users: 3,309
 | 19 | [eatskolnikov](https://github.com/eatskolnikov) | Enmanuel Toribio | Dominican Republic | 149 |
 | 20 | [adonismendozaperez](https://github.com/adonismendozaperez) | Adonis Mendoza  | Dominican Republic | 117 |
 
-Generated: 2026-10-14T15:02:44.719Z
+Generated: 2026-10-14T16:26:14.313Z

@@ -1,6 +1,6 @@
 # Iceland
 
-Indexed users: 1,579
+Indexed users: 1,578
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,579
 | 19 | [jokull](https://github.com/jokull) | Jökull Sólberg Auðunsson | Reykjavík, Iceland | 209 |
 | 20 | [sbsigur](https://github.com/sbsigur) | Sævar Bergur Sigurgeirsson | Iceland | 203 |
 
-Generated: 2026-10-14T15:15:30.397Z
+Generated: 2026-10-14T16:39:55.374Z

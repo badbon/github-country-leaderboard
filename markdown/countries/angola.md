@@ -20,8 +20,8 @@ Indexed users: 2,505
 | 6 | [EmanuelJoseCandido](https://github.com/EmanuelJoseCandido) | Emanuel Cândido | Luanda, Angola | 7,203 |
 | 7 | [nuelst](https://github.com/nuelst) | manuel | Luanda, Angola | 6,554 |
 | 8 | [Jndungue089](https://github.com/Jndungue089) | Josemar Ndungue | Angola | 6,520 |
-| 9 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,936 |
-| 10 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 5,656 |
+| 9 | [joel2011140](https://github.com/joel2011140) | Joel Marinho | Luanda | 5,656 |
+| 10 | [bentocussei](https://github.com/bentocussei) | Bento Cussei | Luanda, Angola | 5,633 |
 | 11 | [emanuel-malungo](https://github.com/emanuel-malungo) | Emanuel Malungo |  Luanda, Angola | 5,486 |
 | 12 | [figassis](https://github.com/figassis) | Assis Ngolo | Luanda, Angola | 5,456 |
 | 13 | [cnoble](https://github.com/cnoble) | Chris Noble | Angola, IN | 5,388 |
@@ -83,4 +83,4 @@ Indexed users: 2,505
 | 19 | [nazarepiedady](https://github.com/nazarepiedady) | Nazaré da Piedade | Angola | 164 |
 | 20 | [jofranqueira](https://github.com/jofranqueira) | José Frangueira | Angola | 160 |
 
-Generated: 2026-10-14T14:46:06.742Z
+Generated: 2026-10-14T16:09:50.852Z

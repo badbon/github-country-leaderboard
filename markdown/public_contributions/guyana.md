@@ -1,6 +1,6 @@
 # Public Contributions - Guyana
 
-Generated: 2026-10-14T15:11:53.694Z
+Generated: 2026-10-14T16:36:46.621Z
 
 Users: 186
 
@@ -8,7 +8,7 @@ Users: 186
 |---:|---|---|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder |  |  | Georgetown, KY | 4103 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Mobile Strategies LLC |  | Georgetown, TX | 3927 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3445 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | @adobe |  | Georgetown, Texas | 3435 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | @upbound  | internegz | Georgetown, Seattle | 1857 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood |  |  | Georgetown, TX | 1619 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | LugeTech, Brutal Tracks Recording Studio, Maad 97.5 FM | ktappdev | Guyana | 1495 |

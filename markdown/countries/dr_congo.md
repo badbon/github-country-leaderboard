@@ -30,7 +30,7 @@ Indexed users: 699
 | 16 | [danielrubango](https://github.com/danielrubango) | Daniel RUBANGO | Kinshasa | 4,935 |
 | 17 | [pacomeissa](https://github.com/pacomeissa) | PACOME ISSA | Democratic Republic of Congo | 4,798 |
 | 18 | [AlbusDigi](https://github.com/AlbusDigi) | Albus | Kinshasa | 4,703 |
-| 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,543 |
+| 19 | [MasirikaConstantin](https://github.com/MasirikaConstantin) | Masirika Constantin | Kinshasa | 4,585 |
 | 20 | [Gptimus](https://github.com/Gptimus) | Guerth Manzala | Kinshasa/RDC | 4,403 |
 
 ## Public Contributions
@@ -47,7 +47,7 @@ Indexed users: 699
 | 8 | [Jeffbuleli](https://github.com/Jeffbuleli) | Jeff Buleli | Kinshasa, DR Congo | 1,347 |
 | 9 | [Sumant3086](https://github.com/Sumant3086) | Sumant Yadav | Kinshasa | 1,285 |
 | 10 | [jeereq](https://github.com/jeereq) | minganda | rdc/kinshasa | 1,241 |
-| 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,164 |
+| 11 | [Kakesa](https://github.com/Kakesa) | Espoir Kakesa | kinshasa DRC | 1,151 |
 | 12 | [KUROYUKIHIME333](https://github.com/KUROYUKIHIME333) | Daniel RAMAZANI | Kinshasa, Democratic Republic of the Congo | 1,082 |
 | 13 | [mr-leo44](https://github.com/mr-leo44) | Lionel Kaniki | Kinshasa, Drc | 1,070 |
 | 14 | [martinbitha5](https://github.com/martinbitha5) | Martin Bitha | Kinshasa | 1,057 |
@@ -83,4 +83,4 @@ Indexed users: 699
 | 19 | [bolenge](https://github.com/bolenge) | Don de Dieu Bolenge | Congo - Kinshasa | 69 |
 | 20 | [ChrisMwanya](https://github.com/ChrisMwanya) | Chris Mwanya | kinshasa | 69 |
 
-Generated: 2026-10-14T15:03:20.893Z
+Generated: 2026-10-14T16:26:53.591Z

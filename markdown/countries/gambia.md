@@ -14,7 +14,7 @@ Indexed users: 79
 |---:|---|---|---|---:|
 | 1 | [FrancisMario](https://github.com/FrancisMario) | Marxlo | Gambia | 3,580 |
 | 2 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 3,174 |
-| 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,475 |
+| 3 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 1,481 |
 | 4 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 1,338 |
 | 5 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 1,319 |
 | 6 | [laminbarrow](https://github.com/laminbarrow) | Lamin Barrow | Bakoteh, Gambia | 1,305 |
@@ -40,7 +40,7 @@ Indexed users: 79
 | 1 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 493 |
 | 2 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 413 |
 | 3 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
-| 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 370 |
+| 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 376 |
 | 5 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 315 |
 | 6 | [khanmomodou101](https://github.com/khanmomodou101) | Momodou khan | Gambia | 234 |
 | 7 | [fiture99](https://github.com/fiture99) | Lamin Jawneh | Banjul, Gambia | 209 |
@@ -77,10 +77,10 @@ Indexed users: 79
 | 13 | [Sirhino](https://github.com/Sirhino) | Imwealthman | United State,Gambia | 12 |
 | 14 | [Degoot-AM](https://github.com/Degoot-AM) | Abdoelnaser M Degoot | Banjul, Gambia | 10 |
 | 15 | [Massay](https://github.com/Massay) | Massay Bah | The Gambia, Banjul | 10 |
-| 16 | [Bairoking](https://github.com/Bairoking) | Sanna Bah | Banjul International Airport | 9 |
-| 17 | [Amadou-Jallow](https://github.com/Amadou-Jallow) | Amadou S Jallow | Gambia | 8 |
+| 16 | [Amadou-Jallow](https://github.com/Amadou-Jallow) | Amadou S Jallow | Gambia | 9 |
+| 17 | [Bairoking](https://github.com/Bairoking) | Sanna Bah | Banjul International Airport | 9 |
 | 18 | [Juniorbarry26](https://github.com/Juniorbarry26) | Alsainey Barry | Gambia | 8 |
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-14T15:08:05.547Z
+Generated: 2026-10-14T16:30:55.627Z

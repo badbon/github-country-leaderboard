@@ -39,10 +39,10 @@ Indexed users: 6,696
 |---:|---|---|---|---:|
 | 1 | [Bereket-Ketema](https://github.com/Bereket-Ketema) | Bereket Ketema | Adama, Ethiopia | 4,854 |
 | 2 | [mohammedsbd](https://github.com/mohammedsbd) | Mohammed Salih | Addis Ababa | 4,213 |
-| 3 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,881 |
-| 4 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 3,646 |
-| 5 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,560 |
-| 6 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh | Debre Birhan, Ethiopia | 3,491 |
+| 3 | [poricf](https://github.com/poricf) | Fahmi Dinsefa | Ethiopia | 3,646 |
+| 4 | [samuelabera21](https://github.com/samuelabera21) | Samuel Abera | Ethiopia  | 3,560 |
+| 5 | [Hailemeskel-Getaneh](https://github.com/Hailemeskel-Getaneh) | Hailemeskel Getaneh | Debre Birhan, Ethiopia | 3,491 |
+| 6 | [Thyon3](https://github.com/Thyon3) | Asnake Mengesha (Thyon) | Addis Ababa  | 3,469 |
 | 7 | [hiruy72](https://github.com/hiruy72) | Hiruy Legesse Adane | Addis Ababa, Ethiopia | 3,390 |
 | 8 | [Yoseph-M](https://github.com/Yoseph-M) | Yoseph_M | Addis Ababa, Ethiopia | 3,388 |
 | 9 | [yab3ts](https://github.com/yab3ts) | Yabets Maregn  | Ethiopia | 3,230 |
@@ -83,4 +83,4 @@ Indexed users: 6,696
 | 19 | [Olyadtemesgen](https://github.com/Olyadtemesgen) | Olyad Temesgen Amsalu | Addis Ababa, Ethiopia | 519 |
 | 20 | [yonasleykun27](https://github.com/yonasleykun27) | Yonas Leykun | Addis Ababa, Ethiopia  | 515 |
 
-Generated: 2026-10-14T15:04:52.840Z
+Generated: 2026-10-14T16:28:39.127Z

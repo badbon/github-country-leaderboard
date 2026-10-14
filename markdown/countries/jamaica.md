@@ -47,8 +47,8 @@ Indexed users: 1,275
 | 8 | [airpocket-soundman](https://github.com/airpocket-soundman) | airpocket | kingston jamaca | 1,383 |
 | 9 | [yringler](https://github.com/yringler) | Yehuda Ringler | Kingston, PA | 1,362 |
 | 10 | [elixer-prince](https://github.com/elixer-prince) | Daniel Leith | Jamaica | 1,173 |
-| 11 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 978 |
-| 12 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 942 |
+| 11 | [shkeating](https://github.com/shkeating) | Shauna Keating | Kingston, NY | 1,002 |
+| 12 | [billlevine](https://github.com/billlevine) | Bill LeVine | Kingston, Ontario | 978 |
 | 13 | [wiegerthefarmer](https://github.com/wiegerthefarmer) | Aaron Visser | Kingston, Ontario | 876 |
 | 14 | [BernardUK](https://github.com/BernardUK) | Bernard Boase | Kingston upon Thames | 872 |
 | 15 | [markoskatsi](https://github.com/markoskatsi) | Markos Katsi | Kingston Upon Thames | 751 |
@@ -83,4 +83,4 @@ Indexed users: 1,275
 | 19 | [JonCooperWorks](https://github.com/JonCooperWorks) |  | Jamaica | 101 |
 | 20 | [andrewmaier](https://github.com/andrewmaier) | Andrew Maier | Kingston, Ontario | 94 |
 
-Generated: 2026-10-14T15:19:01.288Z
+Generated: 2026-10-14T16:42:01.473Z

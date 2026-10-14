@@ -1,6 +1,6 @@
 # Public Contributions - Cuba
 
-Generated: 2026-10-14T14:59:44.667Z
+Generated: 2026-10-14T16:23:13.915Z
 
 Users: 1276
 
@@ -11,12 +11,12 @@ Users: 1276
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | University of Havana (@matcom) | alepiad | Cuba | 7089 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz |  |  | Cuba | 4454 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel |  | rojassucar0115 | Cuba, Holguin | 3246 |
-| 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez |  |  | Havana, Cuba | 2293 |
+| 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez |  |  | Havana, Cuba | 2352 |
 | 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Universidad de Matanzas |  | Cuba | 1919 |
 | 8 | [rodnye](https://github.com/rodnye) | Rodny Estrada | @cujaeredsocial | rodnyecode | La Habana, Cuba | 1514 |
-| 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 1486 |
-| 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert |  |  | Cuba | 1476 |
-| 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco |  |  | Havana, Cuba | 1464 |
+| 9 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert |  |  | Cuba | 1476 |
+| 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco |  |  | Havana, Cuba | 1464 |
+| 11 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | NTSprint |  | Havana, Cuba | 1338 |
 | 12 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | @Microsoft | LuisGuisado1990 | Ciudad de Manzanillo, Cuba | 1168 |
 | 13 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | PayNest | noakmilo | Cuba | 1110 |
 | 14 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández |  |  | Universidad de Ciencias Informáticas, La Habana, Cuba | 1104 |

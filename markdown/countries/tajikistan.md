@@ -73,7 +73,7 @@ Indexed users: 710
 | 9 | [khaydarov](https://github.com/khaydarov) | Murod Khaydarov | Dushanbe, Tajikistan | 86 |
 | 10 | [AED11](https://github.com/AED11) | Akhmetov Eraj | Tajikistan Dushanbe | 80 |
 | 11 | [NurulloSulaymonov](https://github.com/NurulloSulaymonov) | Nurullo Sulaymonov | Tajikistan | 74 |
-| 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Tajikistan | 62 |
+| 12 | [TajievOlimjon](https://github.com/TajievOlimjon) | Olimjon | Tajikistan | 61 |
 | 13 | [awtb](https://github.com/awtb) | Ilyas Qalandarzoda | Dushanbe, Tajikistan | 58 |
 | 14 | [Jacobamv](https://github.com/Jacobamv) | Jacob Akhmedov | Dushanbe/Tajikistan | 56 |
 | 15 | [veyxov](https://github.com/veyxov) | Shekhov Ismoil | Tajikistan | 56 |
@@ -83,4 +83,4 @@ Indexed users: 710
 | 19 | [11bit](https://github.com/11bit) | Ivan Buryak | Dushanbe | 49 |
 | 20 | [Abdughafur](https://github.com/Abdughafur) | Abdughafur Khujzoda | Tajikistan | 48 |
 
-Generated: 2026-10-14T14:36:01.110Z
+Generated: 2026-10-14T15:56:25.057Z

@@ -70,7 +70,7 @@ Indexed users: 1,339
 | 6 | [marksikaundi](https://github.com/marksikaundi) | Mark Sikaundi | Zambia | 224 |
 | 7 | [boniface](https://github.com/boniface) | Boniface Kabaso | Lusaka, Zambia | 192 |
 | 8 | [smaboshe](https://github.com/smaboshe) | Silumesii Maboshe | Zambia | 175 |
-| 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 161 |
+| 9 | [kalumwe](https://github.com/kalumwe) | Kalumba Mweshi | Lusaka, Zambia | 159 |
 | 10 | [nmbazima](https://github.com/nmbazima) | Newton Mbazima | Zambia | 147 |
 | 11 | [akebu6](https://github.com/akebu6) | Akebu | Zambia | 133 |
 | 12 | [ElijahMwambazi](https://github.com/ElijahMwambazi) | Elijahhhh | Lusaka, Zambia | 122 |
@@ -83,4 +83,4 @@ Indexed users: 1,339
 | 19 | [blessedjasonmwanza](https://github.com/blessedjasonmwanza) | Blessed Jason Mwanza |  Lusaka, Zambia | 104 |
 | 20 | [Eathorne2](https://github.com/Eathorne2) | Eathorne | Lusaka, Zambia | 103 |
 
-Generated: 2026-10-14T14:43:02.338Z
+Generated: 2026-10-14T16:07:20.527Z

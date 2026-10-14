@@ -1,6 +1,6 @@
 # Turkey
 
-Indexed users: 79,191
+Indexed users: 79,195
 
 | Leaderboard | Link |
 |---|---|
@@ -47,7 +47,7 @@ Indexed users: 79,191
 | 8 | [yanekyuk](https://github.com/yanekyuk) | Yankı Ekin Yüksel | İstanbul | 12,571 |
 | 9 | [ardamoustafa1](https://github.com/ardamoustafa1) | Arda | İstanbul  | 11,265 |
 | 10 | [deligoez](https://github.com/deligoez) | Yunus Emre Deligöz | Ankara, TR | 10,835 |
-| 11 | [oaslananka](https://github.com/oaslananka) | Osman Aslan | Izmir/Türkiye | 9,824 |
+| 11 | [oaslananka](https://github.com/oaslananka) | Osman Aslan | Izmir/Türkiye | 10,365 |
 | 12 | [h4yfans](https://github.com/h4yfans) | Kaan Karaca | Istanbul, Turkey | 9,027 |
 | 13 | [nomadturk](https://github.com/nomadturk) | M. Omer Golgeli | Turkey | 8,765 |
 | 14 | [aneerabee](https://github.com/aneerabee) | RABE SABAN | turkey | 8,145 |
@@ -83,4 +83,4 @@ Indexed users: 79,191
 | 19 | [buger](https://github.com/buger) | Leonid Bugaev | Istanbul | 3,587 |
 | 20 | [ardaltunel](https://github.com/ardaltunel) | Arda Altunel | İstanbul/Turkey | 3,517 |
 
-Generated: 2026-10-14T14:37:33.090Z
+Generated: 2026-10-14T16:00:48.537Z

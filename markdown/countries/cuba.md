@@ -15,12 +15,12 @@ Indexed users: 1,276
 | 1 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 17,907 |
 | 2 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 16,158 |
 | 3 | [PerezO12](https://github.com/PerezO12) | Adrian Perez Osorio | Havana - Cuba - Spain - Mexico | 14,900 |
-| 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,299 |
+| 4 | [Walkercito](https://github.com/Walkercito) | Walkercito | 🌍 Coding from Cienfuegos, Cuba | 12,343 |
 | 5 | [yasmramos](https://github.com/yasmramos) | Yasmany Ramos García  | Ciego de Ávila, Cuba | 9,256 |
 | 6 | [gustavoylc](https://github.com/gustavoylc) | Gustavo Leyte-Vidal | Cuba | 6,907 |
 | 7 | [palmerovicdev](https://github.com/palmerovicdev) | Víctor Manuel Palmero Valdés | Santa Clara, Cuba. | 6,832 |
 | 8 | [IhanMo18](https://github.com/IhanMo18) | Ihan | Cuba | 5,854 |
-| 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,721 |
+| 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 5,592 |
 | 10 | [frarteaga](https://github.com/frarteaga) | Frank Rafael Arteaga Salgado | Cuba | 5,156 |
 | 11 | [manuelaguadomtz](https://github.com/manuelaguadomtz) | Manuel Aguado Martinez | Havana, Cuba | 4,805 |
 | 12 | [leodanisbi](https://github.com/leodanisbi) | Leodanis Bernal Ibanez | Havaba/Cuba | 4,685 |
@@ -42,12 +42,12 @@ Indexed users: 1,276
 | 3 | [apiad](https://github.com/apiad) | Alejandro Piad | Cuba | 7,089 |
 | 4 | [AgenciaSeniors](https://github.com/AgenciaSeniors) | Eduardo Daniel Pérez Ruiz | Cuba | 4,454 |
 | 5 | [MiguelAntonioRS](https://github.com/MiguelAntonioRS) | Miguel | Cuba, Holguin | 3,246 |
-| 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,293 |
+| 6 | [rafaelrdgz](https://github.com/rafaelrdgz) | Rafael Rodríguez Pérez | Havana, Cuba | 2,352 |
 | 7 | [kaelthasmanu](https://github.com/kaelthasmanu) | Manuel Gorrin | Cuba | 1,919 |
 | 8 | [rodnye](https://github.com/rodnye) | Rodny Estrada | La Habana, Cuba | 1,514 |
-| 9 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,486 |
-| 10 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,476 |
-| 11 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,464 |
+| 9 | [danielitoCode](https://github.com/danielitoCode) | Daniel Imbert | Cuba | 1,476 |
+| 10 | [GloriousTacoo](https://github.com/GloriousTacoo) | GloriousTaco | Havana, Cuba | 1,464 |
+| 11 | [NairAd02](https://github.com/NairAd02) | Adrian Suarez | Havana, Cuba | 1,338 |
 | 12 | [PushoDev](https://github.com/PushoDev) | Luis A. Guisado | Ciudad de Manzanillo, Cuba | 1,168 |
 | 13 | [noakmilo](https://github.com/noakmilo) | Camilo Noa | Cuba | 1,110 |
 | 14 | [ArtStyles](https://github.com/ArtStyles) | Frank Enrique James Hernández | Universidad de Ciencias Informáticas, La Habana, Cuba | 1,104 |
@@ -83,4 +83,4 @@ Indexed users: 1,276
 | 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-14T14:59:44.667Z
+Generated: 2026-10-14T16:23:13.915Z

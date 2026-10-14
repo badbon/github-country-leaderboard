@@ -1,6 +1,6 @@
 # Total Contributions - Andorra
 
-Generated: 2026-10-14T14:45:32.241Z
+Generated: 2026-10-14T16:09:22.628Z
 
 Users: 215
 
@@ -15,12 +15,12 @@ Users: 215
 | 7 | [l3wi](https://github.com/l3wi) | Lewis Freiberg |  | lewifree | Andorra | 6300 |
 | 8 | [acastellana](https://github.com/acastellana) | Albert Castellana | @yeagerai | kstellana | Andorra | 5781 |
 | 9 | [alexmf91](https://github.com/alexmf91) | Alex Muñoz |  |  | Barcelona (Spain) \| Encamp (Andorra) | 5239 |
-| 10 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5118 |
+| 10 | [marcalj](https://github.com/marcalj) | Marçal | Lizcore |  | Andorra | 5103 |
 | 11 | [tombrewsviews](https://github.com/tombrewsviews) | Tom Parandyk | Altramanera |  | Andorra | 5070 |
 | 12 | [jorge07](https://github.com/jorge07) | Jorge Arco | 90P Lab | Jorge__SVQ | Escaldes, Andorra | 4900 |
 | 13 | [cuva](https://github.com/cuva) | Hugo Cuvillier | Raycast |  | Andorra | 4215 |
-| 14 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3979 |
-| 15 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 3975 |
+| 14 | [cmarfil](https://github.com/cmarfil) | Cristian Marfil |  |  | Andorra | 4185 |
+| 15 | [kopenkinda](https://github.com/kopenkinda) | Kopenkin Dmitrii | @salut-mercado  |  | Andorra | 3979 |
 | 16 | [sgirones](https://github.com/sgirones) | Salvador Gironès Gil |  |  | Andorra | 3444 |
 | 17 | [ColColty](https://github.com/ColColty) | Tomàs Forné Cappeau | @surge-ai  |  | Andorra | 3434 |
 | 18 | [dvdjmnz](https://github.com/dvdjmnz) | David Jiménez |  |  | Andorra | 3346 |

@@ -14,9 +14,9 @@ Indexed users: 186
 |---:|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 8,081 |
 | 2 | [sandogeorge](https://github.com/sandogeorge) | Sando George | Guyana, South America | 5,503 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,223 |
-| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,469 |
-| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,335 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 5,203 |
+| 4 | [rayonhunte](https://github.com/rayonhunte) | Rayon Hunte | Georgetown Guyana | 4,468 |
+| 5 | [barnwell](https://github.com/barnwell) | Jason Barnwell | Guyana | 4,341 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 3,976 |
 | 7 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,928 |
 | 8 | [pachev](https://github.com/pachev) | Pachev Joseph | Georgetown, TX | 3,803 |
@@ -39,7 +39,7 @@ Indexed users: 186
 |---:|---|---|---|---:|
 | 1 | [FlyOverCoderKY](https://github.com/FlyOverCoderKY) | Fly Over Coder | Georgetown, KY | 4,103 |
 | 2 | [uberhacker](https://github.com/uberhacker) | Ed Reel | Georgetown, TX | 3,927 |
-| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,445 |
+| 3 | [bdenham](https://github.com/bdenham) | Bruce Denham | Georgetown, Texas | 3,435 |
 | 4 | [negz](https://github.com/negz) | Nic Cope | Georgetown, Seattle | 1,857 |
 | 5 | [jzills](https://github.com/jzills) | Joshua Zillwood | Georgetown, TX | 1,619 |
 | 6 | [ktappdev](https://github.com/ktappdev) | Ken Andrew Taylor | Guyana | 1,495 |
@@ -83,4 +83,4 @@ Indexed users: 186
 | 19 | [Alien-nick](https://github.com/Alien-nick) | Nicholas Seetaram | South America, Guyana, Georgetown | 22 |
 | 20 | [duncanfinney](https://github.com/duncanfinney) | Duncan Finney | Georgetown, CO | 22 |
 
-Generated: 2026-10-14T15:11:53.694Z
+Generated: 2026-10-14T16:36:46.621Z

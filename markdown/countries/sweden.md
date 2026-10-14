@@ -1,6 +1,6 @@
 # Sweden
 
-Indexed users: 39,045
+Indexed users: 39,044
 
 | Leaderboard | Link |
 |---|---|
@@ -42,13 +42,13 @@ Indexed users: 39,045
 | 3 | [assert-bot](https://github.com/assert-bot) |  | Stockholm | 31,285 |
 | 4 | [dadobt](https://github.com/dadobt) | Danail Vilos | Stockholm | 17,620 |
 | 5 | [yeager](https://github.com/yeager) | Daniel Nylander | Stockholm, Sweden | 17,459 |
-| 6 | [eddthelucky](https://github.com/eddthelucky) |  | Stockholm, Sweden | 14,322 |
-| 7 | [23min](https://github.com/23min) | Peter Bruinsma | Sweden | 13,288 |
-| 8 | [magnusfroste](https://github.com/magnusfroste) | Froste | Stockholm | 13,030 |
-| 9 | [eddlgtm](https://github.com/eddlgtm) |  | Stockholm, Sweden | 12,506 |
-| 10 | [jolars](https://github.com/jolars) | Johan Larsson | Lund, Sweden | 11,487 |
-| 11 | [mattias800](https://github.com/mattias800) | Mattias Andersson | Göteborg, Sweden | 11,413 |
-| 12 | [moritzmyrz](https://github.com/moritzmyrz) | Moritz André Myrseth | Stockholm, Sweden | 10,946 |
+| 6 | [23min](https://github.com/23min) | Peter Bruinsma | Sweden | 13,288 |
+| 7 | [magnusfroste](https://github.com/magnusfroste) | Froste | Stockholm | 13,030 |
+| 8 | [eddlgtm](https://github.com/eddlgtm) |  | Stockholm, Sweden | 12,506 |
+| 9 | [jolars](https://github.com/jolars) | Johan Larsson | Lund, Sweden | 11,487 |
+| 10 | [mattias800](https://github.com/mattias800) | Mattias Andersson | Göteborg, Sweden | 11,413 |
+| 11 | [moritzmyrz](https://github.com/moritzmyrz) | Moritz André Myrseth | Stockholm, Sweden | 10,946 |
+| 12 | [eddthelucky](https://github.com/eddthelucky) |  | Stockholm, Sweden | 10,803 |
 | 13 | [SzeChunYiu](https://github.com/SzeChunYiu) | Sze Chun YIU | Stockholm, Sweden | 10,671 |
 | 14 | [raptor4mc](https://github.com/raptor4mc) | Raptor4 | Sweden | 10,341 |
 | 15 | [niclaslindstedt](https://github.com/niclaslindstedt) | Niclas Lindstedt | Stockholm | 10,318 |
@@ -83,4 +83,4 @@ Indexed users: 39,045
 | 19 | [tobiasahlin](https://github.com/tobiasahlin) | Tobias Ahlin | Sweden | 2,667 |
 | 20 | [sonyxperiadev](https://github.com/sonyxperiadev) | Sony – Developer World for Xperia | Sweden | 2,664 |
 
-Generated: 2026-10-14T15:38:26.361Z
+Generated: 2026-10-14T15:55:19.447Z
