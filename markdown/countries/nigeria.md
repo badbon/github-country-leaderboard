@@ -1,6 +1,6 @@
 # Nigeria
 
-Indexed users: 33,219
+Indexed users: 33,218
 
 | Leaderboard | Link |
 |---|---|
@@ -72,15 +72,15 @@ Indexed users: 33,219
 | 8 | [Brainydaps](https://github.com/Brainydaps) | Adedapo Adeniran | Nigeria | 1,461 |
 | 9 | [desphixs](https://github.com/desphixs) | Destiny Franks | Nigeria | 1,250 |
 | 10 | [BrightDaniel](https://github.com/BrightDaniel) | BRIGHT (Bwave) | Port Harcourt, Nigeria | 1,199 |
-| 11 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Abuja | 964 |
-| 12 | [davepartner](https://github.com/davepartner) | Dave | Nigeria | 878 |
-| 13 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Lagos, Nigeria | 873 |
-| 14 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | Lagos, Nigeria | 868 |
-| 15 | [godstime-dev](https://github.com/godstime-dev) | Godstime | Nigeria | 851 |
+| 11 | [godstime-dev](https://github.com/godstime-dev) | Godstime | Nigeria | 991 |
+| 12 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Abuja | 964 |
+| 13 | [davepartner](https://github.com/davepartner) | Dave | Nigeria | 878 |
+| 14 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Lagos, Nigeria | 873 |
+| 15 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | Lagos, Nigeria | 868 |
 | 16 | [appcypher](https://github.com/appcypher) | Stephen Akinyemi | Lagos, Nigeria | 825 |
 | 17 | [Yczar](https://github.com/Yczar) | Ayotomide | Nigeria | 784 |
 | 18 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | Nigeria, Yola | 759 |
 | 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 | 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | Lagos, Nigeria | 707 |
 
-Generated: 2026-10-14T01:54:28.894Z
+Generated: 2026-10-14T03:27:01.679Z

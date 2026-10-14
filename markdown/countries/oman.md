@@ -16,8 +16,8 @@ Indexed users: 993
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Muscat, Oman | 31,085 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan | Muscat, Oman | 14,734 |
 | 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi | Muscat, OM. | 12,862 |
-| 5 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 11,511 |
-| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 11,352 |
+| 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 12,630 |
+| 6 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 11,511 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,554 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,005 |
@@ -26,7 +26,7 @@ Indexed users: 993
 | 12 | [shm379](https://github.com/shm379) | Hussein | Muscat | 8,038 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Muscat, Oman | 7,255 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | Oman | 6,633 |
-| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 5,986 |
+| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Oman | 6,004 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | Muscat | 5,396 |
 | 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Oman | 4,556 |
 | 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | Oman | 4,503 |
@@ -38,7 +38,7 @@ Indexed users: 993
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Dippp10-ally](https://github.com/Dippp10-ally) | DIPIKA VAMAN KANTAPPA POOJARI | Oman | 95,497 |
-| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 4,881 |
+| 2 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 5,485 |
 | 3 | [daniyalmehmood](https://github.com/daniyalmehmood) | Muhammad Daniyal Mehmood | Oman | 3,445 |
 | 4 | [muneerasaifalnaabi-prog](https://github.com/muneerasaifalnaabi-prog) | Muneera Al Naabi | Oman | 2,977 |
 | 5 | [alanood94895-rgb](https://github.com/alanood94895-rgb) | Alanoud AlRuqaishi | Oman | 2,794 |
@@ -83,4 +83,4 @@ Indexed users: 993
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-14T01:56:12.021Z
+Generated: 2026-10-14T03:29:18.143Z

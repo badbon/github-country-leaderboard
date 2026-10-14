@@ -26,12 +26,12 @@ Indexed users: 3,263
 | 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
 | 13 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
 | 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,594 |
-| 15 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 6,303 |
-| 16 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 5,985 |
-| 17 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
-| 18 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | Rīga, Latvia | 5,814 |
-| 19 | [aivars](https://github.com/aivars) | Aivars | Latvia | 5,804 |
-| 20 | [martinduncanson](https://github.com/martinduncanson) | Martin Duncanson | London / Riga | 5,678 |
+| 15 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
+| 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 6,303 |
+| 17 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 5,985 |
+| 18 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
+| 19 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks | Riga, Latvia | 5,845 |
+| 20 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | Rīga, Latvia | 5,814 |
 
 ## Public Contributions
 
@@ -69,7 +69,7 @@ Indexed users: 3,263
 | 5 | [kj89](https://github.com/kj89) | kjnodes | Latvia | 603 |
 | 6 | [bodrovis](https://github.com/bodrovis) | Elijah S. Krukowski | Riga | 532 |
 | 7 | [esneko](https://github.com/esneko) | Andrejs Agejevs | Latvia | 505 |
-| 8 | [darjaorlova](https://github.com/darjaorlova) | Darja Orlova | Latvia, Riga | 487 |
+| 8 | [darjaorlova](https://github.com/darjaorlova) | Darja Orlova | Latvia, Riga | 491 |
 | 9 | [tostercx](https://github.com/tostercx) |  | Riga, Latvia | 459 |
 | 10 | [aivars](https://github.com/aivars) | Aivars | Latvia | 456 |
 | 11 | [wonderwhy-er](https://github.com/wonderwhy-er) | Eduard Ruzga | Riga | 415 |
@@ -83,4 +83,4 @@ Indexed users: 3,263
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-14T01:41:57.168Z
+Generated: 2026-10-14T03:09:06.611Z

@@ -1,8 +1,8 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-14T01:58:39.213Z
+Generated: 2026-10-14T03:30:38.911Z
 
-Users: 2016
+Users: 2015
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -25,4 +25,4 @@ Users: 2016
 | 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
 | 18 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
 | 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
-| 20 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza |  |  | Encarnacíon, Itapúa, Paraguay | 4280 |
+| 20 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla |  |  | Asuncion, Paraguay | 4301 |

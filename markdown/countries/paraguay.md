@@ -1,6 +1,6 @@
 # Paraguay
 
-Indexed users: 2,016
+Indexed users: 2,015
 
 | Leaderboard | Link |
 |---|---|
@@ -31,7 +31,7 @@ Indexed users: 2,016
 | 17 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo | Asuncion, Paraguay | 4,708 |
 | 18 | [skyvanguard](https://github.com/skyvanguard) |  | Paraguay | 4,332 |
 | 19 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Asunción, Paraguay | 4,318 |
-| 20 | [crkautza](https://github.com/crkautza) | Caio Richard Oliveira Kautza | Encarnacíon, Itapúa, Paraguay | 4,280 |
+| 20 | [ajhermosilla](https://github.com/ajhermosilla) | Augusto Hermosilla | Asuncion, Paraguay | 4,301 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 2,016
 | 19 | [ivankoop](https://github.com/ivankoop) | Ivan Koop  | Asunción, Paraguay | 116 |
 | 20 | [metakeule](https://github.com/metakeule) | metakeule | Asunción / Paraguay | 110 |
 
-Generated: 2026-10-14T01:58:39.213Z
+Generated: 2026-10-14T03:30:38.911Z

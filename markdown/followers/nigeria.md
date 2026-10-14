@@ -1,8 +1,8 @@
 # Followers - Nigeria
 
-Generated: 2026-10-14T01:54:28.894Z
+Generated: 2026-10-14T03:27:01.679Z
 
-Users: 33219
+Users: 33218
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -16,11 +16,11 @@ Users: 33219
 | 8 | [Brainydaps](https://github.com/Brainydaps) | Adedapo Adeniran | Brainydaps Technology Limited | Brainydaps | Nigeria | 1461 |
 | 9 | [desphixs](https://github.com/desphixs) | Destiny Franks | @staqed-hq @fusoraq  | desphixs | Nigeria | 1250 |
 | 10 | [BrightDaniel](https://github.com/BrightDaniel) | BRIGHT (Bwave) | Alx Software Engineering  | Ict1Bwave | Port Harcourt, Nigeria | 1199 |
-| 11 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Silicon Africa | IamLordwill | Abuja | 964 |
-| 12 | [davepartner](https://github.com/davepartner) | Dave | Braintemple |  | Nigeria | 878 |
-| 13 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Consulting | IkegahRuth | Lagos, Nigeria | 873 |
-| 14 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | @tenseijs | bahdcoder | Lagos, Nigeria | 868 |
-| 15 | [godstime-dev](https://github.com/godstime-dev) | Godstime |  |  | Nigeria | 851 |
+| 11 | [godstime-dev](https://github.com/godstime-dev) | Godstime |  |  | Nigeria | 991 |
+| 12 | [Lordwill1](https://github.com/Lordwill1) | Godswill Kalu (Lordwill) | Silicon Africa | IamLordwill | Abuja | 964 |
+| 13 | [davepartner](https://github.com/davepartner) | Dave | Braintemple |  | Nigeria | 878 |
+| 14 | [Ruth-ikegah](https://github.com/Ruth-ikegah) | Ruth Ikegah | Consulting | IkegahRuth | Lagos, Nigeria | 873 |
+| 15 | [bahdcoder](https://github.com/bahdcoder) | Frantz Kati | @tenseijs | bahdcoder | Lagos, Nigeria | 868 |
 | 16 | [appcypher](https://github.com/appcypher) | Stephen Akinyemi | @superradcompany | theappcypher | Lagos, Nigeria | 825 |
 | 17 | [Yczar](https://github.com/Yczar) | Ayotomide |  | czarify | Nigeria | 784 |
 | 18 | [samglish](https://github.com/samglish) | BEIDI DINA SAMUEL | @Samglish-Inc  | BeidiSamuel | Nigeria, Yola | 759 |

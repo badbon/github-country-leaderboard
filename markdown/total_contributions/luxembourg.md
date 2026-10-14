@@ -1,6 +1,6 @@
 # Total Contributions - Luxembourg
 
-Generated: 2026-10-14T01:43:58.293Z
+Generated: 2026-10-14T03:13:40.533Z
 
 Users: 2193
 
@@ -9,12 +9,12 @@ Users: 2193
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | @LuxApps  |  | Luxembourg | 36874 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | Akira | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24832 |
 | 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | TEGI | gillesheinesch | Luxembourg | 16492 |
-| 4 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
-| 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 13577 |
-| 6 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11009 |
-| 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 10606 |
-| 8 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
-| 9 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 9830 |
+| 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 16359 |
+| 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Nodz |  | Luxembourg | 16355 |
+| 6 | [kboumedal](https://github.com/kboumedal) | Kevin | @LuxApps  |  | Luxembourg | 11268 |
+| 7 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Amazon |  | Luxembourg | 11009 |
+| 8 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | @Pure-Lambda  |  | Luxembourg | 10606 |
+| 9 | [assaad](https://github.com/assaad) | Assaad Moawad |  |  | Luxembourg | 9834 |
 | 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian |  |  | Luxembourg | 9289 |
 | 11 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Data Essential |  | Luxembourg | 8874 |
 | 12 | [samtin0x](https://github.com/samtin0x) | samtin0x |  |  | Luxembourg | 7072 |

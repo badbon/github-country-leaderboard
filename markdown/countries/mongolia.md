@@ -69,7 +69,7 @@ Indexed users: 805
 | 5 | [ByamB4](https://github.com/ByamB4) | Byambadalai Sumiya | Ulaanbaatar, Mongolia | 225 |
 | 6 | [sharavsambuu](https://github.com/sharavsambuu) | sharavsambuu | Khuvsgul, Mongolia | 220 |
 | 7 | [mnkhod](https://github.com/mnkhod) | Munkh-Od | Mongolia | 202 |
-| 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar | Mongolia | 176 |
+| 8 | [gmunkhbaatarmn](https://github.com/gmunkhbaatarmn) | Munkhbaatar | Mongolia | 175 |
 | 9 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 113 |
 | 10 | [khaschuluu](https://github.com/khaschuluu) | KHASCHULUU Munkhbayar | Ulaanbaatar, Mongolia | 105 |
 | 11 | [Zorig](https://github.com/Zorig) | Zorig | Ulaanbaatar, Mongolia | 104 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-14T01:49:52.709Z
+Generated: 2026-10-14T03:22:00.025Z

@@ -1,6 +1,6 @@
 # Total Contributions - Papua New Guinea
 
-Generated: 2026-10-14T01:58:31.195Z
+Generated: 2026-10-14T03:30:33.020Z
 
 Users: 296
 

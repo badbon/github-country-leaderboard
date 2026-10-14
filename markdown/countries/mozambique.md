@@ -66,11 +66,11 @@ Indexed users: 1,176
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. | Maputo, Mozambique | 323 |
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | Mozambique | 300 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Maputo, Mozambique | 279 |
-| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 228 |
+| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior | Maputo/Mozambique  | 227 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Mozambique | 195 |
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton | Mozambique | 195 |
 | 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino | Mozambique, Maputo | 192 |
-| 9 | [jose-bone](https://github.com/jose-bone) | José Boné | Quelimane, Mozambique | 188 |
+| 9 | [jose-bone](https://github.com/jose-bone) | José Boné | Quelimane, Mozambique | 187 |
 | 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | Mozambique | 167 |
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | Beira, Sofala, Mozambique | 164 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | Mozambique, Maputo | 162 |
@@ -83,4 +83,4 @@ Indexed users: 1,176
 | 19 | [enoquetembe](https://github.com/enoquetembe) | Enoque Tembe | Maputo, Mozambique | 111 |
 | 20 | [mariomthree](https://github.com/mariomthree) | Mário M. Mabande | Maputo, Mozambique | 97 |
 
-Generated: 2026-10-14T01:51:16.369Z
+Generated: 2026-10-14T03:24:05.873Z

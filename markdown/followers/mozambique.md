@@ -1,6 +1,6 @@
 # Followers - Mozambique
 
-Generated: 2026-10-14T01:51:16.369Z
+Generated: 2026-10-14T03:24:05.873Z
 
 Users: 1176
 
@@ -10,11 +10,11 @@ Users: 1176
 | 2 | [gmahota](https://github.com/gmahota) | Guimaraes Mahota Jr. |  | mahota_g | Maputo, Mozambique | 323 |
 | 3 | [EdgarJFA](https://github.com/EdgarJFA) | Edgar Amado | FastTeam | edgarfeliciano | Mozambique | 300 |
 | 4 | [joseseie](https://github.com/joseseie) | Jose Seie | Explicador Inc, LDA. |  | Maputo, Mozambique | 279 |
-| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior |  | GabrielMJ_2005 | Maputo/Mozambique  | 228 |
+| 5 | [gabrielmjr](https://github.com/gabrielmjr) | Gabriel Mucacho Júnior |  | GabrielMJ_2005 | Maputo/Mozambique  | 227 |
 | 6 | [arnaldo-tomo](https://github.com/arnaldo-tomo) | Arnaldo tomo | Dintell | Arnaldo_j_tomo | Mozambique | 195 |
 | 7 | [eltonlaice](https://github.com/eltonlaice) | Elton |  |  | Mozambique | 195 |
 | 8 | [JefferMarcelino](https://github.com/JefferMarcelino) | Jeffer Marcelino |  |  | Mozambique, Maputo | 192 |
-| 9 | [jose-bone](https://github.com/jose-bone) | José Boné |  | jose_bonejr | Quelimane, Mozambique | 188 |
+| 9 | [jose-bone](https://github.com/jose-bone) | José Boné |  | jose_bonejr | Quelimane, Mozambique | 187 |
 | 10 | [estevaosimao](https://github.com/estevaosimao) | Estevão Simão | ESBM |  | Mozambique | 167 |
 | 11 | [kelven939](https://github.com/kelven939) | Kelven Bruno Carlos Lopes Bulha (KB) | @centauralfa34 (Centaur (Design & Code)) | KBulha | Beira, Sofala, Mozambique | 164 |
 | 12 | [albrtinoaugusto](https://github.com/albrtinoaugusto) | Albertino Augusto | CEG Microsystems | albrtinoaugusto | Mozambique, Maputo | 162 |

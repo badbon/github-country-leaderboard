@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-14T01:49:13.754Z
+Generated: 2026-10-14T03:20:25.276Z
 
 Users: 1750
 
@@ -21,8 +21,8 @@ Users: 1750
 | 13 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1552 |
 | 14 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1498 |
 | 15 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
-| 16 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1385 |
-| 17 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
-| 18 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1276 |
-| 19 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1272 |
-| 20 | [yorunikakeru4](https://github.com/yorunikakeru4) | Alexandr Croitor |  |  | Moldova | 1201 |
+| 16 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1397 |
+| 17 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1385 |
+| 18 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |
+| 19 | [alexandru-savinov](https://github.com/alexandru-savinov) | Alexandru Savinov |  |  | Moldova | 1276 |
+| 20 | [maximmasiutin](https://github.com/maximmasiutin) | Maxim Masiutin | Advanced Data Security Solutions | MaximMasiutin | Chisinau, Republic of Moldova | 1272 |

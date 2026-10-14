@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-14T01:56:12.021Z
+Generated: 2026-10-14T03:29:18.143Z
 
 Users: 993
 
@@ -10,8 +10,8 @@ Users: 993
 | 2 | [Kmahmoudi](https://github.com/Kmahmoudi) | Kamran Mahmoudi | Bright Palm Solutions LLC |  | Muscat, Oman | 31085 |
 | 3 | [i4mjad](https://github.com/i4mjad) | Amjad Khalfan |  |  | Muscat, Oman | 14734 |
 | 4 | [7kylor](https://github.com/7kylor) | Taher Al Kiyumi |  |  | Muscat, OM. | 12862 |
-| 5 | [jaifar530](https://github.com/jaifar530) | Jaifar |  |  | Oman | 11511 |
-| 6 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 11352 |
+| 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 12630 |
+| 6 | [jaifar530](https://github.com/jaifar530) | Jaifar |  |  | Oman | 11511 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan |  |  | Muscat, Oman | 10554 |
 | 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 9106 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 9005 |
@@ -20,7 +20,7 @@ Users: 993
 | 12 | [shm379](https://github.com/shm379) | Hussein | MrChatGPT |  | Muscat | 8038 |
 | 13 | [dmsherazi](https://github.com/dmsherazi) | Dost Muhammad Shah | Kindows Tech Solutions |  | Muscat, Oman | 7255 |
 | 14 | [DevAseel](https://github.com/DevAseel) | Aseel Al Rawahi | instaSpace |  | Oman | 6633 |
-| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 5986 |
+| 15 | [lqji](https://github.com/lqji) | Ahmed Abdullah | Codeline |  | Oman | 6004 |
 | 16 | [MohAnghabo](https://github.com/MohAnghabo) | Mohammed Anghabo | DhamenIT | MohAnghabo | Muscat | 5396 |
 | 17 | [mohdrasbi](https://github.com/mohdrasbi) | Mohamed Al-Rasbi | Rihal |  | Oman | 4556 |
 | 18 | [n3sser96](https://github.com/n3sser96) | Nasser Al Subhi | @rihal-om  | 96n3s | Oman | 4503 |

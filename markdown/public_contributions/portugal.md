@@ -1,8 +1,8 @@
 # Public Contributions - Portugal
 
-Generated: 2026-10-14T02:00:10.230Z
+Generated: 2026-10-14T03:32:26.968Z
 
-Users: 28453
+Users: 28452
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -22,7 +22,7 @@ Users: 28453
 | 14 | [tsilva](https://github.com/tsilva) | Tiago Silva | VaultHaus | tiagosilva | Porto, Portugal | 9060 |
 | 15 | [FlavioCFOliveira](https://github.com/FlavioCFOliveira) | Flávio CF Oliveira | @sapo  |  | Lisbon, Portugal | 8710 |
 | 16 | [infinityabundance](https://github.com/infinityabundance) | riaan de beer🦀 | Invariant Forge LLC |  | Porto, Portugal | 8510 |
-| 17 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Universidade do Minho |  | Braga, Portugal | 8507 |
-| 18 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | @eclipse @soujava @apache | otaviojava | Portugal | 8427 |
-| 19 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | @SpineEventEngine, @TeamDev-IP, @TeamDev-ltd |  | Lisbon, Portugal | 8332 |
-| 20 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | opencrabs.com & truelens.tech | adolfousier | Coimbra, Portugal | 7765 |
+| 17 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | @eclipse @soujava @apache | otaviojava | Portugal | 8427 |
+| 18 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | @SpineEventEngine, @TeamDev-IP, @TeamDev-ltd |  | Lisbon, Portugal | 8332 |
+| 19 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | opencrabs.com & truelens.tech | adolfousier | Coimbra, Portugal | 7765 |
+| 20 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Universidade do Minho |  | Braga, Portugal | 7629 |

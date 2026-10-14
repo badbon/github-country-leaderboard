@@ -26,8 +26,8 @@ Indexed users: 210
 | 12 | [mdsomah](https://github.com/mdsomah) | Mesheal D. Somah Sr. | Monrovia, Liberia | 1,117 |
 | 13 | [stenson](https://github.com/stenson) | Rob Stenson | Monrovia, CA | 866 |
 | 14 | [KalevRK](https://github.com/KalevRK) | Kalev Roomann-Kurrik | Monrovia, CA | 859 |
-| 15 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 808 |
-| 16 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 807 |
+| 15 | [abubakar3rd](https://github.com/abubakar3rd) | Abu-Bakar Abdullah Kanneh | Airfield, Sinkor, Monrovia, Liberia | 827 |
+| 16 | [daddysboy21](https://github.com/daddysboy21) | daddysboy.21 | Monrovia, Liberia | 808 |
 | 17 | [jdaltonll02](https://github.com/jdaltonll02) | John Dalton Gibson | Liberia | 787 |
 | 18 | [efmomoh](https://github.com/efmomoh) | ENSSAH FAYIA MOMOH | Monrovia, Liberia | 719 |
 | 19 | [Prodigy-J](https://github.com/Prodigy-J) | Jerome N Tokpa | Monrovia, Liberia | 634 |
@@ -83,4 +83,4 @@ Indexed users: 210
 | 19 | [MorganTheTechEthusiast](https://github.com/MorganTheTechEthusiast) | James Anointed Morgan Jr. | Monrovia, Liberia | 21 |
 | 20 | [ejaygbay](https://github.com/ejaygbay) | Emmanuel Jaygbay | Liberia | 20 |
 
-Generated: 2026-10-14T01:42:07.873Z
+Generated: 2026-10-14T03:11:23.043Z

@@ -1,6 +1,6 @@
 # Total Contributions - North Macedonia
 
-Generated: 2026-10-14T01:55:00.945Z
+Generated: 2026-10-14T03:28:19.011Z
 
 Users: 1929
 
@@ -22,7 +22,7 @@ Users: 1929
 | 14 | [danielilievskii](https://github.com/danielilievskii) | Daniel Ilievski | Intertec.io |  | Skopje, North Macedonia | 4273 |
 | 15 | [Shekswess](https://github.com/Shekswess) | Bojan Jakimovski | Loka | Shekswess | Skopje, Macedonia | 4182 |
 | 16 | [vetonshabani0](https://github.com/vetonshabani0) | Veton Shabani |  |  | Skopje | 4075 |
-| 17 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 3884 |
-| 18 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3747 |
-| 19 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Intertec.io |  | Skopje, Macedonia | 3635 |
-| 20 | [andjiev](https://github.com/andjiev) | Ivan Andjiev | MrQ |  | North Macedonia | 3628 |
+| 17 | [andreyagovski](https://github.com/andreyagovski) | Andrey |  |  | Macedonia | 3997 |
+| 18 | [nikola-n](https://github.com/nikola-n) | Nikola | @CircleLinkHealth | nikola_najdov | Veles, Macedonia | 3884 |
+| 19 | [M9Mike](https://github.com/M9Mike) | Mihail Veljanoski |  |  | Skopje, Macedonia | 3747 |
+| 20 | [deko96](https://github.com/deko96) | Dejan Bozhinoski | Intertec.io |  | Skopje, Macedonia | 3635 |

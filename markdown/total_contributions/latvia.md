@@ -1,6 +1,6 @@
 # Total Contributions - Latvia
 
-Generated: 2026-10-14T01:41:57.168Z
+Generated: 2026-10-14T03:09:06.611Z
 
 Users: 3263
 
@@ -20,9 +20,9 @@ Users: 3263
 | 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs |  |  | Latvia, Riga | 6749 |
 | 13 | [sansan](https://github.com/sansan) | Toms Veidemanis |  |  | Riga | 6604 |
 | 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov |  | VictorySokolov | Latvia | 6594 |
-| 15 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 6303 |
-| 16 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 5985 |
-| 17 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Software Engineer & Digital Artist |  | Riga | 5871 |
-| 18 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | @ubiquiti  | renarsvilnis | Rīga, Latvia | 5814 |
-| 19 | [aivars](https://github.com/aivars) | Aivars |  | aivars_meijers | Latvia | 5804 |
-| 20 | [martinduncanson](https://github.com/martinduncanson) | Martin Duncanson |  | MartinDuncanson | London / Riga | 5678 |
+| 15 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr |  | shvembldr | Latvia | 6475 |
+| 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | @request-lv |  | Riga, Latvia | 6303 |
+| 17 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Convershake |  | Latvia, Riga | 5985 |
+| 18 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Software Engineer & Digital Artist |  | Riga | 5871 |
+| 19 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks |  |  | Riga, Latvia | 5845 |
+| 20 | [renarsvilnis](https://github.com/renarsvilnis) | Renārs Vilnis | @ubiquiti  | renarsvilnis | Rīga, Latvia | 5814 |

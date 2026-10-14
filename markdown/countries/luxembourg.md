@@ -15,12 +15,12 @@ Indexed users: 2,193
 | 1 | [libertjeremy](https://github.com/libertjeremy) | Jérémy | Luxembourg | 36,874 |
 | 2 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 24,832 |
 | 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,492 |
-| 4 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
-| 5 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 13,577 |
-| 6 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
-| 7 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 10,606 |
-| 8 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
-| 9 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 9,830 |
+| 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
+| 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
+| 6 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
+| 7 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
+| 8 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 10,606 |
+| 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
 | 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,289 |
 | 11 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
 | 12 | [samtin0x](https://github.com/samtin0x) | samtin0x | Luxembourg | 7,072 |
@@ -40,12 +40,12 @@ Indexed users: 2,193
 | 1 | [kidiatoliny](https://github.com/kidiatoliny) | kidiatoliny | 23 Rue Théodore Gillen 1625 Howald Luxembourg | 9,597 |
 | 2 | [leobenkel-db](https://github.com/leobenkel-db) | Leo Benkel (bot)  | Luxembourg | 6,955 |
 | 3 | [b-rodrigues](https://github.com/b-rodrigues) | Bruno Rodrigues | Luxembourg-City, Luxembourg | 6,451 |
-| 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 4,387 |
-| 5 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,379 |
-| 6 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,960 |
-| 7 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,817 |
-| 8 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
-| 9 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
+| 4 | [AbdallahCoptan](https://github.com/AbdallahCoptan) | Abdallah IBRAHIM | Luxembourg | 4,379 |
+| 5 | [EuphoriaLux](https://github.com/EuphoriaLux) | Twisto | Luxembourg | 3,960 |
+| 6 | [dbarzin](https://github.com/dbarzin) | Didier Barzin | Luxembourg | 3,817 |
+| 7 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 3,707 |
+| 8 | [ArmenSl](https://github.com/ArmenSl) | ArmenSL | Luxembourg | 3,193 |
+| 9 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 3,159 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,220 |
 | 12 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,121 |
@@ -83,4 +83,4 @@ Indexed users: 2,193
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-14T01:43:58.293Z
+Generated: 2026-10-14T03:13:40.533Z

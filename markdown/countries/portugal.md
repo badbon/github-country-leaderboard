@@ -1,6 +1,6 @@
 # Portugal
 
-Indexed users: 28,453
+Indexed users: 28,452
 
 | Leaderboard | Link |
 |---|---|
@@ -53,10 +53,10 @@ Indexed users: 28,453
 | 14 | [tsilva](https://github.com/tsilva) | Tiago Silva | Porto, Portugal | 9,060 |
 | 15 | [FlavioCFOliveira](https://github.com/FlavioCFOliveira) | Flávio CF Oliveira | Lisbon, Portugal | 8,710 |
 | 16 | [infinityabundance](https://github.com/infinityabundance) | riaan de beer🦀 | Porto, Portugal | 8,510 |
-| 17 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Braga, Portugal | 8,507 |
-| 18 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | Portugal | 8,427 |
-| 19 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | Lisbon, Portugal | 8,332 |
-| 20 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | Coimbra, Portugal | 7,765 |
+| 17 | [otaviojava](https://github.com/otaviojava) | Otávio Santana | Portugal | 8,427 |
+| 18 | [alexander-yevsyukov](https://github.com/alexander-yevsyukov) | Alexander Yevsyukov | Lisbon, Portugal | 8,332 |
+| 19 | [adolfousier](https://github.com/adolfousier) | Adolfo Usier  | Coimbra, Portugal | 7,765 |
+| 20 | [azevedodiogo](https://github.com/azevedodiogo) | Diogo Azevedo | Braga, Portugal | 7,629 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 28,453
 | 19 | [abo-abo](https://github.com/abo-abo) | Oleh Krehel | Matosinhos, Portugal | 1,857 |
 | 20 | [SimCoderYoutube](https://github.com/SimCoderYoutube) | SimCoder | Porto, Portugal | 1,831 |
 
-Generated: 2026-10-14T02:00:10.230Z
+Generated: 2026-10-14T03:32:26.968Z

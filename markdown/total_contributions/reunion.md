@@ -1,6 +1,6 @@
 # Total Contributions - Réunion
 
-Generated: 2026-10-14T02:01:34.628Z
+Generated: 2026-10-14T03:34:13.731Z
 
 Users: 212
 
@@ -13,7 +13,7 @@ Users: 212
 | 5 | [axelearning](https://github.com/axelearning) | Axel Rasse |  |  | Reunion island | 3549 |
 | 6 | [vittoriobusatta](https://github.com/vittoriobusatta) | vittorio | @mascarinreunion |  | Reunion Island | 2767 |
 | 7 | [Angra974](https://github.com/Angra974) | Thierry Parlier | 100Devs | mrnemesys | Reunion Island, France | 2411 |
-| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2305 |
+| 8 | [Nicolas-Begue](https://github.com/Nicolas-Begue) | Nicolas BEGUE 🐱‍👤 | Skydo Digital Studio |  | Saint-Denis | 2398 |
 | 9 | [lvothnrv](https://github.com/lvothnrv) | LvothNrv |  |  | Reunion Island | 2089 |
 | 10 | [ralphi2811](https://github.com/ralphi2811) | Raphaël Auberlet | Nashi.cloud |  | Réunion Island | 2053 |
 | 11 | [Skiwa](https://github.com/Skiwa) | Julien Haegman |  |  | Saint-Denis, Réunion | 2050 |
@@ -22,7 +22,7 @@ Users: 212
 | 14 | [IamArayel](https://github.com/IamArayel) | Arayel |  |  | Reunion Island | 1779 |
 | 15 | [kevinturpin97](https://github.com/kevinturpin97) | RainMan | @EpitechWebAcademiePromo2023  |  | Reunion Island, France | 1778 |
 | 16 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Code Commun Coop |  | Réunion Island, Villeurbanne, Montpellier : France | 1710 |
-| 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1593 |
+| 17 | [eldertek](https://github.com/eldertek) | André Théo LAURET |  |  | Reunion Island | 1630 |
 | 18 | [gfo974](https://github.com/gfo974) | Geoffrey Fournier  | @arribada  |  | Réunion Island | 1357 |
 | 19 | [arthur-girardin-calbe](https://github.com/arthur-girardin-calbe) | Arthur Girardin--Calbe |  |  | Réunion | 1284 |
 | 20 | [Robin-Lune](https://github.com/Robin-Lune) |  | La Forge Numérique | Robin_Lune | Réunion | 1152 |
