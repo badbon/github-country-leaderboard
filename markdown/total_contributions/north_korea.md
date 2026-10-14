@@ -1,6 +1,6 @@
 # Total Contributions - North Korea
 
-Generated: 2026-10-14T12:51:49.607Z
+Generated: 2026-10-14T14:15:00.297Z
 
 Users: 185
 
@@ -10,16 +10,16 @@ Users: 185
 | 2 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 5072 |
 | 3 | [boyesjo](https://github.com/boyesjo) | Boye Sjo | yo mama | elonmusk | pyongyang | 4053 |
 | 4 | [sakweli](https://github.com/sakweli) | Josh Sakweli | Qbit Spark | JosureSimon | North Korea | 2466 |
-| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1475 |
+| 5 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 1485 |
 | 6 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1275 |
 | 7 | [henxdl](https://github.com/henxdl) | henxdl | Unemployed :) |  | Pyongyang, North Korea | 1087 |
 | 8 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 814 |
-| 9 | [Aashaby](https://github.com/Aashaby) |  |  |  | North Korea | 674 |
+| 9 | [Aashaby](https://github.com/Aashaby) |  |  |  | North Korea | 673 |
 | 10 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 11 | [1zumiSagiri](https://github.com/1zumiSagiri) | Vincent Chan |  |  | Pyongyang | 568 |
 | 12 | [chihongze](https://github.com/chihongze) | chihongze |  |  |  P'yŏngyang, North Korea | 531 |
 | 13 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
-| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 490 |
+| 14 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 480 |
 | 15 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 381 |
 | 16 | [Hexamouse](https://github.com/Hexamouse) | Muhamad Dzikri Maulana |  |  | Pyongyang, North Korea | 366 |
 | 17 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 351 |

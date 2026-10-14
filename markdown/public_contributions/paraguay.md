@@ -1,14 +1,14 @@
 # Public Contributions - Paraguay
 
-Generated: 2026-10-14T12:56:12.101Z
+Generated: 2026-10-14T14:18:42.292Z
 
 Users: 2014
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [vargascarlitos](https://github.com/vargascarlitos) | Carlitos Vargas | @Millicom-MFS |  | Paraguay | 9772 |
-| 2 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 3104 |
-| 3 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 2806 |
+| 2 | [kiquetal](https://github.com/kiquetal) | Enrique\m/Talavera | <) |  | Paraguay | 3419 |
+| 3 | [eeeds](https://github.com/eeeds) | Esteban Encina |  |  | Paraguay | 3104 |
 | 4 | [esteban-vm](https://github.com/esteban-vm) | Esteban V.M. |  |  | Asunción, Paraguay | 2357 |
 | 5 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 2181 |
 | 6 | [DaltonP93](https://github.com/DaltonP93) | Dalton Perez |  |  | Paraguay | 1870 |

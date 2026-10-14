@@ -52,11 +52,11 @@ Indexed users: 900
 | 13 | [Isaac1-gic](https://github.com/Isaac1-gic) | Isaac Chitsakamire | Malawi | 635 |
 | 14 | [V014](https://github.com/V014) | Wanga Kanjala | Blantyre, Malawi | 624 |
 | 15 | [Chrispine-1210](https://github.com/Chrispine-1210) | Chrispine Mndala | Lilongwe  | 565 |
-| 16 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
-| 17 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 483 |
-| 18 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
-| 19 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
-| 20 | [uniquedj95](https://github.com/uniquedj95) | Daniel Justin | Lilongwe, Malawi | 426 |
+| 16 | [chiefhaven](https://github.com/chiefhaven) | Chief Haven | Lilongwe | 491 |
+| 17 | [TgkCapture](https://github.com/TgkCapture) | tgkcapture | Blantyre, Malawi. | 485 |
+| 18 | [hopgausi](https://github.com/hopgausi) | Hopson Gausi | Malawi | 483 |
+| 19 | [wotcheni21](https://github.com/wotcheni21) | Joseph Witman Wotcheni | Malawi | 477 |
+| 20 | [codaMW](https://github.com/codaMW) | codaMW | Lilongwe, Malawi | 471 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 900
 | 19 | [g1ftmkyelu](https://github.com/g1ftmkyelu) | codemaestro🚀 | 🇲🇼 Malawi | 131 |
 | 20 | [RodgerCodes](https://github.com/RodgerCodes) | Rodger Kumwanje | Malawi | 129 |
 
-Generated: 2026-10-14T12:39:10.210Z
+Generated: 2026-10-14T14:06:22.510Z

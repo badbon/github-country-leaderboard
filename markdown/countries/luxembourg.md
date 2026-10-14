@@ -17,9 +17,9 @@ Indexed users: 2,191
 | 3 | [gillesheinesch](https://github.com/gillesheinesch) | Gilles Heinesch | Luxembourg | 16,492 |
 | 4 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 16,359 |
 | 5 | [FlorentNodz](https://github.com/FlorentNodz) | Florent | Luxembourg | 16,355 |
-| 6 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
-| 7 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
-| 8 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 10,606 |
+| 6 | [leobenkel](https://github.com/leobenkel) | Leo Benkel | Luxembourg | 14,135 |
+| 7 | [kboumedal](https://github.com/kboumedal) | Kevin | Luxembourg | 11,268 |
+| 8 | [KoStard](https://github.com/KoStard) | Ruben Kostandyan | Luxembourg | 11,009 |
 | 9 | [assaad](https://github.com/assaad) | Assaad Moawad | Luxembourg | 9,834 |
 | 10 | [bolivian-peru](https://github.com/bolivian-peru) | peruvian | Luxembourg | 9,289 |
 | 11 | [JonBasse](https://github.com/JonBasse) | Jonathan Basse | Luxembourg | 8,874 |
@@ -48,15 +48,15 @@ Indexed users: 2,191
 | 9 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin | Luxembourg | 3,159 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex | Luxembourg | 2,255 |
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Esch-sur-Alzette, Luxembourg | 2,220 |
-| 12 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,121 |
-| 13 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
-| 14 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
-| 15 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 1,806 |
-| 16 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
-| 17 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | Luxembourg | 1,737 |
-| 18 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
-| 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,655 |
-| 20 | [righel](https://github.com/righel) | Luciano Righetti | Luxembourg | 1,653 |
+| 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 2,164 |
+| 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | Luxembourg | 2,121 |
+| 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi | Luxembourg | 1,901 |
+| 15 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 1,861 |
+| 16 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | Luxembourg | 1,861 |
+| 17 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev | Luxembourg | 1,749 |
+| 18 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | Luxembourg | 1,737 |
+| 19 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Luxembourg | 1,659 |
+| 20 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | Luxembourg | 1,655 |
 
 ## Followers
 
@@ -69,18 +69,18 @@ Indexed users: 2,191
 | 5 | [themarcba](https://github.com/themarcba) | Marc Backes | Luxembourg | 391 |
 | 6 | [Vedenin](https://github.com/Vedenin) | Slava Vedenin | Luxembourg | 379 |
 | 7 | [zit0cod3z](https://github.com/zit0cod3z) | Kizito Daka | Luxembourg | 366 |
-| 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 303 |
+| 8 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Luxembourg | 309 |
 | 9 | [morteza](https://github.com/morteza) | Morteza Ansarinia | Luxembourg | 302 |
 | 10 | [andreafabrizi](https://github.com/andreafabrizi) | Andrea Fabrizi | Luxembourg | 289 |
 | 11 | [joewdavies](https://github.com/joewdavies) | Joe Davies | Cardiff / Madrid / Luxembourg | 289 |
 | 12 | [SvenGDK](https://github.com/SvenGDK) | SvenGDK | Luxembourg | 277 |
-| 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch | Luxembourg | 275 |
+| 13 | [kimwalisch](https://github.com/kimwalisch) | Kim Walisch | Luxembourg | 276 |
 | 14 | [phcollignon](https://github.com/phcollignon) | Philippe Collignon | Luxembourg | 261 |
 | 15 | [Sn0wAlice](https://github.com/Sn0wAlice) | Alice Snow | Luxembourg | 256 |
-| 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 225 |
+| 16 | [iglocska](https://github.com/iglocska) | Andras Iklody | Luxembourg | 229 |
 | 17 | [AndrejOrsula](https://github.com/AndrejOrsula) | Andrej Orsula | Luxembourg | 223 |
 | 18 | [erkobridee](https://github.com/erkobridee) | Erko Bridee | Luxembourg | 213 |
 | 19 | [l4rz](https://github.com/l4rz) | Mike K. | Luxembourg | 197 |
 | 20 | [urosolia](https://github.com/urosolia) | Ugo Rosolia | Luxembourg, Lux | 192 |
 
-Generated: 2026-10-14T12:38:16.811Z
+Generated: 2026-10-14T14:05:17.869Z

@@ -1,8 +1,8 @@
 # Followers - Mauritius
 
-Generated: 2026-10-14T12:42:58.027Z
+Generated: 2026-10-14T14:09:04.361Z
 
-Users: 714
+Users: 713
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

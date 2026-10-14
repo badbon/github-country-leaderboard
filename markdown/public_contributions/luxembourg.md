@@ -1,6 +1,6 @@
 # Public Contributions - Luxembourg
 
-Generated: 2026-10-14T12:38:16.811Z
+Generated: 2026-10-14T14:05:17.869Z
 
 Users: 2191
 
@@ -17,12 +17,12 @@ Users: 2191
 | 9 | [fxmartin](https://github.com/fxmartin) | François-Xavier Martin |  |  | Luxembourg | 3159 |
 | 10 | [Sashimee](https://github.com/Sashimee) | Alex |  |  | Luxembourg | 2255 |
 | 11 | [nicolasguelfi](https://github.com/nicolasguelfi) | Nicolas Guelfi | Right-On-Skill |  | Esch-sur-Alzette, Luxembourg | 2220 |
-| 12 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 2121 |
-| 13 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1901 |
-| 14 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | TAO |  | Luxembourg | 1861 |
-| 15 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 1806 |
-| 16 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev |  |  | Luxembourg | 1749 |
-| 17 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | University of Luxembourg |  | Luxembourg | 1737 |
-| 18 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Edda |  | Luxembourg | 1659 |
-| 19 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | uni.lu |  | Luxembourg | 1655 |
-| 20 | [righel](https://github.com/righel) | Luciano Righetti | CIRCL | righelx | Luxembourg | 1653 |
+| 12 | [iglocska](https://github.com/iglocska) | Andras Iklody | CIRCL | iglocska | Luxembourg | 2164 |
+| 13 | [PhilippeChepy](https://github.com/PhilippeChepy) | Philippe Chepy | InnoSens | PhilippeChepy | Luxembourg | 2121 |
+| 14 | [danielesomensi-cmd](https://github.com/danielesomensi-cmd) | Daniele Somensi |  |  | Luxembourg | 1901 |
+| 15 | [fmind](https://github.com/fmind) | Médéric Hurier (Fmind) | Fmind.dev | fmind_dev | Luxembourg | 1861 |
+| 16 | [mike-ionut-mihai-sandu-tao](https://github.com/mike-ionut-mihai-sandu-tao) | Ionut Mihai Sandu | TAO |  | Luxembourg | 1861 |
+| 17 | [lorem-dev](https://github.com/lorem-dev) | Lorem Dev |  |  | Luxembourg | 1749 |
+| 18 | [EZotoff](https://github.com/EZotoff) | Evgeny Zotov | University of Luxembourg |  | Luxembourg | 1737 |
+| 19 | [NicolasReyrolle](https://github.com/NicolasReyrolle) | Nicolas Reyrolle | Edda |  | Luxembourg | 1659 |
+| 20 | [rauschenberger](https://github.com/rauschenberger) | Armin Rauschenberger | uni.lu |  | Luxembourg | 1655 |

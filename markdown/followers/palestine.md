@@ -1,6 +1,6 @@
 # Followers - Palestine
 
-Generated: 2026-10-14T12:54:52.873Z
+Generated: 2026-10-14T14:17:54.470Z
 
 Users: 2202
 
@@ -18,8 +18,8 @@ Users: 2202
 | 10 | [hetslop](https://github.com/hetslop) | lance | bestfriends!! @bratworth @thefruitgrape @inmycomfortzone @evtjvashtsmartin @AdorableCattyy @milkiiwayz @kromakon |  | https://arab.org/click-to-help/palestine/ | 175 |
 | 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Foothill Technology Solutions, LLC |  | Jenin, Palestine | 174 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | @Apple |  | Jenin, Palestine | 168 |
-| 13 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Freelance |  | Al Quds, Palestine | 165 |
-| 14 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Upwork |  | Ramallah,Palestine | 165 |
+| 13 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Upwork |  | Ramallah,Palestine | 165 |
+| 14 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Freelance |  | Al Quds, Palestine | 153 |
 | 15 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | @elastic | AhmadBamieh | Palestine | 152 |
 | 16 | [MrM8BRH](https://github.com/MrM8BRH) |  |  |  | Palestine | 152 |
 | 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub |  |  | Palestine - Ramallah | 148 |

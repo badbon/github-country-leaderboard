@@ -74,8 +74,8 @@ Indexed users: 2,202
 | 10 | [hetslop](https://github.com/hetslop) | lance | https://arab.org/click-to-help/palestine/ | 175 |
 | 11 | [Nedal-Esrar](https://github.com/Nedal-Esrar) | Nedal-Esrar Ahmad | Jenin, Palestine | 174 |
 | 12 | [Mohammad-Abohasan](https://github.com/Mohammad-Abohasan) | Mohammad Abohasan | Jenin, Palestine | 168 |
-| 13 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 165 |
-| 14 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Ramallah,Palestine | 165 |
+| 13 | [MKhasib](https://github.com/MKhasib) | Majd Khasib | Ramallah,Palestine | 165 |
+| 14 | [abasjr](https://github.com/abasjr) | Abas D. Baskoro | Al Quds, Palestine | 153 |
 | 15 | [Bamieh](https://github.com/Bamieh) | Ahmad Bamieh | Palestine | 152 |
 | 16 | [MrM8BRH](https://github.com/MrM8BRH) |  | Palestine | 152 |
 | 17 | [DiaeddinTahboub](https://github.com/DiaeddinTahboub) | Diaeddin Tahboub | Palestine - Ramallah | 148 |
@@ -83,4 +83,4 @@ Indexed users: 2,202
 | 19 | [dalia2323](https://github.com/dalia2323) |  | Qalqilya, Palestine | 127 |
 | 20 | [mhmdio](https://github.com/mhmdio) | Mohammed Almusaddar | Gaza, Palestine | 123 |
 
-Generated: 2026-10-14T12:54:52.873Z
+Generated: 2026-10-14T14:17:54.470Z

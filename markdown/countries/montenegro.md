@@ -1,6 +1,6 @@
 # Montenegro
 
-Indexed users: 891
+Indexed users: 890
 
 | Leaderboard | Link |
 |---|---|
@@ -55,7 +55,7 @@ Indexed users: 891
 | 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,450 |
 | 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,376 |
 | 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,255 |
-| 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,105 |
+| 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,188 |
 | 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | Montenegro | 960 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 891
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-14T12:47:06.192Z
+Generated: 2026-10-14T14:10:27.687Z

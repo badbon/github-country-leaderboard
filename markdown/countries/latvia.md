@@ -23,11 +23,11 @@ Indexed users: 3,262
 | 9 | [rabestro](https://github.com/rabestro) | Jegors Čemisovs | Latvia | 9,004 |
 | 10 | [skakri](https://github.com/skakri) | Kristaps Karlsons | Latvia | 7,758 |
 | 11 | [jecis-repos](https://github.com/jecis-repos) | Jecis | Latvia | 7,539 |
-| 12 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
-| 13 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
-| 14 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,594 |
-| 15 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
-| 16 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 6,303 |
+| 12 | [danielsbethers](https://github.com/danielsbethers) | Daniels Bethers | Riga, Latvia | 7,122 |
+| 13 | [agubarev](https://github.com/agubarev) | Andrejs Gubarevs | Latvia, Riga | 6,749 |
+| 14 | [sansan](https://github.com/sansan) | Toms Veidemanis | Riga | 6,604 |
+| 15 | [victory-sokolov](https://github.com/victory-sokolov) | Viktor Sokolov | Latvia | 6,594 |
+| 16 | [Shvembldr](https://github.com/Shvembldr) | Shvembldr | Latvia | 6,475 |
 | 17 | [vitalijssilins](https://github.com/vitalijssilins) | Vitālijs Silins | Latvia, Riga | 5,985 |
 | 18 | [kasparsj](https://github.com/kasparsj) | Kaspars Jaudzems | Riga | 5,871 |
 | 19 | [aldis-ameriks](https://github.com/aldis-ameriks) | Aldis Ameriks | Riga, Latvia | 5,845 |
@@ -83,4 +83,4 @@ Indexed users: 3,262
 | 19 | [ruslanskorb](https://github.com/ruslanskorb) | Ruslan Skorb | Riga, Latvia | 226 |
 | 20 | [0ki](https://github.com/0ki) | Кirils Sоlovjоvs | Latvia | 225 |
 
-Generated: 2026-10-14T12:34:57.367Z
+Generated: 2026-10-14T14:02:36.363Z

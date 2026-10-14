@@ -1,8 +1,8 @@
 # Public Contributions - Saudi Arabia
 
-Generated: 2026-10-14T13:04:09.553Z
+Generated: 2026-10-14T14:24:24.600Z
 
-Users: 7745
+Users: 7744
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
@@ -11,18 +11,18 @@ Users: 7745
 | 3 | [mo9a7i](https://github.com/mo9a7i) | Mohannad Faihan Otaibi | @6degrees | BuFai7an | Saudi Arabia | 28833 |
 | 4 | [a7mad3bdullah](https://github.com/a7mad3bdullah) | Ahmad |  |  | Saudi Arabia | 11447 |
 | 5 | [alhanoofalabdullah-ai](https://github.com/alhanoofalabdullah-ai) | Alhanoof Alabdullah |  |  | Saudi Arabia, Riyadh city | 5518 |
-| 6 | [justpainful](https://github.com/justpainful) | 777 | Flowline · @1980Est |  | Saudi Arabia | 4237 |
-| 7 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb |  |  | Saudi Arabia | 4097 |
-| 8 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi |  |  | Saudi Arabia | 4084 |
-| 9 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3442 |
-| 10 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
-| 11 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
-| 12 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  |  |  | Riyadh | 2589 |
-| 13 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2480 |
-| 14 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |
-| 15 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
-| 16 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran |  |  | Saudi Arabia | 2404 |
-| 17 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
-| 18 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |
-| 19 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |
-| 20 | [aliakarma](https://github.com/aliakarma) | Ali Akarma | Islamic University of Madinah | akarma_ali | Madinah, Saudi Arabia | 2238 |
+| 6 | [a-green-hand-jack](https://github.com/a-green-hand-jack) | Jack Wu | King Abdullah University of Science and Technology  |  | Saudi Arabia (SA)  | 5062 |
+| 7 | [justpainful](https://github.com/justpainful) | 777 | Flowline · @1980Est |  | Saudi Arabia | 4237 |
+| 8 | [rashadnaqeeb](https://github.com/rashadnaqeeb) | Rashad Naqeeb |  |  | Saudi Arabia | 4097 |
+| 9 | [AsemJK](https://github.com/AsemJK) | Asem Alsaiyadi |  |  | Saudi Arabia | 4084 |
+| 10 | [ManalAlyami7](https://github.com/ManalAlyami7) | Manal Alyami  | King Saud University |  | Riyadh, Saudi Arabia | 3442 |
+| 11 | [EslamElshikh-dev](https://github.com/EslamElshikh-dev) | Eslam Elshikh | Google  | remoesoo10 | Riyadh  | 3381 |
+| 12 | [CalledSTRIKER](https://github.com/CalledSTRIKER) | Sultan |  |  | Saudi Arabia | 3251 |
+| 13 | [Lamyaa439](https://github.com/Lamyaa439) | Lamyaa  |  |  | Riyadh | 2589 |
+| 14 | [Su03l](https://github.com/Su03l) | Suliman Yousef |  | su05l | Saudi Arabia | 2480 |
+| 15 | [nn6n](https://github.com/nn6n) |  |  |  | Saudi Arabia  | 2459 |
+| 16 | [singer-yang](https://github.com/singer-yang) | Xinge Yang | KAUST |  | Thuwal, Saudi Arabia | 2413 |
+| 17 | [Shoug-Alomran](https://github.com/Shoug-Alomran) | Shoug Alomran |  |  | Saudi Arabia | 2404 |
+| 18 | [GalaxyRuler](https://github.com/GalaxyRuler) | GalaxyRuler |  |  | Riyadh, Saudi Arabia | 2294 |
+| 19 | [SyabAhmad](https://github.com/SyabAhmad) | Syed Syab Ahmad | MenteE | SyabSays | Al-Riyadh, Saudi Arabia | 2289 |
+| 20 | [usernane](https://github.com/usernane) | Ibrahim BinAlshikh | @OSHCO  | IbrahimBAli2017 | Saudi Arabia | 2261 |

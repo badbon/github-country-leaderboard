@@ -1,6 +1,6 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-14T12:51:49.607Z
+Generated: 2026-10-14T14:15:00.297Z
 
 Users: 185
 
@@ -13,12 +13,12 @@ Users: 185
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 350 |
 | 6 | [QinAnze](https://github.com/QinAnze) | 🌈沢 | Kim Il Sung University |  | North Korea | 231 |
 | 7 | [advanced-rising](https://github.com/advanced-rising) | risingcore |  |  | Democratic People's Republic of Korea | 221 |
-| 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 206 |
+| 8 | [DillerOFire](https://github.com/DillerOFire) | VerpaSRP |  |  | North Korea | 205 |
 | 9 | [Pigatronee](https://github.com/Pigatronee) | PigObsessedGameDev | pigat.inc |  | North Korea | 200 |
 | 10 | [RefrigerationUnit](https://github.com/RefrigerationUnit) | Julio Viejo |  |  | Pyongyang | 198 |
 | 11 | [renxiaoyaoo](https://github.com/renxiaoyaoo) | renxiaoyao |  |  | North Korea	 | 189 |
 | 12 | [july0785](https://github.com/july0785) | JULY |  |  | Pyongyang, DPR of Korea | 186 |
-| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 182 |
+| 13 | [andrewlee1807](https://github.com/andrewlee1807) | Andrew |  |  | North Korea | 183 |
 | 14 | [VisionVerse](https://github.com/VisionVerse) | Vision Verse |  |  | North Korea | 174 |
 | 15 | [l1vstudios](https://github.com/l1vstudios) | L1V |  |  | North Korea | 173 |
 | 16 | [vega-holdings](https://github.com/vega-holdings) | Vega | CGIC | vega_holdings | Pyongyang | 137 |
