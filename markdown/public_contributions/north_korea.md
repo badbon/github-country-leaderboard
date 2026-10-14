@@ -1,13 +1,13 @@
 # Public Contributions - North Korea
 
-Generated: 2026-10-14T09:15:13.649Z
+Generated: 2026-10-14T12:51:49.607Z
 
 Users: 185
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [The-Red-Serpent](https://github.com/The-Red-Serpent) | The_Red_Serpent |  |  | Pyongyang, North Korea | 1275 |
-| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 791 |
+| 2 | [iam-orsu](https://github.com/iam-orsu) | Vamsi Krishna |  |  | North Korea | 814 |
 | 3 | [Duzopy](https://github.com/Duzopy) | Dupozy | South Korea |  | North Korea | 607 |
 | 4 | [dddqmmx](https://github.com/dddqmmx) | PaulPerkenstein | Workers' Party of Korea |  | Pyongyang | 505 |
 | 5 | [PookiePepelsss](https://github.com/PookiePepelsss) | Pookie | @Nebula-Softworks \| Nebula Softworks |  | North Korea | 350 |

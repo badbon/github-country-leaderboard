@@ -18,7 +18,7 @@ Indexed users: 891
 | 4 | [alekspetrov](https://github.com/alekspetrov) | Aleks Petrov | Montenegro, Podgorica | 13,455 |
 | 5 | [sondreb](https://github.com/sondreb) | SondreB | Bar, Montenegro | 7,289 |
 | 6 | [McSim85](https://github.com/McSim85) | Max Kramarenko | Montenegro | 6,642 |
-| 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,487 |
+| 7 | [jare25](https://github.com/jare25) | Miloš Jaredić | Podgorica, Montenegro | 6,570 |
 | 8 | [Timev](https://github.com/Timev) | Evgenii Timofeev | Montenegro | 6,223 |
 | 9 | [recursion128](https://github.com/recursion128) | DDDDOGE | Crna Gora | 6,213 |
 | 10 | [stefashkaa](https://github.com/stefashkaa) | Stefan Popov | Montenegro, Budva | 5,983 |
@@ -29,8 +29,8 @@ Indexed users: 891
 | 15 | [gezimarapaj](https://github.com/gezimarapaj) |  | Montenegro | 5,136 |
 | 16 | [kayamuskas](https://github.com/kayamuskas) | Alexandr Logvinov | Montenegro | 4,714 |
 | 17 | [IvanPin](https://github.com/IvanPin) | Ivan Ponamarev | Podgorica, Montenegro | 4,685 |
-| 18 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,449 |
-| 19 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,424 |
+| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 4,461 |
+| 19 | [frostmid](https://github.com/frostmid) | Igor Boldyrev | Budva, Montenegro | 4,449 |
 | 20 | [tackadesignlab](https://github.com/tackadesignlab) | SRDNVCH | Montenegro | 4,419 |
 
 ## Public Contributions
@@ -54,7 +54,7 @@ Indexed users: 891
 | 15 | [YuriiMotov](https://github.com/YuriiMotov) | Yurii Motov | Bar, Montenegro | 1,474 |
 | 16 | [stevyhacker](https://github.com/stevyhacker) | Stevan Bogosavljević | Montenegro | 1,450 |
 | 17 | [yurabakhtin](https://github.com/yurabakhtin) | Yuriy Bakhtin | Montenegro | 1,376 |
-| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,233 |
+| 18 | [artempartos](https://github.com/artempartos) | Artem Petrov | Montenegro | 1,255 |
 | 19 | [itrcz](https://github.com/itrcz) | Ilya Trikoz | Montenegro | 1,105 |
 | 20 | [lunochkin](https://github.com/lunochkin) | Maksim Lunochkin | Montenegro | 960 |
 
@@ -83,4 +83,4 @@ Indexed users: 891
 | 19 | [vovkasm](https://github.com/vovkasm) | Vladimir Timofeev | Budva, Montenegro | 100 |
 | 20 | [marcoroganovic](https://github.com/marcoroganovic) | Marko Roganovic | Montenegro | 89 |
 
-Generated: 2026-10-14T09:10:17.158Z
+Generated: 2026-10-14T12:47:06.192Z

@@ -1,6 +1,6 @@
 # Total Contributions - New Caledonia
 
-Generated: 2026-10-14T09:12:46.993Z
+Generated: 2026-10-14T12:49:14.695Z
 
 Users: 111
 
@@ -13,7 +13,7 @@ Users: 111
 | 5 | [6pheR](https://github.com/6pheR) | CipheR_ | Mineria |  | New Caledonia | 2560 |
 | 6 | [tom333](https://github.com/tom333) |  |  |  | Nouméa, New Calédonia | 1476 |
 | 7 | [120dev](https://github.com/120dev) | 120 | 120DEV |  | NEW CALEDONIA | 1451 |
-| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1420 |
+| 8 | [TooFuW](https://github.com/TooFuW) | Eyrian Muet |  |  | New- Caledonia | 1424 |
 | 9 | [davidfevre-gouv-nc](https://github.com/davidfevre-gouv-nc) | David FEVRE | @gouv-nc  |  | Nouméa, New Caledonia | 1247 |
 | 10 | [Julien-Fruteau](https://github.com/Julien-Fruteau) | Julien |  | jfruteau | New Caledonia | 1213 |
 | 11 | [Dougniel](https://github.com/Dougniel) | Daniel Santos |  |  | New Caledonia | 1194 |

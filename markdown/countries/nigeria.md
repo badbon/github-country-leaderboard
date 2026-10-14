@@ -54,7 +54,7 @@ Indexed users: 33,218
 | 15 | [DevMuktary](https://github.com/DevMuktary) | MUKTAR ABDULWAHEED | Nigeria 🇳🇬  | 5,169 |
 | 16 | [xt42io](https://github.com/xt42io) | Akinkunmi | Nigeria | 5,016 |
 | 17 | [O-BERNARDOFOEGBU](https://github.com/O-BERNARDOFOEGBU) | Bernard Ofoegbu | Nigeria | 4,979 |
-| 18 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Nigeria | 4,765 |
+| 18 | [bamiebot-maker](https://github.com/bamiebot-maker) | Ibrahim Bamidele. S | Nigeria | 4,903 |
 | 19 | [KusuConsult-NG](https://github.com/KusuConsult-NG) | KusuConsult | Jos, Nigeria | 4,714 |
 | 20 | [BigBen-7](https://github.com/BigBen-7) | Benard Simon | Nigeria | 4,658 |
 
@@ -83,4 +83,4 @@ Indexed users: 33,218
 | 19 | [slick-codes](https://github.com/slick-codes) | Paul Ezekiel-Hart | Nigeria | 709 |
 | 20 | [adeolaadeoti](https://github.com/adeolaadeoti) | adeola adeoti | Lagos, Nigeria | 707 |
 
-Generated: 2026-10-14T09:14:04.872Z
+Generated: 2026-10-14T12:50:59.004Z

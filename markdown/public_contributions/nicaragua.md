@@ -1,6 +1,6 @@
 # Public Contributions - Nicaragua
 
-Generated: 2026-10-14T09:12:55.623Z
+Generated: 2026-10-14T12:50:23.119Z
 
 Users: 1394
 
@@ -18,7 +18,7 @@ Users: 1394
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Mao Agency |  | Nicaragua | 1153 |
 | 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | CleverTech |  | Nicaragua | 1093 |
 | 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina |  |  | Nicaragua | 1087 |
-| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff |  |  | República de Nicaragua | 1048 |
+| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff |  |  | República de Nicaragua | 1070 |
 | 14 | [R0LM0](https://github.com/R0LM0) | r0lm0 | None | r0lm0 | Managua, Nicaragua | 1027 |
 | 15 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | The Steel Ninja Code |  | Nicaragua | 987 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz |  | ernestoruiz89 | Nicaragua | 967 |

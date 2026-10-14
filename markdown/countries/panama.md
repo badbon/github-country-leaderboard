@@ -29,7 +29,7 @@ Indexed users: 1,069
 | 15 | [ramonfabrega](https://github.com/ramonfabrega) | Ramon | Panama | 7,800 |
 | 16 | [dashboardtech](https://github.com/dashboardtech) | Frederick Roberts | Panama | 7,697 |
 | 17 | [cabe56](https://github.com/cabe56) | Jose Varela | Panama City, Panama | 7,307 |
-| 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,091 |
+| 18 | [xtealer](https://github.com/xtealer) | Enrique Shunnar | Panama City, Panama | 7,288 |
 | 19 | [bryanjtc](https://github.com/bryanjtc) | Bryan Thomas | Panama | 6,773 |
 | 20 | [ElectricEden](https://github.com/ElectricEden) | Johan Estevez aka Bartolli  | Panama City | 6,581 |
 
@@ -83,4 +83,4 @@ Indexed users: 1,069
 | 19 | [Commandtechno](https://github.com/Commandtechno) | Techno | David, Panama | 49 |
 | 20 | [Iardo](https://github.com/Iardo) | Ivan Ramos | Panama | 47 |
 
-Generated: 2026-10-14T09:18:53.740Z
+Generated: 2026-10-14T12:55:28.974Z

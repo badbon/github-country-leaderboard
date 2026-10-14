@@ -49,7 +49,7 @@ Indexed users: 1,394
 | 10 | [MaycollJaramillo01](https://github.com/MaycollJaramillo01) | Maycoll Jaramillo | Nicaragua | 1,153 |
 | 11 | [victorstein](https://github.com/victorstein) | Alfonso Emilio Gomez Selva | Nicaragua | 1,093 |
 | 12 | [fn-cafeina](https://github.com/fn-cafeina) | Jasmir Medina | Nicaragua | 1,087 |
-| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,048 |
+| 13 | [staFF6773](https://github.com/staFF6773) | Not_staff | República de Nicaragua | 1,070 |
 | 14 | [R0LM0](https://github.com/R0LM0) | r0lm0 | Managua, Nicaragua | 1,027 |
 | 15 | [TheSteelNinjaCode](https://github.com/TheSteelNinjaCode) | Jefferson Abraham Omier | Nicaragua | 987 |
 | 16 | [ernestoruiz89](https://github.com/ernestoruiz89) | Ernesto Ruiz | Nicaragua | 967 |
@@ -62,9 +62,9 @@ Indexed users: 1,394
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | Nicaragua | 2,227 |
+| 1 | [CrisLottz](https://github.com/CrisLottz) | Cris Lottz | Nicaragua | 2,238 |
 | 2 | [paulomcnally](https://github.com/paulomcnally) | Paulo McNally | Mangua, Nicaragua | 213 |
-| 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | [Rivas, Nicaragua] | 179 |
+| 3 | [Aleejandro26](https://github.com/Aleejandro26) | Aleejandro Lagu. | [Rivas, Nicaragua] | 178 |
 | 4 | [QuesilloLover](https://github.com/QuesilloLover) | Adilia Moreno | Nicaragua | 158 |
 | 5 | [fitoria](https://github.com/fitoria) | Adolfo Fitoria | Mangua, Nicaragua | 146 |
 | 6 | [Victor-0rtiz](https://github.com/Victor-0rtiz) | Victor Oss | Nicaragua | 144 |
@@ -83,4 +83,4 @@ Indexed users: 1,394
 | 19 | [dannygaray60](https://github.com/dannygaray60) | Danny Garay | Nicaragua | 61 |
 | 20 | [jonathanquehay](https://github.com/jonathanquehay) | Jonathán Moreno | Nicaragua | 60 |
 
-Generated: 2026-10-14T09:12:55.623Z
+Generated: 2026-10-14T12:50:23.119Z

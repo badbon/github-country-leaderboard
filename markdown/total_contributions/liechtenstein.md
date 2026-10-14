@@ -1,22 +1,22 @@
 # Total Contributions - Liechtenstein
 
-Generated: 2026-10-14T09:02:18.612Z
+Generated: 2026-10-14T12:38:09.846Z
 
 Users: 113
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [oscardvs](https://github.com/oscardvs) | Oscar Devos |  | oskrt_dvs | Liechtenstein | 5416 |
-| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4483 |
+| 2 | [bernhardw](https://github.com/bernhardw) | Bernhard Wanger | Rezendo |  | Vaduz, Liechtenstein | 4523 |
 | 3 | [tnaescher](https://github.com/tnaescher) | T. Näscher | J&T Treuhand GmbH, Zürich |  | Liechtenstein | 4284 |
 | 4 | [msanft](https://github.com/msanft) | Moritz Sanft | Edgeless Systems | stdoutput | Liechtenstein | 2972 |
 | 5 | [PhilippHGerber](https://github.com/PhilippHGerber) | Philipp H. Gerber |  | PhilippHGerber | Liechtenstein | 2613 |
 | 6 | [ColinFrick](https://github.com/ColinFrick) | Colin Frick | SONDERFORMAT LLC | ColinFrick | Liechtenstein | 2441 |
 | 7 | [AHaldner](https://github.com/AHaldner) | Andrin Haldner | Stutz Medien AG |  | Liechtenstein | 1828 |
-| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1686 |
+| 8 | [marsop](https://github.com/marsop) | Alberto Gregorio | phios ag | marsop_ | Ruggell, Liechtenstein | 1687 |
 | 9 | [niklasfrick](https://github.com/niklasfrick) | Niklas Frick | @theplatformengineeringcompany | FrickNiklas | Liechtenstein | 1179 |
-| 10 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 737 |
-| 11 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 726 |
+| 10 | [iwhp](https://github.com/iwhp) | Harry Pfleger |  |  | Liechtenstein | 747 |
+| 11 | [masteradhoc](https://github.com/masteradhoc) | Brian |  | mrbrianhaas | Liechtenstein | 737 |
 | 12 | [d0dge-dev](https://github.com/d0dge-dev) | David |  |  | Liechtenstein | 473 |
 | 13 | [archham](https://github.com/archham) | Nicolas Eberle |  |  | Liechtenstein | 463 |
 | 14 | [wol-fi](https://github.com/wol-fi) | Wolfgang Schadner | University of Liechtenstein |  | Liechtenstein | 332 |

@@ -25,8 +25,8 @@ Indexed users: 1,357
 | 11 | [touskar](https://github.com/touskar) | Moussa Ndour DSI at INTech Group | Dakar | 5,557 |
 | 12 | [i2sac](https://github.com/i2sac) | Louis Issac Jean Samba DIOUF | Dakar, Senegal | 5,296 |
 | 13 | [elias-ba](https://github.com/elias-ba) | Elias Waly Ba | Dakar, Senegal | 5,019 |
-| 14 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
-| 15 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,679 |
+| 14 | [ZooM982](https://github.com/ZooM982) | Revhieno Roll Haurly MBOUTA  | Dakar, Sénégal | 4,863 |
+| 15 | [crossben](https://github.com/crossben) |  | Dakar | 4,785 |
 | 16 | [lamine-f](https://github.com/lamine-f) | Mouhamed Lamine Faye | Sénégal - Dakar | 4,525 |
 | 17 | [Zoubeir23](https://github.com/Zoubeir23) | ZOUBEIR IBRAHIMA | Sénegale, Dakar | 4,387 |
 | 18 | [madicke12](https://github.com/madicke12) | Madicke Cisse | Dakar | 4,228 |
@@ -83,4 +83,4 @@ Indexed users: 1,357
 | 19 | [ngorseck](https://github.com/ngorseck) | Ngor SECK | Dakar - Sénégal | 142 |
 | 20 | [patheGobel](https://github.com/patheGobel) | Pathé BA | Senegal  | 138 |
 
-Generated: 2026-10-14T09:25:16.614Z
+Generated: 2026-10-14T13:04:51.473Z

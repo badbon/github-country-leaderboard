@@ -1,6 +1,6 @@
 # Total Contributions - Oman
 
-Generated: 2026-10-14T09:17:00.180Z
+Generated: 2026-10-14T12:53:44.971Z
 
 Users: 993
 
@@ -13,7 +13,7 @@ Users: 993
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Rihal |  | Oman | 12630 |
 | 6 | [jaifar530](https://github.com/jaifar530) | Jaifar |  |  | Oman | 11511 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan |  |  | Muscat, Oman | 10554 |
-| 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 9106 |
+| 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | @NuqtaAI |  | Muscat, Oman 🇴🇲 | 9231 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani |  |  | Muscat, Oman | 9005 |
 | 10 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed |  | sanjeed_i | Bangalore / Oman  | 8290 |
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | @CarbonMobile @ForkLineageOS @NerdInfusions  | iamshaikjaleel | Muscat | 8204 |

@@ -38,8 +38,8 @@ Indexed users: 1,929
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
 | 1 | [Delemangi](https://github.com/Delemangi) | Stefan Milev | Skopje, North Macedonia | 4,478 |
-| 2 | [martinpetkovski](https://github.com/martinpetkovski) | Martin | Bitola, Macedonia | 2,253 |
-| 3 | [bokic](https://github.com/bokic) | Boris Barbulovski | North Macedonia | 1,716 |
+| 2 | [martinpetkovski](https://github.com/martinpetkovski) | Martin | Bitola, Macedonia | 2,275 |
+| 3 | [bokic](https://github.com/bokic) | Boris Barbulovski | North Macedonia | 2,235 |
 | 4 | [tino097](https://github.com/tino097) | Konstantin Sivakov | Bitola, North Macedonia | 1,702 |
 | 5 | [ZoranPandovski](https://github.com/ZoranPandovski) | Zoran Pandovski | Bitola, North Macedonia | 1,358 |
 | 6 | [oliverlaz](https://github.com/oliverlaz) | Oliver Lazoroski | Skopje, Macedonia | 1,348 |
@@ -83,4 +83,4 @@ Indexed users: 1,929
 | 19 | [bor0](https://github.com/bor0) | Boro Sitnikovski | Skopje, North Macedonia | 163 |
 | 20 | [gdamjan](https://github.com/gdamjan) | Дамјан Георгиевски | Skopje, Macedonia | 144 |
 
-Generated: 2026-10-14T09:15:20.158Z
+Generated: 2026-10-14T12:52:20.009Z

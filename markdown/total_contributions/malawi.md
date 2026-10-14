@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-14T09:04:46.872Z
+Generated: 2026-10-14T12:39:10.210Z
 
 Users: 900
 
@@ -12,7 +12,7 @@ Users: 900
 | 4 | [PatienceBond](https://github.com/PatienceBond) | Patience Isaiah Nyirenda | FindLink |  | Malawi, Africa | 6538 |
 | 5 | [madzalo](https://github.com/madzalo) | Resten Madzalo |  |  | Malawi | 5944 |
 | 6 | [CliffordMarley](https://github.com/CliffordMarley) | Clifford P. Mwale | Maziko Financial Technologies Limited |  | Area 47, Lilongwe, Malawi | 5767 |
-| 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 5585 |
+| 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 5565 |
 | 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 5456 |
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | M2K Developments | DevelopmentsM2k | Malawi | 4900 |
 | 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4708 |

@@ -43,12 +43,12 @@ Indexed users: 799
 | 4 | [fahadTheTechIdea](https://github.com/fahadTheTechIdea) | Fahad Aldhubaib | Kuwait | 2,224 |
 | 5 | [saskw2010](https://github.com/saskw2010) | Mostafa Elnagar | kuwait | 1,740 |
 | 6 | [SiteQ8](https://github.com/SiteQ8) | Ali AlEnezi | Kuwait | 1,675 |
-| 7 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,573 |
+| 7 | [Moslemjaw](https://github.com/Moslemjaw) | Moslem Jawich | Kuwait | 1,571 |
 | 8 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 1,526 |
 | 9 | [aalhendi](https://github.com/aalhendi) | Abdulrazzaq Alhendi | Kuwait | 1,398 |
 | 10 | [Mubder](https://github.com/Mubder) | Mubder Alfaris | Kuwait | 1,334 |
 | 11 | [knro](https://github.com/knro) | Jasem Mutlaq | Kuwait | 941 |
-| 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 824 |
+| 12 | [usamahklair](https://github.com/usamahklair) | Usamah Klair | Kuwait | 823 |
 | 13 | [Mazyod](https://github.com/Mazyod) | Maz | Kuwait | 628 |
 | 14 | [azikar24](https://github.com/azikar24) | Abdulaziz Karam | Kuwait | 610 |
 | 15 | [fibonacci61](https://github.com/fibonacci61) | Faisal Malallah | Kuwait | 545 |
@@ -83,4 +83,4 @@ Indexed users: 799
 | 19 | [MoathOthman](https://github.com/MoathOthman) | Moath othman | Kuwait | 85 |
 | 20 | [Abdulkader-Safi](https://github.com/Abdulkader-Safi) | Abdulkader Safi | Kuwait | 81 |
 
-Generated: 2026-10-14T09:31:04.405Z
+Generated: 2026-10-14T12:31:34.042Z

@@ -1,6 +1,6 @@
 # Followers - Laos
 
-Generated: 2026-10-14T09:00:14.944Z
+Generated: 2026-10-14T12:33:26.573Z
 
 Users: 360
 
@@ -9,8 +9,8 @@ Users: 360
 | 1 | [TheBrown](https://github.com/TheBrown) | Saleumsack Keoboualay | BCEL Bank |  | Vientiane,Laos | 47 |
 | 2 | [chanthavong](https://github.com/chanthavong) | Jan Jao | BitDigo.Ltd | janjao_space | Vientiane, Laos | 42 |
 | 3 | [topser9](https://github.com/topser9) | Top |  |  | Lao People's Democratic Republic | 38 |
-| 4 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |
-| 5 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 36 |
+| 4 | [Alamnzr123](https://github.com/Alamnzr123) | Rahmad Alamsyah Nazaruddin |  |  | Laos | 37 |
+| 5 | [SourceDev-Lab](https://github.com/SourceDev-Lab) | SourceDev-Lab |  | XianExsensai | Vientiane, Lao | 37 |
 | 6 | [barluscuda](https://github.com/barluscuda) | BarlusCuda |  |  | Laos | 32 |
 | 7 | [Dan16ssd](https://github.com/Dan16ssd) | Sinthanavanh Sinsamphanh | MakerBox |  | Vientiane, Laos | 27 |
 | 8 | [tinbotu](https://github.com/tinbotu) | Akira KUMAGAI |  |  | ວຽງຈັນ, Laos | 27 |

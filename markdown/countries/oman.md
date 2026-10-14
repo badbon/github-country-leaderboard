@@ -19,7 +19,7 @@ Indexed users: 993
 | 5 | [NasserAlbusaidi](https://github.com/NasserAlbusaidi) | Nasser Albusaidi | Oman | 12,630 |
 | 6 | [jaifar530](https://github.com/jaifar530) | Jaifar | Oman | 11,511 |
 | 7 | [bshbsh404](https://github.com/bshbsh404) | Bashir Hassan | Muscat, Oman | 10,554 |
-| 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,106 |
+| 8 | [alanqoudif](https://github.com/alanqoudif) | faisal al anqoudi | Muscat, Oman 🇴🇲 | 9,231 |
 | 9 | [aldhaifani](https://github.com/aldhaifani) | Tareq Al-Dhaifani | Muscat, Oman | 9,005 |
 | 10 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 8,290 |
 | 11 | [iamsj7](https://github.com/iamsj7) | Shaik Jaleel | Muscat | 8,204 |
@@ -68,10 +68,10 @@ Indexed users: 993
 | 4 | [habibalmawali](https://github.com/habibalmawali) | Habib AlMawali | Oman | 227 |
 | 5 | [ahmedtechm](https://github.com/ahmedtechm) | Ahmed ALAbri | Muscat, Oman | 201 |
 | 6 | [AhmedBafkir](https://github.com/AhmedBafkir) | AhmedBafkir | Oman | 193 |
-| 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 187 |
+| 7 | [RanjbarAli](https://github.com/RanjbarAli) | Ali Ranjbar Jelodar | Oman, Muscat | 190 |
 | 8 | [Zerx0r](https://github.com/Zerx0r) | Zerx0r | Oman, Muscat | 175 |
 | 9 | [sajadevo](https://github.com/sajadevo) | Sajad | Muscat, Oman | 174 |
-| 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 152 |
+| 10 | [AMEERKOTTA](https://github.com/AMEERKOTTA) | AMEER KOTTA | Muscat, Oman | 151 |
 | 11 | [Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani) | Fahad Al Maashani | Salalah, Oman | 143 |
 | 12 | [Mahanmmi](https://github.com/Mahanmmi) | Mahan Zendedel DH | Muscat, Oman | 143 |
 | 13 | [sanjeed5](https://github.com/sanjeed5) | Sanjeed | Bangalore / Oman  | 131 |
@@ -83,4 +83,4 @@ Indexed users: 993
 | 19 | [3mrdev](https://github.com/3mrdev) | Amr Abd-Alkrim | Khartoum, Sudan \| Muscat, Oman | 94 |
 | 20 | [AmirSa12](https://github.com/AmirSa12) | AmirHossein Sakhravi | Muscat, Oman | 91 |
 
-Generated: 2026-10-14T09:17:00.180Z
+Generated: 2026-10-14T12:53:44.971Z

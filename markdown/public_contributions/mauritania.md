@@ -1,6 +1,6 @@
 # Public Contributions - Mauritania
 
-Generated: 2026-10-14T09:08:20.456Z
+Generated: 2026-10-14T12:42:52.019Z
 
 Users: 289
 
@@ -17,9 +17,9 @@ Users: 289
 | 9 | [sidi-maadh](https://github.com/sidi-maadh) |  Sidi Maadh |  | SidiMaadh | Nouakchott | 378 |
 | 10 | [ahmed-abdat](https://github.com/ahmed-abdat) | Ahmed Abdellahi Abdat | rimecode |  | mauritania nouakchott | 308 |
 | 11 | [lbarsidati22](https://github.com/lbarsidati22) | Lbar Sidati |  | SidatiLbar97468 | Nouakchott | 297 |
-| 12 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 278 |
-| 13 | [alibyh](https://github.com/alibyh) | Alibyh | mauri-alpha |  | Nouakchott-Mauritania | 264 |
-| 14 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  |  |  | Nouakchott mauritanie  | 246 |
+| 12 | [alibyh](https://github.com/alibyh) | Alibyh | mauri-alpha |  | Nouakchott-Mauritania | 264 |
+| 13 | [abdallahisouvi](https://github.com/abdallahisouvi) | Abdallahisouvi  |  |  | Nouakchott mauritanie  | 246 |
+| 14 | [ghalass](https://github.com/ghalass) | MED SALEM GHALASS |  |  | Mauritania | 240 |
 | 15 | [khalef-khalil](https://github.com/khalef-khalil) | Khalil Khalef |  |  | Mauritania | 213 |
 | 16 | [Hashimi01](https://github.com/Hashimi01) | Hashimi El Hashimi | @IBTIKAR-Technologies  |  | Nouakchott, Mauritania | 207 |
 | 17 | [AymanMady](https://github.com/AymanMady) | Bechir Mady (octopus) | Awlyg tech |  | Nouakchott Mauritania | 206 |
