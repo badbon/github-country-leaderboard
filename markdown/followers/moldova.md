@@ -1,13 +1,13 @@
 # Followers - Moldova
 
-Generated: 2026-10-14T14:10:11.725Z
+Generated: 2026-10-14T15:31:16.907Z
 
 Users: 1750
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [face-hh](https://github.com/face-hh) | Face |  | facedevstuff | Moldova | 2273 |
-| 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | @uptrace  | uptracedev | Moldova | 1381 |
+| 2 | [vmihailenco](https://github.com/vmihailenco) | Vladimir Mihailenco | @uptrace  | uptracedev | Moldova | 1380 |
 | 3 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 516 |
 | 4 | [messsimo](https://github.com/messsimo) | Daniel Mihai |  |  | Republic of Moldova | 356 |
 | 5 | [nickmessing](https://github.com/nickmessing) | Nick Messing | itcare.net |  | Chisinau, Moldova | 349 |
@@ -23,6 +23,6 @@ Users: 1750
 | 15 | [AddictedCS](https://github.com/AddictedCS) | Sergiu Ciumac | emysound.com | addictedcs | Chisinau, Moldova | 141 |
 | 16 | [ygorigor](https://github.com/ygorigor) | Igor |  |  | Chisinau, Moldova | 129 |
 | 17 | [andrei-zgirvaci](https://github.com/andrei-zgirvaci) | Andrei Zgîrvaci | @callstack | andrei_zgirvaci | Chișinău, Moldova | 123 |
-| 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 119 |
+| 18 | [keriat](https://github.com/keriat) | Sergey Beresnev | @superform-xyz | keriat | Moldova, Chisinau | 121 |
 | 19 | [vgaidarji](https://github.com/vgaidarji) | Veaceslav Gaidarji |  | v_gaidarji | Moldova | 115 |
 | 20 | [Ernest96](https://github.com/Ernest96) | Ernest |  |  | Chisinau Moldova | 107 |

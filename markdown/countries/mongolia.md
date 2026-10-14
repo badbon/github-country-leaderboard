@@ -46,12 +46,12 @@ Indexed users: 805
 | 7 | [sadespresso](https://github.com/sadespresso) | Батмэнд Ганбаатар | Ulaanbaatar, Mongolia | 803 |
 | 8 | [batmunkhcom](https://github.com/batmunkhcom) | BATMUNKH M | Mongolia, Ulaanbaatar | 788 |
 | 9 | [Zolb646](https://github.com/Zolb646) | B ZOLBAYAR | Mongolia | 781 |
-| 10 | [PQ-007](https://github.com/PQ-007) | Bilguuntushig | Mongolia, Ulaanbaatar | 665 |
+| 10 | [PQ-007](https://github.com/PQ-007) | Bilguuntushig | Mongolia, Ulaanbaatar | 676 |
 | 11 | [barsboldb](https://github.com/barsboldb) | Barsbold Bayar-Erdene | Ulaanbaatar, Mongolia | 598 |
 | 12 | [batdorj-s](https://github.com/batdorj-s) | batdorj | mongolia | 543 |
 | 13 | [TemuulenBM](https://github.com/TemuulenBM) | Temuulen | Mongolia | 542 |
-| 14 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Ulaanbaatar, Mongolia | 535 |
-| 15 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 529 |
+| 14 | [Amartuvshins0404](https://github.com/Amartuvshins0404) | Amartuvshin Surenjav | Ulaanbaatar, Mongolia | 529 |
+| 15 | [Ar-temis](https://github.com/Ar-temis) | Temuulen Enkhtamir | Ulaanbaatar, Mongolia | 514 |
 | 16 | [munkhsaikhan](https://github.com/munkhsaikhan) | munkhsaikhan | mongolia | 492 |
 | 17 | [zolbooo](https://github.com/zolbooo) | Oleg | Ulaanbaatar, Mongolia | 492 |
 | 18 | [dolgoonnn](https://github.com/dolgoonnn) | Dolgoon | Ulaanbaatar, Mongolia | 484 |
@@ -83,4 +83,4 @@ Indexed users: 805
 | 19 | [munkhjin0223](https://github.com/munkhjin0223) | Munkhjin | Ulaanbaatar, Mongolia | 64 |
 | 20 | [temuulennibno](https://github.com/temuulennibno) | Temuulen | Ulaanbaatar, Mongolia | 55 |
 
-Generated: 2026-10-14T14:10:22.520Z
+Generated: 2026-10-14T15:31:58.886Z

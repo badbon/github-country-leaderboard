@@ -1,8 +1,8 @@
 # Followers - Latvia
 
-Generated: 2026-10-14T14:02:36.363Z
+Generated: 2026-10-14T15:22:46.537Z
 
-Users: 3262
+Users: 3261
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|

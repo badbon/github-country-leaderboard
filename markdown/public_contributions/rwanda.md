@@ -1,6 +1,6 @@
 # Public Contributions - Rwanda
 
-Generated: 2026-10-14T14:21:15.339Z
+Generated: 2026-10-14T15:43:04.923Z
 
 Users: 3522
 
@@ -25,4 +25,4 @@ Users: 3522
 | 17 | [uparfait](https://github.com/uparfait) | Parfait Uwayo |  |  | Rwanda | 2563 |
 | 18 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES |  |  | KIGALI- RWANDA | 2539 |
 | 19 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Young Africans Network |  | Rwanda | 2493 |
-| 20 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | DondouAbiyi |  | Kigali, Rwanda | 2403 |
+| 20 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Enterpreneur | Moiseyehovayire | Kigali,Rwanda | 2365 |

@@ -1,6 +1,6 @@
 # Syria
 
-Indexed users: 1,479
+Indexed users: 1,480
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 1,479
 | 19 | [nebrassy](https://github.com/nebrassy) | Nebrassy | Latakia, Syria | 102 |
 | 20 | [zaher](https://github.com/zaher) | Zaher Dirkey | Damascus, Syria | 95 |
 
-Generated: 2026-10-14T14:34:55.790Z
+Generated: 2026-10-14T15:27:05.639Z

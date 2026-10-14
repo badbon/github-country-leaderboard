@@ -1,6 +1,6 @@
 # Total Contributions - Malawi
 
-Generated: 2026-10-14T14:06:22.510Z
+Generated: 2026-10-14T15:27:51.057Z
 
 Users: 900
 
@@ -15,7 +15,7 @@ Users: 900
 | 7 | [jones-blackwell](https://github.com/jones-blackwell) | Jones Blackwell | Global Health Informatics Institute  |  | Lilongwe, Malawi | 5565 |
 | 8 | [mcleanka](https://github.com/mcleanka) | Mclean Kasambala | Zonse247 |  | Malawi, Lilongwe | 5456 |
 | 9 | [M2KDevelopments](https://github.com/M2KDevelopments) | M2K Dev | M2K Developments | DevelopmentsM2k | Malawi | 4900 |
-| 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4708 |
+| 10 | [ColonelBlimp](https://github.com/ColonelBlimp) | ColonelBlimp |  |  | Mzuzu, Malawi | 4723 |
 | 11 | [hopekali04](https://github.com/hopekali04) | Hope Kalitera |  |  | Blantyre, Malawi | 4594 |
 | 12 | [dominickasanga](https://github.com/dominickasanga) | Dominic Kasanga |  |  | Mzuzu, Malawi | 4050 |
 | 13 | [prow57](https://github.com/prow57) | Immanuel Bester | iMoSyS |  | Malawi | 3931 |

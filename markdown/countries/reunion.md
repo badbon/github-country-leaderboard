@@ -12,7 +12,7 @@ Indexed users: 212
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 13,363 |
+| 1 | [fabricepayet](https://github.com/fabricepayet) | Fabrice Payet | Reunion Island | 19,767 |
 | 2 | [PhilDL](https://github.com/PhilDL) | Philippe L'ATTENTION | Réunion | 6,841 |
 | 3 | [digikaizen](https://github.com/digikaizen) | DigiKaizen | Saint-Denis | 6,436 |
 | 4 | [saiht](https://github.com/saiht) | Saiht | Reunion Island | 3,844 |
@@ -83,4 +83,4 @@ Indexed users: 212
 | 19 | [JeCodeLeSoir](https://github.com/JeCodeLeSoir) | Aurélien | Réunion | 20 |
 | 20 | [Nasjoe](https://github.com/Nasjoe) | Jonas TURBEAUX | Réunion Island, Villeurbanne, Montpellier : France | 20 |
 
-Generated: 2026-10-14T14:20:08.501Z
+Generated: 2026-10-14T15:42:32.215Z

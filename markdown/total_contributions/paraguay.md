@@ -1,6 +1,6 @@
 # Total Contributions - Paraguay
 
-Generated: 2026-10-14T14:18:42.292Z
+Generated: 2026-10-14T15:40:28.883Z
 
 Users: 2014
 
@@ -20,9 +20,9 @@ Users: 2014
 | 12 | [cmelgarejo](https://github.com/cmelgarejo) | Christian Melgarejo | @LoopContext |  | Paraguay | 5899 |
 | 13 | [davicyyo](https://github.com/davicyyo) | DaViCyYo | HeadArrow | davicyyoYT | Paraguay | 5811 |
 | 14 | [zot24](https://github.com/zot24) |  | Motty | zot24 | Asuncion, Paraguay | 5424 |
-| 15 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
-| 16 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
-| 17 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 4805 |
-| 18 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
-| 19 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |
-| 20 | [everdaniel](https://github.com/everdaniel) | Ever Daniel Barreto | Borealis |  | Asunción, Paraguay | 4318 |
+| 15 | [apojomovsky](https://github.com/apojomovsky) | Alexis Pojomovsky |  |  | Asunción - Paraguay | 5111 |
+| 16 | [InumanSoul](https://github.com/InumanSoul) | Anderson Fariña |  | Inumansoul | Paraguay | 5001 |
+| 17 | [aplgr](https://github.com/aplgr) | André Plöger |  |  | Paraguay | 4966 |
+| 18 | [luifer-villalba](https://github.com/luifer-villalba) | Luifer Villalba | Mentormate | luifervillalba | Asunción, Paraguay | 4805 |
+| 19 | [sclavijo93](https://github.com/sclavijo93) | Saul Clavijo |  |  | Asuncion, Paraguay | 4708 |
+| 20 | [skyvanguard](https://github.com/skyvanguard) |  | Skyvanguard |  | Paraguay | 4332 |

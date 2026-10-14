@@ -1,6 +1,6 @@
 # Public Contributions - Moldova
 
-Generated: 2026-10-14T14:10:11.725Z
+Generated: 2026-10-14T15:31:16.907Z
 
 Users: 1750
 
@@ -14,14 +14,14 @@ Users: 1750
 | 6 | [Aragas](https://github.com/Aragas) | Vitalii Mikhailov | @Nexus-Mods |  | Chisinau, Moldova | 2263 |
 | 7 | [50rayn](https://github.com/50rayn) | Soryn |  | 50rayn | Moldova | 2029 |
 | 8 | [himaster](https://github.com/himaster) | Vitaly Bicov |  |  | Chisinau, Moldova | 2021 |
-| 9 | [teratron](https://github.com/teratron) | Oleg Alexandrov |  |  | Moldova | 1740 |
-| 10 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | TTG.club |  | Moldova | 1716 |
-| 11 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr |  |  | Moldova | 1708 |
-| 12 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 1693 |
-| 13 | [g0ddest](https://github.com/g0ddest) | veet |  |  | Bendery, Moldova | 1648 |
-| 14 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1552 |
-| 15 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1498 |
-| 16 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1453 |
+| 9 | [vbarbarosh](https://github.com/vbarbarosh) | Vladimir Barbarosh |  |  | Moldova | 1950 |
+| 10 | [teratron](https://github.com/teratron) | Oleg Alexandrov |  |  | Moldova | 1740 |
+| 11 | [Magistrus](https://github.com/Magistrus) | Vitaliy Unguryan | TTG.club |  | Moldova | 1716 |
+| 12 | [THET1ME-1](https://github.com/THET1ME-1) | Matrosov Alexandr |  |  | Moldova | 1708 |
+| 13 | [Nemo-Illusionist](https://github.com/Nemo-Illusionist) | Peter Radilov | @ApprovalMax |  | Moldova | 1693 |
+| 14 | [g0ddest](https://github.com/g0ddest) | veet |  |  | Bendery, Moldova | 1648 |
+| 15 | [GabsEdits](https://github.com/GabsEdits) | Gabriel Cozma | @fabricatorsltd | gxbsdev | Chisinau, Moldova | 1552 |
+| 16 | [CyberShadow](https://github.com/CyberShadow) | Vladimir Panteleev |  |  | Moldova, Eastern Europe | 1498 |
 | 17 | [nalyk](https://github.com/nalyk) | Ion (Nalyk) Calmîș | Yoda.Digital | nalyk | Ungheni, Republic of Moldova | 1397 |
 | 18 | [CatalinPlesu](https://github.com/CatalinPlesu) | Catalin Plesu |  |  | Moldova | 1385 |
 | 19 | [iatsiuk](https://github.com/iatsiuk) | Aleksei Iatsiuk | Overgear |  | Chisinau, Moldova | 1378 |

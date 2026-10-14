@@ -56,7 +56,7 @@ Indexed users: 3,522
 | 17 | [uparfait](https://github.com/uparfait) | Parfait Uwayo | Rwanda | 2,563 |
 | 18 | [mugisham37](https://github.com/mugisham37) | MUGISHA MOSES | KIGALI- RWANDA | 2,539 |
 | 19 | [rayiecho](https://github.com/rayiecho) | Regan Ayiecho | Rwanda | 2,493 |
-| 20 | [dondou21](https://github.com/dondou21) | Dondou Abiyi | Kigali, Rwanda | 2,403 |
+| 20 | [Moise-codes](https://github.com/Moise-codes) | YEHOVAYIRE Moise | Kigali,Rwanda | 2,365 |
 
 ## Followers
 
@@ -83,4 +83,4 @@ Indexed users: 3,522
 | 19 | [ghislainb-cracker](https://github.com/ghislainb-cracker) | Ghislain Byimbo | Rwanda | 316 |
 | 20 | [shemaikuzwe](https://github.com/shemaikuzwe) | Ikuzwe shema Elie | rwanda | 314 |
 
-Generated: 2026-10-14T14:21:15.339Z
+Generated: 2026-10-14T15:43:04.923Z

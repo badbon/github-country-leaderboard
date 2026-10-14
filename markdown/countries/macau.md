@@ -50,7 +50,7 @@ Indexed users: 439
 | 11 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 842 |
 | 12 | [ygqygq2](https://github.com/ygqygq2) | Chinge Yang | macao | 803 |
 | 13 | [comsaint](https://github.com/comsaint) | comsaint | Macau | 758 |
-| 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 685 |
+| 14 | [joaquimrcarvalho](https://github.com/joaquimrcarvalho) | Joaquim Carvalho | Macao, China and Coimbra, Portugal | 704 |
 | 15 | [DoongLi](https://github.com/DoongLi) | Frankie Dong Li | Taipa, Macau | 657 |
 | 16 | [gorgeousfish](https://github.com/gorgeousfish) | xuanyucai | Macau | 596 |
 | 17 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 571 |
@@ -76,11 +76,11 @@ Indexed users: 439
 | 12 | [makzan](https://github.com/makzan) | Thomas Seng Hin Mak | Macao | 110 |
 | 13 | [mengguyi](https://github.com/mengguyi) | 孟古一 | Macau | 105 |
 | 14 | [wahengchang](https://github.com/wahengchang) | peterchang | macau | 100 |
-| 15 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | Macau | 93 |
-| 16 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Macau | 92 |
+| 15 | [laochonlam](https://github.com/laochonlam) | Chon Lam Lao | Macau | 93 |
+| 16 | [zhiyzuo](https://github.com/zhiyzuo) | Zhiya Zuo | Macau | 93 |
 | 17 | [walkdoer](https://github.com/walkdoer) | Andrew Cheong | Macau | 83 |
 | 18 | [1595901624](https://github.com/1595901624) | Cloris | Macau | 68 |
 | 19 | [Boom5426](https://github.com/Boom5426) | Bo li (李波) | Macau | 67 |
 | 20 | [mugpeng](https://github.com/mugpeng) | Peng | macao | 67 |
 
-Generated: 2026-10-14T14:05:23.754Z
+Generated: 2026-10-14T15:27:10.512Z
