@@ -1,6 +1,6 @@
 # Followers - Belize
 
-Generated: 2026-10-14T09:51:16.998Z
+Generated: 2026-10-14T13:30:22.828Z
 
 Users: 95
 
@@ -14,8 +14,8 @@ Users: 95
 | 6 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Statistical Institute of Belize |  | Belize | 21 |
 | 7 | [jimidle](https://github.com/jimidle) | Jim Idle | @databrickslabs  |  | Hopkins, Belize | 20 |
 | 8 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | University of Belize |  | Belmopan, Belize | 17 |
-| 9 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | RUNMAN LLC |  | Belize | 13 |
-| 10 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer |  |  | Belize | 12 |
+| 9 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer |  |  | Belize | 13 |
+| 10 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | RUNMAN LLC |  | Belize | 13 |
 | 11 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | University of Belize |  | Belmopan, Belize | 12 |
 | 12 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra |  |  | Belize | 12 |
 | 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Self-employed |  | Belize | 10 |

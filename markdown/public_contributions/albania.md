@@ -1,6 +1,6 @@
 # Public Contributions - Albania
 
-Generated: 2026-10-14T09:45:35.922Z
+Generated: 2026-10-14T13:24:15.028Z
 
 Users: 1184
 
@@ -17,11 +17,11 @@ Users: 1184
 | 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj |  |  | Tirana, Albania | 980 |
 | 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | CyberSecurity Researcher, Red Team, Bug Hunter | OrgitoRTA | Albania | 914 |
 | 11 | [bredliplaku](https://github.com/bredliplaku) | Bredli |  |  | Albania | 883 |
-| 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 782 |
-| 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
-| 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
-| 15 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 658 |
-| 16 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 648 |
+| 12 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Computer House AL |  | Vlorë, Albania | 784 |
+| 13 | [cyanidium1](https://github.com/cyanidium1) | Fedir |  |  | Durres, Albania | 782 |
+| 14 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Abissnet Sha |  | Albania | 733 |
+| 15 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Dynamic Ventures |  | Tirana, Albania | 729 |
+| 16 | [virvihuta](https://github.com/virvihuta) | Virvi Huta |  |  | Tirana, Albania | 658 |
 | 17 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha |  |  | Tirane, Albania | 642 |
 | 18 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Solstice Digital Solutions BV | enesbala_ | Tirana, Albania | 636 |
 | 19 | [Damjanose](https://github.com/Damjanose) | Damjano |  |  | Albania, Tirana | 621 |

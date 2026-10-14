@@ -17,21 +17,21 @@ Indexed users: 4,015
 | 3 | [MrGiveItAway-TPK](https://github.com/MrGiveItAway-TPK) | Munes Bani Fawaz | Amman, Jordan | 10,839 |
 | 4 | [samertall](https://github.com/samertall) | Samer Tallauze | Amman, Jordan | 8,574 |
 | 5 | [abuaboud](https://github.com/abuaboud) | Mo AbuAboud | Amman, Jordan | 8,035 |
-| 6 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | Jordan | 6,492 |
-| 7 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 6,128 |
-| 8 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Amman, Jordan | 6,105 |
-| 9 | [htirawi](https://github.com/htirawi) | Hussein Tirawi | Jordan | 5,976 |
-| 10 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,804 |
-| 11 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 5,377 |
-| 12 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh | Jordan, Amman | 5,292 |
-| 13 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 5,271 |
-| 14 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | Amman-Jordan | 5,215 |
-| 15 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,181 |
-| 16 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
-| 17 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
-| 18 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
-| 19 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Amman, Jordan | 4,810 |
-| 20 | [Ti-03](https://github.com/Ti-03) | Qutibah Ananzeh | Amman, Jordan | 4,785 |
+| 6 | [Jaber-Saed](https://github.com/Jaber-Saed) | Jaber-Said | Amman Jordan | 7,128 |
+| 7 | [OsamaAssaf](https://github.com/OsamaAssaf) | Osama Assaf | Jordan | 6,492 |
+| 8 | [K3epEv3rythingYours](https://github.com/K3epEv3rythingYours) | K3YB1T | Jordan | 6,128 |
+| 9 | [MusaMisto](https://github.com/MusaMisto) | Musa Misto | Amman, Jordan | 6,105 |
+| 10 | [htirawi](https://github.com/htirawi) | Hussein Tirawi | Jordan | 5,976 |
+| 11 | [MahmoudEsawi](https://github.com/MahmoudEsawi) | Mahmoud Al-Esawi | Amman\Jordan | 5,804 |
+| 12 | [AliBakerSartawi](https://github.com/AliBakerSartawi) | Ali Baker Sartawi | Amman, Jordan | 5,440 |
+| 13 | [shqear93](https://github.com/shqear93) | Khaled AbuShqear | Amman | 5,377 |
+| 14 | [thisisabukarsh](https://github.com/thisisabukarsh) | AbdulRahman AbuKarsh | Jordan, Amman | 5,292 |
+| 15 | [makkahwi](https://github.com/makkahwi) | Suhaib Ahmad | Amman, Jordan | 5,271 |
+| 16 | [ahmadjubran](https://github.com/ahmadjubran) | Ahmad Jubran | Amman-Jordan | 5,215 |
+| 17 | [waleedyaseen](https://github.com/waleedyaseen) | Waleed Yaseen | Jordan, Amman | 5,150 |
+| 18 | [OsamaShwman](https://github.com/OsamaShwman) | Osama Shoman | Jordan | 5,122 |
+| 19 | [DefinetlyNotAI](https://github.com/DefinetlyNotAI) | Shahm Najeeb | Jordan, Amman | 5,114 |
+| 20 | [Ziadstr](https://github.com/Ziadstr) | Ziad Al Sharif | Amman, Jordan | 4,810 |
 
 ## Public Contributions
 
@@ -65,7 +65,7 @@ Indexed users: 4,015
 | 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Amman , Jordan | 1,148 |
 | 2 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | Amman Jordan / Innopolis Russia  | 924 |
 | 3 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | jordan | 908 |
-| 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | Amman, Amman Governorate, Jordan | 735 |
+| 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | Amman, Amman Governorate, Jordan | 737 |
 | 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman | Amman - Jordan | 712 |
 | 6 | [tjoudeh](https://github.com/tjoudeh) | Taiseer Joudeh | Jordan-Amman | 689 |
 | 7 | [MohammadYounes](https://github.com/MohammadYounes) | Mohammad Younes | Jordan | 629 |
@@ -74,7 +74,7 @@ Indexed users: 4,015
 | 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | Amman, Jordan | 456 |
 | 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | Amman - Jordan | 427 |
 | 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine | Amman, Jordan | 386 |
-| 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf | Jordan | 380 |
+| 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf | Jordan | 372 |
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Jordan | 328 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman | Jordan,Amman | 313 |
 | 16 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | Jordan | 258 |
@@ -83,4 +83,4 @@ Indexed users: 4,015
 | 19 | [Eng-Mohamed-Elsayed](https://github.com/Eng-Mohamed-Elsayed) | Eng-Mohamed Elsayed | Jordan | 195 |
 | 20 | [omar-dulaimi](https://github.com/omar-dulaimi) | Omar Dulaimi | Jordan | 192 |
 
-Generated: 2026-10-14T10:21:17.408Z
+Generated: 2026-10-14T13:59:35.987Z

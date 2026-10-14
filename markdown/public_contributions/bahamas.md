@@ -1,12 +1,12 @@
 # Public Contributions - Bahamas
 
-Generated: 2026-10-14T09:49:44.189Z
+Generated: 2026-10-14T13:27:29.300Z
 
 Users: 236
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 935 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona |  |  | Nassau, Bahamas  | 928 |
 | 2 | [avolel](https://github.com/avolel) | Andre Volel |  |  | Nassau County, NY | 328 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | TCS, GE Aerospace |  | Nassau County, NY | 308 |
 | 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS |  |  | Bahamas | 242 |
@@ -19,10 +19,10 @@ Users: 236
 | 11 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Cay Creative 242 |  | Bahamas  | 92 |
 | 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | Jacon11 co. |  | New Providence, Bahamas | 89 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger |  |  | South Shore of Nassau County, NY | 62 |
-| 14 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 59 |
-| 15 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Unemployed |  | Bahamas | 58 |
-| 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 54 |
-| 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
-| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 47 |
-| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 44 |
+| 14 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Unemployed |  | Bahamas | 60 |
+| 15 | [justnardo](https://github.com/justnardo) | Just_Nardo | First Glance |  | Bahamas | 54 |
+| 16 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | M.I.N.D Bahamas |  | Nassau, The Bahamas | 50 |
+| 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Department of Information Technology |  | Nassau, Bahamas | 47 |
+| 18 | [caynetic](https://github.com/caynetic) | Caynetic | Caynetic Ltd. |  | Nassau, Bahamas | 44 |
+| 19 | [TerryJG](https://github.com/TerryJG) | Terrance |  |  | Nassau, Bahamas | 39 |
 | 20 | [Wraami](https://github.com/Wraami) | Wraami |  |  | Cat Island, Bahamas | 39 |

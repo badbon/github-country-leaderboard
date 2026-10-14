@@ -23,10 +23,10 @@ Indexed users: 236
 | 9 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 1,392 |
 | 10 | [jsphpndr](https://github.com/jsphpndr) | Joseph Pinder | Bahamas | 1,222 |
 | 11 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 1,110 |
-| 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 935 |
+| 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 928 |
 | 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 803 |
-| 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 756 |
-| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 745 |
+| 14 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 745 |
+| 15 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 735 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 572 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 547 |
@@ -37,7 +37,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 935 |
+| 1 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 928 |
 | 2 | [avolel](https://github.com/avolel) | Andre Volel | Nassau County, NY | 328 |
 | 3 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 308 |
 | 4 | [FLIPPING-PROFITS](https://github.com/FLIPPING-PROFITS) | FLIPPING PROFITS | Bahamas | 242 |
@@ -50,12 +50,12 @@ Indexed users: 236
 | 11 | [Ernestforbes12](https://github.com/Ernestforbes12) | Ernest Forbes Jr | Bahamas  | 92 |
 | 12 | [Jace-Mc](https://github.com/Jace-Mc) | Jacon11 | New Providence, Bahamas | 89 |
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 62 |
-| 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 59 |
-| 15 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 58 |
-| 16 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
-| 17 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | Nassau, The Bahamas | 50 |
-| 18 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 47 |
-| 19 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 44 |
+| 14 | [GustavoHRX](https://github.com/GustavoHRX) | Gustavo Rodrigues | Bahamas | 60 |
+| 15 | [justnardo](https://github.com/justnardo) | Just_Nardo | Bahamas | 54 |
+| 16 | [EmmanuelAlcime](https://github.com/EmmanuelAlcime) | Emmanuel Alcime | Nassau, The Bahamas | 50 |
+| 17 | [amcollie](https://github.com/amcollie) | Alexandros Collie | Nassau, Bahamas | 47 |
+| 18 | [caynetic](https://github.com/caynetic) | Caynetic | Nassau, Bahamas | 44 |
+| 19 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 39 |
 | 20 | [Wraami](https://github.com/Wraami) | Wraami | Cat Island, Bahamas | 39 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 236
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-14T09:49:44.189Z
+Generated: 2026-10-14T13:27:29.300Z

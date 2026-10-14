@@ -1,6 +1,6 @@
 # Public Contributions - Chad
 
-Generated: 2026-10-14T09:59:15.706Z
+Generated: 2026-10-14T13:36:34.992Z
 
 Users: 201
 
@@ -9,8 +9,8 @@ Users: 201
 | 1 | [adoumouangnamouemmanuel](https://github.com/adoumouangnamouemmanuel) | Emmanuel Adoum | Ashesi University | emmanueladoum | Chad | 1232 |
 | 2 | [Newton92](https://github.com/Newton92) | PELBA JEREMIE NGOURMISSALA | ACREMAC \| Informastre | baa_pel | TCHAD | 680 |
 | 3 | [Sanusihassan](https://github.com/Sanusihassan) | Sanusi Hassan |  |  | Chad | 451 |
-| 4 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 243 |
-| 5 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 241 |
+| 4 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 249 |
+| 5 | [Helionux](https://github.com/Helionux) | Deoule-Allah Madjitoloum Heliodore |  |  | Tchad | 243 |
 | 6 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 7 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 179 |
 | 8 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 164 |
@@ -25,4 +25,4 @@ Users: 201
 | 17 | [jethro-dev235](https://github.com/jethro-dev235) | BAOLEDJI DINGAM JETHRO |  |  | N'djamena | 57 |
 | 18 | [Yassine235](https://github.com/Yassine235) | Yassine |  |  | Tchad | 55 |
 | 19 | [chupacker](https://github.com/chupacker) | chu pack | google |  | chad | 53 |
-| 20 | [Makoundji](https://github.com/Makoundji) | Makoundji Francis Diakoundila  |  |  | N’DJAMENA,TCHAD | 45 |
+| 20 | [Ahlam-Brahim](https://github.com/Ahlam-Brahim) | Ahlam Brahim |  |  | N'Djaména-Tchad | 46 |

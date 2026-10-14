@@ -1,6 +1,6 @@
 # Cambodia
 
-Indexed users: 2,873
+Indexed users: 2,871
 
 | Leaderboard | Link |
 |---|---|
@@ -62,8 +62,8 @@ Indexed users: 2,873
 
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
-| 1 | [DJ-Raven](https://github.com/DJ-Raven) | Raven Laing | Cambodia | 1,202 |
-| 2 | [Chensokheng](https://github.com/Chensokheng) | Chensokheng | Cambodia | 972 |
+| 1 | [DJ-Raven](https://github.com/DJ-Raven) | Raven Laing | Cambodia | 1,204 |
+| 2 | [Chensokheng](https://github.com/Chensokheng) | Chensokheng | Cambodia | 966 |
 | 3 | [kosalgeek](https://github.com/kosalgeek) | KosalGeek | Phnom Penh, Cambodia | 483 |
 | 4 | [seanghay](https://github.com/seanghay) | Seanghay Yath | Cambodia | 394 |
 | 5 | [Kampotboy](https://github.com/Kampotboy) | Sothach Ly | Kampot, Cambodia | 393 |
@@ -83,4 +83,4 @@ Indexed users: 2,873
 | 19 | [0x1iii1ii](https://github.com/0x1iii1ii) | liiseng | Cambodia | 128 |
 | 20 | [samchanpanha](https://github.com/samchanpanha) | samchanpanha | Phnom Penh | 126 |
 
-Generated: 2026-10-14T09:56:29.919Z
+Generated: 2026-10-14T13:34:17.825Z

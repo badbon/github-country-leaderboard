@@ -1,6 +1,6 @@
 # Total Contributions - Chad
 
-Generated: 2026-10-14T09:59:15.706Z
+Generated: 2026-10-14T13:36:34.992Z
 
 Users: 201
 
@@ -13,7 +13,7 @@ Users: 201
 | 5 | [cherifissa](https://github.com/cherifissa) | Mahamt cherif issa | TchadiCash | MahamatCherifI4 | TCHAD | 540 |
 | 6 | [steveyandev](https://github.com/steveyandev) | Steve Yanyara | Tikego |  | Tchad | 259 |
 | 7 | [mittb1g](https://github.com/mittb1g) |  |  |  | Chad | 251 |
-| 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 241 |
+| 8 | [TomkerDev](https://github.com/TomkerDev) | TOMTE Hassane | DemarcheursIT |  | Ndjamena, Tchad | 249 |
 | 9 | [black-hatn](https://github.com/black-hatn) | Nourr |  |  | Tchad | 189 |
 | 10 | [AliAttyallahAli](https://github.com/AliAttyallahAli) | Ali Attyallah Ali | Djamamariwo |  | Ndjaména/Tchad | 179 |
 | 11 | [Djerade](https://github.com/Djerade) | Djeradé Golbé Parfait |  |  | Chad | 164 |

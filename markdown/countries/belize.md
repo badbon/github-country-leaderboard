@@ -12,7 +12,7 @@ Indexed users: 95
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,743 |
+| 1 | [amodevinc](https://github.com/amodevinc) | Alain Morris | Belize (UTC−6) · Remote | 2,745 |
 | 2 | [AlexDev404](https://github.com/AlexDev404) | Immanuel Daviel A. Garcia | Belmopan, BZ | 2,055 |
 | 3 | [roock3r](https://github.com/roock3r) | Cristian Silva | Belize | 1,892 |
 | 4 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 1,652 |
@@ -70,8 +70,8 @@ Indexed users: 95
 | 6 | [TadeoBennett](https://github.com/TadeoBennett) | TheTechieINTJ | Belize | 21 |
 | 7 | [jimidle](https://github.com/jimidle) | Jim Idle | Hopkins, Belize | 20 |
 | 8 | [andreshungbz](https://github.com/andreshungbz) | Andres Hung | Belmopan, Belize | 17 |
-| 9 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | Belize | 13 |
-| 10 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer | Belize | 12 |
+| 9 | [Deaf-Web-Admin](https://github.com/Deaf-Web-Admin) | Deaf Developer | Belize | 13 |
+| 10 | [urboytgd](https://github.com/urboytgd) | Daniel Hung | Belize | 13 |
 | 11 | [jennxsierra](https://github.com/jennxsierra) | Jennessa Sierra | Belmopan, Belize | 12 |
 | 12 | [PLGuerraDesigns](https://github.com/PLGuerraDesigns) | Pablo L. Guerra | Belize | 12 |
 | 13 | [hubertdomagalaa](https://github.com/hubertdomagalaa) | HD | Belize | 10 |
@@ -83,4 +83,4 @@ Indexed users: 95
 | 19 | [cybcsec](https://github.com/cybcsec) | CybCSec Coin | Belize | 7 |
 | 20 | [mmedinajr](https://github.com/mmedinajr) | Manuel Medina Jr | Belmopan City | 7 |
 
-Generated: 2026-10-14T09:51:16.998Z
+Generated: 2026-10-14T13:30:22.828Z

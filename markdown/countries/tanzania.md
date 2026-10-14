@@ -12,7 +12,7 @@ Indexed users: 2,041
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | Arusha, Tanzania  | 128,021 |
+| 1 | [mpinzile](https://github.com/mpinzile) | David Mpinzile | Arusha, Tanzania  | 178,570 |
 | 2 | [KaReeeeeeeeEM](https://github.com/KaReeeeeeeeEM) | _running_program |  Dar-es-salaam, Tanzania | 123,960 |
 | 3 | [nyandajr](https://github.com/nyandajr) | Nyanda Freddy | Tanzania | 53,229 |
 | 4 | [johnson2006christopher](https://github.com/johnson2006christopher) | Johnson Christopher Hassan | Mbeya,Tanzania | 25,054 |
@@ -83,4 +83,4 @@ Indexed users: 2,041
 | 19 | [3nock](https://github.com/3nock) | Enock | Dar es Salaam, Tanzania | 188 |
 | 20 | [Mrhanstz](https://github.com/Mrhanstz) | HANSTZ | Africa Dodoma | 179 |
 
-Generated: 2026-10-14T09:35:56.591Z
+Generated: 2026-10-14T13:16:09.481Z

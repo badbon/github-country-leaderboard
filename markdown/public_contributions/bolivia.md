@@ -1,12 +1,12 @@
 # Public Contributions - Bolivia
 
-Generated: 2026-10-14T09:53:10.036Z
+Generated: 2026-10-14T13:32:31.621Z
 
 Users: 1784
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 25275 |
+| 1 | [AndyIbanez](https://github.com/AndyIbanez) | Andy Ibanez | Fairese | AndyIbanezK | Bolivia | 25237 |
 | 2 | [DanielTorres1](https://github.com/DanielTorres1) | Daniel Torres Sandi |  |  | Bolivia | 3024 |
 | 3 | [OscarGauss](https://github.com/OscarGauss) | Oscar Gauss Carvajal Yucra |  | oscar_gauss | La Paz, Bolivia | 2907 |
 | 4 | [LudCano](https://github.com/LudCano) | Ludving Cano Fernandez |  |  | La Paz, Bolivia | 2567 |
@@ -21,7 +21,7 @@ Users: 1784
 | 13 | [jhersON1](https://github.com/jhersON1) | Jherson Rodriguez |  |  | Bolivia | 1225 |
 | 14 | [igidio](https://github.com/igidio) | Salvador Cáceres C. |  |  | Bolivia | 1224 |
 | 15 | [Lotiel-Dev](https://github.com/Lotiel-Dev) | Carlos Antonio Gutierrez Copara | Higher University of San Simón | Gerceis81 | Bolivia | 1219 |
-| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared SRL |  | Santa cruz de la sierra, Bolivia | 1106 |
+| 16 | [alphaonex86](https://github.com/alphaonex86) | BRULE Herman Jacques Roger | Confiared S.R.L. |  | Santa cruz de la sierra, Bolivia | 1199 |
 | 17 | [samuelloza](https://github.com/samuelloza) | Samuel Loza Ramirez |  |  | Bolivia | 1097 |
 | 18 | [nicobytes](https://github.com/nicobytes) | Nicolas Molina Monroy |  | nicobytes | Cochabamba, Bolivia | 1085 |
 | 19 | [Johan-py](https://github.com/Johan-py) | Johan Marcelo Beltrán Montaño |  |  | Cochabamba, Bolivia | 1042 |

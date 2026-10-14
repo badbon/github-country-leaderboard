@@ -1,14 +1,14 @@
 # Followers - Cyprus
 
-Generated: 2026-10-14T10:02:24.323Z
+Generated: 2026-10-14T13:39:28.525Z
 
-Users: 2732
+Users: 2731
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
 | 1 | [zloirock](https://github.com/zloirock) | Denis Pushkarev |  | zloirock | Cyprus, Larnaca | 7491 |
-| 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | @blackhatethicalhacking | secur1ty1samyth | Cyprus | 2135 |
-| 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 1319 |
+| 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | @blackhatethicalhacking | secur1ty1samyth | Cyprus | 2155 |
+| 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos |  |  | Cyprus | 1355 |
 | 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh |  | MozafariManesh | Republic Of Cyprus | 697 |
 | 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin |  | zakirullin | Limassol, Cyprus | 556 |
 | 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | JetBrains | VBragilevsky | Larnaca, Cyprus | 539 |
@@ -23,6 +23,6 @@ Users: 2732
 | 15 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu |  |  | Cyprus | 332 |
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy |  |  | Cyprus | 302 |
 | 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | @Shopify | paracycle | Nicosia, Cyprus | 294 |
-| 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | @semrush |  | Limassol, Cyprus | 250 |
+| 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | @semrush |  | Limassol, Cyprus | 251 |
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | AINIRO.IO | AIniroTeam | Cyprus | 243 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Finance |  | Cyprus | 241 |

@@ -1,6 +1,6 @@
 # Public Contributions - Argentina
 
-Generated: 2026-10-14T09:48:30.854Z
+Generated: 2026-10-14T13:26:07.301Z
 
 Users: 50738
 
@@ -20,8 +20,8 @@ Users: 50738
 | 12 | [joacominatel](https://github.com/joacominatel) | Joaquin minatel |  |  | Argentina | 7744 |
 | 13 | [rolivencia](https://github.com/rolivencia) | Ramiro Olivencia | Taller Technologies | rolivencia | Santa Fe de la Vera Cruz, Argentina | 7579 |
 | 14 | [lobinuxsoft](https://github.com/lobinuxsoft) | Matias Galarza | Crying Onion |  | argentina | 7236 |
-| 15 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias |  | matuteiglesias | Buenos Aires | 7020 |
-| 16 | [Juan-457](https://github.com/Juan-457) | Umanoai |  |  | Buenos Aires | 7012 |
+| 15 | [Juan-457](https://github.com/Juan-457) | Umanoai |  |  | Buenos Aires | 7029 |
+| 16 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias |  | matuteiglesias | Buenos Aires | 7020 |
 | 17 | [Railly](https://github.com/Railly) | Railly Hugo | Vercel | raillyhugo | Peru, Argentina | 6610 |
 | 18 | [gvastethecreator](https://github.com/gvastethecreator) | GVASTE |  |  | Argentina | 6588 |
 | 19 | [unbalancedparentheses](https://github.com/unbalancedparentheses) | Federico Carrone | LambdaClass | federicocarrone | Buenos Aires, Argentina | 6537 |

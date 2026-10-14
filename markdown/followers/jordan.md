@@ -1,6 +1,6 @@
 # Followers - Jordan
 
-Generated: 2026-10-14T10:21:17.408Z
+Generated: 2026-10-14T13:59:35.987Z
 
 Users: 4015
 
@@ -9,7 +9,7 @@ Users: 4015
 | 1 | [waelodeh98](https://github.com/waelodeh98) | Wael Samer \| Software Engineer | Jordan |  | Amman , Jordan | 1148 |
 | 2 | [enghamzasalem](https://github.com/enghamzasalem) | Hamza Salem | I can do push-up on One Arm 3 fingers | enghamzasalem | Amman Jordan / Innopolis Russia  | 924 |
 | 3 | [ShadowHackrs](https://github.com/ShadowHackrs) | Shadow Hacker | Shadow Hacker | ShadowHackrs | jordan | 908 |
-| 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | international arab islamic bank |  | Amman, Amman Governorate, Jordan | 735 |
+| 4 | [Asaqa988](https://github.com/Asaqa988) | Abedalraheem | international arab islamic bank |  | Amman, Amman Governorate, Jordan | 737 |
 | 5 | [Adel-Nasim](https://github.com/Adel-Nasim) | Adel Nasim Adel Suleiman |  |  | Amman - Jordan | 712 |
 | 6 | [tjoudeh](https://github.com/tjoudeh) | Taiseer Joudeh | Microsoft | tjoudeh | Jordan-Amman | 689 |
 | 7 | [MohammadYounes](https://github.com/MohammadYounes) | Mohammad Younes |  |  | Jordan | 629 |
@@ -18,7 +18,7 @@ Users: 4015
 | 10 | [jaberjaber23](https://github.com/jaberjaber23) | Jaber Jaber | RightNow AI | Akashi203 | Amman, Jordan | 456 |
 | 11 | [AliOsm](https://github.com/AliOsm) | Ali Hamdi Ali Fadel | MilkStraw AI | alihfadel | Amman - Jordan | 427 |
 | 12 | [NSAntoine](https://github.com/NSAntoine) | NSAntoine |  |  | Amman, Jordan | 386 |
-| 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf |  | MoonWebsDev | Jordan | 380 |
+| 13 | [OmarSalhab](https://github.com/OmarSalhab) | Omar Marouf |  | MoonWebsDev | Jordan | 372 |
 | 14 | [nancyalaswad90](https://github.com/nancyalaswad90) | Ms. Nancy Al Aswad  | Independent Contractor  | AswadNancy | Jordan | 328 |
 | 15 | [Hamza-Abdulrahman](https://github.com/Hamza-Abdulrahman) | Hamza Abdulrahman |  | R1DDIF | Jordan,Amman | 313 |
 | 16 | [muayyad-alsadi](https://github.com/muayyad-alsadi) | Muayyad Alsadi | @OpenSooq  |  | Jordan | 258 |

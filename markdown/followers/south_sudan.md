@@ -1,6 +1,6 @@
 # Followers - South Sudan
 
-Generated: 2026-10-14T09:33:13.815Z
+Generated: 2026-10-14T13:12:13.396Z
 
 Users: 132
 
@@ -25,4 +25,4 @@ Users: 132
 | 17 | [Ariik20](https://github.com/Ariik20) | Reegan Arick |  |  | Juba | 17 |
 | 18 | [bearded7](https://github.com/bearded7) | XaLabs03 | Xalabs03  | _oriba | Juba, South Sudan | 16 |
 | 19 | [Amalsouthsudan23](https://github.com/Amalsouthsudan23) | AMAL South Sudan | AMAL |  | South Sudan | 15 |
-| 20 | [Codetym](https://github.com/Codetym) | Nelson Mandela D.M.J | CodeTym LTD | NelsonDmj | Juba, South Sudan  | 14 |
+| 20 | [Drago-cod](https://github.com/Drago-cod) | Drago Samuel Jared |  | DragoSamuel2 | Juba, South Sudan | 15 |

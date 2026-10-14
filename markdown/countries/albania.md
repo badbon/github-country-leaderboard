@@ -48,11 +48,11 @@ Indexed users: 1,184
 | 9 | [ezekaj](https://github.com/ezekaj) | Elvi Zekaj | Tirana, Albania | 980 |
 | 10 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 914 |
 | 11 | [bredliplaku](https://github.com/bredliplaku) | Bredli | Albania | 883 |
-| 12 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 782 |
-| 13 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
-| 14 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
-| 15 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 658 |
-| 16 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 648 |
+| 12 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 784 |
+| 13 | [cyanidium1](https://github.com/cyanidium1) | Fedir | Durres, Albania | 782 |
+| 14 | [alban-hh](https://github.com/alban-hh) | Alban Shermadhi | Albania | 733 |
+| 15 | [edythebolman](https://github.com/edythebolman) | Sri Handayani | Tirana, Albania | 729 |
+| 16 | [virvihuta](https://github.com/virvihuta) | Virvi Huta | Tirana, Albania | 658 |
 | 17 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
 | 18 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 636 |
 | 19 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 621 |
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 75 |
 
-Generated: 2026-10-14T09:45:35.922Z
+Generated: 2026-10-14T13:24:15.028Z

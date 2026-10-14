@@ -1,6 +1,6 @@
 # Cyprus
 
-Indexed users: 2,732
+Indexed users: 2,731
 
 | Leaderboard | Link |
 |---|---|
@@ -41,7 +41,7 @@ Indexed users: 2,732
 | 2 | [AlisherAmonulloev](https://github.com/AlisherAmonulloev) | Alisher Amonulloev | Cyprus | 5,626 |
 | 3 | [IMKolganov](https://github.com/IMKolganov) | Ivan | Cyprus | 4,627 |
 | 4 | [GeorgeWebDevCy](https://github.com/GeorgeWebDevCy) | George Nicolaou | Cyprus | 4,307 |
-| 5 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,279 |
+| 5 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 4,292 |
 | 6 | [NicosNicolaou16](https://github.com/NicosNicolaou16) | Nicos Nicolaou | Nicosia, Cyprus | 3,881 |
 | 7 | [servitola](https://github.com/servitola) | Adik Servitola | Cyprus | 3,829 |
 | 8 | [richardsolomou](https://github.com/richardsolomou) | Richard Solomou | Cyprus | 3,635 |
@@ -63,8 +63,8 @@ Indexed users: 2,732
 | # | User | Name | Location | Followers |
 |---:|---|---|---|---:|
 | 1 | [zloirock](https://github.com/zloirock) | Denis Pushkarev | Cyprus, Larnaca | 7,491 |
-| 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | Cyprus | 2,135 |
-| 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 1,319 |
+| 2 | [blackhatethicalhacking](https://github.com/blackhatethicalhacking) | Black Hat Ethical Hacking | Cyprus | 2,155 |
+| 3 | [protesilaos](https://github.com/protesilaos) | Protesilaos | Cyprus | 1,355 |
 | 4 | [mozafarimanesh](https://github.com/mozafarimanesh) | Reza  Mozafari Manesh | Republic Of Cyprus | 697 |
 | 5 | [zakirullin](https://github.com/zakirullin) | Artem Zakirullin | Limassol, Cyprus | 556 |
 | 6 | [bravit](https://github.com/bravit) | Vitaly Bragilevsky | Larnaca, Cyprus | 539 |
@@ -79,8 +79,8 @@ Indexed users: 2,732
 | 15 | [unsaldemircioglu](https://github.com/unsaldemircioglu) | Ünsal Demircioğlu | Cyprus | 332 |
 | 16 | [merikbest](https://github.com/merikbest) | Miroslav  Khotinskiy | Cyprus | 302 |
 | 17 | [paracycle](https://github.com/paracycle) | Ufuk Kayserilioglu | Nicosia, Cyprus | 294 |
-| 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 250 |
+| 18 | [sudoguy](https://github.com/sudoguy) | Evgeny Kemerov | Limassol, Cyprus | 251 |
 | 19 | [polterguy](https://github.com/polterguy) | Thomas Hansen | Cyprus | 243 |
 | 20 | [kstep](https://github.com/kstep) | Konstantin Stepanov | Cyprus | 241 |
 
-Generated: 2026-10-14T10:02:24.323Z
+Generated: 2026-10-14T13:39:28.525Z

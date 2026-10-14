@@ -1,8 +1,8 @@
 # Total Contributions - Taiwan
 
-Generated: 2026-10-14T09:35:49.214Z
+Generated: 2026-10-14T13:15:36.528Z
 
-Users: 22014
+Users: 22013
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
@@ -20,9 +20,9 @@ Users: 22014
 | 12 | [frankekn](https://github.com/frankekn) | Frank Yang | Omnidrome | frankekn | Taipei, Taiwan | 21693 |
 | 13 | [Sevenflanks](https://github.com/Sevenflanks) | Rhys Chang | @softleader  |  | Taiwan | 21166 |
 | 14 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu |  |  | Taipei, Taiwan | 19537 |
-| 15 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 |  |  | Taiwan | 19369 |
-| 16 | [jhwang09](https://github.com/jhwang09) | Jerome | @aifian-dev   |  | Taipei | 18867 |
-| 17 | [Charles5277](https://github.com/Charles5277) | Charles5277 |  |  | Taiwan | 18638 |
-| 18 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang |  |  | Taiwan | 17526 |
-| 19 | [exeex](https://github.com/exeex) | Tim Wu | AMD |  | Hsichu, Taiwan, Asia | 16546 |
-| 20 | [chimerakang](https://github.com/chimerakang) | chimera kang |  |  | taiwan | 16427 |
+| 15 | [chxmeleon](https://github.com/chxmeleon) | Kayrin Weng |  |  | Taiwan , Taipei | 19376 |
+| 16 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 |  |  | Taiwan | 19369 |
+| 17 | [jhwang09](https://github.com/jhwang09) | Jerome | @aifian-dev   |  | Taipei | 18867 |
+| 18 | [Charles5277](https://github.com/Charles5277) | Charles5277 |  |  | Taiwan | 18638 |
+| 19 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang |  |  | Taiwan | 17526 |
+| 20 | [exeex](https://github.com/exeex) | Tim Wu | AMD |  | Hsichu, Taiwan, Asia | 16546 |

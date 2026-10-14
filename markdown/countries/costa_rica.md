@@ -1,6 +1,6 @@
 # Costa Rica
 
-Indexed users: 5,635
+Indexed users: 5,634
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 5,635
 | 19 | [stvansolano](https://github.com/stvansolano) | Esteban Solano Granados | Costa Rica | 189 |
 | 20 | [Jeffser](https://github.com/Jeffser) | Jeffry Samuel | Costa Rica | 165 |
 
-Generated: 2026-10-14T10:01:26.748Z
+Generated: 2026-10-14T13:37:44.779Z

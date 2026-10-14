@@ -47,8 +47,8 @@ Indexed users: 1,261
 | 8 | [salp2403](https://github.com/salp2403) | Said Arturo Lopez | Honduras | 1,473 |
 | 9 | [desivar](https://github.com/desivar) | Desire Delmy Vargas Tinoco | La Paz, La Paz, Honduras | 1,195 |
 | 10 | [kevinhndz](https://github.com/kevinhndz) | Kevin Hernandez | Comayagua, Honduras | 1,106 |
-| 11 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,085 |
-| 12 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 975 |
+| 11 | [danielbanariba](https://github.com/danielbanariba) | Daniel Banariba | Honduras | 1,089 |
+| 12 | [hnkatze](https://github.com/hnkatze) | Camilo Henriquez | Honduras | 1,085 |
 | 13 | [antoniolocandro](https://github.com/antoniolocandro) | Antonio Locandro | Honduras | 919 |
 | 14 | [ingricardotoro](https://github.com/ingricardotoro) | MARVIN RICARDO TORO CRUZ | Tegucigalpa | 886 |
 | 15 | [williamstevencole](https://github.com/williamstevencole) | William Steven Cole Paz | San Pedro Sula, Cortes, Honduras | 874 |
@@ -83,4 +83,4 @@ Indexed users: 1,261
 | 19 | [christiansc96](https://github.com/christiansc96) | Christian Sánchez | San Pedro Sula, Honduras | 56 |
 | 20 | [Asterki](https://github.com/Asterki) | Fernando Rivera | Honduras | 55 |
 
-Generated: 2026-10-14T10:16:55.967Z
+Generated: 2026-10-14T13:53:25.978Z

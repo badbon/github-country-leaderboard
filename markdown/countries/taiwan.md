@@ -1,6 +1,6 @@
 # Taiwan
 
-Indexed users: 22,014
+Indexed users: 22,013
 
 | Leaderboard | Link |
 |---|---|
@@ -26,12 +26,12 @@ Indexed users: 22,014
 | 12 | [frankekn](https://github.com/frankekn) | Frank Yang | Taipei, Taiwan | 21,693 |
 | 13 | [Sevenflanks](https://github.com/Sevenflanks) | Rhys Chang | Taiwan | 21,166 |
 | 14 | [ChiaYuSu](https://github.com/ChiaYuSu) | Su Chia-Yu | Taipei, Taiwan | 19,537 |
-| 15 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 | Taiwan | 19,369 |
-| 16 | [jhwang09](https://github.com/jhwang09) | Jerome | Taipei | 18,867 |
-| 17 | [Charles5277](https://github.com/Charles5277) | Charles5277 | Taiwan | 18,638 |
-| 18 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang | Taiwan | 17,526 |
-| 19 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 16,546 |
-| 20 | [chimerakang](https://github.com/chimerakang) | chimera kang | taiwan | 16,427 |
+| 15 | [chxmeleon](https://github.com/chxmeleon) | Kayrin Weng | Taiwan , Taipei | 19,376 |
+| 16 | [godknowspe](https://github.com/godknowspe) | Sabrina0227 | Taiwan | 19,369 |
+| 17 | [jhwang09](https://github.com/jhwang09) | Jerome | Taipei | 18,867 |
+| 18 | [Charles5277](https://github.com/Charles5277) | Charles5277 | Taiwan | 18,638 |
+| 19 | [Kuan-Lun](https://github.com/Kuan-Lun) | Kuan-Lun Wang | Taiwan | 17,526 |
+| 20 | [exeex](https://github.com/exeex) | Tim Wu | Hsichu, Taiwan, Asia | 16,546 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 22,014
 | 19 | [kaochenlong](https://github.com/kaochenlong) | Eddie Kao 高見龍 | Taiwan, Taipei | 1,655 |
 | 20 | [aaaddress1](https://github.com/aaaddress1) | Sheng-Hao Ma | Taiwan | 1,518 |
 
-Generated: 2026-10-14T09:35:49.214Z
+Generated: 2026-10-14T13:15:36.528Z

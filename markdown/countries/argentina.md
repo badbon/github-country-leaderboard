@@ -51,8 +51,8 @@ Indexed users: 50,738
 | 12 | [joacominatel](https://github.com/joacominatel) | Joaquin minatel | Argentina | 7,744 |
 | 13 | [rolivencia](https://github.com/rolivencia) | Ramiro Olivencia | Santa Fe de la Vera Cruz, Argentina | 7,579 |
 | 14 | [lobinuxsoft](https://github.com/lobinuxsoft) | Matias Galarza | argentina | 7,236 |
-| 15 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias | Buenos Aires | 7,020 |
-| 16 | [Juan-457](https://github.com/Juan-457) | Umanoai | Buenos Aires | 7,012 |
+| 15 | [Juan-457](https://github.com/Juan-457) | Umanoai | Buenos Aires | 7,029 |
+| 16 | [matuteiglesias](https://github.com/matuteiglesias) | Matias Iglesias | Buenos Aires | 7,020 |
 | 17 | [Railly](https://github.com/Railly) | Railly Hugo | Peru, Argentina | 6,610 |
 | 18 | [gvastethecreator](https://github.com/gvastethecreator) | GVASTE | Argentina | 6,588 |
 | 19 | [unbalancedparentheses](https://github.com/unbalancedparentheses) | Federico Carrone | Buenos Aires, Argentina | 6,537 |
@@ -83,4 +83,4 @@ Indexed users: 50,738
 | 19 | [dacap](https://github.com/dacap) | David Capello | Argentina | 1,004 |
 | 20 | [andresriancho](https://github.com/andresriancho) | Andres Riancho | Buenos Aires, Argentina | 1,001 |
 
-Generated: 2026-10-14T09:48:30.854Z
+Generated: 2026-10-14T13:26:07.301Z

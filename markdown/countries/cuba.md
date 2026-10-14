@@ -80,7 +80,7 @@ Indexed users: 1,276
 | 16 | [dnielpy](https://github.com/dnielpy) | Daniel Quesada | Cuba | 75 |
 | 17 | [stdevPavelmc](https://github.com/stdevPavelmc) | Pavel Milanes (CO7WT) | Camagüey, Cuba | 74 |
 | 18 | [markospy](https://github.com/markospy) | Marcos Avila | Cuba | 72 |
-| 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 71 |
+| 19 | [leoGlez01](https://github.com/leoGlez01) | Leandro González  | La Habana, Cuba | 70 |
 | 20 | [EduardoProfe666](https://github.com/EduardoProfe666) | Eduardo Alejandro González Martell | La Habana, Cuba | 69 |
 
-Generated: 2026-10-14T10:01:33.691Z
+Generated: 2026-10-14T13:38:46.620Z

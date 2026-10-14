@@ -22,7 +22,7 @@ Indexed users: 315
 | 8 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 930 |
 | 9 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 856 |
 | 10 | [NathanLeFuturMillionaire](https://github.com/NathanLeFuturMillionaire) | Nathan Le Fütür Milliønãîre | Libreville | 728 |
-| 11 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 678 |
+| 11 | [nguie2](https://github.com/nguie2) | jean roch | Libreville, Gabon | 677 |
 | 12 | [dynamo63](https://github.com/dynamo63) | Mouckeytou Moulongui | Gabon | 618 |
 | 13 | [MeylandMan](https://github.com/MeylandMan) | M.Meyland | Gabon | 560 |
 | 14 | [DodgeElfry](https://github.com/DodgeElfry) | Dox | Gabon | 554 |
@@ -83,4 +83,4 @@ Indexed users: 315
 | 19 | [Dylan245-droid](https://github.com/Dylan245-droid) | Dylan ONDO | Libreville, Gabon | 22 |
 | 20 | [Marseven](https://github.com/Marseven) | Aristide Mebodo | Libreville | 20 |
 
-Generated: 2026-10-14T10:10:21.795Z
+Generated: 2026-10-14T13:47:01.014Z

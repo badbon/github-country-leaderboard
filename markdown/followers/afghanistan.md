@@ -1,6 +1,6 @@
 # Followers - Afghanistan
 
-Generated: 2026-10-14T09:45:28.983Z
+Generated: 2026-10-14T13:23:30.425Z
 
 Users: 1488
 

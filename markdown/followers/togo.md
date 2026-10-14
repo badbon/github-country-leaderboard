@@ -1,12 +1,12 @@
 # Followers - Togo
 
-Generated: 2026-10-14T09:37:15.144Z
+Generated: 2026-10-14T13:16:22.264Z
 
 Users: 680
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
-| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | LGG | leMpoussin | Togo | 386 |
+| 1 | [bekmarc](https://github.com/bekmarc) | K. Marco BEKOUTARE | LGG | leMpoussin | Togo | 384 |
 | 2 | [mayonorris](https://github.com/mayonorris) | Mayo Takémsi Norris KADANGA | CaSEG |  | Lomé, Togo | 211 |
 | 3 | [IrouKaizen](https://github.com/IrouKaizen) | irouKaizen |  | iroukaizen | Lomé | 197 |
 | 4 | [kpidiba](https://github.com/kpidiba) | KaizenCoder |  |  | Lomé-Togo | 149 |
@@ -22,7 +22,7 @@ Users: 680
 | 14 | [gausoft](https://github.com/gausoft) | Gauthier Eholoum | Remote | gausoft_ | Lomé, Togo | 75 |
 | 15 | [HordRic](https://github.com/HordRic) | ASSOUN Akomagni Kodjovi Rodrigue | Ecole Polytechnique de Lomé |  | Lomé-Togo | 75 |
 | 16 | [lecodeur228](https://github.com/lecodeur228) | irin |  |  | TOGO | 70 |
-| 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Full-Stack Developer | MatthieuSenou | Togo, Lome | 70 |
+| 17 | [Matthieu96Code](https://github.com/Matthieu96Code) | Kodjo Matthieu SENOU | Full-Stack Developer | MatthieuSenou | Togo, Lome | 69 |
 | 18 | [Koj-Kyo](https://github.com/Koj-Kyo) |  |  |  | Lomé , Togo | 68 |
-| 19 | [ica1010](https://github.com/ica1010) | Ghislin |  |  | Lomé , Togo | 66 |
+| 19 | [ica1010](https://github.com/ica1010) | Ghislin |  |  | Lomé , Togo | 65 |
 | 20 | [Maximekgn](https://github.com/Maximekgn) | KOGON Mawunygan Maxime |  |  | Togo | 64 |

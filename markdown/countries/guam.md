@@ -67,7 +67,7 @@ Indexed users: 48
 | 3 | [Duplexx52](https://github.com/Duplexx52) | Notfooledbyallyou | Guam | 51 |
 | 4 | [jasonsalas](https://github.com/jasonsalas) | Jason Salas | Guam | 24 |
 | 5 | [Chovin](https://github.com/Chovin) |  | Guam | 23 |
-| 6 | [jctiru](https://github.com/jctiru) | Jonathan Christian S. Tiru | Harmon, Guam, USA | 16 |
+| 6 | [jctiru](https://github.com/jctiru) | Jonathan Christian S. Tiru | Harmon, Guam, USA | 17 |
 | 7 | [mandoiwanaga](https://github.com/mandoiwanaga) | Mando Iwanaga | Guam | 15 |
 | 8 | [Disav0wed](https://github.com/Disav0wed) | Ibrahim R Serpici | Guam | 12 |
 | 9 | [KelliBre](https://github.com/KelliBre) | Kelli Brecunier | Yo' ña, Guam | 11 |
@@ -83,4 +83,4 @@ Indexed users: 48
 | 19 | [guamencja](https://github.com/guamencja) | guam | Guam | 4 |
 | 20 | [Rcarganilla](https://github.com/Rcarganilla) | Rizalyn T. Carganilla | Guam | 4 |
 
-Generated: 2026-10-14T10:13:02.715Z
+Generated: 2026-10-14T13:49:32.021Z
