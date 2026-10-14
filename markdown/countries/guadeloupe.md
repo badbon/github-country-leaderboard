@@ -13,7 +13,7 @@ Indexed users: 86
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [sype](https://github.com/sype) | Sebastien Pincemail | Paris / Guadeloupe | 6,346 |
-| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,208 |
+| 2 | [JoDrm](https://github.com/JoDrm) | Jodrm | Guadeloupe | 3,210 |
 | 3 | [macojaune](https://github.com/macojaune) | macojaune | Guadeloupe | 2,223 |
 | 4 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 1,767 |
 | 5 | [gbaccetta](https://github.com/gbaccetta) | Giovanni Accetta | Guadeloupe | 1,649 |
@@ -29,7 +29,7 @@ Indexed users: 86
 | 15 | [khalil-tabbal](https://github.com/khalil-tabbal) | Khalil TABBAL | Guadeloupe | 202 |
 | 16 | [Virguiles](https://github.com/Virguiles) | Virgile | Guadeloupe | 144 |
 | 17 | [Tomc1x](https://github.com/Tomc1x) | Tomy DACALOR | Basse-Terre, Guadeloupe | 136 |
-| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 101 |
+| 18 | [rgdgs](https://github.com/rgdgs) | Ruben G | Guadeloupe | 98 |
 | 19 | [mperouma](https://github.com/mperouma) | Mathias P. | Guadeloupe | 80 |
 | 20 | [ELITEindev](https://github.com/ELITEindev) | Ethan Lacoste | Guadeloupe | 76 |
 
@@ -83,4 +83,4 @@ Indexed users: 86
 | 19 | [fg8oj](https://github.com/fg8oj) | Bertrand Demarcq FG8OJ/AG8OJ | Guadeloupe | 6 |
 | 20 | [kvaillant](https://github.com/kvaillant) | Karl Vaillant | Guadeloupe, West-Indies | 6 |
 
-Generated: 2026-10-14T02:56:24.164Z
+Generated: 2026-10-14T06:03:01.261Z

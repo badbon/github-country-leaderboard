@@ -13,8 +13,8 @@ Indexed users: 3,871
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
 | 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan | Kampala, Uganda | 13,712 |
-| 2 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 11,691 |
-| 3 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,033 |
+| 2 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 11,947 |
+| 3 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | Gulu, Uganda | 11,691 |
 | 4 | [kallyas](https://github.com/kallyas) | Iden | Uganda | 11,006 |
 | 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Kampala, Uganda | 10,913 |
 | 6 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | Kampala, Uganda | 9,986 |
@@ -41,7 +41,7 @@ Indexed users: 3,871
 | 2 | [pius22](https://github.com/pius22) | TECH-WORLDINFO | uganda | 5,725 |
 | 3 | [Baalmart](https://github.com/Baalmart) | Martin Bbaale | Kampala | 5,695 |
 | 4 | [matovu-farid](https://github.com/matovu-farid) | Farid Matovu | Uganda | 5,312 |
-| 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,382 |
+| 5 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | KAMPALA, UGANDA | 4,890 |
 | 6 | [agabaandre](https://github.com/agabaandre) | Agaba Andre | Kampala | 3,882 |
 | 7 | [Mucunguzi256](https://github.com/Mucunguzi256) | Mucunguzi Moses | UGANDA | 3,545 |
 | 8 | [judeotine](https://github.com/judeotine) | Judeotine | Uganda | 2,995 |
@@ -83,4 +83,4 @@ Indexed users: 3,871
 | 19 | [Kitemaggwa-Shafic](https://github.com/Kitemaggwa-Shafic) | Bin Profic | Kampala mengo, Najjanankumbi Ebb rd | 198 |
 | 20 | [FahimWeblogicAndCyberTechnologies](https://github.com/FahimWeblogicAndCyberTechnologies) | FRANKLIN | Uganda | 186 |
 
-Generated: 2026-10-14T02:20:40.343Z
+Generated: 2026-10-14T05:28:29.302Z

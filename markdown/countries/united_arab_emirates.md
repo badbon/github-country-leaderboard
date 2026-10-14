@@ -1,6 +1,6 @@
 # United Arab Emirates
 
-Indexed users: 4,233
+Indexed users: 4,232
 
 | Leaderboard | Link |
 |---|---|
@@ -83,4 +83,4 @@ Indexed users: 4,233
 | 19 | [garylab](https://github.com/garylab) | Gary Meng | Abu Dhabi, UAE | 360 |
 | 20 | [Ahmed-Ali](https://github.com/Ahmed-Ali) | Ahmed Ali | Abu Dhabi | 359 |
 
-Generated: 2026-10-14T02:21:52.693Z
+Generated: 2026-10-14T05:28:56.056Z

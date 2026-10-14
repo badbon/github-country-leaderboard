@@ -1,6 +1,6 @@
 # Public Contributions - Guernsey
 
-Generated: 2026-10-14T02:58:54.838Z
+Generated: 2026-10-14T06:04:23.764Z
 
 Users: 45
 
@@ -8,7 +8,7 @@ Users: 45
 |---:|---|---|---|---|---|---:|
 | 1 | [mh0lt](https://github.com/mh0lt) | Mark Holt |  |  | Guernsey | 678 |
 | 2 | [tris203](https://github.com/tris203) | Tristan Knight |  |  | Guernsey | 503 |
-| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 71 |
+| 3 | [RicLeP](https://github.com/RicLeP) | Ric Le Poidevin | U&US | riclep | Guernsey | 70 |
 | 4 | [YuriGuernsey](https://github.com/YuriGuernsey) | Yuri Alves | BugBird Co. | YuriGuernsey | Guernsey | 52 |
 | 5 | [adrianritchie](https://github.com/adrianritchie) |  |  |  | Guernsey | 41 |
 | 6 | [nick-vermeulen](https://github.com/nick-vermeulen) | Nick |  |  | Guernsey | 21 |

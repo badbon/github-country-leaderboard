@@ -1,8 +1,8 @@
 # Followers - Armenia
 
-Generated: 2026-10-14T02:30:24.496Z
+Generated: 2026-10-14T05:36:38.997Z
 
-Users: 4046
+Users: 4047
 
 | # | User | Name | Company | Twitter | Location | Followers |
 |---:|---|---|---|---|---|---:|
@@ -15,8 +15,8 @@ Users: 4046
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | meanmail.dev | meanmaildev | Armenia, Yerevan | 586 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has |  |  | Yerevan, Armenia | 578 |
 | 9 | [noptrix](https://github.com/noptrix) | noptrix | nullsecurity, nullsecurity labs, blackarch linux | noptrix | Armenia, Cyprus, Stack, Heap | 546 |
-| 10 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Optimum Partners | _vahan_sahakyan | Yerevan, Armenia | 480 |
-| 11 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | nopCommerce team |  | Armenia | 477 |
+| 10 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | nopCommerce team |  | Armenia | 477 |
+| 11 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Optimum Partners | _vahan_sahakyan | Yerevan, Armenia | 475 |
 | 12 | [Aramayis331](https://github.com/Aramayis331) | Aramayis Araqelyan |  |  | Armenia | 455 |
 | 13 | [armcha](https://github.com/armcha) | Arman |  |  | Armenia | 426 |
 | 14 | [gildor2](https://github.com/gildor2) | Konstantin Nosov |  | UGildor | Armenia | 414 |

@@ -1,14 +1,14 @@
 # Total Contributions - Uganda
 
-Generated: 2026-10-14T02:20:40.343Z
+Generated: 2026-10-14T05:28:29.302Z
 
 Users: 3871
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [alsong](https://github.com/alsong) | Oburusule Dunstan |  |  | Kampala, Uganda | 13712 |
-| 2 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | @codprez | obalaJivan | Gulu, Uganda | 11691 |
-| 3 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 11033 |
+| 2 | [BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV) | BAGOMBEKA JOB | @SMSONE  |  | KAMPALA, UGANDA | 11947 |
+| 3 | [obalaweb](https://github.com/obalaweb) | Obala Joseph Ivan | @codprez | obalaJivan | Gulu, Uganda | 11691 |
 | 4 | [kallyas](https://github.com/kallyas) | Iden | @SolitonTelmecUganda  | kallyasl | Uganda | 11006 |
 | 5 | [peterbamuhigire](https://github.com/peterbamuhigire) | Peter Bamuhigire | Peter Bamuhigire | peterbamu | Kampala, Uganda | 10913 |
 | 6 | [kashua14](https://github.com/kashua14) | Kasasira Joshua | @chartrflex @Uganda-Christian-University  | joshkasasira | Kampala, Uganda | 9986 |

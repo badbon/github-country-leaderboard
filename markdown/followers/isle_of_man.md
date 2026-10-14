@@ -1,6 +1,6 @@
 # Followers - Isle of Man
 
-Generated: 2026-10-14T03:04:31.116Z
+Generated: 2026-10-14T06:07:15.773Z
 
 Users: 155
 
@@ -12,7 +12,7 @@ Users: 155
 | 4 | [cydolo](https://github.com/cydolo) | Dolo |  |  | Isle of Man | 147 |
 | 5 | [CubLinux](https://github.com/CubLinux) | Cub Linux | Cub Linux |  | Isle of Man | 86 |
 | 6 | [dive](https://github.com/dive) | Artem Loenko |  | justsitandgrin | Isle of Man | 78 |
-| 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 76 |
+| 7 | [AdamDIOM](https://github.com/AdamDIOM) | Adam Cameron Drummond | Isle of Man Code Club |  | Isle of Man | 77 |
 | 8 | [aquacash5](https://github.com/aquacash5) | Kyle Bloom | IFGL |  | Douglas, Isle of Man | 40 |
 | 9 | [mayconht](https://github.com/mayconht) | Maycon Douglas |  |  | Isle of Man | 38 |
 | 10 | [lproven](https://github.com/lproven) | Liam Proven | The Register | lproven | Douglas, Isle of Man | 36 |

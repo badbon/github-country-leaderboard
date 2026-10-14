@@ -1,15 +1,15 @@
 # Public Contributions - Armenia
 
-Generated: 2026-10-14T02:30:24.496Z
+Generated: 2026-10-14T05:36:38.997Z
 
-Users: 4046
+Users: 4047
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
 | 1 | [prazian](https://github.com/prazian) | Pooyan Razian | Yanovian LLC |  | Yerevan, Armenia | 8784 |
 | 2 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | @thefrontside | wkichdev | Armenia | 6995 |
 | 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Freedx |  | Armenia | 5278 |
-| 4 | [i582](https://github.com/i582) | Petr Makhnev | TON Core | petr_makhneff | Yerevan, Armenia | 5270 |
+| 4 | [i582](https://github.com/i582) | Petr Makhnev | TON Core | petr_makhneff | Yerevan, Armenia | 5084 |
 | 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov |  |  | Yerevan, Armenia | 3716 |
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | BDFL @ Unum | ashvardanian | London, San Francisco, Yerevan | 3618 |
 | 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Fusioncat |  | Armenia | 2610 |

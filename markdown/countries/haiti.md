@@ -14,7 +14,7 @@ Indexed users: 339
 |---:|---|---|---|---:|
 | 1 | [jkenley](https://github.com/jkenley) | Kenley Jean | Haiti | 5,576 |
 | 2 | [jbob9](https://github.com/jbob9) | Jean Baptiste Berlensky O. | Haiti | 4,768 |
-| 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,600 |
+| 3 | [ninjaroot-509](https://github.com/ninjaroot-509) | Castin Stanley | Haiti | 4,593 |
 | 4 | [joassanon](https://github.com/joassanon) | Joas Sanon | Port-au-prince, Haiti | 4,307 |
 | 5 | [jecode93](https://github.com/jecode93) | Jean Emmanuel Cadet | Haiti | 3,555 |
 | 6 | [platon777](https://github.com/platon777) | Wichley Valentin | Haiti | 2,443 |
@@ -83,4 +83,4 @@ Indexed users: 339
 | 19 | [skydevht](https://github.com/skydevht) | Holy-Elie Scaïde | Port-au-prince, Haïti | 32 |
 | 20 | [DybyTechX](https://github.com/DybyTechX) | DybyTechX | haiti | 31 |
 
-Generated: 2026-10-14T02:59:32.428Z
+Generated: 2026-10-14T06:04:38.585Z

@@ -23,7 +23,7 @@ Indexed users: 48
 | 9 | [StoneyTi](https://github.com/StoneyTi) | Tim | Guam | 39 |
 | 10 | [guamencja](https://github.com/guamencja) | guam | Guam | 36 |
 | 11 | [romelanthonysb](https://github.com/romelanthonysb) |  | Guam | 18 |
-| 12 | [nshoemake](https://github.com/nshoemake) | Nick Shoemake | Guam | 17 |
+| 12 | [nshoemake](https://github.com/nshoemake) | Nick Shoemake | Guam | 16 |
 | 13 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | Guam, United, States | 11 |
 | 14 | [alliahdavid](https://github.com/alliahdavid) | Alliah Czarielle | Guam | 10 |
 | 15 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | Guam  | 9 |
@@ -83,4 +83,4 @@ Indexed users: 48
 | 19 | [guamencja](https://github.com/guamencja) | guam | Guam | 4 |
 | 20 | [Rcarganilla](https://github.com/Rcarganilla) | Rizalyn T. Carganilla | Guam | 4 |
 
-Generated: 2026-10-14T02:57:01.054Z
+Generated: 2026-10-14T06:03:04.627Z

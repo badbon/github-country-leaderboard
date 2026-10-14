@@ -1,6 +1,6 @@
 # Public Contributions - French Polynesia
 
-Generated: 2026-10-14T02:55:02.748Z
+Generated: 2026-10-14T05:59:46.309Z
 
 Users: 60
 
@@ -19,7 +19,7 @@ Users: 60
 | 11 | [paraita](https://github.com/paraita) | Paraita Wohler | @e-reo | paraita | Tahiti, French Polynesia | 40 |
 | 12 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 31 |
 | 13 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |
-| 14 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 11 |
+| 14 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 9 |
 | 15 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 7 |
 | 16 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |
 | 17 | [rputoa](https://github.com/rputoa) | Rowan PUTOA |  |  | Papeete, French Polynesia | 6 |

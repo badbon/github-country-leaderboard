@@ -12,7 +12,7 @@ Indexed users: 236
 
 | # | User | Name | Location | Total Contributions |
 |---:|---|---|---|---:|
-| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 22,190 |
+| 1 | [carlswann](https://github.com/carlswann) | Carl Swann | Freeport, Bahamas | 22,646 |
 | 2 | [dbraganca](https://github.com/dbraganca) | dbraganca | Bahamas | 3,282 |
 | 3 | [zoejessica](https://github.com/zoejessica) | Zoë Smith | Bahamas / Canada | 3,154 |
 | 4 | [bondjacobbond](https://github.com/bondjacobbond) | Jacob Bond | Casino Royale, Nassau, Bahamas | 3,083 |
@@ -26,7 +26,7 @@ Indexed users: 236
 | 12 | [Tec4Sho](https://github.com/Tec4Sho) | Ziona | Nassau, Bahamas  | 935 |
 | 13 | [Johndiddles](https://github.com/Johndiddles) | Johndiddles | Nassau, Bahamas | 803 |
 | 14 | [TerryJG](https://github.com/TerryJG) | Terrance | Nassau, Bahamas | 756 |
-| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 741 |
+| 15 | [Clearwood](https://github.com/Clearwood) |  | Bahamas | 745 |
 | 16 | [dorson755](https://github.com/dorson755) | Dorson Williams | Nassau Bahamas | 711 |
 | 17 | [mikepadiernos](https://github.com/mikepadiernos) | Mike Padiernos | Nassau County, NY | 572 |
 | 18 | [nhayling](https://github.com/nhayling) | Noah Hayling | Nassau, The Bahamas | 547 |
@@ -77,10 +77,10 @@ Indexed users: 236
 | 13 | [bryanherger](https://github.com/bryanherger) | Bryan Herger | South Shore of Nassau County, NY | 18 |
 | 14 | [mroker242](https://github.com/mroker242) | Michael Roker | Nassau, Bahamas | 18 |
 | 15 | [TRL242](https://github.com/TRL242) | Roy Lockhart | Victoria, BC and Freeport, Bahamas | 18 |
-| 16 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Bahamas | 17 |
-| 17 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee | Bahamas | 17 |
+| 16 | [BeachMannix](https://github.com/BeachMannix) | Mannix Lee | Bahamas | 17 |
+| 17 | [aulbytj](https://github.com/aulbytj) | Aulbourn Knowles | Bahamas | 16 |
 | 18 | [emajeru](https://github.com/emajeru) | Edison Hanchell | Nassau, Bahamas | 16 |
 | 19 | [paulcitarella](https://github.com/paulcitarella) | Paul Citarella | George Town, Bahamas | 15 |
 | 20 | [yemix](https://github.com/yemix) |  | Bahamas | 14 |
 
-Generated: 2026-10-14T02:33:06.696Z
+Generated: 2026-10-14T05:39:14.522Z

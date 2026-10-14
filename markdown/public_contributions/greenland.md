@@ -1,12 +1,12 @@
 # Public Contributions - Greenland
 
-Generated: 2026-10-14T02:56:16.665Z
+Generated: 2026-10-14T06:02:55.424Z
 
 Users: 59
 
 | # | User | Name | Company | Twitter | Location | Public Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 1993 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 1991 |
 | 2 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1424 |
 | 3 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 901 |
 | 4 | [ibdj](https://github.com/ibdj) | ibdj |  |  | Nuuk, Greenland | 697 |
@@ -22,7 +22,7 @@ Users: 59
 | 14 | [PennyHow](https://github.com/PennyHow) | Penny How | GEUS |  | Nuuk, Greenland | 101 |
 | 15 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago |  |  | Greenland | 77 |
 | 16 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Naxela.info |  | Greenland | 67 |
-| 17 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 44 |
+| 17 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 42 |
 | 18 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Lockheed Martin |  | Greenland | 38 |
 | 19 | [AllanFinnich](https://github.com/AllanFinnich) | Allan Finnich |  |  | Greenland | 22 |
 | 20 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen |  |  | Kalaallit Nunaat (Greenland) | 17 |

@@ -1,13 +1,13 @@
 # Total Contributions - Greenland
 
-Generated: 2026-10-14T02:56:16.665Z
+Generated: 2026-10-14T06:02:55.424Z
 
 Users: 59
 
 | # | User | Name | Company | Twitter | Location | Total Contributions |
 |---:|---|---|---|---|---|---:|
-| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 3976 |
-| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 1776 |
+| 1 | [sgoggins](https://github.com/sgoggins) | Sean P. Goggins | University of Missouri, Aveloxis Foundation | sociallycompute | Greenland | 3967 |
+| 2 | [johan-ejstrud](https://github.com/johan-ejstrud) | Johan Ejstrud | Ejstrud Consulting |  | Nuuk, Greenland | 1761 |
 | 3 | [ProjectAtlantis-dev](https://github.com/ProjectAtlantis-dev) | hello kitty | project-atlantis.ai | atlantis2point0 | Greenland | 1424 |
 | 4 | [ASGDLO](https://github.com/ASGDLO) | ASGDLO | AG |  | Greenland | 1271 |
 | 5 | [filzehoka](https://github.com/filzehoka) | Filze | Tusass  |  | Greenland | 901 |
@@ -23,6 +23,6 @@ Users: 59
 | 15 | [panyster](https://github.com/panyster) | Pany | Tusass  |  | Greenland | 121 |
 | 16 | [Mango-pomelo-sago](https://github.com/Mango-pomelo-sago) | Mango-pomelo-sago |  |  | Greenland | 77 |
 | 17 | [Naxela](https://github.com/Naxela) | Alexander Kleemann | Naxela.info |  | Greenland | 67 |
-| 18 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 44 |
+| 18 | [larpSTATGL](https://github.com/larpSTATGL) | Lars Pedersen | Statistics Greenland |  | Nuuk, Greenland | 42 |
 | 19 | [johandavidsen](https://github.com/johandavidsen) | Jóhan Dam-Davidsen |  |  | Kalaallit Nunaat (Greenland) | 38 |
 | 20 | [Lamtipul](https://github.com/Lamtipul) | Lâm | Lockheed Martin |  | Greenland | 38 |

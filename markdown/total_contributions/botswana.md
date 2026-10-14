@@ -1,6 +1,6 @@
 # Total Contributions - Botswana
 
-Generated: 2026-10-14T02:36:35.894Z
+Generated: 2026-10-14T05:43:51.948Z
 
 Users: 533
 

@@ -1,6 +1,6 @@
 # Total Contributions - Guam
 
-Generated: 2026-10-14T02:57:01.054Z
+Generated: 2026-10-14T06:03:04.627Z
 
 Users: 48
 
@@ -17,7 +17,7 @@ Users: 48
 | 9 | [StoneyTi](https://github.com/StoneyTi) | Tim |  |  | Guam | 39 |
 | 10 | [guamencja](https://github.com/guamencja) | guam |  |  | Guam | 36 |
 | 11 | [romelanthonysb](https://github.com/romelanthonysb) |  |  |  | Guam | 18 |
-| 12 | [nshoemake](https://github.com/nshoemake) | Nick Shoemake | 100Devs, NTT Docomo Pacific | nshoemake_ | Guam | 17 |
+| 12 | [nshoemake](https://github.com/nshoemake) | Nick Shoemake | 100Devs, NTT Docomo Pacific | nshoemake_ | Guam | 16 |
 | 13 | [ReyBan82](https://github.com/ReyBan82) | Renante B Baniaga | AnT1nG Marketing Guam | TweetApp07 | Guam, United, States | 11 |
 | 14 | [alliahdavid](https://github.com/alliahdavid) | Alliah Czarielle | Guam Community College — Majoring in Information Technology  |  | Guam | 10 |
 | 15 | [Ritan671](https://github.com/Ritan671) | Ritan M Borja | KurasonGuahan Wallet  |  | Guam  | 9 |

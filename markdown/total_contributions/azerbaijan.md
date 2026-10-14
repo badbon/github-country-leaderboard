@@ -1,6 +1,6 @@
 # Total Contributions - Azerbaijan
 
-Generated: 2026-10-14T02:31:43.699Z
+Generated: 2026-10-14T05:39:11.160Z
 
 Users: 5077
 
@@ -23,6 +23,6 @@ Users: 5077
 | 15 | [samirmhsnv](https://github.com/samirmhsnv) | Samir Mammadhasanov |  | samirmhsnv | Baku, Azerbaijan | 5599 |
 | 16 | [OrkhanAbbasli](https://github.com/OrkhanAbbasli) | Orkhan Abbasli |  | orkhando | Baku,Azerbaijan | 5281 |
 | 17 | [mahooo0](https://github.com/mahooo0) | Muhemed Ibrahimov |  |  | Azerbaijan | 5262 |
-| 18 | [UlviSuleymanov](https://github.com/UlviSuleymanov) | Ülvi Süleymanov | Bytable Games |  | Sumqayit , Azerbaijan | 5233 |
-| 19 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5045 |
-| 20 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 4767 |
+| 18 | [mirmovsum-abasov](https://github.com/mirmovsum-abasov) | Mirmövsüm Abasov |  |  | Baku, Azerbaijan | 5045 |
+| 19 | [kamranbekirovyz](https://github.com/kamranbekirovyz) | Kamran Bekirov |  | kamranbekirovyz | Baku, Azerbaijan | 4767 |
+| 20 | [frddl](https://github.com/frddl) | Farid M. |  | FaridCodes | Baku, Azerbaijan | 4667 |

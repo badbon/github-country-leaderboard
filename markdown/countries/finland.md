@@ -1,6 +1,6 @@
 # Finland
 
-Indexed users: 18,164
+Indexed users: 18,163
 
 | Leaderboard | Link |
 |---|---|
@@ -16,22 +16,22 @@ Indexed users: 18,164
 | 2 | [cmaster11](https://github.com/cmaster11) | Alberto Marchetti | Helsinki, Finland | 36,415 |
 | 3 | [victorabuchi](https://github.com/victorabuchi) | Victor Abuchi | Finland | 33,819 |
 | 4 | [fmatic](https://github.com/fmatic) | Janne Heinikangas | Jyväskylä, Finland | 32,834 |
-| 5 | [kottinov](https://github.com/kottinov) | Alexander Naakka | Helsinki, Finland | 26,957 |
-| 6 | [snomos](https://github.com/snomos) | Sjur N Moshagen | Helsingfors / Helsinki | 24,519 |
-| 7 | [joonasvanhatapio](https://github.com/joonasvanhatapio) | Joonas Vanhatapio | Helsinki, Finland | 22,531 |
-| 8 | [RoopeHakulinen](https://github.com/RoopeHakulinen) | Roope Hakulinen | Tampere, Finland | 17,699 |
-| 9 | [rollecode](https://github.com/rollecode) | Rolle Laukkarinen | Jyväskylä, Finland | 17,316 |
-| 10 | [JIkaheimo](https://github.com/JIkaheimo) | Jaakko Ikäheimo | Kemi, Finland | 17,077 |
-| 11 | [hugovk](https://github.com/hugovk) | Hugo van Kemenade | Helsinki, Finland | 14,586 |
-| 12 | [sisu](https://github.com/sisu) | Mikko Sysikaski | Finland | 14,088 |
-| 13 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 14,069 |
-| 14 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 13,796 |
-| 15 | [olegp](https://github.com/olegp) | Oleg Podsechin | Helsinki, Finland | 13,224 |
-| 16 | [jgengo](https://github.com/jgengo) | Jordane Angelo Gengo | Finland | 13,073 |
-| 17 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 12,997 |
-| 18 | [mairas](https://github.com/mairas) | Matti Airas | Finland | 12,727 |
-| 19 | [luminaula](https://github.com/luminaula) | Lumi | Finland | 11,865 |
-| 20 | [juusom](https://github.com/juusom) | Juuso Mäyränen | Helsinki, Finland | 11,372 |
+| 5 | [ToukoUrsin](https://github.com/ToukoUrsin) | Touko Ursin | Helsinki | 28,931 |
+| 6 | [kottinov](https://github.com/kottinov) | Alexander Naakka | Helsinki, Finland | 26,957 |
+| 7 | [snomos](https://github.com/snomos) | Sjur N Moshagen | Helsingfors / Helsinki | 24,519 |
+| 8 | [joonasvanhatapio](https://github.com/joonasvanhatapio) | Joonas Vanhatapio | Helsinki, Finland | 22,531 |
+| 9 | [RoopeHakulinen](https://github.com/RoopeHakulinen) | Roope Hakulinen | Tampere, Finland | 17,699 |
+| 10 | [rollecode](https://github.com/rollecode) | Rolle Laukkarinen | Jyväskylä, Finland | 17,316 |
+| 11 | [JIkaheimo](https://github.com/JIkaheimo) | Jaakko Ikäheimo | Kemi, Finland | 17,077 |
+| 12 | [hugovk](https://github.com/hugovk) | Hugo van Kemenade | Helsinki, Finland | 14,586 |
+| 13 | [sisu](https://github.com/sisu) | Mikko Sysikaski | Finland | 14,088 |
+| 14 | [miikkij](https://github.com/miikkij) | Jouni Miikki | Finland | 14,069 |
+| 15 | [JAORMX](https://github.com/JAORMX) | Juan Antonio Osorio | Finland | 13,796 |
+| 16 | [olegp](https://github.com/olegp) | Oleg Podsechin | Helsinki, Finland | 13,224 |
+| 17 | [jgengo](https://github.com/jgengo) | Jordane Angelo Gengo | Finland | 13,073 |
+| 18 | [tkgstrator](https://github.com/tkgstrator) | tkgstrator | Finland | 12,997 |
+| 19 | [mairas](https://github.com/mairas) | Matti Airas | Finland | 12,727 |
+| 20 | [luminaula](https://github.com/luminaula) | Lumi | Finland | 11,865 |
 
 ## Public Contributions
 
@@ -83,4 +83,4 @@ Indexed users: 18,164
 | 19 | [teropa](https://github.com/teropa) | Tero Parviainen | Helsinki, Finland | 1,359 |
 | 20 | [petkaantonov](https://github.com/petkaantonov) | Petka Antonov | Helsinki, Finland | 1,188 |
 
-Generated: 2026-10-14T02:54:29.347Z
+Generated: 2026-10-14T05:59:18.807Z

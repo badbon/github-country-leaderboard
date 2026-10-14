@@ -55,7 +55,7 @@ Indexed users: 1,184
 | 16 | [ilrexho2011](https://github.com/ilrexho2011) | Ilirjan Rexho | Vlorë, Albania | 648 |
 | 17 | [IsliBasha](https://github.com/IsliBasha) | IsliBasha | Tirane, Albania | 642 |
 | 18 | [enesbala5](https://github.com/enesbala5) | Enes Bala | Tirana, Albania | 636 |
-| 19 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 614 |
+| 19 | [Damjanose](https://github.com/Damjanose) | Damjano | Albania, Tirana | 621 |
 | 20 | [kostandinang](https://github.com/kostandinang) | Kostandin Angjellari | Tirana, Albania | 600 |
 
 ## Followers
@@ -83,4 +83,4 @@ Indexed users: 1,184
 | 19 | [SxtBox](https://github.com/SxtBox) | Albdroid.AL | Albania | 81 |
 | 20 | [orgito1015](https://github.com/orgito1015) | PR0F3550R1 | Albania | 75 |
 
-Generated: 2026-10-14T02:28:56.054Z
+Generated: 2026-10-14T05:34:31.725Z

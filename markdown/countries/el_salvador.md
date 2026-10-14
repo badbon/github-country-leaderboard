@@ -72,7 +72,7 @@ Indexed users: 2,376
 | 8 | [Skalas](https://github.com/Skalas) | Miguel Angel Escalante | San Salvador, El Salvador | 153 |
 | 9 | [ferjoaguilar](https://github.com/ferjoaguilar) | Fernando Jose Aguilar Rivas | El Salvador, San Salvador | 142 |
 | 10 | [Alejandroq12](https://github.com/Alejandroq12) | Julio Quezada | El Salvador | 135 |
-| 11 | [josueayala27](https://github.com/josueayala27) | Josué Ayala | San Salvador | 126 |
+| 11 | [josueayala27](https://github.com/josueayala27) | Josué Ayala | San Salvador | 125 |
 | 12 | [dgerardoflores](https://github.com/dgerardoflores) | Gerardo Flores | El Salvador | 124 |
 | 13 | [exequiel-miranda](https://github.com/exequiel-miranda) | Exequiel Miranda | El Salvador | 124 |
 | 14 | [ricardoerl](https://github.com/ricardoerl) | Ricardo Ramírez | El Salvador | 123 |
@@ -83,4 +83,4 @@ Indexed users: 2,376
 | 19 | [hherzl](https://github.com/hherzl) | HH | El Salvador | 97 |
 | 20 | [davequinta](https://github.com/davequinta) | David Quintanilla | El Salvador | 96 |
 
-Generated: 2026-10-14T02:50:22.926Z
+Generated: 2026-10-14T05:55:47.321Z

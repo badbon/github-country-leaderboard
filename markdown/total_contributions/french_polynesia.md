@@ -1,6 +1,6 @@
 # Total Contributions - French Polynesia
 
-Generated: 2026-10-14T02:55:02.748Z
+Generated: 2026-10-14T05:59:46.309Z
 
 Users: 60
 
@@ -22,7 +22,7 @@ Users: 60
 | 14 | [laurentpellet](https://github.com/laurentpellet) | Laurent PELLET | ispf.pf |  | French Polynesia | 49 |
 | 15 | [kavehei-lang](https://github.com/kavehei-lang) | Anastasia - HIKUTINI |  |  | Polynésie Française | 31 |
 | 16 | [teuna](https://github.com/teuna) | Teuna Ferrand |  |  | Tahiti, French Polynesia | 18 |
-| 17 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 14 |
-| 18 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |
+| 17 | [AJamelot](https://github.com/AJamelot) | ajamelot | Laboratoire de Géophysique de Tahiti |  | Polynésie Française | 12 |
+| 18 | [DLTBryan](https://github.com/DLTBryan) |  |  |  | French Polynesia | 12 |
 | 19 | [jbtheou](https://github.com/jbtheou) | Jean-Baptiste Théou |  |  | French Polynesia | 7 |
 | 20 | [MartinBINARD](https://github.com/MartinBINARD) | Martin Binard |  |  | Tahiti, French Polynesia | 7 |

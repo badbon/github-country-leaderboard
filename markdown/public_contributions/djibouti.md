@@ -1,6 +1,6 @@
 # Public Contributions - Djibouti
 
-Generated: 2026-10-14T02:48:00.403Z
+Generated: 2026-10-14T05:53:11.630Z
 
 Users: 55
 
@@ -18,8 +18,8 @@ Users: 55
 | 10 | [moustapha-aden](https://github.com/moustapha-aden) | MOUSTAPHA ADEN DIRIYEH |  |  | Djibouti Dj | 78 |
 | 11 | [rahimamem03-debug](https://github.com/rahimamem03-debug) | Rahima Moussoulouhou Eddine |  |  | Djibouti | 57 |
 | 12 | [adena977](https://github.com/adena977) | Ali aden |  |  | Djibouti  | 48 |
-| 13 | [Mouhya01](https://github.com/Mouhya01) | Mouhyadine Zakaria |  |  | Djibouti | 46 |
-| 14 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 44 |
+| 13 | [Ama-dou](https://github.com/Ama-dou) | Amadou Bah | Manelix Technologies |  | Djibouti | 44 |
+| 14 | [Mouhya01](https://github.com/Mouhya01) | Mouhyadine Zakaria |  |  | Djibouti | 44 |
 | 15 | [nullbyte-low](https://github.com/nullbyte-low) | Sébastien  |  |  | Djibouti  | 44 |
 | 16 | [fathia09](https://github.com/fathia09) | fathia abdourahman mohamed |  |  | Djibouti | 31 |
 | 17 | [ABDOURAHMAN-ILTIREH](https://github.com/ABDOURAHMAN-ILTIREH) | ABOURAHMAN ILTIREH |  |  | DJIBOUTI | 30 |

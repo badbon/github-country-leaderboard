@@ -23,7 +23,7 @@ Indexed users: 78
 | 9 | [almamarie](https://github.com/almamarie) | Louis Marie Atoluko Ayariga | Banjul, The Gambia | 654 |
 | 10 | [geniuskidkanyi](https://github.com/geniuskidkanyi) | muhammed kanyi | Gambia | 628 |
 | 11 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 606 |
-| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 486 |
+| 12 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 488 |
 | 13 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 413 |
 | 14 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
 | 15 | [JonMonday](https://github.com/JonMonday) | JohnMonday | Banjul, The Gambia | 251 |
@@ -37,7 +37,7 @@ Indexed users: 78
 
 | # | User | Name | Location | Public Contributions |
 |---:|---|---|---|---:|
-| 1 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 486 |
+| 1 | [gidavehub](https://github.com/gidavehub) | Godswill Iyke Dave | Banjul, The Gambia | 488 |
 | 2 | [bahsulayman689-hash](https://github.com/bahsulayman689-hash) | sulayman bah | Banjul | 413 |
 | 3 | [kebba-philip](https://github.com/kebba-philip) | KEBBA NJIE | Gambia | 392 |
 | 4 | [ZaynSaul](https://github.com/ZaynSaul) | Saul Zayn | Gambia/Banjul | 368 |
@@ -67,7 +67,7 @@ Indexed users: 78
 | 3 | [deedevs](https://github.com/deedevs) | David Ladipo | Banjul, The Gambia | 26 |
 | 4 | [harunaabaldeh](https://github.com/harunaabaldeh) | Haruna A Baldeh | Banjul | 26 |
 | 5 | [kamariana](https://github.com/kamariana) | A Kamariana | Brikama, Gambia | 24 |
-| 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 16 |
+| 6 | [babasalieu360](https://github.com/babasalieu360) | Momodou Salieu Jallow | Banjul, The Gambia | 17 |
 | 7 | [mathewharb](https://github.com/mathewharb) | Mathew Harb | Gambia | 16 |
 | 8 | [PaAmatJow](https://github.com/PaAmatJow) | Pa Amat Jow | Banjul, The Gambia. | 16 |
 | 9 | [ndimzKM](https://github.com/ndimzKM) | Alieu Ndimbalane | Gambia | 14 |
@@ -83,4 +83,4 @@ Indexed users: 78
 | 19 | [nyassian](https://github.com/nyassian) | EBRIMA NYASSI | Banjul,THE GAMBIA | 8 |
 | 20 | [cyberdavinci](https://github.com/cyberdavinci) | CyberDavinci | Gambia | 7 |
 
-Generated: 2026-10-14T02:55:10.610Z
+Generated: 2026-10-14T06:01:30.308Z

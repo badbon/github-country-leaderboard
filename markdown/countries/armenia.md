@@ -1,6 +1,6 @@
 # Armenia
 
-Indexed users: 4,046
+Indexed users: 4,047
 
 | Leaderboard | Link |
 |---|---|
@@ -40,7 +40,7 @@ Indexed users: 4,046
 | 1 | [prazian](https://github.com/prazian) | Pooyan Razian | Yerevan, Armenia | 8,784 |
 | 2 | [wKich](https://github.com/wKich) | Dmitriy Lazarev | Armenia | 6,995 |
 | 3 | [VaheSaroyan](https://github.com/VaheSaroyan) | Vahe Saroyan | Armenia | 5,278 |
-| 4 | [i582](https://github.com/i582) | Petr Makhnev | Yerevan, Armenia | 5,270 |
+| 4 | [i582](https://github.com/i582) | Petr Makhnev | Yerevan, Armenia | 5,084 |
 | 5 | [disafronov](https://github.com/disafronov) | Dmitrii Safronov | Yerevan, Armenia | 3,716 |
 | 6 | [ashvardanian](https://github.com/ashvardanian) | Ash Vardanian | London, San Francisco, Yerevan | 3,618 |
 | 7 | [m0n0x41d](https://github.com/m0n0x41d) | ivan zakutni | Armenia | 2,610 |
@@ -71,8 +71,8 @@ Indexed users: 4,046
 | 7 | [meanmail](https://github.com/meanmail) | Alexander Petrov | Armenia, Yerevan | 586 |
 | 8 | [hasmiksarg](https://github.com/hasmiksarg) | Has | Yerevan, Armenia | 578 |
 | 9 | [noptrix](https://github.com/noptrix) | noptrix | Armenia, Cyprus, Stack, Heap | 546 |
-| 10 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Yerevan, Armenia | 480 |
-| 11 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | Armenia | 477 |
+| 10 | [AndreiMaz](https://github.com/AndreiMaz) | Andrei Mazulnitsyn | Armenia | 477 |
+| 11 | [vahan-sahakyan](https://github.com/vahan-sahakyan) | Vahan Sahakyan | Yerevan, Armenia | 475 |
 | 12 | [Aramayis331](https://github.com/Aramayis331) | Aramayis Araqelyan | Armenia | 455 |
 | 13 | [armcha](https://github.com/armcha) | Arman | Armenia | 426 |
 | 14 | [gildor2](https://github.com/gildor2) | Konstantin Nosov | Armenia | 414 |
@@ -83,4 +83,4 @@ Indexed users: 4,046
 | 19 | [khoren93](https://github.com/khoren93) | Khoren Markosyan | Yerevan, Armenia | 249 |
 | 20 | [nightwing](https://github.com/nightwing) | Harutyun Amirjanyan | Yerevan, Armenia | 236 |
 
-Generated: 2026-10-14T02:30:24.496Z
+Generated: 2026-10-14T05:36:38.997Z

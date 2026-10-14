@@ -29,7 +29,7 @@ Indexed users: 727
 | 15 | [Ali-Hassan-2000](https://github.com/Ali-Hassan-2000) | ALI SALMAN | Bahrain | 3,795 |
 | 16 | [TayyabaK](https://github.com/TayyabaK) | Tayyaba Khalil | Bahrain | 3,763 |
 | 17 | [mufarrah](https://github.com/mufarrah) | A.Rahman Mufarrah | Bahrain | 3,760 |
-| 18 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,263 |
+| 18 | [Kwaddo](https://github.com/Kwaddo) | Quad | Bahrain | 3,414 |
 | 19 | [ExTBH](https://github.com/ExTBH) | Natheer Radhi | Bahrain | 3,226 |
 | 20 | [nasoooor29](https://github.com/nasoooor29) | Naser Hussain | bahrain | 3,183 |
 
@@ -83,4 +83,4 @@ Indexed users: 727
 | 19 | [f-9t9it](https://github.com/f-9t9it) | 9T9 IT | Bahrain | 42 |
 | 20 | [ameenaltajer](https://github.com/ameenaltajer) | Ameen Altajer | Bahrain | 39 |
 
-Generated: 2026-10-14T02:33:09.721Z
+Generated: 2026-10-14T05:39:20.588Z
