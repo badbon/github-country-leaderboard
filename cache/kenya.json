@@ -19328,7 +19328,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 226,
+    "publicContributions": 27,
     "createdAt": "2025-02-13T04:17:51Z"
   },
   {
@@ -19352,7 +19352,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 5,
     "createdAt": "2025-02-24T20:54:58Z"
   },
   {
@@ -19364,7 +19364,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 0,
     "createdAt": "2025-02-24T14:08:12Z"
   },
   {
@@ -19388,7 +19388,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 71,
+    "publicContributions": 51,
     "createdAt": "2025-04-10T12:15:27Z"
   },
   {
@@ -19400,7 +19400,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 49,
+    "publicContributions": 86,
     "createdAt": "2025-02-23T08:23:08Z"
   },
   {
@@ -19448,7 +19448,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 23,
+    "publicContributions": 30,
     "createdAt": "2025-04-11T17:33:03Z"
   },
   {
@@ -19460,7 +19460,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 94,
+    "publicContributions": 0,
     "createdAt": "2025-05-06T18:20:51Z"
   },
   {
@@ -19508,7 +19508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 42,
+    "publicContributions": 26,
     "createdAt": "2025-01-27T22:49:34Z"
   },
   {
@@ -288334,5 +288334,17 @@
     "privateContributions": 0,
     "publicContributions": 46,
     "createdAt": "2019-08-12T04:54:04Z"
+  },
+  {
+    "login": "akipropdev-source",
+    "name": "Sawyer",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/297892700?s=72&v=4",
+    "location": "Nairobi, Kenya",
+    "company": "",
+    "twitterUsername": "",
+    "followers": 1,
+    "privateContributions": 0,
+    "publicContributions": 27,
+    "createdAt": "2026-06-29T11:32:21Z"
   }
 ]

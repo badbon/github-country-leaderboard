@@ -19507,8 +19507,8 @@
     "company": "Freelance",
     "twitterUsername": "jupiterphyosan",
     "followers": 7,
-    "privateContributions": 675,
-    "publicContributions": 42,
+    "privateContributions": 619,
+    "publicContributions": 49,
     "createdAt": "2017-09-16T14:40:28Z"
   },
   {
@@ -19518,7 +19518,7 @@
     "location": "Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 7,
+    "followers": 6,
     "privateContributions": 0,
     "publicContributions": 0,
     "createdAt": "2017-07-18T19:13:59Z"
@@ -19531,8 +19531,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 7,
-    "privateContributions": 38,
-    "publicContributions": 33,
+    "privateContributions": 130,
+    "publicContributions": 10,
     "createdAt": "2017-11-28T13:34:02Z"
   },
   {
@@ -19544,7 +19544,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 40,
+    "publicContributions": 6,
     "createdAt": "2017-08-11T17:02:24Z"
   },
   {
@@ -19568,7 +19568,7 @@
     "twitterUsername": "",
     "followers": 6,
     "privateContributions": 0,
-    "publicContributions": 248,
+    "publicContributions": 270,
     "createdAt": "2017-05-26T04:24:33Z"
   },
   {
@@ -19590,7 +19590,7 @@
     "location": "Yangon, Myanmar",
     "company": "Business Centric Network Company Limited",
     "twitterUsername": "",
-    "followers": 5,
+    "followers": 7,
     "privateContributions": 0,
     "publicContributions": 12,
     "createdAt": "2017-12-08T04:43:47Z"
@@ -19604,7 +19604,7 @@
     "twitterUsername": "",
     "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 35,
+    "publicContributions": 0,
     "createdAt": "2017-02-01T13:33:36Z"
   },
   {
@@ -19620,18 +19620,6 @@
     "createdAt": "2017-05-29T08:22:52Z"
   },
   {
-    "login": "thetaungg",
-    "name": "Thet Aung",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/30053822?s=72&u=30811618b277f200e10f829c04b1d09f0e433448&v=4",
-    "location": "Yangon, Myanmar",
-    "company": "Webbee Technologies",
-    "twitterUsername": "",
-    "followers": 5,
-    "privateContributions": 1967,
-    "publicContributions": 383,
-    "createdAt": "2017-07-10T17:19:22Z"
-  },
-  {
     "login": "heinhtethtoo",
     "name": "Hein Htet Htoo",
     "avatarUrl": "https://avatars.githubusercontent.com/u/32560959?s=72&u=62b456bbe36fbea4bf9ec34f049754f3ff286cab&v=4",
@@ -19639,8 +19627,8 @@
     "company": "",
     "twitterUsername": "",
     "followers": 5,
-    "privateContributions": 40,
-    "publicContributions": 6,
+    "privateContributions": 38,
+    "publicContributions": 5,
     "createdAt": "2017-10-06T03:52:36Z"
   },
   {
@@ -19663,21 +19651,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 4,
-    "privateContributions": 4817,
-    "publicContributions": 10,
+    "privateContributions": 4696,
+    "publicContributions": 3,
     "createdAt": "2017-08-16T19:52:01Z"
-  },
-  {
-    "login": "bhonemyintkyaw",
-    "name": "Bhone Myint Kyaw",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/28732890?s=72&u=e32dcb1a13f066852cb20c7147f76c57afc7ff40&v=4",
-    "location": "Yangon , Myanmar",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 4,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2017-05-16T13:52:59Z"
   },
   {
     "login": "zeyartun",
@@ -19722,9 +19698,9 @@
     "location": "Yangon, Myanmar",
     "company": "",
     "twitterUsername": "",
-    "followers": 4,
+    "followers": 5,
     "privateContributions": 0,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2017-06-08T14:42:03Z"
   },
   {

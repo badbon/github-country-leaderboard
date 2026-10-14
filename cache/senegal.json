@@ -3404,7 +3404,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 228,
+    "publicContributions": 227,
     "createdAt": "2023-06-27T17:51:42Z"
   },
   {
@@ -3416,7 +3416,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 0,
-    "publicContributions": 2,
+    "publicContributions": 7,
     "createdAt": "2023-09-18T19:25:39Z"
   },
   {
@@ -3427,7 +3427,7 @@
     "company": "Ecole Polytechnique de Thies",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 627,
+    "privateContributions": 640,
     "publicContributions": 59,
     "createdAt": "2023-08-20T13:51:48Z"
   },
@@ -3450,8 +3450,8 @@
     "location": "Dakar",
     "company": "École Supérieure Polytechnique",
     "twitterUsername": "",
-    "followers": 180,
-    "privateContributions": 498,
+    "followers": 179,
+    "privateContributions": 495,
     "publicContributions": 80,
     "createdAt": "2023-10-29T20:07:15Z"
   },
@@ -3463,8 +3463,8 @@
     "company": "Zone 01 Dakar",
     "twitterUsername": "",
     "followers": 165,
-    "privateContributions": 141,
-    "publicContributions": 25,
+    "privateContributions": 319,
+    "publicContributions": 42,
     "createdAt": "2023-04-13T17:23:30Z"
   },
   {
@@ -3474,9 +3474,9 @@
     "location": "Dakar, Sénégal",
     "company": "Abdourahmane",
     "twitterUsername": "",
-    "followers": 48,
-    "privateContributions": 1202,
-    "publicContributions": 135,
+    "followers": 49,
+    "privateContributions": 1203,
+    "publicContributions": 150,
     "createdAt": "2023-12-20T18:02:01Z"
   },
   {
@@ -3484,11 +3484,11 @@
     "name": "Jean Gabriel Goudiaby",
     "avatarUrl": "https://avatars.githubusercontent.com/u/133406363?s=72&u=747cda681ca4a71ca99d6845bb12c5a5134f0c79&v=4",
     "location": "Dakar",
-    "company": "Zone 01",
+    "company": "",
     "twitterUsername": "",
     "followers": 43,
-    "privateContributions": 2707,
-    "publicContributions": 70,
+    "privateContributions": 2702,
+    "publicContributions": 156,
     "createdAt": "2023-05-12T17:58:25Z"
   },
   {
@@ -3500,7 +3500,7 @@
     "twitterUsername": "",
     "followers": 36,
     "privateContributions": 0,
-    "publicContributions": 158,
+    "publicContributions": 157,
     "createdAt": "2023-05-09T15:53:15Z"
   },
   {
@@ -3510,8 +3510,8 @@
     "location": "Dakar",
     "company": "",
     "twitterUsername": "",
-    "followers": 31,
-    "privateContributions": 145,
+    "followers": 32,
+    "privateContributions": 146,
     "publicContributions": 84,
     "createdAt": "2023-12-01T10:29:53Z"
   },
@@ -3535,8 +3535,8 @@
     "company": "Ecole Supérieure Polytechnique",
     "twitterUsername": "",
     "followers": 18,
-    "privateContributions": 3698,
-    "publicContributions": 192,
+    "privateContributions": 4334,
+    "publicContributions": 191,
     "createdAt": "2023-05-14T04:39:13Z"
   },
   {
@@ -3547,7 +3547,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 17,
-    "privateContributions": 332,
+    "privateContributions": 365,
     "publicContributions": 114,
     "createdAt": "2023-05-04T08:53:48Z"
   },
@@ -3560,7 +3560,7 @@
     "twitterUsername": "",
     "followers": 10,
     "privateContributions": 0,
-    "publicContributions": 364,
+    "publicContributions": 366,
     "createdAt": "2023-08-02T09:46:04Z"
   },
   {
@@ -3571,7 +3571,7 @@
     "company": "",
     "twitterUsername": "",
     "followers": 12,
-    "privateContributions": 1180,
+    "privateContributions": 1188,
     "publicContributions": 414,
     "createdAt": "2023-11-06T03:05:52Z"
   },
@@ -3582,8 +3582,8 @@
     "location": "Route Des Almadies, Dakar, Sénégal",
     "company": "Huawei",
     "twitterUsername": "",
-    "followers": 10,
-    "privateContributions": 249,
+    "followers": 11,
+    "privateContributions": 243,
     "publicContributions": 1,
     "createdAt": "2023-05-23T12:52:04Z"
   },
@@ -3596,7 +3596,7 @@
     "twitterUsername": "",
     "followers": 9,
     "privateContributions": 1,
-    "publicContributions": 545,
+    "publicContributions": 719,
     "createdAt": "2023-09-27T12:06:35Z"
   },
   {

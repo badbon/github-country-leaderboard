@@ -19363,21 +19363,9 @@
     "company": "",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 769,
-    "publicContributions": 99,
+    "privateContributions": 337,
+    "publicContributions": 86,
     "createdAt": "2014-01-24T10:45:40Z"
-  },
-  {
-    "login": "delucs",
-    "name": "Luc",
-    "avatarUrl": "https://avatars.githubusercontent.com/u/7610744?s=72&u=da7cde29682fecb54cf9ef30284017c0f47311db&v=4",
-    "location": "Luxembourg",
-    "company": "",
-    "twitterUsername": "",
-    "followers": 2,
-    "privateContributions": 0,
-    "publicContributions": 0,
-    "createdAt": "2014-05-17T12:03:33Z"
   },
   {
     "login": "charboubmustapha",
@@ -19386,9 +19374,9 @@
     "location": "Luxembourg",
     "company": "",
     "twitterUsername": "",
-    "followers": 2,
+    "followers": 4,
     "privateContributions": 1,
-    "publicContributions": 5,
+    "publicContributions": 3,
     "createdAt": "2014-11-05T11:58:53Z"
   },
   {
@@ -19400,7 +19388,7 @@
     "twitterUsername": "perrein",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 3,
+    "publicContributions": 7,
     "createdAt": "2014-01-01T10:56:29Z"
   },
   {
@@ -19411,8 +19399,8 @@
     "company": "@FE-fundinfo ",
     "twitterUsername": "",
     "followers": 2,
-    "privateContributions": 258,
-    "publicContributions": 20,
+    "privateContributions": 279,
+    "publicContributions": 32,
     "createdAt": "2014-07-01T14:37:10Z"
   },
   {
@@ -19436,7 +19424,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 7,
+    "publicContributions": 2,
     "createdAt": "2014-11-18T20:44:52Z"
   },
   {
@@ -19448,7 +19436,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 1,
+    "publicContributions": 0,
     "createdAt": "2014-10-08T08:17:17Z"
   },
   {
@@ -19460,7 +19448,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 14,
-    "publicContributions": 2,
+    "publicContributions": 4,
     "createdAt": "2014-11-21T19:37:07Z"
   },
   {
@@ -19484,7 +19472,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 120,
+    "publicContributions": 126,
     "createdAt": "2014-01-16T05:31:39Z"
   },
   {
@@ -19508,7 +19496,7 @@
     "twitterUsername": "",
     "followers": 2,
     "privateContributions": 0,
-    "publicContributions": 37,
+    "publicContributions": 38,
     "createdAt": "2014-03-27T22:43:31Z"
   },
   {
@@ -19520,7 +19508,7 @@
     "twitterUsername": "",
     "followers": 1,
     "privateContributions": 8,
-    "publicContributions": 29,
+    "publicContributions": 2,
     "createdAt": "2014-06-12T11:01:37Z"
   },
   {
